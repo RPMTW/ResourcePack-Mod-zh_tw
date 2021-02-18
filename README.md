@@ -46,7 +46,7 @@
 翻譯完成後，要上傳給我們的話，請進入 [此網頁](https://github.com/SiongSng/ResourcePack-Mod-zh_tw/new/main)   
 您會看到如下圖 第一個框框請填入`版本(例如1.16、1.17...)`加上`模組ID` 加上 `/`   
 ![test](https://media.discordapp.net/attachments/808603449285410846/811899718300860456/unknown.png)  
-輸入完成後應該會長類是這樣，接著在框框輸入 `lang/` 再加上 `zh_tw.json`(如果原本英文檔案是en-US後面的US是大寫，請將TW也改為大寫，如果原本英文檔案的副檔名是.lang請將副檔名改為.lang而不是.json)  
+輸入完成後應該會長類是這樣，接著在框框輸入 `assets/lang/` 再加上 `zh_tw.json`(如果原本英文檔案是en-US後面的US是大寫，請將TW也改為大寫，如果原本英文檔案的副檔名是.lang請將副檔名改為.lang而不是.json)  
 ![test](https://media.discordapp.net/attachments/808603449285410846/811900110157512734/unknown.png)  
 接著在下方貼上您翻譯後的內容，往下滑在框框內輸入更改內容(建議加上模組版本)，下方較大的框框是敘述可填可不填，再按下Propose new file(提交新文件)按鈕 就可以提交惹。  
 ![test](https://media.discordapp.net/attachments/808603449285410846/811901735412432896/unknown.png)  
