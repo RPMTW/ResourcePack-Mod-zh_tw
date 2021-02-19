@@ -17,8 +17,9 @@
 ## 如何協助我們翻譯?  
 首先到 https://crwd.in/resourcepack-mod-zhtw 這個網站，註冊一個crowdin帳號，然後到網站內選擇繁體中文。  
 ![test](https://media.discordapp.net/attachments/797418280540831744/812284635660681226/unknown.png)  
-下方可以選擇您想要翻譯的模組，或者您也可以按下 Translate all (翻譯全部)，將會進入到一個翻譯界面。  
-上方是英文，下方是輸入中文的地方(如圖)，翻譯完成後請按下SAVE就可以儲存了。  
+下方可以選擇您想要翻譯的模組，或者您也可以按下 Translate all (翻譯全部)，將會進入到一個翻譯界面。 
+![test](https://media.discordapp.net/attachments/797418280540831744/812287291586117632/unknown.png?width=1068&height=701) 
+上方是英文，下方是輸入中文的地方(如下圖)，翻譯完成後請按下SAVE就可以儲存了。  
 ![test](https://media.discordapp.net/attachments/797418280540831744/812285434322485269/unknown.png)    
 ### 翻譯準則
 請注意標點符號(例如`""``%s`)，否則可能會導致無法正常載入翻譯。
