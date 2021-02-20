@@ -1,4 +1,4 @@
-commit_message: '新的翻譯提交(%original_file_name%)'
+commit_message: '新的翻譯提交 (來自 %original_path/%locale_with_underscore%.json%)'
 append_commit_message: false
 files:
   - source: assets*
