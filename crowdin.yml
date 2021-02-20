@@ -1,3 +1,4 @@
+commit_message: '[skip travis]'
 files:
   - source: assets*
     translation: '%original_path%/%locale_with_underscore%.json'
