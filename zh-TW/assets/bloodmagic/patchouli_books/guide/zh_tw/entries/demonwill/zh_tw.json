@@ -1,5 +1,5 @@
 {
-  "name": "Your First Will2",
+  "name": "Your First Will",
   "icon": "bloodmagic:soulsnare",
   "category": "demonwill",
   "pages": [
@@ -10,6 +10,15 @@
     {
       "type": "crafting",
       "recipe": "bloodmagic:soul_snare"
+    },
+    {
+      "type": "image",
+      "images": [
+        "bloodmagic:images/entries/demonwill/soul_snare.png"
+      ],
+      "title": "Snare on Skeleton",
+      "border": true,
+      "text": "A skeleton with white particles after hit by a snare."
     }
   ]
 }
