@@ -1,21 +1,26 @@
 {
-  "name": "Lava Sigil",
-  "icon": "bloodmagic:lavasigil",
+  "name": "Sigil of the Green Grove",
+  "icon": "bloodmagic:growthsigil",
   "category": "sigil",
   "pages": [
     {
       "type": "text",
-      "text": "The sister sigil to the $(l:sigil/water)Water Sigil,$(/l) the $(item)Lava Sigil$() creates a source block of lava where you click on the ground for the cost of 1000LP. Crafted in an $(l:alchemyarray/arcaneash)Alchemy Array$(/l) using a $(item)Lava Reagent$() and a $(item)Blank Slate,$() it'll drain 5 hearts from you if you don't have enough LP in your $(l:altar/soulnetwork)Soul Network.$(/l)"
+      "text": "The $(item)Sigil of the Green Grove$() is an item that has multiple uses. Crafted in an array with a $(item)Growth Reagent$(item) and a $(item)Reinforced Slate$(), the sigil can use the power of your stored life force to nourish and grow nearby plants."
     },
     {
       "type": "image",
       "images": [
-        "bloodmagic:images/entries/sigil/lava_sigil1.png",
-        "bloodmagic:images/entries/sigil/lava_sigil2.png"
+        "bloodmagic:images/entries/sigil/grove_sigil1.png",
+        "bloodmagic:images/entries/sigil/grove_sigil2.png",
+        "bloodmagic:images/entries/sigil/grove_sigil3.png"
       ],
-      "title": "Lava Sigil Array",
+      "title": "Green Grove Sigil Array",
       "border": true,
-      "text": "The Lava Sigil, next to its crafting array, plus its primary use."
+      "text": "The Sigil of the Green Grove's array, plus its primary uses."
+    },
+    {
+      "type": "text",
+      "text": "If you right click on a block that is $(2)IGrowable$(), it will apply the bonemeal effect while consuming 150LP.$(br2)However, if you shift-right-click the sigil in the air, the sigil will light up to indicate that it is activated and will consume 150LP every 10 seconds. Every block in a 7x7x5 high volume centered on the player will have a growth tick applied to it, growing nearby crops. Good for farming those taters!"
     }
   ]
 }
