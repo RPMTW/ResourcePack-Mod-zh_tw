@@ -25,7 +25,7 @@ jobs:
        
       - uses: papeloto/action-zip@v1 #zipped file 1.16
         with:
-          files: zh-TW/assets/
+          files: zh-TW
           dest: RPMTW-1.16-V${{ github.run_number }}.zip
       - name: Upload 1.16 release
         id: one
