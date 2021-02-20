@@ -1,6 +1,6 @@
 {
-  "name": "Your First Will",
-  "icon": "bloodmagic:soulsnare",
+  "name": "Hellfire Forge",
+  "icon": "bloodmagic:soulforge",
   "category": "demonwill",
   "pages": [
     {
@@ -9,16 +9,7 @@
     },
     {
       "type": "crafting",
-      "recipe": "bloodmagic:soul_snare"
-    },
-    {
-      "type": "image",
-      "images": [
-        "bloodmagic:images/entries/demonwill/soul_snare.png"
-      ],
-      "title": "Snare on Skeleton",
-      "border": true,
-      "text": "A skeleton with white particles after hit by a snare."
+      "recipe": "bloodmagic:soul_forge"
     }
   ]
 }
