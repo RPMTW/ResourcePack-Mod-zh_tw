@@ -26,14 +26,14 @@ jobs:
       - uses: papeloto/action-zip@v1 #zipped file 1.16
         with:
           files: zh-TW/assets/
-          dest: ResourcePack-Mod-zh_tw+Snapshot-1.16-V${{ github.run_number }}.zip
+          dest: RPMTW-1.16-V${{ github.run_number }}.zip
       - name: Upload 1.16 release
         id: one
         uses: svenstaro/upload-release-action@v2
         with:
           repo_token: ${{ secrets.GITHUB_TOKEN }}
-          tag: Snapshot-V${{ github.run_number }}
-          file: ${{ github.workspace }}/ResourcePack-Mod-zh_tw+Snapshot-1.16-V${{ github.run_number }}.zip
-          asset_name: ResourcePack-Mod-zh_tw+Snapshot-1.16-V${{ github.run_number }}.zip
+          tag: RPMTW-V${{ github.run_number }}
+          file: ${{ github.workspace }}/RPMTW-1.16-V${{ github.run_number }}.zip
+          asset_name: RPMTW-1.16-V${{ github.run_number }}.zip
           overwrite: true 
           body: "繁體中文化模組資源包(RPMTW) 版本:V${{ github.run_number }} \n1.16繁體中文化模組材質包 [點我下載](${{ steps.one.output.browser_download_url }})"
