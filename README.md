@@ -6,11 +6,15 @@
 
 ## 主旨:
 > 希望透過此專案能夠將curseforge上的模組進行繁體中文化翻譯，讓遊玩模組/模組包時不再被看不懂的語言困惑。  
-
+## 資訊
+|翻譯進度|最新版本|Github Actions|
+|:------:|:----:|:------------:|
+[![Crowdin](https://badges.crowdin.net/resourcepack-mod-zhtw/localized.svg)](https://crowdin.com/project/resourcepack-mod-zhtw)|[![latest](https://img.shields.io/github/release/Barry23412/Siong-Sng-fantasy-World.svg)](https://github.com/Barry23412/Siong-Sng-fantasy-World/releases/latest)|[![Actions](https://github.com/SiongSng/ResourcePack-Mod-zh_tw/workflows/CI/badge.svg)](https://github.com/SiongSng/ResourcePack-Mod-zh_tw/actions)|
 ## 如何下載/安裝此資源包?
 首先請先到 [這裡](https://github.com/SiongSng/ResourcePack-Mod-zh_tw/releases/latest) 會有最新版本的資源包 依據教學下載下來
 然後到遊戲內的 ESC>選項>資源包>開啟資源包資料夾 把下載下來的檔案丟進去即可。  
    
+
 ## 支援
 遇到問題了? 歡迎到我們的[Discord伺服器](https://discord.gg/5w9BUM4)詢問呦!    
   
