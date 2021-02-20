@@ -1,4 +1,4 @@
-commit_message: '[skip travis]'
+commit_message: '新的翻譯提交(%original_file_name%)'
 files:
   - source: assets*
     translation: '%original_path%/%locale_with_underscore%.json'
