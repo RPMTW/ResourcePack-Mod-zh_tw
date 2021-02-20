@@ -9,7 +9,7 @@
 ## 資訊
 |翻譯進度|最新版本|Github Actions|
 |:------:|:----:|:------------:|
-[![Crowdin](https://badges.crowdin.net/resourcepack-mod-zhtw/localized.svg)](https://crowdin.com/project/resourcepack-mod-zhtw)|[![latest](https://img.shields.io/github/release/Barry23412/Siong-Sng-fantasy-World.svg)](https://github.com/Barry23412/Siong-Sng-fantasy-World/releases/latest)|[![Actions](https://github.com/SiongSng/ResourcePack-Mod-zh_tw/workflows/CI/badge.svg)](https://github.com/SiongSng/ResourcePack-Mod-zh_tw/actions)|
+[![Crowdin](https://badges.crowdin.net/resourcepack-mod-zhtw/localized.svg)](https://crowdin.com/project/resourcepack-mod-zhtw)|[![latest](https://img.shields.io/github/release/Barry23412/Siong-Sng-fantasy-World.svg)](https://github.com/SiongSng/ResourcePack-Mod-zh_tw/releases/latest)|[![Actions](https://github.com/SiongSng/ResourcePack-Mod-zh_tw/workflows/CI/badge.svg)](https://github.com/SiongSng/ResourcePack-Mod-zh_tw/actions)|
 ## 如何下載/安裝此資源包?
 首先請先到 [這裡](https://github.com/SiongSng/ResourcePack-Mod-zh_tw/releases/latest) 會有最新版本的資源包 依據教學下載下來
 然後到遊戲內的 ESC>選項>資源包>開啟資源包資料夾 把下載下來的檔案丟進去即可。  
