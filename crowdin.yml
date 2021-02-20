@@ -1,4 +1,4 @@
-commit_message: " 新的翻譯提交 (來自 %original_path%/%original_name%)"
+commit_message: " 新的翻譯提交 (來自 %original_path%/%original_file_name%)"
 append_commit_message: false
 files:
   - source: assets*
