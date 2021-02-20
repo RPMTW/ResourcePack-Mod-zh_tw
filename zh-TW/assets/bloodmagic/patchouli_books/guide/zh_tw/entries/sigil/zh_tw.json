@@ -1,24 +1,21 @@
 {
-  "name": "Divination Sigil",
-  "icon": "bloodmagic:divinationsigil",
+  "name": "Water Sigil",
+  "icon": "bloodmagic:watersigil",
   "category": "sigil",
   "pages": [
     {
       "type": "text",
-      "text": "The $(item)Divination Sigil$() is probably the first of many sigils that you would like to craft in Blood Magic. In order to craft the sigil, you need to create an $(l:alchemyarray/arcaneash)Alchemy Array$(/l) and use $(item)Redstone Dust$() and a $(item)Blank Slate$() as the base and catalyst items, respectively."
+      "text": "The $(item)Water Sigil$() is a rather simple sigil. By right clicking on a block, you can drain 100LP from your $(l:altar/soulnetwork)Soul Network$(/l) to place a source block of water in the world. If there's not enough LP, it will instead drain the toll from your health. Crafted using a $(item)Water Reagent$() and a $(item)Blank Slate.$()"
     },
     {
       "type": "image",
       "images": [
-        "bloodmagic:images/entries/sigil/divination_sigil.png"
+        "bloodmagic:images/entries/sigil/water_sigil1.png",
+        "bloodmagic:images/entries/sigil/water_sigil2.png"
       ],
-      "title": "Divination Sigil Array",
+      "title": "Water Sigil Array",
       "border": true,
-      "text": "The Divination Sigil, next to its crafting array."
-    },
-    {
-      "type": "text",
-      "text": "The Divination Sigil has two primary uses: $(br)$(li)When the player right-clicks in the air with the sigil, it will display the amount of LP that is in the owner's $(l:altar/soulnetwork)Soul Network.$(/l)$(li)When clicking on a $(l:altar/bloodaltar)Blood Altar$(/l), it will tell the player the altar's current Tier, the amount of LP stored in the altar, as well as its current max capacity. Having a $(item)Divination Sigil$() on hand can also be helpful for other block applications, but that will be covered later."
+      "text": "The Water Sigil, next to its crafting array, plus its primary use."
     }
   ]
 }
