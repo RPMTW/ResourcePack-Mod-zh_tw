@@ -1,8 +1,12 @@
 {
-  "name": "Soul Network",
-  "icon": "bloodmagic:weakbloodorb",
+  "name": "The Blood Altar",
+  "icon": "bloodmagic:altar",
   "category": "altar",
   "pages": [
+    {
+      "type": "text",
+      "text": ""
+    },
     {
       "type": "text",
       "text": ""
