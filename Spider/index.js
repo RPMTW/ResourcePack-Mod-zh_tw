@@ -24,7 +24,7 @@ const request = httpRequest.request(`https://addons-ecs.forgesvc.net/api/v2/addo
         });
         request.on('error', error => console.log(error))
 
-        let dirPath = path.join(__dirname, "mod");
+        let dirPath = path.join(__dirname, "/Spider/mod");
         if (!fs.existsSync(dirPath)) {
             fs.mkdirSync(dirPath);
         }
@@ -44,7 +44,7 @@ const request = httpRequest.request(`https://addons-ecs.forgesvc.net/api/v2/addo
                     let stream = fs.createWriteStream(path.join(dirPath, fileName));
                     request_one(url).pipe(stream).on("close", function (err) {
                             console.log("模組: " + responseData[i].name + "下載完成" + "(" + String(i / modCount * 100).substr(0, 2) + "%)");
-                            compressing.zip.uncompress(`./mod/${fileName}`, "../jar/" + responseData[i].slug).then(() => compressing_done())
+                            compressing.zip.uncompress(`./Spider/mod/${fileName}`, "../jar/" + responseData[i].slug).then(() => compressing_done())
 
                             function compressing_done() {
                                 console.log(`模組: ${responseData[i].name} 解壓縮完畢`)
