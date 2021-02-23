@@ -24,7 +24,7 @@ const request = httpRequest.request(`https://addons-ecs.forgesvc.net/api/v2/addo
         });
         request.on('error', error => console.log(error))
 
-        let dirPath = path.join(__dirname, "/Spider/mod");
+        let dirPath = path.join(__dirname, "/mod");
         if (!fs.existsSync(dirPath)) {
             fs.mkdirSync(dirPath);
         }
