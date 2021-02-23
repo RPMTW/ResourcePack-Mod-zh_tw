@@ -6,8 +6,6 @@ name: Node.js CI
 on:
   push:
     branches: [ "1.16" ]
-  pull_request:
-    branches: [ "1.16" ]
 
 jobs:
   build:
@@ -28,6 +26,11 @@ jobs:
     - run: npm i
     - run: cd ${{ github.workspace }}/Spider
     - run: node ${{ github.workspace }}/Spider/index.js
+    - name: Commit files
+      run: |
+        git config --local user.name "SiongSng"
+        git add ./assets
+        git commit -m "更新原始英文文本"
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
