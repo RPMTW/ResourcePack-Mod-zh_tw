@@ -1,0 +1,16 @@
+{
+  "gamerule.LayingBox_biomerequired": "Biome specific resource chickens",
+  "block.layingbox.laying_box": "Laying Box",
+  "block.layingbox.egg_collector": "Egg Collector",
+  "item.layingbox.animal_net": "Animal Net",
+  "item.layingbox.netted_animal": "Caught Animal",
+  "item.layingbox.netted_animal.id": "Contains: %s",
+  "item.layingbox.netted_animal.customid": "%s (%s)",
+  "item.layingbox.love_wand": "Love Wand",
+  "item.layingbox.inspector": "Inspector",
+  "item.layingbox.production_wand": "Production Wand",
+  "message.layingbox.production": "%s has a production value of %.2f",
+  "container.layingbox.egg_collector": "Egg Collector",
+  "itemGroup.layingbox.item_group": "Laying Box",
+  "itemGroup.layingbox.spawn_eggs_group": "Laying Box Spawn Eggs"
+}
