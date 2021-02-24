@@ -53,17 +53,17 @@ const request = httpRequest.request(`https://addons-ecs.forgesvc.net/api/v2/addo
                                 let dirPath_3 = path.join(__dirname, `jar/${responseData[i].slug}/mcmod.info`);
                                 let dirPath_6 = path.join(__dirname, `.jar/${responseData[i].slug}/fabric.mod.json`);
                                 if (fs.existsSync(dirPath_2)) {
-                                    fs.createReadStream(`../jar/${responseData[i].slug}/META-INF/mods.toml`, 'utf8').pipe(concat(function (data, err) {
+                                    fs.createReadStream(`jar/${responseData[i].slug}/META-INF/mods.toml`, 'utf8').pipe(concat(function (data, err) {
                                         mod_id = JSON.parse(JSON.stringify(toml.parse(data))).mods[0].modId
                                         mod_assets(mod_id);
                                     }));
                                 } else if (fs.existsSync(dirPath_3)) {
-                                    fs.createReadStream(`../jar/${responseData[i].slug}/mcmod.info`, 'utf8').pipe(concat(function (data, err) {
+                                    fs.createReadStream(`jar/${responseData[i].slug}/mcmod.info`, 'utf8').pipe(concat(function (data, err) {
                                         mod_id = JSON.parse(data)[0].modid;
                                         mod_assets(mod_id);
                                     }));
                                 } else if (fs.existsSync(dirPath_6)) {
-                                    fs.createReadStream(`../jar/${responseData[i].slug}/fabric.mod.json`, 'utf8').pipe(concat(function (data, err) {
+                                    fs.createReadStream(`jar/${responseData[i].slug}/fabric.mod.json`, 'utf8').pipe(concat(function (data, err) {
                                         mod_id = JSON.parse(data).id;
                                         mod_assets(mod_id);
                                     }));
