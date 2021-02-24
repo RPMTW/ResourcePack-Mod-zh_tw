@@ -28,7 +28,7 @@ const request = httpRequest.request(`https://addons-ecs.forgesvc.net/api/v2/addo
         if (!fs.existsSync(dirPath)) {
             fs.mkdirSync(dirPath);
         }
-        let dirPath_9 = path.join(__dirname, "../assets");
+        let dirPath_9 = path.join(__dirname, "assets");
         if (!fs.existsSync(dirPath_9)) {
             fs.mkdirSync(dirPath_9);
         }
@@ -44,14 +44,14 @@ const request = httpRequest.request(`https://addons-ecs.forgesvc.net/api/v2/addo
                     let stream = fs.createWriteStream(path.join(dirPath, fileName));
                     request_one(url).pipe(stream).on("close", function (err) {
                             console.log("模組: " + responseData[i].name + "下載完成" + "(" + String(i / modCount * 100).substr(0, 2) + "%)");
-                            compressing.zip.uncompress(`./Spider/mod/${fileName}`, "../jar/" + responseData[i].slug).then(() => compressing_done())
+                            compressing.zip.uncompress(`./Spider/mod/${fileName}`, "jar/" + responseData[i].slug).then(() => compressing_done())
 
                             function compressing_done() {
                                 console.log(`模組: ${responseData[i].name} 解壓縮完畢`)
                                 let mod_id = "";
-                                let dirPath_2 = path.join(__dirname, `../jar/${responseData[i].slug}/META-INF/mods.toml`);
-                                let dirPath_3 = path.join(__dirname, `../jar/${responseData[i].slug}/mcmod.info`);
-                                let dirPath_6 = path.join(__dirname, `../jar/${responseData[i].slug}/fabric.mod.json`);
+                                let dirPath_2 = path.join(__dirname, `jar/${responseData[i].slug}/META-INF/mods.toml`);
+                                let dirPath_3 = path.join(__dirname, `jar/${responseData[i].slug}/mcmod.info`);
+                                let dirPath_6 = path.join(__dirname, `.jar/${responseData[i].slug}/fabric.mod.json`);
                                 if (fs.existsSync(dirPath_2)) {
                                     fs.createReadStream(`../jar/${responseData[i].slug}/META-INF/mods.toml`, 'utf8').pipe(concat(function (data, err) {
                                         mod_id = JSON.parse(JSON.stringify(toml.parse(data))).mods[0].modId
@@ -70,18 +70,18 @@ const request = httpRequest.request(`https://addons-ecs.forgesvc.net/api/v2/addo
                                 }
 
                                 function mod_assets(mod_id) {
-                                    let dirPath_4 = path.join(__dirname, "../jar/" + responseData[i].slug + "/assets/" + mod_id + "/lang/en_us.json");
+                                    let dirPath_4 = path.join(__dirname, "jar/" + responseData[i].slug + "/assets/" + mod_id + "/lang/en_us.json");
                                     if (!fs.existsSync(dirPath_4)) return
 
-                                    let dirPath_5 = path.join(__dirname, "../assets/" + mod_id);
+                                    let dirPath_5 = path.join(__dirname, "assets/" + mod_id);
                                     if (!fs.existsSync(dirPath_5)) {
                                         fs.mkdirSync(dirPath_5);
                                     }
-                                    let dirPath_1 = path.join(__dirname, "../assets/" + mod_id + "/lang");
+                                    let dirPath_1 = path.join(__dirname, "assets/" + mod_id + "/lang");
                                     if (!fs.existsSync(dirPath_1)) {
                                         fs.mkdirSync(dirPath_1);
                                     }
-                                    fs.copyFile("../jar/" + responseData[i].slug + "/assets/" + mod_id + "/lang/en_us.json", "../assets/" + mod_id + "/lang/en_us.json", (err) => {
+                                    fs.copyFile("jar/" + responseData[i].slug + "/assets/" + mod_id + "/lang/en_us.json", "assets/" + mod_id + "/lang/en_us.json", (err) => {
                                         console.log("成功移動模組: " + responseData[i].name + "的原始翻譯文本")
                                         if (err) throw err;
                                     })
