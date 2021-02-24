@@ -29,6 +29,7 @@ jobs:
     - name: Commit files
       run: |
         ls
+        ls ./Spider
         git config --local user.name "SiongSng"
         git add ./assets
         git commit -m "更新翻譯原始英文文本"
