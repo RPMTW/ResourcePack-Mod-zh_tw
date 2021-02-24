@@ -31,7 +31,7 @@ jobs:
         ls
         git config --local user.name "SiongSng"
         git add ./assets
-        git commit -m "更新原始英文文本"
+        git commit -m "更新翻譯原始英文文本"
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
