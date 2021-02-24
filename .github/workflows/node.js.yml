@@ -28,6 +28,7 @@ jobs:
     - run: node ${{ github.workspace }}/Spider/index.js
     - name: Commit files
       run: |
+        ls
         git config --local user.name "SiongSng"
         git add ./assets
         git commit -m "更新原始英文文本"
