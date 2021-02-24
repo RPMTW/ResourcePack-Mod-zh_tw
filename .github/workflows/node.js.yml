@@ -10,7 +10,7 @@ on:
 jobs:
   build:
 
-    runs-on: ubuntu-latest
+    runs-on: windows-latest
 
     strategy:
       matrix:
@@ -24,8 +24,11 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
     - run: npm i
-    - run: cd ${{ github.workspace }}/Spider
-    - run: node ${{ github.workspace }}/Spider/index.js
+    - run: |
+       cd ${{ github.workspace }}/Spider
+       node .
+  
+    # - run: node ${{ github.workspace }}/Spider/index.js
     - name: Commit files
       run: |
         ls 
