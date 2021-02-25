@@ -34,5 +34,6 @@
 如果發現在crowdin中沒有您想要翻譯的模組，可以到我們的[Discord伺服器](https://discord.gg/5w9BUM4)，Tag菘菘#8663，我會盡快幫您新增翻譯選項。
 ## 銘謝
 自動撈取curseforge上的原始翻譯檔案工具->特別感謝:幽浮貓(YumekuiiNight#1550)、芒果凍布丁(YT Mango#4092) 提供本工具開發建議。
+感謝全體翻譯人員-> [這裡可以看到所有貢獻翻譯的人員動態](https://crowdin.com/project/resourcepack-mod-zhtw/activity_stream)
 
 ### 感謝所有為這個資源包貢獻的人，幫助這個材質包推廣的人，你們辛苦了，感激不盡。  
