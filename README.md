@@ -1,5 +1,5 @@
 # ResourcePack-Mod-zh_tw  
- 
+[![CC](https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/) 
 ## 介紹
 一個兼容Forge/Fabric的Minecraft繁體中文化模組的資源包。  
 此翻譯專案不同於以往的方式，我們先使用一個自製的工具(此儲存庫裡有原始碼)，自動撈取curseforge上的熱門模組下載下來進行分析，抓出模組檔案上傳到crowdin平台，再使用crowdin平台進行翻譯，如果有翻譯變動會自動產生新的資源包檔案，讓大家能夠以最快速拿到第一手檔案。
@@ -7,9 +7,9 @@
 ## 主旨:
 > 希望透過此專案能夠將curseforge上的模組進行繁體中文化翻譯，讓遊玩模組/模組包時不再被看不懂的語言困惑。  
 ## 資訊
-|翻譯進度|最新快照版本|Github Actions|Github Releases download count|
-|:-----:|:--------:|:------------:|:----------------------------:|
-[![Crowdin](https://badges.crowdin.net/resourcepack-mod-zhtw/localized.svg)](https://crowdin.com/project/resourcepack-mod-zhtw)|[![latest](https://img.shields.io/github/release/SiongSng/ResourcePack-Mod-zh_tw.svg)](https://github.com/SiongSng/ResourcePack-Mod-zh_tw/releases/latest)|[![Actions](https://github.com/SiongSng/ResourcePack-Mod-zh_tw/workflows/CI/badge.svg)](https://github.com/SiongSng/ResourcePack-Mod-zh_tw/actions)|[![d](https://img.shields.io/github/downloads/SiongSng/ResourcePack-Mod-zh_tw/total.svg)](https://github.com/SiongSng/ResourcePack-Mod-zh_tw/releases)
+|翻譯進度|最新快照版本|Github Actions|Github Releases download count|Curseforge download count|
+|:-----:|:--------:|:------------:|:----------------------------:|------------------------:|
+[![Crowdin](https://badges.crowdin.net/resourcepack-mod-zhtw/localized.svg)](https://crowdin.com/project/resourcepack-mod-zhtw)|[![latest](https://img.shields.io/github/release/SiongSng/ResourcePack-Mod-zh_tw.svg)](https://github.com/SiongSng/ResourcePack-Mod-zh_tw/releases/latest)|[![Actions](https://github.com/SiongSng/ResourcePack-Mod-zh_tw/workflows/CI/badge.svg)](https://github.com/SiongSng/ResourcePack-Mod-zh_tw/actions)|[![d](https://img.shields.io/github/downloads/SiongSng/ResourcePack-Mod-zh_tw/total.svg)](https://github.com/SiongSng/ResourcePack-Mod-zh_tw/releases)|[![curseforge](http://cf.way2muchnoise.eu/full_448833_downloads.svg)](https://www.curseforge.com/minecraft/texture-packs/resourcepack-mod-zh_tw)
 ## 如何下載/安裝此資源包?
 首先請先到 [這裡](https://github.com/SiongSng/ResourcePack-Mod-zh_tw/releases/latest) 會有最新版本的資源包，下載完成後到遊戲內的 ESC>選項>資源包>開啟資源包資料夾 把下載下來的檔案丟進去，再把資源包載入，再按下 完成 等待一下子就完成載入資源包囉!。  
    
