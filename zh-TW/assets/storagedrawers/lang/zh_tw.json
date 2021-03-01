@@ -87,7 +87,7 @@
     "message.storagedrawers.max_upgrades": "這個抽屜已無法接受更多的升級。",
     "tooltip.storagedrawers.drawers.capacity": "每個抽屜格可以儲存%d組同類物品。",
     "tooltip.storagedrawers.drawers.sealed": "內容物已經封存，可供搬運。",
-    "tooltip.storagedrawers.waila.empty": "<空>",
+    "tooltip.storagedrawers.waila.empty": "<Empty>",
     "tooltip.storagedrawers.waila.drawer": "#%s: %s",
     "tooltip.storagedrawers.waila.nolimit": "堆疊上限: ∞",
     "tooltip.storagedrawers.waila.limit": "堆疊上限: %s (x%s)",
