@@ -15,7 +15,7 @@
    
 
 ## 支援
-遇到問題了? 歡迎到我們的[Discord伺服器](https://discord.gg/5w9BUM4)詢問呦!    
+遇到問題了? 歡迎到我們的[Discord伺服器](https://discord.gg/5xApZtgV2u)詢問呦!    
   
 ## 如何協助我們翻譯?  
 請查看本繁體中文化模組資源包的官方網站 [點我前往](https://sites.google.com/view/resourcepack-mod-zh-tw/)  
