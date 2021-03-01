@@ -21,6 +21,8 @@
 請查看本繁體中文化模組資源包的官方網站 [點我前往](https://sites.google.com/view/resourcepack-mod-zh-tw/)  
 ## 想要新增其他模組的翻譯?
 如果發現在crowdin中沒有您想要翻譯的模組，可以到我們的[Discord伺服器](https://discord.gg/5xApZtgV2u)，到#建議新翻譯 這個頻道，我會盡快幫您新增翻譯選項。
+## 授權
+本著作係採用創用 [姓名標示-非商業性-相同方式分享 4.0 國際 (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh_TW) 授權條款授權
 ## 銘謝
 自動撈取curseforge上的原始翻譯檔案工具->特別感謝:幽浮貓(YumekuiiNight#1550)、芒果凍布丁(YT Mango#4092) 提供本工具開發建議。
 感謝全體翻譯人員-> [這裡可以看到所有貢獻翻譯的人員動態](https://crowdin.com/project/resourcepack-mod-zhtw/activity_stream)
