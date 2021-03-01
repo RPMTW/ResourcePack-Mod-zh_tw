@@ -7,7 +7,7 @@
 ## 主旨:
 > 希望透過此專案能夠將curseforge上的模組進行繁體中文化翻譯，讓遊玩模組/模組包時不再被看不懂的語言困惑。  
 ## 資訊
-|翻譯進度|最新快照版本|Github Actions|Github Releases download count|Curseforge 下載次數|
+|翻譯進度|最新快照版本|Github Actions|Github Releases 下載次數|Curseforge 下載次數|
 |:-----:|:--------:|:------------:|:----------------------------:|------------------------:|
 [![Crowdin](https://badges.crowdin.net/resourcepack-mod-zhtw/localized.svg)](https://crowdin.com/project/resourcepack-mod-zhtw)|[![latest](https://img.shields.io/github/release/SiongSng/ResourcePack-Mod-zh_tw.svg)](https://github.com/SiongSng/ResourcePack-Mod-zh_tw/releases/latest)|[![Actions](https://github.com/SiongSng/ResourcePack-Mod-zh_tw/workflows/CI/badge.svg)](https://github.com/SiongSng/ResourcePack-Mod-zh_tw/actions)|[![d](https://img.shields.io/github/downloads/SiongSng/ResourcePack-Mod-zh_tw/total.svg)](https://github.com/SiongSng/ResourcePack-Mod-zh_tw/releases)|[![curseforge](http://cf.way2muchnoise.eu/full_448833_downloads.svg)](https://www.curseforge.com/minecraft/texture-packs/resourcepack-mod-zh_tw)
 ## 如何下載/安裝此資源包?
