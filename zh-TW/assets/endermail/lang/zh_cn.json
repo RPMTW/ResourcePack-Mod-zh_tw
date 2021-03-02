@@ -1,0 +1,35 @@
+{
+    "_comment": "Ender Mail Language File",
+    "_comment": "Chinese(Simplified) - China Mainland",
+
+    "_comment": "BLOCKS",
+    "block.endermail.package": "包裹",
+    "block.endermail.locker": "储物柜",
+
+    "_comment": "ITEMS",
+    "item.endermail.package_controller": "包裹控制器",
+    "item.endermail.packing_tape": "包装胶带",
+    "item.endermail.stamp": "邮票",
+
+    "_comment": "STRINGS",
+    "string.endermail.cancel": "取消",
+    "string.endermail.close": "关闭",
+    "string.endermail.confirm": "确认",
+    "string.endermail.coordinates": "坐标",
+    "string.endermail.deliver": "递送者",
+    "string.endermail.delivered": "已送达",
+    "string.endermail.deliveredToLocker": "已送达储物柜",
+    "string.endermail.delivering": "递送中",
+    "string.endermail.deliveryDistance": "递送距离",
+    "string.endermail.deliveryLocation": "递送位置",
+    "string.endermail.error": "发生了一个错误",
+    "string.endermail.holdShift": "按住 Shift 查看内容",
+    "string.endermail.lockerID": "储物柜 ID",
+    "string.endermail.id": "ID",
+    "string.endermail.invalidLockerID": "储物柜 ID 无效",
+    "string.endermail.maxDistance": "最大距离",
+    "string.endermail.setID": "设置 ID",
+    "string.endermail.status": "状态",
+    "string.endermail.tooFar": "距离太远，无法递送",
+    "string.endermail.undeliverable": "无法递送"
+}

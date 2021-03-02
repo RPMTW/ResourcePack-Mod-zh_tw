@@ -1,0 +1,35 @@
+{
+    "_comment": "Ender Mail Language File",
+    "_comment": "chinese_taiwan",
+
+    "_comment": "BLOCKS",
+    "block.endermail.package": "包裹",
+    "block.endermail.locker": "儲物櫃",
+
+    "_comment": "ITEMS",
+    "item.endermail.package_controller": "包裹控制器",
+    "item.endermail.packing_tape": "包裹膠帶",
+    "item.endermail.stamp": "郵票",
+
+    "_comment": "STRINGS",
+    "string.endermail.cancel": "取消",
+    "string.endermail.close": "關閉",
+    "string.endermail.confirm": "確認",
+    "string.endermail.coordinates": "座標",
+    "string.endermail.deliver": "傳遞者",
+    "string.endermail.delivered": "已送達",
+    "string.endermail.deliveredToLocker": "已送達儲物櫃",
+    "string.endermail.delivering": "運送中",
+    "string.endermail.deliveryDistance": "運送距離",
+    "string.endermail.deliveryLocation": "運送位置",
+    "string.endermail.error": "發生了不可預期的錯誤",
+    "string.endermail.holdShift": "按下 Shift 查看内容",
+    "string.endermail.lockerID": "儲物櫃 ID",
+    "string.endermail.id": "ID",
+    "string.endermail.invalidLockerID": "儲物櫃 ID 無效",
+    "string.endermail.maxDistance": "最大距離",
+    "string.endermail.setID": "設置 ID",
+    "string.endermail.status": "狀態",
+    "string.endermail.tooFar": "距離太遠，無法運送",
+    "string.endermail.undeliverable": "無法運送"
+}
