@@ -33,7 +33,7 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
         
-    - name: "安裝依賴項目"
+  #  - name: "安裝依賴項目"
     - run: npm i
     - run: |
        cd ${{ github.workspace }}/Spider
