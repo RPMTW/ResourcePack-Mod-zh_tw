@@ -1,3 +1,7 @@
+// This file isn't necessary at all, because the language module would use the strings coded in the source if language "none" is selected.
+// So en_us is the default language and probably no change will be made after loading this file.
+// But it could be a good example for writing the language file for other languages.
+
 {
   "// Rules:": "",
   "rule.portalSuffocationFix.name": "",
@@ -46,4 +50,5 @@
   "ui.rule_%(rule)s_will_now_default_to_%(value)s": "Rule %s will now default to %s",
   "ui.rule_%(rule)s_not_set_restart": "Rule %s will now not be set on restart",
   "ui.current_value": "current value"
+
 }
