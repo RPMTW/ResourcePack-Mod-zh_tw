@@ -96,7 +96,7 @@ const request = httpRequest.request(`https://addons-ecs.forgesvc.net/api/v2/addo
                                     }
                                 }));
                                 fs.copyFile("../jar/" + responseData[i].slug + "/assets/" + mod_id + "/lang/en_us.json", "../assets/" + mod_id + "/lang/en_us.json", (err) => {
-                                    console.log("成功移動模組: " + responseData[i].name + "的原始翻譯文本")
+                                    console.log("成功移動模組: " + responseData[i].name + " 的原始翻譯文本")
                                     if (err) throw err;
                                 })
                             }
