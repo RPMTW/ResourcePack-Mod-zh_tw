@@ -32,19 +32,21 @@ jobs:
       uses: actions/setup-node@v1
       with:
         node-version: ${{ matrix.node-version }}
+        
+    - name: "安裝依賴項目"
     - run: npm i
     - run: |
        cd ${{ github.workspace }}/Spider
        node .
   
     # - run: node ${{ github.workspace }}/Spider/index.js
-    - name: Commit files
+    - name: "提交檔案"
       run: |
         git config --global user.email "rrt467778@gmail.com.com"
         git config --global user.name "SiongSng"
         git add ./assets
         git commit -m "更新翻譯原始英文文本"
-    - name: Push changes
+    - name: "推送變更"
       uses: ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
