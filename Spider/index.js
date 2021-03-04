@@ -70,7 +70,7 @@ const request = httpRequest.request(`https://addons-ecs.forgesvc.net/api/v2/addo
                                         mod_id = JSON.parse(data).id;
                                         mod_assets(mod_id);
                                     } catch (err) {
-                                        console.log("錯誤")
+                                        console.log("發生錯誤 \n"+err)
                                     }
                                 }));
                             }
