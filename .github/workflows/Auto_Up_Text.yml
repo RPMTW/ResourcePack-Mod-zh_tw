@@ -28,8 +28,6 @@ jobs:
     - name: "安裝依賴項目"
     - run: |
        npm i
-       cd ${{ github.workspace }}/Spider
-       node .
        
     - name: "執行程式"
     - run: |
