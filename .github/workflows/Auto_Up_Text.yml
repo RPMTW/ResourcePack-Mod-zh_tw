@@ -25,15 +25,11 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
         
-    - uses: actions/checkout@v2    
-    - name: "安裝依賴項目"
+    - name: "安裝依賴項目|執行程式"
     - run: |
        npm i
-       
-    - uses: actions/checkout@v2       
-    - name: "執行程式"
-    - run: |
-       ${{ github.workspace }}/Spider node .
+       ${{ github.workspace }}/Spider
+       node .
   
     # - run: node ${{ github.workspace }}/Spider/index.js
     - name: "提交檔案"
