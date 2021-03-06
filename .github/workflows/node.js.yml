@@ -4,16 +4,13 @@
 name: Node.js CI
 
 on:
- # push:
+  schedule:
+  - cron:  '0 3 */14 * *' #似乎也沒有執行.....
+  workflow_dispatch:
+   # push:
   #  branches:
    # - "1.16"    
 #    - .github/workflows/*
-  
-  workflow_dispatch:
-   #似乎無用
-   
-  schedule:
-  - cron:  '0 3 */14 * *' #似乎也沒有執行.....
 
 
 jobs:
