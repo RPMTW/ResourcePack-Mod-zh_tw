@@ -1,25 +1,25 @@
-replaymod.title=Replay Mod
+replaymod.title=重播模式
 
-#Website API translations
-replaymod.api.parammissing=Required parameter missing: %1$s
-replaymod.api.invalidvalue=Invalid value passed for parameter %1$s - Possible values: %2$s
-replaymod.api.invalidlogin=Invalid login data provided
-replaymod.api.invalidauthkey=Invalid authentication key provided
-replaymod.api.notenoughspace=Not enough space left to upload this file. Consider purchasing Premium on ReplayMod.com
-replaymod.api.invalidfile=This file is invalid
-replaymod.api.fileduplicate=This file has already been uploaded
-replaymod.api.filenoexist=This file does not exist
-replaymod.api.alreadyrated=You already rated this file
-replaymod.api.usernoexist=This user does not exist
-replaymod.api.invalidcategory=Invalid file category
-replaymod.api.nofilesuploaded=No files uploaded
-replaymod.api.toomanyvalues=Too many values passed for %1$s
-replaymod.api.noparameters=At least one parameter required. Parameters: %1$s
-replaymod.api.invalidfilename=File name must be between 5 and 30 characters long
-replaymod.api.usernameexists=This username is already taken
-replaymod.api.mailexists=This Email address is already linked to an account
-replaymod.api.invalidmail=Invalid Email Address
-replaymod.api.nopermissions=You don't have permission to do this
+#Website API翻譯
+replaymod.api.parammissing=缺少所需的參數： %1$s
+replaymod.api.invalidvalue=參數%1$s的無效值 - 可能的值：%2$s。
+replaymod.api.invalidlogin=提供無效的登入數據
+replaymod.api.invalidauthkey=提供無效的認證金鑰
+replaymod.api.notenoughspace=沒有足夠的空間來上傳這個檔案。 考慮在ReplayMod.com上購買進階版。
+replaymod.api.invalidfile=這個檔案是無效的
+replaymod.api.fileduplicate=該檔案已被上傳
+replaymod.api.filenoexist=該檔案不存在
+replaymod.api.alreadyrated=您已經對這個檔案進行了評分
+replaymod.api.usernoexist=該使用者不存在
+replaymod.api.invalidcategory=無效的檔案類別
+replaymod.api.nofilesuploaded=沒有上傳檔案
+replaymod.api.toomanyvalues=傳遞給%1$s的值太多
+replaymod.api.noparameters=至少需要一個參數。 參數：%1$s
+replaymod.api.invalidfilename=檔案名必須在5到30個字元之間。
+replaymod.api.usernameexists=這個使用者名已經被占用了。
+replaymod.api.mailexists=該Email地址已經與一個帳號相連。
+replaymod.api.invalidmail=無效的電子郵件地址。
+replaymod.api.nopermissions=你沒有權限這樣做。
 replaymod.api.authfailed=Authentication to the Minecraft Session Servers failed
 replaymod.api.mcuserexists=A ReplayMod account is already associated with this Minecraft account
 replaymod.api.filetoobig=The uploaded file is too big
