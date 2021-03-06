@@ -1,6 +1,6 @@
 {
-  "commands.bw.setweather.success.acidrain": "BW: Set the weather to acid rain.",
-  "commands.bw.setweather.success.blizzard": "BW: Set the weather to blizzard.",
-  "commands.bw.setweather.success.clear": "BW: Set the weather to clear.",
-  "commands.bw.setweather.failed": "BW: Could not Set the weather to %s"
+  "commands.bw.setweather.success.acidrain": "更好的天氣：將天氣設定為雨天。",
+  "commands.bw.setweather.success.blizzard": "更好的天氣：將天氣設定為暴雪。",
+  "commands.bw.setweather.success.clear": "更好的天氣：將天氣設定為晴朗。",
+  "commands.bw.setweather.failed": "更好的天氣：無法將天氣設定為%s"
 }
