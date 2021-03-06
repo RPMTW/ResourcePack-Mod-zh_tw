@@ -25,7 +25,6 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
         
-    - name: "安裝依賴項目|執行程式"
     - run: |
        npm i
        ${{ github.workspace }}/Spider
