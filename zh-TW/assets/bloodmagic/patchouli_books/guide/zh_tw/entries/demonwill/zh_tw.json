@@ -1,6 +1,6 @@
 {
-  "name": "Your First Will2",
-  "icon": "bloodmagic:soulsnare",
+  "name": "Hellfire Forge",
+  "icon": "bloodmagic:soulforge",
   "category": "demonwill",
   "pages": [
     {
@@ -9,7 +9,7 @@
     },
     {
       "type": "crafting",
-      "recipe": "bloodmagic:soul_snare"
+      "recipe": "bloodmagic:soul_forge"
     }
   ]
 }
