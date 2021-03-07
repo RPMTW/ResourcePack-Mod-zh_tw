@@ -1,15 +1,15 @@
 {
-    "block.torchmaster.megatorch": "Mega Torch",
-    "block.torchmaster.megatorch.tooltip": "Prevents natural spawning of hostile monsters in a big radius around the torch",
-    "block.torchmaster.dreadlamp": "Dread Lamp",
-    "block.torchmaster.dreadlamp.tooltip": "Prevents natural spawning of passive animals like squids, bats or ocelots in a big radius around the lamp",
-    "block.torchmaster.feral_flare_lantern": "Feral Flare Lantern",
-    "block.torchmaster.feral_flare_lantern.tooltip": "Places invisible lights",
-    "block.torchmaster.invisible_light": "Invisible Light",
-    "item.torchmaster.frozen_pearl": "Frozen Pearl",
-    "item.torchmaster.frozen_pearl.tooltip": "Clears residual lights from a Feral Flare Lantern",
-    "command.torchmaster.torch_list.completed": "Torches have been dumped to the log file",
-    "command.torchmaster.entity_dump.completed": "Entities have been dumped to the log file",
-    "itemGroup.torchmaster": "Torchmaster"
+    "block.torchmaster.megatorch": "巨型火把",
+    "block.torchmaster.megatorch.tooltip": "防止在火炬周圍大半徑範圍內刷新敵對怪物",
+    "block.torchmaster.dreadlamp": "恐懼之燈",
+    "block.torchmaster.dreadlamp.tooltip": "防止動物如魷魚、蝙蝠或山貓在燈周圍刷新",
+    "block.torchmaster.feral_flare_lantern": "狂野閃耀之燈",
+    "block.torchmaster.feral_flare_lantern.tooltip": "放置隱形燈光",
+    "block.torchmaster.invisible_light": "不可見光源",
+    "item.torchmaster.frozen_pearl": "寒凍珍珠",
+    "item.torchmaster.frozen_pearl.tooltip": "清除殘餘的狂野閃耀之燈",
+    "command.torchmaster.torch_list.completed": "火把已經存儲至日誌檔案中",
+    "command.torchmaster.entity_dump.completed": "實體已經儲存至日誌檔案中",
+    "itemGroup.torchmaster": "火把大師"
 }
 
