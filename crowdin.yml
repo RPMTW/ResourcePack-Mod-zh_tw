@@ -1,0 +1,5 @@
+commit_message: "新的翻譯提交 (來自%original_file_name%)"
+append_commit_message: false
+files:
+  - source: assets*
+    translation: '%original_path%/zh_tw.%file_extension%'
