@@ -1,24 +1,26 @@
 {
-  "name": "Divination Sigil",
-  "icon": "bloodmagic:divinationsigil",
+  "name": "Sigil of the Green Grove",
+  "icon": "bloodmagic:growthsigil",
   "category": "sigil",
   "pages": [
     {
       "type": "text",
-      "text": "The $(item)Divination Sigil$() is probably the first of many sigils that you would like to craft in Blood Magic. In order to craft the sigil, you need to create an $(l:alchemyarray/arcaneash)Alchemy Array$(/l) and use $(item)Redstone Dust$() and a $(item)Blank Slate$() as the base and catalyst items, respectively."
+      "text": "The $(item)Sigil of the Green Grove$() is an item that has multiple uses. Crafted in an array with a $(item)Growth Reagent$(item) and a $(item)Reinforced Slate$(), the sigil can use the power of your stored life force to nourish and grow nearby plants."
     },
     {
       "type": "image",
       "images": [
-        "bloodmagic:images/entries/sigil/divination_sigil.png"
+        "bloodmagic:images/entries/sigil/grove_sigil1.png",
+        "bloodmagic:images/entries/sigil/grove_sigil2.png",
+        "bloodmagic:images/entries/sigil/grove_sigil3.png"
       ],
-      "title": "Divination Sigil Array",
+      "title": "Green Grove Sigil Array",
       "border": true,
-      "text": "The Divination Sigil, next to its crafting array."
+      "text": "The Sigil of the Green Grove's array, plus its primary uses."
     },
     {
       "type": "text",
-      "text": "The Divination Sigil has two primary uses: $(br)$(li)When the player right-clicks in the air with the sigil, it will display the amount of LP that is in the owner's $(l:altar/soulnetwork)Soul Network.$(/l)$(li)When clicking on a $(l:altar/bloodaltar)Blood Altar$(/l), it will tell the player the altar's current Tier, the amount of LP stored in the altar, as well as its current max capacity. Having a $(item)Divination Sigil$() on hand can also be helpful for other block applications, but that will be covered later."
+      "text": "If you right click on a block that is $(2)IGrowable$(), it will apply the bonemeal effect while consuming 150LP.$(br2)However, if you shift-right-click the sigil in the air, the sigil will light up to indicate that it is activated and will consume 150LP every 10 seconds. Every block in a 7x7x5 high volume centered on the player will have a growth tick applied to it, growing nearby crops. Good for farming those taters!"
     }
   ]
 }
