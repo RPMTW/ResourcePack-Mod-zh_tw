@@ -1,5 +1,5 @@
 {
-	"item.bagofyurting.bag_of_yurting": "Bag of Yurting",
-	"bagofyurting.failure.load": "Failed to load yurt into bag: Cannot load any blocks in area of effect",
-	"bagofyurting.failure.unload": "Failed to unload yurt from bag: Insufficient clearance"
+	"item.bagofyurting.bag_of_yurting": "空間移動袋",
+	"bagofyurting.failure.load": "未能將該空間裝入袋子：無法在有效區域內裝載任何方塊",
+	"bagofyurting.failure.unload": "空間卸載失敗：空間不足"
 }
