@@ -1,21 +1,26 @@
 {
-  "name": "Sigil of the Fast Miner",
-  "icon": "bloodmagic:miningsigil",
+  "name": "Sigil of the Green Grove",
+  "icon": "bloodmagic:growthsigil",
   "category": "sigil",
   "pages": [
     {
       "type": "text",
-      "text": "The $(item)Sigil of the Fast Miner$() is a sigil that, when activated using shift-right-click, will consume 100LP every 10 seconds and apply the Haste potion effect. Thus, it increases your mining, digging, and cutting speeds. Crafted using the $(item)Mining Reagent$() and $(item)Reinforced Slate$() in an alchemy array."
+      "text": "The $(item)Sigil of the Green Grove$() is an item that has multiple uses. Crafted in an array with a $(item)Growth Reagent$(item) and a $(item)Reinforced Slate$(), the sigil can use the power of your stored life force to nourish and grow nearby plants."
     },
     {
       "type": "image",
       "images": [
-        "bloodmagic:images/entries/sigil/mining_sigil1.png",
-        "bloodmagic:images/entries/sigil/mining_sigil2.png"
+        "bloodmagic:images/entries/sigil/grove_sigil1.png",
+        "bloodmagic:images/entries/sigil/grove_sigil2.png",
+        "bloodmagic:images/entries/sigil/grove_sigil3.png"
       ],
-      "title": "Fast Miner Sigil Array",
+      "title": "Green Grove Sigil Array",
       "border": true,
-      "text": "The Sigil of the Fast Miner's array, plus its primary uses."
+      "text": "The Sigil of the Green Grove's array, plus its primary uses."
+    },
+    {
+      "type": "text",
+      "text": "If you right click on a block that is $(2)IGrowable$(), it will apply the bonemeal effect while consuming 150LP.$(br2)However, if you shift-right-click the sigil in the air, the sigil will light up to indicate that it is activated and will consume 150LP every 10 seconds. Every block in a 7x7x5 high volume centered on the player will have a growth tick applied to it, growing nearby crops. Good for farming those taters!"
     }
   ]
 }
