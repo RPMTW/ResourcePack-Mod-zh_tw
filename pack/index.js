@@ -17,7 +17,7 @@ axios.post("https://api.crowdin.com/api/v2/projects/442446/translations/builds",
     headers: {
         'Content-Type': 'application/json',
         'Content-Length': abc.length,
-        'Authorization': `Bearer ad9bdc0e0f7872b1939d9bedbc876c8fdc851c6a1cbbd4804a066c2fa960189a5e523407122c5285`
+        'Authorization': `Bearer ${process.env.Crowdin_Token}`
     }
 }).then(res => {
     if (res.data.data.status === "finished") {
