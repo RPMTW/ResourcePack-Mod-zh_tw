@@ -32,6 +32,7 @@ jobs:
          cd ${{ github.workspace }}/pack
          npm i
          node .
+         cd Resourcepack
          ls
        
      
