@@ -10,7 +10,7 @@ const abc = {
         "zh-TW"
     ],
     branchId: 738,
-    skipUntranslatedFiles: true
+    skipUntranslatedStrings: true
 }
 console.log("取得下載連結中...");
 axios.post("https://api.crowdin.com/api/v2/projects/442446/translations/builds", abc, {
