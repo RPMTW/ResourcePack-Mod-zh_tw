@@ -42,7 +42,7 @@ jobs:
         with:
           repo_token: ${{ secrets.GITHUB_TOKEN }}
           tag: RPMTW-V${{ github.run_number }}
-          file: ${{ github.workspace }}/Resourcepack/RPMTW-1.16-Done.zip
+          file: ${{ github.workspace }}/pack/Resourcepack/RPMTW-1.16-Done.zip
           asset_name: RPMTW-1.16-V${{ github.run_number }}.zip
           overwrite: true 
           body: "繁體中文化模組資源包(RPMTW) 版本:V${{ github.run_number }} \n更新內容: [${{ github.event.head_commit.message }}](https://github.com/SiongSng/ResourcePack-Mod-zh_tw/commit/${{ github.sha }}) \n\n## 下載資訊\n1.16繁體中文化模組材質包 [點我下載](https://github.com/SiongSng/ResourcePack-Mod-zh_tw/releases/download/RPMTW-V${{ github.run_number }}/RPMTW-1.16-V${{ github.run_number }}.zip)"
