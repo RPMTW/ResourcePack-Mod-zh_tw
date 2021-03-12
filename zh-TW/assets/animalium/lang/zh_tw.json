@@ -1,26 +1,10 @@
 {
-	"_comment": "Entities",
 	"item.animalium.wild_dog_pelt": "野狗皮",
-	"item.animalium.wild_dog_pelt_boots": "Wild Dog Pelt Boots",
 	"item.animalium.bear_meat": "生熊肉",
 	"item.animalium.bear_meat_cooked": "熟熊肉",
 	"item.animalium.bear_claw": "熊爪",
 	"item.animalium.bear_claw_paxel": "熊爪鎬",
 	"item.animalium.rat_meat": "生鼠肉",
 	"item.animalium.rat_meat_cooked": "熟鼠肉",
-	"item.animalium.piranha_steak": "Raw Piranha Steak",
-	"item.animalium.piranha_steak_cooked": "Cooked Piranha Steak",
-	"item.animalium.piranha_spawn_egg": "Spawn Piranha",
-	"item.animalium.wild_dog_spawn_egg": "Spawn Wild Dog",
-	"item.animalium.bear_spawn_egg": "Spawn Brown Bear",
-	"item.animalium.bear_tamed_spawn_egg": "Spawn Neutral Brown Bear",
-	"item.animalium.rat_spawn_egg": "Spawn Rat",
-	"tooltip.wild_dog_pelt_boots": "Jump High and Run Fast",
-	"tooltip.bear_claw_paxel": "The Original Multi-tool",
-	"itemGroup.animalium": "野生動物",
-	"entity.animalium.piranha": "Piranha",
-	"entity.animalium.wild_dog": "Wild Dog",
-	"entity.animalium.bear": "Brown Bear",
-	"entity.animalium.bear_tamed": "Neutral Brown Bear",
-	"entity.animalium.rat": "Rat"
+	"itemGroup.animalium": "野生動物"
 }
