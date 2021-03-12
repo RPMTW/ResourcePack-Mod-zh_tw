@@ -57,7 +57,6 @@
 	"rarity.apoth.ancient": "古老",
 	"death.attack.apoth.frozen_solid": "%s 變成了冰塊.",
 	"death.attack.apoth.execute": "%s 被處決了.",
-	"item.apotheosis.boss_summoner": "Apotheotic Boss Summoner",
 	"advancements.apotheosis.enchantment": "神秘的附魔台",
 	"advancements.apotheosis.enchantment.desc": "獲得一張附魔台, 現在的附魔台能夠突破30級的附魔等級限制",
 	"advancements.apotheosis.30ench": "嬰兒步...",
@@ -463,9 +462,7 @@
 	"item.apotheosis.potion_charm": "%s 護符",
 	"item.apotheosis.potion_charm.desc": "啟用並放入背包內將持續擁有 %s 效果.",
 	"item.apotheosis.potion_charm.desc2": "右擊啟用/停用.",
-	"item.apotheosis.potion_charm.desc3": "Source: %s",
 	"item.apotheosis.potion_charm.enabled": "啟用: %s",
-	"item.apotheosis.potion_charm.disabled": "Disabled",
 	"info.apotheosis.anvil": "可以被附魔.",
 	"item.apotheosis.farmers_leash": "終界栓繩",
 	"info.apotheosis.noentity": "持有實體: 沒有",
@@ -486,13 +483,6 @@
 	"info.apotheosis.obsidian_arrow": "+20%% 傷害",
 	"item.apotheosis.broadhead_arrow": "寬頭箭",
 	"info.apotheosis.broadhead_arrow": "流血 (0:15)",
-	"item.apotheosis.explosive_arrow": "Explosive Arrow",
-	"info.apotheosis.explosive_arrow": "Explosion Radius: 2",
-	"item.apotheosis.iron_mining_arrow": "Iron Mining Arrow",
-	"item.apotheosis.diamond_mining_arrow": "Diamond Mining Arrow",
-	"info.apotheosis.mining_arrow.iron": "Breaks blocks like an iron pickaxe",
-	"info.apotheosis.mining_arrow.diamond": "Breaks blocks like a diamond pickaxe",
 	"effect.apotheosis.bleeding": "流血",
-	"death.attack.apotheosis.bleeding": "%s失血過多。",
-	"info.apoth.modifier_disabled": "This Modifier is Disabled"
+	"death.attack.apotheosis.bleeding": "%s失血過多。"
 }
