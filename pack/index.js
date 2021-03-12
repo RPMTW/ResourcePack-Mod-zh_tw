@@ -54,5 +54,8 @@ axios.post("https://api.crowdin.com/api/v2/projects/442446/translations/builds",
                 }
             })
         })
+    }else{
+        console.log("專案尚未構建完成。請重新執行...")
+        process.exit();
     }
 })
