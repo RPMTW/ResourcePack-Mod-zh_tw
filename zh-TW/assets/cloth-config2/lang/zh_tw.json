@@ -33,9 +33,6 @@
     "text.cloth-config.boolean.value.true": "§a是",
     "text.cloth-config.boolean.value.false": "§c否",
     "text.cloth-config.dropdown.value.unknown": "§c忽略建議",
-    "modifier.cloth-config.alt": "Alt + %s",
-    "modifier.cloth-config.ctrl": "Ctrl + %s",
-    "modifier.cloth-config.shift": "Shift + %s",
     "title.cloth-config.config": "Cloth Mod Config配置",
     "category.cloth-config.scrolling": "滾動",
     "category.cloth-config.testing": "配置預覽",
@@ -43,8 +40,5 @@
     "option.cloth-config.scrollStep": "滾動靈敏度",
     "option.cloth-config.bounceBackMultiplier": "反彈倍增器",
     "option.cloth-config.setDefaultSmoothScroll": "設定預設平滑滾動",
-    "option.cloth-config.disableSmoothScroll": "停用平滑滾動",
-    "text.cloth-config.testing.1": "You are a mod developer and you want to use %1$s? Go on the %2$s to get started. You can also %3$s.",
-    "text.cloth-config.testing.2": "Cloth Config Wiki",
-    "text.cloth-config.testing.3": "click here to open the Minecraft options file for no specific reason"
+    "option.cloth-config.disableSmoothScroll": "停用平滑滾動"
 }
