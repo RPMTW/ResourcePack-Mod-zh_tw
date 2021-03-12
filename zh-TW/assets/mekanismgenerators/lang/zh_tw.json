@@ -92,7 +92,6 @@
     "fission.mekanismgenerators.invalid_malformed_fuel_assembly": "無法成形，在%s放置的分裂燃料組件是無效的。",
     "fission.mekanismgenerators.invalid_missing_fuel_assembly": "無法成形，沒有燃料組件結構。",
     "fission.mekanismgenerators.max_burn_rate": "最大燃燒速率： %s mB/t",
-    "fission.mekanismgenerators.missing_control_rod": "Couldn't form, missing control rod for fuel assembly at %s.",
     "fission.mekanismgenerators.port_mode_change": "埠模式變更為：%s",
     "fission.mekanismgenerators.port_mode_input": "僅輸入",
     "fission.mekanismgenerators.port_mode_output_coolant": "輸出冷卻劑",
