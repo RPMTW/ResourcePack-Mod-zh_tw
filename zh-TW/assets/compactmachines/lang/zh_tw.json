@@ -8,7 +8,6 @@
   "tooltip.compactmachines.psd.hint": "用作遊戲中的文檔並用於輸入壓縮空間",
   "tooltip.compactmachines.solid_wall.hint": "警告！對於非創造玩家是不可破壞的！",
   "tooltip.compactmachines.machine.hint": "%1$s擁有 %2$s的空間",
-  "tooltip.compactmachines.tunnel_type": "Type ID: %1$s",
   "messages.compactmachines.psd.spawnpoint_set": "新的出生點",
   "messages.compactmachines.no_machine_data": "“未加載機器數據；請報告此。",
   "block.compactmachines.machine": "壓縮空間機械",
@@ -20,7 +19,7 @@
   "block.compactmachines.machine_maximum": "超大型壓縮空間機械",
   "block.compactmachines.solid_wall": "緊實型壓縮空間牆",
   "block.compactmachines.wall": "壓縮空間牆",
-  "block.compactmachines.tunnel_wall": "Solid Compact Machine Wall (with Tunnel)",
+  "block.compactmachines.tunnel_wall": "Tunnel",
   "item.compactmachines.machine_tiny": "微型壓縮空間機械",
   "item.compactmachines.machine_small": "小型壓縮空間機械",
   "item.compactmachines.machine_normal": "普通壓縮空間機械",
@@ -28,9 +27,6 @@
   "item.compactmachines.machine_giant": "巨型壓縮空間機械",
   "item.compactmachines.machine_maximum": "超大型壓縮空間機械",
   "item.compactmachines.personal_shrinking_device": "個人壓縮裝置",
-  "item.compactmachines.tunnels.item": "Item Tunnel",
-  "item.compactmachines.tunnels.redstone_in": "Redstone Tunnel (In)",
-  "item.compactmachines.tunnels.redstone_out": "Redstone Tunnel (Out)",
   "compactmachines.cannot_enter": "無法找到壓縮空間機械製作器！請更改放置距離！",
   "compactmachines.connected_block": "連接: %s",
   "compactmachines.direction.side": "方向: %s",
@@ -39,8 +35,5 @@
   "compactmachines.direction.north": "北",
   "compactmachines.direction.south": "南",
   "compactmachines.direction.west": "西",
-  "compactmachines.direction.east": "東",
-  "compactmachines.psd.pages.machines.title": "Compact Machines",
-  "compactmachines.psd.pages.machines": "Compact Machines are the core mechanic of this mod. They allow you to build large rooms in a single block space connected to the outside world. They come in various sizes ranging from 3x3x3 to 13x13x13.\n\nYou can use Tunnels to connect the outside block faces with any of the inside walls to transport items, fluids etc.\n\nYou can enter a Compact Machine by right-clicking it with a Personal Shrinking Device. Please use JEI to look up crafting recipes.",
-  "compactmachines.errors.unknown_tunnel_type": "Unknown Tunnel Type (%s)"
+  "compactmachines.direction.east": "東"
 }
