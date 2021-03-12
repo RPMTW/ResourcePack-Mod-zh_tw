@@ -1,5 +1,4 @@
 {
-    "itemGroup.darkutils": "Dark Utilities",
     "block.darkutils.blank_plate": "空白板",
     "block.darkutils.vector_plate": "向量板",
     "block.darkutils.vector_plate_fast": "快速向量板",
@@ -161,25 +160,5 @@
     "tooltip.darkutils.charm_gluttony.long": "允許使用者立即吃完食物。放置在物品欄任何一處或非慣用手或飾品欄都有效。",
     "tooltip.darkutils.book_galactic.long": "當在鍛造台中與任何工具組合時，該工具將被重新命名為Standard Galactic Alphabe。",
     "tooltip.darkutils.book_runelic.long": "當在鍛造台中與任何工具組合時，該工具將被重新命名為Runelic。",
-    "tooltip.darkutils.book_restore.long": "當與鍛造台中的任何工具組合時，該工具的維修成本懲罰將重設。",
-    "item.darkutils.vector_plate_banner_pattern": "Banner Pattern",
-    "item.darkutils.vector_plate_banner_pattern.desc": "Vector",
-    "tooltip.darkutils.vector_plate_banner_pattern.short": "Applies the vector plate arrow to banners.",
-    "tooltip.darkutils.vector_plate_banner_pattern.long": "Applies the vector plate arrow to banners when used in the Loom. Can be dyed any of the 16 wool colors.",
-    "block.minecraft.banner.darkutils_vector_plate.black": "Black Vector Pattern",
-    "block.minecraft.banner.darkutils_vector_plate.red": "Red Vector Pattern",
-    "block.minecraft.banner.darkutils_vector_plate.green": "Green Vector Pattern",
-    "block.minecraft.banner.darkutils_vector_plate.brown": "Brown Vector Pattern",
-    "block.minecraft.banner.darkutils_vector_plate.blue": "Blue Vector Pattern",
-    "block.minecraft.banner.darkutils_vector_plate.purple": "Purple Vector Pattern",
-    "block.minecraft.banner.darkutils_vector_plate.cyan": "Cyan Vector Pattern",
-    "block.minecraft.banner.darkutils_vector_plate.silver": "Silver Vector Pattern",
-    "block.minecraft.banner.darkutils_vector_plate.gray": "Gray Vector Pattern",
-    "block.minecraft.banner.darkutils_vector_plate.pink": "Pink Vector Pattern",
-    "block.minecraft.banner.darkutils_vector_plate.lime": "Lime Vector Pattern",
-    "block.minecraft.banner.darkutils_vector_plate.yellow": "Yellow Vector Pattern",
-    "block.minecraft.banner.darkutils_vector_plate.lightBlue": "LightBlue Vector Pattern",
-    "block.minecraft.banner.darkutils_vector_plate.magenta": "Magenta Vector Pattern",
-    "block.minecraft.banner.darkutils_vector_plate.orange": "Orange Vector Pattern",
-    "block.minecraft.banner.darkutils_vector_plate.white": "White Vector Pattern"
+    "tooltip.darkutils.book_restore.long": "當與鍛造台中的任何工具組合時，該工具的維修成本懲罰將重設。"
 }
