@@ -1,1 +1,11 @@
-{}
+{
+  "afkpeace.reconnect.reason": "嘗試重新連線...",
+  "afkpeace.reason.damagelogout": "已啟動受傷即斷線",
+  "afkpeace.reconnect": "重新連線",
+  "afkpeace.reconnecting": "重新連線中",
+  "afkpeace.reconnectfail": "無法重新連線。",
+  "afkpeace.disconnectscreen.disabled": "AFKPeace 已被伺服器禁用。",
+  "afkpeace.button.cancel": "取消",
+  "afkpeace.button.confirm": "確定",
+  "afkpeace.config.title": "AFKPeace 設定"
+}
