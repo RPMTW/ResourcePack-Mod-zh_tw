@@ -1,1 +1,14 @@
-{}
+{
+	"key.ftbultimine": "FTB 更好的挖礦",
+	"key.categories.ftbultimine": "FTB 更好的挖礦",
+	"ftbultimine.active": "FTB 更好的挖礦 處於啟用狀態",
+	"ftbultimine.change_shape": "按住Shift +（滾動游標或向上/向下箭頭）改變形狀。",
+	"ftbultimine.shape.small_tunnel": "小隧道",
+	"ftbultimine.shape.small_square": "小廣場",
+	"ftbultimine.shape.mining_tunnel": "採礦隧道",
+	"ftbultimine.shape.escape_tunnel": "逃生隧道",
+	"ftbultimine.config": "FTB 更好的挖礦 組態設定",
+	"text.autoconfig.ftbultimine.option.maxBlocks": "最大方塊數 每次操作的方塊數",
+	"text.autoconfig.ftbultimine.option.toolBlacklist": "工具黑名單",
+	"text.autoconfig.ftbultimine.option.renderOutline": "是否呈現輪廓？"
+}
