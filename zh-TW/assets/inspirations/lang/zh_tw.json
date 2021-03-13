@@ -1,1 +1,21 @@
-{}
+{
+    "_comment": "############",
+    "block.inspirations.bookshelf": "書櫃",
+    "block.inspirations.rope": "繩子",
+    "block.inspirations.glass_door": "玻璃門",
+    "item.inspirations.glass_door": "玻璃門",
+    "block.inspirations.rabbit_stew_fluid": "兔肉湯",
+    "fluid.inspirations.rabbit_stew": "兔肉湯",
+    "block.inspirations.honey_fluid": "蜂蜜",
+    "fluid.inspirations.honey": "蜂蜜",
+    "cauldron_contents.rats.cheese": "起司",
+    "jei.inspirations.cauldron": "鍋釜",
+    "jei.inspirations.cauldron.time": "%s 秒",
+    "jei.inspirations.cauldron.level": "%s 分之 12 滿",
+    "jei.inspirations.cauldron.level.half": "半滿",
+    "jei.inspirations.cauldron.level.third": "%s分之 3 滿",
+    "jei.inspirations.cauldron.level.quarter": "%s分之 4 滿",
+    "jei.inspirations.cauldron.level.sixth": "%s分之 6 滿",
+    "jei.inspirations.cauldron.level.empty": "空",
+    "jei.inspirations.cauldron.level.full": "滿"
+}
