@@ -611,6 +611,7 @@
    "pneumaticcraft.gui.misc.no_fluids": "無流體",
    "pneumaticcraft.gui.misc.requiredTemperature": "所需溫度：%d℃",
    "pneumaticcraft.gui.misc.requiredTemperatureString": "所需溫度：%s",
+   "pneumaticcraft.gui.misc.searchInventory": "搜尋邀請...",
    "pneumaticcraft.gui.misc.snapToGrid": "與網格對齊",
    "pneumaticcraft.gui.nei.recipe.explosionCrafting": "將一些合成原料扔在地上，然後在旁邊引起爆炸。${br}${br}平均材料損耗率：%d%%",
    "pneumaticcraft.gui.nei.recipe.heatFrameCooling.bonus": "${br}有機率產出額外產物！${br}從 %3$d℃ 開始，每降低 1℃ 有 %1$5.2f%% 的機率產出一個額外的%2$s$[br}（最高疊加數：x%4$5.2f）",
