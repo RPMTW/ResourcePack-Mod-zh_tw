@@ -485,6 +485,10 @@
 	"item.apotheosis.broadhead_arrow": "寬頭箭",
 	"info.apotheosis.broadhead_arrow": "流血 (0:15)",
 	"info.apotheosis.explosive_arrow": "爆炸半徑: 2",
+	"item.apotheosis.iron_mining_arrow": "鐵鎬箭",
+	"item.apotheosis.diamond_mining_arrow": "鑽鎬箭",
+	"info.apotheosis.mining_arrow.iron": "像鐵鎬一樣挖掘方塊",
+	"info.apotheosis.mining_arrow.diamond": "像鑽鎬一樣挖掘方塊",
 	"effect.apotheosis.bleeding": "流血",
 	"death.attack.apotheosis.bleeding": "%s失血過多。"
 }
