@@ -1,1 +1,9 @@
-{}
+{
+  "borderless.config.fullscreen_mode": "全螢幕模式",
+  "borderless.config.fullscreen_mode.best": "最佳化",
+  "borderless.config.fullscreen_mode.borderless": "無邊框",
+  "borderless.config.fullscreen_mode.native": "原生",
+  "borderless.config.focus_loss.minimize": "最小化",
+  "borderless.config.focus_loss.switch_to_windowed": "切換到視窗模式",
+  "borderless.config.changed": "如果全螢幕模式未正常啟用，請嘗試重新啟動 Minecraft。 如果它仍然無法運作，則您的作業系統可能無法完全相容。"
+}
