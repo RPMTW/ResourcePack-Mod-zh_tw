@@ -1,1 +1,11 @@
-{}
+{
+  "key.diggusmaximus.config.enabled": "已啟用",
+  "key.diggusmaximus.config.maxdistance": "最遠距離",
+  "key.diggusmaximus.config.autopickup": "自動拾取",
+  "key.diggusmaximus.config.requirestool": "需要工具",
+  "key.diggusmaximus.config.toolduribility": "工具耐久度",
+  "key.diggusmaximus.config.stopontoolbreak": "工具損壞時停止",
+  "key.diggusmaximus.config.dontbreaktool": "工具損壞前停止",
+  "key.diggusmaximus.config.blacklistcat": "已列入黑名單",
+  "key.diggusmaximus.config.blacklist": "黑名單方塊"
+}
