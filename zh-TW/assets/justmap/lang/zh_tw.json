@@ -1,1 +1,16 @@
-{}
+{
+  "justmap.configuration.map_shape": "地圖形狀",
+  "justmap.configuration.show_hostile": "顯示敵對生物",
+  "justmap.configuration.show_creatures": "顯示生物",
+  "justmap.configuration.show_players": "顯示玩家",
+  "justmap.dim.overworld": "主世界",
+  "justmap.dim.nether": "地獄",
+  "justmap.dim.the_end": "終界",
+  "justmap.gui.reset": "重置",
+  "justmap.gui.cancel": "取消",
+  "justmap.gui.edit": "編輯",
+  "justmap.gui.delete": "刪除",
+  "justmap.gui.close": "關閉",
+  "justmap.gui.create": "新增",
+  "justmap.gui.name": "名字"
+}
