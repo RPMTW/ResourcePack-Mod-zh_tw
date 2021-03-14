@@ -10,5 +10,6 @@
   "block.anthillinside.hive.tooltips.inputselect": "§6輸入媒介：§r 將漏斗放入此插槽中，讓螞蟻在蟻巢的輸入端前面收集物品。 這些都可以是世界上的物品，從「箱子」或「 礦車」。",
   "block.anthillinside.hive.tooltips.inputside": "§6輸入端：§r 從外面看，大洞標示著蜂巢的輸入端。 下面的所有左邊插槽都是輸入插槽。 這就是將成分儲存到使用或被略過的地方，如果不能使用它們。 如果要在輸入端收集項目，請使用相鄰的「輸入選項插槽」。",
   "block.anthillinside.hive.tooltips.insertionlock": "§6鎖定功能：§r 左鍵單擊鎖定或解鎖. 類似黑名單限制物品輸入。 當您按一下鎖定時，會記住左邊插槽中的所有物品，且只有這些物品可以輸入對應的格子中。 對於所有類型的物品輸入，空的插槽仍然是可用的。 當您解除鎖定時，會解除所有格子的限制。",
-  "block.anthillinside.hive.tooltips.noants": "§6無螞蟻：§r 在上面的插槽中，沒有工作者螞蟻。 等待至少一隻螞蟻在這里長大或者從另一個蟻巢裡帶一些來放"
+  "block.anthillinside.hive.tooltips.noants": "§6無螞蟻：§r 在上面的插槽中，沒有工作者螞蟻。 等待至少一隻螞蟻在這里長大或者從另一個蟻巢裡帶一些來放",
+  "block.anthillinside.hive.tooltips.nofuel": "§6 無燃料：§r 左側沒有燃料，或不允許使用燃料。"
 }
