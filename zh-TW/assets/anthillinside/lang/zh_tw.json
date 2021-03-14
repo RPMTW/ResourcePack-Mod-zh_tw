@@ -3,5 +3,10 @@
   "language.code": "zh_tw",
   "language.region": "台灣",
   "itemGroup.tabanthillinside": "螞蟻物流",
-  "block.anthillinside.hive": "紅螞蟻蜂巢"
+  "block.anthillinside.hive": "紅螞蟻蜂巢",
+  "block.anthillinside.hive.help": "紅螞蟻的巢穴，可以用在自動化工作，或作為紅螞蟻物流。蜂巢可以燃燒，合成，當作漏斗，等。\n§o 您可以在開採紅石礦石時找到紅螞蟻的蟻巢。§r\n默認情況下，該方塊是直立放置的，可以改變方向。蟻巢具有輸入側（大孔）和輸出側（小孔）。GUI右上角的插槽和資訊圖像以獲取更多資訊。",
+  "block.anthillinside.hive.tooltips.antslots": "§6 紅螞蟻的巢穴：§r 螞蟻將在這裡緩慢生成，直到所有三個插槽都滿。更多的螞蟻意味著更高的製作速度。您也可以帶一些出去使用它們作為紅螞蟻路徑的專案物流。",
+  "block.anthillinside.hive.tooltips.help": "紅螞蟻在這裡工作和繁殖。隨著時間的推移，蟻巢（在三個頂級插槽）增長。蟻巢中越多螞蟻，你給他們的任務就越快。為了加快工作和蟻巢的生長，把白糖放在左邊的一個框框裡。要定義此蟻巢的工作任務，請將合成表、熔爐、漏斗、發射器等放入中心的工作選擇槽中。此外，通過左上角和右下角的漏斗框框，還可以實現自動輸入和輸出。\n§6將鼠標停在框框和符號上一會即可獲得更多信息，以了解它們的用途。§r.",
+  "block.anthillinside.hive.tooltips.inputselect": "§6輸入選擇 ：§r將漏斗放入此框框中，讓螞蟻在蟻巢輸入端收集物品。可以手動丟入，也可以從箱子輸入，或礦車。",
+  "block.anthillinside.hive.tooltips.inputside": "§6輸入端：§r 從外面看，大洞標示著蜂巢的輸入端。 下面的所有左邊插槽都是輸入插槽。 這就是將成分儲存到使用或被略過的地方，如果不能使用它們。 如果要在輸入端收集項目，請使用相鄰的「輸入選項插槽」。"
 }
