@@ -1,1 +1,13 @@
-{}
+{
+  "gui.diet.title": "真實營養",
+  "tooltip.diet.eaten": "食用時：",
+  "tooltip.diet.group": "+%s %%： %s",
+  "tooltip.diet.group_": "+%s",
+  "tooltip.diet.effects": "飲食效果",
+  "groups.diet.grains.name": "穀物",
+  "groups.diet.proteins.name": "蛋白質",
+  "groups.diet.fruits.name": "水果",
+  "groups.diet.vegetables.name": "蔬菜",
+  "groups.diet.sugars.name": "糖份",
+  "commands.diet.set.success": "組 %s 的值將 %s%% 為 %s"
+}
