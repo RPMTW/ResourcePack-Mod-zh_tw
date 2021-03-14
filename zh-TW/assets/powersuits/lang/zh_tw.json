@@ -1,1 +1,10 @@
-{}
+{
+  "gui.powersuits.load": "載入",
+  "gui.powersuits.save": "儲存",
+  "gui.powersuits.reset": "重置",
+  "gui.powersuits.cancel": "取消",
+  "gui.powersuits.saveAs": "另存為:",
+  "gui.powersuits.new": "新建",
+  "model.jetpack.default.partName": "主要",
+  "model.jetpack.jetpack5.partName": "次要"
+}
