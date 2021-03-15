@@ -1,1 +1,11 @@
-{}
+{
+  "text.autoconfig.slightguimodifications.option.gui.textFieldModifications.backgroundMode.color": "顏色",
+  "text.autoconfig.slightguimodifications.option.gui.textFieldModifications.backgroundMode.texture": "材質",
+  "text.autoconfig.slightguimodifications.option.gui.debugInformation.showFps": "顯示FPS:",
+  "text.slightguimodifications.debugFps": "FPS：%d",
+  "text.slightguimodifications.paste": "貼上",
+  "text.slightguimodifications.copy": "複製",
+  "text.slightguimodifications.cut": "剪下",
+  "text.slightguimodifications.selectAll": "全部選取",
+  "text.slightguimodifications.clearAll": "全部清除"
+}
