@@ -1,1 +1,12 @@
-{}
+{
+  "gui.advancedmagnet.items": "物品",
+  "gui.advancedmagnet.xp": "經驗球",
+  "gui.advancedmagnet.items.on": "開啟",
+  "gui.advancedmagnet.items.off": "關閉",
+  "gui.advancedmagnet.items.increase": "擴大範圍",
+  "gui.advancedmagnet.items.decrease": "縮小範圍",
+  "keys.simplemagnets.toggle": "切換磁鐵",
+  "simplemagnets.magnets.toggle_message": "磁鐵:",
+  "simplemagnets.magnets.toggle_message.on": "開啟",
+  "simplemagnets.magnets.toggle_message.off": "關閉"
+}
