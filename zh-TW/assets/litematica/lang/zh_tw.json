@@ -344,6 +344,8 @@
     "litematica.info.material_list": "- 材料清單快捷鍵將打開上次檢視的材料清單。\n   如果有一個儲存\n- 要切換到其他材料列表,請打開一個。\n   放置配置GUI中的GUI按鈕或藍圖瀏覽器\n- 儲存/上次檢視的列表也會被忘記。\n   如果選擇的藍圖放置已更改\n- 如果還沒有最後檢視的材料清單。\n   然後使用選定的放置，如果有的話",
     "litematica.label.alignment.center": "中心",
     "litematica.label.alignment.top_center": "頂部中心",
+    "litematica.label.no": "不要",
+    "litematica.label.yes": "好的",
     "litematica.message.error.area_deletion_aborted": "區域刪除中斷或中止",
     "litematica.message.error.empty_area_selection": "空白區域選擇(無邊框)",
     "litematica.message.error.invalid_schematic_name": "無效的藍圖名稱 '%s'",
