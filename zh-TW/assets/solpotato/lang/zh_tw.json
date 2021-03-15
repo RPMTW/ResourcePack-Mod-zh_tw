@@ -1,1 +1,10 @@
-{}
+{
+	"item.solpotato.lunchbox": "午餐盒",
+	"item.solpotato.container.lunchbox": "午餐盒",
+	"item.solpotato.golden_lunchbox": "黃金午餐盒",
+	"item.solpotato.container.golden_lunchbox": "黃金午餐盒",
+	"item.solpotato.lunchbag": "午餐袋",
+	"item.solpotato.container.lunchbag": "午餐袋",
+	"config.solpotato.food_blacklist": "黑名單",
+	"config.solpotato.food_whitelist": "白名單 (停用黑名單)"
+}
