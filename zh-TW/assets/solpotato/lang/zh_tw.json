@@ -6,5 +6,6 @@
 	"item.solpotato.lunchbag": "午餐袋",
 	"item.solpotato.container.lunchbag": "午餐袋",
 	"config.solpotato.food_blacklist": "黑名單",
-	"config.solpotato.food_whitelist": "白名單 (停用黑名單)"
+	"config.solpotato.food_whitelist": "白名單 (停用黑名單)",
+	"config.solpotato.reset_on_death": "死亡後重設"
 }
