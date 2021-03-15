@@ -1,4 +1,10 @@
 {
+	"selectWorld.unableToLoad": "無法載入世界",
 	"key.dismount": "離開載具",
-	"key.narrator": "開關朗讀功能"
+	"key.narrator": "開關朗讀功能",
+	"key.pause": "暫停",
+	"key.gui": "切換 GUI",
+	"text.autoconfig.randompatches.category.client": "用戶端",
+	"text.autoconfig.randompatches.option.client.bugFixes": "錯誤修正",
+	"text.autoconfig.randompatches.option.client.keyBindings.dismount": "離開載具"
 }
