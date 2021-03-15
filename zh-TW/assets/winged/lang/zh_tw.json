@@ -1,1 +1,25 @@
-{}
+{
+  "text.autoconfig.winged.option.lootTables.abandonedMineshaft.chance": "生成機率 ( 0.0是永不，1.0是永遠 )",
+  "text.autoconfig.winged.option.lootTables.buriedTreasure.chance": "生成機率 ( 0.0是永不，1.0是永遠 )",
+  "text.autoconfig.winged.option.lootTables.simpleDungeon.chance": "生成機率 ( 0.0是永不，1.0是永遠 )",
+  "text.autoconfig.winged.option.lootTables.woodlandMansion.chance": "生成機率 ( 0.0是永不，1.0是永遠 )",
+  "text.autoconfig.winged.option.lootTables.endCityTreasure.chance": "生成機率 ( 0.0是永不，1.0是永遠 )",
+  "text.autoconfig.winged.option.lootTables.blackFeather.requirePlayer": "被玩家殺死才掉落",
+  "text.autoconfig.winged.option.lootTables.blackFeather.chance": "掉落機率 ( 0.0是永不，1.0是永遠 )",
+  "text.autoconfig.winged.option.lootTables.friedChicken.requirePlayer": "被玩家殺死才掉落",
+  "text.autoconfig.winged.option.lootTables.friedChicken.chance": "掉落機率 ( 0.0是永不，1.0是永遠 )",
+  "text.autoconfig.winged.option.lootTables.demonicFlesh.requirePlayer": "被玩家殺死才掉落",
+  "text.autoconfig.winged.option.lootTables.demonicFlesh.chance": "掉落機率 ( 0.0是永不，1.0是永遠 )",
+  "text.autoconfig.winged.option.lootTables.endermanIrrealityCrystal.requirePlayer": "被玩家殺死才掉落",
+  "text.autoconfig.winged.option.lootTables.endermanIrrealityCrystal.chance": "掉落機率 ( 0.0是永不，1.0是永遠 )",
+  "text.autoconfig.winged.option.lootTables.endermiteIrrealityCrystal.requirePlayer": "被玩家殺死才掉落",
+  "text.autoconfig.winged.option.lootTables.endermiteIrrealityCrystal.chance": "掉落機率 ( 0.0是永不，1.0是永遠 )",
+  "text.autoconfig.winged.option.lootTables.batWing.requirePlayer": "被玩家殺死才掉落",
+  "text.autoconfig.winged.option.lootTables.batWing.chance": "掉落機率 ( 0.0是永不，1.0是永遠 )",
+  "text.autoconfig.winged.option.lootTables.vexEssence.requirePlayer": "被玩家殺死才掉落",
+  "text.autoconfig.winged.option.lootTables.vexEssence.chance": "掉落機率 ( 0.0是永不，1.0是永遠 )",
+  "text.autoconfig.winged.option.lootTables.holidayDrops.requirePlayer": "被玩家殺死才掉落",
+  "text.autoconfig.winged.option.lootTables.holidayDrops.chance": "掉落機率 ( 0.0是永不，1.0是永遠 )",
+  "text.autoconfig.winged.option.boosters.standardBooster.ticksPerDamage.@Tooltip[1]": "20 遊戲刻等於一秒。",
+  "text.autoconfig.winged.option.boosters.fastBooster.ticksPerDamage.@Tooltip[1]": "20 遊戲刻等於一秒。"
+}
