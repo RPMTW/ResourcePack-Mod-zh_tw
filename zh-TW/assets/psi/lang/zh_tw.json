@@ -5,13 +5,19 @@
   "psimisc.keybind": "Psi控制鍵位綁定",
   "psimisc.compiled": "編譯成功",
   "psimisc.errored": "編譯錯誤",
+  "psimisc.canceled_spell": "有東西在阻止你施放咒語。",
   "psimisc.constant": "常量",
+  "psimisc.next_page": "下一頁",
+  "psimisc.prev_page": "上一頁",
   "psimisc.config": "配置",
+  "psimisc.level_display": "等級 %d",
   "psimisc.locked": "鎖定",
   "psimisc.requirements": "需求",
   "psimisc.learn": "學習",
   "psimisc.levelup": "升級",
   "psimisc.wip": "Psi Beta 版本 | 還未完成！",
+  "psimisc.import_from_clipboard": "從剪貼簿匯入",
+  "psimisc.export_to_clipboard": "匯出至剪貼簿",
   "psimisc.spectator": "[觀察者模式]",
   "psimisc.name": "名稱：",
   "psi.container.socketable": "彈夾",
@@ -113,5 +119,6 @@
   "command.psi.unlearn.console": "控制台不能學習Psi。嘗試指定一名玩家！/psi-unlearn <權限組> [玩家]",
   "command.psi.unlearn.not_a_group": "“%s”不是合法的 Psi 學習章節",
   "command.psi.unlearn.unknown": "該名玩家沒有Psi檔案。請將該情況反映給模組的作者。",
-  "jei.psi.category.trick": "術式注魔"
+  "jei.psi.category.trick": "術式注魔",
+  "psi.book.entry.memoryManagement": "記憶體管理"
 }
