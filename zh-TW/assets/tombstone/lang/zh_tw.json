@@ -1,5 +1,5 @@
 {
-  "tombstone.lang.version": "1.5.2",
+  "tombstone.lang.version": "1.5.3",
   "tombstone.grave.grave_simple": "簡易墳墓",
   "tombstone.grave.grave_normal": "普通墳墓",
   "tombstone.grave.grave_cross": "十字架墳墓",
@@ -203,8 +203,8 @@
   "tombstone.message.perk_reset.in_cooldown": "你還需要等待 %sm%ss 才能重設你的技能點",
   "tombstone.message.perk_required": "這個物品只有在解鎖了技能 %s 後才能使用",
   "tombstone.message.knowledge_required": "你還未達到所需的死亡知識等級（%s）",
-  "tombstone.message.player_online": "該玩家線上",
-  "tombstone.message.player_offline": "該玩家不線上",
+  "tombstone.message.player_online": "該玩家在線上",
+  "tombstone.message.player_offline": "該玩家已離線",
   "tombstone.message.player_invalid": "玩家名稱無效",
   "tombstone.message.dead_entity": "不能用在已死亡的實體上",
   "tombstone.message.player_spectator": "不能用在處於觀察模式的玩家身上",
