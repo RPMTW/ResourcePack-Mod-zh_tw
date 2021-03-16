@@ -17,5 +17,9 @@
   "block.attained_drops.prismarine_crystal_bulb": "海磷結晶燈泡",
   "item.attained_drops.seed": "活化種子",
   "tooltip.attained_drops.holdshift": "按住 %s",
-  "block.attained_drops.custom_bulb": "%s 燈泡"
+  "tooltip.attained_drops.growth": "成長： %s",
+  "tooltip.attained_drops.growing": "成長： %s",
+  "tooltip.attained_drops.nothing": "沒動作",
+  "block.attained_drops.custom_bulb": "%s 燈泡",
+  "block.attained_drops.custom_soil": "%s 土壤"
 }
