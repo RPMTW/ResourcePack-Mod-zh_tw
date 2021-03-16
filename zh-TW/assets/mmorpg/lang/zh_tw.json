@@ -1,1 +1,14 @@
-{}
+{
+	"block.mmorpg.egg_loot_crate": "戰利品箱",
+	"block.mmorpg.ore_block0": "普通礦石方塊",
+	"block.mmorpg.ore_block1": "罕見礦石方塊",
+	"block.mmorpg.ore_block2": "稀有礦石方塊",
+	"block.mmorpg.ore_block3": "史詩礦石方塊",
+	"block.mmorpg.ore_block4": "傳說礦石方塊",
+	"block.mmorpg.ore_block5": "神話礦石方塊",
+	"_comment": " [CATEGORY]： 統計 ─ 描述",
+	"itemGroup.mmorpg.main_group": "流放時代",
+	"itemGroup.mmorpg.gem_group": "流放時代寶石",
+	"itemGroup.mmorpg.runes_group": "流放時代符文",
+	"itemGroup.mmorpg.runeword_group": "流放時代符文語"
+}
