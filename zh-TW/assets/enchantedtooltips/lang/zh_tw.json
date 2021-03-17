@@ -1,1 +1,26 @@
-{}
+{
+  "enchantedtooltip.enchant.type.ALL": "全部",
+  "enchantedtooltip.enchant.type.ARMOR": "護甲",
+  "enchantedtooltip.enchant.type.ARMOR_FEET": "靴子",
+  "enchantedtooltip.enchant.type.ARMOR_LEGS": "護腿",
+  "enchantedtooltip.enchant.type.ARMOR_CHEST": "胸甲",
+  "enchantedtooltip.enchant.type.ARMOR_HEAD": "頭盔",
+  "enchantedtooltip.enchant.type.WEAPON": "劍",
+  "enchantedtooltip.enchant.type.DIGGER": "工具",
+  "enchantedtooltip.enchant.type.FISHING_ROD": "釣竿",
+  "enchantedtooltip.enchant.type.TRIDENT": "三叉戟",
+  "enchantedtooltip.enchant.type.BREAKABLE": "全部",
+  "enchantedtooltip.enchant.type.BOW": "弓",
+  "enchantedtooltip.enchant.type.WEARABLE": " 護甲",
+  "enchantment.minecraft.aqua_affinity.desc": "加快水下挖掘速度。",
+  "enchantment.minecraft.bane_of_arthropods.desc": "提升對節肢生物的傷害。",
+  "enchantment.minecraft.blast_protection.desc": "降低爆炸傷害和擊退效果。",
+  "enchantment.minecraft.channeling.desc": "在暴風雨中擊中敵人時召喚閃電。",
+  "enchantment.minecraft.depth_strider.desc": "提升水下移動速度。",
+  "enchantment.minecraft.efficiency.desc": "提升採掘速度。",
+  "enchantment.minecraft.feather_falling.desc": "減少墜落傷害。",
+  "enchantment.minecraft.fire_aspect.desc": "點燃目標。",
+  "enchantment.minecraft.fire_protection.desc": "降低火焰造成的傷害和持續時間。",
+  "enchantment.minecraft.flame.desc": "箭矢將會點燃目標。",
+  "enchantment.minecraft.knockback.desc": "提升擊退效果。"
+}
