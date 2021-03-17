@@ -9,7 +9,12 @@
   "gui.authme.auth.message.failed.generic": "無法登入！",
   "gui.authme.auth.message.success": "成功登入！",
   "gui.authme.auth.message.success.offline": "成功離線遊玩！",
+  "gui.authme.auth.title": "驗證",
+  "gui.authme.multiplayer.button.auth": "驗證",
+  "gui.authme.disconnect.button.auth": "重新驗證",
   "gui.authme.status.invalid": "✗",
   "gui.authme.status.unknown": "…",
-  "gui.authme.status.valid": "✔"
+  "gui.authme.status.valid": "✔",
+  "text.autoconfig.authme.option.authButton.x": "X 座標",
+  "text.autoconfig.authme.option.authButton.y": "Y 座標"
 }
