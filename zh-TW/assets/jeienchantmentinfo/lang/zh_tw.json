@@ -1,1 +1,21 @@
-{}
+{
+    "enchantment.jeienchantmentinfo.type.armor": "護甲",
+    "enchantment.jeienchantmentinfo.type.armor.boots": "靴子",
+    "enchantment.jeienchantmentinfo.type.armor.leggings": "護腿",
+    "enchantment.jeienchantmentinfo.type.armor.chestplate": "胸甲",
+    "enchantment.jeienchantmentinfo.type.armor.helmet": "頭盔",
+    "enchantment.jeienchantmentinfo.type.sword": "劍",
+    "enchantment.jeienchantmentinfo.type.tool": "工具",
+    "enchantment.jeienchantmentinfo.type.fishing_rod": "釣竿",
+    "enchantment.jeienchantmentinfo.type.trident": "三叉戟",
+    "enchantment.jeienchantmentinfo.type.bow": "弓",
+    "enchantment.jeienchantmentinfo.type.axe": "斧頭",
+    "enchantment.jeienchantmentinfo.aqua_affinity.description": "加快水下挖掘速度。",
+    "enchantment.jeienchantmentinfo.blast_protection.description": "降低爆炸傷害和擊退效果。",
+    "enchantment.jeienchantmentinfo.depth_strider.description": "提升水下移動速度。",
+    "enchantment.jeienchantmentinfo.feather_falling.description": "減少墜落傷害。",
+    "enchantment.jeienchantmentinfo.fire_aspect.description": "點燃目標。",
+    "enchantment.jeienchantmentinfo.fire_protection.description": "降低火焰造成的傷害和持續時間。",
+    "enchantment.jeienchantmentinfo.flame.description": "箭矢將會點燃目標。",
+    "enchantment.jeienchantmentinfo.knockback.description": "提升擊退效果。"
+}
