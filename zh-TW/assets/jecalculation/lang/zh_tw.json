@@ -1,4 +1,20 @@
 {
   "jecalculation.gui.craft.step": "步驟",
-  "jecalculation.gui.craft.suggest": "推薦"
+  "jecalculation.gui.craft.suggest": "推薦",
+  "jecalculation.gui.recipe.save.enabled": "儲存",
+  "jecalculation.gui.recipe.confirm.enabled": "確定",
+  "jecalculation.gui.recipe.confirm": "套用變更",
+  "jecalculation.gui.recipe.to_percent": "變更為百分比",
+  "jecalculation.gui.search.all": "全部",
+  "jecalculation.gui.search.confirm.enabled": "確定",
+  "jecalculation.gui.import.confirm.enabled": "確定",
+  "jecalculation.gui.item_stack.confirm.enabled": "確定",
+  "jecalculation.gui.item_stack.nbt_normal.disabled": "請先選擇物品",
+  "jecalculation.gui.item_stack.capability_normal.disabled": "請先選擇物品",
+  "jecalculation.gui.item_stack.meta_normal.disabled": "請先選擇物品",
+  "jecalculation.gui.common.label.tag": "標籤",
+  "jecalculation.gui.common.label.item": "物品",
+  "jecalculation.gui.common.search": "搜尋",
+  "jecalculation.gui.common.input": "輸入",
+  "jecalculation.gui.common.output": "輸出"
 }
