@@ -1,1 +1,11 @@
-{}
+{
+	"itemGroup.itemfilters.main": "物品過濾器",
+	"itemGroup.itemfilters.itemfilters": "物品過濾器",
+	"item.itemfilters.filter": "物品過濾器",
+	"item.itemfilters.or.description": "必須符合任一個過濾條件",
+	"item.itemfilters.and.description": "必須符合所有過濾條件",
+	"item.itemfilters.xor.description": "必須符合其中一個過濾條件 ( 不能兩個都符合 )",
+	"item.itemfilters.id_regex.description": "使用正規表示式檢查物品 ID",
+	"item.itemfilters.damage.description": "檢查物品損耗度",
+	"item.itemfilters.block": "方塊過濾器"
+}
