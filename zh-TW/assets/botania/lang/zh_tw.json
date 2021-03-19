@@ -1965,7 +1965,7 @@
   "botania.page.spectranthemum0": "長途運輸物品是一個艱巨的 任務.水路和$(item)扇水仙$(0)也沒辦法簡 單完成這個任務.$(item)凌空薊$(0)會消 耗少量$(thing)魔力$(0)將周圍的掉落物 傳送到另一個地點.傳送過一 次之後,其他同類的花就不能 用於傳送該種物品.",
   "botania.page.spectranthemum1": "為了指定物品的去向,可以使 用$(item)森林法杖$(0)的綁定模式來綁 定這朵花和某個方塊,就像綁 到魔力池上一樣.僅在12格以 內有效.查看這朵花綁定的方 塊就像查看魔力池傳輸$(thing)魔力$(0) 那樣,潛行時用法杖指向它即 可.",
   "botania.page.spectranthemum2": "這朵花受$(thing)區塊載入機制$(0)所限, 因此它不會作用於未載入的 區塊.這裡就不多加敘述了.$(p)$(o)推薦查詢: \"Chunks and Chicken\", \"Anchors of the World\".",
-  "botania.page.spectranthemum3": "$(o)(n)spooky(n+2)me$(0)。",
+  "botania.page.spectranthemum3": "$(o)(n)詭異的(n+2)我$(0)。",
   "botania.entry.medumone": "石化草",
   "botania.tagline.medumone": "凍住怪物",
   "botania.page.medumone0": "$(item)石化草$(0)能完全抑制周圍生物 的移動.$(p)當它接收到$(thing)魔力$(0)時,會用強力 的減速效果抑制附近任何實 體的移動,除了玩家.",
