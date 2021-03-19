@@ -7,5 +7,5 @@
   "bettermobgriefinggamerule.config.gui.defaultAll": "預設全部",
   "bettermobgriefinggamerule.config.gui.reset": "重置",
   "bettermobgriefinggamerule.config.gui.resetAll": "全部重置",
-  "bettermobgriefinggamerule.parsing.mobGriefingValue.invalid": "無效的值，應為'true'、'false'或'inherit'，但發現 '%s'。"
+  "bettermobgriefinggamerule.parsing.mobGriefingValue.invalid": "無效的值，應為'true'、'false'、'inherit'，但發現 '%s'。"
 }
