@@ -24,6 +24,12 @@
   "block.mythicbotany.mana_infuser": "瑪那注入板",
   "block.mythicbotany.alfsteel_block": "艾爾伐鋼塊",
   "block.mythicbotany.alfsteel_pylon": "艾爾伐水晶",
+  "item.mythicbotany.alfsteel_helmet.description": "可以讓你的手變長一丁點",
+  "item.mythicbotany.alfsteel_chestplate.description": "有個夭壽讚的抗擊退",
+  "item.mythicbotany.alfsteel_leggings.description": "乎你造乾那飛",
+  "item.mythicbotany.alfsteel_boots.description": "跳起來插下去",
+  "lexicon.mythicbotany.title": "神話植物學",
+  "lexicon.mythicbotany.runes.title": "九種世界的符文",
   "lexicon.mythicbotany.runes.runeMidgard": "米德加爾特是人類的世界",
   "lexicon.mythicbotany.runes.runeAlfheim": "亞爾夫海姆是精靈的世界",
   "lexicon.mythicbotany.runes.runeNidavellir": "尼德威阿爾是矮人的世界",
@@ -49,5 +55,9 @@
   "lexicon.mythicbotany.tools.page8": "這條護腿大幅增加了移動速度。",
   "lexicon.mythicbotany.tools.page9": "這雙鞋能讓你一飛沖天。",
   "lexicon.mythicbotany.manaband.title": "艾爾伐鋼戒指",
-  "lexicon.mythicbotany.manaband.page1": "在鍛造台用艾爾伐鋼錠升級$(l:botania:baubles/mana_ring)高級瑪那之戒$()，你會獲得一個新的、有約兩倍容量的瑪那之戒。"
+  "lexicon.mythicbotany.manaband.page1": "在鍛造台用艾爾伐鋼錠升級$(l:botania:baubles/mana_ring)高級瑪那之戒$()，你會獲得一個新的、有約兩倍容量的瑪那之戒。",
+  "lexicon.mythicbotany.manaband.page2": "就跟高級瑪那之戒一樣,你也能升級$(l:botania:baubles/aura_ring)光環之戒$()來再次增加魔力製造速率。",
+  "lexicon.mythicbotany.pylon.title": "艾爾伐水晶",
+  "lexicon.mythicbotany.wand.title": "夢之木法杖",
+  "lexicon.mythicbotany.wand.page1": "就跟活木一樣，夢之木也能拿來做森林法杖。"
 }
