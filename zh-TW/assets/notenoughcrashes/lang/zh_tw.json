@@ -3,5 +3,9 @@
   "notenoughcrashes.gui.failed": "[失敗]",
   "notenoughcrashes.gui.keepPlaying": "繼續遊玩",
   "notenoughcrashes.gui.restart": "重新啟動 Minecraft",
+  "notenoughcrashes.gui.disabledByConfig": "透過組態檔案停用",
+  "notenoughcrashes.crashscreen.title": "Minecraft崩潰了!",
+  "notenoughcrashes.crashscreen.summary": "Minecraft遇到問題，導致崩潰了。",
+  "notenoughcrashes.crashscreen.paragraph1.line1": "可能由下列模組導致崩潰",
   "notenoughcrashes.crashscreen.unknownCause": "未知"
 }
