@@ -27,9 +27,11 @@
   "item.mythicbotany.alfsteel_helmet.description": "可以讓你的手變長一丁點",
   "item.mythicbotany.alfsteel_chestplate.description": "有個夭壽讚的抗擊退",
   "item.mythicbotany.alfsteel_leggings.description": "乎你造乾那飛",
-  "item.mythicbotany.alfsteel_boots.description": "跳起來插下去",
+  "item.mythicbotany.alfsteel_boots.description": "跳…跳…跳起來",
   "lexicon.mythicbotany.title": "神話植物學",
+  "lexicon.mythicbotany.description": "向魔法世界深處邁進",
   "lexicon.mythicbotany.runes.title": "九種世界的符文",
+  "lexicon.mythicbotany.runes.page1": "你可以製造代表$(thing)九個世界$(0)的符文在$(item)符文祭壇$(0)。他們是用$(thing)七大罪$(0)符文做出來的四階符文，散發者強大的力量，但是使用不當的話會變得很危險。小心點",
   "lexicon.mythicbotany.runes.runeMidgard": "米德加爾特是人類的世界",
   "lexicon.mythicbotany.runes.runeAlfheim": "亞爾夫海姆是精靈的世界",
   "lexicon.mythicbotany.runes.runeNidavellir": "尼德威阿爾是矮人的世界",
@@ -59,5 +61,7 @@
   "lexicon.mythicbotany.manaband.page2": "就跟高級瑪那之戒一樣,你也能升級$(l:botania:baubles/aura_ring)光環之戒$()來再次增加魔力製造速率。",
   "lexicon.mythicbotany.pylon.title": "艾爾伐水晶",
   "lexicon.mythicbotany.wand.title": "夢之木法杖",
-  "lexicon.mythicbotany.wand.page1": "就跟活木一樣，夢之木也能拿來做森林法杖。"
+  "lexicon.mythicbotany.wand.page1": "就跟活木一樣，夢之木也能拿來做森林法杖。",
+  "lexicon.mythicbotany.generating.title": "產能類植物",
+  "lexicon.mythicbotany.functional.title": "功能類植物"
 }
