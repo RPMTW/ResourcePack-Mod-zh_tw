@@ -1,7 +1,15 @@
 {
+  "advancements.silentgear.armor.description": "製作寂靜裝備中的任意一件盔甲",
   "advancements.silentgear.armor.title": "更好的盔甲",
+  "advancements.silentgear.azure_electrum.description": "製造一些天藍琥珀金。它很快的！",
+  "advancements.silentgear.azure_electrum.title": "握緊了！",
+  "advancements.silentgear.azure_repair_kit.description": "製作一個天藍修理工具包",
+  "advancements.silentgear.azure_repair_kit.title": "甚至更加划算",
+  "advancements.silentgear.azure_silver.description": "在終界挖到天藍銀礦，然後熔煉它！",
+  "advancements.silentgear.azure_silver.title": "更好的銀",
   "advancements.silentgear.the_end.description": "並沒有",
   "advancements.silentgear.the_end.title": "結束了？",
+  "block.silentgear.azure_electrum_block": "天藍琥珀金塊",
   "command.silentgear.lockStats.locked": "已上鎖",
   "command.silentgear.lockStats.unlocked": "已解鎖",
   "gearType.silentgear.armor": "盔甲",
@@ -27,6 +35,11 @@
   "gearType.silentgear.sword": "劍",
   "gearType.silentgear.tool": "工具",
   "item.silentgear.arrow": "箭矢",
+  "item.silentgear.azure_electrum_dust": "天藍琥珀金粉",
+  "item.silentgear.azure_electrum_ingot": "天藍琥珀金錠",
+  "item.silentgear.azure_electrum_nugget": "天藍琥珀金粒",
   "item.silentgear.bow": "弓",
-  "item.silentgear.chestplate": "胸甲"
+  "item.silentgear.chestplate": "胸甲",
+  "material.silentgear.azure_electrum": "天藍琥珀金",
+  "material.silentgear.electrum": "琥珀金"
 }
