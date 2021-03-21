@@ -239,5 +239,6 @@
   "mod.chiselsandbits.config.requireBagSpace": "需要物品欄/背包空間",
   "mod.chiselsandbits.config.requireBagSpace.tooltip": "再使用鑿子前先需要背包或玩家的物品欄裡有空插槽。",
   "mod.chiselsandbits.config.voidExcessBits": "無效的多餘碎屑",
-  "mod.chiselsandbits.config.voidExcessBits.tooltip": "將任何無法裝入背包或是物品欄裡的碎屑作廢。提高伺服器性能。在碎屑被作廢時撤消操作可能會出現問題。"
+  "mod.chiselsandbits.config.voidExcessBits.tooltip": "將任何無法裝入背包或是物品欄裡的碎屑作廢。提高伺服器性能。在碎屑被作廢時撤消操作可能會出現問題。",
+  "mod.chiselsandbits.config.client.performance": "效能"
 }
