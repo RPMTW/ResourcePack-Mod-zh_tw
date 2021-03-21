@@ -1,1 +1,13 @@
-{}
+{
+  "gui.antiqueatlas.addMarker": "添加標記",
+  "gui.antiqueatlas.delMarker": "刪除標記",
+  "gui.antiqueatlas.followPlayer": "跟隨玩家",
+  "gui.antiqueatlas.exportImage": "匯出圖片",
+  "gui.antiqueatlas.hideMarkers": "隱藏標記",
+  "gui.antiqueatlas.showMarkers": "顯示標記",
+  "gui.antiqueatlas.export.rendering": "渲染中...",
+  "gui.antiqueatlas.export.writing": "寫入檔案...",
+  "gui.antiqueatlas.export.loadingtextures": "載入材質...",
+  "text.autoconfig.antiqueatlas.option.width": "寬度",
+  "text.autoconfig.antiqueatlas.option.height": "高度"
+}
