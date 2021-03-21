@@ -27,12 +27,6 @@
   "block.mythicbotany.alfsteel_block": "艾爾伐鋼塊",
   "block.mythicbotany.alfsteel_pylon": "艾爾伐水晶",
   "block.mythicbotany.mana_collector": "瑪那收集器",
-  "block.mythicbotany.wither_aconite": "解星花",
-  "block.mythicbotany.wither_aconite_floating": "浮空解星花",
-  "block.mythicbotany.aquapanthus": "水藍蓮",
-  "block.mythicbotany.aquapanthus_floating": "浮空水藍蓮",
-  "block.mythicbotany.hellebore": "止屍草",
-  "block.mythicbotany.hellebore_floating": "浮空止屍草",
   "item.mythicbotany.alfsteel_helmet.description": "可以讓你的手搆得更遠",
   "item.mythicbotany.alfsteel_chestplate.description": "有很強大的抗擊退能力",
   "item.mythicbotany.alfsteel_leggings.description": "跑得更快",
@@ -79,11 +73,11 @@
   "lexicon.mythicbotany.muspelheim.page1": "你免疫各種火焰傷害,另外你能點燃你攻擊的對象。",
   "lexicon.mythicbotany.niflheim.page1": "當你攻擊某樣東西,他會有個短暫、強力的緩速效果,另外你免疫推擠和窒息傷害",
   "lexicon.mythicbotany.generating.title": "產能類植物",
-  "lexicon.mythicbotany.generating.page1": "解星花用掉在它身上的地獄之星生產瑪那。",
+  "lexicon.mythicbotany.generating.page1": "wither aconite用掉在它身上的地獄之星生產瑪那。",
   "lexicon.mythicbotany.generating.page2": "raindeletia在下雨時產生瑪那,雷雨時產生更多,放在鮮草草地或蘊魔土上可以再生更多。",
   "lexicon.mythicbotany.generating.page3": "有時候你的花生產太多瑪那,魔力發射器扛不住時,它就派上用場了。它可以讓花裡面的瑪那直接進入火花網路,但你還是要給他加個火花升級:擴散。",
   "lexicon.mythicbotany.functional.title": "功能類植物",
   "lexicon.mythicbotany.functional.page1": "Exoblaze用魔能來填充附近釀造台的燃料,你再也不用放烈焰粉了。",
-  "lexicon.mythicbotany.functional.page2": "水藍蓮用微量的瑪那將鍋釜和花藥台填滿水。",
-  "lexicon.mythicbotany.functional.page3": "若有足夠量的瑪那,在止屍草附近的豬布林和豬布獸就能免於殭屍化。"
+  "lexicon.mythicbotany.functional.page2": "Aquapanthus用微量的瑪那將鍋釜和花藥台填滿水。",
+  "lexicon.mythicbotany.functional.page3": "若有足夠量的瑪那,在Hellebore附近的豬布林和豬布獸就能免於殭屍化。"
 }
