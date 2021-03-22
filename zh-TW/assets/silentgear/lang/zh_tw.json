@@ -663,5 +663,9 @@
   "trait.condition.silentgear.primary_material": "僅限最初",
   "trait.silentgear.accelerate": "加速",
   "trait.silentgear.accelerate.desc": "獲得挖掘速度、攻擊速度和遠程速度且同步損壞",
-  "trait.silentgear.adamant": "堅硬"
+  "trait.silentgear.adamant": "堅硬",
+  "trait.silentgear.adamant.desc": "當擁有至少10心生命值時，裝備增加傷害抵抗力，工具對生物造成更多傷害",
+  "trait.silentgear.ancient": "古老",
+  "trait.silentgear.ancient.desc": "增加方塊和生物的XP掉落",
+  "trait.silentgear.aquatic": "水生"
 }
