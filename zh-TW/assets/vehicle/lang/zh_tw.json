@@ -1,1 +1,21 @@
-{}
+{
+    "vehicle.wheel_type.off_road.name": "越野",
+    "vehicle.wheel_type.snow.name": "雪地",
+    "item.vehicle.spray_can.empty": "沒有顏色",
+    "item.vehicle.standard_wheel": "輪胎",
+    "item.vehicle.sports_wheel": "輪胎",
+    "item.vehicle.racing_wheel": "輪胎",
+    "item.vehicle.off_road_wheel": "輪胎",
+    "item.vehicle.snow_wheel": "輪胎",
+    "item.vehicle.all_terrain_wheel": "輪胎",
+    "item.vehicle.plastic_wheel": "輪胎",
+    "item.vehicle.go_kart_steering_wheel": "方向盤",
+    "block.vehicle.traffic_cone": "三角錐",
+    "entity.vehicle.shopping_cart": "購物車",
+    "entity.vehicle.golf_cart": "高爾夫球車",
+    "entity.vehicle.go_kart": "卡丁車",
+    "vehicle.config.server": "伺服器",
+    "vehicle.config.server.fuel_enabled": "啟用燃料",
+    "vehicle.tooltip.engine": "引擎",
+    "key.vehicle.horn": "喇叭"
+}
