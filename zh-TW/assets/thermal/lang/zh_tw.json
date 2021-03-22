@@ -1,4 +1,5 @@
 {
+  "_comment": "========================================================================================================",
   "block.thermal.apatite_ore": "磷灰石礦石",
   "block.thermal.cinnabar_ore": "硃砂礦石",
   "block.thermal.niter_ore": "硝石礦石",
@@ -365,6 +366,7 @@
   "item.thermal.lightning_grenade.desc": "發生碰撞時造成範圍性震擊並可能伴有雷電。",
   "item.thermal.nuke_grenade": "核能手榴彈",
   "item.thermal.nuke_grenade.desc": "記得扔遠點。",
+  "block.thermal.phyto_tnt": "PNT",
   "block.thermal.phyto_tnt.desc": "大範圍噴灑植育1號，非投擲物。",
   "block.thermal.earth_tnt": "地岩碎裂炸藥",
   "block.thermal.earth_tnt.desc": "破壞方塊並保留掉落物，非常有效的採礦途徑。",
