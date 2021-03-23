@@ -173,5 +173,12 @@
   "block.cutting_board.knife": "切菜",
   "block.cutting_board.knife.subtitles": "切菜聲",
   "block.stove.crackle": "燒煮中的火爐",
-  "block.stove.crackle.subtitles": "火爐的燒煮聲"
+  "block.stove.crackle.subtitles": "火爐的燒煮聲",
+  "farmersdelight.block.feast.use_container": "你需要一個 %s 來盛裝它",
+  "farmersdelight.jei.cooking": "烹飪食物中",
+  "farmersdelight.jei.cutting": "切菜板",
+  "farmersdelight.jei.decomposition": "分解發酵",
+  "farmersdelight.jei.decomposition.light": "被陽光照射使其加速",
+  "farmersdelight.jei.decomposition.fluid": "周邊有水使其加速",
+  "farmersdelight.jei.decomposition.accelerators": "相鄰有催化劑使其加速（見下文）"
 }
