@@ -1,5 +1,8 @@
 # ResourcePack-Mod-zh_tw  
-[![CC](https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/) 
+[![CC](https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
+
+### 官方網站: Https://www.rpmtw.ga   
+
 ## 介紹
 一個兼容Forge/Fabric的Minecraft繁體中文化模組的資源包。  
 此翻譯專案不同於以往的方式，我們先使用一個自製的工具(此儲存庫裡有原始碼)，自動撈取curseforge上的熱門模組下載下來進行分析，抓出模組檔案上傳到crowdin平台，再使用crowdin平台進行翻譯，如果有翻譯變動會自動產生新的資源包檔案，讓大家能夠以最快速拿到第一手檔案。
@@ -29,7 +32,7 @@
 遇到問題了? 歡迎到我們的[Discord伺服器](https://discord.gg/5xApZtgV2u)詢問呦!    
   
 ## 如何協助我們翻譯?  
-請查看本繁體中文化模組資源包的官方網站 [點我前往](https://sites.google.com/view/resourcepack-mod-zh-tw/)  
+請查看本繁體中文化模組資源包的官方網站 [點我前往](https://www.rpmtw.ga)  
 ## 想要新增其他模組的翻譯?
 如果發現在crowdin中沒有您想要翻譯的模組，可以到我們的[Discord伺服器](https://discord.gg/5xApZtgV2u)，到#建議新翻譯 這個頻道，我會盡快幫您新增翻譯選項。
 ## 授權
