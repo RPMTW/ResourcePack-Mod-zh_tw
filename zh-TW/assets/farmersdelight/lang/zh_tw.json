@@ -71,5 +71,16 @@
   "effect.farmersdelight.nourished": "營養",
   "effect.farmersdelight.comfort": "舒適",
   "enchantment.farmersdelight.backstabbing": "背刺",
-  "enchantment.farmersdelight.backstabbing.desc": "從後面攻擊目標時增加額外傷害。"
+  "enchantment.farmersdelight.backstabbing.desc": "從後面攻擊目標時增加額外傷害。",
+  "itemGroup.farmersdelight": "樂在農事",
+  "farmersdelight.container.cooking_pot": "烹飪鍋",
+  "farmersdelight.container.cooking_pot.served_on": "需盛裝在:%s",
+  "farmersdelight.container.basket": "籃子",
+  "farmersdelight.container.pantry": "廚櫃",
+  "farmersdelight.tooltip.cooking_pot.empty": "空的",
+  "farmersdelight.tooltip.cooking_pot.single_serving": "裝有一份:",
+  "farmersdelight.tooltip.cooking_pot.many_servings": "裝有 %s 份:",
+  "farmersdelight.tooltip.dog_food.when_feeding": "被餵食的狗將獲得:",
+  "farmersdelight.tooltip.horse_feed.when_feeding": "被餵食的坐騎將獲得:",
+  "farmersdelight.advancement.root": "樂在農事"
 }
