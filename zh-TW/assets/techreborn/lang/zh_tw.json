@@ -570,5 +570,18 @@
   "techreborn.message.info.block.techreborn.lamp_incandescent": "當給予能量時可產生光亮",
   "techreborn.message.info.block.techreborn.lamp_led": "當給予能量時可產生光亮",
   "techreborn.message.info.block.techreborn.player_detector": "用於檢測玩家的紅石發射塊，可配置",
-  "techreborn.message.info.block.techreborn.alloy_smelter": "用金屬錠或金屬粒製造合金"
+  "techreborn.message.info.block.techreborn.alloy_smelter": "用金屬錠或金屬粒製造合金",
+  "techreborn.message.info.block.techreborn.resin_basin": "自動從樹上收集樹汁\n直接放在橡膠樹身上\n在其下沉積樹汁",
+  "techreborn.message.info.block.techreborn.assembly_machine": "更有效地組裝元件",
+  "techreborn.message.info.block.techreborn.auto_crafting_table": "有足夠電力及材料時自動製作物品",
+  "techreborn.message.info.block.techreborn.chemical_reactor": "混合兩種化合物生成產物",
+  "techreborn.message.info.block.techreborn.compressor": "壓縮金屬磚和金屬錠",
+  "techreborn.message.info.block.techreborn.distillation_tower": "裂解石油至各種衍生產品",
+  "techreborn.message.info.block.techreborn.extractor": "將自然資源加工成另一個有用的產品\n通常比其他方法更有效",
+  "techreborn.message.info.block.techreborn.fluid_replicator": "複製放置在中間的液體\n多方塊結構\n需要能量和 UU 物質",
+  "techreborn.message.info.block.techreborn.grinder": "將礦物和其他材料研磨成粉",
+  "techreborn.message.info.block.techreborn.electric_furnace": "可升級的電子熔爐",
+  "techreborn.message.info.block.techreborn.implosion_compressor": "用TNT的巨大能量壓縮物品",
+  "techreborn.message.info.block.techreborn.industrial_blast_furnace": "在極端溫度下融化堅硬的金屬",
+  "techreborn.message.info.block.techreborn.industrial_electrolyzer": "通過電解將產品分解成副產品"
 }
