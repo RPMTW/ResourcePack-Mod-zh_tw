@@ -1,7 +1,7 @@
 {
-  "text.autoconfig.blur.title": "Blur Config",
-  "text.autoconfig.blur.option.fadeTimeMillis": "Fade Time (in milliseconds)",
-  "text.autoconfig.blur.option.radius": "Radius",
-  "text.autoconfig.blur.option.gradientStartColor": "Gradient Start Color",
-  "text.autoconfig.blur.option.gradientEndColor": "Gradient End Color"
+  "text.autoconfig.blur.title": "模糊配置",
+  "text.autoconfig.blur.option.fadeTimeMillis": "褪色時間（以毫秒為單位)",
+  "text.autoconfig.blur.option.radius": "半徑",
+  "text.autoconfig.blur.option.gradientStartColor": "漸變開始顏色",
+  "text.autoconfig.blur.option.gradientEndColor": "漸變端顏色"
 }

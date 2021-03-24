@@ -53,10 +53,5 @@
 	"gui.xaero_mw_server": "伺服器",
 	"gui.xaero_mw_server_box": "地圖選擇由伺服器自動控制。您可以在XaeroWorldMap目錄中的特定於伺服器的配置中使用“ignoreServerLevelId”關閉此功能。",
 	"gui.xaero_wm_next": "下一頁 >>",
-	"gui.xaero_wm_previous": "<< 上一頁",
-	"gui.xaero_wm_slopes_legacy": "Legacy",
-	"gui.xaero_open_map_animation": "Animation On Open",
-	"gui.xaero_wm_slopes_default_3d": "Default 3D",
-	"gui.xaero_wm_slopes_default_2d": "Default 2D",
-	"gui.xaero_reload_everything": "Reload Regions"
+	"gui.xaero_wm_previous": "<< 上一頁"
 }

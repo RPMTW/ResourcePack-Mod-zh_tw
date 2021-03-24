@@ -1,8 +1,5 @@
 {
-  "item.respawnablepets.etheric_gem": "Etheric Gem",
-  "tooltip.respawnablepets.etheric_gem": "Allows you to toggle pet respawning by punching",
-  "message.respawnablepets.enable_respawn": "%s will now respawn on death",
-  "message.respawnablepets.disable_respawn": "%s will no longer respawn on death",
-  "message.respawnablepets.not_owner": "%s does not belong to you",
-  "message.respawnablepets.blacklisted": "%s is a blacklisted entity"
+  "message.respawnablepets.enable_respawn": "%s 死亡後將會重生",
+  "message.respawnablepets.disable_respawn": "%s 死亡後不再重生",
+  "message.respawnablepets.not_owner": "%s 不屬於你"
 }
