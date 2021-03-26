@@ -5,5 +5,5 @@
   "libx.commamnd.entitydata.modified": "Modified data of %s entities",
   "libx.commamnd.entitydata.modified_player": "Modified data of %s entities. (Warning: You modified player nbt)",
   "libx.commamnd.entitydata.player_modify_no_permission": "Only Operators with permission level 4 can modify player NBT.",
-  "libx.commamnd.reload": "Reloading all LibX configs."
+  "libx.commamnd.reload": "Reloading all LibX common configs."
 }
