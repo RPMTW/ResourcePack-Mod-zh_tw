@@ -27,6 +27,8 @@
 	"container.usefulrailroads.track_builder.redstone_torches": "Redstone Torches",
 	"container.usefulrailroads.track_builder.torches": "Torches (light)",
 	"container.usefulrailroads.track_builder.tunnel_blocks": "Tunnel Blocks",
+	"general.usefulrailroads.click.tooltip.right_click.0": "Right click",
+	"general.usefulrailroads.click.tooltip.shift_right_click.0": "Shift + Right click",
 	"item.usefulrailroads.double_track_builder": "Double Track Builder",
 	"item.usefulrailroads.double_track_builder.tooltip.0": "%s to open settings gui",
 	"item.usefulrailroads.double_track_builder.tooltip.1": "%s to execute build operation",
@@ -35,7 +37,5 @@
 	"item.usefulrailroads.single_track_builder.tooltip.1": "%s to execute build operation",
 	"item.usefulrailroads.track_builder.not_enough_blocks": "Not enough blocks.",
 	"item.usefulrailroads.track_builder.not_enough_fuel": "Not enough fuel. This operation costs %s fuel.",
-	"itemGroup.usefulrailroads.group": "Useful Railroads",
-	"usefulrailroads.tooltip.right_click": "Right click",
-	"usefulrailroads.tooltip.shift_right_click": "Shift + Right click"
+	"itemGroup.usefulrailroads.group": "Useful Railroads"
 }
