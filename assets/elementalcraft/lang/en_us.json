@@ -100,6 +100,7 @@
   "block.elementalcraft.binder": "Element Binder",
   "block.elementalcraft.binder_improved": "Improved Element Binder",
   "block.elementalcraft.crystallizer": "Gem Crystallizer",
+  "block.elementalcraft.air_mill": "Air Mill Grindstone",
   "block.elementalcraft.inscriber": "Rune Inscriber",
   "block.elementalcraft.pedestal": "Pedestal",
   "block.elementalcraft.pedestal_fire": "Fire Pedestal",
@@ -147,6 +148,7 @@
   "block.elementalcraft.shrine_upgrade_pickup": "Pickup Shrine Upgrade",
   "block.elementalcraft.shrine_upgrade_nectar": "Nectar Shrine Upgrade",
   "block.elementalcraft.shrine_upgrade_mystical_grove": "Mystical Grove Shrine Upgrade",
+  "block.elementalcraft.shrine_upgrade_stem_pollination": "Stem Pollination Shrine Upgrade",
 
   "block.elementalcraft.crystalore": "Inert Crystal Ore",
   "block.elementalcraft.whiterock": "White Rock",
@@ -231,6 +233,7 @@
   "elementalcraft.jei.inscription": "Rune Inscription",
   "elementalcraft.jei.pureinfusion": "Pure Infusion",
   "elementalcraft.jei.purification": "Ore Purification",
+  "elementalcraft.jei.grinding": "Grinding",
 
   "tooltip.elementalcraft.infused": "%s infused",
   "tooltip.elementalcraft.scroll_of": "Scroll of %s",
@@ -255,6 +258,7 @@
   "tooltip.elementalcraft.pickup": "Will instantly pickup all items within range",
   "tooltip.elementalcraft.nectar": "Give nectar to bees instead of feeding humans",
   "tooltip.elementalcraft.mystical_grove": "Plant mystical flowers instead of traditional flowers",
+  "tooltip.elementalcraft.stem_pollination": "Stem crops can now be grown to fruit",
 
   "message.elementalcraft.connect": "Connected",
   "message.elementalcraft.disconnect": "Disconnected",
@@ -304,8 +308,9 @@
   "elementalcraft.page.firefurnace0": "The $(item)Fire Furnace$() smelts items by using $(thing)fire element$() instead of fuel.$(br)As for any other $(thing)Instruments$(), the $(item)Fire Furnace$() needs to be on top of a $(ec:tank)Container$(). but not a $(ec:tank_small)Small Container$(). It consumes $(thing)fire$().",
   "elementalcraft.page.fireblastfurnace0": "The $(item)Fire Blast Furnace$() is the $(item)Blast Furnace$() variant of the $(ec:firefurnace)Fire Furnace$().$(br)As for any other $(thing)Instruments$(), the $(item)Fire Blast Furnace$() needs to be on top of a $(ec:tank)Container$(). but not a $(ec:tank_small)Small Container$(). It consumes $(thing)fire$().",
   "elementalcraft.page.extractor_improved0": "The $(item)Improved Extractor$() is an advanced version of the $(ec:extractor)Extractor$(). It extract $(thing)elements$() faster.$(br)As for any other $(thing)Instruments$(), the $(item)Improved Extractor$() needs to be on top of a $(ec:tank)Container$(). but not a $(ec:tank_small)Small Container$().",
-  "elementalcraft.page.purifier0": "The $(item)Purifier$() takes $(item)ores$() and purify them to create $(item)Pure ores$() at a ratio of one to two. You can then smelt them into $(item)ingots$() in any $(item)Furnaces$().$(br)As for any other $(thing)Instruments$(), the $(item)Improved Extractor$() needs to be on top of a $(ec:tank)Container$(). but not a $(ec:tank_small)Small Container$().$(br)It consumes $(thing)earth$().",
-  "elementalcraft.page.binder_improved0": "The $(item)Improved Element Binder$() works like a $(ec:binder)Binder$() and $(ec:infuser)Infuser$() meaning it can do either binding or infusion at a faster rate.",
+  "elementalcraft.page.purifier0": "The $(item)Purifier$() takes $(item)ores$() and purify them to create $(item)Pure ores$() at a ratio of one to two. You can then smelt them into $(item)ingots$() in any $(item)Furnaces$().$(br)As for any other $(thing)Instruments$(), the $(item)purifier$() needs to be on top of a $(ec:tank)Container$(). but not a $(ec:tank_small)Small Container$().$(br)It consumes $(thing)earth$().",
+  "elementalcraft.page.air_mill0": "The (item)Air mill grindstone$() allows you to gring down items like $(item)stone$() to $(item)gravel$().$(br)As for any other $(thing)Instruments$(), the $(item)air mill grindstone$() needs to be on top of a $(ec:tank)Container$() but not a $(ec:tank_small)Small Container$().$(br)It consumes $(thing)air$().",
+  "elementalcraft.page.binder_improved0": "The $(item)Improved Element Binder$() works like a $(ec:binder)Binder$() and $(ec:infuser)Infuser$() meaning it can do either binding or infusion at a faster rate.$(br)As for any other $(thing)Instruments$(), the $(item)improved binder$() needs to be on top of a $(ec:tank)Container$() but not a $(ec:tank_small)Small Container$()",
 
   "elementalcraft.page.infusion0": "To infuse an item simply right-click the $(ec:infuser)Infuser$() while holding the item you want to infuse.$(br)Try it now with an $(item)Inert Crystal$().",
   "elementalcraft.page.infusion1": "An $(thing)Infusion$() can also be applied to $(item)tools$(), improving existing $(thing)enchantments$() or giving them new unique abilities.",

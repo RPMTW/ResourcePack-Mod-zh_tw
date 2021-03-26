@@ -100,11 +100,15 @@
     "container.cookingforblockheads.counter": "Kitchen Counter",
     "container.cookingforblockheads.cabinet": "Kitchen Cabinet",
     "container.cookingforblockheads.fruit_basket": "Fruit Basket",
+    "container.cookingforblockheads.cow_jar_compressed": "Compressed Cow in a Jar",
+    "container.cookingforblockheads.cow_jar": "Cow in a Jar",
+    "container.cookingforblockheads.cow_jar_custom": "%s in a Jar",
 
     "itemGroup.cookingforblockheads": "Cooking for Blockheads",
 
+    "waila.cookingforblockheads:water_stored": "Water Stored: %d/%d",
     "waila.cookingforblockheads:milk_stored": "Milk Stored: %d/%d",
-    "waila.cookingforblockheads:toast_progress": "Toasting... (%s)",
+    "waila.cookingforblockheads:toast_progress": "Toasting... (%s %%)",
     "waila.cookingforblockheads:heating_unit": "Upgrade: Heating Unit",
     "waila.cookingforblockheads:ice_unit": "Upgrade: Ice Unit",
     "waila.cookingforblockheads:preservation_chamber": "Upgrade: Preservation Chamber",
