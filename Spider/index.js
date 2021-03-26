@@ -85,6 +85,7 @@ const request = httpRequest.request(`https://addons-ecs.forgesvc.net/api/v2/addo
 
 
                             function mod_assets(mod_id) {
+                                if (config.Blacklist.includes(mod_id)) return; //黑名單
                                 let dirPath_4 = path.join(__dirname, "../jar/" + responseData[i].slug + "/assets/" + mod_id + "/lang/en_us.json");
                                 if (!fs.existsSync(dirPath_4)) return
 
