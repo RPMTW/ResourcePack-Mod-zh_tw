@@ -1,1 +1,11 @@
-{}
+{
+  "item.constructionwand.stone_wand": "石頭魔杖",
+  "item.constructionwand.iron_wand": "鐵魔杖",
+  "item.constructionwand.diamond_wand": "鑽石魔杖",
+  "item.constructionwand.infinity_wand": "無限魔杖",
+  "item.constructionwand.core_angel": "天使魔杖核心",
+  "item.constructionwand.core_destruction": "破壞魔杖核心",
+  "constructionwand.tooltip.blocks": "最大 %d個方塊",
+  "constructionwand.tooltip.shift": "按 [SHIFT]",
+  "constructionwand.option.cores.constructionwand:core_angel": "§6天使核心"
+}
