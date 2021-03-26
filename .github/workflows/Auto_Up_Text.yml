@@ -4,8 +4,8 @@
 name: "auto update text"
 
 on:
-  schedule:
-  - cron:  '0 3 */14 * *' #似乎也沒有執行.....
+ # schedule:
+  #- cron:  '0 3 */14 * *' #似乎也沒有執行.....
   workflow_dispatch:
     branches:
       - 1.16
