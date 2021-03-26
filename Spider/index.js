@@ -56,13 +56,21 @@ const request = httpRequest.request(`https://addons-ecs.forgesvc.net/api/v2/addo
                             let dirPath_6 = path.join(__dirname, `../jar/${responseData[i].slug}/fabric.mod.json`);
                             if (fs.existsSync(dirPath_2)) {
                                 fs.createReadStream(`../jar/${responseData[i].slug}/META-INF/mods.toml`, 'utf8').pipe(concat(function (data, err) {
+                                    try {
                                     mod_id = JSON.parse(JSON.stringify(toml.parse(data))).mods[0].modId
                                     mod_assets(mod_id);
+                                    } catch (err) {
+                                        console.log("發生錯誤 \n"+err)
+                                    }
                                 }));
                             } else if (fs.existsSync(dirPath_3)) {
                                 fs.createReadStream(`../jar/${responseData[i].slug}/mcmod.info`, 'utf8').pipe(concat(function (data, err) {
+                                    try {
                                     mod_id = JSON.parse(data)[0].modid;
                                     mod_assets(mod_id);
+                                    } catch (err) {
+                                        console.log("發生錯誤 \n"+err)
+                                    }
                                 }));
                             } else if (fs.existsSync(dirPath_6)) {
                                 fs.createReadStream(`../jar/${responseData[i].slug}/fabric.mod.json`, 'utf8').pipe(concat(function (data, err) {
@@ -92,7 +100,7 @@ const request = httpRequest.request(`https://addons-ecs.forgesvc.net/api/v2/addo
                                     try {
                                         JSON.parse(data)
                                     } catch (err) {
-                                        return
+                                        console.log("發生錯誤 \n"+err)
                                     }
                                 }));
                                 fs.copyFile("../jar/" + responseData[i].slug + "/assets/" + mod_id + "/lang/en_us.json", "../assets/" + mod_id + "/lang/en_us.json", (err) => {
@@ -111,26 +119,6 @@ const request = httpRequest.request(`https://addons-ecs.forgesvc.net/api/v2/addo
         request.on('error', error => console.log(error))
         request.end();
     })
-
-    //刪除資料夾/檔案(似乎無效)
-    /*   delete_all("../jar")
-
-       function delete_all(path) {
-           let files = [];
-           if (fs.existsSync(path)) {
-               files = fs.readdirSync(path);
-               files.forEach(function (file, index) {
-                   let curPath = path + "/" + file;
-                   if (fs.statSync(curPath).isDirectory()) { // recurse
-                       delete_all(curPath);
-                   } else { // delete file
-                       fs.unlinkSync(curPath);
-                   }
-               });
-               fs.rmdirSync(path);
-           }
-       }*/
-
 })
 request.on('error', error => console.log(error))
 request.end();
