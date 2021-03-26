@@ -19,9 +19,7 @@
   "item.aiotbotania.livingrock_shovel": "活石鏟",
   "item.aiotbotania.livingrock_hoe": "活石鋤",
   "item.aiotbotania.livingrock_aiot": "活石全能工具",
-  "item.aiotbotania.manasteel_hoe": "魔鋼鋤",
   "item.aiotbotania.manasteel_aiot": "魔鋼全能工具",
-  "item.aiotbotania.elementium_hoe": "源質鋼鋤",
   "item.aiotbotania.elementium_aiot": "源質鋼全能工具",
   "botania.entry.livingwoodTools": "活木工具",
   "botania.entry.livingrockTools": "活石工具",
@@ -41,12 +39,5 @@
   "botania.page.livingrockTools5": "$(1)活石剪刀$(0)",
   "botania.page.livingrockTools6": "$(1)活石鋤$(0)",
   "botania.page.livingrockTools7": "$(1)活石全能工具$(0)",
-  "botania.page.manaGear11": "由於安裝了$(2)植物魔法全能工具模組$(0)，新增了兩個物品<br>$(1)鋤$(0)和原版鋤類似，但像其他工具一樣使用$(4)魔力$(0)。<br>$(1)全能工具$(0)融合了$(1)魔鋼劍$(0), $(1)鎬$(0), $(1)斧$(0), $(1)鏟$(0)和$(1)鋤$(0)，並結合了它們的全部特性。",
-  "botania.page.manaGear12": "$(1)魔鋼鋤$(0)",
-  "botania.page.manaGear13": "$(1)魔鋼全能工具$(0)",
-  "botania.page.elfGear10": "最後，$(1)源質鋼劍$(0)會增加攻擊時 $(4)小精靈$(0)生成的機率（即使沒有 裝備$(1)源質鋼護甲$(0)也會生成）並 增強生成的$(4)小精靈$(0)。",
-  "botania.page.elfGear16": "$(1)源質鋼鋤$(0)耕種一塊泥土或其他方塊時，會將其變成不會因跳躍而破裂的農田。有了這個農田，您不需要附近的水，方塊永遠是濕潤的。右鍵單擊農田時，它會變回泥土。",
-  "botania.page.elfGear17": "$(1)源質鋼鋤$(0)",
-  "botania.page.elfGear18": "最後，$(1)源質鋼全能工具$(0)融合了其他$(1)源質鋼$(0)工具的所有特殊效果。<br>由於可以使用斧和鎬放置$(4)樹苗$(0)和$(4)火把$(0)，因此可以透過$(4)shift-右鍵單擊$(0)切換功能。一種模式是耕地和建立草徑，另一種模式是放置樹苗和火把。",
-  "botania.page.elfGear19": "$(1)源質鋼全能工具$(0)"
+  "botania.page.elfGear10": "最後，$(1)源質鋼劍$(0)會增加攻擊時 $(4)小精靈$(0)生成的機率（即使沒有 裝備$(1)源質鋼護甲$(0)也會生成）並 增強生成的$(4)小精靈$(0)。"
 }
