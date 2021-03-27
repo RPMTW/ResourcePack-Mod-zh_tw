@@ -1,1 +1,8 @@
-{}
+{
+	"item.ars_nouveau.novice_spell_book": "&a新手魔法書",
+	"item.ars_nouveau.apprentice_spell_book": "&b法師的魔法書",
+	"item.ars_nouveau.archmage_spell_book": "&d大法師 魔法書",
+	"enchantment.ars_nouveau.mana_regen.desc": "增加玩家的魔力回復",
+	"enchantment.ars_nouveau.mana_boost.desc": "增加玩家的最大法力",
+	"enchantment.ars_nouveau.reactive.desc": "在使用工具或受到傷害時有機率施放刻字咒語"
+}
