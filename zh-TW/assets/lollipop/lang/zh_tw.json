@@ -1,1 +1,25 @@
-{}
+{
+  "info.lollipop.block": "方塊",
+  "info.lollipop.owner": "所有者：#",
+  "info.lollipop.facing": "砌牆(面朝方向)",
+  "info.lollipop.all": "全部",
+  "info.lollipop.side.up": "上方",
+  "info.lollipop.side.down": "下方",
+  "info.lollipop.side.north": "北",
+  "info.lollipop.side.south": "南",
+  "info.lollipop.side.west": "西",
+  "info.lollipop.side.east": "東",
+  "info.lollipop.ignore": "忽略",
+  "info.lollipop.on": "開",
+  "info.lollipop.off": "關",
+  "info.lollipop.configuration": "配置",
+  "info.lollipop.io.mode.receive": "接收",
+  "info.lollipop.io.mode.push": "推",
+  "info.lollipop.io.mode.none": "關",
+  "info.lollipop.stored": "現存",
+  "info.lollipop.capacity": "容量",
+  "info.lollipop.energy.fe": "能量",
+  "info.lollipop.full": "滿月",
+  "info.lollipop.empty": "Empty",
+  "info.lollipop.channel": "頻道: %s"
+}
