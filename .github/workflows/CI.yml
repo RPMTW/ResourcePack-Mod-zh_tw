@@ -7,28 +7,27 @@ jobs:
   build:
     runs-on: ubuntu-latest
 
+    strategy:
+      matrix:
+        node-version: [14.x]
+        
     steps:
       - uses: actions/checkout@v2
-
-      - uses: papeloto/action-zip@v1 #zipped file 1.16
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v1
         with:
-          files: zh-TW
-          dest: RPMTW-1.16-V${{ github.run_number }}.zip
+          node-version: ${{ matrix.node-version }}
+      - run: |
+         npm i
+         node ${{ github.workspace }}/pack
+
       - name: Upload 1.16 release
         id: one
         uses: svenstaro/upload-release-action@v2
         with:
           repo_token: ${{ secrets.GITHUB_TOKEN }}
           tag: RPMTW-1.16-V${{ github.run_number }}
-          file: ${{ github.workspace }}/RPMTW-1.16-V${{ github.run_number }}.zip
-          asset_name: RPMTW-1.16-V${{ github.run_number }}.zip
-          overwrite: true 
-          body: "繁體中文化模組資源包(RPMTW) 版本:V${{ github.run_number }} \n更新內容: [${{ github.event.head_commit.message }}](https://github.com/SiongSng/ResourcePack-Mod-zh_tw/commit/${{ github.sha }}) \n\n## 下載資訊\n1.16繁體中文化模組材質包 [點我下載](https://github.com/SiongSng/ResourcePack-Mod-zh_tw/releases/download/RPMTW-1.16-V${{ github.run_number }}/RPMTW-1.16-V${{ github.run_number }}.zip)"
-      - name: Upload 1.16 release
-        uses: svenstaro/upload-release-action@v2
-        with:
-          repo_token: ${{ secrets.GITHUB_TOKEN }}
-          tag: RPMTW-1.16-V${{ github.run_number }}
-          file: ${{ github.workspace }}/RPMTW-1.16-V${{ github.run_number }}.zip
+          file: ${{ github.workspace }}/RPMTW-1.16.zip
           asset_name: RPMTW-1.16.zip
           overwrite: true 
+          body: "繁體中文化模組資源包(RPMTW) 版本:V${{ github.run_number }} \n更新內容: [${{ github.event.head_commit.message }}](https://github.com/SiongSng/ResourcePack-Mod-zh_tw/commit/${{ github.sha }}) \n\n## 下載資訊\n1.16繁體中文化模組材質包 [點我下載](https://github.com/SiongSng/ResourcePack-Mod-zh_tw/releases/download/RPMTW-1.16-V${{ github.run_number }}/RPMTW-1.16.zip)"
