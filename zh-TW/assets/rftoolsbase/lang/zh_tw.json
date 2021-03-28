@@ -25,6 +25,7 @@
     "block.rftoolsbase.information_screen": "資訊螢幕",
     "_comment": "訊息",
     "itemGroup.rftoolsbase": "RFtools:基礎",
+    "key.categories.rftools": "RFTools",
     "key.debugDumpNBTItem": "獲取手持物品的NBT",
     "key.debugDumpNBTBlock": "獲取選中方塊的NBT",
     "key.nextDestination": "循環到下一個目標",
@@ -50,6 +51,7 @@
     "message.rftoolsbase.smartwrench.info2": "方塊： ",
     "message.rftoolsbase.smartwrench_select.header": "通用智慧扳手。 空中右鍵單擊以變更模式",
     "message.rftoolsbase.smartwrench_select.gold": "用作塊選擇器：蹲下右鍵單擊以選擇主塊，然後右鍵單擊以將塊與主塊連接",
+    "message.rftoolsbase.smartwrench_select.info1": "模式： ",
     "message.rftoolsbase.smartwrench_select.info2": "方塊： ",
     "message.rftoolsbase.security_manager": "@a內容: %s 組\n@f此塊管理您的安全卡"
 }
