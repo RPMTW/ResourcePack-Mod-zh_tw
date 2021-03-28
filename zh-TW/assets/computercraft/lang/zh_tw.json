@@ -1,1 +1,16 @@
-{}
+{
+    "block.computercraft.disk_drive": "驅動器",
+    "block.computercraft.monitor_normal": "螢幕",
+    "block.computercraft.turtle_normal": "海龜",
+    "item.computercraft.disk": "磁碟片",
+    "item.computercraft.treasure_disk": "磁碟片",
+    "upgrade.minecraft.diamond_pickaxe.adjective": "挖礦",
+    "upgrade.minecraft.diamond_hoe.adjective": "耕田中",
+    "upgrade.computercraft.wireless_modem_normal.adjective": "無線",
+    "upgrade.computercraft.wireless_modem_advanced.adjective": "安德",
+    "commands.computercraft.generic.position": "%s, %s, %s",
+    "commands.computercraft.generic.yes": "Y",
+    "commands.computercraft.generic.no": "北",
+    "tracking_field.computercraft.tasks.name": "任務",
+    "gui.computercraft.tooltip.copy": "複製到剪貼板"
+}
