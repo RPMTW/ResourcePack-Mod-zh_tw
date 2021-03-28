@@ -1,1 +1,6 @@
-{}
+{
+	"gui.solcarrot.food_book.config": "配置",
+	"config.solcarrot.food_blacklist": "黑名單",
+	"config.solcarrot.food_whitelist": "白名單 (停用黑名單)",
+	"config.solcarrot.reset_on_death": "死亡後重設"
+}
