@@ -1,1 +1,6 @@
-{}
+{
+	"ccl.commands.gc.performing": "執行垃圾回收中...",
+	"ccl.commands.killall.success": "已消滅 %s 個實體。",
+	"ccl.commands.count.fail": "找不到實體。",
+	"ccl.commands.count.total": "找到 %s 個實體。"
+}
