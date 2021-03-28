@@ -5,6 +5,8 @@
 	"item.itemfilters.or.description": "必須符合任一個過濾條件",
 	"item.itemfilters.and.description": "必須符合所有過濾條件",
 	"item.itemfilters.xor.description": "必須符合其中一個過濾條件 ( 不能兩個都符合 )",
+	"item.itemfilters.tag": "標籤過濾器",
+	"item.itemfilters.mod": "按mod分揀過濾器",
 	"item.itemfilters.id_regex.description": "使用正規表示式檢查物品 ID",
 	"item.itemfilters.damage.description": "檢查物品損耗度",
 	"item.itemfilters.block": "方塊過濾器"
