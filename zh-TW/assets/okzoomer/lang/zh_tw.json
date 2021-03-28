@@ -1,6 +1,9 @@
 {
-    "config.okzoomer.cinematic_camera.off": "關閉",
-    "config.okzoomer.zoom_transition.off": "關閉",
+    "config.okzoomer.cinematic_camera.off": "關",
+    "config.okzoomer.zoom_transition.off": "關",
     "config.okzoomer.scroll_step": "滾動靈敏度",
-    "config.okzoomer.reset_to_preset.default": "預設值"
+    "config.okzoomer.category.tweaks": "調整",
+    "config.okzoomer.reset_to_preset.none": "無",
+    "config.okzoomer.reset_to_preset.default": "預設值",
+    "config.okzoomer.reset_to_preset.classic": "經典"
 }
