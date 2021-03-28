@@ -20,6 +20,7 @@ jobs:
       - run: |
          npm i ${{ github.workspace }}/pack 
          node ${{ github.workspace }}/pack
+         ls
 
       - name: Upload 1.16 release
         id: one
