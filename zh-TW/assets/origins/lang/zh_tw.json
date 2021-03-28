@@ -1,1 +1,24 @@
-{}
+{
+  "power.origins.water_breathing.name": "魚鰓",
+  "power.origins.water_breathing.description": "你只能在水中呼吸。",
+  "power.origins.aqua_affinity.description": "你在水中破壞方快的速度與在陸地上一樣快。",
+  "power.origins.water_vision.description": "你的水下視力超群。",
+  "power.origins.swim_speed.description": "你游泳的速度更快了。",
+  "power.origins.carnivore.name": "肉食主義者",
+  "power.origins.fire_immunity.description": "你對所有火焰傷害免疫。",
+  "power.origins.water_vulnerability.name": "恐水症",
+  "power.origins.vegetarian.name": "素食主義者",
+  "power.origins.fall_immunity.description": "你永遠不會受到掉落傷害。",
+  "power.origins.claustrophobia.name": "幽閉恐懼症",
+  "power.origins.strong_arms.name": "擒拿手",
+  "power.origins.translucent.name": "半透明",
+  "origins.gui.select": "選擇",
+  "origins.gui.close": "關閉",
+  "origins.gui.impact.none": "無",
+  "origins.gui.impact.low": "很少",
+  "origins.gui.impact.medium": "中",
+  "origins.gui.impact.high": "較高",
+  "origin.origins.random.name": "隨機",
+  "layer.origins.origin.name": "原點",
+  "layer.origins.origin.missing_origin.name": "缺失"
+}
