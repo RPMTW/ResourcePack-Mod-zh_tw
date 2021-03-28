@@ -1,1 +1,11 @@
-{}
+{
+  "cimtb.harvestable.symbol.false": "§4✘",
+  "cimtb.harvestable.symbol.true": "§2✔",
+  "cimtb.harvest_level.level.format": "%s (%s)",
+  "cimtb.harvest_level.level.0": "§7石頭",
+  "cimtb.effective_tool.fabric.axes": "斧",
+  "cimtb.effective_tool.fabric.hoes": "鋤頭",
+  "cimtb.effective_tool.fabric.pickaxes": "稿子",
+  "cimtb.effective_tool.fabric.shovels": "鏟子",
+  "cimtb.effective_tool.fabric.swords": "劍"
+}
