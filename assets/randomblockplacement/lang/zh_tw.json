@@ -1,0 +1,8 @@
+{
+    "key.categories.randomblockplacement": "RandomBlockPlacement",
+    "key.randomblockplacement.toggle": "Randomizer on/off",
+    
+    "msg.active": "Randomly switching between inventory positions %d and %d",
+    "msg.inactive" : "RandomBlockPlacement inactive",
+    "msg.cmderr" : "Use /rblock off, or /rblock and two numbers from 1 to 9"
+}
