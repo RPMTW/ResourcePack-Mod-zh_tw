@@ -34,13 +34,17 @@ jobs:
     # - run: node ${{ github.workspace }}/Spider/index.js
     - name: "提交檔案"
       run: |
-        git config --global user.email "rrt467778@gmail.com.com"
-        git config --global user.name "SiongSng"
-        git add ./assets
-        git commit -m "更新翻譯原始英文文本"
-        
-    - name: "推送變更"
-      uses: ad-m/github-push-action@master
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        branch: ${{ github.ref }}
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'actions@users.noreply.github.com'
+          @"
+          protocol=https
+          host=github.com
+          username=github-actions[bot]
+          password=${{ secrets.GITHUB_TOKEN }}
+          "@ > .\1.txt
+          gc 1.txt|git credential-manager  store
+          ri .\1.txt -Force
+          git add .
+          git commit -m "更新原始文本"
+          git push origin HEAD:${{ github.ref }}
+      shell: pwsh
