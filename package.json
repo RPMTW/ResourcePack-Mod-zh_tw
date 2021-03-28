@@ -4,6 +4,7 @@
   "dependencies": {
     "adm-zip": "^0.5.3",
     "concat-stream": "^2.0.0",
+    "del": "^6.0.0",
     "request": "^2.88.2"
   },
   "devDependencies": {
