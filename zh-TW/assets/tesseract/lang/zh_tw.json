@@ -10,9 +10,9 @@
   "gui.tesseract.transfer.send": "僅發送",
   "gui.tesseract.transfer.receive": "僅接收",
   "gui.tesseract.transfer.both": "雙向傳輸",
-  "gui.tesseract.redstone.disabled": "停用",
+  "gui.tesseract.redstone.disabled": "§l停用§r",
   "gui.tesseract.redstone.high": "高",
   "gui.tesseract.redstone.low": "低",
-  "gui.tesseract.channel.private": "私有",
-  "gui.tesseract.channel.public": "公用"
+  "gui.tesseract.channel.private": "私人",
+  "gui.tesseract.channel.public": "公共"
 }
