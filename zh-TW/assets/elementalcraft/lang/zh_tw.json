@@ -1,1 +1,19 @@
-{}
+{
+  "element.elementalcraft.water": "水",
+  "element.elementalcraft.earth": "地",
+  "element.elementalcraft.air": "風之",
+  "item.elementalcraft.focus": "專注: %d",
+  "item.elementalcraft.scroll": "滾輪",
+  "item.elementalcraft.rune_slate": "符文石板",
+  "block.elementalcraft.inscriber": "刻符者",
+  "spell.elementalcraft.fireball": "火球術",
+  "spell.elementalcraft.purification": "淨化",
+  "spell.elementalcraft.inferno": "煉獄",
+  "spell.elementalcraft.dash": "沖馳",
+  "spell.elementalcraft.speed": "速度",
+  "shrine_upgrade_bonus.elementalcraft.capacity": "容量: %s",
+  "shrine_upgrade_bonus.elementalcraft.range": "範圍: %s",
+  "elementalcraft.category.basics": "基礎",
+  "elementalcraft.category.advanced": "進階",
+  "elementalcraft.entry.binding": "鑲邊"
+}
