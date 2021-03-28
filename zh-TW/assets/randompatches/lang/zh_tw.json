@@ -1,1 +1,18 @@
-{}
+{
+	"selectWorld.unableToLoad": "無法載入世界",
+	"key.dismount": "離開載具",
+	"key.narrator": "開關朗讀功能",
+	"key.pause": "暫停",
+	"key.gui": "切換 GUI",
+	"text.autoconfig.randompatches.category.client": "客戶端",
+	"text.autoconfig.randompatches.option.client.bugFixes": "錯誤修正",
+	"text.autoconfig.randompatches.option.client.keyBindings.dismount": "離開載具",
+	"text.autoconfig.randompatches.option.client.keyBindings.toggleNarrator": "開關朗讀功能",
+	"text.autoconfig.randompatches.option.client.keyBindings.pause": "暫停",
+	"text.autoconfig.randompatches.option.client.keyBindings.toggleGUI": "切換 GUI",
+	"text.autoconfig.randompatches.option.client.window.customTitle": "自訂標題",
+	"text.autoconfig.randompatches.option.client.window.title": "標題",
+	"text.autoconfig.randompatches.option.client.window.customIcon": "自訂圖示",
+	"text.autoconfig.randompatches.category.misc": "雜項",
+	"text.autoconfig.randompatches.option.misc.bugFixes": "錯誤修正"
+}
