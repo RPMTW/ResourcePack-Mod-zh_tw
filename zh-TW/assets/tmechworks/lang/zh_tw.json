@@ -1,1 +1,18 @@
-{}
+{
+  "block.tmechworks.copper_block": "銅塊",
+  "block.tmechworks.aluminum_block": "鋁塊",
+  "block.tmechworks.copper_ore": "銅礦石",
+  "block.tmechworks.aluminum_ore": "鋁礦",
+  "item.tmechworks.copper_ingot": "銅錠",
+  "item.tmechworks.copper_nugget": "銅粒",
+  "item.tmechworks.aluminum_ingot": "鋁錠",
+  "item.tmechworks.aluminum_nugget": "鋁粒",
+  "item.tmechworks.upgrade_blank": "空白升級",
+  "item.tmechworks.upgrade_speed": "速度升級",
+  "tmechworks:widget.arrow.down": "下方",
+  "tmechworks:widget.arrow.up": "上方",
+  "tmechworks:widget.arrow.front": "前面",
+  "tmechworks:widget.arrow.left": "左邊",
+  "tmechworks:widget.arrow.right": "右邊",
+  "tmechworks:gui.upgrades": "升級組件"
+}
