@@ -1,1 +1,16 @@
-{}
+{
+  "container.shulkerbox.contains": "包含%s組",
+  "container.shulkerbox.empty": "Empty",
+  "text.autoconfig.shulkerboxtooltip.option.main.alwaysOn": "始終開啟",
+  "text.autoconfig.shulkerboxtooltip.option.main.enablePreview": "啟用預覽",
+  "shulkerboxtooltip.compactPreviewTagBehavior.ignore": "忽略",
+  "shulkerboxtooltip.tooltipType.none": "無",
+  "shulkerboxtooltip.lootTableInfoType.hide": "兔子皮",
+  "shulkerboxtooltip.lootTableInfoType.simple": "簡單",
+  "shulkerboxtooltip.lootTableInfoType.advanced": "進階",
+  "shulkerboxtooltip.theme.auto": "自動",
+  "shulkerboxtooltip.theme.light": "光",
+  "shulkerboxtooltip.enderChestSyncType.none": "無",
+  "shulkerboxtooltip.enderChestSyncType.active": "啟動",
+  "shulkerboxtooltip.enderChestSyncType.passive": "被動"
+}
