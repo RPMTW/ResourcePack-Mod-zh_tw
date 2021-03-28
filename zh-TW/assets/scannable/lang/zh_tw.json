@@ -1,4 +1,18 @@
 {
+  "item.scannable.scanner": "掃描器",
+  "gui.scannable.scanner.title": "掃描器",
+  "gui.scannable.scanner.modules_inactive": "停用",
+  "gui.scannable.module_block.list": "方塊",
+  "gui.scannable.module_entity.list": "實體",
+  "config.scannable.structures": "結構",
+  "structure.pillager_outpost": "奪者前哨站",
   "structure.mineshaft": "廢棄礦坑",
-  "structure.village": "村莊"
+  "structure.jungle_pyramid": "叢林神廟",
+  "structure.desert_pyramid": "沙漠神廟",
+  "structure.igloo": "冰屋",
+  "structure.shipwreck": "沉船",
+  "structure.swamp_hut": "沼澤小屋",
+  "structure.ocean_ruin": "海底遺跡",
+  "structure.endcity": "終界城",
+  "structure.buried_treasure": "埋沒的寶藏"
 }
