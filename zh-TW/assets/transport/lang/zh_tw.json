@@ -1,1 +1,13 @@
-{}
+{
+  "block.transport.steam": "蒸汽",
+  "cargo.transport.empty": "Empty",
+  "cargo.transport.fluid": "流體儲罐",
+  "cargo.transport.item": "物品欄",
+  "enginestate.transport.neutral_0": "普通",
+  "item.transport.steam_bucket": "蒸汽桶",
+  "screen.transport.blank": "空白",
+  "screen.transport.fluid.empty": "Empty",
+  "text.transport.fluid": "液體：%s",
+  "text.transport.milli_bucket": "mB",
+  "tooltip.transport.contents": "內容： "
+}
