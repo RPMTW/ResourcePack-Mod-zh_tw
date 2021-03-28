@@ -1,0 +1,31 @@
+{
+  "itemGroup.vanillaautomated.machines": "Vanilla Automated",
+
+  "stat.vanillaautomated.interact_with_fisher": "Interactions with Fisher",
+  "stat.vanillaautomated.interact_with_cobblestone_generator": "Interactions with Cobblestone Generator",
+  "stat.vanillaautomated.interact_with_nullifier": "Interactions with Nullifier",
+  "stat.vanillaautomated.interact_with_timer": "Interactions with Timer",
+  "stat.vanillaautomated.interact_with_mob_farm": "Interactions with Mob Farm",
+  "stat.vanillaautomated.interact_with_farmer": "Interactions with Farmer",
+  "stat.vanillaautomated.interact_with_crusher": "Interactions with Crusher",
+  "stat.vanillaautomated.interact_with_breaker": "Interactions with Breaker",
+  "stat.vanillaautomated.interact_with_placer": "Interactions with Placer",
+  "stat.vanillaautomated.interact_with_crafter": "Interactions with Crafter",
+
+  "block.vanillaautomated.machine_block": "Machine Block",
+  "block.vanillaautomated.fisher_block": "Fisher",
+  "block.vanillaautomated.cobblestone_generator_block": "Cobblestone Generator",
+  "block.vanillaautomated.magnet_block": "Magnet Block",
+  "block.vanillaautomated.nullifier": "Nullifier",
+  "block.vanillaautomated.timer": "Timer",
+  "block.vanillaautomated.mob_farm_block": "Mob Farm Block",
+  "block.vanillaautomated.farmer_block": "Farmer",
+  "block.vanillaautomated.crusher_block": "Crusher",
+  "block.vanillaautomated.breaker_block": "Breaker",
+  "block.vanillaautomated.placer_block": "Placer",
+  "block.vanillaautomated.crafter_block": "Crafter",
+
+  "vanillaautomated.container.timer.speed": "Speed",
+
+  "item.vanillaautomated.mob_net": "Mob Net"
+}
