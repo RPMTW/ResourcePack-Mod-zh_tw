@@ -1,4 +1,5 @@
 {
+  "text.autoconfig.winged.category.default": "一般",
   "text.autoconfig.winged.option.lootTables.abandonedMineshaft.chance": "生成機率 ( 0.0是永不，1.0是永遠 )",
   "text.autoconfig.winged.option.lootTables.buriedTreasure.chance": "生成機率 ( 0.0是永不，1.0是永遠 )",
   "text.autoconfig.winged.option.lootTables.simpleDungeon.chance": "生成機率 ( 0.0是永不，1.0是永遠 )",
@@ -20,6 +21,9 @@
   "text.autoconfig.winged.option.lootTables.vexEssence.chance": "掉落機率 ( 0.0是永不，1.0是永遠 )",
   "text.autoconfig.winged.option.lootTables.holidayDrops.requirePlayer": "被玩家殺死才掉落",
   "text.autoconfig.winged.option.lootTables.holidayDrops.chance": "掉落機率 ( 0.0是永不，1.0是永遠 )",
-  "text.autoconfig.winged.option.boosters.standardBooster.ticksPerDamage.@Tooltip[1]": "20 遊戲刻等於一秒。",
-  "text.autoconfig.winged.option.boosters.fastBooster.ticksPerDamage.@Tooltip[1]": "20 遊戲刻等於一秒。"
+  "item.winged.black_feather": "黑色羽毛圖案",
+  "item.winged.fried_chicken": "炸雞",
+  "item.winged.bat_wing": "蝙蝠翅膀",
+  "item.winged.speedometer": "速度表",
+  "wing.winged.bat": "蝙蝠翅膀"
 }
