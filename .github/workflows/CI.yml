@@ -18,7 +18,7 @@ jobs:
         with:
           node-version: ${{ matrix.node-version }}
       - run: |
-         ${{ github.workspace }}/pack npm i
+         npm i ${{ github.workspace }}/pack 
          node ${{ github.workspace }}/pack
 
       - name: Upload 1.16 release
