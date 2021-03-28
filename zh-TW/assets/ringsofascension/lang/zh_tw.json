@@ -1,5 +1,5 @@
 {
-  "tooltip.ringsofascension.worn": "當佩戴戒指時:",
+  "tooltip.ringsofascension.worn": "佩戴戒指時：",
   "tooltip.ringsofascension.fire_resistance": "給予抗火效果",
   "tooltip.ringsofascension.invisibility": "給予隱身效果",
   "tooltip.ringsofascension.regeneration": "給予回復效果",
@@ -17,6 +17,13 @@
   "tooltip.ringsofascension.wither": "免疫凋零效果",
   "tooltip.ringsofascension.undying_cooldown": "冷卻時間: secondsHere 秒",
   "tooltip.ringsofascension.slow_resistance": "免疫緩速效果",
+  "tooltip.ringsofascension.slot.ring": "戒指",
+  "tooltip.ringsofascension.tier": "等級:",
+  "tooltip.ringsofascension.tier.common": "普通",
+  "tooltip.ringsofascension.tier.rare": "珍貴",
+  "tooltip.ringsofascension.tier.epic": "史詩",
+  "tooltip.ringsofascension.tier.mythic": "神話",
+  "text.autoconfig.ringsofascension.option.general": "一般",
   "text.autoconfig.ringsofascension.option.tiers": "等級",
   "text.autoconfig.ringsofascension.option.lootLocations.ringLocationMagnetism": "包含磁環的戰利品表格"
 }
