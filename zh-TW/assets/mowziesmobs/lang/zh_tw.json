@@ -1,1 +1,21 @@
-{}
+{
+  "_comment": "進度",
+  "entity.mowziesmobs.lantern": "燈",
+  "entity.mowziesmobs.naga": "娜迦",
+  "item.mowziesmobs.spear": "矛",
+  "effect.mowziesmobs.poison_resist": "抗毒性",
+  "effect.mowziesmobs.effect.poison_resist": "抗毒性藥水",
+  "splash_potion.mowziesmobs.effect.poison_resist": "飛濺抗毒性藥水",
+  "lingering_potion.mowziesmobs.effect.poison_resist": "滯留抗毒性藥水",
+  "tipped_arrow.effect.poison_resist": "抗毒性之箭",
+  "death.attack.dart": "%1$s 被 %2$s 射殺了",
+  "config.mowziesmobs.mobs": "怪物",
+  "config.mowziesmobs.lantern": "燈",
+  "config.mowziesmobs.naga": "娜迦",
+  "config.mowziesmobs.barakoa_spear": "矛",
+  "config.mowziesmobs.attack_damage": "攻擊傷害",
+  "config.mowziesmobs.attack_speed": "攻擊速度",
+  "config.mowziesmobs.toughness": "堅韌",
+  "config.mowziesmobs.general": "一般",
+  "advancements.mowziesmobs.kill_barako.title": "篡位者"
+}
