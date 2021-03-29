@@ -160,7 +160,7 @@
     "key.immersiveengineering.chemthrowerSwitch": "切換化學液體罐",
     "key.immersiveengineering.railgunZoom": "用磁軌炮變焦",
     "desc.immersiveengineering.info.attachedTo": "連接從%1$s，%2$s，%3$s",
-    "desc.immersiveengineering.info.attachedToDim": "連接從%4$s世界的%1$s，%2$s，%3$s",
+    "desc.immersiveengineering.info.attachedToDim": "連接從%4$s維度的%1$s，%2$s，%3$s",
     "desc.immersiveengineering.info.energyStored": "存儲能量：%1$s Flux",
     "desc.immersiveengineering.info.energyStoredEU": "存儲能量：%1$s EU",
     "desc.immersiveengineering.info.gasStored": "存儲氣體：%1$s",
@@ -418,7 +418,7 @@
     "gui.immersiveengineering.config.redstone_color_sending": "發送紅石信號:",
     "gui.immersiveengineering.config.redstone_color_receiving": "接受紅石信號:",
     "chat.immersiveengineering.warning.wrongCable": "你無法在此處連接線纜",
-    "chat.immersiveengineering.warning.wrongDimension": "你處在一個錯誤的世界中",
+    "chat.immersiveengineering.warning.wrongDimension": "你處在一個錯誤的維度中",
     "chat.immersiveengineering.warning.sameConnection": "你不能將線纜接在同一個點上",
     "chat.immersiveengineering.warning.tooFar": "你離上一個連接點太遠了",
     "chat.immersiveengineering.warning.cantSee": "連接被阻斷",
@@ -1138,5 +1138,5 @@
     "ie.manual.entry.mineral_subtitle": "礦石相關",
     "ie.manual.newerVersion": " ——最新！",
     "ie.manual.currentVersion": " ——目前",
-    "ie.manual.entry.mineralsDimAny": "§l%1$s§r<br>是一種會在任何世界生成的礦脈。"
+    "ie.manual.entry.mineralsDimAny": "§l%1$s§r是一種會在任何維度生成的礦脈。"
 }
