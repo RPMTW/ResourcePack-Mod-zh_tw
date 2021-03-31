@@ -1,20 +1,20 @@
 {b}XNet 手冊
 
 目錄：
-{l:intro}Introduction
-{l:basic}Basic Networking
-{l:advanced}Advanced Networking
-{l:types}Channel Types
-{l:netcolors}Network Colors
-{l:colors}Colored Cables
-{l:connector}Connectors
-{l:controller}Controller
-{l:router}Router
-{l:wirelessrouter}Wireless Router
-{l:proxy}Redstone Proxy
+{l:intro}簡介
+{l:basic}基本網路
+{l:advanced}進階網路
+{l:types}通道類型
+{l:netcolors}網路顏色
+{l:colors}彩色纜線
+{l:connector}連接器
+{l:controller}控制器
+{l:router}路由器
+{l:wirelessrouter}無線路由器
+{l:proxy}紅石代理(伺服器)
 
 {-------------------------------------------------------------}
-{b}Introduction
+{b}簡介
 {n:intro}
 XNet is all about networking and transporting items, liquids, energy
 and information through the world. Using cables you connect various
