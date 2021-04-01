@@ -105,7 +105,7 @@ const request = httpRequest.request(`https://addons-ecs.forgesvc.net/api/v2/addo
                                         console.log("解析Json時發生錯誤 \n"+err)
                                     }
                                 }));
-                                fs.copyFile("../jar/" + slug + "/assets/" + mod_id + "/lang/en_us.json", "../assets/" + mod_id + "/lang/en_us.json", (err) => {
+                                fs.copyFile("../jar/" + slug + "/assets/" + mod_id + "/lang/en_us.json", "../assets/" + mod_id + "/lang/zh_tw.json", (err) => {
                                     console.log("成功移動模組: " + responseData[i].name + " 的原始翻譯文本")
                                     if (err) throw err;
                                 })
