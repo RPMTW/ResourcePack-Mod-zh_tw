@@ -1,0 +1,21 @@
+{
+    "_comment": "crwdns906080:0crwdne906080:0",
+    "zerocore:api.multiblock.validation.success": "crwdns906082:0crwdne906082:0",
+    "zerocore:api.multiblock.validation.block_not_connected": "crwdns906084:0crwdne906084:0",
+    "zerocore:api.multiblock.validation.too_few_parts": "crwdns906086:0crwdne906086:0",
+    "zerocore:api.multiblock.validation.machine_too_large": "crwdns906088:0%1$dcrwdnd906088:0%2$scrwdne906088:0",
+    "zerocore:api.multiblock.validation.machine_too_small": "crwdns906090:0%1$dcrwdnd906090:0%2$scrwdne906090:0",
+    "zerocore:api.multiblock.validation.invalid_part": "crwdns906092:0crwdne906092:0",
+    "zerocore:api.multiblock.validation.invalid_part_for_frame": "crwdns906094:0crwdne906094:0",
+    "zerocore:api.multiblock.validation.invalid_part_for_bottom": "crwdns906096:0crwdne906096:0",
+    "zerocore:api.multiblock.validation.invalid_part_for_top": "crwdns906098:0crwdne906098:0",
+    "zerocore:api.multiblock.validation.invalid_part_for_sides": "crwdns906100:0crwdne906100:0",
+    "zerocore:api.multiblock.validation.invalid_part_for_interior": "crwdns906102:0crwdne906102:0",
+    "zerocore:api.multiblock.validation.invalid_foreign_part": "crwdns906104:0crwdne906104:0",
+    "item.zerocore.debugtool": "crwdns906106:0crwdne906106:0",
+    "zerocore:debugTool.block.tooltip1": "crwdns906108:0crwdne906108:0",
+    "zerocore:debugTool.block.tooltip2": "crwdns906110:0%1$scrwdne906110:0",
+    "zerocore:debugTool.block.tooltip3": "crwdns906112:0%1$scrwdnd906112:0%2$scrwdne906112:0",
+    "zerocore:gui.patchouli.missing": "crwdns906114:0crwdne906114:0",
+    "zerocore:gui.manual.open": "crwdns906116:0crwdne906116:0"
+}
