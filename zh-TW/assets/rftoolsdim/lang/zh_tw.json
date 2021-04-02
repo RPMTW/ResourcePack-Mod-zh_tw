@@ -174,13 +174,18 @@
   "message.rftoolsdim.uncommon_lost_knowledge.gold": "可以放置在知識儲存機中以協助製作維度卡",
   "message.rftoolsdim.uncommon_lost_knowledge.pattern": "樣板: ",
   "message.rftoolsdim.uncommon_lost_knowledge.reason": "原因: ",
+  "message.rftoolsdim.rare_lost_knowledge.header": "一個稀有知識樣板",
   "message.rftoolsdim.rare_lost_knowledge.gold": "可以放置在知識儲存機中以協助製作維度卡",
   "message.rftoolsdim.rare_lost_knowledge.pattern": "樣板: ",
   "message.rftoolsdim.rare_lost_knowledge.reason": "原因: ",
+  "message.rftoolsdim.legendary_lost_knowledge.header": "一個傳說知識樣板",
   "message.rftoolsdim.legendary_lost_knowledge.gold": "可以放置在知識儲存機中以協助製作維度卡",
   "message.rftoolsdim.legendary_lost_knowledge.pattern": "樣板: ",
   "message.rftoolsdim.legendary_lost_knowledge.reason": "原因: ",
+  "message.rftoolsdim.dimension_monitor.header": "此裝置可以監控一個維度的當前能量",
   "message.rftoolsdim.dimension_monitor.power": "能量: ",
   "message.rftoolsdim.dimension_monitor.name": "名稱： ",
+  "message.rftoolsdim.phased_field_generator.header": "當造訪未充能維度時，此RF充能模組將會給予暫時的保護",
+  "message.rftoolsdim.phased_field_generator.gold": "永遠放在快捷鍵中而且不要讓能量用完!!",
   "message.rftoolsdim.phased_field_generator.power": "能量: "
 }
