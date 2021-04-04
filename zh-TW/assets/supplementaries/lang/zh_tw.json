@@ -1,9 +1,13 @@
 {
+  "itemGroup.supplementaries": "補充資料",
+  "block.supplementaries.faucet": "水龍頭",
+  "block.supplementaries.hanging_sign": "懸掛標誌",
   "block.supplementaries.planter": "種植器",
   "block.supplementaries.jar": "罐子",
   "entity.supplementaries.firefly": "螢火蟲",
   "item.supplementaries.firefly": "螢火蟲 生怪蛋",
   "globe.supplementaries.earth": "地",
+  "block.supplementaries.globe": "地球",
   "block.supplementaries.soul_jar": "靈魂瓶",
   "item.supplementaries.flute": "長笛",
   "block.supplementaries.rope": "繩子",
@@ -18,5 +22,6 @@
   "message.supplementaries.anti_repost_link": "這裡",
   "fluid.supplementaries.sap": "樹汁",
   "block.supplementaries.goblet": "酒杯",
-  "block.supplementaries.laser_block": "Laser Block"
+  "block.supplementaries.laser_block": "Laser Block",
+  "item.supplementaries.sign_post_oak": "橡木標誌柱"
 }
