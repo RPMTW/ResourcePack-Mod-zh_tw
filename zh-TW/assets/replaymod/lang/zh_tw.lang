@@ -1,6 +1,6 @@
 replaymod.gui.edit=編輯
 
-#Website API翻譯
+#網站API翻譯
 replaymod.api.parammissing=缺少所需的參數： %1$s
 replaymod.api.invalidvalue=參數%1$s的無效值 - 可能的值：%2$s。
 replaymod.api.invalidlogin=提供無效的登入數據
@@ -91,7 +91,7 @@ replaymod.gui.copy=複製
 replaymod.title=重播模式
 
 replaymod.gui.recording.resume=恢復錄音
-replaymod.gui.recording.pause=Pause Recording
+replaymod.gui.recording.pause=暫停錄音
 replaymod.gui.recording.stop=Stop Recording
 replaymod.gui.recording.start=Start Recording
 
