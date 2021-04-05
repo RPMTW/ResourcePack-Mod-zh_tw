@@ -1,4 +1,5 @@
 {
+    "itemGroup.tetra": "Tetra",
     "tetra.attribute.draw_strength.name": "拉弓力量",
     "tetra.attribute.draw_speed.name": "拉弓耗時",
     "tetra.attribute.ability_damage.name": "特殊功能傷害",
@@ -82,6 +83,7 @@
     "tetra.stats.level_suffix": "等級",
     "tetra.stats.reach": "使用範圍",
     "tetra.stats.reach.tooltip": "可以觸及最遠 §e%s§r 格的方塊和實體",
+    "tetra.stats.reach.tooltip_blocks": "此物品可以到達§e%s§r區塊以外的區域，不影響實體被擊中的距離。",
     "tetra.stats.reach_normalized": "使用範圍",
     "tetra.stats.reach_normalized.tooltip": "增加這個物品的使用範圍 §e%s§r 個方塊",
     "tetra.stats.durability": "耐久",
