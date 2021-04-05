@@ -1,0 +1,20 @@
+{
+    "gui.integratedterminals.terminal_storage.tooltip.energy": "能量",
+    "gui.integratedterminals.terminal_storage.step.next": "下一頁",
+    "gui.integratedterminals.terminal_storage.step.craft": "合成",
+    "gui.integratedterminals.terminal_storage.sort": "排序",
+    "gui.integratedterminals.terminal_storage.sort.order.ascending": "遞增",
+    "gui.integratedterminals.terminal_storage.sort.order.descending": "遞減",
+    "gui.integratedterminals.terminal_storage.sort.itemstack.name": "商品名稱",
+    "gui.integratedterminals.terminal_storage.sort.fluidstack.name": "流體名稱",
+    "gui.integratedterminals.terminal_crafting_job.craftingplan.dependencies": "尺寸: %s",
+    "gui.integratedterminals.terminal_crafting_job.craftingplan.crafting_channel": "頻道: %s",
+    "gui.integratedterminals.terminal_crafting_job.craftingplan.owner": "所有者：#",
+    "gui.integratedterminals.craftingplan.status.error": "錯誤",
+    "gui.integratedterminals.craftingplan.status.unstarted": "有效",
+    "gui.integratedterminals.craftingplan.status.crafting": "合成中",
+    "gui.integratedterminals.craftingplan.status.finished": "完成",
+    "info_book.integratedterminals.introduction": "簡介",
+    "info_book.integratedterminals.storage_terminal.crafting": "合成中",
+    "info_book.integratedterminals.tutorials.introduction": "簡介"
+}

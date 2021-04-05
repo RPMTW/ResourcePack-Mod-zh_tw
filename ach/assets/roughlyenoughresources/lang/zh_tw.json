@@ -1,0 +1,19 @@
+{
+  "rer.worldgen.category": "crwdns848652:0%scrwdne848652:0",
+  "rer.loot.category": "crwdns848654:0crwdne848654:0",
+  "rer.entity.loot.category": "crwdns848656:0crwdne848656:0",
+  "rer.condition.or": "crwdns848658:0%scrwdnd848658:0%scrwdne848658:0",
+  "rer.condition.invert": "crwdns848660:0%scrwdne848660:0",
+  "rer.condition.enchantment": "crwdns848662:0%scrwdne848662:0",
+  "rer.condition.item": "crwdns848664:0%scrwdne848664:0",
+  "rer.condition.chance": "crwdns848666:0%scrwdnd848666:0%%crwdne848666:0",
+  "rer.condition.chance.looting": "crwdns848668:0%scrwdnd848668:0%%crwdne848668:0",
+  "rer.condition.killedByPlayer": "crwdns848670:0crwdne848670:0",
+  "rer.condition.onFire": "crwdns848672:0crwdne848672:0",
+  "rer.function.and": "crwdns848674:0%scrwdnd848674:0%scrwdne848674:0",
+  "rer.function.count": "crwdns848676:0%scrwdne848676:0",
+  "rer.function.atLeast": "crwdns848678:0%dcrwdne848678:0",
+  "rer.function.atMost": "crwdns848680:0%dcrwdne848680:0",
+  "rer.function.bonus.enchant": "crwdns848682:0%scrwdne848682:0",
+  "rer.loot.range": "crwdns848684:0%dcrwdnd848684:0%dcrwdne848684:0"
+}

@@ -1,0 +1,20 @@
+{
+  "_comment": "工具提示",
+  "block.bettermuffling.muffling_block": "消音塊",
+  "block.bettermuffling.muffling_block_advanced": "進階消音塊",
+  "item.bettermuffling.upgrade": "進階升級",
+  "gui.muffling_block.title": "消音選項",
+  "button.muffling_block.range": "範圍",
+  "button.muffling_block.player_only": "私人模式",
+  "button.muffling_block.placer_only.on": "私人模式: 開啟",
+  "button.muffling_block.placer_only.off": "私人模式: 關閉",
+  "label.muffling_block.sound.category": "分類",
+  "label.muffling_block.volume": "音量",
+  "label.muffling_block.sound.names": "聲音名稱",
+  "tooltip.muffling_block.black.white.list": "白色/黑色清單",
+  "tooltip.muffling_block.listening.on": "聆聽聲音: 開啟",
+  "tooltip.muffling_block.listening.off": "聆聽聲音: 關閉",
+  "tooltip.muffling_block.entry.delete": "刪除選取的項目",
+  "tooltip.hold_key.info": "按住 %s 以顯示更多資訊。",
+  "tooltip.upgrade.info": "Shift + 右鍵點擊一個 \n消音塊進行升級。"
+}
