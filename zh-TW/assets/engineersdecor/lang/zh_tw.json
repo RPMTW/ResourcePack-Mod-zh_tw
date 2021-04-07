@@ -169,7 +169,7 @@
   "block.engineersdecor.small_tree_cutter.help": "在它前面砍樹。\n 不收集木材。\n 用紅石信號停用。\n ${！tree_cutter_requires_power engineersdecor.tooltip.massive_speed_boost_with_rf_power}tree_cutter_requires_power美元？engineersdecor.tooltip.requires_rf_power}",
   "block.engineersdecor.small_tree_cutter.status": "SOC： %2$sRFr |的 %1$s%% 進展： %3$s%% （%4$s）",
   "block.engineersdecor.small_waste_incinerator": "小型廢物焚化爐",
-  "block.engineersdecor.small_waste_incinerator.help": "垃圾與內部菲福插槽。\n 物品可以插入四面，\n ，並保存，直到沒有\n 空間留在菲福。之後，\n 最古老的堆疊將被焚毀。\n 應用電動RF/FE電源來\n 提高處理速度。\n 搬遷時保留庫存\n 。",
+  "block.engineersdecor.small_waste_incinerator.help": "垃圾桶的內部共有五十個儲存格。\n 可以從四面導入物品。\n 並保留到沒有為止。\n 剩餘的空間在fiftho。\n 之後最舊的儲存格將被焚燒。\n 將RF/FE電源應用於提高處理速度。\n 當被移動時，將保留物品。",
   "block.engineersdecor.steel_catwalk": "鋼製走道",
   "block.engineersdecor.steel_catwalk.help": "簡單的走秀，以便更好地訪問\n台大型機器。也可以放在\n從頂部看方向。按下帶有欄杆的\n，將護欄\n添加到側面（關閉單擊：確切\n位置，遠鍵單擊：自動最佳\n匹配）。再次按兩下以刪除\n護欄。",
   "block.engineersdecor.steel_catwalk_stairs": "鋼製走道樓梯",
