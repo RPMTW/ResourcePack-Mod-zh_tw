@@ -1,5 +1,12 @@
 {
+  "itemGroup.slashblade": "拔刀劍",
+  "itemGroup.slashblade.desc": "墜入阿修羅道",
   "attribute.name.generic.reachDistance": "延伸",
+  "slashblade.tooltip.killcount": "擊殺數: %1$s",
+  "slashblade.tooltip.material": "所需的製造條件",
+  "slashblade.tooltip.material.requiredobjects.anvil": "所需物品: 鐵砧",
+  "slashblade.tooltip.material.killcount": "%1$s <= 擊殺數",
+  "slashblade.tooltip.material.level": "%1$s <= 玩家等級",
   "slashblade.tooltip.material.broken": "損壞",
   "slashblade.tooltip.material.enchantments": "附魔"
 }
