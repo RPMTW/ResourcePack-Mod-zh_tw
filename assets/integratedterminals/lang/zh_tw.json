@@ -59,6 +59,8 @@
     "gui.integratedterminals.terminal_storage.crafting.filter.type.all": "§oBoth",
     "gui.integratedterminals.terminal_storage.crafting.filter.type.storage": "§aStorage",
     "gui.integratedterminals.terminal_storage.crafting.filter.type.craftable": "§aCraftable",
+    "gui.integratedterminals.terminal_storage.setdefaults": "Mark as default settings",
+    "gui.integratedterminals.terminal_storage.setdefaults.info": "Use current settings for new terminals.",
     "gui.integratedterminals.terminal_crafting_job.craftingplan.dependencies": "Size: %s",
     "gui.integratedterminals.terminal_crafting_job.craftingplan.cancel": "Cancel Job",
     "gui.integratedterminals.terminal_crafting_job.craftingplan.cancel_all": "Cancel All Jobs",
@@ -94,6 +96,7 @@
     "key.integratedterminals.terminal.craftinggrid.clearplayer": "Clear Crafting Grid into Inventory",
     "key.integratedterminals.terminal.craftinggrid.clearstorage": "Clear Crafting Grid into Storage",
     "key.integratedterminals.terminal.craftinggrid.balance": "Balance Crafting Grid",
+    "key.integratedterminals.terminal.portable.open": "Open first Portable Storage Terminal",
 
     "_comment": "Advancements",
     "advancement.integratedterminals.menril_glass": "The Glass of Illumination",
@@ -110,6 +113,13 @@
     "block.integratedterminals.menril_glass.info": "Illuminating glass",
     "block.integratedterminals.chorus_glass": "Chorus Glass",
     "block.integratedterminals.chorus_glass.info": "Passable glass",
+
+    "_comment": "Items",
+    "item.integratedterminals.terminal_storage_portable": "Portable Storage Terminal",
+    "item.integratedterminals.terminal_storage_portable.info": "Visually interact with the ingredients stored in the linked network. Right click on Omni-Directional Connector to link.",
+    "item.integratedterminals.terminal_storage_portable.status.no_network": "No network has been linked. Right click on Omni-Directional Connector to link.",
+    "item.integratedterminals.terminal_storage_portable.status.invalid_network": "The linked network could not be found",
+    "item.integratedterminals.terminal_storage_portable.status.linked": "Linked to network",
 
     "_comment": "Part types",
     "parttype.integratedterminals.terminal_storage": "Storage Terminal",
@@ -139,12 +149,13 @@
     "info_book.integratedterminals.storage_terminal.usage": "Usage",
     "info_book.integratedterminals.storage_terminal.usage.text1": "The &lStorage Terminal&r contains tabs with all your active &ostorage networks&r in the current attached network, optionally separated by channel. For example, if you have several &oEnergy Batteries&r attached, you will see the sum of all energy in the energy tab. When other mods are installed that adds storage capabilities, such as the &oitem&r and &ofluid&r capabilities from &lIntegrated Tunnels&r, then you will be able to interact with these as well. The bottom of each tab displays the total and maximum quantities. For the remainder of this book, we will refer to &othings&r that can be stored (such as items, fluids and energy) as &lingredients&r.",
     "info_book.integratedterminals.storage_terminal.usage.text2": "Next to viewing ingredients, you can also interact with them. Like with any inventory, this is done by clicking to pick up something, and clicking again to place something. For certain ingredient types such as energy and fluids, you will need to click on a container item when clicking in your inventory, such as batteries or tanks. Next to clicking, you can also shift-click to move in bulk.",
-    "info_book.integratedterminals.storage_terminal.usage.text3": "When a storage network ingredient is selected, you can increase it by a small amount by clicking on the storage network slot again. Shift-clicking will increase it with a larger amount. In the same way, you can decrease the quantity by right-clicking.",
+    "info_book.integratedterminals.storage_terminal.usage.text3": "When a storage network ingredient is selected, you can increase it by a small amount by clicking on the storage network slot again. Shift-clicking will increase it with a larger amount. In the same way, you can decrease the quantity by right-clicking. The same can be done by scrolling over a storage ingredient.",
     "info_book.integratedterminals.storage_terminal.usage.text4": "When a storage network ingredient is selected, you can move a small quantity by right-clicking, everything that is held by left-clicking, and the half of what is held by middle-clicking.",
     "info_book.integratedterminals.storage_terminal.usage.text5": "Via the left-hand buttons, you can toggle through different sorting options, such as ordering by name and quantity.",
     "info_book.integratedterminals.storage_terminal.usage.text6": "Using the search box, you can filter the displayed ingredients by name. Deeper searching through results can be done by define further parameters separated by space. &oor&r-conditions can be defined with ''|'.",
     "info_book.integratedterminals.storage_terminal.usage.text7": "Different prefixes are possible to define your search target. By default, you will search within the ingredient name. By prefixing the string with &o'@'&r, you can search by mod. With &o'#'&r, tooltips can be searched. Finally, &o'$'&r queries item tags. For instance, the search condition &o'$plank @minecraft'&r will show all planks added by Minecraft.",
     "info_book.integratedterminals.storage_terminal.usage.text8": "When an item storage network is available, you will also get an additional crafting tab. This is just like the item tab, but with an integrated crafting grid. It has several useful integrated functionalities, such as clearing the grid into your inventory or network, balancing the grid, and configuring the grid auto-refill behaviour after crafting.",
+    "info_book.integratedterminals.storage_terminal.usage.text9": "All terminal settings (buttons, searchboxes, tabs, ...) are persisted per player and per terminal. In order to configure what settings will be loaded for newly placed terminals, you can press the anvil button on the bottom right of your terminal gui.",
 
     "info_book.integratedterminals.storage_terminal.autocrafting": "Autocrafting",
     "info_book.integratedterminals.storage_terminal.autocrafting.text1": "&oNote: this section only applies if you have an autocrafting mod such as Integrated Crafting installed.&r",
@@ -156,6 +167,11 @@
     "info_book.integratedterminals.storage_terminal.power_usage.text1": "Power users tend to dislike clicking too much as it takes too much time. The &lStorage Terminal&r offers a couple of &ohotkeys&r to speed up the usage of common tasks such as selecting the search field, browsing through tabs, clearing the crafting grid, and balancing crafting grid slots. These hotkeys are listed at the end of this section.",
     "info_book.integratedterminals.storage_terminal.power_usage.text2": "When you have the JEI mod installed, you will be able to exploit JEI's recipe shift-clicking ability to quickly fill the crafting grid. The source of items is defined by the refill source. Furthermore, you can enable synchronization between the JEI and &lStorage Terminal&r search fields.",
     "info_book.integratedterminals.storage_terminal.power_usage.text3": "If you are not satisfied with the provided text-based filtering options, you can insert your own &lPredicates&r via &lVariable Cards&r. These will should accept the ingredient type as input, and a &9Boolean&0 as ouput.",
+
+    "info_book.integratedterminals.storage_terminal.portable": "Portable Terminal",
+    "info_book.integratedterminals.storage_terminal.portable.text1": "By attaching some &lCrystalized Menril Chunks&r to your &lStorage Terminal&r, you can create a portable variant of the terminal",
+    "info_book.integratedterminals.storage_terminal.portable.text2": "In order to link your &lPortable Storage Terminal&r to a certain network, your network will need an &lOmni-Directional Connector&r. Linking to it can be done by just right-clicking with your &lPortable Storage Terminal&r on the &lOmni-Directional Connector&r.",
+    "info_book.integratedterminals.storage_terminal.portable.text3": "For power users, it is possible to configure a hotkey to open the first &lPortable Storage Terminal&r that is available in your inventory.",
 
     "info_book.integratedterminals.crafting_job_terminal": "Crafting Job Terminal",
     "info_book.integratedterminals.crafting_job_terminal.text1": "&oNote: this section only applies if you have an autocrafting mod such as Integrated Crafting installed.&r",
