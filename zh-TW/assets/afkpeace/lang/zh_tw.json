@@ -7,5 +7,7 @@
   "afkpeace.disconnectscreen.disabled": "AFKPeace 已被伺服器禁用。",
   "afkpeace.button.cancel": "取消",
   "afkpeace.button.confirm": "確定",
-  "afkpeace.config.title": "AFKPeace 設定"
+  "afkpeace.config.title": "AFKPeace 設定",
+  "afkpeace.option.reconnectEnabled": "重新連線： %s",
+  "afkpeace.option.autoAfkTimer": "自動 AFK 計時器"
 }
