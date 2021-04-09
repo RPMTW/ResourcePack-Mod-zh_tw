@@ -18,18 +18,15 @@
 6. 使用你的RPMTW自動繁化模組或者其他方式自動下載最新的翻譯包下來使用
 
 ## 資訊
-|翻譯進度|最新快照版本|Github Actions|Curseforge 下載次數|
+|翻譯進度|最新版本|Github Actions|Curseforge|
 |:-----:|:--------:|:------------:|:----------------------------:|
-[![Crowdin](https://badges.crowdin.net/resourcepack-mod-zhtw/localized.svg)](https://crowdin.com/project/resourcepack-mod-zhtw)|[![latest](https://img.shields.io/github/release/SiongSng/ResourcePack-Mod-zh_tw.svg)](https://github.com/SiongSng/ResourcePack-Mod-zh_tw/releases/latest)|[![Actions](https://github.com/SiongSng/ResourcePack-Mod-zh_tw/workflows/CI/badge.svg)](https://github.com/SiongSng/ResourcePack-Mod-zh_tw/actions)|[![curseforge](http://cf.way2muchnoise.eu/full_448833_downloads.svg)](https://www.curseforge.com/minecraft/texture-packs/resourcepack-mod-zh_tw)
-## 如何下載/安裝此資源包?
-首先請先到 [這裡](https://github.com/SiongSng/ResourcePack-Mod-zh_tw/releases/latest) 會有最新版本的資源包，下載完成後到遊戲內的 ESC>選項>資源包>開啟資源包資料夾 把下載下來的檔案丟進去，再把資源包載入，再按下 完成 等待一下子就完成載入資源包囉!。  
-   
+[![Crowdin](https://badges.crowdin.net/resourcepack-mod-zhtw/localized.svg)](https://crowdin.com/project/resourcepack-mod-zhtw)|[![latest](https://img.shields.io/github/release/SiongSng/ResourcePack-Mod-zh_tw.svg)](https://github.com/SiongSng/ResourcePack-Mod-zh_tw/releases/latest)|[![Actions](https://github.com/SiongSng/ResourcePack-Mod-zh_tw/workflows/CI/badge.svg)](https://github.com/SiongSng/ResourcePack-Mod-zh_tw/actions)|[![curseforge](http://cf.way2muchnoise.eu/full_461500_downloads.svg)](https://www.curseforge.com/minecraft/mc-mods/rpmtw-update-mod)
+## 如何下載/安裝此資源包或者協助我們翻譯?  
+請查看RPMTW的官方網站 [點我前往](https://www.rpmtw.ga)  
 
 ## 支援
 遇到問題了? 歡迎到我們的[Discord伺服器](https://discord.gg/5xApZtgV2u)詢問呦!    
-  
-## 如何協助我們翻譯?  
-請查看本繁體中文化模組資源包的官方網站 [點我前往](https://www.rpmtw.ga)  
+
 ## 想要新增其他模組的翻譯?
 如果發現在crowdin中沒有您想要翻譯的模組，可以到我們的[Discord伺服器](https://discord.gg/5xApZtgV2u)，到#建議新翻譯 這個頻道，我會盡快幫您新增翻譯選項。
 ## 授權
@@ -38,4 +35,4 @@
 自動撈取curseforge上的原始翻譯檔案工具->特別感謝:幽浮貓(YumekuiiNight#1550)、芒果凍布丁(YT Mango#4092) 提供本工具開發建議。   
 感謝全體翻譯人員-> [這裡可以看到所有貢獻翻譯的人員動態](https://crowdin.com/project/resourcepack-mod-zhtw/activity_stream)
 
-### 感謝所有為這個資源包貢獻的人，幫助這個材質包推廣的人，你們辛苦了，感激不盡。  
+### 感謝所有為RPMTW貢獻的人和所有模組作者，沒有你們，也不會有RPMTW。
