@@ -50,7 +50,9 @@
     "commands.computercraft.dump.action": "檢視此電腦的相關資訊",
     "commands.computercraft.shutdown.synopsis": "遠端關閉電腦。",
     "commands.computercraft.shutdown.done": "關閉 %s/%s 電腦",
+    "commands.computercraft.turn_on.synopsis": "遠端打開電腦。",
     "commands.computercraft.view.desc": "打開電腦的終端機，可以遠端控制電腦。這並不提供對模塊數據的存取。你可以指定電腦的實例ID（如123）或電腦ID（如#123）。",
+    "commands.computercraft.track.desc": "追蹤電腦的執行時間，以及它們處理的事件數量。這與/forge track提供的資訊類似，可以用於診斷lag。",
     "commands.computercraft.track.dump.computer": "電腦",
     "commands.computercraft.generic.no_position": "<no pos>",
     "commands.computercraft.generic.position": "%s, %s, %s",
@@ -58,6 +60,8 @@
     "commands.computercraft.generic.no": "北",
     "tracking_field.computercraft.tasks.name": "任務",
     "tracking_field.computercraft.turtle.name": "模塊作業",
+    "tracking_field.computercraft.http.name": "HTTP 請求",
+    "tracking_field.computercraft.http_upload.name": "HTTP 上傳",
     "tracking_field.computercraft.http_download.name": "HTTP 下載",
     "gui.computercraft.tooltip.copy": "複製到剪貼板"
 }
