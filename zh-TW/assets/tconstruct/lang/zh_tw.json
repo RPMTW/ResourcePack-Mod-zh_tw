@@ -573,8 +573,10 @@
     "modifier.tconstruct.haste.1": "六脈神劍",
     "modifier.tconstruct.haste.2": "更快",
     "modifier.tconstruct.haste.3": "最快",
-    "modifier.tconstruct.haste.4": "最更快",
-    "modifier.tconstruct.haste.5": "最最快",
+    "modifier.tconstruct.haste.4": "快還要更快",
+    "modifier.tconstruct.haste.5": "星爆氣流斬",
+    "modifier.tconstruct.haste.flavor": "C8763",
+    "modifier.tconstruct.haste.description": "用魔法紅色小粉來達到10秒16下的速度",
     "modifier.tconstruct.beheading": "斬首",
     "modifier.tconstruct.fiery": "熾熱",
     "modifier.tconstruct.necrotic": "壞死",
@@ -643,6 +645,7 @@
     "gui.tconstruct.crafting_station": "合成站",
     "gui.tconstruct.part_builder": "部件製作台",
     "gui.tconstruct.part_builder.info": "在這裡，你可以製作部件來滿足你的工匠魂。\n\n將空白模板放入左邊的格子然後選你要的部件，另外一格則是放你想要的部件材質。\n是不是很簡單呢?",
+    "gui.tconstruct.part_builder.material_value": "材料數量:%s個",
     "gui.tconstruct.part_builder.cost": "模板消耗:%s個",
     "gui.tconstruct.cast_chest": "鑄模箱",
     "gui.tconstruct.part_chest": "部件箱",
@@ -672,5 +675,6 @@
     "jei.tconstruct.modifiers.title": "強化",
     "jei.tconstruct.modifiers.upgrade": "強化需要一個升級次數才能套用",
     "jei.tconstruct.modifiers.upgrades": "強化需要%s個升級次數才能套用",
+    "jei.tconstruct.modifiers.max": "最高等級: ",
     "jei.tconstruct.beheading.title": "斬首"
 }
