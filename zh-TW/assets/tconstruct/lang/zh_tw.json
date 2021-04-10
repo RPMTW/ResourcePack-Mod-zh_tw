@@ -589,6 +589,7 @@
     "modifier.tconstruct.luck.3": "最幸運",
     "modifier.tconstruct.creative_upgrade": "創造升級",
     "modifier.tconstruct.creative_upgrade.flavor": "骯髒的作弊者!",
+    "modifier.tconstruct.creative_upgrade.description": "用點小手段增加升級次數",
     "modifier.tconstruct.jagged": "鋸齒",
     "modifier.tconstruct.enhanced.description": "玫瑰金的搭配很不錯，還能升級獎勵!",
     "modifier.tconstruct.maintained": "保持",
@@ -670,6 +671,6 @@
     "jei.tconstruct.alloy.title": "合金",
     "jei.tconstruct.modifiers.title": "強化",
     "jei.tconstruct.modifiers.upgrade": "強化需要一個升級次數才能套用",
-    "jei.tconstruct.modifiers.upgrades": "強化需要%s個強化次數才能套用",
+    "jei.tconstruct.modifiers.upgrades": "強化需要%s個升級次數才能套用",
     "jei.tconstruct.beheading.title": "斬首"
 }
