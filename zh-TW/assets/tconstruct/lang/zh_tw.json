@@ -761,9 +761,10 @@
     "tooltip.tconstruct.tool.abilities": "技能剩餘點數: ",
     "tooltip.tconstruct.tool.broken": "損壞",
     "tooltip.tconstruct.tool.empty": "Empty",
-    "tooltip.tconstruct.hold_shift": "按住%s查看基礎資訊",
+    "tooltip.tconstruct.hold_shift": "按住%s查看數據",
     "tooltip.tconstruct.hold_ctrl": "按住%s查看部件",
     "tooltip.part.material_added_by": "此材料由%s添加",
+    "tooltip.part.missing_info": "部件沒有資料",
     "itemGroup.tconstruct.general": "匠魂物品",
     "itemGroup.tconstruct.tools": "匠魂工具",
     "itemGroup.tconstruct.tool_parts": "匠魂部件",
@@ -786,6 +787,8 @@
     "gui.tconstruct.tinker_station.no_traits": "無 :[",
     "recipe.tconstruct.modifier.not_enough_upgrades": "需要最少%s個升級次數來強化",
     "recipe.tconstruct.modifier.not_enough_abilities": "需要至少%s點技能點來強化",
+    "gui.tconstruct.error": "錯誤",
+    "gui.tconstruct.warning": "警告",
     "gui.tconstruct.error.unknown_material": "未知材料",
     "gui.tconstruct.error.not_enough_durability": "沒有足夠的耐久度來替換部件!\n還需要%d點耐久度",
     "jei.tconstruct.time": "%s 秒",
@@ -809,6 +812,7 @@
     "jei.tconstruct.modifiers.upgrade": "強化需要一個升級次數才能套用",
     "jei.tconstruct.modifiers.upgrades": "強化需要%s個升級次數才能套用",
     "jei.tconstruct.modifiers.free": "不需要強化插槽",
+    "jei.tconstruct.modifiers.incremental": "這個配方是遞增的，你可以添加部分材料來獲得部分效果",
     "jei.tconstruct.modifiers.max": "最高等級: ",
     "jei.tconstruct.beheading.title": "斬首"
 }
