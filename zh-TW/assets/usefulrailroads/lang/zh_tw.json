@@ -1,10 +1,23 @@
 {
 	"block.usefulrailroads.buffer_stop": "止衝擋",
-	"block.usefulrailroads.direction_rail": "定向軌道",
+	"block.usefulrailroads.clamp_rail": "提速鐵軌(0.25格/Tick)",
+	"block.usefulrailroads.direction_rail": "單向鐵軌",
 	"block.usefulrailroads.highspeed_rail": "高速鐵軌（5格/Tick）",
+	"block.usefulrailroads.intersection_rail": "十字鐵軌",
+	"block.usefulrailroads.teleport_rail": "傳送鐵軌",
+	"block.usefulrailroads.teleport_rail.how_to_setup": "把傳送鐵軌和終界珍珠丟在目的地上面，等到打雷就可以了",
+	"block.usefulrailroads.teleport_rail.missing_setup": "無法直接放置，請先設定。",
+	"container.usefulrailroads.teleport_rail": "傳送鐵軌",
 	"container.usefulrailroads.teleport_rail.fuel": "燃料",
 	"container.usefulrailroads.teleport_rail.x": "X",
 	"container.usefulrailroads.teleport_rail.y": "Y",
+	"container.usefulrailroads.teleport_rail.z": "Z",
+	"container.usefulrailroads.track_builder": "建造鐵軌小幫手",
 	"container.usefulrailroads.track_builder.fuel": "燃料",
-	"container.usefulrailroads.track_builder.mode": "模式"
+	"container.usefulrailroads.track_builder.ground_blocks": "地面方塊",
+	"container.usefulrailroads.track_builder.mode": "模式",
+	"container.usefulrailroads.track_builder.rails": "鐵軌",
+	"general.usefulrailroads.click.tooltip.right_click.0": "點擊右鍵",
+	"general.usefulrailroads.click.tooltip.shift_right_click.0": "潛行+ 單擊右鍵",
+	"item.usefulrailroads.single_track_builder": "建造鐵軌小幫手"
 }
