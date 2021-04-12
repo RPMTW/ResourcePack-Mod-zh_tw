@@ -1,6 +1,13 @@
 {
   "language": "English",
-  "engineerstools.tooltip.hint.help": "[6] 9ctrl 移位= r 説明= 6]r",
+  "itemGroup.tabengineerstools": "工程師的工具",
+  "engineerstools.tooltip.hint.extended": "§6[§9shift§r 信息§6]§r",
+  "engineerstools.tooltip.hint.help": "§6[§9ctrl-shift§r 幫助§6]§r",
+  "block.engineerstools.ariadne_coal_x": "煤碳粉筆",
+  "block.engineerstools.ariadne_coal_y": "煤碳粉筆",
+  "block.engineerstools.ariadne_coal_z": "煤碳粉筆",
+  "item.engineerstools.ariadne_coal": "煤碳粉筆",
+  "item.engineerstools.charged_lapis": "充能青金石",
   "item.engineerstools.material_box": "金屬儲物盒",
   "item.engineerstools.material_box.tip": "§6已使用%1$s格/剩%2$s格",
   "item.engineerstools.sleeping_bag": "睡袋"
