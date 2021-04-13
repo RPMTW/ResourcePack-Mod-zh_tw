@@ -1,4 +1,7 @@
 {
-  "block.gravestones.gravestone": "墓碑"
+  "block.gravestones.gravestone": "墓碑",
+  "text.autoconfig.gravestones.option.mainSettings": "主要設定",
+  "text.autoconfig.gravestones.option.mainSettings.enableGraves": "啟用墓碑",
+  "text.gravestones.grave_coordinates": "您的墓碑已在 [x： %d， y： %d， z： %d ]"
 }
 
