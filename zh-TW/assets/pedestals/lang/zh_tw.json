@@ -1,6 +1,9 @@
 {
     "itemGroup.pedestals_blocks": "基座",
     "pedestals.patch_book": "基座",
+    "pedestals.filters.tooltip_filterwhite": "白名單",
+    "pedestals.filters.tooltip_filterblack": "黑名單",
+    "item.pedestals.filter.filterbase": "過濾器",
     "item.pedestals.linkingtool": "連結器",
     "item.pedestals.linkingtool.tool_X": "X:",
     "item.pedestals.linkingtool.tool_Y": " Y:",
@@ -18,6 +21,9 @@
     "pedestals.upgrade_tooltips.speed_3": "六倍速",
     "pedestals.upgrade_tooltips.speed_4": "十倍速",
     "pedestals.upgrade_tooltips.speed_5": "二十倍速",
+    "pedestals.quarry_tooltips.speed_0": "正常速度",
+    "pedestals.quarry_tooltips.speed_4": "兩倍速",
+    "pedestals.quarry_tooltips.speed_5": "四倍速",
     "pedestals.upgrade_machine_tooltips.speed_0": "正常速度",
     "pedestals.upgrade_machine_tooltips.speed_1": "兩倍速",
     "pedestals.upgrade_machine_tooltips.speed_2": "四倍速",
@@ -48,10 +54,6 @@
     "item.pedestals.coin.fan.entity_coal": "怪物",
     "item.pedestals.coin.fan.entity_quartz": "物品",
     "item.pedestals.coin.fan.entity_all": "全部",
-    "item.pedestals.coin.filteritem.tooltip_name": "專案",
-    "item.pedestals.coin.filteritemstack.tooltip_name": "物品棧",
-    "item.pedestals.coin.filtermod.tooltip_name": "模組",
-    "item.pedestals.coin.filtertag.tooltip_name": "標籤",
     "item.pedestals.coin.void.tooltip_name": "虛空升級",
     "item.pedestals.dustiron": "鐵粉",
     "item.pedestals.dustgold": "金粉",
@@ -67,5 +69,9 @@
     "item.pedestals.dustplatinum": "鉑粉",
     "item.pedestals.dustzinc": "鋅粉",
     "item.pedestals.dusttungsten": "鎢粉",
-    "advancements.main.root.title": "基座"
+    "advancements.main.root.title": "基座",
+    "item.pedestals.coin.filteritem.tooltip_name": "專案",
+    "item.pedestals.coin.filteritemstack.tooltip_name": "物品棧",
+    "item.pedestals.coin.filtermod.tooltip_name": "模組",
+    "item.pedestals.coin.filtertag.tooltip_name": "標籤"
 }
