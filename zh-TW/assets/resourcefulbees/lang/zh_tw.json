@@ -1,9 +1,17 @@
 {
+	"itemGroup.resourcefulbees": "豐饒蜜蜂",
+	"resourcefulbees.information.bee_type.vanilla": "蜜蜂類型：Minecraft",
+	"resourcefulbees.information.bee_type.unknown": "蜜蜂類型：不明",
+	"resourcefulbees.information.bee_type.custom": "蜜蜂類型： ",
+	"resourcefulbees.information.unknown_type": "未知類型",
+	"resourcefulbees.shift_info": "按住Shift顯示資訊",
+	"resourcefulbees.ctrl_info": "按住Ctrl顯示複合方塊資訊",
 	"gui.resourcefulbees.yes": "是",
 	"gui.resourcefulbees.no": "否",
 	"gui.resourcefulbees.light.any": "任何",
 	"gui.resourcefulbees.light.day": "白天",
 	"gui.resourcefulbees.light.night": "夜晚",
+	"item.resourcefulbees.bee_box": "蜂箱",
 	"honeycomb.resourcefulbees": "蜂窩",
 	"gui.resourcefulbees.jei.category.centrifuge": "離心機",
 	"gui.resourcefulbees.category.centrifuge": "離心機",
@@ -82,5 +90,7 @@
 	"book.resourcefulbees.ender_beecon_category.teleportation": "終界殺手",
 	"book.resourcefulbees.ender_beecon_category.effects": "效果",
 	"book.resourcefulbees.ender_beecon_category.options.beam_color": "光束顏色",
-	"book.resourcefulbees.ender_beecon_category.options.show_beam": "切換光束"
+	"book.resourcefulbees.ender_beecon_category.options.show_beam": "切換光束",
+	"book.resourcefulbees.ess_tools_category.bee_box": "蜂箱",
+	"advancements.resourcefulbees.root.title": "豐饒蜜蜂"
 }
