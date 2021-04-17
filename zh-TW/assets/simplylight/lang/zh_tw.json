@@ -1,3 +1,12 @@
 {
-    "simplylight.key.shift": "Shift"
+    "itemGroup.simplylight": "簡單的光",
+    "simplylight.shift": "按 <%s>獲取更多資訊。",
+    "simplylight.key.shift": "Shift",
+    "block.simplylight.illuminant_slab": "照明半磚",
+    "block.simplylight.illuminant_block": "照明方塊",
+    "block.simplylight.illuminant_block.info": "簡單的光源方塊，",
+    "block.simplylight.illuminant_block.info2": "由§4紅石§r啟動。",
+    "block.simplylight.illuminant_block_on": "照明方塊（相反）",
+    "block.simplylight.illuminant_block_on.info": "簡單的光源方塊，",
+    "block.simplylight.illuminant_block_on.info2": "由§4紅石§r停用。"
 }
