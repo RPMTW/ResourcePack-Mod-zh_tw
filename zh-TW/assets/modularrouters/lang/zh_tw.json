@@ -150,6 +150,7 @@
    "modularrouters.guiText.popup.xpVacuum": "§a§n經驗吸取類型 ${br} ${br}§r你可以在這裡指定這個模組${br} ${br}如何吸取經驗球。 ${br} ${br}可用的選項受不同 mod ${br} ${br}和不同的經驗流體影響，${br} ${br}但是原版的經驗瓶總是可用的。 ${br} ${br}如果要以流體形式吸收經驗，${br} ${br}那麼你必須在路由器的${br} ${br}緩衝區中放置一個可以以 mB 為${br } ${br}單位儲存流體的物品（因此，原版桶不可用），${br} ${br}或者在路由器旁邊放置一個流體容器，${br} ${br}然後檢查下面的“輸出”按鈕。",
    "modularrouters.guiText.popup.xpVacuum.eject": "§a§n經驗流體輸出 ${br} ${br}§r如果被選中，路由器會${br} ${br}試圖將${br} ${br}經驗流體輸出到相鄰的合適容器${br} ${br}（輸出面的檢查順序為：下，上，北，南，西，東）。 ${br} ${br}注意：路由器只能輸出經驗流體，${br} ${br}不能輸出經驗物品。 ${br} ${br}如果你安裝的 mod 中沒有可以${br} ${br}在路由器中填充的流體容器，${br} ${br}這可能會非常有用。",
    "modularrouters.guiText.tooltip.activator.action": "§7操作",
+   "modularrouters.guiText.tooltip.activator.entityMode": "Entity(實體)",
    "modularrouters.guiText.tooltip.activator.sneak": "潛行",
    "modularrouters.guiText.tooltip.allDirections": "全部",
    "modularrouters.guiText.tooltip.BLACKLIST.1": "白名單${br}空的白名單將不匹配任何物品和方塊。",

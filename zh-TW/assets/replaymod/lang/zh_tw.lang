@@ -96,7 +96,7 @@ replaymod.gui.recording.stop=Stop Recording
 replaymod.gui.recording.start=Start Recording
 
 replaymod.gui.renderdonetitle=Video rendered
-replaymod.gui.openfolder=Open Video Folder
+replaymod.gui.openfolder=開啟影片資料夾
 replaymod.gui.youtubeupload=Upload to YouTube
 replaymod.gui.renderdone1=Your video was successfully rendered.
 replaymod.gui.renderdone2=How would you like to proceed?
@@ -175,7 +175,7 @@ replaymod.gui.register.error.authfailed=Could not authenticate your Minecraft ac
 
 #Replay Viewer GUI
 replaymod.gui.viewer.rename.name=Replay Name
-replaymod.gui.viewer.replayfolder=Open Replay Folder...
+replaymod.gui.viewer.replayfolder=開啟重播影片資料夾...
 replaymod.gui.viewer.bulkrender=Render %1$d videos
 
 replaymod.gui.viewer.delete.linea=Are you sure you want to delete this replay?
@@ -311,7 +311,7 @@ replaymod.input.thumbnail=Capture Thumbnail
 replaymod.input.playeroverview=Player Overview
 replaymod.input.clearkeyframes=Clear Keyframes
 replaymod.input.synctimeline=Synchronize Timeline
-replaymod.input.keyframerepository=Open Keyframe Presets
+replaymod.input.keyframerepository=開啟關鍵幀設定
 replaymod.input.rollclockwise=Roll Clockwise
 replaymod.input.rollcounterclockwise=Roll Counterclockwise
 replaymod.input.resettilt=Reset Camera Tilt
