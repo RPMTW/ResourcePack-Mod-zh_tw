@@ -1,5 +1,13 @@
 {
+  "keystrokes.menu.show_hud": "顯示 HUD",
+  "keystrokes.menu.padding": "內距",
+  "keystrokes.menu.show_cps": "顯示 CPS",
+  "keystrokes.menu.color_config_panel": "配置顏色",
   "keystrokes.menu.reset": "重置設定",
   "keystrokes.menu.confirm_reset": "您確定要重置設定嗎？",
-  "keystrokes.menu.example_text": "範例文字"
+  "keystrokes.menu.color.rainbow_saturation": "彩虹飽和度",
+  "keystrokes.menu.example_text": "範例文字",
+  "keystrokes.menu.layout": "佈局",
+  "keystrokes.text_display_mode.action_name": "動作名稱",
+  "keystrokes.error.cannot_reset": "無法重設設定！"
 }

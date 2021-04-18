@@ -43,11 +43,14 @@
 	"label.valkyrielib.button.break_multiblock": "Break Multiblock",
 	"label.valkyrielib.button.clear_and_build_multiblock": "Clear and Build Multiblock",
 
-	"status.valkyrielib.cannotbreaktile": "Cannot Break TileEntity at position: ",
 	"status.valkyrielib.invaliddirection": "Invalid player facing direction!",
 	"status.valkyrielib.invaliddirectionsuggestion": "Try looking at a different side of the CCU.",
-	"status.valkyrielib.starting_destructor": "Starting Auto-Destructor",
-	"status.valkyrielib.starting_constructor": "Starting Auto-Builder",
+	"status.valkyrielib.starting_destructor": "Starting Destructor",
+	"status.valkyrielib.starting_constructor": "Starting Builder",
+
+	"status.valkyrielib.destructor.finished": "Destructor Finished",
+	"status.valkyrielib.destructor.cannot_break": "Cannot break block at position: ",
+	"status.valkyrielib.constructor.missing_component": "Missing ",
 
 	"component.valkyrielib.modifier.types": "Modifier",
 
