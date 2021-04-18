@@ -1,5 +1,20 @@
 {
-  "language": "English",
+  "language": "中文",
+  "language.code": "zh_tw",
+  "language.region": "台灣",
+  "itemGroup.tabrsgauges": "儀錶和開關",
+  "rsgauges.config.title": "儀錶和開關設定",
+  "rsgauges.tooltip.hint.extended": "§6[§9shift§r顯示更多§6]§r",
+  "rsgauges.tooltip.hint.help": "§6[§9ctrl-shift§r顯示說明§6]§r",
+  "block.rsgauges.arrow_target": "箭靶",
+  "block.rsgauges.arrow_target.help": "發出紅石的目標\n 脈衝到它所連接的區塊\n 到被箭射中時\n 或用手啟動。\n ${rsgauges.switch.feature.outputconfig.help}\n ${rsgauges.switch.feature.linksource.help}",
+  "block.rsgauges.door_sensor_switch": "門感應器",
+  "block.rsgauges.elevator_button": "電梯按鈕",
+  "block.rsgauges.glass_button": "玻璃按鈕",
+  "block.rsgauges.glass_button.help": "${rsgauges.switch.feature.typepulse.help}\n${rsgauges.switch.feature.outputconfig.help}\n${rsgauges.switch.feature.pulseextend.help}\n${rsgauges.switch.feature.pulsetime.help}\n${rsgauges.switch.feature.linktarget.help}\n${rsgauges.switch.feature.linksource.help}\n${rsgauges.switch.feature.colortinting.help}",
+  "block.rsgauges.glass_small_button.help": "${rsgauges.switch.feature.typepulse.help}\n${rsgauges.switch.feature.outputconfig.help}\n${rsgauges.switch.feature.pulseextend.help}\n${rsgauges.switch.feature.pulsetime.help}\n${rsgauges.switch.feature.linktarget.help}\n${rsgauges.switch.feature.linksource.help}\n${rsgauges.switch.feature.colortinting.help}",
+  "block.rsgauges.glass_touch_button.help": "${rsgauges.switch.feature.typepulse.help}\n${rsgauges.switch.feature.outputconfig.help}\n${rsgauges.switch.feature.pulseextend.help}\n${rsgauges.switch.feature.pulsetime.help}\n${rsgauges.switch.feature.linktarget.help}\n${rsgauges.switch.feature.linksource.help}\n${rsgauges.switch.feature.colortinting.help}",
+  "item.rsgauges.switchlink_pearl": "切換連接珍珠",
   "rsgauges.gaugeconfig.options.notinverted": "普通",
   "rsgauges.switchconfig.touchcontactmat.sensitivity.normal": "普通"
 }

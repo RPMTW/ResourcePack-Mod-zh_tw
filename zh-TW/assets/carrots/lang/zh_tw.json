@@ -15,8 +15,10 @@
     "potion.potency.7": "VIII",
     "potion.potency.8": "IX",
     "potion.potency.9": "X",
+    "effect.carrots.happiness": "幸福",
     "effect.carrots.resilience": "復元",
     "effect.carrots.energized": "能量",
+    "potion.carrots.happiness": "幸福",
     "potion.carrots.resilience": "復元",
     "fluid.carrots.honey": "蜂蜜",
     "carrots.tooltip.namevalue": "%1$s：%3$s （功率：%11$d） - §c能量：%7$d §a潛能：%8$d §9穩定：%9$d §f虛空：%10$d§f - §cR%4$d§aG%5$d§9B%6$d",
@@ -32,6 +34,6 @@
     "carrots.daynight.night": "夜晚",
     "carrots.season.cold": "寒冷",
     "attribute.base_modifier.equals.0": "%s %s",
-    "carrots.attribute.materialVitality": "活性化",
+    "carrots.attribute.isolation": "隔絕",
     "carrots.attribute.playerVitality": "活性化"
 }

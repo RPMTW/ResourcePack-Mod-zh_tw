@@ -5,7 +5,6 @@ const request_one = require("request");
 const config = require(`${process.cwd()}/config.json`)
 const compressing = require('compressing');
 const toml = require('toml');
-const del = require('del');
 const concat = require('concat-stream');
 
 const ver = config.ver;
