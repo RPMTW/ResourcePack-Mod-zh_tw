@@ -1,4 +1,5 @@
 {
+    "gui.integratedterminals.channel": "頻道",
     "gui.integratedterminals.terminal_storage.tooltip.energy": "能量",
     "gui.integratedterminals.terminal_storage.step.next": "下一頁",
     "gui.integratedterminals.terminal_storage.step.craft": "合成",
@@ -7,6 +8,7 @@
     "gui.integratedterminals.terminal_storage.sort.order.descending": "遞減",
     "gui.integratedterminals.terminal_storage.sort.itemstack.name": "商品名稱",
     "gui.integratedterminals.terminal_storage.sort.fluidstack.name": "流體名稱",
+    "gui.integratedterminals.terminal_storage.sort.fluidstack.quantity": "流體量",
     "gui.integratedterminals.terminal_crafting_job.craftingplan.dependencies": "尺寸: %s",
     "gui.integratedterminals.terminal_crafting_job.craftingplan.crafting_channel": "頻道: %s",
     "gui.integratedterminals.terminal_crafting_job.craftingplan.owner": "所有者：#",
