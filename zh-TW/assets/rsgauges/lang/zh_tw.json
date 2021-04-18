@@ -16,5 +16,10 @@
   "block.rsgauges.glass_touch_button.help": "${rsgauges.switch.feature.typepulse.help}\n${rsgauges.switch.feature.outputconfig.help}\n${rsgauges.switch.feature.pulseextend.help}\n${rsgauges.switch.feature.pulsetime.help}\n${rsgauges.switch.feature.linktarget.help}\n${rsgauges.switch.feature.linksource.help}\n${rsgauges.switch.feature.colortinting.help}",
   "item.rsgauges.switchlink_pearl": "切換連接珍珠",
   "rsgauges.gaugeconfig.options.notinverted": "普通",
-  "rsgauges.switchconfig.touchcontactmat.sensitivity.normal": "普通"
+  "rsgauges.switchconfig.touchcontactmat.sensitivity.normal": "普通",
+  "rsgauges.switchlinking.source_assign.error_alreadylinked": "已經連接到該珍珠的目標",
+  "rsgauges.switchlinking.source_assign.error_failed": "連接珍珠不喜歡這個開關",
+  "rsgauges.switchlinking.source_assign.error_nosource": "這個開關不能連接至目標開關",
+  "rsgauges.switchlinking.source_assign.error_toofaraway": "目標對於這個開關來說過於遙遠",
+  "rsgauges.switchlinking.source_assign.ok": "連接珍珠已插入"
 }
