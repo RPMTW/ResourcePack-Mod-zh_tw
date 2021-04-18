@@ -25,7 +25,7 @@ information. You don't need different cables for items, energy, or liquids.
 XNet is also very efficient and scalable. Cables are not tile entities
 and you can create huge cable networks without performance differences.
 {-------------------------------------------------------------}
-{b}Basic Networking
+{b}基本網路
 {n:basic}
 A network (or local network) is represented by a number of machines
 and blocks connected using cables and connectors and one controller.
@@ -39,7 +39,7 @@ controller.
 Every channel can be connected to as many blocks and machines as
 you want using connectors.
 {-------------------------------------------------------------}
-{b}Advanced Networking
+{b}進階網路
 {n:advanced}
 Using routers one can connect multiple networks. A single router
 can connect up to 6 networks (one for each side). To do that simply
@@ -53,7 +53,7 @@ A named channel can then be published in the router by giving it
 a 'published name'. Only then can this channel be used by other
 networks (either local or remote).
 {-------------------------------------------------------------}
-{b}Channel Types
+{b}通道類型
 {n:types}
 There are currently four different channel types:
   * xnet.item: for transporting items
@@ -68,7 +68,7 @@ amount of energy, ...) and then set a 'color' on the controller.
 Note that the logic channel doesn't do anything through a router
 right now.
 {-------------------------------------------------------------}
-{b}Network Color
+{b}網路顏色
 {n:netcolors}
 Using a logic channel and sensors you can enable or disable
 fifteen different colors in a controller. Basically a color is
@@ -78,7 +78,7 @@ enable a connection. Every connection can listen to four
 different colors and will only work if all set (non-black)
 colors are enabled.
 {-------------------------------------------------------------}
-{b}Colored Cables
+{b}彩色纜線
 {n:colors}
 Cables and connectors can have four different colors. Do not
 confuse these colors with network colors from the previous
@@ -88,7 +88,7 @@ networks right next to each other without them connecting.
 There is also a 'fifth' color which is for the routing cables
 and connectors.
 {-------------------------------------------------------------}
-{b}Connectors
+{b}連接器
 {n:connector}
 A connector is a part of the cable that can be used to connect
 to a machine. Placing a connector will automatically make a
@@ -174,7 +174,7 @@ A wireless router needs an antenna base on which a normal
 antenna (one or two) or a dish is placed. The dish allows
 for unlimited range.
 {-------------------------------------------------------------}
-{b}Redstone Proxy
+{b}紅石代理(伺服器)
 {n:orixt}
 {rb:redstone_proxy}
 The Redstone Proxy block is a very simple block that has no
