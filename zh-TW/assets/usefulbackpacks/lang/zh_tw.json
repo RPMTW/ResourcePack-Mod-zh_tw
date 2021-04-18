@@ -1,10 +1,15 @@
 {
+	"container.usefulbackpacks.item_filter.strict": "嚴格符合： ",
 	"item.usefulbackpacks.backpack_enderchest": "終界箱背包",
 	"item.usefulbackpacks.backpack_large": "大型背包",
 	"item.usefulbackpacks.backpack_medium": "中型背包",
 	"item.usefulbackpacks.backpack_small": "小型背包",
+	"item.usefulbackpacks.filter_item.tooltip.configured.3": "%s 刪除目前設定",
+	"item.usefulbackpacks.filter_item.tooltip.not_configured.0": "此篩選器尚未設定",
 	"item.usefulbackpacks.filter_tag.tooltip.configured.1": "標籤：%s",
-	"itemGroup.usefulbackpacks.group": "有用的背包",
-	"key.usefulbackpacks.curiosintegration.category": "有用的背包：飾品",
+	"item.usefulbackpacks.filter_tag.tooltip.configured.2": "%s 刪除目前設定",
+	"item.usefulbackpacks.filter_tag.tooltip.not_configured.0": "此篩選器尚未設定",
+	"itemGroup.usefulbackpacks.group": "實用背包",
+	"key.usefulbackpacks.curiosintegration.category": "實用背包：物品集合",
 	"key.usefulbackpacks.curiosintegration.description": "打開背包"
 }
