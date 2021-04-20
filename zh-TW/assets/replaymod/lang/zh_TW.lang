@@ -451,9 +451,9 @@ replaymod.gui.rendering.timetaken=渲染時間
 replaymod.gui.rendering.timeleft=剩餘時間
 
 #Render Errors
-replaymod.gui.rendering.error.title=Rendering Failed
-replaymod.gui.rendering.error.message=To render a video, you need to have ffmpeg installed. http://ffmpeg.org
-replaymod.gui.rendering.error.ffmpeglog=FFmpeg output:
+replaymod.gui.rendering.error.title=渲染失敗
+replaymod.gui.rendering.error.message=如果要渲染影片，你需要安裝ffmpeg http://ffmpeg.org
+replaymod.gui.rendering.error.ffmpeglog=FFmpeg 輸出:
 replaymod.gui.rendering.error.ffmpegargs.1=It seems like you have modified the Command Line Arguments.
 replaymod.gui.rendering.error.ffmpegargs.2=Do you want to reset them to the defaults and try again?
 
