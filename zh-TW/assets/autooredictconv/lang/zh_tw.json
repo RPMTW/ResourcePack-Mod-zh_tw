@@ -1,4 +1,8 @@
 {
   "autooredictconv.command.odc._each": "- §6{0}",
-  "autooredictconv.command.odc._each_pair": "- §a{0}§r: §6{1}§r"
+  "autooredictconv.command.odc._each_pair": "- §a{0}§r: §6{1}§r",
+  "autooredictconv.command.odc.pause.pause": "轉換已暫停。",
+  "autooredictconv.command.odc.pause.unpause": "轉換未暫停。",
+  "autooredictconv.converting": "轉換中！",
+  "block.autooredictconv.converter": "自動轉換器"
 }
