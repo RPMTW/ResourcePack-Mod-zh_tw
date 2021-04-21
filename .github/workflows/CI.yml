@@ -4,8 +4,8 @@ on:
   push:
     branches: [ S_1.16 ]
     paths:
-    - 'zh-TW'
-    - 'Add-on'
+    - 'zh-TW/**'
+    - 'Add-on/**'
 jobs:
   build:
     runs-on: ubuntu-latest
