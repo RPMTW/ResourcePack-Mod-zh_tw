@@ -3,6 +3,9 @@ name: CI
 on:
   push:
     branches: [ S_1.16 ]
+    paths:
+    - 'zh-TW'
+    - 'Add-on'
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -22,4 +25,4 @@ jobs:
           file: ${{ github.workspace }}/RPMTW-1.16.zip
           asset_name: RPMTW-1.16.zip
           overwrite: true 
-          body: "繁體中文化模組資源包(RPMTW) 版本:V${{ github.run_number }} \n更新內容: [${{ github.event.head_commit.message }}](https://github.com/SiongSng/ResourcePack-Mod-zh_tw/commit/${{ github.sha }}) \n\n## 下載資訊\n1.16繁體中文化模組材質包 [點我下載](https://github.com/SiongSng/ResourcePack-Mod-zh_tw/releases/download/RPMTW-1.16-V${{ github.run_number }}/RPMTW-1.16.zip)"
+          body: "繁體中文化模組資源包(RPMTW) 版本:V${{ github.run_number }} \n更新內容: [${{ github.event.head_commit.message }}](https://github.com/SiongSng/ResourcePack-Mod-zh_tw/commit/${{ github.sha }})\n翻譯的檔案:${{ github.event.head_commit.modified }}"
