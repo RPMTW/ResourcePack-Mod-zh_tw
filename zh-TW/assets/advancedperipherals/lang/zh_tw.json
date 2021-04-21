@@ -1,5 +1,20 @@
 {
+  "item.advancedperipherals.chunk_controller": "區塊控制器",
+  "item.advancedperipherals.computer_tool": "電腦工具",
+  "item.advancedperipherals.tooltip.hold_ctrl": "§b[§7CTRL§b] §7說明",
+  "block.advancedperipherals.environment_detector": "環境探測器",
+  "block.advancedperipherals.chat_box": "聊天方塊",
   "block.advancedperipherals.player_detector": "玩家偵測器",
+  "block.advancedperipherals.me_bridge": "ME 橋接器",
+  "block.advancedperipherals.rs_bridge": "RS 橋接器",
+  "block.advancedperipherals.energy_detector": "能量探測器",
+  "block.advancedperipherals.peripheral_casing": "週邊套管",
+  "turtle.advancedperipherals.chat_box_turtle": "健談",
+  "turtle.advancedperipherals.environment_detector_turtle": "環境",
   "turtle.advancedperipherals.player_detector_turtle": "玩家",
-  "pocket.advancedperipherals.player_pocket": "玩家"
+  "turtle.advancedperipherals.chunky_turtle": "矮胖",
+  "pocket.advancedperipherals.environment_pocket": "環境",
+  "pocket.advancedperipherals.player_pocket": "玩家",
+  "pocket.advancedperipherals.chatty_pocket": "健談",
+  "itemGroup.advancedperipheralstab": "進階外圍設備"
 }
