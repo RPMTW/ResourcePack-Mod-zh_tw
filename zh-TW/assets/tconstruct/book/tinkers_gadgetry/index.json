@@ -1,10 +1,10 @@
 [
     {
         "name": "簡介",
-        "data": "",
+        "data": "sections/intro_tmp.json",
         "icon": {
             "item": {
-                "id": ""
+                "id": "tconstruct:blue_slime_ball"
             }
         }
     }
