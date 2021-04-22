@@ -4,6 +4,7 @@
   "biome.traverse.autumnal_woods": "秋季森林",
   "biome.traverse.cliffs": "懸崖",
   "biome.traverse.coniferous_forest": "針葉林",
+  "biome.traverse.coniferous_woodland_hills_biome": "Coniferous Wooded Hills",
   "biome.traverse.desert_shrubland": "沙漠灌木叢",
   "biome.traverse.high_coniferous_forest": "高針葉林",
   "biome.traverse.lush_swamp": "茂密沼澤",
@@ -44,5 +45,6 @@
   "block.traverse.yellow_autumnal_leaves": "黃色秋季樹葉",
   "block.traverse.yellow_autumnal_sapling": "黃色秋季樹苗",
   "entity.traverse.fir_boat": "杉木船",
-  "item.traverse.fir_boat": "杉木船"
+  "item.traverse.fir_boat": "杉木船",
+  "itemGroup.traverse": "Traverse Reforged"
 }
