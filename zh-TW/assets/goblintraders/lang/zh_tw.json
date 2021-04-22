@@ -1,11 +1,21 @@
 {
+    "entity.goblintraders.goblin_trader": "Goblin Trader",
+    "entity.goblintraders.vein_goblin_trader": "Vein Goblin Trader",
+    "subtitle.goblintraders.goblin_trader.annoyed_grunt": "Annoyed Grunt",
+    "subtitle.goblintraders.goblin_trader.idle_grunt": "Idle Grunt",
+    "item.goblintraders.goblin_trader_spawn_egg": "Goblin Trader Spawn Egg",
+    "item.goblintraders.vein_goblin_trader_spawn_egg": "Vein Goblin Trader Spawn Egg",
+    "stat.goblintraders.trade_with_goblin": "Traded with Goblins",
     "mob_spawner.type.zombie": "模仿殭屍",
     "mob_spawner.type.skeleton": "骷髏",
     "mob_spawner.type.creeper": "苦力怕",
     "item.minecraft.potion.effect.haste": "挖掘加速藥水",
     "item.minecraft.potion.effect.absorption": "吸收藥水",
+    "item.minecraft.potion.effect.dolphins_grace": "Potion of Dolphins Grace",
     "item.minecraft.splash_potion.effect.haste": "飛濺挖掘加速藥水",
     "item.minecraft.splash_potion.effect.absorption": "飛濺吸收藥水",
+    "item.minecraft.splash_potion.effect.dolphins_grace": "Splash Potion of Dolphins Grace",
     "item.minecraft.lingering_potion.effect.haste": "滯留挖掘加速藥水",
-    "item.minecraft.lingering_potion.effect.absorption": "滯留吸收藥水"
+    "item.minecraft.lingering_potion.effect.absorption": "滯留吸收藥水",
+    "item.minecraft.lingering_potion.effect.dolphins_grace": "Lingering Potion of Dolphins Grace"
 }
