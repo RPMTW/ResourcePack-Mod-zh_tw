@@ -1,4 +1,11 @@
 {
+  "itemGroup.ancientgateways.general": "Ancient Gateways",
+  "block.ancientgateways.gatewayblock.error_obstructed_0": "Gateway core needs a 5x5 area of empty space beneath it (corners optional)",
+  "block.ancientgateways.gatewayblock.error_obstructed_1": "Gateway needs a 7x7 hollow frame, with the core at the top of the centre",
+  "block.ancientgateways.gatewayblock.error_obstructed_2": "Gateway frame needs 3 glyphs down the front of the vertical sides to connect to the network",
+  "item.ancientgateways.gatewayblock.tooltip0": "Cross-dimensional teleporter.",
+  "item.ancientgateways.gatewayblock.tooltip1": "Holds up to 6 glyphs, shift-use to activate",
+  "block.ancientgateways.gatewayblock": "Gateway Core",
   "block.ancientgateways.rune_black": "黑色字體",
   "block.ancientgateways.rune_red": "紅色字體",
   "block.ancientgateways.rune_green": "綠色字體",
@@ -6,5 +13,13 @@
   "block.ancientgateways.rune_blue": "藍色字體",
   "block.ancientgateways.rune_purple": "紫色字體",
   "block.ancientgateways.rune_cyan": "青色字體",
-  "block.ancientgateways.rune_light_blue": "淺藍色字體"
+  "block.ancientgateways.rune_light_blue": "淺藍色字體",
+  "block.ancientgateways.rune_light_grey": "Light Gray Glyph",
+  "block.ancientgateways.rune_pink": "Pink Glyph",
+  "block.ancientgateways.rune_lime": "Lime Glyph",
+  "block.ancientgateways.rune_yellow": "Yellow Glyph",
+  "block.ancientgateways.rune_magenta": "Magenta Glyph",
+  "block.ancientgateways.rune_orange": "Orange Glyph",
+  "block.ancientgateways.rune_white": "White Glyph",
+  "block.ancientgateways.rune_grey": "Gray Glyph"
 }
