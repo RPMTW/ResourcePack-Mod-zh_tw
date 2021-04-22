@@ -1,7 +1,14 @@
 {
+	"itemGroup.solarflux": "太陽能能源 [重製]",
+	"info.solarflux.energy.stored1": "已儲存: %,d FE",
+	"info.solarflux.energy.stored2": "已儲存: %,d/%,d FE",
+	"info.solarflux.energy.generation": "發電量: %,d FE/tick",
+	"info.solarflux.energy.transfer": "傳輸: %,d FE/tick",
+	"info.solarflux.energy.capacity": "儲存容量: %,d FE",
 	"info.solarflux.upgrades.installed": "升級組件",
 	"info.solarflux.shift": "Shift",
 	"info.solarflux.maximum": "最大",
 	"item.solarflux.mirror": "鏡像",
-	"item.solarflux.blank_upgrade": "空白升級"
+	"item.solarflux.blank_upgrade": "空白升級",
+	"item.solarflux.capacity_upgrade": "容量升級"
 }
