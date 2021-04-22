@@ -1,22 +1,22 @@
 [
     {
-        "name": "",
+        "name": "sledge_hammer",
         "type": "工具",
-        "data": ""
+        "data": "tools/sledge_hammer.json"
     },
     {
-        "name": "",
+        "name": "excavator",
         "type": "工具",
-        "data": ""
+        "data": "tools/excavator.json"
     },
     {
-        "name": "",
+        "name": "cleaver",
         "type": "工具",
-        "data": ""
+        "data": "tools/cleaver.json"
     },
     {
-        "name": "",
+        "name": "scythe",
         "type": "工具",
-        "data": ""
+        "data": "tools/scythe.json"
     }
 ]
