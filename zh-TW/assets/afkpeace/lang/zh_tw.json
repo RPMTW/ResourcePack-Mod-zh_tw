@@ -4,10 +4,17 @@
   "afkpeace.reconnect": "重新連線",
   "afkpeace.reconnecting": "重新連線中",
   "afkpeace.reconnectfail": "無法重新連線。",
+  "afkpeace.disconnectscreen.time": "Time of disconnect: %s",
   "afkpeace.disconnectscreen.disabled": "AFKPeace 已被伺服器禁用。",
   "afkpeace.button.cancel": "取消",
   "afkpeace.button.confirm": "確定",
   "afkpeace.config.title": "AFKPeace 設定",
+  "afkpeace.option.autoAfk": "AutoAFK: %s",
   "afkpeace.option.reconnectEnabled": "重新連線： %s",
-  "afkpeace.option.autoAfkTimer": "自動 AFK 計時器"
+  "afkpeace.option.damageLogoutEnabled": "Damage Logout: %s",
+  "afkpeace.option.reconnectOnDamageLogout": "Damage Logout Reconnection: %s",
+  "afkpeace.option.autoAfkTimer": "自動 AFK 計時器",
+  "afkpeace.option.secondsBetweenReconnectAttempts": "Seconds Between Reconnection Attempts",
+  "afkpeace.option.reconnectAttemptNumber": "Number of Reconnect Attempts",
+  "afkpeace.option.damageLogoutTolerance": "Damage Logout Tolerance"
 }

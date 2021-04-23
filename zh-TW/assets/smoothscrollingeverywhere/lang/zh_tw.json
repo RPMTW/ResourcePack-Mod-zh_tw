@@ -1,4 +1,9 @@
 {
+  "title.smoothscrollingeverywhere.config": "Smooth Scrolling Everywhere Config",
+  "option.smoothscrollingeverywhere.easingMethod": "Easing Method:",
+  "option.smoothscrollingeverywhere.scrollDuration": "Scrolling Duration:",
+  "option.smoothscrollingeverywhere.scrollStep": "Scrolling Step:",
+  "option.smoothscrollingeverywhere.bounceBackMultiplier": "Bounce Back Multiplier:",
   "option.smoothscrollingeverywhere.setDefaultSmoothScroll": "設定預設平滑滾動",
   "option.smoothscrollingeverywhere.disableSmoothScroll": "停用平滑滾動"
 }

@@ -1,8 +1,15 @@
 {
+    "mod.stepup.minecraft": "Vanilla",
     "mod.stepup.autojump": "自動跳躍",
     "mod.stepup.enabled": "已啟用",
     "mod.stepup.disabled": "停用",
     "mod.stepup.updateAvailable": "有可用更新",
     "mod.stepup.updateTooltip": "點擊這裡從官網更新",
-    "key.stepup.toggle": "手動"
+    "key.categories.stepup": "StepUp",
+    "key.stepup.toggle": "手動",
+    "mod.stepup.config.default": "Default on new servers",
+    "mod.stepup.config.dostepup": "§aStepUp enabled",
+    "mod.stepup.config.nostepup": "§cStepUp disabled",
+    "mod.stepup.config.vanillajump": "§eUse Vanilla Auto Jump",
+    "mod.stepup.config.tt.onthisserver": "Stepup behavior on this server"
 }

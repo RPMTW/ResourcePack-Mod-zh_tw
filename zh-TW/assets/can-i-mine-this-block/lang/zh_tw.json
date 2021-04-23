@@ -1,11 +1,19 @@
 {
+  "cimtb.effective_tool": "Effective Tool: ",
+  "cimtb.harvest_level": "Harvest Level: ",
   "cimtb.harvestable.symbol.false": "§4✘",
   "cimtb.harvestable.symbol.true": "§2✔",
+  "cimtb.harvestable": " Currently Harvestable",
   "cimtb.harvest_level.level.format": "%s (%s)",
   "cimtb.harvest_level.level.0": "§7石頭",
+  "cimtb.harvest_level.level.1": "§fIron",
+  "cimtb.harvest_level.level.2": "§bDiamond",
+  "cimtb.harvest_level.level.3": "§5Obsidian",
+  "cimtb.harvest_level.level.4": "§dMetite",
   "cimtb.effective_tool.fabric.axes": "斧",
   "cimtb.effective_tool.fabric.hoes": "鋤頭",
   "cimtb.effective_tool.fabric.pickaxes": "鎬子",
+  "cimtb.effective_tool.fabric.shears": "Shear",
   "cimtb.effective_tool.fabric.shovels": "鏟子",
   "cimtb.effective_tool.fabric.swords": "劍"
 }
