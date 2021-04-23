@@ -1,4 +1,5 @@
 {
+	"amecs.key.categories.skin_layers": "Amecs Skin Layers",
 	"key.amecs.toggle_auto_jump": "切換自動跳躍",
 	"key.amecs.toggle_cape": "切換披風",
 	"key.amecs.toggle_hat": "切換帽子",
@@ -9,5 +10,6 @@
 	"key.amecs.toggle_right_sleeve": "切換右袖套",
 	"amecs.toggled.on": "已啟用 %s",
 	"amecs.toggled.off": "已停用 %s",
-	"amecs.toggled.auto_jump": "自動跳躍"
+	"amecs.toggled.auto_jump": "自動跳躍",
+	"amecs.search.placeholder": "Search... (= to search by key)"
 }

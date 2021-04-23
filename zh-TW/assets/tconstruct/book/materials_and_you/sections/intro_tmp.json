@@ -1,10 +1,10 @@
 [
     {
-        "type": ""
+        "type": "blank"
     },
     {
-        "name": "",
-        "type": "",
-        "data": ""
+        "name": "tmp_intro",
+        "type": "text",
+        "data": "intro/tmp.json"
     }
 ]

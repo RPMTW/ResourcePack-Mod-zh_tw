@@ -1,32 +1,32 @@
 [
     {
         "name": "修理",
-        "type": "",
-        "data": ""
+        "type": "text",
+        "data": "tools/repairing.json"
     },
     {
         "name": "鎬",
         "type": "工具",
-        "data": ""
+        "data": "tools/pickaxe.json"
     },
     {
         "name": "手斧",
         "type": "工具",
-        "data": ""
+        "data": "tools/axe.json"
     },
     {
         "name": "鶴嘴鋤",
         "type": "工具",
-        "data": ""
+        "data": "tools/mattock.json"
     },
     {
         "name": "鐮刀",
         "type": "工具",
-        "data": ""
+        "data": "tools/kama.json"
     },
     {
-        "name": "",
+        "name": "broad_sword",
         "type": "工具",
-        "data": ""
+        "data": "tools/broad_sword.json"
     }
 ]

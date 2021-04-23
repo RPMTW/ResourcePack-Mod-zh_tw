@@ -1,20 +1,20 @@
 [
     {
-        "name": "",
-        "data": "",
+        "name": "簡介",
+        "data": "sections/intro_tmp.json",
         "icon": {
             "item": {
-                "id": ""
+                "id": "tconstruct:blue_slime_ball"
             }
         }
     },
     {
         "name": "工具",
-        "data": "",
+        "data": "sections/tools.json",
         "icon": {
             "item": {
-                "id": "",
-                "damage": ""
+                "id": "minecraft:iron_pickaxe",
+                "damage": 0
             }
         }
     }
