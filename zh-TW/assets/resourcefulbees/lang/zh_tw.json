@@ -394,7 +394,7 @@
 	"book.resourcefulbees.bee_category.spawning": "蜜蜂生成",
 	"book.resourcefulbees.bee_category.spawning.1": "Some bees may have been configured to spawn in the world. The $(or)spawn weight$(), $(or)biome$() and $(or)light level$() can be customized as well as the $(or)min$() and $(or)max$() $(or)group size$().$(br2)Nest generation is also configurable.",
 	"book.resourcefulbees.bee_category.spawning.2": "When configured to generate, nests will $(l)always$() generate in biomes where bees were configured to spawn.$(br)Weighting for nest generation can be configured independently for Nether, End and Overworld biome categories.$(br)The texture for nests will vary based on the biome.",
-	"book.resourcefulbees.bee_category.spawning.3": "When nests spawn in the world, they may come prefilled with bees. The number of bees can vary from 0 to 1/2 the $(or)hive max bees$() config value.",
+	"book.resourcefulbees.bee_category.spawning.3": "當蜂巢生成時，可能已經有蜜蜂住在裡面了。而蜜蜂的生成數量為0到1/2的$(or)蜂房最大蜜蜂數量$()。",
 	"book.resourcefulbees.bee_category.traits": "蜜蜂特性",
 	"book.resourcefulbees.bee_category.traits.1": "Special bees require special $(or)traits$(). A trait given to a bee can provide a variety of effects such as $(or)damage types$() and $(or)immunities$(), $(or)potion effects$() and $(or)immunities$(), $(or)special abilities$(), or $(or)particle effects$(). For more information on traits, see the $(o)$(or)beepedia$()",
 	"book.resourcefulbees.centrifuge_category": "離心機基礎",
