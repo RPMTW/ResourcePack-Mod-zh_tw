@@ -118,7 +118,7 @@
     "vehicle.config.title": "MrCrayfish's Vehicle Mod Config",
     "vehicle.config.client": "客戶端",
     "vehicle.config.client.tooltip": "僅用戶端配置",
-    "vehicle.config.client.debug": "Debug",
+    "vehicle.config.client.debug": "除錯",
     "vehicle.config.client.debug.tooltip": "Configuration options for debugging vehicles",
     "vehicle.config.client.debug.render_outlines": "Render Vehicle Outlines",
     "vehicle.config.client.debug.render_outlines.tooltip": "If true, renders an outline of all the elements on a vehicle's model. Useful for debugging interactions.",
