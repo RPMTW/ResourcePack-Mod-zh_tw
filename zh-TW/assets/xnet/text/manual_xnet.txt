@@ -16,10 +16,10 @@
 {-------------------------------------------------------------}
 {b}簡介
 {n:intro}
-XNet is all about networking and transporting items, liquids, energy
+XNet是關於在Minecraft世界中聯網和運輸物品、液體、能源和資訊。
 and information through the world. Using cables you connect various
 machines and blocks and in the controller you configure how things
-move through the created network. A cable can send all kinds of
+move through the created network. 一條纜線可以發送所有種類的資訊。你不需要為物品、能量或液體使用不同的纜線。
 information. You don't need different cables for items, energy, or liquids.
 
 XNet is also very efficient and scalable. Cables are not tile entities
