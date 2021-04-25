@@ -109,17 +109,17 @@ replaymod.gui.videovisibility.unlisted=Unlisted
 replaymod.gui.videovisibility.public=Public
 replaymod.gui.ytuploadprogress.auth=[1/4] Authorization
 replaymod.gui.ytuploadprogress.prepare_video=[2/4] Preparing video: %%d%%%%
-replaymod.gui.ytuploadprogress.upload=[3/4] Uploading: %%d%%%%
+replaymod.gui.ytuploadprogress.upload=[3/4] 上傳中: %%d%%%%
 replaymod.gui.ytuploadprogress.cleanup=[4/4] Cleanup
 replaymod.gui.ytuploadprogress.done=Done: %s
 replaymod.gui.titleempty=Title cannot be empty
 replaymod.gui.videothumbnailtoolarge=Thumbnail size exceeds 2MB
 replaymod.gui.videothumbnailformat=Thumbnail has to be either JPEG or PNG format
 
-replaymod.gui.hours=h
-replaymod.gui.minutes=min
-replaymod.gui.seconds=sec
-replaymod.gui.milliseconds=ms
+replaymod.gui.hours=小時
+replaymod.gui.minutes=分鐘
+replaymod.gui.seconds=秒
+replaymod.gui.milliseconds=毫秒
 
 replaymod.gui.pitch=Pitch
 replaymod.gui.yaw=Yaw
