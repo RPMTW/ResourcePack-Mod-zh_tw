@@ -10,7 +10,7 @@
 	"text.autoconfig.randompatches.title": "RandomPatches 配置",
 	"text.autoconfig.randompatches.category.client": "客戶端",
 	"text.autoconfig.randompatches.option.client.bugFixes": "錯誤修正",
-	"text.autoconfig.randompatches.option.client.bugFixes.@Tooltip": "Client-sided bug fixes.",
+	"text.autoconfig.randompatches.option.client.bugFixes.@Tooltip": "客戶端錯誤修復。",
 	"text.autoconfig.randompatches.option.client.bugFixes.fixWaterInCauldronsRenderingAsOpaque": "Fix water in cauldrons rendering as opaque",
 	"text.autoconfig.randompatches.option.client.bugFixes.fixWaterInCauldronsRenderingAsOpaque.@Tooltip": "Fixes water in cauldrons rendering as opaque.",
 	"text.autoconfig.randompatches.option.client.bugFixes.fixVillagerRobeTextures": "Fix villager robe textures",
