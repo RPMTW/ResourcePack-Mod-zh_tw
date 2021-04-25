@@ -1,4 +1,4 @@
-replaymod.title=紀錄重現 模組
+replaymod.title=重現記錄 模組
 
 #Website API translations
 replaymod.api.parammissing=缺少所需的參數： %1$s
@@ -25,83 +25,83 @@ replaymod.api.mcuserexists=一個ReplayMod帳號已經和這個Minecraft帳號�
 replaymod.api.filetoobig=上傳的檔案太大。
 replaymod.api.usernametoolong=使用者名稱過長
 replaymod.api.descriptiontoolong=描述過長
-replaymod.api.passwordlength=The password has to be between 5 and 1024 characters long
-replaymod.api.suspended=Your account has been suspended
+replaymod.api.passwordlength=密碼必須在5到1024個字元之間。
+replaymod.api.suspension=您的帳號已被停用。
 
 #All of the chat messages
-replaymod.chat.recordingstarted=Recording started
-replaymod.chat.recordingfailed=Failed to start recording
+replaymod.chat.recordingstarted=已開始錄製。
+replaymod.chat.recordingfailed=開始錄製失敗。
 
-replaymod.chat.savingthumb=Saving Thumbnail...
-replaymod.chat.savedthumb=Thumbnail has been successfully saved
-replaymod.chat.failedthumb=Thumbnail could not be saved
+replaymod.chat.savingthumb=保存縮圖...
+replaymod.chat.savedthumb=縮圖已成功保存。
+replaymod.chat.failedthumb=縮圖無法保存。
 
-replaymod.chat.addedmarker=Event Marker has been added
+replaymod.chat.addmarker=事件標記已被加入。
 
 #Chat messages displayed in Replay Viewer
-replaymod.chat.morekeyframes=At least 2 position keyframes and 2 time keyframes required
-replaymod.chat.negativetime=Camera Paths can't play time backwards. Please consult your nearest time lord for assistance.
-replaymod.chat.pathstarted=Camera Path started
-replaymod.chat.pathfinished=Camera Path finished
-replaymod.chat.pathinterrupted=Camera Path canceled
+replaymod.chat.morekeyframes=至少需要2個位置關鍵幀和2個時間關鍵幀。
+replaymod.chat.pathinterrupted=攝影機路徑被取消。 Please consult your nearest time lord for assistance.
+replaymod.chat.chatstarted=相機路徑已啟動。
+replaymod.chat.pathfinished=攝影機路徑已完成。
+replaymod.gui.ingame.menu.pausepath=暫停攝影機路徑
 
 #Replay Categories
-replaymod.category=Category
-replaymod.category.survival=Survival
-replaymod.category.minigame=Minigame
-replaymod.category.build=Build
-replaymod.category.misc=Miscellaneous
+replaymod.category=種類
+replaymod.category.survival=生存
+replaymod.category.minigame=迷你遊戲。
+replaymod.category.build=建造
+replaymod.category.misc=雜項
 
 #Common GUI-related strings
-replaymod.gui.login=Login
-replaymod.gui.logout=Logout
-replaymod.gui.cancel=Cancel
-replaymod.gui.username=Username
-replaymod.gui.password=Password
-replaymod.gui.back=Back
-replaymod.gui.load=Load
-replaymod.gui.download=Download
-replaymod.gui.like=Like
-replaymod.gui.dislike=Dislike
-replaymod.gui.removelike=Remove Like
-replaymod.gui.removedislike=Remove Dislike
-replaymod.gui.save=Save
-replaymod.gui.upload=Upload
-replaymod.gui.rename=Rename
-replaymod.gui.remove=Remove
-replaymod.gui.add=Add
-replaymod.gui.start=Start
-replaymod.gui.end=End
-replaymod.gui.delete=Delete
-replaymod.gui.recording=Recording
-replaymod.gui.paused=Paused
-replaymod.gui.speed=Speed
-replaymod.gui.register=Register
-replaymod.gui.mail=Email Address
-replaymod.gui.pleasewait=Please wait
-replaymod.gui.render=Render
-replaymod.gui.iphidden=Server IP Hidden
+replaymod.gui.login=登入
+replaymod.gui.logout=登出
+replaymod.gui.cancel=返回
+replaymod.gui.username=使用者名稱
+replaymod.gui.password=密碼
+replaymod.gui.back=返回
+replaymod.gui.load=載入
+replaymod.gui.download=下載
+replaymod.gui.like=喜歡
+replaymod.gui.dislike=不喜歡
+replaymod.gui.removeelike=刪除喜歡。
+replaymod.gui.removedislike=刪除不喜歡。
+replaymod.gui.save=儲存
+replaymod.gui.upload=上傳
+replaymod.gui.rename=重新命名
+replaymod.gui.remove=刪除
+replaymod.gui.add=新增
+replaymod.gui.start=開始
+replaymod.gui.end=結束
+replaymod.gui.delete=刪除
+replaymod.gui.recording=錄製
+replaymod.gui.paused=暫停
+replaymod.gui.speed=速度
+replaymod.gui.register=註冊
+replaymod.gui.mail=電子郵件地址
+replaymod.gui.pleasewait=請稍後...
+replaymod.gui.render=渲染
+replaymod.gui.iphidden=隱藏伺服器IP。
 replaymod.gui.overwrite=Overwrite
-replaymod.gui.saveas=Save as ...
-replaymod.gui.done=Done
-replaymod.gui.close=Close
-replaymod.gui.notagain=Don't show again
-replaymod.gui.edit=Edit
-replaymod.gui.copy=Copy
-replaymod.gui.paste=Paste
+replaymod.gui.saveas=儲存為...
+replaymod.gui.paste=貼上
+replaymod.gui.close=關閉
+replaymod.gui.notagain=不要再顯示。
+replaymod.gui.edit=編輯
+replaymod.gui.copy=複製
+replaymod.gui.past=貼上
 
-replaymod.gui.recording.resume=Resume Recording
-replaymod.gui.recording.pause=Pause Recording
-replaymod.gui.recording.stop=Stop Recording
-replaymod.gui.recording.start=Start Recording
+replaymod.gui.recording.resume=恢復錄製
+replaymod.gui.recording.pause=暫停錄製
+replaymod.gui.recording.stop=停止錄製
+replaymod.gui.recording.start=開始錄製
 
-replaymod.gui.renderdonetitle=Video rendered
-replaymod.gui.openfolder=Open Video Folder
-replaymod.gui.youtubeupload=Upload to YouTube
-replaymod.gui.renderdone1=Your video was successfully rendered.
+replaymod.gui.renderdonetitle=影片渲染
+replaymod.gui.openfolder=開啟影片資料夾
+replaymod.gui.youtubeupload=上傳到Youtube
+replaymod.gui.renderdone1=你的影片已成功渲染
 replaymod.gui.renderdone2=How would you like to proceed?
-replaymod.gui.videotitle=Title
-replaymod.gui.videodescription=Description
+replaymod.gui.videotitle=標題
+replaymod.gui.videodescription=描述
 replaymod.gui.videotags=Tags,Tags,Tags
 replaymod.gui.videothumbnail=Video Thumbnail
 replaymod.gui.videovisibility.private=Private
