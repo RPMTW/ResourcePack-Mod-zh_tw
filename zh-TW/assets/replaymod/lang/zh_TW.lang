@@ -103,18 +103,18 @@ replaymod.gui.renderdone2=How would you like to proceed?
 replaymod.gui.videotitle=標題
 replaymod.gui.videodescription=描述
 replaymod.gui.videotags=Tags,Tags,Tags
-replaymod.gui.videothumbnail=Video Thumbnail
-replaymod.gui.videovisibility.private=Private
+replaymod.gui.videothumbnail=影片縮圖
+replaymod.gui.videovisibility.private=私人
 replaymod.gui.videovisibility.unlisted=Unlisted
-replaymod.gui.videovisibility.public=Public
-replaymod.gui.ytuploadprogress.auth=[1/4] Authorization
-replaymod.gui.ytuploadprogress.prepare_video=[2/4] Preparing video: %%d%%%%
+replaymod.gui.videovisibility.public=公共
+replaymod.gui.ytuploadprogress.auth=[1/4] 授權
+replaymod.gui.ytuploadprogress.prepare_video=[2/4] 準備影片: %%d%%%%
 replaymod.gui.ytuploadprogress.upload=[3/4] 上傳中: %%d%%%%
-replaymod.gui.ytuploadprogress.cleanup=[4/4] Cleanup
-replaymod.gui.ytuploadprogress.done=Done: %s
-replaymod.gui.titleempty=Title cannot be empty
-replaymod.gui.videothumbnailtoolarge=Thumbnail size exceeds 2MB
-replaymod.gui.videothumbnailformat=Thumbnail has to be either JPEG or PNG format
+replaymod.gui.ytuploadprogress.cleanup=[4/4] 清理數據
+replaymod.gui.ytuploadprogress.done=完成: %s
+replaymod.gui.titleempty=標題不能空白
+replaymod.gui.videothumbnailtoolarge=縮圖大小大於 2MB
+replaymod.gui.videothumbnailformat=縮圖必須是 JPEG 或者 PNG 格式
 
 replaymod.gui.hours=小時
 replaymod.gui.minutes=分鐘
@@ -125,22 +125,22 @@ replaymod.gui.pitch=Pitch
 replaymod.gui.yaw=Yaw
 replaymod.gui.roll=Roll
 
-replaymod.gui.camera=Camera
-replaymod.gui.position=Position
+replaymod.gui.camera=相機
+replaymod.gui.position=位置
 
-replaymod.gui.unknownerror=An unknown error occured
+replaymod.gui.unknownerror=發生了未知錯誤
 
-replaymod.gui.exit=Exit Replay
+replaymod.gui.exit=退出播放器
 
-replaymod.gui.mainmenu=Main Menu
-replaymod.gui.settings=Settings
+replaymod.gui.mainmenu=主要功能選單
+replaymod.gui.settings=設定
 
-replaymod.gui.keyframerepo.delete=Are you sure you want to delete these keyframes?
-replaymod.gui.keyframerepo.overwrite=Are you sure you want to overwrite these keyframes?
+replaymod.gui.keyframerepo.delete=你確定要刪除這些關鍵幀嗎?
+replaymod.gui.keyframerepo.overwrite=你確定要覆蓋這些關鍵幀嗎?
 
 replaymod.gui.restorereplay1=It seems like Minecraft has not quit normally.
-replaymod.gui.restorereplay2=The Replay "%1$s" was not saved correctly.
-replaymod.gui.restorereplay3=Do you wish to recover it?
+replaymod.gui.restorereplay2=影片「%1$s」沒有正常儲存。
+replaymod.gui.restorereplay3=你是否希望復原它?
 
 replaymod.gui.loadentitytracker=Loading entity positions: %%d%%%%
 replaymod.gui.loadquickmode=Loading Quick Mode: %%d%%%%
