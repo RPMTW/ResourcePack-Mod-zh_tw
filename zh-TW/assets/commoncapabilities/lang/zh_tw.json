@@ -1,8 +1,8 @@
 {
     "_comment": "# Capability settings",
     "config.commoncapabilities": "%s configuration",
-    "recipecomponent.minecraft.itemstack": "專案",
-    "recipecomponent.minecraft.fluidstack": "Fluid",
+    "recipecomponent.minecraft.itemstack": "物品",
+    "recipecomponent.minecraft.fluidstack": "液體",
     "recipecomponent.minecraft.energy": "能量",
     "capability.commoncapabilities.inventoryState": "Inventory state",
     "capability.commoncapabilities.temperature": "溫度",

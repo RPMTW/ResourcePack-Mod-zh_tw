@@ -40,7 +40,7 @@
   "item.engineerstools.stimpack": "自動強心劑",
   "item.engineerstools.stimpack.help": "當你遇到大麻煩時\n它會輕輕推動你的心臟\n還會給你一些Buff逃離困境\n警告：注射器可能會有延遲\n放到身上就可以了\n支援Bauble 和 Curios",
   "item.engineerstools.tracker": "追蹤器",
-  "item.engineerstools.tracker.help": "再次的協助你找到你的朋友和目的地(希望你有)\n右鍵一個方塊或實體來追踪他/她/牠/它\n內建指南針會告訴你方位\n當你靠近了，追踪器還會告訴你高度\n如果目標不再這個世界，它就變成一顆點\n",
+  "item.engineerstools.tracker.help": "再次的協助你找到你的朋友和目的地(希望你有)\n 右鍵一個方塊或實體來追踪他/她/牠/它\n 內建指南針會告訴你方位\n 當你靠近了，追踪器還會告訴你高度\n 如果目標不再這個世界，它就變成一顆點",
   "item.engineerstools.tracker.hint.cleared": "已清除追踪目標",
   "item.engineerstools.tracker.hint.clearfirst": "右鍵腳下的方塊來清除目標",
   "item.engineerstools.tracker.msg.entityset": "現在追踪 %1$s.",

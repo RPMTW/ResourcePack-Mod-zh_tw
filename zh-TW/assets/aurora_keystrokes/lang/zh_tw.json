@@ -1,6 +1,6 @@
 {
-  "keystrokes.reloaded": "AuroraKeystrokes configuration reloaded!",
-  "keystrokes.saved": "AuroraKeystrokes configuration saved!",
+  "keystrokes.reloaded": "已重新載入 AuroraKeystrokes 配置！",
+  "keystrokes.saved": "已儲存 AuroraKeystrokes 配置！",
   "keystrokes.layout.cross": "Cross",
   "keystrokes.layout.pyramid": "Pyramid",
   "keystrokes.menu.show_hud": "顯示 HUD",
@@ -15,7 +15,7 @@
   "keystrokes.menu.show_cps": "顯示 CPS",
   "keystrokes.menu.attach_cps": "Attach CPS",
   "keystrokes.menu.color_config_panel": "配置顏色",
-  "keystrokes.menu.save": "Save",
+  "keystrokes.menu.save": "儲存",
   "keystrokes.menu.reset": "重置設定",
   "keystrokes.menu.confirm_reset": "您確定要重置設定嗎？",
   "keystrokes.menu.color_foreground_r": "Foreground (R)",
@@ -42,6 +42,6 @@
   "keystrokes.color_config_panel.normal": "unpressed",
   "keystrokes.color_config_panel.pressed": "pressed",
   "keystrokes.text_display_mode.action_name": "動作名稱",
-  "keystrokes.text_display_mode.key_name": "key name",
+  "keystrokes.text_display_mode.key_name": "按鍵名稱",
   "keystrokes.error.cannot_reset": "無法重設設定！"
 }

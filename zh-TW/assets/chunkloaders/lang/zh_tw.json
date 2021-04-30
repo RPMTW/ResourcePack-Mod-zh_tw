@@ -1,10 +1,10 @@
 {
-  "block.chunkloaders.single_chunk_loader": "Single Chunk Loader",
-  "block.chunkloaders.basic_chunk_loader": "Basic Chunk Loader",
-  "block.chunkloaders.advanced_chunk_loader": "Advanced Chunk Loader",
-  "block.chunkloaders.ultimate_chunk_loader": "Ultimate Chunk Loader",
-  "chunkloaders.gui.loaded": "LOADED",
-  "chunkloaders.gui.unloaded": "NOT LOADED",
-  "chunkloaders.chunk_loader.info.single": "Can load a single chunk",
-  "chunkloaders.chunk_loader.info.multiple": "Can load up to %1$d by %1$d chunks"
+  "block.chunkloaders.single_chunk_loader": "單一區塊載入器",
+  "block.chunkloaders.basic_chunk_loader": "基本區塊載入器",
+  "block.chunkloaders.advanced_chunk_loader": "進階區塊載入器",
+  "block.chunkloaders.ultimate_chunk_loader": "終極區塊載入器",
+  "chunkloaders.gui.loaded": "已載入",
+  "chunkloaders.gui.unloaded": "無法載入",
+  "chunkloaders.chunk_loader.info.single": "可以載入單一區塊",
+  "chunkloaders.chunk_loader.info.multiple": "可以通過 %1$d 加載到%1$d"
 }

@@ -1,7 +1,7 @@
 {
 	"config.xm.title": "Exotic Matter",
 	"config.xm.reset": "重設",
-	"config.xm.category.debug": "Debug",
+	"config.xm.category.debug": "除錯",
 	"config.xm.value.debug_collision_boxes": "Debug Collision Boxes",
 	"config.xm.help.debug_collision_boxes": "Draw detailed collision boxes;Can be ugly - useful for debugging.",
 	"misc.xm.mode_set": "Mode set to %s",

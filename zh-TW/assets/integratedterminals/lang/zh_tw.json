@@ -1,6 +1,6 @@
 {
     "_comment": "------ On the Dynamics of Integration contents ------",
-    "itemGroup.integratedterminals": "Integrated Terminals",
+    "itemGroup.integratedterminals": "集成終端",
     "general.integratedterminals.description": "Terminals for managing and overviewing Integrated Dynamics networks.",
     "gui.integratedterminals.amount": "Amount",
     "gui.integratedterminals.channel": "頻道",
@@ -85,7 +85,7 @@
     "gui.integratedterminals.craftingplan.status.crafting.desc": "Job started, waiting for outputs",
     "gui.integratedterminals.craftingplan.status.finished": "完成",
     "gui.integratedterminals.craftingplan.status.finished.desc": "Job completed, outputs have been received",
-    "key.categories.integratedterminals": "Integrated Terminals",
+    "key.categories.integratedterminals": "集成終端",
     "key.integratedterminals.terminal.tab.next": "Go to next terminal tab",
     "key.integratedterminals.terminal.tab.previous": "Go to previous terminal tab",
     "key.integratedterminals.terminal.craftinggrid.clearplayer": "Clear Crafting Grid into Inventory",
