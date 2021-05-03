@@ -153,7 +153,7 @@
   "block.rsgauges.qube": "The qube",
   "block.rsgauges.qube.help": "這是個開發者方塊，不應該能在遊戲裡合成或使用。",
   "block.rsgauges.red_power_plant": "紅色能量植物",
-  "block.rsgauges.red_power_plant.help": "§6人造的紅色化，看起來非常像罌粟。 當被實體觸碰時會向上方方塊和底部方塊發出紅石信號。 §r\n${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.contactmat.offdelay.help} ${rsgauges.switch.feature.linksource.help}",
+  "block.rsgauges.red_power_plant.help": "Artificial red flower that\n looks very similar to a poppy,\n emitting a redstone signal to the\n front and bottom when something\n touches it (like a contact plate).\n${rsgauges.switch.feature.outputconfig.help}\n${rsgauges.switch.feature.contactmat.offdelay.help}\n${rsgauges.switch.feature.linksource.help}",
   "block.rsgauges.rustic_angular_lever": "雙穩態紅石開關 (鄉村式大角控制桿)",
   "block.rsgauges.rustic_angular_lever.help": "${rsgauges.switch.feature.typebistable.help}${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help} ${rsgauges.switch.feature.hoppermountable.help}",
   "block.rsgauges.rustic_button": "脈衝紅石開關 (鄉村式推鈕)",
