@@ -1,6 +1,6 @@
 {
   "key.inventoryhud.category": "物品欄顯示+",
-  "key.inventoryhud.toggle": "切換開/關",
+  "key.inventoryhud.toggle": "Toggle InventoryHUD on/off",
   "key.inventoryhud.openconfig": "打開配置",
   "config.inventoryhud.category.armorhud": "顯示盔甲狀態",
   "config.inventoryhud.category.inventoryhud": "顯示物品欄",
@@ -48,5 +48,18 @@
   "inventoryhud.config.gui.potmini": "迷你模式:",
   "inventoryhud.config.gui.potmini.tt": "切換開/關藥水顯示迷你模式",
   "inventoryhud.config.gui.potgap": "差距:",
-  "inventoryhud.config.gui.potgap.tt": "效果圖示之間的差距從-5到5"
+  "inventoryhud.config.gui.potgap.tt": "效果圖示之間的差距從-5到5",
+  "inventoryhud.config.gui.invanimated": "Animated:",
+  "inventoryhud.config.gui.invanimated.tt": "Toggle on/off animation for recently picked up items.",
+  "inventoryhud.config.gui.invhidebg": "Hide Background:",
+  "inventoryhud.config.gui.invhidebg.tt": "Hide background if inventory is empty.",
+  "inventoryhud.config.gui.armcount": "Item count:",
+  "inventoryhud.config.gui.armcount.tt": "Show overall count of items in main/off hand",
+  "inventoryhud.config.gui.armscale": "Scale:",
+  "inventoryhud.config.gui.armscale.tt": "Armor HUD scale",
+  "inventoryhud.config.gui.pothor": "Horizontal mode:",
+  "inventoryhud.config.gui.pothor.tt": "Toggle on/off horizontal mode",
+  "key.inventoryhud.toggleall": "Toggle all HUDs on/off",
+  "key.inventoryhud.togglepot": "Toggle PotionHUD on/off",
+  "key.inventoryhud.togglearm": "Toggle ArmorHUD on/off"
 }
