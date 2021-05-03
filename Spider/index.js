@@ -35,22 +35,24 @@ const request = httpRequest.request(`https://addons-ecs.forgesvc.net/api/v2/addo
 
     response.on('end', () => {
         for (let i = 0; i < modCount; i++){
-            let downloadUrl = ""
-            let fileName = ""
-            fileName = responseData[i].gameVersionLatestFiles[0].projectFileName
-            let fileID = String(responseData[i].gameVersionLatestFiles[0].projectFileId)
-            downloadUrl = `https://edge.forgecdn.net/files/${fileID.substr(0, 4)}/${fileID.substr(4, 7)}/${fileName}`
-            const slug = responseData[i].slug
+            let id = responseData[i].id;
+            let name = responseData[i].name;
+            let fileName = responseData[i].gameVersionLatestFiles[0].projectFileName;
+            let fileID = String(responseData[i].gameVersionLatestFiles[0].projectFileId);
+            let downloadUrl = `https://edge.forgecdn.net/files/${fileID.substr(0, 4)}/${fileID.substr(4, 7)}/${fileName}`;
+            let slug = responseData[i].slug;
+
+            
             for (let k = 0; k < 1; k++) {
+                if (config.Blacklist_ID.includes(id)) return; //黑名單(專案ID)
+
                 let url = downloadUrl;
                 let stream = fs.createWriteStream(path.join(dirPath, fileName));
                 request_one(url).pipe(stream).on("close", function (err) {
-                        console.log("模組: " + responseData[i].name + "下載完成");
                         compressing.zip.uncompress(`./mod/${fileName}`, "../jar/" + slug).then(() => compressing_done())
 
                         function compressing_done() {
-                            console.log(`模組: ${responseData[i].name} 解壓縮完畢`)
-                            let mod_id = "";
+                            let mod_id;
                             let dirPath_2 = path.join(__dirname, `../jar/${slug}/META-INF/mods.toml`);
                             let dirPath_3 = path.join(__dirname, `../jar/${slug}/mcmod.info`);
                             let dirPath_6 = path.join(__dirname, `../jar/${slug}/fabric.mod.json`);
@@ -85,7 +87,8 @@ const request = httpRequest.request(`https://addons-ecs.forgesvc.net/api/v2/addo
 
 
                             function mod_assets(mod_id) {
-                                if (config.Blacklist.includes(mod_id)) return; //黑名單
+                                if (config.Blacklist_modId.includes(mod_id)) return; //黑名單(模組ID)
+
                                 let dirPath_4 = path.join(__dirname, "../jar/" + slug + "/assets/" + mod_id + "/lang/en_us.json");
                                 if (!fs.existsSync(dirPath_4)) return
 
@@ -99,13 +102,13 @@ const request = httpRequest.request(`https://addons-ecs.forgesvc.net/api/v2/addo
                                 }
                                 fs.createReadStream("../jar/" + slug + "/assets/" + mod_id + "/lang/en_us.json", 'utf8').pipe(concat(function (data, err) {
                                     try {
-                                        JSON.parse(data)
+                                        JSON.parse(data);
                                     } catch (err) {
-                                        console.log("解析Json時發生錯誤 \n"+err)
+                                       return console.log("解析語系Json檔案時發生錯誤。\n錯誤原因: "+err);
                                     }
                                 }));
                                 fs.copyFile("../jar/" + slug + "/assets/" + mod_id + "/lang/en_us.json", "../assets/" + mod_id + "/lang/zh_tw.json", (err) => {
-                                    console.log("成功移動模組: " + responseData[i].name + " 的原始翻譯文本")
+                                    console.log(`處理 ${name} (${id}-${mod_id}) 的原始語系檔案完成`)
                                     if (err) throw err;
                                 })
                             }
