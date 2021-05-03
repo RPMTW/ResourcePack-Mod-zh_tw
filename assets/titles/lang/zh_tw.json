@@ -6,8 +6,8 @@
   
   "_Commands": "",
   "commands.titles.usage": "/titles <add|remove> <player> <titleKey>",
-  "commands.titles.add": "Added title %s to player %s.",
-  "commands.titles.remove": "Removed title %s from player %s.",
+  "commands.titles.add": "Added title [%s] to player %s.",
+  "commands.titles.remove": "Removed title [%s] from player %s.",
   
   "_Items": "",
   "itemGroup.titles": "Titles",
@@ -21,6 +21,7 @@
   "_Entities": "",
 
   "_Config": "",
+  "keybind.titles.category": "Titles",
   "key.titles.openTitleSelection": "Open Title Selection Screen",
   
   "_Gui": "",
@@ -75,6 +76,7 @@
 
   "_adventure": "",
   "title.minecraft.adventure.kill_a_mob": "the Huntsman",
+  "title.minecraft.adventure.kill_a_mob.f": "the Huntress",
   "title.minecraft.adventure.trade": "the Haggler",
   "title.minecraft.adventure.shoot_arrow": "the Bowman",
   "title.minecraft.adventure.kill_all_mobs": "the Predator",
