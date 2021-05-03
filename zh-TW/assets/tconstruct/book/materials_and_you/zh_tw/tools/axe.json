@@ -2,19 +2,19 @@
   "tool": "tconstruct:axe",
   "text": [
     {
-      "text": "《手斧》是基礎的伐木工具，能快速的處理木頭和樹葉，用它破壞樹葉不會扣耐久。"
+      "text": "The Hatchet is a basic chopping tool. It is effective on wood and leaves. Breaking leaves with it does not consume durability."
     },
     {
       "text": "\n"
     },
     {
-      "text": "手斧用於戰鬥時可以讓對方的盾失效"
+      "text": "Using the hatchet in combat allows you to disable the shield of your opponent."
     }
   ],
   "properties": [
-    "基礎挖掘工具",
-    "用來挖木頭",
-    "破壞樹葉非常快",
-    "破壞樹葉不會扣耐久"
+    "Basic mining tool",
+    "Effective on wood",
+    "Breaks leaves really fast",
+    "Doesn't use durability on leaves"
   ]
 }
