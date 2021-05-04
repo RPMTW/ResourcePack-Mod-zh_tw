@@ -228,7 +228,7 @@
   "guide.woot.basics.ingredients.0": "Some mobs require ingredients to drop their loot and these must be provided in chests/tanks beside the $(item)Ingredient Importer$(0).ALL ingredients for ALL mobs be provided or no loot will be produced.",
   "guide.woot.basics.ingredients.name": "Ingredients（原料）",
   "guide.woot.basics.intro.0": "怪物工廠提供一個麥塊老問題的解決方案, - $(#f00)我想要所有的怪物掉落物!.$() 傳統的解答是盡可能加速怪物的生成,自動殺怪然後撿起所有它們遺落的掉落物.",
-  "guide.woot.basics.intro.1": "有許多有趣的方式執行這個運作.主要的缺點是生成了大量的實體,並在伺服器上擴展時會影響性能. 怪物工廠提供了你一個生怪農場/工廠,卻不會生成那些亂成一團的實體並希望減輕伺服器的負擔.這也是為了像我一樣懶惰的人,不喜歡蓋生怪農場的人.",
+  "guide.woot.basics.intro.1": "有許多有趣的方式執行這個運作.主要的缺點是生成了大量的實體,並在伺服器上擴展時會影響效能. 怪物工廠提供了你一個生怪農場/工廠,卻不會生成那些亂成一團的實體並希望減輕伺服器的負擔.這也是為了像我一樣懶惰的人,不喜歡蓋生怪農場的人.",
   "guide.woot.basics.intro.name": "這模組是幹嘛用的?",
   "guide.woot.basics.mobshard.0": "$(item)怪物碎片$(0)用來捕捉怪物,並在工廠中使用.首先你必須製作$(item)怪物碎片$(0),然後攻擊怪物來編程這個碎片.你必須殺死特定數量的怪物,且碎片必須在你的包包裡.當達到擊殺數時,碎片會完全編程且可製作成$(l:mobs/controller)怪物工廠控制器.",
   "guide.woot.basics.mobshard.name": "捕捉怪物",
