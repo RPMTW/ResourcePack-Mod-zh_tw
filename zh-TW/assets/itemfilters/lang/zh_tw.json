@@ -18,7 +18,7 @@
 	"item.itemfilters.tag.description": "標籤名，例如 'minecraft:wool' or 'forge:cobblestone'",
 	"item.itemfilters.item_group": "物品組過濾器",
 	"item.itemfilters.item_group.description": "使用物品組/創造ID過濾",
-	"item.itemfilters.mod": "按mod分揀過濾器",
+	"item.itemfilters.mod": "按模組分揀過濾器",
 	"item.itemfilters.mod.description": "按照模組ID過濾",
 	"item.itemfilters.id_regex": "ID正則過濾器",
 	"item.itemfilters.id_regex.description": "使用正則表達式檢查物品ID",
