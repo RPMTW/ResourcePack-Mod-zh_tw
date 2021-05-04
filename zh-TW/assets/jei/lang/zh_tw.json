@@ -78,7 +78,7 @@
   "config.jei.advanced": "進階",
   "config.jei.advanced.comment": "用於變更 JEI 功能的高級設定。",
   "config.jei.advanced.itemBlacklist": "物品黑名單",
-  "config.jei.advanced.itemBlacklist.comment": "黑名單中物品將不會顯示於 JEI 物品列表。加入格式：modId[:name[:meta]]。使用編輯模式可自動加入或刪除這裡的條目。",
+  "config.jei.advanced.itemBlacklist.comment": "黑名單中物品將不會顯示於 JEI 物品列表。加入格式：模組Id[:name[:meta]]。使用編輯模式可自動加入或刪除這裡的條目。",
   "config.jei.advanced.colorSearchEnabled": "啟用顏色搜尋",
   "config.jei.advanced.colorSearchEnabled.comment": "按顏色搜尋物品，並在可以此法搜尋的物品的資訊提示中加以註明。",
   "config.jei.advanced.debugModeEnabled": "除錯模式",
