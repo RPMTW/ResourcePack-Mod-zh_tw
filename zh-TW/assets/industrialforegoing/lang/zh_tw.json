@@ -196,7 +196,7 @@
   "text.industrialforegoing.book.upgrades": "工業先鋒沒有速度升級，但是您可以使用Tesla Core Lib中的{能量升級}和{速度升級}來加速機器。它們需要從低級到高級依次安裝。",
   "text.industrialforegoing.book.plant_interactor": "供給能量後，它會{右鍵}收穫作物和水果並放入自己的快取中，如果收穫的物品無法被放入，它會將其扔到地上。@L@@L@{*它預設支持潘馬斯模組的水果和作物。水果必須與機器保持在同一水平線上才能收穫}",
   "text.industrialforegoing.book.transfer_addon": "傳輸外掛有吸入和輸出兩種，它們只能對{物品}和{流體}進行吸入或輸出的操作。@L@@L@要改變吸入或輸出的方向，你可以拿著外掛循環{右鍵點擊}在各種方向間轉換。也可以{shift+右鍵}點擊方塊的一個面來設定想要吸入或者輸出的方向。你可以使用{效率}附魔來增加外掛一次工作可以吸入或者傳輸的量。",
-  "text.industrialforegoing.book.fluiddictionary_converter": "這台設備可以轉換不同mod但辭典相同的流體。您可以查看{JEI}了解可以轉換的配方。而你只需點擊按鈕就可以轉換這些流體。",
+  "text.industrialforegoing.book.fluiddictionary_converter": "這台設備可以轉換不同模組但辭典相同的流體。您可以查看{JEI}了解可以轉換的配方。而你只需點擊按鈕就可以轉換這些流體。",
   "text.industrialforegoing.book.conveyors": "傳送帶將{推動}任何在其上方的實體。它有不同的顏色和垂直狀態。@L@@L@你可以透過拿著{螢石粉}右鍵單擊傳送帶來升級它，使得傳送帶的速度更快。你也可以透過拿著{塑膠片}右鍵點擊傳送帶來將傳送帶升級到其上面的物品無法被拾取的狀態。@PAGE@傳送帶還有其他不同的{升級}，可以放置到傳送帶的側面或中心。你可以透過潛行+右鍵單擊來刪除升級。",
   "text.industrialforegoing.book.conveyor_upgrade_extraction": "傳送帶提取升級會嘗試{提取}接觸升級的容器中的物品並將其放置在傳送帶內。@L@@L@升級內自帶一個有黑名單和白名單的{過濾表}。你可以透過使用{螢石粉}右鍵升級來增加其提取速度。（如果提取的物品數量過多，它將停止提取）",
   "text.industrialforegoing.book.conveyor_upgrade_insertion": "傳送帶插入升級將嘗試將接觸升級的物品插入到觸及升級端的容器中。@L@@L@升級內自帶一個有黑名單和白名單的{過濾表}。可以在升級中調整{插入範圍}，這樣它就可以取得傳送帶中的所有物品，而不只是觸碰到升級的物品。",
