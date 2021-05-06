@@ -104,7 +104,8 @@ const request = httpRequest.request(`https://addons-ecs.forgesvc.net/api/v2/addo
                                     try {
                                         JSON.parse(data);
                                     } catch (err) {
-                                       return console.log("解析語系Json檔案時發生錯誤。\n錯誤原因: "+err);
+                                       console.log("解析語系Json檔案時發生錯誤。\n錯誤原因: "+err);
+                                       return;
                                     }
                                 }));
                                 fs.copyFile("../jar/" + slug + "/assets/" + mod_id + "/lang/en_us.json", "../assets/" + mod_id + "/lang/zh_tw.json", (err) => {
