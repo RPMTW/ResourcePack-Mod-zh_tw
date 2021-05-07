@@ -224,7 +224,7 @@
   "block.engineersdecor.small_fluid_funnel": "Small Fluid Collection Funnel",
   "block.engineersdecor.small_fluid_funnel.help": "Collects fluids above it. Has an\n internal tank with three buckets\n capacity. Traces flowing fluids\n to nearby source blocks. The\n fluid can be obtained with fluid\n transfer systems or a bucket.\n Fills only tanks below (gravity\n transfer). Compatible with vanilla\n infinite-water-source creation.",
   "block.engineersdecor.small_freezer": "小水冰櫃",
-  "block.engineersdecor.small_freezer.help": "製冰設備。冷卻\n 水到冰，包裝冰，\n 最後藍冰。單擊\n 水桶或水管，\n 確保設備為 RF 供電。\n 使用漏鬥或其他物品\n 提取取取冰\n 變種。取出 RF 電源或\n 應用紅石信號\n 冰櫃禁用。對於自動化，您\n 可以使用紅石比較器\n 檢測目前\n 哪個冰相。",
+  "block.engineersdecor.small_freezer.help": "製冰設備。冷卻\n 水到冰，包裝冰，\n 最後藍冰。單擊\n 水桶或水管，\n 確保設備為 RF 供電。\n 使用漏鬥或其他物品\n 提取取取冰\n 變種。取出 RF 電源或\n 應用紅石信號\n 冰櫃禁用。對於自動化，您\n 可以使用紅石比較器\n 檢測當前\n 哪個冰相。",
   "block.engineersdecor.small_lab_furnace": "小型實驗室熔爐",
   "block.engineersdecor.small_lab_furnace.help": "小型金屬箱實驗室窯。固體\n 燃料消耗，向上驅動。稍微\n 比\n 鵝卵石爐更熱、更孤立，因此\n 效率更高。兩個輔助\n 插槽，例如用於存儲。兩堆\n 內部漏鬥纖維輸入，\n 輸出和燃料。將\n 外部加熱器放入輔助插槽\n ，並連接電源以增強電\n 冶鍊速度。",
   "block.engineersdecor.small_milking_machine": "小型擠奶機",
