@@ -1,7 +1,6 @@
 {
 	"itemGroup.DMItems": "Dungeons Mod",
 	
-	//Eggs
 	"item.dungeonsmod.anthermite_egg": "Spawn Anthermite Egg",
 	"item.dungeonsmod.mimic_egg": "Spawn Mimic Egg",
 	"item.dungeonsmod.piranha_egg": "Spawn Piranha Egg",
@@ -32,7 +31,6 @@
 	"item.dungeonsmod.scientist_egg": "Spawn Scientist Egg",
 	"item.dungeonsmod.slimewolf_egg": "Spawn Slimewolf Egg",
 	
-	//Maps
 	"filled_map.dungeonsmod:the_house": "The House",
 	"filled_map.dungeonsmod:the_mines": "The Iron Mines",
 	"filled_map.dungeonsmod:the_ship": "The Ship",
@@ -40,7 +38,6 @@
 	"filled_map.dungeonsmod:the_lab": "The Lab",
 	"filled_map.dungeonsmod:the_origin": "The Origin",
 	
-	//Entities
 	"entity.dungeonsmod.extrapart": "Foobar",
 	"entity.dungeonsmod.voidlaser": "Void Laser",
 	
@@ -76,7 +73,6 @@
 	
 	"entity.minecraft.villager.dungeonsmod.traveler": "Traveler",
 	
-	//Items
 	
 	"item.dungeonsmod.back_pergamine": "Back Pergamine",
 	"enchantment.level.32": "XXXII",
@@ -120,7 +116,6 @@
 	
 	
 	
-	//Desactivation messages
 	"entity.dungeonsmod.winterhunter.invocation.denied": "You are getting hypothermia, yikes.",
 	"entity.dungeonsmod.traveler.invocation.denied": "The coal continue burning slowly, nobody came.",
 	"entity.dungeonsmod.lordskeleton.invocation.denied": "The soul doesn't seems to react.",
@@ -134,7 +129,6 @@
 	"item.dungeonsmod.sun_overdrive.denied":"The sun inside is no longer warm",
 	
 	
-	//Translating this will only take place on singleplayer. On server side will always be in english.
 	"item.dungeonsmod.writtenbookside1.page0": "Mr Bones will bring you grace and luck, just touch not his head or bring ghosts on the night he will. Dont pour ghost souls into his head, awakened Mr Bones should never be .",
 	"item.dungeonsmod.writtenbookside1.page1": "Shaman protect Mr Bones until dead come he must.",
 	"item.dungeonsmod.writtenbookside1.author": "Shaman",
@@ -191,7 +185,6 @@
 	"item.dungeonsmod.writtenbook8.author": "None",
 	"item.dungeonsmod.writtenbook8.title": "Empty",
 	
-	//Fabric stuff
 	"text.autoconfig.dungeonsmod.title": "Dungeons Mod Config",
 	
 	"text.autoconfig.dungeonsmod.category.items": "Items",
