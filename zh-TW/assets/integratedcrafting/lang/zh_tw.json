@@ -1,10 +1,10 @@
 {
   "_comment": "------ On the Dynamics of Integration contents ------",
-  "itemGroup.integratedcrafting": "Integrated Crafting",
+  "itemGroup.integratedcrafting": "集成合成學",
   "general.integratedcrafting.description": "Craft stuff in Integrated Dynamics networks.",
   "gui.integratedcrafting.partsettings.channel.interface": "Crafting Channel",
-  "gui.integratedcrafting.partsettings.ingredient": "Ingredient Type",
-  "gui.integratedcrafting.partinterface.slot.message.valid": "Recipe is valid for the target.",
+  "gui.integratedcrafting.partsettings.ingredient": "成分類型",
+  "gui.integratedcrafting.partinterface.slot.message.valid": "配方對目標有效。",
   "gui.integratedcrafting.partinterface.slot.message.invalid": "Recipe is not acceptable by the target.",
   "gui.integratedcrafting.partinterface.slot.message.norecipe": "The variable does not contain a recipe.",
   "advancement.integratedcrafting.craft_crafting_interface": "Crafting² Interface",
