@@ -118,9 +118,9 @@
     "tooltip.ironfurnaces.gui_shift_more_options": " 查看更多設定",
     "tooltip.ironfurnaces.hold": "按住 ",
     "tooltip.ironfurnaces.for_details": " 查看詳情",
-    "ironfurnaces.update.speech": "[{\"text\":\"更多熔爐\"},{\"text\":\"有一個更新\",\"color\":\"dark_green\"},{\"text\":\"可用！\",\"color\":\"none\"}]",
-    "ironfurnaces.update.version": "[{\"text\":\"目前版本：\"},{\"text\":\"%s\",\"color\":\"dark_red\"},{\"text\":\",最新版本：\",\"color\":\"none\"},{\"text\":\"%s\",\"color\":\"dark_green\"}]",
-    "ironfurnaces.update.buttons": "[{\"text\":\"[\"},{\"text\":\"點擊查看更新日誌\",\"color\":\"green\",\"clickEvent\":{\"action\":\"open_url\",\"value\":\"%s\"}},{\"text\":\"] [\",\"color\":\"none\"},{\"text\":\"點擊下載\",\"color\":\"green\",\"clickEvent\":{\"action\":\"open_url\",\"value\":\"%s\"}},{\"text\":\"]\",\"color\":\"none\"}]",
+    "ironfurnaces.update.speech": "[{\"text\":\"更多熔爐\"}，{\"text\":\"有一個更新\"，\"color\":\"dark_green\"}，{\"text\":\"可用！\"，\"color\":\"none\"}]",
+    "ironfurnaces.update.version": "[{\"text\":\"目前版本：\"}，{\"text\":\"%s\"，\"color\":\"dark_red\"}，{\"text\":\"，最新版本：\"，\"color\":\"none\"}，{\"text\":\"%s\"，\"color\":\"dark_green\"}]",
+    "ironfurnaces.update.buttons": "[{\"text\":\"[\"}，{\"text\":\"點擊查看更新日誌\"，\"color\":\"green\"，\"clickEvent\":{\"action\":\"open_url\"，\"value\":\"%s\"}}，{\"text\":\"] [\"，\"color\":\"none\"}，{\"text\":\"點擊下載\"，\"color\":\"green\"，\"clickEvent\":{\"action\":\"open_url\"，\"value\":\"%s\"}}，{\"text\":\"]\"，\"color\":\"none\"}]",
     "ironfurnaces.update.buttonOptions": "點擊：變更日誌，Shift點擊：下載！ (在瀏覽器)",
-    "ironfurnaces.update.failed": "[{\"text\":\"更多熔爐\"},{\"text\":\"檢測更新\",\"color\":\"dark_green\"},{\"text\":\"檢測更新失敗！查看日誌以取得更多資訊！\",\"color\":\"none\"}]"
+    "ironfurnaces.update.failed": "[{\"text\":\"更多熔爐\"}，{\"text\":\"檢測更新\"，\"color\":\"dark_green\"}，{\"text\":\"檢測更新失敗！查看日誌以取得更多資訊！\"，\"color\":\"none\"}]"
 }

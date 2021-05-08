@@ -2,7 +2,7 @@
   "block.itemcollectors.basic_collector": "基礎物品收集器",
   "block.itemcollectors.advanced_collector": "進階物品收集器",
   "itemcollectors.basic_collector.info": "最多可以拾取%d格遠",
-  "itemcollectors.advanced_collector.info": "最多可以拾取%d格遠,可以過濾物品",
+  "itemcollectors.advanced_collector.info": "最多可以拾取%d格遠，可以過濾物品",
   "gui.itemcollectors.basic_collector.range": "範圍($numberx$x$numbery$x$numberz$)",
   "gui.itemcollectors.basic_collector.range.increase": "增加範圍",
   "gui.itemcollectors.basic_collector.range.decrease": "減少範圍",

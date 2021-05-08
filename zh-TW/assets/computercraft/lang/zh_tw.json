@@ -82,7 +82,7 @@
     "commands.computercraft.queue.synopsis": "發送一個computer_command 事件到指令計算機",
     "commands.computercraft.queue.desc": "將 computer_command 事件發送到指令計算機，傳遞其他參數。這主要是為地圖製作者設計的，作為一個更適合計算機的 \"/trigger\" 版本。任何玩家都可以執行該指令，那些希望完成文本組件人可以透過單擊來執行。",
     "commands.computercraft.generic.no_position": "<無位置>",
-    "commands.computercraft.generic.position": "%s, %s, %s",
+    "commands.computercraft.generic.position": "%s， %s， %s",
     "commands.computercraft.generic.yes": "Y(是)",
     "commands.computercraft.generic.no": "N(否)",
     "commands.computercraft.generic.exception": "未處理的異常（%s）",

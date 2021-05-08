@@ -404,7 +404,7 @@
   "block.biomesoplenty.yellow_autumn_leaves": "黃秋樹樹葉",
   "block.biomesoplenty.yellow_autumn_sapling": "黃秋樹樹苗",
   "argument.biomesoplenty.biome.invalid": "無效的生態域參數",
-  "commands.biomesoplenty.tpbiome.success": "玩家%s傳送到生態域：%s ,坐標(%s, %s, %s)",
+  "commands.biomesoplenty.tpbiome.success": "玩家%s傳送到生態域：%s ，坐標(%s， %s， %s)",
   "commands.biomesoplenty.tpbiome.error": "未找到生態域：%s!",
   "entity.biomesoplenty.boat_bop": "船"
 }
