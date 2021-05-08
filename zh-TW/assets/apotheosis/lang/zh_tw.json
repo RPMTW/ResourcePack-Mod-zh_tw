@@ -1,6 +1,6 @@
 {
 	"comment_id": "/Misc",
-	"affix.apotheosis:reach_distance.name": "Reach Distance - (%s)",
+	"affix.apotheosis:reach_distance.name": "攻擊距離 - (%s)",
 	"affix.apotheosis:enchantability.name": "Enchantability - (%s)",
 	"affix.apotheosis:draw_speed.name": "Draw Speed - (%s%%)",
 	"affix.apotheosis:movement_speed.name": "Movement Speed - (%s%%)",
@@ -567,5 +567,5 @@
 	"effect.apotheosis.bleeding": "流血",
 	"death.attack.apotheosis.bleeding": "%s失血過多。",
 	"info.apoth.modifier_disabled": "此修改器已停用",
-	"itemGroup.apotheosis": "Apotheosis"
+	"itemGroup.apotheosis": "神化"
 }
