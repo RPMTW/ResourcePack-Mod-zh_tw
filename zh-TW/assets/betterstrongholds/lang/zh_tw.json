@@ -9,7 +9,7 @@
     "text.autoconfig.betterstrongholds-fabric-1_16.option.betterStrongholds.whitelistedDimensions.@Tooltip[0]": "將有 更好的要塞 維度清單。",
     "text.autoconfig.betterstrongholds-fabric-1_16.option.betterStrongholds.whitelistedDimensions.@Tooltip[1]": "清單必須是用逗號隔開的數值，用括號括起來。",
     "text.autoconfig.betterstrongholds-fabric-1_16.option.betterStrongholds.whitelistedDimensions.@Tooltip[2]": "條目必須包含模組命名空間。",
-    "text.autoconfig.betterstrongholds-fabric-1_16.option.betterStrongholds.whitelistedDimensions.@Tooltip[3]": "例如: \"[minecraft:overworld, minecraft:the_nether, undergarden:undergarden]\"",
+    "text.autoconfig.betterstrongholds-fabric-1_16.option.betterStrongholds.whitelistedDimensions.@Tooltip[3]": "例如: \"[minecraft:overworld， minecraft:the_nether， undergarden:undergarden]\"",
     "text.autoconfig.betterstrongholds-fabric-1_16.option.betterStrongholds.whitelistedDimensions.@Tooltip[4]": "預設值： \"[minecraft：overworld]\"",
     "text.autoconfig.betterstrongholds-fabric-1_16.option.betterStrongholds.blacklistedBiomes": "黑名單生態域",
     "text.autoconfig.betterstrongholds-fabric-1_16.option.betterStrongholds.blacklistedBiomes.@Tooltip[0]": "List of biomes that will NOT have Better Strongholds.",
