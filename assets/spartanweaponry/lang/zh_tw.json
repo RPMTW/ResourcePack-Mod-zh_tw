@@ -3,7 +3,7 @@
 	"itemGroup.spartanweaponry.modded": "Spartan Weaponry: Modded Materials",
 	"itemGroup.spartanweaponry.arrows_bolts": "Spartan Weaponry: Arrows & Bolts",
 
-
+	
 	"item.spartanweaponry.handle": "Handle",
 	"item.spartanweaponry.pole": "Pole",
 	"item.spartanweaponry.explosive_charge": "Explosive Charge",
@@ -426,7 +426,6 @@
 	"item.spartanweaponry.bolt_spectral": "Spectral Bolt",
 	"item.spartanweaponry.bolt_diamond": "Diamond Bolt",
 	
-
 	"item.spartanweaponry.proj_tipped": "Tipped %s",
 	"item.spartanweaponry.proj_tipped.effect.empty": "Potion-Tipped %s",
 	"item.spartanweaponry.proj_tipped.effect.water": "%s of Splashing",
@@ -564,11 +563,12 @@
 	"enchantment.spartanweaponry.throwing_hydrodynamic": "Hydrodynamic",
 	"enchantment.spartanweaponry.throwing_hydrodynamic.desc": "Allows throwing weapons to work underwater",
 	
-
 	"tooltip.spartanweaponry.traits": "Traits: %s",
 	"tooltip.spartanweaponry.show_details": "[Press %s to show details]",
 	"tooltip.spartanweaponry.showing_details": "[Showing details]",
 	"tooltip.spartanweaponry.traits.material_bonus": "Material Bonus:",
+	"tooltip.spartanweaponry.traits.show_details": "[Press %s to show details]",
+	"tooltip.spartanweaponry.traits.showing_details": "[Showing details]",
 	
 	"tooltip.spartanweaponry.trait.throwable": "Throwable",
 	"tooltip.spartanweaponry.trait.throwable.desc": "This weapon can be thrown at foes",
@@ -638,7 +638,6 @@
 	"tooltip.spartanweaponry.heavy_crossbow.desc_2": "Aiming after loading improves accuracy",
 	"tooltip.spartanweaponry.heavy_crossbow.desc_3": "Hold the aim for a pinpoint shot",
 	"tooltip.spartanweaponry.heavy_crossbow.loaded_bolt": "Loaded with: %s",
-
 	
 	"tooltip.spartanweaponry.modifiers": "Modifiers:",
 	"tooltip.spartanweaponry.modifiers.ammo.type": "Ammo Type: %s",
