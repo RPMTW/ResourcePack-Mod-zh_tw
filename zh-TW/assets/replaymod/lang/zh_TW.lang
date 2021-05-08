@@ -1,11 +1,11 @@
-replaymod.title=重現記錄 模組
+replaymod.gui.edit=編輯
 
 #Website API translations
 replaymod.api.parammissing=缺少所需的參數： %1$s
 replaymod.api.invalidvalue=參數%1$s的無效值 - 可能的值：%2$s。
 replaymod.api.invalidlogin=提供無效的登入數據
 replaymod.api.invalidauthkey=提供無效的認證金鑰
-replaymod.api.notenoughspace=沒有足夠的空間來上傳這個檔案。 考慮在ReplayMod.com上購買進階版。 考慮在ReplayMod.com上購買進階版。
+replaymod.api.filetoobig=上傳的檔案太大。 考慮在ReplayMod.com上購買進階版。
 replaymod.api.invalidfile=這個檔案是無效的
 replaymod.api.fileduplicate=此檔案已被上傳
 replaymod.api.filenoexist=此檔案不存在
@@ -14,7 +14,7 @@ replaymod.api.usernoexist=該使用者不存在
 replaymod.api.invalidcategory=無效的檔案類別
 replaymod.api.nofilesuploaded=沒有上傳檔案
 replaymod.api.toomanyvalues=傳遞給%1$s的值太多
-replaymod.api.noparameters=至少需要一個參數。 參數：%1$s
+replaymod.api.noparameters=至少需要一個參數。 參數：%1$s 參數：%1$s
 replaymod.api.invalidfilename=檔案名稱必須在5到30個字元之間。
 replaymod.api.usernameexists=這個使用者名已經被占用了。
 replaymod.api.mailexists=該Email地址已經與列一個帳號綁定。
@@ -22,7 +22,7 @@ replaymod.api.invalidmail=無效的電子郵件地址。
 replaymod.api.nopermissions=你沒有權限這樣做。
 replaymod.api.authfailed=對Minecraft伺服器的身份驗證失敗。
 replaymod.api.mcuserexists=一個ReplayMod帳號已經和這個Minecraft帳號連結了。
-replaymod.api.filetoobig=上傳的檔案太大。
+replaymod.gui.ytuploadprogress.upload=[3/4] 上傳中: %%d%%%%
 replaymod.api.usernametoolong=使用者名稱過長
 replaymod.api.descriptiontoolong=描述過長
 replaymod.api.passwordlength=密碼必須在5到1024個字元之間。
@@ -40,10 +40,10 @@ replaymod.chat.addmarker=事件標記已被加入。
 
 #Chat messages displayed in Replay Viewer
 replaymod.chat.morekeyframes=至少需要2個位置關鍵幀和2個時間關鍵幀。
-replaymod.chat.pathinterrupted=攝影機路徑被取消。 Please consult your nearest time lord for assistance.
-replaymod.chat.chatstarted=相機路徑已啟動。
+replaymod.chat.chatstarted=相機路徑已啟動。 Please consult your nearest time lord for assistance.
 replaymod.chat.pathfinished=攝影機路徑已完成。
 replaymod.gui.ingame.menu.pausepath=暫停攝影機路徑
+replaymod.chat.pathinterrupted=攝影機路徑被取消。 Please consult your nearest time lord for assistance.
 
 #Replay Categories
 replaymod.category=種類
@@ -86,14 +86,14 @@ replaymod.gui.saveas=儲存為...
 replaymod.gui.paste=貼上
 replaymod.gui.close=關閉
 replaymod.gui.notagain=不要再顯示。
-replaymod.gui.edit=編輯
-replaymod.gui.copy=複製
 replaymod.gui.past=貼上
-
+replaymod.gui.copy=複製
 replaymod.gui.recording.resume=恢復錄製
-replaymod.gui.recording.pause=暫停錄製
+
 replaymod.gui.recording.stop=停止錄製
+replaymod.gui.recording.pause=暫停錄製
 replaymod.gui.recording.start=開始錄製
+replaymod.title=重現記錄 模組
 
 replaymod.gui.renderdonetitle=影片渲染
 replaymod.gui.openfolder=開啟影片資料夾
@@ -109,17 +109,17 @@ replaymod.gui.videovisibility.unlisted=Unlisted
 replaymod.gui.videovisibility.public=公共
 replaymod.gui.ytuploadprogress.auth=[1/4] 授權
 replaymod.gui.ytuploadprogress.prepare_video=[2/4] 準備影片: %%d%%%%
-replaymod.gui.ytuploadprogress.upload=[3/4] 上傳中: %%d%%%%
-replaymod.gui.ytuploadprogress.cleanup=[4/4] 清理數據
 replaymod.gui.ytuploadprogress.done=完成: %s
+replaymod.gui.ytuploadprogress.cleanup=[4/4] 清理數據
+replaymod.gui.hours=小時
 replaymod.gui.titleempty=標題不能空白
 replaymod.gui.videothumbnailtoolarge=縮圖大小大於 2MB
 replaymod.gui.videothumbnailformat=縮圖必須是 JPEG 或者 PNG 格式
 
-replaymod.gui.hours=小時
 replaymod.gui.minutes=分鐘
 replaymod.gui.seconds=秒
 replaymod.gui.milliseconds=毫秒
+replaymod.gui.settings=設定
 
 replaymod.gui.pitch=Pitch
 replaymod.gui.yaw=Yaw
@@ -133,7 +133,7 @@ replaymod.gui.unknownerror=發生了未知錯誤
 replaymod.gui.exit=退出播放器
 
 replaymod.gui.mainmenu=主要功能選單
-replaymod.gui.settings=設定
+replaymod.gui.restorereplay2=影片「%1$s」沒有正常儲存。
 
 replaymod.gui.keyframerepo.delete=你確定要刪除這些關鍵幀嗎?
 replaymod.gui.keyframerepo.overwrite=你確定要覆蓋這些關鍵幀嗎?

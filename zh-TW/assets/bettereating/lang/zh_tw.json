@@ -1,7 +1,7 @@
 {
-  "text.autoconfig.bettereating.title": "Better Eating Settings",
-  "text.autoconfig.bettereating.option.foodTimerLength": "Post-Eating Delay Duration",
-  "text.autoconfig.bettereating.option.foodTimerLength.@Tooltip": "Duration, in ticks, that you are prevented from doing other things",
-  "text.autoconfig.bettereating.option.restrictPlaceBlocks": "Timer Restricts Block Placement",
-  "text.autoconfig.bettereating.option.restrictUseBlocks": "Timer Restricts Block Interactions"
+  "text.autoconfig.bettereating.title": "更好的進食模組設定",
+  "text.autoconfig.bettereating.option.foodTimerLength": "進食後延遲持續時間",
+  "text.autoconfig.bettereating.option.foodTimerLength.@Tooltip": "禁止您做其他事情的持續時間(每tick)",
+  "text.autoconfig.bettereating.option.restrictPlaceBlocks": "計時器限制塊放置",
+  "text.autoconfig.bettereating.option.restrictUseBlocks": "計時器限制塊交互"
 }

@@ -193,7 +193,7 @@
   "jm.common.renderdelay": "繪製延遲",
   "jm.common.renderdelay.tooltip": "渲染通道之間的時間（以秒為單位）。數值越高，效能越好，但可能會導致在旅行中錯過區塊。",
   "jm.common.renderdistance_cave_max": "洞穴最大距離",
-  "jm.common.renderdistance_cave_max.tooltip": "你周圍的區塊的半徑，最終被映射到地下或沒有天空的維度。較低的值可以提高性能。比Minecraft的視野距離大的值沒有影響。",
+  "jm.common.renderdistance_cave_max.tooltip": "你周圍的區塊的半徑，最終被映射到地下或沒有天空的維度。較低的值可以提高效能。比Minecraft的視野距離大的值沒有影響。",
   "jm.common.renderdistance_cave_min": "洞穴最小距離",
   "jm.common.renderdistance_cave_min.tooltip": "當在地下或沒有天空的維度時, 你周圍固定會繪製地圖的區塊範圍。 較低的值可以提高效能,大於Minecraft繪製距離的值無效。",
   "jm.common.renderdistance_surface_max": "地表最大距離",
