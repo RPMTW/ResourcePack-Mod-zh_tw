@@ -3,8 +3,8 @@
   "wither.minion": "凋零奴僕",
   "dragon.larva": "幼龍",
   "dragon.minion": "龍奴僕",
-  "command.player_get_wither_difficulty": "%s has summoned %d Withers",
-  "command.player_get_dragon_difficulty": "%s has killed %d Dragons",
+  "command.player_get_wither_difficulty": "%s 召喚 %d 凋零",
+  "command.player_get_dragon_difficulty": "%s 殺死了 %d 龍",
   "command.player_set_boss_difficulty": "Set %s's %s difficulty to %d",
   "command.player_add_boss_difficulty": "Added %d %s's Difficulty to %s (now %d)"
 }
