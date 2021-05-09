@@ -1109,7 +1109,7 @@
     "operator.integrateddynamics.itemstack.fecapacity.info": "可以存儲在此物品中的最大 FE 數量",
     "operator.integrateddynamics.fluidstack": "液體",
     "operator.integrateddynamics.fluidstack.basename": "流體 %s",
-    "operator.integrateddynamics.fluidstack.amount": "Amount",
+    "operator.integrateddynamics.fluidstack.amount": "數量",
     "operator.integrateddynamics.fluidstack.amount.info": "流體總量(mb)",
     "operator.integrateddynamics.fluidstack.block": "方塊",
     "operator.integrateddynamics.fluidstack.block.info": "流體對應方塊",
