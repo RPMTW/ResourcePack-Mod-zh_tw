@@ -43,7 +43,7 @@
     "item.vehicle.industrial_jerry_can.info": "Use this Industrial Jerry Can to transport and fill vehicles with Fuelium. It can hold the equivalent of 15 buckets of Fuelium.",
     "item.vehicle.industrial_jerry_can.fuel": "燃料: %s",
     "item.vehicle.wrench": "Wrench",
-    "item.vehicle.key": "Key",
+    "item.vehicle.key": "車鑰匙",
     "item.vehicle.panel": "Panel",
     "item.vehicle.standard_wheel": "輪胎",
     "item.vehicle.sports_wheel": "輪胎",
@@ -64,9 +64,9 @@
     "block.vehicle.boost_ramp": "Boost Ramp",
     "block.vehicle.steep_boost_ramp": "Steep Boost Ramp",
     "block.vehicle.gas_pump": "Gas Pump",
-    "block.vehicle.fluid_extractor": "Fluid Extractor",
+    "block.vehicle.fluid_extractor": "流體抽取器",
     "block.vehicle.fluid_mixer": "流體混合器",
-    "block.vehicle.fluid_pipe": "Fluid Pipe",
+    "block.vehicle.fluid_pipe": "流體管道",
     "block.vehicle.fluid_pump": "液泵",
     "block.vehicle.fuel_drum": "Fuel Drum",
     "block.vehicle.industrial_fuel_drum": "Industrial Fuel Drum",
@@ -76,7 +76,7 @@
     "fluid.vehicle.fuelium": "Fuelium",
     "fluid.vehicle.ender_sap": "Ender Sap",
     "fluid.vehicle.blaze_juice": "Blaze Juice",
-    "container.fluid_extractor": "Fluid Extractor",
+    "container.fluid_extractor": "流體抽取器",
     "container.fluid_mixer": "流體混合器",
     "container.workstation": "Workstation",
     "container.edit_vehicle.window_help": "Click to move and rotate",
@@ -174,5 +174,5 @@
     "vehicle.tooltip.wheels": "§7Wheels",
     "key.categories.vehicle": "MrCrayfish's Vehicle Mod",
     "key.vehicle.cycle_seats": "Cycle Seats",
-    "key.vehicle.horn": "Horn"
+    "key.vehicle.horn": "喇叭"
 }
