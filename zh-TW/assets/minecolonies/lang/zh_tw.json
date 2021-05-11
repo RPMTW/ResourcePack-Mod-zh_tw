@@ -239,7 +239,7 @@
     "minecolonies.config.pathfindingmaxnodes": "尋路最大節點數",
     "minecolonies.config.pathfindingmaxnodes.comment": "尋路過程中要映射的節點(位置)的最大數量。降低此數值能夠提高效能，但可能會導致路徑故障。[默認: 5000]",
     "minecolonies.config.enabledebuglogging": "啟用除錯日誌記錄",
-    "minecolonies.config.enabledebuglogging.comment": "請求系統應顯示調試信息？發生故障時很有用。[默認: false]",
+    "minecolonies.config.enabledebuglogging.comment": "請求系統應該在debug.log中顯示除錯訊息嗎？如果發生故障，這很有用。",
     "minecolonies.config.maximalretries": "最大重試次數",
     "minecolonies.config.maximalretries.comment": "請求系統對可重試請求執行的最大嘗試次數。次數越高伺服器負載越大。 [預設值：3]",
     "minecolonies.config.delaybetweenretries": "重試之間的延遲",
