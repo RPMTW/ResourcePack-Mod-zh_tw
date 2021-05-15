@@ -27,7 +27,7 @@
   "wormhole.portal.gui.title": "傳送門總覽",
   "wormhole.portal.gui.target_color": "顏色",
   "wormhole.portal.color.gui.title": "目的地顏色",
-  "wormhole.portal.gui.change_target": "Change Target",
+  "wormhole.portal.gui.change_target": "變更目標",
   "wormhole.portal.color.gui.complete": "完成",
   "wormhole.portal.gui.activate": "啟動",
   "wormhole.portal.gui.deactivate": "未啟動",
@@ -63,7 +63,7 @@
   "wormhole.color.black": "夜黑",
   "wormhole.color.random": "隨機",
   "wormhole.target.location": "座標",
-  "wormhole.target.dimension": "Dimension",
+  "wormhole.target.dimension": "維度",
   "wormhole.target.direction": "方向",
-  "wormhole.target.teleport_cost": "Teleport Cost"
+  "wormhole.target.teleport_cost": "傳送耗能"
 }

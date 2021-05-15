@@ -72,5 +72,5 @@
 	"text.autoconfig.vanilladeathchest.option.misc.gameRuleName": "Game rule name",
 	"text.autoconfig.vanilladeathchest.option.misc.gameRuleName.@Tooltip": "The name of the game rule that controls whether death chests should be spawned.",
 	"text.autoconfig.vanilladeathchest.option.misc.configReloadCommand": "Configuration reload command",
-	"text.autoconfig.vanilladeathchest.option.misc.configReloadCommand.@Tooltip": "The name of the command that reloads this configuration from disk."
+	"text.autoconfig.vanilladeathchest.option.misc.configReloadCommand.@Tooltip": "從硬碟上重新載入此設置的指令名稱。"
 }

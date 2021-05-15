@@ -1,7 +1,7 @@
 {
   "tooltip.waila.crop_growth": "成長： %s",
   "tooltip.waila.crop_mature": "成熟",
-  "tooltip.waila.empty": "Empty",
+  "tooltip.waila.empty": "空",
   "tooltip.waila.delay": "延遲：%d",
   "tooltip.waila.mode": "模式: %s",
   "tooltip.waila.mode_comparator": "比較器",
@@ -70,5 +70,6 @@
   "config.waila.plugin_waila.show_entities": "顯示實體",
   "config.waila.plugin_waila.show_entity_hp": "顯示實體生命值",
   "config.waila.plugin_waila.show_states": "顯示狀態",
-  "entity.minecraft.villager.none": "硝煙 （Nitwit）"
+  "entity.minecraft.villager.none": "失業",
+  "entity.minecraft.villager.nitwit": "傻子"
 }
