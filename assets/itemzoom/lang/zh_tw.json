@@ -1,13 +1,10 @@
 {
-    "_comment": "Key Bindings",
+    "_comment": "Config",
     "key.itemzoom.toggle": "Toggle Item Zoom",
     "key.itemzoom.hold": "Hold To Display",
     "key.itemzoom.zoom.in": "Zoom In",
     "key.itemzoom.zoom.out": "Zoom Out",
-
-    "_comment": "Config",
     "config.itemzoom.title": "%MODNAME Config",
-
     "config.itemzoom.toggle.enabled": "Toggle Item Zoom",
     "config.itemzoom.toggle.enabled.comment": "If set to \"false\", Item Zoom will be disabled.",
     "config.itemzoom.zoom.amount": "Zoom Amount",
