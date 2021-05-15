@@ -1,7 +1,7 @@
 # ResourcePack-Mod-zh_tw  
 [![CC](https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
 
-# 官方網站: Https://www.rpmtw.ga   
+# 官方網站: https://www.rpmtw.ga   
 
 ## 介紹
 一個兼容Forge/Fabric的Minecraft繁體中文化模組的資源包。  
