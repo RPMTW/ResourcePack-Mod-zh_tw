@@ -152,10 +152,10 @@
     "message.rftoolsutility.simple_dialer.once": "Once: ",
     "message.rftoolsutility.matter_beamer.header": "This block converts matter into a beam of energy. It can then send that beam to a connected spawner. Connect by using a wrench",
     "message.rftoolsutility.matter_beamer.gold": "Infusing bonus: reduced power usage increased speed and less material needed",
-    "message.rftoolsutility.spawner.header": "This block can spawn creatures. It needs a syringe of the appropriate type, RF power and also it needs beams of energized matter",
+    "message.rftoolsutility.spawner.header": "這個方塊可以生成生物。它需要放入一個注射器、輸入RF能量和投影帶有物質的光束。",
     "message.rftoolsutility.spawner.gold": "Infusing bonus: reduced power usage",
-    "message.rftoolsutility.screen.header": "This is a modular screen. As such it doesn't show anything. You must insert modules to control what you can see. This screen cannot be directly powered. It has to be remotely powered by a nearby Screen Controller",
-    "message.rftoolsutility.creative_screen.header": "This is a modular screen. As such it doesn't show anything. You must insert modules to control what you can see. This creative version of the normal screen requires no power",
+    "message.rftoolsutility.screen.header": "這是一個模組化螢幕。因此他不顯示任何東西。你必須插入模組來控制你所能看見的內容。這個螢幕不能直接供電，它需要由附近的螢幕控制器來進行遠距供電。",
+    "message.rftoolsutility.creative_screen.header": "這是一個模組化螢幕。因此他不顯示任何東西。你必須插入模組來控制你所能看見的內容。這是普通螢幕的創造模式版本，因此它不需要供電。",
     "message.rftoolsutility.screen_controller.header": "Before screens can work they need to get power from this controller. Even a screen that has only modules that require no power will need to have a controller. One controller can power many screens as long as they are in range",
     "message.rftoolsutility.screen_controller.gold": "Infusing bonus: increased range for screens",
     "message.rftoolsutility.crafter1.header": "這台機器可以同時處理2種配方，並允許配方使用前次步驟所合成出來產物。",
@@ -170,7 +170,7 @@
     "message.rftoolsutility.crafter3.gold": "注能加成：降低功耗",
     "message.rftoolsutility.crafter3.contents": "內容： ",
     "message.rftoolsutility.crafter3.recipes": "合成配方: ",
-    "message.rftoolsutility.tank.header": "A tank for fluids with support for filtering",
+    "message.rftoolsutility.tank.header": "一個支援流體過濾的蓄罐",
     "message.rftoolsutility.tank.contents": "內容： "
 }
 
