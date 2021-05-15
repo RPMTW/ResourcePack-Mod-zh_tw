@@ -1,11 +1,9 @@
 {
-    "_comment": "General",
+    "_comment": "Multiblock",
     "itemGroup.colossalchests": "Colossal Chests",
     "general.colossalchests.description": "For when regular chests are too small.",
     "general.colossalchests.colossalchest": "%s Colossal Chest (%s)",
     "general.colossalchests.uncolossalchest": "Uncolossal Chest",
-
-    "_comment": "Advancements",
     "advancement.colossalchests.wood": "Wooden Colossal Chest",
     "advancement.colossalchests.wood.desc": "Form a wooden Colossal Chest",
     "advancement.colossalchests.copper": "Copper Colossal Chest",
@@ -36,8 +34,6 @@
     "advancement.colossalchests.large.diamond.desc": "Form a diamond Colossal Chest of at least 10x10x10",
     "advancement.colossalchests.large.obsidian": "Epic Obsidian Colossal Chest",
     "advancement.colossalchests.large.obsidian.desc": "Form an obsidian Colossal Chest of at least 10x10x10",
-
-    "_comment": "Blocks",
     "block.colossalchests.colossal_chest": "Colossal Chest Core",
     "block.colossalchests.colossal_chest.info": "Exactly one required to build a Colossal Chest structure",
     "block.colossalchests.chest_wall": "Colossal Chest Wall",
@@ -46,14 +42,10 @@
     "block.colossalchests.interface.info": "To interact with pipes and hoppers",
     "block.colossalchests.uncolossal_chest": "Uncolossal Chest",
     "block.colossalchests.uncolossal_chest.info": "The most colossal of 'em all!",
-
-    "_comment": "Items",
     "item.colossalchests.upgrade_tool": "Chest Upgrade Tool",
     "item.colossalchests.upgrade_tool.info": "Upgrade a Colossal Chest to the next tier when having all required items in your inventory.",
     "item.colossalchests.upgrade_tool_reverse": "Chest Downgrade Tool",
     "item.colossalchests.upgrade_tool_reverse.info": "Downgrade a Colossal Chest to the previous tier when having all required items in your inventory. WARNING: items may pop out if the chest becomes too small for the contents.",
-
-    "_comment": "Materials",
     "material.colossalchests.wood": "Wood",
     "material.colossalchests.copper": "Copper",
     "material.colossalchests.iron": "Iron",
@@ -61,8 +53,6 @@
     "material.colossalchests.gold": "Gold",
     "material.colossalchests.diamond": "Diamond",
     "material.colossalchests.obsidian": "Obsidian",
-
-    "_comment": "Multiblock",
     "multiblock.colossalchests.error.prefix": "ColossalChests",
     "multiblock.colossalchests.error.prefix.info": "Colossal Chest multiblock structure error",
     "multiblock.colossalchests.error.unexpected": "Unexpected Colossal Chest structure error.",
