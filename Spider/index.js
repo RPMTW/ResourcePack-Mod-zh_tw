@@ -6,6 +6,11 @@ const config = require(`${process.cwd()}/config.json`)
 const compressing = require('compressing');
 const toml = require('toml');
 const concat = require('concat-stream');
+const {
+    parse,
+    stringify,
+    assign
+} = require('comment-json')
 
 const ver = config.ver;
 const modCount = config.modCount;
@@ -34,7 +39,7 @@ const request = httpRequest.request(`https://addons-ecs.forgesvc.net/api/v2/addo
     }
 
     response.on('end', () => {
-        for (let i = 0; i < modCount; i++){
+        for (let i = 0; i < modCount; i++) {
             let id = responseData[i].id;
             let name = responseData[i].name;
             let fileName = responseData[i].gameVersionLatestFiles[0].projectFileName;
@@ -42,7 +47,7 @@ const request = httpRequest.request(`https://addons-ecs.forgesvc.net/api/v2/addo
             let downloadUrl = `https://edge.forgecdn.net/files/${fileID.substr(0, 4)}/${fileID.substr(4, 7)}/${fileName}`;
             let slug = responseData[i].slug;
 
-            
+
             for (let k = 0; k < 1; k++) {
                 if (config.Blacklist_ID.includes(id)) return; //黑名單(專案ID)
 
@@ -59,19 +64,19 @@ const request = httpRequest.request(`https://addons-ecs.forgesvc.net/api/v2/addo
                             if (fs.existsSync(dirPath_2)) {
                                 fs.createReadStream(`../jar/${slug}/META-INF/mods.toml`, 'utf8').pipe(concat(function (data, err) {
                                     try {
-                                    mod_id = JSON.parse(JSON.stringify(toml.parse(data))).mods[0].modId
-                                    mod_assets(mod_id);
+                                        mod_id = JSON.parse(JSON.stringify(toml.parse(data))).mods[0].modId
+                                        mod_assets(mod_id);
                                     } catch (err) {
-                                        console.log("解析Toml時發生錯誤 \n"+err)
+                                        console.log("解析Toml時發生錯誤 \n" + err)
                                     }
                                 }));
                             } else if (fs.existsSync(dirPath_3)) {
                                 fs.createReadStream(`../jar/${slug}/mcmod.info`, 'utf8').pipe(concat(function (data, err) {
                                     try {
-                                    mod_id = JSON.parse(data)[0].modid;
-                                    mod_assets(mod_id);
+                                        mod_id = JSON.parse(data)[0].modid;
+                                        mod_assets(mod_id);
                                     } catch (err) {
-                                        console.log("解析Json時發生錯誤 \n"+err)
+                                        console.log("解析Json時發生錯誤 \n" + err)
                                     }
                                 }));
                             } else if (fs.existsSync(dirPath_6)) {
@@ -80,7 +85,7 @@ const request = httpRequest.request(`https://addons-ecs.forgesvc.net/api/v2/addo
                                         mod_id = JSON.parse(data).id;
                                         mod_assets(mod_id);
                                     } catch (err) {
-                                        console.log("解析Json時發生錯誤 \n"+err)
+                                        console.log("解析Json時發生錯誤 \n" + err)
                                     }
                                 }));
                             }
@@ -100,29 +105,23 @@ const request = httpRequest.request(`https://addons-ecs.forgesvc.net/api/v2/addo
                                 if (!fs.existsSync(dirPath_1)) {
                                     fs.mkdirSync(dirPath_1);
                                 }
-                                fs.createReadStream("../jar/" + slug + "/assets/" + mod_id + "/lang/en_us.json", 'utf8').pipe(concat(function (data, err) {
-                                    try {
-                                        JSON.parse(data);
-                                    } catch (err) {
-                                       console.log("解析語系Json檔案時發生錯誤。\n錯誤原因: "+err);
-                                       return;
-                                    }
-                                }));
-                                fs.copyFile("../jar/" + slug + "/assets/" + mod_id + "/lang/en_us.json", "../assets/" + mod_id + "/lang/zh_tw.json", (err) => {
+
+                                let data = fs.readFileSync("../jar/" + slug + "/assets/" + mod_id + "/lang/en_us.json").toString();
+                                data = parse(data, null, true)
+                                data = stringify(data, null, 4)
+
+                                fs.writeFile("../assets/" + mod_id + "/lang/zh_tw.json", data, function (error) {
                                     console.log(`處理 ${name} (${id}-${mod_id}) 的原始語系檔案完成`)
-                                    if (err) throw err;
+                                    if (error) {
+                                        console.log(`解析語系Json檔案時發生錯誤。\n錯誤模組檔案: ${name} (${id}-${mod_id})\n錯誤原因: ${error}`);
+                                    }
                                 })
                             }
                         }
-
                     }
                 )
-                request.on('error', error => console.log(error))
-                request.end();
             }
         }
-        request.on('error', error => console.log(error))
-        request.end();
     })
 })
 request.on('error', error => console.log(error))
