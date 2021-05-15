@@ -1,53 +1,34 @@
 {
-    "_comment": "Extreme Reactors 2 Language File - English",
-    "_comment": "@author Erogenous Beef, ZeroNoRyouki, ABookFreak",
-
+    "_comment": "Configs",
     "itemGroup.bigreactors.general": "Extreme Reactors",
     "itemGroup.bigreactors.reactor": "Extreme Reactors - Reactor parts",
     "itemGroup.bigreactors.turbine": "Extreme Reactors - Turbine parts",
-
     "reactant.bigreactors.yellorium": "Yellorium",
     "reactant.bigreactors.cyanite": "Cyanite",
-
-    "_comment": "Items - ingots",
     "item.bigreactors.yellorium_ingot": "Yellorium Ingot",
     "item.bigreactors.cyanite_ingot": "Cyanite Ingot",
     "x_item.bigreactors.ingotblutonium": "Blutonium Ingot",
     "item.bigreactors.graphite_ingot": "Graphite Bar",
     "x_item.bigreactors.ingotludicrite": "Ludicrite Ingot",
-
-    "_comment": "Items - dusts",
     "item.bigreactors.yellorium_dust": "Yellorium Dust",
     "item.bigreactors.cyanite_dust": "Cyanite Dust",
     "x_item.bigreactors.dustblutonium": "Blutonium Dust",
     "item.bigreactors.graphite_dust": "Graphite Dust",
     "x_item.bigreactors.dustludicrite": "Ludicrite Dust",
-
-    "_comment": "Items - minerals",
     "item.bigreactors.anglesite_crystal": "Anglesite (PbSO4)",
     "item.bigreactors.benitoite_crystal": "Benitoite (BaTiSi3O9)",
-
-    "_comment": "Items - miscellanea",
     "item.bigreactors.wrench": "Extreme Wrench",
     "item.bigreactors.steam_bucket": "Steam Bucket",
-
-    "_comment": "Fluids",
     "fluid.bigreactors.water": "Water",
     "fluid.bigreactors.steam": "Steam",
-
-    "_comment": "Blocks - metal blocks / ores",
     "block.bigreactors.yellorium_block": "Yellorium Block",
     "block.bigreactors.cyanite_block": "Cyanite Block",
     "x_block.bigreactors.blockblutonium": "Blutonium Block",
     "block.bigreactors.graphite_block": "Graphite Block",
     "x_block.bigreactors.blockludicrite": "Ludicrite Block",
-
-    "_comment": "Blocks - ores",
     "block.bigreactors.yellorite_ore": "Yellorite Ore",
     "block.bigreactors.anglesite_ore": "Anglesite Ore",
     "block.bigreactors.benitoite_ore": "Benitoite Ore",
-
-    "_comment": "Blocks - reactor parts (basic)",
     "block.bigreactors.basic_reactorglass": "Reactor Glass (Basic)",
     "block.bigreactors.basic_reactorcasing": "Reactor Casing (Basic)",
     "block.bigreactors.basic_reactorcontroller": "Reactor Controller (Basic)",
@@ -58,8 +39,6 @@
     "block.bigreactors.basic_reactorredstoneport": "Reactor Redstone Port (Basic)",
     "block.bigreactors.basic_reactorfuelrod": "Reactor Fuel Rod (Basic)",
     "block.bigreactors.basic_reactorchargingportfe": "Reactor Forge Energy Charging Port (Basic)",
-
-    "_comment": "Blocks - reactor parts (reinforced)",
     "block.bigreactors.reinforced_reactorglass": "Reactor Glass (Reinforced)",
     "block.bigreactors.reinforced_reactorcasing": "Reactor Casing (Reinforced)",
     "block.bigreactors.reinforced_reactorcontroller": "Reactor Controller (Reinforced)",
@@ -77,8 +56,6 @@
     "block.bigreactors.reinforced_reactorfluidport_forge_passive": "Reactor Passive Forge Fluid Port (Reinforced)",
     "block.bigreactors.reinforced_reactorfluidport_mekanism_passive": "Reactor Passive Mekanism Fluid Port (Reinforced)",
     "block.bigreactors.reinforced_reactorchargingportfe": "Reactor Forge Energy Charging Port (Reinforced)",
-
-    "_comment": "Blocks - turbine parts (basic)",
     "block.bigreactors.basic_turbineglass": "Turbine Glass (Basic)",
     "block.bigreactors.basic_turbinecasing": "Turbine Housing (Basic)",
     "block.bigreactors.basic_turbinecontroller": "Turbine Controller (Basic)",
@@ -92,8 +69,6 @@
     "block.bigreactors.basic_turbineredstoneport": "Turbine Redstone Port (Basic)",
     "block.bigreactors.basic_turbinecreativesteamgenerator": "Turbine Creative Steam Generator (Basic)",
     "block.bigreactors.basic_turbinechargingportfe": "Turbine Forge Energy Charging Port (Basic)",
-
-    "_comment": "Blocks - turbine parts (reinforced)",
     "block.bigreactors.reinforced_turbineglass": "Turbine Glass (Reinforced)",
     "block.bigreactors.reinforced_turbinecasing": "Turbine Housing (Reinforced)",
     "block.bigreactors.reinforced_turbinecontroller": "Turbine Controller (Reinforced)",
@@ -108,8 +83,6 @@
     "block.bigreactors.reinforced_turbinecomputerport": "Turbine Computer Port (Reinforced)",
     "block.bigreactors.reinforced_turbinecreativesteamgenerator": "Turbine Creative Steam Generator (Reinforced)",
     "block.bigreactors.reinforced_turbinechargingportfe": "Turbine Forge Energy Charging Port (Reinforced)",
-
-    "_comment": "Reactor parts names",
     "part.bigreactors.reactor.casing": "Casing",
     "part.bigreactors.reactor.glass": "Glass",
     "part.bigreactors.reactor.controller": "Controller",
@@ -125,8 +98,6 @@
     "part.bigreactors.reactor.computerport": "Computer Port",
     "part.bigreactors.reactor.redstoneport": "Redstone Port",
     "part.bigreactors.reactor.chargingport_fe": "Charging Port (FE)",
-
-    "_comment": "Turbine parts names",
     "part.bigreactors.turbine.casing": "Casing",
     "part.bigreactors.turbine.glass": "Glass",
     "part.bigreactors.turbine.controller": "Controller",
@@ -140,14 +111,10 @@
     "part.bigreactors.turbine.computerport": "Computer Port",
     "part.bigreactors.turbine.redstoneport": "Redstone Port",
     "part.bigreactors.turbine.chargingport_fe": "Charging Port (FE)",
-
-    "_comment": "variants names",
     "variant.bigreactors.reactor.basic": "Basic",
     "variant.bigreactors.reactor.reinforced": "Reinforced",
     "variant.bigreactors.turbine.basic": "Basic",
     "variant.bigreactors.turbine.reinforced": "Reinforced",
-
-    "_comment": "GUI",
     "gui.bigreactors.generic.empty": "Empty",
     "gui.bigreactors.generic.disable": "Disable",
     "gui.bigreactors.generic.save": "Save",
@@ -158,7 +125,6 @@
     "gui.bigreactors.reactor.inactive": "The Reactor is inactive",
     "gui.bigreactors.turbine.active": "The Turbine is ACTIVE",
     "gui.bigreactors.turbine.inactive": "The Turbine is inactive",
-
     "gui.bigreactors.reactor.controller.fuelusage.line1": "Fuel Burnup Rate",
     "gui.bigreactors.reactor.controller.fuelusage.line2": "The rate at which fuel is fissioned",
     "gui.bigreactors.reactor.controller.fuelusage.line3": "into waste in the core.",
@@ -223,14 +189,12 @@
     "gui.bigreactors.reactor.controller.vaporbar.line5": "Superheated coolant will pump into",
     "gui.bigreactors.reactor.controller.vaporbar.line6": "this tank and must be extracted",
     "gui.bigreactors.reactor.controller.vaporbar.line7": "using Coolant Ports.",
-
     "gui.bigreactors.reactor.controller.vaporratio.line1": "Vapor Output",
     "gui.bigreactors.reactor.controller.vaporratio.line2a": "  @0",
     "gui.bigreactors.reactor.controller.vaporratio.line2b": "/t",
     "gui.bigreactors.reactor.controller.vaporratio.line3": "The Reactor is actively cooled by",
     "gui.bigreactors.reactor.controller.vaporratio.line4": "a coolant, such as water, which",
     "gui.bigreactors.reactor.controller.vaporratio.line5": "is superheated by the core.",
-
     "gui.bigreactors.reactor.controller.wasteeject.line1": "Waste Ejection Mode",
     "gui.bigreactors.reactor.controller.wasteeject.line2": "  @0",
     "gui.bigreactors.reactor.controller.wasteeject.line3": "In Automatic Mode, waste from the core will be",
@@ -246,7 +210,6 @@
     "gui.bigreactors.reactor.controller.scram.line2": "Turn off the Reactor and push the Control ",
     "gui.bigreactors.reactor.controller.scram.line3": "Rods all the way into the Fuel Rods",
     "gui.bigreactors.reactor.controller.scram.line4": "(and hope for the best...)",
-
     "gui.bigreactors.reactor.solidaccessport.directioninput.line1": "Inlet Mode",
     "gui.bigreactors.reactor.solidaccessport.directioninput.line2": "Sets the access port to inlet mode.",
     "gui.bigreactors.reactor.solidaccessport.directionoutput.line1": "Outlet Mode",
@@ -259,7 +222,6 @@
     "gui.bigreactors.reactor.solidaccessport.dumpwaste.line2": "Ejects waste contained in the Reactor,",
     "gui.bigreactors.reactor.solidaccessport.dumpwaste.line3": "placing ingots in the Reactor's solid",
     "gui.bigreactors.reactor.solidaccessport.dumpwaste.line4": "access ports.",
-
     "gui.bigreactors.reactor.redstoneport.sensortype.inputactive.line1": "On / Off",
     "gui.bigreactors.reactor.redstoneport.sensortype.inputactive.line2": "Toggle the Reactor on or off according",
     "gui.bigreactors.reactor.redstoneport.sensortype.inputactive.line3": "to the signal received",
@@ -299,7 +261,6 @@
     "gui.bigreactors.reactor.redstoneport.sensortype.outputvaporamount.line1": "Vapor Amount",
     "gui.bigreactors.reactor.redstoneport.sensortype.outputvaporamount.line2": "Emit a signal depending on the amount of",
     "gui.bigreactors.reactor.redstoneport.sensortype.outputvaporamount.line3": "vapor stored in the internal tank",
-
     "gui.bigreactors.reactor.controlrod.name.label": "Name:",
     "gui.bigreactors.reactor.controlrod.name.set": "Set",
     "gui.bigreactors.reactor.controlrod.name.set.tooltip.line1": "Set the name of this Control Rod",
@@ -316,7 +277,6 @@
     "gui.bigreactors.reactor.controlrod.insertion.setall": "Change all",
     "gui.bigreactors.reactor.controlrod.insertion.setall.tooltip.line1": "Change the percentage of insertion of",
     "gui.bigreactors.reactor.controlrod.insertion.setall.tooltip.line2": "all Control Rods in the Reactor",
-
     "gui.bigreactors.turbine.controller.coolantbar.line1": "Coolant Fluid Tank",
     "gui.bigreactors.turbine.controller.coolantbar.line2": "  @0",
     "gui.bigreactors.turbine.controller.coolantbar.line3a": "  @1",
@@ -336,7 +296,6 @@
     "gui.bigreactors.turbine.controller.vaporbar.line5": "Vapor fluids received from input Fluid",
     "gui.bigreactors.turbine.controller.vaporbar.line6": "Ports are stored in this thank and then",
     "gui.bigreactors.turbine.controller.vaporbar.line7": "used to drive the Turbine Rotor.",
-
     "gui.bigreactors.turbine.controller.rpmbar.line1": "Rotor Speed",
     "gui.bigreactors.turbine.controller.rpmbar.line2": "  @0",
     "gui.bigreactors.turbine.controller.rpmbar.line3": "Speed of the rotor in revolutions",
@@ -345,7 +304,6 @@
     "gui.bigreactors.turbine.controller.rpmbar.line6": "1800 RPM.",
     "gui.bigreactors.turbine.controller.rpmbar.line7": "Speeds over 2000 RPM may cause",
     "gui.bigreactors.turbine.controller.rpmbar.line8": "a turbine to fail catastrophically.",
-
     "gui.bigreactors.turbine.controller.rotorstatus.line1": "Rotor Efficiency",
     "gui.bigreactors.turbine.controller.rotorstatus.line2": "  @0",
     "gui.bigreactors.turbine.controller.rotorstatus.line3": "Blade Vapor Capacity: %1$d mB",
@@ -356,7 +314,6 @@
     "gui.bigreactors.turbine.controller.rotorstatus.line8": "Efficiency drop if the flow of input",
     "gui.bigreactors.turbine.controller.rotorstatus.line9": "fluid rises past capacity.",
     "gui.bigreactors.turbine.controller.rotorstatus.100": "100%",
-
     "gui.bigreactors.turbine.controller.maxintake.label": "Flow rate:",
     "gui.bigreactors.turbine.controlrod.maxintake.input.tooltip.line1": "Flow Rate Governor",
     "gui.bigreactors.turbine.controlrod.maxintake.input.tooltip.line2": "Controls the maximum rate at",
@@ -373,7 +330,6 @@
     "gui.bigreactors.turbine.controlrod.maxintake.input.tooltip.line13": "value will be set to the maximum",
     "gui.bigreactors.turbine.controlrod.maxintake.input.tooltip.line14": "rate or to 0 depending on the",
     "gui.bigreactors.turbine.controlrod.maxintake.input.tooltip.line15": "button clicked.",
-
     "gui.bigreactors.turbine.controller.energyratio.line1": "Energy Output",
     "gui.bigreactors.turbine.controller.energyratio.line2a": "  @0",
     "gui.bigreactors.turbine.controller.energyratio.line2b": "/t",
@@ -382,7 +338,6 @@
     "gui.bigreactors.turbine.controller.energyratio.line5": "around a spinning Rotor.",
     "gui.bigreactors.turbine.controller.energyratio.line6": "More, or higher-quality, coils",
     "gui.bigreactors.turbine.controller.energyratio.line7": "generate energy faster.",
-
     "gui.bigreactors.turbine.controller.vent.all.line1": "Vent coolant",
     "gui.bigreactors.turbine.controller.vent.all.line2": "Vent out all coolant produced",
     "gui.bigreactors.turbine.controller.vent.all.line3": "by condensation. The Coolant",
@@ -396,7 +351,6 @@
     "gui.bigreactors.turbine.controller.vent.donotvent.line3": "The Turbine will slow or halt",
     "gui.bigreactors.turbine.controller.vent.donotvent.line4": "fluid intake if the Coolant Fluid",
     "gui.bigreactors.turbine.controller.vent.donotvent.line5": "Tank is full.",
-
     "gui.bigreactors.turbine.controller.inductor.line1": "Induction Coils",
     "gui.bigreactors.turbine.controller.inductor.line2": "  @0",
     "gui.bigreactors.turbine.controller.inductor.line3": "Metal coils inside the Turbine",
@@ -411,10 +365,8 @@
     "gui.bigreactors.turbine.controller.inductor.line12": "will spin faster.",
     "gui.bigreactors.turbine.controller.inductor.mode.engaged": "Engaged",
     "gui.bigreactors.turbine.controller.inductor.mode.disengaged": "Disengaged",
-
     "gui.bigreactors.turbine.controller.on.line1": "Turn the Turbine on",
     "gui.bigreactors.turbine.controller.off.line1": "Turn the Turbine off",
-
     "gui.bigreactors.turbine.redstoneport.sensortype.inputactive.line1": "On / Off",
     "gui.bigreactors.turbine.redstoneport.sensortype.inputactive.line2": "Toggle the Turbine on or off according",
     "gui.bigreactors.turbine.redstoneport.sensortype.inputactive.line3": "to the signal received",
@@ -445,17 +397,14 @@
     "gui.bigreactors.turbine.redstoneport.sensortype.outputvaporamount.line1": "Vapor Amount",
     "gui.bigreactors.turbine.redstoneport.sensortype.outputvaporamount.line2": "Emit a signal depending on the amount of",
     "gui.bigreactors.turbine.redstoneport.sensortype.outputvaporamount.line3": "vapor stored in the internal tank",
-
     "gui.bigreactors.generator.chargingport.dumpfuel.line1": "Manual Ejection",
     "gui.bigreactors.generator.chargingport.dumpfuel.line2": "Manually ejects the item from",
     "gui.bigreactors.generator.chargingport.dumpfuel.line3": "the input slot and put it in",
     "gui.bigreactors.generator.chargingport.dumpfuel.line4": "the output slot.",
-
     "gui.bigreactors.generator.fluidport.directioninput.line1": "Inlet Mode",
     "gui.bigreactors.generator.fluidport.directioninput.line2": "Sets this Fluid Port to inlet mode.",
     "gui.bigreactors.generator.fluidport.directionoutput.line1": "Outlet Mode",
     "gui.bigreactors.generator.fluidport.directionoutput.line2": "Sets this Fluid Port to outlet mode.",
-
     "gui.bigreactors.generator.redstoneport.sensortype.sensorlistlabel": "Settings:",
     "gui.bigreactors.generator.redstoneport.sensortype.input": "Signal direction: input",
     "gui.bigreactors.generator.redstoneport.sensortype.output": "Signal direction: output",
@@ -469,7 +418,6 @@
     "gui.bigreactors.generator.redstoneport.sensorbehavior.activewhileabove.line1": "Active while above",
     "gui.bigreactors.generator.redstoneport.sensorbehavior.activewhilebelow.line1": "Active while below",
     "gui.bigreactors.generator.redstoneport.sensorbehavior.activewhilebetween.line1": "Active while between",
-
     "gui.bigreactors.generator.redstoneport.sensortype.datalabel.temperature": "Temperature:",
     "gui.bigreactors.generator.redstoneport.sensortype.datalabel.temperature.min": "Temperature (min):",
     "gui.bigreactors.generator.redstoneport.sensortype.datalabel.temperature.max": "Temperature (max):",
@@ -482,10 +430,7 @@
     "gui.bigreactors.generator.redstoneport.sensortype.datalabel.bufferfilling": "Internal buffer:",
     "gui.bigreactors.generator.redstoneport.sensortype.datalabel.bufferfilling.min": "Internal buffer (min):",
     "gui.bigreactors.generator.redstoneport.sensortype.datalabel.bufferfilling.max": "Internal buffer (max):",
-
     "gui.bigreactors.generator.validation.redstoneport.invalidminmax.line1": "The maximum value should be greater then the minimum value",
-
-    "_comment": "Multiblock validation errors (reactors)",
     "multiblock.validation.reactor.invalid_fuelrod_position": "Fuel Rods may only be placed in the Reactor's interior",
     "multiblock.validation.reactor.invalid_part_for_interior": "This Reactor part may not be placed in the Reactor's interior",
     "multiblock.validation.reactor.invalid_block_for_interior": "%1$s is not valid for the Reactor's interior",
@@ -499,8 +444,6 @@
     "multiblock.validation.reactor.invalid_base_for_fuel_assembly": "Only Reactor Casings can be used here",
     "multiblock.validation.reactor.invalid_fuel_rods": "All Fuel Rods must belong to a fuel assembly behind a Control Rod",
     "multiblock.validation.reactor.mixed_power_systems": "Only one type of energy system can be used in a Reactor",
-
-    "_comment": "Multiblock validation errors (turbines)",
     "multiblock.validation.turbine.invalid_bearing_position": "A Rotor Bearing can only be placed on a face of the Turbine",
     "multiblock.validation.turbine.too_few_controllers": "Not enough Controllers. Turbines require at least one",
     "multiblock.validation.turbine.invalid_block_for_interior": "Block is invalid for a Turbine interior. Only Rotor parts, metal blocks and empty space are allowed",
@@ -516,8 +459,6 @@
     "multiblock.validation.turbine.invalid_rotor_position": "Rotor parts may only be placed in the turbine interior",
     "multiblock.validation.turbine.invalid_rotor_end": "Rotor must end against a Turbine housing block",
     "multiblock.validation.turbine.mixed_power_systems": "Only one type of energy system can be used in a Turbine",
-
-    "_comment": "Configs",
     "config.bigreactors.compatibility": "Compatibility",
     "config.bigreactors.general": "General",
     "config.bigreactors.reactor": "Reactor",
@@ -525,15 +466,12 @@
     "config.bigreactors.recipes": "Recipes",
     "config.bigreactors.worldgen": "World Gen",
     "config.bigreactors.client": "Client-only configs",
-
     "config.bigreactors.general.fuelusagemultiplier": "Fuel consumption multiplier",
     "config.bigreactors.general.powerproductionmultiplier": "Power production multiplier",
     "config.bigreactors.general.ticksperredstoneupdate": "Ticks per Redstone Ports updates",
-
     "config.bigreactors.reactor.maxreactorheight": "Max height (Y)",
     "config.bigreactors.reactor.maxreactorsize": "Max size (X/Z)",
     "config.bigreactors.reactor.reactorpowerproductionmultiplier": "Power production multiplier",
-
     "config.bigreactors.turbine.maxturbineheight": "Max height (Y)",
     "config.bigreactors.turbine.maxturbinesize": "Max size (X/Z)",
     "config.bigreactors.turbine.turbineaerodragmultiplier": "Aero drag multiplier",
@@ -541,10 +479,8 @@
     "config.bigreactors.turbine.turbinefluidperblademultiplier": "Fluid per blade multiplier",
     "config.bigreactors.turbine.turbinemassdragmultiplier": "Mass drag multiplier",
     "config.bigreactors.turbine.turbinepowerproductionmultiplier": "Power production multiplier",
-
     "config.bigreactors.recipes.registercharcoalforsmelting": "Smelt charcoal into graphite",
     "config.bigreactors.recipes.registerCoalForSmelting": "Smelt coal into graphite",
-
     "config.bigreactors.worldgen.enableworldgen": "Enable world generation",
     "config.bigreactors.worldgen.yelloriteoreenableworldgen": "Generate Yellorite Ore",
     "config.bigreactors.worldgen.yelloriteoremaxclustersperchunk": "Max number of cluster of Yellorite Ore per chunks",
@@ -558,14 +494,12 @@
     "config.bigreactors.worldgen.benitoiteorepercluster": "Maximum number of Benitoite Ores per cluster",
     "config.bigreactors.worldgen.enableworldregeneration": "Enable chunks re-generation",
     "config.bigreactors.worldgen.userworldgenversion": "User-set world generation version (increase to re-gen chunks again)",
-
     "config.bigreactors.client.disableturbinerotorrender": "Disable Turbine Rotor animation",
     "config.bigreactors.client.disablereactorparticles": "Disable all particle effects in the Reactor",
     "config.bigreactors.client.disableturbineparticles": "Disable all particle effects in the Turbine",
     "config.bigreactors.client.fuelrodlightvalue": "Light emitted by a Fuel Rod",
     "config.bigreactors.client.disableapitooltips": "Do not add (advanced) tooltips to fuels, moderators, coils, etc",
     "config.bigreactors.client.disablepatchoulitweaks": "Enable this if you are having problems with newer versions of Patchouli",
-
     "api.bigreactors.reactor.tooltip.moderator": "Extreme Reactors: this block or fluid can be used as a radiation moderator inside a Reactor",
     "api.bigreactors.reactor.tooltip.reactant.fuel": "Extreme Reactors: this item can be used to produce fuel for a Reactor",
     "api.bigreactors.reactor.tooltip.coil": "Extreme Reactors: this block can be used as a coil inside a Turbine"
