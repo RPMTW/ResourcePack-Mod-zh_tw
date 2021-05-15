@@ -23,7 +23,6 @@
     "item.prefab.item_structure_part": "Structure Part",
     "item.prefab.item_heap_of_timber": "Heap of Timber",
     "item.prefab.item_ton_of_timber": "Ton of Timber",
-
     "item.prefab.item_advanced_chicken_coop": "Advanced Chicken Coop",
     "item.prefab.item_advanced_horse_stable": "Advanced Horse Stable",
     "item.prefab.item_barn": "Barn",
@@ -47,10 +46,8 @@
     "item.prefab.item_wind_mill": "Windmill",
     "item.prefab.item_town_hall": "Town Hall",
     "item.prefab.item_sugar_cane_farm": "Sugar Cane Farm",
-
     "item.prefab.item_nether_gate_tree": "Corrupted Tree",
     "item.prefab.item_nether_gate_skull": "Ancient Skull",
-
     "block.prefab.block_compressed_stone": "Compressed Stone",
     "block.prefab.block_double_compressed_stone": "Double Compressed Stone",
     "block.prefab.block_triple_compressed_stone": "Triple Compressed Stone",
@@ -66,12 +63,9 @@
     "block.prefab.block_boundary": "Boundary Block",
     "block.prefab.block_glass_stairs": "Glass Stairs",
     "block.prefab.block_glass_slab": "Glass Slab",
-
     "prefab.gui.fishpond.structure.facing": "Note: If you're facing north, choose south so the pier is going away from you. The white border is just to show the size.",
     "prefab.gui.cleared_area": "The area cleared will be in the direction you are facing.",
-
     "prefab.gui.producefarm.structure.size": "This structure is 32x32 blocks in size.",
-
     "prefab.gui.starter.tab.general": "General",
     "prefab.gui.starter.tab.config": "Config",
     "prefab.gui.starter.tab.block": "Blocks/Size",
@@ -97,7 +91,6 @@
     "prefab.gui.starter.desert.notes2": "A house designed for desert living.",
     "prefab.gui.starter.subaquatic.display": "Subaquatic Style",
     "prefab.gui.starter.subaquatic.notes": "A house designed for under water life.",
-
     "prefab.gui.starter.addtorches": "Add Torches",
     "prefab.gui.starter.addbed": "Add Bed",
     "prefab.gui.starter.addcraftingtable": "Add Crafting Table",
@@ -110,13 +103,11 @@
     "prefab.gui.starter.walltype": "Wall Wood Type",
     "prefab.gui.starter.ceilingflat": "Is Ceiling Flat",
     "prefab.gui.starter.buildmineshaft": "Build Mineshaft",
-
     "prefab.gui.villager.house.flat": "Flat Roof",
     "prefab.gui.villager.house.angled": "Angled Roof",
     "prefab.gui.villager.house.fenced": "Fenced Roof",
     "prefab.gui.villager.blacksmith": "Blacksmith",
     "prefab.gui.villager.long_house": "Long House",
-
     "prefab.gui.moderate_house.spruce": "Spruce House",
     "prefab.gui.moderate_house.acacia": "Acacia House",
     "prefab.gui.moderate_house.earthen": "Earthen Home",
@@ -124,49 +115,38 @@
     "prefab.gui.moderate_house.workshop": "Workshop House",
     "prefab.gui.moderate_house.nether": "Nether House",
     "prefab.gui.moderate_house.mountain": "Mountain House",
-
     "prefab.gui.bulldozer_desc": "This item will clear out a 16x16x16 space and provide the drops from each block.",
-
     "prefab.ceiling.block.type.stone": "Stonebrick",
     "prefab.ceiling.block.type.brick": "Brick",
     "prefab.ceiling.block.type.sand": "Sandstone",
-
     "prefab.wall.block.type.oak": "Oak",
     "prefab.wall.block.type.spruce": "Spruce",
     "prefab.wall.block.type.birch": "Birch",
     "prefab.wall.block.type.jungle": "Jungle",
     "prefab.wall.block.type.acacia": "Acacia",
     "prefab.wall.block.type.darkoak": "Dark Oak",
-
     "prefab.gui.treefarm.facing": "Tree Farm Facing",
     "prefab.gui.treefarm.structure.size": "This structure is 38x38 blocks in size.",
-
     "prefab.gui.structure.facing": "Structure Facing",
     "prefab.gui.structure.glass": "Glass Color",
     "prefab.gui.structure.bed_color": "Bed Color",
-
     "prefab.gui.structure.facing.player": "Note: If you're facing north, choose south so the structure is facing you.",
     "prefab.gui.structure.block.clicked": "The red box in the image on the right shows the block you clicked on.",
     "prefab.gui.structure.door.facing": "Note: If you're facing north, choose south so the doors are facing you.",
     "prefab.gui.structure.nobuild": "Cannot build structure due to protected blocks/area or unbreakable blocks are in the area. Block Name: %1$s Block Position: x=%2$s, y=%3$s, z=%4$s",
-
     "prefab.gui.button.build": "Build!",
     "prefab.gui.button.cancel": "Cancel",
     "prefab.gui.button.preview": "Preview!",
-
     "prefab.gui.tooltip.shift": "Press§9 Shift §7for more information.",
     "prefab.gui.tooltip.boundary_block": "Initially invisible, becomes visible when receiving a redstone signal.",
     "prefab.gui.tooltip.bulldozer_unpowered": "Needs to be imbued with the power of the earth and magic. Try combining with triple compressed stone in an anvil.",
     "prefab.gui.tooltip.bulldozer_powered": "Powered with the strength of the earth and magic, you believe a large area can be cleared.",
-
     "prefab.gui.preview.complete": "Structure Complete!",
     "prefab.gui.preview.notice": "Right-click on any block in the world to remove the preview.",
-
     "prefab.gui.north": "North",
     "prefab.gui.east": "East",
     "prefab.gui.south": "South",
     "prefab.gui.west": "West",
-
     "prefab.gui.white": "White",
     "prefab.gui.orange": "Orange",
     "prefab.gui.magenta": "Magenta",
@@ -184,12 +164,10 @@
     "prefab.gui.green": "Green",
     "prefab.gui.red": "Red",
     "prefab.gui.black": "Black",
-
     "prefab.gui.bridge_length": "Bridge Length",
     "prefab.gui.bridge_material": "Bridge Material",
     "prefab.gui.bridge_include_roof": "Include Roof",
     "prefab.gui.bridge_interior_height": "Interior Height",
-
     "prefab.gui.material.cobble_stone": "Cobble Stone",
     "prefab.gui.material.stone": "Stone",
     "prefab.gui.material.stone_brick": "Stone Brick",
@@ -201,7 +179,6 @@
     "prefab.gui.material.smooth_andesite": "Smooth Andesite",
     "prefab.gui.material.diorite": "Diorite",
     "prefab.gui.material.smooth_diorite": "Smooth Diorite",
-
     "prefab.gui.part_style.wall": "Wall",
     "prefab.gui.part_style.gate": "Gate",
     "prefab.gui.part_style.frame": "Frame",
@@ -210,7 +187,6 @@
     "prefab.gui.part_style.door_way": "Doorway",
     "prefab.gui.part_style.floor": "Floor",
     "prefab.gui.part_style.roof": "Roof",
-
     "prefab.gui.style": "Style",
     "prefab.gui.material": "Material",
     "prefab.gui.height": "Height",

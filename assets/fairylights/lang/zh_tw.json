@@ -1,27 +1,19 @@
 {
     "itemGroup.fairylights": "Fairy Lights",
-
     "fairylights.config": "Fairy Lights Configuration",
-
     "block.fairylights.fastener": "Connection Fastener",
-
     "item.fairylights.hanging_lights": "Hanging Lights",
     "item.fairylights.garland": "Vine Garland",
     "item.fairylights.tinsel": "Tinsel Garland",
-
     "item.fairylights.black_string": "Black String",
     "item.fairylights.white_string": "White String",
     "item.fairyLights.twinkle": "Twinkles",
-
     "item.fairylights.pennant_bunting": "Pennant Bunting",
-
     "item.fairylights.letter_bunting": "Letter Bunting",
-
     "item.fairylights.triangle_pennant": "Triangle Pennant",
     "item.fairylights.spearhead_pennant": "Spearhead Pennant",
     "item.fairylights.swallowtail_pennant": "Swallowtail Pennant",
     "item.fairylights.square_pennant": "Square Pennant",
-
     "block.fairylights.fairy_light": "Fairy Light",
     "block.fairylights.paper_lantern": "Paper Lantern",
     "block.fairylights.orb_lantern": "Orb Lantern",
@@ -42,24 +34,19 @@
     "block.fairylights.oil_lantern": "Oil Lantern",
     "block.fairylights.candle_lantern": "Candle Lantern",
     "block.fairylights.incandescent_light": "Incandescent Light",
-
     "entity.fairylights.fastener": "Fastener",
-
     "fairylights.editLetteredConnection": "Set Bunting Text",
     "fairylights.editLetteredConnection.allowed_characters": "Allowed characters: %1$s",
-
     "recipe.ingredient.tooltip": "§7%s",
     "recipe.fairylights.ingredient.auxiliary.optional": "(Optional)",
     "recipe.fairylights.twinkling_lights.glowstone": "Causes lights to twinkle",
     "recipe.fairylights.hangingLights.light": "Add multiple lights to customize pattern",
     "recipe.fairylights.pennantBunting.pennant": "Add multiple pennants to customize pattern",
     "recipe.fairylights.hangingLights.string": "Add white dye to create white string",
-
     "format.fairylights.colored": "%1$s %2$s",
     "format.fairylights.dyed_colored": "Dyed %1$s",
     "format.fairylights.color_changing": "Color Changing %1$s",
     "format.fairylights.text": "Text: %1$s",
-
     "color.fairylights.black": "Black",
     "color.fairylights.red": "Red",
     "color.fairylights.green": "Green",
@@ -76,7 +63,6 @@
     "color.fairylights.magenta": "Magenta",
     "color.fairylights.orange": "Orange",
     "color.fairylights.white": "White",
-
     "subtitles.block.fairylights.jingleBell": "Bell jingles",
     "subtitles.block.fairylights.cord.connect": "Cord connects",
     "subtitles.block.fairylights.cord.disconnect": "Cord disconnects",
@@ -85,7 +71,6 @@
     "subtitles.block.fairylights.feature.lightTurnOn": "Lights click on",
     "subtitles.block.fairylights.feature.lightTurnOff": "Lights click off",
     "subtitles.block.fairylights.feature.colorChange": "Color plops",
-
     "commands.jingler.open.success": "Successfully opened %1$s",
     "commands.jingler.open.failure.no_hanging_lights": "No hanging lights selected",
     "commands.jingler.open.failure.device_unavailable": "Device %1$s is unavailable, likely in use by another program",
@@ -95,7 +80,6 @@
     "commands.jingler.close.failure": "No devices to close",
     "commands.jingler.device.vendor": "Vendor: %1$s",
     "commands.jingler.device.description": "Description: %1$s",
-
     "tutorial.fairylights.craft_hanging_lights.title": "Craft hanging lights",
     "tutorial.fairylights.craft_hanging_lights.description": "The recipe book can help"
 }

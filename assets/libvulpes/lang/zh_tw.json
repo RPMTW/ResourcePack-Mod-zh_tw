@@ -1,12 +1,10 @@
 {
     "itemGroup.multiBlock": "Multi Block Machine Parts",
     "item.libvulpes.linker": "Linker",
-
     "block.libvulpes.itemihatch": "Input Hatch",
     "block.libvulpes.itemohatch": "Output Hatch",
     "block.libvulpes.fluidihatch": "Fluid Input Hatch",
     "block.libvulpes.fluidohatch": "Fluid Output Hatch",
-
     "block.libvulpes.forge_power_input": "Power Input Plug",
     "block.libvulpes.forge_power_output": "Power Output Plug",
     "block.libvulpes.creative_power_battery": "Creative Power Input Plug",
@@ -16,10 +14,10 @@
     "block.libvulpes.structure_machine": "Machine Structure",
     "block.libvulpes.adv_structure_machine": "Advanced Machine Structure",
     "block.libvulpes.blockGenericMachine": "Machine Controller Block",
-    "block.libvulpes.motor":"Motor",
-    "block.libvulpes.advanced_motor":"Advanced Motor",
-    "block.libvulpes.enhanced_motor":"Enhanced Motor",
-    "block.libvulpes.elite_motor":"Elite Motor",
+    "block.libvulpes.motor": "Motor",
+    "block.libvulpes.advanced_motor": "Advanced Motor",
+    "block.libvulpes.enhanced_motor": "Enhanced Motor",
+    "block.libvulpes.elite_motor": "Elite Motor",
     "block.libvulpes.coal_generator": "Coal Generator",
     "block.libvulpes.oredilithium": "Dilithium Ore",
     "block.libvulpes.coil.dilithium": "Dilithium Coil",
@@ -80,7 +78,6 @@
     "item.libvulpes.sheetaluminum": "Aluminum Sheet",
     "item.libvulpes.dustaluminum": "Aluminum Dust",
     "item.libvulpes.nuggetaluminum": "Aluminum Nugget",
-    "item.libvulpes.sheetaluminum": "Aluminum Sheet",
     "block.libvulpes.oreiridium": "Iridium Ore",
     "block.libvulpes.coiliridium": "Iridium Coil",
     "block.libvulpes.blockiridium": "Iridium Block",
@@ -89,14 +86,11 @@
     "item.libvulpes.nuggetiridium": "Iridium Nugget",
     "item.libvulpes.plateiridium": "Iridium Plate",
     "item.libvulpes.stickiridium": "Iridium Stick",
-
-
     "item.libvulpes.smallbattery": "Small Battery",
     "item.libvulpes.small2xbattery": "Small Battery Pack",
     "item.libvulpes.holo_projector": "Holo-Projector",
     "msg.linker.error.firstMachine": "This must be the first machine to link!",
     "msg.linker.program": "Coordinates programmed into Linker",
     "msg.linker.success": "Linked Sucessfully",
-
     "machine.tooltip.multiblock": "(Multiblock Machine)"
 }

@@ -1,7 +1,5 @@
 {
     "itemGroup.randomloot.randomlootTab": "Random Loot Mod",
-
-
     "item.randomloot.basic_case": "Basic Case",
     "item.randomloot.golden_case": "§6Golden Case",
     "item.randomloot.titan_case": "§dTitan Case",
@@ -23,25 +21,15 @@
     "item.randomloot.random_chunk": "Random Chunk",
     "item.randomloot.random_cluster": "Random Cluster",
     "item.randomloot.trait_holder": "Mysterious Essence",
-
-
     "item.randomloot.throwable": "Random Throwable",
-
     "block.randomloot.random_anvil": "Golden Anvil",
     "block.randomloot.repair_station": "Repair Station",
     "block.randomloot.case_opener": "Case Ripper",
     "block.randomloot.breaker": "Tool Masher",
-    
     "block.randomloot.editor": "Tool Editor",
-    
     "entity.minecraft.villager.randomloot.looter": "Collector",
-
     "container.randomloot.breaker": "Tool Masher",
-    
     "container.randomloot.edit": "Tool Editor",
-    
     "button.remove": "Remove Traits",
-    
     "container.editor.removewarning": "All traits will be popped from this tool and it will be heavily damaged."
-    
 }

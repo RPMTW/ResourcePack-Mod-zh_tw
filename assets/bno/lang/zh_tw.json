@@ -1,6 +1,5 @@
 {
     "itemGroup.basicnetheroreitemgroup": "Basic Nether Ores",
-
     "item.bno.aluminum_nugget": "Aluminum Nugget",
     "item.bno.copper_nugget": "Copper Nugget",
     "item.bno.lead_nugget": "Lead Nugget",
@@ -8,7 +7,6 @@
     "item.bno.silver_nugget": "Silver Nugget",
     "item.bno.tin_nugget": "Tin Nugget",
     "item.bno.osmium_nugget": "Osmium Nugget",
-
     "item.bno.aluminum_ingot": "Aluminum Ingot",
     "item.bno.copper_ingot": "Copper Ingot",
     "item.bno.lead_ingot": "Lead Ingot",
@@ -17,7 +15,6 @@
     "item.bno.tin_ingot": "Tin Ingot",
     "item.bno.osmium_ingot": "Osmium Ingot",
     "item.bno.uranium_ingot": "Uranium Ingot",
-
     "block.bno.aluminum_block": "Aluminum Block",
     "block.bno.copper_block": "Copper Block",
     "block.bno.lead_block": "Lead Block",
@@ -26,7 +23,6 @@
     "block.bno.tin_block": "Tin Block",
     "block.bno.osmium_block": "Osmium Block",
     "block.bno.uranium_block": "Uranium Block",
-
     "block.bno.netheraluminum_ore": "Nether Aluminum Ore",
     "block.bno.nethercopper_ore": "Nether Copper Ore",
     "block.bno.netherlead_ore": "Nether Lead Ore",
@@ -35,15 +31,12 @@
     "block.bno.nethertin_ore": "Nether Tin Ore",
     "block.bno.netherosmium_ore": "Nether Osmium Ore",
     "block.bno.netheruranium_ore": "Nether Uranium Ore",
-
     "block.bno.netheremerald_ore": "Nether Emerald Ore",
     "block.bno.netherdiamond_ore": "Nether Diamond Ore",
     "block.bno.netherredstone_ore": "Nether Redstone Ore",
     "block.bno.netherlapis_ore": "Nether Lapis Ore",
     "block.bno.nethercoal_ore": "Nether Coal Ore",
-
     "block.bno.netheriron_ore": "Nether Iron Ore",
-
     "tooltip.netheremerald_ore.tip": "§aFound between y{0} to y{1}",
     "tooltip.netherdiamond_ore.tip": "§aFound between y{0} to y{1}",
     "tooltip.netherredstone_ore.tip": "§aFound between y{0} to y{1}",
@@ -60,5 +53,4 @@
     "tooltip.netherosmium_ore.tip": "§aFound between y{0} to y{1}",
     "tooltip.netheruranium_ore.tip": "§aFound between y{0} to y{1}",
     "tooltip.config.tip": "§4§oWorld Generation Disabled - Enable through Config File"
-
 }

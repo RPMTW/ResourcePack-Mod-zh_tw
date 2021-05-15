@@ -1,16 +1,10 @@
 {
-    "mod.stepup.minecraft":"Vanilla",
-    "mod.stepup.autojump":"Auto Jump",
-    "mod.stepup.enabled":"Enabled",
-    "mod.stepup.disabled":"Disabled",
-    "mod.stepup.updateAvailable":"Update Available",
-    "mod.stepup.updateTooltip":"Click here to update from official website",
-    "key.categories.stepup" : "StepUp",
-    "key.stepup.toggle" : "Toggle",
-    
-    "mod.stepup.config.default": "Default on new servers",
-    "mod.stepup.config.dostepup": "§aStepUp enabled",
-    "mod.stepup.config.nostepup": "§cStepUp disabled",
-    "mod.stepup.config.vanillajump": "§eUse Vanilla Auto Jump",
-    "mod.stepup.config.tt.onthisserver": "Stepup behavior on this server"
+    "key.stepup.desc": "Toggle StepUp",
+    "key.categories.stepup": "Toggle StepUp",
+    "msg.stepup.disabled": "All Disabled",
+    "msg.stepup.enabled": "StepUp Enabled",
+    "msg.stepup.minecraft": "Minecraft AutoJump Enabled",
+    "msg.stepup.updateAvailable": "A new version of StepUp is available",
+    "msg.stepup.updateTooltip": "Click here to update from CurseForge",
+    "msg.stepup.config.desc": "The Current State of StepUp\r 0 All Disabled,\r 1 StepUp Enabled,\r 2 Minecraft Jump Enabled"
 }

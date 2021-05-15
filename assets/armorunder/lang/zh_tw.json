@@ -1,8 +1,6 @@
 {
     "itemGroup.armorunder": "Armor Underwear 2.0b11",
-
     "item.auw.mod_icon": "Icon",
-
     "item.auw.antifreeze_boots_liner": "Otto Boots Liner",
     "tooltip_summ.item.auw.antifreeze_boots_liner": "Combine with boots on a crafting grid to add a partial freeze barrier. Outfit all pieces of your armor set for 100% coverage.",
     "item.auw.antifreeze_chestplate_liner": "Otto Chestplate Liner",
@@ -11,14 +9,12 @@
     "tooltip_summ.item.auw.antifreeze_helmet_liner": "Combine with helmet on a crafting grid to add a partial freeze barrier. Outfit all pieces of your armor set for 100% coverage.",
     "item.auw.antifreeze_leggings_liner": "Otto Leggings Liner",
     "tooltip_summ.item.auw.antifreeze_leggings_liner": "Combine with leggings on a crafting grid to add cooling and a partial freeze barrier. Outfit all pieces of your armor set for 100% coverage.",
-
     "item.auw.auto_boots_liner": "Ozzy Boots Liner",
     "item.auw.auto_chestplate_liner": "Ozzy Chestplate Liner",
     "tooltip_summ.item.auw.auto_chestplate_liner": "Combine with chestplate on a crafting grid to add a self-adjusting temperature lining. You only need one piece of ozzy liner per armor set!",
     "item.auw.auto_helmet_liner": "Ozzy Helmet Liner",
     "item.auw.auto_leggings_liner": "Ozzy Leggings Liner",
     "tooltip_summ.item.auw.auto_leggings_liner": "Combine with leggings on a crafting grid to add a self-adjusting temperature lining. You only need one piece of ozzy liner per armor set!",
-
     "item.auw.barrier_boots_liner": "Ollie Boots Liner",
     "tooltip_summ.item.auw.barrier_boots_liner": "Combine with boots on a crafting grid to add a partial burn barrier. Outfit all pieces of your armor set for 100% coverage.",
     "item.auw.barrier_chestplate_liner": "Ollie Chestplate Liner",
@@ -27,7 +23,6 @@
     "tooltip_summ.item.auw.barrier_helmet_liner": "Combine with helmet on a crafting grid to add a partial burn barrier. Outfit all pieces of your armor set for 100% coverage.",
     "item.auw.barrier_leggings_liner": "Ollie Leggings Liner",
     "tooltip_summ.item.auw.barrier_leggings_liner": "Combine with leggings on a crafting grid to add a partial burn barrier. Outfit all pieces of your armor set for 100% coverage.",
-
     "item.auw.camouflage_boots_cover": "Oscar Boots Cover",
     "tooltip_summ.item.auw.camouflage_boots_cover": "Combine with boots on a crafting grid to add some camouflage. Outfit all pieces of your armor set for 100% stealth!",
     "item.auw.camouflage_chestplate_cover": "Oscar Chestplate Cover",
@@ -36,7 +31,6 @@
     "tooltip_summ.item.auw.camouflage_helmet_cover": "Combine with helmet on a crafting grid to add some camouflage. Outfit all pieces of your armor set for 100% stealth!",
     "item.auw.camouflage_leggings_cover": "Oscar Leggings Cover",
     "tooltip_summ.item.auw.camouflage_leggings_cover": "Combine with leggings on a crafting grid to add some camouflage. Outfit all pieces of your armor set for 100% stealth!",
-
     "item.auw.cool_boots_liner": "Boots Cool Liner",
     "item.auw.cool_chestplate_liner": "Chestplate Cool Liner",
     "item.auw.cool_helmet_liner": "Helmet Cool Liner",
@@ -64,7 +58,6 @@
     "item.auw.warm_helmet_liner": "Helmet Warm Liner",
     "item.auw.warm_leggings_liner": "Leggings Warm Liner",
     "item.auw.warm_liner_material": "Warming Liner Material",
-
     "tooltip.auw.xlining.ozzy": "Temp-Adjust Lining> %1$s",
     "tooltip.auw.xlining.ozzy.warmer": "Extra WARMTH",
     "tooltip.auw.xlining.ozzy.cooler": "Extra COOLING",

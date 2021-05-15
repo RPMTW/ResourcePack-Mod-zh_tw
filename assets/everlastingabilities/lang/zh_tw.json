@@ -1,17 +1,13 @@
 {
-    "_comment": "General",
+    "_comment": "Items",
     "itemGroup.everlastingabilities": "Everlasting Abilities",
     "general.everlastingabilities.empty": "None",
     "general.everlastingabilities.level": "Level: %s / %s",
     "general.everlastingabilities.xp": "XP/Level: %s (%s player levels)",
-
-    "_comment": "Chat",
     "chat.everlastingabilities.command.invalidAbility": "Could not find the ability with id \"%s\".",
     "chat.everlastingabilities.command.addedAbility": "Added ability %s, new ability %s.",
     "chat.everlastingabilities.command.removedAbility": "Removed ability %s, new ability %s.",
     "chat.everlastingabilities.playerLostAbility": "%s dropped %s of level %s!",
-
-    "_comment": "# Abilities",
     "ability.everlastingabilities.speed": "Speed",
     "ability.everlastingabilities.speed.info": "Walk faster",
     "ability.everlastingabilities.haste": "Haste",
@@ -38,7 +34,6 @@
     "ability.everlastingabilities.saturation.info": "Reduce hunger",
     "ability.everlastingabilities.luck": "Luck",
     "ability.everlastingabilities.luck.info": "Have a higher chance on better loot",
-
     "ability.everlastingabilities.slowness": "Slowness",
     "ability.everlastingabilities.slowness.info": "Entities in the area move slower",
     "ability.everlastingabilities.mining_fatigue": "Mining Fatigue",
@@ -61,7 +56,6 @@
     "ability.everlastingabilities.levitation.info": "Entities in the area start levitating",
     "ability.everlastingabilities.unluck": "Unluck",
     "ability.everlastingabilities.unluck.info": "Entities in the area have a lower chance on good loot",
-
     "ability.everlastingabilities.flight": "Flight",
     "ability.everlastingabilities.flight.info": "Allows you to fly",
     "ability.everlastingabilities.step_assist": "Step Assist",
@@ -74,8 +68,6 @@
     "ability.everlastingabilities.power_stare.info": "Push away entities you're looking at",
     "ability.everlastingabilities.magnetize": "Magnetize",
     "ability.everlastingabilities.magnetize.info": "Attract nearby items",
-
-    "_comment": "Items",
     "item.everlastingabilities.ability_totem": "Ability Totem",
     "item.everlastingabilities.ability_bottle": "Ability Bottle"
 }

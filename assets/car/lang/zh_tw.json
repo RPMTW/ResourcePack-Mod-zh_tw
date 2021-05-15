@@ -2,7 +2,6 @@
     "category.car": "Car",
     "itemGroup.car": "Car",
     "itemGroup.car_parts": "Car Parts",
-
     "message.parts.too_few_wheels": "Too few wheels",
     "message.parts.too_many_wheels": "Too many wheels",
     "message.parts.no_engine": "No Engine",
@@ -28,7 +27,6 @@
     "message.car_out_of_range": "Key out of range",
     "message.key_no_car": "This key does not belong to a Car",
     "message.center_car": "Centered Car rotation",
-
     "gui.car_fuel": "%s %% Fuel",
     "gui.car_damage": "%s %% Damage",
     "gui.car_battery": "%s %% Battery",
@@ -40,7 +38,6 @@
     "gui.sign.front": "Front",
     "gui.sign.back": "Back",
     "gui.license_plate": "Edit License Plate",
-
     "block.car.asphalt": "Asphalt",
     "block.car.asphalt_slope": "Asphalt Slope",
     "block.car.asphalt_slope_flat_upper": "Upper Asphalt Slope (Flat)",
@@ -144,7 +141,6 @@
     "block.car.line_double_end": "End Double Line",
     "block.car.line_double_end_yellow": "End Double Line",
     "block.car.car_pressure_plate": "Car Pressure Plate",
-
     "item.car.painter": "Painter",
     "item.car.painter_yellow": "Yellow Painter",
     "item.car.canola_seeds": "Canola Seeds",
@@ -291,7 +287,6 @@
     "item.car.bio_diesel_bucket": "Bio Diesel Bucket",
     "item.car.glycerin_bucket": "Glycerin Bucket",
     "item.car.methanol_bucket": "Methanol Bucket",
-
     "button.car.start": "Start",
     "button.car.stop": "Stop",
     "button.car.spawn_car": "Spawn Car",
@@ -300,7 +295,6 @@
     "button.car.submit": "Submit",
     "button.car.cancel": "Cancel",
     "button.car.front": "Front",
-
     "gas_station.car_info": "Car: %s",
     "gas_station.car_fuel_amount": "Fuel: %s/%s mb",
     "gas_station.car_fuel_type": "Type: %s",
@@ -312,7 +306,6 @@
     "gas_station.fuel_empty": "No Fuel stored",
     "gas_station.no_car": "No Car",
     "gas_station.admin.amount_text_field": "Amount",
-
     "tooltip.energy": "Stored energy: %s RF",
     "tooltip.oil": "Stored Oil: %s mb",
     "tooltip.fuel": "Stored Fuel: %s mb",
@@ -330,7 +323,6 @@
     "tooltip.trade": "%s %s for %s mb",
     "tooltip.license_plate_text": "Text: %s",
     "tooltip.painter": "Selected: %s",
-
     "tooltip.waila.tank.fluid": "%s",
     "tooltip.waila.tank.amount": "%s / %s mb",
     "tooltip.waila.tank.no_fluid": "Empty",
@@ -340,13 +332,11 @@
     "tooltip.waila.generator.energy": "%s / %s RF",
     "tooltip.waila.generator.fluid": "%s / %s mb",
     "tooltip.waila.fluid_extractor.filter": "Filtering %s",
-
     "fluid.car.canola_oil": "Canola Oil",
     "fluid.car.methanol": "Methanol",
     "fluid.car.canola_methanol_mix": "Canola Methanol Mix",
     "fluid.car.glycerin": "Glycerin",
     "fluid.car.bio_diesel": "Bio Diesel",
-
     "key.car_back": "Backwards",
     "key.car_forward": "Forward",
     "key.car_left": "Left",
@@ -355,14 +345,10 @@
     "key.car_start": "Start Car Engine",
     "key.car_horn": "Horn",
     "key.center_car": "Center Car rotation",
-
     "car.fuel_slot": "Fuel",
-
     "canister.fluid": "Fluid: %s",
     "canister.amount": "Amount: %s mb",
-
     "filter.fluid": "Filter: %s",
-
     "entity.car.car": "Car",
     "car_name.wood": "%s Wood Car",
     "car_name.big_wood": "%s Big Wood Car",
@@ -399,9 +385,7 @@
     "car_variant.white": "White",
     "car_variant.yellow": "Yellow",
     "entity.minecraft.villager.car.gas_station_attendant": "Gas Station Attendant",
-
     "soundCategory.car": "Cars",
-
     "description.canister": "Sneak + right-click a Fuel Station to fill the Canister with Fuel. Place it in the fuel slot of your car to restore some fuel. It should only be used to be able to get to the next Fuel Station.",
     "description.car_workshop_outter": "The Car Workshop Part is used to build the Car Workshop. For more information look at the Car Workshop Block.",
     "description.car_workshop": "With the Car Workshop you can spawn and repair Cars. It is built with a Car Workshop in the center surrounded with 8 Car Workshop Parts.",
@@ -418,9 +402,7 @@
     "description.container": "Adds more inventory space to your transporter",
     "description.tank_container": "Adds the ability to store fluids inside your transporter",
     "description.license_plate": "You can set the name by right-clicking this item. To apply it to the car sneak and right-click the car with it. The car has to have a License Plate Holder to do this.",
-
     "death.attack.hit_car": "%s was run over by a car",
-
     "sound.car.engine_idle": "Engine idling",
     "sound.car.engine_start": "Engine starting",
     "sound.car.engine_starting": "Engine starting",

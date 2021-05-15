@@ -1,6 +1,5 @@
 {
     "itemGroup.packagedauto": "PackagedAuto",
-
     "block.packagedauto.packager": "Packager",
     "block.packagedauto.encoder": "Package Recipe Encoder",
     "block.packagedauto.encoder.save": "Save",
@@ -13,7 +12,6 @@
     "block.packagedauto.unpackager.blocking.true": "Blocking Mode Enabled",
     "block.packagedauto.packager_extension": "Packager Extension",
     "block.packagedauto.crafter": "Package Crafter",
-
     "item.packagedauto.recipe_holder": "Package Recipe Holder",
     "item.packagedauto.recipe_holder.recipes": "Recipes:",
     "item.packagedauto.package": "Recipe Package",
@@ -21,7 +19,6 @@
     "item.packagedauto.package.items": "Items:",
     "item.packagedauto.package_component": "Packaging Component",
     "item.packagedauto.me_package_component": "ME Packaging Component",
-
     "recipe.packagedauto.processing": "Processing",
     "recipe.packagedauto.processing.short": "Processing",
     "recipe.packagedauto.ordered_processing": "Ordered Processing",

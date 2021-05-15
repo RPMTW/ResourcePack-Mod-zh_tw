@@ -1,12 +1,10 @@
 {
     "_comment": "Item Groups",
     "itemGroup.forbidden_arcanus": "Forbidden & Arcanus",
-
     "__comment": "Effects",
     "effect.forbidden_arcanus.fly": "Fly",
     "effect.forbidden_arcanus.spectral_vision": "Spectral Vision",
     "effect.forbidden_arcanus.darkened": "Darkened",
-
     "category_blocks": "Blocks",
     "block.forbidden_arcanus.darkstone": "Darkstone",
     "block.forbidden_arcanus.darkstone_slab": "Darkstone Slab",
@@ -34,7 +32,6 @@
     "block.forbidden_arcanus.chiseled_arcane_polished_darkstone": "Chiseled Arcane Polished Darkstone",
     "block.forbidden_arcanus.arcane_polished_darkstone_pillar": "Arcane Polished Darkstone Pillar",
     "block.forbidden_arcanus.arcane_polished_darkstone_rod": "Arcane Polished Darkstone Rod",
-
     "block.forbidden_arcanus.dark_beacon": "Dark Beacon",
     "block.forbidden_arcanus.arcane_glass": "Arcane Glass",
     "block.forbidden_arcanus.arcane_glass_pane": "Arcane Glass Pane",
@@ -128,11 +125,9 @@
     "block.forbidden_arcanus.polished_soulless_sandstone_stairs": "Polished Soulless Sandstone Stairs",
     "block.forbidden_arcanus.soulless_sandstone_wall": "Soulless Sandstone Wall",
     "block.forbidden_arcanus.black_hole": "Black Hole",
-
     "block.forbidden_arcanus.obsidian_skull": "Obsidian Skull",
     "block.forbidden_arcanus.eternal_obsidian_skull": "Eternal Obsidian Skull",
     "block.forbidden_arcanus.utrem_jar": "Utrem Jar",
-
     "____comment": "Items",
     "item.forbidden_arcanus.forbiddenmicon": "Forbiddenmicon",
     "item.forbidden_arcanus.stellarite_piece": "Stellarite Piece",
@@ -259,14 +254,12 @@
     "item.forbidden_arcanus.obsidian_boots": "Obsidian Boots",
     "item.forbidden_arcanus.boom_arrow": "Boom Arrow",
     "item.forbidden_arcanus.draco_arcanus_arrow": "Draco Arcanus Arrow",
-
     "item.forbidden_arcanus.sanity_meter": "Sanity Meter",
     "item.forbidden_arcanus.lens_of_veritatis": "Lens of Veritatis",
     "item.forbidden_arcanus.purifying_soap": "Purifying Soap",
     "item.forbidden_arcanus.wet_purifying_soap": "Wet Purifying Soap",
     "item.forbidden_arcanus.obsidian_skull_shield": "Obsidian Skull Shield",
     "item.forbidden_arcanus.aureal_bottle": "Aureal Bottle",
-
     "tooltips": "Tooltips",
     "tooltip.forbidden_arcanus.forbiddenmicon": "The Forbiddenmicon will soon be able to be read",
     "tooltip.forbidden_arcanus.obsidian_skull": "Can save you from Fire Damage for up to 30 seconds.",
@@ -284,14 +277,11 @@
     "tooltip.forbidden_arcanus.entity": "Entity",
     "tooltip.forbidden_arcanus.pixie": "Pixie",
     "tooltip.forbidden_arcanus.corrupted_pixie": "Corrupted Pixie",
-
     "______comment": "Containers",
     "container.dark_beacon": "Dark Beacon",
-
     "enchantments": "Enchantments",
     "enchantment.forbidden_arcanus.permafrost": "Permafrost",
     "enchantment.forbidden_arcanus.indestructible": "Indestructible",
-
     "forbiddenmicon": "Forbiddenmicon",
     "forbiddenmicon.category.main": "Main",
     "forbiddenmicon.category.items": "Items",
@@ -303,7 +293,6 @@
     "forbiddenmicon.recipe.smelting.furnace": "Furnace",
     "forbiddenmicon.recipe.smelting.smoker": "Smoker",
     "forbiddenmicon.recipe.smelting.blast_furnace": "Blast Furnace",
-
     "forbidden_arcanus.aureal": "Aureal",
     "forbidden_arcanus.aureal.corruption": "Corruption"
 }
