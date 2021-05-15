@@ -1,9 +1,5 @@
-﻿{
-    "_comment": "------------------------------------- ShetiPhianCore en_us.json Localization -------------------------------------!",
-    "_comment": "Keep file encoded with UTF-8 to support chat formatting http://minecraft.gamepedia.com/Formatting_codes",
-    "_comment": "msg entries can span multiple lines, use <br> to indicate a line break.",
-
-    "_comment": "------------------------------------------------------ MISC ------------------------------------------------------!",
+{
+    "_comment": "------------------------------------------------ NAME CORRECTIONS ------------------------------------------------!",
     "info.down": "Down",
     "info.up": "Up",
     "info.north": "North",
@@ -16,9 +12,7 @@
     "info.front": "Front",
     "info.left": "Left",
     "info.right": "Right",
-
     "gui.side_disabled.txt": "Disabled",
-
     "color.white": "White",
     "color.orange": "Orange",
     "color.magenta": "Magenta",
@@ -35,17 +29,12 @@
     "color.green": "Green",
     "color.red": "Red",
     "color.black": "Black",
-
-    "_comment": "----------------------------------------------- ERROR/INFO/NOTICE ------------------------------------------------!",
     "info.shetiphian.holdshift.txt": "§2Hold SHIFT for more info",
     "info.shetiphian.creativeolny.txt": "§eCreative Mode Only Item",
     "info.shetiphian.guide.txt": "Fruzstrated's Guide",
     "info.shetiphian.unused": "Unused Item",
-
     "error.shetiphian.team.noteam.txt": "Your not on a team",
     "error.shetiphian.team.wrong.txt": "Object owned by another team",
-
-    "_comment": "------------------------------------------------ NAME CORRECTIONS ------------------------------------------------!",
     "fluid.tile.lava": "Lava",
     "fluid.tile.water": "Water",
     "item.dyePowder.green": "Green Dye",
