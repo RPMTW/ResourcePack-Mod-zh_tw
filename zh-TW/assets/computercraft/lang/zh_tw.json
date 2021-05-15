@@ -1,5 +1,5 @@
 {
-    "itemGroup.computercraft": "電腦復刻版",
+    "itemGroup.computercraft.main": "ComputerCraft",
     "block.computercraft.computer_normal": "電腦",
     "block.computercraft.computer_advanced": "高級電腦",
     "block.computercraft.computer_command": "指令電腦",
@@ -31,6 +31,7 @@
     "upgrade.minecraft.diamond_sword.adjective": "戰鬥",
     "upgrade.minecraft.diamond_shovel.adjective": "挖掘",
     "upgrade.minecraft.diamond_pickaxe.adjective": "採掘",
+    "upgrade.minecraft.netherite_pickaxe.adjective": "Netherite Mining",
     "upgrade.minecraft.diamond_axe.adjective": "伐木",
     "upgrade.minecraft.diamond_hoe.adjective": "農業",
     "upgrade.minecraft.crafting_table.adjective": "合成",
