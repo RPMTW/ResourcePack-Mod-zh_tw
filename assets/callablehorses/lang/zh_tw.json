@@ -3,7 +3,6 @@
     "key.sethorse.desc": "Set Horse",
     "key.callhorse.desc": "Call Horse",
     "key.showstats.desc": "Show Horse Stats",
-
     "callablehorses.error.dim": "You can't call your horse in this dimension!",
     "callablehorses.error.riding": "You can't be riding while calling your horse!",
     "callablehorses.error.nohorse": "You currently don't have a personal Horse!",
@@ -14,9 +13,7 @@
     "callablehorses.error.range": "Your horse is too far away to hear you!",
     "callablehorses.error.setarea": "You can't set your horse in this area!",
     "callablehorses.error.nospace": "There is not enough space here to call your horse!",
-
     "callablehorses.success": "This is now your personal horse!",
-
     "callablehorses.alert.death": "Your personal horse just died!",
     "callablehorses.alert.offlinedeath": "Your personal horse died while you were offline!"
 }
