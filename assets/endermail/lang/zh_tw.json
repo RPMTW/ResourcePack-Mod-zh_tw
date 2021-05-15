@@ -1,17 +1,10 @@
 {
-    "_comment": "Ender Mail Language File",
-    "_comment": "English - UNITED STATES",
-
-    "_comment": "BLOCKS",
+    "_comment": "STRINGS",
     "block.endermail.package": "Package",
     "block.endermail.locker": "Locker",
-
-    "_comment": "ITEMS",
     "item.endermail.package_controller": "Package Controller",
     "item.endermail.packing_tape": "Packing Tape",
     "item.endermail.stamp": "Stamp",
-
-    "_comment": "STRINGS",
     "string.endermail.cancel": "Cancel",
     "string.endermail.close": "Close",
     "string.endermail.confirm": "Confirm",
