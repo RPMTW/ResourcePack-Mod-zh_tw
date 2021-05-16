@@ -7,14 +7,14 @@ tier_one_materials=第一層材料
 
 repairing=修理
 
-bonus_upgrades=§1§lUpgrades++§r
-general=§1§lGeneral§r
-harvest=§1§lHarvest§r
-weapon=§1§lWeapon§r
+bonus_upgrades=§1§升級++§r
+general=§1§l一般§r
+harvest=§1§l收穫§r
+weapon=§1§l武器§r
 slotless=§1§lSlotless§r
-ability=§1§lAbility§r
-further_reading=Further Reading
-terminology=Terminology
+ability=§1§I能力§r
+further_reading=延伸閱讀
+terminology=術語
 
 
 modifier.effect=效果:
@@ -27,5 +27,5 @@ tier_one_materials.subtext=Materials are the first part to making any tool. Thes
 material.tconstruct.wood.book=How much wood could a woodchuck chuck if a woodchuck could chuck wood?
 material.tconstruct.stone.book=Rock solid
 material.tconstruct.flint.book=This will spark the flames of a tinker's heart!
-material.tconstruct.bone.book=I am the bone of my sword
-material.tconstruct.necrotic_bone.book=Do you have a bone to pick with me?
+material.tconstruct.bone.book=我是劍的骨頭
+material.tconstruct.necrotic_bone.book=你對我有意見嗎？
