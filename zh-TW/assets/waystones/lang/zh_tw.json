@@ -23,7 +23,7 @@
     "block.waystones.warp_plate": "傳送壓力板",
     "item.waystones.warp_scroll": "傳送卷軸",
     "item.waystones.warp_scroll_bound": "傳送卷軸（綁定）",
-    "item.waystones.return_scroll": "回程卷軸",
+    "item.waystones.return_scroll": "返回卷軸",
     "item.waystones.warp_stone": "傳送石",
     "item.waystones.bound_scroll": "綁定卷軸",
     "item.waystones.warp_dust": "傳送粉",
@@ -85,6 +85,6 @@
     "tooltip.waystones.attuned_shard.attunement_lost": "這個碎片失去了適應力。",
     "tooltip.waystones.not_enough_xp": "經驗不足！（經驗等級需求為 %d)",
     "tooltip.waystones.undiscovered": "尚未發現",
-    "stat.waystones.waystones_activated": "石碑已被啟動",
+    "stat.waystones.waystones_activated": "啟動的傳送石碑數量",
     "waystones:warp_plate": "傳送壓力板"
 }
