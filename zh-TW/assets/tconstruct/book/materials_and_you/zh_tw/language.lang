@@ -2,7 +2,7 @@
 intro=簡介
 materials=工具材料
 tools=工具
-modifiers=Modifiers
+modifiers=強化
 tier_one_materials=第一層材料
 
 repairing=修理
@@ -20,12 +20,12 @@ terminology=術語
 modifier.effect=效果:
 tool.properties=屬性:
 
-material.craft_partbuilder=Can be crafted in the Part Builder
-material.craft_casting=Can be cast from %s
+material.craft_partbuilder=可於部件加工台被製作
+material.craft_casting=可以從 %s 被鑄造
 
 tier_one_materials.subtext=Materials are the first part to making any tool. These materials can be placed in the part builder to create tool parts.
 material.tconstruct.wood.book=How much wood could a woodchuck chuck if a woodchuck could chuck wood?
 material.tconstruct.stone.book=Rock solid
 material.tconstruct.flint.book=This will spark the flames of a tinker's heart!
-material.tconstruct.bone.book=我是劍的骨頭
+material.tconstruct.bone.book=吾為所持劍之骨
 material.tconstruct.necrotic_bone.book=你對我有意見嗎？
