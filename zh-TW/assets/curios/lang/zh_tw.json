@@ -1,12 +1,11 @@
 {
     "curios.name": "好奇心",
     "curios.slot": "槽位",
-    "curios.cosmetic": "§o裝飾品",
     "commands.curios.set.success": "已將玩家%3$s的%1$s欄位設為%2$s個",
     "commands.curios.add.success": "已將玩家%3$s的%2$s欄位增加%1$s個",
     "commands.curios.remove.success": "已將玩家%3$s的%2$s欄位減少%1$s個",
-    "commands.curios.unlock.success": "已將玩家%2$s的%1$s欄位解鎖",
-    "commands.curios.lock.success": "已將玩家%2$s的%1$s欄位鎖定",
+    "commands.curios.enable.success": "Slot %s has been enabled for %s",
+    "commands.curios.disable.success": "Slot %s has been disabled for %s",
     "commands.curios.clear.success": "已將玩家%2$s的%1$s欄位清空",
     "commands.curios.clearAll.success": "已將玩家%s所有的飾品欄位清空",
     "commands.curios.reset.success": "已將玩家%s所有的飾品欄位重置",
@@ -24,7 +23,6 @@
     "curios.identifier.body": "身體",
     "curios.identifier.charm": "護符",
     "curios.identifier.hands": "手部",
-    "curios.identifier.bracelet": "手鐲",
     "curios.modifiers.curio": "佩戴飾品時：",
     "curios.modifiers.necklace": "佩戴於頸部時：",
     "curios.modifiers.ring": "佩戴戒指時：",
@@ -34,8 +32,6 @@
     "curios.modifiers.body": "穿戴於身上時：",
     "curios.modifiers.charm": "佩戴首飾時：",
     "curios.modifiers.hands": "穿戴於手部時：",
-    "curios.modifiers.bracelet": "佩戴手鐲時：",
     "key.curios.category": "好奇心",
-    "key.curios.open.desc": "開啟/關閉飾品欄",
-    "gui.curios.toggle": "切換透明度"
+    "key.curios.open.desc": "開啟/關閉飾品欄"
 }
