@@ -1,5 +1,5 @@
 {
-    "_comment": "## Positional parameters (%1$s, %2$s, %3$s, etc.) may be reordered to suit your language's sentence structure",
+    "_comment": "## 位置參數（如%1$s， %2$s， %3$s等）可能會重新排列以符合您的語言的句型結構",
     "jm.advanced.announcemod": "模組通知",
     "jm.advanced.announcemod.tooltip": "在聊天視窗中通知旅行地圖已就緒。",
     "jm.advanced.automappoll": "地圖自動更新頻率",
@@ -437,8 +437,8 @@
     "jm.waypoint.auto_deathpoint_remove_distance.tooltip": "接近到多少距離便自動移除死亡的定位點， 最小值為 2， 否則會在創建時就被移除。",
     "jm.waypoint.show_death_point_label_on_map": "在地圖上顯示死亡定位點的標籤",
     "jm.waypoint.show_death_point_label_on_map.tooltip": "在全畫面地圖及小地圖上顯示死亡定位點的標籤",
-    "jm.waypoint.double_click_create": "Double Click to Create",
-    "jm.waypoint.double_click_create.tooltip": "Double clicking on the fullscreen map will create a waypoint at location.",
+    "jm.waypoint.double_click_create": "點擊兩下以建立",
+    "jm.waypoint.double_click_create.tooltip": "在全螢幕地圖點擊兩下，即可在該處建立傳送點。",
     "jm.waypoint.death_date_format": "死亡的日期格式",
     "jm.waypoint.death_date_format.tooltip": "死亡定位點的日期格式",
     "jm.waypoint.death_time_format": "死亡的時間格式",
