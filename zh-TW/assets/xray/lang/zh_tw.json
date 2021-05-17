@@ -1,5 +1,5 @@
 {
-    "xray.debug.init": "XRay Initialised",
+    "xray.debug.init": "XRay 已初始化",
     "xray.single.cancel": "取消",
     "xray.single.add": "加入",
     "xray.single.delete": "刪除",
@@ -8,7 +8,7 @@
     "xray.single.close": "關閉",
     "xray.single.search": "搜尋",
     "xray.single.help": "幫助",
-    "xray.overlay": "XRay Active",
+    "xray.overlay": "XRay 啟用中",
     "xray.color.red": "紅色: ",
     "xray.color.green": "綠色: ",
     "xray.color.blue": "藍色: ",
@@ -44,10 +44,10 @@
     "xray.tooltips.distance": "Warning: Lag if you go over 128.",
     "xray.tooltips.edit1": "Click to enable / disable",
     "xray.tooltips.edit2": "Hold shift and click to edit.",
-    "xray.message.help.gui": "To edit a block simply shift click on the block you wish to edit.\nIf you want to enable / disable a block then click on a block\n and it'll toggle on and off.",
-    "xray.message.help.warning": "As a warning, using any distance over 64 will cause FPS drops due\nto the vast amount of blocks that we have to scan. (It's like 256^3)",
-    "xray.config.toggle": "Toggle XRay",
-    "xray.config.open": "Open XRay Menu",
-    "xray.toggle.activated": "XRay activated",
-    "xray.toggle.deactivated": "XRay deactivated"
+    "xray.message.help.gui": "若要編輯方塊，只需按一下您要編輯的方塊。\n如果你想要啟用或停用方塊，按一下方塊\n ，它就會開啟和關閉。",
+    "xray.message.help.warning": "作為警告， 使用任何超過 64 的視距將導致 FPS 下降， 因為我們必須掃描的大量方塊。 （就像 256^3）",
+    "xray.config.toggle": "切換 XRay",
+    "xray.config.open": "開啟 XRay 選單",
+    "xray.toggle.activated": "已啟用 XRay",
+    "xray.toggle.deactivated": "已停止 XRay"
 }
