@@ -245,7 +245,7 @@
     "minecolonies.config.delaybetweenretries": "重試之間的延遲",
     "minecolonies.config.delaybetweenretries.comment": "可重試請求的請求系統重試之間的刻度數。 降低會增加伺服器負載。 [默認: 1200]",
     "minecolonies.config.creativeresolve": "創造模式解決",
-    "minecolonies.config.creativeresolve.comment": "當要求玩家解決請求時，請求系統是否應以創造模式來解決（如果能夠辦到）。[默認值：false]",
+    "minecolonies.config.creativeresolve.comment": "Should the request system creatively resolve (if possible) when the player is required to resolve a request. [Default：false]",
     "minecolonies.config.canplayeruseresetcommand": "玩家是否可以使用重設指令",
     "minecolonies.config.canplayeruseresetcommand.comment": "應該允許玩家使用“ / mc Colony rs reset”指令嗎？ [預設值：false]",
     "minecolonies.config.default.boolean": "[Default: %b]",
