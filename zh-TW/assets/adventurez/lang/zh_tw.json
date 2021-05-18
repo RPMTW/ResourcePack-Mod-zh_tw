@@ -79,7 +79,7 @@
     "text.autoconfig.adventurez.title": "AdventureZ配置",
     "text.autoconfig.adventurez.category.spawn_setting": "生成設定",
     "text.autoconfig.adventurez.category.misc": "雜項設定",
-    "text.autoconfig.adventurez.option.necromancer_spawn_weight.@PrefixText": "Restart game for applying weight changes",
+    "text.autoconfig.adventurez.option.necromancer_spawn_weight.@PrefixText": "重新啟動遊戲以套用權重設定",
     "text.autoconfig.adventurez.option.necromancer_spawn_weight": "凋零死靈法師生成權重",
     "text.autoconfig.adventurez.option.nightmare_spawn_weight": "夜魘馬和靈魂收割者生成權重",
     "text.autoconfig.adventurez.option.piglin_beast_ore_spawn_chance": "豬布林獸礦物生成機率",
@@ -88,10 +88,10 @@
     "text.autoconfig.adventurez.option.summoner_thunder_spawn_chance": "召喚者雷電生成機會",
     "text.autoconfig.adventurez.option.blaze_guardian_spawn_weight": "烈焰深海守衛生成權重",
     "text.autoconfig.adventurez.option.fungus_spawn_weight": "真菌生成權重",
-    "text.autoconfig.adventurez.option.orc_spawn_weight": "Orc Spawn Weight",
+    "text.autoconfig.adventurez.option.orc_spawn_weight": "獸人生成權重",
     "text.autoconfig.adventurez.option.allow_stone_golem_summoning": "允許石傀儡召喚儀式",
     "text.autoconfig.adventurez.option.allow_the_eye_summoning": "允許眼球召喚儀式",
     "text.autoconfig.adventurez.option.allow_dragon_hatching": "允許龍孵化",
     "text.autoconfig.adventurez.option.display_rareness": "顯示稀有性",
-    "text.autoconfig.adventurez.option.disable_armor_bonus": "Disable Armor Setbonus"
+    "text.autoconfig.adventurez.option.disable_armor_bonus": "禁用套裝加成"
 }
