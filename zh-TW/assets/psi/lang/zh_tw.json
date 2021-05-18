@@ -939,7 +939,7 @@
     "psi.book.category.items": "物品",
     "psi.book.category.items.desc": "本節將介紹如何用各種實用的工具來更加方便地施展$(thing)術式$(0)。",
     "psi.book.entry.spellBullet": "術式彈藥類型",
-    "psi.book.page.spellBullet.0": "$(thing)術式彈藥$(0)是一個簡單的組件——將它插入$(thing)CAD$(0)的$(l:components/socket)$(thing)彈夾$(0)$(/l)裡時，它僅僅是提供其內部所儲存的$(thing)術式$(0)的數據(和元數據)給$(thing)CAD$(0)。$(p)$(thing)彈藥$(0)有多種類型，每種都各有優劣。$(p)下一頁中每個條目的連結都包含有對應$(thing)彈藥$(0)更詳細的資訊。",
+    "psi.book.page.spellBullet.0": "$(thing)術式彈藥$(0)是一個簡單的裝置——將它插入$(thing)CAD$(0)的$(l:components/socket)$(thing)彈夾$(0)$(/l)裡時，它僅僅是提供其內部所儲存的$(thing)術式$(0)的資料(和詮釋資料)給$(thing)CAD$(0)。$(p)$(thing)彈藥$(0)有多種類型，每種都各有優劣。$(p)下一頁中每個條目的連結都包含有對應$(thing)彈藥$(0)更詳細的資訊。",
     "psi.book.page.spellBullet.1": "如果你想要了解一個的特定類型$(thing)術式彈藥$(0)，那就開始吧。",
     "psi.book.page.spellBullet.2": "每種$(thing)術式彈藥$(0)都是用一個$(item)鐵錠$(0)以及一撮$(l:components/psidust)$(item)Psi粉末$(0)$(/l)水平地放置在合成格中來合成。$(p)如果沒有加入額外的物品到這個合成中，那合成出來的就是最簡單的$(thing)術式彈藥$(0)，我們叫它$(l:items/basic_bullet)$(item)術式彈藥$(0)$(/l)(不要混淆二者的名稱)。$(p)其它類型的$(thing)術式彈藥$(0)需要一個或多個額外的材料，只需要將它們水平地放置在$(item)鐵錠$(0)的旁邊。",
     "psi.book.page.spellBullet.3": "其它類型$(thing)術式彈藥$(0)的額外材料如下：$(p)$(li)$(l:items/projectile_bullet)$(item)投射型術式彈藥$(0)$(/l)需要$(item)箭$(0)，$(p)$(li)$(l:items/loopcast_bullet)$(item)循環型術式彈藥$(0)$(/l)需要$(item)線$(0)，$(p)$(li)$(l:items/circle_bullet)$(item)圈陣型術式彈藥$(0)$(/l)需要，嗯，圓的東西($(item)雪球$(0)或者是$(item)史萊姆球$(0))，$(p)$(li)$(l:items/grenade_bullet)$(item)榴彈型術式彈藥$(0)$(/l)需要一份$(item)火藥$(0)，$(p)$(li)$(l:items/charge_bullet)$(item)遙控型術式彈藥$(0)$(/l)需要一撮$(item)紅石粉$(0)，$(p)$(li)$(l:items/mine_bullet)$(item)地雷型術式彈藥$(0)$(/l)需要一個$(item)按鈕$(0).",
