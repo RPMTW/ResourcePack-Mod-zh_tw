@@ -5,6 +5,7 @@
     "adm-zip": "^0.5.3",
     "comment-json": "^4.1.0",
     "concat-stream": "^2.0.0",
+    "dotenv": "^9.0.2",
     "mc-curseforge-api": "^2.2.3",
     "request": "^2.88.2"
   },

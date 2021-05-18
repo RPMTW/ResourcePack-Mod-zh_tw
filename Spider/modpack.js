@@ -6,6 +6,7 @@ const compressing = require('compressing');
 const toml = require('toml');
 const concat = require('concat-stream');
 const curseforge = require("mc-curseforge-api");
+require('dotenv').config();
 
 const {
     parse,
@@ -32,7 +33,7 @@ for (let k = 0; k < 1; k++) {
 
     function aaa() {
         for (let i = 0; i < ModList.length; i++) {
-            let slug;
+            let slug = "";
             let fileID;
             let fileName;
             curseforge.getModFiles(ModList[i].projectID).then((files) => {
@@ -41,11 +42,12 @@ for (let k = 0; k < 1; k++) {
                         fileID = String(files[i].id)
                         fileName = String(files[i].download_url.split("https://edge.forgecdn.net/files/")[1].split(`${fileID.substr(0, 4)}/${fileID.substr(4, 7)}/`)[1]);
                         let test = path.join(ModDirPath, fileName);
-                        slug = fileName.split(".jar")[1];
+                        slug = fileName.split(".jar")[0];
                         try {
                             files[i].download(test, true).then(r => {
                                 console.log(`${fileName} 下載完成。`)
-                                compressing.zip.uncompress(`./mod/${fileName}`, "../jar/" + slug).then(() => compressing_done(slug))
+                                if (fileName === "undefined") return;
+                                compressing.zip.uncompress(`./mod/${fileName}`, "../jar/" + slug).then(() => compressing_done(slug, fileName))
                             });
                         } catch (err) {
                             console.log("發生未知錯誤 \n" + err)
@@ -58,42 +60,41 @@ for (let k = 0; k < 1; k++) {
     }
 }
 
-function compressing_done(slug) {
+function compressing_done(slug, fileName) {
     let mod_id;
+    let data;
     let dirPath_2 = path.join(__dirname, `../jar/${slug}/META-INF/mods.toml`);
     let dirPath_3 = path.join(__dirname, `../jar/${slug}/mcmod.info`);
     let dirPath_6 = path.join(__dirname, `../jar/${slug}/fabric.mod.json`);
+
     if (fs.existsSync(dirPath_2)) {
-        fs.createReadStream(`../jar/${slug}/META-INF/mods.toml`, 'utf8').pipe(concat(function (data, err) {
-            try {
-                mod_id = JSON.parse(JSON.stringify(toml.parse(data))).mods[0].modId
-                ModAssets(mod_id);
-            } catch (err) {
-                console.log("解析Toml時發生錯誤 \n" + err)
-            }
-        }));
+        try {
+            data = fs.readFileSync(`../jar/${slug}/META-INF/mods.toml`, 'utf8').toString()
+            mod_id = JSON.parse(JSON.stringify(toml.parse(data))).mods[0].modId
+            ModAssets(mod_id, fileName, slug);
+        } catch (err) {
+            console.log("解析Toml時發生錯誤 \n" + err)
+        }
     } else if (fs.existsSync(dirPath_3)) {
-        fs.createReadStream(`../jar/${slug}/mcmod.info`, 'utf8').pipe(concat(function (data, err) {
-            try {
-                mod_id = JSON.parse(data)[0].modid;
-                ModAssets(mod_id);
-            } catch (err) {
-                console.log("解析Json時發生錯誤 \n" + err)
-            }
-        }));
+        try {
+            data = fs.readFileSync(`../jar/${slug}/mcmod.info`, 'utf8').toString()
+            mod_id = JSON.parse(data)[0].modid;
+            ModAssets(mod_id, fileName, slug);
+        } catch (err) {
+            console.log("解析Json時發生錯誤 \n" + err)
+        }
     } else if (fs.existsSync(dirPath_6)) {
-        fs.createReadStream(`../jar/${slug}/fabric.mod.json`, 'utf8').pipe(concat(function (data, err) {
-            try {
-                mod_id = JSON.parse(data).id;
-                ModAssets(mod_id);
-            } catch (err) {
-                console.log("解析Json時發生錯誤 \n" + err)
-            }
-        }));
+        try {
+            data = fs.readFileSync(`../jar/${slug}/fabric.mod.json`, 'utf8').toString()
+            mod_id = JSON.parse(data).id;
+            ModAssets(mod_id, fileName, slug);
+        } catch (err) {
+            console.log("解析Json時發生錯誤 \n" + err)
+        }
     }
 }
 
-function ModAssets(mod_id) {
+function ModAssets(mod_id, fileName, slug) {
     let dirPath_4 = path.join(__dirname, "../jar/" + slug + "/assets/" + mod_id + "/lang/en_us.json");
     if (!fs.existsSync(dirPath_4)) return
 
