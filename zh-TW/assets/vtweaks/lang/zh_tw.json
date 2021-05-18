@@ -1,9 +1,9 @@
 {
     "vtweaks:lumbering": "伐木",
     "vtweaks:imperishable": "不朽",
-    "enchantment.vtweaks.lumbering.desc": "§3While Sneaking:§r\n    Fells an entire tree when breaking any wood block of the tree.\n    §4§lWorks on non-trees too§r",
+    "enchantment.vtweaks.lumbering.desc": "§3當潛行時：§r\n    破壞其中一個木頭方塊即可砍倒整棵樹。\n    §4§l對樹以外也有效§r",
     "enchantment.vtweaks.imperishable.desc": "Saves your tool or armor piece from breaking,\n    thus §ldisabling the item's functionality\n    until repaired.§r",
-    "vtweaks.death.message": "You died at §e[X:%s, Y:%s, Z:%s]§r",
+    "vtweaks.death.message": "你死亡在 §e[X:%s, Y:%s, Z:%s]§r",
     "vtweaks.man.pants": "§5Man Pants§r",
     "vtweaks.mighty.challenger.mob": "Mighty %s",
     "vtweaks.hungry.challenger.mob": "Hungry %s",

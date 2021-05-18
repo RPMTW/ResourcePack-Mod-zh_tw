@@ -1,15 +1,10 @@
 {
-    "mod.stepup.minecraft": "原版",
-    "mod.stepup.autojump": "自動跳躍",
-    "mod.stepup.enabled": "已啟用",
-    "mod.stepup.disabled": "停用",
-    "mod.stepup.updateAvailable": "有可用更新",
-    "mod.stepup.updateTooltip": "點擊這裡從官網更新",
-    "key.categories.stepup": "StepUp",
-    "key.stepup.toggle": "手動",
-    "mod.stepup.config.default": "Default on new servers",
-    "mod.stepup.config.dostepup": "§aStepUp enabled",
-    "mod.stepup.config.nostepup": "§cStepUp disabled",
-    "mod.stepup.config.vanillajump": "§eUse Vanilla Auto Jump",
-    "mod.stepup.config.tt.onthisserver": "Stepup behavior on this server"
+    "key.stepup.desc": "Toggle StepUp",
+    "key.categories.stepup": "Toggle StepUp",
+    "msg.stepup.disabled": "All Disabled",
+    "msg.stepup.enabled": "StepUp Enabled",
+    "msg.stepup.minecraft": "Minecraft AutoJump Enabled",
+    "msg.stepup.updateAvailable": "A new version of StepUp is available",
+    "msg.stepup.updateTooltip": "Click here to update from CurseForge",
+    "msg.stepup.config.desc": "The Current State of StepUp\r 0 All Disabled,\r 1 StepUp Enabled,\r 2 Minecraft Jump Enabled"
 }

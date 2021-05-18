@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:necrotic",
+  "text": [
+    {
+      "text": "Death is on your side as you harvest the pure life from your foes for your own benefit."
+    }
+  ],
+  "effects": [
+    "Has a chance to steal life from your enemies to heal you",
+    "Multiple levels, increases chance of life steal per level",
+    "每個級別需要 1 個升級插槽"
+  ]
+}

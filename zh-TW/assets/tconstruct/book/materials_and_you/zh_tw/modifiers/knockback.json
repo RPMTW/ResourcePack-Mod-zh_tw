@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:knockback",
+  "text": [
+    {
+      "text": "Stop wasting energy running and make your foes waste energy returning to you."
+    }
+  ],
+  "effects": [
+    "Knocks back enemies on hit",
+    "Multiple levels, increases force of knockback per level",
+    "每個級別需要 1 個升級插槽"
+  ]
+}

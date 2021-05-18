@@ -1,8 +1,8 @@
 {
     "_comment": "雜項",
-    "block.thuttech.controller": "Elevator Controller Block",
+    "block.thuttech.controller": "電梯控制方塊",
     "item.thuttech.lift": "電梯",
-    "item.thuttech.linker": "Device Linker (Unlinked)",
+    "item.thuttech.linker": "電梯遙控器",
     "item.thuttech.linker.linked": "Device Linker (Linked)",
     "msg.liftSet": "Elevator bound to Linker",
     "msg.floorSet": "Set this Floor to %s",
