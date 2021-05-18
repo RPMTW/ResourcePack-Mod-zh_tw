@@ -15,7 +15,7 @@
     "worldtime.config.coordsy": "Coords Y Percent",
     "worldtime.config.coordsprefix": "座標前綴",
     "worldtime.config.coordsformat": "座標格式",
-    "worldtime.config.tt.gametime": "Show ingame time",
+    "worldtime.config.tt.gametime": "顯示遊戲內時間",
     "worldtime.config.tt.gametimeformat": "Game Time format, please search the internet for Java SimpleDateFormat for examples. 'HH:mm' for 24h, 'hh:mm a' for am/pm.",
     "worldtime.config.tt.realtime": "Show real (wallclock) time",
     "worldtime.config.tt.realtimeoffset": "Add this many minutes to the real time, if you play on a server in a different time zone",
@@ -26,5 +26,5 @@
     "worldtime.config.tt.realtimeformat": "Real Time format, please search the internet for Java SimpleDateFormat for examples. 'HH:mm:ss' for 24h, 'hh:mm:ss a' for am/pm.",
     "worldtime.config.tt.coordformat": "Coords format, use {X}{Y}{Z} for placeholders",
     "key.worldtime.header": "世界時間",
-    "key.worldtime.config": "Open config screen"
+    "key.worldtime.config": "開啟配置畫面"
 }
