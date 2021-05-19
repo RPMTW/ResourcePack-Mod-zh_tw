@@ -21,7 +21,8 @@ if (!fs.existsSync(path.join(__dirname, "../assets"))) {
 }
 
 
-let ModList, DownloadCount,success;
+let ModList;
+//let DownloadCount, success
 for (let k = 0; k < 1; k++) {
     let url = process.env.ModpackListUrl;
     let stream = fs.createWriteStream(path.join("ModList.json"));
@@ -60,7 +61,7 @@ for (let k = 0; k < 1; k++) {
 }
 
 function compressing_done(slug, fileName) {
-    let mod_id,data;
+    let mod_id, data;
     let dirPath_2 = path.join(__dirname, `../jar/${slug}/META-INF/mods.toml`);
     let dirPath_3 = path.join(__dirname, `../jar/${slug}/mcmod.info`);
     let dirPath_6 = path.join(__dirname, `../jar/${slug}/fabric.mod.json`);
@@ -108,3 +109,5 @@ function ModAssets(mod_id, fileName, slug) {
         }
     })
 }
+
+//console.log(`\n全數模組處理完畢，累計下載 ${DownloadCount} 個模組，共 ${success} 個模組處理成功。`)
