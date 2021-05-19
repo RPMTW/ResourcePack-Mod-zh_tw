@@ -40,13 +40,16 @@ for (let k = 0; k < 1; k++) {
                     if (files[i].minecraft_versions.includes(config.ver)) {
                         fileID = String(files[i].id);
                         fileName = String(files[i].download_url.split("https://edge.forgecdn.net/files/")[1].split(`${fileID.substr(0, 4)}/${fileID.substr(4, 7)}/`)[1]);
+                        if (fileName === "undefined"){
+                            fileName = String(files[i].download_url.split("https://edge.forgecdn.net/files/")[1].split(`${fileID.substr(0, 4)}/${fileID.substr(5, 7)}/`)[1]);
+                        }
+
                         let test = path.join(ModDirPath, fileName);
                         slug = fileName.split(".jar")[0];
                         try {
                             files[i].download(test, true).then(r => {
-                                DownloadCount++;
+                                //DownloadCount++;
                                 console.log(`${fileName} 下載完成。`);
-                                if (fileName === "undefined") return;
                                 compressing.zip.uncompress(`./mod/${fileName}`, "../jar/" + slug).then(() => compressing_done(slug, fileName))
                             });
                         } catch (err) {
@@ -103,7 +106,7 @@ function ModAssets(mod_id, fileName, slug) {
 
     fs.writeFile("../assets/" + mod_id + "/lang/zh_tw.json", data, function (error) {
         console.log(`處理 ${fileName} (${mod_id}) 的原始語系檔案完成`);
-        success++
+        //success++
         if (error) {
             console.log(`解析語系Json檔案時發生錯誤。\n錯誤模組檔案: ${fileName} (${mod_id})\n錯誤原因: ${error}`);
         }
