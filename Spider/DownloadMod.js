@@ -85,7 +85,19 @@ function compressing_done(slug, fileName) {
 
 function ModAssets(mod_id, fileName, slug) {
     if (!fs.existsSync(path.join(__dirname, "../jar/" + slug + "/assets/" + mod_id + "/lang/en_us.json"))) return; //是否存在模組原始語系檔案
-    if (!fs.existsSync(path.join(__dirname, "../assets/" + mod_id))) return; //如果已經存在此模組的語系檔案將不新增
+    if (fs.existsSync(path.join(__dirname, "../assets/" + mod_id))) return; //如果已經存在此模組的語系檔案將不新增
+
+    let dirPath_4 = path.join(__dirname, "../jar/" + slug + "/assets/" + mod_id + "/lang/en_us.json");
+    if (!fs.existsSync(dirPath_4)) return
+
+    let dirPath_5 = path.join(__dirname, "../assets/" + mod_id);
+    if (!fs.existsSync(dirPath_5)) {
+        fs.mkdirSync(dirPath_5);
+    }
+    let dirPath_1 = path.join(__dirname, "../assets/" + mod_id + "/lang");
+    if (!fs.existsSync(dirPath_1)) {
+        fs.mkdirSync(dirPath_1);
+    }
 
     let data = fs.readFileSync("../jar/" + slug + "/assets/" + mod_id + "/lang/en_us.json").toString();
     data = parse(data, null, true);
