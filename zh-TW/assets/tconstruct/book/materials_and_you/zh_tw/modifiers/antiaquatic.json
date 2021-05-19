@@ -1,0 +1,16 @@
+{
+  "modifier_id": "tconstruct:antiaquatic",
+  "text": [
+    {
+      "text": "The enemies of the sea tremble in fear from those wielding weapons with this trait."
+    },
+    {
+      "text": "免責聲明：如果你把這個用在魚，海龜，海豚，或任何其他和平的海洋生物上，你一定是個可怕的人。"
+    }
+  ],
+  "effects": [
+    "增加對海洋生物的傷害",
+    "Multiple levels, each level increases damage further",
+    "每個級別需要 1 個升級插槽"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:fiery",
+  "text": [
+    {
+      "text": "The fires of hell work to punish your foes."
+    }
+  ],
+  "effects": [
+    "Burns targets on hit",
+    "Multiple levels, higher levels increase burn duration",
+    "每個級別需要 1 個升級插槽"
+  ]
+}

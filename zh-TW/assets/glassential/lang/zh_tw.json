@@ -7,11 +7,11 @@
     "block.glassential.glass_ghostly": "幽靈玻璃",
     "block.glassential.glass_light": "發光玻璃",
     "block.glassential.glass_redstone": "紅石玻璃",
-    "tooltip.glassential.dark": "方塊燈光",
-    "tooltip.glassential.ethereal": "對玩家來說並不穩固",
-    "tooltip.glassential.ethereal_reverse": "只有對玩家穩固",
-    "tooltip.glassential.ghostly": "對實體不穩固",
-    "tooltip.glassential.light": "發出光",
-    "tooltip.glassential.redstone": "發出紅石信號",
+    "tooltip.glassential.property_dark": "Opaque to light",
+    "tooltip.glassential.property_ethereal": "Allows passage while sneaking",
+    "tooltip.glassential.property_ghostly": "Allows passage to entities",
+    "tooltip.glassential.property_luminous": "Emits bright light",
+    "tooltip.glassential.property_redstone": "Emits strong redstone signal",
+    "tooltip.glassential.property_reverse_ethereal": "Solid while sneaking",
     "itemGroup.glassential.items": "玻璃"
 }

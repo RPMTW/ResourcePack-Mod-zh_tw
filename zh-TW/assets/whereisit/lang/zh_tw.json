@@ -8,7 +8,7 @@
     "text.autoconfig.whereisit.option.serverOptions.printSearchTime": "Print Search Time",
     "text.autoconfig.whereisit.option.serverOptions.cooldownTicks": "Search Cooldown Period",
     "text.autoconfig.whereisit.option.serverOptions.cooldownTicks.@Tooltip": "Minimum ticks between search requests per person. Set to 0 to disable.",
-    "text.autoconfig.whereisit.category.clientOptions": "Client Options",
+    "text.autoconfig.whereisit.category.clientOptions": "用戶端選項",
     "text.autoconfig.whereisit.option.clientOptions.colour": "Block Outline Colour",
     "text.autoconfig.whereisit.option.clientOptions.colour.@Tooltip": "Shown when an item is found.",
     "text.autoconfig.whereisit.option.clientOptions.alternateColour": "Alternate Block Outline Colour",
