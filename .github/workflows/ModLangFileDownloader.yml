@@ -40,6 +40,6 @@ jobs:
           gc 1.txt|git credential-manager  store
           ri .\1.txt -Force
           git add .
-          git commit -m "更新原始文本"
+          git commit -m "新增原始語系檔案"
           git push origin HEAD:${{ github.ref }}
       shell: pwsh
