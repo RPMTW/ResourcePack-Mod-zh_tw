@@ -55,6 +55,8 @@
     "config.hats.prop.sendNewHatToastPrompt.desc": "獲得新帽子時，是否要寄送客戶端一則滾動通知？",
     "config.hats.prop.enableCreativeModeHatHunting.name": "啟用創造模式帽子打獵",
     "config.hats.prop.enableCreativeModeHatHunting.desc": "預設創造模式玩家有權使用所有帽子。啟用此選項將迫使他們像在生存模式一樣為了帽子去打獵。",
+    "config.hats.prop.mobHatTakeover.name": "Mob Hat Takeover",
+    "config.hats.prop.mobHatTakeover.desc": "If a mob (without a hat) kills another mob (with a hat), will it get the other mob's hat?",
     "config.hats.prop.hatEntityLifespan.name": "帽子實體壽命",
     "config.hats.prop.hatEntityLifespan.desc": "由帽子發射器射出的帽子實體存在時間。請注意，當帽子實體與實體交換帽子時將重置這段時間。",
     "config.hats.prop.hatLauncherReplacesPlayerHat.name": "帽子發射器可以替換玩家帽子",
