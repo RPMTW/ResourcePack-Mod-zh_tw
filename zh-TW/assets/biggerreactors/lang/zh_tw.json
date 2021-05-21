@@ -1,5 +1,5 @@
 {
-    "itemGroup.biggerreactors": "Bigger Reactors",
+    "itemGroup.biggerreactors": "更大的反應爐",
     "item.biggerreactors.wrench": "反應爐扳手",
     "fluid.biggerreactors.fluid_yellorium": "Liquid Uranium",
     "item.biggerreactors.fluid_yellorium_bucket": "Liquid Uranium Bucket",
@@ -25,8 +25,8 @@
     "block.biggerreactors.ludicrite_block": "鎦塊",
     "item.biggerreactors.ludicrite_dust": "鎦粉",
     "item.biggerreactors.ludicrite_ingot": "鎦錠",
-    "multiblock.error.biggerreactors.no_terminal": "Reactors require at least one terminal.",
-    "multiblock.error.biggerreactors.no_rods": "Reactors must have at least one fuel element.",
+    "multiblock.error.biggerreactors.no_terminal": "反應爐需要至少一個終端",
+    "multiblock.error.biggerreactors.no_rods": "反應爐至少要有一個燃料元件",
     "multiblock.error.biggerreactors.control_rod_not_on_top": "Control rods can only be placed on the top of the reactor (%d, %d, %d).",
     "multiblock.error.biggerreactors.fuel_rod_gap": "All fuel elements must extend from top of the reactor to the bottom (%d, %d, %d).",
     "multiblock.error.biggerreactors.no_control_rod_for_fuel_rod": "All fuel elements must be topped with a control rod (%d, %d).",
