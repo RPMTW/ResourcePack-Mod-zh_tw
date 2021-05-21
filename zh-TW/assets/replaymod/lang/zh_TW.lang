@@ -356,7 +356,7 @@ replaymod.gui.editkeyframe.spec.method.shoulder=Shoulder Camera
 replaymod.gui.editkeyframe.spec.method.shoulder.distance=Camera Distance
 replaymod.gui.editkeyframe.spec.method.shoulder.pitch=Pitch Offset
 replaymod.gui.editkeyframe.spec.method.shoulder.yaw=Rotation Angle
-replaymod.gui.editkeyframe.spec.method.shoulder.smoothness=Path Smoothness
+replaymod.gui.editkeyframe.spec.method.shoulder.smoothness=路徑平滑度
 
 replaymod.gui.editkeyframe.interpolator=Interpolator
 replaymod.gui.editkeyframe.interpolator.default.name=Default Interpolator
