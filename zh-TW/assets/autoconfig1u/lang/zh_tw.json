@@ -1,8 +1,8 @@
 {
-    "text.autoconfig.autoconfig1u_example.title": "Auto Config Example",
+    "text.autoconfig.autoconfig1u_example.title": "自動config範例",
     "text.autoconfig.autoconfig1u_example.category.a": "範例種類 A",
     "text.autoconfig.autoconfig1u_example.category.b": "範例種類 B",
-    "text.autoconfig.autoconfig1u_example.option.moduleA.aBoolean.@PrefixText": "This is an example of a config GUI generated with Auto Config API",
+    "text.autoconfig.autoconfig1u_example.option.moduleA.aBoolean.@PrefixText": "這是使用自動config API 產生之config GUI 的範例",
     "text.autoconfig.autoconfig1u_example.option.moduleA.aBoolean": "A Boolean",
     "text.autoconfig.autoconfig1u_example.option.moduleA.anEnum": "An Enum",
     "text.autoconfig.autoconfig1u_example.option.moduleA.anEnum.@Tooltip[0]": "This is an example tooltip.",
