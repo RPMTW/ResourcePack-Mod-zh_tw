@@ -1,10 +1,10 @@
 {
   "language": "繁體中文",
   "language.code": "zh_tw",
-  "language.region": "台灣",
+  "language.region": "Taiwan",
   "itemGroup.tabredstonepen": "紅石棒",
-  "redstonepen.tooltip.hint.extended": "§6[§9shift§r 更多§6]§r",
-  "redstonepen.tooltip.hint.help": "§6[§9ctrl-shift§r 幫助§6]§r",
+  "redstonepen.tooltip.hint.extended": "§6[§9SHIFT§r 查看更多資訊§6]§r",
+  "redstonepen.tooltip.hint.help": "§6[§9CTRL-SHIFT§r 查看幫助§6]§r",
   "block.redstonepen.bistable_relay": "雙穩定紅石繼電器",
   "block.redstonepen.bistable_relay.help": "將傳入的信號從後面和側面重新鋪設到前面，輸出功率為15。當檢測到一個上升的信號邊緣時，就會打開和關閉（關-開脈衝控制）。",
   "block.redstonepen.inverted_relay": "倒置紅石繼電器",

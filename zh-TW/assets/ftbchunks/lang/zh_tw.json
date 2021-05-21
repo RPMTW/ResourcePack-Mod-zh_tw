@@ -9,6 +9,7 @@
     "ftbchunks.claimed_chunks_on_map": "在地圖上顯示已聲明的區塊",
     "ftbchunks.own_claimed_chunks_on_map": "在地圖上顯示你自己已聲明的區塊",
     "ftbchunks.in_world_waypoints": "在世界上顯示路標",
+    "ftbchunks.death_waypoints": "Create death waypoints on death",
     "ftbchunks.map_mode": "地圖模式",
     "ftbchunks.water_height_factor": "水重係數",
     "ftbchunks.minimap": "小地圖",
@@ -40,5 +41,10 @@
     "ftbchunks.gui.waypoints": "定位點",
     "ftbchunks.gui.add_waypoint": "增加路標",
     "ftbchunks.gui.settings": "設定",
-    "ftbchunks.gui.sync": "與盟友分享地圖"
+    "ftbchunks.gui.sync": "與盟友分享地圖",
+    "ftbteamsconfig.ftbchunks.allow_fake_players": "Allow Fake Players",
+    "ftbteamsconfig.ftbchunks.block_edit_mode": "Block Edit Mode",
+    "ftbteamsconfig.ftbchunks.block_interact_mode": "Block Interact Mode",
+    "ftbteamsconfig.ftbchunks.minimap_mode": "Minimap Mode",
+    "ftbteamsconfig.ftbchunks.location_mode": "Location Mode"
 }
