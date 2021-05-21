@@ -330,7 +330,7 @@
     "hqm.mobTask.exactMatch.desc": "僅匹配選中的生物類型，子類型將不統計。",
     "hqm.mobTask.typeMatch.desc": "同時匹配選中的生物類型以及其子類型。",
     "hqm.mobTask.allKilled": "全部擊殺",
-    "hqm.mobTask.partKills": "已擊殺%s[進度%s%%]",
+    "hqm.mobTask.partKills": "已擊殺%s [%s%%]",
     "hqm.mobTask.totalKills": "總計擊殺%s",
     "hqm.tameTask.reqKills": "需要控制數量",
     "hqm.tameTask.search": "搜尋",
