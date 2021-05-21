@@ -18,5 +18,7 @@
     "reauth.status.unknown": "線上: §l§7?",
     "reauth.login.success": "§a登入成功!",
     "reauth.login.fail": "§4登入失敗: %s",
-    "reauth.login.error": "§4錯誤: %s"
+    "reauth.login.error": "§4錯誤: %s",
+    "reauth.retry": "Login as %s and retry",
+    "reauth.retry.disabled": "Login and retry not available"
 }
