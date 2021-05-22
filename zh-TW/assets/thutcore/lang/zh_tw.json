@@ -31,7 +31,7 @@
     "thutcore.config.ai": "AI Settings",
     "thutcore.config.ai.tooltip": "AI Settings",
     "thutcore.config.threadCount.tooltip": "Number of AI threads to make at startup, custom mob AI is distrobuted to these threads.",
-    "thutcore.config.blockentity": "Block Entity Settings",
-    "thutcore.config.blockentity.tooltip": "Block Entity Settings",
+    "thutcore.config.blockentity": "方塊實體設定",
+    "thutcore.config.blockentity.tooltip": "方塊實體設定",
     "thutcore.config.whitelist.tooltip": "Tile Entity ids which are confirmed to work with block entities."
 }
