@@ -28,7 +28,8 @@ function aaa() {
     let slug, fileID, fileName;
     curseforge.getModFiles(Number(ID)).then((files) => {
         for (let i = 0; i < files.length; i++) {
-            if (files[i].minecraft_versions.includes(config.ver) || files[i].minecraft_versions.includes(config.version) || files[i].minecraft_versions.includes(config.version_Snapshot)) {
+            let data = files[i].minecraft_versions;
+            if (data.includes(config.ver) || data.includes(config.version) || data.includes("1.16.4") || data.includes("1.16.3") || data.includes("1.16.2")|| data.includes(config.version_Snapshot)) {
                 fileID = String(files[i].id);
                 fileName = String(files[i].download_url.split("https://edge.forgecdn.net/files/")[1].split(`${fileID.substr(0, 4)}/${fileID.substr(4, 7)}/`)[1]);
                 if (fileName === "undefined") {
@@ -45,6 +46,8 @@ function aaa() {
                     console.log("發生未知錯誤 \n" + err);
                 }
                 break;
+            }else{
+                console.log(`無法查詢支援指定版本的模組: ${stringify(files,null,4)}`)
             }
         }
     });
@@ -84,8 +87,8 @@ function compressing_done(slug, fileName) {
 }
 
 function ModAssets(mod_id, fileName, slug) {
-    if (!fs.existsSync(path.join(__dirname, "../jar/" + slug + "/assets/" + mod_id + "/lang/en_us.json"))) return; //是否存在模組原始語系檔案
-    if (fs.existsSync(path.join(__dirname, "../assets/" + mod_id))) return; //如果已經存在此模組的語系檔案將不新增
+    if (!fs.existsSync(path.join(__dirname, "../jar/" + slug + "/assets/" + mod_id + "/lang/en_us.json"))) return console.log("已經存在語系檔案了"); //是否存在模組原始語系檔案
+    if (fs.existsSync(path.join(__dirname, "../assets/" + mod_id))) return console.log("模組ID重複"); //如果已經存在此模組的語系檔案將不新增
 
     let dirPath_4 = path.join(__dirname, "../jar/" + slug + "/assets/" + mod_id + "/lang/en_us.json");
     if (!fs.existsSync(dirPath_4)) return
