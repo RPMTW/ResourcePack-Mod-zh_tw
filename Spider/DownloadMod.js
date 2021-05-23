@@ -28,7 +28,7 @@ function aaa() {
     let slug, fileID, fileName;
     curseforge.getModFiles(Number(ID)).then((files) => {
         for (let i = 0; i < files.length; i++) {
-            if (files[i].minecraft_versions.includes(config.version) || files[i].minecraft_versions.includes(config.version_Snapshot)) {
+            if (files[i].minecraft_versions.includes(config.ver) || files[i].minecraft_versions.includes(config.version) || files[i].minecraft_versions.includes(config.version_Snapshot)) {
                 fileID = String(files[i].id);
                 fileName = String(files[i].download_url.split("https://edge.forgecdn.net/files/")[1].split(`${fileID.substr(0, 4)}/${fileID.substr(4, 7)}/`)[1]);
                 if (fileName === "undefined") {
