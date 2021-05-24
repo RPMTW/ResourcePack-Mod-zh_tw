@@ -8,11 +8,11 @@
     "lambdynlights.option.mode": "動態光源",
     "lambdynlights.option.water_sensitive": "水感式檢測",
     "lambdynlights.tooltip.block_entities": "啟用實體方塊的動態光源。",
-    "lambdynlights.tooltip.creeper_lighting": "Sets the Creeper dynamic lighting mode.\n- %s disables Creeper dynamic lighting.\n- %s sets a constant luminance.\n- %s sets a dynamic luminance.",
-    "lambdynlights.tooltip.entities": "Enables entities dynamic lighting. Note: players are always active.",
-    "lambdynlights.tooltip.mode.1": "Enables dynamic lights. If enabled a player holding a torch will light up the area for example.",
-    "lambdynlights.tooltip.mode.2": "%s and %s will lag a bit behind but minimizes light updates.",
-    "lambdynlights.tooltip.mode.3": "%s is smooth dynamic lighting.",
+    "lambdynlights.tooltip.creeper_lighting": "設定苦力怕的動態光源模式。\n- %s 苦力怕不使用動態光源\n- %s 靜態照明\n- %s 動態照明",
+    "lambdynlights.tooltip.entities": "啟用實體的動態光源。注意：玩家的光源會一直啟用。",
+    "lambdynlights.tooltip.mode.1": "啟用動態光源。 啟用後手持光源的玩家將會燃亮周遭區域。",
+    "lambdynlights.tooltip.mode.2": "%s 和 %s 將會使用較慢但是耗用較少資源的光照。",
+    "lambdynlights.tooltip.mode.3": "%s 會平滑動態的光源。",
     "lambdynlights.tooltip.tnt_lighting": "設定TNT的動態光源模式。\n- %s TNT不使用動態光源\n- %s 靜態照明\n- %s 動態照明",
-    "lambdynlights.tooltip.water_sensitive": "Enables the water-sensitive light sources check. This means that some items will not emit light while being submerged in water."
+    "lambdynlights.tooltip.water_sensitive": "啟用水感式檢測後，有些物品被水淹沒時不會再發光。"
 }
