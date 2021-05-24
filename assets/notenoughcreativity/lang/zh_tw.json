@@ -1,0 +1,21 @@
+{
+    "notenoughcreativity.title": "Creative+ Inventory",
+    "notenoughcreativity.swap": "Switch to Creative+",
+    "notenoughcreativity.exit": "Switch to Creative",
+    "notenoughcreativity.ability.nopickup.name": "No Item Pickup",
+    "notenoughcreativity.ability.nopickup.desc": "Completely prevent item pickup, to avoid inventory clutter.",
+    "notenoughcreativity.ability.attack.name": "Instant Kill",
+    "notenoughcreativity.ability.attack.desc": "Greatly increase your punch damage to get rid of pesky mobs without carrying a sword around. Also suppresses drops from killed mobs.",
+    "notenoughcreativity.ability.health.name": "Allow Damage",
+    "notenoughcreativity.ability.health.desc": "Enable damage and show your health bar. You still can't die except by the usual things that can kill Creative players.",
+    "notenoughcreativity.ability.instabreak.name": "No Break Delay",
+    "notenoughcreativity.ability.instabreak.desc": "Disable the Creative break delay, allowing breaking blocks like a gold pick through netherrack.",
+    "notenoughcreativity.ability.pickswap.name": "Pick-Swap",
+    "notenoughcreativity.ability.pickswap.desc": "Move unique items into the upper inventory instead of deleting them when pickblocking with a held item. Also remove the first matching item from the upper inventory when pickblocking.",
+    "notenoughcreativity.ability.nightvision.name": "Night Vision",
+    "notenoughcreativity.ability.nightvision.desc": "Make all blocks fullbright. Does not have the Night Vision fog effect.",
+    "notenoughcreativity.ability.noclip.name": "No-Clip",
+    "notenoughcreativity.ability.noclip.desc": "Disable collision, like a Spectator.",
+    "notenoughcreativity.ability.darkmode.name": "Dark Mode",
+    "notenoughcreativity.ability.darkmode.desc": "Make this GUI darker."
+}
