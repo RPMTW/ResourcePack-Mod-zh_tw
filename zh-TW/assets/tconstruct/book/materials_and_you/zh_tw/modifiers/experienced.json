@@ -1,13 +1,13 @@
 {
-  "modifier_id": "tconstruct:experienced",
+  "modifier_id": "結構：經驗",
   "text": [
     {
       "text": "You feel a little smarter with some experience under your belt."
     }
   ],
   "effects": [
-    "Increases XP gain from blocks and mobs",
-    "Multiple levels, increases experience gained with each level",
+    "從各種方塊和生物得來的經驗",
+    "多個級別，增加每個級別獲得的經驗",
     "每個級別需要 1 個升級插槽"
   ]
 }
