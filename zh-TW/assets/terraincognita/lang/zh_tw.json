@@ -1,5 +1,5 @@
 {
-    "_comment": "Halves eating speed with each level. Applied when eating taffies.",
+    "_comment": "每增加一級，進食速度減半。在吃太妃糖時獲得效果。",
     "block.terraincognita.dandelion_puff": "蒲公英傘",
     "block.terraincognita.potted_dandelion_puff": "蒲公英盆栽",
     "block.terraincognita.chicory": "菊苣",
@@ -217,6 +217,6 @@
     "block.minecraft.banner.ti_fern.black": "黑色蕨類",
     "death.attack.caltrops": "%1$s 被鐵蒺藜戳死",
     "death.attack.caltrops.player": "%1$s 試圖逃跑時被%2$s丟的鐵蒺藜戳死",
-    "subtitle.terraincognita.blow": "Player blows on a dandelion puff",
+    "subtitle.terraincognita.blow": "玩家吹散了一顆蒲公英",
     "subtitle.terraincognita.caltrops_throw": "投擲鐵蒺藜"
 }
