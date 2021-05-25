@@ -174,7 +174,7 @@
     "modularrouters.guiText.tooltip.activator.lookDirection": "Look",
     "modularrouters.guiText.tooltip.activator.sneak": "潛行",
     "modularrouters.guiText.tooltip.allDirections": "全部",
-    "modularrouters.guiText.tooltip.BACK": "Back",
+    "modularrouters.guiText.tooltip.BACK": "返回",
     "modularrouters.guiText.tooltip.BLACKLIST.1": "Whitelist${br}The module will run only if the filter matches.${br}An empty whitelist will never allow the module to run.",
     "modularrouters.guiText.tooltip.BLACKLIST.2": "Blacklist${br}The module will not run if the filter matches.${br}An empty blacklist will always allow the module to run.",
     "modularrouters.guiText.tooltip.clearFilter": "Clear Filter",
