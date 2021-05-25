@@ -113,7 +113,7 @@
     "text.autoconfig.bettercaves-fabric-1_16.option.betterCaves.undergroundSettings.caves.vanillaCaves.caveBottom.@Tooltip": "The minimum y-coordinate at which vanilla caves can generate.",
     "text.autoconfig.bettercaves-fabric-1_16.option.betterCaves.undergroundSettings.caves.vanillaCaves.caveTop": "Vanilla Cave Maximum Altitude",
     "text.autoconfig.bettercaves-fabric-1_16.option.betterCaves.undergroundSettings.caves.vanillaCaves.caveTop.@Tooltip": "The maximum y-coordinate at which vanilla caves can generate.",
-    "text.autoconfig.bettercaves-fabric-1_16.option.betterCaves.undergroundSettings.caves.vanillaCaves.caveDensity": "Vanilla Cave Density",
+    "text.autoconfig.bettercaves-fabric-1_16.option.betterCaves.undergroundSettings.caves.vanillaCaves.caveDensity": "原版洞穴密度",
     "text.autoconfig.bettercaves-fabric-1_16.option.betterCaves.undergroundSettings.caves.vanillaCaves.caveDensity.@Tooltip": "The density of vanilla caves. Higher = more caves, closer together.",
     "text.autoconfig.bettercaves-fabric-1_16.option.betterCaves.undergroundSettings.caves.vanillaCaves.cavePriority": "Vanilla Cave Priority",
     "text.autoconfig.bettercaves-fabric-1_16.option.betterCaves.undergroundSettings.caves.vanillaCaves.cavePriority.@Tooltip": "Determines how frequently vanilla caves spawn. 0 = will not spawn at all.",
