@@ -1,11 +1,11 @@
 {
-    "itemGroup.villagertools": "Village Artifacts",
-    "entity.villagertools.reinforced_golem": "Friendly Golem",
-    "entity.villagertools.guard": "Town Guard",
-    "item.villagertools.guard": "Cursed Pillager Amulet",
-    "item.villagertools.guard.tooltip": "Absorbs dark ender energy, converting villagers to Town Guards",
-    "item.villagertools.guard.used": "They are no longer your enemy. ",
-    "item.villagertools.gears": "Oblivion Stone",
+    "itemGroup.villagertools": "村莊神器",
+    "entity.villagertools.reinforced_golem": "友善鐵魔像",
+    "entity.villagertools.guard": "小鎮自衛隊",
+    "item.villagertools.guard": "掠奪者護身符",
+    "item.villagertools.guard.tooltip": "可用於將掠奪者轉化為小鎮自衛隊",
+    "item.villagertools.guard.used": "他們不再是你的敵人了。 ",
+    "item.villagertools.gears": "遺忘之石",
     "item.villagertools.gears.tooltip": "Upgrades the defenses and brain of an Iron Golem",
     "item.villagertools.gears.used": "Player-protection system activated.  Defenses upgraded. ",
     "item.villagertools.badge": "Cursed War Emblem",
@@ -35,7 +35,7 @@
     "item.villagertools.key": "Llama liberation key",
     "item.villagertools.key.tooltip": "Unlock the reins of a Wandering Trader Llama",
     "item.villagertools.key.used": "They have been freed from bondage",
-    "item.villagertools.restock": "Rough Emerald Shard",
-    "item.villagertools.restock.tooltip": "Barter with a villager to restock their trades",
+    "item.villagertools.restock": "粗糙綠寶石碎片",
+    "item.villagertools.restock.tooltip": "與村民交換以升級他們的交易",
     "item.villagertools.restock.used": "Found some new stock"
 }
