@@ -1,13 +1,13 @@
 {
-  "modifier_id": "tconstruct:diamond",
+  "modifier_id": "結構：鑽石",
   "text": [
     {
-      "text": "Diamonds are forever!"
+      "text": "鑽石是永遠的！"
     }
   ],
   "effects": [
-    "Increases durability, mining speed, and attack damage",
-    "Single Use",
-    "Requires 1 Upgrade Slot"
+    "增加耐用性、採礦速度和攻擊傷害",
+    "一次性使用",
+    "需要1個升級插槽"
   ]
 }

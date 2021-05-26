@@ -1,5 +1,5 @@
 {
-  "debug.canvas.missing_uniform": "Canvas unable to find uniform %s in shaders %s, %s. This is normal if the uniform isn't used in the shader.",
+  "debug.canvas.missing_uniform": "渲染模組無法找到? %s 在光影模組 %s ,%s 。如果在光影中不使用?就會回復正常",
   "info.canvas.reloading": "Canvas渲染器正在初始化。",
   "error.canvas.fail_create_shader": "由於出現意外錯誤：%s， Canvas 無法以屬性索引%d 建立著色器 %s。",
   "error.canvas.fail_create_shader_output": "由於出現意外錯誤，Canvas 無法建立著色器輸出資料夾 %s。",

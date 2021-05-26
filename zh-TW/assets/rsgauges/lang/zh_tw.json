@@ -192,7 +192,7 @@
     "block.rsgauges.rustic_two_hinge_lever.help": "${rsgauges.switch.feature.typebistable.help}\n${rsgauges.switch.feature.outputconfig.help}\n${rsgauges.switch.feature.linktarget.help}\n${rsgauges.switch.feature.linksource.help}",
     "block.rsgauges.sensitive_glass_block": "紅石感應玻璃 (發光)",
     "block.rsgauges.sensitive_glass_block.help": "Glass block that emits light when\n it is powered by a redstone signal,\n similar to a redstone lamp.",
-    "block.rsgauges.stained_sensitiveglass": "Coloured Redstone-Sensitive Glass Block",
+    "block.rsgauges.stained_sensitiveglass": "紅石感應玻璃(著色)",
     "block.rsgauges.stained_sensitiveglass.help": "Glass block that changes from\n transparent to colored when it is\n powered by a redstone signal. A\n faint dashed framing indicates\n the color in unpowered state.",
     "block.rsgauges.valve_wheel_switch": "雙穩態紅石開關（閥門開關）",
     "block.rsgauges.valve_wheel_switch.help": "${rsgauges.switch.feature.typebistable.help}\n${rsgauges.switch.feature.outputconfig.help}\n${rsgauges.switch.feature.linktarget.help}\n${rsgauges.switch.feature.linksource.help}",

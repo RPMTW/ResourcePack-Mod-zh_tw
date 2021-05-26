@@ -5,6 +5,6 @@
     "config.backtools.prop.disabledTools.desc": "Disabled tools, by their resource name. Eg: minecraft:diamond_hoe",
     "config.backtools.prop.toolOrientation.name": "工具方向",
     "config.backtools.prop.toolOrientation.desc": "Tool orientation, by class file and degrees. Separate with \":\" . See defaults for examples.",
-    "config.backtools.prop.nbtCleaner.name": "NBT Cleaner",
+    "config.backtools.prop.nbtCleaner.name": "NBT 清除器",
     "config.backtools.prop.nbtCleaner.desc": "Some nbt tags will cause back tools to appear improperly. Use this setting to cleanse the item tags."
 }

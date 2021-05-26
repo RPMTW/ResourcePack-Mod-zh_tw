@@ -1,14 +1,14 @@
 {
-  "modifier_id": "tconstruct:emerald",
+  "modifier_id": "結構：綠寶石",
   "text": [
     {
-      "text": "A villager's best friend, don't let the villagers see you applying this! These aren't your lucky charms."
+      "text": "村民最好的朋友，別讓村民看到你用這個！這些不是你的幸運符XD"
     }
   ],
   "effects": [
-    "Increases tool durability depending on base durability",
-    "Increases damage towards illagers",
-    "Single Use",
-    "Requires 1 Upgrade Slot"
+    "根據基本耐用性提高工具的耐用性",
+    "增加對災厄村民的傷害",
+    "一次性使用",
+    "需要1個升級插槽"
   ]
 }

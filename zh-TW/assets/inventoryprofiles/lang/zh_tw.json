@@ -198,9 +198,9 @@
     "inventoryprofiles.tooltip.sort_rows_button": "水平方向分類",
     "inventoryprofiles.tooltip.move_all_button.title_move_matching": "移動相符的項目",
     "inventoryprofiles.tooltip.move_all_button.title_move_all": "移動匹配物品",
-    "inventoryprofiles.tooltip.move_all_button.include_hotbar": "§6按住 §o%s§r\\n§6 - 包含熱鍵",
-    "inventoryprofiles.tooltip.move_all_button.exclude_hotbar": "§6按住 §o%s§r\\n§6 - 不包含熱鍵",
-    "inventoryprofiles.tooltip.move_all_button.move_all": "§6按住 §o%s§r\\n§6 - 移動所有",
-    "inventoryprofiles.tooltip.move_all_button.move_matching_only": "§6按住 §o%s§r\\n§6 - 只移動匹配項目",
+    "inventoryprofiles.tooltip.move_all_button.include_hotbar": "§6按住 §o%s§r§6 - 包含熱鍵",
+    "inventoryprofiles.tooltip.move_all_button.exclude_hotbar": "§6按住 §o%s§r§6 - 不包含熱鍵",
+    "inventoryprofiles.tooltip.move_all_button.move_all": "§6按住 §o%s§r§6 - 移動所有",
+    "inventoryprofiles.tooltip.move_all_button.move_matching_only": "§6按住 §o%s§r§6 - 只移動匹配項目",
     "inventoryprofiles.tooltip.continuous_crafting_checkbox": "連續製作"
 }

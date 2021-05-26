@@ -1,8 +1,8 @@
 {
     "modmenu.descriptionTranslation.dawn": "API that facilitates the creation of features.\nIncludes useful entities, commands, enchantments and effects.",
-    "itemGroup.dawn.creative_tools": "Creative Tools",
-    "entity.dawn.custom_tnt": "Custom TNT",
-    "entity.dawn.flying_block": "Flying Block",
+    "itemGroup.dawn.creative_tools": "創造模式工具",
+    "entity.dawn.custom_tnt": "自訂 TNT",
+    "entity.dawn.flying_block": "飛行方塊",
     "commands.health.add.success.single": "Gave %s health points to %s",
     "commands.health.add.success.multiple": "Gave %s health points to %s entities",
     "commands.health.set.success.single": "Set %s health points on %s",
@@ -31,8 +31,8 @@
     "text.autoconfig.dawn.option.features.motionCommand": "Enable /motion",
     "text.autoconfig.dawn.option.features.foodbarCommand": "Enable /foodbar",
     "text.autoconfig.dawn.option.debug.writeIds.@PrefixText": "The writing process only fires once, when the game loads",
-    "text.autoconfig.dawn.option.debug.writeIds": "Write IDs",
-    "text.autoconfig.dawn.option.debug.writeIds.@Tooltip": "Writes every registered ID in .json files",
-    "text.autoconfig.dawn.option.debug.expandedInfo": "Expanded ID info",
-    "text.autoconfig.dawn.option.debug.expandedInfo.@Tooltip": "Gives more information about the properties of each ID"
+    "text.autoconfig.dawn.option.debug.writeIds": "寫入 ID",
+    "text.autoconfig.dawn.option.debug.writeIds.@Tooltip": "將每一個已登錄的 ID 寫入json檔中",
+    "text.autoconfig.dawn.option.debug.expandedInfo": "擴充的 ID 資訊",
+    "text.autoconfig.dawn.option.debug.expandedInfo.@Tooltip": "給予更多資訊給各個ID"
 }
