@@ -6,9 +6,9 @@
     }
   ],
   "effects": [
-    "Adds an overslime bar which is consumed before durability",
-    "Recharged with slime crystals",
-    "Different slime crystals restore different amounts of overslime",
-    "Applies debuff to non slimy tools"
+    "工具會改為消耗史萊姆塗層來取代耐久度的耗損！ 對於缺少史萊姆的工具就不方便了！",
+    "用史萊姆水晶來回復",
+    "不同的史萊姆水晶會回復不一樣的量",
+    "增加減益到非史萊姆工具"
   ]
 }
