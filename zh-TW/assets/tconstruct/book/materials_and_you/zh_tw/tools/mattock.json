@@ -2,17 +2,17 @@
   "tool": "tconstruct:mattock",
   "text": [
     {
-      "text": "The Mattock is a versatile tool. It is effective on wood and dirt."
+      "text": "《鶴嘴鋤》是多功能的農業工具， 其作用於木頭、泥土、沙子、礫石和農作物。\n『別拿來自掘墳墓就好！』"
     },
     {
       "text": "\n"
     },
     {
-      "text": "It can create paths and also deals respectable damage in combat."
+      "text": "它能耕地並且能在戰鬥中打出不錯的傷害"
     }
   ],
   "properties": [
-    "Creates paths",
-    "Effective on dirt and wood"
+    "建立路徑",
+    "用來挖泥土和木頭"
   ]
 }
