@@ -11,14 +11,14 @@ seared_furnace=烤爐
 tinker_tank=工匠儲罐
 
 repairing=修理
-offhand=Offhand Harvesting
-bolt_core=Bolt Crafting
+offhand=副手採掘
+bolt_core=弩箭製作
 
 modifier.effect=效果:
 tool.properties=屬性:
 
 material.craft_partbuilder=可於部件加工台被製作
-material.craft_casting=Can be cast from %s
+material.craft_casting=可用《%s》來鑄造
 
-wood.flavour=How much wood could a woodchuck chuck if a woodchuck could chuck wood?
-stone.flavour=Rock solid
+wood.flavour=起煙於寒灰之上 生花於已枯之木。
+stone.flavour=堅若磐石
