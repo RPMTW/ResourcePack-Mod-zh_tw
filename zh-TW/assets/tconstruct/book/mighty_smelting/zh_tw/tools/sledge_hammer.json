@@ -2,20 +2,20 @@
   "tool": "tconstruct:sledge_hammer",
   "text": [
     {
-      "text": "The Hammer is a broad mining tool. It harvests blocks in a wide range and is effective against undead."
+      "text": "《大槌子》是大面積的挖礦工具，它能採集大範圍的方塊。\n也能有效的對抗不死生物。"
     },
     {
       "text": "\n"
     },
     {
-      "text": "It is optimal for mining out large areas and long mining trips."
+      "text": "它最適合大面積和長時間的採礦旅行。"
     }
   ],
   "properties": [
     "需要工匠鐵砧",
     "進階採礦工具",
     "3x3 AOE 採礦",
-    "Effective on stone and ores",
-    "Bonus damage against undead"
+    "對石頭和礦物有效",
+    "對不死生物有額外傷害"
   ]
 }
