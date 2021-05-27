@@ -2,11 +2,11 @@
   "modifier_id": "tconstruct:reinforced",
   "text": [
     {
-      "text": "Strengthening your tool might be less work for both of you!"
+      "text": "加強你的工具可能對你們倆來說都不太有效！"
     }
   ],
   "effects": [
-    "Chance for durability to not be consumed",
+    "有機率不消耗耐久",
     "Multiple levels, each level decreases the chance of the tool taking damage",
     "每個級別需要 1 個升級插槽"
   ]
