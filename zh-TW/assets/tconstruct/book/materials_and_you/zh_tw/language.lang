@@ -7,11 +7,11 @@ tier_one_materials=第一層材料
 
 repairing=修理
 
-bonus_upgrades=§1§升級++§r
+bonus_upgrades=§1§l升級++§r
 general=§1§l一般§r
 harvest=§1§l收穫§r
 weapon=§1§l武器§r
-slotless=§1§lSlotless§r
+weapon=§1§l無槽升級§r
 ability=§1§I能力§r
 further_reading=延伸閱讀
 terminology=術語
@@ -23,7 +23,7 @@ tool.properties=屬性:
 material.craft_partbuilder=可於部件加工台被製作
 material.craft_casting=可以從 %s 被鑄造
 
-tier_one_materials.subtext=Materials are the first part to making any tool. These materials can be placed in the part builder to create tool parts.
+tier_one_materials.subtext="材料" 是製作任何工具的第一步。 這些材料可以放置在部件加工台中以創建工具部件。
 material.tconstruct.wood.book=How much wood could a woodchuck chuck if a woodchuck could chuck wood?
 material.tconstruct.stone.book=Rock solid
 material.tconstruct.flint.book=This will spark the flames of a tinker's heart!
