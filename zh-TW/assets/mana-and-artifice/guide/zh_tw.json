@@ -113,7 +113,7 @@
 			},
 			{
 				"type": "text",
-				"value": "When viewing a recipe, in the top left you will see a pin icon.  Click this to pin a recipe to the HUD.  This recipe will show even when the codex is closed.  Click any pin on a recipe again to hide it, or click the red pin button that appears in your inventory when you have a recipe pinned."
+				"value": "在您查看製作表時，左上角會有一個圖釘符號，點擊它，可以將表釘選在旁邊，即使把古典關閉也還是會顯示。再次點擊可以取消釘選，或是按物品欄裡的紅色圖釘符號"
 			}
 		],
 		"related_recipes": [
@@ -181,15 +181,15 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "什麼是馬納維溫"
+				"value": "什麼是織魔?"
 			},
 			{
 				"type": "text",
-				"value": "Manaweaving is the process of infusing your own magic into your creations.  Spells, rituals, runes, and more can make use of it."
+				"value": "織魔是將自己的魔法注入創作的過程。 咒語、儀式、符文等等都可以利用它。"
 			},
 			{
 				"type": "text",
-				"value": "To do it, first craft a Manaweaver's Wand."
+				"value": "要做到這一點，首先製作一個織魔者之杖。"
 			},
 			{
 				"type": "item",
@@ -242,11 +242,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Automating Manaweaving"
+				"value": "自動化織魔"
 			},
 			{
 				"type": "text",
-				"value": "Manaweave automation is done by Manaweaves in a Bottle.  You can capture any drawn or projected manaweave pattern in a bottle by right clicking it.  You can then throw it like a potion or a snowball, and it will spawn the manaweave where it lands.  You can also draw/project manaweave patterns directly into a bottle sitting on a pedestal.\n\nAutomating something to place/remove the bottles and activating a projector charged by one or more mana crystals would be a good way to automate this."
+				"value": "織魔自動化是由 織魔 在瓶中完成的。  您可以按一下滑鼠右鍵來擷取瓶子中的任何已繪製或投射的 織魔 樣。  你可以把它像藥水或雪球扔出去，它會產生在地上。  您也可以 繪製/投射 織魔型樣 放入基座上的瓶子中。\n\n自動化某件事來放置/移除瓶子並啟動由一個或多個 魔力晶體所充電的投射機將是自動化這件事的好方法。"
 			}
 		],
 		"related_recipes": [
@@ -295,7 +295,7 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Manaweaver Villagers"
+				"value": "織魔師村民"
 			},
 			{
 				"type": "text",
