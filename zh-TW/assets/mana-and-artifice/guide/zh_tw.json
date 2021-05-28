@@ -68,7 +68,7 @@
 			},
 			{
 				"type": "text",
-				"value": "按一下書籍底端的搜尋標籤，來啟動搜尋視窗。 輸入您要尋找的項目，並按一下您要跳至其中的結果。"
+				"value": "按一下書籍底端的搜尋標籤，來啟動搜尋視窗。輸入您要尋找的項目，並按一下您要跳至其中的結果。"
 			},
 			{
 				"type": "image",
@@ -83,7 +83,7 @@
 			},
 			{
 				"type": "text",
-				"value": "按一下底端的返回操作標籤，來改變古籍導覽時回上一頁的方式。  支援變更為ESC、滑鼠右鍵和UI按鈕的組合。"
+				"value": "按一下底端的返回操作標籤，來改變古籍導覽時回上一頁的方式。 支援變更為ESC、滑鼠右鍵和UI按鈕的組合。"
 			},
 			{
 				"type": "image",
@@ -98,7 +98,7 @@
 			},
 			{
 				"type": "text",
-				"value": "當檢視古籍項目時，您通常會看到釘選在頁面右側的標籤。  按一下這些標籤，以查看如何製作指定的項目。"
+				"value": "當檢視古籍項目時，您通常會看到釘選在頁面右側的標籤。 按一下這些標籤，以查看如何製作指定的項目。"
 			},
 			{
 				"type": "image",
@@ -185,7 +185,7 @@
 			},
 			{
 				"type": "text",
-				"value": "織魔是將自己的魔法注入創作的過程。 咒語、儀式、符文等等都可以利用它。"
+				"value": "織魔是將自己的魔法注入創作的過程。咒語、儀式、符文等等都可以利用它。"
 			},
 			{
 				"type": "text",
@@ -208,7 +208,7 @@
 			},
 			{
 				"type": "text",
-				"value": "所需濃度會很快消耗你的法力。 但不要緊張，以免你出錯：錯誤會使你功虧一貴。\n\n一些法師聲稱在使用操縱桿時聽到了鐘聲。 雖然沒有證實，但這種情況將表明魔杖正在發揮作用。\n\n也有那些不能或不願意在空氣中繪製形狀的人。 為此，開發了織魔放映機。 把它放在地上，它會吸收你的法力（或附近的其他人）。 啟動后，它將投影幾秒你所設置的模式。"
+				"value": "所需濃度會很快消耗你的法力。但不要緊張，以免你出錯：錯誤會使你功虧一貴。\n\n一些法師聲稱在使用操縱桿時聽到了鐘聲。雖然沒有證實，但這種情況將表明魔杖正在發揮作用。\n\n也有那些不能或不願意在空氣中繪製形狀的人。為此，開發了織魔放映機。把它放在地上，它會吸收你的法力（或附近的其他人）。啟動后，它將投影幾秒你所設置的模式。"
 			},
 			{
 				"type": "image",
@@ -246,7 +246,7 @@
 			},
 			{
 				"type": "text",
-				"value": "織魔自動化是由 織魔 在瓶中完成的。  您可以按一下滑鼠右鍵來擷取瓶子中的任何已繪製或投射的 織魔 樣。  你可以把它像藥水或雪球扔出去，它會產生在地上。  您也可以 繪製/投射 織魔型樣 放入基座上的瓶子中。\n\n自動化某件事來放置/移除瓶子並啟動由一個或多個 魔力晶體所充電的放映器將是自動化這件事的好方法。"
+				"value": "織魔自動化是由在瓶中織魔完成的。您可以按一下滑鼠右鍵來擷取瓶子中的任何已繪製或投射的織魔圖樣。 你可以把它像藥水或雪球一樣扔出去，它會產生在地上。 您也可以繪製/投射織魔圖樣並放入基座上的瓶子中。\n\n自動化某件事來放置/移除瓶子並啟動由一個或多個 魔力晶體所充電的放映器將是自動化這件事的好方法。"
 			}
 		],
 		"related_recipes": [
@@ -299,7 +299,7 @@
 			},
 			{
 				"type": "text",
-				"value": "這些村民會出售 一些織魔圖紙或織魔者之杖 (圖紙用於改變 織魔放映機 上的圖案)。  織魔者的工作方塊是 織魔祭壇。  您可以在村莊中找到他們，或使用工作方塊使一般村民轉職，就像其他職業一樣。"
+				"value": "這些村民會出售一些織魔圖紙或織魔者之杖 (圖紙用於改變 織魔放映機 上的圖案)。 織魔者的工作方塊是織魔祭壇。 您可以在村莊中找到他們，或用工作方塊使一般村民轉職，就像其他職業一樣。"
 			}
 		],
 		"related_recipes": []
@@ -329,7 +329,7 @@
 			},
 			{
 				"type": "text",
-				"value": "The occulus is a block that will help guide you through this mod along with this book.  It will show you what you need to do in order to unlock new things within the mod, as well as what you currently have unlocked.\n\nTo see what you need to do in order to progress, click the progress tab."
+				"value": "奧秘之眼是一個方塊，將有助於引導你和這本書遊玩這個模組。它會向您展示您需要做什麼才能解鎖模組中的新事物，以及您當前解鎖的內容。\n\n想瞭解進度，請按進度標籤。"
 			}
 		],
 		"related_recipes": [
@@ -4624,7 +4624,7 @@
 			},
 			{
 				"type": "text",
-				"value": "對於那些不願意或無法手動繪製魔法圖案的巫師，他們可以製作一個織魔放映機。 放置於地上後，他會從2個方塊距離內的玩家，吸收魔力。 總共可以吸收100魔力。  \n\n當魔力滿載時啟動，它將會放映出型樣。 使用織魔圖樣啟動將更改放映的模式。"
+				"value": "對於那些不願意或無法手動繪製魔法圖案的巫師，他們可以製作一個織魔放映機。放置於地上後，他會從2個方塊距離內的玩家，吸收魔力。總共可以吸收100魔力。 \n\n當魔力滿載時啟動，它將會放映出型樣。 使用織魔圖樣啟動將更改放映的模式。"
 			}
 		],
 		"related_recipes": [
@@ -4659,7 +4659,7 @@
 			},
 			{
 				"type": "text",
-				"value": "某些絲綢可以藉由織魔祭壇，結合正確的成分來創造。 這些絲綢可用於其他製作。"
+				"value": "某些絲綢可以藉由織魔祭壇，結合正確的成分來創造。這些絲綢可用於其他製作。"
 			}
 		],
 		"related_recipes": [
@@ -6258,11 +6258,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Improvised Manaweaving Wands"
+				"value": "即興織魔者之杖"
 			},
 			{
 				"type": "text",
-				"value": "If I'm ever in a pinch, I'm pretty sure I can fashion a simple improvised manaweaver's wand using something as a rod and either a magical flower or chimerite.  This should allow me to do any emergency manaweaves, but likely will break after more than a few uses.  However, I can probably get a cantrip or two out of it before it breaks, and that might make all the difference."
+				"value": "在緊要關頭中，我很確定我可以用一根桿子和神奇的花朵或嵌合體製成一個簡單的即興織魔者之杖。這應該允許我進行任何緊急操作，但在多次使用後可能會破裂。不過，在壞掉之前，我也許能夠先取出一兩個，這會使情況有所改變。"
 			}
 		],
 		"related_recipes": [
