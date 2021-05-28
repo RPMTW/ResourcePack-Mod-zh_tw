@@ -2,7 +2,6 @@
     "_______comment": "DO NOT TRANSLATE COMMENTARIES",
     "building itemGroup": "BUILDING BLOCKS",
     "block.cavesandcliffs.powder_snow": "Powder Snow",
-    "block.cavesandcliffs.slate": "板岩",
     "block.cavesandcliffs.calcite": "Calcite",
     "block.cavesandcliffs.tuff": "Tuff",
     "block.cavesandcliffs.copper_ore": "銅礦石",
@@ -117,8 +116,10 @@
     "item.cavesandcliffs.raw_copper": "Raw Copper",
     "item.cavesandcliffs.raw_gold": "Raw Gold",
     "item.cavesandcliffs.raw_iron": "Raw Iron",
+    "item.cavesandcliffs.axolotl_bucket": "Bucket of Axolotl",
     "item.cavesandcliffs.glow_squid_spawn_egg": "發光魷魚 生怪蛋",
     "item.cavesandcliffs.goat_spawn_egg": "Goat Spawn Egg",
+    "item.cavesandcliffs.axolotl_spawn_egg": "Axolotl Spawn Egg",
     "food itemGroup": "FOODSTUFFS",
     "item.cavesandcliffs.glow_berries": "Glow Berries",
     "tools itemGroup": "TOOLS",
@@ -126,9 +127,9 @@
     "entities": "ENTITIES",
     "entity.cavesandcliffs.glow_squid": "發光魷魚",
     "entity.cavesandcliffs.goat": "山羊",
+    "entity.cavesandcliffs.axolotl": "Axolotl",
     "biomes": "BIOMES",
-    "biome.cavesandcliffs.caves": "洞穴",
     "biome.cavesandcliffs.lush_caves": "Lush Caves",
     "biome.cavesandcliffs.dripstone_caves": "Dripstone Caves",
-    "biome.cavesandcliffs.deep_dark_caves": "Deep Dark Caves"
+    "generator.cavesandcliffs.caves_and_cliffs": "Caves And Cliffs"
 }
