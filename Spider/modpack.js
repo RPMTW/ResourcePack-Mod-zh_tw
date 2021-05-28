@@ -37,7 +37,8 @@ for (let k = 0; k < 1; k++) {
             let slug, fileID, fileName;
             curseforge.getModFiles(ModList[i].projectID).then((files) => {
                 for (let i = 0; i < files.length; i++) {
-                    if (files[i].minecraft_versions.includes(config.ver) || files[i].minecraft_versions.includes(config.version) || files[i].minecraft_versions.includes(config.version_Snapshot)) {
+                    let data = files[i].minecraft_versions;
+                    if (data.includes(config.ver) || data.includes("1.16.4") || data.includes("1.16.3") || data.includes("1.16.2") || data.includes("1.16.1")|| data.includes("1.16")) {
                         fileID = String(files[i].id);
                         fileName = String(files[i].download_url.split("https://edge.forgecdn.net/files/")[1].split(`${fileID.substr(0, 4)}/${fileID.substr(4, 7)}/`)[1]);
                         if (fileName === "undefined"){
