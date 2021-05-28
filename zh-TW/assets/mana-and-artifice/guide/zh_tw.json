@@ -6567,7 +6567,7 @@
 			},
 			{
 				"type": "title",
-				"value": "Basic Commands",
+				"value": "基本命令",
 				"newPage": true
 			},
 			{
@@ -6641,7 +6641,7 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Construct Intelligence"
+				"value": "建構智慧"
 			},
 			{
 				"type": "text",
@@ -6655,7 +6655,7 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Construct Diagnostics"
+				"value": "建構診斷"
 			},
 			{
 				"type": "text",
@@ -6676,7 +6676,7 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Command: Take Item"
+				"value": "指令：拿取物品"
 			},
 			{
 				"type": "text",
@@ -6691,7 +6691,7 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Command: Wait"
+				"value": "指令：等待"
 			},
 			{
 				"type": "text",
@@ -6706,7 +6706,7 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Command: Place Item"
+				"value": "指令：放置物品"
 			},
 			{
 				"type": "text",
@@ -6721,7 +6721,7 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Command: Runescribe"
+				"value": "指令：運行"
 			},
 			{
 				"type": "text",
@@ -6751,7 +6751,7 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Command: Harvest"
+				"value": "指令：收穫"
 			},
 			{
 				"type": "text",
@@ -6781,7 +6781,7 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Command: Activate"
+				"value": "指令：啟動"
 			},
 			{
 				"type": "text",
@@ -6796,7 +6796,7 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Command: Move"
+				"value": "指令：移動"
 			},
 			{
 				"type": "text",
@@ -6811,7 +6811,7 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Command: Drop Item"
+				"value": "指令：丟棄項目"
 			},
 			{
 				"type": "text",
@@ -6826,7 +6826,7 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Command: Patrol"
+				"value": "指令：巡邏"
 			},
 			{
 				"type": "text",
@@ -6886,7 +6886,7 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Command: Place Block"
+				"value": "指令：放置方塊"
 			},
 			{
 				"type": "text",
@@ -6901,7 +6901,7 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Command: Chop Trees"
+				"value": "指令：砍樹"
 			},
 			{
 				"type": "text",
@@ -7228,7 +7228,7 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Construct Hammer Arms"
+				"value": "建構鎚子手臂"
 			},
 			{
 				"type": "text",
@@ -7282,7 +7282,7 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Construct Basic Torso"
+				"value": "建構基本軀幹"
 			},
 			{
 				"type": "text",
@@ -7317,7 +7317,7 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Construct Armor Torso"
+				"value": "建構裝甲軀幹"
 			},
 			{
 				"type": "text",
@@ -7325,27 +7325,27 @@
 			},
 			{
 				"type": "text",
-				"value": "Wood: 3 armor, 0 toughness"
+				"value": "木： 3 裝甲， 0 韌性"
 			},
 			{
 				"type": "text",
-				"value": "Stone: 5 armor, 0 toughness"
+				"value": "石頭： 5 裝甲， 0 韌性"
 			},
 			{
 				"type": "text",
-				"value": "Iron: 6 armor, 0 toughness"
+				"value": "鐵： 6 裝甲， 0 韌性"
 			},
 			{
 				"type": "text",
-				"value": "Gold: 7 armor, 0 toughness"
+				"value": "金： 7 裝甲， 0 韌性"
 			},
 			{
 				"type": "text",
-				"value": "Diamond: 8 armor, 2 toughness"
+				"value": "鑽石： 8 裝甲， 2 韌性"
 			},
 			{
 				"type": "text",
-				"value": "Obsidian: 8 armor, 3 toughness"
+				"value": "黑曜石： 8 裝甲， 3 韌性"
 			}
 		],
 		"related_recipes": [
@@ -7388,7 +7388,7 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Construct Mana Torso"
+				"value": "建造魔力軀幹"
 			},
 			{
 				"type": "text",
@@ -7396,27 +7396,27 @@
 			},
 			{
 				"type": "text",
-				"value": "Wood: 50 mana"
+				"value": "木頭： 50 法力"
 			},
 			{
 				"type": "text",
-				"value": "Stone: 75 mana"
+				"value": "石頭： 75 法力"
 			},
 			{
 				"type": "text",
-				"value": "Iron: 100 mana"
+				"value": "鐵：100 法力"
 			},
 			{
 				"type": "text",
-				"value": "Gold: 400 mana"
+				"value": "黃金： 400 法力"
 			},
 			{
 				"type": "text",
-				"value": "Diamond: 200 mana"
+				"value": "鑽石：200 法力"
 			},
 			{
 				"type": "text",
-				"value": "Obsidian: 150 mana"
+				"value": "黑曜石：150 法力"
 			}
 		],
 		"related_recipes": [
@@ -7677,7 +7677,7 @@
 			},
 			{
 				"type": "text",
-				"value": "Wood: 8\nStone: 12\nIron: 16\nObsidian: 20\nGold: 30\nDiamond: 50"
+				"value": "木： 8\n石： 12\n鐵： 16\n黑曜石： 20\n黃金： 30\n鑽石： 50"
 			}
 		],
 		"related_recipes": [
