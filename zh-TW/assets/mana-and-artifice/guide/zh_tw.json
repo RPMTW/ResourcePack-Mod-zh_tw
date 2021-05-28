@@ -15,7 +15,7 @@
 			},
 			{
 				"type": "title",
-				"value": "頁"
+				"value": "頁面"
 			},
 			{
 				"type": "text",
@@ -23,7 +23,7 @@
 			},
 			{
 				"type": "text",
-				"value": "此書有著這模組的指南。它包含每一個秘方，機械，零件，以及如何製造它們。\n\n它旨在與Occulus配對，Occulus是一個塊，向您顯示現行層級中已解除鎖定的內容，並告訴您需要進行哪些操作才能進行升級。用它作為您解鎖“階段”的指南，本書作為“方法”的指南。\n\n古籍只會顯示您在現行層級中已解除鎖定的項目。"
+				"value": "此書有著這模組的指南。它包含每一個秘方，機械，零件，以及如何製造它們。\n\n它旨在與奧秘之眼配對，奧秘之眼是一個方塊，向您顯示現行層級中已解除鎖定的內容，並告訴您需要進行哪些操作才能進行升級。用它作為您解鎖“階段”的指南，本書作為“方法”的指南。\n\n古籍只會顯示您在現行層級中已解除鎖定的項目。"
 			},
 			{
 				"type": "image",
@@ -79,11 +79,11 @@
 			},
 			{
 				"type": "title",
-				"value": "Back Behaviour"
+				"value": "返回操作設定"
 			},
 			{
 				"type": "text",
-				"value": "Click the back behaviour tab at the bottom of this UI to change how you navigate through this codex.  There is support for changing back to a combination of escape, right mouse, and the UI buttons."
+				"value": "按一下底端的返回操作標籤，來改變古籍導覽時回上一頁的方式。  支援變更為ESC、滑鼠右鍵和UI按鈕的組合。"
 			},
 			{
 				"type": "image",
@@ -98,7 +98,7 @@
 			},
 			{
 				"type": "text",
-				"value": "When viewing a codex entry, you will often see recipes pinned to the right of the page in blue tabs.  Click these to see how to make the given item."
+				"value": "當檢視古籍項目時，您通常會看到釘選在頁面右側的標籤。  按一下這些標籤，以查看如何製作指定的項目。"
 			},
 			{
 				"type": "image",
