@@ -789,7 +789,7 @@
 			},
 			{
 				"type": "text",
-				"value": "The manaweaving altar helps combine ingredients and manaweaving symbols over a pool of enchanted water."
+				"value": "織魔祭壇能夠在魔法水池上混合成分和編織符號。"
 			}
 		],
 		"related_recipes": [
@@ -4624,7 +4624,7 @@
 			},
 			{
 				"type": "text",
-				"value": "For those wizards that are either unwilling or unable to draw manaweave patterns manually, they can craft a manaweave projector.  These devices, when placed, will draw mana from players within 2 blocks.  When full, it will have drawn in 100 mana.  \n\nActivating the block when full will cause it to emit the current pattern.  Activating the block with a manaweave pattern recipe scrap will change the pattern that is emitted."
+				"value": "對於那些不願意或無法手動繪製魔法圖案的巫師，他們可以製作一個織魔放映機。 放置於地上後，他會從2個方塊距離內的玩家，吸收魔力。 總共可以吸收100魔力。  \n\n當魔力滿載時啟動，它將會放映出型樣。 使用織魔圖樣啟動將更改放映的模式。"
 			}
 		],
 		"related_recipes": [
@@ -4655,11 +4655,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Manaweaving Silks"
+				"value": "織魔絲綢"
 			},
 			{
 				"type": "text",
-				"value": "Certain silks can be created by combining the right ingredients at a manaweaving altar.  These silks are used in other crafting recipes."
+				"value": "某些絲綢可以藉由織魔祭壇，結合正確的成分來創造。 這些絲綢可用於其他製作。"
 			}
 		],
 		"related_recipes": [
