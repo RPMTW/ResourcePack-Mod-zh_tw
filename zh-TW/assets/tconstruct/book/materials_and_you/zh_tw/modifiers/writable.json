@@ -2,11 +2,11 @@
   "modifier_id": "tconstruct:writable",
   "text": [
     {
-      "text": "As words flow through your head, your tool feels as if it could learn a little more as well. Perhaps you could also write with your tool."
+      "text": "當單詞流過你的腦袋時，你的工具感覺好像也能學到更多。也許你也可以用你的工具寫。"
     }
   ],
   "effects": [
-    "Adds an upgrade slot",
-    "一次性使用"
+    "添加升級插槽",
+    "不可重複升級"
   ]
 }
