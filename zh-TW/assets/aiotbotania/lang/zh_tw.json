@@ -1,6 +1,6 @@
 {
     "itemGroup.aiotbotania": "植物魔法全能工具",
-    "aiotbotania.mythicbotany.disabled": "Please install MythicBotany!",
+    "aiotbotania.mythicbotany.disabled": "請安裝神話植物學(MythicBotany)！",
     "aiotbotania.toggleMode": "§6模式：",
     "aiotbotania.hoeMode": "§3耕作泥土",
     "aiotbotania.hoeModePath": "§3耕作泥土和建立草徑",
@@ -45,10 +45,10 @@
     "botania.page.livingrockTools5": "$(1)活石剪刀$(0)",
     "botania.page.livingrockTools6": "$(1)活石鋤$(0)",
     "botania.page.livingrockTools7": "$(1)活石全能工具$(0)",
-    "botania.page.manaGear11": "Because $(2)AIOT Botania$(0) is installed there is one more item. The Botania $(1)Hoe$(0) can convert Farmland back to dirt additionally.<br>The $(1)AIOT$(0) is like a fusion out of $(1)Manasteel Sword$(0), $(1)Pickaxe$(0), $(1)Axe$(0), $(1)Shovel$(0) and $(1)Hoe$(0) and combines all of their features.",
-    "botania.page.manaGear12": "The $(1)Manasteel AIOT$(0)",
+    "botania.page.manaGear11": "由於安裝了 $(2)植物魔法全能工具$(0)，因此會有多一件物品。植物魔法$(1)鋤$(0)可以將耕地變回泥土。<br>$(1)全能工具$(0)是$(1)魔鋼劍$(0)，$(1)鎬$(0)，$(1)斧$(0)，$(1)鏟$(0)和$(1)鋤$(0)的融合，全能工具結合了它們所有的特性。",
+    "botania.page.manaGear12": "$(1)魔鋼全能工具$(0)",
     "botania.page.elfGear10": "最後，$(1)源質鋼劍$(0)會增加攻擊時 $(4)小精靈$(0)生成的機率（即使沒有 裝備$(1)源質鋼護甲$(0)也會生成）並 增強生成的$(4)小精靈$(0)。",
-    "botania.page.elfGear16": "The $(1)Elementium Hoe$(0) by Botania now tills a dirt block or something similar into a farmland block which doesn't break by jumping on it. With this farmland you don't need water nearby, the block is wet everytime. This farmland increases the growth speed of crops. When right-clicking on farmland the farmland converts back to grass.",
-    "botania.page.elfGear17": "Lastly, the $(1)Elementium AIOT$(0) fusions all the special effects of the other $(1)Elementium$(0) tools. <br>Because you can place $(4)saplings$(0) and $(4)torches$(0) with axe and pickaxe, there is a mode which can be toggled by $(4)shift-right clicking$(0). One mode is for tilling and create grass paths, the other mode is for placing saplings and torches.",
-    "botania.page.elfGear18": "The $(1)Elementium AIOT$(0)"
+    "botania.page.elfGear16": "現在植物魔法的$(1)源質鋼鋤$(0)耕一塊泥土或其他類似方塊時，會將其變成不會因跳躍而退化的耕地。有了這個耕地，你不需要將水放置於耕地附近，因為耕地永遠會是濕潤的。右鍵點擊耕地時，它會變回泥土。",
+    "botania.page.elfGear17": "最後，$(1)源質鋼全能工具$(0)融合了其他$(1)源質鋼$(0)工具的所有特殊效果。<br>由於你可以使用斧和鎬放置$(4)樹苗$(0)和$(4)火把$(0)，因此可以透過$(4)shift-右鍵點擊$(0)切換功能。一種模式是耕地和創造草徑，另一種模式是放置樹苗和火把。",
+    "botania.page.elfGear18": "$(1)源質鋼全能工具$(0)"
 }

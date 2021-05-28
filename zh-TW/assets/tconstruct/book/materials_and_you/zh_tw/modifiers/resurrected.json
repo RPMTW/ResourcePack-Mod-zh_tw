@@ -2,11 +2,11 @@
   "modifier_id": "tconstruct:resurrected",
   "text": [
     {
-      "text": "The life of the dragon flows through your tool. Well, it would if you used these to summon it. Instead you used it on your tool."
+      "text": "龍的生命流過你的工具。好吧，如果你用這些來召喚它相反，您將其用於工具。"
     }
   ],
   "effects": [
-    "Brings back 1 upgrade slot",
-    "一次性使用"
+    "復原1個升級插槽",
+    "不可重複升級"
   ]
 }

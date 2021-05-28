@@ -2,13 +2,13 @@
   "modifier_id": "tconstruct:worldbound",
   "text": [
     {
-      "text": "Fire is no longer your enemy, your tool feels comfortable with the world around it."
+      "text": "火不再是你的敵人，你的工具在周圍的世界感覺很舒服。"
     }
   ],
   "effects": [
-    "Crude version of netherite",
-    "Grants immunity to external damage but no strength increase",
-    "一次性使用",
-    "Requires no slot"
+    "弱化版的獄髓",
+    "只能免於受到外來的火焰損傷， 但並無額外提高強度。",
+    "不可重複升級",
+    "不需要插槽"
   ]
 }

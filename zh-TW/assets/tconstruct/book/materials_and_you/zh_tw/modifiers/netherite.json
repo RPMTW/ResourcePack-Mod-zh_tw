@@ -2,13 +2,13 @@
   "modifier_id": "tconstruct:netherite",
   "text": [
     {
-      "text": "The strength of the nether flows intensely through your tool."
+      "text": "下界的力量通過您的工具而發出強烈擾動。"
     }
   ],
   "effects": [
-    "Boosts durability, attack damage, mining speed, and makes it immune to external damage such as fire and lava",
-    "Requires Diamond or Emerald to be applied",
-    "一次性使用",
+    "提高耐久性、攻擊傷害、採礦速度，使其免受外部損壞，如火焰和熔岩",
+    "需要套用鑽石或綠寶石",
+    "不可重複升級",
     "需要1個升級插槽"
   ]
 }

@@ -1,11 +1,11 @@
 {
-    "config.dynamicfps.title": "Configure Dynamic FPS",
+    "config.dynamicfps.title": "設定 動態 FPS",
     "config.dynamicfps.category.general": "一般",
-    "config.dynamicfps.reduce_when_unfocused": "Reduce FPS when unfocused",
-    "config.dynamicfps.unfocused_fps": "Unfocused FPS target",
-    "config.dynamicfps.restore_when_hovered": "Restore FPS when hovered",
-    "key.dynamicfps.toggle_forced": "Force Reduced FPS (Toggle)",
-    "key.dynamicfps.toggle_disabled": "Disable Dynamic FPS (Toggle)",
-    "gui.dynamicfps.hud.reducing": "Dynamic FPS: Forcing Reduced FPS",
-    "gui.dynamicfps.hud.disabled": "Dynamic FPS Disabled"
+    "config.dynamicfps.reduce_when_unfocused": "未聚焦時減少 FPS",
+    "config.dynamicfps.unfocused_fps": "未聚焦的 FPS 目標",
+    "config.dynamicfps.restore_when_hovered": "懸停時恢復 FPS",
+    "key.dynamicfps.toggle_forced": "強制減少 FPS （切換）",
+    "key.dynamicfps.toggle_disabled": "關閉動態 FPS （切換）",
+    "gui.dynamicfps.hud.reducing": "動態 FPS：強制減少 FPS",
+    "gui.dynamicfps.hud.disabled": "停用 動態 FPS"
 }
