@@ -1,0 +1,16 @@
+{
+    "itemGroup.packages.group": "Packages",
+    "block.packages.package_maker": "Package Crafter",
+    "block.packages.package": "Package",
+    "block.packages.package.nonempty": "%s - %sx %s",
+    "packages.style_tooltip.frame": "%s Frame",
+    "packages.style_tooltip.inner": "%s Core",
+    "packages.style_tooltip.both": "%s Frame and Core",
+    "packages.style_tooltip.color": "%s Color",
+    "packages.contents_tooltip": "%sx %s",
+    "packages.contents_tooltip.empty": "空",
+    "packages.package_maker.frame": "框架",
+    "packages.package_maker.inner": "核心",
+    "packages.package_maker.dye": "Color",
+    "packages.package_maker.craft_button": "新建"
+}
