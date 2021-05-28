@@ -119,7 +119,7 @@
 		"related_recipes": [
 			{
 				"location": "mana-and-artifice:occulus",
-				"type": "合成"
+				"type": "crafting"
 			}
 		]
 	},
@@ -192,7 +192,7 @@
 				"value": "To do it, first craft a Manaweaver's Wand."
 			},
 			{
-				"type": "物品",
+				"type": "item",
 				"location": "mana-and-artifice:manaweaver_wand",
 				"scale": 1
 			},
@@ -220,19 +220,19 @@
 		"related_recipes": [
 			{
 				"location": "mana-and-artifice:manaweaver_wand",
-				"type": "合成"
+				"type": "crafting"
 			},
 			{
-				"type": "合成",
+				"type": "crafting",
 				"location": "mana-and-artifice:improvised_manaweaver_wand"
 			},
 			{
 				"location": "mana-and-artifice:manaweaving_altar",
-				"type": "合成"
+				"type": "crafting"
 			},
 			{
 				"location": "mana-and-artifice:manaweave_projector",
-				"type": "合成"
+				"type": "crafting"
 			}
 		]
 	},
@@ -252,18 +252,18 @@
 		"related_recipes": [
 			{
 				"location": "mana-and-artifice:manaweaver_wand",
-				"type": "合成"
+				"type": "crafting"
 			},
 			{
 				"location": "mana-and-artifice:manaweave_projector",
-				"type": "合成"
+				"type": "crafting"
 			},
 			{
-				"type": "合成",
+				"type": "crafting",
 				"location": "mana-and-artifice:runeforging/stone_pedestal"
 			},
 			{
-				"type": "合成",
+				"type": "crafting",
 				"location": "minecraft:glass_bottle"
 			}
 		]
@@ -335,7 +335,7 @@
 		"related_recipes": [
 			{
 				"location": "mana-and-artifice:occulus",
-				"type": "合成"
+				"type": "crafting"
 			}
 		]
 	},
@@ -359,7 +359,7 @@
 		"related_recipes": [
 			{
 				"location": "mana-and-artifice:runeforge",
-				"type": "合成"
+				"type": "crafting"
 			}
 		]
 	},
@@ -400,11 +400,11 @@
 		],
 		"related_recipes": [
 			{
-				"type": "合成",
+				"type": "crafting",
 				"location": "mana-and-artifice:runeforging/stone_pedestal"
 			},
 			{
-				"type": "合成",
+				"type": "crafting",
 				"locations": [
 					"mana-and-artifice:chimerite_crystals/crystal_orange",
 					"mana-and-artifice:chimerite_crystals/crystal_red",
@@ -481,7 +481,7 @@
 				"value": "I'm not sure what causes this seemingly coalesced arcane energy to gather in certain stones underground."
 			},
 			{
-				"type": "物品",
+				"type": "item",
 				"location": "mana-and-artifice:vinteum_ore",
 				"scale": 1
 			},
@@ -612,7 +612,7 @@
 				"newPage": true
 			},
 			{
-				"type": "物品",
+				"type": "item",
 				"location": "mana-and-artifice:aum",
 				"scale": 1
 			},
@@ -626,7 +626,7 @@
 				"newPage": true
 			},
 			{
-				"type": "物品",
+				"type": "item",
 				"location": "mana-and-artifice:cerublossom",
 				"scale": 1
 			},
@@ -640,7 +640,7 @@
 				"newPage": true
 			},
 			{
-				"type": "物品",
+				"type": "item",
 				"location": "mana-and-artifice:tarma_root",
 				"scale": 1
 			},
@@ -654,7 +654,7 @@
 				"newPage": true
 			},
 			{
-				"type": "物品",
+				"type": "item",
 				"location": "mana-and-artifice:desert_nova",
 				"scale": 1
 			},
@@ -668,7 +668,7 @@
 				"newPage": true
 			},
 			{
-				"type": "物品",
+				"type": "item",
 				"location": "mana-and-artifice:wakebloom",
 				"scale": 1
 			},
@@ -680,7 +680,7 @@
 		"related_recipes": [
 			{
 				"location": "mana-and-artifice:tarma_root_to_brown_dye",
-				"type": "合成"
+				"type": "crafting"
 			}
 		]
 	},
@@ -795,21 +795,21 @@
 		"related_recipes": [
 			{
 				"location": "mana-and-artifice:manaweaver_wand",
-				"type": "合成"
+				"type": "crafting"
 			},
 			{
-				"type": "合成",
+				"type": "crafting",
 				"location": "mana-and-artifice:improvised_manaweaver_wand"
 			},
 			{
 				"location": "mana-and-artifice:manaweaving_altar",
-				"type": "合成"
+				"type": "crafting"
 			}
 		]
 	},
 	"Ritual Foci": {
 		"category": "sorcery",
-		"index": -98,
+		"index": 3,
 		"sections": [
 			{
 				"type": "title",
@@ -822,7 +822,7 @@
 		],
 		"related_recipes": [
 			{
-				"type": "合成",
+				"type": "crafting",
 				"location": "mana-and-artifice:ritual_focus_minor"
 			},
 			{
@@ -851,26 +851,26 @@
 		],
 		"related_recipes": [
 			{
-				"type": "合成",
+				"type": "crafting",
 				"location": "mana-and-artifice:rune_clay_plate"
 			},
 			{
-				"type": "合成",
+				"type": "crafting",
 				"location": "mana-and-artifice:runescribing/runescribing_table"
 			},
 			{
-				"type": "合成",
+				"type": "crafting",
 				"location": "mana-and-artifice:runeforging/runesmith_hammer"
 			},
 			{
-				"type": "合成",
+				"type": "crafting",
 				"location": "mana-and-artifice:runescribing/runesmith_chisel"
 			}
 		]
 	},
 	"Step 2: Runeforging": {
 		"category": "runesmithing",
-		"index": -99,
+		"index": -98,
 		"tier": 2,
 		"sections": [
 			{
@@ -902,18 +902,18 @@
 				"location": "mana-and-artifice:arcanefurnace/superheated_purified_vinteum_ingot"
 			},
 			{
-				"type": "合成",
+				"type": "crafting",
 				"location": "mana-and-artifice:runeforge"
 			},
 			{
-				"type": "合成",
+				"type": "crafting",
 				"location": "mana-and-artifice:runeforging/runic_anvil"
 			}
 		]
 	},
 	"Step 2a: Charcoal Patterns": {
 		"category": "runesmithing",
-		"index": -98,
+		"index": -99,
 		"tier": 2,
 		"sections": [
 			{
@@ -927,7 +927,7 @@
 		],
 		"related_recipes": [
 			{
-				"type": "合成",
+				"type": "crafting",
 				"location": "mana-and-artifice:runeforging/runic_anvil"
 			}
 		]
@@ -955,7 +955,7 @@
 				"location": "mana-and-artifice:arcanefurnace/superheated_purified_vinteum_ingot"
 			},
 			{
-				"type": "合成",
+				"type": "crafting",
 				"location": "mana-and-artifice:runeforge"
 			}
 		]
@@ -976,7 +976,7 @@
 		],
 		"related_recipes": [
 			{
-				"type": "合成",
+				"type": "crafting",
 				"location": "mana-and-artifice:purified_vinteum_coated_iron"
 			},
 			{
@@ -1156,19 +1156,19 @@
 		],
 		"related_recipes": [
 			{
-				"type": "合成",
+				"type": "crafting",
 				"location": "mana-and-artifice:manaweaver_wand"
 			},
 			{
-				"type": "合成",
+				"type": "crafting",
 				"location": "mana-and-artifice:manaweaving_altar"
 			},
 			{
-				"type": "合成",
+				"type": "crafting",
 				"location": "mana-and-artifice:runescribing_table"
 			},
 			{
-				"type": "合成",
+				"type": "crafting",
 				"location": "mana-and-artifice:runic_anvil"
 			}
 		]
@@ -2528,7 +2528,7 @@
 		]
 	},
 	"Casting Spells": {
-		"index": -98,
+		"index": -96,
 		"category": "sorcery",
 		"sections": [
 			{
@@ -2557,7 +2557,7 @@
 		],
 		"related_recipes": [
 			{
-				"type": "合成",
+				"type": "crafting",
 				"location": "mana-and-artifice:spell_book"
 			}
 		]
@@ -2619,15 +2619,15 @@
 		],
 		"related_recipes": [
 			{
-				"type": "合成",
+				"type": "crafting",
 				"location": "mana-and-artifice:inscription_table"
 			},
 			{
-				"type": "合成",
+				"type": "crafting",
 				"location": "mana-and-artifice:arcanist_ink"
 			},
 			{
-				"type": "合成",
+				"type": "crafting",
 				"location": "mana-and-artifice:arcane_compound"
 			},
 			{
@@ -2651,7 +2651,7 @@
 		],
 		"related_recipes": [
 			{
-				"type": "合成",
+				"type": "crafting",
 				"location": "mana-and-artifice:inscription_table"
 			},
 			{
@@ -2731,7 +2731,7 @@
 				"location": "mana-and-artifice:manaweaving/mana_crystal"
 			},
 			{
-				"type": "合成",
+				"type": "crafting",
 				"location": "mana-and-artifice:runeforging/stone_pedestal"
 			}
 		]
@@ -4132,23 +4132,23 @@
 		],
 		"related_recipes": [
 			{
-				"type": "合成",
+				"type": "crafting",
 				"location": "mana-and-artifice:wizard_chalk"
 			},
 			{
-				"type": "合成",
+				"type": "crafting",
 				"location": "mana-and-artifice:purified_vinteum_dust"
 			},
 			{
-				"type": "合成",
+				"type": "crafting",
 				"location": "mana-and-artifice:manaweaver_wand"
 			},
 			{
-				"type": "合成",
+				"type": "crafting",
 				"location": "mana-and-artifice:improvised_manaweaver_wand"
 			},
 			{
-				"type": "合成",
+				"type": "crafting",
 				"location": "mana-and-artifice:manaweave_projector"
 			}
 		]
@@ -4256,11 +4256,11 @@
 				"location": "mana-and-artifice:rituals/arcana"
 			},
 			{
-				"type": "合成",
+				"type": "crafting",
 				"location": "mana-and-artifice:inscription_table"
 			},
 			{
-				"type": "合成",
+				"type": "crafting",
 				"location": "mana-and-artifice:ritual_focus_minor"
 			},
 			{
@@ -4560,7 +4560,7 @@
 		],
 		"related_recipes": [
 			{
-				"type": "合成",
+				"type": "crafting",
 				"location": "mana-and-artifice:rituals/ritual_kit"
 			}
 		]
@@ -4581,11 +4581,11 @@
 		],
 		"related_recipes": [
 			{
-				"type": "合成",
+				"type": "crafting",
 				"location": "mana-and-artifice:runescribing/runescribing_table"
 			},
 			{
-				"type": "合成",
+				"type": "crafting",
 				"location": "mana-and-artifice:rune_clay_plate"
 			},
 			{
@@ -4609,7 +4609,7 @@
 		],
 		"related_recipes": [
 			{
-				"type": "合成",
+				"type": "crafting",
 				"location": "mana-and-artifice:mana_resevoir"
 			}
 		]
@@ -4629,7 +4629,7 @@
 		],
 		"related_recipes": [
 			{
-				"type": "合成",
+				"type": "crafting",
 				"location": "mana-and-artifice:manaweave_projector"
 			}
 		]
@@ -4688,15 +4688,15 @@
 		],
 		"related_recipes": [
 			{
-				"type": "合成",
+				"type": "crafting",
 				"location": "mana-and-artifice:stone_runes/rune_blank"
 			},
 			{
-				"type": "合成",
+				"type": "crafting",
 				"location": "mana-and-artifice:stone_runes/rune_bag"
 			},
 			{
-				"type": "合成",
+				"type": "crafting",
 				"locations": [
 					"mana-and-artifice:stone_runes/rune_black",
 					"mana-and-artifice:stone_runes/rune_brown",
@@ -4705,14 +4705,14 @@
 					"mana-and-artifice:stone_runes/rune_gray",
 					"mana-and-artifice:stone_runes/rune_green",
 					"mana-and-artifice:stone_runes/rune_light_blue",
-					"mana-and-artifice:stone_runes/rune_light_gray",
+					"mana-and-artifice:stone_runes/rune_light_blue",
 					"mana-and-artifice:stone_runes/rune_lime",
 					"mana-and-artifice:stone_runes/rune_magenta",
 					"mana-and-artifice:stone_runes/rune_orange",
 					"mana-and-artifice:stone_runes/rune_pink",
 					"mana-and-artifice:stone_runes/rune_purple",
 					"mana-and-artifice:stone_runes/rune_red",
-					"mana-and-artifice:stone_runes/rune_white",
+					"mana-and-artifice:stone_runes/rune_red",
 					"mana-and-artifice:stone_runes/rune_yellow"
 				]
 			}
@@ -5025,19 +5025,19 @@
 		],
 		"related_recipes": [
 			{
-				"type": "合成",
+				"type": "crafting",
 				"location": "mana-and-artifice:staff_a"
 			},
 			{
-				"type": "合成",
+				"type": "crafting",
 				"location": "mana-and-artifice:staff_b"
 			},
 			{
-				"type": "合成",
+				"type": "crafting",
 				"location": "mana-and-artifice:staff_c"
 			},
 			{
-				"type": "合成",
+				"type": "crafting",
 				"location": "mana-and-artifice:wand_a"
 			},
 			{
@@ -5221,7 +5221,7 @@
 				"location": "mana-and-artifice:runeforging/armor/vinteum_needle"
 			},
 			{
-				"type": "合成",
+				"type": "crafting",
 				"location": "mana-and-artifice:sorcerous_sewing_set"
 			}
 		]
@@ -5314,7 +5314,7 @@
 		],
 		"related_recipes": [
 			{
-				"type": "合成",
+				"type": "crafting",
 				"location": "mana-and-artifice:rune_clay_plate"
 			},
 			{
@@ -5407,7 +5407,7 @@
 		"related_recipes": [
 			{
 				"type": "manaweaving_altar",
-				"location": "mana-and-artifice:manaweaving/artifice/antidote_bracelet"
+				"location": "mana-and-artifice:manaweaving/sight_unguent"
 			}
 		]
 	},
@@ -5475,7 +5475,7 @@
 			},
 			{
 				"type": "runesmithing",
-				"location": "mana-and-artifice:runeforging/artifice/runeforge_mundane_amulet"
+				"location": "mana-and-artifice:runescribing/artifice/mundane_amulet_pattern"
 			}
 		]
 	},
@@ -5719,7 +5719,7 @@
 			},
 			{
 				"type": "manaweaving_altar",
-				"location": "mana-and-artifice:manaweaving/artifice/fortune_ring"
+				"location": "mana-and-artifice:manaweaving/artifice/fortune_ring_minor"
 			},
 			{
 				"type": "manaweaving_altar",
@@ -5891,11 +5891,11 @@
 		],
 		"related_recipes": [
 			{
-				"type": "合成",
+				"type": "crafting",
 				"location": "mana-and-artifice:runeforging/runic_anvil"
 			},
 			{
-				"type": "合成",
+				"type": "crafting",
 				"location": "mana-and-artifice:runeforging/runesmith_hammer"
 			}
 		]
@@ -6107,7 +6107,7 @@
 				"value": "This very powerful magic allows a mage to mark out an area using special runes of marking, then perform the ritual close to the marked location, within about 16m or so of either of the marked points.  The magic will stream out of the ritual and carve out the marked location, destroying trees, plants, dirt, rocks, ores, and more.\n\nEach of the two Runes of Marking marks the opposite corners of a cube to target."
 			},
 			{
-				"type": "物品",
+				"type": "item",
 				"location": "mana-and-artifice:rune_marking",
 				"scale": 1
 			},
@@ -6167,7 +6167,7 @@
 		],
 		"related_recipes": [
 			{
-				"type": "合成",
+				"type": "crafting",
 				"location": "minecraft:gray_wool"
 			},
 			{
@@ -6244,10 +6244,10 @@
 			},
 			{
 				"location": "mana-and-artifice:manaweaver_wand",
-				"type": "合成"
+				"type": "crafting"
 			},
 			{
-				"type": "合成",
+				"type": "crafting",
 				"location": "mana-and-artifice:improvised_manaweaver_wand"
 			}
 		]
@@ -6267,7 +6267,7 @@
 		],
 		"related_recipes": [
 			{
-				"type": "合成",
+				"type": "crafting",
 				"location": "mana-and-artifice:improvised_manaweaver_wand"
 			}
 		]
@@ -6347,7 +6347,7 @@
 		],
 		"related_recipes": [
 			{
-				"type": "合成",
+				"type": "crafting",
 				"location": "mana-and-artifice:brazier"
 			}
 		]
@@ -6367,11 +6367,11 @@
 		],
 		"related_recipes": [
 			{
-				"type": "合成",
+				"type": "crafting",
 				"location": "mana-and-artifice:basic_table"
 			},
 			{
-				"type": "合成",
+				"type": "crafting",
 				"location": "mana-and-artifice:ornate_table"
 			}
 		]
@@ -6411,7 +6411,7 @@
 		],
 		"related_recipes": [
 			{
-				"type": "合成",
+				"type": "crafting",
 				"location": "mana-and-artifice:runeforging/stone_pedestal"
 			}
 		]
@@ -6577,15 +6577,15 @@
 		],
 		"related_recipes": [
 			{
-				"type": "合成",
+				"type": "crafting",
 				"location": "mana-and-artifice:construct_workbench"
 			},
 			{
-				"type": "合成",
+				"type": "crafting",
 				"location": "mana-and-artifice:construct_control_rod"
 			},
 			{
-				"type": "合成",
+				"type": "crafting",
 				"locations": [
 					"mana-and-artifice:chimerite_crystals/crystal_black",
 					"mana-and-artifice:chimerite_crystals/crystal_blue",
@@ -6630,7 +6630,7 @@
 				"location": "mana-and-artifice:runeforging/runeforge_marking"
 			},
 			{
-				"type": "合成",
+				"type": "crafting",
 				"location": "mana-and-artifice:lodestar"
 			}
 		]
@@ -6664,7 +6664,7 @@
 		],
 		"related_recipes": [
 			{
-				"type": "合成",
+				"type": "crafting",
 				"location": "mana-and-artifice:construct_diagnostics_rod"
 			}
 		]
@@ -7054,8 +7054,8 @@
 					"mana-and-artifice:manaweaving/constructs/stone/stone_shield_arm_left",
 					"mana-and-artifice:manaweaving/constructs/iron/iron_shield_arm_left",
 					"mana-and-artifice:manaweaving/constructs/gold/gold_shield_arm_left",
-					"mana-and-artifice:manaweaving/constructs/diamond/diamond_shield_arm_left",
-					"mana-and-artifice:manaweaving/constructs/obsidian/obsidian_shield_arm_left"
+					"mana-and-artifice:manaweaving/constructs/gold/gold_shield_arm_left",
+					"mana-and-artifice:manaweaving/constructs/diamond/diamond_shield_arm_left"
 				]
 			},
 			{
@@ -7064,8 +7064,8 @@
 					"mana-and-artifice:manaweaving/constructs/wood/wood_shield_arm_right",
 					"mana-and-artifice:manaweaving/constructs/stone/stone_shield_arm_right",
 					"mana-and-artifice:manaweaving/constructs/iron/iron_shield_arm_right",
+					"mana-and-artifice:manaweaving/constructs/iron/iron_shield_arm_right",
 					"mana-and-artifice:manaweaving/constructs/gold/gold_shield_arm_right",
-					"mana-and-artifice:manaweaving/constructs/diamond/diamond_shield_arm_right",
 					"mana-and-artifice:manaweaving/constructs/obsidian/obsidian_shield_arm_right"
 				]
 			},
@@ -7510,7 +7510,7 @@
 					"mana-and-artifice:manaweaving/constructs/iron/iron_legs_reinforced",
 					"mana-and-artifice:manaweaving/constructs/gold/gold_legs_reinforced",
 					"mana-and-artifice:manaweaving/constructs/diamond/diamond_legs_reinforced",
-					"mana-and-artifice:manaweaving/constructs/obsidian/obsidian_legs_reinforced"
+					"mana-and-artifice:manaweaving/constructs/diamond/diamond_legs_reinforced"
 				]
 			},
 			{
@@ -7585,7 +7585,7 @@
 			},
 			{
 				"type": "runescribing",
-				"location": "mana-and-artifice:runescribing/constructs/runescribe_construct_head"
+				"location": "mana-and-artifice:manaweaving/constructs/obsidian/obsidian_head_basic"
 			},
 			{
 				"type": "runesmithing",
@@ -7624,7 +7624,7 @@
 			},
 			{
 				"type": "runesmithing",
-				"location": "mana-and-artifice:runeforging/constructs/runeforge_construct_head"
+				"location": "mana-and-artifice:runescribing/constructs/runescribe_construct_head"
 			}
 		]
 	},
@@ -7647,7 +7647,7 @@
 				"locations": [
 					"mana-and-artifice:manaweaving/constructs/wood/wood_head_horn",
 					"mana-and-artifice:manaweaving/constructs/stone/stone_head_horn",
-					"mana-and-artifice:manaweaving/constructs/iron/iron_head_horn",
+					"mana-and-artifice:manaweaving/constructs/stone/stone_head_horn",
 					"mana-and-artifice:manaweaving/constructs/gold/gold_head_horn",
 					"mana-and-artifice:manaweaving/constructs/diamond/diamond_head_horn",
 					"mana-and-artifice:manaweaving/constructs/obsidian/obsidian_head_horn"
@@ -7659,7 +7659,7 @@
 			},
 			{
 				"type": "runesmithing",
-				"location": "mana-and-artifice:runeforging/constructs/runeforge_construct_head"
+				"location": "mana-and-artifice:runescribing/constructs/runescribe_construct_head"
 			}
 		]
 	},
@@ -7688,17 +7688,17 @@
 					"mana-and-artifice:manaweaving/constructs/stone/stone_head_smart",
 					"mana-and-artifice:manaweaving/constructs/iron/iron_head_smart",
 					"mana-and-artifice:manaweaving/constructs/gold/gold_head_smart",
-					"mana-and-artifice:manaweaving/constructs/diamond/diamond_head_smart",
-					"mana-and-artifice:manaweaving/constructs/obsidian/obsidian_head_smart"
+					"mana-and-artifice:manaweaving/constructs/gold/gold_head_smart",
+					"mana-and-artifice:manaweaving/constructs/diamond/diamond_head_smart"
 				]
 			},
 			{
 				"type": "runescribing",
-				"location": "mana-and-artifice:runescribing/constructs/runescribe_construct_head"
+				"location": "mana-and-artifice:manaweaving/constructs/obsidian/obsidian_head_smart"
 			},
 			{
 				"type": "runesmithing",
-				"location": "mana-and-artifice:runeforging/constructs/runeforge_construct_head"
+				"location": "mana-and-artifice:runescribing/constructs/runescribe_construct_head"
 			}
 		]
 	},
