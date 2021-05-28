@@ -1,8 +1,6 @@
 {
-	"_comments": "Thanks to https://tterrag.com/lang2json/",
-
-	"curios.identifier.feet":"Feet",
-
+    "_comments": "Thanks to https://tterrag.com/lang2json/",
+    "curios.identifier.feet": "Feet",
     "itemGroup.cyclic": "Cyclic Blocks",
     "itemGroup.cyclicitems": "Cyclic Items",
     "block.cyclic.trash": "Trash Void",
@@ -12,37 +10,29 @@
     "block.cyclic.experience_pylon": "Experience Pylon",
     "block.cyclic.experience_pylon.tooltip": "Collects nearby XP orbs, players above",
     "block.cyclic.experience_pylon.guide": "The Experience Pylon automatically collects nearby experience orbs and stores them as Fluid Experience in its internal buffer. $(l:misc/fluid_experience)Fluid Experience$(/l) can be pumped into and out of the pylon.$(br2)Additionally, the player may right click a filled Experience Pylon with a piece of Sugar to enrich it with experience, creating an $(l:misc/experience_food)Experience Confection$(/l).",
-	"item.cyclic.experience_food": "Experience Confection",
-	"item.cyclic.experience_food.tooltip": "Use sugar on an Experience Pylon ",
+    "item.cyclic.experience_food": "Experience Confection",
+    "item.cyclic.experience_food.tooltip": "Use sugar on an Experience Pylon ",
     "item.cyclic.experience_food.guide": "Created by using a piece of Sugar on a filled Experience Pylon. Eat the confection to gain the experience held within, or use it on an Experience Pylon to put experience back into the pylon.",
     "item.cyclic.experience_food.guide0": "Can also be created by combining Fluid Experience and Sugar in a $(l:machines/solidifier)Solidification Chamber$(/l), and turned back into Fluid Experience in a $(l:machines/melter)Melting Chamber$(/l).",
-
-
-		"item.cyclic.crafting_stick": "Crafting Stick",
-		"item.cyclic.crafting_stick.tooltip": "Handheld crafting table",
-		"item.cyclic.crafting_stick.guide": "Handheld crafting table.  Does not preserve its inventory",
-
-		"item.cyclic.crafting_bag": "Advanced Crafting Stick",
-		"item.cyclic.crafting_bag.tooltip": "Saves inventory",
-		"item.cyclic.crafting_bag.guide": "Handheld crafting table with an inventory that is saved in itself like a backpack",
-
-		"block.cyclic.eye_teleport":"Ender Anchor",
-		"block.cyclic.eye_teleport.tooltip":"Look and crouch to teleport onto it",
-		"block.cyclic.eye_teleport.guide":"Whenever a player is looking at this while crouching, the player is teleported on top of this block.  If solid blocks are above it, there is some leeway where you will appear above all of those blocks.  Same logic as $(l:items/teleport_wand)Ender Scepter$(/l).  Can cost hunger and experience based on config values. ",
-
-		"block.cyclic.ghost":"Ghost Block",
-		"block.cyclic.ghost.tooltip":"Phases out when powered",
-		"block.cyclic.ghost.guide":"While this block has redstone power, it is not selectable or breakable, and all entities pass through it.  It is also completely invisible.  Remove the power to break it. ",
-		
-		"block.cyclic.ghost_phantom":"Phantom Block",
-		"block.cyclic.ghost_phantom.tooltip":"Vanishing barrier powered by redstone",
-		"block.cyclic.ghost_phantom.guide":"While this block has redstone power, it is not selectable or breakable, and all entities pass through it.  Remove the power to break it. ",
-
-		"block.cyclic.eye_redstone":"Ender Trigger",
-		"block.cyclic.eye_redstone.tooltip":"Redstone powered while a player is looking",
-		"block.cyclic.eye_redstone.guide":"This block detects nearby players, and checks their eye position to see if the player is looking at the block.  Whenever its being looked at, the blockstate is updated and it produces redstone power. ",
-
-	"block.cyclic.experience_pylon.notenough": "Not enough stored",
+    "item.cyclic.crafting_stick": "Crafting Stick",
+    "item.cyclic.crafting_stick.tooltip": "Handheld crafting table",
+    "item.cyclic.crafting_stick.guide": "Handheld crafting table.  Does not preserve its inventory",
+    "item.cyclic.crafting_bag": "Advanced Crafting Stick",
+    "item.cyclic.crafting_bag.tooltip": "Saves inventory",
+    "item.cyclic.crafting_bag.guide": "Handheld crafting table with an inventory that is saved in itself like a backpack",
+    "block.cyclic.eye_teleport": "Ender Anchor",
+    "block.cyclic.eye_teleport.tooltip": "Look and crouch to teleport onto it",
+    "block.cyclic.eye_teleport.guide": "Whenever a player is looking at this while crouching, the player is teleported on top of this block.  If solid blocks are above it, there is some leeway where you will appear above all of those blocks.  Same logic as $(l:items/teleport_wand)Ender Scepter$(/l).  Can cost hunger and experience based on config values. ",
+    "block.cyclic.ghost": "Ghost Block",
+    "block.cyclic.ghost.tooltip": "Phases out when powered",
+    "block.cyclic.ghost.guide": "While this block has redstone power, it is not selectable or breakable, and all entities pass through it.  It is also completely invisible.  Remove the power to break it. ",
+    "block.cyclic.ghost_phantom": "Phantom Block",
+    "block.cyclic.ghost_phantom.tooltip": "Vanishing barrier powered by redstone",
+    "block.cyclic.ghost_phantom.guide": "While this block has redstone power, it is not selectable or breakable, and all entities pass through it.  Remove the power to break it. ",
+    "block.cyclic.eye_redstone": "Ender Trigger",
+    "block.cyclic.eye_redstone.tooltip": "Redstone powered while a player is looking",
+    "block.cyclic.eye_redstone.guide": "This block detects nearby players, and checks their eye position to see if the player is looking at the block.  Whenever its being looked at, the blockstate is updated and it produces redstone power. ",
+    "block.cyclic.experience_pylon.notenough": "Not enough stored",
     "block.cyclic.collector": "Item Collector",
     "block.cyclic.collector.tooltip": "Picks up nearby items",
     "block.cyclic.collector.guide": "The Collector picks up nearby items and stores them in its internal buffer. Items can be taken directly out of the buffer, or piped out.",
@@ -52,108 +42,90 @@
     "block.cyclic.flower_cyan": "Cyan Rose",
     "block.cyclic.flower_cyan.tooltip": "A lost legacy",
     "block.cyclic.flower_cyan.guide": "A lost legacy from a lost version of Minecraft.  Spawns alone in biomes of Category (forest, plains, taiga, extreme hills).  ",
-    
     "block.cyclic.apple_sprout": "Apple Sprout",
     "block.cyclic.apple_sprout.tooltip": "Apple growing on a leaf",
     "block.cyclic.apple_sprout.guide": "Plant below a leaf block to grow an apple.  ",
-    
     "block.cyclic.apple_sprout_emerald": "Emerald Apple Sprout",
     "block.cyclic.apple_sprout_emerald.tooltip": "Apple growing on a leaf",
     "block.cyclic.apple_sprout_emerald.guide": "Plant below a leaf block to grow an emerald apple.  ",
-    
     "block.cyclic.apple_sprout_diamond": "Diamond Apple Sprout",
     "block.cyclic.apple_sprout_diamond.tooltip": "Apple growing on a leaf",
     "block.cyclic.apple_sprout_diamond.guide": "Plant below a leaf block to grow a diamond apple.  ",
-    
     "block.cyclic.apple_sprout_chocolate": "Apple Sprout",
     "block.cyclic.apple_sprout_chocolate.tooltip": "Apple growing on a leaf",
     "block.cyclic.apple_sprout_chocolate.guide": "Plant below a leaf block to grow an apple.  ",
-    
-    
-    "item.cyclic.scythe_harvest":"Garden Scythe",
-    "item.cyclic.scythe_harvest.tooltip":"Harvest the area",
-    "item.cyclic.scythe_harvest.guide":"Harvest the area on use.  Sneak to harvest a smaller area.  Uses the same logic as the $(l:machines/harvester)Harvester$(/l) block. ",
-    
+    "item.cyclic.scythe_harvest": "Garden Scythe",
+    "item.cyclic.scythe_harvest.tooltip": "Harvest the area",
+    "item.cyclic.scythe_harvest.guide": "Harvest the area on use.  Sneak to harvest a smaller area.  Uses the same logic as the $(l:machines/harvester)Harvester$(/l) block. ",
     "item.cyclic.location": "GPS Data Card",
     "item.cyclic.location.tooltip": "Saves the location of a block",
     "item.cyclic.location.guide": "Right click on a block with the GPS Marker in hand to save its position to the Marker.$(br2)Markers with saved locations can be used in multiple machines from this mod such as  $(l:machines/structure)Shape Builder$(/l) .",
     "item.location.saved": "Saved ",
-    
-    "block.cyclic.computer_shape":"Shape Computer",
-    "block.cyclic.computer_shape.tooltip":"Read buildings into a Shape Card",
-    "block.cyclic.computer_shape.guide":"Place two  $(l:misc/location)GPS Card$(/l) cards and one  $(l:misc/shape_data)Shape Card$(/l), then you can read, copy, paste, and merge shapes together. ",
-    
-    "item.cyclic.shape_data":"Shape Data Card",
-    "item.cyclic.shape_data.tooltip":"Builds in-world after setup in a Shape Computer",
-    "item.cyclic.shape_data.guide":"Place in a $(l:machines/computer_shape)Shape Computer$(/l) or a $(l:machines/structure)Shape Builder$(/l) to load with data, then click on a block to load its block",
-    
-    "item.cyclic.shape_data.state":"Empty block, select one with a click first",
-    "item.cyclic.shape_data.empty":"Out of materials",
-    "item.cyclic.shape_data.nothing":"Card requires a shape and a selected block",
-    
-    "item.cyclic.settings_data":"Settings Data Card",
-    "item.cyclic.settings_data.tooltip":"Copy settings between cyclic machines",
-    "item.cyclic.settings_data.guide":"Copy settings between cyclic machines.  Hit on bedrock to wipe data clean.  After data is copied, can only be put onto blocks with the same id.",
-		"item.cyclic.settings_data.savednew": "Machine Data saved",
-		"item.cyclic.settings_data.written": "Machine Data written",
-				
-    "block.cyclic.terra_preta":"Terra Preta",
-    "block.cyclic.terra_preta.tooltip":"Place below farmland for sprinkler-like growth",
-    "block.cyclic.terra_preta.guide":"Place Terra Preta below farmland to increase the speed at which crops grow.  Works just like a sprinkler except there are no particles, and it only targets the block above. ",
-
+    "block.cyclic.computer_shape": "Shape Computer",
+    "block.cyclic.computer_shape.tooltip": "Read buildings into a Shape Card",
+    "block.cyclic.computer_shape.guide": "Place two  $(l:misc/location)GPS Card$(/l) cards and one  $(l:misc/shape_data)Shape Card$(/l), then you can read, copy, paste, and merge shapes together. ",
+    "item.cyclic.filter_data": "Filter Data Card",
+    "item.cyclic.filter_data.tooltip": "Holds items and settings used for filters",
+    "item.cyclic.filter_data.guide": "Fill with items to adjust machine or cable settings that are filtered",
+    "item.cyclic.shape_data": "Shape Data Card",
+    "item.cyclic.shape_data.tooltip": "Builds in-world after setup in a Shape Computer",
+    "item.cyclic.shape_data.guide": "Place in a $(l:machines/computer_shape)Shape Computer$(/l) or a $(l:machines/structure)Shape Builder$(/l) to load with data, then click on a block to load its block",
+    "item.cyclic.shape_data.state": "Empty block, select one with a click first",
+    "item.cyclic.shape_data.empty": "Out of materials",
+    "item.cyclic.shape_data.nothing": "Card requires a shape and a selected block",
+    "item.cyclic.settings_data": "Settings Data Card",
+    "item.cyclic.settings_data.tooltip": "Copy settings between cyclic machines",
+    "item.cyclic.settings_data.guide": "Copy settings between cyclic machines.  Hit on bedrock to wipe data clean.  After data is copied, can only be put onto blocks with the same id.",
+    "item.cyclic.settings_data.savednew": "Machine Data saved",
+    "item.cyclic.settings_data.written": "Machine Data written",
+    "block.cyclic.terra_preta": "Terra Preta",
+    "block.cyclic.terra_preta.tooltip": "Place below farmland for sprinkler-like growth",
+    "block.cyclic.terra_preta.guide": "Place Terra Preta below farmland to increase the speed at which crops grow.  Works just like a sprinkler except there are no particles, and it only targets the block above. ",
     "block.cyclic.crate": "Crate",
     "block.cyclic.crate.tooltip": "Reinforced item storage",
     "block.cyclic.crate.guide": "The Crate is a container, like a chest, that is reinforced to survive explosions.",
     "block.cyclic.dark_glass": "Tempered Glass",
     "block.cyclic.dark_glass.tooltip": "Immune to light, explosions, and wither blasts",
     "block.cyclic.dark_glass.guide": "Dark Glass, unlike regular glass, does not let light pass through.$(br2)Oh, and it's also immune explosions, including those caused by the Wither.",
+    "block.cyclic.light_camo": "Concentrated Glowstone",
+    "block.cyclic.light_camo.tooltip": "Contains a block projection",
+    "block.cyclic.soundproofing_ghost": "Concentrated Soundproofing",
+    "block.cyclic.soundproofing_ghost.tooltip": "Contains a block projection",
     "block.cyclic.soundproofing": "Soundproofing",
     "block.cyclic.soundproofing.tooltip": "Each block reduces sound volume nearby",
     "block.cyclic.soundproofing.guide": "Place to reduce the volume of nearby sounds in the world.$(br2)Multiple can be placed in close proximity for a stronger effect.",
     "block.cyclic.fan": "Fan",
     "block.cyclic.fan.tooltip": "Pushes entities",
     "block.cyclic.fan.guide": "The Fan is a configurable machine designed to push players, mobs, items and other entities.$(br2)Right-click on a fan to configure its range and speed.",
-
-    "cyclic.fan.range":"Range",
-    "cyclic.fan.speed":"Speed",
-
-    "block.cyclic.water_candle":"Water Candle",
+    "cyclic.fan.range": "Range",
+    "cyclic.fan.speed": "Speed",
+    "block.cyclic.water_candle": "Water Candle",
     "block.cyclic.water_candle.tooltip": "Light with Flint and Steel to increase mob spawns",
     "block.cyclic.water_candle.guide": "The Water Candle can be lit with Flint and Steel to increase the rate at which mobs naturally spawn nearby.$(br2)For the candle to work, mobs must be able to spawn naturally in its vicinity.$(br)In most cases, this means it must be dark enough to spawn mobs!",
     "block.cyclic.water_candle.guide0": "When lit, has a random chance to extinguish itself while spawning a mob. When this happens, you must relight the candle for it to continue spawning.",
-
     "block.cyclic.unbreakable_block": "Stable Quantum Bedrock",
     "block.cyclic.unbreakable_block.tooltip": "Right-click with Redstone to toggle Unbreakable state",
     "block.cyclic.unbreakable_block.guide": "Place in the world and then right-click with Redstone dust, Redstone Torch, or a Redstone Block in hand to toggle whether this block can be broken.",
-
     "block.cyclic.unbreakable_reactive": "Reactive Quantum Bedrock",
     "block.cyclic.unbreakable_reactive.tooltip": "Unbreakable while it has redstone power, can mine it otherwise",
     "block.cyclic.unbreakable_reactive.guide": "By default this can be mined as normal.  If it ever has a redstone signal given to it, then it becomes unbreakable by the block state. Unlike the other unbreakable block, this one uses a Tile Entity. ",
-
     "block.cyclic.conveyor": "Conveyor Belt",
     "block.cyclic.conveyor.tooltip": "Conveyor with many settings to move entities",
     "block.cyclic.conveyor.guide": "Moves all entities standing on it.   Many properties of this block are stored in the blockstate such as type, speed, and dye color.  Types include straight, corner, and up/down ramps.  To toggle the type, place in world and use the $(l:items/wrench)Wooden Wrench$(/l) on the placed rail, this toggles the type.",
     "block.cyclic.conveyor.guide0": "Hold a redstone torch and interact to toggle the speed.   Hold dye and use it on the block to toggle the color.  These updates propogate to nearby connected rails.  (check F3 to view these properties in detail) ",
-
-
-    "block.cyclic.ender_shelf":"Ender Shelf",
+    "block.cyclic.ender_shelf": "Ender Shelf",
     "block.cyclic.ender_shelf.tooltip": "Multiblock Enchantment Storage",
     "block.cyclic.ender_shelf.guide": "Can be used standalone or as part of a multiblock structure with at least one $(l:blocks/ender_controller)Ender Shelf Controller$(/l). Each shelf has 5 slots that you can right click on to insert an Enchanted Book for storage.",
     "block.cyclic.ender_shelf.guide0": "Enchanted Books must have just one enchantment to be inserted. Use a $(l:machines/disenchanter)Disenchanter$(/l) to strip books down to single enchantments if necessary.",
-
-    "block.cyclic.ender_controller":"Ender Shelf Controller",
+    "block.cyclic.ender_controller": "Ender Shelf Controller",
     "block.cyclic.ender_controller.tooltip": "Multiblock Enchantment Storage Controller",
     "block.cyclic.ender_controller.guide": "When combined with at least one $(l:blocks/ender_shelf)Ender Shelf$(/l), allows for automated insertion/extraction of Enchanted books.",
-
     "block.cyclic.workbench": "Workbench",
     "block.cyclic.workbench.tooltip": "A Crafting Table that keeps its inventory when closed",
     "block.cyclic.workbench.guide": "A simple Crafting Table that keeps its inventory when closed.",
-
-
-    "item.cyclic.flippers":"Flippers",
-    "item.cyclic.flippers.tooltip":"Increase swim speed",
-    "item.cyclic.flippers.guide":"When worn, Flippers increase the player's swim speed.$(br2)Can be equipped as an accessory if the Curios mod is installed.",
-
+    "item.cyclic.flippers": "Flippers",
+    "item.cyclic.flippers.tooltip": "Increase swim speed",
+    "item.cyclic.flippers.guide": "When worn, Flippers increase the player's swim speed.$(br2)Can be equipped as an accessory if the Curios mod is installed.",
     "item.cyclic.glove_climb": "Climbing Gloves",
     "item.cyclic.glove_climb.tooltip": "Climb any vertical surface",
     "item.cyclic.glove_climb.guide": "When worn, Climbing Gloves allow the player to climb vertical surfaces as if a ladder or vines were present.$(br2)Can be equipped as an accessory if the Curios mod is installed.",
@@ -162,37 +134,35 @@
     "block.cyclic.breaker": "Block Breaker",
     "block.cyclic.breaker.tooltip": "Breaks blocks placed in front of it",
     "block.cyclic.breaker.guide": "Breakers can be used to break the block placed directly in front of it, like a player would.$(br2)Breakers do not have internal item storage, so the broken block will drop itself (or its loot) in the world to be picked up.",
-	"item.cyclic.wrench":"Wooden Wrench",
-	"item.cyclic.wrench.tooltip":"Rotates simple blocks",   
-	"item.cyclic.wrench.guide":"The Wrench can be used to rotate simple blocks such as stairs, slabs and ladders. Does not rotate machines.",
-	"item.cyclic.cable_wrench":"Cable Wrench",
-	"item.cyclic.cable_wrench.tooltip":"Change settings on cyclic cables",  
-	"item.cyclic.cable_wrench.guide":"Use the Cable Wrench by right-clicking on a Cyclic $(l:machines/pipe)cable$(/l) to change the cable's settings. Left-click any block with the wrench to change the wrench's mode.",
-	"tool.cable_wrench.extract":"Extract mode",
-	"tool.cable_wrench.disable":"Disable mode",
-	"gui.cyclic.flowing0":"Storing Power",  
-	"gui.cyclic.flowing1":"Exporting Power",
-	"gui.cyclic.flowing.up":"Up",
-	"gui.cyclic.flowing.down":"Down",
-	"gui.cyclic.flowing.north":"North",
-	"gui.cyclic.flowing.south":"South",
-	"gui.cyclic.flowing.east":"East",
-	"gui.cyclic.flowing.west":"West",
-	"gui.cyclic.direction0":"Down",
-  "gui.cyclic.direction1":"Up",
-      
-    "item.cyclic.build_scepter":"Building Scepter (fill)",
-    "item.cyclic.offset_scepter":"Building Scepter (place)",
-    "item.cyclic.replace_scepter":"Building Scepter (exchange)",
-    "item.cyclic.build_scepter.guide":"The Building Scepter is a powerful tool that comes in three forms - Fill, Place, and Exchange.$(br2)For each, left clicking on any block will change the size of the area that will be affected. Sneak-left-clicking will select the block to be placed by the scepter. Right-click with the scepter to place or exchange blocks from your inventory.",
-    "item.cyclic.build_scepter.guide0":"$(li)The Fill Scepter places blocks in the specified-shape around the block you right-click on.$(li)The Exchange Scepter swaps all blocks with your selected block in a shape around the block you right-click.$(li)The Place Scepter is similar to the Fill Scepter, except the blocks are placed on the surface of the block you right-click.",
-    "scepter.cyclic.nothing":"Sneak-left-click to pick block",
-    "scepter.cyclic.empty":"Out of materials",
-    "item.cyclic.randomize_scepter":"Block Randomizer",
-    "item.cyclic.randomize_scepter.tooltip":"Randomly shuffle around the blocks in a 5x5x1 area around the target block",
-    
-    "buildertype.height.tooltip":"Height",
-    "buildertype.size.tooltip":"Size",
+    "item.cyclic.wrench": "Wooden Wrench",
+    "item.cyclic.wrench.tooltip": "Rotates simple blocks",
+    "item.cyclic.wrench.guide": "The Wrench can be used to rotate simple blocks such as stairs, slabs and ladders. Does not rotate machines.",
+    "item.cyclic.cable_wrench": "Cable Wrench",
+    "item.cyclic.cable_wrench.tooltip": "Change settings on cyclic cables",
+    "item.cyclic.cable_wrench.guide": "Use the Cable Wrench by right-clicking on a Cyclic $(l:machines/pipe)cable$(/l) to change the cable's settings. Left-click any block with the wrench to change the wrench's mode.",
+    "tool.cable_wrench.extract": "Extract mode",
+    "tool.cable_wrench.disable": "Disable mode",
+    "gui.cyclic.flowing0": "Storing Power",
+    "gui.cyclic.flowing1": "Exporting Power",
+    "gui.cyclic.flowing.up": "Up",
+    "gui.cyclic.flowing.down": "Down",
+    "gui.cyclic.flowing.north": "North",
+    "gui.cyclic.flowing.south": "South",
+    "gui.cyclic.flowing.east": "East",
+    "gui.cyclic.flowing.west": "West",
+    "gui.cyclic.direction0": "Down",
+    "gui.cyclic.direction1": "Up",
+    "item.cyclic.build_scepter": "Building Scepter (fill)",
+    "item.cyclic.offset_scepter": "Building Scepter (place)",
+    "item.cyclic.replace_scepter": "Building Scepter (exchange)",
+    "item.cyclic.build_scepter.guide": "The Building Scepter is a powerful tool that comes in three forms - Fill, Place, and Exchange.$(br2)For each, left clicking on any block will change the size of the area that will be affected. Sneak-left-clicking will select the block to be placed by the scepter. Right-click with the scepter to place or exchange blocks from your inventory.",
+    "item.cyclic.build_scepter.guide0": "$(li)The Fill Scepter places blocks in the specified-shape around the block you right-click on.$(li)The Exchange Scepter swaps all blocks with your selected block in a shape around the block you right-click.$(li)The Place Scepter is similar to the Fill Scepter, except the blocks are placed on the surface of the block you right-click.",
+    "scepter.cyclic.nothing": "Sneak-left-click to pick block",
+    "scepter.cyclic.empty": "Out of materials",
+    "item.cyclic.randomize_scepter": "Block Randomizer",
+    "item.cyclic.randomize_scepter.tooltip": "Randomly shuffle around the blocks in a 5x5x1 area around the target block",
+    "buildertype.height.tooltip": "Height",
+    "buildertype.size.tooltip": "Size",
     "builder.toggle": "Toggle",
     "buildertype.circle": "Circle",
     "buildertype.cup": "Cup",
@@ -242,9 +212,13 @@
     "cyclic.screen.size10": "21x21",
     "cyclic.screen.size11": "23x23",
     "cyclic.screen.size12": "23x23",
+    "cyclic.screen.filter.true": "Ignore List",
+    "cyclic.screen.filter.false": "Allow List",
+    "cyclic.screen.filter.item.count": "Count: ",
+    "cyclic.screen.filter.item.empty": "Items Empty",
+    "cyclic.screen.filter.fluid.empty": "Fluid Empty",
     "button.height.down": "Decrease height",
     "button.height.up": "Increase height",
- 
     "button.inventory.hotbarswap": "Swap row with hotbar",
     "button.inventory.armorswap": "Swap armor with left column",
     "button.listtype": "Toggle the ignore list type",
@@ -341,12 +315,9 @@
     "enchantment.cyclic.ender": "Ender",
     "enchantment.cyclic.ender.desc": "Throws an Ender Pearl with your sword, consuming durability. Cooldown decreases with level.",
     "enchantment.cyclic.ender.guide": "Throws an Ender Pearl with your sword, consuming durability. Cooldown decreases with level.  Can apply to swords only ",
-
     "enchantment.cyclic.beekeeper": "Beekeeping",
     "enchantment.cyclic.beekeeper.desc": "Protection against thorny and flying damage.",
     "enchantment.cyclic.beekeeper.guide": "Protection against thorny and flying damage.  First level prevent bee, bat, and llama spit damage.  Level II or higher prevents phantom damage.  ",
-
-
     "fluid.cyclic.biomass": "Biomass",
     "fluid.cyclic.biomass.guide": "Combine solid $(l:misc/biomass)Biomass$(/l) with various organic material in a $(l:machines/metler)Melter$(/l) to create Fluid Biomass.",
     "fluid.cyclic.honey": "Honey",
@@ -373,14 +344,14 @@
     "guide.category.accessories.desc": "These accessories all provide passive abilities to the player; and do not need to be held in the hand or activated.  They are all supported by the Curios mod if installed.  ",
     "guide.category.blocks": "Blocks",
     "guide.category.blocks.desc": "These are all the simple (non-machine) blocks in Cyclic.  ",
-    "guide.category.consume":"Consumables",
-    "guide.category.consume.desc":"These are single use items; either consumed by the player or a targeted creature.",
+    "guide.category.consume": "Consumables",
+    "guide.category.consume.desc": "These are single use items; either consumed by the player or a targeted creature.",
     "guide.category.machines": "Machines",
     "guide.category.machines.desc": "Machines are active tile-entity blocks.  They usually have an inventory screen, and consume consume energy or fluids.  ",
     "guide.category.enchantments": "Enchantments",
     "guide.category.enchantments.desc": "Enchantments can all be applied normally through anvils or enchanting tables.  ",
     "guide.category.gear": "Gear",
-    "guide.category.gear.desc": "Basic equipment such as armor, tools, and swords.",    
+    "guide.category.gear.desc": "Basic equipment such as armor, tools, and swords.",
     "guide.category.misc": "Miscellaneous Items",
     "guide.category.misc.desc": "Items that don't fit into other categories. ",
     "guide.category.items": "Tools",
@@ -390,7 +361,6 @@
     "guide.category.world": "World Generation",
     "guide.title": "Cyclic Guidebook",
     "guide.landing_text": "Learn about everything Cyclic adds!",
-
     "item.book_ender.guide": "A magical book that stores your current location as a waypoint.  Teleport to the waypoint at a later at the cost of experience, based on distance (configurable).  Cannot cross dimensions, but it can store locations in any dimension.",
     "item.book_ender": "Ender Book",
     "item.book_ender.tooltip": "Saved Waypoints:",
@@ -405,7 +375,6 @@
     "item.cyclic.carbon_paper.copied": "Copied sign data",
     "item.cyclic.carbon_paper.deleted": "Deleted sign data",
     "item.cyclic.carbon_paper.guide": "Carbon Paper can be used to copy the contents of one sign to another. The copied text can be cleaned off of the Carbon Paper by using it on a Cauldron.",
-
     "item.cyclic.antigravity": "Anti-Gravity Ring",
     "item.cyclic.antigravity.tooltip": "Ignore gravity and walk on air",
     "item.cyclic.antigravity.guide": "When active, you can jump without falling at the expense of durability while you remain in the air.",
@@ -461,7 +430,7 @@
     "item.dynamite_safe.guide": "This creates a powerful explosion that does not destroy blocks or hurt creatures.",
     "item.dynamite_safe": "Combat Dynamite",
     "item.dynamite_safe.tooltip": "Does not break blocks or hurt players",
-		"subtitles.item.armor.equip_emerald":"Emerald armor clangs", 
+    "subtitles.item.armor.equip_emerald": "Emerald armor clangs",
     "item.cyclic.emerald_boots": "Emerald Boots",
     "item.cyclic.emerald_axe": "Emerald Axe",
     "item.cyclic.emerald_chestplate": "Emerald Chestplate",
@@ -497,7 +466,7 @@
     "item.cyclic.ender_pearl_reuse": "Ender Orb",
     "item.cyclic.ender_pearl_reuse.tooltip": "Reuseable ender pearl",
     "item.cyclic.ender_pearl_reuse.guide": "An Ender Pearl that can be thrown, picked up, and thrown again.",
- 	"item.cyclic.ice_scepter": "Frost Bringer",
+    "item.cyclic.ice_scepter": "Frost Bringer",
     "item.cyclic.ice_scepter.tooltip": "Shoot ice that will stun enemies",
     "item.cyclic.ice_scepter.guide": "Launch three frozen projectiles that applies the  $(l:potions/stun)paralyze$(/l) potion effect to all enemies",
     "item.cyclic.ender_tnt_1.guide": "Throw these to make explosions.  There are six different levels of power.  These are standard normal explosions with no special properties.",
@@ -550,40 +519,43 @@
     "item.cyclic.heart_empty": "Empty Heart Container",
     "item.cyclic.heart_empty.tooltip": "-1 Heart +500 Experience",
     "item.cyclic.heart_empty.guide": "When consumed, permanently removes 1 heart from the player but grants a hefty dose of experience for your loss.$(br)Be careful! You can reduce your hearts permanently down to just one if you keep eating these.",
-
-
     "item.cyclic.apple_chocolate": "Chocolate Apple",
     "item.cyclic.apple_chocolate.tooltip": "Clears harmful effects",
     "item.cyclic.apple_chocolate.guide": "Similar to milk, when eaten it clears out potion effects.  However it only removes harmful ones like poison, and not beneficial ones such as regeneration or night vision. ",
- 
     "item.cyclic.apple_honey": "Honey Apple",
     "item.cyclic.apple_honey.tooltip": "",
     "item.cyclic.apple_honey.guide": "Rich food that has no effects.  Used for crafting.  ",
- 
- 
+    "item.cyclic.apple_ender": "Ender Apple",
+    "item.cyclic.apple_ender.tooltip": "Detect ancient structures",
+    "item.cyclic.apple_ender.guide": "Eat will show the names a few nearby structures, and their horizontal straight-line distance to your position",
+    "potion.potency.0": "I",
+    "potion.potency.1": "II",
+    "potion.potency.2": "III",
+    "potion.potency.3": "IV",
+    "potion.potency.4": "V",
+    "potion.potency.5": "VI",
+    "potion.potency.6": "VII",
+    "potion.potency.7": "VIII",
+    "potion.potency.8": "IX",
+    "potion.potency.9": "X",
+    "item.cyclic.apple_bone": "Bone Apple",
+    "item.cyclic.apple_chorus": "Chorus Apple",
+    "item.cyclic.apple_prismarine": "Prismarine Apple",
     "item.cyclic.apple_diamond": "Diamond Apple",
     "item.cyclic.apple_diamond.tooltip": "Major defense buffs",
     "item.cyclic.apple_diamond.guide": "60 seconds worth of Resistance V and health boost V for short tough fights",
-    
     "item.cyclic.apple_lapis": "Lapis Apple",
     "item.cyclic.apple_lapis.tooltip": "Utility buffs",
     "item.cyclic.apple_lapis.guide": "Utility buffs include swim speed, conduit, water breathing, night vision.",
-
-
     "item.cyclic.apple_iron": "Iron Apple",
     "item.cyclic.apple_iron.tooltip": "Minor defense buffs",
     "item.cyclic.apple_iron.guide": "Lower levels of health boost and resistance",
-    
-    
     "item.cyclic.apple_emerald": "Emerald Apple",
     "item.cyclic.apple_emerald.tooltip": "Explorative buffs",
     "item.cyclic.apple_emerald.guide": "Exlorative buffs include haste, luck, slow falling.",
-    
-    
     "item.cyclic.carrot_ender": "Ender Carrot",
     "item.cyclic.carrot_ender.tooltip": "Stackable hidden shields",
     "item.cyclic.carrot_ender.guide": "Give your horse some magic shields.  These trigger when the mount is drowning, falling, burning, or low on health.  When triggered, it will consume one tick of the count and buff the mount accordingly. ",
-
     "item.cyclic.toxic_carrot": "Toxic Carrot",
     "item.cyclic.toxic_carrot.tooltip": "Zombify your horse",
     "item.cyclic.toxic_carrot.guide": "Use the Toxic Carrot on a horse to turn it into a Zombie Horse.",
@@ -599,11 +571,9 @@
     "item.cyclic.lapis_carrot_variant": "Lapis Carrot",
     "item.cyclic.lapis_carrot_variant.tooltip": "Change horse variant color",
     "item.cyclic.lapis_carrot_variant.guide": "Use the Lapis Carrot on a horse to change its coat to a different variant.$(br2)Keep using additional Lapis Carrots until you find the coat you're looking for.",
-
     "item.inventory_food.guide": "Eating this will unlock two new keybindings, and a second inventory screen.  Open the inventory either as a normal screen for storage, or as an array of Tool buttons to swap any item out with any slot in one click.",
     "item.inventory_food": "Inventory Upgrade",
     "item.inventory_food.tooltip": "Eat to Upgrade your inventory",
-    
     "item.cyclic.magic_net": "Monster Ball",
     "item.cyclic.magic_net.tooltip": "Charge and throw at a living entity to capture",
     "item.cyclic.magic_net.guide": "The Monster Ball can be thrown at a creature to capture it. The creature will remain in the ball until you right-click a block with the Monster Ball in hand to release it.$(br2)An easier alternative to transporting mobs with leashes or minecarts.",
@@ -619,22 +589,17 @@
     "item.cyclic.lever_remote.invalid": "Invalid position, Lever not found",
     "item.cyclic.lever_remote.powered.true": "On",
     "item.cyclic.lever_remote.powered.false": "Off",
-
     "dimension.notfound": "Dimension not found",
     "chunk.unloaded": "Action failed; chunk not loaded",
-
-
     "item.cyclic.crystal_boots": "Crystallized Obsidian Boots",
     "item.cyclic.crystal_chestplate": "Crystallized Obsidian Chestplate",
     "item.cyclic.crystal_helmet": "Crystallized Obsidian Helmet",
     "item.cyclic.crystal_leggings": "Crystallized Obsidian Leggings",
     "item.cyclic.crystal_gear": "Crystallized Obsidian Gear",
     "item.cyclic.crystal_gear.guide": "Crystallized Obsidian gear is very strong (and very expensive as a result). Much stronger than Netherite gear.",
-
     "item.cyclic.ender_bag": "Ender Sack",
     "item.cyclic.ender_bag.tooltip": "Portable Ender Chest",
     "item.cyclic.ender_bag.guide": "The Ender Bag provides a portable interface to your Ender Chest. Anything you store in your Ender Chest inventory can be accessed via the Ender Bag, and vice versa.",
-
     "item.cyclic.sandstone_sword": "Sandstone Sword",
     "item.cyclic.sandstone_axe": "Sandstone Axe",
     "item.cyclic.sandstone_hoe": "Sandstone Hoe",
@@ -642,9 +607,7 @@
     "item.cyclic.sandstone_shovel": "Sandstone Shovel",
     "item.cyclic.sandstone_gear.guide": "The sandstone tools are slightly below stone quality but better than wood.",
     "item.cyclic.sandstone_gear.title": "Sandstone Gear",
-
     "item.cyclic.shift": "Press Shift for more info",
-
     "item.cyclic.sleeping_mat": "Sleeping Mat",
     "item.cyclic.sleeping_mat.tooltip": "A portable bed",
     "item.cyclic.sleeping_mat.guide": "Use this to make yourself start sleeping right where you stand.  Potion results can be toggled in config. $(br2)Does not change your respawn point.",
@@ -652,7 +615,6 @@
     "item.cyclic.sleeping_mat.tooltip.info": "Right-Click to toggle:",
     "item.cyclic.sleeping_mat.tooltip.on": "Sets Spawnpoint",
     "item.cyclic.sleeping_mat.tooltip.off": "Spawnpoint Off",
-
     "item.cyclic.soulstone.guide": "A single use item that saves you from death, similar to totem of undying without the effects.  Does not have to be held or in your hotbar, just your inventory.  When it triggers, you come back with 3 hearts, a few positive potion effects, and 10 minutes of Bad Luck and Weakness II.",
     "item.cyclic.soulstone": "Soulstone",
     "item.cyclic.soulstone.tooltip": "Saves you from death while carrying.  Single use only.",
@@ -663,33 +625,26 @@
     "item.cyclic.stone_minecart.guide": "Think of this as a single-slot chest.  The Stone Minecart can carry any block.  Just use another block or an empty hand to swap blocks in an out (also works with Automated User).  Powered activator rail will pop the block out as well.",
     "item.cyclic.stone_minecart": "Stone Minecart",
     "item.cyclic.stone_minecart.tooltip": "Carry one block, unload with activator rail",
-
     "item.cyclic.storage_bag": "Storage Bag",
-    "item.cyclic.storage_bag.tooltip":  "A magical storage bag.",
+    "item.cyclic.storage_bag.tooltip": "A magical storage bag.",
     "item.cyclic.storage_bag.guide": "The Storage Bag can be used as a portable inventory. Right-click with the bag in hand to open it. $(br2)The bag can be set to pickup items, refill your hotbar, or to deposit its items into any inventory on right-click. ",
-    "item.cyclic.storage_bag.guide0":"To change the color of your bag, first open it, pickup some Dye with your mouse, and place it on top of the bag.  This will not consume the dye or move the bag, but it will set the bag item color.",
-
+    "item.cyclic.storage_bag.guide0": "To change the color of your bag, first open it, pickup some Dye with your mouse, and place it on top of the bag.  This will not consume the dye or move the bag, but it will set the bag item color.",
     "item.cyclic.storage_bag.disabled": "Disabled",
     "item.cyclic.storage_bag.disabled.button": "--",
-
     "item.cyclic.storage_bag.deposit.merge": "Merge",
     "item.cyclic.storage_bag.deposit.merge.button": "Me",
     "item.cyclic.storage_bag.deposit.dump": "Dump",
     "item.cyclic.storage_bag.deposit.dump.button": "Du",
-
     "item.cyclic.storage_bag.pickup.filter": "Filter",
     "item.cyclic.storage_bag.pickup.filter.button": "Fi",
     "item.cyclic.storage_bag.pickup.everything": "Everything",
     "item.cyclic.storage_bag.pickup.everything.button": "Ev",
-
     "item.cyclic.storage_bag.refill.hotbar": "Hotbar",
     "item.cyclic.storage_bag.refill.hotbar.button": "Re",
-
     "item.cyclic.storage_bag.success": "Items moved: %d",
     "item.cyclic.storage_bag.tooltip.deposit": "Hit Deposit Mode: %s",
     "item.cyclic.storage_bag.tooltip.pickup": "Pickup Mode: %s",
     "item.cyclic.storage_bag.tooltip.refill": "Refill mode: %s",
-
     "item.cyclic.sword_ender.guide": "Unbreakable sword with a special right-click ability to launch an ender pearl",
     "item.cyclic.sword_ender": "Sword of Evasion",
     "item.cyclic.sword_ender.tooltip": "Blocking shoots an ender pearl",
@@ -705,7 +660,6 @@
     "item.cyclic.charm_torch_cave": "Caving Torch Charm",
     "item.cyclic.charm_torch_cave.tooltip": "Torches your surroundings while in your inventory",
     "item.cyclic.charm_torch_cave.guide": "Detects darkness in an area around you and places torches where necessary, draining some durability.  Right click in your inventory to turn it off.",
-
     "item.tool_harvest_crops": "Garden Scythe",
     "item.tool_harvest_crops.tooltip": "Harvest and replant large areas based on data tag",
     "item.tool_harvest_crops.guide": "This will harvest & replant an area around where you use it; similar to the Harvester machine except it works all at once.",
@@ -748,7 +702,6 @@
     "item.cyclic.spelunker": "Cave-finder",
     "item.cyclic.spelunker.tooltip": "Search for underground caves",
     "item.cyclic.spelunker.guide": "Searches out for empty space behind the block you click on.  Works in any direction.  If you hit the top of a block it searches down, if you hit the side it searches behind.  Always in a straight line.  Great for finding caves while branch mining.",
-
     "item.cyclic.torch_launcher": "Torch Launcher",
     "item.cyclic.torch_launcher.tooltip": "Spawns in a torch wherever it lands",
     "item.cyclic.torch_launcher.guide": "The Torch Launcher shoots a torch with considerable force in the direction you are facing, placing the torch wherever it lands.$(br2)Automatically consumes torches in your inventory to refill itself.",
@@ -778,17 +731,15 @@
     "item.cyclic.teleport_wand.tooltip": "Teleports where you look, using Ender Pearls as fuel",
     "item.cyclic.teleport_wand.guide": "The Ender Scepter when held and charged, can be used to teleport large distances to the block that you're looking at. Automatically consumes Ender Pearls in your inventory to repair itself.",
     "item.cyclic.elevation_wand": "Rod of Elevation",
-    "item.cyclic.elevation_wand.tooltip":  "Teleport yourself or the target entity up to the nearest surface above",
+    "item.cyclic.elevation_wand.tooltip": "Teleport yourself or the target entity up to the nearest surface above",
     "item.cyclic.elevation_wand.guide": "Teleporter that works only vertically, and only if it can find an empty space with a surface above.  Works on yourself, or target another entity.",
-
     "item.cyclic.antimatter_wand": "Antimatter Evaporator",
-    "item.cyclic.antimatter_wand.tooltip":  "Right-Click to evaporate liquids",
+    "item.cyclic.antimatter_wand.tooltip": "Right-Click to evaporate liquids",
     "item.cyclic.antimatter_wand.tooltip0": "Fluid Mode: %s",
     "item.cyclic.antimatter_wand.mode.water": "Water",
     "item.cyclic.antimatter_wand.mode.lava": "Lava",
     "item.cyclic.antimatter_wand.mode.generic": "Generic",
     "item.cyclic.antimatter_wand.guide": "Left-click to cycle between Water, Lava, and Generic Fluid modes. Right-click to clear a 9x9 area of the selected fluid type from the world.",
-
     "key.categories.inventorycontrol": "Cyclic Keybindings",
     "key.columnbardown": "Row Shift Down",
     "key.columnbarup": "Row Shift Up",
@@ -800,7 +751,6 @@
     "minecart.fuel": "Fuel:",
     "screentext.flying.seconds": "Flying:",
     "screentext.noclip.seconds": "NoClip:",
-
     "teleport.dimension": "Cannot cross dimensions",
     "button.trash.fluid.tooltip": "Accepts and deletes Fluids",
     "button.trash.items.tooltip": "Accepts and deletes Items",
@@ -855,7 +805,6 @@
     "block.cyclic.user.tooltip": "Autonomous right-click activation using any item",
     "block.cyclic.user.guide": "The Item User is a powerful machine that uses the item given to it to right click the block in front of it with a configurable delay.",
     "block.cyclic.user.delay": "Tick Delay",
-
     "enchantment_stack.empty": "Empty; use an enchanted book to store",
     "block.cyclic.screen": "Text Projector",
     "block.cyclic.screen.tooltip": "Projects text",
@@ -863,7 +812,6 @@
     "block.cyclic.screen_target": "Sensor Display",
     "block.cyclic.screen_target.tooltip": "Display properties of a distant block",
     "block.cyclic.screen_target.guide": "Target a block with a GPS marker, and you can display its fluid, energy, or item content",
-
     "button.pulsing.tooltip": "Movement",
     "button.pulsing.name0": "Stationary",
     "button.pulsing.name1": "Rotating",
@@ -885,18 +833,15 @@
     "cyclic.screen.green": "Green",
     "cyclic.screen.thick": "Thickness",
     "cyclic.gui.sliderkeys": "Arrow keys; hold shift/alt",
-    "cyclic.gui.empty":"Empty",
-    "cyclic.gui.timer":"Time delay (ticks)",
-    
-    "cyclic.gui.craft.empty":"Empty the grid",
-    "cyclic.gui.craft.balance":"Balance largest stack",
-    "cyclic.gui.craft.match":"Balance & match largest stack",
-    
-    "cyclic.gui.uncrafter.config":"Blocked by config",
-    "cyclic.gui.uncrafter.norecipe":"No recipe",
-    "cyclic.gui.uncrafter.match":"Match",
-    "cyclic.gui.uncrafter.noroom":"Output blocked",
-    
+    "cyclic.gui.empty": "Empty",
+    "cyclic.gui.timer": "Time delay (ticks)",
+    "cyclic.gui.craft.empty": "Empty the grid",
+    "cyclic.gui.craft.balance": "Balance largest stack",
+    "cyclic.gui.craft.match": "Balance & match largest stack",
+    "cyclic.gui.uncrafter.config": "Blocked by config",
+    "cyclic.gui.uncrafter.norecipe": "No recipe",
+    "cyclic.gui.uncrafter.match": "Match",
+    "cyclic.gui.uncrafter.noroom": "Output blocked",
     "cyclic.screen.style0": "Normal",
     "cyclic.screen.style1": "%",
     "cyclic.screen.style2": "Max",
@@ -909,14 +854,12 @@
     "button.screen.item": "Items",
     "button.screen.fluid": "Fluid",
     "button.screen.energy": "Energy",
-    
     "block.cyclic.library_ctrl": "Ender Library",
     "block.cyclic.library_ctrl.tooltip": "Surround this with Ender Bookshelves to deposit",
     "block.cyclic.library_ctrl.guide": "The controller block for Ender Bookshelves.  Surround it with Ender Bookshelves so it can connect and it will distribute enchantments.  Can be automated by piping in enchanted books and pulling out empty books.",
     "block.cyclic.library": "Ender Bookshelf",
     "block.cyclic.library.tooltip": "Four drawers of deep enchantment storage",
     "block.cyclic.library.guide": "Use enchanted books on any corner.  Each corner stores many copies of that same enchantment.  Use a book on it to withdraw.  Hold a Redstone Torch in your hand and hit it to toggle display modes.",
- 
     "block.cyclic.structure": "Shape Builder",
     "block.cyclic.structure.tooltip": "Automate building simple shapes",
     "block.builder_pattern.flip": "Flip Regions (purple is source, white is target)",
@@ -971,11 +914,7 @@
     "cyclic.entitytype.flying": "Flying",
     "cyclic.entitytype.water": "Water",
     "cyclic.entitytype.ambient": "Ambient",
-    
     "cyclic.beacon.entitytype.tooltip": "Which entities are targeted",
-  
-    
-    
     "cyclic.detector.limit": "Limit",
     "cyclic.detector.rangex": "Range X",
     "cyclic.detector.rangey": "Range Y",
@@ -983,7 +922,6 @@
     "block.cyclic.detector_item": "Item Detector",
     "block.cyclic.detector_item.tooltip": "Detect items nearby and output redstone",
     "block.cyclic.detector_item.guide": "Detect items nearby and outputs a redstone signal. The range and comparison method are configurable in its GUI.",
-
     "block.cyclic.fire_dark": "Dark Fire",
     "block.cyclic.fire_dark.tooltip": "Does not harm players or destroy blocks",
     "block.cyclic.harvester": "Harvester",
@@ -992,12 +930,9 @@
     "block.cyclic.magnet_anti_block.guide": "This repels hostile entities away from it every few ticks.",
     "block.cyclic.magnet_anti_block": "Interdiction Pulsar",
     "block.cyclic.magnet_anti_block.tooltip": "Repels mobs every $t$ ticks with range $r$",
-	
     "block.cyclic.magnet": "Item Magnet",
     "block.cyclic.magnet.tooltip": "Pulls items",
-    
     "block.cyclic.milk": "Milk",
- 
     "block.cyclic.password_block.activetype.pulse": "Pulse",
     "block.cyclic.password_block.activetype.toggle": "Cycle",
     "block.cyclic.password_block.activetype.tooltip": "Switch between On/Off and Pulse mode",
@@ -1123,62 +1058,44 @@
     "wand.liquid.lava": "Mode: Lava",
     "wand.liquid.water": "Mode: Water",
     "wand.result.notargets": "No Targets Found",
-
     "block.hydrator.locked.tooltip": "Recipe Locked; minimum stack size 1",
     "block.hydrator.unlocked.tooltip": "Recipe Unlocked",
-
     "energy.button.top": "Fuel Bar Above",
     "energy.button.side": "Fuel Bar Side",
-
-    "potion.potency.4": "V",
-    "potion.potency.3": "IV",
-    "potion.potency.2": "III",
-    "potion.potency.1": "II",
-    "potion.potency.0": "I",
-
     "potion.butter.oops": "Butterfingers!  Dropped something when you moved.",
     "potion.effect.slowfall": "Potion of Slowfall",
     "splash_potion.effect.slowfall": "Splash Potion of Slowfall",
     "lingering_potion.effect.slowfall": "Lingering Potion of Slowfall",
     "tipped_arrow.effect.slowfall": "Arrow of Slowfall",
-
     "potion.butter": "Butterfingers",
     "potion.effect.butter": "Potion of Butterfingers",
     "splash_potion.effect.butter": "Splash Potion of Butterfingers",
     "lingering_potion.effect.butter": "Lingering Potion of Butterfingers",
     "tipped_arrow.effect.butter": "Arrow of Butterfingers",
-
     "potion.effect.butter2": "Potion of Butterfingers II",
     "splash_potion.effect.butter2": "Splash Potion of Butterfingers II",
     "lingering_potion.effect.butter2": "Lingering Potion of Butterfingers II",
     "tipped_arrow.effect.butter2": "Arrow of Butterfingers II",
-
     "potion.effect.waterwalk": "Potion of Waterwalking",
     "splash_potion.effect.waterwalk": "Splash Potion of Waterwalking",
     "lingering_potion.effect.waterwalk": "Lingering Potion of Waterwalking",
     "tipped_arrow.effect.waterwalk": "Arrow of Waterwalking",
-
     "potion.effect.snow": "Potion of Snow",
     "splash_potion.effect.snow": "Splash Potion of Snow",
     "lingering_potion.effect.snow": "Lingering Potion of Snow",
     "tipped_arrow.effect.snow": "Arrow of Snow",
-
     "potion.effect.swim": "Potion of Swim Speed",
     "splash_potion.effect.swim": "Splash Potion of Swim Speed",
     "lingering_potion.effect.swim": "Lingering Potion of Swim Speed",
     "tipped_arrow.effect.swim": "Arrow of Swim Speed",
-
     "potion.effect.swim2": "Potion of Swim Speed II",
     "splash_potion.effect.swim2": "Splash Potion of Swim Speed II",
     "lingering_potion.effect.swim2": "Lingering Potion of Swim Speed II",
     "tipped_arrow.effect.swim2": "Arrow of Swim Speed II",
-
     "potion.effect.bounce": "Potion of Bouncing",
     "splash_potion.effect.bounce": "Splash Potion of Bouncing",
     "lingering_potion.effect.bounce": "Lingering Potion of Bouncing",
     "tipped_arrow.effect.bounce": "Arrow of Bouncing",
-    
-
     "effect.cyclic.haste": "Haste",
     "effect.cyclic.strong_haste": "Haste II",
     "effect.cyclic.bounce": "Bouncy",
@@ -1189,32 +1106,25 @@
     "effect.cyclic.swimspeed": "Swim Speed",
     "effect.cyclic.stun": "Paralyze",
     "effect.cyclic.waterwalk": "Waterwalking",
-    
     "item.minecraft.potion.effect.cyclic_strong_haste": "Potion of Haste II",
     "item.minecraft.splash_potion.effect.cyclic_strong_haste": "Splash Potion of Haste II",
     "item.minecraft.lingering_potion.effect.cyclic_strong_haste": "Lingering Potion of Haste II",
     "item.minecraft.tipped_arrow.effect.cyclic_strong_haste": "Arrow of Haste II",
-
     "item.minecraft.potion.effect.cyclic_haste": "Potion of Haste",
     "item.minecraft.splash_potion.effect.cyclic_haste": "Splash Potion of Haste",
     "item.minecraft.lingering_potion.effect.cyclic_haste": "Lingering Potion of Haste",
     "item.minecraft.tipped_arrow.effect.cyclic_haste": "Arrow of Haste",
     "item.minecraft.potion.effect.cyclic_haste.guide": "The Potion of Haste apples the Haste effect to the target, increasing their mining speed.",
-
     "item.minecraft.potion.effect.cyclic_swimspeed": "Potion of Swim Speed",
     "item.minecraft.splash_potion.effect.cyclic_swimspeed": "Splash Potion of Swim Speed",
     "item.minecraft.lingering_potion.effect.cyclic_swimspeed": "Lingering Potion of Swim Speed",
     "item.minecraft.tipped_arrow.effect.cyclic_swimspeed": "Arrow of Swim Speed",
     "item.minecraft.potion.effect.cyclic_swimspeed.guide": "The Potion of Swim Speed greatly increases its target's speed while moving through liquids.",
-
     "item.minecraft.potion.effect.cyclic_stun": "Potion of Paralyze",
     "item.minecraft.splash_potion.effect.cyclic_stun": "Splash Potion of Paralyze",
     "item.minecraft.lingering_potion.effect.cyclic_stun": "Lingering Potion of Paralyze",
     "item.minecraft.tipped_arrow.effect.cyclic_stun": "Arrow of Paralyze",
     "item.minecraft.potion.effect.cyclic_stun.guide": "The Potion of Paralyze completely immobilizes its target.",
-
-
-
     "potion.effect.haste": "Potion of Haste",
     "splash_potion.effect.haste": "Splash Potion of Haste",
     "lingering_potion.effect.haste": "Lingering Potion of Haste",
@@ -1223,13 +1133,9 @@
     "splash_potion.effect.haste2": "Splash Potion of Haste",
     "lingering_potion.effect.haste2": "Lingering Potion of Haste",
     "tipped_arrow.effect.haste2": "Arrow of Haste",
-
-
-
     "block.cyclic.placer_fluid": "Fluid Placer",
     "block.cyclic.placer_fluid.tooltip": "Place fluid in the world",
     "block.cyclic.placer_fluid.guide": "The Fluid Placer places fluid from its internal tank in the direction it is facing, if possible.",
-
     "block.cyclic.pipe.guide.title": "Cables",
     "block.cyclic.pipe.guide": "Types of cables can be used to transport fluids, items, or energy between machines. They can be configured using a $(l:items/cable_wrench)Cable Wrench$(/l).",
     "block.cyclic.fluid_pipe": "Fluid Cable",
@@ -1237,11 +1143,9 @@
     "block.cyclic.fluid_pipe.guide": "Pipe liquid between blocks; use a Cable Wrench to customize",
     "block.cyclic.bundled_pipe": "Bundled Cable",
     "block.cyclic.bundled_pipe.tooltip": "Transfer items, fluids, and energy",
-
     "block.cyclic.energy_pipe": "Energy Cable",
     "block.cyclic.energy_pipe.tooltip": "Pipe energy between blocks; use a Cable Wrench to customize",
     "block.cyclic.energy_pipe.guide": "Pipe energy between blocks; use a Cable Wrench to customize",
-
     "block.cyclic.item_pipe": "Item Cable",
     "block.cyclic.item_pipe.tooltip": "Pipe items between blocks; use a Cable Wrench to customize",
     "block.cyclic.item_pipe.guide": "Each cable segment holds a small amount, and it gets pushed through from previous cable segments, and goes out any direction it can find.  Disable output on any face of a cable by hitting with a redstone torch.  You need an Extraction cable to start the flow",
@@ -1250,131 +1154,98 @@
     "block.cyclic.item_pipe_sort.filter": "Output here only if it matches this filter",
     "block.cyclic.item_pipe_sort.everything": "Output everything here, ignoring this filter",
     "block.cyclic.item_pipe_sort.nothing": "Output nothing here, ignoring this filter",
-    
     "item.cyclic.biomass.tooltip": "For bio energy",
     "item.cyclic.biomass": "Biomass",
     "item.cyclic.biomass.guide": "Combine with various organic material in a $(l:machines/melter)Melter$(/l) to create $(l:misc/fluid_biomass)Fluid Biomass$(/l)",
     "item.cyclic.peat_fuel": "Peat",
     "item.cyclic.peat_fuel.tooltip": "Smelted peat.  Use in a generator.",
     "item.cyclic.peat_fuel.guide": "Peat Fuel is smelted from $(l:blocks/saturated_peat_bog)Saturated Peat Deposits$(/l) and used in the $(l:machines/peat_generator)Peat Generator$(/l) to generate energy.$(br2)It can also be combined with $(l:misc/fluid_biomass)Fluid Biomass$(/l) in a $(l:machines/solidifier)Solidification Chamber$(/l) to create $(l:misc/peat_fuel_enriched)Enriched Peat$(/l).",
-
     "item.cyclic.peat_fuel_enriched": "Enriched Peat",
     "item.cyclic.peat_fuel_enriched.tooltip": "Create energy in a Peat Generator",
     "item.cyclic.peat_fuel_enriched.guide": "Created by combining $(l:misc/peat_fuel)Peat$(/l) with $(l:misc/fluid_biomass)Fluid Biomass$(/l) in a $(l:machines/solidifier)Solidification Chamber$(/l) and used to provide even more power in a $(l:machines/peat_generator)Peat Generator$(/l).",
-
     "block.cyclic.peat_unbaked": "Dry Peat Bog",
     "block.cyclic.peat_unbaked.tooltip": "Slowly turns into a Peat Deposit when sitting in water",
     "block.cyclic.peat_unbaked.guide": "Dry Peat Bog, when placed next to water, will slowly turn into a $(l:blocks/saturated_peat_bog)Saturated Peat Deposit$(/l), which can be smelted to create fuel for the $(l:machines/peat_generator)Peat Generator$(/l).",
-
     "block.cyclic.peat_baked": "Saturated Peat Deposit",
     "block.cyclic.peat_baked.tooltip": "Wet peat ready to be harvested and smelted",
     "block.cyclic.peat_baked.guide": "Saturated Peat Deposits form over time when $(l:blocks/dry_peat_bog)Dry Peat Bog$(/l) is placed next to water. Once harvested, it can be smelted to create fuel for the $(l:machines/peat_generator)Peat Generator$(/l).",
-
     "block.cyclic.peat_generator": "Peat Generator",
     "block.cyclic.peat_generator.tooltip": "Generate power",
     "block.cyclic.peat_generator.guide": "The Peat Generator can burn either $(l:misc/peat_fuel)Peat$(/l) or $(l:misc/peat_fuel_enriched)Enriched Peat$(/l) to generate energy.",
-
     "block.cyclic.peat_farm": "Peat Farm",
     "block.cyclic.peat_farm.tooltip": "Harvest saturated peat deposits",
     "block.cyclic.peat_farm.guide": "The Peat Farm takes water and $(l:blocks/dry_peat_bog)Dry Peat Bog$(/l) as its inputs and automatically builds a 15x15 Peat Bog farm surrounding itself.$(br2)When Dry Peat Bog becomes saturated, the Peat Farm will automatically harvest it and place more Dry Peat Bog in its place.",
-
     "block.cyclic.miner": "Miner",
     "block.cyclic.miner.tooltip": "Mines a configurable area in front of the Miner",
     "block.cyclic.miner.guide": "Mines a configurable area in front of the Miner. Will attempt to mine with any tool you provide it.",
-
-
     "block.cyclic.forester": "Forester",
     "block.cyclic.forester.tooltip": "Farming saplings to wood",
     "block.cyclic.forester.guide": "The Forester will attempt to place spalings in the area in front of itself, and harvest them when the saplings grow into trees.",
     "block.cyclic.planter": "Planter",
     "block.cyclic.planter.tooltip": "Tilling and planting fields",
     "block.cyclic.planter.guide": "Tilling and planting fields",
-
-
     "block.cyclic.dropper": "Precise Dropper",
     "block.cyclic.dropper.tooltip": "Drop without randomness",
     "block.cyclic.dropper.guide": "Drops blocks from its internal buffer at a configurable stack size, distance, and delay.",
-
     "cyclic.dropper.delay": "Delay",
     "cyclic.dropper.offset": "Offset",
     "cyclic.dropper.count": "Count",
-
     "cable.block.toggled.false": "Restored cable connection",
     "cable.block.toggled.true": "Blocked cable connection",
-
     "block.cyclic.battery": "Battery",
     "block.cyclic.battery.tooltip": "Stores forge energy",
     "block.cyclic.battery.guide": "Stores Forge Energy (FE) to be used in machines. Power can be transferred to and from the battery via $(l:machines/pipe)cables$(/l) or by placing machines directly adjacent to the battery.",
-
     "block.cyclic.battery_infinite": "Infinite Battery",
     "block.cyclic.battery_infinite.tooltip": "Creative energy source",
-
     "block.cyclic.item_infinite": "Infinite Item-ator",
     "block.cyclic.item_infinite.tooltip": "Duplicate items for pack testing",
-
-
     "block.fire_dark.guide": "Does not destroy blocks or harm players.  Spawned by Duskflame Hex",
-
     "block.target": "Bullseye Target",
     "block.target.tooltip": "Emits redstone based on where the arrow lands",
     "block.target.guide": "Emits redstone based on where the arrow lands.  Only works on the side, not top or bottom.",
-
     "block.moon_sensor": "Moon Phase Sensor",
     "block.moon_sensor.tooltip": "Emits signal based on current moons phase",
     "block.moon_sensor.guide": "Emits signal based on current moons phase.  Power ranges along 1,3,5,7,9,11,13,15 and back down again.  Stays powered during the day, and changes every night as the moon shifts phases.",
-
     "item.robot_spawner": "Target Dummy Spawner",
     "item.robot_spawner.tooltip": "[EXPERIMENTAL FEATURE] Spawn a Target Dummy Spawner that measures damage done by a player",
     "item.robot_spawner.guide": "Spawn a Target Dummy Spawner that measures damage done by a player.  Can be given armor that will affect damage taken, and drop on death.  Has no movement or attacks.  Can be killed, or removed instantly by using the spawner on it again.",
     "entity.robot": "Target Dummy",
-
     "block.button_large": "Large Button",
     "block.button_large.tooltip": "A pressure plate sized button",
     "block.button_large.guide": "A pressure plate sized button",
-
     "block.doorbell_simple": "Doorbell",
     "block.doorbell_simple.tooltip": "Makes sound",
     "block.doorbell_simple.guide": "Plays single sound on click",
-
     "block.fire_starter": "Fire Starter",
     "block.fire_starter.tooltip": "Use flint to start a fire on signal",
     "block.fire_starter.guide": "Use flint to start a fire on redsotne signal.  Can face any direction.  Chance to consume flint.",
-
     "fire_starter.fire0": "Fire",
     "fire_starter.fire1": "Dark Fire",
     "fire_starter.fire2": "Frost Fire",
     "fire_starter.yoffset.tooltip": "Vertical Offset",
     "fire_starter.offset.tooltip": "Range",
-
     "fire_starter.firetype.button": "Fire Type",
-
     "block.fire_frost": "Frost Fire",
     "block.fire_frost.tooltip": "Low intermittent damage; slowness and weakness",
     "block.fire_frost.guide": "Low intermittent damage; slowness and weakness",
-
     "block.void_anvil": "Void Anvil",
     "block.void_anvil.tooltip": "Delete enchantments off anything",
     "block.void_anvil.guide": "Delete enchantments off anything",
-
     "block.sound_player": "SFX Block",
     "block.sound_player.tooltip": "Can play almost any sound",
     "block.sound_player.guide": "Can play almost any non-record sound on redstone signal.  Be careful playing music tracks over and over, they can will overlap.",
-
     "item.sign_editor": "Rainbow Crayon",
     "item.sign_editor.tooltip": "Edit sign text, colour, and font",
     "item.sign_editor.guide": "Edit sign text, color, and font.  Save data in the sign is fully vanilla compatible, same NBT tags as command blocks when they set colour.",
     "gui.signs.title": "Signpost Customization",
     "gui.signs.save": "Save",
     "gui.signs.cancel": "Cancel",
-
     "block.cyclic.dice": "Dice",
     "block.cyclic.dice.tooltip": "Randomize on placement and click",
     "block.cyclic.dice.guide": "When placed or clicked, the Dice will roll and show a new random number from 1-6.",
-
     "item.laser_cannon": "Rainbow Cannon",
     "item.laser_cannon.tooltip": "Fire a randomly coloured beam",
     "item.laser_cannon.guide": "Fire a randomly coloured beam",
-
     "block.imbuer": "Imbue Station",
     "block.imbuer.tooltip": "Imbue your bow with secret powers",
     "block.imbuer.guide": "Imbue your bow with secret powers.  Place in an ingredient and a bow, and then apply a redstone signal.  Sneak right-click while it is empty to list valid recipes.",
@@ -1387,22 +1258,17 @@
     "imbue.type.poison": "Poison",
     "imbue.type.slowness": "Slowness",
     "imbue.type.glowing": "Glowing",
-
     "item.stone_pebble": "Pebble",
     "item.stone_pebble.tooltip": "Tiny stone for a slingshot",
     "item.stone_pebble.guide": "Tiny stone for a slingshot",
     "slingshot.ammoempty": "No pebbles left",
-
     "item.slingshot_weapon": "Slingshot",
     "item.slingshot_weapon.tooltip": "Fires pebbles",
     "item.slingshot_weapon.guide": "Charge like a bow.  Shoot with pebbles in your inventory.  Ammo is any item with ore dict matching 'rock'.",
-
-
     "block.builder_pattern.name.preview0": "None",
     "block.builder_pattern.name.preview1": "Outline",
     "block.builder_pattern.name.preview2": "Phantom Blocks",
     "block.builder_pattern.name.preview3": "Solid Blocks",
-
     "colour.red": "Red",
     "colour.green": "Green",
     "colour.brown": "Brown",
@@ -1419,7 +1285,6 @@
     "colour.orange": "Orange",
     "colour.white": "White",
     "colour.black": "Black",
-
     "item.cyclic.netherbrick_gear.guide.title": "Nether Gear",
     "item.cyclic.netherbrick_gear.guide": "Nether gear is slightly stronger than Stone gear.",
     "item.cyclic.netherbrick_sword": "Nether Sword",
@@ -1427,113 +1292,80 @@
     "item.cyclic.netherbrick_axe": "Nether Axe",
     "item.cyclic.netherbrick_shovel": "Nether Shovel",
     "item.cyclic.netherbrick_hoe": "Nether Hoe",
-
-
     "wireless.target": "Detect target block",
     "wireless.empty": "Bind a location to a GPS Marker",
     "wireless.dimension": "Cannot cross dimensions",
-
     "block.cable_wireless": "Item Transfer Node",
     "block.cable_wireless.tooltip": "Wireless transmission of items",
     "block.cable_wireless.guide": "Wireless transmission of items",
-
     "block.cable_wireless_fluid": "Fluid Transfer Node",
     "block.cable_wireless_fluid.tooltip": "Wireless transmission of fluid",
     "block.cable_wireless_fluid.guide": "Wireless transmission of fluid",
-
     "block.cable_wireless_energy": "Energy Transfer Node",
     "block.cable_wireless_energy.tooltip": "Wireless transmission of energy",
     "block.cable_wireless_energy.guide": "Wireless transmission of energy",
-
     "chest_sack.error.pickup": "Error detected when attempting pickup - action cancelled (see logs for details)",
     "chest_sack.error.place": "Error detected when attempting to place - action cancelled (see logs for details)",
     "chest_sack.error.null": "No tile entity found",
     "chest_sack.error.config": "Pickup disabled by config",
-
-
     "block.auto_packager": "Packager",
     "block.auto_packager.tooltip": "Bulk packaging with custom recipes",
     "block.auto_packager.guide": "Package items in bulk such as iron and gold into blocks.  Supports custom recipes added using CraftTweaker.",
-
     "block.dehydrator": "Dehydrator",
     "block.dehydrator.tooltip": "Process dehydration recipes",
     "block.dehydrator.guide": "Dehydrate certain items.  Add more recipes using CraftTweaker.  Lava is optional but will increase processing speed.",
-
     "item.cyclic.shears_obsidian": "Obsidian Shears",
     "item.cyclic.shears_obsidian.tooltip": "Very Durable Shears",
     "item.cyclic.shears_obsidian.guide": "Obsidian Shears are like regular shears... but they last longer. A lot longer.",
-
     "item.cyclic.shears_flint": "Flint Shears",
     "item.cyclic.shears_flint.guide": "Flint Shears break more quickly than regular shears, but they are easier to craft in the early-game.",
-
     "item.cyclic.boomerang.guide.title": "Boomerang",
     "item.cyclic.boomerang.guide": "Boomerangs are a multipurpose tool for gathering items. Simply hold it in your hand, lock on, and throw! If any items are along its path, they will be picked up and brought to the thrower.",
-
     "item.cyclic.boomerang_carry": "Boomerang",
     "item.cyclic.boomerang_carry.tooltip": "Throw to gather items that it returns to you",
     "item.cyclic.boomerang_carry.guide": "Throw to gather items that it returns to you",
-
     "item.cyclic.boomerang_stun": "Magic Boomerang",
     "item.cyclic.boomerang_stun.tooltip": "Gathers items and stun your enemies",
     "item.cyclic.boomerang_stun.guide": "Gathers items and stun your enemies",
-
     "item.cyclic.boomerang_damage": "Sharpened Boomerang",
     "item.cyclic.boomerang_damage.tooltip": "Gathers items and attacks your enemies",
     "item.cyclic.boomerang_damage.guide": "Gathers items and attacks your enemies",
-
     "block.cyclic.laser": "Laser Cell",
     "block.cyclic.laser.tooltip": "Render harmless lasers",
     "block.cyclic.laser.guide": "Use GPS Markers to target lasers and heavily customize their appearance.",
-
     "block.water_candle": "Water Candle",
     "block.water_candle.tooltip": "Increase nearby spawns when lit",
     "block.water_candle.guide": "Light with flint and steel.  Greatly increases natural mobs spawns nearby.  Follows normal spawning rules of mobs and biome.  Has a chance of being extinguished on every spawn.  Many propertes in config file.",
-
     "block.cyclic.fireplace": "Fireplace",
     "block.cyclic.fireplace.tooltip": "Light a fire when powered, extinguish when not powered.",
     "block.cyclic.fireplace.guide": "Lights a neverending fire on its netherrack face when powered by redstone. Extinguishes the fire when not powered.",
-
     "extended.toolbelt": "key to open in tool-belt mode",
-
     "item.cyclic.gem.guide.title": "Gems",
     "item.cyclic.gem_obsidian.guide": "Gems are created in the $(l:machines/solidifier)Solidification Chamber$(/l). They are used as a crafting material in many things",
     "item.cyclic.gem_amber.guide": "Amber Gems are created in the $(l:machines/solidifier)Solidification Chamber$(/l).  They are used as a crafting material in many things",
-
     "item.cyclic.gem_obsidian": "Crystallized Obsidian",
-    "item.cyclic.gem_obsidian.tooltip": "Crafting material", 
-
+    "item.cyclic.gem_obsidian.tooltip": "Crafting material",
     "item.cyclic.gem_amber": "Crystallized Amber",
-    "item.cyclic.gem_amber.tooltip": "Crafting material", 
-    
+    "item.cyclic.gem_amber.tooltip": "Crafting material",
     "item.cyclic.crystal_sword": "Crystal Sword",
     "item.cyclic.crystal_pickaxe": "Crystal Pickaxe",
     "item.cyclic.crystal_shovel": "Crystal Shovel",
     "item.cyclic.crystal_axe": "Crystal Axe",
     "item.cyclic.crystal_hoe": "Crystal Hoe",
-
     "block.cyclic.collector_fluid": "Fluid Collector",
     "block.cyclic.collector_fluid.tooltip": "Collect nearby fluid to an internal tank",
     "block.cyclic.collector_fluid.guide": "The Fluid Collector collects fluid from the area in front of and below it, replacing the collected fluids with blocks from its internal buffer. Will not collect fluid unless it has replacement blocks in its buffer, to prevent lag.",
-
     "block.cyclic.melter": "Melting Chamber",
     "block.cyclic.melter.tooltip": "Melt certain items into fluid",
     "block.cyclic.melter.guide": "The Melter, as its name implies, melts ingredients into various liquids using energy.",
-
     "button.fan.sound.tooltip": "Enable or disable sound",
-
-
-	"block.cyclic.mason_stone.guide.title":"Mason Blocks",
-	"block.cyclic.mason_stone.guide":"Mason blocks are a decorative block and a crafting ingredient for various machines.",
-	"block.cyclic.mason_stone":"Mason Stone",
-	"block.cyclic.mason_cobble":"Mason Cobblestone",
-	"block.cyclic.mason_iron":"Mason Iron",
-	"block.cyclic.mason_steel":"Mason Steel",
-	"block.cyclic.mason_plate":"Mason Plate",    
-	
-	
-
-
-    
+    "block.cyclic.mason_stone.guide.title": "Mason Blocks",
+    "block.cyclic.mason_stone.guide": "Mason blocks are a decorative block and a crafting ingredient for various machines.",
+    "block.cyclic.mason_stone": "Mason Stone",
+    "block.cyclic.mason_cobble": "Mason Cobblestone",
+    "block.cyclic.mason_iron": "Mason Iron",
+    "block.cyclic.mason_steel": "Mason Steel",
+    "block.cyclic.mason_plate": "Mason Plate",
     "block.cyclic.solidifier": "Solidification Chamber",
     "block.cyclic.solidifier.tooltip": "Craft fluid into items",
     "block.cyclic.solidifier.guide": "The Solidifier combines various fluids and ingredients to solidify them into something else, usually to make new crafting ingredients."
