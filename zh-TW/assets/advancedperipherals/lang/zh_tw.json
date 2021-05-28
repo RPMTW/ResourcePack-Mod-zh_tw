@@ -20,6 +20,7 @@
     "item.advancedperipherals.tooltip.memory_card.bound": "Bound to %s.",
     "item.advancedperipherals.tooltip.inventory_manager": "§7This block is able to send or receive specific items from a player inventory.",
     "item.advancedperipherals.tooltip.redstone_integrator": "§7This block is able to interact with redstone. Works exactly like the redstone api of an computer.",
+    "item.advancedperipherals.tooltip.peripheral_proxy": "§7This block is able to interact with a lot of other blocks. \n Just place a supported block in front of it and now you can use it.",
     "block.advancedperipherals.environment_detector": "“環境檢測器",
     "block.advancedperipherals.chat_box": "聊天盒",
     "block.advancedperipherals.player_detector": "玩家檢測器",
@@ -30,6 +31,7 @@
     "block.advancedperipherals.peripheral_casing": "Peripheral Casing",
     "block.advancedperipherals.inventory_manager": "庫存管理",
     "block.advancedperipherals.redstone_integrator": "紅石感應器",
+    "block.advancedperipherals.peripheral_proxy": "Peripheral Proxy",
     "turtle.advancedperipherals.chat_box_turtle": "聊天",
     "turtle.advancedperipherals.environment_detector_turtle": "環境",
     "turtle.advancedperipherals.player_detector_turtle": "玩家",
@@ -38,8 +40,9 @@
     "pocket.advancedperipherals.player_pocket": "玩家",
     "pocket.advancedperipherals.chatty_pocket": "聊天",
     "curios.identifier.glasses": "眼镜",
-    "text.advancedperipherals.removed_player": "已將你從記憶卡中移除！",
-    "text.advancedperipherals.added_player": "已將你新增至記憶卡！",
+    "text.advancedperipherals.removed_player": "Cleared the memory card",
+    "text.advancedperipherals.added_player": "Added you to the memory card",
     "text.advancedperipherals.linked_goggles": "成功連接 AR 護目鏡！",
+    "entity.minecraft.villager.advancedperipherals:computer_scientist": "Computer Scientist",
     "itemGroup.advancedperipheralstab": " 高級周邊裝置"
 }
