@@ -152,7 +152,7 @@
 			},
 			{
 				"type": "text",
-				"value": "Click the hud position tab at the bottom of this UI to change the HUD position."
+				"value": "點擊HUD位置標籤，來變更HUD顯示位置"
 			},
 			{
 				"type": "image",
@@ -162,7 +162,7 @@
 			},
 			{
 				"type": "text",
-				"value": "If you see a red drop with a lightning bolt in it next to your mana, this means that you have an item in your inventory that's low on charge.",
+				"value": "假如你在魔力條旁看見一個紅色的下箭頭，這表示你包包裡有東西的能量快沒了",
 				"newPage": true
 			},
 			{
@@ -198,7 +198,7 @@
 			},
 			{
 				"type": "text",
-				"value": "Next, hold the wand in your hand and begin using it (hold the right mouse button).  Then, draw the shape in the air.  Stop using the wand when you're done."
+				"value": "接著，握住你手上的魔杖並開始使用它（按住滑鼠右鍵）。  然後，在空氣中畫出形狀。 "
 			},
 			{
 				"type": "image",
@@ -275,7 +275,7 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Rote Spells"
+				"value": "熟記法術"
 			},
 			{
 				"type": "text",
