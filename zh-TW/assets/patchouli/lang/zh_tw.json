@@ -1,5 +1,7 @@
 {
-    "item.patchouli:guide_book.name": "指南書",
+    "item.patchouli.guide_book": "Guide Book",
+    "item.patchouli.guide_book.undefined": "Invalid book: no ID defined",
+    "item.patchouli.guide_book.invalid": "Invalid book: %s",
     "item.patchouli.comprehensive_test_book.name": "綜合測試書",
     "item.patchouli.comprehensive_test_book.landing": "這本書有望成為Patchouli的綜合測試書，而不是我們現在所擁有的隨意的書。",
     "item.patchouli:test_book_1.name": "測試書 1",
@@ -80,5 +82,7 @@
     "patchouli.gui.lexicon.button.config": "配置",
     "patchouli.gui.lexicon.button.visualize": "可視化",
     "patchouli.gui.lexicon.button.visualize.info": "（再次點擊以清除）",
-    "patchouli.gui.lexicon.button.history": "瀏覽歷史"
+    "patchouli.gui.lexicon.button.history": "瀏覽歷史",
+    "patchouli.gui.lexicon.button.mark_all_read": "Mark all as read",
+    "patchouli.gui.lexicon.button.mark_category_read": "Mark this category as read"
 }
