@@ -149,5 +149,6 @@
     "commands.origin.origin_not_found": "未知的起源: %s",
     "commands.origin.set.success.single": "設置%s在%s層中的起源為%s.",
     "commands.origin.set.success.multiple": "設置%s個目標在%s層中的起源為%s.",
+    "commands.origin.get.result": "%s has the following %s: %s (%s)",
     "origins.avian_sleep_fail": "你需要新鮮的空氣才能入睡"
 }
