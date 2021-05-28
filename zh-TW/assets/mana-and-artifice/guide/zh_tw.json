@@ -707,7 +707,7 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Enemy: Witch Hunter"
+				"value": "敵人：女巫獵人"
 			},
 			{
 				"type": "text",
@@ -723,7 +723,7 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Enemy: Mushroom Soldier"
+				"value": "敵人：蘑菇士兵"
 			},
 			{
 				"type": "text",
@@ -739,7 +739,7 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Enemy: Pixie"
+				"value": "敵人：小精靈"
 			},
 			{
 				"type": "text",
@@ -1039,7 +1039,7 @@
 			},
 			{
 				"type": "title",
-				"value": "Setup",
+				"value": "設置",
 				"newPage": true
 			},
 			{
@@ -1048,7 +1048,7 @@
 			},
 			{
 				"type": "title",
-				"value": "The Construct",
+				"value": "構造",
 				"newPage": true
 			},
 			{
@@ -1057,7 +1057,7 @@
 			},
 			{
 				"type": "title",
-				"value": "The Materials",
+				"value": "材料",
 				"newPage": true
 			},
 			{
@@ -1066,7 +1066,7 @@
 			},
 			{
 				"type": "title",
-				"value": "The Logic",
+				"value": "邏輯",
 				"newPage": true
 			},
 			{
@@ -2003,11 +2003,11 @@
 		"related_recipes": [
 			{
 				"type": "manaweaving_altar",
-				"location": "mana-and-artifice:manaweaving/enchanting/luck_of_the_sea_i"
+				"location": "mana-and-artifice:manaweaving/transitory_tunnel"
 			},
 			{
 				"type": "manaweaving_altar",
-				"location": "mana-and-artifice:manaweaving/enchanting/luck_of_the_sea_ii"
+				"location": "mana-and-artifice:manaweaving/enchanting/luck_of_the_sea_i"
 			},
 			{
 				"type": "manaweaving_altar",
@@ -2059,7 +2059,7 @@
 		"related_recipes": [
 			{
 				"type": "manaweaving_altar",
-				"location": "mana-and-artifice:manaweaving/enchanting/mending"
+				"location": "mana-and-artifice:manaweaving/enchanting/lure_iii"
 			}
 		]
 	},
@@ -2079,7 +2079,7 @@
 		"related_recipes": [
 			{
 				"type": "manaweaving_altar",
-				"location": "mana-and-artifice:manaweaving/enchanting/multishot"
+				"location": "mana-and-artifice:manaweaving/enchanting/mending"
 			}
 		]
 	},
@@ -2099,6 +2099,10 @@
 		"related_recipes": [
 			{
 				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/multishot"
+			},
+			{
+				"type": "manaweaving_altar",
 				"location": "mana-and-artifice:manaweaving/enchanting/piercing_i"
 			},
 			{
@@ -2108,10 +2112,6 @@
 			{
 				"type": "manaweaving_altar",
 				"location": "mana-and-artifice:manaweaving/enchanting/piercing_iii"
-			},
-			{
-				"type": "manaweaving_altar",
-				"location": "mana-and-artifice:manaweaving/enchanting/piercing_iv"
 			}
 		]
 	},
@@ -2131,6 +2131,10 @@
 		"related_recipes": [
 			{
 				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/piercing_iv"
+			},
+			{
+				"type": "manaweaving_altar",
 				"location": "mana-and-artifice:manaweaving/enchanting/power_i"
 			},
 			{
@@ -2140,10 +2144,6 @@
 			{
 				"type": "manaweaving_altar",
 				"location": "mana-and-artifice:manaweaving/enchanting/power_iii"
-			},
-			{
-				"type": "manaweaving_altar",
-				"location": "mana-and-artifice:manaweaving/enchanting/power_iv"
 			},
 			{
 				"type": "manaweaving_altar",
