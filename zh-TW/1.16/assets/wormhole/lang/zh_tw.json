@@ -4,7 +4,7 @@
   "block.wormhole.portal_stabilizer": "傳送門穩定器",
   "block.wormhole.basic_energy_cell": "基礎能量元件",
   "block.wormhole.advanced_energy_cell": "進階能量元件",
-  "block.wormhole.creative_energy_cell": "創造模式能量元件",
+  "block.wormhole.creative_energy_cell": "創造能源元件",
   "block.wormhole.basic_target_cell": "基礎目的地元件",
   "block.wormhole.advanced_target_cell": "進階目的地元件",
   "block.wormhole.coal_generator": "煤炭發電機",
@@ -16,7 +16,7 @@
   "wormhole.target_device.gui.current_location": "目前位置",
   "wormhole.target_device.gui.target_name": "目的地名稱",
   "wormhole.target_device.gui.coords": "座標 (x,y,z)",
-  "wormhole.target_device.gui.facing": "面向",
+  "wormhole.target_device.gui.facing": "砌牆(面朝方向)",
   "wormhole.gui.arrow_button.up": "上移",
   "wormhole.gui.arrow_button.down": "下移",
   "wormhole.direction.north": "北",
@@ -30,8 +30,8 @@
   "wormhole.portal.gui.change_target": "變更目標",
   "wormhole.portal.color.gui.complete": "完成",
   "wormhole.portal.gui.activate": "啟動",
-  "wormhole.portal.gui.deactivate": "未啟動",
-  "wormhole.portal.gui.status": "狀態:",
+  "wormhole.portal.gui.deactivate": "關閉",
+  "wormhole.portal.gui.status": "狀態：",
   "wormhole.portal.gui.idle_cost": "閒置耗能:",
   "wormhole.portal.gui.teleport_cost": "傳送耗能:",
   "wormhole.portal.targets.gui.return": "返回",
@@ -63,7 +63,7 @@
   "wormhole.color.black": "夜黑",
   "wormhole.color.random": "隨機",
   "wormhole.target.location": "座標",
-  "wormhole.target.dimension": "維度",
+  "wormhole.target.dimension": "Dimension",
   "wormhole.target.direction": "方向",
-  "wormhole.target.teleport_cost": "傳送耗能"
+  "wormhole.target.teleport_cost": "傳送消耗"
 }
