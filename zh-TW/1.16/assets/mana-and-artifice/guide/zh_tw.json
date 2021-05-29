@@ -6645,7 +6645,7 @@
 			},
 			{
 				"type": "text",
-				"value": "Constructs have an intelligence attribute which determines how many instructions they can follow in a lodestar (default is 8).  If you tell them to follow a lodestar that has more commands than they can handle, they will try but will become confused after too many and start over.\n\nCraft Smart Construct Heads out of different materials to get around this limitation."
+				"value": "魔偶有一個智能屬性，它決定了它們在一個統御星錐中可以遵循多少指令（默認為 8）。 如果你給太多指令，他們會嘗試並在過載後變得困惑且重新開始。\n\n用不同的材料製作智能魔偶頭來解決這個限制。 "
 			}
 		]
 	},
@@ -6659,7 +6659,7 @@
 			},
 			{
 				"type": "text",
-				"value": "From time to time, you may find yourself asking \"What is my construct doing??\"  Enter the Construct Diagnostics Rod.  Make one of these and right click your construct with it to get a live view into its brain."
+				"value": "有時，您可能會發現自己在問“我的魔偶在做什麼？” 輸入魔偶診斷桿。 製作其中一個並右鍵您的魔偶以獲取其大腦的實時視圖。"
 			}
 		],
 		"related_recipes": [
@@ -6915,11 +6915,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Construct Grabber Arms"
+				"value": "魔偶掌型手臂"
 			},
 			{
 				"type": "text",
-				"value": "Construct grabber arms allow weak attacks and carrying of items."
+				"value": "魔偶掌型臂允許他進行較弱的攻擊和攜帶物品。"
 			}
 		],
 		"related_recipes": [
@@ -6969,11 +6969,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Construct Bladed Arms"
+				"value": "魔偶刀型手臂"
 			},
 			{
 				"type": "text",
-				"value": "Construct bladed arms allow for faster, more powerful attacks."
+				"value": "魔偶刃型手臂可以進行更快、更強大的攻擊。"
 			}
 		],
 		"related_recipes": [
@@ -7015,11 +7015,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Construct Shield Arms"
+				"value": "魔偶盾型手臂"
 			},
 			{
 				"type": "text",
-				"value": "Construct shield arms allow the construct to block incoming attacks in front of it, greatly increasing its survivability.  They also increase the construct's overall armor/toughness values based on their material:"
+				"value": "魔偶盾型手臂允許它擋住前方的攻擊，大大提高其生存能力。 它們還會根據其材料增加魔偶的整體裝甲/韌性值："
 			},
 			{
 				"type": "text",
@@ -7085,11 +7085,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Construct Axe Arms"
+				"value": "魔偶斧型手臂"
 			},
 			{
 				"type": "text",
-				"value": "Construct axe arms allow for moderate attacks and chopping down trees."
+				"value": "魔偶斧型手臂允許中等的攻擊和砍伐樹木。 "
 			}
 		],
 		"related_recipes": [
@@ -7139,11 +7139,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Construct Mana Cannon Arms"
+				"value": "魔偶法力加農炮手臂"
 			},
 			{
 				"type": "text",
-				"value": "Mana cannon arms give constructs the ability to attack at range, but due to the intricacy of the construction, this arm cannot be used for melee attacks.  These magic attacks can be very powerful, and moreso depending on the material used to craft the arm.  A mana torso is required for these to function, as well as periodic recharging by mana crystals.  See the mana torso entry for more information on capacity and recharging.  Damage per material is as follows:"
+				"value": "魔偶法力加農炮使它能夠在遠距離攻擊，但由於構造複雜，該武器無法用於近戰攻擊。 這些魔法攻擊非常強大，而且取決於製作手臂的材料。 它們需要法力軀幹才能運作，並且需要法力水晶定期充電。 有關容量和充電的更多信息，請參閱法力軀幹條目。 每種材料的傷害如下："
 			},
 			{
 				"type": "text",
@@ -7228,11 +7228,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "建構鎚子手臂"
+				"value": "魔偶鎚型手臂"
 			},
 			{
 				"type": "text",
-				"value": "Construct hammer arms allow for slower, moderately powerful attacks with higher knockback."
+				"value": "魔偶鎚型手臂允許進行更慢、中等強度的攻擊，並具有更高的擊退。"
 			}
 		],
 		"related_recipes": [
@@ -7282,7 +7282,7 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "建構基本軀幹"
+				"value": "魔偶基礎軀幹"
 			},
 			{
 				"type": "text",
@@ -7317,11 +7317,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "建構裝甲軀幹"
+				"value": "魔偶裝甲軀幹"
 			},
 			{
 				"type": "text",
-				"value": "The armor torso greatly increases the survivability of constructs by providing armor and/or toughness values.  The values are as follows:"
+				"value": "裝甲軀幹通過提供盔甲和/或韌性值大大提高了魔偶的生存能力。 這些值如下："
 			},
 			{
 				"type": "text",
@@ -7388,11 +7388,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "建造魔力軀幹"
+				"value": "魔偶法力軀幹"
 			},
 			{
 				"type": "text",
-				"value": "The mana torso gives a resevoir of mana to a construct to be used by various parts, such as the mana cannon.   The mana in the resevoir does not regenerate naturally and must be recharged by having the construct within the area of effect of a Mana Crystal.\n\nBetter materials can hold more mana. The amount of mana each material can hold is as follows:"
+				"value": "法力軀幹為各種部件（例如法力加農炮）使用的魔偶提供了法力儲備。 蓄水池中的法力不會自然再生，必須通過將魔偶置於法力水晶的影響範圍內來補充。\n\n更好的材料可以容納更多的法力。 每種材料可以容納的法力值如下："
 			},
 			{
 				"type": "text",
@@ -7459,7 +7459,7 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Construct Basic Legs"
+				"value": "魔偶基礎腿部"
 			},
 			{
 				"type": "text",
@@ -7494,7 +7494,7 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Construct Reinforced Legs"
+				"value": "魔偶加固腿部"
 			},
 			{
 				"type": "text",
