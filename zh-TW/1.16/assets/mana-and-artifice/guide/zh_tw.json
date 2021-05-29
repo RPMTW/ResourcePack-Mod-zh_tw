@@ -7023,7 +7023,7 @@
 			},
 			{
 				"type": "text",
-				"value": "Wood: 3 armor, 0 toughness"
+				"value": "木： 3 裝甲， 0 韌性"
 			},
 			{
 				"type": "text",
@@ -7031,19 +7031,19 @@
 			},
 			{
 				"type": "text",
-				"value": "Iron: 6 armor, 0 toughness"
+				"value": "鐵： 6 裝甲， 0 韌性"
 			},
 			{
 				"type": "text",
-				"value": "Gold: 7 armor, 0 toughness"
+				"value": "金： 7 裝甲， 0 韌性"
 			},
 			{
 				"type": "text",
-				"value": "Diamond: 8 armor, 2 toughness"
+				"value": "鑽石： 8 裝甲， 2 韌性"
 			},
 			{
 				"type": "text",
-				"value": "Obsidian: 8 armor, 3 toughness"
+				"value": "黑曜石：8裝甲，3韌性"
 			}
 		],
 		"related_recipes": [
@@ -7147,11 +7147,11 @@
 			},
 			{
 				"type": "text",
-				"value": "Wood: 3 damage"
+				"value": "木：＋3傷害"
 			},
 			{
 				"type": "text",
-				"value": "Stone: 5 damage"
+				"value": "石頭：＋5傷害"
 			},
 			{
 				"type": "text",
@@ -7325,7 +7325,7 @@
 			},
 			{
 				"type": "text",
-				"value": "Wood: 3 armor, 0 toughness"
+				"value": "木： 3 裝甲， 0 韌性"
 			},
 			{
 				"type": "text",
@@ -7333,19 +7333,19 @@
 			},
 			{
 				"type": "text",
-				"value": "Iron: 6 armor, 0 toughness"
+				"value": "鐵： 6 裝甲， 0 韌性"
 			},
 			{
 				"type": "text",
-				"value": "Gold: 7 armor, 0 toughness"
+				"value": "金： 7 裝甲， 0 韌性"
 			},
 			{
 				"type": "text",
-				"value": "Diamond: 8 armor, 2 toughness"
+				"value": "鑽石： 8 裝甲， 2 韌性"
 			},
 			{
 				"type": "text",
-				"value": "Obsidian: 8 armor, 3 toughness"
+				"value": "黑曜石：8裝甲，3韌性"
 			}
 		],
 		"related_recipes": [
@@ -7673,7 +7673,7 @@
 			},
 			{
 				"type": "text",
-				"value": "The smart head allows constructs to execute more tasks within a lodestar.  The default is 8, and the material the smart head is made of determines the bonus:"
+				"value": "智能頭允許魔偶在一個統御星錐內執行更多任務。 默認為8個，智能頭的材質決定了它能執行多少任務："
 			},
 			{
 				"type": "text",
