@@ -1,5 +1,5 @@
 {
-  "key.enchantedtooltips.config.category.main": "主體",
+  "key.enchantedtooltips.config.category.main": "主要部件(等級 %d)",
   "key.enchantedtooltips.config.category.enchants": "附魔描述",
   "key.enchantedtooltips.config.booksenabled": "啟用附魔書",
   "key.enchantedtooltips.config.itemsenabled": "啟用附魔工具",
@@ -23,7 +23,7 @@
   "enchantedtooltip.enchant.applicableTo": " Applies to: ",
   "enchantedtooltip.enchant.from": " From: ",
   "enchantedtooltip.enchant.type.ALL": "全部",
-  "enchantedtooltip.enchant.type.ARMOR": "盔甲",
+  "enchantedtooltip.enchant.type.ARMOR": "裝甲",
   "enchantedtooltip.enchant.type.ARMOR_FEET": "靴子",
   "enchantedtooltip.enchant.type.ARMOR_LEGS": "護腿",
   "enchantedtooltip.enchant.type.ARMOR_CHEST": "胸甲",
