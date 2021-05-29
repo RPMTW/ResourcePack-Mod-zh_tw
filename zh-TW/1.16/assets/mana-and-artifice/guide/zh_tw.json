@@ -6449,7 +6449,7 @@
 			},
 			{
 				"type": "text",
-				"value": "Wooden construct parts are made from any kind of wood.  They are buoyant and light, meaning the help constructs to float and move more quickly.  However they cause the construct to take more damage from fire, and they don't have much in terms of health."
+				"value": "木製魔偶部件由任何種類的木材製成。 它們既輕且浮力好，這意味著幫助魔偶可以更快地漂浮和移動。 然而，它們會導致魔偶在火焰中受到更多傷害，並且生命值不高。"
 			},
 			{
 				"type": "text",
@@ -6462,7 +6462,7 @@
 			},
 			{
 				"type": "text",
-				"value": "Stone constructs are more sturdy than wood, though they will sink in water.  They are more sturdy than wood, but not as much so as the other materials.  As it is a heavier material, constructs with more stone parts are more resistant to being knocked back by attacks."
+				"value": "石頭魔偶比木頭更堅固，儘管會沉入水中。 它們比木材更堅固，但不如其他材料堅固。 由於它是一種較重的材料，具有更多石頭部分的魔偶更能抵抗擊退。"
 			},
 			{
 				"type": "text",
@@ -6475,7 +6475,7 @@
 			},
 			{
 				"type": "text",
-				"value": "The primary choice for village golem material, iron has seen a significant amount of use.  It is more resilient than stone, it sinks faster, moves slower, and resists being knocked back more.  Iron constructs unlock at Tier 3."
+				"value": "作為村莊魔像材料的主要選擇，鐵已被大量使用。 它比石頭更有彈性，但下沉得更快，移動得更慢，並且更能抵抗擊退。鐵魔偶在第3層級解鎖。"
 			},
 			{
 				"type": "text",
@@ -6488,7 +6488,7 @@
 			},
 			{
 				"type": "text",
-				"value": "Gold constructs are very similar to iron constructs, with a little more knockback resistance at the expense of health. Gold constructs unlock at Tier 3."
+				"value": "金魔偶與鐵魔偶非常相似，以犧牲生命值為代價具有更高的擊退抗性。 黃金魔偶在第3層級解鎖。"
 			},
 			{
 				"type": "text",
@@ -6501,7 +6501,7 @@
 			},
 			{
 				"type": "text",
-				"value": "Obsidian constructs are the ultimate in resilience.  However they sink extremely quickly and move very slowly.  Obsidian constructs unlock at Tier 4."
+				"value": "黑曜石魔偶是韌性的終極之作。 然而，它們下沉得非常快，移動得非常緩慢。 黑曜石魔偶在第4層級解鎖。"
 			},
 			{
 				"type": "text",
@@ -6514,7 +6514,7 @@
 			},
 			{
 				"type": "text",
-				"value": "Diamond constructs are very resilient and not overly heavy in terms of buoyancy.  They're quicker too, but offer no knockback resistance. Diamond constructs unlock at Tier 5."
+				"value": "鑽石魔偶非常有彈性，在浮力方面不會過重。它們也更快，但不提供擊退抗性。鑽石魔偶在第5層級解鎖。"
 			},
 			{
 				"type": "text",
@@ -6522,7 +6522,7 @@
 			},
 			{
 				"type": "title",
-				"value": "Setting up the Construct Workbench",
+				"value": "設置魔偶工作臺",
 				"newPage": true
 			},
 			{
@@ -6537,7 +6537,7 @@
 			},
 			{
 				"type": "title",
-				"value": "Summoning the Construct",
+				"value": "召喚魔偶",
 				"newPage": true
 			},
 			{
@@ -6551,11 +6551,11 @@
 			},
 			{
 				"type": "text",
-				"value": "As mentioned earlier, constructs are summoned with an affinity.  This affects what they do.  A construct can have a total of 8 affinity points.  The list below shows the effects per point of affinity.  You can mix and match freely, so find something that perhaps shores up weaknesses within the material used, or enhances the strong points.  Conflicting affinities within the construct do not matter."
+				"value": "如前所述，魔偶是通過親和力召喚的。 這影響了他們的工作。 一個魔偶總共可以有8個親和點。 下表顯示了每點親和力的影響。 您可以自由混合搭配，因此可以找到一些能夠彌補所用材料中弱點或增強優點的東西。 魔偶內的衝突親和力沒有關係。"
 			},
 			{
 				"type": "text",
-				"value": "Air: 1 move speed/point\n\nArcane: 5% magic damage resistance/point\n\nEarth: 5% physical damage resist/point\n\nEnder: 1 carry capacity/point\n\nFire: 1s/point of ignition when attacking\n\nWater: 1 buoyancy/point"
+				"value": "空氣：1移動速度/點\n\n奧術：5% 魔法傷害抗性/點\n\n大地：5%物理傷害抗性/點\n\n末影：1承載能力/點\n\n火焰：攻擊時燃燒持續1s/點\n\n流水：1浮力/點"
 			},
 			{
 				"type": "title",
@@ -6563,7 +6563,7 @@
 			},
 			{
 				"type": "text",
-				"value": "Constructs can swim if they have a positive buoyancy.  This is determined by their materials and their affinity."
+				"value": "如果魔偶具有正浮力，則它們可以游泳。 這是由它們的材料和親和力決定的。"
 			},
 			{
 				"type": "title",
