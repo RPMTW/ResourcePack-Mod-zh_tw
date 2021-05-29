@@ -7,7 +7,7 @@
     "block.naturesaura.nature_altar": "自然祭壇",
     "block.naturesaura.decayed_leaves": "腐敗樹葉",
     "block.naturesaura.golden_leaves": "黃金樹葉",
-    "block.naturesaura.gold_powder": "金葉粉",
+    "block.naturesaura.gold_powder": "Gold Powder",
     "block.naturesaura.wood_stand": "木基座",
     "block.naturesaura.ancient_planks": "遠古木材",
     "block.naturesaura.infused_stone": "灌注石",
@@ -191,7 +191,7 @@
     "advancement.naturesaura.infused_tools.desc": "製作一個灌注鐵鎬和灌注鐵劍",
     "advancement.naturesaura.aura_bottle_overworld": "陽光之味",
     "advancement.naturesaura.aura_bottle_overworld.desc": "收集一瓶主世界的靈氣",
-    "advancement.naturesaura.aura_bottle_nether": "令人毛骨悚然的恐怖骷髏",
+    "advancement.naturesaura.aura_bottle_nether": "扭曲可怕的骷髏們",
     "advancement.naturesaura.aura_bottle_nether.desc": "收集一瓶地獄的靈氣",
     "advancement.naturesaura.aura_bottle_end": "呼吸之聲環繞不絕",
     "advancement.naturesaura.aura_bottle_end.desc": "收集一瓶終界的靈氣",
@@ -217,7 +217,7 @@
     "effect.naturesaura.breathless": "窒息",
     "entity.naturesaura.effect_inhibitor": "效應粉",
     "entity.naturesaura.mover_cart": "靈氣吸引礦車",
-    "enchantment.naturesaura.aura_mending": "自然修補",
+    "enchantment.naturesaura.aura_mending": "靈氣修補",
     "enchantment.naturesaura.aura_mending.desc": "使用靈氣修理工具",
     "naturesaura:aura_mending.enchant.desc": "使用靈氣治癒玩家"
 }
