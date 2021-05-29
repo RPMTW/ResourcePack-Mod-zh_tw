@@ -1048,7 +1048,7 @@
 			},
 			{
 				"type": "title",
-				"value": "構造",
+				"value": "魔偶",
 				"newPage": true
 			},
 			{
@@ -6423,11 +6423,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Animated Constructs"
+				"value": "動作魔偶"
 			},
 			{
 				"type": "text",
-				"value": "Animated constructs are humanoid shaped constructs that have been imbued with magic in order to animate them to a semblance of life."
+				"value": "動作魔偶體是人形的構造體，它們被灌輸了魔法，以使它們具有生命的外觀。"
 			},
 			{
 				"type": "title",
@@ -6435,7 +6435,7 @@
 			},
 			{
 				"type": "text",
-				"value": "Constructs are created from 5 parts:  Head, Torso, Legs, and 2 arms.  These parts dictate what the construct is capable of.  Take some time to look through the various parts in the Constructs section of the Codex and decide which ones you want to make.  You can modify a construct at any time by commanding it to return to an empty Construct Workbench.  The way to do so is described a little further on.\n\nOnce you know which parts you want to make, you need to decide on a material.  There are six materials that a Construct can be made from, and each changes the properties of the construct.  You can mix and match materials, and this will balance the benefits and disadvantages of the construct.  It's worthwhile to experiment with different combinations to find one that suits your needs."
+				"value": "魔偶由5個部分創建：頭部、軀幹、腿部和兩個手臂。這些部分決定了魔偶的能力。花一些時間查看奧秘之眼魔偶分類中的各個部分，並決定您要製作哪些零件。您可以隨時通過命令魔偶返回到空魔偶工作台來修改。這樣做的方法將在後面進一步描述。\n\n一旦知道要製造哪些零件，就需要決定材料。 有六種材料可以製成魔偶，每種材料都會改變魔偶的屬性。 您可以混合和匹配材質，這將平衡構造的優缺點。 嘗試不同的組合以找到適合您需求的組合是值得的。"
 			},
 			{
 				"type": "title",
@@ -6527,7 +6527,7 @@
 			},
 			{
 				"type": "text",
-				"value": "The requirements for the Construct Workbench are pretty flexible.  You need the workbench itself, and a total of 8 Chimerite Crystals within 5 blocks of the workbench in any direction.  They can be on walls, ceilings, floors, without line of sight; it doesn't matter."
+				"value": "魔偶工作檯的要求非常彈性。 您需要工作檯本身，以及工作檯任何方向5個方塊內的總共8個秘鳴晶體。 它們可以在牆壁、天花板、地板上，被擋住也沒關係。"
 			},
 			{
 				"type": "image",
@@ -6542,7 +6542,7 @@
 			},
 			{
 				"type": "text",
-				"value": "Once you have your workbench set up and your parts made, you'll need to choose what affinities you want to imbue into the construct.  Each affinity changes attributes of the construct.  You set the affinity by casting spells of the given affinity at each of the 8 nearby chimerite crystals.  When you do, a sigil will appear above the crystal indicating the affinity.  Place all five parts of the construct on the workbench and activate the workbench itself with an empty hand to begin the crafting process.  Once the imbuing is complete. you can start to command your construct."
+				"value": "設置好工作台並製作好零件後，您需要選擇要為魔偶注入的勢力。 每個勢力都會更改魔偶的屬性。 您可以通過對附近 8 個秘鳴水晶中的每一個施放具有給定勢力的法術來設置勢力。 當你這樣做時，水晶上方會出現一個指示勢力的印記。 將魔偶的所有五個部分放在工作台上，並用空手激活工作臺本身以開始製作過程。 一旦灌輸完成。 你可以開始指揮你的魔偶。"
 			},
 			{
 				"type": "title",
@@ -6641,7 +6641,7 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "建構智慧"
+				"value": "魔偶智能"
 			},
 			{
 				"type": "text",
@@ -6655,7 +6655,7 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "建構診斷"
+				"value": "魔偶診斷"
 			},
 			{
 				"type": "text",
@@ -7634,7 +7634,7 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Construct Horn Head"
+				"value": "魔偶喇叭頭部"
 			},
 			{
 				"type": "text",
@@ -7669,7 +7669,7 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Construct Smart Head"
+				"value": "魔偶智能頭部"
 			},
 			{
 				"type": "text",
