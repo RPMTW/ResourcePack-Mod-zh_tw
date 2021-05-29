@@ -11,7 +11,7 @@
     "trashcans.gui.energy_trash_can.limit": "傳輸上限",
     "trashcans.gui.energy_trash_can.limit.change1": "SHIFT %s",
     "trashcans.gui.energy_trash_can.limit.change2": "CTRL %s",
-    "trashcans.gui.energy_trash_can.limit.change3": "CTRL & SHIFT %s",
+    "trashcans.gui.energy_trash_can.limit.change3": "CTRL+SHIFT %s",
     "trashcans.gui.energy_trash_can.check.on": "Limited",
     "trashcans.gui.energy_trash_can.check.off": "無限制版",
     "trashcans.gui.energy_trash_can.value": "Max $number$ FE/t",
