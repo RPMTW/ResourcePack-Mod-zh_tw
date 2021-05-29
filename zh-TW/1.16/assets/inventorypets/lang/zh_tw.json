@@ -149,8 +149,8 @@
     "entity.inventorypets.bed_pet_entity": "Living Bed",
     "entity.inventorypets.banana_entity": "香蕉",
     "entity.inventorypets.apple_entity": "蘋果",
-    "entity.inventorypets.golden_apple_entity": "Golden Apple",
-    "entity.inventorypets.siamese_entity": "Siamese Cat",
+    "entity.inventorypets.golden_apple_entity": "金蘋果",
+    "entity.inventorypets.siamese_entity": "貓",
     "entity.Banana": "香蕉",
     "item.wolf.false": "狼警報關閉",
     "item.wolf.true": "狼警報啟用",
@@ -587,6 +587,6 @@
     "info.petrifier.requiresdiamondorblock": "Petrifier needs a diamond or this is an invalid block",
     "info.gravepet.nonvanilla": "Special inventory items restored to standard inventory",
     "tooltip.ip.logs": "Logs",
-    "tooltip.ip.planks": "Planks",
+    "tooltip.ip.planks": "木材",
     "tooltip.ip.patreonitem": "僅限贊助人"
 }
