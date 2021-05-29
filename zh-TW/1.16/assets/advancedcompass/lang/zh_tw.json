@@ -1,5 +1,5 @@
 {
-  "key.advancedcompass.openconfig": "打開設定",
+  "key.advancedcompass.openconfig": "打開配置",
   "key.advancedcompass.category": "探索指南針",
   "key.advancedcompass.newwaypoint": "建立定位點",
   "key.advancedcompass.openwaypointlist": "打開定位點清單",
@@ -7,7 +7,7 @@
   "advancedcompass.config.gui.entbtn": "實體列表",
   "advancedcompass.config.gui.hideall": "全部隱藏",
   "advancedcompass.config.gui.showall": "顯示全部",
-  "advancedcompass.config.gui.addnew": "新增",
+  "advancedcompass.config.gui.addnew": "新建",
   "advancedcompass.config.gui.yoff": "Y軸方向偏移:",
   "advancedcompass.config.gui.yoff.tt": "螢幕頂端的偏移（從 0 到 50 ）",
   "advancedcompass.config.gui.maxrad": "距離:",
@@ -45,7 +45,7 @@
   "advancedcompass.waypoint.distance.min": "最小:",
   "advancedcompass.waypoint.distance.max": "最大:",
   "advancedcompass.waypoint.color": "顏色:",
-  "advancedcompass.waypoint.enabled": "啟用:",
+  "advancedcompass.waypoint.enabled": "Enabled:",
   "advancedcompass.waypoint.cancel": "取消",
   "advancedcompass.waypoint.save": "儲存",
   "advancedcompass.waypoint.list": "傳送點列表"
