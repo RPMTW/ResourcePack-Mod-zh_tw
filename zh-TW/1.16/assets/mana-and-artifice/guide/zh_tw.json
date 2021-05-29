@@ -451,7 +451,7 @@
 			},
 			{
 				"type": "text",
-				"value": "/setFaction [faction_id] <player>\nSets a player's faction.  For some reason this won't autocomplete on servers because forge, but the valid factions are:  NONE, DEMONS, FEY_COURT, ANCIENT_WIZARDS"
+				"value": "/setFaction [faction_id] <player>\n設置玩家的派系。 出於某種原因，這不會在伺服器上自動完成因為Forge，但有效的派係是：NONE、DEMONS、FEY_COURT、ANCIENT_WIZARDS"
 			},
 			{
 				"type": "text",
@@ -563,7 +563,7 @@
 			},
 			{
 				"type": "text",
-				"value": "The Courts of the Fey have a focus on subterfuge and trickery.  Their relics include items such as the Spectral Elytra, which is an enchanted elytra that uses mana to fly, the Bracelet of Trickery which makes you invisible while sneaking and causes sneak punches to send your target flying, and spell components such as Decoy and Heal.  When looking at the occulus, anything requiring the Fey faction will be marked with the following icon:"
+				"value": "仙女之庭專注於謊言和詭計。 他們的遺物包括光譜鞘翅之類的物品，它是一種使用法力飛行的附魔鞘翅，詭計手鐲，它使您在潛行時隱形並使您的目標飛起來，以及誘餌和治療之類的法術組件。 查看奧秘之眼時，任何需要仙女之庭派系的東西都將標有以下圖標："
 			},
 			{
 				"type": "image",
@@ -727,7 +727,7 @@
 			},
 			{
 				"type": "text",
-				"value": "Mushroom Soldiers are one of the soldiers of the Fey Courts.  They are quick and skilled with their spear, able to use it to toss their enemy into the air.  This can often combo with nearby pixies making them significantly more dangerous."
+				"value": "蘑菇兵是仙女之庭的士兵之一。 他們的長矛敏捷而熟練，能夠用它將敵人拋向空中。 這通常可以與附近的小精靈組合，使它們變得更加危險。"
 			}
 		],
 		"related_recipes": []
@@ -743,7 +743,7 @@
 			},
 			{
 				"type": "text",
-				"value": "精靈是仙女之庭的一名士兵。 它們可以使用四種元素親和力中的一種生成，並且每一種都會用元素弩箭進行攻擊。\n\n火焰精靈可以熔化裝備的盔甲，熱量使受影響的人的攻擊傷害降低。\n\n流水精靈會因霜凍而減速，或將您拉入水下。\n\n空氣精靈可以把你扔到空中。\n\n大地精靈可以對你造成物理傷害，如果你在空中，可以把你拉到地球上。\n\n精靈本身不是個麻煩事，但一群可能會構成嚴重的威脅，尤其是當他們有蘑菇士兵作為前線時。"
+				"value": "小精靈是仙女之庭的一名士兵。 它們可以使用四種元素親和力中的一種生成，並且每一種都會用元素弩箭進行攻擊。\n\n火焰精靈可以熔化裝備的盔甲，熱量使受影響的人的攻擊傷害降低。\n\n流水精靈會因霜凍而減速，或將您拉入水下。\n\n空氣精靈可以把你扔到空中。\n\n大地精靈可以對你造成物理傷害，如果你在空中，可以把你拉到地球上。\n\n精靈本身不是個麻煩事，但一群可能會構成嚴重的威脅，尤其是當他們有蘑菇士兵作為前線時。"
 			}
 		],
 		"related_recipes": []
@@ -2573,7 +2573,7 @@
 			},
 			{
 				"type": "text",
-				"value": "Spell books are well and good, but I wonder if I can find a way to bind a spell book to a specific combination of manaweaving symbols?  Then, if I ever lose the book or if it is destroyed, I can simply summon it back with its contents intact.\n\nThere has to be a way.  Maybe even with a cantrip."
+				"value": "法術書很好，但我想知道我是否能找到一種方法將法術書綁定到特定的魔力符號組合？ 然後，如果我丟失了這本書或它被毀壞了，我可以簡單地將其完整地召喚回來。\n\n必須有辦法。也許甚至有一個符法。"
 			}
 		],
 		"related_recipes": [
@@ -3583,7 +3583,7 @@
 			},
 			{
 				"type": "text",
-				"value": "我已經被展示瞭如何從妖精之庭本身拔出保護性的荊棘和藤蔓。 這些荊棘會保護我免受類似的其他人的傷害，例如仙人掌和甜漿果或其他荊棘。\n\n警告：這只能由與妖精之庭結盟的人製作。"
+				"value": "我已經被展示瞭如何從絕對仙女之庭本身拔出保護性的荊棘和藤蔓。 這些荊棘會保護我免受類似的其他人的傷害，例如仙人掌和甜漿果或其他荊棘。\n\n警告：這只能由與仙女之庭結盟的人製作。"
 			}
 		],
 		"related_recipes": [
@@ -6206,7 +6206,7 @@
 			},
 			{
 				"type": "text",
-				"value": "Cantrips are spells that you can cast using nothing but manaweaving pattern combination.  You unlock new cantrips every time you tier up.\n\nYou can use the cantrip book to set the pattern combinations for your cantrips (minimum of 2 patterns), and later on even set custom cantrip spells, provided they are not channeled."
+				"value": "符法是只能使用魔力模式組合施展的法術。 每次升級時都會解鎖新的咒語。\n\n您可以使用符法之書為您的符法設置模式組合（最少 2 個模式），然後甚至可以設置自定義符法法術，前提是它們沒有被引導。"
 			},
 			{
 				"type": "title",
@@ -6214,7 +6214,7 @@
 			},
 			{
 				"type": "text",
-				"value": "要施展法術，首先你需要一根魔杖。 裝備它，並使用正常的織魔圖騰繪製第一個圖案。 完成後會出現在空中。 接下來，繪製第二個圖案。 完成後，它將與第一個合併。 匹配符法模式後，您將聽到提示音並看到帶有倒計時條的圖標。 對於必須瞄準的法術，例如咒語，它會在計時器結束時瞄準並施放您正在看的地方。"
+				"value": "要施展符法，首先你需要一根魔杖。 裝備它，並使用正常的織魔圖騰繪製第一個圖案。 完成後會出現在空中。 接下來，繪製第二個圖案。 完成後，它將與第一個合併。 匹配符法模式後，您將聽到提示音並看到帶有倒計時條的圖標。 對於必須瞄準的法術，例如咒語，它會在計時器結束時瞄準並施放您正在看的地方。"
 			},
 			{
 				"type": "title",
@@ -6222,19 +6222,19 @@
 			},
 			{
 				"type": "text",
-				"value": "The first cantrip will ignite a block you're looking at within 4 blocks after the timer reaches zero."
+				"value": "在計時器達到零後，第一個符法將點燃您正在查看的4格方塊內的1格。"
 			},
 			{
 				"type": "text",
-				"value": "The second cantrip will dispel harmful effects from you after a delay, akin to drinking milk."
+				"value": "第二個符法會在延遲後驅散你的有害影響，類似於喝牛奶。"
 			},
 			{
 				"type": "text",
-				"value": "The third cantrip will summon a grimoire, a spell book that works like an ender chest."
+				"value": "第三個符法將召喚一本魔法書，一本像末影箱一樣工作的法術書。"
 			},
 			{
 				"type": "text",
-				"value": "The final 3 cantrips allow you to put spells into them, and casting the cantrip will cast the spell, though without any modifiers applied."
+				"value": "最後 3 個符法允許您將咒語放入其中，並且施放符法將施放該咒語，儘管沒有應用任何修飾符。"
 			}
 		],
 		"related_recipes": [
@@ -6282,7 +6282,7 @@
 			},
 			{
 				"type": "text",
-				"value": "Warding candles can be used to prevent hostile creatures from spawning in a 32 block radius in all directions around the candle.  They must be lit with flint and steel, a fire spell, or a flame cantrip to function.  They can be extinguished by right clicking.  When extinguished, they will not prevent monsters from spawning."
+				"value": "護佑之燭可用於防止敵對生物在蠟燭周圍的所有方向 32 格半徑內生成。 必須用打火石、火法術或火焰符法點燃才能起作用。 它們可以通過右鍵來熄滅。 熄滅時，將不會阻止怪物生成。"
 			}
 		],
 		"related_recipes": [
