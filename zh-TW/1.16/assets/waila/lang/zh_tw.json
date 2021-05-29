@@ -46,7 +46,7 @@
   "config.waila.overlay_size_normal": "1.0x",
   "config.waila.overlay_size_half": "0.5x",
   "config.waila.overlay_color": "顏色",
-  "config.waila.overlay_alpha": "Alpha 值",
+  "config.waila.overlay_alpha": "Alpha",
   "config.waila.overlay_theme": "主題",
   "config.waila.formatting": "文字樣式",
   "config.waila.format_mod_name": "模組名稱",
@@ -70,6 +70,6 @@
   "config.waila.plugin_waila.show_entities": "顯示實體",
   "config.waila.plugin_waila.show_entity_hp": "顯示實體生命值",
   "config.waila.plugin_waila.show_states": "顯示狀態",
-  "entity.minecraft.villager.none": "失業",
-  "entity.minecraft.villager.nitwit": "傻子"
+  "entity.minecraft.villager.none": "失業的",
+  "entity.minecraft.villager.nitwit": "無用之人"
 }
