@@ -25,7 +25,7 @@ jobs:
         node-version: ${{ matrix.node-version }}
         
     - run: |
-       cd ${{ github.workspace }}/Spider
+       cd ${{ github.workspace }}/1.16/Spider
        npm i
        node .
   
