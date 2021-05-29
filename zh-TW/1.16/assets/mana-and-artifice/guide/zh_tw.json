@@ -162,7 +162,7 @@
 			},
 			{
 				"type": "text",
-				"value": "假如你在魔力條旁看見一個紅色的下箭頭，這表示你包包裡有東西的能量快沒了",
+				"value": "假如你在魔力條旁看見一個紅色閃電，這表示你的物品欄中有一個充電不足的物品",
 				"newPage": true
 			},
 			{
@@ -743,7 +743,7 @@
 			},
 			{
 				"type": "text",
-				"value": "Pixies are one of the soldiers of the Fey Courts.  They can spawn with one of the four elemental affinities, and each one will attack with elemental bolts.\n\nFire pixies can melt equipped armor and the heat makes those affected do less damage with their attacks.\n\nWater pixies can slow with frost, or pull you underwater.\n\nAir pixies can toss you into the air.\n\nEarth pixies can blast you with physical damage, and can pull you to the earth if you are airborne.\n\nPixies by themselves are not much more than a nuisance, but a group of them can pose a serious threat, especially when they have Mushroom Soldiers as their frontline."
+				"value": "精靈是Fey法院的一名士兵。 它們可以使用四種元素親和力中的一種生成，並且每一種都會用元素弩箭進行攻擊。\n\n火焰精靈可以熔化裝備的盔甲，熱量使受影響的人的攻擊傷害降低。\n\n流水精靈會因霜凍而減速，或將您拉入水下。\n\n空氣精靈可以把你扔到空中。\n\n大地精靈可以對你造成物理傷害，如果你在空中，可以把你拉到地球上。\n\n精靈本身不是個麻煩事，但一群可能會構成嚴重的威脅，尤其是當他們有蘑菇士兵作為前線時。"
 			}
 		],
 		"related_recipes": []
@@ -775,7 +775,7 @@
 			},
 			{
 				"type": "text",
-				"value": "Lantern Wraiths are one of the soldiers of the Demons of the Nether.  They fire bolts made of the souls of those they've slain, and each one increasingly slows and deals more damage as their target is drained more and more.  These bolts eat away at the very life force of their target, and have been said to also drain mana of those they hit."
+				"value": "燈籠幽靈是下界惡魔的士兵之一。 他們發射由他們所殺之人的靈魂製成的箭矢，隨著目標的血量越來越大，每一個箭矢都會越來越慢並造成越來越多的傷害。 這些箭矢會吞噬目標的生命力，據說還會吸取被擊中目標的法力。"
 			}
 		],
 		"related_recipes": []
@@ -1147,7 +1147,7 @@
 			},
 			{
 				"type": "text",
-				"value": "After that's done, you will need to infuse mana into it to apply the initial stage of the enchantment to the rune.\n\nPlace the item along with any other required reagents onto the manaweaving altar.  Then, using a manaweaver's wand, draw the required patterns on top of the altar.\n\nAlternately, you can use a manaweave projector placed adjacent to the altar to project the patterns.\n\nIf you make a mistake, you can activate the altar with the wand in your hand to have the wand draw the most recent pattern back out of the altar.\n\nOnce you've drawn the correct patterns, in the correct order, with the correct items, the altar will draw it all in to enchant the rune.  \n\nAll that's left now is to combine the rune with an item back at the runic anvil."
+				"value": "完成後，您需要將法力注入其中以將附魔的初始階段應用於符文。\n\n將物品與任何其他所需的試劑一起放在魔力祭壇上。 然後，使用魔杖，在祭壇頂部繪製所需的圖案。\n\n或者，您可以使用放置在祭壇附近的織魔放映機來放映圖案。\n\n如果你犯了一個錯誤，你可以用手中的魔杖啟動祭壇，讓魔杖從祭壇上畫回最近的圖案。\n\n一旦您以正確的順序用正確的物品繪製了正確的圖案，祭壇就會將其全部繪製出來以附魔符文。\n\n現在剩下的就是將符文與返回符文砧的物品結合起來。"
 			},
 			{
 				"type": "text",
@@ -1465,7 +1465,7 @@
 			},
 			{
 				"type": "text",
-				"value": "The Channeling enchantment can be added to a trident. With this enchantment, your trident will summon a lightning bolt at a mob if you throw the trident and it hits the mob (while its standing in the rain)."
+				"value": "引導附魔可以添加到三叉戟上。 有了這個附魔，你的三叉戟會在你扔出三叉戟並且它擊中怪物（當它站在雨中）時向怪物召喚一道閃電。"
 			}
 		],
 		"related_recipes": [
@@ -2614,7 +2614,7 @@
 			},
 			{
 				"type": "text",
-				"value": "I'll need to set up a proper workspace for me to get my spell ideas from my head onto paper.\n\nA table with all the proper places to store everything, paper that is designed to accept magical script, and the proper ink.  I'll need some arcane ash as well.\n\nOnce I've got all that together, I can get started.  I'll need to pick a way to shape the spell.  This will be the way it targets the world.  I'm sure there are several shapes that I can learn.\n\nAfter that, I will need to pick a component so that the spell actually does something.\n\nThat alone is enough to make a basic spell.  However, I can think of several aspects of spells that could be modified.  I'll need to add in modifiers to the equation of the spell so that I can change these values.\n\nWhen my spell is all written out the way I want it, I'll need to give the arcane ash time to imbue the ink into an actual spell recipe and allow the ritual that follows to create the actual spell.  Luckily the table I have in mind will have a spot to do just that.\n\n...I do wonder though if there are ways to make more complicated spells, such as ones that can do multiple things in a single cast?  There must be."
+				"value": "我需要為我設置一個合適的工作區，以便將我的法術靈感從腦海中寫到紙上。\n\n一張桌子，上面放著所有適當的位置來存儲所有東西，旨在容納魔法文字的紙張和適當的墨水。我還需要一些奧術灰燼。\n\n一旦我把所有這些都放在一起，我就可以開始了。我需要選擇一種方法來塑造咒語。這將是它瞄準世界的方式。我確定有幾種形狀可以學習。\n\n之後，我將需要選擇一個組件，以便該法術實際執行某些操作。\n\n僅此一項就足以製作一個基本的法術。但是，我可以想到可以修改的法術的幾個方面。我需要在法術方程中添加修飾符，以便我可以更改這些值。\n\n當我的法術全部寫成我想要的方式時，我需要花些時間讓奧秘的灰燼將墨水注入到實際的法術配方中，並允許隨後的儀式創建實際的法術。幸運的是，我心目中的桌子將有一個地方可以做到這一點。\n\n...我確實想知道是否有方法可以製作更複雜的法術，例如可以在一次施法中執行多項操作的法術？必須有。"
 			}
 		],
 		"related_recipes": [
@@ -2714,7 +2714,7 @@
 			},
 			{
 				"type": "text",
-				"value": "Some of the items that I make have an internal charge, such as the Amulet of Warding or the Ring of Silk.  These items will lose charge whenever they perform their effect.  They will automatically pull mana from Mana Crystal Fragments in your inventory to help them last longer.  When their charge finally runs out, some of them can be recharged by holding them in your hand and holding right click to channel mana into them.  Not all items can be recharged in this manner though.  Their tooltip will indicate which methods they allow.\n\nAll chargeable items can also be recharged by a mechanic called Pedestal Charging.  To do this, simply craft a Mana Crystal and a Pedestal, and place them within 8 blocks of each other.  Place the item on the pedestal and the crystal will charge it up over time.  A single crystal can charge multiple items."
+				"value": "我製作的一些物品具有內部電荷，例如守衛護身符或絲綢之戒。 這些物品在執行其效果時將失去電荷。 它們會自動從您物品欄中的法力水晶碎片中提取法力，以幫助它們持續更長時間。 當它們的能量最終耗盡時，其中一些可以通過將它們握在手中並按住右鍵以將法力導入它們來充電。 不過，並非所有物品都可以通過這種方式充電。 他們的工具提示將指示他們允許的方法。\n\n所有可充電物品也可以由稱為基座充電的機械師充電。 要做到這一點，只需製作一個法力水晶和一個基座，並將它們放置在彼此相距 8 格的範圍內。 將物品放在基座上，水晶會隨著時間的推移為它充電。 一個水晶可以充多個物品。"
 			}
 		],
 		"related_recipes": [
@@ -2831,7 +2831,7 @@
 			},
 			{
 				"type": "text",
-				"value": "The wall shape targets similarly to Bolt, but will instead spawn a wall perpendicular to the caster.  The wall will persist as long as the caster channels the effect."
+				"value": "牆形狀的目標類似於弩，但會生成垂直於施法者的牆壁。 只要施法者引導效果，牆壁就會持續存在。"
 			}
 		],
 		"related_recipes": [
@@ -2927,11 +2927,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "螺栓"
+				"value": "弩"
 			},
 			{
 				"type": "text",
-				"value": "The bolt shape is a long range instantaneous effect, but requires a great deal of precision to target.  Due to the longer range, it can't seem to hit as wide a range as other shapes."
+				"value": "弩形狀是一種遠程瞬時效果，但需要很高的瞄準精度。 由於射程較遠，它似乎無法像其他形狀那樣有AOE。"
 			}
 		],
 		"related_recipes": [
@@ -4103,7 +4103,7 @@
 			},
 			{
 				"type": "text",
-				"value": "Rituals are more in-depth magical castings that provide more powerful or long term effects than an instant cast spell typically will.  It involves additional preparation, reagents, and interactions to complete the effect, but there are some very powerful effects that can be achieved.\n\nTo start, draw the pattern on the ground using Wizard's Chalk.  The orientation doesn't matter.  Then, activate the centre of the ritual using Purified Vinteum Dust.  This will cause the ritual to begin displaying the needed reagents.  Reagent numbers in gold are mandatory, and numbers in white are optional.\n\nPlace the required reagents in the correct positions, then activate the centre of the ritual again using Purified Vinteum Dust.  This will cause the ritual to begin casting."
+				"value": "儀式是更深入的魔法施法，比通常的即時施法法術提供更強大或更長期的效果。 它涉及額外的準備、試劑和相互作用來完成效果，但是可以實現一些非常強大的效果。\n\n首先，使用嚮導的粉筆在地面上繪製圖案。 方向無關緊要。 然後，使用淨化的溫泰姆分末啟動儀式的中心。 這將導致儀式開始展示所需的試劑。 金色的試劑編號是必要的，白色的編號是可選的。\n\n將所需的試劑放在正確的位置，然後使用淨化的溫泰姆再次啟動儀式的中心。 這將使儀式開始施放。"
 			},
 			{
 				"type": "title",
@@ -5128,7 +5128,7 @@
 			},
 			{
 				"type": "text",
-				"value": "The Arcane Sentry is an enchanted spell book, drawn with several runes using wizard chalk, then sprinkled with vinteum dust.  When vinteum dust is placed inside the book, it will launch arcane bolts at any hostile creatures that come within its range."
+				"value": "奧術哨兵是一本附魔的法術書，用巫師粉筆繪製了幾個符文，然後撒上葡萄灰。 當書中放有長滿灰塵的灰塵時，它會向范圍內的任何敵對生物發射奧術箭。"
 			}
 		],
 		"related_recipes": [
