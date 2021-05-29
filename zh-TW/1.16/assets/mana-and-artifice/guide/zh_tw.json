@@ -6453,7 +6453,7 @@
 			},
 			{
 				"type": "text",
-				"value": "HP/Part: 1\nBuoyancy/Part: 1\nSpeed/Part: 15\nKB Resist/Part: 0%\nExplosion Resist/Part: -25%"
+				"value": "HP/部件：1\n浮力/部件：1\n速度/部件：15\n抗擊退/部件：0%\n防爆/部件：-25%"
 			},
 			{
 				"type": "title",
@@ -6466,7 +6466,7 @@
 			},
 			{
 				"type": "text",
-				"value": "HP/Part: 2\nBuoyancy/Part: -1\nSpeed/Part: 12\nKB Resist/Part: 20%\nExplosion Resist/Part: -10%"
+				"value": "HP/部件：2\n浮力/部件：-1\n速度/部件：12\n抗擊退/部件：20%\n防爆/部件：-10%"
 			},
 			{
 				"type": "title",
@@ -6479,7 +6479,7 @@
 			},
 			{
 				"type": "text",
-				"value": "HP/Part: 5\nBuoyancy/Part: -3\nSpeed/Part: 10\nKB Resist/Part: 30%\nExplosion Resist/Part: 4%"
+				"value": "HP/部件：5\n浮力/部件：-3\n速度/部件：10\n抗擊退/部件：30%\n防爆/部件：4%"
 			},
 			{
 				"type": "title",
@@ -6492,7 +6492,7 @@
 			},
 			{
 				"type": "text",
-				"value": "HP/Part: 3\nBuoyancy/Part: -3\nSpeed/Part: 10\nKB Resist/Part: 40%\nExplosion Resist/Part: 2%"
+				"value": "HP/部件：3\n浮力/部件：-3\n速度/部件：10\n抗擊退/部件：40%\n防爆/部件：2%"
 			},
 			{
 				"type": "title",
@@ -6505,7 +6505,7 @@
 			},
 			{
 				"type": "text",
-				"value": "HP/Part: 10\nBuoyancy/Part: -5\nSpeed/Part: 9\nKB Resist/Part: 40%\nExplosion Resist/Part: 8%"
+				"value": "HP/部件：10\n浮力/部件：-5\n速度/部件：9\n抗擊退/部件：40%\n防爆/部件：8%"
 			},
 			{
 				"type": "title",
@@ -6518,7 +6518,7 @@
 			},
 			{
 				"type": "text",
-				"value": "HP/Part: 6\nBuoyancy/Part: -1\nSpeed/Part: 15\nKB Resist/Part: 0%\nExplosion Resist/Part: 16%"
+				"value": "HP/部件：6\n浮力/部件：-1\n速度/部件：15\n抗擊退/部件：0%\n防爆/部件：16%"
 			},
 			{
 				"type": "title",
@@ -6680,7 +6680,7 @@
 			},
 			{
 				"type": "text",
-				"value": "This command will cause the construct to take an item out of the specified inventory.  The marking rune specifies the side and position of the container to search.  The filter is optional, and will take any item if left blank.  It requires the construct have at least one grabber arm to hold the item, and it can't already have something in it.  If you give a construct two hands and want to fill both, you will need to use this command twice in a row.  This command will pause if the construct has no grabber or all grabber are full, and it will wait until that changes."
+				"value": "此命令將使魔偶從指定的庫存中取出一個物品。 標記符文指定要搜索之容器的側面和位置。 過濾器是可選的，如果留空，將取用任何物品。 它要求魔偶少有一個抓取臂來固定物品，並且裡面不能已經有東西。 如果你給一個魔偶兩隻手並且想要雙手都拿東西，則需要連續使用這個命令兩次。 如果魔偶沒有抓取臂或所有抓取臂已滿，則此命令將暫停，並等待更改。"
 			}
 		]
 	},
@@ -6695,7 +6695,7 @@
 			},
 			{
 				"type": "text",
-				"value": "This command will cause the construct to wait for 5 seconds before continuing on to further instructions."
+				"value": "此命令將使魔偶在繼續執行進一步指令之前等待 5 秒。"
 			}
 		]
 	},
@@ -6710,7 +6710,7 @@
 			},
 			{
 				"type": "text",
-				"value": "This command will cause the construct to place all held items in the given container, from the given side marked by the marking rune.  This command will be skipped if the construct doesn't have anything held."
+				"value": "此命令將使魔偶把所有持有的物品放置在給定容器中，使用標記符文標記給定的一側。 如果魔偶沒有任何東西，將跳過此命令。"
 			}
 		]
 	},
@@ -6725,7 +6725,7 @@
 			},
 			{
 				"type": "text",
-				"value": "This command will cause the construct to attempt to chisel the pattern specified into a blank rune pattern at the given Runescribing table.  It requires that the necessary materials are already present.  This will require a hammer arm on the Construct.  The better the material, the faster the construct will work."
+				"value": "此命令將使魔偶嘗試在指定的符文書寫台上將指定的圖案鑿成空白符文圖案。 台上必須有需要的材料。 這將需要魔偶裝備錘型臂。 材料越好，魔偶的工作速度就越快。"
 			}
 		]
 	},
@@ -6740,7 +6740,7 @@
 			},
 			{
 				"type": "text",
-				"value": "This command will cause the construct to attempt to Forge the rune set up on the runic anvil.  It requires that the given materials are already present. This requires a hammer arm on the Construct.  The better the material of the arm, the faster the construct will work."
+				"value": "此命令將使魔偶嘗試鍛造設置在符文砧上的符文。 砧上必須有需要的材料。 這將需要魔偶裝備錘型臂。 手臂的材料越好，構造的工作速度就越快。 "
 			}
 		]
 	},
@@ -6755,7 +6755,7 @@
 			},
 			{
 				"type": "text",
-				"value": "This command will cause the construct to harvest plants within the specified region.  It requires that the construct have a blade arm."
+				"value": "此命令將使魔偶在指定區域內收穫植物。 它要求該魔偶具有刃型臂。 "
 			}
 		]
 	},
@@ -6770,7 +6770,7 @@
 			},
 			{
 				"type": "text",
-				"value": "This command will cause the construct to plant the item held in its hand in farmland within the specified region.  It requires that the construct have a gripper arm, and be carrying a plantable item (use a take item command to get it)."
+				"value": "此命令將使魔偶將其手持的植物種植在指定區域內的農田中。 它要求魔偶有一個抓取必，並攜帶可種植的物品（使用獲取物品命令來獲取它）。 "
 			}
 		]
 	},
@@ -6785,7 +6785,7 @@
 			},
 			{
 				"type": "text",
-				"value": "This command will cause the construct to attempt to simulate a player right clicking on the block at the specified location.  It is useful for things like buttons and levers.  It does not require any specific parts."
+				"value": "此命令將使魔偶嘗試模擬玩家右鍵單擊指定位置的塊。 它對按鈕和槓桿之類的東西很有用。 它不需要任何特定部件。"
 			}
 		]
 	},
@@ -6800,7 +6800,7 @@
 			},
 			{
 				"type": "text",
-				"value": "This command will cause the construct to move to the given location.  It does not require any specific parts, but can be useful for things like forcing triggering of pressure plates."
+				"value": "此命令將使魔偶移動到指定位置。 它不需要任何特定部件，但可用於強制觸發壓力板等操作。"
 			}
 		]
 	},
@@ -6815,7 +6815,7 @@
 			},
 			{
 				"type": "text",
-				"value": "This command will cause the construct to move to the given location and drop whatever items it is holding."
+				"value": "此命令將使魔偶移動到給定位置並放下它持有的任何物品。"
 			}
 		]
 	},
@@ -6830,7 +6830,7 @@
 			},
 			{
 				"type": "text",
-				"value": "This command will cause the construct to patrol among one to four points specified, attacking enemies it sees along the way (if it is capable of doing so).  At each point, it will remain for 5 seconds before continuing on to the next.  At the end of the final point, it will continue any other tasks within the lodestar before returning to patrol.  It's a particularly good use of time if you're having your construct wait for something."
+				"value": "此命令將使魔偶在指定的一到四個點之間巡邏，攻擊沿途看到的敵人（如果它有能力這樣做）。 在每個點，它會保持5秒鐘，然後再繼續下一個。 在最後一點結束時，它會在返回巡邏之前繼續執行統御星錐內的任何其他任務。 如果你讓你的魔偶等待某事，這是一個特別好的時間利用。"
 			}
 		]
 	},
@@ -6845,7 +6845,7 @@
 			},
 			{
 				"type": "text",
-				"value": "This command will cause the construct to attempt to use the item in its hand to breed animals within its radius.  For example, use a Take Item command to have the construct collect wheat, then use this command with a radius that includes cows or sheep.  The construct will breed them as long as the following conditions are met:\n\n1.) There are at least 2 adult animals in the detection area that can breed\n2.)The construct has at least 2 of their breeding items in its hands.\n\nIf either of those conditions are not met, this task will be skipped.  The construct needs to have the carrying capability in order to perform this task."
+				"value": "此命令將使魔偶嘗試使用其手中的物品在其半徑範圍內繁殖動物。 例如，使用拿取物品命令讓魔偶收集小麥，然後將此命令用於包含牛或羊的半徑。 只要滿足以下條件，魔偶就會繁殖它們：\n\n1.) 檢測區域內至少有2只可繁殖的成年動物\n2.) 該構魔偶手中至少有2個他們的繁殖物品。\n\n如果不滿足這些條件中的任何一個，則將跳過此任務。 該魔偶需要具有承載能力才能執行此任務。"
 			}
 		]
 	},
@@ -6860,7 +6860,7 @@
 			},
 			{
 				"type": "text",
-				"value": "This command will cause the construct to kill adult animals within the specified range as long as there are more than 2 adults."
+				"value": "只要有超過2只成年動物，此命令將使魔偶殺死指定範圍內的成年動物。"
 			}
 		]
 	},
@@ -6875,7 +6875,7 @@
 			},
 			{
 				"type": "text",
-				"value": "This command will cause the construct to shear nearby sheep, mooshrooms, and other animals that can be sheared, as well as periodically pluck feathers from chickens within the configured radius."
+				"value": "此命令將使魔偶剪掉附近的綿羊、哞菇和其他可以剪毛的動物，並定期從配置的半徑內的雞身上拔毛。"
 			}
 		]
 	},
@@ -6890,7 +6890,7 @@
 			},
 			{
 				"type": "text",
-				"value": "This command will cause the construct to place the block that it currently has in its hand (use a Take Item command to get one there) at the given location, provided it is a block or an item that creates a block (like seeds or saplings).  The construct needs to have  the carrying capability in order to do this task."
+				"value": "此命令將使魔偶把其當前手上的方塊放置在給定位置（使用“獲取物品”命令將方塊放在那裡），前提是它是一個方塊或創建方塊的物品（如種子或樹苗））。 魔偶需要具有承載能力才能完成此任務。"
 			}
 		]
 	},
