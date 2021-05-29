@@ -91,7 +91,7 @@
     "gui.storagenetwork.refresh": "刷新處理事務。如果當前處於阻塞、等待狀態，這將會將其變回合成模式，進而回收原材料。",
     "gui.storagenetwork.checkbox.meta": "元數據",
     "gui.storagenetwork.checkbox.ore": "礦物詞典",
-    "gui.storagenetwork.checkbox.nbt": "NBT",
+    "gui.storagenetwork.checkbox.nbt": "NBT 標籤",
     "gui.storagenetwork.import": "導入過濾器",
     "gui.storagenetwork.allowlist": "允許清單",
     "gui.storagenetwork.ignorelist": "忽略清單",
