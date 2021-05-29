@@ -1,7 +1,7 @@
 {
   "itemGroup.slashblade": "拔刀劍",
   "itemGroup.slashblade.desc": "墜入阿修羅道",
-  "attribute.name.generic.reachDistance": "達成",
+  "attribute.name.generic.reachDistance": "延伸",
   "stat.slashblade.sword_summoned": "召喚刀劍",
   "slashblade.tooltip.killcount": "斬殺： %1$s",
   "slashblade.tooltip.refine": "重製： %1$s",
@@ -10,7 +10,7 @@
   "slashblade.tooltip.material.killcount": "斬殺數量 >= %1$s",
   "slashblade.tooltip.material.refine": "重製次數 >= %1$s",
   "slashblade.tooltip.material.level": "玩家等級 >= %1$s",
-  "slashblade.tooltip.material.broken": "已折斷",
+  "slashblade.tooltip.material.broken": "損壞",
   "slashblade.tooltip.material.noscabbard": "無刀鞘",
   "slashblade.tooltip.material.enchantments": "附魔",
   "item.slashblade.slashblade": "無銘刀「無名」",
