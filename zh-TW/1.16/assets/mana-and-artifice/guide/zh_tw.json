@@ -1342,7 +1342,7 @@
 			},
 			{
 				"type": "text",
-				"value": "The Aqua Affinity enchantment speeds up how fast you can mine blocks underwater. It basically makes mining underwater the same speed as mining on land."
+				"value": "親水性附魔加快了您在水下挖掘方塊的速度。 它基本上使水下採礦與陸地採礦的速度相同。"
 			}
 		],
 		"related_recipes": [
@@ -2523,7 +2523,7 @@
 			},
 			{
 				"type": "text",
-				"value": "As you cast spells you will build up something called Affinities.  There are six affinities:  Air, Earth, Water, Fire, Ender, and Arcane.  Every affinity has an opposite.\n\nAir opposes Earth.\n\nWater opposes Fire.\n\nArcane opposes Ender.\n\nA higher affinity will give mana cost discounts on spells with the same affinity (up to 50% at max), and will also increase the mana cost of spells with an opposing affinity.\n\nLastly, you gain rote experience more quickly of components that share your affinity."
+				"value": "當你施法時，你會建立一種叫做親和力的東西。 有六種親緣關係：空氣、土、水、火、末影和奧術。 每個親和力都有一個反面。\n\n空氣與大地對立。\n\n水與火對立。\n\n奧術與末影對立。\n\n更高的親和力將使具有相同親和力的法術的法力成本折扣（最多 50%），並且還會增加具有相反親和力的法術的法力消耗。\n\n最後，您可以更快地獲得具有相似性的組件的熟練經驗。"
 			}
 		]
 	},
@@ -4515,7 +4515,7 @@
 			},
 			{
 				"type": "text",
-				"value": "There are rituals that exist to create various elemental motes.  There is one ritual/mote for each affinity.  They are:\n\nRitual of the Endless Void / Mote of Ender\n\nRitual of Forgotten Lore / Mote of Magic\n\nRitual of the Untamed Wind / Mote of Air\n\nRitual of the Searing Inferno / Mote of Fire\n\nRitual of the Deep Ocean / Mote of Water\n\nRitual of Ancient Stone / Mote of Earth."
+				"value": "存在創造各種元素微粒的儀式。 每個親和力都有一個儀式/微核。 他們是：\n\n永恆虛空儀式/終界微核\n\n遺忘之知儀式/魔法微核\n\n不羈之風儀式/空氣微核\n\n焦灼煉獄儀式/烈火微核\n\n淵極之海儀式/流水微核\n\n遠古之石儀式/大地微粒。"
 			}
 		],
 		"related_recipes": [
@@ -5509,7 +5509,7 @@
 			},
 			{
 				"type": "text",
-				"value": "This belt, when worn, prevents my affinity from changing when I cast spells."
+				"value": "佩戴這條腰帶時，可以防止我在施法時改變親和力。"
 			}
 		],
 		"related_recipes": [
@@ -6905,7 +6905,7 @@
 			},
 			{
 				"type": "text",
-				"value": "This command will cause the construct to chop down trees within the specified area.  Only the bases of the trees need to be included for the tree to be targeted.  The construct needs an axe arm in order to perform this action."
+				"value": "此命令將使魔偶砍倒指定區域內的樹木。 對於要定位的樹，只需包括樹的基部。 魔偶需要斧臂才能執行此操作。"
 			}
 		]
 	},
