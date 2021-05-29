@@ -31,7 +31,7 @@
   "config.hats.prop.filterSorterConfig.desc": "帽子排序的設置。請通過帽子UI介面進行設置，不要在此處手動編輯",
   "config.hats.prop.randSeed.name": "帽子隨機種子",
   "config.hats.prop.randSeed.desc": "隨機種子被帽子隨機性、稀有度、生成機率所使用。選項留白以生成隨機種子。",
-  "config.hats.prop.entityOverrideChance.name": "實體機率覆寫",
+  "config.hats.prop.entityOverrideChance.name": "Entity Chance Override",
   "config.hats.prop.entityOverrideChance.desc": "每個條目都應該要有一個資源位置以及機率，中間用一個逗號隔開。例如： \"minecraft:pig，100\" ，將會使所有原版的豬在生成時必定帶有帽子。",
   "config.hats.prop.disabledMobs.name": "停用生物",
   "config.hats.prop.disabledMobs.desc": "打上資源位置以停用某些生物，使他們生成時不再帶有帽子。例如：minecraft:pig",
