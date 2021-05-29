@@ -1,0 +1,46 @@
+{
+  "text.autoconfig.sihywtcamd.title": "SIHYWTCAMD Configuration",
+
+  "text.autoconfig.sihywtcamd.option.mobsLessFear": "Mobs don't flee if target is half health",
+
+  "text.autoconfig.sihywtcamd.option.zombieBuffedProtection": "Zombie-like mobs can't be damaged easily",
+  "text.autoconfig.sihywtcamd.option.zombieBuffedProtection.@Tooltip": "Includes: zombie, zombie villager, husk, drowned",
+  "text.autoconfig.sihywtcamd.option.huskFireProtection": "Husks are immune to on-fire damage",
+  "text.autoconfig.sihywtcamd.option.drownedTridentSpawn": "Drowned spawn more often with a trident",
+  "text.autoconfig.sihywtcamd.option.drownedHighVelocity": "Drowned have an increased velocity in water",
+
+  "text.autoconfig.sihywtcamd.option.skeletonFleeGoal": "Skeletons flee player if too close",
+  "text.autoconfig.sihywtcamd.option.strayBetterSlowness": "Strays deal slowness 2",
+
+  "text.autoconfig.sihywtcamd.option.endermanBlindness": "Get blindness when staring at an enderman",
+  "text.autoconfig.sihywtcamd.option.shulkerBlindness": "Get blindness when hit by a shulker projectile",
+
+  "text.autoconfig.sihywtcamd.option.babySpiders": "Spiders can spawn baby spiders on death",
+
+  "text.autoconfig.sihywtcamd.option.slimeBiggerSize": "Slimes can spawn with one more size",
+  "text.autoconfig.sihywtcamd.option.slimeCanMerge": "Small and normal sized slimes can merge",
+
+  "text.autoconfig.sihywtcamd.option.guardianNaturalSpawn": "Guardians can spawn naturally",
+
+  "text.autoconfig.sihywtcamd.option.phantomThroughBlocks": "Phantoms can see/fly through blocks",
+  "text.autoconfig.sihywtcamd.option.phantomLightFear": "Phantoms are repelled by light",
+  "text.autoconfig.sihywtcamd.option.phantomTranslucent": "Phantoms texture is translucent (client config)",
+
+  "text.autoconfig.sihywtcamd.option.babyWitherSkeleton": "Wither skeletons can spawn baby",
+  "text.autoconfig.sihywtcamd.option.blazeFireCollision": "Blazes set entities on fire on collision",
+  "text.autoconfig.sihywtcamd.option.ghastIncreasedHealth": "Ghasts health is increased a lot",
+  "text.autoconfig.sihywtcamd.option.piglinFullGold": "Piglins attack player if not full golden armored",
+  "text.autoconfig.sihywtcamd.option.piglinRideHoglin": "Piglins can spawn riding a hoglin",
+
+  "text.autoconfig.sihywtcamd.option.pillagerMoreEnchants": "Pillagers get more often piercing enchant",
+  "text.autoconfig.sihywtcamd.option.pillagerSpeedBonus": "Pillagers can spawn with a speed bonus",
+  "text.autoconfig.sihywtcamd.option.vindicatorSpeedBonus": "Vindicators can spawn with a speed bonus",
+  "text.autoconfig.sihywtcamd.option.evokerStopArrows": "Evokers stop arrows",
+  "text.autoconfig.sihywtcamd.option.evokerIncreasedHealth": "Evokers health is slightly increased",
+
+  "text.autoconfig.sihywtcamd.option.witchFleeGoal": "Witches flee player if too close",
+  "text.autoconfig.sihywtcamd.option.witchMoreSpawn": "Witches can spawn a bit more often",
+
+  "text.autoconfig.sihywtcamd.option.witherIncreasedHealth": "Withers health is slightly increased",
+  "text.autoconfig.sihywtcamd.option.witherSpawnSkeletons": "Withers can spawn wither skeletons when half health"
+}
