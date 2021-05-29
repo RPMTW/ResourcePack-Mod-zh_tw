@@ -447,7 +447,7 @@
 			},
 			{
 				"type": "text",
-				"value": "/setMagicLevel [0-75] <player>\nSets a player's magic level and max mana."
+				"value": "/setMagicLevel [0-75] <player>\n設置玩家的魔法等級和最大法力值。"
 			},
 			{
 				"type": "text",
@@ -1012,7 +1012,7 @@
 			},
 			{
 				"type": "text",
-				"value": "The runic anvil will accept items from any side, and provide items from any side."
+				"value": "符文鐵砧可以從任何一側接受物品，並從任何一側提供物品。"
 			},
 			{
 				"type": "title",
@@ -1484,7 +1484,7 @@
 			},
 			{
 				"type": "text",
-				"value": "The Depth Strider enchantment speeds up how fast you can move underwater."
+				"value": "深海漫遊附魔加快了您在水下移動的速度。"
 			}
 		],
 		"related_recipes": [
@@ -1600,7 +1600,7 @@
 			},
 			{
 				"type": "text",
-				"value": "The Fire Protection enchantment reduces the damage caused by fire and lava."
+				"value": "火焰保護附魔可以減少火和熔岩造成的傷害。"
 			}
 		],
 		"related_recipes": [
@@ -2911,7 +2911,7 @@
 			},
 			{
 				"type": "text",
-				"value": "This shape will cause the spell to affect the caster directly when cast."
+				"value": "這種形狀會導致法術在施法時直接影響施法者。"
 			}
 		],
 		"related_recipes": [
@@ -3343,7 +3343,7 @@
 			},
 			{
 				"type": "text",
-				"value": "\n...because what self-respecting wizard *wouldn't* want a floating island in the sky?"
+				"value": "......因為哪個自尊的巫師*不想*要一個漂浮在天空中的島嶼？"
 			}
 		],
 		"related_recipes": [
@@ -3983,7 +3983,7 @@
 			},
 			{
 				"type": "text",
-				"value": "I can alter the formula of a spell to cause certain movement effects to happen faster."
+				"value": "我可以改變法術的公式，使某些移動效果發生得更快。"
 			}
 		],
 		"related_recipes": [
@@ -4163,7 +4163,7 @@
 			},
 			{
 				"type": "text",
-				"value": "This ritual will turn night into day.  It can only be performed at night."
+				"value": "這種儀式將把黑夜變成白晝。 它只能在晚上進行。"
 			}
 		],
 		"related_recipes": [
@@ -4307,7 +4307,7 @@
 			},
 			{
 				"type": "text",
-				"value": "This ritual will turn day to night.  It can only be performed during the day."
+				"value": "這種儀式將晝夜交替。 它只能在白天進行。"
 			}
 		],
 		"related_recipes": [
@@ -4800,7 +4800,7 @@
 			},
 			{
 				"type": "text",
-				"value": "This rune pattern is used in conjunction with enchantments focusing on defense."
+				"value": "這種符文圖案需與專注於防禦的附魔結合使用。"
 			}
 		],
 		"related_recipes": [
@@ -4948,7 +4948,7 @@
 			},
 			{
 				"type": "text",
-				"value": "This rune pattern is used to create permanent runes for use in rituals."
+				"value": "這種符文圖案用於製作用於儀式的永久性符文。"
 			}
 		],
 		"related_recipes": [
@@ -5253,7 +5253,7 @@
 			},
 			{
 				"type": "text",
-				"value": "Lights targets on fire for a duration in seconds equal to the enchantment level."
+				"value": "將目標點燃，持續時間與附魔等級相同，以秒為單位。"
 			},
 			{
 				"type": "title",
@@ -5285,7 +5285,7 @@
 			},
 			{
 				"type": "text",
-				"value": "Applies weakness and slow to undead targets equal to the enchantment level."
+				"value": "對不死目標施加與附魔等級相同的虛弱和減速效果。"
 			}
 		],
 		"related_recipes": [
