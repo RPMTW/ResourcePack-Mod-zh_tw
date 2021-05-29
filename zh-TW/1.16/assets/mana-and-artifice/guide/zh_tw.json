@@ -279,7 +279,7 @@
 			},
 			{
 				"type": "text",
-				"value": "As you cast spells, you begin to learn more about their properties and how they work.  You can see rote progress for each individual spell part (shapes, components, and modifiers) in the Occulus.\n\nThese parts gain experience at different rates.  Once they are rote, you can use them in a book of rote to make spells with single shapes and multiple components.\n\nModifiers that you learn by rote are always available in rote spells, allowing you to make spells with more components and modifiers than you would normally be able to using the Inscription Table.\n\nThere is no crafting process or material cost when making spells in the book of rote, as it represents your memorization of the spell.  You simply make the spell you need at the time."
+				"value": "你施展法術時，你開始更了解它們的特性和它們的工作原理。 您可以在奧秘之眼中查看每個單獨法術部分（形狀、組件和修飾）的熟練進度。\n\n這些部分以不同的速度獲得經驗。 一旦熟練它們，你就可以在一本熟練書中使用它們來製作具有單一形狀和多個組件的法術。\n\n您通過熟練學習的修飾始終可以在熟練法術中使用，使您能夠製作具有比通常使用銘文台更多的組件和修飾的法術。\n\n在熟練中製作法術時沒有製作過程或材料成本，因為它代表了您對法術的記憶。 您只需製作當時需要的法術即可。"
 			}
 		],
 		"related_recipes": [
@@ -755,7 +755,7 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Enemy: Imp"
+				"value": "敵人：小鬼"
 			},
 			{
 				"type": "text",
@@ -813,7 +813,7 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Ritual Foci"
+				"value": "儀式焦點"
 			},
 			{
 				"type": "text",
@@ -2646,7 +2646,7 @@
 			},
 			{
 				"type": "text",
-				"value": "After scribing a spell at the inscription table, I'll need to perform a ritual to infuse magic into the recipe.  I call it the Ritual of Arcana.  I can use the spell recipe to check what I need for the ritual; I wrote it all down when I scribed the spell.\n\nThe ideology is that the raw magical essences from the ingredients are absorbed into the spell and allow me to channel my will through it in order to achieve an effect; similar to a very specifically crafted focus.  There are rumors of mages that don't need to use such foci to craft and cast spells, knowing them purely by memory."
+				"value": "在編寫桌寫下法術後，我需要進行一個儀式，將魔法注入配方中。我稱之為奧秘儀式。我可以使用法術配方來檢查我需要的儀式； 當我寫下法術時，我把這一切都寫下來了。\n\n理念是將原料中的原始魔法精華吸收到法術中，讓我通過它來引導我的意志以達到效果； 類似於一個非常特別製作的焦點。 有傳言說法師不需要使用這樣的焦點來製作和施放法術，純粹通過記憶來了解它們。"
 			}
 		],
 		"related_recipes": [
@@ -4247,7 +4247,7 @@
 			},
 			{
 				"type": "text",
-				"value": "This ritual is used to craft spells.  You will first need to craft an inscription table, and scribe a spell onto vellum."
+				"value": "這種儀式用於製作法術。您首先需要製作一個銘文台，然後在牛皮紙上書寫一個法術。"
 			}
 		],
 		"related_recipes": [
