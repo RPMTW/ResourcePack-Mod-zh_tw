@@ -111,7 +111,7 @@
     "carrots.tooltip.full.description.howto": "+RSHIFT for full description...",
     "carrots.tooltip.howto": "+RSHIFT for more...",
     "carrots.tooltip.owner": "Owner: ",
-    "carrots.tooltip.namevalue": "%1$s: %2$s",
+    "carrots.tooltip.namevalue": "%1$s：%3$s （功率：%11$d） - §c能量：%7$d §a潛能：%8$d §9穩定：%9$d §f虛空：%10$d§f - §cR%4$d§aG%5$d§9B%6$d",
     "carrots.tooltip.storage.label": "Slot storage: ",
     "carrots.tooltip.storage.type.block": "%1$d blocks",
     "carrots.tooltip.storage.type.buckets": "%1$d buckets",
