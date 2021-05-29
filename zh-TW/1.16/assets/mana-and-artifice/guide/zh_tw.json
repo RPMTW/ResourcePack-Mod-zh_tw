@@ -314,7 +314,7 @@
 			},
 			{
 				"type": "text",
-				"value": "These villagers sell the Runescribing Recipe Scraps needed to help guide you in the Runescribing Table or set up scribing tasks for constructs.  The Ritualist's job block is the Runescribing Table.  You can find them naturally in villages or create them using the job block, as per vanilla."
+				"value": "這些村民出售所需的符文配方碎片，以幫助您在符文台中引導您或為魔偶設置刻字任務。儀式師的工作塊是符文台。您可以在村莊中自然地找到他們，也可以按照原版使用工作塊來創建它們。 "
 			}
 		],
 		"related_recipes": []
@@ -922,7 +922,7 @@
 			},
 			{
 				"type": "text",
-				"value": "Occasionally you will need Runescribing Patterns to instruct constructs.  You can make these patterns at a runic anvil by placing a completed rune on the anvil, and placing paper on top of that.  Then, activate the anvil with either coal or charcoal."
+				"value": "有時，您將需要符文模式來指導魔偶。你可以在符文鐵砧上製作這些圖案，方法是在鐵砧上放置一個完整的符文，然後在上面放紙。 最後，用煤或木炭啟動砧。"
 			}
 		],
 		"related_recipes": [
@@ -1053,7 +1053,7 @@
 			},
 			{
 				"type": "text",
-				"value": "In order to do all the steps required, your construct will need a hammer arm and a grabber arm.  Because there are 12 instructions and by default constructs can only follow 8, your construct will also need a smart head.  Lastly you want the construct carry amount to be 1, so don't summon it with any ender affinity.\n\nMake sure to check the codex for the commands to see if they need specific parts!\n\nThe construct itself can be whatever material you want.  Check the main constructs entry for information on how the different materials affect the constructs, as well as each command (as some materials can make commands behave differently)."
+				"value": "為了執行所需的所有步驟，您的魔偶將需要一個錘臂和一個抓臂。 因為有12條指令，並且默認魔偶只能跟隨8條指令，所以您的魔偶還需要一個智能頭。最後，您希望魔偶的進位金額為1，所以不要以任何關聯方的方式召喚它。\n\n查看奧術古籍來確保它們是否需要特定部件！\n\n魔偶本身可以是您想要的任何材料。 檢查主要魔偶條目以獲取有關不同材料如何影響魔偶以及每個命令的信息（因為某些材料可以使命令表現不同）。"
 			},
 			{
 				"type": "title",
@@ -1103,7 +1103,7 @@
 			},
 			{
 				"type": "text",
-				"value": "8. Take superheated ingot from runeforge\n\nUse a Rune of Marking for the Runeforge to take from it.  Using the Superheated Ingot as a filter prevents the construct from taking the regular ingot if it isn't done yet."
+				"value": "8. 從符文熔爐取過熱錠\n\n使用標記符文讓你從符文熔爐中取走。使用過熱錠作為過濾器可防止魔偶在尚未完成的情況下採用常規錠。"
 			},
 			{
 				"type": "text",
@@ -1128,7 +1128,7 @@
 			},
 			{
 				"type": "text",
-				"value": "From here, get creative!  The lodestar will pause execution when it gets a redstone signal, so think of ways you can use that.  Perhaps you can figure out some way to have another construct or system keep the input chest stocked with materials.  Come up with your own improvements and see what you can make them do!"
+				"value": "從這裡開始，發揮創意！ 當它收到紅石信號時，統御星錐將暫停執行，所以想出你可以使用它的方法。 也許你可以想出一些方法讓另一個魔偶或系統保持輸入箱的材料。提出你自己的改進，看看你可以讓他們做什麼！"
 			}
 		]
 	},
@@ -1228,7 +1228,7 @@
 			},
 			{
 				"type": "text",
-				"value": "This aura will periodically drain my mana in order to apply a repairing effect to all of my equipped items, and to those in close proximity to me.\n\nDue to it being a particularly complicated magical construction, I can only place it on chest armor as it has enough space for all the rune work needed."
+				"value": "這個光環會周期性地消耗我的法力，以便對我所有裝備的物品以及靠近我的物品施加修復效果。\n\n由於它是一個特別複雜的魔法結構，我只能把它放在胸甲上，因為它有足夠的空間來完成所有需要的符文工作。"
 			}
 		],
 		"related_recipes": [
@@ -1247,7 +1247,7 @@
 			},
 			{
 				"type": "text",
-				"value": "This aura will periodically drain my mana in order to apply a minor healing effect to me and those in close proximity to me.\n\nDue to it being a particularly complicated magical construction, I can only place it on chest armor as it has enough space for all the rune work needed."
+				"value": "這個光環會周期性地消耗我的法力，以便對我和與我近距離的人產生輕微的治療效果。\n\n由於它是一個特別複雜的魔法結構，我只能把它放在胸甲上，因為它有足夠的空間來完成所有需要的符文工作。"
 			}
 		],
 		"related_recipes": [
@@ -1266,7 +1266,7 @@
 			},
 			{
 				"type": "text",
-				"value": "This aura will periodically drain my mana in order to increase my ability to jump, as well as those in close proximity to me.\n\nDue to it being a particularly complicated magical construction, I can only place it on chest armor as it has enough space for all the rune work needed."
+				"value": "這個光環會周期性地消耗我的法力，以提高我的跳躍能力，以及那些靠近我的人。\n\n由於它是一個特別複雜的魔法結構，我只能把它放在胸甲上，因為它有足夠的空間來完成所有需要的符文工作。"
 			}
 		],
 		"related_recipes": [
@@ -1285,7 +1285,7 @@
 			},
 			{
 				"type": "text",
-				"value": "This aura will periodically drain my mana in order to apply an increase to my mining speed as well as to those around me.\n\nDue to it being a particularly complicated magical construction, I can only place it on chest armor as it has enough space for all the rune work needed."
+				"value": "這個光環會周期性地消耗我的法力，以提高我和我周圍的人的採礦速度。\n\n由於它是一個特別複雜的魔法結構，我只能把它放在胸甲上，因為它有足夠的空間來完成所有需要的符文工作。"
 			}
 		],
 		"related_recipes": [
@@ -1304,7 +1304,7 @@
 			},
 			{
 				"type": "text",
-				"value": "This aura will periodically drain my mana in order to apply a movement speed increase to me and those in close proximity to me.\n\nDue to it being a particularly complicated magical construction, I can only place it on chest armor as it has enough space for all the rune work needed."
+				"value": "這個光環會周期性地消耗我的法力，以便為我和我附近的人增加移動速度。\n\n由於它是一個特別複雜的魔法結構，我只能把它放在胸甲上，因為它有足夠的空間來完成所有需要的符文工作。"
 			}
 		],
 		"related_recipes": [
@@ -1323,7 +1323,7 @@
 			},
 			{
 				"type": "text",
-				"value": "This aura will periodically drain my mana in order to make me more attuned to activities underwater.\n\nDue to it being a particularly complicated magical construction, I can only place it on chest armor as it has enough space for all the rune work needed."
+				"value": "這個光環會周期性地消耗我的法力，以使我更適應水下活動。\n\n由於它是一個特別複雜的魔法結構，我只能把它放在胸甲上，因為它有足夠的空間來完成所有需要的符文工作。"
 			}
 		],
 		"related_recipes": [
@@ -1850,7 +1850,7 @@
 			},
 			{
 				"type": "text",
-				"value": "The magic broom has been enchanted to collect all dropped items within a radius of the container it is placed on and return them to said container.  It's such a helpful construct.  I wonder if there are others I can build?  I'm sure I can make a more powerful version of this broom once I've gained some more knowledge.  I should check back later.\n\nI can collect the broom again if I sneak up on it and grab it (right click)."
+				"value": "魔法掃帚已被附魔，它可以收集半徑內所有掉落的物品，並將它們返回到所述容器。 這是一個很有幫助的構造。 我想知道是否還有其他我可以建造的？ 我相信一旦我獲得了更多的知識，我可以製作出更強大的掃帚版本。 我應該稍後再回來查看。\n\n如果我偷偷靠近它並抓住它（右鍵單擊），我可以再次拿起掃帚。"
 			}
 		],
 		"related_recipes": [
@@ -6431,11 +6431,11 @@
 			},
 			{
 				"type": "title",
-				"value": "Making the Parts"
+				"value": "製作零件"
 			},
 			{
 				"type": "text",
-				"value": "魔偶由5個部分創建：頭部、軀幹、腿部和兩個手臂。這些部分決定了魔偶的能力。花一些時間查看奧秘之眼魔偶分類中的各個部分，並決定您要製作哪些零件。您可以隨時通過命令魔偶返回到空魔偶工作台來修改。這樣做的方法將在後面進一步描述。\n\n一旦知道要製造哪些零件，就需要決定材料。 有六種材料可以製成魔偶，每種材料都會改變魔偶的屬性。 您可以混合和匹配材質，這將平衡構造的優缺點。 嘗試不同的組合以找到適合您需求的組合是值得的。"
+				"value": "魔偶由5個部分創建：頭部、軀幹、腿部和兩個手臂。這些部分決定了魔偶的能力。花一些時間查看奧秘古籍魔偶分類中的各個部分，並決定您要製作哪些零件。您可以隨時通過命令魔偶返回到空魔偶工作台來修改。這樣做的方法將在後面進一步描述。\n\n一旦知道要製造哪些零件，就需要決定材料。 有六種材料可以製成魔偶，每種材料都會改變魔偶的屬性。 您可以混合和匹配材質，這將平衡構造的優缺點。 嘗試不同的組合以找到適合您需求的組合是值得的。"
 			},
 			{
 				"type": "title",
@@ -6546,7 +6546,7 @@
 			},
 			{
 				"type": "title",
-				"value": "Affinity Effects",
+				"value": "親和力效果",
 				"newPage": true
 			},
 			{
@@ -6572,7 +6572,7 @@
 			},
 			{
 				"type": "text",
-				"value": "Constructs can be commanded using a Construct Control Rod.  The first step in any command is to use the control rod on the construct itself.  This sets the construct you will be commanding.  The next activation of the rod will command the construct to perform an action.  There are four actions that constructs can perform:\n\n• Stay.  This is commanded by activating the rod on the construct a second time.  The construct will stay passively in its current location.\n\n• Return to Table.  This is commanded by activating the rod on an empty Construct Workbench.\n\n• Follow.  This is commanded by activating the rod on any block other than a Construct Workbench or a Lodestar.  The construct will follow you and defend you, if it has the capability to fight.\n\n• Follow Lodestar.  This command is assigned by activating a lodestar as the second part of the Control Rod's interaction.  The Lodestar can be used to create complex commands for constructs such as item sorting or farming.  It has its own section in this codex."
+				"value": "可以使用魔偶控制棒命令魔偶。任何命令的第一步都是在魔偶上使用控制棒。這設置了您將要指揮的魔偶。棒的下一次激活將命令魔偶執行一個動作。魔偶可以執行四種操作：\n\n• 停留。這是通過第二次激活魔偶上的桿來命令的。魔偶將被動地停留在其當前位置。\n\n• 返回工作臺。這是通過在空的魔偶工作台上激活桿來命令的。\n\n• 跟隨。這是通過激活除魔偶工作臺或統御星錐以外的任何方塊上的桿來命令的。如果魔偶有戰鬥能力，它會跟隨你並保護你。\n\n•跟隨統御星錐。該命令是通過激活統御星錐作為控制桿交互的第二部分來分配的。統御星錐可用於為諸如物品分類或耕種之類的魔偶創建複雜的命令。它在奧秘古籍中有詳細的說明。"
 			}
 		],
 		"related_recipes": [
@@ -6617,7 +6617,7 @@
 			},
 			{
 				"type": "text",
-				"value": "The lodestar is a way to set up advanced logic for your constructs.  Use the commands on the left to add them to the logic flow.  Then click on a node in the logic flow to configure it.  Each node uses items to set filters and locations.  Runes of marking are the primary way to indicate positions in the world to interact with.  To remove a command, left click it in the GUI while simultaneously holding the right mouse button.  Any filter or marking items are automatically returned to your inventory, or dropped on the ground if it's full.\n\nThe lodestar can be disabled by applying a redstone signal, and any constructs will pause.  This is useful for making changes or using comparators."
+				"value": "統御星錐是一種為您的魔偶設置高級邏輯的方法。 使用左側的命令將它們添加到邏輯流中。 然後在邏輯流程中單擊一個節點以對其進行配置。 每個節點使用項目來設置過濾器和位置。 標記符文是指定世界中與之交互位置的主要方式。 要刪除命令，請在GUI中左鍵它，同時按住右鍵。任何過濾器或標記物品都會自動返回到您的庫存中，如果它已滿則會掉在地上。\n\n可以通過施加紅石信號禁用統御星錐，並且任何魔偶都將暫停。 這對於進行更改或使用比較器很有用。"
 			}
 		],
 		"related_recipes": [
