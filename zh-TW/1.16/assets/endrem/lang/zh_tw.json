@@ -9,7 +9,7 @@
     "item.endrem.cold_pearl.description": "傳說是極凍行者在消失之前留下的最後一件文物",
     "item.endrem.magical_pearl": "魔導之眼",
     "item.endrem.magical_pearl.description": "沒有了這隻眼睛，喚魔者將能力大幅削弱",
-    "item.endrem.black_pearl": "闇黑之眼",
+    "item.endrem.black_pearl": "黑色眼睛圖案",
     "item.endrem.black_pearl.description": "海盜說，祂看到過這顆傳說中的黑珍珠",
     "item.endrem.lost_pearl": "迷離之眼",
     "item.endrem.lost_pearl.description": "據說這是由世上第一批鐵匠鍛造而成的",
@@ -49,7 +49,7 @@
     "block.endrem.cold_frame": "寒霜傳送門框架",
     "block.endrem.corrupted_frame": "腐化傳送門框架",
     "block.endrem.magical_frame": "魔導傳送門框架",
-    "block.endrem.black_frame": "闇黑傳送門框架",
+    "block.endrem.black_frame": "黑色外框",
     "block.endrem.lost_frame": "迷離傳送門框架",
     "block.endrem.wither_frame": "凋零傳送門框架",
     "block.endrem.guardian_frame": "守衛傳送門框架",
@@ -103,6 +103,6 @@
     "endrem.config.end_gate_size": "終界門大小: %s",
     "endrem.config.title": "End Remastered 設定檔",
     "endrem.config.restart_message": "更改距離後必須重新啟動遊戲",
-    "endrem.config.done_button": "完成!",
+    "endrem.config.done_button": "完成",
     "endrem.config.reset_button": "重製設定檔設定"
 }
