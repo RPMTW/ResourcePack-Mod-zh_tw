@@ -53,7 +53,7 @@
     "text.autoconfig.vanilladeathchest.option.defenseEntities.maxSquaredDistanceFromChest.@Tooltip": "The maximum squared distance that a defense entity can be from its chest when a player is not nearby.",
     "text.autoconfig.vanilladeathchest.option.defenseEntities.maxSquaredDistanceFromPlayer": "Max squared distance from player",
     "text.autoconfig.vanilladeathchest.option.defenseEntities.maxSquaredDistanceFromPlayer.@Tooltip": "The maximum squared distance that a defense entity can be from its player when its chest is not within the maximum squared distance.",
-    "text.autoconfig.vanilladeathchest.category.protection": "Protection",
+    "text.autoconfig.vanilladeathchest.category.protection": "保護",
     "text.autoconfig.vanilladeathchest.option.protection.enable": "啟用",
     "text.autoconfig.vanilladeathchest.option.protection.enable.@Tooltip": "Enables death chest protection.",
     "text.autoconfig.vanilladeathchest.option.protection.bypassPermissionLevel": "Bypass permission level",
