@@ -1,6 +1,6 @@
 {
     "config.okzoomer.title": "Ok Zoomer 設定",
-    "config.okzoomer.category.features": "功能",
+    "config.okzoomer.category.features": "特色功能",
     "config.okzoomer.cinematic_camera": "電影視角",
     "config.okzoomer.cinematic_camera.off": "關",
     "config.okzoomer.cinematic_camera.vanilla": "原版",
@@ -41,7 +41,7 @@
     "config.okzoomer.minimum_zoom_divisor.tooltip": "滾輪向下滾動能調整的最小放大數值。",
     "config.okzoomer.maximum_zoom_divisor": "最大放大倍數",
     "config.okzoomer.maximum_zoom_divisor.tooltip": "滾輪向上滾動能調整的最大放大數值。",
-    "config.okzoomer.scroll_step": "滾動步長",
+    "config.okzoomer.scroll_step": "滾動靈敏度",
     "config.okzoomer.scroll_step.tooltip.1": "透過滾輪滾動而減少/增加的放大的數值。",
     "config.okzoomer.scroll_step.tooltip.2": "當放大倍高於起始點時使用。",
     "config.okzoomer.lesser_scroll_step": "小滾動步長",
@@ -68,7 +68,7 @@
     "config.okzoomer.category.presets": "預設",
     "config.okzoomer.reset_to_preset": "重設到預設",
     "config.okzoomer.reset_to_preset.none": "無",
-    "config.okzoomer.reset_to_preset.default": "預設",
+    "config.okzoomer.reset_to_preset.default": "預設值",
     "config.okzoomer.reset_to_preset.classic": "經典",
     "config.okzoomer.reset_to_preset.persistent": "持續",
     "config.okzoomer.reset_to_preset.tooltip": "保存配置後，以特定的方式重設配置。",
@@ -79,9 +79,9 @@
     "toast.okzoomer.title": "Ok Zoomer",
     "toast.okzoomer.disable_zoom": "禁用縮放",
     "toast.okzoomer.disable_zoom_scrolling": "禁用滾動縮放",
-    "key.okzoomer.category": "放大",
-    "key.okzoomer.decrease_zoom": "增加縮放",
-    "key.okzoomer.increase_zoom": "減小縮放",
-    "key.okzoomer.reset_zoom": "重設縮放",
-    "key.okzoomer.zoom": "放大"
+    "key.okzoomer.category": "遠眺",
+    "key.okzoomer.decrease_zoom": "Decrease Zoom",
+    "key.okzoomer.increase_zoom": "Increase Zoom",
+    "key.okzoomer.reset_zoom": "Reset Zoom",
+    "key.okzoomer.zoom": "遠眺"
 }
