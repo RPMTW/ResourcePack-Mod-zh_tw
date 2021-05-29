@@ -62,7 +62,7 @@
   "config.canvas.value.batch_chunk_render": "分區塊渲染",
   "config.canvas.help.batch_chunk_render": "用相同的預覽圖變換繪製多個方塊。會讓效能快很多，但如果你看到一些渲染錯誤，可以嘗試不使用此功能。",
   "config.canvas.value.vanilla_chunk_matrix": "原版區塊縮放",
-  "config.canvas.help.vanilla_chunk_matrix": "製作中",
+  "config.canvas.help.vanilla_chunk_matrix": "尚未完成",
   "config.canvas.value.adjust_vanilla_geometry": "防止深度戰鬥",
   "config.canvas.help.adjust_vanilla_geometry": "調整了一些原版模型的四邊形（如鐵條），以避免與相鄰方塊發生Z字形衝突。",
   "config.canvas.value.clamp_exterior_vertices": "Clamp Exterior Vertices",
