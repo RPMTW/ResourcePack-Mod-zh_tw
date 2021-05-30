@@ -204,7 +204,7 @@
     "dogradar.west": "**** %s在西方%d方塊遠的位置 ****",
     "dogradar.notindim": "**** %s不在這個維度，%s，%d在%d ****",
     "dogradar.errornoradio": "**** 找不到%s！請確保安裝了雷達項圈！ ****",
-    "dogradar.errornull": "**** 沒有找到狗！請確保你有一隻小狗天才的狗！ ****",
+    "dogradar.errornull": "**** 在 %s 沒有找到狗! ****",
     "dogradar.errorown": "**** 你不是%s的主人！請確保你具有與%d交互的權限！ ****",
     "title.doggytalents.config": "小狗天才的配置設定",
     "modgui.config.doggysettings": "狗的設置",
