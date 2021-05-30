@@ -258,7 +258,7 @@
     "elementalcraft.category.basics": "基礎",
     "elementalcraft.category.basics.desc": "$(thing)元素工藝$()中的基本概念與機制。",
     "elementalcraft.category.instruments": "元素器械",
-    "elementalcraft.category.instruments.desc": "$(thing)元素器械$()是主要的合成場所，$(br)它們透過消耗$(thing)元素$()來完成各式各樣的活動，使用時需將它們貼附於$(ec:tank)元素容器$()的上表面。",
+    "elementalcraft.category.instruments.desc": "$(thing)元素器械$()是$(thing)元素工藝$()中的主要製作工具。  $(br)它們消耗$(thing)元素$()，並且需要在一個$(ec:tank)元素容器$()之上。",
     "elementalcraft.category.crafting": "合成",
     "elementalcraft.category.crafting.desc": "本章節主要講述$(thing)合成機制$()，包括灌注與聚合。",
     "elementalcraft.category.shrines": "祭壇",
