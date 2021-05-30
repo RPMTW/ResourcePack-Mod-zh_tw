@@ -56,7 +56,7 @@
     "multiblock.colossalchests.error.prefix": "巨型箱子",
     "multiblock.colossalchests.error.prefix.info": "巨型箱子結構錯誤",
     "multiblock.colossalchests.error.unexpected": "不可預料的巨型箱子結構錯誤。",
-    "multiblock.colossalchests.error.material": "在%2$s發現了材料：%1$s，但那裡本應使用%3$s。",
+    "multiblock.colossalchests.error.material": "在 %s 發現了材料：%s，但那裡本應使用 %s。",
     "multiblock.colossalchests.error.upgrade": "升級箱子材料不足，你需要%s個核心，%s個交界面，以及%s個箱壁。所需材料為%s。",
     "multiblock.colossalchests.error.upgradeLimit": "你無法再轉換這個箱子了。"
 }
