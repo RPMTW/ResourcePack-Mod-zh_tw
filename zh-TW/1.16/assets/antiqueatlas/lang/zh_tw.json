@@ -1,7 +1,7 @@
 {
     "item.antiqueatlas.antique_atlas": "古式地圖 #%d",
     "item.antiqueatlas.empty_antique_atlas": "空的古式地圖",
-    "gui.antiqueatlas.scalebar": "Scale in blocks",
+    "gui.antiqueatlas.scalebar": "依方塊進行縮放",
     "gui.antiqueatlas.addMarker": "添加標記",
     "gui.antiqueatlas.delMarker": "刪除標記",
     "gui.antiqueatlas.followPlayer": "跟隨玩家",
@@ -41,7 +41,7 @@
     "text.autoconfig.antiqueatlas.option.autoVillageMarkers": "村莊標記",
     "text.autoconfig.antiqueatlas.option.autoNetherPortalMarkers": "地獄傳送門標記",
     "text.autoconfig.antiqueatlas.option.itemNeeded": "Atlas required for usage",
-    "text.autoconfig.antiqueatlas.option.doScaleMarkers": "Scale markers",
+    "text.autoconfig.antiqueatlas.option.doScaleMarkers": "比例標記",
     "text.autoconfig.antiqueatlas.option.defaultScale": "預設縮放等級",
     "text.autoconfig.antiqueatlas.option.minScale": "最小縮放等級",
     "text.autoconfig.antiqueatlas.option.maxScale": "最大縮放等級",
