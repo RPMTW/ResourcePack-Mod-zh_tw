@@ -1,6 +1,6 @@
 {
-  "itemGroup.anthropophagy.anthropophagy": "Anthropophagy",
-  "item.anthropophagy.wooden_knife": "Wooden Knife",
+  "itemGroup.anthropophagy.anthropophagy": "食人論",
+  "item.anthropophagy.wooden_knife": "木刀",
   "item.anthropophagy.stone_knife": "石刀",
   "item.anthropophagy.iron_knife": "鐵刀",
   "item.anthropophagy.golden_knife": "金刀",
@@ -12,13 +12,13 @@
   "item.anthropophagy.flesh_owned": "%s 的生肉",
   "item.anthropophagy.cooked_flesh_owned": "%s 的熟肉",
   "item.anthropophagy.corrupt_flesh_owned": "%s 的腐肉",
-  "item.anthropophagy.piglutton_heart": "Piglutton Heart",
-  "item.anthropophagy.tethered_heart": "Tethered Heart",
-  "item.anthropophagy.piglutton_spawn_egg": "Piglutton Spawn Egg",
-  "entity.anthropophagy.piglutton": "Piglutton",
-  "anthropophagy.subtitles.entity.piglutton.ambient": "Piglutton 吼叫",
-  "anthropophagy.subtitles.entity.piglutton.hurt": "Piglutton 受傷",
-  "anthropophagy.subtitles.entity.piglutton.death": "Piglutton 死亡",
+  "item.anthropophagy.piglutton_heart": "豬盧頓心臟",
+  "item.anthropophagy.tethered_heart": "束縛心臟",
+  "item.anthropophagy.piglutton_spawn_egg": "豬盧頓 生怪蛋",
+  "entity.anthropophagy.piglutton": "豬盧頓",
+  "anthropophagy.subtitles.entity.piglutton.ambient": "豬盧頓 吼叫",
+  "anthropophagy.subtitles.entity.piglutton.hurt": "豬盧頓 受傷",
+  "anthropophagy.subtitles.entity.piglutton.death": "豬盧頓 死亡",
   "message.anthropophagy.tether": "你似乎不再飢餓了",
-  "message.anthropophagy.tethered": "You are already tethered"
+  "message.anthropophagy.tethered": "你已經被束縛了"
 }
