@@ -2,7 +2,7 @@
     "config.backtools.prop.enabledTools.name": "已啟用工具",
     "config.backtools.prop.enabledTools.desc": "啟用的工具，按其資源名稱。例如：minecraft:diamond_hoe。把任何條目放在這裡面，都會把 BackTools 轉換為一個只有白名單的模組。被停用的工具將被忽略。",
     "config.backtools.prop.disabledTools.name": "已停用工具",
-    "config.backtools.prop.disabledTools.desc": "Disabled tools, by their resource name. Eg: minecraft:diamond_hoe",
+    "config.backtools.prop.disabledTools.desc": "已停用工具，依其資源名稱。 例如： minecraft：diamond_hoe",
     "config.backtools.prop.toolOrientation.name": "工具方向",
     "config.backtools.prop.toolOrientation.desc": "Tool orientation, by class file and degrees. Separate with \":\" . See defaults for examples.",
     "config.backtools.prop.nbtCleaner.name": "NBT 清除器",
