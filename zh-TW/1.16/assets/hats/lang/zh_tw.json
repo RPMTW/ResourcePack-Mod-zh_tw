@@ -31,7 +31,7 @@
     "config.hats.prop.filterSorterConfig.desc": "帽子排序的設置。請通過帽子UI介面進行設置，不要在此處手動編輯",
     "config.hats.prop.randSeed.name": "帽子隨機種子",
     "config.hats.prop.randSeed.desc": "隨機種子被帽子隨機性、稀有度、生成機率所使用。選項留白以生成隨機種子。",
-    "config.hats.prop.entityOverrideChance.name": "Entity Chance Override",
+    "config.hats.prop.entityOverrideChance.name": "實體機率覆寫",
     "config.hats.prop.entityOverrideChance.desc": "每個條目都應該要有一個資源位置以及機率，中間用一個逗號隔開。例如： \"minecraft:pig，100\" ，將會使所有原版的豬在生成時必定帶有帽子。",
     "config.hats.prop.disabledMobs.name": "停用生物",
     "config.hats.prop.disabledMobs.desc": "打上資源位置以停用某些生物，使他們生成時不再帶有帽子。例如：minecraft:pig",
@@ -55,8 +55,8 @@
     "config.hats.prop.sendNewHatToastPrompt.desc": "獲得新帽子時，是否要寄送客戶端一則滾動通知？",
     "config.hats.prop.enableCreativeModeHatHunting.name": "啟用創造模式帽子打獵",
     "config.hats.prop.enableCreativeModeHatHunting.desc": "預設創造模式玩家有權使用所有帽子。啟用此選項將迫使他們像在生存模式一樣為了帽子去打獵。",
-    "config.hats.prop.mobHatTakeover.name": "Mob Hat Takeover",
-    "config.hats.prop.mobHatTakeover.desc": "If a mob (without a hat) kills another mob (with a hat), will it get the other mob's hat?",
+    "config.hats.prop.mobHatTakeover.name": "生物帽子掠奪",
+    "config.hats.prop.mobHatTakeover.desc": "如果一隻生物(沒有帽子)殺死另一隻生物(帶有帽子)，他可以將帽子掠奪過來戴上嗎？",
     "config.hats.prop.hatEntityLifespan.name": "帽子實體壽命",
     "config.hats.prop.hatEntityLifespan.desc": "由帽子發射器射出的帽子實體存在時間。請注意，當帽子實體與實體交換帽子時將重置這段時間。",
     "config.hats.prop.hatLauncherReplacesPlayerHat.name": "帽子發射器可以替換玩家帽子",
@@ -212,7 +212,7 @@
     "hats.plugin.tabula.button.new": "新增",
     "hats.plugin.tabula.button.ok.tooltip": "按住 SHIFT 鍵，將選定的帽子作為一個幽靈打開。",
     "item.hats.hat_launcher": "帽子發射器",
-    "subtitles.hats.hat_launcher.firing": "Hat launcher fires",
+    "subtitles.hats.hat_launcher.firing": "帽子發射器開火",
     "subtitles.hats.hat_launcher.hit": "帽子被戴在實體頭上",
     "subtitles.hats.hat.bonk": "帽子落地"
 }
