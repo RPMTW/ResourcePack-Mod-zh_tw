@@ -1813,7 +1813,7 @@
     "command.aoa.player.xp.check.self": "%1$s經驗：%2$s",
     "command.aoa.portalreset.desc": "/aoa portalreset - 重設所有保存的傳送門位置(如果你被困在主世界之外，可以使用這個方法)。要求在指令後鍵入yes以進行確認",
     "command.aoa.portalreset.success": "你保存的傳送門位置已被刪除",
-    "command.aoa.structures.desc": "/aoa structures - Generate structures by id.",
+    "command.aoa.structures.desc": "/aoa structures - 依ID生成結構。",
     "command.aoa.structures.invalidStructure": "無效的結構ID：%1$s",
     "command.aoa.structures.spawn": "生成結構：%1$s於：%2$s",
     "command.aoa.wiki.connectionFail": "無法連接到Wiki網站以查詢資訊",
