@@ -1079,27 +1079,27 @@
 			},
 			{
 				"type": "text",
-				"value": "2. Place vinteum ingot in Runeforge\n\nThe next step is a Place Item Into Container.  You'll use a Rune of Marking set to the Runeforge for this one."
+				"value": "2. 將溫特姆錠錠放置在符文鍛爐\n\n下一步是將項目放入容器中。 為此，您將在符文熔爐上使用標記符文。"
 			},
 			{
 				"type": "text",
-				"value": "3. Take blank pattern from chest\n\nAgain, you'll use a Rune of Marking set to the block containing your raw materials, but put the Blank Pattern in as a filter."
+				"value": "3. 取胸前的空白圖案\n\n同樣，您將在包含原材料的塊上使用標記符文，但將空白圖案作為過濾器放入。"
 			},
 			{
 				"type": "text",
-				"value": "4. Place pattern in runescribing table.\n\nMake sure that the Rune of Marking is set to the top of your Runescribing Table so the Sided Inventory works properly."
+				"value": "4. 在符文台上放置圖案。\n\n確保將標記符文設置在符文書寫台的頂部，以便側面庫存正常工作。"
 			},
 			{
 				"type": "text",
-				"value": "5. Scribe Rune\n\nHere you'll use a Scribe Rune command with a Rune of Marking set to the Runescribing Table, and put in whatever pattern you want made.  Swapping this pattern out is all you'll need to do in order to make different patterns once this is done!"
+				"value": "5. 抄寫符文\n\n在這裡，您將使用刻印符文命令，並將印記符文設置為符文刻印桌，並放入您想要製作的任何圖案。 完成此操作後，您只需交換此模式即可製作不同的模式！"
 			},
 			{
 				"type": "text",
-				"value": "6. Take pattern from runescribing table\n\nUse a Rune of Marking set to the top of the Runescribing Table to remove the scribed rune."
+				"value": "6. 從符文台上取圖樣\n\n使用設置在符文書寫台頂部的標記符文移除已書寫的符文。"
 			},
 			{
 				"type": "text",
-				"value": "7. Place on runic anvil\n\nYou know the drill by now.  Rune of Marking set to the Runic Anvil."
+				"value": "7. 放在符文砧上\n\n你現在知道演習了。 標記符文設置為符文砧。"
 			},
 			{
 				"type": "text",
@@ -1111,11 +1111,11 @@
 			},
 			{
 				"type": "text",
-				"value": "10. Forge rune\n\nA Forge Rune command using another Rune of Marking to indicate the Runic Anvil."
+				"value": "10.鍛造符文\n\n一個使用另一個標記符文來指示符文砧的鍛造符文命令。"
 			},
 			{
 				"type": "text",
-				"value": "11. Take rune from anvil\n\nYou'll use a Rune of Marking for the Anvil, but leave the filter blank so it takes anything placed there.  This keeps it flexible for future rune types!"
+				"value": "11. 從鐵砧上取符文\n\n您將為鐵砧使用標記符文，但將過濾器留空，以便放置任何放置在那裡的東西。 這使它在未來的符文類型中保持靈活！"
 			},
 			{
 				"type": "text",
@@ -1143,7 +1143,7 @@
 			},
 			{
 				"type": "text",
-				"value": "The first step in runic enchanting is to scribe and forge a rune according to the Runescribing and Runeforging mechanics.  The enchantment's recipe will let you know which one(s) you need to make.  See the Runescribing/Runeforging section of the codex for more information."
+				"value": "符文附魔的第一步是根據符文抄寫和符文鍛造機制抄寫和鍛造符文。 附魔的配方會讓你知道你需要製作哪一個。 有關更多信息，請參閱手抄本的符文書寫/符文鍛造部分。"
 			},
 			{
 				"type": "text",
@@ -1151,7 +1151,7 @@
 			},
 			{
 				"type": "text",
-				"value": "Place the item you want to enchant on the anvil and the now enchanted rune on top.  If the enchantment can be applied to the item (standard combination and compatibility rules apply), you will see spinning runes appear at the bottom of the anvil.  Strike the rune with a Runesmith's Hammer repeatedly until the enchantment is applied."
+				"value": "將你想要附魔的物品放在鐵砧上，現在附魔的符文放在上面。 如果附魔可以應用於物品（標準組合和兼容性規則適用），您將看到旋轉符文出現在鐵砧底部。 用符文鐵匠之鎚反复敲擊符文，直到附魔生效。"
 			}
 		],
 		"related_recipes": [
@@ -1182,7 +1182,7 @@
 			},
 			{
 				"type": "text",
-				"value": "This enchantment will cause me to bounce when I hit the ground after falling, provided I am not sneaking or affected by Gravity Well.  It must be applied to boots, given they're the first thing to hit the ground when falling."
+				"value": "如果我沒有潛行或受到重力井的影響，這個結界會讓我在墜落後落地時反彈。 它必須應用於靴子，因為它們是墜落時第一個撞到地面的東西。"
 			}
 		],
 		"related_recipes": [
@@ -1201,7 +1201,7 @@
 			},
 			{
 				"type": "text",
-				"value": "This enchantment creates a burst of air beneath my boots (where the enchantment must be applied) allowing me to jump again in midair.  Higher levels of the enchantment will allow me to jump more than once in midair."
+				"value": "這個附魔會在我的靴子下（必須應用附魔的地方）產生一陣空氣，讓我再次在半空中跳躍。 更高級別的附魔將允許我在半空中跳躍不止一次。"
 			}
 		],
 		"related_recipes": [
@@ -1361,7 +1361,7 @@
 			},
 			{
 				"type": "text",
-				"value": "The Bane of Arthropods enchantment increases your attack damage against mobs such as spiders, cave spiders, silverfish, and endermites."
+				"value": "節肢剋星附魔會增加你對蜘蛛、洞穴蜘蛛、蠹魚和末影蟎等生物的攻擊傷害。"
 			}
 		],
 		"related_recipes": [
