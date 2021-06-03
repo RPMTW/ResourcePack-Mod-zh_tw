@@ -1,9 +1,9 @@
-Revolver Cartridges
+左輪彈藥
 
-Cartridges are created in the Engineer's Workbench, by the use of specific <link;blueprints;Engineer's Blueprints>. Blueprints for normal ammunition you can create yourself, but some more advanced types will require you to buy adequate blueprints from someone else.<np>
-<&empty>§lEmpty §lCasings§r and §lShells§r are the basis for every projectile. Empty Casings can also be crafted in the <link;metal_press;Metal Press>, using the appropriate mold, at a greatly reduced cost.<np>
-<&casull>§lCasull §lCartridges§r are created with a "Common Projectiles" blueprint. They are a simple lead projectile inflicting medium damage.<np>
-<&ap>§lArmor-Piercing §lCartridges§r are created with the same blueprint. They do the same amount of damage but penetrate armor by sheer kinetic force.<np>
+左輪手槍彈藥需要工程師裝配台以及特定的<link;blueprints;Engineer's Blueprints>才能製作。 你自己就可以繪製一般軍火的製造藍圖，但一些高級軍火的藍圖需要你從他人手中購買才能得到。<np>
+<&empty>§lEmpty §lCasings§r and §lShells§r 是所有子彈的基礎。 空彈殼也可以使用<link;metal_press;Metal Press>,使用合適的模具，大大降低成本。<np>
+<&casull>§lCasull §lCartridges§r是用“普通子彈”藍圖創建的。 它們是一種簡單的鉛彈，造成中等傷害。<np>
+<&ap>§lArmor-Piercing §lCartridges§r 使用相同的藍圖創建。 它們造成相同數量的傷害，但通過純粹的動能穿透裝甲。<np>
 <&buckshot>§lBuckshot §lCartridges§r, created with the aformentioned blueprint, are filled with multiple small projectiles that are fired out in a cone shape. This cartridge is highly effective at short range.<np>
 <&he>§lHigh-Explosive §lCartridges§r are created with a "Common Projectiles" blueprint. They fire a projectile that explodes on impact, causing damage to living creatures and terrain.<np>
 <&silver>§lSilver §lCartridges§r, also created with a "Common Projectiles" blueprint, consist of a lead core wrapped in silver, making them highly effective against undead.<np>
