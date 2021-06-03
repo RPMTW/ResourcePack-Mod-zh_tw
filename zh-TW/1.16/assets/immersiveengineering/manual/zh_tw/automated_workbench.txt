@@ -1,7 +1,8 @@
-Automated Workbench
-For those who can't drive stick
-<&multiblock>The Automatic Workbench is one of the first major successes of small-scale engineering.
-The machine is able to follow a set of instructions described by a <link;blueprints;Blueprint;start> to assemble the items detailed by it.<np>
-Upon assembling the multiblock, a Blueprint can be placed on its drawing table. After selecting the item that should be created, it will begin the assembly process. In order for the machine to work, it will need to be supplied with materials and power.
-Item inputs are the two hatches marked with blue dots, the power input lies above them. Finished items are dropped at the end of the conveyor belt.
-A redstone signal below the drawing table can be used for control.
+自動工作臺
+給不會手動擋的人的福利
+<&multiblock>自動工作臺算是小規模工程中的重大發明之一。
+這台機器可以按照給定的<link;blueprints;藍圖;start>執行一系列的工作，最終產出它所列出的物品。<np>
+在搭建多方塊結構後，你可以在繪圖臺上擺一張藍圖。選定要合成的物品之後，它就會開始合成。 選擇應創建的項目後，它將開始組裝過程。
+ 這台機器需要原料和充足的電力來工作。
+兩個藍點標注的介面是用來輸入物品的，而電力介面在物品介面的上側。合成的物品會掉到傳送帶的終端。 成品掉落在傳送帶的末端。
+你可以在繪圖台下側使用紅石信號控制自動工作臺。
