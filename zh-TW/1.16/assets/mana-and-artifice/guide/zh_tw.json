@@ -933,7 +933,7 @@
 		]
 	},
 	"Superheating Vinteum": {
-		"category": "runesmithing",
+		"category": "符文鍛造",
 		"index": -90,
 		"sections": [
 			{
@@ -1062,7 +1062,7 @@
 			},
 			{
 				"type": "text",
-				"value": "為了在 統御星錐中設置和配置邏輯步驟，您需要以下材料：\n\n印記符文 x 12\n葡萄錠 x 1\n空白符文圖案 x 1\n您要刻劃的圖案 x 1\n過熱葡萄錠 x 1"
+				"value": "為了在 統御星錐中設置和配置邏輯步驟，您需要以下材料：\n\n印記符文 x 12\n純淨溫特姆錠 x 1\n空白符文圖案 x 1\n您要刻劃的圖案 x 1\n超熱溫特姆錠 x 1"
 			},
 			{
 				"type": "title",
@@ -1075,7 +1075,7 @@
 			},
 			{
 				"type": "text",
-				"value": "1. 從胸部取出葡萄錠。\n\n這是 統御星錐的第一步，從容器中取出物品。 您將在包含原材料的塊上使用標記符文之一，並將 純淨溫特姆錠作為過濾器放入。"
+				"value": "1. 從胸部取出純淨溫特姆錠。\n\n這是 統御星錐的第一步，從容器中取出物品。 您將在包含原材料的塊上使用標記符文之一，並將 純淨溫特姆錠作為過濾器放入。"
 			},
 			{
 				"type": "text",
@@ -1103,7 +1103,7 @@
 			},
 			{
 				"type": "text",
-				"value": "8. 從符文熔爐取過熱錠\n\n使用標記符文讓你從符文熔爐中取走。使用過熱錠作為過濾器可防止魔偶在尚未完成的情況下採用常規錠。"
+				"value": "8. 從符文熔爐取空白符咒\n\n使用標記符文讓你從符文熔爐中取走。使用超熱溫特姆錠作為過濾器可防止魔偶在尚未完成的情況下採用常規錠。"
 			},
 			{
 				"type": "text",
@@ -1151,7 +1151,7 @@
 			},
 			{
 				"type": "text",
-				"value": "將你想要附魔的物品放在鐵砧上，現在附魔的符文放在上面。 如果附魔可以應用於物品（標準組合和兼容性規則適用），您將看到旋轉符文出現在鐵砧底部。 用符文鐵匠之鎚反复敲擊符文，直到附魔生效。"
+				"value": "將你想要附魔的物品放在鐵砧上，現在附魔的符文放在上面。 如果附魔可以應用於物品（標準組合和兼容性規則適用），您將看到旋轉符文出現在鐵砧底部。 用符文鐵匠之鎚反復敲擊符文，直到附魔生效。"
 			}
 		],
 		"related_recipes": [
@@ -1396,7 +1396,7 @@
 			},
 			{
 				"type": "text",
-				"value": "The Curse of Binding enchantment lets you curse an item. Once a cursed item is worn, it can not be removed until the item breaks or the wearer dies."
+				"value": "綁定詛咒附魔可以讓你詛咒一個物品。 被詛咒的物品一旦被佩戴，在物品損壞或佩戴者死亡之前無法移除。"
 			}
 		],
 		"related_recipes": [
@@ -1415,7 +1415,7 @@
 			},
 			{
 				"type": "text",
-				"value": "The Curse of Vanishing enchantment lets you curse an item in the game. When an item is cursed with this enchantment, the cursed item will disappear when the wearer dies instead of being dropped."
+				"value": "消失詛咒附魔可以讓你詛咒遊戲中的物品。 當一件物品被此附魔詛咒時，被詛咒的物品會在佩戴者死亡時消失而不是掉落。"
 			}
 		],
 		"related_recipes": [
@@ -1434,7 +1434,7 @@
 			},
 			{
 				"type": "text",
-				"value": "The Blast Protection enchantment reduces the damage from explosions such as TNT explosions, creeper explosions, ghast fireballs, initial wither boss explosions, and ender crystals."
+				"value": "爆炸保護附魔減少爆炸造成的傷害，例如 TNT 爆炸、苦力怕爆炸、地獄幽靈、初始凋零爆炸和末影水晶。"
 			}
 		],
 		"related_recipes": [
@@ -1546,7 +1546,7 @@
 			},
 			{
 				"type": "text",
-				"value": "The Feather Falling enchantment reduces damage from falling and damage from ender pearl teleportations."
+				"value": "輕盈附魔減少墜落造成的傷害和末影珍珠傳送造成的傷害。"
 			}
 		],
 		"related_recipes": [
@@ -1631,7 +1631,7 @@
 			},
 			{
 				"type": "text",
-				"value": "The Flame enchantment turns your arrows into flaming arrows allowing you to set your targets on fire."
+				"value": "火焰附魔將你的箭變成燃燒的箭，讓你可以讓你的目標著火。"
 			}
 		],
 		"related_recipes": [
@@ -1650,7 +1650,7 @@
 			},
 			{
 				"type": "text",
-				"value": "The Transitory Step enchantment can be applied to boots, and drains small amounts of your mana to automatically place transitory tiles in front of you as if on a bridge.  You must be on the ground for it to work, and you can sneak to prevent that functionality from occurring.\n\nThis won't do anything for walking backwards or strafing, so keep moving forward!"
+				"value": "瞬變步法術可應用於靴子，並消耗少量法力以自動將瞬變圖塊放置在您面前，就像在橋上一樣。 您必須在地面上才能使其工作，並且您可以潛行以防止該功能發生。\n\n這對向後走或掃射沒有任何作用，所以繼續前進！"
 			}
 		],
 		"related_recipes": [
@@ -1669,7 +1669,7 @@
 			},
 			{
 				"type": "text",
-				"value": "The Fortune enchantment increases the block drops from mining. For example, with the Fortune enchantment you will have a better chance of getting flint from gravel or an apple from a tree."
+				"value": "幸運附魔增加了從採礦中掉落的方塊。 例如，使用時運附魔，您將有更好的機會從礫石中獲得燧石或從樹上獲得蘋果。"
 			}
 		],
 		"related_recipes": [
