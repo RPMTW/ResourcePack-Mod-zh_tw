@@ -349,11 +349,11 @@
 			},
 			{
 				"type": "text",
-				"value": "The runeforge is a magical furnace that runs on ambient magic in the air.  It requires no additional fuel source.  It has a few of its own recipes, but will also do campfire recipes in half the time, furnace recipes in twice the time, and blast furnace recipes in twice the time.\n\nIt will accept up to 16 items at a time, but the total cook time is multiplied by the number of items in it."
+				"value": "符文熔爐是一個魔法熔爐，它依靠空氣中的環境魔法運轉。 它不需要額外的燃料源。 它有一些自己的食譜，但也會用一半的時間做篝火食譜，兩倍的時間做爐子的食譜，兩倍的時間做高爐的食譜。\n\n它一次最多接受 16 個項目，但總烹飪時間乘以其中的項目數量。"
 			},
 			{
 				"type": "text",
-				"value": "Once you have advanced in tier, you will unlock upgrades to the Runeforge in the form of speed increases and ore doubling."
+				"value": "升級後，您將解鎖符文熔爐的升級，速度提升和礦石翻倍。"
 			}
 		],
 		"related_recipes": [
@@ -374,7 +374,7 @@
 			},
 			{
 				"type": "text",
-				"value": "The brimstone forge is an upgrade to the runeforge that greatly increases the smelting speed.  Upgrade a forge by crafting a brimstone charm and right clicking the forge with it."
+				"value": "硫磺熔爐是符文熔爐的升級版，極大地提高了熔煉速度。 通過製作硫磺飾品並右鍵單擊熔爐來升級熔爐。"
 			}
 		],
 		"related_recipes": [
@@ -423,7 +423,7 @@
 			},
 			{
 				"type": "text",
-				"value": "The runeforge's heat is able to break down bones into a fine ash.  I should be able to use this ash for multiple magical purposes."
+				"value": "符文熔爐的熱量能夠將骨頭分解成細小的灰燼。 我應該能夠將這種灰燼用於多種神奇的目的。"
 			}
 		],
 		"related_recipes": [
@@ -443,7 +443,7 @@
 			},
 			{
 				"type": "text",
-				"value": "This mod contains several commands that moderators can use to help those on servers, or to test in creative mode."
+				"value": "這個模組包含幾個命令，版主可以用來幫助服務器上的人，或者在創造模式下進行測試。"
 			},
 			{
 				"type": "text",
@@ -455,11 +455,11 @@
 			},
 			{
 				"type": "text",
-				"value": "/completeProgression <player>\nCompletes all occulus tasks for a player at their current tier (this essentially enables the progression rituals)."
+				"value": "/completeProgression <player>\n為當前等級的玩家完成了所有 oculus 任務（這基本上啟用了進度儀式）。"
 			},
 			{
 				"type": "text",
-				"value": "/setTier [1-5] <player>\nSets a player tier, including what recipes they have access to."
+				"value": "/setTier [1-5] <player>\n設置玩家等級，包括他們可以訪問的食譜。"
 			},
 			{
 				"type": "text",
