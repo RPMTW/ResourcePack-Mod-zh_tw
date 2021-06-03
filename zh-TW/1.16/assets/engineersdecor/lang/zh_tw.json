@@ -237,7 +237,7 @@
     "block.engineersdecor.small_solar_panel.help": "§6暴露在陽光下時產生少量能量。§r\n 用於低消耗地在遠程系統給低壓電容器充電。 內部電荷泵電路積累並頻繁輸出RF。產出取決於時間 和天氣。",
     "block.engineersdecor.small_solar_panel.status": "SOC： %2$sRFr |的 %1$s%% 生產 %3$sRF/t|餵食 %4$sRF/t",
     "block.engineersdecor.small_tree_cutter": "小型砍樹機",
-    "block.engineersdecor.small_tree_cutter.help": "§6砍倒正前方的樹。§r\n 不收集木材。通入紅石信號停用。 提供RF來加快砍樹速度。（沒有的話會很慢。）",
+    "block.engineersdecor.small_tree_cutter.help": "砍倒正前方的樹。\n 不收集木材。\n 通入紅石信號停用。\n 提供RF來加快砍樹速度。（沒有的話會很慢。）\n ${!tree_cutter_requires_power?engineersdecor.tooltip.massive_speed_boost_with_rf_power} ${tree_cutter_requires_power?engineersdecor.tooltip.requires_rf_power}",
     "block.engineersdecor.small_tree_cutter.status": "SOC： %2$sRFr |的 %1$s%% 進展： %3$s%% （%4$s）",
     "block.engineersdecor.small_waste_incinerator": "小型垃圾焚燒爐",
     "block.engineersdecor.small_waste_incinerator.help": "§6有內部先進先出隊列的垃圾桶。§r物品可以從任何一面插入，而且 直到隊列滿都會保留。一旦超過隊列上限，最老的物品會被焚毀。 通入RF/FE會增加處理速度。破壞時保留內部未銷毀的物品。",
