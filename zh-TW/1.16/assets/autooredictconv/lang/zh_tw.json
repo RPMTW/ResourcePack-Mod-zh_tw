@@ -13,7 +13,7 @@
     "autooredictconv.command.odc.help.7": "/odc reload - 重新載入磁碟中的配置檔。",
     "autooredictconv.command.odc.help.8": "/odc remove [tag] - Removes either a specific tag's conversion or all conversions for tags on the held item if no tag is specified.",
     "autooredictconv.command.odc.detect": "項目 §b{0}§r 的標籤為：",
-    "autooredictconv.command.odc.dump": "Listing all item tags...",
+    "autooredictconv.command.odc.dump": "正在列出所有物品標籤...",
     "autooredictconv.command.odc.find": "The tag §b{0}§r contains the items:",
     "autooredictconv.command.odc.list": "The configured conversions are:",
     "autooredictconv.command.odc.list.tag": "§nTag Conversions§r",
