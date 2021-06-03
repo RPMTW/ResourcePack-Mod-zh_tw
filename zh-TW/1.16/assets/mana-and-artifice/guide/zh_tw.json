@@ -2389,7 +2389,7 @@
 			},
 			{
 				"type": "text",
-				"value": "The Smite enchantment increases your attack damage against undead mobs such as skeletons, wither skeletons, zombies, zombie pigmen, drowneds, and wither bosses."
+				"value": "不死剋星附魔會增加你對不死生物的攻擊傷害，\n例如骷髏、凋靈骷髏、殭屍、殭屍豬人、沉屍和凋靈首領。"
 			}
 		],
 		"related_recipes": [
@@ -2453,7 +2453,7 @@
 			},
 			{
 				"type": "text",
-				"value": "The Thorns enchantment is added to your armor so that when a player or mob physically attacks you, they will take damage from your armor."
+				"value": "尖刺附魔被添加到你的盔甲上，\n這樣當玩家或暴徒對你進行物理攻擊時，他們會受到你盔甲的傷害。"
 			}
 		],
 		"related_recipes": [
@@ -2481,7 +2481,7 @@
 			},
 			{
 				"type": "text",
-				"value": "The Unbreaking enchantment increases the durability of your tools, weapons, and armor so that they don't wear out as quickly."
+				"value": "耐久附魔可提高您的工具、武器和盔甲的耐用性，使它們不會很快磨損。"
 			}
 		],
 		"related_recipes": [
@@ -2537,7 +2537,7 @@
 			},
 			{
 				"type": "text",
-				"value": "After you have created a spell, simply hold it in your hand and activate the item.  The first time you do so, you'll be prompted to set the name and icon for the spell.\n\nType a name, pick an icon, and hit ESC to close the UI.\n\nAfter that, whenever you right click, you will attempt to cast the spell!\n\nThe spell will attempt to take effect, draining your mana in the process if successful.\n\nYou can hold a spell in each hand and activate them both at the same time.  You cannot choose which one to activate, though only one of them may succeed depending on targets."
+				"value": "創建一個法術後，只需將它握在手中並激活該項目。 第一次這樣做時，系統會提示您設置咒語的名稱和圖標。\n\n輸入名稱，選擇一個圖標，然後按 ESC 關閉 UI。\n\n之後，每當您右鍵單擊時，您都會嘗試施放咒語！\n\n該法術將嘗試生效，如果成功則在此過程中消耗您的法力。\n\n你可以每隻手拿著一個咒語並同時激活它們。 您無法選擇激活哪一個，但根據目標只有其中一個可能會成功。"
 			}
 		],
 		"related_recipes": []
@@ -2552,7 +2552,7 @@
 			},
 			{
 				"type": "text",
-				"value": "Once you start gaining several spells, you'll find that you need a place to carry them all.\n\nThe spell book spells can be switched between by holding Z and selecting a spell from the wheel."
+				"value": "一旦你開始獲得幾個法術，你會發現你需要一個地方來承載它們。\n\n可以通過按住 Z 並從輪盤中選擇一個法術來切換法術書法術。"
 			}
 		],
 		"related_recipes": [
@@ -2594,7 +2594,7 @@
 			},
 			{
 				"type": "text",
-				"value": "Spells and incantations give me the ability to cast spells following that exact recipe, and they're pretty easy to follow.  Most anyone with basic magical theory and the appropriate amount of practice can cast them.\n\nHowever over time, I've begun memorizing various spell parts and I think I can not only start to cast them from memory, but also even use my expanded understanding of their functions to combine effects!  This will make for some very interesting spells, I think."
+				"value": "法術和咒語使我能夠按照確切的配方施展法術，而且它們很容易遵循。 大多數具有基本魔法理論和適當練習量的人都可以施展它們。\n\n但是隨著時間的推移，我已經開始記住各種咒語部分，我想我不僅可以從記憶中開始施放它們，甚至可以利用我對它們的功能的擴展理解來組合效果！ 我想這會產生一些非常有趣的咒語。"
 			}
 		],
 		"related_recipes": [
@@ -2670,7 +2670,7 @@
 			},
 			{
 				"type": "text",
-				"value": "Once a spell is crafted, follow the prompt on the item to open a UI where you can change any modified values that are present on the spell.  You can also perform the Ritual of Alteration once unlocked which can add modifiers to a spell, up to a maximum of 3.  Later on, the Book of Rote can be used to make spells on the fly as you go."
+				"value": "法術製作完成後，按照物品上的提示打開一個 UI，您可以在其中更改法術上存在的任何修改值。 \n您還可以在解鎖後執行改變儀式，這可以為法術添加修飾符，最多 3 個。\n稍後，死記硬背書可用於隨時製作法術。"
 			}
 		],
 		"related_recipes": [
@@ -2694,7 +2694,7 @@
 			},
 			{
 				"type": "text",
-				"value": "Since I am unable to make vellum from paper, I'll need to find a reliable way to make leather.  I've seen the zombies that stalk the night, and though their flesh is rotten and rancid, I should be able to combine that with a little magic to return it to a usable form of leather."
+				"value": "因為我無法用紙製作牛皮紙，所以我需要找到一種可靠的方法來製作皮革。 \n我見過夜裡潛行的殭屍，雖然它們的肉已經腐爛腐爛，但我應該能夠將其與一點魔法結合起來，\n將其恢復為可用的皮革形式。"
 			}
 		],
 		"related_recipes": [
@@ -2746,7 +2746,7 @@
 			},
 			{
 				"type": "text",
-				"value": "Basic paper seems unable to take spells.  Vellum seems to be a better candidate.  I can make vellum by working leather in water (right click)."
+				"value": "一般紙似乎無法接受咒語。 牛皮紙似乎是一個更好的候選人。\n我可以通過在水中加工皮革來製作牛皮紙（右鍵單擊）。"
 			},
 			{
 				"type": "image",
@@ -2756,7 +2756,7 @@
 			},
 			{
 				"type": "text",
-				"value": "Any source of standing water will do, but I am able to get better results if the water is in a cauldron."
+				"value": "任何靜水源都可以，但如果水在大鍋中，我可以獲得更好的結果。"
 			}
 		],
 		"related_recipes": []
@@ -2771,7 +2771,7 @@
 			},
 			{
 				"type": "text",
-				"value": "This spell shape will spawn a projectile at the caster, in the direction that the caster is looking.  The projectile will fly forward and will affect the first entity or block it hits."
+				"value": "這個法術形狀會在施法者身上產生一個射彈，朝著施法者所看的方向。 \n射彈將向前飛行並影響它擊中的第一個實體或阻擋它。"
 			}
 		],
 		"related_recipes": [
@@ -2791,7 +2791,7 @@
 			},
 			{
 				"type": "text",
-				"value": "This spell shape will spawn a projectile high up in the sky (provided the target has a clear path to the sky), targeted at the point where the caster is pointing (if in range).  The projectile will fall quickly and will affect the first entity or block it hits."
+				"value": "這個法術形狀會在高空產生一個射彈（前提是目標有一條通向天空的清晰路徑），\n目標是施法者指向的點（如果在射程內）。 \n射彈會迅速下落並影響第一個實體或它擊中的方塊。"
 			}
 		],
 		"related_recipes": [
@@ -2811,7 +2811,7 @@
 			},
 			{
 				"type": "text",
-				"value": "The emanation shape projects the spell component in a radius surrounding the caster.  If the radius has been increased, it will start at the default size and expand to the full size over a few seconds.  The emanation will persist as long as the caster channels the effect."
+				"value": "散發形狀將法術成分投射到施法者周圍的半徑內。\n 如果半徑已增加，它將從默認大小開始，並在幾秒鐘內擴展到完整大小。 \n只要施法者引導效果，散發就會持續。"
 			}
 		],
 		"related_recipes": [
@@ -2851,7 +2851,7 @@
 			},
 			{
 				"type": "text",
-				"value": "The beam shape will project a magical ray out from the caster to a point ahead of them.  The width and height are centered on the beam, but the depth starts where the beam impacts.  The beam will persist as long as the caster channels it."
+				"value": "光束形狀會將魔法射線從施法者投射到他們前方的一點。 \n寬度和高度以光束為中心，但深度從光束撞擊處開始。 只要施法者引導它，光束就會持續存在。"
 			}
 		],
 		"related_recipes": [
@@ -2871,7 +2871,7 @@
 			},
 			{
 				"type": "text",
-				"value": "The sigil shape will create a sigil in the world at the targeted point.  The range attribute will change how far away you can place the sigil. The radius attribute will change the size of the sigil's effect when triggered.\n\nThe magnitude effect changes what will trigger the sigil.\nMagnitude 1: Anything\nMagnitude 2: Anything living\nMagnitude 3: Players only.\n\nDamage will always trigger the sigil."
+				"value": "印記形狀將在目標點的世界中創建一個印記。 \n範圍屬性會改變你可以放置印記的距離。 半徑屬性會在觸發時改變印記效果的大小。\n\n幅度效應會改變觸發印記的內容。\n1級：任何\n2級：任何有生命的東西\n3級：僅限玩家。\n\n傷害總是會觸發印記。"
 			}
 		],
 		"related_recipes": [
@@ -2891,7 +2891,7 @@
 			},
 			{
 				"type": "text",
-				"value": "The wave shape will summon a wave at the caster's feet that moves forward in the direction the caster was facing when the spell was cast.  The wave is not affected by gravity and can be launched at an angle if desired.  The wave will persist as long as the caster channels it."
+				"value": "波浪形狀會在施法者的腳下召喚一個波浪，向施法者施法時所面對的方向前進。 \n波浪不受重力影響，可以根據需要以一定角度發射。 只要施法者引導它，波浪就會持續存在。"
 			}
 		],
 		"related_recipes": [
@@ -2951,7 +2951,7 @@
 			},
 			{
 				"type": "text",
-				"value": "This shape is a relatively short range effect, however the close proximity to the me requires much less energy to cast.  As a result, it has a much higher capacity for radius.\n\nI should be careful putting too much radius into this.  The effects could potentially hit me as well."
+				"value": "這種形狀是一個相對短距離的效果，但是靠近我需要更少的能量來施放。 因此，它具有更高的半徑容量。\n\n我應該小心把太多的半徑放進去。 這些影響也可能會打擊我。"
 			}
 		],
 		"related_recipes": [
@@ -2971,7 +2971,7 @@
 			},
 			{
 				"type": "text",
-				"value": "This effect lights whatever it touches on fire.  The initial heat bloom is extremely potent and will scorch targets before igniting them."
+				"value": "這種效果會點亮它接觸到火的任何東西。 最初的熱華是非常有效的，會在點燃目標之前燒焦它們。"
 			}
 		],
 		"related_recipes": [
@@ -2991,7 +2991,7 @@
 			},
 			{
 				"type": "text",
-				"value": "This effect strikes the target with a burst of pure magic, and can burn some of their own magic away.  This component can only be crafted and cast by those aligned with the Council of Wizards."
+				"value": "這個效果會以純粹的魔法爆發打擊目標，並可以燃燒掉他們自己的一些魔法。 \n該組件只能由與巫師委員會結盟的人製作和施放。"
 			}
 		],
 		"related_recipes": [
@@ -3011,7 +3011,7 @@
 			},
 			{
 				"type": "text",
-				"value": "This simple spell is based on verisimilomancy, with a touch of invocation added.  It creates a walkable path wherever the spell targets."
+				"value": "這個簡單的咒語基於真實性，並添加了一點祈求。 \n它會在法術目標的任何地方創建一條可步行的路徑。"
 			}
 		],
 		"related_recipes": [
@@ -3031,7 +3031,7 @@
 			},
 			{
 				"type": "text",
-				"value": "This effect drastically lowers the temperature of whatever it targets.  The shock from the temperature change can cause significant damage."
+				"value": "這種效果大大降低了它所針對的任何物體的溫度。 溫度變化帶來的衝擊會造成重大損壞。"
 			}
 		],
 		"related_recipes": [
@@ -3051,7 +3051,7 @@
 			},
 			{
 				"type": "text",
-				"value": "I've figured out a way to channel pure fire into a blast so concentrated that it more resembles lightning than anything else.  This causes convulsions that seem to launch things back away from me with more force than other spells.  This could be useful."
+				"value": "我已經找到了一種方法，可以將純火引導到如此集中的爆炸中，以至於它比其他任何東西都更像閃電。 這會導致抽搐，似乎比其他法術更有力地將事物從我身邊推開。 這可能很有用。"
 			}
 		],
 		"related_recipes": [
@@ -3071,7 +3071,7 @@
 			},
 			{
 				"type": "text",
-				"value": "I've figured out how I can channel currents of air around myself to launch me higher into the air whenever I jump.  \n\nI'll need to be careful of what's below me when I land, and how far I fall."
+				"value": "我已經想出如何在我自己周圍引導氣流以在我跳躍時將我推向更高的空中。\n\n當我著陸時，我需要小心我下方的東西，以及我跳躍多遠。"
 			}
 		],
 		"related_recipes": [
@@ -3091,7 +3091,7 @@
 			},
 			{
 				"type": "text",
-				"value": "I've learned how to coalesce the air below me into a cushion that gently carries me towards the ground.  I'm one step closer to true flight!"
+				"value": "我已經學會瞭如何將我下方的空氣合併成一個墊子，輕輕地將我帶到地面。 我離真正的飛行又近了一步！"
 			}
 		],
 		"related_recipes": [
@@ -3111,7 +3111,7 @@
 			},
 			{
 				"type": "text",
-				"value": "I can focus my magic to break things.  Dirt, Stone, and more all shatters at my command.  I can feel the earth shake below my feet.\n\nIf I put more effort into the spell to increase its magnitude, I can increase what it can break.\n\nI've heard rumors that there are magic rings that can do this for me as well.  I should check back when I've gained some experience."
+				"value": "我可以集中我的魔法來破壞事物。 泥土、石頭等等都在我的命令下粉碎。 我能感覺到腳下的大地在顫抖。\n\n如果我在法術上付出更多努力來增加它的強度，我就能增加它可以破壞的東西。\n\n我聽說有傳言說有魔法戒指也可以為我做到這一點。 當我獲得一些經驗時，我應該回來查看。"
 			}
 		],
 		"related_recipes": [
@@ -4466,7 +4466,7 @@
 			},
 			{
 				"type": "text",
-				"value": "This ritual will use a player charm to open a portal at the center of the ritual.  Stepping through the portal will teleport you to the location the player was at when the ritual was completed."
+				"value": "該儀式將使用玩家符咒在儀式中心打開一個傳送門。 穿過傳送門會將您傳送到玩家完成儀式時所在的位置。"
 			}
 		],
 		"related_recipes": [
