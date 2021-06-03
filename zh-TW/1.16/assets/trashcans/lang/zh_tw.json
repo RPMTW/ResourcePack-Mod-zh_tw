@@ -12,15 +12,15 @@
     "trashcans.gui.energy_trash_can.limit.change1": "SHIFT %s",
     "trashcans.gui.energy_trash_can.limit.change2": "CTRL %s",
     "trashcans.gui.energy_trash_can.limit.change3": "CTRL+SHIFT %s",
-    "trashcans.gui.energy_trash_can.check.on": "Limited",
-    "trashcans.gui.energy_trash_can.check.off": "無限制版",
-    "trashcans.gui.energy_trash_can.value": "Max $number$ FE/t",
+    "trashcans.gui.energy_trash_can.check.on": "限制",
+    "trashcans.gui.energy_trash_can.check.off": "無限制",
+    "trashcans.gui.energy_trash_can.value": "最多 $number$ FE/t",
     "trashcans.gui.ultimate_trash_can.title": "超級垃圾桶",
     "trashcans.gui.ultimate_trash_can.item_filter": "物品過濾器",
-    "trashcans.gui.ultimate_trash_can.liquid_filter": "Liquid Filter",
-    "trashcans.gui.ultimate_trash_can.energy_limit": "Energy Transfer Limit",
+    "trashcans.gui.ultimate_trash_can.liquid_filter": "流體過濾器",
+    "trashcans.gui.ultimate_trash_can.energy_limit": "能量傳輸上限",
     "trashcans.gui.whitelist.on": "白名單",
     "trashcans.gui.whitelist.off": "黑名單",
-    "trashcans.gui.arrow.left": "Decrease energy limit",
-    "trashcans.gui.arrow.right": "Increase energy limit"
+    "trashcans.gui.arrow.left": "減少能量上限",
+    "trashcans.gui.arrow.right": "增加能量上限"
 }
