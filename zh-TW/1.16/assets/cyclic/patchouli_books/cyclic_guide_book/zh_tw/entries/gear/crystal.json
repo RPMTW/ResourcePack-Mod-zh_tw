@@ -8,27 +8,27 @@
       "text": "item.cyclic.crystal_gear.guide"
     },
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "cyclic:crystal_sword",
       "recipe2": "cyclic:crystal_pickaxe"
     },
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "cyclic:crystal_axe",
       "recipe2": "cyclic:crystal_shovel"
     },
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "cyclic:crystal_helmet",
       "recipe2": "guide.category.gear.desc"
     },
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "cyclic:crystal_leggings",
       "recipe2": "cyclic:crystal_boots"
     },
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "cyclic:crystal_hoe"
     }
   ]
