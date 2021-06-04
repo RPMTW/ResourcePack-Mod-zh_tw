@@ -1,14 +1,14 @@
 {
-  "name": "block.cyclic.fisher",
+  "name": "cyclic:fan",
   "icon": "cyclic:fisher",
   "category": "cyclic:machines",
   "pages": [
     {
       "type": "text",
-      "text": "block.cyclic.fisher.guide"
+      "text": "cyclic:machines"
     },
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "cyclic:fisher"
     }
   ]
