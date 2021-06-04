@@ -1,0 +1,17 @@
+{
+  "name": "item.cyclic.gem_amber",
+  "icon": "cyclic:gem_amber",
+  "category": "cyclic:misc",
+  "pages": [
+    {
+      "type": "text",
+      "text": "item.cyclic.gem.guide"
+    },
+    {
+      "type": "spotlight",
+      "item": "cyclic:gem_amber",
+      "text": "item.cyclic.gem_amber.guide",
+      "link_recipe": true
+    }
+  ]
+}
