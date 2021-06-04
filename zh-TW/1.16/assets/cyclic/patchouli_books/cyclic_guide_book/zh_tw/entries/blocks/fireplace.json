@@ -1,0 +1,15 @@
+{
+  "name": "block.cyclic.fireplace",
+  "icon": "cyclic:fireplace",
+  "category": "cyclic:blocks",
+  "pages": [
+    {
+      "type": "text",
+      "text": "block.cyclic.fireplace.guide"
+    },
+    {
+      "type": "合成",
+      "recipe": "cyclic:fireplace"
+    }
+  ]
+}
