@@ -8,17 +8,17 @@
       "text": "item.cyclic.sandstone_gear.guide"
     },
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "cyclic:sandstone_sword",
       "recipe2": "cyclic:sandstone_pickaxe"
     },
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "cyclic:sandstone_axe",
       "recipe2": "cyclic:sandstone_shovel"
     },
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "cyclic:sandstone_hoe"
     }
   ]
