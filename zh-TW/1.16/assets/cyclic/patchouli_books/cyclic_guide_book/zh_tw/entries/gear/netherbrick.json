@@ -1,0 +1,25 @@
+{
+  "name": "item.cyclic.netherbrick_gear.guide.title",
+  "icon": "cyclic:netherbrick_sword",
+  "category": "cyclic:gear",
+  "pages": [
+    {
+      "type": "text",
+      "text": "item.cyclic.netherbrick_gear.guide"
+    },
+    {
+      "type": "合成",
+      "recipe": "cyclic:netherbrick_sword",
+      "recipe2": "cyclic:netherbrick_pickaxe"
+    },
+    {
+      "type": "合成",
+      "recipe": "cyclic:netherbrick_axe",
+      "recipe2": "cyclic:netherbrick_shovel"
+    },
+    {
+      "type": "合成",
+      "recipe": "cyclic:netherbrick_hoe"
+    }
+  ]
+}
