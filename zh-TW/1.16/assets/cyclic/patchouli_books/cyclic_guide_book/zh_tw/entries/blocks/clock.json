@@ -1,6 +1,6 @@
 {
   "name": "block.cyclic.clock",
-  "icon": "cyclic:clock",
+  "icon": "block.cyclic.clock",
   "category": "cyclic:blocks",
   "pages": [
     {
@@ -8,8 +8,8 @@
       "text": "block.cyclic.clock.guide"
     },
     {
-      "type": "合成",
-      "recipe": "cyclic:clock"
+      "type": "crafting",
+      "recipe": "block.cyclic.clock.guide"
     }
   ]
 }
