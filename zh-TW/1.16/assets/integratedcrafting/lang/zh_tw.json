@@ -1,5 +1,5 @@
 {
-    "_comment": "------ On the Dynamics of Integration contents ------",
+    "_comment": "------ 在集成動力中的內容 ------",
     "itemGroup.integratedcrafting": "集成合成學",
     "general.integratedcrafting.description": "對集成動力學網路中的東西進行合成。",
     "gui.integratedcrafting.partsettings.channel.interface": "合成頻道",
@@ -93,5 +93,5 @@
     "info_book.integratedcrafting.tutorials.autocrafting_trigger.text3": "在我們告訴&l合成請求器&r製作橡木材之前，我們首先需要在網路中插入一些橡木原木。為了做到這一點，請使用一個&l物品介面&r將一些容器(比如一個箱子)連接到網路上，並確保箱子中至少有一個橡木原木。",
     "info_book.integratedcrafting.tutorials.autocrafting_trigger.text4": "現在，我們告訴&l合成請求器&r開始製作橡木材。使用你的&l編程器&r創建一個包含橡木材的&l變數卡&r，並將其插入到&l合成請求器&r中。",
     "info_book.integratedcrafting.tutorials.autocrafting_trigger.text5": "如果你正確地設定了所有內容，你將能夠看到一個橡木原木已經轉換為4個橡木材。一旦你拿走這些木材，如果有其他的原木可用，將會製作4塊新的木材。你可以使用&l合成請求器&r的設置來忽略儲存內容，並盡可能多地製作木材。",
-    "info_book.integratedcrafting.tutorials.autocrafting_trigger.text6": "The figure at the end of this section shows an example the required parts of a setup for completing this tutorial."
+    "info_book.integratedcrafting.tutorials.autocrafting_trigger.text6": "本節末尾的圖顯示完成本指導教學之設定所需部分的範例。"
 }
