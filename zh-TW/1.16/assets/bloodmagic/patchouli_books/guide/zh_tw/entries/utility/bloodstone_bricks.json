@@ -1,0 +1,16 @@
+{
+  "name": "血石磚",
+  "icon": "bloodmagic:largebloodstonebrick",
+  "category": "bloodmagic:utility",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Bloodstone Bricks are a decorational block, and used as the capstones for the Tier-4 Blood Altar."
+    },
+    {
+      "type": "合成",
+      "recipe": "bloodmagic:largebloodstonebrick",
+      "recipe2": "bloodmagic:bloodstonebrick"
+    }
+  ]
+}
