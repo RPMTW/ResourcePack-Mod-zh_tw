@@ -1,0 +1,15 @@
+{
+  "name": "block.cyclic.soundproofing",
+  "icon": "cyclic:soundproofing",
+  "category": "cyclic:blocks",
+  "pages": [
+    {
+      "type": "text",
+      "text": "block.cyclic.soundproofing.guide"
+    },
+    {
+      "type": "合成",
+      "recipe": "cyclic:soundproofing"
+    }
+  ]
+}
