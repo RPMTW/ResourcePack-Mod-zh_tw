@@ -8,17 +8,17 @@
       "text": "block.cyclic.mason_stone.guide"
     },
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "cyclic:mason_cobble",
       "recipe2": "cyclic:mason_stone"
     },
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "cyclic:mason_iron",
       "recipe2": "cyclic:mason_steel"
     },
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "cyclic:mason_plate"
     }
   ]
