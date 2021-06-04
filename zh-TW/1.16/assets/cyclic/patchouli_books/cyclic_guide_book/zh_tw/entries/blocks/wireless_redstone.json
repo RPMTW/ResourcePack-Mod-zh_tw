@@ -1,0 +1,16 @@
+{
+  "name": "block.cyclic.wireless_redstone.guide.title",
+  "icon": "cyclic:wireless_transmitter",
+  "category": "cyclic:blocks",
+  "pages": [
+    {
+      "type": "text",
+      "text": "block.cyclic.wireless_redstone.guide"
+    },
+    {
+      "type": "合成",
+      "recipe": "cyclic:wireless_transmitter",
+      "recipe2": "cyclic:wireless_receiver"
+    }
+  ]
+}
