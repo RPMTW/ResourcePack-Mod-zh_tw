@@ -1,5 +1,5 @@
 {
-  "name": "block.cyclic.anvil_magma",
+  "name": "cyclic:anvil",
   "icon": "cyclic:anvil_magma",
   "category": "cyclic:machines",
   "pages": [
@@ -8,7 +8,7 @@
       "text": "block.cyclic.anvil_magma.guide"
     },
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "cyclic:anvil_magma"
     }
   ]
