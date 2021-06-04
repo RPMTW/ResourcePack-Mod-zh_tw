@@ -1,0 +1,15 @@
+{
+  "name": "item.cyclic.diamond_carrot_health",
+  "icon": "cyclic:diamond_carrot_health",
+  "category": "cyclic:consume",
+  "pages": [
+    {
+      "type": "text",
+      "text": "item.cyclic.diamond_carrot_health.guide"
+    },
+    {
+      "type": "合成",
+      "recipe": "cyclic:diamond_carrot_health"
+    }
+  ]
+}
