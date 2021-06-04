@@ -1,0 +1,26 @@
+{
+  "name": "item.cyclic.boomerang.guide.title",
+  "icon": "cyclic:boomerang_carry",
+  "category": "cyclic:items",
+  "pages": [
+    {
+      "type": "text",
+      "text": "item.cyclic.boomerang.guide"
+    },
+    {
+      "type": "合成",
+      "recipe": "cyclic:boomerang_carry",
+      "text": "item.cyclic.boomerang_carry.guide"
+    },
+    {
+      "type": "合成",
+      "recipe": "cyclic:boomerang_stun",
+      "text": "item.cyclic.boomerang_stun.guide"
+    },
+    {
+      "type": "合成",
+      "recipe": "cyclic:boomerang_damage",
+      "text": "item.cyclic.boomerang_damage.guide"
+    }
+  ]
+}
