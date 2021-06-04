@@ -5,10 +5,10 @@
   "pages": [
     {
       "type": "text",
-      "text": "item.cyclic.mattock.guide"
+      "text": "cyclic:mattock"
     },
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "cyclic:mattock"
     }
   ]
