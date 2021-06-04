@@ -5,11 +5,11 @@
   "pages": [
     {
       "type": "text",
-      "text": "item.cyclic.wrench.guide"
+      "text": "cyclic:wrench"
     },
     {
-      "type": "合成",
-      "recipe": "cyclic:wrench"
+      "type": "crafting",
+      "recipe": "item.cyclic.wrench.guide"
     }
   ]
 }
