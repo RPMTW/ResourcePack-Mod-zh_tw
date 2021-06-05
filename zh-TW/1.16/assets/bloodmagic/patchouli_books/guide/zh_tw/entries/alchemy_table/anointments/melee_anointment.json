@@ -1,5 +1,5 @@
 {
-  "name": "Honing Oil",
+  "name": "磨刀油",
   "icon": "bloodmagic:melee_anointment",
   "category": "bloodmagic:alchemy_table/anointments",
   "extra_recipe_mappings": [
@@ -11,7 +11,7 @@
   "pages": [
     {
       "type": "crafting_alchemy_table",
-      "heading": "Honing Oil",
+      "heading": "磨刀油",
       "recipe": "bloodmagic:alchemytable/melee_damage_anointment",
       "text": "Temporarily increases the melee damage dealt by +3. $(br2)Valid items: Tools, Swords.$(br2)Applies: Whetstone I (256 hits)"
     }
