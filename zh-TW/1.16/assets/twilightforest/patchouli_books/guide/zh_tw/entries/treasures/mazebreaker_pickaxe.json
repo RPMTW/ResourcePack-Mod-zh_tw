@@ -1,0 +1,15 @@
+{
+  "name": "迷宮破壞鎬",
+  "icon": "twilightforest:mazebreaker_pickaxe",
+  "category": "treasures",
+  "advancement": "twilightforest:alt/treasures/mazebreaker_pickaxe",
+  "sortnum": 5030,
+  "pages": [
+    {
+      "type": "spotlight",
+      "title": "迷宮破壞鎬",
+      "item": "twilightforest:mazebreaker_pickaxe{Enchantments:[{id:efficiency,lvl:4},{id:fortune,lvl:2},{id:unbreaking,lvl:3}]}",
+      "text": "things and stuff"
+    }
+  ]
+}
