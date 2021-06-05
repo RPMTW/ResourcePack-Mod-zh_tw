@@ -1,0 +1,17 @@
+{
+  "name": "洗滌廠",
+  "icon": "industrialforegoing:washing_factory",
+  "category": "resource_production",
+  "sortnum": 19,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Using liquid meat and an ore this machine will turn that meat into raw ore meat of that ore."
+    },
+    {
+      "type": "合成",
+      "recipe": "industrialforegoing:washing_factory"
+    }
+  ]
+}
