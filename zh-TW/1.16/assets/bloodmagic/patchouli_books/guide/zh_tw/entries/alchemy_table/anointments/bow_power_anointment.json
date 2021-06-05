@@ -1,5 +1,5 @@
 {
-  "name": "Iron Tip",
+  "name": "鐵尖",
   "icon": "bloodmagic:bow_power_anointment",
   "category": "bloodmagic:alchemy_table/anointments",
   "extra_recipe_mappings": [
@@ -11,7 +11,7 @@
   "pages": [
     {
       "type": "crafting_alchemy_table",
-      "heading": "Iron Tip",
+      "heading": "鐵尖",
       "recipe": "bloodmagic:alchemytable/bow_power_anointment",
       "text": "Increases the damage of fired arrows by 25%. Also stacks with Vanilla enchantments. $(br2)Valid items: Bows, Crossbows.$(br2)Applies: Heavy Shot I (256 shots)"
     }
