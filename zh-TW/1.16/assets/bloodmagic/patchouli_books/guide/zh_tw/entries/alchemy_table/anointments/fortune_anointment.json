@@ -1,5 +1,5 @@
 {
-  "name": "Fortuna Extract",
+  "name": "福耳圖那精華",
   "icon": "bloodmagic:fortune_anointment",
   "category": "bloodmagic:alchemy_table/anointments",
   "extra_recipe_mappings": [
@@ -11,7 +11,7 @@
   "pages": [
     {
       "type": "crafting_alchemy_table",
-      "heading": "Fortuna Extract",
+      "heading": "福耳圖那精華",
       "recipe": "bloodmagic:alchemytable/fortune_anointment",
       "text": "Increases the yield of some harvested blocks. Also stacks with the Fortune enchantment. $(br2)Valid items: Tools, Swords, Charges. $(br2)Applies: Fortunate I (256 blocks)"
     }
