@@ -5,10 +5,10 @@
     "carryon.category.custompickupconditions": "Custom Pickup Conditions (Advanced)",
     "carryon.category.whitelist": "白名單",
     "carryon.general.modeloverrides.modeloverrides": "Model Overrides",
-    "carryon.general.blacklist.forbiddenentities": "Entities that the Player cannot pick up",
-    "carryon.general.blacklist.forbiddentiles": "Blocks that the Player cannot pick up",
-    "carryon.category.custompickupconditions.custompickupconditionsblocks": "Custom Block Pickup Conditions",
-    "carryon.category.custompickupconditions.custompickupconditionsentities": "Custom Entity Pickup Conditions",
-    "key.carry.desc": "Carry",
-    "key.carry.category": "Carry On"
+    "carryon.general.blacklist.forbiddenentities": "玩家不能搬運的實體",
+    "carryon.general.blacklist.forbiddentiles": "玩家不能搬運的方塊",
+    "carryon.category.custompickupconditions.custompickupconditionsblocks": "自定義塊搬運條件",
+    "carryon.category.custompickupconditions.custompickupconditionsentities": "自定義實體搬運條件",
+    "key.carry.desc": "搬運",
+    "key.carry.category": "搬運"
 }
