@@ -1,11 +1,11 @@
 {
-    "tooltip.colytra.broken": "Unusable",
-    "gui.colytra.config.permissionMode": "Permission Mode",
-    "gui.colytra.config.permissionMode.tooltip": "Sets whether the permission list is a blacklist or whitelist",
-    "gui.colytra.config.permissionList": "Permission List",
-    "gui.colytra.config.permissionList.tooltip": "List of items by registry name to be blacklisted/whitelisted based on Permission Mode",
-    "gui.colytra.config.colytraMode": "Colytra Mode",
-    "gui.colytra.config.colytraMode.tooltip": "Sets how the elytra chestplates will behave\nNORMAL: Elytras will exist separately from the chestplate, able to be separated later\nUNISON: Elytras will fuse completely with the chestplate, unable to be separated\nPERFECT: Elytras will fuse completely with the chestplate and flying will not use durability",
+    "tooltip.colytra.broken": "已損壞",
+    "gui.colytra.config.permissionMode": "許可模式",
+    "gui.colytra.config.permissionMode.tooltip": "設置物品列表是使用黑名單還是白名單",
+    "gui.colytra.config.permissionList": "許可列表",
+    "gui.colytra.config.permissionList.tooltip": "按註冊名稱列出物品列表，根據許可模式列入黑名單/白名單",
+    "gui.colytra.config.colytraMode": "鞘翅胸甲模式",
+    "gui.colytra.config.colytraMode.tooltip": "設定鞘翅胸甲可如何使用\nNORMAL: 鞘翅與胸甲分開存在，可以以後分開\nUNISON: 鞘翅與胸甲完全融合，無法再分開\nPERFECT: 鞘翅與胸甲完全融合，但飛行不會消耗耐久度",
     "gui.colytra.config.energyUsage": "耗能",
     "gui.colytra.config.energyUsage.tooltip": "How much energy per second elytra flight uses if Unison mode is active and the chestplate uses energy"
 }
