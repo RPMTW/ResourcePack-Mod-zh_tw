@@ -1,0 +1,12 @@
+{
+  "name": "Router",
+  "icon": "xnet:router",
+  "category": "xnet:category_xnet_network",
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "The router allows connection of multiple networks. This needs routing cables"
+    }
+  ]
+}
