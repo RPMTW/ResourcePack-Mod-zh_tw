@@ -27,7 +27,7 @@
     },
     {
       "type": "crafting_soulforge",
-      "heading": "感魂之鎬",
+      "heading": "感知之鎬",
       "recipe": "bloodmagic:soulforge/sentientpickaxe",
       "text": "This pickaxe improves with Will, cutting through stone with ease. With no Will to power it, it is only slightly better than the $(item)Iron Pickaxe$() it was crafted from; However, with a full enough $(l:bloodmagic:demon_will/soul_gem)Tartaric Gem$(), you forsee it surpassing even a $(item)Netherite Pickaxe$()."
     },
@@ -37,7 +37,7 @@
     },
     {
       "type": "crafting_soulforge",
-      "heading": "感魂之鐮",
+      "heading": "感知之鐮",
       "recipe": "bloodmagic:soulforge/sentientscythe",
       "text": "As with the pickaxe, with no Will to power your scythe, it is comparatively blunt and unwieldy; However, with a full enough $(l:bloodmagic:demon_will/soul_gem)Tartaric Gem$(), you forsee it becoming a devestating tool. $(br)Did we mention that it still functions as a hoe?"
     },
@@ -47,7 +47,7 @@
     },
     {
       "type": "crafting_soulforge",
-      "heading": "Sentient Axe",
+      "heading": "感知之斧",
       "recipe": "bloodmagic:soulforge/sentientaxe",
       "text": "As with the pickaxe, with no Will to power your axe, it is only slightly better than the $(item)Iron Axe$() it was crafted from; However, with a full enough $(l:bloodmagic:demon_will/soul_gem)Tartaric Gem$(), you forsee it surpassing even a $(item)Netherite Axe$()."
     },
@@ -57,7 +57,7 @@
     },
     {
       "type": "crafting_soulforge",
-      "heading": "感魂之鏟",
+      "heading": "感知之鏟",
       "recipe": "bloodmagic:soulforge/sentientshovel",
       "text": "As with the pickaxe, with no Will to power your shovel, it is only slightly better than the $(item)Iron shovel$() it was crafted from; However, with a full enough $(l:bloodmagic:demon_will/soul_gem)Tartaric Gem$(), you forsee it surpassing even a $(item)Netherite Shovel$()."
     }
