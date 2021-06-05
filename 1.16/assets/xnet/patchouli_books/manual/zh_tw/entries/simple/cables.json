@@ -1,0 +1,12 @@
+{
+  "name": "Cables",
+  "icon": "xnet:netcable_red",
+  "category": "xnet:category_xnet_simple",
+  "sortnum": 20,
+  "pages": [
+    {
+      "type": "text",
+      "text": "There are four colored cables that don't interphere with each other"
+    }
+  ]
+}
