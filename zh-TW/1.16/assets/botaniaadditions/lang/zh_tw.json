@@ -6,15 +6,15 @@
     "item.botaniaadditions.terra_bow": "泰拉弓",
     "botaniaadditions.entry.terraShovel": "泰拉收割者",
     "botaniaadditions.tagline.terraShovel": "泰拉粉碎者可當作鏟子，但功能較弱。",
-    "botaniaadditions.page.terraShovel0": "The $(item)Terra Harvester$(0) is a shovel made from $(l:basics/terrasteel)$(item)Terrasteel$(0)$(/l) that can break an area of 5x5 blocks at the cost of $(thing)Mana$(0).$(p)It can also create paths or farmland in that same area and it can fertilize crops for $(thing)Mana$(0).$(p)The area of effect of this item can be increased by a $(l:alfhomancy/thor_ring)$(item)Ring of Thor$(0)$(/l), it can also be decreased by a $(l:tools/temperance_stone)$(item)Stone of Temperance$(0)$(/l) and is disabled while sneaking.",
-    "botaniaadditions.page.terraShovel1": "Harvest the World",
+    "botaniaadditions.page.terraShovel0": "$(item)泰拉收割者$(0)是由$(l:basics/terrasteel)$(item)泰拉鋼$(0)$(/l)製成的鏟子，可以消耗$(thing)魔力$(0)進行5x5的區域破壞。$(p)它還可以在同樣的區域建立草徑或耕地，並使用$(thing)魔力$(0)來施肥。$(p)該物品的效果區域可以通過$(l:alfhomancy/thor_ring)$(item)托爾之戒$(0)增加$(/l)，也可以通過$(l:tools/temperance_stone)$(item)節制之石$(0)減少$(/l)，並且在潛行時禁用。",
+    "botaniaadditions.page.terraShovel1": "收穫世界",
     "botaniaadditions.entry.regenIvy": "永恆常春藤",
     "botaniaadditions.tagline.regenIvy": "常春藤可以附在物品上，讓工具耐久度再生",
     "botaniaadditions.page.regenIvy0": "While $(l:mana/pool)$(item)Manasteel$(0)$(/l), $(l:alfhomancy/elf_resources)$(item)Elementium$(0)$(/l) and $(l:basics/terrasteel)$(item)Terrasteel$(0)$(/l) tools have the ability to harness $(thing)Mana$(0) and use it to protect their bodies, other tools or armor don't have this property.$(p)A handful of $(item)Timeless Ivy$(0) can be attached on to virtually any item, allowing it to be repaired with $(thing)Mana$(0).",
     "botaniaadditions.page.regenIvy1": "To apply it, one'd simply craft the tool in question alongside the ivy and 3 of an item that can be used to repair the tool in an anvil (eg. $(item)Diamonds$(0) for a $(item)Diamond Pickaxe$(0)).<br>Due to not being in direct contact with the material, the amount of $(thing)Mana$(0) used by the ivy in comparison to $(l:mana/pool)$(item)Manasteel$(0)$(/l) is rather high.",
     "botaniaadditions.page.regenIvy2": "Bring your Inferno Adze",
     "botaniaadditions.entry.terraBow": "泰拉弓",
-    "botaniaadditions.tagline.terraBow": "A great bow made from Terrasteel and Livingwood",
+    "botaniaadditions.tagline.terraBow": "由泰拉鋼和活木製成的大弓",
     "botaniaadditions.page.terraBow0": "The $(item)Terra Bow$(0) is a great Bow made from $(l:basics/terrasteel)$(item)Terrasteel$(0)$(/l) and $(l:basics/pure_daisy)$(item)Living Wood$(0)$(/l) that can shoot an array of 3x3 of your $(item)Arrows$(0) at once without removing any from your inventory, at the cost of some mana.",
     "botaniaadditions.page.terraBow1": "Mulitshot but good"
 }
