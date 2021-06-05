@@ -1,0 +1,23 @@
+{
+    "name": "通貨能源爐",
+    "icon": "thermal:dynamo_numismatic",
+    "category": "thermal:dynamos",
+    "read_by_default": true,
+    "flag": "mod:thermal_expansion",
+    "pages": [
+        {
+            "type": "text",
+            "text": "The Numismatic Dynamo uses $(l:thermal:technology/machines/press)coins$(/l) to produce RF."
+        },
+        {
+            "type": "合成",
+            "recipe": "thermal:dynamo_numismatic",
+            "title": "通貨能源爐"
+        },
+        {
+            "type": "text",
+            "title": "Augment Compatibility",
+            "text": "$(li)$(l:thermal:technology/augments/integral_components)Integral Components$(/l)$(li)$(l:thermal:technology/augments/dynamo_output)Auxiliary Reaction Chamber$(/l)$(li)$(l:thermal:technology/augments/dynamo_fuel)Multi-cycle Injectors$(/l)"
+        }
+    ]
+}
