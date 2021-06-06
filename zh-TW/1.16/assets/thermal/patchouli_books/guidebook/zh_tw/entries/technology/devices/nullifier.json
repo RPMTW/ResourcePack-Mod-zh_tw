@@ -1,5 +1,5 @@
 {
-    "name": "Nullifier",
+    "name": "銷毀器",
     "icon": "thermal:device_nullifier",
     "category": "thermal:devices",
     "read_by_default": true,
@@ -12,7 +12,7 @@
         {
             "type": "合成",
             "recipe": "thermal:device_nullifier",
-            "title": "Nullifier",
+            "title": "銷毀器",
             "text": "Redstone control only affects the automatic insertion of items/fluids. Manual deletion through the GUI can always be performed, regardless of redstone control setting."
         },
         {
