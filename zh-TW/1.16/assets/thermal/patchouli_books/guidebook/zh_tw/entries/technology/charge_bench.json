@@ -1,5 +1,5 @@
 {
-    "name": "Energetic Infuser",
+    "name": "能量灌注機",
     "icon": "thermal:charge_bench",
     "category": "thermal:technology",
     "read_by_default": true,
@@ -12,7 +12,7 @@
         {
             "type": "合成",
             "recipe": "thermal:charge_bench",
-            "title": "Energetic Infuser",
+            "title": "能量灌注機",
             "text": "$(o)Ancient texts record the existence of a machine by the same name that was once able to infuse Redstone Flux directly into items, not just tools. This, however, seems to defy all logic.$()"
         },
         {
