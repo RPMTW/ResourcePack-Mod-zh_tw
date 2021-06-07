@@ -1,7 +1,7 @@
 物品裝配機
 一起來，就現在
-<&recipe>The Item Batcher is designed to collect a set of items from an inputting conveyor before sending them onwards, in order to transfer optimized batch sizes to machinery.<np>
-Place the block and open its interface to set a variety of filters. Any incoming items will be accepted into the slots directly below the filters, and the collected batch will only be output when all filters are satisfied.
-This behavior can be adjusted with the button labeled "Output Mode". The default behavior noted above is known as §2batched mode§r. In §2single mode§r, any item that satisfies its filtered quantity will be output instead.<np>
-Using the 9 buttons below the buffer, you can toggle through the colours of <link;redstone_wire;redstone wires>. By attaching a <link;redstone_wire;Redstone Interface Connector;bundled>, the Item Batcher will send signals along the redstone wires when a filter is satisfied.
-This allows you to disable any extracting conveyors or producing machinery when your required amount of items is reached. Note that if multiple filters use the same colour, they all need to be satisfied for a signal to be sent.
+<&recipe>物料裝配機可以在輸出之前將傳送帶的物品聚集起來，以便將最佳化的批次物品轉移到機器中。<np>
+放置塊並打開它的介面以設定各種過濾器。 任何傳入的物品都將被直接接收到過濾器下面的槽中，並且只在滿足所有過濾器時輸出收集的物品。
+此行為可以透過「輸出模式」按鈕進行調整。 上面提到的預設行為稱為§2收集模式§r。 在§2單個模式§r中，任何滿足其過濾數量的產品將被輸出。<np>
+使用緩衝器下方的9個按鈕，你可以在<link;redstone_wire;紅石線路>的顏色間切換。 附加一個<link;redstone_wire;紅石介面連接器;bundled>，當滿足過濾器時，物料裝配機將沿著紅石線發送信號。
+這使你可以在需要的數量滿足時，停用部分的傳送帶和機器。 注意如果多個過濾器使用同樣的顏色，想要輸出信號都要滿足。
