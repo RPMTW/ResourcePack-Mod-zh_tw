@@ -1,5 +1,5 @@
-物品分批機
-Come together, right now
+物品裝配機
+一起來，就現在
 <&recipe>The Item Batcher is designed to collect a set of items from an inputting conveyor before sending them onwards, in order to transfer optimized batch sizes to machinery.<np>
 Place the block and open its interface to set a variety of filters. Any incoming items will be accepted into the slots directly below the filters, and the collected batch will only be output when all filters are satisfied.
 This behavior can be adjusted with the button labeled "Output Mode". The default behavior noted above is known as §2batched mode§r. In §2single mode§r, any item that satisfies its filtered quantity will be output instead.<np>
