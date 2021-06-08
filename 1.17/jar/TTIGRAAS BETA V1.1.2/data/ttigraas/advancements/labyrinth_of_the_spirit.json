@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "ttigraas:labyrinth_pillar"
+    },
+    "title": {
+      "translate": "advancements.labyrinth_of_the_spirit.title"
+    },
+    "description": {
+      "translate": "advancements.labyrinth_of_the_spirit.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "labyrinth_of_the_spirit": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 5
+  },
+  "parent": "ttigraas:reincarnated"
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "ttigraas:custom/potofflytrap",
+  "textures": {
+    "all": "ttigraas:blocks/hipokte_flytrap_pot",
+    "particle": "ttigraas:blocks/hipokte_flytrap_pot",
+    "3": "ttigraas:blocks/flytrap",
+    "flowerpot": "ttigraas:blocks/flower_pot",
+    "dirt": "ttigraas:blocks/dirt"
+  }
+}

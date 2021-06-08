@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "ttigraas:shadow_striker"
+    },
+    "title": {
+      "translate": "advancements.shadow_striker_ad.title"
+    },
+    "description": {
+      "translate": "advancements.shadow_striker_ad.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "shadow_striker_ad": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 5
+  },
+  "parent": "ttigraas:martial_master_ad"
+}

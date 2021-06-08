@@ -1,0 +1,42 @@
+{
+  "group": "ttigraas",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "ttigraas:orichalcumingot"
+    },
+    "1": {
+      "item": "ttigraas:orichalcumingot"
+    },
+    "2": {
+      "item": "ttigraas:orichalcumingot"
+    },
+    "3": {
+      "item": "ttigraas:orichalcumingot"
+    },
+    "4": {
+      "item": "ttigraas:orichalcumingot"
+    },
+    "5": {
+      "item": "ttigraas:orichalcumingot"
+    },
+    "6": {
+      "item": "ttigraas:orichalcumingot"
+    },
+    "7": {
+      "item": "ttigraas:orichalcumingot"
+    },
+    "8": {
+      "item": "ttigraas:orichalcumingot"
+    }
+  },
+  "result": {
+    "item": "ttigraas:orichalcumblock",
+    "count": 1
+  }
+}

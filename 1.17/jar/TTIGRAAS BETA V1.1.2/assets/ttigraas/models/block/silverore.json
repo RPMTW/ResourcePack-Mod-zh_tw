@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ttigraas:blocks/silver_ore",
+    "up": "ttigraas:blocks/silver_ore",
+    "north": "ttigraas:blocks/silver_ore",
+    "east": "ttigraas:blocks/silver_ore",
+    "south": "ttigraas:blocks/silver_ore",
+    "west": "ttigraas:blocks/silver_ore",
+    "particle": "ttigraas:blocks/silver_ore"
+  }
+}

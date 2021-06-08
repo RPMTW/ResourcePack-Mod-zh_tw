@@ -1,0 +1,8 @@
+{
+  "parent": "ttigraas:custom/mace",
+  "textures": {
+    "0": "ttigraas:blocks/black",
+    "1": "ttigraas:blocks/wool",
+    "particle": "ttigraas:items/silver"
+  }
+}

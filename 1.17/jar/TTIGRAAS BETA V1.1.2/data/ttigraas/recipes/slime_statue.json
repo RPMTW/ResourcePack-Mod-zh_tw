@@ -1,0 +1,36 @@
+{
+  "group": "ttigraas",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    "678"
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:stone"
+    },
+    "3": {
+      "item": "minecraft:stone"
+    },
+    "4": {
+      "item": "minecraft:slime_ball"
+    },
+    "5": {
+      "item": "minecraft:stone"
+    },
+    "6": {
+      "item": "minecraft:stone"
+    },
+    "7": {
+      "item": "minecraft:stone"
+    },
+    "8": {
+      "item": "minecraft:stone"
+    }
+  },
+  "result": {
+    "item": "ttigraas:slime_statue",
+    "count": 1
+  }
+}

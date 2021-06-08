@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "ttigraas:ruler"
+    },
+    "title": {
+      "translate": "advancements.ruler_ad.title"
+    },
+    "description": {
+      "translate": "advancements.ruler_ad.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "ruler_ad": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 5
+  },
+  "parent": "ttigraas:puppeteer_ad"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "ttigraas:demonshovel"
+  },
+  "addition": {
+    "item": "ttigraas:mithril"
+  },
+  "result": {
+    "item": "ttigraas:mithrilshovel"
+  }
+}

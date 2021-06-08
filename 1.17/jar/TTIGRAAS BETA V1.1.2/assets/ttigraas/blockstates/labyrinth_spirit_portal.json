@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "ttigraas:block/labyrinth_spirit_portal"
+    },
+    "type=top": {
+      "model": "ttigraas:block/labyrinth_spirit_portal_top"
+    },
+    "type=double": {
+      "model": "ttigraas:block/labyrinth_spirit_portal_full"
+    }
+  }
+}

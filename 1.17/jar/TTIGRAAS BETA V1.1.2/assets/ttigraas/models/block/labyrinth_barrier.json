@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ttigraas:blocks/blocktop",
+    "up": "ttigraas:blocks/blocktop",
+    "north": "ttigraas:blocks/blocktop",
+    "east": "ttigraas:blocks/blocktop",
+    "south": "ttigraas:blocks/blocktop",
+    "west": "ttigraas:blocks/blocktop",
+    "particle": "ttigraas:blocks/blocktop"
+  }
+}

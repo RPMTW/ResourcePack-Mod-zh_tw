@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "ttigraas:thechosenone"
+    },
+    "title": {
+      "translate": "advancements.the_potential_hero.title"
+    },
+    "description": {
+      "translate": "advancements.the_potential_hero.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "the_potential_hero": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 5
+  },
+  "parent": "ttigraas:spirit_master"
+}

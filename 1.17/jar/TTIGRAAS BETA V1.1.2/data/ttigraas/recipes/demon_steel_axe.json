@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "ttigraas:magicaxe"
+  },
+  "addition": {
+    "item": "ttigraas:demonsteel"
+  },
+  "result": {
+    "item": "ttigraas:demonaxe"
+  }
+}

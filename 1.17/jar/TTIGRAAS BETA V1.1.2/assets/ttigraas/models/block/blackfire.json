@@ -1,0 +1,8 @@
+{
+  "parent": "ttigraas:custom/blackfire",
+  "textures": {
+    "all": "ttigraas:blocks/blackflame",
+    "particle": "ttigraas:blocks/blackflame",
+    "1": "ttigraas:blocks/blackflame"
+  }
+}

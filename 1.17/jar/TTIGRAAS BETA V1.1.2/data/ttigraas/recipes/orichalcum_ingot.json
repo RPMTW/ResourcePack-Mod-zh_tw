@@ -1,0 +1,13 @@
+{
+  "group": "ttigraas",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "ttigraas:orichalcumblock"
+    }
+  ],
+  "result": {
+    "item": "ttigraas:orichalcumingot",
+    "count": 9
+  }
+}

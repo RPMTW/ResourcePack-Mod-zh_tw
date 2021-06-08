@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ttigraas:blocks/crackedlabyrinthbrickblock",
+    "up": "ttigraas:blocks/crackedlabyrinthbrickblock",
+    "north": "ttigraas:blocks/crackedlabyrinthbrickblock",
+    "east": "ttigraas:blocks/crackedlabyrinthbrickblock",
+    "south": "ttigraas:blocks/crackedlabyrinthbrickblock",
+    "west": "ttigraas:blocks/crackedlabyrinthbrickblock",
+    "particle": "ttigraas:blocks/crackedlabyrinthbrickblock"
+  }
+}

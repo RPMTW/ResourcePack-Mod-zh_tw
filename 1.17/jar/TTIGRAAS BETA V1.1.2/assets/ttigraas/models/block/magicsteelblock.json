@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ttigraas:blocks/blockmagicsteel",
+    "up": "ttigraas:blocks/blockmagicsteel",
+    "north": "ttigraas:blocks/blockmagicsteel",
+    "east": "ttigraas:blocks/blockmagicsteel",
+    "south": "ttigraas:blocks/blockmagicsteel",
+    "west": "ttigraas:blocks/blockmagicsteel",
+    "particle": "ttigraas:blocks/blockmagicsteel"
+  }
+}

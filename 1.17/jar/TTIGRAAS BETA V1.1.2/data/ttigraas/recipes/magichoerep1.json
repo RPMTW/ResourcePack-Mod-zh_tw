@@ -1,0 +1,27 @@
+{
+  "group": "ttigraas",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    " 3",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "ttigraas:magicsteelingot"
+    },
+    "1": {
+      "item": "ttigraas:magicsteelingot"
+    },
+    "3": {
+      "item": "ttigraas:magicrod"
+    },
+    "5": {
+      "item": "ttigraas:magicrod"
+    }
+  },
+  "result": {
+    "item": "ttigraas:magichoe",
+    "count": 1
+  }
+}

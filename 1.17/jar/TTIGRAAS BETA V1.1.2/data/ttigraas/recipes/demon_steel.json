@@ -1,0 +1,13 @@
+{
+  "group": "ttigraas",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "ttigraas:demonblock"
+    }
+  ],
+  "result": {
+    "item": "ttigraas:demonsteel",
+    "count": 9
+  }
+}

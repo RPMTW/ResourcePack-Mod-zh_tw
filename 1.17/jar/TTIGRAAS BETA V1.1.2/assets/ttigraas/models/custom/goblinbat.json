@@ -1,0 +1,912 @@
+{
+  "credit": "Made with Blockbench",
+  "texture_size": [
+    400,
+    400
+  ],
+  "elements": [
+    {
+      "name": "Bat",
+      "from": [
+        6.75,
+        13,
+        6.25
+      ],
+      "to": [
+        9.25,
+        19,
+        9.75
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            0.001,
+            2.501,
+            2.499,
+            13.499
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            5.499,
+            2.501,
+            2.001,
+            13.499
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            5.001,
+            2.501,
+            7.499,
+            13.499
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            2.001,
+            2.501,
+            5.499,
+            13.499
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            2.001,
+            2.501,
+            5.499,
+            2.999
+          ],
+          "rotation": 90,
+          "texture": "#texture"
+        },
+        "down": {
+          "uv": [
+            2.001,
+            15.501,
+            5.499,
+            15.999
+          ],
+          "rotation": 270,
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "name": "Bat",
+      "from": [
+        6.25,
+        13,
+        6.75
+      ],
+      "to": [
+        9.75,
+        19,
+        9.25
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            0.001,
+            2.501,
+            2.499,
+            15.999
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            4.999,
+            2.501,
+            2.501,
+            15.999
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            5.001,
+            2.501,
+            7.499,
+            15.999
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            2.501,
+            2.501,
+            4.999,
+            15.999
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            2.501,
+            2.501,
+            4.999,
+            2.999
+          ],
+          "rotation": 90,
+          "texture": "#texture"
+        },
+        "down": {
+          "uv": [
+            2.501,
+            15.501,
+            4.999,
+            15.999
+          ],
+          "rotation": 270,
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "name": "Bat",
+      "from": [
+        6.75,
+        19,
+        6.75
+      ],
+      "to": [
+        9.25,
+        19.5,
+        9.25
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          3,
+          8
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            2.501,
+            0.001,
+            2.999,
+            2.499
+          ],
+          "rotation": 90,
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            4.999,
+            0.001,
+            2.501,
+            0.499
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            4.501,
+            0.001,
+            4.999,
+            2.499
+          ],
+          "rotation": 270,
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            2.61772,
+            0.69792
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            2.49792,
+            2.49792
+          ],
+          "rotation": 90,
+          "texture": "#texture"
+        },
+        "down": {
+          "uv": [
+            4.999,
+            2.499,
+            2.501,
+            0.001
+          ],
+          "rotation": 270,
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "name": "Bat",
+      "from": [
+        6.75,
+        7.5,
+        7.25
+      ],
+      "to": [
+        9.25,
+        10.5,
+        8.75
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            9.001,
+            0.501,
+            9.499,
+            3.499
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            10.499,
+            0.501,
+            9.001,
+            3.499
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            10.001,
+            0.501,
+            10.499,
+            3.499
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            9.001,
+            0.501,
+            10.499,
+            3.499
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            9.001,
+            0.501,
+            10.499,
+            0.999
+          ],
+          "rotation": 90,
+          "texture": "#texture"
+        },
+        "down": {
+          "uv": [
+            9.001,
+            3.001,
+            10.499,
+            3.499
+          ],
+          "rotation": 270,
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "name": "Bat",
+      "from": [
+        7.25,
+        7.5,
+        6.75
+      ],
+      "to": [
+        8.75,
+        10.5,
+        9.25
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            7.501,
+            0.501,
+            8.999,
+            3.499
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            10.999,
+            0.501,
+            8.501,
+            3.499
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            10.501,
+            0.501,
+            11.999,
+            3.499
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8.501,
+            0.501,
+            10.999,
+            3.499
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            8.501,
+            0.501,
+            10.999,
+            0.999
+          ],
+          "rotation": 90,
+          "texture": "#texture"
+        },
+        "down": {
+          "uv": [
+            8.501,
+            3.001,
+            10.999,
+            3.499
+          ],
+          "rotation": 270,
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "name": "Bat",
+      "from": [
+        6.5,
+        10.5,
+        7
+      ],
+      "to": [
+        9.5,
+        13,
+        9
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            0.001,
+            13.501,
+            2.499,
+            15.999
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            4.749,
+            13.501,
+            2.751,
+            15.999
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            5.001,
+            13.501,
+            7.499,
+            15.999
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            2.751,
+            13.501,
+            4.749,
+            15.999
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            2.751,
+            2.501,
+            4.749,
+            2.999
+          ],
+          "rotation": 90,
+          "texture": "#texture"
+        },
+        "down": {
+          "uv": [
+            2.751,
+            15.501,
+            4.749,
+            15.999
+          ],
+          "rotation": 270,
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "name": "Bat",
+      "from": [
+        7,
+        10.5,
+        6.5
+      ],
+      "to": [
+        9,
+        13,
+        9.5
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            0.251,
+            13.501,
+            2.249,
+            15.999
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            4.999,
+            13.501,
+            2.501,
+            15.999
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            5.251,
+            13.501,
+            7.249,
+            15.999
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            2.501,
+            13.501,
+            4.999,
+            15.999
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            2.501,
+            2.501,
+            4.999,
+            2.999
+          ],
+          "rotation": 90,
+          "texture": "#texture"
+        },
+        "down": {
+          "uv": [
+            2.251,
+            15.501,
+            5.249,
+            15.999
+          ],
+          "rotation": 270,
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "name": "Bat",
+      "from": [
+        7.25,
+        -1,
+        7.25
+      ],
+      "to": [
+        8.75,
+        5,
+        8.75
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          12,
+          8
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            8.001,
+            6.001,
+            9.499,
+            15.999
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            10.499,
+            6.001,
+            9.001,
+            15.999
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            10.001,
+            6.001,
+            11.499,
+            15.999
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            9.001,
+            6.001,
+            10.499,
+            15.999
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            9.001,
+            6.001,
+            10.499,
+            6.499
+          ],
+          "rotation": 90,
+          "texture": "#texture"
+        },
+        "down": {
+          "uv": [
+            9.001,
+            15.501,
+            10.499,
+            15.999
+          ],
+          "rotation": 270,
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "name": "Bat",
+      "from": [
+        7,
+        5,
+        7.25
+      ],
+      "to": [
+        9,
+        7.5,
+        8.75
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            9.001,
+            3.501,
+            9.499,
+            5.999
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            10.499,
+            3.501,
+            9.001,
+            5.999
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            10.001,
+            3.501,
+            10.499,
+            5.999
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            9.001,
+            3.501,
+            10.499,
+            5.999
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            9.001,
+            3.001,
+            10.499,
+            3.499
+          ],
+          "rotation": 90,
+          "texture": "#texture"
+        },
+        "down": {
+          "uv": [
+            9.001,
+            5.501,
+            10.499,
+            5.999
+          ],
+          "rotation": 270,
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "name": "Bat",
+      "from": [
+        7.25,
+        5,
+        7
+      ],
+      "to": [
+        8.75,
+        7.5,
+        9
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            7.501,
+            0.501,
+            8.999,
+            5.999
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            10.999,
+            0.501,
+            8.501,
+            5.999
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            10.501,
+            0.501,
+            11.999,
+            5.999
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8.501,
+            0.501,
+            10.999,
+            5.999
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            8.501,
+            0.501,
+            10.999,
+            0.999
+          ],
+          "rotation": 90,
+          "texture": "#texture"
+        },
+        "down": {
+          "uv": [
+            8.501,
+            5.501,
+            10.999,
+            5.999
+          ],
+          "rotation": 270,
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "name": "Bat",
+      "from": [
+        6.85,
+        -1.9,
+        6.85
+      ],
+      "to": [
+        9.15,
+        -0.1,
+        9.15
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          12,
+          8
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            13.501,
+            13.501,
+            15.999,
+            14.499
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            15.999,
+            15.001,
+            13.501,
+            15.999
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            13.501,
+            12.001,
+            15.999,
+            12.999
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            13.501,
+            15.001,
+            15.999,
+            15.999
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            13.501,
+            9.001,
+            15.999,
+            11.499
+          ],
+          "rotation": 90,
+          "texture": "#texture"
+        },
+        "down": {
+          "uv": [
+            13.501,
+            6.001,
+            15.999,
+            8.499
+          ],
+          "rotation": 270,
+          "texture": "#texture"
+        }
+      }
+    }
+  ],
+  "display": {
+    "thirdperson_righthand": {
+      "translation": [
+        0,
+        3.5,
+        1.25
+      ]
+    },
+    "thirdperson_lefthand": {
+      "translation": [
+        0,
+        3.5,
+        1.5
+      ]
+    },
+    "firstperson_righthand": {
+      "translation": [
+        0,
+        4,
+        0
+      ]
+    },
+    "firstperson_lefthand": {
+      "translation": [
+        0,
+        4,
+        0
+      ]
+    },
+    "ground": {
+      "rotation": [
+        -90,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        -3.05,
+        0
+      ],
+      "scale": [
+        1.5,
+        1.5,
+        1.5
+      ]
+    },
+    "gui": {
+      "rotation": [
+        -14,
+        13,
+        -45
+      ],
+      "translation": [
+        -0.5,
+        -0.25,
+        0
+      ],
+      "scale": [
+        0.9,
+        0.9,
+        0.9
+      ]
+    },
+    "head": {
+      "rotation": [
+        0,
+        -180,
+        116
+      ],
+      "translation": [
+        -1.75,
+        8.75,
+        0
+      ]
+    },
+    "fixed": {
+      "rotation": [
+        0,
+        -180,
+        -180
+      ],
+      "translation": [
+        0.3,
+        2.8,
+        0
+      ],
+      "scale": [
+        1.5,
+        1.5,
+        1.5
+      ]
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "group": "ttigraas",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "ttigraas:magicsteelingot"
+    },
+    "1": {
+      "item": "ttigraas:magicsteelingot"
+    },
+    "2": {
+      "item": "ttigraas:magicsteelingot"
+    },
+    "3": {
+      "item": "ttigraas:magicsteelingot"
+    },
+    "4": {
+      "item": "ttigraas:magicsteelingot"
+    },
+    "5": {
+      "item": "ttigraas:magicsteelingot"
+    },
+    "6": {
+      "item": "ttigraas:magicsteelingot"
+    },
+    "7": {
+      "item": "ttigraas:magicsteelingot"
+    },
+    "8": {
+      "item": "ttigraas:magicsteelingot"
+    }
+  },
+  "result": {
+    "item": "ttigraas:magicsteelblock",
+    "count": 1
+  }
+}

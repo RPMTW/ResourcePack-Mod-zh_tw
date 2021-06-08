@@ -1,0 +1,13 @@
+{
+  "group": "ttigraas",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:wheat"
+    }
+  ],
+  "result": {
+    "item": "ttigraas:wheat_grain",
+    "count": 1
+  }
+}

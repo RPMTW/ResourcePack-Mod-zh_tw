@@ -1,0 +1,9 @@
+{
+  "parent": "ttigraas:custom/slimestatue",
+  "textures": {
+    "all": "ttigraas:blocks/stoneslime",
+    "particle": "ttigraas:blocks/stoneslime",
+    "0": "ttigraas:blocks/stonefake",
+    "1": "ttigraas:blocks/stoneslime"
+  }
+}

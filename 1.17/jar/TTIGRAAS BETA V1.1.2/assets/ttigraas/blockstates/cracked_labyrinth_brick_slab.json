@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "ttigraas:block/cracked_labyrinth_brick_slab"
+    },
+    "type=top": {
+      "model": "ttigraas:block/cracked_labyrinth_brick_slab_top"
+    },
+    "type=double": {
+      "model": "ttigraas:block/cracked_labyrinth_brick_slab_full"
+    }
+  }
+}

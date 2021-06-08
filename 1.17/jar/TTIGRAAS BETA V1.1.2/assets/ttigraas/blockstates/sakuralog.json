@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "facing=south": {
+      "model": "ttigraas:block/sakuralog"
+    },
+    "facing=north": {
+      "model": "ttigraas:block/sakuralog"
+    },
+    "facing=east": {
+      "model": "ttigraas:block/sakuralog",
+      "x": 90
+    },
+    "facing=west": {
+      "model": "ttigraas:block/sakuralog",
+      "x": 90
+    },
+    "facing=up": {
+      "model": "ttigraas:block/sakuralog",
+      "x": 90,
+      "y": 90
+    },
+    "facing=down": {
+      "model": "ttigraas:block/sakuralog",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

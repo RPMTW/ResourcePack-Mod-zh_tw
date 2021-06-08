@@ -1,0 +1,9 @@
+{
+  "parent": "ttigraas:custom/reinforedanvil",
+  "textures": {
+    "all": "ttigraas:blocks/sanvil_base_2",
+    "particle": "ttigraas:blocks/sanvil_base_2",
+    "0": "ttigraas:blocks/sanvil_base_2",
+    "1": "ttigraas:blocks/sanvil_base_1"
+  }
+}

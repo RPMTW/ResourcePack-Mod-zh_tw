@@ -1,0 +1,36 @@
+{
+  "group": "ttigraas",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:ender_eye"
+    },
+    "1": {
+      "item": "ttigraas:hipoktegrassitem"
+    },
+    "2": {
+      "item": "minecraft:ender_eye"
+    },
+    "3": {
+      "item": "minecraft:blaze_powder"
+    },
+    "4": {
+      "item": "ttigraas:hipoktegrassitem"
+    },
+    "5": {
+      "item": "minecraft:nether_wart"
+    },
+    "7": {
+      "item": "minecraft:glass_bottle"
+    }
+  },
+  "result": {
+    "item": "ttigraas:mediumheal",
+    "count": 1
+  }
+}

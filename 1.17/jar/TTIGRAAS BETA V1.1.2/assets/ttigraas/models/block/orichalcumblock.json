@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ttigraas:blocks/richalcumblock",
+    "up": "ttigraas:blocks/richalcumblock",
+    "north": "ttigraas:blocks/richalcumblock",
+    "east": "ttigraas:blocks/richalcumblock",
+    "south": "ttigraas:blocks/richalcumblock",
+    "west": "ttigraas:blocks/richalcumblock",
+    "particle": "ttigraas:blocks/richalcumblock"
+  }
+}

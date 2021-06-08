@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ttigraas:blocks/newbarrier",
+    "up": "ttigraas:blocks/newbarrier",
+    "north": "ttigraas:blocks/newbarrier",
+    "east": "ttigraas:blocks/newbarrier",
+    "south": "ttigraas:blocks/newbarrier",
+    "west": "ttigraas:blocks/newbarrier",
+    "particle": "ttigraas:blocks/newbarrier"
+  }
+}

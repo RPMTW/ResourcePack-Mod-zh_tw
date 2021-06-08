@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "ttigraas:manufacturer"
+    },
+    "title": {
+      "translate": "advancements.manufacturer_ad.title"
+    },
+    "description": {
+      "translate": "advancements.manufacturer_ad.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "manufacturer_ad": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 5
+  },
+  "parent": "ttigraas:degenerate_ad"
+}

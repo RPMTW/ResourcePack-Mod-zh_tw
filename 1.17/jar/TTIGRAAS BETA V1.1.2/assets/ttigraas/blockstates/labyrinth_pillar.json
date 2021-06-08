@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "facing=south": {
+      "model": "ttigraas:block/labyrinth_pillar"
+    },
+    "facing=north": {
+      "model": "ttigraas:block/labyrinth_pillar"
+    },
+    "facing=east": {
+      "model": "ttigraas:block/labyrinth_pillar",
+      "x": 90
+    },
+    "facing=west": {
+      "model": "ttigraas:block/labyrinth_pillar",
+      "x": 90
+    },
+    "facing=up": {
+      "model": "ttigraas:block/labyrinth_pillar",
+      "x": 90,
+      "y": 90
+    },
+    "facing=down": {
+      "model": "ttigraas:block/labyrinth_pillar",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

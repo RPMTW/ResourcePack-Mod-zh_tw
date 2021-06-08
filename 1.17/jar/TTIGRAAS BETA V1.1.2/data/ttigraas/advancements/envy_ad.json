@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "ttigraas:envy"
+    },
+    "title": {
+      "translate": "advancements.envy_ad.title"
+    },
+    "description": {
+      "translate": "advancements.envy_ad.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "envy_ad": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 5
+  },
+  "parent": "ttigraas:gluttony_ad"
+}

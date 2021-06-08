@@ -1,0 +1,9 @@
+{
+  "parent": "ttigraas:custom/crimsonlotus",
+  "textures": {
+    "0": "ttigraas:blocks/gold",
+    "1": "ttigraas:blocks/brown",
+    "2": "ttigraas:blocks/white",
+    "particle": "ttigraas:items/crimsonlotusedge"
+  }
+}

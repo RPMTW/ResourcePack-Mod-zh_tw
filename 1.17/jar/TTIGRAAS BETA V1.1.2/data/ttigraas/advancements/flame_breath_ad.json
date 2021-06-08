@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "ttigraas:flame_breath"
+    },
+    "title": {
+      "translate": "advancements.flame_breath_ad.title"
+    },
+    "description": {
+      "translate": "advancements.flame_breath_ad.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "flame_breath_ad": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 5
+  },
+  "parent": "ttigraas:combustion_ad"
+}

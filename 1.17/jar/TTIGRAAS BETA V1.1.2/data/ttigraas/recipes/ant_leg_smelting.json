@@ -1,0 +1,12 @@
+{
+  "group": "ttigraas",
+  "type": "minecraft:smelting",
+  "experience": 5,
+  "cookingtime": 300,
+  "ingredient": {
+    "item": "ttigraas:raw_giantant_leg"
+  },
+  "result": {
+    "item": "ttigraas:cooked_giantant_leg"
+  }
+}

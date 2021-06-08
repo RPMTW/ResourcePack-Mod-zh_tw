@@ -1,0 +1,181 @@
+{
+  "credit": "Made with Blockbench",
+  "elements": [
+    {
+      "name": "Skull",
+      "from": [
+        4,
+        0,
+        4
+      ],
+      "to": [
+        12,
+        8,
+        12
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          4,
+          8
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            0,
+            4,
+            4,
+            8
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            12,
+            4,
+            16,
+            8
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            8,
+            4,
+            12,
+            8
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        }
+      }
+    }
+  ],
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [
+        46.5,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        1,
+        0.75
+      ],
+      "scale": [
+        0.75,
+        0.75,
+        0.75
+      ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [
+        41.75,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        0.75,
+        1
+      ],
+      "scale": [
+        0.75,
+        0.75,
+        0.75
+      ]
+    },
+    "firstperson_righthand": {
+      "translation": [
+        0,
+        4.75,
+        0
+      ]
+    },
+    "firstperson_lefthand": {
+      "translation": [
+        0,
+        4.75,
+        0
+      ]
+    },
+    "ground": {
+      "translation": [
+        0,
+        2.5,
+        0
+      ],
+      "scale": [
+        0.75,
+        0.75,
+        0.75
+      ]
+    },
+    "gui": {
+      "rotation": [
+        30,
+        131,
+        0
+      ],
+      "translation": [
+        0.25,
+        3.25,
+        0
+      ]
+    },
+    "head": {
+      "translation": [
+        0,
+        7,
+        0
+      ],
+      "scale": [
+        1.73242,
+        1.71094,
+        1.75977
+      ]
+    },
+    "fixed": {
+      "translation": [
+        0,
+        6.25,
+        0
+      ],
+      "scale": [
+        1.5,
+        1.5,
+        1.5
+      ]
+    }
+  }
+}

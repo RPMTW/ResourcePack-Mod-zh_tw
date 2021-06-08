@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "ttigraas:block/sakura_slap"
+    },
+    "type=top": {
+      "model": "ttigraas:block/sakura_slap_top"
+    },
+    "type=double": {
+      "model": "ttigraas:block/sakura_slap_full"
+    }
+  }
+}

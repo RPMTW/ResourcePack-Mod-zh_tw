@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "ttigraas:gravitymanipulation"
+    },
+    "title": {
+      "translate": "advancements.gravity_manipulation_ad.title"
+    },
+    "description": {
+      "translate": "advancements.gravity_manipulation_ad.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "gravity_manipulation_ad": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 10
+  },
+  "parent": "ttigraas:wind_manipulation_ad"
+}

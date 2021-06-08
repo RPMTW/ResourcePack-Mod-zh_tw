@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "ttigraas:assassin"
+    },
+    "title": {
+      "translate": "advancements.the_assassin_of_the_night.title"
+    },
+    "description": {
+      "translate": "advancements.the_assassin_of_the_night.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "the_assassin_of_the_night": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 10
+  },
+  "parent": "minecraft:adventure/kill_a_mob"
+}

@@ -1,0 +1,19 @@
+{
+  "group": "ttigraas",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "ttigraas:hipokte_flytrap_herb"
+    },
+    {
+      "item": "minecraft:bone_meal"
+    },
+    {
+      "item": "minecraft:flower_pot"
+    }
+  ],
+  "result": {
+    "item": "ttigraas:pot_of_hipokte_flytrap",
+    "count": 1
+  }
+}

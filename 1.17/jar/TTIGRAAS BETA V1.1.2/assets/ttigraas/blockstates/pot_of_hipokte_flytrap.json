@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "ttigraas:block/pot_of_hipokte_flytrap"
+    },
+    "facing=east": {
+      "model": "ttigraas:block/pot_of_hipokte_flytrap",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "ttigraas:block/pot_of_hipokte_flytrap",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "ttigraas:block/pot_of_hipokte_flytrap",
+      "y": 270
+    }
+  }
+}

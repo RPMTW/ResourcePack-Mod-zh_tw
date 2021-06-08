@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "ttigraas:labyrinth_portal"
+    },
+    "title": {
+      "translate": "advancements.labyrinth_conquerer.title"
+    },
+    "description": {
+      "translate": "advancements.labyrinth_conquerer.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "labyrinth_conquerer": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 5
+  },
+  "parent": "ttigraas:labyrinth_of_the_spirit"
+}

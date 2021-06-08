@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ttigraas:blocks/void_black",
+    "up": "ttigraas:blocks/void_black",
+    "north": "ttigraas:blocks/void_black",
+    "east": "ttigraas:blocks/void_black",
+    "south": "ttigraas:blocks/void_black",
+    "west": "ttigraas:blocks/void_black",
+    "particle": "ttigraas:blocks/void_black"
+  }
+}

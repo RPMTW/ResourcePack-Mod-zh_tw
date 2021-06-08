@@ -1,0 +1,146 @@
+{
+  "nameless_story": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "ttigraas:ameless_tory",
+        "stream": true
+      }
+    ]
+  },
+  "anothercolony": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "ttigraas:nothercolony",
+        "stream": true
+      }
+    ]
+  },
+  "littlesoldier": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "ttigraas:ittleoldier",
+        "stream": true
+      }
+    ]
+  },
+  "lizardmandie": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "ttigraas:lizardmandie",
+        "stream": false
+      }
+    ]
+  },
+  "lizardmanhurt": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "ttigraas:lizardmanhurt",
+        "stream": false
+      }
+    ]
+  },
+  "lizardmaniddle": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "ttigraas:lizardmaniddle",
+        "stream": false
+      }
+    ]
+  },
+  "elfdeath": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "ttigraas:elfdeath",
+        "stream": false
+      }
+    ]
+  },
+  "elfhurt": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "ttigraas:elfhurt",
+        "stream": false
+      }
+    ]
+  },
+  "elfidle": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "ttigraas:elfidle",
+        "stream": false
+      }
+    ]
+  },
+  "orcdie": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "ttigraas:orcdie",
+        "stream": false
+      }
+    ]
+  },
+  "orchurt": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "ttigraas:orchurt",
+        "stream": false
+      }
+    ]
+  },
+  "orciddle": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "ttigraas:orcroar",
+        "stream": false
+      }
+    ]
+  },
+  "dino_death": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "ttigraas:dino_death",
+        "stream": false
+      }
+    ]
+  },
+  "dino_growl": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "ttigraas:dino_growl",
+        "stream": false
+      }
+    ]
+  },
+  "dino_hurt": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "ttigraas:dino_hurt",
+        "stream": false
+      }
+    ]
+  },
+  "megurumono": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "ttigraas:eguruono",
+        "stream": true
+      }
+    ]
+  }
+}

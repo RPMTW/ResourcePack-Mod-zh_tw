@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "ttigraas:block/unactive_charibdis_core"
+    },
+    "facing=east": {
+      "model": "ttigraas:block/unactive_charibdis_core",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "ttigraas:block/unactive_charibdis_core",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "ttigraas:block/unactive_charibdis_core",
+      "y": 270
+    }
+  }
+}

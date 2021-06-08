@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ttigraas:blocks/labyrinthportal",
+    "up": "ttigraas:blocks/labyrinthportal",
+    "north": "ttigraas:blocks/labyrinthportal",
+    "east": "ttigraas:blocks/labyrinthportal",
+    "south": "ttigraas:blocks/labyrinthportal",
+    "west": "ttigraas:blocks/labyrinthportal",
+    "particle": "ttigraas:blocks/labyrinthportal"
+  }
+}

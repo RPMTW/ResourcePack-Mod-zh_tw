@@ -1,0 +1,11 @@
+{
+  "parent": "ttigraas:custom/flower_pot_hipokte",
+  "textures": {
+    "all": "ttigraas:blocks/sakura_sapling",
+    "particle": "ttigraas:blocks/sakura_sapling",
+    "3": "ttigraas:blocks/sakura_sapling",
+    "flowerpot": "ttigraas:blocks/flower_pot",
+    "plant": "ttigraas:blocks/sakura_sapling",
+    "dirt": "ttigraas:blocks/dirt"
+  }
+}

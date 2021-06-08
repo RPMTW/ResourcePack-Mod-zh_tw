@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "ttigraas:block/slime_statue"
+    },
+    "facing=east": {
+      "model": "ttigraas:block/slime_statue",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "ttigraas:block/slime_statue",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "ttigraas:block/slime_statue",
+      "y": 270
+    }
+  }
+}

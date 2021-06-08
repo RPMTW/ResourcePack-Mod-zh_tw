@@ -1,0 +1,42 @@
+{
+  "group": "ttigraas",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "ttigraas:magicsteelingot"
+    },
+    "1": {
+      "item": "minecraft:grindstone"
+    },
+    "2": {
+      "item": "ttigraas:magicsteelingot"
+    },
+    "3": {
+      "item": "minecraft:smithing_table"
+    },
+    "4": {
+      "item": "minecraft:crafting_table"
+    },
+    "5": {
+      "item": "minecraft:anvil"
+    },
+    "6": {
+      "item": "ttigraas:magicsteelingot"
+    },
+    "7": {
+      "item": "minecraft:stonecutter"
+    },
+    "8": {
+      "item": "ttigraas:magicsteelingot"
+    }
+  },
+  "result": {
+    "item": "ttigraas:enhanced_forging_table",
+    "count": 1
+  }
+}

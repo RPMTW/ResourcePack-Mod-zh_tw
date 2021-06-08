@@ -1,0 +1,12 @@
+{
+  "parent": "ttigraas:custom/deadendrainbow",
+  "textures": {
+    "0": "ttigraas:blocks/gold",
+    "1": "ttigraas:blocks/white",
+    "2": "ttigraas:blocks/silverblock",
+    "3": "ttigraas:blocks/hinatasymbol",
+    "4": "ttigraas:blocks/blank",
+    "5": "ttigraas:blocks/hinatassymbol",
+    "particle": "ttigraas:items/silver"
+  }
+}

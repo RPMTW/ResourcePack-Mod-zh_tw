@@ -1,0 +1,8 @@
+{
+  "parent": "ttigraas:custom/magicoreyellow",
+  "textures": {
+    "all": "ttigraas:blocks/yellowore",
+    "particle": "ttigraas:blocks/yellowore",
+    "0": "ttigraas:blocks/yellowore"
+  }
+}

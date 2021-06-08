@@ -1,0 +1,39 @@
+{
+  "group": "ttigraas",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "ttigraas:hard_leather"
+    },
+    "2": {
+      "item": "ttigraas:hard_leather"
+    },
+    "3": {
+      "item": "ttigraas:hard_leather"
+    },
+    "4": {
+      "item": "minecraft:leather"
+    },
+    "5": {
+      "item": "ttigraas:hard_leather"
+    },
+    "6": {
+      "item": "ttigraas:hard_leather"
+    },
+    "7": {
+      "item": "minecraft:leather"
+    },
+    "8": {
+      "item": "ttigraas:hard_leather"
+    }
+  },
+  "result": {
+    "item": "ttigraas:hardleatherarmor_chestplate",
+    "count": 1
+  }
+}

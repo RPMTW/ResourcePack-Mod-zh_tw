@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "item": "ttigraas:heartless"
+    },
+    "title": {
+      "translate": "advancements.merciless.title"
+    },
+    "description": {
+      "translate": "advancements.merciless.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "merciless": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 1000,
+    "loot": [
+      "ttigraas:mercilessloot"
+    ]
+  },
+  "parent": "ttigraas:demonlord"
+}

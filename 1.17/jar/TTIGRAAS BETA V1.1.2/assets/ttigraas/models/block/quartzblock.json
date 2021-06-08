@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ttigraas:blocks/otherworlduartzre",
+    "up": "ttigraas:blocks/otherworlduartzre",
+    "north": "ttigraas:blocks/otherworlduartzre",
+    "east": "ttigraas:blocks/otherworlduartzre",
+    "south": "ttigraas:blocks/otherworlduartzre",
+    "west": "ttigraas:blocks/otherworlduartzre",
+    "particle": "ttigraas:blocks/otherworlduartzre"
+  }
+}

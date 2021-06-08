@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "ttigraas:gluttony"
+    },
+    "title": {
+      "translate": "advancements.demonlord.title"
+    },
+    "description": {
+      "translate": "advancements.demonlord.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "demonlord": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 1000
+  },
+  "parent": "ttigraas:demon_seed"
+}

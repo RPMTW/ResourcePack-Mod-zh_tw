@@ -1,0 +1,42 @@
+{
+  "group": "ttigraas",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "ttigraas:silveringot"
+    },
+    "1": {
+      "item": "ttigraas:magicsteelingot"
+    },
+    "2": {
+      "item": "ttigraas:silveringot"
+    },
+    "3": {
+      "item": "minecraft:iron_ingot"
+    },
+    "4": {
+      "item": "minecraft:anvil"
+    },
+    "5": {
+      "item": "minecraft:iron_ingot"
+    },
+    "6": {
+      "item": "minecraft:iron_ingot"
+    },
+    "7": {
+      "item": "ttigraas:magicsteelingot"
+    },
+    "8": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "ttigraas:magicsteelanvil",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "ttigraas:demonaxe"
+  },
+  "addition": {
+    "item": "ttigraas:orichalcumingot"
+  },
+  "result": {
+    "item": "ttigraas:orichalcumaxe"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "ttigraas:custom/battleaxe",
+  "textures": {
+    "0": "ttigraas:blocks/wood",
+    "1": "ttigraas:blocks/white",
+    "particle": "ttigraas:items/silver"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "ttigraas:block/flower_pot_hipokte"
+    },
+    "facing=east": {
+      "model": "ttigraas:block/flower_pot_hipokte",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "ttigraas:block/flower_pot_hipokte",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "ttigraas:block/flower_pot_hipokte",
+      "y": 270
+    }
+  }
+}

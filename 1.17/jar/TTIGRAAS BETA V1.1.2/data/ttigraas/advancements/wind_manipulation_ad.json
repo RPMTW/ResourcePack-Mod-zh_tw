@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "ttigraas:wind_manipulation"
+    },
+    "title": {
+      "translate": "advancements.wind_manipulation_ad.title"
+    },
+    "description": {
+      "translate": "advancements.wind_manipulation_ad.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "wind_manipulation_ad": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 5
+  },
+  "parent": "ttigraas:extraskill"
+}

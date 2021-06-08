@@ -1,0 +1,9 @@
+{
+  "parent": "ttigraas:custom/spear",
+  "textures": {
+    "0": "ttigraas:blocks/white",
+    "1": "ttigraas:blocks/gold",
+    "2": "ttigraas:blocks/wood",
+    "particle": "ttigraas:items/silver"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ttigraas:blocks/labyrinth_pillar_top",
+    "up": "ttigraas:blocks/labyrinth_pillar_top",
+    "north": "ttigraas:blocks/labyrinth_pillar_side",
+    "east": "ttigraas:blocks/labyrinth_pillar_side",
+    "south": "ttigraas:blocks/labyrinth_pillar_side",
+    "west": "ttigraas:blocks/labyrinth_pillar_side",
+    "particle": "ttigraas:blocks/labyrinth_pillar_top"
+  }
+}

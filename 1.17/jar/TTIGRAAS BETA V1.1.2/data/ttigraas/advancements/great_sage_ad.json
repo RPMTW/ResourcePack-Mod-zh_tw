@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "ttigraas:greatsage"
+    },
+    "title": {
+      "translate": "advancements.great_sage_ad.title"
+    },
+    "description": {
+      "translate": "advancements.great_sage_ad.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "great_sage_ad": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 10
+  },
+  "parent": "ttigraas:great_wiseman_ad"
+}

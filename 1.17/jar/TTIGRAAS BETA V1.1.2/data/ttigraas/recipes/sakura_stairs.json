@@ -1,0 +1,33 @@
+{
+  "group": "ttigraas",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "ttigraas:sakura_plank"
+    },
+    "3": {
+      "item": "ttigraas:sakura_plank"
+    },
+    "4": {
+      "item": "ttigraas:sakura_plank"
+    },
+    "6": {
+      "item": "ttigraas:sakura_plank"
+    },
+    "7": {
+      "item": "ttigraas:sakura_plank"
+    },
+    "8": {
+      "item": "ttigraas:sakura_plank"
+    }
+  },
+  "result": {
+    "item": "ttigraas:sakura_stair",
+    "count": 4
+  }
+}

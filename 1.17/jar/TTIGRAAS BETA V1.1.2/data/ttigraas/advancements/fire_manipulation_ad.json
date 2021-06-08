@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "ttigraas:firemanipulation"
+    },
+    "title": {
+      "translate": "advancements.fire_manipulation_ad.title"
+    },
+    "description": {
+      "translate": "advancements.fire_manipulation_ad.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "fire_manipulation_ad": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 5
+  },
+  "parent": "ttigraas:extraskill"
+}

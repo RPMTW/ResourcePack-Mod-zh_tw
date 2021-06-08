@@ -1,0 +1,26 @@
+{
+  "display": {
+    "background": "minecraft:textures/block/stone.png",
+    "icon": {
+      "item": "ttigraas:blackflame"
+    },
+    "title": {
+      "translate": "advancements.extraskill.title"
+    },
+    "description": {
+      "translate": "advancements.extraskill.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "extraskill": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 5
+  }
+}

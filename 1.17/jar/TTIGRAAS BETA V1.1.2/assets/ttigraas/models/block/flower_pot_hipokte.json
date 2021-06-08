@@ -1,0 +1,11 @@
+{
+  "parent": "ttigraas:custom/flower_pot_hipokte",
+  "textures": {
+    "all": "ttigraas:blocks/ipokte",
+    "particle": "ttigraas:blocks/ipokte",
+    "3": "ttigraas:blocks/ipokte",
+    "flowerpot": "ttigraas:blocks/flower_pot",
+    "plant": "ttigraas:blocks/ipokte",
+    "dirt": "ttigraas:blocks/dirt"
+  }
+}

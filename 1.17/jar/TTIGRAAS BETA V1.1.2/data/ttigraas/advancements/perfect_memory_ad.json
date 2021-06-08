@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "ttigraas:perfect_memory"
+    },
+    "title": {
+      "translate": "advancements.perfect_memory_ad.title"
+    },
+    "description": {
+      "translate": "advancements.perfect_memory_ad.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "perfect_memory_ad": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 5
+  },
+  "parent": "ttigraas:sage_ad"
+}

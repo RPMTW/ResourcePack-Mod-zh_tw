@@ -1,0 +1,12 @@
+{
+  "group": "ttigraas",
+  "type": "minecraft:smelting",
+  "experience": 0.3,
+  "cookingtime": 80,
+  "ingredient": {
+    "item": "ttigraas:wheat_grain"
+  },
+  "result": {
+    "item": "ttigraas:rice"
+  }
+}

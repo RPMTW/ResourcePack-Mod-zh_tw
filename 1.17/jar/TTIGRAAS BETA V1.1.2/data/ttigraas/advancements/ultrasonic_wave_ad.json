@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "ttigraas:ultrasonic_wave"
+    },
+    "title": {
+      "translate": "advancements.ultrasonic_wave_ad.title"
+    },
+    "description": {
+      "translate": "advancements.ultrasonic_wave_ad.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "ultrasonic_wave_ad": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 5
+  },
+  "parent": "ttigraas:heat_sense_ad"
+}

@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "ttigraas:combustion"
+    },
+    "title": {
+      "translate": "advancements.combustion_ad.title"
+    },
+    "description": {
+      "translate": "advancements.combustion_ad.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "combustion_ad": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 5
+  },
+  "parent": "ttigraas:intrinsicskill"
+}

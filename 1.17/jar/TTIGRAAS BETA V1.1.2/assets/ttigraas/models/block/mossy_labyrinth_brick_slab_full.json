@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "ttigraas:blocks/mossylabyrinthbrick",
+    "top": "ttigraas:blocks/mossylabyrinthbrick",
+    "side": "ttigraas:blocks/mossylabyrinthbrick"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "criteria": {
+    "musicfan": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 100
+  },
+  "parent": "minecraft:adventure/root"
+}

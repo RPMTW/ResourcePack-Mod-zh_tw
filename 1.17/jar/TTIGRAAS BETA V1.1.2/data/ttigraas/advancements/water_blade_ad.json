@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "ttigraas:waterblade"
+    },
+    "title": {
+      "translate": "advancements.water_blade_ad.title"
+    },
+    "description": {
+      "translate": "advancements.water_blade_ad.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "water_blade_ad": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 5
+  },
+  "parent": "ttigraas:water_current_control_ad"
+}

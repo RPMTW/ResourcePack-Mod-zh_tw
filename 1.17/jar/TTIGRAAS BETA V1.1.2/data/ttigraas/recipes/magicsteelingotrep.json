@@ -1,0 +1,13 @@
+{
+  "group": "ttigraas",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "ttigraas:magicsteelblock"
+    }
+  ],
+  "result": {
+    "item": "ttigraas:magicsteelingot",
+    "count": 9
+  }
+}

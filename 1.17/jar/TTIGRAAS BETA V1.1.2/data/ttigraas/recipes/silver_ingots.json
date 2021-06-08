@@ -1,0 +1,13 @@
+{
+  "group": "ttigraas",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "ttigraas:silverblock"
+    }
+  ],
+  "result": {
+    "item": "ttigraas:silveringot",
+    "count": 9
+  }
+}

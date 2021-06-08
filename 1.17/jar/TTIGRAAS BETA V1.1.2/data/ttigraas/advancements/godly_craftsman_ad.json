@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "ttigraas:godlycraftsman"
+    },
+    "title": {
+      "translate": "advancements.godly_craftsman_ad.title"
+    },
+    "description": {
+      "translate": "advancements.godly_craftsman_ad.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "godly_craftsman_ad": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 10
+  },
+  "parent": "ttigraas:researcher_ad"
+}

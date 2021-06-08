@@ -1,0 +1,10 @@
+{
+  "parent": "ttigraas:custom/orgeeater",
+  "textures": {
+    "0": "ttigraas:blocks/brown",
+    "3": "ttigraas:blocks/wool",
+    "4": "ttigraas:blocks/white",
+    "5": "ttigraas:blocks/fur",
+    "particle": "ttigraas:items/ogreeater"
+  }
+}

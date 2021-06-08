@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "ttigraas:selfregeneration"
+    },
+    "title": {
+      "translate": "advancements.self_regeneration_ad.title"
+    },
+    "description": {
+      "translate": "advancements.self_regeneration_ad.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "self_regeneration_ad": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 5
+  },
+  "parent": "ttigraas:absorb_and_dissolve_ad"
+}

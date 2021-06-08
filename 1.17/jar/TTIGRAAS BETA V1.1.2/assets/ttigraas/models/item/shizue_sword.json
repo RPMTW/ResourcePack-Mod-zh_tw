@@ -1,0 +1,11 @@
+{
+  "parent": "ttigraas:custom/shizueizawasword",
+  "textures": {
+    "0": "ttigraas:blocks/white",
+    "1": "ttigraas:blocks/cyan",
+    "2": "ttigraas:blocks/gold",
+    "3": "ttigraas:blocks/gold",
+    "4": "ttigraas:blocks/red",
+    "particle": "ttigraas:items/the_sword_of_tempest"
+  }
+}

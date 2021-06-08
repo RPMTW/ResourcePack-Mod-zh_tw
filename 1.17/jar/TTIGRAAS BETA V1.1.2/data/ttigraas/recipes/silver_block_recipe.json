@@ -1,0 +1,37 @@
+{
+  "group": "ttigraas",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "ttigraas:silveringot"
+    },
+    {
+      "item": "ttigraas:silveringot"
+    },
+    {
+      "item": "ttigraas:silveringot"
+    },
+    {
+      "item": "ttigraas:silveringot"
+    },
+    {
+      "item": "ttigraas:silveringot"
+    },
+    {
+      "item": "ttigraas:silveringot"
+    },
+    {
+      "item": "ttigraas:silveringot"
+    },
+    {
+      "item": "ttigraas:silveringot"
+    },
+    {
+      "item": "ttigraas:silveringot"
+    }
+  ],
+  "result": {
+    "item": "ttigraas:silverblock",
+    "count": 1
+  }
+}

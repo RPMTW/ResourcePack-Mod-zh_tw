@@ -1,0 +1,9 @@
+{
+  "parent": "ttigraas:custom/orcaxe",
+  "textures": {
+    "0": "ttigraas:blocks/black",
+    "1": "ttigraas:blocks/wood",
+    "2": "ttigraas:blocks/white",
+    "particle": "ttigraas:items/silver"
+  }
+}

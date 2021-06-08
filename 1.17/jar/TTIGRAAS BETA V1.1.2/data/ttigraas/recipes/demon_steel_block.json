@@ -1,0 +1,42 @@
+{
+  "group": "ttigraas",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "ttigraas:demonsteel"
+    },
+    "1": {
+      "item": "ttigraas:demonsteel"
+    },
+    "2": {
+      "item": "ttigraas:demonsteel"
+    },
+    "3": {
+      "item": "ttigraas:demonsteel"
+    },
+    "4": {
+      "item": "ttigraas:demonsteel"
+    },
+    "5": {
+      "item": "ttigraas:demonsteel"
+    },
+    "6": {
+      "item": "ttigraas:demonsteel"
+    },
+    "7": {
+      "item": "ttigraas:demonsteel"
+    },
+    "8": {
+      "item": "ttigraas:demonsteel"
+    }
+  },
+  "result": {
+    "item": "ttigraas:demonblock",
+    "count": 1
+  }
+}

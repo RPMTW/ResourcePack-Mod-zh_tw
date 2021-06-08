@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "ttigraas:block/bluemagicore"
+    },
+    "facing=east": {
+      "model": "ttigraas:block/bluemagicore",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "ttigraas:block/bluemagicore",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "ttigraas:block/bluemagicore",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "ttigraas:block/bluemagicore",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "ttigraas:block/bluemagicore",
+      "x": 90
+    }
+  }
+}

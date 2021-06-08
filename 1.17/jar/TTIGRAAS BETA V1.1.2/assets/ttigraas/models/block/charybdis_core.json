@@ -1,0 +1,8 @@
+{
+  "parent": "ttigraas:custom/charybdiscore",
+  "textures": {
+    "all": "ttigraas:blocks/activecore",
+    "particle": "ttigraas:blocks/activecore",
+    "0": "ttigraas:blocks/activecore"
+  }
+}

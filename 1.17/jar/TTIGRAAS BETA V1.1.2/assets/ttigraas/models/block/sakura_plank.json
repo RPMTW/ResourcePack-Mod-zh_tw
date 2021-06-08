@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ttigraas:blocks/sakura_planks",
+    "up": "ttigraas:blocks/sakura_planks",
+    "north": "ttigraas:blocks/sakura_planks",
+    "east": "ttigraas:blocks/sakura_planks",
+    "south": "ttigraas:blocks/sakura_planks",
+    "west": "ttigraas:blocks/sakura_planks",
+    "particle": "ttigraas:blocks/sakura_planks"
+  }
+}
