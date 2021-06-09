@@ -318,7 +318,7 @@
     "aspect.integrateddynamics.tooltip.value_type_name": "§e類型：§r%s",
     "aspect.integrateddynamics.tooltip.part_id": "§e§o組件ID：§r§o%s",
     "aspect.integrateddynamics.error.invalid_type": "該設置面預期%s， 但是%s已被指定。",
-    "aspect.integrateddynamics.error.recursion": "The aspect variable for %s is referring to itself.",
+    "aspect.integrateddynamics.error.recursion": "%s 的項目變量調整了本身。",
     "aspect.integrateddynamics.error.no_value_interface": "No valid value interface was found.",
     "aspect.integrateddynamics.error.no_value_interface_value": "No valid value interface value was found.",
     "aspect.integrateddynamics.name": "可用項目",
