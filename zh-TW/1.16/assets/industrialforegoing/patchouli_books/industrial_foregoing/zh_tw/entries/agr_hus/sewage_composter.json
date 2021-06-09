@@ -1,7 +1,7 @@
 {
   "name": "汙水堆肥機",
-  "icon": "工業先鋒：汙水堆肥機",
-  "category": "農牧",
+  "icon": "industrialforegoing:sewage_composter",
+  "category": "agriculture_husbandry",
   "sortnum": 14,
   "read_by_default": true,
   "pages": [
@@ -11,7 +11,7 @@
     },
     {
       "type": "合成",
-      "recipe": "工業先鋒：汙水堆肥機"
+      "recipe": "industrialforegoing:sewage_composter"
     }
   ]
 }
