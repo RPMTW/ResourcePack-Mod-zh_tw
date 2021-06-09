@@ -1322,7 +1322,7 @@
     "operator.integrateddynamics.general.basename": "通用 %s",
     "operator.integrateddynamics.general.choice": "選擇",
     "operator.integrateddynamics.general.choice.info": "檢測是否第一個值為真，若真則取第二個值，否則取第三個值\\n第二個值和第三個值的類型必須相同。",
-    "operator.integrateddynamics.general.identity": "複製",
+    "operator.integrateddynamics.general.identity": "身分轉換",
     "operator.integrateddynamics.general.identity.info": "複製輸入值",
     "operator.integrateddynamics.general.constant": "前值",
     "operator.integrateddynamics.general.constant.info": "第一個參數的副本。",
