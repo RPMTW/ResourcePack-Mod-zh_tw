@@ -3,17 +3,22 @@
 "Forge":{
 
 "1.16":{
-"latest":"1.1.3",
-"DownloadUrl":"https://cdn.discordapp.com/attachments/832853909218394142/842982946524626954/RPMTW-Update-Mod-Forge-1.16-1.1.1.jar"
+"latest":"1.1.4",
+"DownloadUrl":""
 }
 
 },
 "Fabric":{
 
 "1.16":{
-"latest":"1.1.3",
+"latest":"1.1.4",
 "DownloadUrl":""
 }
-
+  
+"1.17":{
+"latest":"1.1.5",
+"DownloadUrl":""
+}
+  
 }
 }
