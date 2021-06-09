@@ -1,7 +1,7 @@
 {
-    "block.usefulbackpacks.filter_configurator": "Backpack Filter Configurator",
-    "container.usefulbackpacks.filter_configurator": "Backpack Filter Configurator",
-    "container.usefulbackpacks.item_filter.strict": "Strict match: ",
+    "block.usefulbackpacks.filter_configurator": "背包過濾設置器",
+    "container.usefulbackpacks.filter_configurator": "背包過濾設置器",
+    "container.usefulbackpacks.item_filter.strict": "嚴格符合： ",
     "container.usefulbackpacks.item_filter.strict.tooltip": "If checked the item NBT must match the configured item",
     "container.usefulbackpacks.tag_filter.search": "Search for tags",
     "general.usefulbackpacks.backpack.tooltip.filter.0": "This backpack is configured with auto pickup filters",
@@ -12,7 +12,7 @@
     "general.usefulbackpacks.backpack.tooltip.filter_not_advanced.0": "Enable advanced tooltips to see what filters are configured",
     "general.usefulbackpacks.click.tooltip.right_click.0": "Right click",
     "general.usefulbackpacks.click.tooltip.shift_right_click.0": "Shift + Right click",
-    "item.usefulbackpacks.backpack_enderchest": "Ender Chest Backpack",
+    "item.usefulbackpacks.backpack_enderchest": "終界背包",
     "item.usefulbackpacks.backpack_large": "大型背包",
     "item.usefulbackpacks.backpack_medium": "中型背包",
     "item.usefulbackpacks.backpack_small": "小型背包",
@@ -29,7 +29,7 @@
     "item.usefulbackpacks.filter_tag.tooltip.configured.2": "%s to remove current configuration",
     "item.usefulbackpacks.filter_tag.tooltip.not_configured.0": "This filter is not configured",
     "item.usefulbackpacks.filter_tag.tooltip.not_configured.1": "%s to configure the tag filter",
-    "itemGroup.usefulbackpacks.group": "Useful Backpacks",
-    "key.usefulbackpacks.curiosintegration.category": "Useful Backpacks : Curios Integration",
-    "key.usefulbackpacks.curiosintegration.description": "Open backpack"
+    "itemGroup.usefulbackpacks.group": "實用背包",
+    "key.usefulbackpacks.curiosintegration.category": "實用背包：物品集合",
+    "key.usefulbackpacks.curiosintegration.description": "打開背包"
 }
