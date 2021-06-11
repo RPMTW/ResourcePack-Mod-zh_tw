@@ -1,0 +1,15 @@
+{
+    "block.filteredchests.small": "小型過濾箱",
+    "block.filteredchests.normal": "過濾箱",
+    "block.filteredchests.medium": "鐵過濾箱",
+    "block.filteredchests.large": "金過濾箱",
+    "block.filteredchests.huge": "鑽石過濾箱",
+    "title.filteredchests.filter": "過濾器",
+    "button.filteredchests.blacklist": "黑名單",
+    "button.filteredchests.whitelist": "白名單",
+    "button.filteredchests.locked": "過濾器已鎖定",
+    "button.filteredchests.unlocked": "過濾器已解鎖",
+    "button.filteredchests.item_filter_type": "物品",
+    "button.filteredchests.stack_filter_type": "NBT 標籤",
+    "button.filteredchests.group_filter_type": "創造標籤"
+}
