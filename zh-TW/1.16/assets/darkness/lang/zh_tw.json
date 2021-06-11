@@ -1,0 +1,17 @@
+{
+	"config.darkness.title": "True Darkness Config",
+	"config.darkness.label.block_light_only": "Affect Block Light Only",
+	"config.darkness.help.block_light_only": "Areas lit by sky will not be fully dark",
+	"config.darkness.label.ignore_moon_phase": "忽略月相",
+	"config.darkness.help.ignore_moon_phase": "即使滿月，夜晚亮度仍為最暗",
+	"config.darkness.label.dark_overworld": "黑暗主世界",
+	"config.darkness.help.dark_overworld": "在主世界啟用",
+	"config.darkness.label.dark_nether": "黑暗地獄",
+	"config.darkness.help.dark_nether": "在地獄啟用",
+	"config.darkness.label.dark_end": "黑暗終界",
+	"config.darkness.help.dark_end": "在終界啟用",
+	"config.darkness.label.dark_default": "Modded Dimension Darkness",
+	"config.darkness.help.dark_default": "Enable in modded dimensions with a sky",
+	"config.darkness.label.dark_skyless": "Modded Skyless Dimension Darkness",
+	"config.darkness.help.dark_skyless": "Enable in modded dimensions with no sky"
+}
