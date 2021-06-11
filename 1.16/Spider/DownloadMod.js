@@ -3,7 +3,7 @@ const path = require("path");
 const config = require(`${process.cwd()}/config.json`)
 const compressing = require('compressing');
 const CurseForge = require("mc-curseforge-api");
-const {GetModID} = require("./Module/GetModID");
+const { GetModID } = require("./Module/GetModID");
 require('dotenv').config();
 let ID = process.env.ModID;
 
@@ -16,7 +16,8 @@ if (!fs.existsSync(path.join(__dirname, "../assets"))) {
 }
 
 let slug, fileID, fileName;
-CurseForge.getModFiles(Number(ID)).then((files) => {
+CurseForge.getMod(Number(ID)).then((mod) => {
+    let files = mod.latestFiles;
     for (let i = 0; i < files.length; i++) {
         let data = files[i].minecraft_versions;
         if (data.includes(config.ver) || data.includes("1.16.4") || data.includes("1.16.3") || data.includes("1.16.2") || data.includes("1.16.1") || data.includes("1.16")) {
