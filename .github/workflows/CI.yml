@@ -5,7 +5,7 @@ on:
     branches: [ Translated ]
     paths:
     - '1.16/zh-TW/**'
-    - '1.16/Add-on/**'
+    - 'Add-on/1.16/**'
 jobs:
   build:
     runs-on: ubuntu-latest
