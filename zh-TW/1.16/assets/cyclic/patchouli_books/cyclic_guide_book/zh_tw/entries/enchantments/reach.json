@@ -1,0 +1,16 @@
+{
+  "name": "enchantment.cyclic.reach",
+  "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:\"cyclic:reach\",lvl:1}]}",
+  "category": "cyclic:enchantments",
+  "pages": [
+    {
+      "type": "text",
+      "text": "enchantment.cyclic.reach.guide"
+    },
+    {
+      "type": "spotlight",
+      "item": "minecraft:enchanted_book{StoredEnchantments:[{id:\"cyclic:reach\",lvl:1}]}",
+      "link_recipe": true
+    }
+  ]
+}
