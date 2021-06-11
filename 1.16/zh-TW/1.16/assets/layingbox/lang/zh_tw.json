@@ -1,0 +1,16 @@
+{
+  "gamerule.LayingBox_biomerequired": "生態域特定資源雞",
+  "block.layingbox.laying_box": "孵化箱",
+  "block.layingbox.egg_collector": "收蛋器",
+  "item.layingbox.animal_net": "捕物網",
+  "item.layingbox.netted_animal": "捕獲的動物",
+  "item.layingbox.netted_animal.id": "捕獲: %s",
+  "item.layingbox.netted_animal.customid": "%s (%s)",
+  "item.layingbox.love_wand": "愛之魔杖",
+  "item.layingbox.inspector": "檢測儀",
+  "item.layingbox.production_wand": "生產魔杖",
+  "message.layingbox.production": "%s 的生產值為 %.2f",
+  "container.layingbox.egg_collector": "收蛋器",
+  "itemGroup.layingbox.item_group": "孵化箱",
+  "itemGroup.layingbox.spawn_eggs_group": "孵化箱 - 生怪蛋"
+}

@@ -1,0 +1,13 @@
+{
+  "item.beeangry-est.scoop": "Scoop",
+  "advancements.beeangry-est.bee_scooped.title": "Bee Scooped",
+  "advancements.beeangry-est.bee_scooped.description": "Capture a bee with a scoop.",
+  "advancements.beeangry-est.bee_exploded.title": "KaBEEm!",
+  "advancements.beeangry-est.bee_exploded.description": "Get attacked by an exploding bee.",
+  "gamerule.beeangry-est:beesExplode": "Exploding bees",
+  "gamerule.beeangry-est:beesSeekRainShelter": "Bees seek rain shelter",
+  "gamerule.beeangry-est:alwaysDropScoopedBees": "Always drop scooped bees",
+  "gamerule.beeangry-est:saveScoopedBeeNbt": "Save scooped bee NBT data",
+  "gui.beeangry-est.hud.catch": "捕捉",
+  "gui.beeangry-est.hud.use": "使用"
+}

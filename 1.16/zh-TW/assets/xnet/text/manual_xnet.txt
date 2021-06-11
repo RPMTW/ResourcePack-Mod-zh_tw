@@ -1,0 +1,185 @@
+{b}XNet 手冊
+
+目錄：
+{l:intro}簡介
+{l:basic}基本網路
+{l:advanced}進階網路
+{l:types}通道類型
+{l:netcolors}網路顏色
+{l:colors}彩色纜線
+{l:connector}連接器
+{l:controller}控制器
+{l:router}路由器
+{l:wirelessrouter}無線路由器
+{l:proxy}紅石代理(伺服器)
+
+{-------------------------------------------------------------}
+{b}簡介
+{n:intro}
+XNet是關於在Minecraft世界中聯網和運輸物品、液體、能源和資訊。
+and information through the world. Using cables you connect various
+machines and blocks and in the controller you configure how things
+move through the created network. 一條纜線可以發送所有種類的資訊。你不需要為物品、能量或液體使用不同的纜線。
+information. You don't need different cables for items, energy, or liquids.
+
+XNet也是非常高效能和擴充性。纜線不是實體方塊，你可以建立巨大的纜線網路而不會受效能影響。 Cables are not tile entities
+and you can create huge cable networks without performance differences.
+{-------------------------------------------------------------}
+{b}基本網路
+{n:basic}
+A network (or local network) is represented by a number of machines
+連接器是纜線的一部分，可用於連接到機器。放置一個連接器將自動與它周圍任何合適的方塊進行連接。請注意，連接器本身並不足以做什麼。你需要在控制器中實際建立一個連接。
+每個網路都需要一個控制器（而不是更多），它是實際管理運輸的方塊。
+that does the actual work.
+
+在一個網路中，你最多可以有八個通道，分別是物品、液體、能源和資訊。
+energy, and information. 你可以在控制器的介面上設定這些通道。
+controller.
+
+每個通道都可以使用連接器連接到你想要的任意數量的方塊和機器。
+you want using connectors.
+{-------------------------------------------------------------}
+{b}進階網路
+{n:advanced}
+使用路由器，人們可以連接多個網路。一個路由器最多可以連接6個網路（每邊一個）。 A single router
+can connect up to 6 networks (one for each side). To do that simply
+要做到這一點，只需用一個普通的連接器將網路連接到路由器上。
+
+通道只有在被命名的情況下路由器才能辨識。 This can
+be done in the UI of the controller. 這可以在控制器的使用者介面中完成。這些通道被稱為 "命名通道"。
+'named channels'.
+
+一個被命名的通道可以透過給它一個 "發布的名字" 在路由器中發布。
+a 'published name'. 只有這樣通道才能被其他網路（本地或遠端）使用。
+networks (either local or remote).
+{-------------------------------------------------------------}
+{b}通道類型
+{n:types}
+目前有四種不同的通道類型。
+  *xnet.item: 用於運輸物品
+  *xnet.energy: 用於傳輸能量
+  *xnet.fluid: 用於運輸液體
+  *xnet.logic: 用於感測器和邏輯控制
+
+邏輯通道很特別。它可以建立感測器來測量其他方塊中的各種東西（如物品的數量、能量的數值等）， It allows you to create sensors to
+measure various things in other blocks (like number of items,
+然後在控制器上設定一個 "顏色"
+
+注意:邏輯通道現在不透過路由器做任何事情。
+right now.
+{-------------------------------------------------------------}
+{b}網路顏色
+{n:netcolors}
+使用一個邏輯通道和感測器，你可以在一個控制器中啟用或停用15種不同的顏色。
+fifteen different colors in a controller. Basically a color is
+a boolean value that can be either on or off. You can use these
+你可以在所有通道類型的連接中使用這些顏色來停用或啟用一個連接。
+{b}連接器 每個連接可以監聽四種不同的顏色，並且只有在所有設定的（非黑色）顏色被啟用時才會執行。
+different colors and will only work if all set (non-black)
+colors are enabled.
+{-------------------------------------------------------------}
+{b}彩色纜線
+{n:colors}
+纜線和連接器可以有四種不同的顏色。不要將這些顏色與上一節中的網路顏色相混淆！ Do not
+這些纜線的顏色可以將不同的網路緊靠著放在一起，而不將它們連接起來。
+section! These cable colors allow you to place distinct
+networks right next to each other without them connecting.
+
+還有一種 "fifth" 顏色，是用於布置纜線和連接器。
+and connectors.
+{-------------------------------------------------------------}
+{b}連接器
+{n:connector}
+A connector is a part of the cable that can be used to connect
+to a machine. Placing a connector will automatically make a
+connection to any suitable block around it. Note that a connector
+in itself is not sufficient to do something. You need to actually
+create a connection in the controller.
+
+The advanced connector has more speed, and can also access
+the block from other sides then the one you are physically
+connecting too.
+
+Note that in the GUI of a connector you can give it a name to make
+it easier to identify connectors in the controller.
+{-------------------------------------------------------------}
+{b}Controller (part 1)
+{n:controller}
+{rb:controller}
+The controller is the main driver of a network. Every network
+needs one controller. It also needs power. In the GUI of the
+controller you can create up to 8 different channels with a
+given type. Then for each connected block on that channel you
+can create a connection. Depending on the type of the channel
+there are various parameters you can set on a connection.
+{-------------------------------------------------------------}
+{b}Controllers (part 2)
+Hint: it is often handy to disable a channel while you are
+working on it so that things don't start moving too soon. This
+can be done in the channel editor section.
+
+Note that in that section you can also give the channel a name.
+This is only needed for advanced networking using routers.
+{-------------------------------------------------------------}
+{b}Router (part 1)
+{n:router}
+{rb:router}
+The router is the block that can be used to connect distinct
+networks. On its own it can connect six different networks
+(one networks per side) but using routing cables you can also
+make a routing network and connect multiple routers.
+{-------------------------------------------------------------}
+{b}Router (part 2)
+In the GUI of the router you can see all named channels in all
+local networks (this is why it can be important to be able to
+name channels in the contoller). To make such a channel available
+to the routing network you need to 'publish' it. To do that
+you give it a global name in that list.
+
+All published channels of the same type and with the same published
+name will automatically connect. That means that a controller
+extracting items (from one of its locally connected blocks) will
+be able to insert items into all blocks connected locally or in
+connected channels from other networks.
+{-------------------------------------------------------------}
+{b}Router (part 3)
+On the right side of the GUI you can see all published channels
+from remote routers. Again channels connect automatically to them
+if they have the same type and name.
+
+Note that this only goes one step. If you have router A connected
+to router B and router B connected to router C then networks on
+router A can not see networks on router C. Even if they have the
+same published name.
+
+Also note that there is a limit of 32 published channels on a
+routing network.
+{-------------------------------------------------------------}
+{b}Wireless Router (part 1)
+{n:wireless_router}
+{rb:wireless_router}
+A wireless router allows transmission of published channels
+wirelessly to outer wireless routers. To make this work you
+have to put the wireless router on a routing network connected
+to one or more routers. The wireless router will make all
+published channels available (provided it has enough power).
+{-------------------------------------------------------------}
+{b}Wireless Router (part 2)
+By default a wireless router is set to 'private' mode which
+means that only you will be able to use it. You can change this
+in the GUI. Wireless channels are made available in the router
+where you can connect them to channels of local controllers.
+
+A wireless router needs an antenna base on which a normal
+antenna (one or two) or a dish is placed. The dish allows
+for unlimited range.
+{-------------------------------------------------------------}
+{b}紅石代理(伺服器)
+{n:orixt}
+{rb:redstone_proxy}
+The Redstone Proxy block is a very simple block that has no
+functionality on its own. It is special because connectors can
+also connect to it which allows you to access the redstone
+properties of it in a sensor. Using a sensor in a logic channel
+you can read out the amount of redstone going into the proxy block.
+{-------------------------------------------------------------}
