@@ -1,0 +1,14 @@
+左輪彈藥
+
+左輪手槍彈藥需要工程師裝配台以及特定的<link;blueprints;Engineer's Blueprints>才能製作。 你自己就可以繪製一般軍火的製造藍圖，但一些高級軍火的藍圖需要你從他人手中購買才能得到。<np>
+<&empty>§lEmpty §lCasings§r and §lShells§r 是所有子彈的基礎。 空彈殼也可以使用<link;metal_press;Metal Press>,使用合適的模具，大大降低成本。<np>
+<&casull>§lCasull §lCartridges§r是用“普通子彈”藍圖創建的。 它們是一種簡單的鉛彈，造成中等傷害。<np>
+<&ap>§lArmor-Piercing §lCartridges§r 使用相同的藍圖創建。 它們造成相同數量的傷害，但通過純粹的動能穿透裝甲。<np>
+<&buckshot>§Buckshot §Cartridges§r，使用上述藍圖創建，裝有多個以錐形發射的小型子彈。 這種彈藥筒在短距離內非常有效。<np>
+<he>§High-Explosive §Cartridges§r 是用“普通子彈”藍圖創建的。 它們發射的子彈在撞擊時會爆炸，對生物和地形造成傷害。<np>
+<&silver>§lSilver §lCartridges§r，同樣使用“普通子彈”藍圖製作，由一個包裹在銀中的鉛芯組成，使它們對不死生物非常有效。<np>
+<&dragon>§lDragon's §lBreath Cartridges§r 是用“特殊子彈”藍圖創建的。 與鹿彈類似，它們在短距離內也很有效，但它們不是小金屬彈，而是充滿易燃金屬粉塵，產生火焰爆炸。<np>
+<&potion>§lPhial §lCartridges§r 也使用“專業化”藍圖創建。 通過在製作網格中將它們一起製作，它們可以填充任何藥水，然後該藥水將在撞擊時應用。 普通藥水需要直接命中，噴濺藥水有一個區域效果，而滯留藥水會產生一個臨時的、滯留藥水雲。<np>
+<&flare>§lFlare §lCartridges§r 是使用“專業化”藍圖創建的。 發射時，信號彈在一定距離後爆炸，然後慢慢下沉到地面。 您可以在工作台中將墨盒與染料結合以改變其顏色。<np>
+<&homing>§lHoming §lCartridges§r 是用“特種子彈”藍圖創建的。 使用終界之眼的迷人特性，這些射彈獲得了尋找並追逐最近目標的能力。
+<&wolfpack>§lWolfpack §lCartridges§r 使用相同的藍圖創建，並由單個外殼中的多個歸位射擊的集合組成。 最初的子彈是無制導的，但在撞擊時，它會分裂成六個目標尋找射擊，粉碎周圍的敵人。
