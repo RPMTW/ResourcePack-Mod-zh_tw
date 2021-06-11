@@ -1,0 +1,19 @@
+{
+  "modifier_id": "tconstruct:haste",
+  "text": [
+    {
+      "text": "Adding redstone to a tool seems to increase its speed. Redstones mining speed effect is more potent on slower tools."
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "紅石，很瘋狂的東西，對吧。"
+    }
+  ],
+  "effects": [
+    "每個紅石粉都會讓挖掘速度增加一點點",
+    "增加攻擊速度",
+    "可升級多次"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+    "item.progressivebosses.nether_star_shard": "地獄之星碎片",
+    "progressivebosses:wither.minion": "Wither Minion",
+    "progressivebosses:dragon.larva": "Dragon Larva",
+    "progressivebosses:dragon.minion": "Dragon Minion",
+    "progressivebosses:command.player_get_wither_difficulty": "%s has summoned %d Withers",
+    "progressivebosses:command.player_get_dragon_difficulty": "%s has killed %d Dragons",
+    "progressivebosses:command.player_set_boss_difficulty": "Set %s's %s difficulty to %d",
+    "progressivebosses:command.player_add_boss_difficulty": "Added %d %s's Difficulty to %s (now %d)"
+}

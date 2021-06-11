@@ -1,0 +1,19 @@
+{
+  "gamemodeoverhaul.command.toggledownfall.feedback": "Toggled downfall",
+  "category.gamemodeoverhaul.general": "一般",
+  "config.gamemodeoverhaul.enable_gamemode_numbers": "啟用遊戲模式數字",
+  "config.gamemodeoverhaul.enable_gamemode_letters": "Enable Gamemode Letters",
+  "config.gamemodeoverhaul.enable_defaultgamemode_numbers": "Enable Default Gamemode Numbers",
+  "config.gamemodeoverhaul.enable_defaultgamemode_letters": "Enable Default Gamemode Letters",
+  "config.gamemodeoverhaul.enable_excessively_short_commands": "Enable Excessively Short Commands",
+  "config.gamemodeoverhaul.enable_difficulty_numbers": "Enable Difficulty Numbers",
+  "config.gamemodeoverhaul.enable_toggledownfall": "Enable Toggledownfall",
+  "config.gamemodeoverhaul.enable_xp": "Enable alt-xp command",
+  "config.gamemodeoverhaul.enable_gamemode_numbers.desc": "/gamemode 1",
+  "config.gamemodeoverhaul.enable_gamemode_letters.desc": "/gamemode c",
+  "config.gamemodeoverhaul.enable_defaultgamemode_numbers.desc": "/defaultgamemode 1",
+  "config.gamemodeoverhaul.enable_defaultgamemode_letters.desc": "/defaultgamemode c",
+  "config.gamemodeoverhaul.enable_excessively_short_commands.desc": "/gmc, /gm 1, /dgm s",
+  "config.gamemodeoverhaul.enable_difficulty_numbers.desc": "/difficulty 2",
+  "config.gamemodeoverhaul.enable_toggledownfall.desc": "/toggledownfall"
+}

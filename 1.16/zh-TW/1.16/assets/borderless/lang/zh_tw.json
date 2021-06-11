@@ -1,0 +1,17 @@
+{
+  "borderless.config.title": "無邊框視窗配置",
+  "borderless.config.fullscreen_mode": "全螢幕模式",
+  "borderless.config.fullscreen_mode.best": "最佳化",
+  "borderless.config.fullscreen_mode.borderless": "無邊框",
+  "borderless.config.fullscreen_mode.native": "原生",
+  "borderless.config.focus_loss": "On Focus Loss",
+  "borderless.config.focus_loss.do_nothing": "保持可見",
+  "borderless.config.focus_loss.minimize": "最小化",
+  "borderless.config.focus_loss.switch_to_windowed": "切換到視窗模式",
+  "borderless.config.changed": "如果全螢幕模式未正常啟用，請嘗試重新啟動 Minecraft。 如果它仍然無法運作，則您的作業系統可能無法完全相容。",
+  "borderless.best": "自動為當前操作系統選擇最佳全螢幕模式。此為全螢幕模式是推薦的選項。",
+  "borderless.borderless": "無邊框全螢幕，將視窗的寬度和高度設定為顯示器的解析度。 此外，它會移除視窗的邊框來模擬全螢幕。\n\n此全螢幕模式是 Windows 的最佳模式。",
+  "borderless.native.do_nothing": "The standard Minecraft fullscreen, but the window will always be visible when the focus is lost. The window may be always on top, depending on the current operating system.\n\nThis fullscreen mode is the best option for most Linux distributions supporting X11.",
+  "borderless.native.minimize": "The standard Minecraft fullscreen which minimizes the window on focus loss.\n\nThis fullscreen mode is the best option for unknown operating systems.",
+  "borderless.native.switch_to_windowed": "The standard Minecraft fullscreen, but the window will switch to a windowed mode once the window loses focus."
+}

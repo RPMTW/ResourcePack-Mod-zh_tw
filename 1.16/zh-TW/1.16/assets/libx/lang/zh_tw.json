@@ -1,0 +1,10 @@
+{
+    "libx.misc.copy_id": "按一下將ID複製到剪貼簿",
+    "libx.misc.copy_modlist": "按一下將模組清單複製到剪貼簿",
+    "libx.misc.copy_nbt": "按一下將NBT標籤複製到剪貼簿",
+    "libx.misc.copy_json": "按一下將JSON複製到剪貼簿",
+    "libx.command.entitydata.modified": "Modified data of %s entities",
+    "libx.command.entitydata.modified_player": "Modified data of %s entities. (Warning: You modified player nbt)",
+    "libx.command.entitydata.player_modify_no_permission": "Only Operators with permission level 4 can modify player NBT.",
+    "libx.command.reload": "Reloading all LibX common configs."
+}

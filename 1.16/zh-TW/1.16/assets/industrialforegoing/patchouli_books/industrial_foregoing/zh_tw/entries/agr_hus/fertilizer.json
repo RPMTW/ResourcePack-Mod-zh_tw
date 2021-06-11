@@ -1,0 +1,13 @@
+{
+  "name": "肥料",
+  "icon": "industrialforegoing:fertilizer",
+  "category": "agriculture_husbandry",
+  "sortnum": 15,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "由 $(l:agr_hus/sewage_composter)Sewage Composter$() 生產的材料，可以像骨粉一樣使用。"
+    }
+  ]
+}

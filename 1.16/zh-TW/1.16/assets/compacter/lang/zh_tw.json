@@ -1,0 +1,13 @@
+{
+    "block.compacter.compacter": "Compacter",
+    "block.compacter.cobbler": "Cobbler",
+    "itemGroup.compacter": "Compacter",
+    "compacter.recurse.enabled": "Recursive compacting enabled",
+    "compacter.recurse.disabled": "Recursive compacting disabled",
+    "compacter.craftmode.two_three": "先嘗試2x2配方",
+    "compacter.craftmode.three_two": "先嘗試3x3配方",
+    "compacter.craftmode.three_only": "Only 3x3 recipes",
+    "compacter.craftmode.two_only": "Only 2x2 recipes",
+    "compacter.craftmode.one_only": "Single Item Mode (1x1)",
+    "compacter.craftmode.hollow": "Hollow Mode (3x3 no center)"
+}

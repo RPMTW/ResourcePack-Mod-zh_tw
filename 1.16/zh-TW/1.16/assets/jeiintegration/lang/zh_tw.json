@@ -1,0 +1,21 @@
+{
+    "_comment": "物品資訊",
+    "config.jeiintegration.tooltips.burnTimeTooltipMode": "顯示物品燃燒時間",
+    "config.jeiintegration.tooltips.durabilityTooltipMode": "顯示物品耐久度",
+    "config.jeiintegration.tooltips.foodTooltipMode": "顯示可補充飢餓／飽食值",
+    "config.jeiintegration.tooltips.maxStackSizeTooltipMode": "顯示物品最大堆疊數",
+    "config.jeiintegration.tooltips.nbtTooltipMode": "顯示物品NBT",
+    "config.jeiintegration.tooltips.registryNameTooltipMode": "顯示註冊名",
+    "config.jeiintegration.tooltips.tagsTooltipMode": "標籤提示文本",
+    "config.jeiintegration.tooltips.translationKeyTooltipMode": "顯示翻譯鍵",
+    "tooltip.jeiintegration.burnTime": "燃燒時間：",
+    "tooltip.jeiintegration.burnTime.suffix": "刻",
+    "tooltip.jeiintegration.durability": "耐久度：",
+    "tooltip.jeiintegration.hunger": "飢餓值：",
+    "tooltip.jeiintegration.saturation": "可補充飽食值：",
+    "tooltip.jeiintegration.maxStackSize": "最大堆疊數量：",
+    "tooltip.jeiintegration.nbtTagData": "NBT：",
+    "tooltip.jeiintegration.registryName": "ID：",
+    "tooltip.jeiintegration.tags": "標籤：",
+    "tooltip.jeiintegration.translationKey": "翻譯鍵："
+}

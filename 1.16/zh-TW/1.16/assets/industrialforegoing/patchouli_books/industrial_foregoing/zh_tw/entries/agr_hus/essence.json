@@ -1,0 +1,13 @@
+{
+  "name": "精華（桶）",
+  "icon": "industrialforegoing:essence_bucket",
+  "category": "agriculture_husbandry",
+  "sortnum": 7,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "產生的流動體驗形式$(l:agr_hus/mob_crusher)怪物粉碎者$() 。"
+    }
+  ]
+}

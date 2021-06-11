@@ -1,0 +1,18 @@
+{
+  "name": "塑膠片",
+  "icon": "industrialforegoing:plastic",
+  "category": "basics",
+  "sortnum": 4,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "合成",
+      "recipe": "industrialforegoing:dryrubber",
+      "text": "A simple crafting material made from $(l:basics/latex)Latex$()."
+    },
+    {
+      "type": "smelting",
+      "recipe": "industrialforegoing:plastic"
+    }
+  ]
+}

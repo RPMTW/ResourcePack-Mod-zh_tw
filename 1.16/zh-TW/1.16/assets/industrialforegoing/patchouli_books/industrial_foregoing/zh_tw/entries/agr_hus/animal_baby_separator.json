@@ -1,0 +1,17 @@
+{
+  "name": "幼仔分管機",
+  "icon": "industrialforegoing:animal_baby_separator",
+  "category": "agriculture_husbandry",
+  "sortnum": 16,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "用於將 $(6)baby$() 動物與成年動物分開的機器。 小動物將被傳送到機器的背面。 您可以更改在 GUI 中移動的生物類型。"
+    },
+    {
+      "type": "合成",
+      "recipe": "industrialforegoing:animal_baby_separator"
+    }
+  ]
+}

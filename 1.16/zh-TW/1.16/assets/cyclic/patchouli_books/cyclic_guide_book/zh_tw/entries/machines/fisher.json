@@ -1,0 +1,15 @@
+{
+  "name": "cyclic:fan",
+  "icon": "cyclic:fisher",
+  "category": "cyclic:machines",
+  "pages": [
+    {
+      "type": "text",
+      "text": "cyclic:machines"
+    },
+    {
+      "type": "crafting",
+      "recipe": "cyclic:fisher"
+    }
+  ]
+}
