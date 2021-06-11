@@ -1,5 +1,5 @@
 files:
   - source: 1.16/assets*
     ignore:
-      - Add-on/1.16
+      - Add-on
     translation: '%original_path%/%file_name%.%file_extension%'
