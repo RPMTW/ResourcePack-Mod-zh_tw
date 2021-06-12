@@ -1,0 +1,21 @@
+{
+  "block.gravestones.gravestone": "墓碑",
+  "text.autoconfig.gravestones.title": "墓碑 設置",
+  "text.autoconfig.gravestones.option.mainSettings": "主要設定",
+  "text.autoconfig.gravestones.option.mainSettings.enableGraves": "啟用墓碑",
+  "text.autoconfig.gravestones.option.mainSettings.enableGraves.@Tooltip": "Enable gravestone mod functionality",
+  "text.autoconfig.gravestones.option.mainSettings.enableGraveLooting": "Enable Gravestone Looting",
+  "text.autoconfig.gravestones.option.mainSettings.enableGraveLooting.@Tooltip": "Whether other players should be able to retrieve a player's gravestone.",
+  "text.autoconfig.gravestones.option.mainSettings.sendGraveCoordinates": "Send Gravestone Coordinates",
+  "text.autoconfig.gravestones.option.mainSettings.sendGraveCoordinates.@Tooltip": "Whether the player should be sent the coordinates of their gravestone upon death.",
+  "text.gravestones.grave_coordinates": "您的墓碑已在 [x： %d， y： %d， z： %d ]",
+  "text.autoconfig.gravestones.option.mainSettings.minimumOpLevelToLoot": "Minimum bypass OP Level",
+  "text.autoconfig.gravestones.option.mainSettings.minimumOpLevelToLoot.@Tooltip": "The minumum OP level a player has to be to bypass gravestone world protection",
+  "text.autoconfig.gravestones.option.mainSettings.retrievalType": "Gravestone Retrieval Type",
+  "text.autoconfig.gravestones.option.mainSettings.retrievalType.@Tooltip": "How the items from a gravestone are retrieved.",
+  "text.autoconfig.gravestones.option.mainSettings.dropType": "Gravestone Drop Type",
+  "text.autoconfig.gravestones.option.mainSettings.dropType.@Tooltip": "What happens to the items when they are retrieved",
+  "text.autoconfig.gravestones.option.mainSettings.xpPercentage": "Percent XP to keep",
+  "text.autoconfig.gravestones.option.mainSettings.xpPercentage.@Tooltip": "Percentage of experience which will be kept on death"
+}
+
