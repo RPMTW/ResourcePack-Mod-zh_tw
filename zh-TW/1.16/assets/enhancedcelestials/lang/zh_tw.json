@@ -1,0 +1,12 @@
+{
+    "enhancedcelestials.commands.failed": "無法設定月象事件：%s",
+    "enhancedcelestials.commands.failed.requiresnight": "將時間設置為黃昏或夜晚（白天的時間值在 12000 到 24000 之間）以便使用此命令。 當前時間是 %s",
+    "enhancedcelestials.commands.success.blood_moon": "設置月象事件為 血色的\"紅月\"",
+    "enhancedcelestials.commands.success.default": "設置月象事件為 \"普通\"",
+    "enhancedcelestials.commands.success.harvest_moon": "設置月象事件為 豐饒的\"黃月\"",
+    "enhancedcelestials.notification.blood_moon.rise": "血色的 \"紅月\" 正在升起......",
+    "enhancedcelestials.notification.blood_moon.set": "血色的 \"紅月\" 準備中......",
+    "enhancedcelestials.notification.harvest_moon.rise": "豐饒的 \"黃月\" 正在升起......",
+    "enhancedcelestials.notification.harvest_moon.set": "豐饒的 \"黃月\" 準備中......",
+    "enhancedcelestials.sleep.fail.blood_moon": "你現在可能無法休息，現在處於 \"紅月\" 當中。"
+}

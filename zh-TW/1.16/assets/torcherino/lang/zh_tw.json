@@ -1,0 +1,21 @@
+{
+  "block.torcherino.torcherino": "加速火把",
+  "block.torcherino.compressed_torcherino": "壓縮加速火把",
+  "block.torcherino.double_compressed_torcherino": "雙重壓縮加速火把",
+  "block.torcherino.lanterino": "加速南瓜燈",
+  "block.torcherino.compressed_lanterino": "壓縮加速南瓜燈",
+  "block.torcherino.double_compressed_lanterino": "雙重壓縮加速南瓜燈",
+  "block.torcherino.lantern": "加速燈籠",
+  "block.torcherino.compressed_lantern": "壓縮加速燈籠",
+  "block.torcherino.double_compressed_lantern": "雙重壓縮加速燈籠",
+  "gui.torcherino.speed": "速度: %s%%",
+  "gui.torcherino.x_range": "X 範圍: %s 格方塊",
+  "gui.torcherino.z_range": "Z 範圍: %s 格方塊",
+  "gui.torcherino.y_range": "Y 範圍: %s 格方塊",
+  "gui.torcherino.mode": "模式: %s",
+  "gui.torcherino.mode.normal": "紅石正常",
+  "gui.torcherino.mode.inverted": "紅石反相",
+  "gui.torcherino.mode.ignored": "紅石忽略",
+  "gui.torcherino.mode.off": "關"
+}
+

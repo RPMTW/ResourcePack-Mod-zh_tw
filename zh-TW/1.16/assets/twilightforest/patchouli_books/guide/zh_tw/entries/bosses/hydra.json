@@ -1,0 +1,18 @@
+{
+  "name": "九頭蛇",
+  "icon": "twilightforest:hydra_trophy",
+  "category": "bosses",
+  "advancement": "twilightforest:alt/entities/hydra",
+  "sortnum": 5110,
+  "pages": [
+    {
+      "type": "entity",
+      "entity": "twilightforest:hydra",
+      "text": "九頭蛇萬歲"
+    },
+    {
+      "type": "text",
+      "text": "九頭蛇是燃燒沼澤的巨大怪獸, 牠具有堅韌的表皮, 而且每個頭都有自己的思想及攻擊方式。 任何事都沒辦法阻止其接連不斷的噴射火焰、爆破火球, 還有致命的咬擊, 牠的頭甚至還有再生能力。"
+    }
+  ]
+}

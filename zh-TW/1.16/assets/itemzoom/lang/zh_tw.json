@@ -1,0 +1,20 @@
+{
+    "_comment": "設置",
+    "key.itemzoom.toggle": "切換物品聚焦放大",
+    "key.itemzoom.hold": "按住顯示",
+    "key.itemzoom.zoom.in": "放大",
+    "key.itemzoom.zoom.out": "縮小",
+    "config.itemzoom.title": "%MODNAME 設置",
+    "config.itemzoom.toggle.enabled": "切換物品聚焦放大",
+    "config.itemzoom.toggle.enabled.comment": "如果設為\"false\"，物品聚焦放大將會被停用。",
+    "config.itemzoom.zoom.amount": "縮放量",
+    "config.itemzoom.zoom.amount.comment": "將數值設小一點將使物品縮放幅度變小",
+    "config.itemzoom.jei.only": "僅JEI Overlay",
+    "config.itemzoom.jei.only.comment": "僅在帶有配料列表的JEI Overlay中聚焦放大物品",
+    "config.itemzoom.show.help.text": "顯示幫助文字\n",
+    "config.itemzoom.show.help.text.comment": "在被聚焦放大的物品下顯示名稱 \"Item Zoom\" 和快捷鍵來切換是否使用這個模組。",
+    "config.itemzoom.show.damage.bar": "顯示耐久度條",
+    "config.itemzoom.show.damage.bar.comment": "在聚焦放大使用時顯示物品的耐久度條",
+    "config.itemzoom.show.stack.size": "顯示堆疊大小\n",
+    "config.itemzoom.show.stack.size.comment": "在聚焦放大使用時顯示物品的堆疊大小"
+}
