@@ -25,7 +25,7 @@
     "power.origins.aqua_affinity.description": "您可以破壞塊水下的方塊，像陸地上的其他人一樣。",
     "power.origins.water_vision.name": "水下視力",
     "power.origins.water_vision.description": "您的水下視力是完美的。",
-    "power.origins.swim_speed.name": "Fins",
+    "power.origins.swim_speed.name": "鰭",
     "power.origins.swim_speed.description": "您的水下速度提高了。",
     "power.origins.like_water.name": "像水",
     "power.origins.like_water.description": "在水下時，除非您想，否則不會向下沉。",
@@ -149,6 +149,6 @@
     "commands.origin.origin_not_found": "未知的起源: %s",
     "commands.origin.set.success.single": "設置%s在%s層中的起源為%s.",
     "commands.origin.set.success.multiple": "設置%s個目標在%s層中的起源為%s.",
-    "commands.origin.get.result": "%s has the following %s: %s (%s)",
+    "commands.origin.get.result": "%s 有以下 %s: %s (%s)",
     "origins.avian_sleep_fail": "你需要新鮮的空氣才能入睡"
 }
