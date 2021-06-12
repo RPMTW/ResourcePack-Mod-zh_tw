@@ -1,9 +1,0 @@
-{
-    "impersonate:commands.disguise.clear.success.other": "%s stopped impersonating %s",
-    "impersonate:commands.disguise.clear.success.self": "Stopped impersonating %s",
-    "impersonate:commands.disguise.start.success.other": "%s started impersonating %s",
-    "impersonate:commands.disguise.start.success.self": "Started impersonating %s",
-    "gamerule.impersonate:fakeCapes": "Copy impersonated players' capes",
-    "gamerule.impersonate:logRevealImpersonations": "Reveal ongoing impersonations in server logs",
-    "gamerule.impersonate:opRevealImpersonations": "Reveal ongoing impersonations to operators"
-}
