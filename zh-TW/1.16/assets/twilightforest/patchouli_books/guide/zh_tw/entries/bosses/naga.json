@@ -1,0 +1,14 @@
+{
+  "name": "納迦",
+  "icon": "twilightforest:naga_trophy",
+  "category": "bosses",
+  "advancement": "twilightforest:alt/entities/naga",
+  "sortnum": 3010,
+  "pages": [
+    {
+      "type": "entity",
+      "entity": "twilightforest:naga",
+      "text": "牠是條有著類似人臉的巨大綠色蛇形生物，其鱗片隱約散發出奇妙的異樣色彩。"
+    }
+  ]
+}
