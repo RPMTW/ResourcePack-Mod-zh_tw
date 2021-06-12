@@ -1,0 +1,18 @@
+{
+    "itemGroup.backpackmod.group": "背包模組",
+    "item.backpackmod.leather_backpack": "皮製背包",
+    "item.backpackmod.iron_backpack": "鐵製背包",
+    "item.backpackmod.gold_backpack": "金製背包",
+    "item.backpackmod.diamond_backpack": "鑽石背包",
+    "item.backpackmod.netherite_backpack": "獄髓背包",
+    "item.backpackmod.ender_backpack": "終界使者背包",
+    "backpackmod.tooltip.size": "容量: %sx%s (%s) 格",
+    "backpackmod.screen.title.rename": "命名背包",
+    "backpackmod.screen.button.default.name": "重置名稱",
+    "backpackmod.screen.button.rename": "重新命名",
+    "backpackmod.screen.rename.max.length": "最大字數 : %s",
+    "backpackmod.tooltip.how.to.rename": "潛行 + 右鍵以重新命名",
+    "backpackmod.screen.button.close": "關閉",
+    "category.backpackmod.backpack": "背包模組",
+    "key.backpackmod.open": "打開背包"
+}
