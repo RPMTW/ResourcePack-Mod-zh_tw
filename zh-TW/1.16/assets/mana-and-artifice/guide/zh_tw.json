@@ -1,0 +1,7706 @@
+{
+	"Using  this Codex": {
+		"category": "basics",
+		"index": -100,
+		"sections": [
+			{
+				"type": "title",
+				"value": "如何使用這本古籍?"
+			},
+			{
+				"type": "image",
+				"location": "mana-and-artifice:textures/guide/pagination.png",
+				"width": 106,
+				"height": 42
+			},
+			{
+				"type": "title",
+				"value": "頁面"
+			},
+			{
+				"type": "text",
+				"value": "查看條目時，分頁按鈕會顯示在頁面底部（如果有上一頁或下一頁的話）。"
+			},
+			{
+				"type": "text",
+				"value": "此書有著這模組的指南。它包含每一個秘方，機械，零件，以及如何製造它們。\n\n它旨在與奧秘之眼配對，奧秘之眼是一個方塊，向您顯示現行層級中已解除鎖定的內容，並告訴您需要進行哪些操作才能進行升級。用它作為您解鎖“階段”的指南，本書作為“方法”的指南。\n\n古籍只會顯示您在現行層級中已解除鎖定的項目。"
+			},
+			{
+				"type": "image",
+				"location": "mana-and-artifice:textures/guide/back_button.png",
+				"width": 50,
+				"height": 84,
+				"newPage": true
+			},
+			{
+				"type": "title",
+				"value": "返回類別索引"
+			},
+			{
+				"type": "text",
+				"value": "檢視項目時，按一下「上一頁」按鈕，來回到種類索引頁面。"
+			},
+			{
+				"type": "image",
+				"location": "mana-and-artifice:textures/guide/category_buttons.png",
+				"width": 67,
+				"height": 41,
+				"newPage": true
+			},
+			{
+				"type": "title",
+				"value": "類別"
+			},
+			{
+				"type": "text",
+				"value": "此古籍細分為類別。它們會以綠色標籤顯示在側邊，並代表 mod 內的各種邏輯區域。按一下種類，以檢視其中的項目。"
+			},
+			{
+				"type": "image",
+				"location": "mana-and-artifice:textures/guide/search.png",
+				"width": 41,
+				"height": 62,
+				"newPage": true
+			},
+			{
+				"type": "title",
+				"value": "搜尋"
+			},
+			{
+				"type": "text",
+				"value": "按一下書籍底端的搜尋標籤，來啟動搜尋視窗。輸入您要尋找的項目，並按一下您要跳至其中的結果。"
+			},
+			{
+				"type": "image",
+				"location": "mana-and-artifice:textures/guide/back_behaviour.png",
+				"width": 42,
+				"height": 59,
+				"newPage": true
+			},
+			{
+				"type": "title",
+				"value": "返回操作設定"
+			},
+			{
+				"type": "text",
+				"value": "按一下底端的返回操作標籤，來改變古籍導覽時回上一頁的方式。 支援變更為ESC、滑鼠右鍵和UI按鈕的組合。"
+			},
+			{
+				"type": "image",
+				"location": "mana-and-artifice:textures/guide/recipe_buttons.png",
+				"width": 67,
+				"height": 42,
+				"newPage": true
+			},
+			{
+				"type": "title",
+				"value": "合成表"
+			},
+			{
+				"type": "text",
+				"value": "當檢視古籍項目時，您通常會看到釘選在頁面右側的標籤。 按一下這些標籤，以查看如何製作指定的項目。"
+			},
+			{
+				"type": "image",
+				"location": "mana-and-artifice:textures/guide/pin_recipe.png",
+				"width": 33,
+				"height": 38,
+				"newPage": true
+			},
+			{
+				"type": "title",
+				"value": "固定製作表"
+			},
+			{
+				"type": "text",
+				"value": "在您查看製作表時，左上角會有一個圖釘符號，點擊它，可以將表釘選在旁邊，即使把古典關閉也還是會顯示。再次點擊可以取消釘選，或是按物品欄裡的紅色圖釘符號"
+			}
+		],
+		"related_recipes": [
+			{
+				"location": "mana-and-artifice:occulus",
+				"type": "合成"
+			}
+		]
+	},
+	"The HUD": {
+		"category": "basics",
+		"index": -99,
+		"sections": [
+			{
+				"type": "title",
+				"value": "HUD"
+			},
+			{
+				"type": "title",
+				"value": "HUD 顯示選項"
+			},
+			{
+				"type": "text",
+				"value": "點擊底部的HUD標籤，可以變更HUD的顯示方式，有一直顯示、有條件顯示（當消耗魔法時）及不顯示\n\n假如你沒看見HUD，表示你可能已經變更過設定"
+			},
+			{
+				"type": "image",
+				"location": "mana-and-artifice:textures/guide/hud_options.png",
+				"width": 41,
+				"height": 62
+			},
+			{
+				"type": "title",
+				"value": "HUD 位置選項",
+				"newPage": true
+			},
+			{
+				"type": "text",
+				"value": "點擊HUD位置標籤，來變更HUD顯示位置"
+			},
+			{
+				"type": "image",
+				"location": "mana-and-artifice:textures/guide/hud_position.png",
+				"width": 41,
+				"height": 62
+			},
+			{
+				"type": "text",
+				"value": "假如你在魔力條旁看見一個紅色閃電，這表示你的物品欄中有一個充電不足的物品",
+				"newPage": true
+			},
+			{
+				"type": "image",
+				"location": "mana-and-artifice:textures/guide/low_charge.png",
+				"width": 29,
+				"height": 36,
+				"newPage": true
+			}
+		],
+		"related_recipes": []
+	},
+	"Manaweaving How-To": {
+		"category": "manaweaving",
+		"index": -3,
+		"sections": [
+			{
+				"type": "title",
+				"value": "什麼是織魔?"
+			},
+			{
+				"type": "text",
+				"value": "織魔是將自己的魔法注入創作的過程。咒語、儀式、符文等等都可以利用它。"
+			},
+			{
+				"type": "text",
+				"value": "要做到這一點，首先製作一個織魔者之杖。"
+			},
+			{
+				"type": "物品",
+				"location": "mana-and-artifice:manaweaver_wand",
+				"scale": 1
+			},
+			{
+				"type": "text",
+				"value": "接著，握住你手上的魔杖並開始使用它（按住滑鼠右鍵）。  然後，在空氣中畫出形狀。 "
+			},
+			{
+				"type": "image",
+				"location": "mana-and-artifice:textures/guide/manaweaving.png",
+				"width": 128,
+				"height": 128
+			},
+			{
+				"type": "text",
+				"value": "所需濃度會很快消耗你的法力。但不要緊張，以免你出錯：錯誤會使你功虧一貴。\n\n一些法師聲稱在使用操縱桿時聽到了鐘聲。雖然沒有證實，但這種情況將表明魔杖正在發揮作用。\n\n也有那些不能或不願意在空氣中繪製形狀的人。為此，開發了織魔放映機。把它放在地上，它會吸收你的法力（或附近的其他人）。啟動后，它將投影幾秒你所設置的模式。"
+			},
+			{
+				"type": "image",
+				"location": "mana-and-artifice:textures/guide/manaweave_projector.png",
+				"width": 128,
+				"height": 128
+			}
+		],
+		"related_recipes": [
+			{
+				"location": "mana-and-artifice:manaweaver_wand",
+				"type": "合成"
+			},
+			{
+				"type": "合成",
+				"location": "mana-and-artifice:improvised_manaweaver_wand"
+			},
+			{
+				"location": "mana-and-artifice:manaweaving_altar",
+				"type": "合成"
+			},
+			{
+				"location": "mana-and-artifice:manaweave_projector",
+				"type": "合成"
+			}
+		]
+	},
+	"Automating Manaweaving": {
+		"category": "manaweaving",
+		"index": -2,
+		"sections": [
+			{
+				"type": "title",
+				"value": "自動化織魔"
+			},
+			{
+				"type": "text",
+				"value": "織魔自動化是由在瓶中織魔完成的。您可以按一下滑鼠右鍵來擷取瓶子中的任何已繪製或投射的織魔圖樣。 你可以把它像藥水或雪球一樣扔出去，它會產生在地上。 您也可以繪製/投射織魔圖樣並放入基座上的瓶子中。\n\n自動化某件事來放置/移除瓶子並啟動由一個或多個 魔力晶體所充電的放映器將是自動化這件事的好方法。"
+			}
+		],
+		"related_recipes": [
+			{
+				"location": "mana-and-artifice:manaweaver_wand",
+				"type": "合成"
+			},
+			{
+				"location": "mana-and-artifice:manaweave_projector",
+				"type": "合成"
+			},
+			{
+				"type": "合成",
+				"location": "mana-and-artifice:runeforging/stone_pedestal"
+			},
+			{
+				"type": "合成",
+				"location": "minecraft:glass_bottle"
+			}
+		]
+	},
+	"Rote Spells": {
+		"category": "sorcery",
+		"index": -91,
+		"tier": 2,
+		"sections": [
+			{
+				"type": "title",
+				"value": "熟記法術"
+			},
+			{
+				"type": "text",
+				"value": "你施展法術時，你開始更了解它們的特性和它們的工作原理。 您可以在奧秘之眼中查看每個單獨法術部分（形狀、組件和修飾）的熟練進度。\n\n這些部分以不同的速度獲得經驗。 一旦熟練它們，你就可以在一本熟練書中使用它們來製作具有單一形狀和多個組件的法術。\n\n您通過熟練學習的修飾始終可以在熟練法術中使用，使您能夠製作具有比通常使用銘文台更多的組件和修飾的法術。\n\n在熟練中製作法術時沒有製作過程或材料成本，因為它代表了您對法術的記憶。 您只需製作當時需要的法術即可。"
+			}
+		],
+		"related_recipes": [
+			{
+				"location": "mana-and-artifice:manaweaving/sorcery/book_of_rote",
+				"type": "manaweaving_altar"
+			}
+		]
+	},
+	"Manaweaver Villagers": {
+		"category": "basics",
+		"index": -9999,
+		"sections": [
+			{
+				"type": "title",
+				"value": "織魔師村民"
+			},
+			{
+				"type": "text",
+				"value": "這些村民會出售一些織魔圖紙或織魔者之杖 (圖紙用於改變 織魔放映機 上的圖案)。 織魔者的工作方塊是織魔祭壇。 您可以在村莊中找到他們，或用工作方塊使一般村民轉職，就像其他職業一樣。"
+			}
+		],
+		"related_recipes": []
+	},
+	"Ritualist Villagers": {
+		"category": "basics",
+		"index": -9999,
+		"sections": [
+			{
+				"type": "title",
+				"value": "祭司村民"
+			},
+			{
+				"type": "text",
+				"value": "這些村民出售所需的符文配方碎片，以幫助您在符文台中引導您或為魔偶設置刻字任務。儀式師的工作塊是符文台。您可以在村莊中自然地找到他們，也可以按照原版使用工作塊來創建它們。 "
+			}
+		],
+		"related_recipes": []
+	},
+	"Occulus": {
+		"category": "basics",
+		"index": -99,
+		"sections": [
+			{
+				"type": "title",
+				"value": "奧秘之眼"
+			},
+			{
+				"type": "text",
+				"value": "奧秘之眼是一個方塊，將有助於引導你和這本書遊玩這個模組。它會向您展示您需要做什麼才能解鎖模組中的新事物，以及您當前解鎖的內容。\n\n想瞭解進度，請按進度標籤。"
+			}
+		],
+		"related_recipes": [
+			{
+				"location": "mana-and-artifice:occulus",
+				"type": "合成"
+			}
+		]
+	},
+	"Runeforge": {
+		"category": "basics",
+		"index": -99,
+		"sections": [
+			{
+				"type": "title",
+				"value": "符文鍛爐"
+			},
+			{
+				"type": "text",
+				"value": "符文熔爐是一個魔法熔爐，它依靠空氣中的環境魔法運轉。 它不需要額外的燃料源。 它有一些自己的食譜，但也會用一半的時間做篝火食譜，兩倍的時間做爐子的食譜，兩倍的時間做高爐的食譜。\n\n它一次最多接受 16 個項目，但總烹飪時間乘以其中的項目數量。"
+			},
+			{
+				"type": "text",
+				"value": "升級後，您將解鎖符文熔爐的升級，速度提升和礦石翻倍。"
+			}
+		],
+		"related_recipes": [
+			{
+				"location": "mana-and-artifice:runeforge",
+				"type": "合成"
+			}
+		]
+	},
+	"Runeforge Upgrade: Brimstone Forge": {
+		"category": "artifice",
+		"index": -99,
+		"tier": 4,
+		"sections": [
+			{
+				"type": "title",
+				"value": "符文熔爐升級：硫磺熔爐"
+			},
+			{
+				"type": "text",
+				"value": "硫磺熔爐是符文熔爐的升級版，極大地提高了熔煉速度。 通過製作硫磺飾品並右鍵單擊熔爐來升級熔爐。"
+			}
+		],
+		"related_recipes": [
+			{
+				"location": "mana-and-artifice:manaweaving/artifice/brimstone_charm",
+				"type": "manaweaving_altar"
+			}
+		]
+	},
+	"Runeforge Upgrade: Chimerite Crystals": {
+		"category": "artifice",
+		"index": -99,
+		"tier": 2,
+		"sections": [
+			{
+				"type": "title",
+				"value": "符文熔爐升級：秘鳴晶體"
+			},
+			{
+				"type": "text",
+				"value": "通過將基座放置在符文熔爐或硫磺熔爐的附近，上面有秘鳴晶體，可以​​稍微改變它的效果。\n\n如果有兩個紅色、黃色或橙色晶體，它們將產生礦石加倍效果。未來可能會有更多。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "合成",
+				"location": "mana-and-artifice:runeforging/stone_pedestal"
+			},
+			{
+				"type": "合成",
+				"locations": [
+					"mana-and-artifice:chimerite_crystals/crystal_orange",
+					"mana-and-artifice:chimerite_crystals/crystal_red",
+					"mana-and-artifice:chimerite_crystals/crystal_yellow"
+				]
+			}
+		]
+	},
+	"Bone Ash": {
+		"category": "basics",
+		"index": -98,
+		"sections": [
+			{
+				"type": "title",
+				"value": "骨灰"
+			},
+			{
+				"type": "text",
+				"value": "符文熔爐的熱量能夠將骨頭分解成細小的灰燼。 我應該能夠將這種灰燼用於多種神奇的目的。"
+			}
+		],
+		"related_recipes": [
+			{
+				"location": "mana-and-artifice:arcanefurnace/bone_ash",
+				"type": "arcane_furnace"
+			}
+		]
+	},
+	"Commands": {
+		"category": "basics",
+		"index": 999,
+		"sections": [
+			{
+				"type": "title",
+				"value": "指令"
+			},
+			{
+				"type": "text",
+				"value": "這個模組包含幾個命令，版主可以用來幫助服務器上的人，或者在創造模式下進行測試。"
+			},
+			{
+				"type": "text",
+				"value": "/setMagicLevel [0-75] <player>\n設置玩家的魔法等級和最大法力值。"
+			},
+			{
+				"type": "text",
+				"value": "/setFaction [faction_id] <player>\n設置玩家的派系。 出於某種原因，這不會在伺服器上自動完成因為Forge，但有效的派係是：NONE、DEMONS、FEY_COURT、ANCIENT_WIZARDS"
+			},
+			{
+				"type": "text",
+				"value": "/completeProgression <player>\n為當前等級的玩家完成了所有 oculus 任務（這基本上啟用了進度儀式）。"
+			},
+			{
+				"type": "text",
+				"value": "/setTier [1-5] <player>\n設置玩家等級，包括他們可以訪問的食譜。"
+			},
+			{
+				"type": "text",
+				"value": "/makeRote [part_id] <player>\n為給定的玩家製作一個法術部分，使其可以在死記硬背書中使用。 \n由於偽造，此命令自動完成在服務器上不起作用。"
+			}
+		],
+		"related_recipes": []
+	},
+	"Vinteum": {
+		"category": "basics",
+		"index": -2,
+		"sections": [
+			{
+				"type": "title",
+				"value": "溫泰姆"
+			},
+			{
+				"type": "text",
+				"value": "我不確定是什麼導致這種看似融合的奧術能量聚集在地下的某些石頭中。"
+			},
+			{
+				"type": "物品",
+				"location": "mana-and-artifice:vinteum_ore",
+				"scale": 1
+			},
+			{
+				"type": "text",
+				"value": "我確實知道我可以將礦石通過熔爐將其變成細粉。 我相信這種東西有很多用途。"
+			},
+			{
+				"type": "image",
+				"location": "mana-and-artifice:textures/guide/vinteum_smelt.png",
+				"width": 128,
+				"height": 64
+			}
+		],
+		"related_recipes": []
+	},
+	"Chimerite": {
+		"category": "basics",
+		"index": -2,
+		"sections": [
+			{
+				"type": "title",
+				"value": "秘鳴石"
+			},
+			{
+				"type": "text",
+				"value": "我不敢相信它一直在我的眼皮底下——一種隱藏的魔法礦石，我在開採其他有價值的礦石時誤認為是多餘的岩石！之所以稱它為秘鳴石，是因為它看起來就像一般的石頭，直到經過魔力覺察才能發現它地的存在。\n\n在綠寶石中最容易找到，這與綠寶石本身的結構有關。大多數法師僅需一點點魔法經驗就能感知到這些，可能至少是5級。\n\n接下來是鑽石。雖然不像綠寶石那麼容易，但 10 級以上的法師可以在這裡找到秘鳴石。\n\n最後是煤炭。 秘鳴石在技術上存在於微量元素中，但需要經過精細調整的魔法頭腦才能拾取足夠大的痕跡以供使用。我會說沒有20級以下的法師會看到它。\n\n在這一點上，我應該注意到秘鳴石也經常作為採礦過程的一部分被破壞，並且並非每次都可以從每次採礦嘗試中取回。綠寶石似乎在這裡的成功率最高，其次是鑽石，然後是煤炭。"
+			}
+		],
+		"related_recipes": []
+	},
+	"Factions": {
+		"category": "basics",
+		"index": -96,
+		"sections": [
+			{
+				"type": "title",
+				"value": "派系"
+			},
+			{
+				"type": "text",
+				"value": "在您穿越奧術世界的旅程中的某個時刻，您需要選擇一個派系。 這是作為一系列儀式的選擇來完成的。\n\n做出明智的選擇。\n\n您的陣營一旦被選中，便無法更改。"
+			},
+			{
+				"type": "text",
+				"value": "當你選擇一個派係時，你就會從其他派系中製造敵人。 他們的怪物會在適當的情況下在世界各地自然生成，它們將對您產生敵意。 但是，如果您的派系的怪物看到您遇到麻煩，他們會幫助您。"
+			},
+			{
+				"type": "text",
+				"value": "您的派系使您可以訪問每個派系特有的獨特遺物和法術部分。奧秘之眼通過在他們的徽章上放一個代表你的派系的徽章來顯示這些項目。 您無法製作其他派系的法術和神器，但是您可以通過在達到第 3 層後進行鐵鐘儀式或在多人遊戲中與其他巫師進行交易來交換它們。"
+			},
+			{
+				"type": "text",
+				"value": "但是，請謹慎使用。 使用其他派系的法術和遺物可能會導致他們襲擊您，這涉及他們派遣非常強大的刺客追捕您。 這些刺客比他們自然生成的對手擁有更強大的能力，因此將擁有更強大的能力。 他們也會從與你的戰鬥中學習，隨著時間的推移會變得更加困難。 但是，如果他們設法殺死您，則戰鬥將變得更加容易。"
+			},
+			{
+				"type": "text",
+				"value": "派系及其總體感覺如下所述。"
+			},
+			{
+				"type": "title",
+				"value": "下界惡魔",
+				"newPage": true
+			},
+			{
+				"type": "text",
+				"value": "下界惡魔專注於全面進攻。 他們的遺物包括諸如地獄火法杖之類的物品，它可以為附著在它上面的火法術提供能量，燼明手鐲可以保護你免受火焰的傷害並使你的攻擊點燃敵人，以及諸如爆炸和燒灼之類的法術組件。 查看奧秘之眼時，任何需要惡魔派系的東西都將標有以下圖標："
+			},
+			{
+				"type": "image",
+				"location": "mana-and-artifice:textures/guide/faction_icon_demons.png",
+				"width": 16,
+				"height": 16
+			},
+			{
+				"type": "title",
+				"value": "仙女之庭",
+				"newPage": true
+			},
+			{
+				"type": "text",
+				"value": "仙女之庭專注於謊言和詭計。 他們的遺物包括光譜鞘翅之類的物品，它是一種使用法力飛行的附魔鞘翅，詭計手鐲，它使您在潛行時隱形並使您的目標飛起來，以及誘餌和治療之類的法術組件。 查看奧秘之眼時，任何需要仙女之庭派系的東西都將標有以下圖標："
+			},
+			{
+				"type": "image",
+				"location": "mana-and-artifice:textures/guide/faction_icon_fey.png",
+				"width": 16,
+				"height": 16
+			},
+			{
+				"type": "title",
+				"value": "古代巫師議會",
+				"newPage": true
+			},
+			{
+				"type": "text",
+				"value": "古代巫師委員會專注於防禦和法力操縱。 他們的遺物包括諸如為您提供額外法力並可以自動消除有害效果的奧術王冠、使您在施法時吸收附近的法力能量以減少法力消耗的魔網手鍊以及諸如護盾和法力之類的法術組件等物品 轉移。 查看奧秘之眼時，任何需要議會派系的東西都將標有以下圖標："
+			},
+			{
+				"type": "image",
+				"location": "mana-and-artifice:textures/guide/faction_icon_council.png",
+				"width": 16,
+				"height": 16
+			},
+			{
+				"type": "text",
+				"value": "（開發人員注意：以下功能尚未實施）您將通過這樣做獲得您所在派系的聲望，並將解鎖額外的交易和資源。",
+				"newPage": true
+			}
+		],
+		"related_recipes": []
+	},
+	"Flowers": {
+		"category": "basics",
+		"index": 0,
+		"sections": [
+			{
+				"type": "title",
+				"value": "花"
+			},
+			{
+				"type": "text",
+				"value": "為了最大限度地利用魔法，我需要一些世界各地生長的花朵。 這些花通常用作試劑或成分，因此我應該注意在哪裡可以找到它們。"
+			},
+			{
+				"type": "title",
+				"value": "根愈蘭",
+				"newPage": true
+			},
+			{
+				"type": "物品",
+				"location": "mana-and-artifice:aum",
+				"scale": 1
+			},
+			{
+				"type": "text",
+				"value": "有時被稱為“生命的百合花”，奧姆真理教花可以在森林和平原中找到。 儘管它們的味道極苦，但它們經常用於治療和恢復性努力。"
+			},
+			{
+				"type": "title",
+				"value": "奧藍堇",
+				"newPage": true
+			},
+			{
+				"type": "物品",
+				"location": "mana-and-artifice:cerublossom",
+				"scale": 1
+			},
+			{
+				"type": "text",
+				"value": "一種極其常見的花，奧藍堇往往一眼就被誤認為是藍色的蘭花。 然而，在仔細檢查時，它們確實有明顯的閃光。 它們可以在森林、平原和冬天的地方找到。奧藍堇被用於各種神奇的食譜。 據說它們可以發出只有幼兒才能聽到的舒緩的嗡嗡聲。"
+			},
+			{
+				"type": "title",
+				"value": "塔瑪根",
+				"newPage": true
+			},
+			{
+				"type": "物品",
+				"location": "mana-and-artifice:tarma_root",
+				"scale": 1
+			},
+			{
+				"type": "text",
+				"value": "塔瑪根在沼澤中大量生長。 它們鋒利的刺使它們難以採摘，幾乎無法進食。 這些根在風中搖擺的方式導致了關於它們賦予飛行能力的故事。 然而，這從未實現過，人們普遍認為這只不過是一個傳說。"
+			},
+			{
+				"type": "title",
+				"value": "沙漠新星",
+				"newPage": true
+			},
+			{
+				"type": "物品",
+				"location": "mana-and-artifice:desert_nova",
+				"scale": 1
+			},
+			{
+				"type": "text",
+				"value": "顧名思義，沙漠新星生長在沙地。 即使在最寒冷的沙漠之夜，它們摸起來也很暖和，許多人用它們來取暖，把一些放在口袋裡。"
+			},
+			{
+				"type": "title",
+				"value": "覺蘇蓮",
+				"newPage": true
+			},
+			{
+				"type": "物品",
+				"location": "mana-and-artifice:wakebloom",
+				"scale": 1
+			},
+			{
+				"type": "text",
+				"value": "覺蘇蓮在水中茁壯成長，沿著海底和河床生長成小種子，然後漂浮到水面並以美麗的方式開花。 即使在收穫時，它們也會隨身攜帶大量的水。"
+			}
+		],
+		"related_recipes": [
+			{
+				"location": "mana-and-artifice:tarma_root_to_brown_dye",
+				"type": "合成"
+			}
+		]
+	},
+	"Enemy: Spellbreaker": {
+		"category": "basics",
+		"index": 1,
+		"tier": 3,
+		"sections": [
+			{
+				"type": "title",
+				"value": "敵人：法術破壞者"
+			},
+			{
+				"type": "text",
+				"value": "破法者是巫師委員會的一名士兵。 他們有一個彈性護盾，可以反射某些類型的法術，並可以發出戰鬥吶喊，使附近的盟友在短時間內快速癒合，並在適度的時間內減少受到的傷害並造成更多的傷害。"
+			}
+		],
+		"related_recipes": []
+	},
+	"Enemy: Witch Hunter": {
+		"category": "basics",
+		"index": 1,
+		"tier": 3,
+		"sections": [
+			{
+				"type": "title",
+				"value": "敵人：女巫獵人"
+			},
+			{
+				"type": "text",
+				"value": "女巫獵人是巫師委員會的一名士兵。 他們接受過敏捷訓練，使他們能夠嘗試躲避某些攻擊，並且是專家射手。 他們使用他們的弩來產生致命的效果並攜帶可以減緩那些不幸陷入飛濺效果的人的移動或法力再生的藥水。"
+			}
+		],
+		"related_recipes": []
+	},
+	"Enemy: Mushroom Soldier": {
+		"category": "basics",
+		"index": 2,
+		"tier": 3,
+		"sections": [
+			{
+				"type": "title",
+				"value": "敵人：蘑菇士兵"
+			},
+			{
+				"type": "text",
+				"value": "蘑菇兵是仙女之庭的士兵之一。 他們的長矛敏捷而熟練，能夠用它將敵人拋向空中。 這通常可以與附近的小精靈組合，使它們變得更加危險。"
+			}
+		],
+		"related_recipes": []
+	},
+	"Enemy: Pixie": {
+		"category": "basics",
+		"index": 2,
+		"tier": 3,
+		"sections": [
+			{
+				"type": "title",
+				"value": "敵人：小精靈"
+			},
+			{
+				"type": "text",
+				"value": "小精靈是仙女之庭的一名士兵。 它們可以使用四種元素親和力中的一種生成，並且每一種都會用元素弩箭進行攻擊。\n\n火焰精靈可以熔化裝備的盔甲，熱量使受影響的人的攻擊傷害降低。\n\n流水精靈會因霜凍而減速，或將您拉入水下。\n\n空氣精靈可以把你扔到空中。\n\n大地精靈可以對你造成物理傷害，如果你在空中，可以把你拉到地球上。\n\n精靈本身不是個麻煩事，但一群可能會構成嚴重的威脅，尤其是當他們有蘑菇士兵作為前線時。"
+			}
+		],
+		"related_recipes": []
+	},
+	"Enemy: Imp": {
+		"category": "basics",
+		"index": 3,
+		"tier": 3,
+		"sections": [
+			{
+				"type": "title",
+				"value": "敵人：小鬼"
+			},
+			{
+				"type": "text",
+				"value": "小鬼是下界惡魔的士兵之一。 他們有強大的腿，可以讓他們向目標跳躍很遠的距離，快速覆蓋地面。 他們鋒利的爪子使許多巫師都能輕鬆完成任務。"
+			}
+		],
+		"related_recipes": []
+	},
+	"Enemy: Lantern Wraith": {
+		"category": "basics",
+		"index": 3,
+		"tier": 3,
+		"sections": [
+			{
+				"type": "title",
+				"value": "敵人：燈籠幽靈"
+			},
+			{
+				"type": "text",
+				"value": "燈籠幽靈是下界惡魔的士兵之一。 他們發射由他們所殺之人的靈魂製成的箭矢，隨著目標的血量越來越大，每一個箭矢都會越來越慢並造成越來越多的傷害。 這些箭矢會吞噬目標的生命力，據說還會吸取被擊中目標的法力。"
+			}
+		],
+		"related_recipes": []
+	},
+	"Manaweaving Altar": {
+		"category": "manaweaving",
+		"sections": [
+			{
+				"type": "title",
+				"value": "織魔祭壇"
+			},
+			{
+				"type": "text",
+				"value": "織魔祭壇能夠在魔法水池上混合成分和編織符號。"
+			}
+		],
+		"related_recipes": [
+			{
+				"location": "mana-and-artifice:manaweaver_wand",
+				"type": "合成"
+			},
+			{
+				"type": "合成",
+				"location": "mana-and-artifice:improvised_manaweaver_wand"
+			},
+			{
+				"location": "mana-and-artifice:manaweaving_altar",
+				"type": "合成"
+			}
+		]
+	},
+	"Ritual Foci": {
+		"category": "sorcery",
+		"index": -98,
+		"sections": [
+			{
+				"type": "title",
+				"value": "儀式焦點"
+			},
+			{
+				"type": "text",
+				"value": "在製作法術時，法師除了需要製作每個法術碎片所需的成分外，還需要有一種方法來控制狂野的魔法能量。 這些焦點對於保持法術穩定非常重要，隨著相關法術複雜性的增加，需要更高的版本。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "合成",
+				"location": "mana-and-artifice:ritual_focus_minor"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:ritual_focus_lesser"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:ritual_focus_greater"
+			}
+		]
+	},
+	"Step 1: Runescribing": {
+		"category": "runesmithing",
+		"index": -100,
+		"tier": 2,
+		"sections": [
+			{
+				"type": "title",
+				"value": "符文刻印"
+			},
+			{
+				"type": "text",
+				"value": "任何創造魔法符文的努力的第一步都是刻畫圖案。\n\n將空白圖案與符文匠的錘子和鑿子一起放在你的符文書寫台上。 使用這些工具，鑿出所需的符文圖案。\n\n雕刻圖案時要小心，因為任何錯誤都需要完全重新開始！"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "合成",
+				"location": "mana-and-artifice:rune_clay_plate"
+			},
+			{
+				"type": "合成",
+				"location": "mana-and-artifice:runescribing/runescribing_table"
+			},
+			{
+				"type": "合成",
+				"location": "mana-and-artifice:runeforging/runesmith_hammer"
+			},
+			{
+				"type": "合成",
+				"location": "mana-and-artifice:runescribing/runesmith_chisel"
+			}
+		]
+	},
+	"Step 2: Runeforging": {
+		"category": "runesmithing",
+		"index": -99,
+		"tier": 2,
+		"sections": [
+			{
+				"type": "title",
+				"value": "符文鍛造（符文）"
+			},
+			{
+				"type": "text",
+				"value": "一旦你完成了符文圖案，你需要把它和一些過熱的葡萄汁帶到你的符文砧上。\n\n將圖案放在鐵砧上，將過熱的葡萄汁放在上面。"
+			},
+			{
+				"type": "image",
+				"location": "mana-and-artifice:textures/guide/runic_anvil.png",
+				"width": 128,
+				"height": 128
+			},
+			{
+				"type": "text",
+				"value": "拿起你的符文鐵鎚，開始敲擊鐵砧上的物品。 小心將所有東西設置正確，否則這些物品將無法正確組合在一起，並且它們會從砧座上彈出。\n\n一旦您擊中該物品的次數足夠多，您的鍛造就完成了。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "arcane_furnace",
+				"location": "mana-and-artifice:arcanefurnace/superheated_vinteum_ingot"
+			},
+			{
+				"type": "arcane_furnace",
+				"location": "mana-and-artifice:arcanefurnace/superheated_purified_vinteum_ingot"
+			},
+			{
+				"type": "合成",
+				"location": "mana-and-artifice:runeforge"
+			},
+			{
+				"type": "合成",
+				"location": "mana-and-artifice:runeforging/runic_anvil"
+			}
+		]
+	},
+	"Step 2a: Charcoal Patterns": {
+		"category": "runesmithing",
+		"index": -98,
+		"tier": 2,
+		"sections": [
+			{
+				"type": "title",
+				"value": "木炭圖騰"
+			},
+			{
+				"type": "text",
+				"value": "有時，您將需要符文模式來指導魔偶。你可以在符文鐵砧上製作這些圖案，方法是在鐵砧上放置一個完整的符文，然後在上面放紙。 最後，用煤或木炭啟動砧。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "合成",
+				"location": "mana-and-artifice:runeforging/runic_anvil"
+			}
+		]
+	},
+	"Superheating Vinteum": {
+		"category": "符文鍛造",
+		"index": -90,
+		"sections": [
+			{
+				"type": "title",
+				"value": "超熱溫姆特"
+			},
+			{
+				"type": "text",
+				"value": "普通熔爐似乎沒有發出足夠的熱量來融化溫特姆塊。 這就是符文熔爐有用的地方。 通過將這些塊放置在符文熔爐中，其神奇注入的火焰使這些塊加熱到我需要的溫度，使其成型。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "arcane_furnace",
+				"location": "mana-and-artifice:arcanefurnace/superheated_vinteum_ingot"
+			},
+			{
+				"type": "arcane_furnace",
+				"location": "mana-and-artifice:arcanefurnace/superheated_purified_vinteum_ingot"
+			},
+			{
+				"type": "合成",
+				"location": "mana-and-artifice:runeforge"
+			}
+		]
+	},
+	"Purified Vinteum Bars": {
+		"category": "runesmithing",
+		"index": -89,
+		"tier": 2,
+		"sections": [
+			{
+				"type": "title",
+				"value": "純淨溫特姆塊"
+			},
+			{
+				"type": "text",
+				"value": "如果我可以在鐵上塗上溫特姆粉末並熔煉它以獲得塊，我應該可以用純化的溫特姆粉末做類似的事情。 只要記住在熔爐或高爐中熔煉純淨鍍有溫特姆的鐵。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "合成",
+				"location": "mana-and-artifice:purified_vinteum_coated_iron"
+			},
+			{
+				"type": "arcane_furnace",
+				"location": "mana-and-artifice:arcanefurnace/superheated_purified_vinteum_ingot"
+			}
+		]
+	},
+	"Sided Inventories": {
+		"category": "constructs",
+		"index": -1,
+		"tier": 2,
+		"sections": [
+			{
+				"type": "title",
+				"value": "自動化：側面庫存"
+			},
+			{
+				"type": "text",
+				"value": "側面庫存確定庫存的哪一面可以接受物品。 這很重要，因為當用標記符文標記一個方塊時，邊和位置也會被存儲。 其他使用自動化的模組也可以使用此功能。 以下是對哪些塊在哪些側輸入/輸出的說明。"
+			},
+			{
+				"type": "title",
+				"value": "符文刻印桌"
+			},
+			{
+				"type": "text",
+				"value": "符文台可以接受側面的錘子和鑿子，以及頂部和底部的圖案。 提取項目也是如此。"
+			},
+			{
+				"type": "title",
+				"value": "符文鐵砧"
+			},
+			{
+				"type": "text",
+				"value": "符文鐵砧可以從任何一側接受物品，並從任何一側提供物品。"
+			},
+			{
+				"type": "title",
+				"value": "符文鍛爐"
+			},
+			{
+				"type": "text",
+				"value": "如果符文熔爐是空的，它會接受任何一方的物品。 只要它當前沒有在做飯，它就會從任何一側提供物品。"
+			}
+		]
+	},
+	"Sample Automation: Forge Rune": {
+		"category": "constructs",
+		"index": -1,
+		"tier": 2,
+		"sections": [
+			{
+				"type": "title",
+				"value": "樣品自動化：鍛造符文"
+			},
+			{
+				"type": "text",
+				"value": "您應該考慮自動化的第一件事是符文生產。 這將為您提供統御星錐中的簡單示例邏輯流程，以自動偽造符文。\n\n你需要想出一些方法來提供輸入寶箱。"
+			},
+			{
+				"type": "title",
+				"value": "設置",
+				"newPage": true
+			},
+			{
+				"type": "text",
+				"value": "您將需要以下塊：\n\n胸部 x 2\n符文熔爐 x 1\n符文台 x 1\n符文砧 x 1\n北極星 x 1"
+			},
+			{
+				"type": "title",
+				"value": "魔偶",
+				"newPage": true
+			},
+			{
+				"type": "text",
+				"value": "為了執行所需的所有步驟，您的魔偶將需要一個錘臂和一個抓臂。 因為有12條指令，並且默認魔偶只能跟隨8條指令，所以您的魔偶還需要一個智能頭。最後，您希望魔偶的進位金額為1，所以不要以任何關聯方的方式召喚它。\n\n查看奧術古籍來確保它們是否需要特定部件！\n\n魔偶本身可以是您想要的任何材料。 檢查主要魔偶條目以獲取有關不同材料如何影響魔偶以及每個命令的信息（因為某些材料可以使命令表現不同）。"
+			},
+			{
+				"type": "title",
+				"value": "材料",
+				"newPage": true
+			},
+			{
+				"type": "text",
+				"value": "為了在 統御星錐中設置和配置邏輯步驟，您需要以下材料：\n\n印記符文 x 12\n溫特姆錠 x 1\n空白符文樣板 x 1\n您要刻劃的符文 x 1\n超熱溫特姆錠 x 1"
+			},
+			{
+				"type": "title",
+				"value": "邏輯",
+				"newPage": true
+			},
+			{
+				"type": "text",
+				"value": "仔細想想，打造符文的步驟是："
+			},
+			{
+				"type": "text",
+				"value": "1. 從胸部取出純淨溫特姆錠。\n\n這是 統御星錐的第一步，從容器中取出物品。 您將在包含原材料的塊上使用標記符文之一，並將 純淨溫特姆錠作為過濾器放入。"
+			},
+			{
+				"type": "text",
+				"value": "2. 將溫特姆錠錠放置在符文鍛爐\n\n下一步是將項目放入容器中。 為此，您將在符文熔爐上使用標記符文。"
+			},
+			{
+				"type": "text",
+				"value": "3. 取胸前的空白圖案\n\n同樣，您將在包含原材料的塊上使用標記符文，但將空白圖案作為過濾器放入。"
+			},
+			{
+				"type": "text",
+				"value": "4. 在符文台上放置圖案。\n\n確保將標記符文設置在符文書寫台的頂部，以便側面庫存正常工作。"
+			},
+			{
+				"type": "text",
+				"value": "5. 抄寫符文\n\n在這裡，您將使用刻印符文命令，並將印記符文設置為符文刻印桌，並放入您想要製作的任何圖案。 完成此操作後，您只需交換此模式即可製作不同的模式！"
+			},
+			{
+				"type": "text",
+				"value": "6. 從符文台上取圖樣\n\n使用設置在符文書寫台頂部的標記符文移除已書寫的符文。"
+			},
+			{
+				"type": "text",
+				"value": "7. 放在符文砧上\n\n你現在知道演習了。 標記符文設置為符文砧。"
+			},
+			{
+				"type": "text",
+				"value": "8. 從符文熔爐取空白符咒\n\n使用標記符文讓你從符文熔爐中取走。使用超熱溫特姆錠作為過濾器可防止魔偶在尚未完成的情況下採用常規錠。"
+			},
+			{
+				"type": "text",
+				"value": "9.放在符文鐵砧上\n\n與步驟 7 相同。"
+			},
+			{
+				"type": "text",
+				"value": "10.鍛造符文\n\n一個使用另一個標記符文來指示符文砧的鍛造符文命令。"
+			},
+			{
+				"type": "text",
+				"value": "11. 從鐵砧上取符文\n\n您將為鐵砧使用標記符文，但將過濾器留空，以便放置任何放置在那裡的東西。 這使它在未來的符文類型中保持靈活！"
+			},
+			{
+				"type": "text",
+				"value": "12. 放入箱子中\n\n標記符文標記輸出箱子。"
+			},
+			{
+				"type": "title",
+				"value": "一些增強想法",
+				"newPage": true
+			},
+			{
+				"type": "text",
+				"value": "從這裡開始，發揮創意！ 當它收到紅石信號時，統御星錐將暫停執行，所以想出你可以使用它的方法。 也許你可以想出一些方法讓另一個魔偶或系統保持輸入箱的材料。提出你自己的改進，看看你可以讓他們做什麼！"
+			}
+		]
+	},
+	"Runic Enchanting": {
+		"category": "enchantments",
+		"index": -1,
+		"tier": 2,
+		"sections": [
+			{
+				"type": "title",
+				"value": "符文附魔"
+			},
+			{
+				"type": "text",
+				"value": "符文附魔的第一步是根據符文抄寫和符文鍛造機制抄寫和鍛造符文。 附魔的配方會讓你知道你需要製作哪一個。 有關更多信息，請參閱手抄本的符文書寫/符文鍛造部分。"
+			},
+			{
+				"type": "text",
+				"value": "完成後，您需要將法力注入其中以將附魔的初始階段應用於符文。\n\n將物品與任何其他所需的試劑一起放在魔力祭壇上。 然後，使用魔杖，在祭壇頂部繪製所需的圖案。\n\n或者，您可以使用放置在祭壇附近的織魔放映機來放映圖案。\n\n如果你犯了一個錯誤，你可以用手中的魔杖啟動祭壇，讓魔杖從祭壇上畫回最近的圖案。\n\n一旦您以正確的順序用正確的物品繪製了正確的圖案，祭壇就會將其全部繪製出來以附魔符文。\n\n現在剩下的就是將符文與返回符文砧的物品結合起來。"
+			},
+			{
+				"type": "text",
+				"value": "將你想要附魔的物品放在鐵砧上，現在附魔的符文放在上面。 如果附魔可以應用於物品（標準組合和兼容性規則適用），您將看到旋轉符文出現在鐵砧底部。 用符文鐵匠之鎚反復敲擊符文，直到附魔生效。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "合成",
+				"location": "mana-and-artifice:manaweaver_wand"
+			},
+			{
+				"type": "合成",
+				"location": "mana-and-artifice:manaweaving_altar"
+			},
+			{
+				"type": "合成",
+				"location": "mana-and-artifice:runescribing_table"
+			},
+			{
+				"type": "合成",
+				"location": "mana-and-artifice:runic_anvil"
+			}
+		]
+	},
+	"Bouncy": {
+		"category": "enchantments",
+		"sections": [
+			{
+				"type": "title",
+				"value": "彈跳"
+			},
+			{
+				"type": "text",
+				"value": "如果我沒有潛行或受到重力井的影響，這個結界會讓我在墜落後落地時反彈。 它必須應用於靴子，因為它們是墜落時第一個撞到地面的東西。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/bouncy"
+			}
+		]
+	},
+	"Cloudstep": {
+		"category": "enchantments",
+		"sections": [
+			{
+				"type": "title",
+				"value": "雲步"
+			},
+			{
+				"type": "text",
+				"value": "這個附魔會在我的靴子下（必須應用附魔的地方）產生一陣空氣，讓我再次在半空中跳躍。 更高級別的附魔將允許我在半空中跳躍不止一次。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/cloudstep_i"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/cloudstep_ii"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/cloudstep_iii"
+			}
+		]
+	},
+	"Aura Repair": {
+		"category": "enchantments",
+		"sections": [
+			{
+				"type": "title",
+				"value": "維修光環"
+			},
+			{
+				"type": "text",
+				"value": "這個光環會周期性地消耗我的法力，以便對我所有裝備的物品以及靠近我的物品施加修復效果。\n\n由於它是一個特別複雜的魔法結構，我只能把它放在胸甲上，因為它有足夠的空間來完成所有需要的符文工作。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/aura/repair"
+			}
+		]
+	},
+	"Aura Healing": {
+		"category": "enchantments",
+		"sections": [
+			{
+				"type": "title",
+				"value": "治癒光環"
+			},
+			{
+				"type": "text",
+				"value": "這個光環會周期性地消耗我的法力，以便對我和與我近距離的人產生輕微的治療效果。\n\n由於它是一個特別複雜的魔法結構，我只能把它放在胸甲上，因為它有足夠的空間來完成所有需要的符文工作。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/aura/healing"
+			}
+		]
+	},
+	"Aura Jumping": {
+		"category": "enchantments",
+		"sections": [
+			{
+				"type": "title",
+				"value": "跳躍光環"
+			},
+			{
+				"type": "text",
+				"value": "這個光環會周期性地消耗我的法力，以提高我的跳躍能力，以及那些靠近我的人。\n\n由於它是一個特別複雜的魔法結構，我只能把它放在胸甲上，因為它有足夠的空間來完成所有需要的符文工作。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/aura/jumping"
+			}
+		]
+	},
+	"Aura Mining": {
+		"category": "enchantments",
+		"sections": [
+			{
+				"type": "title",
+				"value": "採礦光環"
+			},
+			{
+				"type": "text",
+				"value": "這個光環會周期性地消耗我的法力，以提高我和我周圍的人的採礦速度。\n\n由於它是一個特別複雜的魔法結構，我只能把它放在胸甲上，因為它有足夠的空間來完成所有需要的符文工作。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/aura/mining"
+			}
+		]
+	},
+	"Aura Running": {
+		"category": "enchantments",
+		"sections": [
+			{
+				"type": "title",
+				"value": "迅捷光環"
+			},
+			{
+				"type": "text",
+				"value": "這個光環會周期性地消耗我的法力，以便為我和我附近的人增加移動速度。\n\n由於它是一個特別複雜的魔法結構，我只能把它放在胸甲上，因為它有足夠的空間來完成所有需要的符文工作。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/aura/running"
+			}
+		]
+	},
+	"Aura Depths": {
+		"category": "enchantments",
+		"sections": [
+			{
+				"type": "title",
+				"value": "深淵光環"
+			},
+			{
+				"type": "text",
+				"value": "這個光環會周期性地消耗我的法力，以使我更適應水下活動。\n\n由於它是一個特別複雜的魔法結構，我只能把它放在胸甲上，因為它有足夠的空間來完成所有需要的符文工作。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/aura/depths"
+			}
+		]
+	},
+	"Aqua Affinity": {
+		"category": "enchantments",
+		"sections": [
+			{
+				"type": "title",
+				"value": "親水性"
+			},
+			{
+				"type": "text",
+				"value": "親水性附魔加快了您在水下挖掘方塊的速度。 它基本上使水下採礦與陸地採礦的速度相同。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/aqua_affinity_i"
+			}
+		]
+	},
+	"Bane of Arthropods": {
+		"category": "enchantments",
+		"sections": [
+			{
+				"type": "title",
+				"value": "節肢剋星"
+			},
+			{
+				"type": "text",
+				"value": "節肢剋星附魔會增加你對蜘蛛、洞穴蜘蛛、蠹魚和末影蟎等生物的攻擊傷害。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/bane_of_arthropods_i"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/bane_of_arthropods_ii"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/bane_of_arthropods_iii"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/bane_of_arthropods_iv"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/bane_of_arthropods_v"
+			}
+		]
+	},
+	"Binding Curse": {
+		"category": "enchantments",
+		"sections": [
+			{
+				"type": "title",
+				"value": "綁定詛咒"
+			},
+			{
+				"type": "text",
+				"value": "綁定詛咒附魔可以讓你詛咒一個物品。 被詛咒的物品一旦被佩戴，在物品損壞或佩戴者死亡之前無法移除。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/binding_curse"
+			}
+		]
+	},
+	"Vanishing Curse": {
+		"category": "enchantments",
+		"sections": [
+			{
+				"type": "title",
+				"value": "消失詛咒"
+			},
+			{
+				"type": "text",
+				"value": "消失詛咒附魔可以讓你詛咒遊戲中的物品。 當一件物品被此附魔詛咒時，被詛咒的物品會在佩戴者死亡時消失而不是掉落。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/vanishing_curse"
+			}
+		]
+	},
+	"Blast Protection": {
+		"category": "enchantments",
+		"sections": [
+			{
+				"type": "title",
+				"value": "爆炸保護"
+			},
+			{
+				"type": "text",
+				"value": "爆炸保護附魔減少爆炸造成的傷害，例如 TNT 爆炸、苦力怕爆炸、地獄幽靈、初始凋零爆炸和末影水晶。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/blast_protection_i"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/blast_protection_ii"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/blast_protection_iii"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/blast_protection_iv"
+			}
+		]
+	},
+	"Channeling": {
+		"category": "enchantments",
+		"sections": [
+			{
+				"type": "title",
+				"value": "喚雷"
+			},
+			{
+				"type": "text",
+				"value": "引導附魔可以添加到三叉戟上。 有了這個附魔，你的三叉戟會在你扔出三叉戟並且它擊中怪物（當它站在雨中）時向怪物召喚一道閃電。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/channeling"
+			}
+		]
+	},
+	"Depth Strider": {
+		"category": "enchantments",
+		"sections": [
+			{
+				"type": "title",
+				"value": "深海漫遊"
+			},
+			{
+				"type": "text",
+				"value": "深海漫遊附魔加快了您在水下移動的速度。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/depth_strider_i"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/depth_strider_ii"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/depth_strider_iii"
+			}
+		]
+	},
+	"Efficiency": {
+		"category": "enchantments",
+		"sections": [
+			{
+				"type": "title",
+				"value": "效率"
+			},
+			{
+				"type": "text",
+				"value": "效率附魔加快了挖掘方塊的速度。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/efficiency_i"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/efficiency_ii"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/efficiency_iii"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/efficiency_iv"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/efficiency_v"
+			}
+		]
+	},
+	"Feather Falling": {
+		"category": "enchantments",
+		"sections": [
+			{
+				"type": "title",
+				"value": "輕盈"
+			},
+			{
+				"type": "text",
+				"value": "輕盈附魔減少墜落造成的傷害和末影珍珠傳送造成的傷害。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/feather_falling_i"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/feather_falling_ii"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/feather_falling_iii"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/feather_falling_iv"
+			}
+		]
+	},
+	"Fire Aspect": {
+		"category": "enchantments",
+		"sections": [
+			{
+				"type": "title",
+				"value": "燃燒"
+			},
+			{
+				"type": "text",
+				"value": "燃燒附魔使你攻擊時讓目標著火。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/fire_aspect_i"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/fire_aspect_ii"
+			}
+		]
+	},
+	"Fire Protection": {
+		"category": "enchantments",
+		"sections": [
+			{
+				"type": "title",
+				"value": "火焰保護"
+			},
+			{
+				"type": "text",
+				"value": "火焰保護附魔可以減少火和熔岩造成的傷害。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/fire_protection_i"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/fire_protection_ii"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/fire_protection_iii"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/fire_protection_iv"
+			}
+		]
+	},
+	"Flame": {
+		"category": "enchantments",
+		"sections": [
+			{
+				"type": "title",
+				"value": "火焰"
+			},
+			{
+				"type": "text",
+				"value": "火焰附魔將你的箭變成燃燒的箭，讓你可以讓你的目標著火。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/flame"
+			}
+		]
+	},
+	"Transitory Step": {
+		"category": "enchantments",
+		"sections": [
+			{
+				"type": "title",
+				"value": "短時之步"
+			},
+			{
+				"type": "text",
+				"value": "瞬變步法術可應用於靴子，並消耗少量法力以自動將瞬變圖塊放置在您面前，就像在橋上一樣。 您必須在地面上才能使其工作，並且您可以潛行以防止該功能發生。\n\n這對向後走或掃射沒有任何作用，所以繼續前進！"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/transitory_step"
+			}
+		]
+	},
+	"Fortune": {
+		"category": "enchantments",
+		"sections": [
+			{
+				"type": "title",
+				"value": "幸運"
+			},
+			{
+				"type": "text",
+				"value": "幸運附魔增加了從採礦中掉落的方塊。 例如，使用時運附魔，您將有更好的機會從礫石中獲得燧石或從樹上獲得蘋果。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/fortune_i"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/fortune_ii"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/fortune_iii"
+			}
+		]
+	},
+	"Frost Walker": {
+		"category": "enchantments",
+		"sections": [
+			{
+				"type": "title",
+				"value": "冰霜行者"
+			},
+			{
+				"type": "text",
+				"value": "冰霜行者附魔暫時凍結你周圍的水並將其變成冰。 然後，您可以穿過冰面以快速在遊戲中四處走動。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/frost_walker_i"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/frost_walker_ii"
+			}
+		]
+	},
+	"Impaling": {
+		"category": "enchantments",
+		"sections": [
+			{
+				"type": "title",
+				"value": "魚叉"
+			},
+			{
+				"type": "text",
+				"value": "魚叉附魔增加了你對海洋生物的攻擊傷害，如深海守衛、遠古深海守衛、魷魚、海豚和海龜。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/impaling_i"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/impaling_ii"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/impaling_iii"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/impaling_iv"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/impaling_v"
+			}
+		]
+	},
+	"Infinity": {
+		"category": "enchantments",
+		"sections": [
+			{
+				"type": "title",
+				"value": "無限"
+			},
+			{
+				"type": "text",
+				"value": "無限附魔使您可以在不使用任何箭的情況下射弓。\n\n此附魔僅適用於箭。 它不會為您提供無限的追跡之箭或藥水箭。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/infinity"
+			}
+		]
+	},
+	"Knockback": {
+		"category": "enchantments",
+		"sections": [
+			{
+				"type": "title",
+				"value": "擊退"
+			},
+			{
+				"type": "text",
+				"value": "擊退附魔增加攻擊玩家或暴徒時造成的擊退。 這將導致玩家或生物比平時更多地向後擊退。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/knockback_i"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/knockback_ii"
+			}
+		]
+	},
+	"Looting": {
+		"category": "enchantments",
+		"sections": [
+			{
+				"type": "title",
+				"value": "掠奪"
+			},
+			{
+				"type": "text",
+				"value": "掠奪附魔會增加生物被殺死時掉落的戰利品數量。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/looting_i"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/looting_ii"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/looting_iii"
+			}
+		]
+	},
+	"Loyalty": {
+		"category": "enchantments",
+		"sections": [
+			{
+				"type": "title",
+				"value": "忠誠"
+			},
+			{
+				"type": "text",
+				"value": "忠誠附魔可以添加到三叉戟上。 有了這個附魔，當你的三叉戟像長矛一樣被拋出時，它會自動回到你身邊。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/loyalty_i"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/loyalty_ii"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/loyalty_iii"
+			}
+		]
+	},
+	"Magic Broom": {
+		"category": "constructs",
+		"sections": [
+			{
+				"type": "title",
+				"value": "魔法掃帚"
+			},
+			{
+				"type": "text",
+				"value": "魔法掃帚已被附魔，它可以收集半徑內所有掉落的物品，並將它們返回到所述容器。 這是一個很有幫助的構造。 我想知道是否還有其他我可以建造的？ 我相信一旦我獲得了更多的知識，我可以製作出更強大的掃帚版本。 我應該稍後再回來查看。\n\n如果我偷偷靠近它並抓住它（右鍵單擊），我可以再次拿起掃帚。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/magic_broom"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/vortex_broom"
+			}
+		]
+	},
+	"Ender Disc": {
+		"category": "artifice",
+		"sections": [
+			{
+				"type": "title",
+				"value": "終界圓盤 "
+			},
+			{
+				"type": "text",
+				"value": "我設法製作了一個可以立即執行回歸儀式的光盤。 我只需要在其中設置正確的模式，然後它就會使用我的一些法力來移動我。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/ender_disc"
+			}
+		]
+	},
+	"Arcane Crown": {
+		"category": "artifice",
+		"sections": [
+			{
+				"type": "title",
+				"value": "奧術王冠"
+			},
+			{
+				"type": "text",
+				"value": "這頂傳奇的王冠最初是由一位古老的大法師鑄造的。 充滿了巨大的力量，它有助於使法師能夠更有效地施展法術。 它還吸收環境魔法，允許更大的法力儲備。 最後，有傳言說這頂王冠偶爾也可以保護佩戴者免受衰弱影響，但只是時常如此。"
+			},
+			{
+				"type": "title",
+				"value": "警告！"
+			},
+			{
+				"type": "text",
+				"value": "這頂王冠只能由那些與古代巫師委員會結盟的人製作。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/arcane_crown"
+			}
+		]
+	},
+	"Spectral Elytra": {
+		"category": "artifice",
+		"sections": [
+			{
+				"type": "title",
+				"value": "幽冥鞘翅"
+			},
+			{
+				"type": "text",
+				"value": "這只傳說中被精靈附魔的鞘翅，可以讓佩戴者的魔力推動他們穿越天空。 使用此鞘翅飛行時，只要您有法力，您就會被向前推進。 潛行會使鞘翅像普通鞘翅一樣滑行並讓您著陸。\n\n一定要在法力耗盡之前降落，否則可能會出現災難性的結果！"
+			},
+			{
+				"type": "title",
+				"value": "警告！"
+			},
+			{
+				"type": "text",
+				"value": "這種鞘翅只能由與仙女之庭結盟的人製作。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/spectral_elytra"
+			}
+		]
+	},
+	"Hellfire Staff": {
+		"category": "artifice",
+		"sections": [
+			{
+				"type": "title",
+				"value": "獄火權杖"
+			},
+			{
+				"type": "text",
+				"value": "以前只由惡魔王子使用，這根法杖將圍繞火焰的法術變成純粹的噩夢。 它可以綁定任何法術，就像其他法杖一樣，但如果該法術屬於火界，那麼它將轉化為純粹的地獄火。 法術的所有方面都會增加。\n\n請注意，地獄之火是一種毀滅性的力量，如果不小心，最終可能會失去對力量的控制。"
+			},
+			{
+				"type": "title",
+				"value": "警告！"
+			},
+			{
+				"type": "text",
+				"value": "此法杖只能由與虛空惡魔結盟的人製作。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/hellfire_staff"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/hellfire_staff_imbue_spell"
+			}
+		]
+	},
+	"Transitory Tunnel": {
+		"category": "artifice",
+		"sections": [
+			{
+				"type": "title",
+				"value": "短時隧道"
+			},
+			{
+				"type": "text",
+				"value": "我創建了一個印記，使用時會將目標地面暫時轉移到一個單獨的維度。 在那裡，這個空間就像被開采的一樣可以步行。 大約 10 秒後，如果沒有任何物品落入原位，這些材料會像什麼也沒發生一樣彈回原位。 這會困住不知情的生物，我相信我也是如此。\n\n我最好確保它回來時我不在路上。\n\n此外，它似乎只影響基本地形。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/transitory_tunnel"
+			}
+		]
+	},
+	"Luck of the Sea": {
+		"index": 0,
+		"category": "enchantments",
+		"sections": [
+			{
+				"type": "title",
+				"value": "海洋的祝福"
+			},
+			{
+				"type": "text",
+				"value": "海洋的祝福附魔增加了您獲得貴重物品的機率，例如馬鞍、名牌、附魔書、附魔釣魚竿和附魔弓。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/transitory_tunnel"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/luck_of_the_sea_i"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/luck_of_the_sea_iii"
+			}
+		]
+	},
+	"Lure": {
+		"index": 0,
+		"category": "enchantments",
+		"sections": [
+			{
+				"type": "title",
+				"value": "魚餌"
+			},
+			{
+				"type": "text",
+				"value": "誘餌附魔增加了魚咬鉤的速度。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/lure_i"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/lure_ii"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/lure_iii"
+			}
+		]
+	},
+	"Mending": {
+		"index": 0,
+		"category": "enchantments",
+		"sections": [
+			{
+				"type": "title",
+				"value": "修補"
+			},
+			{
+				"type": "text",
+				"value": "修補附魔使用 xp（經驗）來修補您裝備的工具、武器和盔甲。 每次您通過殺死怪物或開採某些物品獲得經驗時，所獲得的經驗將自動用於修理您裝備的任何損壞的工具、武器或盔甲（並附有修補術）。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/lure_iii"
+			}
+		]
+	},
+	"Multishot": {
+		"index": 0,
+		"category": "enchantments",
+		"sections": [
+			{
+				"type": "title",
+				"value": "分裂箭矢"
+			},
+			{
+				"type": "text",
+				"value": "分裂箭矢附魔允許玩家一次射出 3 支箭，但只會使用庫存中的 1 支箭（此附魔的成本僅為 1 支箭而不是 3 支箭）。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/mending"
+			}
+		]
+	},
+	"Piercing": {
+		"index": 0,
+		"category": "enchantments",
+		"sections": [
+			{
+				"type": "title",
+				"value": "貫穿"
+			},
+			{
+				"type": "text",
+				"value": "貫穿附魔允許從弩發射的箭穿透多個實體。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/multishot"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/piercing_i"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/piercing_ii"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/piercing_iii"
+			}
+		]
+	},
+	"Power": {
+		"index": 0,
+		"category": "enchantments",
+		"sections": [
+			{
+				"type": "title",
+				"value": "力量"
+			},
+			{
+				"type": "text",
+				"value": "力量附魔會增加使用弓箭時對玩家或生物造成的攻擊傷害。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/piercing_iv"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/power_i"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/power_ii"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/power_iii"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/power_v"
+			}
+		]
+	},
+	"Projectile Protection": {
+		"index": 0,
+		"category": "enchantments",
+		"sections": [
+			{
+				"type": "title",
+				"value": "投射物保護"
+			},
+			{
+				"type": "text",
+				"value": "投射物保護附魔減少射彈和箭矢攻擊的傷害，如箭、地獄幽靈的火焰彈和烈焰使者的火焰彈。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/projectile_protection_i"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/projectile_protection_ii"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/projectile_protection_iii"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/projectile_protection_iv"
+			}
+		]
+	},
+	"Protection": {
+		"index": 0,
+		"category": "enchantments",
+		"sections": [
+			{
+				"type": "title",
+				"value": "保護"
+			},
+			{
+				"type": "text",
+				"value": "防護附魔是對所有類型傷害的綜合防護，例如攻擊、火焰、熔岩和墜落造成的傷害。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/protection_i"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/protection_ii"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/protection_iii"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/protection_iv"
+			}
+		]
+	},
+	"Punch": {
+		"index": 0,
+		"category": "enchantments",
+		"sections": [
+			{
+				"type": "title",
+				"value": "衝擊"
+			},
+			{
+				"type": "text",
+				"value": "當用你的弓箭攻擊玩家或怪物時，衝擊附魔會增加擊退的效果。\n 這將導致玩家或生物比平時更多地向後擊退。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/punch_i"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/punch_ii"
+			}
+		]
+	},
+	"Respiration": {
+		"index": 0,
+		"category": "enchantments",
+		"sections": [
+			{
+				"type": "title",
+				"value": "水下呼吸"
+			},
+			{
+				"type": "text",
+				"value": "呼吸附魔可以延長您在水下呼吸的時間。\n它還可以幫助您在水下看得更清楚。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/respiration_i"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/respiration_ii"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/respiration_iii"
+			}
+		]
+	},
+	"Quick Charge": {
+		"index": 0,
+		"category": "enchantments",
+		"sections": [
+			{
+				"type": "title",
+				"value": "快速上弦"
+			},
+			{
+				"type": "text",
+				"value": "快速上弦附魔減少了重新裝填弩所需的時間。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/quick_charge_i"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/quick_charge_ii"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/quick_charge_iii"
+			}
+		]
+	},
+	"Riptide": {
+		"index": 0,
+		"category": "enchantments",
+		"sections": [
+			{
+				"type": "title",
+				"value": "波濤"
+			},
+			{
+				"type": "text",
+				"value": "波濤附魔可以添加到三叉戟上。 \n有了這個附魔，當你在水中或雨中投擲三叉戟時，你的三叉戟會推動你前進。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/riptide_i"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/riptide_ii"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/riptide_iii"
+			}
+		]
+	},
+	"Sharpness": {
+		"index": 0,
+		"category": "enchantments",
+		"sections": [
+			{
+				"type": "title",
+				"value": "鋒利"
+			},
+			{
+				"type": "text",
+				"value": "鋒利附魔會增加對玩家或生物造成的攻擊傷害。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/sharpness_i"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/sharpness_ii"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/sharpness_iii"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/sharpness_iv"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/sharpness_v"
+			}
+		]
+	},
+	"Silk Touch": {
+		"index": 0,
+		"category": "enchantments",
+		"sections": [
+			{
+				"type": "title",
+				"value": "絲綢之觸"
+			},
+			{
+				"type": "text",
+				"value": "絲綢之觸附魔允許你自己挖掘方塊而不是獲得通常掉落的物品。 \n使用此附魔，您可以收集易碎且易碎的物品，例如玻璃或冰。 或者您可以開采和收集方塊本身，\n例如鑽石礦石或煤炭礦石（而不是獲得鑽石和煤炭礦石的掉落物）。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/silk_touch"
+			}
+		]
+	},
+	"Smite": {
+		"index": 0,
+		"category": "enchantments",
+		"sections": [
+			{
+				"type": "title",
+				"value": "不死剋星"
+			},
+			{
+				"type": "text",
+				"value": "不死剋星附魔會增加你對不死生物的攻擊傷害，\n例如骷髏、凋靈骷髏、殭屍、殭屍豬人、沉屍和凋靈首領。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/smite_i"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/smite_ii"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/smite_iii"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/smite_iv"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/smite_v"
+			}
+		]
+	},
+	"Sweeping Edge": {
+		"index": 0,
+		"category": "enchantments",
+		"sections": [
+			{
+				"type": "title",
+				"value": "橫掃之刃"
+			},
+			{
+				"type": "text",
+				"value": " 橫掃之刃附魔增加橫掃攻擊的傷害。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/sweeping_edge_i"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/sweeping_edge_ii"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/sweeping_edge_iii"
+			}
+		]
+	},
+	"Thorns": {
+		"index": 0,
+		"category": "enchantments",
+		"sections": [
+			{
+				"type": "title",
+				"value": "尖刺"
+			},
+			{
+				"type": "text",
+				"value": "尖刺附魔被添加到你的盔甲上，\n這樣當玩家或暴徒對你進行物理攻擊時，他們會受到你盔甲的傷害。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/thorns_i"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/thorns_ii"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/thorns_iii"
+			}
+		]
+	},
+	"Unbreaking": {
+		"index": 0,
+		"category": "enchantments",
+		"sections": [
+			{
+				"type": "title",
+				"value": "耐久"
+			},
+			{
+				"type": "text",
+				"value": "耐久附魔可提高您的工具、武器和盔甲的耐用性，使它們不會很快磨損。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/unbreaking_i"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/unbreaking_ii"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/unbreaking_iii"
+			}
+		]
+	},
+	"Mana and Regeneration": {
+		"index": -97,
+		"category": "basics",
+		"sections": [
+			{
+				"type": "title",
+				"value": "魔力 和 再生"
+			},
+			{
+				"type": "text",
+				"value": "當您在魔術領域中執行多個動作時，將消耗一種稱為“法力”的資源。 你的最大法力值取決於你的魔法等級，每次升級都會增加。 也有傳言說小飾品、附魔和藥水可以提高你的最大法力值。\n\n不管你有多少法力，只要你吃飽，它就會在 60 秒內完全再生。 畢竟魔術是耗體力的工作！ 默認情況下，您的法力條顯示在屏幕左上方，以及您的魔法經驗和當前魔法等級。"
+			}
+		]
+	},
+	"Affinities": {
+		"index": -96,
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "親和度"
+			},
+			{
+				"type": "text",
+				"value": "當你施法時，你會建立一種叫做親和力的東西。 有六種親緣關係：空氣、土、水、火、末影和奧術。 每個親和力都有一個反面。\n\n空氣與大地對立。\n\n水與火對立。\n\n奧術與末影對立。\n\n更高的親和力將使具有相同親和力的法術的法力成本折扣（最多 50%），並且還會增加具有相反親和力的法術的法力消耗。\n\n最後，您可以更快地獲得具有相似性的組件的熟練經驗。"
+			}
+		]
+	},
+	"Casting Spells": {
+		"index": -98,
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "施展法術"
+			},
+			{
+				"type": "text",
+				"value": "創建一個法術後，只需將它握在手中並激活該項目。 第一次這樣做時，系統會提示您設置咒語的名稱和圖標。\n\n輸入名稱，選擇一個圖標，然後按 ESC 關閉 UI。\n\n之後，每當您右鍵單擊時，您都會嘗試施放咒語！\n\n該法術將嘗試生效，如果成功則在此過程中消耗您的法力。\n\n你可以每隻手拿著一個咒語並同時激活它們。 您無法選擇激活哪一個，但根據目標只有其中一個可能會成功。"
+			}
+		],
+		"related_recipes": []
+	},
+	"Spell Books": {
+		"index": -95,
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "法術書"
+			},
+			{
+				"type": "text",
+				"value": "一旦你開始獲得幾個法術，你會發現你需要一個地方來承載它們。\n\n可以通過按住 Z 並從輪盤中選擇一個法術來切換法術書法術。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "合成",
+				"location": "mana-and-artifice:spell_book"
+			}
+		]
+	},
+	"Grimoires": {
+		"index": -95,
+		"category": "sorcery",
+		"tier": 3,
+		"sections": [
+			{
+				"type": "title",
+				"value": "魔導書"
+			},
+			{
+				"type": "text",
+				"value": "法術書很好，但我想知道我是否能找到一種方法將法術書綁定到特定的魔力符號組合？ 然後，如果我丟失了這本書或它被毀壞了，我可以簡單地將其完整地召喚回來。\n\n必須有辦法。也許甚至有一個符法。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/sorcery/cantrip_book"
+			}
+		]
+	},
+	"Book of Rote": {
+		"index": -90,
+		"category": "sorcery",
+		"tier": 2,
+		"sections": [
+			{
+				"type": "title",
+				"value": "定式之書"
+			},
+			{
+				"type": "text",
+				"value": "法術和咒語使我能夠按照確切的配方施展法術，而且它們很容易遵循。 大多數具有基本魔法理論和適當練習量的人都可以施展它們。\n\n但是隨著時間的推移，我已經開始記住各種咒語部分，我想我不僅可以從記憶中開始施放它們，甚至可以利用我對它們的功能的擴展理解來組合效果！ 我想這會產生一些非常有趣的咒語。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/sorcery/book_of_rote"
+			}
+		]
+	},
+	"Scribing Spells": {
+		"index": -100,
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "撰寫法術"
+			},
+			{
+				"type": "text",
+				"value": "我需要為我設置一個合適的工作區，以便將我的法術靈感從腦海中寫到紙上。\n\n一張桌子，上面放著所有適當的位置來存儲所有東西，旨在容納魔法文字的紙張和適當的墨水。我還需要一些奧術灰燼。\n\n一旦我把所有這些都放在一起，我就可以開始了。我需要選擇一種方法來塑造咒語。這將是它瞄準世界的方式。我確定有幾種形狀可以學習。\n\n之後，我將需要選擇一個組件，以便該法術實際執行某些操作。\n\n僅此一項就足以製作一個基本的法術。但是，我可以想到可以修改的法術的幾個方面。我需要在法術方程中添加修飾符，以便我可以更改這些值。\n\n當我的法術全部寫成我想要的方式時，我需要花些時間讓奧秘的灰燼將墨水注入到實際的法術配方中，並允許隨後的儀式創建實際的法術。幸運的是，我心目中的桌子將有一個地方可以做到這一點。\n\n...我確實想知道是否有方法可以製作更複雜的法術，例如可以在一次施法中執行多項操作的法術？必須有。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "合成",
+				"location": "mana-and-artifice:inscription_table"
+			},
+			{
+				"type": "合成",
+				"location": "mana-and-artifice:arcanist_ink"
+			},
+			{
+				"type": "合成",
+				"location": "mana-and-artifice:arcane_compound"
+			},
+			{
+				"type": "arcane_furnace",
+				"location": "mana-and-artifice:arcanefurnace/arcane_ash"
+			}
+		]
+	},
+	"Crafting Spells": {
+		"index": -99,
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "施展法術"
+			},
+			{
+				"type": "text",
+				"value": "在編寫桌寫下法術後，我需要進行一個儀式，將魔法注入配方中。我稱之為奧秘儀式。我可以使用法術配方來檢查我需要的儀式； 當我寫下法術時，我把這一切都寫下來了。\n\n理念是將原料中的原始魔法精華吸收到法術中，讓我通過它來引導我的意志以達到效果； 類似於一個非常特別製作的焦點。 有傳言說法師不需要使用這樣的焦點來製作和施放法術，純粹通過記憶來了解它們。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "合成",
+				"location": "mana-and-artifice:inscription_table"
+			},
+			{
+				"type": "ritual",
+				"location": "mana-and-artifice:rituals/arcana"
+			}
+		]
+	},
+	"Modifying Spells": {
+		"index": -99,
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "修改法術"
+			},
+			{
+				"type": "text",
+				"value": "法術製作完成後，按照物品上的提示打開一個 UI，您可以在其中更改法術上存在的任何修改值。 \n您還可以在解鎖後執行改變儀式，這可以為法術添加修飾符，最多 3 個。\n稍後，死記硬背書可用於隨時製作法術。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/sorcery/alteration_book"
+			},
+			{
+				"type": "ritual",
+				"location": "mana-and-artifice:rituals/alteration"
+			}
+		]
+	},
+	"Making Leather": {
+		"index": -101,
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "製作皮革"
+			},
+			{
+				"type": "text",
+				"value": "因為我無法用紙製作牛皮紙，所以我需要找到一種可靠的方法來製作皮革。 \n我見過夜裡潛行的殭屍，雖然它們的肉已經腐爛腐爛，但我應該能夠將其與一點魔法結合起來，\n將其恢復為可用的皮革形式。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/leather_from_zombie_flesh"
+			}
+		]
+	},
+	"Recharging Items": {
+		"index": -101,
+		"category": "artifice",
+		"sections": [
+			{
+				"type": "title",
+				"value": "為物品充能"
+			},
+			{
+				"type": "text",
+				"value": "我製作的一些物品具有內部電荷，例如守衛護身符或絲綢之戒。 這些物品在執行其效果時將失去電荷。 它們會自動從您物品欄中的法力水晶碎片中提取法力，以幫助它們持續更長時間。 當它們的能量最終耗盡時，其中一些可以通過將它們握在手中並按住右鍵以將法力導入它們來充電。 不過，並非所有物品都可以通過這種方式充電。 他們的工具提示將指示他們允許的方法。\n\n所有可充電物品也可以由稱為基座充電的機械師充電。 要做到這一點，只需製作一個法力水晶和一個基座，並將它們放置在彼此相距 8 格的範圍內。 將物品放在基座上，水晶會隨著時間的推移為它充電。 一個水晶可以充多個物品。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/mana_crystal"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/mana_crystal_fragment"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/mana_crystal"
+			},
+			{
+				"type": "合成",
+				"location": "mana-and-artifice:runeforging/stone_pedestal"
+			}
+		]
+	},
+	"Vellum": {
+		"index": -102,
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "製作牛皮紙"
+			},
+			{
+				"type": "text",
+				"value": "一般紙似乎無法接受咒語。 牛皮紙似乎是一個更好的候選人。\n我可以通過在水中加工皮革來製作牛皮紙（右鍵單擊）。"
+			},
+			{
+				"type": "image",
+				"location": "mana-and-artifice:textures/guide/vellum_craft.png",
+				"width": 128,
+				"height": 128
+			},
+			{
+				"type": "text",
+				"value": "任何靜水源都可以，但如果水在大鍋中，我可以獲得更好的結果。"
+			}
+		],
+		"related_recipes": []
+	},
+	"Shape: Projectile": {
+		"index": "1",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "投射型"
+			},
+			{
+				"type": "text",
+				"value": "這個法術形狀會在施法者身上產生一個射彈，朝著施法者所看的方向。 \n射彈將向前飛行並影響它擊中的第一個實體或阻擋它。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:shapes/projectile"
+			}
+		]
+	},
+	"Shape: Smite": {
+		"index": "1",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "不死剋星"
+			},
+			{
+				"type": "text",
+				"value": "這個法術形狀會在高空產生一個射彈（前提是目標有一條通向天空的清晰路徑），\n目標是施法者指向的點（如果在射程內）。 \n射彈會迅速下落並影響第一個實體或它擊中的方塊。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:shapes/smite"
+			}
+		]
+	},
+	"Shape: Emanation": {
+		"index": "1",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "放射施法"
+			},
+			{
+				"type": "text",
+				"value": "散發形狀將法術成分投射到施法者周圍的半徑內。\n 如果半徑已增加，它將從默認大小開始，並在幾秒鐘內擴展到完整大小。 \n只要施法者引導效果，散發就會持續。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:shapes/emanation"
+			}
+		]
+	},
+	"Shape: Wall": {
+		"index": "1",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "牆"
+			},
+			{
+				"type": "text",
+				"value": "牆形狀的目標類似於弩，但會生成垂直於施法者的牆壁。 只要施法者引導效果，牆壁就會持續存在。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:shapes/wall"
+			}
+		]
+	},
+	"Shape: Beam": {
+		"index": "1",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "光束施法"
+			},
+			{
+				"type": "text",
+				"value": "光束形狀會將魔法射線從施法者投射到他們前方的一點。 \n寬度和高度以光束為中心，但深度從光束撞擊處開始。 只要施法者引導它，光束就會持續存在。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:shapes/beam"
+			}
+		]
+	},
+	"Shape: Sigil": {
+		"index": "1",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "被放置的符文"
+			},
+			{
+				"type": "text",
+				"value": "印記形狀將在目標點的世界中創建一個印記。 \n範圍屬性會改變你可以放置印記的距離。 半徑屬性會在觸發時改變印記效果的大小。\n\n幅度效應會改變觸發印記的內容。\n1級：任何\n2級：任何有生命的東西\n3級：僅限玩家。\n\n傷害總是會觸發印記。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:shapes/rune"
+			}
+		]
+	},
+	"Shape: Wave": {
+		"index": "1",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "揮手"
+			},
+			{
+				"type": "text",
+				"value": "波浪形狀會在施法者的腳下召喚一個波浪，向施法者施法時所面對的方向前進。 \n波浪不受重力影響，可以根據需要以一定角度發射。 只要施法者引導它，波浪就會持續存在。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:shapes/wave"
+			}
+		]
+	},
+	"Shape: Self": {
+		"index": "1",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "自我施法"
+			},
+			{
+				"type": "text",
+				"value": "這種形狀會導致法術在施法時直接影響施法者。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:shapes/self"
+			}
+		]
+	},
+	"Shape: Bolt": {
+		"index": "1",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "弩"
+			},
+			{
+				"type": "text",
+				"value": "弩形狀是一種遠程瞬時效果，但需要很高的瞄準精度。 由於射程較遠，它似乎無法像其他形狀那樣有AOE。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:shapes/bolt"
+			}
+		]
+	},
+	"Shape: Touch": {
+		"index": "1",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "觸摸施法"
+			},
+			{
+				"type": "text",
+				"value": "這種形狀是一個相對短距離的效果，但是靠近我需要更少的能量來施放。 因此，它具有更高的半徑容量。\n\n我應該小心把太多的半徑放進去。 這些影響也可能會打擊我。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:shapes/touch"
+			}
+		]
+	},
+	"Component: Fire Damage": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "火焰傷害"
+			},
+			{
+				"type": "text",
+				"value": "這種效果會點亮它接觸到火的任何東西。 最初的熱華是非常有效的，會在點燃目標之前燒焦它們。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/fire_damage"
+			}
+		]
+	},
+	"Component: Arcane Damage": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "奧術傷害"
+			},
+			{
+				"type": "text",
+				"value": "這個效果會以純粹的魔法爆發打擊目標，並可以燃燒掉他們自己的一些魔法。 \n該組件只能由與巫師委員會結盟的人製作和施放。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/magic_damage"
+			}
+		]
+	},
+	"Component: Transitory Tile": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "短時方塊"
+			},
+			{
+				"type": "text",
+				"value": "這個簡單的咒語基於真實性，並添加了一點祈求。 \n它會在法術目標的任何地方創建一條可步行的路徑。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/transitory_tile"
+			}
+		]
+	},
+	"Component: Frost Damage": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "冰霜傷害"
+			},
+			{
+				"type": "text",
+				"value": "這種效果大大降低了它所針對的任何物體的溫度。 溫度變化帶來的衝擊會造成重大損壞。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/frost_damage"
+			}
+		]
+	},
+	"Component: Lightning Damage": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "雷電傷害"
+			},
+			{
+				"type": "text",
+				"value": "我已經找到了一種方法，可以將純火引導到如此集中的爆炸中，以至於它比其他任何東西都更像閃電。 這會導致抽搐，似乎比其他法術更有力地將事物從我身邊推開。 這可能很有用。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/lightning_damage"
+			}
+		]
+	},
+	"Component: Leap": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "跳躍"
+			},
+			{
+				"type": "text",
+				"value": "我已經想出如何在我自己周圍引導氣流以在我跳躍時將我推向更高的空中。\n\n當我著陸時，我需要小心我下方的東西，以及我跳躍多遠。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/leap"
+			}
+		]
+	},
+	"Component: Slowfall": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "緩降"
+			},
+			{
+				"type": "text",
+				"value": "我已經學會瞭如何將我下方的空氣合併成一個墊子，輕輕地將我帶到地面。 我離真正的飛行又近了一步！"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/slowfall"
+			}
+		]
+	},
+	"Component: Break": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "破壞"
+			},
+			{
+				"type": "text",
+				"value": "我可以集中我的魔法來破壞事物。 泥土、石頭等等都在我的命令下粉碎。 我能感覺到腳下的大地在顫抖。\n\n如果我在法術上付出更多努力來增加它的強度，我就能增加它可以破壞的東西。\n\n我聽說有傳言說有魔法戒指也可以為我做到這一點。 當我獲得一些經驗時，我應該回來查看。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/break"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/artifice/break_ring_lesser"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/artifice/break_ring_greater"
+			}
+		]
+	},
+	"Component: Rift": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "裂縫"
+			},
+			{
+				"type": "text",
+				"value": "I have discovered how to tear a small rift between this dimension and one of the neighbouring ones.  It's large enough to fit myself through, but it does always seem to go to the same place for me.  Maybe I can use it to store a few things safely away from prying eyes and sticky fingers.\n\nInterestingly, other mages that have cast this spell have their rift open to a different location.  It must be something to do with how their magic interacts with the spell's formula."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/rift"
+			}
+		]
+	},
+	"Component: Fling": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "拋斥"
+			},
+			{
+				"type": "text",
+				"value": "I can use similar air magic to when I slow my falling speed to push against other creatures and force them away from me.  This might be a good spell in a pinch when another creeper sneaks up on me, if I'm fast enough."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/fling"
+			}
+		]
+	},
+	"Component: Divination": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "占卜"
+			},
+			{
+				"type": "text",
+				"value": "I can use a combination of arcane and ender magic to divine the location of nearby ores, making them visible to me through walls at a short distance.  If I hold an block in my offhand, it will focus the spell on finding that block."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/divination"
+			}
+		]
+	},
+	"Component: Confuse": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "混亂"
+			},
+			{
+				"type": "text",
+				"value": "我可以使用末影魔法來迷惑目標，使其隨機攻擊目標，甚至可能是它的盟友。 當然，如果我是隨機的唯一目標，我想該咒語不會有太大作用。\n\n警告：此法術只能由與仙女之庭結盟的人施展！"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/confuse"
+			}
+		]
+	},
+	"Component: Mind Control": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "心智控制"
+			},
+			{
+				"type": "text",
+				"value": "我可以利用一些最強大的末影魔法來使目標的思想屈服於我的意志。 它只會在法術持續時間內與我的敵人戰鬥，儘管它不會跟隨我。\n\n警告：此法術只能由與仙女之庭結盟的人施展！"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/mind_control"
+			}
+		]
+	},
+	"Component: Spectral Workbench": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "召喚光譜工作台"
+			},
+			{
+				"type": "text",
+				"value": "I can conjure a phantasmal workbench that will allow me to craft items at it for a short duration.  I'm able to effortlessly maintain the workbench as long as I or any other person is close to it, but otherwise it will fade after one minute."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/spectral_workbench"
+			}
+		]
+	},
+	"Component: Animus": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "喚生"
+			},
+			{
+				"type": "text",
+				"value": "I can use my magic to bring blocks to life for a short time!  They'll hop around and attack my enemies before returning to a block where they stand."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/animus"
+			}
+		]
+	},
+	"Component: Greater Invisibility": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "消隱無形"
+			},
+			{
+				"type": "text",
+				"value": "精靈教會了我如何將隱身擴展到我裝備的物品和盔甲上。 除了最精明的觀察者，我可以躲避所有人。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/true_invisibility"
+			}
+		]
+	},
+	"Component: Nethergate": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "地獄之門"
+			},
+			{
+				"type": "text",
+				"value": "The demons have taught me how to enter and exit their realm at will, without the need for the usual obsidian portals."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/nethergate"
+			}
+		]
+	},
+	"Component: Crystallize": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "晶化"
+			},
+			{
+				"type": "text",
+				"value": "I can use arcane magic and the crystalline matrix of a diamond to bind a creature within.  The more magnitude I put into the spell, the more powerful the creature I can bind.  I imagine I can't bind other wizards or certain exceptionally powerful beings no matter how hard I try."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/crystallize"
+			}
+		]
+	},
+	"Component: Earthsky": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "浮地"
+			},
+			{
+				"type": "text",
+				"value": "Using some rudimentary mix of air and earth magic, I can cause simple blocks to temporarily defy gravity and float upwards into the sky before locking in place."
+			},
+			{
+				"type": "text",
+				"value": "......因為哪個自尊的巫師*不想*要一個漂浮在天空中的島嶼？"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/earthsky"
+			}
+		]
+	},
+	"Component: Collapse": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "塌陷"
+			},
+			{
+				"type": "text",
+				"value": "I can use earth magic to cause simple blocks to fall under the influence of gravity for a short time.  Next time I see that creeper, I intend to fling it backwards and collapse the tunnel around it!"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/collapse"
+			}
+		]
+	},
+	"Component: Drown": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "窒息"
+			},
+			{
+				"type": "text",
+				"value": "我仔細研究了某些魚是如何呼吸的，以及水如何與水中的事物相互作用。 我已經想如何使用它來迫使我的目標溺水。使他們無法呼吸，但如果可以，他們會立即再吸一口氣，如果已經喘不過氣來，那麼我可以……咳咳……加快這個過程。\n\n我只能想像如果他們主動屏住呼吸，或者如果我能以某種方式將他們憋在水下，效果會怎樣。\n\n當然，這不會對可以在水下呼吸或不需要呼吸的東西產生任何影響。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/drown"
+			}
+		]
+	},
+	"Component: Poison": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "中毒"
+			},
+			{
+				"type": "text",
+				"value": "By pondering particular plants, I've perceived a process of pilfering populous parts that when pooled produce a particularly potent poison. Per this perception, it's possible I can protract this pattern and produce them using pure prestidigitation."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/poison"
+			}
+		]
+	},
+	"Component: Cauterize": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "烙灼"
+			},
+			{
+				"type": "text",
+				"value": "I've been thinking of a way to use fire spells to do more than destroy.  I know there are many effects of fire that are beneficial:  warmth, cooked food, industry.  But what about the preservation of life?  I believe with some carefully applied fire, I can seal up wounds.  It will hurt initially, but the overall benefit will be greater.\n\nMagnitude 1: Damage 2, heal 4\n\nMagnitude 2: Damage 4, heal 8\n\nMagnitude 3: Damage 8, heal 16\n\nWARNING: This can only be crafted by those allied with the Demons of the Nether."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/cauterize"
+			}
+		]
+	},
+	"Component: Activate": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "啟動"
+			},
+			{
+				"type": "text",
+				"value": "I can use a small bit of arcane force to activate a block that I target.  Good for switches, buttons, and making a grand entrance through doors."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/activate"
+			}
+		]
+	},
+	"Component: Grow": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "生長"
+			},
+			{
+				"type": "text",
+				"value": "我可以使用一小撮骨粉並將其擴展為一個完整的法術，將骨粉塗抹在整個空間中。\n\n該法術需要您庫存中的骨粉作為試劑。 如果您與精靈結盟，則可以免除此要求。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/grow"
+			}
+		]
+	},
+	"Component: Explosion": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "爆炸"
+			},
+			{
+				"type": "text",
+				"value": "I have figured out how to combine fire magic with a small bit of air to create a very fast burst of fire akin to an explosion.\n\nMoridrex would be proud.\n\nWARNING: This can only be crafted by those allied with the Demons of the Nether."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/explosion"
+			}
+		]
+	},
+	"Component: Life Tap": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "生命吸取"
+			},
+			{
+				"type": "text",
+				"value": "I've discovered that through some questionable covenants I can bind my own life force to that of my target.  When the target is then injured, a small portion of that life force is transferred to me instead of to entropy.\n\nWARNING: This can only be crafted by those allied with the Demons of the Nether."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/life_tap"
+			}
+		]
+	},
+	"Component: Mana Shield": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "魔力護盾"
+			},
+			{
+				"type": "text",
+				"value": "通過研究法師之光（它們只不過是融合了法力的發光球）和魔球，我找到了一種方法來強化我周圍的純法力屏障。 這將偏轉一些傷害（或全部，我想如果我給它足夠的強度）。 然而，代價最終會讓我筋疲力盡。\n\n不過，總比死了好。\n\n警告：這只能由與古代巫師委員會結盟的人製作。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/mana_shield"
+			}
+		]
+	},
+	"Component: Fire Shield": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "火焰護盾"
+			},
+			{
+				"type": "text",
+				"value": "One of the first things that the demons have taught me is their classic cloak of fire.  By surrounding myself with this fire I not only reduce incoming flame attacks but retaliate against those who are close and foolish enough to attack me.\n\nWARNING: This can only be crafted by those allied with the Demons of the Nether."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/fire_shield"
+			}
+		]
+	},
+	"Component: Absorption": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "吸收"
+			},
+			{
+				"type": "text",
+				"value": "I find that after working with fire all this time, I have built up a rather impressive pain tolerance.  All I need to do is focus on compartmentalizing the pain, and coupled with an investment of mana to assist my effective pain tolerance will rise.\n\nWARNING: This can only be crafted by those allied with the Demons of the Nether."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/absorption"
+			}
+		]
+	},
+	"Component: Briarthorn Barrier": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "石南草護盾"
+			},
+			{
+				"type": "text",
+				"value": "我已經被展示瞭如何從絕對仙女之庭本身拔出保護性的荊棘和藤蔓。 這些荊棘會保護我免受類似的其他人的傷害，例如仙人掌和甜漿果或其他荊棘。\n\n警告：這只能由與仙女之庭結盟的人製作。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/briarthorn_barrier"
+			}
+		]
+	},
+	"Component: Decoy": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "誘像"
+			},
+			{
+				"type": "text",
+				"value": "詭計多端是精類眾所周知的事情。 的確，這個誘餌會給我帶來虛幻的雙重感覺，它將向前奔跑並引起試圖傷害我的敵人的注意，且更有可能以更高的幅度這樣做。\n\n警告：這只能由與仙女之庭結盟的人製作。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/decoy"
+			}
+		]
+	},
+	"Component: Mana Transfer": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "魔力轉送"
+			},
+			{
+				"type": "text",
+				"value": "I have learned extensive mana techniques and gained expertise so that now I am able to directly infuse my mana into another.  It is taxing, but carries a plethora of uses and benefits.\n\nWARNING: This can only be crafted by those allied with the Ancient Council of Wizards."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/mana_transfer"
+			}
+		]
+	},
+	"Component: Gust": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "暴風"
+			},
+			{
+				"type": "text",
+				"value": "While breaking blocks is a useful tool with earth magic, I can use air magic for a more gentle effect.  This will clear out grass, leaves, plants, and snow while leaving the dirt and stone intact."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/gust"
+			}
+		]
+	},
+	"Component: Silence": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "沉默"
+			},
+			{
+				"type": "text",
+				"value": "其他巫師說得太多了。我應該為此做些什麼。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/silence"
+			}
+		]
+	},
+	"Component: Gravity Well": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "重力井"
+			},
+			{
+				"type": "text",
+				"value": "I saw an apple falling of a tree the other day, and it gave me an idea.  What if I used a spell to enhance the gravity of that apple?\n\nMaybe that's thinking too small.\n\nWhat if I could increase gravity on myself?  It would have seemingly all kinds of uses."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/gravity_well"
+			}
+		]
+	},
+	"Component: Entangle": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "纏繞"
+			},
+			{
+				"type": "text",
+				"value": "I've seen many that follow the druidic arts talking to plants as they move through the forests.  It sometimes even seems as thought they answer, with how they move and sway in the wind.  I wonder, if I asked them nicely, if they would assist me in restraining those that seek to do me harm?"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/entangle"
+			}
+		]
+	},
+	"Component: Chrono Anchor": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "回溯之錨"
+			},
+			{
+				"type": "text",
+				"value": "I've done it.  I've managed to step on to the shores of the river of time, albeit only briefly.  Using this powerful magic, I can anchor myself in time.  When enough time has passed, or if tragedy befalls me, I will be yanked back through time to where I cast the spell with all of my physical attributes returned as well."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/chrono_anchor"
+			}
+		]
+	},
+	"Component: Haste": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "六脈神劍"
+			},
+			{
+				"type": "text",
+				"value": "I have figured out how to use the power of fire to increase my speed.  It's hard to explain, but it feels like a surge of extreme motivation, like someone lit a fire under my...oh."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/haste"
+			}
+		]
+	},
+	"Component: Slow": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "減速"
+			},
+			{
+				"type": "text",
+				"value": "By studying turtles, I have figured out a way to use magic to slow the movements of my target down."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/slow"
+			}
+		]
+	},
+	"Component: Strength": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "力度"
+			},
+			{
+				"type": "text",
+				"value": "By reinforcing my target's connection to the earth, I am able to grant them increased strength."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/strength"
+			}
+		]
+	},
+	"Component: Weakness": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "虛弱"
+			},
+			{
+				"type": "text",
+				"value": "I am able to pull the strength directly out of my target, leaving them withered and weak."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/weakness"
+			}
+		]
+	},
+	"Component: Swift Swim": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "迅泳"
+			},
+			{
+				"type": "text",
+				"value": "I find I need to spend a large part of my time in the water.  However, threats and predators there make the experience nerve wracking.  So, I devised a way to help control the water currents around me in order to propel me forward.  That should help even the scales, provided I can hold my breath long enough."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/swift_swim"
+			}
+		]
+	},
+	"Component: Watery Grave": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "水墓"
+			},
+			{
+				"type": "text",
+				"value": "It came to me in a nightmare.  A feeling of drowning, being pulled down into the crushing, dark, cold abyss.  I looked up and watched the light fade as I sank deeper beneath the waves.  I woke up gasping for air.  I immediately started taking notes on how I might be able to leverage that effect.  I wouldn't wish it on anyone, but it couldn't hurt to know how it works.  Maybe I can use the same knowledge to protect myself from the same fate?"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/watery_grave"
+			}
+		]
+	},
+	"Component: Blind": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "致盲"
+			},
+			{
+				"type": "text",
+				"value": "It seems to me that most of the spells others target against me require sight.  Take that away, and they either need to fight with reduced accuracy, or switch to more destructive spells.  Perhaps I should keep my distance when using this."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/blind"
+			}
+		]
+	},
+	"Component: Night Vision": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "夜視"
+			},
+			{
+				"type": "text",
+				"value": "I wonder how the Endermen do it.  Move so effortlessly through the void.  I can't make it across my lab in the dark without smashing my shins off of a piece of furniture.  I think I may have figured out a way to harness the power of endermen to help me see as they do in the dark."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/night_vision"
+			}
+		]
+	},
+	"Component: Light": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "光"
+			},
+			{
+				"type": "text",
+				"value": "When thrust into the dark, it is a person's natural instinct to look for light.  Wizards are typically able to do so magically with ease, and are often the first ones to banish the darkness."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/light"
+			}
+		]
+	},
+	"Component: Invisibility": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "隱身"
+			},
+			{
+				"type": "text",
+				"value": "Mages can do some amazing things with magic.  Calling down fire and thunder, summoning gale force winds, stepping across dimensions and over long distances, and so much more.  But most times, those kinds of things take time and preparation.\n\nI've found, that sometimes the best way to get things done is to not be seen at all."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/invisibility"
+			}
+		]
+	},
+	"Modifier: Damage": {
+		"index": "3",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "傷害"
+			},
+			{
+				"type": "text",
+				"value": "I can alter the formula of the spell to allow me to concentrate my power to a greater destructive effect.  It costs me more mana to do so, but a harder hit may be worth it."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:modifiers/damage"
+			}
+		]
+	},
+	"Modifier: Radius": {
+		"index": "3",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "半徑"
+			},
+			{
+				"type": "text",
+				"value": "I can change the formula of the spell to allow me to affect a larger area.  The strain is sometimes staggering, but there's nothing quite so satisfying as a huge fireball."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:modifiers/radius"
+			}
+		]
+	},
+	"Modifier: Speed": {
+		"index": "3",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "速度"
+			},
+			{
+				"type": "text",
+				"value": "我可以改變法術的公式，使某些移動效果發生得更快。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:modifiers/speed"
+			}
+		]
+	},
+	"Modifier: Magnitude": {
+		"index": "3",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "增強"
+			},
+			{
+				"type": "text",
+				"value": "I can alter the formula for a spell to have a much more substantial effect.  This seems to be more focused on longer term effects rather than instantaneous ones, but I might be able to find other uses for it.  I'll have to keep it in mind."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:modifiers/magnitude"
+			}
+		]
+	},
+	"Modifier: Duration": {
+		"index": "3",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "持續時間"
+			},
+			{
+				"type": "text",
+				"value": "I can make spells that last a few seconds last a little longer at the cost of more mana.  This could be very helpful."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:modifiers/duration"
+			}
+		]
+	},
+	"Modifier: Range": {
+		"index": "3",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "範圍"
+			},
+			{
+				"type": "text",
+				"value": "I can alter the formula for a spell to increase its range.  This doesn't seem to affect projectiles, since their range is more based on their speed than anything else, but I might be able to extend my metaphysical touch range, and more."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:modifiers/range"
+			}
+		]
+	},
+	"Component: Shield": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "盾牌"
+			},
+			{
+				"type": "text",
+				"value": "我可以用我的魔法在自己周圍製造一道屏障，防止動能。 我想知道是否還有其他類型的盾牌可以保護我免受更多傷害？\n\n警告：這只能由與古代巫師委員會結盟的人製作。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/shield"
+			}
+		]
+	},
+	"Component: Heal": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "治療"
+			},
+			{
+				"type": "text",
+				"value": "這是對法力的極端使用，但如果能夠集結足夠的力量，我可以立即將傷口癒合。 毫無疑問，這有一天會救我一命。\n\n警告：這只能由與仙女之庭結盟的人製作。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/heal"
+			}
+		]
+	},
+	"Ritual How-To": {
+		"index": -2,
+		"category": "rituals",
+		"sections": [
+			{
+				"type": "title",
+				"value": "初始設置"
+			},
+			{
+				"type": "text",
+				"value": "儀式是更深入的魔法施法，比通常的即時施法法術提供更強大或更長期的效果。 它涉及額外的準備、試劑和相互作用來完成效果，但是可以實現一些非常強大的效果。\n\n首先，使用嚮導的粉筆在地面上繪製圖案。 方向無關緊要。 然後，使用淨化的溫泰姆分末啟動儀式的中心。 這將導致儀式開始展示所需的試劑。 金色的試劑編號是必要的，白色的編號是可選的。\n\n將所需的試劑放在正確的位置，然後使用淨化的溫泰姆再次啟動儀式的中心。 這將使儀式開始施放。"
+			},
+			{
+				"type": "title",
+				"value": "收集試劑"
+			},
+			{
+				"type": "text",
+				"value": "The ritual will power up and then begin drawing in the reagents.  Take care to ensure that no reagents are removed and that the chalk runes remain intact, lest you encounter more...explosive results.\n\nNot all rituals require reagents."
+			},
+			{
+				"type": "title",
+				"value": "魔力編織"
+			},
+			{
+				"type": "text",
+				"value": "After the reagents are consumed, the ritual will begin displaying manaweave patterns.  You need to draw the required pattern (or use a manaweave projector to create it), and the ritual will draw it in, then display the next pattern.\n\nNot all rituals require patterns.\n\nOnce all patterns are added, the ritual will complete over the next few seconds."
+			},
+			{
+				"type": "title",
+				"value": "動態試劑"
+			},
+			{
+				"type": "text",
+				"value": "Some rituals require an item to display reagents, such as the Ritual of Arcana requiring a spell recipe.  You will need to place the item in first, and then the remaining reagents will be displayed.  You do not need to reactivate the ritual using Purified Vinteum Dust for the dynamic reagents to be displayed."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "合成",
+				"location": "mana-and-artifice:wizard_chalk"
+			},
+			{
+				"type": "合成",
+				"location": "mana-and-artifice:purified_vinteum_dust"
+			},
+			{
+				"type": "合成",
+				"location": "mana-and-artifice:manaweaver_wand"
+			},
+			{
+				"type": "合成",
+				"location": "mana-and-artifice:improvised_manaweaver_wand"
+			},
+			{
+				"type": "合成",
+				"location": "mana-and-artifice:manaweave_projector"
+			}
+		]
+	},
+	"Aurora": {
+		"index": 0,
+		"category": "rituals",
+		"sections": [
+			{
+				"type": "title",
+				"value": "晨曦儀式"
+			},
+			{
+				"type": "text",
+				"value": "這種儀式將把黑夜變成白晝。 它只能在晚上進行。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "ritual",
+				"location": "mana-and-artifice:rituals/aurora"
+			}
+		]
+	},
+	"Locating": {
+		"index": 0,
+		"category": "rituals",
+		"sections": [
+			{
+				"type": "title",
+				"value": "定位儀式"
+			},
+			{
+				"type": "text",
+				"value": "This ritual will enchant a compass to find a structure, village, or biome.  Trade with the Wandering Wizard summoned by the aptly named Ritual of the Wandering Wizard to get the locating patterns."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "ritual",
+				"location": "mana-and-artifice:rituals/locating"
+			},
+			{
+				"type": "ritual",
+				"location": "mana-and-artifice:rituals/wandering_wizard"
+			}
+		]
+	},
+	"Wandering Wizard": {
+		"index": 0,
+		"category": "rituals",
+		"sections": [
+			{
+				"type": "title",
+				"value": "遊蕩巫師儀式"
+			},
+			{
+				"type": "text",
+				"value": "This ritual will open a portal and summon a walker of the planes, a Wandering Wizard that will trade with you for various magical wares.  An experienced traveler, he has access to all of the patterns needed for manaweaving as well as the ritual of Locating.  The Wandering Wizard will only remain for a minute before continuing on his journey."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "ritual",
+				"location": "mana-and-artifice:rituals/wandering_wizard"
+			}
+		]
+	},
+	"Ritual of the Iron Bell": {
+		"index": 0,
+		"category": "rituals",
+		"sections": [
+			{
+				"type": "title",
+				"value": "鐵鐘儀式"
+			},
+			{
+				"type": "text",
+				"value": "The tolling of the iron bell rings out into the either, summoning a mysterious entity only known as The Broker.  This entity will remain for one half day and will trade a combination of faction tokens (which are obtained by defeating faction enemies when encountered) and relics of my own faction for obtained relics of the other two factions.  I should ensure that I have one of each of my faction's relics available for trade and at least a stack of each of the faction tokens before calling upon the Broker."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "ritual",
+				"location": "mana-and-artifice:rituals/broker"
+			}
+		]
+	},
+	"Arcana": {
+		"index": 0,
+		"category": "rituals",
+		"sections": [
+			{
+				"type": "title",
+				"value": "奧秘儀式"
+			},
+			{
+				"type": "text",
+				"value": "這種儀式用於製作法術。您首先需要製作一個銘文台，然後在牛皮紙上書寫一個法術。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "ritual",
+				"location": "mana-and-artifice:rituals/arcana"
+			},
+			{
+				"type": "合成",
+				"location": "mana-and-artifice:inscription_table"
+			},
+			{
+				"type": "合成",
+				"location": "mana-and-artifice:ritual_focus_minor"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/ritual_focus_lesser"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/ritual_focus_greater"
+			}
+		]
+	},
+	"Alteration": {
+		"index": 0,
+		"category": "rituals",
+		"sections": [
+			{
+				"type": "title",
+				"value": "變換儀式"
+			},
+			{
+				"type": "text",
+				"value": "This ritual is used to add modifiers to spells you have already crafted.  You will first need to craft a Book of Alteration, and use its radial menu (hold in your hand and hold 'Z') to select the modifier you want to add.  Then place the required items in the ritual and perform it to add the modifier to the spell.  You can only have 3 modifiers on a spell.  If you try to add more, the ritual will fail."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "ritual",
+				"location": "mana-and-artifice:rituals/alteration"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/sorcery/alteration_book"
+			}
+		]
+	},
+	"Eventide": {
+		"index": 0,
+		"category": "rituals",
+		"sections": [
+			{
+				"type": "title",
+				"value": "黃昏儀式"
+			},
+			{
+				"type": "text",
+				"value": "這種儀式將晝夜交替。 它只能在白天進行。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "ritual",
+				"location": "mana-and-artifice:rituals/eventide"
+			}
+		]
+	},
+	"Yawning Chasm": {
+		"index": 0,
+		"category": "rituals",
+		"sections": [
+			{
+				"type": "title",
+				"value": "開隙儀式"
+			},
+			{
+				"type": "text",
+				"value": "This ritual will summon a powerful destructive force that will burrow straight down until it reaches bedrock.  It will not drop any blocks during this process, consuming them to continue to fuel itself."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "ritual",
+				"location": "mana-and-artifice:rituals/hole"
+			}
+		]
+	},
+	"Earthen Steppes": {
+		"index": 0,
+		"category": "rituals",
+		"sections": [
+			{
+				"type": "title",
+				"value": "地梯儀式"
+			},
+			{
+				"type": "text",
+				"value": "This ritual will summon a powerful destructive force that will burrow down at an angle until it reaches bedrock.  It will not drop any blocks during this process, consuming them to continue to fuel itself."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "ritual",
+				"location": "mana-and-artifice:rituals/staircase"
+			}
+		]
+	},
+	"Homestead": {
+		"index": 0,
+		"category": "rituals",
+		"sections": [
+			{
+				"type": "title",
+				"value": "宅地儀式"
+			},
+			{
+				"type": "text",
+				"value": "This ritual will create a waystone underneath it matching the rune combination used in the ritual, in the same order.\n\nCasting the Ritual of Return will allow you to use the matching rune combination to return to this location, provided you are on the same dimension."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "ritual",
+				"location": "mana-and-artifice:rituals/homestead"
+			},
+			{
+				"type": "ritual",
+				"location": "mana-and-artifice:rituals/return"
+			}
+		]
+	},
+	"Return": {
+		"index": 0,
+		"category": "rituals",
+		"sections": [
+			{
+				"type": "title",
+				"value": "回返儀式"
+			},
+			{
+				"type": "text",
+				"value": "This ritual will find a waystone with the matching rune combination and open a portal to it.  Stepping through the portal will teleport you instantly to that location.\n\nOptionally, Adding a dye to the center will change the color of the portal.\n\nRemember, a portal will never teleport a sneaking target."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "ritual",
+				"location": "mana-and-artifice:rituals/homestead"
+			},
+			{
+				"type": "ritual",
+				"location": "mana-and-artifice:rituals/return"
+			}
+		]
+	},
+	"Gate": {
+		"index": 0,
+		"category": "rituals",
+		"tier": 5,
+		"sections": [
+			{
+				"type": "title",
+				"value": "門之儀式"
+			},
+			{
+				"type": "text",
+				"value": "This ritual will find a waystone with the matching rune combination and open a portal to it.  Stepping through the portal will teleport you instantly to that location.  Unlike the Ritual of Return, this portal will remain open until a rune of marking is thrown into it.\n\nOptionally, Adding a dye to the center will change the color of the portal.\n\nRemember, a portal will never teleport a sneaking target."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "ritual",
+				"location": "mana-and-artifice:rituals/homestead"
+			},
+			{
+				"type": "ritual",
+				"location": "mana-and-artifice:rituals/gate"
+			}
+		]
+	},
+	"Summoning": {
+		"index": 0,
+		"category": "rituals",
+		"tier": 3,
+		"sections": [
+			{
+				"type": "title",
+				"value": "召喚儀式"
+			},
+			{
+				"type": "text",
+				"value": "This ritual will use a player charm to open a portal at that player's current location.  That portal will allow the player to step through and teleport to the location that the ritual was performed."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "ritual",
+				"location": "mana-and-artifice:rituals/summon"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/rituals/player_charm"
+			}
+		]
+	},
+	"Visiting": {
+		"index": 0,
+		"category": "rituals",
+		"tier": 3,
+		"sections": [
+			{
+				"type": "title",
+				"value": "造訪儀式"
+			},
+			{
+				"type": "text",
+				"value": "該儀式將使用玩家符咒在儀式中心打開一個傳送門。 穿過傳送門會將您傳送到玩家完成儀式時所在的位置。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "ritual",
+				"location": "mana-and-artifice:rituals/visit"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/rituals/player_charm"
+			}
+		]
+	},
+	"Tagging Charms": {
+		"index": -1,
+		"category": "rituals",
+		"tier": 3,
+		"sections": [
+			{
+				"type": "title",
+				"value": "標記符咒"
+			},
+			{
+				"type": "text",
+				"value": "Player charms and world charms, once crafted, can be attuned to by a player or world by right clicking on the charm.  Attuned player charms can then be given to trusted allies to allow them to use rituals involving you, such as Summoning or Visiting (once unlocked).  Attuned world charms can be used to use a Ritual of Return or a Ritual of the Gate to target a point in a different dimension."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/rituals/player_charm"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/rituals/world_charm"
+			}
+		]
+	},
+	"Motes": {
+		"category": "rituals",
+		"index": -1,
+		"sections": [
+			{
+				"type": "title",
+				"value": "微粒"
+			},
+			{
+				"type": "text",
+				"value": "存在創造各種元素微粒的儀式。 每個親和力都有一個儀式/微核。 他們是：\n\n永恆虛空儀式/終界微核\n\n遺忘之知儀式/魔法微核\n\n不羈之風儀式/空氣微核\n\n焦灼煉獄儀式/烈火微核\n\n淵極之海儀式/流水微核\n\n遠古之石儀式/大地微粒。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "ritual",
+				"location": "mana-and-artifice:rituals/endless_void"
+			},
+			{
+				"type": "ritual",
+				"location": "mana-and-artifice:rituals/forgotten_lore"
+			},
+			{
+				"type": "ritual",
+				"location": "mana-and-artifice:rituals/untamed_wind"
+			},
+			{
+				"type": "ritual",
+				"location": "mana-and-artifice:rituals/searing_inferno"
+			},
+			{
+				"type": "ritual",
+				"location": "mana-and-artifice:rituals/deep_ocean"
+			},
+			{
+				"type": "ritual",
+				"location": "mana-and-artifice:rituals/ancient_stone"
+			}
+		]
+	},
+	"Ritual Kits": {
+		"index": -1,
+		"category": "rituals",
+		"sections": [
+			{
+				"type": "title",
+				"value": "儀式套件"
+			},
+			{
+				"type": "text",
+				"value": "Having to draw out a ritual each and every time can be time consuming.  Enter the ritual kit.\n\nTo bind the kit to a specific ritual pattern, sneak while activating the centre of a ritual.\n\nSneak right click the kit on empty space to open the bag.  Place all items needed for the ritual inside the kit.\n\nActivating the kit on a sufficiently sized, empty flat space will instantly place and activate the ritual.  Items will be consumed from the kit.\n\nAdditionally, rituals activated from a kit complete significantly faster than ones drawn manually."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "合成",
+				"location": "mana-and-artifice:rituals/ritual_kit"
+			}
+		]
+	},
+	"Metal Ritual Runes": {
+		"index": -1,
+		"category": "rituals",
+		"tier": 2,
+		"sections": [
+			{
+				"type": "title",
+				"value": "金屬儀式符文"
+			},
+			{
+				"type": "text",
+				"value": "It may be desirable to have certain rituals not remove their ritual runes when completing.  Creating the ritual pattern out of metal ritual runes will achieve this goal."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "合成",
+				"location": "mana-and-artifice:runescribing/runescribing_table"
+			},
+			{
+				"type": "合成",
+				"location": "mana-and-artifice:rune_clay_plate"
+			},
+			{
+				"type": "runescribing",
+				"location": "mana-and-artifice:runescribing/runescribe_metal_ritual_rune"
+			}
+		]
+	},
+	"Mana Resevoir": {
+		"index": -2,
+		"category": "manaweaving",
+		"sections": [
+			{
+				"type": "title",
+				"value": "魔力儲瓶"
+			},
+			{
+				"type": "text",
+				"value": "The mana resevoir is a container that will draw mana from mana crystals and nearby players and store it as liquid mana.  Currently it is only used as a crafting reagent and there is no point to placing it in the world."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "合成",
+				"location": "mana-and-artifice:mana_resevoir"
+			}
+		]
+	},
+	"Manaweave Projector": {
+		"index": -2,
+		"category": "manaweaving",
+		"sections": [
+			{
+				"type": "title",
+				"value": "織魔放映機"
+			},
+			{
+				"type": "text",
+				"value": "對於那些不願意或無法手動繪製魔法圖案的巫師，他們可以製作一個織魔放映機。放置於地上後，他會從2個方塊距離內的玩家，吸收魔力。總共可以吸收100魔力。 \n\n當魔力滿載時啟動，它將會放映出型樣。 使用織魔圖樣啟動將更改放映的模式。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "合成",
+				"location": "mana-and-artifice:manaweave_projector"
+			}
+		]
+	},
+	"Combining Patterns": {
+		"index": -1,
+		"category": "manaweaving",
+		"sections": [
+			{
+				"type": "title",
+				"value": "組合模式"
+			},
+			{
+				"type": "text",
+				"value": "When drawing manaweave patterns, if no manaweaving altar or ritual is nearby, they will combine with other nearby patterns.  This can be used to achieve certain effects, such as summoning a grimoire once you reach Tier 5."
+			}
+		],
+		"related_recipes": []
+	},
+	"Manaweaving Silks": {
+		"index": 0,
+		"category": "manaweaving",
+		"sections": [
+			{
+				"type": "title",
+				"value": "織魔絲綢"
+			},
+			{
+				"type": "text",
+				"value": "某些絲綢可以藉由織魔祭壇，結合正確的成分來創造。這些絲綢可用於其他製作。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/manaweaving_runic_silk"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/manaweaving_infused_silk"
+			}
+		]
+	},
+	"Stone Runes": {
+		"index": 0,
+		"category": "artifice",
+		"sections": [
+			{
+				"type": "title",
+				"value": "符號"
+			},
+			{
+				"type": "text",
+				"value": "Basic glyphs are a cornerstone of magical crafting.  A blank glyph is crafted with various dye colors to create magical patterns.  These glyphs are then used to focus magical effects such as rituals and enchanting.\n\nMages often craft bags specifically to carry these glyphs."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "合成",
+				"location": "mana-and-artifice:stone_runes/rune_blank"
+			},
+			{
+				"type": "合成",
+				"location": "mana-and-artifice:stone_runes/rune_bag"
+			},
+			{
+				"type": "合成",
+				"locations": [
+					"mana-and-artifice:stone_runes/rune_black",
+					"mana-and-artifice:stone_runes/rune_brown",
+					"mana-and-artifice:stone_runes/rune_blue",
+					"mana-and-artifice:stone_runes/rune_cyan",
+					"mana-and-artifice:stone_runes/rune_gray",
+					"mana-and-artifice:stone_runes/rune_green",
+					"mana-and-artifice:stone_runes/rune_light_blue",
+					"mana-and-artifice:stone_runes/rune_light_blue",
+					"mana-and-artifice:stone_runes/rune_lime",
+					"mana-and-artifice:stone_runes/rune_magenta",
+					"mana-and-artifice:stone_runes/rune_orange",
+					"mana-and-artifice:stone_runes/rune_pink",
+					"mana-and-artifice:stone_runes/rune_purple",
+					"mana-and-artifice:stone_runes/rune_red",
+					"mana-and-artifice:stone_runes/rune_red",
+					"mana-and-artifice:stone_runes/rune_yellow"
+				]
+			}
+		]
+	},
+	"Rune: Air": {
+		"index": 0,
+		"category": "runesmithing",
+		"sections": [
+			{
+				"type": "title",
+				"value": "符文：氣"
+			},
+			{
+				"type": "text",
+				"value": "The air rune pattern is used to apply enchantments focusing around the element of air."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "runescribing",
+				"location": "mana-and-artifice:runescribing/runescribe_air"
+			},
+			{
+				"type": "runesmithing",
+				"location": "mana-and-artifice:runeforging/runeforge_air"
+			}
+		]
+	},
+	"Rune: Arcane": {
+		"index": 0,
+		"category": "runesmithing",
+		"sections": [
+			{
+				"type": "title",
+				"value": "符文：奧術"
+			},
+			{
+				"type": "text",
+				"value": "The arcane rune pattern is used to apply enchantments focusing around the realm of the arcane."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "runescribing",
+				"location": "mana-and-artifice:runescribing/runescribe_arcane"
+			},
+			{
+				"type": "runesmithing",
+				"location": "mana-and-artifice:runeforging/runeforge_arcane"
+			}
+		]
+	},
+	"Rune: Aura": {
+		"index": 0,
+		"category": "runesmithing",
+		"sections": [
+			{
+				"type": "title",
+				"value": "符文：靈氣"
+			},
+			{
+				"type": "text",
+				"value": "The aura rune pattern is used to apply enchantments focusing on auras surrounding the enchantment bearer.  These enchantments are extremely powerful and can even affect nearby allies."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "runescribing",
+				"location": "mana-and-artifice:runescribing/runescribe_aura"
+			},
+			{
+				"type": "runesmithing",
+				"location": "mana-and-artifice:runeforging/runeforge_aura"
+			}
+		]
+	},
+	"Rune: Defense": {
+		"index": 0,
+		"category": "runesmithing",
+		"sections": [
+			{
+				"type": "title",
+				"value": "符文：防禦"
+			},
+			{
+				"type": "text",
+				"value": "這種符文圖案需與專注於防禦的附魔結合使用。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "runescribing",
+				"location": "mana-and-artifice:runescribing/runescribe_defense"
+			},
+			{
+				"type": "runesmithing",
+				"location": "mana-and-artifice:runeforging/runeforge_defense"
+			}
+		]
+	},
+	"Rune: Earth": {
+		"index": 0,
+		"category": "runesmithing",
+		"sections": [
+			{
+				"type": "title",
+				"value": "符文：大地"
+			},
+			{
+				"type": "text",
+				"value": "The earth rune pattern is used to apply enchantments focusing around the element of earth."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "runescribing",
+				"location": "mana-and-artifice:runescribing/runescribe_earth"
+			},
+			{
+				"type": "runesmithing",
+				"location": "mana-and-artifice:runeforging/runeforge_earth"
+			}
+		]
+	},
+	"Rune: Ender": {
+		"index": 0,
+		"category": "runesmithing",
+		"sections": [
+			{
+				"type": "title",
+				"value": "符文：終界"
+			},
+			{
+				"type": "text",
+				"value": "The ender rune pattern is used to apply enchantments focusing around the realm of the end."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "runescribing",
+				"location": "mana-and-artifice:runescribing/runescribe_ender"
+			},
+			{
+				"type": "runesmithing",
+				"location": "mana-and-artifice:runeforging/runeforge_ender"
+			}
+		]
+	},
+	"Rune: Fire": {
+		"index": 0,
+		"category": "runesmithing",
+		"sections": [
+			{
+				"type": "title",
+				"value": "符文：火"
+			},
+			{
+				"type": "text",
+				"value": "The fire rune pattern is used to apply enchantments focusing around the element of fire."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "runescribing",
+				"location": "mana-and-artifice:runescribing/runescribe_fire"
+			},
+			{
+				"type": "runesmithing",
+				"location": "mana-and-artifice:runeforging/runeforge_fire"
+			}
+		]
+	},
+	"Belt Buckle": {
+		"index": 0,
+		"category": "runesmithing",
+		"sections": [
+			{
+				"type": "title",
+				"value": "皮帶扣"
+			},
+			{
+				"type": "text",
+				"value": "腰帶扣是附魔腰帶中的一個組件。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "runescribing",
+				"location": "mana-and-artifice:runescribing/artifice/belt_buckle_pattern"
+			},
+			{
+				"type": "runesmithing",
+				"location": "mana-and-artifice:runeforging/artifice/runeforge_belt_buckle"
+			}
+		]
+	},
+	"Rune: Marking": {
+		"index": 0,
+		"category": "runesmithing",
+		"sections": [
+			{
+				"type": "title",
+				"value": "標記"
+			},
+			{
+				"type": "text",
+				"value": "The rune of marking is used to mark a location, and is used to target certain rituals.  Using the rune on a given block will store the block's coordinates within the rune.\n\nTypically these runes aren't powerful enough to have an effect over long distances."
+			},
+			{
+				"type": "text",
+				"value": "When holding a rune that has a position set on it in your main hand you will see a green marker at the position.  If the rune is held in your offhand, you will see a red marker.  If you hold two runes, one in each hand with a position set, you will also see a yellow zone indicating which area the two runes mark out."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "runescribing",
+				"location": "mana-and-artifice:runescribing/runescribe_marking"
+			},
+			{
+				"type": "runesmithing",
+				"location": "mana-and-artifice:runeforging/runeforge_marking"
+			}
+		]
+	},
+	"Rune: Metal Ritual Rune": {
+		"index": 0,
+		"category": "runesmithing",
+		"sections": [
+			{
+				"type": "title",
+				"value": "符文：金屬儀式符文"
+			},
+			{
+				"type": "text",
+				"value": "這種符文圖案用於製作用於儀式的永久性符文。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "runescribing",
+				"location": "mana-and-artifice:runescribing/runescribe_metal_ritual_rune"
+			},
+			{
+				"type": "runesmithing",
+				"location": "mana-and-artifice:runeforging/runeforge_metal_ritual_rune"
+			}
+		]
+	},
+	"Rune: Warding": {
+		"index": 0,
+		"category": "runesmithing",
+		"sections": [
+			{
+				"type": "title",
+				"value": "符文：守護"
+			},
+			{
+				"type": "text",
+				"value": "Warding runes are used to ward a block against use.  Once applied, only the one who placed the ward or those on the same team can use or destroy the block.\n\nNote that this feature is not fully implemented."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "runescribing",
+				"location": "mana-and-artifice:runescribing/runescribe_warding"
+			},
+			{
+				"type": "runesmithing",
+				"location": "mana-and-artifice:runeforging/runeforge_warding"
+			}
+		]
+	},
+	"Rune: Water": {
+		"index": 0,
+		"category": "runesmithing",
+		"sections": [
+			{
+				"type": "title",
+				"value": "符文：水"
+			},
+			{
+				"type": "text",
+				"value": "The water rune pattern is used to apply enchantments focusing around the element of water."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "runescribing",
+				"location": "mana-and-artifice:runescribing/runescribe_water"
+			},
+			{
+				"type": "runesmithing",
+				"location": "mana-and-artifice:runeforging/runeforge_water"
+			}
+		]
+	},
+	"Magic Staves and Wands": {
+		"index": 0,
+		"category": "manaweaving",
+		"sections": [
+			{
+				"type": "title",
+				"value": "魔法棒和魔杖"
+			},
+			{
+				"type": "text",
+				"value": "Magic staves and wands are aesthetic choices for mages who want to cast from them.  They can also be found as loot in dungeons, and may have a random spell on it with limited charges.  Staves and wands with charges do not consume mana to cast, but will eventually break.\n\nA spell can be combined with a staff or wand at a manaweaving table."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "合成",
+				"location": "mana-and-artifice:staff_a"
+			},
+			{
+				"type": "合成",
+				"location": "mana-and-artifice:staff_b"
+			},
+			{
+				"type": "合成",
+				"location": "mana-and-artifice:staff_c"
+			},
+			{
+				"type": "合成",
+				"location": "mana-and-artifice:wand_a"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/manaweaving_staff_a"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/manaweaving_staff_b"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/manaweaving_staff_c"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/manaweaving_wand"
+			}
+		]
+	},
+	"Bubble Boat": {
+		"index": 0,
+		"category": "constructs",
+		"sections": [
+			{
+				"type": "title",
+				"value": "泡狀艙船"
+			},
+			{
+				"type": "text",
+				"value": "The Bubble Boat works like a normal boat, however it can be placed underwater, and does not get flooded underwater.  Instead, it quickly brings the passenger to the surface.  It may have other uses and interactions for the creative types."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/bubble_boat"
+			}
+		]
+	},
+	"Brimstone Boat": {
+		"index": 0,
+		"category": "constructs",
+		"sections": [
+			{
+				"type": "title",
+				"value": "硫磺艙船"
+			},
+			{
+				"type": "text",
+				"value": "The brimstone boat is an upgraded version of the bubble boat that boasts all the same functionality of the bubble boat itself, but also contains the ability to float across lava."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/brimstone_boat"
+			}
+		]
+	},
+	"Brimstone Charm": {
+		"index": 0,
+		"category": "artifice",
+		"sections": [
+			{
+				"type": "title",
+				"value": "硫磺符咒"
+			},
+			{
+				"type": "text",
+				"value": "The brimstone charm is an upgrade ingredient for things like the bubble boat and the runeforge."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/brimstone_charm"
+			}
+		]
+	},
+	"Arcane Sentry": {
+		"index": 0,
+		"category": "artifice",
+		"sections": [
+			{
+				"type": "title",
+				"value": "奧術守衛"
+			},
+			{
+				"type": "text",
+				"value": "奧術哨兵是一本附魔的法術書，用巫師粉筆繪製了幾個符文，然後撒上葡萄灰。 當書中放有長滿灰塵的灰塵時，它會向范圍內的任何敵對生物發射奧術箭。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/arcane_sentry"
+			}
+		]
+	},
+	"Mage Armor": {
+		"index": 0,
+		"category": "artifice",
+		"sections": [
+			{
+				"type": "title",
+				"value": "法術護甲"
+			},
+			{
+				"type": "text",
+				"value": "I'm able to create some mage armor out of some infused silk.  When I make and wear a full set it will increase my maximum mana and mana regen due to the runes I put in it.\n\nI can also dye it any color I want, including combinations of dyes to make new colors!"
+			},
+			{
+				"type": "text",
+				"value": "It will also drain the mana from a mana crystal fragment in my inventory, and my own mana after that to repair itself."
+			},
+			{
+				"type": "text",
+				"value": "If it does fully break (it is rather brittle), it will become tattered and not effective.  However, I can take it to a Runic Anvil and repair it with some Infused Silk and a Sorcerous Sewing Kit.  Put the armor on the anvil, the silk on top of that, and activate the anvil with the sewing kit."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/armor/mage_cowl"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/armor/mage_robes"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/armor/mage_leggings"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/armor/mage_boots"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/armor/infused_thread"
+			},
+			{
+				"type": "runescribing",
+				"location": "mana-and-artifice:runescribing/constructs/runescribe_defense"
+			},
+			{
+				"type": "runesmithing",
+				"location": "mana-and-artifice:runeforging/constructs/runeforge_defense"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/manaweaving_infused_silk"
+			}
+		]
+	},
+	"Armor Repair": {
+		"index": 0,
+		"category": "artifice",
+		"sections": [
+			{
+				"type": "title",
+				"value": "護甲修復"
+			},
+			{
+				"type": "text",
+				"value": "If my mage armor ever breaks, I can take it to a Runic Anvil and repair it with some Infused Silk and a Sorcerous Sewing Kit.  Put the armor on the anvil, the silk on top of that, and activate the anvil with the sewing kit."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/armor/infused_thread"
+			},
+			{
+				"type": "runescribing",
+				"location": "mana-and-artifice:runescribing/armor/pattern_vinteum_needle"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforging/armor/vinteum_needle"
+			},
+			{
+				"type": "合成",
+				"location": "mana-and-artifice:sorcerous_sewing_set"
+			}
+		]
+	},
+	"Eldritch Orb": {
+		"index": 0,
+		"tier": 3,
+		"category": "artifice",
+		"sections": [
+			{
+				"type": "title",
+				"value": "怪異之球"
+			},
+			{
+				"type": "text",
+				"value": "如果我使用它，這個小附魔球可以注入我的法力，類似於法力水晶碎片。 一旦它有一些法力，如果我試圖把它扔在地上，它就會升起並漂浮在我的頭附近。 它似乎不喜歡這個世界的怪物，會用小奧術弩箭猛烈攻擊。 傷害不是很大，但它可以幫助我不至於不知所措。\n\n可以對球進行附魔，以增強其功能。"
+			},
+			{
+				"type": "title",
+				"value": "節肢剋星"
+			},
+			{
+				"type": "text",
+				"value": "Applies slow to spiders, endermites, and silverfish hit equivalent to the enchantment level."
+			},
+			{
+				"type": "title",
+				"value": "火焰"
+			},
+			{
+				"type": "text",
+				"value": "將目標點燃，持續時間與附魔等級相同，以秒為單位。"
+			},
+			{
+				"type": "title",
+				"value": "擊退"
+			},
+			{
+				"type": "text",
+				"value": "增加每個弩箭的擊退強度。"
+			},
+			{
+				"type": "title",
+				"value": "分裂箭矢"
+			},
+			{
+				"type": "text",
+				"value": "允許每次射擊多個目標。"
+			},
+			{
+				"type": "title",
+				"value": "快速上弦"
+			},
+			{
+				"type": "text",
+				"value": "更頻繁地著火。"
+			},
+			{
+				"type": "title",
+				"value": "不死剋星"
+			},
+			{
+				"type": "text",
+				"value": "對不死目標施加與附魔等級相同的虛弱和減速效果。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/mana_crystal_fragment"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/eldritch_orb"
+			}
+		]
+	},
+	"Making Blank Plates": {
+		"index": -98,
+		"category": "runesmithing",
+		"sections": [
+			{
+				"type": "title",
+				"value": "製作空白板"
+			},
+			{
+				"type": "text",
+				"value": "In order to runescribe, I'll need to first make a blank plate.  I should be able to make one out of clay with a few runes embedded in it.  After that, I can fire it in the runeforge to make it able to be scribed."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "合成",
+				"location": "mana-and-artifice:rune_clay_plate"
+			},
+			{
+				"type": "arcane_furnace",
+				"location": "mana-and-artifice:arcanefurnace/rune_pattern_blank"
+			}
+		]
+	},
+	"Mundane Bracelet": {
+		"index": 0,
+		"category": "runesmithing",
+		"sections": [
+			{
+				"type": "title",
+				"value": "普通手鐲"
+			},
+			{
+				"type": "text",
+				"value": "I have a delicate setup for making all of my runes, these tools could easily make some jewellery that I could later imbue with magical properties.  I'll start with a simple bracelet."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "runescribing",
+				"location": "mana-and-artifice:runescribing/artifice/mundane_bracelet_pattern"
+			},
+			{
+				"type": "runesmithing",
+				"location": "mana-and-artifice:runeforging/artifice/runeforge_mundane_bracelet"
+			}
+		]
+	},
+	"Emberglow Bracelet": {
+		"index": 0,
+		"category": "artifice",
+		"sections": [
+			{
+				"type": "title",
+				"value": "燼明手鐲"
+			},
+			{
+				"type": "text",
+				"value": "This enchanted bracelet will protect me from fire and lava.  I must take care though, as it's protection will not last forever and it will eventually break.\n\nThis bracelet can only be crafted by those that have aligned themselves with the Demons of the Nether."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/artifice/emberglow_bracelet"
+			}
+		]
+	},
+	"Ley Line Bracelet": {
+		"index": 0,
+		"category": "artifice",
+		"sections": [
+			{
+				"type": "title",
+				"value": "魔脈手鐲"
+			},
+			{
+				"type": "text",
+				"value": "This enchanted bracelet allows me to draw power from nearby motes of residual magic.  I can use this to fuel my spells when I would otherwise not have enough mana.  It might be worth making something to help me see them.\n\nThis bracelet can only be crafted by those that have aligned themselves with the Council of Wizards."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/artifice/ley_line_bracelet"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/sight_unguent"
+			}
+		]
+	},
+	"Antidote Bracelet": {
+		"index": 0,
+		"category": "artifice",
+		"sections": [
+			{
+				"type": "title",
+				"value": "解毒手鍊"
+			},
+			{
+				"type": "text",
+				"value": "This enchanted bracelet will protect me from the effects of poison.  It only contains so much magic, and will eventually break."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/sight_unguent"
+			}
+		]
+	},
+	"Trickery Bracelet": {
+		"index": 0,
+		"category": "artifice",
+		"sections": [
+			{
+				"type": "title",
+				"value": "詭計手鍊"
+			},
+			{
+				"type": "text",
+				"value": "這個附魔手鐲可以提高我潛行時的隱身性，讓我可以徒手揮拳，使我的目標從身邊飛走。 它的法力有限，最終會破裂。\n\n這只能由那些與仙女之庭結盟的人製作。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/artifice/trickery_bracelet"
+			}
+		]
+	},
+	"Mundane Ring": {
+		"index": 0,
+		"category": "runesmithing",
+		"sections": [
+			{
+				"type": "title",
+				"value": "普通戒指"
+			},
+			{
+				"type": "text",
+				"value": "This simple ring doesn't offer too much on its own, but the enchantment possibilities lend it significantly more use."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "runescribing",
+				"location": "mana-and-artifice:runescribing/artifice/mundane_ring_pattern"
+			},
+			{
+				"type": "runesmithing",
+				"location": "mana-and-artifice:runeforging/artifice/runeforge_mundane_ring"
+			}
+		]
+	},
+	"Mundane Amulet": {
+		"index": 0,
+		"category": "runesmithing",
+		"sections": [
+			{
+				"type": "title",
+				"value": "普通護身符"
+			},
+			{
+				"type": "text",
+				"value": "This simple amulet doesn't offer too much on its own, but the enchantment possibilities lend it significantly more use."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "runescribing",
+				"location": "mana-and-artifice:runescribing/artifice/mundane_amulet_pattern"
+			},
+			{
+				"type": "runesmithing",
+				"location": "mana-and-artifice:runescribing/artifice/mundane_amulet_pattern"
+			}
+		]
+	},
+	"Ring of the Skies": {
+		"index": 0,
+		"category": "artifice",
+		"sections": [
+			{
+				"type": "title",
+				"value": "碧空之戒"
+			},
+			{
+				"type": "text",
+				"value": "This ring, when worn, allows me to cast one more movement spell while I am airborne before I need to touch the ground again."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/artifice/air_cast_ring"
+			}
+		]
+	},
+	"Belt of Locks": {
+		"index": 0,
+		"category": "artifice",
+		"sections": [
+			{
+				"type": "title",
+				"value": "鎖帶"
+			},
+			{
+				"type": "text",
+				"value": "佩戴這條腰帶時，可以防止我在施法時改變親和力。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/artifice/belt_of_locks"
+			}
+		]
+	},
+	"Belt of Selfishness": {
+		"index": 0,
+		"category": "artifice",
+		"sections": [
+			{
+				"type": "title",
+				"value": "自私腰帶"
+			},
+			{
+				"type": "text",
+				"value": "This belt, when worn, causes aura enchantments to only affect me, and cost less mana while doing so."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/artifice/belt_of_selfishness"
+			}
+		]
+	},
+	"Staff of the Pilgrim": {
+		"index": 0,
+		"category": "artifice",
+		"sections": [
+			{
+				"type": "title",
+				"value": "朝聖之杖"
+			},
+			{
+				"type": "text",
+				"value": "When held in my offhand, this staff will channel the spirits of wanderlust to increase my movement speed, my jump height, my swim speed, and give me a form of step assist."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/artifice/staff_of_the_pilgrim"
+			}
+		]
+	},
+	"Amulet of the Battlemage": {
+		"index": 0,
+		"category": "artifice",
+		"sections": [
+			{
+				"type": "title",
+				"value": "戰鬥巫師護身符"
+			},
+			{
+				"type": "text",
+				"value": "This amulet, when worn, will increase the damage of my spells cast while I have a sword in the other hand.\n\nBecause even wizards need to multiclass."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/artifice/battlemage_amulet"
+			}
+		]
+	},
+	"Warding Amulet": {
+		"index": 0,
+		"category": "artifice",
+		"sections": [
+			{
+				"type": "title",
+				"value": "守護護身符"
+			},
+			{
+				"type": "text",
+				"value": "佩戴此護身符後，受到的魔法傷害會降低 10%。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/artifice/warding_amulet"
+			}
+		]
+	},
+	"Witherguard Amulet": {
+		"index": 0,
+		"category": "artifice",
+		"sections": [
+			{
+				"type": "title",
+				"value": "凋零守衛護身符"
+			},
+			{
+				"type": "text",
+				"value": "This amulet, when worn, will protect me from the nefarious with effects caused by the aptly named Wither and it's skeletal minions as long as it has charge."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/artifice/witherguard_amulet"
+			}
+		]
+	},
+	"Enderguard Amulet": {
+		"index": 0,
+		"category": "artifice",
+		"sections": [
+			{
+				"type": "title",
+				"value": "終界守衛護身符"
+			},
+			{
+				"type": "text",
+				"value": "This amulet, when worn, will teleport nearby creepers that are about to explode away from me as long as it has charge remaining.  Hopefully they don't teleport near something else that's friendly."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/artifice/enderguard_amulet"
+			}
+		]
+	},
+	"Ring of Collection": {
+		"index": 0,
+		"category": "artifice",
+		"sections": [
+			{
+				"type": "title",
+				"value": "收藏之戒"
+			},
+			{
+				"type": "text",
+				"value": "This ring, when worn, will cause my break spells to automatically transport the items that would be dropped on the ground directly into my inventory.  If my inventory is full, they will drop at my feet."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/artifice/ring_of_collection"
+			}
+		]
+	},
+	"Ring of Transportation": {
+		"index": 0,
+		"category": "artifice",
+		"sections": [
+			{
+				"type": "title",
+				"value": "運輸之戒"
+			},
+			{
+				"type": "text",
+				"value": "This ring, when worn, will cause my break spells to attempt to transport items to a contained marked by a Rune of Marking in my offhand.  If the container is for whatever reason unreachable, for example unloaded or in another dimension, it will attempt to instead put them in my inventory.  If my inventory is full, it will drop them at my feet."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/artifice/ring_of_transportation"
+			}
+		]
+	},
+	"Ring of Silk": {
+		"index": 0,
+		"category": "artifice",
+		"sections": [
+			{
+				"type": "title",
+				"value": "絲觸之戒"
+			},
+			{
+				"type": "text",
+				"value": "This ring, when worn, will enhance my break spells to be more delicate, allowing me to harvest things I wouldn't normally be able to otherwise."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/artifice/silk_touch_ring"
+			}
+		]
+	},
+	"Rings of Fortune": {
+		"index": 0,
+		"category": "artifice",
+		"sections": [
+			{
+				"type": "title",
+				"value": "幸運之戒"
+			},
+			{
+				"type": "text",
+				"value": "These rings will enhance my luck at finding treasure when mining.  My break spell will result in more treasures than it would otherwise.\n\nI'm sure as I grow in skill and power that I will be able to make more powerful versions of these rings.  I should check back later."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/artifice/fortune_ring_minor"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/artifice/fortune_ring_minor"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/artifice/fortune_ring_greater"
+			}
+		]
+	},
+	"Rings of Breaking": {
+		"index": 0,
+		"category": "artifice",
+		"sections": [
+			{
+				"type": "title",
+				"value": "破碎之戒"
+			},
+			{
+				"type": "text",
+				"value": "These rings will enhance the power of my break spell in lieu of magnitude.  My break spell will be able to break harder blocks than it would otherwise."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/artifice/break_ring_lesser"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/artifice/break_ring_greater"
+			}
+		]
+	},
+	"Ring of the Enderman": {
+		"index": 0,
+		"category": "artifice",
+		"sections": [
+			{
+				"type": "title",
+				"value": "終界使者之戒"
+			},
+			{
+				"type": "text",
+				"value": "After studying the capabilities of Endermen, I have devised a recipe for a ring that will enhance my blink spells allowing the shapes I use to dictate where I teleport to if I target a block.\n\nWhen teleporting in this way, the effective range of my blink spell is also doubled.\n\nIf I target air or a creature, it will function as the default spell."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/artifice/blink_precision_ring"
+			}
+		]
+	},
+	"Mana Crystal Fragment": {
+		"index": 0,
+		"category": "artifice",
+		"sections": [
+			{
+				"type": "title",
+				"value": "魔力晶體碎片"
+			},
+			{
+				"type": "text",
+				"value": "This enchanted crystal can act as a small reserve of mana.  By changing the mode (sneak + use) between input and output, I can either store mana at times where I have plenty, or retrieve mana in a pinch when I need it."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/mana_crystal_fragment"
+			}
+		]
+	},
+	"Minor Mana Gem": {
+		"index": 0,
+		"category": "artifice",
+		"sections": [
+			{
+				"type": "title",
+				"value": "小塊魔力寶石"
+			},
+			{
+				"type": "text",
+				"value": "This enchanted gem can act as a moderate reserve of mana.  By changing the mode (sneak + use) between input and output, I can either store mana at times where I have plenty, or retrieve mana in a pinch when I need it."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/minor_mana_gem"
+			}
+		]
+	},
+	"Major Mana Gem": {
+		"index": 0,
+		"category": "artifice",
+		"sections": [
+			{
+				"type": "title",
+				"value": "大塊魔力寶石"
+			},
+			{
+				"type": "text",
+				"value": "This enchanted crystal can act as a very large reserve of mana.  By changing the mode (sneak + use) between input and output, I can either store mana at times where I have plenty, or retrieve mana in a pinch when I need it."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/major_mana_gem"
+			}
+		]
+	},
+	"Crystal of Memories": {
+		"index": 0,
+		"category": "artifice",
+		"sections": [
+			{
+				"type": "title",
+				"value": "回憶晶體"
+			},
+			{
+				"type": "text",
+				"value": "This enchanted crystal can act as a reserve of experience.  By changing the mode (sneak + use) between input and output, I can either store experience at times where I have plenty, or retrieve experience in a pinch when I need it."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/crystal_of_memories"
+			}
+		]
+	},
+	"Mana Crystal": {
+		"index": 0,
+		"category": "artifice",
+		"sections": [
+			{
+				"type": "title",
+				"value": "魔力晶體"
+			},
+			{
+				"type": "text",
+				"value": "By combining several mana crystal fragments together, I have figured out a way to create a larger crystal similar to the ones of old.  It radiates pure mana, and simply standing near it makes me feel like my own reserves of mana replenish more quickly."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/mana_crystal"
+			}
+		]
+	},
+	"Step 2: Runeforge Enchanting": {
+		"category": "enchantments",
+		"index": -1,
+		"tier": 2,
+		"sections": [
+			{
+				"type": "title",
+				"value": "符文熔爐附魔"
+			},
+			{
+				"type": "text",
+				"value": "The next step in the enchanting process after creating the enchanted rune is to take everything to the runic anvil and actually apply it to your gear."
+			},
+			{
+				"type": "text",
+				"value": "To apply the enchantment, simply place the item you want to enchant on the anvil, then place the enchanted rune on top of it.  Take your Runesmith's Hammer and strike the anvil repeatedly (right click).  If the enchantment can't be applied to the item, the items will pop off of the anvil."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "合成",
+				"location": "mana-and-artifice:runeforging/runic_anvil"
+			},
+			{
+				"type": "合成",
+				"location": "mana-and-artifice:runeforging/runesmith_hammer"
+			}
+		]
+	},
+	"Ancient Stone": {
+		"index": 0,
+		"category": "rituals",
+		"sections": [
+			{
+				"type": "title",
+				"value": "遠古之石儀式"
+			},
+			{
+				"type": "text",
+				"value": "This ritual coalesces the elements of earth and nature into an essence.\n\nThis ritual can only be performed while deep underground, near bedrock."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "ritual",
+				"location": "mana-and-artifice:rituals/ancient_stone"
+			}
+		]
+	},
+	"Deep Ocean": {
+		"index": 0,
+		"category": "rituals",
+		"sections": [
+			{
+				"type": "title",
+				"value": "淵極之海儀式"
+			},
+			{
+				"type": "text",
+				"value": "This ritual coalesces the elements of water and the deep sea into an essence.\n\nThis ritual can only be performed while in an ocean biome."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "ritual",
+				"location": "mana-and-artifice:rituals/deep_ocean"
+			}
+		]
+	},
+	"Endless Void": {
+		"index": 0,
+		"category": "rituals",
+		"sections": [
+			{
+				"type": "title",
+				"value": "永恆虛空儀式"
+			},
+			{
+				"type": "text",
+				"value": "This ritual coalesces the elements of entropy and the void into an essence.\n\nThis ritual can only be performed while all ritual runes are in complete darkness."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "ritual",
+				"location": "mana-and-artifice:rituals/endless_void"
+			}
+		]
+	},
+	"Forgotten Lore": {
+		"index": 0,
+		"category": "rituals",
+		"sections": [
+			{
+				"type": "title",
+				"value": "遺忘之知儀式"
+			},
+			{
+				"type": "text",
+				"value": "This ritual coalesces the elements of knowledge and study into an essence.\n\nThis ritual must be done by placing enough bookshelves anywhere along the ritual's outer border.  I think ten should do the trick."
+			},
+			{
+				"type": "image",
+				"location": "mana-and-artifice:textures/guide/forgotten_lore.png",
+				"width": 128,
+				"height": 128
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "ritual",
+				"location": "mana-and-artifice:rituals/forgotten_lore"
+			}
+		]
+	},
+	"Searing Inferno": {
+		"index": 0,
+		"category": "rituals",
+		"sections": [
+			{
+				"type": "title",
+				"value": "焦灼煉獄儀式"
+			},
+			{
+				"type": "text",
+				"value": "This ritual coalesces the elements of fire and brimstone into an essence.\n\nThis ritual can only be performed in the nether."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "ritual",
+				"location": "mana-and-artifice:rituals/searing_inferno"
+			}
+		]
+	},
+	"Untamed Wind": {
+		"index": 0,
+		"category": "rituals",
+		"sections": [
+			{
+				"type": "title",
+				"value": "不羈之風儀式"
+			},
+			{
+				"type": "text",
+				"value": "This ritual coalesces the elements of wind and air into an essence.\n\nThis ritual can only be performed while high above the clouds."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "ritual",
+				"location": "mana-and-artifice:rituals/untamed_wind"
+			}
+		]
+	},
+	"Burning Hells": {
+		"index": 0,
+		"category": "rituals",
+		"sections": [
+			{
+				"type": "title",
+				"value": "燃燼地獄儀式"
+			},
+			{
+				"type": "text",
+				"value": "這個被禁止的儀式召喚了一個惡魔領主。 這些惡魔經常向那些尋求力量的人提供力量，儘管力量總是有代價的。\n\n惡魔是非常強大的，只尊重那些能夠承受這種力量的人。 在嘗試與惡魔討價還價之前應該採取適當的預防措施，以免召喚者發現自己被活活燒死。\n\n這包括保護，以及提供火焰微粒以供奉惡魔。\n\n與這些實體結盟會與他人為敵。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "ritual",
+				"location": "mana-and-artifice:rituals/burning_hells"
+			},
+			{
+				"type": "ritual",
+				"location": "mana-and-artifice:rituals/searing_inferno"
+			}
+		]
+	},
+	"Faerie Courts": {
+		"index": 0,
+		"category": "rituals",
+		"sections": [
+			{
+				"type": "title",
+				"value": "仙女之庭儀式"
+			},
+			{
+				"type": "text",
+				"value": "這個被禁止的儀式會召喚一位精靈女王。 通過討價還價，這些精靈通常會向尋求它的人提供權力，儘管權力總是會帶來代價。\n\n提供空氣微粒通常是個不錯的選擇。\n\n與這些實體結盟會與他人為敵。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "ritual",
+				"location": "mana-and-artifice:rituals/faerie_courts"
+			},
+			{
+				"type": "ritual",
+				"location": "mana-and-artifice:rituals/untamed_wind"
+			}
+		]
+	},
+	"Wizard's Council": {
+		"index": 0,
+		"category": "rituals",
+		"sections": [
+			{
+				"type": "title",
+				"value": "遠古議會儀式"
+			},
+			{
+				"type": "text",
+				"value": "This ritual summons a conclave from the Ancient Council of Wizards.  By doing so, you are offering to align yourself with the council in exchange for access to their knowledge of higher magics.\n\nOnce you have summoned the council, stand in the center of them to receive their blessing, if you believe you are worthy.\n\nAllying oneself with such entities will almost assuredly make enemies of others."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "ritual",
+				"location": "mana-and-artifice:rituals/ancient_council"
+			}
+		]
+	},
+	"Flat Lands": {
+		"index": 0,
+		"category": "rituals",
+		"sections": [
+			{
+				"type": "title",
+				"value": "平坦之地儀式"
+			},
+			{
+				"type": "text",
+				"value": "This very powerful magic allows a mage to mark out an area using special runes of marking, then perform the ritual close to the marked location, within about 16m or so of either of the marked points.  The magic will stream out of the ritual and carve out the marked location, destroying trees, plants, dirt, rocks, ores, and more.\n\nEach of the two Runes of Marking marks the opposite corners of a cube to target."
+			},
+			{
+				"type": "物品",
+				"location": "mana-and-artifice:rune_marking",
+				"scale": 1
+			},
+			{
+				"type": "text",
+				"value": "It seems that only basic blocks are affected by this spell, and not anything like chests, furnaces, or the like.\n\nThere are rumors that no mage has been able to make this ritual function on an area larger than 48m or so.  Any larger just seems to consume the materials and then quickly implode upon itself.  Conversely, any dimension smaller than 3m also seems to have the same effect."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "runescribing",
+				"location": "mana-and-artifice:runescribing/runescribe_marking"
+			},
+			{
+				"type": "ritual",
+				"location": "mana-and-artifice:rituals/flat_lands"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/flat_lands_book"
+			}
+		]
+	},
+	"Clear Skies": {
+		"index": 0,
+		"category": "rituals",
+		"sections": [
+			{
+				"type": "title",
+				"value": "澄空儀式"
+			},
+			{
+				"type": "text",
+				"value": "This ritual allows me to change the weather to be clear blue skies.  Reciting the magic words 'rain, rain, go away, come again another day' does not seem to have any extra effect."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "ritual",
+				"location": "mana-and-artifice:rituals/clear_skies"
+			}
+		]
+	},
+	"Monsoon": {
+		"index": 0,
+		"category": "rituals",
+		"tier": 4,
+		"sections": [
+			{
+				"type": "title",
+				"value": "季風儀式"
+			},
+			{
+				"type": "text",
+				"value": "I can use this ritual to summon a torrent of rain.  If I add some gray wool to the top of the ritual, it will cause a thunderstorm.  If I leave it out, it will just rain."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "合成",
+				"location": "minecraft:gray_wool"
+			},
+			{
+				"type": "ritual",
+				"location": "mana-and-artifice:rituals/monsoon"
+			}
+		]
+	},
+	"Unguent of Seeing": {
+		"index": 0,
+		"category": "manaweaving",
+		"sections": [
+			{
+				"type": "title",
+				"value": "視之藥膏"
+			},
+			{
+				"type": "text",
+				"value": "The unguent of seeing is a concoction that, when applied to the eyes, allows the recipient to see more of the magical aura around them for a short time.  \n\nIt also helps to pierce veils and illusions created by other mages."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/sight_unguent"
+			}
+		]
+	},
+	"Cantrips": {
+		"category": "manaweaving",
+		"index": -91,
+		"sections": [
+			{
+				"type": "title",
+				"value": "符法"
+			},
+			{
+				"type": "text",
+				"value": "符法是只能使用魔力模式組合施展的法術。 每次升級時都會解鎖新的咒語。\n\n您可以使用符法之書為您的符法設置模式組合（最少 2 個模式），然後甚至可以設置自定義符法法術，前提是它們沒有被引導。"
+			},
+			{
+				"type": "title",
+				"value": "施放符法"
+			},
+			{
+				"type": "text",
+				"value": "要施展符法，首先你需要一根魔杖。 裝備它，並使用正常的織魔圖騰繪製第一個圖案。 完成後會出現在空中。 接下來，繪製第二個圖案。 完成後，它將與第一個合併。 匹配符法模式後，您將聽到提示音並看到帶有倒計時條的圖標。 對於必須瞄準的法術，例如咒語，它會在計時器結束時瞄準並施放您正在看的地方。"
+			},
+			{
+				"type": "title",
+				"value": "符法列表"
+			},
+			{
+				"type": "text",
+				"value": "在計時器達到零後，第一個符法將點燃您正在查看的4格方塊內的1格。"
+			},
+			{
+				"type": "text",
+				"value": "第二個符法會在延遲後驅散你的有害影響，類似於喝牛奶。"
+			},
+			{
+				"type": "text",
+				"value": "第三個符法將召喚一本魔法書，一本像末影箱一樣工作的法術書。"
+			},
+			{
+				"type": "text",
+				"value": "最後 3 個符法允許您將咒語放入其中，並且施放符法將施放該咒語，儘管沒有應用任何修飾符。"
+			}
+		],
+		"related_recipes": [
+			{
+				"location": "mana-and-artifice:manaweaving/sorcery/cantrip_book",
+				"type": "manaweaving_altar"
+			},
+			{
+				"location": "mana-and-artifice:manaweaver_wand",
+				"type": "合成"
+			},
+			{
+				"type": "合成",
+				"location": "mana-and-artifice:improvised_manaweaver_wand"
+			}
+		]
+	},
+	"Improvised Manaweaving Wands": {
+		"category": "manaweaving",
+		"index": -91,
+		"sections": [
+			{
+				"type": "title",
+				"value": "即興織魔者之杖"
+			},
+			{
+				"type": "text",
+				"value": "在緊要關頭中，我很確定我可以用一根桿子和神奇的花朵或嵌合體製成一個簡單的即興織魔者之杖。這應該允許我進行任何緊急操作，但在多次使用後可能會破裂。不過，在壞掉之前，我也許能夠先取出一兩個，這會使情況有所改變。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "合成",
+				"location": "mana-and-artifice:improvised_manaweaver_wand"
+			}
+		]
+	},
+	"Warding Candles": {
+		"category": "manaweaving",
+		"index": 0,
+		"sections": [
+			{
+				"type": "title",
+				"value": "護佑之燭"
+			},
+			{
+				"type": "text",
+				"value": "護佑之燭可用於防止敵對生物在蠟燭周圍的所有方向 32 格半徑內生成。 必須用打火石、火法術或火焰符法點燃才能起作用。 它們可以通過右鍵來熄滅。 熄滅時，將不會阻止怪物生成。"
+			}
+		],
+		"related_recipes": [
+			{
+				"location": "mana-and-artifice:manaweaving/artifice/warding_candle",
+				"type": "manaweaving_altar"
+			}
+		]
+	},
+	"Blink": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "閃現"
+			},
+			{
+				"type": "text",
+				"value": "This component causes the target to jump forward through space, passing through blocks if possible.  \n\nIt will not force them inside of a wall, for example."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/blink"
+			}
+		]
+	},
+	"Transplace": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "移位"
+			},
+			{
+				"type": "text",
+				"value": "該組件使目標和施法者交換位置。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/transplace"
+			}
+		]
+	},
+	"Brazier": {
+		"index": "0",
+		"category": "artifice",
+		"sections": [
+			{
+				"type": "title",
+				"value": "火盆"
+			},
+			{
+				"type": "text",
+				"value": "This brazier can be lit/doused as normal, however it also has a minor enchantment on it that can be activated to have it light up when night falls."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "合成",
+				"location": "mana-and-artifice:brazier"
+			}
+		]
+	},
+	"Tables": {
+		"index": "0",
+		"category": "artifice",
+		"sections": [
+			{
+				"type": "title",
+				"value": "桌子"
+			},
+			{
+				"type": "text",
+				"value": "這些桌子純粹是裝飾性的。 把東西放在他們身上。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "合成",
+				"location": "mana-and-artifice:basic_table"
+			},
+			{
+				"type": "合成",
+				"location": "mana-and-artifice:ornate_table"
+			}
+		]
+	},
+	"Slipstream Generator": {
+		"index": "0",
+		"category": "artifice",
+		"sections": [
+			{
+				"type": "title",
+				"value": "沖流生成器"
+			},
+			{
+				"type": "text",
+				"value": "沖流生成器是空氣魔法的奇蹟。\n\n放置時，它會影響單個塊列中位於其上方50個塊和下方50個塊的區域。\n\n站在這個列內的巫師將被氣流抓住。\n\n如果巫師抬頭看，他們將通過沖流上升。\n如果向下看，他們將安全地通過沖流下降。\n\n上升和下降的速度取決於巫師向上或向下看的程度。\n\n蹲伏會將巫師鎖定在沖流中，使他們可以環顧四周或互動，而不會被沖流本身移動。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/artifice/slipstream_generator"
+			}
+		]
+	},
+	"Pedestal": {
+		"index": "0",
+		"category": "artifice",
+		"sections": [
+			{
+				"type": "title",
+				"value": "展示機架"
+			},
+			{
+				"type": "text",
+				"value": "石基座可放置用於展示物品。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "合成",
+				"location": "mana-and-artifice:runeforging/stone_pedestal"
+			}
+		]
+	},
+	"Animated Constructs": {
+		"index": "1",
+		"tier": 2,
+		"category": "constructs",
+		"sections": [
+			{
+				"type": "title",
+				"value": "動作魔偶"
+			},
+			{
+				"type": "text",
+				"value": "動作魔偶體是人形的構造體，它們被灌輸了魔法，以使它們具有生命的外觀。"
+			},
+			{
+				"type": "title",
+				"value": "製作零件"
+			},
+			{
+				"type": "text",
+				"value": "魔偶由5個部分創建：頭部、軀幹、腿部和兩個手臂。這些部分決定了魔偶的能力。花一些時間查看奧秘古籍魔偶分類中的各個部分，並決定您要製作哪些零件。您可以隨時通過命令魔偶返回到空魔偶工作台來修改。這樣做的方法將在後面進一步描述。\n\n一旦知道要製造哪些零件，就需要決定材料。 有六種材料可以製成魔偶，每種材料都會改變魔偶的屬性。 您可以混合和匹配材質，這將平衡構造的優缺點。 嘗試不同的組合以找到適合您需求的組合是值得的。"
+			},
+			{
+				"type": "title",
+				"value": "",
+				"newPage": true
+			},
+			{
+				"type": "title",
+				"value": "木塊",
+				"newPage": true
+			},
+			{
+				"type": "text",
+				"value": "木製魔偶部件由任何種類的木材製成。 它們既輕且浮力好，這意味著幫助魔偶可以更快地漂浮和移動。 然而，它們會導致魔偶在火焰中受到更多傷害，並且生命值不高。"
+			},
+			{
+				"type": "text",
+				"value": "HP/部件：1\n浮力/部件：1\n速度/部件：15\n抗擊退/部件：0%\n防爆/部件：-25%"
+			},
+			{
+				"type": "title",
+				"value": "石頭",
+				"newPage": true
+			},
+			{
+				"type": "text",
+				"value": "石頭魔偶比木頭更堅固，儘管會沉入水中。 它們比木材更堅固，但不如其他材料堅固。 由於它是一種較重的材料，具有更多石頭部分的魔偶更能抵抗擊退。"
+			},
+			{
+				"type": "text",
+				"value": "HP/部件：2\n浮力/部件：-1\n速度/部件：12\n抗擊退/部件：20%\n防爆/部件：-10%"
+			},
+			{
+				"type": "title",
+				"value": "鐵",
+				"newPage": true
+			},
+			{
+				"type": "text",
+				"value": "作為村莊魔像材料的主要選擇，鐵已被大量使用。 它比石頭更有彈性，但下沉得更快，移動得更慢，並且更能抵抗擊退。鐵魔偶在第3層級解鎖。"
+			},
+			{
+				"type": "text",
+				"value": "HP/部件：5\n浮力/部件：-3\n速度/部件：10\n抗擊退/部件：30%\n防爆/部件：4%"
+			},
+			{
+				"type": "title",
+				"value": "金",
+				"newPage": true
+			},
+			{
+				"type": "text",
+				"value": "金魔偶與鐵魔偶非常相似，以犧牲生命值為代價具有更高的擊退抗性。 黃金魔偶在第3層級解鎖。"
+			},
+			{
+				"type": "text",
+				"value": "HP/部件：3\n浮力/部件：-3\n速度/部件：10\n抗擊退/部件：40%\n防爆/部件：2%"
+			},
+			{
+				"type": "title",
+				"value": "黑曜石",
+				"newPage": true
+			},
+			{
+				"type": "text",
+				"value": "黑曜石魔偶是韌性的終極之作。 然而，它們下沉得非常快，移動得非常緩慢。 黑曜石魔偶在第4層級解鎖。"
+			},
+			{
+				"type": "text",
+				"value": "HP/部件：10\n浮力/部件：-5\n速度/部件：9\n抗擊退/部件：40%\n防爆/部件：8%"
+			},
+			{
+				"type": "title",
+				"value": "鑽石",
+				"newPage": true
+			},
+			{
+				"type": "text",
+				"value": "鑽石魔偶非常有彈性，在浮力方面不會過重。它們也更快，但不提供擊退抗性。鑽石魔偶在第5層級解鎖。"
+			},
+			{
+				"type": "text",
+				"value": "HP/部件：6\n浮力/部件：-1\n速度/部件：15\n抗擊退/部件：0%\n防爆/部件：16%"
+			},
+			{
+				"type": "title",
+				"value": "設置魔偶工作臺",
+				"newPage": true
+			},
+			{
+				"type": "text",
+				"value": "魔偶工作檯的要求非常彈性。 您需要工作檯本身，以及工作檯任何方向5個方塊內的總共8個秘鳴晶體。 它們可以在牆壁、天花板、地板上，被擋住也沒關係。"
+			},
+			{
+				"type": "image",
+				"location": "mana-and-artifice:textures/guide/construct_workbench.png",
+				"width": 128,
+				"height": 128
+			},
+			{
+				"type": "title",
+				"value": "召喚魔偶",
+				"newPage": true
+			},
+			{
+				"type": "text",
+				"value": "設置好工作台並製作好零件後，您需要選擇要為魔偶注入的勢力。 每個勢力都會更改魔偶的屬性。 您可以通過對附近 8 個秘鳴水晶中的每一個施放具有給定勢力的法術來設置勢力。 當你這樣做時，水晶上方會出現一個指示勢力的印記。 將魔偶的所有五個部分放在工作台上，並用空手激活工作臺本身以開始製作過程。 一旦灌輸完成。 你可以開始指揮你的魔偶。"
+			},
+			{
+				"type": "title",
+				"value": "親和力效果",
+				"newPage": true
+			},
+			{
+				"type": "text",
+				"value": "如前所述，魔偶是通過親和力召喚的。 這影響了他們的工作。 一個魔偶總共可以有8個親和點。 下表顯示了每點親和力的影響。 您可以自由混合搭配，因此可以找到一些能夠彌補所用材料中弱點或增強優點的東西。 魔偶內的衝突親和力沒有關係。"
+			},
+			{
+				"type": "text",
+				"value": "空氣：1移動速度/點\n\n奧術：5% 魔法傷害抗性/點\n\n大地：5%物理傷害抗性/點\n\n末影：1承載能力/點\n\n火焰：攻擊時燃燒持續1s/點\n\n流水：1浮力/點"
+			},
+			{
+				"type": "title",
+				"value": "游泳"
+			},
+			{
+				"type": "text",
+				"value": "如果魔偶具有正浮力，則它們可以游泳。 這是由它們的材料和親和力決定的。"
+			},
+			{
+				"type": "title",
+				"value": "基本命令",
+				"newPage": true
+			},
+			{
+				"type": "text",
+				"value": "可以使用魔偶控制棒命令魔偶。任何命令的第一步都是在魔偶上使用控制棒。這設置了您將要指揮的魔偶。棒的下一次激活將命令魔偶執行一個動作。魔偶可以執行四種操作：\n\n• 停留。這是通過第二次激活魔偶上的桿來命令的。魔偶將被動地停留在其當前位置。\n\n• 返回工作臺。這是通過在空的魔偶工作台上激活桿來命令的。\n\n• 跟隨。這是通過激活除魔偶工作臺或統御星錐以外的任何方塊上的桿來命令的。如果魔偶有戰鬥能力，它會跟隨你並保護你。\n\n•跟隨統御星錐。該命令是通過激活統御星錐作為控制桿交互的第二部分來分配的。統御星錐可用於為諸如物品分類或耕種之類的魔偶創建複雜的命令。它在奧秘古籍中有詳細的說明。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "合成",
+				"location": "mana-and-artifice:construct_workbench"
+			},
+			{
+				"type": "合成",
+				"location": "mana-and-artifice:construct_control_rod"
+			},
+			{
+				"type": "合成",
+				"locations": [
+					"mana-and-artifice:chimerite_crystals/crystal_black",
+					"mana-and-artifice:chimerite_crystals/crystal_blue",
+					"mana-and-artifice:chimerite_crystals/crystal_brown",
+					"mana-and-artifice:chimerite_crystals/crystal_cyan",
+					"mana-and-artifice:chimerite_crystals/crystal_gray",
+					"mana-and-artifice:chimerite_crystals/crystal_green",
+					"mana-and-artifice:chimerite_crystals/crystal_light_blue",
+					"mana-and-artifice:chimerite_crystals/crystal_light_gray",
+					"mana-and-artifice:chimerite_crystals/crystal_lime",
+					"mana-and-artifice:chimerite_crystals/crystal_magenta",
+					"mana-and-artifice:chimerite_crystals/crystal_orange",
+					"mana-and-artifice:chimerite_crystals/crystal_pink",
+					"mana-and-artifice:chimerite_crystals/crystal_purple",
+					"mana-and-artifice:chimerite_crystals/crystal_red",
+					"mana-and-artifice:chimerite_crystals/crystal_white",
+					"mana-and-artifice:chimerite_crystals/crystal_yellow"
+				]
+			}
+		]
+	},
+	"Lodestar": {
+		"index": "2",
+		"category": "constructs",
+		"sections": [
+			{
+				"type": "title",
+				"value": "統御星錐"
+			},
+			{
+				"type": "text",
+				"value": "統御星錐是一種為您的魔偶設置高級邏輯的方法。 使用左側的命令將它們添加到邏輯流中。 然後在邏輯流程中單擊一個節點以對其進行配置。 每個節點使用項目來設置過濾器和位置。 標記符文是指定世界中與之交互位置的主要方式。 要刪除命令，請在GUI中左鍵它，同時按住右鍵。任何過濾器或標記物品都會自動返回到您的庫存中，如果它已滿則會掉在地上。\n\n可以通過施加紅石信號禁用統御星錐，並且任何魔偶都將暫停。 這對於進行更改或使用比較器很有用。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "runescribing",
+				"location": "mana-and-artifice:runescribing/runescribe_marking"
+			},
+			{
+				"type": "runesmithing",
+				"location": "mana-and-artifice:runeforging/runeforge_marking"
+			},
+			{
+				"type": "合成",
+				"location": "mana-and-artifice:lodestar"
+			}
+		]
+	},
+	"Construct Intelligence": {
+		"index": "2",
+		"category": "constructs",
+		"sections": [
+			{
+				"type": "title",
+				"value": "魔偶智能"
+			},
+			{
+				"type": "text",
+				"value": "魔偶有一個智能屬性，它決定了它們在一個統御星錐中可以遵循多少指令（默認為 8）。 如果你給太多指令，他們會嘗試並在過載後變得困惑且重新開始。\n\n用不同的材料製作智能魔偶頭來解決這個限制。 "
+			}
+		]
+	},
+	"Construct Diagnostics": {
+		"index": "2",
+		"category": "constructs",
+		"sections": [
+			{
+				"type": "title",
+				"value": "魔偶診斷"
+			},
+			{
+				"type": "text",
+				"value": "有時，您可能會發現自己在問“我的魔偶在做什麼？” 輸入魔偶診斷桿。 製作其中一個並右鍵您的魔偶以獲取其大腦的實時視圖。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "合成",
+				"location": "mana-and-artifice:construct_diagnostics_rod"
+			}
+		]
+	},
+	"Command: Take Item": {
+		"index": 4,
+		"tier": 2,
+		"category": "constructs",
+		"sections": [
+			{
+				"type": "title",
+				"value": "指令：拿取物品"
+			},
+			{
+				"type": "text",
+				"value": "此命令將使魔偶從指定的庫存中取出一個物品。 標記符文指定要搜索之容器的側面和位置。 過濾器是可選的，如果留空，將取用任何物品。 它要求魔偶少有一個抓取臂來固定物品，並且裡面不能已經有東西。 如果你給一個魔偶兩隻手並且想要雙手都拿東西，則需要連續使用這個命令兩次。 如果魔偶沒有抓取臂或所有抓取臂已滿，則此命令將暫停，並等待更改。"
+			}
+		]
+	},
+	"Command: Wait": {
+		"index": 4,
+		"tier": 2,
+		"category": "constructs",
+		"sections": [
+			{
+				"type": "title",
+				"value": "指令：等待"
+			},
+			{
+				"type": "text",
+				"value": "此命令將使魔偶在繼續執行進一步指令之前等待 5 秒。"
+			}
+		]
+	},
+	"Command: Place Item": {
+		"index": 4,
+		"tier": 2,
+		"category": "constructs",
+		"sections": [
+			{
+				"type": "title",
+				"value": "指令：放置物品"
+			},
+			{
+				"type": "text",
+				"value": "此命令將使魔偶把所有持有的物品放置在給定容器中，使用標記符文標記給定的一側。 如果魔偶沒有任何東西，將跳過此命令。"
+			}
+		]
+	},
+	"Command: Runescribe": {
+		"index": 4,
+		"tier": 2,
+		"category": "constructs",
+		"sections": [
+			{
+				"type": "title",
+				"value": "指令：運行"
+			},
+			{
+				"type": "text",
+				"value": "此命令將使魔偶嘗試在指定的符文書寫台上將指定的圖案鑿成空白符文圖案。 台上必須有需要的材料。 這將需要魔偶裝備錘型臂。 材料越好，魔偶的工作速度就越快。"
+			}
+		]
+	},
+	"Command: Forge": {
+		"index": 4,
+		"tier": 2,
+		"category": "constructs",
+		"sections": [
+			{
+				"type": "title",
+				"value": "命令：符文熔爐"
+			},
+			{
+				"type": "text",
+				"value": "此命令將使魔偶嘗試鍛造設置在符文砧上的符文。 砧上必須有需要的材料。 這將需要魔偶裝備錘型臂。 手臂的材料越好，構造的工作速度就越快。 "
+			}
+		]
+	},
+	"Command: Harvest": {
+		"index": 4,
+		"tier": 2,
+		"category": "constructs",
+		"sections": [
+			{
+				"type": "title",
+				"value": "指令：收穫"
+			},
+			{
+				"type": "text",
+				"value": "此命令將使魔偶在指定區域內收穫植物。 它要求該魔偶具有刃型臂。 "
+			}
+		]
+	},
+	"Command: Plant": {
+		"index": 4,
+		"tier": 2,
+		"category": "constructs",
+		"sections": [
+			{
+				"type": "title",
+				"value": "命令：植物"
+			},
+			{
+				"type": "text",
+				"value": "此命令將使魔偶將其手持的植物種植在指定區域內的農田中。 它要求魔偶有一個抓取必，並攜帶可種植的物品（使用獲取物品命令來獲取它）。 "
+			}
+		]
+	},
+	"Command: Activate": {
+		"index": 4,
+		"tier": 2,
+		"category": "constructs",
+		"sections": [
+			{
+				"type": "title",
+				"value": "指令：啟動"
+			},
+			{
+				"type": "text",
+				"value": "此命令將使魔偶嘗試模擬玩家右鍵單擊指定位置的塊。 它對按鈕和槓桿之類的東西很有用。 它不需要任何特定部件。"
+			}
+		]
+	},
+	"Command: Move": {
+		"index": 4,
+		"tier": 2,
+		"category": "constructs",
+		"sections": [
+			{
+				"type": "title",
+				"value": "指令：移動"
+			},
+			{
+				"type": "text",
+				"value": "此命令將使魔偶移動到指定位置。 它不需要任何特定部件，但可用於強制觸發壓力板等操作。"
+			}
+		]
+	},
+	"Command: Drop Item": {
+		"index": 4,
+		"tier": 2,
+		"category": "constructs",
+		"sections": [
+			{
+				"type": "title",
+				"value": "指令：丟棄項目"
+			},
+			{
+				"type": "text",
+				"value": "此命令將使魔偶移動到給定位置並放下它持有的任何物品。"
+			}
+		]
+	},
+	"Command: Patrol": {
+		"index": 4,
+		"tier": 2,
+		"category": "constructs",
+		"sections": [
+			{
+				"type": "title",
+				"value": "指令：巡邏"
+			},
+			{
+				"type": "text",
+				"value": "此命令將使魔偶在指定的一到四個點之間巡邏，攻擊沿途看到的敵人（如果它有能力這樣做）。 在每個點，它會保持5秒鐘，然後再繼續下一個。 在最後一點結束時，它會在返回巡邏之前繼續執行統御星錐內的任何其他任務。 如果你讓你的魔偶等待某事，這是一個特別好的時間利用。"
+			}
+		]
+	},
+	"Command: Breed": {
+		"index": 4,
+		"tier": 2,
+		"category": "constructs",
+		"sections": [
+			{
+				"type": "title",
+				"value": "命令：繁殖"
+			},
+			{
+				"type": "text",
+				"value": "此命令將使魔偶嘗試使用其手中的物品在其半徑範圍內繁殖動物。 例如，使用拿取物品命令讓魔偶收集小麥，然後將此命令用於包含牛或羊的半徑。 只要滿足以下條件，魔偶就會繁殖它們：\n\n1.) 檢測區域內至少有2只可繁殖的成年動物\n2.) 該構魔偶手中至少有2個他們的繁殖物品。\n\n如果不滿足這些條件中的任何一個，則將跳過此任務。 該魔偶需要具有承載能力才能執行此任務。"
+			}
+		]
+	},
+	"Command: Butcher": {
+		"index": 4,
+		"tier": 2,
+		"category": "constructs",
+		"sections": [
+			{
+				"type": "title",
+				"value": "命令：屠夫"
+			},
+			{
+				"type": "text",
+				"value": "只要有超過2只成年動物，此命令將使魔偶殺死指定範圍內的成年動物。"
+			}
+		]
+	},
+	"Command: Shear / Pluck": {
+		"index": 4,
+		"tier": 2,
+		"category": "constructs",
+		"sections": [
+			{
+				"type": "title",
+				"value": "命令：剪/拔"
+			},
+			{
+				"type": "text",
+				"value": "此命令將使魔偶剪掉附近的綿羊、哞菇和其他可以剪毛的動物，並定期從配置的半徑內的雞身上拔毛。"
+			}
+		]
+	},
+	"Command: Place Block": {
+		"index": 4,
+		"tier": 2,
+		"category": "constructs",
+		"sections": [
+			{
+				"type": "title",
+				"value": "指令：放置方塊"
+			},
+			{
+				"type": "text",
+				"value": "此命令將使魔偶把其當前手上的方塊放置在給定位置（使用“獲取物品”命令將方塊放在那裡），前提是它是一個方塊或創建方塊的物品（如種子或樹苗））。 魔偶需要具有承載能力才能完成此任務。"
+			}
+		]
+	},
+	"Command: Chop Trees": {
+		"index": 4,
+		"tier": 2,
+		"category": "constructs",
+		"sections": [
+			{
+				"type": "title",
+				"value": "指令：砍樹"
+			},
+			{
+				"type": "text",
+				"value": "此命令將使魔偶砍倒指定區域內的樹木。 對於要定位的樹，只需包括樹的基部。 魔偶需要斧臂才能執行此操作。"
+			}
+		]
+	},
+	"Construct Grabber Arm": {
+		"index": "3",
+		"category": "constructs",
+		"sections": [
+			{
+				"type": "title",
+				"value": "魔偶掌型手臂"
+			},
+			{
+				"type": "text",
+				"value": "魔偶掌型臂允許他進行較弱的攻擊和攜帶物品。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"locations": [
+					"mana-and-artifice:manaweaving/constructs/wood/wood_grabber_arm_left",
+					"mana-and-artifice:manaweaving/constructs/stone/stone_grabber_arm_left",
+					"mana-and-artifice:manaweaving/constructs/iron/iron_grabber_arm_left",
+					"mana-and-artifice:manaweaving/constructs/gold/gold_grabber_arm_left",
+					"mana-and-artifice:manaweaving/constructs/diamond/diamond_grabber_arm_left",
+					"mana-and-artifice:manaweaving/constructs/obsidian/obsidian_grabber_arm_left"
+				]
+			},
+			{
+				"type": "manaweaving_altar",
+				"locations": [
+					"mana-and-artifice:manaweaving/constructs/wood/wood_grabber_arm_right",
+					"mana-and-artifice:manaweaving/constructs/stone/stone_grabber_arm_right",
+					"mana-and-artifice:manaweaving/constructs/iron/iron_grabber_arm_right",
+					"mana-and-artifice:manaweaving/constructs/gold/gold_grabber_arm_right",
+					"mana-and-artifice:manaweaving/constructs/diamond/diamond_grabber_arm_right",
+					"mana-and-artifice:manaweaving/constructs/obsidian/obsidian_grabber_arm_right"
+				]
+			},
+			{
+				"type": "runescribing",
+				"location": "mana-and-artifice:runescribing/constructs/runescribe_construct_claw"
+			},
+			{
+				"type": "runesmithing",
+				"location": "mana-and-artifice:runeforging/constructs/runeforge_construct_claw"
+			},
+			{
+				"type": "runescribing",
+				"location": "mana-and-artifice:runescribing/constructs/runescribe_construct_rod"
+			},
+			{
+				"type": "runesmithing",
+				"location": "mana-and-artifice:runeforging/constructs/runeforge_construct_rod"
+			}
+		]
+	},
+	"Construct Bladed Arm": {
+		"index": "3",
+		"category": "constructs",
+		"sections": [
+			{
+				"type": "title",
+				"value": "魔偶刀型手臂"
+			},
+			{
+				"type": "text",
+				"value": "魔偶刃型手臂可以進行更快、更強大的攻擊。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"locations": [
+					"mana-and-artifice:manaweaving/constructs/wood/wood_bladed_arm_left",
+					"mana-and-artifice:manaweaving/constructs/stone/stone_bladed_arm_left",
+					"mana-and-artifice:manaweaving/constructs/iron/iron_bladed_arm_left",
+					"mana-and-artifice:manaweaving/constructs/gold/gold_bladed_arm_left",
+					"mana-and-artifice:manaweaving/constructs/diamond/diamond_bladed_arm_left",
+					"mana-and-artifice:manaweaving/constructs/obsidian/obsidian_bladed_arm_left"
+				]
+			},
+			{
+				"type": "manaweaving_altar",
+				"locations": [
+					"mana-and-artifice:manaweaving/constructs/wood/wood_bladed_arm_right",
+					"mana-and-artifice:manaweaving/constructs/stone/stone_bladed_arm_right",
+					"mana-and-artifice:manaweaving/constructs/iron/iron_bladed_arm_right",
+					"mana-and-artifice:manaweaving/constructs/gold/gold_bladed_arm_right",
+					"mana-and-artifice:manaweaving/constructs/diamond/diamond_bladed_arm_right",
+					"mana-and-artifice:manaweaving/constructs/obsidian/obsidian_bladed_arm_right"
+				]
+			},
+			{
+				"type": "runescribing",
+				"location": "mana-and-artifice:runescribing/constructs/runescribe_construct_rod"
+			},
+			{
+				"type": "runesmithing",
+				"location": "mana-and-artifice:runeforging/constructs/runeforge_construct_rod"
+			}
+		]
+	},
+	"Construct Shield Arm": {
+		"index": "3",
+		"category": "constructs",
+		"sections": [
+			{
+				"type": "title",
+				"value": "魔偶盾型手臂"
+			},
+			{
+				"type": "text",
+				"value": "魔偶盾型手臂允許它擋住前方的攻擊，大大提高其生存能力。 它們還會根據其材料增加魔偶的整體裝甲/韌性值："
+			},
+			{
+				"type": "text",
+				"value": "木： 3 裝甲，0 韌性"
+			},
+			{
+				"type": "text",
+				"value": "石頭：5裝甲，0韌性"
+			},
+			{
+				"type": "text",
+				"value": "鐵：6裝甲，0韌性"
+			},
+			{
+				"type": "text",
+				"value": "金：7裝甲，0韌性"
+			},
+			{
+				"type": "text",
+				"value": "鑽石：8 裝甲，2韌性"
+			},
+			{
+				"type": "text",
+				"value": "黑曜石：8裝甲，3韌性"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"locations": [
+					"mana-and-artifice:manaweaving/constructs/wood/wood_shield_arm_left",
+					"mana-and-artifice:manaweaving/constructs/stone/stone_shield_arm_left",
+					"mana-and-artifice:manaweaving/constructs/iron/iron_shield_arm_left",
+					"mana-and-artifice:manaweaving/constructs/gold/gold_shield_arm_left",
+					"mana-and-artifice:manaweaving/constructs/gold/gold_shield_arm_left",
+					"mana-and-artifice:manaweaving/constructs/diamond/diamond_shield_arm_left"
+				]
+			},
+			{
+				"type": "manaweaving_altar",
+				"locations": [
+					"mana-and-artifice:manaweaving/constructs/wood/wood_shield_arm_right",
+					"mana-and-artifice:manaweaving/constructs/stone/stone_shield_arm_right",
+					"mana-and-artifice:manaweaving/constructs/iron/iron_shield_arm_right",
+					"mana-and-artifice:manaweaving/constructs/iron/iron_shield_arm_right",
+					"mana-and-artifice:manaweaving/constructs/gold/gold_shield_arm_right",
+					"mana-and-artifice:manaweaving/constructs/obsidian/obsidian_shield_arm_right"
+				]
+			},
+			{
+				"type": "runescribing",
+				"location": "mana-and-artifice:runescribing/constructs/runescribe_construct_rod"
+			},
+			{
+				"type": "runesmithing",
+				"location": "mana-and-artifice:runeforging/constructs/runeforge_construct_rod"
+			}
+		]
+	},
+	"Construct Axe Arm": {
+		"index": "3",
+		"category": "constructs",
+		"sections": [
+			{
+				"type": "title",
+				"value": "魔偶斧型手臂"
+			},
+			{
+				"type": "text",
+				"value": "魔偶斧型手臂允許中等的攻擊和砍伐樹木。 "
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"locations": [
+					"mana-and-artifice:manaweaving/constructs/wood/wood_axe_arm_left",
+					"mana-and-artifice:manaweaving/constructs/stone/stone_axe_arm_left",
+					"mana-and-artifice:manaweaving/constructs/iron/iron_axe_arm_left",
+					"mana-and-artifice:manaweaving/constructs/gold/gold_axe_arm_left",
+					"mana-and-artifice:manaweaving/constructs/diamond/diamond_axe_arm_left",
+					"mana-and-artifice:manaweaving/constructs/obsidian/obsidian_axe_arm_left"
+				]
+			},
+			{
+				"type": "manaweaving_altar",
+				"locations": [
+					"mana-and-artifice:manaweaving/constructs/wood/wood_axe_arm_right",
+					"mana-and-artifice:manaweaving/constructs/stone/stone_axe_arm_right",
+					"mana-and-artifice:manaweaving/constructs/iron/iron_axe_arm_right",
+					"mana-and-artifice:manaweaving/constructs/gold/gold_axe_arm_right",
+					"mana-and-artifice:manaweaving/constructs/diamond/diamond_axe_arm_right",
+					"mana-and-artifice:manaweaving/constructs/obsidian/obsidian_axe_arm_right"
+				]
+			},
+			{
+				"type": "runescribing",
+				"location": "mana-and-artifice:runescribing/constructs/runescribe_construct_axe"
+			},
+			{
+				"type": "runesmithing",
+				"location": "mana-and-artifice:runeforging/constructs/runeforge_construct_axe"
+			},
+			{
+				"type": "runescribing",
+				"location": "mana-and-artifice:runescribing/constructs/runescribe_construct_rod"
+			},
+			{
+				"type": "runesmithing",
+				"location": "mana-and-artifice:runeforging/constructs/runeforge_construct_rod"
+			}
+		]
+	},
+	"Construct Mana Cannon Arms": {
+		"index": "3",
+		"category": "constructs",
+		"sections": [
+			{
+				"type": "title",
+				"value": "魔偶法力加農炮手臂"
+			},
+			{
+				"type": "text",
+				"value": "魔偶法力加農炮使它能夠在遠距離攻擊，但由於構造複雜，該武器無法用於近戰攻擊。 這些魔法攻擊非常強大，而且取決於製作手臂的材料。 它們需要法力軀幹才能運作，並且需要法力水晶定期充電。 有關容量和充電的更多信息，請參閱法力軀幹條目。 每種材料的傷害如下："
+			},
+			{
+				"type": "text",
+				"value": "木：＋3傷害"
+			},
+			{
+				"type": "text",
+				"value": "石頭：＋5傷害"
+			},
+			{
+				"type": "text",
+				"value": "鐵：＋7傷害"
+			},
+			{
+				"type": "text",
+				"value": "黑曜石：＋10傷害"
+			},
+			{
+				"type": "text",
+				"value": "鑽石：＋15 傷害"
+			},
+			{
+				"type": "text",
+				"value": "黃金：＋20傷害"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"locations": [
+					"mana-and-artifice:manaweaving/constructs/wood/wood_mana_cannon_left",
+					"mana-and-artifice:manaweaving/constructs/stone/stone_mana_cannon_left",
+					"mana-and-artifice:manaweaving/constructs/iron/iron_mana_cannon_left",
+					"mana-and-artifice:manaweaving/constructs/gold/gold_mana_cannon_left",
+					"mana-and-artifice:manaweaving/constructs/diamond/diamond_mana_cannon_left",
+					"mana-and-artifice:manaweaving/constructs/obsidian/obsidian_mana_cannon_left"
+				]
+			},
+			{
+				"type": "manaweaving_altar",
+				"locations": [
+					"mana-and-artifice:manaweaving/constructs/wood/wood_mana_cannon_right",
+					"mana-and-artifice:manaweaving/constructs/stone/stone_mana_cannon_right",
+					"mana-and-artifice:manaweaving/constructs/iron/iron_mana_cannon_right",
+					"mana-and-artifice:manaweaving/constructs/gold/gold_mana_cannon_right",
+					"mana-and-artifice:manaweaving/constructs/diamond/diamond_mana_cannon_right",
+					"mana-and-artifice:manaweaving/constructs/obsidian/obsidian_mana_cannon_right"
+				]
+			},
+			{
+				"type": "runescribing",
+				"location": "mana-and-artifice:runescribing/constructs/runescribe_construct_claw"
+			},
+			{
+				"type": "runesmithing",
+				"location": "mana-and-artifice:runeforging/constructs/runeforge_construct_claw"
+			},
+			{
+				"type": "runescribing",
+				"location": "mana-and-artifice:runescribing/constructs/runescribe_construct_rod"
+			},
+			{
+				"type": "runesmithing",
+				"location": "mana-and-artifice:runeforging/constructs/runeforge_construct_rod"
+			},
+			{
+				"type": "manaweaving_altar",
+				"locations": [
+					"mana-and-artifice:manaweaving/constructs/wood/wood_torso_mana",
+					"mana-and-artifice:manaweaving/constructs/stone/stone_torso_mana",
+					"mana-and-artifice:manaweaving/constructs/iron/iron_torso_mana",
+					"mana-and-artifice:manaweaving/constructs/gold/gold_torso_mana",
+					"mana-and-artifice:manaweaving/constructs/diamond/diamond_torso_mana",
+					"mana-and-artifice:manaweaving/constructs/obsidian/obsidian_torso_mana"
+				]
+			}
+		]
+	},
+	"Construct Hammer Arm": {
+		"index": "3",
+		"category": "constructs",
+		"sections": [
+			{
+				"type": "title",
+				"value": "魔偶鎚型手臂"
+			},
+			{
+				"type": "text",
+				"value": "魔偶鎚型手臂允許進行更慢、中等強度的攻擊，並具有更高的擊退。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"locations": [
+					"mana-and-artifice:manaweaving/constructs/wood/wood_hammer_arm_left",
+					"mana-and-artifice:manaweaving/constructs/stone/stone_hammer_arm_left",
+					"mana-and-artifice:manaweaving/constructs/iron/iron_hammer_arm_left",
+					"mana-and-artifice:manaweaving/constructs/gold/gold_hammer_arm_left",
+					"mana-and-artifice:manaweaving/constructs/diamond/diamond_hammer_arm_left",
+					"mana-and-artifice:manaweaving/constructs/obsidian/obsidian_hammer_arm_left"
+				]
+			},
+			{
+				"type": "manaweaving_altar",
+				"locations": [
+					"mana-and-artifice:manaweaving/constructs/wood/wood_hammer_arm_right",
+					"mana-and-artifice:manaweaving/constructs/stone/stone_hammer_arm_right",
+					"mana-and-artifice:manaweaving/constructs/iron/iron_hammer_arm_right",
+					"mana-and-artifice:manaweaving/constructs/gold/gold_hammer_arm_right",
+					"mana-and-artifice:manaweaving/constructs/diamond/diamond_hammer_arm_right",
+					"mana-and-artifice:manaweaving/constructs/obsidian/obsidian_hammer_arm_right"
+				]
+			},
+			{
+				"type": "runescribing",
+				"location": "mana-and-artifice:runescribing/constructs/runescribe_construct_hammer"
+			},
+			{
+				"type": "runesmithing",
+				"location": "mana-and-artifice:runeforging/constructs/runeforge_construct_hammer"
+			},
+			{
+				"type": "runescribing",
+				"location": "mana-and-artifice:runescribing/constructs/runescribe_construct_rod"
+			},
+			{
+				"type": "runesmithing",
+				"location": "mana-and-artifice:runeforging/constructs/runeforge_construct_rod"
+			}
+		]
+	},
+	"Construct Basic Torso": {
+		"index": "3",
+		"category": "constructs",
+		"sections": [
+			{
+				"type": "title",
+				"value": "魔偶基礎軀幹"
+			},
+			{
+				"type": "text",
+				"value": "基礎軀種雖然便宜，但也不提供任何特殊的加成。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"locations": [
+					"mana-and-artifice:manaweaving/constructs/wood/wood_torso_basic",
+					"mana-and-artifice:manaweaving/constructs/stone/stone_torso_basic",
+					"mana-and-artifice:manaweaving/constructs/iron/iron_torso_basic",
+					"mana-and-artifice:manaweaving/constructs/gold/gold_torso_basic",
+					"mana-and-artifice:manaweaving/constructs/diamond/diamond_torso_basic",
+					"mana-and-artifice:manaweaving/constructs/obsidian/obsidian_torso_basic"
+				]
+			},
+			{
+				"type": "runescribing",
+				"location": "mana-and-artifice:runescribing/constructs/runescribe_construct_torso"
+			},
+			{
+				"type": "runesmithing",
+				"location": "mana-and-artifice:runeforging/constructs/runeforge_construct_torso"
+			}
+		]
+	},
+	"Construct Armor Torso": {
+		"index": "3",
+		"category": "constructs",
+		"sections": [
+			{
+				"type": "title",
+				"value": "魔偶裝甲軀幹"
+			},
+			{
+				"type": "text",
+				"value": "裝甲軀幹通過提供盔甲和/或韌性值大大提高了魔偶的生存能力。 這些值如下："
+			},
+			{
+				"type": "text",
+				"value": "木： 3 裝甲，0 韌性"
+			},
+			{
+				"type": "text",
+				"value": "石頭：5裝甲，0韌性"
+			},
+			{
+				"type": "text",
+				"value": "鐵：6裝甲，0韌性"
+			},
+			{
+				"type": "text",
+				"value": "金：7裝甲，0韌性"
+			},
+			{
+				"type": "text",
+				"value": "鑽石：8裝甲，2韌性"
+			},
+			{
+				"type": "text",
+				"value": "黑曜石：8裝甲，3韌性"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"locations": [
+					"mana-and-artifice:manaweaving/constructs/wood/wood_torso_armor",
+					"mana-and-artifice:manaweaving/constructs/stone/stone_torso_armor",
+					"mana-and-artifice:manaweaving/constructs/iron/iron_torso_armor",
+					"mana-and-artifice:manaweaving/constructs/gold/gold_torso_armor",
+					"mana-and-artifice:manaweaving/constructs/diamond/diamond_torso_armor",
+					"mana-and-artifice:manaweaving/constructs/obsidian/obsidian_torso_armor"
+				]
+			},
+			{
+				"type": "runescribing",
+				"location": "mana-and-artifice:runescribing/constructs/runescribe_construct_torso"
+			},
+			{
+				"type": "runesmithing",
+				"location": "mana-and-artifice:runeforging/constructs/runeforge_construct_torso"
+			},
+			{
+				"type": "runescribing",
+				"location": "mana-and-artifice:runescribing/constructs/runescribe_defense"
+			},
+			{
+				"type": "runesmithing",
+				"location": "mana-and-artifice:runeforging/constructs/runeforge_defense"
+			},
+			{
+				"type": "ritual",
+				"location": "mana-and-artifice:rituals/ancient_stone"
+			}
+		]
+	},
+	"Construct Mana Torso": {
+		"index": "3",
+		"category": "constructs",
+		"sections": [
+			{
+				"type": "title",
+				"value": "魔偶法力軀幹"
+			},
+			{
+				"type": "text",
+				"value": "法力軀幹為各種部件（例如法力加農炮）使用的魔偶提供了法力儲備。 蓄水池中的法力不會自然再生，必須通過將魔偶置於法力水晶的影響範圍內來補充。\n\n更好的材料可以容納更多的法力。 每種材料可以容納的法力值如下："
+			},
+			{
+				"type": "text",
+				"value": "木頭： 50 法力"
+			},
+			{
+				"type": "text",
+				"value": "石頭： 75 法力"
+			},
+			{
+				"type": "text",
+				"value": "鐵：100 法力"
+			},
+			{
+				"type": "text",
+				"value": "黃金： 400 法力"
+			},
+			{
+				"type": "text",
+				"value": "鑽石：200 法力"
+			},
+			{
+				"type": "text",
+				"value": "黑曜石：150 法力"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"locations": [
+					"mana-and-artifice:manaweaving/constructs/wood/wood_torso_mana",
+					"mana-and-artifice:manaweaving/constructs/stone/stone_torso_mana",
+					"mana-and-artifice:manaweaving/constructs/iron/iron_torso_mana",
+					"mana-and-artifice:manaweaving/constructs/gold/gold_torso_mana",
+					"mana-and-artifice:manaweaving/constructs/diamond/diamond_torso_mana",
+					"mana-and-artifice:manaweaving/constructs/obsidian/obsidian_torso_mana"
+				]
+			},
+			{
+				"type": "runescribing",
+				"location": "mana-and-artifice:runescribing/constructs/runescribe_construct_torso"
+			},
+			{
+				"type": "runesmithing",
+				"location": "mana-and-artifice:runeforging/constructs/runeforge_construct_torso"
+			},
+			{
+				"type": "runescribing",
+				"location": "mana-and-artifice:runescribing/constructs/runescribe_arcane"
+			},
+			{
+				"type": "runesmithing",
+				"location": "mana-and-artifice:runeforging/constructs/runeforge_arcane"
+			},
+			{
+				"type": "ritual",
+				"location": "mana-and-artifice:rituals/forgotten_lore"
+			}
+		]
+	},
+	"Construct Basic Legs": {
+		"index": "3",
+		"category": "constructs",
+		"sections": [
+			{
+				"type": "title",
+				"value": "魔偶基礎腿部"
+			},
+			{
+				"type": "text",
+				"value": "基礎腿部雖然便宜，但也不提供任何特殊的加成。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"locations": [
+					"mana-and-artifice:manaweaving/constructs/wood/wood_legs_basic",
+					"mana-and-artifice:manaweaving/constructs/stone/stone_legs_basic",
+					"mana-and-artifice:manaweaving/constructs/iron/iron_legs_basic",
+					"mana-and-artifice:manaweaving/constructs/gold/gold_legs_basic",
+					"mana-and-artifice:manaweaving/constructs/diamond/diamond_legs_basic",
+					"mana-and-artifice:manaweaving/constructs/obsidian/obsidian_legs_basic"
+				]
+			},
+			{
+				"type": "runescribing",
+				"location": "mana-and-artifice:runescribing/constructs/runescribe_construct_hips"
+			},
+			{
+				"type": "runesmithing",
+				"location": "mana-and-artifice:runeforging/constructs/runeforge_construct_hips"
+			}
+		]
+	},
+	"Construct Reinforced Legs": {
+		"index": "3",
+		"category": "constructs",
+		"sections": [
+			{
+				"type": "title",
+				"value": "魔偶加固腿部"
+			},
+			{
+				"type": "text",
+				"value": "加固腿部為魔偶提供了更多的裝甲，並使其能夠承載玩家。 如果在騎乘時命令它停留或跟隨，則可以直接控制它，或者魔偶正在跟隨統御星錐的命令，那它只會帶者玩家走。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"locations": [
+					"mana-and-artifice:manaweaving/constructs/wood/wood_legs_reinforced",
+					"mana-and-artifice:manaweaving/constructs/stone/stone_legs_reinforced",
+					"mana-and-artifice:manaweaving/constructs/iron/iron_legs_reinforced",
+					"mana-and-artifice:manaweaving/constructs/gold/gold_legs_reinforced",
+					"mana-and-artifice:manaweaving/constructs/diamond/diamond_legs_reinforced",
+					"mana-and-artifice:manaweaving/constructs/diamond/diamond_legs_reinforced"
+				]
+			},
+			{
+				"type": "runescribing",
+				"location": "mana-and-artifice:runescribing/constructs/runescribe_construct_hips"
+			},
+			{
+				"type": "runesmithing",
+				"location": "mana-and-artifice:runeforging/constructs/runeforge_construct_hips"
+			}
+		]
+	},
+	"Construct Ender Legs": {
+		"index": "3",
+		"category": "constructs",
+		"sections": [
+			{
+				"type": "title",
+				"value": "魔偶末影腿部"
+			},
+			{
+				"type": "text",
+				"value": "魔偶末影腿部允許它在執行任務時傳送 6 到 32 個方塊之間的短距離。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"locations": [
+					"mana-and-artifice:manaweaving/constructs/wood/wood_legs_ender",
+					"mana-and-artifice:manaweaving/constructs/stone/stone_legs_ender",
+					"mana-and-artifice:manaweaving/constructs/iron/iron_legs_ender",
+					"mana-and-artifice:manaweaving/constructs/gold/gold_legs_ender",
+					"mana-and-artifice:manaweaving/constructs/diamond/diamond_legs_ender",
+					"mana-and-artifice:manaweaving/constructs/obsidian/obsidian_legs_ender"
+				]
+			},
+			{
+				"type": "runescribing",
+				"location": "mana-and-artifice:runescribing/constructs/runescribe_construct_hips"
+			},
+			{
+				"type": "runesmithing",
+				"location": "mana-and-artifice:runeforging/constructs/runeforge_construct_hips"
+			}
+		]
+	},
+	"Construct Basic Head": {
+		"index": "3",
+		"category": "constructs",
+		"sections": [
+			{
+				"type": "title",
+				"value": "魔偶基礎頭部"
+			},
+			{
+				"type": "text",
+				"value": "基礎頭部雖然便宜，但也不提供任何特殊的加成。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"locations": [
+					"mana-and-artifice:manaweaving/constructs/wood/wood_head_basic",
+					"mana-and-artifice:manaweaving/constructs/stone/stone_head_basic",
+					"mana-and-artifice:manaweaving/constructs/iron/iron_head_basic",
+					"mana-and-artifice:manaweaving/constructs/gold/gold_head_basic",
+					"mana-and-artifice:manaweaving/constructs/diamond/diamond_head_basic",
+					"mana-and-artifice:manaweaving/constructs/obsidian/obsidian_head_basic"
+				]
+			},
+			{
+				"type": "runescribing",
+				"location": "mana-and-artifice:manaweaving/constructs/obsidian/obsidian_head_basic"
+			},
+			{
+				"type": "runesmithing",
+				"location": "mana-and-artifice:runeforging/constructs/runeforge_construct_head"
+			}
+		]
+	},
+	"Construct Rebreather Head": {
+		"index": "3",
+		"category": "constructs",
+		"sections": [
+			{
+				"type": "title",
+				"value": "魔偶潛水頭部"
+			},
+			{
+				"type": "text",
+				"value": "潛水頭允許魔偶能在水下呼吸"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"locations": [
+					"mana-and-artifice:manaweaving/constructs/wood/wood_head_rebreather",
+					"mana-and-artifice:manaweaving/constructs/stone/stone_head_rebreather",
+					"mana-and-artifice:manaweaving/constructs/iron/iron_head_rebreather",
+					"mana-and-artifice:manaweaving/constructs/gold/gold_head_rebreather",
+					"mana-and-artifice:manaweaving/constructs/diamond/diamond_head_rebreather",
+					"mana-and-artifice:manaweaving/constructs/obsidian/obsidian_head_rebreather"
+				]
+			},
+			{
+				"type": "runescribing",
+				"location": "mana-and-artifice:manaweaving/constructs/obsidian/obsidian_head_basic"
+			},
+			{
+				"type": "runesmithing",
+				"location": "mana-and-artifice:runeforging/constructs/runeforge_construct_head"
+			}
+		]
+	},
+	"Construct Horn Head": {
+		"index": "3",
+		"category": "constructs",
+		"sections": [
+			{
+				"type": "title",
+				"value": "魔偶嘲諷頭部"
+			},
+			{
+				"type": "text",
+				"value": "嘲諷頭部會使魔偶嘲諷在近戰中攻擊的敵人，使其能夠迫使目標專注於它。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"locations": [
+					"mana-and-artifice:manaweaving/constructs/wood/wood_head_horn",
+					"mana-and-artifice:manaweaving/constructs/stone/stone_head_horn",
+					"mana-and-artifice:manaweaving/constructs/stone/stone_head_horn",
+					"mana-and-artifice:manaweaving/constructs/gold/gold_head_horn",
+					"mana-and-artifice:manaweaving/constructs/diamond/diamond_head_horn",
+					"mana-and-artifice:manaweaving/constructs/obsidian/obsidian_head_horn"
+				]
+			},
+			{
+				"type": "runescribing",
+				"location": "mana-and-artifice:manaweaving/constructs/obsidian/obsidian_head_basic"
+			},
+			{
+				"type": "runesmithing",
+				"location": "mana-and-artifice:runeforging/constructs/runeforge_construct_head"
+			}
+		]
+	},
+	"Construct Smart Head": {
+		"index": "3",
+		"category": "constructs",
+		"sections": [
+			{
+				"type": "title",
+				"value": "魔偶智能頭部"
+			},
+			{
+				"type": "text",
+				"value": "智能頭允許魔偶在一個統御星錐內執行更多任務。 默認為8個，智能頭的材質決定了它能執行多少任務："
+			},
+			{
+				"type": "text",
+				"value": "木： 8\n石： 12\n鐵： 16\n黑曜石： 20\n黃金： 30\n鑽石： 50"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"locations": [
+					"mana-and-artifice:manaweaving/constructs/wood/wood_head_smart",
+					"mana-and-artifice:manaweaving/constructs/stone/stone_head_smart",
+					"mana-and-artifice:manaweaving/constructs/iron/iron_head_smart",
+					"mana-and-artifice:manaweaving/constructs/gold/gold_head_smart",
+					"mana-and-artifice:manaweaving/constructs/gold/gold_head_smart",
+					"mana-and-artifice:manaweaving/constructs/diamond/diamond_head_smart"
+				]
+			},
+			{
+				"type": "runescribing",
+				"location": "mana-and-artifice:manaweaving/constructs/obsidian/obsidian_head_basic"
+			},
+			{
+				"type": "runesmithing",
+				"location": "mana-and-artifice:runeforging/constructs/runeforge_construct_head"
+			}
+		]
+	},
+	"version": "1.1.0.9b"
+}
