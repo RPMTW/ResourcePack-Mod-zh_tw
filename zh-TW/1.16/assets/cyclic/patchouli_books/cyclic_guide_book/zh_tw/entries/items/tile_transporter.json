@@ -1,0 +1,19 @@
+{
+  "name": "item.cyclic.tile_transporter",
+  "icon": "cyclic:tile_transporter_empty",
+  "category": "cyclic:items",
+  "pages": [
+    {
+      "type": "text",
+      "text": "item.cyclic.tile_transporter.guide"
+    },
+    {
+      "type": "crafting",
+      "recipe": "cyclic:tile_transporter_empty"
+    },
+    {
+      "type": "crafting",
+      "recipe": "cyclic:tile_transporter_empty_alt"
+    }
+  ]
+}
