@@ -1,0 +1,9 @@
+{
+    "impersonate:commands.disguise.clear.success.other": "%s 停止冒充 %s",
+    "impersonate:commands.disguise.clear.success.self": "停止冒充 %s",
+    "impersonate:commands.disguise.start.success.other": "%s 開始冒充 %s",
+    "impersonate:commands.disguise.start.success.self": "開始冒充 %s",
+    "gamerule.impersonate:fakeCapes": "複製冒充玩家的字幕",
+    "gamerule.impersonate:logRevealImpersonations": "在伺服器日誌中顯示正在進行的冒充",
+    "gamerule.impersonate:opRevealImpersonations": "向操作員透露正在進行的冒充"
+}
