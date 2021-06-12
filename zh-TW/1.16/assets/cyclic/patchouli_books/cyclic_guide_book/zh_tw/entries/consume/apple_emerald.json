@@ -1,0 +1,17 @@
+{
+  "name": "item.cyclic.apple_emerald",
+  "icon": "cyclic:apple_emerald",
+  "category": "cyclic:consume",
+  "pages": [
+    {
+      "type": "spotlight",
+      "text": "item.cyclic.apple_emerald.guide",
+      "item": "cyclic:apple_emerald",
+      "link_recipe": true
+    },
+    {
+      "type": "crafting",
+      "recipe": "cyclic:apple_sprout_emerald"
+    }
+  ]
+}
