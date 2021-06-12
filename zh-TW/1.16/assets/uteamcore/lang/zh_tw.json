@@ -1,0 +1,16 @@
+{
+    "commands.uteamcore.dimteleport.success.multiple": "將%s實體傳送至%s",
+    "commands.uteamcore.dimteleport.success.position.multiple": "將%s實體傳送至%s位於%s， %s， %s",
+    "commands.uteamcore.dimteleport.success.position.single": "將%s傳送至%s位於%s， %s， %s",
+    "commands.uteamcore.dimteleport.success.single": "將%s傳送至%s",
+    "commands.uteamcore.ping.success.other": "%s的ping是%sms",
+    "commands.uteamcore.ping.success.self": "你的ping是%sms",
+    "commands.uteamcore.stackinfo.success.block": "方塊: %s",
+    "commands.uteamcore.stackinfo.success.item": "展示的物品：%s",
+    "commands.uteamcore.stackinfo.success.nbt": "NBT: %s",
+    "jei.uteamcore.dyeable.info": "These items can be dyed with dye in the crafting field.",
+    "screen.uteamcore.config.discord.done": "完成",
+    "screen.uteamcore.config.discord.off": "Discord connection is off",
+    "screen.uteamcore.config.discord.on": "Discord connection is on",
+    "screen.uteamcore.config.discord.title": "U Team Core Discord Config Options"
+}
