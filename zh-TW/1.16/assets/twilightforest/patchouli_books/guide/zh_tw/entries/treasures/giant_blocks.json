@@ -1,0 +1,37 @@
+{
+  "name": "Gigantic Blocks",
+  "icon": "twilightforest:giant_cobblestone",
+  "category": "treasures",
+  "advancement": "twilightforest:alt/treasures/giant_blocks",
+  "sortnum": 8020,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Giant Blocks!"
+    },
+    {
+      "type": "spotlight",
+      "title": "巨型鵝卵石",
+      "item": "twilightforest:giant_cobblestone",
+      "text": "Giant Cobblestone!"
+    },
+    {
+      "type": "spotlight",
+      "title": "巨型原木",
+      "item": "twilightforest:giant_log",
+      "text": "That's a HUGE log, I'd love to have that in my real estate ;) ;)"
+    },
+    {
+      "type": "spotlight",
+      "title": "巨型樹葉",
+      "item": "twilightforest:giant_leaves",
+      "text": "Giant Leaves!"
+    },
+    {
+      "type": "spotlight",
+      "title": "巨型黑曜石",
+      "item": "twilightforest:giant_obsidian",
+      "text": "巨型黑曜石"
+    }
+  ]
+}
