@@ -1,0 +1,14 @@
+{
+  "item.torchbowmod.torchbow": "火把弓",
+  "item.torchbowmod.multitorch": "火把箭組",
+  "itemGroup.torchBowModTab": "火把弓模組",
+  "death.attack.EntityTorch": "%1$s died after %2$s's torch.",
+  "log.sb.check": "Storagebox Introduction Status check now......",
+  "log.sb.load": "Storagebox confirmed the introduction. Load complete.",
+  "log.sb.error": "Storagebox Load Error.",
+  "log.sb.unload": "Storagebox Non-Introduction.",
+  "log.sg.check": "Silent's Gems Introduction Status check now.......",
+  "log.sg.load": "Silent's Gemsconfirmed the introduction. Load complete.",
+  "log.sg.error": "讀取錯誤Silent's Gems",
+  "log.sg.unload": "沒有安裝Silent's Gems"
+}
