@@ -1,0 +1,16 @@
+{
+    "itemGroup.packages.group": "包裹",
+    "block.packages.package_maker": "Package Crafter",
+    "block.packages.package": "Package",
+    "block.packages.package.nonempty": "%s - %sx %s",
+    "packages.style_tooltip.frame": "%s 框架",
+    "packages.style_tooltip.inner": "%s 核心",
+    "packages.style_tooltip.both": "%s 框架和核心",
+    "packages.style_tooltip.color": "%s 顏色",
+    "packages.contents_tooltip": "%sx %s",
+    "packages.contents_tooltip.empty": "空",
+    "packages.package_maker.frame": "框架",
+    "packages.package_maker.inner": "核心",
+    "packages.package_maker.dye": "顏色",
+    "packages.package_maker.craft_button": "新建"
+}
