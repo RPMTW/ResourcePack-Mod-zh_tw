@@ -1,0 +1,15 @@
+{
+    "name": "通量連結升級",
+    "icon": "thermal:machine_speed_augment",
+    "category": "thermal:augments",
+    "read_by_default": true,
+    "flag": "mod:thermal_expansion",
+    "pages": [
+        {
+            "type": "合成",
+            "recipe": "thermal:augments/machine_speed_augment",
+            "title": "通量連結升級",
+            "text": "The Flux Linkage Amplifier augment increases maximum RF usage rate by 100% but also scales the RF per operation by 1.1."
+        }
+    ]
+}
