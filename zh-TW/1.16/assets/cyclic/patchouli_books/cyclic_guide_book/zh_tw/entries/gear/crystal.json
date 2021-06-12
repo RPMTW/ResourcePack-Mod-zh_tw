@@ -1,0 +1,35 @@
+{
+  "name": "item.cyclic.crystal_gear",
+  "icon": "guide.category.gear.desc",
+  "category": "cyclic:gear",
+  "pages": [
+    {
+      "type": "text",
+      "text": "item.cyclic.crystal_gear.guide"
+    },
+    {
+      "type": "crafting",
+      "recipe": "cyclic:crystal_sword",
+      "recipe2": "cyclic:crystal_pickaxe"
+    },
+    {
+      "type": "crafting",
+      "recipe": "cyclic:crystal_axe",
+      "recipe2": "cyclic:crystal_shovel"
+    },
+    {
+      "type": "crafting",
+      "recipe": "cyclic:crystal_helmet",
+      "recipe2": "guide.category.gear.desc"
+    },
+    {
+      "type": "crafting",
+      "recipe": "cyclic:crystal_leggings",
+      "recipe2": "cyclic:crystal_boots"
+    },
+    {
+      "type": "crafting",
+      "recipe": "cyclic:crystal_hoe"
+    }
+  ]
+}
