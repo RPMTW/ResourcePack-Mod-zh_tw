@@ -1,0 +1,17 @@
+{
+  "name": "汙水堆肥機",
+  "icon": "industrialforegoing:sewage_composter",
+  "category": "agriculture_husbandry",
+  "sortnum": 14,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "當提供 $(l:agr_hus/sewage)汙水$() ，此機器將會從中製造 $(l:agr_hus/fertilizer)肥料$()。"
+    },
+    {
+      "type": "合成",
+      "recipe": "industrialforegoing:sewage_composter"
+    }
+  ]
+}
