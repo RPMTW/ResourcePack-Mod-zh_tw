@@ -1,0 +1,17 @@
+{
+  "name": "動物資源收穫機",
+  "icon": "industrialforegoing:animal_rancher",
+  "category": "agriculture_husbandry",
+  "sortnum": 0,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "一台用於 $(6)剪刀$() 綿羊和 $(6)牛奶$() 牛的機器。"
+    },
+    {
+      "type": "合成",
+      "recipe": "industrialforegoing:animal_rancher"
+    }
+  ]
+}
