@@ -1,0 +1,18 @@
+{
+    "lambdynlights.menu.light_sources": "動態光源",
+    "lambdynlights.menu.title": "Lamb動態光源設置",
+    "lambdynlights.menu.canvas.1": "在使用Canvas模組時，建議關閉實體的動態光源！",
+    "lambdynlights.menu.canvas.2": "同時使用Canvas和動態光源會令效能大幅下降！",
+    "lambdynlights.option.block_entities": "方塊實體",
+    "lambdynlights.option.entities": "實體",
+    "lambdynlights.option.mode": "動態光源",
+    "lambdynlights.option.water_sensitive": "水感式檢測",
+    "lambdynlights.tooltip.block_entities": "啟用實體方塊的動態光源。",
+    "lambdynlights.tooltip.creeper_lighting": "設定苦力怕的動態光源模式。\n- %s 苦力怕不使用動態光源\n- %s 靜態照明\n- %s 動態照明",
+    "lambdynlights.tooltip.entities": "啟用實體的動態光源。注意：玩家的光源會一直啟用。",
+    "lambdynlights.tooltip.mode.1": "啟用動態光源。 啟用後手持光源的玩家將會燃亮周遭區域。",
+    "lambdynlights.tooltip.mode.2": "%s 和 %s 將會使用較慢但是耗用較少資源的光照。",
+    "lambdynlights.tooltip.mode.3": "%s 會平滑動態的光源。",
+    "lambdynlights.tooltip.tnt_lighting": "設定TNT的動態光源模式。\n- %s TNT不使用動態光源\n- %s 靜態照明\n- %s 動態照明",
+    "lambdynlights.tooltip.water_sensitive": "啟用水感式檢測後，有些物品被水淹沒時不會再發光。"
+}
