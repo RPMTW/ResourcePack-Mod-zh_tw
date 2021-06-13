@@ -1,0 +1,7 @@
+{
+    "key.categories.randomblockplacement": "隨機方塊放置",
+    "key.randomblockplacement.toggle": "隨機放置開/關",
+    "msg.active": "在物品欄第 %d 格到 %d 格隨機切換",
+    "msg.inactive": "隨機方塊放置關閉",
+    "msg.cmderr": "使用 /rblock off，或 /rblock 和兩個從 1 到 9 的數字"
+}
