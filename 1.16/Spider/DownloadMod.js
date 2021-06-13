@@ -24,8 +24,8 @@ require('readline').createInterface({
     Run()
 })
 function Run() {
-    CurseForge.getMod(Number(ID)).then((mod) => {
-        let files = mod.latestFiles.reverse();
+    CurseForge.getModFiles(Number(ID)).then((files) => {
+        files = files.reverse();
         for (let i = 0; i < files.length; i++) {
             let data = files[i].minecraft_versions;
             if (data.includes(config.ver) || data.includes("1.16.4") || data.includes("1.16.3") || data.includes("1.16.2") || data.includes("1.16.1") || data.includes("1.16")) {
@@ -42,8 +42,8 @@ function Run() {
                 }).catch((err) => {
                     console.log("發生未知錯誤: " + err);
                 });
+                break;
             }
-            break;
         }
     });
 }
