@@ -1,0 +1,15 @@
+{
+    "interactio.jei.return_chance": "退回機率：%s",
+    "interactio.jei.consume_chance": "消耗機會： %s",
+    "interactio.jei.weighted_output_empty": "無!",
+    "interactio.jei.weighted_output_chance": "輸出機率： %s",
+    "interactio.jei.weighted_output_roll_count": "（共 %s 卷）",
+    "interactio.jei.weighted_output_roll_unique": "%s 獨特",
+    "interactio.jei.item_fluid_transform": "流體化為物品配方",
+    "interactio.jei.fluid_fluid_transform": "流體轉換配方",
+    "interactio.jei.item_explode": "物品爆炸",
+    "interactio.jei.block_explode": "方塊爆炸",
+    "interactio.jei.item_lightning": "物品閃電變化",
+    "interactio.jei.item_anvil_smashing": "物品鐵鎚粉碎",
+    "interactio.jei.block_anvil_smashing": "方塊鐵砧粉碎"
+}
