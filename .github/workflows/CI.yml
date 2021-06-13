@@ -4,7 +4,7 @@ on:
   push:
     branches: [ Translated ]
     paths:
-    - '1.16/zh-TW/**'
+    - 'zh-TW/1.16/**'
     - 'Add-on/1.16/**'
 jobs:
   build:
@@ -14,12 +14,12 @@ jobs:
       - uses: actions/checkout@v2
       - uses: papeloto/action-zip@v1 #zipped file 1.16
         with:
-          files: 1.16/zh-TW Add-on/1.16/
+          files: zh-TW/1.16 Add-on/1.16/
           dest: RPMTW-1.16.zip
       - name: "提交檔案"
         run: |
-          git config --global user.email "rrt467778@gmail.com.com"
-          git config --global user.name "SiongSng"
+          git config --global user.email "rpmtw666@gmail.com.com"
+          git config --global user.name "翻譯包更新機器人"
           git add ./RPMTW-1.16.zip
           git commit -m "更新翻譯包"
         
