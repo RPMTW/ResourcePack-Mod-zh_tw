@@ -1,0 +1,16 @@
+{
+  "item.packedup.basicbackpack": "背包",
+  "item.packedup.ironbackpack": "鐵製背包",
+  "item.packedup.copperbackpack": "銅背包",
+  "item.packedup.silverbackpack": "銀背包",
+  "item.packedup.goldbackpack": "金背包",
+  "item.packedup.diamondbackpack": "鑽石背包",
+  "item.packedup.obsidianbackpack": "黑曜石背包",
+  "gui.packedup.title": "背包名稱",
+  "gui.packedup.name": "背包名稱:",
+  "keys.category.packedup": "Packed Up",
+  "keys.packedup.openbag": "打開背包",
+  "packedup.backpacks.info.one": "Can store %d item stacks",
+  "packedup.backpacks.info.two": "Can be opened with '%s'",
+  "packedup.backpacks.info.inventory_index": "Inventory id: %d"
+}

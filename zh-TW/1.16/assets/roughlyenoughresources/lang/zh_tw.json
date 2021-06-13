@@ -1,0 +1,19 @@
+{
+    "rer.worldgen.category": "%s Generation",
+    "rer.loot.category": "Block Loot Drop",
+    "rer.entity.loot.category": "Entity Loot Drop",
+    "rer.condition.or": "%s 或 %s",
+    "rer.condition.invert": "not %s",
+    "rer.condition.enchantment": "with %s",
+    "rer.condition.item": "with %s",
+    "rer.condition.chance": "%s%%",
+    "rer.condition.chance.looting": "%s%% and more with looting",
+    "rer.condition.killedByPlayer": "被玩家殺死時",
+    "rer.condition.onFire": "著火時",
+    "rer.function.and": "%s + %s",
+    "rer.function.count": "Count: %s",
+    "rer.function.atLeast": "至少 %d",
+    "rer.function.atMost": "最多 %d",
+    "rer.function.bonus.enchant": "more with %s",
+    "rer.loot.range": "%d to %d"
+}

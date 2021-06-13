@@ -1,0 +1,16 @@
+{
+  "name": "enchantment.cyclic.auto_smelt",
+  "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:\"cyclic:auto_smelt\",lvl:1}]}",
+  "category": "cyclic:enchantments",
+  "pages": [
+    {
+      "type": "text",
+      "text": "enchantment.cyclic.auto_smelt.guide"
+    },
+    {
+      "type": "spotlight",
+      "item": "minecraft:enchanted_book{StoredEnchantments:[{id:\"cyclic:auto_smelt\",lvl:1}]}",
+      "link_recipe": true
+    }
+  ]
+}

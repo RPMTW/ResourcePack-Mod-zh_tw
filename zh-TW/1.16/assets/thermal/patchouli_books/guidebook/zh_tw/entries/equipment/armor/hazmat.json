@@ -1,0 +1,28 @@
+{
+    "name": "防化服",
+    "icon": "thermal:hazmat_chestplate",
+    "category": "thermal:armor",
+    "read_by_default": true,
+    "flag": "mod:thermal_innovation",
+    "pages": [
+        {
+            "type": "text",
+            "text": "The Hazmat Suit will protect you from environmental hazards such as burning, fall damage, and status ailments. The entire suit is needed for full protection! Durability is consumed when preventing status effects and fire."
+        },
+        {
+            "type": "合成",
+            "recipe": "thermal:hazmat_fabric",
+            "text": "$(o)Orange sus$()"
+        },
+        {
+            "type": "合成",
+            "recipe": "thermal:armor/hazmat_helmet",
+            "recipe2": "thermal:armor/hazmat_chestplate"
+        },
+        {
+            "type": "合成",
+            "recipe": "thermal:armor/hazmat_leggings",
+            "recipe2": "thermal:armor/hazmat_boots"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "block.structure_gel.red_gel": "紅色凝膠",
+    "block.structure_gel.blue_gel": "藍色凝膠",
+    "block.structure_gel.green_gel": "綠色凝膠",
+    "block.structure_gel.cyan_gel": "青色凝膠",
+    "block.structure_gel.orange_gel": "橙色凝膠",
+    "block.structure_gel.yellow_gel": "黃色凝膠",
+    "info.structure_gel.hold_shift": "按下 Shift 以取得資訊",
+    "info.structure_gel.place": "•潛行放置以觸發傳播效果。",
+    "info.structure_gel.gunpowder": "•使用火藥摧毀所有連接的凝膠。",
+    "info.structure_gel.default": "•沿著主要方向傳播凝膠，僅更換空氣。",
+    "info.structure_gel.photosensitive": "•僅在不暴露在天空的位置傳播凝膠。非常適合帶開放式牆壁的房間。",
+    "info.structure_gel.diagonal_spread": "沿著基數和對角線的方向傳播。 很有用能繞過藤蔓和其他奇怪的角落",
+    "info.structure_gel.dynamic_spread_dist": "•根據所持有的凝膠的數個，將凝膠與設定的距離進行擴展。最多50 。",
+    "info.structure_gel.axis_spread": "•根據凝膠的放置方式在平面上展開凝膠。",
+    "info.structure_gel.unknown_behavior": "•此區塊的行為未定義。請確保在代碼中使用或擴展了結構凝膠塊。",
+    "commands.structure_gel.clone.override": "Overriding vanilla clone limit of %s blocks by cloning %s blocks. This may take some time",
+    "commands.structure_gel.fill.override": "Overriding vanilla fill limit of %s blocks by filling %s blocks. This may take some time"
+}

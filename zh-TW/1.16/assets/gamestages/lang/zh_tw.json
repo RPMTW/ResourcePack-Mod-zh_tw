@@ -1,0 +1,17 @@
+{
+    "commands.gamestage.add.sender": "%s 的遊戲階段 %s 已經解鎖!",
+    "commands.gamestage.add.target": "你解鎖了 %s 遊戲階段!",
+    "commands.gamestage.remove.sender": "%s 的遊戲階段 %s 已經移除!",
+    "commands.gamestage.remove.target": "你已不再處於 %s 遊戲階段!",
+    "commands.gamestage.check.failure": "%s不處於 %s 遊戲階段",
+    "commands.gamestage.check.success": "%s處於 %s 遊戲階段",
+    "commands.gamestage.info.empty": "%s 沒有已解鎖遊戲階段.",
+    "commands.gamestage.info.stages": "%s 有以下幾個遊戲階段. %s",
+    "commands.gamestage.clear.sender": "清除從 %s 開始%d個遊戲階段",
+    "commands.gamestage.clear.target": "你失去了%d個遊戲階段!",
+    "commands.gamestage.playeronly": "抱歉,僅限玩家!",
+    "commands.gamestage.reloadfakes.info": "重載虛假玩家遊戲階段.",
+    "commands.gamestage.reloadknown.info": "已載入%d個已知遊戲階段.",
+    "commands.gamestage.all.target": "你解鎖了所有已知的遊戲階段!",
+    "commands.gamestage.all.sender": "%s 解鎖了所有已知的遊戲階段!"
+}

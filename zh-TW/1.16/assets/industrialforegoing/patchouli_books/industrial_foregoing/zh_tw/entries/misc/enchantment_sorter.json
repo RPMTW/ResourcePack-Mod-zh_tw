@@ -1,0 +1,17 @@
+{
+  "name": "附魔物品分揀機",
+  "icon": "industrialforegoing:enchantment_sorter",
+  "category": "雜項",
+  "sortnum": 1,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "This machine will sort items that are enchanted from the ones that aren't."
+    },
+    {
+      "type": "合成",
+      "recipe": "industrialforegoing:enchantment_sorter"
+    }
+  ]
+}

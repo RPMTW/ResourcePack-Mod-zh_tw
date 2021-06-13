@@ -1,0 +1,7 @@
+{
+  "screen.ctm.config.title": "CTM 配置",
+  "options.ctm.disable_ctm": "停用 CTM： %s",
+  "options.ctm.disable_ctm.tooltip": "完全停用連接的材質。",
+  "options.ctm.connect_inside_ctm": "Connect Inside CTM: %s",
+  "options.ctm.connect_inside_ctm.tooltip": "Choose whether the inside corner is disconnected on a CTM block. https://imgur.com/eUywLZ4"
+}

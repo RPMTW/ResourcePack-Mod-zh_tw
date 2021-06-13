@@ -1,0 +1,13 @@
+{
+  "item.beeangry-est.scoop": "捕蜂網",
+  "advancements.beeangry-est.bee_scooped.title": "蜜蜂舀起",
+  "advancements.beeangry-est.bee_scooped.description": "用捕蜂網捕捉一隻蜜蜂。",
+  "advancements.beeangry-est.bee_exploded.title": "蜂暴!",
+  "advancements.beeangry-est.bee_exploded.description": "被爆炸蜂攻擊",
+  "gamerule.beeangry-est:beesExplode": "爆炸蜂",
+  "gamerule.beeangry-est:beesSeekRainShelter": "Bees seek rain shelter",
+  "gamerule.beeangry-est:alwaysDropScoopedBees": "Always drop scooped bees",
+  "gamerule.beeangry-est:saveScoopedBeeNbt": "Save scooped bee NBT data",
+  "gui.beeangry-est.hud.catch": "捕捉",
+  "gui.beeangry-est.hud.use": "使用"
+}

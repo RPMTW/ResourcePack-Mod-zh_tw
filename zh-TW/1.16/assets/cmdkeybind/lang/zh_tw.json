@@ -1,0 +1,13 @@
+{
+  "key.cmdkeybind.config.category.main": "主要部件(等級 %d)",
+  "key.cmdkeybind.config.sub.macro": "Macro",
+  "key.cmdkeybind.config.macro.key": "車鑰匙",
+  "key.cmdkeybind.config.macro.keymod": "Modifier Key",
+  "key.cmdkeybind.config.macro.command": "指令",
+  "key.cmdkeybind.config.enabled": "已啟用",
+  "key.cmdkeybind.config.macrotype": "Type of Macro",
+  "key.cmdkeybind.config.delay": "Delay (Ignore for Single/Display)",
+  "key.cmdkeybind.config.add": "Add Macro",
+  "key.cmdkeybind.config.remove": "刪除",
+  "key.categories.cmdkeybind": "Macros"
+}

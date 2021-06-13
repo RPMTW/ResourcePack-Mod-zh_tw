@@ -1,0 +1,23 @@
+{
+    "name": "灑水壺",
+    "icon": "thermal:watering_can",
+    "category": "thermal:tools",
+    "read_by_default": true,
+    "flag": "mod:thermal_cultivation",
+    "pages": [
+        {
+            "type": "text",
+            "text": "Uses to water crops to accelerate their growth. It can be filled and augmented in the Tinker's Workbench. After installing radius augments, press '$(k:cofh.mode_change_increment)' to change between watering radii. It can be enchanted with $(l:thermal:world/holding)Holding$(/l) to improve water capacity."
+        },
+        {
+            "type": "合成",
+            "recipe": "thermal:watering_can",
+            "title": "灑水壺"
+        },
+        {
+            "type": "text",
+            "title": "Augment Compatibility",
+            "text": "$(li)$(l:thermal:technology/augments/integral_components)Integral Components$(/l)$(li)$(l:thermal:technology/augments/fluid_tank)Expanded Tank Construction$(/l)$(li)$(l:thermal:technology/augments/area_radius)Radial Enhancement$(/l)"
+        }
+    ]
+}

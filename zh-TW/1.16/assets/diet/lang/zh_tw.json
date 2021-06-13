@@ -1,0 +1,22 @@
+{
+  "gui.diet.title": "真實營養",
+  "tooltip.diet.eaten": "食用時：",
+  "tooltip.diet.group": "+%s%% %s",
+  "tooltip.diet.group_": "+%s",
+  "tooltip.diet.effects": "飲食效果",
+  "groups.diet.grains.name": "穀物",
+  "groups.diet.proteins.name": "蛋白質",
+  "groups.diet.fruits.name": "水果",
+  "groups.diet.vegetables.name": "蔬菜",
+  "groups.diet.sugars.name": "糖份",
+  "commands.diet.set.success": "團體 %s 的價值將 %s%% 為 %s",
+  "commands.diet.get.success": "團體 %s 的價值 %s%% %s",
+  "commands.diet.add.success": "團體 %s 的價值增加了 %s%% %s",
+  "commands.diet.subtract.success": "%s團體 %s 價值下降了 %s%%",
+  "commands.diet.reset.success": "為 %s重置飲食值",
+  "commands.diet.pause.success": "暫停飲食追蹤 %s",
+  "commands.diet.resume.success": "修復飲食追蹤 %s",
+  "commands.diet.clear.success": "清除飲食對 %s的影響",
+  "key.diet.category": "真實營養",
+  "key.diet.open.desc": "打開飲食介面"
+}

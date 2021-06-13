@@ -1,0 +1,17 @@
+{
+    "block.colony4cc.colony_peripheral": "殖民地週邊",
+    "item.colony4cc.colony_wireless_normal": "殖民地無線升級",
+    "item.colony4cc.colony_wireless_advanced": "殖民地終界升級",
+    "advancements.colony4cc.colony_peripheral": "Computer Interfacing",
+    "advancements.colony4cc.colony_peripheral.description": "Craft a Colony Peripheral, to access your colony from ComputerCraft computers",
+    "advancements.colony4cc.pocket_colony": "Colony PDA",
+    "advancements.colony4cc.pocket_colony.description": "Install a Colony Peripheral into an Pocket Computer, allowing you to access colony data on the go.",
+    "advancements.colony4cc.pocket_colony_wireless_normal": "Colony Mobile",
+    "advancements.colony4cc.pocket_colony_wireless_normal.description": "Install a Colonial Wireless Upgrade into an Pocket Computer, letting you access both colony data and wireless networking.",
+    "advancements.colony4cc.pocket_colony_wireless_advanced": "Colony Ender Mobile",
+    "advancements.colony4cc.pocket_colony_wireless_advanced.description": "Upgrade your Colonial Wireless Upgrade to a Colonial Ender Upgrade and install it, increasing your wireless range immensely.",
+    "upgrade.colony4cc.pocket_colony.adjective": "殖民地",
+    "upgrade.colony4cc.pocket_colony_wireless_normal.adjective": "無線殖民地",
+    "upgrade.colony4cc.pocket_colony_wireless_advanced.adjective": "終界殖民地",
+    "info.colony4cc.upgrade_merging": "Sticking these two peripherals together gives you an item that can be installed in a pocket computer to give you the features of both.\n\nIf you sneak-right-click the item in the air, you will tear them apart into the original two component peripherals.  The glue doesn't survive, however."
+}

@@ -1,0 +1,18 @@
+{
+  "name": "哞菇牛頭人王",
+  "icon": "twilightforest:minoshroom_trophy",
+  "category": "bosses",
+  "advancement": "twilightforest:alt/entities/minoshroom",
+  "sortnum": 5040,
+  "pages": [
+    {
+      "type": "entity",
+      "entity": "twilightforest:minoshroom{HandItems:[{id:\"twilightforest:minotaur_axe\",Count:1}]}",
+      "text": "他只是想用斧頭來問候你而已。"
+    },
+    {
+      "type": "text",
+      "text": "這頭迷宮中的可怕怪獸，能迅速摧毀任何迷糊的冒險者。$(br)其手中的鑽石牛頭人戰斧可擊碎任何防禦，且牠們的衝鋒攻擊會在你措手不及時撲過來。$(br)試圖擊敗哞菇牛頭人王時務必謹慎。"
+    }
+  ]
+}

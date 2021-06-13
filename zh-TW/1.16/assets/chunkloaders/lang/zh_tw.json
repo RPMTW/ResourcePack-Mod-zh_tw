@@ -1,0 +1,10 @@
+{
+    "block.chunkloaders.single_chunk_loader": "單一區塊載入器",
+    "block.chunkloaders.basic_chunk_loader": "基本區塊載入器",
+    "block.chunkloaders.advanced_chunk_loader": "進階區塊載入器",
+    "block.chunkloaders.ultimate_chunk_loader": "終極區塊載入器",
+    "chunkloaders.gui.loaded": "已載入",
+    "chunkloaders.gui.unloaded": "無法載入",
+    "chunkloaders.chunk_loader.info.single": "可以載入單一區塊",
+    "chunkloaders.chunk_loader.info.multiple": "可以通過 %1$d 加載到%1$d"
+}

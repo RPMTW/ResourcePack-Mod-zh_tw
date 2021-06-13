@@ -1,0 +1,11 @@
+{
+  "bettermobgriefinggamerule.config.defaultGlobalRule.title": "預設全域規則",
+  "bettermobgriefinggamerule.config.defaultGlobalRule.description": "預設的全域mobGriefing值，在創建新的世界時將會使用。",
+  "bettermobgriefinggamerule.config.defaultEntityRules.title": "預設實體規則",
+  "bettermobgriefinggamerule.config.defaultEntityRules.description": "預設實體特定的mobGriefing規則，它將在創建一個新的世界或打開一個沒有實體現有規則的現有世界時使用。",
+  "bettermobgriefinggamerule.config.gui.default": "預設",
+  "bettermobgriefinggamerule.config.gui.defaultAll": "預設全部",
+  "bettermobgriefinggamerule.config.gui.reset": "重設",
+  "bettermobgriefinggamerule.config.gui.resetAll": "全部重置",
+  "bettermobgriefinggamerule.parsing.mobGriefingValue.invalid": "無效的值，應為'true'、'false'、'inherit'，但發現 '%s'。"
+}

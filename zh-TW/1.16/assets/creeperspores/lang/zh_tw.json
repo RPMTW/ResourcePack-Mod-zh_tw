@@ -1,0 +1,11 @@
+{
+  "effect.creeperspores.creeper_spore": "Creeper Spores",
+  "effect.creeperspores.generic_spore": "%s 孢子",
+  "entity.creeperspores.creeperling": "Creeperling",
+  "item.creeperspores.creeperling_spawn_egg": "Creeperling Spawn Egg",
+  "gamerule.cspores_creeperGrief": "Destructive Creeper explosions",
+  "gamerule.cspores_creeperGrief.vanilla": "大部分",
+  "gamerule.cspores_creeperGrief.charged": "已充能",
+  "gamerule.cspores_creeperGrief.never": "永不",
+  "gamerule.cspores_creeperGrief.description": "預設=所有苦力怕都能破壞地形；限充能=僅充能苦力怕；永不=苦力怕無法破壞地形"
+}

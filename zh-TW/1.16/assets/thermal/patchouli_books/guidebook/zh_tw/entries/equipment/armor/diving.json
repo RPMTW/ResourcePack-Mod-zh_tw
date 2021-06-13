@@ -1,0 +1,28 @@
+{
+    "name": "潛泳胸甲",
+    "icon": "thermal:diving_chestplate",
+    "category": "thermal:armor",
+    "read_by_default": true,
+    "flag": "mod:thermal_innovation",
+    "pages": [
+        {
+            "type": "text",
+            "text": "The Diving Suit will allow you to explore underwater depths with ease. Allows you to swim faster, breathe longer, and mine faster underwater!"
+        },
+        {
+            "type": "合成",
+            "recipe": "thermal:diving_fabric",
+            "text": "Fabric used for all diving equipment."
+        },
+        {
+            "type": "合成",
+            "recipe": "thermal:armor/diving_helmet",
+            "recipe2": "thermal:armor/diving_chestplate"
+        },
+        {
+            "type": "合成",
+            "recipe": "thermal:armor/diving_leggings",
+            "recipe2": "thermal:armor/diving_boots"
+        }
+    ]
+}

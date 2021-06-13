@@ -1,0 +1,17 @@
+{
+    "name": "信素安全鎖",
+    "icon": "thermal:lock",
+    "category": "thermal:technology",
+    "read_by_default": true,
+    "pages": [
+        {
+            "type": "text",
+            "text": "Used to enable the security panel on your machines and dynamos. Make your stuff yours!"
+        },
+        {
+            "type": "合成",
+            "recipe": "thermal:tools/lock",
+            "title": "信素安全鎖"
+        }
+    ]
+}

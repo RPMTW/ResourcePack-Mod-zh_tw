@@ -1,0 +1,15 @@
+{
+  "itemGroup.verticalslabs": "垂直半磚",
+  "item.vertical_slab.prefix": "垂直%s",
+  "doubleslabs.keycategory": "雙層半磚",
+  "doubleslabs.key.toggleVerticalSlabPlacement": "切換直立半磚放置",
+  "doubleslabs.configgui.slabBlacklist": "水平半磚黑名單",
+  "doubleslabs.configgui.verticalSlabBlacklist": "垂直半磚黑名單",
+  "doubleslabs.configgui.replaceSameSlab": "替換相同的水平半磚",
+  "doubleslabs.configgui.disableVerticalSlabPlacement": "禁用直立半磚放置",
+  "doubleslabs.configgui.verticalSlabCraftingBlacklist": "直立半磚製作黑名單",
+  "doubleslabs.configgui.lazyVerticalSlabModels": "Lazy Vertical Slab Models",
+  "doubleslabs.configgui.slabCullBlacklist": "Slab Cull Blacklist",
+  "doubleslabs.configgui.useDoubleSlabModelBlacklist": "Double Slab Model Blacklist",
+  "doubleslabs.configgui.verticalSlabPlacementMethod": "Vertical Slab Placement Method"
+}

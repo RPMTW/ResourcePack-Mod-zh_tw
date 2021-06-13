@@ -1,0 +1,17 @@
+{
+  "name": "飼育機",
+  "icon": "industrialforegoing:animal_feeder",
+  "category": "agriculture_husbandry",
+  "sortnum": 8,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "一台機器用於 $(6)feed$() 動物，因此當機器提供動物餵養物品時，它們可以生產嬰兒。"
+    },
+    {
+      "type": "合成",
+      "recipe": "industrialforegoing:animal_feeder"
+    }
+  ]
+}

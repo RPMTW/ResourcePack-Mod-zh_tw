@@ -1,0 +1,17 @@
+{
+  "name": "生物探測器",
+  "icon": "industrialforegoing:mob_detector",
+  "category": "雜項",
+  "sortnum": 6,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "This machine will detect how many entities are in front of it and it will emit a redstone signal in the back with the same strength as the amount of entities detected."
+    },
+    {
+      "type": "合成",
+      "recipe": "industrialforegoing:mob_detector"
+    }
+  ]
+}

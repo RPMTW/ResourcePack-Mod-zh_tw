@@ -1,0 +1,21 @@
+{
+    "nourish.command.invalid_group": "Invalid group name",
+    "nourish.command.value": "Nourish group %d is at %d",
+    "nourish.command.set": "Nourish group %d set to %d",
+    "nourish.gui.nourishment": "Nourishment",
+    "nourish.gui.secondary": "Secondary",
+    "nourish.effect.caused": "Caused by:",
+    "nourish.effect.cause.multiple.above": "Average of %d above %d%%",
+    "nourish.effect.cause.multiple.below": "Average of %d below %d%%",
+    "nourish.effect.cause.multiple.above_and_below": "Average of %d above %d%% and below %d%%",
+    "nourish.effect.cause.single.above": "%d above %d%%",
+    "nourish.effect.cause.single.below": "%d below %d%%",
+    "nourish.effect.cause.single.above_and_below": "%d above %d%% and below %d%%",
+    "nourish.group.fruit": "水果",
+    "nourish.group.vegetables": "蔬菜",
+    "nourish.group.carbohydrates": "碳水化合物",
+    "nourish.group.protein": "蛋白質",
+    "nourish.group.fats": "脂肪",
+    "nourish.group.sweets": "甜食",
+    "nourish.group.description.sweets": "Too many sweets are bad for you!"
+}
