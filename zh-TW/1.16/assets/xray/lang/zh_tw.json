@@ -30,7 +30,7 @@
     "xray.message.block_exists": "%s 已存在。 請輸入不同的名稱。",
     "xray.message.unknown": "Looks like the block you've tried to edit doesn't exist.",
     "xray.message.removed": "已成功刪除 %s。",
-    "xray.message.config_missing": "Config file not found. Creating now.",
+    "xray.message.config_missing": "找不到配置檔案。立即創建。",
     "xray.message.invalid_hand": "%s 需要是個方塊",
     "xray.message.thats_odd": "Something went wrong? Sorry about that. Make an issue if this continues to happen",
     "xray.message.nothing_infront": "You're not looking at anything are you?",
