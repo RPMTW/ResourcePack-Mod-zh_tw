@@ -16,13 +16,24 @@ jobs:
         with:
           files: 1.16/zh-TW Add-on/1.16/
           dest: RPMTW-1.16.zip
-
-      - name: Upload 1.16 release
-        uses: svenstaro/upload-release-action@v2
+      - name: "提交檔案"
+        run: |
+          git config --global user.email "rrt467778@gmail.com.com"
+          git config --global user.name "SiongSng"
+          git add ./RPMTW-1.16.zip
+          git commit -m "更新翻譯包"
+        
+      - name: "推送變更"
+        uses: ad-m/github-push-action@master
         with:
-          repo_token: ${{ secrets.RPMTW_BOT_TOKEN}}
-          tag: RPMTW-1.16-V${{ github.run_number }}
-          file: ${{ github.workspace }}/RPMTW-1.16.zip
-          asset_name: RPMTW-1.16.zip
-          overwrite: true
-          body: "繁體中文化模組資源包(RPMTW) 版本:V${{ github.run_number }} \n更新內容: [${{ github.event.head_commit.message }}](https://github.com/SiongSng/ResourcePack-Mod-zh_tw/commit/${{ github.sha }})"
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
+      # - name: Upload 1.16 release
+      #   uses: svenstaro/upload-release-action@v2
+      #   with:
+      #     repo_token: ${{ secrets.RPMTW_BOT_TOKEN}}
+      #     tag: RPMTW-1.16-V${{ github.run_number }}
+      #     file: ${{ github.workspace }}/RPMTW-1.16.zip
+      #     asset_name: RPMTW-1.16.zip
+      #     overwrite: true
+      #     body: "繁體中文化模組資源包(RPMTW) 版本:V${{ github.run_number }} \n更新內容: [${{ github.event.head_commit.message }}](https://github.com/SiongSng/ResourcePack-Mod-zh_tw/commit/${{ github.sha }})"
