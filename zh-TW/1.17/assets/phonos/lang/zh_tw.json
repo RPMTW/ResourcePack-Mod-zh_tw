@@ -21,16 +21,16 @@
     "item.phonos.custom_music_disc": "Creative Music Disc",
     "item.phonos.phonos_guidebook.name": "Phonos Guidebook",
     "item.phonos.phonos_guidebook.landing": "For all things audio",
-    "button.phonos.set_sound_id": "Set Sound ID",
+    "button.phonos.set_sound_id": "設定音效 ID",
     "button.phonos.set_comparator_signal": "Set Comparator Signal",
     "log.phonos.comparator_signal_success": "Successfully set Comparator Signal!",
-    "log.phonos.sound_id_success": "Successfully set Sound ID!",
-    "log.phonos.sound_id_error": "Error: Invalid Sound ID!",
-    "message.phonos.apply_note_tune_success": "Applied!",
+    "log.phonos.sound_id_success": "成功設置音效ID！",
+    "log.phonos.sound_id_error": "錯誤：無效音效ID！",
+    "message.phonos.apply_note_tune_success": "套用成功",
     "message.phonos.copy_note_tune_success": "複製成功！",
     "message.phonos.mode_prefix": "模式: ",
     "message.phonos.mode_0_title": "一元執行",
     "message.phonos.mode_1_title": "複製",
     "message.phonos.mode_2_title": "Adjust",
-    "entity.minecraft.villager.technician": "Technician"
+    "entity.minecraft.villager.technician": "技術員"
 }
