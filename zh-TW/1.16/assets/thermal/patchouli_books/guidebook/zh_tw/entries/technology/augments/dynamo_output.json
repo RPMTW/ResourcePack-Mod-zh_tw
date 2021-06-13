@@ -1,0 +1,15 @@
+{
+    "name": "輔助反應升級",
+    "icon": "thermal:dynamo_output_augment",
+    "category": "thermal:augments",
+    "read_by_default": true,
+    "flag": "mod:thermal_expansion",
+    "pages": [
+        {
+            "type": "合成",
+            "recipe": "thermal:augments/dynamo_output_augment",
+            "title": "Aux. Reaction Chamber",
+            "text": "The Auxiliary Reaction Chamber augment increases maximum generation of a dynamo by 100% but scales the efficiency by 0.9."
+        }
+    ]
+}
