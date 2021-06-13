@@ -45,10 +45,10 @@ async function LangFile(ModID, slug, id, name) {
     let data = stringify(Object.assign({}, before, nwe), null, 4)
 
     fs.writeFile(`${process.cwd()}/../assets/${ModID}/lang/zh_tw.json`, data, function (error) {
-        console.log(`處理 ${name} (${id}-${ModID}) 的原始語系檔案完成`)
         if (error) {
             console.log(`解析語系Json檔案時發生錯誤。\n錯誤模組檔案: ${name} (${id}-${ModID})\n錯誤原因: ${error}`);
         }
+       return console.log(`處理 ${name} (${id}-${ModID}) 的原始語系檔案完成`);
     })
 }
 
