@@ -1,0 +1,11 @@
+{
+    "itemGroup.rangedpumps": "泵",
+    "block.rangedpumps.pump": "泵",
+    "block.rangedpumps.pump.state": "%d mB 的 %s - %d / %d FE",
+    "block.rangedpumps.pump.state_empty": "空 - %d / %d FE",
+    "block.rangedpumps.pump.state.energy": "能量供應不足。",
+    "block.rangedpumps.pump.state.redstone": "因為紅石信號的原因沒有工作。",
+    "block.rangedpumps.pump.state.working": "正在從 %d， %d， %d 抽取（範圍：%d）。",
+    "block.rangedpumps.pump.state.full": "內部儲罐已滿。",
+    "block.rangedpumps.pump.state.done": "完成。"
+}
