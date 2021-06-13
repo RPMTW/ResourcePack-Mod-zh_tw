@@ -1,0 +1,13 @@
+{
+  "as.command.set_item": "將 %s 堆疊大小設定為 %s （預設： %s）",
+  "as.command.show_item": "%s 的堆疊大小為 %s （預設： %s）",
+  "as.command.show_none": "未修改任何項目",
+  "as.command.reset_item": "已重置 %s 的堆疊大小",
+  "as.command.reset_all": "已重置所有項目的堆疊大小",
+  "as.command.error_empty_hand": "%s 的主手什麼都沒有！",
+  "as.command.you": "你",
+  "as.command.reloaded": "重新載入組態",
+  "as.command.set_matched": "將 %s 項目堆疊大小設定為 %s （%s： %s）",
+  "as.command.default": "預設",
+  "as.command.previous": "上一個"
+}
