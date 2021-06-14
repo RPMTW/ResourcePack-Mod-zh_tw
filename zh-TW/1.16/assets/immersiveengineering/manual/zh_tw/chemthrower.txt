@@ -1,12 +1,10 @@
 化學噴射器
 燒掉所有的東西！
-化學投擲器是一種將液體從其內部罐中噴射出來的裝置。 該設備可以裝入任何流體、液體或氣體，然後單擊右鍵將其噴出。
+化學投擲器是一種將液體從其內部罐中噴射出來的裝置。 該設備可以裝入任何流體、液體或氣體，然後單擊右鍵將其噴出。 該設備可以裝入任何流體、液體或氣體，然後單擊右鍵將其噴出。
 如果液體易燃，它還具有點燃液體的功能。 要切換指示燈，潛行並右鍵單擊。
-像其他一些工具一樣，化學投擲器可以在
-<link;workbench;Engineer's Workbench>。 這些升級會影響容量的大小、射程和擴散。
+像其他一些工具一樣，化學投擲器可以在 這些升級會影響容量的大小、射程和擴散。
 
 <&large>§2Large Tank§r 將化學投擲器的液體容量增加了 2000 mb。
 <&focus>§2Focused Nozzle§r 減少了噴出的液體的擴散並略微增加了它們的射程，讓您可以更精確地擊中更遠的目標。
-<&multi>§2Multitank§r 允許 Chemthrower 存儲多達三種不同的流體。 您可以通過以下方式選擇活動<config;b;tools.chemthrower.scroll;sneaking and using the scrollwheel, or through use of;using>鍵綁定
-§<keybind;key.immersiveengineering.chemthrowerSwitch>§r 如果它已在選項中設置。
+<&multi>§2Multitank§r 允許 Chemthrower 存儲多達三種不同的流體。 您可以通過以下方式選擇活動<config;b;tools.chemthrower.scroll;sneaking and using the scrollwheel, or through use of;using>鍵綁定 §<keybind;key.immersiveengineering.chemthrowerSwitch>§r 如果它已在選項中設置。
 此升級與§2Large Tank§r互鄉排斥。
