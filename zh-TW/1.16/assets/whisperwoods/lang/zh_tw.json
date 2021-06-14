@@ -2,7 +2,7 @@
     "itemGroup.whisperwoods": "Whisperwoods",
     "death.attack.hidebehind": "%1$s disappeared in the woods",
     "death.attack.wisp": "%1$s was lost to the night",
-    "entity.whisperwoods.moth": "Moth",
+    "entity.whisperwoods.moth": "飛蛾",
     "entity.whisperwoods.moth.type.garden_tiger": "Garden Tiger",
     "entity.whisperwoods.moth.type.luna": "月神",
     "entity.whisperwoods.moth.type.creeper_sphinx": "Creeper Sphinx",
@@ -28,12 +28,12 @@
     "block.whisperwoods.wisp_lantern_green": "Toxic Green Wisp Lantern",
     "block.whisperwoods.wisp_lantern_purple": "Magic Purple Wisp Lantern",
     "block.whisperwoods.hand_of_fate": "Hand of Fate",
-    "block.whisperwoods.hand_of_fate.tooltip.shiftdown": "Hold SHIFT to show recipes",
-    "block.whisperwoods.hand_of_fate.tooltip.recipehint": "Right-click the Hand with one of the following.",
+    "block.whisperwoods.hand_of_fate.tooltip.shiftdown": "按住 SHIFT 顯示食譜",
+    "block.whisperwoods.hand_of_fate.tooltip.recipehint": "用滑鼠右鍵按下列其中一項。",
     "block.whisperwoods.hand_of_fate.tooltip.recipe.wisp": "Wisp Summoning",
     "block.whisperwoods.hand_of_fate.tooltip.recipe.wisp.hint": "(when used with a Ghost Light inserted, it will create wisps of matching color)",
     "block.whisperwoods.hand_of_fate.tooltip.recipe.hirschgeist": "Hirschgeist Summoning",
     "block.whisperwoods.hand_of_fate.tooltip.recipe.hirschgeist.hint": "(requires any Ghost Light to be inserted)",
-    "item.whisperwoods.bottled_moth": "Bottled Moth",
-    "misc.whisperwoods.eggorder": "Spawn %s"
+    "item.whisperwoods.bottled_moth": "瓶裝飛蛾",
+    "misc.whisperwoods.eggorder": "產生 %s"
 }
