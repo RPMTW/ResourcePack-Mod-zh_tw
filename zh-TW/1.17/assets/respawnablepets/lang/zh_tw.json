@@ -1,9 +1,9 @@
 {
-    "item.respawnablepets.etheric_gem": "Etheric Gem",
-    "subtitles.respawnablepets.entity.generic.teleport": "Entity teleports",
-    "respawnablepets.tooltip.etheric_gem": "Allows you to toggle pet respawning by punching",
-    "respawnablepets.message.enable_respawn": "%s will now respawn on death",
-    "respawnablepets.message.disable_respawn": "%s will no longer respawn on death",
-    "respawnablepets.message.not_owner": "%s does not belong to you",
-    "respawnablepets.message.blacklisted": "%s is a blacklisted entity"
+    "item.respawnablepets.etheric_gem": "乙太寶石",
+    "subtitles.respawnablepets.entity.generic.teleport": "實體傳送",
+    "respawnablepets.tooltip.etheric_gem": "允許你透過Punch來切換寵物是否重生",
+    "respawnablepets.message.enable_respawn": "%s 死亡後將會重生",
+    "respawnablepets.message.disable_respawn": "%s 死亡後不再重生",
+    "respawnablepets.message.not_owner": "%s 不屬於你",
+    "respawnablepets.message.blacklisted": "%s 是被列入黑名單的實體"
 }
