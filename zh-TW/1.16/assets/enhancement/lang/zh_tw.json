@@ -9,7 +9,7 @@
     "item.enhancement.mending_cell": "修補細胞",
     "item.enhancement.mending_cell.tooltip.line1": "§7以消耗紅石為代價",
     "item.enhancement.mending_cell.tooltip.line2": "§7修補物品欄內的物品。",
-    "item.enhancement.mending_cell.tooltip.line3": "§右鍵使用它可以切換",
+    "item.enhancement.mending_cell.tooltip.line3": "§7右鍵使用它可以切換",
     "item.enhancement.mending_cell.tooltip.line4": "§7其消耗紅石充能的狀態。",
     "item.enhancement.mending_cell.tooltip.line5": "§7增強可以提升修補的速度。",
     "item.enhancement.arrow_rain": "箭雨",
@@ -17,8 +17,8 @@
     "item.enhancement.arrow_rain.tooltip.line2": "§7增強會提升每次齊射的箭矢數量。",
     "item.enhancement.arrow_rain.tooltip.line3": " ",
     "item.enhancement.cactus_drip": "仙人掌汁",
-    "item.enhancement.cactus_drip.tooltip.line1": "從仙人掌萃取的純水",
-    "item.enhancement.cactus_drip.tooltip.line2": "用來解除凋零和燃燒狀態。",
+    "item.enhancement.cactus_drip.tooltip.line1": "§7從仙人掌萃取的純水",
+    "item.enhancement.cactus_drip.tooltip.line2": "§7用來解除凋零和燃燒狀態。",
     "item.enhancement.cactus_drip.tooltip.line3": " ",
     "item.minecraft.potion.effect.bad_omen": "不祥之兆藥水",
     "item.minecraft.lingering_potion.effect.bad_omen": "滯留 不祥之兆藥水",
@@ -28,6 +28,6 @@
     "entity.enhancement.suspicious_cactus": "可疑的仙人掌",
     "entity.enhancement.angry_cactus": "生氣的仙人掌",
     "item.enhancement.backpack": "背包",
-    "item.enhancement.backpack.tooltip.line1": "§7增強提升",
-    "item.enhancement.backpack.tooltip.line2": "§7儲存容量。"
+    "item.enhancement.backpack.tooltip.line1": "§7增強可以提升其儲存空間。",
+    "item.enhancement.backpack.tooltip.line2": "  "
 }
