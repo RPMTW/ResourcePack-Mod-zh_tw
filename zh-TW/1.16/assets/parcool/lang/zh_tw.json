@@ -1,12 +1,12 @@
 {
     "key.crawl.description": "爬行",
-    "key.grab.description": "Grab Cliff",
+    "key.grab.description": "抓住懸崖",
     "key.roll.description": "翻滾",
-    "key.parcool.activate": "Activate ParCool",
+    "key.parcool.activate": "啟動跑酷",
     "key.categories.parcool": "跑酷",
-    "message.activation.active": "§b跑酷l:§2活耀",
-    "message.activation.inactive": "§b跑酷l:§7不活耀",
-    "warning.activation.exhausted": "§4You can't inactivate ParCool because you are exhausted!",
-    "command.error.actionname.invalid": "No such Action Name [%s]",
+    "message.activation.active": "§b跑酷:§2啟動",
+    "message.activation.inactive": "§b跑酷:§7關閉",
+    "warning.activation.exhausted": "§4你不能關閉跑酷，因為你已經筋疲力盡了！",
+    "command.error.actionname.invalid": "無效的動作名稱 [%s]",
     "command.error.boolean.invalid": "只有「true」或「false」才能使用 [%s]"
 }
