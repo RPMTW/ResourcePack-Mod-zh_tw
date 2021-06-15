@@ -10,7 +10,7 @@
     },
     {
       "type": "text",
-      "text": "$(l)1)$() Insert your ore in a Fluid Infuser with Sulfuric Acid. It will purify them and give you the purified ore form. $(br)$(l)2)$() Insert your purified ores into an Industrial Smelter. It will smelt them into their fluid forms.$(br)2) Move your molten ore into a Condenser.$(br)$(l)3)$() Pulverize your Ore Chunk, which will then give you a dust.$(br)$(l)4)$() Smelt your dust.$(br2)Done! Now you've transformed 1 ore into 4 ingots!"
+      "text": "$(l)1)$() 將礦石放入含有硫酸的液體注入機中。淨化後會產出精煉礦石。 $(br)$(l)2)$() 把精煉礦石放入工業熔爐中融熔成液體。$(br)2) 再將其倒入聚合機中結晶。$(br)$(l)3)$() 最後，將碎塊磨成粉 $(br)$(l)4)$()，燒製成錠。$(br2) 完成! 一礦四錠!"
     }
   ]
 }
