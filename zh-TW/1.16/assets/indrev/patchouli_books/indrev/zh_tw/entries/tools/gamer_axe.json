@@ -1,0 +1,16 @@
+{
+  "name": "頭號玩家斧",
+  "category": "\n-工具",
+  "sortnum": 5,
+  "icon": "indrev:gamer_axe",
+  "pages": [
+    {
+      "type": "text",
+      "text": "The Gamer Axe is the final gaming tool. It mines fast and deals great amount of damage when modules are installed.$(br)It may seem like just a stick, but wait until you activate it...$(br2)Use Right Click to activate it."
+    },
+    {
+      "type": "合成",
+      "recipe": "indrev:shaped/gamer_axe"
+    }
+  ]
+}
