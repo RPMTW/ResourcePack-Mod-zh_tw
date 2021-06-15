@@ -1,12 +1,12 @@
 {
-  "name": "Quadrupling Ores",
+  "name": "四倍礦物",
   "category": "enhanced_ore_processing",
   "sortnum": 2,
   "icon": "indrev:fluid_infuser_mk4",
   "pages": [
     {
       "type": "text",
-      "text": "Ore quadrupling is the last step for enhanced ore processing. For this, you'll need a $(l:machines/basic_machines#fluid_infuser)$(t:Go to Fluid Infuser)$(l)$(o)Fluid Infuser$(), a $(l:machines/basic_machines#smelter)$(t:Go to Industrial Smelter)$(l)$(o)Industrial Smelter$(), a $(l:machines/basic_machines#condenser)$(t:Go to Condenser)$(l)$(o)Condenser$(), a $(l:machines/basic_machines#pulverizer)$(t:Go to Pulverizer)$(l)$(o)Pulverizer$() and plenty of Sulfuric Acid.$(br)$(#3ead36)Sulfuric Acid$() can be found in lake forms at Swamps and can be crafted from $(#b3b332)Sulfur Dust$() + $(#88adf2)Water$() inside a Fluid Infuser."
+      "text": "礦石處理的最後一步能有四倍產出。你將需要一台 $(l:machines/basic_machines#fluid_infuser)$(t:Go to Fluid Infuser)$(l)$(o)Fluid Infuser$(), $(l:machines/basic_machines#smelter)$(t:Go to Industrial Smelter)$(l)$(o)Industrial Smelter$(), $(l:machines/basic_machines#condenser)$(t:Go to Condenser)$(l)$(o)Condenser$(), $(l:machines/basic_machines#pulverizer)$(t:Go to Pulverizer)$(l)$(o)Pulverizer$() 和足量的硫酸。$(br)$(#3ead36)Sulfuric Acid$() 生成於沼澤的湖中，或以 $(#b3b332)Sulfur Dust$() 和 $(#88adf2)Water$() 在液體注入機中合成。"
     },
     {
       "type": "text",
