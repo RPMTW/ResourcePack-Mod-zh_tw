@@ -1,0 +1,17 @@
+{
+  "name": "扳手",
+  "category": "\n-工具",
+  "sortnum": 1,
+  "icon": "indrev:wrench",
+  "pages": [
+    {
+      "type": "合成",
+      "recipe": "indrev:shaped/wrench",
+      "text": "The Wrench has two modes: Rotate and Configure. You can switch between the two modes by using Shift + Right Click"
+    },
+    {
+      "type": "text",
+      "text": "$(l)Rotate:$() in this mode you can rotate machines as well as disassemble them with a Shift + Right Click while looking at them.$(br)$(l)Configure:$() in this mode you can configure item output and input. Newly placed machines will have their left side as input and their right side as output as default but you can change it if you'd like."
+    }
+  ]
+}
