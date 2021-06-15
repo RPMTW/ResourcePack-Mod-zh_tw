@@ -18,19 +18,19 @@
       "type": "合成",
       "anchor": "粉碎機",
       "recipe": "indrev:shaped/pulverizer_mk1",
-      "text": "The $(l)$(o)Pulverizer $()is mainly used for processing ores into two dusts."
+      "text": "$(l)$(o)粉碎機 $()主要用於將礦石磨成兩個粉"
     },
     {
       "type": "合成",
-      "anchor": "compressor",
+      "anchor": "壓縮機",
       "recipe": "indrev:shaped/compressor_mk1",
-      "text": "The $(l)$(o)Compressor $()is mainly used for compressing ingots into plates."
+      "text": "$(l)$(o)壓縮機 $() 主要用於將錠壓縮成板材。"
     },
     {
       "type": "合成",
-      "anchor": "infuser",
+      "anchor": "固體注入機",
       "recipe": "indrev:shaped/infuser_mk1",
-      "text": "The $(l)$(o)Solid Infuser $()has the capability of mixin two ingredients into a different one."
+      "text": "$(l)$(o)Solid Infuser $() 具有將兩種成份混合成不同成分的功能。"
     },
     {
       "type": "合成",
