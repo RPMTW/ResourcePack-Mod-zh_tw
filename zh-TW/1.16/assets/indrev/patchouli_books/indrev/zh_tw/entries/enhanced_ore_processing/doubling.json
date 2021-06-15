@@ -1,12 +1,12 @@
 {
-  "name": "Doubling Ores",
+  "name": "兩倍的礦物",
   "category": "enhanced_ore_processing",
   "sortnum": 0,
   "icon": "indrev:pulverizer_mk1",
   "pages": [
     {
       "type": "text",
-      "text": "Ore doubling is the first step for enhanced ore processing.$(br)To get started, you'll need a $(l:machines/basic_machines#pulverizer)$(t:Go to Pulverizer)$(l)$(o)Pulverizer$().$(br)The Pulverizer will turn 1 ore into 2 dusts which can then be smelted into 2 ingots."
+      "text": "礦石加工的第一步是雙倍產出。$(br)一開始，您需要一個$(l:machines/basic_machines#pulverizer)$(t:Go to Pulverizer)$(l)$(o)Pulverizer$()。$(br)粉碎機能把1個礦石磨成2個粉末，粉末接著可以再被燒成金屬錠。"
     }
   ]
 }
