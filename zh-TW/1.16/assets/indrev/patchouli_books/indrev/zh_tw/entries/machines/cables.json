@@ -1,0 +1,22 @@
+{
+  "name": "電纜",
+  "category": "machines",
+  "sortnum": 2,
+  "icon": "indrev:cable_mk1",
+  "pages": [
+    {
+      "type": "text",
+      "text": "These machines are used to transfer Lazuli Flux to great distances."
+    },
+    {
+      "type": "合成",
+      "recipe": "indrev:shaped/cable_mk1",
+      "recipe2": "indrev:shaped/cable_mk2"
+    },
+    {
+      "type": "合成",
+      "recipe": "indrev:shaped/cable_mk3",
+      "recipe2": "indrev:shaped/cable_mk4"
+    }
+  ]
+}
