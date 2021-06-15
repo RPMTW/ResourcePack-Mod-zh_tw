@@ -77,7 +77,7 @@
     "text.autoconfig.bettercaves-fabric-1_16.option.betterCaves.undergroundSettings.caves.type1Caves.caveTop.@Tooltip": "類型一洞穴的Y坐標必須生成於此值之下",
     "text.autoconfig.bettercaves-fabric-1_16.option.betterCaves.undergroundSettings.caves.type1Caves.caveSurfaceCutoff": "類型 1 洞穴表面截斷深度",
     "text.autoconfig.bettercaves-fabric-1_16.option.betterCaves.undergroundSettings.caves.type1Caves.caveSurfaceCutoff.@Tooltip[0]": "The depth from a given point on the surface at which type 1 caves start to close off.",
-    "text.autoconfig.bettercaves-fabric-1_16.option.betterCaves.undergroundSettings.caves.type1Caves.caveSurfaceCutoff.@Tooltip[1]": "Will use the Max Cave Altitude instead of surface height if it is lower.",
+    "text.autoconfig.bettercaves-fabric-1_16.option.betterCaves.undergroundSettings.caves.type1Caves.caveSurfaceCutoff.@Tooltip[1]": "如果較低，將使用最大洞穴高度而不是表面高度。",
     "text.autoconfig.bettercaves-fabric-1_16.option.betterCaves.undergroundSettings.caves.type1Caves.caveSurfaceCutoff.@Tooltip[2]": "Will use the Max Cave Altitude no matter what if Override Surface Detection is enabled.",
     "text.autoconfig.bettercaves-fabric-1_16.option.betterCaves.undergroundSettings.caves.type1Caves.caveSurfaceCutoff.@Tooltip[3]": "建議值: 15",
     "text.autoconfig.bettercaves-fabric-1_16.option.betterCaves.undergroundSettings.caves.type1Caves.yCompression": "垂直壓縮率",
@@ -92,7 +92,7 @@
     "text.autoconfig.bettercaves-fabric-1_16.option.betterCaves.undergroundSettings.caves.type2Caves.caveTop.@Tooltip": "類型二洞穴的Y坐標必須生成於此值之下",
     "text.autoconfig.bettercaves-fabric-1_16.option.betterCaves.undergroundSettings.caves.type2Caves.caveSurfaceCutoff": "Type 2 Cave Surface Cutoff Depth",
     "text.autoconfig.bettercaves-fabric-1_16.option.betterCaves.undergroundSettings.caves.type2Caves.caveSurfaceCutoff.@Tooltip[0]": "The depth from a given point on the surface at which type 2 caves start to close off.",
-    "text.autoconfig.bettercaves-fabric-1_16.option.betterCaves.undergroundSettings.caves.type2Caves.caveSurfaceCutoff.@Tooltip[1]": "Will use the Max Cave Altitude instead of surface height if it is lower.",
+    "text.autoconfig.bettercaves-fabric-1_16.option.betterCaves.undergroundSettings.caves.type2Caves.caveSurfaceCutoff.@Tooltip[1]": "如果較低，將使用最大洞穴高度而不是表面高度。",
     "text.autoconfig.bettercaves-fabric-1_16.option.betterCaves.undergroundSettings.caves.type2Caves.caveSurfaceCutoff.@Tooltip[2]": "Will use the Max Cave Altitude no matter what if Override Surface Detection is enabled.",
     "text.autoconfig.bettercaves-fabric-1_16.option.betterCaves.undergroundSettings.caves.type2Caves.caveSurfaceCutoff.@Tooltip[3]": "建議值: 15",
     "text.autoconfig.bettercaves-fabric-1_16.option.betterCaves.undergroundSettings.caves.type2Caves.yCompression": "垂直壓縮率",
@@ -190,6 +190,6 @@
     "text.autoconfig.bettercaves-fabric-1_16.option.betterCaves.undergroundSettings.miscellaneous.enableFloodedUnderground.@Tooltip": "允許在海洋生態域內生成的洞穴被水覆蓋",
     "text.autoconfig.bettercaves-fabric-1_16.option.betterCaves.undergroundSettings.miscellaneous.overrideSurfaceDetection": "Override Surface Detection",
     "text.autoconfig.bettercaves-fabric-1_16.option.betterCaves.undergroundSettings.miscellaneous.overrideSurfaceDetection.@Tooltip[0]": "Ignores surface detection for closing off caves and caverns, forcing them to spawn",
-    "text.autoconfig.bettercaves-fabric-1_16.option.betterCaves.undergroundSettings.miscellaneous.overrideSurfaceDetection.@Tooltip[1]": "up until their max height.",
-    "text.autoconfig.bettercaves-fabric-1_16.option.betterCaves.undergroundSettings.miscellaneous.overrideSurfaceDetection.@Tooltip[2]": "Useful for Nether-like dimensions with no real \"surface\"."
+    "text.autoconfig.bettercaves-fabric-1_16.option.betterCaves.undergroundSettings.miscellaneous.overrideSurfaceDetection.@Tooltip[1]": "直到他們的最大高度。",
+    "text.autoconfig.bettercaves-fabric-1_16.option.betterCaves.undergroundSettings.miscellaneous.overrideSurfaceDetection.@Tooltip[2]": "適用於沒有真正\"表面\"的類式地獄維度。"
 }
