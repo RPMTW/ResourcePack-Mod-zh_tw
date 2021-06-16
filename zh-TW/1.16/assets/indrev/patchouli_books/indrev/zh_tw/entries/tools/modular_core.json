@@ -5,17 +5,17 @@
   "icon": "indrev:modular_core",
   "pages": [
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "indrev:shaped/modular_core",
       "text": "The Core of Modularity is the base for every modular tool here. However, it must be activated before being usable. To activate it, you'll need at least one Laser, one Capsule and a lot of stored energy (100M)."
     },
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "indrev:shaped/capsule",
       "text": "The Capsule will hold your Core of Modularity during the process of activation."
     },
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "indrev:shaped/laser",
       "text": "Laser Emitters should be placed facing the capsule with $(l)AN EXACT 3 BLOCKS DISTANCE$(). They store up to 25M LF and require a redstone signal to be toggled on."
     },
