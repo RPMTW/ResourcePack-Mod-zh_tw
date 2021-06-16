@@ -31,7 +31,7 @@
     "xray.message.unknown": "您嘗試編輯的方塊似乎不存在。",
     "xray.message.removed": "已成功刪除 %s。",
     "xray.message.config_missing": "找不到配置檔案。立即創建。",
-    "xray.message.invalid_hand": "%s 必須是個方塊",
+    "xray.message.invalid_hand": "%s 需要是個方塊",
     "xray.message.thats_odd": "發生錯誤了？很抱歉。如果這種情況持續發生，請向作者提出問題點",
     "xray.message.nothing_infront": "You're not looking at anything are you?",
     "xray.message.not_a_number": "{%s} is not a number. Please use a number for your meta",
