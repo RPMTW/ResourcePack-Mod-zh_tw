@@ -7,11 +7,11 @@
     {
       "type": "合成",
       "recipe": "indrev:shaped/chopper_mk1",
-      "text": "The $(l)Chopper$() is a machine focused in automating wood farming, and it also supports enhancement upgrades.$(br)Note that it requires certain items for it to function: (put them in the 2x2 square)"
+      "text": "$(l) 伐木機用於自動樹場，且可使用升級組件強化。$(br) 但需要指定的物品才能運作。(設置時將其放於2X2的空間中)"
     },
     {
       "type": "text",
-      "text": "$(l)Axe:$() if present in the inventory, will retrieve any wood and leaves in range (leaves will not consume durability)$(br2)$(l)Sapling:$() if present in the inventory, will be planted in every block possible inside it's range.$(br2)$(l)Bone meal:$() will be applied to any saplings inside it's range."
+      "text": "$(l)斧頭:$() 若放置於機器中，將被用於收集範圍內的所有木頭和樹葉(樹葉不消耗斧頭耐久度) $(br2)$(l)樹苗:$() 若放置於機器中，將被種植於範圍內所有可種植的地方 $(br2)$(l)骨粉:$() 則會被用於對範圍內所有樹苗施肥"
     }
   ]
 }
