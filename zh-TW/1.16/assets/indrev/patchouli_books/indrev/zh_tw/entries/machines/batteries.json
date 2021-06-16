@@ -1,12 +1,12 @@
 {
-  "name": "Lazuli Flux Containers",
+  "name": "青金石通量容器",
   "category": "machines",
   "sortnum": 3,
   "icon": "indrev:lazuli_flux_container_mk1",
   "pages": [
     {
       "type": "text",
-      "text": "These machines are used to store Lazuli Flux.$(br)You can see blue and orange arrows on each side. Blue arrows represent energy input and orange arrows represent energy output. You can configure these arrows using a Wrench in Configure Mode."
+      "text": "這些機器用於存儲青晶石通量。$(br) 側邊標有藍色和橙色的箭頭。藍色箭頭為能量輸入，而橙色箭頭為能量輸出。您可以在配置模式下使用扳手配置這些箭頭。"
     },
     {
       "type": "合成",
