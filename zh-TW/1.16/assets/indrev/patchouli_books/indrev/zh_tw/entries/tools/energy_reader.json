@@ -5,7 +5,7 @@
   "icon": "indrev:energy_reader",
   "pages": [
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "indrev:shaped/energy_reader",
       "text": "Tells you the current stored energy in machines and, in some machines, also tells the energy consumption per tick."
     }
