@@ -9,12 +9,12 @@
       "text": "Cables can be used to transfer power between machines far apart from each other.$(br)Each cable can transfer different amount of powers, which are described on the tooltip when Shift is pressed.$(br)If your machines are running low on power, you might try upgrading your cables or improving your power generation."
     },
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "indrev:shaped/cable_mk1",
       "recipe2": "indrev:shaped/cable_mk2"
     },
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "indrev:shaped/cable_mk3",
       "recipe2": "indrev:shaped/cable_mk4"
     }
