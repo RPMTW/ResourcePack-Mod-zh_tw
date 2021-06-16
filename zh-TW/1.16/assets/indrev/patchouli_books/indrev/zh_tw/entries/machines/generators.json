@@ -6,12 +6,12 @@
   "pages": [
     {
       "type": "text",
-      "text": "$(l)$(o)Generators $()use other resources to create energy known as Lazuli Flux for your machines"
+      "text": "$(l)$(o)發電機 $()使用資源以產生青晶石通量供機器使用"
     },
     {
       "type": "合成",
       "recipe": "indrev:shaped/coal_generator_mk1",
-      "text": "The $(l)$(o)Coal Generator $()can use, not only coal, but anything a furnace can to generate energy."
+      "text": "$(l)$(o)煤炭發電機 $() 可以使用任何原版熔爐可使用的燃料來發電。"
     },
     {
       "type": "合成",
@@ -20,17 +20,17 @@
     },
     {
       "type": "text",
-      "text": "The $(l)$(o)Solar Generator $()will generate energy as long as the sunlight can reach it."
+      "text": "$(l)$(o)太陽能發電機 $()，只要陽光照射便能產生能量。"
     },
     {
       "type": "合成",
       "recipe": "indrev:shaped/biomass_generator_mk3",
-      "text": "The $(l)$(o)Biomass Generator $()will burn $(#00ff00)biomass $()to generate energy."
+      "text": "$(l)$(o)生物質發電機 $()可燃燒(#00ff00)生物質$()以產生能量。"
     },
     {
       "type": "合成",
       "recipe": "indrev:shaped/heat_generator",
-      "text": "The $(l)$(o)Heat Generator $()will consume lava inside it to generate energy. Pairs up well with the pump."
+      "text": "$(l)$(o)熱力發電機$（）使用岩漿產生能量。與泵搭配使用時效果很好。"
     }
   ]
 }
