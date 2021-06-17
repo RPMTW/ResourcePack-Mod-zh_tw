@@ -145,7 +145,7 @@
     "modularrouters.guiText.label.regexError": "Invalid regular expression",
     "modularrouters.guiText.label.upgrades": "在這裡放置升級",
     "modularrouters.guiText.label.xpVacuum.eject": "噴出",
-    "modularrouters.guiText.label.xpVacuum": "XP Type",
+    "modularrouters.guiText.label.xpVacuum": "經驗類型",
     "modularrouters.guiText.popup.activator.action": "§a§nAction ${br} ${br}§rThe activator module can simulate: ${br}- Right-clicking a block with the item in the router's buffer (e.g. using a hoe, flipping a lever); ${br}- Right-clicking a nearby entity (e.g. milking a cow with a bucket in the router's buffer).",
     "modularrouters.guiText.popup.activator.entity": "§a§nEntity Mode ${br} ${br}§rDefine which nearby (within 3 blocks) entity to target each time the module runs: ${br}- The closest entity; ${br}- An entity picked at random; ${br}- Round-robin through all in-range entities.",
     "modularrouters.guiText.popup.activator.look": "§a§nLook Direction ${br} ${br}§rWhen right-clicking, the router can: ${br}- Face level, targeting a block directly in the module's direction, up to 4 blocks away; ${br}- Look upward, targeting the block directly above the block in the module's direction; ${br}- Look downward, targeting the block directly below the block in the module's direction.",
