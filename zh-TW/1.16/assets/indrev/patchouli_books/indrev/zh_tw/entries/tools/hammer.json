@@ -1,11 +1,11 @@
 {
   "name": "錘子",
-  "category": "工具",
+  "category": "tools",
   "sortnum": 0,
   "icon": "indrev:hammer",
   "pages": [
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "indrev:shaped/hammer",
       "text": "Used to make plates out of ingots when you still don't have a compressor!"
     }
