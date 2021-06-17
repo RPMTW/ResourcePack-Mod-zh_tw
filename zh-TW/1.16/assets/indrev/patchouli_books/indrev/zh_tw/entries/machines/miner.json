@@ -7,12 +7,12 @@
     {
       "type": "crafting",
       "recipe": "indrev:shaped/miner_mk4",
-      "text": "The $(l)$(o)Mining Rig Computer$(), when placed inside a $(l:machines/miner#chunk_scanner)$(t:Chunk Scanner)$(l)$(o)$(#0000ff)scanned$() chunk will start mining at cost of energy. Note that it does not break blocks.$(br)The Computer costs $(#1111FF)64LF/tick$() and each Drill will increase energy usage in $(#1111FF)256LF/tick$()"
+      "text": "$(l)$(o)礦機電腦$()放置於$(l:machines/miner#chunk_scanner)$(t:Chunk Scanner)$(l)$(o)$(#0000ff)掃描過的$()chunk裡時將耗費能量挖掘。挖掘時不摧毀方塊。$(br)礦機電腦運行時耗費 $(#1111FF)64LF/tick$()，每加裝一個鑽頭能源耗費增加 $(#1111FF)256LF/tick$()"
     },
     {
       "type": "crafting",
       "recipe": "indrev:shaped/drill_bottom",
-      "text": "Mining Rig Drills are required for the Mining Rig Computer to work. They have to be placed next to the Computer and require drill heads to work. Each Drill increases the mining speed.$(br)Screenshot of a functional setup:"
+      "text": "礦機電腦需要礦機鑽頭才能運作。礦機鑽頭必須放在電腦旁邊，並且需要鑽頭。每多一個礦機鑽頭就會提高一些開採速度。$(br)此為可正常運行的礦機的示意圖："
     },
     {
       "type": "image",
@@ -20,13 +20,13 @@
       "images": [
         "indrev:textures/gui/mrc_setup.png"
       ],
-      "text": "Note that the Drills can be placed connected or diagonally to the Mining Rig Computer."
+      "text": "鑽頭可以直接連接或對角的放置在礦機電腦旁"
     },
     {
       "anchor": "chunk_scanner",
       "type": "crafting",
       "recipe": "indrev:shaped/chunk_scanner",
-      "text": "The $(l)$(o)Chunk Scanner$() is a tool used to collect geographical data on the chunk's vein type. After being scanned, the Scanner will give you a result which is required by the Miner to work."
+      "text": "$(l)$(o)區塊掃描器$()是一種用於收集區塊礦脈類型地理數據的工具。掃描器將為您提供礦機運作所需的掃描結果。"
     },
     {
       "anchor": "vein_types",
