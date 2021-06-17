@@ -13,22 +13,22 @@
       "text": "$(l)需要的方塊$()$(br2)$(li)$(l)9x$() 機殼$(br)$(li)$(l)6x$() 筒倉$(br)$(li)$(l)3x$()進風口$(br)$(li)$(l)3x$() 通風管道$(br)$(li)$(l)2x$() 櫃子$(br)$(li)$(l)1x$() 警示燈$(br)$(li)$(l)1x$() 控制器$()$(br2)對工廠按右鍵以投影方塊位置"
     },
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "indrev:shaped/frame",
       "recipe2": "indrev:shaped/silo"
     },
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "indrev:shaped/intake",
       "recipe2": "indrev:shaped/duct"
     },
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "indrev:shaped/cabinet",
       "recipe2": "indrev:shaped/warning_strobe"
     },
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "indrev:shaped/controller"
     }
   ]
