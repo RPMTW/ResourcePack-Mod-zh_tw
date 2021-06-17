@@ -127,22 +127,22 @@
     {
       "anchor": "cavalerite",
       "type": "spotlight",
-      "title": "Cavalerite",
+      "title": "碲金礦脈",
       "item": "minecraft:gold_ore",
-      "text": "$(l)Overworld$()$(br)Mainly composed by $(#FFD700)$(l)Gold Ore$(), it's a small and quite rich gold vein$(br)It can be found in many places but more commonly on taigas and mesas."
+      "text": "$(l)主世界$()$(br)主要由$(#FFD700)$(l)金礦$()構成。小具規模且含量佳。$(br)許多地方都有此礦脈的蹤影，但在針葉林和惡地更為常見。"
     },
     {
       "type": "spotlight",
-      "title": "Cavalerite (Nether)",
+      "title": "碲金礦脈(地域)",
       "item": "minecraft:nether_gold_ore",
-      "text": "$(#ff0000)$(l)Nether$()$(br)It's a quite large and rich $(#FFD700)$(l)Nether Gold Ore$() vein, with lots of netherrack, soulsand, gravel, and if you're very lucky some $(l)$(#000000)Ancient Debris$() too!"
+      "text": "$(#ff0000)$(l)地域$()$(br)頗具規模且豐富的$(#FFD700)$(l)地域金礦$()礦脈，夾雜大量地域岩、靈魂沙、礫石。幸運的話還會有$(l)$(#000000)遠古遺骸$()!"
     },
     {
       "anchor": "quartz",
       "type": "spotlight",
       "title": "石英",
-      "item": "minecraft:nether_quartz_ore",
-      "text": "$(#ff0000)$(l)Nether$()$(br)It's a quite large and rich $(#dddddd)$(l)Quartz$() vein, with lots of netherrack, soulsand and gravel."
+      "item": "minecraft:nether_quartz_ore\n",
+      "text": "$(#ff0000)$(l)地域$()$(br)頗具規模且豐富的$(#FFD700)$(l)石英$()礦脈，夾雜大量地域岩、靈魂沙、礫石。"
     }
   ]
 }
