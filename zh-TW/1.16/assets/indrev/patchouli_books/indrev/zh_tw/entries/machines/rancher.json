@@ -11,7 +11,7 @@
     },
     {
       "type": "text",
-      "text": "$(l)Sword:$() if present in the inventory, will kill animals if there are more than 7 in its range.$(br2)$(l)Wheat/Seed/Carrot:$() if present in the inventory, will be fed to the respective animals in it's range.$(br2)$(l)Bucket:$() if present in the inventory, will collect milk from cows."
+      "text": "$(l)劍:$() 若放置於機器中，將用於屠宰範圍內的動物(若大於七隻)。$(br2)$(l)小麥/種子/胡蘿蔔:$() 若放置於機器中，將用於餵食範圍內的動物。$(br2)$(l)鐵桶:$() 若放置於機器中，將用於收集牛奶。"
     }
   ]
 }
