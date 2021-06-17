@@ -7,7 +7,7 @@
     {
       "type": "crafting",
       "recipe": "indrev:shaped/miner_mk4",
-      "text": "$(l)$(o)礦機電腦$()放置於$(l:machines/miner#chunk_scanner)$(t:Chunk Scanner)$(l)$(o)$(#0000ff)掃描過的$()chunk裡時將耗費能量挖掘。挖掘時不摧毀方塊。$(br)礦機電腦運行時耗費 $(#1111FF)64LF/tick$()，每加裝一個鑽頭能源耗費增加 $(#1111FF)256LF/tick$()"
+      "text": "$(l)$(o)礦機電腦$()放置於$(l:machines/miner#chunk_scanner)$(t:Chunk Scanner)$(l)$(o)$(#0000ff)掃描過的$()chunk裡時將耗費能量挖掘。挖掘時不摧毀方塊。$(br)礦機電腦運行時耗費$(#1111FF)64LF/tick$()，每加裝一個鑽頭能源耗費增加 $(#1111FF)256LF/tick$()"
     },
     {
       "type": "crafting",
@@ -31,7 +31,7 @@
     {
       "anchor": "vein_types",
       "type": "text",
-      "text": "$(br)$(l:machines/miner#peat)$(t:Go to Peat)Peat$()$(br)$(l:machines/miner#lignite)$(t:Go to Lignite)Lignite$()$(br)$(l:machines/miner#bituminous)$(t:Go to Bituminous)Bituminous$()$(br)$(l:machines/miner#anthracite)$(t:Go to Anthracite)Anthracite$()$(br)$(l:machines/miner#siderite)$(t:Go to Siderite)Siderite$()$(br)$(l:machines/miner#limonite)$(t:Go to Limonite)Limonite$()$(br)$(l:machines/miner#hematite)$(t:Go to Hematite)Hematite$()$(br)$(l:machines/miner#magnetite)$(t:Go to Magnetite)Magnetite$()$(br)$(l:machines/miner#chalcopryte)$(t:Go to Chalcopryte)Chalcopryte$()$(br)$(l:machines/miner#cuprite)$(t:Go to Cuprite)Cuprite$()$(br)$(l:machines/miner#cassiterite)$(t:Go to Cassiterite)Cassiterite$()$(br)$(l:machines/miner#stannite)$(t:Go to Stannite)Stannite$()$(br)$(l:machines/miner#cavalerite)$(t:Go to Cavalerite)Cavalerite$()$(br)$(l:machines/miner#quartz)$(t:Go to Quartz)Quartz$()$(br)$(l:machines/miner#nikolite)$(t:Go to Nikolite)Nikolite$()"
+      "text": "$(br)$(l:machines/miner#peat)$(t:Go to Peat)泥煤礦脈$()$(br)$(l:machines/miner#lignite)$(t:Go to Lignite)褐煤礦脈$()$(br)$(l:machines/miner#bituminous)$(t:Go to Bituminous)瀝青礦脈$()$(br)$(l:machines/miner#anthracite)$(t:Go to Anthracite)白煤礦脈$()$(br)$(l:machines/miner#siderite)$(t:Go to Siderite)菱鐵礦脈$()$(br)$(l:machines/miner#limonite)$(t:Go to Limonite)褐鐵礦脈$()$(br)$(l:machines/miner#hematite)$(t:Go to Hematite)赤鐵礦脈$()$(br)$(l:machines/miner#magnetite)$(t:Go to Magnetite)磁鐵礦脈$()$(br)$(l:machines/miner#chalcopryte)$(t:Go to Chalcopryte)黃銅礦脈$()$(br)$(l:machines/miner#cuprite)$(t:Go to Cuprite)赤銅礦脈$()$(br)$(l:machines/miner#cassiterite)$(t:Go to Cassiterite)錫石礦脈$()$(br)$(l:machines/miner#stannite)$(t:Go to Stannite)黃錫礦脈$()$(br)$(l:machines/miner#cavalerite)$(t:Go to Cavalerite)碲金礦脈$()$(br)$(l:machines/miner#quartz)$(t:Go to Quartz)石英礦脈$()$(br)$(l:machines/miner#nikolite)$(t:Go to Nikolite)藍石礦脈$()"
     },
     {
       "anchor": "peat",
