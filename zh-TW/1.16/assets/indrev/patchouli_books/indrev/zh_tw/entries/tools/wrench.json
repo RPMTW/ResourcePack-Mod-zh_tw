@@ -1,11 +1,11 @@
 {
   "name": "扳手",
-  "category": "工具",
+  "category": "tools",
   "sortnum": 1,
   "icon": "indrev:wrench",
   "pages": [
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "indrev:shaped/wrench",
       "text": "The Wrench has two modes: Rotate and Configure. You can switch between the two modes by using Shift + Right Click"
     },
