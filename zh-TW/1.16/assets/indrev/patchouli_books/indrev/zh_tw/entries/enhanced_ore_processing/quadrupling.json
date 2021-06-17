@@ -6,7 +6,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "礦石處理的最後一步能有四倍產出。你將需要一台 $(l:machines/basic_machines#fluid_infuser)$(t:Go to Fluid Infuser)$(l)$(o)Fluid Infuser$(), $(l:machines/basic_machines#smelter)$(t:Go to Industrial Smelter)$(l)$(o)Industrial Smelter$(), $(l:machines/basic_machines#condenser)$(t:Go to Condenser)$(l)$(o)Condenser$(), $(l:machines/basic_machines#pulverizer)$(t:Go to Pulverizer)$(l)$(o)Pulverizer$() 和足量的硫酸。$(br)$(#3ead36)Sulfuric Acid$() 生成於沼澤的湖中，或以 $(#b3b332)Sulfur Dust$() 和 $(#88adf2)Water$() 在液體注入機中合成。"
+      "text": "礦石處理的最後一步能有四倍產出。你將需要一台 $(l:machines/basic_machines#fluid_infuser)$(t:Go to Fluid Infuser)$(l)$(o)固體注入機$(), $(l:machines/basic_machines#smelter)$(t:Go to Industrial Smelter)$(l)$(o)Industrial Smelter$(), $(l:machines/basic_machines#condenser)$(t:Go to Condenser)$(l)$(o)聚合機$(), $(l:machines/basic_machines#pulverizer)$(t:Go to Pulverizer)$(l)$(o)粉碎機$() 和足量的硫酸。$(br)$(#3ead36)硫酸$() 生成於沼澤的湖中，或以 $(#b3b332琉粉$() 和 $(#88adf2)水$() 在液體注入機中合成。"
     },
     {
       "type": "text",
