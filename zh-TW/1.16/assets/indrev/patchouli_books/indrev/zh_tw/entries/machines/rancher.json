@@ -5,7 +5,7 @@
   "icon": "indrev:rancher_mk1",
   "pages": [
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "indrev:shaped/rancher_mk1",
       "text": "The $(l)Rancher$() is a machine focused in automating animal farming, and it also supports enhancement upgrades.$(br)Note that it requires some items for it to function: (put them in the 2x2 square)"
     },
