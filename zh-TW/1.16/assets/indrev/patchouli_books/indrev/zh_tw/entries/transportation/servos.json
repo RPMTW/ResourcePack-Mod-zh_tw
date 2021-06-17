@@ -18,12 +18,12 @@
       "text": "Servos have multiple modes to define priorities.$(br)Click on the servo to change it.$(br)$(l)Nearest first:$() the servo will look for the closest container.$(br)$(l)Furthest first:$() the servo will look for the furthest container.$(br)$(l)Random:$() the servo will chose a random container.$(br)$(l)Round Robin$() the servo will look for the container with the least amount of the transferred fluid/item."
     },
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "indrev:shaped/servo_output",
       "text": "The Output Servo will push items/fluids to nearby containers UNLESS they are also marked as output."
     },
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "indrev:shaped/servo_retriever",
       "text": "The Retriever Servo will pull items/fluids from nearby UNLESS they are also marked as retriever."
     }
