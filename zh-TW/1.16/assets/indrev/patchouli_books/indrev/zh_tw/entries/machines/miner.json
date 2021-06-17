@@ -38,35 +38,35 @@
       "type": "spotlight",
       "title": "泥煤礦脈",
       "item": "minecraft:coal_ore",
-      "text": "Mainly composed by $(#000000)$(l)Coal Ore$(), it's the smallest and poorest coal vein, which means you'll be getting a lot of stone, dirt and some gravel.$(br)It can be found in any biomes, but more commonly in plains, taigas, forests, swamps and icy biomes."
+      "text": "主要由$(#000000)$(l)煤礦$()構成，為最貧乏和少量的煤礦脈，夾雜大量石頭、泥土和一些礫石。$(br)此礦脈分布於各生態域，但更常出現在平原、針葉林、森林、沼澤和結冰的地形"
     },
     {
       "anchor": "lignite",
       "type": "spotlight",
       "title": "褐煤礦脈",
       "item": "minecraft:coal_ore",
-      "text": "Mainly composed by $(#000000)$(l)Coal Ore$(), it's the second smallest and poorest coal vein, which means there's still a lot of stone, dirt and gravel here.$(br)It can be found in any biomes, but more commonly in plains, taigas, forests, swamps and biomes."
+      "text": "主要由$(#000000)$(l)煤礦$()構成，為第二貧乏和少量的煤礦脈，仍夾雜大量石頭、泥土和礫石。$(br)此礦脈分布於各生態域，但更常出現在平原、針葉林、樹林、沼澤和結冰的地形"
     },
     {
       "anchor": "bituminous",
       "type": "spotlight",
       "title": "瀝青礦脈",
       "item": "minecraft:coal_ore",
-      "text": "Mainly composed by $(#000000)$(l)Coal Ore$(), it's a quite big and rich coal vien, which means you'll find more coal alongside stone, dirt and gravel, but if you're lucky, you might just find some $(#00ffff)$(l)Diamonds$() too.$(br)It can be found in many places but more commonly in deserts, hills, mesas, savannas."
+      "text": "主要由$(#000000)$(l)煤礦$()構成，為頗具規模的煤礦脈，擁有更多的煤碳。仍有石頭、泥土和一些礫石。夠幸運的話也會出現$(#00ffff)$(l)鑽石$()。$(br)許多地方都有此礦脈的蹤影，但在沙漠、山地、惡地和莽原更為常見"
     },
     {
       "anchor": "anthracite",
       "type": "spotlight",
       "title": "白煤礦脈",
       "item": "minecraft:coal_ore",
-      "text": "Mainly composed by $(#000000)$(l)Coal Ore$(), it's a the biggest and richest coal vein, which means there's a lot of coal, alongside stone, dirt, gravel and some $(#00ffff)$(l)Diamonds$() too.$(br)It can be found in many places but more commonly in deserts, hills, mesas, savannas."
+      "text": "主要由$(#000000)$(l)煤礦$()構成，為最含量充足的煤礦脈，擁有很多的煤碳。仍有石頭、泥土和一些礫石。夠幸運的話也會出現$(#00ffff)$(l)鑽石$()。$(br)許多地方都有此礦脈的蹤影，但在沙漠、山地、惡地和莽原更為常見"
     },
     {
       "anchor": "siderite",
       "type": "spotlight",
       "title": "菱鐵礦脈",
       "item": "minecraft:iron_ore",
-      "text": "Mainly composed by $(#666666)$(l)Iron Ore$(), it's the smallest and poorest iron vein, with lots of stone, dirt, and some gravel.$(br)It can be found in many places but more commonly hills, plains, savannas and forests."
+      "text": "主要由$(#666666)$(l)鐵礦$()構成，為最貧乏和少量的鐵礦脈，夾雜大量石頭、泥土和一些礫石。$(br)此礦脈分布於各生態域，但更常出現在山地、平原、莽原和森林"
     },
     {
       "anchor": "limonite",
