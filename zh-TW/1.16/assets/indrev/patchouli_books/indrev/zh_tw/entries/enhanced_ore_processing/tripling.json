@@ -6,7 +6,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "礦物處理的下一步是三倍礦物。你需要 $(l:machines/basic_machines#smelter)$(t:Go to Industrial Smelter)$(l)$(o)Industrial Smelter$(), $(l:machines/basic_machines#condenser)$(t:Go to Condenser)$(l)$(o)Condenser$()  和 $(l:machines/basic_machines#condenser)$(t:Go to Condenser)$(l)$(o)Condenser$()。"
+      "text": "礦物處理的下一步是三倍礦物。你需要 $(l:machines/basic_machines#smelter)$(t:Go to Industrial Smelter)$(l)$(o)工業熔爐$(), $(l:machines/basic_machines#condenser)$(t:Go to Condenser)$(l)$(o)聚合機$()  和 $(l:machines/basic_machines#pulverizer)$(t:Go to Pulverizer)$(l)$(o)粉碎機$()"
     },
     {
       "type": "text",
