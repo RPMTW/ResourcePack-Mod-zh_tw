@@ -72,29 +72,29 @@
       "anchor": "limonite",
       "type": "spotlight",
       "title": "褐鐵礦脈",
-      "item": "minecraft:iron_ore",
-      "text": "Mainly composed by $(#666666)$(l)Iron Ore$(), it's the second smallest and poorest iron vein, with lots of of stone, dirt and gravel here.$(br)It can be found in many places but more commonly on hills, plains and deserts."
+      "item": "minecraft:iron_ore\n",
+      "text": "主要由$(#666666)$(l)鐵礦$()構成，為第二貧乏和少量的鐵礦脈，仍夾雜大量石頭、泥土和礫石。$(br)此礦脈分布於各生態域，但更常出現在山地、平原和沙漠"
     },
     {
       "anchor": "hematite",
       "type": "spotlight",
       "title": "赤鐵礦脈",
       "item": "minecraft:iron_ore",
-      "text": "Mainly composed by $(#666666)$(l)Iron Ore$(), it's a quite big and rich iron vein, with lots of iron alongside stone, dirt and some gravel.$(br)It can be found in many places but more commonly on taigas and mesas."
+      "text": "主要由$(#666666)$(l)鐵礦$()構成，為頗具規模的鐵礦脈，擁有更多的鐵礦。仍有石頭、泥土和一些礫石。$(br)許多地方都有此礦脈的蹤影，但在針葉林和惡地更為常見"
     },
     {
       "anchor": "magnetite",
       "type": "spotlight",
       "title": "磁鐵礦脈",
       "item": "minecraft:iron_ore",
-      "text": "Mainly composed by $(#666666)$(l)Iron Ore$(), it's the biggest and richest iron vein, with lots of iron, alongside stone, dirt and some gravel.$(br)It can be found in many places but more commonly on hills, mesas and deserts."
+      "text": "主要由$(#666666)$(l)鐵礦$()構成，為最含量充足的鐵礦脈，擁有很多的鐵礦。仍有石頭、泥土和一些礫石。$(br)許多地方都有此礦脈的蹤影，但在山地、惡地和沙漠更為常見"
     },
     {
       "anchor": "chalcopryte",
       "type": "spotlight",
       "title": "黃銅礦脈",
       "item": "indrev:copper_ore",
-      "text": "Mainly composed by $(#FFA500)$(l)Copper Ore$() and $(#666666)$(l)Iron Ore$(), it's the quite rich and very variable vein, with lots of $(#FFA500)$(l)copper$() and $(#666666)$(l)iron$() ores alongside stone, dirt and gravel.$(br)It can be found in many places but more commonly on plains, savannas and forests."
+      "text": "主要由$(#FFA500)$(l)銅礦$()和$(#666666)$(l)鐵礦$()構成，礦產相當豐富和多變，含有大量$(#FFA500)$(l)銅礦$()和$(#666666)$(l)鐵礦$()，並夾雜石頭、泥土和礫石。$(br)許多地方都有此礦脈的蹤影，但在平原、莽原和森林更為常見。"
     },
     {
       "anchor": "cuprite",
