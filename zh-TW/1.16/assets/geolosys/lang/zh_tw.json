@@ -99,5 +99,5 @@
     "geolosys.pro_pick.depth.above": "深度：+%s公尺",
     "geolosys.pro_pick.depth.at": "深度： 0公尺",
     "itemGroup.geolosys.name": "§8地質系統§r",
-    "geolosys.download.error.string": "找不到也無法下載礦石配置文件 geolosys.json。\n你可以在 https://raw.githubusercontent.com/oitsjustjose/Geolosys/1.14.x/geolosys_ores.json 下載文件，並根據需要手動將其放入配置文件夾中(需要將其重命名為\"geolosys.json\")。"
+    "geolosys.download.error.string": "找不到也無法下載礦物設定檔案 「geolosys.json」。\n你可以在 https://raw.githubusercontent.com/oitsjustjose/Geolosys/1.14.x/geolosys_ores.json 下載檔案，並根據需要手動將其放入Config資料夾中(需要將其重命名為「geolosys.json」)。"
 }
