@@ -232,7 +232,7 @@
     "block.lordcraft.forgeb": "奧術冶煉爐",
     "block.lordcraft.forgeb.book_text": "奧術冶煉爐可以用來自動執行融合儀式配方。 它可以無影無踪地進行，但有一個缺點，就是它只有5個輸入槽。 這個缺點意味著它只能執行包含5個或更少獨特物品的配方。 虛空水晶中的能量越多，它的執行速度就越快。",
     "block.lordcraft.translocatorb": "方塊移位器",
-    "block.lordcraft.translocatorb.book_text": "This block can be used to swap the block above it with another block at the location stored within this Tile Entity when this is powered by redstone. The location can be set using a Translocation Marker.",
+    "block.lordcraft.translocatorb.book_text": "當此方塊由紅石提供能量時，可以用它上面的方塊與儲存在此「並排實體」中的另一個方塊進行交換。您可以使用「轉置標記」來設定位置。",
     "block.lordcraft.lordic_stoneb": "上主石",
     "block.lordcraft.lordic_stoneb.book_text": "This strange stone can be made using a Changing Plate on Stone. This is used to craft Lordic Runestones.",
     "block.lordcraft.player_interfaceb": "Player Void Interface",
