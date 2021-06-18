@@ -1,5 +1,5 @@
 {
-  "name": "藍石礦石",
+  "name": "藍石礦",
   "category": "natural_resources",
   "sortnum": 5,
   "icon": "indrev:nikolite_ore",
@@ -7,7 +7,7 @@
     {
       "type": "spotlight",
       "item": "indrev:nikolite_ore",
-      "text": "$(#008f8c)$(l)Nikolite ore$() is common and can be found from the layer 0 to 16.$(br)$(#008f8c)$(l)Nikolite$() is the main component used in $(l)INDREV$()'s machines, from basic to advanced."
+      "text": "$(#008f8c)$(l)藍石$()生成於y:0~16且頗為常見。$(br)$(#008f8c)$(l)藍石$()用於合成$(l)工業革命$()模組從基礎到進階的各類機器"
     }
   ]
 }
