@@ -7,7 +7,7 @@
     {
       "type": "spotlight",
       "item": "indrev:copper_ore",
-      "text": "$(#FFA500)$(l)Copper ore$() is common and can be found from the layer 0 to 64.$(br)$(#FFA500)$(l)Copper$() is heavily used in the crafting of machines."
+      "text": "$(#FFA500)$(l)銅礦$()生成於y:0~64格且頗為常見。$(br)合成機器時經常需要$(#FFA500)$(l)銅礦$()"
     }
   ]
 }
