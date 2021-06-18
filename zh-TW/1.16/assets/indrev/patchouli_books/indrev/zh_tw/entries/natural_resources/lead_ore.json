@@ -1,5 +1,5 @@
 {
-  "name": "鉛礦石",
+  "name": "鉛礦",
   "category": "natural_resources",
   "sortnum": 3,
   "icon": "indrev:lead_ore",
@@ -7,7 +7,7 @@
     {
       "type": "spotlight",
       "item": "indrev:lead_ore",
-      "text": "$(#575d61)$(l)Lead ore$() is uncommon and can be found from the layer 0 to 32.$(br)$(#575d61)$(l)Lead$() is used in the crafting of more advanced machines."
+      "text": "$(#575d61)$(l)鉛礦$()生成於y:0~32且較不常見。$(br)合成進階機器時常會使用$(#575d61)$(l)鉛礦$()"
     }
   ]
 }
