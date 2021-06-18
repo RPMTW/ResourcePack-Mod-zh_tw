@@ -16,8 +16,8 @@
     "autooredictconv.command.odc.dump": "正在列出所有物品標籤...",
     "autooredictconv.command.odc.find": "The tag §b{0}§r contains the items:",
     "autooredictconv.command.odc.list": "The configured conversions are:",
-    "autooredictconv.command.odc.list.tag": "§nTag Conversions§r",
-    "autooredictconv.command.odc.list.item": "§nItem Conversions§r",
+    "autooredictconv.command.odc.list.tag": "§n標籤轉換§r",
+    "autooredictconv.command.odc.list.item": "§n物品轉換§r",
     "autooredictconv.command.odc.add": "Added §6{0}§r as the default conversion for the §6{1}§r tag",
     "autooredictconv.command.odc.add.none": "§4The item has no tags (or all of its tags are blacklisted to prevent mass conversion). You may consider manually adding a direct conversion to the config file and running §6/odc reload§4.§r",
     "autooredictconv.command.odc.reload": "§aConversions reloaded!",
@@ -27,7 +27,7 @@
     "autooredictconv.command.odc.pause.unpause": "轉換未暫停。",
     "autooredictconv.converting": "轉換中！",
     "block.autooredictconv.converter": "自動轉換器",
-    "tooltip.autooredictconv.converter.0": "Converts items.",
+    "tooltip.autooredictconv.converter.0": "轉換物品。",
     "tooltip.autooredictconv.converter.1": "Pipe items into the top and out of the bottom, they will be converted within.",
     "tooltip.autooredictconv.converter.2": "Has no inventory, converts instantly."
 }
