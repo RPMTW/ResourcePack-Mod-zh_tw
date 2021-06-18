@@ -1,9 +1,9 @@
 {
-	"modmenu.descriptionTranslation.ce_foodstuffs": "An expansion onto the existing foodstuffs in Minecraft with intricate, well-made additions.\nIt includes an innovative sandwich system, the creation of cheese in cauldrons and brewing of tea in kettles.",
+	"modmenu.descriptionTranslation.ce_foodstuffs": "在 Minecraft 的現有食物中進行擴展，並進行了精細的補充。\n包括一個全新的三明治系統，在鍋中建立起司，並在水壺中沖泡茶葉。",
 	"block.ce_foodstuffs.lettuce": "萵苣",
-	"block.ce_foodstuffs.tomatoes": "Tomatoes",
+	"block.ce_foodstuffs.tomatoes": "蕃茄",
 	"block.ce_foodstuffs.cheese_wheel": "Cheese Wheel",
-	"block.ce_foodstuffs.milk_cauldron": "Milk Cauldron",
+	"block.ce_foodstuffs.milk_cauldron": "牛奶鍋",
 	"block.ce_foodstuffs.kettle": "Kettle",
 	"item.ce_foodstuffs.cheese": "乳酪",
 	"item.ce_foodstuffs.lettuce": "萵苣",
@@ -40,16 +40,16 @@
 	"tea_type.ce_foodstuffs.sour.normal": "酸",
 	"tea_type.ce_foodstuffs.sour.strong": "非常酸",
 	"tea_type.ce_foodstuffs.sour.weak": "略酸",
-	"tea_type.ce_foodstuffs.sweet.normal": "Sweet",
+	"tea_type.ce_foodstuffs.sweet.normal": "全糖",
 	"tea_type.ce_foodstuffs.sweet.strong": "真甜",
-	"tea_type.ce_foodstuffs.sweet.weak": "Slightly Sweet",
+	"tea_type.ce_foodstuffs.sweet.weak": "微糖",
 	"tea_type.ce_foodstuffs.umami.normal": "Umami",
 	"tea_type.ce_foodstuffs.umami.strong": "Very Umami",
 	"tea_type.ce_foodstuffs.umami.weak": "Slightly Umami",
 	"subtitles.ce_foodstuffs.block.kettle.brew": "Kettle whistles",
 	"subtitles.ce_foodstuffs.item.tea_bottle.fill": "Tea Bottle fills",
 	"stat.ce_foodstuffs.interact_with_kettle": "Interactions with Kettle",
-	"text.autoconfig.ce_foodstuffs.title": "Common Expansion: Foodstuffs Configuration",
+	"text.autoconfig.ce_foodstuffs.title": "一般擴充：食品配置",
 	"text.autoconfig.ce_foodstuffs.category.features": "特色功能",
-	"text.autoconfig.ce_foodstuffs.option.features.canDrinkMilkBucket": "Drinkable Milk Buckets"
+	"text.autoconfig.ce_foodstuffs.option.features.canDrinkMilkBucket": "可飲用牛奶桶"
 }
