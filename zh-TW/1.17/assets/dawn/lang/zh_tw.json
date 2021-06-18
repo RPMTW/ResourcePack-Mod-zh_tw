@@ -1,5 +1,5 @@
 {
-    "modmenu.descriptionTranslation.dawn": "API that facilitates the creation of features.\nAlso includes useful commands, entities and tools for mapmakers.",
+    "modmenu.descriptionTranslation.dawn": "用於創作不同功能的 API 。\n包括實用的指令、不同實體和地圖創作工具等等。",
     "itemGroup.dawn.creative_tools": "創造模式工具",
     "entity.dawn.custom_tnt": "自訂 TNT",
     "entity.dawn.flying_block": "飛行方塊",
@@ -23,7 +23,7 @@
     "commands.motion.add.success.multiple": "Added %s, %s, %s to the motion of %s entities",
     "commands.motion.set.success.single": "Set %s, %s, %s to the motion of %s",
     "commands.motion.set.success.multiple": "Set %s, %s, %s to the motion of %s entities",
-    "text.autoconfig.dawn.title": "Dawn API Configuration",
+    "text.autoconfig.dawn.title": "Dawn API 設定",
     "text.autoconfig.dawn.category.features": "特色功能",
     "text.autoconfig.dawn.category.debug": "除錯",
     "text.autoconfig.dawn.option.features.creativeToolsTab": "啟用創造模式工具頁面",
