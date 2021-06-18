@@ -71,14 +71,14 @@
     {
       "anchor": "limonite",
       "type": "spotlight",
-      "title": "褐鐵礦",
+      "title": "褐鐵礦脈",
       "item": "minecraft:iron_ore",
       "text": "主要由$(#666666)$(l)鐵礦$()構成，為第二貧乏和少量的鐵礦脈，仍夾雜大量石頭、泥土和礫石。$(br)此礦脈分布於各生態域，但更常出現在山地、平原和沙漠"
     },
     {
       "anchor": "hematite",
       "type": "spotlight",
-      "title": "赤鐵礦",
+      "title": "赤鐵礦脈",
       "item": "minecraft:iron_ore",
       "text": "主要由$(#666666)$(l)鐵礦$()構成，為頗具規模的鐵礦脈，擁有更多的鐵礦。仍有石頭、泥土和一些礫石。$(br)許多地方都有此礦脈的蹤影，但在針葉林和惡地更為常見"
     },
@@ -106,7 +106,7 @@
     {
       "anchor": "cassiterite",
       "type": "spotlight",
-      "title": "錫石礦",
+      "title": "錫石礦脈",
       "item": "indrev:tin_ore",
       "text": "主要由$(#999999)$(l)錫礦$()構成，為唯一只含錫礦的礦脈。礦產不太豐富和多變。$(br)許多地方都有此礦脈的蹤影，但在平原、莽原和森林更為常見。"
     },
@@ -140,7 +140,7 @@
     {
       "anchor": "quartz",
       "type": "spotlight",
-      "title": "石英",
+      "title": "石英礦脈",
       "item": "minecraft:nether_quartz_ore",
       "text": "$(#ff0000)$(l)地域$()$(br)頗具規模且豐富的$(#FFD700)$(l)石英$()礦脈，夾雜大量地域岩、靈魂沙、礫石。"
     }
