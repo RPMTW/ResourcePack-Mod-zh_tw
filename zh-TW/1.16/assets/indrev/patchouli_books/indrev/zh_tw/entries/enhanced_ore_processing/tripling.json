@@ -6,11 +6,11 @@
   "pages": [
     {
       "type": "text",
-      "text": "礦物處理的下一步是三倍礦物。你需要 $(l:machines/basic_machines#smelter)$(t:Go to Industrial Smelter)$(l)$(o)工業熔爐$(), $(l:machines/basic_machines#condenser)$(t:Go to Condenser)$(l)$(o)聚合機$()  和 $(l:machines/basic_machines#pulverizer)$(t:Go to Pulverizer)$(l)$(o)粉碎機$()"
+      "text": "礦物處理的下一步是三倍礦物。你需要 $(l:machines/basic_machines#smelter)$(t:Go to Industrial Smelter)$(l)$(o)工業熔爐$()、$(l:machines/basic_machines#condenser)$(t:Go to Condenser)$(l)$(o)聚合機$()和$(l:machines/basic_machines#pulverizer)$(t:Go to Pulverizer)$(l)$(o)粉碎機$()"
     },
     {
       "type": "text",
-      "text": "$(l)1)$() 把礦石放入工業熔爐中融熔成液體。$(br)$(l)2)$() 再將其倒入聚合機中結晶。$(br)$(l)3)$() 最後，將碎塊磨成粉 $(br)$(l)4)$()，燒製成錠。$(br2) 完成! 一礦三錠!"
+      "text": "$(l)1)$()把礦石放入工業熔爐中融熔成液體。$(br)$(l)2)$()再將其倒入聚合機中結晶。$(br)$(l)3)$() 最後，將碎塊磨成粉$(br)$(l)4)$()，燒製成錠。$(br2)完成! 一礦三錠!"
     }
   ]
 }
