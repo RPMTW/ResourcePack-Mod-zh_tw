@@ -508,7 +508,7 @@
     "aspect.integrateddynamics.write.double.effect.particle.minecraft_falling_nectar.info": "以特定的速度發出下落花粉粒子密度",
     "aspect.integrateddynamics.read.boolean.block.block": "有方塊",
     "aspect.integrateddynamics.read.boolean.block.block.info": "目標位置是否有方塊",
-    "aspect.integrateddynamics.read.string.block.dimension": "Dimension",
+    "aspect.integrateddynamics.read.string.block.dimension": "維度",
     "aspect.integrateddynamics.read.string.block.dimension.info": "目標世界維度 ID",
     "aspect.integrateddynamics.read.integer.block.posx": "X 座標",
     "aspect.integrateddynamics.read.integer.block.posx.info": "目標的 X 坐標",
