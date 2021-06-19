@@ -1,16 +1,16 @@
 {
-  "name": "How does it work?",
+  "name": "如何運作？",
   "category": "temperature",
   "sortnum": 0,
   "icon": "indrev:fan",
   "pages": [
     {
       "type": "text",
-      "text": "$(l)INDREV's$() scientists have done a good job at making machines smart enough not to explode and to benefit from temperature. Every machine has an optimal temperature which will never exceed."
+      "text": "$(l)工業革命$()模組的科學家們把機器設計得很聰明，在得到暖機好處的同時不讓機器爆炸。每台機器都有最佳效率的溫度硬上限"
     },
     {
       "type": "text",
-      "text": "In order for the machine to stay on its optimal temperature, it needs to cool down often. While it's cooling down, it will $(l)not$() have the efficiency boost.$(br)Check out $(l:temperature/coolers_and_fans)$(t:Go to Keeping it Cool!)Keeping it cool!$() to have 100% efficiency all the time!"
+      "text": "為了讓機器保持在最佳溫度下，它需要經常冷卻。 當它在冷卻時，它$(l)不會$()有暖機所帶來的效率提升。.$(br)查閱$(l:temperature/coolers_and_fans)$(t:Go to Keeping it Cool!)別過熱!$()以使機器以100%的效率運行!"
     }
   ]
 }
