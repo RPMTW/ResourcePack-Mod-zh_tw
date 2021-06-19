@@ -7,7 +7,7 @@
     {
       "type": "crafting",
       "recipe": "indrev:shaped/energy_reader",
-      "text": "Tells you the current stored energy in machines and, in some machines, also tells the energy consumption per tick."
+      "text": "提供你目前在機器中儲存能量的資訊，某些機器也會顯示能量消耗速度。"
     }
   ]
 }
