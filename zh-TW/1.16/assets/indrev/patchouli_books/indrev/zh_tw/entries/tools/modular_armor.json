@@ -1,16 +1,16 @@
 {
-  "name": "Modular Armor",
+  "name": "模組化裝甲",
   "category": "tools",
   "sortnum": 4,
   "icon": "indrev:modular_armor_helmet",
   "pages": [
     {
       "type": "text",
-      "text": "The Modular Armor is, on it's own, not much, but when you install modules, it can become very powerful!$(br2)Color modules do not have recipes, you must find them in dungeons."
+      "text": "模組化裝甲它本身什麼都不是，但當你將其安裝上模組，就會變得非常強大！$(br2)顏色模組沒有合成配方，你必須在地牢裡尋獲。"
     },
     {
       "type": "text",
-      "text": "Module levels can be configured any way you want, go into the $(l)Controls$() menu and add a keybind to \"Modular item configuration.\""
+      "text": "模組等級可以以任何您想要的方式配置，參見 $(l)按鍵設定$()以新增「模組化物品配置」的快捷鍵。"
     },
     {
       "type": "crafting",
@@ -25,7 +25,7 @@
     {
       "type": "crafting",
       "recipe": "indrev:shaped/modular_workbench",
-      "text": "The modular workbench is used to install modules onto Modular Armor parts. Notice that installing modules cost time and some energy!"
+      "text": "模組工作台用於將模組安裝到模組化裝甲上。安裝模組需要時間和一些能量！"
     },
     {
       "type": "crafting",
