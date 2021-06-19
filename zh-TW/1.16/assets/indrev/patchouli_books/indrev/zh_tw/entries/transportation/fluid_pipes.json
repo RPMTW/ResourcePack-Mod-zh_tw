@@ -6,7 +6,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "Fluid pipes can be used to transfer fluids between tanks far apart.$(br)Check the tooltips to see the amount of fluid that can be transferred.$(br)Pipes only transfer every second rather than every tick.$(br2)Servos are required, read the $(l:transportation/servos)$(t:Go to Servos)Servos$() chapter."
+      "text": "流體管可用於將液體輸送到相距甚遠的儲罐之間。$(br)查看物品敘述以得知傳輸率。$(br)流體管運輸液體的間隔為秒而非tick。$(br2)輸送需搭配伺服，詳見$(l:transportation/servos)$(t:Go to Servos)伺服$()。"
     },
     {
       "type": "crafting",
