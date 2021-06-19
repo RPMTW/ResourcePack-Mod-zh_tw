@@ -6,22 +6,22 @@
   "pages": [
     {
       "type": "text",
-      "text": "These upgrades will improve the machine's input and output capability as well as other aspects.$(br2)Right clicking on a machine below the upgrade's tier will upgrade it."
+      "text": "這些升級將提高機器的輸入、輸出及其他方面的能力。$(br2)右擊低階機器以升級它。"
     },
     {
       "type": "crafting",
       "recipe": "indrev:shaped/tier_upgrade_mk2",
-      "text": "Upgrades MK1 machines to MK2."
+      "text": "升級MK1機器至MK2。"
     },
     {
       "type": "crafting",
       "recipe": "indrev:shaped/tier_upgrade_mk3",
-      "text": "Upgrades MK2 machines to MK3."
+      "text": "升級MK2機器至MK3。"
     },
     {
       "type": "crafting",
       "recipe": "indrev:shaped/tier_upgrade_mk4",
-      "text": "Upgrades MK3 machines to MK4."
+      "text": "升級MK3機器至MK4。"
     }
   ]
 }
