@@ -1,31 +1,31 @@
 {
-  "name": "Servos",
+  "name": "伺服",
   "category": "transportation",
   "sortnum": 3,
   "icon": "indrev:servo_retriever",
   "pages": [
     {
       "type": "text",
-      "text": "Item and fluid pipes require servos to function. There are two types of servo: Output and Retriever.$(br)Click on the pipe connected to your container to attach a servo. Use a wrench to remove it.$(br)$(l)Important:$() The Output and Retriever servos ARE INDEPENDENT. You do not need both for your pipes to work. They have different purposes."
+      "text": "物品和流體管需要伺服器才能運作。伺服有兩種類型：驅動和接收。$(br)右鍵連接容器的管道以裝上伺服。或使用扳手將其移除。$(br)$(l)小提醒:$()驅動和接收伺服是獨立的。只要一個即可。兩者用法不同。"
     },
     {
       "type": "text",
-      "text": "For example, if you have a single inventory that needs to output to multiple inventories you just need a single Output Servo on the dispensing end.$(br2)If you have multiple inventories that needs to output to a single inventory you just need a single Retriever Servo on the receiving end.$(br2)$(l)IMPORTANT:$() make sure the machine is configured. Read $(l:tools/wrench)$(t:Go to Wrench!)the Wrench chapter!$()"
+      "text": "例如，如果您有一個容器的東西要輸出到多個容器，則只需在輸出端裝上驅動伺服。$(br2)如果您有多個容器要輸出到單個容器，則只需要輸入端裝上接收伺服。$(br2)$(l)小提醒:$()機器要先正確配置好。詳見$(l:tools/wrench)$(t:Go to Wrench!)扳手"
     },
     {
       "type": "text",
-      "title": "Modes",
-      "text": "Servos have multiple modes to define priorities.$(br)Click on the servo to change it.$(br)$(l)Nearest first:$() the servo will look for the closest container.$(br)$(l)Furthest first:$() the servo will look for the furthest container.$(br)$(l)Random:$() the servo will chose a random container.$(br)$(l)Round Robin$() the servo will look for the container with the least amount of the transferred fluid/item."
+      "title": "模式",
+      "text": "伺服具有多個模式來決定優先順序。$(br)右擊伺服以更改。$(br)$(l)最近優先:$()伺服會搜尋最近的容器。$(br)$(l)最遠優先:$()伺服會搜尋最遠的容器。$(br)$(l)隨機:$()伺服會隨機選擇容器。$(br)$(l)輪詢調度:$()伺服會搜尋最少液體/物品的容器。"
     },
     {
       "type": "crafting",
       "recipe": "indrev:shaped/servo_output",
-      "text": "The Output Servo will push items/fluids to nearby containers UNLESS they are also marked as output."
+      "text": "驅動伺服會把物品/液體輸出到連接的容器，除了其它也裝了驅動伺服的容器"
     },
     {
       "type": "crafting",
       "recipe": "indrev:shaped/servo_retriever",
-      "text": "The Retriever Servo will pull items/fluids from nearby UNLESS they are also marked as retriever."
+      "text": "接收伺服會從連接的容器中抽取內容物，除了其它也裝了接收伺服的容器"
     }
   ]
 }
