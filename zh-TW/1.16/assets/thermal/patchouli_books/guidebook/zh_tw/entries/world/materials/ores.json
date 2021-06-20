@@ -7,18 +7,18 @@
         {
             "type": "text",
             "title": "免責聲明",
-            "text": "The Y values that are listed for ore gen represent the base state of the mod. If you are playing a modpack, using Optifine, or have changed ore gen yourself, these levels may be different in your world."
+            "text": "在此列出模組礦石的基本出現高度。如果你正在玩模組包、使用Optifine或者自己更改了礦石參數，這些高度可能會在你的世界中有所不同。"
         },
         {
             "type": "2-2_item_page",
             "A.title": "硝石",
             "A.item1": "thermal:niter_ore",
             "A.item2": "thermal:niter",
-            "A.text": "A soft mineral used as a source of nitrogen and potassium in fertilizer. Spawns at any Y level.",
+            "A.text": "一種較軟的礦物，用於肥料中氮和鉀的來源。在任何高度生成。",
             "B.title": "硫磺",
             "B.item1": "thermal:sulfur_ore",
             "B.item2": "thermal:sulfur",
-            "B.text": "A reactive mineral used to cure rubber and make gunpowder. Spawns at any Y level."
+            "B.text": "一種用於合成橡膠和製造火藥的活性礦物。在任何高度生成。"
         },
         {
             "flag": "mod:thermal_expansion",
@@ -26,7 +26,7 @@
             "A.title": "硃砂",
             "A.item1": "thermal:cinnabar_ore",
             "A.item2": "thermal:cinnabar",
-            "A.text": "A scarlet mineral used to enhance ore yields. Spawns at any Y level.",
+            "A.text": "一種用於提高礦石產量的紅色礦物。在任何高度生成。",
             "B.title": "瀝青沙",
             "B.item1": "thermal:oil_sand",
             "B.item2": "thermal:bitumen",
