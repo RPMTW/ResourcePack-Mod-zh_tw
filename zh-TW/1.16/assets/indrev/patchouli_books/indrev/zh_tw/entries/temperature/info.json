@@ -1,0 +1,16 @@
+{
+  "name": "如何運作？",
+  "category": "temperature",
+  "sortnum": 0,
+  "icon": "indrev:fan",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(l)工業革命$()模組的科學家們把機器設計得很聰明，在得到暖機好處的同時不讓機器爆炸。每台機器都有最佳效率的溫度硬上限"
+    },
+    {
+      "type": "text",
+      "text": "為了讓機器保持在最佳溫度下，它需要經常冷卻。 當它在冷卻時，它$(l)不會$()有暖機所帶來的效率提升。.$(br)查閱$(l:temperature/coolers_and_fans)$(t:Go to Keeping it Cool!)別過熱!$()以使機器以100%的效率運行!"
+    }
+  ]
+}

@@ -40,7 +40,7 @@
     "text.autoconfig.antiqueatlas.option.autoDeathMarker": "死亡標記",
     "text.autoconfig.antiqueatlas.option.autoVillageMarkers": "村莊標記",
     "text.autoconfig.antiqueatlas.option.autoNetherPortalMarkers": "地獄傳送門標記",
-    "text.autoconfig.antiqueatlas.option.itemNeeded": "Atlas required for usage",
+    "text.autoconfig.antiqueatlas.option.itemNeeded": "需要使用地圖集",
     "text.autoconfig.antiqueatlas.option.doScaleMarkers": "比例標記",
     "text.autoconfig.antiqueatlas.option.defaultScale": "預設縮放等級",
     "text.autoconfig.antiqueatlas.option.minScale": "最小縮放等級",
@@ -50,7 +50,7 @@
     "text.autoconfig.antiqueatlas.option.forceChunkLoading": "強制載入區塊",
     "text.autoconfig.antiqueatlas.option.newScanInterval": "掃描間隔",
     "text.autoconfig.antiqueatlas.option.doRescan": "重新掃描",
-    "text.autoconfig.antiqueatlas.option.rescanRate": "Rescan rate",
+    "text.autoconfig.antiqueatlas.option.rescanRate": "重新掃描速率",
     "text.autoconfig.antiqueatlas.option.markerLimit": "標記限制",
     "text.autoconfig.antiqueatlas.option.doScanPonds": "掃描池塘",
     "text.autoconfig.antiqueatlas.option.doScanRavines": "掃描峽谷",
@@ -67,6 +67,6 @@
     "text.autoconfig.antiqueatlas.option.playerIconHeight": "玩家圖示高度",
     "text.autoconfig.antiqueatlas.option.borderX": "水平邊框寬度",
     "text.autoconfig.antiqueatlas.option.borderY": "垂直邊框寬度",
-    "text.autoconfig.antiqueatlas.option.requiresHold": "Atlas holding required",
+    "text.autoconfig.antiqueatlas.option.requiresHold": "需要持有 Atlas",
     "text.autoconfig.antiqueatlas.option.enabled": "已啟用"
 }

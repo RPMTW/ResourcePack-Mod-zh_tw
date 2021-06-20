@@ -1,0 +1,17 @@
+{
+  "name": "扳手",
+  "category": "tools",
+  "sortnum": 1,
+  "icon": "indrev:wrench",
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "indrev:shaped/wrench",
+      "text": "扳手有兩種模式：轉向和配置機器。「Shift+右鍵」 來切換模式。"
+    },
+    {
+      "type": "text",
+      "text": "$(l)轉向:$()在此模式下，您可以旋轉機器，或以Shift+右鍵拆下機器。$(br)$(l)配置機器:$()在此模式下，您可以配置輸出及輸入口。 新放置的機器預設以左側為輸入，右側為輸出。您可以隨時更改。"
+    }
+  ]
+}

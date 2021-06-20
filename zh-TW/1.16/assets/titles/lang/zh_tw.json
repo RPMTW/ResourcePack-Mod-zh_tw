@@ -1,11 +1,11 @@
 {
     "_Chat": "",
-    "chat.advancement.append": " and earned the title [%s]",
+    "chat.advancement.append": " 並贏得了 [%s]的稱號",
     "chat.scroll.success": "The scroll reveals a the new title [%s]",
     "chat.scroll.fail": "The scroll reveals no new titles",
     "_Commands": "",
     "commands.titles.usage": "/titles <add|remove> <player> <titleKey>",
-    "commands.titles.add": "Added title [%s] to player %s.",
+    "commands.titles.add": "新增標題 [%s] 給玩家 %s。",
     "commands.titles.remove": "Removed title [%s] from player %s.",
     "_Items": "",
     "itemGroup.titles": "標題",

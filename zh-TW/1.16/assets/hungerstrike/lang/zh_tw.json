@@ -1,12 +1,12 @@
 {
-    "commands.hungerstrike.add.success": "%s is now on hunger strike",
-    "commands.hungerstrike.list": "There are %d (out of %d seen) players on hunger strike:",
-    "commands.hungerstrike.list.none": "No players are on hunger strike",
-    "commands.hungerstrike.mode.none": "Hunger strike is currently disabled for all players",
-    "commands.hungerstrike.mode.list": "Hunger strike is currently enabled for listed players",
-    "commands.hungerstrike.mode.all": "Hunger strike is currently enabled for all players",
-    "commands.hungerstrike.setmode.none": "Hunger strike disabled for all players",
-    "commands.hungerstrike.setmode.list": "Hunger strike enabled for listed players",
-    "commands.hungerstrike.setmode.all": "Hunger strike enabled for all players",
-    "commands.hungerstrike.remove.success": "%s has returned to default hunger"
+    "commands.hungerstrike.add.success": "%s 現在正在飢餓值關閉",
+    "commands.hungerstrike.list": "共有%d位玩家飢餓值關閉(全體玩家共%d位)：",
+    "commands.hungerstrike.list.none": "沒有玩家飢餓值關閉",
+    "commands.hungerstrike.mode.none": "所有玩家現在都禁止飢餓值關閉",
+    "commands.hungerstrike.mode.list": "在列玩家現在都啟用飢餓值關閉",
+    "commands.hungerstrike.mode.all": "所有玩家現在都啟用飢餓值關閉",
+    "commands.hungerstrike.setmode.none": "所有玩家禁止飢餓值關閉",
+    "commands.hungerstrike.setmode.list": "在列玩家啟用飢餓值關閉",
+    "commands.hungerstrike.setmode.all": "所有玩家啟用飢餓值關閉",
+    "commands.hungerstrike.remove.success": "%s 已恢復默認飢餓值"
 }

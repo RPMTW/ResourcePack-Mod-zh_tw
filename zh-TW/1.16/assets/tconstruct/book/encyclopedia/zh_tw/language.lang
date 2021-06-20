@@ -1,0 +1,27 @@
+部分
+intro=簡介
+tier_one_materials=第一階段材料
+tier_two_materials=第二階段材料
+tier_three_materials=第三階段材料
+tier_four_materials=第四階段材料
+
+modifier.effect=效果:
+tool.properties=屬性:
+
+material.craft_partbuilder=可於部件加工台被製作
+material.craft_casting=可被製造於
+
+tier_one_materials.subtext=These materials are easy to find, and can be placed in the part builder to create tool parts
+material.tconstruct.wood.book=如果土撥鼠可以夾住木頭，那牠可以夾多少木頭？
+material.tconstruct.stone.book=堅若磐石
+material.tconstruct.flint.book=這將點燃修補匠心中的火焰！
+material.tconstruct.bone.book=吾為所持劍之骨
+material.tconstruct.necrotic_bone.book=你對我有意見嗎？
+
+tier_two_materials.subtext=These materials require melting and casting to create, and may be a bit more rare
+material.tconstruct.slimewood.book=將史萊姆黏液澆鑄在木製部件上，可製作出耐用又可再生的材料！
+
+tier_three_materials.subtext=These materials require alloying, either through an alloyer or a smeltery
+material.tconstruct.nahuatl.book=一種古老的材料，由熔化的黑曜石鑄在木製零件上製成
+
+tier_four_materials.subtext=These materials cannot be found without traveling to the Nether

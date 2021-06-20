@@ -1,0 +1,27 @@
+{
+  "name": "模組化核心",
+  "category": "tools",
+  "sortnum": 6,
+  "icon": "indrev:modular_core",
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "indrev:shaped/modular_core",
+      "text": "模組化核心是每個模組化工具的基底。但在其可用之前必須先充能。您至少需要一個鐳射發射器、一個密封艙和大量的能量存儲（1億LF）以充能它，。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "indrev:shaped/capsule",
+      "text": "模組化核心在充能過程中須裝在密封艙內。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "indrev:shaped/laser",
+      "text": "鐳射發射器應放置於面對密封艙與 $(l)剛好三格遠$()的距離。它們能存儲最多2500萬LF，須以紅石信號啟動。"
+    },
+    {
+      "type": "text",
+      "text": "這個過程需要時間，每多一個鐳射發射器都會加速過程。 以下為須注意的細節，以免發生問題:$(br) -將雷射發射器射向空的密封艙或密封艙以外的其他東西會導致爆炸。$(br) -如果雷射發射器在處理過程中斷電，則必須從頭來過。$(br) -在從密封艙取出已充能的核心之前，請務必先關閉雷射發射器。"
+    }
+  ]
+}
