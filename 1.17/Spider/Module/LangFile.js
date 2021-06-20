@@ -43,7 +43,9 @@ async function LangFile(ModID, slug, id, name) {
         before = parse(fs.readFileSync(`${process.cwd()}/../assets/${ModID}/lang/zh_tw.json`).toString(), null, true);
     }
     let data = stringify(Object.assign({}, before, nwe), null, 4)
-
+    if (fs.existsSync(`${process.cwd()}/../jar/${slug}/assets/${ModID}/lang/zh_cn.json`)) {
+        console.log(`${name} (${id}-${ModID}) 模組存在有簡體中文翻譯。`)
+    }
     fs.writeFile(`${process.cwd()}/../assets/${ModID}/lang/zh_tw.json`, data, function (error) {
         if (error) {
             console.log(`解析語系Json檔案時發生錯誤。\n錯誤模組檔案: ${name} (${id}-${ModID})\n錯誤原因: ${error}`);
