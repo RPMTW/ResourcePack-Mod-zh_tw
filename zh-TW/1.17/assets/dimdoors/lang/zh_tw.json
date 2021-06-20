@@ -249,7 +249,7 @@
     "text.autoconfig.dimdoors.option.player.fray.grayScreenFray.@Tooltip": "標題",
     "text.autoconfig.dimdoors.option.player.fray.unravelledStatueFray": "Unravelled Statue Fray",
     "text.autoconfig.dimdoors.option.player.fray.unravelledStatueFray.@Tooltip": "標題",
-    "text.autoconfig.dimdoors.category.graphics": "Graphics Settings",
+    "text.autoconfig.dimdoors.category.graphics": "圖像設置",
     "text.autoconfig.dimdoors.option.graphics.highlightRiftCoreFor": "Time to Highlight Rift Core",
     "text.autoconfig.dimdoors.option.graphics.highlightRiftCoreFor.@Tooltip": "How long, in milliseconds, the rift's core (tesseract animation) should be shown for when attempting to place a door near a large rift but not directly on it. Set to -1 to disable.",
     "text.autoconfig.dimdoors.option.graphics.showRiftCore": "Always Show Rift Cores",
