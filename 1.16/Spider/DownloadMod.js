@@ -26,6 +26,9 @@ require('readline').createInterface({
 function Run() {
     CurseForge.getModFiles(Number(ID)).then((files) => {
         files = files.reverse();
+        files.sort(function (a, b) {
+            return Date.parse(b.timestamp) - Date.parse(a.timestamp);
+          });
         for (let i = 0; i < files.length; i++) {
             let data = files[i].minecraft_versions;
             if (data.includes(config.ver) || data.includes("1.16.4") || data.includes("1.16.3") || data.includes("1.16.2") || data.includes("1.16.1") || data.includes("1.16")) {
