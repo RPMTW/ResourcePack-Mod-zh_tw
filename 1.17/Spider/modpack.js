@@ -34,6 +34,10 @@ for (let k = 0; k < 1; k++) {
             let slug, fileID, fileName;
             CurseForge.getModFiles(ModList[i].projectID).then((files) => {
                 for (let i = 0; i < files.length; i++) {
+                    files = files.reverse();
+                    files.sort(function (a, b) {
+                        return Date.parse(b.timestamp) - Date.parse(a.timestamp);
+                      });
                     let data = files[i].minecraft_versions;
                     if (data.includes(config.ver)) {
                         fileID = String(files[i].id);
