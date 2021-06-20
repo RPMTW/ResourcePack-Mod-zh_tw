@@ -1,15 +1,15 @@
 {
-    "item.majobroom.broom_item": "Majo's Broom",
-    "item.majobroom.majo_hat": "Majo's Hat",
-    "item.majobroom.wand_item": "Majo's Wand",
-    "item.majobroom.majo_cloth": "Majo's Cloth",
-    "itemGroup.majo_group": "Majo's Broom",
-    "message.majobroom.position": "position: %d, %d",
-    "key.category.majobroom": "Majo's Broom",
-    "key.down": "下",
-    "key.up": "上",
-    "message.majobroom.levelnotenough": "Experience Level Not Enough!",
-    "message.majobroom.showlevel": "Current Level :%d",
-    "advancements.majobroom.root.title": "Magical World",
-    "advancements.majobroom.root.description": "Make a broom"
+    "item.majobroom.broom_item": "魔女的掃帚",
+    "item.majobroom.majo_hat": "魔女的帽子",
+    "item.majobroom.wand_item": "魔杖",
+    "item.majobroom.majo_cloth": "魔女的長袍",
+    "itemGroup.majo_group": "魔女的掃帚",
+    "message.majobroom.position": "位置: %d，%d",
+    "key.category.majobroom": "魔女的掃帚",
+    "key.down": "下降",
+    "key.up": "上升",
+    "message.majobroom.levelnotenough": "等級不足，無法騎乘掃帚",
+    "message.majobroom.showlevel": "目前等級 :%d",
+    "advancements.majobroom.root.title": "魔法的世界",
+    "advancements.majobroom.root.description": "製作一把掃帚"
 }
