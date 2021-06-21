@@ -1,4 +1,4 @@
 挖掘機
 比矮人更好
-<&excavator>斗輪式挖掘機可謂是現代機械的巔峰之作。 它能夠將正常挖礦採集不到的<link;minerals;礦物>從礦脈中挖掘出來。 代價是，斗輪式挖掘機的結構及其複雜，並且需要消耗 <config;i;machines.excavator.consumption>Flux/刻 來運作。
-<&wheel><&full>結構由兩部分組成：第一頁中的引擎和第二頁展示的斗輪，它正好能夠嵌入引擎的“夾架”位置。 能量輸入端在機器的側面，後面加入了紅石控制面板以及物品輸出口。<br>當挖掘機開採礦物時，礦脈的產出會緩慢減小，不過一個礦脈能夠提供 <config;i;machines.excavator.yield> 個礦石。
+<&excavator>斗輪式挖掘機可謂是現代機械的巔峰之作。 它能夠將正常挖礦採集不到的<link;minerals;礦物>從礦脈中挖掘出來。 代價是，斗輪式挖掘機的結構及其複雜，並且需要消耗 <config;i;machines.excavator.consumption>Flux/刻 來運作。 它能夠將正常挖礦採集不到的<link;minerals;礦物>從礦脈中挖掘出來。 代價是，斗輪式挖掘機的結構及其複雜，並且需要消耗 <config;i;machines.excavator.consumption>Flux/刻 來運作。
+<&wheel><&full>結構由兩部分組成：第一頁中的引擎和第二頁展示的斗輪，它正好能夠嵌入引擎的“夾架”位置。 <&wheel><&full>結構由兩部分組成：第一頁中的引擎和第二頁展示的斗輪，它正好能夠嵌入引擎的“夾架”位置。 能量輸入端在機器的側面，後面加入了紅石控制面板以及物品輸出口。<br>當挖掘機開採礦物時，礦脈的產出會緩慢減小，不過一個礦脈能夠提供 <config;i;machines.excavator.yield> 個礦石。

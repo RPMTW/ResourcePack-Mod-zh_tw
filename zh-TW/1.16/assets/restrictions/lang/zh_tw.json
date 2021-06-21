@@ -1,14 +1,14 @@
 {
-    "block.restrictions.pusher": "Pusher",
-    "block.restrictions.attractor": "Attractor",
-    "block.restrictions.oneway": "One Way",
-    "block.restrictions.oneway_wall": "One Way Wall",
-    "item.restrictions.glassboots": "Glass Boots",
+    "block.restrictions.pusher": "推離方塊",
+    "block.restrictions.attractor": "吸引方塊",
+    "block.restrictions.oneway": "單向方塊",
+    "block.restrictions.oneway_wall": "單向牆",
+    "item.restrictions.glassboots": "玻璃靴子",
     "itemGroup.restrictions": "建築工人限制",
-    "message.restrictions.shiftmessage": "<Press Shift>",
-    "message.restrictions.glassboots.header": "If you were these boots the Attractor, Pusher and One Way will have no effect on you",
-    "message.restrictions.attractor.header": "This block attracts entities, items, mobs, players, ... from a distance equal to the redstone signal strength it receives",
-    "message.restrictions.pusher.header": "This block pushes entities, items, mobs, players, ... from a distance equal to the redstone signal strength it receives",
-    "message.restrictions.oneway.header": "This forces entities, items, mobs, players, ... to move in a certain direction",
-    "message.restrictions.oneway_wall.header": "This block only allows entities, items, mobs, players, ... to move in a certain direction"
+    "message.restrictions.shiftmessage": "<按Shift>",
+    "message.restrictions.glassboots.header": "如果你穿了這雙靴子，吸引方塊、推離方塊和單向方塊對你都沒有影響",
+    "message.restrictions.attractor.header": "這個方塊吸引了實體，物品，生物，玩家... 距離等於它接收到的紅石信號強度",
+    "message.restrictions.pusher.header": "這個方塊推離了實體，物品，生物，玩家... 距離等於它接收到的紅石信號強度",
+    "message.restrictions.oneway.header": "這股力量迫使實體，物品，生物，玩家...沿某個方向移動",
+    "message.restrictions.oneway_wall.header": "這方塊只允許實體，物品，生物，玩家...沿某個方向移動"
 }

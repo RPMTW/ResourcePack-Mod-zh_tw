@@ -2,8 +2,8 @@
 530紡織物
 <&items>工業大麻是一種備受矚目的作物！ 不僅其種子可以用於加工，<link;refinery;生物柴油;start>，工業大麻纖維對於製作堅韌布料也至關重要。
 種子可以通過清理草叢獲得。<np>
-<&fabric_recipe>堅韌布料是一種使用大麻纖維製作的極富彈性的材料。 它被廣泛用於<link;generator;改良風車;sail_recipe>以及<link;balloon;氣球;start>和<link;this;氣墊;cushion_recipe>的製造。<np>
-<&cushion_recipe>氣墊是由堅韌布料充氣製成的簡單方塊。 它們能夠吸收撞擊，並在著陸時防止墜落造成的傷害，但是，與黏液塊不同，它們不會把你彈回來。<np>
+<&fabric_recipe>堅韌布料是一種使用大麻纖維製作的極富彈性的材料。 它被廣泛用於<link;generator;改良風車;sail_recipe>以及<link;balloon;氣球;start>和<link;this;氣墊;cushion_recipe>的製造。<np> 它被廣泛用於<link;generator;改良風車;sail_recipe>以及<link;balloon;氣球;start>和<link;this;氣墊;cushion_recipe>的製造。<np>
+<&cushion_recipe>氣墊是由堅韌布料充氣製成的簡單方塊。 它們能夠吸收撞擊，並在著陸時防止墜落造成的傷害，但是，與黏液塊不同，它們不會把你彈回來。<np> 它們能夠吸收撞擊，並在著陸時防止墜落造成的傷害，但是，與黏液塊不同，它們不會把你彈回來。<np>
 <&curtain_recipe>條形窗簾是安裝在門框或其他開口上用來阻擋視線的織物。
 當實體通過它們時，它們將發出弱紅石信號。 用工程師螺絲起子右鍵點擊它們，就能變更為發出強紅石信號。
 它們可以像皮革護甲一樣被染色。

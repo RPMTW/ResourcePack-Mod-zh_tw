@@ -4,10 +4,10 @@
     "text.packingtape.tape.requires_paper": "需要紙才能工作！",
     "text.packingtape.packaged.cant_place": "無法在這裡解開包裝！",
     "text.packingtape.packaged.contains": "捕獲: %s",
-    "text.packingtape.packaged.missing_data": "Missing data: %s",
-    "text.packingtape.packaged.no_nbt": "No nbt!",
-    "text.packingtape.packaged.no_tag": "No tag!",
-    "text.packingtape.packaged.no_block": "No block info!",
-    "text.packingtape.packaged.unknown_block": "Unknown block:",
-    "text.packingtape.packaged.no_item": "Can't find item for:"
+    "text.packingtape.packaged.missing_data": "缺失資料： %s",
+    "text.packingtape.packaged.no_nbt": "沒有NBT！",
+    "text.packingtape.packaged.no_tag": "沒有標籤！",
+    "text.packingtape.packaged.no_block": "沒有方塊資訊！",
+    "text.packingtape.packaged.unknown_block": "未知方塊：",
+    "text.packingtape.packaged.no_item": "找不到項目："
 }

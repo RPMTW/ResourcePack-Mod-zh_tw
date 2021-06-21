@@ -1,8 +1,8 @@
 {
-  "item.hotpocket.basic_furnace": "Pocket Furnace",
-  "item.hotpocket.furnace.cooking": "Cooking: %s",
-  "item.hotpocket.furnace.output": "Ready for Pickup: %dx %s",
-  "item.hotpocket.furnace.cookingtime": "Cooking Time Remaining: %d",
-  "item.hotpocket.furnace.fueltime": "Fuel Time Remaining: %d",
-  "item.hotpocket.furnace.nextFuel": "Next Fuel Item: %d"
+  "item.hotpocket.basic_furnace": "口袋熔爐",
+  "item.hotpocket.furnace.cooking": "燃燒： %s",
+  "item.hotpocket.furnace.output": "準備提取： %dx %s",
+  "item.hotpocket.furnace.cookingtime": "剩餘燃燒時間： %d",
+  "item.hotpocket.furnace.fueltime": "剩餘燃料時間： %d",
+  "item.hotpocket.furnace.nextFuel": "下一個燃料物品： %d"
 }

@@ -1,0 +1,17 @@
+{
+  "name": "放牧機",
+  "category": "machines",
+  "sortnum": 6,
+  "icon": "indrev:rancher_mk1",
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "indrev:shaped/rancher_mk1",
+      "text": "$(l)放牧機$()用於自動牧場，且可使用升級組件強化。$(br)但需要指定的物品才能運作:(設置時將其放於2X2的空間中)"
+    },
+    {
+      "type": "text",
+      "text": "$(l)劍:$() 若放置於機器中，將用於屠宰範圍內的動物(若大於七隻)。$(br2)$(l)小麥/種子/胡蘿蔔:$() 若放置於機器中，將用於餵食範圍內的動物。$(br2)$(l)鐵桶:$() 若放置於機器中，將用於收集牛奶。"
+    }
+  ]
+}

@@ -58,8 +58,8 @@
   "inventoryhud.config.gui.armscale": "Scale:",
   "inventoryhud.config.gui.armscale.tt": "Armor HUD scale",
   "inventoryhud.config.gui.pothor": "Horizontal mode:",
-  "inventoryhud.config.gui.pothor.tt": "Toggle on/off horizontal mode",
-  "key.inventoryhud.toggleall": "Toggle all HUDs on/off",
+  "inventoryhud.config.gui.pothor.tt": "切換開啟/關閉水平模式",
+  "key.inventoryhud.toggleall": "切換所有 HUD 開啟/關閉",
   "key.inventoryhud.togglepot": "Toggle PotionHUD on/off",
   "key.inventoryhud.togglearm": "Toggle ArmorHUD on/off"
 }

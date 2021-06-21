@@ -1,0 +1,16 @@
+{
+  "name": "四倍礦物",
+  "category": "enhanced_ore_processing",
+  "sortnum": 2,
+  "icon": "indrev:fluid_infuser_mk4",
+  "pages": [
+    {
+      "type": "text",
+      "text": "礦石處理的最後一步能有四倍產出。你將需要一台 $(l:machines/basic_machines#fluid_infuser)$(t:Go to Fluid Infuser)$(l)$(o)固體注入機$()、$(l:machines/basic_machines#smelter)$(t:Go to Industrial Smelter)$(l)$(o)工業熔爐$()、$(l:machines/basic_machines#condenser)$(t:Go to Condenser)$(l)$(o)聚合機$()、$(l:machines/basic_machines#pulverizer)$(t:Go to Pulverizer)$(l)$(o)粉碎機$()和足量的硫酸。$(br)$(#3ead36)硫酸$()生成於沼澤的湖中，或以 $(#b3b332)琉粉$()和$(#88adf2)水$()在液體注入機中合成。"
+    },
+    {
+      "type": "text",
+      "text": "$(l)1)$() 將礦石放入含有硫酸的液體注入機中。淨化後會產出精煉礦石。 $(br)$(l)2)$() 把精煉礦石放入工業熔爐中融熔成液體。$(br)2) 再將其倒入聚合機中結晶。$(br)$(l)3)$() 最後，將碎塊磨成粉 $(br)$(l)4)$()，燒製成錠。$(br2) 完成! 一礦四錠!"
+    }
+  ]
+}

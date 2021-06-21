@@ -1,0 +1,13 @@
+{
+  "name": "鎢礦",
+  "category": "natural_resources",
+  "sortnum": 4,
+  "icon": "indrev:tungsten_ore",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "indrev:tungsten_ore",
+      "text": "$(#686b5b)$(l)鎢礦$()生成於y:0~16且稀有。$(br)$(#686b5b)$(l)鎢礦$()用於合成模組化盔甲等耐久的物品"
+    }
+  ]
+}

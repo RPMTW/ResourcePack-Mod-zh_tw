@@ -1,0 +1,13 @@
+{
+  "name": "錫礦",
+  "category": "natural_resources",
+  "sortnum": 1,
+  "icon": "indrev:tin_ore",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "indrev:tin_ore",
+      "text": "$(#999999)$(l)錫礦$()生成於y:0~48且頗為常見。$(br)合成機器時經常需要$(#999999)$(l)錫礦$()"
+    }
+  ]
+}

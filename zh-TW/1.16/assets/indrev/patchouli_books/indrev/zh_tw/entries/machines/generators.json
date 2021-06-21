@@ -1,0 +1,36 @@
+{
+  "name": "發電機",
+  "category": "machines",
+  "sortnum": 0,
+  "icon": "indrev:coal_generator_mk1",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(l)$(o)發電機$()使用資源以產生青晶石通量供機器使用"
+    },
+    {
+      "type": "crafting",
+      "recipe": "indrev:shaped/coal_generator_mk1",
+      "text": "$(l)$(o)煤炭發電機$()可以使用任何原版熔爐可使用的燃料來發電。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "indrev:shaped/solar_generator_mk1",
+      "recipe2": "indrev:shaped/solar_generator_mk3"
+    },
+    {
+      "type": "text",
+      "text": "$(l)$(o)太陽能發電機$()只要陽光照射便能產生能量。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "indrev:shaped/biomass_generator_mk3",
+      "text": "$(l)$(o)生物質發電機$()可燃燒$(#00ff00)生物質$()以產生能量。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "indrev:shaped/heat_generator",
+      "text": "$(l)$(o)熱力發電機$()使用岩漿產生能量。與泵搭配使用時效果很好。"
+    }
+  ]
+}

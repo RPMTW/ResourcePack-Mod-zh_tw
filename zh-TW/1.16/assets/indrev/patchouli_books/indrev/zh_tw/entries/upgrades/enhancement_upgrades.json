@@ -1,0 +1,37 @@
+{
+  "name": "增強器升級",
+  "category": "upgrades",
+  "sortnum": 0,
+  "icon": "indrev:speed_upgrade",
+  "pages": [
+    {
+      "type": "text",
+      "text": "這些升級將增強機器的某些數值，如處理速度和能量消耗。$(br2)將增強器升級放入機器介面右側插槽以使用。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "indrev:shaped/speed_upgrade",
+      "text": "此升級將提高機器的處理速度並加劇能量消耗。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "indrev:shaped/energy_upgrade",
+      "text": "此升級將降低機器的能量消耗。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "indrev:shaped/buffer_upgrade",
+      "text": "此升級將提高機器的內部能量處存容量。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "indrev:shaped/blast_furnace_upgrade",
+      "text": "此升級將使電爐能夠處理高爐配方。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "indrev:shaped/smoker_upgrade",
+      "text": "此升級將使電爐能夠處理煙燻爐配方。"
+    }
+  ]
+}

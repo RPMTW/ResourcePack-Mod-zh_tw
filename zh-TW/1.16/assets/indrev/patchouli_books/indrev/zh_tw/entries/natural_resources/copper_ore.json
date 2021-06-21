@@ -1,0 +1,13 @@
+{
+  "name": "銅礦",
+  "category": "natural_resources",
+  "sortnum": 0,
+  "icon": "indrev:copper_ore",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "indrev:copper_ore",
+      "text": "$(#FFA500)$(l)銅礦$()生成於y:0~64格且頗為常見。$(br)合成機器時經常需要$(#FFA500)$(l)銅礦$()"
+    }
+  ]
+}

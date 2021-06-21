@@ -1,0 +1,148 @@
+{
+  "name": "礦機電腦",
+  "category": "machines",
+  "sortnum": 4,
+  "icon": "indrev:miner_mk4",
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "indrev:shaped/miner_mk4",
+      "text": "$(l)$(o)礦機電腦$()放置於$(l:machines/miner#chunk_scanner)$(t:Chunk Scanner)$(l)$(o)$(#0000ff)掃描過的$()chunk裡時將耗費能量挖掘。挖掘時不摧毀方塊。$(br)礦機電腦運行時耗費$(#1111FF)64LF/tick$()，每加裝一個鑽頭能源耗費增加 $(#1111FF)256LF/tick$()"
+    },
+    {
+      "type": "crafting",
+      "recipe": "indrev:shaped/drill_bottom",
+      "text": "礦機電腦需要礦機鑽頭才能運作。礦機鑽頭必須放在電腦旁邊，並且需要鑽頭。每多一個礦機鑽頭就會提高一些開採速度。$(br)此為可正常運行的礦機的示意圖："
+    },
+    {
+      "type": "image",
+      "title": "範例",
+      "images": [
+        "indrev:textures/gui/mrc_setup.png"
+      ],
+      "text": "鑽頭可以直接連接或對角的放置在礦機電腦旁"
+    },
+    {
+      "anchor": "chunk_scanner",
+      "type": "crafting",
+      "recipe": "indrev:shaped/chunk_scanner",
+      "text": "$(l)$(o)區塊掃描器$()是一種用於收集區塊礦脈類型地理數據的工具。掃描器將為您提供礦機運作所需的掃描結果。"
+    },
+    {
+      "anchor": "vein_types",
+      "type": "text",
+      "text": "$(br)$(l:machines/miner#peat)$(t:Go to Peat)泥煤礦脈$()$(br)$(l:machines/miner#lignite)$(t:Go to Lignite)褐煤礦脈$()$(br)$(l:machines/miner#bituminous)$(t:Go to Bituminous)瀝青礦脈$()$(br)$(l:machines/miner#anthracite)$(t:Go to Anthracite)白煤礦脈$()$(br)$(l:machines/miner#siderite)$(t:Go to Siderite)菱鐵礦脈$()$(br)$(l:machines/miner#limonite)$(t:Go to Limonite)褐鐵礦脈$()$(br)$(l:machines/miner#hematite)$(t:Go to Hematite)赤鐵礦脈$()$(br)$(l:machines/miner#magnetite)$(t:Go to Magnetite)磁鐵礦脈$()$(br)$(l:machines/miner#chalcopryte)$(t:Go to Chalcopryte)黃銅礦脈$()$(br)$(l:machines/miner#cuprite)$(t:Go to Cuprite)赤銅礦脈$()$(br)$(l:machines/miner#cassiterite)$(t:Go to Cassiterite)錫石礦脈$()$(br)$(l:machines/miner#stannite)$(t:Go to Stannite)黃錫礦脈$()$(br)$(l:machines/miner#cavalerite)$(t:Go to Cavalerite)碲金礦脈$()$(br)$(l:machines/miner#quartz)$(t:Go to Quartz)石英礦脈$()$(br)$(l:machines/miner#nikolite)$(t:Go to Nikolite)藍石礦脈$()"
+    },
+    {
+      "anchor": "peat",
+      "type": "spotlight",
+      "title": "泥煤礦脈",
+      "item": "minecraft:coal_ore",
+      "text": "主要由$(#000000)$(l)煤礦$()構成，為最貧乏和少量的煤礦脈，夾雜大量石頭、泥土和一些礫石。$(br)此礦脈分布於各生態域，但更常出現在平原、針葉林、森林、沼澤和結冰的地形"
+    },
+    {
+      "anchor": "lignite",
+      "type": "spotlight",
+      "title": "褐煤礦脈",
+      "item": "minecraft:coal_ore",
+      "text": "主要由$(#000000)$(l)煤礦$()構成，為第二貧乏和少量的煤礦脈，仍夾雜大量石頭、泥土和礫石。$(br)此礦脈分布於各生態域，但更常出現在平原、針葉林、樹林、沼澤和結冰的地形"
+    },
+    {
+      "anchor": "bituminous",
+      "type": "spotlight",
+      "title": "瀝青礦脈",
+      "item": "minecraft:coal_ore",
+      "text": "主要由$(#000000)$(l)煤礦$()構成，為頗具規模的煤礦脈，擁有更多的煤碳。仍有石頭、泥土和一些礫石。夠幸運的話也會出現$(#00ffff)$(l)鑽石$()。$(br)許多地方都有此礦脈的蹤影，但在沙漠、山地、惡地和莽原更為常見"
+    },
+    {
+      "anchor": "anthracite",
+      "type": "spotlight",
+      "title": "白煤礦脈",
+      "item": "minecraft:coal_ore",
+      "text": "主要由$(#000000)$(l)煤礦$()構成，為最含量充足的煤礦脈，擁有很多的煤碳。仍有石頭、泥土和一些礫石。夠幸運的話也會出現$(#00ffff)$(l)鑽石$()。$(br)許多地方都有此礦脈的蹤影，但在沙漠、山地、惡地和莽原更為常見"
+    },
+    {
+      "anchor": "siderite",
+      "type": "spotlight",
+      "title": "菱鐵礦脈",
+      "item": "minecraft:iron_ore",
+      "text": "主要由$(#666666)$(l)鐵礦$()構成，為最貧乏和少量的鐵礦脈，夾雜大量石頭、泥土和一些礫石。$(br)此礦脈分布於各生態域，但更常出現在山地、平原、莽原和森林"
+    },
+    {
+      "anchor": "limonite",
+      "type": "spotlight",
+      "title": "褐鐵礦脈",
+      "item": "minecraft:iron_ore",
+      "text": "主要由$(#666666)$(l)鐵礦$()構成，為第二貧乏和少量的鐵礦脈，仍夾雜大量石頭、泥土和礫石。$(br)此礦脈分布於各生態域，但更常出現在山地、平原和沙漠"
+    },
+    {
+      "anchor": "hematite",
+      "type": "spotlight",
+      "title": "赤鐵礦脈",
+      "item": "minecraft:iron_ore",
+      "text": "主要由$(#666666)$(l)鐵礦$()構成，為頗具規模的鐵礦脈，擁有更多的鐵礦。仍有石頭、泥土和一些礫石。$(br)許多地方都有此礦脈的蹤影，但在針葉林和惡地更為常見"
+    },
+    {
+      "anchor": "magnetite",
+      "type": "spotlight",
+      "title": "磁鐵礦脈",
+      "item": "minecraft:iron_ore",
+      "text": "主要由$(#666666)$(l)鐵礦$()構成，為最含量充足的鐵礦脈，擁有很多的鐵礦。仍有石頭、泥土和一些礫石。$(br)許多地方都有此礦脈的蹤影，但在山地、惡地和沙漠更為常見"
+    },
+    {
+      "anchor": "chalcopryte",
+      "type": "spotlight",
+      "title": "黃銅礦脈",
+      "item": "indrev:copper_ore",
+      "text": "主要由$(#FFA500)$(l)銅礦$()和$(#666666)$(l)鐵礦$()構成，礦產相當豐富和多變，含有大量$(#FFA500)$(l)銅礦$()和$(#666666)$(l)鐵礦$()，並夾雜石頭、泥土和礫石。$(br)許多地方都有此礦脈的蹤影，但在平原、莽原和森林更為常見。"
+    },
+    {
+      "anchor": "cuprite",
+      "type": "spotlight",
+      "title": "赤銅礦脈",
+      "item": "indrev:copper_ore",
+      "text": "主要由$(#FFA500)$(l)銅礦$()構成，為唯一只含銅礦的礦脈。礦產不太豐富和多變。$(br)許多地方都有此礦脈的蹤影，但在莽原和沙漠更為常見。"
+    },
+    {
+      "anchor": "cassiterite",
+      "type": "spotlight",
+      "title": "錫石礦脈",
+      "item": "indrev:tin_ore",
+      "text": "主要由$(#999999)$(l)錫礦$()構成，為唯一只含錫礦的礦脈。礦產不太豐富和多變。$(br)許多地方都有此礦脈的蹤影，但在平原、莽原和森林更為常見。"
+    },
+    {
+      "anchor": "stannite",
+      "type": "spotlight",
+      "title": "黃錫礦脈",
+      "item": "indrev:tin_ore",
+      "text": "主要由$(#999999)$(l)錫礦$()、$(#FFA500)$(l)銅礦$()和$(#666666)$(l)鐵礦$()構成，含有大量的錫礦並夾雜$(#666666)$(l)鐵礦、$()$(#FFA500)$(l)銅礦$()、石頭、泥土和礫石。$(br)許多地方都有此礦脈的蹤影，但在山地、惡地和沙漠更為常見。"
+    },
+    {
+      "anchor": "nikolite",
+      "type": "spotlight",
+      "title": "藍石礦脈",
+      "item": "indrev:nikolite_ore",
+      "text": "主要由$(#5555BB)$(l)藍石礦$()、$(#FF0000)$(l)紅石礦$()和$(#0000FF)$(l)青晶石礦$()構成，夾雜著石頭、泥土和礫石。許多地方都有此礦脈的蹤影，但在針葉林和冰封地形更為常見。"
+    },
+    {
+      "anchor": "cavalerite",
+      "type": "spotlight",
+      "title": "碲金礦脈",
+      "item": "minecraft:gold_ore",
+      "text": "$(l)主世界$()$(br)主要由$(#FFD700)$(l)金礦$()構成。小具規模且含量佳。$(br)許多地方都有此礦脈的蹤影，但在針葉林和惡地更為常見。"
+    },
+    {
+      "type": "spotlight",
+      "title": "碲金礦脈(地域)",
+      "item": "minecraft:nether_gold_ore",
+      "text": "$(#ff0000)$(l)地域$()$(br)頗具規模且豐富的$(#FFD700)$(l)地域金礦$()礦脈，夾雜大量地域岩、靈魂沙、礫石。幸運的話還會有$(l)$(#000000)遠古遺骸$()!"
+    },
+    {
+      "anchor": "quartz",
+      "type": "spotlight",
+      "title": "石英礦脈",
+      "item": "minecraft:nether_quartz_ore",
+      "text": "$(#ff0000)$(l)地域$()$(br)頗具規模且豐富的$(#FFD700)$(l)石英$()礦脈，夾雜大量地域岩、靈魂沙、礫石。"
+    }
+  ]
+}

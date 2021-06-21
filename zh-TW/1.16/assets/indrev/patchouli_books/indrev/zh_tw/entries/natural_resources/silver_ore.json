@@ -1,0 +1,13 @@
+{
+  "name": "銀礦",
+  "category": "natural_resources",
+  "sortnum": 2,
+  "icon": "indrev:silver_ore",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "indrev:lead_ore",
+      "text": "$(#c6e9e3)$(l)銀礦$()生成於y:0~32且較不常見。$(br)合成進階機器時常會使用$(#c6e9e3)$(l)銀礦$()"
+    }
+  ]
+}
