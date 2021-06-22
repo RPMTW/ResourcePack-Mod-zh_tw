@@ -1,14 +1,14 @@
 {
-  "name": "[TCon] Tools",
+  "name": "[TCon] 工具",
   "icon": "tconstruct:large_plate{Material:\"fierymetal\"}",
-  "category": "treasures",
+  "category": "寶藏",
   "flag": "mod:tconstruct",
   "advancement": "twilightforest:alt/compat/tconstruct",
   "sortnum": 1200,
   "pages": [
     {
       "type": "text",
-      "text": "Tinker's Construct info about TF Tools"
+      "text": "關於TF Tools的匠魂模組資訊"
     }
   ]
 }
