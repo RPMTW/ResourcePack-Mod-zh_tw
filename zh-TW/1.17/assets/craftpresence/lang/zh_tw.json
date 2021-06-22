@@ -210,7 +210,7 @@
     "gui.config.comment.advanced.enable_per_item": "Allows CraftPresence to change it's display based on the item you're holding\\n Note the following:\\n - Requires an option in item messages",
     "gui.config.comment.advanced.enable_per_entity": "Allows CraftPresence to change its display based on entity data\\n Note the following:\\n - Requires an option in a valid entity message list",
     "gui.config.comment.advanced.render_tooltips": "Allow CraftPresence to render hover tooltips (when available)",
-    "gui.config.comment.advanced.format_words": "Toggles automatic capitalizing of words and general formatting with strings",
+    "gui.config.comment.advanced.format_words": "切換單詞的自動大寫和字符串的一般格式",
     "gui.config.comment.advanced.debug_mode": "Toggles Developer Mode, showing debug features and enabling debug logging\\n\\nOverridden Status -> %1$s",
     "gui.config.comment.advanced.verbose_mode": "Toggles Verbose Mode, showing more detailed logging as well as stack traces and deeper exception messages\\n\\nOverriden Status -> %1$s",
     "gui.config.comment.advanced.gui_messages": "Customize messages to display with Guis\\n (Manual format: gui;message)\\n Available placeholders:\\n - &screen& = Gui Screen name\\n - &class& = Gui class name",
