@@ -78,11 +78,11 @@
     "item.epicfight.diamond_dagger": "鑽石匕首",
     "item.epicfight.netherite_dagger": "獄髓匕首",
     "skill.epicfight.liechtenauer": "Liechtenauer",
-    "skill.epicfight.liechtenauer_tooltip": "Take a solid swordsmanship posture. You can't sprint during the skill is activated, but automatically defends against enemy strikes when you're not attacking. Killing an enemy increases the remaining guard points by up to 4",
-    "skill.epicfight.eviscerate": "Eviscerate",
-    "skill.epicfight.eviscerate_tooltip": "Stab the enemy with a knife and pull it out with critical damage.",
-    "skill.epicfight.blade_rush": "Blade Rush",
-    "skill.epicfight.blade_rush_tooltip": "Dashes forward quickly and slashes an enemy passing by. This skill can store up to 4 stacks, has 4 consecutive attack moves during the active time, and the last attack dealt enhanced damage. If the enemy dies by this skill, the stack is returned.",
-    "skill.epicfight.damage": "%s damage",
-    "skill.epicfight.percent_of_target_lost_health": " + %s of the target lost health"
+    "skill.epicfight.liechtenauer_tooltip": "採取堅實的劍術姿態。在技能啟動期間，你不能衝刺，但在你不攻擊時自動防禦敵人的攻擊。殺死一個敵人後，剩餘的防禦點數最多增加4點",
+    "skill.epicfight.eviscerate": "解剖",
+    "skill.epicfight.eviscerate_tooltip": "用刀刺傷敵人，並將其拉出，造成關鍵性傷害。",
+    "skill.epicfight.blade_rush": "刀鋒衝刺",
+    "skill.epicfight.blade_rush_tooltip": "迅速向前衝刺，砍殺經過的敵人。這個技能最多可以儲存4個堆棧，在活動時間內有4次連續攻擊動作，最後一次攻擊造成的傷害增強。如果敵人被這個技能殺死，則堆棧會返回。",
+    "skill.epicfight.damage": "%s 傷害",
+    "skill.epicfight.percent_of_target_lost_health": " +目標 %s 失去生命值"
 }
