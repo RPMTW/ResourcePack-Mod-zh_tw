@@ -7,5 +7,6 @@
     "key.dynamicfps.toggle_forced": "強制減少 FPS （切換）",
     "key.dynamicfps.toggle_disabled": "關閉動態 FPS （切換）",
     "gui.dynamicfps.hud.reducing": "動態 FPS：強制減少 FPS",
-    "gui.dynamicfps.hud.disabled": "停用 動態 FPS"
+    "gui.dynamicfps.hud.disabled": "停用 動態 FPS",
+    "config.dynamicfps.run_gc_on_unfocus": "Run GC on unfocus"
 }
