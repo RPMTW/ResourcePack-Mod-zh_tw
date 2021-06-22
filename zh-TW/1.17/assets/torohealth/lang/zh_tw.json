@@ -1,0 +1,21 @@
+{
+    "config.title": "ToroHealth 設定",
+    "config.category.hud": "使用界面設定",
+    "config.hud.hideDelay": "隱藏延遲",
+    "config.hud.x": "X 座標",
+    "config.hud.y": "Y 座標",
+    "config.hud.scale": "鱗甲",
+    "config.torohealth.category.bar": "血條設定",
+    "config.bar.damageNumberType": "傷害數字顯示類型",
+    "config.torohealth.category.inWorld": "在世界設定",
+    "config.inWorld.mode": "模式",
+    "config.inWorld.distance": "直線",
+    "config.torohealth.friendColor.title": "友善生物血條顏色",
+    "config.torohealth.friendColorSecondary.title": "友善生物血條次要顏色",
+    "config.torohealth.foeColor.title": "敵對生物血條顏色",
+    "config.torohealth.foeColorSecondary.title": "敵對生物血條次要顏色",
+    "config.torohealth.red": "紅色",
+    "config.torohealth.green": "綠色",
+    "config.torohealth.blue": "藍色",
+    "config.torohealth.alpha": "透明度"
+}
