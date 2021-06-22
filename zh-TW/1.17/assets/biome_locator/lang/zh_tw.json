@@ -28,7 +28,7 @@
     "gui.biome_locator.temperature": "溫度",
     "gui.biome_locator.temperature_colon": "§7溫度： ",
     "gui.biome_locator.top_block": "頂部方塊",
-    "gui.biome_locator.under_block": "Subsurface Block",
+    "gui.biome_locator.under_block": "地下方塊",
     "gui.biome_locator.water_color": "水色",
     "hud.biome_locator.biome": "生態域",
     "hud.biome_locator.coordinates": "坐標",
@@ -47,5 +47,5 @@
     "weather.biome_locator.rabbit": "雨兔",
     "weather.biome_locator.rain": "雨",
     "weather.biome_locator.snow": "雪",
-    "error.biome_locator.advancement_required": "§cThe advancement %s§c is required to do this."
+    "error.biome_locator.advancement_required": "§c執行此操作需要進度 %s。"
 }
