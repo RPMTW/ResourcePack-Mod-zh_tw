@@ -1,0 +1,16 @@
+{
+    "block.pipe.item_pipe": "物品管道",
+    "item.pipe.servo": "Servo",
+    "item.pipe.wrench": "扳手",
+    "itemGroup.pipe.all": "管道",
+    "item.pipe.wrench.1": "Connections Blocked",
+    "item.pipe.wrench.2": "輪詢調度",
+    "block.pipe.item_pipe.blacklist": "黑名單",
+    "block.pipe.item_pipe.closest": "最靠近的",
+    "block.pipe.item_pipe.round_robin": "輪詢調度",
+    "block.pipe.item_pipe.whitelist": "白名單",
+    "block.pipe.item_pipe.mod_match.false": "Ignore Mod",
+    "block.pipe.item_pipe.mod_match.true": "Match all items from represented mods",
+    "block.pipe.item_pipe.nbt_match.false": "Ignore Nbt",
+    "block.pipe.item_pipe.nbt_match.true": "Match Nbt"
+}
