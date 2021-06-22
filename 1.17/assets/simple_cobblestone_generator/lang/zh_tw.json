@@ -1,0 +1,19 @@
+{
+    "containers.generator_tier1": "Basic cobblestone generator",
+    "containers.generator_tier2": "Enhanced cobblestone generator",
+    "containers.generator_tier3": "Bejeweled cobblestone generator",
+    "containers.generator_tier4": "Fabulous cobblestone generator",
+    "containers.generator_tier5": "Extreme cobblestone generator",
+    "containers.generator_tier6": "Ultimate cobblestone generator",
+    "block.simple_cobblestone_generator.generator_tier1": "Basic cobblestone generator",
+    "block.simple_cobblestone_generator.generator_tier2": "Enhanced cobblestone generator",
+    "block.simple_cobblestone_generator.generator_tier3": "Bejeweled cobblestone generator",
+    "block.simple_cobblestone_generator.generator_tier4": "Fabulous cobblestone generator",
+    "block.simple_cobblestone_generator.generator_tier5": "Extreme cobblestone generator",
+    "block.simple_cobblestone_generator.generator_tier6": "Ultimate cobblestone generator",
+    "itemGroup.simple_cobblestone_generator.group": "Simple cobblestone generator",
+    "lang.simple_cobblestone_generator.generates_every": "Generates %d cobblestone every",
+    "lang.simple_cobblestone_generator.tick": "tick",
+    "lang.simple_cobblestone_generator.ticks": "%d ticks",
+    "lang.simple_cobblestone_generator.tooltip": "Can output its contents to an Inventory above"
+}
