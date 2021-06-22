@@ -72,7 +72,7 @@
     "item.sandwichable.spread.suspicious_stew": "可疑的燉湯",
     "item.sandwichable.spread.honey": "蜂蜜",
     "item.sandwichable.spread.fermenting_milk": "發酵牛奶",
-    "item.sandwichable.spread.sweet_berry_jam": "Sweet Berry Jam",
+    "item.sandwichable.spread.sweet_berry_jam": "甜莓醬",
     "item.sandwichable.spread.mayonnaise": "美乃滋",
     "block.sandwichable.sandwich_table": "三明治製作台",
     "block.sandwichable.sandwich": "三明治",
@@ -242,5 +242,5 @@
     "block.sandwichable.salty_sand.info": "可在沙灘和海洋找到的類似礦石的方塊； 破壞可獲得岩鹽和一些沙",
     "block.sandwichable.salty_rocks.info": "An unobtainable block lining the edges of naturally generated salt pools. Water on top of this block will be saline, meaning a desalinator will work on top of this block.",
     "block.sandwichable.salty_stone.info": "An unobtainable block lining the floor of naturally generated salt pools. Water on top of this block will be saline, meaning a desalinator will work on top of this block.",
-    "block.sandwichable.desalinator.info": "從沙灘上或海洋裡用鹽水提取鹽的機器； 需要紅石粉作為燃料，水作為原料； 和紅石烤麵包機不一樣，它可以放入水中； 在含鹽的群系（如海洋）內會產生鹽。"
+    "block.sandwichable.desalinator.info": "從沙灘上或海洋裡用鹽水提取鹽的機器； 需要紅石粉作為燃料，水作為原料； 和紅石烤麵包機不一樣，它可以放入水中； 在含鹽的生態域（如海洋）內會產生鹽。"
 }
