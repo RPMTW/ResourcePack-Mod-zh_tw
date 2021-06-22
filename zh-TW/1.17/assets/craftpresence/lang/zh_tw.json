@@ -168,7 +168,7 @@
     "gui.config.comment.general.default_icon": "預設圖示\\n(用於主選單,維度及伺服器)",
     "gui.config.comment.general.detect_curse_manifest": "啟用檢測對於Twitch/Curse來顯示資料?",
     "gui.config.comment.general.detect_multimc_manifest": "啟用對於MultiMC實際資料的檢測?",
-    "gui.config.comment.general.detect_mcupdater_instance": "Enable detection for MCUpdater instance data?",
+    "gui.config.comment.general.detect_mcupdater_instance": "啟用對於MCUpdater實際資料的檢測?",
     "gui.config.comment.general.detect_technic_pack": "啟用技術包數據檢測?",
     "gui.config.comment.general.show_time": "Show elapsed time in Rich Presence?",
     "gui.config.comment.general.detect_biome_data": "Enable detection of biome data?\\n (Allows usage of Biome Messages and associated placeholders)",
