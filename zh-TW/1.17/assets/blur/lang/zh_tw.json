@@ -1,8 +1,8 @@
 {
-    "blur.midnightconfig.title": "模糊模組config",
-    "blur.midnightconfig.blurExclusions": "Blur Exclusions are currently not configurable in-game!",
-    "blur.midnightconfig.fadeTimeMillis": "Fade Time (in milliseconds)",
+    "blur.midnightconfig.title": "模糊設定",
+    "blur.midnightconfig.blurExclusions": "模糊排除目前在遊戲中是無法設定的!",
+    "blur.midnightconfig.fadeTimeMillis": "淡入時間(毫秒)",
     "blur.midnightconfig.radius": "半徑",
-    "blur.midnightconfig.gradientStartColor": "Gradient Start Color",
-    "blur.midnightconfig.gradientEndColor": "Gradient End Color"
+    "blur.midnightconfig.gradientStartColor": "漸變起始色",
+    "blur.midnightconfig.gradientEndColor": "漸變結束色"
 }
