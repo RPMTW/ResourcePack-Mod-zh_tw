@@ -6,7 +6,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "A machine used to spawn mobs. When provided with power, $(l:agr_hus/essence)Essence$() and any entity in a  $(l:tools/mib)Mob Imprisonment Tool$() it will spawn them around it. $(br2)It will count the entities nearby and stop if there are too many."
+      "text": "一台刷怪機器，當有能量供應、精華液和一個裏頭有生物的大師球時，這台機器就會從身旁生出怪物，$(br2)跟一般的生怪箱一樣，當附近的生物太多時，機器將會停止運作。"
     },
     {
       "type": "合成",
