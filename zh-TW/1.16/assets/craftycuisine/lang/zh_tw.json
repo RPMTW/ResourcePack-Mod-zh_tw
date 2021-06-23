@@ -12,7 +12,7 @@
     "item.craftycuisine.sweet_berry_bread": "甜莓麵包",
     "item.craftycuisine.honey_bread": "蜂蜜麵包",
     "item.craftycuisine.candied_apple": "蜜蘋果",
-    "item.craftycuisine.candied_melon_slice": "Candied Melon Slice",
+    "item.craftycuisine.candied_melon_slice": "蜜西瓜片",
     "item.craftycuisine.sushi": "壽司",
     "item.craftycuisine.cooked_spider_eye": "熟蜘蛛眼",
     "item.craftycuisine.sugar_cookie": "糖霜餅乾",
@@ -25,10 +25,10 @@
     "text.autoconfig.craftycuisine.option.cookiesEnabled": "Cookies Enabled",
     "text.autoconfig.craftycuisine.option.baconEnabled": "已啟用培根",
     "text.autoconfig.craftycuisine.option.sushiEnabled": "已啟用壽司",
-    "text.autoconfig.craftycuisine.option.piesEnabled.@Tooltip": "Disable this if another mod adds pies",
-    "text.autoconfig.craftycuisine.option.cookiesEnabled.@Tooltip": "Disable this if another mod adds cookies",
-    "text.autoconfig.craftycuisine.option.baconEnabled.@Tooltip": "Disable this if you don't want bacon",
-    "text.autoconfig.craftycuisine.option.sushiEnabled.@Tooltip": "Disable this if you don't want sushi",
+    "text.autoconfig.craftycuisine.option.piesEnabled.@Tooltip": "若其他模組新增了派，請禁用這項",
+    "text.autoconfig.craftycuisine.option.cookiesEnabled.@Tooltip": "若其他模組新增了餅乾，請禁用這項",
+    "text.autoconfig.craftycuisine.option.baconEnabled.@Tooltip": "若你不想要培根，請禁用這項",
+    "text.autoconfig.craftycuisine.option.sushiEnabled.@Tooltip": "若你不想要壽司，請禁用這項",
     "advancements.craftycuisine.turtle_egg.title": "喪心病狂",
     "advancements.craftycuisine.turtle_egg.description": "烹煮並吃下烏龜蛋"
 }
