@@ -12,7 +12,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "The $(item)Blood Altar$() is the central block of the mod, able to convert raw blood into pure life essence. While it may start off small and insignificant, its strength and size grows throughout the mod, acting as a cornerstone for most of your power."
+      "text": "$(item)血之祭壇$()是血魔法的核心之一，能夠將鮮血轉化成純淨的生命源質，儘管它一開始看起來可能微不足道，但它能在你研究的過程中慢慢發展；是你在探索血魔法中重要的基石。"
     },
     {
       "type": "合成",
@@ -20,11 +20,11 @@
     },
     {
       "type": "text",
-      "text": "When placed into the world, the Blood Altar converts $(1)Life Essence$() into power to transfigure items placed into it. By right-clicking on the Altar, you may insert one item from your hand into the Altar's internal inventory. Right-clicking with an empty hand will extract the item."
+      "text": "當它被放置後，血之祭壇可以轉化$(1)生命源質$()至物品裡，當你對著血之祭壇點擊右鍵，你可以將手上的物品放入血之祭壇中；而空手再次點擊即可取出物品。"
     },
     {
       "type": "multiblock",
-      "name": "Tier 1 Blood Altar",
+      "name": "一階血之祭壇",
       "multiblock": {
         "pattern": [
           [
@@ -39,30 +39,30 @@
         },
         "symmetrical": true
       },
-      "text": "The Tier 1 Blood Altar, which has no runes."
+      "text": "一階血之祭壇的圖示，其中沒有任何符文。"
     },
     {
       "type": "text",
-      "text": "In order for you to add $(1)Life Essence$(), measured as \"LP\", you first have to craft a $(item)Sacrificial Knife$(). By right-clicking in the air with the knife, you can \"extract\" 200LP for the cost of one heart, placing it into a nearby Altar. The Altar starts with a maximum capacity of 10,000LP, and the blood level in the basin indicates the percentage filled. The $(l:bloodmagic:alchemy_array/sigil/divination)Divination Sigil$(/l) allows more detailed information about the Altar."
+      "text": "為了加點$(1)生命源質$()進去（簡稱為LP），你首要先合成把$(item)犧牲小刀$()來進行犧牲。拿著它朝空中按下右鍵，你會以一顆心的代價\"獻出\"200LP 並被吸收至周遭的血之祭壇內。祭壇的初始最大容量為10,000LP，而裏頭血液的深度將取決於有多少百分比的生命源質在祭壇內。對祭壇使用$(l:bloodmagic:alchemy_array/sigil/divination)占卜印記$(/l)來了解祭壇的詳細資訊。"
     },
     {
       "type": "合成",
       "recipe": "bloodmagic:sacrificial_dagger",
       "anchor": "knife",
-      "text": "Keep in mind that 10% of the total LP the altar can hold will be absorbed into an invisible internal 'tank' used for extracting and inserting Life Essence into the Altar."
+      "text": "請銘記，有10%的總LP將會被儲存在祭壇內的隱形\"容器\"裏，可以使這些生命源質被輸入或輸出到其他的地方。"
     },
     {
       "type": "text",
-      "text": "The Blood Altar will attempt to start to craft as soon as an item is placed inside by a player (or after a periodic 5 seconds). The LP inside of the Altar will slowly drain, indicated by red particles, transforming the item. If there is no LP in the Altar, gray smoke will appear to indicate that the Altar is losing progress instead. Once enough LP is consumed (cost multiplied by number in the item stack), the full stack will be transformed into a new item."
+      "text": "血之祭壇會在玩家放入物品後（或等5秒一個週期）開始合成，此時裏頭的LP會慢慢的被吸收、散發出紅色粒子，且開始轉化物品。如果祭壇沒有殘餘的LP了，那合成進度將會停止並逐漸減少，同時迸發出一陣灰煙。只要消耗足夠的LP（消耗的量還需乘上物品的數量），整組物品將被一同轉化為新道具。"
     },
     {
       "type": "text",
-      "text": "The first item that you will want to craft is a $(l:bloodmagic:altar/soul_network)Weak Blood Orb$(/l), which by default is a diamond plus 2000LP inside of a Tier 1 Blood Altar. All items that can be crafted by the Blood Altar can be found using Just Enough Items (JEI)."
+      "text": "你需要製作的第一項道具會是$(l:bloodmagic:altar/soul_network)氣血寶珠$(/l)，一般來說它需要顆鑽石並經由血之祭壇灌注2000LP而成。所有在祭壇內才能進行的合成都可以在內JEI找到。"
     },
     {
       "type": "text",
       "anchor": "blank_rune",
-      "text": "To upgrade the Blood Altar, you need to craft $(item)Blood Runes$() and place them around the Altar. Blood Runes act as upgrades to the Altar, and by using more advanced versions of the Blood Runes you can confer different effects on the Altar. The basic version, the $(item)Blank Rune$(), does not give any upgrades barring upgrading the Tier of the Altar."
+      "text": "要升級你的血之祭壇，你需要合成$(item)空白符石$()並圍繞著祭壇放置，這些符石就像給祭壇的強化，而且你還能透過更進階的符文來對祭壇造成不同效果。不過像$(item)空白符石$()，最基礎的符石；除了為你的祭壇升級外，沒有\n其他特別的效果。"
     },
     {
       "type": "合成",
@@ -70,11 +70,11 @@
     },
     {
       "type": "text",
-      "text": "In order to upgrade the Blood Altar to Tier 2, you must place 8 $(item)Blood Runes$() around the Altar. The runes in the cardinals can be upgraded, but the corner runes cannot act as upgrade runes until Tier 3."
+      "text": "要將你的祭壇升到第二階，你必須將放置8個$(item)符文$()來圍繞祭壇一圈，這些符文都可以被強化。但是在達到第三階前，四個角落的方塊都不能使用除空白符文外的強化符文。"
     },
     {
       "type": "multiblock",
-      "name": "Tier 2 Blood Altar",
+      "name": "二階血之祭壇",
       "multiblock": {
         "pattern": [
           [
