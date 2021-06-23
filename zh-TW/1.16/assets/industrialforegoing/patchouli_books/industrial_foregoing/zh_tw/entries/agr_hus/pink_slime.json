@@ -1,5 +1,5 @@
 {
-  "name": "Pink Slime (Bucket)",
+  "name": "粉紅史萊姆桶",
   "icon": "industrialforegoing:pink_slime_bucket",
   "category": "agriculture_husbandry",
   "sortnum": 11,
@@ -7,7 +7,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "A fluid produced by the $(l:agr_hus/mob_slaughter_factory)Mob Slaughter Factory$()."
+      "text": "從$(l:agr_hus/mob_slaughter_factory)屠宰場$()所產出的一種液體。"
     }
   ]
 }
