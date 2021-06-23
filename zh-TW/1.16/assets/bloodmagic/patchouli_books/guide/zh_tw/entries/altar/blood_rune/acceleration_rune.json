@@ -5,7 +5,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "The $(item)Acceleration Rune$() increases the rate of a couple operations. While normally the operations of the $(l:bloodmagic:altar/blood_rune/charging_rune)Charging Rune$(/l) and $(l:bloodmagic:altar/blood_rune/dislocation_rune)Displacement Rune$(/l) occur every 20 ticks, one tick of the delay is removed per rune, down to a minimum of 1 operation per tick."
+      "text": "$(item)促進符文$()能加快其他符文的速率，正常的$(l:bloodmagic:altar/blood_rune/charging_rune)充能符文$(/l)和$(l:bloodmagic:altar/blood_rune/dislocation_rune)轉位符文$(/l)的效果會每20刻發動一次，而每一個$(item)促進符文$()就能使它們減少1刻的間隔，最小間隔為1刻。"
     },
     {
       "type": "合成",
