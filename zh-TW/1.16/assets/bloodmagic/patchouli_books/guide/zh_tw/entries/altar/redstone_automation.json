@@ -5,7 +5,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "The $(l:bloodmagic:altar/blood_altar)Blood Altar$() is a fantastic tool, but standing around and waiting for slates to craft is not your idea of a good time. Luckily, items and LP can be automatically piped in and out of the altar, albeit with a few caveats. $(br2)While a simple $(item)Hopper$() lets you pipe items in, the Altar won't stop it from inputting more than 1 at a time. It will happily craft 64 slates in one"
+      "text": "$(l:bloodmagic:altar/blood_altar)血之祭壇$()是項令人驚奇且目不轉睛的道具，但是你總不會想要傻傻佇立在那乾瞪著你的石板完成。幸運的是，物品和LP都可以輕易地經由管線輸出輸入祭壇。不過就算如此，這裡仍有幾點注意事項：$(br2)當$(item)漏斗$()輸入物品時，它不會只讓你能輸入一個物品進去；換句話說，你很有可能最後會看到它一次就合成了一整組石板"
     },
     {
       "type": "text",
