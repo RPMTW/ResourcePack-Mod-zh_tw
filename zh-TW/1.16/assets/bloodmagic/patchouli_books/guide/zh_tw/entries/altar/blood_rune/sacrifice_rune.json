@@ -5,7 +5,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "The $(item)Rune of Sacrifice$() increases the LP gained in the Blood Altar through means that take health from non-player entities. Each rune gives a bonus of +10% additively per rune."
+      "text": "$(item)獻祭符文$()提升了獻祭非玩家生物獲得的LP，每個符文具有10%的加成。（以累加計算）"
     },
     {
       "type": "合成",
