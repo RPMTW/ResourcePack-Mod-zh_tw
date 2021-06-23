@@ -1,15 +1,15 @@
 {
-    "key.ingameime.hotkey": "Toggle IME State",
+    "key.ingameime.hotkey": "切換輸入法狀態",
     "category.ingameime.keybinding": "IngameIME",
     "alpha.ingameime.mode": "A",
-    "native.ingameime.mode": "ENG",
-    "config.title": "IngameIME Config",
-    "config.category.chat": "對話",
-    "desc.disableIMEInCommandMode": "Disable IME in command mode",
-    "tooltip.disableIMEInCommandMode": "(When open chat by / key)",
-    "desc.autoReplaceSlashChar": "Auto replace command prefix",
-    "tooltip.autoReplaceSlashChar": "When the caret of the chat box is zero",
-    "desc.slashChars": "Which char is considered /",
-    "desc.error.slashChars": "per char each line",
-    "tooltip.slashChars": "For auto replace slash char"
+    "native.ingameime.mode": "中",
+    "config.title": "IngameIME 設定",
+    "config.category.chat": "聊天框",
+    "desc.disableIMEInCommandMode": "在指令模式關閉輸入法",
+    "tooltip.disableIMEInCommandMode": "(即按 / 打開聊天框時)",
+    "desc.autoReplaceSlashChar": "自動替換指令前綴 (\"、 -> /\")",
+    "tooltip.autoReplaceSlashChar": "當聊天框的游標在零位時",
+    "desc.slashChars": "應當被替換為 \"/\" 的字元",
+    "desc.error.slashChars": "每行一個字元",
+    "tooltip.slashChars": "配合\"自動替換指令前綴\"使用"
 }
