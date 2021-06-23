@@ -119,7 +119,7 @@
     },
     {
       "type": "multiblock",
-      "name": "Tier 3 Blood Altar",
+      "name": "三階血之祭壇",
       "multiblock": {
         "pattern": [
           [
@@ -167,15 +167,15 @@
         },
         "symmetrical": true
       },
-      "text": "The Tier 3 Blood Altar, which has 28 total runes."
+      "text": "三階血之祭壇的圖示，其中含有28個符文。"
     },
     {
       "type": "text",
-      "text": "To upgrade the Blood Altar to Tier 4, place 7 $(item) Blood Runes$() one block down and two blocks away from the previous set of runes along each edge. Then place four solid blocks in each corner, starting above the new ring of runes, and then cap each pillar with $(l:bloodmagic:utility/bloodstone_bricks)Bloodstone Bricks$(/l) and/or $(l:bloodmagic:utility/bloodstone_bricks)Large Bloodstone Bricks$(/l)."
+      "text": "要升級你的血之祭壇至第四階；跟第三層類似，必須將非常多的$(item)符石$()圍繞著祭壇放置：在第二層符石外的兩格、下方一格處，每個邊都得擺滿7個符石，然後在每個角落放上四格高的方塊；最後，將$(l:bloodmagic:utility/bloodstone_bricks)血石磚$(/l)或$(l:bloodmagic:utility/bloodstone_bricks)大血石磚$(/l)放在角落方塊的頂部上，即完成了四階血之祭壇。"
     },
     {
       "type": "multiblock",
-      "name": "Tier 4 Blood Altar",
+      "name": "四階血之祭壇",
       "multiblock": {
         "pattern": [
           [
@@ -266,15 +266,15 @@
         },
         "symmetrical": true
       },
-      "text": "The Tier 4 Blood Altar, which has 56 total runes."
+      "text": "四階血之祭壇的圖示，其中含有56個符文。"
     },
     {
       "type": "text",
-      "text": "[WIP Notes]$(br)[Tier-5 has No Content yet!]"
+      "text": "[尚未完成]$(br)[第五階還未有任何內容！]"
     },
     {
       "type": "multiblock",
-      "name": "Tier 5 Blood Altar",
+      "name": "五階血之祭壇",
       "multiblock": {
         "pattern": [
           [
@@ -421,7 +421,7 @@
         },
         "symmetrical": true
       },
-      "text": "The Tier 5 Blood Altar, which has 108 total runes."
+      "text": "五階血之祭壇的圖示，其中含有108個符文。"
     }
   ]
 }
