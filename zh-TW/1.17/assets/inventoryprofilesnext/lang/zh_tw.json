@@ -1,5 +1,5 @@
 {
-    "inventoryprofiles.gui.config.title": "Inventory Profiles Next v%s Config Menu",
+    "inventoryprofiles.gui.config.title": "Inventory Profiles Next V%s 設定選單",
     "inventoryprofiles.common.gui.config.reset": "重設",
     "inventoryprofiles.common.gui.config.true": "§2開",
     "inventoryprofiles.common.gui.config.false": "§4關",
@@ -29,7 +29,7 @@
     "inventoryprofiles.config.category.advanced_options": "進階選項",
     "inventoryprofiles.config.name.open_config_folder": "§a打開配置資料夾",
     "inventoryprofiles.config.name.reload_rule_files": "§a重新載入規則文件",
-    "inventoryprofiles.config.description.open_config_folder": "Open folder .minecraft/config/inventoryprofilesnext",
+    "inventoryprofiles.config.description.open_config_folder": "開啟資料夾 .minecraft/config/inventoryprofilesnext",
     "inventoryprofiles.config.description.reload_rule_files": "重新載入config資料夾中的 rule.*.txt 文件",
     "inventoryprofiles.gui.config.button.open_config_folder": "config/inventoryprofilesnext",
     "inventoryprofiles.gui.config.button.reload_rule_files": "重新載入 rule.*.txt",
