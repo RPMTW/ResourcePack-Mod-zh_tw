@@ -105,13 +105,13 @@
     {
       "type": "text",
       "anchor": "dagger_of_sacrifice",
-      "text": "Now that you have a Tier 2 Altar, you can look into getting blood from somewhere other than yourself. The $(item)Dagger of Sacrifice$() will allow you to kill any mob (monster or passive) that stands within 2 blocks of your Altar, instantly killing them and granting you a decent sum of LP. You can increase the amount you get per kill with $(l:bloodmagic:altar/blood_rune/sacrifice_rune)Runes of Sacrifice$(). Different entities give different amounts of LP. Check your configs for more info."
+      "text": "現在你已經有了二階的血之祭壇，我們得找個除獻祭自己的血液外更好的方法。$(item)獻祭匕首$()可以讓你站在離祭壇兩格以內的距離裏殺死怪物（或中立生物）來獲取LP，$(l:bloodmagic:altar/blood_rune/sacrifice_rune)獻祭符文$()更可以提升你獻祭生物所獲得的LP。每種怪物所能獲得的LP不盡相同，詳細情況可以參考config。"
     },
     {
       "type": "crafting_altar",
       "heading": "獻祭刀",
       "recipe": "bloodmagic:altar/daggerofsacrifice",
-      "text": "Slaughtering villagers for fun and profit!"
+      "text": "屠殺村民，有趣又有益！"
     },
     {
       "type": "text",
