@@ -25,10 +25,10 @@ for (let k = 0; k < 1; k++) {
     request(url).pipe(stream).on("close", function () {
         ModList = Array(parse(fs.readFileSync("ModList.json").toString()).files)[0];
         console.log(`準備開始處理模組包語系檔案，全部共有 ${ModList.length - 1} 個模組，開始處理中。`);
-        aaa()
+        Run()
     })
 
-    function aaa() {
+    function Run() {
         for (let i = 0; i < ModList.length; i++) {
             let slug, fileID, fileName;
             CurseForge.getModFiles(ModList[i].projectID).then((files) => {
@@ -40,13 +40,7 @@ for (let k = 0; k < 1; k++) {
                     let data = files[i].minecraft_versions;
                     if (data.includes(config.ver)) {
                         fileID = String(files[i].id);
-                        fileName = String(files[i].download_url.split("https://edge.forgecdn.net/files/")[1].split(`${fileID.substr(0, 4)}/${fileID.substr(4, 7)}/`)[1]);
-                        if (fileName === "undefined") {
-                            fileName = String(files[i].download_url.split("https://edge.forgecdn.net/files/")[1].split(`${fileID.substr(0, 4)}/${fileID.substr(5, 7)}/`)[1]);
-                            if (fileName === "undefined" || fileName == undefined) {
-                                console.log("錯誤" + files[i]);
-                            }
-                        }
+                        fileName = String(files[i].download_url.split("https://edge.forgecdn.net/files/")[1].replace("/", "").split("/")[1]);
                         let test = path.join(ModDirPath, fileName);
                         slug = fileName.split(".jar")[0];
                         try {
