@@ -4,7 +4,7 @@ const request = require("request");
 const config = require(`${process.cwd()}/config.json`)
 const compressing = require('compressing');
 const CurseForge = require("mc-curseforge-api");
-const {GetModID} = require("./Module/GetModID");
+const { GetModID } = require("./Module/GetModID");
 const {
     parse,
 } = require('comment-json')
@@ -36,15 +36,17 @@ for (let k = 0; k < 1; k++) {
                     files = files.reverse();
                     files.sort(function (a, b) {
                         return Date.parse(b.timestamp) - Date.parse(a.timestamp);
-                      });
+                    });
                     let data = files[i].minecraft_versions;
                     if (data.includes(config.ver)) {
                         fileID = String(files[i].id);
                         fileName = String(files[i].download_url.split("https://edge.forgecdn.net/files/")[1].split(`${fileID.substr(0, 4)}/${fileID.substr(4, 7)}/`)[1]);
                         if (fileName === "undefined") {
                             fileName = String(files[i].download_url.split("https://edge.forgecdn.net/files/")[1].split(`${fileID.substr(0, 4)}/${fileID.substr(5, 7)}/`)[1]);
+                            if (fileName === "undefined" || fileName == undefined) {
+                                console.log("錯誤" + files[i]);
+                            }
                         }
-
                         let test = path.join(ModDirPath, fileName);
                         slug = fileName.split(".jar")[0];
                         try {
