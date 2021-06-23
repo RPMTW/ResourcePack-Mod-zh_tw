@@ -115,7 +115,7 @@
     },
     {
       "type": "text",
-      "text": "To upgrade the Blood Altar to Tier 3, place 5 $(item)Blood Runes$() one block down and two blocks away from the previous set of runes along each edge. Then place two blocks (indicated by the $(item)Stone Bricks$()) in each corner, starting above the new ring of runes, and then cap each pillar with $(item)Glowstone Blocks$().$(br)To check that it is successfully upgraded, use a $(l:bloodmagic:alchemy_array/sigil/divination)Divination Sigil$(/l) to check the tier. Note that any non-air block can be used for the pillars below the Glowstone."
+      "text": "要升級你的血之祭壇至第三階，必須再將更多$(item)符石$()圍繞著祭壇放置：在第一層符石外的兩格、下方一格處，每個邊都得擺滿5個符石，然後在每個角落放上兩格高的方塊（在這以$(item)石磚$()作為示範）；最後，將$(item)螢光石()放在角落方塊的頂部上，即完成了三階血之祭壇。$(br)若要確認祭壇是否完成升階，你可以使用$(l:bloodmagic:alchemy_array/sigil/divination)占卜印記$(/l)來確認祭壇的階級。最後提醒，角落的方塊可以用任何一種非透明方塊來代替。"
     },
     {
       "type": "multiblock",
