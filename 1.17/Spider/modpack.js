@@ -5,7 +5,6 @@ const config = require(`${process.cwd()}/config.json`)
 const compressing = require('compressing');
 const CurseForge = require("mc-curseforge-api");
 const {GetModID} = require("./Module/GetModID");
-require('dotenv').config();
 const {
     parse,
 } = require('comment-json')
@@ -21,7 +20,7 @@ if (!fs.existsSync(path.join(__dirname, "../assets"))) {
 
 let ModList;
 for (let k = 0; k < 1; k++) {
-    let url = process.env.ModpackListUrl;
+    let url = config.ModpackListUrl;
     let stream = fs.createWriteStream(path.join("ModList.json"));
     request(url).pipe(stream).on("close", function () {
         ModList = Array(parse(fs.readFileSync("ModList.json").toString()).files)[0];
