@@ -13,11 +13,11 @@
     },
     {
       "type": "text",
-      "text": "The altar also supports the transfer of blood, both to and from an external tank. Simply hook up your fluid pipe of choice and you can store excess blood for later crafts. $(br2)Note that the transfer speed is very slow by default. If you want to speed it up, you'd best look into $(l:bloodmagic:altar/blood_rune/acceleration_rune)Acceleration Runes$() and $(l:bloodmagic:altar/blood_rune/dislocation_rune)Displacement Runes$()."
+      "text": "祭壇同時也支援血液從外部容器的輸入輸出；只需接上液體管線，你就能輕易的取出並儲存多餘的血液，以作為之後的合成所需的血液。$(br2)不過得注意，初始的運輸速度是非常慢的，所以如果你想要讓它快點，你可以考慮使用$(l:bloodmagic:altar/blood_rune/acceleration_rune)促進符文$()或 $(l:bloodmagic:altar/blood_rune/dislocation_rune)轉位符文$()來增進效率。"
     },
     {
       "type": "text",
-      "text": "Don't forget that this blood isn't taken directly from the altar itself, but rather from a second, secret internal tank. This tank can hold up to 10% of the blood that the altar itself can, so if the numbers don't appear to be adding up exactly right, or if blood appears to be vanishing from your altar, this is probably where it's going. The same limitations apply to blood being piped in."
+      "text": "再提醒一次，這些血液並不是直接就從祭壇本身取出的；而是從另一個在祭壇內隱藏的容器取出。這個容器可以儲存祭壇本身容量的10%，所以假如有些數值並沒有完全吻合，很有可能就是因為這而導致的。同樣的情況也會出現在要將血液輸入時。"
     },
     {
       "type": "text",
