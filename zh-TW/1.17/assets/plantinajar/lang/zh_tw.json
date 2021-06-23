@@ -1,6 +1,6 @@
 {
-    "block.plantinajar.plant_jar": "Plant Jar",
-    "text.autoconfig.plantinajar.title": "Plant In A Jar Config",
-    "text.autoconfig.plantinajar.option.dropItems": "丟置物品",
-    "text.autoconfig.plantinajar.option.growthTime": "Growth Cycle Length (Seconds)"
+    "block.plantinajar.plant_jar": "植物溫罐",
+    "text.autoconfig.plantinajar.title": "植物溫罐設定 (Plant In A Jar)",
+    "text.autoconfig.plantinajar.option.dropItems": "是否開啟產出",
+    "text.autoconfig.plantinajar.option.growthTime": "成熟週期（秒）"
 }
