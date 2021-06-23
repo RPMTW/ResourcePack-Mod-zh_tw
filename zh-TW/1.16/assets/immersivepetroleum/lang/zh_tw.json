@@ -101,7 +101,7 @@
     "chat.immersivepetroleum.command.ip.help": "§6用法：/ip <reservoir>§r",
     "chat.immersivepetroleum.command.reservoir.help": "§6用法：/ip reservoir<list | get | set | setAmount | setCapacity>§r",
     "chat.immersivepetroleum.command.reservoir.list.help": "§6用法：/ip reservoir list§r\n列出所有註冊的水庫",
-    "chat.immersivepetroleum.command.reservoir.get.help": "§6用法：/ip reservoir get§r\n顯示塊的存儲庫",
+    "chat.immersivepetroleum.command.reservoir.get.help": "§6用法：/ip reservoir get§r\n顯示塊的儲存庫",
     "chat.immersivepetroleum.command.reservoir.set.help": "§6用法：/ip reservoir set <reservoir>§r\n設置塊的水庫覆蓋。 指定沒有水庫來清除覆蓋。",
     "chat.immersivepetroleum.command.reservoir.setAmount.help": "§6用法：/ip reservoir setAmount <number>§r\n設置塊內剩餘的 mB 流體量。",
     "chat.immersivepetroleum.command.reservoir.setCapacity.help": "§6用法：/ip reservoir setCapacity <number>§r\n設置方塊中流體的最大 mB 量。",
