@@ -7,11 +7,11 @@
   "pages": [
     {
       "type": "text",
-      "text": "A machine used to $(6)chop$() trees and $(6)harvest$() crops. Each operation creates a little bit of $(l:agr_hus/sludge)Sludge$(). $(br2)If the Plant Gatherer begins to harvest a tree within the working area, it will continue to harvest any log or leaves connected to the base log block."
+      "text": "用來$(6)收割$()作物或$(6)砍伐$()樹木的機器，每次進行都會產生小量的汙泥在機器內。$(br2)如果收割機在砍伐一棵位在工作範圍內的樹，那它將會持續砍伐與樹底相接的其他樹葉或原木。"
     },
     {
       "type": "text",
-      "text": "The Plant Gatherer will break crops when harvesting, even when the plant may be harvested by right click."
+      "text": "收割機在採收時會破壞作物，即便那些作物僅需點擊右鍵就能採收。"
     },
     {
       "type": "合成",
