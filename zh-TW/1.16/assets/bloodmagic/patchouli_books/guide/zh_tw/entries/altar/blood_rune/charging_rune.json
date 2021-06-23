@@ -5,7 +5,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "The $(item)Charging Rune$() is a unique Rune upgrade. When the $(l:bloodmagic:altar/blood_altar)Blood Altar$() is not crafting nor filling a $(l:bloodmagic:altar/soul_network)Blood Orb$(), it will syphon LP to charge an internal buffer. When next an item is placed inside of the Blood Altar, it will instantaneously consume the stored charge and apply it to the crafting of the item at a 1:1 ratio."
+      "text": "$(item)充能符文()有它的奇妙之處。當$(l:bloodmagic:altar/blood_altar)血之祭壇$()不在合成階段或灌注$(l:bloodmagic:altar/soul_network)氣血寶珠$()時；$(item)充能符文()將緩慢吸取LP，並充能在符文內。使你若在下次將物品放入$(l:bloodmagic:altar/blood_altar)血之祭壇$()且要合成時，它將會立刻將充能的LP一比一地轉換為合成所需的LP並瞬間注入物品當中。"
     },
     {
       "type": "text",
