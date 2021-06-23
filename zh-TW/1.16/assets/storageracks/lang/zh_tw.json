@@ -61,7 +61,7 @@
     "gui.storageracks.notconnected": "Invalid Placement. Racks must be placed directly connected to a Controller or Rack but without connection to multiple Controllers.",
     "gui.storageracks.limitreached": "Max Rack limit reached for this Controller. Upgrade the Controller to connect more Racks!",
     "gui.storageracks.doublecontroller": "There can only be 1 Controller per Network!",
-    "gui.storageracks.allinventory": "存儲",
+    "gui.storageracks.allinventory": "儲存",
     "gui.storageracks.locating": "Locating...",
     "block.storageracks.controllertoolip": "Supports up to %d Racks"
 }
