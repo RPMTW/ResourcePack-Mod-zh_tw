@@ -23,15 +23,15 @@
   "pages": [
     {
       "type": "text",
-      "text": "The Soul Network is the network that connects the user's soul to all of their bound items and blocks. Functionally, it is a global storage of LP unique to each player that can be added to and extracted from, using the player's bound items as an itermediary. When a player first uses an item that can be bound to a Soul Network, it will bind to the player and will be labeled as being"
+      "text": "魂魄網路是種將玩家的靈魂與其持有的方塊或物品連接的物流系統。單就功能上說，這是一個個人獨立且世界通用的LP存儲系統，只要玩家利用可連通魂魄網路的物品作為媒介，任何人都能從中輸入輸出。當第一次使用可接通上魂魄網路的物品後，該物品就會綁定於玩家身上，而物品敘述上也會"
     },
     {
       "type": "text",
-      "text": "\"owned\" by that player - any action that the item does that has an LP cost will drain from the owner's Soul Network. In some cases, if the item cannot get its LP from the Soul Network, it will instead directly take the LP from the user's health.$(br2)  In order to fill the user's Soul Network the user will need to construct a $(item)Blood Orb$(). Blood orbs suck up LP from either the user when they are right-clicked at a 1 heart:200LP ratio, or by a bound orb"
+      "text": "標註著此物品是被該玩家所擁有——只要這項物品有需要耗費任何LP時，它就會從該玩家的魂魄網路來抽取LP來使用。在一些情況裏，如果無法從網路抽出LP時，它將會轉為直接抽取生命值來轉化為LP。$(br2)為了要魂魄網路注入LP，你得先製造一個$(item)氣血寶珠$()；氣血寶珠會用兩種方法來吸取周遭的LP："
     },
     {
       "type": "text",
-      "text": "being placed inside of a $(l:bloodmagic:altar/blood_altar)Blood Altar$(/l) with LP.$(br2)  There is a separate Blood Orb that can be created for each Tier of the Blood Altar:$(li)$(item)Weak Blood Orb$(), Max capacity: 5k LP.$(li)$(item)Apprentice Blood Orb$(), Max capacity: 25k LP. $(li)$(item)Magician Blood Orb$(), Max capacity: 150k LP.$(li)$(item)Master Blood Orb$(), Max capacity: 1M LP."
+      "text": "如果周遭有一個$(l:bloodmagic:altar/blood_altar)血之祭壇$(/l)存在，那氣血寶珠將會從祭壇吸取LP；否則將以生命：LP = 1：200的比例從生命值扣除。$(br2)這兒還有許多不同種類的氣血寶珠，不過只有跟氣血寶珠同等或更高等級的祭壇才能製造它們：$(li)$(item)孱弱氣血寶珠$()容量：5k LP$(li)$(item)學徒氣血寶珠$()容量：25k LP$(li)$(item)術師氣血寶珠$()容量：150k LP$(li)$(item)大師氣血寶珠$()容量：1M LP"
     },
     {
       "type": "2x_crafting_altar",
