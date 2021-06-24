@@ -184,9 +184,9 @@
     "multiblock.error.biggerreactors.heat_exchanger.coolant_port_unconnected": "All coolant ports must have a connected channel.",
     "multiblock.error.biggerreactors.heat_exchanger.invalid_port_count": "Exactly 4 coolant ports are required.",
     "multiblock.error.biggerreactors.heat_exchanger.missing_channel_type": "At least one evaporator and one condenser channel are required.",
-    "block.biggerreactors.heat_exchanger_computer_port": "Heat Exchanger Computer Port",
-    "block.biggerreactors.heat_exchanger_coolant_port": "Heat Exchanger Coolant Port",
-    "screen.biggerreactors.heat_exchanger_coolant_port": "Heat Exchanger Coolant Port",
+    "block.biggerreactors.heat_exchanger_computer_port": "熱交換器電腦埠",
+    "block.biggerreactors.heat_exchanger_coolant_port": "熱交換器冷卻埠",
+    "screen.biggerreactors.heat_exchanger_coolant_port": "熱交換器冷卻埠",
     "screen.biggerreactors.heat_exchanger_coolant_port.channel_type.condenser": "Channel Connection: §cCondenser",
     "screen.biggerreactors.heat_exchanger_coolant_port.channel_type.evaporator": "Channel Connection: §9Evaporator",
     "screen.biggerreactors.heat_exchanger_coolant_port.direction_toggle.input": "Direction: §cInput",
@@ -200,6 +200,6 @@
     "jei.biggerreactors.classic.reactor_moderator_fluid": "Reactor Moderator Fluids",
     "jei.biggerreactors.classic.reactor_moderator_moderation": "Moderation: %s",
     "jei.biggerreactors.classic.reactor_moderator_absorption": "Absorption: %s",
-    "jei.biggerreactors.classic.reactor_moderator_conductivity": "Heat Conductivity: %s",
-    "jei.biggerreactors.classic.reactor_moderator_efficiency": "Heat Efficiency: %s"
+    "jei.biggerreactors.classic.reactor_moderator_conductivity": "導熱性： %s",
+    "jei.biggerreactors.classic.reactor_moderator_efficiency": "熱效率： %s"
 }
