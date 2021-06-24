@@ -7,12 +7,12 @@
   "pages": [
     {
       "type": "text",
-      "text": "The fluid extractor will extract $(l:basics/latex)latex$() from wood that are placed in front of the machine. Multiple extractors can be used to extract from the same log at the same time. $(br2)The machine will start consuming the log and once consumed it will remove the bark from it and replace it with the stripped variant, once that gets consumed it will disappear. "
+      "text": "流體抽取器將會從機器前方的原木上抽取$(l:basics/latex)latex$()，且一個原木可同時讓多個流體抽取器抽取。 $(br2)The machine will start consuming the log and once consumed it will remove the bark from it and replace it with the stripped variant, once that gets consumed it will disappear. "
     },
     {
       "type": "合成",
       "recipe": "industrialforegoing:fluid_extractor",
-      "text": "$(br2)$(6)Each log will produce different amounts of latex, check JEI for rates. $(6)Power optional: Providing power will make the machine work faster"
+      "text": "$(br2)$(6)每種原木都會產生出不同量的膠乳，可打開JEI來確認詳細的數值$(6)耗費能量(非必需)：若有能量供給則可抽取更加快速。"
     }
   ]
 }
