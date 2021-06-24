@@ -31,7 +31,7 @@
     },
     {
       "type": "crafting_soulforge",
-      "heading": "Shaped Charge",
+      "heading": "範圍意念炸藥",
       "recipe": "bloodmagic:soulforge/shaped_charge",
       "anchor": "shaped_charge",
       "text": "The $(item)Shaped Charge$() will destroy a 5x5x5 cube facing whichever side of a block it lands on, dropping all blocks as though mined with a pickaxe. It even works on Obsidian, and provides a most satisfying $(o)KABOOM$() whilst doing so."
@@ -47,7 +47,7 @@
     },
     {
       "type": "crafting_soulforge",
-      "heading": "Deforester Charge",
+      "heading": "伐林意念炸藥",
       "recipe": "bloodmagic:soulforge/deforester_charge",
       "anchor": "deforester_charge",
       "text": "The $(item)Deforester Charge$() is for felling trees. It can be used on logs or leaves, and will fell all but the mightiest of trees, breaking up to $(item)two stacks$() of logs at a time (and neatly stripping away any leaves it encounters in the process!) Even the giant trees of the Jungle will fall in a matter of seconds."
@@ -63,7 +63,7 @@
     },
     {
       "type": "crafting_soulforge",
-      "heading": "Controlled Charge",
+      "heading": "指定意念炸藥",
       "recipe": "bloodmagic:soulforge/vein_charge",
       "anchor": "controlled_charge",
       "text": "The $(item)Controlled Charge$(), only destroys blocks $(underline)identical to the block it lands on$(). It will destroy up to $(item)Three stacks$() of blocks, seeking out from the original point. As with other charges, all mined blocks will be dropped."
@@ -79,7 +79,7 @@
     },
     {
       "type": "crafting_soulforge",
-      "heading": "Fungal Charge",
+      "heading": "蘑菇意念炸藥",
       "recipe": "bloodmagic:soulforge/fungal_charge",
       "anchor": "fungal_charge",
       "text": "The $(item)Fungal Charge$() is for felling giant mushrooms, both in the Overworld and the Nether. Although doubtful that you will ever reach this in a single charge, it can break up to $(item)three stacks of blocks$()."
