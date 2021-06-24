@@ -218,7 +218,7 @@
     "modularrouters.guiText.tooltip.redstone.LOW": "很少",
     "modularrouters.guiText.tooltip.redstone.NEVER": "永不",
     "modularrouters.guiText.tooltip.redstone.PULSE": "Pulsed",
-    "modularrouters.guiText.tooltip.regulator.label": "%d Item(s)",
+    "modularrouters.guiText.tooltip.regulator.label": "%d 物品",
     "modularrouters.guiText.tooltip.regulator.labelFluidmB": "%d mB",
     "modularrouters.guiText.tooltip.regulator.labelFluidPct": "%d%%",
     "modularrouters.guiText.tooltip.regulatorTooltip": "§bItem Regulation Enabled${br}When inserting: only insert when inventory has fewer than this many of the item.${br}When extracting: only extract if inventory has more than this many of the item.",
