@@ -20,26 +20,26 @@
       "height": 60
     },
     {
-      "type": "物品",
+      "type": "item",
       "item": "bloodmagic:altar",
       "x": 87,
       "y": 46
     },
     {
-      "type": "物品",
+      "type": "item",
       "item": "#input",
       "x": 30,
       "y": 8
     },
     {
-      "type": "物品",
+      "type": "item",
       "item": "#output",
       "x": 87,
       "y": 27
     },
     {
       "type": "text",
-      "text": "Tier: #tier# $(br)LP: #lp#",
+      "text": "階級：#tier#$(br)花費LP：#lp#",
       "x": 59,
       "y": 5
     },
