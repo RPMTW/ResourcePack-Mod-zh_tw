@@ -14,13 +14,13 @@
       "y": 51
     },
     {
-      "type": "物品",
+      "type": "item",
       "item": "#fluid_input",
       "x": 6,
       "y": 26
     },
     {
-      "type": "物品",
+      "type": "item",
       "item": "#fluid_output",
       "x": 94,
       "y": 7
@@ -38,13 +38,13 @@
       "height": 43
     },
     {
-      "type": "物品",
+      "type": "item",
       "item": "bloodmagic:alchemicalreactionchamber",
       "x": 94,
       "y": 26
     },
     {
-      "type": "物品",
+      "type": "item",
       "item": "#input",
       "x": 6,
       "y": 7
@@ -56,13 +56,13 @@
       "y": 26
     },
     {
-      "type": "物品",
+      "type": "item",
       "item": "#output1",
       "x": 56,
       "y": 7
     },
     {
-      "type": "物品",
+      "type": "item",
       "item": "#output2",
       "x": 75,
       "y": 7
@@ -75,7 +75,7 @@
       "y": 6
     },
     {
-      "type": "物品",
+      "type": "item",
       "item": "#output3",
       "x": 56,
       "y": 26
@@ -88,7 +88,7 @@
       "y": 25
     },
     {
-      "type": "物品",
+      "type": "item",
       "item": "#output4",
       "x": 75,
       "y": 26
@@ -104,8 +104,8 @@
       "type": "tooltip",
       "guard": "#show_fluid_tooltip",
       "tooltip": [
-        "Input: #tooltip_fluid_input#",
-        "Output: #tooltip_fluid_output#"
+        "輸入：#tooltip_fluid_input#",
+        "輸出：#tooltip_fluid_output#"
       ],
       "x": 31,
       "y": 7,
