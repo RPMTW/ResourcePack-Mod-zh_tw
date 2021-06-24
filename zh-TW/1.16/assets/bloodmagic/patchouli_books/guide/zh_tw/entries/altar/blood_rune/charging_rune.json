@@ -12,7 +12,7 @@
       "text": "$(l:bloodmagic:altar/blood_altar)血之祭壇$()每20 tick將會為$(item)充能符文()充能，且每個$(l:bloodmagic:altar/blood_rune/acceleration_rune)促進符文$(/l)能減少1 tick的間隔時間。$(br)\n血之祭壇在充能時每tick的充能量(LP)為：$(br)\n10×$(l:bloodmagic:altar/blood_rune/charging_rune)充能符文$()數量×[1+($(l:bloodmagic:altar/blood_rune/speed_rune)速度符文$()數量/10)]$(br)\n每個血之祭壇的最大充能量為1000LP乘上$(item)充能符文$()的數量,，而假如血之祭壇的容量大於20000LP，則還得乘上(血之祭壇容量/20000)的倍率。"
     },
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "bloodmagic:blood_rune_charging"
     }
   ]
