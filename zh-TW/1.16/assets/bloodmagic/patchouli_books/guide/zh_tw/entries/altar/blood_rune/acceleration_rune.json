@@ -5,10 +5,10 @@
   "pages": [
     {
       "type": "text",
-      "text": "$(item)促進符文$()能加快其他符文的速率，正常的$(l:bloodmagic:altar/blood_rune/charging_rune)充能符文$(/l)和$(l:bloodmagic:altar/blood_rune/dislocation_rune)轉位符文$(/l)的效果會每20 tick發動一次，而每一個$(item)促進符文$()就能使它們減少1 tick的間隔，最小間隔為1 tick。"
+      "text": "$(item)促進符文$()能加快其他符文的速率，正常的$(l:bloodmagic:altar/blood_rune/charging_rune)充能符文$(/l)和$(l:bloodmagic:altar/blood_rune/dislocation_rune)轉位符文$(/l)的效果會每20 tick發動一次，而每一個促進符文就能使它們減少1 tick的間隔，最小間隔為1 tick。"
     },
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "bloodmagic:blood_rune_acceleration"
     }
   ]
