@@ -8,7 +8,7 @@
       "text": "每一個$(item)增容符文$()能增加$(l:bloodmagic:altar/blood_altar)血之祭壇$(/l)20%的容量（以累加方式計算）"
     },
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "bloodmagic:blood_rune_capacity"
     }
   ]
