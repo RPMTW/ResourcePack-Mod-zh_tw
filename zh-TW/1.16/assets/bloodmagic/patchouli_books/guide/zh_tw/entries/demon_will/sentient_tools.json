@@ -33,33 +33,33 @@
     },
     {
       "type": "text",
-      "text": "The $(item)Sentient Scythe$() is a slightly different tool to its iron counterpart. Infusing it with will has transmuted it into a fearsone weapon. While slow and not as powerful as the other weapons, its great swings will damage all enemies in its range, making it an excellent choice for crowd control."
+      "text": "　$(item)感知之鐮$()跟它的原料鐵鋤的功用有點不同，惡魔意志的注入使它成為了一把令人聞風散膽的武器；儘管他不像其他武器般的強力又快速，但它巨大的鐮刀將會橫掃範圍內的所有敵人；就是這點使得它成為了把優秀的控場武器。"
     },
     {
       "type": "crafting_soulforge",
       "heading": "感知之鐮",
       "recipe": "bloodmagic:soulforge/sentientscythe",
-      "text": "As with the pickaxe, with no Will to power your scythe, it is comparatively blunt and unwieldy; However, with a full enough $(l:bloodmagic:demon_will/soul_gem)Tartaric Gem$(), you forsee it becoming a devestating tool. $(br)Did we mention that it still functions as a hoe?"
+      "text": "　如同鎬子一樣，少了惡魔意志來強化你的鐮刀，它相較之下使用起來就粗鈍窄小了些；但透過$(l:bloodmagic:demon_will/soul_gem)地獄魂石$()的完全強化，你能預見它將會成為一把破壞性的武器。$(br)　嘿，我們是不是沒提到說它還能像把鋤頭一樣？"
     },
     {
       "type": "text",
-      "text": "Much like the $(item)Sentient Pickaxe$(), the $(item)Sentient Axe$() is a noticable improvement over its Iron counterpart. Additionally, it gets a noticable buff in its damage output, making it a fearsome weapon for those who don't mind its unwieldy nature."
+      "text": "　與$(item)感知之鎬$()相像，$(item)感知之斧$()跟原料鐵斧相比有了顯著的提升；此外，它的輸出傷害也獲得了巨大的提升。對於那些不在意它窄小攻擊範圍的人，成為了令人畏懼的武器。"
     },
     {
       "type": "crafting_soulforge",
       "heading": "感知之斧",
       "recipe": "bloodmagic:soulforge/sentientaxe",
-      "text": "As with the pickaxe, with no Will to power your axe, it is only slightly better than the $(item)Iron Axe$() it was crafted from; However, with a full enough $(l:bloodmagic:demon_will/soul_gem)Tartaric Gem$(), you forsee it surpassing even a $(item)Netherite Axe$()."
+      "text": "　如同鎬子一樣，少了惡魔意志來強化你的斧頭，它只不過比它的原料$(item)鐵斧$()強一點罷了。但經過$(l:bloodmagic:demon_will/soul_gem)地獄魂石$()的完全強化，你甚至能看到它的能力比$(item)獄髓斧$()還厲害。"
     },
     {
       "type": "text",
-      "text": "Much like the $(item)Sentient Pickaxe$(), the $(item)Sentient Shovel$() is a noticable improvement over its Iron counterpart, even without additional $(l:bloodmagic:demon_will/demon_will)Demon Will$() to power it."
+      "text": "　與$(item)感知之鎬$()相像，$(item)感知之鏟$()跟原料鐵鏟相比有了顯著的提升，更不用說你還能用$(l:bloodmagic:demon_will/demon_will)惡魔意志$()去強化它了。"
     },
     {
       "type": "crafting_soulforge",
       "heading": "感知之鏟",
       "recipe": "bloodmagic:soulforge/sentientshovel",
-      "text": "As with the pickaxe, with no Will to power your shovel, it is only slightly better than the $(item)Iron shovel$() it was crafted from; However, with a full enough $(l:bloodmagic:demon_will/soul_gem)Tartaric Gem$(), you forsee it surpassing even a $(item)Netherite Shovel$()."
+      "text": "　如同鎬子一樣，少了惡魔意志來強化你的鏟子，它只不過比它的原料$(item)鐵鏟$()強一點罷了。但經過$(l:bloodmagic:demon_will/soul_gem)地獄魂石$()的完全強化，你甚至能看到它的能力比$(item)獄髓鏟$()還厲害。"
     }
   ]
 }
