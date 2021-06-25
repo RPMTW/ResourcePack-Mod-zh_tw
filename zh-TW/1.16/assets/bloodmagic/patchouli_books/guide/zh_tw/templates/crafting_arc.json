@@ -104,8 +104,8 @@
       "type": "tooltip",
       "guard": "#show_fluid_tooltip",
       "tooltip": [
-        "輸入：#tooltip_fluid_input#",
-        "輸出：#tooltip_fluid_output#"
+        "原料：#tooltip_fluid_input#",
+        "成品：#tooltip_fluid_output#"
       ],
       "x": 31,
       "y": 7,
