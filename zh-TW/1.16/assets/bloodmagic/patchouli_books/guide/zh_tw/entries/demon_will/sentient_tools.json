@@ -1,5 +1,5 @@
 {
-  "name": "Sentient Tools",
+  "name": "感知工具",
   "icon": "bloodmagic:soulpickaxe",
   "category": "bloodmagic:demon_will",
   "extra_recipe_mappings": [
@@ -23,13 +23,13 @@
   "pages": [
     {
       "type": "text",
-      "text": "The $(l:bloodmagic:demon_will/sentient_sword)Sentient Sword$() has proven to be a resounding success. You find yourself wondering how other tools may react to a similar treatment... $(br2) Note that these tools, as with the $(l:bloodmagic:demon_will/sentient_sword)Sentient sword$(), can be repaired with $(l:bloodmagic:demon_will/crystallized_will)Crystallized Will$() in an Anvil."
+      "text": "　你看到了$(l:bloodmagic:demon_will/sentient_sword)感知之劍$()那強大的力量；此時，你不禁好奇說：其他工具如果也能跟感知之劍一樣結合惡魔意志，那效果會如何？$(br2)　還有記得，所有的工具跟$(l:bloodmagic:demon_will/sentient_sword)感知之劍$()一樣，都是可在鐵砧中用$(l:bloodmagic:demon_will/crystallized_will)惡魔意志晶體$()去修復的。"
     },
     {
       "type": "crafting_soulforge",
       "heading": "感知之鎬",
       "recipe": "bloodmagic:soulforge/sentientpickaxe",
-      "text": "This pickaxe improves with Will, cutting through stone with ease. With no Will to power it, it is only slightly better than the $(item)Iron Pickaxe$() it was crafted from; However, with a full enough $(l:bloodmagic:demon_will/soul_gem)Tartaric Gem$(), you forsee it surpassing even a $(item)Netherite Pickaxe$()."
+      "text": "　這把鎬子經過惡魔意志強化，挖石頭可謂是不費吹灰之力；但若少了強化，它只不過比它的原料$(item)鐵鎬$()強一點罷了。經過$(l:bloodmagic:demon_will/soul_gem)地獄魂石$()的完全強化，你甚至能看到它的效率比$(item)獄髓鎬$()還厲害。"
     },
     {
       "type": "text",
