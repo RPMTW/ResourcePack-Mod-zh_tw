@@ -88,8 +88,8 @@
     {
       "type": "tooltip",
       "tooltip": [
-        "耗費LP：#syphon#",
-        "耗費時間：#time# Ticks"
+        "花費LP：#syphon#",
+        "所需時間 : #time# ticks"
       ],
       "x": 69,
       "y": 8,
