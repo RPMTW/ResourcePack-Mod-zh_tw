@@ -1,23 +1,23 @@
 {
-  "name": "Redstone and Automation",
+  "name": "紅石自動化",
   "icon": "minecraft:redstone",
   "category": "bloodmagic:altar",
   "pages": [
     {
       "type": "text",
-      "text": "The $(l:bloodmagic:altar/blood_altar)Blood Altar$() is a fantastic tool, but standing around and waiting for slates to craft is not your idea of a good time. Luckily, items and LP can be automatically piped in and out of the altar, albeit with a few caveats. $(br2)While a simple $(item)Hopper$() lets you pipe items in, the Altar won't stop it from inputting more than 1 at a time. It will happily craft 64 slates in one"
+      "text": "$(l:bloodmagic:altar/blood_altar)血之祭壇$()是項令人驚奇且目不轉睛的道具，但是你總不會想要傻傻佇立在那乾瞪著你的石板完成。幸運的是，物品和LP都可以輕易地經由管線輸出輸入祭壇。不過就算如此，這裡仍有幾點注意事項：$(br2)當原版的$(item)漏斗$()在輸入物品時，它不可能只輸入一個物品進去；換句話說，你很有可能最後會看到祭壇一口氣就合成了一整組的石板"
     },
     {
       "type": "text",
-      "text": "go, consuming 64 times as much LP as usual to do so - but if you can't supply said LP fast enough, you're going to run into trouble. $(br2)Additionally, the altar makes no distinction between input and output, so without some sort of filter, items will be pulled in and out as fast as your item transfer system can handle. Perhaps a look at the Routing Nodes will be helpful... (once they're implemented, that is.)"
+      "text": "出來，並耗費比平時合成時多64倍的LP；假若你無法快速補充那麼多的LP，這就有點麻煩了。$(br2)況且，祭壇並沒有區分出入口。因此，如果少了個能過濾物品的道具，這些東西可能將經由運輸管線高速地反覆輸入輸出。或許你會需要一個管理系統...（如果你有的話）"
     },
     {
       "type": "text",
-      "text": "The altar also supports the transfer of blood, both to and from an external tank. Simply hook up your fluid pipe of choice and you can store excess blood for later crafts. $(br2)Note that the transfer speed is very slow by default. If you want to speed it up, you'd best look into $(l:bloodmagic:altar/blood_rune/acceleration_rune)Acceleration Runes$() and $(l:bloodmagic:altar/blood_rune/dislocation_rune)Displacement Runes$()."
+      "text": "祭壇同時也支援血液從外部容器的輸入輸出；只需接上液體管線，你就能輕易的取出並儲存多餘的血液，以作為之後的合成所需的血液。$(br2)不過得注意，初始的運輸速度是非常慢的，所以如果你想要讓它快點，你可以考慮使用$(l:bloodmagic:altar/blood_rune/acceleration_rune)促進符文$()或 $(l:bloodmagic:altar/blood_rune/dislocation_rune)轉位符文$()來增進效率。"
     },
     {
       "type": "text",
-      "text": "Don't forget that this blood isn't taken directly from the altar itself, but rather from a second, secret internal tank. This tank can hold up to 10% of the blood that the altar itself can, so if the numbers don't appear to be adding up exactly right, or if blood appears to be vanishing from your altar, this is probably where it's going. The same limitations apply to blood being piped in."
+      "text": "再提醒一次，這些血液並非直接從祭壇本身取出的；而是從祭壇裏頭另一個潛藏的容器取出。這個容器可以儲存祭壇本身容量的10%，所以假如有些數值並沒有完全吻合，很有可能就是因為這而導致的。相同的情況也會出現在輸入血液時。"
     },
     {
       "type": "text",

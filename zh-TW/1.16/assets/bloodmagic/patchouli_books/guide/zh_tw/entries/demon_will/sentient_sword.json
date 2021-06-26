@@ -11,13 +11,13 @@
   "pages": [
     {
       "type": "text",
-      "text": "The $(item)Sentient Sword$() is a much more effective tool for collecting $(l:bloodmagic:demon_will/demon_will)Demon Will$() than $(l:bloodmagic:demon_will/soul_snare)Soul Snares$() could ever hope to be. It may seem weak at first, but it is powered by the Wills you carry, so crafting a $(l:bloodmagic:demon_will/soul_gem)Tartaric Gem$() is a must. $(br2) Note that the sword, as with all $(l:bloodmagic:demon_will/sentient_tools)Sentient Tools$(), can be repaired with $(l:bloodmagic:demon_will/crystallized_will)Crystallized Will$() in an Anvil."
+      "text": "　$(item)感知之劍$()是把比$(l:bloodmagic:demon_will/soul_snare)靈魂投網$()能更有效蒐集$(l:bloodmagic:demon_will/demon_will)惡魔意志$()的武器；雖然它第一眼可能看上去很弱，不過它是能夠透過你道具中擁有的意志來增強的，所以合成幾顆$(l:bloodmagic:demon_will/soul_gem)地獄魂石$()是必需的。$(br2)　還有記得，那把劍跟所有的$(l:bloodmagic:demon_will/sentient_tools)感知工具$()一樣，都是可在鐵砧中用$(l:bloodmagic:demon_will/crystallized_will)惡魔意志晶體$()去修復的。"
     },
     {
       "type": "crafting_soulforge",
       "heading": "感知之劍",
       "recipe": "bloodmagic:soulforge/sentientsword",
-      "text": "This sword will serve you well."
+      "text": "這把劍將會好好的服侍你的。"
     }
   ]
 }

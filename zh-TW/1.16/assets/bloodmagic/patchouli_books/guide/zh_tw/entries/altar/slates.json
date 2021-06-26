@@ -1,5 +1,5 @@
 {
-  "name": "Tiers of Slates",
+  "name": "石板的分級",
   "icon": "bloodmagic:blankslate",
   "category": "bloodmagic:altar",
   "extra_recipe_mappings": [
@@ -23,7 +23,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "The $(l:bloodmagic:altar/blood_altar)Blood Altar$(/l)'s main use is the production of $(item)Slates$(). Each tier of slate requires the previous tier and a more powerful altar than the last. $(br2)Note that $(item)Etherial Slates$() aren't currently implemented by default, but may be if you're playing in a modpack. Check JEI for details."
+      "text": "$(l:bloodmagic:altar/blood_altar)血之祭壇$(/l)的一個主要功用就是為了生產$(item)石板$()，每一等級的石板都需要前一等級的石板和更強的祭壇來製作。$(br2)提醒：$(item)懸幽石板$()現在仍未實用；不過如果你在玩模組包，開啟JEI來查看更多詳細的合成資料。"
     },
     {
       "type": "2x_crafting_altar",

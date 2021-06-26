@@ -5,10 +5,10 @@
   "pages": [
     {
       "type": "text",
-      "text": "The $(item)Rune of Self Sacrifice$() increases the LP gained in the Blood Altar through means that use a player's health. Each rune gives a bonus of +10% additively per rune."
+      "text": "$(item)獻祭符文$()提升了獻祭玩家所能獲得的LP，每個符文具有10%的加成。（以累加計算）"
     },
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "bloodmagic:blood_rune_self_sacrifice"
     }
   ]
