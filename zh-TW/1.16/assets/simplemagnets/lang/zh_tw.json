@@ -1,9 +1,9 @@
 {
     "item.simplemagnets.basicmagnet": "磁力",
     "item.simplemagnets.advancedmagnet": "高級磁鐵",
-    "block.simplemagnets.basic_demagnetization_coil": "Demagnetization Coil",
-    "block.simplemagnets.advanced_demagnetization_coil": "Advanced Demagnetization Coil",
-    "simplemagnets.basicmagnet.info": "Can pick up items and xp up to %d blocks away when activated",
+    "block.simplemagnets.basic_demagnetization_coil": "消磁線圈",
+    "block.simplemagnets.advanced_demagnetization_coil": "高級消磁線圈",
+    "simplemagnets.basicmagnet.info": "開啟後可以撿起%d格內的物品和經驗",
     "simplemagnets.advancedmagnet.info": "Can pick up items and xp up to %d blocks away when activated, items can be filtered",
     "simplemagnets.demagnetization_coil.info.no_filter": "Prevents items up to %d blocks away from being attracted by magnets",
     "simplemagnets.demagnetization_coil.info.filtered": "Prevents items up to %d blocks away from being attracted by magnets, items can be filtered",
