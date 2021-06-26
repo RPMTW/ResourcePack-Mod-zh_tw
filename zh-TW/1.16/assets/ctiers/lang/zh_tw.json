@@ -1,5 +1,5 @@
 {
-    "ctiers.left_shift_info": "Hold LEFT SHIFT for Multiblock Features",
+    "ctiers.left_shift_info": "按住左Shift顯示多方塊功能",
     "gui.ctiers.centrifuge_tier_3": "動力離心機 3級",
     "gui.ctiers.centrifuge_tier_4": "動力離心機 4級",
     "gui.ctiers.centrifuge_tier_5": "動力離心機 5級",
@@ -24,7 +24,7 @@
     "block.ctiers.centrifuge_tier_creative.tooltip.multi": "Multiplies the outcome by ",
     "block.ctiers.centrifuge_tier_creative.tooltip.ItemMaxStackSize": "物品最大堆疊數量: ",
     "block.ctiers.centrifuge_tier_creative.tooltip.MaxTankCapacity": "Max Tank Capacity: ",
-    "block.ctiers.centrifuge_tier_creative.tooltip.structure_size": "Centrifuge multiblock size is 3x3x3, consisting of one controller and the rest casings.",
+    "block.ctiers.centrifuge_tier_creative.tooltip.structure_size": "多方塊結構離心機尺寸是 3x3x3， 由一個控制器和其餘的外殼組成。",
     "block.ctiers.centrifuge_controller_tier_3": "離心機控制器 3級",
     "block.ctiers.centrifuge_casing_tier_3": "離心機外殼 3級",
     "block.ctiers.centrifuge_controller_tier_4": "離心機控制器 4級",
@@ -51,5 +51,5 @@
     "advancements.ctiers.centrifuge_casing_tier_creative": "gg, cheater",
     "advancements.ctiers.centrifuge_casing_tier_creative.description": "Centrifuge Casing Tier Creative!",
     "advancements.ctiers.centrifuge_controller_tier_creative": "Last step for the OP Creative Centrifuge, cheater",
-    "advancements.ctiers.centrifuge_controller_tier_creative.description": "Cheat a Centrifuge Controller Tier Creative!"
+    "advancements.ctiers.centrifuge_controller_tier_creative.description": "詐取一個 離心機控制器 創造模式"
 }
