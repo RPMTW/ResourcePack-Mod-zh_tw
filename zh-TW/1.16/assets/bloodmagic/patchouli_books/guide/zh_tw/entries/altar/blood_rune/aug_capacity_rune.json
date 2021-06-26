@@ -1,15 +1,15 @@
 {
-  "name": "Rune of Aug. Capacity",
+  "name": "超容符文",
   "icon": "bloodmagic:bettercapacityrune",
   "category": "bloodmagic:altar/blood_rune",
   "pages": [
     {
       "type": "text",
-      "text": "The $(item)Rune of Augmented Capacity$() increases the capacity of the $(l:bloodmagic:altar/blood_altar)Blood Altar$(/l) by a multiplicative +7.5% per rune. The Augmented Capacity runes apply $(o)after$() the regular $(l:bloodmagic:altar/blood_rune/capacity_rune)Capacity runes$()."
+      "text": "每一個$(item)超容符文$()能給$(l:bloodmagic:altar/blood_altar)血之祭壇$(/l)的容量7.5%的加成（以累乘方式計算），若同時使用超容符文和$(l:bloodmagic:altar/blood_rune/capacity_rune)增容符文$()兩種符文，超容符文的效果計算將$(o)後於$()增容符文的效果"
     },
     {
-      "type": "合成",
-      "title": "Rune of Aug. Capacity",
+      "type": "crafting",
+      "title": "超容符文",
       "recipe": "bloodmagic:blood_rune_aug_capacity"
     }
   ]

@@ -1,27 +1,27 @@
 {
-  "name": "Your First Will",
+  "name": "獲得第一顆惡魔意志",
   "icon": "bloodmagic:soulsnare",
   "category": "bloodmagic:demon_will",
-  "priority": "是",
+  "priority": "true",
   "pages": [
     {
       "type": "crafting_altar",
       "heading": "靈魂投網",
       "recipe": "bloodmagic:altar/soul_snare",
-      "text": "$(item)Soul Snares$() are your gateway into the $(l:bloodmagic:demon_will/demon_will)Demon Will$() portion of $(6)Blood Magic$()."
+      "text": "$(item)靈魂投網$()將會是指引你踏進$(6)血魔法$()中有關$(l:bloodmagic:demon_will/demon_will)惡魔意志$()領域的第一項道具。"
     },
     {
       "type": "text",
-      "text": "Using the Snare is simple enough - craft a good quantity of them, find a hostile mob, and throw Snares at them until white particles appear. Kill them quickly and you should get a $(l:bloodmagic:demon_will/demon_will)Demon Will$(). Before you ask, yes, the Looting enchantment will improve your odds. Once you've gathered a couple, you can get to work on crafting yourself a $(l:bloodmagic:demon_will/sentient_sword)Sentient Sword$() and a $(l:bloodmagic:demon_will/soul_gem)Tartaric Gem$() - these will make collecting $(l:bloodmagic:demon_will/demon_will)Demon Will$() much easier."
+      "text": "使用投網的方式也很簡單，首先，準備足夠的數量；找一隻攻擊型生物（像是苦力怕），然後向它們丟擲投網。只要它們身上開始出現了白色的粒子效果，就盡快的擊殺它們，它們將會掉落$(l:bloodmagic:demon_will/demon_will)惡魔意志$()。在你要開始疑問之前，沒錯，掉落的機率是會受掠奪附魔所影響的。一旦湊齊了兩個，你就能用這些來為你自己合成把$(l:bloodmagic:demon_will/sentient_sword)感知之劍$()和$(l:bloodmagic:demon_will/soul_gem)地獄魂石$()，這兩樣道具可以幫助你更加容易地蒐集$(l:bloodmagic:demon_will/demon_will)惡魔意志$()。"
     },
     {
       "type": "image",
       "images": [
         "bloodmagic:images/entries/demon_will/snare_particles.png"
       ],
-      "title": "Snare on Skeleton",
+      "title": "被靈魂投網砸到的骷髏",
       "border": true,
-      "text": "A skeleton with white particles after hit by a snare."
+      "text": "在被投網砸到之後，骷髏身上散發出了白色的粒子效果。"
     }
   ]
 }

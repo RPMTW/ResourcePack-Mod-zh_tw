@@ -1,5 +1,5 @@
 {
-  "name": "Anointments",
+  "name": "藥水膏",
   "icon": "bloodmagic:melee_anointment",
   "category": "bloodmagic:alchemy_table",
   "extra_recipe_mappings": [
@@ -15,7 +15,7 @@
     },
     {
       "type": "crafting_alchemy_table",
-      "heading": "Slate-infused Vial",
+      "heading": "注魔膏藥瓶",
       "recipe": "bloodmagic:alchemytable/slate_vial",
       "text": "A sturdy Vial that can contain otherwise uncontainable mixtures."
     }

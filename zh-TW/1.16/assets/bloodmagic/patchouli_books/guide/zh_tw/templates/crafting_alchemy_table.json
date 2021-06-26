@@ -38,19 +38,19 @@
       "height": 43
     },
     {
-      "type": "物品",
+      "type": "item",
       "item": "bloodmagic:alchemytable",
       "x": 94,
       "y": 27
     },
     {
-      "type": "物品",
+      "type": "item",
       "item": "#input1",
       "x": 6,
       "y": 8
     },
     {
-      "type": "物品",
+      "type": "item",
       "item": "#input2",
       "x": 25,
       "y": 8
@@ -62,25 +62,25 @@
       "y": 8
     },
     {
-      "type": "物品",
+      "type": "item",
       "item": "#input4",
       "x": 6,
       "y": 27
     },
     {
-      "type": "物品",
+      "type": "item",
       "item": "#input5",
       "x": 25,
       "y": 27
     },
     {
-      "type": "物品",
+      "type": "item",
       "item": "#input6",
       "x": 44,
       "y": 27
     },
     {
-      "type": "物品",
+      "type": "item",
       "item": "#orb",
       "x": 69,
       "y": 27
@@ -88,8 +88,8 @@
     {
       "type": "tooltip",
       "tooltip": [
-        "Cost: #syphon# LP",
-        "Duration: #time# Ticks"
+        "花費LP：#syphon#",
+        "所需時間 : #time# ticks"
       ],
       "x": 69,
       "y": 8,
@@ -103,7 +103,7 @@
       "y": 6
     },
     {
-      "type": "物品",
+      "type": "item",
       "item": "#output",
       "x": 94,
       "y": 8

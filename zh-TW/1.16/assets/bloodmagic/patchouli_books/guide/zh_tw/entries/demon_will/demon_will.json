@@ -11,11 +11,11 @@
   "pages": [
     {
       "type": "text",
-      "text": "Once you have a $(l:bloodmagic:altar/blood_altar)Blood Altar$(), you'll need to gather a few $(item)Demon Wills$(). There are two ways to get Demon Will:$(br)$(li)Killing a mob that has been hit with a $(l:bloodmagic:demon_will/soul_snare)Soul Snare$(/l) and is killed when white particle effects appear.$(li)By killing a hostile mob with a $(l:bloodmagic:demon_will/sentient_sword)Sentient Sword$().$(br)Since you are just beginning to use the mod, you will not yet have a $(l:bloodmagic:demon_will/sentient_sword)Sentient Sword$(),"
+      "text": "　一旦你有了座$(l:bloodmagic:altar/blood_altar)血之祭壇$()之後，你就可以開始蒐集幾顆$(item)惡魔意志$()了。這裡有兩種方式來幫你取得惡魔意志：$(br)$(li)殺掉一隻被被$(l:bloodmagic:demon_will/soul_snare)靈魂投網$(/l) 砸中且正散發出白色粒子效果的怪物。$(li)用$(l:bloodmagic:demon_will/sentient_sword)感知之劍$()殺死一隻攻擊型生物。$(br)由於這個模組你才剛熟悉不久，所以你應該還不會有一把$(l:bloodmagic:demon_will/sentient_sword)感知之劍$()；也就因此，你會需要使用的是$(l:bloodmagic:demon_will/soul_snare)靈魂投網$()。"
     },
     {
       "type": "text",
-      "text": "and thus will need to use a $(l:bloodmagic:demon_will/soul_snare)Soul Snare$(). $(br2)$(item)Demon Will$() is a recurring resource in $(6)Blood Magic$(), and is used to power the $(l:bloodmagic:demon_will/soul_forge)Hellfire Forge$(). $(br2)In the lore of $(6)Blood Magic$(), $(raw)Demon Will$() is the residual effect of when a demon imbues its will into the bodies of the dead."
+      "text": "　$(item)惡魔意志$()是$(6)血魔法$()中會常常用到的一項道具，用來為$(l:bloodmagic:demon_will/soul_forge)獄火熔爐$()提供能量。$(br2)　在$(6)血魔法$()的介紹中，$(raw)惡魔意志$()是當惡魔將自身意念注入屍體後所殘留效果的產物。"
     },
     {
       "type": "image",
@@ -27,7 +27,7 @@
     },
     {
       "type": "text",
-      "text": "Once you have some $(raw)Will$(), you can use it to craft useful tools in the $(l:bloodmagic:demon_will/soul_forge)Hellfire Forge,$(). If you find them cluttering up your inventory, perhaps a $(l:bloodmagic:demon_will/soul_gem)Tartaric Gem$() may help."
+      "text": "　只要你有了些$(raw)惡魔意志$()，你就能使用$(l:bloodmagic:demon_will/soul_forge)獄火熔爐$()來合成一些有用的道具。 如果你覺得那些東西快要塞滿你的整個背包，或許$(l:bloodmagic:demon_will/soul_gem)地獄魂石$()能幫上你的忙。"
     }
   ]
 }

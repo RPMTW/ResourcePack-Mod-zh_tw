@@ -1,5 +1,5 @@
 {
-  "name": "Sewage (Bucket)",
+  "name": "汙水桶",
   "icon": "industrialforegoing:sewage_bucket",
   "category": "agriculture_husbandry",
   "sortnum": 13,
@@ -7,7 +7,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "The fluid produced by the $(l:agr_hus/sewer)Sewer$(). You don't want to know about it."
+      "text": "由$(l:agr_hus/sewer)動物排汙器$()所產生的一種液體，你不會想知道的。"
     }
   ]
 }

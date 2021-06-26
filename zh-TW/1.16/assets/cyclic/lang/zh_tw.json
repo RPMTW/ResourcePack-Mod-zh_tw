@@ -114,7 +114,7 @@
     "block.cyclic.conveyor.guide": "移動所有站在上面的實體.此方塊有許多屬性儲存在方塊狀態內，如種類，速度，和著色.種類包含直線，轉角，和上/下傾斜.要切換種類，放在世界上然後在已放置的軌道上使用另一個軌道.",
     "block.cyclic.conveyor.guide0": "拿著紅石火把使用切換速度.拿著染料使用切換顏色.這些更新會連動到附近連接的軌道.(打開F3查看這些詳細的狀態)",
     "block.cyclic.ender_shelf": "終界書架",
-    "block.cyclic.ender_shelf.tooltip": "多方塊的附魔存儲",
+    "block.cyclic.ender_shelf.tooltip": "多方塊的附魔儲存",
     "block.cyclic.ender_shelf.guide": "可以獨立使用，也可以與至少一個$(l:blocks/ender_controller)終界書架控制器$(/l)一起作為多方塊結構的一部分使用.每個書架有五個插槽，可右擊一本附魔書存入.",
     "block.cyclic.ender_shelf.guide0": "附魔書必須剛好有一個附魔才能放入.必要時使用$(l:machines/disenchanter)祛魔台$(/l)把書降至一個附魔.",
     "block.cyclic.ender_controller": "終界書架控制器",

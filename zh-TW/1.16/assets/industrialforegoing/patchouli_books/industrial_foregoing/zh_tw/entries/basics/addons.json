@@ -1,5 +1,5 @@
 {
-  "name": "Addons",
+  "name": "附加元件",
   "icon": "industrialforegoing:range_addon11",
   "category": "basics",
   "sortnum": 5,
@@ -9,19 +9,19 @@
       "type": "spotlight",
       "item": "industrialforegoing:range_addon11",
       "title": "範圍",
-      "text": "Increase the range of machines that have a working area, not all machines accept range addons. Each tier increases the range by 1."
+      "text": "提升機器的工作範圍，並非所有的機器都能套用附加元件。每提升一級將為範圍增加一格。"
     },
     {
       "type": "spotlight",
       "item": "industrialforegoing:speed_addon_2",
-      "title": "速度",
-      "text": "Increase how much the progress bar advances every tick. $(br2)Tier 1 -> +1$(br)Tier 2 -> +2"
+      "title": "加速",
+      "text": "提升每tick所增加的進度條，如：$(br2)1級加速 -> +1進度/每tick$(br)2級加速 -> +2進度/每tick"
     },
     {
       "type": "spotlight",
       "item": "industrialforegoing:efficiency_addon_2",
       "title": "效率",
-      "text": "Decreases the amount of ticks need to complete an operation. $(br2)Tier 1 -> -10%$(br)Tier 2 -> -20%"
+      "text": "減少每次運作所需要的時間，$(br2)1階效率 -> -10%所需時間$(br)2階效率 -> -20%所需時間"
     }
   ]
 }

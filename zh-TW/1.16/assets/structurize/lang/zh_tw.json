@@ -105,7 +105,7 @@
     "structurize.config.maxoperationspertick": "每筆最大操作數",
     "structurize.config.maxoperationspertick.comment": "每區塊最大的世界操作數（可放置，移除或替換的最大方塊數）",
     "structurize.config.windowcachecap": "GUI視窗最大快取",
-    "structurize.config.windowcachecap.comment": "設定要存儲的解析GUI視窗檔案的最大數量，以便加速載入。",
+    "structurize.config.windowcachecap.comment": "設定要儲存的解析GUI視窗檔案的最大數量，以便加速載入。",
     "structurize.gui.buildtool.creative_only": "結構化在生存模式下不支援使用建造工具。切換到創造模式或安裝MineColonies並使用MineColonies Builder。",
     "structurize.gui.buildtool.unexpecteddatafixer": "檢測到無效的數據修補器! 可能出現副作用! 檢查日誌以取得更多資訊",
     "structurize.gui.replaceblock.ambiguous_properties": "從%s到%s的轉換是不明確的，因為原始方塊中不存在以下屬性：%s。",

@@ -1,5 +1,5 @@
 {
-  "name": "Meat (Bucket)",
+  "name": "肉醬桶",
   "icon": "industrialforegoing:meat_bucket",
   "category": "agriculture_husbandry",
   "sortnum": 10,
@@ -7,7 +7,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "A fluid produced by the $(l:agr_hus/mob_slaughter_factory)Mob Slaughter Factory$()."
+      "text": "$(l:agr_hus/mob_slaughter_factory)屠宰場$()所產出的一種液體。"
     }
   ]
 }
