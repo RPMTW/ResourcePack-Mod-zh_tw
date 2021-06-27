@@ -1,6 +1,6 @@
 {
     "block.artifality.artifact_upgrader": "Artifact Upgrader",
-    "block.artifality.artifact_upgrader.description": "Allows you to upgrade your artifact,\nfill with 2 Incremental Blocks to\nupgrade to tier 2, or with\nNether Star for tier 3.",
+    "block.artifality.artifact_upgrader.description": "Allows you to upgrade your artifact,\nfill with 3 Incremental Blocks to\nupgrade to tier 2, or with\nNether Star for tier 3.",
     "block.artifality.crystal_heart_block": "Crystal Heart Block",
     "block.artifality.crystal_heart_cluster": "Crystal Heart Cluster",
     "block.artifality.crystal_heart_glass": "Crystal Heart Glass",
@@ -39,5 +39,6 @@
     "misc.artifality.description": "Description:",
     "misc.artifality.max_level": "Max Level:",
     "misc.artifality.press_shift": "<Press Shift>",
-    "misc.artifality.tier": "Tier"
+    "misc.artifality.tier": "Tier",
+    "item.artifality.forest_staff": "Forest Staff [WIP]"
 }
