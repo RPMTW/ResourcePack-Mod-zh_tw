@@ -379,5 +379,13 @@
     "item.minecraft.splash_potion.effect.hogsbane": "Splash Potion of Hogsbane",
     "item.minecraft.tipped_arrow.effect.hogsbane": "Arrow of Hogsbane",
     "totem.charm.preserving.item": "Preserving one item",
-    "totem.charm.preserving.items": "Preserving %s items"
+    "totem.charm.preserving.items": "Preserving %s items",
+    "advancements.charm.destroy_item_with_lava_bucket.title": "Hot Tub",
+    "advancements.charm.destroy_item_with_lava_bucket.description": "Drop an item onto a lava bucket to destroy the item",
+    "advancements.charm.fire_item.title": "你正在燃燒",
+    "advancements.charm.fire_item.description": "使用窯爐高效燒製玻璃或黏土",
+    "item.minecraft.lingering_potion.effect.piercing_vision": "Lingering Potion of Piercing Vision",
+    "item.minecraft.potion.effect.piercing_vision": "Potion of Piercing Vision",
+    "item.minecraft.splash_potion.effect.piercing_vision": "Splash Potion of Piercing Vision",
+    "item.minecraft.tipped_arrow.effect.piercing_vision": "Arrow of Piercing Vision"
 }
