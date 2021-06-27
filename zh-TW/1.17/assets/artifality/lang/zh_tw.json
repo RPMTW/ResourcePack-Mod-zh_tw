@@ -1,6 +1,6 @@
 {
     "block.artifality.artifact_upgrader": "文物升級器",
-    "block.artifality.artifact_upgrader.description": "可以讓你升級神器，\n用2個增量方塊填充以升級到2級。\n升級到第二層，\n或者用地獄之星升級到3級。",
+    "block.artifality.artifact_upgrader.description": "Allows you to upgrade your artifact,\nfill with 3 Incremental Blocks to\nupgrade to tier 2, or with\nNether Star for tier 3.",
     "block.artifality.crystal_heart_block": "水晶心方塊",
     "block.artifality.crystal_heart_cluster": "水晶心簇",
     "block.artifality.crystal_heart_glass": "水晶心玻璃",
@@ -39,5 +39,6 @@
     "misc.artifality.description": "說明:",
     "misc.artifality.max_level": "最大等級:",
     "misc.artifality.press_shift": "<Press Shift>",
-    "misc.artifality.tier": "能量等級"
+    "misc.artifality.tier": "能量等級",
+    "item.artifality.forest_staff": "Forest Staff [WIP]"
 }
