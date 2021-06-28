@@ -1,7 +1,7 @@
 {
     "_comment": "雜項",
     "block.thuttech.controller": "電梯控制方塊",
-    "item.thuttech.lift": "電梯",
+    "item.thuttech.lift": "電梯元件",
     "item.thuttech.linker": "電梯遙控器",
     "item.thuttech.linker.linked": "裝置連結器（已連結）",
     "msg.liftSet": "電梯綁定到連結器了",
@@ -13,9 +13,9 @@
     "msg.lift.owner": "這台電梯屬於%s的",
     "msg.lift.create": "建立電梯成功。",
     "msg.lift.fail": "建立電梯失敗。",
-    "msg.lift.setcorner": "Set first corner of the Elevator to %s",
+    "msg.lift.setcorner": "設定電梯的第一個角落為%s",
     "msg.lift.toobig": "你不能將電梯做的那麼大。",
-    "msg.lift.noblock": "You need to have %s Elevator blocks in your inventory to make an Elevator of this size.",
+    "msg.lift.noblock": "你需要%s個電梯元件，才能在這建立這種大小的電梯。",
     "msg.lift.reset": "重新建立電梯",
     "msg.lift.side.on": "Side is ON",
     "msg.lift.side.off": "Side is OFF",
@@ -24,6 +24,6 @@
     "msg.lift.side.call": "設定至呼叫畫面",
     "msg.lift.side.display": "設定至顯示面板",
     "msg.linker.reset": "重設電梯遙控器",
-    "ttinfobook.json": "{pages:[\"[\\\"\\\",{\\\"text\\\":\\\"Welcome the ThutTech Manual.\\\",\\\"color\\\":\\\"dark_green\\\"},{\\\"text\\\":\\\"\\\\n\\\\nThe following pages will describe how to create and operate an elevator system.\\\",\\\"color\\\":\\\"none\\\"}]\",\"[\\\"\\\",{\\\"text\\\":\\\"Getting Started\\\",\\\"color\\\":\\\"dark_green\\\"},{\\\"text\\\":\\\"\\\\n\\\\nThe first thing you will need to do, is craft several Elevator Blocks, Two or more Elevator Control Blocks, and a Device Linker.\\\",\\\"color\\\":\\\"none\\\"}]\",\"[\\\"\\\",{\\\"text\\\":\\\"To start with, build the structure which you want to convert into the Elevator.\\\\n\\\\nThen right click the first corner of it with your Device Linker, It should get outlined in \\\"},{\\\"text\\\":\\\"red\\\",\\\"color\\\":\\\"red\\\"}]\",\"[\\\"\\\",{\\\"text\\\":\\\"Next, sneak and right click the other corner, the selected red box will be converted into the Elevator.\\\\n\\\\nIf you do not have enough Elevator blocks, it will fail to create, and will tell you how many you need.\\\"}]\",\"[\\\"\\\",{\\\"text\\\":\\\"Next Shift-Right-Click the elevator with the Device Linker.  This will bind the linker to the Elevator.\\\\n\\\\nIf you wish to remove the Elevator, shift right click it with a stick, and it will convert back into the blocks it was made from.\\\"}]\",\"[\\\"\\\",{\\\"text\\\":\\\"Next place the Control Blocks.\\\\n\\\\nThe Control Blocks need to be placed 2 blocks above where the Elevator should stop.\\\\n\\\\nRight click the face of the block that you want buttons on with the Device Linker.\\\"}]\",\"[\\\"\\\",{\\\"text\\\":\\\"Right clicking again with the Linker will cycle through the 4 different pages of buttons.\\\\n\\\\nIf you right click the face with a stick, it will toggle that face on and off.\\\"}]\",\"[\\\"\\\",{\\\"text\\\":\\\"Control Blocks which are physically touching will be linked to the same floor.\\\\n\\\\nYou can make a Controller block into a call controller by shift right clicking the face with an unlinked Device Linker.\\\"}]\",\"[\\\"\\\",{\\\"text\\\":\\\"To actually Link the Elevator to the block, shift right click the number you want that floor to be with the Device Linker, and that block will be assigned as that floor.\\\"}]\",\"[\\\"\\\",{\\\"text\\\":\\\"To then use, right click the required floor with empty hand, or any item that is not the Device Linker or Stick.\\\"}]\",\"[\\\"\\\",{\\\"text\\\":\\\"You may also put chests or Controller Blocks in your Elevator.\\\\n\\\\nIf you place a controller block in it, make sure to enable the face before creating the Elevator.\\\"}]\",\"[\\\"\\\",{\\\"text\\\":\\\"The Control Block is compatible with OpenComputers, and has the following Methods available:\\\\n\\\\nsetFloor(number)\\\\ngetFloor(number)\\\\ncallFloor(number)\\\\ncall(X/Y/Z)Value(number)\\\\nget(X/Y/Z)Value()\\\\ngetFloorYValue(number)\\\"}]\"],title:\"ThutTech Manual\",author:Thutmose}",
+    "ttinfobook.json": "{pages:[\"[\\\"\\\",{\\\"text\\\":\\\"歡迎翻閱圖特電梯指南。\\\",\\\"color\\\":\\\"dark_green\\\"},{\\\"text\\\":\\\"\\\\n\\\\n接下來的幾頁將會一步一步的指導你如何建立及管理一套電梯系統。\\\",\\\"color\\\":\\\"none\\\"}]\",\"[\\\"\\\",{\\\"text\\\":\\\"入門教學：\\\",\\\"color\\\":\\\"dark_green\\\"},{\\\"text\\\":\\\"\\\\n\\\\n你需要做的第一件事就是備齊幾個電梯方塊、兩三個電梯控制方塊，以及一台電梯遙控器；\",\\\"color\\\":\\\"none\\\"}]\",\"[\\\"\\\",{\\\"text\\\":\\\"之後，第一個步驟，先蓋出你想要讓它成為電梯的結構。\\\\n\\\\n然後對著想要的第一個角落拿著電梯遙控器按下右鍵，圈選區域將會被蒙上一層框線； \\\"},{\\\"text\\\":\\\"red\\\",\\\"color\\\":\\\"red\\\"}]\",\"[\\\"\\\",{\\\"text\\\":\\\"再來對著第二個角落，用同樣的方式按下潛行鍵+右鍵，框選的紅色區域將會被轉換成電梯\\\\n\\\\n如果沒有足夠的電梯原料，將會顯示建立失敗的提示，並告訴你應該需要多少的數量，\\\"}]\",\"[\\\"\\\",{\\\"text\\\":\\\"再來持著遙控器對建立好的電梯按潛行鍵+右鍵，遙控器將會對電梯進行「綁定」。\\\\n\\\\n如果你想要移除這台電梯，可以手持著木棒對電梯按潛行鍵+右鍵，電梯的區域將會恢復原樣；\\\"}]\",\"[\\\"\\\",{\\\"text\\\":\\\"再來，放置一個電梯控制方塊。\\\\n\\\\n電梯會停在電梯控制方塊放置的下面兩格處。\\\\n\\\\n拿著遙控器，對著你想它成為電梯面板的那面按下右鍵，\\\"}]\",\"[\\\"\\\",{\\\"text\\\":\\\"再次按下則會在電梯樓層四頁的介面之間切換。\\\\n\\\\n如果是拿著木棒對著控制器的六面按下，將會切換面板的開啟或關閉。\\\"}]\",\"[\\\"\\\",{\\\"text\\\":\\\"相鄰的電梯控制方塊將會被視為同一層樓。\\\\n\\\\n你可以拿未連接的遙控器對控制器按下潛行鍵+右鍵，它將會改變為呼叫畫面。\\\"}]\",\"[\\\"\\\",{\\\"text\\\":\\\"要真正的將電梯與控制器所在的樓層連接起來，你需要拿著遙控器，對樓層介面中要設定的樓層數字按下潛行鍵+右鍵；這樣那層樓將會被分配到所設定的樓層。\\\"}]\",\"[\\\"\\\",{\\\"text\\\":\\\"如果需要使用，對著介面上你想要到達的樓層，空手使用或拿著任何物品（除了木棍和遙控器除外）按下右鍵。\\\"}]\",\"[\\\"\\\",{\\\"text\\\":\\\"你也可以在電梯裡放上箱子或控制器。\\\\n\\\\n如果想要放置控制器再電梯裏，請先確認控制器的介面是否開啟。\\\"}]\",\"[\\\"\\\",{\\\"text\\\":\\\"此外，本模組有支援OpenComputers模組，並可以使用以下的代碼：\\\\n\\\\nsetFloor(number)\\\\ngetFloor(number)\\\\ncallFloor(number)\\\\ncall(X/Y/Z)Value(number)\\\\nget(X/Y/Z)Value()\\\\ngetFloorYValue(number)\\\"}]\"],title:\"圖特電梯指南\",author:Thutmose}",
     "entity.thuttech.lift": "電梯"
 }
