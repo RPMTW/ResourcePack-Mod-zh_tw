@@ -298,7 +298,7 @@
     "mod.chiselsandbits.config.client.performance.max-drawn-region.comment": "Configuration which maximize drawing regions",
     "mod.chiselsandbits.config.client.performance.max-drawn-region.size": "Rendering: Max hit box distance",
     "mod.chiselsandbits.config.client.performance.max-drawn-region.size.comment": "The max hit box size of a chiselable region. Bigger requires more performance and more memory.",
-    "mod.chiselsandbits.config.client.performance.lighting": "Lighting",
+    "mod.chiselsandbits.config.client.performance.lighting": "亮度",
     "mod.chiselsandbits.config.client.performance.lighting.comment": "Lighting related performance configuration.",
     "mod.chiselsandbits.config.client.performance.lighting.face-lightmap-extraction": "Performance: Light-Map extraction",
     "mod.chiselsandbits.config.client.performance.lighting.face-lightmap-extraction.comment": "When enabled dynamic model generation extracts light map data from the models face data.",
