@@ -1,11 +1,11 @@
 {
-  "name": "Soft Fall",
+  "name": "緩降",
   "icon": "minecraft:feather",
   "category": "bloodmagic:alchemy_array/living_equipment/armor_upgrades",
   "pages": [
     {
       "type": "text",
-      "text": "Effect: Reduces fall damage, up to complete immunity. $(br2)Trained by: Getting hurt from falls. $(br2)Maximum level: 5"
+      "text": "效果：減少墜落損傷，達到完全免疫力。\n $(br2)訓練： 從跌倒中受傷。 \n$(br2)最高級別： 5"
     }
   ]
 }
