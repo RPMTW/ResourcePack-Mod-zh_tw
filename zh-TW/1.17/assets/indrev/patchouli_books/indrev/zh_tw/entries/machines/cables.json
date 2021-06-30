@@ -1,0 +1,22 @@
+{
+  "name": "電纜",
+  "category": "indrev:machines",
+  "sortnum": 2,
+  "icon": "indrev:cable_mk1",
+  "pages": [
+    {
+      "type": "text",
+      "text": "這些機器用於遠距能量傳輸"
+    },
+    {
+      "type": "crafting",
+      "recipe": "indrev:shaped/cable_mk1",
+      "recipe2": "indrev:shaped/cable_mk2"
+    },
+    {
+      "type": "crafting",
+      "recipe": "indrev:shaped/cable_mk3",
+      "recipe2": "indrev:shaped/cable_mk4"
+    }
+  ]
+}
