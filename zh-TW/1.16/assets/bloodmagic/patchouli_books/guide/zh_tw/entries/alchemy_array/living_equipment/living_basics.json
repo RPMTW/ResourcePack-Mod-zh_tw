@@ -12,23 +12,23 @@
   "pages": [
     {
       "type": "text",
-      "text": "若要製造 $(item)束靈裝備$()，首先需要準備 $(item)鐵製裝備$()或 $(item)Iron Armo$()，如果您偏好)，部分$(l：magmagic:alchemy_array/functional_arrays/arcane_ash)Ar杖 Ash$()，以及部分 $(item)Binding Reagent$()。 您還需要至少 $(br)$(l:bloodmagic:demon_will/soul_gem)Common Tartaric Gem$()，以保留需要的 $(item)Demon Will$()。"
+      "text": "若要製造 $(item)束靈裝備$()，首先需要準備 $(item)鐵質盔甲$()或 $(item)Iron Armo$()，如果您偏好)，一些$(l：magmagic:alchemy_array/functional_arrays/arcane_ash)奧術粉灰$()，以及部分 $(item)束縛試劑$()。 您還需要至少 $(br)$(l:bloodmagic:demon_will/soul_gem)［普通］地獄魂石$()，以保留需要的 $(item)惡魔意志$()。"
     },
     {
       "type": "crafting_alchemy_table",
       "heading": "束縛試劑",
       "recipe": "bloodmagic:alchemytable/reagent_binding",
-      "text": "$(italic)It clings to me tightly...$()"
+      "text": "$(italic)它緊緊地抱住著我。。。"
     },
     {
       "type": "text",
-      "text": "as with any other Alchemy Array, right click the top of the ground with the $(item)Arcane Ashes$() and apply the $(item)Binding Reagent$(). Then place in your $(item)Iron Helmet$(), $(item)Iron Chestplate$(), $(item)Iron Leggings$() or $(item)Iron Boots$(), stand back, and watch the show.$(br2) Living Equipment starts off equivalent to Iron, but it has $(item)Upgrade Points$() that can, with care, be spent to train it in specific ways. It starts with 100, but there may be ways to surpass this limitation..."
+      "text": "與任何其他 鍊金陣列一樣，用 $(item)奧術粉灰$()按一下地面的頂端，並添加 $(item)束縛試劑$()。 然後放入您的 $(item)鐵製頭盔$()、 $(item)鐵製胸甲$()、 $(item)鐵製護腿$()或 $(item)鐵製靴子$()，退後，並觀賞他的變化。\n$(br2) 束靈裝備相當於鐵的開始，但它有 $(item)升級點數$()，可以用關懷的方式，用特定的方式來訓練它。 起始於 100，但可能有辦法超越這個限制..."
     },
     {
       "type": "crafting_array",
-      "heading": "Ritual of Binding",
+      "heading": "束靈儀式",
       "recipe": "bloodmagic:array/living_helmet",
-      "text": "It's alive, all right... and it's learning from me. I'd best be careful what I teach it. $(br2)I can keep a closer eye on what it's learned so far by holding shift when I look at it."
+      "text": "它是活的，好的 ... 而且它向我學習。\n我最好小心的選擇教它什麼。 \n$(br2)按住SHIFT的時候，可以看到它到底學到了什麼。"
     }
   ]
 }
