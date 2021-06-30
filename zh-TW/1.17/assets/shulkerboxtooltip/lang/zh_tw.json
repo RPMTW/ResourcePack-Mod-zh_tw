@@ -28,8 +28,8 @@
     "text.autoconfig.shulkerboxtooltip.option.preview.serverIntegration.tooltip": "如果開啟，單人端將試圖傳送封包至伺服器\n以允許看到更多的預覽資訊\n如終界箱的內容物資訊。",
     "text.autoconfig.shulkerboxtooltip.option.preview.theme": "主題",
     "text.autoconfig.shulkerboxtooltip.option.preview.theme.tooltip": "The theme to use for preview windows.\nModded Auto:\n ShulkerBoxTooltip's style using the dark mode setting from LibGui,\n defaults to light theme is not present.\nModded Light:\n ShulkerBoxTooltip's style with vanilla colors.\nModded Dark:\n ShulkeBoxTooltip's style with gray preview windows instead of white.\nVanilla:\n Mimics the style of vanilla bundle previews.\n",
-    "text.autoconfig.shulkerboxtooltip.option.preview.shortItemCounts": "Abreviate large item counts",
-    "text.autoconfig.shulkerboxtooltip.option.preview.shortItemCounts.tooltip": "If on, large item counts in compact previews will be shortened",
+    "text.autoconfig.shulkerboxtooltip.option.preview.shortItemCounts": "Abbreviate large item counts",
+    "text.autoconfig.shulkerboxtooltip.option.preview.shortItemCounts.tooltip": "If on, large item counts in compact previews will be shortened.",
     "text.autoconfig.shulkerboxtooltip.option.tooltip.lootTableInfoType": "Loot Table Info Type",
     "text.autoconfig.shulkerboxtooltip.option.tooltip.lootTableInfoType.tooltip": "Shows info about the current loot table of the item if present.\nVisible only when Tooltip Type is set to Modded.\nHide:\n No loot table info, default.\nSimple:\n Displays whether the stack uses a loot table.\nAdvanced:\n Shows the loot table used by the item.",
     "text.autoconfig.shulkerboxtooltip.option.tooltip.showKeyHints": "Show Key Hints",
@@ -63,5 +63,11 @@
     "shulkerboxtooltip.enderChestSyncType.none": "無",
     "shulkerboxtooltip.enderChestSyncType.active": "啟動",
     "shulkerboxtooltip.enderChestSyncType.passive": "被動",
-    "shulkerboxtooltip.config.validator.greater_than_zero": "數字必須大於 0"
+    "shulkerboxtooltip.config.validator.greater_than_zero": "數字必須大於 0",
+    "text.autoconfig.shulkerboxtooltip.option.preview.position": "Window Position",
+    "text.autoconfig.shulkerboxtooltip.option.preview.position.tooltip": "The position of the preview window.\nInside:\n Inside the item's tooltip.\nOutside:\n Outside the item's tooltip, moves dependening on the screen borders.\nOutside (top):\n Always at the top of the item's tooltip.\nOutside (bottom):\n Always at the bottom of the item's tooltip.",
+    "shulkerboxtooltip.preview_position.inside": "內部",
+    "shulkerboxtooltip.preview_position.outside": "Outside",
+    "shulkerboxtooltip.preview_position.outside_top": "Outside (top)",
+    "shulkerboxtooltip.preview_position.outside_bottom": "Outside (bottom)"
 }
