@@ -1,0 +1,13 @@
+{
+  "name": "錘子",
+  "category": "indrev:tools",
+  "sortnum": 0,
+  "icon": "indrev:hammer",
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "indrev:shaped/hammer",
+      "text": "在你還沒有壓縮機時的打板工具。"
+    }
+  ]
+}
