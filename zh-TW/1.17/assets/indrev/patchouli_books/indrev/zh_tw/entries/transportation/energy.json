@@ -1,0 +1,22 @@
+{
+  "name": "能量",
+  "category": "indrev:transportation",
+  "sortnum": 0,
+  "icon": "indrev:cable_mk1",
+  "pages": [
+    {
+      "type": "text",
+      "text": "線纜可用於在彼此相距很遠的機器之間傳輸電源。$(br)不同線纜有不同的傳輸功率，按下 Shift 以顯示。$(br)如果您的機器能量不足，您可以嘗試升級線纜或增加發電量。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "indrev:shaped/cable_mk1",
+      "recipe2": "indrev:shaped/cable_mk2"
+    },
+    {
+      "type": "crafting",
+      "recipe": "indrev:shaped/cable_mk3",
+      "recipe2": "indrev:shaped/cable_mk4"
+    }
+  ]
+}
