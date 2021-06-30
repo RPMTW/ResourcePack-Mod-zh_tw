@@ -1,0 +1,22 @@
+{
+  "name": "青金石通量容器",
+  "category": "indrev:machines",
+  "sortnum": 3,
+  "icon": "indrev:lazuli_flux_container_mk1",
+  "pages": [
+    {
+      "type": "text",
+      "text": "這些機器用於儲存青晶石通量。$(br) 側邊標有藍色和橙色的箭頭。藍色箭頭為能量輸入，而橙色箭頭為能量輸出。您可以在配置模式下使用扳手配置這些箭頭。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "indrev:shaped/lazuli_flux_container_mk1",
+      "recipe2": "indrev:shaped/lazuli_flux_container_mk2"
+    },
+    {
+      "type": "crafting",
+      "recipe": "indrev:shaped/lazuli_flux_container_mk3",
+      "recipe2": "indrev:shaped/lazuli_flux_container_mk4"
+    }
+  ]
+}
