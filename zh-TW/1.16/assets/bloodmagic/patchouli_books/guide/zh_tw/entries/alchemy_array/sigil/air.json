@@ -15,7 +15,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "Throws you in the direction you're facing, at a cost of 50 LP per use. Note that this does not provide any sort of Feather Falling effect, so be careful when landing! A good way to get around quickly, albeit with some risk. Many an unwary mage has met their end by running out of LP in their $(l:bloodmagic:altar/soul_network)Soul Network$() while flying miles above the countryside."
+      "text": "將您扔向您所面對的方向，\n每次使用成本為 50 LP。\n請注意，這不提供任何類型的緩降效果，\n所以著陸時要小心！\n快速四處走動的好方法，\n儘管存在一些風險。\n許多不謹慎的法師在鄉村上空飛行數英里時，用完了在$(l:bloodmagic:altar/soul_network)靈魂網路$()裡的LP。"
     },
     {
       "type": "crafting_2-step_sigil",
@@ -23,7 +23,7 @@
       "alchemy_table.recipe": "bloodmagic:alchemytable/reagent_air",
       "array.heading": "風之印記",
       "array.recipe": "bloodmagic:array/airsigil",
-      "array.text": "$(italic)I feel lighter already..."
+      "array.text": "$(italic)我感到輕松多了..."
     }
   ]
 }
