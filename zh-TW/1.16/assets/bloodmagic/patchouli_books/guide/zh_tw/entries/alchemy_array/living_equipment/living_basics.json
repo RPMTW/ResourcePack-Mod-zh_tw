@@ -1,5 +1,5 @@
 {
-  "name": "Living Equipment Basics",
+  "name": "束靈裝備基礎知識",
   "icon": "bloodmagic:reagentbinding",
   "priority": "是",
   "category": "bloodmagic:alchemy_array/living_equipment",
@@ -12,7 +12,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "To create $(item)Living Equipment$(), you will first need $(item)Iron Armor$() (or $(item)Iron Armour$(), if you prefer), some $(l:bloodmagic:alchemy_array/functional_arrays/arcane_ash)Arcane Ash$(), and some $(item)Binding Reagent$(). You'll also need at least a $(br)$(l:bloodmagic:demon_will/soul_gem)Common Tartaric Gem$() in order to hold the $(item)Demon Will$() required."
+      "text": "若要製造 $(item)束靈裝備$()，首先需要準備 $(item)鐵製裝備$()或 $(item)Iron Armo$()，如果您偏好)，部分$(l：magmagic:alchemy_array/functional_arrays/arcane_ash)Ar杖 Ash$()，以及部分 $(item)Binding Reagent$()。 您還需要至少 $(br)$(l:bloodmagic:demon_will/soul_gem)Common Tartaric Gem$()，以保留需要的 $(item)Demon Will$()。"
     },
     {
       "type": "crafting_alchemy_table",
