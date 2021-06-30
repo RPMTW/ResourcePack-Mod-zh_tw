@@ -1,6 +1,6 @@
 {
   "name": "印記",
-  "description": "$(item)Sigils$() are formed using an $(l:bloodmagic:alchemy_array/crafting_array)Alchemy Array$(), some form of $(item)Reagent$() and a $(l:bloodmagic:altar/slates)Slate$(). They draw LP from your $(altar/soul_network)Soul Network$() in order to perform all sorts of useful tasks.",
+  "description": "$(item)印記$() 是使用 $(l:bloodmagic:alchemy_array/crafting_array)鍊金矩陣$()，\n以某種類型的 $(item)試劑$()和 $(l:bloodmagic:altar/slates)石板組成$()。\n 他們會從您的 $(altar/sol_network)靈魂網路$()中繪製 LP ，以執行各種有用的作業。",
   "icon": "bloodmagic:divinationsigil",
   "parent": "bloodmagic:alchemy_array",
   "sortnum": 1
