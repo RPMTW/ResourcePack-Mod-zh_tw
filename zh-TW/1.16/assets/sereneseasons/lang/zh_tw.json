@@ -1,5 +1,5 @@
 {
-    "commands.sereneseasons.usage": "/sereneseasons <get/set> [args]",
+    "commands.sereneseasons.usage": "/sereneseasons <getseason/setseason> [參數]",
     "commands.sereneseasons.getseason.success": "目前季節為%s：第%s/%s天，第%s/%s刻",
     "commands.sereneseasons.setseason.success": "季節已設定為%s",
     "commands.sereneseasons.setseason.fail": "季節%s無效",
