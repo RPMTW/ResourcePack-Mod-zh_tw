@@ -1,5 +1,5 @@
 {
-  "name": "Living Equipment Upgrades",
+  "name": "束靈裝備升級",
   "icon": "bloodmagic:upgradetome",
   "priority": true,
   "category": "bloodmagic:alchemy_array/living_equipment",
@@ -12,11 +12,11 @@
   "pages": [
     {
       "type": "text",
-      "text": "While wearing this new armour, you have felt it growing, trying to assist you with various tasks it has seen you perform. $(br2)It seems to be able to perform in a number of areas, but its growth is limited, and trying to do everything at once is quite fruitless."
+      "text": "穿上這件新盔甲時，你感覺到它正在成長，\n試圖説明你完成它看到你執行的各種任務。\n $(br2)它能在很多領域有所表現，但成長是有限的，\n所已重複太多次是徒勞無功的。"
     },
     {
       "type": "text",
-      "text": "Perhaps multiple specialised sets may be a good idea? Of course, you'll have to train it carefully if you want more than a smattering of poorly-directed benefits. $(br2)Fortunately, you have devised a $(l:rituals/ritual_list/ritual_upgrade_remove)Ritual$() that will assist with training, and $(l:rituals/ritual_list/ritual_armour_evolve)another one$() that will imbue your armour with a greater ability to grow."
+      "text": "也許多種專精可能是一個好主意？當然，如果你不想獲得教育失敗的缺陷，你必須小心的訓練它。 $(br2)幸運的是，你設計了一個$(l:rituals/ritual_list/ritual_upgrade_remove)儀式$() 將協助訓練，和$(l:rituals/ritual_list/ritual_armour_evolve)另一個$()將注入你的盔甲與更大的能力成長。"
     }
   ]
 }
