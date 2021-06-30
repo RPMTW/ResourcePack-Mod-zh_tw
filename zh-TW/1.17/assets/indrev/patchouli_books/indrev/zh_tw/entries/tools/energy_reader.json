@@ -1,0 +1,13 @@
+{
+  "name": "能量示數器",
+  "category": "indrev:tools",
+  "sortnum": 3,
+  "icon": "indrev:energy_reader",
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "indrev:shaped/energy_reader",
+      "text": "提供你目前在機器中儲存能量的資訊，某些機器也會顯示能量消耗速度。"
+    }
+  ]
+}
