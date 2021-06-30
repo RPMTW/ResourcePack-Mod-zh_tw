@@ -232,7 +232,7 @@
     "config.roughlyenoughitems.syntaxHighlightingMode.config": "%s",
     "config.roughlyenoughitems.syntaxHighlightingMode.plain": "普通",
     "config.roughlyenoughitems.syntaxHighlightingMode.plain_underscored": "Plain (Underscored)",
-    "config.roughlyenoughitems.syntaxHighlightingMode.colorful": "Colorful",
+    "config.roughlyenoughitems.syntaxHighlightingMode.colorful": "彩色",
     "config.roughlyenoughitems.syntaxHighlightingMode.colorful_underscored": "Colorful (Underscored)",
     "config.roughlyenoughitems.filteringScreen": "自訂篩選",
     "config.roughlyenoughitems.filteringRulesScreen": "自訂篩選條件",
@@ -260,5 +260,5 @@
     "language.roughlyenoughitems.bulgarian": "Bulgarian",
     "language.roughlyenoughitems.russian": "Russian",
     "language.roughlyenoughitems.polish": "Polish",
-    "config.roughlyenoughitems.keyBindings.previousScreenKeybind": "Previous Screen:"
+    "config.roughlyenoughitems.keyBindings.previousScreenKeybind": "前一個畫面："
 }
