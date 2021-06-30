@@ -17,16 +17,16 @@ async function LangFile(ModID, slug, id, name) {
     /*
     Patchouli 手冊自動添加解析器
     */
-    let PatchouliDir = path.join(__dirname, `${process.cwd()}/../jar/${slug}/data/${ModID}/patchouli_books/`)
+    let PatchouliDir = `${process.cwd()}/../jar/${slug}/data/${ModID}/patchouli_books/`
     if (fs.existsSync(PatchouliDir)) {
         let DirName = fs.readdirSync(PatchouliDir).toString().split("\n");
         for (let i = 0; i < DirName.length; i++) {
-            let BookDir = path.join(__dirname, `${process.cwd()}/../jar/${slug}/data/${ModID}/patchouli_books/${DirName[i]}/en_us`)
+            let BookDir = `${process.cwd()}/../jar/${slug}/data/${ModID}/patchouli_books/${DirName[i]}/en_us`;
             if (fs.existsSync(BookDir)) {
                 if (!fs.existsSync(`${process.cwd()}/../assets/${ModID}/patchouli_books`)) {
-                    fs.mkdirSync(path.join(__dirname, `${process.cwd()}/../assets/${ModID}/patchouli_books`));
-                    fs.mkdirSync(path.join(__dirname, `${process.cwd()}/../assets/${ModID}/patchouli_books/${DirName[i]}`));
-                    fs.mkdirSync(path.join(__dirname, `${process.cwd()}/../assets/${ModID}/patchouli_books/${DirName[i]}/zh_tw`));
+                    fs.mkdirSync(`${process.cwd()}/../assets/${ModID}/patchouli_books`);
+                    fs.mkdirSync(`${process.cwd()}/../assets/${ModID}/patchouli_books/${DirName[i]}`);
+                    fs.mkdirSync(`${process.cwd()}/../assets/${ModID}/patchouli_books/${DirName[i]}/zh_tw`);
                 }
                 await CopyDir(BookDir, `${process.cwd()}/../assets/${ModID}/patchouli_books/${DirName[i]}/zh_tw`);
                 console.log(`複製完成 Patchouli 手冊檔案 (${ModID})`)
