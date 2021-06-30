@@ -120,7 +120,7 @@
     "text.autoconfig.fallingtree.option.tools.preserve.@Tooltip[0]": "當啟用時，如果工具在砍伐時即將損壞，",
     "text.autoconfig.fallingtree.option.tools.preserve.@Tooltip[1]": "在為工具保留1點耐久值的前提下盡量，",
     "text.autoconfig.fallingtree.option.tools.preserve.@Tooltip[2]": "破壞樹木。",
-    "text.autoconfig.fallingtree.option.tools.ignoreTools": "Ignore tool",
+    "text.autoconfig.fallingtree.option.tools.ignoreTools": "忽略工具",
     "text.autoconfig.fallingtree.option.tools.ignoreTools.@Tooltip[0]": "當啟用時，不論你手持什麼工具(或只是赤手空拳也好)，",
     "text.autoconfig.fallingtree.option.tools.ignoreTools.@Tooltip[1]": "都會使用本模組的功能。",
     "text.autoconfig.fallingtree.option.tools.ignoreTools.@Tooltip[2]": "",
@@ -151,8 +151,8 @@
     "text.autoconfig.fallingtree.option.tools.speedMultiplicand.@Tooltip[14]": "否則玩家可能會遇到不能破壞方塊的恐性BUG。",
     "chat.fallingtree.tree_too_big": "這棵樹太大了，你不能一次性把它砍下來(最大：%d)",
     "chat.fallingtree.prevented_break_tool": "你的工具快要損壞了, 快點去修理一下或找一把新的工具吧",
-    "text.autoconfig.fallingtree.option.trees.maxScanSize": "Max scan size",
-    "text.autoconfig.fallingtree.option.trees.maxScanSize.@Tooltip[0]": "The maximum number of blocks that",
+    "text.autoconfig.fallingtree.option.trees.maxScanSize": "最大掃描大小",
+    "text.autoconfig.fallingtree.option.trees.maxScanSize.@Tooltip[0]": "該方塊最大的數量",
     "text.autoconfig.fallingtree.option.trees.maxScanSize.@Tooltip[1]": "should be scanned of a tree. If there's more",
     "text.autoconfig.fallingtree.option.trees.maxScanSize.@Tooltip[2]": "此值的原木，則不能直接砍伐。",
     "text.autoconfig.fallingtree.option.trees.maxSizeAction": "Max size action",
@@ -171,5 +171,5 @@
     "text.autoconfig.fallingtree.option.trees.instantlyBreakWarts.@Tooltip[0]": "啟用時本模組能作用於",
     "text.autoconfig.fallingtree.option.trees.instantlyBreakWarts.@Tooltip[1]": "be broken instantly",
     "text.autoconfig.fallingtree.option.trees.instantlyBreakWarts.@Tooltip[2]": "",
-    "text.autoconfig.fallingtree.option.trees.instantlyBreakWarts.@Tooltip[3]": "INFO: Only in SHIFT_DOWN mode"
+    "text.autoconfig.fallingtree.option.trees.instantlyBreakWarts.@Tooltip[3]": "資訊：僅在SHIFT_DOWN模式下"
 }
