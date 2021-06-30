@@ -9,6 +9,11 @@ const CopyDir = require('./CopyDir').CopyDir;
 
 async function LangFile(ModID, slug, id, name) {
     if (config.Blacklist_modId.includes(ModID)) return; //黑名單(模組ID)
+    
+        if (!fs.existsSync(`${process.cwd()}/../assets/${ModID}`)) {
+        fs.mkdirSync(`${process.cwd()}/../assets/${ModID}`);
+    }
+    
     /*
     Patchouli 手冊自動添加解析器
     */
@@ -30,9 +35,6 @@ async function LangFile(ModID, slug, id, name) {
     }
     if (!fs.existsSync(`${process.cwd()}/../jar/${slug}/assets/${ModID}/lang/en_us.json`)) return;
 
-    if (!fs.existsSync(`${process.cwd()}/../assets/${ModID}`)) {
-        fs.mkdirSync(`${process.cwd()}/../assets/${ModID}`);
-    }
     if (!fs.existsSync(`${process.cwd()}/../assets/${ModID}/lang`)) {
         fs.mkdirSync(`${process.cwd()}/../assets/${ModID}/lang`);
     }
