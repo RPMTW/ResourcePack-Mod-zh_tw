@@ -64,9 +64,9 @@
     "item.slotlink.remote.info": "連接到 (%d, %d, %d) 在 %s",
     "item.slotlink.remote.linked": "成功連接到 (%d, %d, %d) 在 %s",
     "item.slotlink.limited_remote": "限制儲存遙控器",
-    "item.slotlink.limited_remote.tooltip": "Remote that works from 512 meters away.",
-    "item.slotlink.unlimited_remote": "Unlimited Storage Remote",
-    "item.slotlink.unlimited_remote.tooltip": "Remote that works on any distance on same dimension",
-    "item.slotlink.multi_dim_remote": "Multi Dimensional Remote",
-    "item.slotlink.multi_dim_remote.tooltip": "Remote that works on any distance on any dimension"
+    "item.slotlink.limited_remote.tooltip": "在512米外控制該工作。",
+    "item.slotlink.unlimited_remote": "無線儲存遙控器",
+    "item.slotlink.unlimited_remote.tooltip": "在同一個維度的任何距離控制該工作",
+    "item.slotlink.multi_dim_remote": "多維度控制器",
+    "item.slotlink.multi_dim_remote.tooltip": "在任何維度內的任何距離控制該工作"
 }
