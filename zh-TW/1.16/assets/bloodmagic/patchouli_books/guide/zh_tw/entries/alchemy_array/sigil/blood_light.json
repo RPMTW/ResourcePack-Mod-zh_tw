@@ -15,7 +15,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "The $(item)Sigil of the Blood Lamp$() is a handy tool for any miner, dungeon delver, or simply any Blood Mage that doesn't like dark patches and feels that torches and glowstone blocks get in the way. When used, this sigil launches a Blood Light in the direction you are facing. When it hits a block, it spawns a nearly-invisible light source at a cost of 10LP."
+      "text": " $(item)血光印記$()對於任何礦工、地牢挖掘者\n或任何不喜歡黑暗處但覺得火把和熒石塊擋路的\n血法師來說，它都是一個方便的工具。\n\n使用時，這種印記會朝您面對的方向發射血光。\n當它擊中一個方塊時，它以10LP的成本生成一個\n幾乎看不見的光源。"
     },
     {
       "type": "crafting_2-step_sigil",
