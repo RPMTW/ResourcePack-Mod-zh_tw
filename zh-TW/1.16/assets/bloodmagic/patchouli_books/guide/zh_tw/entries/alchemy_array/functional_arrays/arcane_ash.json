@@ -20,7 +20,7 @@
     },
     {
       "type": "text",
-      "text": "In order to create an Alchemy Array, right click the top of the ground with the $(item)Arcane Ashes$() (although any solid block face works) - this will consume 1 durability out of 20 from the $(item)Arcane Ashes$() and draw a simple Alchemy Array, that by itself has no effects.$(bl2)When you click on the Alchemy Array, it will consume a single item from the stack in your hand and hold it in the array. These items are then used to determine the Alchemy Array's effect."
+      "text": "為了創建煉金矩陣，只需持 $(item)Arcane Ashes$()右擊地面頂部（雖然任何實心方塊面都有效） - 這將消耗 20 個 $(item)Arcane Ashes$() 中的 1 個耐久度，並繪製一個簡單的煉金矩陣，這本身沒有效果。$(bl2)當您按一下煉金矩陣時，它會消耗您手中的物品，並在矩陣中保留它。並且，這些物品將用於確定煉金矩陣的效果。"
     },
     {
       "type": "image",
@@ -35,7 +35,7 @@
     },
     {
       "type": "text",
-      "text": "Each effect requires two items: a base and a catalyst. The base is the first item that you click the array with after it is drawn, and the catalyst is the second item. When you apply the input, the design of the array will change if it is valid, and the array will start activating once you apply the catalyst.$(br2)Although only a few arrays are currently implemented, eventually you will have arrays that range from simple $(l:bloodmagic:alchemy_array/crafting_array)crafting arrays$(/l) to even teleportation arrays."
+      "text": "每次鍊金都需要兩個項目：一個基礎和一個催化劑。 \n基礎是你在繪製矩陣之後放入的第一樣物品，而第二樣為催化劑。\n當你放入時，矩陣的外觀會改變，如果它是有效的，則矩陣將在你放入催化劑後開始啟動。\n$(br2)儘管目前只實現了幾個陣列，但最終您將擁有從簡單$(l:bloodmagic:alchemy_array/crafting_array)crafting arrays$(/l)一路甚至傳送的矩陣。"
     }
   ]
 }
