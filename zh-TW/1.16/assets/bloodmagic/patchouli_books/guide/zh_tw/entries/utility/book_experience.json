@@ -8,7 +8,7 @@
       "text": "這本$(item)經驗典籍$() 可讓你安全的儲存經驗質\n $(br2)Shift + 右鍵 儲存一個等級。 \n右鍵 retrieves a level。\n長按右鍵 儲存/ retrive 多個等級。"
     },
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "bloodmagic:experience_tome"
     }
   ]
