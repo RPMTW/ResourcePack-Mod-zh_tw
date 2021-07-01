@@ -255,7 +255,7 @@
     "tetra.stats.overpower_revenge.tooltip_extended": "Entities that have recently attacked you are considered to be revenge targets, a hud indicator appears when looking at a revenge target while wielding an item capable of revenge. Using an ability that leverages revenge resets the revenge status for affected targets. All revenge targets are reset after not being attacked for 30 seconds.",
     "tetra.stats.reap_revenge.tooltip": "Reap deals §e%s%% (%s)§r more damage to revenge targets\n \n§rReap grants §e+1§r attack damage per kill for §e20§r seconds, the duration is increased by §e%s§r seconds per killed revenge target",
     "tetra.stats.reap_revenge.tooltip_extended": "Entities that have recently attacked you are considered to be revenge targets, a hud indicator appears when looking at a revenge target while wielding an item capable of revenge. Using an ability that leverages revenge resets the revenge status for affected targets. All revenge targets are reset after not being attacked for 30 seconds.",
-    "tetra.stats.ability_echo": "Echo",
+    "tetra.stats.ability_echo": "回聲",
     "tetra.stats.lunge_echo.tooltip": "Lunge can be used §e%s§r additional times while midair to extend the distance or change direction",
     "tetra.stats.lunge_echo.tooltip_extended": "Hold shift/crouch to dodge backwards midair, use space/jump instead of right-click for increased upward motion",
     "tetra.stats.execute_echo.tooltip": "The target is struck again after 3 seconds, dealing damage based on the target's missing health and harmful effects",
