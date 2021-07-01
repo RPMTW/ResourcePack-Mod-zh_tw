@@ -1,7 +1,7 @@
 {
   "name": "印記",
   "description": "$(item)印記$() 是使用 $(l:bloodmagic:alchemy_array/crafting_array)鍊金矩陣$()，\n以某種類型的 $(item)試劑$()和 $(l:bloodmagic:altar/slates)石板組成$()。\n 他們會從您的 $(altar/sol_network)靈魂網路$()中繪製 LP ，以執行各種有用的作業。",
-  "icon": "bloodmagic:divinationsigil",
-  "parent": "bloodmagic:alchemy_array",
+  "icon": "血魔法：占卜印記",
+  "parent": "血魔法:煉金矩陣",
   "sortnum": 1
 }
