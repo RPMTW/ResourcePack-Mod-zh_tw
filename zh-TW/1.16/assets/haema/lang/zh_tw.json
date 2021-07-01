@@ -93,9 +93,9 @@
   "text.autoconfig.haema.option.vampireHudPlacement": "Vampire HUD placement",
   "text.autoconfig.haema.option.vampireShaderEnabled": "啟用吸血鬼著色器",
   "text.autoconfig.haema.option.brightAdjust": "吸血鬼視覺亮度強度",
-  "text.autoconfig.haema.option.brightAdjust.@Tooltip": "0 = no brightness boost. 1 = default brightness boost.",
+  "text.autoconfig.haema.option.brightAdjust.@Tooltip": "0 = 無亮度提升。 1 = 預設亮度提升。",
   "text.autoconfig.haema.option.distortionAdjust": "Vampire Dash distortion strength",
   "text.autoconfig.haema.option.distortionAdjust.@Tooltip": "0 = no distortion. 1 = default distortion. This multiplies with the vanilla 'Distortion Effects' setting.",
-  "text.autoconfig.haema.option.saturationAdjust": "Vampire Vision saturation effect strength",
-  "text.autoconfig.haema.option.saturationAdjust.@Tooltip": "0 = no saturation change. 1 = default vampire saturation change."
+  "text.autoconfig.haema.option.saturationAdjust": "吸血鬼視覺飽食度效果強度",
+  "text.autoconfig.haema.option.saturationAdjust.@Tooltip": "0 = 無飽食度變化。 1 = 預設吸血鬼飽食度變化。"
 }
