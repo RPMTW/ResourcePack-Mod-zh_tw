@@ -1,7 +1,7 @@
 {
-  "name": "Day/Night Arrays",
-  "icon": "minecraft:clock",
-  "category": "bloodmagic:alchemy_array/functional_array",
+  "name": "日/夜陣列",
+  "icon": "minecraft：時鐘",
+  "category": "血魔法：煉金矩陣/functional_array\n",
   "pages": [
     {
       "type": "text",
@@ -13,7 +13,7 @@
       "a.recipe": "bloodmagic:array/day",
       "a.image": "sunarray.png",
       "b.heading": "True Twilight",
-      "b.recipe": "bloodmagic:array/night",
+      "b.recipe": "血魔法：矩陣/夜",
       "b.image": "moonarray.png"
     }
   ]
