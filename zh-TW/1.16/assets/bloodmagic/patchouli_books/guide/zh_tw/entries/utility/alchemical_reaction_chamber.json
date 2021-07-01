@@ -70,7 +70,7 @@
       "text": "The $(item)Alchemical Reaction Chamber$() isn't fully implemented yet, but among other things it can function as a furnace, offers a form of ore-tripling, revert Blood Orbs, and is currently the only way to get $(item)Weak Blood Shards$(), specifically from an $(l:bloodmagic:altar/slates)Imbued Slate$()."
     },
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "bloodmagic:arc"
     },
     {
@@ -142,7 +142,7 @@
       "b.recipe": "bloodmagic:arc/dustsfrom_ore_iron"
     },
     {
-      "type": "合成",
+      "type": "crafting",
       "heading": "Fuel Cell (Furnace)",
       "recipe": "bloodmagic:primitive_furnace_cell",
       "text": "The ARC also functions as a Furnace, but the only fuel sources it accepts is the $(item)Primitive Fuel Cell$() or $(l:bloodmagic:utility/lava_crystal)Lava Crystal$(/l)."
@@ -152,7 +152,7 @@
       "text": "The Primitive Fuel Cell is good for 128 individual uses. That's more than the Block of Coal used to craft it (60 items), and since it only loses durability when the crafting is finished it will not wase fuel."
     },
     {
-      "type": "合成",
+      "type": "crafting",
       "heading": "Hydration Cell",
       "recipe": "bloodmagic:primitive_hydration_cell",
       "text": "The Hydration Cell is used to make Clay, the Cornerstone of Balance."
