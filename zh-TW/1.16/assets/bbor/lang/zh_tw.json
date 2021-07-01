@@ -78,7 +78,7 @@
     "bbor.commands.spawningSphere.set": "Spawning sphere set",
     "bbor.commands.spawningSphere.notSet": "No spawning sphere set",
     "bbor.commands.spawningSphere.cleared": "Spawning sphere cleared",
-    "bbor.commands.spawningSphere.calculated": "Calculated %s spawnable spaces (%s only at night)",
+    "bbor.commands.spawningSphere.calculated": "計算 %s 可產生空間 (%s 儘在夜晚)",
     "bbor.renderer.spawningSphere.spawnable": "可生成:",
     "bbor.renderer.spawningSphere.none": "無"
 }
