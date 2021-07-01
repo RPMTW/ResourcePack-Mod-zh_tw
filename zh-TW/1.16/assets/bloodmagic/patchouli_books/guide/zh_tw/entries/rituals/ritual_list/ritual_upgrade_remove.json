@@ -1,6 +1,6 @@
 {
   "name": "凈靈之音",
-  "icon": "血魔法：升級卷",
+  "icon": "bloodmagic:upgradetome",
   "category": "bloodmagic:rituals/ritual_list",
   "pages": [
     {
@@ -65,7 +65,7 @@
           ]
         ],
         "mapping": {
-          "0": "血魔法：主儀式石",
+          "0": "bloodmagic:masterritualstone",
           "W": "bloodmagic:waterritualstone",
           "A": "bloodmagic:airritualstone",
           "F": "bloodmagic:fireritualstone",
