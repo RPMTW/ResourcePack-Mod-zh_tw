@@ -47,14 +47,14 @@
     "text.autoconfig.dontdropit.option.favorites.items": "物品 IDs",
     "text.autoconfig.dontdropit.option.favorites.items.@Tooltip": "Items of these types will be favored.",
     "text.autoconfig.dontdropit.option.favorites.enchantments.@PrefixText": "附魔",
-    "text.autoconfig.dontdropit.option.favorites.enchantments": "Enchantment IDs",
+    "text.autoconfig.dontdropit.option.favorites.enchantments": "附魔 IDs",
     "text.autoconfig.dontdropit.option.favorites.enchantments.@Tooltip": "Items with these enchantments will be favored.",
-    "text.autoconfig.dontdropit.option.favorites.enchIgnoreInvalidTargets": "Ignore Invalid Targets",
+    "text.autoconfig.dontdropit.option.favorites.enchIgnoreInvalidTargets": "拒絕無效目標",
     "text.autoconfig.dontdropit.option.favorites.enchIgnoreInvalidTargets.@Tooltip[0]": "If enabled, items which have favored enchantments",
     "text.autoconfig.dontdropit.option.favorites.enchIgnoreInvalidTargets.@Tooltip[1]": "that cannot be applied to said items",
     "text.autoconfig.dontdropit.option.favorites.enchIgnoreInvalidTargets.@Tooltip[2]": "will not be seen as favored.",
     "text.autoconfig.dontdropit.option.favorites.tags.@PrefixText": "物品標籤",
-    "text.autoconfig.dontdropit.option.favorites.tags": "Item Tag IDs",
+    "text.autoconfig.dontdropit.option.favorites.tags": "物品標籤 IDs",
     "text.autoconfig.dontdropit.option.favorites.tags.@Tooltip[0]": "Items that are contained in any of these tags",
     "text.autoconfig.dontdropit.option.favorites.tags.@Tooltip[1]": "will be favored."
 }
