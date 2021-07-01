@@ -1,10 +1,10 @@
 {
   "name": "占卜印記",
-  "icon": "血魔法：占卜印記",
+  "icon": "bloodmagic:divinationsigil",
   "category": "bloodmagic:alchemy_array/sigil",
   "extra_recipe_mappings": [
     [
-      "血魔法：占卜印記",
+      "bloodmagic:divinationsigil",
       1
     ]
   ],
@@ -30,7 +30,7 @@
     },
     {
       "type": "text",
-      "text": "占卜印記有兩個主要用途：$(br)$(li)當玩家用印記在空中右擊時，它將顯示所有者$(l:bloodmagic:altar/soul_network)靈魂網絡中的LP數量。$(/l)$(li)點擊$(l:bloodmagic:altar/blood_altar)血之祭壇$(/l)時，會告訴玩家該祭壇目前等級，在祭壇中儲存的LP數量，以及它當前的最大容量。\n手上有個 $(item)占卜印記$() 在其他應用上也很有幫助，但這將在後面介紹。"
+      "text": "占卜印記有兩個主要用途：$(br)$(li)當玩家用印記在空中右擊時，它將顯示所有者$(l:bloodmagic:altar/soul_network)靈魂網絡中的LP數量。$(/l)$(li)點擊$(l:bloodmagic:altar/blood_altar)血之祭壇$(/l)時，會告訴玩家該祭壇目前等級，在祭壇中儲存的LP數量，以及它目前的最大容量。\n手上有個 $(item)占卜印記$() 在其他應用上也很有幫助，但這將在後面介紹。"
     }
   ]
 }
