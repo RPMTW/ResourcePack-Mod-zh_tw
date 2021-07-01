@@ -5,14 +5,14 @@
   "pages": [
     {
       "type": "text",
-      "text": "The Movement Arrays are a pair of arrays that thows players, mobs, items, etc in a specific direction.  One will throw the items horizontally, while the other will throw them vertically."
+      "text": "「位移矩陣」是往特定方向的一對矩陣，用於將玩家、生物、物品等朝指定方向移動。 一個會水平投擲物品，而另一個會垂直投擲。"
     },
     {
       "type": "2x_functional_array",
-      "a.heading": "Speed Array",
+      "a.heading": "推進矩陣",
       "a.recipe": "bloodmagic:array/movement",
       "a.image": "movementarray.png",
-      "b.heading": "Updraft Array",
+      "b.heading": "上升矩陣",
       "b.recipe": "bloodmagic:array/updraft",
       "b.image": "updraftarray.png"
     }
