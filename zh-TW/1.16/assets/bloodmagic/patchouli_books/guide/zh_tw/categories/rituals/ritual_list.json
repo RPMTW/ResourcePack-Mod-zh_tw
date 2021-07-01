@@ -1,6 +1,6 @@
 {
   "name": "儀式目錄",
   "description": "Some simpler $(item)rituals$() will be available to you when you have a Tier III $(l:bloodmagic:altar/blood_altar)Blood Altar$(), but the more advanced ones will require Dusk Runes, and thus a Tier IV Altar. $(br2) Use the $(l:bloodmagic:rituals/ritual_diviner)Ritual Diviner$() to assemble the rituals, and don't forget to keep your $(l:bloodmagic:altar/soul_network)Soul Network$() topped off!",
-  "icon": "血魔法：主儀式石",
-  "parent": "血魔法：儀式"
+  "icon": "bloodmagic:masterritualstone",
+  "parent": "bloodmagic:rituals"
 }
