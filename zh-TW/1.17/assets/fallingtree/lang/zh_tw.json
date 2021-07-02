@@ -163,13 +163,13 @@
     "text.autoconfig.fallingtree.option.trees.breakOrder": "分段順序",
     "text.autoconfig.fallingtree.option.trees.breakOrder.@Tooltip[0]": "樹以何種順序被破壞。",
     "text.autoconfig.fallingtree.option.trees.breakOrder.@Tooltip[1]": "這僅在 最大大小 < 最大掃描大小 時才有意義。",
-    "text.autoconfig.fallingtree.option.trees.breakOrder.@Tooltip[2]": "FURTHEST_FIRST: The furthest log will be broken first.",
-    "text.autoconfig.fallingtree.option.trees.breakOrder.@Tooltip[3]": "CLOSEST_FIRST: The closest log will be broken first.",
+    "text.autoconfig.fallingtree.option.trees.breakOrder.@Tooltip[2]": "FURTHEST_FIRST: 最遠的原木將先被破壞。",
+    "text.autoconfig.fallingtree.option.trees.breakOrder.@Tooltip[3]": "CLOSEST_FIRST: 最近的原木將先被破壞。",
     "text.autoconfig.fallingtree.option.trees.breakOrder.@Tooltip[4]": "",
     "text.autoconfig.fallingtree.option.trees.breakOrder.@Tooltip[5]": "補充：只在 INSTANTANEOUS模式 啟用。",
-    "text.autoconfig.fallingtree.option.trees.instantlyBreakWarts": "Break nether tree warts (leaves) with one hit",
+    "text.autoconfig.fallingtree.option.trees.instantlyBreakWarts": "一鍵破壞破壞地獄蕈菇",
     "text.autoconfig.fallingtree.option.trees.instantlyBreakWarts.@Tooltip[0]": "啟用時本模組能作用於",
-    "text.autoconfig.fallingtree.option.trees.instantlyBreakWarts.@Tooltip[1]": "be broken instantly",
+    "text.autoconfig.fallingtree.option.trees.instantlyBreakWarts.@Tooltip[1]": "立即被破壞",
     "text.autoconfig.fallingtree.option.trees.instantlyBreakWarts.@Tooltip[2]": "",
     "text.autoconfig.fallingtree.option.trees.instantlyBreakWarts.@Tooltip[3]": "資訊：僅在SHIFT_DOWN模式下"
 }
