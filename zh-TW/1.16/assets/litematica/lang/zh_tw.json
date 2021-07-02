@@ -94,7 +94,7 @@
     "litematica.gui.button.hover.plus_minus_tip_ctrl_alt_shift": "左鍵單擊可增大\n右鍵單擊可減小\nShift/Alt/Ctrl 增加步長(乘法)",
     "litematica.gui.button.hover.schematic_projects.area_browser_disabled_currently_in_projects_mode": "目前打開了一個藍圖專案\n藍圖專案將覆蓋正常區域選擇功能",
     "litematica.gui.button.hover.schematic_projects.delete_area": "§6刪除最後放置或儲存的區域§r",
-    "litematica.gui.button.hover.schematic_projects.move_origin_to_player": "將專案原點移動到玩家當前位置\n這還會移動區域選擇和放置",
+    "litematica.gui.button.hover.schematic_projects.move_origin_to_player": "將專案原點移動到玩家目前位置\n這還會移動區域選擇和放置",
     "litematica.gui.button.hover.schematic_projects.place_to_world_warning": "§6警告：這將在一個之前放置或者儲存的\n§6一個版本的區域裡，刪除/覆蓋目前世界裡的方塊\n§6（基本上是最後一次看到的「有效區域選擇」）",
     "litematica.gui.button.hover.schematic_projects.save_new_version": "將新的藍圖/版本儲存到目前專案",
     "litematica.gui.button.material_list": "材料列表",
