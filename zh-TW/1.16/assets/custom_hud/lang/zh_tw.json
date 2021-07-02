@@ -1,0 +1,16 @@
+{
+    "category.custom_hud": "自定義界面",
+    "key.custom_hud.enable": "啟用/停用",
+    "key.custom_hud.cycle_profiles": "循環切換設定檔",
+    "key.custom_hud.swap_to_profile1": "切換至設定檔1",
+    "key.custom_hud.swap_to_profile2": "切換至設定檔2",
+    "key.custom_hud.swap_to_profile3": "切換至設定檔3",
+    "gui.custom_hud.profile_updated": "自定義界面設定檔 %d 更新完成",
+    "config.custom_hud.enabled": "已啟用",
+    "config.custom_hud.disabled": "停用",
+    "config.custom_hud.done": "完成",
+    "config.custom_hud.open_profile": "開啟設定檔 %d",
+    "config.custom_hud.title": "切換至設定檔1",
+    "config.custom_hud.enable.label": "啟用/停用此模組",
+    "config.custom_hud.active_profile.label": "目前啟用中的設定檔"
+}

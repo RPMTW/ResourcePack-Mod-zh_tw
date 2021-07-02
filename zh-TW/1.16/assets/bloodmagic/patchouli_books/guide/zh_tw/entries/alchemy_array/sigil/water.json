@@ -15,7 +15,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "The $(item)Water Sigil$() is a rather simple sigil. By right clicking on a block, you can drain 100LP from your $(l:bloodmagic:altar/soul_network)Soul Network$(/l) to place a source block of water in the world. If there's not enough LP, it will instead drain the toll from your health. Crafted using a $(item)Water Reagent$() and a $(item)Blank Slate.$()"
+      "text": "$(item)水之印記$() 是一種相當單純的印記。\n在方塊上按右鍵， 你可以從 $(l:bloodmagic:altar/soul_network)靈魂網路$(/l) 中消耗100LP來放置水源。\n如果 LP不足， 它將消耗你的生命值。 使用$(item)水之試劑$() 和 $(item)空白石板$()製造。"
     },
     {
       "type": "crafting_2-step_sigil",
@@ -23,7 +23,7 @@
       "alchemy_table.recipe": "bloodmagic:alchemytable/reagent_water",
       "array.heading": "水之印記",
       "array.recipe": "bloodmagic:array/watersigil",
-      "array.text": "$(italic)Infinite water, anyone?"
+      "array.text": "$(italic)無限水源？"
     },
     {
       "type": "image",
@@ -31,9 +31,9 @@
         "bloodmagic:images/entries/sigil/water_sigil1.png",
         "bloodmagic:images/entries/sigil/water_sigil2.png"
       ],
-      "title": "Water Sigil Array",
+      "title": "水之印記矩陣",
       "border": true,
-      "text": "The Water Sigil, next to its crafting array, plus its primary use."
+      "text": "水之印記，旁邊是它的鍊金矩陣，加上它的主要用途。"
     }
   ]
 }

@@ -11,26 +11,26 @@
   "pages": [
     {
       "type": "text",
-      "text": "The $(item)Divination Sigil$() is probably the first of many sigils that you would like to craft in Blood Magic. In order to craft the sigil, you need to create an $(l:bloodmagic:alchemy_array/functional_arrays/arcane_ash)Alchemy Array$(/l) and use $(item)Redstone Dust$() and a $(item)Blank Slate$() as the base and catalyst items, respectively."
+      "text": "$(item)占卜印記$() 可能是你想在血魔法中製作的眾多印記裡的第一個。\n為了製作印記，您需要創建一個 $(l:bloodmagic:alchemy_array/functional_arrays/arcane_ash)鍊金矩陣$(/l) 並使用 $(item)紅石粉$() 和 $(item)空白石板$() 分別作為基底和催化劑。"
     },
     {
       "type": "crafting_array",
       "heading": "占卜印記",
       "recipe": "bloodmagic:array/divinationsigil",
-      "text": " $(italic)Peer into the soul."
+      "text": " $(italic)窺視靈魂。"
     },
     {
       "type": "image",
       "images": [
         "bloodmagic:images/entries/sigil/divination_sigil.png"
       ],
-      "title": "Divination Sigil Array",
+      "title": "占卜印記矩陣",
       "border": true,
-      "text": "The Divination Sigil, next to its crafting array."
+      "text": "占卜印記，旁邊是它的鍊成陣"
     },
     {
       "type": "text",
-      "text": "The Divination Sigil has two primary uses: $(br)$(li)When the player right-clicks in the air with the sigil, it will display the amount of LP that is in the owner's $(l:bloodmagic:altar/soul_network)Soul Network.$(/l)$(li)When clicking on a $(l:bloodmagic:altar/blood_altar)Blood Altar$(/l), it will tell the player the altar's current Tier, the amount of LP stored in the altar, as well as its current max capacity. Having a $(item)Divination Sigil$() on hand can also be helpful for other block applications, but that will be covered later."
+      "text": "占卜印記有兩個主要用途：$(br)$(li)當玩家用印記在空中右擊時，它將顯示所有者$(l:bloodmagic:altar/soul_network)靈魂網絡中的LP數量。$(/l)$(li)點擊$(l:bloodmagic:altar/blood_altar)血之祭壇$(/l)時，會告訴玩家該祭壇目前等級，在祭壇中儲存的LP數量，以及它目前的最大容量。\n手上有個 $(item)占卜印記$() 在其他應用上也很有幫助，但這將在後面介紹。"
     }
   ]
 }

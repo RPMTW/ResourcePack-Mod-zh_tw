@@ -1,0 +1,17 @@
+{
+    "name": "草原響尾蛇",
+    "icon": "untamedwilds:textures/icon/snake/western_rattlesnake.png",
+    "category": "snake_category",
+    "pages": [
+        {
+            "type": "text",
+            "title": "草原響尾蛇",
+            "text": "Currently, two subspecies are recognized, including the nominate subspecies described here."
+        },
+        {
+            "type": "entity",
+            "entity": "untamedwilds:snake{Variant: 16}",
+            "text": ""
+        }
+    ]
+}

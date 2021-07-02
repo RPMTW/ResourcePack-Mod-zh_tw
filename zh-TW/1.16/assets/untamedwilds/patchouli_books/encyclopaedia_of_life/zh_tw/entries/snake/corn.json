@@ -1,0 +1,17 @@
+{
+    "name": "玉米蛇",
+    "icon": "untamedwilds:textures/icon/snake/corn.png",
+    "category": "snake_category",
+    "pages": [
+        {
+            "type": "text",
+            "title": "玉米蛇",
+            "text": "The corn snake ($(o)Pantherophis guttatus$()) is a North American species of rat snake that subdues its small prey by constriction.$(br2)It is found throughout the southeastern and central United States.$(br2)The Oxford English Dictionary cites this usage as far back as 1675."
+        },
+        {
+            "type": "entity",
+            "entity": "untamedwilds:snake{Variant: 7}",
+            "text": ""
+        }
+    ]
+}

@@ -33,5 +33,5 @@
     "item.itemfilters.weak_nbt": "NBT 過濾器（弱）",
     "item.itemfilters.weak_nbt.description": "如果僅指定 NBT 的一部分，則相符",
     "item.itemfilters.custom": "自訂過濾器",
-    "item.itemfilters.custom.description": "Requires a mod or a script, usually KubeJS, to make it work"
+    "item.itemfilters.custom.description": "需要一個模組或腳本，通常是 KubeJS ，讓它運作"
 }

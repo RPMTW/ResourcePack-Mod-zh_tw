@@ -8,7 +8,7 @@
       "text": "  The $(item)Incense Altar$() is a multiblock structure that can be used to boost your self-sacrificing at a $(l:bloodmagic:altar/blood_altar)Blood Altar.$(/l) By standing nearby your setup, the $(item)Incense Altar$() will calm your soul based on the area's total \"Tranquility\", allowing you to significantly increase your LP gains."
     },
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "bloodmagic:incense_altar"
     },
     {
@@ -42,17 +42,17 @@
       "text": "  \"But Way, how can I increase this bonus?\" Why, by increasing the tranquility of the surrounding area! ...That may be a bit ambiguous.$(br2)  To increase the Tranquility of the area, you must place paths leading out from your Incense Altar. These paths need to be constructed from a three wide set of Path blocks, such as the $(item)Wooden Path$(), that extend from the 3x3 set of solid reference blocks in all four cardinal directions."
     },
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "bloodmagic:path/path_wood",
       "recipe2": "bloodmagic:path/path_woodtile"
     },
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "bloodmagic:path/path_stone",
       "recipe2": "bloodmagic:path/path_stonetile"
     },
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "bloodmagic:path/path_wornstone",
       "recipe2": "bloodmagic:path/path_wornstonetile"
     },

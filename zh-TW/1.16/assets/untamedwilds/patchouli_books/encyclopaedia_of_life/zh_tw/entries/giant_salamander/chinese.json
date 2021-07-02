@@ -1,0 +1,17 @@
+{
+    "name": "中華大蠑螈",
+    "icon": "untamedwilds:textures/icon/giant_salamander/chinese.png",
+    "category": "giant_salamander_category",
+    "pages": [
+        {
+            "type": "text",
+            "title": "中華大蠑螈",
+            "text": "The Chinese giant salamander ($(o)Andrias davidianus$()) is one of the largest salamanders and one of the largest amphibians in the world.$(br2)It is fully aquatic and is endemic to rocky mountain streams and lakes in the Yangtze river basin of central China."
+        },
+        {
+            "type": "entity",
+            "entity": "untamedwilds:giant_salamander{Variant: 0}",
+            "text": ""
+        }
+    ]
+}

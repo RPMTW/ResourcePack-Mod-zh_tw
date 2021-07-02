@@ -1,11 +1,11 @@
 {
-  "name": "Strong Legs",
+  "name": "結實雙腿",
   "icon": "minecraft:diamond_leggings",
   "category": "bloodmagic:alchemy_array/living_equipment/armor_upgrades",
   "pages": [
     {
       "type": "text",
-      "text": "Effect: Increases jump height and reduces fall damage, up to a maximum of an additional 7.5 blocks and 83% fall resistance. $(br2)Trained by: Jumping around. $(br2)Maximum level: 10"
+      "text": "效果：增加跳躍高度並減少墜落損傷，最多可增加 7.5 格高和 83% 的阻力。\n $(br2)訓練：跳來跳去。\n $(br2)最高級別： 10"
     }
   ]
 }

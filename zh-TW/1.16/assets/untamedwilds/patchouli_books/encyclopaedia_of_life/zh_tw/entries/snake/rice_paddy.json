@@ -1,0 +1,17 @@
+{
+    "name": "鉛色水蛇",
+    "icon": "untamedwilds:textures/icon/snake/rice_paddy.png",
+    "category": "snake_category",
+    "pages": [
+        {
+            "type": "text",
+            "title": "鉛色水蛇",
+            "text": "The rice paddy snake or plumbeous water snake ($(o)Hypsiscopus plumbea$()) is a species of mildly venomous, rear-fanged snake endemic to South Asia."
+        },
+        {
+            "type": "entity",
+            "entity": "untamedwilds:snake{Variant: 13}",
+            "text": ""
+        }
+    ]
+}

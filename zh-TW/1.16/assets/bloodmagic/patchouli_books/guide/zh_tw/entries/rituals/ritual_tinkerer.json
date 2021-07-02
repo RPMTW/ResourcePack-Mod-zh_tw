@@ -1,5 +1,5 @@
 {
-  "name": "Ritual Tinkerer",
+  "name": "儀式調整鉗",
   "icon": "bloodmagic:ritualtinkerer",
   "category": "bloodmagic:rituals",
   "priority": "是",
@@ -9,7 +9,7 @@
       "text": "The $(item)Ritual Tinkerer$() is an essential tool for the advanced Blood Mage who is looking for all they can get out of their Rituals. It has three main modes, as described overleaf."
     },
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "bloodmagic:ritual_reader"
     },
     {

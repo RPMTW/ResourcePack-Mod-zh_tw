@@ -1,15 +1,15 @@
 {
-  "name": "Spike Array",
+  "name": "尖刺矩陣",
   "icon": "minecraft:iron_ingot",
   "category": "bloodmagic:alchemy_array/functional_array",
   "pages": [
     {
       "type": "text",
-      "text": "The Spike Array is a rather simple array with a single purpose. When a living entity steps into the array, they are hit with a full heart of damage. This is good for mob traps, or for making your base a bit spikier for players."
+      "text": "尖刺矩陣是一個相當單純且只有一個目的的矩陣。\n當一個生物進入陣列時，他們會受到滿心傷害。 \n這對生物陷阱很有用，或者讓你的基地對其他玩家來說有點\"刺眼\"。"
     },
     {
       "type": "functional_array",
-      "heading": "Spike Array",
+      "heading": "尖刺矩陣",
       "recipe": "bloodmagic:array/spike",
       "image": "spikearray.png"
     }

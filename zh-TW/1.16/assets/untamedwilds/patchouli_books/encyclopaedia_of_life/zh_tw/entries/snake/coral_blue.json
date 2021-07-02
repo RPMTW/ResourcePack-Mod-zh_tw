@@ -1,0 +1,17 @@
+{
+    "name": "藍珊瑚蛇",
+    "icon": "untamedwilds:textures/icon/snake/coral_blue.png",
+    "category": "snake_category",
+    "pages": [
+        {
+            "type": "text",
+            "title": "藍珊瑚蛇",
+            "text": "Calliophis bivirgatus is a species of snake in the family Elapidae known commonly as the blue coral snake or blue Malayan coral snake.$(br2)It is native to Southeast Asia."
+        },
+        {
+            "type": "entity",
+            "entity": "untamedwilds:snake{Variant: 6}",
+            "text": ""
+        }
+    ]
+}

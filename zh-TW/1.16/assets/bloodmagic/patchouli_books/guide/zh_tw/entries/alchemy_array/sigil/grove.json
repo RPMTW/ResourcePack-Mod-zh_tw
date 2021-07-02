@@ -15,7 +15,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "The $(item)Sigil of the Green Grove$() is an item that has multiple uses. Crafted in an array with a $(item)Growth Reagent$(item) and a $(item)Reinforced Slate$(), the sigil can use the power of your stored life force to nourish and grow nearby plants."
+      "text": "$(item)綠叢印記$() 是一個有多種用途的物品。 \n用 $(item)促生試劑$(item)和$(item)強化石板$()製作的印記可以利用你\n儲存的生命力來滋養與生長附近的植物。"
     },
     {
       "type": "crafting_2-step_sigil",
@@ -31,9 +31,9 @@
         "bloodmagic:images/entries/sigil/grove_sigil2.png",
         "bloodmagic:images/entries/sigil/grove_sigil3.png"
       ],
-      "title": "Green Grove Sigil Array",
+      "title": "綠叢印記矩陣",
       "border": true,
-      "text": "The Sigil of the Green Grove's array, plus its primary uses."
+      "text": "綠叢印記與它的用途"
     },
     {
       "type": "text",

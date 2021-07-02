@@ -154,6 +154,6 @@
     "betterfoliage.roundLogs.zProtection.tooltip": "相當於按比例讓少量圓木的連接平行 去停止 Z-fighting (閃爍)[斑駁,兩個多邊形共面所出現的效果].在沒有發生故障的情況下,試著將這個值設定得儘可能的高[這是Z-fighting出現的原因:多個多面體的麵重疊在一起,各個面的深度在buffer中是一樣的,出現了所謂z-fighting問題,造成圖形間遮蔽不正確]。",
     "betterfoliage.roundLogs.defaultY": "預設垂直",
     "betterfoliage.roundLogs.defaultY.tooltip": "如果開啟, 圓木的方向不會確定而將會渲染成垂直的. 否則, 它們會渲染成立體方塊.",
-    "betterfoliage.roundLogs.plantsOnly": "Plants only",
+    "betterfoliage.roundLogs.plantsOnly": "僅植物",
     "betterfoliage.roundLogs.plantsOnly.tooltip": "If true, only blocks with plant materials (wood, grass) will be rounded. If false, all column blocks will be rounded, including stone columns."
 }

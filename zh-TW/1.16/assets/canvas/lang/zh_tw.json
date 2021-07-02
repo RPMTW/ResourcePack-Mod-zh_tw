@@ -31,7 +31,7 @@
   "config.canvas.help.wavy_grass": "讓草、樹葉等東西搖擺的著色器。",
   "config.canvas.value.handheld_light_radius": "手持光源半徑(動態光源)",
   "config.canvas.help.handheld_light_radius": "手持光源的最大範圍。設定值為0將禁用該功能。",
-  "config.canvas.category.lighting": "Lighting",
+  "config.canvas.category.lighting": "亮度",
   "config.canvas.value.light_smoothing": "平滑光源",
   "config.canvas.help.light_smoothing": "可以讓光源不再是十字形的。區塊載入的速度會稍慢，整體光照度維持類似。",
   "config.canvas.value.hd_lightmaps": "高畫質光照圖 (禁用)",

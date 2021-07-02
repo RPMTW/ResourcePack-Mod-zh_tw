@@ -1,0 +1,17 @@
+{
+    "name": "碩鬣狗",
+    "icon": "untamedwilds:textures/icon/hyena/shortface.png",
+    "category": "hyena_category",
+    "pages": [
+        {
+            "type": "text",
+            "title": "碩鬣狗",
+            "text": "Pachycrocuta was a genus of prehistoric hyenas.$(br2)Pachycrocuta first appeared during the late Miocene ($(o)Messinian, 7.2 to 5.3 million years ago$()) and became extinct during the middle Pleistocene, 400,000 years ago."
+        },
+        {
+            "type": "entity",
+            "entity": "untamedwilds:hyena{Variant: 4}",
+            "text": ""
+        }
+    ]
+}
