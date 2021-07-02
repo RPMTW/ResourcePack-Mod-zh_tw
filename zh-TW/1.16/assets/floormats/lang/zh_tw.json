@@ -24,7 +24,7 @@
     "command.floormats.help.power": "A floor mat will pulse when it receives redstone power from a block it is on.  For example, a button placed on the side of a block will cause a floor mat on that block to pulse.",
     "command.floormats.help.types": "\n§oWooden:§r triggered by any player, mob or dropped item.\n\n§oStone§r: triggered by players and mobs\n\n§oMetal§r: activated by players.  See also §a/floormats help gold§r.",
     "command.floormats.help.wiki": "Check out the wiki for more details: https://github.com/D0CTOR-ZED/FloorMats/wiki",
-    "command.floormats.reset.corrections": "當前模式。",
+    "command.floormats.reset.corrections": "目前模式。",
     "command.floormats.reset.feedback": "地墊模式已重設！",
     "command.floormats.tools.wands": "\n§nRemote linking tools (tag: §a§nfloormats:linkers§r§n):§r\n",
     "command.floormats.tools.wrenches": "\n§nConnection control tools (tag: §a§nfloormats:connectors§r§n):§r\n",
