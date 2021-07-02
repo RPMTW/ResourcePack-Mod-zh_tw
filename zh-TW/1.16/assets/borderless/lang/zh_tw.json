@@ -9,9 +9,9 @@
   "borderless.config.focus_loss.minimize": "最小化",
   "borderless.config.focus_loss.switch_to_windowed": "切換到視窗模式",
   "borderless.config.changed": "如果全螢幕模式未正常啟用，請嘗試重新啟動 Minecraft。 如果它仍然無法運作，則您的作業系統可能無法完全相容。",
-  "borderless.best": "自動為當前操作系統選擇最佳全螢幕模式。此為全螢幕模式的推薦選項。",
+  "borderless.best": "自動為目前操作系統選擇最佳全螢幕模式。此為全螢幕模式的推薦選項。",
   "borderless.borderless": "無邊框全螢幕，將視窗的寬度和高度設定為顯示器的解析度。 此外，它會移除視窗的邊框來模擬全螢幕。\n\n此全螢幕模式是 Windows 的最佳模式。",
-  "borderless.native.do_nothing": "標準的 Minecraft 全螢幕顯示，但當無法對焦時，視窗將永遠可見。 視當前作業系統而定，視窗可能始終位於頂端。\n\n此全螢幕模式是大多數 Linux 發行版支援 X11的最佳選擇。",
+  "borderless.native.do_nothing": "標準的 Minecraft 全螢幕顯示，但當無法對焦時，視窗將永遠可見。 視目前作業系統而定，視窗可能始終位於頂端。\n\n此全螢幕模式是大多數 Linux 發行版支援 X11的最佳選擇。",
   "borderless.native.minimize": "標準 Minecraft 全螢幕顯示，可將無法對焦的視窗最小化。\n\n此全螢幕模式是未知操作系統的最佳選擇。",
   "borderless.native.switch_to_windowed": "標準的 Minecraft 全螢幕顯示，但一旦視窗無法對焦，就會切換成視窗模式。"
 }
