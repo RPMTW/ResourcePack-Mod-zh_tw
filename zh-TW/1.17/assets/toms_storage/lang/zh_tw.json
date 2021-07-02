@@ -65,7 +65,7 @@
     "chat.toms_storage.inventory_connector.free_slots": "儲存整合器：空 %d 槽 / 共 %d 槽。",
     "text.autoconfig.toms_storage.title": "湯姆的簡單儲存 設定",
     "text.autoconfig.toms_storage.option.invRange": "Inventory Connector Range",
-    "text.autoconfig.toms_storage.option.onlyTrims": "Only Allow Trims to Connect Inventories",
-    "text.autoconfig.toms_storage.option.invConnectorMaxCables": "Inventory Cable Connector Maximum number of cables",
+    "text.autoconfig.toms_storage.option.onlyTrims": "只允許 Trips 連接庫存",
+    "text.autoconfig.toms_storage.option.invConnectorMaxCables": "庫存線纜連接器最大的線纜數量",
     "text.autoconfig.toms_storage.option.wirelessRange": "Wireless terminal reach"
 }

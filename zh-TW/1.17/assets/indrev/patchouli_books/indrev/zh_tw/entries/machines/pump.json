@@ -1,0 +1,17 @@
+{
+  "name": "泵",
+  "category": "indrev:machines",
+  "sortnum": 10,
+  "icon": "indrev:pump_mk1",
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "indrev:shaped/pump_mk1",
+      "text": "$(l)泵$()用於抽取液體並傳輸至管線或儲罐"
+    },
+    {
+      "type": "text",
+      "text": "$(l)使用方法:$()由頂部提供能量，並由泵面對的方向輸出液體。接通能量後，泵將向下伸出管子並抽取液體。$(br2)不違反流體物理的情況下無抽取上限。只要管子碰的到液體(無論是否為源頭)，泵便搜尋並抽取液體源頭方塊。因此其可用於抽取地獄的岩漿湖"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "模組化核心",
+  "category": "indrev:tools",
+  "sortnum": 6,
+  "icon": "indrev:modular_core",
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "indrev:shaped/modular_core",
+      "text": "模組化核心是每個模組化工具的基底。但在其可用之前必須先充能。您至少需要一個鐳射發射器、一個密封艙和大量的能量儲存（1億LF）以充能它，。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "indrev:shaped/capsule",
+      "text": "The Capsule will hold your Core of Modularity during the process of activation.$(br)It will emit a redstone signal when it's finished."
+    },
+    {
+      "type": "crafting",
+      "recipe": "indrev:shaped/laser_emitter_mk4",
+      "text": "Laser Emitters should be placed facing the capsule with $(l)AN EXACT 3 BLOCKS DISTANCE$(). They store up to 2,5M LF and require a redstone signal to be toggled on."
+    },
+    {
+      "type": "text",
+      "text": "這個過程需要時間，每多一個鐳射發射器都會加速過程。 以下為須注意的細節，以免發生問題:$(br) -將雷射發射器射向空的密封艙或密封艙以外的其他東西會導致爆炸。$(br) -如果雷射發射器在處理過程中斷電，則必須從頭來過。$(br) -在從密封艙取出已充能的核心之前，請務必先關閉雷射發射器。"
+    }
+  ]
+}

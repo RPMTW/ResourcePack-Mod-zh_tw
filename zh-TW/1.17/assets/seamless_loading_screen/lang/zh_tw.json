@@ -1,0 +1,19 @@
+{
+    "seamless_loading_screen.screen.generating_chunks": "生成區域中",
+    "seamless_loading_screen.keybind.config": "開啟無載入畫面設定",
+    "seamless_loading_screen.tinyconfig.title": "無縫載入畫面選項",
+    "seamless_loading_screen.tinyconfig.time": "載入塊的延遲",
+    "seamless_loading_screen.tinyconfig.fade": "淡入淡出持續時間",
+    "seamless_loading_screen.tinyconfig.disableCamera": "禁用相機移動，直到淡出完成",
+    "seamless_loading_screen.tinyconfig.archiveScreenshots": "存檔屏幕截圖",
+    "seamless_loading_screen.tinyconfig.updateWorldIcon": "更新世界圖示",
+    "seamless_loading_screen.tinyconfig.boolean.true": "True(真)",
+    "seamless_loading_screen.tinyconfig.boolean.false": "False(假)",
+    "seamless_loading_screen.tinyconfig.resolution": "屏幕截圖解析度",
+    "seamless_loading_screen.tinyconfig.resolution.tooltip": "Native - Optifine TAA compatibility, game's resolution\nNormal - Supports up to 21:9 ultrawide monitors\n4K - For 4K monitors\n8K - For 8K monitors",
+    "seamless_loading_screen.tinyconfig.enum.ScreenshotResolution.Native": "原生",
+    "seamless_loading_screen.tinyconfig.enum.ScreenshotResolution.Normal": "普通",
+    "seamless_loading_screen.tinyconfig.enum.ScreenshotResolution.r4K": "4K",
+    "seamless_loading_screen.tinyconfig.enum.ScreenshotResolution.r8K": "8K",
+    "seamless_loading_screen.server.allowCustomScreenshot": "啟用自定義截圖"
+}

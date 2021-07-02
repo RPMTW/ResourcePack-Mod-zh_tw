@@ -1,0 +1,16 @@
+{
+  "name": "四倍礦物",
+  "category": "indrev:enhanced_ore_processing",
+  "sortnum": 2,
+  "icon": "indrev:fluid_infuser_mk4",
+  "pages": [
+    {
+      "type": "text",
+      "text": "礦石處理的最後一步能有四倍產出。你將需要一台 $(l:machines/basic_machines#fluid_infuser)$(t:Go to Fluid Infuser)$(l)$(o)固體注入機$()、$(l:machines/basic_machines#smelter)$(t:Go to Industrial Smelter)$(l)$(o)工業熔爐$()、$(l:machines/basic_machines#condenser)$(t:Go to Condenser)$(l)$(o)聚合機$()、$(l:machines/basic_machines#pulverizer)$(t:Go to Pulverizer)$(l)$(o)粉碎機$()和足量的硫酸。$(br)$(#3ead36)硫酸$()生成於沼澤的湖中，或以 $(#b3b332)琉粉$()和$(#88adf2)水$()在液體注入機中合成。"
+    },
+    {
+      "type": "text",
+      "text": "$(l)1)$() Insert your ore in a Fluid Infuser with Sulfuric Acid. It will purify them and give you the purified ore form. $(br)$(l)2)$() Insert your purified ores into an Industrial Smelter. It will smelt them into their fluid forms.$(br)$(l)3)$() Move your molten ore into a Condenser.$(br)$(l)4)$() Pulverize your Ore Chunk, which will then give you a dust.$(br)$(l)5)$() Smelt your dust.$(br2)Done! Now you've transformed 1 ore into 4 ingots!"
+    }
+  ]
+}

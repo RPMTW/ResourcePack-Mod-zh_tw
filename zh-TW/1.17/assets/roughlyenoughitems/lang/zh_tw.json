@@ -109,7 +109,7 @@
     "favorite.section.weather": "天氣",
     "tooltip.rei.fluid_amount": "§7%d 單位",
     "tooltip.rei.fluid_amount.forge": "§7%d mB",
-    "tooltip.rei.drag_to_add_favorites": "§7Drag this up to add this to your favorites!",
+    "tooltip.rei.drag_to_add_favorites": "§7拖動這個向上來將它添加到我的最愛。",
     "msg.rei.copied_recipe_id": "已複製配方識別碼",
     "msg.rei.recipe_id_details": "配方 ID: %s",
     "msg.rei.exported_recipe": "已匯出配方",
@@ -232,7 +232,7 @@
     "config.roughlyenoughitems.syntaxHighlightingMode.config": "%s",
     "config.roughlyenoughitems.syntaxHighlightingMode.plain": "普通",
     "config.roughlyenoughitems.syntaxHighlightingMode.plain_underscored": "Plain (Underscored)",
-    "config.roughlyenoughitems.syntaxHighlightingMode.colorful": "Colorful",
+    "config.roughlyenoughitems.syntaxHighlightingMode.colorful": "彩色",
     "config.roughlyenoughitems.syntaxHighlightingMode.colorful_underscored": "Colorful (Underscored)",
     "config.roughlyenoughitems.filteringScreen": "自訂篩選",
     "config.roughlyenoughitems.filteringRulesScreen": "自訂篩選條件",
@@ -259,5 +259,6 @@
     "language.roughlyenoughitems.upside_down_english": "顛倒英文",
     "language.roughlyenoughitems.bulgarian": "Bulgarian",
     "language.roughlyenoughitems.russian": "Russian",
-    "language.roughlyenoughitems.polish": "Polish"
+    "language.roughlyenoughitems.polish": "Polish",
+    "config.roughlyenoughitems.keyBindings.previousScreenKeybind": "前一個畫面："
 }

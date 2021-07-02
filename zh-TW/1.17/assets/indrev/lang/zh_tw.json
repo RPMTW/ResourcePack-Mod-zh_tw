@@ -1,7 +1,7 @@
 {
     "item.patchouli.industrial_revolution_book.name": "工業革命手冊",
     "item.indrev.guide_book": "工業革命手冊",
-    "item.patchouli.industrial_revolution_book.landing": "本書將幫助你了解本模組的一些重要方面。$(br2)如果你發現任何問題、疑問或建議，請在$(l:https://github.com/GabrielOlvH/Industrial-Revolution/issues)GitHub$()上提出問題，或加入我們的$(l:https://discord.com/invite/G4PjhEf)Discord！$()$(br2)謝謝你的遊玩！。",
+    "item.patchouli.industrial_revolution_book.landing": "本書將幫助你了解本模組的一些重要元素。$(br2)如果你發現任何問題、疑問或建議，請在$(l:https://github.com/GabrielOlvH/Industrial-Revolution/issues)GitHub$()上提出問題，或加入我們的$(l:https://discord.com/invite/G4PjhEf)Discord！$()$(br2)謝謝你的遊玩！。",
     "itemGroup.indrev.indrev_group": "工業革命",
     "block.machines.tooltip.io": "I/O: %s",
     "block.indrev.lazuli_flux_container_1": "青金石通量",
@@ -578,7 +578,7 @@
     "key.indrev.modular": "模組化物品設定",
     "text.multiblock.not_built": "多方塊結構不正確！",
     "advancements.indrev.nikolite": "序章",
-    "advancements.indrev.nikolite.description": "尋找藍寶石",
+    "advancements.indrev.nikolite.description": "找到藍石",
     "advancements.indrev.machine_block": "建立基礎",
     "advancements.indrev.machine_block.description": "獲得一台機器",
     "advancements.indrev.coal_generator": "第一步",
