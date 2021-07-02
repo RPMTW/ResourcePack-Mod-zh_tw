@@ -1,7 +1,7 @@
 {
     "name": "多指鞭冠鮟鱇",
     "icon": "untamedwilds:textures/icon/football_fish/atlantic.png",
-    "category": "football_fish_category",
+    "category": "鞭冠魚類",
     "pages": [
         {
             "type": "text",
@@ -9,7 +9,7 @@
             "text": "Himantolophus groenlandicus, the Atlantic footballfish or Atlantic football-fish, is an anglerfish found primarily in mesopelagic depths of the ocean.$(br2)Despite its name, this species might not be restricted to the Atlantic Ocean, with its range possibly extending into the Indian Ocean and to the Pacific Ocean."
         },
         {
-            "type": "entity",
+            "type": "實體",
             "entity": "untamedwilds:football_fish{Variant: 0}",
             "text": ""
         }
