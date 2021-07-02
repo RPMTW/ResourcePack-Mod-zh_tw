@@ -88,7 +88,7 @@
     "gui.storagenetwork.operate.tooltip": "如果網路中 %s 多於 %d %s 才觸發",
     "gui.storagenetwork.operate.tooltip.more": "多",
     "gui.storagenetwork.operate.tooltip.less": "少",
-    "gui.storagenetwork.refresh": "刷新處理事務。如果當前處於阻塞、等待狀態，這將會將其變回合成模式，進而回收原材料。",
+    "gui.storagenetwork.refresh": "刷新處理事務。如果目前處於阻塞、等待狀態，這將會將其變回合成模式，進而回收原材料。",
     "gui.storagenetwork.checkbox.meta": "元數據",
     "gui.storagenetwork.checkbox.ore": "礦物詞典",
     "gui.storagenetwork.checkbox.nbt": "NBT 標籤",
