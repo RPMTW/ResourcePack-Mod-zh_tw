@@ -31,10 +31,10 @@
     },
     {
       "type": "crafting_soulforge",
-      "heading": "範圍意念炸藥",
+      "heading": "定向炸藥",
       "recipe": "bloodmagic:soulforge/shaped_charge",
       "anchor": "shaped_charge",
-      "text": "The $(item)Shaped Charge$() will destroy a 5x5x5 cube facing whichever side of a block it lands on, dropping all blocks as though mined with a pickaxe. It even works on Obsidian, and provides a most satisfying $(o)KABOOM$() whilst doing so."
+      "text": "$(item)定向炸彈$() 將摧毀一個 5x5x5 的立方體，作用方向為它放置的方塊的那一側，就像用鎬開採一樣掉落所有方塊。 它甚至適用於黑曜石，而且在這樣做的同時提供了最令人滿意的 $(o)KABOOM$()。"
     },
     {
       "type": "3x_crafting_soulforge",
