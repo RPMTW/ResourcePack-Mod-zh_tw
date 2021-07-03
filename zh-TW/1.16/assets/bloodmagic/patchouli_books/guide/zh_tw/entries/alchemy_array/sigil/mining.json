@@ -15,7 +15,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "The $(item)Sigil of the Fast Miner$() is a sigil that, when activated using shift-right-click, will consume 100LP every 10 seconds and apply the Haste potion effect. Thus, it increases your mining, digging, and cutting speeds. Crafted using the $(item)Mining Reagent$() and $(item)Reinforced Slate$() in an alchemy array."
+      "text": "$(item)速掘印記$()是一種需要shift+右鍵啟動，\n才能作用的印記，它每10秒消耗 100LP 來給予挖掘加速效果。\n因此，它可以提高你的採礦、挖掘和切割速度。\n使用$(item)採掘試劑$()和$(item)強化石板$()在鍊金矩陣中製作"
     },
     {
       "type": "crafting_2-step_sigil",
@@ -30,9 +30,9 @@
         "bloodmagic:images/entries/sigil/mining_sigil1.png",
         "bloodmagic:images/entries/sigil/mining_sigil2.png"
       ],
-      "title": "Fast Miner Sigil Array",
+      "title": "速掘印記矩陣",
       "border": true,
-      "text": "The Sigil of the Fast Miner's array, plus its primary uses."
+      "text": "速掘印記與它的矩陣，以及它的使用方式"
     }
   ]
 }
