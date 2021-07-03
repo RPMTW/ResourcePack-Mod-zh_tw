@@ -64,8 +64,8 @@
     "narrator.toms_storage.level_emitter_amount": "儲存狀態發信器物品數量",
     "chat.toms_storage.inventory_connector.free_slots": "儲存整合器：空 %d 槽 / 共 %d 槽。",
     "text.autoconfig.toms_storage.title": "湯姆的簡單儲存 設定",
-    "text.autoconfig.toms_storage.option.invRange": "Inventory Connector Range",
+    "text.autoconfig.toms_storage.option.invRange": "容器連接範圍",
     "text.autoconfig.toms_storage.option.onlyTrims": "只允許 Trips 連接庫存",
     "text.autoconfig.toms_storage.option.invConnectorMaxCables": "庫存線纜連接器最大的線纜數量",
-    "text.autoconfig.toms_storage.option.wirelessRange": "Wireless terminal reach"
+    "text.autoconfig.toms_storage.option.wirelessRange": "無限終端覆蓋範圍"
 }
