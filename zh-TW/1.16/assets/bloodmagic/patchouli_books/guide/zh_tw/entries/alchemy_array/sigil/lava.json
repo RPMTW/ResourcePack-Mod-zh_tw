@@ -23,7 +23,7 @@
       "alchemy_table.recipe": "bloodmagic:alchemytable/reagent_lava",
       "array.heading": "熔岩印記",
       "array.recipe": "bloodmagic:array/lavasigil",
-      "array.text": "$(italic)HOT! DO NOT EAT"
+      "array.text": "$(italic)燙！禁止食用！"
     },
     {
       "type": "image",
@@ -31,9 +31,9 @@
         "bloodmagic:images/entries/sigil/lava_sigil1.png",
         "bloodmagic:images/entries/sigil/lava_sigil2.png"
       ],
-      "title": "Lava Sigil Array",
+      "title": "熔岩印記矩陣",
       "border": true,
-      "text": "The Lava Sigil, next to its crafting array, plus its primary use."
+      "text": "熔岩印記與它的矩陣，以及使用方式。"
     }
   ]
 }
