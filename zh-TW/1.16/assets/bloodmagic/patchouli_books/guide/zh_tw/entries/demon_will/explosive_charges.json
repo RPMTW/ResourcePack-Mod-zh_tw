@@ -34,7 +34,7 @@
       "heading": "定向炸藥",
       "recipe": "bloodmagic:soulforge/shaped_charge",
       "anchor": "shaped_charge",
-      "text": "$(item)定向炸藥$() 將摧毀一個 5x5x5 的立方體，作用方向為它放置的方塊的那一側，就像用鎬開採一樣掉落所有方塊。 它甚至適用於黑曜石，而且在這樣做的同時提供了最令人滿意的 $(o)KABOOM$()。"
+      "text": "$(item)聚能炸藥$() 將摧毀一個 5x5x5 的立方體，作用方向為它放置的方塊的那一側，就像用鎬開採一樣掉落所有方塊。 它甚至適用於黑曜石，而且在這樣做的同時提供了最令人滿意的 $(o)KABOOM$()。"
     },
     {
       "type": "3x_crafting_soulforge",
@@ -66,7 +66,7 @@
       "heading": "指定意念炸藥",
       "recipe": "bloodmagic:soulforge/vein_charge",
       "anchor": "controlled_charge",
-      "text": "The $(item)Controlled Charge$(), only destroys blocks $(underline)identical to the block it lands on$(). It will destroy up to $(item)Three stacks$() of blocks, seeking out from the original point. As with other charges, all mined blocks will be dropped."
+      "text": "$(item)Controlled Charge$(), 只破壞$(underline)與它附著的該種方塊$()。\n從附著點開始，它可以一次挖掘$(item)約三組的方塊$()。\n像其他炸藥一樣，所有被挖掘的方塊將掉落。"
     },
     {
       "type": "3x_crafting_soulforge",
