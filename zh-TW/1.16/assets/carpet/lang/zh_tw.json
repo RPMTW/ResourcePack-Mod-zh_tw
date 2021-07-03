@@ -21,12 +21,12 @@
   "ui.browse_categories": "Browse categories",
   "ui.list_all_%(cat)s_settings": "列出所有 %s 設置",
   "ui.version": "版本",
-  "ui.current_%(mod)s_settings": "當前 %s 設置",
+  "ui.current_%(mod)s_settings": "目前 %s 設置",
   "ui.switch_to": "切換至",
   "ui.settings_are_locked": "settings are locked",
   "ui.is_set_to": "已設為",
   "ui.unknown_rule": "未知規則",
-  "ui.current_%(mod)s_startup_settings_from_%(conf)s": "當前 %s 啟動設定從 %s",
+  "ui.current_%(mod)s_startup_settings_from_%(conf)s": "目前 %s 啟動設定從 %s",
   "ui.%(mod)s_settings_matching_'%(query)s'": "%s 設定符合 \"%s\" ",
   "ui.all_%(mod)s_settings": "所有%s設定",
   "ui.tags": "標籤",
@@ -34,5 +34,5 @@
   "ui.click_to_keep_the_settings_in_%(conf)s_to_save_across_restarts": "click to keep the settings in %s to save across restarts",
   "ui.rule_%(rule)s_will_now_default_to_%(value)s": "規則 %s 現在將預設為 %s",
   "ui.rule_%(rule)s_not_set_restart": "Rule %s will now not be set on restart",
-  "ui.current_value": "當前值"
+  "ui.current_value": "目前值"
 }
