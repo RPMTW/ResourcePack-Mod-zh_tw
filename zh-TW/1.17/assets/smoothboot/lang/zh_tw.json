@@ -1,15 +1,15 @@
 {
     "text.autoconfig.smoothboot.title": "平滑啟動",
     "text.autoconfig.smoothboot.option.threadCount": "執行緒計數",
-    "text.autoconfig.smoothboot.option.threadCount.bootstrap": "Bootstrap Worker Thread Count",
+    "text.autoconfig.smoothboot.option.threadCount.bootstrap": "引導程式執行緒數",
     "text.autoconfig.smoothboot.option.threadCount.bootstrap.@Tooltip[0]": "附註：增加已知會降低效能。",
-    "text.autoconfig.smoothboot.option.threadCount.bootstrap.@Tooltip[1]": "Best left at 1.",
+    "text.autoconfig.smoothboot.option.threadCount.bootstrap.@Tooltip[1]": "最好留在 1 。",
     "text.autoconfig.smoothboot.option.threadCount.main": "主要工作程式執行緒計數",
     "text.autoconfig.smoothboot.option.threadCount.main.@Tooltip[0]": "此值極大地影響了載入時間。",
     "text.autoconfig.smoothboot.option.threadCount.main.@Tooltip[1]": "可能也會影響遊戲中的效能。",
     "text.autoconfig.smoothboot.option.threadPriority": "執行緒優先順序",
     "text.autoconfig.smoothboot.option.threadPriority.game": "遊戲執行緒優先順序",
-    "text.autoconfig.smoothboot.option.threadPriority.bootstrap": "Bootstrap Worker Priority",
+    "text.autoconfig.smoothboot.option.threadPriority.bootstrap": "引導優先順序",
     "text.autoconfig.smoothboot.option.threadPriority.main": "主要工作程式優先順序",
     "text.autoconfig.smoothboot.option.threadPriority.io": "主要工作程式優先順序",
     "text.autoconfig.smoothboot.option.threadPriority.integratedServer": "集成伺服器執行緒優先順序"
