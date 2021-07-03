@@ -37,7 +37,7 @@
     },
     {
       "type": "text",
-      "text": "If you right click on a block that is $(2)IGrowable$(), it will apply the bonemeal effect while consuming 150LP.$(br2)However, if you shift-right-click the sigil in the air, the sigil will light up to indicate that it is activated, and will consume 150LP every 10 seconds. Every block in a 7x7x5 high volume centered on the player will have a growth tick applied to it. Good for farming those taters!"
+      "text": "如果你在$(2)草地$()上按右鍵，\n 它會消耗 150LP 產生骨粉的效果。\n$(br2)但是，如果您按住 Shift 在空中右鍵印記，\n印記將亮起以表明它已被啟動，它將會每 10 秒消耗 150LP\n以玩家為中心 7x7x5 區域中的每個方塊都將應用一個增長刻度。\n適合種那些馬鈴薯！ "
     }
   ]
 }
