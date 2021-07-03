@@ -15,7 +15,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "The sister sigil to the $(l:bloodmagic:alchemy_array/sigil/water)Water Sigil,$(/l) the $(item)Lava Sigil$() creates a source block of lava where you click on the ground for the cost of 1000LP. Crafted in an $(l:bloodmagic:alchemy_array/functional_arrays/arcane_ash)Alchemy Array$(/l) using a $(item)Lava Reagent$() and a $(item)Blank Slate,$() it'll drain 5 hearts from you if you don't have enough LP in your $(l:bloodmagic:altar/soul_network)Soul Network.$(/l)"
+      "text": "$(l:bloodmagic:alchemy_array/sigil/water)水之印記的好姊妹，$(/l)你可以使用 $(item)熔岩印記$()點擊地面消耗1000LP創造一個熔岩。\n在$(l:bloodmagic:alchemy_array/functional_arrays/arcane_ash)鍊金矩陣$(/l) 中，使用 $(item)熔岩試劑$() 和 $(item)空白石板,$()製作\n如果你的 $(l:bloodmagic:altar/soul_network)靈魂網路$(/l) 中沒有足夠的 LP，它會從你身上吸取 5 顆心"
     },
     {
       "type": "crafting_2-step_sigil",
