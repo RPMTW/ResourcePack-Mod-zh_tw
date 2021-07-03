@@ -116,7 +116,7 @@
     "text.autoconfig.repurposed_structures-fabric/general_configs.option.RSDungeonsConfig.minHeight.snowDungeonMinHeight": "雪之地牢",
     "text.autoconfig.repurposed_structures-fabric/general_configs.option.RSDungeonsConfig.minHeight.icyDungeonMinHeight": "冰之地牢",
     "text.autoconfig.repurposed_structures-fabric/general_configs.option.RSDungeonsConfig.minHeight.swampDungeonMinHeight": "沼澤地牢",
-    "text.autoconfig.repurposed_structures-fabric/general_configs.option.RSCitiesConfig.cityNetherAverageChunkDistance.@PrefixText": "\nHow rare are Nether Cities in Nether biomes.\n 1 for spawning in most chunks and 1001 for none.",
+    "text.autoconfig.repurposed_structures-fabric/general_configs.option.RSCitiesConfig.cityNetherAverageChunkDistance.@PrefixText": "\n\n地獄生態域中的地獄城市是多麼的罕見。 1代表在大多數區塊中生成，1001代表沒有。",
     "text.autoconfig.repurposed_structures-fabric/general_configs.option.RSCitiesConfig.cityNetherAverageChunkDistance": "City Nether Average Spacing",
     "text.autoconfig.repurposed_structures-fabric/general_configs.option.RSIgloosConfig.grassyIglooAverageChunkDistance.@PrefixText": "\nHow rare are Igloos structures.\n 1 for spawning in most chunks and 1001 for none.",
     "text.autoconfig.repurposed_structures-fabric/general_configs.option.RSIgloosConfig.grassyIglooAverageChunkDistance": "Grassy Igloo Average Spacing",
