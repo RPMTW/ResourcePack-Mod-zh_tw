@@ -10,7 +10,7 @@
     "seamless_loading_screen.tinyconfig.boolean.true": "True(真)",
     "seamless_loading_screen.tinyconfig.boolean.false": "False(假)",
     "seamless_loading_screen.tinyconfig.resolution": "屏幕截圖解析度",
-    "seamless_loading_screen.tinyconfig.resolution.tooltip": "Native - Optifine TAA compatibility, game's resolution\nNormal - Supports up to 21:9 ultrawide monitors\n4K - For 4K monitors\n8K - For 8K monitors",
+    "seamless_loading_screen.tinyconfig.resolution.tooltip": "本地 - Optifine TAA相容性，遊戲解析度\n正常 - 支援高達21:9的超寬顯示器\n4K - 適用於4K顯示器\n8K - 適用於8K顯示器",
     "seamless_loading_screen.tinyconfig.enum.ScreenshotResolution.Native": "原生",
     "seamless_loading_screen.tinyconfig.enum.ScreenshotResolution.Normal": "普通",
     "seamless_loading_screen.tinyconfig.enum.ScreenshotResolution.r4K": "4K",
