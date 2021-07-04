@@ -15,7 +15,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "The Alchemy Table takes a little LP and a few ingredients to do some wondrous things!$(br2)A lot of its content is NYI. $(br2)Mouse over the LP arrow for more info."
+      "text": "鍊金術桌使用一點 LP 和少許成分來做一些奇妙的事情！$(br2)它的很多內容都是 NYI。 $(br2) 將滑鼠停在 LP 箭頭上來觀看更多信息。"
     },
     {
       "type": "crafting",
@@ -26,7 +26,7 @@
       "images": [
         "bloodmagic:images/entries/alchemy_table/alchemy_table_gui.png"
       ],
-      "title": "Alchemy Table GUI",
+      "title": "鍊金術桌的GUI",
       "border": true,
       "text": "The Alchemy Table can be inserted into or extracted from. This is how it's configured."
     },
