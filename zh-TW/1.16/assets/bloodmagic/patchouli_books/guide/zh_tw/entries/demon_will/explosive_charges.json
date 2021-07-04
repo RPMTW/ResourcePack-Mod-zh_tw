@@ -66,7 +66,7 @@
       "heading": "指定意念炸藥",
       "recipe": "bloodmagic:soulforge/vein_charge",
       "anchor": "controlled_charge",
-      "text": "$(item)Controlled Charge$(), 只破壞$(underline)與它附著的該種方塊$()。\n從附著點開始，它可以一次挖掘$(item)約三組的方塊$()。\n像其他炸藥一樣，所有被挖掘的方塊將掉落。"
+      "text": "$(item)可控炸藥$()，只破壞$(underline)與它附著的該種方塊$()。\n從附著點開始，它可以一次挖掘$(item)約三組的方塊$()。\n像其他炸藥一樣，所有被挖掘的方塊將掉落。"
     },
     {
       "type": "3x_crafting_soulforge",
