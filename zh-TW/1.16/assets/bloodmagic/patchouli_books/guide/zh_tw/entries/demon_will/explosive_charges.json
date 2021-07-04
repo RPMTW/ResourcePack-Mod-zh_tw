@@ -50,7 +50,7 @@
       "heading": "伐林炸藥",
       "recipe": "bloodmagic:soulforge/deforester_charge",
       "anchor": "deforester_charge",
-      "text": "The $(item)Deforester Charge$() is for felling trees. It can be used on logs or leaves, and will fell all but the mightiest of trees, breaking up to $(item)two stacks$() of logs at a time (and neatly stripping away any leaves it encounters in the process!) Even the giant trees of the Jungle will fall in a matter of seconds."
+      "text": "$(item)伐木炸藥$() 用於砍伐樹木。\n它可以放在原木或樹葉上，除非是超大的樹，不然可以一次砍倒整棵，\n可以一次採集$(item)2組$() 原木（並整齊地剝去它在此過程中遇到的任何樹葉！）即使是叢林巨木也會在幾秒鐘內倒下。"
     },
     {
       "type": "3x_crafting_soulforge",
