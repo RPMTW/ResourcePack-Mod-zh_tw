@@ -123,5 +123,10 @@
     "text.autoconfig.randompatches.option.misc.disableDataFixerUpper": "Disable DataFixerUpper",
     "text.autoconfig.randompatches.option.misc.disableDataFixerUpper.@Tooltip": "Disables the execution of DataFixerUpper. §cWARNING: See comments.",
     "text.autoconfig.randompatches.option.misc.mixinBlacklist": "Mixin blacklist",
-    "text.autoconfig.randompatches.option.misc.mixinBlacklist.@Tooltip": "A list of mixins that should not be applied."
+    "text.autoconfig.randompatches.option.misc.mixinBlacklist.@Tooltip": "A list of mixins that should not be applied.",
+    "key.narrator": "Toggle Narrator",
+    "text.autoconfig.randompatches.option.client.keyBindings.standaloneModifiersDoNotConflictWithCombinations": "Standalone modifiers do not conflict with combinations",
+    "text.autoconfig.randompatches.option.client.keyBindings.standaloneModifiersDoNotConflictWithCombinations.@Tooltip": "Makes standalone modifier keys not conflict with key combinations with that modifier key.",
+    "text.autoconfig.randompatches.option.client.window.simpleTitle": "Simple title",
+    "text.autoconfig.randompatches.option.client.window.simpleTitle.@Tooltip": "The simple Minecraft window title."
 }
