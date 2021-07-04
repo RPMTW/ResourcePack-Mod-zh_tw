@@ -15,7 +15,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "The $(item)Void sigil$(), when right-clicked on any fluid, will destroy it at a cost of 50LP per block. Good for clearing out irksome lava flows without all that tedious placing and breaking of individual blocks."
+      "text": "$(item)虛空印記$()，使用印記右鍵點擊任何液體時，會以每格 50LP 的代價將其摧毀。 適合清除令人討厭的熔岩流，而無需繁瑣的放置和破壞單個方塊。"
     },
     {
       "type": "crafting_2-step_sigil",
