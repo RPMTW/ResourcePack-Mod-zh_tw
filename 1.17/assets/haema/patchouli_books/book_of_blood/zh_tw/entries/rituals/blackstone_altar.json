@@ -1,0 +1,16 @@
+{
+  "name": "bookOfBlood.rituals.blackstone_altar.title",
+  "icon": "minecraft:polished_blackstone_bricks",
+  "category": "haema:rituals",
+  "pages": [
+    {
+      "type": "text",
+      "text": "bookOfBlood.rituals.blackstone_altar.text.1.text"
+    },
+    {
+      "type": "multiblock",
+      "multiblock_id": "haema:blackstone_altar"
+    }
+  ],
+  "sortnum": 1
+}
