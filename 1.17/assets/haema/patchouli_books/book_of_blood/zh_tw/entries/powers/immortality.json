@@ -1,0 +1,11 @@
+{
+  "name": "bookOfBlood.powers.immortality.title",
+  "icon": "minecraft:totem_of_undying",
+  "category": "haema:powers",
+  "pages": [
+    {
+      "type": "text",
+      "text": "bookOfBlood.powers.immortality.text.1.text"
+    }
+  ]
+}

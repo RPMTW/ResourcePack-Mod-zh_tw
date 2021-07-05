@@ -1,0 +1,16 @@
+{
+  "name": "bookOfBlood.beginning.injector.title",
+  "icon": "haema:empty_vampire_blood_injector",
+  "category": "haema:beginning",
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "haema:empty_vampire_blood_injector",
+      "recipe2": "haema:vampire_blood_injector"
+    },
+    {
+      "type": "text",
+      "text": "bookOfBlood.beginning.injector.text.1.text"
+    }
+  ]
+}

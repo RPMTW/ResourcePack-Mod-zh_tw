@@ -1,0 +1,11 @@
+{
+  "name": "bookOfBlood.surviving.weaknesses.title",
+  "icon": "minecraft:wooden_sword",
+  "category": "haema:surviving",
+  "pages": [
+    {
+      "type": "text",
+      "text": "bookOfBlood.surviving.weaknesses.text.1.text"
+    }
+  ]
+}
