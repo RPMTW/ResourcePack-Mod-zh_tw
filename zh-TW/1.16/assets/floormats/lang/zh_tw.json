@@ -16,7 +16,7 @@
     "block.floormats.gold_floormat_block": "金輕質地墊",
     "block.floormats.iron_floormat_block": "鐵重質地墊",
     "block.floormats.stone_floormat_block": "石地墊",
-    "command.floormats": "§nWelcome to Floor Mats by D0CTOR ZED!§r\n\nTo get a list of help topics, type §a/floormats help§r.\nFor help with those topics, type §a/floormats help [topic]§r.",
+    "command.floormats": "§n歡迎來到Floor Mats by D0CTOR ZED！§r\n\n獲得幫助主題，打 §a/floormats help§r.\n獲得幫助裡的主題幫助， 打 §a/floormats help [topic]§r.",
     "command.floormats.help": "Help is available for the following topics:\n§aconnections§r, §agold§r, §alinking§r, §apower§r, §atypes§r, §awiki§r.",
     "command.floormats.help.connections": "You can break and reform connections between identical adjacent floor mat blocks by right-clicking each of the floor mat blocks with a connector.  See also §a/floormats tools§r.",
     "command.floormats.help.gold": "Gold floor mats are triggered by the player(s) who placed the floor mat.  Players are not linked to specific blocks, so large groups can share a small mat if blocks are added by each player and removed as needed for size.  Only removing the last block will unlink the player(s).",
