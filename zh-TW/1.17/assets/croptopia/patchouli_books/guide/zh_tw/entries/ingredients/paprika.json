@@ -1,0 +1,12 @@
+{
+  "name": "意大利辣香腸",
+  "icon": "croptopia:paprika",
+  "category": "croptopia:ingredients",
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "croptopia:paprika",
+      "text": "Recipe for paprika."
+    }
+  ]
+}
