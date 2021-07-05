@@ -40,5 +40,10 @@
     "misc.artifality.max_level": "最大等級:",
     "misc.artifality.press_shift": "<Press Shift>",
     "misc.artifality.tier": "能量等級",
-    "item.artifality.forest_staff": "森林法杖[WIP]"
+    "item.artifality.forest_staff": "Forest Staff",
+    "block.artifality.mini_somik": "Mini Somik",
+    "block.artifality.mini_somik.description": "Funny guy.",
+    "item.artifality.balloon": "氣球",
+    "item.artifality.balloon.description": "When in hand increases jump\nheight and while sneaking\ngives slow falling effect.",
+    "item.artifality.forest_staff.description": "Allows you to easily plant a\nsaplings and fertilize it,\ntakes the necessary items from\nthe player's inventory, and\nalso rewards with experience."
 }
