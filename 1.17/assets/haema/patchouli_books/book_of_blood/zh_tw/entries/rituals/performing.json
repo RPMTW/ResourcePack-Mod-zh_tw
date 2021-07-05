@@ -1,0 +1,20 @@
+{
+  "name": "bookOfBlood.rituals.performing.title",
+  "icon": "minecraft:ghast_tear",
+  "category": "haema:rituals",
+  "pages": [
+    {
+      "type": "text",
+      "text": "bookOfBlood.rituals.performing.text.1.text"
+    },
+    {
+      "type": "text",
+      "text": "bookOfBlood.rituals.performing.text.2.text"
+    },
+    {
+      "type": "image",
+      "images": ["haema:textures/gui/book_of_blood/ritual.png"],
+      "text": "bookOfBlood.rituals.performing.image.1.text"
+    }
+  ]
+}
