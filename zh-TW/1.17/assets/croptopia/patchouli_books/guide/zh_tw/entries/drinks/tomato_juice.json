@@ -1,0 +1,12 @@
+{
+  "name": "番茄果汁",
+  "icon": "croptopia:tomato_juice",
+  "category": "croptopia:drinks",
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "croptopia:tomato_juice",
+      "text": "Recipe for tomato juice."
+    }
+  ]
+}
