@@ -1,0 +1,12 @@
+{
+  "name": "英式傳統三明治",
+  "icon": "croptopia:blt",
+  "category": "croptopia:meals",
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "croptopia:blt",
+      "text": "Recipe for a BLT sandwich."
+    }
+  ]
+}
