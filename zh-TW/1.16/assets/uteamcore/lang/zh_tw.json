@@ -8,9 +8,9 @@
     "commands.uteamcore.stackinfo.success.block": "方塊: %s",
     "commands.uteamcore.stackinfo.success.item": "展示的物品：%s",
     "commands.uteamcore.stackinfo.success.nbt": "NBT: %s",
-    "jei.uteamcore.dyeable.info": "These items can be dyed with dye in the crafting field.",
+    "jei.uteamcore.dyeable.info": "這些物品可以在合成欄進行染色。",
     "screen.uteamcore.config.discord.done": "完成",
-    "screen.uteamcore.config.discord.off": "Discord connection is off",
-    "screen.uteamcore.config.discord.on": "Discord connection is on",
-    "screen.uteamcore.config.discord.title": "U Team Core Discord Config Options"
+    "screen.uteamcore.config.discord.off": "Discord連接已關閉",
+    "screen.uteamcore.config.discord.on": "Discord連接已開啟",
+    "screen.uteamcore.config.discord.title": "U Team Core Discord 設定選項"
 }

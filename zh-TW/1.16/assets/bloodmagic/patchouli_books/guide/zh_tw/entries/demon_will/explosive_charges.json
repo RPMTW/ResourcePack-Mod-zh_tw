@@ -31,10 +31,10 @@
     },
     {
       "type": "crafting_soulforge",
-      "heading": "定向炸藥",
+      "heading": "聚能炸藥",
       "recipe": "bloodmagic:soulforge/shaped_charge",
       "anchor": "shaped_charge",
-      "text": "$(item)定向炸彈$() 將摧毀一個 5x5x5 的立方體，作用方向為它放置的方塊的那一側，就像用鎬開採一樣掉落所有方塊。 它甚至適用於黑曜石，而且在這樣做的同時提供了最令人滿意的 $(o)KABOOM$()。"
+      "text": "$(item)聚能炸藥$() 將摧毀一個 5x5x5 的立方體，作用方向為它放置的方塊的那一側，就像用鎬開採一樣掉落所有方塊。 它甚至適用於黑曜石，而且在這樣做的同時提供了最令人滿意的 $(o)KABOOM$()。"
     },
     {
       "type": "3x_crafting_soulforge",
@@ -47,10 +47,10 @@
     },
     {
       "type": "crafting_soulforge",
-      "heading": "伐林意念炸藥",
+      "heading": "伐林炸藥",
       "recipe": "bloodmagic:soulforge/deforester_charge",
       "anchor": "deforester_charge",
-      "text": "The $(item)Deforester Charge$() is for felling trees. It can be used on logs or leaves, and will fell all but the mightiest of trees, breaking up to $(item)two stacks$() of logs at a time (and neatly stripping away any leaves it encounters in the process!) Even the giant trees of the Jungle will fall in a matter of seconds."
+      "text": "$(item)伐木炸藥$() 用於砍伐樹木。\n它可以放在原木或樹葉上，除非是超大的樹，不然可以一次砍倒整棵，\n可以一次採集$(item)2組$() 原木（並整齊地剝去它在此過程中遇到的任何樹葉！）即使是叢林巨木也會在幾秒鐘內倒下。"
     },
     {
       "type": "3x_crafting_soulforge",
@@ -63,10 +63,10 @@
     },
     {
       "type": "crafting_soulforge",
-      "heading": "指定意念炸藥",
+      "heading": "可控炸藥",
       "recipe": "bloodmagic:soulforge/vein_charge",
       "anchor": "controlled_charge",
-      "text": "The $(item)Controlled Charge$(), only destroys blocks $(underline)identical to the block it lands on$(). It will destroy up to $(item)Three stacks$() of blocks, seeking out from the original point. As with other charges, all mined blocks will be dropped."
+      "text": "$(item)可控炸藥$()，只破壞$(underline)與它附著的該種方塊$()。\n從附著點開始，它可以一次挖掘$(item)約三組的方塊$()。\n像其他炸藥一樣，所有被挖掘的方塊將掉落。"
     },
     {
       "type": "3x_crafting_soulforge",
@@ -79,10 +79,10 @@
     },
     {
       "type": "crafting_soulforge",
-      "heading": "蘑菇意念炸藥",
+      "heading": "菌菇炸藥",
       "recipe": "bloodmagic:soulforge/fungal_charge",
       "anchor": "fungal_charge",
-      "text": "The $(item)Fungal Charge$() is for felling giant mushrooms, both in the Overworld and the Nether. Although doubtful that you will ever reach this in a single charge, it can break up to $(item)three stacks of blocks$()."
+      "text": "$(item)菌菇炸藥$() 用於砍伐主世界和地獄的巨型蘑菇。 \n雖說一次爆炸能否達到目的還有待商榷，但它可以破壞約$(item) 三組的方塊$() 。"
     },
     {
       "type": "3x_crafting_soulforge",

@@ -23,7 +23,7 @@
       "alchemy_table.recipe": "bloodmagic:alchemytable/reagent_sight",
       "array.heading": "見解印記",
       "array.recipe": "bloodmagic:array/seersigil",
-      "array.text": "$(italic)When seeing all is not enough"
+      "array.text": "$(italic)當看到的一切還不足夠"
     },
     {
       "type": "text",
@@ -34,9 +34,9 @@
       "images": [
         "bloodmagic:images/entries/sigil/seer_sigil_info.png"
       ],
-      "title": "Seer's Sigil Display",
+      "title": "見解印記的顯示圖",
       "border": true,
-      "text": "The Seer's Sigil's displays this HUD when you are looking at a blood Altar."
+      "text": "在你查看血之祭壇時手持見解印記，會顯示此 HUD。"
     }
   ]
 }

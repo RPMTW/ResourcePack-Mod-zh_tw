@@ -1,6 +1,6 @@
 {
   "modloader.twitchspawn.error.tsl": "TSL Error: §4{2}",
-  "modloader.twitchspawn.error.json": "JSON Error: §4{2}",
+  "modloader.twitchspawn.error.json": "JSON 錯誤: §4{2}",
   "modloader.twitchspawn.error.toml": "TOML Error: §4{2}",
   "modloader.twitchspawn.error.unknown": "Unknown Error: §4{2} ({3})",
   "commands.twitchspawn.reloadcfg.success": "§3>> 成功重新載入所有配置",
