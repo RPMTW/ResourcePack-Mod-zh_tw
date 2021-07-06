@@ -7,6 +7,7 @@ const { GetModID } = require("./Module/GetModID");
 const ver = config.ver;
 const modCount = config.modCount;
 const CurseForge = require("mc-curseforge-api");
+const request = require("request");
 
 let ModDirPath = path.join(__dirname, "mod");
 if (!fs.existsSync(ModDirPath)) {
@@ -54,14 +55,15 @@ function GetFile(ID) {
                 if (fileName === "undefined") {
                     fileName = String(files[i].download_url.split("https://edge.forgecdn.net/files/")[1].split(`${fileID.substr(0, 4)}/${fileID.substr(5, 7)}/`)[1]);
                 }
-                let test = path.join(ModDirPath, fileName);
+                let file = fs.createWriteStream(path.join(ModDirPath, fileName));
                 slug = fileName.split(".jar")[0];
-                files[i].download(test, true).then(() => {
+                request(files[i].download_url).pipe(file).on("close", function (err) {
+                    if(err){
+                        console.log("下載模組檔案時發生未知錯誤: " + err);
+                    }
                     console.log(`${fileName.split(".jar")[0]} 下載完成。`);
                     compressing.zip.uncompress(`./mod/${fileName}`, "../jar/" + slug).then(() => GetModID(slug, ID, fileName));
-                }).catch((err) => {
-                    console.log("發生未知錯誤: " + err);
-                });
+                })
                 break;
             }
         }
