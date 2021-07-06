@@ -1,16 +1,16 @@
 {
-	"name": "The Eye Shrine",
+	"name": "眼神神殿",
 	"icon": "minecraft:dragon_egg",
 	"category": "adventurez:block_category",
 	"pages": [
 		{
 			"type": "text",
-			"title": "The Eye Shrine",
-			"text": "This shrine drains energy from the rarest block in Minecraft: The Dragon Egg. Build it inside The End to summon the deadly creature called The Eye"
+			"title": "眼神神殿",
+			"text": "這個神殿從Minecraft中最稀有的方塊中抽取能量：龍蛋。把它建在終界裡，可以召喚出致命的生物眼睛。"
 		},
 		{
 			"type": "multiblock",
-			"text": "The bottom layer can also be build out of Crying Obsidian",
+			"text": "底層也可以用哭泣的黑曜石來建造。",
 			"offset": [
 				0,
 				4,
