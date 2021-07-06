@@ -1,0 +1,24 @@
+{
+  "name": "bookOfBlood.surviving.nourishment.title",
+  "icon": "haema:textures/gui/16x_sprites/blood_full.png",
+  "category": "haema:surviving",
+  "pages": [
+    {
+      "type": "text",
+      "text": "bookOfBlood.surviving.nourishment.text.1.text"
+    },
+    {
+      "type": "text",
+      "text": "bookOfBlood.surviving.nourishment.text.2.text"
+    },
+    {
+      "type": "entity",
+      "entity": "minecraft:villager",
+      "rotate": false
+    },
+    {
+      "type": "text",
+      "text": "bookOfBlood.surviving.nourishment.text.3.text"
+    }
+  ]
+}

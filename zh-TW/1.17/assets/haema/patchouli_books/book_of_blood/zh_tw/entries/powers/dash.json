@@ -1,0 +1,11 @@
+{
+  "name": "bookOfBlood.powers.dash.title",
+  "icon": "minecraft:feather",
+  "category": "haema:powers",
+  "pages": [
+    {
+      "type": "text",
+      "text": "bookOfBlood.powers.dash.text.1.text"
+    }
+  ]
+}

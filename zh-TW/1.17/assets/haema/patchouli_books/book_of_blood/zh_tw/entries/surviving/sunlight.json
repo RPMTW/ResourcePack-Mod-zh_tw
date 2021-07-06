@@ -1,0 +1,16 @@
+{
+  "name": "bookOfBlood.surviving.sunlight.title",
+  "icon": "haema:textures/gui/16x_sprites/mob_effect/sunlight_sickness.png",
+  "category": "haema:surviving",
+  "pages": [
+    {
+      "type": "text",
+      "text": "bookOfBlood.surviving.sunlight.text.1.text"
+    },
+    {
+      "type": "spotlight",
+      "item": "minecraft:leather_helmet",
+      "text": "bookOfBlood.surviving.sunlight.spotlight.1.text"
+    }
+  ]
+}

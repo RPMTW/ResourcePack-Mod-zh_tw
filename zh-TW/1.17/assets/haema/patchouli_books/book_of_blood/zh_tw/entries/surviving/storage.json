@@ -1,0 +1,12 @@
+{
+  "name": "bookOfBlood.surviving.storage.title",
+  "icon": "haema:vampire_blood_injector",
+  "category": "haema:surviving",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "haema:vampire_blood_injector",
+      "text": "bookOfBlood.surviving.storage.spotlight.1.text"
+    }
+  ]
+}
