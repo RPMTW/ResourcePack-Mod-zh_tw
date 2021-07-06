@@ -61,7 +61,7 @@
     "inventoryprofiles.config.description.lock_slots_quick_config_key": "無需按住修改鍵即可配置鎖槽",
     "inventoryprofiles.config.description.lock_slots_quick_disable": "當該鍵被按住時，可快速禁用鎖槽",
     "inventoryprofiles.config.description.lock_slots_config_switch_type": "將配置開關類型設置為切換或保持",
-    "inventoryprofiles.config.description.show_locked_slots_background": "Draw locked slots background\n(You can create your own texture from\n\nresourcepacks/§o[pack_name]§r/assets/inventoryprofilesnext/textures/gui/overlay.png)",
+    "inventoryprofiles.config.description.show_locked_slots_background": "繪製鎖槽背景\n(你可以從以下路徑建立自訂材質\n\nresourcepacks/§o[pack_name]§r/assets/inventoryprofilesnext/textures/gui/overlay.png)",
     "inventoryprofiles.config.description.show_locked_slots_foreground": "Draw locked slots foreground\n(You can create your own texture from\n\nresourcepacks/§o[pack_name]§r/assets/inventoryprofilesnext/textures/gui/overlay.png)",
     "inventoryprofiles.config.description.locked_slots_foreground_style": "Select foreground style from preset\n(You can create your own texture from\n\nresourcepacks/§o[pack_name]§r/assets/inventoryprofilesnext/textures/gui/overlay.png)",
     "inventoryprofiles.config.name.enable_auto_refill": "啟用自動補充",
