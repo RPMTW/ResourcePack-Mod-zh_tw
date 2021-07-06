@@ -208,5 +208,5 @@
     "inventoryprofiles.config.description.locked_slots_disable_quick_move_throw": "鎖槽將不受以下影響：\n - Shift+點擊\n - Ctrl+Q\n - 滑動 Shift+單擊\n滑動 Ctrl+Q\n\n不適用於伺服器。 並且可能永遠不會",
     "inventoryprofiles.config.description.locked_slots_allow_pickup_into_empty": "是否可以將物品從地上撿到空的鎖槽中。\n可堆疊的物品仍然會被撿到有空間的同一物品鎖槽中。",
     "inventoryprofiles.config.name.throw_all_items": "扔所有物品",
-    "inventoryprofiles.config.description.throw_all_items": "The key to throw all items for either player inventory or the opened container.Generally useful for mass crafting.\nAll modifier keys for Move All Items apply here too."
+    "inventoryprofiles.config.description.throw_all_items": "扔出玩家物品欄或打開的容器中的所有物品的按鍵。一般來說，在大量製作時很有用。\n所有移動所有物品的修改鍵也適用於此。"
 }
