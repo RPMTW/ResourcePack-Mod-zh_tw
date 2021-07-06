@@ -1,7 +1,7 @@
 金屬衝壓機
 Under Pressure!
-<&multiblock>The Metal Press is an automated way of shaping metal. It uses a high pressure piston to press a mold onto an ingot, forming it into a plate, rod or other metal components.
-The structure is created as shown above, to form the multiblock, click the piston with an Engineer's Hammer. Power is input through the top, and items through the conveyors, obviously in the direction of movement. The lower middle block is the redstone control port, rightclicking it with an Engineer's Hammer allows you to invert the redstone control.<np>
-<&mold_blueprint>To actually work, the metal press requires a mold to be attached to the piston. These molds are created in the <link;workbench;§o§nEngineer's §o§nWorkbench§r> using the blueprint displayed above.<np>
-<&mold_recipes>Molds are crafted as shown above, with the wirecutter taking some damage for every crafting operation. They are then inserted into the metal press by right-clicking the multiblock with a mold in hand.<np>
+<&multiblock>The Metal Press is an automated way of shaping metal. 它使用高壓活塞將模具壓在金屬上，將其成形為板子、桿子或是其他金屬元件。
+結構如上所示建造，要使此多方塊結構成形，使用工程師錘右擊活塞。 能量由上方輸入，且物品非常明顯地是輸送帶運動方向起點輸入。 中央下部的方塊是紅石控制埠，使用工程師錘右擊可以使你反轉紅石控制<np>。
+<&mold_blueprint>為了使其實際運作起來，金屬衝壓機必須要在活塞上裝上模具。 這些模具是在<link;workbench;§o§nEngineer's §o§nWorkbench§r>被製作，使用上面展示的藍圖。<np>
+<&mold_recipes>模具如上所示製作，每次製作會扣些許剪線鉗的耐久度。 They are then inserted into the metal press by right-clicking the multiblock with a mold in hand.<np>
 <&packing>The packing and unpacking molds can be used to compress 4 or 9 of the same item into their relevant storage form, as well as unpack them again. This can be utilized to store ingots as blocks, or automatically create simple blocks like Sandstone.
