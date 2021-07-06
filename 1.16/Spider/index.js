@@ -7,6 +7,7 @@ const { GetModID } = require("./Module/GetModID");
 const ver = config.ver;
 const modCount = config.modCount;
 const CurseForge = require("mc-curseforge-api");
+const request = require("request");
 
 let ModDirPath = path.join(__dirname, "mod");
 if (!fs.existsSync(ModDirPath)) {
@@ -48,20 +49,20 @@ function GetFile(ID) {
         });
         for (let i = 0; i < files.length; i++) {
             let data = files[i].minecraft_versions;
-            if (data.includes(config.ver) || data.includes("1.16.4") || data.includes("1.16.3") || data.includes("1.16.2") || data.includes("1.16.1") || data.includes("1.16")) {
-                fileID = String(files[i].id);
+            if (data.includes(config.ver) || data.includes("1.16.4") || data.includes("1.16.3") || data.includes("1.16.2") || data.includes("1.16.1") || data.includes("1.16")) {                fileID = String(files[i].id);
                 fileName = String(files[i].download_url.split("https://edge.forgecdn.net/files/")[1].split(`${fileID.substr(0, 4)}/${fileID.substr(4, 7)}/`)[1]);
                 if (fileName === "undefined") {
                     fileName = String(files[i].download_url.split("https://edge.forgecdn.net/files/")[1].split(`${fileID.substr(0, 4)}/${fileID.substr(5, 7)}/`)[1]);
                 }
-                let test = path.join(ModDirPath, fileName);
+                let file = fs.createWriteStream(path.join(ModDirPath, fileName));
                 slug = fileName.split(".jar")[0];
-                files[i].download(test, true).then(() => {
+                request(files[i].download_url).pipe(file).on("close", function (err) {
+                    if(err){
+                        console.log("下載模組檔案時發生未知錯誤: " + err);
+                    }
                     console.log(`${fileName.split(".jar")[0]} 下載完成。`);
                     compressing.zip.uncompress(`./mod/${fileName}`, "../jar/" + slug).then(() => GetModID(slug, ID, fileName));
-                }).catch((err) => {
-                    console.log("發生未知錯誤: " + err);
-                });
+                })
                 break;
             }
         }
