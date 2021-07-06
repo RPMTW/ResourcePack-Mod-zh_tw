@@ -203,10 +203,10 @@
     "inventoryprofiles.tooltip.move_all_button.move_all": "§6按住 §o%s§r§6 - 移動所有",
     "inventoryprofiles.tooltip.move_all_button.move_matching_only": "§6按住 §o%s§r§6 - 只移動匹配項目",
     "inventoryprofiles.tooltip.continuous_crafting_checkbox": "連續製作",
-    "inventoryprofiles.config.name.locked_slots_disable_quick_move_throw": "Disable SHIFT click/Ctrl+Q/Q for locked slots",
+    "inventoryprofiles.config.name.locked_slots_disable_quick_move_throw": "對上鎖的槽位禁用 SHIFT click/Ctrl+Q/Q",
     "inventoryprofiles.config.name.locked_slots_allow_pickup_into_empty": "Enable picking items into empty locked slots",
     "inventoryprofiles.config.description.locked_slots_disable_quick_move_throw": "Locked slots will be immune to:\n - Shift+click\n - Ctrl+Q\n - Swipe Shift+click\nSwipe Ctrl+Q\n\nDOES NOT WORK ON SERVERS. AND PROBABLY NEVER WILL",
     "inventoryprofiles.config.description.locked_slots_allow_pickup_into_empty": "Should it be possible to pick items from the ground into EMPTY locked slots.\nStackable items will still be picked into locked sots of the same item that have room.",
-    "inventoryprofiles.config.name.throw_all_items": "Throw All Items",
+    "inventoryprofiles.config.name.throw_all_items": "扔所有物品",
     "inventoryprofiles.config.description.throw_all_items": "The key to throw all items for either player inventory or the opened container.Generally useful for mass crafting.\nAll modifier keys for Move All Items apply here too."
 }
