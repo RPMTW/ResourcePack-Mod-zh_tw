@@ -162,7 +162,7 @@
     "prefab.gui.structure.glass": "玻璃顏色",
     "prefab.gui.structure.bed_color": "床的顏色",
     "prefab.gui.structure.facing.player": "注意：如果你面向北邊的話，選擇南方會使建築朝向你。",
-    "prefab.gui.structure.block.clicked": "右圖中顯示的紅色方塊為你點擊的位置。",
+    "prefab.gui.structure.block.clicked": "The yellow outline is the block you clicked on.",
     "prefab.gui.structure.door.facing": "注意：如果你面向北邊的話，選擇南方會使門朝向你。",
     "prefab.gui.structure.nobuild": "無法建造 ！ 因為範圍中有受保護的區域或無法被破壞的方塊。《方塊名稱： %1$s》《方塊位置： x=%2$s， y=%3$s， z=%4$s》",
     "prefab.gui.button.build": "建造 ！",

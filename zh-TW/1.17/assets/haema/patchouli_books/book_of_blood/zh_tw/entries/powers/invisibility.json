@@ -1,0 +1,11 @@
+{
+  "name": "bookOfBlood.powers.invisibility.title",
+  "icon": "minecraft:potion{Potion:\"minecraft:invisibility\"}",
+  "category": "haema:powers",
+  "pages": [
+    {
+      "type": "text",
+      "text": "bookOfBlood.powers.invisibility.text.1.text"
+    }
+  ]
+}

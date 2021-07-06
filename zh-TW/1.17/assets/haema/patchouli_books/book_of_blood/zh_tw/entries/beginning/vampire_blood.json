@@ -1,0 +1,13 @@
+{
+  "name": "bookOfBlood.beginning.blood.title",
+  "icon": "haema:vampire_blood",
+  "category": "haema:beginning",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "haema:vampire_blood",
+      "text": "bookOfBlood.beginning.blood.spotlight.1.text"
+    }
+  ],
+  "sortnum": 0
+}

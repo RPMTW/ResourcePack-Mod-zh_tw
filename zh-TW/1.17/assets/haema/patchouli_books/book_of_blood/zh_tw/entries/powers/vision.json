@@ -1,0 +1,11 @@
+{
+  "name": "bookOfBlood.powers.vision.title",
+  "icon": "minecraft:ender_eye",
+  "category": "haema:powers",
+  "pages": [
+    {
+      "type": "text",
+      "text": "bookOfBlood.powers.vision.text.1.text"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "bookOfBlood.rituals.stone_altar.title",
+  "icon": "minecraft:stone_bricks",
+  "category": "haema:rituals",
+  "pages": [
+    {
+      "type": "text",
+      "text": "bookOfBlood.rituals.stone_altar.text.1.text"
+    },
+    {
+      "type": "multiblock",
+      "multiblock_id": "haema:basic_altar"
+    }
+  ],
+  "sortnum": 0
+}

@@ -1,0 +1,12 @@
+{
+  "name": "巧克力",
+  "icon": "croptopia:chocolate",
+  "category": "croptopia:ingredients",
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "croptopia:chocolate",
+      "text": "Recipe for chocolate."
+    }
+  ]
+}

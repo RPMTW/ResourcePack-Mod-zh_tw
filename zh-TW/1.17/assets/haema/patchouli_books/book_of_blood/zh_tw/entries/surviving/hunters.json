@@ -1,0 +1,24 @@
+{
+  "name": "bookOfBlood.surviving.hunters.title",
+  "icon": "minecraft:crossbow",
+  "category": "haema:surviving",
+  "pages": [
+    {
+      "type": "text",
+      "text": "bookOfBlood.surviving.hunters.text.1.text"
+    },
+    {
+      "type": "text",
+      "text": "bookOfBlood.surviving.hunters.text.2.text"
+    },
+    {
+      "type": "entity",
+      "entity": "haema:vampire_hunter",
+      "rotate": false
+    },
+    {
+      "type": "text",
+      "text": "bookOfBlood.surviving.hunters.text.3.text"
+    }
+  ]
+}
