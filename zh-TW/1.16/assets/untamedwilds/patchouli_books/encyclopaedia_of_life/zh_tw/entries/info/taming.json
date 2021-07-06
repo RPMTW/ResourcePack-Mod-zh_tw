@@ -1,11 +1,11 @@
 {
-    "name": "Taming",
+    "name": "馴服",
     "icon": "untamedwilds:textures/icon/info/taming.png",
     "category": "untamedwilds:info",
     "pages": [
         {
             "type": "text",
-            "title": "Taming",
+            "title": "馴服",
             "text": "Taming is the process by which a mob imprints on a Player, whose orders they will follow. $(br2)Most intelligent mobs can be tamed, albeit only Children can properly imprint on a Player when fed their favourite food. Do note that it may take multiple items to tame a mob."
         },
         {
