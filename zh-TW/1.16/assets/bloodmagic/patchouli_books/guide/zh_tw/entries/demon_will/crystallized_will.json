@@ -52,7 +52,7 @@
     },
     {
       "type": "text",
-      "text": "If you have at least 1,000 total Will in your inventory (Across any number of $(l:bloodmagic:demon_will/soul_gem)Tartaric Gems$()), you can harvest these crystals by right-clicking the spire with an empty hand. This will remove all but the central spire. $(br2)However, if you have not got this much will, $(italic)really$() need that central spire, or are just in a hurry, you can harvest the whole lot with a pickaxe."
+      "text": "如果您的物品欄中至少有 1,000 個 意志（總合任意數量的 $(l:bloodmagic:demon_will/soul_gem)地獄魂石$()），您可以通過空手右擊晶簇來收集這些晶體。這能夠摘下除中央外的所有晶體。 $(br2)然而，如果你意志不夠，還是$(italic)真的$()需要中間那個晶簇，或者只是趕時間，你可以用鎬一次挖下它們全部。"
     },
     {
       "type": "relations",
@@ -63,7 +63,7 @@
         "rituals/rituals_list/ritual_crystal_harvest",
         "demon_will/aspected_will"
       ],
-      "text": "There's more I can do, I can feel it..."
+      "text": "我還能做的更多，我能感覺得到..."
     }
   ]
 }
