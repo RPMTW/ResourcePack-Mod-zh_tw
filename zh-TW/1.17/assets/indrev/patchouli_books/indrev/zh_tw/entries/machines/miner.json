@@ -5,12 +5,12 @@
   "icon": "indrev:mining_rig_mk4",
   "pages": [
     {
-      "type": "crafting",
+      "type": "合成",
       "recipe": "indrev:shaped/mining_rig_mk4",
       "text": "$(l)$(o)礦機電腦$()放置於$(l:machines/miner#chunk_scanner)$(t:Chunk Scanner)$(l)$(o)$(#0000ff)掃描過的$()chunk裡時將耗費能量挖掘。挖掘時不摧毀方塊。$(br)礦機電腦運行時耗費$(#1111FF)64LF/tick$()，每加裝一個鑽頭能源耗費增加 $(#1111FF)256LF/tick$()"
     },
     {
-      "type": "crafting",
+      "type": "合成",
       "recipe": "indrev:shaped/drill_bottom",
       "text": "礦機電腦需要礦機鑽頭才能運作。礦機鑽頭必須放在電腦旁邊，並且需要鑽頭。每多一個礦機鑽頭就會提高一些開採速度。$(br)此為可正常運行的礦機的示意圖："
     },
@@ -24,7 +24,7 @@
     },
     {
       "anchor": "chunk_scanner",
-      "type": "crafting",
+      "type": "合成",
       "recipe": "indrev:shaped/chunk_scanner",
       "text": "$(l)$(o)區塊掃描器$()是一種用於收集區塊礦脈類型地理數據的工具。掃描器將為您提供礦機運作所需的掃描結果。"
     },
