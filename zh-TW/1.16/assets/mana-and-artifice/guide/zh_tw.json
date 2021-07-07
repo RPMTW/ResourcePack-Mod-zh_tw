@@ -443,7 +443,7 @@
 			},
 			{
 				"type": "text",
-				"value": "這個模組包含幾個命令，版主可以用來幫助服務器上的人，或者在創造模式下進行測試。"
+				"value": "這個模組包含幾個命令，管理員可以用來幫助服務器上的人，或者在創造模式下進行測試。"
 			},
 			{
 				"type": "text",
@@ -451,7 +451,7 @@
 			},
 			{
 				"type": "text",
-				"value": "/setFaction [faction_id] <player>\n設置玩家的派系。 出於某種原因，這不會在伺服器上自動完成因為Forge，但有效的派係是：NONE、DEMONS、FEY_COURT、ANCIENT_WIZARDS"
+				"value": "/setFaction [faction_id] <player>\n設置玩家的派系。 因為Forge的某些原因，這不會在伺服器上自動完成，但有效的派係是：NONE、DEMONS、FEY_COURT、ANCIENT_WIZARDS"
 			},
 			{
 				"type": "text",
@@ -3179,7 +3179,7 @@
 			},
 			{
 				"type": "text",
-				"value": "I can use a combination of arcane and ender magic to divine the location of nearby ores, making them visible to me through walls at a short distance.  If I hold an block in my offhand, it will focus the spell on finding that block."
+				"value": "我可以使用奧術和終界魔法的組合來占卜附近礦物的位置，讓我可以在短距離內透過方塊看到它們。如果我非慣用手持一個方塊，他就會幫我找到那種方塊。"
 			}
 		],
 		"related_recipes": [
@@ -3239,7 +3239,7 @@
 			},
 			{
 				"type": "text",
-				"value": "I can conjure a phantasmal workbench that will allow me to craft items at it for a short duration.  I'm able to effortlessly maintain the workbench as long as I or any other person is close to it, but otherwise it will fade after one minute."
+				"value": "我可以召喚出一個在短時間內允許我製作東西的虛幻工作檯。只要我或有其他任何人在那工作檯附近，我就可以毫不費力的維持該工作檯，否則它在一分鐘之後就會消失。"
 			}
 		],
 		"related_recipes": [
@@ -3259,7 +3259,7 @@
 			},
 			{
 				"type": "text",
-				"value": "I can use my magic to bring blocks to life for a short time!  They'll hop around and attack my enemies before returning to a block where they stand."
+				"value": "我可以用我的魔法短時間內賦予方塊生命！被賦予生命的方塊將會在它們變回普通方塊前在附近彈跳並攻擊我的敵人。"
 			}
 		],
 		"related_recipes": [
@@ -3299,7 +3299,7 @@
 			},
 			{
 				"type": "text",
-				"value": "The demons have taught me how to enter and exit their realm at will, without the need for the usual obsidian portals."
+				"value": "惡魔們教會了我如何隨意的進入及離開它們的領域(地獄)且不須需要穿過黑曜石傳送門。"
 			}
 		],
 		"related_recipes": [
@@ -3319,7 +3319,7 @@
 			},
 			{
 				"type": "text",
-				"value": "I can use arcane magic and the crystalline matrix of a diamond to bind a creature within.  The more magnitude I put into the spell, the more powerful the creature I can bind.  I imagine I can't bind other wizards or certain exceptionally powerful beings no matter how hard I try."
+				"value": "我可以使用奧術魔法和鑽石的結晶模型將一個生物困在裡面。我越增強該法術的威力，我就可以困住越強大的生物。但不論我如何嘗試，我仍然無法困住其他法師或特定的強力生物。"
 			}
 		],
 		"related_recipes": [
@@ -3339,7 +3339,7 @@
 			},
 			{
 				"type": "text",
-				"value": "Using some rudimentary mix of air and earth magic, I can cause simple blocks to temporarily defy gravity and float upwards into the sky before locking in place."
+				"value": "透過簡單的混合一些空氣和地魔法，我可以使一些簡單的方塊暫時抵抗重力並在它們歸位之前飄到空中。"
 			},
 			{
 				"type": "text",
@@ -3363,7 +3363,7 @@
 			},
 			{
 				"type": "text",
-				"value": "I can use earth magic to cause simple blocks to fall under the influence of gravity for a short time.  Next time I see that creeper, I intend to fling it backwards and collapse the tunnel around it!"
+				"value": "我可以利用地魔法讓簡單的方塊在重力影響下在一小段時間內陷落。下次當我看到苦力怕的時候我打算把它扔回去並讓他身邊的方塊陷落！"
 			}
 		],
 		"related_recipes": [
