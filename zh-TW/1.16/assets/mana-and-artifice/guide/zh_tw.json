@@ -971,7 +971,7 @@
 			},
 			{
 				"type": "text",
-				"value": "如果我可以在鐵上塗上溫特姆粉末並熔煉它以獲得塊，我應該可以用純化的溫特姆粉末做類似的事情。 只要記住在熔爐或高爐中熔煉純淨鍍有溫特姆的鐵。"
+				"value": "如果我可以在鐵上塗上溫特姆粉末並熔煉它以獲得塊，我應該可以用純淨溫特姆粉末做類似的事情。 只要記住在熔爐或高爐中熔煉純淨鍍有溫特姆的鐵。"
 			}
 		],
 		"related_recipes": [
@@ -3423,7 +3423,7 @@
 			},
 			{
 				"type": "text",
-				"value": "I've been thinking of a way to use fire spells to do more than destroy.  I know there are many effects of fire that are beneficial:  warmth, cooked food, industry.  But what about the preservation of life?  I believe with some carefully applied fire, I can seal up wounds.  It will hurt initially, but the overall benefit will be greater.\n\nMagnitude 1: Damage 2, heal 4\n\nMagnitude 2: Damage 4, heal 8\n\nMagnitude 3: Damage 8, heal 16\n\nWARNING: This can only be crafted by those allied with the Demons of the Nether."
+				"value": "我已經想出了一種使用火咒語的方法可以做到不只是破壞。我知道有許多種火的好處：提供溫暖、煮食物、工業。但...保護生命？我相信只要小心的使用火，我可以封住傷口。雖然一開始會痛，但整體來說好處是更大的。\n\n增強 1：2點傷害，4點回復\n\n增強 2：4點傷害，8點回復\n\n增強 3：8點傷害，16點回復\n\n警告：這只能被那些Demons of the Nether的盟友創造。"
 			}
 		],
 		"related_recipes": [
@@ -3443,7 +3443,7 @@
 			},
 			{
 				"type": "text",
-				"value": "I can use a small bit of arcane force to activate a block that I target.  Good for switches, buttons, and making a grand entrance through doors."
+				"value": "我可以使用少量的奧術力量來激活我指定的方塊。適合用在開關、按鈕、和通過門的時候。"
 			}
 		],
 		"related_recipes": [
@@ -3483,7 +3483,7 @@
 			},
 			{
 				"type": "text",
-				"value": "I have figured out how to combine fire magic with a small bit of air to create a very fast burst of fire akin to an explosion.\n\nMoridrex would be proud.\n\nWARNING: This can only be crafted by those allied with the Demons of the Nether."
+				"value": "我已經想到如何組合火魔法和少量的空氣來創造一個類似於爆炸的快速火爆裂。\n\nMoridrex會很驕傲的。\n\n警告：這只能被那些Demons of the Nether的盟友創造。"
 			}
 		],
 		"related_recipes": [
@@ -4127,7 +4127,7 @@
 			},
 			{
 				"type": "text",
-				"value": "Some rituals require an item to display reagents, such as the Ritual of Arcana requiring a spell recipe.  You will need to place the item in first, and then the remaining reagents will be displayed.  You do not need to reactivate the ritual using Purified Vinteum Dust for the dynamic reagents to be displayed."
+				"value": "有些儀式需要一個物品來顯示試劑，像是奧秘儀式需要一個法術配方。你需要先放置該物品，然後剩餘的試劑才會顯現。你不需要使用純淨溫泰姆粉末重新激活該儀式來讓動態試劑顯現。"
 			}
 		],
 		"related_recipes": [
@@ -4183,7 +4183,7 @@
 			},
 			{
 				"type": "text",
-				"value": "This ritual will enchant a compass to find a structure, village, or biome.  Trade with the Wandering Wizard summoned by the aptly named Ritual of the Wandering Wizard to get the locating patterns."
+				"value": "這個儀式將會附魔一個羅盤來找到一個建築、村莊、或生態域。和被遊蕩巫師儀式召喚的遊蕩巫師交易來取得定位圖。"
 			}
 		],
 		"related_recipes": [
@@ -4327,7 +4327,7 @@
 			},
 			{
 				"type": "text",
-				"value": "This ritual will summon a powerful destructive force that will burrow straight down until it reaches bedrock.  It will not drop any blocks during this process, consuming them to continue to fuel itself."
+				"value": "這個儀式將會召喚一個強大的破壞性力量，這個力量將會一直往下挖掘直到碰到基岩。它在過程中所破壞得方塊將會用來作為自己的燃料，因此它不會掉落任何方塊。"
 			}
 		],
 		"related_recipes": [
@@ -4347,7 +4347,7 @@
 			},
 			{
 				"type": "text",
-				"value": "This ritual will summon a powerful destructive force that will burrow down at an angle until it reaches bedrock.  It will not drop any blocks during this process, consuming them to continue to fuel itself."
+				"value": "這個儀式將會召喚一個強大的破壞性力量，這個力量將會一直往下挖掘直到碰到基岩。它在過程中所破壞得方塊將會用來作為自己的燃料，因此它不會掉落任何方塊。"
 			}
 		],
 		"related_recipes": [
@@ -4367,7 +4367,7 @@
 			},
 			{
 				"type": "text",
-				"value": "This ritual will create a waystone underneath it matching the rune combination used in the ritual, in the same order.\n\nCasting the Ritual of Return will allow you to use the matching rune combination to return to this location, provided you are on the same dimension."
+				"value": "這個儀式將會在下面創造一個符合在儀式中所使用的雕符組合及順序的定位點。\n\n假如你在相同維度，使用回返儀式將使你可以透過相同的符文組合來返回該地點。"
 			}
 		],
 		"related_recipes": [
@@ -4391,7 +4391,7 @@
 			},
 			{
 				"type": "text",
-				"value": "This ritual will find a waystone with the matching rune combination and open a portal to it.  Stepping through the portal will teleport you instantly to that location.\n\nOptionally, Adding a dye to the center will change the color of the portal.\n\nRemember, a portal will never teleport a sneaking target."
+				"value": "這個儀式將尋找一個符合儀式中使用符文組合的定位點並開啟一個前往該地點的傳送門。進入該傳送門你將會馬上到達該地點。"
 			}
 		],
 		"related_recipes": [
@@ -4416,7 +4416,7 @@
 			},
 			{
 				"type": "text",
-				"value": "This ritual will find a waystone with the matching rune combination and open a portal to it.  Stepping through the portal will teleport you instantly to that location.  Unlike the Ritual of Return, this portal will remain open until a rune of marking is thrown into it.\n\nOptionally, Adding a dye to the center will change the color of the portal.\n\nRemember, a portal will never teleport a sneaking target."
+				"value": "這個儀式將尋找一個符合儀式中使用符文組合的定位點並開啟一個前往該地點的傳送門。進入該傳送門你將會馬上到達該地點。和回返儀式不同的是，這個傳送門將會一直存在，直到有標記符文被丟到裡面。\n\n如果在儀式的中央加上一個染料將會改變傳送門的顏色。\n\n記住，傳送門不會傳送一個正在潛行的人。"
 			}
 		],
 		"related_recipes": [
@@ -4441,7 +4441,7 @@
 			},
 			{
 				"type": "text",
-				"value": "This ritual will use a player charm to open a portal at that player's current location.  That portal will allow the player to step through and teleport to the location that the ritual was performed."
+				"value": "這個儀式將會使用一個玩家符咒並在該玩家目前所在的位置開啟一個傳送門。這個傳送門將允許該玩家穿越並傳送到儀式被施展的地點。"
 			}
 		],
 		"related_recipes": [
@@ -4491,7 +4491,7 @@
 			},
 			{
 				"type": "text",
-				"value": "Player charms and world charms, once crafted, can be attuned to by a player or world by right clicking on the charm.  Attuned player charms can then be given to trusted allies to allow them to use rituals involving you, such as Summoning or Visiting (once unlocked).  Attuned world charms can be used to use a Ritual of Return or a Ritual of the Gate to target a point in a different dimension."
+				"value": "玩家符咒或世界符咒被製作之後，可右擊該符咒以同調。同調過後的玩家符咒可給信任的盟友已允許他們施展關於你的儀式，像是召喚或造訪儀式(如果已解鎖)。同調過後的世界符咒可用來施展回返儀式或目標地點在不同維度的門之儀式。"
 			}
 		],
 		"related_recipes": [
