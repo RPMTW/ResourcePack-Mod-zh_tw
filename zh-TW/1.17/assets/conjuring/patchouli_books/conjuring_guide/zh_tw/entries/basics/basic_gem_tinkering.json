@@ -9,7 +9,7 @@
       "anchor": "aspect_gems"
     },
     {
-      "type": "crafting",
+      "type": "合成",
       "recipe": "conjuring:crafting/gem_tinkerer",
       "text": "To operate the $(item)Gem Tinkerer$(), one must first place some $(l:conjuring:basics/conjuration_essence#lesser_essence)Lesser Conjuration Essence$() on top. All hovering columns then need to be fitted with the desired items. Finally, a simple $(thing)shift-right-click$() with an $(thing)empty hand$() will initiate the crafting process."
     },
