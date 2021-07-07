@@ -5,7 +5,7 @@
   "icon": "indrev:energy_reader",
   "pages": [
     {
-      "type": "crafting",
+      "type": "合成",
       "recipe": "indrev:shaped/energy_reader",
       "text": "提供你目前在機器中儲存能量的資訊，某些機器也會顯示能量消耗速度。"
     }
