@@ -12,11 +12,11 @@
   "pages": [
     {
       "type": "text",
-      "text": "穿上這件新盔甲時，你感覺到它正在成長，\n試圖説明你完成它看到你執行的各種任務。\n $(br2)它能在很多領域有所表現，但成長是有限的，\n所已重複太多次是徒勞無功的。"
+      "text": "穿上這件新盔甲時，你感覺到它正在成長，\n它會試圖輔助它看到你執行的各種任務。\n $(br2)它能在很多領域有所表現，但所有成長都是有限的，\n所以單項重複培育太多次是徒勞無功的。"
     },
     {
       "type": "text",
-      "text": "也許多種專精可能是一個好主意？當然，如果你不想獲得教育失敗的缺陷，你必須小心的訓練它。 $(br2)幸運的是，你設計了一個$(l:rituals/ritual_list/ritual_upgrade_remove)儀式$() 將協助訓練，和$(l:rituals/ritual_list/ritual_armour_evolve)另一個$()將注入你的盔甲與更大的能力成長。"
+      "text": "也許多種專精可能是一個好主意？當然，如果你不想獲得教育失敗的缺陷，你必須小心的培育它。 $(br2)幸運的是，你設計了一個$(l:rituals/ritual_list/ritual_upgrade_remove)儀式$() 來協助培育，和$(l:rituals/ritual_list/ritual_armour_evolve)另一個$()能使你的盔甲具有更強的成長能力。"
     }
   ]
 }
