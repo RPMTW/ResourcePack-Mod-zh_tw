@@ -23,11 +23,11 @@
   "pages": [
     {
       "type": "text",
-      "text": "Mining and foresting is all well and good for those who refuse to dream big, but what self-respecting sanguimancer would ever stoop to that? $(br2)With this in mind, you have devised some devious little devices. Simply throw them at some pesky trees, rocks, or whatever else you wish to cease to be and wait for them to self-ignite."
+      "text": "對於那些沒有遠大目標的人來說，\n造林、伐木與採礦都是不錯的選擇，\n但是哪位有自尊的血法師會屈服於這一點呢？\n$(br2)考慮到這一點，你設計了一些狡猾的小道具。\n只需將它們扔在一些討厭的樹、岩石或其他任何你不想成為的東西上，\n然後等待它們自己點燃。"
     },
     {
       "type": "text",
-      "text": "Not only that, you can improve their functionality by $(item)Anointing$() them with certain ingredients and a little $(raw)Will$(), as described after each entry. $(br2)The currently avaliable anointments are as follows: $(li)Fortunate - broken blocks are affected by $(item)Fortune I$(). $(li)Heated Tool - Broken blocks are $(item)Smelted$(). $(li)Soft Touch - Broken blocks are affected by $(item)Silk Touch$()."
+      "text": "不僅如此，您可以通過 $(item)改造$()附加上某些成分\n和一點 $(raw)意志$()來改進它們的功能，每個項目如下所述。$(br2)目前可用的改造如下：$(li)幸運-破壞的方塊受 $(item)幸運 I$()影響。$(li)冶煉工具 - 破壞的方塊是 $(item)燒製過的$()。$(li)輕柔觸碰 -破壞的方塊會受到 $(item)絲綢之觸$()的影響。"
     },
     {
       "type": "crafting_soulforge",
