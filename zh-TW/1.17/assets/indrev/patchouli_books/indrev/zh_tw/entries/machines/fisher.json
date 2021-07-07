@@ -5,7 +5,7 @@
   "icon": "indrev:fisher_mk2",
   "pages": [
     {
-      "type": "crafting",
+      "type": "合成",
       "recipe": "indrev:shaped/fisher_mk2",
       "text": "$(l)釣魚機$()用於魚類養殖，並可透過升級組件強化。$(br)唯一的需求是釣魚竿且可使用附魔釣魚竿"
     }
