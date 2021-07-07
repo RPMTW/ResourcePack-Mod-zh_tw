@@ -5,7 +5,7 @@
   "icon": "indrev:wrench",
   "pages": [
     {
-      "type": "crafting",
+      "type": "合成",
       "recipe": "indrev:shaped/wrench",
       "text": "扳手有兩種模式：轉向和配置機器。「Shift+右鍵」 來切換模式。"
     },
