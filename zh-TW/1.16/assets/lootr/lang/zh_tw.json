@@ -1,9 +1,9 @@
 {
-    "lootr.message.should_sneak": "Breaking the chest will delete your unique loot and items! In order to break, you must sneak while doing so.",
-    "lootr.message.should_sneak2": "As loot is %s, only break if really needed.",
+    "lootr.message.should_sneak": "打破這個箱子將會移除裏面所有珍奇的戰利品！若真的要破壞它，你需要在潛行的時候破壞戰利品箱。",
+    "lootr.message.should_sneak2": "由於戰利品是%s的，若你真有需要時再破壞它。",
     "lootr.message.should_sneak3": "每個玩家 每個戰利品箱",
-    "lootr.message.cart_should_sneak": "Breaking the cart will delete your unique loot and items! In order to break, you must sneak while attacking",
-    "lootr.message.cart_should_sneak3": "per-player per-cart",
+    "lootr.message.cart_should_sneak": "打破這個礦車將會移除裏面所有珍奇的戰利品！若真的要破壞它，你需要在潛行的時候破壞戰利品箱礦車。",
+    "lootr.message.cart_should_sneak3": "每個玩家 每個戰利品箱礦車",
     "block.lootr.lootr_chest": "戰利品箱",
     "block.lootr.lootr_trapped_chest": "戰利品箱",
     "block.lootr.lootr_barrel": "戰利品木桶",
@@ -30,6 +30,6 @@
     "lootr.advancements.1cart.description": "Open your first instanced, per-player Loot minecart and collect your rewards!",
     "lootr.advancements.social.title": "Socialised Loot",
     "lootr.advancements.social.description": "Open one of every type of instanced, per-player Loot container in the world!",
-    "lootr.advancements.root.title": "Belongs in a Museum",
-    "lootr.advancements.root.description": "Bring instanced, per-player Loot into your world."
+    "lootr.advancements.root.title": "這該屬於我博物館的！",
+    "lootr.advancements.root.description": "戰利品箱現在有了副本，每個玩家都能有一個獨立的戰利品箱。"
 }
