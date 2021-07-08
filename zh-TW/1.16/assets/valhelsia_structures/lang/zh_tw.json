@@ -88,6 +88,6 @@
     "block.valhelsia_structures.bone_pile_block": "骨樁方塊",
     "gui.valhelsia_structures.config.spacing_error": "The Spacing Value of the Structure needs to be greater than the Separation Value!",
     "gui.valhelsia_structures.config.spacing_solution": "Using %s as Spacing Value instead (Separation + 1)",
-    "gui.valhelsia_structures.config.invalid_biome_category": "List contains invalid Biome Category:",
+    "gui.valhelsia_structures.config.invalid_biome_category": "清單包含無效的生態域類別：",
     "gui.valhelsia_structures.config.invalid_blacklisted_biome": "清單包含無效的生態域："
 }
