@@ -30,7 +30,7 @@
     },
     {
       "type": "crafting_soulforge",
-      "heading": "Syringe Throwing Dagger",
+      "heading": "抽血投擲匕首",
       "recipe": "bloodmagic:soulforge/throwing_dagger_syringe",
       "anchor": "syringe_throwing_dagger",
       "text": "The $(item)Syringe Throwing Dagger$() is for the Sanguimancer more interested of the acquisition of $(blood)Blood$() than $(raw)Will$(). While it deals slightly less damage, it is noticeably cheaper, and enemies killed by this weapon have a chance of dropping a $(item)Slate Ampoule$() - or more, if they're hearty enough."
