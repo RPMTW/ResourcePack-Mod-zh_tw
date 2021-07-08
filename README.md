@@ -1,18 +1,14 @@
-# ResourcePack-Mod-zh_tw  
+# Minecraft繁體中文化模組翻譯包 
 [![CC](https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
 
 # 官方網站: https://www.rpmtw.ga   
 
 ## 介紹
-一個相容Forge/Fabric的Minecraft繁體中文化模組的資源包。  
+一個相容Forge/Fabric的Minecraft繁體中文化模組翻譯包基於Minecraft資源包製作。  
 此模組翻譯專案使用不同於以往的方式，講求快速、便利、簡單。  
 ## 主旨: 
-> 希望透過此專案能夠將Minecraft的模組進行繁體中文化翻譯，讓遊玩模組/模組包時不再被看不懂的語言困惑，並且可以用更便利的方式翻譯模組。  
+> 希望透過此專案能夠將以最快速簡單的方式翻譯模組
 
-## 資訊
-|翻譯進度|最新版本|Github Actions|Curseforge|
-|:-----:|:--------:|:------------:|:----------------------------:|
-[![Crowdin](https://badges.crowdin.net/resourcepack-mod-zhtw/localized.svg)](https://crowdin.com/project/resourcepack-mod-zhtw)|[![latest](https://img.shields.io/github/release/SiongSng/ResourcePack-Mod-zh_tw.svg)](https://github.com/SiongSng/ResourcePack-Mod-zh_tw/releases/latest)|[![Actions](https://github.com/SiongSng/ResourcePack-Mod-zh_tw/workflows/CI/badge.svg)](https://github.com/SiongSng/ResourcePack-Mod-zh_tw/actions)|[![curseforge](http://cf.way2muchnoise.eu/full_461500_downloads.svg)](https://www.curseforge.com/minecraft/mc-mods/rpmtw-update-mod)
 ## 如何安裝此翻譯包或者協助我們翻譯?  
 請查看RPMTW的官方網站 [點我前往](https://www.rpmtw.ga)  
 
