@@ -1,5 +1,5 @@
 {
-  "name": "柔韌塗層",
+  "name": "Soft Coating",
   "icon": "bloodmagic:silk_touch_anointment",
   "category": "bloodmagic:alchemy_table/anointments",
   "extra_recipe_mappings": [
@@ -11,7 +11,7 @@
   "pages": [
     {
       "type": "crafting_alchemy_table",
-      "heading": "柔韌塗層",
+      "heading": "Soft Coating",
       "recipe": "bloodmagic:alchemytable/silk_touch_anointment",
       "text": "對採集的方塊施加絲綢之觸。 不與原版附魔疊加。$(br2)有效物品：工具、劍、炸藥。$(br2)適用：絲綢之觸 I（256 塊）"
     }
