@@ -1,10 +1,10 @@
 {
-  "name": "蘋果派",
+  "name": "Apple Pie",
   "icon": "croptopia:apple_pie",
   "category": "croptopia:deserts",
   "pages": [
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "croptopia:apple_pie",
       "text": "Recipe for an apple pie."
     }
