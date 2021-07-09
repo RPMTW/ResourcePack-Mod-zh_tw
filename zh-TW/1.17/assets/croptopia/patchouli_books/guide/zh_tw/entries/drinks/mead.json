@@ -1,10 +1,10 @@
 {
-  "name": "蜂蜜酒",
+  "name": "Mead",
   "icon": "croptopia:mead",
   "category": "croptopia:drinks",
   "pages": [
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "croptopia:mead",
       "text": "Recipe for mead."
     }
