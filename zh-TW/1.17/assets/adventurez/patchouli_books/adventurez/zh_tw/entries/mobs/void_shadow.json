@@ -1,5 +1,5 @@
 {
-    "name": "Void Shadow",
+    "name": "虛空之影",
     "icon": "adventurez:stone_golem_heart",
     "category": "adventurez:mob_category",
     "pages": [
@@ -16,7 +16,7 @@
         },
         {
             "type": "text",
-            "title": "Void Shade",
+            "title": "虛空之影",
             "text": "The Void Shade is a mob which chases after your life. It will shoot void bullets which can be blocked by punching them"
         },
         {
@@ -26,21 +26,21 @@
         },
         {
             "type": "text",
-            "title": "Void Fragment",
+            "title": "虛空碎片",
             "text": "Void Fragments will spawn during the fight against the Void Shadow. Don't get to close to them, this book warned you! The bigger fragments are called Void Orbs and can only get killed by void bullets but will damage the Shadow"
         },
         {
             "type": "entity",
-            "name": "Showcase",
+            "name": "展示",
             "entity": "adventurez:void_fragment",
             "scale": "0.6"
         },
         {
             "type": "link",
-            "title": "VoidZ Addon",
+            "title": "虛空Z 附加內容",
             "text": "You have to download and install the VoidZ mod cause the Void Shadow will spawn in a new dimension only used for the fight. The Reason for it to be an addon is, Fabric has its dimension api which may not get updated quickly when a bigger update is done",
             "url": "https://www.curseforge.com/minecraft/mc-mods/voidz",
-            "link_text": "VoidZ Mod Page"
+            "link_text": "虛空Z 模組頁面"
         },
         {
             "type": "empty",
