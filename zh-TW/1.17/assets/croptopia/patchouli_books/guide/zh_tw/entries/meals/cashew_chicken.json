@@ -1,10 +1,10 @@
 {
-  "name": "腰果雞",
+  "name": "Cashew Chicken",
   "icon": "croptopia:cashew_chicken",
   "category": "croptopia:meals",
   "pages": [
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "croptopia:cashew_chicken",
       "text": "Recipe for cashew chicken."
     }
