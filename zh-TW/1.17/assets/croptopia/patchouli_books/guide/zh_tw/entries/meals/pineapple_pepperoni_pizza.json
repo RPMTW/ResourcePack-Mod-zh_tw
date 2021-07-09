@@ -1,10 +1,10 @@
 {
-  "name": "菠蘿辣香腸披薩",
+  "name": "Pineapple Pepperoni Pizza",
   "icon": "croptopia:pineapple_pepperoni_pizza",
   "category": "croptopia:meals",
   "pages": [
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "croptopia:pineapple_pepperoni_pizza",
       "text": "Recipe for a pineapple pepperoni pizza. Pineapples belong on pizza."
     }
