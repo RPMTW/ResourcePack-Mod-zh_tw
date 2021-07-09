@@ -1,30 +1,30 @@
 {
-  "name": "果醬",
+  "name": "Jam",
   "icon": "croptopia:grape_jam",
   "category": "croptopia:ingredients",
   "pages": [
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "croptopia:grape_jam",
       "text": "These are the recipes to craft the different jams in Croptopia."
     },
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "croptopia:peach_jam",
       "recipe2": "croptopia:apricot_jam"
     },
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "croptopia:blackberry_jam",
       "recipe2": "croptopia:blueberry_jam"
     },
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "croptopia:cherry_jam",
       "recipe2": "croptopia:elderberry_jam"
     },
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "croptopia:raspberry_jam",
       "recipe2": "croptopia:strawberry_jam"
     }
