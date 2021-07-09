@@ -77,5 +77,5 @@
     "text.autoconfig.betterstrongholds-fabric-1_17.option.betterStrongholds.pieceSettings.portalRoomMaxCount": "Portal Room Max Count",
     "text.autoconfig.betterstrongholds-fabric-1_17.option.betterStrongholds.pieceSettings.portalRoomMaxCount.@Tooltip[0]": "The max number of portal rooms that can spawn in a single stronghold.",
     "text.autoconfig.betterstrongholds-fabric-1_17.option.betterStrongholds.pieceSettings.portalRoomMaxCount.@Tooltip[1]": "Default: 1",
-    "betterstrongholds.commands.locate.stronghold": "Use /locate betterstrongholds:stronghold instead!"
+    "betterstrongholds.commands.locate.stronghold": "請改用 /locate betterstrongholds:stronghold！"
 }
