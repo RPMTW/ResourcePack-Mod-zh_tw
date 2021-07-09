@@ -1,10 +1,10 @@
 {
-  "name": "油莎草塊莖飲料",
+  "name": "Horchata",
   "icon": "croptopia:horchata",
   "category": "croptopia:drinks",
   "pages": [
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "croptopia:horchata",
       "text": "Recipe for horchata."
     }
