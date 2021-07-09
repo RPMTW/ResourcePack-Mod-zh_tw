@@ -1,10 +1,10 @@
 {
-  "name": "無花果布丁",
+  "name": "Figgy Pudding",
   "icon": "croptopia:figgy_pudding",
   "category": "croptopia:deserts",
   "pages": [
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "croptopia:shaped_figgy_pudding",
       "text": "Recipe for figgy pudding."
     }
