@@ -1,18 +1,18 @@
 {
-  "name": "日/夜陣列",
-  "icon": "minecraft：時鐘",
+  "name": "日/夜矩陣",
+  "icon": "minecraft:clock",
   "category": "bloodmagic:alchemy_array/functional_array",
   "pages": [
     {
       "type": "text",
-      "text": "Time-based arrays are straight-forward arrays that control the time of day. The items will be consumed once the array starts changing the time. These recipes are temporary and will change in the future.$(br2)The Day array will change the time of day to the next sunrise. The Night array will change the time of day to the next sunset."
+      "text": "時光矩陣是控制時間往前加速一天的矩陣。\n一旦矩陣開始改變時間，這些物品將會被消耗掉。\n這些配方是臨時的，以後會改變。\n$(br2)白晝矩陣會將一天中的時間更改為下一個日出。\n夜晚矩陣會將一天中的時間更改為下一個日落。"
     },
     {
       "type": "2x_functional_array",
-      "a.heading": "New Dawn",
+      "a.heading": "新的曙光",
       "a.recipe": "bloodmagic:array/day",
       "a.image": "sunarray.png",
-      "b.heading": "True Twilight",
+      "b.heading": "真實的黃昏",
       "b.recipe": "bloodmagic:array/night",
       "b.image": "moonarray.png"
     }

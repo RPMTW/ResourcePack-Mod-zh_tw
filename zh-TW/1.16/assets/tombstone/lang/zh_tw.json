@@ -268,7 +268,7 @@
     "tombstone.message.pray_of_protection.failed": "%s 已經被保護",
     "tombstone.message.reset_ankh": " %s 的安卡冷卻時間已被重設",
     "tombstone.message.grave_plate_replacement_not_allowed": "你不能將你寫的墓碑替換上去。",
-    "tombstone.message.pvp_steal_experience": "你透過擊殺 %s 偷到了該玩家的 %d 點經驗值",
+    "tombstone.message.pvp_steal_experience": "你透過擊殺 %2$s 偷到了該玩家的 %1$s 點經驗值",
     "tombstone.button.config": "配置",
     "effect.tombstone.ghostly_shape": "幽靈形態",
     "effect.tombstone.preservation": "保留",

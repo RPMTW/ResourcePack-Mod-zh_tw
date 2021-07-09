@@ -1,7 +1,7 @@
 {
   "name": "反建器",
   "icon": "twilightforest:antibuilder",
-  "category": "devices",
+  "category": "裝置",
   "advancement": "twilightforest:alt/treasures/carminite",
   "sortnum": 6240,
   "pages": [
@@ -9,7 +9,7 @@
       "type": "spotlight",
       "title": "反建器",
       "item": "twilightforest:antibuilder",
-      "text": "There is a strange aura emitted from this block, and it seems to be protecting anything that is within this bound. Any attempts to place a block in this field results in it being broken, and breaking anything augments a strange red-and-green block. There doesn't seem to be a switch to turn it off, but there must be a way."
+      "text": "這個方塊散發出了奇怪的光環，而且它看起來像是在保護在這個範圍內的所有方塊。任何嘗試放在這個範圍內的方塊都會被馬上破壞，嘗試破壞的任何方塊都會變成奇怪的紅-綠色方塊。看起來沒有開關能把它關掉，但一定有其他辦法。"
     }
   ]
 }

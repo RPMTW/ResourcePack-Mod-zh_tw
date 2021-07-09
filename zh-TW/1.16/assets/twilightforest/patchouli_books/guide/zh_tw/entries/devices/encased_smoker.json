@@ -1,7 +1,7 @@
 {
   "name": "冒煙機關",
   "icon": "twilightforest:encased_smoker",
-  "category": "devices",
+  "category": "裝置",
   "advancement": "twilightforest:alt/treasures/encased_smoker",
   "sortnum": 5060,
   "pages": [
@@ -9,7 +9,7 @@
       "type": "spotlight",
       "title": "冒煙機關",
       "item": "twilightforest:encased_smoker",
-      "text": "Smoking Blocks will always emit smoke, but this is rather inconvenient for me. By wiring up a Smoking Block, I can create a device that will only emit smoke when I activate it. Now I must consider the practicality of such device."
+      "text": "冒煙方塊總是散發煙霧，但這對我來說反而是不方便的。對冒煙方塊接上線路後，我創造了一個只有在我激活它時才散發煙霧的裝置。現在我必須研究這種裝置的實用性。"
     }
   ]
 }

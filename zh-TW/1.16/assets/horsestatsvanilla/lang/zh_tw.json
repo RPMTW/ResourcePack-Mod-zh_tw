@@ -25,15 +25,15 @@
     "text.autoconfig.horsestatsvanilla.option.goodHorseHeartsValue": "善心值",
     "text.autoconfig.horsestatsvanilla.option.goodStrengthValue": "良好強度值",
     "text.autoconfig.horsestatsvanilla.option.goodHorseJumpValue.@Tooltip": "任何高於此值的資料都會被標示為良好。",
-    "text.autoconfig.horsestatsvanilla.option.goodHorseSpeedValue.@Tooltip": "任何高於此值的資料都會被標示為良好。",
-    "text.autoconfig.horsestatsvanilla.option.goodHorseHeartsValue.@Tooltip": "任何高於此值的資料都會被標示為良好。",
-    "text.autoconfig.horsestatsvanilla.option.goodStrengthValue.@Tooltip": "任何高於此值的資料都會被標示為良好。",
+    "text.autoconfig.horsestatsvanilla.option.goodHorseSpeedValue.@Tooltip": "Anything above this value will be marked as good.",
+    "text.autoconfig.horsestatsvanilla.option.goodHorseHeartsValue.@Tooltip": "Anything above this value will be marked as good.",
+    "text.autoconfig.horsestatsvanilla.option.goodStrengthValue.@Tooltip": "Anything above this value will be marked as good.",
     "text.autoconfig.horsestatsvanilla.option.badHorseJumpValue": "不良的跳躍值",
     "text.autoconfig.horsestatsvanilla.option.badHorseSpeedValue": "不良的速度值",
     "text.autoconfig.horsestatsvanilla.option.badHorseHeartsValue": "不良之心值",
     "text.autoconfig.horsestatsvanilla.option.badStrengthValue": "強度值不當",
     "text.autoconfig.horsestatsvanilla.option.badHorseJumpValue.@Tooltip": "任何低於此值的都會被標記為壞值。",
-    "text.autoconfig.horsestatsvanilla.option.badHorseSpeedValue.@Tooltip": "任何低於此值的都會被標記為壞值。",
-    "text.autoconfig.horsestatsvanilla.option.badHorseHeartsValue.@Tooltip": "任何低於此值的都會被標記為壞值。",
-    "text.autoconfig.horsestatsvanilla.option.badStrengthValue.@Tooltip": "任何低於此值的都會被標記為壞值。"
+    "text.autoconfig.horsestatsvanilla.option.badHorseSpeedValue.@Tooltip": "Anything below this value will be marked as bad.",
+    "text.autoconfig.horsestatsvanilla.option.badHorseHeartsValue.@Tooltip": "Anything below this value will be marked as bad.",
+    "text.autoconfig.horsestatsvanilla.option.badStrengthValue.@Tooltip": "Anything below this value will be marked as bad."
 }

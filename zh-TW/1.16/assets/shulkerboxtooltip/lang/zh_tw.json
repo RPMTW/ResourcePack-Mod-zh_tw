@@ -43,7 +43,7 @@
     "text.autoconfig.shulkerboxtooltip.option.server.enderChestSyncType": "終界箱同步方式",
     "text.autoconfig.shulkerboxtooltip.option.server.enderChestSyncType.tooltip": "修改終界箱內物品預覽的同步方式。\n§c - 不同步\n    會停用所有用戶端對終界箱的預覽\n§a - 主動同步\n    每當終界箱內的物品發生變化時都會同步\n§l - 被動同步\n    只在用戶端請求預覽時同步",
     "shulkerboxtooltip.compactPreviewTagBehavior.ignore": "忽略",
-    "shulkerboxtooltip.compactPreviewTagBehavior.first_item": "第一個物品",
+    "shulkerboxtooltip.compactPreviewTagBehavior.first_item": "First Item",
     "shulkerboxtooltip.compactPreviewTagBehavior.separate": "單獨物品",
     "shulkerboxtooltip.tooltipType.vanilla": "原版樣式",
     "shulkerboxtooltip.tooltipType.mod": "§a模組樣式",

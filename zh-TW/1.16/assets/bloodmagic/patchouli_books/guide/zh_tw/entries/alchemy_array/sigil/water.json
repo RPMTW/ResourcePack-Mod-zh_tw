@@ -15,7 +15,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "$(item)水之印記$() 是一種相當單純的印記。\n在方塊上按右鍵， 你可以從 $(l:bloodmagic:altar/soul_network)靈魂網路$(/l) 中消耗100LP來放置水源。\n如果 LP不足， 它將消耗你的生命值。 使用$(item)水之試劑$() 和 $(item)空白石板$()製造。"
+      "text": "$(item)水之印記$() 是一種相當單純的印記。\n在方塊上按右鍵，你可以從$(l:bloodmagic:altar/soul_network)靈魂網路$(/l)中消耗100LP來放置水源。\n如果LP不足，它將消耗你的生命值。使用$(item)水之試劑$() 和 $(item)空白石板$()製造。"
     },
     {
       "type": "crafting_2-step_sigil",

@@ -15,7 +15,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "$(l:bloodmagic:alchemy_array/sigil/water)水之印記的好姊妹，$(/l)你可以使用 $(item)熔岩印記$()點擊地面消耗1000LP創造一個熔岩。\n在$(l:bloodmagic:alchemy_array/functional_arrays/arcane_ash)鍊金矩陣$(/l) 中，使用 $(item)熔岩試劑$() 和 $(item)空白石板,$()製作\n如果你的 $(l:bloodmagic:altar/soul_network)靈魂網路$(/l) 中沒有足夠的 LP，它會從你身上吸取 5 顆心"
+      "text": "$(l:bloodmagic:alchemy_array/sigil/water)水之印記的好姊妹，$(/l)你可以使用 $(item)熔岩印記$()點擊地面消耗1000LP創造一個熔岩。\n在$(l:bloodmagic:alchemy_array/functional_arrays/arcane_ash)鍊金矩陣$(/l) 中，使用 $(item)熔岩試劑$() 和 $(item)空白石板$()製作\n如果你的$(l:bloodmagic:altar/soul_network)靈魂網路$(/l) 中沒有足夠的 LP，它會從你身上吸取 5 顆心"
     },
     {
       "type": "crafting_2-step_sigil",
