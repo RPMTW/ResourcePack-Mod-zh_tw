@@ -1,5 +1,5 @@
 {
-    "name": "虛空之影",
+    "name": "Void Shadow",
     "icon": "adventurez:stone_golem_heart",
     "category": "adventurez:mob_category",
     "pages": [
@@ -16,7 +16,7 @@
         },
         {
             "type": "text",
-            "title": "虛空之影",
+            "title": "Void Shade",
             "text": "The Void Shade is a mob which chases after your life. It will shoot void bullets which can be blocked by punching them"
         },
         {
@@ -26,7 +26,7 @@
         },
         {
             "type": "text",
-            "title": "虛空碎片",
+            "title": "Void Fragment",
             "text": "Void Fragments will spawn during the fight against the Void Shadow. Don't get to close to them, this book warned you! The bigger fragments are called Void Orbs and can only get killed by void bullets but will damage the Shadow"
         },
         {
@@ -43,7 +43,7 @@
             "link_text": "VoidZ Mod Page"
         },
         {
-            "type": "空",
+            "type": "empty",
             "draw_filler": false
         }
     ]
