@@ -1,10 +1,10 @@
 {
-  "name": "至尊披薩",
+  "name": "Supreme Pizza",
   "icon": "croptopia:supreme_pizza",
   "category": "croptopia:meals",
   "pages": [
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "croptopia:supreme_pizza",
       "text": "Recipe for a supreme pizza."
     }
