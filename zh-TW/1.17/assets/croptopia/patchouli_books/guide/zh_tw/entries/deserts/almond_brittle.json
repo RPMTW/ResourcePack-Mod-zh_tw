@@ -1,10 +1,10 @@
 {
-  "name": "杏仁脆",
+  "name": "Almond Brittle",
   "icon": "croptopia:almond_brittle",
   "category": "croptopia:deserts",
   "pages": [
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "croptopia:almond_brittle",
       "text": "Recipe for almond brittle."
     }
