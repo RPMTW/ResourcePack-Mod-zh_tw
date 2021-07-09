@@ -1,10 +1,10 @@
 {
-  "name": "水果沙冰",
+  "name": "Fruit Smoothie",
   "icon": "croptopia:fruit_smoothie",
   "category": "croptopia:drinks",
   "pages": [
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "croptopia:fruit_smoothie",
       "text": "Recipe for a fruit smoothie."
     }
