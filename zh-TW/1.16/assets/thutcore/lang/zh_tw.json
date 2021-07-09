@@ -29,7 +29,7 @@
     "thutcore.config.resetAllTerrain.tooltip": "If true, will not load subbbiomes from nbt, thereby resetting them.",
     "thutcore.config.customBiomeMappings.tooltip": "Custom block definitions for subbiomes, format is <subbiome>-><blockinfo>, Example: crystalcave->quark:crystal would result in areas with quark crystal blocks being crystalcave subbiomes.",
     "thutcore.config.ai": "AI設定",
-    "thutcore.config.ai.tooltip": "AI設定",
+    "thutcore.config.ai.tooltip": "AI Settings",
     "thutcore.config.threadCount.tooltip": "Number of AI threads to make at startup, custom mob AI is distrobuted to these threads.",
     "thutcore.config.blockentity": "方塊實體設定",
     "thutcore.config.blockentity.tooltip": "方塊實體設定",
