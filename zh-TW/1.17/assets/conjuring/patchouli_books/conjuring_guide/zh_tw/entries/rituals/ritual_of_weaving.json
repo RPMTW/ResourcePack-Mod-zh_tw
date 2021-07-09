@@ -8,7 +8,7 @@
       "text": "Some crafting processes, like those involved in fabricating $(l:conjuring:soul_alloy_tools/basics)Soul Alloy Tools$(), can be very involved and consequently require the $(thing)Ritual of Weaving$() to be carried out.$(p)To get started, one ought place a $(item)Soul Weaver$() and link it to four pedestals as depicted in $(l:conjuring:rituals/ritual_basics)Ritual Basics$(). Then, the crafting ingredients must be placed on both weaver and pedestals."
     },
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "conjuring:crafting/soul_weaver",
       "text": "In the final step, the $(item)Soul Weaver$() has to be loaded with $(l:conjuring:basics/conjuration_essence)Conjuration Essence$() and subsequently $(thing)right-clicked$() with a $(l:conjuring:basics/conjuring_scepters)Conjuring Scepter$() to commence the ritual."
     },
