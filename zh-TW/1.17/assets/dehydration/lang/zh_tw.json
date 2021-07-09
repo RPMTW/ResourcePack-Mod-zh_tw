@@ -1,7 +1,7 @@
 {
     "death.attack.dehydration": "%1$s 死於口渴",
-    "death.attack.thirst": "%1$s 死於口渴",
-    "effect.dehydration.thirst_effect": "口渴值",
+    "death.attack.thirst": "%1$s died of thirst",
+    "effect.dehydration.thirst_effect": "Thirst",
     "text.autoconfig.dehydration.title": "脫水配置",
     "text.autoconfig.dehydration.option.thirst_damage": "口渴傷害",
     "text.autoconfig.dehydration.option.potion_thirst_quench": "藥水解渴效果",
@@ -35,7 +35,7 @@
     "item.dehydration.leather_flask.tooltip": "填充等級%1$s/%2$s",
     "item.dehydration.leather_flask.tooltip2": "填充容量%1$s",
     "item.dehydration.leather_flask.tooltip3": "%1$s",
-    "item.minecraft.potion.effect.purified_water": "純水瓶",
+    "item.minecraft.potion.effect.purified_water": "Purified Water Bottle",
     "item.minecraft.lingering_potion.effect.purified_water": "滯留 純淨水",
     "item.minecraft.splash_potion.effect.purified_water": "飛濺 純淨藥水",
     "block.dehydration.campfire_cauldron": "營火鍋釜"
