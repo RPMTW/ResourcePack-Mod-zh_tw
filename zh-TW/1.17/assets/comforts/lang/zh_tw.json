@@ -1,5 +1,5 @@
 {
-    "itemGroup.comforts.general": "Comforts",
+    "itemGroup.comforts.general": "舒適用具",
     "block.comforts.hammock_black": "黑色吊床掛布",
     "block.comforts.hammock_blue": "藍色吊床掛布",
     "block.comforts.hammock_brown": "棕色吊床掛布",
@@ -40,7 +40,7 @@
     "block.comforts.hammock.no_sleep": "您只能在白天睡覺",
     "block.comforts.sleeping_bag.broke": "睡袋已破損",
     "capability.comforts.not_sleepy": "您現在還不能休息。您還沒有睡意",
-    "text.autoconfig.comforts.title": "Comforts",
+    "text.autoconfig.comforts.title": "舒適用具",
     "text.autoconfig.comforts.option.autoUse": "自動使用睡袋",
     "text.autoconfig.comforts.option.autoUse.@Tooltip": "設定為 true 時，放置時會自動使用睡袋",
     "text.autoconfig.comforts.option.wellRested": "良好睡眠機制",
