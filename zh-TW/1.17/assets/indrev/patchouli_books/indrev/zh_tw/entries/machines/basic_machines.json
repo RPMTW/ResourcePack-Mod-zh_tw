@@ -39,7 +39,7 @@
       "text": "$(l)$(o)液體注入機$()用於進階液體灌注。 目前的主要用途是四倍礦石產出"
     },
     {
-      "type": "合成",
+      "type": "crafting",
       "anchor": "condenser",
       "recipe": "indrev:shaped/condenser_mk4",
       "text": "$(l)$(o)聚合機$()用於將熔融的礦石轉化成碎塊，碎塊可被磨碎再熔鍊成錠。"
