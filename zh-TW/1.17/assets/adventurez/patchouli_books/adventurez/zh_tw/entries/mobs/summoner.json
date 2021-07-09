@@ -1,5 +1,5 @@
 {
-    "name": "喚靈者",
+    "name": "Summoner",
     "icon": "adventurez:stone_golem_heart",
     "category": "adventurez:mob_category",
     "pages": [
@@ -14,7 +14,7 @@
         },
         {
             "type": "text",
-            "title": "先鋒骷髏",
+            "title": "Skeleton Vanguard",
             "text": "The Vanguard will defend its summoner and attack enemies. It can parry incoming attacks with its shield"
         },
         {
