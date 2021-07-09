@@ -1,10 +1,10 @@
 {
-  "name": "意大利辣香腸",
+  "name": "Pepperoni",
   "icon": "croptopia:paprika",
   "category": "croptopia:ingredients",
   "pages": [
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "croptopia:paprika",
       "text": "Recipe for paprika."
     }
