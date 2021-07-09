@@ -1,10 +1,10 @@
 {
-  "name": "豆腐",
+  "name": "Tofu",
   "icon": "croptopia:tofu",
   "category": "croptopia:ingredients",
   "pages": [
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "croptopia:tofu",
       "text": "Recipe for tofu."
     }
