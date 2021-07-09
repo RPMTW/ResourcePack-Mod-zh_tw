@@ -1,10 +1,10 @@
 {
-  "name": "乳脂鬆糕",
+  "name": "Trifle",
   "icon": "croptopia:trifle",
   "category": "croptopia:deserts",
   "pages": [
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "croptopia:shaped_trifle",
       "text": "Recipe for trifle."
     }
