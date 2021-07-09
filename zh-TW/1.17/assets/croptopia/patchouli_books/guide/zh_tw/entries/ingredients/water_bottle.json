@@ -1,10 +1,10 @@
 {
-  "name": "水瓶",
+  "name": "Water Bottle",
   "icon": "croptopia:water_bottle",
   "category": "croptopia:ingredients",
   "pages": [
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "croptopia:shaped_water_bottle",
       "text": "Recipe for water bottles."
     }
