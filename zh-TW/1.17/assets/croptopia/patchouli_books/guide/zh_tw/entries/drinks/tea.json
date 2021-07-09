@@ -1,10 +1,10 @@
 {
-  "name": "茶",
+  "name": "Tea",
   "icon": "croptopia:tea",
   "category": "croptopia:drinks",
   "pages": [
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "croptopia:shaped_tea",
       "text": "Recipe for tea."
     }
