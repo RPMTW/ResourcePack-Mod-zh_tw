@@ -1,10 +1,10 @@
 {
-  "name": "壽司",
+  "name": "Sushi",
   "icon": "croptopia:sushi",
   "category": "croptopia:meals",
   "pages": [
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "croptopia:sushi",
       "text": "Recipe for sushi."
     }
