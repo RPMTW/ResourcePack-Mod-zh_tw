@@ -6,27 +6,27 @@
   "pages": [
     {
       "type": "text",
-      "text": "這些升級將增強機器的某些數值，如處理速度和能量消耗。$(br2)將增強器升級放入機器介面右側插槽以使用。"
+      "text": "These upgrades will improve certain aspects of the machine like speed and energy usage.$(br2)The machine will use upgrades inserted in the 4 right-side slots on its interface."
     },
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "indrev:shaped/speed_enhancer",
-      "text": "此升級將提高機器的處理速度並加劇能量消耗。"
+      "text": "This upgrade will increase the machine's processing speed at cost of energy."
     },
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "indrev:shaped/buffer_enhancer",
-      "text": "此升級將提高機器的內部能量處存容量。"
+      "text": "This upgrade will increase the machine's internal energy capacity."
     },
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "indrev:shaped/blast_furnace_enhancer",
-      "text": "此升級將使電爐能夠處理高爐配方。"
+      "text": "This upgrade will make the Electric Furnace accept Blast Furnace recipes."
     },
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "indrev:shaped/smoker_enhancer",
-      "text": "此升級將使電爐能夠處理煙燻爐配方。"
+      "text": "This upgrade will make the Electric Furnace accept Smoker recipes."
     }
   ]
 }
