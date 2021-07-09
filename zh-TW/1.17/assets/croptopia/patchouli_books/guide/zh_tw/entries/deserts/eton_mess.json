@@ -1,10 +1,10 @@
 {
-  "name": "伊頓雜糕",
+  "name": "Eton Mess",
   "icon": "croptopia:eton_mess",
   "category": "croptopia:deserts",
   "pages": [
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "croptopia:shaped_eton_mess",
       "text": "Recipe for eton mess."
     }
