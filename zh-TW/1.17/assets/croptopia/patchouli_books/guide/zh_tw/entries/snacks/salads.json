@@ -4,17 +4,17 @@
   "category": "croptopia:snacks",
   "pages": [
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "croptopia:cucumber_salad",
       "text": "Recipes for making different types of salads."
     },
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "croptopia:leafy_salad",
       "recipe2": "croptopia:fruit_salad"
     },
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "croptopia:veggie_salad",
       "recipe2": "croptopia:caesar_salad"
     }
