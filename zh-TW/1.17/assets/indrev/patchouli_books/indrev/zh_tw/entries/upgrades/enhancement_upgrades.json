@@ -6,12 +6,12 @@
   "pages": [
     {
       "type": "text",
-      "text": "These upgrades will improve certain aspects of the machine like speed and energy usage.$(br2)The machine will use upgrades inserted in the 4 right-side slots on its interface."
+      "text": "這些升級將增強機器的某些數值，如處理速度和能量消耗。$(br2)將增強器升級放入機器介面右側插槽以使用。"
     },
     {
       "type": "crafting",
       "recipe": "indrev:shaped/speed_enhancer",
-      "text": "This upgrade will increase the machine's processing speed at cost of energy."
+      "text": "此升級將提高機器的處理速度並加劇能量消耗。"
     },
     {
       "type": "crafting",
