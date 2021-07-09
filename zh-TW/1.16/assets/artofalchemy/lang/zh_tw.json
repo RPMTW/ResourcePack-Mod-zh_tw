@@ -1,15 +1,15 @@
 {
 	"item.artofalchemy.icon_item": "神秘符咒",
-	"item.artofalchemy.azoth": "阿佐特",
+	"item.artofalchemy.azoth": "萬應靈丹",
 	"item.artofalchemy.amaranth_pearl": "紫紅珍珠",
 	"item.artofalchemy.cracked_amaranth_pearl": "裂開的紫紅珍珠",
 	"item.artofalchemy.activated_amaranth_pearl": "啟動的紫紅珍珠",
 	"item.artofalchemy.philosophers_stone": "賢者之石",
 	"item.artofalchemy.alchemical_journal": "煉金日誌",
 	"item.artofalchemy.alchemical_journal.tooltip_entries": "%d條日誌",
-	"item.artofalchemy.alchemy_formula": "嬗變方程式",
-	"item.artofalchemy.brewing_formula": "釀造方程式",
-	"item.artofalchemy.enchantment_formula": "附魔術方塊程式",
+	"item.artofalchemy.alchemy_formula": "物質嬗變配方",
+	"item.artofalchemy.brewing_formula": "釀造配方",
+	"item.artofalchemy.enchantment_formula": "附魔配方",
 	"block.artofalchemy.calcination_furnace": "煅燒爐",
 	"block.artofalchemy.dissolution_chamber": "溶解室",
 	"block.artofalchemy.synthesis_table": "轉化合成台",
@@ -151,7 +151,7 @@
 	"text.autoconfig.artofalchemy.option.synthesizerSettings.speedPlus": "轉化合成台 + 速度係數",
 	"text.autoconfig.artofalchemy.option.synthesizerSettings.tankBasic": "轉化合成台 儲罐大小",
 	"text.autoconfig.artofalchemy.option.synthesizerSettings.tankPlus": "轉化合成台+ 儲罐大小",
-	"text.autoconfig.artofalchemy.option.projectorSettings": "投影祭壇",
+	"text.autoconfig.artofalchemy.option.projectorSettings": "投射祭壇",
 	"text.autoconfig.artofalchemy.option.projectorSettings.opTime": "運作時間",
 	"text.autoconfig.artofalchemy.option.projectorSettings.tankSize": "儲罐大小"
 }
