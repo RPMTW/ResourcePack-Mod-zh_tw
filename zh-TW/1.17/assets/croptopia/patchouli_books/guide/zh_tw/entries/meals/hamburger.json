@@ -1,10 +1,10 @@
 {
-  "name": "漢堡",
+  "name": "Hamburger",
   "icon": "croptopia:hamburger",
   "category": "croptopia:meals",
   "pages": [
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "croptopia:hamburger",
       "text": "Recipe for a hamburger."
     }
