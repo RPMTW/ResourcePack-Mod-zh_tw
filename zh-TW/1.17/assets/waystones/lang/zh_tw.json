@@ -9,7 +9,7 @@
     "block.waystones.waystone": "傳送石碑",
     "container.waystones.waystone": "傳送石碑",
     "container.waystones.pocket_wormhole": "小型蟲洞",
-    "container.waystones.abyss_watcher": "Abyss Watcher",
+    "container.waystones.abyss_watcher": "深淵觀察者",
     "waystones.gui.displayed_waystones": "顯示的傳送石碑：",
     "waystones.gui.contains": "搜尋位置：名稱中的任何地方。",
     "waystones.gui.starts_with": "搜尋位置：起始名稱。",
@@ -34,7 +34,7 @@
     "waystones.learned.first": "學習",
     "waystones.learned.second": "新的傳送石碑！　",
     "waystones.learned.none": "沒有學習到新的傳送石碑",
-    "waystones.learned.infinite.first": "Learned",
+    "waystones.learned.infinite.first": "學習",
     "waystones.learned.infinite.second": "傳送石碑!",
     "waystones.learned.infinite.none": "你已經知道了一切的一切！",
     "waystones.discover_waystone": "已經被發現了！",
@@ -45,10 +45,10 @@
     "waystones.config.view_global": "查看全域傳送石碑",
     "waystones.config.owner": "擁有者 ",
     "waystones.config.no_owner": "無",
-    "waystones.cost.item": "Total",
+    "waystones.cost.item": "總計",
     "waystones.cost.free": "自由",
-    "waystones.cost.xp": "XP",
+    "waystones.cost.xp": "經驗",
     "waystones.cost.health": "半顆心",
     "waystones.cost.level": "等級",
-    "itemGroup.waystones.waystones": "Waystones"
+    "itemGroup.waystones.waystones": "傳送石碑"
 }
