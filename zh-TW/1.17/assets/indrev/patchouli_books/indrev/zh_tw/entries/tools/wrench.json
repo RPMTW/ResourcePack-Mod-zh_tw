@@ -1,17 +1,17 @@
 {
-  "name": "扳手",
+  "name": "Wrench",
   "category": "indrev:tools",
   "sortnum": 1,
   "icon": "indrev:wrench",
   "pages": [
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "indrev:shaped/wrench",
-      "text": "扳手有兩種模式：轉向和配置機器。「Shift+右鍵」 來切換模式。"
+      "text": "The Wrench has two modes: Rotate and Configure. You can switch between the two modes by using Shift + Right Click"
     },
     {
       "type": "text",
-      "text": "$(l)轉向:$()在此模式下，您可以旋轉機器，或以Shift+右鍵拆下機器。$(br)$(l)配置機器:$()在此模式下，您可以配置輸出及輸入口。 新放置的機器預設以左側為輸入，右側為輸出。您可以隨時更改。"
+      "text": "$(l)Rotate:$() in this mode you can rotate machines as well as disassemble them with a Shift + Right Click while looking at them.$(br)$(l)Configure:$() in this mode you can configure item output and input. Newly placed machines will have their left side as input and their right side as output as default but you can change it if you'd like."
     }
   ]
 }
