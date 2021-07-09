@@ -1,10 +1,10 @@
 {
-  "name": "香蕉奶油餡餅",
+  "name": "Banana Cream Pie",
   "icon": "croptopia:banana_cream_pie",
   "category": "croptopia:deserts",
   "pages": [
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "croptopia:banana_cream_pie",
       "text": "Recipe for a banana cream pie."
     }
