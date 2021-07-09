@@ -1,10 +1,10 @@
 {
-  "name": "特蕾斯蛋糕",
+  "name": "Tres Leche Cake",
   "icon": "croptopia:tres_leche_cake",
   "category": "croptopia:deserts",
   "pages": [
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "croptopia:tres_leche_cake",
       "text": "Recipe guide."
     }
