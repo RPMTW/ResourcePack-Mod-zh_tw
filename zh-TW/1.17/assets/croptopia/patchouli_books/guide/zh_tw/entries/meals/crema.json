@@ -1,10 +1,10 @@
 {
-  "name": "咖啡脂",
+  "name": "Crema",
   "icon": "croptopia:crema",
   "category": "croptopia:meals",
   "pages": [
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "croptopia:crema",
       "text": "Recipe guide."
     }
