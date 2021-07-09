@@ -1,10 +1,10 @@
 {
-  "name": "吉拿棒",
+  "name": "Churros",
   "icon": "croptopia:churros",
   "category": "croptopia:deserts",
   "pages": [
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "croptopia:churros",
       "text": "Recipe for churros."
     }
