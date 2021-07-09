@@ -1,10 +1,10 @@
 {
-  "name": "香蕉冰沙",
+  "name": "Banana Smoothie",
   "icon": "croptopia:banana_smoothie",
   "category": "croptopia:drinks",
   "pages": [
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "croptopia:banana_smoothie",
       "text": "Recipe for banana smoothies."
     }
