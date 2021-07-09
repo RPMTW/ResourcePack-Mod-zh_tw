@@ -1,10 +1,10 @@
 {
-  "name": "朗姆酒",
+  "name": "Rum",
   "icon": "croptopia:rum",
   "category": "croptopia:drinks",
   "pages": [
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "croptopia:rum",
       "text": "Recipe for rum."
     }
