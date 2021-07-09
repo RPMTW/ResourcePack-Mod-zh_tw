@@ -1,10 +1,10 @@
 {
-  "name": "炸魚薯條",
+  "name": "Fish and Chips",
   "icon": "croptopia:fish_and_chips",
   "category": "croptopia:meals",
   "pages": [
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "croptopia:shaped_fish_and_chips",
       "text": "Recipe for fish and chips."
     }
