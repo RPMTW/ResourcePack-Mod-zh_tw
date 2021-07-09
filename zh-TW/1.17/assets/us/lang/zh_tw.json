@@ -1,8 +1,8 @@
 {
   "itemGroup.upgradedshulkers.shulkers": "升級界伏盒",
-  "upgradedshulkers.hasupgrades": "升級:",
-  "upgradedshulkers.upgrade.auto": "漏斗",
-  "upgradedshulkers.upgrade.void": "虛空",
+  "upgradedshulkers.hasupgrades": "Upgrades:",
+  "upgradedshulkers.upgrade.auto": "Hopper",
+  "upgradedshulkers.upgrade.void": "Void",
   "block.upgradedshulkers.ironshulker": "鐵界伏蚌",
   "block.upgradedshulkers.goldshulker": "金界伏蚌",
   "block.upgradedshulkers.diamondshulker": "鑽石界伏蚌",
@@ -12,7 +12,7 @@
   "block.us.purplediamondshulker": "鑽石紫色界伏盒",
   "block.us.greendiamondshulker": "鑽石綠色界伏盒",
   "block.us.purpleironshulker": "鐵紫色界伏盒",
-  "block.us.normalnetheriteshulker": "獄髓界伏盒",
+  "block.us.normalnetheriteshulker": "Netherite Shulker Box",
   "block.us.normaldiamondshulker": "鑽石界伏盒",
   "block.us.pinkgoldshulker": "金粉紅色界伏盒",
   "block.us.pinkdiamondshulker": "鑽石粉紅色界伏盒",
@@ -75,8 +75,8 @@
   "block.us.orangediamondshulker": "鑽石橙色界伏盒",
   "block.us.graydiamondshulker": "鑽石灰色界伏盒",
   "block.us.normalironshulker": "鐵界伏盒",
-  "block.us.spatialchest": "空間終界箱",
-  "block.us.riftchest": "裂開的終界箱子",
-  "upgradedshulkers.containername.spatialchest": "空間儲物箱",
-  "upgradedshulkers.containername.riftchest": "裂開的箱子"
+  "block.us.spatialchest": "Spatial Ender Chest",
+  "block.us.riftchest": "Rift Ender Chest",
+  "upgradedshulkers.containername.spatialchest": "Spatial Chest",
+  "upgradedshulkers.containername.riftchest": "Rift Chest: "
 }
