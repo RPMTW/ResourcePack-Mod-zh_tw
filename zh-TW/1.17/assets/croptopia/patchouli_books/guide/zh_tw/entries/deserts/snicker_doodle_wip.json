@@ -1,10 +1,10 @@
 {
-  "name": "士力架",
+  "name": "Snicker Doodle",
   "icon": "croptopia:snicker_doodle",
   "category": "croptopia:deserts",
   "pages": [
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "croptopia:snicker_doodle",
       "text": "Recipe for snicker doodle cookies. (WIP)"
     }
