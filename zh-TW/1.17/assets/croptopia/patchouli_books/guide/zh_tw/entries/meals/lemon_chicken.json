@@ -1,10 +1,10 @@
 {
-  "name": "檸檬雞",
+  "name": "Lemon Chicken",
   "icon": "croptopia:lemon_chicken",
   "category": "croptopia:meals",
   "pages": [
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "croptopia:lemon_chicken",
       "text": "Recipe for lemon chicken."
     }
