@@ -1,5 +1,5 @@
 {
-    "name": "龍",
+    "name": "Dragon",
     "icon": "adventurez:stone_golem_heart",
     "category": "adventurez:mob_category",
     "pages": [
@@ -21,7 +21,7 @@
         },
         {
             "type": "text",
-            "title": "生長",
+            "title": "Growth",
             "text": "After the dragon is hatched, you can feed it with orc skin to grow up faster, if it's hungry enough. It grows up in size two times until it's a big dragon. After the first stage, you can put on a dragon saddle to ride it, after the second stage you can put on a chest and it is old enough to breath fire"
         }
     ]
