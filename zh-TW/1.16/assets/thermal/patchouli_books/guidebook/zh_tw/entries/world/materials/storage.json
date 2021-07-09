@@ -34,7 +34,7 @@
             "recipe2": "thermal:storage/tin_block"
         },
         {
-            "type": "合成",
+            "type": "crafting",
             "recipe": "thermal:storage/lead_block",
             "recipe2": "thermal:storage/silver_block"
         },
@@ -54,7 +54,7 @@
             "recipe2": "thermal:storage/signalum_block"
         },
         {
-            "type": "合成",
+            "type": "crafting",
             "recipe": "thermal:storage/lumium_block",
             "recipe2": "thermal:storage/enderium_block"
         }
