@@ -1,10 +1,10 @@
 {
-  "name": "布朗尼",
+  "name": "Brownies",
   "icon": "croptopia:brownies",
   "category": "croptopia:deserts",
   "pages": [
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "croptopia:brownies",
       "text": "Recipe for brownies."
     }
