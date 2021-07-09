@@ -1,10 +1,10 @@
 {
-  "name": "英式鬆餅",
+  "name": "Scones",
   "icon": "croptopia:scones",
   "category": "croptopia:deserts",
   "pages": [
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "croptopia:scones",
       "text": "Recipe for scones."
     }
