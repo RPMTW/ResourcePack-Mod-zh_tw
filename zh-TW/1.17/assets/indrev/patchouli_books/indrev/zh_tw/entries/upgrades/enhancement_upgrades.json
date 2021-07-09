@@ -16,17 +16,17 @@
     {
       "type": "crafting",
       "recipe": "indrev:shaped/buffer_enhancer",
-      "text": "This upgrade will increase the machine's internal energy capacity."
+      "text": "此升級將提高機器的內部能量處存容量。"
     },
     {
       "type": "crafting",
       "recipe": "indrev:shaped/blast_furnace_enhancer",
-      "text": "This upgrade will make the Electric Furnace accept Blast Furnace recipes."
+      "text": "此升級將使電爐能夠處理高爐配方。"
     },
     {
       "type": "crafting",
       "recipe": "indrev:shaped/smoker_enhancer",
-      "text": "This upgrade will make the Electric Furnace accept Smoker recipes."
+      "text": "此升級將使電爐能夠處理煙燻爐配方。"
     }
   ]
 }
