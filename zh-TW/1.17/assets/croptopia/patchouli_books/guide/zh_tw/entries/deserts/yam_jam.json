@@ -1,10 +1,10 @@
 {
-  "name": "山藥果醬",
+  "name": "Yam Jam",
   "icon": "croptopia:yam_jam",
   "category": "croptopia:deserts",
   "pages": [
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "croptopia:yam_jam",
       "text": "Recipe for yam jam."
     }
