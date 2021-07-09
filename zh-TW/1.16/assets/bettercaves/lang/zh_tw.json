@@ -189,7 +189,7 @@
     "text.autoconfig.bettercaves-fabric-1_16.option.betterCaves.undergroundSettings.miscellaneous.enableFloodedUnderground": "允許淹沒地下空間",
     "text.autoconfig.bettercaves-fabric-1_16.option.betterCaves.undergroundSettings.miscellaneous.enableFloodedUnderground.@Tooltip": "允許在海洋生態域內生成的洞穴被水覆蓋",
     "text.autoconfig.bettercaves-fabric-1_16.option.betterCaves.undergroundSettings.miscellaneous.overrideSurfaceDetection": "Override Surface Detection",
-    "text.autoconfig.bettercaves-fabric-1_16.option.betterCaves.undergroundSettings.miscellaneous.overrideSurfaceDetection.@Tooltip[0]": "Ignores surface detection for closing off caves and caverns, forcing them to spawn",
+    "text.autoconfig.bettercaves-fabric-1_16.option.betterCaves.undergroundSettings.miscellaneous.overrideSurfaceDetection.@Tooltip[0]": "忽略關閉洞穴和洞穴地表檢測，迫使它們生成",
     "text.autoconfig.bettercaves-fabric-1_16.option.betterCaves.undergroundSettings.miscellaneous.overrideSurfaceDetection.@Tooltip[1]": "直到他們的最大高度。",
     "text.autoconfig.bettercaves-fabric-1_16.option.betterCaves.undergroundSettings.miscellaneous.overrideSurfaceDetection.@Tooltip[2]": "適用於沒有真正\"表面\"的類式地獄維度。"
 }
