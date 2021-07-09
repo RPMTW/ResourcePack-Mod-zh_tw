@@ -1,10 +1,10 @@
 {
-  "name": "醬油",
+  "name": "Soy Sauce",
   "icon": "croptopia:soy_sauce",
   "category": "croptopia:ingredients",
   "pages": [
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "croptopia:soy_sauce",
       "text": "Recipe for soy sauce."
     }
