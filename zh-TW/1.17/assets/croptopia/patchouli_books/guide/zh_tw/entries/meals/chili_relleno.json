@@ -1,10 +1,10 @@
 {
-  "name": "填餡紅辣椒",
+  "name": "Chili Relleno",
   "icon": "croptopia:chili_relleno",
   "category": "croptopia:meals",
   "pages": [
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "croptopia:chili_relleno",
       "text": "Recipe guide."
     }
