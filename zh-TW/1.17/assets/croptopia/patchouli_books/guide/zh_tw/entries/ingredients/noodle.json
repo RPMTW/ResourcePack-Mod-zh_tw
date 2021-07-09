@@ -1,10 +1,10 @@
 {
-  "name": "麵條",
+  "name": "Noodle",
   "icon": "croptopia:noodle",
   "category": "croptopia:ingredients",
   "pages": [
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "croptopia:noodle",
       "text": "Recipe for noodles."
     }
