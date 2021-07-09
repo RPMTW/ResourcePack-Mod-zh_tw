@@ -1,5 +1,5 @@
 {
-    "name": "源石",
+    "name": "Source Stone",
     "icon": "adventurez:source_stone",
     "category": "adventurez:item_category",
     "pages": [
@@ -9,7 +9,7 @@
             "text": "The Source Stone is dropped by the Void Shadow. It is a legendary stone made in ancient times by a dark mage whose name is long forgotten. Right click will shoot a void bullet. Shift + Right click will try to phase you through blocks"
         },
         {
-            "type": "空",
+            "type": "empty",
             "draw_filler": false
         }
     ]
