@@ -10,18 +10,18 @@
         },
         {
             "type": "smithing",
-            "title": "鐵匠",
+            "title": "Smithing",
             "recipe": "adventurez:stone_golem_helmet",
             "recipe2": "adventurez:stone_golem_chestplate"
         },
         {
             "type": "smithing",
-            "title": "鐵匠",
+            "title": "Smithing",
             "recipe": "adventurez:stone_golem_leggings",
             "recipe2": "adventurez:stone_golem_boots"
         },
         {
-            "type": "空",
+            "type": "empty",
             "draw_filler": false
         }
     ]
