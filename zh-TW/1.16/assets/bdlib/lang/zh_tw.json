@@ -37,6 +37,6 @@
     "bdlib.oredistribution.warn": "%s Warning： %s 多個變數已產生：",
     "bdlib.oredistribution.saved": "Ore distribution dumped to %s",
     "bdlib.oredistribution.error": "Failed to save ore distribution dump: %s",
-    "bdlib.dumpregistry.saved": "Registries dumped to %s",
+    "bdlib.dumpregistry.saved": "登錄檔已轉存至%s",
     "bdlib.dumpregistry.error": "Failed to dump registries: %s"
 }
