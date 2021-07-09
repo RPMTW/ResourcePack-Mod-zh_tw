@@ -27,7 +27,7 @@
   "key.gameinfo.debugdown": "Debug change following",
   "key.gameinfo.debugup": "Debug change behind",
   "config.gameinfo.title": "遊戲訊息設定",
-  "config.gameinfo.hudinfoshow": "HUD模式",
+  "config.gameinfo.hudinfoshow": "HUD Mode",
   "config.gameinfo.lightalert": "警戒亮度等級",
   "config.gameinfo.UI": "面板",
   "config.gameinfo.righthud": "右HUD",
@@ -56,6 +56,6 @@
   "config.gameinfo.soundalertminlightlevel": "聲音警戒最少亮度等級",
   "config.gameinfo.alerttickdelay": "警戒Tick延遲",
   "config.gameinfo.toastalertlowlight": "Toast Alert",
-  "config.gameinfo.Modules": "模塊",
+  "config.gameinfo.Modules": "Modules",
   "config.gameinfo.debugpackages": "Debug Packages"
 }
