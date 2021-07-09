@@ -1,5 +1,5 @@
 {
-    "name": "Fungus",
+    "name": "蕈菇",
     "icon": "adventurez:stone_golem_heart",
     "category": "adventurez:mob_category",
     "pages": [
@@ -14,7 +14,7 @@
         },
         {
             "type": "entity",
-            "name": "Showcase",
+            "name": "展示",
             "entity": "adventurez:brown_fungus"
         },
         {
