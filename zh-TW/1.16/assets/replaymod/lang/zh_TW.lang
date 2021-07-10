@@ -40,7 +40,7 @@ replaymod.chat.addmarker=事件標記已被加入。
 
 #Chat messages displayed in Replay Viewer
 replaymod.chat.morekeyframes=至少需要2個位置關鍵幀和2個時間關鍵幀。
-replaymod.chat.pathinterrupted=攝影機路徑被取消。 Please consult your nearest time lord for assistance. Please consult your nearest time lord for assistance.
+replaymod.chat.negativetime=攝影機路徑被取消。 Please consult your nearest time lord for assistance.
 replaymod.chat.pathfinished=攝影機路徑已完成。
 replaymod.gui.ingame.menu.pausepath=暫停攝影機路徑
 replaymod.gui.camera=相機
@@ -99,13 +99,13 @@ replaymod.gui.renderdonetitle=影片渲染
 replaymod.gui.openfolder=開啟影片資料夾
 replaymod.gui.youtubeupload=上傳到Youtube
 replaymod.gui.renderdone1=你的影片已成功渲染
-replaymod.gui.renderdone2=How would you like to proceed?
+replaymod.gui.renderdone2=你希望如何處理？
 replaymod.gui.videotitle=標題
 replaymod.gui.videodescription=描述
-replaymod.gui.videotags=Tags,Tags,Tags
+replaymod.gui.videotags=標籤、標籤、標籤
 replaymod.gui.videothumbnail=影片縮圖
 replaymod.gui.videovisibility.private=私人
-replaymod.gui.videovisibility.unlisted=Unlisted
+replaymod.gui.videovisibility.unlisted=待發布
 replaymod.gui.videovisibility.public=公共
 replaymod.gui.ytuploadprogress.auth=[1/4] 授權
 replaymod.gui.ytuploadprogress.prepare_video=[2/4] 準備影片: %%d%%%%
@@ -149,22 +149,22 @@ replaymod.gui.minimalmode.unsupported=This feature is not available for your cur
 replaymod.gui.minimalmode.supportedversion=(only Minecraft %1$s is supported by your Replay Mod version)
 
 #Only change these if it's neccessary
-replaymod.gui.replayviewer=Replay 檢視器
-replaymod.gui.replaycenter=Replay 中心
-replaymod.gui.replayeditor=Replay 編輯器
+replaymod.gui.replayviewer=回放檢視器
+replaymod.gui.replaycenter=回放中心
+replaymod.gui.replayeditor=回放影片編輯器
 
 #Login GUI
-replaymod.gui.login.connectionerror=無法連接到ReplayMod.com
+replaymod.gui.login.title=登入到ReplayMod.com
 replaymod.gui.login.logging=登入中…
 replaymod.gui.login.incorrect=您輸入的帳號或密碼錯誤
 replaymod.gui.login.skip=跳過
 
 replaymod.gui.register.confirmpw=確認密碼
 
-replaymod.title=重現記錄 模組
-replaymod.gui.center.top.best=最佳
+replaymod.gui.register.title=在ReplayMod.com註冊
+replaymod.gui.register.confirmpw=確認密碼
 
-replaymod.gui.register.disclaimer=如果要註冊一個帳號，您必須先同意Replay Mod的服務條款: https://replaymod.com/legal/terms
+replaymod.gui.register.disclaimer=如果要註冊一個帳號，您必須先同意回放模組的服務條款: https://replaymod.com/legal/terms
 
 replaymod.gui.register.error.nomatch=密碼不一致
 replaymod.gui.register.error.shortusername=Username has to be at least 5 characters long
@@ -174,16 +174,16 @@ replaymod.gui.register.error.longpw=Password has to be at most 1024 characters l
 replaymod.gui.register.error.authfailed=Could not authenticate your Minecraft account
 
 #Replay Viewer GUI
-replaymod.gui.viewer.rename.name=Replay Name
-replaymod.gui.viewer.replayfolder=Open Replay Folder...
-replaymod.gui.viewer.bulkrender=Render %1$d videos
+replaymod.gui.viewer.rename.name=回放影片名稱
+replaymod.gui.viewer.replayfolder=開啟回放影片資料夾...
+replaymod.gui.viewer.bulkrender=渲染 %1$d 影片
 
-replaymod.gui.viewer.delete.linea=Are you sure you want to delete this replay?
+replaymod.gui.viewer.delete.linea=你確定要刪除此回放影片嗎?
 replaymod.gui.viewer.delete.failed1=Your OS did not allow us to remove the replay. There is
 replaymod.gui.viewer.delete.failed2=nothing we can do about this. You have to do it yourself.
 replaymod.gui.viewer.delete.lineb='%1$s' will be lost forever! (a long time!)
 
-replaymod.gui.viewer.download.title=Downloading Replay File...
+replaymod.gui.viewer.download.title=下載回放影片檔案中...
 replaymod.gui.viewer.download.message=Please wait while "%1$s" is being downloaded.
 
 replaymod.gui.viewer.chooser.title=Choose Replay File
@@ -194,12 +194,12 @@ replaymod.gui.login.noacc=Don't have an account yet?
 #Replay Center GUI
 replaymod.gui.center.logoutcallback=請問您真的要登出嗎？
 replaymod.gui.center.top.recent=最近
-replaymod.gui.center.top.favorited=最愛
+replaymod.gui.center.top.best=最佳
 replaymod.gui.center.top.downloaded=下載
 replaymod.gui.center.top.favorited=最愛
-replaymod.gui.restorereplay2=影片「%1$s」沒有正常儲存。
+replaymod.gui.center.top.search=搜尋
 
-replaymod.gui.center.search.filters=Search Filters
+replaymod.gui.center.search.filters=搜尋過濾器
 replaymod.gui.center.search.gametype=Gametype
 replaymod.gui.center.search.order=Sort by
 replaymod.gui.center.search.order.best=Best
@@ -451,18 +451,18 @@ replaymod.gui.rendering.timetaken=Render Time
 replaymod.gui.rendering.timeleft=Time Left
 
 #Render Errors
-replaymod.gui.rendering.error.title=Rendering Failed
-replaymod.gui.rendering.error.message=To render a video, you need to have ffmpeg installed. http://ffmpeg.org
-replaymod.gui.rendering.error.ffmpeglog=FFmpeg output:
+replaymod.gui.rendering.error.title=渲染失敗
+replaymod.gui.rendering.error.message=如果要渲染影片，你需要安裝ffmpeg。 http://ffmpeg.org
+replaymod.gui.rendering.error.ffmpeglog=FFmpeg 輸出:
 replaymod.gui.rendering.error.ffmpegargs.1=It seems like you have modified the Command Line Arguments.
 replaymod.gui.rendering.error.ffmpegargs.2=Do you want to reset them to the defaults and try again?
 
 #Ingame Menu
-replaymod.gui.ingame.menu.addposkeyframe=Add Position Keyframe
-replaymod.gui.ingame.menu.removeposkeyframe=Remove Position Keyframe
-replaymod.gui.ingame.menu.addspeckeyframe=Add Spectator Keyframe
-replaymod.gui.ingame.menu.removespeckeyframe=Remove Spectator Keyframe
-replaymod.gui.ingame.menu.addtimekeyframe=Add Time Keyframe
+replaymod.gui.ingame.menu.addposkeyframe=新增位置關鍵幀
+replaymod.gui.ingame.menu.removeposkeyframe=刪除位置關鍵幀
+replaymod.gui.ingame.menu.addpeckeyframe=新增旁觀者關鍵幀
+replaymod.gui.ingame.menu.removeespeckeyframe=移除旁觀者關鍵幀
+replaymod.gui.ingame.menu.addtimekeyframe=新增時間關鍵幀
 replaymod.gui.ingame.menu.removetimekeyframe=Remove Time Keyframe
 replaymod.gui.ingame.menu.pause=Pause Replay
 replaymod.gui.ingame.menu.unpause=Unpause Replay
@@ -480,50 +480,50 @@ replaymod.gui.ingame.autoactivating.enable=Ctrl-click to enable auto-activation.
 replaymod.gui.ingame.first_keyframe_not_at_start_warning=You just placed your first keyframe and it's not at 00:00.\n\nThis usually is an indication that you have misunderstood how the\nvideo timeline (that's the bottom one) works:\n\nWhile The top timeline shows your current time in the replay,\nthe bottom one shows the time in the video you are creating.\nThe video will always start at 00:00! If your first keyframe is not at 00:00,\nthen the video will appear frozen until the time of the first keyframe!
 
 #Clear Keyframe Callback
-replaymod.gui.clearcallback.title=Clear all Keyframes?
+replaymod.gui.clearcallback.title=清除所有關鍵幀？
 
 #Asset Manager Gui
-replaymod.gui.assets.title=Asset Manager
-replaymod.gui.assets.filechooser=Asset File
-replaymod.gui.assets.defaultname=New Asset
-replaymod.gui.assets.emptylist=No Assets available
-replaymod.gui.assets.namehint=Asset Name
-replaymod.gui.assets.changefile=Change Asset File
-replaymod.gui.assets.noselection=No Asset selected
+replaymod.gui.assets.title=資料管理器
+replaymod.gui.assets.filechooser=資料檔案
+replaymod.gui.assets.defaultname=新增資料
+replaymod.gui.assets.emptylist=沒有可用的資料。
+replaymod.gui.assets.namehint=資料名稱
+replaymod.gui.assets.changefile=變更資料檔案
+replaymod.gui.assets.noselection=沒有選擇資料
 
 #Object Manager Gui
-replaymod.gui.objects.properties.anchor=Anchor Point
-replaymod.gui.objects.properties.position=Position
-replaymod.gui.objects.properties.scale=Scale
-replaymod.gui.objects.properties.orientation=Orientation
-replaymod.gui.objects.properties.opacity=Opacity
-replaymod.gui.objects.properties.name=Object Name
-replaymod.gui.objects.empty=No Objects added
-replaymod.gui.objects.defaultname=New Object
-replaymod.gui.objects=Custom Objects
+replaymod.gui.objects.properties.anchor=錨點
+replaymod.gui.objects.properties.position=位置
+replaymod.gui.objects.properties.scale=大小
+replaymod.gui.objects.properties.orientation=方向
+replaymod.gui.objects.properties.opacity=不透明度
+replaymod.gui.objects.properties.name=物件名稱
+replaymod.gui.objects.empty=沒有新增物件
+replaymod.gui.objects.defaultname=新增物件
+replaymod.gui.objects=自訂物件
 
 #Errors
-replaymod.error.unknownrestriction1=This replay cannot be played with your current version.
-replaymod.error.unknownrestriction2=It tried to enforce %s which is unknown.
-replaymod.error.negativetime1=Some of your time keyframes are out of order.
-replaymod.error.negativetime2=Going backwards in time is not supported.
-replaymod.error.negativetime3=The invalid parts are marked in red.
+replaymod.error.unknownrestriction1=你目前的版本無法播放此回放影片。
+replaymod.error.unknownrestriction2=它試圖執行未知的 %s。
+replaymod.error.negativetime1=某些時間關鍵幀失序。
+replaymod.error.negativetime2=不支援時間倒退。
+replaymod.error.negativetime3=失效的部分將以紅色標記。
 
 #Replay Mod Incompatibility Warning
-replaymod.gui.modwarning.title=Incompatibility detected
-replaymod.gui.modwarning.message1=A possible incompatibility between your current
-replaymod.gui.modwarning.message2=Minecraft version and this Replay has been detected.
-replaymod.gui.modwarning.message3=Loading this Replay may result in errors or a crash.
-replaymod.gui.modwarning.name=Mod Name:
-replaymod.gui.modwarning.id=Mod Id:
-replaymod.gui.modwarning.missing=Missing Mods
-replaymod.gui.modwarning.version=Different Mod Versions
+replaymod.gui.modwarning.title=檢測到不相容問題
+replaymod.gui.modwarning.message1=已偵測到你目前的Minecraft版本
+replaymod.gui.modwarning.message2=與此回放影片之間可能存在不相容。
+replaymod.gui.modwarning.message3=載入這個回放影片可能會導致錯誤或崩潰。
+replaymod.gui.modwarning.name=模組名稱:
+replaymod.gui.modwarning.id=模組ID:
+replaymod.gui.modwarning.missing=缺少的模組
+replaymod.gui.modwarning.version=不同的模組版本
 replaymod.gui.modwarning.version.expected=Expected
 replaymod.gui.modwarning.version.found=Found
 
 #OpenEye
 replaymod.gui.offeropeneye1=請問您想要安裝OpenEye嗎？
-replaymod.gui.offeropeneye2=OpenEye is a mod that collects anonymous information
+replaymod.gui.offeropeneye2=OpenEye是一個收集匿名資訊的模組。
 replaymod.gui.offeropeneye3=about the mods being run and any crashes that happen.
 replaymod.gui.offeropeneye4=
 replaymod.gui.offeropeneye5=OpenEye can be disabled at any time and is completely optional.
@@ -532,13 +532,13 @@ replaymod.gui.offeropeneye7=Clicking Yes will download OpenEye and place it in y
 replaymod.gui.offeropeneye8=It will then be active the next time you start Minecraft.
 
 #Advanced Screenshots Gui
-replaymod.gui.advancedscreenshots.title=Screenshot Settings
-replaymod.gui.advancedscreenshots.create=Take Screenshot
-replaymod.gui.advancedscreenshots.resolution=Resolution
+replaymod.gui.advancedscreenshots.title=截圖設定
+replaymod.gui.advancedscreenshots.create=截圖
+replaymod.gui.advancedscreenshots.resolution=解析度
 
 # Screenshot Finished Gui
-replaymod.gui.advancedscreenshots.finished.description=You successfully created a Screenshot!
-replaymod.gui.advancedscreenshots.finished.description.360=You successfully created a 360° Screenshot!
-replaymod.gui.advancedscreenshots.finished.description.veer=Upload and view the image in VR on VeeR.tv or open it on your disk.
-replaymod.gui.advancedscreenshots.finished.upload.veer=Upload to VeeR.tv
-replaymod.gui.advancedscreenshots.finished.showfile=Show file on disk
+replaymod.gui.advancedscreenshots.finished.description=你成功建立了一張截圖！
+replaymod.gui.advancedscreenshots.finished.description.360=你成功建立了一張 360度 截圖！
+replaymod.gui.advancedscreenshots.finished.description.vee=在VeeR.tv上上傳並在VR中查看圖片，或在磁碟上打開它。
+replaymod.gui.advancedscreenshots.finished.upload.veer=上傳至VeeR.tv
+replaymod.gui.advancedscreenshots.finished.showfile=顯示磁碟上的檔案
