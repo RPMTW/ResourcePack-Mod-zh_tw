@@ -179,17 +179,17 @@ replaymod.gui.viewer.replayfolder=開啟回放影片資料夾...
 replaymod.gui.viewer.bulkrender=渲染 %1$d 影片
 
 replaymod.gui.viewer.delete.linea=你確定要刪除此回放影片嗎?
-replaymod.gui.viewer.delete.failed1=Your OS did not allow us to remove the replay. There is
-replaymod.gui.viewer.delete.failed2=nothing we can do about this. You have to do it yourself.
-replaymod.gui.viewer.delete.lineb='%1$s' will be lost forever! (a long time!)
+replaymod.gui.viewer.delete.failed1=你的作業系統不允許刪除此重播影片。 這是
+replaymod.gui.viewer.delete.failed2=我們對此幫不上忙。 你必須自己處理。
+replaymod.gui.viewer.delete.lineb='%1$s' 將永遠刪除！ (非常久！)
 
 replaymod.gui.viewer.download.title=下載回放影片檔案中...
-replaymod.gui.viewer.download.message=Please wait while "%1$s" is being downloaded.
+replaymod.gui.viewer.download.message=正在下載 "%1$s" 中，請稍後。
 
-replaymod.gui.viewer.chooser.title=Choose Replay File
-replaymod.gui.viewer.chooser.message=You have a modified version of "%1$s" on your computer. Which Replay do you want to load?
+replaymod.gui.viewer.chooser.title=選擇回放影片檔案
+replaymod.gui.viewer.chooser.message=你的電腦上有 "%1$s" 的修改版本。 你想要載入哪個回放影片?
 
-replaymod.gui.login.noacc=Don't have an account yet?
+replaymod.gui.login.noacc=還沒有帳號嗎?
 
 #Replay Center GUI
 replaymod.gui.center.logoutcallback=請問您真的要登出嗎？
@@ -200,35 +200,35 @@ replaymod.gui.center.top.favorited=最愛
 replaymod.gui.center.top.search=搜尋
 
 replaymod.gui.center.search.filters=搜尋過濾器
-replaymod.gui.center.search.gametype=Gametype
-replaymod.gui.center.search.order=Sort by
-replaymod.gui.center.search.order.best=Best
-replaymod.gui.center.search.order.recent=Recent
-replaymod.gui.center.search.name=Replay Name
-replaymod.gui.center.search.server=Server IP (Multiplayer only)
-replaymod.gui.center.search.category=Filter by Category
-replaymod.gui.center.search.version=Filter by Version
+replaymod.gui.center.search.gametype=遊戲類型
+replaymod.gui.center.search.order=排序方式
+replaymod.gui.center.search.order.best=最好
+replaymod.gui.center.search.order.recent=最近
+replaymod.gui.center.search.name=回放影片名稱
+replaymod.gui.center.search.server=伺服器 IP (僅限多人遊戲)
+replaymod.gui.center.search.category=按類別過濾
+replaymod.gui.center.search.version=按版本過濾
 
-replaymod.gui.center.downloadrequired=Download the Replay to rate or favorite it
+replaymod.gui.center.downloadrequired=下載此回放影片以評價或收藏它
 
-replaymod.gui.center.favorite=Favorite
-replaymod.gui.center.unfavorite=Unfavorite
+replaymod.gui.center.favorite=喜歡
+replaymod.gui.center.unfavorite=不喜歡
 
-replaymod.gui.center.author=by %1$s%2$s
+replaymod.gui.center.author=由 %1$s%2$s 製作
 
 #Upload GUI
 replaymod.gui.upload.title=上傳檔案
 replaymod.gui.upload.start=開始上傳
 replaymod.gui.upload.cancel=取消上傳
 replaymod.gui.upload.tagshint=Tags separated by comma
-replaymod.gui.upload.namehint=Replay Title
-replaymod.gui.upload.descriptionhint=Description
-replaymod.gui.upload.duration=Duration: %02dm%02ds
+replaymod.gui.upload.namehint=回放影片標題
+replaymod.gui.upload.descriptionhint=描述
+replaymod.gui.upload.duration=時間: %02d分鐘 %02d秒
 replaymod.gui.upload.uploading=上傳中…
 replaymod.gui.upload.success=成功上傳檔案
 replaymod.gui.upload.canceled=上傳已取消
-replaymod.gui.upload.hideip2=Hide Server IP (%s)
-replaymod.gui.upload.nothumbnail=Missing Thumbnail. Please create a Thumbnail in the Replay using the %1$s key.
+replaymod.gui.upload.hideip2=隱藏伺服器IP (%s)
+replaymod.gui.upload.nothumbnail=缺少影片縮圖。 請使用 %1$s 按鍵在回放影片中建立縮圖。
 replaymod.gui.upload.tryagain=再試一次？
 
 replaymod.gui.upload.error.name.length=The Replay Name has to be between 5 and 30 characters long
@@ -260,7 +260,7 @@ replaymod.gui.editor.progress.status.finished=Finished Editing!
 replaymod.gui.editor.disclaimer=The Replay Editor is an experimental feature and may contain bugs.
 
 #Replay Editor UI 2.0 (marker based UI)
-replaymod.gui.edit.apply=Apply
+replaymod.gui.edit.apply=套用
 replaymod.gui.edit.split=Insert split
 replaymod.gui.edit.split.tooltip=Split the Replay into multiple Replays at the marked point
 replaymod.gui.edit.cut.start=Insert cut
@@ -268,27 +268,27 @@ replaymod.gui.edit.cut.end=End cut
 replaymod.gui.edit.cut.tooltip=Cut (remove) a section of the Replay
 
 #Cancel Replay GUI
-replaymod.gui.cancelrender.title=Cancel Rendering
+replaymod.gui.cancelrender.title=取消渲染
 replaymod.gui.cancelrender.message=Are you sure that you want to cancel the current rendering process?
 #Saving Replay GUI
-replaymod.gui.replaysaving.title=Saving Replay File...
-replaymod.gui.replaymodified.message=Replay was modified. Would you like to save the changes?
-replaymod.gui.replaymodified.yes=Save Modified Replay
-replaymod.gui.replaymodified.no=Discard Changes
+replaymod.gui.replaysaving.title=儲存回放影片檔案...
+replaymod.gui.replaymodified.message=此回放影片已被修改。 你是否要保存更改？
+replaymod.gui.replaymodified.yes=儲存修改後的回放影片
+replaymod.gui.replaymodified.no=放棄變更
 replaymod.gui.replaymodified.warning1=A Replay named "%1$s" already exists.
 replaymod.gui.replaymodified.warning2=Are you sure you want to replace it?
 
 #Player Overview GUI
-replaymod.gui.playeroverview.visible=Visible
-replaymod.gui.playeroverview.hideall=Hide all
-replaymod.gui.playeroverview.showall=Show all
-replaymod.gui.playeroverview.spectate=Spectate Player
+replaymod.gui.playeroverview.visible=可見
+replaymod.gui.playeroverview.hideall=隱藏全部
+replaymod.gui.playeroverview.showall=顯示全部
+replaymod.gui.playeroverview.spectate=旁觀者
 replaymod.gui.playeroverview.remembersettings=Remember Hidden Players
 replaymod.gui.playeroverview.remembersettings.description=Saves Player Visibility in Replay File
 
 #Replay Mod Settings GUI
-replaymod.gui.settings.title=Replay Mod Settings
-replaymod.gui.settings.default=DEFAULT
+replaymod.gui.settings.title=回放模組設定
+replaymod.gui.settings.default=預設
 
 replaymod.gui.settings.notifications=Enable Notifications
 replaymod.gui.settings.recordserver=Record Server
@@ -335,19 +335,19 @@ replaymod.camera.vanilla=Vanilla-ish
 replaymod.gui.keyframerepository.title=Keyframe Repository
 
 #Edit Keyframe GUI
-replaymod.gui.editkeyframe.title.pos=Edit Position Keyframe
-replaymod.gui.editkeyframe.title.time=Edit Time Keyframe
-replaymod.gui.editkeyframe.title.marker=Edit Event Marker
-replaymod.gui.editkeyframe.title.spec=Edit Spectator Keyframe
+replaymod.gui.editkeyframe.title.pos=編輯位置關鍵幀
+replaymod.gui.editkeyframe.title.time=編輯時間關鍵幀
+replaymod.gui.editkeyframe.title.marker=編輯事件標記
+replaymod.gui.editkeyframe.title.spec=編輯旁觀者關鍵幀
 replaymod.gui.editkeyframe.xpos=X 座標
 replaymod.gui.editkeyframe.ypos=Y 座標
 replaymod.gui.editkeyframe.zpos=Z 座標
-replaymod.gui.editkeyframe.campitch=Camera Pitch
+replaymod.gui.editkeyframe.campitch=相機間距
 replaymod.gui.editkeyframe.camyaw=Camera Yaw
 replaymod.gui.editkeyframe.camroll=Camera Roll
-replaymod.gui.editkeyframe.timelineposition=Timeline Position
-replaymod.gui.editkeyframe.markername=Event Marker Name
-replaymod.gui.editkeyframe.timestamp=Time Index
+replaymod.gui.editkeyframe.timelineposition=時間軸位置
+replaymod.gui.editkeyframe.markername=事件標記名稱
+replaymod.gui.editkeyframe.timestamp=時間索引
 
 replaymod.gui.editkeyframe.spec.method=Spectating Method
 replaymod.gui.editkeyframe.spec.method.firstperson=First Person
@@ -411,26 +411,26 @@ replaymod.gui.rendersettings.ffmpeg.description=If you are an advanced user, you
 
 replaymod.gui.rendersettings.stabilizecamera=Stabilize Camera
 
-replaymod.gui.rendersettings.video=Video Settings
-replaymod.gui.rendersettings.advanced=Advanced Settings
-replaymod.gui.rendersettings.commandline=Command Line Settings
+replaymod.gui.rendersettings.video=影片設定
+replaymod.gui.rendersettings.advanced=進階設定
+replaymod.gui.rendersettings.commandline=時間軸設定
 
-replaymod.gui.rendersettings.presets=Encoding Presets
-replaymod.gui.rendersettings.presets.mp4.custom=MP4 - Custom Bitrate
-replaymod.gui.rendersettings.presets.mp4.high=MP4 - High Quality
-replaymod.gui.rendersettings.presets.mp4.default=MP4 - Default Quality
-replaymod.gui.rendersettings.presets.mp4.potato=MP4 - Potato Quality
-replaymod.gui.rendersettings.presets.webm.custom=WEBM - Custom Bitrate
-replaymod.gui.rendersettings.presets.mkv.lossless=MKV - Lossless
+replaymod.gui.rendersettings.presets=預設編碼
+replaymod.gui.rendersettings.presets.mp4.custom=MP4 - 自訂位元率
+replaymod.gui.rendersettings.presets.mp4.high=MP4 - 高品質
+replaymod.gui.rendersettings.presets.mp4.default=MP4 - 預設品質
+replaymod.gui.rendersettings.presets.mp4.potato=MP4 - 低品質
+replaymod.gui.rendersettings.presets.webm.custom=WEBM - 自訂位元率。
+replaymod.gui.rendersettings.presets.mkv.lossless=MKV - 無損
 replaymod.gui.rendersettings.presets.blend=Blend file
-replaymod.gui.rendersettings.presets.png=PNG Sequence
+replaymod.gui.rendersettings.presets.png=PNG 序列
 replaymod.gui.rendersettings.presets.exr=OpenEXR Sequence
 
 replaymod.gui.rendersettings.antialiasing=Anti-Aliasing
-replaymod.gui.rendersettings.antialiasing.none=None
-replaymod.gui.rendersettings.antialiasing.x2=2x
-replaymod.gui.rendersettings.antialiasing.x4=4x
-replaymod.gui.rendersettings.antialiasing.x8=8x
+replaymod.gui.rendersettings.antialiasing.none=無
+replaymod.gui.rendersettings.antialiasing.x2=2倍
+replaymod.gui.rendersettings.antialiasing.x4=4倍
+replaymod.gui.rendersettings.antialiasing.x8=8倍
 
 #Render Queue GUI
 replaymod.gui.renderqueue.title=Render Queue
@@ -440,14 +440,14 @@ replaymod.gui.renderqueue.renderall=Render All
 replaymod.gui.renderqueue.renderselected=Render Selected
 
 #Rendering GUI
-replaymod.gui.rendering.title=Rendering Video
-replaymod.gui.rendering.pause=Pause Rendering
-replaymod.gui.rendering.resume=Resume Rendering
-replaymod.gui.rendering.cancel=Cancel Rendering
+replaymod.gui.rendering.title=渲染影片
+replaymod.gui.rendering.pause=暫停渲染
+replaymod.gui.rendering.resume=恢復渲染
+replaymod.gui.rendering.cancel=取消渲染
 replaymod.gui.rendering.cancel.callback=Are you sure?
 replaymod.gui.rendering.preview=Show Preview (Performance might suffer)
 replaymod.gui.rendering.progress=Frames rendered: %1$d / %2$d
-replaymod.gui.rendering.timetaken=Render Time
+replaymod.gui.rendering.timetaken=渲染時間
 replaymod.gui.rendering.timeleft=Time Left
 
 #Render Errors
@@ -470,8 +470,8 @@ replaymod.gui.ingame.menu.renderpath=Render Camera Path
 replaymod.gui.ingame.menu.playpath=Play Camera Path from Cursor Position
 replaymod.gui.ingame.menu.playpathfromstart=Play Camera Path from Start
 replaymod.gui.ingame.menu.pausepath=Pause Camera Path
-replaymod.gui.ingame.menu.zoomin=Zoom in
-replaymod.gui.ingame.menu.zoomout=Zoom out
+replaymod.gui.ingame.menu.zoomin=放大
+replaymod.gui.ingame.menu.zoomout=縮小
 
 replaymod.gui.ingame.unnamedmarker=Unnamed Event Marker
 replaymod.gui.ingame.autoactivating=This keybinding may auto-activate at appropriate times.
