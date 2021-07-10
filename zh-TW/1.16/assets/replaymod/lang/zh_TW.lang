@@ -138,25 +138,25 @@ replaymod.gui.login.title=登入到ReplayMod.com
 replaymod.gui.keyframerepo.delete=你確定要刪除這些關鍵幀嗎?
 replaymod.gui.keyframerepo.overwrite=你確定要覆蓋這些關鍵幀嗎?
 
-replaymod.gui.restorereplay1=It seems like Minecraft has not quit normally.
+replaymod.gui.restorereplay1=看起來 Minecraft 沒有正常關閉。
 replaymod.gui.restorereplay2=影片「%1$s」沒有正常儲存。
 replaymod.gui.restorereplay3=你是否希望復原它?
 
-replaymod.gui.loadentitytracker=Loading entity positions: %%d%%%%
+replaymod.gui.loadentitytracker=載入實體座標中: %%d%%%%
 replaymod.gui.loadquickmode=Loading Quick Mode: %%d%%%%
 replaymod.gui.noquickmode=Quick Mode is only available on Minecraft %1$s and above
 replaymod.gui.minimalmode.unsupported=This feature is not available for your current Minecraft version.
 replaymod.gui.minimalmode.supportedversion=(only Minecraft %1$s is supported by your Replay Mod version)
 
 #Only change these if it's neccessary
-replaymod.gui.replayviewer=Replay Viewer
-replaymod.gui.replaycenter=Replay Center
-replaymod.gui.replayeditor=Replay Editor
+replaymod.gui.replayviewer=Replay 檢視器
+replaymod.gui.replaycenter=Replay 中心
+replaymod.gui.replayeditor=Replay 編輯器
 
 #Login GUI
 replaymod.gui.login.connectionerror=無法連接到ReplayMod.com
-replaymod.gui.login.logging=Logging in...
-replaymod.gui.login.incorrect=Incorrect username or password
+replaymod.gui.login.logging=登入中…
+replaymod.gui.login.incorrect=您輸入的帳號或密碼錯誤
 replaymod.gui.login.skip=跳過
 
 replaymod.gui.register.confirmpw=確認密碼
@@ -164,9 +164,9 @@ replaymod.gui.register.confirmpw=確認密碼
 replaymod.title=重現記錄 模組
 replaymod.gui.center.top.best=最佳
 
-replaymod.gui.register.disclaimer=By registering an account, you agree to the Replay Mod's Terms of Service: https://replaymod.com/legal/terms
+replaymod.gui.register.disclaimer=如果要註冊一個帳號，您必須先同意Replay Mod的服務條款: https://replaymod.com/legal/terms
 
-replaymod.gui.register.error.nomatch=Passwords don't match
+replaymod.gui.register.error.nomatch=密碼不一致
 replaymod.gui.register.error.shortusername=Username has to be at least 5 characters long
 replaymod.gui.register.error.invalidname=Username may only contain letters and numbers
 replaymod.gui.register.error.shortpw=Password has to be at least 5 characters long
@@ -192,7 +192,7 @@ replaymod.gui.viewer.chooser.message=You have a modified version of "%1$s" on yo
 replaymod.gui.login.noacc=Don't have an account yet?
 
 #Replay Center GUI
-replaymod.gui.center.logoutcallback=Do you really want to log out?
+replaymod.gui.center.logoutcallback=請問您真的要登出嗎？
 replaymod.gui.center.top.recent=最近
 replaymod.gui.center.top.favorited=最愛
 replaymod.gui.center.top.downloaded=下載
@@ -217,19 +217,19 @@ replaymod.gui.center.unfavorite=Unfavorite
 replaymod.gui.center.author=by %1$s%2$s
 
 #Upload GUI
-replaymod.gui.upload.title=Upload File
-replaymod.gui.upload.start=Start Upload
-replaymod.gui.upload.cancel=Cancel Upload
+replaymod.gui.upload.title=上傳檔案
+replaymod.gui.upload.start=開始上傳
+replaymod.gui.upload.cancel=取消上傳
 replaymod.gui.upload.tagshint=Tags separated by comma
 replaymod.gui.upload.namehint=Replay Title
 replaymod.gui.upload.descriptionhint=Description
 replaymod.gui.upload.duration=Duration: %02dm%02ds
-replaymod.gui.upload.uploading=Uploading...
-replaymod.gui.upload.success=File has been successfully uploaded
-replaymod.gui.upload.canceled=Upload has been canceled
+replaymod.gui.upload.uploading=上傳中…
+replaymod.gui.upload.success=成功上傳檔案
+replaymod.gui.upload.canceled=上傳已取消
 replaymod.gui.upload.hideip2=Hide Server IP (%s)
 replaymod.gui.upload.nothumbnail=Missing Thumbnail. Please create a Thumbnail in the Replay using the %1$s key.
-replaymod.gui.upload.tryagain=Try again?
+replaymod.gui.upload.tryagain=再試一次？
 
 replaymod.gui.upload.error.name.length=The Replay Name has to be between 5 and 30 characters long
 replaymod.gui.upload.error.name=The Replay Name may not contain special characters
@@ -339,9 +339,9 @@ replaymod.gui.editkeyframe.title.pos=Edit Position Keyframe
 replaymod.gui.editkeyframe.title.time=Edit Time Keyframe
 replaymod.gui.editkeyframe.title.marker=Edit Event Marker
 replaymod.gui.editkeyframe.title.spec=Edit Spectator Keyframe
-replaymod.gui.editkeyframe.xpos=X Position
-replaymod.gui.editkeyframe.ypos=Y Position
-replaymod.gui.editkeyframe.zpos=Z Position
+replaymod.gui.editkeyframe.xpos=X 座標
+replaymod.gui.editkeyframe.ypos=Y 座標
+replaymod.gui.editkeyframe.zpos=Z 座標
 replaymod.gui.editkeyframe.campitch=Camera Pitch
 replaymod.gui.editkeyframe.camyaw=Camera Yaw
 replaymod.gui.editkeyframe.camroll=Camera Roll
@@ -522,7 +522,7 @@ replaymod.gui.modwarning.version.expected=Expected
 replaymod.gui.modwarning.version.found=Found
 
 #OpenEye
-replaymod.gui.offeropeneye1=Do you want to install OpenEye?
+replaymod.gui.offeropeneye1=請問您想要安裝OpenEye嗎？
 replaymod.gui.offeropeneye2=OpenEye is a mod that collects anonymous information
 replaymod.gui.offeropeneye3=about the mods being run and any crashes that happen.
 replaymod.gui.offeropeneye4=
