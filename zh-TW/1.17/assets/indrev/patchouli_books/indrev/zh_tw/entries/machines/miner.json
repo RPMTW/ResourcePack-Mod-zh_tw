@@ -139,14 +139,14 @@
       "type": "spotlight",
       "title": "碲金礦脈(地獄)",
       "item": "minecraft:nether_gold_ore",
-      "text": "$(#ff0000)$(l)Nether$()$(br)It's a quite large and rich $(#FFD700)$(l)Nether Gold Ore$() vein, with lots of netherrack, soulsand, gravel, and if you're very lucky some $(l)$(#000000)Ancient Debris$() too!"
+      "text": "$(#ff0000)$(l)地域$()$(br)頗具規模且豐富的$(#FFD700)$(l)地域金礦$()礦脈，夾雜大量地域岩、靈魂沙、礫石。幸運的話還會有$(l)$(#000000)遠古遺骸$()!"
     },
     {
       "anchor": "quartz",
       "type": "spotlight",
-      "title": "Quartz",
+      "title": "石英",
       "item": "minecraft:nether_quartz_ore",
-      "text": "$(#ff0000)$(l)Nether$()$(br)It's a quite large and rich $(#dddddd)$(l)Quartz$() vein, with lots of netherrack, soulsand and gravel."
+      "text": "$(#ff0000)$(l)地域$()$(br)頗具規模且豐富的$(#FFD700)$(l)石英$()礦脈，夾雜大量地域岩、靈魂沙、礫石。"
     }
   ]
 }
