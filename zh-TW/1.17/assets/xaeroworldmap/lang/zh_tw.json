@@ -101,5 +101,8 @@
     "gui.xaero_right_click_map_title": "選擇操作項目",
     "gui.xaero_right_click_box_map_settings": "§2%s§r 開啟設定畫面",
     "gui.xaero_right_click_box_map_export": "將地圖匯出成PNG圖檔",
-    "gui.xaero_waypoint_backgrounds": "顯示定位點顏色背景"
+    "gui.xaero_waypoint_backgrounds": "顯示定位點顏色背景",
+    "gui.xaero_right_click_map_cant_teleport": "§8Can't Teleport Here...",
+    "gui.xaero_right_click_map_cant_create_waypoint": "§8Can't Set A Waypoint Here...",
+    "gui.xaero_no_world_map_item_message": "The mod is configured to require the following item in your hotbar or equipped:"
 }
