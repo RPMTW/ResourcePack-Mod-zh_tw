@@ -208,5 +208,7 @@
     "inventoryprofiles.config.description.locked_slots_disable_quick_move_throw": "Locked slots will be immune to:\n - Shift+click\n - Ctrl+Q\n - Swipe Shift+click\nSwipe Ctrl+Q\n\nDOES NOT WORK ON SERVERS. AND PROBABLY NEVER WILL",
     "inventoryprofiles.config.description.locked_slots_allow_pickup_into_empty": "Should it be possible to pick items from the ground into EMPTY locked slots.\nStackable items will still be picked into locked sots of the same item that have room.",
     "inventoryprofiles.config.name.throw_all_items": "Throw All Items",
-    "inventoryprofiles.config.description.throw_all_items": "The key to throw all items for either player inventory or the opened container.Generally useful for mass crafting.\nAll modifier keys for Move All Items apply here too."
+    "inventoryprofiles.config.description.throw_all_items": "The key to throw all items for either player inventory or the opened container.Generally useful for mass crafting.\nAll modifier keys for Move All Items apply here too.",
+    "inventoryprofiles.config.name.enable_lock_slots_per_server": "Enable Unique Locked Slots per World/Server",
+    "inventoryprofiles.config.description.enable_lock_slots_per_server": "If enabled every server and uniquely named world will have their own locked slots\nNotice:\n1. If you tend to name all your worlds \"New World\" they will all share the same locked slots.\n2. Servers behind bungeecord/velocity proxies will share locked slots."
 }
