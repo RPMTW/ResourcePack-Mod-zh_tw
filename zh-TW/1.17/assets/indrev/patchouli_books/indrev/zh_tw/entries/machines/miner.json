@@ -16,7 +16,7 @@
     },
     {
       "type": "image",
-      "title": "範例",
+      "title": "Example",
       "images": [
         "indrev:textures/gui/mrc_setup.png"
       ],
@@ -126,7 +126,7 @@
       "type": "spotlight",
       "title": "藍石礦脈",
       "item": "indrev:nikolite_ore",
-      "text": "主要由$(#5555BB)$(l)藍石礦$()、$(#FF0000)$(l)紅石礦$()和$(#0000FF)$(l)青晶石礦$()構成，夾雜著石頭、泥土和礫石。許多地方都有此礦脈的蹤影，但在針葉林和冰封地形更為常見。"
+      "text": "主要由$(#5555BB)$(l)藍石礦$()、$(#FF0000)$(l)紅石礦$()和$(#0000FF)$(l)青金石礦$()構成，夾雜著石頭、泥土和礫石。許多地方都有此礦脈的蹤影，但在針葉林和冰封地形更為常見。"
     },
     {
       "anchor": "cavalerite",
@@ -137,7 +137,7 @@
     },
     {
       "type": "spotlight",
-      "title": "碲金礦脈(地域)",
+      "title": "碲金礦脈(地獄)",
       "item": "minecraft:nether_gold_ore",
       "text": "$(#ff0000)$(l)地域$()$(br)頗具規模且豐富的$(#FFD700)$(l)地域金礦$()礦脈，夾雜大量地域岩、靈魂沙、礫石。幸運的話還會有$(l)$(#000000)遠古遺骸$()!"
     },

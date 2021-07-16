@@ -146,7 +146,7 @@
     "advancements.charm.automation.description": "方便才是王道",
     "advancements.charm.decoration.title": "裝飾",
     "advancements.charm.decoration.description": "讓所有事情更美好",
-    "advancements.charm.mobs.title": "怪物",
+    "advancements.charm.mobs.title": "生物",
     "advancements.charm.mobs.description": "探索新的生物",
     "advancements.charm.smithing.title": "鍛造",
     "advancements.charm.smithing.description": "新的術式和更好的修復方法",
@@ -387,5 +387,8 @@
     "item.minecraft.lingering_potion.effect.piercing_vision": "滯留 貫穿視覺藥水",
     "item.minecraft.potion.effect.piercing_vision": "貫穿視覺藥水",
     "item.minecraft.splash_potion.effect.piercing_vision": "飛濺 貫穿視覺藥水",
-    "item.minecraft.tipped_arrow.effect.piercing_vision": "貫穿視覺之箭"
+    "item.minecraft.tipped_arrow.effect.piercing_vision": "貫穿視覺之箭",
+    "cloth.charm.title": "Charm 配置",
+    "cloth.charm.category.title": "Charm",
+    "cloth.charm.category.module_enabled": "啟用模組"
 }

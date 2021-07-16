@@ -1,6 +1,6 @@
 {
     "gui.xaero_open_map": "打開世界地圖",
-    "gui.xaero_open_settings": "開啟設定",
+    "gui.xaero_open_settings": "開啟地圖設定",
     "gui.xaero_debug": "除錯",
     "gui.xaero_on": "開啟",
     "gui.xaero_off": "關閉",
@@ -101,5 +101,8 @@
     "gui.xaero_right_click_map_title": "選擇操作項目",
     "gui.xaero_right_click_box_map_settings": "§2%s§r 開啟設定畫面",
     "gui.xaero_right_click_box_map_export": "將地圖匯出成PNG圖檔",
-    "gui.xaero_waypoint_backgrounds": "顯示定位點顏色背景"
+    "gui.xaero_waypoint_backgrounds": "顯示定位點顏色背景",
+    "gui.xaero_right_click_map_cant_teleport": "§8無法傳送到這裡...",
+    "gui.xaero_right_click_map_cant_create_waypoint": "§8無法在此設定定位點...",
+    "gui.xaero_no_world_map_item_message": "該模組被配置為需要在你的快捷鍵中或快捷欄以下物品:"
 }
