@@ -1,5 +1,5 @@
 {
-    "name": "Shotgun Shell",
+    "name": "霰彈槍殼",
     "icon": "hwg:shotgun_shell",
     "category": "hwg:ammo_category",
     "pages": [
@@ -7,7 +7,7 @@
             "type": "spotlight",
             "item": "hwg:shotgun_shell",
             "link_recipe": true,
-            "text": "Ammo for the Shotgun."
+            "text": "散彈槍的彈藥。"
         }
     ]
 }
