@@ -1,5 +1,5 @@
 {
-    "option.ebe.config": "Block Entities...",
+    "option.ebe.config": "方塊實體...",
     "option.ebe.render_enhanced_chests.value.true": "Enhanced Chests: On",
     "option.ebe.render_enhanced_chests.value.false": "Enhanced Chests: Off",
     "option.ebe.render_enhanced_chests.comment": "Enables baked chest models, greatly improving performance in areas with lots of chests. May cause incompatibilities or turn chests invisible with certain mods, in which case should be disabled.",
@@ -46,10 +46,10 @@
     "option.ebe.experimental_chests.value.false": "Experimental Chests: Off",
     "option.ebe.experimental_chests.comment": "Enables very experimental rendering features for chests, such as specially generated particle textures which work with resource packs.",
     "screen.ebe.config": "Block Entity Settings",
-    "text.ebe.apply": "Apply",
-    "text.ebe.shiftForDesc": "Hold SHIFT for descriptions",
-    "text.ebe.chest_options": "Chest Options",
-    "text.ebe.sign_options": "Sign Options",
-    "text.ebe.bell_options": "Bell Options",
-    "text.ebe.bed_options": "Bed Options"
+    "text.ebe.apply": "應用",
+    "text.ebe.shiftForDesc": "按住 SHIFT 显示资讯",
+    "text.ebe.chest_options": "箱子選項",
+    "text.ebe.sign_options": "告示牌选项",
+    "text.ebe.bell_options": "鐘选项",
+    "text.ebe.bed_options": "床选项"
 }
