@@ -4,6 +4,7 @@ const config = require(`${process.cwd()}/config.json`)
 const compressing = require('compressing');
 const CurseForge = require("mc-curseforge-api");
 const { GetModID } = require("./Module/GetModID");
+const { MCVersion } = require("./Module/MCVersion");
 require('dotenv').config();
 
 let slug, fileID, fileName;
@@ -32,7 +33,7 @@ function Run() {
                 return Date.parse(b.timestamp) - Date.parse(a.timestamp);
               });
             let data = files[i].minecraft_versions;
-            if (data.includes(config.ver)) {
+             if (MCVersion(data)) {
                 fileID = String(files[i].id);
                 fileName = String(files[i].download_url.split("https://edge.forgecdn.net/files/")[1].split(`${fileID.substr(0, 4)}/${fileID.substr(4, 7)}/`)[1]);
                 if (fileName === "undefined") {

@@ -4,6 +4,7 @@ const path = require("path");
 const config = require(`${process.cwd()}/config.json`)
 const compressing = require('compressing');
 const { GetModID } = require("./Module/GetModID");
+const { MCVersion } = require("./Module/MCVersion");
 const ver = config.ver;
 const modCount = config.modCount;
 const CurseForge = require("mc-curseforge-api");
@@ -49,7 +50,7 @@ function GetFile(ID) {
         });
         for (let i = 0; i < files.length; i++) {
             let data = files[i].minecraft_versions;
-            if (data.includes(config.ver)) {
+             if (MCVersion(data)) {
                 fileID = String(files[i].id);
                 fileName = String(files[i].download_url.split("https://edge.forgecdn.net/files/")[1].split(`${fileID.substr(0, 4)}/${fileID.substr(4, 7)}/`)[1]);
                 if (fileName === "undefined") {

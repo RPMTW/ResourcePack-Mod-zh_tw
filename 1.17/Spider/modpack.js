@@ -5,6 +5,7 @@ const config = require(`${process.cwd()}/config.json`)
 const compressing = require('compressing');
 const CurseForge = require("mc-curseforge-api");
 const { GetModID } = require("./Module/GetModID");
+const { MCVersion } = require("./Module/MCVersion");
 const {
     parse,
 } = require('comment-json')
@@ -38,7 +39,7 @@ for (let k = 0; k < 1; k++) {
                         return Date.parse(b.timestamp) - Date.parse(a.timestamp);
                     });
                     let data = files[i].minecraft_versions;
-                    if (data.includes(config.ver)) {
+                     if (MCVersion(data)) {
                         fileID = String(files[i].id);
                         fileName = String(files[i].download_url.split("https://edge.forgecdn.net/files/")[1].replace("/", "").split("/")[1]);
                         let test = path.join(ModDirPath, fileName);
