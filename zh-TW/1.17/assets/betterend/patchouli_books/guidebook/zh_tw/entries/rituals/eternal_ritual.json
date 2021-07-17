@@ -1,8 +1,8 @@
 {
-    "name": "Eternal Ritual",
+    "name": "永恆儀式",
     "icon": "betterend:eternal_pedestal",
     "read_by_default": true,
-    "category": "betterend:rituals",
+    "category": "betterend:eternal_pedestal",
     "pages": [
         {
             "type": "text",
@@ -18,11 +18,11 @@
         },
         {
             "type": "text",
-            "text": "These are the remains of the majestic portals that once linked the worlds of the End and Overworld.$(br2)To activate the portal you need to recover frame (if it's broken)."
+            "text": "這些是曾經連接終界和主世界的宏偉傳送門的遺跡。$(br2)想要激活傳送門，您需要恢復框架（如果它是毀壞的）。"
         },
         {
             "type": "image",
-            "text": "And place 6 $(bold)Eternal Crystals$() to pedestals.",
+            "text": "並將6個$(bold)永恆水晶$()放在基座上。",
             "border": false,
             "images": [
                 "betterend:textures/images/eternal_ritual/portal_frame_full.png"
@@ -30,7 +30,7 @@
         },
         {
             "type": "image",
-            "text": "After you'll place the last crystal, portal will be activated.",
+            "text": "放置最後一個水晶後，傳送門將被激活。",
             "border": false,
             "images": [
                 "betterend:textures/images/eternal_ritual/ritual_finished.png"
