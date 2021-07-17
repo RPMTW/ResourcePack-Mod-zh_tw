@@ -14,8 +14,5 @@
 
 ## 授權
 本著作係採用 [創用 姓名標示-非商業性-相同方式分享 4.0 國際 (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh_TW) 授權條款授權
-## 銘謝
-感謝所有為RPMTW貢獻的人和所有模組作者，沒有你們，也不會有RPMTW。  
-感謝全體翻譯人員-> [這裡可以查看當月翻譯貢獻者](https://www.rpmtw.ga/%E7%BF%BB%E8%AD%AF%E8%B2%A2%E7%8D%BB%E8%80%85%E6%8E%92%E5%90%8D)
 
 ### 感謝所有為RPMTW貢獻的人和所有模組作者，沒有你們，也不會有RPMTW。
