@@ -36,7 +36,7 @@
     "bdlib.oredistribution.entry": "%s %s - %s (%s%%)",
     "bdlib.oredistribution.warn": "%s Warning： %s 多個變數已產生：",
     "bdlib.oredistribution.saved": "礦石分配轉儲到 %s",
-    "bdlib.oredistribution.error": "Failed to save ore distribution dump: %s",
+    "bdlib.oredistribution.error": "無法保存礦石分配轉儲：%s",
     "bdlib.dumpregistry.saved": "登錄檔已轉存至%s",
-    "bdlib.dumpregistry.error": "Failed to dump registries: %s"
+    "bdlib.dumpregistry.error": "轉儲註冊表失敗：%s"
 }
