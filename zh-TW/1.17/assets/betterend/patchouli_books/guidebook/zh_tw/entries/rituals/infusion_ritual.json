@@ -42,19 +42,19 @@
         },
         {
             "type": "text",
-            "text": "You can look recipes in the $(l:https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items)REI$(/l).$(br2)To start the Infusion just place main ingredient last or right click the $(bold)Infusion Pedestal$()."
+            "text": "您可以在$(l:https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items)REI$(/l)中查看食譜。$(br2)要開始注魔只需將主要成分放在最後或右鍵單擊$(bold)注魔基座$()。"
         },
         {
             "type": "image",
-            "text": "Then you need to wait until the ritual is completed.",
+            "text": "然後你需要等到儀式完成。",
             "border": false,
             "images": [
                 "betterend:textures/images/infusion_ritual/ritual_started.png"
             ]
         },
         {
-            "type": "圖片",
-            "text": "And take the result.",
+            "type": "image",
+            "text": "並取結果。",
             "border": false,
             "images": [
                 "betterend:textures/images/infusion_ritual/ritual_finished.png"
