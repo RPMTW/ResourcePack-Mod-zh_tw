@@ -6,11 +6,11 @@
     "pages": [
         {
             "type": "text",
-            "text": "\"A not so simple way to return to the Overworld.\"$(br2)While traveling around the world of the End, you can come across ancient ruins."
+            "text": "“返回主世界的方法並不那麼簡單。”$(br2)在環遊終界時，您可能會遇到古代遺跡。"
         },
         {
             "type": "image",
-            "text": "There is a destroyed (or not) frame of  $(bold)Runed Flavolite$() and six pedestals around it.",
+            "text": "有一個$(bold)符文蒼黃石$()被破壞（或沒有）的框架和它周圍的六個基座。",
             "border": false,
             "images": [
                 "betterend:textures/images/eternal_ritual/portal_structure.png"
@@ -38,7 +38,7 @@
         },
         {
             "type": "text",
-            "text": "$(bold)Runed Flavolite$() (to recover the frame) and $(bold)Eternal Crystals$() can be obtained by $(l:rituals/infusion_ritual)Infusion Rilual$(/l)."
+            "text": "$(bold)符文蒼黃石$()（恢復框架）和 $(bold)永恆水晶$()可以通過$(l:rituals/infusion_ritual)注入儀式$(/l)獲得。"
         }
     ]
 }
