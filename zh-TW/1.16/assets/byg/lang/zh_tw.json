@@ -2082,7 +2082,7 @@
     "text.autoconfig.byg/byg-world.option.OverworldDimension.Ores.Ametrine.PerChunk.@PrefixText": "\nNumber of times to spawn per chunk.\nDefault: 10",
     "text.autoconfig.byg/byg-world.option.OverworldDimension.Ores.Pendorite": "鈉長石礦",
     "text.autoconfig.byg/byg-world.option.OverworldDimension.Ores.Pendorite.@Tooltip": "鈉長石礦",
-    "text.autoconfig.byg/byg-world.option.OverworldDimension.Ores.Pendorite.@PrefixText": "\nGenerate Pendorite Ore? Only spawns in Forest Fault.",
+    "text.autoconfig.byg/byg-world.option.OverworldDimension.Ores.Pendorite.@PrefixText": "生成鈉長石礦？僅在森林斷層生成。",
     "text.autoconfig.byg/byg-world.option.OverworldDimension.Ores.Pendorite.Generate": "生成礦石？",
     "text.autoconfig.byg/byg-world.option.OverworldDimension.Ores.Pendorite.YLevel": "高度(Y)",
     "text.autoconfig.byg/byg-world.option.OverworldDimension.Ores.Pendorite.YLevel.@PrefixText": "\n高度(Y)開始生成於。\n預設值: 56",
