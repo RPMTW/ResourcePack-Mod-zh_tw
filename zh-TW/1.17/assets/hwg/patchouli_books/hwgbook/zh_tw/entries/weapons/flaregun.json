@@ -1,0 +1,13 @@
+{
+    "name": "Flare Gun",
+    "icon": "hwg:flare_gun",
+    "category": "hwg:weapons_category",
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "hwg:flare_gun",
+            "link_recipe": true,
+            "text": "A small, single-shot firearm that creates a “flare marker” entity which produces a pillar of coloured smoke."
+        }
+    ]
+}
