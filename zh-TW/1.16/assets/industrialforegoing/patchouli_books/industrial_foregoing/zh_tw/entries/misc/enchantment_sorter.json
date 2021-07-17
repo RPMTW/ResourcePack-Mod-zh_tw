@@ -7,11 +7,11 @@
   "pages": [
     {
       "type": "text",
-      "text": "This machine will sort items that are enchanted from the ones that aren't."
+      "text": "這台機器會將有無附魔的物品進行分類"
     },
     {
       "type": "合成",
-      "recipe": "industrialforegoing:enchantment_sorter"
+      "recipe": "附魔分類器"
     }
   ]
 }
