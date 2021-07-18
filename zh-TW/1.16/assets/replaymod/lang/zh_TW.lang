@@ -5,16 +5,16 @@ replaymod.api.parammissing=缺少所需的參數： %1$s
 replaymod.api.invalidvalue=參數%1$s的無效值 - 可能的值：%2$s。
 replaymod.api.invalidlogin=提供無效的登入數據
 replaymod.api.invalidauthkey=提供無效的認證金鑰
-replaymod.api.filenoexist=此檔案不存在 replaymod.api.filetoobig=上傳的檔案太大。 考慮在ReplayMod.com上購買進階版。
+replaymod.api.nofilesuploaded=沒有上傳檔案 replaymod.api.filetoobig=上傳的檔案太大。 考慮在ReplayMod.com上購買進階版。
 replaymod.api.invalidfile=這個檔案是無效的
 replaymod.api.fileduplicate=此檔案已被上傳
-replaymod.api.nofilesuploaded=沒有上傳檔案
+replaymod.api.filenoexist=此檔案不存在 replaymod.api.filetoobig=上傳的檔案太大。 考慮在ReplayMod.com上購買進階版。
 replaymod.api.alreadyrated=您已經對這個檔案進行了評分
 replaymod.api.usernoexist=該使用者不存在
 replaymod.api.invalidcategory=無效的檔案類別
-replaymod.gui.ytuploadprogress.upload=[3/4] 上傳中: %%d%%%%
+replaymod.gui.upload.title=上傳檔案
 replaymod.api.toomanyvalues=傳遞給%1$s的值太多
-replaymod.api.noparameters=至少需要一個參數。 參數：%1$s 參數：%1$s 參數：%1$s
+replaymod.api.noparameters=至少需要一個參數。 參數：%1$s 參數：%1$s 參數：%1$s 參數：%1$s
 replaymod.api.invalidfilename=檔案名稱必須在5到30個字元之間。
 replaymod.api.usernameexists=這個使用者名已經被占用了。
 replaymod.api.mailexists=該Email地址已經與列一個帳號綁定。
@@ -22,7 +22,7 @@ replaymod.api.invalidmail=無效的電子郵件地址。
 replaymod.api.nopermissions=你沒有權限這樣做。
 replaymod.api.authfailed=對Minecraft伺服器的身份驗證失敗。
 replaymod.api.mcuserexists=一個ReplayMod帳號已經和這個Minecraft帳號連結了。
-replaymod.gui.ytuploadprogress.upload=[3/4] 上傳中: %%d%%%%
+replaymod.gui.upload.success=成功上傳檔案
 replaymod.api.usernametoolong=使用者名稱過長
 replaymod.api.descriptiontoolong=描述過長
 replaymod.api.passwordlength=密碼必須在5到1024個字元之間。
@@ -40,7 +40,7 @@ replaymod.chat.addmarker=事件標記已被加入。
 
 #Chat messages displayed in Replay Viewer
 replaymod.chat.morekeyframes=至少需要2個位置關鍵幀和2個時間關鍵幀。
-replaymod.chat.negativetime=攝影機路徑被取消。 Please consult your nearest time lord for assistance.
+replaymod.chat.negativetime=攝影機路徑被取消。 Please consult your nearest time lord for assistance. Please consult your nearest time lord for assistance.
 replaymod.chat.pathfinished=攝影機路徑已完成。
 replaymod.gui.ingame.menu.pausepath=暫停攝影機路徑
 replaymod.gui.camera=相機
@@ -88,7 +88,7 @@ replaymod.gui.close=關閉
 replaymod.gui.notagain=不要再顯示。
 replaymod.gui.paste=貼上
 replaymod.gui.copy=複製
-replaymod.gui.recording.resume=恢復錄製
+replaymod.gui.edit.apply=套用
 
 replaymod.gui.recording.stop=停止錄製
 replaymod.gui.recording.pause=暫停錄製
@@ -102,7 +102,7 @@ replaymod.gui.renderdone1=你的影片已成功渲染
 replaymod.gui.renderdone2=你希望如何處理？
 replaymod.gui.videotitle=標題
 replaymod.gui.videodescription=描述
-replaymod.gui.videotags=標籤、標籤、標籤
+replaymod.gui.register.title=在ReplayMod.com註冊
 replaymod.gui.videothumbnail=影片縮圖
 replaymod.gui.videovisibility.private=私人
 replaymod.gui.videovisibility.unlisted=待發布
@@ -119,13 +119,13 @@ replaymod.gui.videothumbnailformat=縮圖必須是 JPEG 或者 PNG 格式
 replaymod.gui.minutes=分鐘
 replaymod.gui.seconds=秒
 replaymod.gui.milliseconds=毫秒
-replaymod.gui.register.title=在ReplayMod.com註冊
+replaymod.gui.center.top.search=搜尋
 
 replaymod.gui.pitch=Pitch
 replaymod.gui.yaw=Yaw
 replaymod.gui.roll=Roll
 
-replaymod.gui.settings=設定
+replaymod.gui.editkeyframe.campitch=相機間距
 replaymod.gui.position=位置
 
 replaymod.gui.unknownerror=發生了未知錯誤
@@ -157,7 +157,7 @@ replaymod.gui.replayeditor=回放影片編輯器
 replaymod.gui.login.title=登入到ReplayMod.com
 replaymod.gui.login.logging=登入中…
 replaymod.gui.login.incorrect=您輸入的帳號或密碼錯誤
-replaymod.gui.login.skip=跳過
+replaymod.gui.login.title=登入到ReplayMod.com
 
 replaymod.gui.register.confirmpw=確認密碼
 
@@ -179,15 +179,15 @@ replaymod.gui.viewer.replayfolder=開啟回放影片資料夾...
 replaymod.gui.viewer.bulkrender=渲染 %1$d 影片
 
 replaymod.gui.viewer.delete.linea=你確定要刪除此回放影片嗎?
-replaymod.gui.viewer.delete.failed1=你的作業系統不允許刪除此重播影片。 這是
-replaymod.gui.viewer.delete.failed2=我們對此幫不上忙。 你必須自己處理。
-replaymod.gui.viewer.delete.lineb='%1$s' 將永遠刪除！ (非常久！)
+replaymod.gui.viewer.delete.failed1=你的作業系統不允許刪除此重播影片。 這是 這是
+replaymod.gui.viewer.delete.failed2=我們對此幫不上忙。 你必須自己處理。 你必須自己處理。
+replaymod.gui.viewer.delete.lineb='%1$s' 將永遠刪除！ (非常久！) (非常久！)
 
-replaymod.gui.viewer.download.title=下載回放影片檔案中...
+replaymod.gui.replaysaving.title=儲存回放影片檔案...
 replaymod.gui.viewer.download.message=正在下載 "%1$s" 中，請稍後。
 
 replaymod.gui.viewer.chooser.title=選擇回放影片檔案
-replaymod.gui.viewer.chooser.message=你的電腦上有 "%1$s" 的修改版本。 你想要載入哪個回放影片?
+replaymod.gui.viewer.chooser.message=你的電腦上有 "%1$s" 的修改版本。 你想要載入哪個回放影片? 你想要載入哪個回放影片?
 
 replaymod.gui.login.noacc=還沒有帳號嗎?
 
@@ -196,8 +196,8 @@ replaymod.gui.center.logoutcallback=請問您真的要登出嗎？
 replaymod.gui.center.top.recent=最近
 replaymod.gui.center.top.best=最佳
 replaymod.gui.center.top.downloaded=下載
-replaymod.gui.center.top.favorited=最愛
-replaymod.gui.center.top.search=搜尋
+replaymod.gui.center.favorite=喜歡
+replaymod.gui.download=下載
 
 replaymod.gui.center.search.filters=搜尋過濾器
 replaymod.gui.center.search.gametype=遊戲類型
@@ -211,13 +211,13 @@ replaymod.gui.center.search.version=按版本過濾
 
 replaymod.gui.center.downloadrequired=下載此回放影片以評價或收藏它
 
-replaymod.gui.center.favorite=喜歡
+replaymod.gui.center.top.favorited=最愛
 replaymod.gui.center.unfavorite=不喜歡
 
 replaymod.gui.center.author=由 %1$s%2$s 製作
 
 #Upload GUI
-replaymod.gui.upload.title=上傳檔案
+replaymod.gui.assets.filechooser=資料檔案
 replaymod.gui.upload.start=開始上傳
 replaymod.gui.upload.cancel=取消上傳
 replaymod.gui.upload.tagshint=Tags separated by comma
@@ -225,10 +225,10 @@ replaymod.gui.upload.namehint=回放影片標題
 replaymod.gui.upload.descriptionhint=描述
 replaymod.gui.upload.duration=時間: %02d分鐘 %02d秒
 replaymod.gui.upload.uploading=上傳中…
-replaymod.gui.upload.success=成功上傳檔案
 replaymod.gui.upload.canceled=上傳已取消
+replaymod.gui.cancelrender.title=取消渲染
 replaymod.gui.upload.hideip2=隱藏伺服器IP (%s)
-replaymod.gui.upload.nothumbnail=缺少影片縮圖。 請使用 %1$s 按鍵在回放影片中建立縮圖。
+replaymod.gui.ingame.menu.zoomout=縮小 replaymod.gui.upload.nothumbnail=缺少影片縮圖。 請使用 %1$s 按鍵在回放影片中建立縮圖。
 replaymod.gui.upload.tryagain=再試一次？
 
 replaymod.gui.upload.error.name.length=The Replay Name has to be between 5 and 30 characters long
@@ -260,7 +260,7 @@ replaymod.gui.editor.progress.status.finished=Finished Editing!
 replaymod.gui.editor.disclaimer=The Replay Editor is an experimental feature and may contain bugs.
 
 #Replay Editor UI 2.0 (marker based UI)
-replaymod.gui.edit.apply=套用
+replaymod.gui.settings.default=預設
 replaymod.gui.edit.split=Insert split
 replaymod.gui.edit.split.tooltip=Split the Replay into multiple Replays at the marked point
 replaymod.gui.edit.cut.start=Insert cut
@@ -268,27 +268,27 @@ replaymod.gui.edit.cut.end=End cut
 replaymod.gui.edit.cut.tooltip=Cut (remove) a section of the Replay
 
 #Cancel Replay GUI
-replaymod.gui.cancelrender.title=取消渲染
+replaymod.gui.rendering.cancel=取消渲染
 replaymod.gui.cancelrender.message=Are you sure that you want to cancel the current rendering process?
 #Saving Replay GUI
-replaymod.gui.replaysaving.title=儲存回放影片檔案...
-replaymod.gui.replaymodified.message=此回放影片已被修改。 你是否要保存更改？
+replaymod.gui.viewer.download.title=下載回放影片檔案中...
+replaymod.gui.replaymodified.no=放棄變更 你是否要保存更改？
 replaymod.gui.replaymodified.yes=儲存修改後的回放影片
-replaymod.gui.replaymodified.no=放棄變更
+replaymod.gui.rendering.resume=恢復渲染
 replaymod.gui.replaymodified.warning1=A Replay named "%1$s" already exists.
 replaymod.gui.replaymodified.warning2=Are you sure you want to replace it?
 
 #Player Overview GUI
 replaymod.gui.playeroverview.visible=可見
-replaymod.gui.playeroverview.hideall=隱藏全部
 replaymod.gui.playeroverview.showall=顯示全部
+replaymod.gui.playeroverview.hideall=隱藏全部
 replaymod.gui.playeroverview.spectate=旁觀者
 replaymod.gui.playeroverview.remembersettings=Remember Hidden Players
 replaymod.gui.playeroverview.remembersettings.description=Saves Player Visibility in Replay File
 
 #Replay Mod Settings GUI
 replaymod.gui.settings.title=回放模組設定
-replaymod.gui.settings.default=預設
+replaymod.gui.rendersettings.advanced=進階設定
 
 replaymod.gui.settings.notifications=Enable Notifications
 replaymod.gui.settings.recordserver=Record Server
@@ -342,7 +342,7 @@ replaymod.gui.editkeyframe.title.spec=編輯旁觀者關鍵幀
 replaymod.gui.editkeyframe.xpos=X 座標
 replaymod.gui.editkeyframe.ypos=Y 座標
 replaymod.gui.editkeyframe.zpos=Z 座標
-replaymod.gui.editkeyframe.campitch=相機間距
+replaymod.gui.rendering.title=渲染影片
 replaymod.gui.editkeyframe.camyaw=Camera Yaw
 replaymod.gui.editkeyframe.camroll=Camera Roll
 replaymod.gui.editkeyframe.timelineposition=時間軸位置
@@ -412,10 +412,10 @@ replaymod.gui.rendersettings.ffmpeg.description=If you are an advanced user, you
 replaymod.gui.rendersettings.stabilizecamera=Stabilize Camera
 
 replaymod.gui.rendersettings.video=影片設定
-replaymod.gui.rendersettings.advanced=進階設定
+replaymod.gui.rendersettings.presets=預設編碼
 replaymod.gui.rendersettings.commandline=時間軸設定
 
-replaymod.gui.rendersettings.presets=預設編碼
+replaymod.gui.rendersettings.presets.png=PNG 序列
 replaymod.gui.rendersettings.presets.mp4.custom=MP4 - 自訂位元率
 replaymod.gui.rendersettings.presets.mp4.high=MP4 - 高品質
 replaymod.gui.rendersettings.presets.mp4.default=MP4 - 預設品質
@@ -423,7 +423,7 @@ replaymod.gui.rendersettings.presets.mp4.potato=MP4 - 低品質
 replaymod.gui.rendersettings.presets.webm.custom=WEBM - 自訂位元率。
 replaymod.gui.rendersettings.presets.mkv.lossless=MKV - 無損
 replaymod.gui.rendersettings.presets.blend=Blend file
-replaymod.gui.rendersettings.presets.png=PNG 序列
+replaymod.gui.advancedscreenshots.title=截圖設定
 replaymod.gui.rendersettings.presets.exr=OpenEXR Sequence
 
 replaymod.gui.rendersettings.antialiasing=Anti-Aliasing
@@ -440,20 +440,20 @@ replaymod.gui.renderqueue.renderall=Render All
 replaymod.gui.renderqueue.renderselected=Render Selected
 
 #Rendering GUI
-replaymod.gui.rendering.title=渲染影片
+replaymod.gui.rendering.error.title=渲染失敗
 replaymod.gui.rendering.pause=暫停渲染
-replaymod.gui.rendering.resume=恢復渲染
-replaymod.gui.rendering.cancel=取消渲染
+replaymod.gui.rendering.timetaken=渲染時間
+replaymod.gui.advancedscreenshots.resolution=解析度
 replaymod.gui.rendering.cancel.callback=Are you sure?
 replaymod.gui.rendering.preview=Show Preview (Performance might suffer)
 replaymod.gui.rendering.progress=Frames rendered: %1$d / %2$d
-replaymod.gui.rendering.timetaken=渲染時間
+replaymod.gui.ingame.menu.addtimekeyframe=新增時間關鍵幀
 replaymod.gui.rendering.timeleft=Time Left
 
 #Render Errors
-replaymod.gui.rendering.error.title=渲染失敗
-replaymod.gui.rendering.error.message=如果要渲染影片，你需要安裝ffmpeg。 http://ffmpeg.org
 replaymod.gui.rendering.error.ffmpeglog=FFmpeg 輸出:
+replaymod.gui.rendering.error.message=如果要渲染影片，你需要安裝ffmpeg。 http://ffmpeg.org http://ffmpeg.org
+replaymod.gui.modwarning.message2=與此回放影片之間可能存在不相容。
 replaymod.gui.rendering.error.ffmpegargs.1=It seems like you have modified the Command Line Arguments.
 replaymod.gui.rendering.error.ffmpegargs.2=Do you want to reset them to the defaults and try again?
 
@@ -462,7 +462,7 @@ replaymod.gui.ingame.menu.addposkeyframe=新增位置關鍵幀
 replaymod.gui.ingame.menu.removeposkeyframe=刪除位置關鍵幀
 replaymod.gui.ingame.menu.addpeckeyframe=新增旁觀者關鍵幀
 replaymod.gui.ingame.menu.removeespeckeyframe=移除旁觀者關鍵幀
-replaymod.gui.ingame.menu.addtimekeyframe=新增時間關鍵幀
+replaymod.error.negativetime1=某些時間關鍵幀失序。
 replaymod.gui.ingame.menu.removetimekeyframe=Remove Time Keyframe
 replaymod.gui.ingame.menu.pause=Pause Replay
 replaymod.gui.ingame.menu.unpause=Unpause Replay
@@ -471,7 +471,7 @@ replaymod.gui.ingame.menu.playpath=Play Camera Path from Cursor Position
 replaymod.gui.ingame.menu.playpathfromstart=Play Camera Path from Start
 replaymod.gui.ingame.menu.pausepath=Pause Camera Path
 replaymod.gui.ingame.menu.zoomin=放大
-replaymod.gui.ingame.menu.zoomout=縮小
+replaymod.gui.objects.properties.anchor=錨點
 
 replaymod.gui.ingame.unnamedmarker=Unnamed Event Marker
 replaymod.gui.ingame.autoactivating=This keybinding may auto-activate at appropriate times.
@@ -484,40 +484,40 @@ replaymod.gui.clearcallback.title=清除所有關鍵幀？
 
 #Asset Manager Gui
 replaymod.gui.assets.title=資料管理器
-replaymod.gui.assets.filechooser=資料檔案
+replaymod.gui.assets.changefile=變更資料檔案
 replaymod.gui.assets.defaultname=新增資料
 replaymod.gui.assets.emptylist=沒有可用的資料。
 replaymod.gui.assets.namehint=資料名稱
-replaymod.gui.assets.changefile=變更資料檔案
 replaymod.gui.assets.noselection=沒有選擇資料
+replaymod.gui.objects=自訂物件
 
 #Object Manager Gui
-replaymod.gui.objects.properties.anchor=錨點
 replaymod.gui.objects.properties.position=位置
-replaymod.gui.objects.properties.scale=大小
 replaymod.gui.objects.properties.orientation=方向
-replaymod.gui.objects.properties.opacity=不透明度
+replaymod.gui.objects.properties.scale=大小
 replaymod.gui.objects.properties.name=物件名稱
-replaymod.gui.objects.empty=沒有新增物件
+replaymod.gui.objects.properties.opacity=不透明度
 replaymod.gui.objects.defaultname=新增物件
-replaymod.gui.objects=自訂物件
+replaymod.gui.objects.empty=沒有新增物件
+replaymod.title=重現記錄 模組
+replaymod.gui.modwarning.version=不同的模組版本
 
 #Errors
 replaymod.error.unknownrestriction1=你目前的版本無法播放此回放影片。
 replaymod.error.unknownrestriction2=它試圖執行未知的 %s。
-replaymod.error.negativetime1=某些時間關鍵幀失序。
 replaymod.error.negativetime2=不支援時間倒退。
+replaymod.error.negativetime3=失效的部分將以紅色標記。
 replaymod.error.negativetime3=失效的部分將以紅色標記。
 
 #Replay Mod Incompatibility Warning
 replaymod.gui.modwarning.title=檢測到不相容問題
 replaymod.gui.modwarning.message1=已偵測到你目前的Minecraft版本
-replaymod.gui.modwarning.message2=與此回放影片之間可能存在不相容。
 replaymod.gui.modwarning.message3=載入這個回放影片可能會導致錯誤或崩潰。
+replaymod.gui.modwarning.missing=缺少的模組
 replaymod.gui.modwarning.name=模組名稱:
 replaymod.gui.modwarning.id=模組ID:
-replaymod.gui.modwarning.missing=缺少的模組
-replaymod.gui.modwarning.version=不同的模組版本
+replaymod.gui.replaymodified.message=此回放影片已被修改。 你是否要保存更改？
+replaymod.gui.ytuploadprogress.upload=[3/4] 上傳中: %%d%%%%
 replaymod.gui.modwarning.version.expected=Expected
 replaymod.gui.modwarning.version.found=Found
 
@@ -532,13 +532,13 @@ replaymod.gui.offeropeneye7=Clicking Yes will download OpenEye and place it in y
 replaymod.gui.offeropeneye8=It will then be active the next time you start Minecraft.
 
 #Advanced Screenshots Gui
-replaymod.gui.advancedscreenshots.title=截圖設定
 replaymod.gui.advancedscreenshots.create=截圖
-replaymod.gui.advancedscreenshots.resolution=解析度
+replaymod.gui.advancedscreenshots.finished.upload.veer=上傳至VeeR.tv
+replaymod.gui.register.confirmpw=確認密碼
 
 # Screenshot Finished Gui
 replaymod.gui.advancedscreenshots.finished.description=你成功建立了一張截圖！
 replaymod.gui.advancedscreenshots.finished.description.360=你成功建立了一張 360度 截圖！
 replaymod.gui.advancedscreenshots.finished.description.vee=在VeeR.tv上上傳並在VR中查看圖片，或在磁碟上打開它。
-replaymod.gui.advancedscreenshots.finished.upload.veer=上傳至VeeR.tv
+replaymod.gui.advancedscreenshots.finished.showfile=顯示磁碟上的檔案
 replaymod.gui.advancedscreenshots.finished.showfile=顯示磁碟上的檔案
