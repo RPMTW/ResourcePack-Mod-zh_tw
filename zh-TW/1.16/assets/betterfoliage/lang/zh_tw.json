@@ -155,5 +155,5 @@
     "betterfoliage.roundLogs.defaultY": "預設垂直",
     "betterfoliage.roundLogs.defaultY.tooltip": "如果開啟, 圓木的方向不會確定而將會渲染成垂直的. 否則, 它們會渲染成立體方塊.",
     "betterfoliage.roundLogs.plantsOnly": "僅植物",
-    "betterfoliage.roundLogs.plantsOnly.tooltip": "If true, only blocks with plant materials (wood, grass) will be rounded. If false, all column blocks will be rounded, including stone columns."
+    "betterfoliage.roundLogs.plantsOnly.tooltip": "如果為True，只有帶有植物材料（木頭、草）的柱子才會被圓潤化。如果是False的，所有的柱子方塊都將是圓的，包括石柱。"
 }
