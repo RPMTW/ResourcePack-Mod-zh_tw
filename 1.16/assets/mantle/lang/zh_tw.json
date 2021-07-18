@@ -21,5 +21,15 @@
     "command.mantle.tags_for.success": "%s tags for '%s':",
     "command.mantle.tag.empty": "Empty",
     "command.mantle.tag_collection.not_found": "Unknown tag collection '%s'",
-    "command.mantle.tag.not_found": "Unknown %s tag '%s'"
+    "command.mantle.tag.not_found": "Unknown %s tag '%s'",
+    "command.mantle.view_tag.success": "Values for %s tag '%s':",
+    "command.mantle.tags_for.not_found": "Unknown %s registry value '%s'",
+    "command.mantle.tags_for.no_held_block": "Held item is not a block",
+    "command.mantle.tags_for.no_held_entity": "Held item is not a spawn egg",
+    "command.mantle.tags_for.no_held_potion": "Held item is not a potion",
+    "command.mantle.tags_for.no_held_fluid": "Unable to get fluid from the held item",
+    "command.mantle.tags_for.no_held_enchantment": "Held item is not enchanted",
+    "command.mantle.tags_for.no_targeted_entity": "No entity within range",
+    "command.mantle.tags_for.no_targeted_tile_entity": "No fluid within range",
+    "command.mantle.tags_for.no_tags": "No tags"
 }
