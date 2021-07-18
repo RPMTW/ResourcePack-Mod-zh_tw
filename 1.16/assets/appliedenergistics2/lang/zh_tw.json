@@ -732,5 +732,14 @@
     "jei.appliedenergistics2.no_output": "Recipe has no output",
     "jei.appliedenergistics2.missing_items": "Missing items will be skipped",
     "gui.appliedenergistics2.ConfirmCraftCpuStatus": "Storage: %s : Co Processors: %s",
-    "gui.appliedenergistics2.ConfirmCraftNoCpu": "Storage: N/A : Co Processors: N/A"
+    "gui.appliedenergistics2.ConfirmCraftNoCpu": "Storage: N/A : Co Processors: N/A",
+    "block.appliedenergistics2.chiseled_quartz_wall": "Chiseled Certus Quartz Wall",
+    "block.appliedenergistics2.fluix_wall": "Fluix Wall",
+    "block.appliedenergistics2.quartz_pillar_wall": "Certus Quartz Pillar Wall",
+    "block.appliedenergistics2.quartz_wall": "Certus Quartz Wall",
+    "block.appliedenergistics2.sky_stone_brick_wall": "Sky Stone Brick Wall",
+    "block.appliedenergistics2.sky_stone_small_brick_wall": "Sky Stone Small Brick Wall",
+    "block.appliedenergistics2.sky_stone_wall": "Sky Stone Wall",
+    "block.appliedenergistics2.smooth_sky_stone_wall": "Sky Stone Block Wall",
+    "item.appliedenergistics2.cable_energy_acceptor": "Energy Acceptor"
 }
