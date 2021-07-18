@@ -123,5 +123,10 @@
     "text.autoconfig.randompatches.option.misc.disableDataFixerUpper": "停用DataFixerUpper",
     "text.autoconfig.randompatches.option.misc.disableDataFixerUpper.@Tooltip": "停止運作DataFixerUpper。§c警告: 請看註解。",
     "text.autoconfig.randompatches.option.misc.mixinBlacklist": "Mixin黑名單",
-    "text.autoconfig.randompatches.option.misc.mixinBlacklist.@Tooltip": "不該被套用的mixin列表。"
+    "text.autoconfig.randompatches.option.misc.mixinBlacklist.@Tooltip": "不該被套用的mixin列表。",
+    "key.narrator": "開關朗讀功能",
+    "text.autoconfig.randompatches.option.client.keyBindings.standaloneModifiersDoNotConflictWithCombinations": "獨立按鍵與組合按鍵不衝突",
+    "text.autoconfig.randompatches.option.client.keyBindings.standaloneModifiersDoNotConflictWithCombinations.@Tooltip": "使按鍵設置中的獨立按鍵與組合按鍵不再顯示衝突。",
+    "text.autoconfig.randompatches.option.client.window.simpleTitle": "簡單標題",
+    "text.autoconfig.randompatches.option.client.window.simpleTitle.@Tooltip": "簡單的 Minecraft 視窗標題。"
 }
