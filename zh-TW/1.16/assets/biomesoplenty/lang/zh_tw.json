@@ -406,5 +406,20 @@
     "argument.biomesoplenty.biome.invalid": "無效的生態域參數",
     "commands.biomesoplenty.tpbiome.success": "玩家%s傳送到生態域：%s ，坐標(%s， %s， %s)",
     "commands.biomesoplenty.tpbiome.error": "未找到生態域：%s!",
-    "entity.biomesoplenty.boat_bop": "船"
+    "entity.biomesoplenty.boat_bop": "船",
+    "biome.biomesoplenty.dense_marsh": "Dense Marsh",
+    "biome.biomesoplenty.dense_woodland": "Dense Woodland",
+    "biome.biomesoplenty.grassland": "Grassland",
+    "biome.biomesoplenty.grassland_clover_patch": "Grassland Clover Patch",
+    "biome.biomesoplenty.marsh": "Marsh",
+    "biome.biomesoplenty.muskeg": "Muskeg",
+    "biome.biomesoplenty.shroomy_wetland": "Shroomy Wetland",
+    "biome.biomesoplenty.tall_dead_forest": "Tall Dead Forest",
+    "biome.biomesoplenty.wetland_forest": "Wetland Forest",
+    "biome.biomesoplenty.woodland": "Woodland",
+    "block.biomesoplenty.clover": "Clover",
+    "block.biomesoplenty.huge_clover_petal": "Huge Clover Petal",
+    "block.biomesoplenty.potted_clover": "Potted Clover",
+    "block.biomesoplenty.spanish_moss": "Spanish Moss",
+    "block.biomesoplenty.spanish_moss_plant": "Spanish Moss Plant"
 }
