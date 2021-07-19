@@ -1,12 +1,12 @@
 {
-  "name": "Rum",
+  "name": "朗姆酒",
   "icon": "croptopia:rum",
-  "category": "croptopia:drinks",
+  "category": "作物方城市:飲料",
   "pages": [
     {
       "type": "crafting",
       "recipe": "croptopia:rum",
-      "text": "Recipe for rum."
+      "text": "朗姆酒的食譜"
     }
   ]
 }
