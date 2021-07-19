@@ -3,8 +3,8 @@
     "betterfoliage.title": "更好的樹葉配置",
     "betterfoliage.global.enabled": "啟用模組",
     "betterfoliage.global.enabled.tooltip": "如果關閉，BetterFoliage 不會渲染任何東西",
-    "betterfoliage.nVidia": "nVidia GPU",
-    "betterfoliage.nVidia.tooltip": "Specify whether you have an nVidia GPU",
+    "betterfoliage.nVidia": "Nvidia 圖形處理器",
+    "betterfoliage.nVidia.tooltip": "指定你是否有一個 Nvidia 圖形處理器",
     "betterfoliage.enabled": "啟用",
     "betterfoliage.enabled.tooltip": "要啟用這個功能嗎？",
     "betterfoliage.hOffset": "水平偏移",
@@ -23,8 +23,8 @@
     "betterfoliage.shaderWind.tooltip": "將光影模組中的著色器應用於颳風效果？",
     "betterfoliage.distance": "距離限制",
     "betterfoliage.distance.tooltip": "玩家周圍渲染效果的範圍",
-    "betterfoliage.saturationThreshold": "Saturation threshold",
-    "betterfoliage.saturationThreshold.tooltip": "Color saturation cutoff between \"colorless\" blocks (using biome color) and \"colorful\" blocks (using their own specific color)",
+    "betterfoliage.saturationThreshold": "飽和度閾值",
+    "betterfoliage.saturationThreshold.tooltip": "隔離 「無色」 方塊 (使用生態域顏色) 和 「彩色 方塊 (使用他們自己的特定的顏色) 之間的色彩飽和度",
     "betterfoliage.rendererror": "§a[BetterFoliage]§f 在渲染方塊 %s （坐標：%s）時出錯",
     "betterfoliage.shaders": "著色器配置",
     "betterfoliage.shaders.tooltip": "配置集成於光影中",
@@ -58,7 +58,7 @@
     "betterfoliage.connectedGrass.snowEnabled.tooltip": "使用到雪地裡的草地中去?",
     "betterfoliage.hangingGrass": "懸掛的草",
     "betterfoliage.hangingGrass.tooltip": "草會在邊緣的草地上垂下來",
-    "betterfoliage.hangingGrass.separation": "Separation",
+    "betterfoliage.hangingGrass.separation": "分離",
     "betterfoliage.hangingGrass.separation.tooltip": "在方塊邊緣有多少懸掛的草從草地上垂下來",
     "betterfoliage.cactus": "更好的仙人掌",
     "betterfoliage.cactus.tooltip": "提高仙人掌的真實性以及額外的(超出方塊的)仙人掌刺和光滑的陰影",
@@ -155,5 +155,5 @@
     "betterfoliage.roundLogs.defaultY": "預設垂直",
     "betterfoliage.roundLogs.defaultY.tooltip": "如果開啟, 圓木的方向不會確定而將會渲染成垂直的. 否則, 它們會渲染成立體方塊.",
     "betterfoliage.roundLogs.plantsOnly": "僅植物",
-    "betterfoliage.roundLogs.plantsOnly.tooltip": "If true, only blocks with plant materials (wood, grass) will be rounded. If false, all column blocks will be rounded, including stone columns."
+    "betterfoliage.roundLogs.plantsOnly.tooltip": "如果為True，只有帶有植物材料（木頭、草）的柱子才會被圓潤化。如果是False的，所有的柱子方塊都將是圓的，包括石柱。"
 }

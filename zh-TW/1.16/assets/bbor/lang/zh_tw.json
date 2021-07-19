@@ -75,9 +75,9 @@
     "bbor.commands.sphere.cleared.all": "所有區域已清除",
     "bbor.commands.sphere.cleared": "區域已從中心清除 [x=%d, y=%d, z=%d]",
     "bbor.commands.sphere.notFound": "未找到中心為 [x=%d, y=%d, z=%d] 區域",
-    "bbor.commands.spawningSphere.set": "Spawning sphere set",
-    "bbor.commands.spawningSphere.notSet": "No spawning sphere set",
-    "bbor.commands.spawningSphere.cleared": "Spawning sphere cleared",
+    "bbor.commands.spawningSphere.set": "設定生成領域",
+    "bbor.commands.spawningSphere.notSet": "沒有設定生成領域",
+    "bbor.commands.spawningSphere.cleared": "生成區域已淨空",
     "bbor.commands.spawningSphere.calculated": "計算 %s 可產生空間 (%s 儘在夜晚)",
     "bbor.renderer.spawningSphere.spawnable": "可生成:",
     "bbor.renderer.spawningSphere.none": "無"
