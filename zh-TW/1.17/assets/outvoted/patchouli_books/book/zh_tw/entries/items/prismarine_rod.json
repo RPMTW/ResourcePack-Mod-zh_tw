@@ -1,5 +1,5 @@
 {
-  "name": "Prismarine Rod",
+  "name": "海磷棒",
   "icon": "outvoted:prismarine_rod",
   "category": "outvoted:item_category",
   "pages": [
@@ -7,7 +7,7 @@
       "type": "spotlight",
       "item": "outvoted:prismarine_rod",
       "link_recipe": true,
-      "text": "The handle for a trident."
+      "text": "三叉戟的手柄"
     },
     {
       "type": "crafting",
