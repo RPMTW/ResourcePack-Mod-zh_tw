@@ -8,6 +8,7 @@ const {
 } = require('comment-json')
 
 async function GetModID(slug, id, name) {
+    if (String(name) === "undefined") return;
     let ModID;
     let McModCfgPath = `${process.cwd()}/../jar/${slug}/mcmod.info`;
     if (fs.existsSync(McModCfgPath)) {
