@@ -9,7 +9,7 @@ for (const Dir of LangDir) {
         let ObjJsonKey = Object.keys(LangJson);
         let ObjLang = "";
         for (let i = 0; i < ObjJsonKey.length; i++) {
-            if (ObjJsonKey.startsWith("_comment_")) {
+            if (ObjJsonKey[i].startsWith("_comment_")) {
                 ObjLang += `#${LangJson[ObjJsonKey[i]]}\n`;
             } else {
                 ObjLang += `${ObjJsonKey[i]}=${LangJson[ObjJsonKey[i]]}\n`;

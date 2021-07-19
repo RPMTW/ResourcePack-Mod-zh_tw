@@ -16,11 +16,11 @@ jobs:
       - name: "將Json轉換為Lang"
         uses: actions/setup-node@v1
         with:
-           node-version: 16.x
-        run: |
-          cd ${{ github.workspace }}/1.12
-          npm i
-          node ${{ github.workspace }}/1.12/JsonToLang.js
+          node-version: 16.x
+      - run: |
+            cd ${{ github.workspace }}/1.12
+            npm i
+            node ${{ github.workspace }}/1.12/JsonToLang.js
       - uses: papeloto/action-zip@v1 #zipped file 1.12
         with:
           files: zh-TW/1.12 Add-on/1.12/
