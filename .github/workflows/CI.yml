@@ -17,7 +17,7 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: 16.x
-          run: |
+      - run: |
             cd ${{ github.workspace }}/1.12
             npm i
             node ${{ github.workspace }}/1.12/JsonToLang.js
