@@ -15,7 +15,7 @@ for (const Dir of LangDir) {
                 ObjLang += `${ObjJsonKey[i]}=${LangJson[ObjJsonKey[i]]}\n`;
             }
         }
-        fs.writeFile(`${process.cwd()}/../zh-TW/1.12/assets/${Dir}/lang/${File.split(".json")}.lang`, ObjLang, function (error) {
+        fs.writeFile(`${process.cwd()}/../zh-TW/1.12/assets/${Dir}/lang/${File.split(".json")[0]}.lang`, ObjLang, function (error) {
             if (error) {
                 console.log(`將.json轉換為.lang時發生未知錯誤\n錯誤原因: ${error}`);
             }
