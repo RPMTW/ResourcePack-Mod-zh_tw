@@ -1,12 +1,12 @@
 {
-  "name": "Molasses",
+  "name": "糖蜜",
   "icon": "croptopia:molasses",
   "category": "croptopia:ingredients",
   "pages": [
     {
       "type": "smelting",
       "recipe": "croptopia:molasses",
-      "text": "Recipe for molasses."
+      "text": "糖蜜的製作方法"
     }
   ]
 }
