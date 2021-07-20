@@ -5,13 +5,13 @@
     "slabmachines.config.title": "Slab Machines Config\n",
     "_comment_2": "blocks",
     "tile.slabmachines:workbenchslab.name": "Crafting Slab",
-    "tile.slabmachines:furnaceslab.name": "Furnace Slab",
+    "tile.slabmachines:furnaceslab.name": "熔爐半磚",
     "tile.slabmachines:trappedchestslab.name": "Trapped Chest Slab",
     "tile.slabmachines:chestslab.name": "Chest Slab",
     "tile.slabmachines:noteslab.name": "Note Slab",
     "tile.slabmachines:tntslab.name": "Tnt Slab\n",
     "_comment_3": "tinkers compat",
-    "tile.slabmachines:craftingstationslab.name": "Crafting Station Slab",
+    "tile.slabmachines:craftingstationslab.name": "工作站半磚",
     "tile.slabmachines:partbuilderslab.name": "Part Builder Slab",
     "tile.slabmachines:partchestslab.name": "Part Chest Slab",
     "tile.slabmachines:patternchestslab.name": "Pattern Chest Slab",
@@ -32,6 +32,6 @@
     "slabmachines:slabstenciltable": "Slab Stencil Table Tileentity",
     "slabmachines:slabtoolforge": "Slab Tool Forge Tileentity",
     "slabmachines:slabtoolstation": "Slab Tool Station Tileentity\n",
-    "_comment_7": "Entity",
+    "_comment_7": "Entity(實體)",
     "entity.slabmachines:slabtntprimed.name": "Slab Primed TNT"
 }
