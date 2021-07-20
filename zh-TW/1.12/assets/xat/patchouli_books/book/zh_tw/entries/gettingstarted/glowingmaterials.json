@@ -1,0 +1,26 @@
+{
+    "name": "Glowing Materials",
+    "icon": "xat:glowing_gem",
+    "category": "gettingstarted",
+    "pages": [
+        {
+            "type": "text",
+            "text": "There are three tiers of glowing materials, which are all used for the majority of items in the mod."
+        },
+        {
+            "type": "crafting",
+            "text": "Crafting the Glowing Powder",
+            "recipe": "xat:glowing_powder"
+        },
+        {
+            "type": "crafting",
+            "text": "Crafting the Glowing Ingot",
+            "recipe": "xat:glowing_ingot"
+        },
+        {
+            "type": "crafting",
+            "text": "Crafting the Glowing Gem",
+            "recipe": "xat:glowing_gem"
+        }
+    ]
+}
