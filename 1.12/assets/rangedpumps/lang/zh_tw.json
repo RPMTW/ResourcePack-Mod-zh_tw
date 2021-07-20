@@ -1,6 +1,6 @@
 {
-    "itemGroup.rangedpumps": "Ranged Pumps\n",
-    "block.rangedpumps:pump.name": "Pump\n",
+    "itemGroup.rangedpumps": "Ranged Pumps",
+    "block.rangedpumps:pump.name": "Pump",
     "block.rangedpumps:pump.state": "%d mB of %s - %d / %d FE",
     "block.rangedpumps:pump.state_empty": "Empty - %d / %d FE",
     "block.rangedpumps:pump.state.energy": "Insufficient energy.",
