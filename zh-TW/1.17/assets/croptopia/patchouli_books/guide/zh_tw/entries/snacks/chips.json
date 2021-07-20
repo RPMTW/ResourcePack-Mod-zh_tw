@@ -1,10 +1,10 @@
 {
-  "name": "Chips",
+  "name": "薯條",
   "icon": "croptopia:potato_chips",
   "category": "croptopia:snacks",
   "pages": [
     {
-      "type": "crafting",
+      "type": "合成",
       "recipe": "croptopia:kale_chips",
       "recipe2": "croptopia:potato_chips"
     },
