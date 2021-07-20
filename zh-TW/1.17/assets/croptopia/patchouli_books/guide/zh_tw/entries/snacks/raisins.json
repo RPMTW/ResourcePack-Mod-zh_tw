@@ -1,12 +1,12 @@
 {
-  "name": "Raisins",
+  "name": "葡萄乾",
   "icon": "croptopia:raisins",
   "category": "croptopia:snacks",
   "pages": [
     {
       "type": "smelting",
       "recipe": "croptopia:raisins",
-      "text": "Recipe for making raisins."
+      "text": "葡萄乾的食譜"
     }
   ]
 }
