@@ -1,12 +1,12 @@
 {
   "name": "Whipping Cream",
-  "icon": "croptopia:whipping_cream",
+  "icon": "作物方城市:鮮奶油",
   "category": "croptopia:ingredients",
   "pages": [
     {
       "type": "crafting",
-      "recipe": "croptopia:whipping_cream",
-      "text": "鮮奶油的製作方法"
+      "recipe": "作物方城市:鮮奶油",
+      "text": "食譜指南"
     }
   ]
 }
