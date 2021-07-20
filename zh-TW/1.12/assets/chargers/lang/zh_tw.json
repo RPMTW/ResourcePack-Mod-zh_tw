@@ -1,15 +1,15 @@
 {
-    "tile.chargers.charger.tier_1.name": "Charger Tier I",
-    "tile.chargers.charger.tier_2.name": "Charger Tier II",
-    "tile.chargers.charger.tier_3.name": "Charger Tier III",
+    "tile.chargers.charger.tier_1.name": "一級充電器",
+    "tile.chargers.charger.tier_2.name": "二級充電器",
+    "tile.chargers.charger.tier_3.name": "三級充電器",
     "tile.chargers.wireless_charger.name": "Wireless Charger\n",
-    "chat.chargers.wireless_charger.info": "Status: %s, Power: %s/%s FE",
-    "chat.chargers.enabled": "Enabled",
+    "chat.chargers.wireless_charger.info": "狀態：%s，能量：%s/%s FE",
+    "chat.chargers.enabled": "已啟用",
     "chat.chargers.disabled": "Disabled\n",
-    "tooltip.chargers.wireless_charger": "Can be disabled with redstone power",
+    "tooltip.chargers.wireless_charger": "可用紅石信號來關閉",
     "chat.chargers.stored.info": "Power: %s/%s FE\n",
     "gui.chargers.energy": "%s/%s FE",
-    "gui.chargers.max_in": "Max In: %s FE/t",
-    "gui.chargers.max_out": "Max Out: %s FE/t",
-    "gui.chargers.io": "I/O: %s FE/t"
+    "gui.chargers.max_in": "最大輸入：%s FE/t",
+    "gui.chargers.max_out": "最大輸出：%s FE/t",
+    "gui.chargers.io": "I/O：%s FE/t"
 }
