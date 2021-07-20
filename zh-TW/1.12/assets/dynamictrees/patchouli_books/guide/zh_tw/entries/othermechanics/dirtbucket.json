@@ -1,13 +1,13 @@
 {
-    "name": "Dirt Bucket",
-    "read_by_default": "true",
+    "name": "泥桶",
+    "read_by_default": "是",
     "icon": "dynamictrees:dirtbucket",
     "category": "othermechanics",
     "sortnum": "2",
     "pages": [
         {
-            "type": "crafting",
-            "title": "Dirt Bucket",
+            "type": "合成",
+            "title": "泥桶",
             "anchor": "dirtbucket",
             "recipe": "dynamictrees:dirtbucket",
             "text": "Dirt Buckets are used to convert a seed to a sapling and vice versa.$(br2)Place the dirt bucket and the seed or sapling in a crafting table to convert. The recipe is shapeless."
