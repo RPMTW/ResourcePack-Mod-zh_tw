@@ -8,7 +8,7 @@
             "text": "The Wither Ring grants its wearer immunity to the wither status effect. Additionally, the wearer has a chance of inflicting wither damage with their attacks, and can steal health from withered entities.$(br2)Item idea originally by BlockBreaker1361"
         },
         {
-            "type": "crafting",
+            "type": "合成",
             "text": "$(o)Finally, revenge for all those times Wither Skeletons decided to be annoying.",
             "recipe": "xat:wither_ring"
         }
