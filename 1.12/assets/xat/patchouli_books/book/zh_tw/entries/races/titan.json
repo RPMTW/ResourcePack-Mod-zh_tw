@@ -1,0 +1,24 @@
+{
+    "name": "Titan",
+    "icon": "xat:titan_ring",
+    "category": "races",
+    "pages": [
+        {
+            "type": "text",
+            "text": "The Titan race has incredible melee strength at a cost of poor mobility. They also have a larger mining radius, being 3x3x3 instead of 1x1x1. They are three times as large as a normal player. Due to this, they can easily trample farmland and instantly sink in water."
+        },
+		{
+            "type": "text",
+            "text": "$(l)Default Attribute modifiers:$()$(br)300% Size$(br)$(4)-50%$() Attack Speed$(br)$(2)+50%$() Attack Damage$(br)$(2)+100%$() Health$(br)$(2)+30%$() Knockback Resistance$(br)$(4)-25%$() Movement Speed$(br)$(2)+75%$() Jump Height$(br)$(2)+1.4$() Step Height"
+        },
+		{
+            "type": "text",
+            "text": "$(l)Ability: Wide Mining Radius$()$(br)Titans are capable of mining 3x3x3 holes at a time, making them perfect for digging huge holes (especially if you want to mine entire chunks). You can bypass this by sneaking while mining."
+        },
+		{
+            "type": "crafting",
+			"recipe": "xat:titans_spirit",
+			"recipe2": "xat:titan_ring"
+        }
+    ]
+}
