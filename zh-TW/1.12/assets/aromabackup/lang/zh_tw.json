@@ -7,7 +7,7 @@
     "aromabackup:backup.failed.server": "Server Backup failed!",
     "aromabackup:backup.failed.client": "World Backup failed!",
     "aromabackup:backup.next.server": "Next scheduled Backup in %s minutes.",
-    "aromabackup:backup.next.client": "Next scheduled Backup in %s minutes.\n",
+    "aromabackup:backup.next.client": "Next scheduled Backup in %s minutes.",
     "_comment_1": "指令",
     "aromabackup:command.commandOverride": "Could not execute the %s command, because a backup is currently running.",
     "aromabackup:command.alreadyrunning": "A backup is already running.",
