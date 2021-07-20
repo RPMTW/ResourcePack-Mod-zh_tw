@@ -1,11 +1,11 @@
 {
   "name": "Carnitas",
-  "icon": "croptopia:carnitas",
+  "icon": "作物方城市:烤豬肉",
   "category": "作物方城市:餐點",
   "pages": [
     {
       "type": "crafting",
-      "recipe": "croptopia:carnitas",
+      "recipe": "作物方城市:烤豬肉",
       "text": "Recipe for carnitas."
     }
   ]
