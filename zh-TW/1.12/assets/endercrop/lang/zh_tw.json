@@ -1,0 +1,18 @@
+{
+    "_comment_0": " Item names",
+    "item.ender_seeds.name": "Ender Seeds\n",
+    "_comment_1": " Block names",
+    "tile.ender_crop.name": "Ender Crop",
+    "tile.tilled_end_stone.name": "Tilled End Stone\n",
+    "_comment_2": " Alerts",
+    "endercrop.alert.hoe": "This block can only be tilled by a hoe enchanted with Unbreaking I+\n",
+    "_comment_3": " Tooltips and WAILA/TOP",
+    "endercrop.tip.seed": "種植在耕地方塊或者耕過的終界石上",
+    "endercrop.wailatop.nogrowth": "無法生長",
+    "endercrop.wailatop.moist": "潮濕",
+    "endercrop.wailatop.dry": "乾燥",
+    "endercrop.wailatop.light": "光",
+    "endercrop.waila.hoeable": "可以耕地",
+    "endercrop.waila.nothoeable": "無法耕地",
+    "endercrop.top.hoe": "鋤"
+}
