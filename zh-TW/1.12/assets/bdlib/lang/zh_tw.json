@@ -14,7 +14,7 @@
     "bdlib.multiblock.tip.module.range": "* %s (%s - %s)",
     "bdlib.multiblock.tip.module.max": "* %s (up to %s)\n",
     "bdlib.rsmode.always": "一直啟用",
-    "bdlib.rsmode.never": "一直停用",
+    "bdlib.rsmode.never": "停用",
     "bdlib.rsmode.rs_on": "接收到紅石信號時啟用",
     "bdlib.rsmode.rs_off": "Disable on redstone\n",
     "bdlib.label.empty": "Empty\n",
