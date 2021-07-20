@@ -1,0 +1,24 @@
+{
+    "name": "Elf",
+    "icon": "xat:elf_ring",
+    "category": "races",
+    "pages": [
+        {
+            "type": "text",
+            "text": "The Elf race is proficient in ranged combat, being capable of charging bow shots to make them deal more damage. They also have affinity with the forest, gaining a speed bonus while in one. Due to having no downsides, it is recommended to pick this race if you want to experience a unique race without any negative consequences."
+        },
+		{
+            "type": "text",
+            "text": "$(l)Default Attribute modifiers:$()$(br)100% Size$(br)$(2)+10%$() Attack Speed$(br)$(2)+10%$() Movement Speed$(br)$(l)In Forest:$()$(br)$(2)+50%$() Attack Speed$(br)$(2)+50%$() Movement Speed$(br)"
+        },
+		{
+            "type": "text",
+            "text": "$(l)Ability: Charged Bow Shot$()$(br)Sneaking while drawing a bow activates a power shot, strengthening the damage at the cost of 20 mana."
+        },
+		{
+            "type": "crafting",
+			"recipe": "xat:elf_sap",
+			"recipe2": "xat:elf_ring"
+        }
+    ]
+}
