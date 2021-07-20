@@ -1,10 +1,10 @@
 {
-  "name": "Steamed Rice",
+  "name": "蒸飯",
   "icon": "croptopia:beef_jerky",
   "category": "croptopia:snacks",
   "pages": [
     {
-      "type": "crafting",
+      "type": "合成",
       "recipe": "croptopia:steamed_rice",
       "text": "Recipe for making steamed rice."
     }
