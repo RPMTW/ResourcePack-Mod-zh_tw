@@ -22,7 +22,7 @@
     "_comment_6": "# Thaumcraft",
     "compatskills.requirements.format.warp": "Warp: %s%s",
     "compatskills.requirements.format.research": "Research: %s%s\n\n",
-    "_comment_7": " Error Messages",
+    "_comment_7": "錯誤訊息",
     "_comment_8": "# Game Stages",
     "compatskills.error.gamestage": "Requirements for unlocking this Stage aren't met!\n",
     "_comment_9": "# Reskillable",
@@ -66,5 +66,5 @@
     "_comment_22": "# Misc:",
     "compatskills.misc.requirements": "Requirements:",
     "compatskills.misc.shift": "Press Shift to See Requirements\n",
-    "compatskills.misc.betterquesting.requirement_task": "Requirements"
+    "compatskills.misc.betterquesting.requirement_task": "需求"
 }
