@@ -1,10 +1,10 @@
 {
-  "name": "Oatmeal",
+  "name": "燕麥片",
   "icon": "croptopia:oatmeal",
   "category": "croptopia:snacks",
   "pages": [
     {
-      "type": "crafting",
+      "type": "合成",
       "recipe": "croptopia:oatmeal",
       "text": "Recipe for making oatmeal."
     }
