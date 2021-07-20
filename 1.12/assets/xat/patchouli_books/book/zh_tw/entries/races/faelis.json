@@ -1,0 +1,24 @@
+{
+    "name": "Faelis",
+    "icon": "xat:faelis_ring",
+    "category": "races",
+    "pages": [
+        {
+            "type": "text",
+            "text": "The Faelis race is an agile race based on pure speed and fast attacking. The Faelis gains a few extra damage points from attacking with an empty fist, however using other weapons is not completely discouraged. The Faelis also gains a movement speed penalty from wearing armor heavier than leather or an elytra.$(br2)Race idea originally by NyanMinecrafter"
+        },
+		{
+            "type": "text",
+            "text": "$(l)Default Attribute modifiers:$()$(br)85% Size$(br)$(2)+15%$() Attack Speed$(br)$(4)-25%$() Attack Damage$(br)$(4)-25%$() Health$(br)$(4)-15%$() Armor Toughness$(br)$(2)+25%$() Movement Speed$(br)$(2)+50%$() Swim Speed$(br)$(2)+60%$() Jump Height$(br)$(2)+0.6$() Step Height$(br)"
+        },
+		{
+            "type": "text",
+            "text": "$(l)Ability: Consume your Calcium$()$(br)When a Faelis drinks a milk bucket, they gain a boost to physical strength and the ability to wear stronger armors without penalty for 30 seconds."
+        },
+		{
+            "type": "crafting",
+			"recipe": "xat:faelis_food",
+			"recipe2": "xat:faelis_ring"
+        }
+    ]
+}
