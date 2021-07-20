@@ -1,0 +1,20 @@
+{
+    "name": "Polarized Stone",
+    "icon": "xat:polarized_stone",
+    "category": "trinkets",
+    "pages": [
+        {
+            "type": "text",
+            "text": "Has two modes, Magnet and Repel mode, and works from the hotbar, offhand, or trinket slots."
+        },
+		{
+            "type": "text",
+            "text": "Magnet mode will pull in items when enabled (toggled with either the magnet mode keybind or when right clicked in hand).$(br2)Repel mode will repel away projectiles at the cost of mana (toggled with either the aux key plus the magnet mode keybind or by shift+right clicked in hand)."
+        },
+		{
+            "type": "crafting",
+            "text": "$(o)Waht will I do without my $(l)Ggravitational pull",
+			"recipe": "xat:polarized_stone"
+        }
+    ]
+}
