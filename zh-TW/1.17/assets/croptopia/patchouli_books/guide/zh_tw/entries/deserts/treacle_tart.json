@@ -1,12 +1,12 @@
 {
-  "name": "Treacle Tart",
-  "icon": "croptopia:treacle_tart",
-  "category": "croptopia:deserts",
+  "name": "糖漿餡餅",
+  "icon": "作物方城市:糖漿餡餅",
+  "category": "作物方城市:甜點",
   "pages": [
     {
       "type": "crafting",
       "recipe": "croptopia:shaped_treacle_tart",
-      "text": "Recipe for a treacle tart."
+      "text": "糖漿餡餅的食譜"
     }
   ]
 }
