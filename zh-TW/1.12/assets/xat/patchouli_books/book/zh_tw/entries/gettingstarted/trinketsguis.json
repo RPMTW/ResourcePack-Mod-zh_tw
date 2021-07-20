@@ -1,0 +1,15 @@
+{
+    "name": "Trinkets GUI",
+    "icon": "xat:textures/gui/patchouli_textures/mana_icon.png",
+    "category": "gettingstarted",
+    "pages": [
+        {
+            "type": "text",
+            "text": "In the main inventory, there are two unique buttons both unique to trinkets. The first one looks like a blue orb, which is used to open a small configuration menu. In this menu, you can configure the color of your racial cosmetic as well as the position of your mana bar."
+        },
+        {
+            "type": "text",
+            "text": "The other button is located in the upper left corner. This button reveals your trinkets slots. This is where you place trinkets to make them function. (If baubles is installed, trinkets can also be equipped in bauble slots.)"
+        }
+    ]
+}
