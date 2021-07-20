@@ -1,11 +1,11 @@
 {
-  "name": "Pump",
+  "name": "泵",
   "category": "machines",
   "sortnum": 10,
   "icon": "indrev:pump_mk1",
   "pages": [
     {
-      "type": "crafting",
+      "type": "合成",
       "recipe": "indrev:shaped/pump_mk1",
       "text": "$(l)泵$()用於抽取液體並傳輸至管線或儲罐"
     },
