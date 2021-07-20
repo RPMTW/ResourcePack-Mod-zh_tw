@@ -1,0 +1,20 @@
+{
+    "name": "Ender Queen's Crown",
+    "icon": "xat:ender_tiara",
+    "category": "trinkets",
+    "pages": [
+        {
+            "type": "text",
+            "text": "The Ender Queen's Crown causes endermen to view the wearer as royalty, causing them to follow and fight for the wearer. The wearer also has a small chance upon taking damage to ignore the damage taken and summon an enderman.$(br2)Item idea originally by MigMolRod"
+        },
+        {
+            "type": "text",
+            "text": "$(l)Mod Compatibility:$()$(br)$(n)Tough as Nails$() / $(n)Simple Difficulty$(): Immunity to hypothermia$(br)$(n)Enhanced Visuals$(): Removes the static effect from endermen"
+        },
+        {
+            "type": "crafting",
+            "text": "$(o)Ah yes, the ruler of $(l)EEEURAUGH",
+            "recipe": "xat:ender_tiara"
+        }
+    ]
+}
