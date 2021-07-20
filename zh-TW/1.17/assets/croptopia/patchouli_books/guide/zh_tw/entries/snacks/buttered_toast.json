@@ -1,10 +1,10 @@
 {
-  "name": "Buttered Toast",
+  "name": "黃油吐司",
   "icon": "croptopia:buttered_toast",
   "category": "croptopia:snacks",
   "pages": [
     {
-      "type": "crafting",
+      "type": "合成",
       "recipe": "croptopia:buttered_toast",
       "text": "Recipe for making buttered toast."
     }
