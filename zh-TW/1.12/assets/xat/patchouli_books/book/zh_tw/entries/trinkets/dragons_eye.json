@@ -1,0 +1,20 @@
+{
+    "name": "Dragon's Eye",
+    "icon": "xat:dragons_eye",
+    "category": "trinkets",
+    "pages": [
+        {
+            "type": "text",
+            "text": "The Dragon's Eye grants its wearer night vision as well as the ability to see ores through walls. The targeted ore can be changed through the Dragon's Eye: Cycle key."
+        },
+        {
+            "type": "text",
+            "text": "$(l)Mod Compatibility:$()$(br)$(n)Tough as Nails$() / $(n)Simple Difficulty$(): Immunity to hyperthermia$(br)$(n)Enhanced Visuals$(): Removes the fire splat effect"
+        },
+        {
+            "type": "crafting",
+            "text": "$(o)So to wear this, do you just take one of your eyes out and shove this into your eye socket? That sounds painful.",
+            "recipe": "xat:dragons_eye"
+        }
+    ]
+}
