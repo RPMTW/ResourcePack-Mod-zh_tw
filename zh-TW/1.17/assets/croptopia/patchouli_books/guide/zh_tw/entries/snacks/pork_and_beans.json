@@ -1,10 +1,10 @@
 {
-  "name": "Pork and Beans",
+  "name": "黑豆豬肉",
   "icon": "croptopia:pork_and_beans",
   "category": "croptopia:snacks",
   "pages": [
     {
-      "type": "crafting",
+      "type": "合成",
       "recipe": "croptopia:pork_and_beans",
       "text": "Recipe for making pork and beans."
     }
