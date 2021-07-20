@@ -1,5 +1,5 @@
 {
-    "name": "Titan",
+    "name": "終界泰坦",
     "icon": "xat:titan_ring",
     "category": "races",
     "pages": [
@@ -16,7 +16,7 @@
             "text": "$(l)Ability: Wide Mining Radius$()$(br)Titans are capable of mining 3x3x3 holes at a time, making them perfect for digging huge holes (especially if you want to mine entire chunks). You can bypass this by sneaking while mining."
         },
         {
-            "type": "crafting",
+            "type": "合成",
             "recipe": "xat:titans_spirit",
             "recipe2": "xat:titan_ring"
         }
