@@ -1,0 +1,20 @@
+{
+    "name": "Arcing Orb",
+    "icon": "xat:arcing_orb",
+    "category": "trinkets",
+    "pages": [
+        {
+            "type": "text",
+            "text": "The Arcing Orb allows its wearer to dodge at the cost of 30 mana by pressing a movement key twice. By holding the Arcing Orb: Attack key, you can charge up an attack which deals more damage the longer you charge it. Charging the Arcing Orb for longer durations costs more mana."
+        },
+		{
+            "type": "text",
+            "text": "$(l)Default Attribute modifiers:$()$(br)$(2)+10%$() Movement Speed$(br2)$(l)Mod Compatibility:$()$(br)$(n)Lycanites$(): Immunity to the stunned potion effect"
+        },
+		{
+            "type": "crafting",
+            "text": "$(o)But first, $(l:https://www.youtube.com/watch?v=kpk2tdsPh0A&t=638s)we need to talk about parallel universes.$(/l)",
+			"recipe": "xat:arcing_orb"
+        }
+    ]
+}
