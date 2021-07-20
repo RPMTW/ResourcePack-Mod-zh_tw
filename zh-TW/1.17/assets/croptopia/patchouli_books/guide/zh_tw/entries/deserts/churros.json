@@ -1,12 +1,12 @@
 {
-  "name": "Churros",
-  "icon": "croptopia:churros",
-  "category": "croptopia:deserts",
+  "name": "吉拿棒",
+  "icon": "作物方城市:吉拿棒",
+  "category": "作物方城市:甜點",
   "pages": [
     {
       "type": "crafting",
-      "recipe": "croptopia:churros",
-      "text": "Recipe for churros."
+      "recipe": "作物方城市:吉拿棒",
+      "text": "吉拿棒的食譜"
     }
   ]
 }
