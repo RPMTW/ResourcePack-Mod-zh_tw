@@ -1,21 +1,21 @@
 {
-  "name": "Core of Modularity",
+  "name": "模組化核心",
   "category": "indrev:tools",
   "sortnum": 6,
   "icon": "indrev:modular_core",
   "pages": [
     {
-      "type": "crafting",
+      "type": "合成",
       "recipe": "indrev:shaped/modular_core",
       "text": "模組化核心是每個模組化工具的基底。但在其可用之前必須先充能。您至少需要一個鐳射發射器、一個密封艙和大量的能量儲存（1億LF）以充能它，。"
     },
     {
-      "type": "crafting",
+      "type": "合成",
       "recipe": "indrev:shaped/capsule",
       "text": "密封艙將在啟動過程中保持你的模組化核心。$(br)當它完成時它會發出紅石信號。"
     },
     {
-      "type": "crafting",
+      "type": "合成",
       "recipe": "indrev:shaped/laser_emitter_mk4",
       "text": "鐳射發射器應放置於面對密封艙與 $(l)剛好三格遠$()的距離。它們能儲存最多2500萬LF，須以紅石信號啟動。"
     },
