@@ -28,7 +28,7 @@
     {
       "type": "item",
       "item": "#input3",
-      "framed": "true",
+      "framed": "是",
       "x": 73,
       "y": 30
     },
@@ -76,7 +76,7 @@
       "type": "item",
       "item": "#output",
       "link_recipe": true,
-      "framed": "true",
+      "framed": "是",
       "x": 50,
       "y": 102
     }
