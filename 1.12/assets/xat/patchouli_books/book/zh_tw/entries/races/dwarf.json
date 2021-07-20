@@ -1,0 +1,24 @@
+{
+    "name": "Dwarf",
+    "icon": "xat:dwarf_ring",
+    "category": "races",
+    "pages": [
+        {
+            "type": "text",
+            "text": "The Dwarf race is a skilled miner, and even has some proficiency in combat. Use this race if you go mining frequently. They are a bit shorter than the average player, however it isn't enough to make a noticable difference."
+        },
+		{
+            "type": "text",
+            "text": "$(l)Default Attribute modifiers:$()$(br)75% Size$(br)$(4)-25%$() Attack Speed$(br)$(2)+25%$() Attack Damage$(br)$(4)-30%$() Health$(br)$(2)+25%$() Armor Toughness$(br)$(4)-25%$() Movement Speed$(br)$(2)+20%$() Knockback Resistance"
+        },
+		{
+            "type": "text",
+            "text": "$(l)Ability: Skilled Miner$()$(br)Dwarves mine all blocks at a fixed speed, gain more experience points for mining ores, apply 3 bonus psuedo-fortune levels to loot drops, and can mine blocks that require one pickaxe tier higher than their currently held pickaxe."
+        },
+		{
+            "type": "crafting",
+			"recipe": "xat:dwarf_stout",
+			"recipe2": "xat:dwarf_ring"
+        }
+    ]
+}
