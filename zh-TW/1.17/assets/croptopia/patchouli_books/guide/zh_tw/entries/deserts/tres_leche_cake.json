@@ -1,12 +1,12 @@
 {
-  "name": "Tres Leche Cake",
-  "icon": "croptopia:tres_leche_cake",
-  "category": "croptopia:deserts",
+  "name": "特蕾斯蛋糕",
+  "icon": "作物方城市:特蕾斯蛋糕",
+  "category": "作物方城市:甜點",
   "pages": [
     {
       "type": "crafting",
-      "recipe": "croptopia:tres_leche_cake",
-      "text": "Recipe guide."
+      "recipe": "作物方城市:特蕾斯蛋糕",
+      "text": "食譜指南"
     }
   ]
 }
