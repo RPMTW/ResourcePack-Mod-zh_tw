@@ -1,0 +1,24 @@
+{
+    "name": "Dragon",
+    "icon": "xat:dragon_ring",
+    "category": "races",
+    "pages": [
+        {
+            "type": "text",
+            "text": "The Dragon race is a powerful being which gets creative flight as well as strong combat affinity. More overpowered than all other races, however also the hardest to obtain."
+        },
+		{
+            "type": "text",
+            "text": "$(l)Default Attribute modifiers:$()$(br)120% Size$(br)$(2)+50%$() Attack Damage$(br)$(2)+100%$() Health$(br)$(2)+50%$() Armor Toughness"
+        },
+		{
+            "type": "text",
+            "text": "$(l)Ability: Fire Breath$()$(br)Holding the Race Ability key causes the Dragon to shoot flames from their mouth. These flames ignite whatever they strike, however maintaining the fire breath costs huge amounts of mana. The color of these flames is the same as the color of the player's racial trait."
+        },
+		{
+            "type": "crafting",
+			"recipe": "xat:dragon_food",
+			"recipe2": "xat:dragon_ring"
+        }
+    ]
+}
