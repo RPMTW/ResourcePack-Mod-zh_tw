@@ -1,5 +1,5 @@
 {
-    "name": "流體灌裝機",
+    "name": "液體灌注機",
     "icon": "thermal:machine_bottler",
     "category": "thermal:machines",
     "read_by_default": true,
@@ -12,7 +12,7 @@
         {
             "type": "合成",
             "recipe": "thermal:machine_bottler",
-            "title": "流體灌裝機"
+            "title": "液體灌注機"
         },
         {
             "type": "text",
