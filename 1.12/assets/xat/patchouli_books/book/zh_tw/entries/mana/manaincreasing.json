@@ -1,0 +1,31 @@
+{
+    "name": "Altering Maximum Mana",
+    "icon": "xat:mana_crystal",
+    "category": "mana",
+    "pages": [
+        {
+            "type": "text",
+            "text": "Mana can be increased in a few ways. The first is simply by playing as a different race. Some races increase (or decrease) your maximum mana. There are also dedicated items for increasing and decreasing your maximum mana."
+        },
+		{
+			"type": "empty"
+		},
+		{
+			"type": "text",
+			"text": "The Mana Crystal and Mana Reagent are capable of increasing and decreasing the player's maximum mana by 10 respectively when consumed. This is the simplest way of permanently increasing maximum mana."
+		},
+		{
+			"type": "crafting",
+			"recipe": "xat:mana_crystal",
+			"recipe2": "xat:mana_reagent"
+		},
+		{
+			"type": "text",
+			"text": "The Moon Rose increases the player's maximum mana by 10 after sneaking near it for long enough. This can be done a total of 10 times. This is much more effective than a Mana Crystal, however takes longer to do. If multiple moon roses are near each other, they will not function."
+		},
+		{
+			"type": "crafting",
+			"recipe": "xat:moon_rose"
+		}
+    ]
+}
