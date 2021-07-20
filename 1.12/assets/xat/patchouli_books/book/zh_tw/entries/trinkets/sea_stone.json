@@ -1,0 +1,20 @@
+{
+    "name": "Stone of the Sea",
+    "icon": "xat:sea_stone",
+    "category": "trinkets",
+    "pages": [
+        {
+            "type": "text",
+            "text": "The Stone of the Sea grants its wearer the ability to breathe underwater, and changes swimming controls to a method more closely resembling 1.13+ swimming mechanics."
+        },
+		{
+            "type": "text",
+            "text": "$(l)Default Attribute modifiers:$()$(br)$(2)+400%$() Swim Speed$(br2)$(l)Mod Compatibility:$()$(br)$(n)Tough as Nails$() / $(n)Simple Difficulty$(): Immunity to thirst status effect$(br)$(n)Enhanced Visuals$(): Removes the blur visual effect for entering water"
+        },
+		{
+            "type": "crafting",
+            "text": "$(o)bloop bloop am fish",
+			"recipe": "xat:sea_stone"
+        }
+    ]
+}
