@@ -1,0 +1,14 @@
+{
+    "_comment_0": "Commands",
+    "commands.gamestage.add.sender": "%s 的遊戲階段 %s 已經解鎖!",
+    "commands.gamestage.add.target": "You unlocked stage %s!\n",
+    "commands.gamestage.remove.sender": "%s 的遊戲階段 %s 已經移除!",
+    "commands.gamestage.remove.target": "You lost access to stage %s!\n",
+    "commands.gamestage.check.failure": "%s不處於 %s 遊戲階段",
+    "commands.gamestage.check.success": "%s has stage %s\n",
+    "commands.gamestage.info.empty": "You have no stages unlocked!",
+    "commands.gamestage.info.noplayer": "No player found!\n",
+    "commands.gamestage.clear.sender": "清除從 %s 開始%d個遊戲階段",
+    "commands.gamestage.clear.target": "You lost %d stages!\n",
+    "commands.gamestage.playeronly": "抱歉,僅限玩家!"
+}
