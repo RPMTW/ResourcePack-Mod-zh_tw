@@ -1,0 +1,33 @@
+{
+    "name": "Mod Potions",
+    "icon": "minecraft:potion",
+    "category": "gettingstarted",
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "minecraft:potion{Potion:'xat:sparkling'}",
+            "text": "Restores 25% of your maximum mana."
+        },
+        {
+            "type": "spotlight",
+            "item": "minecraft:potion{Potion:'xat:glittering'}",
+            "text": "Restores 50% of your maximum mana."
+        },
+        {
+            "type": "spotlight",
+            "item": "minecraft:potion{Potion:'xat:glowing'}",
+            "text": "Restores 100% of your maximum mana."
+        },
+        {
+            "type": "spotlight",
+            "item": "minecraft:potion{Potion:'xat:restorative'}",
+            "text": "Permanently reverts you to a human if you were any other race. Also restores health."
+        },
+        {
+            "type": "spotlight",
+            "item": "minecraft:potion{Potion:'xat:human'}",
+            "title": "All Race Potions",
+            "text": "Temporarily turns you into the respective race."
+        }
+    ]
+}
