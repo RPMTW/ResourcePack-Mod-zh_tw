@@ -9,7 +9,7 @@
             "text": "為物品注入元素的力量"
         },
         {
-            "type": "crafting",
+            "type": "合成",
             "title": "準備結構",
             "text": "首先，您需要製作 $(bold)注魔基座$()和$(bold)任何$()其他類型的8個基座。",
             "recipe": "betterend:infusion_pedestal"
