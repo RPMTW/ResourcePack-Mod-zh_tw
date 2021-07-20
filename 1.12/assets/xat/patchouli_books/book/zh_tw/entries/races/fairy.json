@@ -1,0 +1,24 @@
+{
+    "name": "Fairy",
+    "icon": "xat:fairy_ring",
+    "category": "races",
+    "pages": [
+        {
+            "type": "text",
+            "text": "The Fairy race is much smaller and weaker than the standard player, however has the ability to fly in exchange. The small size of the fairy also allows them to slip into half-block gaps. They have the ability to climb certain walls, however this is not very helpful."
+        },
+		{
+            "type": "text",
+            "text": "$(l)Default Attribute modifiers:$()$(br)25% Size$(br)$(4)-75%$() Attack Damage$(br)$(4)-60%$() Health$(br)$(4)-50%$() Armor$(br)$(4)-25%$() Armor Toughness$(br)$(4)-25%$() Movement Speed$(br)$(4)-25%$() Swim Speed$(br)$(4)-25%$() Jump Height$(br)$(4)-0.35$() Jump Height"
+        },
+		{
+            "type": "text",
+            "text": "$(l)Ability: Creative Flight$()$(br)Fairies have the ability to fly exactly like a Creative Mode player would, though a bit slower. There is no cost to fly as a Fairy."
+        },
+		{
+            "type": "crafting",
+			"recipe": "xat:fairy_dew",
+			"recipe2": "xat:fairy_ring"
+        }
+    ]
+}
