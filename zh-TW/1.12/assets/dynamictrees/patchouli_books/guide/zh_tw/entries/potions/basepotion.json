@@ -1,12 +1,12 @@
 {
-    "name": "Biochar Base Potion",
+    "name": "生物炭基礎藥水",
     "icon": "dynamictrees:dendropotion",
     "category": "potions",
     "sortnum": "1",
     "pages": [
         {
             "type": "brewing",
-            "title": "Biochar Base Potion",
+            "title": "生物炭基礎藥水",
             "ingredient": "minecraft:coal:1",
             "bottle": "minecraft:potion{Potion:'minecraft:awkward'}",
             "output": "dynamictrees:dendropotion",
