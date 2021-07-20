@@ -6,7 +6,7 @@
     "item.headcrumbs.pigman.name": "Pigman Head",
     "item.headcrumbs.blaze.name": "Blaze Head",
     "item.headcrumbs.enderman.name": "Enderman Head",
-    "item.headcrumbs.player.name": "Head",
+    "item.headcrumbs.player.name": "生物頭顱",
     "item.headcrumbs.spider.name": "Spider Head",
     "item.headcrumbs.caveSpider.name": "Cave Spider Head",
     "item.headcrumbs.pig.name": "Pig Head",
@@ -82,7 +82,7 @@
     "item.headcrumbs.winterWolf.name": "Winter Wolf Head",
     "item.headcrumbs.mazeSlime.name": "Maze Slime Head",
     "item.headcrumbs.towerwoodBorer.name": "Towerwood Borer Head",
-    "item.headcrumbs.hydra.name": "Hydra Head",
+    "item.headcrumbs.hydra.name": "九頭蛇頭部",
     "item.headcrumbs.nagaTF.name": "Naga Head",
     "item.headcrumbs.lich.name": "Lich Head",
     "item.headcrumbs.snowQueen.name": "Snow Queen Head",
@@ -224,11 +224,11 @@
     "_comment_16": "#########",
     "_comment_17": " Entity #",
     "_comment_18": "#########",
-    "entity.Celebrity.name": "Human",
+    "entity.Celebrity.name": "人類",
     "entity.Human.name": "Human\n",
     "_comment_19": "###############",
     "_comment_20": " Creative Tab #",
     "_comment_21": "###############",
     "itemGroup.headcrumbs": "Headcrumbs",
-    "itemGroup.headcrumbs.players": "Players"
+    "itemGroup.headcrumbs.players": "玩家"
 }
