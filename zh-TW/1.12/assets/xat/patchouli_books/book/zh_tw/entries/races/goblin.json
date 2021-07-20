@@ -1,5 +1,5 @@
 {
-    "name": "Goblin",
+    "name": "哥布林",
     "icon": "xat:goblin_ring",
     "category": "races",
     "pages": [
@@ -16,7 +16,7 @@
             "text": "$(l)Ability: Wolf Riding$()$(br)Goblins have the ability to ride any tamed dogs by right clicking them (this costs 60% of the goblin's mana). While mounted, the dog in question temporarily becomes an Alpha Wolf. Both the Alpha Wolf and its rider receive strength and regeneration potion effects, and the Alpha Wolf can damage entities by running into them."
         },
         {
-            "type": "crafting",
+            "type": "合成",
             "recipe": "xat:goblin_soup",
             "recipe2": "xat:goblin_ring"
         }
