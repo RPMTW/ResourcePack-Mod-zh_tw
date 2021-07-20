@@ -8,7 +8,7 @@
       "text": "Many of the materials involved in conjuration and related activities aren't exactly what one might consider $(o)safe$() or $(o)easy to work with$(). Especially $(item)Soul Soil$(), because of the very properties exploited in the creation of $(item)Soul Alloy$(), can be quite nasty.$(p)To remedy this, the $(item)Soulfire Forge$() is employed when working with these substances."
     },
     {
-      "type": "crafting",
+      "type": "合成",
       "recipe": "conjuring:crafting/soulfire_forge",
       "text": "By utilizing $(thing)Soul Fire$(), it can burn off dangerous or unwanted components and create a clean composite.$(p)This consumes the $(thing)Soul Fire$() however, meaning that re-lighting it for every crafting process is required."
     },
