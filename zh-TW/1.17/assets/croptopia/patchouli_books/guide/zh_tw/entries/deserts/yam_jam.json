@@ -1,12 +1,12 @@
 {
-  "name": "Yam Jam",
-  "icon": "croptopia:yam_jam",
-  "category": "croptopia:deserts",
+  "name": "山藥果醬",
+  "icon": "作物方城市:山藥果醬",
+  "category": "作物方城市:甜點",
   "pages": [
     {
       "type": "crafting",
-      "recipe": "croptopia:yam_jam",
-      "text": "Recipe for yam jam."
+      "recipe": "作物方城市:山藥果醬",
+      "text": "山藥果醬的食譜"
     }
   ]
 }
