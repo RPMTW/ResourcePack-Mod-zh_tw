@@ -1,11 +1,11 @@
 {
-  "name": "Horchata",
+  "name": "油莎草塊莖飲料",
   "icon": "作物方城市:油莎草塊莖飲料",
   "category": "作物方城市:飲料",
   "pages": [
     {
-      "type": "crafting",
-      "recipe": "croptopia:horchata",
+      "type": "合成",
+      "recipe": "作物方城市:油莎草塊莖飲料",
       "text": "Recipe for horchata."
     }
   ]
