@@ -12,7 +12,7 @@
             "text": "$(l)Default Attribute modifiers:$()$(br)$(2)+400%$() Swim Speed$(br2)$(l)Mod Compatibility:$()$(br)$(n)Tough as Nails$() / $(n)Simple Difficulty$(): Immunity to thirst status effect$(br)$(n)Enhanced Visuals$(): Removes the blur visual effect for entering water"
         },
         {
-            "type": "crafting",
+            "type": "合成",
             "text": "$(o)bloop bloop am fish",
             "recipe": "xat:sea_stone"
         }
