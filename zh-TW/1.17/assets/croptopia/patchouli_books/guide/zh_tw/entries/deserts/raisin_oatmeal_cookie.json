@@ -1,12 +1,12 @@
 {
-  "name": "Raisin Oatmeal Cookie",
-  "icon": "croptopia:raisin_oatmeal_cookie",
-  "category": "croptopia:deserts",
+  "name": "葡萄乾燕麥餅乾",
+  "icon": "作物方城市:葡萄乾燕麥餅乾",
+  "category": "作物方城市:甜點",
   "pages": [
     {
       "type": "crafting",
-      "recipe": "croptopia:raisin_oatmeal_cookie",
-      "text": "Recipe for a raisin oatmeal cookie."
+      "recipe": "作物方城市:葡萄乾燕麥餅乾",
+      "text": "葡萄乾燕麥餅乾的食譜"
     }
   ]
 }
