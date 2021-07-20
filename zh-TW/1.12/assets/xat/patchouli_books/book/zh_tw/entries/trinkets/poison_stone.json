@@ -1,0 +1,16 @@
+{
+    "name": "Poison Stone",
+    "icon": "xat:poison_stone",
+    "category": "trinkets",
+    "pages": [
+        {
+            "type": "text",
+            "text": "The Poison Stone grants its wearer immunity to the poison and hunger status effects. Additionally, the wearer will occasionally deal poison damage with their attacks, and will deal double damage to poisoned entities."
+        },
+        {
+            "type": "crafting",
+            "text": "$(o)twitter simulator",
+            "recipe": "xat:poison_stone"
+        }
+    ]
+}
