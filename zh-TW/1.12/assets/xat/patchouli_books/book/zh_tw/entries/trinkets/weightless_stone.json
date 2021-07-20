@@ -1,0 +1,16 @@
+{
+    "name": "Stone of Negative Gravity",
+    "icon": "xat:weightless_stone",
+    "category": "trinkets",
+    "pages": [
+        {
+            "type": "text",
+            "text": "When equipped, the Stone of Negative Gravity grants its wearer immunity to gravity, allowing them to walk on thin air. Left clicking in this state causes you to move upwards, while sneaking and left clicking causes you to move downwards. When held, the holder will receive Levitation II."
+        },
+        {
+            "type": "crafting",
+            "text": "$(o)Falling with style!",
+            "recipe": "xat:weightless_stone"
+        }
+    ]
+}
