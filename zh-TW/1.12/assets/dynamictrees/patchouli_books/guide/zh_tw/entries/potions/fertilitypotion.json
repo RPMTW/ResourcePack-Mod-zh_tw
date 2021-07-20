@@ -1,12 +1,12 @@
 {
-    "name": "Potion of Fertility",
+    "name": "肥沃藥水",
     "icon": "dynamictrees:dendropotion:4",
     "category": "potions",
     "sortnum": "4",
     "pages": [
         {
             "type": "brewing",
-            "title": "Potion of Fertility",
+            "title": "肥沃藥水",
             "ingredient": "minecraft:fish",
             "bottle": "dynamictrees:dendropotion",
             "output": "dynamictrees:dendropotion:4",
