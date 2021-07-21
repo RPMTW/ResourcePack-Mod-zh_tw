@@ -1,12 +1,12 @@
 {
   "name": "鳳梨汁",
   "icon": "croptopia:pineapple_juice",
-  "category": "croptopia:drinks",
+  "category": "作物方城市:飲料",
   "pages": [
     {
       "type": "crafting",
       "recipe": "croptopia:pineapple_juice",
-      "text": "Recipe for pineapple juice."
+      "text": "鳳梨汁的食譜"
     }
   ]
 }

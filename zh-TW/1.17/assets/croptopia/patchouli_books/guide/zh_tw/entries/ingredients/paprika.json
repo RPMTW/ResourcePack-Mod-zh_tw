@@ -1,12 +1,12 @@
 {
-  "name": "Pepperoni",
-  "icon": "croptopia:paprika",
+  "name": "意大利辣香腸",
+  "icon": "作物方城市:辣椒粉",
   "category": "croptopia:ingredients",
   "pages": [
     {
       "type": "crafting",
-      "recipe": "croptopia:paprika",
-      "text": "Recipe for paprika."
+      "recipe": "作物方城市:辣椒粉",
+      "text": "辣椒粉的製作方法"
     }
   ]
 }

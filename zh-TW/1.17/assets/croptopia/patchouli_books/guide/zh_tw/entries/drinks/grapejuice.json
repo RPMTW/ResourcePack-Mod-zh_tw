@@ -1,12 +1,12 @@
 {
-  "name": "Grape Juice",
-  "icon": "croptopia:grape_juice",
-  "category": "croptopia:drinks",
+  "name": "葡萄汁",
+  "icon": "作物方城市:葡萄汁",
+  "category": "作物方城市:飲料",
   "pages": [
     {
       "type": "crafting",
-      "recipe": "croptopia:grape_juice",
-      "text": "Recipe for grape juice."
+      "recipe": "作物方城市:葡萄汁",
+      "text": "葡萄汁的食譜"
     }
   ]
 }

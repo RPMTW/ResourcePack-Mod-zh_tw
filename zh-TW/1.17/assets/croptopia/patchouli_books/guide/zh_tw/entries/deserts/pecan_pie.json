@@ -1,11 +1,11 @@
 {
   "name": "Pecan Pie",
-  "icon": "croptopia:pecan_pie",
-  "category": "croptopia:deserts",
+  "icon": "作物方城市:核桃派",
+  "category": "作物方城市:甜點",
   "pages": [
     {
       "type": "crafting",
-      "recipe": "croptopia:pecan_pie",
+      "recipe": "作物方城市:核桃派",
       "text": "Recipe for a pecan pie."
     }
   ]

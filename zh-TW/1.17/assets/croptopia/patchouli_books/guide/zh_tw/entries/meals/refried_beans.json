@@ -1,12 +1,12 @@
 {
   "name": "Refried Beans",
   "icon": "croptopia:refried_beans",
-  "category": "croptopia:meals",
+  "category": "作物方城市:餐點",
   "pages": [
     {
       "type": "crafting",
-      "recipe": "croptopia:refried_beans",
-      "text": "Recipe guide."
+      "recipe": "作物方城市:炒豆",
+      "text": "食譜指南"
     }
   ]
 }

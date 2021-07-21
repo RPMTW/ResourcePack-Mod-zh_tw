@@ -1,12 +1,12 @@
 {
-  "name": "Sticky Toffee Pudding",
-  "icon": "croptopia:sticky_toffee_pudding",
-  "category": "croptopia:deserts",
+  "name": "太妃糖椰棗糕",
+  "icon": "作物方城市:太妃糖椰棗糕",
+  "category": "作物方城市:甜點",
   "pages": [
     {
       "type": "crafting",
       "recipe": "croptopia:shaped_sticky_toffee_pudding",
-      "text": "Recipe for a sticky toffee pudding."
+      "text": "太妃糖椰棗糕的食譜"
     }
   ]
 }

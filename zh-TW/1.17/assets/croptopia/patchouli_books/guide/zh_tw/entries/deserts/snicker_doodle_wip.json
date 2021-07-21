@@ -1,12 +1,12 @@
 {
-  "name": "Snicker Doodle",
-  "icon": "croptopia:snicker_doodle",
-  "category": "croptopia:deserts",
+  "name": "士力架",
+  "icon": "作物方城市:士力架",
+  "category": "作物方城市:甜點",
   "pages": [
     {
       "type": "crafting",
-      "recipe": "croptopia:snicker_doodle",
-      "text": "Recipe for snicker doodle cookies. (WIP)"
+      "recipe": "作物方城市:士力架",
+      "text": "士力架的食譜"
     }
   ]
 }

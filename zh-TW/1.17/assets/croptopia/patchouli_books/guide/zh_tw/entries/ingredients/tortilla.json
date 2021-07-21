@@ -1,12 +1,12 @@
 {
-  "name": "Tortilla",
-  "icon": "croptopia:tortilla",
+  "name": "墨西哥薄餅",
+  "icon": "作物方城市:墨西哥薄餅",
   "category": "croptopia:ingredients",
   "pages": [
     {
       "type": "crafting",
-      "recipe": "croptopia:tortilla",
-      "text": "Recipe for tortilla."
+      "recipe": "作物方城市:墨西哥薄餅",
+      "text": "墨西哥薄餅的食譜"
     }
   ]
 }

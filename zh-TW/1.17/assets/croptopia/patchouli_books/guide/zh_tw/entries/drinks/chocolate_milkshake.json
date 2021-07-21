@@ -1,12 +1,12 @@
 {
-  "name": "Chocolate Milkshake",
-  "icon": "croptopia:chocolate_milkshake",
-  "category": "croptopia:drinks",
+  "name": "巧克力奶昔",
+  "icon": "作物方城市:巧克力奶昔",
+  "category": "作物方城市:飲料",
   "pages": [
     {
       "type": "crafting",
-      "recipe": "croptopia:chocolate_milkshake",
-      "text": "Recipe for chocolate milkshakes."
+      "recipe": "作物方城市:巧克力奶昔",
+      "text": "巧克力奶昔的食譜"
     }
   ]
 }

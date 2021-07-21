@@ -1,11 +1,11 @@
 {
   "name": "植物",
-  "icon": "croptopia:eggplant_seed",
-  "category": "croptopia:crops",
+  "icon": "作物方城市:茄子種子",
+  "category": "作物方城市:農作物",
   "pages": [
     {
       "type": "text",
-      "text": "Break tall grass with a hoe in various biomes to get the different seeds to plant your crops."
+      "text": "在不同生態域使用鋤破壞芒草以取得不同農作物的種子。"
     }
   ]
 }
