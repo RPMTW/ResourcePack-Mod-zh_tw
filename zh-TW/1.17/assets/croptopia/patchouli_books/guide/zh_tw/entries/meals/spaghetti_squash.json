@@ -1,11 +1,11 @@
 {
-  "name": "南瓜意大利麵",
+  "name": "Spaghetti Squash",
   "icon": "作物方城市:南瓜意大利麵",
   "category": "作物方城市:餐點",
   "pages": [
     {
-      "type": "合成",
-      "recipe": "作物方城市:南瓜意大利麵",
+      "type": "crafting",
+      "recipe": "croptopia:spaghetti_squash",
       "text": "Recipe for spaghetti squash."
     }
   ]
