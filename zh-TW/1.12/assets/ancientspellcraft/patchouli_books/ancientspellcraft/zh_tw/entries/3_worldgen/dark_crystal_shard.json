@@ -1,0 +1,29 @@
+{
+	"name": "Dark Crystal Veins",
+	"icon": "ancientspellcraft:crystal_ore_sorcery",
+	"category": "3_worldgen",
+	"sortnum": 5,
+	"pages": [
+		{
+			"type": "spotlight",
+			"item": "ancientspellcraft:crystal_ore_necromancy",
+			"text": " Deep under the darkest Swamps can the Dark Crystals of Necromancy be found.",
+			"link_recipe": false
+		},
+		{
+			"type": "image",
+			"border": true,
+			"images": [
+				"ancientspellcraft:textures/gui/entries/dark_ore_shard.png"
+			],
+			"title": "Dark Crystal Veins",
+			"text": ""
+		},
+		{
+			"type": "crafting",
+			"recipe": "ancientspellcraft:magic_crystal_necromancy",
+			"title": "Dark Crystal",
+			"text": "        Crafting Table"
+		}
+	]
+}
