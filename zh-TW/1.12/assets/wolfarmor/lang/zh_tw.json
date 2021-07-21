@@ -1,7 +1,7 @@
 {
-    "item.wolfarmor.leatherWolfArmor.name": "皮革狼鎧",
+    "item.wolfarmor.leatherWolfArmor.name": "Leather Wolf Armor",
     "item.wolfarmor.chainWolfArmor.name": "Chain Wolf Armor",
-    "item.wolfarmor.ironWolfArmor.name": "鐵製狼鎧",
+    "item.wolfarmor.ironWolfArmor.name": "Iron Wolf Armor",
     "item.wolfarmor.goldWolfArmor.name": "Gold Wolf Armor",
     "item.wolfarmor.diamondWolfArmor.name": "Diamond Wolf Armor\n",
     "config.wolfarmor.general.enableChests": "Enable Wolf Chests",
@@ -24,16 +24,16 @@
     "config.wolfarmor.general.chestSize.vertical.comment": "Sets the vertical size of the wolf chest\n",
     "advancements.husbandry.armor_up.title": "Armor Up!",
     "advancements.husbandry.armor_up.description": "Equip your wolf with some armor",
-    "advancements.husbandry.wolf_pack.title": "狼群",
+    "advancements.husbandry.wolf_pack.title": "Wolf Pack",
     "advancements.husbandry.wolf_pack.description": "Equip your wolf with a chest\n",
     "inventory.wolfarmor.wolf": "%1$s\n",
     "gui.wolfarmor.config": "Wolf Armor Mod",
     "gui.wolfarmor.config.subtitle": "Configuration Settings",
-    "gui.wolfarmor.config.category.general": "一般設定",
+    "gui.wolfarmor.config.category.general": "General Settings",
     "gui.wolfarmor.config.category.client": "Client-Side Settings",
     "gui.wolfarmor.config.category.client.render": "Rendering Settings",
     "gui.wolfarmor.config.category.client.gui": "UI Settings",
     "gui.wolfarmor.config.category.behavior": "Custom Behaviors",
     "gui.wolfarmor.inventory.remove_chest": "Remove Chest\n",
-    "entity.wolfarmor.wolf_armored.name": "狼"
+    "entity.wolfarmor.wolf_armored.name": "Wolf"
 }
