@@ -1,0 +1,29 @@
+{
+    "name": "Tesla Power Tap",
+    "icon": "bigreactors:turbinepowertaptesla",
+    "category": "bigreactors:turbine-parts",
+    "read_by_default": true,
+    "sortnum": 8,
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "bigreactors:turbinepowertaptesla",
+            "link_recipe": true,
+            "title" : "Tesla Power Tap",
+            "text": "The Tesla Power Tap allow you to extract energy from a Turbine.$(br2)This Power Tap can output energy using the Tesla $(l:misc/powersystem)power system$(/l) and it can be connected only to pipes or machines compatible with that system."
+        },
+        {
+            "type": "text",
+            "text": "Only one type of Power Tap can be used to build a single Turbine."
+        },
+        {
+            "type": "crafting",
+            "recipe": "bigreactors:turbinepowertaptesla",
+            "title": "Tesla Power Tap"
+        },
+        {
+            "type": "part_usage",
+            "text": "$(l)Mandatory:$() no$(br)$(l)Valid positions:$() any face (not on frame)$(br)$(l)Graphical interface:$() no$(br)$(l)Power system:$() Tesla"
+        }
+    ]
+}
