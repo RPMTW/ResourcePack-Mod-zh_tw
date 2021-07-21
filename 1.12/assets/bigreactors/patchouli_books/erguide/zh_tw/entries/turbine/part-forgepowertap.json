@@ -1,0 +1,29 @@
+{
+    "name": "Redstone Flux Power Tap",
+    "icon": "bigreactors:turbinepowertaprf",
+    "category": "bigreactors:turbine-parts",
+    "read_by_default": true,
+    "sortnum": 8,
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "bigreactors:turbinepowertaprf",
+            "link_recipe": true,
+            "title" : "Redstone Flux Power Tap",
+            "text": "The Redstone Flux Power Tap allow you to extract energy from a Turbine.$(br2)This Power Tap can output energy using the Redstone Flux or Forge Energy $(l:misc/powersystem)power systems$(/l) and it can be connected only to pipes or machines compatible with those systems."
+        },
+        {
+            "type": "text",
+            "text": "Only one type of Power Tap can be used to build a single Turbine."
+        },
+        {
+            "type": "crafting",
+            "recipe": "bigreactors:turbinepowertaprf",
+            "title": "Redstone Flux Power Tap"
+        },
+        {
+            "type": "part_usage",
+            "text": "$(l)Mandatory:$() no$(br)$(l)Valid positions:$() any face (not on frame)$(br)$(l)Graphical interface:$() no$(br)$(l)Power system:$() Redstone Flux and Forge Energy"
+        }
+    ]
+}
