@@ -5,7 +5,7 @@
     "item.morebuckets.aluminum_bucket.name": "Aluminum Bucket",
     "item.morebuckets.copper_bucket.name": "Copper Bucket",
     "item.morebuckets.tin_bucket.name": "Tin Bucket",
-    "item.morebuckets.rubber_bucket.name": "橡膠桶",
+    "item.morebuckets.rubber_bucket.name": "Rubber Bucket",
     "item.morebuckets.silver_bucket.name": "Silver Bucket",
     "item.morebuckets.quartz_bucket.name": "Quartz Bucket",
     "item.morebuckets.obsidian_bucket.name": "Obsidian Bucket",
@@ -24,6 +24,6 @@
     "item.morebuckets.cobalt_bucket.name": "Cobalt Bucket",
     "item.morebuckets.manyullyn_bucket.name": "Manyullyn Bucket",
     "_comment_2": " TOOLTIPS",
-    "tooltip.morebuckets.empty": "空",
+    "tooltip.morebuckets.empty": "Empty",
     "tooltip.morebuckets.buckets": "%s/%s - %s"
 }
