@@ -1,14 +1,14 @@
 {
-    "name": "魔力的介紹",
+    "name": "Introduction to Mana",
     "icon": "xat:textures/gui/patchouli_textures/mana_icon.png",
-    "category": "魔力",
+    "category": "mana",
     "pages": [
         {
             "type": "text",
             "text": "Mana is a feature introduced in version 0.31 which exists to balance out stronger trinkets and race abilities. These trinkets and races can consume from your mana supply, however given time your mana supply will regenerate. You start with 100 mana, however this can be increased or decreased with certain items or by playing as certain races."
         },
         {
-            "type": "合成",
+            "type": "crafting",
             "text": "For those that need a quick boost in mana, mana candies have you covered. These restore 50 mana each (by default).",
             "recipe": "xat:mana_candy"
         }
