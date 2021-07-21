@@ -15,7 +15,7 @@ async function LangToJson(path) {
     let obj = {}, last_key = null, comment_counter = 0
 
     for await (const line of rl) {
-        if (line.startsWith("#")) {
+        if (line.startsWith("#") || line.startsWith("//")) {
             continue;
         } else if (line.indexOf("=") === -1) {
             if (last_key === null) continue
