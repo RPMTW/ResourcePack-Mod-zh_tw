@@ -16,11 +16,11 @@ async function LangToJson(path) {
 
     for await (const line of rl) {
         if (line.startsWith("#")) {
-            obj[`_comment_${comment_counter++}`] = line.substring(1, line.length)
+            continue;
         } else if (line.indexOf("=") === -1) {
             if (last_key === null) continue
             if (line === "") continue
-            
+
             obj[last_key] += `\n${line}`
         } else if (line.indexOf("=") !== -1) {
             if (line.split("=").length === 2) {
