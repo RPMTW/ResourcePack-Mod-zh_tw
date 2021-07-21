@@ -1,7 +1,7 @@
 const path = require("path");
 const fs = require("fs");
 const config = require(`${process.cwd()}/config.json`)
-const {LangToJson} = require("./LangToJson");
+const { LangToJson } = require("./LangToJson");
 const {
     parse,
     stringify
@@ -80,7 +80,9 @@ async function LangFile(ModID, slug, id, name) {
             console.log(`寫入語系檔案時發生未知錯誤。\n錯誤模組檔案: ${name} (${id}-${ModID})\n錯誤原因: ${error}`);
         }
         CurseForgeIndex(ModID, id, name);
-        delDir(`${process.cwd()}/../jar/${slug}`);
+        setTimeout(() => {
+            delDir(`${process.cwd()}/../jar/${slug}`);
+        }, 1500);
         return console.log(`處理 ${name} (${id}-${ModID}) 的原始語系檔案完成`);
     })
 }
