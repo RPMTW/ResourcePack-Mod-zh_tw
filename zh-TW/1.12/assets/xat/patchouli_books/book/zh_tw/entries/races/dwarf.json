@@ -1,5 +1,5 @@
 {
-    "name": "矮人",
+    "name": "Dwarf",
     "icon": "xat:dwarf_ring",
     "category": "races",
     "pages": [
@@ -16,7 +16,7 @@
             "text": "$(l)Ability: Skilled Miner$()$(br)Dwarves mine all blocks at a fixed speed, gain more experience points for mining ores, apply 3 bonus psuedo-fortune levels to loot drops, and can mine blocks that require one pickaxe tier higher than their currently held pickaxe."
         },
         {
-            "type": "合成",
+            "type": "crafting",
             "recipe": "xat:dwarf_stout",
             "recipe2": "xat:dwarf_ring"
         }
