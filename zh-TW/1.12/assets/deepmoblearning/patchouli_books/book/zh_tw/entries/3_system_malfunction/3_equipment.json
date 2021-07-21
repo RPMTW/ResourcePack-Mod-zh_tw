@@ -1,5 +1,5 @@
 {
-  "name": "設備",
+  "name": "裝備",
   "icon": "deepmoblearning:glitch_infused_helmet",
   "category": "3_system_malfunction",
   "sortnum": 3,
@@ -12,15 +12,15 @@
       "type": "recipelookup",
       "recipe": "deepmoblearning:glitch_infused_helmet",
       "recipe2": "deepmoblearning:glitch_infused_chestplate",
-      "title": "故障頭盔",
-      "title2": "故障胸甲"
+      "title": "Glitch Helmet",
+      "title2": "Glitch Chestplate"
     },
     {
       "type": "recipelookup",
       "recipe": "deepmoblearning:glitch_infused_leggings",
       "recipe2": "deepmoblearning:glitch_infused_boots",
-      "title": "故障護腿",
-      "title2": "故障鞋子"
+      "title": "Glitch Leggings",
+      "title2": "Glitch Boots"
     },
     {
       "type": "recipelookup",
