@@ -1,5 +1,5 @@
 {
-    "name": "槍支工作台",
+    "name": "Gun Table",
     "icon": "hwg:gun_table",
     "category": "hwg:weapons_category",
     "pages": [
@@ -10,7 +10,7 @@
             "text": "The main station for crafting guns and ammo. Also gives a villager the Gun Smith profession if they don't have a job."
         },
         {
-            "type": "合成",
+            "type": "crafting",
             "recipe": "hwg:gun_table"
         }
     ]
