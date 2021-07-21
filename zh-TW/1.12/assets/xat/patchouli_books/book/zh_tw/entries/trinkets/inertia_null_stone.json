@@ -8,7 +8,7 @@
             "text": "The Stone of Inertia Null grants its wearer fall damage and knockback immunity. This is used to craft the Stone of Greater Inertia."
         },
         {
-            "type": "合成",
+            "type": "crafting",
             "text": "$(o)Me: Mom, can we have Cobalt Shield?$(br2)Mom: We have Cobalt Shield at home.$(br2)Cobalt Shield at home:",
             "recipe": "xat:inertia_null_stone"
         }
