@@ -1,0 +1,29 @@
+{
+    "name": "Fuel Rod",
+    "icon": "bigreactors:reactorfuelrod",
+    "category": "bigreactors:reactor-parts",
+    "read_by_default": true,
+    "sortnum": 4,
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "bigreactors:reactorfuelrod",
+            "link_recipe": true,
+            "title" : "Fuel Rod",
+            "text": "The Fuel Rod are placed inside your Reactor in long horizontal or vertical piles.$(br2)They act as a reservoir of reactants, either fuel or waste or a mix of the two, and are irradiated when the Reactor is active to generate the heat that ultimately will be converted to energy or used to vaporize coolants."
+        },
+        {
+            "type": "text",
+            "text": "The first Fuel Rod of each pile must follow a $(l:reactor/part-casing)Casing block$(/l) and the last Fuel Rod of each pile must the followed by a $(l:reactor/part-controlrod)Control Rod$(/l).$(br2)You can make all your Fuel Rod piles vertical (following the Y axis) or horizontal (following either the X or Z axis) but you can't mix and match.$(br2)Note that as a consequence of this requirement, all your Control Rods must be placed on the same face of the Reactor."
+        },
+        {
+            "type": "crafting",
+            "recipe": "bigreactors:reactorfuelrod_vanillaglass",
+            "title": "Fuel Rod"
+        },
+        {
+            "type": "part_usage",
+            "text": "$(l)Mandatory:$() yes$(br)$(l)Valid positions:$() inside the Reactor$(br)$(l)Graphical interface:$() no"
+        }
+    ]
+}
