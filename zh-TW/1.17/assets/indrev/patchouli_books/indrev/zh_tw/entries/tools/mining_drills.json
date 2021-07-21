@@ -5,12 +5,12 @@
   "icon": "indrev:mining_drill_mk1",
   "pages": [
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "indrev:shaped/mining_drill_mk1",
       "recipe2": "indrev:shaped/mining_drill_mk2"
     },
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "indrev:shaped/mining_drill_mk3",
       "recipe2": "indrev:shaped/mining_drill_mk4"
     }
