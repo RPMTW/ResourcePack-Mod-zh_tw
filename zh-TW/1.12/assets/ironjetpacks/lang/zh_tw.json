@@ -3,7 +3,7 @@
     "itemGroup.ironjetpacks": "鐵製噴氣背包",
     "_comment_1": " KEYBINDS",
     "key.ij.engine": "Toggle Engine",
-    "key.ij.hover": "Toggle Hover Mode",
+    "key.ij.hover": "切換懸停模式",
     "_comment_2": " ITEMS",
     "item.ij.strap.name": "Leather Strap",
     "item.ij.basic_coil.name": "Basic Coil",
@@ -30,8 +30,8 @@
     "tooltip.ij.hori_speed": "Horizontal Speed: %s",
     "tooltip.ij.hover_speed": "Hover Speed: %s",
     "tooltip.ij.desc_speed": "Descend Speed: %s",
-    "tooltip.ij.sprint_mod": "Sprint Modifier: %s",
-    "tooltip.ij.sprint_fuel": "Sprint Fuel Modifier: %s",
+    "tooltip.ij.sprint_mod": "衝刺強化: %s",
+    "tooltip.ij.sprint_fuel": "衝刺燃料改性劑: %s",
     "tooltip.ij.toggle_engine": "Toggled Engine ",
     "tooltip.ij.toggle_hover": "Toggled Hover "
 }
