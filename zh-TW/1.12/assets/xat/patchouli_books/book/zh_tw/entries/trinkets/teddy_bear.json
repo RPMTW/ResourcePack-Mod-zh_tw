@@ -1,0 +1,20 @@
+{
+    "name": "Teddy Bear",
+    "icon": "xat:teddy_bear",
+    "category": "trinkets",
+    "pages": [
+        {
+            "type": "text",
+            "text": "The Teddy Bear grants its wearer configurable buffs upon sleeping.$(br2)Item idea originally by Rembo"
+        },
+        {
+            "type": "text",
+            "text": "$(l)Default Effects:$()$(br)$(d)Regeneration$()$(br)$(2)Luck$()$(br)$(4)Health Boost II$()$(br2)$(l)Mod Compatibility:$()$(br)$(n)Lycanites$(): Prevents Fear and Insomnia status effects"
+        },
+        {
+            "type": "crafting",
+            "text": "$(o)Some are still traumatized from its original fear-striking stare.",
+            "recipe": "xat:teddy_bear"
+        }
+    ]
+}

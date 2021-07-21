@@ -1,0 +1,20 @@
+{
+    "name": "Stone of Greater Inertia",
+    "icon": "xat:greater_inertia_stone",
+    "category": "trinkets",
+    "pages": [
+        {
+            "type": "text",
+            "text": "The Stone of Greater Inertia grants increased speed and jump height, however only grants partial knockback and fall damage resistance."
+        },
+        {
+            "type": "text",
+            "text": "$(l)Default Attribute modifiers:$()$(br)$(2)+75%$() Fall Damage Resistance$(br)$(2)+40%$() Knockback Resistance$(br)$(2)+150%$() Movement Speed$(br)$(2)+200%$() Jump Height"
+        },
+        {
+            "type": "crafting",
+            "text": "$(o)Trinkets & Baubles 100% in 2:23:54",
+            "recipe": "xat:greater_inertia_stone"
+        }
+    ]
+}
