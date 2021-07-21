@@ -1,10 +1,10 @@
 {
-  "name": "櫻桃派",
+  "name": "Cherry Pie",
   "icon": "作物方城市:櫻桃派",
   "category": "作物方城市:甜點",
   "pages": [
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "作物方城市:櫻桃派",
       "text": "Recipe for a cherry pie."
     }
