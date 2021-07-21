@@ -1,10 +1,10 @@
 {
-  "name": "玉米餅",
+  "name": "Quesadilla",
   "icon": "croptopia:quesadilla",
   "category": "作物方城市:餐點",
   "pages": [
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "croptopia:quesadilla",
       "text": "食譜指南"
     }
