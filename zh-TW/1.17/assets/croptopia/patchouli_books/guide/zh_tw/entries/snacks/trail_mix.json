@@ -1,11 +1,11 @@
 {
-  "name": "什錦雜果",
+  "name": "Trail Mix",
   "icon": "作物方城市:什錦雜果",
   "category": "croptopia:snacks",
   "pages": [
     {
-      "type": "合成",
-      "recipe": "作物方城市:什錦雜果",
+      "type": "crafting",
+      "recipe": "croptopia:trail_mix",
       "text": "Recipe for making trail mix."
     }
   ]
