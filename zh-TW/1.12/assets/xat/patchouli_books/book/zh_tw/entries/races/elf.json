@@ -1,5 +1,5 @@
 {
-    "name": "高階精靈",
+    "name": "Elf",
     "icon": "xat:elf_ring",
     "category": "races",
     "pages": [
@@ -16,7 +16,7 @@
             "text": "$(l)Ability: Charged Bow Shot$()$(br)Sneaking while drawing a bow activates a power shot, strengthening the damage at the cost of 20 mana."
         },
         {
-            "type": "合成",
+            "type": "crafting",
             "recipe": "xat:elf_sap",
             "recipe2": "xat:elf_ring"
         }
