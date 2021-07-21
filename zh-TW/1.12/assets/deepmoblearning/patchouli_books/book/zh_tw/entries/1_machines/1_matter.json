@@ -16,7 +16,7 @@
       "text": "$(item)Living Matter$() is a versatile matter that can be used to $(item)Transmute$() ingredients local to that $(item)Habitat$(), check $(item)JEI$() to see what recipes are available.$(br2)You can also consume $(item)Living Matter$() to gain $(item)Experience$()."
     },
     {
-      "type": "合成",
+      "type": "crafting",
       "title": "Example Transmutes",
       "recipe": "deepmoblearning:living_matter_exchange/transmutes1_hellish/recipe0_soul_sand",
       "recipe2": "deepmoblearning:living_matter_exchange/transmutes2_extraterrestrial/recipe2_ender_pearl",
