@@ -1,5 +1,5 @@
 {
-  "name": "頭號玩家斧",
+  "name": "Gamer Axe",
   "category": "indrev:tools",
   "sortnum": 5,
   "icon": "indrev:gamer_axe",
@@ -9,7 +9,7 @@
       "text": "頭號玩家斧是終極的遊戲工具。 安裝模組後能快速的挖掘，也有大量的攻擊傷害。$(br)別它看只是一根棍子，試試啟動它...$(br2)右擊來啟動它。"
     },
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "indrev:shaped/gamer_axe"
     }
   ]
