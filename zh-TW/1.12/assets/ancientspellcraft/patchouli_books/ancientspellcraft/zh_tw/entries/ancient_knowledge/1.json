@@ -1,0 +1,25 @@
+{
+	"name": "Remnants of the past",
+	"icon": "ancientspellcraft:ancient_spellcraft_spell_book",
+	"category": "ancient_knowledge",
+	"sortnum": 0,
+	"advancement": "ancientspellcraft:relics",
+	"pages": [
+		{
+			"type": "text",
+			"text": " Only a few remnants of the old wizard civilization can be found in this era. Many spells and ancient techniques were said to be lost to the ages... the magical seals have weakened and faded away, books have crumbled into dust. $(br) Only the most mundane form of knowledge persisted - Stone Tablets, enchanted and bound runes, runic mana flasks"
+		},
+		{
+			"type": "text",
+			"text": " and so on. Meanwhile most wizards can live for centuries, even the oldest of today can be considered young compared to the age of these relics. It is unknown why the spell books and arcane wizard robes didn't resist the ravages of time, even though these are usually enchanted with seals and incantations which prevents any kind of physical harm or aging. Theories are widely known, but few can be taken seriously. One such theory, mostly accepted by the"
+		},
+		{
+			"type": "text",
+			"text": "wizardfolk is about a cataclysmic event which possibly happened thousands of years ago, usually referred to as $(o)The Rift$(). $(br) Details are unknown, but based on the very few evidence discovered by wizards and scholars, all powerful forms of magic was wiped out of the Overworld when $(o)The Rift$() had happened. Perhaps a powerful ritual went wrong and wiped out everything? Or the ancient wizards hid their knowledge"
+		},
+		{
+			"type": "text",
+			"text": " because of a new threat? Probably we'll never find out the real truth."
+		}
+	]
+}
