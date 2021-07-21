@@ -6,7 +6,7 @@
   "pages": [
     {
       "type": "spotlight",
-      "title": "Energy",
+      "title": "能量",
       "item": "minecraft:redstone",
       "text": "This mod adds no way of producing $(item)Energy$(), so you will need some sort of $(item)Generator$() from another mod to power the $(item)Machines$()."
     },
