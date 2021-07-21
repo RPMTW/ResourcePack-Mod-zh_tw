@@ -1,10 +1,10 @@
 {
-  "name": "炒蛋",
+  "name": "Scrambled Eggs",
   "icon": "croptopia:scrambled_eggs",
   "category": "croptopia:snacks",
   "pages": [
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "croptopia:scrambled_eggs",
       "text": "Recipe for making scrambled eggs."
     }
