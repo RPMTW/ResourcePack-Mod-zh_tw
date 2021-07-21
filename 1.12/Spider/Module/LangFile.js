@@ -80,9 +80,6 @@ async function LangFile(ModID, slug, id, name) {
             console.log(`寫入語系檔案時發生未知錯誤。\n錯誤模組檔案: ${name} (${id}-${ModID})\n錯誤原因: ${error}`);
         }
         CurseForgeIndex(ModID, id, name);
-        setTimeout(() => {
-            delDir(`${process.cwd()}/../jar/${slug}`);
-        }, 1500);
         return console.log(`處理 ${name} (${id}-${ModID}) 的原始語系檔案完成`);
     })
 }
