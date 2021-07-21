@@ -1,10 +1,10 @@
 {
-  "name": "玉米殼",
+  "name": "Corn Husk",
   "icon": "croptopia:corn_husk",
   "category": "croptopia:ingredients",
   "pages": [
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "croptopia:corn_husk",
       "text": "食譜指南"
     }
