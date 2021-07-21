@@ -1,0 +1,32 @@
+{
+	"name": "Studying Spells",
+	"icon": "ebwizardry:spell_book",
+	"category": "2_researching",
+	"sortnum": 0,
+	"pages": [
+		{
+			"type": "text",
+			"text": " Meanwhile Scrolls of Identification can greatly simplify the process of recognizing an unknown spell with a simple incantation over the unknown book or scroll, they are a very asset. This is likely due to the fact that the process of creating such scrolls were lost to the ages and they can only be found or traded for a great price."
+		},
+		{
+			"type": "text",
+			"text": "Its possible to cast a spell without knowing it, but only the most brave (or foolish?) wizards rely on such methods as the results can be catastrophic. $(br) Fortunately a group of resourceful wizards have invented a method to study their newfound spells in a safer way. Their research concluded in a new tool - the Sphere of Cognizance. What are wizards without their crystal balls anyways? The Sphere of Cognizance can be an essential"
+		},
+		{
+			"type": "text",
+			"text": "tools for identifying unknown spells.$(br) By fuelling the process with raw magic crystals and concentrating their mind to the Sphere, wizards can learn clues about the very nature of a spell which was put under the Sphere without actually casting the spell. Not just the elemental affinity of the spell can be revealed this way, but the purpose of the spell too - let it be a summoning incantation or a protective aura around the caster. There"
+		},
+		{
+			"type": "spotlight",
+			"item": "ancientspellcraft:sphere_cognizance",
+			"text": " is also a slight chance to $(br)  discover the spell's name. The Sphere can be an useful addition to a Wizard's arsenal of magical tools - and a shiny decoration to a library of spells",
+			"link_recipe": false
+		},
+		{
+			"type": "crafting",
+			"recipe": "ancientspellcraft:sphere_cognizance",
+			"title": "Sphere of Cognizance",
+			"text": "The Sphere can be crafted at a crafting table"
+		}
+	]
+}
