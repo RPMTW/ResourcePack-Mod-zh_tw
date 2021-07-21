@@ -3094,11 +3094,11 @@
     "botania.subtitle.way": "O-oooooooooo AAAAE-A-A-I-A-U-JO-oooooooooooo AAE-O-A-A-U-U-A-E-eee-ee-eee AAAAE-A-E-I-E-A-JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA O-oooooooooo AAAAE-A-A-I-A-U-JO-oooooooooooo AAE-O-A-A-U-U-A-E-eee-ee-eee AAAAE-A-E-I-E-A-JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA O-oooooooooo AAAAE-A-A-I-A-U-JO-oooooooooooo AAE-O-A-A-U-U-A-E-eee-ee-eee AAAAE-A-E-I-E-A-JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA",
     "botania.challenge.contest_2021": "Summer 2021 Contest",
     "botania.challenge.contest_2021.desc": "All Botania lovers are invited to participate in the Summer 2021 Botania Build Contest! Show off your best Botania contraptions and win exciting prizes, maybe even a featured spot on the Botania website!",
-    "block.botania.labellia": "標籤小姐",
+    "block.botania.labellia": "Labellia",
     "block.botania.labellia.reference": "The engineer's second hardest problem",
-    "botania.entry.labellia": "標籤小姐",
-    "botania.tagline.labellia": "重新命名事物",
-    "botania.page.labellia0": "利用一個中等數量的 $(thing)瑪娜$(0)， $(item)標籤小姐$(0) 拿起掉在上面的 $(thing)命名牌$(0) ，並使用它們命名5x5半徑內的物件和生物。",
-    "botania.page.labellia1": "$(o)名稱中有什麼？$()。",
-    "botania.subtitle.labellia": "標籤小姐又重新命名了東西"
+    "botania.entry.labellia": "Labellia",
+    "botania.tagline.labellia": "Renames things",
+    "botania.page.labellia0": "For a moderate sum of $(thing)Mana$(0), the $(item)Labellia$(0) picks up $(thing)Name Tags$(0) dropped on top of it, and uses them to name nearby items and mobs within a 5x5 radius.",
+    "botania.page.labellia1": "$(o)What's in a name?$().",
+    "botania.subtitle.labellia": "Labellia renames something"
 }
