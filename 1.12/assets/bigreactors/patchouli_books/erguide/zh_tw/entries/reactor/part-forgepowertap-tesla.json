@@ -1,0 +1,29 @@
+{
+    "name": "Tesla Power Tap",
+    "icon": "bigreactors:reactorpowertaptesla",
+    "category": "bigreactors:reactor-parts",
+    "read_by_default": true,
+    "sortnum": 8,
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "bigreactors:reactorpowertaptesla",
+            "link_recipe": true,
+            "title" : "Tesla Power Tap",
+            "text": "The Tesla Power Tap allow you to extract energy from a $(l:reactor/passive)passively cooled$(/l) Reactor.$(br2)This Power Tap can output energy using the Tesla $(l:misc/powersystem)power system$(/l) and it can be connected only to pipes or machines compatible with that system."
+        },
+        {
+            "type": "text",
+            "text": "Only one type of Power Tap can be used to build a single Reactor."
+        },
+        {
+            "type": "crafting",
+            "recipe": "bigreactors:reactorpowertaptesla",
+            "title": "Tesla Power Tap"
+        },
+        {
+            "type": "part_usage",
+            "text": "$(l)Mandatory:$() no$(br)$(l)Valid positions:$() any face (not on frame)$(br)$(l)Graphical interface:$() no$(br)$(l)Power system:$() Tesla"
+        }
+    ]
+}

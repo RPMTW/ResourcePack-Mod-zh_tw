@@ -74,5 +74,10 @@
     "window.saveAs.confirmOverwrite": "File already exists! Confirm overwrite?",
     "window.saveAs.failed": "Failed to save file.",
     "tile.ichunutil.block.compactporkchop.name": "Compact Raw Porkchop",
-    "entity.EntityBlock.name": "Block Entity"
+    "entity.EntityBlock.name": "Block Entity",
+    "ichunutil.config.prop.enableLatchedRendererSpawn.name": "Enable Latched Renderer Spawn?",
+    "ichunutil.config.prop.enableLatchedRendererSpawn.comment": "Set this to 0 if you find that iChunUtil is spawning a lot of these entities and is causing lag. Might affect some of my mods. I've not been able to pinpoint the issue, mind, but if you are not having any memory issues ignore this setting.",
+    "ichunutil.config.cat.module.eula.name": "EULA",
+    "ichunutil.config.cat.module.eula.comment": "EULA settings.",
+    "ichunutil.config.prop.eulaAcknowledged.name": "EULA acknowledged"
 }

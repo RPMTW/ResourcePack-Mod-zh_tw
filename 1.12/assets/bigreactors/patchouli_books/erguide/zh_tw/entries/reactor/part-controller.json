@@ -1,0 +1,29 @@
+{
+    "name": "Controller",
+    "icon": "bigreactors:reactorcontroller",
+    "category": "bigreactors:reactor-parts",
+    "read_by_default": true,
+    "sortnum": 3,
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "bigreactors:reactorcontroller",
+            "link_recipe": true,
+            "title" : "Controller",
+            "text": "The Controller is your main interface to the Reactor.$(br2)Right click on the Controller to open it's graphical user interface and from there you can turn the Reactor on or off, check how much reactants are present in the Fuel Rods, how hot the Reactor is and so on."
+        },
+        {
+            "type": "text",
+            "text": "Depending on the operational mode of the Reactor, you can also check the status of it's internal energy buffer and production ratio for $(l:reactor/passive)passively cooled$(/l) Reactors or the amount of coolants and vapors present in an $(l:reactor/active)actively cooled$(/l) Reactor."
+        },
+        {
+            "type": "crafting",
+            "recipe": "bigreactors:reactorcontroller",
+            "title": "Controller"
+        },
+        {
+            "type": "part_usage",
+            "text": "$(l)Mandatory:$() at least one is required$(br)$(l)Valid positions:$() any face (not on frame)$(br)$(l)Graphical interface:$() yes"
+        }
+    ]
+}
