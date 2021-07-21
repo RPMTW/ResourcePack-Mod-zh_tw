@@ -1,7 +1,7 @@
 {
     "endercore.tooltip.oreDictNames": "Ore Dictionary Names:",
     "endercore.tooltip.showDetails": "<Hold Shift>",
-    "endercore.tooltip.durability": "耐久度：",
+    "endercore.tooltip.durability": "Durability:",
     "endercore.command.config.result.success": "Reloading configs for %s was successful",
     "endercore.command.config.result.fail": "Reloading configs for %s failed",
     "endercore.command.config.result.invalid": "Modid %s is not valid",
@@ -18,5 +18,5 @@
     "endercore.chat.invis.warn.4": "This warning will only show once unless configured otherwise.",
     "endercore.chat.invis.reason.1": "as requested by mod(s): %s",
     "endercore.chat.invis.reason.2": "as configured",
-    "endercore.config.title": "終界核心"
+    "endercore.config.title": "Ender Core"
 }
