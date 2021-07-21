@@ -2088,6 +2088,6 @@
     "text.autoconfig.byg/byg-world.option.OverworldDimension.Ores.Pendorite.YLevel.@PrefixText": "\n高度(Y)開始生成於。\n預設值: 56",
     "text.autoconfig.byg/byg-world.option.OverworldDimension.Ores.Pendorite.Size": "Cluster Size",
     "text.autoconfig.byg/byg-world.option.OverworldDimension.Ores.Pendorite.Size.@PrefixText": "\nSize of the clusters.\nDefault: 4",
-    "text.autoconfig.byg/byg-world.option.OverworldDimension.Ores.Pendorite.PerChunk": "Spawn Per Chunk",
+    "text.autoconfig.byg/byg-world.option.OverworldDimension.Ores.Pendorite.PerChunk": "生成每區塊",
     "text.autoconfig.byg/byg-world.option.OverworldDimension.Ores.Pendorite.PerChunk.@PrefixText": "\nNumber of times to spawn per chunk.\nDefault: 10"
 }
