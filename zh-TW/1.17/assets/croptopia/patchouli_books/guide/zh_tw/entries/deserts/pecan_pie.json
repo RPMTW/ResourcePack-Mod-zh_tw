@@ -1,10 +1,10 @@
 {
-  "name": "核桃派",
+  "name": "Pecan Pie",
   "icon": "作物方城市:核桃派",
   "category": "作物方城市:甜點",
   "pages": [
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "作物方城市:核桃派",
       "text": "Recipe for a pecan pie."
     }
