@@ -12,7 +12,7 @@
             "text": "$(l)Default Attribute modifiers:$()$(br)$(2)+10%$() Movement Speed$(br2)$(l)Mod Compatibility:$()$(br)$(n)Lycanites$(): Immunity to the stunned potion effect"
         },
         {
-            "type": "合成",
+            "type": "crafting",
             "text": "$(o)But first, $(l:https://www.youtube.com/watch?v=kpk2tdsPh0A&t=638s)we need to talk about parallel universes.$(/l)",
             "recipe": "xat:arcing_orb"
         }
