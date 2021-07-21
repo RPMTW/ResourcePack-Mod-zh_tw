@@ -1,7 +1,7 @@
 {
     "_comment_0": " FORMATS",
-    "_comment_1": "# Astral Sorcery",
-    "compatskills.requirements.format.constellation.seen": "Constellation Seen: %s%s",
+    "_comment_1": "# 星輝魔法",
+    "compatskills.requirements.format.constellation.seen": "看到的星座:%s%s",
     "compatskills.requirements.format.constellation.known": "Constellation Discovered: %s%s",
     "compatskills.requirements.format.attuned": "Attuned: %s%s",
     "compatskills.requirements.format.astral_tier": "Tier: %s%s\n",
@@ -51,7 +51,7 @@
     "compatskills.error.wizardry.upgrade": "You do not meet the requirements for the upgrade you are trying to use.",
     "compatskills.error.wizardry.spell": "You do not meet the requirements for the spell you are trying to install.\n\n",
     "_comment_16": "# Minecraft",
-    "_comment_17": "## Dimension",
+    "_comment_17": "## 維度",
     "compatskills.error.dimension.travel": "A strange power is stopping you from reaching your destination\n",
     "_comment_18": "## 實體",
     "compatskills.error.entity.mount": "No matter how hard you try you are unable to find your balance, and fall off.",
@@ -63,8 +63,8 @@
     "compatskills.error.drops": "As you hammer away at the block, you realize you might be losing out on precious resources...\n",
     "_comment_21": "## Ore Excavation",
     "compatskills.error.ore_excavation": "As you excavate you start feeling a lack of control.\n\n",
-    "_comment_22": "# Misc:",
-    "compatskills.misc.requirements": "Requirements:",
+    "_comment_22": "# 音樂:",
+    "compatskills.misc.requirements": "要求:",
     "compatskills.misc.shift": "Press Shift to See Requirements\n",
-    "compatskills.misc.betterquesting.requirement_task": "Requirements"
+    "compatskills.misc.betterquesting.requirement_task": "要求"
 }
