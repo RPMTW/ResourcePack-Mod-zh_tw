@@ -1,5 +1,5 @@
 {
-  "name": "Data Models",
+  "name": "數據模型",
   "icon": "deepmoblearning:data_model_guardian",
   "category": "0_introduction",
   "sortnum": 2,
@@ -23,36 +23,36 @@
       "type": "recipelookup",
       "recipe": "deepmoblearning:data_model_zombie",
       "recipe2": "deepmoblearning:data_model_skeleton",
-      "title": "Zombie",
-      "title2": "Skeleton"
+      "title": "殭屍",
+      "title2": "骷髏"
     },
     {
       "type": "recipelookup",
       "recipe": "deepmoblearning:data_model_creeper",
       "recipe2": "deepmoblearning:data_model_spider",
-      "title": "Creeper",
-      "title2": "Spider"
+      "title": "苦力怕",
+      "title2": "蜘蛛"
     },
     {
       "type": "recipelookup",
       "recipe": "deepmoblearning:data_model_slime",
       "recipe2": "deepmoblearning:data_model_witch",
-      "title": "Slime",
-      "title2": "Witch"
+      "title": "史萊姆",
+      "title2": "女巫"
     },
     {
       "type": "recipelookup",
       "recipe": "deepmoblearning:data_model_blaze",
       "recipe2": "deepmoblearning:data_model_ghast",
-      "title": "Blaze",
-      "title2": "Ghast"
+      "title": "烈焰使者",
+      "title2": "地獄幽靈"
     },
     {
       "type": "recipelookup",
       "recipe": "deepmoblearning:data_model_wither_skeleton",
       "recipe2": "deepmoblearning:data_model_enderman",
-      "title": "Wither Skeleton",
-      "title2": "Enderman"
+      "title": "凋零骷髏",
+      "title2": "終界使者"
     },
     {
       "type": "recipelookup",
@@ -78,28 +78,28 @@
       "type": "recipelookup",
       "recipe": "deepmoblearning:data_model_twilight_forest",
       "recipe2": "deepmoblearning:data_model_twilight_swamp",
-      "title": "Twilight Forest",
-      "title2": "Twilight Swamp",
-      "flag": "mod:twilightforest"
+      "title": "暮光森林",
+      "title2": "暮光沼澤",
+      "flag": "模組:twilightforest"
     },
     {
       "type": "recipelookup",
       "recipe": "deepmoblearning:data_model_twilight_darkwood",
       "recipe2": "deepmoblearning:data_model_twilight_glacier",
-      "title": "Twilight Darkwood",
-      "title2": "Twilight Glacier",
-      "flag": "mod:twilightforest"
+      "title": "暮光暗木",
+      "title2": "暮光冰川",
+      "flag": "模組:twilightforest"
     },
     {
       "type": "recipelookup",
       "recipe": "deepmoblearning:data_model_mo_android",
       "title": "Rogue Android",
-      "flag": "mod:matteroverdrive"
+      "flag": "模組:matteroverdrive"
     },
     {
       "type": "recipelookup",
       "recipe": "deepmoblearning:data_model_tinker_slime",
-      "title": "Blue Slime",
+      "title": "藍色史萊姆",
       "flag": "mod:tconstruct"
     }
   ]

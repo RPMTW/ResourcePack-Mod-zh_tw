@@ -1,0 +1,19 @@
+{
+    "tile.chickenchunks:chunk_loader|0.name": "Chunk Loader",
+    "tile.chickenchunks:chunk_loader|1.name": "Spot Loader",
+    "chickenchunks.gui.name": "區塊載入器",
+    "chickenchunks.gui.showlasers": "顯示雷射",
+    "chickenchunks.gui.hidelasers": "隱藏雷射",
+    "chickenchunks.gui.chunk": "%d個區塊",
+    "chickenchunks.gui.chunks": "%d個區塊",
+    "chickenchunks.gui.radius": "半徑",
+    "chickenchunks.shape.square": "方形",
+    "chickenchunks.shape.circle": "圓形",
+    "chickenchunks.shape.linex": "X向線形",
+    "chickenchunks.shape.linez": "Z向線形",
+    "chickenchunks.accessdenied": "This Chunkloader does not belong to you.",
+    "command.ccdebug": "/ccdebug [dimension]",
+    "command.chunkloaders": "/chunkloaders",
+    "command.chunkloaders.denied": "You are not allowed to use the ChunkViewer.",
+    "command.chunkloaders.alreadyopen": "Chunk Viewer already open."
+}

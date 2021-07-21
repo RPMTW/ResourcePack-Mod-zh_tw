@@ -1,11 +1,11 @@
 {
-    "tile.compactchest.name": "Compact Chest",
+    "tile.compactchest.name": "密集儲物箱",
     "tile.chestBuilder.name": "Chest Builder",
-    "tile.barrel.name": "Barrel",
-    "tile.barrel_fluid.name": "Drum",
-    "item.backpack.name": "Backpack",
+    "tile.barrel.name": "木桶",
+    "tile.barrel_fluid.name": "鼓",
+    "item.backpack.name": "背包",
     "itemGroup.compactStorage": "CompactStorage",
-    "text.columns": "Columns",
-    "text.rows": "Rows",
-    "backpack.inv": "Backpack"
+    "text.columns": "欄位",
+    "text.rows": "多排",
+    "backpack.inv": "背包"
 }
