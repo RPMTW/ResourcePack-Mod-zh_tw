@@ -1,5 +1,5 @@
 {
-    "name": "小仙女",
+    "name": "Fairy",
     "icon": "xat:fairy_ring",
     "category": "races",
     "pages": [
@@ -16,7 +16,7 @@
             "text": "$(l)Ability: Creative Flight$()$(br)Fairies have the ability to fly exactly like a Creative Mode player would, though a bit slower. There is no cost to fly as a Fairy."
         },
         {
-            "type": "合成",
+            "type": "crafting",
             "recipe": "xat:fairy_dew",
             "recipe2": "xat:fairy_ring"
         }
