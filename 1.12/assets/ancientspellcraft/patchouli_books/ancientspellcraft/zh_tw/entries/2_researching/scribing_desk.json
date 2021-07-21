@@ -1,0 +1,32 @@
+{
+    "name": "Scribing Desk",
+    "icon": "ancientspellcraft:scribing_desk",
+    "category": "2_researching",
+    "sortnum": 3,
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "ancientspellcraft:scribing_desk",
+            "text": " The Scribing Desk can be used to put the knowledge learnt from relics into some practical usage...",
+            "link_recipe": false
+        },
+        {
+            "type": "crafting",
+            "recipe": "ancientspellcraft:scribing_desk",
+            "title": "Scribing Desk",
+            "text": "The Scribing Desk can be crafted at a crafting table"
+        },
+        {
+            "type": "image",
+            "images": [
+                "ancientspellcraft:textures/gui/entries/scribing_desk_gui_1.png"
+            ],
+            "title": "Scribing Desk",
+            "text": ""
+        },
+        {
+            "type": "text",
+            "text": "The Scribing Desk has 7 item slots. $(br)- The top left slot is for relics like stone tablets. $(br)- The bottom left slot is for Magic Crystals. $(br)- The book slot in the middle is for an empty, regular Book. $(br) - The bottom right slot is for Ink. $(br) -The three slots in the middle are for ingredients."
+        }
+    ]
+}
