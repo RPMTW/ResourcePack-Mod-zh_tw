@@ -13,17 +13,17 @@
       "text": "模組等級可以以任何您想要的方式配置，參見 $(l)按鍵設定$()以新增「模組化物品配置」的快捷鍵。"
     },
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "indrev:shaped/modular_armor_helmet",
       "recipe2": "indrev:shaped/modular_armor_chest"
     },
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "indrev:shaped/modular_armor_legs",
       "recipe2": "indrev:shaped/modular_armor_boots"
     },
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "indrev:shaped/modular_workbench",
       "text": "模組工作台用於將模組安裝到模組化裝甲上。安裝模組需要時間和一些能量！"
     }
