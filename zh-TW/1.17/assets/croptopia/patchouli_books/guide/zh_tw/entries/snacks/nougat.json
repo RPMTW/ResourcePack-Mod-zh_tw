@@ -1,10 +1,10 @@
 {
-  "name": "牛軋糖",
+  "name": "Nougat",
   "icon": "croptopia:nougat",
   "category": "croptopia:snacks",
   "pages": [
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "croptopia:nougat",
       "text": "Recipe for making nougat."
     }
