@@ -9,6 +9,22 @@ const {
 const CopyDir = require('./CopyDir').CopyDir;
 const CurseForgeIndex = require('./CurseForgeIndex').CurseForgeIndex;
 
+function delDir(path) { //資料夾/檔案迴圈刪除
+    let files = [];
+    if (fs.existsSync(path)) {
+        files = fs.readdirSync(path);
+        files.forEach((file) => {
+            let curPath = path + "/" + file;
+            if (fs.statSync(curPath).isDirectory()) {
+                delDir(curPath); //遞迴刪除資料夾
+            } else {
+                fs.unlinkSync(curPath); //刪除檔案
+            }
+        });
+        fs.rmdirSync(path);
+    }
+}
+
 async function LangFile(ModID, slug, id, name) {
     if (config.Blacklist_modId.includes(ModID)) return; //黑名單(模組ID)
 
@@ -64,6 +80,7 @@ async function LangFile(ModID, slug, id, name) {
             console.log(`寫入語系檔案時發生未知錯誤。\n錯誤模組檔案: ${name} (${id}-${ModID})\n錯誤原因: ${error}`);
         }
         CurseForgeIndex(ModID, id, name);
+        delDir(`${process.cwd()}/../jar/${slug}`);
         return console.log(`處理 ${name} (${id}-${ModID}) 的原始語系檔案完成`);
     })
 }
