@@ -1,15 +1,15 @@
 {
     "_comment_0": "Backup",
-    "aromabackup:backup.start.server": "Starting Backup. The server may lag for a bit!",
-    "aromabackup:backup.start.client": "Starting Backup. The world may lag for a bit!",
-    "aromabackup:backup.done.server": "Server Backup done!",
-    "aromabackup:backup.done.client": "World Backup done!",
-    "aromabackup:backup.failed.server": "Server Backup failed!",
-    "aromabackup:backup.failed.client": "World Backup failed!",
-    "aromabackup:backup.next.server": "Next scheduled Backup in %s minutes.",
-    "aromabackup:backup.next.client": "Next scheduled Backup in %s minutes.",
+    "aromabackup:backup.start.server": "正在備份中。伺服器可能會出現短暫的延遲!",
+    "aromabackup:backup.start.client": "執行備份中。世界可能會出現短暫的延遲!",
+    "aromabackup:backup.done.server": "伺服器備份完成!",
+    "aromabackup:backup.done.client": "世界備份完成!",
+    "aromabackup:backup.failed.server": "伺服器備份失敗!",
+    "aromabackup:backup.failed.client": "世界備份失敗!",
+    "aromabackup:backup.next.server": "下一階段的備份將在%s分鐘後進行。",
+    "aromabackup:backup.next.client": "下次計畫備份將在%s分鐘後進行。",
     "_comment_1": "Command",
-    "aromabackup:command.commandOverride": "Could not execute the %s command, because a backup is currently running.",
-    "aromabackup:command.alreadyrunning": "A backup is already running.",
-    "aromabackup:command.playerstarted": "%s started a backup."
+    "aromabackup:command.commandOverride": "無法執行 %s command，因為備份正在執行。",
+    "aromabackup:command.alreadyrunning": "備份已執行。",
+    "aromabackup:command.playerstarted": "%s開始備份。"
 }
