@@ -47,6 +47,7 @@ for (let k = 0; k < 1; k++) {
                         urllib.request(files[i].download_url, {
                             streaming: true,
                             followRedirect: true,
+                            timeout: [100000, 100000],
                         })
                             .then(result => {
                                 console.log(`${fileName.split(".jar")[0]} 下載完成。`);
