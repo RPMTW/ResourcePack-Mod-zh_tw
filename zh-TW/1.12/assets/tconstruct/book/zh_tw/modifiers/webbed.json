@@ -2,13 +2,13 @@
   "modifier": "webbed",
   "text": [
     {
-      "text": "All those sticky spider webs have to be good for something. Slow your enemies with them!"
+      "text": "那些黏人的蜘蛛網也是有用的東西。用它來緩速你的敵人的前進步伐吧！"
     }
   ],
   "effects": [
-    "Each level increases slow duration",
-    "Slow-motion",
-    "Multi level"
+    "每一個等級都會增加緩速時間",
+    "緩速的運動",
+    "多個等級"
   ],
   "demoTool": [
     "tconstruct:pickaxe",
