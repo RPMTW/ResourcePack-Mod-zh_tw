@@ -1,11 +1,11 @@
 {
   "name": "咖啡",
-  "icon": "作物方城市:咖啡",
-  "category": "作物方城市:飲料",
+  "icon": "croptopia:coffee",
+  "category": "croptopia:drinks",
   "pages": [
     {
       "type": "crafting",
-      "recipe": "作物方城市:咖啡",
+      "recipe": "croptopia:coffee",
       "text": "Recipe for coffee."
     }
   ]
