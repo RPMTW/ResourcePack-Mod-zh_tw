@@ -2,19 +2,19 @@
   "modifier": "silktouch",
   "text": [
     {
-      "text": "Adding a large glob of gold and a bunch of string seems to give the tool silky-smooth properties."
+      "text": "附加上黃金和線的工具一定能擁有絲綢之觸的功能"
     },
     {
       "text": "\n"
     },
     {
-      "text": "I can't believe it's not butter!"
+      "text": "我保證這塗的不是奶油"
     }
   ],
   "effects": [
-    "Allows blocks to be harvested directly",
-    "Not compatible with Luck or Auto-Smelt",
-    "Single use"
+    "工具擁有絲綢之觸功能",
+    "不能和幸運和自動冶煉相容",
+    "只能強化一次"
   ],
   "demoTool": [
     "tconstruct:pickaxe",
