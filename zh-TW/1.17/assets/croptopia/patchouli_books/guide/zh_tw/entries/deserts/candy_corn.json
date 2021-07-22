@@ -1,12 +1,12 @@
 {
-  "name": "Candy Corn",
+  "name": "玉米糖",
   "icon": "croptopia:candy_corn",
   "category": "croptopia:deserts",
   "pages": [
     {
       "type": "crafting",
       "recipe": "croptopia:candy_corn",
-      "text": "Recipe for candy corn."
+      "text": "玉米糖的食譜"
     }
   ]
 }
