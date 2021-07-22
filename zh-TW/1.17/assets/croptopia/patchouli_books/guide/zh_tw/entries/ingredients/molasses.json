@@ -1,11 +1,11 @@
 {
   "name": "糖蜜",
-  "icon": "作物方城市:糖蜜",
+  "icon": "croptopia:molasses",
   "category": "croptopia:ingredients",
   "pages": [
     {
       "type": "smelting",
-      "recipe": "作物方城市:糖蜜",
+      "recipe": "croptopia:molasses",
       "text": "糖蜜的製作方法"
     }
   ]
