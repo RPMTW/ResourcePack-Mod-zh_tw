@@ -1,11 +1,11 @@
 {
   "name": "香蕉堅果麵包",
-  "icon": "作物方城市:香蕉堅果麵包",
-  "category": "作物方城市:甜點",
+  "icon": "croptopia:banana_nut_bread",
+  "category": "croptopia:deserts",
   "pages": [
     {
       "type": "crafting",
-      "recipe": "作物方城市:香蕉堅果麵包",
+      "recipe": "croptopia:banana_nut_bread",
       "text": "香蕉堅果麵包(半成品)的食譜"
     }
   ]
