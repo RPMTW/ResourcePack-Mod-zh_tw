@@ -132,7 +132,7 @@
     "info_book.integratedterminals.storage_terminal.usage.text4": "選擇儲存網路列表後，您可以透過右鍵單擊移動少量內容，左鍵單擊保留的所有內容，以及中鍵單擊保留的一半內容。",
     "info_book.integratedterminals.storage_terminal.usage.text5": "透過左側按鈕，您可以透過不同的排序選項進行切換，例如按名稱和數量排序。",
     "info_book.integratedterminals.storage_terminal.usage.text6": "使用搜尋框，可以按名稱篩選顯示的成分。透過定義由空間分隔的其他參數，可以對結果進行更深入的搜尋。&oor&r- 條件可以定義為  ''|'。",
-    "info_book.integratedterminals.storage_terminal.usage.text7": "可以使用不同的前綴來定義搜尋目標。預設情況下，您將在成分名稱中搜尋。透過在字串前加上&o'@'&r，可以按mod搜尋。使用&o''&r，可以搜尋提示文本。最後，&o'$'&r查詢礦石字典。例如，搜尋條件&o'$plank@minecraft'&r將顯示由minecraft加入的所有木材。",
+    "info_book.integratedterminals.storage_terminal.usage.text7": "可以使用不同的前綴來定義搜尋目標。預設情況下，您將在成分名稱中搜尋。透過在字串前加上&o'@'&r，可以按mod搜尋。使用&o''&r，可以搜尋提示文本。最後，&o'$'&r查詢礦物辭典。例如，搜尋條件&o'$plank@minecraft'&r將顯示由minecraft加入的所有木材。",
     "info_book.integratedterminals.storage_terminal.usage.text8": "當物品儲存網路可用時，您還將獲得一個額外的合成標籤。這合成標籤類似，但帶有集成的合成網格。它有幾個有用的集成功能，例如清理網格進入到您的物品欄或網路中，整理網格，以及在建立後配置網格自動重新填充行為。",
     "info_book.integratedterminals.storage_terminal.usage.text9": "All terminal settings (buttons, searchboxes, tabs, ...) are persisted per player and per terminal. In order to configure what settings will be loaded for newly placed terminals, you can press the anvil button on the bottom right of your terminal gui.",
     "info_book.integratedterminals.storage_terminal.autocrafting": "自動合成",
@@ -161,6 +161,6 @@
     "info_book.integratedterminals.tutorials.storage_terminal.text2": "本教學很簡單，製作 &l門瑞歐玻璃&r 和一個 &l儲存終端&r，將其連接到網路後打開其GUI。",
     "info_book.integratedterminals.tutorials.storage_terminal_filtering": "儲存終端過濾",
     "info_book.integratedterminals.tutorials.storage_terminal_filtering.text1": "&l儲存終端&r 的許多有用特性之一是它能夠透過原料進行過濾。在本教學中，我們將探討兩種不同的過濾方法：基於文本的過濾和基於變數的過濾（只有第二種方法會給您帶來進步）。本教學將使用集成管道中的物品接口提供的基於物品的儲存。",
-    "info_book.integratedterminals.tutorials.storage_terminal_filtering.text2": "在本教學的第一部分中，我們將透過在搜尋欄位中鍵入特定字串來篩選項目。請注意，您可以使用快速鍵更快地選擇此搜尋欄位。如果安裝了jei，可以將其內容與jei同步搜尋。預設情況下，您將在成分名稱中搜尋。透過在字串前加上&o'@'&r，可以按mod搜尋。使用&o''&r，可以搜尋提示文本。最後，&o'$'&r查詢礦石字典。為了完成本教學的第一部分，請在搜尋欄位中鍵入&o'$plank@minecraft'&r，以顯示由minecraft加入的所有木材。",
+    "info_book.integratedterminals.tutorials.storage_terminal_filtering.text2": "在本教學的第一部分中，我們將透過在搜尋欄位中鍵入特定字串來篩選項目。請注意，您可以使用快速鍵更快地選擇此搜尋欄位。如果安裝了jei，可以將其內容與jei同步搜尋。預設情況下，您將在成分名稱中搜尋。透過在字串前加上&o'@'&r，可以按mod搜尋。使用&o''&r，可以搜尋提示文本。最後，&o'$'&r查詢礦物辭典。為了完成本教學的第一部分，請在搜尋欄位中鍵入&o'$plank@minecraft'&r，以顯示由minecraft加入的所有木材。",
     "info_book.integratedterminals.tutorials.storage_terminal_filtering.text3": "本教學的第二部分使用基於變數的過濾，在 &l儲存終端&r gui中使用右下角的&l變數&r插槽。您可以插入&l變數&r，其中包含在&l集成動力編輯器&r中配置的某個&l&r，該&l集成動力邏輯編程器&r將成分類型作為輸入，並將&9boolean&0作為輸出，指示是否應顯示給定的成分。對於本教學，讓我們嘗試篩選所有&oEnchantable&R項。為此，打開&l邏輯編程器&R，轉到&lpredicate&R類型，搜尋&o“item Enchantable”&R述詞，並將其寫入一個&l變數&R。之後，選擇物品標籤。"
 }
