@@ -1,11 +1,11 @@
 {
   "name": "麵團",
-  "icon": "作物方城市:麵團",
+  "icon": "croptopia:dough",
   "category": "croptopia:ingredients",
   "pages": [
     {
       "type": "crafting",
-      "recipe": "作物方城市:麵團",
+      "recipe": "croptopia:dough",
       "text": "麵糰的製作方法"
     }
   ]
