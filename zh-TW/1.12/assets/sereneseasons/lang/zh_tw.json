@@ -2,13 +2,13 @@
     "commands.sereneseasons.usage": "/sereneseasons <setseason> [args]",
     "commands.sereneseasons.setseason.success": "季節已設定為%s",
     "commands.sereneseasons.setseason.fail": "季節%s無效",
-    "commands.sereneseasons.setseason.disabled": "Seasons are currently disabled!\n",
-    "itemGroup.tabSereneSeasons": "Serene Seasons\n",
+    "commands.sereneseasons.setseason.disabled": "季節更替已停用！",
+    "itemGroup.tabSereneSeasons": "靜謐四季",
     "tile.greenhouse_glass.name": "Greenhouse Glass",
     "tile.season_sensor_spring.name": "Season Sensor",
     "tile.season_sensor_summer.name": "Season Sensor",
     "tile.season_sensor_autumn.name": "Season Sensor",
     "tile.season_sensor_winter.name": "Season Sensor",
-    "item.ss_icon.name": "SS Icon\n",
+    "item.ss_icon.name": "SS Icon",
     "item.season_clock.name": "Season Clock"
 }
