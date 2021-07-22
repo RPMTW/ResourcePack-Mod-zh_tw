@@ -1,9 +1,9 @@
 {
-    "malisiscore.commands.usage": "Use /malisis <config|version> [modid] to display the current version or the configuration GUI for the mod.",
-    "malisiscore.commands.modversion": "Current version for %s : %s.",
-    "malisiscore.commands.modnotfound": "No mod registered with id %s.",
-    "malisiscore.commands.noconfiguration": "No configuration available for %s.",
-    "malisiscore.config.title": "Configuration",
-    "malisiscore.config.sortTileEntities": "Enable Tile Entity sorting",
-    "malisiscore.config.sortTileEntities.comment": "Enable this option to sort Tile Entities before rendering.\\r\\nThis will fix transparency issues where some Tile Entities are not displayed correctly when behind another one.\\r\\nCan affect performances."
+    "malisiscore.commands.usage": "使用 /malisis <config|version> [modid] 顯示目前版本或模組的設定GUI.",
+    "malisiscore.commands.modversion": "目前版本 %s : %s.",
+    "malisiscore.commands.modnotfound": "沒有模組註冊id %s.",
+    "malisiscore.commands.noconfiguration": "沒有 %s 可用的設定.",
+    "malisiscore.config.title": "設定",
+    "malisiscore.config.sortTileEntities": "啟用 Tile Entity 排序",
+    "malisiscore.config.sortTileEntities.comment": "啟用此選項可在渲染前對 Tile Entities 進行排序。\\n這將解決某些 Tile Entities 在另一個 Tile Entities  後面顯示不正確的問題。\\n會影響效能。"
 }
