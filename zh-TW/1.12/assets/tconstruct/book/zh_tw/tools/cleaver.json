@@ -2,20 +2,20 @@
   "tool": "cleaver",
   "text": [
     {
-      "text": "The Cleaver is a heavy offensive weapon. It has powerful strikes, but is difficult to wield."
+      "text": "大砍刀是一個笨重的攻擊性武器。它擁有強大的攻擊力，但是很難操控。"
     },
     {
       "text": "\n"
     },
     {
-      "text": "Each killing blow has a chance to behead the foe. Off with their heads!"
+      "text": "每次一斬殺都有機率殺死敵人。砍下它們的頭顱！"
     }
   ],
   "properties": [
     "需要工匠鐵砧",
-    "Offensive weapon",
-    "High damage, but slow",
-    "Beheading II",
-    "Two handed, no offhand"
+    "攻擊性武器",
+    "笨重但是高傷害的武器",
+    "斬首II",
+    "需要兩隻手操控"
   ]
 }
