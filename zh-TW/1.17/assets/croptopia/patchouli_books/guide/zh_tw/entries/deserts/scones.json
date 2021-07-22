@@ -1,11 +1,11 @@
 {
   "name": "Scones",
-  "icon": "作物方城市:英式鬆餅",
-  "category": "作物方城市:甜點",
+  "icon": "croptopia:scones",
+  "category": "croptopia:deserts",
   "pages": [
     {
       "type": "crafting",
-      "recipe": "作物方城市:英式鬆餅",
+      "recipe": "croptopia:scones",
       "text": "Recipe for scones."
     }
   ]
