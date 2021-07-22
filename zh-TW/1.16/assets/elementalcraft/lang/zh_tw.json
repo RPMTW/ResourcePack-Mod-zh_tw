@@ -321,7 +321,7 @@
     "elementalcraft.page.instrument_retriever0": "$(item)物品導出器$()是一個能被精密調節的裝置，會將$(thing)元素器械$()的合成產物泵出至外部容器中。$(br2)你可以手動調節它的輸入與輸出方向，只需右擊大頭（輸出）或小頭（輸入），它們便會轉向你所面對的方向。",
     "elementalcraft.page.sorter0": "$(item)有序物品導出器$()應用了迅金材料的高級特性，能以一定的順序抽取多種物品並泵入$(item)元素器械$()或其他$(thing)容器$()中。$(br2)手持物品並右擊導出器的中部以追加導出項。$(br2)與$(item)物品導出器$()類似，右擊頭部可以調整輸入與輸出方向。",
     "elementalcraft.page.spell_book0": "$(item)法師魔典$()用於存放$(item)法術卷軸$()，右擊打開內部儲存空間。",
-    "elementalcraft.page.rune0": "$(item)符文$()由$(item)符文板$()刻印得來，其所蘊含的元素的魔力可被穩定地轉移到$(thing)元素器械$()中，如此一來後者的諸多屬性能夠得到有效提升。",
+    "elementalcraft.page.rune0": "$(item)符文$()由$(item)符文板$()刻印得來，其所蘊含的元素的魔力可被穩定地轉移到$(thing)元素器械$()中，如此一來後者的諸多屬效能夠得到有效提升。",
     "elementalcraft.page.fireball0": "向你所面對的方向發射一顆$(thing)火球$()。$(br2)施用時消耗$(thing)火元素$()。",
     "elementalcraft.page.gravelfall0": "在目標$(thing)方塊$()或$(thing)實體$()上方生成一列$(item)礫石$()。$(br2)施用時消耗$(thing)地元素$()和 3 個$(item)礫石$()。",
     "elementalcraft.page.stonewall0": "在你面前生成一堵 3×3 的$(thing)石牆$()以抵禦攻擊。$(br2)施用時消耗$(thing)地元素$()和 9 個$(item)石頭$()。",
