@@ -1,0 +1,20 @@
+{
+  "tool": "hatchet",
+  "text": [
+    {
+      "text": "The Hatchet is a basic chopping tool. It is effective on wood and leaves. Breaking leaves with it does not consume durability."
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "Using the hatchet in combat allows you to disable the shield of your opponent."
+    }
+  ],
+  "properties": [
+    "基礎挖掘工具",
+    "用來挖木頭",
+    "破壞樹葉非常快",
+    "Doesn't use durability on leaves"
+  ]
+}
