@@ -2,18 +2,18 @@
   "tool": "longsword",
   "text": [
     {
-      "text": "The Longsword is an offensive weapon. It is often used for charging into battle at full speed. It is slower than the Broadsword but scales better with damage."
+      "text": "長劍是一種攻擊性武器。它能夠全速切入戰鬥。它比大劍速度慢但是傷害值更高。"
     },
     {
       "text": "\n"
     },
     {
-      "text": "Holding rightclick charges up a lunge, which allows you to perform a short jump."
+      "text": "按住右鍵可以進行突刺，它允許你進行一個短跳。"
     }
   ],
   "properties": [
-    "Above average damage but slower",
-    "Rightclick: Lunge",
-    "No offhand"
+    "更高的傷害但是速度更慢",
+    "右擊：突刺",
+    "非慣用手無效"
   ]
 }
