@@ -39,7 +39,7 @@
     "text.autoconfig.the_bumblezone-main.category.mod_compatibility": "模組相容",
     "text.autoconfig.the_bumblezone-main.option.BZDungeonsConfig.beeDungeonRarity": "蜜蜂地牢稀有度",
     "text.autoconfig.the_bumblezone-main.option.BZDungeonsConfig.spiderInfestedBeeDungeonRarity": "蛛滿為患的蜜蜂地牢稀有度",
-    "text.autoconfig.the_bumblezone-main.option.BZDungeonsConfig.spawnerRateSpiderBeeDungeon": "蜘蛛生怪籠生成率",
+    "text.autoconfig.the_bumblezone-main.option.BZDungeonsConfig.spawnerRateSpiderBeeDungeon": "蜘蛛生怪磚生成率",
     "text.autoconfig.the_bumblezone-main.option.BZBlockMechanicsConfig.dispensersDropGlassBottles": "發射器掉落玻璃瓶",
     "text.autoconfig.the_bumblezone-main.option.BZBlockMechanicsConfig.broodBlocksBeeSpawnCapacity": "育苗塊產生蜜蜂的量",
     "text.autoconfig.the_bumblezone-main.option.BZBeeAggressionConfig.allowWrathOfTheHiveOutsideBumblezone": "維度外的§6黃蜂領域§r狀態效果",
@@ -82,7 +82,7 @@
     "text.autoconfig.the_bumblezone-main.option.BZBeeAggressionConfig.strengthBoostLevel.@PrefixText": "蜜蜂攻擊傷害的提升幅度。\n( 5 或更高的數值可以秒殺沒有防禦點數或額外生命的玩家)",
     "text.autoconfig.the_bumblezone-main.option.BZDungeonsConfig.beeDungeonRarity.@PrefixText": "蜜蜂地牢的稀有度。\n(更高的數值意味著更高的罕見程度, 而設為 1000 會直接停用蜜蜂地牢的生成)",
     "text.autoconfig.the_bumblezone-main.option.BZDungeonsConfig.spiderInfestedBeeDungeonRarity.@PrefixText": "蛛滿為患的蜜蜂地牢的稀有度。\n(更高的數值意味著更高的罕見程度, 而設為 1000 會直接停用蛛滿為患的蜜蜂地牢的生成)",
-    "text.autoconfig.the_bumblezone-main.option.BZDungeonsConfig.spawnerRateSpiderBeeDungeon.@PrefixText": "在蛛滿為患的蜜蜂地牢中, 蜘蛛/洞穴蜘蛛生怪籠的滿度。\n( 0 表示不生成生怪籠, 1 表示生成最大數量的生怪籠; 預設值為 0.2 )",
+    "text.autoconfig.the_bumblezone-main.option.BZDungeonsConfig.spawnerRateSpiderBeeDungeon.@PrefixText": "在蛛滿為患的蜜蜂地牢中, 蜘蛛/洞穴蜘蛛生怪磚的滿度。\n( 0 表示不生成生怪磚, 1 表示生成最大數量的生怪磚; 預設值為 0.2 )",
     "text.autoconfig.the_bumblezone-main.option.BZModCompatibilityConfig.allowPotionOfBeesCompat.@PrefixText": "允許對著空巢脾育苗塊使用來自 Potion of Bees 模組的蜜蜂藥水, 以將其轉化為帶有一隻蜜蜂幼蟲的巢脾育苗塊。(同樣適用於發射器)",
     "text.autoconfig.the_bumblezone-main.option.BZModCompatibilityConfig.allowSplashPotionOfBeesCompat.@PrefixText": "允許在空巢脾育苗塊附近投擲來自 Potion of Bees 模組的飛濺型蜜蜂藥水, 以將其轉化為帶有一隻蜜蜂幼蟲的巢脾育苗塊。(同樣適用於發射器)"
 }
