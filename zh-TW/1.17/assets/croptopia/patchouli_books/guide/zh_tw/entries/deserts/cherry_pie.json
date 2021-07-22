@@ -1,11 +1,11 @@
 {
   "name": "櫻桃派",
-  "icon": "作物方城市:櫻桃派",
-  "category": "作物方城市:甜點",
+  "icon": "croptopia:cherry_pie",
+  "category": "croptopia:deserts",
   "pages": [
     {
       "type": "crafting",
-      "recipe": "作物方城市:櫻桃派",
+      "recipe": "croptopia:cherry_pie",
       "text": "櫻桃派配方"
     }
   ]
