@@ -1,11 +1,11 @@
 {
   "name": "堅果餅乾",
-  "icon": "作物方城市:堅果餅乾",
-  "category": "作物方城市:甜點",
+  "icon": "croptopia:nutty_cookie",
+  "category": "croptopia:deserts",
   "pages": [
     {
       "type": "crafting",
-      "recipe": "作物方城市:堅果餅乾",
+      "recipe": "croptopia:nutty_cookie",
       "text": "堅果餅乾的食譜"
     }
   ]
