@@ -1,12 +1,12 @@
 {
-  "name": "Taco",
+  "name": "墨西哥捲餅",
   "icon": "croptopia:taco",
   "category": "croptopia:meals",
   "pages": [
     {
       "type": "crafting",
       "recipe": "croptopia:taco",
-      "text": "Recipe for a taco."
+      "text": "墨西哥捲餅的食譜"
     }
   ]
 }
