@@ -1,11 +1,11 @@
 {
   "name": "蜜餞堅果",
-  "icon": "作物方城市:蜜餞堅果",
-  "category": "作物方城市:甜點",
+  "icon": "croptopia:candied_nuts",
+  "category": "croptopia:deserts",
   "pages": [
     {
       "type": "crafting",
-      "recipe": "作物方城市:蜜餞堅果",
+      "recipe": "croptopia:candied_nuts",
       "text": "蜜餞堅果的食譜"
     }
   ]
