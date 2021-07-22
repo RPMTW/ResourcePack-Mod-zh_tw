@@ -1,11 +1,11 @@
 {
   "name": "BLT Sandwich",
-  "icon": "作物方城市:培根生菜番茄三明治",
-  "category": "作物方城市:餐點",
+  "icon": "croptopia:blt",
+  "category": "croptopia:meals",
   "pages": [
     {
       "type": "crafting",
-      "recipe": "作物方城市:培根生菜番茄三明治",
+      "recipe": "croptopia:blt",
       "text": "Recipe for a BLT sandwich."
     }
   ]
