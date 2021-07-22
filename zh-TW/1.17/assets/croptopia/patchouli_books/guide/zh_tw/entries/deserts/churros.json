@@ -1,11 +1,11 @@
 {
   "name": "吉拿棒",
-  "icon": "作物方城市:吉拿棒",
-  "category": "作物方城市:甜點",
+  "icon": "croptopia:churros",
+  "category": "croptopia:deserts",
   "pages": [
     {
       "type": "crafting",
-      "recipe": "作物方城市:吉拿棒",
+      "recipe": "croptopia:churros",
       "text": "吉拿棒的食譜"
     }
   ]
