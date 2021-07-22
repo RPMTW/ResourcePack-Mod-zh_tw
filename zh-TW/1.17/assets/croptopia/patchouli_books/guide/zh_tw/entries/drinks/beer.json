@@ -1,11 +1,11 @@
 {
   "name": "啤酒",
-  "icon": "作物方城市:啤酒",
-  "category": "作物方城市:飲料",
+  "icon": "croptopia:beer",
+  "category": "croptopia:drinks",
   "pages": [
     {
       "type": "crafting",
-      "recipe": "作物方城市:啤酒",
+      "recipe": "croptopia:beer",
       "text": "啤酒配方"
     }
   ]
