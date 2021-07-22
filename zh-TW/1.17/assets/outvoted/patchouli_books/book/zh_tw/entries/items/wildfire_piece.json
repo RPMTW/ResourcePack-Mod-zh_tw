@@ -1,12 +1,12 @@
 {
-  "name": "Shattered Blaze Piece",
+  "name": "熔融碎片",
   "icon": "outvoted:wildfire_piece",
   "category": "outvoted:item_category",
   "pages": [
     {
       "type": "spotlight",
       "item": "outvoted:wildfire_piece",
-      "text": "A shard left behind by an Wildfire. Needed for the $(l:items/wildfire_shield_part)Wildfire Shield Part$(/l)"
+      "text": "獄火行者掉落的碎片，可用於製作$(l:items/wildfire_shield_part)獄火盾牌部件$(/l)"
     }
   ]
 }
