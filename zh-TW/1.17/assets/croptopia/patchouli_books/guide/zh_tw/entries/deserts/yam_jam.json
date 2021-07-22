@@ -1,11 +1,11 @@
 {
   "name": "山藥果醬",
-  "icon": "作物方城市:山藥果醬",
-  "category": "作物方城市:甜點",
+  "icon": "croptopia:yam_jam",
+  "category": "croptopia:deserts",
   "pages": [
     {
       "type": "crafting",
-      "recipe": "作物方城市:山藥果醬",
+      "recipe": "croptopia:yam_jam",
       "text": "山藥果醬的食譜"
     }
   ]
