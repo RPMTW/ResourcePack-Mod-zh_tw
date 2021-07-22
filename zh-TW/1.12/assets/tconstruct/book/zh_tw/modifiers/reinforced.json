@@ -2,13 +2,13 @@
   "modifier": "reinforced",
   "text": [
     {
-      "text": "Adding a reinforced plate to the tool seems to help with its durability, making it stronger."
+      "text": "附上一個耐久強化大板有助於提升工具的耐久，讓它變得更堅硬。"
     }
   ],
   "effects": [
-    "Adds a chance to not consume durability",
-    "Stacks with previous levels of Reinforced",
-    "Multiple levels"
+    "使用工具有機率不消耗耐久",
+    "強化等級可以堆疊",
+    "可升級多次"
   ],
   "demoTool": [
     "tconstruct:pickaxe",
