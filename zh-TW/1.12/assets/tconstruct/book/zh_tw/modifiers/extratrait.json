@@ -2,14 +2,14 @@
   "modifier": "extratrait",
   "text": [
     {
-      "text": "Take a tool part and emboss it onto the tool! It's like replacing the tool part, but better! The tool gets the traits of the part in addition to the already present ones (but not the stats)."
+      "text": "透過放置一個工具部件並將其『刻印』在另一個工具上，從而達到使工具繼承或者說獲得該部件特定屬性的效果（不取得部件相關參數）。這就好比替換工具部件，但比它更好！"
     }
   ],
   "effects": [
-    "Adds traits of another part",
-    "Traits are equal to swapping the part",
-    "The embossment is final and can't be changed",
-    "Requires no modifier"
+    "取得部件屬性",
+    "效果類似部件替換",
+    "刻印強化是永久的，無法被改變",
+    "不需要強化槽"
   ],
   "demoTool": [
     "tconstruct:pickaxe"
