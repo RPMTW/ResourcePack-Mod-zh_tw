@@ -1,11 +1,11 @@
 {
   "name": "蔓越莓汁",
-  "icon": "作物方城市:蔓越莓汁",
-  "category": "作物方城市:飲料",
+  "icon": "croptopia:cranberry_juice",
+  "category": "croptopia:drinks",
   "pages": [
     {
       "type": "crafting",
-      "recipe": "作物方城市:蔓越莓汁",
+      "recipe": "croptopia:cranberry_juice",
       "text": "柳橙汁的食譜"
     }
   ]
