@@ -269,7 +269,7 @@
     "itemText.usage.item.fluidUpgradeRouter": "•此路由器的傳輸速率：%d mB/tick",
     "itemText.usage.item.muffler_upgrade": "抑制來自路由器/模組的聲音和粒子效果\\n•1個升級會抑制聲音效果\\n•2個或更多個會增加抑制粒子效果\\n•3個或更多個則會抑制路由器的主動動畫。",
     "itemText.usage.item.blast_upgrade": "讓路由器抵禦來自爆炸或者boss級生物的破壞。",
-    "itemText.usage.item.bulkitem_filter": "大容量，高性能的過濾器，用於大量物品\\n可以像任何其他物品一樣輸入到路由器模組。\\n•潛行+右鍵單擊任何容器：將內容合併到過濾器。\\n•右鍵單擊：查看/設定。",
+    "itemText.usage.item.bulkitem_filter": "大容量，高效能的過濾器，用於大量物品\\n可以像任何其他物品一樣輸入到路由器模組。\\n•潛行+右鍵單擊任何容器：將內容合併到過濾器。\\n•右鍵單擊：查看/設定。",
     "itemText.usage.item.regex_filter": "透過將其顯示名稱與一個或多個正則表達式匹配來過濾物品。\\n可以像任何其他物品一樣輸入到路由器模組。\\n•右鍵單擊：查看/設定。",
     "itemText.usage.item.mod_filter": "按照一個物品來自的modID過濾物品\\n可以像任何其他物品一樣輸入到路由器模組。\\n•右鍵單擊：查看/設定。",
     "itemText.usage.item.inspection_filter": "通過檢查物品的各種屬性過濾物品。\\n可以像任何其他物品一樣輸入到路由器模組。\\n•右鍵單擊：查看/設定。",
