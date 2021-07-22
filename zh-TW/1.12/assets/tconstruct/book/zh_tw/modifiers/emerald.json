@@ -2,14 +2,14 @@
   "modifier": "emerald",
   "text": [
     {
-      "text": "Affixing an emerald to a tool's weakest point makes it especially resilient and fabulous. Villagers may also covet your tool, be wary."
+      "text": "綠寶石能有效強化工具的耐久，最好小心點村民，他們可能會垂涎你的工具。"
     }
   ],
   "effects": [
-    "50% base durability increase",
-    "Mining level increased to Iron",
-    "Single use",
-    "Outrageous!"
+    "增加工具50%的耐久",
+    "最小挖掘等級提升到鐵礦級別",
+    "只能強化一次",
+    "太離譜了!"
   ],
   "demoTool": [
     "tconstruct:pickaxe",
