@@ -8,7 +8,7 @@ const { MCVersion } = require("./Module/MCVersion");
 const ver = config.ver;
 const modCount = config.modCount;
 const CurseForge = require("mc-curseforge-api");
-const request = require("request");
+const urllib = require('urllib');
 
 let ModDirPath = path.join(__dirname, "mod");
 if (!fs.existsSync(ModDirPath)) {
@@ -50,22 +50,27 @@ function GetFile(ID) {
         });
         for (let i = 0; i < files.length; i++) {
             let data = files[i].minecraft_versions;
-             if (MCVersion(data)) {
+            if (MCVersion(data)) {
                 fileID = String(files[i].id);
                 fileName = String(files[i].download_url.split("https://edge.forgecdn.net/files/")[1].split(`${fileID.substr(0, 4)}/${fileID.substr(4, 7)}/`)[1]);
                 if (fileName === "undefined") {
                     fileName = String(files[i].download_url.split("https://edge.forgecdn.net/files/")[1].split(`${fileID.substr(0, 4)}/${fileID.substr(5, 7)}/`)[1]);
                 }
-                let file = fs.createWriteStream(path.join(ModDirPath, fileName));
                 slug = fileName.split(".jar")[0];
-                request(files[i].download_url).pipe(file).on("close", function (err) {
-                    if(err){
-                        console.log("下載模組檔案時發生未知錯誤: " + err);
-                    }
-                    console.log(`${fileName.split(".jar")[0]} 下載完成。`);
-                    compressing.zip.uncompress(`./mod/${fileName}`, "../jar/" + slug).then(() => GetModID(slug, ID, fileName));
+                urllib.request(files[i].download_url, {
+                    streaming: true,
+                    followRedirect: true,
                 })
-                break;
+                    .then(result => {
+                        console.log(`${fileName.split(".jar")[0]} 下載完成。`);
+                        compressing.zip.uncompress(result.res, "../jar/" + slug)
+                    })
+                    .then(() => {
+                        console.log(`${fileName.split(".jar")[0]} 解壓縮完成。`)
+                        GetModID(slug, ID, fileName)
+                    })
+                    .catch(console.error);
+                    break;
             }
         }
     }).catch(console.error);
