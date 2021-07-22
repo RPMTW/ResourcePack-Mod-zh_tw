@@ -1,11 +1,11 @@
 {
   "name": "蘋果汁",
-  "icon": "作物方城市:蘋果汁",
-  "category": "作物方城市:飲料",
+  "icon": "croptopia:apple_juice",
+  "category": "croptopia:drinks",
   "pages": [
     {
       "type": "crafting",
-      "recipe": "作物方城市:蘋果汁",
+      "recipe": "croptopia:apple_juice",
       "text": "蘋果汁的食譜"
     }
   ]
