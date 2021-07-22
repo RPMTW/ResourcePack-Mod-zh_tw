@@ -133,7 +133,7 @@
     "tooltip.ironbackpacks.upgrade.hopperFilter.desc": "可設定一個物品，背包會自動將該物品補充到物品欄或快捷欄中。",
     "tooltip.ironbackpacks.upgrade.condenser.desc": "可設定一些物品，背包將自動拾取物品並將其以3x3的方式壓縮成塊（如紅石->紅石塊）。",
     "tooltip.ironbackpacks.upgrade.advFilter.desc": "類似基本過濾，但有18個可選擇過濾模式的過濾槽。",
-    "tooltip.ironbackpacks.upgrade.miningFilter.desc": "自動拾取所有礦石、寶石、顆粒，附加基本過濾功能（如圓石）。",
+    "tooltip.ironbackpacks.upgrade.miningFilter.desc": "自動拾取所有礦石、寶石、顆粒，附加基本過濾功能（如鵝卵石）。",
     "tooltip.ironbackpacks.upgrade.voidFilter.desc": "自動拾取並刪除設定的物品，忽略耐久度。",
     "tooltip.ironbackpacks.upgrade.condenser.small.desc": "可設定一些物品，背包將自動拾取物品並將其以2x2的方式壓縮成塊（如沙子->砂岩）。",
     "tooltip.ironbackpacks.upgrade.condenser.tiny.desc": "可設定一些物品，背包將自動拾取物品並將其分解（如紅石塊->紅石）。",
@@ -211,6 +211,6 @@
     "jei.description.upgrade.filter.modSpecific": "\\n拾取的物品如果與過濾器中標記的物品是同一MOD的物品，也會被放進背包中。 例如，在過濾器中標記了植物魔法的小黃花，那麼所有撿起的植物魔法物品都會被放進背包中。 \\n \\n",
     "jei.description.upgrade.filter.void": "\\n撿起標記的物品會直接刪除掉，因為使用模糊匹配，所以會忽略耐久度。 \\n \\n",
     "jei.description.upgrade.filter.advanced": "\\n標記的物品，可以選擇精確、模糊、礦物詞典、特定MOD和虛空王種匹配模式。 只需單擊標記物品下面的按鈕即可在五種模式中切換。 該升級插件有18個過濾格子，其他過濾器僅有9個。可通過按鈕和滑鼠滾輪切換。 \\n \\n",
-    "jei.description.upgrade.filter.mining": "\\n該升級插件會將礦石、寶石和顆粒放入背包。 它同基礎過濾器一樣，也有9個過濾格子，所以可以在採礦時，將圓石、沙礫什麼的也添加到過濾列表裡。 \\n \\n",
+    "jei.description.upgrade.filter.mining": "\\n該升級插件會將礦石、寶石和顆粒放入背包。 它同基礎過濾器一樣，也有9個過濾格子，所以可以在採礦時，將鵝卵石、沙礫什麼的也添加到過濾列表裡。 \\n \\n",
     "jei.description.upgrade.restocking": "該升級插件會將背包內的物品自動補充到物品欄中。 例如，在背包中放進一些牛排，吃一個牛排，背包就會自動把物品欄中的牛排補充到64個（有就行）。 \\n \\n"
 }
