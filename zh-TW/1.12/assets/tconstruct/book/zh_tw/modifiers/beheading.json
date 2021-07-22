@@ -2,13 +2,13 @@
   "modifier": "beheading",
   "text": [
     {
-      "text": "Working an ender pearl and some obsidian on a weapon has the curious effect of separating the target's head from its body. Just a little off the top?"
+      "text": "在武器上加入一顆終界珍珠和一些黑曜石會讓武器有著將目標頭身分離的神奇能力。\n「頭頂幫你剪短一點點可以嗎？」"
     }
   ],
   "effects": [
-    "Enemies drop their heads",
-    "Adding more Obsidian and Ender Pearls increases the chance of decapitation",
-    "Multiple levels"
+    "對方掉落他們的頭顱",
+    "加更多的黑曜石和終界珍珠來增加斬首的機率",
+    "可升級多次"
   ],
   "demoTool": [
     "tconstruct:broadsword",
