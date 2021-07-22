@@ -2,28 +2,12 @@ const path = require("path");
 const fs = require("fs");
 const config = require(`${process.cwd()}/config.json`)
 const { LangToJson } = require("./LangToJson");
+const CopyDir = require('./CopyDir').CopyDir;
+const CurseForgeIndex = require('./CurseForgeIndex').CurseForgeIndex;
 const {
     parse,
     stringify
 } = require('comment-json')
-const CopyDir = require('./CopyDir').CopyDir;
-const CurseForgeIndex = require('./CurseForgeIndex').CurseForgeIndex;
-
-function delDir(path) { //資料夾/檔案迴圈刪除
-    let files = [];
-    if (fs.existsSync(path)) {
-        files = fs.readdirSync(path);
-        files.forEach((file) => {
-            let curPath = path + "/" + file;
-            if (fs.statSync(curPath).isDirectory()) {
-                delDir(curPath); //遞迴刪除資料夾
-            } else {
-                fs.unlinkSync(curPath); //刪除檔案
-            }
-        });
-        fs.rmdirSync(path);
-    }
-}
 
 async function LangFile(ModID, slug, id, name) {
     if (config.Blacklist_modId.includes(ModID)) return; //黑名單(模組ID)
@@ -71,7 +55,11 @@ async function LangFile(ModID, slug, id, name) {
     let New = await LangToJson(LangPath);
     let Before = {};
     if (fs.existsSync(`${process.cwd()}/../assets/${ModID}/lang/zh_tw.json`)) {
-        Before = parse(fs.readFileSync(`${process.cwd()}/../assets/${ModID}/lang/zh_tw.json`).toString(), null, true);
+        try {
+            Before = parse(fs.readFileSync(`${process.cwd()}/../assets/${ModID}/lang/zh_tw.json`).toString(), null, true);
+        } catch (error) {
+            console.log(ModID, error);
+        }
     }
     let data = stringify(Object.assign({}, Before, New), null, 4)
 

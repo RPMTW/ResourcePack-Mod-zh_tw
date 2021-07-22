@@ -7,6 +7,7 @@ const { GetModID } = require("./Module/GetModID");
 const { MCVersion } = require("./Module/MCVersion");
 const ver = config.ver;
 const modCount = config.modCount;
+const ModIndex = config.Index;
 const CurseForge = require("mc-curseforge-api");
 const urllib = require('urllib');
 
@@ -24,7 +25,7 @@ for (let i = 0; i < modCount / 50; i++) {
     if (parseInt(modCount / 50) == i) {
         pageSize = modCount % 50
     }
-    GetMods(i, pageSize)
+    GetMods(i + ModIndex, pageSize)
 }
 
 function GetMods(index, pageSize) {
@@ -57,6 +58,7 @@ function GetFile(ID) {
                 urllib.request(files[i].download_url, {
                     streaming: true,
                     followRedirect: true,
+                    timeout: [100000, 100000],
                 })
                     .then(result => {
                         console.log(`${fileName.split(".jar")[0]} 下載完成。`);
@@ -66,9 +68,9 @@ function GetFile(ID) {
                         console.log(`${fileName.split(".jar")[0]} 解壓縮完成。`)
                         GetModID(slug, ID, fileName)
                     })
-                    .catch(console.error);
+                    .catch("解壓縮模組檔案時發生未知錯誤: ", console.error);
                 break;
             }
         }
-    }).catch(console.error);
+    }).catch("抓取模組檔案時發生未知錯誤: ", console.error);
 }

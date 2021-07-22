@@ -5,6 +5,7 @@ Lang轉換為Json格式，由https://gist.github.com/ChAoSUnItY/31c147efd2391b65
 const fs = require("fs");
 const readline = require("readline");
 async function LangToJson(path) {
+    if (!fs.existsSync(path)) return {};
     const fileStream = fs.createReadStream(path);
 
     const rl = readline.createInterface({
@@ -12,8 +13,7 @@ async function LangToJson(path) {
         crlfDelay: Infinity
     });
 
-    let obj = {}, last_key = null, comment_counter = 0
-
+    let obj = {}, last_key = null
     for await (const line of rl) {
         if (line.startsWith("#") || line.startsWith("//")) {
             continue;
