@@ -1,11 +1,11 @@
 {
   "name": "布朗尼",
-  "icon": "作物方城市:布朗尼",
-  "category": "作物方城市:甜點",
+  "icon": "croptopia:brownies",
+  "category": "croptopia:deserts",
   "pages": [
     {
       "type": "crafting",
-      "recipe": "作物方城市:布朗尼",
+      "recipe": "croptopia:brownies",
       "text": "布朗尼的食譜"
     }
   ]
