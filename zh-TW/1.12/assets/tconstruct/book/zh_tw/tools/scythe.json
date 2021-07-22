@@ -2,7 +2,7 @@
   "tool": "scythe",
   "text": [
     {
-      "text": "The Scythe is a broad reaping tool. It is effective on plants and attacks enemies in a wide range."
+      "text": "鐮刀是一個大範圍收割工具。它能夠對大範圍作物有效，還能攻擊大範圍敵人。"
     },
     {
       "text": "\n"
@@ -13,9 +13,9 @@
   ],
   "properties": [
     "需要工匠鐵砧",
-    "AOE Attack",
-    "3x3 AOE Harvesting",
-    "Effective on crops and plants",
-    "Rightclick: AOE Harvest and replant"
+    "AOE傷害",
+    "3x3範圍收割",
+    "對作物和植物有效",
+    "右擊：大範圍收割與種植"
   ]
 }
