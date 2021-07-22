@@ -2,14 +2,14 @@
   "modifier": "harvestheight",
   "text": [
     {
-      "text": "Have you ever wished your tool could affect a higher area? Now it can!"
+      "text": "你是否期望過你的工具能有更大的使用範圍，現在可以做到了"
     }
   ],
   "effects": [
-    "Increases the height of the area affected",
-    "Only affects blocks",
-    "Does not work for weapons",
-    "Can be combined with Width++"
+    "增加工具豎直方向的使用範圍",
+    "只對方塊有效",
+    "對攻擊性武器無效",
+    "多個等級"
   ],
   "demoTool": [
     "tconstruct:pickaxe",
