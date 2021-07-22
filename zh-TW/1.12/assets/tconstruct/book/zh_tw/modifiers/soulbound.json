@@ -2,20 +2,20 @@
   "modifier": "soulbound",
   "text": [
     {
-      "text": "A perfect match. You love your tool. Not even death can part you from it."
+      "text": "哦，你和你的工具簡直就是天生一對，即使是死亡！也不能將你們分開。"
     }
   ],
   "effects": [
-    "Tool remains in your inventory after death",
-    "Single use",
-    "Does NOT require a modifier"
+    "玩家死亡後復活，工具仍舊能保存在物品欄",
+    "只能強化一次",
+    "不需要強化槽"
   ],
   "demoTool": [
     "tconstruct:broadsword",
     "tconstruct:cleaver",
     "tconstruct:pickaxe",
     "tconstruct:hammer",
-    "tconstruct:shortbow",
+    "tconstruct:hammer",
     "tconstruct:arrow"
   ]
 }
