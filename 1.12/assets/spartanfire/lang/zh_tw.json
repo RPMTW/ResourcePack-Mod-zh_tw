@@ -22,7 +22,7 @@
     "item.witherbone_handle.name": "Witherbone Handle",
     "item.witherbone_pole.name": "Witherbone Pole",
     "item.spartanfire:glaive_custom.name": "%s Glaive",
-    "item.spartanfire.quarterstaff_custom.name": "%s Quarterstaff\n",
+    "item.spartanfire.quarterstaff_custom.name": "%s Quarterstaff",
     "tooltip.spartanfire:fire_dragonbone": "Ignites and knocks back targets, deals extra damage to ice dragons",
     "tooltip.spartanfire:ice_dragonbone": "Slows and knocks back targets, deals extra damage to fire dragons",
     "tooltip.spartanfire:jungle": "+4 damage against non-arthropods and deathworms",
@@ -30,7 +30,7 @@
     "tooltip.spartanfire:jungle_venom": "Poisons on hit",
     "tooltip.spartanfire:desert_venom": "Poisons on hit",
     "tooltip.spartanfire:fire_dragonsteel": "Ignites and knocks back targets",
-    "tooltip.spartanfire:ice_dragonsteel": "Slows and knocks back targets\n",
+    "tooltip.spartanfire:ice_dragonsteel": "Slows and knocks back targets",
     "_comment_1": "Materials",
     "material.spartanfire:dragonbone": "Dragonbone",
     "material.spartanfire:fire_dragonbone": "Flamed Dragonbone",
@@ -40,5 +40,5 @@
     "material.spartanfire:desert_venom": "Desert Myrmex Stinger",
     "material.spartanfire:jungle_venom": "Jungle Myrmex Stinger",
     "material.spartanfire:ice_dragonsteel": "Ice Dragonsteel",
-    "material.spartanfire:fire_dragonsteel": "Fire Dragonsteel\n\n\n\n"
+    "material.spartanfire:fire_dragonsteel": "Fire Dragonsteel"
 }
