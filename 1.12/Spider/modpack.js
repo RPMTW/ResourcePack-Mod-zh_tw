@@ -9,6 +9,7 @@ const { MCVersion } = require("./Module/MCVersion");
 const {
     parse,
 } = require('comment-json')
+const urllib = require('urllib');
 
 let ModDirPath = path.join(__dirname, "mod");
 if (!fs.existsSync(ModDirPath)) {
@@ -39,19 +40,23 @@ for (let k = 0; k < 1; k++) {
                         return Date.parse(b.timestamp) - Date.parse(a.timestamp);
                     });
                     let data = files[i].minecraft_versions;
-                     if (MCVersion(data)) {
+                    if (MCVersion(data)) {
                         fileID = String(files[i].id);
                         fileName = String(files[i].download_url.split("https://edge.forgecdn.net/files/")[1].replace("/", "").split("/")[1]);
-                        let test = path.join(ModDirPath, fileName);
                         slug = fileName.split(".jar")[0];
-                        try {
-                            files[i].download(test, true).then(r => {
-                                console.log(`${fileName} 下載完成。`);
-                                compressing.zip.uncompress(`./mod/${fileName}`, "../jar/" + slug).then(() => GetModID(slug, ModList[i].projectID, fileName))
-                            });
-                        } catch (err) {
-                            console.log("發生未知錯誤 \n" + err);
-                        }
+                        urllib.request(files[i].download_url, {
+                            streaming: true,
+                            followRedirect: true,
+                        })
+                            .then(result => {
+                                console.log(`${fileName.split(".jar")[0]} 下載完成。`);
+                                compressing.zip.uncompress(result.res, "../jar/" + slug)
+                            })
+                            .then(() => {
+                                console.log(`${fileName.split(".jar")[0]} 解壓縮完成。`)
+                                GetModID(slug, ModList[i].projectID, fileName)
+                            })
+                            .catch(console.error);
                         break;
                     }
                 }

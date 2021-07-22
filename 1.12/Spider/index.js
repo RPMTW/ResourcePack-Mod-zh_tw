@@ -52,10 +52,7 @@ function GetFile(ID) {
             let data = files[i].minecraft_versions;
             if (MCVersion(data)) {
                 fileID = String(files[i].id);
-                fileName = String(files[i].download_url.split("https://edge.forgecdn.net/files/")[1].split(`${fileID.substr(0, 4)}/${fileID.substr(4, 7)}/`)[1]);
-                if (fileName === "undefined") {
-                    fileName = String(files[i].download_url.split("https://edge.forgecdn.net/files/")[1].split(`${fileID.substr(0, 4)}/${fileID.substr(5, 7)}/`)[1]);
-                }
+                fileName = String(files[i].download_url.split("https://edge.forgecdn.net/files/")[1].replace("/", "").split("/")[1]);
                 slug = fileName.split(".jar")[0];
                 urllib.request(files[i].download_url, {
                     streaming: true,
@@ -70,7 +67,7 @@ function GetFile(ID) {
                         GetModID(slug, ID, fileName)
                     })
                     .catch(console.error);
-                    break;
+                break;
             }
         }
     }).catch(console.error);
