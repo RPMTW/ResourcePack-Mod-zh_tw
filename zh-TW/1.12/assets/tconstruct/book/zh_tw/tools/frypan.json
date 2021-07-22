@@ -2,20 +2,20 @@
   "tool": "frypan",
   "text": [
     {
-      "text": "The Frying Pan is a heavy weapon that uses sheer weight to impede foes. It possesses a natural knockback."
+      "text": "平底鍋是一個笨重的武器，利用自身絕對的重量來打擊敵人。它天生擁有擊退屬性"
     },
     {
       "text": "\n"
     },
     {
-      "text": "Holding rightclick charges up a powerful blow, so powerful that it deals bonus damage, knocks enemies farther away and cooks any drops."
+      "text": "按下右鍵蓄力，蓄的力是如此的強大，以至於能直接造成巨大的傷害並擊飛敵人，順便燒製所有的掉落物"
     }
   ],
   "properties": [
-    "Medium damage",
-    "Natural knockback",
-    "Rightclick: Charged Blow",
-    "Charged blow cooks food drops",
-    "No offhand"
+    "中等傷害",
+    "擊退屬性",
+    "右鍵：蓄力",
+    "蓄力能燒製掉落的食物",
+    "非慣用手不能用"
   ]
 }
