@@ -1,7 +1,7 @@
 {
     "_comment": "========================================================================================================",
     "attribute.name.cofh.fall_distance": "掉落距離",
-    "attribute.name.cofh.hazard_resistance": "Hazard Resistance",
+    "attribute.name.cofh.hazard_resistance": "風險抗性",
     "attribute.name.cofh.sting_resistance": "螫咬抗性",
     "forge.swimSpeed": "游泳速度",
     "commands.cofh.heal.success.single": "已治癒%s",
@@ -108,7 +108,7 @@
     "effect.cofh_core.shocked": "震盪",
     "effect.cofh_core.sundered": "割裂",
     "effect.cofh_core.wrenched": "扭傷!",
-    "enchantment.cofh_core.disabled": "Shimmer",
+    "enchantment.cofh_core.disabled": "微光",
     "enchantment.cofh_core.disabled.desc": "一個被禁用的、沒有任何作用的附魔效果",
     "enchantment.cofh_core.holding": "加持",
     "enchantment.cofh_core.holding.desc": "增加對於特定物品(能量)的儲存容量",
