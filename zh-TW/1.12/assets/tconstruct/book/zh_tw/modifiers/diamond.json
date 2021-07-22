@@ -2,15 +2,15 @@
   "modifier": "diamond",
   "text": [
     {
-      "text": "Adding a diamond to the edge of a tool makes it more resilient and increases what the tool can mine. Also makes a fetching fashion statement."
+      "text": "使用鑽石強化工具能有效提升工具的耐久度，可以使工具擁有更長的使用時間。除此之外，工具變得也更好看了。"
     }
   ],
   "effects": [
-    "Extra durability",
-    "Minor stat increase",
-    "Mining level increased by one, up to Obsidian",
-    "Single use",
-    "Fabulous!"
+    "增加耐久度",
+    "次要屬性的增加",
+    "挖掘等級提升到黑曜石級",
+    "只能強化一次",
+    "極佳！"
   ],
   "demoTool": [
     "tconstruct:pickaxe",
