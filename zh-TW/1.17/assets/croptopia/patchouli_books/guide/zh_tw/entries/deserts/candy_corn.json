@@ -1,11 +1,11 @@
 {
   "name": "Candy Corn",
-  "icon": "作物方城市:玉米糖",
-  "category": "作物方城市:甜點",
+  "icon": "croptopia:candy_corn",
+  "category": "croptopia:deserts",
   "pages": [
     {
       "type": "crafting",
-      "recipe": "作物方城市:玉米糖",
+      "recipe": "croptopia:candy_corn",
       "text": "Recipe for candy corn."
     }
   ]
