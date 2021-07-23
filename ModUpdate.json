@@ -1,28 +1,26 @@
 {
-
-"Forge":{
-
-"1.16":{
-"latest":"1.2.0"
-},
-
-"1.12":{
-"latest":"1.2.1",
-"notice":"\u00a7e\u6b61\u8fce\u60a8\u4f7f\u7528\u00a7aRPMTW\u7e41\u9ad4\u4e2d\u6587\u5316\u6a21\u7d44\uff0c\u00a7a\u5982\u679c\u9047\u5230\u4efb\u4f55\u554f\u984c\u53ef\u4ee5\u524d\u5f80\u6211\u5011\u7684Discord\u7fa4\u7d44\u8a62\u554f\n\u00a7e\u5b98\u65b9Discord: https://discord.gg/5xApZtgV2u\n\u00a7e\u5b98\u65b9\u7db2\u7ad9: https://www.rpmtw.ga\n\u00a7b\u5982\u679c\u6709\u4e9b\u529f\u80fd\u4e0d\u9700\u8981\u4e5f\u53ef\u4ee5\u6253\u958b\u8a2d\u5b9a\u9078\u55ae\u95dc\u9589\u5594(\u9810\u8a2d\u5feb\u6377\u9375\u70baO)"
-}
-
-},
-"Fabric":{
-
-"1.16":{
-"latest":"1.2.0"
-},
-  
-"1.17":{
-"latest":"1.2.1",
-"DownloadUrl":"",
-"ChangeLog":"\u65b0\u589e\u5b87\u5b99\u901a\u8a0a\u7cfb\u7d71\u3001\u66f4\u65b0\u63d0\u793a\u5c07\u986f\u793a\u8b8a\u66f4\u65e5\u8a8c\uff0c\u4fee\u5fa9\u4e86\u4e00\u4e9bbug..."
-}
-
-}
+    "Forge": {
+        "1.16": {
+            "latest": "1.2.0"
+        },
+        "1.17": {
+            "latest": "1.2.1",
+            "DownloadUrl": "",
+            "ChangeLog": "\u66f4\u65b0\u6a21\u7d44\u5230 Forge 1.17.1"
+        },
+        "1.12": {
+            "latest": "1.2.1",
+            "notice": "\u00a7e\u6b61\u8fce\u60a8\u4f7f\u7528\u00a7aRPMTW\u7e41\u9ad4\u4e2d\u6587\u5316\u6a21\u7d44\uff0c\u00a7a\u5982\u679c\u9047\u5230\u4efb\u4f55\u554f\u984c\u53ef\u4ee5\u524d\u5f80\u6211\u5011\u7684Discord\u7fa4\u7d44\u8a62\u554f\n\u00a7e\u5b98\u65b9Discord: https://discord.gg/5xApZtgV2u\n\u00a7e\u5b98\u65b9\u7db2\u7ad9: https://www.rpmtw.ga\n\u00a7b\u5982\u679c\u6709\u4e9b\u529f\u80fd\u4e0d\u9700\u8981\u4e5f\u53ef\u4ee5\u6253\u958b\u8a2d\u5b9a\u9078\u55ae\u95dc\u9589\u5594(\u9810\u8a2d\u5feb\u6377\u9375\u70baO)"
+        }
+    },
+    "Fabric": {
+        "1.16": {
+            "latest": "1.2.0"
+        },
+        "1.17": {
+            "latest": "1.2.1",
+            "DownloadUrl": "",
+            "ChangeLog": "\u65b0\u589e\u5b87\u5b99\u901a\u8a0a\u7cfb\u7d71\u3001\u66f4\u65b0\u63d0\u793a\u5c07\u986f\u793a\u8b8a\u66f4\u65e5\u8a8c\uff0c\u4fee\u5fa9\u4e86\u4e00\u4e9bbug..."
+        }
+    }
 }
