@@ -1,15 +1,15 @@
 {
     "_comment_0": "",
-    "entity.fluidcows.fluidcow.name": "Fluid Cow",
-    "tile.fluidcows.stall.name": "Cow Stall",
-    "tile.fluidcows.accelerator.name": "Growth Accelerator",
-    "item.fluidcows.cow_halter.name": "Cow Halter",
-    "item.fluidcows.cow_displayer.name": "Cow Displayer",
-    "itemGroup.fluidcows": "Fluid Cows",
-    "tile.fluidcows.feeder.name": "Feeder",
-    "tile.fluidcows.sorter.name": "Sorter",
-    "item.fluidcows.ranger.name": "Ranger upgrade",
-    "gui.fluidcows.sorter.remove": "Remove %s",
-    "gui.fluidcows.sorter.insert": "Click here with hovered NEXT item for add fluid NEXT via bucket / cell / displayer",
-    "gui.fluidcows.sorter.list": "Change to %slist"
+    "entity.fluidcows.fluidcow.name": "流體牛",
+    "tile.fluidcows.stall.name": "牛畜欄",
+    "tile.fluidcows.accelerator.name": "生長加速器",
+    "item.fluidcows.cow_halter.name": "牛韁繩",
+    "item.fluidcows.cow_displayer.name": "牛顯示器",
+    "itemGroup.fluidcows": "流體牛",
+    "tile.fluidcows.feeder.name": "飼育機",
+    "tile.fluidcows.sorter.name": "分類器",
+    "item.fluidcows.ranger.name": "距離升級",
+    "gui.fluidcows.sorter.remove": "移除 %s",
+    "gui.fluidcows.sorter.insert": "點擊這裡懸浮顯示下一個流體通過了桶/隔間/顯示器",
+    "gui.fluidcows.sorter.list": "變更 %s 列表"
 }
