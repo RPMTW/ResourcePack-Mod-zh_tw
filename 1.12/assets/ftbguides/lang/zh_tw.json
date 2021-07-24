@@ -1,6 +1,6 @@
 {
     "_comment_0": " Config",
-    "ftbguides": "FTB Guides Modpack",
+    "ftbguides": "FTB Guides Common",
     "ftbguides.general.modpack_guide_version": "Modpack Guide Version",
     "ftbguides.general.flash_guides": "Flash Guides Button",
     "ftbguides.general.disable_non_modpack_guides": "Disable Non-Modpack Guides",
@@ -32,5 +32,11 @@
     "ftbguides.lang.theme.light": "Light",
     "ftbguides.lang.theme.solarized_dark": "Solarized Dark",
     "ftbguides.lang.theme.solarized_light": "Solarized Light",
-    "item.ftbguides.book.name": "Guide Book"
+    "item.ftbguides.book.name": "Guide Book",
+    "tile.ftbguides.quest_block.name": "Quest Block",
+    "ftbguides.general.base_uri": "Base URI",
+    "ftbguides_client": "FTB Guides Client",
+    "ftbguides.general.background_alpha": "Background Alpha",
+    "ftbguides.general.hide_mods_not_present": "Hide Missing Mod Guides",
+    "ftbguides.general.hide_other": "Hide Other Guides"
 }
