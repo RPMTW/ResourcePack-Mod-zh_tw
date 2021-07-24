@@ -62,11 +62,10 @@ function GetFile(ID) {
                 })
                     .then(result => {
                         console.log(`${fileName.split(".jar")[0]} 下載完成。`);
-                        compressing.zip.uncompress(result.res, "../jar/" + slug)
-                    })
-                    .then(() => {
-                        console.log(`${fileName.split(".jar")[0]} 解壓縮完成。`)
-                        GetModID(slug, ID, fileName)
+                        compressing.zip.uncompress(result.res, "../jar/" + slug).then(() => {
+                            console.log(`${fileName.split(".jar")[0]} 解壓縮完成。`)
+                            GetModID(slug, ID, fileName)
+                        })
                     })
                     .catch("解壓縮模組檔案時發生未知錯誤: ", console.error);
                 break;
