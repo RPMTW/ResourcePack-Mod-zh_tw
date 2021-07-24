@@ -54,7 +54,7 @@ for (let k = 0; k < 1; k++) {
                                 compressing.zip.uncompress(result.res, "../jar/" + slug).then(() => {
                                     console.log(`${fileName.split(".jar")[0]} 解壓縮完成。`)
                                     GetModID(slug, ModList[i].projectID, fileName)
-                                })
+                                }).catch(console.error);
                             })
                             .catch(console.error);
                         break;
