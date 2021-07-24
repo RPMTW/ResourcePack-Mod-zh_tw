@@ -4,10 +4,6 @@ const config = require(`${process.cwd()}/config.json`)
 const { LangToJson } = require("./LangToJson");
 const CopyDir = require('./CopyDir').CopyDir;
 const CurseForgeIndex = require('./CurseForgeIndex').CurseForgeIndex;
-const {
-    parse,
-    stringify
-} = require('comment-json')
 
 async function LangFile(ModID, slug, id, name) {
     if (config.Blacklist_modId.includes(ModID)) return; //黑名單(模組ID)
@@ -56,12 +52,12 @@ async function LangFile(ModID, slug, id, name) {
     let Before = {};
     if (fs.existsSync(`${process.cwd()}/../assets/${ModID}/lang/zh_tw.json`)) {
         try {
-            Before = parse(fs.readFileSync(`${process.cwd()}/../assets/${ModID}/lang/zh_tw.json`).toString(), null, true);
+            Before = JSON.parse(fs.readFileSync(`${process.cwd()}/../assets/${ModID}/lang/zh_tw.json`).toString(), null, true);
         } catch (error) {
             console.log(ModID, error);
         }
     }
-    let data = stringify(Object.assign({}, Before, New), null, 4)
+    let data = JSON.stringify(Object.assign({}, Before, New), null, 4)
 
     fs.writeFile(`${process.cwd()}/../assets/${ModID}/lang/zh_tw.json`, data, function (error) {
         if (error) {
