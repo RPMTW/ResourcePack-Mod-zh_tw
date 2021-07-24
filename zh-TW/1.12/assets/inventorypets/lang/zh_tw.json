@@ -173,11 +173,11 @@
     "gui.biometofind": "選擇生態域",
     "gui.nameyourpet": "命名你的寵物",
     "pop.inventorypets.biomein": "你在此",
-    "key.inventorypets.category": "Inventory Pets",
+    "key.inventorypets.category": "背包寵物",
     "key.categories.naming": "寵物命名",
     "item.netherportal.patience": "在寵物地獄傳送門尋找安全傳送點時請耐心等待",
     "item.netherportal.noreturn": "無法找到上次的返回點，返回到上次已知重生點",
-    "item.netherportal.newlocnether": "Finding a new location in the Nether",
+    "item.netherportal.newlocnether": "在寵物地獄傳送門尋找安全傳送點時請耐心等待",
     "item.netherportal.lastoverworld": "Returning to your last known location in the Overworld",
     "item.netherportal.lastnether": "Returning to your last known location in the Nether",
     "item.netherportal.lastcustom": "Returning to your last known location in the previous dimension",
@@ -576,5 +576,5 @@
     "info.petrifier.requiresnetherstar": "Petrifier requires a Nether Star",
     "info.petrifier.requiresdiamondorblock": "Petrifier requires a Diamond or this is an invalid block",
     "tooltip.ip.patreonitem": "僅限贊助人",
-    "tooltip.ip.fooderror": "Error"
+    "tooltip.ip.fooderror": "錯誤"
 }
