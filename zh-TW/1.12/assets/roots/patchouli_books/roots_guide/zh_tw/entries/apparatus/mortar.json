@@ -8,13 +8,13 @@
     "pages": [
         {
             "type": "text",
-            "text": "Placed in the world, up to five reagents can be added. Once collected, $(info) apply the pestle by right-clicking to craft the desired output.$(br2)Recipes using the mortar & pestle can be found throughout this book.$(br2)$(info) In addition, the pestle itself can be stored in an empty mortar."
+            "text": "在世界中，最多可以新增五種試劑。 收集後，$(info)通過右鍵單擊以應用所需的杵來製作所需的輸出。$(br2)使用研缽和杵的配方可在本書中找到。$(br2)$(info)另外，研杵本身可以儲存在空的研缽中。"
         },
         {
             "type": "crafting",
             "recipe": "roots:pestle",
             "recipe2": "roots:mortar",
-            "title": "Mortar & Pestle"
+            "title": "研缽和研杵"
         },
         {
             "type": "relations",
