@@ -1,0 +1,22 @@
+{
+    "tile.liftRail.name": "Elevator Rail",
+    "tile.lift.name": "Elevator",
+    "tile.liftcontroller.name": "Elevator Controller Block",
+    "tile.railgun.name": "Block Cannon",
+    "item.devicelinker.name": "Device Linker",
+    "msg.liftSet.name": "Elevator bound to Linker",
+    "msg.floorSet.name": "Set this Floor to %s",
+    "msg.callPanel.name": "Set is Call Panel to %s",
+    "msg.editMode.name": "Edit Mode set to %s",
+    "msg.floorDisplay.name": "Floor Display Mode set to %s",
+    "msg.lift.killed": "電梯實體已被移除",
+    "msg.lift.owner": "這台電梯屬於%s的",
+    "msg.lift.create": "建立電梯成功。",
+    "msg.lift.fail": "建立電梯失敗。",
+    "msg.lift.setcorner": "設定電梯的第一個角落為%s",
+    "msg.lift.toobig": "你不能將電梯做的那麼大。",
+    "msg.lift.noblock": "你需要%s個電梯元件，才能在這建立這種大小的電梯。",
+    "msg.linker.reset": "重設電梯遙控器",
+    "ttinfobook.json": "{pages:[\"[\\\"\\\",{\\\"text\\\":\\\"歡迎翻閱圖特電梯指南。\\\",\\\"color\\\":\\\"dark_green\\\"},{\\\"text\\\":\\\"\\\\n\\\\n接下來的幾頁將會一步一步的指導你如何建立及管理一套電梯系統。\\\",\\\"color\\\":\\\"none\\\"}]\",\"[\\\"\\\",{\\\"text\\\":\\\"入門教學：\\\",\\\"color\\\":\\\"dark_green\\\"},{\\\"text\\\":\\\"\\\\n\\\\n你需要做的第一件事就是備齊幾個電梯方塊、兩三個電梯控制方塊，以及一台電梯遙控器；\",\\\"color\\\":\\\"none\\\"}]\",\"[\\\"\\\",{\\\"text\\\":\\\"之後，第一個步驟，先蓋出你想要讓它成為電梯的結構。\\\\n\\\\n然後對著想要的第一個角落拿著電梯遙控器按下右鍵，圈選區域將會被蒙上一層框線； \\\"},{\\\"text\\\":\\\"red\\\",\\\"color\\\":\\\"red\\\"}]\",\"[\\\"\\\",{\\\"text\\\":\\\"再來對著第二個角落，用同樣的方式按下潛行鍵+右鍵，框選的紅色區域將會被轉換成電梯\\\\n\\\\n如果沒有足夠的電梯原料，將會顯示建立失敗的提示，並告訴你應該需要多少的數量，\\\"}]\",\"[\\\"\\\",{\\\"text\\\":\\\"再來持著遙控器對建立好的電梯按潛行鍵+右鍵，遙控器將會對電梯進行「綁定」。\\\\n\\\\n如果你想要移除這台電梯，可以手持著木棒對電梯按潛行鍵+右鍵，電梯的區域將會恢復原樣；\\\"}]\",\"[\\\"\\\",{\\\"text\\\":\\\"再來，放置一個電梯控制方塊。\\\\n\\\\n電梯會停在電梯控制方塊放置的下面兩格處。\\\\n\\\\n拿著遙控器，對著你想它成為電梯面板的那面按下右鍵，\\\"}]\",\"[\\\"\\\",{\\\"text\\\":\\\"再次按下則會在電梯樓層四頁的介面之間切換。\\\\n\\\\n如果是拿著木棒對著控制器的六面按下，將會切換面板的開啟或關閉。\\\"}]\",\"[\\\"\\\",{\\\"text\\\":\\\"相鄰的電梯控制方塊將會被視為同一層樓。\\\\n\\\\n你可以拿未連接的遙控器對控制器按下潛行鍵+右鍵，它將會改變為呼叫畫面。\\\"}]\",\"[\\\"\\\",{\\\"text\\\":\\\"要真正的將電梯與控制器所在的樓層連接起來，你需要拿著遙控器，對樓層介面中要設定的樓層數字按下潛行鍵+右鍵；這樣那層樓將會被分配到所設定的樓層。\\\"}]\",\"[\\\"\\\",{\\\"text\\\":\\\"如果需要使用，對著介面上你想要到達的樓層，空手使用或拿著任何物品（除了木棍和遙控器除外）按下右鍵。\\\"}]\",\"[\\\"\\\",{\\\"text\\\":\\\"你也可以在電梯裡放上箱子或控制器。\\\\n\\\\n如果想要放置控制器再電梯裏，請先確認控制器的介面是否開啟。\\\"}]\",\"[\\\"\\\",{\\\"text\\\":\\\"此外，本模組有支援OpenComputers模組，並可以使用以下的代碼：\\\\n\\\\nsetFloor(number)\\\\ngetFloor(number)\\\\ncallFloor(number)\\\\ncall(X/Y/Z)Value(number)\\\\nget(X/Y/Z)Value()\\\\ngetFloorYValue(number)\\\"}]\"],title:\"圖特電梯指南\",author:Thutmose}",
+    "entity.lift.name": "Elevator"
+}
