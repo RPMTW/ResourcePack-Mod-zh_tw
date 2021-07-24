@@ -1,6 +1,6 @@
 {
     "_comment_0": " Config",
-    "ftbguides": "FTB 整合包指南 通用",
+    "ftbguides": "FTB Guides Common",
     "ftbguides.general.modpack_guide_version": "整合包指南版本",
     "ftbguides.general.flash_guides": "Flash 指南按鈕",
     "ftbguides.general.disable_non_modpack_guides": "停用非整合包指南",
@@ -32,5 +32,11 @@
     "ftbguides.lang.theme.light": "亮色",
     "ftbguides.lang.theme.solarized_dark": "Solarized 暗色",
     "ftbguides.lang.theme.solarized_light": "Solarized 亮色",
-    "item.ftbguides.book.name": "指南書"
+    "item.ftbguides.book.name": "指南書",
+    "tile.ftbguides.quest_block.name": "Quest Block",
+    "ftbguides.general.base_uri": "Base URI",
+    "ftbguides_client": "FTB Guides Client",
+    "ftbguides.general.background_alpha": "Background Alpha",
+    "ftbguides.general.hide_mods_not_present": "Hide Missing Mod Guides",
+    "ftbguides.general.hide_other": "Hide Other Guides"
 }
