@@ -1,12 +1,12 @@
 {
     "itemGroup.emberroot": "余根動物園",
-    "entity.rainbow_golem.name": "傀儡",
-    "entity.rainbow_golem.blue.name": "冰之傀儡",
-    "entity.rainbow_golem.green.name": "自然傀儡",
-    "entity.rainbow_golem.yellow.name": "鍍金傀儡",
-    "entity.rainbow_golem.orange.name": "火之傀儡",
-    "entity.rainbow_golem.purple.name": "寶石傀儡",
-    "entity.rainbow_golem.red.name": "熔岩傀儡",
+    "entity.rainbow_golem.name": "魔像",
+    "entity.rainbow_golem.blue.name": "冰之魔像",
+    "entity.rainbow_golem.green.name": "自然魔像",
+    "entity.rainbow_golem.yellow.name": "鍍金魔像",
+    "entity.rainbow_golem.orange.name": "火之魔像",
+    "entity.rainbow_golem.purple.name": "寶石魔像",
+    "entity.rainbow_golem.red.name": "熔岩魔像",
     "entity.rainbowslime.name": "彩虹史萊姆",
     "entity.rainbowslime.blue.name": "水之史萊姆",
     "entity.rainbowslime.clay.name": "土之史萊姆",
@@ -32,5 +32,5 @@
     "entity.rootsonespriteling.name": "小精靈",
     "entity.creeper.name": "被詛咒的苦力怕",
     "item.owl_egg.name": "貓頭鷹蛋",
-    "death.attack.ember": "被傀儡的火焰吞噬。"
+    "death.attack.ember": "被魔像的火焰吞噬。"
 }
