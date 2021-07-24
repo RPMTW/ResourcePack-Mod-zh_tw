@@ -793,7 +793,7 @@
     "gui.warning": "警告",
     "_comment_60": " GUI Errors from the different Tinker Tables",
     "gui.error.invalid_pattern": "模具內含的不是有效的工具部件！",
-    "gui.error.useless_tool_part": "這個部件無法用來製作任何工具！\\n不是材料%s缺失某些資訊，就是沒有工具需要用%s來製作。",
+    "gui.error.useless_tool_part": "這個部件無法用來製作任何工具！\\n不是材料%s缺少某些資訊，就是沒有工具需要用%s來製作。",
     "gui.error.wrong_material_part": "有一個或多個物品具有這個工具不支援的材料。",
     "gui.error.not_enough_durability": "沒有足夠的耐久度來替換部件！\\n還需要 %d 點耐久度。",
     "gui.error.craftevent.tool.default": "有其它模組禁止了這個物品製作。",
