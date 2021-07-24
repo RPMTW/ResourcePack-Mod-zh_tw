@@ -11,7 +11,7 @@
     "commands.bonsaitrees.saveTreeShape.exception.can_not_determine_shape": "無法確定形狀，也許你正在看著的方塊在排除列表裡？",
     "commands.bonsaitrees.saveTreeShape.error_while_saving_shape": "無法保存樹形到文件，請檢查日誌獲取詳細資訊。",
     "commands.bonsaitrees.saveTreeShape.wrote_shape_to_file": "已將形狀寫入檔案：%s",
-    "commands.bonsaitrees.generateMissingShapes.description": "在你視線所向的地方生成所有缺失的樹的類型。警告：破壞力極強！",
+    "commands.bonsaitrees.generateMissingShapes.description": "在你視線所向的地方生成所有缺少的樹的類型。警告：破壞力極強！",
     "commands.bonsaitrees.generateMissingShapes.usage": "/bonsaitrees generateMissingShapes yes",
     "commands.bonsaitrees.generateMissingShapes.exception.confirm_with_yes": "請使用 'yes' 作為子命令的第一個參數以確認！你正在看著的區域周圍 32x32x32 的方塊將因此被抹去！",
     "commands.bonsaitrees.generateMissingShapes.info": "正在生成的樹形：%s",
