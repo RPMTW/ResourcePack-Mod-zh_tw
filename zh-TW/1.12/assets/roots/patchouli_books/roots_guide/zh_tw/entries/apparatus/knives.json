@@ -1,11 +1,11 @@
 {
-    "name": "Knives",
+    "name": "小刀",
     "icon": "roots:wood_knife",
     "category": "apparatus",
     "pages": [
         {
             "type": "text",
-            "text": "Knives are a simple and lightweight tool, suitable as both a dagger and a tool for cutting wood. $(info) Logs broken with a knife will drop $(l:resources/bark)Bark$(), which is necessary for many druidic rituals.$(br2)In a pinch, they can be used as a weaker but faster weapon."
+            "text": "小刀是一種簡單而輕巧的工具，既適合用作匕首，又可以用作砍伐木材的工具。 $(info) 用刀打碎的原木會掉落 $(l:resources/bark)樹皮$()，這對於許多德魯伊儀式來說是必需的。$(br2)在緊要關頭，它們可以用作較弱但較快的武器。"
         },
         {
             "type": "crafting",
