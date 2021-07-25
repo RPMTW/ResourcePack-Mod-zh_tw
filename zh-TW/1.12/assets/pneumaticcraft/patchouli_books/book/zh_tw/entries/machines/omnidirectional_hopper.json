@@ -1,27 +1,27 @@
 {
-  "name": "Omnidirectional Hopper",
+  "name": "全方位漏斗",
   "icon": "pneumaticcraft:omnidirectional_hopper",
   "category": "machines",
   "advancement": "pneumaticcraft:root",
   "pages": [
     {
       "type": "text",
-      "text": "The $(item)Omnidirectional Hopper/$ behaves rather like the vanilla $(item)Hopper/$. However, this Hopper can be oriented in $(italic)any/$ direction, not just up. On top of that, it accepts $(l:base_concepts/upgrades)Upgrades/$, which can be used to speed up the Hopper considerably. It has a custom hitbox, so you can access blocks behind it. It doesn't use $(l:base_concepts/pressure)air/$, so it's a very useful early game device."
+      "text": "$(item)全方位漏斗/$的行為與原版$(item)漏斗/$很相似。然而，這一漏斗（輸入端）可以朝向$(italic)任意/$方向，不僅上方。此外，全方位漏斗接受$(l:base_concepts/upgrades)升級/$，因而其速度可以被顯著提升。其具有更為貼切的碰撞箱，因此可以存取處在其後方的方塊。其不需要$(l:base_concepts/pressure)空氣/$即可運作，因而在早期即可用作運輸途徑。"
     },
     {
       "type": "spotlight",
       "item": "pneumaticcraft:omnidirectional_hopper",
-      "text": "When you place the Hopper, its $(9)input/$ will face toward you, and its $(6)output/$ will face toward the block it was placed against.$(p)$(thing)Right-click/$ the Hopper with a $(l:tools/pneumatic_wrench)Pneumatic Wrench/$ (other wrenches may also work) to re-orient its input. $(thing)Sneak+right-click/$ the Hopper to re-orient its output."
+      "text": "放置下全方位漏斗時，其$(9)輸入端/$朝向放置者，$(6)輸出端/$朝向所右擊的方塊。$(p)使用$(l:tools/pneumatic_wrench)氣動扳手/$（其餘扳手類工具也許同樣可行）$(thing)右擊/$漏斗以重新導向其輸入。以同樣的方式$(thing)潛行右擊/$漏斗以重新導向其輸出。"
     },
     {
       "type": "text",
-      "title": "Dispenser Upgrade",
+      "title": "發射器升級",
       "flag": "pneumaticcraft:omniHopperDispenser",
-      "text": "If a $(l:base_concepts/upgrades#dispenser)Dispenser Upgrade/$ is inserted into the $(item)Omnidirectional Hopper/$, it will automatically eject items into the world at the $(6)output/$ side (if there's no inventory there).$(p)This can be used as a greatly improved $(item)Dropper/$: faster, more accurate, and better $(#f00)redstone control/$."
+      "text": "若$(item)全方位漏斗/$安裝了$(l:base_concepts/upgrades#dispenser)發射器升級/$，其將自動將物品在$(6)輸出端/$以物品形式投擲（若輸出端沒有容器）。$(p)這可用作改良的$(item)投擲器/$：頻率更高，更精準，$(#f00)紅石控制/$更好。"
     },
     {
       "type": "crafting",
-      "text": "Creating an Omnidirectional Hopper",
+      "text": "全方位漏斗的合成表",
       "recipe": "pneumaticcraft:omnidirectional_hopper"
     }
   ]
