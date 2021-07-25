@@ -1,16 +1,16 @@
 {
-  "name": "Aphorism Tile",
+  "name": "格言瓷磚",
   "icon": "pneumaticcraft:aphorism_tile",
   "category": "machines",
   "advancement": "pneumaticcraft:assembly_controller",
   "pages": [
     {
       "type": "text",
-      "text": "On these sign-like blocks you can store theoretically infinite amounts of text. When you type the text it will automatically scale in a way that the full text fits on the tile.$(p)When you place down an Aphorism Tile it $(ttcolor)$(t:This can be disabled in config - see 'B:dramaSplash')defaults/$ to a random splash text from the $(l:http://mc-drama.herokuapp.com/)Drama Generator/$."
+      "text": "在這些像告示牌一樣的方塊上你可以寫下理論上無窮多的文字。輸入時文字將會自動縮放以使得全部文字可以被顯示在瓷磚上。$(p)放置一個格言瓷磚時，其$(ttcolor)$(t:這可以在設定檔案裡停用 - 見 'B:dramaSplash')預設/$顯示一條隨機的由$(l:http://mc-drama.herokuapp.com/)Drama Generator/$生成的文字。"
     },
     {
       "type": "text",
-      "text": "$(li)$(item)Aphorism Tiles/$ can be edited in-place by $(thing)right-clicking/$ with an empty hand.$(li)Markup can be added by using $(thing)Alt + 0-9/a-f/l/m/n/o/r/$ ($(l:https://minecraft.gamepedia.com/Formatting_codes)standard Minecraft codes/$).$(li)Holding $(thing)F1/$ will show some popup help for the editor keybindings.$(li)$(item)Aphorism Tiles/$ can be recolored by $(thing)right-clicking/$ with any dye item (oredict-aware). The tile border and background can be colored independently by clicking an appropriate area of the tile."
+      "text": "$(li)$(item)格言瓷磚/$可以通過空手$(thing)右擊/$原地編輯。$(li)可以使用$(thing)Alt + 0-9/a-f/l/m/n/o/r/$ 加入標識符（$(l:https://minecraft.gamepedia.com/Formatting_codes)標準原版標識符/$）。$(li)按下 $(thing)F1/$ 顯示編輯器鍵位綁定的幫助。$(li)$(item)格言瓷磚/$可以透過使用染料（識別礦物辭典）$(thing)右擊/$染色。瓷磚的邊界與背景可以透過右擊相應部分來單獨染色。"
     },
     {
       "type": "pneumaticcraft:assembly_system",
