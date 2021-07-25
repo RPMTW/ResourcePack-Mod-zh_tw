@@ -29,7 +29,7 @@
     "config.fixCascading.tooltip": "Try to fix cascading. ",
     "config.infinite_mode": "Infinite Mode (WIP)",
     "config.infinite_mode.tooltip": "Enabling this, new dungeons should gen when the generated ones are already defeated, else only one of each dungeon apears on the world.",
-    "config.mob_spawn_rates": "Spawn Weight",
+    "config.mob_spawn_rates": "生成權重",
     "config.mob_spawn_rates.tooltip": "Config your mobs spawn rates, 0 means no spawn. Bigger number more chance to spawn. As reference, an Zombie have an weight of 100 on night.",
     "config.world_gen": "World Gen",
     "config.world_gen.tooltip": "World Generation configs",
