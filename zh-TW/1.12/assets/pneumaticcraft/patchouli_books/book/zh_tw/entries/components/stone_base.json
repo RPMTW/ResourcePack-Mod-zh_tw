@@ -1,16 +1,16 @@
 {
-  "name": "Stone Base",
+  "name": "石頭基座",
   "icon": "pneumaticcraft:stone_base",
   "category": "components",
   "advancement": "pneumaticcraft:pressure_tube",
   "pages": [
     {
       "type": "text",
-      "text": "This is a crafting component for other devices. It has no use on its own."
+      "text": "合成材料。其自身並無用途。"
     },
     {
       "type": "crafting",
-      "text": "Creating a Stone Base",
+      "text": "石頭基座的合成表",
       "recipe": "pneumaticcraft:stone_base"
     }
   ]
