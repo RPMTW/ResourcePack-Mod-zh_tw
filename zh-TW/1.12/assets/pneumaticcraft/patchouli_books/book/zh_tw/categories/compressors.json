@@ -1,6 +1,6 @@
 {
-  "name": "Compressors",
-  "description": "Compressors are machines which compress air to generate $(l:base_concepts/pressure)pressure/$. These are the power generators for $(pncr).",
+  "name": "壓縮機",
+  "description": "壓縮機是可以通過壓縮空氣製造$(l:base_concepts/pressure)壓力/$的機器。這是$(pncr)的能量源。",
   "icon": "pneumaticcraft:air_compressor",
   "sortnum": 1
 }
