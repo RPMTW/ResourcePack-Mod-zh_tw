@@ -1,50 +1,50 @@
 {
-  "name": "Aerial Interface",
+  "name": "空氣介面",
   "icon": "pneumaticcraft:aerial_interface",
   "category": "machines",
   "advancement": "pneumaticcraft:advanced_pressure_tube",
   "pages": [
     {
       "type": "text",
-      "text": "The $(item)Aerial Interface/$ is a very powerful device which can connect directly with a player's inventory. When sufficiently $(l:base_concepts/pressure)pressurized/$, it can be interacted with just like any other inventory. Instead of landing in the Interface, items get sent $(italic)directly/$ to the owning player. You could use a $(l:logistics/frames#requester)Logistics Requester Frame/$ on the Interface to keep yourself supplied with 64 torches, for example."
+      "text": "$(item)空氣介面/$是一台功能強大的機器，介於其可以與玩家的物品欄相互動。施加足夠的$(l:base_concepts/pressure)壓力/$後，可以按照與一般容器互動的方式與該機器互動。輸入物品並不快取於介面中，而是$(italic)直接/$傳輸到目標玩家的物品欄中。例如，可以向介面安裝$(l:logistics/frames#requester)物流請求框架/$，並以此在玩家的物品欄中保持至少 64 根火把。"
     },
     {
       "type": "text",
-      "text": "By default, your main inventory is accessed through any side face of the Interface, and your armor slots are accessed via the top/bottom faces. However, this can be reconfigured via the $(bold)Side Configuration/$ GUI side-tab.$(p)You can connect any face to any of:$(li)Main inventory$(li)Armor slots$(li)Offhand slot$(li)Ender inventory (as accessed by vanilla $(item)Ender Chests/$)."
+      "text": "預設情況下，玩家的主物品欄由介面的側面存取，而盔甲欄位則由頂/底面存取。然而，存取設定可以在機器介面中的$(bold)側面設定/$標籤頁中重新設定。$(p)可以將任義大利麵設定為存取下列物品欄：$(li)主物品欄$(li)盔甲欄位$(li)非慣用手欄位$(li)終界物品欄（即原版$(item)終界儲物箱/$的介面）。"
     },
     {
       "type": "text",
-      "title": "Water Breathing",
-      "text": "Obviously, because we have something that can link to a player, which is powered by $(l:base_concepts/pressure)air/$, there should be something that allows us to transfer this air when necessary - right? At a cost of 80mL/tick, you can breathe indefinitely under water.$(p)This is slightly more efficient than a $(l:armor/pneumatic_helmet)Pneumatic Helmet/$ with $(l:base_concepts/upgrades#scuba)SCUBA Upgrade/$, but does not provide the clear underwater vision."
+      "title": "水下呼吸",
+      "text": "當然，既然有一台機器可以與玩家連結，而其又是由$(l:base_concepts/pressure)空氣/$供能的，那麼應該有一種方法可以在有需要時向玩家傳輸空氣——對吧？玩家在水下時，介面將以80 mL/刻的速率消耗額外空氣以保持玩家的水下呼吸。$(p)按空氣計，這比安裝了$(l:base_concepts/upgrades#scuba)水下呼吸升級/$的$(l:armor/pneumatic_helmet)氣動頭盔/$效率更高，但並不提供水下清晰視線。"
     },
     {
       "type": "text",
-      "title": "Interfacing Forge Energy",
-      "text": "An $(item)Aerial Interface/$ accepts $(thing)Forge Energy/$ (compatible with RF power and the power from many other mods). The energy stored in its internal buffer (100,000) is used to charge any FE-chargeable item in the player's inventory (and armor slots)."
+      "title": "傳輸 FE能量",
+      "text": "$(item)空氣介面/$接受 $(thing)FE能量/$（與 RF 和其餘部分模組的能量系統相容）。能量被儲存在其內部快取（大小為 100000 FE）中，並用於對玩家物品欄（包括盔甲槽）中可使用 FE 充能的物品充能。"
     },
     {
       "type": "text",
       "title": "Auto-Feeding",
-      "text": "By inserting a $(l:base_concepts/upgrades#dispenser)Dispenser Upgrade/$ you can make the $(item)Aerial Interface/$ act like a remote auto-feeder. Only food items will be accepted by the Interface, and only when you're hungry enough to fully utilize the provided meal. Note that when an inventory offers a stack of >1, the Interface waits until you can consume that amount. To make sure the smallest amount of food can be utilized use slow inserters such as $(item)Hoppers/$."
+      "text": "安裝$(l:base_concepts/upgrades#dispenser)發射器升級/$後，$(item)空氣介面/$可以對玩家遠程餵食。此時，介面只接受食物物品，並且只有提供的物品可以被完全利用時才可以成功輸入。註：若試圖輸入的物品堆疊數大於 1，介面將在整堆物品可以被一次利用時再進行餵食。可以使用$(item)漏斗/$等低速輸入手段確保單次輸入的物品堆疊數最小。"
     },
     {
       "type": "text",
-      "title": "Experience Handling",
-      "text": "The $(l:base_concepts/upgrades#dispenser)Dispenser Upgrade/$ also allows you to pump $(thing)XP fluids/$ from several other mods into or out of the Interface. When multiple types of liquid XP exist, you can choose which one to use via the $(bold)Experience/$ tab in the GUI.  This tab also shows which mods' experience fluids have been detected and are available for use."
+      "title": "處理經驗",
+      "text": "安裝$(l:base_concepts/upgrades#dispenser)發射器升級/$後，可以與介面傳輸部分模組加入的$(thing)經驗流體/$。若有多種經驗流體可用，可在$(bold)經驗/$標籤頁選擇使用的流體。該標籤頁也顯示檢測到並可用的所有經驗流體。"
     },
     {
       "type": "text",
-      "title": "Experience Handling (cont.)",
-      "text": "Note that the Interface doesn't have an internal liquid buffer; it uses your experience directly as a 'tank'. This means that when pumping XP in or out, you need a device that can transport liquids at a rate higher than the amount of liquid XP per XP point. This rate is 20mB/tick for all known fluids at the time of writing."
+      "title": "處理經驗（續）",
+      "text": "需要注意的是，空氣介面自身並不具有內部流體快取；傳輸的流體直接與玩家的經驗值互動。因此，傳輸經驗流體時，傳輸速率需要大於每刻傳輸 1 點經驗對應的流體量。書寫本頁時，對於已知的所有流體這一速率為 20 mB/刻。"
     },
     {
       "type": "text",
       "title": "Auto-Charging",
-      "text": "By pointing a $(l:tubes/charging_module)Charging Module/$ at the $(item)Aerial Interface/$, you can charge any $(base_concepts/pressure)pressurizable/$ items in your inventory.$(p)Note that to charge any worn $(l:armor/overview)Pneumatic Armor/$ items, the Charging Module must be pointed at a side of the Interface which is connected to your armor slots."
+      "text": "若將$(l:tubes/charging_module)充氣管道模組/$指向$(item)空氣介面/$，可以對物品欄中的$(base_concepts/pressure)可充氣/$物品進行充氣。$(p)需要注意的是，要對佩戴的$(l:armor/overview)氣動盔甲/$充氣，充氣管道模組應指向與盔甲欄位連結的側面。"
     },
     {
       "type": "crafting",
-      "text": "Creating an Aerial Interface",
+      "text": "空氣介面的合成表",
       "recipe": "pneumaticcraft:aerial_interface"
     }
   ]
