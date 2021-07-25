@@ -1,16 +1,16 @@
 {
-  "name": "Electrostatic Compressor",
+  "name": "靜電壓縮機",
   "icon": "pneumaticcraft:electrostatic_compressor",
   "category": "compressors",
   "advancement": "pneumaticcraft:advanced_pressure_tube",
   "pages": [
     {
       "type": "text",
-      "text": "The $(item)Electrostatic Compressor/$ is a $(l:base_concepts/pressure_tiers)tier 2/$ air $(l:base_concepts/pressure)compressor/$, which uses $(thing)lightning/$ for the energy to produce compressed air.$(p)When it is struck by lightning it will instantly produce 200,000mL of air. Seems like a lot, but how often do you see a Charged Creeper sneaking around? You have to have it get struck."
+      "text": "$(item)靜電壓縮機/$是一個$(l:base_concepts/pressure_tiers)二級/$空氣$(l:base_concepts/pressure)壓縮機/$，使用(thing)閃電/$作為壓縮空氣的能源。$(p)其被閃電擊中時將立刻產生 200000 mL 的空氣。看起來很多，但你又看見過幾次高壓苦力怕？這樣的產出只有在被閃電擊中時才會發生。"
     },
     {
       "type": "text",
-      "text": "To increase the chance of this happening, you can connect $(item)Iron Bars/$ to this machine which act as a conductor for the lightning bolt.$(p)Advice would be to create a large $(thing)grid/$ of Iron Bars: they can be up 5 blocks away horizontally (circular radius), and up to 5 blocks above or below, but they must all be connected to the $(item)Electrostatic Compressor/$ via each other."
+      "text": "要增加其被擊中的機率，可以向該機器連接$(item)鐵柵欄/$，充當引導閃電的導體。$(p)建議搭建一個鐵柵欄$(thing)網格/$：其範圍是橫向 5 格（直線距離），向上或下各 5 格；每個鐵柵欄必須通過其餘鐵柵欄與$(item)靜電壓縮機/$相連接。"
     },
     {
       "type": "image",
@@ -20,27 +20,27 @@
     },
     {
       "type": "text",
-      "text": "Note that in the image to the left, only the central compressor has a sufficiently large grid surrounding it for maximum efficiency; the other compressors will have a lower chance of a triggering a strike (though this is still more effective than having only a single compressor in the middle of the grid)."
+      "text": "註：在左頁的圖片中，只有中間的壓縮機具有足夠大的網格以達到最大效率；外圍的壓縮機被擊中的機率更小（儘管整體而言，這還是比只有中間的壓縮機更大）。"
     },
     {
       "type": "text",
-      "text": "With multiple $(item)Electrostatic Compressors/$ on a $(thing)grid/$, the air from a strike is shared equally amongst them.$(p)To prevent a compressor from blowing up when the pressure gets too high after a strike, you can connect up $(item)Iron Bars/$ on the bottom side of the compressor. This way the energy can be dissipated to ground instead of going into the machine."
+      "text": "若同一$(thing)網格/$中有多個$(item)靜電壓縮機/$，閃電生成的空氣將在所有壓縮機之間等量分配。$(p)要避免壓縮機被擊中時因壓力過高爆炸，可以向機器底面連接$(item)鐵柵欄/$。這樣，多餘的能量可以被接地而非進入機器。"
     },
     {
       "type": "text",
-      "text": "This dissipation only happens when the danger pressure of the compressor has been reached, not sooner. Each $(item)Iron Bar/$ $(italic)directly/$ below the compressor (on the same Y axis) will dissipate 10,000mL of excess air. $(p)Thus, with 10 compressors on a shared $(thing)grid/$, $(ttcolor)$(t:200000 / 10 = 20000 air produced per compressor; 10000 x 2 = 20000 air dissipated)only 2 Iron Bars/$ are needed below each compressor. (You could also add $(l:base_concepts/upgrades#security)Security Upgrades/$ to the compressor, but that's more expensive and less effective)"
+      "text": "這一釋壓僅在機器達到危險壓力而非更早時發生。每個在機器$(italic)正/$下方（同一 y 軸）的$(item)鐵柵欄/$將會釋放 10000 mL 的多餘空氣。$(p)因此，若同一$(thing)網格/$上有 10 個壓縮機，每台機器下方$(ttcolor)$(t:每台機器產生 200000 / 10 = 20000 mL 空氣；10000 x 2 = 20000 mL 空氣被釋放)只需要 2 個鐵柵欄/$。（也可以安裝$(l:base_concepts/upgrades#security)安全升級/$，但這更為昂貴且低效。）"
     },
     {
       "type": "text",
-      "text": "To improve the chance of a strike, you can also place up to 10 $(item)Iron Bars/$ directly $(italic)above/$ the compressor to form a $(thing)lightning rod/$. Each bar will slightly improve the strike chance."
+      "text": "要提高被擊中的機率，也可以在機器正$(italic)上/$方放置最多 10 個$(item)鐵柵欄/$，構成一個$(thing)避雷針/$。每個鐵柵欄將會略微提升被擊中的機率。"
     },
     {
       "type": "text",
-      "text": "$(bold)Note:/$ unlike in previous versions of $(pncr), natural lightning bolts do $(italic)not/$ add air to the compressor (this was highly abusable using other mods to create lightning). Instead the compressor has a small chance to create a \"fake\" bolt. This chance is $(italic)very/$ small in clear weather, but improves when $(thing)raining/$, and improves greatly in a $(thing)thunderstorm/$."
+      "text": "$(bold)註：/$與舊版的$(pncr)不同，自然生成的閃電$(italic)並不/$使壓縮機生成空氣（否則，其餘模組加入的生成閃電的手段將會破壞平衡性）。相反，壓縮機有小機率生成「偽」閃電。這一機率在晴天$(italic)極/$小，在$(thing)雨天/$稍有提高，在$(thing)雷雨天/$則是大大提高。"
     },
     {
       "type": "crafting",
-      "text": "Creating an $(item)Electrostatic Compressor/$",
+      "text": "$(item)靜電壓縮機/$的合成表",
       "recipe": "pneumaticcraft:electrostatic_compressor"
     }
   ]
