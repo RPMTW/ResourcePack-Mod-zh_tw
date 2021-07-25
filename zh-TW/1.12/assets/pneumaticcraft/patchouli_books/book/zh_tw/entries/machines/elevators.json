@@ -1,41 +1,41 @@
 {
-  "name": "Elevators",
+  "name": "電梯",
   "icon": "pneumaticcraft:elevator_base",
   "category": "machines",
   "advancement": "pneumaticcraft:plastic",
   "pages": [
     {
       "type": "text",
-      "text": "The $(thing)Elevator/$ is a machine that can be used to vertically transport any entities, whether it be an item, mob, animal or player.$(p)You need to place an $(item)Elevator Base/$ at the bottom. You can stack multiple bases on top of each other.$(p)On top of this, place $(item)Elevator Frames/$, which act as a support for the elevator."
+      "text": "$(thing)電梯/$是一個可以用於縱向運輸任何實體的機器，無論其是物品，怪物，動物或是玩家。$(p)需要在結構的底部放置$(item)電梯基座/$。可以疊加多個電梯基座。$(p)在此之上，放置$(item)電梯框架/$，作為對電梯的支撐。"
     },
     {
       "type": "text",
-      "text": "Both the number of $(item)Elevator Bases/$ and the number of $(item)Elevator Frames/$ determine how high the $(thing)Elevator/$ can extend. The maximum height of an $(thing)Elevator/$ is the lower of:$(li)1 x the number of vertically-stacked $(item)Elevator Frames/$, or$(li)$(ttcolor)$(t:You can change this multiplier in mod config - see 'I:elevatorBaseBlocksPerBase')4 x/$ the number of vertically-stacked $(item)Elevator Bases/$"
+      "text": "$(item)電梯基座/$和$(item)電梯框架/$各自的數量共同決定了$(thing)電梯/$可以上升的高度。這一最大高度為下面兩個數據的較小值：$(li)1 x 豎直堆疊的$(item)電梯框架/$的個數$(li)$(ttcolor)$(t:這一乘數可以在設定檔案中變更 - 見 'I:elevatorBaseBlocksPerBase')4 x/$ 豎直堆疊的$(item)電梯基座/$的數目"
     },
     {
       "type": "text",
-      "text": "The $(thing)Elevator/$ can operate in one of two modes:$(li)$(bold)Redstone/$: a $(#f00)redstone signal/$ applied to any $(item)Elevator Base/$ controls the elevator's height, proportional to the signal strength (no signal = 0% extension, full signal = 100% extension).$(li)$(bold)Elevator Caller/$: The $(l:machines/elevators#caller)Elevator Caller/$ can provide some more sophisticated control over the elevator."
+      "text": "$(thing)電梯/$可以在以下兩種模式裡執行：$(li)$(bold)紅石模式/$：施加於$(item)電梯基座/$的$(#f00)紅石信號/$控制電梯的高度，正比於信號強度（信號為 0 時位於最底端，信號為 15 時位於最頂端）。$(li)$(bold)電梯呼叫器/$：$(l:machines/elevators#caller)電梯呼叫器/$可以提供對電梯更複雜的控制。"
     },
     {
       "type": "text",
-      "title": "Multiblock Elevators",
-      "text": "You can create bigger $(thing)Elevators/$ by placing more $(item)Elevator Bases/$ next to each other horizontally. When the top $(item)Elevator Base/$ of every connected $(thing)Elevator/$ is at the same height, the $(thing)Elevators/$ will share the floors (defined by $(l:machines/elevators#caller)Elevator Callers/$), redstone input, and therefore act as a single multiblock."
+      "title": "多方塊的電梯",
+      "text": "可以通過水平連接$(item)電梯基座/$以擴展$(thing)電梯/$的大小。當相鄰的$(thing)電梯/$的頂部$(item)電梯基座/$位於統一高度時，$(thing)電梯/$將會共享樓層（由$(l:machines/elevators#caller)電梯呼叫器/$定義）於紅石輸出，因而形成一個「多方塊結構」。"
     },
     {
       "type": "text",
-      "title": "Saving Air",
-      "text": "The $(item)Elevator Base/$ can accept up to four $(l:base_concepts/upgrades#charging)Charging Upgrades/$, which allow it to reclaim used air when the elevator descends (normally descent costs no air but does not regenerate air either).$(p)This comes at a cost of slower descent; with 4 upgrades installed, air is reclaimed at 60% of the cost to rise that distance, but descent will be 40% slower."
+      "title": "回收空氣",
+      "text": "$(item)電梯基座/$接受最多 4 個$(l:base_concepts/upgrades#charging)充氣升級/$，允許其在下降時回收一定的空氣（安裝前下降既不消耗也不回收空氣）。$(p)其代價是下降速度更慢；安裝 4 個升級時，會回收上升同一高度所需的空氣的 60%，但下降速度會減慢 40%。"
     },
     {
       "type": "text",
       "anchor": "caller",
-      "title": "Elevator Caller",
-      "text": "$(item)Elevator Callers/$ placed next to $(item)Elevator Frames/$ are used to control the height of the $(thing)Elevator/$. When you place down an $(item)Elevator Frame/$, it'll calculate how many $(thing)floors/$ there are, defined by other $(item)Elevator Callers/$.$(p)$(thing)Floors/$ can be named in the $(item)Elevator Base/$ GUI; floor names will be displayed as buttons on each $(item)Elevator Caller/$. They can be clicked to call the $(thing)Elevator/$ to that floor."
+      "title": "電梯呼叫器",
+      "text": "放置在$(item)電梯框架/$旁邊的$(item)電梯呼叫器/$用於控制$(thing)電梯/$的高度。放置下一個$(item)電梯框架/$時，其將會計算所含有的$(thing)樓層/$數目，由$(item)電梯呼叫器/$定義。$(p)$(thing)樓層/$可以在$(item)電梯基座/$介面中重新命名；樓層名將會顯示在$(item)電梯呼叫器/$的按鈕中。其可以被點擊，以將電梯呼叫到該樓層。"
     },
     {
       "type": "text",
-      "title": "Elevator Caller (cont.)",
-      "text": "In addition, an $(item)Elevator Caller/$ will emit a $(#f00)redstone signal/$ when the $(thing)Elevator/$ is at its floor, and providing a Caller with a $(#f00)redstone pulse/$ will call the $(thing)Elevator/$ to its floor.$(p)Finally, the $(item)Elevator Caller/$ can be camouflaged to look like other blocks with the $(l:tools/camo_applicator)Camouflage Applicator/$ tool."
+      "title": "電梯呼叫器（續）",
+      "text": "此外，$(item)電梯呼叫器/$將會在$(thing)電梯/$位於該樓層時發出$(#f00)紅石信號/$，而對電梯呼叫器施加一個$(#f00)紅石信號/$將呼叫$(thing)電梯/$至該樓層。$(p)最後，像其他方塊一樣，$(item)電梯呼叫器/$可以使用$(l:tools/camo_applicator)偽裝塗敷器/$進行偽裝。"
     },
     {
       "type": "image",
@@ -43,7 +43,7 @@
         "pneumaticcraft:textures/patchouli/elevator.png"
       ],
       "border": "true",
-      "text": "$(italic)A small Elevator with 3 Elevator Callers/$"
+      "text": "$(italic)一個具有 3 個電梯呼叫器的小型電梯/$"
     },
     {
       "type": "crafting",
