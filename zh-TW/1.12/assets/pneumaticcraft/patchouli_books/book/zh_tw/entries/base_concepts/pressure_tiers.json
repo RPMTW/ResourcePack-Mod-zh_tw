@@ -1,15 +1,15 @@
 {
-  "name": "Pressure Tiers",
+  "name": "壓力級別",
   "icon": "pneumaticcraft:advanced_pressure_tube",
   "category": "base_concepts",
   "pages": [
     {
       "type": "text",
-      "text": "$(pncr) currently has two $(thing)tiers/$ for pneumatic machines:$(p)$(li)$(thing)Tier one/$ machines are capable of nominally resisting 5 bar of pressure.$(li)$(thing)Tier two/$ machines can resist up to 20 bar."
+      "text": "$(pncr)的壓力系統中的機器目前有兩個$(thing)級別/$：$(p)$(li)$(thing)一級/$機器可以保證承受 5 bar 的壓力。$(li)$(thing)二級/$機器可以保證承受 20 bar 的壓力。"
     },
     {
       "type": "text",
-      "text": "Note that $(thing)bar/$ as used by $(pncr) represents the pressure $(bold)above/$ normal atmospheric pressure, so 0 bar is unpressurized air, and -1 bar is a vacuum."
+      "text": "註：在$(pncr)的壓力系統中使用的壓力單位 $(thing)bar/$ 代表$(bold)高於/$正常大氣壓的壓強，也就是說，0 bar 代表未加壓，-1 bar 代表真空。"
     }
   ]
 }
