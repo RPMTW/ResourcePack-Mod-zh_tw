@@ -1,16 +1,16 @@
 {
-  "name": "Conditions",
+  "name": "條件",
   "icon": "minecraft:comparator",
   "category": "programming",
   "advancement": "pneumaticcraft:programmer",
   "pages": [
     {
       "type": "text",
-      "text": "$(thing)Conditions/$ are a collection of widgets that allow you to check something, and jump to another part of your program if the check succeeds.$(p)Every $(thing)Condition/$ widget takes a $(l:programming/text)Text/$ widget parameter (which is always the bottom-most parameter) configured with a $(thing)label name/$."
+      "text": "$(thing)條件/$是一系列允許你檢查某些事情，並且當條件滿足時跳轉到程序的某一部分的程式拼圖。$(p)每個$(thing)條件/$拼圖都在最下排接受$(l:programming/text)文字/$拼圖參數，設定為對應的$(thing)標籤名/$。"
     },
     {
       "type": "text",
-      "text": "When a condition evaluates $(thing)true/$, $(l:programming/flow_control)program execution/$ will jump to a $(l:programming/label)Label/$ widget with the same name as that $(thing)Text/$ parameter on its $(italic)right-hand/$ side. When the condition is $(thing)false/$, it will jump to a $(thing)Label/$ with the same name as the $(thing)Text/$ parameter on its $(italic)left-hand side/$.$(p)When the $(thing)Condition/$ widget can't find a valid $(thing)Text/$ parameter, it will just proceed to the next widget (connected $(italic)below/$)."
+      "text": "當條件執行為$(thing)真/$時，$(l:programming/flow_control)程序執行流/$將會跳轉到具有對應於$(italic)右/$側連接的$(thing)文字/$參數的標籤名的$(l:programming/label)標籤/$。當條件執行為$(thing)假/$時，$(thing)程序執行流/$將將會跳轉到具有對應於$(italic)左/$側連接的$(thing)文字/$參數的標籤名的$(thing)標籤/$。$(p)當$(thing)條件/$拼圖無法找到可行的$(thing)文字/$參數時，$(thing)程序執行流/$將會繼續向$(italic)下/$執行下一拼圖。"
     },
     {
       "type": "image",
@@ -18,23 +18,23 @@
         "pneumaticcraft:textures/patchouli/condition_widget.png"
       ],
       "border": "true",
-      "text": "$(italic)A Redstone Condition widget which kills the drone if the signal >= 10/$"
+      "text": "$(italic)一個在紅石信號 >= 10 時使無人機自殺的條件：紅石拼圖/$"
     },
     {
       "type": "text",
-      "text": "Most $(thing)Condition/$ widgets can be $(thing)right-clicked/$ to open a configuration GUI. The GUI will usually contain '='/'>=' options, and a textfield where you can enter a number.$(p)With this you can set up conditions (like item counts in a chest) to be e.g. exactly 10 ('=' mode and textfield 10), more than 20 ('>=' mode and textfield '21'), or less than 12 ('>=' mode and textfield '12', but checking for the condition to be $(thing)false/$)."
+      "text": "多數$(thing)條件/$拼圖可以$(thing)右擊/$打開一個設定介面。介面通常會含有 =/>= 運算選項，以及一個可以輸入數字的文字框。$(p)基於此你可以設定好條件（例如儲物箱內的物品數）為，例如，正好 10 個（= 模式，輸入 10），大於 20 個（>= 模式，輸入 21）或者小於 12 個（>= 模式，輸入 12，檢查條件為$(thing)假/$）。"
     },
     {
       "type": "text",
-      "text": "Conditions can be divided into two categories: $(thing)Basic Conditions/$ and $(thing)Drone Conditions/$.$(p)Basic Conditions are used to check for things in the world, e.g. does a $(item)Chest/$ have a certain number of items, or does a block exist somewhere?$(p)$(thing)Drone Conditions/$ specifically target the $(l:tools/drone)Drone/$, e.g. does the Drone have a certain item, or have a certain pressure?"
+      "text": "條件可以被分為兩類：$(thing)一般條件/$與$(thing)無人機條件/$。$(p)一般條件用於檢查世界中的東西，例如，$(thing)儲物箱/$中是否有一定量的物品，或者某處是否有方塊。$(p)$(thing)無人機條件/$則特定於$(l:tools/drone)無人機/$，例如，無人機是否含有一定量物品，或一定的壓力。"
     },
     {
       "type": "text",
-      "text": "All block-based $(thing)Basic Conditions/$ have an $(thing)Any/All/$ block option. This is used when you're checking multiple blocks at a time.$(li)In $(thing)Any/$ mode, only $(italic)one/$ of the blocks in the selected $(l:programming/area)area/$ needs to match for the condition to be $(thing)true/$.$(li)In $(thing)All/$ mode, $(italic)all/$ blocks must match for the condition to be $(thing)true/$."
+      "text": "大多數基於方塊的$(thing)一般條件/$含有$(thing)任意/所有/$方塊選項。這在一次性檢查多個方塊時被用到。$(li)在$(thing)任意/$模式下，所選$(l:programming/area)區域/$內只要$(italic)一個/$方塊滿足條件，該條件就執行為$(thing)真/$。$(li)在$(thing)所有/$模式下，所選$(l:programming/area)區域/$內只有$(italic)所有/$方塊滿足條件，該條件才執行為$(thing)真/$。"
     },
     {
       "type": "relations",
-      "title": "Basic Conditions",
+      "title": "一般條件",
       "entries": [
         "programming/condition_block",
         "programming/condition_coordinate",
@@ -49,7 +49,7 @@
     },
     {
       "type": "relations",
-      "title": "Drone Conditions",
+      "title": "無人機條件",
       "entries": [
         "programming/drone_condition_item",
         "programming/drone_condition_liquid",
