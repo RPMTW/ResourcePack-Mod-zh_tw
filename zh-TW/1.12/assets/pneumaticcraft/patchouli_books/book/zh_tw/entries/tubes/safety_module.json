@@ -1,25 +1,25 @@
 {
-  "name": "Safety Module",
+  "name": "安全閥管道模組",
   "icon": "pneumaticcraft:safety_tube_module",
   "category": "tubes",
   "advancement": "pneumaticcraft:pressure_tube",
   "pages": [
     {
       "type": "text",
-      "text": "This tube module is used to limit the $(l:base_concepts/pressure)pressure/$ in a tube to a certain value, preventing $(thing)explosions/$; any excess pressure will be dispersed into the atmosphere, which means $(thing)energy loss/$. Therefore, this module is best used in conjunction with the $(l:tubes/pressure_gauge_module)Pressure Gauge Module/$, which can emit redstone to turn compressors off."
+      "text": "該模組限制管網中的$(l:base_concepts/pressure)壓力/$至特定值，防止$(thing)爆炸/$；過量的壓力會被釋放到空氣中，也就是說，$(thing)能量損失/$。因此，該模組最好配合$(l:tubes/pressure_gauge_module)壓力表管道模組/$，以適時發出紅石信號，關閉壓縮機。"
     },
     {
       "type": "text",
-      "text": "To set the threshold pressure $(formula)Pt/$ at which the module operates, apply a $(#f00)redstone signal/$ (to the side the module faces) of strength $(formula)S/$:$(p)$(formula)  S = 15 - (2 x Pt)/$$(p)E.g. to limit the pressure to 4.5 bar, apply a signal of strength 6 (15 - 2 x 4.5)."
+      "text": "要設定模組工作的閾值 $(formula)Pt/$，施加（向模組指向的一側）強度為 $(formula)S/$ 的$(#f00)紅石信號/$：$(p)$(formula)  S = 15 - (2 x Pt)/$$(p)例如，要限制壓力至 4.5 bar，紅石信號強度為 6（15 - 2 * 4.5）。"
     },
     {
       "type": "text",
-      "title": "Advanced PCB",
-      "text": "When you apply an $(l:components/advanced_pcb)Advanced PCB/$ to the Safety Module, the module gains a GUI (right-click) providing far more control over the threshold level. You can set a precise threshold in the GUI, or with the $(bold)Advanced Config/$ checkbox, configure interpolated threshold levels based on the signal. This functions very much like the $(l:tubes/pressure_gauge_module#img)Pressure Gauge GUI/$, but in reverse."
+      "title": "高級印刷電路板",
+      "text": "向安全閥管道模組安裝$(l:tubes/advanced_pcb)高級印刷電路板/$後，可以在設定介面中更精細地控制閾值。或者，在勾選$(bold)高級設定/$標籤頁後，基於紅石信號調整插值閾值。這一功能與$(l:tubes/pressure_gauge_module#img)壓力表管道模組/$相近，只不過變化方向相反。"
     },
     {
       "type": "crafting",
-      "text": "Creating the Safety Module",
+      "text": "安全閥管道模組的合成表",
       "recipe": "pneumaticcraft:safety_tube_module"
     }
   ]
