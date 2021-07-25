@@ -1,23 +1,23 @@
 {
-  "name": "Coordinate Widget",
+  "name": "坐標",
   "icon": "pneumaticcraft:textures/items/progwidgets/coordinate_piece.png",
   "category": "widget_other",
   "advancement": "pneumaticcraft:programmer",
   "pages": [
     {
       "type": "text",
-      "text": "The $(thing)Coordinate/$ is a widget solely used as a parameter for the $(l:programming/coordinate_operator)Coordinate Operator/$ and $(l:programming/condition_coordinate)Condition: Coordinate/$ widgets.$(p)This widget could be compared to the $(l:programming/area)Area/$ widget: with the $(thing)Area/$ widget you're supplying $(italic)two/$ coordinates to make up an area, while with this widget you're just supplying $(italic)one/$. There are two ways to supply a coordinate:"
+      "text": "$(thing)坐標/$拼圖僅用作$(l:programming/coordinate_operator)坐標運算元/$和$(l:programming/condition_coordinate)條件：坐標/$的參數。$(p)該拼圖可以與$(l:programming/area)區域/$拼圖相比較：$(thing)區域/$拼圖提供$(italic)兩個/$坐標以構成區域，而該拼圖只提供$(italic)一個/$坐標。有兩種方法提供坐標："
     },
     {
       "type": "text",
-      "text": "$(bold)Constant/$$(br)A constant coordinate is, well... constant. You can select one by selecting a $(l:tools/gps_tool)GPS Tool/$, or just type X/Y/Z values into the textfields directly.$(p)$(bold)Variable/$$(br)By selecting Variable you can return the value stored in the $(l:programming/variables)variable/$ as the coordinate. Keep in mind that with this you can only supply a coordinate, not modify the variable!"
+      "text": "$(bold)常量/$$(br)一個常量坐標是...嗯，常量。可以通過選擇$(l:tools/gps_tool)定位工具/$或者直接輸入坐標的 x,y,z 值來定義這樣一個常量。$(p)$(bold)變數/$$(br)透過選擇變數可以將儲存在$(l:programming/variables)變數/$中的值作為坐標提供。注意：透過該方法只可提供坐標，不可改變原變數的值！"
     },
     {
       "type": "image",
       "images": [
         "pneumaticcraft:textures/items/progwidgets/coordinate_piece.png"
       ],
-      "text": "$(italic)Coordinate Widget/$"
+      "text": "$(italic)坐標/$"
     }
   ]
 }
