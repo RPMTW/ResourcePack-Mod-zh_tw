@@ -6,13 +6,13 @@
   "pages": [
     {
       "type": "text",
-      "text": "$(item)Plastic/$ is an important crafting component in $(pncr).$(p)$(item)Liquid Plastic/$ is made from $(l:manufacturing/refinery)LPG/$ and $(item)Coal/$ in the $(l:manufacturing/thermopneumatic_processing_plant)Thermopneumatic Processing Plant/$."
+      "text": "$(item)塑膠/$在$(pncr)中是很重要的合成材料。$(p)$(item)液態塑膠/$由$(l:manufacturing/refinery)液化石油氣/$和$(item)煤炭/$在$(l:manufacturing/thermopneumatic_processing_plant)熱氣動加工機/$中合成。"
     },
     {
       "type": "spotlight",
-      "title": "Solid Plastic",
+      "title": "固態塑膠",
       "item": "pneumaticcraft:plastic:2",
-      "text": "$(item)Liquid Plastic/$ can then be mixed with $(item)dyes/$ in a $(l:manufacturing/plastic_mixer)Plastic Mixer/$ and solidified into colored $(item)Plastic/$ sheets.$(p)Note that when you're $(italic)solidifying/$ plastic, you don't need to provide the $(item)Plastic Mixer/$ with any $(l:base_concepts/heat)heat/$."
+      "text": "$(item)液態塑膠/$下一步可以在$(l:manufacturing/plastic_mixer)塑膠混合機/$中與$(item)染料/$混合，並固化為染色$(item)塑膠/$片。$(p)註：在$(italic)固化/$塑膠時不需要向$(item)塑膠混合機/$提供$(l:base_concepts/heat)熱量/$。"
     }
   ]
 }
