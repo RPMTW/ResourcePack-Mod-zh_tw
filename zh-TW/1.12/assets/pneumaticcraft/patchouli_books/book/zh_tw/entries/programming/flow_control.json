@@ -1,25 +1,25 @@
 {
-  "name": "Flow Control",
+  "name": "程序流控制",
   "icon": "pneumaticcraft:textures/items/progwidgets/jump_piece.png",
   "category": "programming",
   "advancement": "pneumaticcraft:programmer",
   "pages": [
     {
       "type": "text",
-      "text": "When a $(l:tools/drone)Drone/$ is deployed, it immediately starts to execute its stored program. Execution flow occurs as follows:$(li)The program $(italic)always/$ begins at the $(l:programming/start)Start/$ widget, of which there can be only one.$(li)Flow normally proceeds $(italic)downward/$; to the widget connected to the bottom of the current widget."
+      "text": "當$(l:tools/drone)無人機/$被放置時，其立刻開始執行所儲存的程序。程序執行流按如下進行：$(li)程序$(italic)永遠/$在$(l:programming/start)開始/$拼圖開始執行，而這是唯一的。$(li)程序流一般$(italic)向下/$執行；轉向被連接在目前拼圖下方的拼圖。"
     },
     {
       "type": "text",
-      "text": "$(li)A widget executes its given operation until it decides it's $(italic)done/$ - the definition of 'done' varies from widget to widget, and is described in the pages for each individual widget.$(li)When there's no widget connected to the bottom of the current widget, execution returns to the $(l:programming/start)Start/$ widget.$(p)That's the basics. There are few special cases, however, described next..."
+      "text": "$(li)一個拼圖執行其操作直到其$(italic)結束/$：對於「結束」的定義因拼圖而異，在各個拼圖的介面分別解釋。$(li)當目前拼圖的下方沒有任何拼圖時，程序執行流轉回到$(l:programming/start)開始/$拼圖。$(p)這便是基礎知識。儘管如此，還是有一些特殊情況，在下文列出..."
     },
     {
       "type": "text",
-      "title": "Flow Control Widgets",
-      "text": "$(li)The $(l:programming/label)Label/$ widget acts a point in the program to be jumped to.$(li)The $(l:programming/jump)Jump/$ widget triggers an immediate, unconditional, jump to a matching $(thing)Label/$ widget.$(li)$(l:programming/conditions)Condition/$ widgets can trigger a jump, based on the condition they're testing.$(li)The advanced $(l:programming/for_each_item)For Each Item/$ and $(l:programming/for_each_coordinate)For Each Coordinate/$ widgets repeatedly jump to a $(thing)Label/$, for their list of inputs."
+      "title": "程序流控制拼圖Flow Control Widgets",
+      "text": "$(li)$(l:programming/label)標籤/$拼圖作為程序可以跳轉至的一個點。$(li)$(l:programming/jump)跳轉/$拼圖執行立即的，無條件約束的，到匹配的$(thing)標籤/$的跳轉。$(li)$(l:programming/conditions)條件/$拼圖執行基於一定條件的跳轉。$(li)高級的$(l:programming/for_each_item)對於每個物品/$和$(l:programming/for_each_coordinate)對於每個坐標/$反覆跳轉到給定$(thing)標籤/$，對於輸入列表中的每個值。"
     },
     {
       "type": "text",
-      "text": "A couple more special widgets exist, which affect flow control:$(li)The $(l:programming/standby)Standby/$ widget, which puts the drone to 'sleep' until another widget actually has something to do.$(li)The $(l:programming/suicide)Suicide/$ widget, which drops the $(thing)Drone/$ as an item, immediately terminating execution."
+      "text": "還有幾個特殊的拼圖可以影響程序流：$(li)$(l:programming/standby)待機/$拼圖將無人機「休眠」，直至另一個拼圖需要無人機進行操作。$(li)$(l:programming/suicide)自毀/$拼圖將$(item)無人機/$以物品形式掉落，立即終止程式執行。"
     }
   ]
 }
