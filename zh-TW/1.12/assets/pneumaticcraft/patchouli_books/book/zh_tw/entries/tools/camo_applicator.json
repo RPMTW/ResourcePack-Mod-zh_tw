@@ -1,20 +1,20 @@
 {
-  "name": "Camouflage Applicator",
+  "name": "偽裝塗敷器",
   "icon": "pneumaticcraft:camo_applicator",
   "category": "\n-工具",
   "advancement": "pneumaticcraft:pressure_tube",
   "pages": [
     {
       "type": "text",
-      "text": "The $(item)Camouflage Applicator/$ can be used to camouflage certain $(pncr) blocks:$(li)$(l:tubes/pressure_tubes)Pressure Tubes/$$(li)$(l:machines/pneumatic_door)Pneumatic Door Base/$$(li)$(l:machines/elevators)Elevator Base & Caller/$$(li)$(l:machines/charging_station)Charging Station/$$(p)$(thing)Sneak+right-click/$ any solid block to copy its appearance to the Applicator tool, or $(thing)sneak+right-click/$ with no block targeted to clear the copied block. "
+      "text": "$(item)偽裝塗敷器/$可以被用於對特定$(pncr)方塊塗敷偽裝：$(li)$(l:tubes/pressure_tubes)壓力管道/$$(li)$(l:machines/pneumatic_door)氣動門基座/$$(li)$(l:machines/elevators)電梯基座與電梯呼叫器/$$(li)$(l:machines/charging_station)充氣站/$$(p)$(thing)潛行右擊/$任意固體方塊以複製其外觀，或者$(thing)潛行右擊/$空氣清除所複製的外觀。"
     },
     {
       "type": "text",
-      "text": "Then, $(thing)right-click/$ any camouflageable block (see above) to apply or remove camouflage.$(p)You'll need an actual block in your inventory to apply it as camouflage, which gets used (but you get it back when you remove the camouflage).$(p)You can also uncamouflage a camouflaged block by breaking it with a pick or other suitable tool; the camouflage will be broken off instead."
+      "text": "然後，$(thing)右擊/$任何可被偽裝的方塊（見上表）以塗敷/除去偽裝。$(p)物品欄中需要有對應的方塊才能塗敷偽裝，這一過程將會消耗掉對應的方塊（但在除去偽裝時這一方塊將被返還）。$(p)同樣可以透過使用鎬或其他合適的工具破壞來移除偽裝；但偽裝用的方塊不會返還。"
     },
     {
       "type": "crafting",
-      "text": "Creating the Camouflage Applicator",
+      "text": "偽裝塗敷器的合成表",
       "recipe": "pneumaticcraft:camo_applicator"
     }
   ]
