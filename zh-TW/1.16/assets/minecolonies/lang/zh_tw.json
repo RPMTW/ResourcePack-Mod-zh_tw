@@ -1269,7 +1269,7 @@
     "com.minecolonies.coremod.info.lumberjack.1.name": "建築工人限制",
     "com.minecolonies.coremod.info.lumberjack.1": "現在讓我們瞭解一下伐木工人的限制：\n\n 1. 伐木工人-小屋的等級決定可以使用的工具：\n   lvl 0. 木製/金質工具\n   lvl 1. 石頭工具\n   lvl 2. 鐵質工具\n   lvl 4. 鑽石工具\n   lvl 5. 附魔工具\n\n  2. 伐木工能在自身（而不是小屋）的150格範圍內搜尋樹木，搜尋時會從50格的範圍開始，如果沒有找到一棵樹，依次增加5格.",
     "com.minecolonies.coremod.info.lumberjack.2.name": "樹木檢測",
-    "com.minecolonies.coremod.info.lumberjack.2": "3. Minecraft中關於'樹'的定義是非常模糊的，我們已經盡力去定義樹，但是在有些情況下它還是做的不夠好。通常我們把樹定義為一根圓木和樹葉(在很近的範圍內)，因此你的小屋或者裝飾物也許會受到伐木工人的影響，為了解決這個問題，你可以在原木下方放一塊圓石，這樣就會標記為'不是樹'.",
+    "com.minecolonies.coremod.info.lumberjack.2": "3. Minecraft中關於'樹'的定義是非常模糊的，我們已經盡力去定義樹，但是在有些情況下它還是做的不夠好。通常我們把樹定義為一根圓木和樹葉(在很近的範圍內)，因此你的小屋或者裝飾物也許會受到伐木工人的影響，為了解決這個問題，你可以在原木下方放一塊鵝卵石，這樣就會標記為'不是樹'.",
     "com.minecolonies.coremod.info.lumberjack.3.name": "獲得升級",
     "com.minecolonies.coremod.info.lumberjack.3": "伐木工人工作時會提升等級。\n  和建築工人類似，更高等級的建築工人速度也會得到提升。小屋等級越高則伐木工人升級越快。\n  但是，他們的等級最高提升至小屋的等級。因此，如果他們對自己的生活環境感到不快他們便會停止升級直到你提供給他們更好的房子.",
     "com.minecolonies.coremod.info.warehouse.0.name": "簡介",

@@ -634,7 +634,7 @@
     "gui.bluepower:sortingMachine.pullMode.single_step": "§3單步",
     "gui.bluepower:sortingMachine.pullMode.single_step.info": "每個脈衝信號只牽拉一個或一列(根據模式不同)物品.",
     "gui.bluepower:sortingMachine.pullMode.automatic": "§3自動",
-    "gui.bluepower:sortingMachine.pullMode.automatic.info": "以常規間隔時間自動牽拉物品.",
+    "gui.bluepower:sortingMachine.pullMode.automatic.info": "以一般間隔時間自動牽拉物品.",
     "gui.bluepower:sortingMachine.pullMode.single_sweep": "§3單掃描",
     "gui.bluepower:sortingMachine.pullMode.single_sweep.info": "每接受一次紅石信號機器處理一列，脈衝會被保存.",
     "gui.bluepower:retriever.mode.sequential": "§3順序",
