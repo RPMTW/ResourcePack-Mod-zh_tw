@@ -6,16 +6,16 @@
   "pages": [
     {
       "type": "text",
-      "text": "The $(item)Minigun/$ is a handheld weapon, which runs on $(l:base_concepts/pressure)compressed air/$ and $(l:tools/minigun_ammo)Gun Ammo/$. Ammo needs to be inserted into the $(l:tools/minigun_ammo#magazine)Minigun's magazine/$ - it will not be consumed from the player's inventory.$(p)To fire the minigun, simply hold $(thing)right-click/$. The barrel will start to spin and will fire as soon as it is up to speed."
+      "text": "$(item)加特林機槍/$為手持武器，消耗$(l:base_concepts/pressure)壓縮空氣/$與$(l:tools/minigun_ammo)機槍彈藥/$以工作。彈藥需要被裝填至$(l:tools/minigun_ammo#magazine)機槍的彈夾/$中——不會自動從玩家物品欄消耗彈藥。$(p)要開火，只需長按$(thing)右鍵/$。槍管將開始旋轉，並在到達所需速度時立刻開始開火。"
     },
     {
       "type": "text",
       "title": "Upgrading",
-      "text": "Many features (spin-up speed, range, potion proc chance...) of the $(item)Minigun/$ are upgradable in a $(l:machines/charging_station)Charging Station/$.$(p)Full documentation on each upgrade and its effects is available in the Charging Station's upgrade GUI."
+      "text": "$(item)加特林機槍/$的很多功能（如啟動速度、攻擊範圍、藥水生效機率）可以在$(l:machines/charging_station)充氣站/$中調節。$(p)不同升級的具體效應可在充氣站的升級介面中找到。"
     },
     {
       "type": "crafting",
-      "text": "Creating the Minigun",
+      "text": "加特林機槍的合成表",
       "recipe": "pneumaticcraft:minigun"
     }
   ]
