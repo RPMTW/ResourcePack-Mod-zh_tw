@@ -1,29 +1,29 @@
 {
-  "name": "Pressure Gauge Module",
+  "name": "壓力表管道模組",
   "icon": "pneumaticcraft:pressure_gauge_module",
   "category": "tubes",
   "advancement": "pneumaticcraft:pressure_tube",
   "pages": [
     {
       "type": "text",
-      "text": "This tube module shows the $(l:base_concepts/pressure)pressure/$ currently in the tube it's attached to. It also emits a (directional) $(#f00)redstone signal/$ of which the strength equals:$(p)$(formula)  strength = 2 x pressure/$$(p)So a pressure of 3.5 bar results in a redstone signal level of 7."
+      "text": "該管道模組顯示器所附著的管道目前的$(l:base_concepts/pressure)壓力/$。其同樣（在其所在側面）發出$(#f00)紅石信號/$，強度取決於下列公式：$(p)$(formula)  強度 = 2 * 壓力/$$(p)亦即，3.5 bar 的壓力將會使模組輸出強度為 7。"
     },
     {
       "type": "text",
-      "title": "Advanced PCB",
-      "text": "When you apply an $(l:components/advanced_pcb)Advanced PCB/$ to the Pressure Gauge Module, the module gains a GUI (right-click) to provide much more control over $(#f00)redstone signal/$ emission. By default, you can provide a threshold level: the signal will be off below that level and fully on above it (or vice versa). If you select the $(bold)Advanced Config/$ toggle in the GUI, you gain even more control (see over)."
+      "title": "高級印刷電路板",
+      "text": "向其安裝$(l:tubes/advanced_pcb)高級印刷電路板/$後，可以在設定介面中更精細地控制輸出的$(#f00)紅石信號/$。預設情況下，可以提供閾值：壓力低於這一閾值時信號將為 0，高於這一閾值時信號將為 15（或者反之）。若在介面中勾選$(bold)高級設定/$，可以對信號進行更精細的控制（見下圖）。"
     },
     {
       "type": "image",
       "images": [
         "pneumaticcraft:textures/patchouli/pressure_gauge_gui.png"
       ],
-      "text": "$(italic)<10 bar = 0 redstone, >20 bar = 15 redstone, 10-20 bar = interpolate (e.g. 12 bar = 3 redstone)/$",
+      "text": "$(italic)<10 bar = 信號 0，>20 bar = 信號 15, 10-20 bar = 插值（例： 12 bar = 信號 3）/$",
       "anchor": "img"
     },
     {
       "type": "crafting",
-      "text": "Creating the Pressure Gauge Module",
+      "text": "壓力表管道模組的合成表",
       "recipe": "pneumaticcraft:pressure_gauge_module"
     }
   ]
