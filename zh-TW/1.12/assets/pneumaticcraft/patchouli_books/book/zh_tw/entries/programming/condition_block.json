@@ -1,23 +1,23 @@
 {
-  "name": "Condition: Block Widget",
+  "name": "條件：方塊",
   "icon": "pneumaticcraft:textures/items/progwidgets/condition_block_piece.png",
   "category": "widget_cond",
   "advancement": "pneumaticcraft:programmer",
   "pages": [
     {
       "type": "text",
-      "text": "This is a $(l:programming/conditions)Condition/$ widget.$(p)The $(thing)Condition: Block/$ widget allows you to check an $(l:programming/area)area/$ for certain blocks. With this you can check if an area contains a full-grown crop, for example. You can filter which blocks are valid by attaching an $(l:programming/item_filter)Item Filter/$."
+      "text": "這是一個$(l:programming/conditions)條件/$拼圖。$(p)$(thing)條件：方塊/$允許你檢查給定$(l:programming/area)區域/$內是否有給定方塊。例如，可以可以用此檢查一個區域內是否有成熟的作物。可以通過連接$(l:programming/item_filter)物品過濾器/$來指定有效方塊。"
     },
     {
       "type": "text",
-      "text": "The drone will check the block if it can be silk touched, if so it will check if the item filter matches the silk touched block. If it can't be silk touched, the drops of the block will be used to filter.$(p)For example, you can set the filter to Wheat, and it will match the filter as soon as the crop will drop wheat (= full grown)."
+      "text": "無人機將會檢查一個方塊是否可以被絲綢之觸，如果是，其將會檢查絲綢之觸下的方塊是否符合物品過濾。如果否，該方塊的掉落物將會被檢查。$(p)例如，可以把過濾器設為小麥，這樣，當小麥作物會掉落小麥時（即成熟），其將符合過濾。"
     },
     {
       "type": "image",
       "images": [
         "pneumaticcraft:textures/items/progwidgets/condition_block_piece.png"
       ],
-      "text": "$(italic)Condition: Block Widget/$"
+      "text": "$(italic)條件：方塊/$"
     }
   ]
 }
