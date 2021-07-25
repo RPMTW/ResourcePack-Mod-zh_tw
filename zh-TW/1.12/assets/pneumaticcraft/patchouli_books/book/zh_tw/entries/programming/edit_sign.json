@@ -1,24 +1,24 @@
 {
-  "name": "Edit Sign Widget",
+  "name": "編輯告示牌",
   "icon": "pneumaticcraft:textures/items/progwidgets/edit_sign_piece.png",
   "category": "widget_interact",
   "advancement": "pneumaticcraft:programmer",
   "pages": [
     {
       "type": "text",
-      "text": "This will edit all $(item)Signs/$ and/or $(l:machines/aphorism_tile)Aphorism Tiles/$ in the connected $(l:programming/area)Area/$ to the text specified by the connected $(l:programming/text)Text/$ widget(s).$(p)Each connected $(thing)Text/$ widget represents one line; by connecting multiple $(thing)Text/$ widgets, you can set a multi-line message."
+      "text": "該拼圖將會把指定$(l:programming/area)區域/$內的所有$(item)告示牌/$和/或$9l:machines/aphorism_tile)格言瓷磚/$的顯示文字設定為所連接的的$(l:programming/text)文字/$拼圖內的文字。$(p)所連接的每一個$(thing)文字/$拼圖表示一行文字。可以透過連接多個$(thing)文字/$拼圖來設定多行文字。"
     },
     {
       "type": "text",
       "title": "Variables",
-      "text": "You can also insert the value of a $(l:programming/variables)variable/$, by including $(thing)${<var_name>}/$ in the text, e.g.$(p)  $(formula)Counter: ${counter}/$$(p)would expand to $(thing)Counter: 1, 2, 3/$ if the $(thing)counter/$ variable was set to $(thing)x=1,y=2,z=3/$. $(l:programming/variables#special)Special/$ and $(l:programming/variables#global)Global variables/$ can also be used here."
+      "text": "同樣可以通過在$(thing)文字/$拼圖中輸入$(thing)${<變數名>}/$插入一個$(l:programming/variables)變數/$的值，例如：$(p)  若 $9thing)counter/$ 變數的值被設定為 x=1, y=2, z=3，$(formula)計數：${counter}/$$(p)將被展開為$(thing)計數：1, 2, 3/$。$(l:programming/variables#special)特定/$和$(l:programming/variables#global)全局變數/$同樣可以在此處使用。"
     },
     {
       "type": "image",
       "images": [
         "pneumaticcraft:textures/items/progwidgets/edit_sign_piece.png"
       ],
-      "text": "$(italic)Edit Sign Widget/$"
+      "text": "$(italic)編輯告示牌/$"
     }
   ]
 }
