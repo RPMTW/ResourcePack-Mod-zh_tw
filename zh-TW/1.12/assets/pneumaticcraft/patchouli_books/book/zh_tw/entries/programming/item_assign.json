@@ -1,23 +1,23 @@
 {
-  "name": "Item Assignment Widget",
+  "name": "物品賦值",
   "icon": "pneumaticcraft:textures/items/progwidgets/item_assign_piece.png",
   "category": "widget_other",
   "advancement": "pneumaticcraft:programmer",
   "pages": [
     {
       "type": "text",
-      "text": "The $(thing)Item Assignment/$ widget is an advanced widget that allows you to store an item in a $(l:programming/variables)variable/$. Variables may be either coordinates or items; here we are talking about the latter.$(p)See the $(l:programming/coordinate_operator)Coordinate Operator/$ widget for information about coordinate variables and a general explanation about variables."
+      "text": "$(thing)物品賦值/$是一個高級拼圖，用於將物品存為$(l:programming/variables)變數/$。變數可以為坐標或物品；此處討論的變數為物品。$(p)亦見$(l:programming/coordinate_operator)坐標運算元/$取得關於坐標變數的資訊和對於變數的基本解釋。"
     },
     {
       "type": "text",
-      "text": "To store an item in a given $(thing)variable/$, place an $(l:programming/item_filter)Item Filter/$ widget on the $(italic)right-hand/$ side of the $(thing)Item Assignment/$ widget. The selected filter will be transferred into the variable name, which you specify in the GUI opened by $(thing)right-clicking/$ the $(thing)Item Assignment/$ widget. Only the actual item will be transferred from the filter; filter settings (e.g. Ore Dictionary) are not."
+      "text": "要將物品存於給定$(thing)變數/$，在$(thing)物品賦值/$拼圖的$(italic)右側/$連接一個$(l:programming/item_filter)物品過濾器/$。連接的過濾器將會被賦值給指定變數，而這一變數可以在$(thing)右擊/$打開的設定介面指定。只有真正的物品才被賦值；過濾器設定（如使用礦物辭典）不被賦值。"
     },
     {
       "type": "image",
       "images": [
         "pneumaticcraft:textures/items/progwidgets/item_assign_piece.png"
       ],
-      "text": "$(italic)Item Assignment Widget/$"
+      "text": "$(italic)物品賦值/$"
     }
   ]
 }
