@@ -1,17 +1,17 @@
 {
-  "name": "Mechanic Villagers",
+  "name": "技工",
   "icon": "minecraft:emerald",
   "category": "base_concepts",
   "pages": [
     {
       "type": "text",
-      "text": "You have heard reports of a $(thing)villager/$ who stocks some rare $(pncr) components. Apparently he was involved in an accident with a $(l:manufacturing/pressure_chamber)Pressure Chamber?/$"
+      "text": "你聽說了關於一位存貨有一些$(pncr)組件的$(thing)村民/$的報告。似乎其被牽扯到一場$(l:manufacturing/pressure_chamber)壓力室/$的事故中？"
     },
     {
       "type": "entity",
       "name": "Mechanic",
       "entity": "minecraft:villager{ProfessionName:'pneumaticcraft:mechanic'}",
-      "text": "$(italic)Not a fan of $(l:tools/amadron_tablet)Amadron/$."
+      "text": "$(italic)並不喜歡 $(l:tools/amadron_tablet)Amadron/$."
     }
   ]
 }
