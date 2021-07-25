@@ -1,21 +1,21 @@
 {
-  "name": "Pneumatic Dynamo",
+  "name": "氣動能源爐",
   "icon": "pneumaticcraft:pneumatic_dynamo",
   "category": "machines",
   "advancement": "pneumaticcraft:advanced_pressure_tube",
   "pages": [
     {
       "type": "text",
-      "text": "The $(item)Pneumatic Dynamo/$ converts $(l:base_concepts/pressure)compressed air/$ into $(thing)Forge Energy/$, which is compatible with $(thing)Redstone Flux/$ and other mods' energy systems. It produces 40 FE/tick by default, but can be upgraded with $(l:base_concepts/upgrades#speed)Speed Upgrades/$. The FE output rate of the $(item)Flux Compressor/$ is twice the amount of the current FE production; 80 FE/tick by default, but can be increased via Speed Upgrades."
+      "text": "$(item)氣動能源爐/$將$(l:base_concepts/pressure)壓縮空氣/$轉化為 $(thing)FE能量/$（與 $(thing)RF/$ 能量和某些模組的能量系統相容）。預設產出速率為 40 FE/刻，這可以通過$(l:base_concepts/upgrades#speed)速度升級/$提升。$(item)氣動能源爐/$的 FE 輸出速率為能量產率的 2 倍；也就是說，預設輸出速率為 80 FE/刻，也可以用速度升級提升。"
     },
     {
       "type": "spotlight",
       "item": "pneumaticcraft:pneumatic_dynamo",
-      "text": "An important factor that influences efficiency is the Dynamo's $(l:base_concepts/heat)temperature/$. The Dynamo needs to be $(thing)cooled/$, or its efficiency will drop as the temperature rises, up to the point where no air is generated at all."
+      "text": "影響其轉換效率的一個重要因素為能源爐的$(l:base_concepts/heat)溫度/$。能源爐必須被$(l:base_concepts/heat)冷卻/$，介於其效率會隨溫度的升高而降低，直至沒有有效的 FE 產出。"
     },
     {
       "type": "crafting",
-      "text": "Creating a Pneumatic Dynamo",
+      "text": "氣動能源爐的合成表",
       "recipe": "pneumaticcraft:pneumatic_dynamo"
     }
   ]
