@@ -1,57 +1,57 @@
 {
-  "name": "Variables",
+  "name": "變數",
   "icon": "minecraft:paper",
   "category": "programming",
   "advancement": "pneumaticcraft:programmer",
   "pages": [
     {
       "type": "text",
-      "text": "$(thing)Variables/$ allow drone programs to store and manipulate block positions (aka coordinates) to provide some advanced drone functionality.$(p)To create or manipulate variables from within a drone program, use the $(l:programming/coordinate_operator)Coordinate Operator/$ and $(l:programming/coordinate)Coordinate/$ widgets, and to run tests on variables, use the $(l:programming/condition_coordinate)Condition: Coordinate/$ widget."
+      "text": "$(thing)變數/$允許無人機程序儲存並操縱方塊位置（即坐標）以提供高級無人機功能。$(p)要在無人機中創建或操作變數，使用$(l:programming/coordinate_operator)坐標運算元/$與$(l:programming/coordinate)坐標/$拼圖；要對變數進行條件判斷，使用$(l:programming/condition_coordinate)條件：坐標/$拼圖。"
     },
     {
       "type": "text",
-      "text": "In the $(l:programming/area)Area/$ widget you can, instead of using a GPS coordinate, use a $(thing)variable/$ name.$(p)These $(thing)variables/$ persist across world reloads, so could be used to create an endless mining program, for example, where the Drone's dig position is tracked by a $(thing)variable/$.$(p)For an old but still relevant tutorial, see $(l:https://www.youtube.com/watch?v=FIjEdD_Yj9Y)this YouTube video by MineMaarten/$."
+      "text": "例如，在$(l:programming/area)區域/$拼圖中可以填入$(thing)變數/$名而非使用固定位置。$(p)這些$(thing)變數/$的值在世界重載後仍保持。因而可以，例如，用於無盡的挖礦程序，其中無人機的挖掘位置由$(thing)變數/$指定。$(p)參見$(l:https://www.youtube.com/watch?v=FIjEdD_Yj9Y)由 MineMaarten 製作的 Youtube 影片/$以作為久遠但仍相關的教學。"
     },
     {
       "type": "text",
-      "text": "While $(thing)variables/$ only store coordinates (an X/Y/Z triple), if you think about it you will see that you can work with $(thing)integers/$ and $(thing)booleans/$ too. Just use only one axis for integers, and for booleans, define something like '0' = false, and everything else = true. Have fun!"
+      "text": "儘管$(thing)變數/$僅僅儲存坐標（X/Y/Z 三元組），只要再想想，就會發現其同樣可用於傳遞$(thing)整型/$和$(thing)布林值/$。對於整型，只需要使用其中一個軸向；對於布林值，可以定義，例如，0 代表假（false），其餘數值代表真（true）。盡情探索！"
     },
     {
       "type": "text",
-      "title": "Types of Variable",
-      "text": "There are three types of variable:$(li)$(thing)Local variables/$: these are stored per-drone and are referenced simply as 'varname'.$(li)$(thing)Global variables/$: as the name suggests, these are global to all drones and can be used for sharing data between drones. They are referenced as '#varname'.$(li)$(thing)Special Variables/$ can be used to retrieve some metadata about the drone and are referenced as '$varname'."
+      "title": "變數的種類",
+      "text": "變數有三個種類：$(li)$(thing)本地變數/$：這些變數儲存在無人機中，可以直接以變數名引用。$(li)$(thing)全局變數/$：正如其名，這些變數是全局的，可以被所有無人機存取，因而可以用於在無人機間傳遞資訊。其可以以 #變數名 的形式引用。$(li)$(thing)特指變數/$：這些變數可以用於取得無人機的部分元數據。其可以以 $變數名 的形式引用。"
     },
     {
       "type": "text",
       "anchor": "global",
-      "title": "Global Variables",
-      "text": "$(thing)Global variables/$ are prefixed with '#'. Normal variables are unique per $(l:tools/drone)Drone/$; they can't be shared. Global variables are variables that $(italic)are/$ shared. $(p)This allows Drones to communicate with each other. Additionally, the $(l:machines/universal_sensor)Universal Sensor/$ can look for global variables, and emit a $(#f00)redstone signal/$ based on them, and the $(l:tools/remote)Remote/$ can display and modify them."
+      "title": "全局變數",
+      "text": "$(thing)全局變數/$前綴有 #。一般的變數按$(l:tools/drone)無人機/$儲存，無法跨無人機使用。全局變數則$(italic)可以/$跨無人機使用。$(p)這使得無人機可以相互傳遞數據。此外，$(l:machines/universal_sensor)萬能感測器/$可以監測全局變數，並據此發出$(#f00)紅石信號/$；$(l:tools/remote)遙控器/$可以顯示並變更全局變數。"
     },
     {
       "type": "text",
-      "title": "Global Variables (cont.)",
-      "text": "For convenience, $(thing)global variables/$ can be set by using the command $(#800)/setGlobalVariable <varName> <x> <y> <z>/$. This is useful in custom maps or for debugging. Execution of this command is not limited to just Server Ops.$(p)To get the variable state (useful for debugging), use $(#800)/getGlobalVariable <varName>/$. This will get both the coordinate and item value."
+      "title": "全局變數（續）",
+      "text": "$(thing)全局變數/$可以使用指令 $(#800)/setGlobalVariable <變數名> <x> <y> <z>/$ 指定。在自訂地圖中進行除錯可以用到這一指令。執行該指令不需要具有伺服器的 OP 權限。$(p)要取得全局變數的值（可以用於除錯），使用指令 $(#800)/getGlobalVariable <變數名>/$。該指令將取得變數的坐標值與物品值。"
     },
     {
       "type": "text",
       "anchor": "special",
-      "title": "Special Variables",
-      "text": "The following special variables are recognised:$(li)$(thing)$owner/$: the coordinate of the player who owns the $(l:tools/drone)Drone/$. This is 0,0,0 if the owner is not online.$(li)$(thing)$drone/$: gets the coordinate of the drone itself.$(li)$(thing)$player=<playername>/$: Gets the coordinate of the player '<playername>' (case insensitive). This is 0,0,0 if the player does not exist or is not online."
+      "title": "特指變數",
+      "text": "特指變數有下列幾類：$(li)$(thing)$owner/$：$(l:tools/drone)無人機/$的所有者的坐標。若所有者不線上，其值為 0,0,0。$(li)$(thing)$drone/$：無人機所在的坐標。$(li)$(thing)$player=<玩家名>/$：名稱為 <玩家名>（忽略大小寫）的玩家的位置。若該玩家不存在或不線上，其值為 0,0,0。"
     },
     {
       "type": "text",
-      "title": "Debugging",
-      "text": "Sometimes it's useful to display the value of a variable for debugging purposes. You can display a variable's value in a few ways:$(li)Using the $(l:programming/rename)Rename/$ widget to show the variable as a drone's nameplate$(li)Writing text with the $(l:programming/edit_sign)Edit Sign/$ widget$(li)Using a $(l:tools/remote#label)label/$ in a $(l:tools/remote)Remote/$."
+      "title": "除錯",
+      "text": "有時，顯示某個變數的值對於除錯很有幫助。可以使用以下幾種方法顯示變數的值：$(li)使用$(l:programming/rename)重新命名/$拼圖，將變數值在無人機的名稱中顯示$(li)使用$(l:programming/edit_sign)編輯告示牌/$拼圖寫入文字$(li)在$(l:tools/remote)遙控器/$中使用$(l:tools/remote#label)標記文字/$"
+    },
+    {
+      "type": "text",
+      "title": "除錯（續）",
+      "text": "要將變數值插入上述方法之一顯示的文字，使用格式符 $(thing)${變數名}/$。$(p)註：此處仍使用全局變數與特指變數的前綴，因此需要使用 $(thing)${$drone}/$ 插入無人機的位置，使用 $(thing)${#全局變數名}/$插入全局變數值。"
     },
     {
       "type": "text",
       "title": "Debugging (cont.)",
-      "text": "To interpolate a variable into text displayed by one of the above methods, use the syntax $(thing)${varname}/$.$(p)Note that the special & global variable prefixes still apply here, so to interpolate a drone's position, you would use $(thing)${$drone}/$, and to interpolate a global variable, you would use $(thing)${#globalvarname}/$."
-    },
-    {
-      "type": "text",
-      "title": "Debugging (cont.)",
-      "text": "You can also display only the X, Y or Z component of the coordinate by suffixing the variable name with $(thing).x/$, $(thing).y/$ or $(thing).z/$ respectively.$(p)E.g. to show the drone owner's Y coordinate, use $(thing)${$owner.y}/$."
+      "text": "可以限制只顯示一個坐標的 x/y/z 值，使用後綴 $(thing).x/$，$(thing).y/$ 或 $(thing).z/$分別做到。$(p)例如，要顯示無人機所有者的 y 坐標，使用 $(thing)${$owner.y}/$。"
     }
   ]
 }
