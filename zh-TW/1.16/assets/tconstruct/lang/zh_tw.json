@@ -1215,7 +1215,7 @@
     "gui.tconstruct.error.invalid_pattern": "模具中包含無效的工具部件！",
     "gui.tconstruct.error.invalid_recipe": "無效的配方!",
     "gui.tconstruct.error.unknown_material": "未知材料",
-    "gui.tconstruct.error.useless_tool_part": "這個部件無法用來製作任何工具！\\n不是材料%s缺失某些資訊，就是沒有工具需要用%s來製作。",
+    "gui.tconstruct.error.useless_tool_part": "這個部件無法用來製作任何工具！\\n不是材料%s缺少某些資訊，就是沒有工具需要用%s來製作。",
     "gui.tconstruct.error.not_enough_durability": "沒有足夠的耐久度來更換零件！\n%d需要更多的耐久度。",
     "jei.tconstruct.time": "%s 秒",
     "jei.tconstruct.temperature": "%s°C",
