@@ -1,47 +1,47 @@
 {
-  "name": "Network Components",
+  "name": "網路組件",
   "icon": "pneumaticcraft:network_component:0",
   "category": "components",
   "advancement": "pneumaticcraft:plastic",
   "pages": [
     {
       "type": "text",
-      "text": "These components are used primarily to set up a $(l:programming/security_station)Security Station/$, but some are also used as crafting components, and the $(l:components/network_components#network_storage)Network Storage/$ and $(l:components/network_components#network_api)Network API/$ can be used to store $(l:tools/drone)Drone/$ programs."
+      "text": "這些組件主要用於設定$(l:programming/security_station)安全站/$，但有些可被用作合成原料，而$(l:components/network_components#network_storage)網路儲存/$和$(l:components/network_components#network_api)網路 API/$ 可以用於儲存$(l:tools/drone)無人機/$程序。"
     },
     {
       "type": "crafting",
       "anchor": "diagnostic",
-      "text": "The $(item)Diagnostic Subroutine/$ is a required component in a $(l:machines/security_station)Security Station/$.$(br)It is responsible for tracing $(l:machines/security_station#hacking)hack attempts/$ back to the hacker.  If all $(item)Diagnostic Subroutines/$ are hacked, your $(item)Security Station/$ has been compromised.",
+      "text": "$(item)診斷子程序/$是$(l:machines/security_station)安全站/$中的必需組件。$(br)其負責追蹤入侵者的$(l:machines/security_station#hacking)入侵嘗試/$。若所有$(item)診斷子程序/$皆被入侵，$(item)安全站/$的防護將失效。",
       "recipe": "pneumaticcraft:network_component_v4"
     },
     {
       "type": "crafting",
       "anchor": "io_port",
-      "text": "The $(item)Network IO Port/$  is a required component in a $(l:machines/security_station)Security Station/$.$(br)This is the entry point for hack attempts on your $(item)Security Station/$.",
+      "text": "$(item)網路 IO 介面/$是$(l:machines/security_station)安全站/$中的必需組件。$(br)其是對$(item)安全站/$的入侵嘗試的入口點。",
       "recipe": "pneumaticcraft:network_component_v2"
     },
     {
       "type": "crafting",
       "anchor": "registry",
-      "text": "The $(item)Network Registry/$  is a required component in a $(l:machines/security_station)Security Station/$.$(br)This is a target for hackers; if $(italic)all/$ Registries are hacked, your $(item)Security Station/$ has been compromised.",
+      "text": "$(item)網路註冊表/$是$(l:machines/security_station)安全站/$中的必需組件。$(br)其是入侵者入侵的目標之一；若$(italic)所有/$網路註冊表皆被入侵，$(item)安全站/$的防護將失效。",
       "recipe": "pneumaticcraft:network_component_v3"
     },
     {
       "type": "crafting",
       "anchor": "node",
-      "text": "The $(item)Network Node/$ is a generic component in a $(l:machines/security_station)Security Station/$, used to form pathways between the required components.",
+      "text": "$(item)網路節點/$是$(l:machines/security_station)安全站/$中的普通組件，用作必需組件間的連接。",
       "recipe": "pneumaticcraft:network_component"
     },
     {
       "type": "crafting",
       "anchor": "network_api",
-      "text": "The $(item)Network API/$ can be used to store $(l:tools/drone)Drone/$ programs. It requires $(l:programming/puzzle_pieces)Puzzle Pieces/$ to program, and can be used to run programs in the $(l:programming/programmable_controller)Programmable Controller/$ or by the $(l:programming/external_program)External Program/$ widget.",
+      "text": "$(item)網路 API/$可以用於儲存$(l:tools/drone)無人機/$程序。對其編程需要$(l:programming/puzzle_pieces)編程拼圖/$，因而可以在$(l:programming/programmable_controller)可編程控制器/$或$(l:programming/external_program)外部程序/$拼圖中作為可用程序被執行。",
       "recipe": "pneumaticcraft:network_component_v5"
     },
     {
       "type": "crafting",
       "anchor": "network_storage",
-      "text": "The $(item)Network Data Storage/$ can be used to store $(l:tools/drone)Drone/$ programs. It does $(italic)not/$ require $(l:programming/puzzle_pieces)Puzzle Pieces/$ to program, so cannot be used to run programs; however it is useful if you wish to store a library of programs, or to trade programs with other players.",
+      "text": "$(item)網路數據儲存/$可被用於儲存$(l:tools/drone)無人機/$程序。對其編程$(italic)不/$需要$(l:programming/puzzle_pieces)編程拼圖/$。因而不能作為可用程序被執行；但其適合用作程序庫，或者也可用於與其餘玩家交換程序。",
       "recipe": "pneumaticcraft:network_component_v6"
     }
   ]
