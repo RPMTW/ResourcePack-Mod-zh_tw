@@ -1,16 +1,16 @@
 {
-  "name": "Pressure Gauge",
+  "name": "壓力表",
   "icon": "pneumaticcraft:pressure_gauge",
   "category": "components",
   "advancement": "pneumaticcraft:root",
   "pages": [
     {
       "type": "text",
-      "text": "This is a crafting component for other devices. It has no use on its own."
+      "text": "合成材料。其自身並無用途。"
     },
     {
       "type": "crafting",
-      "text": "Creating a Pressure Gauge",
+      "text": "壓力表的合成表",
       "recipe": "pneumaticcraft:pressure_gauge"
     }
   ]
