@@ -1,19 +1,19 @@
 {
-  "name": "Condition: Fluid Widget",
+  "name": "條件：流體",
   "icon": "pneumaticcraft:textures/items/progwidgets/condition_liquid_inventory_piece.png",
   "category": "widget_cond",
   "advancement": "pneumaticcraft:programmer",
   "pages": [
     {
       "type": "text",
-      "text": "This is a $(l:programming/conditions)Condition/$ widget.$(p)The $(thing)Condition: Fluid/$ widget allows you to (remotely) check tank(s) or fluid block(s) in the connected $(l:programming/area)Area/$ widget for a certain amount of fluid. It will only count the fluid allowed by a connected $(l:programming/liquid_filter)Fluid Filter/$ widget (omit the filter to allow every fluid)."
+      "text": "這是一個$(l:programming/conditions)條件/$拼圖。$(p)$(thing)條件：流體/$條件：流體允許你（遠程）檢查指定$(l:programming/area)區域/$內的儲罐或流體方塊是否含有一定量的流體。只會對所連接的$(l:programming/liquid_filter)流體過濾器/$所允許的流體（如果沒有，即允許所有流體）進行計量。"
     },
     {
       "type": "image",
       "images": [
         "pneumaticcraft:textures/items/progwidgets/condition_liquid_inventory_piece.png"
       ],
-      "text": "$(italic)Condition: Fluid Widget/$"
+      "text": "$(italic)條件：流體/$"
     }
   ]
 }
