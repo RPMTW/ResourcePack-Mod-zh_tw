@@ -1,16 +1,16 @@
 {
-  "name": "Flux Compressor",
+  "name": "通量壓縮機",
   "icon": "pneumaticcraft:flux_compressor",
   "category": "compressors",
   "advancement": "pneumaticcraft:advanced_pressure_tube",
   "pages": [
     {
       "type": "text",
-      "text": "The $(item)Flux Compressor/$ converts $(thing)Forge Energy/$ (compatible with $(thing)Redstone Flux/$ and the energy systems of various other mods) into $(l:base_concepts/pressure)compressed air/$. It consumes a base 40 FE/tick, but can be upgraded with $(l:base_concepts/upgrades#speed)Speed Upgrades/$.$(p)The Flux Compressor has a capacity of 100,000 FE and accepts FE at double the rate it uses it."
+      "text": "$(item)通量壓縮機/$將 $(thing)FE能量/$（與 $(thing)RF/$ 能量和某些模組的能量系統相容）轉化為$(l:base_concepts/pressure)壓縮空氣/$。基礎能量耗率為 40 FE/刻，可安裝$(l:base_concepts/upgrades#speed)速度升級/$。$(p)通量壓縮機的 FE 容量為 100000 FE，可以以能量耗率的 2 倍速率接受能量。"
     },
     {
       "type": "crafting",
-      "text": "Creating a $(item)Flux Compressor/$$(p)This generator must be $(l:base_concepts/heat)cooled/$, as its efficiency will drop as the temperature rises, up to the point where no air is generated at all.",
+      "text": "$(item)通量壓縮機/$的合成表$(p)該壓縮機必須被$(l:base_concepts/heat)冷卻/$，介於其效率會隨溫度的升高而降低，直至沒有任何空氣產生。",
       "recipe": "pneumaticcraft:flux_compressor"
     }
   ]
