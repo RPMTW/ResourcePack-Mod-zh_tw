@@ -1,24 +1,24 @@
 {
-  "name": "Rename Widget",
+  "name": "重新命名無人機",
   "icon": "pneumaticcraft:textures/items/progwidgets/rename_piece.png",
   "category": "widget_other",
   "advancement": "pneumaticcraft:programmer",
   "pages": [
     {
       "type": "text",
-      "text": "This widget renames the $(l:tools/drone)Drone/$, as if you had $(thing)right-clicked/$ it with a $(item)Name Tag/$. The name is entered in the attached $(l:programming/text)Text/$ widget."
+      "text": "該拼圖重新命名$(l:tools/drone)無人機/$，就像使用$(item)命名牌/$$(thing)右擊/$無人機一樣。名稱位於所連接的$(l:programming/text)文字/$拼圖中。"
     },
     {
       "type": "text",
       "title": "Variables",
-      "text": "You can also insert the value of a $(l:programming/variables)variable/$, by including $(thing)${<var_name>}/$ in the text, e.g.$(p)  $(formula)Counter: ${counter}/$$(p)would expand to $(thing)Counter: 1, 2, 3/$ if the $(thing)counter/$ variable was set to $(thing)x=1,y=2,z=3/$. $(l:programming/variables#special)Special/$ and $(l:programming/variables#global)Global variables/$ can also be used here."
+      "text": "同樣可以通過在$(thing)文字/$拼圖中輸入$(thing)${<變數名>}/$插入一個$(l:programming/variables)變數/$的值，例如：$(p)  若 $9thing)counter/$ 變數的值被設定為 x=1, y=2, z=3，$(formula)計數：${counter}/$$(p)將被展開為$(thing)計數：1, 2, 3/$。$(l:programming/variables#special)特定/$和$(l:programming/variables#global)全局變數/$同樣可以在此處使用。"
     },
     {
       "type": "image",
       "images": [
         "pneumaticcraft:textures/items/progwidgets/rename_piece.png"
       ],
-      "text": "$(italic)Who are you again?/$"
+      "text": "$(italic)所以你叫什麼？/$"
     }
   ]
 }
