@@ -1,24 +1,24 @@
 {
-  "name": "For Each Item Widget",
+  "name": "對於每個物品",
   "icon": "pneumaticcraft:textures/items/progwidgets/for_each_item.png",
   "category": "widget_flow",
   "advancement": "pneumaticcraft:programmer",
   "pages": [
     {
       "type": "text",
-      "text": "This advanced widget will execute a subroutine for every connected $(l:programming/item_filter)Item Filter/$. For each filter, it will set the specified variable to that filter, and jump to the $(l:programming/label)Label/$ which matches the connected $(l:programming/text)Text/$ widget. When that routine is done executing (when it reaches the end of a program where it would usually jump back to $(l:programming/start)Start/$), it will come back to this widget and do the same for the next $(thing)Item Filter/$."
+      "text": "這個高級拼圖將會對每一連接的$(l:programming/item_filter)物品過濾器/$執行子例程。對於每個物品，將會把$(ttcolor)$(t:右擊拼圖以調出設定介面指定這一變數)指定變數/$設定為這一物品，並跳轉到標籤名匹配所連接的$(l:programming/text)文字/$的$(l:programming/label)標籤/$處。當跳轉後的進程結束執行時（到達了執行的盡頭，一般將要跳轉回$(l:programming/start)開始/$處時），程序流將返回該拼圖，並對下一$(thing)物品過濾器/$重複該操作。"
     },
     {
       "type": "text",
-      "title": "Breaking",
-      "text": "You can break out of the loop by setting the item variable used by the $(thing)For Each Item/$ to an empty filter (use the $(l:programming/item_assign)Item Assign/$ widget to do this). Next time, when the program jumps back to the $(thing)For Each Item/$, it will notice this and cancel further traversal of filters."
+      "title": "跳出循環",
+      "text": "可以透過將$(thing)對於每個物品/$使用的物品變數設為空（使用$(l:programming/item_assign)物品賦值/$做到這一點）的方式跳出循環。控制流跳轉回$(thing)對於每個物品/$時其將注意到這一變更並取消後繼遍歷。"
     },
     {
       "type": "image",
       "images": [
         "pneumaticcraft:textures/items/progwidgets/for_each_item.png"
       ],
-      "text": "$(italic)For Each Item Widget/$"
+      "text": "$(italic)對於每個物品/$"
     }
   ]
 }
