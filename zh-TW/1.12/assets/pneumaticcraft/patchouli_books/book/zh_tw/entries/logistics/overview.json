@@ -1,5 +1,5 @@
 {
-  "name": "Logistics Overview",
+  "name": "物流總覽",
   "icon": "pneumaticcraft:logistics_configurator",
   "category": "logistics",
   "advancement": "pneumaticcraft:plastic",
@@ -7,11 +7,11 @@
   "pages": [
     {
       "type": "text",
-      "text": "$(pncr)'s $(thing)Logistics System/$ offers an interesting way to transport items & fluids, and to keep inventories & tanks stocked.$(p)Inventories & tanks can be marked with $(l:logistics/frames)Logistic Frames/$, attachable gadgets which control how items & fluids should be moved into and out of those blocks."
+      "text": "$(pncr)的$(thing)物流系統/$提供了一套有意思的傳輸物品和流體，並保持容器和儲罐的供應的方法。$(p)容器和儲罐可以被$(l:logistics/frames)物流框架/$所標記，用於控制物品和流體如何被傳入傳出該方塊。"
     },
     {
       "type": "text",
-      "text": "Those inventories are then connected with $(l:logistics/logistic_drones)Logistics Drones/$ or $(l:tubes/pressure_tubes)Pressure Tubes/$ with $(l:tubes/logistics_module)Logistics Modules/$ attached.$(p)The $(thing)Logistics System/$ is heavily inspired by $(l:https://wiki.factorio.com/Logistic_network)Factorio/$, and if you've played that game, the concepts will be familiar. The primary difference is that this mod provides $(l:logistics/frames)Frames/$ to attach to existing inventories/tanks, rather than separate logistic chests."
+      "text": "這些容器下一步由$(l:logistics/logistic_drones)物流無人機/$或安裝了$(l:tubes/logistics_module)物流模組/$的$(l:tubes/pressure_tubes)壓力管道/$所聯繫起來。$(p)$(thing)物流系統/$很大程度上是由$(l:https://wiki.factorio.com/Logistic_network)異星工廠/$所啟發的，而如果你玩過該遊戲，這裡的概念對於你將會很熟悉。主要的區別是該模組提供$(l:logistics/frames)物流框架/$以標記已有的容器/儲罐，而非加入獨立的物流儲物箱。"
     }
   ]
 }
