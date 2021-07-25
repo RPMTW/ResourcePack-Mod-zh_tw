@@ -1,32 +1,32 @@
 {
-    "name": "Scribing Desk",
+    "name": "法術抄寫台",
     "icon": "ancientspellcraft:scribing_desk",
-    "category": "2_researching",
+    "category": "2_研究中",
     "sortnum": 3,
     "pages": [
         {
             "type": "spotlight",
             "item": "ancientspellcraft:scribing_desk",
-            "text": " The Scribing Desk can be used to put the knowledge learnt from relics into some practical usage...",
+            "text": " 法術抄寫台可以放置從遺物中學到的知識以用在實際用途...",
             "link_recipe": false
         },
         {
             "type": "crafting",
             "recipe": "ancientspellcraft:scribing_desk",
-            "title": "Scribing Desk",
-            "text": "The Scribing Desk can be crafted at a crafting table"
+            "title": "法術抄寫台",
+            "text": "法術抄寫台可以在合成台中被合成"
         },
         {
             "type": "image",
             "images": [
                 "ancientspellcraft:textures/gui/entries/scribing_desk_gui_1.png"
             ],
-            "title": "Scribing Desk",
+            "title": "法術抄寫台",
             "text": ""
         },
         {
             "type": "text",
-            "text": "The Scribing Desk has 7 item slots. $(br)- The top left slot is for relics like stone tablets. $(br)- The bottom left slot is for Magic Crystals. $(br)- The book slot in the middle is for an empty, regular Book. $(br) - The bottom right slot is for Ink. $(br) -The three slots in the middle are for ingredients."
+            "text": "法術抄寫台擁有7個物品欄。$(br)- 左上角欄位放置遺物像是石頭平板。$(br)- 左下角欄位放置魔法水晶。$(br)- 中間的書本欄位放置普通的書。$(br)- 右下角欄位放置墨水。$(br)- 另外中間三個欄位是放置材料"
         }
     ]
 }
