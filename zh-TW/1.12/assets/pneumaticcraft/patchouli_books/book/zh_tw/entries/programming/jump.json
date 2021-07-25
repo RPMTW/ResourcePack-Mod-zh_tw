@@ -1,16 +1,16 @@
 {
-  "name": "Jump Widget",
+  "name": "跳轉",
   "icon": "pneumaticcraft:textures/items/progwidgets/jump_piece.png",
   "category": "widget_flow",
   "advancement": "pneumaticcraft:programmer",
   "pages": [
     {
       "type": "text",
-      "text": "This widget is purely focused on $(l:programming/flow_control)program flow/$. When the program hits a $(thing)Jump/$ widget, it will look at the connected $(l:programming/text)Text/$ widget, and try to jump to a $(l:programming/label)Label/$ widget with a matching name. If it fails for any reason, execution will return to the $(l:programming/start)Start/$ widget. (This fallback behaviour should never occur normally)."
+      "text": "該拼圖僅用於$(l:programming/flow_control)程序流/$。當程序流到達$(thing)跳轉/$時，將會查看所連接的$(l:programming/text)文字/$，並試圖跳轉到具有匹配的標籤名的$(l:programming/label)標籤/$。如果跳轉失敗，程序流將回到$(l:programming/start)開始/$。（此預設行為正常情況下不應該發生）"
     },
     {
       "type": "text",
-      "text": "A $(thing)Jump/$ widget can be used to merge multiple $(italic)branches/$ in the program flow (by using two or more jumps that all jump to the same $(l:programming/label)Label/$, or simply to organize your program by separating sections into their own 'subroutines'. A useful tip is to check $(bold)Show Flow/$ checkbox at the bottom left of the $(l:programming/programmer)Programmer/$ GUI;  it will show lines linking $(thing)Jump/Condition/Label/$ widgets of the same name."
+      "text": "$(thing)跳轉/$拼圖可以用於合併程序流中的多個$(italic)分支/$（使用多個跳轉到同一$(l:programming/label)標籤/$的跳轉拼圖）或者僅僅透過將各部分拆分為「子例程」的方式整理拼圖。小竅門：勾選$(l:programming/programmer)編程器/$介面的左下角的$(bold)顯示程序流/$；其將把有同一標籤名的$(thing)跳轉/條件/標籤/$連接起來。"
     },
     {
       "type": "image",
