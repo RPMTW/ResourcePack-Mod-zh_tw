@@ -1,23 +1,23 @@
 {
-  "name": "Item Filter Widget",
+  "name": "物品過濾器",
   "icon": "pneumaticcraft:textures/items/progwidgets/item_filter_piece.png",
   "category": "widget_other",
   "advancement": "pneumaticcraft:programmer",
   "pages": [
     {
       "type": "text",
-      "text": "The $(thing)Item Filter/$ is a widget solely used as a $(thing)parameter/$ for other widgets. You can use it to specify which blocks & items may be picked up / placed / mined / etc.$(p)Start by $(thing)right-clicking/$ the widget. Then you can either search for an item in the game by clicking $(thing)Search Item.../$ or you can select an item from your inventory by clicking $(thing)Search Inventory.../$"
+      "text": "$(thing)物品過濾器/$拼圖僅用作其餘拼圖的參數。可以用其指定哪些方塊或物品可以被撿起/放置/開採/...$(p)$(thing)右擊/$拼圖以調出設定介面。在此可以點擊$(thing)搜尋物品.../$搜尋物品，或者點擊$(thing)在物品欄查找.../$從物品欄選取物品。"
     },
     {
       "type": "text",
-      "text": "Then you can apply some extra filter options to control how the match is done; how these options work is displayed in the tooltips of the checkboxes in the GUI.$(p)As usual, placing this widget to the $(italic)right/$ of its parent acts as a whitelist, and placing it to the $(italic)left/$ acts as a blacklist."
+      "text": "此後，可以應用額外的過濾器設定以控制匹配如何進行；這些選項的用法以提示文字的形式在複選框處顯示。$(p)和往常一樣，$(italic)右側/$用作白名單，$(italic)左側/$用作黑名單。"
     },
     {
       "type": "image",
       "images": [
         "pneumaticcraft:textures/items/progwidgets/item_filter_piece.png"
       ],
-      "text": "$(italic)Item Filter Widget/$"
+      "text": "$(italic)物品過濾器/$"
     }
   ]
 }
