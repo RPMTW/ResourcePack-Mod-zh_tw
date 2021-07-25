@@ -1,45 +1,45 @@
 {
-  "name": "Heat Sources",
+  "name": "熱源",
   "icon": "pneumaticcraft:vortex_tube",
   "category": "base_concepts",
   "pages": [
     {
       "type": "text",
-      "text": "$(thing)Static heat sources/$ are blocks and fluids which add or remove heat to/from machines when adjacent to them. When too much heat is added or removed, they may transform into other blocks or fluids. Note that heat extraction/addition is tracked externally to the block in question, so breaking/replacing blocks to reset extracted heat is not a viable strategy."
+      "text": "$(thing)靜態熱源/$為一類可以直接與相鄰的機器進行熱傳遞的方塊或流體。獲得或失去了過多熱量後，這類熱源有可能會被轉化為其他方塊或流體。註：這類熱源的熱量損失是被外部記錄的，因此簡單的破壞並重新放置並不能重設損失的熱量。"
     },
     {
       "type": "text",
-      "title": "Vanilla Heat Sources",
-      "text": "The following vanilla blocks & fluids act as static heat sources: $(li)Air$(li)Ice$(li)Packed Ice$(li)Snow$(li)Torch$(li)Fire (will go out)$(li)Magma (cools to Netherrack)$(li)Water (may freeze or evaporate)$(li)Lava (cools to Obsidian)"
+      "title": "原版熱源",
+      "text": "下列原版方塊和流體可被作為靜態熱源：$(li)空氣$(li)冰$(li)冰磚$(li)雪$(li)火把$(li)火（將會熄滅）$(li)熔岩塊（將被冷卻為地獄岩）$(li)水（將被冷卻為冰或加熱至蒸發）$(li)熔岩（將被冷卻為黑曜石）"
     },
     {
       "type": "text",
-      "title": "Modded Heat Sources",
-      "text": "Several blocks from mods will also function as static heat sources with differing properties, including:$(li)IC2 Steam and Superheated Steam$(li)IC2 Coolant and Hot Coolant$(li)IC2 and Immersive Engineering Uranium Blocks$(li)Quark Blaze Lanterns$(li)Quark Brimstone and Permafrost$(li)Natura Heat Sand$(li)All modded fluids have heat properties (temperature is mod-defined)"
+      "title": "模組熱源",
+      "text": "其餘模組所加入的部分方塊也可以作為具有不同屬性的靜態熱源，包括：$(li)工業2的蒸汽與過熱蒸汽$(li)工業2的冷卻液和熱冷卻液$(li)工業2和沉浸工程的鈾塊$(li)Quark 的烈焰燈$(li)Quark 的硫黃石和永凍石$(li)Natura 的熱沙$(li)所有含有熱屬性的流體（溫度值由加入這一流體的模組確定）"
     },
     {
       "type": "text",
-      "title": "Adding Custom Sources",
-      "text": "(Primarily for modpack creators) The file $(thing)config/pneumaticcraft/BlockHeatProperties.cfg/$ can be used to define custom heat properties for pretty much any block or fluid in the game. You can freely edit this JSON file, and your changes won't be overwritten by new versions of the mod (although new entries may be added). You can delete the file to force a 'factory reset'."
+      "title": "加入自訂熱源",
+      "text": "（主要針對整合包製作者）可以在 $(thing)config/pneumaticcraft/BlockHeatProperties.cfg/$ 中定義基本上遊戲中任何方塊和流體的熱屬性。可以隨意變更這一 JSON 檔案，而所作的變更不會被新版本的氣動工藝所覆蓋（儘管也許會加入新條目）。刪除這一檔案以進行「恢復出廠設定」。"
     },
     {
       "type": "spotlight",
       "item": "pneumaticcraft:vortex_tube",
-      "text": "A $(l:machines/vortex_tube)Vortex Tube/$ is a $(thing)dynamic heat source/$ which converts $(l:base_concepts/pressure)pressure/$ directly to heat and cold."
+      "text": "$(l:machines/vortex_tube)渦流管/$為可用於將$(l:base_concepts/pressure)壓力/$轉化為溫度差的$(thing)動態熱源/$。"
     },
     {
       "type": "spotlight",
       "item": "pneumaticcraft:heat_frame",
-      "text": "A $(l:semiblocks/heat_frame)Heat Frame/$ is a gadget that can be used to heat (or freeze!) items in any inventory. Note that Heat Frames will not absorb heat directly from a $(thing)static heat source/$, but you could put a $(l:base_concepts/basic_materials#compressed_iron_block)Compressed Iron Block/$ beside it to transmit the heat."
+      "text": "$(l:semiblocks/heat_frame)導熱框架/$為一可用於加熱（或冷卻）容器中的物品的裝置。註：導熱框架並不會直接與$(thing)靜態熱源/$進行熱傳遞，但可以在其間放置$(l:base_concepts/basic_materials#compressed_iron_block)壓縮鐵方塊/$以傳遞熱量。"
     },
     {
       "type": "spotlight",
       "item": "pneumaticcraft:heat_sink",
-      "text": "A $(l:machines/heat_sink)Heat Sink/$ is a block that can be used to disperse Heat (or cold!) from the block it's attached to, into the atmosphere."
+      "text": "$(l:machines/heat_sink)散熱片/$為一可用於將所附著的方塊上的熱量散發至空氣中的方塊。"
     },
     {
       "type": "text",
-      "text": "$(bold)Heating a Furnace/$$(p)When connecting a $(item)Furnace/$ to any dynamic heat source (such as a $(l:machines/vortex_tube)Vortex Tube/$, but also blocks like the $(l:compressors/advanced_air_compressor)Advanced Air Compressor/$ which produces heat), the heat will be consumed by the Furnace to 'fuel' it. The Furnace will smelt faster the higher the temperature. This effect can be stacked with multiple heat sources around the Furnace. This furnace 'fueling' will start to work at 100°C."
+      "text": "當$(item)熔爐/$與任何動態熱源（如$(l:machines/vortex_tube)渦流管/$，但也包括$(l:compressors/advanced_air_compressor)高級空氣壓縮機/$等產熱機器）相鄰時，動態熱源所產生的熱量將被用於加熱熔爐，作為其「燃料」。溫度越高，熔煉速度越快。多個熱源的這一效應可以被疊加。這一行為在溫度達到 100℃ 時開始出現。"
     }
   ]
 }
