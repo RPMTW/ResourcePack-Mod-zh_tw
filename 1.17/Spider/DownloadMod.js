@@ -25,30 +25,32 @@ require('readline').createInterface({
     Run()
 })
 function Run() {
-    CurseForge.getMod(Number(ID)).then((mod) => {
-        let files = mod.latestFiles.reverse();
+    CurseForge.getModFiles(Number(ID)).then((files) => {
+        files = files.reverse();
+        files.sort(function (a, b) {
+            return Date.parse(b.timestamp) - Date.parse(a.timestamp);
+        });
         for (let i = 0; i < files.length; i++) {
-            files = files.reverse();
-            files.sort(function (a, b) {
-                return Date.parse(b.timestamp) - Date.parse(a.timestamp);
-              });
             let data = files[i].minecraft_versions;
-             if (MCVersion(data)) {
+            if (MCVersion(data)) {
                 fileID = String(files[i].id);
-                fileName = String(files[i].download_url.split("https://edge.forgecdn.net/files/")[1].split(`${fileID.substr(0, 4)}/${fileID.substr(4, 7)}/`)[1]);
-                if (fileName === "undefined") {
-                    fileName = String(files[i].download_url.split("https://edge.forgecdn.net/files/")[1].split(`${fileID.substr(0, 4)}/${fileID.substr(5, 7)}/`)[1]);
-                }
-                let test = path.join(ModDirPath, fileName);
+                fileName = String(files[i].download_url.split("https://edge.forgecdn.net/files/")[1].replace("/", "").split("/")[1]);
                 slug = fileName.split(".jar")[0];
-                files[i].download(test, true).then(() => {
-                    console.log(`${fileName.split(".jar")[0]} 下載完成。`);
-                    compressing.zip.uncompress(`./mod/${fileName}`, "../jar/" + slug).then(() => GetModID(slug, ID, fileName));
-                }).catch((err) => {
-                    console.log("發生未知錯誤: " + err);
-                });
+                urllib.request(files[i].download_url, {
+                    streaming: true,
+                    followRedirect: true,
+                    timeout: [100000, 100000],
+                })
+                    .then(result => {
+                        console.log(`${fileName.split(".jar")[0]} 下載完成。`);
+                        compressing.zip.uncompress(result.res, "../jar/" + slug).then(() => {
+                            console.log(`${fileName.split(".jar")[0]} 解壓縮完成。`)
+                            GetModID(slug, ID, fileName)
+                        })
+                    })
+                    .catch("解壓縮模組檔案時發生未知錯誤: ", console.error);
+                break;
             }
-            break;
         }
-    });
+    }).catch("抓取模組檔案時發生未知錯誤: ", console.error);
 }
