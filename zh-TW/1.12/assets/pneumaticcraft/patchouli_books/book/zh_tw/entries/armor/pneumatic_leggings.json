@@ -1,37 +1,37 @@
 {
-  "name": "Pneumatic Leggings",
+  "name": "氣動護腿",
   "icon": "pneumaticcraft:pneumatic_leggings",
   "category": "armor",
   "advancement": "pneumaticcraft:printed_circuit_board",
   "pages": [
     {
       "type": "text",
-      "text": "The $(item)Pneumatic Leggings/$ is one of the four $(thing)Pneumatic Armor/$ pieces."
+      "text": "$(item)氣動護腿/$是四件$(thing)氣動盔甲/$中的一件。"
     },
     {
       "type": "crafting",
       "recipe": "pneumaticcraft:pneumatic_leggings",
-      "text": "Creating a Pneumatic Leggings"
+      "text": "氣動護腿的合成表"
     },
     {
       "type": "spotlight",
       "item": "pneumaticcraft:speed_upgrade",
-      "text": "In addition to reducing the armor's initialization time, $(l:base_concepts/upgrades#speed)Speed Upgrades/$ in the leggings have a more important effect: they increase your $(thing)run speed/$, at a very minor $(l:base_concepts/pressure)air cost/$.  Up to 4 Speed Upgrades can be installed."
+      "text": "除去減少盔甲的氣動時間外，安裝在氣動護腿上的$(l:base_concepts/upgrades#speed)速度升級/$有更重要的效應：其提升$(thing)疾走速度/$，同時消耗少量$(l:base_concepts/pressure)空氣/$。最大可安裝 4 個速度升級。"
     },
     {
       "type": "text",
-      "title": "Speed Upgrade (cont.)",
-      "text": "The armor GUI allows the speed boost to be reduced on-the-fly, if you want to change your speed without needing to find a $(l:machines/charging_station)Charging Station/$ to swap out upgrades."
+      "title": "速度升級（續）",
+      "text": "可以在盔甲介面中隨時調整速度加成，以便在沒有$(l:machines/charging_station)充氣站/$可供調整升級的情況下調整速度。"
     },
     {
       "type": "spotlight",
       "item": "pneumaticcraft:range_upgrade",
-      "text": "$(l:base_concepts/upgrades#range)Range Upgrades/$ provide you with increased jumping ability at a minor air cost. Up to 6 Range Upgrades can be installed.$(p)Holding $(thing)$(k:key.sneak)/$ while jumping will reduce the jump height to the equivalent of a single upgrade."
+      "text": "$(l:base_concepts/upgrades#range)範圍升級/$提生跳躍能力，同時消耗少量空氣。最大可安裝 6 給範圍升級。$(p)跳躍時長按 $(thing)$(k:key.sneak)/$ 鍵可將跳躍高度降低到安裝單個升級時的等價高度。"
     },
     {
       "type": "text",
-      "title": "Range Upgrade (cont.)",
-      "text": "The armor GUI allows the jump boost to be reduced on-the-fly, if you want to change your jump height without needing to find a $(l:machines/charging_station)Charging Station/$ to swap out upgrades."
+      "title": "範圍升級（續）",
+      "text": "可以在盔甲介面中隨時調整跳躍加成，以便在沒有$(l:machines/charging_station)充氣站/$可供調整升級的情況下調整跳躍高度。"
     }
   ]
 }
