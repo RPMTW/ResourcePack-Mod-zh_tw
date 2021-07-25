@@ -1,12 +1,12 @@
 {
-  "name": "Wait Widget",
+  "name": "等待",
   "icon": "pneumaticcraft:textures/items/progwidgets/wait_piece.png",
   "category": "widget_flow",
   "advancement": "pneumaticcraft:programmer",
   "pages": [
     {
       "type": "text",
-      "text": "The $(l:tools/drone)Drone/$ will wait the specified amount of time, doing nothing. The time is specified by attaching a $(l:programming/text)Text/$ widget, and entering a duration.$(p)The following duration formats are accepted:$(li)$(thing)20/$: wait 1 second (20 ticks)$(li)$(thing)10s/$: wait 10 seconds$(li)$(thing)5m/$: wait 5 minutes"
+      "text": "$(l:tools/drone)無人機/$將等待指定時長不做任何事情。該時長由所連接的$(l:programming/text)文字/$拼圖指定。$(p)接受下列格式的時長：$(li)$(thing)20/$：等待 1 秒（20 遊戲刻）$(li)$(thing)10s/$：等待 10 秒$(li)$(thing)5m/$等待 5 分鐘"
     },
     {
       "type": "image",
