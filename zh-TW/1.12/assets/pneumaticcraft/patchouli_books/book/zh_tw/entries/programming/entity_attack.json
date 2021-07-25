@@ -1,34 +1,34 @@
 {
-  "name": "Entity Attack Widget",
+  "name": "攻擊實體",
   "icon": "pneumaticcraft:textures/items/progwidgets/attack_piece.png",
   "category": "widget_interact",
   "advancement": "pneumaticcraft:programmer",
   "pages": [
     {
       "type": "text",
-      "text": "The $(l:tools/drone)Drone/$ will attack every living creature within the area.$(p)Keep in mind that the $(l:programming/area)Area/$ widgets connected to an $(thing)Entity Attack/$ widget will always be interpreted with cuboid mode, regardless of the $(thing)Area/$ widget's area mode. It's possible to create different shapes, though, by using whitelisting/blacklisting of areas."
+      "text": "$(l:tools/drone)無人機/$將會攻擊指定$(l:programming/area)區域/$內的每個生物。$(p)注意：無論在$(thing)區域/$拼圖內區域設定為何，任何連接的$(thing)區域/$拼圖都會以長方體模式被處理。儘管如此，通過區域白名單/黑名單仍可創建不同的形狀。"
     },
     {
       "type": "text",
       "title": "Filtering Entities",
-      "text": "You can specify which creatures may be attacked by using $(l:programming/text)Text/$ widgets as an $(l:base_concepts/entity_filter)Entity Filter/$. E.g. if you want the $(item)Drone/$ to attack all players, connect a $(thing)Text/$ widget to the $(italic)right/$ of the $(thing)Entity Attack/$ widget containing $(#600)@player/$.$(p)If you don't want to be attacked yourself, connect up a $(thing)Text/$ widget on the $(italic)left/$ containing your player name."
+      "text": "可以通過作為$(l:base_concepts/entity_filter)實體過濾器/$的$(l:programming/text)文字/$過濾要被攻擊的實體。例如，要使$(item)無人機/$攻擊所有玩家，在$(thing)攻擊實體/$拼圖的$(italic)右/$側連接寫有$(#600)@player/$的$(thing)文字/$拼圖。$(p)要使無人機不攻擊自己，在$(italic)左/$側連接寫有自己的玩家名的$(thing)文字/$拼圖。"
     },
     {
       "type": "text",
       "title": "Melee Attacks",
-      "text": "$(l:tools/drone)Drones/$ will equip and use any melee weapon in their inventory to attack. If a $(item)Drone/$ has multiple weapons in its inventory, it will equip the most damaging one. $(p)You can use an $(l:programming/inventory_import)Inventory Import/$ widget to provide the $(item)Drone/$ with a weapon, which is strongly recommended - its unarmed melee attack is weak."
+      "text": "$(l:tools/drone)無人機/$將會裝備並使用物品欄中任何的近戰武器進行攻擊。如果$(item)無人機/$的物品欄裡有多個武器，其將會選擇傷害值最大的那一個。$(p)可以使用$(l:programming/inventory_import)從容器提取物品/$為$(item)無人機/$提供武器。這是強烈建議的：$(item)無人機/$未攜帶武器的近戰攻擊很弱。"
     },
     {
       "type": "text",
       "title": "Ranged Attacks",
-      "text": "By inserting an $(l:base_concepts/upgrades#entity_tracker)Entity Tracker Upgrade/$ into the $(l:tools/drone)Drone/$, it will have a $(l:tools/minigun)Minigun/$ attached to it. When provided with $(l:tools/minigun_ammo)Gun Ammo/$ (using an $(l:programming/inventory_import)Inventory Import/$ widget) the $(item)Drone/$ will use this Minigun to perform ranged attacks on its foes.$(p)The default range is 16 blocks, which can be upgraded by inserting up to 16 $(l:base_concepts/upgrades#range_upgrade)Range Upgrades/$, for a maximum range of 32 blocks."
+      "text": "對$(l:tools/drone)無人機/$安裝$(l:base_concepts/upgrades#entity_tracker)實體追蹤器/$升級後，$(item)無人機/$將會附帶一個$(l:tools/minigun)加特林機槍/$。對其提供$(l:tools/minigun_ammo)加特林機槍子彈/$（使用$(l:programming/inventory_import)從容器提取物品/$）後，$(item)無人機/$將使用該機槍執行攻擊。$(p)預設範圍是 16 格，可以通過加裝最多 16 個￥（l:base_concept/updates#range_update)範圍升級/$來增加，最大 32 格。"
     },
     {
       "type": "image",
       "images": [
         "pneumaticcraft:textures/items/progwidgets/attack_piece.png"
       ],
-      "text": "$(italic)I'll be back/$"
+      "text": "$(italic)我會回來的/$"
     }
   ]
 }
