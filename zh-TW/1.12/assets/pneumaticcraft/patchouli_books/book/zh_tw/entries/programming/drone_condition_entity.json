@@ -6,14 +6,14 @@
   "pages": [
     {
       "type": "text",
-      "text": "This is a $(l:programming/conditions)Condition/$ widget.$(p)The $(thing)Drone Condition: Entity/$ widget allows you to check the entity this $(l:tools/drone)Drone/$ is currently carrying. You can add an optional $(l:programming/text)Text/$ widget with an $(l:base_concepts/entity_filter)Entity Filter/$, to filter the entity to check for. With no $(thing)Text/$ widget, the condition will be true if $(italic)any/$ entity is carried."
+      "text": "這是一個$(l:programming/conditions)條件/$拼圖。$(p)$(thing)無人機條件：實體/$允許你檢查$(l:tools/drone)無人機/$目前搭載的實體。可以通過可選的作為$(l:base_concepts/entity_filter)實體過濾器/$的$(l:programming/text)文字/$過濾實體。當沒有$(thing)文字/$時，若$(item)無人機/$搭載了$(italic)任意/$實體，條件執行為$(thing)真/$。"
     },
     {
       "type": "image",
       "images": [
         "pneumaticcraft:textures/items/progwidgets/condition_drone_entity_piece.png"
       ],
-      "text": "$(italic)Drone Condition: Entity Widget/$"
+      "text": "$(italic)無人機條件：實體/$"
     }
   ]
 }
