@@ -1,104 +1,104 @@
 {
-  "name": "Computer Integration",
+  "name": "CC/OC 同步",
   "icon": "pneumaticcraft:textures/patchouli/computer.png",
   "category": "base_concepts",
   "flag": "|mod:computercraft,mod:opencomputers",
   "pages": [
     {
       "type": "text",
-      "text": "When $(thing)ComputerCraft/$ or $(thing)Open Computers/$ is installed, you'll be able to interact with almost every $(pncr) machine, and $(l:machines/drone_interface)Drones/$.$(p)Any of the machines listed here can be interacted with as CC/OC peripherals."
+      "text": "同時安裝了$(thing)電腦/$模組或者$(thing)開放式電腦/$模組時，可以使用其與$(pncr)的任何機器，以及$(l:machines/drone_interface)無人機/$進行交互。$(p)下面列出的所有機器都可以以 CC/OC 外設的形式被交互。"
     },
     {
       "type": "text",
-      "title": "ComputerCraft",
-      "text": "In Lua, you can run $(thing)m = peripheral.wrap(<side>)/$, where $(thing)<side>/$ is the side of the computer the peripheral is connected to (top, bottom, left, right, back, front). Then you can use any of the following functions with $(thing)m.<functionName>/$.$(p)Anywhere in the following functions where a '<side>' appears as one of the arguments, 'up', 'down', 'north', 'south', 'east', 'west' are valid.",
+      "title": "電腦工藝",
+      "text": "在 Lua 中，可以運行 $(thing)m = peripheral.wrap(<面>)/$ 來調用外設，其中 $(thing)<面>/$ 代表外設被連接在哪一面上，可以為 top（頂面）, bottom（底面）, right（右面）, left（左面）, back（前面）, front（後面）。此後可以通過 $(thing)m.<函數名>/$ 調用下面提及的所有函數。$(p)下午所有以 <面> 作為參數的地方中，up，down，north，south，east，west 為合法參數。",
       "flag": "mod:computercraft"
     },
     {
       "type": "text",
       "title": "Open Computers",
-      "text": "You will need to use an $(item)Adapter/$ to connect your computer to $(pnc) machines; they will then appear as OC components, which show up if you run $(thing)=components.list()/$ in an OC Lua environment. Then any of the following functions can be used, e.g. $(thing)p = components.air_compressor.getPressure()/$ will retrieve the current pressure of an attached $(item)Air Compressor/$.",
+      "text": "需要使用$(item)適配器/$把電腦與$(pncr)機器相連接；其將會被識別為 OC 中的組件，在 OC Lua 環境中運行 $(thing)=components.list()/$ 時將被列出。此後下列提及的所有函數可被調用，例如：$(thing)p = components.air_compressor.getPressure()/$ 將獲取所連接的$(item)空氣壓縮機/$的當前壓力。",
       "flag": "mod:opencomputers"
     },
     {
       "type": "text",
-      "title": "Common Methods",
-      "text": "The following methods are common to $(italic)all/$ $(pncr) machines:$(li)$(#800)getPressure(), getPressure(<side>)/$: gets the machine's pressure. <side> is optional, only useful for the $(l:machines/vacuum_pump)Vacuum Pump/$, which has side-specific pressures.$(li)$(#800)getDangerPressure()/$: get the pressure at which the machine is at risk of explosion$(li)$(#800)getCriticalPressure()/$: get the hard maximum pressure at which the machine will certainly explode"
+      "title": "一般方法",
+      "text": "下列方法對於$(italic)所有/$$(pncr)的機器都適用：$(li)$(#800)getPressure(), getPressure(<面>)/$：獲取該方塊的壓力。<面>參數是可選的，只在獲取$(l:machines/vacuum_pump)真空泵/$的壓力時用到，因為其有與朝向相關的壓力值。$(li)$(#800)getDangerPressure()/$：獲取機器可能爆炸的壓力極限。$(li)$(#800)getCriticalPressure()/$：獲取機器必定會爆炸的壓力極限。"
     },
     {
       "type": "text",
-      "title": "Heat-Related Methods",
-      "text": "The following methods are common to $(italic)all/$ $(pncr) machines which support the concept of $(l:base_concepts/heat)Heat/$:$(li)$(#800)getTemperature(), getTemperature(<side>)/$: gets the machine's temperature. <side> is optional, only useful for the $(l:machines/vortex_tube)Vortex Tube/$, which has different temperatures depending on the side."
+      "title": "熱相關方法",
+      "text": "下列方法對於$(italic)所有/$$(pncr)的支持$(l:base_concepts/heat)熱量/$的機器都適用：$(li)$(#800)getTemperature(), getTemperature(<面>)/$：獲取該方塊的溫度。<面>參數是可選的，只在獲取$(l:machines/vortex_tube)渦流管/$的溫度時用到，因為其有與朝向相關的溫度值。"
     },
     {
       "type": "spotlight",
       "anchor": "air_cannon",
       "item": "pneumaticcraft:air_cannon",
-      "text": "$(li)$(#800)setExternalControl(<true/false>)/$: When true, this will prevent the cannon being rotated with normal methods (GPS Tool insertion, change in Range Upgrades..)$(li)$(#800)setTargetLocation(<x>,<y>,<z>)/$: Point the cannon at the given target location instead of that stored in a GPS Tool."
+      "text": "$(li)$(#800)setExternalControl(<true/false>)/$：傳參為 true 時，將會禁用使用通常的方式旋轉（插入定位工具，更改範圍升級的數量...）。$(li)$(#800)setTargetLocation(<x>,<y>,<z>)/$：使空氣加農炮指向傳入的坐標，而非在定位工具中儲存的坐標。"
     },
     {
       "type": "text",
-      "title": "Air Cannon (cont.)",
-      "text": "$(li)$(#800)setRotationAngle(<angle>)/$: Rotate the cannon yaw to the angle specified.$(li)$(#800)setHeightAngle(<angle>)/$: Rotate the cannon pitch to the angle specified.$(li)$(#800)isDoneRotating()/$: Returns true when the cannon is done turning.$(li)$(#800)getMinWorkingPressure()/$: Returns the minimal pressure needed to fire the cannon (the yellow to green threshold in the GUI)."
+      "title": "空氣炮（續表）",
+      "text": "$(li)$(#800)setRotationAngle(<角度>)/$：使空氣加農炮偏轉角旋轉為指定的角度。$(li)$(#800)setHeightAngle(<角度>)/$: 使空氣加農炮將仰角角旋轉為指定的角度。$(li)$(#800)isDoneRotating()/$：當加農炮完成旋轉後，返回 true。$(li)$(#800)getMinWorkingPressure()/$：返回加農炮發射所需要的最小壓力（機器界面中黃色與綠色的分界線）。"
     },
     {
       "type": "text",
-      "title": "Air Cannon (cont.)",
-      "text": "$(li)$(#800)fire()/$: Fires the cannon, provided that there's enough pressure, and when there are items inserted. Returns true if successful."
+      "title": "空氣炮（續表）",
+      "text": "$(li)$(#800)fire()/$：當有足夠的壓力發射並且放置有物品時，發射。成功時返回 true。"
     },
     {
       "type": "spotlight",
       "anchor": "elevator",
       "item": "pneumaticcraft:elevator_base",
-      "title": "Elevator",
-      "text": "$(li)$(#800)setExternalControl(<true/false>)/$: When true, set the Elevator's $(#f00)redstone mode/$ to 'Elevator Caller' mode, which is also applicable for computer control. You don't have to set it prior to calling $(#800)setTargetHeight()/$; that method will change the Elevator to external control automatically."
+      "title": "電梯",
+      "text": "$(li)$(#800)setExternalControl(<true/false>)/$：傳參為 true 時，將會把電梯的$(#f00)紅石模式/$設置為「電梯呼叫器」模式，此時同樣可以被電腦控制。不需要在調用 $(#800)setTargetHeight()/$ 前調用該方法；該方法會自動將電梯調整為電梯呼叫器模式。"
     },
     {
       "type": "text",
-      "title": "Elevator (cont.)",
-      "text": "$(li)$(#800)getMinWorkingPressure()/$: Get the minimal pressure needed to extend the Elevator. Making the Elevator descend is free.$(li)$(#800)setTargetHeight(<height>)/$: Sets the Elevator's target height to the height parsed (in meters/blocks, floating point).$(li)$(#800)getTargetHeight()/$: Get the Elevator's target height (in meters/blocks, floating point).$(li)$(#800)getCurrentHeight()/$: Get the Elevator's current height (in meters/blocks, floating point)."
+      "title": "電梯（續表）",
+      "text": "$(li)$(#800)getMinWorkingPressure()/$：返回使電梯上升的最小壓力（機器界面中內黃色與綠色的分界線）。電梯下降過程不需要壓力。$(li)$(#800)setTargetHeight(<高度>)/$：把電梯的目標高度設為傳入的高度（單位為米/格，浮點數）。$(li)$(#800)getTargetHeight()/$：獲取電梯的目標高度（單位為米/格，浮點數）。$(li)$(#800)getCurrentHeight()/$：獲取電梯的當前高度（單位為米/格，浮點數）。"
     },
     {
       "type": "spotlight",
       "anchor": "plastic_mixer",
       "item": "pneumaticcraft:plastic_mixer",
-      "text": "$(li)$(#800)selectColor(<colorIndex>)/$: sets the currently selected plastic color to the supplied <colorIndex>, ranging from 1-16. Calling $(#800)selectColor(0)/$ unselects any selections."
+      "text": "$(li)$(#800)selectColor(<色彩索引>)/$：設置所選要生產的塑膠顏色設為索引（1-16）指定的顏色。調用 $(#800)selectColor(0)/$ 將取消顏色選擇。"
     },
     {
       "type": "spotlight",
       "anchor": "universal_sensor",
       "item": "pneumaticcraft:universal_sensor",
-      "text": "$(li)$(#800)getSensorNames()/$: Returns a table of all known sensor names.$(li)$(#800)getSensor()/$: Returns the name of the currently-selected sensor."
+      "text": "$(li)$(#800)getSensorNames()/$：以列表的形式返回所有感測器的名稱。$(li)$(#800)getSensor()/$：返回當前選擇的感測器的名稱。"
     },
     {
       "type": "text",
-      "title": "Universal Sensor (cont.)",
-      "text": "$(li)$(#800)setSensor(<sensorName>), setSensor(<index>), setSensor()/$: Sets the current selected sensor. <sensorName> is one of the names returned by $(#800)getSensorNames()/$. <index> is an index on the returned table from $(#800)getSensorNames()/$. When using the no-arg $(#800)setSensor()/$, no sensor will be selected (the machine goes idle and uses no air). Returns true if the sensor is possible with the currently inserted upgrades. "
+      "title": "萬能感測器（續表）",
+      "text": "$(li)$(#800)setSensor(<感測器名稱>), setSensor(<索引>), setSensor()/$：設置當前選擇的感測器。<感測器名稱>應當屬於 $(#800)getSensorNames()/$ 返回的列表。<索引>是 $(#800)getSensorNames()/$ 所返回的列表的索引。調用不傳參的 $(#800)setSensor()/$ 時，沒有感測器被選擇（機器將閒置，不使用空氣）。如果當前安裝的升級允許傳入的感測器，返回 true。 "
     },
     {
       "type": "text",
-      "title": "Universal Sensor (cont.)",
-      "text": "$(li)$(#800)setTextField(<text>)/$: Some sensors use a text field to specify additional options (e.g. the 'Entities in range' sensor accepts an $(l:base_concepts/entity_filter)entity filter string/$). You can specify the desired text in here.$(li)$(#800)getTextField()/$: Returns the text currently stored in the $(thing)Universal Sensor/$."
+      "title": "萬能感測器（續表）",
+      "text": "$(li)$(#800)setTextField(<文本>)/$：有些感測器使用一個文本框指定附加選項（如：「範圍內的實體」感測器接受$(l:base_concepts/entity_filter)實體過濾字串/$）。可以透過此方法指定這一文本參數。$(li)$(#800)getTextField()/$：返回$(thing)萬能感測器/$當前儲存的文本參數。"
     },
     {
       "type": "text",
-      "title": "Universal Sensor (cont.)",
-      "text": "$(li)$(#800)isSensorEventBased()/$: There are two categories of sensors: event-based, and polling sensors. Event based sensors wait for something to happen (player attacks, item pickups). Polling sensors check the state of the sensor periodically (entities in range, world time, rain sensor). This function returns true if the current selected sensor is event-based."
+      "title": "萬能感測器（續表）",
+      "text": "$(li)$(#800)isSensorEventBased()/$：有兩類感測器：基於事件的，以及基於輪詢的。基於時間的感測器會等待到一個時間發生（玩家攻擊，撿起物品）。基於輪詢的感測器隔一段時間檢查一次狀態（範圍內的實體，世界時間，下雨）。如果當前選擇的感測器是基於事件的，返回 true。"
     },
     {
       "type": "text",
-      "title": "Universal Sensor (cont.)",
-      "text": "$(li)$(#800)getSensorValue()/$: If the current sensor is a polling sensor, return the (non-inverted) redstone signal it would output. Note that setting the sensor and immediately getting the output is unreliable, as many polling sensors poll infrequently for performance reasons. Thus, this method causes a pull-event to be triggered; get the output in response to that. If no polling sensor is selected, an exception will be thrown."
+      "title": "萬能感測器（續表）",
+      "text": "$(li)$(#800)getSensorValue()/$：如果目前的感測器是基於輪詢的，返回其（未取反的）紅石輸出。注意：設置感測器後馬上讀取數據並不可靠，因為很多基於輪詢的感測器並不很頻繁地輪詢，以此來提高效能。因此。該方法發起一個拉取事件，並獲取響應該事件的輸出。當未選擇基於輪詢的感測器時，將拋出一個異常。"
     },
     {
       "type": "text",
-      "title": "Universal Sensor (cont.)",
-      "text": "$(li)$(#800)getMinWorkingPressure()/$: Returns the minimal pressure needed to make the Universal Sensor work (the yellow to green threshold in the GUI).$(li)$(#800)setGPSToolCoordinate(<slotIndex>,<x>,<y>,<z>)/$: Sets the location stored in the GPS Tool located in the given slot (starting with 1) to the provided location. This is useful for sensors that use a location."
+      "title": "萬能感測器（續表）",
+      "text": "$(li)$(#800)getMinWorkingPressure()/$：返回萬能感測器工作需要的最小壓力（機器界面中黃色與綠色的分界線）。$(li)$(#800)setGPSToolCoordinate(<槽位索引>,<x>,<y>,<z>)/$:把<槽位索引>（從 1 開始）處對應的定位工具儲存的坐標設為提供的坐標。對於需要一個坐標的感測器這很有用。"
     },
     {
       "type": "text",
-      "title": "Universal Sensor (cont.)",
-      "text": "For event based sensors (e.g. the player right click sensor), getting the sensor value is event-based. You get the event by doing a $(#800)<arguments> = os.pullEvent(\"universalSensor\")/$. Usually the arguments consist of <eventName, redstoneStrength>. The player right click sensor is an exception, as <eventName, redstoneStrength, interactedX, interactedY, interactedZ> is returned. This allows for some interesting uses..."
+      "title": "萬能感測器（續表）",
+      "text": "對於基於事件的感測器（如：玩家右擊感測器），需要基於事件獲取感測器的值。使用 $(#800)<返回值> = os.PullEvent(\"universalSensor\")/$ 獲取事件。一般而言，返回值包括 <eventName, redstoneStrength>。玩家右擊感測器是一個例外：其返回 <eventName, redstoneStrength, interactedX, interactedY, interactedZ>。這允許一些有趣的用法..."
     }
   ]
 }
