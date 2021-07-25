@@ -1,19 +1,19 @@
 {
-  "name": "Emit Redstone Widget",
+  "name": "發出紅石信號",
   "icon": "pneumaticcraft:textures/items/progwidgets/emit_redstone_piece.png",
   "category": "widget_interact",
   "advancement": "pneumaticcraft:programmer",
   "pages": [
     {
       "type": "text",
-      "text": "With this widget you can make a $(l:tools/drone)Drone/$ emit a $(#f00)redstone signal/$. You can specify the sides it emits from by $(thing)right-clicking/$ the widget and configuring in the setup GUI. The redstone signal level to emit is specified by attaching a $(l:programming/text)Text/$ widget with a number in it (from 0 - 15)."
+      "text": "該拼圖將會使$(l:tools/drone)無人機/$發出$(#f00)紅石信號/$。可以$(thing)右擊/$該拼圖調出設定介面，其中可以設定器所充能的朝向。紅石信號強度通過連接的帶有數位（0-15）的$(l:programming/text)文字/$拼圖指定。"
     },
     {
       "type": "image",
       "images": [
         "pneumaticcraft:textures/items/progwidgets/emit_redstone_piece.png"
       ],
-      "text": "$(italic)Emit Redstone Widget/$"
+      "text": "$(italic)發出紅石信號/$"
     }
   ]
 }
