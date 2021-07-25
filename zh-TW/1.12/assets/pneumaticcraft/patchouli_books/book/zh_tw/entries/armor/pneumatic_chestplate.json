@@ -1,67 +1,67 @@
 {
-  "name": "Pneumatic Chestplate",
+  "name": "氣動胸甲",
   "icon": "pneumaticcraft:pneumatic_chestplate",
   "category": "armor",
   "advancement": "pneumaticcraft:printed_circuit_board",
   "pages": [
     {
       "type": "text",
-      "text": "The $(item)Pneumatic Chestplate/$ is one of the four $(thing)Pneumatic Armor/$ pieces.$(p)It has a larger $(base_concepts/pressure)air volume/$ than the other three pieces."
+      "text": "$(item)氣動胸甲/$是四件$(thing)氣動盔甲/$中的一件。$(p)相較於其餘三件，其具有更大的$(base_concepts/pressure)空氣容量/$。"
     },
     {
       "type": "crafting",
       "recipe": "pneumaticcraft:pneumatic_chestplate",
-      "text": "Creating a Pneumatic Chestplate"
+      "text": "氣動胸甲的合成表"
     },
     {
       "type": "spotlight",
       "item": "pneumaticcraft:security_upgrade",
-      "text": "With a $(l:base_concepts/upgrades#security)Security Upgrade/$ installed, the chestplate grants you protection from fire and lava, at a significant air cost: air is rapidly dumped from the chestplate to extinguish nearby flames and keep you cool.  It will even slowly solidify nearby lava."
+      "text": "安裝$(l:base_concepts/upgrades#security)安全升級/$後，氣動護甲提供對火和熔岩傷害的保護，但這將消耗大量空氣：空氣將被迅速泵出以撲滅火焰並保持冷卻。附近的岩漿甚至會緩慢凝固。"
     },
     {
       "type": "spotlight",
       "flag": "mod:immersiveengineering",
-      "title": "Immersive Engineering",
+      "title": "沉浸工程",
       "item": "immersiveengineering:wirecoil",
-      "text": "The $(item)Security Upgrade/$ will also provide protection from uninsulated $(l:https://minecraft.curseforge.com/projects/immersive-engineering)Immersive Engineering/$ wiring; you will not be injured by electric shocks from such wires, but this does cost air from the chestplate, proportional to the damage negated. This doesn't prevent any knockbacks."
+      "text": "$(item)安全升級/$同時提供對$(l:https://www.curseforge.com/minecraft/mc-mods/immersive-engineering)沉浸工程/$的未絕緣導線的防護；玩家將對這些導線造成的傷害免疫，但這需要消耗空氣，耗量正比於所造成的傷害。然而，安全升級並不防止所造成的擊退。"
     },
     {
       "type": "spotlight",
       "item": "pneumaticcraft:magnet_upgrade",
-      "text": "With one or more $(l:base_concepts/upgrades#magnet)Magnet Upgrades/$ installed, nearby items and XP orbs will be attracted to you for a very small air cost.  The base range is 5 blocks, but this can be increased up to 10 blocks by adding extra upgrades."
+      "text": "安裝一個或多個$(l:base_concepts/upgrades#magnet)磁鐵升級/$後，附近的物品和經驗球將被吸引，同時消耗少量空氣。基礎吸引範圍為 5 格，但可以通過安裝更多升級提升至最大 10 格。"
     },
     {
       "type": "text",
-      "title": "Magnet Upgrade (cont.)",
-      "text": "The Magnet Upgrade respects Botania's $(item)Solegnolia/$ flower, and will also not attempt to pull items from Immersive Engineering $(item)conveyor belts/$."
+      "title": "磁鐵升級（續）",
+      "text": "磁鐵升級的效應受植物魔法的$(item)弱磁蘭/$影響，並不會試圖從沉浸工程的$(item)傳送帶/$上取走物品。"
     },
     {
       "type": "spotlight",
       "item": "pneumaticcraft:charging_upgrade",
-      "text": "With one or more $(l:base_concepts/upgrades#charging)Charging Upgrades/$ installed, the chestplate gains the ability to pressurize any other pneumatic item in your inventory, both worn and carried.  The chestplate will only charge items up to its own pressure level.  Adding extra Charging Upgrades (up to 6) increases the charging rate."
+      "text": "安裝一個或多個$(l:base_concepts/upgrades#charging)充氣升級/$後，氣動胸甲可以對物品欄中（包括盔甲欄）的物品充氣。更多的充氣升級提升充氣速率。"
     },
     {
       "type": "spotlight",
       "item": "pneumaticcraft:dispenser_upgrade",
-      "text": "A $(l:base_concepts/upgrades#dispenser)Dispenser Upgrade/$ allows items/blocks to be launched from your offhand slot by pressing & releasing $(thing)$(k:pneumaticcraft.chestplate.launcher)/$, similar to an $(l:machines/air_cannon)Air Cannon/$. It takes 15 ticks (0.75 seconds) to fully charge the launcher; releasing the key sooner will launch at reduced velocity."
+      "text": "安裝$(l:base_concepts/upgrades#dispenser)發射器升級/$後，長按 $(thing)$(k:pneumaticcraft.chestplate.launcher)/$ 鍵可以將非慣用手上的物品發射，類似於使用$(l:machines/air_cannon)空氣炮/$。發射器充能需要 15 刻（0.75 秒）；提前釋放發射鍵將減低發射速度。"
     },
     {
       "type": "text",
-      "title": "Dispenser Upgrade (cont.)",
-      "text": "$(li)Some blocks have special $(item)Dispenser/$-like behaviour, such as $(item)TNT/$, or $(item)Arrows/$...$(li)Other blocks (like $(item)Torches/$) will be fired as 'tumbling' blocks which reform as blocks when they hit something.$(li)Other items will simply be fired as item entities."
+      "title": "發射器升級（續）",
+      "text": "$(li)部分物品與方塊在發射時具有$(item)發射器/$式的特殊行為，例如 $(item)TNT/ 和$(item)箭/$。$(li)其餘方塊（如$(item)火把/$)將以「旋轉」著的方塊的樣式發射，並在擊中點還原為方塊。$(li)其餘物品僅以物品實體的形式發射。"
     },
     {
       "type": "spotlight",
       "item": "pneumaticcraft:air_conditioning_upgrade",
       "flag": "mod:toughasnails",
-      "title": "A/C Upgrade",
-      "text": "With up to four $(l:base_concepts/upgrades#air_conditioning)Air Conditioning Upgrades/$ installed, you will gain some protection from environmental temperature extremes added by the $(l:https://minecraft.curseforge.com/projects/tough-as-nails)Tough As Nails/$ mod. Air Conditioning will automatically engage if it detects that your body temperature is higher or lower than normal, and disengage when equilibrium has been restored."
+      "title": "空調升級",
+      "text": "安裝最多 4 個$(l:base_concepts/upgrades#air_conditioning)空調升級/$後，將獲得對於在$(l:https://www.curseforge.com/minecraft/mc-mods/tough-as-nails)意志堅定/$模組下的極端溫度的保護。空調功能在體溫偏離正常值時自動啟動，在體溫恢復正常值時自動關閉。"
     },
     {
       "type": "text",
       "flag": "mod:toughasnails",
-      "title": "A/C Upgrade (cont.)",
-      "text": "This does come at a moderate pressure cost, however, which is dependent on the level of heating or cooling required and the number of upgrades installed. Depending on the environment you're working in, you may not need the full four upgrades to remain comfortable."
+      "title": "空調升級（續）",
+      "text": "然而，這一功能具有中等的空氣消耗，取決於溫度調節的幅度與安裝的升級數目。根據工作環境的不同，有時並不需要所有 4 個升級就可維持正常。"
     }
   ]
 }
