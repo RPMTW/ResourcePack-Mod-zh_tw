@@ -1,19 +1,19 @@
 {
-  "name": "Right Click Entity Widget",
+  "name": "右擊實體",
   "icon": "pneumaticcraft:textures/items/progwidgets/entity_right_click_piece.png",
   "category": "widget_interact",
   "advancement": "pneumaticcraft:programmer",
   "pages": [
     {
       "type": "text",
-      "text": "The $(l:tools/drone)Drone/$ will $(thing)right-click/$ the item in its first inventory slot, for every entity in the specified $(l:programming/area)Area/$, once. This could be used to shear sheep, milk cows, breed animals, and much more!"
+      "text": "$(l:tools/drone)無人機/$將會使用其物品欄第一個欄位的物品$(thing)右擊/$給定$(l:programming/area)區域/$的每個實體各一次。這可以用於剪羊毛，取得牛奶，餵養動物等。"
     },
     {
       "type": "image",
       "images": [
         "pneumaticcraft:textures/items/progwidgets/entity_right_click_piece.png"
       ],
-      "text": "$(italic)Right-click Entity Widget/$"
+      "text": "$(italic)右擊實體/$"
     }
   ]
 }
