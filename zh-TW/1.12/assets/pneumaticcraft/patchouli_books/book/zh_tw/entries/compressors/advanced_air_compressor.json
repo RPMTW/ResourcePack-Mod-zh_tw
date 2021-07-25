@@ -1,16 +1,16 @@
 {
-  "name": "Advanced Air Compressor",
+  "name": "高級空氣壓縮機",
   "icon": "pneumaticcraft:advanced_air_compressor",
   "category": "compressors",
   "advancement": "pneumaticcraft:advanced_pressure_tube",
   "pages": [
     {
       "type": "text",
-      "text": "The $(item)Advanced Air Compressor/$ is the $(l:base_concepts/pressure_tiers)tier 2/$ version of the $(l:compressors/air_compressor)Air Compressor/$, with a maximum safe pressure of 20 bar. It generates a $(ttcolor)$(t:This can be increased by installing Speed Upgrades)base/$ 50mL air/tick, and can be upgraded with $(l:base_concepts/upgrades#speed)Speed Upgrades/$.$(p)However, this generator must be $(l:base_concepts/heat)cooled/$, as its efficiency will drop as the temperature rises, up to the point where no air is generated at all."
+      "text": "$(item)高級空氣壓縮機/$是$(l:compressors/air_compressor)空氣壓縮機/$的$(l:base_concepts/pressure_tiers)二級/$版本，最大安全壓力為 20 bar。其$(ttcolor)$(t:這可以透過安裝速度升級來增加)基礎/$空氣產率為 50mL/t，可以通過$(l:base_concepts/upgrades#speed)速度升級/$以升級。$(p)然而，該壓縮機必須被$(l:base_concepts/heat)冷卻/$，因為其效率隨著溫度的增高而降低，直到不產生任何空氣。"
     },
     {
       "type": "crafting",
-      "text": "Creating an $(item)Advanced Air Compressor/$",
+      "text": "$(item)高級空氣壓縮機/$的合成表",
       "recipe": "pneumaticcraft:advanced_air_compressor"
     }
   ]
