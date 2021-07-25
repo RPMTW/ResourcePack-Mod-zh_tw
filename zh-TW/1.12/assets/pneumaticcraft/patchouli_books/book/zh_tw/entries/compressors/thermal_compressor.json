@@ -1,12 +1,12 @@
 {
-  "name": "Thermal Compressor",
+  "name": "熱力壓縮機",
   "icon": "pneumaticcraft:thermal_compressor",
   "category": "compressors",
   "advancement": "pneumaticcraft:pressure_tube",
   "pages": [
     {
       "type": "text",
-      "text": "The $(item)Thermal Compressor/$ is a simple compressor which uses the $(l:base_concepts/heat)temperature/$ differential on opposite (horizontal) sides to produce $(l:base_concepts/pressure)compressed air/$. The greater the temperature gradient, the more air that is produced.$(p)Note: trying to run this compressor purely from a $(l:machines/vortex_tube)Vortex Tube/$ won't work; you will get a net pressure loss."
+      "text": "$(item)熱力壓縮機/$是一台簡單的使用（水平）對面$(l:base_concepts/heat)溫度/$差生成$(l:base_concepts/pressure)壓縮空氣/$的機器。溫度梯度更高，產生的空氣越多。$(p)註：試圖依靠$(l:machines/vortex_tube)渦流管/$產生溫差以使該機器運轉不會奏效；整個系統的壓力會不斷損失。"
     },
     {
       "type": "image",
@@ -14,35 +14,35 @@
         "pneumaticcraft:textures/patchouli/thermal_compressor.png"
       ],
       "border": "true",
-      "text": "$(italic)A Thermal Compressor using Lava and Packed Ice to provide a temperature gradient/$"
+      "text": "$(italic)一台熱力壓縮機，使用熔岩與冰磚提供溫差/$"
     },
     {
       "type": "text",
-      "text": "The $(item)Thermal Compressor's/$ North-South and East-West faces are thermally connected to another, but there's no cross-connection between N-S or E-W, so you can have two independent temperature gradients on one compressor.$(p)Heat will equalize across the connections, so some effort will be required to maintain a useful temperature differential."
+      "text": "$(item)熱力壓縮機/$的南-北面與東-西面各自具有熱連接，但這兩組面之間沒有熱連接，也就是說，一台壓縮機可以有兩組獨立的溫度梯度。$(p)熱量將會在熱連接間試圖平衡，因此需要花些時間維持足夠的溫差。"
     },
     {
       "type": "text",
-      "title": "Applications",
-      "text": "There are three primary situations where the $(item)Thermal Compressor/$ may be of use:$(li)To utilise waste heat (or cold!) from $(italic)one/$ side of a $(item)Vortex Tube/$. Normally you will only be using the hot or cold side of a Vortex Tube, and venting the other side via a $(l:machines/heat_sink)Heat Sink/$. However, the $(item)Thermal Compressor/$ offers the opportunity to reclaim some of this waste heat or cold as air pressure."
+      "title": "應用",
+      "text": "$(item)熱力壓縮機/$在下列三種情況下可能被利用：$(li)用以利用$(item)渦流管/$的$(italic)一/$側釋放出的廢熱（或者說廢冷）。一般而言，渦流管只會有一側被實際使用，另一側則被使用$(l:machines/heat_sink)散熱片/$散熱。然而，$(item)熱力壓縮機/$提供了重新利用其中一部分能源以產生壓力的途徑。"
     },
     {
       "type": "text",
-      "title": "Applications (cont.)",
-      "text": "$(li)To utilise the waste heat from advanced compressors such as the $(l:compressors/advanced_air_compressor)Advanced Air Compressor/$. Normally you would dump this heat into the atmosphere using one or more $(l:tools/heat_sink)Heat Sinks/$, but with the Thermal Compressor, it's also possible to reclaim some of this waste heat as pressure."
+      "title": "應用（續）",
+      "text": "$(li)用以利用由高級壓縮機散發的廢熱，例如$(l:compressors/advanced_air_compressor)高級空氣壓縮機/$。一般而言這一部分熱量會通過一個或多個$(l:tools/heat_sink)散熱片/$被散發掉。然而，透過熱力壓縮機同樣可以重新利用其中一部分能源以產生壓力。"
     },
     {
       "type": "text",
-      "title": "Applications (cont.)",
-      "text": "$(li)If you have the means to obtain large quantities of naturally hot or cold substances, e.g. $(l:base_concepts/heat_sources)lava, or blocks from other mods/$, you may be able to use them to generate some pressure. You will likely also need to be able to automate the placement and removal of heat sources and spent sources; $(l:tools/drone)Drones/$ can do this, as can many other modded solutions."
+      "title": "應用（續）",
+      "text": "$(li)如果由辦法取得大量熱或冷的物質，例如，$(l:base_concepts/heat_sources)熔岩，或者其餘模組加入的方塊/$，也許可以使用這些物質產生壓力。有可能需要自動化熱源的放置與耗盡熱源的移除；$(l:tools/drone)無人機/$可以做到這一點，也可以使用其餘模組做到這一點。"
     },
     {
       "type": "text",
-      "title": "Redstone Control",
-      "text": "This compressor can be controlled by a $(#f00)redstone signal/$; if disabled, pressure generation stops, and the thermal resistance between the North-South and East-West faces greatly increases (a little heat will still leak across, but far less than when the compressor is running). This can be useful to store up energy as a heat differential when pressure is not needed, e.g. when your tube network is fully pressurized."
+      "title": "紅石控制",
+      "text": "該壓縮機可以被$(#f00)紅石信號/$控制；被關閉時，壓力生成停止，南-北面與東-西面的熱阻抗將顯著提升（仍然會由小部分熱量洩漏，但比壓縮機在工作時小得多）。這可以用於在不需要壓力時將能量以溫差形式儲存，例如，當你的氣動網路已經飽食時。"
     },
     {
       "type": "crafting",
-      "text": "Creating a $(item)Thermal Compressor/$",
+      "text": "$(item)熱力壓縮機/$的合成表",
       "recipe": "pneumaticcraft:thermal_compressor"
     }
   ]
