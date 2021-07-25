@@ -1,16 +1,16 @@
 {
-  "name": "Puzzle Pieces",
+  "name": "編程拼圖",
   "icon": "pneumaticcraft:textures/items/progwidgets/start_piece.png",
   "category": "programming",
   "advancement": "pneumaticcraft:programmer",
   "pages": [
     {
       "type": "text",
-      "text": "$(thing)Programming Puzzles/$, or $(thing)Puzzle Pieces/$, are the physical items used to program a $(l:tools/drone)Drone/$ with a $(l:programming/programmer)Programmer/$. They're used up when a Drone is programmed, but can be retrieved by overwriting the $(item)Drone/$ with a smaller (or empty) program.$(p)The virtual representations of $(thing)Puzzle Pieces/$ in the $(item)Programmer/$ GUI are referred to as $(thing)Programming Widgets/$."
+      "text": "$(thing)編程拼圖/$是在$(l:programming/programmer)編程器/$中用於編程$(item)無人機/$的物品。其在編程無人機時被消耗，但可以在用較小（或空）程序重寫$(item)無人機/$時被返還。$(p)在$(item)編程器/$介面中可視化的$(thing)編程拼圖/$與使用的$(thing)編程拼圖/$相匹配。"
     },
     {
       "type": "text",
-      "text": "To write a program to a $(l:tools/drone)Drone/$, you must either have the $(thing)Puzzle Pieces/$ in your inventory, or place them in an inventory adjacent to the $(item)Programmer/$ (on any side).$(p)If you're in Creative Mode, then programming is completely free: no pieces required."
+      "text": "要向$(l:tools/drone)無人機/$寫入程序，$(thing)編程拼圖/$需要要嘛在物品欄中，要嘛在與$(item)編程器/$相鄰（任義大利麵）的容器中。$(p)在創造模式下，整個程序都是免費的：不需要編程拼圖。"
     },
     {
       "type": "crafting",
