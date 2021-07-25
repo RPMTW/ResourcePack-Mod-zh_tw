@@ -1,43 +1,43 @@
 {
-  "name": "Micromissiles",
+  "name": "微型導彈",
   "icon": "pneumaticcraft:micromissiles",
   "category": "\n-工具",
   "advancement": "pneumaticcraft:printed_circuit_board",
   "pages": [
     {
       "type": "text",
-      "text": "$(item)Micromissiles/$ are small hand-launched missiles with an explosive payload and smart mob targeting. To fire a $(item)Micromissile/$, simply $(thing)right-click/$ the missile pod. Each pod has 100 missiles by default.$(p)Micromissiles seek targets within a 24-block spherical radius, centered on the missile. Once a suitable target is found, the missile will turn toward that target."
+      "text": "$(item)微型導彈/$為小型手持導彈，具有爆炸性彈頭與智慧目標追蹤功能。要發射$(item)微型導彈/$，只需使用導彈筒$(thing)右擊/$。預設情況下，每個導彈筒裝載有 100 枚導彈。$(p)微型導彈在自身 24 格範圍內（球形範圍）尋找目標。找到可行目標後，導彈將指向該目標。"
     },
     {
       "type": "entity",
       "entity": "pneumaticcraft:micromissile",
       "offset": "-0.3",
-      "text": "$(italic)Small but lethal/$"
+      "text": "$(italic)小，但致命/$"
     },
     {
       "type": "text",
-      "text": "$(item)Micromissiles/$ will never target the player who fired the missile or any entity (pets, drones...) belonging to that player. But beware of collateral damage from nearby explosions: not recommended for close quarters combat!$(p)$(item)Micromissiles/$ can target living entities, minecarts & boats, but will not target item entities or other non-living entities such as paintings."
+      "text": "$(item)微型導彈/$不會以發射者與屬於發射者的實體（如其寵物和無人機）為目標。但需要注意近旁爆炸導致的連帶傷害：並不建議將微型導彈用於近戰！$(p)$(item)微型導彈/$的目標可以為生物、礦車和船，但部位物品實體和船等非生物實體。"
     },
     {
       "type": "text",
-      "text": "If a $(item)Micromissile/$ hits any entity or block, it will immediately explode. The explosion will not damage terrain $(ttcolor)$(t:See 'B:damageTerrain' in mod config)by default/$.$(p)$(item)Micromissiles/$ have a limited lifetime, which is 300 ticks (15 seconds) $(ttcolor)$(t:See 'I:missileLifetime' in mod config)by default/$. After that the missile will run out of fuel and drop from the sky, but it will still explode when it hits the ground."
+      "text": "若$(item)微型導彈/$擊中實體或方塊，其將立刻爆炸。$(ttcolor)$(t:見設定檔案中的 'B:damageTerrain')預設情況下/$，爆炸並不破壞地形。$(p)$(item)微型導彈/$具有一定的執行時長。$(ttcolor)$(t:見設定檔案中的 'I:missileLifetime')預設情況下/$，該值為 300 刻（15 秒）。此後，導彈將耗盡燃料並下落，但在觸及地面時仍會爆炸。"
     },
     {
       "type": "text",
-      "text": "If you aim directly at a suitable entity when firing, the fired $(item)Micromissile/$ will immediately lock on to that entity, regardless of what else is nearer.$(p)If you $(thing)sneak+right-click/$ the missile pod, a GUI will open allowing configuration of several missile properties:$(li)The selection triangle allows you to balance between top speed, turn rate and explosion power."
+      "text": "若開火時指向可行的實體，發射出的$(item)微型導彈/$將立刻鎖定該實體，無論附近是否有更僅的實體。$(p)使用導彈筒$(thing)潛行右擊/$將打開設定介面，以便設定下列導彈屬性：$(li)三角選擇框處可以調節最高速度、轉向速率和爆炸威力的平衡。"
     },
     {
       "type": "text",
-      "text": "$(li)You can select between $(thing)Smart/$ and $(thing)Dumb/$ mode: in $(thing)Smart/$ mode, missiles will lock on to targets as described above, while in $(thing)Dumb/$ mode, missiles will simply fly in a straight line until they hit something, but with good speed and damage capability.$(li)You can filter which entities to attack by entering an $(l:base_concepts/entity_filter)entity filter/$ in the $(bold)Entity Filter/$ field."
+      "text": "$(li)可以在$(thing)智慧/$模式和$(thing)定向/$模式間切換：在$(thing)智慧/$模式下，導彈的行為如上述；在$(thing)定向/$模式下，導彈將沿直線飛行，但將具有更高的速度與傷害。$(li)可以在$(bold)實體過濾/$處填寫$(l:base_concepts/entity_filter)實體過濾器/$以指定可行目標。"
     },
     {
       "type": "text",
-      "text": "$(li)The $(bold)Save as Default/$ button causes the current settings to be saved and used for all newly-crafted missile pods. Note: settings are saved server-side."
+      "text": "$(li)按下$(bold)保存為預設值/$按鈕後，目前設定將被保存，並應用於所有新合成的微型導彈。註：預設設定被儲存在伺服器。"
     },
     {
       "type": "crafting",
       "recipe": "pneumaticcraft:micromissiles",
-      "text": "Creating Micromissiles"
+      "text": "微型導彈的合成表"
     }
   ]
 }
