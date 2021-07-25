@@ -1,19 +1,19 @@
 {
-  "name": "Import RF Widget",
+  "name": "輸入 RF 拼圖",
   "icon": "pneumaticcraft:textures/items/progwidgets/rf_import_piece.png",
   "category": "widget_interact",
   "advancement": "pneumaticcraft:programmer",
   "pages": [
     {
       "type": "text",
-      "text": "$(l:tools/drone)Drones/$ have an internal buffer of 100,000 FE (Forge Energy).  Using this widget, you can import energy from an energy-providing block (e.g. a $((item)Thermal Expansion Energy Cell/$ or $(item)Immersive Engineering Capacitor/$) to the drone's internal storage.$(p)$(italic)Despite its name, this widget imports FE (Forge Energy), not RF (Redstone Flux). The name is historical./$"
+      "text": "$(l:tools/drone)無人機/$具有 100000FE 的內部能量儲存。該拼圖將能量從支持能量的方塊（例如：$(item)熱力膨脹的能量單元/$或$(item)沉浸工程的電容器/$）輸入到無人機的內部能量儲存。$(p)$(italic)與其名字不同，該拼圖檢查FE能量，而非RF（紅石通量）。該拼圖的命名屬於歷史遺留問題。/$"
     },
     {
       "type": "image",
       "images": [
         "pneumaticcraft:textures/items/progwidgets/rf_import_piece.png"
       ],
-      "text": "$(italic)I've got the power/$"
+      "text": "$(italic)我有了能量/$"
     }
   ]
 }
