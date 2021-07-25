@@ -1,34 +1,34 @@
 {
-  "name": "Programmable Controller",
+  "name": "可編程控制器",
   "icon": "pneumaticcraft:programmable_controller",
   "category": "programming",
   "advancement": "pneumaticcraft:programmer",
   "pages": [
     {
       "type": "text",
-      "text": "A Programmable Controller can do very similar things to what $(l:tools/drone)Drones/$ can do. A program can be written in a $(l:programming/programmer)Programmer/$, and saved to either a $(item)Drone/$ or $(l:components/network_components#network_api)Network API/$. Either of these items can then be placed in the $(item)Programmable Controller/$. Provided that there is enough $(l:base_concepts/pressure)pressure/$, the $(item)Programmable Controller/$ will execute the program just as it would when programmed onto a $(item)Drone/$. "
+      "text": "可編程控制器可以做的事情與$(l:tools/drone)無人機/$很相近。程序可以在$(l:programming/programmer)編程器/$中被寫入$(item)無人機/$或$(l:components/network_components#network_api)網路 API/$中。這兩個物品都可以被放入$(item)可編程控制器/$中。在有足夠$(l:base_concepts/pressure)壓力/$的情況下，$(item)可編程控制器/$將像其中程序被編入一個真的被放置的$(item)無人機/$一樣執行其中程序。"
     },
     {
       "type": "text",
-      "text": "There are a few differences, though:$(li)A $(item)Programmable Controller/$ uses a miniature version of a $(item)Drone/$ - a $(thing)minidrone/$. It's not a real entity, so no pathfinding is involved, and the $(thing)minidrone/$ can move through walls. This has the benefit of being more friendly to the server and more reliable in general.$(li)When executing a program, the $(item)Programmable Controller/$ will use air at a rate of 10mL/tick (whereas Drones only use 1mL/tick)."
+      "text": "其與無人機還是有一定不同：$(li)$(item)可編程控制器/$使用縮小的$(item)無人機/$：$(thing)小型無人機/$。其並非實體，所有不涉及尋路算法，且這一$(thing)小型無人機/$可以穿牆移動。這有一d定好處：對伺服器更加友好，使用時更加可靠。$(li)執行程序時，$(item)可編程控制器/$消耗空氣的速率為 10mL/t（而無人機的消耗速率為 1mL/t）。"
     },
     {
       "type": "text",
-      "text": "$(li)The $(item)Programmable Controller/$ cannot execute the following widgets: Computer Piece, Entity Attack, Drone Condition: Entity, Entity Export, Entity Import, Teleport, Standby, Suicide.$(p)The $(item)Programmable Controller/$ is generally best suited to larger applications, such as excavating big areas or building large structures."
+      "text": "$(li)$(item)可編程控制器/$無法執行下列拼圖：電腦控制，攻擊實體，無人機條件：實體，搭載實體，卸載實體，傳送，待機，自毀。$(p)一般而言，$(item)可編程控制器/$適合於大規模的應用，如開掘大片區域或建造大型結構。"
     },
     {
       "type": "text",
-      "title": "Interfacing Items/Fluids",
-      "text": "Any items or fluids that the $(thing)minidrone/$ collects can be interfaced via the sides of the $(item)Programmable Controller/$ block.$(p)By default, the 'drone' has a single inventory slot, and a 16000mB tank. The inventory size can be increased by adding $(l:base_concepts/upgrades#dispenser)Dispenser Upgrades/$ (max 35), which also increases the tank size by 1000mB per upgrade."
+      "title": "傳輸物品/流體",
+      "text": "任何$(thing)小型無人機/$收集到的物品/流體可以通過$(item)可編程控制器/$方塊的各個面傳輸。$(p)預設情況下，$(thing)小型無人機/$的物品欄只有一個欄位，內部流體儲存只有 16000mB。這一容量可以通過$(l:base_concepts/upgrades#dispenser)發射器升級/$（最多 35 個）；每個升級同時將內部流體儲存提升 1000mB。"
     },
     {
       "type": "text",
-      "title": "Interfacing (cont.)",
-      "text": "By default, the top & side faces of the $(item)Programmable Controller/$ can be used to interface with items, and the bottom face can be used to insert or remove programmable items, but this can be adjusted if desired via the $(bold)Side Configuration/$ GUI tab.$(p)All faces of the $(item)Programmable Controller/$ can always be used to interface fluids."
+      "title": "傳輸物品/流體（續",
+      "text": "預設情況下，$(item)可編程控制器/$的頂面和側面可以用於傳輸物品，地面可以用於輸入或輸出可編程的物品，但這一設定可以在$(bold)朝向設定/$標籤頁裡調整。$(p)$(item)可編程控制器的每個面都可以用於傳輸流體。"
     },
     {
       "type": "crafting",
-      "text": "Creating a Programmable Controller",
+      "text": "可編程控制器的合成表",
       "recipe": "pneumaticcraft:programmable_controller"
     }
   ]
