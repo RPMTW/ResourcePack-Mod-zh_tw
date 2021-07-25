@@ -1,0 +1,55 @@
+{
+  "name": "盔甲總覽",
+  "icon": "minecraft:written_book",
+  "category": "armor",
+  "priority": "是",
+  "advancement": "pneumaticcraft:printed_circuit_board",
+  "pages": [
+    {
+      "type": "text",
+      "text": "如果將$(pncr)與$(thing)鋼鐵人/$的懸浮介面結合會產生什麼？$(thing)氣動盔甲/$！$(p)儘管這一盔甲來源於東尼·史塔克的故事，其談不上什麼不可攻克：初始狀況下，其防護值僅略高於等價的$(thing)鐵質盔甲/$。"
+    },
+    {
+      "type": "image",
+      "images": [
+        "pneumaticcraft:textures/patchouli/pneumatic_armor.png"
+      ],
+      "border": "true",
+      "text": "壓縮鋼鐵人"
+    },
+    {
+      "type": "text",
+      "text": "儘管如此，該盔甲的具有高度可升級性。要對其安裝升級（並充氣），將其放入$(l:machines/charging_station)充氣站/$中。$(p)下列幾頁是對於所有盔甲部件通用的升級。各個部件特有的升級在各部件的頁面中。"
+    },
+    {
+      "type": "text",
+      "text": "穿戴盔甲時，盔甲將耗費數秒的時間$(thing)啟動/$。可以按下 $(thing)$(k:pneumaticcraft.armor.options)/$ 鍵打開設定介面，在此可以設定安裝的升級並調節懸浮窗口。安裝更多升級後，介面中會出現更多選項。$(p)值得注意的是，所有升級都可以在設定介面通過複選框開關，甚至可以將開關操作進行鍵位綁定，以便在未打開介面時開關。"
+    },
+    {
+      "type": "spotlight",
+      "item": "pneumaticcraft:speed_upgrade",
+      "text": "$(l:base_concepts/upgrades#speed)速度升級/$降低每件盔甲的啟動時間。此外，安裝在$(l:armor/pneumatic_helmet)氣動頭盔/$時，降低其執行$(l:base_concepts/upgrades#entity_tracker)實體追蹤/$和$(l:base_concepts/upgrades#block_tracker)方塊追蹤/$任務的鎖定時間；安裝在$(l:armor/pneumatic_leggings)氣動護腿/$時，提升疾走的速率，但要$(l:base_concepts/pressure)消耗空氣/$。"
+    },
+    {
+      "type": "spotlight",
+      "item": "pneumaticcraft:volume_upgrade",
+      "text": "$(l:base_concepts/upgrades#volume)容量升級/$提升每件盔甲的$(l:base_concepts/pressure)空氣容量/$；這會使其充氣時間更長，同時壓力隨使用的衰減降低。對該升級數目的實際限制僅有升級欄位的數量。"
+    },
+    {
+      "type": "spotlight",
+      "item": "pneumaticcraft:armor_upgrade",
+      "text": "$(l:base_concepts/upgrades#armor)護甲升級/$提升每件盔甲的防禦點數和盔甲強度。安裝 2 個升級後，每件盔甲的防護能力等價於對應的$(thing)鑽石盔甲/$。安裝最大 6 個升級後，這一防護能力就優於$(thing)鑽石盔甲/$。"
+    },
+    {
+      "type": "spotlight",
+      "item": "pneumaticcraft:item_life_upgrade",
+      "text": "$(l:base_concepts/upgrades#item_life)物品壽命升級/$緩慢地修復每件盔甲，同時消耗$(base_concepts/pressure)空氣/$。最多可安裝 6 個升級，從而提供顯著更快（但以空氣計效率更低）的修復。"
+    },
+    {
+      "type": "text",
+      "title": "神秘時代",
+      "flag": "mod:thaumcraft",
+      "text": "$(l:base_concepts/upgrades#thaumcraft)神秘時代升級/$向每件盔甲提供等價於對應的$(thing)神秘使套裝/$的 Vis 減免。此外，安裝了神秘時代升級的$(l:armor/pneumatic_helmet)頭盔/$執行$(item)揭示之護目鏡/$的功能：顯示$(thing)靈氣節點/$於容器中的$(thing)要素/$量。"
+    }
+  ]
+}

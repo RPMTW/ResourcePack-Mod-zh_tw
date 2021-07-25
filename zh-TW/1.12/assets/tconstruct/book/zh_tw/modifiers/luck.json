@@ -1,0 +1,25 @@
+{
+  "modifier": "luck",
+  "text": [
+    {
+      "text": "據說在工具上面包裹上青金石會帶來好運？"
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "必須在遠程武器的彈藥上。"
+    }
+  ],
+  "effects": [
+    "增加幸運或者掠奪屬性",
+    "工具能擁有幸運或者掠奪屬性",
+    "使用多個青金石只會消耗一個強化槽",
+    "不能和絲綢之觸相容"
+  ],
+  "demoTool": [
+    "tconstruct:pickaxe",
+    "tconstruct:broadsword",
+    "tconstruct:arrow"
+  ]
+}

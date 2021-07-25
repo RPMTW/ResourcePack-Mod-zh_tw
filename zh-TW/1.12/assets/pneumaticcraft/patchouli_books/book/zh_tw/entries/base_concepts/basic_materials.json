@@ -1,0 +1,38 @@
+{
+    "name": "基本材料",
+    "icon": "pneumaticcraft:ingot_iron_compressed",
+    "category": "base_concepts",
+    "pages": [
+        {
+            "type": "text",
+            "text": "$(pncr)並不生成任何額外的礦物。要開始發展，你只需要$(item)鐵錠/$，並將其轉化為在整個模組中大量使用的$(item)壓縮鐵錠$()。$(p)要完成該轉化，將$(item)鐵錠/$投擲出來，並在附近引起爆炸。$(item)TNT/$ 可以做到這一點，但其他爆炸也可行。"
+        },
+        {
+            "type": "image",
+            "images": [
+                "pneumaticcraft:textures/patchouli/compressed_iron.png"
+            ],
+            "text": "$(italic)      不要靠近/$"
+        },
+        {
+            "type": "spotlight",
+            "anchor": "compressed_iron_ingot",
+            "item": "pneumaticcraft:ingot_iron_compressed",
+            "text": "警告：作為爆炸的副作用，大約 20% 的物品將被損耗。要避免這一點，同樣可以在$(l:manufacturing/pressure_chamber)壓力室/$中合成$(item)壓縮鐵錠/$。但是，需要$(item)壓縮鐵錠/$才可以合成$(thing)壓力室/$，所以最開始的損耗是不可避免的。"
+        },
+        {
+            "type": "pneumaticcraft:pressure_chamber",
+            "item": "pneumaticcraft:ingot_iron_compressed"
+        },
+        {
+            "type": "crafting",
+            "anchor": "compressed_iron_block",
+            "recipe": "pneumaticcraft:compressed_iron_block",
+            "text": "$(item)壓縮鐵方塊/$是良好的$(l:base_concepts/heat)熱導體/$，可以用於為產生熱量的機器提供更多的麵以放置$(l:machines/heat_sink)散熱片/$。"
+        },
+        {
+            "type": "pneumaticcraft:pressure_chamber",
+            "item": "pneumaticcraft:compressed_iron_block"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+  "modifier": "bane_of_arthopods",
+  "text": [
+    {
+      "text": "蜘蛛最害怕的居然是自己的眼睛！還在為這些傢伙頭疼麼，我有一個好主意，殺光它們。"
+    }
+  ],
+  "effects": [
+    "對蠹魚和蜘蛛能造成額外的傷害",
+    "可升級多次"
+  ],
+  "demoTool": [
+    "tconstruct:broadsword",
+    "tconstruct:hammer",
+    "tconstruct:arrow"
+  ]
+}

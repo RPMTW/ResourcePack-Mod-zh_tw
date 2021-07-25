@@ -1,0 +1,32 @@
+{
+    "name": "法術抄寫台",
+    "icon": "ancientspellcraft:scribing_desk",
+    "category": "2_研究中",
+    "sortnum": 3,
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "ancientspellcraft:scribing_desk",
+            "text": " 法術抄寫台可以放置從遺物中學到的知識以用在實際用途...",
+            "link_recipe": false
+        },
+        {
+            "type": "crafting",
+            "recipe": "ancientspellcraft:scribing_desk",
+            "title": "法術抄寫台",
+            "text": "法術抄寫台可以在合成台中被合成"
+        },
+        {
+            "type": "image",
+            "images": [
+                "ancientspellcraft:textures/gui/entries/scribing_desk_gui_1.png"
+            ],
+            "title": "法術抄寫台",
+            "text": ""
+        },
+        {
+            "type": "text",
+            "text": "法術抄寫台擁有7個物品欄。$(br)- 左上角欄位放置遺物像是石頭平板。$(br)- 左下角欄位放置魔法水晶。$(br)- 中間的書本欄位放置普通的書。$(br)- 右下角欄位放置墨水。$(br)- 另外中間三個欄位是放置材料"
+        }
+    ]
+}

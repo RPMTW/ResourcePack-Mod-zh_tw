@@ -1,0 +1,68 @@
+{
+  "name": "氣動頭盔",
+  "icon": "pneumaticcraft:pneumatic_helmet",
+  "category": "armor",
+  "advancement": "pneumaticcraft:printed_circuit_board",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(item)氣動頭盔/$是四件$(thing)氣動盔甲/$中的一件。$(p)長期以來，其曾是唯一一件氣動盔甲。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "pneumaticcraft:pneumatic_helmet",
+      "text": "氣動頭盔的合成表"
+    },
+    {
+      "type": "spotlight",
+      "anchor": "entity_tracker",
+      "item": "pneumaticcraft:entity_tracker_upgrade",
+      "text": "安裝$(l:base_concepts/upgrades#entity_tracker)實體追蹤升級/$後，16 格內所有生物將被自動追蹤，忽略方塊的阻隔。若該生物為敵對生物，當其以你為目標是頭盔將告警。這可以提醒你備戰（或逃跑）。可以使用$(l:base_concepts/entity_filter)實體過濾器/$在介面中設定其追蹤的生物。"
+    },
+    {
+      "type": "spotlight",
+      "item": "pneumaticcraft:block_tracker_upgrade",
+      "text": "安裝$(l:base_concepts/upgrades#block_tracker)方塊追蹤升級/$後，30 格內的特殊方塊將被追蹤，忽略方塊的阻隔。下列方塊被追蹤：$(li)所有容器（將顯示其內容物）$(li)生怪箱（將顯示生怪時間）$(li)蠹魚方塊$(li)終界傳送門框架$(li)TNT$(li)絆線鉤"
+    },
+    {
+      "type": "text",
+      "title": "方塊追蹤升級（續）",
+      "text": "介於上述方塊有時極為常見（如玩家屋內的容器，要塞中的蠹魚方塊），懸浮介面將在某類方塊的數目達到特定值時停止顯示追蹤標籤。仍然可以透過將準心指向被追蹤的方塊以取得其資訊。同時，可以在設定介面中指定要追蹤的方塊。"
+    },
+    {
+      "type": "spotlight",
+      "item": "pneumaticcraft:coordinate_tracker_upgrade",
+      "text": "$(l:base_concepts/upgrades#coordinate_tracker)坐標追蹤升級/$將計算到達某位置的最短路徑，使用 Minecraft 的尋路算法。$(p)若你被困在洞穴中需要出去，這很有幫助：打開選項介面（按下 $(thing)$(k:pneumaticcraft.armor.options)/$ 鍵），並選擇$(bold)導向到表面/$。"
+    },
+    {
+      "type": "spotlight",
+      "item": "pneumaticcraft:search_upgrade",
+      "text": "你是否體驗過在容器遍布的基地中尋找物品的苦惱？如果確實，那麼你需要$(l:base_concepts/upgrades#item_searcher)物品搜尋升級/$。可以在介面中尋找一項物品：可以使用滑桿尋找需要的物品，或在搜尋框中輸入物品名。找到後，只需將其放入目標槽。"
+    },
+    {
+      "type": "text",
+      "title": "物品搜尋升級（續）",
+      "text": "此後，16 格內任何對應的物品實體或裝有對應物品的容器將會$(thing)以綠色高亮/$。高亮程度取決於對應位置的物品占所有找到的物品的比率。$(p)註：該升級同時需要$(l:base_concepts/upgrades#entity_tracker)實體追蹤升級/$（以尋找物品實體）和/或$(l:base_concepts/upgrades#block_tracker)方塊追蹤升級/$（以尋找容器中的物品）才可工作。"
+    },
+    {
+      "type": "spotlight",
+      "item": "pneumaticcraft:dispenser_upgrade",
+      "text": "若與$(l:base_concepts/upgrades#entity_tracker)實體追蹤升級/$一同安裝$(l:base_concepts/upgrades#dispenser)發射器升級/$，可以監測/除錯$(l:tools/drone)無人機/$。只需對準$(item)無人機/$按下 $(thing)$(k:pneumaticcraft.helmet.debugging.drone)/$ 鍵。對應追蹤懸浮框的邊框將變為紅色。此時，按下 $(thing)$(k:pneumaticcraft.armor.options)/$ 鍵以打開頭盔的選項介面，並轉到$(bold)無人機除錯/$面板。"
+    },
+    {
+      "type": "spotlight",
+      "item": "pneumaticcraft:range_upgrade",
+      "text": "每個$(l:base_concepts/upgrades#range)範圍升級/$將$(l:base_concepts/upgrades#entity_tracker)實體追蹤升級/$和$(l:base_concepts/upgrades#block_tracker)方塊追蹤升級/$的範圍提升 5 格。對於實體追蹤升級不存在上限，但對於方塊追蹤升級最高可接受 5 個升級。$(p)需要注意的是，該升級提升氣動頭盔的空氣耗量。"
+    },
+    {
+      "type": "spotlight",
+      "item": "pneumaticcraft:night_vision_upgrade",
+      "text": "$(l:base_concepts/upgrades#night_vision)夜視升級/$的效果正如其名：給予夜視功能，同時消耗少量$(l:base_concepts/pressure)空氣/$。"
+    },
+    {
+      "type": "spotlight",
+      "item": "pneumaticcraft:scuba_upgrade",
+      "text": "$(l:base_concepts/upgrades#scuba)水下呼吸升級/$提供水下呼吸功能，使用氣動頭盔所儲存的空氣保持玩家的呼吸。此外，該升級還提供一個面罩，以實現更為清晰的水下視線；若配合使用$(l:base_concepts/upgrades#night_vision)夜視升級/$將有更為良好的視線。"
+    }
+  ]
+}

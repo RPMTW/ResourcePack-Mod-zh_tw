@@ -1,0 +1,19 @@
+{
+  "modifier": "shulking",
+  "text": [
+    {
+      "text": "把懸浮屬性強化到你的工具上面，讓那些敵人們在半空中束手無策吧"
+    }
+  ],
+  "effects": [
+    "每次強化都可增加一點懸浮時間",
+    "可以給予擊中的敵人以懸浮效果",
+    "這屬性真喜感",
+    "單個等級"
+  ],
+  "demoTool": [
+    "tconstruct:pickaxe",
+    "tconstruct:broadsword",
+    "tconstruct:arrow"
+  ]
+}

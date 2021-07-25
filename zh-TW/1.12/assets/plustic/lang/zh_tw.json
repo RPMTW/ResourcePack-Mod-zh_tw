@@ -320,5 +320,10 @@
     "_comment_10": " GUI",
     "gui.header.toggle": "切換強化",
     "gui.toggle.armor": "%s（護甲）",
-    "gui.toggle.tool": "%s（工具）"
+    "gui.toggle.tool": "%s（工具）",
+    "fluid.plustic.blazium.name": "Molten Blazium",
+    "material.bloodstone.name": "Bloodstone",
+    "material.blazium.name": "Blazium",
+    "modifier.aoa_threshold.name": "Requires %s Level %d",
+    "modifier.aoa_threshold.desc": "§oYou thought you could get away with an overpowered tool, did you?§r\\nThis tool requires %s Level %d."
 }

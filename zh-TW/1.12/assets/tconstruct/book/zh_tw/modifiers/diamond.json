@@ -1,0 +1,21 @@
+{
+  "modifier": "diamond",
+  "text": [
+    {
+      "text": "使用鑽石強化工具能有效提升工具的耐久度，可以使工具擁有更長的使用時間。除此之外，工具變得也更好看了。"
+    }
+  ],
+  "effects": [
+    "增加耐久度",
+    "次要屬性的增加",
+    "挖掘等級提升到黑曜石級",
+    "只能強化一次",
+    "極佳！"
+  ],
+  "demoTool": [
+    "tconstruct:pickaxe",
+    "tconstruct:broadsword",
+    "tconstruct:shortbow",
+    "tconstruct:arrow"
+  ]
+}

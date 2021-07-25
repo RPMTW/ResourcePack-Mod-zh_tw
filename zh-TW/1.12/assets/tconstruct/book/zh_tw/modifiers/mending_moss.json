@@ -1,0 +1,21 @@
+{
+  "modifier": "mending_moss",
+  "text": [
+    {
+      "text": "你用舊的工具邊緣長了些苔蘚。用一些經驗來附魔能讓它與工具融合，從而逐步的修復它。"
+    }
+  ],
+  "effects": [
+    "吸取撿起的經驗球",
+    "最大吸取量取決於強化等級",
+    "隨著時間的推移緩慢修復工具",
+    "必須放在快捷欄中或非慣用手上才能修復",
+    "可升級多次"
+  ],
+  "demoTool": [
+    "tconstruct:pickaxe",
+    "tconstruct:broadsword",
+    "tconstruct:shortbow",
+    "tconstruct:arrow"
+  ]
+}

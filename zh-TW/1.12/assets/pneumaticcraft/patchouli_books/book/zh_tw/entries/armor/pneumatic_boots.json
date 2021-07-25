@@ -1,0 +1,37 @@
+{
+  "name": "氣動靴子",
+  "icon": "pneumaticcraft:pneumatic_boots",
+  "category": "armor",
+  "advancement": "pneumaticcraft:printed_circuit_board",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(item)氣動靴子/$是四件$(thing)氣動盔甲/$中的一件。$(p)氣動靴子自帶輕盈，但具有適量的空氣消耗（正比於摔落距離）。$(p)同時提供步行輔助（不消耗空氣）。註：這是步行輔助而非自動跳躍，且該功能是可選的。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "pneumaticcraft:pneumatic_boots",
+      "text": "氣動靴子的合成表"
+    },
+    {
+      "type": "spotlight",
+      "item": "pneumaticcraft:jet_boots_upgrade",
+      "text": "如果你曾想御風而行，置世事於無顧（或許除了目前壓力），$(l:base_concepts/upgrades#jet_boots)噴氣靴升級/$可是為你量身客製化。可以安裝至多 10 個升級，以取得階段性提升的飛行速度，代價是更高的空氣耗量。$(p)"
+    },
+    {
+      "type": "text",
+      "title": "噴氣靴升級（續）",
+      "text": "$(thing)噴氣靴/$對空氣的耗率$(bold)極大/$；因此，建議像氣動靴子安裝多個$(l:base_concepts/upgrades#volume)容量升級/$（並向$(l:armor/pneumatic_chestplate)氣動胸甲/$安裝$(l:base_concepts/upgrades#charging)充氣升級/$）。$(p)若可行，同時建議使用$(l:machines/aerial_interface)空氣介面/$，連同一套可靠的氣動管網。"
+    },
+    {
+      "type": "text",
+      "title": "噴氣靴升級（續）",
+      "text": "安裝 8 個及以上的$(l:base_concepts/upgrades#jet_boots)噴氣靴升級/$後，可以啟用$(thing)建築模式/$，允許更接近於創造模式（但略慢）的飛行控制，並提升空中挖掘速率。這可以在盔甲設定介面中開關（並綁定鍵位）。"
+    },
+    {
+      "type": "spotlight",
+      "item": "pneumaticcraft:dispenser_upgrade",
+      "text": "安裝至多 4 個$(l:base_concepts/upgrades#dispenser)發射器升級/$後，可以進行$(bold)氣動飛踢/$。這將會對實體（包括非生物實體！）造成中毒傷害，但同時會造成大量的擊退，代價是適量的空氣消耗。$(p)按下 $(thing)$(k:pneumaticcraft.boots.kick)/$ 鍵以執行操作。"
+    }
+  ]
+}

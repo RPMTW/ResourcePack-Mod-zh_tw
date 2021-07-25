@@ -1,0 +1,23 @@
+{
+  "modifier": "silktouch",
+  "text": [
+    {
+      "text": "附加上黃金和線的工具一定能擁有絲綢之觸的功能"
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "我保證這塗的不是奶油"
+    }
+  ],
+  "effects": [
+    "工具擁有絲綢之觸功能",
+    "不能和幸運和自動冶煉相容",
+    "只能強化一次"
+  ],
+  "demoTool": [
+    "tconstruct:pickaxe",
+    "tconstruct:hammer"
+  ]
+}

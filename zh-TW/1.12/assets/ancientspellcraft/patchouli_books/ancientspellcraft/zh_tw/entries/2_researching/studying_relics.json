@@ -1,0 +1,15 @@
+{
+	"name": "學習遺物",
+	"icon": "minecraft:writable_book",
+	"category": "2_研究中",
+	"advancement": "ancientspellcraft:sphere_of_cognizance",
+	"sortnum": 1,
+	"pages": [
+		{
+			"type": "spotlight",
+			"item": "ancientspellcraft:stone_tablet",
+			"text": " 石頭平板可以被用來學習關於Sphere of Cognizance的秘密。一些學者說這些平板可能容納關於過去文明的法術資訊，但是沒有任何巫師成功重現它們。",
+			"link_recipe": false
+		}
+	]
+}

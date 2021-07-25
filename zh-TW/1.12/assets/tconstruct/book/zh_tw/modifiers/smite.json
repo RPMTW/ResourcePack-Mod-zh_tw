@@ -1,0 +1,18 @@
+{
+  "modifier": "smite",
+  "text": [
+    {
+      "text": "來自神聖土的原始力量能夠強化你的武器，來，幹掉那些高處的敵人吧。"
+    }
+  ],
+  "effects": [
+    "對不死生物造成額外的傷害",
+    "可升級多次"
+  ],
+  "demoTool": [
+    "tconstruct:broadsword",
+    "tconstruct:cleaver",
+    "tconstruct:hammer",
+    "tconstruct:arrow"
+  ]
+}

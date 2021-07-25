@@ -1,0 +1,67 @@
+{
+  "name": "氣動胸甲",
+  "icon": "pneumaticcraft:pneumatic_chestplate",
+  "category": "armor",
+  "advancement": "pneumaticcraft:printed_circuit_board",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(item)氣動胸甲/$是四件$(thing)氣動盔甲/$中的一件。$(p)相較於其餘三件，其具有更大的$(base_concepts/pressure)空氣容量/$。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "pneumaticcraft:pneumatic_chestplate",
+      "text": "氣動胸甲的合成表"
+    },
+    {
+      "type": "spotlight",
+      "item": "pneumaticcraft:security_upgrade",
+      "text": "安裝$(l:base_concepts/upgrades#security)安全升級/$後，氣動護甲提供對火和熔岩傷害的保護，但這將消耗大量空氣：空氣將被迅速泵出以撲滅火焰並保持冷卻。附近的岩漿甚至會緩慢凝固。"
+    },
+    {
+      "type": "spotlight",
+      "flag": "mod:immersiveengineering",
+      "title": "沉浸工程",
+      "item": "immersiveengineering:wirecoil",
+      "text": "$(item)安全升級/$同時提供對$(l:https://www.curseforge.com/minecraft/mc-mods/immersive-engineering)沉浸工程/$的未絕緣導線的防護；玩家將對這些導線造成的傷害免疫，但這需要消耗空氣，耗量正比於所造成的傷害。然而，安全升級並不防止所造成的擊退。"
+    },
+    {
+      "type": "spotlight",
+      "item": "pneumaticcraft:magnet_upgrade",
+      "text": "安裝一個或多個$(l:base_concepts/upgrades#magnet)磁鐵升級/$後，附近的物品和經驗球將被吸引，同時消耗少量空氣。基礎吸引範圍為 5 格，但可以通過安裝更多升級提升至最大 10 格。"
+    },
+    {
+      "type": "text",
+      "title": "磁鐵升級（續）",
+      "text": "磁鐵升級的效應受植物魔法的$(item)弱磁蘭/$影響，並不會試圖從沉浸工程的$(item)傳送帶/$上取走物品。"
+    },
+    {
+      "type": "spotlight",
+      "item": "pneumaticcraft:charging_upgrade",
+      "text": "安裝一個或多個$(l:base_concepts/upgrades#charging)充氣升級/$後，氣動胸甲可以對物品欄中（包括盔甲欄）的物品充氣。更多的充氣升級提升充氣速率。"
+    },
+    {
+      "type": "spotlight",
+      "item": "pneumaticcraft:dispenser_upgrade",
+      "text": "安裝$(l:base_concepts/upgrades#dispenser)發射器升級/$後，長按 $(thing)$(k:pneumaticcraft.chestplate.launcher)/$ 鍵可以將非慣用手上的物品發射，類似於使用$(l:machines/air_cannon)空氣炮/$。發射器充能需要 15 刻（0.75 秒）；提前釋放發射鍵將減低發射速度。"
+    },
+    {
+      "type": "text",
+      "title": "發射器升級（續）",
+      "text": "$(li)部分物品與方塊在發射時具有$(item)發射器/$式的特殊行為，例如 $(item)TNT/ 和$(item)箭/$。$(li)其餘方塊（如$(item)火把/$)將以「旋轉」著的方塊的樣式發射，並在擊中點還原為方塊。$(li)其餘物品僅以物品實體的形式發射。"
+    },
+    {
+      "type": "spotlight",
+      "item": "pneumaticcraft:air_conditioning_upgrade",
+      "flag": "mod:toughasnails",
+      "title": "空調升級",
+      "text": "安裝最多 4 個$(l:base_concepts/upgrades#air_conditioning)空調升級/$後，將獲得對於在$(l:https://www.curseforge.com/minecraft/mc-mods/tough-as-nails)意志堅定/$模組下的極端溫度的保護。空調功能在體溫偏離正常值時自動啟動，在體溫恢復正常值時自動關閉。"
+    },
+    {
+      "type": "text",
+      "flag": "mod:toughasnails",
+      "title": "空調升級（續）",
+      "text": "然而，這一功能具有中等的空氣消耗，取決於溫度調節的幅度與安裝的升級數目。根據工作環境的不同，有時並不需要所有 4 個升級就可維持正常。"
+    }
+  ]
+}

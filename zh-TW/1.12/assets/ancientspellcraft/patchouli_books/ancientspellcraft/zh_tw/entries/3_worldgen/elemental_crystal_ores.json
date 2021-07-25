@@ -1,0 +1,22 @@
+{
+	"name": "Crystal Shards",
+	"icon": "ancientspellcraft:crystal_ore_lightning",
+	"category": "3_worldgen",
+	"sortnum": 0,
+	"pages": [
+		{
+			"type": "text",
+			"item": "ancientspellcraft:sphere_cognizance",
+			"text": " Elemental Crystal Shards can be found all around the Overworld. These small veins of crystal drop 1-2 Crystal Shards of their element, 9 of the same element can be combined into a full elemental crystal in a Crafting Bench.",
+			"link_recipe": false
+		},
+		{
+			"type": "image",
+			"images": [
+				"ancientspellcraft:textures/gui/entries/mystical_ore_shard.png"
+			],
+			"title": "Mystical Crystal Shard",
+			"text": ""
+		}
+	]
+}

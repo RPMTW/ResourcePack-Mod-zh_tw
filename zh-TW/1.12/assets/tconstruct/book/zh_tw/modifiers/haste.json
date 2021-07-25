@@ -1,0 +1,24 @@
+{
+  "modifier": "haste",
+  "text": [
+    {
+      "text": "在工具上添加紅石似乎能讓它的速度變快。在挖掘速度越慢的工具上效果更顯著。"
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "紅石啊，真是瘋狂的東西。對吧？"
+    }
+  ],
+  "effects": [
+    "每個紅石粉都會讓挖掘速度增加一點點",
+    "增加攻擊速度",
+    "可升級多次"
+  ],
+  "demoTool": [
+    "tconstruct:pickaxe",
+    "tconstruct:broadsword",
+    "tconstruct:shortbow"
+  ]
+}

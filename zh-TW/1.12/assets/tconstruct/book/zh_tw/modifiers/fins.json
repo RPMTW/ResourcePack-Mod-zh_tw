@@ -1,0 +1,18 @@
+{
+  "modifier": "fins",
+  "text": [
+    {
+      "text": "讓我們拿一隻魚……然後把它捆到箭上面。棒極了！這讓它們能在水下無阻前行！現在我可以去射那些水下的傢伙了！"
+    }
+  ],
+  "effects": [
+    "彈藥可以忽略水的影響",
+    "符合邏輯",
+    "言之有理"
+  ],
+  "demoTool": [
+    "tconstruct:arrow",
+    "tconstruct:bolt",
+    "tconstruct:shuriken"
+  ]
+}

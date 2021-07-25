@@ -1,0 +1,17 @@
+{
+  "modifier": "glowing",
+  "text": [
+    {
+      "text": "將一些螢光石粉和終界之眼附著在工具上，很顯然這個東西能感知亮度等級。"
+    }
+  ],
+  "effects": [
+    "在低亮度的地方放置光源",
+    "消耗耐久"
+  ],
+  "demoTool": [
+    "tconstruct:pickaxe",
+    "tconstruct:hammer",
+    "tconstruct:broadsword"
+  ]
+}

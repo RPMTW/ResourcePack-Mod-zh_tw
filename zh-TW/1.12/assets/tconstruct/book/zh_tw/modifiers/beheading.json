@@ -1,0 +1,18 @@
+{
+  "modifier": "beheading",
+  "text": [
+    {
+      "text": "在武器上加入一顆終界珍珠和一些黑曜石會讓武器有著將目標頭身分離的神奇能力。\n「頭頂幫你剪短一點點可以嗎？」"
+    }
+  ],
+  "effects": [
+    "對方掉落他們的頭顱",
+    "加更多的黑曜石和終界珍珠來增加斬首的機率",
+    "可升級多次"
+  ],
+  "demoTool": [
+    "tconstruct:broadsword",
+    "tconstruct:cleaver",
+    "tconstruct:arrow"
+  ]
+}

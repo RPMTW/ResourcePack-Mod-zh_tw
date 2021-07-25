@@ -1,0 +1,6 @@
+{
+  "name": "壓縮機",
+  "description": "壓縮機是可以通過壓縮空氣製造$(l:base_concepts/pressure)壓力/$的機器。這是$(pncr)的能量源。",
+  "icon": "pneumaticcraft:air_compressor",
+  "sortnum": 1
+}

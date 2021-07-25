@@ -1,0 +1,12 @@
+{
+	"name": "簡介",
+	"icon": "ancientspellcraft:ancient_spellcraft_spell_book",
+	"category": "1_介紹",
+	"sortnum": 0,
+	"pages": [
+		{
+			"type": "text",
+			"text": "The $(l)Arcane Compendium$() is your magical book about everything related to Ancient Spellcraft. $(br)As your knowledge advances, your notes are getting added to the book."
+		}
+	]
+}

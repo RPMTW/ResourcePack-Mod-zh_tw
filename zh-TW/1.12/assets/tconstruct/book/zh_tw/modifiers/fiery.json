@@ -1,0 +1,17 @@
+{
+  "modifier": "fiery",
+  "text": [
+    {
+      "text": "施加烈焰使者的力量於工具之上，看，連工具邊緣都冒出了火焰，然而不幸的是，這個亮度還不能用作照明"
+    }
+  ],
+  "effects": [
+    "使攻擊對象著火",
+    "給予工具燃燒的效果",
+    "可升級多次"
+  ],
+  "demoTool": [
+    "tconstruct:broadsword",
+    "tconstruct:arrow"
+  ]
+}

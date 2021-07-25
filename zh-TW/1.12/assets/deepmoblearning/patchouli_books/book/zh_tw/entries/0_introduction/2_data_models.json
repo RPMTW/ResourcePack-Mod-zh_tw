@@ -80,7 +80,7 @@
       "recipe2": "deepmoblearning:data_model_twilight_swamp",
       "title": "暮光森林",
       "title2": "暮光沼澤",
-      "flag": "模組:twilightforest"
+      "flag": "mod:twilightforest"
     },
     {
       "type": "recipelookup",
@@ -88,13 +88,13 @@
       "recipe2": "deepmoblearning:data_model_twilight_glacier",
       "title": "暮光暗木",
       "title2": "暮光冰川",
-      "flag": "模組:twilightforest"
+      "flag": "mod:twilightforest"
     },
     {
       "type": "recipelookup",
       "recipe": "deepmoblearning:data_model_mo_android",
       "title": "Rogue Android",
-      "flag": "模組:matteroverdrive"
+      "flag": "mod:matteroverdrive"
     },
     {
       "type": "recipelookup",
