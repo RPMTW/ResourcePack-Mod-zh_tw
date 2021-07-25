@@ -1,12 +1,12 @@
 {
-  "name": "Tostada",
+  "name": "脆玉米餅",
   "icon": "croptopia:tostada",
-  "category": "作物方城市:餐點",
+  "category": "croptopia:meals",
   "pages": [
     {
       "type": "crafting",
       "recipe": "croptopia:tostada",
-      "text": "Recipe for a tostada."
+      "text": "脆玉米餅的食譜"
     }
   ]
 }

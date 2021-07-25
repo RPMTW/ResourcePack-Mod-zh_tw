@@ -1,12 +1,12 @@
 {
   "name": "炸雞",
   "icon": "croptopia:fried_chicken",
-  "category": "作物方城市:餐點",
+  "category": "croptopia:meals",
   "pages": [
     {
       "type": "crafting",
       "recipe": "croptopia:fried_chicken",
-      "text": "Recipe for fried chicken."
+      "text": "炸雞的食譜"
     }
   ]
 }

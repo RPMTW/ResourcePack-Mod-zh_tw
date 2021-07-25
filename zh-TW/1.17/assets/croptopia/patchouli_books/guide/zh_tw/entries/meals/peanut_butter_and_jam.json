@@ -1,12 +1,12 @@
 {
-  "name": "Peanut Butter and Jam",
+  "name": "花生醬和果醬",
   "icon": "croptopia:peanut_butter_and_jam",
-  "category": "作物方城市:餐點",
+  "category": "croptopia:meals",
   "pages": [
     {
       "type": "crafting",
       "recipe": "croptopia:peanut_butter_and_jam",
-      "text": "Recipe for a sandwich with peanut butter and jam."
+      "text": "花生醬和果醬三明治的食譜"
     }
   ]
 }

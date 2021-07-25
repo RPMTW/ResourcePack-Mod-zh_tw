@@ -1,12 +1,12 @@
 {
   "name": "麵粉",
-  "icon": "作物方城市:麵粉",
+  "icon": "croptopia:flour",
   "category": "croptopia:ingredients",
   "pages": [
     {
       "type": "crafting",
-      "recipe": "作物方城市:麵粉",
-      "text": "Recipe for flour."
+      "recipe": "croptopia:flour",
+      "text": "麵粉的製作方法"
     }
   ]
 }

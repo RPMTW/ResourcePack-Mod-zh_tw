@@ -1,12 +1,12 @@
 {
-  "name": "Beef Wellington",
-  "icon": "作物方城市:威靈頓牛肉",
-  "category": "作物方城市:餐點",
+  "name": "威靈頓牛排",
+  "icon": "croptopia:beef_wellington",
+  "category": "croptopia:meals",
   "pages": [
     {
       "type": "crafting",
       "recipe": "croptopia:shaped_beef_wellington",
-      "text": "Recipe for beef wellington."
+      "text": "威靈頓牛肉的食譜"
     }
   ]
 }

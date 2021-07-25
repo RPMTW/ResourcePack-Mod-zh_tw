@@ -1,12 +1,12 @@
 {
   "name": "杏仁脆片",
-  "icon": "作物方城市:杏仁脆",
-  "category": "作物方城市:甜點",
+  "icon": "croptopia:almond_brittle",
+  "category": "croptopia:deserts",
   "pages": [
     {
       "type": "crafting",
-      "recipe": "作物方城市:杏仁脆",
-      "text": "Recipe for almond brittle."
+      "recipe": "croptopia:almond_brittle",
+      "text": "杏仁脆片的食譜"
     }
   ]
 }

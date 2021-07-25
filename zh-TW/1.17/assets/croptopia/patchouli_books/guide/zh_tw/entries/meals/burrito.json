@@ -1,11 +1,11 @@
 {
   "name": "墨西哥捲餅",
-  "icon": "作物方城市:墨西哥捲餅",
-  "category": "作物方城市:餐點",
+  "icon": "croptopia:burrito",
+  "category": "croptopia:meals",
   "pages": [
     {
       "type": "crafting",
-      "recipe": "作物方城市:墨西哥捲餅",
+      "recipe": "croptopia:burrito",
       "text": "墨西哥捲餅的食譜"
     }
   ]

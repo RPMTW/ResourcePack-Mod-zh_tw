@@ -54,7 +54,7 @@
     "tooltip.toms_storage.ctrlMode_1": "RS式控制\\拿取單個物品：中鍵點擊\\轉移單個物品：Shift+中鍵點擊",
     "tooltip.toms_storage.ctrlMode_2": "原版式控制\\拿取單個物品：右擊\\轉移單個物品：Shift+右擊",
     "tooltip.toms_storage.pull_0": "禁止從玩家物品欄中抽取材料參與合成",
-    "tooltip.toms_storage.pull_1": "允許在材料缺失時從玩家物品欄中抽取材料參與合成",
+    "tooltip.toms_storage.pull_1": "允許在材料缺少時從玩家物品欄中抽取材料參與合成",
     "tooltip.toms_storage.filter_item": "過濾目標：%s",
     "tooltip.toms_storage.empty": "空",
     "tooltip.toms_storage.level_emitter": "依據儲存網路內容物發出紅石信號。",

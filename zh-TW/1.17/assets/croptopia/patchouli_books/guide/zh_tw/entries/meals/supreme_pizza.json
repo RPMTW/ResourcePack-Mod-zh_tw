@@ -1,12 +1,12 @@
 {
-  "name": "Supreme Pizza",
+  "name": "至尊披薩",
   "icon": "croptopia:supreme_pizza",
-  "category": "作物方城市:餐點",
+  "category": "croptopia:meals",
   "pages": [
     {
       "type": "crafting",
       "recipe": "croptopia:supreme_pizza",
-      "text": "Recipe for a supreme pizza."
+      "text": "至尊披薩的食譜"
     }
   ]
 }

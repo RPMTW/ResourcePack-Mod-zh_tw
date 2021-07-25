@@ -1,12 +1,12 @@
 {
-  "name": "Leek Soup",
+  "name": "韭蔥湯",
   "icon": "croptopia:leek_soup",
-  "category": "croptopia:snacks",
+  "category": "作物方城市:點心",
   "pages": [
     {
       "type": "crafting",
       "recipe": "croptopia:leek_soup",
-      "text": "Recipe for making leek soup."
+      "text": "韭蔥湯的食譜"
     }
   ]
 }

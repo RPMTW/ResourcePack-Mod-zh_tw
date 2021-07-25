@@ -1,12 +1,12 @@
 {
-  "name": "Buttered Toast",
+  "name": "奶油吐司",
   "icon": "croptopia:buttered_toast",
-  "category": "croptopia:snacks",
+  "category": "作物方城市:點心",
   "pages": [
     {
       "type": "crafting",
       "recipe": "croptopia:buttered_toast",
-      "text": "Recipe for making buttered toast."
+      "text": "奶油吐司的食譜"
     }
   ]
 }

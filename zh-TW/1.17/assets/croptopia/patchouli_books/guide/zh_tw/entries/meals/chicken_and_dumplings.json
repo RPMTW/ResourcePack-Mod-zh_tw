@@ -1,12 +1,12 @@
 {
-  "name": "Chicken and Dumplings",
+  "name": "雞肉餃子",
   "icon": "croptopia:chicken_and_dumplings",
-  "category": "作物方城市:餐點",
+  "category": "croptopia:meals",
   "pages": [
     {
       "type": "crafting",
       "recipe": "croptopia:chicken_and_dumplings",
-      "text": "Recipe for chicken and dumplings."
+      "text": "雞肉餃子的食譜"
     }
   ]
 }

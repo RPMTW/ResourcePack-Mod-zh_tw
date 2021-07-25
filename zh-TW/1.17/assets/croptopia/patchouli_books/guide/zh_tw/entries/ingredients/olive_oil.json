@@ -1,12 +1,12 @@
 {
   "name": "橄欖油",
-  "icon": "作物方城市:橄欖油",
+  "icon": "croptopia:olive_oil",
   "category": "croptopia:ingredients",
   "pages": [
     {
       "type": "crafting",
-      "recipe": "作物方城市:橄欖油",
-      "text": "Recipe for olive oil."
+      "recipe": "croptopia:olive_oil",
+      "text": "橄欖油的製作方法"
     }
   ]
 }

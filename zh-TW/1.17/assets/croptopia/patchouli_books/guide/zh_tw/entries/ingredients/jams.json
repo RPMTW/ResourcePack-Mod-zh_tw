@@ -1,32 +1,32 @@
 {
   "name": "果醬",
-  "icon": "作物方城市:葡萄果醬",
+  "icon": "croptopia:grape_jam",
   "category": "croptopia:ingredients",
   "pages": [
     {
       "type": "crafting",
-      "recipe": "作物方城市:葡萄果醬",
+      "recipe": "croptopia:grape_jam",
       "text": "These are the recipes to craft the different jams in Croptopia."
     },
     {
       "type": "crafting",
-      "recipe": "作物方城市:桃子果醬",
-      "recipe2": "作物方城市:桃子果醬"
+      "recipe": "croptopia:peach_jam",
+      "recipe2": "croptopia:apricot_jam"
     },
     {
       "type": "crafting",
-      "recipe": "作物方城市:黑莓果醬",
-      "recipe2": "作物方城市:黑莓果醬"
+      "recipe": "croptopia:blackberry_jam",
+      "recipe2": "croptopia:blueberry_jam"
     },
     {
       "type": "crafting",
-      "recipe": "作物方城市:櫻桃果醬",
-      "recipe2": "作物方城市:接骨木漿果果醬"
+      "recipe": "croptopia:cherry_jam",
+      "recipe2": "croptopia:elderberry_jam"
     },
     {
       "type": "crafting",
-      "recipe": "作物方城市:覆盆子果醬",
-      "recipe2": "作物方城市:草莓果醬"
+      "recipe": "croptopia:raspberry_jam",
+      "recipe2": "croptopia:strawberry_jam"
     }
   ]
 }

@@ -1,11 +1,11 @@
 {
   "name": "士力架",
-  "icon": "作物方城市:士力架",
-  "category": "作物方城市:甜點",
+  "icon": "croptopia:snicker_doodle",
+  "category": "croptopia:deserts",
   "pages": [
     {
       "type": "crafting",
-      "recipe": "作物方城市:士力架",
+      "recipe": "croptopia:snicker_doodle",
       "text": "士力架的食譜"
     }
   ]

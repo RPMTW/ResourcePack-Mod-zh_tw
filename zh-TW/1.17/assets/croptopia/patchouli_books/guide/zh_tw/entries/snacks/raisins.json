@@ -1,10 +1,10 @@
 {
   "name": "葡萄乾",
   "icon": "croptopia:raisins",
-  "category": "croptopia:snacks",
+  "category": "作物方城市:點心",
   "pages": [
     {
-      "type": "smelting",
+      "type": "熔煉",
       "recipe": "croptopia:raisins",
       "text": "葡萄乾的食譜"
     }

@@ -1,11 +1,11 @@
 {
   "name": "意大利辣香腸",
-  "icon": "作物方城市:辣椒粉",
+  "icon": "croptopia:paprika",
   "category": "croptopia:ingredients",
   "pages": [
     {
       "type": "crafting",
-      "recipe": "作物方城市:辣椒粉",
+      "recipe": "croptopia:paprika",
       "text": "辣椒粉的製作方法"
     }
   ]

@@ -1,12 +1,12 @@
 {
   "name": "雞肉飯",
   "icon": "croptopia:chicken_and_rice",
-  "category": "作物方城市:餐點",
+  "category": "croptopia:meals",
   "pages": [
     {
       "type": "crafting",
       "recipe": "croptopia:chicken_and_rice",
-      "text": "Recipe for chicken and rice."
+      "text": "雞肉飯的食譜"
     }
   ]
 }

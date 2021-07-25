@@ -1,12 +1,12 @@
 {
   "name": "火腿三明治",
   "icon": "croptopia:ham_sandwich",
-  "category": "作物方城市:餐點",
+  "category": "croptopia:meals",
   "pages": [
     {
       "type": "crafting",
       "recipe": "croptopia:ham_sandiwch",
-      "text": "Recipe for a ham sandwich."
+      "text": "火腿三明治的食譜"
     }
   ]
 }

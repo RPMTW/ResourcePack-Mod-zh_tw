@@ -1,12 +1,12 @@
 {
   "name": "蘋果派",
-  "icon": "作物方城市:蘋果派",
-  "category": "作物方城市:甜點",
+  "icon": "croptopia:apple_pie",
+  "category": "croptopia:deserts",
   "pages": [
     {
       "type": "crafting",
-      "recipe": "作物方城市:蘋果派",
-      "text": "Recipe for an apple pie."
+      "recipe": "croptopia:apple_pie",
+      "text": "蘋果派的食譜"
     }
   ]
 }

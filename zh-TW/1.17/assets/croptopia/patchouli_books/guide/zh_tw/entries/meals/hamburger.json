@@ -1,12 +1,12 @@
 {
   "name": "漢堡",
-  "icon": "作物方城市:漢堡",
-  "category": "作物方城市:餐點",
+  "icon": "croptopia:hamburger",
+  "category": "croptopia:meals",
   "pages": [
     {
       "type": "crafting",
       "recipe": "croptopia:hamburger",
-      "text": "Recipe for a hamburger."
+      "text": "漢堡的食譜"
     }
   ]
 }

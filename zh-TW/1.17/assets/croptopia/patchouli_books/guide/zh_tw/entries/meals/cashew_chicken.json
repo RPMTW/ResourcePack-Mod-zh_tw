@@ -1,12 +1,12 @@
 {
-  "name": "Cashew Chicken",
+  "name": "腰果雞丁",
   "icon": "croptopia:cashew_chicken",
-  "category": "作物方城市:餐點",
+  "category": "croptopia:meals",
   "pages": [
     {
       "type": "crafting",
       "recipe": "croptopia:cashew_chicken",
-      "text": "Recipe for cashew chicken."
+      "text": "腰果雞丁的食譜"
     }
   ]
 }

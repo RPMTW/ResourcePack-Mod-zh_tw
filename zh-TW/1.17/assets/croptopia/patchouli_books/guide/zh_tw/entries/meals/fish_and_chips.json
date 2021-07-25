@@ -1,12 +1,12 @@
 {
   "name": "炸魚薯條",
   "icon": "croptopia:fish_and_chips",
-  "category": "作物方城市:餐點",
+  "category": "croptopia:meals",
   "pages": [
     {
       "type": "crafting",
       "recipe": "croptopia:shaped_fish_and_chips",
-      "text": "Recipe for fish and chips."
+      "text": "炸魚薯條的食譜"
     }
   ]
 }

@@ -1,12 +1,12 @@
 {
   "name": "仙人掌汁",
   "icon": "croptopia:saguaro_juice",
-  "category": "作物方城市:飲料",
+  "category": "croptopia:drinks",
   "pages": [
     {
       "type": "crafting",
       "recipe": "croptopia:saguaro_juice",
-      "text": "Recipe for saguaro juice."
+      "text": "仙人掌果汁的食譜"
     }
   ]
 }

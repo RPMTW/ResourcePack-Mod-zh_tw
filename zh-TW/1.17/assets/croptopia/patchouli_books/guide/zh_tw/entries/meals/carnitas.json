@@ -1,12 +1,12 @@
 {
-  "name": "Carnitas",
-  "icon": "作物方城市:烤豬肉",
-  "category": "作物方城市:餐點",
+  "name": "豬肉絲",
+  "icon": "croptopia:carnitas",
+  "category": "croptopia:meals",
   "pages": [
     {
       "type": "crafting",
-      "recipe": "作物方城市:烤豬肉",
-      "text": "Recipe for carnitas."
+      "recipe": "croptopia:carnitas",
+      "text": "烤豬肉的食譜"
     }
   ]
 }

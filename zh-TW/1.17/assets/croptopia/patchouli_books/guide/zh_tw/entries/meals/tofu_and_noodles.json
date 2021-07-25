@@ -1,12 +1,12 @@
 {
-  "name": "Tofu and Dumplings",
+  "name": "豆腐餃子",
   "icon": "croptopia:tofu_and_dumplings",
-  "category": "作物方城市:餐點",
+  "category": "croptopia:meals",
   "pages": [
     {
       "type": "crafting",
       "recipe": "croptopia:tofu_and_dumplings",
-      "text": "Recipe for tofu and dumplings."
+      "text": "豆腐餃子的食譜"
     }
   ]
 }

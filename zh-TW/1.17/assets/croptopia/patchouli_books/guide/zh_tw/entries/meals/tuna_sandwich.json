@@ -1,12 +1,12 @@
 {
-  "name": "Tuna Sandwich",
+  "name": "鮪魚三明治",
   "icon": "croptopia:tuna_sandwich",
-  "category": "作物方城市:餐點",
+  "category": "croptopia:meals",
   "pages": [
     {
       "type": "crafting",
       "recipe": "croptopia:tuna_sandiwch",
-      "text": "Recipe for a tuna sandwich. (WIP)"
+      "text": "Tuna Sandwich(尚未完成)"
     }
   ]
 }

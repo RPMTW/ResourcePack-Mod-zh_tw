@@ -1,11 +1,11 @@
 {
   "name": "香蕉奶油派",
-  "icon": "作物方城市:香蕉奶油派",
-  "category": "作物方城市:甜點",
+  "icon": "croptopia:banana_cream_pie",
+  "category": "croptopia:deserts",
   "pages": [
     {
       "type": "crafting",
-      "recipe": "作物方城市:香蕉奶油派",
+      "recipe": "croptopia:banana_cream_pie",
       "text": "香蕉奶油派的食譜"
     }
   ]

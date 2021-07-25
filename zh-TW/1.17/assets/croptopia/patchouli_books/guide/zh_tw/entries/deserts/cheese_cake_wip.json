@@ -1,12 +1,12 @@
 {
   "name": "乳酪蛋糕",
-  "icon": "作物方城市:乳酪蛋糕",
-  "category": "作物方城市:甜點",
+  "icon": "croptopia:cheese_cake",
+  "category": "croptopia:deserts",
   "pages": [
     {
       "type": "crafting",
-      "recipe": "作物方城市:乳酪蛋糕",
-      "text": "Recipe for a cheese cake. (WIP)"
+      "recipe": "croptopia:cheese_cake",
+      "text": "乳酪蛋糕的食譜(尚未完成)"
     }
   ]
 }

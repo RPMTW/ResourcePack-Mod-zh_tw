@@ -1,12 +1,12 @@
 {
   "name": "南瓜拿鐵",
   "icon": "croptopia:pumpkin_spice_latte",
-  "category": "作物方城市:飲料",
+  "category": "croptopia:drinks",
   "pages": [
     {
       "type": "crafting",
       "recipe": "croptopia:pumpkin_spice_latte",
-      "text": "Recipe for a pumpkin spice latte."
+      "text": "南瓜拿鐵的食譜"
     }
   ]
 }

@@ -1,12 +1,12 @@
 {
-  "name": "Cornish Pasty",
+  "name": "康瓦爾餡餅",
   "icon": "croptopia:cornish_pasty",
-  "category": "作物方城市:餐點",
+  "category": "croptopia:meals",
   "pages": [
     {
       "type": "crafting",
       "recipe": "croptopia:shaped_cornish_pasty",
-      "text": "Recipe for a cornish pasty."
+      "text": "康瓦爾餡餅的食譜"
     }
   ]
 }

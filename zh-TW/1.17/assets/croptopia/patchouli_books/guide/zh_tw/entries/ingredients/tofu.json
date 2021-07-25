@@ -1,12 +1,12 @@
 {
   "name": "豆腐",
-  "icon": "作物方城市:豆腐",
+  "icon": "croptopia:tofu",
   "category": "croptopia:ingredients",
   "pages": [
     {
       "type": "crafting",
-      "recipe": "作物方城市:豆腐",
-      "text": "Recipe for tofu."
+      "recipe": "croptopia:tofu",
+      "text": "豆腐的製作方法"
     }
   ]
 }
