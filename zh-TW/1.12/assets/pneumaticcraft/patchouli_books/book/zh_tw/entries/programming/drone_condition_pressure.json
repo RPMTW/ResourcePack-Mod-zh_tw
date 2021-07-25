@@ -1,19 +1,19 @@
 {
-  "name": "Drone Condition: Pressure Widget",
+  "name": "無人機條件：壓力",
   "icon": "pneumaticcraft:textures/items/progwidgets/condition_drone_pressure_piece.png",
   "category": "widget_cond",
   "advancement": "pneumaticcraft:programmer",
   "pages": [
     {
       "type": "text",
-      "text": "This is a $(l:programming/conditions)Condition/$ widget.$(p)The $(thing)Drone Condition: Pressure/$ widget allows you to check the $(l:base_concepts/pressure)pressure/$ of this $(l:tools/drone)Drone/$."
+      "text": "這是一個$(l:programming/conditions)條件/$拼圖。$(p)$(thing)無人機條件：壓力/$允許你檢查$(l:tools/drone)無人機/$的$(l:base_concepts/pressure)壓力/$。"
     },
     {
       "type": "image",
       "images": [
         "pneumaticcraft:textures/items/progwidgets/condition_drone_pressure_piece.png"
       ],
-      "text": "$(italic)Drone Condition: Pressure Widget/$"
+      "text": "$(italic)無人機條件：壓力/$"
     }
   ]
 }
