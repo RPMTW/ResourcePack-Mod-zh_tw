@@ -1,53 +1,53 @@
 {
-  "name": "Minigun Ammo",
+  "name": "機槍彈藥",
   "icon": "pneumaticcraft:gun_ammo",
   "category": "\n-工具",
   "advancement": "pneumaticcraft:minigun",
   "pages": [
     {
       "type": "text",
-      "text": "Gun Ammo is used by the $(l:tools/minigun)Minigun/$.$(p)One ammo cartridge holds up to 1000 minigun rounds, depending on the ammo type. Ammo is steadily consumed while the $(item)Minigun/$ is firing, and ammo levels can be seen in the ammo item's tooltip, its durability bar, and (when the minigun is equipped) on the HUD, next to the minigun sight in the centre of the screen."
+      "text": "機槍彈藥被$(l:tools/minigun)加特林機槍/$使用。$(p)取決於彈藥類型，一彈夾的彈藥最高可供 1000 次射擊。開火過程中，彈藥被$(item)加特林機槍/$持續消耗；機槍的彈藥數量可以在機槍的提示文字、耐久條與（手持時）準心旁側的懸浮介面中取得。"
     },
     {
       "type": "text",
       "anchor": "magazine",
-      "text": "Ammo must be inserted into the $(item)Minigun's/$ magazine to be used; it will not be consumed from the player's inventory. $(thing)Sneak+right-click/$ the $(item)Minigun/$ to load ammo into it.$(p)Ammo is consumed from the numbered slots 1-4 in order, but you can $(thing)middle-click/$ a slot to lock it, forcing the $(item)Minigun/$ to consume ammo from that slot only; useful if you have multiple ammo types loaded. $(thing)Middle-click/$ a locked slot to unlock it again."
+      "text": "彈藥需要被裝填至$(item)機槍/$的彈夾；不會自動從玩家物品欄消耗彈藥。使用$(item)加特林機槍/$$(thing)潛行右擊/$以裝載彈藥。$(p)彈藥按照 1-4 欄位的順序消耗，但可以$(thing)中鍵點擊/$某欄位以將其鎖定，使$(item)加特林機槍/$僅使用該槽的彈藥；若裝填有多種彈藥，這一點或許有所幫助。$(thing)中鍵點擊/$被鎖定的欄位以解除鎖定。"
     },
     {
       "type": "spotlight",
       "item": "pneumaticcraft:gun_ammo",
-      "text": "Plain $(item)Gun Ammo/$ has no special capabilities on its own, but has a large cartridge of 1000 rounds.$(p)In addition, it is the only ammo type which can be crafted with $(l:tools/minigun_ammo#potions)Potions/$ to gain their effect."
+      "text": "普通的$(item)機槍彈藥/$自身並不具有特殊屬性，但彈夾裝載 1000 枚彈藥。$(p)此外，其為僅有的可與$(l:tools/minigun_ammo#potions)藥水/$合成以取得其效果的彈藥。"
     },
     {
       "type": "spotlight",
       "item": "pneumaticcraft:gun_ammo_incendiary",
-      "text": "$(item)Incendiary Minigun Ammo/$ has a cartridge size of 500, and will set fire to entities it hits.$(p)It also has a chance to set fire to blocks, so caution is advised!"
+      "text": "$(item)燃燒型機槍彈藥/$的彈夾裝載 500 枚彈藥，並將使被擊中的實體著火。$(p)其有機率使方塊著火，這一點需要注意。"
     },
     {
       "type": "spotlight",
       "item": "pneumaticcraft:gun_ammo_weighted",
-      "text": "$(item)Weighted Minigun Ammo/$ has a cartridge size of 250, and does very high damage, but due to its weight has only 20% of the range of normal ammo."
+      "text": "$(item)重質型機槍彈藥/$的彈夾裝載 250 枚彈藥，並將造成很大傷害；但介於其重量，射擊範圍只有普通彈藥的 20%。"
     },
     {
       "type": "spotlight",
       "item": "pneumaticcraft:gun_ammo_ap",
-      "text": "$(item)Armor-piercing Minigun Ammo/$ has a cartridge size of 250, and is somewhat expensive to craft, but does slightly more damage than regular ammo, and can bypass the armor of targets."
+      "text": "$(item)破甲型機槍彈藥/$的彈夾裝載 250 枚彈藥，且合成配方較為昂貴；但其造成的傷害略高於普通彈藥，且無視護甲的保護。"
     },
     {
       "type": "spotlight",
       "item": "pneumaticcraft:gun_ammo_explosive",
-      "text": "$(item)Explosive Minigun Ammo/$ has a cartridge size of 125. It has a chance to create a small explosion when it hits; beware, this explosion can also injure you. Explosions will not damage terrain $(ttcolor)$(t:See 'B:explosiveAmmoTerrainDamage' in config)by default/$."
+      "text": "$(item)爆炸型機槍彈藥/$的彈夾裝載 125 枚彈藥。在擊中時其將有機率引發小型爆炸；需要注意的是，這一爆炸可能對自身造成傷害。$(ttcolor)$(t:見設定檔案中的 'B:explosiveAmmoTerrainDamage')預設情況下/$，這一爆炸不會破壞地形。"
     },
     {
       "type": "spotlight",
       "item": "pneumaticcraft:gun_ammo_freezing",
-      "text": "$(item)Freezing Minigun Ammo/$ has a cartridge size of 250. It slows targets that it hits, and has a chance to encase them in damaging 'ice'.$(p)It does extra damage against fire-resistant targets, so is an excellent choice for fighting in the $(#800)Nether/$."
+      "text": "$(item)寒冰型機槍彈藥/$的彈夾裝載 250 枚彈藥。其減慢被擊中的目標的移動速度，並有小機率將其困入「冰」中，同時造成傷害。$(p)其對於免疫火焰的生物會造成額外傷害，因此可以作為在$(#800)地獄/$的良好彈藥選擇。"
     },
     {
       "type": "text",
-      "title": "Potion-Tipped Ammo",
+      "title": "塗有藥水的彈藥",
       "anchor": "potions",
-      "text": "You can craft standard minigun ammo with any $(item)Potion/$, and that ammo no longer does physical damage, but has a chance to apply that potion effect to your target.$(p)$(thing)Splash/$ and $(thing)Lingering/$ potions can also be used; they have the expected area effect, but ammo is consumed 3 times as quickly when tipped with splash potions, and 6 times as quickly with lingering potions!"
+      "text": "可以將普通的機槍彈藥與任意$(item)藥水/$合成，從而使其不造成物理傷害，而有機率對擊中目標造成對應的藥水效果。$(p)$(thing)飛濺型/$藥水與$(thing)滯留型/$藥水也可用於合成；其會產生藥水原有的範圍效應，但沾有飛濺型藥水的彈藥消耗速率為普通彈藥的 3 倍，滯留型則為 6 倍！"
     },
     {
       "type": "crafting",
