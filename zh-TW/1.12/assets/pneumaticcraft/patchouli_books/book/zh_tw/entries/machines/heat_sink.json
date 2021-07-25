@@ -1,12 +1,12 @@
 {
-  "name": "Heat Sink",
+  "name": "散熱片",
   "icon": "pneumaticcraft:heat_sink",
   "category": "machines",
   "advancement": "pneumaticcraft:root",
   "pages": [
     {
       "type": "text",
-      "text": "The $(item)Heat Sink/$ is a block used to get rid of $(l:base_concepts/heat)Heat/$.$(p)Be careful, a $(item)Heat Sink/$ hotter than 50°C or colder than -60°C will hurt you when touched!$(p)$(item)Heat Sinks/$ only dissipate heat from the block they're directly connected to. To connect up many $(item)Heat Sinks/$, use $(l:base_concepts/basic_materials#compressed_iron_block)Blocks of Compressed Iron/$ to provide more surfaces."
+      "text": "$(item)散熱片/$是一個用於散發$(l:base_concepts/heat)熱量/$的方塊。$(p)注意：溫度高於 50℃ 或 -60℃ 的$(item)散熱片/$將會在被觸碰時造成傷害！$(p)$(item)散熱片/$僅散發其所直接連接（實心一側）的方塊的熱量。要連接$(item)散熱片/$，使用$(l:base_concepts/basic_materials#compressed_iron_block)壓縮鐵方塊/$提供更多可供散熱片的麵。"
     },
     {
       "type": "image",
@@ -14,16 +14,16 @@
         "pneumaticcraft:textures/patchouli/heat_sinks.png"
       ],
       "border": "true",
-      "text": "$(italic)An $(l:compressors/advanced_liquid_compressor)Advanced Liquid Compressor/$ $(italic)with multiple Heat Sinks/$"
+      "text": "$(italic)附著有多個散熱片的$(l:compressors/advanced_liquid_compressor)高級流體壓縮機/$"
     },
     {
       "type": "text",
-      "title": "Active Cooling",
-      "text": "You can increase the effectiveness of a $(item)Heat Sink/$ by placing it in range of an $(l:tubes/air_grate_module#active_cooling)Air Grate Module/$. The module's range is displayed when you attach it to a $(l:tubes/pressure_tubes)Pressure Tube/$. The cooling effectiveness can be stacked by using multiple Air Grate Modules."
+      "title": "主動散熱",
+      "text": "可以透過將$(item)散熱片/$放置在$(l:tubes/air_grate_module#active_cooling)空氣柵管道模組/$的工作範圍內提高其散熱效率。模組的工作範圍在將其安裝到$(l:tubes/pressure_tubes)壓力管道/$上時顯示。空氣柵管道模組的冷卻加成可以疊加。"
     },
     {
       "type": "crafting",
-      "text": "Creating a Heat Sink",
+      "text": "散熱片的合成表",
       "recipe": "pneumaticcraft:heat_sink"
     }
   ]
