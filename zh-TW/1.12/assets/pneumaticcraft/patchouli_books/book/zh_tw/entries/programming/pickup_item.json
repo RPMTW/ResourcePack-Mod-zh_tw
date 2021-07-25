@@ -1,23 +1,23 @@
 {
-  "name": "Pick Up Items Widget",
+  "name": "撿起物品",
   "icon": "pneumaticcraft:textures/items/progwidgets/item_pick_piece.png",
   "category": "widget_interact",
   "advancement": "pneumaticcraft:programmer",
   "pages": [
     {
       "type": "text",
-      "text": "The $(l:tools/drone)Drone/$ will pick up item entities in the world and put them into its inventory. Keep in mind that any $(l:programming/area)Area/$ widgets connected to this widget will always be interpreted as area type $(thing)Box/$, regardless of the given area type. It's possible to create more complex shapes, though, by using whitelisting/blacklisting of multiple areas."
+      "text": "$(l:tools/drone)無人機/$將撿起世界中的物品掉落物並將其放入其物品欄。注意：無論在$(thing)區域/$拼圖內區域設定為何，任何連接的$(thing)區域/$拼圖都會以長方體模式被處理。儘管如此，通過區域白名單/黑名單仍可創建不同的形狀。"
     },
     {
       "type": "text",
-      "text": "You can add an $(l:programming/item_filter)Item Filter/$ widget to limit which items can be picked up (remember, a blacklist filter is placed on the $(thing)left/$).$(p)This widget is done executing when no items lying on the ground (which pass the item filter) can fit in the Drone's inventory or when there are no items left to pick up."
+      "text": "可以連接$(l:programming/item_filter)物品過濾器/$以限制可以被撿起的物品（記住：黑名單過濾器連接在$(thing)左側/$）。$(p)當（透過物品過濾器的）物品無法再被裝入無人機的內部儲存或沒有剩下的時，結束該拼圖。"
     },
     {
       "type": "image",
       "images": [
         "pneumaticcraft:textures/items/progwidgets/item_pick_piece.png"
       ],
-      "text": "$(italic)Mine. Mine. Mine./$"
+      "text": "$(italic)我的。我的。我的。/$"
     }
   ]
 }
