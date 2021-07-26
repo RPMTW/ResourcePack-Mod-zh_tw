@@ -25,10 +25,10 @@
     "text.autoconfig.craftycuisine.option.cookiesEnabled": "餅乾 啟用",
     "text.autoconfig.craftycuisine.option.baconEnabled": "已啟用培根",
     "text.autoconfig.craftycuisine.option.sushiEnabled": "已啟用壽司",
-    "text.autoconfig.craftycuisine.option.piesEnabled.@Tooltip": "若其他模組新增了派，請禁用這項",
-    "text.autoconfig.craftycuisine.option.cookiesEnabled.@Tooltip": "若其他模組新增了餅乾，請禁用這項",
-    "text.autoconfig.craftycuisine.option.baconEnabled.@Tooltip": "若你不想要培根，請禁用這項",
-    "text.autoconfig.craftycuisine.option.sushiEnabled.@Tooltip": "若你不想要壽司，請禁用這項",
+    "text.autoconfig.craftycuisine.option.piesEnabled.@Tooltip": "若其他模組新增了派，請停用這項",
+    "text.autoconfig.craftycuisine.option.cookiesEnabled.@Tooltip": "若其他模組新增了餅乾，請停用這項",
+    "text.autoconfig.craftycuisine.option.baconEnabled.@Tooltip": "若你不想要培根，請停用這項",
+    "text.autoconfig.craftycuisine.option.sushiEnabled.@Tooltip": "若你不想要壽司，請停用這項",
     "advancements.craftycuisine.turtle_egg.title": "喪心病狂",
     "advancements.craftycuisine.turtle_egg.description": "烹煮並吃下烏龜蛋"
 }
