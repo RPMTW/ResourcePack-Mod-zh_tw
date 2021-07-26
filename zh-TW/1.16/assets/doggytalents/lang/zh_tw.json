@@ -212,7 +212,7 @@
     "modgui.config.general": "一般設定",
     "modgui.config.general.tooltip": "本模組的通用設置",
     "modgui.config.talents": "能力",
-    "modgui.config.talents.tooltip": "啟用/禁用能力",
+    "modgui.config.talents.tooltip": "啟用/停用能力",
     "argument.doggytalents.uuid.format.invalid": "%s 格式錯誤，應該包含4個連接號。",
     "argument.doggytalents.uuid.section.invalid": "%s 包含一或多個無效字元",
     "commands.dogrespawn.uuid.success": "Summoned %s from the dead",
