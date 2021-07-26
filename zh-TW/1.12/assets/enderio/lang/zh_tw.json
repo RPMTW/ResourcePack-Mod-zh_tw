@@ -1310,7 +1310,7 @@
     "enderio.command.config.warn.clientvalue": "在伺服器上設定此值可能沒有任何效果",
     "enderio.command.config.warn.reconnect": "玩家需要重新連接才能感受到改動",
     "enderio.command.config.warn.notsynced": "此值必須同時在用戶端上設定，並不會被同步",
-    "enderio.command.config.warn.unchecked": "對可能值的限制可能會應用",
+    "enderio.command.config.warn.unchecked": "對可能值的限制可能會套用",
     "enderio.command.config.warn.save": "你需要保存設定以保持此改動",
     "_comment_43": "PARSE_ESCAPES",
     "_comment_44": " ^ having this in the first line allows us to use \"\\uXXXX\" escapes in this file",
