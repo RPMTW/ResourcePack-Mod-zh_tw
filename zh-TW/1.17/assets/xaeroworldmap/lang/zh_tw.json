@@ -30,7 +30,7 @@
     "gui.xaero_cancel": "取消",
     "gui.xaero_map_selection": "地圖選擇",
     "gui.xaero_mw_single": "單個模式",
-    "gui.xaero_mw_manual": "菜單",
+    "gui.xaero_mw_manual": "手動",
     "gui.xaero_mw_spawn": "世界重生",
     "gui.xaero_create_new_map": "建立新地圖",
     "gui.xaero_rename": "重新命名",
@@ -103,6 +103,6 @@
     "gui.xaero_right_click_box_map_export": "將地圖匯出成PNG圖檔",
     "gui.xaero_waypoint_backgrounds": "顯示定位點顏色背景",
     "gui.xaero_right_click_map_cant_teleport": "§8無法傳送到這裡...",
-    "gui.xaero_right_click_map_cant_create_waypoint": "§8無法在此設定定位點...",
+    "gui.xaero_right_click_map_cant_create_waypoint": "§8無法在此設定傳送點...",
     "gui.xaero_no_world_map_item_message": "該模組被配置為需要在你的快捷鍵中或快捷欄以下物品:"
 }
