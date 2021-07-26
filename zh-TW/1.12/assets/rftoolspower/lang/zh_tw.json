@@ -1,11 +1,11 @@
 {
-    "item.rftoolspower.power_core1.name": "Power Core (Low)",
-    "item.rftoolspower.power_core2.name": "Power Core (Medium)",
-    "item.rftoolspower.power_core3.name": "Power Core (High)",
-    "tile.rftoolspower.cell1.name": "Powercell (Low)",
-    "tile.rftoolspower.cell2.name": "Powercell (Medium)",
-    "tile.rftoolspower.cell3.name": "Powercell (High)",
-    "tile.rftoolspower.information_screen.name": "Information Screen",
-    "itemGroup.RFToolsPower": "RFTools Power",
-    "message.shiftMessage": "Press Shift"
+    "item.rftoolspower.power_core1.name": "能量核心（低）",
+    "item.rftoolspower.power_core2.name": "能量核心（中）",
+    "item.rftoolspower.power_core3.name": "能量核心（高）",
+    "tile.rftoolspower.cell1.name": "能量單元（低）",
+    "tile.rftoolspower.cell2.name": "能量單元（中）",
+    "tile.rftoolspower.cell3.name": "能量單元（高）",
+    "tile.rftoolspower.information_screen.name": "資訊畫面",
+    "itemGroup.RFToolsPower": "RF工具 能量",
+    "message.shiftMessage": "按住 Shift"
 }
