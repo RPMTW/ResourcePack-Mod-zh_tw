@@ -1,5 +1,5 @@
 {
-    "itemGroup.dimstorage_tab": "存儲空間",
+    "itemGroup.dimstorage_tab": "儲存空間",
     "item.dimstorage.dim_core": "Dimensional Core",
     "item.dimstorage.solid_dim_core": "Solid Dimensional Core",
     "item.dimstorage.dim_wall": "Dimensional Wall",
@@ -31,6 +31,6 @@
     "gui.dimstorage.empty": "空",
     "message.dimstorage.adviceToLink": "@7按 Shift+ 右鍵綁定一個DimChest",
     "message.dimstorage.holdShift": "@7按住 @b@oShift @7為了資訊",
-    "message.dimstorage.changeAutoCollect": "@7按 @b@oShift @7 + 右鍵點擊一個不是DimChest的方塊來啟用/禁用自動收集",
+    "message.dimstorage.changeAutoCollect": "@7按 @b@oShift @7 + 右鍵點擊一個不是DimChest的方塊來啟用/停用自動收集",
     "tooltip.dimstorage.collect": "當您在收集時，表示會將庫存中的所有項目都收集到 %dx%d 區域中"
 }
