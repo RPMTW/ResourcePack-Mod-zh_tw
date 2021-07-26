@@ -27,7 +27,7 @@
     "tooltip.toms_storage.crafting_terminal": "存取與之相鄰的容器。\\自帶合成欄。",
     "tooltip.toms_storage.storage_terminal": "存取與之相鄰的容器。",
     "tooltip.toms_storage.wireless_terminal": "持握時，可從更遠處右擊終端並打開其介面",
-    "tooltip.toms_storage.paint_kit": "潛行右擊方塊以設定偽裝噴塗目標\\右擊可噴塗方塊以應用噴塗",
+    "tooltip.toms_storage.paint_kit": "潛行右擊方塊以設定偽裝噴塗目標\\右擊可噴塗方塊以套用噴塗",
     "tooltip.toms_storage.open_crate": "將其朝向的方塊空間視作一個可存取的物品容器。\\注意：存入物將掉落至該方塊空間",
     "tooltip.toms_storage.inventory_connector": "將所有相鄰的物品容器整合至自身\\使用儲存或合成終端來存取所整合的容器\\使用儲存橋接器可拓展連接面。",
     "tooltip.toms_storage.inventory_proxy": "拓展所指向方塊的麵。\\使用鑽石右擊任義大利麵可使其啟用白名單過濾功能。\\緊貼該面放置一個物品容器（稱為「過濾容器」），並填滿過濾目標物品即可。\\過濾容器中留空的欄位將允許任何物品。欄位中的物品數量決定單槽最大堆疊數。\\重新命名過濾容器可進行進一步設定。\\格式：<key>=[value],[key2]=[value2],...\\選項：",
