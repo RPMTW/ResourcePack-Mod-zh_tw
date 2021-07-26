@@ -32,7 +32,7 @@
     "imm_ptl.command.make_portal.success": "創建 %sx%s 傳送門 %s%s -> %s%s",
     "imm_ptl.command.tpme.success": "已傳送自己至 %s",
     "imm_ptl.command.tp.success": "已傳送 %d 個實體至 %s",
-    "imm_ptl.laggy": "由於過於卡當，渲染了少些傳送門。（這項設定可以在配置中被禁用）",
+    "imm_ptl.laggy": "由於過於卡當，渲染了少些傳送門。（這項設定可以在配置中被停用）",
     "imm_ptl.pure_mirror": "Pure Mirror",
     "imm_ptl.portal_gen": "自訂傳送門生成",
     "imm_ptl.not_pointing_portal": "你並未指定任何傳送門",
