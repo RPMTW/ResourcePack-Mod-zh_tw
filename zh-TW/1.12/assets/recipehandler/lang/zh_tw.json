@@ -21,7 +21,7 @@
     "commands.recipes.match_empty": "配方 %1$s 與空白區域匹配",
     "commands.recipes.match_error": "正在匹配合成表 %1$s 時遇到致命錯誤",
     "commands.recipes.container.true": "以下容器被檢測出有合成空間: %1$s",
-    "commands.recipes.container.false": "以下物品被停用合成：%1$s",
+    "commands.recipes.container.false": "以下物品被禁用合成：%1$s",
     "commands.recipes.furnace": "有 %d 個熔爐配方變化了",
     "commands.recipes.dump.page": "第 %1$d 頁，共 %2$d 頁",
     "commands.recipes.dump.next": "點擊顯示第 %1$d 頁"
