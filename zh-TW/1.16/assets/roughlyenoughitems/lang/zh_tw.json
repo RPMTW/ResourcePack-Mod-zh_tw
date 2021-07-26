@@ -1,7 +1,7 @@
 {
     "key.rei.category": "REI（在「設定」頁面上設置快捷鍵）",
     "text.rei.cheating": "作弊",
-    "text.rei.cheating_disabled": "§7作弊已禁用",
+    "text.rei.cheating_disabled": "§7作弊已停用",
     "text.rei.cheating_enabled": "§c作弊已啟用",
     "text.rei.cheating_limited_enabled": "§b作弊已啟用 (使用指令)",
     "text.rei.cheating_enabled_no_perms": "§7作弊已§c啟用§7 (無權限)",
@@ -176,7 +176,7 @@
     "config.roughlyenoughitems.search.modSearch": "模組搜尋 (@):",
     "config.roughlyenoughitems.search_mode.always": "總是啟用",
     "config.roughlyenoughitems.search_mode.prefix": "使用字首時",
-    "config.roughlyenoughitems.search_mode.never": "總是禁用",
+    "config.roughlyenoughitems.search_mode.never": "總是停用",
     "config.roughlyenoughitems.layout.debugRenderTimeRequired": "物品列表除錯模式：",
     "config.roughlyenoughitems.search.debugSearchTimeRequired": "搜尋除錯模式：",
     "config.roughlyenoughitems.accessibility.resizeDynamically": "調整大小：",
