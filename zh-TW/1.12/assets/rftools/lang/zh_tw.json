@@ -190,7 +190,7 @@
     "message.rftools.elevator": "\\\n    @f這台機器需要被放置在移動平台\\n\\\n    @f所指向的移動方向水平上的某處。\\n\\\n    @f只有最低層的電梯需要電力\\n\\\n    @e注入加成：降低功耗",
     "message.rftools.rf_monitor": "@f這台設備能監視相鄰機器的 RF \\n@f總量情況（在 GUI 內選擇）。\\n@f它會發出紅石信號如果能量超過\\n@f或小於一定值時。",
     "message.rftools.liquid_monitor": "@f這台設備能監視相鄰機器的流體\\n@f總量情況（在 GUI 內選擇）。\\n@f它會發出紅石信號如果流體超過\\n@f或小於一定值時。",
-    "message.rftools.relay": "@f這台設備可以（基於紅石信號）\\n@f限制能通過它的 RF 總量。\\n@f使用它你就可以降低（甚至禁用）\\n@f一些機器的用電，以防電力不足。",
+    "message.rftools.relay": "@f這台設備可以（基於紅石信號）\\n@f限制能通過它的 RF 總量。\\n@f使用它你就可以降低（甚至停用）\\n@f一些機器的用電，以防電力不足。",
     "message.rftools.composer": "@f這個方塊可以通過組合其他塑形卡片\\n@f來構造更複雜的\\n@f建造機或護盾的塑形卡片",
     "message.rftools.locator": "@f在掃描器的頂部放置這個方塊\\n@f能夠擴展它的功能，使它能夠\\n@f消耗能量來定位實體和機器",
     "message.rftools.projector": "@f這個方塊可以將形狀卡\\n@f的內容投影為全像圖",
