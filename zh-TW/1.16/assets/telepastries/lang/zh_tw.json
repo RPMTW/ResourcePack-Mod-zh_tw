@@ -11,7 +11,7 @@
     "block.telepastries.custom_cake": "%s 蛋糕",
     "telepastries.pastry.reset.complete": "已重置在 %s 維度保存的位置。",
     "telepastries.pastry.reset.failed": "維度 %s 沒有保存過的位置。",
-    "telepastries.pastry.support.disabled": "蛋糕已被禁用，因為你沒有安裝 %s 。",
+    "telepastries.pastry.support.disabled": "蛋糕已被停用，因為你沒有安裝 %s 。",
     "telepastries.pastry.custom.unbound": "Custom Cake has no dimension bound in config ",
     "telepastries.bites": "Cake bites"
 }
