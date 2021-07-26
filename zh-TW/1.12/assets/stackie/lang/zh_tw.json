@@ -1,6 +1,6 @@
 {
     "stackie.general.stacklimit": "堆疊限制",
-    "stackie.general.stacklimit.tooltip": "如果實體超過一定數量，堆疊將被禁用（單個維度）。\nstackie.general.interval.tooltip=每次嘗試堆疊經過的刻度間隔（20個刻度 = > 1秒）。",
+    "stackie.general.stacklimit.tooltip": "如果實體超過一定數量，堆疊將被停用（單個維度）。\nstackie.general.interval.tooltip=每次嘗試堆疊經過的刻度間隔（20個刻度 = > 1秒）。",
     "stackie.general.interval": "時間間隔",
     "stackie.general.distance": "距離",
     "stackie.general.distance.tooltip": "物品，經驗球可以堆疊的最大距離（和方塊材質有關）。",
