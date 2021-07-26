@@ -1,12 +1,12 @@
 {
-  "name": "Yoghurt",
+  "name": "優酪乳",
   "icon": "croptopia:yoghurt",
   "category": "作物方城市:點心",
   "pages": [
     {
       "type": "crafting",
       "recipe": "croptopia:yoghurt",
-      "text": "Recipe for making yoghurt."
+      "text": "製作優酪乳的食譜。"
     }
   ]
 }
