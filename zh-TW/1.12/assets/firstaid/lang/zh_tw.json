@@ -54,7 +54,7 @@
     "firstaid.config.bandage.tooltip": "繃帶物品的設定",
     "firstaid.config.plaster": "石膏",
     "firstaid.config.plaster.tooltip": "石膏物品的設定",
-    "firstaid.config.totalheals": "總治癒\nfirstaid.config.totalheals.tooltip=套用此項時的總治療效果。 1次治癒=半顆心",
+    "firstaid.config.totalheals": "總治癒\nfirstaid.config.totalheals.tooltip=應用此項時的總治療效果。 1次治癒=半顆心",
     "firstaid.config.secondsperheal": "每次治癒秒\nfirstaid.config.secondsperheal.tooltip=一次治療觸發所需的時間。此項目處於活動狀態的總時間=此* totalHeals",
     "firstaid.config.applytime": "使用時間",
     "firstaid.config.applytime.tooltip": "GUI中使用物品所需的時間(以毫秒為單位)",
