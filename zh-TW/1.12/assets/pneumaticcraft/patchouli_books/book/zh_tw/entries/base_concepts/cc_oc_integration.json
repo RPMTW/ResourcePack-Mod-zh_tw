@@ -34,7 +34,7 @@
       "type": "spotlight",
       "anchor": "air_cannon",
       "item": "pneumaticcraft:air_cannon",
-      "text": "$(li)$(#800)setExternalControl(<true/false>)/$：傳參為 true 時，將會禁用使用通常的方式旋轉（插入定位工具，更改範圍升級的數量...）。$(li)$(#800)setTargetLocation(<x>,<y>,<z>)/$：使空氣加農炮指向傳入的坐標，而非在定位工具中儲存的坐標。"
+      "text": "$(li)$(#800)setExternalControl(<true/false>)/$：傳參為 true 時，將會停用使用通常的方式旋轉（插入定位工具，更改範圍升級的數量...）。$(li)$(#800)setTargetLocation(<x>,<y>,<z>)/$：使空氣加農炮指向傳入的坐標，而非在定位工具中儲存的坐標。"
     },
     {
       "type": "text",
