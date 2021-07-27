@@ -1,9 +1,9 @@
 {
-    "key.clienttweaks.disable_step_assist": "Toggle Disable Step Assist",
-    "key.clienttweaks.hide_offhand_item": "Toggle Hide Offhand Item",
+    "key.clienttweaks.disable_step_assist": "切換禁止自動跳躍",
+    "key.clienttweaks.hide_offhand_item": "切換隱藏非慣用手項目",
     "key.categories.clienttweaks": "用戶端調整",
-    "clienttweaks.on": "ON",
-    "clienttweaks.off": "OFF",
+    "clienttweaks.on": "開啟",
+    "clienttweaks.off": "關閉",
     "gui.clienttweaks.mipmapConfirm": "Do you really want to change the mipmap level?",
     "gui.clienttweaks.mipmapWarning": "This can take up to several minutes with many mods installed."
 }
