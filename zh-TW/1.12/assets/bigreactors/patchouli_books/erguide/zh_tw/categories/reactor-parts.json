@@ -1,6 +1,6 @@
 {
-    "name": "Reactor parts",
-    "description": "A Reactor is build using the following parts.$(br2)Some parts are mandatory, some are optional: the part page will specify it along with any other requirement or restriction.",
+    "name": "反應爐部件",
+    "description": "建造一個反應爐使用的部件。$(br2)一些部件是強制的，一些部件是可選的：這個部件頁將會指定任何其他要求或限制。",
     "icon": "bigreactors:reactorcontroller",
     "parent": "bigreactors:reactor",
     "sortnum": 3
