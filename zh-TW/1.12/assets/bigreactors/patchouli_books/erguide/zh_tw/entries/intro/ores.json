@@ -7,32 +7,32 @@
         {
             "type": "spotlight",
             "item": "bigreactors:oreyellorite",
-            "text": "The usual source of fuel that will power your Reactors.$(br2)Yellorite can be found in almost all biomes and can be smelted to produce Yellorium ingots."
+            "text": "這將會是反應爐生產能量所需的燃料來源。$(br2)黃鈾可以在大多數的生態系被找到然後可以被熔煉成黃鈾錠"
         },
         {
             "type": "smelting",
             "recipe": "bigreactors:oreyellorite",
-            "text": "Yellorium, in ingot or block form, can be inserted in an Access Port to be converted into fuel for your Reactor."
+            "text": "黃鈾，在形成錠或者方塊，可以被填入訪問接口被轉換成反應爐燃料"
         },
         {
             "type": "spotlight",
             "item": "bigreactors:orebenitoite",
-            "text": "This ore is only found in the extreme recesses of hell.$(br2)Look's up. Or down."
+            "text": "這個礦物只可以在地獄隱秘處找到。$(br2)抬頭。或者低頭。"
         },
         {
             "type": "spotlight",
             "item": "bigreactors:mineralbenitoite",
-            "text": "Benitoite crystals has some unusual properties that you still haven't found an use for."
+            "text": "藍錐晶體有一些異常特性你还没有找到它的用途。"
         },
         {
             "type": "spotlight",
             "item": "bigreactors:oreanglesite",
-            "text": "You need to reach the end of your journey to find this elusive ore."
+            "text": "你需要在你的旅程抵達終界來找到這種難以預見的礦。"
         },
         {
             "type": "spotlight",
             "item": "bigreactors:mineralanglesite",
-            "text": "The crystals are shiny and pretty, but you still don't know how you could use them to your advantage."
+            "text": "這個晶體很閃亮和漂亮，但是你還不知道如何充分利用它們。"
         }
     ]
 }
