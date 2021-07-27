@@ -40,7 +40,7 @@
     "item.artifacts.everlasting_salmon.name": "Everlasting Raw Salmon",
     "item.artifacts.everlasting_cooked_salmon.name": "Everlasting Cooked Salmon",
     "item.artifacts.everlasting_clownfish.name": "Everlasting Clownfish",
-    "tooltip.artifacts.shiftinfo.name": "<Press shift for more info>",
+    "tooltip.artifacts.shiftinfo.name": "<按Shift獲取更多資訊>",
     "tooltip.artifacts.artemislibinfo.name": "This item requires ArtemisLib to function!",
     "tooltip.artifacts.shiny_red_balloon.name": "Allows the wearer to jump higher",
     "tooltip.artifacts.snorkel.name": "Allows the wearer to breathe underwater",
@@ -67,8 +67,8 @@
     "tooltip.artifacts.tiny_shirt.name": "Shrinks the player when worn",
     "entity.artifacts.mimic.name": "Mimic",
     "entity.artifacts.hallow_star.name": "Hallow Star",
-    "death.attack.artifacts.hallow_star": "%s was hit by falling star",
-    "death.attack.artifacts.hallow_star.player": "%1$s was hit by %2$s's falling star",
+    "death.attack.artifacts.hallow_star": "%s被流星擊中",
+    "death.attack.artifacts.hallow_star.player": "%1$s被%2$s的流星擊中",
     "itemGroup.artifacts.creativetab": "Artifacts",
-    "dungeon.artifacts.underground_chest": "Underground Chest"
+    "dungeon.artifacts.underground_chest": "地下箱子"
 }
