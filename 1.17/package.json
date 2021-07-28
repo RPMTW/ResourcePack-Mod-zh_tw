@@ -8,7 +8,8 @@
     "dotenv": "^9.0.2",
     "mc-curseforge-api": "^2.2.3",
     "node-fetch": "^2.6.1",
-    "request": "^2.88.2"
+    "request": "^2.88.2",
+    "urllib": "^2.37.3"
   },
   "devDependencies": {
     "compressing": "^1.5.1",
