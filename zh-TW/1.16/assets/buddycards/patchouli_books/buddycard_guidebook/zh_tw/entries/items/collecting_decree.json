@@ -1,0 +1,20 @@
+{
+  "flag": "mod:bountiful",
+  "name": "Collecting Decree",
+  "icon": "bountiful:decree",
+  "category": "buddycards:items",
+  "sortnum": 6,
+  "pages": [
+    {
+      "title": "Collecting Decree",
+      "type": "spotlight",
+      "item": "bountiful:decree{ids: {0: {id: \"collector\"}}}",
+      "text": "When you get a Decree from bountiful, there's a chance it can be a Collecting Decree. When placed in a Bounty Board, you can get bounties that will give you stuff from this mod. $(br2)Do note that if other Decrees are on the board, the odds of getting bounties from this decree is extremely low"
+    },
+    {
+      "type": "crafting",
+      "recipe": "bountiful:crafting/decree",
+      "text": "While you can find them in villages, you can also craft them. When you put it in a Bounty Board, you have a chance to get any decree type equally."
+    }
+  ]
+}
