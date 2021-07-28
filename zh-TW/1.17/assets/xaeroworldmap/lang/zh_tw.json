@@ -104,5 +104,10 @@
     "gui.xaero_waypoint_backgrounds": "渲染路徑點背景",
     "gui.xaero_right_click_map_cant_teleport": "§8無法傳送到這裡...",
     "gui.xaero_right_click_map_cant_create_waypoint": "§8無法在此設定傳送點...",
-    "gui.xaero_no_world_map_item_message": "該模組被配置為需要在你的快捷鍵中或快捷欄以下物品:"
+    "gui.xaero_no_world_map_item_message": "該模組被配置為需要在你的快捷鍵中或快捷欄以下物品:",
+    "gui.xaero_right_click_waypoint_share": "Share Waypoint In Chat",
+    "gui.xaero_right_click_map_share_location": "Share Location In Chat",
+    "gui.xaero_right_click_map_cant_share_location": "§8Can't Share This Location...",
+    "gui.xaero_current_map_locked1": "The currently selected map is used by another process (Minecraft client).",
+    "gui.xaero_current_map_locked2": "Please select a different map of this server (bottom left icon)."
 }
