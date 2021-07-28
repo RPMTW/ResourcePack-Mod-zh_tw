@@ -104,5 +104,10 @@
     "gui.xaero_waypoint_backgrounds": "Render Waypoint Backgrounds",
     "gui.xaero_right_click_map_cant_teleport": "§8Can't Teleport Here...",
     "gui.xaero_right_click_map_cant_create_waypoint": "§8Can't Set A Waypoint Here...",
-    "gui.xaero_no_world_map_item_message": "The mod is configured to require the following item in your hotbar or equipped:"
+    "gui.xaero_no_world_map_item_message": "The mod is configured to require the following item in your hotbar or equipped:",
+    "gui.xaero_right_click_waypoint_share": "Share Waypoint In Chat",
+    "gui.xaero_right_click_map_share_location": "Share Location In Chat",
+    "gui.xaero_right_click_map_cant_share_location": "§8Can't Share This Location...",
+    "gui.xaero_current_map_locked1": "The currently selected map is used by another process (Minecraft client).",
+    "gui.xaero_current_map_locked2": "Please select a different map of this server (bottom left icon)."
 }
