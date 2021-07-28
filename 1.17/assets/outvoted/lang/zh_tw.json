@@ -142,5 +142,12 @@
     "text.autoconfig.outvoted.option.common.misc": "Miscellaneous",
     "text.autoconfig.outvoted.option.common.misc.helmetPenalty": "Helmet Penalty",
     "text.autoconfig.outvoted.option.common.misc.helmetPenalty.@Tooltip[0]": "Time (in ticks) it takes in between consuming durability",
-    "text.autoconfig.outvoted.option.common.misc.helmetPenalty.@Tooltip[1]": "Set to 0 to never consume durability"
+    "text.autoconfig.outvoted.option.common.misc.helmetPenalty.@Tooltip[1]": "Set to 0 to never consume durability",
+    "entity.outvoted.ostrich": "Ostrich",
+    "item.outvoted.ostrich_spawn_egg": "Ostrich Spawn Egg",
+    "text.autoconfig.outvoted.option.common.entities.ostrich": "Ostrich",
+    "text.autoconfig.outvoted.option.common.entities.ostrich.spawn": "Enable Spawning",
+    "text.autoconfig.outvoted.option.common.entities.ostrich.rate": "Spawn Weight",
+    "text.autoconfig.outvoted.option.common.entities.ostrich.biomes": "Spawn Biomes",
+    "text.autoconfig.outvoted.option.common.entities.ostrich.health": "Max Health"
 }
