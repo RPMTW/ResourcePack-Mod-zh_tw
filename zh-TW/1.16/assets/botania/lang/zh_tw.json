@@ -2660,7 +2660,7 @@
     "botania.tagline.corporeaFunnel": "利用紅石朝多媒體請求物品",
     "botania.page.corporeaFunnel0": "利用$(thing)多媒體網路$(0)的一個更簡 單的方塊就是$(item)多媒體漏斗$(0)，通 過在上方放置$(item)多媒體火花$(0)接 入網路，通入紅石信號，它會從 網路裡抽取一個物品.$(p)物品會被放入下方1或2格的 容器內，如果容器不存在或已 滿，就會扔到漏斗上方.",
     "botania.page.corporeaFunnel1": "$(item)多媒體漏斗$(0)只能抽取匹配過 濾項的物品，類似$(item)漏斗花$(0)，過濾 項由$(item)物品展示框$(0)內的物品指 定.抽取的物品是多個展示框 內物品中的隨機一個.$(p)旋轉展示框內的物品就能改 變每次請求的數量，不旋轉的話是1，每旋轉一次都 會請求2倍的物品，即2，4，8， 16，32，64.",
-    "botania.page.corporeaFunnel2": "像套用能源一樣",
+    "botania.page.corporeaFunnel2": "像應用能源一樣",
     "botania.entry.corporeaInterceptor": "多媒體攔截器",
     "botania.tagline.corporeaInterceptor": "攔截多媒體請求並發射紅石脈衝",
     "botania.page.corporeaInterceptor0": "$(item)多媒體攔截器$(0)的功能如其名， 它會攔截多媒體請求.首先， 裝有物品的$(item)展示框$(0)要掛在方 塊上，它會決定觸發攔截器的 物品類型.$(p)當請求經由索引或漏斗等進 入網路中時，若對應的物品在 網路中存量不足，該方塊便會 被觸發.",
