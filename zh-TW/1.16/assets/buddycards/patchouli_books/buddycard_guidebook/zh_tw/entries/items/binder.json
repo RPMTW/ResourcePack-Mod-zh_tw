@@ -1,12 +1,12 @@
 {
-  "name": "Buddycard Binder",
+  "name": "夥伴集卡冊",
   "icon": "buddycards:binder.1",
   "category": "buddycards:items",
   "sortnum": 0,
   "pages": [
     {
       "type": "text",
-      "text": "A Buddycard Binder is an easy storage solution for your Buddycards. Each one has 54 card slots that can hold a stack each, and can be expanded with the Extra Page enchantment. $(br2)Depending on the cards you use to craft it, the color of the binder will vary."
+      "text": "夥伴集卡冊是一種簡單的夥伴卡存儲方案。每個集卡冊都有54個卡槽，每個卡槽可以容納一組卡片，並且可以通過 額外頁面 附魔進行擴充。$(br2)根據你用來製作它的卡片，集卡冊的顏色會有所不同。"
     },
     {
       "type": "crafting",
@@ -29,12 +29,12 @@
     },
     {
       "type": "relations",
-      "title": "Binder Enchantments",
+      "title": "集卡冊附魔",
       "entries": [
         "buddycards:enchantments/buddy_binding",
         "buddycards:enchantments/extra_page"
       ],
-      "text": "A Buddycard Binder can also be enchanted with Buddy Binding and Extra Page."
+      "text": "集卡冊可以附魔 夥伴綁定 和 額外頁面 。"
     }
   ]
 }
