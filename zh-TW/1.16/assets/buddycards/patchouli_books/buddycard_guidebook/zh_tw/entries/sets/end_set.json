@@ -6,32 +6,32 @@
   "pages": [
     {
       "type": "text",
-      "text": "The end set of Buddycards is quite difficult to find in vanilla, but quite simple in endgame. There are 27 cards in this set in total, but many more when you consider shiny variants and grades. $(br2)In order to get end set cards, you must find end set packs."
+      "text": "終界系列的夥伴卡在原版中很難找到，但在遊戲尾端中卻很簡單。該系列共有 27 張卡片，但當您考慮閃光卡和不同等級時，還有更多種卡片。$(br2)為了獲得終界系列卡，你必須找到終界系列卡包。"
     },
     {
       "type": "spotlight",
-      "title": "End Set Packs",
+      "title": "終界系列卡包",
       "item": "buddycards:pack.3",
-      "text": "End set packs can be found most commonly by killing the dragon, as he is guaranteed to drop a few. $(br2)You can also find packs when raiding end cities, both in chests and rarely as a drop from shulkers.",
+      "text": "最常見的是透過殺死終界龍獲得終界系列卡包，因為牠必定會掉落一些。$(br2)你也可以在探索終界城時找到卡包，不論是在箱子裡，還是稀有的從界伏蚌掉落。",
       "link_recipe": true
     },
     {
       "type": "spotlight",
-      "title": "End Set Cards",
+      "title": "終界系列卡",
       "item": "buddycards:card.3.4",
-      "text": "The end set packs, as with most packs, will give you 4 cards in total, with only one of them being a shiny variant. $(br2)The cards come in four rarities: common, uncommon, rare, and epic. You can tell them apart by the colors of their corners."
+      "text": "與大多數卡包一樣，終界系列卡包總共會給你 4 張卡片，其中只有一張是閃光卡。$(br2)這些卡片有四種稀有度：普通、罕見、稀有和史詩。 您可以通過角的顏色區分它們。"
     },
     {
       "type": "spotlight",
-      "title": "End Set Cards",
+      "title": "終界系列卡",
       "item": "buddycards:card.3.27{\"foil\":true}",
       "text": "1-12 號牌是普通卡，沒有彩色角，13-21 號是罕見卡，有2個黃色角，22-25 號是稀有卡，有4個藍色角，26和27號是史詩卡，有2個黃色和2個紫色角。閃光卡和非閃光卡稀有度的機率相同。"
     },
     {
       "type": "spotlight",
       "item": "buddycards:medal.3",
-      "title": "End Set Medal",
-      "text": "The end set medal can be earned by getting all 27 cards, shiny and not shiny, of the end set. When equipped, it will give you Resistance I.",
+      "title": "基礎系列 夥伴勳章",
+      "text": "終界系列勳章可以通過獲得獲得系列的所有 27 張卡片（閃光和普通）來獲得。裝備後，它會給你抗性 I。",
       "link_recipe": true
     },
     {
@@ -41,7 +41,7 @@
         "buddycards:enchantments/buddy_binding",
         "buddycards:enchantments/buddy_boost"
       ],
-      "text": "The medal can also be enchanted with Buddy Binding and Buddy Boost. Both levels will clear you of levitation every few seconds, and Buddy Boost II will upgrade your Resistance I to Resistance II."
+      "text": "勳章也可以附魔夥伴綁定和夥伴增益。兩個等級都會每隔幾秒鐘清除你的懸浮效果，夥伴增益 II 會將 抗性I 升級為 抗性II。"
     }
   ]
 }
