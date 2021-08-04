@@ -1,0 +1,20 @@
+{
+    "name": "Crystal Farming",
+    "icon": "prodigytech:energion_crystal_seed",
+    "category": "energion",
+	"advancement": "prodigytech:main/solderer",
+    "pages": [
+        {
+            "type": "text",
+            "text": "$(item)Energion Dust$() can be turned into $(item)Energion Crystal Seeds$() in a $(item)Magnetic Reassembler$(). These seeds can then be planted on the ground and will slowly grow over time, yielding more $(item)Energion Crystal Seeds$().$(br2)Those can then either be replanted or grinded into useable $(item)Energion Dust$()."
+        },
+        {
+            "type": "text",
+            "text": "Those crystals are $(l)HIGHLY DANGEROUS$() once grown, and should $(l)NEVER$() be harvested without the $(item)Crystal Cutter$().$(br2)You can right click a crystal with it to harvest only a stage at a time, or just break it to harvest it all at once.$(br2)Putting Fortune on it increases the yield of grown crystals."
+        },
+        {
+            "type": "crafting",
+            "recipe": "prodigytech:tools/crystal_cutter"
+        }
+    ]
+}
