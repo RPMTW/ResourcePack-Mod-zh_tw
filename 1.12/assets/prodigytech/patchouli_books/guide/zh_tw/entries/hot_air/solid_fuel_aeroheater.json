@@ -1,0 +1,16 @@
+{
+    "name": "Solid Fuel Aeroheater",
+    "icon": "prodigytech:solid_fuel_aeroheater",
+    "category": "hot_air",
+	"advancement": "prodigytech:recipes/ferramic_ingot",
+    "pages": [
+        {
+            "type": "text",
+            "text": "The $(item)Solid Fuel Aeroheater$() burns Furnace fuels to produce its $(thing)Hot Air$(). This one can reach much higher temperatures than the $(item)Magmatic Aeroheater$(), but will require a constant source of fuel to work.$(br2)Fuels can be inserted from any side except the top."
+        },
+        {
+            "type": "crafting",
+            "recipe": "prodigytech:machine/solid_fuel_aeroheater"
+        }
+    ]
+}
