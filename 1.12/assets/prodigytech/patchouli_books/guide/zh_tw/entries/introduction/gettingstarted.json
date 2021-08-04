@@ -1,0 +1,17 @@
+{
+    "name": "Getting Started",
+    "icon": "minecraft:gunpowder",
+    "category": "introduction",
+	"priority": true,
+	"sortnum": -2,
+    "pages": [
+        {
+            "type": "text",
+            "text": "In order to progress in Prodigy Tech, you'll need to make $(item)Ferramic$() in an $(item)Explosion Furnace$().$(br2)First collect a good supply of the required materials : Iron, Sand, Gunpowder and Clay.$(br)Once you have enough of them, you can craft an $(item)Explosion Furnace$() and go to the next entry."
+        },
+        {
+            "type": "crafting",
+            "recipe": "prodigytech:machine/explosion_furnace"
+        }
+    ]
+}
