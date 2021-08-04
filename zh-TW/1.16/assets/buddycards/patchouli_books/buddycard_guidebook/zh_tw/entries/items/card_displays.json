@@ -1,12 +1,12 @@
 {
-  "name": "Card Displays",
+  "name": "卡片展示",
   "icon": "buddycards:oak_card_display",
   "category": "buddycards:items",
   "sortnum": 2,
   "pages": [
     {
       "type": "text",
-      "text": "A card display is a great way to show off your collection. Placable in the world, these displays can store and display 6 cards. $(br2)The card display can be made in all vanilla wood types, but also supports byg wood types."
+      "text": "卡片展示框是展示收藏的好方法。這些展示框可以放置在世界上，可以存儲和展示 6 張卡片。$(br2)卡片展示框可以用所有原版木頭製作，但也支持BGY的木頭。"
     },
     {
       "type": "crafting",
