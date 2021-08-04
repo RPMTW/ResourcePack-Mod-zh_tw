@@ -1,18 +1,18 @@
 {
-  "name": "Ender Binder",
+  "name": "終界集卡冊",
   "icon": "buddycards:ender_binder",
   "category": "buddycards:items",
   "sortnum": 6,
   "pages": [
     {
       "type": "text",
-      "text": "Sometimes you have cards that you don't want to risk anything happening to. The ender binder, much like the ender chest, has the same amount of storage as a normal binder, and will keep your cards safe forever."
+      "text": "有時，有些卡片你不希望他們在冒險中發生任何意外。終界集卡冊就像終界箱一樣，擁有與普通集卡冊相同的卡槽，並且可以讓卡片永遠安全。"
     },
     {
-      "title": "Ender Binder",
+      "title": "終界集卡冊",
       "type": "crafting",
       "recipe": "buddycards:ender_binder",
-      "text": "Even if it is destroyed, you can just make a new one, and it will have your cards in it. Each player has their own inventory in an ender binder only they have access to."
+      "text": "即使它被摧毀了，你也可以製作一本新的，裡面會有你原有的卡片。每個玩家在終界集卡冊中都有自己的卡槽，只有他們自己可以使用。"
     }
   ]
 }
