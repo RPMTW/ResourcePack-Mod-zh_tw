@@ -1,5 +1,5 @@
 {
-  "name": "Deep Luminis",
+  "name": "深色流光",
   "icon": "buddycards:deep_luminis",
   "category": "buddycards:luminis",
   "sortnum": 2,
@@ -7,12 +7,12 @@
     {
       "type": "spotlight",
       "item": "buddycards:deep_luminis_crystal",
-      "text": "Deep luminis is a somewhat rare variant of luminis. It can be found in around 1/33 luminis ores, but it isn't always those odds, as it can vary based on your gear and curios."
+      "text": "深色流光是一種比較罕見的流光變體。挖掘流光礦石時約有1/33的機率出現深色流光，但並不總是那些機率，它會根據您的裝備和飾品而有所不同。"
     },
     {
       "type": "smelting",
       "recipe": "buddycards:deep_luminis",
-      "text": "Just like normal luminis, when smelted, the deep luminis solidifies and begins to give off a glow. While this kind of luminis isn't used in Buddycards, because of it's high concentration of luminis though, it can be used to upgrade buddysteel."
+      "text": "就像普通流光一樣，被熔煉時，深色流光會凝固並開始發出光芒。雖然這種流光不能用於夥伴卡，但由於它具有高濃度的流光，它可以用於升級夥伴鋼。"
     },
     {
       "type": "crafting",
