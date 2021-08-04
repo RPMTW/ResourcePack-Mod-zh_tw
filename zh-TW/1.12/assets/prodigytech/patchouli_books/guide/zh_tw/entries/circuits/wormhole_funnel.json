@@ -1,0 +1,21 @@
+{
+    "name": "Wormhole Funnel",
+    "icon": "prodigytech:wormhole_funnel",
+    "category": "circuits",
+    "advancement": "prodigytech:main/solderer",
+    "pages": [
+        {
+            "type": "text",
+            "text": "The $(item)Wormhole Funnel$() is the only way to transmit $(thing)Hot Air$() horizontally. It can either be placed on top or below a block, and when linked with another $(item)Wormhole Funnel$() in the opposite position they will transmit $(thing)Hot Air$() between eachother.$(br2)$(item)Wormhole Funnels$() can be linked together by using a $(item)Wormhole Linker$()."
+        },
+        {
+            "type": "text",
+            "text": "Right click a $(item)Wormhole Funnel$() then the other to link them.$(br)Once linked you can right click any of the two $(item)Wormhole Funnels$() with anything that's not a block or the $(item)Wormhole Linker$() to show you where the other $(item)Wormhole Funnel$() is.$(br2)A $(item)Wormhole Funnel$() can only be linked to another $(item)Wormhole Funnel$() in the same dimension and less than 8 blocks away on all axis. It also can only be linked to one other $(item)Wormhole Funnel$() at a time."
+        },
+        {
+            "type": "crafting",
+            "recipe": "prodigytech:machine/wormhole_funnel",
+            "recipe2": "prodigytech:tools/wormhole_linker"
+        }
+    ]
+}
