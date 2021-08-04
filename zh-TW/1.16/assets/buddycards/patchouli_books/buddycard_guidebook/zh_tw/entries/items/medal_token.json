@@ -1,5 +1,5 @@
 {
-  "name": "Medal Token",
+  "name": "勳章代幣",
   "icon": "buddycards:medal_token",
   "category": "buddycards:items",
   "sortnum": 3,
@@ -7,12 +7,12 @@
     {
       "type": "crafting",
       "recipe": "buddycards:medal_token",
-      "text": "The medal token can be used to make a new medal, given you have the original medal. If you don't have Buddy Binding on a medal, this is the best way to make sure you don't lose it, as you only ever get 1 medal per set."
+      "text": "勳章代幣可用於製作新的勳章，前提是您擁有原始的勳章。如果您的勳章上沒有好友綁定，這是確保您不會丟失它的最佳方式，因為您每個系列只能獲得 1 枚勳章。"
     },
     {
       "type": "crafting",
       "recipe": "buddycards:medal.1",
-      "text": "To copy a medal, provide the token with the medal you want to copy, and 2 of it's corresponding packs."
+      "text": "要複製勳章，請提供帶有您要複製的勳章的代幣及其相應的 2 個卡包。"
     }
   ]
 }
