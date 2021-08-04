@@ -1,5 +1,5 @@
 {
-  "name": "Grading Luck",
+  "name": "幸運評級",
   "icon": "minecraft:potion{Potion: \"buddycards:grading_luck\"}",
   "category": "buddycards:items",
   "sortnum": 7,
@@ -7,7 +7,7 @@
     {
       "type": "spotlight",
       "item": "minecraft:potion{Potion: \"buddycards:grading_luck\"}",
-      "text": "If you want to boost your odds while grading cards, grading luck will give you a small boost while grading. A potion of grading luck can be made by using Zylex on an akward potion. $(br2)It's believed that the percentage of Zylex in a card determines what grade it gets.",
+      "text": "如果您想在對卡片進行評分時提高機率，則在評分時 幸運評分 會給您帶來小幅的運氣提升。 可以通過在 尷尬藥水 上使用 紫礪 來製作幸運評級藥水。 $(br2)人們認為卡片中紫礪的百分比決定了它的等級。",
       "link_recipe": true
     }
   ]
