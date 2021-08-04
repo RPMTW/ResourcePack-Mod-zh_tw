@@ -1,0 +1,26 @@
+{
+   "name" : "Haze & Weiss Fox",
+   "icon" : "flammpfeil.slashblade:slashbladenamed{ModelName: \"named/sange/sange\",TextureName: \"named/sange/white\"}",
+   "category" : "category_3",
+   "pages" : [
+      {
+         "type" : "text",
+         "text" : "There was a family owned two spirit-infused Ruby Blades. In fact, the family is a Youkai family. To be precise, they are Spirit Foxes.$(br2)One of them is the pioneer of Two-long-blade-wielding Style, but now she is living in seclusion."
+      },
+      {
+         "type" : "text",
+         "text" : "Her Ruby Blade infused with her spirit power, and turned into two Spirit Fox Blades.$(br2)The Haze Fox of Repelling, repels any enemies approaching the owner; The Weiss Fox of Luck, seizes treasures from the enemies.$(br2)She with the two beloved Blades is in seclusion now."
+      },
+      {
+         "type" : "crafting",
+         "recipe" : "flammpfeil.slashblade:flammpfeil.slashblade.named.fox.black",
+         "recipe2" : "flammpfeil.slashblade:flammpfeil.slashblade.named.fox.white"
+      },
+      {
+         "type" : "text",
+         "text" : "If you cannot see the recipe, you may not have Sakura Mod and SJAP Mod installed. But you may use BladeSoul to get the Blade instead.$(br2)If TofuCraftReload Mod is present, something in the recipe will be changed."
+      }
+   ],
+   "advancement":"lastsmith:slashblade_white",
+   "sortnum" : 1
+}
