@@ -1,0 +1,24 @@
+{
+    "name": "Explosion mechanics",
+    "icon": "prodigytech:explosion_furnace",
+    "category": "introduction",
+	"advancement": "prodigytech:main/explosion_furnace",
+    "pages": [
+        {
+            "type": "text",
+            "text": "When given a redstone pulse, the $(item)Explosion Furnace$() will attempt to consume all $(thing)Explosive$() and $(thing)Dampener$() in its slots. If it succesfully did, it will produce an explosion and generate $(thing)Explosive Power$() (or $(thing)EP$()).$(br)The amount of $(thing)EP$() generated is proportional to the amount of $(thing)Explosive$() consumed and depends on which one was used."
+        },
+        {
+            "type": "text",
+            "text": "At the same time, each consumed $(thing)Dampener$() will dampen a certain amount of $(thing)EP$().$(br2)If more $(thing)EP$() is generated than dampened, part of the output will be lost, depending on how much $(thing)EP$() was left undampened.$(br2)If more $(thing)EP$() is dampened than generated, then the excess dampening is substracted from the useable $(thing)EP$(), effectively reducing the number of crafts made."
+        },
+        {
+            "type": "text",
+            "text": "Then, inputs are run top to bottom. If there is enough $(thing)EP$() to process one, it consumes the appropriate amount of $(thing)EP$() and gets processed.$(br)If the recipe requires a $(thing)Reagent$(), it will be consumed appropriately if present. If it's not present, then it will switch to the appropriate $(thing)Reagent$()-less recipe, or skip over the input if there's no matching recipe."
+        },
+        {
+            "type": "text",
+            "text": "$(thing)Explosives$(), $(thing)Dampeners$(), inputs and $(thing)Reagents$() can be inserted from any side by Hoppers and such, and outputs can be extracted from any side as well. If the output slots are full while processing items, the excess items will be thrown in front of the $(item)Explosion Furnace$()."
+        }
+    ]
+}
