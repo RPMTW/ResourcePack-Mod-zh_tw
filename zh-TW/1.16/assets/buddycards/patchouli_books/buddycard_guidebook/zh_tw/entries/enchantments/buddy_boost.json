@@ -1,18 +1,18 @@
 {
-  "name": "Buddy Boost",
+  "name": "夥伴增益",
   "icon": "minecraft:enchanted_book",
   "category": "buddycards:enchantments",
   "sortnum": 1,
   "pages": [
     {
       "type": "text",
-      "text": "A very useful enchantment for upgrading your Buddy Medallions. This enchant affects each medal differently, and you can see what it does under the set pages. Each level will increase the perks given by your Buddy Medal."
+      "text": "對於升級夥伴勳章非常有用的附魔。這個附魔對每種勳章的影響都不同，你可以在設定介面下看到它的作用。每個級別都會增加您的夥伴勳章提供的效果。"
     },
     {
       "type": "spotlight",
-      "title": "Enchant Levels",
+      "title": "附魔等級",
       "item": "minecraft:enchanted_book{Enchantments: [{id:\"buddycards:buddy_boost\", lvl: 2}]}",
-      "text": "Buddy Boost has 2 levels. For Buddy Boost I, you need a level 15 enchanting table, while for Buddy Boost II, you will need a level 30, or maxed out, one."
+      "text": "夥伴增益 有 2 個等級。夥伴增益 I 需要 15 級的附魔台，而夥伴增益 II 需要一個 30 級或滿級的附魔台。"
     }
   ]
 }
