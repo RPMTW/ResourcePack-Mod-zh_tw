@@ -1,18 +1,18 @@
 {
-  "name": "Extra Page",
+  "name": "額外頁面",
   "icon": "minecraft:enchanted_book",
   "category": "buddycards:enchantments",
   "sortnum": 2,
   "pages": [
     {
       "type": "text",
-      "text": "A useful enchant used to increase the size of your Buddycard Binders. Each level will add more card slots to the binder, the first one adding 18, the second adding 42, and the third adding 66. "
+      "text": "一種有用的附魔，用於增加您的夥伴集卡冊的容量。每個等級都會為集卡冊添加更多卡槽，根據等級I / II / III ，分別提升 18 / 42 / 66個卡槽。 "
     },
     {
       "type": "spotlight",
-      "title": "Enchant Levels",
+      "title": "附魔等級",
       "item": "minecraft:enchanted_book{Enchantments: [{id:\"buddycards:extra_page\", lvl: 3}]}",
-      "text": "Extra Page has 3 levels. For Extra Page I, you need a level 10 enchanting table, for Extra Page II, you will need a level 20 one, and for Extra Page III you will need a level 30, or maxed out, one."
+      "text": "額外頁面有 3 個等級。額外頁面 I 需要 10 級的附魔台，額外頁面 II 需要 20 級的附魔台，而額外頁面 III 需要 30 級或滿級的附魔台。"
     }
   ]
 }
