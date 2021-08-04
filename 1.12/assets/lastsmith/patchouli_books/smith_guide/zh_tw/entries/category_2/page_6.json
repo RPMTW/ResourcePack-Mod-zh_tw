@@ -1,0 +1,60 @@
+{
+   "name" : "Materials of Smithing",
+   "icon" : "lastsmith:materials:3",
+   "category" : "category_2",
+   "pages" : [
+      {
+        "type" : "text",
+         "text" : "Varied types of materials are used in smithing, but the most used ones are wood, bamboo, iron, and steel. They are cheap and used in mass production of katana.$(br)Other materials are used for making Blade sets, gold ingot for example."
+      },
+      {
+        "type" : "spotlight",
+        "item" : "flammpfeil.slashblade:proudsoul:0",
+         "text" : "Weild your blade and slash your enemies, and your Blade will get Spirits of Proud.$(br2)When the Blade breaks, the Spirits of Proud condense into an immortal flame, attaching on the remains of the Blade, which is the so-called ProudSoul. It can be shaped into many variants, such as ProudSoul Ingot and ProudSoul Sphere."
+      },
+      {
+        "type" : "spotlight",
+        "item" : "flammpfeil.slashblade:proudsoul:5",
+         "text" : "There is a special form of ProudSoul called BladeSoulTrapezohedron, which is the most special.$(br)Put your Blade on the Bladestand, and immerse them in fire. Then, strike the Blade with BladeSoul Crystal, and it will condense into BladeSoulTrapezohedron. It is said to have the ability to make a Blade recognize its owner."
+      },
+      {
+        "type" : "spotlight",
+        "item" : "lastsmith:materials:3",
+         "text" : "Slay your enemies with Blade, and some petals of Spirit Sakura will drop.$(br2)After the war between human and the devils began, Sakura's petal will drop when one side of a duel is killed."
+      },
+      {
+         "type" : "spotlight",
+         "item" : "lastsmith:materials:3",
+         "text" : "It is said that it was the suicide of the Sakura Blade's owner that caused the dropping of Spirit Sakura.$(br2)Collect The petals of Spirit Sakura, and use them to smith Blades infused with Spirit power."
+      },
+      {
+         "type" : "crafting",
+         "recipe" : "flammpfeil.slashblade:ps_tiny2soul",
+         "recipe2" : "flammpfeil.slashblade:ps_soul2tiny"
+      },
+      {
+         "type" : "crafting",
+         "recipe" : "flammpfeil.slashblade:ps_soul2ingot",
+         "recipe2" : "flammpfeil.slashblade:ps_tiny2ingot"
+      },
+      {
+         "type" : "crafting",
+         "recipe" : "lastsmith:full_sakura",
+         "recipe2" : "lastsmith:sakura_ingot"
+      },
+      {
+         "type" : "crafting",
+         "recipe" : "lastsmith:sakura_steel_block"
+      },
+      {
+         "type" : "smelting",
+         "recipe" : "flammpfeil.slashblade:proudsoul:1",
+         "recipe2" : "lastsmith:sakura_steel_block"
+      },
+      {
+         "type" : "relations",
+         "entries" :["lastsmith:category_2/page_1","lastsmith:category_2/page_2","lastsmith:category_2/page_3","lastsmith:category_2/page_4","lastsmith:category_2/page_5"]
+      }
+   ],
+   "sortnum" : 5
+}
