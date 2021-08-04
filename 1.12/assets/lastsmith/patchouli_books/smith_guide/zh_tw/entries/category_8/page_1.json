@@ -1,0 +1,24 @@
+{
+   "name" : "Advanced Blade Smithing",
+   "icon" : "lastsmith:handmade_white",
+   "category" : "category_8",
+   "pages" : [
+      {
+         "type" : "text",
+         "text" : "Blade Smithing Association is a group founded by smiths from all races.$(br)Meanwhile, it is the place where swordsman of Sword of Logos receive their Blades.$(br2)Only those smiths who are able to design and smith their own Blade can be titled a \"Smith\" and eligible to be a member of the Blade Smithing Association. While I am one of the main members of the Association."
+      },
+      {
+         "type" : "text",
+         "text" : "I have explained how to smith blades in the previous episodes, and I will not repeat it.$(br2)After a Blade is smithed, you should make a Sheath to protect it.$(br)Make a Wooden Sheath then equip your Blade with it, then you will get a White Sheath of your own. Your Blade will then get a Coat of Arms of the Blade Smithing Association. It means you have successfully joined the Association."
+      },
+      {
+         "type" : "crafting",
+         "recipe" : "lastsmith:handmade_white"
+      },
+      {
+         "type" : "relations",
+         "entries" :["lastsmith:category_2/page_1","lastsmith:category_2/page_2","lastsmith:category_2/page_3","lastsmith:category_2/page_4","lastsmith:category_2/page_5","lastsmith:category_2/page_6"]
+      }
+   ],
+   "sortnum" : 0
+}
