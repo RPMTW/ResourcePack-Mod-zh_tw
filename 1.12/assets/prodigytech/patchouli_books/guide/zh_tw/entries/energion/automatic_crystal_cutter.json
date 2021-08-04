@@ -1,0 +1,17 @@
+{
+    "name": "Automatic Crystal Cutter",
+    "icon": "prodigytech:automatic_crystal_cutter",
+    "category": "energion",
+	"advancement": "prodigytech:main/solderer",
+    "pages": [
+        {
+            "type": "text",
+            "text": "The $(item)Automatic Crystal Cutter$() is a simple machine to automate your $(thing)Energion Crystal farming$(). Simply power it with $(thing)Hot Air$() and plant a crystal in front of it. When the crystal is fully grown, the $(item)Automatic Crystal Cutter$() will harvest it until it is back at its first stage.$(br2)The result can be extracted from any side except top or bottom."
+        },
+        {
+            "type": "crafting",
+            "recipe": "prodigytech:machine/automatic_crystal_cutter",
+			"text": "Since it is likely each $(item)Automatic Crystal Cutter$() will spend more time being inactive than active, it is possible to stack large amounts of them vertically with the minimum $(thing)Hot Air$() requirements with minimal penalty."
+        }
+    ]
+}
