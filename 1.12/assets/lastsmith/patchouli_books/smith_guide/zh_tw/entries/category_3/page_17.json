@@ -1,0 +1,26 @@
+{
+   "name" : "「剑圣之刃」",
+   "icon" : "flammpfeil.slashblade:slashbladenamed{ModelName: \"named/blademaster/blademaster\",TextureName: \"named/blademaster/greenmist\"}",
+   "category" : "category_3",
+   "pages" : [
+      {
+         "type" : "text",
+         "text" : "在苇原国之外有一名略有名气的武者，自称为剑圣。$(br2)其留下的三振刀，一曰：圣幸刀「绿乃雾」、二曰：侍月刀「炎水薄斩」，三曰：月光樱「吹雪一闪」。$(br2)然而，不过是稍有灵性的刀刃罢了……"
+      },
+      {
+         "type" : "crafting",
+         "recipe" : "flammpfeil.slashblade:flammpfeil.slashblade.named.blademaster.greenmist"
+      },
+      {
+         "type" : "crafting",
+         "recipe" : "flammpfeil.slashblade:flammpfeil.slashblade.named.blademaster.aquablaze"
+      },
+      {
+         "type" : "crafting",
+         "recipe" : "flammpfeil.slashblade:flammpfeil.slashblade.named.blademaster.moonlightcherry"
+      }
+   ],
+   "advancement":"lastsmith:slashblade_white",
+   "flag":"mod:slashblade_addon",
+   "sortnum" : 16
+}
