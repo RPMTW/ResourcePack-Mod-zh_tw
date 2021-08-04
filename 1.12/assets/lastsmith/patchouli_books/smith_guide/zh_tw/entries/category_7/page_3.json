@@ -1,0 +1,18 @@
+{
+   "name" : "Quantum Saber",
+   "icon" : "flammpfeil.slashblade:slashbladenamed{ModelName: \"named/nanosaber/model\", TextureName: \"named/nanosaber/texture_1_on\"}",
+   "category" : "category_7",
+   "pages" : [
+      {
+         "type" : "text",
+         "text" : "Those Kappas showed such a thing to me.$(br)Have Humans outside our world developed such a thing called \"Quantum Technology\"? What is it?$(br)They Kappas discussed enthusiastically about quantum technology. But I could not understand what they said.$(br)It's so light and powerful. Is it quantum technology?"
+      },
+      {
+         "type" : "crafting",
+         "recipe" : "lastsmith:flammpfeil.slashblade.named.quantumsaber"
+      }
+   ],
+   "advancement":"lastsmith:bewitched_blade",
+   "flag":"mod:ic2",
+   "sortnum" : 3
+}
