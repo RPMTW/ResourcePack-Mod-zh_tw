@@ -1,0 +1,27 @@
+{
+   "name" : "Silver BambooLight",
+   "icon" : "flammpfeil.slashblade:slashbladeSilverBambooLight",
+   "category" : "category_2",
+   "pages" : [
+      {
+         "type" : "text",
+         "text" : "Final product of BambooLight Blade are called Silver BambooLight.$(br)Blades, using egg white as glue, are covered with Iron foil or silver foil.$(br2)Laymen will mistake these blades as steel ones, which shows the brilliant technique of Silver BambooLights' smithing."
+      },
+      {
+         "type" : "crafting",
+         "recipe" : "flammpfeil.slashblade:silverlight",
+         "recipe2" : "flammpfeil.slashblade:silverlight2"
+      },
+      {
+         "type" : "spotlight",
+         "item" : "flammpfeil.slashblade:slashbladeWrapper",
+          "text" : "Kill 100 creatures then break the Blade, and it will turn into a mysterious Sheath, which is a necessary to make high-tier Blades."
+      },
+      {
+         "type" : "relations",
+         "entries" :["lastsmith:category_2/page_1","lastsmith:category_2/page_3","lastsmith:category_2/page_5","lastsmith:category_2/page_6"]
+      }
+   ],
+   "advancement":"lastsmith:slashblade_bamboolight",
+   "sortnum" : 3
+}
