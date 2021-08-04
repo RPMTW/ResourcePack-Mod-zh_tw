@@ -1,0 +1,28 @@
+{
+   "name" : "「神威刀」",
+   "icon" : "flammpfeil.slashblade:slashbladenamed{ModelName: \"named/kamuy/kamuy\",TextureName: \"named/kamuy/fire\"}",
+   "category" : "category_4",
+   "pages" : [
+      {
+         "type" : "text",
+         "text" : "在很久很久以前，有一队维护着世界均衡的组织……$(br2)他们保存着三振具有神之力量的刀刃，统称为神威刀……$(br2)这个组织在太阴历起始之年时候被全灭，而三振神威刀也因此不知下落……"
+      },
+      {
+         "type" : "text",
+         "text" : "而根据进一步的考据，实际上神威刀不止有三振，有很多没有注入神之力的“素体神威刀”……$(br2)后来我查阅资料，得到了仿制这些“素体神威刀”的资料和注入神之力的方法。$(br2)并不能与真品相提并论，但是真品早已不知在何处了……"
+      },
+      {
+         "type" : "crafting",
+         "recipe" : "flammpfeil.slashblade:flammpfeil.slashblade.named.kamuy.base",
+         "recipe2" : "flammpfeil.slashblade:flammpfeil.slashblade.named.kamuy.fire"
+      },
+      {
+         "type" : "crafting",
+         "recipe" : "flammpfeil.slashblade:flammpfeil.slashblade.named.kamuy.water",
+         "recipe2" : "flammpfeil.slashblade:flammpfeil.slashblade.named.kamuy.lightning"
+      }
+   ],
+   "advancement":"lastsmith:bewitched_blade",
+   "flag":"mod:slashblade_addon",
+   "sortnum" : 15
+}
