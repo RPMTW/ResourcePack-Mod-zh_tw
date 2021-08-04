@@ -1,0 +1,18 @@
+{
+   "name" : "魂樱之力及邪魔的引导之法",
+   "icon" : "lastsmith:materials:6",
+   "category" : "category_4",
+   "pages" : [
+      {
+         "type" : "text",
+         "text" : "大量叠放的魂樱之钢形成的钢块，经历过烈火的洗礼之后会变为樱之宝珠。$(br2)樱之宝珠聚集着巨量的魂樱之力，而且相当纯粹。$(br2)事实上，其力量之巨大如果驾驭得当，连普通的人类都可以驾驭邪魔而使刀刃沾染邪魔之力脱胎为妖刀……"
+      },
+      {
+         "type" : "spotlight",
+         "item" : "lastsmith:materials:6",
+         "text" : "将自己的刀刃放在铁砧上，用铁锤注入樱之宝珠的力量，完成之时即可脱胎为妖刀……"
+      }
+   ],
+   "advancement":"lastsmith:bewitched_blade",
+   "sortnum" : 16
+}
