@@ -1,0 +1,18 @@
+{
+    "name": "Zorra",
+    "icon": "prodigytech:zorra_sapling",
+    "category": "primordium",
+	"advancement": "prodigytech:main/primordium",
+	"priority": true,
+    "pages": [
+        {
+            "type": "text",
+            "text": "The $(thing)Zorra$() is an artificial breed of tree obtained by putting any sapling through the $(item)Atomic Reshaper$(). Its leaves are razor sharp and can be harvested to make $(item)Zorrasteel$().$(br2)While $(item)Zorra Saplings$() are expensive and the trees don't yield a lot of them, any $(item)Zorra Leaves$() grown from a sapling can absorb the blood of any creature it kills and use it to spread a few blocks."
+        },
+        {
+            "type": "crafting",
+            "recipe": "prodigytech:materials/zorrasteel_raw",
+            "text": "$(item)Raw Zorrasteel Ingots$() then need to be processed in the $(item)Explosion Furnace$() to become useable $(item)Zorrasteel Ingots$()."
+        }
+    ]
+}

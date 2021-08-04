@@ -1,0 +1,17 @@
+{
+    "name": "Energion Aeroheater",
+    "icon": "prodigytech:energion_aeroheater",
+    "category": "energion",
+	"advancement": "prodigytech:main/solderer",
+	"priority": true,
+    "pages": [
+        {
+            "type": "text",
+            "text": "The $(item)Energion Aeroheater$() will be your main use of $(item)Energion Dust$(). Simply insert the dust and it will slowly heat up until it reaches its target temperature of 250°C, allowing it to power the most advanced machines.$(br2)$(item)Energion Dust$() can be automatically inserted from any side but the top."
+        },
+        {
+            "type": "crafting",
+            "recipe": "prodigytech:machine/energion_aeroheater"
+        }
+    ]
+}

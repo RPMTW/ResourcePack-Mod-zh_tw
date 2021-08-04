@@ -1,0 +1,18 @@
+{
+    "name": "Atomic Reshaper",
+    "icon": "prodigytech:atomic_reshaper",
+    "category": "primordium",
+	"advancement": "prodigytech:main/energion_aeroheater",
+	"priority": true,
+	"sortnum": -1,
+    "pages": [
+        {
+            "type": "text",
+            "text": "The $(item)Atomic Reshaper$() can transform materials into other using varying amounts of $(item)Primordium$(). Most notably, it can turn Stone into random raw ores.$(br)Just like the $(item)Primordialis Reactor$() it requires the heat of an $(item)Energion Aeroheater$().$(br2)Items can be inserted/extracted from all sides except the top and bottom."
+        },
+        {
+            "type": "crafting",
+            "recipe": "prodigytech:machine/atomic_reshaper"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "name": "Materials",
+    "icon": "prodigytech:ferramic_gear",
+    "category": "misc",
+    "pages": [
+        {
+            "type": "text",
+            "text": "Various materials used throughout the mod. More pages will unlock as you progress."
+        },
+        {
+            "type": "crafting",
+            "recipe": "prodigytech:materials/ferramic_gear",
+			"advancement": "prodigytech:recipes/ferramic_ingot",
+			"text": "$(item)Ferramic Gears$() are simply gears made of $(item)Ferramic$(), used in various recipes for machines or tools that grind things in some way."
+        },
+        {
+            "type": "crafting",
+            "recipe": "prodigytech:materials/carbon_plate",
+			"advancement": "prodigytech:main/rotary_grinder",
+			"text": "$(item)Carbon Plates$() are plates made of carbon, as their name implies. More advanced machines and contraptions may require a few of those."
+        },
+        {
+            "type": "crafting",
+            "recipe": "prodigytech:materials/enriched_fuel",
+			"advancement": "prodigytech:main/rotary_grinder",
+			"text": "$(item)Enriched Fuel$() is a way to get more efficiency out of Coal, as the result burns more than the sum of its parts."
+        },
+        {
+            "type": "crafting",
+            "recipe": "prodigytech:materials/inferno_fuel",
+			"advancement": "prodigytech:main/rotary_grinder",
+			"text": "$(item)Inferno Fuel$() is an even more efficient Furnace fuel, which can be further refined by more advanced machines into $(item)Inferno Crystals$() then $(item)Aeternus Crystals$()."
+        }
+    ]
+}

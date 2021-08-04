@@ -1,0 +1,16 @@
+{
+    "name": "Food Enricher",
+    "icon": "prodigytech:food_enricher",
+    "category": "circuits",
+	"advancement": "prodigytech:main/solderer",
+    "pages": [
+        {
+            "type": "text",
+            "text": "The $(item)Food Enricher$() makes $(item)Purified Food$() (made with the $(l:hot_air/food_purifier)$(item)Food Purifier$()) more nutritious. More nutritious foods take much longer to process, and it can not improve foods beyond a certain point, but the process can be repeated several times. $(br2)Items can be inserted/extracted from any side except top and bottom."
+        },
+        {
+            "type": "crafting",
+            "recipe": "prodigytech:machine/food_enricher"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "name": "Heat Capacitors",
+    "icon": "prodigytech:heat_capacitor_2",
+    "category": "circuits",
+	"advancement": "prodigytech:main/solderer",
+    "pages": [
+        {
+            "type": "text",
+            "text": "$(item)Heat Capacitors$() are a way to store $(thing)Hot Air$() to be used in a more convenient form. Each tier stores and provides a different target temperature, ranging from just enough to power advanced machines to the full power of the $(item)Tartaric Aeroheater$()."
+        },
+        {
+            "type": "text",
+            "text": "They must charged in a $(item)Heat Accumulator$() in order to be used. This machine needs $(thing)Hot Air$() at least as hot as what the capacitor is going to provide, and unlike other machines does not transmit its $(thing)Hot Air$(). Capacitors can be inserted from any side but the bottom, and can be automatically extracted once fully charged."
+        },
+        {
+            "type": "text",
+            "text": "Once charged, a capacitor can be inserted in the $(item)Capacitor Aeroheater$() where it will provide its target temperature. A $(item)Heat Capacitor$() takes more time to charge than it can last, meaning other $(thing)Aeroheaters$() are still required. However, where those can take minutes to reach their maximum temperature, the $(item)Capacitor Aeroheater$() can do it in mere seconds. Capacitors can be inserted from any isde but the top, and can be automatically extracted once fully depleted."
+        },
+        {
+            "type": "crafting",
+            "recipe": "prodigytech:machine/capacitor_charger",
+            "recipe2": "prodigytech:machine/capacitor_aeroheater"
+        },
+        {
+            "type": "crafting",
+            "recipe": "prodigytech:tools/heat_capacitor_0",
+            "recipe2": "prodigytech:tools/heat_capacitor_1"
+        },
+        {
+            "type": "crafting",
+            "recipe": "prodigytech:tools/heat_capacitor_2",
+            "recipe2": "prodigytech:tools/heat_capacitor_3"
+        }
+    ]
+}

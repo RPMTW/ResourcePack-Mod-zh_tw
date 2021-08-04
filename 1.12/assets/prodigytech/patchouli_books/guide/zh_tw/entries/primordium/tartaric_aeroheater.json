@@ -1,0 +1,17 @@
+{
+    "name": "Tartaric Aeroheater",
+    "icon": "prodigytech:tartaric_aeroheater",
+    "category": "primordium",
+	"advancement": "prodigytech:main/zorra_leaf",
+    "pages": [
+        {
+            "type": "text",
+            "text": "The $(item)Tartaric Aeroheater$() is the most powerful $(thing)Aeroheater$() there is, if you can afford to run it. It burns Furnace fuel alongside $(item)Tartaric Stoker$(), the latter lasting as long as 1 Coal. Fuels are burned faster and faster as it heats up, up to 25x normal burning speed.$(br2)Fuels can be inserted from any side except the top."
+        },
+        {
+            "type": "crafting",
+            "recipe": "prodigytech:machine/tartaric_aeroheater",
+            "recipe2": "prodigytech:materials/tartaric_stoker"
+        }
+    ]
+}

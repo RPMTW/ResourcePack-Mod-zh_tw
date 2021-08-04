@@ -1,0 +1,17 @@
+{
+    "name": "Zorrasteel Tools",
+    "icon": "prodigytech:zorrasteel_sword",
+    "category": "primordium",
+	"advancement": "prodigytech:main/zorra_leaf",
+    "pages": [
+        {
+            "type": "text",
+            "text": "$(item)Zorrasteel$() can be used to make some tools. They are as strong as Diamond and are unbreakable.$(br2)They also cannot receive enchantments the normal ways, for that you'll need a $(item)Zorra Altar$(). This, however, allows them to get enchanted a lot more than mundane tools."
+        },
+        {
+            "type": "crafting",
+            "recipe": "prodigytech:tools/zorrasteel_sword",
+            "recipe2": "prodigytech:tools/zorrasteel_handbow"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Primordialis Reactor",
+    "icon": "prodigytech:primordialis_reactor",
+    "category": "primordium",
+	"advancement": "prodigytech:main/energion_aeroheater",
+	"priority": true,
+	"sortnum": -2,
+    "pages": [
+        {
+            "type": "text",
+            "text": "The $(item)Primordialis Reactor$() is a machine that turns plant matter (like saplings or crops) into $(item)Primordium$(). It requires heat that only an $(item)Energion Aeroheater$() can provide, and will need a lot of infrastructure to work at an acceptable speed.$(br2)Items can be inserted/extracted from all sides except top and bottom."
+        },
+        {
+            "type": "crafting",
+            "recipe": "prodigytech:machine/primordialis_reactor",
+            "text": "Putting different items simultaneously in it will cause it to be both faster and more efficient. 9 different items at once will allow it to require roughly 8x less items and 72x less time than with a single type of item."
+        }
+    ]
+}
