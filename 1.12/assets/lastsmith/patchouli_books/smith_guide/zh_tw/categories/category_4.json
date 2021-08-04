@@ -1,0 +1,7 @@
+{
+   "name" : "Blades that Bewitched",
+   "description" : "These blades are infused with Devil's power.$(br2)If used properly, you can drive Devils' power.$(br2)As a Youkai, we can easily use the devils' power as our own strength.",
+   "icon" : "flammpfeil.slashblade:slashbladenamed{ModelName: \"named/yamato\", TextureName: \"named/yamato\"}",
+   "advancement":"lastsmith:bewitched_blade",
+   "sortnum" : 3
+}
