@@ -1,0 +1,19 @@
+{
+   "name" : "「散华」",
+   "icon" : "flammpfeil.slashblade:slashbladenamed{ModelName: \"named/sange/sange\", TextureName: \"named/sange/sange\"}",
+   "category" : "category_4",
+   "pages" : [
+      {
+         "type" : "text",
+         "text" : "稀世名匠锻造之名刀。$(br)散落于世间之华美，名曰「散华」。$(br2)在凋灵之内，不断为其提供灵力的刀刃……$(br2)众星之力缠绕其身……"
+      },
+      {
+         "type" : "entity",
+         "entity" : "minecraft:wither",
+         "scale" : 1,
+         "text" : "召唤凋灵……斩杀之……"
+      }
+   ],
+   "advancement":"lastsmith:bewitched_blade",
+   "sortnum" : 1
+}
