@@ -1,0 +1,50 @@
+{
+   "name" : "「魂樱之长刀」",
+   "icon" : "flammpfeil.slashblade:slashbladenamed{ModelName: \"named/roukan/model\", TextureName: \"named/roukan/texture\"}",
+   "category" : "category_4",
+   "pages" : [
+      {
+         "type" : "text",
+         "text" : "太阴历，第三轮回，月与冬与水之年，我和一些共同学习锻造的同胞注意到魂樱的力量，并开始尝试利用魂樱之钢锻造刀刃。$(br2)结果是可喜的，魂樱蕴含的灵力之旺盛足以欢喜。$(br2)以魂樱锻造而成的胁差，具有着消灭幽灵的力量，将亡灵就地成佛……"
+      },
+      {
+         "type" : "text",
+         "text" : "此刀被交付给半灵族——魂魄家的家主，根据交付地点被命名为「白楼剑」$(br2)后来，魂魄家的传人接过此剑，又询问我等能否锻造一振长刀为其所用。$(br2)在魂魄家以及西行寺家的共同要求与大天狗的命令之下，召集了我等天狗刀匠与其他族群的刀匠，甚至还有人类，一同开始锻造「魂樱之长刀」"
+      },
+      {
+         "type" : "text",
+         "text" : "我不记得当时都有多少人与妖参与。事实上，人数太多……$(br2)更残酷的现实是，我们失败的次数不可计量……$(br2)而次品中也不缺乏优秀的作品，但无法被他们所赏识……$(br2)最终，以高浓度的魂樱之气凝结的魂樱之钢和各种灵力的附着，一振长刀在试斩时斩下了曾一度认为无法被斩断的物质……"
+      },
+      {
+         "type" : "text",
+         "text" : "「魂樱之长刀」被锻造出来，被命名为「楼观剑」。$(br2)它承载着太多的东西，甚至是人类和妖怪的性命……$(br2)换取来的是多少人世俗的赞赏？又是多少利欲熏心的刀匠的粗劣模仿？$(br2)出现了太多仿制品，甚至是次品的仿制品……$(br2)「观楼剑」……这是他们为这些伪物取的名字……"
+      },
+      {
+          "type" : "text",
+          "text" : "可曾记得魂樱的起源？$(br2)自从人类与邪魔的战争开始之后，落樱便代表着一方生命的终结……魂樱因此而生……$(br2)魂樱说到底，也就是那些死去的灵魂……$(br2)而无论是人类还是妖怪，都只是沉溺于互相厮杀之中……$(br2)我等刀匠不过是给予他们厮杀的力量，但这就是我们的正义……"
+      },
+      {
+          "type" : "text",
+          "text" : "在「魂樱之长刀」完成之日，我定下决心，以魂樱的力量为我族增加实力……$(br2)我要超越这振「魂樱之长刀」……$(br2)独自……"
+      },
+      {
+         "type" : "crafting",
+         "recipe" : "lastsmith:flammpfeil.slashblade.named.kanrou_fake",
+         "recipe2" : "lastsmith:flammpfeil.slashblade.named.kanrou"
+      },
+      {
+         "type" : "crafting",
+         "recipe" : "lastsmith:flammpfeil.slashblade.named.roukan"
+      },
+      {
+         "type" : "crafting",
+         "recipe" : "lastsmith:flammpfeil.slashblade.named.hakurou_fake"
+      },
+      {
+         "type" : "crafting",
+         "recipe" : "lastsmith:flammpfeil.slashblade.named.hakurou"
+      }
+   ],
+   "advancement":"lastsmith:bewitched_blade",
+   "sortnum" : 13
+}
