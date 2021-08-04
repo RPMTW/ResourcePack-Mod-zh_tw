@@ -1,0 +1,24 @@
+{
+   "name" : "Credits",
+   "icon" : "lastsmith:scroll",
+   "category" : "category_1",
+   "pages" : [
+      {
+         "type" : "text",
+         "text" : "The Last Smith Mod is a mod with complete gameplay routine, filled with $(o)LORE$()s and homage elements. It depends on the SlashBlade Mod, but changes it a lot.$(br2)Present by Mysterious Mountain Forging-Shop, a Chinese Minecraft Mod developing team."
+      },
+      {
+         "type" : "text",
+         "text" : "Members of the Team:$(br)Leader: R_Liu$(br)Coder: Syameimaru_Zheng$(br)Project Managers: Syameimaru_Zheng, R_Liu$(br)Gameplay Designers: Syameimaru_Zheng, R_Liu, limuness, GodFox$(br)Texturers and Modelers: Syameimaru_Zheng, R_Liu, YurisCat, GodFox$(br2)Translations: Syameimaru_Zheng, NoNamePlay(Not exactly a member of Team, English translations provider)"
+      },
+      {
+         "type" : "text",
+         "text" : "Credits:$(br)tartaric_acid(Gameplay Video Maker), NoNamePlay(English translation support), 3TUSK(Programming support), limuness"
+      },
+      {
+         "type" : "text",
+         "text" : "Sponsors who donated ￥10 in Aug, 2020:$(br)(Username on afdian.net)$(br2)冰冻长河, Mokou#F00, ZAKU_761, MPS, Achsr$(br2)This list will update when Mod's major update comes."
+      }
+   ],
+   "sortnum" : 1
+}
