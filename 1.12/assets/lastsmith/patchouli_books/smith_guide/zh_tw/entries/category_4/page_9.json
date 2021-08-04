@@ -1,0 +1,34 @@
+{
+   "name" : "山樱「葵」",
+   "icon" : "flammpfeil.slashblade:slashbladenamed{ModelName: \"named/yamazakura/model\",TextureName: \"named/yamazakura/yamazakura_aoi\"}",
+   "category" : "category_4",
+   "pages" : [
+      {
+         "type" : "text",
+         "text" : "事实上，在山樱十二刃锻造的过程中有几名其他地区的刀匠曾偷取一些山樱村的陨铁。$(br2)他们在苇原边境的一处地方，根据其完成的刀试图打造出同等上品的钢刀，准备赐给内府将军。$(br2)他们打造出来了一振钢刀，取名为「葵」"
+      },
+      {
+         "type" : "text",
+         "text" : "刀匠毕竟只是刀匠，不会运用手中的武器……$(br2)察觉事态变化的苇原武者，将他们在路上用他们锻造出来的「葵」杀害并将其带走。$(br2)或许是因为他们的作祟，「葵」也被邪魔所侵染，与陨铁起了反应……$(br2)尽管略逊于神月，毫无疑问也是苇原的一大战力，被一名精英所持有……"
+      },
+      {
+         "type" : "text",
+         "text" : "盗国之战爆发了……$(br2)手持「神月」之人与手持「葵」之人并肩作战，以绝技：樱之流「空间震」击退了不知多少敌兵……$(br2)如同记载一般，我曾见识过那一剑技的真正实力：落下“五月雨”的一刻，空间被切裂开来……$(br2)据我所知，除了邪魔的力量之外，山樱灵力之强盛的原因还在于其落下的陨铁炼制而成的魂樱之钢……"
+      },
+      {
+         "type" : "text",
+         "text" : "苇原国的灭亡，是在短短十几年后……$(br2)手持「神月」之人与手持「葵」之人被暗杀，「神月」与「葵」一并遗失。苇原土产的妖刀就这样消失，只留下了一段史料……$(br2)我认为，山樱刃的遗失属实是一大遗憾。我也只能根据史料的记载来尽可能还原此二刃……$(br2)即便拥有力量，却难以维持安宁……"
+      },
+      {
+         "type" : "entity",
+         "entity" : "minecraft:evocation_illager",
+         "text" : "使用刀击杀，会得到「葵」的仿作……"
+      },
+      {
+         "type" : "crafting",
+         "recipe" : "lastsmith:flammpfeil.slashblade.named.yamazakura.aoi"
+      }
+   ],
+   "advancement":"lastsmith:bewitched_blade",
+   "sortnum" : 8
+}

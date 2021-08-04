@@ -1,0 +1,27 @@
+{
+   "name" : "BambooLight",
+   "icon" : "flammpfeil.slashblade:slashbladeBambooLight",
+   "category" : "category_2",
+   "pages" : [
+      {
+         "type" : "text",
+         "text" : "Smithing BambooLight Blades is a traditional technique in Tomihara.$(br)There are few iron ore sources in Tomihara territory, so bamboo blades become the most common ones in Tomihara$(br2)Even made of bamboo, it is sharp enough to cut through skin."
+      },
+      {
+         "type" : "crafting",
+         "recipe" : "lastsmith:blade_bamboo",
+         "recipe2" : "lastsmith:bamboo_saya"
+      },
+      {
+         "type" : "crafting",
+         "recipe" : "flammpfeil.slashblade:bamboolight",
+         "text" : "These are only the fundamental steps. This Blade can be much more deeply processed."
+      },
+      {
+         "type" : "relations",
+         "entries" : ["lastsmith:category_2/page_1" , "lastsmith:category_2/page_4","lastsmith:category_2/page_6"]
+      }
+   ],
+   "advancement":"lastsmith:root",
+   "sortnum" : 2
+}

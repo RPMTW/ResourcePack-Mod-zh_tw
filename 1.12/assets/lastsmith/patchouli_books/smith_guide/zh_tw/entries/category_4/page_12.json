@@ -1,0 +1,26 @@
+{
+   "name" : "「铁刀木」与「将军木」",
+   "icon" : "flammpfeil.slashblade:slashbladenamed{ModelName: \"named/sagequoia/model\",TextureName: \"named/sagequoia/texture\"}",
+   "category" : "category_4",
+   "pages" : [
+      {
+         "type" : "text",
+         "text" : "我之前有提到，木刀并不适合用来战斗。因为它们非常容易折断。$(br2)然而，有两振木刀是特别的存在：「铁刀木」与「将军木」。"
+      },
+      {
+         "type" : "text",
+         "text" : "「铁刀木」是唯二以木刀为载体的妖刀之一。$(br2)其作为木刀却如图钢刃一般，甚至在渴求钢铁为其修补……$(br2)这也是非常神奇的现象，因为木刀竹刀之流是不容易被沾染妖气的。"
+      },
+      {
+         "type" : "text",
+         "text" : "「将军木」作为冠有将军之名的木刀，有着比「铁刀木」更进一步的灵力的存在。$(br2)神似一名在战场中的大将，是能将自己的力量发挥到极致的木刀。$(br2)着实让我兴趣大增……"
+      },
+      {
+         "type" : "crafting",
+         "recipe" : "flammpfeil.slashblade:tagayasan",
+         "recipe2" : "lastsmith:flammpfeil.slashblade.named.sagequoia"
+      }
+   ],
+   "advancement":"lastsmith:bewitched_blade",
+   "sortnum" : 11
+}

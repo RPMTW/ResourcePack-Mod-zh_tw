@@ -1,0 +1,25 @@
+{
+   "name" : "「不死斩」",
+   "icon" : "flammpfeil.slashblade:slashbladenamed{ModelName: \"named/sekiro/fushigiri\",TextureName: \"named/sekiro/fushigiri\"}",
+   "category" : "category_4",
+   "pages" : [
+       {
+          "type" : "text",
+          "text" : "神话记载，龙神曾给予一些生灵源于自身的力量……$(br2)龙神的不死之力则留给了人类，称之为龙胤；而疾风之力则留给了我等天狗一族……$(br2)太阴历，轮回之始，起始之年，龙神悄然离去并创造了屏障，使得人类与妖怪分隔开来，就这样过去了一个轮回……"
+       },
+       {
+          "type" : "text",
+          "text" : "而据传说，龙神的离去正是因为斩杀不死之刃——不死斩的诞生……$(br2)「拜泪」一名，据称就是取得龙神之泪而得名……$(br2)足以伤害到龙神的赤色大太刀……$(br2)据传还有第二振，名曰「开门」……$(br2)为何这种力量会在人类的手中……"
+       },
+       {
+          "type" : "text",
+          "text" : "龙胤的不死之力如此恐怖，而斩断不死的能力却掌握在持有不死之力者的手中……$(br2)我更是亲眼看见，在赤色大太刀之下那悲惨的景象……$(br2)而如今，它和「楔丸」都在我的手中……$(br2)有一股引力指引着我拔出这振刀，但我并没有这样做……"
+       },
+       {
+          "type" : "crafting",
+          "recipe" : "lastsmith:flammpfeil.slashblade.named.fushikiri"
+       }
+   ],
+   "advancement":"lastsmith:bewitched_blade",
+   "sortnum" : 14
+}

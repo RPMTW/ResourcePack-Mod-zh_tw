@@ -1,0 +1,54 @@
+{
+   "name" : "驱魔之刃与「樱之流」剑术",
+   "icon" : "flammpfeil.slashblade:slashbladenamed{ModelName: \"named/sakura/model\", TextureName: \"named/sakura/texture\"}",
+   "category" : "category_4",
+   "pages" : [
+      {
+         "type" : "text",
+         "text" : "太阴历，第一轮回，日与夏与火之年……$(br)那是我等妖怪未踏出妖怪之山，人类没有侵扰我们安宁的时候……$(br2)在苇原，人类曾与邪魔一族发生了一场惨烈的战争……$(br)邪魔的首领，手持着邪魔刃「修罗」，带领邪魔攻打了人类村落……$(br)人类的驱魔人，手持着驱魔刃与邪魔交战持久……"
+      },
+      {
+         "type" : "text",
+         "text" : "那不仅仅是人类与邪魔的战争。根据史料记载，有的驱魔人甚至一瞬倒戈把利刃刺向了同胞的心脏……$(br2)战斗的激烈程度虽然在现在看来不算激烈，在当时已经关乎种族的命运……$(br2)根据记载，人类当时还能战斗的，只有持有驱魔刃「樱」，驱魔刃「杏」的两人而已……$(br)而剩余驱魔刃的持有者，或倒戈或战死，甚至还能知晓名字的人也屈指可数……"
+      },
+      {
+         "type" : "text",
+         "text" : "持有「樱」之刃的少女剑士——美影，独自一人击退了无数的邪魔，踏入邪魔之城斩杀了邪魔首领「修罗」……$(br2)然而，她却在归乡之后，当众自刎而死……$(br2)我不知道是因为什么，更没有相关的其他记载。但是自那时起，邪魔的力量开始侵染着斩杀过生灵的刀刃……"
+      },
+      {
+         "type" : "text",
+         "text" : "有一个说法是，邪魔源自于人类……$(br)如果当真如此，那么这些邪魔侵染的刀刃也只是恶灵作祟罢了……$(br2)我等妖怪的灵力，是这些作祟的恶灵所不能想象的。$(br2)所以这些妖刀，对我等而言不过是持有着更强劲的力量的刀刃罢了。"
+      },
+      {
+         "type" : "text",
+         "text" : "「樱之流」剑术是驱魔人操纵驱魔之刃的剑术流派，也是我等妖怪为灵活运用妖刀所学习的剑术。$(br)其精髓，是借助刀的灵力释放出强力的一击以击倒邪魔。$(br2)现在被我们常用的两种剑技，「初传」与「落樱」，是樱之流的基础。$(br2)据称，有一种难以被驾驭的剑技「空间震」，不仅仅是需要剑士的强大，对刀灵力的需求也是相当之高……"
+      },
+      {
+         "type" : "crafting",
+         "recipe" : "lastsmith:flammpfeil.slashblade.named.sakura",
+         "text" : "根据史料的记载，我试着还原出它们原本的模样，终究只是仿制……"
+      },
+      {
+         "type" : "crafting",
+         "recipe" : "lastsmith:flammpfeil.slashblade.named.ginkgo",
+         "text" : "根据史料的记载，我试着还原出它们原本的模样，终究只是仿制……"
+      },
+      {
+         "type" : "crafting",
+         "recipe" : "lastsmith:flammpfeil.slashblade.named.yukikage",
+         "text" : "根据史料的记载，我试着还原出它们原本的模样，终究只是仿制……"
+      },
+      {
+         "type" : "crafting",
+         "recipe" : "lastsmith:flammpfeil.slashblade.named.kataware",
+         "text" : "根据史料的记载，我试着还原出它们原本的模样，终究只是仿制……"
+      },
+      {
+         "type" : "crafting",
+         "recipe" : "lastsmith:flammpfeil.slashblade.named.shura",
+         "text" : "根据史料的记载，我试着还原出它们原本的模样，终究只是仿制……$(br2)需要无上利刃的历史……"
+      }
+   ],
+   "advancement":"lastsmith:bewitched_blade",
+   "sortnum" : 6
+}

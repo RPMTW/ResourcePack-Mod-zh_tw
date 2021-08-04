@@ -1,0 +1,16 @@
+{
+   "name" : "Make Your Own Sheath",
+   "icon" : "lastsmith:handmade_saya_0",
+   "category" : "category_8",
+   "pages" : [
+      {
+         "type" : "text",
+         "text" : "The Blade Smithing Association provides you three standard types of Shealth. You may get them from other smiths, or you may make it yourself, which is a good chance of practicing of your smithing skills."
+      },
+      {
+         "type" : "text",
+         "text" : "These three Shealths are respectively called Plain Sheath, Fallen Sakura Sheath and Tri-Thunder Sheath.$(br2)The Plain Sheath is easy to make but has no effects. The Fallen Sakura Sheath has purifying power, white the Tri-Thunder Sheath give the Blade more sharpness.$(br)These 3 Sheath and katanas are also often provided to swordsman of Sword of Logos."
+      }
+   ],
+   "sortnum" : 1
+}

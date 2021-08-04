@@ -1,0 +1,18 @@
+{
+   "name" : "「荧光」",
+   "icon" : "flammpfeil.slashblade:slashbladenamed{ModelName: \"named/fluorescentbar/fluorescentbar\",TextureName: \"named/fluorescentbar/fluorescentbar\"}",
+   "category" : "category_3",
+   "pages" : [
+      {
+         "type" : "text",
+         "text" : "对于那群只会研习剑术的武者来说，“万物皆可为兵刃”。$(br2)所以对于他们而言，这根来自外界的棍子大概是最适合他们的。$(br)事实上，这根棍子不知道为何如此坚固，以至于我用刀试斩的时候把刀折断了。$(br2)好像是叫“日光灯管”吧？我曾经听说过这个东西。"
+      },
+      {
+         "type" : "crafting",
+         "recipe" : "flammpfeil.slashblade:flammpfeil.slashblade.named.fluorescentbar"
+      }
+   ],
+   "advancement":"lastsmith:slashblade_white",
+   "flag":"mod:slashblade_addon",
+   "sortnum" : 12
+}

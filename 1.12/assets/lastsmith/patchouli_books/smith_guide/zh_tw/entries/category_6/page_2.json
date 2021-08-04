@@ -1,0 +1,17 @@
+{
+   "name" : "射命丸政的天云「寒齿」",
+   "icon" : "flammpfeil.slashblade:slashbladenamed{ModelName: \"named/smith/model\", TextureName: \"named/arthurs/texture_zheng\"}",
+   "category" : "category_6",
+   "pages" : [
+      {
+         "type" : "text",
+         "text" : "妖怪之山锻刀铺的技术担当：射命丸政。$(br2)TLS项目的创建人、程序开发、部分美术以及故事设计。$(br2)无名刀匠的身份其实就是这位。所以他的佩刀实际上就是「无念」的另一姿态。$(br2)$(m)事实上让TLS变得这么恶心人也是这位的想法。"
+      },
+      {
+         "type" : "crafting",
+         "recipe" : "lastsmith:flammpfeil.slashblade.named.mmf.zheng"
+      }
+   ],
+   "advancement":"lastsmith:final_blade",
+   "sortnum" : 1
+}

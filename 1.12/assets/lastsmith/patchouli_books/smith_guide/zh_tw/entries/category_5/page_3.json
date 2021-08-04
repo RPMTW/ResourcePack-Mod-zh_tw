@@ -1,0 +1,18 @@
+{
+   "name" : "无神「无刃」",
+   "icon" : "flammpfeil.slashblade:slashbladenamed{ModelName: \"named/kirisaya/kirisaya\", TextureName: \"named/kirisaya/kirisaya\"}",
+   "category" : "category_5",
+   "pages" : [
+      {
+         "type" : "text",
+         "text" : "曾在古书之中见到过这句话：$(br2)斩千敌者，无刃亦可切碎万物……$(br)然代价甚高，非凡夫俗子所能企及……$(br2)这也许只有真正的武者才会理解吧……"
+      },
+      {
+         "type" : "crafting",
+         "recipe" : "flammpfeil.slashblade:flammpfeil.slashblade.named.kirisaya"
+      }
+   ],
+   "advancement":"lastsmith:sharpness",
+   "flag":"mod:slashblade_addon",
+   "sortnum" : 0
+}

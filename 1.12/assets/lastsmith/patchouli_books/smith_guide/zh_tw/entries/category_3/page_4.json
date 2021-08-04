@@ -1,0 +1,29 @@
+{
+   "name" : "Doutanuki",
+   "icon" : "flammpfeil.slashblade:slashbladenamed{ModelName: \"named/muramasa/muramasa\",TextureName: \"named/muramasa/doutanuki\"}",
+   "category" : "category_3",
+   "pages" : [
+      {
+         "type" : "text",
+         "text" : "The Blade, known for its sharpness and hardness, can cut through the ground. The phrase $(o)Cutting through the ground$() means Doutanuki can cut through the katana test props placed on the ground then go straight into the ground.$(br2)Now they become zombies' rusted toys, while I still repaired one, and give it to my younger righteous brother from Inubashiri family."
+      },
+      {
+
+         "type" : "entity",
+         "entity" : "minecraft:zombie{HandItems:[{id:\"flammpfeil.slashblade:slashbladenamed\",Count:1b,Damage:0s,tag:{ModelName: \"named/muramasa/muramasa\",TextureName: \"named/muramasa/sabigatana\"}},{}]}",
+         "text" : "A zombie with the Rust Edge.$(br)Many zombies' Rust Edge lost their sheath, or got broken, or both."
+      },
+      {
+         "type" : "crafting",
+         "recipe" : "flammpfeil.slashblade:recipexx",
+         "recipe2" : "flammpfeil.slashblade:recipex"
+      },
+      {
+         "type" : "crafting",
+         "recipe" : "flammpfeil.slashblade:doutanuki",
+         "text" : "Repaired Doutanuki with its full power."
+      }
+   ],
+   "advancement":"lastsmith:slashblade_bamboolight",
+   "sortnum" : 3
+}

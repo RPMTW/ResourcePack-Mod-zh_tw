@@ -1,0 +1,29 @@
+{
+   "name" : "Kusabimaru",
+   "icon" : "flammpfeil.slashblade:slashbladenamed{ModelName: \"named/sekiro/kusabimaru\",TextureName: \"named/sekiro/kusabimaru\"}",
+   "category" : "category_3",
+   "pages" : [
+       {
+          "type" : "text",
+          "text" : "The Blade of the Ninja who serves the Divine Heir.$(br2)It is entrusted the wish \"Even the Ninja destined to kill, should not abandon his kindness and sympathy which is only a bit left.\"$(br)He killed my fellows with the Blade... And he carried a crimson Tachi behind him."
+       },
+       {
+          "type" : "text",
+          "text" : "The Second Cycle of Lunar Calendar, The year of Sun, Spring and Fire. Tomihara State was pulled down.$(br2)The Divine Heir and his retainer Ninja, broke into the Mysterious Mountain.$(br)I witnessed the power of the crimson Tachi, so-called the Immortal Blade, and the extreme toughness of Kusabimaru, with my own eyes."
+       },
+       {
+          "type" : "text",
+          "text" : "However, the real fear came from the Immortal Power of the Divine Heir, while the Power of Kill the Immortal, was also held by himself...$(br2)The Divine Heir was eventually forced to leave. It is not until they broke in were we Youkai, living in the Mountain, aware of the threat from human beings."
+       },
+       {
+          "type" : "text",
+          "text" : "The Second Cycle of Lunar Calendar, The year of Star, Winter and Water. Some Youkai travelled to the former Tomihara, and saw the prosperity of their smithing industry.$(br2)I travelled there with another group of my fellow in the following year, to learn smithing from human beings."
+       },
+       {
+          "type" : "crafting",
+          "recipe" : "lastsmith:flammpfeil.slashblade.named.kusabimaru"
+       }
+   ],
+   "advancement":"lastsmith:slashblade_white",
+   "sortnum" : 6
+}

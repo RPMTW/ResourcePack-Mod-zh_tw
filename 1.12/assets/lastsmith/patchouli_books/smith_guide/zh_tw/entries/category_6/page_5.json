@@ -1,0 +1,17 @@
+{
+   "name" : "lrsoft的「祭钢刃」",
+   "icon" : "flammpfeil.slashblade:slashbladenamed{ModelName: \"named/arthurs/model_irsort\", TextureName: \"named/arthurs/texture_irsoft\"}",
+   "category" : "category_6",
+   "pages" : [
+      {
+         "type" : "text",
+         "text" : "lrsoft，技术革新的制作者，早期TLS纳米太刀联动代码技术帮助。$(br2)其实他只不过是把纳米太刀的技术先搬运到了高版本，而且现在TLS的纳米太刀和他也没有关系了。$(br2)现在摸鱼中……"
+      },
+      {
+         "type" : "crafting",
+         "recipe" : "lastsmith:flammpfeil.slashblade.named.mmf.lrsoft"
+      }
+   ],
+   "advancement":"lastsmith:final_blade",
+   "sortnum" : 4
+}

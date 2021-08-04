@@ -1,0 +1,27 @@
+{
+   "name" : "魔剑「阎魔刀」",
+   "icon" : "flammpfeil.slashblade:slashbladenamed{ModelName: \"named/yamato\", TextureName: \"named/yamato\"}",
+   "category" : "category_4",
+   "pages" : [
+      {
+         "type" : "text",
+         "text" : "传说中能够斩断空间之刃，斯巴达的遗物。$(br2)被龙所吞噬之后，正在等待Dark Slayer的归来……$(br2)然而，它似乎已经被折断了……"
+      },
+      {
+         "type" : "entity",
+         "entity" : "minecraft:ender_dragon",
+         "scale" : 1.1,
+         "text" : "末影之地的虚无之上，一剑斩断魔龙之尾，断刀自会显现……"
+      },
+      {
+         "type" : "text",
+         "text" : "即便是断刀，拔出之时也需要一定的勇气。$(br2)用耀魂宝珠去修复这振刀，自然它内在的真正力量就会显现……$(br2)这股灵力……是恶魔的力量……"
+      },
+      {
+         "type" : "crafting",
+         "recipe" : "flammpfeil.slashblade:yamato"
+      }
+   ],
+   "advancement":"lastsmith:bewitched_blade",
+   "sortnum" : 0
+}

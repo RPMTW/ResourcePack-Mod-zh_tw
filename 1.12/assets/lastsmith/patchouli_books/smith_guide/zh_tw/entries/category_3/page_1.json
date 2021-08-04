@@ -1,0 +1,18 @@
+{
+   "name" : "Ruby-Nameless-",
+   "icon" : "flammpfeil.slashblade:slashbladenamed{TextureName: \"BambooKatana\"}",
+   "category" : "category_3",
+   "pages" : [
+      {
+         "type" : "text",
+         "text" : "Named after Ruby, the first smith who made the Blade. I recorded the universal recipe of its recent replica.$(br2)Its replica used to be owned by almost everyone, which is a beautiful memory of that period. For many reasons, there are fewer and fewer persons who own the Ruby Blade."
+      },
+      {
+         "type" : "crafting",
+         "recipe" : "flammpfeil.slashblade:wrap.BambooMod.katana",
+         "text" : "If you cannot see the recipe, you may not have Sakura Mod and SJAP Mod installed. But you may use BladeSoul to get the Blade instead."
+      }
+   ],
+   "advancement":"lastsmith:slashblade_white",
+   "sortnum" : 0
+}

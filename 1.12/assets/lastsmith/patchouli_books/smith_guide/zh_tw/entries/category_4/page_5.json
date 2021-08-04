@@ -1,0 +1,28 @@
+{
+   "name" : "「大蛇鄂门」",
+   "icon" : "flammpfeil.slashblade:slashbladenamed{ModelName: \"named/agito\", TextureName: \"named/orotiagito\"}",
+   "category" : "category_4",
+   "pages" : [
+      {
+         "type" : "text",
+         "text" : "「大蛇鄂门」的真品$(br2)稀世名匠的传奇之作，自诞生之日便赢得好评$(br2)在九头大蛇的尾部寻求其身影……"
+      },
+      {
+         "type" : "entity",
+         "entity" : "twilightforest:hydra",
+         "scale" : 1,
+         "text" : "在永恒的暮色之森中，杀死九头大蛇……"
+      },
+      {
+         "type" : "text",
+         "text" : "「大蛇鄂门」的力量与「散华」一致，都是众星之力。$(br2)在为其除锈之前，无法认清其中的奥妙。"
+      },
+      {
+         "type" : "crafting",
+         "recipe" : "flammpfeil.slashblade:agito_ex",
+         "recipe2" : "flammpfeil.slashblade:agito2"
+      }
+   ],
+   "advancement":"lastsmith:bewitched_blade",
+   "sortnum" : 4
+}

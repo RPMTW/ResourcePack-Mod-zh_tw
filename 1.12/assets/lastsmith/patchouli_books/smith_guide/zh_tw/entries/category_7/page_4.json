@@ -1,0 +1,25 @@
+{
+   "name" : "Thousand",
+   "icon" : "flammpfeil.slashblade:slashbladenamed{ModelName: \"named/thousand/model_on\", TextureName: \"named/thousand/texture\"}",
+   "category" : "category_7",
+   "pages" : [
+      {
+         "type" : "text",
+         "text" : "3 months After Zheng's death, Kappas visited me asking about him.$(br2)They felt shocked and pity for his death.$(br2)They showed me the strange Blade. It was a katana without blade."
+      },
+      {
+         "type" : "text",
+         "text" : "They said the Blade stood for the highest technology level, for it was the full form of TLS system.$(br2)When it was switched on, red laser formed its blade.$(br2)They wanted Zheng to help them with its appearance and some other works, but now Zheng was..."
+      },
+      {
+         "type" : "text",
+         "text" : "I named it Thousand. Maybe it should be named so.$(br2)Midoritake"
+      },
+      {
+         "type" : "crafting",
+         "recipe" : "lastsmith:flammpfeil.slashblade.named.thousand"
+      }
+   ],
+   "advancement":"lastsmith:bunshi",
+   "sortnum" : 3
+}

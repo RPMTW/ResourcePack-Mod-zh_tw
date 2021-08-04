@@ -1,0 +1,19 @@
+{
+   "name" : "「风来之刃」",
+   "icon" : "flammpfeil.slashblade:slashbladenamed{ModelName: \"named/wanderer/wanderer\",TextureName: \"named/wanderer/wanderer\"}",
+   "category" : "category_3",
+   "pages" : [
+      {
+         "type" : "text",
+         "text" : "曾经有一名浪人，在世界各处流浪冒险。$(br)其奔赴沙漠之时所携带着的那振刀，被人所目击到出鞘的一瞬。$(br2)极其锋利的刃与电光的闪耀，使人印象深刻，便被轻率的模仿……$(br2)仍在冒险的人与刃，不知现在何处……"
+      },
+      {
+         "type" : "crafting",
+         "recipe" : "flammpfeil.slashblade:flammpfeil.slashblade.named.wanderer",
+         "recipe2" : "flammpfeil.slashblade:flammpfeil.slashblade.named.wanderer.rfblade"
+      }
+   ],
+   "advancement":"lastsmith:slashblade_white",
+   "flag":"mod:slashblade_addon",
+   "sortnum" : 11
+}

@@ -1,0 +1,25 @@
+{
+   "name" : "Bunshi",
+   "icon" : "flammpfeil.slashblade:slashbladenamed{ModelName: \"named/rf_roukan/model\", TextureName: \"named/rf_roukan/texture_on\"}",
+   "category" : "category_7",
+   "pages" : [
+      {
+         "type" : "text",
+         "text" : "TLS system, or Tech-experimental Laser System.$(br2)As a traditional smith, I am not so willing to add such a wierd thing. But I have a good relationship with the Kappas at the foot of the mountain. So I helped them to apply this system on a replica of the Tachi of Spirit Sakura."
+      },
+      {
+         "type" : "text",
+         "text" : "When the system started, I felt it strongly ponunding me. It seems that this system is not so stable, but powerful enough.$(br2)Laser is so powerful. Maybe because laser is not a material object, this Blade becomes so sharp that it cut through steel in a slight touch."
+      },
+      {
+         "type" : "text",
+         "text" : "Its name \"Bunshi\" means the beginning of civilization.$(br2)What is the civilization? The era that producing massive materials with great amount of electrical power? Maybe I cannot understand it now.$(br2)The name of TLS system is given by Kappas. I also cannot understand, in fact."
+      },
+      {
+         "type" : "crafting",
+         "recipe" : "lastsmith:flammpfeil.slashblade.named.roukan_tech"
+      }
+   ],
+   "advancement":"lastsmith:roukan_hakurou",
+   "sortnum" : 0
+}

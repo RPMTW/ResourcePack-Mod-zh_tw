@@ -1,0 +1,86 @@
+{
+   "name" : "Sharpness-White-",
+   "icon" : "flammpfeil.slashblade:slashbladeWhite",
+   "category" : "category_2",
+   "pages" : [
+      {
+         "type" : "text",
+         "text" : "Here are some cheap recipes for mass production katanas. $(br)Demand of Blades has become larger and larger due to the War. We smiths are also busy in making these cheap weapons.$(br2)How ridiculous they are! They think about nothing but killing each other."
+      },
+      {
+         "type" : "crafting",
+         "recipe" : "lastsmith:blade_unfinished",
+         "recipe2" : "lastsmith:blade_2_unfinished"
+      },
+      {
+         "type" : "crafting",
+         "recipe" : "lastsmith:blade_3_unfinished",
+         "recipe2" : "lastsmith:blade_unfinished2"
+      },
+      {
+         "type" : "crafting",
+         "recipe" : "lastsmith:blade_2_unfinished2",
+         "recipe2" : "lastsmith:blade_3_unfinished2"
+      },
+      {
+         "type" : "crafting",
+         "recipe" : "lastsmith:yakibatsuchi",
+         "recipe2" : "lastsmith:blade_unfinished3"
+      },
+      {
+         "type" : "crafting",
+         "recipe" : "lastsmith:blade_2_unfinished3",
+         "recipe2" : "lastsmith:blade_3_unfinished3"
+      },
+      {
+         "type" : "smelting",
+         "recipe" : "lastsmith:blade:9",
+         "recipe2" : "lastsmith:blade:10"
+      },
+      {
+         "type" : "smelting",
+         "recipe" : "lastsmith:blade:11"
+      },
+      {
+         "type" : "crafting",
+         "recipe" : "lastsmith:blade",
+         "recipe2" : "lastsmith:blade_2"
+      },
+      {
+         "type" : "spotlight",
+         "item" : "lastsmith:heatted_blade:0",
+          "text" : "Cool the blade in a Cauldron by right-clicking. You will hear sizzles."
+      },
+      {
+         "type" : "spotlight",
+         "item" : "lastsmith:heatted_blade:1",
+          "text" : "Cool the blade in a Cauldron by right-clicking. You will hear sizzles."
+      },
+      {
+         "type" : "spotlight",
+         "item" : "lastsmith:heatted_blade:2",
+          "text" : "Cool the blade in a Cauldron by right-clicking. You will hear sizzles."
+      },
+      {
+         "type" : "crafting",
+         "recipe" : "lastsmith:blade",
+         "recipe2" : "lastsmith:blade_2"
+      },
+      {
+         "type" : "crafting",
+         "recipe" : "lastsmith:blade_3",
+         "recipe2" : "flammpfeil.slashblade:white"
+      },
+      {
+         "type" : "crafting",
+         "recipe" : "flammpfeil.slashblade:white2",
+         "recipe2" : "flammpfeil.slashblade:white3"
+      },
+      {
+         "type" : "relations",
+         "entries" :["lastsmith:category_2/page_1","lastsmith:category_2/page_5","lastsmith:category_2/page_6"]
+      }
+   ],
+   "advancement":"lastsmith:root",
+   "sortnum" : 1
+}

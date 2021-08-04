@@ -1,0 +1,26 @@
+{
+   "name" : "「竹光」的故事",
+   "icon" : "flammpfeil.slashblade:slashbladenamed{ModelName: \"named/yamato\",TextureName: \"named/bamboolight/bamboo_top\"}",
+   "category" : "category_4",
+   "pages" : [
+      {
+         "type" : "text",
+         "text" : "苇原地区竹林生长茂盛，更有一片竹林被称为“迷途竹林”。$(br2)所以苇原人利用当地的竹林，制作出各种竹刀，其中大量生产的便是竹光刀。$(br2)其中有多少精品与多少劣品，不可计量……"
+      },
+      {
+         "type" : "text",
+         "text" : "上品的竹光刀也算是价格昂贵，即便是今日的苇原地区也是如此。$(br2)这是自然，上品的竹光丝毫不逊于制作一般的钢刃，甚至更加坚韧。$(br2)这就是竹，坚韧而又不失锐利。"
+      },
+      {
+         "type" : "text",
+         "text" : "我曾听过一个传说：一名手持竹光的隐居者住在高山之上，当来犯他的人出现之时，竹光出鞘便斩退来犯之人……$(br2)这个传说其实是真事，但知道内幕的人只有一个：我自己。住在山中的竹刀隐者是我的友人。$(br2)我注意过他的竹刀，它散发着不同寻常的灵力……"
+      },
+      {
+         "type" : "crafting",
+         "recipe" : "lastsmith:flammpfeil.slashblade.named.bamboolight_top",
+         "recipe2" : "lastsmith:flammpfeil.slashblade.named.bamboolight_recluse"
+      }
+   ],
+   "advancement":"lastsmith:bewitched_blade",
+   "sortnum" : 9
+}

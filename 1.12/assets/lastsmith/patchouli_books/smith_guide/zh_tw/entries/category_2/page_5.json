@@ -1,0 +1,28 @@
+{
+   "name" : "Blade sets & Further Smithing",
+   "icon" : "flammpfeil.slashblade:slashblade",
+   "category" : "category_2",
+   "pages" : [
+      {
+         "type" : "text",
+         "text" : "it is not enough for a good samurai to only have a Sharpness White Blade.$(br)Any Blade lover knows that only in its Blade set can a Blade fully shows its excellence.$(br2)If you want a better blade, you may smith a better one to replace the old blade."
+      },
+      {
+         "type" : "spotlight",
+         "item" : "flammpfeil.slashblade:slashbladeWrapper",
+         "text" : "Kill 100 creatures then break the Blade, and it will turn into a mysterious Sheath, which is a necessary to make high-tier Blades."
+      },
+      {
+         "type" : "crafting",
+         "recipe" : "flammpfeil.slashblade:slashblade",
+         "recipe2" : "lastsmith:white_top"
+      },
+      {
+         "type" : "relations",
+         "text" : "At this point you have acknowledged the basic Blade smithing techniques.$(br2)You have become a capable smith. However, practising it over and over again is the only way to improve your skill.$(br)Then I will not teach you anything about smithing. I would like to talk about my stories...",
+         "entries" :["lastsmith:category_2/page_1","lastsmith:category_2/page_2","lastsmith:category_2/page_3","lastsmith:category_2/page_4","lastsmith:category_2/page_6"]
+      }
+   ],
+   "advancement":"lastsmith:slashblade_white",
+   "sortnum" : 4
+}
