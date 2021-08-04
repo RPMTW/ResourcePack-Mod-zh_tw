@@ -771,5 +771,7 @@
     "stat.tombstone.use_disenchantment": "Magic Disenchantments",
     "stat.tombstone.use_vanishing": "Vanishing",
     "stat.tombstone.villager_killed": "Villager Kills",
-    "stat.tombstone.zombify": "Zombified Villagers"
+    "stat.tombstone.zombify": "Zombified Villagers",
+    "tombstone.config.prevent_death_outside_world_border.tooltip": "Prevents death outside the borders of the world",
+    "tombstone.config.prevent_death_outside_build_height.tooltip": "Prevents death outside the build height"
 }
