@@ -1,0 +1,17 @@
+{
+   "name" : "「梨木利亚」",
+   "icon" : "flammpfeil.slashblade:slashbladenamed{ModelName: \"named/arthurs/model_pear\", TextureName: \"named/arthurs/texture_pear\"}",
+   "category" : "category_6",
+   "pages" : [
+      {
+         "type" : "text",
+         "text" : "梨木桑，全名「梨木利亚」，妖怪之山锻刀铺元老成员。$(br2)Minecraft吧现任吧主，MC百科元老成员，当今Minecraft圈的一名重要人物……$(br2)射命丸政除了父母之外最关心的人……$(br2)一度挽救陷入绝望的孩子的人……"
+      },
+      {
+         "type" : "crafting",
+         "recipe" : "lastsmith:flammpfeil.slashblade.named.mmf.limuness"
+      }
+   ],
+   "advancement":"lastsmith:final_blade",
+   "sortnum" : 2
+}
