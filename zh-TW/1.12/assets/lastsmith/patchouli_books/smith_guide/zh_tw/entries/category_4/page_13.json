@@ -1,0 +1,28 @@
+{
+   "name": "亡灵的「镇魂曲」",
+   "icon": "flammpfeil.slashblade:slashbladenamed{ModelName: \"named/scorn/model\",TextureName: \"named/scorn/texture\"}",
+   "category": "category_4",
+   "pages": [
+      {
+         "type": "text",
+         "text": "“在塔中作祟的亡灵啊……”$(br2)“不愿离开自己的遗刃……”$(br2)“它紧紧的握住着这振刀……”$(br2)“在塔中作祟的亡灵啊……”$(br2)“它死后为着刀也不愿安息……”$(br2)“它紧紧的握住着这振刀……”"
+      },
+      {
+         "type": "entity",
+         "entity": "twilightforest:lich",
+         "scale": 1,
+         "text": "在永恒的暮色之森中，夺走Lich的遗刃……"
+      },
+      {
+         "type": "crafting",
+         "recipe2": "lastsmith:flammpfeil.slashblade.named.scorn_sealed"
+      },
+      {
+         "type": "crafting",
+         "recipe": "lastsmith:flammpfeil.slashblade.named.scorn",
+         "text": "“亡灵已灭，而刃则遗留于此……”$(br2)“下一任主人哟，请为它祈求安宁……”"
+      }
+   ],
+   "advancement": "lastsmith:bewitched_blade",
+   "sortnum": 12
+}
