@@ -1,0 +1,19 @@
+{
+   "name" : "「枯石之大刀」",
+   "icon" : "flammpfeil.slashblade:slashbladenamed{ModelName: \"named/dios/dios\", TextureName: \"named/dios/koseki\"}",
+   "category" : "category_4",
+   "pages" : [
+      {
+         "type" : "text",
+         "text" : "被凋灵之力侵蚀的大刀。$(br2)来自于散华和凋灵的共同作用使得这振刀拥有凋灵的力量……$(br2)极有可能反噬自身……"
+      },
+      {
+         "type" : "entity",
+         "entity" : "minecraft:wither",
+         "scale" : 1,
+         "text" : "在耀魂铁锭构筑的刀挂台上安放无铭之刃，召唤凋灵，冲击引起刀刃的共鸣达到进化……"
+      }
+   ],
+   "advancement":"lastsmith:bewitched_blade",
+   "sortnum" : 2
+}
