@@ -1,0 +1,16 @@
+{
+    "name": "Dispersing Extractor",
+    "icon": "prodigytech:dispersing_extractor",
+    "category": "雜項",
+    "advancement": "prodigytech:recipes/ferramic_ingot",
+    "pages": [
+        {
+            "type": "text",
+            "text": "The $(item)Dispersing Extractor$() is similar to the $(item)Linear Extractor$(), but pushes to all 5 sides it is not pulling from.$(br2)Items are pushed in a round-robin fashion stack by stack in a specific order, with the opposite side of the pulling one always being the first one."
+        },
+        {
+            "type": "crafting",
+            "recipe": "prodigytech:machine/dispersing_extractor"
+        }
+    ]
+}
