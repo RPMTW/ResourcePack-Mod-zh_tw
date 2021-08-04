@@ -1,20 +1,20 @@
 {
   "flag": "mod:bountiful",
-  "name": "Collecting Decree",
+  "name": "懸賞板",
   "icon": "bountiful:decree",
   "category": "buddycards:items",
   "sortnum": 6,
   "pages": [
     {
-      "title": "Collecting Decree",
+      "title": "懸賞板",
       "type": "spotlight",
       "item": "bountiful:decree{ids: {0: {id: \"collector\"}}}",
-      "text": "When you get a Decree from bountiful, there's a chance it can be a Collecting Decree. When placed in a Bounty Board, you can get bounties that will give you stuff from this mod. $(br2)Do note that if other Decrees are on the board, the odds of getting bounties from this decree is extremely low"
+      "text": "當你從懸賞板獲得一個懸賞令時，它有可能是一個收集懸賞令。當你把它放進懸賞板時，你可以獲得懸賞，這些收集懸賞會為你提供此模組的獎賞。$(br2)請注意，如果懸賞板內有其他種類的懸賞令，那麼收集懸賞的出現機率將會極低。"
     },
     {
       "type": "crafting",
       "recipe": "bountiful:crafting/decree",
-      "text": "While you can find them in villages, you can also craft them. When you put it in a Bounty Board, you have a chance to get any decree type equally."
+      "text": "雖然可以在村莊中找到它們，但你也可以合成它們。 當你把它放在選賞板時，你有機會平等地獲得任何類型的選賞令。"
     }
   ]
 }
