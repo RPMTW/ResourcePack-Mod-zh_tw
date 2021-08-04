@@ -1,0 +1,16 @@
+{
+    "name": "Blower Furnace",
+    "icon": "prodigytech:blower_furnace",
+    "category": "hot_air",
+    "advancement": "prodigytech:main/aeroheater",
+    "pages": [
+        {
+            "type": "text",
+            "text": "The $(item)Blower Furnace$() is simply a $(thing)Hot Air$() powered Furnace. While it is slower than a normal Furnace on low temperatures, it is much more fuel efficient and can be chained with other machines.$(br2)Items can be inserted/extracted from any side except top and bottom."
+        },
+        {
+            "type": "crafting",
+            "recipe": "prodigytech:machine/blower_furnace"
+        }
+    ]
+}
