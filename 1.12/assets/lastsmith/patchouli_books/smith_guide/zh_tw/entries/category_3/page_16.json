@@ -1,0 +1,18 @@
+{
+   "name" : "型月刀「空の境界」",
+   "icon" : "flammpfeil.slashblade:slashbladenamed{ModelName: \"named/tboen/model\",TextureName: \"named/tboen/texture\"}",
+   "category" : "category_3",
+   "pages" : [
+      {
+         "type" : "text",
+         "text" : "仿两仪式用过的短刃而作。$(br2)并非看穿死线之物。"
+      },
+      {
+         "type" : "crafting",
+         "recipe" : "flammpfeil.slashblade:flammpfeil.slashblade.named.tboen"
+      }
+   ],
+   "advancement":"lastsmith:slashblade_white",
+   "flag":"mod:slashblade_addon",
+   "sortnum" : 15
+}
