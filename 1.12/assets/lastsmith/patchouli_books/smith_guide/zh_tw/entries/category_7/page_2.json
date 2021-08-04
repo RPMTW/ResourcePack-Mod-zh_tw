@@ -1,0 +1,18 @@
+{
+   "name" : "Nano Blade",
+   "icon" : "flammpfeil.slashblade:slashbladenamed{ModelName: \"named/nanosaber/model\", TextureName: \"named/nanosaber/texture_on\"}",
+   "category" : "category_7",
+   "pages" : [
+      {
+         "type" : "text",
+         "text" : "What is it?$(br)Nano Technology? Nano Saber?$(br2)Difficult to understand. But I did see it from Kappas.$(br2)Similar to Bunshi, but it seems not to be so sharp.$(br2)Kappas said this can be massive produced. But I doubt that."
+      },
+      {
+         "type" : "crafting",
+         "recipe" : "lastsmith:flammpfeil.slashblade.named.nanosaber"
+      }
+   ],
+   "advancement":"lastsmith:bewitched_blade",
+   "flag":"mod:ic2",
+   "sortnum" : 2
+}
