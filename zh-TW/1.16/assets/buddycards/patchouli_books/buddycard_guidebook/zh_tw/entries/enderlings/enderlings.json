@@ -6,12 +6,12 @@
   "pages": [
     {
       "type": "text",
-      "text": "Enderlings can be found wandering around rarely with endermen. These young endermen are very friendly and curious, and will not attack you. $(br2)The enderlings will gladly trade cards with you, but be careful not to lose them. There are benifiets to trading with the same enderling a lot."
+      "text": "在終界使者身邊能很稀有的找到遊蕩的終界小販。這些年輕的終界使者非常好奇和友好，而且不會攻擊你。$(br2)終界小販會很樂意交易卡片，但要小心別讓他們走丟了，和同一個終界小販持續交易能得到很多好處。"
     },
     {
       "type": "entity",
       "entity": "buddycards:enderling",
-      "text": "Look at the lil' guy!"
+      "text": "看看那個小傢伙！"
     }
   ]
 }
