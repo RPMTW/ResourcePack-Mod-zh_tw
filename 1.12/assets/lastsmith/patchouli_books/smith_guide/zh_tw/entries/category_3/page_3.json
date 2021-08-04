@@ -1,0 +1,17 @@
+{
+   "name" : "Muramasa the Thousand Crane",
+   "icon" : "flammpfeil.slashblade:slashbladenamed{ModelName: \"named/muramasa/muramasa\",TextureName: \"named/muramasa/muramasa\"}",
+   "category" : "category_3",
+   "pages" : [
+      {
+         "type" : "text",
+         "text" : "Has name $(o)Muramasa$() carved on it, The Blade was made by a smith from Muramasa family. It is named the same as the legendary Bewitched Blade, but not smithed by the same smith. Definitely, they are not the same Blade.$(br2)At that time, Muramasa family is one of the famous families of smiths, and they are even teachers of our Youkai smiths."
+      },
+      {
+         "type" : "crafting",
+         "recipe" : "flammpfeil.slashblade:muramasa"
+      }
+   ],
+   "advancement":"lastsmith:slashblade_white",
+   "sortnum" : 2
+}
