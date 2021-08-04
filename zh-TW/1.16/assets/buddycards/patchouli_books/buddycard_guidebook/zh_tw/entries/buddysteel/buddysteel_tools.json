@@ -1,12 +1,12 @@
 {
-  "name": "Buddysteel Tools",
+  "name": "夥伴鋼工具",
   "icon": "buddycards:buddysteel_axe",
   "category": "buddycards:buddysteel",
   "sortnum": 2,
   "pages": [
     {
       "type": "text",
-      "text": "Just like buddysteel armor, buddysteel gear will become more powerful as you collect more cards. If you have no sets completed, it's as good as iron, but by the time you complete all of them, it will become stronger than even netherite."
+      "text": "就像夥伴鋼盔甲一樣，隨著你收集更多卡片，夥伴鋼工具會變得更加強大。如果你沒有完成收藏，它的性質和鐵一樣，但是當你完成所有收藏時，它會變得比獄髓還要強。"
     },
     {
       "type": "crafting",
@@ -24,11 +24,11 @@
     },
     {
       "type": "relations",
-      "title": "Enchantments",
+      "title": "附魔",
       "entries": [
         "buddycards:enchantments/buddy_binding"
       ],
-      "text": "Because of the cards that helped form the buddysteel, the tools can be enchanted with Buddy Binding, as well as all other enchantments you could enchant other variants of the tool with."
+      "text": "由於夥伴鋼的材料內有夥伴卡，夥伴鋼工具可以附有夥伴綁定以及您期望的所有其他工具附魔。"
     }
   ]
 }
