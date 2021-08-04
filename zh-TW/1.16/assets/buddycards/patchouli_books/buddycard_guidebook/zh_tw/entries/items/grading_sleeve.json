@@ -1,47 +1,47 @@
 {
-  "name": "Grading Sleeve",
+  "name": "評分卡套",
   "icon": "buddycards:grading_sleeve",
   "category": "buddycards:items",
   "sortnum": 4,
   "pages": [
     {
       "type": "text",
-      "text": "Grading Sleeves are not for the casual Buddycard collector. You have been warned. $(br2)Grading Sleeves allow you to grade cards by holding it in your offhand with an ungraded card in your main hand. It will get 1 of 5 grades."
+      "text": "評分卡套不適合休閒的夥伴卡收藏家。你被警告了。$(br2)將評分卡套放在副手上，將未評分的卡片放在主手上，從而對卡片進行評分。 它將獲得 5 個等級中的 1 個。"
     },
     {
       "type": "crafting",
       "recipe": "buddycards:grading_sleeve",
-      "text": "Grading sleeves are relatively cheap, but can also be found naturally in villages, bastions, end cities, shipwrecks, and buried treasures."
+      "text": "評分卡套相對便宜，但也可以在村莊、堡壘、終界城、沉船和埋藏的寶藏中自然找到。"
     },
     {
       "type": "spotlight",
-      "title": "Grade D",
+      "title": "等級 D",
       "item": "buddycards:card.1.1{\"grade\":1}",
-      "text": "Grade D is the most common grade to get when you grade a card. $(br2)These cards are below average quality, and extremely common. Roughly 2/5 cards are grade D."
+      "text": "D 級是對卡片進行評分時最常見的等級。$(br2)這些卡片質量低於平均水平，而且非常普遍。大約 2/5 的卡片是 D 級的。"
     },
     {
       "type": "spotlight",
-      "title": "Grade C",
+      "title": "等級 C",
       "item": "buddycards:card.1.1{\"grade\":2}",
-      "text": "Grade C is the second most common grade to get when you grade a card. $(br2)These cards are average quality, and are quite common. Roughly 8/25 cards are grade C."
+      "text": "C 級是對卡片進行評分時獲得的第二個常見的等級。$(br2)這些卡片質量一般，而且很常見。大約 8/25 張卡片是 C 級。"
     },
     {
       "type": "spotlight",
-      "title": "Grade B",
+      "title": "等級 B",
       "item": "buddycards:card.1.1{\"grade\":3}",
-      "text": "Grade B is one of the more obtainable high quality card grades. $(br2)These cards are above average quality, but not too hard to find. Roughly 9/50 cards are grade B."
+      "text": "B 級是更容易獲得的高質量卡片等級之一。$(br2)這些卡片的質量高於平均水平，但並不難找到。大約 9/50 的卡片是 B 級的。"
     },
     {
       "type": "spotlight",
-      "title": "Grade A",
+      "title": "等級 A",
       "item": "buddycards:card.1.1{\"grade\":4}",
-      "text": "Grade A is a reasonable high quality card to be proud of. $(br2)These cards are almost perfect in quality, and quite hard to find. Roughly 1/10 cards are grade A."
+      "text": " A 級是一張值得驕傲的高質量卡片。$(br2)這些卡的質量幾乎完美，而且很難找到。大約 1/10 的卡片是 A 級。"
     },
     {
       "type": "spotlight",
-      "title": "Grade S",
+      "title": "等級 S",
       "item": "buddycards:card.1.1{\"grade\":5}",
-      "text": "Grade S is the most valuable card grade you can find. Getting one is something to be proud of, and compared to other cards they are priceless. $(br2)These cards are mint condition, perfect quality, and nearly impossible to find with 1/500 cards being this perfect."
+      "text": "S 級是您能找到的最有價值的卡片等級。獲得一張S級卡片是值得驕傲的事情，與其他卡相比，它們是無價之寶。$(br2)這些卡片完好無損，質量完美，幾乎不可能找到，約1/500 的卡片的卡片是如此完美。"
     }
   ]
 }
