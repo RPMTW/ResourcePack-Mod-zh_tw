@@ -1,17 +1,17 @@
 {
-  "name": "Mystery Pack",
+  "name": "神秘卡包",
   "icon": "buddycards:mystery_pack",
   "category": "buddycards:items",
   "sortnum": 1,
   "pages": [
     {
       "type": "text",
-      "text": "Mystery packs are a collectors best friend, turning a pack that would normally only have 4 cards into one with 9. They will always give 9 cards, with 2 of them being shiny variants. The rates are the same as all normal packs. $(br2)Mystery packs are also the only way to get packs that are from unloaded or discontinued mods, since they can give cards from every set."
+      "text": "神秘卡包是卡片收藏家最好的朋友，將通常只有 4 張牌的卡包變成一張有 9 張牌的卡包。總是會提供 9 張卡牌，其中 2 張是閃光卡。機率與所有普通卡包相同。$(br2) 神秘卡包也是從已經解除安裝或已停產的模組中獲得卡片的唯一途徑，因為它們可以提供每個系列的卡片。"
     },
     {
       "type": "crafting",
       "recipe": "buddycards:mystery_pack",
-      "text": "Mystery packs can be quite expensive though, requiring various hard to aquire materials."
+      "text": "然而，神秘卡包非常昂貴，需要各種難以獲得的材料。"
     }
   ]
 }
