@@ -1,21 +1,21 @@
 {
-  "name": "Perfect Buddysteel Gear",
+  "name": "完美夥伴鋼設備",
   "icon": "buddycards:perfect_buddysteel_sword",
   "category": "buddycards:buddysteel",
   "sortnum": 7,
   "pages": [
     {
       "type": "text",
-      "title": "P-Buddysteel Gear",
-      "text": "Perfect Buddysteel gear is a more powerful version of buddysteel gear. It upgrades at the same rate as Buddysteel, but is always one level above it, meaning both it's initial and final power level are more powerful. It is made using a smithing table, buddysteel gear, and a perfect buddysteel ingot."
+      "title": "完美夥伴鋼設備",
+      "text": "完美夥伴鋼設備是夥伴鋼設備的更強大版本。它以與夥伴鋼設備相同的速度升級，但總是比它高一級，這意味著它的初始和最終等級都更強大。它是使用鍛造台、夥伴鋼設備和完美的夥伴鋼錠製成的。"
     },
     {
       "type": "relations",
-      "title": "Enchantments",
+      "title": "附魔",
       "entries": [
         "buddycards:enchantments/buddy_binding"
       ],
-      "text": "Because of the cards that helped form the perfect buddysteel, the armor can be enchanted with Buddy Binding, as well as all other armor enchantments you'd expect."
+      "text": "由於完美夥伴鋼的材料內有夥伴卡，盔甲可以附有夥伴綁定以及您期望的所有其他盔甲附魔。"
     }
   ]
 }
