@@ -1,5 +1,5 @@
 {
-  "name": "Specialty Items",
+  "name": "特殊物品",
   "icon": "buddycards:luminis_medal",
   "category": "buddycards:luminis",
   "sortnum": 3,
@@ -22,7 +22,7 @@
     },
     {
       "type": "relations",
-      "title": "Related Pages",
+      "title": "相關的頁面",
       "entries": [
         "buddycards:buddysteel/perfect_buddysteel_gear",
         "buddycards:enchantments/buddy_binding"
@@ -37,12 +37,12 @@
     },
     {
       "type": "relations",
-      "title": "Medal Enchantments",
+      "title": "勳章附魔",
       "entries": [
         "buddycards:enchantments/buddy_binding",
         "buddycards:enchantments/buddy_boost"
       ],
-      "text": "The medal can also be enchanted with Buddy Binding and Buddy Boost. Buddy Boost I will give you Grading Luck I and Buddy Boost II will give you Grading Luck II."
+      "text": "紫礪勳章也可以附魔夥伴綁定和夥伴增益。 夥伴增益 I 會給你運氣 I 、夥伴增益 II 會給你運氣 II。"
     }
   ]
 }
