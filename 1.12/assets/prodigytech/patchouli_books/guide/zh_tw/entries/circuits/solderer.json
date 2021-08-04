@@ -1,0 +1,36 @@
+{
+    "name": "Solderer",
+    "icon": "prodigytech:solderer",
+    "category": "circuits",
+	"advancement": "prodigytech:main/rotary_grinder",
+	"priority": true,
+    "pages": [
+        {
+            "type": "text",
+            "text": "The $(item)Solderer$() is a machine that can make various $(thing)Circuits$(), which are needed for more advanced machines. It requires too much temperature for a mere $(item)Magmatic Aeroheater$() to fuel it.$(br2)To make a $(thing)Circuit$(), the machine needs $(item)Circuit Plates$(), $(item)Gold Dust$() and an appropriate $(thing)Circuit Pattern$(). The latter will tell which $(thing)Circuit$() will be made."
+        },
+        {
+            "type": "text",
+            "text": "The time spent and the amount of $(thing)Gold$() needed depends on the $(thing)Circuit$() made, and some of them will need an additional item to be consumed.$(br2)The machine needs to melt inserted $(item)Gold Dust$() before being able to use it, which it will do once hot enough."
+        },
+        {
+            "type": "text",
+            "text": "All items will be automatically put in the correct slots when shift clicked or inserted through automation.$(br2)Items can be inserted/extracted from any side except the top and bottom."
+        },
+        {
+            "type": "crafting",
+            "recipe": "prodigytech:machine/solderer",
+            "recipe2": "prodigytech:materials/circuit_plate"
+        },
+        {
+            "type": "crafting",
+            "recipe": "prodigytech:placeholder/pattern_circuit_crude_ini",
+            "recipe2": "prodigytech:placeholder/pattern_circuit_refined"
+        },
+        {
+            "type": "crafting",
+            "recipe": "prodigytech:placeholder/pattern_circuit_perfected",
+            "recipe2": "prodigytech:placeholder/pattern_circuit_crude"
+        }
+    ]
+}
