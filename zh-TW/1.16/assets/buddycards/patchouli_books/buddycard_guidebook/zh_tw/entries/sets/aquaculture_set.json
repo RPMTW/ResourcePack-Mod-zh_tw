@@ -18,7 +18,7 @@
     },
     {
       "type": "crafting",
-      "recipe": "buddycards:aquaculture/buddysteel_fishing_rod\n",
+      "recipe": "buddycards:aquaculture/buddysteel_fishing_rod",
       "text": "獲得水產養殖系列卡包的另一種方法，是使用夥伴鋼釣竿。與其他夥伴鋼裝備一樣，收集的卡片越多，這根釣竿就會提供更好的能力。",
       "link_recipe": true
     },
@@ -45,7 +45,7 @@
       "type": "spotlight",
       "item": "buddycards:medal.6",
       "title": "水產養殖系列 夥伴勳章",
-      "text": "水產養殖系列勳章可以通過獲得獲得系列的所有 27 張卡片（閃光和普通）來獲得。裝備後，它會給你幸運 I。",
+      "text": "水產養殖系列勳章可以通過獲得獲得系列的所有 18 張卡片（閃光和普通）來獲得。裝備後，它會給你幸運 I。",
       "link_recipe": true
     },
     {
