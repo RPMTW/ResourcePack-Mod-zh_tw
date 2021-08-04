@@ -1,0 +1,17 @@
+{
+    "name": "Incinerator",
+    "icon": "prodigytech:incinerator",
+    "category": "hot_air",
+	"advancement": "prodigytech:main/aeroheater",
+    "pages": [
+        {
+            "type": "text",
+            "text": "The $(item)Incinerator$() is the simplest machine. It will take any item and turn it into $(item)Ash$(). This $(item)Ash$() has a variety of uses, including decoration and serving as a low power $(thing)Dampener$() for the $(item)Explosion Furnace$().$(br2)Items can be inserted/extracted from any side except top and bottom."
+        },
+        {
+            "type": "crafting",
+            "recipe": "prodigytech:machine/incinerator",
+            "recipe2": "prodigytech:decorative/ash_bricks"
+        }
+    ]
+}
