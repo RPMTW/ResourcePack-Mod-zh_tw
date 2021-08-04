@@ -1,0 +1,16 @@
+{
+    "name": "Ferramic Handbow",
+    "icon": "prodigytech:ferramic_handbow",
+    "category": "雜項",
+    "advancement": "prodigytech:main/rotary_grinder",
+    "pages": [
+        {
+            "type": "text",
+            "text": "The $(item)Ferramic Handbow$() is very similar to a simple wooden Bow. It lasts longer but most importantly will automatically fire once its shot is fully charged, making it much more suitable for medium range combat.$(br2)It can receive all the same enchantments as the normal Bow."
+        },
+        {
+            "type": "crafting",
+            "recipe": "prodigytech:tools/ferramic_handbow"
+        }
+    ]
+}
