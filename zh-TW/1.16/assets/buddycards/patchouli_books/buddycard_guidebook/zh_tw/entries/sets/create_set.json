@@ -1,14 +1,14 @@
 {
   "flag": "mod:create",
   "secret": true,
-  "name": "Create Set",
+  "name": "動力機械系列",
   "icon": "buddycards:pack.5",
   "category": "buddycards:sets",
   "sortnum": 4,
   "pages": [
     {
       "type": "text",
-      "text": "The create set of Buddycards is a very easy to collect set, given you have the right machines. There are 27 cards in this set in total, but many more when you consider shiny variants and grades. $(br2)In order to get create set cards, you must craft create set packs."
+      "text": "如果你有合適的機器的話，動力機械系列的夥伴卡會非常容易收集。該系列共有 27 張卡片，但當您考慮閃光卡和不同等級時，還有更多種卡片。$(br2)為了獲得動力機械系列卡，你必須找到動力機械系列卡包。"
     },
     {
       "type": "spotlight",
@@ -18,38 +18,38 @@
     },
     {
       "type": "spotlight",
-      "title": "Create Set Packs",
+      "title": "動力機械系列卡包",
       "item": "buddycards:pack.5",
       "text": "Once you have some shredded buddycards, buddysteel nuggets, and brass plates, throw them into a heated mixer in a ratio of 5:1:1 to make create set packs.",
       "link_recipe": true
     },
     {
       "type": "spotlight",
-      "title": "Create Set Cards",
+      "title": "動力機械系列卡",
       "item": "buddycards:card.5.5",
-      "text": "The create set packs, as with most packs, will give you 4 cards in total, with only one of them being a shiny variant. $(br2)The cards come in four rarities: common, uncommon, rare, and epic. You can tell them apart by the colors of their corners."
+      "text": "與大多數卡包一樣，動力機械系列卡包總共會給你 4 張卡片，其中只有一張是閃光卡。$(br2)這些卡片有四種稀有度：普通、罕見、稀有和史詩。 您可以通過角的顏色區分它們。"
     },
     {
       "type": "spotlight",
-      "title": "Create Set Cards",
+      "title": "動力機械系列卡",
       "item": "buddycards:card.5.20{\"foil\":true}",
-      "text": "Cards number 1-12 are common with no colored corners, cards number 13-21 are uncommon with 2 yellow corners, cards number 22-25 are rare with 4 blue corners, and cards 26 and 27 are epics with 2 yellow and 2 purple corners. Both shiny and non shiny cards have the same odds for card rarity."
+      "text": "1-12 號牌是普通卡，沒有彩色角，13-21 號是罕見卡，有2個黃色角，22-25 號是稀有卡，有4個藍色角，26和27號是史詩卡，有2個黃色和2個紫色角。閃光卡和非閃光卡稀有度的機率相同。"
     },
     {
       "type": "spotlight",
       "item": "buddycards:medal.5",
-      "title": "Create Set Medal",
-      "text": "The create set medal can be earned by getting all 27 cards, shiny and not shiny, of the create set. When equipped, it will give you Haste I.",
+      "title": "動力機械系列 夥伴勳章",
+      "text": "動力機械系列勳章可以通過獲得獲得系列的所有 27 張卡片（閃光和普通）來獲得。裝備後，它會給你挖掘加速 I。",
       "link_recipe": true
     },
     {
       "type": "relations",
-      "title": "Medal Enchantments",
+      "title": "勳章附魔",
       "entries": [
         "buddycards:enchantments/buddy_binding",
         "buddycards:enchantments/buddy_boost"
       ],
-      "text": "The medal can also be enchanted with Buddy Binding and Buddy Boost. Buddy Boost I will upgrade the medal to give Haste II, and Buddy Boost II will upgrade it to give Haste III."
+      "text": "勳章也可以附魔夥伴綁定和夥伴增益。夥伴增益 I 會將勳章升級為 挖掘加速 II，夥伴增益 II 會升級為 挖掘加速III。"
     }
   ]
 }
