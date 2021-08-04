@@ -1,0 +1,24 @@
+{
+    "name": "Zorra Altar",
+    "icon": "prodigytech:zorra_altar",
+    "category": "primordium",
+	"advancement": "prodigytech:main/zorra_leaf",
+    "pages": [
+        {
+            "type": "text",
+            "text": "The $(item)Zorra Altar$() is used to apply or upgrade enchantments on $(thing)Zorrasteel tools$(), at the cost of experience and $(item)Zorra Leaves$().$(br2)Putting a $(thing)Zorrasteel tool$() in it will give you 3 options to choose from as well as their cost."
+        },
+        {
+            "type": "crafting",
+            "recipe": "prodigytech:machine/zorra_altar"
+        },
+        {
+            "type": "text",
+            "text": "The top most slot will always be a new enchantment to apply (if possible).$(br)The middle one is always an upgrade to an existing enchantment (if possible).$(br)The bottom most one can be either and comes with a big experience discount, but you cannot see what it will apply until you get it.$(br2)Just like normal enchanting, all options change every time you enchant something."
+        },
+        {
+            "type": "text",
+            "text": "With enough experience, $(thing)Zorrasteel tools$() can receive enchantments that far surpasses what standard tools can reach, although the price will start to accumulate quickly."
+        }
+    ]
+}
