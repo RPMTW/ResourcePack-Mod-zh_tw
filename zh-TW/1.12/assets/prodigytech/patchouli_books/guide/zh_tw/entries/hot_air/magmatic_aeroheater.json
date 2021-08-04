@@ -1,0 +1,16 @@
+{
+    "name": "Magmatic Aeroheater",
+    "icon": "prodigytech:magmatic_aeroheater",
+    "category": "hot_air",
+    "advancement": "prodigytech:recipes/ferramic_ingot",
+    "pages": [
+        {
+            "type": "text",
+            "text": "The $(item)Magmatic Aeroheater$() will constantly produce low temperature $(thing)Hot Air$() as long as it is above a Lava block $(o)(source or flowing)$().$(br2)While it never needs refueling, it is also not hot enough to allow chaining most machines or to power more advanced ones."
+        },
+        {
+            "type": "crafting",
+            "recipe": "prodigytech:machine/magmatic_aeroheater"
+        }
+    ]
+}
