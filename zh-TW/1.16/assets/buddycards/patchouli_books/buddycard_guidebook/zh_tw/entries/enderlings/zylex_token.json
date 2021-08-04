@@ -1,17 +1,17 @@
 {
-  "name": "Zylex Token",
+  "name": "紫礪代幣",
   "icon": "buddycards:zylex_token",
   "category": "buddycards:enderlings",
   "sortnum": 2,
   "pages": [
     {
       "type": "text",
-      "text": "Even if the Enderlings are willing to trade with you, they will try not to trade everything at once. $(br2)If you've traded for everything they have to offer, you can slip them one of these tokens for them to reset their trades."
+      "text": "即使終界小販願意和你交易，他們也不會一次交易出所有的商品。 $(br2)如果您已經交易了他們提供的所有商品，您可以將紫礪代幣交給他們，讓他們重置交易。"
     },
     {
       "type": "crafting",
       "recipe": "buddycards:zylex_token",
-      "text": "The recipe is quite simple, it can be created with some end set cards and zylex."
+      "text": "配方很簡單，它可以用一些終界系列卡片和紫礪來製造。"
     }
   ]
 }
