@@ -1,61 +1,61 @@
 {
   "flag": "mod:aquaculture",
   "secret": true,
-  "name": "Aquaculture Set",
+  "name": "水產養殖系列",
   "icon": "buddycards:pack.6",
   "category": "buddycards:sets",
   "sortnum": 5,
   "pages": [
     {
       "type": "text",
-      "text": "The aquaculture set of Buddycards is a set that is not hard to collect, as it is easily farmable. There are 18 cards in this set in total, but many more when you consider shiny variants and grades. $(br2)In order to get aquaculture set cards, you must go fishing for cards and packs."
+      "text": "水產養殖系列的夥伴卡不難收集，因為它很容易農。該系列共有 18 張卡片，但當您考慮閃光卡和不同等級時，還有更多種卡片。$(br2)為了獲得水產養殖系列卡，你必須去釣魚以獲得卡片和卡包。"
     },
     {
       "type": "crafting",
       "recipe": "buddycards:aquaculture/buddycard_hook",
-      "text": "In order to get aquaculture set packs, you must first make a buddycard hook or rod. $(br2)This hook can than be applied to a fishing rod using a tackle box, and gives a chance to fish up cards or packs while fishing.",
+      "text": "為了獲得水產養殖系列卡包，首先必須製作一個夥伴鋼魚鉤或釣竿。$(br2)這個鉤子可以用釣具盒裝在釣竿上，釣魚時有機會釣到卡片或卡包。",
       "link_recipe": true
     },
     {
       "type": "crafting",
-      "recipe": "buddycards:aquaculture/buddysteel_fishing_rod",
-      "text": "The other way to get aquaculture set packs, would be using the buddysteel fishing rod. This rod will give you better odds the more cards you collect, just like other buddysteel gear.",
+      "recipe": "buddycards:aquaculture/buddysteel_fishing_rod\n",
+      "text": "獲得水產養殖系列卡包的另一種方法，是使用夥伴鋼釣竿。與其他夥伴鋼裝備一樣，收集的卡片越多，這根釣竿就會提供更好的能力。",
       "link_recipe": true
     },
     {
       "type": "spotlight",
-      "title": "Aquaculture Set Packs",
+      "title": "水產養殖系列卡包",
       "item": "buddycards:pack.6",
-      "text": "Found randomly when fishing with a rod that is using a Buddycard hook. While you can fish up normal cards with the hook, the aquaculture packs are the only way to get shiny variantes.",
+      "text": "使用使用夥伴鋼魚鉤和夥伴鋼釣竿釣魚時隨機發現。雖然您可以用魚鉤釣到普通卡片，但水產養殖卡包是獲得閃光卡變種的唯一途徑。",
       "link_recipe": true
     },
     {
       "type": "spotlight",
-      "title": "Aquaculture Set Cards",
+      "title": "水產養殖系列卡",
       "item": "buddycards:card.6.6",
-      "text": "The aquaculture set packs, unlike most packs, will give you 3 cards in total, with only one of them being a shiny variant. $(br2)The cards come in four rarities: common, uncommon, rare, and epic. You can tell them apart by the colors of their corners."
+      "text": "與大多數系列不同，水產養殖系列卡包總共會給你 3 張卡片，其中只有一張是閃光卡。$(br2)這些卡片有四種稀有度：普通、罕見、稀有和史詩。 您可以通過角的顏色區分它們。"
     },
     {
       "type": "spotlight",
-      "title": "Aquaculture Set Cards",
+      "title": "水產養殖系列卡",
       "item": "buddycards:card.6.16{\"foil\":true}",
-      "text": "Cards number 1-7 are common with no colored corners, cards number 8-13 are uncommon with 2 yellow corners, cards number 14-16 are rare with 4 blue corners, and cards 17 and 18 are epics with 2 yellow and 2 purple corners. Both shiny and non shiny cards have the same odds for card rarity."
+      "text": "1-7 號牌是普通卡，沒有彩色角，8-13 號牌是罕見卡，有2個黃色角，14-16號是稀有卡，有 4個藍色角，17和18號是史詩卡，有2個黃色和2個紫色角 . 閃光卡和非閃光卡牌稀有度的機率相同。"
     },
     {
       "type": "spotlight",
       "item": "buddycards:medal.6",
-      "title": "Aquaculture Set Medal",
-      "text": "The aquaculture set medal can be earned by getting all 27 cards, shiny and not shiny, of the create set. When equipped, it will give you Luck I.",
+      "title": "水產養殖系列 夥伴勳章",
+      "text": "水產養殖系列勳章可以通過獲得獲得系列的所有 27 張卡片（閃光和普通）來獲得。裝備後，它會給你幸運 I。",
       "link_recipe": true
     },
     {
       "type": "relations",
-      "title": "Medal Enchantments",
+      "title": "勳章附魔",
       "entries": [
         "buddycards:enchantments/buddy_binding",
         "buddycards:enchantments/buddy_boost"
       ],
-      "text": "The medal can also be enchanted with Buddy Binding and Buddy Boost. Buddy Boost I will upgrade the medal to give Luck I & Dolphin Grace I, and Buddy Boost II will upgrade it to give Luck II & Dolphin Grace I."
+      "text": "勳章也可以附魔夥伴綁定和夥伴增益。夥伴增益 I 會將勳章升級為 幸運 I 和 海豚優游 I，夥伴增益 II 會升級為 幸運 II 和 海豚優遊 I。"
     }
   ]
 }
