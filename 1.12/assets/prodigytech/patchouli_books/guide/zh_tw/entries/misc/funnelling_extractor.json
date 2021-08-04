@@ -1,0 +1,16 @@
+{
+    "name": "Funnelling Extractor",
+    "icon": "prodigytech:funnelling_extractor",
+    "category": "misc",
+	"advancement": "prodigytech:recipes/ferramic_ingot",
+    "pages": [
+        {
+            "type": "text",
+            "text": "The $(item)Funnelling Extractor$() is similar to the $(item)Linear Extractor$(), but pulls from all 5 sides it is not pushing to.$(br2)Items are pulled in a specific order, with the opposite side of the pushing one always being the first one."
+        },
+        {
+            "type": "crafting",
+            "recipe": "prodigytech:machine/funnelling_extractor"
+        }
+    ]
+}
