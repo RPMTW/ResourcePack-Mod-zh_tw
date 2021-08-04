@@ -1,0 +1,17 @@
+{
+   "name" : "Nethop的「V.V.V.V.V.」",
+   "icon" : "flammpfeil.slashblade:slashbladenamed{ModelName: \"named/arthurs/model_grand\", TextureName: \"named/arthurs/texture_grand\"}",
+   "category" : "category_6",
+   "pages" : [
+      {
+         "type" : "text",
+         "text" : "Nethop，通常我们叫他典仪长（或者直接电椅），妖怪之山锻刀铺元老成员。$(br2)梨木桑的好友之一，MCBBS拔刀剑附属索引贴的楼主，MC百科元老编辑员之一。$(br2)最近他从虚无之中回来了，令人感动。"
+      },
+      {
+         "type" : "crafting",
+         "recipe" : "lastsmith:flammpfeil.slashblade.named.mmf.nethop"
+      }
+   ],
+   "advancement":"lastsmith:final_blade",
+   "sortnum" : 5
+}
