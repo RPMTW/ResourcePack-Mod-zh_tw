@@ -1,69 +1,69 @@
 {
   "flag": "mod:farmersdelight",
   "secret": true,
-  "name": "Farmer's Delight Set",
+  "name": "樂在農事系列",
   "icon": "buddycards:pack.7",
   "category": "buddycards:sets",
   "sortnum": 6,
   "pages": [
     {
       "type": "text",
-      "text": "The fd set of Buddycards is a set that is not hard to collect, as it is litterally farmable. There are 18 cards in this set in total, but many more when you consider shiny variants and grades. $(br2)In order to get fd set cards, you can find them rarely when breaking crops."
+      "text": "樂在農事系列的夥伴卡不難收集，因為它幾乎可以耕種。該系列共有 18 張卡片，但當您考慮閃光卡和不同等級時，還有更多種卡片。$(br2)為了獲得水產養殖系列卡，你在採收農作物的時候有低機率收集它們。"
     },
     {
       "type": "spotlight",
-      "title": "Buddybeans",
+      "title": "夥伴豆",
       "item": "buddycards:buddybeans",
-      "text": "Buddybeans can also be found rarely when breaking crops. The beans can be eaten, but it is not reccomended. You need the buddybeans to make fd set packs.",
+      "text": "夥伴豆也可以在採收農作物時極低機率發現。豆子可以吃，但不推薦。您需要夥伴豆來製作樂在農事系列。",
       "link_recipe": true
     },
     {
       "type": "spotlight",
       "item": "buddycards:shredded_buddycard",
-      "text": "In order to make fd set packs, you must first make shredded Buddycards, you can get these by chopping up your spare cards using a knife and cutting board.",
+      "text": "為了製作樂在農事系列卡包，您必須首先製作粉碎夥伴卡，您可以通過用刀和砧板切碎備用卡片來獲得這些卡片。",
       "link_recipe": true
     },
     {
       "type": "spotlight",
-      "title": "Fd Set Packs",
+      "title": "樂在農事系列卡包",
       "item": "buddycards:pack.7",
-      "text": "Fd set packs have to be cooked with bacon, sugar, 2 shredded cards, and 2 buddybeans. Once it cooks, you must add the sugary substance to a canvas, which will turn into a pack.",
+      "text": "樂在農事卡包必須用培根、糖、2張粉碎夥伴卡和 2 顆夥伴豆煮熟。 煮熟後，您必須將這些含糖物質用麻布裝起來，麻布會變成卡包。",
       "link_recipe": true
     },
     {
       "type": "spotlight",
-      "title": "Fd Set Cards",
+      "title": "樂在農事系列卡",
       "item": "buddycards:card.7.1",
-      "text": "The fd set packs, unlike most packs, will give you 3 cards in total, with only one of them being a shiny variant, as well as a buddygummy. $(br2)The cards come in four rarities: common, uncommon, rare, and epic. You can tell them apart by the colors of their corners."
+      "text": "與大多數系列不同，樂在農事系列卡包總共會給你 3 張卡片，其中只有一張是閃光卡，以及一張夥伴軟糖。$(br2)這些卡片有四種稀有度：普通、罕見、稀有和史詩。 您可以通過角的顏色區分它們。"
     },
     {
       "type": "spotlight",
-      "title": "Fd Set Cards",
+      "title": "樂在農事系列卡",
       "item": "buddycards:card.7.10{\"foil\":true}",
       "text": "1-7 號牌是普通卡，沒有彩色角，8-13 號牌是罕見卡，有2個黃色角，14-16號是稀有卡，有 4個藍色角，17和18號是史詩卡，有2個黃色和2個紫色角 . 閃光卡和非閃光卡牌稀有度的機率相同。"
     },
     {
       "type": "spotlight",
-      "title": "Buddygummies",
+      "title": "夥伴軟糖",
       "item": "buddycards:assorted_gummies",
-      "text": "Every fd set pack also comes with an edible buddygummy, a card you can eat. They come in 6 flavors and can be chopped up into assorted gummies on a cutting board with a knife. Assorted gummies replenish the same hunger as normal buddygummies.",
+      "text": "每個樂在農事卡包還附帶一個可食用的夥伴軟糖，一張你可以吃的卡片。它們有 6 種口味，可以用刀在砧板上切碎成什錦軟糖。什錦軟糖補充與普通夥伴軟糖相同的飢餓感。",
       "link_recipe": true
     },
     {
       "type": "spotlight",
       "item": "buddycards:medal.7",
-      "title": "Fd Set Medal",
-      "text": "The fd set medal can be earned by getting all 27 cards, shiny and not shiny, of the create set. When equipped, it will give you Nourished I.",
+      "title": "樂在農事系列 夥伴勳章",
+      "text": "樂在農事系列勳章可以通過獲得獲得系列的所有 18 張卡片（閃光和普通）來獲得。裝備後，它會給你營養 I。",
       "link_recipe": true
     },
     {
       "type": "relations",
-      "title": "Medal Enchantments",
+      "title": "勳章附魔",
       "entries": [
         "buddycards:enchantments/buddy_binding",
         "buddycards:enchantments/buddy_boost"
       ],
-      "text": "The medal can also be enchanted with Buddy Binding and Buddy Boost. If you have Buddy Boost, you will get bonus effects while at full hunger. With Buddy Boost I you will get Comfort I, and with Buddy Boost II you get Speed I & Comfort I"
+      "text": "勳章也可以附魔夥伴綁定和夥伴增益。如果你有夥伴增益I，你會在飽食度全滿時獲得額外效果。夥伴增益 I 會獲得 舒適 I，夥伴增益 II 獲得 舒適I 和 速度I。"
     }
   ]
 }
