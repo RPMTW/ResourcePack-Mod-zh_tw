@@ -1,0 +1,26 @@
+{
+   "name" : "「狱界剑」",
+   "icon" : "flammpfeil.slashblade:slashbladenamed{ModelName: \"named/smith/model\", TextureName: \"named/smith/texture_wind\"}",
+   "category" : "category_5",
+   "pages" : [
+      {
+         "type" : "text",
+         "text" : "前一阵子我受邀参加白玉楼的宴会。$(br2)原来的魂魄家家主已经隐居，侍奉着那位亡灵公主的人则变为了年轻的剑士……$(br2)看见那两振刀，回忆起当年锻造它们的那段日子，我不禁流下了眼泪……"
+      },
+      {
+         "type" : "text",
+         "text" : "踏上归途之时，我决定再欣赏一下白玉楼的风景。$(br2)当我在回廊漫步的时候，看见了一个漆黑的身影，手持着两振感觉相当熟悉的刀……$(br2)那个面容……怎么是那位年轻的剑士……$(br2)当她拔出那两振刀，一阵浓烈的妖气涌上来……她就这样消失了……"
+      },
+      {
+         "type" : "text",
+         "text" : "那振长刀……为什么与「魂樱之长刀」如此相似……$(br2)不！那根本不是「魂樱之长刀」！$(br2)我感觉不到来自魂樱的力量……那分明是来自于地狱的力量……$(br2)是……「狱界剑」？怎么可能……"
+      },
+      {
+         "type" : "crafting",
+         "recipe" : "lastsmith:flammpfeil.slashblade.named.roukan_nether",
+         "recipe2" : "lastsmith:flammpfeil.slashblade.named.hakurou_nether"
+      }
+   ],
+   "advancement":"lastsmith:sharpness",
+   "sortnum" : 0
+}
