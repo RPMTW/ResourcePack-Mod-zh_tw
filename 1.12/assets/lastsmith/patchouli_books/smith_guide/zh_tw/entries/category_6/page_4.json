@@ -1,0 +1,17 @@
+{
+   "name" : "萧琥璃GF的无铭「影狐」",
+   "icon" : "flammpfeil.slashblade:slashbladenamed{ModelName: \"named/arthurs/model_fox\", TextureName: \"named/arthurs/texture_fox\"}",
+   "category" : "category_6",
+   "pages" : [
+      {
+         "type" : "text",
+         "text" : "萧琥璃GF，原先是诺顿铸剑馆的成员。$(br2)也是个画材质的美工，不过TLS的美工除了他自己的专属刀之外就没有了。$(br2)原本还有几把他设计的刀的，不过没有被采用。$(br2)$(m)被射命丸政压榨的对象。"
+      },
+      {
+         "type" : "crafting",
+         "recipe" : "lastsmith:flammpfeil.slashblade.named.mmf.fox"
+      }
+   ],
+   "advancement":"lastsmith:final_blade",
+   "sortnum" : 3
+}
