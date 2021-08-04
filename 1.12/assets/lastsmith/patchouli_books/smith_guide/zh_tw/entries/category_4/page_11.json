@@ -1,0 +1,26 @@
+{
+   "name" : "「血纸竹光」",
+   "icon" : "flammpfeil.slashblade:slashbladenamed{ModelName: \"named/yamato\",TextureName: \"named/bamboolight/silverbamboo_blood\"}",
+   "category" : "category_4",
+   "pages" : [
+      {
+         "type" : "text",
+         "text" : "苇原国灭亡的那阵子，是苇原地区最混乱的时候……$(br2)那阵子的苇原和如今的苇原是完完全全的两个概念：一个是血腥的战场，一个是舒心的乐园。$(br2)虽然乐园也只浮于表面……"
+      },
+      {
+         "type" : "text",
+         "text" : "曾一手持银纸竹光的武者，与敌人战斗到了最后一刻，倒下了……$(br2)他的竹光沾满了主人与敌人的鲜血，便因此充斥着妖气……$(br2)被邪魔侵染的竹光，自行出鞘，以一股无形的力量斩下了敌人们的头颅……"
+      },
+      {
+         "type" : "text",
+         "text" : "这振竹光，被称为「血纸竹光」……$(br2)正如其名，刀刃的金属箔完全被血迹覆盖，甚至化为了刀刃的一部分……$(br2)它被不同寻常的邪魔所侵染，所以有着更深重的妖气……"
+      },
+      {
+         "type" : "crafting",
+         "recipe" : "lastsmith:flammpfeil.slashblade.named.silverbamboolight_top",
+         "recipe2" : "lastsmith:flammpfeil.slashblade.named.silverbamboolight_blood"
+      }
+   ],
+   "advancement":"lastsmith:bewitched_blade",
+   "sortnum" : 10
+}
