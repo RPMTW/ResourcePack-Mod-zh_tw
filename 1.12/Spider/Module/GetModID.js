@@ -7,7 +7,8 @@ async function GetModID(slug, id, name) {
     let ModDir = `${process.cwd()}/../jar/${slug}/assets`
     try {
         if (fs.existsSync(ModDir)) {
-            let DirName = fs.readdirSync(ModDir).toString().split("\n");
+            let DirName = fs.readdirSync(ModDir).toString().split(",");
+            if (DirName.length === 0) DirName = fs.readdirSync(ModDir).toString().split("\n");
             for (let i = 0; i < DirName.length; i++) {
                 let ModLangDir = `${process.cwd()}/../jar/${slug}/assets/${DirName[i]}/lang`;
                 if (fs.existsSync(ModLangDir)) {

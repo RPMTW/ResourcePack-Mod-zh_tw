@@ -25,13 +25,12 @@ require('readline').createInterface({
     Run()
 })
 function Run() {
-    CurseForge.getMod(Number(ID)).then((mod) => {
-        let files = mod.latestFiles.reverse();
+    CurseForge.getModFiles(Number(ID)).then((files) => {
+        files = files.reverse();
+        files.sort(function (a, b) {
+            return Date.parse(b.timestamp) - Date.parse(a.timestamp);
+        });
         for (let i = 0; i < files.length; i++) {
-            files = files.reverse();
-            files.sort(function (a, b) {
-                return Date.parse(b.timestamp) - Date.parse(a.timestamp);
-            });
             let data = files[i].minecraft_versions;
             if (MCVersion(data)) {
                 fileID = String(files[i].id);
@@ -40,6 +39,7 @@ function Run() {
                 urllib.request(files[i].download_url, {
                     streaming: true,
                     followRedirect: true,
+                    timeout: [100000, 100000],
                 })
                     .then(result => {
                         console.log(`${fileName.split(".jar")[0]} 下載完成。`);
@@ -48,9 +48,9 @@ function Run() {
                             GetModID(slug, ID, fileName)
                         })
                     })
-                    .catch(console.error);
+                    .catch("解壓縮模組檔案時發生未知錯誤: ", console.error);
+                break;
             }
-            break;
         }
-    });
+    }).catch("抓取模組檔案時發生未知錯誤: ", console.error);
 }

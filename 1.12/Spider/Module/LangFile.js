@@ -52,7 +52,7 @@ async function LangFile(ModID, slug, id, name) {
     let Before = {};
     if (fs.existsSync(`${process.cwd()}/../assets/${ModID}/lang/zh_tw.json`)) {
         try {
-            Before = JSON.parse(fs.readFileSync(`${process.cwd()}/../assets/${ModID}/lang/zh_tw.json`).toString(), null, true);
+            Before = JSON.parse(fs.readFileSync(`${process.cwd()}/../assets/${ModID}/lang/zh_tw.json`).toString());
         } catch (error) {
             console.log(ModID, error);
         }
