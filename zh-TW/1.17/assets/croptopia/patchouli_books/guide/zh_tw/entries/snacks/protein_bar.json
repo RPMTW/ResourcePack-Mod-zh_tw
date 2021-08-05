@@ -1,12 +1,12 @@
 {
-  "name": "Protein Bar",
+  "name": "蛋白棒",
   "icon": "croptopia:protein_bar",
   "category": "作物方城市:點心",
   "pages": [
     {
       "type": "crafting",
       "recipe": "croptopia:protein_bar",
-      "text": "Recipe for making a protein bar."
+      "text": "製作蛋白棒的食譜。"
     }
   ]
 }

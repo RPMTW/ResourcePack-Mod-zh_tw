@@ -1,12 +1,12 @@
 {
   "name": "果醬",
   "icon": "croptopia:grape_jam",
-  "category": "croptopia:ingredients",
+  "category": "作物盛景：成分",
   "pages": [
     {
       "type": "crafting",
       "recipe": "croptopia:grape_jam",
-      "text": "These are the recipes to craft the different jams in Croptopia."
+      "text": "這些是在作物盛景中製作不同果醬的食譜。"
     },
     {
       "type": "crafting",

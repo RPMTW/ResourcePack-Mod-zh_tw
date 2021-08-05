@@ -1,12 +1,12 @@
 {
-  "name": "Trail Mix",
+  "name": "混合點心",
   "icon": "croptopia:trail_mix",
   "category": "作物方城市:點心",
   "pages": [
     {
       "type": "crafting",
       "recipe": "croptopia:trail_mix",
-      "text": "Recipe for making trail mix."
+      "text": "製作混合點心的配方。"
     }
   ]
 }

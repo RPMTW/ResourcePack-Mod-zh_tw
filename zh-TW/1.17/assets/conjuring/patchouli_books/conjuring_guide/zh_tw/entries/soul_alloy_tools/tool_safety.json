@@ -1,11 +1,11 @@
 {
-  "name": "Basic Tool Safety",
+  "name": "基本工具安全",
   "icon": "conjuring:abundance_gem",
   "category": "conjuring:soul_alloy_tools",
   "pages": [
     {
       "type": "text",
-      "text": "The powers resting inside $(thing)Soul Alloy Tools$() are formidable. Whether innate like the $(l:conjuring:soul_alloy_tools/soul_alloy_hatchet)Soul Alloy Hatchet$()'s $(thing)Soul Feller$() ability or additive like the $(thing)area-mining$() of a scope-augmented $(l:conjuring:soul_alloy_tools/soul_alloy_pickaxe)Soul Alloy Pickaxe$(), they can also be quite destructive. To ensure one's property stays intact, the tools normally rest in a disabled state, ready to be awoken by their master."
+      "text": "靈魂合金工具內的力量是強大的。無論是像召喚魂合金工具靈魂合金斧頭靈魂合金斧頭靈魂伐木者這樣的先天能力，還是像範圍增強的魔法合金工具靈魂合金鎬靈魂合金鎬的區域挖掘這樣的附加能力，它們也可以是相當具有破壞性的。為了確保一個人的財產完好無損，這些工具通常處於禁用狀態，準備被它們的主人喚醒。"
     },
     {
       "type": "text",

@@ -5,7 +5,7 @@
     "button.count.low": "計數：低",
     "button.count.high": "計數：高",
     "button.count.very_high": "計數：非常高",
-    "button.count.disabled": "計數禁用",
+    "button.count.disabled": "計數停用",
     "button.speed.default": "速度：預設",
     "button.speed.low": "速度：慢",
     "button.speed.high": "速度：快",
@@ -20,6 +20,6 @@
     "button.toggle.disabled": "生怪磚： 關閉",
     "button.save": "儲存",
     "button.cancel": "取消",
-    "tooltip.spawnermod.spawner_key_disabled": "生怪磚鑰匙已禁用",
+    "tooltip.spawnermod.spawner_key_disabled": "生怪磚鑰匙已停用",
     "gui.spawnermod.spawner_config_screen_title": "生怪磚配置"
 }

@@ -1,12 +1,12 @@
 {
-  "name": "Saucy Chips",
+  "name": "香辣洋芋片",
   "icon": "croptopia:saucy_chips",
   "category": "作物方城市:點心",
   "pages": [
     {
       "type": "crafting",
       "recipe": "croptopia:saucy_chips",
-      "text": "Recipe for making chips with dip or sauce."
+      "text": "用蘸醬或醬汁製作薯條的食譜。"
     }
   ]
 }
