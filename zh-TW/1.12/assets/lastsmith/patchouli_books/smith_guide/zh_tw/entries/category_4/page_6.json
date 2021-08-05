@@ -1,0 +1,29 @@
+{
+   "name": "「夜叉」",
+   "icon": "flammpfeil.slashblade:slashbladenamed{ModelName: \"named/yasha/yashaTrue\", TextureName: \"named/yasha/yasha\"}",
+   "category": "category_4",
+   "pages": [
+      {
+         "type": "text",
+         "text": "有着微弱的众星之力的仿作。$(br2)原是稀世名匠的传奇之作，被众多刀匠所仿制。$(br2)Minotaur们其实也带着这些仿作……$(br)它们并非武者……"
+      },
+      {
+         "type": "entity",
+         "entity": "twilightforest:minotaur",
+         "scale": 1,
+         "text": "在永恒的暮色之森中，杀死Minotaur……"
+      },
+      {
+         "type": "text",
+         "text": "「夜叉」鬼哭是拥有众星之力的名刀。$(br2)原本的鞘已经丢失，只有其白鞘得以保存。$(br2)直刀的大成之作，掌握在Minoshroom的手里……$(br2)名刀在此物手中就是玷污……"
+      },
+      {
+         "type": "entity",
+         "entity": "twilightforest:minoshroom",
+         "scale": 1,
+         "text": "在永恒的暮色之森中，杀死Minoshroom……"
+      }
+   ],
+   "advancement": "lastsmith:bewitched_blade",
+   "sortnum": 5
+}

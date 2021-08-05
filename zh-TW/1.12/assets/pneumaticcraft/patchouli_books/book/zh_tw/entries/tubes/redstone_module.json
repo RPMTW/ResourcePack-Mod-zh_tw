@@ -1,12 +1,12 @@
 {
-  "name": "Redstone Module",
+  "name": "紅石管道模組",
   "icon": "pneumaticcraft:redstone_module",
   "category": "tubes",
   "advancement": "pneumaticcraft:pressure_tube",
   "pages": [
     {
       "type": "text",
-      "text": "This module exchanges $(#f00)redstone signals/$ with other Redstone Modules on connected tubes, effectively using the tube as a redstone conduit.$(p)Up to 16 independent channels can be selected by right-clicking the module with any $(item)Dye/$ (which won't be used up).$(p)Right-click the module with a $(item)wrench/$ to toggle it between input and output mode."
+      "text": "該模組與同一管網的紅石模組交換$(#f00)紅石信號/$，相當於將壓力管道作為紅石導管。$(p)紅石管道模組有最高 16 個獨立頻道；這可以透過使用$(item)染料/$（不會被消耗）右擊模組選擇。$(p)使用$(item)扳手/$右擊模組以在輸入和輸出模式間切換。"
     },
     {
       "type": "image",
@@ -17,12 +17,12 @@
     },
     {
       "type": "text",
-      "title": "Advanced PCB",
-      "text": "When you apply an $(l:tubes/advanced_pcb)Advanced PCB/$ to the module, extra signal processing will be available. When the module is in $(thing)output mode/$, you can right-click the module to open a GUI and choose a mode to apply to the output signal, e.g. invert the signal, AND/OR/XOR it with another channel...$(p)The effect of each mode is described in detail in the module GUI."
+      "title": "高級印刷電路板",
+      "text": "向紅石管道模組安裝$(l:tubes/advanced_pcb)高級印刷電路板/$後，額外的信號處理選項將可用。當模組處於$(thing)輸出模式/$時，可以右擊模組以打開設定介面，在此可以選擇對輸出信號進行的操作，例如，反轉信號，與另一頻道進行與/或/異或操作...$(p)每個操作的細節在設定介面中有具體描述。"
     },
     {
       "type": "crafting",
-      "text": "Creating the Redstone Module",
+      "text": "紅石管道模組的合成表",
       "recipe": "pneumaticcraft:redstone_module"
     }
   ]

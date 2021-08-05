@@ -1,19 +1,19 @@
 {
-  "name": "Suicide Widget",
+  "name": "自毀",
   "icon": "pneumaticcraft:textures/items/progwidgets/suicide_piece.png",
   "category": "widget_flow",
   "advancement": "pneumaticcraft:programmer",
   "pages": [
     {
       "type": "text",
-      "text": "The $(l:tools/drone)Drone/$ will immediately turn into its item form, dropping as an item entity on the ground. Program execution is, of course, instantly terminated."
+      "text": "$(l:tools/drone)無人機/$將立即轉化為其物品形式並掉落在地上。當然，程序執行流也就立刻終止。"
     },
     {
       "type": "image",
       "images": [
         "pneumaticcraft:textures/items/progwidgets/suicide_piece.png"
       ],
-      "text": "$(italic)That's all, folks/$"
+      "text": "$(italic)各位，完了/$"
     }
   ]
 }

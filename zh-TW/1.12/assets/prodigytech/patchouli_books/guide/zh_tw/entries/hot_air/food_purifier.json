@@ -1,0 +1,16 @@
+{
+    "name": "Food Purifier",
+    "icon": "prodigytech:food_purifier",
+    "category": "hot_air",
+    "advancement": "prodigytech:main/rotary_grinder",
+    "pages": [
+        {
+            "type": "text",
+            "text": "The $(item)Food Purifier$() can transform any food item into $(item)Purified Food$(). It retains all of its nutritional value but is stripped of any side effect, positive or negative. Remember though that it considers $(item)Bowls$() as being part of the food. $(br2)Items can be inserted/extracted from any side except top and bottom."
+        },
+        {
+            "type": "crafting",
+            "recipe": "prodigytech:machine/food_purifier"
+        }
+    ]
+}

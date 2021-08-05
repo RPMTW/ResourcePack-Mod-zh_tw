@@ -1,24 +1,24 @@
 {
-  "name": "For Each Coordinate Widget",
+  "name": "對於每個坐標",
   "icon": "pneumaticcraft:textures/items/progwidgets/for_each_coordinate.png",
   "category": "widget_flow",
   "advancement": "pneumaticcraft:programmer",
   "pages": [
     {
       "type": "text",
-      "text": "This advanced widget will loop through every single coordinate in the specified $(l:programming/area)Area/$. For each coordinate, it will set the $(ttcolor)$(t:Right-click the widget to configure the variable)specified variable/$ to that coordinate, and jump to the $(l:programming/label)Label/$ which matches the connected $(l:programming/text)Text/$ widget. When that routine is done executing (when it reaches the end of a program where it would usually jump back to $(l:programming/start)Start/$), it will return to this widget and repeat for the next coordinate."
+      "text": "這個高級拼圖將會對給定$(l:programming/area)區域/$內的每一個坐標進行遍歷。對於每個坐標，將會把$(ttcolor)$(t:右擊拼圖以調出設定介面指定這一變數)指定變數/$設定為這一坐標，並跳轉到標籤名匹配所連接的$(l:programming/text)文字/$的$(l:programming/label)標籤/$處。當跳轉後的進程結束執行時（到達了執行的盡頭，一般將要跳轉回$(l:programming/start)開始/$處時），程序流將返回該拼圖，並對下一坐標重複該操作。"
     },
     {
       "type": "text",
-      "title": "Breaking",
-      "text": "You can break out of the loop by setting the coordinate variable used by the $(thing)For Each Coordinate/$ to (0,0,0). Next time, when the program jumps back to the $(thing)For Each Coordinate/$, it will notice this and cancel further traversal of coordinates."
+      "title": "跳出循環",
+      "text": "可以透過將$(thing)對於每個坐標/$使用的坐標變數設為 (0,0,0) 的方式跳出循環。控制流跳轉回$(thing)對於每個坐標/$時其將注意到這一變更並取消後繼遍歷。"
     },
     {
       "type": "image",
       "images": [
         "pneumaticcraft:textures/items/progwidgets/for_each_coordinate.png"
       ],
-      "text": "$(italic)For Each Coordinate Widget/$"
+      "text": "$(italic)對於每個坐標/$"
     }
   ]
 }

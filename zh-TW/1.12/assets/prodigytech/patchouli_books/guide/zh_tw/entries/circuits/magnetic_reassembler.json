@@ -1,0 +1,16 @@
+{
+    "name": "Magnetic Reassembler",
+    "icon": "prodigytech:magnetic_reassembler",
+    "category": "circuits",
+    "advancement": "prodigytech:main/solderer",
+    "pages": [
+        {
+            "type": "text",
+            "text": "The $(item)Magnetic Reassembler$() uses strong magnets to force small particules together. This makes it act as a reverse $(item)Rotary Grinder$(), and is an essential component on getting started with $(thing)Energion Crystal farming$().$(br2)Items can be inserted/extracted from any side except top and bottom."
+        },
+        {
+            "type": "crafting",
+            "recipe": "prodigytech:machine/magnetic_reassembler"
+        }
+    ]
+}

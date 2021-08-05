@@ -1,34 +1,34 @@
 {
-  "name": "Dig Widget",
+  "name": "挖掘方塊",
   "icon": "pneumaticcraft:textures/items/progwidgets/dig_piece.png",
   "category": "widget_interact",
   "advancement": "pneumaticcraft:programmer",
   "pages": [
     {
       "type": "text",
-      "text": "The $(l:tools/drone)Drone/$ will dig/mine the blocks within the specified $(l:programming/area)Area/$. Items that are dropped from the blocks will not be picked up by the $(item)Drone/$. The order in which the blocks will be dug is similar to the $(l:programming/place)Place/$ widget. Also in common with the $(thing)Place/$ widget, you can control if the area should be dug layer by layer (top to bottom or bottom to top)."
+      "text": "$(l:tools/drone)無人機/$將挖掘/開採指定$(l:programming/area)區域/$內的方塊。方塊的掉落物$(italic)不會/$被$(item)無人機/$撿起。方塊被挖掘的順序與$(l:programming/place)放置/$拼圖相近。與$(thing)放置/$拼圖相同的，可以控制該區域是否應當被逐層挖掘（頂 -> 底，或底 -> 頂）。"
     },
     {
       "type": "text",
-      "title": "Using Tools",
-      "text": "You can make the $(item)Drone/$ $(l:programming/inventory_import)import/$ a pickaxe/shovel/etc. to make it use that tool. When the $(item)Drone/$ carries around multiple tools, the most suitable tool is automatically used for the block being dug.$(p)You can prevent the Drone from trying to dig without a tool (which is really slow) by checking the $(thing)Requires digging tool/$ checkbox."
+      "title": "使用工具",
+      "text": "可以使$(item)無人機/$$(l:programming/inventory_import)輸入/$鎬/鏟等以使其使用該工具。當$(item)無人機/$搭載有多種工具時，最合適的工具將被用於挖掘各個方塊。$(p)可以通過勾選設定介面中的$(thing)需要挖掘工具/$選項以阻止無人機試圖在無工具的情況下挖掘（這很慢）。"
     },
     {
       "type": "text",
-      "title": "Limiting the Dig Count",
-      "text": "The amount of dig actions can be limited to a specified number by checking the $(thing)Limit block interactions/$ checkbox in the GUI, and setting a limit. E.g. if set to 1, the $(item)Drone/$ will only dig one block (regardless of how many blocks are in the area), before moving to the next widget in the program. This can be used to only dig a few blocks and then check the durability of a tool, to repair it before it breaks."
+      "title": "限制挖掘方塊數量",
+      "text": "挖掘操作的數目可以通過勾選設定介面中的$(thing)限制方塊互動數/$並輸入限制值限制至特定值。例如，如果設定為 1，$(item)無人機/$將只挖掘一個方塊（無論區域內有多少方塊）就結束執行本拼圖。可以用於在挖掘特定量的方塊過後檢查工具的耐久度，並在其損毀之前修復。"
     },
     {
       "type": "text",
-      "title": "Filtering Blocks",
-      "text": "Lastly you can specify which blocks may be mined by using an $(l:programming/item_filter)Item Filter/$.$(p)When used with blocks like crops, filter by the item that you would get when you break the crop (so $(item)Seeds/$ for a $(item)Wheat/$ crop). The exception would be blocks that $(italic)never/$ drop an item (even with Silk Touch), for which there is specific $(thing)Match by block/$ option in the filter setup GUI."
+      "title": "過濾挖掘方塊",
+      "text": "最後，可以使用$(l:programming/item_filter)物品過濾器/$指定可以挖掘哪些方塊。$(p)對於類似作物的方塊，按照將其破壞時掉落的物品進行過濾（也就是說，對於$(item)小麥/$作物使用$(item)小麥種子/$）。例外是（即便使用絲綢之觸）$(italic)永不/$掉落物品的方塊，對於這些方塊在物品過濾器的設定介面中有$(thing)按方塊匹配/$選項專門解決。"
     },
     {
       "type": "image",
       "images": [
         "pneumaticcraft:textures/items/progwidgets/dig_piece.png"
       ],
-      "text": "$(italic)Hi ho/$"
+      "text": "$(italic)嗬咳/$"
     }
   ]
 }

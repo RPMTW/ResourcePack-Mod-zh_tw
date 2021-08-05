@@ -1,19 +1,19 @@
 {
-  "name": "Start Widget",
+  "name": "開始",
   "icon": "pneumaticcraft:textures/items/progwidgets/start_piece.png",
   "category": "widget_flow",
   "advancement": "pneumaticcraft:programmer",
   "pages": [
     {
       "type": "text",
-      "text": "The $(thing)Start/$ widget is the first widget in your program, and is where $(l:programming/flow_control)program execution/$ starts.$(p)It $(italic)must/$ exist, and there can be only one."
+      "text": "$(thing)開始/$拼圖是程序中的第一個拼圖，也是$(l:programming/flow_control)程序執行流/$開始的地方。$(p)該拼圖$(italic)必須/$存在，且只可有一個。"
     },
     {
       "type": "image",
       "images": [
         "pneumaticcraft:textures/items/progwidgets/start_piece.png"
       ],
-      "text": "$(italic)Call me MacLeod/$"
+      "text": "$(italic)叫我 MacLeod/$"
     }
   ]
 }

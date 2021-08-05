@@ -1,29 +1,29 @@
 {
-  "name": "Regulator Module",
+  "name": "調節器管道模組",
   "icon": "pneumaticcraft:regulator_tube_module",
   "category": "tubes",
   "advancement": "pneumaticcraft:pressure_tube",
   "pages": [
     {
       "type": "text",
-      "text": "The Regulator Tube Module is an $(thing)in-line/$ module used to limit the $(l:base_concepts/pressure)pressure/$ allowed through the tube. To set a threshold pressure $(formula)Pt/$, apply a $(#f00)redstone signal/$ of level $(formula)S/$:$(p)$(formula)  Pt = (15 - S) / 2/$$(p)E.g. a $(#f00)redstone signal/$ of level 6 will enforce a pressure threshold of $(formula) (15 - 6) / 2 = 4.5 bar/$."
+      "text": "調節器管道模組是一個$(thing)管上/$模組，用於限制通過管道的$(l:base_concepts/pressure)壓力/$。要設定模組工作的閾值 $(formula)Pt/$，施加強度為 $(formula)S/$ 的$(#f00)紅石信號/$：$(p)$(formula)  Pt = (15 - S) / 2/$$(p)例如，強度為 6 的$(#f00)紅石信號/$將把壓力閾值設定為 $(formula) (15 - 6) / 2 = 4.5 bar/$。"
     },
     {
       "type": "text",
-      "text": "When the narrow side of the regulator reaches this pressure, no more air will be allowed through the tube. This principal can be used as a $(thing)transformer/$: on the input (wide) side is high-pressure air, but the Regulator Tube limits the pressure on the output to the threshold pressure.$(p)This allows a lower tier tube network to be safely supplied by a higher-tier network."
+      "text": "模組的窄側達到這一壓力時，模組將阻止空氣流過該管道。這一點可以被用作「$(thing)變壓器/$」：輸入（寬）側為高壓空氣，但調節器管道模組將輸出端的壓力限制到閾值壓力。$(p)這可以用於用高壓氣網供應低壓氣網。"
     },
     {
       "type": "text",
-      "text": "The $(thing)Regulator Module/$ $(italic)only/$ allows air to travel from the input (wide) to the output (narrow); air is never allowed to travel in the other direction. This means this module can be used as a one-way valve.$(p)Note that the $(thing)Regulator/$ does $(italic)not/$ actively reduce pressure on its narrow side; it only prevents air flow if the pressure would rise above the threshold."
+      "text": "$(thing)調節器管道模組/$$(italic)僅/$允許空氣從輸入面（寬）通向輸出面（窄）；空氣無法反向傳播。這意味著該模組也可以用作單向閥。$(p)註：$(thing)調節器管道模組/$$(italic)並不/$主動降低輸出側的壓力；其只在輸出側壓力將升高到閾值時阻止通過模組的空氣流動。"
     },
     {
       "type": "text",
-      "title": "Advanced PCB",
-      "text": "When you apply an $(l:components/advanced_pcb)Advanced PCB/$ to the Regulator Module, the module gains a GUI providing far more control over the threshold level. You can set a precise threshold in the GUI, or with the $(bold)Advanced Config/$ checkbox, configure interpolated threshold levels based on the signal. This functions exactly like the $(l:tubes/safety_module)Safety Module/$."
+      "title": "高級印刷電路板",
+      "text": "向調節器管道模組安裝$(l:tubes/advanced_pcb)高級印刷電路板/$後，可以在設定介面中更精細地控制閾值。或者，在勾選$(bold)高級設定/$標籤頁後，基於紅石信號調整插值閾值。這一功能與$(l:tubes/pressure_gauge_module#img)壓力表管道模組/$相同。"
     },
     {
       "type": "crafting",
-      "text": "Creating the Regulator Module",
+      "text": "調節器管道模組的合成表",
       "recipe": "pneumaticcraft:regulator_tube_module"
     }
   ]

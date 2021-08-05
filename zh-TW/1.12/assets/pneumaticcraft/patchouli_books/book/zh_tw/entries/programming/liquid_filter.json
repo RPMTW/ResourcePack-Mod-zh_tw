@@ -1,19 +1,19 @@
 {
-  "name": "Fluid Filter Widget",
+  "name": "流體過濾器",
   "icon": "pneumaticcraft:textures/items/progwidgets/liquid_filter_piece.png",
   "category": "widget_interact",
   "advancement": "pneumaticcraft:programmer",
   "pages": [
     {
       "type": "text",
-      "text": "The $(thing)Fluid Filter/$ is a widget solely used as $(thing)parameter/$ for other widgets. You can use it to specify a certain fluid by $(thing)right-clicking/$ the widget and searching/selecting fluids in the resulting search GUI."
+      "text": "$(thing)流體過濾器/$拼圖僅用作其餘拼圖的$(thing)參數/$。可以通過右擊調出設定介面，在此可以搜尋/選擇流體以指定被過濾的流體。"
     },
     {
       "type": "image",
       "images": [
         "pneumaticcraft:textures/items/progwidgets/liquid_filter_piece.png"
       ],
-      "text": "$(italic)Fluid Filter Widget/$"
+      "text": "$(italic)流體過濾器/$"
     }
   ]
 }

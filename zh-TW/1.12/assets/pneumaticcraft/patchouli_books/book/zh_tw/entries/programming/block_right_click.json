@@ -1,23 +1,23 @@
 {
-  "name": "Right Click Block Widget",
+  "name": "右擊方塊",
   "icon": "pneumaticcraft:textures/items/progwidgets/block_right_click_piece.png",
   "category": "widget_interact",
   "advancement": "pneumaticcraft:programmer",
   "pages": [
     {
       "type": "text",
-      "text": "The Drone will $(thing)right-click/$ with the item in its first inventory slot, for every block position in its connected $(l:programming/area)Area/$ widget. This could be used to hoe the ground, place seeds, apply bonemeal, throw a potion, deploy a drone, rotate blocks with a wrench... the possibilities are endless. You can filter which blocks should be $(thing)right-clicked/$ by adding an $(l:programming/item_filter)Item Filter/$ widget which specifies the block."
+      "text": "無人機將會對指定$(l:programming/area)區域/$內的每一個方塊使用其物品欄內第一個物品$(thing)右擊/$.這可以用來鋤地，種下種子，施加骨粉，投擲藥水，部署無人機，使用扳手旋轉方塊等...用它可以做到的可能性是無窮的。你可以通過放置一個指示某方塊的$(l:programming/item_filter)物品過濾器/$來指定哪些方塊應當被$(thing)右擊/$。"
     },
     {
       "type": "text",
-      "text": "You could use this widget to place down regular blocks. However, this is $(italic)not/$ recommended, because when a Drone right-clicks a position where a block exists already, it will right-click the block, resulting in placing down a block $(italic)next/$ to this block instead of the block itself.$(p)For these reasons the use of the $(l:programming/place)Place/$ widget is preferred. There are some situations, though (e.g. trying to plant $(item)Seeds/$) where the $(thing)Right Click Block/$ widget is required."
+      "text": "你可以用它來放置一般的方塊.但$(italic)並不/$推薦這麼做，因為當無人機對一個已經有方塊的位置執行右擊時，其將會右擊該方塊，使得方塊被放置在其$(italic)旁邊/$而非替換掉該方塊。$(p)因此，建議使用$(l:programming/place)放置/$放置方塊。儘管如此，還是有一些情況下（例如種植$(item)種子/$）需要使用$(thing)右擊方塊/$。"
     },
     {
       "type": "image",
       "images": [
         "pneumaticcraft:textures/items/progwidgets/block_right_click_piece.png"
       ],
-      "text": "$(italic)Right-click Block Widget/$"
+      "text": "$(italic)右擊方塊/$"
     }
   ]
 }

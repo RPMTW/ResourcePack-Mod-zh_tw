@@ -1,0 +1,26 @@
+{
+    "name": "Heat Sawmill",
+    "icon": "prodigytech:heat_sawmill",
+    "category": "hot_air",
+    "advancement": "prodigytech:main/aeroheater",
+    "pages": [
+        {
+            "type": "text",
+            "text": "The $(item)Heat Sawmill$() can cut wood much more efficiently than hands can. This includes cutting $(thing)Logs$() into $(thing)Planks$(), and $(thing)Planks$() into $(thing)Sticks$(). This process will also produce $(item)Sawdust$(), which can be made into $(item)Particle Board$() for decoration.$(br2)Items can be inserted/extracted from any side except top and bottom."
+        },
+        {
+            "type": "crafting",
+            "recipe": "prodigytech:machine/heat_sawmill"
+        },
+        {
+            "type": "crafting",
+            "recipe": "prodigytech:decorative/particle_board_clay",
+            "recipe2": "prodigytech:decorative/particle_board_slime"
+        },
+        {
+            "type": "crafting",
+            "recipe": "prodigytech:decorative/particle_board_planks",
+            "recipe2": "prodigytech:decorative/particle_board_cycle"
+        }
+    ]
+}

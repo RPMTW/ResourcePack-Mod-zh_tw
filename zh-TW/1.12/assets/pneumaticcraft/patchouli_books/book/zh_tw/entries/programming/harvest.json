@@ -1,22 +1,22 @@
 {
-  "name": "Harvest Widget",
+  "name": "收穫作物",
   "icon": "pneumaticcraft:textures/items/progwidgets/harvest_piece.png",
   "category": "widget_interact",
   "advancement": "pneumaticcraft:programmer",
   "pages": [
     {
       "type": "text",
-      "text": "The Drone will harvest any fully grown crop or tree within the specified $(l:programming/area)area/$. Items that are dropped from the crop blocks are $(italic)not/$ picked up; either add a separate $(l:programming/pickup_item)Pick Up Item/$ widget, or use some alternate means of collecting the items, such as a separate $(item)Drone/$.$(p)You can connect an optional $(l:programming/item_filter)Item Filter/$ to limit which crops will be harvested (use the crop's seed to filter)."
+      "text": "無人機將會收穫給定$(programming/area)區域/$內的任何成熟作物或者樹。作物的掉落物$(italic)不會/$被$(item)無人機/$撿起；加入一個$(l:programming/pickup_item)撿起物品/$拼圖，或者使用其他手段收集物品，例如另外一台$(item)無人機/$。$(p)可以連接可選的$(l:programming/item_filter)物品過濾器/$限制可被收穫的作物（使用作物的種子作為過濾）。"
     },
     {
       "type": "text",
-      "title": "Tools",
-      "text": "You can make the $(item)Drone/$  $(l:programming/inventory_import)import/$ a $(item)Hoe/$. When equipped with a Hoe, crops will automatically be replanted (this uses durability from the Hoe).$(p)You can force the $(item)Drone/$ to $(italic)only/$ harvest when carrying a Hoe by checking the $(item)Requires Hoe/$ checkbox in the widget setup GUI; then, if/when the Hoe breaks, the drone can get another one before continuing to harvest."
+      "title": "使用工具",
+      "text": "可以使$(item)無人機/$$(l:programming/inventory_import)輸入/$一個$(item)鋤/$。搭載有鋤時，作物將被自動補種（這將會消耗鋤的耐久度）。$(p)可以通過勾選設定介面中的$(thing)需要鋤/$選項以確保$(item)無人機/$$(italic)只/$在有鋤的情況下收穫；此後，若鋤完全損壞，無人機可以在繼續收穫前再輸入另一個鋤。"
     },
     {
       "type": "text",
-      "title": "Limiting Blocks Harvested",
-      "text": "The amount of harvest actions can be limited to a specified amount by $(thing)right-clicking/$ the $(thing)Harvest/$ widget.$(p)If set to 1 for example, the $(item)Drone/$ will only harvest one block each time the widget is executed, and move on to the next widget after harvesting that one block."
+      "title": "限制收穫方塊數量",
+      "text": "收穫操作的數目可以通過勾選設定介面中的$(thing)限制方塊互動數/$並輸入限制值限制至特定值。$(p)例如，如果設定為 1，$(item)無人機/$將只收穫一個作物方塊（無論區域內有多少作物方塊）就結束執行本拼圖。"
     },
     {
       "type": "image",

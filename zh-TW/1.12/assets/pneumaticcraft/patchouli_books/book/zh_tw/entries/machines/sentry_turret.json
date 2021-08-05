@@ -1,22 +1,22 @@
 {
-  "name": "Sentry Turret",
+  "name": "哨戒炮",
   "icon": "pneumaticcraft:sentry_turret",
   "category": "machines",
   "advancement": "pneumaticcraft:plastic",
   "pages": [
     {
       "type": "text",
-      "text": "The $(thing)Sentry Turret/$ is an autonomous defensive weapon. It uses an integrated $(l:tools/minigun)Minigun/$ and $(l:tools/minigun_ammo)Gun Ammo/$ (which you must supply) to shoot entities within range. Its range is 16 blocks by default, but can be upgraded with $(l:base_concepts/upgrades#range)Range Upgrades/$ to a max of 32 blocks.$(p)You do not need to provide $(l:base_concepts/pressure)pressure/$ for Sentry Turret to function, but you do need to provide $(l:tools/minigun_ammo)ammo/$."
+      "text": "$(thing)哨戒炮/$是一台自動防禦武器。其使用內建的$(l:tools/minigun)加特林機槍/$與$(l:tools/minigun_ammo)機槍彈藥/$（但彈藥需要另行供給）向範圍內的實體射擊。預設射擊範圍為 16 格，但這可以使用$(l:base_concepts/upgrades#range)範圍升級/$提升到最大 32 格方塊。$(p)哨戒炮不需要$(l:base_concepts/pressure)壓力/$以工作，但仍需要提供$(l:tools/minigun_ammo)機槍彈藥/$。"
     },
     {
       "type": "spotlight",
       "item": "pneumaticcraft:sentry_turret",
-      "text": "Potential targets for the $(thing)Sentry Turret/$ can be filtered by entering an $(l:base_concepts/entity_filter)Entity Filter/$ in the Turret's GUI; you can press & hold $(thing)F1/$ for a popup filter help page.$(p)$(bold)Important/$: set an entity filter $(italic)before/$ loading ammo to avoid pain and suffering."
+      "text": "$(thing)哨戒炮/$的攻擊目標可在介面中通過輸入$(l:base_concepts/entity_filter)實體過濾器/$設定；長按 $(thing)F1/$ 以顯示過濾器幫助。$(p)$(bold)重要的是/$：在裝填彈藥$(italic)前/$輸入過濾，以免受到不必要的傷害。"
     },
     {
       "type": "spotlight",
       "item": "pneumaticcraft:security_station",
-      "text": "When the $(thing)Sentry Turret/$ is covered by one or more $(l:machines/security_station)Security Stations/$, it will never target any players who are on the trusted list of $(italic)all/$ Security Stations, regardless of how the entity filter is set up."
+      "text": "若$(thing)哨戒炮/$處在一個或多個$(l:machines/security_station)安全站/$的範圍內，其將不會攻擊同時在$(italic)所有/$安全站白名單內的玩家，無論實體過濾如何。"
     },
     {
       "type": "image",
@@ -27,7 +27,7 @@
     },
     {
       "type": "crafting",
-      "text": "Creating a Sentry Turret",
+      "text": "哨戒炮的合成表",
       "recipe": "pneumaticcraft:sentry_turret"
     }
   ]

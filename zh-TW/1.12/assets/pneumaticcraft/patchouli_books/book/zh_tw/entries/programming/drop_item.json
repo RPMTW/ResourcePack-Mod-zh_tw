@@ -1,23 +1,23 @@
 {
-  "name": "Drop Item Widget",
+  "name": "扔出物品",
   "icon": "pneumaticcraft:textures/items/progwidgets/item_drop_piece.png",
   "category": "widget_interact",
   "advancement": "pneumaticcraft:programmer",
   "pages": [
     {
       "type": "text",
-      "text": "This will make the $(l:tools/drone)Drone/$ drop items from its inventory in the connected $(l:programming/area)Area/$. By $(thing)right-clicking/$ the $(thing)Drop Item/$ widget you can specify how many items per position in the area may be dropped. You can also toggle between $(thing)Random/$ and $(thing)Straight/$ modes, which mean it will drop the item with a small random offset (like a vanilla $(item)Dropper)/$, or drop the item straight down, respectively."
+      "text": "該拼圖將會使$(l:tools/drone)無人機/$在指定$(l:programming/area)區域/$從自身的物品欄扔出物品。$(thing)右擊/$ $(thing)扔出物品/$拼圖可以調出設定介面，在此可以指定在區域中的每個方塊扔出多少物品。同樣可以在此於$(thing)隨機/$與$(thing)直線/$模式間切換，亦即，$(item)無人機/$將分別賦予扔出的物品一個隨機的偏移動量（與原版$(item)投擲器/$行為相同），或者不給予這一隨機動量。"
     },
     {
       "type": "text",
-      "text": "You can also connect an $(l:programming/item_filter)Item Filter/$. With a filter, only items that are allowed by the filter will be dropped.$(p)The widget is done executing when none of the applicable items remain in the $(item)Drone's/$ inventory or when the $(item)Drone/$ has visited every position in the area."
+      "text": "同樣可以連接$(l:programming/item_filter)物品過濾器/$。連接後，只有符合過濾的物品才可以被扔出。$(p)當$(item)無人機/$的物品欄中沒有可用的物品或$(item)無人機/$在區域內的所有位置都執行了扔出物品時，該拼圖結束執行。"
     },
     {
       "type": "image",
       "images": [
         "pneumaticcraft:textures/items/progwidgets/item_drop_piece.png"
       ],
-      "text": "$(italic)Drop Item Widget/$"
+      "text": "$(italic)扔出物品/$"
     }
   ]
 }

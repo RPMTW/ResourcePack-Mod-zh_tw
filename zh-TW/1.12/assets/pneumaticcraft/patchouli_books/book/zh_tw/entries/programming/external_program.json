@@ -1,23 +1,23 @@
 {
-  "name": "External Program Widget",
+  "name": "外部程序",
   "icon": "pneumaticcraft:textures/items/progwidgets/external_program_piece.png",
   "category": "widget_flow",
   "advancement": "pneumaticcraft:programmer",
   "pages": [
     {
       "type": "text",
-      "text": "This widget will search for any inventory in the specified $(l:programming/area)Area/$. For every inventory, it will go through each slot. When a $(l:tools/drone)Drone/$ or $(l:components/network_components#network_api)Network API/$) is found, it will run the program stored on that item.$(p)When the program finishes, the $(item)Drone/$ will move onto the next slot and/or inventory."
+      "text": "該拼圖將會尋找給定$(l:programming/area)區域/$中的每一個容器。對於每個容器，其將遍歷每一個欄位。找到$(l:tools/drone)無人機/$或$(l:components/network_components#network_api)網路 API/$) 時，將會執行其所儲存的程序。$(p)這一程序執行完畢後，$(item)無人機/$將會繼續遍歷下一個欄位/容器。"
     },
     {
       "type": "text",
-      "text": "This widget can be used to debug $(item)Drone/$ programs, as $(l:programming/programmer)Programmers/$ also count as an inventory. Just program a $(item)Drone/$ with the $(thing)External Program/$ widget with an area of (only) the $(item)Programmer/$, and place it down.$(p)Now put a $(item)Drone/$ or $(item)Network API/$ in the programmer, and create your program. When you hit the $(thing)⟶ (export)/$ button in the $(item)Programmer/$, the deployed $(item)Drone/$ will immediately execute your program."
+      "text": "該拼圖可以用來除錯$(item)無人機/$程序，因為$(l:programming/programmer)編程器/$同樣算作容器。只需要編程一個指向一個（只）含有某$(item)編程器的$(thing)區域/$的$(thing)外部程序/$拼圖，然後將其放置。$(p)此後，向編程器內放置$(item)無人機/$或$(item)網路 API/$，並進行編程。點擊$(item)編程器/$中的$(thing)⟶（導出）/$按鈕時，已部署的$(item)無人機/$將會立刻執行該程序。"
     },
     {
       "type": "image",
       "images": [
         "pneumaticcraft:textures/items/progwidgets/external_program_piece.png"
       ],
-      "text": "$(italic)Programception/$"
+      "text": "$(italic)遞迴調用/$"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
-  "name": "Air Canister",
+  "name": "空氣罐",
   "icon": "pneumaticcraft:air_canister",
   "category": "components",
   "advancement": "pneumaticcraft:pressure_tube",
   "pages": [
     {
       "type": "text",
-      "text": "The $(item)Air Canister/$ is a crafting component for any $(l:base_concepts/pressure)pressurizable/$ item or tool. It can also be charged and discharged in a $(l:machines/charging_station)Charging Station/$. The $(item)Air Canister/$ has a volume of 3000mL and can be charged to 10 bar (it won't explode).$(p)Any pneumatic items crafted with an $(item)Air Canister/$ will retain the canister's air."
+      "text": "$(item)空氣罐/$是任何$(l:base_concepts/pressure)可被充氣的/$物品或工具的合成材料之一。其同樣可以在$(l:machines/charging_station)充氣站/$裡被充放氣。$(item)充氣罐/$的容量為 3000 mL，壓力最大為 10 bar（它不會爆炸）。合成需要$(item)空氣罐/$的任何物品時，產物將保留原空氣罐的既有壓力。"
     },
     {
       "type": "crafting",
-      "text": "Creating an Air Canister",
+      "text": "空氣罐的合成表",
       "recipe": "pneumaticcraft:air_canister"
     }
   ]

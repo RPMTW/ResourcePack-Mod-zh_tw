@@ -1,52 +1,52 @@
 {
-  "name": "Pressure Chamber",
+  "name": "壓力室",
   "icon": "pneumaticcraft:pressure_chamber_wall",
   "category": "manufacturing",
   "advancement": "pneumaticcraft:pressure_tube",
   "pages": [
     {
       "type": "text",
-      "text": "The $(thing)Pressure Chamber/$ is a multi-block structure used to compress various materials into other materials. Due to its large air storage capacity, it can also double as a useful \"battery\".$(p)The following rules for multiblock construction apply:$(p)$(li)The overall multiblock must be a hollow 3x3x3, 4x4x4 or 5x5x5 structure."
+      "text": "$(thing)壓力室/$是一個多方塊結構，用於將各種材料相互壓縮。介於其很大的空氣容量，其亦可作為「空氣容器」使用。$(p)多方塊結構的構建遵循下列規則：$(p)$(li)整個多方塊結構的尺寸為 3*3*3，4*4*4，5*5*5，結構為中空。"
     },
     {
       "type": "text",
-      "text": "$(li)The $(thing)edges/$ and $(thing)corners/$ must be either $(item)Pressure Chamber Walls/$ or $(item)Pressure Chamber Glass/$.$(li)The $(thing)faces/$ must be either $(item)Pressure Chamber Walls/$, $(item)Pressure Chamber Glass/$, $(item)Pressure Chamber Valves/$ or $(l:manufacturing/pressure_chamber#interface)Pressure Chamber Interfaces/$.$(li)At least one $(item)Pressure Chamber Valve/$ is required.$(li)At least two $(item)Pressure Chamber Interfaces/$ are recommended (one should face in, one should face out)."
+      "text": "$(li)結構的$(thing)邊/$和$(thing)角/$必須是$(item)壓力室牆壁/$或$(item)壓力室玻璃/$。$(li)結構的$(thing)面/$必須是$(item)壓力室牆壁/$，$(item)壓力室玻璃/$，$(item)壓力室氣閥/$或$(l:manufacturing/pressure_chamber#interface)壓力室介面/$。$(li)結構必須有至少一個$(item)壓力室氣閥/$。$(li)多方塊結構建議有至少兩個$(item)壓力室介面/$（一個朝內，一個朝外）。"
     },
     {
       "type": "multiblock",
-      "name": "Pressure Chamber",
+      "name": "壓力室",
       "multiblock_id": "pneumaticcraft:pressure_chamber_3",
-      "text": "A possible 3x3x3 pressure chamber with 1 $(item)valve/$ and 2 $(item)interfaces/$"
+      "text": "一個可行的壓力室，尺寸為 3*3*3，有 1 個$(item)氣閥/$和 2 個$(item)介面/$"
     },
     {
       "type": "multiblock",
-      "name": "Pressure Chamber",
+      "name": "壓力室",
       "multiblock_id": "pneumaticcraft:pressure_chamber_4",
-      "text": "A possible 4x4x4 pressure chamber with 2 $(item)valves/$ and 2 $(item)interfaces/$"
+      "text": "一個可行的壓力室，尺寸為 4*4*4，有 2 個$(item)氣閥/$和 2 個$(item)介面/$"
     },
     {
       "type": "multiblock",
-      "name": "Pressure Chamber",
+      "name": "壓力室",
       "multiblock_id": "pneumaticcraft:pressure_chamber_5",
-      "text": "A possible 5x5x5 pressure chamber with 4 $(item)valves/$ and 4 $(item)interfaces/$"
+      "text": "一個可行的壓力室，尺寸為 5*5*5，有 4 個$(item)氣閥/$和 4 個$(item)介面/$"
     },
     {
       "type": "spotlight",
       "anchor": "interface",
       "item": "pneumaticcraft:pressure_chamber_interface",
-      "text": "The $(item)Pressure Chamber Interface/$ is used to automate the insertion and extraction of items to the $(thing)Pressure Chamber/$. Items $(italic)must/$ be piped in via $(item)Hoppers/$ or other mod piping systems. It is recommended to have at least two interfaces: one with the 'I' facing out (the $(thing)input interface/$), and one with the 'O' facing out (the $(thing)output interface/$)."
+      "text": "$(item)壓力室介面/$用於自動化$(thing)壓力室/$的物品輸入輸出。物品$(italic)必須/$使用$(item)漏斗/$或其它模組加入的管道系統輸入。建議有至少兩個介面：一個寫有「I」的一面朝外（即$(thing)輸入介面/$），另一個寫有「O」的一面朝外（即$(thing)輸出介面/$）。"
     },
     {
       "type": "text",
-      "text": "There are several ways to select which items should be imported/exported by an $(item)Interface/$. You can switch between them by clicking on the button in the $(thing)Filter/$ tab:$(li)$(bold)Item/$ - matches by item type; leaving the filter empty will allow import/export of any item.$(li)$(bold)Name Contains/$ - matches when the item name contains the given string$(li)$(bold)Name Starts With/$ - matches when the item starts with the given string"
+      "text": "有好幾種辦法選定哪些物品應該被$(item)介面/$所輸入輸出。可以點擊$(thing)過濾/$標籤頁中的按鈕以在其間切換：$(li)$(bold)物品/$ - 按物品類型匹配；留空將運輸任何物品被輸入/輸出。$(li)$(bold)名稱包含/$ - 匹配所有名稱中包含給定文字的物品。$(li)$(bold)名稱起始於/$ - 匹配所有名稱以給定文字開頭的物品."
     },
     {
       "type": "text",
-      "text": "Output mode $(item)Interfaces/$ will auto-eject into an adjacent inventory; this may or may not include other mods' pipes, depending on whether or not they look like an inventory to the interface.$(p)It costs 1000mL of $(l:base_concepts/pressure)air/$ per item transferred. This means, to transfer a full stack, the $(item)Interface/$ needs 64000mL (4 bar for a basic 3x3x3 chamber). If the Interface seems to get 'stuck', it's just waiting for more pressure to build up."
+      "text": "輸出模式的$(item)壓力室介面/$將把物品自動輸出到相鄰的容器；此處的容器不一定包括其餘模組的管道，取決於其某些屬性。$(p)每傳輸一個物品需要消耗 1000mL $(l:base_concepts/pressure)空氣/$。也就是說，要傳輸一組（堆疊數為 64）物品，$(item)壓力室介面/$需要 64000mL 空氣（對於一個基本的 3*3*3 壓力室，這相當於 4 bar 的壓力）。如果介面看似卡住了，其僅僅是在等待壓力積攢起來。"
     },
     {
       "type": "text",
-      "text": "$(bold)Tips/$$(p)$(li)When compressing $(item)Iron/$, compress $(item)Block of Iron/$, since it will use only 1/9th of the air.$(li)When adding a new item to an (empty) output Interface filter, set the Interface to run on a $(#f00)redstone signal/$. This will prevent it immediately pulling out items before the chamber even has a chance to compress them.$(li)$(l:components/transistor)Transistors/$ and $(l:components/capacitor)Capacitors/$ can be filtered by $(bold)Name Contains/$ 'tor'."
+      "text": "$(bold)小提示/$$(p)$(li)在壓縮$(item)鐵/$時，壓縮$(item)鐵方塊/$，介於其僅僅使用逐錠壓縮所消耗的空氣的 1/9。$(li)要向（空的）壓力室輸出介面加入物品過濾，將介面設定為$(#f00)紅石信號/$控制。這將會放置其立刻抽出物品，甚至在物品被壓縮之前。"
     },
     {
       "type": "crafting",

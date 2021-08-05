@@ -1,0 +1,32 @@
+{
+    "name": "Fuel Processor",
+    "icon": "prodigytech:fuel_processor",
+    "category": "circuits",
+    "advancement": "prodigytech:main/solderer",
+    "pages": [
+        {
+            "type": "text",
+            "text": "The $(item)Fuel Processor$() breaks down Furnace fuels into $(item)Fuel Pellets$(), each burning for a single item in a Furnace. They can also be combined into groups of 4, 16 or 64 for convenience.$(br2)The output amount is rounded down if needed. Fuels that burn for more than 4096 items or have a container (like $(item)Lava Buckets$()) can't be processed."
+        },
+        {
+            "type": "crafting",
+            "recipe": "prodigytech:machine/fuel_processor",
+            "text": "Items can be inserted/extracted from any side except top and bottom."
+        },
+        {
+            "type": "crafting",
+            "recipe": "prodigytech:storage/fuel_pellet_4",
+            "recipe2": "prodigytech:storage/fuel_pellet_4_uncraft"
+        },
+        {
+            "type": "crafting",
+            "recipe": "prodigytech:storage/fuel_pellet_16",
+            "recipe2": "prodigytech:storage/fuel_pellet_16_uncraft"
+        },
+        {
+            "type": "crafting",
+            "recipe": "prodigytech:storage/fuel_pellet_64",
+            "recipe2": "prodigytech:storage/fuel_pellet_64_uncraft"
+        }
+    ]
+}

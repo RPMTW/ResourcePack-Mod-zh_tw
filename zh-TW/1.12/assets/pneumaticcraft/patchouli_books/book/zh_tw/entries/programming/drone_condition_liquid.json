@@ -1,19 +1,19 @@
 {
-  "name": "Drone Condition: Fluid Widget",
+  "name": "無人機條件：流體",
   "icon": "pneumaticcraft:textures/items/progwidgets/condition_drone_liquid_piece.png",
   "category": "widget_cond",
   "advancement": "pneumaticcraft:programmer",
   "pages": [
     {
       "type": "text",
-      "text": "This is a $(l:programming/conditions)Condition/$ widget.$(p)The $(thing)Drone Condition: Fluid/$ widget allows you to check the tank of this $(l:tools/drone)Drone/$ for a certain amount of fluid. It will only count the fluid that's allowed by a connected $(l:programming/liquid_filter)Fluid Filter/$ (or no filter to count any fluid)."
+      "text": "這是一個$(l:programming/conditions)條件/$拼圖。$(p)$(thing)無人機條件：流體/$允許你檢查$(l:tools/drone)無人機/$是否裝載有一定量的流體。只會對所連接的$(l:programming/liquid_filter)流體過濾器/$所允許的流體（如果沒有，即允許所有流體）進行計量。"
     },
     {
       "type": "image",
       "images": [
         "pneumaticcraft:textures/items/progwidgets/condition_drone_liquid_piece.png"
       ],
-      "text": "$(italic)Drone Condition: Fluid Widget/$"
+      "text": "$(italic)無人機條件：流體/$"
     }
   ]
 }

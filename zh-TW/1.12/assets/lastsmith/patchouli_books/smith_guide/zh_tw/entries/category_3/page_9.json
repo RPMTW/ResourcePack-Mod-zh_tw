@@ -1,0 +1,69 @@
+{
+   "name": "「山樱」之名的伪物",
+   "icon": "flammpfeil.slashblade:slashbladenamed{ModelName: \"named/yamazakura/model_fake\",TextureName: \"named/yamazakura/yamazakura_yayoi_sakura\"}",
+   "category": "category_3",
+   "pages": [
+      {
+         "type": "text",
+         "text": "There used to be a Yamazakura tree in an unknown village of Tomihara State.$(br2)The Second Cycle of Lunar Calendar, The year of Moon, Summer and Wood. Meteorite stroke the village, destroyed everything except the Yamazakura. The following year, a group of peopel found the miracle of that Yamazakura tree, so they established a new village around it, and called the new village Yamazakura Village."
+      },
+      {
+         "type": "text",
+         "text": "在盗国之战前，为了苇原国的存亡，苇原仅存会锻造钢刃的刀匠聚集于一起，花费一年联合打造了十二振上品的钢刀。$(br2)过程是惨烈的：不仅有在锻造成功之后被忍者杀害的，更有为了增强刀的力量不惜以刀自刎使刀刃染上妖气的。$(br2)然而事故发生了……"
+      },
+      {
+         "type": "text",
+         "text": "沾染的妖气过于浓厚，召唤出了被消灭的邪魔并吞噬了所有的成品。$(br2)苇原的武者用手中仅有的武器，牺牲了太多的人才击败它……$(br2)我们现在能找到的，是十二刃之中的九刃的仿制品。$(br)这些仿制品，来自于前内府统治地区，但只能算得上形似而已。"
+      },
+      {
+         "type": "entity",
+         "entity": "minecraft:spider",
+         "scale": "0.8",
+         "text": "使用刀击杀，会得到山樱「睦月」松"
+      },
+      {
+         "type": "entity",
+         "entity": "minecraft:stray",
+         "text": "使用刀击杀，会得到山樱「如月」梅"
+      },
+      {
+         "type": "entity",
+         "entity": "minecraft:creeper",
+         "text": "使用刀击杀，会得到山樱「弥生」樱"
+      },
+      {
+         "type": "entity",
+         "entity": "minecraft:ghast",
+         "scale": "0.5",
+         "text": "使用刀击杀，会得到山樱「卯月」"
+      },
+      {
+         "type": "entity",
+         "entity": "minecraft:enderman",
+         "text": "使用刀击杀，会得到山樱「皋月」"
+      },
+      {
+         "type": "entity",
+         "entity": "minecraft:blaze",
+         "text": "使用刀击杀，会得到山樱「叶月」"
+      },
+      {
+         "type": "entity",
+         "entity": "minecraft:guardian",
+         "scale": "0.5",
+         "text": "使用刀击杀，会得到山樱「长月」菊"
+      },
+      {
+         "type": "entity",
+         "entity": "minecraft:vex",
+         "text": "使用刀击杀，会得到山樱「师走」"
+      },
+      {
+         "type": "entity",
+         "entity": "minecraft:magma_cube",
+         "text": "使用刀击杀，会得到山樱「霜月」"
+      }
+   ],
+   "advancement": "lastsmith:slashblade_bamboolight",
+   "sortnum": 8
+}

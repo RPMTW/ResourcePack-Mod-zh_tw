@@ -1,0 +1,28 @@
+{
+   "name": "「无念」",
+   "icon": "flammpfeil.slashblade:slashbladenamed{ModelName: \"named/smith/model\", TextureName: \"named/smith/texture_final\"}",
+   "category": "category_5",
+   "pages": [
+      {
+         "type": "text",
+         "text": "我一直在承受着被瞧不起的日子……$(br2)我一定会完成的……究极的无上利刃……$(br2)这振斩断不死之刃……一直在引诱着我……$(br2)拔出它，拔出它，拔出它……$(br2)而斩断不死之力究竟是………………………………"
+      },
+      {
+         "type": "image",
+         "images": [
+            "lastsmith:textures/gui/smith_guide_final_page.png"
+         ]
+      },
+      {
+         "type": "text",
+         "text": "第三轮回，月与春与火之年，霜月$(br)当他跟我说起他准备写一本书之后，政一直把自己关在一个小房子中……$(br2)自从那振妖刀被发现之日开始，或许更久之前，政消失了，而草稿的那片血迹也估计就是政本人的。$(br2)我们决定把这振妖刀取名为天云「无念」，将未受影响的两振灵刀赐给射命丸大人……"
+      },
+      {
+         "type": "crafting",
+         "recipe": "lastsmith:flammpfeil.slashblade.named.smith.final",
+         "text": "「无念」，代表了他的最期……我想如果射命丸大人知道了他的死去或许会很悲痛吧……$(br2)射命丸 政的友人——青竹"
+      }
+   ],
+   "advancement": "lastsmith:amagumo",
+   "sortnum": 4
+}

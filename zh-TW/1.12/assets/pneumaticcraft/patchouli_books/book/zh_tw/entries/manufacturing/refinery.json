@@ -1,50 +1,50 @@
 {
-  "name": "Refinery",
+  "name": "精煉廠",
   "icon": "pneumaticcraft:refinery",
   "category": "manufacturing",
   "advancement": "pneumaticcraft:oil_bucket",
   "pages": [
     {
       "type": "text",
-      "text": "The $(item)Refinery/$ is a machine which uses $(l:base_concepts/heat)heat/$ to refine $(l:base_concepts/oil)Oil/$ into various fuels. It starts to work at 100°C. The higher the temperature applied, the faster it refines. The fuels that can be produced are, sorted from lightest to heaviest:$(li)$(thing)LPG (Liquefied Petroleum Gas)/$$(li)$(thing)Gasoline/$$(li)$(thing)Kerosene/$$(li)$(thing)Diesel/$"
+      "text": "$(item)精煉廠/$是一個使用$(l:base_concepts/heat)熱量/$將$(l:base_concepts/oil)石油/$精煉為各種燃料。其在 100℃ 下即可開始工作。溫度越高，精煉速度越快。能生產的燃料如下表所示，由輕到重排序：$(li)$(thing)液化石油氣（LPG）/$$(li)$(thing)汽油/$$(li)$(thing)煤油/$$(li)$(thing)柴油/$"
     },
     {
       "type": "text",
-      "text": "$(item)Refineries/$ cannot operate with a single block: between 2 and 4 Refineries need to be stacked on top of each other to operate. $(p)Different multiblock sizes give different yields; given 10mB of oil as input:$(p)$(bold)2 Refineries/$$(br)$(li)$(thing)LPG/$ (2mB)$(li)$(thing)Diesel/$ (4mB)$(br)$(bold)3 Refineries/$$(li)$(thing)LPG/$ (2mB)$(li)$(thing)Kerosene/$ (3mB)$(li)$(thing)Diesel/$ (2mB)"
+      "text": "$(item)精煉廠/$不能以單方塊形式執行：需要豎向堆疊 2-4 個精煉塔使其工作。$(p)不同的多方塊結構大小有不同的產出；若輸入 10mB 石油：$(p)$(bold)2 個精煉塔/$$(br)$(li)$(thing)液化石油氣/$（2mB）$(li)$(thing)柴油/$（4mB）$(br)$(bold)3 個精煉塔/$$(li)$(thing)液化石油氣/$（2mB）$(li)$(thing)煤油/$（3mB）$(li)$(thing)柴油/$（2mB）"
     },
     {
       "type": "text",
-      "text": "$(bold)4 Refineries/$$(br)$(li)$(thing)LPG/$ (2mB)$(li)$(thing)Gasoline/$ (3mB)$(li)$(thing)Kerosene/$ (3mB)$(li)$(thing)Diesel/$ (2mB)$(p)The lightest fuel will always end up in the top $(item)Refinery/$, the heaviest in the bottom.  If you add more $(item)Refinery/$ blocks to an existing stack, the multiblock will do its best to automatically rearrange any existing output liquids into their correct block, to keep the system running."
+      "text": "$(bold)4 個精煉廠/$$(br)$(li)$(thing)液化石油氣/$（2mB）$(li)$(thing)汽油/$（3mB）$(li)$(thing)煤油/$（3mB）$(li)$(thing)柴油/$（2mB）$(p)輕燃料永遠在靠上的$(item)精煉廠/$輸出，重燃料永遠在靠下的$(item)精煉廠/$輸出。若向已有結構加入$(item)精煉廠/$方塊，多方塊結構將試圖自動重排已有輸出流體，以使其能正常工作（輸出沒有被阻塞）。"
     },
     {
       "type": "text",
-      "text": "All produced liquids can be used as fuel in a $(l:compressors/liquid_compressor)Liquid Compressor/$ (with lighter fuels being of better quality).$(p)However, there are two other very important uses:$(li)$(thing)LPG/$ is used to make liquid $(l:components/plastic)Plastic/$$(li)$(thing)Diesel/$ is used to make $(l:components/lubricant)Lubricant/$ for $(l:base_concepts/upgrades#speed)Speed Upgrades/$.$(p)A $(l:manufacturing/thermopneumatic_processing_plant)Thermopneumatic Processing Plant/$ is used for both of these processes."
+      "text": "所有產出的流體可以作為$(l:compressors/liquid_compressor)流體壓縮機/$的燃料（其中輕燃料更好）。$(p)但是，還有兩個很重要的用途：$(li)$(thing)液化石油氣/$用於合成液態$(l:components/plastic)塑膠/$$(li)$(thing)柴油/$用於合成$(l:components/lubricant)潤滑油/$，在$(l:base_concepts/upgrades#speed)速度升級$中用到。$(p)上述兩個合成在$(l:manufacturing/thermopneumatic_processing_plant)熱氣動加工機/$中進行。"
     },
     {
       "type": "text",
-      "title": "Comparator Support",
-      "text": "The $(item)Refinery/$ will work with a $(item)Comparator/$: an attached Comparator will output a signal strength of 15 when the $(item)Refinery/$ has work, and 0 if not. It has work when there's $(thing)Oil/$ to refine $(italic)and/$ space in the output tanks for the refined products."
+      "title": "比較器支持",
+      "text": "$(item)精煉廠/$可以被$(item)比較器/$檢測：當$(item)精煉廠/$可以工作時比較器輸出信號 15，否則輸出信號 0。當有$(thing)石油/$可供精煉$(italic)且/$有空間輸出產物，精煉廠被認為可以工作。"
     },
     {
       "type": "text",
-      "title": "Setup Tips",
-      "text": "Since the $(item)Refinery/$ is a multiblock with many faces exposed to the air, it can lose $(l:base_concepts/heat)Heat/$ quite rapidly if not well insulated. Therefore, it's strongly recommended to cover all unused faces of the multiblock to maximize efficiency. Note that any non-heat-conducting blocks can be used, including semi-solid blocks like $(item)slabs/$ or $(item)trapdoors/$."
+      "title": "構建提示",
+      "text": "由於$(item)精煉廠/$是一個有很多面都暴露在空氣中的多方塊結構，如果沒有做好隔熱其將很快地散失$(l:base_concepts/heat)熱量/$。因此，建議覆蓋所有未被使用的麵以最大化效率。註：隔熱可以使用任何不導熱的方塊，包括碰撞箱不完整的方塊，如$(item)半磚/$和$(item)地板門/$."
     },
     {
       "type": "text",
-      "text": "You can use a $(l:blocks/vortex_tube)Vortex Tube/$ to heat the  $(item)Refinery/$, or place hot fluids (Lava...) or blocks (Magma...) next to any $(item)Refinery/$ blocks.  Note that such fluids and blocks will get used up (their heat gets drained), so you may wish to find a way to automate the production and placement of those resources."
+      "text": "可以使用$(l:blocks/vortex_tube)渦流管/$來加熱$(item)精煉廠/$，或者放置熱的流體（熔岩等）或方塊（岩漿塊等）於與精煉廠方塊相鄰的位置。註：這樣的流體或方塊會被使用（其熱量被吸收盡），所以你或許想要試圖自動化這樣的熱量來源的生產與放置。"
     },
     {
       "type": "link",
       "flag": "mod:crafttweaker",
       "title": "CraftTweaker",
-      "text": "The $(item)Refinery/$ has $(l:https://minecraft.curseforge.com/projects/crafttweaker)CraftTweaker/$ support: recipes can be added and removed. Follow the link below for more information.",
+      "text": "$(thing)精煉廠/$中的合成配方支持被 $(l:https://minecraft.curseforge.com/projects/crafttweaker)CraftTweaker/$ 修改：合成配方可以被加入或移除，見下面連結以獲得更多資訊。",
       "url": "https://crafttweaker.readthedocs.io/en/latest/#Mods/PneumaticCraft_Repressurized/Refinery/",
-      "link_text": "CraftTweaker Docs"
+      "link_text": "CraftTweaker 檔案"
     },
     {
       "type": "crafting",
-      "text": "Creating the Refinery",
+      "text": "精煉廠的合成表",
       "recipe": "pneumaticcraft:refinery"
     }
   ]

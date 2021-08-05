@@ -1,21 +1,21 @@
 {
-  "name": "Air Cannon",
+  "name": "空氣加農炮",
   "icon": "pneumaticcraft:air_cannon",
   "category": "machines",
   "advancement": "pneumaticcraft:pressure_tube",
   "pages": [
     {
       "type": "text",
-      "text": "The $(item)Air Cannon/$ is a device you can use to transport items quite some distance, through the air. It uses $(l:base_concepts/pressure)compressed air/$ as propellant.$(p)You will also need a $(l:tools/gps_tool)GPS Tool/$ to aim the $(item)Air Cannon/$ (although the GPS Tool can be removed and re-used once the Cannon is aimed).$(p)A $(#f00)redstone pulse/$ will trigger the Cannon to fire."
+      "text": "$(item)空氣加農炮/$是一個可以用於將物品從空中運送過好一段距離的機器。其使用$(l:base_concepts/pressure)壓縮空氣/$作為將物品發射的推進劑。$(p)同樣需要$(l:tools/gps_tool)定位工具/$進行瞄準（儘管定位工具在瞄準完成後便可撤去並被復用）。$(p)$(#f00)紅石脈衝/$將使空氣加農炮開火。"
     },
     {
       "type": "text",
       "title": "Upgrades",
-      "text": "With a $(l:base_concepts/upgrades#dispenser)Dispenser Upgrade/$ installed, the $(item)Air Cannon/$ behaves like a vanilla $(item)Dispenser/$ for certain items, e.g. TNT or Fire Charges.$(p)With an $(l:base_concepts/upgrades#entity_tracker)Entity Tracker Upgrade/$, the $(item)Air Cannon/$ will not launch items from its inventory, but instead launch the nearest entity (including you!) when triggered."
+      "text": "安裝$(l:base_concepts/upgrades#dispenser)發射器升級/$後，$(item)空氣加農炮/$的行為對於物品相當於原版$(item)發射器/$，例如：TNT或火焰彈。$(p)安裝$(l:base_concepts/upgrades#entity_tracker)實體追蹤升級/$後，$(item)空氣加農炮/$將不會從其內部儲存中發射物品；相反，其將把附近最近的實體（包括你自身！）發射。"
     },
     {
       "type": "crafting",
-      "text": "Creating an Air Cannon",
+      "text": "空氣加農炮的合成表",
       "recipe": "pneumaticcraft:air_cannon"
     }
   ]

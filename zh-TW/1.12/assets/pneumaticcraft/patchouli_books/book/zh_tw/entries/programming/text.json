@@ -1,17 +1,17 @@
 {
-  "name": "Text Widget",
+  "name": "文字",
   "icon": "pneumaticcraft:textures/items/progwidgets/text_piece.png",
   "category": "widget_other",
   "advancement": "pneumaticcraft:programmer",
   "pages": [
     {
       "type": "text",
-      "text": "The $(thing)Text/$ widget is only used as a parameter for other widgets. It is used to provide textual data for those widgets that need it.$(p)The following pages list those widgets that use it."
+      "text": "$(thing)文字/$拼圖僅用作其他拼圖的參數。其被用於向需要的拼圖提供文字數據。$(p)下幾頁列出了使用該拼圖作為參數的拼圖。"
     },
     {
       "type": "relations",
       "anchor": "entity_filter",
-      "title": "As Entity Filters",
+      "title": "作為實體過濾器",
       "entries": [
         "programming/entity_attack",
         "programming/entity_right_click",
@@ -19,11 +19,11 @@
         "programming/entity_export",
         "programming/drone_condition_entity"
       ],
-      "text": "You can place the $(thing)Text/$ widget on the $(italic)left/$ of these widgets to create a blacklist filter."
+      "text": "可以將$(thing)文字/$連接在$(italic)左/$側以作為黑名單。"
     },
     {
       "type": "relations",
-      "title": "For Other Widgets",
+      "title": "為其他拼圖所用",
       "entries": [
         "programming/edit_sign",
         "programming/rename",
@@ -38,7 +38,7 @@
       "images": [
         "pneumaticcraft:textures/items/progwidgets/text_piece.png"
       ],
-      "text": "$(italic)Text Widget/$"
+      "text": "$(italic)文字拼圖/$"
     }
   ]
 }

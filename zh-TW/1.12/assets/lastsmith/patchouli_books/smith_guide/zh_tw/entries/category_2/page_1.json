@@ -1,0 +1,30 @@
+{
+   "name": "Anonymity-Wood-",
+   "icon": "flammpfeil.slashblade:slashbladeWood",
+   "category": "category_2",
+   "pages": [
+      {
+         "type": "text",
+         "text": "Structure of a Katana is the most basic knowledge that a smith should learn.$(br2)Wooden Katana's making is the best way to learn it. Let's craft parts of a wooden katana, then combine them into a Blade."
+      },
+      {
+         "type": "crafting",
+         "recipe": "lastsmith:blade_wood",
+         "recipe2": "lastsmith:wooden_saya"
+      },
+      {
+         "type": "crafting",
+         "recipe": "flammpfeil.slashblade:recipexes",
+         "text": "Congratulations for your completing your first katana making! Use your wooden Blade carefully, for it is easily to be broken. Sometimes you can protect yourself with it."
+      },
+      {
+         "type": "relations",
+         "entries": [
+            "lastsmith:category_2/page_2",
+            "lastsmith:category_2/page_3",
+            "lastsmith:category_2/page_6"
+         ]
+      }
+   ],
+   "sortnum": 0
+}

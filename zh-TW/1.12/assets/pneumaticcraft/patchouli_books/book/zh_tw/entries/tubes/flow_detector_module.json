@@ -1,20 +1,20 @@
 {
-  "name": "Flow Detector Module",
+  "name": "流量檢測管道模組",
   "icon": "pneumaticcraft:flow_detector_module",
   "category": "tubes",
   "advancement": "pneumaticcraft:pressure_tube",
   "pages": [
     {
       "type": "text",
-      "text": "The Flow Detector Tube Module is an $(thing)in-line/$ module which measures the $(thing)airflow/$ through a tube. It emits a $(#f00)redstone signal/$ as result of this, which follows the following formula:$(p)  $(formula)0.2 * flow (mL/tick)/$$(p)E.g. with 20mL/tick of air flowing, the signal level will be 20*0.2=4."
+      "text": "流量檢測管道模組是一個$(thing)管上/$模組，用於檢測通過管道的$(thing)流量/$。其基於此發出$(#f00)紅石信號/$，其強度基於下列公式：$(p)  $(formula)0.2 * 流量 (mL/刻)/$$(p)例如，若流量為 20mL/刻，信號強度為 20*0.2=4。"
     },
     {
       "type": "text",
-      "text": "Note that $(thing)flow/$ is a different physical quantity to $(l:base_concepts/pressure)pressure/$. Flow is the amount of air traveling through a tube per tick. So if you have (say) an $(l:machines/elevator)Elevator/$ which isn't running, the flow will be 0, but when it runs it will be consuming air, so the flow will be non-zero. So this module can be used to detect if a machine is using air.$(p)The Flow Detector Module does not accept an $(l:tubes/advanced_pcb)Advanced PCB/$."
+      "text": "註：$(thing)流量/$與$(l:base_concepts/pressure)壓力/$是不同的量。流量為每刻通過壓力管道的空氣量。也就是說，（如果）由一台沒有工作的$(l:machines/elevator)電梯/$，壓力為 0；但其執行時會消耗空氣，因而此時的流量不為 0。因此，若某機器在執行時消耗空氣，該模組可以用於檢測其是否在執行。$(p)流量檢測管道模組並不接受$(l:tubes/advanced_pcb)高級印刷電路板/$升級。"
     },
     {
       "type": "crafting",
-      "text": "Creating the Flow Detector Module",
+      "text": "流量檢測管道模組的合成表",
       "recipe": "pneumaticcraft:flow_detector_module"
     }
   ]

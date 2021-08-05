@@ -1,42 +1,42 @@
 {
-  "name": "Security Station",
+  "name": "安全站",
   "icon": "pneumaticcraft:security_station",
   "category": "machines",
   "advancement": "pneumaticcraft:plastic",
   "pages": [
     {
       "type": "text",
-      "text": "If you want to protect an area from people griefing you, you can use the $(thing)Security Station/$.$(p)This device prevents all player interaction by untrusted players on blocks within its range. This means that no inventories or GUIs can be opened, and no blocks can be placed or broken."
+      "text": "如果需要保護一片區域免受他人侵擾，可以使用$(thing)安全站/$。$(p)該裝置防止未受信的玩家在保護區域內對方塊進行任何互動行為。這意味著玩家不能打開任何容器或方塊介面，並無法防止或破壞任何方塊。"
     },
     {
       "type": "spotlight",
       "item": "pneumaticcraft:security_station",
-      "text": "This sounds great, but to set up a $(thing)Security Station/$ you need to do some things to ensure its security. Because the thing is, $(thing)Security Stations/$ can be $(l:machines/security_station#hacking)hacked/$. The hacking system of the Security Station is heavily inspired by $(l:https://www.youtube.com/watch?v=nQ0rPLlU8v4)Deus Ex: Revolution's hacking system/$."
+      "text": "聽起來不錯，但要設立$(thing)安全站/$還需要額外的操作以保證其安全度。因為，事實是，$(thing)安全站/$可以被$(l:machines/security_station#hacking)入侵/$。這一系統很大程度上來源於$(l:https://www.youtube.com/watch?v=nQ0rPLlU8v4)殺出重圍：人類革命的入侵系統/$。"
     },
     {
       "type": "text",
-      "text": "To set up a $(thing)Security Station/$, you need to place $(l:components/network_components)Network Components/$ in the network grid to form a $(thing)network/$. In every network there should be one $(l:components/network_components#diagnostic)Diagnostic Subroutine/$, one $(l:components/network_components#io_port)Network IO Port/$, and one $(l:components/network_components#registry)Network Registry/$.$(p)These three must all be connected with each other, and you can do that with $(l:components/network_components#node)Network Nodes/$. Placing components in stacks larger than one  increase the $(italic)node rating/$, meaning it will take longer for a $(l:machines/security_station#hacking)hacker/$ (and the $(l:components/network_components#diagnostic)Subroutine/$) to capture it."
+      "text": "要設立$(thing)安全站/$，需要在網路格點中放置$(l:components/network_components)網路組件/$以組建$(thing)網路/$。在每個網路中需要有一個$(l:components/network_components#diagnostic)診斷子程序/$、一個$(l:components/network_components#io_port)網路 IO 介面/$和一個$(l:components/network_components#registry)網路註冊表/$。$(p)上述三組件必須相互連接，而連接可以通過$(l:components/network_components#node)網路節點/$實現。堆疊數大於一的組件提升$(italic)節點等級/$，換言之，$(l:machines/security_station#hacking)入侵者/$（以及$(l:components/network_components#diagnostic)診斷子程序/$）需要更長的時間才能控制該節點。"
     },
     {
       "type": "text",
       "title": "Upgrades",
-      "text": "The $(thing)Security Station/$ takes a few upgrades:$(li)$(l:base_concepts/upgrades#entity_tracker)Entity Trackers/$ increase the chance for the $(l:machines/security_station#hacking)hacker/$ to be detected by 20% per upgrade.$(li)$(l:base_concepts/upgrades#security)Security Upgrades/$ increase the number of $(thing)Security Upgrades/$ that hackers need in their $(l:armor/pneumatic_helmet)Pneumatic Helmet/$ to start hacking.$(li)$(l:base_concepts/upgrades#range)Range Upgrades/$ increase the protected range of the station by 1 per upgrade, to a maximum of 16 blocks."
+      "text": "$(thing)安全站/$接受一些升級：$(li)$(l:base_concepts/upgrades#entity_tracker)實體追蹤升級/$將$(l:machines/security_station#hacking)入侵者/$的檢測機率提升 20%。$(li)$(l:base_concepts/upgrades#security)安全升級/$提升入侵者開始入侵需要在$(l:armor/pneumatic_helmet)氣動頭盔/$中安裝的$(thing)安全升級/$的數量。$(li)$(l:base_concepts/upgrades#range)範圍升級/$將安全站的保護範圍提升 1 格，最大為 16 格。"
     },
     {
       "type": "text",
-      "title": "Allowing Friends",
-      "text": "You can add friendly players to your $(thing)Security Station/$ to allow them to interact within the protected area; use the $(bold)Shared Users/$ side tab to enter player names.$(p)You can remove trusted players here too; just click the player's name to remove it."
+      "title": "信任他人",
+      "text": "可以向$(thing)安全站/$加入受信玩家以允許其在保護範圍內進行操作；可以在$(bold)分享使用者/$標籤頁輸入玩家名。$(p)同時，也可在此移除受信玩家；只需點擊玩家名即可移除。"
     },
     {
       "type": "text",
-      "title": "Getting Hacked",
-      "text": "When someone hacks your $(thing)Security Station/$, you can see that in the $(bold)Problems/$ and $(bold)Status/$ tabs, where it also shows $(italic)who/$ has hacked your system. These players (and only these players) can now interact with blocks within the area. To restore security, you'll have to $(italic)reboot/$ the $(thing)Security Station/$ via the $(bold)Reboot/$ button in the GUI. The reboot process takes 60 seconds, during which time the area isn't secured at all."
+      "title": "被入侵",
+      "text": "若$(thing)安全站/$被入侵，可以在$(bold)問題/$與$(bold)狀態/$標籤頁，其中同時顯示入侵者的$(italic)名稱/$。入侵者（而且只有入侵者）此時可以與範圍內的方塊互動。要恢復保護，需要按下$(bold)重啟/$按鈕以$(italic)重啟/$$(thing)安全站/$。重啟過程需要 60 秒；在此過程中區域不受任何保護。"
     },
     {
       "type": "text",
       "title": "Hacking",
       "anchor": "hacking",
-      "text": "To open a $(thing)Security Station/$ that isn't yours, you need a $(l:armor/pneumatic_helmet)Pneumatic Helmet/$ with a $(l:base_concepts/upgrades#security)Security Upgrade/$ installed. When you do this, a GUI similar to the one opposite appears. Watch $(l:https://www.youtube.com/watch?v=Lgmpslbrrwo)this video (very old but still relevant)/$ for a guide on how to hack.$(p)To capture a node, $(thing)left-click/$ it. To fortify a captured node, $(thing)right-click/$ it."
+      "text": "要打開不屬於本人的$(thing)安全站/$，需要安裝有$(l:base_concepts/upgrades#security)安全升級/$的$(l:armor/pneumatic_helmet)氣動頭盔/$。如此操作後，將打開對頁所示的介面。要了解如何入侵，可觀看$(l:https://www.youtube.com/watch?v=Lgmpslbrrwo)該影片（很久遠，但仍然相關）/$。$(p)要控制一個節點，$(thing)左擊/$該節點。要鞏固一個已被控制的節點，$(thing)右擊/$該節點。"
     },
     {
       "type": "image",
@@ -46,12 +46,12 @@
     },
     {
       "type": "text",
-      "title": "Tips",
-      "text": "$(li)Keep your $(thing)Security Station/$ well-concealed and well-protected.$(li)You can protect an area with multiple $(thing)Security Stations/$; all of them must be hacked.$(li)Consider active defences, such as $(l:tools/drone)Drones/$ with combat programs, or $(l:machines/sentry_turret)Sentry Turrets/$$(li)A hacked $(thing)Security Station/$ can be made to emit a $(#f00)redstone signal/$, which could trigger additional measures (TNT under the station, perhaps?)"
+      "title": "提示",
+      "text": "$(li)保持$(thing)安全站/$被封閉且保護良好。$(li)可以用多個$(thing)安全站/$保護一片區域；入侵者需要入侵所有安全站。$(li)可以設立主動防禦，例如寫有戰鬥程序的$(l:tools/drone)無人機/$，或者$(l:machines/sentry_turret)哨戒炮/$。$(li)被入侵的$(thing)安全站/$可以發出$(#f00)紅石信號/$，從而可以觸發額外手段（或許在下方埋藏 TNT？）。"
     },
     {
       "type": "crafting",
-      "text": "Creating a Security Station",
+      "text": "安全站的合成表",
       "recipe": "pneumaticcraft:security_station"
     }
   ]

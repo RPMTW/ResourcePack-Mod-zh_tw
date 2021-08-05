@@ -1,23 +1,23 @@
 {
-  "name": "Condition: Coordinate Widget",
+  "name": "條件：坐標",
   "icon": "pneumaticcraft:textures/items/progwidgets/condition_coordinate_piece.png",
   "category": "widget_cond",
   "advancement": "pneumaticcraft:programmer",
   "pages": [
     {
       "type": "text",
-      "text": "This is a $(l:programming/conditions)Condition/$ widget.$(p)The $(thing)Condition: Coordinate/$ widget compares two $(l:programming/coordinate)Coordinates/$. Different tests can be done on these coordinates, and more specifically on every axis (X/Y/Z) of the coordinate. You can check if just one axis of both coordinates matches, or two, or all three."
+      "text": "這是一個$(l:programming/conditions)條件/$拼圖。$(p)$(thing)條件：坐標/$對兩個$(l:programming/coordinate)坐標/$進行比較。可以對坐標進行不同的比較，準確而言，是對坐標在各個坐標軸（X/Y/Z）的分量比較。可以檢查兩個坐標是否有一個坐標軸上的分量，或者兩個，或者三個都符合特定條件。"
     },
     {
       "type": "text",
-      "text": "The axis or axes being compared are defined by the checkboxes in the widget's GUI. Similarly, the condition to use ('=', '>=') is defined by the radio buttons in the GUI.$(p)Your coordinate comparison is also displayed textually in the GUI (e.g. $(thing)x1 <= x2 and z1 <= z2/$)."
+      "text": "要進行比較的坐標軸可以在設定介面中的複選框指定。類似的，要使用的條件（=，>=）可以由單選框指定。$(p)選定的坐標比較同樣以文字顯示於設定介面中（例：$(thing)x1 <= x2 且 z1 <= z1/$）。"
     },
     {
       "type": "image",
       "images": [
         "pneumaticcraft:textures/items/progwidgets/condition_coordinate_piece.png"
       ],
-      "text": "$(italic)Condition: Coordinate Widget/$"
+      "text": "$(italic)條件：坐標/$"
     }
   ]
 }

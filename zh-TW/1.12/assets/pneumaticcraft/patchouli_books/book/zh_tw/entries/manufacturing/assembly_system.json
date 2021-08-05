@@ -1,55 +1,55 @@
 {
-  "name": "Assembly System",
+  "name": "裝配線",
   "icon": "pneumaticcraft:assembly_controller",
   "category": "manufacturing",
   "advancement": "pneumaticcraft:printed_circuit_board",
   "pages": [
     {
       "type": "text",
-      "text": "To be able to craft higher tier materials, you'll need an $(thing)Assembly System/$; a collection of $(thing)Assembly Machines/$. These machines communicate with each other when they're horizontally adjacent. Only one machine of each type can exist (with the exception of the $(item)Assembly IO Unit/$, see below). The assembly line runs on $(l:base_concepts/pressure)compressed air/$, but you only need to suuply air to the Assembly Controller to power the whole system."
+      "text": "要合成高級的組件，需要$(thing)裝配線/$：一系列$(thing)裝配機器/$。這些機器在水平方向上相鄰時可以相互互動。在一個裝配線中，每種機器只能存在一個（$(item)裝配台 IO 設備/$除外；見一下）。裝配線消耗$(l:base_concepts/pressure)壓縮空氣/$執行，但只需要向裝配控制器供應空氣使其運作。"
     },
     {
       "type": "spotlight",
       "item": "pneumaticcraft:assembly_controller",
-      "text": "The brain of the $(thing)Assembly System/$. It accepts $(l:manufacturing/assembly_programs)programs/$ which tell the $(item)Controller/$ how to control the other $(thing)Assembly Machines/$.$(p)The Controller's display shows diagnostics information about the its status. Open the GUI to see what's happening."
+      "text": "$(thing)裝配線/$的核心。其接受指定其控制其他$(thing)裝配機器/$的方式的$(l:manufacturing/assembly_programs)裝配程序/$。$(p)控制器的介面顯示關於其狀態的診斷資訊。打開介面以查看其狀態。"
     },
     {
       "type": "spotlight",
       "item": "pneumaticcraft:assembly_io_unit",
-      "text": "The $(item)IO Unit/$ is the connection between inventories and the $(item)Assembly Platform/$. This robot arm can reach diagonally.$(p)The IO Unit can either export finished items, or import items to be used in crafting. Any inventory can be used: vanilla $(item)chests/$ or modded inventory blocks."
+      "text": "容器與$(item)裝配平台/$的連接。其機械臂可以存取斜向相鄰的方塊。$(p)裝配台 IO 設備可以輸出已完成的物品，或輸入合成用的物品。可以使用任何容器：原版$(item)儲物箱/$或其他模組的容器方塊。"
     },
     {
       "type": "text",
-      "title": "Assembly IO Unit (cont.)",
-      "text": "An $(thing)Assembly System/$ must include $(italic)two/$ $(item)IO Units/$; one in import mode, and one in export mode.$(p)You can switch modes by right-clicking the $(item)IO Unit/$ with a (Pneumatic) Wrench: $(6)orange/$ means it's in export mode, $(9)blue/$ means it's in import mode. For an $(item)IO Unit/$ to work it needs to be able to reach an $(item)Assembly Platform/$, as well as an inventory to extract or store items (depending on its mode)."
+      "title": "裝配台 IO 設備（續）",
+      "text": "$(thing)裝配線/$必須含有$(italic)兩個/$$(item)裝配線 IO 設備/$；一個處於輸入模式，一個處於輸出模式。$(p)可以透過使用（氣動）扳手切換$(item)裝配台 IO 設備/$的模式：$(6)橙色/$代表輸出模式，$(9)藍色/$代表輸入模式。要使$(item)裝配台 IO 設備/$執行，其需要可以與$(item)裝配平台/$與可供輸入/輸出物品（取決於其模式）的容器。"
     },
     {
       "type": "spotlight",
       "item": "pneumaticcraft:assembly_platform",
-      "text": "The $(item)Assembly Platform/$ is a worktable for the other $(thing)Assembly Machines/$. It is used to hold items in place when drilling/lasering.$(p)The $(item)Assembly Platform/$ is best positioned centrally, as all other machines need to access it."
+      "text": "可供其他$(thing)裝配機器/$使用的工作檯。其用於在鑽孔/雷射切割時保持物品不移動。$(p)$(item)裝配平台/$最好放置在裝配線中間，因為其他機器都需要存取它。"
     },
     {
       "type": "spotlight",
       "item": "pneumaticcraft:assembly_drill",
-      "text": "The $(item)Assembly Drill/$ is one of the $(thing)Assembly Machines/$ which do the actual work. Its diamond drillhead is able to drill through the toughest materials.$(p)The $(item)Assembly Drill/$ can $(italic)not/$ reach diagonally, so it must be located directly adjacent to an $(thing)Assembly Platform/$."
+      "text": "$(thing)裝配線/$中進行實際加工的機器之一。其鑽石鑽頭可以鑽透最堅硬的材料。$(p)$(item)裝配鑽頭/$$(italic)不/$能斜向存取方塊，因此其必須直接與$(thing)裝配平台/$相鄰。"
     },
     {
       "type": "spotlight",
       "item": "pneumaticcraft:assembly_laser",
-      "text": "The $(item)Assembly Laser/$ is able to cut through materials, used to slice an item up, or to cut off edges.$(p)Like the $(item)Assembly Drill/$, this machine can $(italic)not/$ reach diagonally."
+      "text": "$(thing)裝配線/$中進行實際加工的機器之一。其雷射可以切割材料，以將物品切片，或切去邊角。$(p)和$(item)裝配鑽頭/$一樣，$(item)裝配雷射/$$(italic)不/$能斜向存取方塊。"
     },
     {
       "type": "text",
-      "title": "Using",
-      "text": "To craft items with the $(thing)Assembly System/$, put an $(l:manufacturing/assembly_programs)Assembly Program/$ in the $(item)Assembly Controller/$, and put the required items in the input inventory.$(p)Any items which match a recipe known to the controller and inserted program will be automatically processed."
+      "title": "使用裝配線",
+      "text": "要使用$(thing)裝配線/$合成物品，向$(item)裝配控制器/$中放入$(l:manufacturing/assembly_programs)裝配程序/$，並在輸入容器中放入合成所需的物品。$(p)任何匹配所選程序對應的可用合成的物品將會被自動合成。"
     },
     {
       "type": "link",
       "flag": "mod:crafttweaker",
       "title": "CraftTweaker",
-      "text": "The $(thing)Assembly System/$ has $(l:https://minecraft.curseforge.com/projects/crafttweaker)CraftTweaker/$ support: recipes can be added and removed. Follow the link below for more information.",
-      "url": "https://crafttweaker.readthedocs.io/en/latest/#Mods/PneumaticCraft_Repressurized/Assembly/",
-      "link_text": "CraftTweaker Docs"
+      "text": "$(thing)裝配線/$中的合成配方支持被 $(l:https://minecraft.curseforge.com/projects/crafttweaker)CraftTweaker/$ 修改：合成配方可以被加入或移除，見下面連結以獲得更多資訊。",
+      "url": "https://docs.blamejared.com/1.12/zh/Mods/PneumaticCraft_Repressurized/Assembly/",
+      "link_text": "CraftTweaker 檔案"
     },
     {
       "type": "crafting",

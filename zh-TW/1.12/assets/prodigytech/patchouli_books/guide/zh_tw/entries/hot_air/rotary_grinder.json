@@ -1,0 +1,17 @@
+{
+    "name": "Rotary Grinder",
+    "icon": "prodigytech:rotary_grinder",
+    "category": "hot_air",
+    "advancement": "prodigytech:main/aeroheater",
+    "priority": true,
+    "pages": [
+        {
+            "type": "text",
+            "text": "The $(item)Rotary Grinder$() works like a lot of well known machines: it crushes things. Most notably, it can crush an $(thing)Ore$() into 2 $(thing)Dusts$(), each being smeltable into an $(thing)Ingot$().$(br)It has a variety of other uses, and is required to progress through the mod.$(br2)Items can be inserted/extracted from any side except top and bottom."
+        },
+        {
+            "type": "crafting",
+            "recipe": "prodigytech:machine/rotary_grinder"
+        }
+    ]
+}

@@ -1,23 +1,23 @@
 {
-  "name": "Fluid Import Widget",
+  "name": "輸入流體",
   "icon": "pneumaticcraft:textures/items/progwidgets/liquid_import_piece.png",
   "category": "widget_interact",
   "advancement": "pneumaticcraft:programmer",
   "pages": [
     {
       "type": "text",
-      "text": "The $(thing)Fluid Import Widget/$ will make the $(l:tools/drone)Drone/$ move to the nearest tank within the specified $(l:programming/area)area/$, extract fluid from that tank and it put it in its own tank.$(p)It can also suck up fluids from in-world fluid blocks, making the $(item)Drone/$ act as a portable pump."
+      "text": "$(thing)輸入流體/$將使$(l:tools/drone)無人機/$轉到指定$(l:programming/area)區域/$內最近的儲罐，從該儲罐提取流體並輸入到$(item)無人機/$的內部儲存中。$(p)同樣可以從世界中的流體方塊輸入流體，使$(item)無人機/$可以作為移動泵。"
     },
     {
       "type": "text",
-      "text": "$(thing)Right-click/$ the widget to open the setup GUI, where you can specify from which side(s) the Drone should extract the fluids from, and the maximum amount of imported fluid per operation (in mB).$(p)You can $(ttcolor)$(t:Connect on the right to whitelist, on the left to blacklist)connect/$ a $(l:programming/liquid_filter)Fluid Filter/$ to limit what may be imported by the Drone.$(p)This widget is done when the $(item)Drone's/$ tank is full or when no more (applicable) liquids can be found in the tanks."
+      "text": "$(thing)右擊/$打開設定介面，在此可以指定無人機應當與儲罐互動的面；也可以在此指定一次傳輸的流體的最大值（單位：mB）。$(p)可以$(ttcolor)$(t:連接至右側為白名單，左側為黑名單)連接/$$(l:programming/liquid_filter)流體過濾器/$以限制可以被無人機轉移的流體。$(p)當$(item)無人機/$的內部流體儲存為滿，或指定區域內沒有可行的流體可供輸入時。結束該拼圖。"
     },
     {
       "type": "image",
       "images": [
         "pneumaticcraft:textures/items/progwidgets/liquid_import_piece.png"
       ],
-      "text": "$(italic)Slurp/$"
+      "text": "$(italic)咕嚕/$"
     }
   ]
 }

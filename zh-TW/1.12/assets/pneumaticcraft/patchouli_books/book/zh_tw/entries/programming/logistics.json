@@ -1,19 +1,19 @@
 {
-  "name": "Logistics Widget",
+  "name": "物流",
   "icon": "pneumaticcraft:textures/items/progwidgets/logistics_piece.png",
   "category": "widget_interact",
   "advancement": "pneumaticcraft:programmer",
   "pages": [
     {
       "type": "text",
-      "text": "This widget makes the $(l:tools/drone)Drone/$ behave like a $(l:logistics:logistic_drones)Logistic Drone/$, but allows some extra flexibility over the base Logistic Drone functionality:$(p)$(li)It can be used with other widgets, e.g. a $(l:programming/standby)Standby/$ widget for more efficient air usage$(li)A custom $(l:programming/area)Area/$ can be defined (a standard Logistic Drone has a 33x33x33 area centered on the drone, which cannot be changed)"
+      "text": "該拼圖使$(l:tools/drone)無人機/$執行$(l:logistics:logistic_drone)物流無人機/$的行為，但允許相較於$(item)物流無人機/$更靈活的運用：$(p)$(li)可以與其他拼圖配套使用，例如$(l:programming/standby)待機/$拼圖使空氣利用更加高效$(li)可以自訂$(l:programming/area)區域/$（$(item)物流無人機/$的執行區域固定為以放置無人機處為中心的 33*33*33 的區域）"
     },
     {
       "type": "image",
       "images": [
         "pneumaticcraft:textures/items/progwidgets/logistics_piece.png"
       ],
-      "text": "$(italic)Logistics Widget/$"
+      "text": "$(italic)物流/$"
     }
   ]
 }

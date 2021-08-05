@@ -1,23 +1,23 @@
 {
-  "name": "Manometer",
+  "name": "壓力計",
   "icon": "pneumaticcraft:manometer",
   "category": "\n-工具",
   "advancement": "pneumaticcraft:pressure_tube",
   "pages": [
     {
       "type": "text",
-      "text": "With a Manometer you can measure $(l:base_concepts/pressure)pressure/$ on a pneumatic network. Additionally, some Pneumatic machines/tubes have some special information about them. For instance, the $(l:tubes/safety_module)Safety Valve Tube Module/$ displays its safety threshold. So if you aren't feeling comfortable with redstone maths, this tool may be of use to you."
+      "text": "使用壓力計可以測量氣動網路中的$(l:base_concepts/pressure)壓力/$。此外，某些氣動機器/管道具有一些特殊資訊。例如，$(l:tubes/safety_module)安全閥管道模組/$顯示其安全閾值。也就是說，如果你不想去做紅石數學，該工具很有幫助。"
     },
     {
       "type": "crafting",
-      "text": "Creating the Manometer",
+      "text": "壓力計的合成表",
       "recipe": "pneumaticcraft:manometer"
     },
     {
       "type": "text",
-      "title": "Other Mods",
+      "title": "其餘模組",
       "flag": "|mod:theoneprobe,mod:hwyla",
-      "text": "With mods such as $(thing)The One Probe/$ or $(thing)WAILA/HWYLA/$ installed, the $(item)Manometer/$ may be of limited use."
+      "text": "安裝了 $(thing)The One Probe/$ 或 $(thing)WAILA/HWYLA/$ 等模組後，$(item)壓力計/$也許用處不多。"
     }
   ]
 }

@@ -1,19 +1,19 @@
 {
-  "name": "Condition: Entity Widget",
+  "name": "條件：實體",
   "icon": "pneumaticcraft:textures/items/progwidgets/condition_entity_piece.png",
   "category": "widget_cond",
   "advancement": "pneumaticcraft:programmer",
   "pages": [
     {
       "type": "text",
-      "text": "This is a $(l:programming/conditions)Condition/$ widget.$(p)The $(thing)Condition: Entity/$ widget allows you to count entities in the connected $(l:programming/area)Area/$ widget. These can be filtered by connecting an optional $(l:programming/text)Text/$ widget used as an $(l:base_concepts/entity_filter)Entity Filter/$."
+      "text": "這是一個$(l:programming/conditions)條件/$拼圖。$(p)$(thing)條件：實體/$允許對指定$(l:programming/area)區域/$內的實體計數。被計數的實體可以通過可選的作為$(l:base_concepts/entity_filter)實體過濾器/$的$(l:programming/text)文字/$過濾。"
     },
     {
       "type": "image",
       "images": [
         "pneumaticcraft:textures/items/progwidgets/condition_entity_piece.png"
       ],
-      "text": "$(italic)Condition: Entity Widget/$"
+      "text": "$(italic)條件：實體/$"
     }
   ]
 }

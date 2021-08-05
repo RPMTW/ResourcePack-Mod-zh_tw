@@ -1,11 +1,11 @@
 {
-    "name": "Your First Reactor",
+    "name": "你的第一個反應爐",
     "icon": "bigreactors:reactorcasing",
     "category": "bigreactors:intro",
     "pages": [
         {
             "type": "text",
-            "text": "The Reactor is a multiblock machine whose primary job is to produce energy, and a lot of it.$(br2)A multiblock machine is composed by many different blocks that you will place in the world next to each others.$(br2)To craft and power the Reactor you need Yellorium ingots, so go mine some Yellorite Ore and smelt it right away!"
+            "text": "這個反應爐是一個主要生產能量的多方塊機器，。$(br2)一個多方塊機器是由各種方塊組成。$(br2)製作反應堆並為其提供動力你需要黃鈾錠，所以馬上去挖些黃鈾礦然後熔煉它！"
         },
         {
             "type": "multiblock",
@@ -40,11 +40,11 @@
         },
         {
             "type": "text",
-            "text": "To build your first Reactor you need to craft the following Basic Reactor blocks:$(br2)$(li)22x Casing$(li)1x Controller$(li)1x Control Rod$(li)1x Fuel Rod$(li)1x Access Port$(li)1x Redstone Flux Power Tap$(br2)The Glass block is actually optional and can be replaced by another Casing block."
+            "text": "建造你的第一個反應堆你需要合成以下的基礎反應爐方塊。$(br2)$(li)22x 殼$(li)1x 控制器$(li)1x 控制棒$(li)1x 燃料棒$(li)1x 訪問接口$(li)1x 紅石通量電源接頭$(br2)玻璃方塊實際上是可選的可以被用來替代其他殼方塊。"
         },
         {
             "type": "crafting",
-            "recipe": "bigreactors:reactorcasingcores",
+            "recipe": "bigreactors:reactorcasingcores\n",
             "recipe2": "bigreactors:reactorcasing"
         },
         {
@@ -64,23 +64,23 @@
         },
         {
             "type": "text",
-            "text": "Once you have crafted all the required blocks, you are ready to build your first Reactor.$(br2)Place the blocks in your world using the following diagram, putting the Fuel Rod in the center with a Casing below."
+            "text": "一旦你已經合成所有需要的方塊，你就可以來建造你的第一個反應爐。$(br2)根據圖表在你的世界放置方塊，在中間殼的下面放置燃料棒"
         },
         {
             "type": "text",
-            "text": "If all goes well, when you place the last block the Reactor will form and you can now open the Controller interface by right-clicking on the Controller block.$(br2)If nothing happens, right click on any block you placed down: you will get an error message that should explain what the problem is. Once you have fixed it, you should have a formed Reactor or another error message waiting for you."
+            "text": "如果全部正常，當你放置最後一個方塊時反應爐將會形成現在你可以右鍵開啟控制器的表面。$(br2)如果沒有發生任何事，右鍵任何你放置的方塊：你將會等得到一個解釋錯誤的訊息。一旦你成功修復它，你應該擁有一個成型的反應爐或者其他錯誤訊息。"
         },
         {
             "type": "text",
-            "text": "Now that your Reactor is ready, it's time to put some fuel in it.$(br2)Pick up more Yellorium ingots and right-click on the Access Port. Set the Port to Inlet mode and place your ingots in the input slot.$(br2)The ingots will be quickly consumed by the Reactor and turned into fuel.$(br2)Open the Controller interface and turn your Reactor on!"
+            "text": "現在你的反應爐已準備，是時候放入一些燃料。$(br2)拿起更多黃鈾錠然後在訪問接口右鍵。設定接口到輸入模式然後放入你的錠到輸入欄位。$(br2)該錠會快速被反應爐轉換成燃料。$(br2)開啟控制器然後啟動反應爐！"
         },
         {
             "type": "text",
-            "text": "As the Reactor heats up, energy is slowly being produced and the internal energy buffer filled.$(br2)To use the energy stored inside the Reactor you need to connect some sort of energy pipe or a machine to the Power Tap."
+            "text": "因為反應爐在升溫中，所以生產能量較慢和內能緩衝。$(br2)要使用庫存在反應爐內的能量你需要連一些一些能量管道或者機器到能量接口"
         },
         {
             "type": "text",
-            "text": "Congratulations, you have built your first Reactor!$(br2)Use it to generate all the energy you need for your early game needs and them move on to build other Reactors and Turbines after you have read the remainder of this handbook."
+            "text": "恭喜，你已經建造你的第一個反應爐！$(br2)使用它生產所有前期遊戲你需要的能量然後繼續建造其他反應爐和渦輪在你已經讀完剩餘的部分"
         }
     ]
 }

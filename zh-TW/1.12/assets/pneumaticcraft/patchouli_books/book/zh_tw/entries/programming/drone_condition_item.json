@@ -1,19 +1,19 @@
 {
-  "name": "Drone Condition: Item Widget",
+  "name": "無人機條件：物品",
   "icon": "pneumaticcraft:textures/items/progwidgets/condition_drone_inventory_piece.png",
   "category": "widget_cond",
   "advancement": "pneumaticcraft:programmer",
   "pages": [
     {
       "type": "text",
-      "text": "The $(thing)Drone Condition: Item/$ widget allows you to check the inventory of this $(l:tools/drone)Drone/$ for a certain amount of items. It will count up all matching items (specified by a connected $(l:programming/item_filter)Item Filter/$, or no filter to count every item)."
+      "text": "這是一個$(l:programming/conditions)條件/$拼圖。$(p)$(thing)無人機條件：物品/$允許你檢查$(l:tools/drone)無人機/$是否裝載有一定量的物品。其將會對所有匹配的物品（由連接的$(l:programming/item_filter)物品過濾器/$指定；不連接物品過濾器即所有物品都匹配）計數。"
     },
     {
       "type": "image",
       "images": [
         "pneumaticcraft:textures/items/progwidgets/condition_drone_inventory_piece.png"
       ],
-      "text": "$(italic)Drone Condition: Item Widget/$"
+      "text": "$(italic)無人機條件：物品/$"
     }
   ]
 }

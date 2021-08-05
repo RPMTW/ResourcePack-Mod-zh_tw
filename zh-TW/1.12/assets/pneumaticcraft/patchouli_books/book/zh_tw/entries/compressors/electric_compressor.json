@@ -1,5 +1,5 @@
 {
-  "name": "Electric Compressor",
+  "name": "電力壓縮機",
   "icon": "pneumaticcraft:electric_compressor",
   "category": "compressors",
   "advancement": "pneumaticcraft:advanced_pressure_tube",
@@ -7,19 +7,19 @@
   "pages": [
     {
       "type": "text",
-      "text": "The $(item)Electric Compressor/$ can generate compressed air from $(thing)IndustrialCraft 2's EU/$. By default it has an efficiency of 40%, but this can be $(ttcolor)$(t:See 'I:electricCompressorEfficiency')changed in the config/$.$(p)It behaves like a IC2 tier 1 machine, so it will explode if it receives >32 EU/t. However, you can add IC2 $(item)Transformer Upgrades/$ to allow higher voltages, as in normal IC2 machines."
+      "text": "$(item)電動壓縮機/$使用 $(thing)IC2 的 EU/$ 壓縮空氣。預設情況下，其效率為 40%，但這可以$(ttcolor)$(t:見 'I:electricCompressorEfficiency' 條目)在設定檔案中變更/$。$(p)其行為與 IC2 的一階機器相同，亦即輸入電壓高於 32EU/t 時其將爆炸。但是，像其他 IC2 機器一樣，可以安裝$(item)升壓升級/$一允許其接受更高電壓。"
     },
     {
       "type": "text",
-      "text": "The energy output in mL/tick is:$(p)  $(formula)input rate / E * 400/$$(p)where $(formula)E/$ is the efficiency.$(p)For instance, with the default efficiency of 40% and an input of 32EU/tick, the compressed air production equals $(formula)32 / 40 * 400 = 320mL/tick./$"
+      "text": "空氣輸出（mL/t）為：$(p)  $(formula)輸入速率 / E * 400/$$(p)其中 $(formula)E/$ 代表效率。$(p)例如，效率預設為 40%，輸入為 32mL/t 時，空氣產量為 $(formula)32 / 40 * 400 = 320mL/t/$。"
     },
     {
       "type": "text",
-      "text": "Another factor that influences the efficiency is the machine's $(l:base_concepts/heat)heat/$. The machine needs to be cooled, as the efficiency will drop as the temperature rises, up to the point where no air is generated at all."
+      "text": "另一個影響效率的因素是機器的$(l:base_concepts/heat)熱量/$。該機器需要被冷卻，因為其效率隨著溫度的增高而降低，直到不產生任何空氣。"
     },
     {
       "type": "crafting",
-      "text": "Creating an $(item)Electric Compressor/$",
+      "text": "$(item)電力壓縮機/$的合成表",
       "recipe": "pneumaticcraft:electric_compressor"
     }
   ]

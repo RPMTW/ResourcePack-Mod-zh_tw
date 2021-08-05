@@ -1,12 +1,12 @@
 {
-  "name": "Drone",
+  "name": "無人機",
   "icon": "pneumaticcraft:drone",
   "category": "\n-工具",
   "advancement": "pneumaticcraft:printed_circuit_board",
   "pages": [
     {
       "type": "text",
-      "text": "Drones are powerful programmable flying robots, which can be used for all sorts of automation. They need programming before they'll do anything; for this you'll also need a $(l:programming/programmer)Programmer/$ and some $(l:programming/puzzle_pieces)Puzzle Pieces/$.$(p)When you place down a programmed and $(l:base_concepts/pressure)pressurized/$ Drone, it'll perform its programmed tasks."
+      "text": "無人機是強大的可以用於各種自動化的飛行機器。其需要被編程才能進行工作；要做到這一點同樣需要$(l:programming/programmer)編程器/$與一些$(l:programming/puzzle_pieces)編程拼圖/$。$(p)放置下已編程並$(l:base_concepts/pressure)有壓力的/$無人機時，其將執行所編程的任務。"
     },
     {
       "type": "entity",
@@ -15,26 +15,26 @@
     },
     {
       "type": "text",
-      "title": "Automatic Charging",
-      "text": "Drones are smart: when they're low on air, they'll search for a $(l:machines/charging_station)Charging Station/$ with pressure that has a $(l:base_concepts/upgrades#dispenser)Dispenser Upgrade/$ within the same dimension as the $(item)Drone/$. This will override the running program.$(p)When found, the $(item)Drone/$ will go to this $(item)Charging Station/$ and it will stay charging until the station can't supply any more air. After that, the $(item)Drone/$ will resume its main program."
+      "title": "自動充氣",
+      "text": "無人機很聰明：壓力過低時其將會尋找在同一維度內的安裝有$(l:base_concepts/upgrades#dispenser)發射器升級/$的$(l:machines/charging_station)充氣站/$。這有限域目前執行的程序。$(p)找到充氣站後，$(item)無人機/$將前往該$(item)充氣站/$充氣，直到充氣站無法再提供供其為止。此後，$(item)無人機/$將繼續原有的程序。"
     },
     {
       "type": "text",
-      "title": "Automatic Charging (cont.)",
-      "text": "On a multiplayer server you might want to only allow your Drones to charge on your Charging Station(s). You can make your $(item)Charging Station/$ private by covering it by a $(l:machines/security_station)Security Station/$.$(p)Now only the $(item)Drones/$ placed by players who are whitelisted in your $(item)Security Station/$ will be allowed to charge."
+      "title": "自動充氣（續）",
+      "text": "在多人伺服器上你也許想要只允許自己的無人機在自己的充氣站充氣。可以透過把$(item)充氣站/$放置在$(l:machines/security_station)安全站/$的保護範圍內使其變為私有的。$(p)此時，只有由該$(item)安全站/$白名單中的玩家放置的$(item)無人機/$被允許在該充氣站充氣。."
     },
     {
       "type": "text",
-      "text": "When the $(item)Drone/$'s air runs out, its propellers will stop and it will fall straight to the ground. Beware: drones can take fall damage! A destroyed $(item)Drone/$ will drop itself in item form.$(p)You can dye a $(item)Drone/$ by crafting it with a piece of $(item)dye/$. You can also dye a $(item)Drone/$ in-world, by $(thing)right-clicking/$ it with a piece of $(item)dye/$. This coloring is just cosmetic but can help to distinguish drones at a glance."
+      "text": "$(item)無人機/$耗盡空氣後，其將會關閉螺旋槳，並直接落在地面上。記住：此時無人機將受到掉落傷害！被摧毀的$(item)無人機/$將會以物品形式掉落其自身。$(p)可以透過與$(item)染料/$合成來對$(item)無人機/$染色。同樣可以在放置下無人機後使用$(item)染料/$右擊染色。該染色對無人機沒有實質影響，但可以幫助你一眼分辨無人機。"
     },
     {
       "type": "text",
       "title": "Debugging",
-      "text": "Hmm, why does that $(item)Drone/$ act like it does? Why doesn't it do anything at all? You can debug your program by using a $(l:armor/pneumatic_helmet)Pneumatic Helmet/$, with $(l:base_concepts/upgrades#dispenser)Dispenser/$ and $(l:base_concepts/upgrades#entity_tracker)Entity Tracker/$ Upgrades installed. With the $(item)Drone/$ targeted and the $(thing)Entity Tracker/$ active, press the $(thing)$(k:pneumaticcraft.helmet.debugging.drone)/$ key."
+      "text": "呃，為什麼$(item)無人機/$的工作成來這個樣子？為什麼它根本不工作？可以使用安裝有$(l:base_concepts/upgrades#dispenser)發射器升級/$和$(l:base_concepts/upgrades#entity_tracker)實體追蹤器升級/$的$(l:armor/pneumatic_helmet)氣動頭盔/$除錯你的程序。當$(thing)實體追蹤器/$啟用且$(item)無人機/$被作為目標時，按下 $(thing)$(k:pneumaticcraft.helmet.debugging.drone)/$ 鍵。"
     },
     {
       "type": "crafting",
-      "text": "Creating the Drone",
+      "text": "無人機的合成表",
       "recipe": "pneumaticcraft:drone"
     }
   ]

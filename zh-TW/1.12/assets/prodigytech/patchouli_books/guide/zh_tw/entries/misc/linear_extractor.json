@@ -1,0 +1,16 @@
+{
+    "name": "Linear Extractor",
+    "icon": "prodigytech:linear_extractor",
+    "category": "雜項",
+    "advancement": "prodigytech:recipes/ferramic_ingot",
+    "pages": [
+        {
+            "type": "text",
+            "text": "The $(item)Linear Extractor$() is the simplest of the $(thing)Extractors$(). It will quickly pull items from an inventory in front of it and push them to an inventory on the opposite side, or keep it in its small internal inventory.$(br2)It can be oriented in any direction and disabled with redstone."
+        },
+        {
+            "type": "crafting",
+            "recipe": "prodigytech:machine/linear_extractor"
+        }
+    ]
+}

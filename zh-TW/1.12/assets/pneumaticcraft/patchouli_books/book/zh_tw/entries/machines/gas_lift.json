@@ -1,29 +1,29 @@
 {
-  "name": "Gas Lift",
+  "name": "氣舉",
   "icon": "pneumaticcraft:gas_lift",
   "category": "machines",
   "advancement": "pneumaticcraft:pressure_tube",
   "pages": [
     {
       "type": "text",
-      "text": "A $(item)Gas Lift/$ is a pump, basically. It uses $(l:base_concepts/pressure)pressure/$ to decrease the density of a liquid to force it upwards.$(p)When pressurized, it extrudes $(l:tubes/pressure_tubes)Pressure Tubes/$ (which you must provide) downwards until it hits any liquid, at which point it will pump it. This makes it perfect for $(l:base_concepts/oil)Oil/$ extraction, as Oil might be deep underground."
+      "text": "簡而言之，$(item)氣舉/$就是一個泵。其使用$(l:base_concepts/pressure)壓力/$減小某種流體的密度，以迫使其上升。$(p)提供壓力後，其將向下伸出$(l:tubes/pressure_tubes)壓力管道/$（這也是必需的），直到其接觸到流體；此時其將會泵取這一流體。這使得其很適合泵取$(l:base_concepts/oil)石油/$，因為其可能處於地層深處。"
     },
     {
       "type": "text",
-      "text": "Any solid block in the way will be broken, without yield. Breaking blocks uses up air; this is a very small amount for soft blocks like dirt or sand, but much more for hard blocks such as obsidian. If you use $(l:tubes/pressure_tubes#advanced)Advanced Pressure Tubes/$, air usage is reduced by 50%.$(p)The air usage required to pump fluids scales linearly with the depth it is pumping at, i.e. the number of tubes currently extruded."
+      "text": "下伸途徑中的任何固體方塊都會被破壞，不產生掉落物。破壞方塊需要空氣；對於硬度低的方塊，比如泥土或沙，消耗量很小；但對於硬度高的方塊，例如黑曜石，消耗量則很大。如果使用$(l:tubes/pressure_tubes#advanced)高級壓力管道/$作為鑽管，空氣耗量減少一半。$(p)抽取流體的空氣耗量隨抽取深度線性增長，換言之，隨目前壓力管道的數目線性增長。"
     },
     {
       "type": "text",
-      "title": "Mode Tab",
-      "text": "The Gas Lift can be switched to one of 3 modes:$(li)$(#00f)Pump and allow empty tank/$ extrudes Pressure Tubes, pumping fluids when it encounters them.$(li)$(#00f)Pump and leave liquid in filter/$ does the same as above, but will always keep 1000mB of fluid in the tank. This is useful when pumping for a certain liquid, to make sure no other liquids will be pumped."
+      "title": "模式標籤頁",
+      "text": "氣舉可以被切換至以下三種模式之一：$(li)$(#00f)泵取，允許清空儲罐/$伸出壓力管道，泵取所遇的流體。$(li)$(#00f)泵取，在儲罐中殘留過濾/$行為與前一模式類似，但在內部保留 1000 mB 的流體，作為過濾。可以用於保證並不抽取其餘流體，僅抽取指定類別的流體。"
     },
     {
       "type": "text",
-      "text": "$(li)$(#00f)Draw in tubes/$ will make the $(thing)Gas Lift/$ stop pumping and retract any tubes it extruded, back into its inventory."
+      "text": "$(li)$(#00f)收回管道/$停止泵取，並將所有伸出的管道收回至其介面中的管道欄位。"
     },
     {
       "type": "crafting",
-      "text": "Creating a Gas Lift",
+      "text": "氣舉的合成表",
       "recipe": "pneumaticcraft:gas_lift"
     }
   ]

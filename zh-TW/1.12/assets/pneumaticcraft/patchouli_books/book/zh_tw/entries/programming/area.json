@@ -1,31 +1,31 @@
 {
-  "name": "Area Widget",
+  "name": "區域",
   "icon": "pneumaticcraft:textures/items/progwidgets/area_piece.png",
   "category": "widget_other",
   "advancement": "pneumaticcraft:programmer",
   "pages": [
     {
       "type": "text",
-      "text": "The $(thing)Area/$ widget is solely used as a parameter for other widgets, to tell them what area (which could be a single block) they should apply to. To use this widget, you will need a $(l:tools/gps_tool)GPS Tool/$ and/or $(l:tools/gps_area_tool)GPS Area Tool/$.$(p)There are three common ways to set up an Area widget:"
+      "text": "$(thing)區域/$拼圖僅用作其餘拼圖的參數，用於指定其將在哪個區域（可以只有一個方塊）執行。要使用該拼圖，需要$(l:tools/gps_tool)定位工具/$和/或$(l:tools/gps_area_tool)區域定位工具/$。$(p)一般有兩種方法設定區域拼圖："
     },
     {
       "type": "text",
-      "text": "1. $(thing)Right-click/$ the Area widget in the $(l:programming/programmer)Programmer/$ GUI to open a configuration GUI, and set it up there. You can set the area's extent with the two $(thing)GPS/$ buttons (click to open another GUI and select a $(l:tools/gps_tool)GPS Tool/$ from your inventory), and choose the $(thing)Area Type/$ and associated parameters with the radio buttons beneath."
+      "text": "1. 在$(l:programmming/programmer)編程器/$中$(thing)右擊/$區域拼圖以打開設定介面，並在此處設定。可以使用兩個$(thing)GPS/$按鈕（點擊後顯示另一介面，在其中從你的物品欄選取定位工具）以設定區域的範圍，並通過下方的單選框選擇$(thing)區域類型/$以及配套的參數。"
     },
     {
       "type": "text",
-      "text": "2. Set up a $(l:tools/gps_tool)GPS Tool/$ or $(l:tools/gps_area_tool)GPS Area Tool/$ in-world. In the $(l:programming/programmer)Programmer/$ GUI, you can: $(li)$(thing)Left-click/$ the $(item)GPS (Area) Tool/$ on an existing $(thing)Area/$ widget to copy the tool's settings to the widget$(li)$(thing)Left-click/$ a $(item)GPS Tool/$ on an empty programming area to create a new $(l:programming/coordinate)Coordinate/$ widget$(li)$(thing)Shift+left-click/$ a $(item)GPS Tool/$ on an empty programming area to create a new $(thing)Area/$ widget$(li)$(thing)Left-click/$ a $(item)GPS Area Tool/$ on an empty programming area to create a new $(thing)Area/$ widget."
+      "text": "2. 在世界中設定$(l:tools/gps_tool)定位工具/$或$(l:tools/gps_area_tool)區域定位工具/$。在$(l:programming/programmer)編程器/$介面中可以：$(li)使用$(item)（區域）定位工具/$$(thing)左擊/$已有的$(thing)區域/$拼圖以將定位工具內的設定複製到拼圖中$(li)使用$(item)定位工具/$$(thing)左擊/$空白的程式區域以創建一個$(l:programming/coordinate)坐標/$拼圖$(li)使用$(item)定位工具/$ $(thing)Shift 左擊/$空白的程式區域以創建一個$(thing)區域/$拼圖$(li)使用$(item)區域定位工具/$$(thing)左擊/$空白的程式區域以創建一個$(thing)區域/$拼圖"
     },
     {
       "type": "text",
-      "text": "3. The advanced option: you can use $(thing)variables/$, as created by the $(l:programming/coordinate_operator)Coordinate Operator/$ widget. The $(l:programming/programmer)Programmer/$ must be in $(thing)Advanced/$ mode for variables to be available; beside the GPS buttons, you will now also see drop-down selection fields. You can choose a known variable name there, and the corresponding corner of this Area will use that variable's position."
+      "text": "3. 高級選項：可以使用$(thing)變數/$，正如$(l:programming/coordinate_operator)坐標運算元/$所創建的一樣。變數只在$(l:programming/programmer)編程器/$的$(thing)高級/$模式下可用；在定位按鍵之外，下拉選單選擇在調整模式後將會出現。可以在此選擇已知的變數名，此後該區域拼圖的對應角落將會使用該變數對應的位置。"
     },
     {
       "type": "image",
       "images": [
         "pneumaticcraft:textures/items/progwidgets/area_piece.png"
       ],
-      "text": "$(italic)Area Widget/$"
+      "text": "$(italic)區域/$"
     }
   ]
 }

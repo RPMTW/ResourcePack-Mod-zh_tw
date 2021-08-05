@@ -1,23 +1,23 @@
 {
-  "name": "Label Widget",
+  "name": "標籤",
   "icon": "pneumaticcraft:textures/items/progwidgets/label_piece.png",
   "category": "widget_flow",
   "advancement": "pneumaticcraft:programmer",
   "pages": [
     {
       "type": "text",
-      "text": "This widget is purely focused on $(l:programming/flow_control)program flow/$. The label defines a point in the program that $(l:programming/jump)Jump/$ and $(l:programming/conditions)Condition/$ widgets can jump to. You must attach a $(l:programming/text)Text/$ widget to this widget to name it. Any jumps/conditions using a $(thing)Text/$ widget of that name will then jump to this label."
+      "text": "該拼圖僅用於$(l:programming/flow_control)程序流/$。$(thing)標籤/$定義程序中$(l:programming/jump)跳轉/$和$(l:programming/conditions)條件/$可以跳轉至的一點。必須連接一個$(l:programming/text)文字/$拼圖以對其命名。任何引用這一$(thing)文字/$的條件/跳轉將跳轉到這一標籤。"
     },
     {
       "type": "text",
-      "text": "A $(thing)Label/$ widget can be used to create a $(italic)branch/$ in the program flow (when using $(l:programming/conditions)Conditions/$), or just to organize sections of your program for clarity by putting them next to each other. A useful tip is to check $(bold)Show Flow/$ checkbox at the bottom left of the $(l:programming/programmer)Programmer/$ GUI;  it will show lines linking $(thing)Jump/Condition/Label/$ widgets of the same name."
+      "text": "$(thing)標籤/$可以用於在程序流中創建$(italic)分支/$（當使用$(l:programming/conditions)條件/$時），或者僅僅透過拆分拼圖的方式整理拼圖。小竅門：勾選$(l:programming/programmer)編程器/$介面的左下角的$(bold)顯示程序流/$；其將把有同一標籤名的$(thing)跳轉/條件/標籤/$連接起來。"
     },
     {
       "type": "image",
       "images": [
         "pneumaticcraft:textures/items/progwidgets/label_piece.png"
       ],
-      "text": "$(italic)Label Widget/$"
+      "text": "$(italic)標籤/$"
     }
   ]
 }

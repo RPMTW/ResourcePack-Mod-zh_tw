@@ -1,19 +1,19 @@
 {
-  "name": "Teleport Widget",
+  "name": "傳送",
   "icon": "pneumaticcraft:textures/items/progwidgets/teleport_piece.png",
   "category": "widget_interact",
   "advancement": "pneumaticcraft:programmer",
   "pages": [
     {
       "type": "text",
-      "text": "$(thing)Teleport/$ is the more expensive (in terms of $(l:base_concepts/pressure)air/$ used) version of the $(l:programming/goto)Goto/$ widget, but just as straightforward: the $(l:tools/drone)Drone/$ will teleport to the nearest reachable location within the specified $(l:programming/area)Area/$.$(p)The $(item)Drone/$ uses 10000mL air to teleport, which is most of an un-upgraded $(item)Drone's/$ capacity, so $(l:base_concepts/upgrades#volume)Volume Upgrades/$ are recommended."
+      "text": "$(thing)傳送/$是開銷更大的（按照消耗$(l:base_concepts/pressure)空氣/$用量）$(l:programming/goto)去往位置/$，但也很直接：$(l:tools/drone)無人機/$將傳送到指定$(l:programming/area)區域/$內最近的位置。$(p)$(item)無人機/$使用 10000mL 空氣以傳送，而這也是未升級的$(item)無人機/$的容量，所以建議安裝$(l:base_concepts/upgrades#volume)容量升級/$。"
     },
     {
       "type": "image",
       "images": [
         "pneumaticcraft:textures/items/progwidgets/teleport_piece.png"
       ],
-      "text": "$(italic)Now I'm here. Now I'm there./$"
+      "text": "$(italic)現在我在這裡。現在我在那裡。/$"
     }
   ]
 }

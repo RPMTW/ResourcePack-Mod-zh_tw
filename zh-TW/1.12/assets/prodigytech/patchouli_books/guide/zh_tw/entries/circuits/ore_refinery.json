@@ -1,0 +1,16 @@
+{
+    "name": "Ore Refinery",
+    "icon": "prodigytech:ore_refinery",
+    "category": "circuits",
+    "advancement": "prodigytech:main/solderer",
+    "pages": [
+        {
+            "type": "text",
+            "text": "The $(item)Ore Refinery$() can process $(thing)Ore$() into 2 $(thing)Dusts$(), just like the $(item)Rotary Grinder$(), but does so at a much faster rate and will also occasionally extract a smaller amount of $(thing)Dust$() of another ore.$(br2)Items can be inserted/extracted from any side except top and bottom."
+        },
+        {
+            "type": "crafting",
+            "recipe": "prodigytech:machine/ore_refinery"
+        }
+    ]
+}

@@ -1,31 +1,31 @@
 {
-  "name": "Universal Sensor",
+  "name": "萬能感測器",
   "icon": "pneumaticcraft:universal_sensor",
   "category": "machines",
   "advancement": "pneumaticcraft:plastic",
   "pages": [
     {
       "type": "text",
-      "text": "The $(thing)Universal Sensor/$ is, like the name suggests, a sensor that can be used in many applications; it measures in-world conditions and outputs a $(#f00)redstone signal/$ based on those conditions.$(p)Being universal isn't free: the sensor requires $(l:base_concepts/pressure)air/$ to run (1 mL/tick) in $(ttcolor)$(t:The Constant Redstone Emitter is free to use)almost all/$ cases, and Sensors need certain $(l:base_concepts/upgrades)Upgrades/$ to run."
+      "text": "$(thing)萬能感測器/$，正如其名，是可以被用於很多用途的感測器；其測量世界內的條件，並基於此輸出$(#f00)紅石信號/$。$(p)但萬能是有代價的；$(ttcolor)$(t:常信號不需空氣即可執行)大多數/$情況下，感測器需要$(l:base_concepts/pressure)空氣/$才可執行（1 mL/刻），並且不同感測器需要特定$(l:base_concepts/upgrades)升級/$才可執行。"
     },
     {
       "type": "spotlight",
       "item": "pneumaticcraft:universal_sensor",
-      "text": "Currently there are over 15 different conditions the Sensor can measure, from being able to check whether there's a block at a certain coordinate or whether there is a Twitcher streaming. Open the GUI of the $(thing)Universal Sensor/$ to see what's available, plus descriptions."
+      "text": "目前感測器可測量的項目多於 15 個，從檢測特定方塊是否有方塊到是否有玩家在使用 Twitch 直播。參見$(thing)萬能感測器/$的介面以見可用項目，以及其簡介。"
     },
     {
       "type": "text",
-      "title": "Upgrades",
-      "text": "You will need to insert an $(l:base_concepts/upgrades#entity_tracker)Entity Tracker/$, $(l:base_concepts/upgrades#dispenser)Dispenser/$, or $(l:base_concepts/upgrades#block_tracker)Block Tracker/$ plus $(l:tools/gps_tool)GPS Tool/$ to allow selection of the corresponding category of sensors. E.g. counting the number of entities within range requires an $(item)Entity Tracker Upgrade/$ to be installed."
+      "title": "升級",
+      "text": "需要安裝$(l:base_concepts/upgrades#entity_tracker)實體追蹤升級/$，$(l:base_concepts/upgrades#dispenser)發射器升級/$或是$(l:base_concepts/upgrades#block_tracker)方塊追蹤升級/$（此時還需要$(l:tools/gps_tool)定位工具/$）以選擇對應類別的感測器。例：對區域內的實體計數需要安裝$(item)實體追蹤升級/$。"
     },
     {
       "type": "text",
-      "title": "Example: Entity Counting",
-      "text": "Say you have a pen full of animals and want to kill some, but only if there are enough.$(p)Add an $(l:base_concepts/upgrades#entity_tracker)Entity Tracker Upgrade/$ and enough $(l:base_concepts/upgrades#range)Range Upgrades/$ to cover the pen's size.$(p)Now, in the GUI, select the $(thing)Entity/$ button, followed by $(thing)Within Range/$, and finally enter an $(l:base_concepts/entity_filter)entity filter/$ matching your animal type (e.g. 'cow')."
+      "title": "例：實體計數",
+      "text": "假如你有一圍欄的動物，想要殺掉部分，前提是還有足夠的動物。$(p)向萬能感測器安裝$(l:base_concepts/upgrades#entity_tracker)實體追蹤升級/$以及足夠的$(l:base_concepts/upgrades#range)範圍升級/$以完全覆蓋圍欄的範圍。$(p)此時在介面中，選擇$(thing)實體/$按鈕，然後選擇$(thing)在範圍內/$，最後輸入匹配對應的動物的$(l:base_concepts/entity_filter)實體過濾器/$（例如 cow，對應牛）。"
     },
     {
       "type": "crafting",
-      "text": "Creating a Universal Sensor",
+      "text": "萬能感測器的合成表",
       "recipe": "pneumaticcraft:universal_sensor"
     }
   ]

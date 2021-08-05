@@ -1,17 +1,17 @@
 {
-  "name": "STOP! Worm",
+  "name": "停！蠕蟲",
   "icon": "pneumaticcraft:stop_worm",
   "category": "components",
   "advancement": "pneumaticcraft:root",
   "pages": [
     {
       "type": "text",
-      "text": "This is a special component, only used when trying to hack $(l:machines/security_station)Security Stations/$. It is not craftable and can only be found in dungeon loot, or (rarely) as a villager trade."
+      "text": "這是一個特殊組件，僅用於入侵$(l:machines/security_station)安全站/$。該物品無法被合成，僅可作為儲物箱戰利品，或（少見地）作為村民交易。"
     },
     {
       "type": "spotlight",
       "item": "pneumaticcraft:stop_worm",
-      "text": "Applying a $(thing)STOP! Worm/$ while hacking will temporarily freeze the station's $(l:components/network_components#diagnostic)Diagnostic Subroutine/$ from tracing you."
+      "text": "入侵安全站時，使用$(thing)停！蠕蟲/$將暫時停止安全站中$(l:components/network_components#diagnostic)診斷子程序/$對入侵者的追蹤。"
     }
   ]
 }

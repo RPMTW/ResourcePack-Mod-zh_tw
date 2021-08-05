@@ -1,12 +1,12 @@
 {
-  "name": "Harvesting Drone",
+  "name": "收割無人機",
   "icon": "pneumaticcraft:harvesting_drone",
   "category": "\n-工具",
   "advancement": "pneumaticcraft:pressure_chamber",
   "pages": [
     {
       "type": "text",
-      "text": "A $(item)Harvesting Drone/$ is a specialized non-programmable type of $(l:tools/drone)Drone/$ which will carry out $(l:programming/harvest)crop/tree harvesting/$ tasks in a 17x17x17 cube centered on the block it's deployed at. The Drone will $(italic)not/$ pick up harvested items.$(p)Like any other Drone, they require $(l:base_concepts/pressure)air/$ to operate, and will automatically seek out a $(l:machines/charging_station)Charging Station/$ if low on air."
+      "text": "$(item)收割無人機/$是一類特化的不可被編程的$(l:tools/drone)無人機/$，執行$(l:programming/harvest)收割作物/樹木/$操作。操作範圍為以所放置處為中心的 17x17x17 的立方體。無人機$(italic)不會/$拾取掉落物。$(p)與其餘無人機類似，物流無人機需要$(l:base_concepts/pressure)空氣/$才可執行，且在壓力不足時將自動找尋$(l:machines/charging_station)充氣站/$。"
     },
     {
       "type": "entity",
@@ -15,12 +15,12 @@
     },
     {
       "type": "text",
-      "title": "Tool Use",
-      "text": "If you deploy the $(item)Harvesting Drone/$ by $(thing)sneak+right-clicking/$ it against an inventory containing (only) a $(item)Hoe/$ of any type, the drone will use that hoe to automatically replant crops, and will not attempt to do any work without a hoe equipped. If you don't care about replanting, just deploy the drone against any other block."
+      "title": "使用工具",
+      "text": "若$(thing)潛行右擊/$（僅）含有任意種類的$(item)鋤/$的容器以放置下$(item)收穫無人機/$，無人機將會使用其中的鋤自動補種作物，並在沒有鋤時不試圖工作。若不需要補種，只需右擊其餘方塊以放置無人機。"
     },
     {
       "type": "crafting",
-      "text": "Note that Harvesting Drones have figured out how to chop down trees without an axe; they're clever like that.",
+      "text": "註：收割無人機似乎可以在沒有斧的情況下砍樹；真是優秀。",
       "recipe": "pneumaticcraft:harvesting_drone"
     }
   ]

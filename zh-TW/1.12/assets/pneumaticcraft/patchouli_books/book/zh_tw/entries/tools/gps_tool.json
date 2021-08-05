@@ -1,12 +1,12 @@
 {
-  "name": "GPS Tool",
+  "name": "定位工具",
   "icon": "pneumaticcraft:gps_tool",
   "category": "\n-工具",
   "advancement": "pneumaticcraft:plastic",
   "pages": [
     {
       "type": "text",
-      "text": "The $(item)GPS Tool/$ is an item that when $(thing)right-clicked/$ saves a coordinate. This data is used in a few places in $(pncr), see the next page.$(p)$(thing)Right-clicking/$ the $(item)GPS Tool/$ in air opens a GUI allowing coordinates to be adjusted directly.$(p)A held $(item)GPS Tool/$ highlights its selected block."
+      "text": "$(item)定位工具/$在$(thing)右擊/$時儲存坐標。坐標數據在$(pncr)中的好幾處被用到；見一下頁。$(p)使用$(item)定位工具/$$(thing)右擊/$空氣以打開設定介面，在此可以直接調整儲存的坐標。$(p)手持$(item)定位工具/$以將定位的方塊高亮。"
     },
     {
       "type": "relations",
@@ -16,17 +16,17 @@
         "programming/programmer",
         "tools/amadron_tablet"
       ],
-      "text": "Machines and tools that make use of the $(item)GPS Tool/$."
+      "text": "使用$(item)定位工具/$的機器與工具。"
     },
     {
       "type": "text",
       "anchor": "variables",
-      "title": "Linking Global Variables",
-      "text": "$(l:programming/variables#global)Global Variables/$ are an advanced $(l:base_concepts/drone)Drone/$ feature, accessed via the $(l:programming/coordinate_operator)Coordinate Operator/$.$(p)$(thing)Right-clicking/$ a $(item)GPS Tool/$ in the air allows a variable name to be entered.$(p)Now, that $(thing)Global Variable/$ will track the value of the $(item)GPS Tool's/$ selected coordinate. This can be used to make $(thing)Drone programs/$ that use dynamic areas."
+      "title": "與全局變數連結Linking Global Variables",
+      "text": "$(l:programming/variables#global)全局變數/$是一項高級的$(l:base_concepts/drone)無人機/$特性，可以通過$(l:programming/coordinate_operator)坐標運算符/$存取。$(p)使用$(item)定位工具/$$(thing)右擊/$空氣打開設定介面，在此可以輸入一個全局變數名。$(p)此後，選中的$(thing)全局變數/$將隨著$(item)定位工具/$所選的坐標變化而對應變化。這可以用於編寫使用動態區域的$(thing)無人機程序/$。"
     },
     {
       "type": "crafting",
-      "text": "Creating the GPS Tool",
+      "text": "定位工具的合成表",
       "recipe": "pneumaticcraft:gps_tool"
     }
   ]

@@ -1,12 +1,12 @@
 {
-  "name": "Printed Circuit Boards",
+  "name": "印刷電路板",
   "icon": "pneumaticcraft:printed_circuit_board",
   "category": "components",
   "advancement": "pneumaticcraft:plastic",
   "pages": [
     {
       "type": "text",
-      "text": "$(item)Printed Circuit Boards/$ (PCB's) are important components used in many higher tier machines and tools. Making a $(item)PCB/$   requires a few steps.$(p)First of all, make an $(item)Empty PCB/$ in the $(l:manufacturing/pressure_chamber)Pressure Chamber/$ as shown opposite. There are then two methods to proceed (see overleaf)."
+      "text": "$(item)印刷電路板/$（PCB）是很多高級機器和工具的重要組成。製作$(item)印刷電路板/$需要好幾步。$(p)首先，在$(l:manufacturing/pressure_chamber)壓力室/$製作$(item)空印刷電路板/$，合成表參見對頁。此後，有兩條製作路線（見一下頁）。"
     },
     {
       "type": "pneumaticcraft:pressure_chamber",
@@ -14,20 +14,20 @@
     },
     {
       "type": "text",
-      "title": "Method #1",
-      "text": "This method is the only one available initially, and is somewhat slow: you can develop a $(item)PCB/$ chemically by putting it in a $(l:manufacturing/uv_light_box)UV Light Box/$ and then throwing the exposed $(item)Empty PCB/$ in a pool of $(l:manufacturing/etching_acid)Etching Acid/$ to turn it into an $(item)Unassembled PCB/$."
+      "title": "法1",
+      "text": "該方法是初期唯一可用的方法，並且比較慢：可以以化學的法式蝕刻$(item)印刷電路板/$，先將其放入$(l:manufacturing/uv_light_box)紫外線燈箱/$照射，然後將照射過的$(item)空印刷電路板/$扔入$(l:manufacturing/etching_acid)蝕刻酸/$中使其轉化為$(item)未組裝的印刷電路板/$。"
     },
     {
       "type": "smelting",
-      "title": "Recycling Failed PCB's",
+      "title": "回收失敗的印刷電路板",
       "recipe": "pneumaticcraft:failed_pcb",
-      "text": "The etching process has a chance of failure if the $(item)Empty PCB/$ was not 100% exposed in the $(l:manufacturing/uv_light_box)UV Light Box/$; you can recycle $(item)Failed PCB's/$ in a $(item)Furnace/$ (or other smelting device)"
+      "text": "如果$(item)空印刷電路板/$並沒有在$(l:manufacturing/uv_light_box)紫外線燈箱/$中完全照射，刻蝕過程有可能失敗；可以在$(item)熔爐/$（或其他熔煉設備）中回收$(item)失敗的印刷電路板/$"
     },
     {
       "type": "spotlight",
-      "title": "Method #2",
+      "title": "法2",
       "item": "pneumaticcraft:assembly_controller",
-      "text": "Once you can make an $(l:manufacturing/assembly_system)Assembly System/$, you can use that to turn $(item)Empty PCB's/$ directly into an $(item)Unassembled PCB/$ with an $(item)Assembly Program: Laser/$.$(p)There's no need to expose it in a $(item)UV Light Box/$ or drop it in $(item)Etching Acid/$ in this case."
+      "text": "在製作出$(l:manufacturing/assembly_system)裝配線/$後，可以使用其在來$(item)裝配控制程序：雷射/$的條件下將$(item)空印刷電路板/$直接轉化為$(item)未組裝的印刷電路板/$。不需要將其在$(item)紫外線燈箱/$中照射或將其扔入$(item)蝕刻酸/$。"
     },
     {
       "type": "pneumaticcraft:assembly_system",
@@ -36,7 +36,7 @@
     {
       "type": "crafting",
       "recipe": "pneumaticcraft:printed_circuit_board",
-      "text": "Finally, you can add some $(l:components/capacitor)Capacitors/$ and $(l:components/transistor)Transistors/$ to assemble the finished $(item)Printed Circuit Board/$!"
+      "text": "最後，可以向其加入$(l:components/capacitor)電容/$和$(l:components/transistor)電晶體/$以裝配為完成的$(item)印刷電路板/$！"
     }
   ]
 }

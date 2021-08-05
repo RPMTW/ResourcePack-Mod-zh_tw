@@ -1,23 +1,23 @@
 {
-  "name": "Crafting Widget",
+  "name": "合成",
   "icon": "pneumaticcraft:textures/items/progwidgets/craft_piece.png",
   "category": "widget_interact",
   "advancement": "pneumaticcraft:programmer",
   "pages": [
     {
       "type": "text",
-      "text": "The $(l:tools/drone)Drone/$ will craft items using items it has in its inventory. To specify a crafting recipe, place $(l:programming/item_filter)Item Filters/$ on the right side of the Crafting widget, in the pattern of the crafting recipe.$(p)You don't need to use exactly 9 $(thing)Item Filters/$: as long as you can create the recipe pattern, it will work."
+      "text": "$(l:tools/drone)無人機/$將會使用其攜帶的物品合成物品。要指定合成表，在右側以合成表的形式放置$(l:programming/item_filter)物品過濾器/$。$(p)不需要連接正好 9 個$(thing)物品過濾器/$；只要合成表被構建出來就可行。"
     },
     {
       "type": "text",
-      "text": "By default the Crafting widget will try to craft as many items as possible; you can limit this in the widget GUI with the $(thing)Use Count/$ setting.$(p)You will probably want to install some $(l:base_concepts/upgrades#dispenser)Dispenser Upgrades/$ in the $(item)Drone/$ to give it a larger inventory."
+      "text": "合成拼圖預設試圖合成儘可能多的物品；這可以在設定介面內使用$(thing)使用計數/$限制。$(p)可能需要對$(item)無人機/$安裝一些$(l:base_concepts/upgrades#dispenser)發射器升級/$來擴充其物品欄。"
     },
     {
       "type": "image",
       "images": [
         "pneumaticcraft:textures/items/progwidgets/craft_piece.png"
       ],
-      "text": "$(italic)Crafting Widget/$"
+      "text": "$(italic)合成/$"
     }
   ]
 }

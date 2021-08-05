@@ -6,11 +6,11 @@
   "pages": [
     {
       "type": "text",
-      "text": "$(li)Get some $(thing)iron/$; ingots or blocks.  You'll want around one stack of iron to start with.$(li)Throw it on the ground, and blow it up. Yes, really.$(li)Collect the resulting $(thing)Compressed Iron/$ (there'll be a bit less than the iron you dropped).$(li)Make some $(l:tubes/pressure_tubes)Pressure Tubes/$.$(li)Build a $(l:manufacturing/pressure_chamber)Pressure Chamber/$."
+      "text": "$(li)獲取一些$(thing)鐵/$；鐵錠或是鐵塊。開始時，最好有約一組的鐵錠。$(li)將其扔在地上，並將其炸掉。對，真的。$(li)收集爆炸產生的$(thing)壓縮鐵/$（比原來的鐵要少一些）。$(li)製作一些$(l:tubes/pressure_tubes)壓力管道/$。$(li)建造一個$(l:manufacturing/pressure_chamber)壓力室/$。"
     },
     {
       "type": "text",
-      "text": "From here on, more sections of this manual will unlock, based on $(thing)Advancements/$ you receive for progressing through $(pncr). Check back on the Advancements page for the mod for guidance on what you should be making next (you'll also get a bit of $(thing)Experience/$ for unlocking some Advancements, so that's nice)."
+      "text": "自此之後，該手冊的更多部分將會解鎖，基於你在$(pncr)的發展過程中達成的的$(thing)進度/$。查看該模組的進度頁獲取下一步發展的指導（完成某些進度也會給予$(thing)經驗/$，算是錦上添花）。"
     }
   ]
 }

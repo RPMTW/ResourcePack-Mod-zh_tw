@@ -1,19 +1,19 @@
 {
-  "name": "Drone Condition: RF Widget",
+  "name": "無人機條件：RF",
   "icon": "pneumaticcraft:textures/items/progwidgets/condition_drone_rf_piece.png",
   "category": "widget_cond",
   "advancement": "pneumaticcraft:programmer",
   "pages": [
     {
       "type": "text",
-      "text": "This is a $(l:programming/conditions)Condition/$ widget.$(p)The $(thing)Drone Condition: RF/$ widget allows you to check the amount of $(thing)Forge Energy (FE)/$ carried by this $(l:tools/drone)Drone/$.$(p)$(italic)Despite its name, this widget checks FE (including RF), not specifically RF (Redstone Flux) - the name is historical./$"
+      "text": "這是一個$(l:programming/conditions)條件/$拼圖。$(p)$(thing)無人機條件：RF/$ 允許你檢查$(l:tools/drone)無人機/$攜帶的$(thing)FE能量/$。$(p)$(italic)與其名字不同，該拼圖檢查FE能量，而非RF（紅石通量）。該拼圖的命名屬於歷史遺留問題。/$"
     },
     {
       "type": "image",
       "images": [
         "pneumaticcraft:textures/items/progwidgets/condition_drone_rf_piece.png"
       ],
-      "text": "$(italic)Drone Condition: RF Widget/$"
+      "text": "$(italic)無人機條件：RF/$"
     }
   ]
 }

@@ -1,37 +1,37 @@
 {
-  "name": "Heat",
+  "name": "熱量",
   "icon": "minecraft:blaze_powder",
   "category": "base_concepts",
   "pages": [
     {
       "type": "text",
-      "text": "$(pncr) adds a $(thing)heat/$ system. It spreads from block to block similarly to how heat spreads in real-life. It has some similarities with how $(base_concepts/pressure)pressure disperses/$ too:$(li)Heat disperses from hotter objects to colder objects.$(li)Blocks will only spread heat to adjacent blocks that support the concept of heat (see $(l:base_concepts/heat_sources)Heat Sources/$)."
+      "text": "$(pncr)加入了$(thing)熱量/$系統。熱量在方塊之間傳遞，正如現實生活中。這一傳遞與$(base_concepts/pressure)壓力傳播/$的機制也有相似之處：$(li)熱量從熱的物體傳向冷的物體。$(li)方塊只會將熱量傳遞到相鄰的支持熱量的方塊（見$(l:base_concepts/heat_sources)熱源/$）。"
     },
     {
       "type": "text",
-      "text": "$(li)The bigger the temperature difference, the faster the heat dispersal.$(li)Different objects have a different $(thing)thermal resistance/$. $(item)Torches/$ and $(item)Air/$ have a high resistance, while $(l:base_concepts/basic_materials#compressed_iron_block)Compressed Iron Blocks/$ have a very low resistance. $(thing)Thermal resistance/$ determines how fast heat can spread from one object to another."
+      "text": "$(li)溫差越大，熱量傳遞越快。$(li)不同物體具有不同的$(thing)熱阻抗/$。$(item)火把/$與$(item)空氣/$具有很高的阻抗，而$(l:base_concepts/basic_materials#compressed_iron_block)壓縮鐵方塊/$具有很低的阻抗。$(thing)熱阻抗/$決定熱量在物體間傳遞的速率。"
     },
     {
       "type": "text",
-      "text": "$(li)Different objects have a different $(thing)thermal capacity/$. The higher the capacity, the slower the temperature will rise for the given heat gain. Similarly, the slower the temperature will drop for the given heat loss. In other words, it takes more $(thing)heat/$ to raise the $(thing)temperature/$ of a higher-capacity block, but its temperature will also drop more slowly when it loses heat."
+      "text": "$(li)不同物體具有不同的$(thing)熱容$/。熱容越高，獲得給定熱量使物體升高的溫度越低；對於失去熱量同理。換言之，需要更多$(thing)熱量/$以提升高熱容方塊的$(thing)溫度/$，但相應的，在失去熱量時溫度變化也更慢。"
     },
     {
       "type": "text",
-      "title": "Insulation",
+      "title": "隔熱",
       "anchor": "insulation",
-      "text": "Machines will lose heat to the air if left exposed; this is particularly noticeable with the $(l:manufacturing/refinery)Refinery/$, which has many exposed faces, but is also true of any heat-conducting block, including $(l:base_concepts/basic_materials#compressed_iron_block)Compressed Iron Blocks/$.$(p)To avoid this heat loss, ensure that no faces are exposed to air blocks; any non-conducting block will do. It doesn't have to be a full block, either - $(item)Trapdoors/$ and $(item)slabs/$ will work fine."
+      "text": "若機器暴露在空氣中，其將會向空氣散發熱量；這一現象對於$(l:manufacturing/refinery)精煉廠/$尤為明顯，因為其具有大量暴露在空氣中的麵；但這對於其餘導熱方塊同樣存在，包括$(l:base_concepts/basic_materials#compressed_iron_block)壓縮鐵方塊/$。$(p)要避免這一熱量損失，確保沒有任何面被暴露在空氣中；任何非導熱方塊都可做到這一點。甚至不需要為完整方塊：$(item)地板門/$與$(item)半磚/$同樣可以做到這一點。"
     },
     {
       "type": "text",
-      "title": "Heat Sources",
-      "text": "Some machines in $(pncr) produce Heat that needs to be dissipated, and some require Heat to run.$(p)Therefore, you will need to $(l:base_concepts/heat_sources)find ways/$ to manipulate the temperature of these machines..."
+      "title": "熱源",
+      "text": "$(pncr)中的一部分機器產生需要被散去的熱量，而另一些需要吸收熱量才能工作。$(p)因此，需要$(l:base_concepts/heat_sources)找到一些辦法/$操縱機器的溫度..."
     },
     {
       "type": "spotlight",
       "flag": "mod:toughasnails",
-      "title": "Tough As Nails",
+      "title": "意志堅定模組",
       "item": "toughasnails:thermometer",
-      "text": "Since $(l:https://minecraft.curseforge.com/projects/tough-as-nails)Tough As Nails/$ is installed, you should take extra care around hot or cold $(pncr) machines and blocks, since they will have an effect on your temperature!$(p)Blocks that are $(l:base_concepts/heat#insulation)insulated/$ will have a less pronounced heating or cooling effect."
+      "text": "介於安裝了$(l:https://www.curseforge.com/minecraft/mc-mods/tough-as-nails)意志堅定/$模組，你需要注意冷或熱的$(pncr)機器，因為這些方塊將會影響玩家的體溫！$(p)被$(l:base_concepts/heat#insulation)隔熱/$的方塊的這一影響將會更小。"
     }
   ]
 }

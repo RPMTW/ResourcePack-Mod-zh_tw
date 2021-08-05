@@ -1,5 +1,5 @@
 {
-  "name": "Basic Tutorial #1",
+  "name": "基礎教學 #1",
   "icon": "minecraft:knowledge_book",
   "category": "programming",
   "priority": "是",
@@ -7,51 +7,51 @@
   "pages": [
     {
       "type": "text",
-      "text": "In this tutorial, we'll set up a simple program to make a $(l:tools/drone)Drone/$ dig out an area. Before you start, you'll need:"
+      "text": "在此教學中，我們將創建一個讓$(l:tools/drone)無人機/$挖掘指定區域的程序。開始前，需要準備："
     },
     {
       "type": "text",
-      "text": "$(li)A $(l:programming/programmer)Programmer/$ (of course)$(li)(If you're not in Creative Mode) A $(item)Chest/$ adjacent to the Programmer containing these $(l:programming/puzzle_pieces)Puzzle Pieces/$:$(li2)2 $(2)Green/$ Puzzle Pieces$(li2)1 $(6)Brown/$ Puzzle Piece$(li2)1 $(1)Blue/$ Puzzle Piece$(li2)1 $(7)Gray/$ Puzzle Piece$(li2)1 $(a)Lime/$ Puzzle Piece$(li)A $(item)Chest/$ or any inventory, containing a $(item)Shovel/$ of any type$(li)A basic $(l:tools/gps_tool)GPS Tool/$ and a $(l:tools/gps_area_tool)GPS Area Tool/$"
+      "text": "$(li)$(l:programming/programmer)編程器/$（當然）$(li)（若不在創造模式）與編程器直接相鄰的$(item)儲物箱/$，裝有下列$(l:programming/puzzle_pieces)編程拼圖/$：$(li2)2 個$(2)綠色/$編程拼圖$(li2)1 個$(6)棕色/$編程拼圖$(li2)1 個$(1)藍色/$編程拼圖$(li2)1 個$(7)灰色/$編程拼圖$(li2)1 個$(a)淺綠色/$編程拼圖$(li)裝有任何$(item)鏟/$的$(item)儲物箱/$或其餘容器$(li)$(l:tools/gps_tool)定位工具/$和$(l:tools/gps_area_tool)區域定位工具/$"
     },
     {
       "type": "text",
-      "text": "Open the $(l:programming/programmer)Programmer/$ GUI. On the right, you'll see a $(thing)tray/$ of $(ttcolor)$(t:The virtual representations of Puzzle Pieces in the GUI are referred to as Programming Widgets)Programming Widgets/$. There are multiple pages of these; you can either cycle through with the arrow buttons below the tray, or expand the tray by pressing $(thing)Space/$ or $(thing)Tab/$.$(p)When expanded, a textfield appears above the tray where you can enter a $(thing)filter/$ to search for widgets. Type 'start' there now: you'll see only one widget not $(7)grayed/$ out."
+      "text": "打開$(l:programming/programmer)編程器/$的介面。在右側可以看到一個$(ttcolor)$(t:編程拼圖一詞也用於指代此處顯示的程序片段)編程拼圖/$的列表。這個列表有好幾頁；可以用列表下方的箭頭切換每一頁，或按下$(thing)空格/$或 $(thing)Tab/$ 展開列表。$(p)展開後，列表上方會出現一個文字框，在此可以輸入拼圖的搜尋$(thing)過濾/$。在此輸入「開始」：只有一個拼圖沒有被淡化。"
     },
     {
       "type": "text",
-      "text": "Now drag that $(l:programming/start)Start/$ widget onto the main programming area. It will appear with a $(4)red border/$, indicating a problem: mouse over to see what.$(p)Right, there's no widget connected underneath - we will remedy that now by creating our program.$(p)Find an $(l:programming/inventory_import)Import From Inventory/$ widget and drag it to right below the $(thing)Start/$ widget."
+      "text": "將這個$(l:programming/start)開始/$拼圖拖拽到主編程介面。其邊框將被$(4)加紅/$，標誌著存在問題：將游標指針懸浮在其上，看看是什麼問題。$(p)好，下方沒有連接拼圖——我們就要通過創建程序修正這一點。$(p)找到$(l:programming/inventory_import)從容器中輸入物品/$拼圖，並拖拽到$(thing)開始/$拼圖的正下方。"
     },
     {
       "type": "text",
-      "text": "If you place it close enough, it will 'snap' to the bottom of the $(thing)Start/$ widget. Notice how the connectors fit, like a jigsaw puzzle; hence the name $(thing)Puzzle Piece/$.$(p)Next, drag an $(l:programming/area)Area/$ widget and connect it to the right ($(ttcolor)$(t:Widgets on the right of other widgets act as a whitelist; widgets on the left act as a blacklist)not left/$) of the $(thing)Import/$ widget, and an $(l:programming/item_filter)Item Filter/$ widget, also to the right of the $(thing)Import/$ widget. Again, make sure they 'snap' together."
+      "text": "如果足夠接近，拼圖將會「自動對齊」到$(thing)開始/$拼圖的下方。注意到邊緣緊密連接，就像拼圖一樣；$(thing)編程拼圖/$因此得名。$(p)下一步，將一個$(l:programming/area)區域/$拼圖連接到$(thing)輸入物品/$拼圖的右側（$(ttcolor)$(t:右側的拼圖作為白名單；左側的拼圖作為黑名單)而非左側/$）；再加入一個$(l:programming/item_filter)物品過濾器/$拼圖，同樣在$(thing)輸入物品/$拼圖的右側。確認這些拼圖自動對齊。"
     },
     {
       "type": "text",
-      "text": "You'll notice the $(thing)Area/$ widget also starts with a $(4)red border/$, because it doesn't have an area defined yet. Take your $(item)GPS Tool/$, and $(thing)sneak+right-click/$ on the $(item)chest/$ containing the $(item)shovel/$ you placed before. You'll see it highlights the location.$(p)Now, in the Programmer GUI, $(thing)left-click/$ the $(thing)Area/$ widget with the $(item)GPS Tool/$ on your cursor: you'll see the location copied onto the $(thing)Area/$ widget!"
+      "text": "注意到$(thing)區域/$拼圖的邊框同樣被$(4)加紅/$，因為其中還沒有定義區域。用$(item)定位工具/$$(thing)潛行右擊/$裝有$(item)鏟/$的$(item)儲物箱/$。該位置將被高亮。$(p)在編程器介面中，用$(item)定位工具/$$(thing)左擊/$原有的$(thing)區域/$拼圖：所選位置將被複製入$(thing)區域/$拼圖！"
     },
     {
       "type": "text",
-      "text": "Now for the $(thing)Item Filter/$: $(thing)right-click/$ it to open an options GUI. Click the $(bold)Search Item.../$ button, and type 'shovel' into the result search window. Choose the shovel type that you put in the chest earlier, and press $(thing)Escape/$ to close the search box.$(p)Back in the $(thing)Item Filter/$ window, ensure 'Use metadata...' is $(italic)unchecked/$, so it will also match partially used shovels. Press $(thing)Escape/$ again: back to the main GUI."
+      "text": "對$(thing)物品過濾器/$拼圖要做類似的設定：$(thing)右擊/$以打開設定介面。點擊$(bold)查找物品.../$按鈕，在查找框輸入「鏟」。選擇你所放置在儲物箱中的鏟，按下 $(thing)Esc/$ 以關閉查找框。$(p)回到$(thing)物品過濾器/$設定介面，確保複選框「使用元數據...」$(italic)未被勾選/$，這樣一來，被使用過的鏟也會被匹配。再次按下 $(thing)Esc/$：回到主介面。"
     },
     {
       "type": "text",
-      "text": "At this point, we've told the Drone to pick up a shovel from the chest; now to make it dig!$(p)Drag a $(l:programming/dig)Dig/$ widget and snap it to the bottom of the $(thing)Import/$ widget.$(p)Drag another $(thing)Area/$ widget and snap it to the right of the $(thing)Dig/$ widget."
+      "text": "在此，無人機可以從儲物箱中取得一把鏟；下一步就是讓它挖掘！$(p)將一個$(l:programming/dig)挖掘/$拼圖連接到$(thing)輸入物品/$拼圖的下方。$(p)再將又一個$(thing)區域/$拼圖連接到$(thing)挖掘/$拼圖的右端。"
     },
     {
       "type": "text",
-      "text": "Let's define the area to be dug: take your $(thing)GPS Area Tool/$ and $(thing)right-click/$ a block to form one corner of the area. $(thing)Left-click/$ a block at the opposite corner. Don't make it too huge, and try to stick to dirt/sand.$(p)Ensure the highlighted area is a $(thing)solid box/$ - it should be by default, but you can $(thing)left/right-click/$ the tool in the air to open a configuration GUI where the shape can be defined."
+      "text": "下一步是定義要挖掘的區域：用$(item)區域定位工具/$$(thing)右擊/$一個方塊，選定區域的第一個角。$(thing)左擊/$一個方塊以選定第二個角。不要把區域選定得太大，並且儘量保持選中泥土/沙。$(p)確保高亮的區域為$(thing)實心盒型/$——預設應當是如此，但可以對準空氣$(thing)左/右擊/$以打開設定介面，在此可以定義區域形狀。"
     },
     {
       "type": "text",
-      "text": "Back in the Programmer GUI, take the $(thing)GPS Area Tool/$ and $(thing)left-click/$ it on the $(thing)Area/$ widget attached to the $(thing)Dig/$ widget. As before, you'll see its settings copied onto the Area widget.$(p)At this point, there should be no red highlights indicating any errors: congratulations, you have a valid program!"
+      "text": "回到編程器介面，用$(item)區域定位工具/$$(thing)左擊/$連接在$(thing)挖掘/$拼圖上的$(thing)區域/$拼圖。正如先前，區域定位工具的設定將被複製到區域拼圖上。$(p)在此，應當不在有標誌錯誤的高亮紅框：恭喜，你已經創建出了一個可行的程序！"
     },
     {
       "type": "text",
-      "text": "Finally, take a $(l:tools/drone)Drone/$, and ensure it's been pressurized in a $(l:machines/charging_station)Charging Station/$. Put the Drone item in the slot in the top right of the Programmer GUI and click the $(thing)⟶ (export)/$ button (you can name the Drone if you want, in the textfield to the left).$(p)You'll get some audible feedback, and your Drone is programmed!"
+      "text": "最後，取一台$(l:tools/drone)無人機/$，並確保其在$(l:machines/charging_station)充氣站/$裡充氣至足夠的壓力。將無人機放置到編程器右上方的欄位，點擊$(thing)⟶（導出）/$按鈕（若需要，可以在左側的文字框中命名無人機）。$(p)將會有一些音效；此後，無人機就編程完畢了！"
     },
     {
       "type": "text",
-      "text": "All that remains now is to deploy your Drone: $(thing)right-click/$ in the world somewhere near your chest, and watch it go to work!"
+      "text": "剩下要做的不過是部署無人機：在儲物箱附近$(thing)右擊/$，然後只需看其工作！"
     }
   ]
 }

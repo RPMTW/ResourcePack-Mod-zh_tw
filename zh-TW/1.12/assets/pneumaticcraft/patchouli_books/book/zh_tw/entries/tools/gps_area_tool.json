@@ -1,20 +1,20 @@
 {
-  "name": "GPS Area Tool",
+  "name": "區域定位工具",
   "icon": "pneumaticcraft:gps_area_tool",
   "category": "\n-工具",
   "advancement": "pneumaticcraft:plastic",
   "pages": [
     {
       "type": "text",
-      "text": "The $(item)GPS Area Tool/$ is an advanced version of the $(l:tools/gps_tool)GPS Tool/$, which can store $(italic)two/$ coordinates in the world. $(thing)Left-click/$ a block (or air) to change the first coordinate, and $(thing)right-click/$ for the second coordinate. By $(thing)right/$ or $(thing)left-clicking/$ in the air, you can configure the positions in a GUI. Additionally, you can change the $(thing)Area type/$, allowing you to preview the area in different configurations. "
+      "text": "$(item)區域定位工具/$為$(l:tools/gps_tool)定位工具/$的高級版本，介於其可以儲存$(italic)兩/$個坐標。$(thing)左擊/$方塊（或空氣）變更定位點 1，$(thing)右擊/$變更定位點 2。$(thing)右擊/$或$(thing)左擊/$空氣以打開設定介面，在此可以直接調整定位點。此外，可以變更$(thing)區域類型/$，允許你預覽不同設定下的區域。"
     },
     {
       "type": "text",
-      "text": "The $(item)GPS Area Tool/$ supports $(l:programming/variables#global)Global Variables/$ like the basic $(l:gps_tool#variables)GPS Tool/$ does.$(p)In a $(l:programming/programmer)Programmer/$, $(thing)left-click/$ the programming area background with the $(item)GPS Area Tool/$ to create a new $(l:programming/area)Area/$ puzzle piece, or $(thing)left-click/$ on an existing $(l:programming/area)Area/$ puzzle piece to overwrite it."
+      "text": "像更為基礎的$(l:gps_tool#variables)定位工具/$一樣，$(item)區域定位工具/$支持$(l:programming/variables#global)全局變數/$。$(p)在$(l:programming/programmer)編程器/$中，使用$(item)區域定位工具/$$(thing)左擊/$空白的程式區域以創建$(l:programming/area)區域/$拼圖，$(thing)左擊/$已有的$(l:programming/area)區域/$拼圖以將其覆蓋。"
     },
     {
       "type": "crafting",
-      "text": "Creating the GPS Area Tool",
+      "text": "區域定位工具的合成表",
       "recipe": "pneumaticcraft:gps_area_tool"
     }
   ]

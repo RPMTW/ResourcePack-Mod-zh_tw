@@ -5,117 +5,117 @@
     "pages": [
         {
             "type": "text",
-            "text": "$(thing)Upgrades/$ are craftable items which can be inserted into machines and some tools to enhance their functionality in some way. To add upgrades to tools, you will need a $(l:machines/charging_station)Charging Station/$.$(p)The precise effect of each upgrade varies by device; it's documented in the machine's GUI, or (for items) in the Charging Station's upgrade GUI."
+            "text": "$(thing)升級/$為一些可被合成的物品，可以安裝在機器和一些工具上以在某些方面增強其功能。需要使用$(l:machines/charging_station)充氣站/$向工具安裝升級。$(p)升級對於機器的具體效應隨機器而異；這一效應對於機器在其介面中顯示，對於工具在充氣站的升級介面中顯示。"
         },
         {
             "type": "crafting",
             "anchor": "volume",
             "recipe": "pneumaticcraft:volume_upgrade",
-            "text": "Creating a Volume Upgrade"
+            "text": "容量升級的合成表"
         },
         {
             "type": "crafting",
             "anchor": "dispenser",
             "recipe": "pneumaticcraft:dispenser_upgrade",
-            "text": "Creating a Dispenser Upgrade"
+            "text": "發射器升級的合成表"
         },
         {
             "type": "crafting",
             "anchor": "item_life",
             "recipe": "pneumaticcraft:item_life_upgrade",
-            "text": "Creating a Item Life Upgrade"
+            "text": "物品壽命升級的合成表"
         },
         {
             "type": "crafting",
             "anchor": "entity_tracker",
             "recipe": "pneumaticcraft:entity_tracker_upgrade",
-            "text": "Creating a Entity Tracker Upgrade"
+            "text": "實體追蹤升級的合成表"
         },
         {
             "type": "crafting",
             "anchor": "block_tracker",
             "recipe": "pneumaticcraft:block_tracker_upgrade",
-            "text": "Creating a Block Tracker Upgrade"
+            "text": "方塊追蹤升級的合成表"
         },
         {
             "type": "crafting",
             "anchor": "speed",
             "recipe": "pneumaticcraft:speed_upgrade",
-            "text": "Creating a Speed Upgrade$(p)$(bold)Tip:/$ you can also use a $(l:machines/liquid_hopper)Liquid Hopper/$ (or other modded tank) of $(l:components/lubricant)Lubricant/$ to craft multiple upgrades at a time!"
+            "text": "速度升級的合成表$(p)$(bold)註：/$可以使用裝有$(l:components/lubricant)潤滑油/$的$(l:machines/liquid_hopper)流體漏斗/$（或其餘模組的儲罐）一次性合成多個速度升級"
         },
         {
             "type": "crafting",
             "anchor": "search",
             "recipe": "pneumaticcraft:search_upgrade",
-            "text": "Creating a Search Upgrade"
+            "text": "物品搜尋升級的合成表"
         },
         {
             "type": "crafting",
             "anchor": "coordinate_tracker",
             "recipe": "pneumaticcraft:coordinate_tracker_upgrade",
-            "text": "Creating a Coordinate Tracker Upgrade"
+            "text": "坐標追蹤升級的合成表"
         },
         {
             "type": "crafting",
             "anchor": "range",
             "recipe": "pneumaticcraft:range_upgrade",
-            "text": "Creating a Range Upgrade"
+            "text": "範圍升級的合成表"
         },
         {
             "type": "crafting",
             "anchor": "security",
             "recipe": "pneumaticcraft:security_upgrade",
-            "text": "Creating a Security Upgrade"
+            "text": "安全升級的合成表"
         },
         {
             "type": "crafting",
             "anchor": "magnet",
             "recipe": "pneumaticcraft:magnet_upgrade",
-            "text": "Creating a Magnet Upgrade"
+            "text": "磁鐵升級的合成表"
         },
         {
             "type": "crafting",
             "anchor": "thaumcraft",
             "flag": "mod:thaumcraft",
             "recipe": "pneumaticcraft:thaumcraft_upgrade",
-            "text": "Creating a Thaumcraft Upgrade"
+            "text": "神秘時代升級的合成表"
         },
         {
             "type": "crafting",
             "anchor": "charging",
             "recipe": "pneumaticcraft:charging_upgrade",
-            "text": "Creating a Charging Upgrade"
+            "text": "充氣升級的合成表"
         },
         {
             "type": "crafting",
             "anchor": "armor",
             "recipe": "pneumaticcraft:armor_upgrade",
-            "text": "Creating a Armor Upgrade"
+            "text": "護甲升級的合成表"
         },
         {
             "type": "crafting",
             "anchor": "jet_boots",
             "recipe": "pneumaticcraft:jet_boots_upgrade",
-            "text": "Creating a Jet Boots Upgrade"
+            "text": "噴射鞋升級的合成表"
         },
         {
             "type": "crafting",
             "anchor": "night_vision",
             "recipe": "pneumaticcraft:night_vision_upgrade",
-            "text": "Creating a Night Vision Upgrade"
+            "text": "夜視升級的合成表"
         },
         {
             "type": "crafting",
             "anchor": "scuba",
             "recipe": "pneumaticcraft:scuba_upgrade",
-            "text": "Creating a Scuba Upgrade"
+            "text": "水下呼吸升級的合成表"
         },
         {
             "type": "crafting",
             "flag": "mod:toughasnails",
             "anchor": "air_conditioning",
             "recipe": "pneumaticcraft:air_conditioning_upgrade",
-            "text": "Creating an Air Conditioning Upgrade"
+            "text": "空調升級的合成表"
         }
     ]
 }

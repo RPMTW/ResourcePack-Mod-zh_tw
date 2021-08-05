@@ -1,34 +1,34 @@
 {
-  "name": "Plastic Mixer",
+  "name": "塑膠混合機",
   "icon": "pneumaticcraft:plastic_mixer",
   "category": "manufacturing",
   "advancement": "pneumaticcraft:tp_plant",
   "pages": [
     {
       "type": "text",
-      "text": "The $(item)Plastic Mixer/$ is a machine used to convert $(l:components/plastic)Liquid Plastic/$ into the solid $(thing)Plastic/$ used in crafting, or vice versa.$(p)Melting $(thing)Plastic/$ requires $(l:base_concepts/heat)Heat/$ (150°C), but solidifying $(thing)Plastic/$ does $(italic)not/$ require Heat, just $(4)red/$ / $(2)green/$ / $(1)blue/$ $(item)Dyes/$ (other than $(item)White Plastic/$, which does not need dyes)."
+      "text": "$(item)塑膠混合機/$可以用於將$(l:components/plastic)液態塑膠/$轉化合成表中為固態的$(thing)塑膠/$，反之亦然。$(p)融化$(thing)塑膠/$需要$(l:base_concepts/heat)熱量/$（150℃)，但固化$(thing)塑膠/$$(italic)不/$需要熱量，僅需要$(4)紅/$/$(2)綠/$/$(1)藍/$$(item)染料/$（$(item)白色塑膠/$除外；其不需要染料）。"
     },
     {
       "type": "text",
-      "title": "Solidifying Plastic",
-      "text": "Open up the $(bold)Plastic Selection/$ GUI tab: you will see a  panel with 16 buttons. Click the button of the $(thing)Plastic/$ color you want, and the dye required will be mixed with the $(l:components/plastic)Liquid Plastic/$ and solidify into one piece of $(item)Plastic/$ in the output slot.$(p)The $(bold)Lock Selection/$ button locks in the next color of $(item)Plastic/$ selected, to make this mixer continually produce a specific color of plastic."
+      "title": "固化塑膠",
+      "text": "打開$(bold)選擇塑膠/$標籤頁：其將顯示一個有 16 種顏色的面板。點擊所需的$(thing)塑膠/$顏色，然後所需的染料將會與$(l:components/plastic)液態塑膠/$混合並固化為輸出槽中的$(item)塑膠/$物品。$(p)$(bold)鎖定選擇/$複選框將顏色鎖定在下一個選擇的顏色，使其連續地產生指定顏色的塑膠。"
     },
     {
       "type": "text",
-      "title": "Redstone Options",
-      "text": "In addition to the default $(thing)Redstone/$ options (requiring a signal to run, and requiring no signal to run), the $(item)Plastic Mixer/$ also has a $(bold)Select Plastic on Signal/$ mode.$(p)In this mode the selected $(item)Plastic/$ color will be set from the $(#f00)redstone signal/$ level. E.g. for level 0, Black Plastic, level 1, Red Plastic, and so on, corresponding to the order of buttons in the side tab."
+      "title": "紅石控制",
+      "text": "除去預設的$(thing)紅石/$選項（有信號時執行，無信號時執行），$(item)塑膠混合機/$還有$(bold)根據信號選擇塑膠/$模式。$(p)該模式中，所選的$(item)塑膠/$顏色將會基於$(#f00)紅石信號/$強度被指定。例如：0 -> 黑色，1 -> 紅色，等等，按照機器介面中的按鈕順序排列。"
     },
     {
       "type": "link",
       "flag": "mod:crafttweaker",
       "title": "CraftTweaker",
-      "text": "The $(item)Plastic Mixer/$ has $(l:https://minecraft.curseforge.com/projects/crafttweaker)CraftTweaker/$ support: alternative plastic fluid inputs can be added and removed, with definable fluid->solid ratios. Follow the link below for more information.",
-      "url": "https://crafttweaker.readthedocs.io/en/latest/#Mods/PneumaticCraft_Repressurized/PlasticMixer/",
-      "link_text": "CraftTweaker Docs"
+      "text": "$(thing)塑膠混合機/$中的合成配方支持被 $(l:https://www.curseforge.com/minecraft/mc-mods/crafttweaker)CraftTweaker/$ 修改：合成配方可以被加入或移除，見下面連結以獲得更多資訊。",
+      "url": "https://docs.blamejared.com/1.12/zh/Mods/PneumaticCraft_Repressurized/PlasticMixer/",
+      "link_text": "CraftTweaker 檔案"
     },
     {
       "type": "crafting",
-      "text": "Creating the Plastic Mixer",
+      "text": "塑膠混合機的合成表",
       "recipe": "pneumaticcraft:plastic_mixer"
     }
   ]
