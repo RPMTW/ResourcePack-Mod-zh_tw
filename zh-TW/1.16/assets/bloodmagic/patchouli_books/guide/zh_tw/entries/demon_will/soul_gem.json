@@ -23,7 +23,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "$(l:bloodmagic:demon_will/demon_will)惡魔意志$()是一個非常有用的資源，\n但是你目前得到的碎片顯然缺乏力量。\n你需要的是一個像$(item)地獄魂石$()這樣的存儲工具。\n更重要的是，它可以吸收所有你可能丟在各處的 $(l:bloodmagic:demon_will/demon_will)惡魔意志$()。\n只需將它們丟在地上，您閃亮的新寶石就會吸收它們。 "
+      "text": "$(l:bloodmagic:demon_will/demon_will)惡魔意志$()是一個非常有用的資源，\n但是你目前得到的碎片顯然缺乏力量。\n你需要的是一個像$(item)地獄魂石$()這樣的儲存工具。\n更重要的是，它可以吸收所有你可能丟在各處的 $(l:bloodmagic:demon_will/demon_will)惡魔意志$()。\n只需將它們丟在地上，您閃亮的新寶石就會吸收它們。 "
     },
     {
       "type": "crafting_soulforge",
@@ -33,7 +33,7 @@
     },
     {
       "type": "text",
-      "text": "\n你的 $(item)[微小]地獄魂石$() 是一個有用的工具，但它顯然不夠強壯。 小心的使用 $(item)鑽石$()、$(item)青金石$() 和 $(item)紅石$() ，你找到了一種將其存儲能力提高四倍的方法。 "
+      "text": "\n你的 $(item)[微小]地獄魂石$() 是一個有用的工具，但它顯然不夠強壯。 小心的使用 $(item)鑽石$()、$(item)青金石$() 和 $(item)紅石$() ，你找到了一種將其儲存能力提高四倍的方法。 "
     },
     {
       "type": "crafting_soulforge",

@@ -1,0 +1,40 @@
+{
+  "name": "夥伴集卡冊",
+  "icon": "buddycards:binder.1",
+  "category": "buddycards:items",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "text",
+      "text": "夥伴集卡冊是一種簡單的夥伴卡存儲方案。每個集卡冊都有54個卡槽，每個卡槽可以容納一組卡片，並且可以通過 額外頁面 附魔進行擴充。$(br2)根據你用來製作它的卡片，集卡冊的顏色會有所不同。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "buddycards:binder.1",
+      "recipe2": "buddycards:binder.2"
+    },
+    {
+      "type": "crafting",
+      "recipe": "buddycards:binder.3",
+      "recipe2": "buddycards:byg/binder.4"
+    },
+    {
+      "type": "crafting",
+      "recipe": "buddycards:create/binder.5",
+      "recipe2": "buddycards:aquaculture/binder.6"
+    },
+    {
+      "type": "crafting",
+      "recipe": "buddycards:fd/binder.7"
+    },
+    {
+      "type": "relations",
+      "title": "集卡冊附魔",
+      "entries": [
+        "buddycards:enchantments/buddy_binding",
+        "buddycards:enchantments/extra_page"
+      ],
+      "text": "集卡冊可以附魔 夥伴綁定 和 額外頁面 。"
+    }
+  ]
+}

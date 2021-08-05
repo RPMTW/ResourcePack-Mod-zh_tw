@@ -1,0 +1,47 @@
+{
+  "name": "地獄系列",
+  "icon": "buddycards:pack.2",
+  "category": "buddycards:sets",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "text",
+      "text": "地獄系列的夥伴卡比基礎系列還要難找一點，可以在地獄找到。該系列共有 27 張卡片，但當您考慮閃光卡和不同等級時，還有更多種卡片。$(br2)為了獲得地獄系列卡，你必須找到地獄系列卡包。"
+    },
+    {
+      "type": "spotlight",
+      "title": "地獄系列卡包",
+      "item": "buddycards:pack.2",
+      "text": "地獄系列卡包可以在地獄的大多數原版建築中找到：要塞、地獄堡壘和毀壞的傳送門。$(br2)你也可以在殺死幼年豬布靈或殭屍豬布靈時低機率掉落卡包。 以物易物也是一種更貴但更安全的方法。 ",
+      "link_recipe": true
+    },
+    {
+      "type": "spotlight",
+      "title": "地獄系列卡包",
+      "item": "buddycards:card.2.12",
+      "text": "與大多數卡包一樣，地獄系列卡包總共會給你 4 張卡片，其中只有一張是閃光卡。$(br2)這些卡片有四種稀有度：普通、罕見、稀有和史詩。 您可以通過角的顏色區分它們。"
+    },
+    {
+      "type": "spotlight",
+      "title": "地獄系列卡",
+      "item": "buddycards:card.2.23{\"foil\":true}",
+      "text": "1-12 號牌是普通卡，沒有彩色角，13-21 號是罕見卡，有2個黃色角，22-25 號是稀有卡，有4個藍色角，26和27號是史詩卡，有2個黃色和2個紫色角。閃光卡和非閃光卡稀有度的機率相同。"
+    },
+    {
+      "type": "spotlight",
+      "item": "buddycards:medal.2",
+      "title": "地獄系列 夥伴勳章",
+      "text": "地獄系列勳章可以通過獲得獲得系列的所有 27 張卡片（閃光和普通）來獲得。裝備後，它會給你抗火 I。",
+      "link_recipe": true
+    },
+    {
+      "type": "relations",
+      "title": "勳章附魔",
+      "entries": [
+        "buddycards:enchantments/buddy_binding",
+        "buddycards:enchantments/buddy_boost"
+      ],
+      "text": "勳章也可以附魔夥伴綁定和夥伴增益。如果你有夥伴增益，你會在著火時獲得額外效果。夥伴增益 I 會獲得 速度 I，夥伴增益 II 獲得 速度I 和 力量I。"
+    }
+  ]
+}

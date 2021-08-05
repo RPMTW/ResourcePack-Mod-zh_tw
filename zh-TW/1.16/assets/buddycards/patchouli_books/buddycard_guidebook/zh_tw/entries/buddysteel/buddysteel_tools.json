@@ -1,0 +1,34 @@
+{
+  "name": "夥伴鋼工具",
+  "icon": "buddycards:buddysteel_axe",
+  "category": "buddycards:buddysteel",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "text",
+      "text": "就像夥伴鋼盔甲一樣，隨著你收集更多卡片，夥伴鋼工具會變得更加強大。如果你沒有完成收藏，它的性質和鐵一樣，但是當你完成所有收藏時，它會變得比獄髓還要強。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "buddycards:buddysteel_sword",
+      "recipe2": "buddycards:buddysteel_axe"
+    },
+    {
+      "type": "crafting",
+      "recipe": "buddycards:buddysteel_pickaxe",
+      "recipe2": "buddycards:buddysteel_shovel"
+    },
+    {
+      "type": "crafting",
+      "recipe": "buddycards:buddysteel_hoe"
+    },
+    {
+      "type": "relations",
+      "title": "附魔",
+      "entries": [
+        "buddycards:enchantments/buddy_binding"
+      ],
+      "text": "由於夥伴鋼的材料內有夥伴卡，夥伴鋼工具可以附有夥伴綁定以及您期望的所有其他工具附魔。"
+    }
+  ]
+}

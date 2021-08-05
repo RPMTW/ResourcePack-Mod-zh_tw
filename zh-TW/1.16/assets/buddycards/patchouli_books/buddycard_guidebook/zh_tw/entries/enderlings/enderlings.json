@@ -1,0 +1,17 @@
+{
+  "name": "終界小販",
+  "icon": "minecraft:ender_pearl",
+  "category": "buddycards:enderlings",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "text",
+      "text": "在終界使者身邊能很稀有的找到遊蕩的終界小販。這些年輕的終界使者非常好奇和友好，而且不會攻擊你。$(br2)終界小販會很樂意交易卡片，但要小心別讓他們走丟了，和同一個終界小販持續交易能得到很多好處。"
+    },
+    {
+      "type": "entity",
+      "entity": "buddycards:enderling",
+      "text": "看看那個小傢伙！"
+    }
+  ]
+}

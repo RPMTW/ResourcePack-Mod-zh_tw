@@ -1,0 +1,48 @@
+{
+  "name": "特殊物品",
+  "icon": "buddycards:luminis_medal",
+  "category": "buddycards:luminis",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Deep luminis tends to crystalize into odd shapes under a lot of stress. Nobody really knows why this happens, but it's quite an interesting natural phenomenon. The more blocks of deep luminis you put together, the better your odds tend to be to get lucky. Sometimes it might even turn into normal luminis."
+    },
+    {
+      "type": "spotlight",
+      "item": "buddycards:luminis_band",
+      "text": "流光戒指對於尋找深色流光非常有用，佩戴時會增加您成功找到一些深色流光的機率。",
+      "link_recipe": true
+    },
+    {
+      "type": "spotlight",
+      "item": "buddycards:luminis_pickaxe",
+      "text": "流光鎬是相當罕見的發現。它們的工作方式似乎與完美夥伴鋼鎬類似，並且也隨著您的卡片收藏而升級，並且還可以使用相同的附魔。它似乎也增加了你找到深色流光的機率。",
+      "link_recipe": true
+    },
+    {
+      "type": "relations",
+      "title": "相關的頁面",
+      "entries": [
+        "buddycards:buddysteel/perfect_buddysteel_gear",
+        "buddycards:enchantments/buddy_binding"
+      ],
+      "text": "我們不太清楚流光鎬是如何製作的，但它們能附魔夥伴綁定，並且與完美夥伴鋼非常相似"
+    },
+    {
+      "type": "spotlight",
+      "item": "buddycards:luminis_medal",
+      "text": "流光勳章是個非常優美的小飾品，配戴它會增加獲得深色流光的機率。並且增加在挖掘流光礦時獲得隨機卡牌的機率，當然，這是非常稀有的，並且只有當你裝備所有三個特殊流光物品時才會啟用。",
+      "link_recipe": true
+    },
+    {
+      "type": "relations",
+      "title": "勳章附魔",
+      "entries": [
+        "buddycards:enchantments/buddy_binding",
+        "buddycards:enchantments/buddy_boost"
+      ],
+      "text": "紫礪勳章也可以附魔夥伴綁定和夥伴增益。 夥伴增益 I 會給你運氣 I 、夥伴增益 II 會給你運氣 II。"
+    }
+  ]
+}

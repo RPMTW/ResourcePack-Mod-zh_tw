@@ -1,0 +1,27 @@
+{
+  "flag": "mod:aquaculture",
+  "secret": true,
+  "name": "夥伴鋼魚片刀",
+  "icon": "buddycards:buddysteel_fillet_knife",
+  "category": "buddycards:buddysteel",
+  "sortnum": 4,
+  "pages": [
+    {
+      "type": "text",
+      "text": "夥伴鋼魚片刀不同於其他魚片刀。隨著您收集更多夥伴卡，它變得更加鋒利。雖然它總是會切出相同數量的魚片"
+    },
+    {
+      "type": "crafting",
+      "recipe": "buddycards:aquaculture/buddysteel_fillet_knife",
+      "text": "拜託，你還不如做一個夥伴鋼鋤！至少它可以更快地拆解乾草捆！"
+    },
+    {
+      "type": "relations",
+      "title": "附魔",
+      "entries": [
+        "buddycards:enchantments/buddy_binding"
+      ],
+      "text": "以防萬一你真的做了一個，並且真的想給它附魔，你可以在夥伴鋼魚片刀獲得夥伴綁定。你也可以得到普通魚片刀可以得到的附魔，但是你為什麼要給魚片刀附魔呢？"
+    }
+  ]
+}

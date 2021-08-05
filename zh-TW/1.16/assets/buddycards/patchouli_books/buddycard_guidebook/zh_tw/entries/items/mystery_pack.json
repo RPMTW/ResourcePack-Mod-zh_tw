@@ -1,0 +1,17 @@
+{
+  "name": "神秘卡包",
+  "icon": "buddycards:mystery_pack",
+  "category": "buddycards:items",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "text",
+      "text": "神秘卡包是卡片收藏家最好的朋友，將通常只有 4 張牌的卡包變成一張有 9 張牌的卡包。總是會提供 9 張卡牌，其中 2 張是閃光卡。機率與所有普通卡包相同。$(br2) 神秘卡包也是從已經解除安裝或已停產的模組中獲得卡片的唯一途徑，因為它們可以提供每個系列的卡片。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "buddycards:mystery_pack",
+      "text": "然而，神秘卡包非常昂貴，需要各種難以獲得的材料。"
+    }
+  ]
+}

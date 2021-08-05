@@ -1,0 +1,23 @@
+{
+  "name": "深色流光",
+  "icon": "buddycards:deep_luminis",
+  "category": "buddycards:luminis",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "buddycards:deep_luminis_crystal",
+      "text": "深色流光是一種比較罕見的流光變體。挖掘流光礦石時約有1/33的機率出現深色流光，但並不總是那些機率，它會根據您的裝備和飾品而有所不同。"
+    },
+    {
+      "type": "smelting",
+      "recipe": "buddycards:deep_luminis",
+      "text": "就像普通流光一樣，被熔煉時，深色流光會凝固並開始發出光芒。雖然這種流光不能用於夥伴卡，但由於它具有高濃度的流光，它可以用於升級夥伴鋼。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "buddycards:block_deep_luminis",
+      "recipe2": "buddycards:deep_luminis_block"
+    }
+  ]
+}

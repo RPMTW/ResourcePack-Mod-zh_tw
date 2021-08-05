@@ -1,7 +1,7 @@
 {
-    "commands.vdcclientconfigreload.success": "VanillaDeathChest client-sided configuration reloaded!",
+    "commands.vdcclientconfigreload.success": "VanillaDeathChest 客戶端設定已重載！",
     "gamerule.disableDeathChests": "Disable death chests",
-    "text.autoconfig.vanilladeathchest.title": "VanillaDeathChest configuration",
+    "text.autoconfig.vanilladeathchest.title": "VanillaDeathChest 配置",
     "text.autoconfig.vanilladeathchest.category.spawning": "生成",
     "text.autoconfig.vanilladeathchest.option.spawning.containerType": "容器類型",
     "text.autoconfig.vanilladeathchest.option.spawning.containerType.@Tooltip": "The death chest container type.",

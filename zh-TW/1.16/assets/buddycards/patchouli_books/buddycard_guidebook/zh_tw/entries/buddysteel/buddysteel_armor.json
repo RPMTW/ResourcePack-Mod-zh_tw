@@ -1,0 +1,30 @@
+{
+  "name": "夥伴鋼裝甲",
+  "icon": "buddycards:buddysteel_chestplate",
+  "category": "buddycards:buddysteel",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "text",
+      "text": "夥伴鋼盔甲不同於遊戲中的任何盔甲。如果你沒有完成卡片收藏，它的強度和鎖鏈甲相同，但當你完成所有收藏時，它甚至會變得比獄髓更強大。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "buddycards:buddysteel_helmet",
+      "recipe2": "buddycards:buddysteel_chestplate"
+    },
+    {
+      "type": "crafting",
+      "recipe": "buddycards:buddysteel_leggings",
+      "recipe2": "buddycards:buddysteel_boots"
+    },
+    {
+      "type": "relations",
+      "title": "附魔",
+      "entries": [
+        "buddycards:enchantments/buddy_binding"
+      ],
+      "text": "由於夥伴鋼的材料內有夥伴卡，盔甲可以附有夥伴綁定以及您期望的所有其他盔甲附魔。"
+    }
+  ]
+}

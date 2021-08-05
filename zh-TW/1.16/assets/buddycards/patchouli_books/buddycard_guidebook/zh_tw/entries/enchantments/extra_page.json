@@ -1,0 +1,18 @@
+{
+  "name": "額外頁面",
+  "icon": "minecraft:enchanted_book",
+  "category": "buddycards:enchantments",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "text",
+      "text": "一種有用的附魔，用於增加您的夥伴集卡冊的容量。每個等級都會為集卡冊添加更多卡槽，根據等級I / II / III ，分別提升 18 / 42 / 66個卡槽。 "
+    },
+    {
+      "type": "spotlight",
+      "title": "附魔等級",
+      "item": "minecraft:enchanted_book{Enchantments: [{id:\"buddycards:extra_page\", lvl: 3}]}",
+      "text": "額外頁面有 3 個等級。額外頁面 I 需要 10 級的附魔台，額外頁面 II 需要 20 級的附魔台，而額外頁面 III 需要 30 級或滿級的附魔台。"
+    }
+  ]
+}

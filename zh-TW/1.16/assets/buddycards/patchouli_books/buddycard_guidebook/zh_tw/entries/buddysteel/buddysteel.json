@@ -1,0 +1,27 @@
+{
+  "name": "夥伴鋼",
+  "icon": "buddycards:buddysteel_ingot",
+  "category": "buddycards:buddysteel",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "text",
+      "text": "夥伴鋼是一種非常有用的資源，您可以通過將青金石的魔力、夥伴卡片的力量和鐵結合，來創造這種合金，夥伴鋼會隨著您收集更多卡片而變得更加強大。它非常有用，因為一旦你完成你的卡片收藏，它會變得比獄髓更加強大！"
+    },
+    {
+      "type": "crafting",
+      "recipe": "buddycards:buddysteel_blend",
+      "text": "為了製作夥伴鋼，您必須先混和出夥伴鋼混合物。這需要相當多的青金石和鐵，以及 3 張夥伴卡或粉碎夥伴卡。"
+    },
+    {
+      "type": "smelting",
+      "recipe": "buddycards:buddysteel_ingot",
+      "text": "要鍛造夥伴鋼，必須將夥伴鋼混合物熔煉相當長的時間。 如果您打算大量生產，建議使用多個高爐。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "buddycards:buddysteel_nugget",
+      "recipe2": "buddycards:buddysteel_block"
+    }
+  ]
+}

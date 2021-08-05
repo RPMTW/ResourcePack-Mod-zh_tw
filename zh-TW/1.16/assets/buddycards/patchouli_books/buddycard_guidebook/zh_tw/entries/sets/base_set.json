@@ -1,0 +1,47 @@
+{
+  "name": "基礎系列",
+  "icon": "buddycards:pack.1",
+  "category": "buddycards:sets",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "text",
+      "text": "基礎系列的夥伴卡是您在世界上最常見的一套！該系列共有 27 張卡片，但當您考慮閃光卡和不同等級時，還有更多種卡片。$(br2)為了獲得基礎系列卡，你必須找到基礎系列卡包。"
+    },
+    {
+      "type": "spotlight",
+      "title": "基礎系列卡包",
+      "item": "buddycards:pack.1",
+      "text": "基本系列卡包可以在大多數原版建築中找到：廢棄礦坑、村莊、地牢、沉船、埋藏的寶藏和沙漠遺跡。$(br2)在殺死寶寶殭屍、村民和殭屍村民時，也有低機率掉落卡包。",
+      "link_recipe": true
+    },
+    {
+      "type": "spotlight",
+      "title": "基礎系列卡",
+      "item": "buddycards:card.1.1",
+      "text": "與大多數卡包一樣，基本系列卡包總共會給你 4 張卡片，其中只有一張是閃光卡。$(br2)這些卡片有四種稀有度：普通、罕見、稀有和史詩。 您可以通過角的顏色區分它們。"
+    },
+    {
+      "type": "spotlight",
+      "title": "基礎系列卡",
+      "item": "buddycards:card.1.26{\"foil\":true}",
+      "text": "1-12 號牌是普通卡，沒有彩色角，13-21 號是罕見卡，有2個黃色角，22-25 號是稀有卡，有4個藍色角，26和27號是史詩卡，有2個黃色和2個紫色角。閃光卡和非閃光卡稀有度的機率相同。"
+    },
+    {
+      "type": "spotlight",
+      "item": "buddycards:medal.1",
+      "title": "基礎系列 夥伴勳章",
+      "text": "水產養殖系列勳章可以通過獲得獲得系列的所有 27 張卡片（閃光和普通）來獲得。裝備後，它會給你速度 I。",
+      "link_recipe": true
+    },
+    {
+      "type": "relations",
+      "title": "勳章附魔",
+      "entries": [
+        "buddycards:enchantments/buddy_binding",
+        "buddycards:enchantments/buddy_boost"
+      ],
+      "text": "勳章也可以附魔夥伴綁定和夥伴增益。夥伴增益 I 會將勳章升級為 速度 II，夥伴增益 II 會升級為 速度III。"
+    }
+  ]
+}

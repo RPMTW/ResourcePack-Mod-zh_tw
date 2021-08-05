@@ -1,0 +1,48 @@
+{
+  "name": "特殊物品",
+  "icon": "buddycards:zylex_medal",
+  "category": "buddycards:enderlings",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "text",
+      "text": "終界使者和終界小販使用紫礪做了很多有趣的事情。 雖然您無法自己製作它們，但如果您與終界小販成為好朋友，他們可能會為您提供其中一些稀有物品。他們將在第二次重置後的每第三次重置後提供這些物品。"
+    },
+    {
+      "type": "spotlight",
+      "item": "buddycards:zylex_band",
+      "text": "紫礪戒指對於搬運卡片收藏非常有用。帶著紫礪戒指挖掘卡片保險箱，裡面的物品會被保留，類似於界伏盒。",
+      "link_recipe": true
+    },
+    {
+      "type": "spotlight",
+      "item": "buddycards:zylex_boots",
+      "text": "紫礪靴子與終界小販所穿的靴子相同。 它們似乎與完美夥伴鋼盔甲類似，也會隨著卡片收藏而升級，並且也會能使用同種類的附魔。",
+      "link_recipe": true
+    },
+    {
+      "type": "relations",
+      "title": "相關的頁面",
+      "entries": [
+        "buddycards:buddysteel/perfect_buddysteel_gear",
+        "buddycards:enchantments/buddy_binding"
+      ],
+      "text": "我們不太清楚這雙靴子是如何製作的，但它們能附魔夥伴綁定，並且與完美夥伴鋼非常相似"
+    },
+    {
+      "type": "spotlight",
+      "item": "buddycards:zylex_medal",
+      "text": "紫礪勳章是一枚可以讓所有終界小販知道你是朋友的勳章。當他們看到您拿著紫礪勳章，並且已經解鎖了他們的所有商品時，他們將在沒有紫礪代幣的情況下刷新他們的交易。",
+      "link_recipe": true
+    },
+    {
+      "type": "relations",
+      "title": "勳章附魔",
+      "entries": [
+        "buddycards:enchantments/buddy_binding",
+        "buddycards:enchantments/buddy_boost"
+      ],
+      "text": "紫礪勳章也可以附魔夥伴綁定和夥伴增益。 夥伴增益 I 會給你運氣 I 、夥伴增益 II 會給你運氣 II。"
+    }
+  ]
+}

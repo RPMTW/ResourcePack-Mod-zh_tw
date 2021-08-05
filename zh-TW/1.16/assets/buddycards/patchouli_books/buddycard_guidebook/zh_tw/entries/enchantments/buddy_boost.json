@@ -1,0 +1,18 @@
+{
+  "name": "夥伴增益",
+  "icon": "minecraft:enchanted_book",
+  "category": "buddycards:enchantments",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "text",
+      "text": "對於升級夥伴勳章非常有用的附魔。這個附魔對每種勳章的影響都不同，你可以在設定介面下看到它的作用。每個級別都會增加您的夥伴勳章提供的效果。"
+    },
+    {
+      "type": "spotlight",
+      "title": "附魔等級",
+      "item": "minecraft:enchanted_book{Enchantments: [{id:\"buddycards:buddy_boost\", lvl: 2}]}",
+      "text": "夥伴增益 有 2 個等級。夥伴增益 I 需要 15 級的附魔台，而夥伴增益 II 需要一個 30 級或滿級的附魔台。"
+    }
+  ]
+}

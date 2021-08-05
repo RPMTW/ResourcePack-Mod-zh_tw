@@ -1,0 +1,18 @@
+{
+  "name": "勳章代幣",
+  "icon": "buddycards:medal_token",
+  "category": "buddycards:items",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "buddycards:medal_token",
+      "text": "勳章代幣可用於製作新的勳章，前提是您擁有原始的勳章。如果您的勳章上沒有好友綁定，這是確保您不會丟失它的最佳方式，因為您每個系列只能獲得 1 枚勳章。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "buddycards:medal.1",
+      "text": "要複製勳章，請提供帶有您要複製的勳章的代幣及其相應的 2 個卡包。"
+    }
+  ]
+}

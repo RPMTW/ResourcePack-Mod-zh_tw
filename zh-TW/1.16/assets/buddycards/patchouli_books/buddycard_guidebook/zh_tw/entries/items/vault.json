@@ -1,0 +1,31 @@
+{
+  "name": "夥伴鋼保險箱",
+  "icon": "buddycards:buddysteel_vault.1",
+  "category": "buddycards:items",
+  "sortnum": 9,
+  "pages": [
+    {
+      "type": "text",
+      "text": "夥伴鋼保險箱是一個很好的夥伴卡大量存儲方案。每個保險箱都有 108 個可以容納一組的卡槽，以及 12 個普通的儲存槽。 $(br2)根據你用來製作它的集卡冊，保險箱的顏色會有所不同。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "buddycards:vault.1",
+      "recipe2": "buddycards:vault.2"
+    },
+    {
+      "type": "crafting",
+      "recipe": "buddycards:vault.3",
+      "recipe2": "buddycards:byg/vault.4"
+    },
+    {
+      "type": "crafting",
+      "recipe": "buddycards:create/vault.5",
+      "recipe2": "buddycards:aquaculture/vault.6"
+    },
+    {
+      "type": "crafting",
+      "recipe": "buddycards:fd/vault.7"
+    }
+  ]
+}

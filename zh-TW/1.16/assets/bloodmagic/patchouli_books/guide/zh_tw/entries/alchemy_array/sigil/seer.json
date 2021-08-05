@@ -27,7 +27,7 @@
     },
     {
       "type": "text",
-      "text": "從上到下為：$(li) $(l:bloodmagic:altar/blood_altar)血之祭壇$(/l)的當前層級。$(li)目前祭壇內的血量，以及總容量。（基本為10,000mb，但可以通過$(l:bloodmagic:altar/blood_rune/capacity_rune)增容符文$()和 $(l:bloodmagic:altar/blood_rune/aug_capacity_rune)超容符文增加。$() $(li)當前的製作進度，如果有的話。 $(li)LP 消耗量/Tick - 製作時祭壇每刻將使用多少LP。$(li) 任何你當下有LP存儲的$(l:bloodmagic:altar/blood_rune/charging_rune)充能符文$()。"
+      "text": "從上到下為：$(li) $(l:bloodmagic:altar/blood_altar)血之祭壇$(/l)的當前層級。$(li)目前祭壇內的血量，以及總容量。（基本為10,000mb，但可以通過$(l:bloodmagic:altar/blood_rune/capacity_rune)增容符文$()和 $(l:bloodmagic:altar/blood_rune/aug_capacity_rune)超容符文增加。$() $(li)當前的製作進度，如果有的話。 $(li)LP 消耗量/Tick - 製作時祭壇每刻將使用多少LP。$(li) 任何你當下有LP儲存的$(l:bloodmagic:altar/blood_rune/charging_rune)充能符文$()。"
     },
     {
       "type": "image",
