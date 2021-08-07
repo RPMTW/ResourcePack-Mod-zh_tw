@@ -1,19 +1,19 @@
 {
-  "name": "Fox",
+  "name": "狐狸",
   "icon": "mysticalworld:pelt",
   "category": "creatures",
   "flag": "roots:fox",
   "pages": [
     {
       "type": "animal_spawn_info",
-      "animal": "fox",
-      "breed": "Breed: with apples.",
-      "tame": "Taming: with apples.",
+      "animal": "狐狸",
+      "breed": "生育：使用蘋果",
+      "tame": "馴服：使用蘋果",
       "blurb": ""
     },
     {
       "type": "entity",
-      "name": "Fox",
+      "name": "狐狸",
       "entity": "mysticalworld:entity_fox",
       "scale": "0.8",
       "offset": 0,
