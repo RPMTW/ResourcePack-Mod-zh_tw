@@ -2041,7 +2041,7 @@
     "botania.page.solegnolia1": "開/關",
     "botania.entry.bergamute": "消音柑",
     "botania.tagline.bergamute": "吸收音波",
-    "botania.page.bergamute0": "一個人若是有當牧場主的經歷， 他就一定不會忘記動物們發出 的那刺耳的聲音 - 那是，痛 苦的回憶。而這$(item)消音柑$(0)，則可以 吸收附近的聲音，並轉化成數 量基本上可以無視魔力。吸收聲 音的過程不需要消耗$(thing)魔力$(0)。",
+    "botania.page.bergamute0": "Anyone who's ever attempted ranching knows of the cacophonous din emitted by herds of animals. Luckily, the $(item)Bergamute$(0) can deafen such a din.$(p)It absorbs sound energy emitted in a close radius around itself, converting it into trace amounts of mana and dispersing it harmlessly. The absorption itself needs no $(thing)Mana$(0) to occur.",
     "botania.page.bergamute1": "もう歌しか聞こえない",
     "botania.entry.gIntro": "產能類植物",
     "botania.tagline.gIntro": "消耗資源產生魔力",
@@ -3100,5 +3100,8 @@
     "botania.tagline.labellia": "Renames things",
     "botania.page.labellia0": "For a moderate sum of $(thing)Mana$(0), the $(item)Labellia$(0) picks up $(thing)Name Tags$(0) dropped on top of it, and uses them to name nearby items and mobs within a 5x5 radius.",
     "botania.page.labellia1": "$(o)What's in a name?$().",
-    "botania.subtitle.labellia": "Labellia renames something"
+    "botania.subtitle.labellia": "Labellia renames something",
+    "botaniamisc.rannuncarpus.state_sensitive": "Match Exact State",
+    "botaniamisc.rannuncarpus.state_insensitive": "Match Block Only",
+    "block.botania.floating_labellia": "Floating Labellia"
 }
