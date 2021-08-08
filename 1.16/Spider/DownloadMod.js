@@ -39,7 +39,7 @@ function Run() {
                 try {
                     files[i].download(test, true).then(r => {
                         console.log(`${fileName} 下載完成。`);
-                        compressing.zip.uncompress(`./mod/${fileName}`, "../jar/" + slug).then(() => GetModID(slug, ModList[i].projectID, fileName))
+                        compressing.zip.uncompress(`./mod/${fileName}`, "../jar/" + slug).then(() => GetModID(slug, ID, fileName))
                     });
                 } catch (err) {
                     console.log("發生未知錯誤 \n" + err);
