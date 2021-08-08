@@ -1,0 +1,32 @@
+{
+  "name": "block.elementalcraft.crystallizer",
+  "category": "elementalcraft:instruments",
+  "icon": "elementalcraft:crystallizer",
+  "advancement": "elementalcraft:pickup/tank",
+  "turnin": "elementalcraft:pickup/crystallizer",
+  "priority": true,
+  "sortnum": 8,
+  "pages": [
+    {
+      "type": "text",
+      "text": "elementalcraft.page.crystallizer0"
+    },
+    {
+      "type": "crafting",
+      "recipe": "elementalcraft:crystallizer"
+    },
+    {
+      "type": "multiblock",
+      "multiblock": {
+        "mapping": {
+          "I": "elementalcraft:crystallizer",
+          "0": "elementalcraft:tank"
+        },
+        "pattern": [
+          ["I"],
+          ["0"]
+        ]
+      }
+    }
+  ]
+}
