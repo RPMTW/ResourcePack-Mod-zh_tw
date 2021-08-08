@@ -2005,13 +2005,13 @@
     "create.contraption.minecart_contraption_illegal_pickup": "A mystical force is binding this Cart Contraption to the world",
     "create.subtitle.contraption_disassemble": "Contraption stops",
     "create.subtitle.peculiar_bell_use": "Peculiar Bell tolls",
-    "create.subtitle.mixing": "Mixing Noises",
+    "create.subtitle.mixing": "Mixing noises",
     "create.subtitle.fwoomp": "Potato Launcher fwoomps",
     "create.subtitle.worldshaper_place": "Worldshaper zaps",
     "create.subtitle.crushing_1": "Crushing noises",
     "create.subtitle.depot_slide": "Item slides",
     "create.subtitle.saw_activate_stone": "Mechanical Saw activates",
-    "create.subtitle.funnel_flap": "Funnel Flaps",
+    "create.subtitle.funnel_flap": "Funnel flaps",
     "create.subtitle.haunted_bell_use": "Haunted Bell tolls",
     "create.subtitle.scroll_value": "Scroll-input clicks",
     "create.subtitle.crafter_craft": "Crafter crafts",
@@ -2189,5 +2189,10 @@
     "create.ponder.valve_pipe.text_1": "Valve pipes help control fluids propagating through pipe networks",
     "create.ponder.valve_pipe.text_2": "Their shaft input controls whether fluid is currently allowed through",
     "create.ponder.valve_pipe.text_3": "Given Rotational Force in the opening direction, the valve will open up",
-    "create.ponder.valve_pipe.text_4": "It can be closed again by reversing the input rotation"
+    "create.ponder.valve_pipe.text_4": "It can be closed again by reversing the input rotation",
+    "item.create.creative_blaze_cake": "Creative Blaze Cake",
+    "item.create.creative_blaze_cake.tooltip": "CREATIVE CAKE",
+    "item.create.creative_blaze_cake.tooltip.summary": "A very special treat for _Blaze Burners_ that allows _controlling their heat level_. After eating this cake, Blaze Burners will _never run out of fuel_.",
+    "item.create.creative_blaze_cake.tooltip.condition1": "R-Click on Blaze Burner",
+    "item.create.creative_blaze_cake.tooltip.behaviour1": "_Locks_ the Blaze Burner's heat level. If used again, _cycles_ the Blaze Burner's heat level."
 }

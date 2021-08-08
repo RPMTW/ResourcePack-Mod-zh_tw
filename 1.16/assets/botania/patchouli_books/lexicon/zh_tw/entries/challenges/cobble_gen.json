@@ -1,0 +1,15 @@
+{
+  "name": "botania.challenge.cobbleGen",
+  "category": "botania:challenges",
+  "icon": "minecraft:cobblestone",
+  "read_by_default": true,
+  "advancement": "botania:main/mana_pool_pickup",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "quest",
+      "title": "botania.challenge.cobbleGen",
+      "text": "botania.challenge.cobbleGen.desc"
+    }
+  ]
+}

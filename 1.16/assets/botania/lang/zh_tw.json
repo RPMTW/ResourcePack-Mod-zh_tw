@@ -2041,7 +2041,7 @@
     "botania.page.solegnolia1": "On/Off",
     "botania.entry.bergamute": "Bergamute",
     "botania.tagline.bergamute": "Absorbs sound",
-    "botania.page.bergamute0": "Anyone who's ever attempted ranching knows of the cacophonous din emitted by herds of animals. Luckily, the $(item)Bergamute$(0) can deafen such a din.$(p)It absorbs sound energy emitted in a close radius around itself, converting it into nominal amounts of mana and re-emitting it harmlessly. The absorption itself needs no $(thing)Mana$(0) to occur.",
+    "botania.page.bergamute0": "Anyone who's ever attempted ranching knows of the cacophonous din emitted by herds of animals. Luckily, the $(item)Bergamute$(0) can deafen such a din.$(p)It absorbs sound energy emitted in a close radius around itself, converting it into trace amounts of mana and dispersing it harmlessly. The absorption itself needs no $(thing)Mana$(0) to occur.",
     "botania.page.bergamute1": "Deaf to All but the Song",
     "botania.entry.gIntro": "Generating Flora",
     "botania.tagline.gIntro": "Flowers that consume resources to make mana",
@@ -3100,5 +3100,8 @@
     "botania.tagline.labellia": "Renames things",
     "botania.page.labellia0": "For a moderate sum of $(thing)Mana$(0), the $(item)Labellia$(0) picks up $(thing)Name Tags$(0) dropped on top of it, and uses them to name nearby items and mobs within a 5x5 radius.",
     "botania.page.labellia1": "$(o)What's in a name?$().",
-    "botania.subtitle.labellia": "Labellia renames something"
+    "botania.subtitle.labellia": "Labellia renames something",
+    "botaniamisc.rannuncarpus.state_sensitive": "Match Exact State",
+    "botaniamisc.rannuncarpus.state_insensitive": "Match Block Only",
+    "block.botania.floating_labellia": "Floating Labellia"
 }

@@ -1,0 +1,32 @@
+{
+  "name": "block.elementalcraft.inscriber",
+  "category": "elementalcraft:instruments",
+  "icon": "elementalcraft:inscriber",
+  "advancement": "elementalcraft:pickup/tank",
+  "turnin": "elementalcraft:pickup/inscriber",
+  "sortnum": 9,
+  "pages": [
+    {
+      "type": "text",
+      "text": "elementalcraft.page.inscriber0"
+    },
+    {
+      "type": "crafting",
+      "recipe": "elementalcraft:inscriber",
+      "recipe2": "elementalcraft:chisel"
+    },
+    {
+      "type": "multiblock",
+      "multiblock": {
+        "mapping": {
+          "I": "elementalcraft:inscriber",
+          "0": "elementalcraft:tank"
+        },
+        "pattern": [
+          ["I"],
+          ["0"]
+        ]
+      }
+    }
+  ]
+}

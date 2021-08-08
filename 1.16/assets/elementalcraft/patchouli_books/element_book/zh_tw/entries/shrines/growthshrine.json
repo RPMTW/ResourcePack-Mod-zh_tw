@@ -1,0 +1,14 @@
+{
+  "name": "block.elementalcraft.growthshrine",
+  "category": "elementalcraft:shrines",
+  "icon": "elementalcraft:growthshrine",
+  "advancement": "elementalcraft:pickup/shrinebase",
+  "turnin": "elementalcraft:pickup/growthshrine",
+  "sortnum": 6,
+  "pages": [
+    {
+      "type": "text",
+      "text": "elementalcraft.page.growthshrine0"
+    }
+  ]
+}

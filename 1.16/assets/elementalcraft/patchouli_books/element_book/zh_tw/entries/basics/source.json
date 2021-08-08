@@ -1,0 +1,19 @@
+{
+  "name": "block.elementalcraft.source",
+  "category": "elementalcraft:basics",
+  "icon": "elementalcraft:receptacle_empty",
+  "priority": true,
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "text",
+      "text": "elementalcraft.page.source0"
+    },
+    {
+      "type": "image",
+      "images": ["elementalcraft:textures/gui/entries/source0.png"],
+      "border": true,
+      "text": "elementalcraft.page.source1"
+    }
+  ]
+}

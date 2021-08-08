@@ -52,7 +52,7 @@
     "block.cavesandcliffs.cobbled_deepslate_wall": "Cobbled Deepslate Wall",
     "block.cavesandcliffs.polished_deepslate": "Polished Deepslate",
     "block.cavesandcliffs.polished_deepslate_stairs": "Polished Deepslate Stairs",
-    "block.cavesandcliffs.polished_deepslate_slab": "Polished Deepslate Slabs",
+    "block.cavesandcliffs.polished_deepslate_slab": "Polished Deepslate Slab",
     "block.cavesandcliffs.polished_deepslate_wall": "Polished Deepslate Wall",
     "block.cavesandcliffs.deepslate_tiles": "Deepslate Tiles",
     "block.cavesandcliffs.deepslate_tile_stairs": "Deepslate Tile Stairs",
@@ -60,7 +60,7 @@
     "block.cavesandcliffs.deepslate_tile_wall": "Deepslate Tile Wall",
     "block.cavesandcliffs.deepslate_bricks": "Deepslate Bricks",
     "block.cavesandcliffs.deepslate_brick_stairs": "Deepslate Brick Stairs",
-    "block.cavesandcliffs.deepslate_brick_slab": "Deepslate Brick Slabs",
+    "block.cavesandcliffs.deepslate_brick_slab": "Deepslate Brick Slab",
     "block.cavesandcliffs.deepslate_brick_wall": "Deepslate Brick Wall",
     "block.cavesandcliffs.chiseled_deepslate": "Chiseled Deepslate",
     "block.cavesandcliffs.cracked_deepslate_bricks": "Cracked Deepslate Bricks",
@@ -131,5 +131,11 @@
     "biomes": "BIOMES",
     "biome.cavesandcliffs.lush_caves": "Lush Caves",
     "biome.cavesandcliffs.dripstone_caves": "Dripstone Caves",
-    "generator.cavesandcliffs.caves_and_cliffs": "Caves And Cliffs"
+    "generator.cavesandcliffs.caves_and_cliffs": "Caves And Cliffs",
+    "block.cavesandcliffs.waxed_oxidized_copper": "Waxed Oxidized Copper",
+    "block.cavesandcliffs.waxed_oxidized_cut_copper": "Waxed Oxidized Cut Copper",
+    "block.cavesandcliffs.waxed_oxidized_cut_copper_stairs": "Waxed Oxidized Cut Copper Stairs",
+    "block.cavesandcliffs.waxed_oxidized_cut_copper_slab": "Waxed Oxidized Cut Copper Slab",
+    "block.cavesandcliffs.deepslate_tile_slab": "Deepslate Tile Slab",
+    "worldtype": "WORLD TYPE"
 }
