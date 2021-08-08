@@ -1,0 +1,19 @@
+{
+  "name": "block.elementalcraft.spell_desk",
+  "category": "elementalcraft:basics",
+  "icon": "elementalcraft:spell_desk",
+  "advancement": "elementalcraft:pickup/drenched_iron_ingot",
+  "turnin": "elementalcraft:pickup/spell_desk",
+  "sortnum": 8,
+  "pages": [
+    {
+      "type": "text",
+      "text": "elementalcraft.page.spell_desk0"
+    },
+    {
+      "type": "crafting",
+      "recipe": "elementalcraft:spell_desk",
+      "recipe2": "elementalcraft:scroll_paper"
+    }
+  ]
+}
