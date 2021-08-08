@@ -10,7 +10,7 @@
     "biome.traverse.high_coniferous_forest": "High Coniferous Forest",
     "biome.traverse.lush_swamp": "Lush Swamp",
     "biome.traverse.meadow": "Meadow",
-    "biome.traverse.mini_jungle": "Mini Jungle",
+    "biome.traverse.mini_jungle": "Miniature Jungle",
     "biome.traverse.plains_plateau": "Plains Plateau",
     "biome.traverse.rocky_edge": "Rocky Edge",
     "biome.traverse.rolling_hills": "Rolling Hills",
@@ -51,5 +51,7 @@
     "block.traverse.fir_door": "Fir Door",
     "block.traverse.fir_trapdoor": "Fir Trapdoor",
     "item.traverse.fir_boat": "Fir Boat",
-    "entity.traverse.fir_boat": "Fir Boat"
+    "entity.traverse.fir_boat": "Fir Boat",
+    "biome.traverse.coniferous_woodland_hills_biome": "Coniferous Wooded Hills",
+    "itemGroup.traverse": "Traverse Reforged"
 }
