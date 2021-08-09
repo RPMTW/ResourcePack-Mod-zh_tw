@@ -1,0 +1,14 @@
+{
+  "name": "spell.elementalcraft.fireball",
+  "category": "elementalcraft:spells",
+  "icon": "elementalcraft:scroll{elementalcraft:{spell:'elementalcraft:fireball'}}",
+  "advancement": "elementalcraft:pickup/scroll",
+  "turnin": "elementalcraft:pickup/scroll",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "text",
+      "text": "elementalcraft.page.fireball0"
+    }
+  ]
+}
