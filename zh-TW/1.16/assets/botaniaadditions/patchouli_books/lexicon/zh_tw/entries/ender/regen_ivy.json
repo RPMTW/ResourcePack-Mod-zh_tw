@@ -1,0 +1,22 @@
+{
+  "name": "botaniaadditions.entry.regenIvy",
+  "category": "ender",
+  "icon": "botaniaadditions:regen_ivy",
+  "entry_color": "aa00",
+  "advancement": "botania:main/gaia_guardian_kill",
+  "pages": [
+    {
+      "type": "text",
+      "text": "botaniaadditions.page.regenIvy0"
+    },
+    {
+      "type": "text",
+      "text": "botaniaadditions.page.regenIvy1"
+    },
+    {
+      "type": "crafting",
+      "text": "botaniaadditions.page.regenIvy2",
+      "recipe": "botaniaadditions:regen_ivy"
+    }
+  ]
+}
