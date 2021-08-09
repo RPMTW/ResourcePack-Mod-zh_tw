@@ -1,4 +1,18 @@
 {
     "item.citadel.debug": "Citadel 除錯器",
-    "item.citadel.citadel_book": "Citadel 書"
+    "item.citadel.citadel_book": "Citadel 書",
+    "book.citadel_book.root": "Citadel Book!!!",
+    "book.citadel_book.link_example": "Link Example",
+    "book.citadel_book.hover_text_pillager_example": "Entity Links are small, cute buttons!",
+    "citadel.gui.patreon_rewards_option": "Citadel Patreon Customization...",
+    "citadel.gui.patreon_customization": "Citadel Patreon Customization",
+    "citadel.gui.orbit_dist": "Rotate Distance",
+    "citadel.gui.orbit_speed": "Rotate Speed",
+    "citadel.gui.orbit_height": "Rotate Height",
+    "citadel.gui.reset": "重設",
+    "citadel.gui.follower_type": "類型: ",
+    "citadel.follower.none": "無",
+    "citadel.follower.citadel": "Space Station",
+    "citadel.follower.citadel_red": "Space Station (Red)",
+    "citadel.follower.citadel_gray": "Space Station (Gray)"
 }
