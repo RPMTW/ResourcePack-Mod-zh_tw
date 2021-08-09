@@ -76,7 +76,7 @@
     "item.artifacts.running_shoes.tooltip": "增加衝刺時的移速和自動跳躍高度",
     "item.artifacts.bunny_hoppers.tooltip": "增加跳躍高度，免疫摔落傷害",
     "item.artifacts.crystal_heart.tooltip": "增加血量上限",
-    "item.artifacts.villager_hat.tooltip": "Decreases the trading prices of villagers",
+    "item.artifacts.villager_hat.tooltip": "降低村民的交易價格",
     "item.artifacts.cloud_in_a_bottle.tooltip": "維吉爾都不會的二段跳",
     "item.artifacts.whoopee_cushion.tooltip": "讓你脹氣",
     "item.artifacts.vampiric_glove.tooltip": "使佩戴者的近戰攻擊吸收攻擊目標的生命",
@@ -144,8 +144,8 @@
     "artifacts.config.server.villager_hat.hero_of_the_village_level": "村莊英雄等級",
     "artifacts.config.server.whoopee_cushion.flatulence": "脹氣",
     "artifacts.subtitles.entity.mimic.death": "Mimic dies",
-    "artifacts.config.common.artifact_rarity": "Artifact rarity",
-    "artifacts.config.server.helium_flamingo.max_flight_time": "Maximum flight time",
+    "artifacts.config.common.artifact_rarity": "神器稀有度",
+    "artifacts.config.server.helium_flamingo.max_flight_time": "最長飛行時間",
     "artifacts.config.server.helium_flamingo.recharge_time": "Recharge time",
     "artifacts.config.server.villager_hat.reputation_bonus": "Reputation Bonus"
 }
