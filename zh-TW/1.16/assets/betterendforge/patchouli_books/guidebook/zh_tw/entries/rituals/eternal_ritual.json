@@ -1,0 +1,44 @@
+{
+    "name": "永恆儀式",
+    "icon": "betterendforge:eternal_pedestal",
+    "read_by_default": true,
+    "category": "rituals",
+    "pages": [
+        {
+            "type": "text",
+            "text": "“返回主世界的方法並不那麼簡單。”$(br2)在環遊終界時，您可能會遇到古代遺跡。"
+        },
+        {
+            "type": "image",
+            "text": "There is a destroyed (or not) frame of  $(bold)Runed Flavolite$() and eight pedestals around it.",
+            "border": false,
+            "images": [
+                "betterendforge:textures/images/eternal_ritual/portal_structure.png"
+            ]
+        },
+        {
+            "type": "text",
+            "text": "這些是曾經連接終界和主世界的宏偉傳送門的遺跡。$(br2)想要激活傳送門，您需要恢復框架（如果它是毀壞的）。"
+        },
+        {
+            "type": "image",
+            "text": "And place 8 $(bold)Eternal Crystals$() to pedestals.",
+            "border": false,
+            "images": [
+                "betterendforge:textures/images/eternal_ritual/portal_frame_full.png"
+            ]
+        },
+        {
+            "type": "image",
+            "text": "放置最後一個水晶後，傳送門將被激活。",
+            "border": false,
+            "images": [
+                "betterendforge:textures/images/eternal_ritual/ritual_finished.png"
+            ]
+        },
+        {
+            "type": "text",
+            "text": "$(bold)Runed Flavolite$() (to recover the frame) and $(bold)Eternal Crystals$() can be obtained by $(l:rituals/infusion_ritual)Infusion Ritual$(/l)."
+        }
+    ]
+}
