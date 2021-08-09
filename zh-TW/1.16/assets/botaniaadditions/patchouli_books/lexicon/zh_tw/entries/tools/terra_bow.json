@@ -1,0 +1,17 @@
+{
+  "name": "botaniaadditions.entry.terraBow",
+  "category": "\n-工具",
+  "icon": "botaniaadditions:terra_bow",
+  "advancement": "botania:main/terrasteel_pickup",
+  "pages": [
+    {
+      "type": "text",
+      "text": "botaniaadditions.page.terraBow0"
+    },
+    {
+      "type": "crafting",
+      "text": "botaniaadditions.page.terraBow1",
+      "recipe": "botaniaadditions:terra_bow"
+    }
+  ]
+}
