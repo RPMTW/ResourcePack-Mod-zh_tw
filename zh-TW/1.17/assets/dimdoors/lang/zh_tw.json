@@ -412,7 +412,7 @@
     "block.dimdoors.oak_dimensional_door.info0": "放置在裂縫下的方塊上.",
     "block.dimdoors.oak_dimensional_door.info1": "創建一個門戶，或放置在任何地方",
     "block.dimdoors.oak_dimensional_door.info2": "在口袋維度退出",
-    "commands.pocket.log.creation.off": "Toggled logging of pocket creation off.",
+    "commands.pocket.log.creation.off": "關閉口袋創建的日誌記錄",
     "commands.pocket.log.creation.on": "Toggled logging of pocket creation on.",
     "commands.pocket.log.creation.generating": "Generating pocket from template '%s' at location %s %s %s",
     "stat.dimdoors.deaths_in_pocket": "Deaths in Pocket",
