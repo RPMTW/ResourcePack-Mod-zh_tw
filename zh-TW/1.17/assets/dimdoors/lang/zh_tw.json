@@ -413,10 +413,10 @@
     "block.dimdoors.oak_dimensional_door.info1": "創建一個門戶，或放置在任何地方",
     "block.dimdoors.oak_dimensional_door.info2": "在口袋維度退出",
     "commands.pocket.log.creation.off": "關閉口袋創建的日誌記錄",
-    "commands.pocket.log.creation.on": "Toggled logging of pocket creation on.",
-    "commands.pocket.log.creation.generating": "Generating pocket from template '%s' at location %s %s %s",
-    "stat.dimdoors.deaths_in_pocket": "Deaths in Pocket",
+    "commands.pocket.log.creation.on": "打開口袋創建的日誌記錄",
+    "commands.pocket.log.creation.generating": "從模板生成口袋'%s'在位置%s %s %s",
+    "stat.dimdoors.deaths_in_pocket": "口袋裡的死亡",
     "stat.dimdoors.times_been_to_dungeon": "Times been to Dungeon",
-    "stat.dimdoors.times_sent_to_limbo": "Times sent to Limbo",
+    "stat.dimdoors.times_sent_to_limbo": "發送到靈薄獄的時間",
     "stat.dimdoors.times_teleported_by_monolith": "Times teleported by Monolith"
 }
