@@ -143,9 +143,9 @@
     "artifacts.config.server.vampiric_glove.max_health_absorbed": "最大生命值吸收",
     "artifacts.config.server.villager_hat.hero_of_the_village_level": "村莊英雄等級",
     "artifacts.config.server.whoopee_cushion.flatulence": "脹氣",
-    "artifacts.subtitles.entity.mimic.death": "Mimic dies",
+    "artifacts.subtitles.entity.mimic.death": "模擬死亡 ",
     "artifacts.config.common.artifact_rarity": "神器稀有度",
     "artifacts.config.server.helium_flamingo.max_flight_time": "最長飛行時間",
-    "artifacts.config.server.helium_flamingo.recharge_time": "Recharge time",
-    "artifacts.config.server.villager_hat.reputation_bonus": "Reputation Bonus"
+    "artifacts.config.server.helium_flamingo.recharge_time": "充填速度",
+    "artifacts.config.server.villager_hat.reputation_bonus": "聲譽加成"
 }
