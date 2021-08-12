@@ -66,14 +66,14 @@
     "sndctrl.text.soundconfig.nocull": "No Cull",
     "sndctrl.text.soundconfig.block": "§aBLOCK",
     "sndctrl.text.soundconfig.noblock": "No Block",
-    "sndctrl.text.soundconfig.play": "Play",
-    "sndctrl.text.soundconfig.stop": "§cSTOP",
+    "sndctrl.text.soundconfig.play": "播放",
+    "sndctrl.text.soundconfig.stop": "§c停止",
     "sndctrl.text.soundconfig.cull.help": "Marking a sound as CULL will limit the play to a single instance over a short period of time, reducing the overall load of the sound engine as well as ears.  Will only apply to sounds played through the Minecraft sound engine.",
     "sndctrl.text.soundconfig.block.help": "A sound marked as BLOCK will be prevented from playing.  Will only apply to sounds played through the Minecraft sound engine.",
     "sndctrl.text.soundconfig.play.help": "Plays the sound with the volume scaled by the volume scaling factor.  Does not apply any sound category volume modifiers.",
     "sndctrl.text.soundconfig.volume.help": "Set a volume scaling factor that gets applied when calculating the volume of a sound.  Increase to make quiet sounds louder; reduce to make loud sounds quieter.",
-    "sndctrl.text.tooltip.category": "Category: ",
-    "sndctrl.text.tooltip.vanilla": "Built in Vanilla Sound",
-    "sndctrl.message.cfg.soundconfig.invalid": "The sound configuration is invalid.",
-    "sndctrl.soundcategory.config": "Config Sound"
+    "sndctrl.text.tooltip.category": "類型: ",
+    "sndctrl.text.tooltip.vanilla": "內置原版聲音",
+    "sndctrl.message.cfg.soundconfig.invalid": "聲音配置是無效的。",
+    "sndctrl.soundcategory.config": "配置聲音"
 }
