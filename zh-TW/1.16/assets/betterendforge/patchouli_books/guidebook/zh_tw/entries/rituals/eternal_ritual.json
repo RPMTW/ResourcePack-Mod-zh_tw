@@ -10,7 +10,7 @@
         },
         {
             "type": "image",
-            "text": "There is a destroyed (or not) frame of  $(bold)Runed Flavolite$() and eight pedestals around it.",
+            "text": "有一個$(bold)符文蒼黃石$()被破壞（或沒有）的框架和它周圍的八個基座。",
             "border": false,
             "images": [
                 "betterendforge:textures/images/eternal_ritual/portal_structure.png"
@@ -22,7 +22,7 @@
         },
         {
             "type": "image",
-            "text": "And place 8 $(bold)Eternal Crystals$() to pedestals.",
+            "text": "並將8個$(bold)永恆水晶$()放在基座上。",
             "border": false,
             "images": [
                 "betterendforge:textures/images/eternal_ritual/portal_frame_full.png"
@@ -38,7 +38,7 @@
         },
         {
             "type": "text",
-            "text": "$(bold)Runed Flavolite$() (to recover the frame) and $(bold)Eternal Crystals$() can be obtained by $(l:rituals/infusion_ritual)Infusion Ritual$(/l)."
+            "text": "$(bold)符文蒼黃石$()（恢復框架）和 $(bold)永恆水晶$()可以通過$(l:rituals/infusion_ritual)注魔儀式$(/l)獲得。"
         }
     ]
 }
