@@ -1,12 +1,12 @@
 {
-    "superbas11.configgui.showMainMenuMobs": "Show menu mobs",
-    "superbas11.configgui.showMainMenuMobs.tooltip": "Set to true to show your logged-in player and a random mob on the main menu, false to disable.",
-    "superbas11.configgui.showOnlyPlayerModels": "Only show player models",
+    "superbas11.configgui.showMainMenuMobs": "顯示選單生物",
+    "superbas11.configgui.showMainMenuMobs.tooltip": "設置為“True”來顯示登入的玩家和一個隨機的實體在主選單中，設置為\"False\"來停用",
+    "superbas11.configgui.showOnlyPlayerModels": "只顯示玩家模型",
     "superbas11.configgui.showOnlyPlayerModels.tooltip": "",
-    "superbas11.configgui.mobSoundVolume": "Sound volume",
+    "superbas11.configgui.mobSoundVolume": "音量",
     "superbas11.configgui.mobSoundVolume.tooltip": "",
-    "superbas11.configgui.fixedMob": "Fixed entities",
-    "superbas11.configgui.fixedMob.tooltip": "List of entities which will be shown on the main menu.",
-    "superbas11.configgui.allowDebugOutput": "Allow debug output",
+    "superbas11.configgui.fixedMob": "修復實體",
+    "superbas11.configgui.fixedMob.tooltip": "列出會顯示在主選單的生物",
+    "superbas11.configgui.allowDebugOutput": "允許除錯輸出",
     "superbas11.configgui.allowDebugOutput.tooltip": ""
 }
