@@ -1,12 +1,12 @@
 {
     "_comment_0": " Realistic Torches - Language File",
     "_comment_1": " UNITED STATES - ENGLISH",
-    "_comment_2": " BLOCKS",
+    "_comment_2": "方塊",
     "tile.realistictorches.torch_unlit.name": "Unlit Torch",
     "tile.realistictorches.torch_lit.name": "Lit Torch",
     "tile.realistictorches.torch_smoldering.name": "Smoldering Torch",
     "tile.realistictorches.moving_light_source.name": "Moving Light Source\n",
-    "_comment_3": " ITEMS",
+    "_comment_3": " 物品",
     "item.realistictorches.matchbox.name": "Matchbox",
     "item.realistictorches.glowstone_crystal.name": "Glowstone Crystal",
     "item.realistictorches.glowstone_paste.name": "Glowstone Paste"
