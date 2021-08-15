@@ -7,7 +7,7 @@
 		{
 			"type": "spotlight",
 			"item": "ancientspellcraft:crystal_ore_fire",
-			"text": " Every experienced Pyromancer knows that Fiery Crystals can be located in the Desert.",
+			"text": " Fiery Crystal ore can be found within the scorching, unforgiving Deserts of the land. It has thoroughly absorbed the baking desert heat during its birth, and seems to emanate a burning aura.",
 			"link_recipe": false
 		},
 		{
@@ -19,7 +19,7 @@
 		{
 			"type": "crafting",
 			"recipe": "ancientspellcraft:magic_crystal_fire",
-			"title": "Mystical Crystal",
+			"title": "Fiery Crystal",
 			"text": "        Crafting Table"
 		}
 	]
