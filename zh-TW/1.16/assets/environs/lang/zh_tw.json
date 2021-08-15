@@ -7,7 +7,7 @@
     "environs.cfg.logging.EnableDebug.tooltip": "Enables/disables debug logging of the mod",
     "environs.cfg.logging.FlagMask": "Debug Flag Mask",
     "environs.cfg.logging.FlagMask.tooltip": "Bitmask for toggling various debug traces",
-    "environs.cfg.biomes": "Biome Options",
+    "environs.cfg.biomes": "生物域選項",
     "environs.cfg.biomes.tooltip": "Options for controlling biome sound/effects",
     "environs.cfg.biomes.Sealevel": "Overworld Sealevel Override",
     "environs.cfg.biomes.Sealevel.tooltip": "Sealevel to set for Overworld (0 use default for World)",
@@ -65,9 +65,9 @@
     "environs.cfg.fog.Bedrock.tooltip": "Increase fog at bedrock layers",
     "environs.cfg.fog.Haze": "Elevation Haze",
     "environs.cfg.fog.Haze.tooltip": "Higher the player elevation the more haze that is experienced",
-    "environs.cfg.fog.Biome": "Biome Fog",
-    "environs.cfg.fog.Biome.tooltip": "Enable biome specific fog density and color",
-    "environs.soundcategory.biomes": "Biomes",
+    "environs.cfg.fog.Biome": "生態域迷霧",
+    "environs.cfg.fog.Biome.tooltip": "啟用生態域的特殊濃度和顏色的迷霧",
+    "environs.soundcategory.biomes": "生態域",
     "environs.soundcategory.spotsounds": "Spot Sounds",
     "environs.soundcategory.waterfall": "Waterfalls"
 }
