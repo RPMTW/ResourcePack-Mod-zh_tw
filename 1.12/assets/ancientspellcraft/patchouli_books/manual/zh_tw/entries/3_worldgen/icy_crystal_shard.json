@@ -1,0 +1,26 @@
+{
+	"name": "Icy Crystal Veins",
+	"icon": "ancientspellcraft:crystal_ore_ice",
+	"category": "3_worldgen",
+	"sortnum": 2,
+	"pages": [
+		{
+			"type": "spotlight",
+			"item": "ancientspellcraft:crystal_ore_ice",
+			"text": " Icy Crystal ore can be found in the frozen abyss of the Tundra. They are frozen to the core, and imbued with the powers of frost.",
+			"link_recipe": false
+		},
+		{
+			"type": "image",
+			"images": ["ancientspellcraft:textures/gui/entries/icy_ore_shard.png"],
+			"title": "Icy Crystal Veins",
+			"text": ""
+		},
+		{
+			"type": "crafting",
+			"recipe": "ancientspellcraft:magic_crystal_ice",
+			"title": "Icy Crystal",
+			"text": "        Crafting Table"
+		}
+	]
+}
