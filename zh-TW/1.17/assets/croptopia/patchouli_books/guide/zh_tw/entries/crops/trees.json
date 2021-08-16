@@ -1,11 +1,11 @@
 {
   "name": "樹木",
   "icon": "croptopia:apple_sapling",
-  "category": "作物盛景:莊稼",
+  "category": "croptopia:crops",
   "pages": [
     {
       "type": "text",
-      "text": "你能夠在世界中找到各式各樣的樹木。在農作物成熟時右鍵採收。"
+      "text": "你能在世界中各式各樣的樹木上找到各種果實，在果實成熟時點擊滑鼠右鍵採收。"
     }
   ]
 }
