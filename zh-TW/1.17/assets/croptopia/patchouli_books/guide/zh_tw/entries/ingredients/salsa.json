@@ -1,12 +1,12 @@
 {
   "name": "莎莎醬",
   "icon": "croptopia:salsa",
-  "category": "作物盛景：成分",
+  "category": "croptopia:ingredients",
   "pages": [
     {
       "type": "crafting",
       "recipe": "croptopia:salsa",
-      "text": "莎莎醬的食譜"
+      "text": "莎莎醬的製作方法"
     }
   ]
 }
