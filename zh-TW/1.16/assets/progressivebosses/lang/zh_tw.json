@@ -3,8 +3,8 @@
     "progressivebosses:wither.minion": "凋零奴僕",
     "progressivebosses:dragon.larva": "幼龍",
     "progressivebosses:dragon.minion": "龍奴僕",
-    "progressivebosses:command.player_get_wither_difficulty": "%s has summoned %d Withers",
-    "progressivebosses:command.player_get_dragon_difficulty": "%s has killed %d Dragons",
+    "progressivebosses:command.player_get_wither_difficulty": "%s 召喚 %d 凋零",
+    "progressivebosses:command.player_get_dragon_difficulty": "%s 殺死了 %d 龍",
     "progressivebosses:command.player_set_boss_difficulty": "Set %s's %s difficulty to %d",
     "progressivebosses:command.player_add_boss_difficulty": "Added %d %s's Difficulty to %s (now %d)"
 }
