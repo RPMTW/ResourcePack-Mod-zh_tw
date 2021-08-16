@@ -1,12 +1,12 @@
 {
   "name": "豬肉絲",
   "icon": "croptopia:carnitas",
-  "category": "作物盛景：膳食",
+  "category": "croptopia:meals",
   "pages": [
     {
       "type": "crafting",
       "recipe": "croptopia:carnitas",
-      "text": "烤豬肉的食譜"
+      "text": "豬肉絲的食譜"
     }
   ]
 }
