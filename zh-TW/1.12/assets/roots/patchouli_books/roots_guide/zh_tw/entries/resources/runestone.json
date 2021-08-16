@@ -1,5 +1,5 @@
 {
-  "name": "Runestone",
+  "name": "符文石",
   "icon": "roots:runestone",
   "category": "resources",
   "advancement": "roots:fey_crafter",
@@ -13,7 +13,7 @@
     },
     {
       "type": "fey_crafting_template",
-      "recipe": "runestone"
+      "recipe": "符文石"
     },
     {
       "type": "crafting",

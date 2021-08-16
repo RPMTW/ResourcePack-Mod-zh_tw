@@ -1,6 +1,6 @@
 {
-    "name": "Multiblock Machines",
-    "description": "The most complex machines in techguns are multiblocks and must be built together with multiple blocks. $(l:machine_mechanics)'Machine Mechanics'$(/l) are applicable to multiblock machines as well.",
+    "name": "多方塊結構裝置",
+    "description": "這個模組一些複雜的裝置都是多方塊結構. $(l:machine_mechanics)'機械輸入法'$(/l) 同時也會套用於這些多方塊架構.",
     "icon": "techguns:multiblockmachine:5",
     "sortnum": 4
 }

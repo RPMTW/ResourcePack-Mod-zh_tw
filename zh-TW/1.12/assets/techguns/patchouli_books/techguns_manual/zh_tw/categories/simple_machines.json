@@ -1,6 +1,6 @@
 {
-    "name": "Simple Machines",
-    "description": "Techguns adds a few 'simple' machines that do not require power. $(l:machine_mechanics#security)Security Settings$(/l) may still be applicable.",
+    "name": "簡易型裝置",
+    "description": "本模組新增的一些無需電力能源的裝置，同時也可以設定$(l:machine_mechanics#security)使用權限設定$(/l).",
     "icon": "techguns:simplemachine:8",
     "sortnum": 2
 }

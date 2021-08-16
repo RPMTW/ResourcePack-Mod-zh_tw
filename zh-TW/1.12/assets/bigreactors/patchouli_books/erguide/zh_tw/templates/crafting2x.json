@@ -2,15 +2,15 @@
     "components": [
         {
             "type": "zcsptCrafting",
-            "recipe": "#recipe1",
-            "title": "#title1",
+            "recipe": "#配方1",
+            "title": "#標題1",
             "x": 0,
             "y": 0
         },
         {
             "type": "zcsptCrafting",
-            "recipe": "#recipe2",
-            "title": "#title2",
+            "recipe": "#配方2",
+            "title": "#標題2",
             "x": 0,
             "y": 78
         }

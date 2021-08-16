@@ -2,14 +2,14 @@
     "components": [
         {
             "type": "text",
-            "text": "#text",
+            "text": "#文本",
             "x": 0,
             "y": 0
         },
         {
             "type": "zcsptCrafting",
             "recipe": "#recipe",
-            "title": "#title",
+            "title": "#標題",
             "x": 0,
             "y": 50
         }
