@@ -1,0 +1,28 @@
+{
+	"name": "Mystical Crystal Veins",
+	"icon": "ancientspellcraft:crystal_ore_sorcery",
+	"category": "3_worldgen",
+	"sortnum": 3,
+	"pages": [
+		{
+			"type": "spotlight",
+			"item": "ancientspellcraft:crystal_ore_sorcery",
+			"text": " The Crystal Veins of Sorcery naturally occur in the Plains biome, deep underground. $(br) Perhaps the simplicity of this natural habitat is what helps these Mystical crystals to manifest.",
+			"link_recipe": false
+		},
+		{
+			"type": "image",
+			"images": [
+				"ancientspellcraft:textures/gui/entries/mystical_ore_shard.png"
+			],
+			"title": "Mystical Crystal Veins",
+			"text": ""
+		},
+		{
+			"type": "crafting",
+			"recipe": "ancientspellcraft:magic_crystal_sorcery",
+			"title": "Mystical Crystal",
+			"text": "        Crafting Table"
+		}
+	]
+}
