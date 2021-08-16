@@ -1,0 +1,26 @@
+{
+	"name": "Radiant Crystal Veins",
+	"icon": "ancientspellcraft:crystal_ore_healing",
+	"category": "3_worldgen",
+	"sortnum": 5,
+	"pages": [
+		{
+			"type": "spotlight",
+			"item": "ancientspellcraft:crystal_ore_healing",
+			"text": " Radiant Crystal ore can be found beneath the lush, green Jungles of the world. They seem to have been blessed with healing properties, making them a prized possession among healers. The connection between Jungles and Healing magic is unclear- some scholars believe it is due to the abundance of life energy (Vitae) in these Jungles.",
+			"link_recipe": false
+		},
+		{
+			"type": "image",
+			"images": ["ancientspellcraft:textures/gui/entries/radiant_ore_shard.png"],
+			"title": "Radiant Crystal Veins",
+			"text": ""
+		},
+		{
+			"type": "crafting",
+			"recipe": "ancientspellcraft:magic_crystal_healing",
+			"title": "Radiant Crystal",
+			"text": "        Crafting Table"
+		}
+	]
+}
