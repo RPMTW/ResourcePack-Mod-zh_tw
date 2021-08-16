@@ -1,0 +1,17 @@
+{
+	"name": "Relics",
+	"icon": "ancientspellcraft:ancient_spellcraft_spell_book",
+	"category": "ancient_knowledge",
+	"sortnum": 1,
+    "advancement": "ancientspellcraft:relics",
+    "pages": [
+		{
+			"type": "text",
+			"text": " Stone tablets, ancient mana flasks, runes... most wizards consider these relics as junk- the useless vestiges of a forgotten age. A few wizard scholars (usually historians) are obsessed collectors of these stone tablets and other relics, yet none of them are known to be able to decipher the glyphs in said items. They are usually used as decorations, gifts or as a bookend. Yet your instincts and curiosity dictates that they might have some use for you in the future."
+		},
+		{
+			"type": "text",
+			"text": " that they might have some use for you in the future."
+		}
+	]
+}
