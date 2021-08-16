@@ -1,11 +1,11 @@
 {
   "name": "鹽",
   "icon": "croptopia:salt",
-  "category": "作物盛景：成分",
+  "category": "croptopia:ingredients",
   "pages": [
     {
       "type": "text",
-      "text": "鹽在河流和冰河生物群落中很少生成。它們看起來像更白的沙子。"
+      "text": "鹽少量生成在河流和寒凍河流生態域中。它們看起來像更白的沙子。"
     }
   ]
 }
