@@ -1,12 +1,12 @@
 {
   "name": "意大利餃子",
   "icon": "croptopia:ravioli",
-  "category": "作物盛景：成分",
+  "category": "croptopia:ingredients",
   "pages": [
     {
       "type": "crafting",
       "recipe": "croptopia:ravioli",
-      "text": "意大利餃子的食譜"
+      "text": "意大利餃子的製作方法"
     }
   ]
 }
