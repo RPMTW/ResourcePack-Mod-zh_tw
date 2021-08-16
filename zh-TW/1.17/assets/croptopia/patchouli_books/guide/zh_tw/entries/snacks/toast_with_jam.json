@@ -1,12 +1,12 @@
 {
   "name": "果醬吐司",
   "icon": "croptopia:toast_with_jam",
-  "category": "作物方城市:點心",
+  "category": "croptopia:snacks",
   "pages": [
     {
       "type": "crafting",
       "recipe": "croptopia:toast_with_jam",
-      "text": "製作塗有果醬的吐司的食譜。"
+      "text": "果醬吐司的食譜"
     }
   ]
 }
