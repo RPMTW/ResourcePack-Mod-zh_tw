@@ -1,0 +1,12 @@
+{
+	"name": "Intro",
+	"icon": "ancientspellcraft:ancient_spellcraft_spell_book",
+	"category": "1_intro",
+	"sortnum": 0,
+	"pages": [
+		{
+			"type": "text",
+			"text": "The $(l)Arcane Compendium$() will be your magical guide as you delve deeper into Ancient Spellcraft. $(br)As your knowledge advances, more notes will be added within this book."
+		}
+	]
+}
