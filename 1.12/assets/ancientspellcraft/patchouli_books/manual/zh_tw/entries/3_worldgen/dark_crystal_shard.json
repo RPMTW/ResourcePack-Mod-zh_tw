@@ -1,0 +1,27 @@
+{
+	"name": "Dark Crystal Veins",
+	"icon": "ancientspellcraft:crystal_ore_necromancy",
+	"category": "3_worldgen",
+	"sortnum": 5,
+	"pages": [
+		{
+			"type": "spotlight",
+			"item": "ancientspellcraft:crystal_ore_necromancy",
+			"text": " Buried deep under the muck of the darkest, murkiest Swamps can the Dark Crystals of Necromancy be found. They were infused with dark, unpleasant energies during its formation. Some say the souls of creatures that drowned in the swamps are trapped in these crystals.",
+			"link_recipe": false
+		},
+		{
+			"type": "image",
+			"border":  true,
+			"images": ["ancientspellcraft:textures/gui/entries/dark_ore_shard.png"],
+			"title": "Dark Crystal Veins",
+			"text": ""
+		},
+		{
+			"type": "crafting",
+			"recipe": "ancientspellcraft:magic_crystal_necromancy",
+			"title": "Dark Crystal",
+			"text": "        Crafting Table"
+		}
+	]
+}
