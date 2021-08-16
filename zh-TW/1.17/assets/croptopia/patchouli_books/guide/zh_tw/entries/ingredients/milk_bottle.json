@@ -1,12 +1,12 @@
 {
   "name": "牛奶瓶",
   "icon": "croptopia:milk_bottle",
-  "category": "作物盛景：成分",
+  "category": "croptopia:ingredients",
   "pages": [
     {
       "type": "crafting",
       "recipe": "croptopia:shaped_milk_bottle",
-      "text": "牛奶瓶的食譜\n"
+      "text": "牛奶瓶的製作方法\n"
     }
   ]
 }
