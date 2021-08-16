@@ -1,0 +1,26 @@
+{
+	"name": "Stormy Crystal Veins",
+	"icon": "ancientspellcraft:crystal_ore_lightning",
+	"category": "3_worldgen",
+	"sortnum": 4,
+	"pages": [
+		{
+			"type": "spotlight",
+			"item": "ancientspellcraft:crystal_ore_lightning",
+			"text": " Stormy Crystal ore can be found under the sheer mountains of the Extreme Hills biome.  Due to the height of their home biome, they have absorbed a considerable amount of static electricity during their formation.",
+			"link_recipe": false
+		},
+		{
+			"type": "image",
+			"images": ["ancientspellcraft:textures/gui/entries/stormy_ore_shard.png"],
+			"title": "Stormy Crystal Veins",
+			"text": ""
+		},
+		{
+			"type": "crafting",
+			"recipe": "ancientspellcraft:magic_crystal_lightning",
+			"title": "Stormy Crystal",
+			"text": "        Crafting Table"
+		}
+	]
+}
