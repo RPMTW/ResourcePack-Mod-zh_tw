@@ -1,12 +1,12 @@
 {
   "name": "沙拉",
   "icon": "croptopia:cucumber_salad",
-  "category": "作物方城市:點心",
+  "category": "croptopia:snacks",
   "pages": [
     {
       "type": "crafting",
       "recipe": "croptopia:cucumber_salad",
-      "text": "製作不同類型沙拉的食譜。"
+      "text": "不同類型沙拉的食譜"
     },
     {
       "type": "crafting",
