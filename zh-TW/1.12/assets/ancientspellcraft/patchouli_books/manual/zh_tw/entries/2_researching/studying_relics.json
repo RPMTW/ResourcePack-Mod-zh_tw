@@ -1,0 +1,15 @@
+{
+	"name": "Studying Relics",
+	"icon": "minecraft:writable_book",
+	"category": "2_researching",
+	"advancement": "ancientspellcraft:sphere_of_cognizance",
+	"sortnum": 1,
+	"pages": [
+		{
+			"type": "spotlight",
+			"item": "ancientspellcraft:stone_tablet",
+			"text": " Stone Tablets can be studied at a Sphere of Cognizance to uncover their secrets. Some scholars theorize that these tablets might be inscribed with knowledge of ancient spells- created and utilized by wizards from long-forgotten civilizations. However, no wizard in recent history has been successful in recreating any of these spells.",
+			"link_recipe": false
+		}
+	]
+}
