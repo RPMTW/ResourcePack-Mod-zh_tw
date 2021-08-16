@@ -1,12 +1,12 @@
 {
   "name": "烤堅果",
   "icon": "croptopia:roasted_nuts",
-  "category": "作物方城市:點心",
+  "category": "croptopia:snacks",
   "pages": [
     {
       "type": "熔煉",
       "recipe": "croptopia:roasted_nuts",
-      "text": "製作烤堅果的食譜。"
+      "text": "烤堅果的食譜"
     }
   ]
 }
