@@ -1,12 +1,12 @@
 {
   "name": "吐司",
   "icon": "croptopia:toast",
-  "category": "作物方城市:點心",
+  "category": "croptopia:snacks",
   "pages": [
     {
       "type": "熔煉",
       "recipe": "croptopia:toast",
-      "text": "製作吐司的食譜。"
+      "text": "吐司的食譜"
     }
   ]
 }
