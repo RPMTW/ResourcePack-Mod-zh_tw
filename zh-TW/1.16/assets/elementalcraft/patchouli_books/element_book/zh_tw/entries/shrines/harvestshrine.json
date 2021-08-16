@@ -1,0 +1,14 @@
+{
+  "name": "block.elementalcraft.harvestshrine",
+  "category": "elementalcraft:shrines",
+  "icon": "elementalcraft:harvestshrine",
+  "advancement": "elementalcraft:pickup/shrinebase",
+  "turnin": "elementalcraft:pickup/harvestshrine",
+  "sortnum": 7,
+  "pages": [
+    {
+      "type": "text",
+      "text": "elementalcraft.page.harvestshrine0"
+    }
+  ]
+}

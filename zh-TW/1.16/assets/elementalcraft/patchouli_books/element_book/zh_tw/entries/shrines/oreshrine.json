@@ -1,0 +1,14 @@
+{
+  "name": "block.elementalcraft.oreshrine",
+  "category": "elementalcraft:shrines",
+  "icon": "elementalcraft:oreshrine",
+  "advancement": "elementalcraft:pickup/shrinebase",
+  "turnin": "elementalcraft:pickup/oreshrine",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "text",
+      "text": "elementalcraft.page.oreshrine0"
+    }
+  ]
+}

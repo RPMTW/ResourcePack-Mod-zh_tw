@@ -1,6 +1,6 @@
 {
     "entity.camera.image_frame": "相框",
-    "item.camera.camera": "攝影機",
+    "item.camera.camera": "相機",
     "item.camera.image": "相片",
     "item.camera.image_frame": "相框",
     "item.camera.album": "相簿",
@@ -15,7 +15,7 @@
     "button.camera.upload": "上傳",
     "gui.camera.choose_filter": "選擇濾鏡",
     "gui.camera.upload_image": "上傳相片",
-    "gui.camera.title": "攝影機",
+    "gui.camera.title": "相機",
     "gui.frame.resize": "調整相框大小",
     "gui.frame.resize_description": "按住 SHIFT 縮小",
     "tooltip.visibility": "調整透明度",
@@ -40,5 +40,5 @@
     "title.choose_image": "選擇相片",
     "sound.camera.take_image": "相機拍攝聲",
     "jei.camera.take_image": "拍攝影像",
-    "jei.camera.tooltip.take_image": "Consumes %sx %s from your inventory when taking an image"
+    "jei.camera.tooltip.take_image": "照相時從你的物品欄消耗 %sx %s"
 }

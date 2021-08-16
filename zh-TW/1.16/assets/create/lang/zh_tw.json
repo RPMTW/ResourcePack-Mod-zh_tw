@@ -2189,5 +2189,10 @@
     "create.ponder.valve_pipe.text_1": "閥門管道有助於控制透過管線網路傳播的液體",
     "create.ponder.valve_pipe.text_2": "用轉動輸入控制現在是否允許液體通過",
     "create.ponder.valve_pipe.text_3": "打開方向旋轉，液體閥門將會打開",
-    "create.ponder.valve_pipe.text_4": "反方向的旋轉會關閉閥門"
+    "create.ponder.valve_pipe.text_4": "反方向的旋轉會關閉閥門",
+    "item.create.creative_blaze_cake": "創造烈焰蛋糕",
+    "item.create.creative_blaze_cake.tooltip": "創造模式蛋糕",
+    "item.create.creative_blaze_cake.tooltip.summary": "一種非常特殊的_烈焰使者燃燒室_處理方式，可以_控制其熱度_。吃了這個蛋糕後，烈焰使者燃燒室將_永遠不會耗盡燃料_。",
+    "item.create.creative_blaze_cake.tooltip.condition1": "右鍵點擊烈焰使者燃燒室",
+    "item.create.creative_blaze_cake.tooltip.behaviour1": "_鎖定_烈焰使者燃燒室的熱度。如何再次使用，會使烈焰使者燃燒室的熱度_循環_。"
 }

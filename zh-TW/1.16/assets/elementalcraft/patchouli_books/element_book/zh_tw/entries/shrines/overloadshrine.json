@@ -1,0 +1,14 @@
+{
+  "name": "block.elementalcraft.overloadshrine",
+  "category": "elementalcraft:shrines",
+  "icon": "elementalcraft:overloadshrine",
+  "advancement": "elementalcraft:pickup/shrinebase",
+  "turnin": "elementalcraft:pickup/overloadshrine",
+  "sortnum": 8,
+  "pages": [
+    {
+      "type": "text",
+      "text": "elementalcraft.page.overloadshrine0"
+    }
+  ]
+}
