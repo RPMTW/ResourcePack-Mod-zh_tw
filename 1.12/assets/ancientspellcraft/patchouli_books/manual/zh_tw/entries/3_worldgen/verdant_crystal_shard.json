@@ -1,0 +1,26 @@
+{
+	"name": "Verdant Crystal Veins",
+	"icon": "ancientspellcraft:crystal_ore_earth",
+	"category": "3_worldgen",
+	"sortnum": 5,
+	"pages": [
+		{
+			"type": "spotlight",
+			"item": "ancientspellcraft:crystal_ore_earth",
+			"text": " Verdant Crystal ore can be found under forested biomes. They are nourished by minerals and the sap of prehistoric tree roots during their formation millennia ago. These crystals seem to resonate with Mother Earth herself.",
+			"link_recipe": false
+		},
+		{
+			"type": "image",
+			"images": ["ancientspellcraft:textures/gui/entries/verdant_ore_shard.png"],
+			"title": "Verdant Crystal Veins",
+			"text": ""
+		},
+		{
+			"type": "crafting",
+			"recipe": "ancientspellcraft:magic_crystal_earth",
+			"title": "Dark Crystal",
+			"text": "        Crafting Table"
+		}
+	]
+}
