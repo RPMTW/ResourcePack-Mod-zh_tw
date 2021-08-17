@@ -1,5 +1,5 @@
 {
-    "name": "Experience Bee",
+    "name": "經驗蜂",
     "icon": "minecraft:experience_bottle",
     "read_by_default": true,
     "category": "productivebees:bees_hive",
@@ -7,9 +7,9 @@
     "pages": [
         {
             "type": "text",
-            "title": "Experience Bee",
-            "text": "Bred from an $(l:bees/hive/emerald)Emerald Bee$(/l) and a $(l:bees/hive/lapis)Lapis Bee$(/l).",
-            "anchor": "experience"
+            "title": "經驗蜂",
+            "text": "由$(l:bees/hive/emerald)綠寶石蜂$(/l) 和$(l:bees/hive_bees#lapis)青金石蜂$(/l)配種而得。",
+            "anchor": "經驗"
         },
         {
             "type": "entity",
