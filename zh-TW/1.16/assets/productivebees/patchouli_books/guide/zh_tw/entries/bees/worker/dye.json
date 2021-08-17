@@ -1,5 +1,5 @@
 {
-    "name": "Dye Bee",
+    "name": "染料蜂",
     "icon": "minecraft:red_dye",
     "read_by_default": true,
     "sortnum": 6,
@@ -7,8 +7,8 @@
     "pages": [
         {
             "type": "text",
-            "title": "Dye Bee",
-            "text": "Produces dye based on the flower it has pollinated."
+            "title": "染料蜂",
+            "text": "依其授粉的花朵生產染料。"
         },
         {
             "type": "entity",
