@@ -1,6 +1,6 @@
 {
-    "name": "Hive Bees",
-    "description": "Hive bees, like the vanilla bee, lives in hives and produce honey and resources. They have to live in $(l:hives/advanced_hives)advanced hives$(/l) to produce resource combs. Most hive bees are bred from solitary bees and other hive bees but some are made by giving a specific item to a bee or by crafting spawn eggs. All bee recipes and flower requirements can be found in JEI.",
+    "name": "養殖蜂",
+    "description": "養殖蜂就像原版的蜜蜂一樣， 住在蜂箱中生產蜂蜜及資源。牠們必須住在$(l:hives/advanced_hives)高級蜂箱$(/l)中才能產出資源蜂巢片。大部分的養殖蜂都是由獨居蜂和其牠養殖蜂配種而得， 不過有些是經由餵食特殊物品所製造。$(br)所有的蜜蜂配方都可在 JEI 中查到。",
     "icon": "productivebees:adv_breed_bee",
     "parent": "productivebees:bees"
 }
