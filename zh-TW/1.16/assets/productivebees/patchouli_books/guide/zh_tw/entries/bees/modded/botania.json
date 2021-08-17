@@ -1,5 +1,5 @@
 {
-    "name": "Botania",
+    "name": "植物魔法",
     "icon": "botania:manapool",
     "read_by_default": true,
     "sortnum": 8,
@@ -8,7 +8,7 @@
     "pages": [
         {
             "type": "text",
-            "text": "Bees for Botania and addons."
+            "text": "植物魔法的附屬蜜蜂"
         },
         {
             "type": "empty",
@@ -16,53 +16,53 @@
         },
         {
             "type": "text",
-            "title": "Manasteel Bee",
-            "text": "This bee cannot be bred. Spawn egg is crafted from a $(l:bees/hive/#iron)Iron Bee$(/l) spawn egg in a mana pool.",
-            "anchor": "manasteel",
+            "title": "魔力鋼蜂",
+            "text": "這個蜜蜂不能被配種而得。其生怪蛋製作於$(l:bees/hive/#iron)鐵蜜蜂$(/l)生怪蛋在魔力池裡。",
+            "anchor": "魔力鋼",
             "flag": "productivebees:manasteel"
         },
         {
             "type": "entity",
-            "name": "Manasteel Bee",
+            "name": "魔力鋼蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:manasteel'}",
             "flag": "productivebees:manasteel"
         },
         {
             "type": "text",
-            "title": "Terrasteel Bee",
-            "text": "This bee cannot be bred. Spawn egg is crafted from a $(l:bees/modded/botania#manasteel)Manasteel Bee$(/l) spawn egg using an infusion altar.",
-            "anchor": "terrasteel",
+            "title": "泰拉鋼蜂",
+            "text": "這個蜜蜂不能配種而得。其生怪蛋製作於$(l:bees/modded/botania#manasteel)魔力鋼蜂$(/l)生怪蛋用於注魔祭壇。",
+            "anchor": "泰拉鋼",
             "flag": "productivebees:terrasteel"
         },
         {
             "type": "entity",
-            "name": "Terrasteel Bee",
+            "name": "泰拉鋼蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:terrasteel'}",
             "flag": "productivebees:terrasteel"
         },
         {
             "type": "text",
-            "title": "Elementium Bee",
-            "text": "This bee cannot be bred. Spawn egg is crafted from a $(l:bees/modded/botania#manasteel)Manasteel Bee$(/l) spawn egg using an infusion altar.",
-            "anchor": "elementium",
+            "title": "源質鋼蜂",
+            "text": "這個蜜蜂不能配種而得。其生怪蛋製作於$(l:bees/modded/botania#manasteel)魔力鋼蜂$(/l)生怪蛋用於注魔祭壇。",
+            "anchor": "源質鋼",
             "flag": "productivebees:elementium"
         },
         {
             "type": "entity",
-            "name": "Elementium Bee",
+            "name": "源質鋼蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:elementium'}",
             "flag": "productivebees:elementium"
         },
         {
             "type": "text",
-            "title": "Alfsteel Bee",
-            "text": "This bee cannot be bred. Spawn egg is crafted from a $(l:bees/modded/botania#elementium)Elementium Bee$(/l) spawn egg using an infusion altar.",
-            "anchor": "elementium",
+            "title": "精靈鋼蜂",
+            "text": "這個蜜蜂不能配種而得。其生怪蛋製作於$(l:bees/modded/botania#elementium)源質鋼蜂$(/l)生怪蛋用於注魔祭壇。",
+            "anchor": "源質鋼",
             "flag": "productivebees:alfsteel"
         },
         {
             "type": "entity",
-            "name": "Alfsteel Bee",
+            "name": "精靈鋼蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:elementium'}",
             "flag": "productivebees:alfsteel"
         }
