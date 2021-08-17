@@ -1,12 +1,12 @@
 {
-  "name": "乳酪漢堡",
+  "name": "乳酪堡",
   "icon": "croptopia:cheeseburger",
   "category": "croptopia:meals",
   "pages": [
     {
       "type": "crafting",
       "recipe": "croptopia:cheeseburger",
-      "text": "乳酪漢堡的食譜"
+      "text": "乳酪堡的食譜"
     }
   ]
 }
