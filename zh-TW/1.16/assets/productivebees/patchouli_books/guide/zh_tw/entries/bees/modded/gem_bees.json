@@ -314,14 +314,14 @@
         },
         {
             "type": "text",
-            "title": "Jade Bee",
+            "title": "玉石蜜蜂",
             "text": "Converted from a $(l:bees/hive/diamond)Diamond Bee$(/l) using a jade gem.",
-            "anchor": "jade",
+            "anchor": "玉",
             "flag": "productivebees:jade"
         },
         {
             "type": "entity",
-            "name": "Jade Bee",
+            "name": "玉蜜蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:jade'}",
             "flag": "productivebees:jade"
         },
