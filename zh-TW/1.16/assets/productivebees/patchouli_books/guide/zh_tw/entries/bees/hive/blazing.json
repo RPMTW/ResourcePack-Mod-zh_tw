@@ -1,5 +1,5 @@
 {
-    "name": "Blazing Bee",
+    "name": "烈焰蜂",
     "icon": "minecraft:blaze_powder",
     "read_by_default": true,
     "category": "productivebees:bees_hive",
@@ -7,9 +7,9 @@
     "pages": [
         {
             "type": "text",
-            "title": "Blazing Bee",
-            "text": "Bred from a $(l:bees/wild/magmatic)Magmatic Bee$(/l) and a $(l:bees/solitary/nomad)Nomad Bee$(/l).",
-            "anchor": "blazing"
+            "title": "烈焰蜂",
+            "text": "由$(l:bees/wild/magmatic)熔岩蜂$(/l)和$(l:bees/solitary/nomad)遊牧蜂$(/l)配種而得。",
+            "anchor": "烈焰"
         },
         {
             "type": "entity",
