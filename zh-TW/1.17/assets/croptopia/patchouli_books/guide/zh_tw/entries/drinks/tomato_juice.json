@@ -1,12 +1,12 @@
 {
-  "name": "蕃茄汁",
+  "name": "番茄汁",
   "icon": "croptopia:tomato_juice",
   "category": "croptopia:drinks",
   "pages": [
     {
       "type": "crafting",
       "recipe": "croptopia:tomato_juice",
-      "text": "蕃茄汁的食譜"
+      "text": "番茄汁的食譜"
     }
   ]
 }
