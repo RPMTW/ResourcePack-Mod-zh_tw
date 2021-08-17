@@ -1,5 +1,5 @@
 {
-    "name": "Ancient Bee",
+    "name": "遠古遺骸蜜蜂",
     "icon": "minecraft:netherite_scrap",
     "read_by_default": true,
     "category": "productivebees:bees_hive",
@@ -7,8 +7,8 @@
     "pages": [
         {
             "type": "text",
-            "title": "Ancient Bee",
-            "text": "Converted from a $(l:bees/hive/diamond)Diamond Bee$(/l) be feeding it a block of netherite.",
+            "title": "遠古遺骸蜜蜂",
+            "text": "從$(l:bees/hive/diamond)鑽石蜂$(/l) 餵食獄髓方塊轉換而來。",
             "anchor": "netherite"
         },
         {
