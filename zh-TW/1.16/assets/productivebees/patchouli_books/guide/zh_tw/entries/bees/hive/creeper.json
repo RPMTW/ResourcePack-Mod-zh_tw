@@ -1,5 +1,5 @@
 {
-    "name": "CreeBee",
+    "name": "苦力怕蜂",
     "icon": "minecraft:gunpowder",
     "read_by_default": true,
     "category": "productivebees:bees_hive",
@@ -7,9 +7,9 @@
     "pages": [
         {
             "type": "text",
-            "title": "CreeBee",
-            "text": "Obtained by feeding a block of TNT to a vanilla bee.",
-            "anchor": "creeper"
+            "title": "苦力怕蜂",
+            "text": "餵食TNT給原版的蜜蜂就會變成。",
+            "anchor": "苦力怕"
         },
         {
             "type": "entity",
