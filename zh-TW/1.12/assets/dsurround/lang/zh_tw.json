@@ -39,7 +39,7 @@
     "dsurround.msg.ThunderTimeSet": "§9打雷時間設定為 %1$s",
     "dsurround.msg.ThunderThresholdSet": "§9打雷時間設定為 %1$s",
     "dsurround.msg.NewVersion": "[\"§6有新版本可用： §9[\",{\"text\":\"§2%1$s §ev%2$s§f\",\"color\":\"gold\",\"hoverEvent\":{\"action\":\"show_text\",\"value\":{\"text\":\"Click for CurseForge Project Page\",\"color\":\"aqua\"}},\"clickEvent\":{\"action\":\"open_url\",\"value\":\"%3$s\"}},\"§9]\"]",
-    "dsurround.cfg.individual": "Individual Sound Configuration",
+    "dsurround.cfg.individual": "個人聲音設定",
     "dsurround.cfg.individual.tooltip": "Options to configure sounds on an individual basis\n",
     "dsurround.cfg.asm": "ASM Transformer Options",
     "dsurround.cfg.asm.tooltip": "Controls ASM transforms Dynamic Surroundings performs at startup",
