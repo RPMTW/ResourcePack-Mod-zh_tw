@@ -91,7 +91,7 @@
             "flag": "productivebees:arcane"
         },
         {
-            "type": "entity",
+            "type": "實體",
             "name": "Arcane Bee",
             "entity": "productivebees:configurable_bee{type:'productivebees:arcane'}",
             "flag": "productivebees:arcane"
@@ -104,7 +104,7 @@
             "flag": "productivebees:starmetal"
         },
         {
-            "type": "entity",
+            "type": "實體",
             "name": "Starmetal Bee",
             "entity": "productivebees:configurable_bee{type:'productivebees:starmetal'}",
             "flag": "productivebees:starmetal"
@@ -117,7 +117,7 @@
             "flag": "productivebees:bloody"
         },
         {
-            "type": "entity",
+            "type": "實體",
             "name": "Bloody Bee",
             "entity": "productivebees:configurable_bee{type:'productivebees:bloody'}",
             "flag": "productivebees:bloody"
@@ -169,7 +169,7 @@
             "flag": "productivebees:allthemodium"
         },
         {
-            "type": "entity",
+            "type": "實體",
             "name": "Allthemodium Bee",
             "entity": "productivebees:configurable_bee{type:'productivebees:allthemodium'}",
             "flag": "productivebees:allthemodium"
@@ -182,7 +182,7 @@
             "flag": "productivebees:vibranium"
         },
         {
-            "type": "entity",
+            "type": "實體",
             "name": "Vibranium Bee",
             "entity": "productivebees:configurable_bee{type:'productivebees:vibranium'}",
             "flag": "productivebees:vibranium"
@@ -195,7 +195,7 @@
             "flag": "productivebees:unobtainium"
         },
         {
-            "type": "entity",
+            "type": "實體",
             "name": "Unobtainium Bee",
             "entity": "productivebees:configurable_bee{type:'productivebees:unobtainium'}",
             "flag": "productivebees:unobtainium"
