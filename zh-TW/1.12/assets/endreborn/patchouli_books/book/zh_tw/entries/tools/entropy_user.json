@@ -1,0 +1,17 @@
+{
+    "name": "Materializer",
+    "icon": "endreborn:death_essence",
+    "category": "\n-工具",
+    "advancement": "endreborn:endreborn/entropy_user",
+    "priority": true,
+    "pages": [
+        {
+            "type": "text",
+            "text": "Whole Two! And I don’t need more. This mechanism can duplicate my resources, but it needed Xorcite and Obsidian Dust... Okay"
+        },
+        {
+            "type": "spotlight",
+            "item": "endreborn:entropy_user"
+        }
+    ]
+}
