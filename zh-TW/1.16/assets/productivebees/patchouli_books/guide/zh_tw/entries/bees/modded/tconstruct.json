@@ -87,7 +87,7 @@
             "flag": "productivebees:knightslime"
         },
         {
-            "type": "entity",
+            "type": "實體",
             "name": "Knightslime Bee",
             "entity": "productivebees:configurable_bee{type:'productivebees:knightslime'}",
             "flag": "productivebees:knightslime"
@@ -100,7 +100,7 @@
             "flag": "productivebees:manyullyn"
         },
         {
-            "type": "entity",
+            "type": "實體",
             "name": "Manyullyn Bee",
             "entity": "productivebees:configurable_bee{type:'productivebees:manyullyn'}",
             "flag": "productivebees:manyullyn"
@@ -113,7 +113,7 @@
             "flag": "productivebees:pig_iron"
         },
         {
-            "type": "entity",
+            "type": "實體",
             "name": "Pig Iron Bee",
             "entity": "productivebees:configurable_bee{type:'productivebees:pig_iron'}",
             "flag": "productivebees:pig_iron"
@@ -161,11 +161,11 @@
             "type": "text",
             "title": "Soulsteel Bee",
             "text": "This bee cannot be bred. Spawn egg is crafted from a $(l:bees/modded/tconstruct#cobalt)Cobalt Bee$(/l) spawn egg using a casting table.",
-            "anchor": "soulsteel",
+            "anchor": "靈魂鋼",
             "flag": "productivebees:soulsteel"
         },
         {
-            "type": "entity",
+            "type": "實體",
             "name": "Soulsteel Bee",
             "entity": "productivebees:configurable_bee{type:'productivebees:soulsteel'}",
             "flag": "productivebees:soulsteel"
@@ -178,7 +178,7 @@
             "flag": "productivebees:tinkers_bronze"
         },
         {
-            "type": "entity",
+            "type": "實體",
             "name": "Tinkers Bronze Bee",
             "entity": "productivebees:configurable_bee{type:'productivebees:tinkers_bronze'}",
             "flag": "productivebees:tinkers_bronze"
