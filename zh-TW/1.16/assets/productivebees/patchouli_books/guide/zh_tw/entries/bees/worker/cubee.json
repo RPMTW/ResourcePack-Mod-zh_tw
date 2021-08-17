@@ -1,5 +1,5 @@
 {
-    "name": "CuBee",
+    "name": "邱比特蜂",
     "icon": "minecraft:arrow",
     "read_by_default": true,
     "sortnum": 7,
@@ -7,8 +7,8 @@
     "pages": [
         {
             "type": "text",
-            "title": "CuBee",
-            "text": "The pheromones secreted from this bee gets animals in the mood."
+            "title": "邱比特蜂",
+            "text": "這蜜蜂分泌的費洛蒙使動物的情緒舒暢。"
         },
         {
             "type": "entity",
