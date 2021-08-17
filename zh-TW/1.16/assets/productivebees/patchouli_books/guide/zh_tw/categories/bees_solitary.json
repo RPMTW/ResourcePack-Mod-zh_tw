@@ -1,6 +1,6 @@
 {
-    "name": "Solitary Bees",
-    "description": "Solitary bees can be found spawning from solitary nests in the overworld.$(br2)$(l:hives/nests)Read about nests here$(/l)",
+    "name": "獨居蜂",
+    "description": "獨居蜂會生成於世界上的獨居蜂巢， 這些蜂巢會在世界生成時生成。$(br2)$(l:hives/nests)按此閱讀關於蜂巢的內容$(/l)",
     "icon": "productivebees:oak_wood_nest",
     "parent": "productivebees:bees"
 }
