@@ -1,5 +1,5 @@
 {
-    "name": "Coal Bee",
+    "name": "煤炭蜂",
     "icon": "minecraft:coal",
     "read_by_default": true,
     "category": "productivebees:bees_hive",
@@ -7,9 +7,9 @@
     "pages": [
         {
             "type": "text",
-            "title": "Coal Bee",
-            "text": "Bred from a $(l:bees/hive/redstone)Blazing Bee$(/l) and a $(l:bees/solitary/leafcutter)Leafcutter Bee$(/l).",
-            "anchor": "coal"
+            "title": "煤炭蜂",
+            "text": "由$(l:bees/hive/redstone)烈焰蜂$(/l) 和$(l:bees/solitary/leafcutter)切葉蜂$(/l)配種而得。",
+            "anchor": "煤炭"
         },
         {
             "type": "entity",
