@@ -86,7 +86,7 @@
             "flag": "productivebees:copper"
         },
         {
-            "type": "entity",
+            "type": "實體",
             "name": "Copper Bee",
             "entity": "productivebees:configurable_bee{type:'productivebees:copper'}",
             "flag": "productivebees:copper"
@@ -99,7 +99,7 @@
             "flag": "productivebees:electrum"
         },
         {
-            "type": "entity",
+            "type": "實體",
             "name": "Electrum Bee",
             "entity": "productivebees:configurable_bee{type:'productivebees:electrum'}",
             "flag": "productivebees:electrum"
@@ -112,7 +112,7 @@
             "flag": "productivebees:enderium"
         },
         {
-            "type": "entity",
+            "type": "實體",
             "name": "Enderium Bee",
             "entity": "productivebees:configurable_bee{type:'productivebees:enderium'}",
             "flag": "productivebees:enderium"
@@ -164,7 +164,7 @@
             "flag": "productivebees:nickel"
         },
         {
-            "type": "entity",
+            "type": "實體",
             "name": "Nickel Bee",
             "entity": "productivebees:configurable_bee{type:'productivebees:nickel'}",
             "flag": "productivebees:nickel"
@@ -177,7 +177,7 @@
             "flag": "productivebees:osmium"
         },
         {
-            "type": "entity",
+            "type": "實體",
             "name": "Osmium Bee",
             "entity": "productivebees:configurable_bee{type:'productivebees:osmium'}",
             "flag": "productivebees:osmium"
@@ -190,7 +190,7 @@
             "flag": "productivebees:platinum"
         },
         {
-            "type": "entity",
+            "type": "實體",
             "name": "Platinum Bee",
             "entity": "productivebees:configurable_bee{type:'productivebees:platinum'}",
             "flag": "productivebees:platinum"
@@ -203,7 +203,7 @@
             "flag": "productivebees:radioactive"
         },
         {
-            "type": "entity",
+            "type": "實體",
             "name": "Radioactive Bee",
             "entity": "productivebees:configurable_bee{type:'productivebees:radioactive'}",
             "flag": "productivebees:radioactive"
