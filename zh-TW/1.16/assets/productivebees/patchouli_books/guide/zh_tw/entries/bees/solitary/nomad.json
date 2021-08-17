@@ -1,5 +1,5 @@
 {
-    "name": "Nomad Bee",
+    "name": "游牧蜂",
     "icon": "productivebees:spawn_egg_nomad_bee",
     "read_by_default": true,
     "sortnum": 10,
@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "text",
-            "title": "Nomad Bee",
+            "title": "游牧蜂",
             "text": "[Nomada marshamella]",
             "anchor": "nomad"
         },
