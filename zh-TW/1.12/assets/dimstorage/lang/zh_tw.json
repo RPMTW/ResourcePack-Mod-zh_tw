@@ -1,0 +1,18 @@
+{
+    "itemGroup.dimstorage": "DimStorage",
+    "tile.dimstorage.accessDenied": "Access Denied!",
+    "gui.dimstorage.change": "變更",
+    "gui.dimstorage.owner": "主人:",
+    "gui.dimstorage.frequency": "頻率:",
+    "gui.dimstorage.locked": "已鎖定：",
+    "gui.dimstorage.yes": "是",
+    "gui.dimstorage.no": "否",
+    "item.dimstorage.dim_core.name": "Dimensional Core",
+    "item.dimstorage.solid_dim_core.name": "Solid Dimensional Core",
+    "item.dimstorage.dim_wall.name": "Dimensional Wall",
+    "tile.dimstorage.dimensional_chest.name": "Dimensional Chest",
+    "advancements.dimstorage.root": "Dimensional Core",
+    "advancements.dimstorage.root.desc": "The power of dimensions",
+    "advancements.dimstorage.dimensional_chest": "Dimensional Chest",
+    "advancements.dimstorage.dimensional_chest.desc": "A more connected inventory"
+}
