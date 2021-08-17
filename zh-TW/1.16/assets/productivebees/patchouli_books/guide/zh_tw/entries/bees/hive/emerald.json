@@ -1,5 +1,5 @@
 {
-    "name": "Emerald Bee",
+    "name": "綠寶石蜂",
     "icon": "minecraft:emerald",
     "read_by_default": true,
     "category": "productivebees:bees_hive",
@@ -7,9 +7,9 @@
     "pages": [
         {
             "type": "text",
-            "title": "Emerald Bee",
-            "text": "Bred from an $(l:bees/wild/slimy)Slimy Bee$(/l) and a $(l:bees/hive/diamond)Diamond Bee$(/l).",
-            "anchor": "emerald"
+            "title": "綠寶石蜂",
+            "text": "由$(l:bees/wild_bees#slimy)史萊姆蜂$(/l)和$(l:bees/hive_bees#diamond)鑽石蜂$(/l)配種而得。",
+            "anchor": "綠寶石"
         },
         {
             "type": "entity",
