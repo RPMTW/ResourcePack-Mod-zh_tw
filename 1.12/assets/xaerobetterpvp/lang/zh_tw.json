@@ -455,5 +455,18 @@
     "gui.xaero_ingame_waypoint_icon_scale": "In-Game Waypoint Icon Scale",
     "gui.xaero_ingame_waypoint_close_scale": "In-Game Waypoint Up-Close Scale",
     "gui.xaero_box_ingame_waypoint_close_scale": "Scale of the in-game waypoints when you are very close to them. To change the scale of waypoints that are far away, use the \"In-Game Waypoint Icon Scale\", \"Waypoint Distance Text Scale\" and \"Waypoint Name Text Scale\" settings.",
-    "gui.xaero_entity_icon_name_fallback": "Entity Name When Icon Fails"
+    "gui.xaero_entity_icon_name_fallback": "Entity Name When Icon Fails",
+    "gui.xaero_box_cave_maps2": "Mapping mode that can go deeper than the surface blocks, mainly to display underground caves and interiors of buildings. The ceiling size refers to the size of a square ceiling of solid blocks that has to be detected above you to activate the cave mode. The solid blocks don't have to be on the same Y level.",
+    "gui.xaero_settings_search": "Settings Search",
+    "gui.xaero_settings_search_placeholder": "Search...",
+    "gui.xaero_minimap_view_settings": "View Settings",
+    "gui.xaero_entity_radar_settings": "Entity Radar Settings",
+    "gui.xaero_entity_radar_categories": "Entity Category Settings",
+    "gui.xaero_minimap_block_map_settings": "Block Map Settings",
+    "gui.xaero_overlay_settings": "Overlay Settings",
+    "gui.xaero_minimap_info_settings": "Information Settings",
+    "gui.xaero_waypoint_settings": "Waypoint Settings",
+    "gui.xaero_minimap_misc_settings": "Miscellaneous Settings",
+    "gui.xaero_entity_radar_category": "Category:",
+    "gui.xaero_settings_not_found": "No matching entries found for your input!"
 }
