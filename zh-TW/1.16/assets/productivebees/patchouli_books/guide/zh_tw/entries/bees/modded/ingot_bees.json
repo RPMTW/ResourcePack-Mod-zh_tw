@@ -80,14 +80,14 @@
         },
         {
             "type": "text",
-            "title": "Copper Bee",
+            "title": "銅蜜蜂",
             "text": "Bred from a $(l:bees/wild/crystalline)Crystalline Bee$(/l) and an $(l:bees/solitary/ashy_mining)Ashy Mining Bee$(/l).",
-            "anchor": "copper",
+            "anchor": "銅錠",
             "flag": "productivebees:copper"
         },
         {
             "type": "實體",
-            "name": "Copper Bee",
+            "name": "銅蜜蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:copper'}",
             "flag": "productivebees:copper"
         },
@@ -132,14 +132,14 @@
         },
         {
             "type": "text",
-            "title": "Lead Bee",
+            "title": "鉛蜜蜂",
             "text": "Bred from an $(l:bees/hive/iron)Iron Bee$(/l) and a $(l:bees/solitary/blue_banded)Blue Banded Bee$(/l).",
-            "anchor": "lead",
+            "anchor": "鉛錠\n",
             "flag": "productivebees:lead"
         },
         {
             "type": "entity",
-            "name": "Lead Bee",
+            "name": "鉛蜜蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:lead'}",
             "flag": "productivebees:lead"
         },
@@ -158,14 +158,14 @@
         },
         {
             "type": "text",
-            "title": "Nickel Bee",
+            "title": "鎳蜜蜂",
             "text": "Bred from an $(l:bees/hive/iron)Iron Bee$(/l) and a $(l:bees/solitary/sweat)Sweat Bee$(/l).",
-            "anchor": "nickel",
+            "anchor": "鎳",
             "flag": "productivebees:nickel"
         },
         {
             "type": "實體",
-            "name": "Nickel Bee",
+            "name": "鎳蜜蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:nickel'}",
             "flag": "productivebees:nickel"
         },
@@ -288,14 +288,14 @@
         },
         {
             "type": "text",
-            "title": "Zinc Bee",
+            "title": "鋅蜜蜂",
             "text": "Bred from an $(l:bees/hive/iron)Iron Bee$(/l) and a $(l:bees/solitary/sweat)Sweat Bee$(/l).",
-            "anchor": "zinc",
+            "anchor": "鋅",
             "flag": "productivebees:zinc"
         },
         {
             "type": "entity",
-            "name": "Zinc Bee",
+            "name": "鋅蜜蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:zinc'}",
             "flag": "productivebees:zinc"
         }
