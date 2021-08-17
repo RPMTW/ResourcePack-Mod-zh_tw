@@ -92,5 +92,6 @@
     "tooltip.woodland_staff.tree": "Tree:",
     "tooltip.woodland_staff.tree_not_set": "§7none",
     "_comment_13": " Falling tree death message",
-    "death.attack.fallingtree": "%1$s was crushed by a falling tree"
+    "death.attack.fallingtree": "%1$s was crushed by a falling tree",
+    "species.dynamictrees:tallbirch.name": "Tall Birch"
 }

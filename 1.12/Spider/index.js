@@ -20,13 +20,21 @@ if (!fs.existsSync(path.join(__dirname, "../assets"))) {
 }
 
 
-for (let i = 0; i < modCount / 50; i++) {
-    let pageSize = 50;
-    if (parseInt(modCount / 50) == i) {
-        pageSize = modCount % 50
-    }
-    GetMods(i + ModIndex, pageSize)
+let index = 0;
+function RunLoop() {
+    setTimeout(function () {
+        let pageSize = 50;
+        if (parseInt(modCount / 50) == index) {
+            pageSize = modCount % 50
+        }
+        GetMods((index * 50) + (ModIndex * 50), pageSize)
+        index++;
+        if (index < modCount / 50) {
+            RunLoop();
+        }
+    }, 15000) //每15秒執行50個模組的數據
 }
+RunLoop();
 
 function GetMods(index, pageSize) {
     fetch(`https://addons-ecs.forgesvc.net/api/v2/addon/search?categoryId=0&gameId=432&index=${index}&pageSize=${pageSize}&gameVersion=${ver}&sectionId=6&sort=1"`, {
