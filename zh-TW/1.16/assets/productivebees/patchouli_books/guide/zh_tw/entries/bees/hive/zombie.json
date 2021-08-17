@@ -1,5 +1,5 @@
 {
-    "name": "ZomBee",
+    "name": "殭屍蜂",
     "icon": "minecraft:rotten_flesh",
     "read_by_default": true,
     "category": "productivebees:bees_hive",
@@ -7,9 +7,9 @@
     "pages": [
         {
             "type": "text",
-            "title": "ZomBee",
-            "text": "Will move in to an advanced hive if the hive is left empty in the dark.",
-            "anchor": "zombie"
+            "title": "殭屍蜂",
+            "text": "會住進位於黑暗處還有剩餘空位的高級蜂箱。",
+            "anchor": "殭屍"
         },
         {
             "type": "entity",
