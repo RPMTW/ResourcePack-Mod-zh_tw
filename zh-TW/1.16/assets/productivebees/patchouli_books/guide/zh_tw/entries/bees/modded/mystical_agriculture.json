@@ -87,7 +87,7 @@
             "flag": "productivebees:imperium"
         },
         {
-            "type": "entity",
+            "type": "實體",
             "name": "Imperium Bee",
             "entity": "productivebees:configurable_bee{type:'productivebees:imperium'}",
             "flag": "productivebees:imperium"
@@ -100,7 +100,7 @@
             "flag": "productivebees:supremium"
         },
         {
-            "type": "entity",
+            "type": "實體",
             "name": "Supremium Bee",
             "entity": "productivebees:configurable_bee{type:'productivebees:supremium'}",
             "flag": "productivebees:supremium"
@@ -113,7 +113,7 @@
             "flag": "productivebees:insanium"
         },
         {
-            "type": "entity",
+            "type": "實體",
             "name": "Insanium Bee",
             "entity": "productivebees:configurable_bee{type:'productivebees:insanium'}",
             "flag": "productivebees:insanium"
