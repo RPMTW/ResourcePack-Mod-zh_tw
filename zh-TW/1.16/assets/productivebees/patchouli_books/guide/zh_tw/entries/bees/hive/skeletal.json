@@ -1,5 +1,5 @@
 {
-    "name": "Skeletal Bee",
+    "name": "骷髏蜂",
     "icon": "minecraft:bone_meal",
     "read_by_default": true,
     "category": "productivebees:bees_hive",
@@ -7,9 +7,9 @@
     "pages": [
         {
             "type": "text",
-            "title": "Skeletal Bee",
-            "text": "Will move in to an advanced hive if the hive is left empty in the dark.",
-            "anchor": "skeletal"
+            "title": "骷髏蜂",
+            "text": "會住進位於黑暗處還有剩餘空位的高級蜂箱。",
+            "anchor": "骷髏"
         },
         {
             "type": "entity",
