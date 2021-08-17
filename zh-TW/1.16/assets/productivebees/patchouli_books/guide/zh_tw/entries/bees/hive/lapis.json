@@ -1,5 +1,5 @@
 {
-    "name": "Lapis Bee",
+    "name": "青金石蜂",
     "icon": "minecraft:lapis_lazuli",
     "read_by_default": true,
     "category": "productivebees:bees_hive",
@@ -7,9 +7,9 @@
     "pages": [
         {
             "type": "text",
-            "title": "Lapis Bee",
-            "text": "Bred from a $(l:bees/hive/redstone)Redstone Bee$(/l) and a $(l:bees/solitary/blue_banded)Blue Banded Bee$(/l).",
-            "anchor": "lapis"
+            "title": "青金石蜂",
+            "text": "由$(l:bees/hive_bees#redstone)紅石蜂$(/l)和$(l:bees/solitary_bees#blue_banded)青條花蜂$(/l)配種而得。",
+            "anchor": "青金石"
         },
         {
             "type": "entity",
