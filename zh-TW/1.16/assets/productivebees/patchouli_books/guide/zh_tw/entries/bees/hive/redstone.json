@@ -1,5 +1,5 @@
 {
-    "name": "Redstone Bee",
+    "name": "紅石蜂",
     "icon": "minecraft:redstone",
     "read_by_default": true,
     "category": "productivebees:bees_hive",
@@ -7,9 +7,9 @@
     "pages": [
         {
             "type": "text",
-            "title": "Redstone Bee",
-            "text": "Bred from a $(l:bees/wild/glowing)Glowing Bee$(/l) and an $(l:bees/solitary/chocolate_mining)Chocolate Mining Bee$(/l).",
-            "anchor": "redstone"
+            "title": "紅石蜂",
+            "text": "由$(l:bees/wild/glowing)螢光石蜂$(/l)和$(l:bees/solitary/chocolate_mining)巧克力採礦蜂$(/l)配種而得。",
+            "anchor": "紅石"
         },
         {
             "type": "entity",
