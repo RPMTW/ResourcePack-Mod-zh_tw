@@ -1,5 +1,5 @@
 {
-    "name": "Fluid Bees",
+    "name": "流體蜂",
     "icon": "minecraft:water_bucket",
     "read_by_default": true,
     "sortnum": 4,
@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "text",
-            "text": "Bees producing fluid stuff"
+            "text": "蜜蜂生產液體"
         },
         {
             "type": "empty",
@@ -15,27 +15,27 @@
         },
         {
             "type": "text",
-            "title": "Chocolate Bee",
-            "text": "Obtained by feeding cocoa beans to a $(l:bees/wild/sugarbag)Sugarbag Bee$(/l).",
-            "anchor": "chocolate",
+            "title": "巧克力蜂",
+            "text": "通過將可可豆餵給 $(l:bees/wild/sugarbag)Sugarbag Bee$(/l) 獲得。",
+            "anchor": "巧克力",
             "flag": "productivebees:chocolate"
         },
         {
             "type": "entity",
-            "name": "Chocolate Bee",
+            "name": "巧克力蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:chocolate'}",
             "flag": "productivebees:chocolate"
         },
         {
             "type": "text",
-            "title": "Tea Bee",
-            "text": "Obtained by feeding a bucket of water to a $(l:bees/solitary/leafcutter)Leafcutter Bee$(/l).",
-            "anchor": "tea",
+            "title": "茶蜜蜂",
+            "text": "通過將一桶水餵給 $(l:bees/solitary/leafcutter)Leafcutter Bee$(/l) 獲得。",
+            "anchor": "茶",
             "flag": "productivebees:tea"
         },
         {
             "type": "entity",
-            "name": "Tea Bee",
+            "name": "茶蜜蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:tea'}",
             "flag": "productivebees:tea"
         }
