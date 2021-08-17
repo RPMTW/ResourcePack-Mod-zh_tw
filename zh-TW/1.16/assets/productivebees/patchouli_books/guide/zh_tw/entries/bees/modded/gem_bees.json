@@ -55,7 +55,7 @@
         {
             "type": "text",
             "title": "紫水晶蜂",
-            "text": "Converted from a $(l:bees/hive/diamond)Diamond Bee$(/l) using an amethyst gem.",
+            "text": "從$(l:bees/hive/diamond)鑽石蜂$(/l) 用紫水晶轉換",
             "anchor": "紫水晶",
             "flag": "productivebees:amethyst"
         },
@@ -68,7 +68,7 @@
         {
             "type": "text",
             "title": "紫黃晶蜂",
-            "text": "Converted from a $(l:bees/hive/diamond)Diamond Bee$(/l) using an ametrine gem.",
+            "text": "從$(l:bees/hive/diamond)鑽石蜂$(/l) 用紫黃晶轉換",
             "anchor": "紫黃晶",
             "flag": "productivebees:ametrine"
         },
@@ -145,20 +145,20 @@
         },
         {
             "type": "text",
-            "title": "Black Opal Bee",
-            "text": "Converted from a $(l:bees/hive/diamond)Diamond Bee$(/l) using a black opal gem.",
+            "title": "黑色蛋白石蜂",
+            "text": "從$(l:bees/hive/diamond)鑽石蜂$(/l) 用黑色蛋白石轉換",
             "anchor": "black_opal",
             "flag": "productivebees:black_opal"
         },
         {
             "type": "entity",
-            "name": "Black Opal Bee",
+            "name": "黑色蛋白石蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:black_opal'}",
             "flag": "productivebees:black_opal"
         },
         {
             "type": "text",
-            "title": "Carnelian Bee",
+            "title": "紅玉髓蜂",
             "text": "從$(l:bees/hive/diamond)鑽石蜂$(/l) 用紅玉髓轉換",
             "anchor": "紅玉髓",
             "flag": "productivebees:carnelian"
@@ -204,7 +204,7 @@
         },
         {
             "type": "實體",
-            "name": "Cinnabar Bee",
+            "name": "硃砂蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:cinnabar'}",
             "flag": "productivebees:cinnabar"
         },
