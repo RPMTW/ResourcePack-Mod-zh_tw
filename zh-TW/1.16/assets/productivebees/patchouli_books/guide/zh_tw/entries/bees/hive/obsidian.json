@@ -1,5 +1,5 @@
 {
-    "name": "Obsidian Bee",
+    "name": "黑曜石蜂",
     "icon": "minecraft:obsidian",
     "read_by_default": true,
     "category": "productivebees:bees_hive",
@@ -7,9 +7,9 @@
     "pages": [
         {
             "type": "text",
-            "title": "Obsidian Bee",
-            "text": "Bred from a $(l:bees/wild/magmatic)Magmatic Bee$(/l) and a $(l:bees/solitary/sweat)Sweat Bee$(/l).",
-            "anchor": "obsidian"
+            "title": "黑曜石蜂",
+            "text": "由$(l:bees/wild/magmatic)熔岩蜂$(/l)和$(l:bees/solitary/sweat)汗水蜂$(/l)配種而得。",
+            "anchor": "黑曜石"
         },
         {
             "type": "entity",
