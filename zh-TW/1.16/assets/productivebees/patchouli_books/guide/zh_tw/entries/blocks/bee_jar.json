@@ -1,12 +1,12 @@
 {
-    "name": "Bee Jar",
+    "name": "蜂罐",
     "icon": "productivebees:jar_oak",
     "category": "productivebees:blocks",
     "pages": [
         {
             "type": "spotlight",
             "item": "productivebees:jar_oak",
-            "text": "Show your bee collection to the world with this fancy glass container perfectly suited to hold a bee. Use a hopper or pipe to insert a $(l:items/bee_cage)bee cage$(/l) containing a bee of your choosing."
+            "text": "這個精美的玻璃罐， 可用來展示你收集的蜜蜂。需利用漏斗或管道放入裝有要展示蜜蜂的$(l:items/bee_cage)蜂籠$(/l)。"
         }
     ]
 }
