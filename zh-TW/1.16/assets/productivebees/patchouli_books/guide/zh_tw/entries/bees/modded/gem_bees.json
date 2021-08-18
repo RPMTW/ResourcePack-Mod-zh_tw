@@ -81,7 +81,7 @@
         {
             "type": "text",
             "title": "斑彩石蜂",
-            "text": "Converted from a $(l:bees/hive/diamond)Diamond Bee$(/l) using an ammolite gem.",
+            "text": "從$(l:bees/hive/diamond)鑽石蜂$(/l) 用斑彩石轉換",
             "anchor": "斑彩石",
             "flag": "productivebees:ammolite"
         },
@@ -94,7 +94,7 @@
         {
             "type": "text",
             "title": "磷灰石蜂",
-            "text": "Converted from a $(l:bees/hive/diamond)Diamond Bee$(/l) using an apatite gem.",
+            "text": "從$(l:bees/hive/diamond)鑽石蜂$(/l) 用磷灰石轉換",
             "anchor": "磷灰石",
             "flag": "productivebees:apatite"
         },
@@ -120,7 +120,7 @@
         {
             "type": "text",
             "title": "藍錐礦蜂",
-            "text": "Converted from a $(l:bees/hive/diamond)Diamond Bee$(/l) using a benitoite gem.",
+            "text": "從$(l:bees/hive/diamond)鑽石蜂$(/l) 用藍錐礦轉換",
             "anchor": "藍錐礦",
             "flag": "productivebees:benitoite"
         },
@@ -133,7 +133,7 @@
         {
             "type": "text",
             "title": "黑鑽石蜂",
-            "text": "Converted from a $(l:bees/hive/diamond)Diamond Bee$(/l) using a black diamond gem.",
+            "text": "從$(l:bees/hive/diamond)鑽石蜂$(/l) 用黑鑽石轉換",
             "anchor": "黑鑽石",
             "flag": "productivebees:black_diamond"
         },
@@ -210,112 +210,112 @@
         },
         {
             "type": "text",
-            "title": "Citrine Bee",
-            "text": "Converted from a $(l:bees/hive/diamond)Diamond Bee$(/l) using a citrine gem.",
+            "title": "黃水晶蜂",
+            "text": "從$(l:bees/hive/diamond)鑽石蜂$(/l) 用黃水晶轉換",
             "anchor": "citrine",
             "flag": "productivebees:citrine"
         },
         {
             "type": "entity",
-            "name": "Citrine Bee",
+            "name": "黃水晶蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:citrine'}",
             "flag": "productivebees:citrine"
         },
         {
             "type": "text",
-            "title": "Coral Bee",
-            "text": "Converted from a $(l:bees/hive/diamond)Diamond Bee$(/l) using a coral gem.",
+            "title": "珊瑚蜂",
+            "text": "從$(l:bees/hive/diamond)鑽石蜂$(/l) 用珊瑚轉換",
             "anchor": "coral",
             "flag": "productivebees:coral"
         },
         {
             "type": "entity",
-            "name": "Coral Bee",
+            "name": "珊瑚蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:coral'}",
             "flag": "productivebees:coral"
         },
         {
             "type": "text",
-            "title": "Euclase Bee",
-            "text": "Converted from a $(l:bees/hive/diamond)Diamond Bee$(/l) using an euclase gem.",
+            "title": "藍柱石蜂",
+            "text": "從$(l:bees/hive/diamond)鑽石蜂$(/l) 用藍柱石轉換",
             "anchor": "euclase",
             "flag": "productivebees:euclase"
         },
         {
             "type": "entity",
-            "name": "Euclase Bee",
+            "name": "藍柱石蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:euclase'}",
             "flag": "productivebees:euclase"
         },
         {
             "type": "text",
-            "title": "Fluorite Bee",
-            "text": "Converted from a $(l:bees/hive/diamond)Diamond Bee$(/l) using a fluorite gem.",
+            "title": "氟石蜂",
+            "text": "從$(l:bees/hive/diamond)鑽石蜂$(/l) 用氟石轉換",
             "anchor": "fluorite",
             "flag": "productivebees:fluorite"
         },
         {
             "type": "entity",
-            "name": "Fluorite Bee",
+            "name": "氟石蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:fluorite'}",
             "flag": "productivebees:fluorite"
         },
         {
             "type": "text",
-            "title": "Garnet Bee",
-            "text": "Converted from a $(l:bees/hive/diamond)Diamond Bee$(/l) using a garnet gem.",
+            "title": "石榴石蜂",
+            "text": "從$(l:bees/hive/diamond)鑽石蜂$(/l) 用石榴石轉換",
             "anchor": "garnet",
             "flag": "productivebees:garnet"
         },
         {
             "type": "entity",
-            "name": "Garnet Bee",
+            "name": "石榴石蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:garnet'}",
             "flag": "productivebees:garnet"
         },
         {
             "type": "text",
-            "title": "Green Sapphire Bee",
-            "text": "Converted from a $(l:bees/hive/diamond)Diamond Bee$(/l) using a green sapphire gem.",
+            "title": "綠色藍寶石蜂",
+            "text": "從$(l:bees/hive/diamond)鑽石蜂$(/l) 用綠色藍寶石轉換",
             "anchor": "green_sapphire",
             "flag": "productivebees:green_sapphire"
         },
         {
             "type": "entity",
-            "name": "Green Sapphire Bee",
+            "name": "綠色藍寶石蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:green_sapphire'}",
             "flag": "productivebees:green_sapphire"
         },
         {
             "type": "text",
-            "title": "Heliodor Bee",
-            "text": "Converted from a $(l:bees/hive/diamond)Diamond Bee$(/l) using a heliodor gem.",
+            "title": "金綠柱石蜂",
+            "text": "從$(l:bees/hive/diamond)鑽石蜂$(/l) 用金綠柱石轉換",
             "anchor": "heliodor",
             "flag": "productivebees:heliodor"
         },
         {
             "type": "entity",
-            "name": "Heliodor Bee",
+            "name": "金綠柱石蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:heliodor'}",
             "flag": "productivebees:heliodor"
         },
         {
             "type": "text",
-            "title": "Iolite Bee",
-            "text": "Converted from a $(l:bees/hive/diamond)Diamond Bee$(/l) using an iolite gem.",
+            "title": "堇青石蜂",
+            "text": "從$(l:bees/hive/diamond)鑽石蜂$(/l) 用堇青石轉換",
             "anchor": "iolite",
             "flag": "productivebees:iolite"
         },
         {
             "type": "entity",
-            "name": "Iolite Bee",
+            "name": "堇青石蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:iolite'}",
             "flag": "productivebees:iolite"
         },
         {
             "type": "text",
             "title": "玉石蜜蜂",
-            "text": "Converted from a $(l:bees/hive/diamond)Diamond Bee$(/l) using a jade gem.",
+            "text": "從$(l:bees/hive/diamond)鑽石蜂$(/l) 用翡翠轉換",
             "anchor": "玉",
             "flag": "productivebees:jade"
         },
@@ -327,352 +327,352 @@
         },
         {
             "type": "text",
-            "title": "Jasper Bee",
-            "text": "Converted from a $(l:bees/hive/diamond)Diamond Bee$(/l) using a jasper gem.",
+            "title": "碧玉石蜂",
+            "text": "從$(l:bees/hive/diamond)鑽石蜂$(/l) 用碧玉石轉換",
             "anchor": "jasper",
             "flag": "productivebees:jasper"
         },
         {
             "type": "entity",
-            "name": "Jasper Bee",
+            "name": "碧玉石蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:jasper'}",
             "flag": "productivebees:jasper"
         },
         {
             "type": "text",
-            "title": "Kunzite Bee",
-            "text": "Converted from a $(l:bees/hive/diamond)Diamond Bee$(/l) using a kunzite gem.",
+            "title": "紫鋰輝石蜂",
+            "text": "從$(l:bees/hive/diamond)鑽石蜂$(/l) 用紫鋰輝石轉換",
             "anchor": "kunzite",
             "flag": "productivebees:kunzite"
         },
         {
             "type": "entity",
-            "name": "Kunzite Bee",
+            "name": "紫鋰輝石蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:kunzite'}",
             "flag": "productivebees:kunzite"
         },
         {
             "type": "text",
-            "title": "Kyanite Bee",
-            "text": "Converted from a $(l:bees/hive/diamond)Diamond Bee$(/l) using a kyanite gem.",
+            "title": "藍晶石蜂",
+            "text": "從$(l:bees/hive/diamond)鑽石蜂$(/l) 用藍晶石轉換",
             "anchor": "kyanite",
             "flag": "productivebees:kyanite"
         },
         {
             "type": "entity",
-            "name": "Kyanite Bee",
+            "name": "藍晶石蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:kyanite'}",
             "flag": "productivebees:kyanite"
         },
         {
             "type": "text",
-            "title": "Lepidolite Bee",
-            "text": "Converted from a $(l:bees/hive/diamond)Diamond Bee$(/l) using a lepidolite gem.",
+            "title": "鋰雲母蜂",
+            "text": "從$(l:bees/hive/diamond)鑽石蜂$(/l) 用鋰雲母轉換",
             "anchor": "lepidolite",
             "flag": "productivebees:lepidolite"
         },
         {
             "type": "entity",
-            "name": "Lepidolite Bee",
+            "name": "鋰雲母蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:lepidolite'}",
             "flag": "productivebees:lepidolite"
         },
         {
             "type": "text",
-            "title": "Malachite Bee",
-            "text": "Converted from a $(l:bees/hive/diamond)Diamond Bee$(/l) using a malachite gem.",
+            "title": "孔雀石蜂",
+            "text": "從$(l:bees/hive/diamond)鑽石蜂$(/l) 用孔雀石轉換",
             "anchor": "malachite",
             "flag": "productivebees:malachite"
         },
         {
             "type": "entity",
-            "name": "Malachite Bee",
+            "name": "孔雀石蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:malachite'}",
             "flag": "productivebees:malachite"
         },
         {
             "type": "text",
-            "title": "Moldavite Bee",
-            "text": "Converted from a $(l:bees/hive/diamond)Diamond Bee$(/l) using a moldavite gem.",
+            "title": "綠玻隕石蜂",
+            "text": "從$(l:bees/hive/diamond)鑽石蜂$(/l) 用綠玻隕石轉換",
             "anchor": "moldavite",
             "flag": "productivebees:moldavite"
         },
         {
             "type": "entity",
-            "name": "Moldavite Bee",
+            "name": "綠玻隕石蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:moldavite'}",
             "flag": "productivebees:moldavite"
         },
         {
             "type": "text",
-            "title": "Moonstone Bee",
-            "text": "Converted from a $(l:bees/hive/diamond)Diamond Bee$(/l) using a moonstone gem.",
+            "title": "月光石蜂",
+            "text": "從$(l:bees/hive/diamond)鑽石蜂$(/l) 用月光石轉換",
             "anchor": "moonstone",
             "flag": "productivebees:moonstone"
         },
         {
             "type": "entity",
-            "name": "Moonstone Bee",
+            "name": "月光石蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:moonstone'}",
             "flag": "productivebees:moonstone"
         },
         {
             "type": "text",
-            "title": "Morganite Bee",
-            "text": "Converted from a $(l:bees/hive/diamond)Diamond Bee$(/l) using a morganite gem.",
+            "title": "摩根石蜂",
+            "text": "從$(l:bees/hive/diamond)鑽石蜂$(/l) 用摩根石轉換",
             "anchor": "morganite",
             "flag": "productivebees:morganite"
         },
         {
             "type": "entity",
-            "name": "Morganite Bee",
+            "name": "摩根石蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:morganite'}",
             "flag": "productivebees:morganite"
         },
         {
             "type": "text",
-            "title": "Onyx Bee",
-            "text": "Converted from a $(l:bees/hive/diamond)Diamond Bee$(/l) using an onyx gem.",
+            "title": "縞瑪瑙蜂",
+            "text": "從$(l:bees/hive/diamond)鑽石蜂$(/l) 用縞瑪瑙轉換",
             "anchor": "onyx",
             "flag": "productivebees:onyx"
         },
         {
             "type": "entity",
-            "name": "Onyx Bee",
+            "name": "縞瑪瑙蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:onyx'}",
             "flag": "productivebees:onyx"
         },
         {
             "type": "text",
-            "title": "Opal Bee",
-            "text": "Converted from a $(l:bees/hive/diamond)Diamond Bee$(/l) using an opal gem.",
+            "title": "蛋白石蜂",
+            "text": "從$(l:bees/hive/diamond)鑽石蜂$(/l) 用蛋白石轉換",
             "anchor": "opal",
             "flag": "productivebees:opal"
         },
         {
             "type": "entity",
-            "name": "Opal Bee",
+            "name": "蛋白石蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:opal'}",
             "flag": "productivebees:opal"
         },
         {
             "type": "text",
-            "title": "Pearl Bee",
-            "text": "Converted from a $(l:bees/hive/diamond)Diamond Bee$(/l) using a pearl gem.",
+            "title": "珍珠蜂",
+            "text": "從$(l:bees/hive/diamond)鑽石蜂$(/l) 用珍珠轉換",
             "anchor": "pearl",
             "flag": "productivebees:pearl"
         },
         {
             "type": "entity",
-            "name": "Pearl Bee",
+            "name": "珍珠蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:pearl'}",
             "flag": "productivebees:pearl"
         },
         {
             "type": "text",
-            "title": "Peridot Bee",
-            "text": "Converted from a $(l:bees/hive/diamond)Diamond Bee$(/l) using a peridot gem.",
+            "title": "橄欖石蜂",
+            "text": "從$(l:bees/hive/diamond)鑽石蜂$(/l) 用橄欖石轉換",
             "anchor": "peridot",
             "flag": "productivebees:peridot"
         },
         {
             "type": "entity",
-            "name": "Peridot Bee",
+            "name": "橄欖石蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:peridot'}",
             "flag": "productivebees:peridot"
         },
         {
             "type": "text",
-            "title": "Phosphophyllite Bee",
-            "text": "Converted from a $(l:bees/hive/diamond)Diamond Bee$(/l) using a phosphophyllite gem.",
+            "title": "磷葉石蜂",
+            "text": "從$(l:bees/hive/diamond)鑽石蜂$(/l) 用磷葉石轉換",
             "anchor": "phosphophyllite",
             "flag": "productivebees:phosphophyllite"
         },
         {
             "type": "entity",
-            "name": "Phosphophyllite Bee",
+            "name": "磷葉石蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:phosphophyllite'}",
             "flag": "productivebees:phosphophyllite"
         },
         {
             "type": "text",
-            "title": "Pyrope Bee",
-            "text": "Converted from a $(l:bees/hive/diamond)Diamond Bee$(/l) using a pyrope gem.",
+            "title": "榴石蜂",
+            "text": "從$(l:bees/hive/diamond)鑽石蜂$(/l) 用榴石轉換",
             "anchor": "pyrope",
             "flag": "productivebees:pyrope"
         },
         {
             "type": "entity",
-            "name": "Pyrope Bee",
+            "name": "榴石蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:pyrope'}",
             "flag": "productivebees:pyrope"
         },
         {
             "type": "text",
-            "title": "Rose Quartz Bee",
-            "text": "Converted from a $(l:bees/hive/diamond)Diamond Bee$(/l) using a rose quartz gem.",
+            "title": "玫瑰色石英蜂",
+            "text": "從$(l:bees/hive/diamond)鑽石蜂$(/l) 用玫瑰色石英轉換",
             "anchor": "rose_quartz",
             "flag": "productivebees:rose_quartz"
         },
         {
             "type": "entity",
-            "name": "Rose Quartz Bee",
+            "name": "玫瑰色石英蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:rose_quartz'}",
             "flag": "productivebees:rose_quartz"
         },
         {
             "type": "text",
-            "title": "Ruby Bee",
-            "text": "Converted from a $(l:bees/hive/diamond)Diamond Bee$(/l) using a ruby gem.",
+            "title": "紅寶石蜂",
+            "text": "從$(l:bees/hive/diamond)鑽石蜂$(/l) 用紅寶石轉換",
             "anchor": "ruby",
             "flag": "productivebees:ruby"
         },
         {
             "type": "entity",
-            "name": "Ruby Bee",
+            "name": "紅寶石蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:ruby'}",
             "flag": "productivebees:ruby"
         },
         {
             "type": "text",
-            "title": "Sapphire Bee",
-            "text": "Converted from a $(l:bees/hive/diamond)Diamond Bee$(/l) using a sapphire gem.",
+            "title": "藍寶石蜂",
+            "text": "從$(l:bees/hive/diamond)鑽石蜂$(/l) 用藍寶石轉換",
             "anchor": "sapphire",
             "flag": "productivebees:sapphire"
         },
         {
             "type": "entity",
-            "name": "Sapphire Bee",
+            "name": "藍寶石蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:sapphire'}",
             "flag": "productivebees:sapphire"
         },
         {
             "type": "text",
-            "title": "Sodalite Bee",
-            "text": "Converted from a $(l:bees/hive/diamond)Diamond Bee$(/l) using a sodalite gem.",
+            "title": "方鈉石蜂",
+            "text": "從$(l:bees/hive/diamond)鑽石蜂$(/l) 用方鈉石轉換",
             "anchor": "sodalite",
             "flag": "productivebees:sodalite"
         },
         {
             "type": "entity",
-            "name": "Sodalite Bee",
+            "name": "方鈉石蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:sodalite'}",
             "flag": "productivebees:sodalite"
         },
         {
             "type": "text",
-            "title": "Spinel Bee",
-            "text": "Converted from a $(l:bees/hive/diamond)Diamond Bee$(/l) using a spinel gem.",
+            "title": "尖晶石蜂",
+            "text": "從$(l:bees/hive/diamond)鑽石蜂$(/l) 用尖晶石轉換",
             "anchor": "spinel",
             "flag": "productivebees:spinel"
         },
         {
             "type": "entity",
-            "name": "Spinel Bee",
+            "name": "尖晶石蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:spinel'}",
             "flag": "productivebees:spinel"
         },
         {
             "type": "text",
-            "title": "Sunstone Bee",
-            "text": "Converted from a $(l:bees/hive/diamond)Diamond Bee$(/l) using a sunstone gem.",
+            "title": "太陽石蜂",
+            "text": "從$(l:bees/hive/diamond)鑽石蜂$(/l) 用太陽石轉換",
             "anchor": "sunstone",
             "flag": "productivebees:sunstone"
         },
         {
             "type": "entity",
-            "name": "Sunstone Bee",
+            "name": "太陽石蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:sunstone'}",
             "flag": "productivebees:sunstone"
         },
         {
             "type": "text",
-            "title": "Tanzanite Bee",
-            "text": "Converted from a $(l:bees/hive/diamond)Diamond Bee$(/l) using a tanzanite gem.",
+            "title": "坦桑石蜂",
+            "text": "從$(l:bees/hive/diamond)鑽石蜂$(/l) 用坦桑石轉換",
             "anchor": "tanzanite",
             "flag": "productivebees:tanzanite"
         },
         {
             "type": "entity",
-            "name": "Tanzanite Bee",
+            "name": "坦桑石蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:tanzanite'}",
             "flag": "productivebees:tanzanite"
         },
         {
             "type": "text",
-            "title": "Tektite Bee",
-            "text": "Converted from a $(l:bees/hive/diamond)Diamond Bee$(/l) using a tektite gem.",
+            "title": "似曜石蜂",
+            "text": "從$(l:bees/hive/diamond)鑽石蜂$(/l) 用似曜石轉換",
             "anchor": "tektite",
             "flag": "productivebees:tektite"
         },
         {
             "type": "entity",
-            "name": "Tektite Bee",
+            "name": "似曜石蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:tektite'}",
             "flag": "productivebees:tektite"
         },
         {
             "type": "text",
-            "title": "Topaz Bee",
-            "text": "Converted from a $(l:bees/hive/diamond)Diamond Bee$(/l) using a topaz gem.",
+            "title": "黃玉蜂",
+            "text": "從$(l:bees/hive/diamond)鑽石蜂$(/l) 用黃玉轉換",
             "anchor": "topaz",
             "flag": "productivebees:topaz"
         },
         {
             "type": "entity",
-            "name": "Topaz Bee",
+            "name": "黃玉蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:topaz'}",
             "flag": "productivebees:topaz"
         },
         {
             "type": "text",
-            "title": "Tourmaline Bee",
-            "text": "Converted from a $(l:bees/hive/diamond)Diamond Bee$(/l) using a tourmaline gem.",
+            "title": "電氣石蜂",
+            "text": "從$(l:bees/hive/diamond)鑽石蜂$(/l) 用電氣石轉換",
             "anchor": "tourmaline",
             "flag": "productivebees:tourmaline"
         },
         {
             "type": "entity",
-            "name": "Tourmaline Bee",
+            "name": "電氣石蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:tourmaline'}",
             "flag": "productivebees:tourmaline"
         },
         {
             "type": "text",
-            "title": "Turquoise Bee",
-            "text": "Converted from a $(l:bees/hive/diamond)Diamond Bee$(/l) using a turquoise gem.",
+            "title": "綠松石蜂",
+            "text": "從$(l:bees/hive/diamond)鑽石蜂$(/l) 用綠松石轉換",
             "anchor": "turquoise",
             "flag": "productivebees:turquoise"
         },
         {
             "type": "entity",
-            "name": "Turquoise Bee",
+            "name": "綠松石蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:turquoise'}",
             "flag": "productivebees:turquoise"
         },
         {
             "type": "text",
-            "title": "Yellow Diamond Bee",
-            "text": "Converted from a $(l:bees/hive/diamond)Diamond Bee$(/l) using a yellow diamond gem.",
+            "title": "黃鑽石蜂",
+            "text": "從$(l:bees/hive/diamond)鑽石蜂$(/l) 用黃鑽石轉換",
             "anchor": "yellow_diamond",
             "flag": "productivebees:yellow_diamond"
         },
         {
             "type": "entity",
-            "name": "Yellow Diamond Bee",
+            "name": "黃鑽石蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:yellow_diamond'}",
             "flag": "productivebees:yellow_diamond"
         },
         {
             "type": "text",
-            "title": "Zircon Bee",
-            "text": "Converted from a $(l:bees/hive/diamond)Diamond Bee$(/l) using a zircon gem.",
+            "title": "鋯石蜂",
+            "text": "從$(l:bees/hive/diamond)鑽石蜂$(/l) 用鋯石轉換",
             "anchor": "zircon",
             "flag": "productivebees:zircon"
         },
         {
             "type": "entity",
-            "name": "Zircon Bee",
+            "name": "鋯石蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:zircon'}",
             "flag": "productivebees:zircon"
         }
