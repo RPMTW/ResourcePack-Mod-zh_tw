@@ -1,12 +1,12 @@
 {
-    "name": "Bottler",
+    "name": "裝瓶機",
     "icon": "productivebees:bottler",
     "category": "productivebees:blocks",
     "pages": [
         {
             "type": "spotlight",
             "item": "productivebees:bottler",
-            "text": "Used to fill up bottles with honey. Honey can be piped into the side and bottles put in bottler to be filled with honey.$(br2)The bottler together with a piston can be used to bottle up bees as well, see $(l:genetics/transferring)genetics page$(/l)."
+            "text": "裝瓶機用來將蜂蜜裝入瓶中。先將蜂蜜倒入機器， 然後在裝瓶機中放入玻璃瓶， 就會將蜂蜜填充至瓶中。$(br2)裝瓶機配合活塞可用來將蜜蜂塞入瓶中， 請參閱$(l:genetics/transferring)基因章節$(/l)。"
         }
     ]
 }
