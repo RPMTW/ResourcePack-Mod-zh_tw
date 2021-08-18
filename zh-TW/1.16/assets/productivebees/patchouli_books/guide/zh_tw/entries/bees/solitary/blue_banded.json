@@ -1,13 +1,13 @@
 {
-    "name": "Blue Banded Bee",
-    "icon": "productivebees:spawn_egg_blue_banded_bee",
+    "name": "青條花蜂",
+    "icon": "Andrena cineraria",
     "read_by_default": true,
     "sortnum": 2,
     "category": "productivebees:bees_solitary",
     "pages": [
         {
             "type": "text",
-            "title": "Blue Banded Bee",
+            "title": "青條花蜂",
             "text": "[Amegilla cingulata]",
             "anchor": "blue_banded"
         },
