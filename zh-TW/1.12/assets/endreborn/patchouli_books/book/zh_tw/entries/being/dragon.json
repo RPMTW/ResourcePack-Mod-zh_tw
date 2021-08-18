@@ -1,12 +1,12 @@
 {
-    "name": "Ender Dragon",
+    "name": "終界龍",
     "icon": "minecraft:dragon_egg",
     "category": "being",
     "priority": true,
     "pages": [
         {
             "type": "text",
-            "text": "A huge creature guarding the main island, but why? Who could tame or create that being?"
+            "text": "但是為什麼會有一隻守護著主島的巨型生物？但是為什麼……會是誰馴服了它或者是創造了它？"
         },
         {
             "type": "spotlight",
