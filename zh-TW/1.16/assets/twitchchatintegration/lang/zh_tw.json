@@ -21,7 +21,7 @@
     "twitchchatintegration.commands.channels.noChannels": "No channels configured. Use \"/twitch join\" to join a channel.",
     "twitchchatintegration.commands.channels.channelList": "Channels: %s",
     "twitchchatintegration.commands.channels.channelListItem": "%s (joined: %s)",
-    "twitchchatintegration.commands.join": "Joined channel %s.",
+    "twitchchatintegration.commands.join": "加入頻道%s",
     "twitchchatintegration.commands.leave": "Left channel %s.",
     "twitchchatintegration.commands.remove": "Removed channel %s.",
     "twitchchatintegration.error.read_only_chat": "You can not send messages in anonymous mode.",

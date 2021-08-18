@@ -1,0 +1,19 @@
+{
+    "name": "經驗蜂",
+    "icon": "minecraft:experience_bottle",
+    "read_by_default": true,
+    "category": "productivebees:bees_hive",
+    "flag": "productivebees:experience",
+    "pages": [
+        {
+            "type": "text",
+            "title": "經驗蜂",
+            "text": "由$(l:bees/hive/emerald)綠寶石蜂$(/l) 和$(l:bees/hive_bees#lapis)青金石蜂$(/l)配種而得。",
+            "anchor": "經驗"
+        },
+        {
+            "type": "entity",
+            "entity": "productivebees:configurable_bee{type:'productivebees:experience'}"
+        }
+    ]
+}
