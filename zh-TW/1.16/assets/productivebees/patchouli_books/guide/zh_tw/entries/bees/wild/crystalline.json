@@ -1,5 +1,5 @@
 {
-    "name": "Crystalline Bee",
+    "name": "石英蜂",
     "icon": "minecraft:quartz",
     "read_by_default": true,
     "category": "productivebees:bees_wild",
@@ -7,8 +7,8 @@
     "pages": [
         {
             "type": "text",
-            "title": "Crystalline Bee",
-            "text": "Found living in nether quartz nests in the nether. Crystalline Bees prefer pollinating something containing or made from nether quartz..",
+            "title": "石英蜂",
+            "text": "被發現生活在地獄的石英蜂巢中。石英蜂喜歡採集含有地獄石英的東西。",
             "anchor": "crystalline"
         },
         {
