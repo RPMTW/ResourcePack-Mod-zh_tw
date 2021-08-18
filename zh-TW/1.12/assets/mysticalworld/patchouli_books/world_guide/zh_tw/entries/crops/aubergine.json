@@ -1,5 +1,5 @@
 {
-  "name": "Aubergines",
+  "name": "茄子",
   "icon": "mysticalworld:aubergine",
   "category": "crops",
   "pages": [
@@ -7,14 +7,14 @@
       "type": "spotlight",
       "link_recipe": true,
       "item": "mysticalworld:aubergine_seed",
-      "text": "Aubergine seeds can be found throughout the world, wherever there is grass that can be broken."
+      "text": "茄子種子可以割草獲得。"
     },
     {
       "type": "spotlight",
       "link_recipe": true,
       "item": "mysticalworld:aubergine",
-      "text": "When harvested as a mature crop, aubergines are a tasty, delicious snack that can be used in other cuisine!",
-      "title": "Aubergine Crop"
+      "text": "成熟之後收割的茄子可以直接吃，也可以用作其他料理的食材！",
+      "title": "茄子作物"
     }
   ]
 }
