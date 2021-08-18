@@ -65,10 +65,10 @@
     "tooltip.artifacts.night_vision_goggles.name": "賦予穿戴者夜視效果",
     "tooltip.artifacts.ultimate_pendant.name": "When worn, has a chance to damage attackers, light them on fire, and strike them with lightning",
     "tooltip.artifacts.tiny_shirt.name": "Shrinks the player when worn",
-    "entity.artifacts.mimic.name": "Mimic",
+    "entity.artifacts.mimic.name": "寶箱怪",
     "entity.artifacts.hallow_star.name": "神聖之星",
     "death.attack.artifacts.hallow_star": "%s被流星擊中",
     "death.attack.artifacts.hallow_star.player": "%1$s被%2$s的流星擊中",
-    "itemGroup.artifacts.creativetab": "Artifacts",
+    "itemGroup.artifacts.creativetab": "奇異飾品",
     "dungeon.artifacts.underground_chest": "地下箱子"
 }
