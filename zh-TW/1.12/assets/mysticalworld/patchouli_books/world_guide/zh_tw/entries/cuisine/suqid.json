@@ -1,5 +1,5 @@
 {
-  "name": "Squid",
+  "name": "魷魚",
   "icon": "mysticalworld:raw_squid",
   "category": "cuisine",
   "pages": [
@@ -7,19 +7,19 @@
       "type": "spotlight",
       "link_recipe": true,
       "item": "mysticalworld:raw_squid",
-      "text": "Raw squid tentacles may be found by slaughtering $(l:creatures/squid)squid$(). While edible raw, they can also be cooked."
+      "text": "生魷魚鬚可以擊殺$(l:creatures/squid)魷魚$()獲得。可以生吃，也可以烤熟吃。"
     },
     {
       "type": "smelting",
       "recipe": "mysticalworld:raw_squid",
       "title": "Calamari",
-      "text": "The process of preparing the squid tentacles for cooking results in an ample quantity of calamari, which themselves can be combined with other ingredients for an even more spectacular and mysterious experience!"
+      "text": "收集大量的魷魚鬚來製作史詩級的料理，它將帶來絕佳的美食體驗！"
     },
     {
       "type": "crafting",
       "recipe": "mysticalworld:epic_squid",
-      "title": "Epic Squid",
-      "text": "The purple goodness of this Epic Squid cannot be denied! While the cost to craft it is certainly high, it will satisfy almost any hunger and provide a significant amount of benefits in the process. Indeed, it can be eaten at any time purely for those benefits."
+      "title": "史詩魷魚",
+      "text": "史詩魷魚散發著不可忽視的紫色光輝！雖然造價很高，但它幾乎能恢復全部的飢餓值，並帶來奇妙的效果。即使你不餓也可以吃，也能獲得效果。"
     }
   ]
 }
