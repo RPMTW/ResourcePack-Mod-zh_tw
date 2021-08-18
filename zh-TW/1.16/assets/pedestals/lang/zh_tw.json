@@ -755,7 +755,7 @@
     "item.pedestals.coin.milker.chat_fluidlabel": "mb",
     "item.pedestals.coin.milker.chat_rate": "Fluid Transfer Rate: ",
     "item.pedestals.coin.milker.chat_speed": "運行速度: ",
-    "jei.pedestals.milker.desc": "Place an Inventory Below the Pedestal for buckets, Will Milk any cows in the area around it, putting the milk buckets in the pedestal. OR If milk is a placeable liquid in your modpack, Just having the upgrade on a pedestal with NO INVENTORY 'UNDER' THE PEDESTAL, will milk cows nearby, putting the fluid in the pedestals fluid buffer.",
+    "jei.pedestals.milker.desc": "在基座下面放置存儲空間（例如儲物箱）用於存放水桶，將在周圍區域擠奶，牛奶桶會被放在基座上。",
     "item.pedestals.coin.export": "基座升級",
     "item.pedestals.coin.export.tooltip_name": "導出升級",
     "item.pedestals.coin.export.tooltip_rate": "傳輸速率: ",
