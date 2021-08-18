@@ -93,5 +93,21 @@
     "message.noserver": "Server doesn't have the mod/plugin installed",
     "message.lowerversion": "Server is on a lower version",
     "message.higherversion": "Server is on a higher version",
-    "message.delete": "Are you sure you want to delete this?"
+    "message.delete": "Are you sure you want to delete this?",
+    "menu.mpm": "More Player Models",
+    "gui.select": "Select",
+    "gui.resettoplayer": "Reset To Player",
+    "gui.player": "Player",
+    "gui.new": "新建",
+    "animation.sleep": "Sleep",
+    "animation.crawl": "Crawl",
+    "animation.hug": "Hug",
+    "animation.sit": "Sit",
+    "animation.dance": "Dance",
+    "animation.wave": "Wave",
+    "animation.wag": "Wag",
+    "animation.bow": "Bow",
+    "animation.cry": "Cry",
+    "message.animationmessage1": "This is only to change the animation/commands linked to a button.",
+    "message.animationmessage2": "To change the actual button use minecraft options -> controls"
 }
