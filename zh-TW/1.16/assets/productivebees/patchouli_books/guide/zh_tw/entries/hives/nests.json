@@ -1,16 +1,16 @@
 {
-    "name": "Nests",
+    "name": "蜂窩",
     "icon": "productivebees:oak_wood_nest",
     "category": "productivebees:hives",
     "sortnum": 1,
     "pages": [
         {
             "type": "text",
-            "text": "Nests can be found scattered around the world and will each be the home of 1 solitary bee. Nests can be picked up with the bee inside by breaking it, no need for silk touch. To clear a nest of it's bee and any eggs you simply need to craft it with itself."
+            "text": "世界各地都能發現蜂窩， 每個蜂窩只能住一隻獨居蜂。當蜂窩被破壞後， 會連同裡面的蜜蜂一起掉落， 若要清除蜂窩中的蜜蜂及蜂卵， 只要用巢穴本身再合成一次即可。"
         },
         {
             "type": "text",
-            "text": "Empty nests can attract new bees if you put one or more honey treats in them. Right click with a honey treat to start the repopulation cooldown."
+            "text": "如果您將一種或多種蜂蜜點心放入空蜂窩中，它們會吸引新蜜蜂。 右鍵點擊並添加蜂蜜，以開始重新填充的冷卻時間。"
         }
     ]
 }
