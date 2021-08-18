@@ -1,0 +1,37 @@
+{
+	"name": "Stone Tablets",
+	"icon": "ancientspellcraft:stone_tablet",
+	"category": "ancient_knowledge",
+	"sortnum": 1,
+	"advancement": "ancientspellcraft:relics",
+	"pages": [
+		{
+			"type": "text",
+			"text": "Stone tablets were written in the language of the ancients, little is known about this long-dead dialect and even fewer can decipher them. $(br) $(br) $(o)Perhaps studying them with your Sphere could help?"
+		},
+		{
+			"type": "spotlight",
+			"item": "ancientspellcraft:stone_tablet_small",
+			"text": "These are the smallest written knowledge pieces, usually the results of larger tables crumbling into fragments.",
+			"link_recipe": false
+		},
+		{
+			"type": "spotlight",
+			"item": "ancientspellcraft:stone_tablet",
+			"text": "A bit chipped, but mostly intact",
+			"link_recipe": false
+		},
+		{
+			"type": "spotlight",
+			"item": "ancientspellcraft:stone_tablet_large",
+			"text": "The large stone tablets are very rare",
+			"link_recipe": false
+		},
+		{
+			"type": "spotlight",
+			"item": "ancientspellcraft:stone_tablet_grand",
+			"text": "The largest stone tablets - and the most rare of its kind.",
+			"link_recipe": false
+		}
+	]
+}

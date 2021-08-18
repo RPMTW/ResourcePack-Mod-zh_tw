@@ -8,14 +8,14 @@
       "type": "spotlight",
       "link_recipe": true,
       "item": "mysticalworld:copper_ore",
-      "text": "Copper Ore can be found throughout the world at many different heights and with great regularity. Smelted into copper ingots, these ingots can then be used in the construction of tools."
+      "text": "銅礦石可以在世界各地的許多不同高度上找到，而且非常常見。冶煉成銅錠後，這些錠可用於製造工具。"
     },
     {
       "type": "smelting",
       "link_recipe": true,
       "recipe": "mysticalworld:copper_ore",
       "title": "銅錠",
-      "text": "Copper tools and weapons have the same mining level as iron."
+      "text": "銅製物品的等級與鐵製物品相同。"
     },
     {
       "type": "crafting",

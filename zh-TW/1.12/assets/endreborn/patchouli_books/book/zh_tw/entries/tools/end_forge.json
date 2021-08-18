@@ -1,0 +1,17 @@
+{
+    "name": "Void Forge",
+    "icon": "endreborn:block_end_forge",
+    "category": "\n-工具",
+    "advancement": "endreborn:endreborn/end_forge",
+    "priority": true,
+    "pages": [
+        {
+            "type": "text",
+            "text": "Recipes: [Essence - Blaze Powder] [Slime Ball - Magma Cream] [Endorium - Infused Endorium]"
+        },
+        {
+            "type": "crafting",
+            "recipe": "endreborn:blocks/block_end_forge"
+        }
+    ]
+}
