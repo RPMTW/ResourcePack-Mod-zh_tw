@@ -16,7 +16,7 @@
         {
             "type": "text",
             "title": "巧克力蜂",
-            "text": "通過將可可豆餵給 $(l:bees/wild/sugarbag)Sugarbag Bee$(/l) 獲得。",
+            "text": "通過將可可豆餵給 $(l:bees/wild/sugarbag)帶蜜蜜蜂$(/l) 獲得。",
             "anchor": "巧克力",
             "flag": "productivebees:chocolate"
         },
@@ -29,7 +29,7 @@
         {
             "type": "text",
             "title": "茶蜜蜂",
-            "text": "通過將一桶水餵給 $(l:bees/solitary/leafcutter)Leafcutter Bee$(/l) 獲得。",
+            "text": "通過將一桶水餵給 $(l:bees/solitary/leafcutter)切葉蜂$(/l) 獲得。",
             "anchor": "茶",
             "flag": "productivebees:tea"
         },
