@@ -7,8 +7,8 @@
     {
       "type": "animal_spawn_info",
       "animal": "狐狸",
-      "breed": "生育：使用蘋果",
-      "tame": "馴服：使用蘋果",
+      "breed": "用蘋果繁殖;",
+      "tame": "用蘋果馴服。",
       "blurb": ""
     },
     {
@@ -17,7 +17,7 @@
       "entity": "mysticalworld:entity_fox",
       "scale": "0.8",
       "offset": 0,
-      "text": "While vicious chicken & rabbit killers, they become docile when tamed!"
+      "text": "野生的狐狸是兔子和雞的殺手，但馴服後會變得溫順！"
     }
   ]
 }
