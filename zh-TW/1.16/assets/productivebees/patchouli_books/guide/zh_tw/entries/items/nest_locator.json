@@ -1,12 +1,12 @@
 {
-    "name": "Nest Locator",
+    "name": "蜂窩定位儀",
     "icon": "productivebees:nest_locator",
     "category": "productivebees:items",
     "pages": [
         {
             "type": "spotlight",
             "item": "productivebees:nest_locator",
-            "text": "Can hone in on the faint buzzing of nearby nests. Shift right click the locator on a nest or a block of the type if nest you want to find. If you want to find a sand nest you can either right click a sand nest or a sand block. Right clicking again will locate any nearby nests of that type."
+            "text": "可辨識附近蜂窩發出的微弱嗡嗡聲。拿著定位儀對著慾尋找蜂窩類型的方塊潛行並點擊滑鼠右鍵以進行設定， 例如你想找尋沙蜂窩， 則對著沙蜂窩或沙子做設定。再次點擊滑鼠右鍵就會指向附近該類型的蜂窩。"
         },
         {
             "type": "crafting",
