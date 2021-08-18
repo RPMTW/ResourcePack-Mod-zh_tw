@@ -1,5 +1,5 @@
 {
-  "name": "Lava Cat",
+  "name": "岩漿山貓",
   "icon": "minecraft:lava_bucket",
   "category": "creatures",
   "flag": "roots:lava_cat",
@@ -7,17 +7,17 @@
     {
       "type": "animal_spawn_info",
       "animal": "lava_cat",
-      "breed": "Breed: with blaze powder.",
-      "tame": "Taming: with blaze rods.",
-      "blurb": "Dousing with water will transform these felines into obsidian!"
+      "breed": "用烈焰粉繁殖;",
+      "tame": "用烈焰桿馴服。",
+      "blurb": "接觸水會使它變為黑曜石山貓！"
     },
     {
       "type": "entity",
-      "name": "Lava Cat",
+      "name": "岩漿山貓",
       "entity": "mysticalworld:entity_lava_cat",
       "scale": "0.5",
       "offset": "-0.3",
-      "text": "Likewise, a trip into lava will revert them."
+      "text": "反過來，接觸岩漿會讓它變回來！"
     }
   ]
 }
