@@ -6,12 +6,12 @@
         {
             "type": "spotlight",
             "item": "productivebees:bee_cage",
-            "text": "A bee cage can be used to capture bees for storing or for transport. To catch a bee simply right click the bee with the cage. Right click the filled cage on the ground to release the bee again.$(br2)Make sure to always keep a few cages on you when travelling in case you come across an interesting bee."
+            "text": "蜂籠用來捕捉蜜蜂， 以便存放或運送。拿著蜂籠對蜜蜂點擊滑鼠右鍵就能捕捉蜜蜂， 之後再對著地面點擊滑鼠右鍵就能將蜜蜂放出。$(br2)外出時別忘了身上準備幾個蜂籠， 說不定路上會遇到有趣的蜜蜂。"
         },
         {
             "type": "crafting",
             "recipe": "productivebees:bee_cage",
-            "text": "Easy to get early in the game"
+            "text": "遊戲初期便可輕易取得"
         }
     ]
 }
