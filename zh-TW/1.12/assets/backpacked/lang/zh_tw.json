@@ -1,6 +1,6 @@
 {
-    "item.backpacked.backpack.name": "Backpack",
+    "item.backpacked.backpack.name": "背包",
     "key.backpack": "打開背包",
-    "container.backpacked.backpack": "Backpack",
-    "backpacked.config.common.keepBackpackOnDeath": "Keep Backpack on Death"
+    "container.backpacked.backpack": "背包",
+    "backpacked.config.common.keepBackpackOnDeath": "在你死亡時，將保持背包物品"
 }
