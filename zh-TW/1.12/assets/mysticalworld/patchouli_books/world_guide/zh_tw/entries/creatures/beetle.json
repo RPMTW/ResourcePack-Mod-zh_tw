@@ -1,5 +1,5 @@
 {
-  "name": "Beetle",
+  "name": "甲蟲",
   "icon": "mysticalworld:carapace",
   "category": "creatures",
   "flag": "roots:beetle",
@@ -7,17 +7,17 @@
     {
       "type": "animal_spawn_info",
       "animal": "beetle",
-      "breed": "Breed: with melons.",
-      "tame": "Taming: with melon seeds.",
-      "blurb": "Sneak-right-clicking with an empty hand will allow you to place the beetle on your shoulder!"
+      "breed": "使用西瓜繁殖;",
+      "tame": "使用西瓜種子馴服。",
+      "blurb": "空手潛行右擊，可以將甲蟲放在肩上。"
     },
     {
       "type": "entity",
-      "name": "Beetle",
+      "name": "甲蟲",
       "entity": "mysticalworld:entity_beetle",
       "scale": "1.5",
       "offset": "-0.3",
-      "text": "Sneak-right-click again with an empty hand to put them down."
+      "text": "空手潛行右擊，可以將甲蟲放到地上。"
     }
   ]
 }
