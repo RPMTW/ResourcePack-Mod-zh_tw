@@ -4,7 +4,7 @@ const request = require("request");
 const config = require(`${process.cwd()}/config.json`)
 const compressing = require('compressing');
 const CurseForge = require("mc-curseforge-api");
-const {GetModID} = require("./Module/GetModID");
+const { GetModID } = require("./Module/GetModID");
 require('dotenv').config();
 const {
     parse,
@@ -21,7 +21,7 @@ if (!fs.existsSync(path.join(__dirname, "../assets"))) {
 
 let ModList;
 for (let k = 0; k < 1; k++) {
-    let url = process.env.ModpackListUrl;
+    let url = config.DownloadUrl;
     let stream = fs.createWriteStream(path.join("ModList.json"));
     request(url).pipe(stream).on("close", function () {
         ModList = Array(parse(fs.readFileSync("ModList.json").toString()).files)[0];
@@ -37,7 +37,7 @@ for (let k = 0; k < 1; k++) {
                     files = files.reverse();
                     files.sort(function (a, b) {
                         return Date.parse(b.timestamp) - Date.parse(a.timestamp);
-                      });
+                    });
                     let data = files[i].minecraft_versions;
                     if (data.includes(config.ver) || data.includes("1.16.4") || data.includes("1.16.3") || data.includes("1.16.2") || data.includes("1.16.1") || data.includes("1.16")) {
                         fileID = String(files[i].id);
