@@ -1,15 +1,15 @@
 {
     "entity.furantur.name": "Furantur",
-    "entity.hoarder.name": "Hoarder",
-    "entity.necromancer.name": "Necromancer",
-    "entity.illager_king.name": "Illager King",
-    "entity.enchanter.name": "Enchanter",
-    "entity.archer.name": "Archer",
-    "config.illager_tower_freq.name": "Illager Tower Frequency",
-    "config.illager_archer_tower_freq.name": "Illager Archer Tower Frequency",
-    "config.illager_centre_freq.name": "Illager Centre Frequency",
-    "gui.config.illagers_plus.title": "Illagers+ Configuration",
-    "gui.config.category.general.name": "General",
-    "gui.config.category.general.name.tooltip": "General Configuration for Illagers+",
-    "gui.config.category.general.title": "Illagers+ General Configuration"
+    "entity.hoarder.name": "收藏家",
+    "entity.necromancer.name": "死靈法師",
+    "entity.illager_king.name": "窳民之王",
+    "entity.enchanter.name": "附魔師",
+    "entity.archer.name": "弓箭手",
+    "config.illager_tower_freq.name": "窳民塔頻率",
+    "config.illager_archer_tower_freq.name": "窳民弓箭塔頻率",
+    "config.illager_centre_freq.name": "窳民中心頻率",
+    "gui.config.illagers_plus.title": "窳民+設定",
+    "gui.config.category.general.name": "一般",
+    "gui.config.category.general.name.tooltip": "窳民+的一般設定",
+    "gui.config.category.general.title": "窳民+一般設定"
 }
