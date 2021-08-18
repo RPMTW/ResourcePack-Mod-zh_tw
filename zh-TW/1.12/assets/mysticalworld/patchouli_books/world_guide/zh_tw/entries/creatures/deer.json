@@ -1,5 +1,5 @@
 {
-  "name": "Deer",
+  "name": "鹿",
   "icon": "mysticalworld:venison",
   "category": "creatures",
   "flag": "roots:deer",
@@ -7,17 +7,17 @@
     {
       "type": "animal_spawn_info",
       "animal": "deer",
-      "breed": "Breed: with wheat.",
+      "breed": "用小麥繁殖;",
       "tame": "Taming: Not tameable.",
       "blurb": ""
     },
     {
       "type": "entity",
-      "name": "Deer",
+      "name": "鹿",
       "entity": "mysticalworld:entity_deer",
       "scale": "0.6",
       "offset": "0.4",
-      "text": "These deer are a docile mix of does and stags."
+      "text": "雄鹿與雌鹿結合的溫馴的後代。"
     }
   ]
 }
