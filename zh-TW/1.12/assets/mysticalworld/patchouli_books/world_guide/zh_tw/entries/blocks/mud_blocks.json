@@ -1,5 +1,5 @@
 {
-  "name": "Mud Blocks",
+  "name": "泥巴和泥磚",
   "icon": "mysticalworld:wet_mud_block",
   "category": "blocks",
   "pages": [
@@ -7,23 +7,23 @@
       "type": "spotlight",
       "item": "mysticalworld:wet_mud_block",
       "link_recipe": true,
-      "text": "Once crafted, these can be dried out in a furnace."
+      "text": "合成出來以後，可以在熔爐中烘乾得到泥巴和泥磚。"
     },
     {
       "type": "crafting",
       "recipe": "mysticalworld:wet_mud_block",
       "recipe2": "mysticalworld:wet_mud_brick",
       "link_recipe": true,
-      "title": "Wet Mud Blocks",
-      "text": "Wet bricks are also craftable."
+      "title": "濕潤的泥塊",
+      "text": "濕潤的泥磚可以合成獲得。"
     },
     {
       "type": "smelting",
       "recipe": "mysticalworld:wet_mud_block",
       "recipe2": "mysticalworld:wet_mud_brick",
       "link_recipe": true,
-      "title": "Quicker Crafting",
-      "text": "You can smelt mud blocks & bricks in a furnace to convert them to ."
+      "title": "熔爐烘乾",
+      "text": "接下來將它們放入熔爐，燒製成泥塊和泥磚。"
     }
   ]
 }
