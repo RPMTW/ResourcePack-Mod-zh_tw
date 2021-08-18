@@ -1,5 +1,5 @@
 {
-  "name": "Mud Block Utility",
+  "name": "用泥磚做紅石元件！",
   "icon": "mysticalworld:mud_block_pressure_plate",
   "category": "blocks",
   "pages": [
@@ -7,27 +7,27 @@
       "type": "spotlight",
       "item": "mysticalworld:mud_block_pressure_plate",
       "link_recipe": true,
-      "text": "Pressure plates can be crafted of both mud block and mud bricks. As rock-based pressure plates, these primarily react to mobs."
+      "text": "用無機鹽泥塊和泥磚都可以合成對應的壓力板。$(br2)他們與石壓力板一樣只在被生物踩踏時啟動。"
     },
     {
       "type": "crafting",
       "recipe": "mysticalworld:mud_block_pressure_plate",
       "recipe2": "mysticalworld:mud_brick_pressure_plate",
       "link_recipe": true,
-      "title": "Pressure plates"
+      "title": "壓力板"
     },
     {
       "type": "spotlight",
       "item": "mysticalworld:mud_block_button",
       "link_recipe": true,
-      "text": "Buttons can be crafted out of both mud bricks and mud blocks."
+      "text": "用無機鹽泥塊和泥磚都可以合成對應的按鈕。"
     },
     {
       "type": "crafting",
       "recipe": "mysticalworld:mud_block_button",
       "recipe2": "mysticalworld:mud_brick_button",
       "link_recipe": true,
-      "title": "Buttons"
+      "title": "按鈕"
     }
   ]
 }
