@@ -7,7 +7,7 @@
       "type": "entity",
       "entity": "outvoted:wildfire",
       "scale": "0.9",
-      "text": "The first mob added to the mod, the Wildfire is a dangerous Nether mob"
+      "text": "加入模組的第一個生物，Wildfire是一個危險的地獄生物"
     },
     {
       "type": "text",
@@ -24,7 +24,7 @@
       "type": "entity",
       "entity": "minecraft:blaze{Variant:1}",
       "scale": "0.9",
-      "text": "Soul Sand Valley Blazes",
+      "text": "靈魂砂谷燃燒",
       "flag": "outvoted:wildfirevariant"
     }
   ]

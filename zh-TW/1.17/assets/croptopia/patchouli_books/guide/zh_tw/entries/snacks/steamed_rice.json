@@ -1,12 +1,12 @@
 {
   "name": "蒸飯",
   "icon": "croptopia:beef_jerky",
-  "category": "作物方城市:點心",
+  "category": "croptopia:snacks",
   "pages": [
     {
       "type": "crafting",
       "recipe": "croptopia:steamed_rice",
-      "text": "蒸飯的製作方法。"
+      "text": "蒸飯的食譜"
     }
   ]
 }

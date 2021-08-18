@@ -1,12 +1,12 @@
 {
   "name": "填餡烤鐘形青椒",
   "icon": "croptopia:stuffed_poblanos",
-  "category": "作物盛景：膳食",
+  "category": "croptopia:meals",
   "pages": [
     {
       "type": "crafting",
       "recipe": "croptopia:stuffed_poblanos",
-      "text": "食譜指南"
+      "text": "特蕾斯蛋糕的食譜"
     }
   ]
 }

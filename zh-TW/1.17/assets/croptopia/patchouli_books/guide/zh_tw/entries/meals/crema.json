@@ -1,12 +1,12 @@
 {
   "name": "咖啡脂",
   "icon": "croptopia:crema",
-  "category": "作物盛景：膳食",
+  "category": "croptopia:meals",
   "pages": [
     {
       "type": "crafting",
       "recipe": "croptopia:crema",
-      "text": "食譜指南"
+      "text": "特蕾斯蛋糕的食譜"
     }
   ]
 }

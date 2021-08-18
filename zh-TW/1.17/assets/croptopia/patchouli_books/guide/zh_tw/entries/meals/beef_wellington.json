@@ -1,12 +1,12 @@
 {
   "name": "威靈頓牛排",
   "icon": "croptopia:beef_wellington",
-  "category": "作物盛景：膳食",
+  "category": "croptopia:meals",
   "pages": [
     {
       "type": "crafting",
       "recipe": "croptopia:shaped_beef_wellington",
-      "text": "威靈頓牛肉的食譜"
+      "text": "威靈頓牛排的食譜"
     }
   ]
 }

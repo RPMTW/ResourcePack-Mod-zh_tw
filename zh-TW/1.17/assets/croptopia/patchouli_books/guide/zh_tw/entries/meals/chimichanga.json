@@ -1,12 +1,12 @@
 {
   "name": "香辣餡炸玉米餅",
   "icon": "croptopia:chimichanga",
-  "category": "作物盛景：膳食",
+  "category": "croptopia:meals",
   "pages": [
     {
       "type": "crafting",
       "recipe": "croptopia:chimichanga",
-      "text": "食譜指南"
+      "text": "特蕾斯蛋糕的食譜"
     }
   ]
 }

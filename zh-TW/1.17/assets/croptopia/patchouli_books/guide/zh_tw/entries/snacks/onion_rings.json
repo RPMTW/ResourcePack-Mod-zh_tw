@@ -1,12 +1,12 @@
 {
   "name": "洋蔥圈",
   "icon": "croptopia:onion_rings",
-  "category": "作物方城市:點心",
+  "category": "croptopia:snacks",
   "pages": [
     {
       "type": "crafting",
       "recipe": "croptopia:onion_rings",
-      "text": "製作洋蔥圈的食譜。"
+      "text": "洋蔥圈的食譜"
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
   "name": "焦糖",
   "icon": "croptopia:caramel",
-  "category": "作物盛景：成分",
+  "category": "croptopia:ingredients",
   "pages": [
     {
-      "type": "熔煉",
+      "type": "smelting",
       "recipe": "croptopia:caramel",
       "text": "焦糖的製作方法"
     }

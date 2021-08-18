@@ -1,12 +1,12 @@
 {
   "name": "爆米花",
   "icon": "croptopia:popcorn",
-  "category": "作物方城市:點心",
+  "category": "croptopia:snacks",
   "pages": [
     {
-      "type": "熔煉",
+      "type": "smelting",
       "recipe": "croptopia:popcorn",
-      "text": "製作爆米花的食譜。"
+      "text": "爆米花的食譜"
     }
   ]
 }

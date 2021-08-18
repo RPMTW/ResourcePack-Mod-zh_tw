@@ -1,12 +1,12 @@
 {
   "name": "啤酒",
   "icon": "croptopia:beer",
-  "category": "作物盛景：飲料",
+  "category": "croptopia:drinks",
   "pages": [
     {
       "type": "crafting",
       "recipe": "croptopia:beer",
-      "text": "啤酒配方"
+      "text": "啤酒的食譜"
     }
   ]
 }
