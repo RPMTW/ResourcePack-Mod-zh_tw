@@ -1,13 +1,13 @@
 {
-    "name": "Slimy Bee",
+    "name": "史萊姆蜂",
     "icon": "minecraft:slime_ball",
     "read_by_default": true,
     "category": "productivebees:bees_wild",
     "pages": [
         {
             "type": "text",
-            "title": "Slimy Bee",
-            "text": "Found living in slimy nests in swampy biomes. Slimy Bees prefer pollinating flowers found in swampy areas, but will also make do with flowers from other biomes..",
+            "title": "史萊姆蜂",
+            "text": "居住於沼澤生態域的史萊姆蜂窩。喜歡採集沼澤地區的花朵，但也會在其它生態域採集。",
             "anchor": "slimy"
         },
         {
