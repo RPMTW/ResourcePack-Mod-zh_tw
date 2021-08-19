@@ -5,16 +5,16 @@ replaymod.api.parammissing=缺少所需的參數： %1$s
 replaymod.api.invalidvalue=參數%1$s的無效值 - 可能的值：%2$s。
 replaymod.api.invalidlogin=提供無效的登入數據
 replaymod.api.invalidauthkey=提供無效的認證金鑰
-replaymod.api.invalidfile=這個檔案是無效的 replaymod.api.nofilesuploaded=沒有上傳檔案 replaymod.api.filetoobig=上傳的檔案太大。 考慮在ReplayMod.com上購買進階版。
+replaymod.api.fileduplicate=此檔案已被上傳 replaymod.api.nofilesuploaded=沒有上傳檔案 replaymod.api.filetoobig=上傳的檔案太大。 考慮在ReplayMod.com上購買進階版。
 replaymod.api.invalidcategory=無效的檔案類別
-replaymod.api.fileduplicate=此檔案已被上傳
+replaymod.api.alreadyrated=您已經對這個檔案進行了評分
 replaymod.api.filenoexist=此檔案不存在 replaymod.api.filetoobig=上傳的檔案太大。 考慮在ReplayMod.com上購買進階版。
 replaymod.api.alreadyrated=您已經對這個檔案進行了評分
 replaymod.api.usernoexist=該使用者不存在
 replaymod.category=種類
 replaymod.gui.upload.title=上傳檔案
 replaymod.api.toomanyvalues=傳遞給%1$s的值太多
-replaymod.api.noparameters=至少需要一個參數。 參數：%1$s 參數：%1$s 參數：%1$s 參數：%1$s 參數：%1$s
+replaymod.api.noparameters=至少需要一個參數。 參數：%1$s 參數：%1$s 參數：%1$s 參數：%1$s 參數：%1$s 參數：%1$s
 replaymod.api.invalidfilename=檔案名稱必須在5到30個字元之間。
 replaymod.api.usernameexists=這個使用者名已經被占用了。
 replaymod.api.mailexists=該Email地址已經與列一個帳號綁定。
@@ -22,7 +22,7 @@ replaymod.api.invalidmail=無效的電子郵件地址。
 replaymod.api.nopermissions=你沒有權限這樣做。
 replaymod.api.authfailed=對Minecraft伺服器的身份驗證失敗。
 replaymod.api.mcuserexists=一個ReplayMod帳號已經和這個Minecraft帳號連結了。
-replaymod.gui.upload.success=成功上傳檔案
+replaymod.api.invalidfile=這個檔案是無效的 replaymod.api.nofilesuploaded=沒有上傳檔案 replaymod.api.filetoobig=上傳的檔案太大。 考慮在ReplayMod.com上購買進階版。
 replaymod.api.usernametoolong=使用者名稱過長
 replaymod.api.descriptiontoolong=描述過長
 replaymod.api.passwordlength=密碼必須在5到1024個字元之間。
@@ -111,7 +111,7 @@ replaymod.gui.ytuploadprogress.auth=[1/4] 授權
 replaymod.gui.ytuploadprogress.prepare_video=[2/4] 準備影片: %%d%%%%
 replaymod.gui.ytuploadprogress.done=完成:%s
 replaymod.gui.ytuploadprogress.cleanup=[4/4] 清理數據
-replaymod.gui.download=下載
+replaymod.gui.center.top.downloaded=下載
 replaymod.gui.titleempty=標題不能空白
 replaymod.gui.videothumbnailtoolarge=縮圖大小大於 2MB
 replaymod.gui.videothumbnailformat=縮圖必須是 JPEG 或者 PNG 格式
@@ -179,9 +179,9 @@ replaymod.gui.viewer.replayfolder=開啟回放影片資料夾...
 replaymod.gui.viewer.bulkrender=渲染 %1$d 影片
 
 replaymod.gui.viewer.delete.linea=你確定要刪除此回放影片嗎?
-replaymod.gui.viewer.delete.failed1=你的作業系統不允許刪除此重播影片。 這是 這是 這是
-replaymod.gui.viewer.delete.failed2=我們對此幫不上忙。 你必須自己處理。 你必須自己處理。 你必須自己處理。
-replaymod.gui.viewer.delete.lineb='%1$s' 將永遠刪除！ (非常久！) (非常久！) (非常久！)
+replaymod.gui.viewer.delete.failed1=你的作業系統不允許刪除此重播影片。 這是 這是 這是 這是
+replaymod.gui.viewer.delete.failed2=我們對此幫不上忙。 你必須自己處理。 你必須自己處理。 你必須自己處理。 你必須自己處理。
+replaymod.gui.viewer.delete.lineb='%1$s' 將永遠刪除！ (非常久！) (非常久！) (非常久！) (非常久！)
 
 replaymod.gui.replaysaving.title=儲存回放影片檔案...
 replaymod.gui.viewer.download.message=正在下載 "%1$s" 中，請稍後。
@@ -195,7 +195,7 @@ replaymod.gui.login.noacc=還沒有帳號嗎?
 replaymod.gui.center.logoutcallback=請問您真的要登出嗎？
 replaymod.gui.center.top.recent=最近
 replaymod.gui.center.top.best=最佳
-replaymod.gui.center.top.downloaded=下載
+replaymod.gui.download=下載
 replaymod.gui.center.favorite=喜歡
 replaymod.gui.download=下載
 
@@ -272,8 +272,8 @@ replaymod.gui.rendering.cancel=取消渲染
 replaymod.gui.cancelrender.message=Are you sure that you want to cancel the current rendering process?
 #Saving Replay GUI
 replaymod.gui.viewer.download.title=下載回放影片檔案中...
+replaymod.gui.replaymodified.message=此回放影片已被修改。 你是否要保存更改？ replaymod.gui.replaymodified.no=放棄變更 你是否要保存更改？
 replaymod.gui.replaymodified.yes=儲存修改後的回放影片 replaymod.gui.replaymodified.no=放棄變更 你是否要保存更改？
-replaymod.gui.replaymodified.message=此回放影片已被修改。 你是否要保存更改？
 replaymod.gui.rendering.resume=恢復渲染
 replaymod.gui.replaymodified.warning1=A Replay named "%1$s" already exists.
 replaymod.gui.replaymodified.warning2=Are you sure you want to replace it?
@@ -440,7 +440,7 @@ replaymod.gui.renderqueue.renderall=Render All
 replaymod.gui.renderqueue.renderselected=Render Selected
 
 #Rendering GUI
-replaymod.gui.advancedscreenshots.resolution=解析度
+replaymod.gui.rendering.cancel=取消渲染
 replaymod.gui.rendering.pause=暫停渲染
 replaymod.gui.rendering.timetaken=渲染時間
 replaymod.title=重現記錄 模組
@@ -452,7 +452,7 @@ replaymod.gui.rendering.timeleft=Time Left
 
 #Render Errors
 replaymod.gui.rendering.error.ffmpeglog=FFmpeg 輸出:
-replaymod.gui.rendering.error.message=如果要渲染影片，你需要安裝ffmpeg。 http://ffmpeg.org http://ffmpeg.org http://ffmpeg.org
+replaymod.gui.rendering.error.message=如果要渲染影片，你需要安裝ffmpeg。 http://ffmpeg.org http://ffmpeg.org http://ffmpeg.org http://ffmpeg.org
 replaymod.gui.modwarning.message2=與此回放影片之間可能存在不相容。
 replaymod.gui.rendering.error.ffmpegargs.1=It seems like you have modified the Command Line Arguments.
 replaymod.gui.rendering.error.ffmpegargs.2=Do you want to reset them to the defaults and try again?
@@ -500,7 +500,7 @@ replaymod.gui.objects.properties.opacity=不透明度
 replaymod.gui.objects.defaultname=新增物件
 replaymod.gui.objects.empty=沒有新增物件
 replaymod.title=重現記錄 模組
-replaymod.gui.modwarning.version=不同的模組版本
+replaymod.title=重現記錄 模組
 
 #Errors
 replaymod.error.unknownrestriction1=你目前的版本無法播放此回放影片。
@@ -512,12 +512,12 @@ replaymod.error.negativetime3=失效的部分將以紅色標記。
 #Replay Mod Incompatibility Warning
 replaymod.gui.modwarning.title=檢測到不相容問題
 replaymod.gui.modwarning.message1=已偵測到你目前的Minecraft版本
-replaymod.gui.modwarning.message3=載入這個回放影片可能會導致錯誤或崩潰。
+replaymod.gui.modwarning.version=不同的模組版本
 replaymod.gui.modwarning.missing=缺少的模組
 replaymod.gui.modwarning.name=模組名稱:
 replaymod.gui.modwarning.id=模組ID:
+replaymod.gui.modwarning.missing=缺少的模組 replaymod.gui.ingame.menu.zoomout=縮小 replaymod.gui.upload.nothumbnail=缺少影片縮圖。 請使用 %1$s 按鍵在回放影片中建立縮圖。
 replaymod.gui.advancedscreenshots.create=截圖
-replaymod.gui.advancedscreenshots.finished.upload.veer=上傳至VeeR.tv
 replaymod.gui.modwarning.version.expected=Expected
 replaymod.gui.modwarning.version.found=Found
 
@@ -532,7 +532,7 @@ replaymod.gui.offeropeneye7=Clicking Yes will download OpenEye and place it in y
 replaymod.gui.offeropeneye8=It will then be active the next time you start Minecraft.
 
 #Advanced Screenshots Gui
-replaymod.gui.advancedscreenshots.finished.showfile=顯示磁碟上的檔案
+replaymod.gui.advancedscreenshots.finished.upload.veer=上傳至VeeR.tv
 replaymod.gui.advancedscreenshots.finished.description=你成功建立了一張截圖！
 replaymod.gui.register.confirmpw=確認密碼
 
