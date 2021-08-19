@@ -1,13 +1,13 @@
 {
-    "name": "Ender Bee",
+    "name": "終界蜂",
     "icon": "minecraft:ender_pearl",
     "read_by_default": true,
     "category": "productivebees:bees_wild",
     "pages": [
         {
             "type": "text",
-            "title": "Ender Bee",
-            "text": "Found living in end stone nests on end islands. Ender Bees prefer pollinating the locally flora of chorus plants.",
+            "title": "終界蜂",
+            "text": "居住於終界小島上的終界石蜂窩， 喜歡採集當地的歌萊枝。",
             "anchor": "ender"
         },
         {
