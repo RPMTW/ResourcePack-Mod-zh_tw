@@ -17,12 +17,19 @@ jobs:
         with:
           files: zh-TW/1.17 Add-on/1.17/
           dest: RPMTW-1.17.zip
+      - id: set_var
+        run: |
+          content=`cat ./Commits.json`
+          content="${content//'%'/'%25'}"
+          content="${content//$'\n'/'%0A'}"
+          content="${content//$'\r'/'%0D'}"
+          echo "::set-output name=json::$content"
       - name: "提交檔案"
         run: |
-          echo "${{toJSON(github.event)}}" >> Commits.txt
+          echo "${{format('{{ {0} , {1} }}', {{steps.set_var.outputs.json}},{{toJSON(github.event)}})}}" > Commits.json
           git config --global user.email "rpmtw666@gmail.com.com"
           git config --global user.name "翻譯包更新機器人"
-          git add ./Commits.txt
+          git add ./Commits.json
           git add ./RPMTW-1.17.zip
           git commit -m "更新翻譯包"
         
