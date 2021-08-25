@@ -46,7 +46,7 @@
   "sodium.options.enable_memory_tracing.name": "啟用記憶體監視",
   "sodium.options.enable_memory_tracing.tooltip": "除錯功能。如果啟用，堆棧痕跡將與記憶體分配一起被收集，以幫助在偵測到記憶體洩漏時改進診斷資訊。",
   "sodium.options.performance_impact_string": " 效能影響：%s",
-  "sodium.options.buttons.undo": "撤銷",
+  "sodium.options.buttons.undo": "復原",
   "sodium.options.buttons.apply": "套用",
   "sodium.options.buttons.close": "關閉",
   "sodium.options.buttons.donate": "給我買杯咖啡！"
