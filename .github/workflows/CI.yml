@@ -19,7 +19,7 @@ jobs:
           dest: RPMTW-1.17.zip
       - name: "提交檔案"
         run: |
-          echo "${{fromJson(github.event)}}" >> Commits.txt
+          echo "${{toJSON(github.event)}}" >> Commits.txt
           git config --global user.email "rpmtw666@gmail.com.com"
           git config --global user.name "翻譯包更新機器人"
           git add ./Commits.txt
