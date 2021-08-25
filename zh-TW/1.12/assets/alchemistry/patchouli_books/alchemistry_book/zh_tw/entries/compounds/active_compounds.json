@@ -1,35 +1,35 @@
 {
   "name": "活性化合物表",
-  "icon": "煉金術:化合物:54",
-  "category": "化合物_類別",
+  "icon": "alchemistry:compound:54",
+  "category": "compounds_category",
   "pages": [
     {
       "type": "spotlight",
-      "item": "煉金術:化合物:54",
+      "item": "alchemistry:compound:54",
       "title": "氰化鉀",
       "text": "劇毒，不可食用!"
     },
     {
       "type": "spotlight",
-      "item": "煉金術:化合物:21",
+      "item": "alchemistry:compound:21",
       "title": "賽洛西賓",
       "text": "給予使用者夜視、緩速及對大自然細節的欣賞力"
     },
     {
       "type": "spotlight",
-      "item": "煉金術:化合物:58",
+      "item": "alchemistry:compound:58",
       "title": "青黴素",
       "text": "使用後清除所有狀態效果，並回復少量生命值"
     },
     {
       "type": "spotlight",
-      "item": "煉金術:化合物:55",
+      "item": "alchemistry:compound:55",
       "title": "腎上腺素",
       "text": "使用後可獲得夜視及加速效果"
     },
     {
       "type": "spotlight",
-      "item": "煉金術:化合物:59",
+      "item": "alchemistry:compound:59",
       "title": "咖啡因",
       "text": "如同腎上腺素，使用後可獲得夜視及加速效果"
     },
@@ -41,7 +41,7 @@
     },
     {
       "type": "spotlight",
-      "item": "煉金術:化合物:57",
+      "item": "alchemistry:compound:57",
       "title": "乙醯水楊酸",
       "text": "使用後可治療2.5顆心"
     }
