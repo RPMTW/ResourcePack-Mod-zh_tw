@@ -4,7 +4,11 @@ on:
    schedule:
    - cron: "*/60 0 * * *" #每天執行一次
    workflow_dispatch:
-
+   push:
+    branches: [  Original ]
+    paths:
+    - '.github/workflows/**' 
+    
 jobs:
   Update:
     runs-on: ubuntu-latest
