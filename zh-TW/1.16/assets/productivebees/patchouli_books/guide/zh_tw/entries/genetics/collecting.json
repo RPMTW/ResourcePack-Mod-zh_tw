@@ -1,15 +1,15 @@
 {
-    "name": "Collecting Genes",
+    "name": "收集基因",
     "icon": "productivebees:gene",
     "category": "productivebees:genetics",
     "pages": [
         {
             "type": "text",
-            "text": "The bottler together with a piston can be used to bottle up bees. Place a bee in the middle and pull the lever. Make sure the bottler has empty bottles inside. Throw the bottled bee in a centrifuge to separate the useful stuff from the junk."
+            "text": "將活塞安置在裝瓶機的上方， 並在裝瓶機內準備好玻璃瓶， 然後將蜜蜂放在活塞與裝瓶機之間， 同時拉下控制桿， 就可將蜜蜂塞進瓶中 ！$(br)將瓶中的蜜蜂樣本放入分離機以分離出有用的東西。"
         },
         {
             "type": "multiblock",
-            "name": "Bee Bottler",
+            "name": "裝瓶機",
             "multiblock": {
                 "mapping": {
                     "P": "minecraft:piston[facing=down]",
