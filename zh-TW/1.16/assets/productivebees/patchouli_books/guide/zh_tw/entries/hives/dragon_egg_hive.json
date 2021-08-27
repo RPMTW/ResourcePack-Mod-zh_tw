@@ -1,5 +1,5 @@
 {
-    "name": "Dragon Egg Hive",
+    "name": "龍蛋蜂箱",
     "icon": "productivebees:dragon_egg_hive",
     "category": "productivebees:hives",
     "sortnum": 4,
@@ -7,16 +7,16 @@
         {
             "type": "spotlight",
             "item": "productivebees:dragon_egg_hive",
-            "text": "A special hive made for Draconic bees that allows the user to harvest the otherwise hard to obtain draconic combs. Naturally Draconic bees live in obsidian nests, but will also live inside a hollowed out dragon egg."
+            "text": "為龍族蜂製作的特殊蜂巢，可讓用戶收穫原本難以獲得的龍蜂蜂巢。 龍蜂自然生活在黑曜石巢穴中，但也會生活在挖空的龍蛋中。"
         },
         {
             "type": "crafting",
             "recipe": "productivebees:hives/dragon_egg_hive",
-            "text": "You can make a fulfilling omelet with the leftovers"
+            "text": "你可以用剩菜做一個令人滿意的煎蛋捲"
         },
         {
             "type": "text",
-            "text": "Draconic bees living in a Dragon Egg Hive operating in the End, do not need any flowering as they are absorbing Draconic essence from the air. While operating in any other location, the Draconic bees must have another pollination source.$(br2)Dragon Egg Hives do not support upgrades"
+            "text": "生活在末地的龍蛋蜂箱中的龍族蜂不需要花，因為它們從空氣中吸收龍之精華。 在任何其他地點活動時，龍族蜂必須有另一個授粉來源。$(br2)龍蛋蜂巢不支持升級"
         }
     ]
 }
