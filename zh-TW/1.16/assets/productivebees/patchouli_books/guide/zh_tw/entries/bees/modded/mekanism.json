@@ -1,5 +1,5 @@
 {
-    "name": "Mekanism",
+    "name": "通用機械",
     "icon": "mekanism:energy_tablet",
     "read_by_default": true,
     "sortnum": 8,
@@ -8,7 +8,7 @@
     "pages": [
         {
             "type": "text",
-            "text": "Bees for Mekanism materials. Only special material bees are shown here, for common materials like copper and tin go to the $(l:bees/modded/ingot_bees)list of ingot bees$(/l)"
+            "text": "專用於Mekanism模組金屬的蜜蜂。僅顯示於特殊金屬的蜜蜂，對於普通的金屬像銅礦和錫礦請看$(l:bees/modded/ingot_bees)所有金屬錠蜜蜂列表$(/l)"
         },
         {
             "type": "empty",
@@ -16,40 +16,40 @@
         },
         {
             "type": "text",
-            "title": "Osmium Bee",
-            "text": "Bred from an $(l:bees/hive/iron)Iron Bee$(/l) and a $(l:bees/solitary/neon_cuckoo)Neon Cuckoo Bee$(/l).$(br)Required mod: Mekanism",
-            "anchor": "osmium",
+            "title": "鋨礦蜂",
+            "text": "由$(l:bees/hive/iron)鐵礦蜂$(/l)和$(l:bees/solitary/neon_cuckoo)霓虹杜鵑蜂$(/l)配種而得。$(br)需安裝模組： Mekanism",
+            "anchor": "鋨",
             "flag": "productivebees:osmium"
         },
         {
             "type": "entity",
-            "name": "Osmium Bee",
+            "name": "鋨礦蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:osmium'}",
             "flag": "productivebees:osmium"
         },
         {
             "type": "text",
-            "title": "Refined Glowstone Bee",
-            "text": "Bred from an $(l:bees/modded/mekanism#osmium)Osmium Bee$(/l) and a $(l:bees/wild/glowing)Glowing Bee$(/l).$(br)Required mod: Mekanism",
-            "anchor": "refined_glowstone",
+            "title": "強化螢光石蜂",
+            "text": "由$(l:bees/modded/mekanism#osmium)鋨礦蜂$(/l)和$(l:bees/wild/glowing)螢光石蜂$(/l)配種而得。$(br)需安裝模組： Mekanism",
+            "anchor": "強化螢光石",
             "flag": "productivebees:refined_glowstone"
         },
         {
             "type": "entity",
-            "name": "Refined Glowstone Bee",
+            "name": "強化螢光石蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:refined_glowstone'}",
             "flag": "productivebees:refined_glowstone"
         },
         {
             "type": "text",
-            "title": "Refined Obsidian Bee",
-            "text": "Bred from an $(l:bees/modded/mekanism#osmium)Osmium Bee$(/l) and an $(l:bees/hive/obsidian)Obsidian Bee$(/l).$(br)Required mod: Mekanism",
+            "title": "強化黑曜石蜂",
+            "text": "由$(l:bees/modded/mekanism#osmium)鋨礦蜂$(/l)和$(l:bees/hive/obsidian)黑曜石蜂$(/l)配種而得。$(br)需安裝模組： Mekanism",
             "anchor": "refined_obsidian",
             "flag": "productivebees:refined_obsidian"
         },
         {
             "type": "entity",
-            "name": "Refined Obsidian Bee",
+            "name": "強化黑曜石蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:refined_obsidian'}",
             "flag": "productivebees:refined_obsidian"
         }
