@@ -17,7 +17,7 @@
         {
             "type": "text",
             "title": "魔力鋼蜂",
-            "text": "這個蜜蜂不能被配種而得。其生怪蛋製作於$(l:bees/hive/#iron)鐵蜜蜂$(/l)生怪蛋在魔力池裡。",
+            "text": "這個蜜蜂不能被配種而得。其生怪蛋製作從$(l:bees/hive/#iron)鐵蜜蜂$(/l)生怪蛋在魔力池裡使用。",
             "anchor": "魔力鋼",
             "flag": "productivebees:manasteel"
         },
@@ -30,7 +30,7 @@
         {
             "type": "text",
             "title": "泰拉鋼蜂",
-            "text": "這個蜜蜂不能配種而得。其生怪蛋製作於$(l:bees/modded/botania#manasteel)魔力鋼蜂$(/l)生怪蛋用於注魔祭壇。",
+            "text": "這個蜜蜂不能配種而得。其生怪蛋製作從$(l:bees/modded/botania#manasteel)魔力鋼蜂$(/l)生怪蛋在注魔祭壇使用。",
             "anchor": "泰拉鋼",
             "flag": "productivebees:terrasteel"
         },
@@ -43,7 +43,7 @@
         {
             "type": "text",
             "title": "源質鋼蜂",
-            "text": "這個蜜蜂不能配種而得。其生怪蛋製作於$(l:bees/modded/botania#manasteel)魔力鋼蜂$(/l)生怪蛋用於注魔祭壇。",
+            "text": "這個蜜蜂不能配種而得。其生怪蛋製作從$(l:bees/modded/botania#manasteel)魔力鋼蜂$(/l)生怪蛋在注魔祭壇使用。",
             "anchor": "源質鋼",
             "flag": "productivebees:elementium"
         },
