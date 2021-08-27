@@ -5,7 +5,7 @@ on:
    - cron: "*/60 0 * * *" #每天執行一次
    workflow_dispatch:
    push:
-    branches: [  Original ]
+    branches: [ Original ]
     paths:
     - '.github/workflows/**' 
     
