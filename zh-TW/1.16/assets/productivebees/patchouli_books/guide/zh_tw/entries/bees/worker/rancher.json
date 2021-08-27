@@ -1,5 +1,5 @@
 {
-    "name": "Rancher Bee",
+    "name": "牧工蜂",
     "icon": "minecraft:milk_bucket",
     "read_by_default": true,
     "sortnum": 2,
@@ -7,8 +7,8 @@
     "pages": [
         {
             "type": "text",
-            "title": "Rancher Bee",
-            "text": "Will milk nearby cows, sheep or llamas to create milky combs in its hive.$(br2)Many cows were harmed in the making of this bee."
+            "title": "牧工蜂",
+            "text": "會為附近的奶牛、綿羊或羊駝擠奶，在其蜂巢中形成乳白色的蜂巢。$(br2)許多牛在製造這種蜜蜂時受到傷害。"
         },
         {
             "type": "entity",
