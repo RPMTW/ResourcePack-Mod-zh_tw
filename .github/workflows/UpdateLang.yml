@@ -1,0 +1,37 @@
+name: UpdateLang
+ 
+on:
+   schedule:
+   - cron: "*/60 0 * * *" #每天執行一次
+   workflow_dispatch:
+   branches:
+   - 1.16
+   
+jobs:
+  Update:
+    runs-on: ubuntu-latest
+        
+    steps:
+    - uses: actions/checkout@v2
+    - name: Use Node.js 15
+      uses: actions/setup-node@v2
+      with:
+        node-version: "15"
+    - name: "更新語系檔案"
+      run: |
+          cd 1.16/Spider
+          npm install
+          node 1.16/Spider/UpdateLang.js
+        
+
+    - name: "提交檔案"
+      run: |
+          git config --global user.email "rpmtw666@gmail.com.com"
+          git add ./1.16/assets
+          git commit -m "更新原始語系檔案"
+        
+    - name: "推送變更"
+      uses: ad-m/github-push-action@master
+      with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
