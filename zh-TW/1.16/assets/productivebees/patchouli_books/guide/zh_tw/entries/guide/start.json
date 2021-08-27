@@ -5,23 +5,23 @@
     "pages": [
         {
             "type": "text",
-            "text": "Productive Bees builds on top of vanilla bee farming. Some understanding of the vanilla system is assumed in this guide."
+            "text": "生產蜜蜂模組是建立在原版的蜜蜂養殖上， 本手冊假定讀者對原版的蜜蜂系統已有一些了解。"
         },
         {
             "type": "text",
-            "text": "First thing you need to find is a vanilla bee nest to get some honey bottles and honeycombs. The honey bottles are needed to craft Bee Cages which makes it muc easier to transport bees to your home.."
+            "text": "首先你必須找到原版的蜂巢以獲取一些蜂蜜瓶及蜂巢片。蜂蜜瓶是製作蜂籠的必需品， 它可讓你輕鬆的捕捉蜜蜂帶回家。"
         },
         {
             "type": "text",
-            "text": "Once you've collected enough honeycombs, build yourself an advanced beehive and an expansion box. The advanced beehive allows you to look inside and keep an eye on your bees and what they produce."
+            "text": "一旦收集足夠的蜂巢， 你就可以建造高級蜂箱和擴充箱。高級蜂箱可以讓你看見內部， 以關注你的蜜蜂及其產物。"
         },
         {
             "type": "text",
-            "text": "Next you will need to collect different bees to start breeding. In the overworld you have most likely seen a lot of different bees flying around, these are solitary bees and live in nests found around the level."
+            "text": "接下來你需要收集各種蜜蜂以進行配種。你在主世界看到飛來飛去的蜜蜂， 大部分都是住在世界各地蜂巢中的獨居蜂。"
         },
         {
             "type": "text",
-            "text": "Solitary bees will not live in hives and do not produce anything, but are needed for breeding. Some bees can only be found in other dimensions. Use JEI to look up the breeding recipes so you know which bees you need to find. If the bees are not showing in JEI, run the /reload command."
+            "text": "獨居蜂不會住在蜂箱內， 也不會生產任何東西， 但是需要用牠們來配種。有些蜜蜂只能在其它維度中找到。可利用 JEI 來查詢配種方式， 這樣才知道你需要找到哪種蜜蜂。如果蜜蜂未顯示於 JEI， 請執行 /reload 指令。"
         }
     ]
 }
