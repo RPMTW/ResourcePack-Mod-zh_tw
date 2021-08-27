@@ -15,14 +15,14 @@ jobs:
       uses: actions/setup-node@v2
       with:
         node-version: "15"
-      - name: "更新語系檔案"
+    - name: "更新語系檔案"
         run: |
-        cd 1.16/Spider
-        npm install
-        node 1.16/Spider/UpdateLang.js
+          cd 1.16/Spider
+          npm install
+          node 1.16/Spider/UpdateLang.js
         
 
-      - name: "提交檔案"
+    - name: "提交檔案"
         run: |
           git config --global user.email "rpmtw666@gmail.com.com"
           git add ./1.16/assets
