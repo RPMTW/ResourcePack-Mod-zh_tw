@@ -9,10 +9,9 @@ let CurseForgeIndex = parse(fs.readFileSync(`${process.cwd()}/../CurseForgeIndex
 
 var keys = Object.keys(CurseForgeIndex);
 
-for await(let CurseID of keys) {
+for await(CurseID of keys) {
     DownloadModByCurseID(CurseID);
 }
-
 
 function DownloadModByCurseID(ID) {
     CurseForge.getModFiles(Number(ID)).then((files) => {
