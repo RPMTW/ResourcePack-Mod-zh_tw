@@ -1,49 +1,49 @@
 {
-    "name": "Bee Attributes",
+    "name": "蜜蜂能力",
     "icon": "productivebees:gene",
     "category": "productivebees:genetics",
     "pages": [
         {
             "type": "text",
-            "text": "Bee attributes can be transferred from one bee to another by putting the isolated gene on a honey treat and feeding it to the bee. $(br)See the page on $(l:genetics/collecting#crystalline)collecting genes$(/l)."
+            "text": "可將蜜蜂的屬性轉移至另一隻蜜蜂上。$(br)請參見《$(l:genetics/collecting#crystalline)收集基因$(/l)》章節。"
         },
         {
             "type": "text",
-            "title": "Productivity",
-            "text": "Bees with higher level of productivity will produce more combs per trip.$(br2)Levels are:$(br)Normal$(br)Medium$(br)High$(br)Very High"
+            "title": "產能",
+            "text": "較高產能的蜜蜂每次採集都能生產較多蜂巢。$(br2)產能分成：$(br)一般$(br)中$(br)高$(br)非常高"
         },
         {
             "type": "text",
-            "title": "Weather Tolerance",
-            "text": "Normally bees will retreat to the safety of their hive during rain and thunderstorms. Bees can become tolerant to harsh weather conditions by leaving them leashed outside during bad weather. Beware though that they have a risk of taking damage and dying until they become accustomed so keep an eye on them and honey treats on hand."
+            "title": "天氣抗性",
+            "text": "通常在雨天或暴風雨時， 蜜蜂會躲回牠們安全的蜂箱。在惡劣的天氣中將蜜蜂拴在戶外， 可訓練其對天氣的耐受性。在牠們習慣之前， 有可能會受傷甚至死亡， 所以注意最好保持手上拿著蜂蜜點心。"
         },
         {
             "type": "text",
-            "text": "Levels are:$(br)None - can only work in clear weather$(br)Rain - can work during rain$(br)Any - can work in any weather"
+            "text": "等級分成：$(br)無 - 只能在晴天工作$(br)雨天 - 只能在雨天工作$(br)任何 - 可在各種天氣下工作"
         },
         {
             "type": "text",
-            "title": "Beehavior",
-            "text": "Levels are:$(br)Diurnal - works only during daytime$(br)Nocturnal - works only during nighttime$(br)Metaturnal - works all day and night"
+            "title": "習性",
+            "text": "習性分成：$(br)晝行性 - 只在白天工作$(br)夜行性 - 只在夜晚工作$(br)全天 - 不論白天夜晚都工作"
         },
         {
             "type": "text",
-            "text": "Levels are:$(br)Diurnal - works only during daytime$(br)Nocturnal - works only during nighttime$(br)Metaturnal - works all day and night"
+            "text": "習性分成：$(br)晝行性 - 只在白天工作$(br)夜行性 - 只在夜晚工作$(br)全天 - 不論白天夜晚都工作"
         },
         {
             "type": "text",
-            "title": "Endurance",
-            "text": "Affects the bee's max health.$(br)With a high endurance the bee has a chance to not loose its stinger when attacking.$(br)Levels are:$(br)Weak$(br)Normal$(br)Medium$(br)Strong"
+            "title": "韌性",
+            "text": "韌性會影響蜜蜂的最大生命值。$(br)高韌性的蜜蜂甚至有機會在攻擊時不會失去牠的螫針。$(br)強度分成：$(br)弱$(br)一般$(br)中$(br)強"
         },
         {
             "type": "text",
-            "title": "Temper",
-            "text": "Bees have different temper, some will attack on sight and others will avoid harmful interaction altogether. A bee that has been fed a lot of honey treats will improve it's temper.$(br)Levels are:$(br)Passive$(br)Normal$(br)Aggressive$(br)Hostile"
+            "title": "性格",
+            "text": "蜜蜂有幾種不同的性格， 有些會見人就咬， 其餘則盡量避免傷害性的互動。餵食很多蜂蜜處方可改善蜜蜂的性格。$(br)性格分成：$(br)被動$(br)正常$(br)好鬥$(br)敵意"
         },
         {
             "type": "text",
-            "title": "Effects",
-            "text": "Some bees can apply effects to nearby players, both positive and negative."
+            "title": "效果",
+            "text": "有些蜜蜂會對附近的玩家施加效果， 正負面的效果都有。"
         }
     ]
 }
