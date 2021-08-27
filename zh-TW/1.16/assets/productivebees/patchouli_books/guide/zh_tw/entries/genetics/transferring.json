@@ -1,15 +1,15 @@
 {
-    "name": "Transferring Genes",
+    "name": "轉移基因",
     "icon": "productivebees:gene",
     "category": "productivebees:genetics",
     "pages": [
         {
             "type": "text",
-            "text": "To transfer genes to a bee you will need to combine the gene with a honey treat. Feed the honey treat to the bee and it will have a chance, based on the purity of the gene, to acquire the new attribute."
+            "text": "要轉移蜜蜂的基因， 你需要將基因與蜂蜜處方結合。將處方餵給蜜蜂後， 依基因的純度， 有機會使該蜜蜂獲得新的屬性。"
         },
         {
             "type": "text",
-            "text": "The purity of the gene can be increased by combining two of the same genes or by putting more of the same gene onto a treat."
+            "text": "重複結合更多相同的基因到處方中， 可提高該基因的純度。"
         }
     ]
 }
