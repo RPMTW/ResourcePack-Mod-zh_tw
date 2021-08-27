@@ -1,5 +1,5 @@
 {
-    "name": "Hoarder Bee",
+    "name": "囤積蜂",
     "icon": "minecraft:shulker_shell",
     "read_by_default": true,
     "sortnum": 5,
@@ -7,8 +7,8 @@
     "pages": [
         {
             "type": "text",
-            "title": "Hoarder Bee",
-            "text": "Collects items on the ground and puts them in its hive.$(br)Combine with the farmer bee for an automated farm."
+            "title": "囤積蜂",
+            "text": "會撿拾附近地上的物品並放回蜂箱。$(br)結合農夫蜂就可成為自動化農場了。"
         },
         {
             "type": "entity",
