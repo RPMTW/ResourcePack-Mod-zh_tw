@@ -1,5 +1,5 @@
 {
-    "name": "Yellow and Black Carpenter Bee",
+    "name": "黃黑木蜂",
     "icon": "productivebees:spawn_egg_yellow_black_carpenter_bee",
     "read_by_default": true,
     "sortnum": 4,
@@ -7,9 +7,9 @@
     "pages": [
         {
             "type": "text",
-            "title": "Yellow and Black Carpenter Bee",
+            "title": "黃黑木蜂",
             "text": "[Xylocopa aruana]",
-            "anchor": "yellow_black_carpenter"
+            "anchor": "黃黑木"
         },
         {
             "type": "entity",
