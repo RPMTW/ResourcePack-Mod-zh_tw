@@ -1,5 +1,5 @@
 {
-    "name": "Tinkers Construct",
+    "name": "匠魂",
     "icon": "tconstruct:casting_table",
     "read_by_default": true,
     "sortnum": 8,
@@ -8,7 +8,7 @@
     "pages": [
         {
             "type": "text",
-            "text": "Bees for Tinkers Construct materials. The bees are obtained by pouring a material over a spawn egg in the casting table."
+            "text": "專用於匠魂模組金屬的蜜蜂。這種蜜蜂是在澆注台將金屬注入到生怪蛋裡獲得"
         },
         {
             "type": "empty",
@@ -16,170 +16,170 @@
         },
         {
             "type": "text",
-            "title": "Ender Slimy Bee",
-            "text": "This bee cannot be bred. Spawn egg is crafted from a $(l:bees/wild/slimy)Slimy Bee$(/l) spawn egg using a casting table.",
-            "anchor": "ender_slimy",
+            "title": "終界史萊姆蜂",
+            "text": "這個蜜蜂不能配種而得。其生怪蛋製作從$(l:bees/wild/slimy)史萊姆蜂$(/l)生怪蛋在澆注台使用。",
+            "anchor": "終界史萊姆",
             "flag": "productivebees:ender_slimy"
         },
         {
             "type": "entity",
-            "name": "Ender Slimy Bee",
+            "name": "終界史萊姆蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:ender_slimy'}",
             "flag": "productivebees:ender_slimy"
         },
         {
             "type": "text",
-            "title": "Ichor Slimy Bee",
-            "text": "This bee cannot be bred. Spawn egg is crafted from a $(l:bees/wild/slimy)Slimy Bee$(/l) spawn egg using a casting table.",
-            "anchor": "ichor_slimy",
+            "title": "神血史萊姆蜂",
+            "text": "這個蜜蜂不能配種而得。其生怪蛋製作從$(l:bees/wild/slimy)史萊姆蜂$(/l)生怪蛋在澆注台使用。",
+            "anchor": "神血史萊姆",
             "flag": "productivebees:ichor_slimy"
         },
         {
             "type": "entity",
-            "name": "Ichor Slimy Bee",
+            "name": "神血史萊姆蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:ichor_slimy'}",
             "flag": "productivebees:ichor_slimy"
         },
         {
             "type": "text",
-            "title": "Sky Slimy Bee",
-            "text": "This bee cannot be bred. Spawn egg is crafted from a $(l:bees/wild/slimy)Slimy Bee$(/l) spawn egg using a casting table.",
-            "anchor": "sky_slimy",
+            "title": "天空史萊姆蜂",
+            "text": "這個蜜蜂不能被配種而得。其生怪蛋製作從$(l:bees/wild/slimy)史萊姆蜂$(/l)生怪蛋在澆注台使用。",
+            "anchor": "天空史萊姆",
             "flag": "productivebees:sky_slimy"
         },
         {
             "type": "entity",
-            "name": "Sky Slimy Bee",
+            "name": "天空史萊姆蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:sky_slimy'}",
             "flag": "productivebees:sky_slimy"
         },
         {
             "type": "text",
-            "title": "Cobalt Bee",
-            "text": "This bee cannot be bred. Spawn egg is crafted from an $(l:bees/hive/iron)Iron Bee$(/l) spawn egg using a casting table.",
-            "anchor": "cobalt",
+            "title": "鈷礦蜂",
+            "text": "這個蜜蜂不能被配種而得。其生怪蛋製作從$(l:bees/hive/iron)鐵蜜蜂$(/l)生怪蛋在澆注台使用。",
+            "anchor": "鈷",
             "flag": "productivebees:cobalt"
         },
         {
             "type": "entity",
-            "name": "Cobalt Bee",
+            "name": "鈷礦蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:cobalt'}",
             "flag": "productivebees:cobalt"
         },
         {
             "type": "text",
-            "title": "Hepatizon Bee",
-            "text": "This bee cannot be bred. Spawn egg is crafted from an $(l:bees/hive/obsidian)Obsidian Bee$(/l) spawn egg using a casting table.",
-            "anchor": "hepatizon",
+            "title": "黑科林斯青銅蜂",
+            "text": "這個蜜蜂不能被配種而得。其生怪蛋製作從$(l:bees/hive/obsidian)黑曜石蜂$(/l)生怪蛋在澆注台使用。",
+            "anchor": "肝素",
             "flag": "productivebees:hepatizon"
         },
         {
             "type": "entity",
-            "name": "Hepatizon Bee",
+            "name": "黑科林斯青銅蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:hepatizon'}",
             "flag": "productivebees:hepatizon"
         },
         {
             "type": "text",
-            "title": "Knightslime Bee",
-            "text": "This bee cannot be bred. Spawn egg is crafted from an $(l:bees/hive/iron)Iron Bee$(/l) spawn egg using a casting table.",
-            "anchor": "knightslime",
+            "title": "史萊姆騎士蜂",
+            "text": "這個蜜蜂不能被配種而得。其生怪蛋製作從$(l:bees/hive/iron)鐵蜜蜂$(/l)生怪蛋在澆注台使用。",
+            "anchor": "騎士史萊姆",
             "flag": "productivebees:knightslime"
         },
         {
             "type": "實體",
-            "name": "Knightslime Bee",
+            "name": "騎士史萊姆史萊姆",
             "entity": "productivebees:configurable_bee{type:'productivebees:knightslime'}",
             "flag": "productivebees:knightslime"
         },
         {
             "type": "text",
-            "title": "Manyullyn Bee",
-            "text": "This bee cannot be bred. Spawn egg is crafted from a $(l:bees/hive/netherite)Ancient Bee$(/l) spawn egg using a casting table.",
-            "anchor": "manyullyn",
+            "title": "瑪玉靈蜂",
+            "text": "這個蜜蜂不能被配種而得。其生怪蛋製從$(l:bees/hive/netherite)遠古遺骸蜂$(/l)生怪蛋在澆注台使用。",
+            "anchor": "瑪玉靈",
             "flag": "productivebees:manyullyn"
         },
         {
             "type": "實體",
-            "name": "Manyullyn Bee",
+            "name": "瑪玉靈蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:manyullyn'}",
             "flag": "productivebees:manyullyn"
         },
         {
             "type": "text",
-            "title": "Pig Iron Bee",
-            "text": "This bee cannot be bred. Spawn egg is crafted from an $(l:bees/hive/iron)Iron Bee$(/l) spawn egg using a casting table.",
-            "anchor": "pig_iron",
+            "title": "生鐵蜂",
+            "text": "這個蜜蜂不能被配種而得。其生怪蛋製作從$(l:bees/hive/iron)鐵蜜蜂$(/l)生怪蛋在澆注台使用。",
+            "anchor": "生鐵",
             "flag": "productivebees:pig_iron"
         },
         {
             "type": "實體",
-            "name": "Pig Iron Bee",
+            "name": "生鐵蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:pig_iron'}",
             "flag": "productivebees:pig_iron"
         },
         {
             "type": "text",
-            "title": "Queens Slime Bee",
-            "text": "This bee cannot be bred. Spawn egg is crafted from a $(l:bees/hive/gold)Gold Bee$(/l) spawn egg using a casting table.",
-            "anchor": "queens_slime",
+            "title": "皇后史萊姆蜂",
+            "text": "這個蜜蜂不能被配種而得。其生怪蛋製作從$(l:bees/hive/gold)金礦蜂$(/l)生怪蛋在澆注台使用。",
+            "anchor": "皇后史萊姆",
             "flag": "productivebees:queens_slime"
         },
         {
             "type": "entity",
-            "name": "Queens Slime Bee",
+            "name": "皇后史萊姆蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:queens_slime'}",
             "flag": "productivebees:queens_slime"
         },
         {
             "type": "text",
-            "title": "Rose Gold Bee",
-            "text": "This bee cannot be bred. Spawn egg is crafted from a $(l:bees/hive/gold)Gold Bee$(/l) spawn egg using a casting table.",
-            "anchor": "rose_gold",
+            "title": "玫瑰金礦蜂",
+            "text": "這個蜜蜂不能被配種而得。其生怪蛋製作從$(l:bees/hive/gold)金礦蜂$(/l)生怪蛋在澆注台使用。",
+            "anchor": "玫瑰金",
             "flag": "productivebees:rose_gold"
         },
         {
             "type": "entity",
-            "name": "Rose Gold Bee",
+            "name": "玫瑰金礦蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:rose_gold'}",
             "flag": "productivebees:rose_gold"
         },
         {
             "type": "text",
-            "title": "Slimesteel Bee",
-            "text": "This bee cannot be bred. Spawn egg is crafted from an $(l:bees/hive/iron)Iron Bee$(/l) spawn egg using a casting table.",
-            "anchor": "slimesteel",
+            "title": "史萊姆鋼蜂",
+            "text": "這個蜜蜂不能被配種而得。其生怪蛋製作從$(l:bees/hive/iron)鐵蜜蜂$(/l)生怪蛋在澆注台使用。",
+            "anchor": "史萊姆鋼",
             "flag": "productivebees:slimesteel"
         },
         {
             "type": "entity",
-            "name": "Slimesteel Bee",
+            "name": "史萊姆鋼蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:slimesteel'}",
             "flag": "productivebees:slimesteel"
         },
         {
             "type": "text",
-            "title": "Soulsteel Bee",
-            "text": "This bee cannot be bred. Spawn egg is crafted from a $(l:bees/modded/tconstruct#cobalt)Cobalt Bee$(/l) spawn egg using a casting table.",
+            "title": "魂鋼蜂",
+            "text": "這個蜜蜂不能被配種而得。其生怪蛋製作從$(l:bees/modded/tconstruct#cobalt)鈷礦蜂$(/l)生怪蛋在澆注台使用。",
             "anchor": "靈魂鋼",
             "flag": "productivebees:soulsteel"
         },
         {
             "type": "實體",
-            "name": "Soulsteel Bee",
+            "name": "魂鋼蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:soulsteel'}",
             "flag": "productivebees:soulsteel"
         },
         {
             "type": "text",
-            "title": "Tinkers Bronze Bee",
-            "text": "This bee cannot be bred. Spawn egg is crafted from a $(l:bees/modded/ingot_bees#copper)Copper Bee$(/l) spawn egg using a casting table.",
-            "anchor": "tinkers_bronze",
+            "title": "匠魂青銅蜂",
+            "text": "這個蜜蜂不能被配種而得。其生怪蛋製作從$(l:bees/modded/ingot_bees#copper)銅礦蜂$(/l)生怪蛋在澆注台使用。",
+            "anchor": "匠魂青銅",
             "flag": "productivebees:tinkers_bronze"
         },
         {
             "type": "實體",
-            "name": "Tinkers Bronze Bee",
+            "name": "匠魂青銅蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:tinkers_bronze'}",
             "flag": "productivebees:tinkers_bronze"
         }
