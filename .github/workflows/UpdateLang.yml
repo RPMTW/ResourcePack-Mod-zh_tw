@@ -16,20 +16,20 @@ jobs:
       with:
         node-version: "15"
     - name: "更新語系檔案"
-        run: |
+      run: |
           cd 1.16/Spider
           npm install
           node 1.16/Spider/UpdateLang.js
         
 
     - name: "提交檔案"
-        run: |
+      run: |
           git config --global user.email "rpmtw666@gmail.com.com"
           git add ./1.16/assets
           git commit -m "更新原始語系檔案"
         
-      - name: "推送變更"
-        uses: ad-m/github-push-action@master
-        with:
+    - name: "推送變更"
+      uses: ad-m/github-push-action@master
+      with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: ${{ github.ref }}
