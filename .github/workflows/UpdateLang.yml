@@ -23,7 +23,7 @@ jobs:
       run: |
           cd 1.16/Spider
           npm install
-          node 1.16/Spider/UpdateLang.js
+          node UpdateLang.js
         
 
     - name: "提交檔案"
