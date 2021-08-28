@@ -1,12 +1,12 @@
 {
-    "name": "Wolframium",
+    "name": "鎢",
     "icon": "endreborn:item_ingot_wolframium",
     "category": "\n-工具",
     "advancement": "endreborn:endreborn/item_ingot_wolframium",
     "pages": [
         {
             "type": "text",
-            "text": "Walking around the world, I discovered a new ore, which looks like iron."
+            "text": "我走遍世界各地，發現了一塊看起來像鐵礦一樣的新礦石，讓我們來鑑定一下。"
         },
         {
             "type": "crafting",

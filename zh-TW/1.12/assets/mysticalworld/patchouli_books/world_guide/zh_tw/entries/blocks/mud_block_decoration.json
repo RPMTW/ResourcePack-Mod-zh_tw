@@ -1,5 +1,5 @@
 {
-  "name": "Mud Block Decorations",
+  "name": "用泥磚做建材！",
   "icon": "mysticalworld:mud_block_stairs",
   "category": "blocks",
   "pages": [
@@ -7,53 +7,53 @@
       "type": "spotlight",
       "item": "mysticalworld:mud_block_stairs",
       "link_recipe": true,
-      "text": "Stairs can be crafted out of both dried mud blocks and dried mud bricks."
+      "text": "用無機鹽泥塊和泥磚都可以合成對應的階梯。"
     },
     {
       "type": "crafting",
       "recipe": "mysticalworld:mud_block_stairs",
       "recipe2": "mysticalworld:mud_brick_stairs",
       "link_recipe": true,
-      "title": "Stairs"
+      "title": "階梯"
     },
     {
       "type": "spotlight",
       "item": "mysticalworld:mud_block_slab",
       "link_recipe": true,
-      "text": "Slabs can be crafted out of both dried mud blocks and dried mud bricks."
+      "text": "用無機鹽泥塊和泥磚都可以合成對應的半磚。"
     },
     {
       "type": "crafting",
       "recipe": "mysticalworld:mud_block_slab",
       "recipe2": "mysticalworld:mud_brick_slab",
       "link_recipe": true,
-      "title": "Slabs"
+      "title": "半磚"
     },
     {
       "type": "spotlight",
       "item": "mysticalworld:mud_block_wall",
       "link_recipe": true,
-      "text": "Walls can be crafted out of both dried mud blocks and dried mud bricks."
+      "text": "用無機鹽泥塊和泥磚都可以合成對應的牆。"
     },
     {
       "type": "crafting",
       "recipe": "mysticalworld:mud_block_wall",
       "recipe2": "mysticalworld:mud_brick_wall",
       "link_recipe": true,
-      "title": "Walls"
+      "title": "牆"
     },
     {
       "type": "spotlight",
       "item": "mysticalworld:mud_block_fence",
       "link_recipe": true,
-      "text": "Fences can be crafted out of both dried mud blocks and dried mud bricks."
+      "text": "用無機鹽泥塊和泥磚都可以合成對應的柵欄。"
     },
     {
       "type": "crafting",
       "recipe": "mysticalworld:mud_block_fence",
       "recipe2": "mysticalworld:mud_brick_fence",
       "link_recipe": true,
-      "title": "Fences"
+      "title": "柵欄"
     },
     {
       "type": "spotlight",

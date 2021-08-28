@@ -1,5 +1,5 @@
 {
-    "name": "End Rune",
+    "name": "終界符文",
     "icon": "endreborn:item_end_rune",
     "category": "\n-工具",
     "advancement": "endreborn:endreborn/end_rune",
@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "text",
-            "text": "End Shard fragments are very similar to the puzzle... Yes, indeed, they formed into a strange symbol and began to glow... somewhere I already saw it"
+            "text": "這些終界守衛掉落的碎片和這謎題非常相似……對，沒錯，它們組合成了一個我已經看到過的奇怪符號而且開始發光……"
         },
         {
             "type": "crafting",

@@ -1,5 +1,5 @@
 {
-  "name": "Silver",
+  "name": "銀",
   "icon": "mysticalworld:silver_ore",
   "category": "ores",
   "flags": "roots:silver",
@@ -8,20 +8,20 @@
       "type": "spotlight",
       "link_recipe": true,
       "item": "mysticalworld:silver_ore",
-      "text": "Silver Ore can be found in similar locations and depths as gold ore. Smelted into silver ingots, these can be used to craft tools with similar enchantability to gold, though with more durability."
+      "text": "銀礦石生成在和金礦類似的高度和位置。可以熔煉成銀錠用來製作工具，其附魔能力與金相同，而耐久卻稍高。"
     },
     {
       "type": "smelting",
       "link_recipe": true,
       "recipe": "mysticalworld:silver_ore",
-      "title": "Silver Ingots",
-      "text": "Silver tools and weapons have the same mining level as golden tools."
+      "title": "銀錠",
+      "text": "銀工具和武器的挖掘等級與金相同。"
     },
     {
       "type": "crafting",
       "recipe": "mysticalworld:silver_axe",
       "recipe2": "mysticalworld:silver_hoe",
-      "title": "Silver Tools"
+      "title": "銀工具"
     },
     {
       "type": "crafting",

@@ -1,12 +1,12 @@
 {
-    "itemGroup.adfinders": "Advanced Finders",
-    "item.gems_finder.name": "Gem Finder",
-    "item.metals_finder.name": "Metal Finder",
-    "item.minerals_finder.name": "Mineral Finder",
-    "tooltip.finder.scan_radius": "%1$sScan Radius",
-    "tooltip.finder.ping_depth": "%1$sPing Depth",
-    "tooltip.finder.more_info": "%1$shold%2$s %3$s%1$s for more info",
-    "tooltip.finder.needles": "%2$sNeedles%1$s show the direction to reachable ores within%2$s scan radius%1$s in the%2$s horizontal plane around%1$s the player ",
-    "tooltip.finder.arrows": "%2$sArrows%1$s show the direction %2$s(up/down)%1$s to the nearest%2$s ore vein%1$s within%2$s ping depth",
-    "tooltip.finder.red_lights": "%2$sRed lights%1$s signalize about found%2$s large ore deposit"
+    "itemGroup.adfinders": "高級探測器",
+    "item.gems_finder.name": "寶石探測器",
+    "item.metals_finder.name": "金屬探測器",
+    "item.minerals_finder.name": "礦物探測器",
+    "tooltip.finder.scan_radius": "%1$s掃描半徑",
+    "tooltip.finder.ping_depth": "%1$sPing深度",
+    "tooltip.finder.more_info": "%1$shold%2$s%3$s%1$s了解更多訊息",
+    "tooltip.finder.needles": "%2$sNeedles%1$s顯示在玩家%1$s左右的%2$s水平面內%2$s掃描半徑%1$s內可到達的礦的方向 ",
+    "tooltip.finder.arrows": "%2$sArrows%1$s顯示%2$s（向上/向下）的方向%1$s到最近的%2$s礦脈%1$s（在%2$s ping深度內）",
+    "tooltip.finder.red_lights": "%2$s紅燈%1$s表示已發現%2$s大型礦床"
 }

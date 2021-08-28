@@ -1,12 +1,12 @@
 {
-    "name": "Shulker",
+    "name": "界伏貝",
     "icon": "minecraft:shulker_shell",
     "category": "being",
     "priority": true,
     "pages": [
         {
             "type": "text",
-            "text": "Defenders of the abandoned cities... They have enough durable armor. Pretty strong enemies. But they has weakness to potions."
+            "text": "荒廢已久的終界城深海守衛……它們有著足夠堅硬的鎧甲，是誰創造了它們？"
         },
         {
             "type": "spotlight",

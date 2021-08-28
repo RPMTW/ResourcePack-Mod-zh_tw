@@ -1,12 +1,12 @@
 {
-    "name": "Enderman",
+    "name": "終界使者",
     "icon": "minecraft:ender_pearl",
     "category": "being",
     "priority": true,
     "pages": [
         {
             "type": "text",
-            "text": "Standard creatures of The End, but sometimes they appears in other worlds. According to my observations, they hate the appearance of human eyes. Really strange creatures."
+            "text": "標準的終界生物，但是有時候它們也會掉進其他的世界裡。根據我的觀察，它們因為某些未知的原因相當厭恨人的目光。在他們身邊待了很長的時間後我開始感覺到某種特殊的聯繫……真是些奇怪的生物。"
         },
         {
             "type": "spotlight",

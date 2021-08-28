@@ -5,11 +5,11 @@
   "pages": [
     {
       "type": "text",
-      "text": "The Chemical Combiner is a powered machine, perhaps the most important machine of all in Alchemistry. The Chemical Combiner allows you to combine elements, compounds, and occasionally other items to form new items. It contains 9 slots like a standard crafting grid, but unlike a crafting grid it allows each input slot to contain more than one item per craft."
+      "text": "化學化合機是一種耗能機器，可能是煉金術中最重要的機器。化學化合機可結合元素和化合物—有時候也加入其他物品—以形成新物品。它的介面有一般合成台的九宮格，但不同的地方是，它允許每個格子一次消耗多於一個物品。"
     },
     {
       "type": "text",
-      "text": "The most effective way to use the Combiner is to choose a recipe target by opening JEI once you have the Cheimcal Combiner GUI open and using the JEI recipe transfer button (see next page). Doing this will lock the machine slots, not allowing items into empty slots and only allowing the correct items into the correct slots for that recipe. Using this functionality is not absolutely required, as placing items with no recipe target will still work"
+      "text": "使用化學化合機最有效的方法是，在打開機器的介面後，用JEI選擇一個合成表，再按合成表轉移鍵(見下頁)。如此一來合成表的格子便會鎖定，只允許正確的物品擺放在正確的格子，而不允許物品進入空格子。但這項功能不是一定要用的，因為手動放置物品仍然是有效的。"
     },
     {
       "type": "image",

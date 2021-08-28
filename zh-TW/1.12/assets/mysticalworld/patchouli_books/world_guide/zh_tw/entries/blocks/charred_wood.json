@@ -1,5 +1,5 @@
 {
-  "name": "Charred Wood",
+  "name": "燒焦的原木",
   "icon": "mysticalworld:charred_log",
   "category": "blocks",
   "pages": [
@@ -7,7 +7,7 @@
       "type": "spotlight",
       "link_recipe": true,
       "item": "mysticalworld:charred_log",
-      "text": "Found in the world where wood has been burned or trees have perhaps been struck by lightning, these logs serve a mainly decorative purpose.$(br2)They can be additionally charred using a flint and steel, which is damaged (not consumed) in the process. You can also use a fire charge, which is consumed."
+      "text": "你可以找到被雷電擊中或者被野火燒焦的樹木，它們現在主要作為裝飾用途了。$(br2)你也可以用打火石和原版原木合成得到燒焦的原木，損耗打火石的1點耐久；用火焰彈合成也可以，但是會消耗火焰彈。"
     },
     {
       "type": "crafting",
@@ -18,14 +18,14 @@
       "type": "crafting",
       "link_recipe": true,
       "recipe": "mysticalworld:charred_planks",
-      "text": "Logs can be converted into planks in the standard fashion."
+      "text": "燒焦的原木也可以像原版原木一樣分解為木板。"
     },
     {
       "type": "crafting",
       "link_recipe": true,
       "recipe": "mysticalworld:charred_stairs",
       "recipe2": "mysticalworld:charred_slab",
-      "text": "Planks can be converted into a variety of decorative blocks."
+      "text": "燒焦的木板可以做成相應的裝飾方塊。"
     },
     {
       "type": "crafting",
@@ -36,13 +36,13 @@
     {
       "type": "crafting",
       "link_recipe": true,
-      "recipe": "mysticalworld:charred_fence_gate",
-      "recipe2": "mysticalworld:charred_button"
+      "recipe": "mysticalworld:charred_button",
+      "recipe2": "mysticalworld:charred_pressure_plate"
     },
     {
       "type": "crafting",
       "link_recipe": true,
-      "recipe": "mysticalworld:charred_pressure_plate"
+      "recipe": "mysticalworld:charred_log"
     },
     {
       "type": "smelting",

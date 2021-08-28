@@ -1,18 +1,18 @@
 {
-  "name": "Hell Sprout",
+  "name": "地獄芽精靈",
   "icon": "minecraft:nether_wart",
   "category": "creatures",
   "pages": [
     {
       "type": "animal_spawn_info",
       "animal": "hell_sprout",
-      "breed": "Breed: with cooked aubergines.",
-      "tame": "Taming: not tameable.",
-      "blurb": "Found peacefully wandering the nether, occasionally planting nether wart."
+      "breed": "用烤茄子進行繁殖",
+      "tame": "不可馴服",
+      "blurb": "漫步於地獄之中的友善生物，偶爾會見到它種植地獄疣。"
     },
     {
       "type": "entity",
-      "name": "Hell Sprout",
+      "name": "地獄芽精靈",
       "entity": "mysticalworld:entity_hell_sprout",
       "scale": 1,
       "offset": 0,
