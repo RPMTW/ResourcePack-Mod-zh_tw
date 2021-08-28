@@ -62,7 +62,7 @@
             "B.title": "茄子",
             "B.item1": "thermal:eggplant",
             "B.item2": "thermal:eggplant_seeds",
-            "B.text": "A purple, spongy $(l)fruit$() used in many dishes. Tends to absorb other flavors."
+            "B.text": "一種用於許多菜餚的紫色海綿狀$(l)果實$()。 傾向於吸收其他味道。"
         },
         {
             "type": "2-2_item_page",
@@ -80,18 +80,18 @@
             "A.title": "草莓",
             "A.item1": "thermal:strawberry",
             "A.item2": "thermal:strawberry_seeds",
-            "A.text": "A sweet, red fruit used in a variety of condiments and desserts.",
+            "A.text": "一種甜的紅色果實，用於各種調味品和甜點。",
             "B.title": "番茄",
             "B.item1": "thermal:tomato",
             "B.item2": "thermal:tomato_seeds",
-            "B.text": "A savory, red $(l)fruit$() often sliced for dishes or squeezed for sauces and soups."
+            "B.text": "一種美味的紅色$(l)果實$()，通常切片用於菜餚或榨汁製成醬汁和湯。"
         },
         {
             "type": "2-2_item_page",
             "A.title": "咖啡",
             "A.item1": "thermal:coffee",
             "A.item2": "thermal:coffee_seeds",
-            "A.text": "The fruit of a coffee tree, the pit of which can be roasted, ground, and brewed to make the lifeblood of mod devs.",
+            "A.text": "咖啡樹的果實，可以烘烤、研磨和釀造咖啡樹的果核，成為模組開發者的命脈。",
             "B.title": "茶",
             "B.item1": "thermal:tea",
             "B.item2": "thermal:tea_seeds",
