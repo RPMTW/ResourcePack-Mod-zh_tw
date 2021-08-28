@@ -4,6 +4,7 @@ const path = require("path");
 const config = require(`${process.cwd()}/config.json`)
 const compressing = require('compressing');
 const { GetModID } = require("./Module/GetModID");
+const { MCVersion } = require("./Module/MCVersion");
 const ver = config.ver;
 const modCount = config.modCount;
 const ModIndex = config.Index;
@@ -58,7 +59,7 @@ function GetFile(ID) {
         });
         for (let i = 0; i < files.length; i++) {
             let data = files[i].minecraft_versions;
-            if (data.includes(config.ver) || data.includes("1.16.4") || data.includes("1.16.3") || data.includes("1.16.2") || data.includes("1.16.1") || data.includes("1.16")) {
+            if (MCVersion(data)) {
                 fileID = String(files[i].id);
                 fileName = String(files[i].download_url.split("https://edge.forgecdn.net/files/")[1].replace("/", "").split("/")[1]);
                 slug = fileName.split(".jar")[0];
