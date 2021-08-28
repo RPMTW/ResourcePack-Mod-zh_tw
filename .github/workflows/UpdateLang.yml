@@ -29,6 +29,7 @@ jobs:
     - name: "提交檔案"
       run: |
           git config --global user.email "rpmtw666@gmail.com.com"
+          git config --global user.name "語系更新機器人"
           git add ./1.16/assets
           git commit -m "更新原始語系檔案"
         
