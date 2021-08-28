@@ -397,10 +397,10 @@
     "gui.tooltips.appliedenergistics2.SearchMode": "Search Box Mode",
     "gui.tooltips.appliedenergistics2.SearchMode_Auto": "Auto Search",
     "gui.tooltips.appliedenergistics2.SearchMode_AutoKeep": "Auto Search Keep",
-    "gui.tooltips.appliedenergistics2.SearchMode_JEIAuto": "JEI Synchronized Auto",
-    "gui.tooltips.appliedenergistics2.SearchMode_JEIAutoKeep": "JEI Synchronized Auto Keep",
-    "gui.tooltips.appliedenergistics2.SearchMode_JEIStandard": "JEI Synchronized Standard",
-    "gui.tooltips.appliedenergistics2.SearchMode_JEIStandardKeep": "JEI Synchronized Standard Keep",
+    "gui.tooltips.appliedenergistics2.SearchMode_JEIAuto": "REI Synchronized Auto",
+    "gui.tooltips.appliedenergistics2.SearchMode_JEIAutoKeep": "REI Synchronized Auto Keep",
+    "gui.tooltips.appliedenergistics2.SearchMode_JEIStandard": "REI Synchronized Standard",
+    "gui.tooltips.appliedenergistics2.SearchMode_JEIStandardKeep": "REI Synchronized Standard Keep",
     "gui.tooltips.appliedenergistics2.SearchMode_Standard": "Standard Search",
     "gui.tooltips.appliedenergistics2.SearchMode_StandardKeep": "Standard Search Keep",
     "gui.tooltips.appliedenergistics2.Singularity": "Condense Into Singularities\n%s per item",
@@ -741,5 +741,8 @@
     "block.appliedenergistics2.sky_stone_small_brick_wall": "Sky Stone Small Brick Wall",
     "block.appliedenergistics2.sky_stone_wall": "Sky Stone Wall",
     "block.appliedenergistics2.smooth_sky_stone_wall": "Sky Stone Block Wall",
-    "item.appliedenergistics2.cable_energy_acceptor": "Energy Acceptor"
+    "item.appliedenergistics2.cable_energy_acceptor": "Energy Acceptor",
+    "gui.appliedenergistics2.units.tr": "TechReborn Energy",
+    "item.appliedenergistics2.energy_p2p_tunnel": "Energy P2P Tunnel",
+    "itemGroup.appliedenergistics2.main": "Applied Energistics 2"
 }

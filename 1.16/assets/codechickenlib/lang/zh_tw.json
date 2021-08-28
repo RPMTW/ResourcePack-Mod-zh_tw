@@ -6,5 +6,6 @@
     "ccl.commands.killall.success": "Killed %s entities.",
     "ccl.commands.killall.success.line": "Killed %s",
     "ccl.commands.count.fail": "Found no entities.",
-    "ccl.commands.count.total": "Found %s entities."
+    "ccl.commands.count.total": "Found %s entities.",
+    "ccl.commands.killall.fail.player": "You cannot kill players with this command."
 }

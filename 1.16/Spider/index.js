@@ -6,8 +6,9 @@ const compressing = require('compressing');
 const { GetModID } = require("./Module/GetModID");
 const ver = config.ver;
 const modCount = config.modCount;
+const ModIndex = config.Index;
 const CurseForge = require("mc-curseforge-api");
-const request = require("request");
+const urllib = require('urllib');
 
 let ModDirPath = path.join(__dirname, "mod");
 if (!fs.existsSync(ModDirPath)) {
@@ -18,13 +19,21 @@ if (!fs.existsSync(path.join(__dirname, "../assets"))) {
 }
 
 
-for (let i = 0; i < modCount / 50; i++) {
-    let pageSize = 50;
-    if (parseInt(modCount / 50) == i) {
-        pageSize = modCount % 50
-    }
-    GetMods(i, pageSize)
+let index = 0;
+function RunLoop() {
+    setTimeout(function () {
+        let pageSize = 50;
+        if (parseInt(modCount / 50) == index) {
+            pageSize = modCount % 50
+        }
+        GetMods((index * 50) + (ModIndex * 50), pageSize)
+        index++;
+        if (index < modCount / 50) {
+            RunLoop();
+        }
+    }, 15000) //每15秒執行50個模組的數據
 }
+RunLoop();
 
 function GetMods(index, pageSize) {
     fetch(`https://addons-ecs.forgesvc.net/api/v2/addon/search?categoryId=0&gameId=432&index=${index}&pageSize=${pageSize}&gameVersion=${ver}&sectionId=6&sort=1"`, {
@@ -49,23 +58,25 @@ function GetFile(ID) {
         });
         for (let i = 0; i < files.length; i++) {
             let data = files[i].minecraft_versions;
-            if (data.includes(config.ver) || data.includes("1.16.4") || data.includes("1.16.3") || data.includes("1.16.2") || data.includes("1.16.1") || data.includes("1.16")) {                
+            if (data.includes(config.ver) || data.includes("1.16.4") || data.includes("1.16.3") || data.includes("1.16.2") || data.includes("1.16.1") || data.includes("1.16")) {
                 fileID = String(files[i].id);
-                fileName = String(files[i].download_url.split("https://edge.forgecdn.net/files/")[1].split(`${fileID.substr(0, 4)}/${fileID.substr(4, 7)}/`)[1]);
-                if (fileName === "undefined") {
-                    fileName = String(files[i].download_url.split("https://edge.forgecdn.net/files/")[1].split(`${fileID.substr(0, 4)}/${fileID.substr(5, 7)}/`)[1]);
-                }
-                let file = fs.createWriteStream(path.join(ModDirPath, fileName));
+                fileName = String(files[i].download_url.split("https://edge.forgecdn.net/files/")[1].replace("/", "").split("/")[1]);
                 slug = fileName.split(".jar")[0];
-                request(files[i].download_url).pipe(file).on("close", function (err) {
-                    if(err){
-                        console.log("下載模組檔案時發生未知錯誤: " + err);
-                    }
-                    console.log(`${fileName.split(".jar")[0]} 下載完成。`);
-                    compressing.zip.uncompress(`./mod/${fileName}`, "../jar/" + slug).then(() => GetModID(slug, ID, fileName));
+                urllib.request(files[i].download_url, {
+                    streaming: true,
+                    followRedirect: true,
+                    timeout: [100000, 100000],
                 })
+                    .then(result => {
+                        console.log(`${fileName.split(".jar")[0]} 下載完成。`);
+                        compressing.zip.uncompress(result.res, "../jar/" + slug).then(() => {
+                            console.log(`${fileName.split(".jar")[0]} 解壓縮完成。`)
+                            GetModID(slug, ID, fileName)
+                        })
+                    })
+                    .catch("解壓縮模組檔案時發生未知錯誤: ", console.error);
                 break;
             }
         }
-    }).catch(console.error);
+    }).catch("抓取模組檔案時發生未知錯誤: ", console.error);
 }

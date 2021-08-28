@@ -547,5 +547,18 @@
     "resource.titanium.material.diamond": "Diamond",
     "item.industrialforegoing.addon": "Addon: ",
     "item.industrialforegoing.efficiency": "Efficiency ",
-    "item.industrialforegoing.speed": "Speed "
+    "item.industrialforegoing.speed": "Speed ",
+    "text.industrialforegoing.launcher.release": " Release",
+    "text.industrialforegoing.launcher.capture": " Capture",
+    "text.industrialforegoing.launcher.damage": " Damage",
+    "death.attack.damage.if.nuke": "%1$s got disintegrated by a nuke",
+    "item.industrialforegoing.infinity_launcher": "Infinity Launcher",
+    "item.industrialforegoing.infinity_nuke": "Infinity Nuke",
+    "item.industrialforegoing.world_transporter_type": "World Transporter",
+    "tooltip.titanium.facing_handler.lens": "Laser Lens",
+    "item.industrialforegoing.processing": "Processing ",
+    "industrialforegoing.subtitle.nuke_arming": "Infinity Nuke being armed",
+    "industrialforegoing.subtitle.nuke_charging": "Infinity Nuke is charging",
+    "industrialforegoing.subtitle.nuke_explosion": "Embrace Infinity Nuke's death and destruction",
+    "entity.industrialforegoing.infinity_nuke": "Infinity Nuke"
 }

@@ -703,5 +703,15 @@
     "jm.server.allow_death_points": "Allow Death Waypoints",
     "jm.server.allow_death_points.tooltip": "Whether to allow Death Waypoints to be created on user death.",
     "jm.server.button.no_server.tooltip": "Journeymap is not installed on server!",
-    "jm.server.button.no_permission.tooltip": "Permission Denied!"
+    "jm.server.button.no_permission.tooltip": "Permission Denied!",
+    "jm.server.edit.label.admin.read_only": "Server Admin: Read Only Mode",
+    "jm.server.allow_in_game_beacons": "Allow Waypoint Beacons",
+    "jm.server.allow_in_game_beacons.tooltip": "Whether to allow rendering of In-Game beacons to render. (does not disable map waypoints)",
+    "jm.server.allow_waypoints": "Allow Waypoints",
+    "jm.server.allow_waypoints.tooltip": "Whether to allow waypoints, fully disables map and in-game beacon rendering and associated screens.",
+    "jm.server.allow_view_server_prop": "Allow Server Admin View",
+    "jm.server.allow_view_server_prop.tooltip": "Whether non op users can view server admin screen in read-only mode.",
+    "jm.server.allow_journeymap": "Allow Journeymap",
+    "jm.server.allow_journeymap.tooltip": "Whether to allow journeymap to function for non-ops.",
+    "jm.server.button.save.read_only": "Read only access."
 }

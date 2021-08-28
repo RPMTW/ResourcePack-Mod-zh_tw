@@ -4,38 +4,66 @@ const {
     stringify
 } = require('comment-json')
 const path = require("path");
-
+const CurseForge = require("mc-curseforge-api");
+const compressing = require('compressing');
 let CurseForgeIndex = parse(fs.readFileSync(`${process.cwd()}/../CurseForgeIndex.json`).toString(), null, true);
+const { GetModID } = require("./Module/GetModID");
+const urllib = require('urllib');
 
-var keys = Object.keys(CurseForgeIndex);
+var values = Object.values(CurseForgeIndex);
 
-for await(CurseID of keys) {
-    DownloadModByCurseID(CurseID);
+let ModDirPath = path.join(__dirname, "mod");
+
+if (!fs.existsSync(ModDirPath)) {
+    fs.mkdirSync(ModDirPath);
 }
 
-function DownloadModByCurseID(ID) {
-    CurseForge.getModFiles(Number(ID)).then((files) => {
-        files = files.reverse();
-        files.sort(function (a, b) {
-            return Date.parse(b.timestamp) - Date.parse(a.timestamp);
-        });
-        for (let i = 0; i < files.length; i++) {
-            let data = files[i].minecraft_versions;
-            if (data.includes(config.ver) || data.includes("1.16.4") || data.includes("1.16.3") || data.includes("1.16.2") || data.includes("1.16.1") || data.includes("1.16")) {
-                fileID = String(files[i].id);
-                fileName = String(files[i].download_url.split("https://edge.forgecdn.net/files/")[1].replace("/", "").split("/")[1]);
-                let test = path.join(ModDirPath, fileName);
-                slug = fileName.split(".jar")[0];
-                try {
-                    files[i].download(test, true).then(r => {
-                        console.log(`${fileName} 下載完成。`);
-                        compressing.zip.uncompress(`./mod/${fileName}`, "../jar/" + slug).then(() => GetModID(slug, ID, fileName))
-                    });
-                } catch (err) {
-                    console.log("發生未知錯誤 \n" + err);
+(async function () {
+    for await (let CurseID of values) {
+        DownloadModByCurseID(CurseID);
+    }
+})();
+
+async function DownloadModByCurseID(ID) {
+    let Isget = false;
+    await CurseForge.getModFiles(Number(ID)).then(async (files) => {
+        try {
+            files = files.reverse();
+            files.sort(function (a, b) {
+                return Date.parse(b.timestamp) - Date.parse(a.timestamp);
+            });
+            for (let i = 0; i < files.length; i++) {
+                let data = files[i].minecraft_versions;
+                if (data.includes("1.16.5") || data.includes("1.16.4") || data.includes("1.16.3") || data.includes("1.16.2") || data.includes("1.16.1") || data.includes("1.16")) {
+                    if (Isget == true) {
+                        console.log("test");
+                        break;
+                    };
+                    Isget = true;
+                    fileID = String(files[i].id);
+                    fileName = String(files[i].download_url.split("https://edge.forgecdn.net/files/")[1].replace("/", "").split("/")[1]);
+                    slug = fileName.split(".jar")[0];
+                    try {
+                        urllib.request(files[i].download_url, {
+                            streaming: true,
+                            followRedirect: true,
+                            timeout: [100000, 100000],
+                        })
+                            .then(result => {
+                                console.log(`${slug} 下載完成。`);
+                                compressing.zip.uncompress(result.res, "../jar/" + slug).then(() => {
+                                    console.log(`${slug} 解壓縮完成。`)
+                                    GetModID(slug, ID, fileName)
+                                }).catch((err) => console.log(err));
+                            })
+                    } catch (error) {
+                        // console.log('下載模組失敗', error)
+                    }
+                    break;
                 }
-                break;
             }
+        } catch (error) {
+            console.log(error);
         }
-    });
+    }).catch((err) => console.log(err));
 }
