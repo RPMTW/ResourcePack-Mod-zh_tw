@@ -1,9 +1,9 @@
 {
-    "tile.compactsolars:high_voltage_block.name": "High Voltage Solar Array",
-    "tile.compactsolars:medium_voltage_block.name": "Medium Voltage Solar Array",
-    "tile.compactsolars:low_voltage_block.name": "Low Voltage Solar Array",
-    "item.compactsolars:solar_hat_high_voltage.name": "High Voltage Solar Hat",
-    "item.compactsolars:solar_hat_medium_voltage.name": "Medium Voltage Solar Hat",
-    "item.compactsolars:solar_hat_low_voltage.name": "Low Voltage Solar Hat",
-    "tile.compactsolars:powertier.tooltip": "Power Tier: %s"
+    "tile.compactsolars:high_voltage_block.name": "高壓太陽能陣列",
+    "tile.compactsolars:medium_voltage_block.name": "中壓太陽能陣列",
+    "tile.compactsolars:low_voltage_block.name": "低壓太陽能陣列",
+    "item.compactsolars:solar_hat_high_voltage.name": "高壓太陽能頭盔",
+    "item.compactsolars:solar_hat_medium_voltage.name": "中壓太陽能頭盔",
+    "item.compactsolars:solar_hat_low_voltage.name": "低壓太陽能頭盔",
+    "tile.compactsolars:powertier.tooltip": "能量等級：%s"
 }
