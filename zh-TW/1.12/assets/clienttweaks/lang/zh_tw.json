@@ -1,9 +1,9 @@
 {
-    "key.clienttweaks.disable_step_assist": "切換禁止自動跳躍",
-    "key.clienttweaks.hide_offhand_item": "切換隱藏非慣用手項目",
+    "key.clienttweaks.disable_step_assist": "切換停用自動跳躍",
+    "key.clienttweaks.hide_offhand_item": "切換隱藏非慣用手物品",
     "key.categories.clienttweaks": "用戶端調整",
-    "clienttweaks.on": "開啟",
-    "clienttweaks.off": "關閉",
-    "gui.clienttweaks.mipmapConfirm": "Do you really want to change the mipmap level?",
-    "gui.clienttweaks.mipmapWarning": "由於模組數量眾多，這可能需要幾分鐘來完成"
+    "clienttweaks.on": "開",
+    "clienttweaks.off": "關",
+    "gui.clienttweaks.mipmapConfirm": "你真的想要調整 mipmap 級別嗎？",
+    "gui.clienttweaks.mipmapWarning": "當安裝大量模組時此操作可能需要幾分鐘時間。"
 }
