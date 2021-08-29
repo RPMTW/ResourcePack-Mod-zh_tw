@@ -1,13 +1,13 @@
 {
-    "tile.xp_block.name": "XP Block",
-    "info.levels": "%s levels saved",
-    "info.xp": "%s XP saved",
-    "globalxp.config.spinspeed": "Emerald spin speed",
-    "globalxp.config.spinspeed.tooltip": "How fast the emerald should spin (multiplier of the default speed)",
-    "globalxp.config.bobspeed": "Emerald bob speed",
-    "globalxp.config.bobspeed.tooltip": "How fast the emerald should bob up and down (multiplier of the default speed)",
-    "globalxp.config.renderNameplate": "Show XP info",
-    "globalxp.config.renderNameplate.tooltip": "Whether info about the saved levels should be shown above the XP Block",
-    "globalxp.config.xpForComparator": "XP for Comparator output",
-    "globalxp.config.xpForComparator.tooltip": "The amount of XP needed for the comparator to output a redstone signal of strength one. By default, the signal will be at full strength if the block has 30 levels stored."
+    "tile.xp_block.name": "經驗方塊",
+    "info.levels": "已儲存 %s 個等級",
+    "info.xp": "已儲存 %s 點經驗",
+    "globalxp.config.spinspeed": "綠寶石旋轉速度",
+    "globalxp.config.spinspeed.tooltip": "綠寶石應該旋轉多快 (預設速度的倍數)",
+    "globalxp.config.bobspeed": "綠寶石擺動速度",
+    "globalxp.config.bobspeed.tooltip": "綠寶石上下擺動速度應該有多快 (預設速度的倍數)",
+    "globalxp.config.renderNameplate": "查看經驗訊息",
+    "globalxp.config.renderNameplate.tooltip": "保存的等級訊息是否顯示在經驗方塊的上方",
+    "globalxp.config.xpForComparator": "基於所儲存經驗值的比較器輸出",
+    "globalxp.config.xpForComparator.tooltip": "比較器輸出強度為1的紅石訊號所需的經驗點數。預設情況下，如果儲存了30級經驗，紅石比較器將輸出強度為15的紅石訊號。"
 }
