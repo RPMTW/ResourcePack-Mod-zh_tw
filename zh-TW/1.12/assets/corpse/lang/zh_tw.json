@@ -1,7 +1,7 @@
 {
     "entity.corpse.name": "遺骸",
     "entity.corpse.corpse_of": "%s的遺體",
-    "button.previous": "Previous",
+    "button.previous": "上一個",
     "button.next": "下一個",
     "gui.corpse.page": "%s / %s",
     "gui.death_history.title": "死亡歷史",
@@ -10,11 +10,11 @@
     "gui.death_history.dimension": "維度",
     "gui.death_history.location": "位置",
     "button.show_items": "物品",
-    "key.death_history": "Open Death History",
+    "key.death_history": "打開死亡歷史",
     "message.no_death_history": "沒有死亡歷史",
-    "message.invalid_arguments": "Invalid Arguments",
-    "chat.teleport_death_location": "Teleport to death location %s",
+    "message.invalid_arguments": "無效參數",
+    "chat.teleport_death_location": "傳送至死亡座標 %s",
     "chat.teleport.wrong_dimension": "無法傳送！你在另一個維度。",
-    "chat.teleport.no_permission": "You don't have permission to teleport!",
-    "tooltip.teleport": "Teleport"
+    "chat.teleport.no_permission": "你沒有傳送的許可權",
+    "tooltip.teleport": "傳送"
 }
