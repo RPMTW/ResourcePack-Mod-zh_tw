@@ -1,8 +1,8 @@
 {
-    "tile.chunkloaders.single_chunk_loader.name": "Single Chunk Loader",
-    "tile.chunkloaders.basic_chunk_loader.name": "Basic Chunk Loader",
-    "tile.chunkloaders.advanced_chunk_loader.name": "Advanced Chunk Loader",
-    "tile.chunkloaders.ultimate_chunk_loader.name": "Ultimate Chunk Loader",
+    "tile.chunkloaders.single_chunk_loader.name": "單一區塊載入器",
+    "tile.chunkloaders.basic_chunk_loader.name": "基本區塊載入器",
+    "tile.chunkloaders.advanced_chunk_loader.name": "進階區塊載入器",
+    "tile.chunkloaders.ultimate_chunk_loader.name": "終極區塊載入器",
     "chunkloaders.gui.loaded": "已載入",
     "chunkloaders.gui.unloaded": "無法載入",
     "chunkloaders.chunk_loader.info.single": "可以載入單一區塊",
