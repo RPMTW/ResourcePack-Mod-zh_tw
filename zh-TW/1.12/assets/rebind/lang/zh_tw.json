@@ -1,16 +1,16 @@
 {
-    "key.quit": "Quit",
-    "key.hideHUD": "Hide HUD",
-    "key.debugScreen": "Debug Screen",
-    "key.switchShader": "Switch Shader",
-    "key.narrator": "Narrator",
-    "rebind.command.help.title": "Available commands:",
+    "key.quit": "退出",
+    "key.hideHUD": "隐藏 HUD",
+    "key.debugScreen": "除錯介面",
+    "key.switchShader": "切換光影",
+    "key.narrator": "朗讀功能",
+    "rebind.command.help.title": "可用指令：",
     "rebind.command.help.list": "show list of unknown keybindings",
     "rebind.command.help.update": "add unknown keybindings to config file",
     "rebind.command.err.noUnknownKeys": "No unknown keybindings",
     "rebind.command.list": "Unknown keybindings list:",
     "rebind.command.err.externalConfigDisabled": "External config disabled",
     "rebind.command.update": "External config updated",
-    "rebind.update.newVersion": "New version!",
-    "rebind.update.projectPage": "Link"
+    "rebind.update.newVersion": "新版本!",
+    "rebind.update.projectPage": "連結"
 }
