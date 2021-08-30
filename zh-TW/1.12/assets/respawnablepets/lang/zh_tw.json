@@ -1,8 +1,8 @@
 {
-    "item.respawnablepets.etheric_gem.name": "Etheric Gem",
-    "respawnablepets.tooltip": "Allows you to toggle pet respawning by punching",
-    "respawnablepets.enable_respawn": "%s will now respawn on death",
-    "respawnablepets.disable_respawn": "%s will no longer respawn on death",
-    "respawnablepets.not_owner": "%s does not belong to you",
-    "respawnablepets.blacklisted": "%s is a blacklisted entity"
+    "item.respawnablepets.etheric_gem.name": "乙太寶珠",
+    "respawnablepets.tooltip": "拿它敲一下你的寵物以賦予其重生的能力",
+    "respawnablepets.enable_respawn": "%s 死亡後將會重生",
+    "respawnablepets.disable_respawn": "%s 死亡後不再重生",
+    "respawnablepets.not_owner": "%s 不屬於你",
+    "respawnablepets.blacklisted": "%s 是被列入黑名單的實體"
 }
