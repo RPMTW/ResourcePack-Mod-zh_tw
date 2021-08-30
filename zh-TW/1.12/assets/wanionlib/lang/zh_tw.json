@@ -3,9 +3,9 @@
     "wanionlib.redstone.control.state.ignored": "忽略",
     "wanionlib.redstone.control.state.off": "關閉",
     "wanionlib.redstone.control.state.on": "開啟",
-    "wanionlib.redstone.control.state.ignored.desc": "它將忽略紅石信號",
-    "wanionlib.redstone.control.state.off.desc": "它只有在沒有收到紅石信號時，才會運行",
-    "wanionlib.redstone.control.state.on.desc": "它只有在接收紅石信號時，才會運行",
+    "wanionlib.redstone.control.state.ignored.desc": "它將忽略紅石訊號",
+    "wanionlib.redstone.control.state.off.desc": "它只有在沒有收到紅石訊號時，才會執行",
+    "wanionlib.redstone.control.state.on.desc": "它只有在接收紅石訊號時，才會執行",
     "wanionlib.matching.control": "匹配控制",
     "wanionlib.matching.desc": "右鍵切換模式",
     "wanionlib.matching.matcher.item_stack": "物品棧",
@@ -20,6 +20,6 @@
     "wanionlib.success": "成功！",
     "wanionlib.failure": "失敗",
     "wanionlib.consumes": "消耗%1$s FE",
-    "wanionlib.per.operation": "per operation\n// Field",
-    "wanionlib.field.occupied": "You cannot use this field while %1$s is using it."
+    "wanionlib.per.operation": "預設",
+    "wanionlib.field.occupied": "當 %1$s 正在使用該字段時，您不能使用它。"
 }
