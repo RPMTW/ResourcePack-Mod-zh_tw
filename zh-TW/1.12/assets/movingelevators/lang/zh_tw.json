@@ -1,7 +1,7 @@
 {
-    "tile.movingelevators:elevator_block.name": "Elevator Controller",
-    "tile.movingelevators:display_block.name": "Elevator Display",
-    "tile.movingelevators:button_block.name": "Remote Elevator Panel",
+    "tile.movingelevators:elevator_block.name": "電梯控制器",
+    "tile.movingelevators:display_block.name": "電梯顯示器",
+    "tile.movingelevators:button_block.name": "遠程電梯面板",
     "block.movingelevators.button_block.info": "控制器位於 $x$, $y$, $z$",
     "block.movingelevators.button_block.bind": "綁定到電梯控制器!",
     "block.movingelevators.button_block.place": "必須綁定到電梯控制器!",
