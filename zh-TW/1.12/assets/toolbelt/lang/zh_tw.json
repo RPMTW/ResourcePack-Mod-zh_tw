@@ -1,6 +1,6 @@
 {
-    "item.toolbelt.belt.name": "Tool Belt",
-    "item.toolbelt.pouch.name": "Belt Pouch",
+    "item.toolbelt.belt.name": "工具腰帶",
+    "item.toolbelt.pouch.name": "腰帶包",
     "key.toolbelt.open": "交換工具",
     "key.toolbelt.category": "工具皮帶",
     "key.toolbelt.slot": "打開工具皮帶物品欄",
@@ -9,5 +9,5 @@
     "text.toolbelt.insert": "放入",
     "text.toolbelt.extract": "取出",
     "text.toolbelt.tooltip": "升級數量: %s (%s格)",
-    "text.toolbelt.name": "Tool Belt"
+    "text.toolbelt.name": "工具腰帶"
 }
