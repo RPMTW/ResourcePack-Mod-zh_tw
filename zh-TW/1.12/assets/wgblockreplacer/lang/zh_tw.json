@@ -1,6 +1,6 @@
 {
-    "replaceblock": "Replace Block:",
-    "replaceblock.tooltip": "The block id to replace.",
+    "replaceblock": "替換方塊：",
+    "replaceblock.tooltip": "被替換的方塊ID",
     "replaceblockmeta": "Replace Block Meta:",
     "replaceblockmeta.tooltip": "The block meta to replace. Use -1 for the block's default state.",
     "replacewith": "Replace Block With:",
