@@ -1,8 +1,8 @@
 {
-    "gui.mvguicfg.pick": "§a§l[Click]§r to pick, click again to place",
-    "gui.mvguicfg.orig": "§b§l[Alt+Click]§r to reset to the original position",
-    "gui.mvguicfg.hide": "§b§l[Shift+Click]§r to hide/show",
-    "gui.mvguicfg.size": "§b§l[MidClick]§r to grow, §b§l[RightClick]§r to shrink",
-    "gui.mvguicfg.close": "Press ESC to save",
-    "minerva.config_gui": "Hud Configuration"
+    "gui.mvguicfg.pick": "使用 §a§l[左鍵]§r 以選擇，再次使用 §a§l[左鍵]§r 以放置",
+    "gui.mvguicfg.orig": "使用 §b§l[Alt 和左鍵]§r 重置到原始位置",
+    "gui.mvguicfg.hide": "使用 §b§l[Shift 和左鍵]§r 來展開/收起",
+    "gui.mvguicfg.size": "使用 §b§l[中鍵]§r 增加，使用 §b§l[右鍵]§r 減少",
+    "gui.mvguicfg.close": "請按 Esc 鍵保存",
+    "minerva.config_gui": "HUD 設定"
 }
