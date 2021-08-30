@@ -1,8 +1,8 @@
 {
-    "primitivecrafting.moreoptions": "More crafting options are available.",
-    "primitivecrafting.cycle": "Press %s to cycle through options.",
-    "primitivecrafting.title": "Primitive Crafting",
-    "key.primitive.showrecipe.desc": "Show valid recipes",
-    "key.primitive.cyclerecipes.desc": "Cycle valid recipes",
-    "key.primitive.craftstack.desc": "Craft entire stack"
+    "primitivecrafting.moreoptions": "有其他可用的合成配方供選擇。",
+    "primitivecrafting.cycle": "按下 %s 切換合成配方。",
+    "primitivecrafting.title": "原始合成",
+    "key.primitive.showrecipe.desc": "顯示有效的合成配方",
+    "key.primitive.cyclerecipes.desc": "切換有效的合成配方",
+    "key.primitive.craftstack.desc": "把整個堆疊的物品用於合成"
 }
