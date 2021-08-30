@@ -1,7 +1,7 @@
 {
-    "item.deepresonance.dr_manual.name": "Deep Resonance手冊",
+    "item.deepresonance.dr_manual.name": "深度共振手冊",
     "item.deepresonance.radiation_module.name": "輻射畫面模組",
-    "item.deepresonance.rcl_module.name": "RCL熒幕模組",
+    "item.deepresonance.rcl_module.name": "RCL螢幕模組",
     "item.deepresonance.radiation_monitor.name": "輻射顯示器",
     "item.deepresonance.resonating_plate.name": "共振板",
     "item.deepresonance.filter.name": "過濾材料",
@@ -35,7 +35,7 @@
     "tile.deepresonance.laser.name": "注射激光",
     "tile.deepresonance.cooldown_sensor.name": "冷卻傳感器",
     "tile.deepresonance.instability_sensor.name": "不穩定傳感器",
-    "itemGroup.DeepResonance": "Deep Resonance",
+    "itemGroup.DeepResonance": "深度共振",
     "message.shiftMessage": "按住 Shift",
     "fluid.deepresonance.liquid_crystal": "共振水晶液"
 }
