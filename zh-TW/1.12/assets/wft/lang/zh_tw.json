@@ -1,6 +1,6 @@
 {
-    "item.wft:wft.name": "Wireless Fluid Terminal",
-    "item.wft:wft_creative.name": "Creative Wireless Fluid Terminal",
-    "key.open_wft.desc": "Open Wireless Fluid Terminal",
-    "jei.wft.desc": "A wireless version of the AE2 Fluid Terminal. To function, it needs to be linked to a ME network via a Security Terminal. A keybind can be set in Options->Controls to open the GUI."
+    "item.wft:wft.name": "無線流體終端",
+    "item.wft:wft_creative.name": "創造模式無線流體終端",
+    "key.open_wft.desc": "打開無線流體終端",
+    "jei.wft.desc": "無線版流體終端。需要通過安全終端連結到 ME 網路。可以在控制中設定按鍵綁定以打開 GUI。"
 }
