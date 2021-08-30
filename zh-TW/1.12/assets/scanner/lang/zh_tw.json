@@ -1,10 +1,10 @@
 {
-    "tile.terrainScanner.name": "Terrain Scanner",
-    "tile.biomeScannerBasic.name": "Biome Scanner (Basic)",
-    "tile.biomeScannerAdv.name": "Biome Scanner (Advanced)",
-    "tile.biomeScannerElite.name": "Biome Scanner (Elite)",
-    "tile.biomeScannerUltimate.name": "Biome Scanner (Ultimate)",
-    "tile.scannerQueue.name": "Scanner Queue",
+    "tile.terrainScanner.name": "地形掃描儀",
+    "tile.biomeScannerBasic.name": "生態域掃描儀（基礎）",
+    "tile.biomeScannerAdv.name": "生態域掃描儀（高級）",
+    "tile.biomeScannerElite.name": "生態域掃描儀（精英）",
+    "tile.biomeScannerUltimate.name": "生物群掃描儀（終極）",
+    "tile.scannerQueue.name": "掃描隊列",
     "gui.scanner.showMap": "Show map",
     "gui.scanner.charged": "Charged",
     "gui.scanner.turnOn": "Turn on",
@@ -31,7 +31,7 @@
     "gui.scanner.capacity": "Capacity",
     "gui.scanner.distanceInChunks": "Distance (Chunks)",
     "gui.scanner.speedInBlocksPerTick": "Speed (Blocks/t)",
-    "itemGroup.scanner": "Scanner",
+    "itemGroup.scanner": "掃描器",
     "waila.scanner.energy": "Energy",
     "waila.scanner.owner": "Owner"
 }
