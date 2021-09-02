@@ -2,7 +2,7 @@
   "processor": "vazkii.botania.client.patchouli.processor.PetalApothecaryProcessor",
   "components": [
     {
-      "type": "image",
+      "type": "patchouli:image",
       "image": "botania:textures/gui/petal_overlay.png",
       "x": 0,
       "y": 8,
@@ -12,7 +12,7 @@
       "v": 8
     },
     {
-      "type": "header",
+      "type": "patchouli:header",
       "text": "#heading",
       "x": -1,
       "y": -1
