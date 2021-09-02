@@ -1,5 +1,5 @@
 {
-    "name": "Moon Temple Mobs",
+    "name": "月宮中的生物",
     "icon": "theaurorian:bossspawnerkeeper",
     "category": "2modprogression",
     "sortnum": "7",
@@ -8,16 +8,16 @@
         {
             "type": "entity",
             "entity": "theaurorian:moonacolyte",
-            "text": "$(#008cff)Moon Acolytes$() will knock you back and levitate you when they attack."
+            "text": "$(#008cff)皎月侍從$()會擊退你並在攻擊到你時讓你漂浮起來。"
         },
         {
             "type": "entity",
             "entity": "theaurorian:crystallinesprite",
-            "text": "$(#008cff)Crystalline Sprites$() are a flying mob that fires beams at nearby players."
+            "text": "$(#008cff)月凝晶魂$()會在空中向玩家發射火焰。"
         },
         {
             "type": "text",
-            "text": "$(#8800ff)The Moon Queen$() is the boss of $(#008cff)The Moon Temple$(). She will circle you with her shield up and perform shield charges to knock you up in the air!"
+            "text": "$(#8800ff)皎月女王$()是$(#008cff)月宮$()的 Boss。她會使用自己的護盾將你圍起來並充能以將你擊飛至空中！"
         },
         {
             "type": "entity",
