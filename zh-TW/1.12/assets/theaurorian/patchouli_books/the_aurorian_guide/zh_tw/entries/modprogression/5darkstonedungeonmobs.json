@@ -1,5 +1,5 @@
 {
-    "name": "Darkstone Dungeon Mobs",
+    "name": "暗石地牢中的生物",
     "icon": "theaurorian:bossspawnerkeeper",
     "category": "2modprogression",
     "sortnum": "5",
@@ -8,12 +8,12 @@
         {
             "type": "entity",
             "entity": "theaurorian:spiderling",
-            "text": "$(#008cff)Spiderlings$() are baby spiders that will leap and attack you."
+            "text": "$(#008cff)幼蛛$()是較小的蜘蛛，它會掉下來並攻擊你！"
         },
         {
             "type": "entity",
             "entity": "theaurorian:spider",
-            "text": "$(#8800ff)The Spider Mother$() is the boss of $(#008cff)The Darkstone Dungeon$(). It will Spit at you, Hang, and spawn Spiderlings!"
+            "text": "$(#8800ff)蛛母$()是$(#008cff)暗石地牢$()的 Boss。它會向你吐絲，又或者懸掛在高處並生成幼蛛！"
         }
     ]
 }
