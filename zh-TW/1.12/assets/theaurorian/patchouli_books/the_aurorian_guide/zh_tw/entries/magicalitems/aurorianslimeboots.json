@@ -1,5 +1,5 @@
 {
-    "name": "Aurorian Slime Boots",
+    "name": "極光黏液靴子",
     "icon": "theaurorian:aurorianslimeboots",
     "category": "3magicalitems",
     "readbydefault": true,
@@ -7,7 +7,7 @@
         {
             "type": "spotlight",
             "item": "theaurorian:aurorianslimeboots",
-            "text": "$(#008cff)Aurorian Slime Boots$() lets you jump extra high when you jump while crouching! They also negate fall damage and by default have a 5 second slime jump cooldown."
+            "text": "$(#008cff)極光黏液靴子$()能讓你在下蹲時跳得更高！它同樣也會減少你的摔落傷害。預設情況下高跳之間有 5 秒的冷卻。"
         },
         {
             "type": "crafting",
