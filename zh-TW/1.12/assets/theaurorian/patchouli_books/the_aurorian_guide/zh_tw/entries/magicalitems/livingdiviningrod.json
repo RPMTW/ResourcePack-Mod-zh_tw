@@ -1,5 +1,5 @@
 {
-    "name": "Living Divining Rod",
+    "name": "生體卜窺權杖",
     "icon": "theaurorian:livingdiviningrod",
     "category": "3magicalitems",
     "readbydefault": true,
@@ -7,7 +7,7 @@
         {
             "type": "spotlight",
             "item": "theaurorian:livingdiviningrod",
-            "text": "$(#008cff)Living Divining Rod$() will glow a nearby entity when used!"
+            "text": "$(#008cff)生體卜窺權杖$()會使附近的一個實體發光！"
         }
     ]
 }
