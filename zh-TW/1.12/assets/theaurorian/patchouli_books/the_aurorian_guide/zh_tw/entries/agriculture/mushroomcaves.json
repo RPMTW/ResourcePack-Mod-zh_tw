@@ -1,13 +1,13 @@
 {
-    "name": "Mushroom Caves",
+    "name": "蘑菇洞穴",
     "icon": "theaurorian:mushroomsmall",
     "category": "4agriculture",
     "readbydefault": true,
     "pages": [
         {
             "type": "image",
-            "title": "Indigo Mushrooms",
-            "text": "Underground you can find caves full of these mushrooms!",
+            "title": "深藍蘑菇",
+            "text": "你可以在地底的洞穴中找到這些蘑菇！",
             "images": [
                 "theaurorian:patchouli_books/the_aurorian_guide/en_us/entries/agriculture/mushrooms.png"
             ]
@@ -15,13 +15,13 @@
         {
             "type": "spotlight",
             "item": "theaurorian:mushroomsmall",
-            "text": "$(#008cff)Indigo Mushrooms$() are bouncy and can be made into $(#008cff)Silkshroom Stew$()! Also $(#008cff)Mushroom Crystals$() will commonly grow as a fruit under these mushrooms. They are a good source of light and can be picked up instantly!"
+            "text": "$(#008cff)深藍蘑菇$()很有彈性，並且可以用於製作$(#008cff)桑葚煲$()！同時$(#008cff)蘑菇水晶$()也會像果實一樣生成在這些蘑菇的下方。它們是很好的光源，並且你可以瞬間採集它們！"
         },
         {
             "type": "crafting",
-            "name": "Silkshroom Stew",
+            "name": "桑葚煲",
             "recipe": "theaurorian:items/silkshroomstew",
-            "text": "$(#008cff)Indigo Mushrooms$() can also be used for food if you have some $(#008cff)Silkberries$() lying around."
+            "text": "$(#008cff)深藍蘑菇$()也可以被作為食物食用，當然這需要搭配著$(#008cff)桑葚$()完成。"
         }
     ]
 }
