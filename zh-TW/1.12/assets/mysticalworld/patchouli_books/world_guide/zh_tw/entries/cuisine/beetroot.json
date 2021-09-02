@@ -1,5 +1,5 @@
 {
-  "name": "Cooked Beetroot",
+  "name": "烤甜菜根",
   "icon": "mysticalworld:cooked_beetroot",
   "category": "cuisine",
   "pages": [
@@ -7,13 +7,13 @@
       "type": "spotlight",
       "link_recipe": true,
       "item": "mysticalworld:cooked_beetroot",
-      "text": "Beetroot is delicious when roasted!"
+      "text": "甜菜根烤熟後很美味"
     },
     {
       "type": "smelting",
       "recipe": "minecraft:beetroot",
-      "title": "Cooked Beetroot",
-      "text": "Beetroots can be cooked slowly over in a furnace."
+      "title": "烤甜菜根",
+      "text": "甜菜根可以在熔爐裡慢慢的烤"
     }
   ]
 }
