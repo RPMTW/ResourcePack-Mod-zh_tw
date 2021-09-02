@@ -1,5 +1,5 @@
 {
-    "name": "Queens Chipper",
+    "name": "女王之削片鎬",
     "icon": "theaurorian:queenschipper",
     "category": "3magicalitems",
     "readbydefault": true,
@@ -7,7 +7,7 @@
         {
             "type": "spotlight",
             "item": "theaurorian:queenschipper",
-            "text": "$(#008cff)The Queens Chipper$() is a pickaxe that can chip away and harvest Aurorian Dungeon Bricks!"
+            "text": "$(#008cff)女王之削片鎬$()作為一把鎬，能夠如泥般砍削地牢方塊！"
         }
     ]
 }
