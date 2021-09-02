@@ -1,5 +1,5 @@
 {
-    "name": "Aurorian Pork",
+    "name": "極光豬排",
     "icon": "theaurorian:aurorianporkcooked",
     "category": "4agriculture",
     "readbydefault": true,
@@ -7,7 +7,7 @@
         {
             "type": "smelting",
             "recipe": "theaurorian:aurorianpork",
-            "text": "$(#008cff)Aurorain Pork$() is dropped from $(#008cff)Aurorian Pigs$() and can also be turned into $(#008cff)Aurorian Bacon$()!"
+            "text": "$(#008cff)極光豬排$()是$(#008cff)極光豬$()的掉落物，它可以被製成$(#008cff)極光培根$()！"
         },
         {
             "type": "entity",
