@@ -7,7 +7,7 @@
     "jm.advanced.browserpoll.tooltip": "網頁地圖請求刷新前的延遲（單位為毫秒）。 較低的值會影響效能。",
     "jm.advanced.cache_animals": "動物快取",
     "jm.advanced.cache_animals.tooltip": "在檢測新的動物前雷達數據快取的保持時間（單位為毫秒）。較低的值會影響效能。",
-    "jm.advanced.cache_mobs": "暫存怪物",
+    "jm.advanced.cache_mobs": "怪物快取",
     "jm.advanced.cache_mobs.tooltip": "在檢測新的怪物前雷達數據快取的保持時間（單位為毫秒）。較低的值會影響效能。",
     "jm.advanced.cache_player": "玩家快取",
     "jm.advanced.cache_player.tooltip": "你在被再次檢測前的狀態數據快取的保持時間（單位為毫秒）。較低的值會影響效能。",
