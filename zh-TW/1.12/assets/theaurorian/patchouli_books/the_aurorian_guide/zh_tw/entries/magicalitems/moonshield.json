@@ -1,13 +1,13 @@
 {
-    "name": "Moon's Shield",
-    "icon": "theaurorian:moonshield",
+    "name": "皎月之盾",
+    "icon": "theaurorian:queenschipper",
     "category": "3magicalitems",
     "readbydefault": true,
     "pages": [
         {
             "type": "spotlight",
-            "item": "theaurorian:moonshield",
-            "text": "$(#008cff)The Moon's Shield$() contains the power of the Moon Queen herself! You can charge at foes and knock them up in the air when blocking."
+            "item": "theaurorian:queenschipper",
+            "text": "$(#008cff)皎月之盾$()包含了皎月女王自身的能量！你可以對敵人充能，並在阻擋掉攻擊時將他們擊飛！"
         }
     ]
 }
