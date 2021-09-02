@@ -1,5 +1,5 @@
 {
-    "name": "Darkstone Dungeon",
+    "name": "暗石地牢",
     "icon": "theaurorian:darkstonekey",
     "category": "2modprogression",
     "sortnum": "4",
@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "image",
-            "title": "Darkstone Dungeon",
+            "title": "暗石地牢",
             "text": "",
             "images": [
                 "theaurorian:patchouli_books/the_aurorian_guide/en_us/entries/aurorianbasics/darkstonedungeon.png"
@@ -15,18 +15,18 @@
         },
         {
             "type": "text",
-            "text": "$(#008cff)The Darkstone Dungeon$() entrance can be found on the surface. It leads down to a maze-like spider infested dungeon. You must make your way down to $(#8800ff)The Spider Mother$() and exterminate her!"
+            "text": "$(#008cff)暗石地牢$()的入口位於地表，大門之下掩藏著重重疊疊如迷宮般的、被蜘蛛占領的地牢。你必須找到$(#8800ff)蛛母$()並擊殺它！"
         },
         {
             "type": "crafting",
-            "title": "Darkstone Key",
+            "title": "暗石鑰匙",
             "recipe": "theaurorian:items/special/darkstonekey"
         },
         {
             "type": "spotlight",
-            "title": "Dark Amulet",
+            "title": "暗黑護符",
             "item": "theaurorian:darkamulet",
-            "text": "$(#8800ff)The Spider Mother$() drops $(#008cff)The Dark Amulet$() which is used to gain access to the next dungeon; $(#008cff)The Moontemple$()."
+            "text": "$(#8800ff)蛛母$()會掉落$(#008cff)暗黑護符$()，這一護符為下一座地牢的鑰匙，它將會引導你你來到$(#008cff)月宮$()。"
         }
     ]
 }
