@@ -6,5 +6,6 @@
     "ccl.commands.killall.success": "已消滅 %s 個實體。",
     "ccl.commands.killall.success.line": "已消滅 %s",
     "ccl.commands.count.fail": "找不到實體。",
-    "ccl.commands.count.total": "找到 %s 個實體。"
+    "ccl.commands.count.total": "找到 %s 個實體。",
+    "ccl.commands.killall.fail.player": "You cannot kill players with this command."
 }
