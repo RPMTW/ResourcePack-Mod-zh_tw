@@ -1,5 +1,5 @@
 {
-    "name": "Mystical Barrier",
+    "name": "神秘屏障",
     "icon": "theaurorian:mysticalbarrier",
     "category": "5blocks",
     "readbydefault": true,
@@ -7,7 +7,7 @@
         {
             "type": "spotlight",
             "item": "theaurorian:mysticalbarrier",
-            "text": "A one way block that cannot be mined, pushes entities through the blue side and repels on the orange side! It's only destroyed when the nearby boss is killed."
+            "text": "一個單向的、無法採掘的方塊，它將會把實體從藍色的一面推過去，並排斥從橙色的一面過來的實體！只有在附近的 Boss 被擊殺時它才會被破壞。"
         }
     ]
 }
