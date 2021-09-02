@@ -1,12 +1,8 @@
 {
-    "_comment_0": " Realistic Torches - Language File",
-    "_comment_1": " UNITED STATES - ENGLISH",
-    "_comment_2": "方塊",
     "tile.realistictorches.torch_unlit.name": "未點燃的火把",
     "tile.realistictorches.torch_lit.name": "點燃的火把",
     "tile.realistictorches.torch_smoldering.name": "陰燃的火把",
     "tile.realistictorches.moving_light_source.name": "移動光源",
-    "_comment_3": " 物品",
     "item.realistictorches.matchbox.name": "火柴盒",
     "item.realistictorches.glowstone_crystal.name": "螢光石水晶",
     "item.realistictorches.glowstone_paste.name": "螢光石軟膏"
