@@ -1,5 +1,5 @@
 {
-    "name": "Orb Of Absorption",
+    "name": "修損寶珠",
     "icon": "theaurorian:absorptionorb",
     "category": "3magicalitems",
     "readbydefault": true,
@@ -7,7 +7,7 @@
         {
             "type": "spotlight",
             "item": "theaurorian:absorptionorb",
-            "text": "$(#008cff)The Orb Of Absorption$() can heal any item in your main hand when it's in your offhand!"
+            "text": "$(#008cff)修損寶珠$()可以在在非慣用手時恢復你主手物品的耐久度！"
         }
     ]
 }
