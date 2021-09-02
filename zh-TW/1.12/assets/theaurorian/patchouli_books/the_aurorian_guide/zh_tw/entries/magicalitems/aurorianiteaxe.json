@@ -1,5 +1,5 @@
 {
-    "name": "Aurorianite Axe",
+    "name": "極光斧",
     "icon": "theaurorian:aurorianiteaxe",
     "category": "3magicalitems",
     "readbydefault": true,
@@ -7,7 +7,7 @@
         {
             "type": "spotlight",
             "item": "theaurorian:aurorianiteaxe",
-            "text": "$(#008cff)The Aurorianite Axe$() has the ability to chop whole trees down, also can be used as a weapon!"
+            "text": "$(#008cff)極光斧$()可以砍下整棵樹，也可以被用作武器！"
         }
     ]
 }
