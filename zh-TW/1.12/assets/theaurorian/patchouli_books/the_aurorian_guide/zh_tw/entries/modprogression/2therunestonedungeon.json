@@ -1,5 +1,5 @@
 {
-    "name": "Runestone Dungeon",
+    "name": "符石地牢",
     "icon": "theaurorian:runestonekey",
     "category": "2modprogression",
     "sortnum": "2",
@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "image",
-            "title": "Runestone Dungeon",
+            "title": "符石地牢",
             "text": "",
             "images": [
                 "theaurorian:patchouli_books/the_aurorian_guide/en_us/entries/aurorianbasics/runestone.png"
@@ -15,13 +15,13 @@
         },
         {
             "type": "text",
-            "text": "$(#008cff)The Runestone Dungeon$() can be found throughout The Aurorian, they always spawn along the X and Z axis. And is home to $(#8800ff)The Runestone Dungeon Keeper$()!$(br2)It's recommended to bring a shield, at least Cerulean or Iron armor, and plenty of inventory space for loot!$(br2)Like all the other dungeons in this mod, $(#008cff)The Runestone Dungeon's$() bricks cannot be broken!"
+            "text": "在探索極光幽境的過程中，你會找到$(#008cff)符石地牢$()，這種地牢僅會沿著 x 軸和 z 軸生成，在其中棲息著一些$(#8800ff)符石守衛$()！$(br2)若想去此處探險，你最好帶上盾牌，身上的護甲至少應是晶藍或者鐵護甲。當然，記得給你的行囊留多一些空位，因為地牢中有大量的戰利品等著你來拿！$(br2與本模組加入的其它地牢一樣，$(#008cff)符石地牢$()的牆磚無法被破壞！"
         },
         {
             "type": "spotlight",
-            "title": "Runestone Key",
+            "title": "符石鑰匙",
             "item": "theaurorian:runestonekey",
-            "text": "Used to open $(#008cff)Runestone Gates$(). Only found as loot."
+            "text": "可用於開啟$(#008cff)符石大門$()，只能以戰利品形式獲得。"
         }
     ]
 }
