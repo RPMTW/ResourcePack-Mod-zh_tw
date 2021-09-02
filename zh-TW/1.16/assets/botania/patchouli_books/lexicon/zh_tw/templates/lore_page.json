@@ -1,7 +1,7 @@
 {
   "components": [
     {
-      "type": "image",
+      "type": "patchouli:image",
       "image": "botania:textures/gui/paper_left.png",
       "guard": "#left_side->exists",
       "x": -5,
