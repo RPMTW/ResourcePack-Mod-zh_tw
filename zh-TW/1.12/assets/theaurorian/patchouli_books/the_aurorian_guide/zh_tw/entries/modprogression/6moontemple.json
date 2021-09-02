@@ -1,5 +1,5 @@
 {
-    "name": "Moon temple",
+    "name": "月宮",
     "icon": "theaurorian:moontemplekey",
     "category": "2modprogression",
     "sortnum": "6",
@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "image",
-            "title": "Moon temple",
+            "title": "月宮",
             "text": "",
             "images": [
                 "theaurorian:patchouli_books/the_aurorian_guide/en_us/entries/aurorianbasics/moontemple.png"
@@ -15,24 +15,24 @@
         },
         {
             "type": "text",
-            "text": "$(#008cff)The Moon temple$() can be found floating in the sky, they always spawn along the X and Z axis, same as the $(#008cff)The Runestone Dungeon$(). It has a small path leading up to the entrance and is home to $(#8800ff)The Moon Queen$()!$(br2)Around the temple you can find floating islands that contain $(#008cff)Moongems$() that are important for many recipes."
+            "text": "$(#008cff)月宮$()是浮空的島嶼，它們只會像$(#008cff)符石地牢$()一樣，沿 x 軸和 z 軸生成。有一條小路帶你上去。這裡是$(#8800ff)皎月女王$()的家！$(br2)月宮附近還有其它的浮空島世界嶼，重要的合成材料$(#008cff)皎月寶石$()便會在上面生成。"
         },
         {
             "type": "crafting",
-            "title": "Moon Temple Key",
+            "title": "月宮鑰匙",
             "recipe": "theaurorian:items/special/moontemplekey"
         },
         {
             "type": "spotlight",
-            "title": "Dark Amulet",
+            "title": "暗黑護符",
             "item": "theaurorian:darkamulet",
-            "text": "$(#8800ff)The Moon Queen$() drops $(#008cff)The Dark Amulet$() which is used to gain access to the next dungeon.$(br2)$(#008cff)The Moontemples$() interior has two towers. At the top of each tower you can find a $(#008cff)Moon Temple Cell Key Fragment$()."
+            "text": "$(#8800ff)蛛母$()會掉落能通往下一座地牢的$(#008cff)暗黑護符$()。$(br2)$(#008cff)月宮$()的內部有兩座塔。塔頂會有$(#008cff)月宮內室鑰匙碎片$()。"
         },
         {
             "type": "crafting",
-            "title": "Moon Temple Cell Key",
+            "title": "月宮內室鑰匙",
             "recipe": "theaurorian:items/special/moontemplecellkey",
-            "text": "After clearing each side and obtaining both fragments, you can craft the key with a $(#008cff)Moongem$(). Now you can access the boss room!"
+            "text": "在完成兩座塔的探索並拿到兩個鑰匙碎片後，可以將取得到的鑰匙碎片與$(#008cff)皎月寶石$()合成為月宮內室鑰匙。現在你可以進入 Boss 房間了！"
         }
     ]
 }
