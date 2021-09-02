@@ -1,5 +1,5 @@
 {
-    "name": "Aurorian Furnace",
+    "name": "極光熔爐",
     "icon": "theaurorian:aurorianfurnace",
     "category": "5blocks",
     "readbydefault": true,
@@ -7,7 +7,7 @@
         {
             "type": "spotlight",
             "item": "theaurorian:aurorianfurnace",
-            "text": "Works the same as vanilla furnace, but you can stack chimneys on top to speed up the smelting speed!$(br2)Speed and max chimneys can be changed in the config file. Chimneys can also have blocks placed between them to allow for stuff like seemless roofing."
+            "text": "與原版的熔爐相同，但你可以在上方放置孔道來加快熔煉速度！$(br2)速度和孔道最大數量可以在設定檔案中被修改。孔道之間也可以被擺放上方塊以實現無縫覆蓋。"
         },
         {
             "type": "crafting",
