@@ -1,5 +1,5 @@
 {
-    "name": "Urns",
+    "name": "甕",
     "icon": "theaurorian:urn",
     "category": "5blocks",
     "readbydefault": true,
@@ -7,7 +7,7 @@
         {
             "type": "spotlight",
             "item": "theaurorian:urn",
-            "text": "An urn that's found in caves, they drop valuable loot when broke! Not silktouchable."
+            "text": "洞穴中可以找到的甕，打破後會掉落戰利品！無法被絲綢之觸。"
         }
     ]
 }
