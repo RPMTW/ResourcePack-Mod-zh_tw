@@ -1,5 +1,5 @@
 {
-    "name": "Umbra Shield",
+    "name": "本影盾牌",
     "icon": "theaurorian:umbrashield",
     "category": "3magicalitems",
     "readbydefault": true,
@@ -7,7 +7,7 @@
         {
             "type": "spotlight",
             "item": "theaurorian:umbrashield",
-            "text": "$(#008cff)The Umbra Shield$() will light entities that are directly in front of you on fire when blocking! Holding shift lets you block normally. Also blocking for too long will cause the shield to overheat and will take a little bit before you can use it again."
+            "text": "$(#008cff)本影盾牌$()會在你阻擋攻擊時點燃你正對著的實體。按住 Shift 鍵以阻擋攻擊。處於阻擋狀態下過長時間會導致盾牌過載，你將必須在下次使用之前等待一點時間。"
         }
     ]
 }
