@@ -1,5 +1,5 @@
 {
-    "name": "Sickles",
+    "name": "鐮",
     "icon": "theaurorian:aurorianstonesickle",
     "category": "1aurorianbasics",
     "sortnum": "4",
@@ -7,9 +7,9 @@
     "pages": [
         {
             "type": "spotlight",
-            "title": "Aurorian Stone Sickle",
+            "title": "極光石鐮",
             "item": "theaurorian:aurorianstonesickle",
-            "text": "$(#008cff)Sickles$() are a new tool added that behave the same as Shears. They are essential for harvesting $(#008cff)Lavender$(), $(#008cff)Petunias$(), and other Aurorian plants.$(br2)Sickles are also used to harvest $(#008cff)Plant Fiber$() by breaking $(#008cff)Aurorian Tall Grass$(). $(#008cff)Plant Fiber$() is a very important ingredient for Aurorian items."
+            "text": "$(#008cff)鐮$()是一種與剪刀類似的新工具。它被用於採集$(#008cff)薰衣草$()、$(#008cff)牽牛花$()以及其它的幾種極光幽境中的植物。$(br2)鐮同樣也可以被用於通過破壞$(#008cff)極光芒草$()來獲得$(#008cff)植物纖維$()。$(#008cff)植物纖維$()也是合成的重要材料之一。"
         },
         {
             "type": "crafting",
