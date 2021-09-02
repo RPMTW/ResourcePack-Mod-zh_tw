@@ -63,10 +63,10 @@
     "enchantment.uniquee.icarus_aegis.desc": "手持鞘翅潛行右鍵一個鐵砧將會消耗你身上所有的羽毛，消耗羽毛可以抵消滑翔造成的撞擊的傷害",
     "enchantment.uniquee.ender_librarian": "§d地§5圖§d傳§5送",
     "enchantment.uniquee.ender_librarian.desc": "用帶有該附魔的地圖潛行右鍵將會把你隨機傳送到附近的一個位置，並丟失附魔。如果是藏寶圖，將會直接將你傳送到目的地。物品會被消耗。",
-    "enchantment.uniquee.demeters_soul": "§5終界§a種植",
-    "enchantment.uniquee.demeters_soul.desc": "用有該附魔的工具潛行右鍵一個作物來標記它，它成熟的時候只會獲得一個產物，但是會自動輸出到你的終界箱裡。（可以取消）",
     "enchantment.uniquee.endest_reap": "§4靈魂§7收割",
     "enchantment.uniquee.endest_reap.desc": "Deals bonus magic damage for every Reaped Stack. Gains a Stack for every 'higher being'",
+    "enchantment.uniquee.grimoire": "Grimoire",
+    "enchantment.uniquee.grimoire.desc": "Improves Enchantments by Player's Knowledge",
     "enchantment.uniquee.pestilences_odium": "§1瘟疫§a詛咒",
     "enchantment.uniquee.pestilences_odium.desc": "在你附近的中立生物將會不斷受到傷害，而且不會掉落物品。",
     "enchantment.uniquee.deaths_odium": "§4死神§c詛咒",
@@ -76,10 +76,5 @@
     "tooltip.uniqee.stored.lava.name": "已儲存的《§c熔岩§6》: %s",
     "tooltip.uniqee.stored.feather.name": "已儲存的 ［ §3羽毛§6 ］ : %s",
     "tooltip.uniqee.stored.repair.name": "已儲存的〔§3經驗§6〕: %s",
-    "tooltip.uniqee.crops.added.name": "對此農作物 §4開啟]§f自動收割",
-    "tooltip.uniqee.crops.removed.name": "對此農作物 §3關閉]§f自動收割",
-    "tooltip.unqiuee.stored.reap.name": "儲存收穫：%s",
-    "enchantment.uniquee.grimoire": "Grimoire",
-    "enchantment.uniquee.grimoire.desc": "Improves Enchantments by Player's Knowledge",
     "tooltip.uniquee.stored.reap.name": "已儲存的§6【§4✦§4靈魂§4✦§6】: %s"
 }
