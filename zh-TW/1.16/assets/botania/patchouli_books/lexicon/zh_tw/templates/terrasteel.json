@@ -2,7 +2,7 @@
   "processor": "vazkii.botania.client.patchouli.processor.TerraPlateProcessor",
   "components": [
     {
-      "type": "image",
+      "type": "patchouli:image",
       "image": "botania:textures/gui/terrasteel_overlay.png",
       "x": 50,
       "y": 22,
