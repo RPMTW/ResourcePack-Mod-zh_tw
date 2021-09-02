@@ -397,10 +397,10 @@
     "gui.tooltips.appliedenergistics2.SearchMode": "搜尋框模式",
     "gui.tooltips.appliedenergistics2.SearchMode_Auto": "自動搜尋",
     "gui.tooltips.appliedenergistics2.SearchMode_AutoKeep": "保持自動搜尋",
-    "gui.tooltips.appliedenergistics2.SearchMode_JEIAuto": "JEI 自動同步",
-    "gui.tooltips.appliedenergistics2.SearchMode_JEIAutoKeep": "JEI 自動同步保持",
-    "gui.tooltips.appliedenergistics2.SearchMode_JEIStandard": "JEI 標準同步",
-    "gui.tooltips.appliedenergistics2.SearchMode_JEIStandardKeep": "JEI 標准同步保持",
+    "gui.tooltips.appliedenergistics2.SearchMode_JEIAuto": "REI Synchronized Auto",
+    "gui.tooltips.appliedenergistics2.SearchMode_JEIAutoKeep": "REI Synchronized Auto Keep",
+    "gui.tooltips.appliedenergistics2.SearchMode_JEIStandard": "REI Synchronized Standard",
+    "gui.tooltips.appliedenergistics2.SearchMode_JEIStandardKeep": "REI Synchronized Standard Keep",
     "gui.tooltips.appliedenergistics2.SearchMode_Standard": "標準搜尋",
     "gui.tooltips.appliedenergistics2.SearchMode_StandardKeep": "保持標準搜尋",
     "gui.tooltips.appliedenergistics2.Singularity": "每%s個物品\n聚合為一個奇點",
@@ -741,5 +741,8 @@
     "block.appliedenergistics2.sky_stone_small_brick_wall": "隕石小磚牆",
     "block.appliedenergistics2.sky_stone_wall": "隕石牆",
     "block.appliedenergistics2.smooth_sky_stone_wall": "隕石塊牆",
-    "item.appliedenergistics2.cable_energy_acceptor": "能源接收器"
+    "item.appliedenergistics2.cable_energy_acceptor": "能源接收器",
+    "gui.appliedenergistics2.units.tr": "TechReborn Energy",
+    "item.appliedenergistics2.energy_p2p_tunnel": "Energy P2P Tunnel",
+    "itemGroup.appliedenergistics2.main": "Applied Energistics 2"
 }
