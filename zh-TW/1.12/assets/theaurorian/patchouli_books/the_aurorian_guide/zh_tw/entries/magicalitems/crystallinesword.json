@@ -1,5 +1,5 @@
 {
-    "name": "Crystalline Sword",
+    "name": "月凝晶劍",
     "icon": "theaurorian:crystallinesword",
     "category": "3magicalitems",
     "readbydefault": true,
@@ -7,7 +7,7 @@
         {
             "type": "spotlight",
             "item": "theaurorian:crystallinesword",
-            "text": "$(#008cff)Crystalline Sword$() lets you charge up and fire a Crystalline Beam!"
+            "text": "$(#008cff)月凝晶劍$()能讓你蓄力並發射出一道波束！"
         }
     ]
 }
