@@ -34,17 +34,21 @@
       "text": "這兒還有許多不同種類的氣血寶珠，不過只有跟氣血寶珠同等或更高等級的祭壇才能製造它們：$(br)$(li)$(item)孱弱氣血寶珠$()容量：5k LP$(br)$(li)$(item)學徒氣血寶珠$()容量：25k LP$(br)$(li)$(item)術師氣血寶珠$()容量：150k LP$(br)$(li)$(item)大師氣血寶珠$()容量：1M LP"
     },
     {
-      "type": "2x_crafting_altar",
-      "a.heading": "[虛弱]氣血寶珠",
-      "a.recipe": "bloodmagic:altar/weakbloodorb",
-      "b.heading": "[學徒]氣血寶珠",
-      "b.recipe": "bloodmagic:altar/apprenticebloodorb"
+      "type": "text",
+      "text": "There is a separate $(item)Blood Orb$() that can be created for each Tier of the $(item)Blood Altar$(). Their recipes are documented overleaf. $(li)$(item)Weak Blood Orb$() - Max capacity: $(blood)5k LP$(). $(li)$(item)Apprentice Blood Orb$() - Max capacity: $(blood)25k LP$(). $(li)$(item)Magician Blood Orb$() - Max capacity: $(blood)150k LP$(). $(li)$(item)Master Blood Orb$() - Max capacity: $(blood)1M LP$(). $(br2)If that's still not enough $(blood)LP storage$() for you, consider using $(l:bloodmagic:altar/blood_rune/orb_rune)Runes of the Orb$()."
     },
     {
       "type": "2x_crafting_altar",
       "a.heading": "[法師]氣血寶珠",
       "a.recipe": "bloodmagic:altar/magicianbloodorb",
       "b.heading": "[導師]氣血寶珠",
+      "b.recipe": "bloodmagic:altar/masterbloodorb"
+    },
+    {
+      "type": "2x_crafting_altar",
+      "a.heading": "Magician Blood Orb",
+      "a.recipe": "bloodmagic:altar/magicianbloodorb",
+      "b.heading": "Master Blood Orb",
       "b.recipe": "bloodmagic:altar/masterbloodorb"
     }
   ]
