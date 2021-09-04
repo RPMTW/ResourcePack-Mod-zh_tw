@@ -1,0 +1,27 @@
+{
+  "name": "條件：物品過濾器",
+  "icon": "pneumaticcraft:textures/progwidgets/condition_item.png",
+  "category": "widget_cond",
+  "advancement": "pneumaticcraft:programmer",
+  "pages": [
+    {
+      "type": "text",
+      "text": "這是一個$(l:programming/conditions)條件/$拼圖。$(p)The $(thing)條件：物品過濾器/$允許你對$(l:programming/item_filter)物品過濾器/$進行比較。通常在處理帶有$(l:programming/variables)變數/$的物品過濾器時會用到。$(p)該拼圖檢查上排右側的$(l:programming/item_filter)物品過濾器/$指定的物品是否符合下排$(thing)物品過濾器/$。"
+    },
+    {
+      "type": "text",
+      "text": "和往常一樣，右側用作白名單（亦即物品要求符合該過濾），左側用作黑名單（亦即物品要求$(italic)不/$符合該過濾）。若符合所有過濾，該條件執行為$(thing)真/$。否則，該條件執行為$(thing)假/$。"
+    },
+    {
+      "type": "text",
+      "text": "可以一次檢查多個物品。在上排右側連接多個$(l:programming/item_filter)物品過濾器/$時，條件只有在$(italic)所有/$物品符合過濾時執行為$(thing)真/$。此外，在上排左側的$(l:programming/item_filter)物品過濾器/$要求$(italic)不/$符合過濾才能使條件執行為$(thing)真/$。"
+    },
+    {
+      "type": "image",
+      "images": [
+        "pneumaticcraft:textures/progwidgets/condition_item.png"
+      ],
+      "text": "$(italic)條件：物品過濾器/$"
+    }
+  ]
+}
