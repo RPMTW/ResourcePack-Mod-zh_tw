@@ -1,0 +1,18 @@
+{
+    "name": "Effects",
+    "icon": "farmersdelight:textures/mob_effect/nourished.png",
+    "category": "basics",
+    "sortnum": "11",
+    "pages": [
+        {
+            "type": "nourished",
+            "title": "Nourished",
+            "text": "When you have the Nourished effect your Saturation wont go down through sprinting jumping or attacking, regenerating health will still consume Saturation."
+        },
+        {
+            "type": "comfort",
+            "title": "Comfort",
+            "text": "When you have the Comfort effect you will be immune to cold(Slowness) and sickness(Hunger and Weakness). When you grant the effect these negative effects will vanish and you can't grant them until the effect goes away."
+        }
+    ]
+}
