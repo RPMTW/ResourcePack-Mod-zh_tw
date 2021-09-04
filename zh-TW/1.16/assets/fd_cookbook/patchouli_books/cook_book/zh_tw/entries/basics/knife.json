@@ -1,0 +1,30 @@
+{
+  "name": "Knife's",
+  "icon": "farmersdelight:netherite_knife",
+  "category": "basics",
+  "sortnum": "3",
+  "pages": [
+    {
+      "type": "crafting_table_nofood",
+      "foodname": "Knife's",
+      "item2": "minecraft:flint,minecraft:iron_ingot,minecraft:gold_ingot,minecraft:diamond",
+      "item4": "minecraft:stick",
+      "finalitem": "farmersdelight:flint_knife,farmersdelight:iron_knife,farmersdelight:golden_knife,farmersdelight:diamond_knife",
+      "info": "Knife's are a new Tool/Weapon. They're available in all material tiers except Wood and Stone which is replaced by Flint."
+    },
+    {
+      "type": "text",
+      "text": "Every Knife has an Attack speed of 2,2 and an Attack damage of:$(li)Flint:3$(li)Iron:4$(li)Gold:2$(li)Diamond:5$(li)Netherite:6$(br)They are also a effective mining tool for the following:$(li)Cakes and pies$(li)All wool blocks$(li)Leaves$(li)Cobwebs$(li)Straw-based blocks"
+    },
+    {
+      "type": "text",
+      "title": "Killing Mobs",
+      "text": "When killing mobs, their second drop (leather, feathers,...) is guaranteed to drop(killing a cow changes the odds of 0-2 Leather into 1-3 Leather). Ham can only be obtained by killing a Pig(Not guaranteed) or Hoglin(guaranteed)with a knife. When you harvest Tall Grass,Wheat,Rice with it you also have the chance of getting Straw"
+    },
+    {
+      "type": "text",
+      "title": "附魔",
+      "text": "It Enchants with:$(br)Sharpness, Smite, Bane of Arthropods, Knockback, Fire Aspect, Looting, Efficiency, Unbreaking and Mending.$(br)But there is 1 new Enchantment called $(l)Backstabbing$() it increases the damage when striking targets from behind by$(br)$(li)lvl 1: 1,4x$(li)lvl 2: 1x,8$(li)lvl 3: 2,2x"
+    }
+  ]
+}
