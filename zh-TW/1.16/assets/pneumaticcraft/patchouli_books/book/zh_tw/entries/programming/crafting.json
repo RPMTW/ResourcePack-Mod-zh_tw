@@ -1,0 +1,23 @@
+{
+  "name": "合成",
+  "icon": "pneumaticcraft:textures/progwidgets/craft_piece.png",
+  "category": "widget_interact",
+  "advancement": "pneumaticcraft:programmer",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(l:tools/drone)無人機/$將會使用其攜帶的物品合成物品。要指定合成表，在右側以合成表的形式放置$(l:programming/item_filter)物品過濾器/$。$(p)不需要連接正好 9 個$(thing)物品過濾器/$；只要合成表被構建出來就可行。"
+    },
+    {
+      "type": "text",
+      "text": "By default the Crafting widget will try to craft as many items as possible; you can limit this in the widget GUI with the $(thing)Use Count/$ setting.$(p)You will probably want to install some $(l:base_concepts/upgrades#dispenser)Inventory Upgrades/$ in the $(item)Drone/$ to give it a larger inventory."
+    },
+    {
+      "type": "image",
+      "images": [
+        "pneumaticcraft:textures/progwidgets/craft_piece.png"
+      ],
+      "text": "$(italic)合成/$"
+    }
+  ]
+}
