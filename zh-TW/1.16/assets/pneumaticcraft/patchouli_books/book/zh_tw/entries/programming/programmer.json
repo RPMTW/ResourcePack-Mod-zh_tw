@@ -1,0 +1,71 @@
+{
+  "name": "編程器",
+  "icon": "pneumaticcraft:programmer",
+  "category": "programming",
+  "advancement": "pneumaticcraft:printed_circuit_board",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(item)編程器/$是一個使用可視化的程式系統，其中$(l:programming/puzzle_pieces)編程拼圖/$在編程器介面中拼接起來的機器，用於向$(l:tools/drone)無人機/$寫入程序。$(thing)編程器/$不需要$(l:base_concepts/pressure)壓力/$即可執行。$(thing)編程/$類別剩下的部分有更多關於編寫無人機程序的資訊。"
+    },
+    {
+      "type": "crafting",
+      "text": "編程器的合成表",
+      "recipe": "pneumaticcraft:programmer"
+    },
+    {
+      "type": "image",
+      "images": [
+        "pneumaticcraft:textures/patchouli/programmer_gui.png"
+      ],
+      "text": "$(italic)編程器介面：見下列幾頁以取得關於每一部分的資訊/$"
+    },
+    {
+      "type": "text",
+      "text": "$(bold)1. 主編程區/$$(p)該區域是構建程序的區域。拼圖由$(thing)拼圖列表（區域 2）/$拖至該區域，並拼接起來構成程序。$(p)可以使用游標滾輪或右側的滑桿縮放編程區。"
+    },
+    {
+      "type": "text",
+      "text": "$(bold)2. 拼圖列表/$$(p)該區域具有用於構建程序的拼圖。其具有比所顯示的更多的拼圖；可以使用下方的箭頭遍歷拼圖，或者按下$(thing)空格/$或 $(thing)Tab/$ 展開列表以顯示所有拼圖。展開後，列表上方會顯示一個文字框，用以查找拼圖。"
+    },
+    {
+      "type": "text",
+      "text": "$(bold)3. 無人機欄位/$$(p)該區域用於放置要被編程的$(l:tools/drone)無人機/$或$(l:components/network_components)網路儲存/網路 API/$。準備好寫入程序時，按下 $(thing)⟶/$ 鍵以寫入。若需要，可以使用左側的文字框對無人機進行命名。若成功，將有聲音提示。$(p)按下 $(thing)⟵/$ 鍵以從無人機（或網路儲存/網路 API）導入程序。"
+    },
+    {
+      "type": "text",
+      "text": "$(bold)4. 難易度選擇/$$(p)這些單選框控制拼圖列表所顯示的拼圖。其同時啟用/停用一些進階功能，如$(l:programming/coordinate_operator)變數/$。$(p)$(bold)5. 玩家物品欄/$$(p)你的物品欄；若攜有$(l:tools/gps_tool)定位工具/$或$(l:tools/gps_area_tool)區域定位工具/$，可以使用其點擊$(l:programming/area)區域/$或$(l:programming/coordinate)坐標/$拼圖以轉移其攜帶的資訊。"
+    },
+    {
+      "type": "text",
+      "text": "$(bold)6. 轉到與顯示選項/$$(p)這些按鈕用於：$(li)轉到程序的$(l:programming/start)開始/$拼圖$(li)轉到最近放置的拼圖$(li)選擇顯示拼圖具有的附加資訊$(li)選擇顯示$(l:programming/jump)跳轉/$和$(l:programming/label)標籤/$拼圖之間的連線"
+    },
+    {
+      "type": "text",
+      "text": "$(bold)7. 雜項按鈕/$$(p)這些介面邊框左側的按鈕用於：（按順序）$(li)$(thing)撤銷/$至多 20 次操作$(li)$(thing)重做/$被撤銷的操作$(li)以 JSON 檔案的形式$(thing)導入或導出/$程序至 $(l:https://pastebin.com)pastebin.com/$（可選登入 Pastebin）$(li)$(thing)刪除/$整個程序（可被重做）$(li)將程序$(thing)轉化/$為使用$(thing)相對/$坐標（見$(l:programming/programmer#convert_relative)該頁/$取得更多資訊）"
+    },
+    {
+      "type": "text",
+      "anchor": "ids",
+      "title": "Progwidget IDs",
+      "text": "If you toggle on extended tooltip information with $(thing)F3+H/$, you will notice that the tooltip for each programming widget also includes the internal widget ID at the end. This is primarily of benefit if you intend to do any drone programming with the $(l:machines/drone_interface)Drone Interface/$ - the $(thing)setAction()/$ Lua method in the Drone Interface takes these IDs (the $(thing)pneumaticcraft:/$ prefix is optional) as a parameter."
+    },
+    {
+      "type": "text",
+      "title": "Sharing Programs",
+      "text": "If you want to share your programs with other players, you have a couple of options:$(p)$(li)You can use the $(thing)Pastebin/$ button to export your program to $(l:https://pastebin.com)pastebin.com/$$(li)The $(thing)Pastebin/$ GUI also allows writing the program to the clipboard for copying & pasting$(li)You can save your program to a $(l:tools/drone)Drone/$ or $(l:components/network_components)Network Storage/Network API/$ and give the item to another player on your server."
+    },
+    {
+      "type": "text",
+      "anchor": "convert_relative",
+      "title": "Convert to Relative",
+      "text": "Say you've designed a program that runs an automated farm and you want to share this. People on a different world will have their farm at different coordinates, so they would have to change every single $(l:programming/area)Area/$ widget; what a pain.$(p)The $(thing)Convert to Relative/$ button makes this easier; it also provides tooltips indicating what you need to do to convert your program."
+    },
+    {
+      "type": "text",
+      "anchor": "convert_relative",
+      "title": "Convert to Relative (cont.)",
+      "text": "You will need to add one fixed $(l:programming/coordinate_operator)Coordinate Operator/$ widget, along with a $(l:programming/coordinate)Coordinate/$ widget containing a $(thing)base position/$ (e.g. the position of an input chest). It then converts any absolute positions (area or coordinate) used in your program to coordinates relative to that base position.$(p)Now, users of your program will only have to adjust a single coordinate to use your program!"
+    }
+  ]
+}
