@@ -1,0 +1,17 @@
+{
+  "name": "核彈病毒",
+  "icon": "pneumaticcraft:nuke_virus",
+  "category": "components",
+  "advancement": "pneumaticcraft:root",
+  "pages": [
+    {
+      "type": "text",
+      "text": "這是一個特殊組件，僅用於入侵$(l:machines/security_station)安全站/$。該物品無法被合成，僅可作為儲物箱戰利品，或（少見地）作為村民交易。"
+    },
+    {
+      "type": "spotlight",
+      "item": "pneumaticcraft:nuke_virus",
+      "text": "Applying a $(thing)Nuke Virus/$ to a node while hacking will nuke the node, hacking it instantly. Note that the Nuke Virus has a 3-second cooldown between repeated uses."
+    }
+  ]
+}
