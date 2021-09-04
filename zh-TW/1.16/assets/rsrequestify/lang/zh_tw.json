@@ -2,5 +2,8 @@
     "itemGroup.rsrequestify": "RS： 請求",
     "block.rsrequestify.requester": "請求者",
     "button.refinedstoragerequestify:requester.save": "儲存",
-    "tooltip.refinedstoragerequestify:requester.missing": "缺少成分"
+    "tooltip.refinedstoragerequestify:requester.missing": "缺少成分",
+    "block.rsrequestify.crafting_emitter": "Crafting Emitter",
+    "block.rsrequestify.crafting_emitter.tooltip": "Emits a Redstone Signal when any item/fluid in the filter is being crafted.",
+    "block.rsrequestify.requester.tooltip": "Keeps the filtered item/fluid in stock with the desired amount."
 }
