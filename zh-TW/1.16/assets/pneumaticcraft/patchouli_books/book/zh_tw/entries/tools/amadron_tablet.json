@@ -1,0 +1,42 @@
+{
+  "name": "Amadron 平板",
+  "icon": "pneumaticcraft:amadron_tablet",
+  "category": "\n-工具",
+  "advancement": "pneumaticcraft:plastic",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(item)Amadron 平板/$是一個可用於$(thing)訂購/$物品或流體的物品，而被訂購的物品或流體是由$(l:tools/drone)無人機/$所配送的。$(p)要進行訂購，需要透過使用平板$(thing)右擊/$一個容器和/或一個流體儲罐以將其綁定。綁定後的容器/儲罐將被用於支付款項以及接收貨物。"
+    },
+    {
+      "type": "text",
+      "text": "購買介面足夠智慧，可以通過觀測綁定的容器/儲罐以指出現可購買的貨物。訂購$(ttcolor)$(t:這裡的貨物可以為物品或流體)貨物/$時，$(thing)無人機/$將會生成以取得支付款項。支付後，另一個$(thing)無人機/$將會派送訂購的貨物。$(p)這可以用於訂購無法以其餘方式取得的物品，例如$(l:components/pcb_blueprint)印刷電路板藍圖/$和$(l:manufacturing/assembly_programs)裝配程序/$。其同時加入了一些隨機的$(thing)村民交易/$；這些交易每天被刷新。"
+    },
+    {
+      "type": "text",
+      "title": "玩家對玩家的交易",
+      "text": "點擊$(bold)自訂玩家交易/$按鈕（位於$(bold)自訂交易/$標籤頁）可以使用你自己的貨物與其餘玩家進行交易。在交易介面中可以在左側選擇售賣的貨物，在右側選擇購買的貨物。可以在文字框中輸入交易量。"
+    },
+    {
+      "type": "text",
+      "text": "同樣可以在介面中設定提供貨物與收取貨物的位置。需要使用（定位至正確位置的）$(l:tools/gps_tool)定位工具/$。$(p)若在此不設定自訂位置，（在一般貿易中使用的）預設位置將會被使用。"
+    },
+    {
+      "type": "text",
+      "text": "完成所有設定後，$(bold)加入交易/$按鈕將可以被點擊。這一交易將對其餘玩家可見，像普通交易一樣。$(p)重要的一點是，庫存並非無限的：需要像儲存售出貨物的容器或儲罐輸入貨物。$(thing)無人機/$將會來收取貨物；收取完成後，庫存量將會被增加。自訂交易的庫存量將顯示於 $(item)Amadron 平板/$的介面中。"
+    },
+    {
+      "type": "text",
+      "text": "其餘玩家可以進行小於庫存量次數的交易。當玩家進行你所設定的貿易時，（若你線上）將會有資訊提示；$(thing)無人機/$將會派送付款。交易完成："
+    },
+    {
+      "type": "text",
+      "text": "By $(thing)shift-clicking/$ the $(#F00)x/$ button on one of your own trades in the Amadron GUI, the trade will be removed, and Amadron will attempt to return your resources to the inventory/tank that provided it. $(p)$(bold)Warning:/$ Amadron take no responsibility for resources lost in the event of a problem returning them!"
+    },
+    {
+      "type": "crafting",
+      "text": "Amadron 平板的合成表",
+      "recipe": "pneumaticcraft:amadron_tablet"
+    }
+  ]
+}
