@@ -1,0 +1,68 @@
+{
+  "name": "壓力室",
+  "icon": "pneumaticcraft:pressure_chamber_wall",
+  "category": "manufacturing",
+  "advancement": "pneumaticcraft:pressure_tube",
+  "pages": [
+    {
+      "type": "text",
+      "text": "The $(thing)Pressure Chamber/$ is a multi-block structure used to compress various materials into other materials. Due to its large air storage capacity, it can also serve as a useful \"battery\".$(p)The following rules for multiblock construction apply:$(p)$(li)The overall multiblock must be a hollow 3x3x3, 4x4x4 or 5x5x5 structure."
+    },
+    {
+      "type": "text",
+      "text": "$(li)結構的$(thing)邊/$和$(thing)角/$必須是$(item)壓力室牆壁/$或$(item)壓力室玻璃/$。$(li)結構的$(thing)面/$必須是$(item)壓力室牆壁/$，$(item)壓力室玻璃/$，$(item)壓力室氣閥/$或$(l:manufacturing/pressure_chamber#interface)壓力室介面/$。$(li)結構必須有至少一個$(item)壓力室氣閥/$。$(li)多方塊結構建議有至少兩個$(item)壓力室介面/$（一個朝內，一個朝外）。"
+    },
+    {
+      "type": "multiblock",
+      "name": "壓力室",
+      "multiblock_id": "pneumaticcraft:pressure_chamber_3",
+      "text": "一個可行的壓力室，尺寸為 3*3*3，有 1 個$(item)氣閥/$和 2 個$(item)介面/$"
+    },
+    {
+      "type": "multiblock",
+      "name": "壓力室",
+      "multiblock_id": "pneumaticcraft:pressure_chamber_4",
+      "text": "一個可行的壓力室，尺寸為 4*4*4，有 2 個$(item)氣閥/$和 2 個$(item)介面/$"
+    },
+    {
+      "type": "multiblock",
+      "name": "壓力室",
+      "multiblock_id": "pneumaticcraft:pressure_chamber_5",
+      "text": "一個可行的壓力室，尺寸為 5*5*5，有 4 個$(item)氣閥/$和 4 個$(item)介面/$"
+    },
+    {
+      "type": "spotlight",
+      "anchor": "interface",
+      "item": "pneumaticcraft:pressure_chamber_interface",
+      "text": "The $(item)Pressure Chamber Interface/$ is used to automate the insertion and extraction of items to the $(thing)Pressure Chamber/$. Items $(italic)must/$ be piped in via $(item)Hoppers/$ or other mod piping systems. You should have at least two interfaces: one with the 'I' facing out (the $(thing)input interface/$), and one with the 'O' facing out (the $(thing)output interface/$)."
+    },
+    {
+      "type": "text",
+      "text": "Input-mode Interfaces will only accept items which are ingredients for a Pressure Chamber recipe.  Output-mode Interfaces will (by default) only export crafted items, but there is a button in the GUI to allow export of $(i)all/$ items if you need to.$(p)$(italic)Note that this behaviour has changed since 1.12.2 days and is much more user-friendly now./$"
+    },
+    {
+      "type": "text",
+      "text": "輸出模式的$(item)壓力室介面/$將把物品自動輸出到相鄰的容器；此處的容器不一定包括其餘模組的管道，取決於其某些屬性。$(p)每傳輸一個物品需要消耗 1000mL $(l:base_concepts/pressure)空氣/$。也就是說，要傳輸一組（堆疊數為 64）物品，$(item)壓力室介面/$需要 64000mL 空氣（對於一個基本的 3*3*3 壓力室，這相當於 4 bar 的壓力）。如果介面看似卡住了，其僅僅是在等待壓力積攢起來。"
+    },
+    {
+      "type": "text",
+      "text": "$(bold)Tips/$$(p)$(li)When compressing $(item)Iron/$, compress $(item)Block of Iron/$, since it will use only 1/9th of the air to move items in & out of the chamber.$(li)If you need to pressurize a large chamber quickly, extra valves can be helpful (assuming you have sufficient compressors to produce the necessary air)."
+    },
+    {
+      "type": "crafting",
+      "recipe": "pneumaticcraft:pressure_chamber_wall",
+      "recipe2": "pneumaticcraft:pressure_chamber_glass"
+    },
+    {
+      "type": "crafting",
+      "recipe": "pneumaticcraft:pressure_chamber_interface",
+      "recipe2": "pneumaticcraft:pressure_chamber_valve_x1"
+    },
+    {
+      "type": "crafting",
+      "recipe": "pneumaticcraft:pressure_chamber_valve_x4",
+      "recipe2": "pneumaticcraft:pressure_chamber_valve"
+    }
+  ]
+}
+
