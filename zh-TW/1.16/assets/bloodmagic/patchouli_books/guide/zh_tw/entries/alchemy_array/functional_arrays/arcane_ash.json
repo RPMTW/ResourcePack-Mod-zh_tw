@@ -36,6 +36,10 @@
     {
       "type": "text",
       "text": "每次鍊金都需要兩個項目：一個基礎和一個催化劑。 \n基礎是你在繪製矩陣之後放入的第一樣物品，而第二樣為催化劑。\n當你放入時，矩陣的外觀會改變，如果它是有效的，則矩陣將在你放入催化劑後開始啟動。\n$(br2)儘管目前只實現了幾個陣列，但最終您將擁有從簡單的$(l:bloodmagic:alchemy_array/crafting_array)創造矩陣$(/l)一路到甚至能夠傳送的矩陣。"
+    },
+    {
+      "type": "text",
+      "text": "Although only a few arrays are currently implemented, eventually you will have arrays that range from simple $(l:bloodmagic:alchemy_array/functional_arrays/crafting_array)crafting arrays$(/l) to even teleportation arrays."
     }
   ]
 }
