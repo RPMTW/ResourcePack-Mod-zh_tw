@@ -1,0 +1,12 @@
+{
+  "name": "Default Shape Card",
+  "icon": "rftoolsbuilder:shape_card_def",
+  "category": "rftoolsbuilder:category_rftoolsbuilder_shape_cards",
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "The Default Shape Card is used for building (by the Builder) or describing a shape for the Shield Projector"
+    }
+  ]
+}
