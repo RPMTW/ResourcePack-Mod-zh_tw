@@ -1,0 +1,22 @@
+{
+  "name": "物流設定器",
+  "icon": "pneumaticcraft:logistics_configurator",
+  "category": "logistics",
+  "advancement": "pneumaticcraft:pressure_tube",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(item)物流設定器/$的主要用途是幫助設定$(l:logistics/overview)物流系統/$。$(p)使用物流設定器$(thing)右擊/$$(l:logistics/frames)物流框架/$以設定其過濾。$(p)使用物流設定器$(thing)潛行右擊/$物流框架以將其移除。"
+    },
+    {
+      "type": "spotlight",
+      "item": "pneumaticcraft:logistics_configurator",
+      "text": "The $(item)Logistics Configurator/$ can also be used to remove (by $(thing)Sneak right-clicking/$) other attachable gadgets, such as the $(l:semiblocks/transfer_gadget)Transfer Gadget/$ and the $(l:semiblocks/crop_support)Crop Support/$."
+    },
+    {
+      "type": "crafting",
+      "text": "物流設定器的合成表",
+      "recipe": "pneumaticcraft:logistics_configurator"
+    }
+  ]
+}
