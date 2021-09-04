@@ -1,0 +1,40 @@
+{
+  "name": "可編程控制器",
+  "icon": "pneumaticcraft:programmable_controller",
+  "category": "programming",
+  "advancement": "pneumaticcraft:programmer",
+  "pages": [
+    {
+      "type": "text",
+      "text": "可編程控制器可以做的事情與$(l:tools/drone)無人機/$很相近。程序可以在$(l:programming/programmer)編程器/$中被寫入$(item)無人機/$或$(l:components/network_components#network_api)網路 API/$中。這兩個物品都可以被放入$(item)可編程控制器/$中。在有足夠$(l:base_concepts/pressure)壓力/$的情況下，$(item)可編程控制器/$將像其中程序被編入一個真的被放置的$(item)無人機/$一樣執行其中程序。"
+    },
+    {
+      "type": "text",
+      "text": "其與無人機還是有一定不同：$(li)$(item)可編程控制器/$使用縮小的$(item)無人機/$：$(thing)小型無人機/$。其並非實體，所有不涉及尋路算法，且這一$(thing)小型無人機/$可以穿牆移動。這有一d定好處：對伺服器更加友好，使用時更加可靠。$(li)執行程序時，$(item)可編程控制器/$消耗空氣的速率為 10mL/t（而無人機的消耗速率為 1mL/t）。"
+    },
+    {
+      "type": "text",
+      "text": "$(li)$(item)可編程控制器/$無法執行下列拼圖：電腦控制，攻擊實體，無人機條件：實體，搭載實體，卸載實體，傳送，待機，自毀。$(p)一般而言，$(item)可編程控制器/$適合於大規模的套用，如開掘大片區域或建造大型結構。"
+    },
+    {
+      "type": "text",
+      "title": "傳輸物品/流體",
+      "text": "Any items or fluids that the $(thing)minidrone/$ collects can be interfaced via the sides of the $(item)Programmable Controller/$ block.$(p)By default, the 'drone' has a single inventory slot, and a 16000mB tank. The inventory size can be increased by adding $(l:base_concepts/upgrades#inventory)Inventory Upgrades/$ (max 35), which also increases the tank size by 1000mB per upgrade."
+    },
+    {
+      "type": "text",
+      "title": "傳輸物品/流體（續",
+      "text": "預設情況下，$(item)可編程控制器/$的頂面和側面可以用於傳輸物品，地面可以用於輸入或輸出可編程的物品，但這一設定可以在$(bold)朝向設定/$標籤頁裡調整。$(p)$(item)可編程控制器的每個面都可以用於傳輸流體。"
+    },
+    {
+      "type": "text",
+      "title": "Charging Items",
+      "text": "The Programmable Controller is capable of $(thing)charging/$ the minidrone's held item, i.e. the item in slot 0 of the drone's inventory. This includes both pressurizable items such as the $(l:tools/jackhammer)Jackhammer/$, and items using $(thing)Forge Energy/$. Air and/or FE from the Programmable Controller's own buffers is used to do this. Charging is disabled by default; enable it via the controller's GUI ($(thing)Held Item Charging/$ side tab)."
+    },
+    {
+      "type": "crafting",
+      "text": "Creating a Programmable Controller",
+      "recipe": "pneumaticcraft:programmable_controller"
+    }
+  ]
+}
