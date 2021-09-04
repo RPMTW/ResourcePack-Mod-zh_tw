@@ -1,0 +1,25 @@
+{
+  "name": "傳輸裝置",
+  "icon": "pneumaticcraft:transfer_gadget",
+  "category": "semiblocks",
+  "advancement": "pneumaticcraft:root",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(item)傳輸裝置/$是基礎的物品/流體傳輸裝置。其可以被放置在兩個（相鄰的）容器或儲罐$(italic)之間/$以進行其間的傳輸。要放置該物品，最好的辦法是先放置第一個容器，然後使用$(item)傳輸裝置/$右擊其一面，然後放置第二個容器。"
+    },
+    {
+      "type": "text",
+      "text": "The Transfer Gadget will have one of two colors:$(li)$(6)Orange/$ - output mode$(li)$(9)Blue/$ - input mode.$(p)An $(6)output mode/$ gadget extracts from the inventory/tank it's placed on, inserting to the neighbouring block, and an $(9)input mode/$ gadget does the opposite. Resources are transferred at a rate of 1 item or 100mB fluid every 2 seconds."
+    },
+    {
+      "type": "text",
+      "text": "$(thing)Right-click/$ the $(item)Transfer Gadget/$ with an empty hand or a $(l:tools/logistics_configurator)Logistics Configurator/$ to toggle input/output mode. $(thing)Sneak+right-click/$ (or left-click - hit) to remove the $(item)Transfer Gadget/$.$(p)Because of its low speed and cheap recipe, this is ideal for early-game item/fluid transfer where space might be limited."
+    },
+    {
+      "type": "crafting",
+      "text": "傳輸裝置的合成表",
+      "recipe": "pneumaticcraft:transfer_gadget"
+    }
+  ]
+}
