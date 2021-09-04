@@ -1,0 +1,16 @@
+{
+  "name": "輪機扇葉",
+  "icon": "pneumaticcraft:turbine_blade",
+  "category": "components",
+  "advancement": "pneumaticcraft:pressure_chamber",
+  "pages": [
+    {
+      "type": "text",
+      "text": "合成材料。其自身並無用途。"
+    },
+    {
+      "type": "pneumaticcraft:pressure_chamber",
+      "recipe": "pneumaticcraft:pressure_chamber/turbine_blade"
+    }
+  ]
+}
