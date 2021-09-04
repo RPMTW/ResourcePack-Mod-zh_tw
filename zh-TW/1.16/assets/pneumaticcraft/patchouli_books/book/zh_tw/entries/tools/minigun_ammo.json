@@ -1,0 +1,72 @@
+{
+  "name": "機槍彈藥",
+  "icon": "pneumaticcraft:gun_ammo",
+  "category": "\n-工具",
+  "advancement": "pneumaticcraft:minigun",
+  "pages": [
+    {
+      "type": "text",
+      "text": "機槍彈藥被$(l:tools/minigun)加特林機槍/$使用。$(p)取決於彈藥類型，一彈夾的彈藥最高可供 1000 次射擊。開火過程中，彈藥被$(item)加特林機槍/$持續消耗；機槍的彈藥數量可以在機槍的提示文字、耐久條與（手持時）準心旁側的懸浮介面中取得。"
+    },
+    {
+      "type": "text",
+      "anchor": "magazine",
+      "text": "彈藥需要被裝填至$(item)機槍/$的彈夾；不會自動從玩家物品欄消耗彈藥。使用$(item)加特林機槍/$$(thing)潛行右擊/$以裝載彈藥。$(p)彈藥按照 1-4 欄位的順序消耗，但可以$(thing)中鍵點擊/$某欄位以將其鎖定，使$(item)加特林機槍/$僅使用該槽的彈藥；若裝填有多種彈藥，這一點或許有所幫助。$(thing)中鍵點擊/$被鎖定的欄位以解除鎖定。"
+    },
+    {
+      "type": "spotlight",
+      "item": "pneumaticcraft:gun_ammo",
+      "text": "普通的$(item)機槍彈藥/$自身並不具有特殊屬性，但彈夾裝載 1000 枚彈藥。$(p)此外，其為僅有的可與$(l:tools/minigun_ammo#potions)藥水/$合成以取得其效果的彈藥。"
+    },
+    {
+      "type": "spotlight",
+      "item": "pneumaticcraft:gun_ammo_incendiary",
+      "text": "$(item)燃燒型機槍彈藥/$的彈夾裝載 500 枚彈藥，並將使被擊中的實體著火。$(p)其有機率使方塊著火，這一點需要注意。"
+    },
+    {
+      "type": "spotlight",
+      "item": "pneumaticcraft:gun_ammo_weighted",
+      "text": "$(item)重質型機槍彈藥/$的彈夾裝載 250 枚彈藥，並將造成很大傷害；但介於其重量，射擊範圍只有普通彈藥的 20%。"
+    },
+    {
+      "type": "spotlight",
+      "item": "pneumaticcraft:gun_ammo_ap",
+      "text": "$(item)破甲型機槍彈藥/$的彈夾裝載 250 枚彈藥，且合成配方較為昂貴；但其造成的傷害略高於普通彈藥，且無視護甲的保護。"
+    },
+    {
+      "type": "spotlight",
+      "item": "pneumaticcraft:gun_ammo_explosive",
+      "text": "$(item)Explosive Minigun Ammo/$ has a cartridge size of 125. It has a chance to create a small but highly effective explosion when it hits; beware, this explosion can also injure you. Explosions will not damage terrain $(ttcolor)$(t:See 'B:explosiveAmmoTerrainDamage' in config)by default/$."
+    },
+    {
+      "type": "spotlight",
+      "item": "pneumaticcraft:gun_ammo_freezing",
+      "text": "$(item)Freezing Minigun Ammo/$ has a cartridge size of 250. It slows targets that it hits, and has a chance to encase them in a damaging freezing cloud; beware, this cloud can also injure you.$(p)It does extra damage against fire-resistant targets, so is an excellent choice for fighting in the $(#800)Nether/$."
+    },
+    {
+      "type": "text",
+      "title": "塗有藥水的彈藥",
+      "anchor": "potions",
+      "text": "可以將普通的機槍彈藥與任意$(item)藥水/$合成，從而使其不造成物理傷害，而有機率對擊中目標造成對應的藥水效果。$(p)$(thing)飛濺型/$藥水與$(thing)滯留型/$藥水也可用於合成；其會產生藥水原有的範圍效應，但沾有飛濺型藥水的彈藥消耗速率為普通彈藥的 3 倍，滯留型則為 6 倍！"
+    },
+    {
+      "type": "crafting",
+      "recipe": "pneumaticcraft:gun_ammo",
+      "recipe2": "pneumaticcraft:gun_ammo_incendiary"
+    },
+    {
+      "type": "crafting",
+      "recipe": "pneumaticcraft:gun_ammo_weighted",
+      "recipe2": "pneumaticcraft:gun_ammo_ap"
+    },
+    {
+      "type": "crafting",
+      "recipe": "pneumaticcraft:gun_ammo_explosive",
+      "recipe2": "pneumaticcraft:gun_ammo_freezing"
+    },
+    {
+      "type": "crafting",
+      "recipe": "pneumaticcraft:gun_ammo_potion_crafting"
+    }
+  ]
+}
