@@ -1,0 +1,23 @@
+{
+  "name": "輸入流體",
+  "icon": "pneumaticcraft:textures/progwidgets/liquid_import_piece.png",
+  "category": "widget_other",
+  "advancement": "pneumaticcraft:programmer",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(thing)輸入流體/$將使$(l:tools/drone)無人機/$轉到指定$(l:programming/area)區域/$內最近的儲罐，從該儲罐提取流體並輸入到$(item)無人機/$的內部儲存中。$(p)同樣可以從世界中的流體方塊輸入流體，使$(item)無人機/$可以作為移動泵。"
+    },
+    {
+      "type": "text",
+      "text": "$(thing)右擊/$打開設定介面，在此可以指定無人機應當與儲罐互動的面；也可以在此指定一次傳輸的流體的最大值（單位：mB）。$(p)可以$(ttcolor)$(t:連接至右側為白名單，左側為黑名單)連接/$$(l:programming/liquid_filter)流體過濾器/$以限制可以被無人機轉移的流體。$(p)當$(item)無人機/$的內部流體儲存為滿，或指定區域內沒有可行的流體可供輸入時。結束該拼圖。"
+    },
+    {
+      "type": "image",
+      "images": [
+        "pneumaticcraft:textures/progwidgets/liquid_import_piece.png"
+      ],
+      "text": "$(italic)咕嚕/$"
+    }
+  ]
+}
