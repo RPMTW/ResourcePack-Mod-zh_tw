@@ -1,0 +1,21 @@
+{
+  "name": "流量檢測管道模組",
+  "icon": "pneumaticcraft:flow_detector_module",
+  "category": "tubes",
+  "advancement": "pneumaticcraft:pressure_tube",
+  "pages": [
+    {
+      "type": "text",
+      "text": "The Flow Detector Tube Module is an $(l:tubes/tube_modules#inline)inline/$ module which measures the $(thing)airflow/$ through a tube. It emits a $(#f00)redstone signal/$ as result of this, using the following formula:$(p)  $(formula)0.2 * flow (mL/tick)/$$(p)E.g. with 20mL/tick of air flowing, the signal level will be 20*0.2=4."
+    },
+    {
+      "type": "text",
+      "text": "註：$(thing)流量/$與$(l:base_concepts/pressure)壓力/$是不同的量。流量為每刻通過壓力管道的空氣量。也就是說，（如果）由一台沒有工作的$(l:machines/elevator)電梯/$，壓力為 0；但其執行時會消耗空氣，因而此時的流量不為 0。因此，若某機器在執行時消耗空氣，該模組可以用於檢測其是否在執行。$(p)流量檢測管道模組並不接受$(l:tubes/advanced_pcb)高級印刷電路板/$升級。"
+    },
+    {
+      "type": "crafting",
+      "text": "流量檢測管道模組的合成表",
+      "recipe": "pneumaticcraft:flow_detector_module"
+    }
+  ]
+}
