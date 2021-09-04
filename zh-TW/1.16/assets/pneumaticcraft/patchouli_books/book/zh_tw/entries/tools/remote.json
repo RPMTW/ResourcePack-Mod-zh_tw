@@ -1,0 +1,63 @@
+{
+  "name": "遙控器",
+  "icon": "pneumaticcraft:remote",
+  "category": "\n-工具",
+  "advancement": "pneumaticcraft:plastic",
+  "pages": [
+    {
+      "type": "text",
+      "text": "使用遙控器可以創建一個介面，用於遠端控制$(l:tools/drone)無人機/$或$(l:machines/universal_sensor)萬能感測器/$，以修改$(l:programming/variables#global)全局變數/$的方式。註：與$(item)萬能感測器/$一併使用時，可以通過$(item)遙控器/$實現無線紅石！$(p)要開始創建介面，使用$(item)遙控器/$$(thing)潛行右擊/$以打開編輯介面。"
+    },
+    {
+      "type": "text",
+      "text": "編輯過程與在$(l:programming/programmer)編程器/$中編程相近；從右側面板中拖拽組件至中央區域。$(p)要複製一個組件，$(thing)中鍵點擊/$已有的組件並移動，要編輯組件的屬性，$(thing)右擊/$該組件。例如，右擊按鈕時將會打開下面的介面："
+    },
+    {
+      "type": "image",
+      "images": [
+        "pneumaticcraft:textures/patchouli/remote_button.png"
+      ],
+      "text": "在此介面可以設定按鈕的外觀和行為。"
+    },
+    {
+      "type": "text",
+      "text": "下列屬性對$(italic)所有/$組件適用：$(li)$(thing)文字/$ - 在該組件上顯示的文字$(li)$(thing)文字提示/$ - 游標指針懸浮在該組件上時顯示的文字提示$(li)$(thing)顯示控制變數/$ - 可以透過在此引用$(l:programming/coordinate_operator)變數/$以控制該組件是否顯示。向 X/Y/Z 欄輸入數值可以指定該組件只有在所引用的變數等於該值時才會顯示。"
+    },
+    {
+      "type": "text",
+      "title": "標記文字",
+      "anchor": "label",
+      "text": "標記文字組件顯示文字與可選的提示文字，用於提供資訊。儘管標記文字不能$(italic)修改/$變數，其可以$(italic)顯示/$變數，使用格式 $(thing)${#全局變數名}/$；這可以用於除錯。$(p)標記文字沒有共有屬性外的其他屬性。"
+    },
+    {
+      "type": "text",
+      "title": "按鈕",
+      "text": "The Button widget sets the value of the linked variable when pressed.$(li)$(thing)Variable Name/$ - the linked $(l:programming/variables#global)global variable/$.$(li)$(thing)Setting Value/$ - the X/Y/Z values to assign to the linked variable when the button is pressed.$(li)$(thing)Width/Height/$ - dimensions of the button."
+    },
+    {
+      "type": "text",
+      "title": "複選框",
+      "text": "The Checkbox widget sets the X value of the linked variable to 1 when checked, and to 0 otherwise.$(li)$(thing)Variable Name/$ - the linked $(l:programming/variables#global)global variable/$."
+    },
+    {
+      "type": "text",
+      "title": "下拉選單",
+      "text": "The Dropdown widget sets the X value of the linked variable to the index of the selected element.$(li)$(thing)Drop-down Elements/$ - a comma-separated list of text labels.$(li)$(thing)Variable Name/$ - the linked $(l:programming/variables#global)global variable/$.$(li)$(thing)Sorted/$ - if checked, the elements in the list will be alphabetically sorted. Otherwise, the elements will appear in the order you provided."
+    },
+    {
+      "type": "text",
+      "title": "範例",
+      "text": "點擊左側的 $(thing)Pastebin/$ 按鈕，導入$(l:https://pastebin.com/4yxKG5Jc)該範例/$。$(p)其中有三個複選框，分別設定全局變數 $(thing)signal1, signal2 & signal3/$。$(p)然後，放置 3 個$(l:machines/universal_sensor)萬能感測器/$，並提供一定壓力。向其安裝$(l:base_concepts/upgrades#dispenser)發射器升級/$。從每個$(item)感測器/$引出紅石線（隔開一格，使紅石線相互獨立）。"
+    },
+    {
+      "type": "text",
+      "title": "範例（續）",
+      "text": "在每個$(item)感測器/$的介面中：$(li)選擇$(thing)發射器/$按鈕$(li)選擇 $(thing)World/$$(li)選擇 $(thing)Global Variable/$$(li)在 $(thing)Variable Name/$ 文字框中，各自輸入 'signal1'，'signal2' 和 'signal3'。$(p)然後，使用$(item)遙控器/$$(thing)右擊/$，並勾選/取消勾選每個複選框。其對應的$(item)感測器/$將會發出紅石信號：無線紅石！"
+    },
+    {
+      "type": "crafting",
+      "text": "遙控器的合成表",
+      "recipe": "pneumaticcraft:remote"
+    }
+  ]
+}
