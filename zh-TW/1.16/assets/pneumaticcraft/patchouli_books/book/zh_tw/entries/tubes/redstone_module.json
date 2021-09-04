@@ -1,0 +1,29 @@
+{
+  "name": "紅石管道模組",
+  "icon": "pneumaticcraft:redstone_module",
+  "category": "tubes",
+  "advancement": "pneumaticcraft:pressure_tube",
+  "pages": [
+    {
+      "type": "text",
+      "text": "This module exchanges $(#f00)redstone signals/$ with other Redstone Modules on connected tubes, effectively using the tube as a redstone conduit.$(p)Up to 16 independent channels can be selected via the module GUI, or by right-clicking the module with any $(item)Dye/$.$(p)Right-click the module with a $(item)wrench/$ to toggle it between input and output mode."
+    },
+    {
+      "type": "image",
+      "images": [
+        "pneumaticcraft:textures/patchouli/redstone_module.png"
+      ],
+      "border": "true"
+    },
+    {
+      "type": "text",
+      "title": "高級印刷電路板",
+      "text": "向紅石管道模組安裝$(l:tubes/advanced_pcb)高級印刷電路板/$後，額外的信號處理選項將可用。當模組處於$(thing)輸出模式/$時，可以右擊模組以打開設定介面，在此可以選擇對輸出信號進行的操作，例如，反轉信號，與另一頻道進行與/或/異或操作...$(p)每個操作的細節在設定介面中有具體描述。"
+    },
+    {
+      "type": "crafting",
+      "text": "紅石管道模組的合成表",
+      "recipe": "pneumaticcraft:redstone_module"
+    }
+  ]
+}
