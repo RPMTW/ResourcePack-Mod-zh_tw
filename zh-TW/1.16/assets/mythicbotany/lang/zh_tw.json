@@ -189,5 +189,10 @@
     "lexicon.alfheim.andwari.page4": "移除了詛咒之後，戒指有數次的使用機會。在世界中放置一個金塊，戒指便會回報於你更多的金子。然而，這一過程是需要消耗魔力的，並且你也要注意不要將其使用次數耗盡，因為一旦耗盡，戒指便會抽取巨量的魔力，並對你施加中毒效果。",
     "lexicon.alfheim.kvasir.page1": "克瓦西爾（Kvasir）是阿薩神族與華納神族定下和平約定後眾神所造的矮人。 他遊歷九界，處處受人敬重。 然而有兩個矮人 Fjalar 和 Galar 想要竊取 Kvasirs 的才能。 於是他們殺了他，將他的血和蜂蜜混合成密酒。 喝下這種密酒可以讓你像 Kvasir 一樣周遊世界。",
     "lexicon.alfheim.kvasir.page2": "當你飲下密酒之後，你便能步入$(l:botania:alfhomancy/intro)亞爾夫海姆傳送門$() 並且獨自前往亞爾夫海姆。 若是你不小心在亞爾夫海姆破壞了傳送門，你可以修復框架並且投入一塊龍石。當它消失時，傳送們也將被修復。",
-    "lexicon.alfheim.kvasir.page4": "通過使用流浪商人作為 Kvasir 的象徵，你應該能夠獲得血液以製作克瓦希爾的密酒。"
+    "lexicon.alfheim.kvasir.page4": "通過使用流浪商人作為 Kvasir 的象徵，你應該能夠獲得血液以製作克瓦希爾的密酒。",
+    "item.mythicbotany.solidified_mana": "Solidified Mana",
+    "tooltip.mythicbotany.cost_pools": "%s Mana Pools",
+    "tooltip.mythicbotany.reverse_ratio": "%sx Zoom (hover to zoom in)",
+    "tooltip.mythicbotany.solidified_mana": "Throw in a pool to get your mana back.",
+    "tooltip.mythicbotany.invalid_solidified_mana": "This item is invalid."
 }
