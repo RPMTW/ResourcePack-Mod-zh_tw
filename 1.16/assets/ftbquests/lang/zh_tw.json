@@ -276,7 +276,7 @@
     "ftbquests.task.ftbquests.botania_mana.show_numbers": "Show Numbers",
     "ftbquests.task.ftbquests.botania_mana.text": "%d Mana",
     "ftbquests.task.ftbquests.emc": "EMC",
-    "ftbquests.task.ftbquests.gamestage": "Game Stage",
+    "ftbquests.task.ftbquests.gamestage": "Stage",
     "ftbquests.task.ftbquests.npc_quest": "CustomNPCs Quest",
     "ftbquests.task.ftbquests.npc_quest.id": "Quest ID",
     "ftbquests.task.ftbquests.npc_quest.check_active": "Check if quest is active",
@@ -316,7 +316,7 @@
     "ftbquests.reward.ftbquests.advancement.criterion.tooltip": "Optional, set if you want only one criterion to be granted",
     "ftbquests.reward.ftbquests.toast": "Toast",
     "ftbquests.reward.ftbquests.toast.description": "Description",
-    "ftbquests.reward.ftbquests.gamestage": "Game Stage",
+    "ftbquests.reward.ftbquests.gamestage": "Stage",
     "ftbquests.reward.ftbquests.gamestage.silent": "Silent",
     "ftbquests.reward.ftbquests.gamestage.remove": "Remove",
     "ftbquests.reward.ftbquests.npc_quest": "CustomNPCs Quest",
@@ -378,5 +378,6 @@
     "commands.ftbquests.weigh_from_emc.invalid_id": "Invalid Reward Table ID!",
     "commands.ftbquests.weigh_from_emc.text": "Changed item reward weight based on EMC in %s",
     "commands.ftbquests.export_rewards_to_chest.usage": "/ftbquests export_rewards_to_chest <reward_table>",
-    "commands.ftbquests.export_rewards_to_chest.text": "Exported %s / %s items from '%s'"
+    "commands.ftbquests.export_rewards_to_chest.text": "Exported %s / %s items from '%s'",
+    "ftbquests.chapter.default_hide_dependency_lines": "Default 'Hide Dependency Lines'"
 }

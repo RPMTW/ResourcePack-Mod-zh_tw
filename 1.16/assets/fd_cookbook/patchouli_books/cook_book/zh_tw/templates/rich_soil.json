@@ -1,0 +1,30 @@
+{
+    "components": [
+        {
+            "type":"separator",
+            "x": -1,
+            "y": 0
+        },
+        {
+            "type": "image",
+            "image": "fd_cookbook:textures/gui/cookbook/rich_soil.png",
+            "x": 7,
+            "y": 5,
+            "width": 128,
+            "height": 128,
+            "texture_width": "128",
+            "texture_height": "128"
+        },
+        {
+            "type": "separator",
+            "x": -1,
+            "y": 30
+        },
+        {
+            "type": "text",
+            "text": "#text",
+            "x": 2,
+            "y": 35
+        }
+    ]
+}

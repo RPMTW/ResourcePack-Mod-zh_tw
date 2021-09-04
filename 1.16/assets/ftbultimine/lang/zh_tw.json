@@ -15,5 +15,12 @@
     "text.autoconfig.ftbultimine.option.toolBlacklist": "Tool Blacklist",
     "text.autoconfig.ftbultimine.option.noLagWarnings": "Disable potential lag warnings",
     "text.autoconfig.ftbultimine.option.renderTextManually": "Manual Overlay Text Offset",
-    "text.autoconfig.ftbultimine.option.renderOutline": "Should render outline?"
+    "text.autoconfig.ftbultimine.option.renderOutline": "Should render outline?",
+    "ftbultimine.info.base": "FTB Ultimine is %s",
+    "ftbultimine.info.active": "active",
+    "ftbultimine.info.not_active": "not active",
+    "ftbultimine.info.blocks": "Mining %d blocks",
+    "ftbultimine.info.partial_render": "%d rendered",
+    "item.ftbultimine.ultiminer": "Ultiminer",
+    "item.ftbultimine.ultiminer.tooltip": "Enables the use of %s when active"
 }

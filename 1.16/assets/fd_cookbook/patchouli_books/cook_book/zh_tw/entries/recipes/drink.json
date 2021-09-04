@@ -1,0 +1,30 @@
+{
+  "name": "Drinks",
+  "icon": "farmersdelight:hot_cocoa",
+  "category": "recipes",
+  "sortnum": "8",
+  "pages": [
+    {
+      "type": "crafting_table_nofood",
+      "foodname": "Milk Bottle",
+      "item1": "minecraft:milk_bucket",
+      "item2": "minecraft:glass_bottle",
+      "item4": "minecraft:glass_bottle",
+      "item5": "minecraft:glass_bottle",
+      "finalitem": "farmersdelight:milk_bottle",
+      "amount": "3",
+      "info": "none"
+    },
+    {
+      "type": "cooking_pot",
+      "foodname": "Hot Cocoa",
+      "item1": "minecraft:milk_bucket,farmersdelight:milk_bottle",
+      "item2": "minecraft:sugar",
+      "item3": "minecraft:cocoa_beans",
+      "item4": "minecraft:cocoa_beans",
+      "finalitem": "farmersdelight:hot_cocoa",
+      "container": "minecraft:glass_bottle",
+      "effect": "$(#00A74A)Removes every negative effect.$()"
+    }
+  ]
+}

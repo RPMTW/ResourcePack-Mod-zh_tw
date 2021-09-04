@@ -1,0 +1,18 @@
+{
+  "name": "Ariadne Coal",
+  "icon": "engineerstools:ariadne_coal",
+  "category": "tools",
+  "sortnum": 1040,
+  "pages": [
+    {
+      "type": "spotlight",
+      "title": "Ariadne Coal",
+      "item": "engineerstools:ariadne_coal",
+      "text": "Named after the thread, which the daughter of Minos handed to Theseus to find out of the Cretan Labyrinth, the Ariadne Coal allows to draw arrows on walls to point the way out of mines.$(br2)The coal drawings will point in the direction where you click on a block face."
+    },
+    {
+      "type": "text",
+      "text": "$(br2) $(br2) $(br)Clicking on edges will result in straight arrows (north, south, east, west, up, down), whereas clicking near the corners will yield diagonal arrows."
+    }
+  ]
+}

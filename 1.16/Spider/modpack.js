@@ -32,26 +32,23 @@ for (let k = 0; k < 1; k++) {
     function aaa() {
         for (let i = 0; i < ModList.length; i++) {
             let slug, fileID, fileName;
-            CurseForge.getModFiles(ModList[i].projectID).then((files) => {
-                for (let i = 0; i < files.length; i++) {
+            let CurseForgeID = ModList[i].projectID;
+            CurseForge.getModFiles(CurseForgeID).then((files) => {
+                for (let j = 0; j < files.length; j++) {
                     files = files.reverse();
                     files.sort(function (a, b) {
                         return Date.parse(b.timestamp) - Date.parse(a.timestamp);
                     });
-                    let data = files[i].minecraft_versions;
+                    let data = files[j].minecraft_versions;
                     if (data.includes(config.ver) || data.includes("1.16.4") || data.includes("1.16.3") || data.includes("1.16.2") || data.includes("1.16.1") || data.includes("1.16")) {
-                        fileID = String(files[i].id);
-                        fileName = String(files[i].download_url.split("https://edge.forgecdn.net/files/")[1].split(`${fileID.substr(0, 4)}/${fileID.substr(4, 7)}/`)[1]);
-                        if (fileName === "undefined") {
-                            fileName = String(files[i].download_url.split("https://edge.forgecdn.net/files/")[1].split(`${fileID.substr(0, 4)}/${fileID.substr(5, 7)}/`)[1]);
-                        }
-
+                        fileID = String(files[j].id);
+                        fileName = String(files[j].download_url.split("https://edge.forgecdn.net/files/")[1].replace("/", "").split("/")[1]);
                         let test = path.join(ModDirPath, fileName);
                         slug = fileName.split(".jar")[0];
                         try {
-                            files[i].download(test, true).then(r => {
+                            files[j].download(test, true).then(r => {
                                 console.log(`${fileName} 下載完成。`);
-                                compressing.zip.uncompress(`./mod/${fileName}`, "../jar/" + slug).then(() => GetModID(slug, ModList[i].projectID, fileName))
+                                compressing.zip.uncompress(`./mod/${fileName}`, "../jar/" + slug).then(() => GetModID(slug, CurseForgeID, fileName))
                             });
                         } catch (err) {
                             console.log("發生未知錯誤 \n" + err);

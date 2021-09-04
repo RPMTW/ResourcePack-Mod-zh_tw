@@ -1,7 +1,7 @@
 {
     "category.smallships": "Small Ships",
     "key.ship_sail": "Toggle Sail",
-    "key.ship_inventory": "Open Ship Inventroy",
+    "key.ship_inventory": "Open Ship Inventory",
     "entity.smallships.cog": "Cog",
     "item.smallships.acacia_cog": "Acacia Cog",
     "item.smallships.birch_cog": "Birch Cog",
@@ -279,5 +279,7 @@
     "item.smallships.bop_palm_dhow": "Palm Dhow",
     "item.smallships.bop_redwood_dhow": "Redwood Dhow",
     "item.smallships.bop_umbran_dhow": "Umbran Dhow",
-    "item.smallships.bop_willow_dhow": "Willow Dhow"
+    "item.smallships.bop_willow_dhow": "Willow Dhow",
+    "key.higher_ship_sail": "Higher Sail",
+    "key.lower_ship_sail": "Lower Sail"
 }

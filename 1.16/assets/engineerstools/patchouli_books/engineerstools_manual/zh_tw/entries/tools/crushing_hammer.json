@@ -1,0 +1,18 @@
+{
+  "name": "Ore Crushing Hammer",
+  "icon": "engineerstools:crushing_hammer",
+  "category": "tools",
+  "sortnum": 1020,
+  "pages": [
+    {
+      "type": "spotlight",
+      "title": "Ore Crushing Hammer",
+      "item": "engineerstools:crushing_hammer",
+      "text": "This rather clumsy tool serves the only purpose to manually crush ores to grits (dusts), where the yield for one ore unit is two grit units.$(br)The heavy hammer head is made of bare iron, which is a cheap material, but also comes with the downside of low durability. Normally about one stack of ore can be processed before"
+    },
+    {
+      "type": "text",
+      "text": "the head is worn off. Building the head also requires quite a bit of iron.$(br2)Place the hammer and the ore into your crafting grid to manually crush that ore to dust.$(br2) $(br2)$(o)[Because this ore duplicating method is hard to automate, it is mainly interesting in early game stages, until an Ore Crusher machine is build.]$()"
+    }
+  ]
+}

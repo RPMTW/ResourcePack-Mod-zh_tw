@@ -1,0 +1,18 @@
+{
+    "name": "Mushroom Colonies",
+    "icon": "farmersdelight:brown_mushroom_colony",
+    "category": "basics",
+    "sortnum": "9",
+    "pages": [
+      {
+        "type": "mushroom_colonies",
+        "text": "Mushroom Colonies are groups of Mushrooms with 0-3 Mushrooms depending on their age, that can be farmed with Shears. Mushroom Colonies grow out of normal Mushrooms planted on $(l:basics/rich_soil)Rich Soil$() in areas darker than light level 10."
+      },
+      {
+        "type": "image",
+        "images": ["fd_cookbook:textures/gui/cookbook/mushroom_colonies.png"],
+        "text": "From a Normal Mushroom to a stage 3 Mushroom Colony",
+        "border": true
+      }  
+    ]
+  }

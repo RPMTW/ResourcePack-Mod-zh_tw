@@ -1,0 +1,47 @@
+{
+  "name": "Salads",
+  "icon": "farmersdelight:mixed_salad",
+  "category": "recipes",
+  "sortnum": "1",
+  "pages": [
+    {
+      "type": "crafting_table",
+      "foodname": "Mixed Salad",
+      "item1": "farmersdelight:cabbage",
+      "item2": "farmersdelight:tomato",
+      "item3": "farmersdelight:onion",
+      "item4": "minecraft:beetroot",
+      "item5": "minecraft:bowl",
+      "finalitem": "farmersdelight:fruit_salad",
+      "hunger_amount": "x3",
+      "saturation_amount": "x3,5",
+      "effect": "$(#E65390)Regeneration$()(0:10)"
+    },
+    {
+      "type": "crafting_table",
+      "foodname": "Fruit Salad",
+      "item1": "minecraft:apple",
+      "item2": "minecraft:melon_slice",
+      "item3": "minecraft:melon_slice",
+      "item4": "minecraft:sweet_berries",
+      "item5": "minecraft:sweet_berries",
+      "item6": "farmersdelight:pumpkin_slice",
+      "item7": "minecraft:bowl",
+      "finalitem": "farmersdelight:fruit_salad",
+      "hunger_amount": "x3",
+      "saturation_amount": "x3,5",
+      "effect": "$(#E65390)Regeneration$()(0:10)"
+    },
+    {
+      "type": "crafting_table",
+      "foodname": "Nether Salad",
+      "item1": "minecraft:warped_fungus",
+      "item2": "minecraft:crimson_fungus",
+      "item3": "minecraft:bowl",
+      "finalitem": "farmersdelight:nether_salad",
+      "hunger_amount": "x2,5",
+      "saturation_amount": "x2",
+      "effect": "Random $(4)Nausea(0:10)$()"
+    }
+  ]
+}

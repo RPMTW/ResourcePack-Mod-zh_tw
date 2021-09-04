@@ -1,0 +1,12 @@
+{
+  "name": "Liquid Card",
+  "icon": "rftoolsbuilder:shape_card_liquid",
+  "category": "rftoolsbuilder:category_rftoolsbuilder_shape_cards",
+  "sortnum": 40,
+  "pages": [
+    {
+      "type": "text",
+      "text": "The Liquid Card can be used to place liquids by the Builder"
+    }
+  ]
+}

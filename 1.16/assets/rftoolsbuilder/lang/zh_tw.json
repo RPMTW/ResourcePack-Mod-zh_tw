@@ -48,5 +48,15 @@
     "message.rftoolsbuilder.shape_card.dimension": "Dimension: ",
     "message.rftoolsbuilder.shape_card.offset": "Offset: ",
     "message.rftoolsbuilder.shape_card.formulas": "Formulas: ",
-    "message.rftoolsbuilder.shape_card.scan": "Scan id: "
+    "message.rftoolsbuilder.shape_card.scan": "Scan id: ",
+    "block.rftoolsbuilder.space_chamber": "Space Chamber",
+    "block.rftoolsbuilder.space_chamber_controller": "Space Chamber Controller",
+    "item.rftoolsbuilder.space_chamber_card": "Space Card",
+    "message.rftoolsbuilder.space_chamber_controller.header": "This block is one of the eight corners of an area of space you want to copy/move elsewhere. The other corners should be normal space chamber blocks",
+    "message.rftoolsbuilder.space_chamber_controller.channel": "Channel: ",
+    "message.rftoolsbuilder.space_chamber_card.header": "Use this card to link with a space chamber",
+    "message.rftoolsbuilder.space_chamber_card.gold": "Sneak right-click on a space chamber controller to set the channel for this card. Right-click in the air to show an overview of the area contents. Insert it in a builder to copy/move the linked area",
+    "message.rftoolsbuilder.space_chamber_card.cost": "Base cost: ",
+    "message.rftoolsbuilder.space_chamber_card.channel": "Channel: ",
+    "message.rftoolsbuilder.space_chamber_card.extra": "(final cost depends on infusion level)"
 }

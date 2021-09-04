@@ -1,0 +1,23 @@
+{
+    "name": "Straw",
+    "icon": "farmersdelight:straw",
+    "category": "basics",
+    "sortnum": "6",
+    "pages": [
+      {
+        "type": "text",
+        "title": "Straw",
+        "text": "Straw can be obtained by cutting tall grass(guranteed), wheat or rice with a $(l:basics/knife)knife$() and can be used in crafting recipes and can be crafted to a decorative Straw $(l:basics/storage_blocks)Bale$()."
+      },
+      {
+        "type": "crafting_table_nofood",
+        "foodname":"Canvas",
+        "item1": "farmersdelight:straw",
+        "item2": "farmersdelight:straw",
+        "item4": "farmersdelight:straw",
+        "item5": "farmersdelight:straw",
+        "finalitem": "farmersdelight:canvas",
+        "info": "Canvas can be used in various crafting recipes(Painting, Book, Scaffolding)"
+      }
+    ]
+  }

@@ -1,11 +1,9 @@
 {
-    "_comment": "Enchantment Data",
+    "_comment": "Enchantment Descriptions",
     "enchantment.jeienchantmentinfo.missing_description": "--NO DESCRIPTION PROVIDED--\n(mod authors can add description lang file entries; refer to the ''JEI Enchantment Info'' mod readme to see how)",
     "enchantment.jeienchantmentinfo.conflicts": "§4Mutually exclusive with:§l",
     "enchantment.jeienchantmentinfo.max_level": "§1Max Level: %s",
     "enchantment.jeienchantmentinfo.type": "§2Applies to: §l%s",
-
-    "_comment": "Enchantment Types",
     "enchantment.jeienchantmentinfo.type.armor": "armor",
     "enchantment.jeienchantmentinfo.type.armor.boots": "boots",
     "enchantment.jeienchantmentinfo.type.armor.leggings": "leggings",
@@ -21,8 +19,6 @@
     "enchantment.jeienchantmentinfo.type.crossbow": "crossbows",
     "enchantment.jeienchantmentinfo.type.axe": "axes",
     "enchantment.jeienchantmentinfo.type.vanishable": "weapons, tools, wearable/damageable items",
-
-    "_comment": "Enchantment Descriptions",
     "enchantment.jeienchantmentinfo.aqua_affinity.description": "Increases underwater mining speed.",
     "enchantment.jeienchantmentinfo.bane_of_arthropods.description": "Increases damage and applies Slowness IV to arthropod mobs (spiders, cave spiders, silverfish, endermites & bees).",
     "enchantment.jeienchantmentinfo.blast_protection.description": "Reduces explosion damage and knockback.",

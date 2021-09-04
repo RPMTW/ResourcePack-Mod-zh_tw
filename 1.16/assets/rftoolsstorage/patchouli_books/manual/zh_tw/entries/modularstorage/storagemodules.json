@@ -1,0 +1,12 @@
+{
+  "name": "Storage Modules",
+  "icon": "rftoolsstorage:storage_module0",
+  "category": "rftoolsstorage:category_rftoolsstorage_modularstorage",
+  "sortnum": 20,
+  "pages": [
+    {
+      "type": "text",
+      "text": "There are 4 tiers of storage modules which you can directly use in a Modular Storage block"
+    }
+  ]
+}

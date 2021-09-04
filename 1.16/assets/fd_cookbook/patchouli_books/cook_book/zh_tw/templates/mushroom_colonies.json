@@ -1,0 +1,48 @@
+{
+    "components": [
+        {
+            "type": "header",
+            "text": "Mushroom Colonies",
+            "x":-1,
+            "y": 0
+        },
+        {
+            "type":"separator",
+            "x": -1,
+            "y": 7
+        },
+        {
+            "type": "image",
+            "image": "fd_cookbook:textures/gui/two_item_display.png",
+            "x": 7,
+            "y": 12,
+            "width": 128,
+            "height": 128,
+            "texture_width": "128",
+            "texture_height": "128"
+        },
+        {
+            "type": "item",
+            "item": "farmersdelight:brown_mushroom_colony",
+            "x": 31,
+            "y": 15
+        },
+        {
+            "type": "item",
+            "item": "farmersdelight:red_mushroom_colony",
+            "x": 67,
+            "y": 15
+        },
+        {
+            "type": "separator",
+            "x": -1,
+            "y": 37
+        },
+        {
+            "type": "text",
+            "text": "#text",
+            "x": 2,
+            "y": 42
+        }
+    ]
+}
