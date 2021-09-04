@@ -378,5 +378,6 @@
     "commands.ftbquests.weigh_from_emc.invalid_id": "無效的獎勵表 ID！",
     "commands.ftbquests.weigh_from_emc.text": "基於 EMC 的項目獎勵權重已變更，單位為 %s",
     "commands.ftbquests.export_rewards_to_chest.usage": "/ftbquests export_rewards_to_chest <reward_table>",
-    "commands.ftbquests.export_rewards_to_chest.text": "從 %s / %s 導出了 '%s'項目"
+    "commands.ftbquests.export_rewards_to_chest.text": "從 %s / %s 導出了 '%s'項目",
+    "ftbquests.chapter.default_hide_dependency_lines": "Default 'Hide Dependency Lines'"
 }
