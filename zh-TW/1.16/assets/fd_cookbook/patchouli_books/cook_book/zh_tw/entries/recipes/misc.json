@@ -1,0 +1,58 @@
+{
+  "name": "Miscellaneous",
+  "icon": "farmersdelight:steak_and_potatoes",
+  "category": "recipes",
+  "sortnum": "7",
+  "pages": [
+    {
+      "type": "crafting_table",
+      "foodname": "Steak and Potatoes",
+      "item1": "minecraft:baked_potato",
+      "item2": "minecraft:cooked_beef",
+      "item3": "minecraft:bowl",
+      "item4": "farmersdelight:onion",
+      "item5": "farmersdelight:cooked_rice",
+      "finalitem": "farmersdelight:steak_and_potatoes",
+      "hunger_amount": "x6",
+      "saturation_amount": "x9,5",
+      "effect": "$(l:basics/effects)$(#FFB100)Nourished$()(4:00)"
+    },
+    {
+      "type": "crafting_table",
+      "foodname": "Barbeque on a stick",
+      "item1": "farmersdelight:tomato",
+      "item2": "farmersdelight:onion",
+      "item3": "minecraft:cooked_beef",
+      "item4": "minecraft:cooked_chicken",
+      "item5": "minecraft:stick",
+      "item6": "minecraft:stick",
+      "finalitem": "farmersdelight:barbecue_stick",
+      "amount": "2",
+      "hunger_amount": "x4",
+      "saturation_amount": "x7,5",
+      "effect": "none"
+    },
+    {
+      "type": "crafting_table",
+      "foodname": "Stuffed Potato",
+      "item1": "minecraft:baked_potato",
+      "item2": "minecraft:cooked_beef,farmersdelight:beef_patty",
+      "item4": "minecraft:carrot",
+      "item5": "minecraft:milk_bucket,farmersdelight:milk_bottle",
+      "finalitem": "farmersdelight:stuffed_potato",
+      "hunger_amount": "x5",
+      "saturation_amount": "x7",
+      "effect": "none"
+    },
+    {
+      "type": "cooking_pot",
+      "foodname": "Cabbage Rolls",
+      "item1": "farmersdelight:cabbage,farmersdelight:cabbage_leaf",
+      "item2": "minecraft:beetroot,minecraft:potato,minecraft:carrot,minecraft:brown_mushroom,minecraft:red_mushroom,minecraft:egg,minecraft:mutton,farmersdelight:mutton_chops,minecraft:beef,farmersdelight:minced_beef,minecraft:chicken,farmersdelight:chicken_cuts,minecraft:porkchop,farmersdelight:bacon,minecraft:cod,minecraft:salmon,minecraft:tropical_fish,farmersdelight:cod_slice,farmersdelight:salmon_slice",
+      "finalitem": "farmersdelight:cabbage_rolls",
+      "hunger_amount": "x3",
+      "saturation_amount": "x3",
+      "effect": "none"
+    }
+  ]
+}
