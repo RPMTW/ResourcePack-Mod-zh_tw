@@ -1,0 +1,12 @@
+{
+  "name": "Powercell Card",
+  "icon": "rftoolspower:powercell_card",
+  "category": "rftoolspower:category_rftoolspower_powerstorage",
+  "sortnum": 30,
+  "pages": [
+    {
+      "type": "text",
+      "text": "This card is used to link Dimensional Cells"
+    }
+  ]
+}
