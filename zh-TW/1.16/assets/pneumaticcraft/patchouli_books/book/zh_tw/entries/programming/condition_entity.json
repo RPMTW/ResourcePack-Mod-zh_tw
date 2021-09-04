@@ -1,0 +1,23 @@
+{
+  "name": "條件：實體",
+  "icon": "pneumaticcraft:textures/progwidgets/condition_entity_piece.png",
+  "category": "widget_cond",
+  "advancement": "pneumaticcraft:programmer",
+  "pages": [
+    {
+      "type": "text",
+      "text": "這是一個$(l:programming/conditions)條件/$拼圖。$(p)$(thing)條件：實體/$允許對指定$(l:programming/area)區域/$內的實體計數。被計數的實體可以通過可選的作為$(l:base_concepts/entity_filter)實體過濾器/$的$(l:programming/text)文字/$過濾。"
+    },
+    {
+      "type": "text",
+      "text": "Keep in mind that any $(l:programming/area)Area/$ widgets connected to this widget must have an area type of $(thing)Box/$; this is the only supported shape. It's possible to create different shapes, though, by using whitelisting/blacklisting of areas."
+    },
+    {
+      "type": "image",
+      "images": [
+        "pneumaticcraft:textures/progwidgets/condition_entity_piece.png"
+      ],
+      "text": "$(italic)Condition: Entity Widget/$"
+    }
+  ]
+}
