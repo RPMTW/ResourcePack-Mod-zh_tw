@@ -1,0 +1,12 @@
+{
+  "name": "Targetting",
+  "icon": "minecraft:compass",
+  "category": "rftoolsbuilder:category_rftoolsbuilder_builder",
+  "sortnum": 20,
+  "pages": [
+    {
+      "type": "text",
+      "text": "There are various ways to control the area that the Builder will affect. ... @todo"
+    }
+  ]
+}
