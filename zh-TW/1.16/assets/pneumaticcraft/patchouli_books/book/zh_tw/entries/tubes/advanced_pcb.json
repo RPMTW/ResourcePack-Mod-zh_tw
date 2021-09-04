@@ -1,0 +1,18 @@
+{
+  "name": "高級印刷電路板",
+  "icon": "pneumaticcraft:advanced_pcb",
+  "category": "tubes",
+  "advancement": "pneumaticcraft:printed_circuit_board",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(item)高級印刷電路板/$是一個可以被安裝到$(l:tubes/tube_modules)管道模組/$上以從各個方面增強其功能的電路板。使用高級印刷電路板$(thing)右擊/$管道模組以將其安裝。$(p)見各管道模組的介面以獲得更多資訊。"
+    },
+    {
+      "type": "crafting",
+      "text": "高級印刷電路板的合成表",
+      "recipe": "pneumaticcraft:advanced_pcb",
+      "recipe2": "pneumaticcraft:advanced_pcb_v2"
+    }
+  ]
+}
