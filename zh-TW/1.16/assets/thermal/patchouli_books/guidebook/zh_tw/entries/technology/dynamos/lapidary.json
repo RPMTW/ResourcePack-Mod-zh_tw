@@ -12,7 +12,8 @@
         {
             "type": "合成",
             "recipe": "thermal:dynamo_lapidary",
-            "title": "珠寶能源爐"
+            "title": "珠寶能源爐",
+            "text": "$(o)Might be a portal to a land of gem-obsessed moon people.$()"
         },
         {
             "type": "text",
