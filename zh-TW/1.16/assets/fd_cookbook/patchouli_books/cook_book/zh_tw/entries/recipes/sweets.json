@@ -1,0 +1,48 @@
+{
+  "name": "Sweets",
+  "icon": "farmersdelight:sweet_berry_cookie",
+  "category": "recipes",
+  "sortnum": "6",
+  "pages": [
+    {
+      "type": "crafting_table",
+      "foodname": "Sweet Berry Cookie",
+      "item1": "minecraft:sweet_berries",
+      "item2": "minecraft:wheat",
+      "item4": "minecraft:wheat",
+      "finalitem": "farmersdelight:sweet_berry_cookie",
+      "amount": "8",
+      "hunger_amount": "x1",
+      "saturation_amount": "x0,5",
+      "effect": "none"
+    },
+    {
+      "type": "crafting_table",
+      "foodname": "Honey Cookie",
+      "item1": "minecraft:honey_bottle",
+      "item2": "minecraft:wheat",
+      "item4": "minecraft:wheat",
+      "finalitem": "farmersdelight:honey_cookie",
+      "amount": "8",
+      "hunger_amount": "x1",
+      "saturation_amount": "x0,5",
+      "effect": "none"
+    },
+    {
+      "type": "crafting_table",
+      "foodname": "Melon Popsicle",
+      "item2": "minecraft:melon_slice",
+      "item3": "minecraft:melon_slice",
+      "item4": "minecraft:ice",
+      "item5": "minecraft:melon_slice",
+      "item6": "minecraft:melon_slice",
+      "item7": "minecraft:stick",
+      "item8": "minecraft:ice",
+      "finalitem": "farmersdelight:melon_popsicle",
+      "amount": "8",
+      "hunger_amount": "x1",
+      "saturation_amount": "x0,5",
+      "effect": "$(#FFB100)Fire Resistance$()(0:10)"
+    }
+  ]
+}
