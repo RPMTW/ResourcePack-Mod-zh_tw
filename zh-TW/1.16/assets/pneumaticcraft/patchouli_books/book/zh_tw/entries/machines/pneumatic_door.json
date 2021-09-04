@@ -1,0 +1,34 @@
+{
+  "name": "氣動門",
+  "icon": "pneumaticcraft:pneumatic_door",
+  "category": "machines",
+  "advancement": "pneumaticcraft:plastic",
+  "pages": [
+    {
+      "type": "text",
+      "text": "這一特別的門將會在附近有玩家使自動打開，只要其具有足夠的$(l:base_concepts/pressure)壓力/$。其基礎檢測範圍為 2 格，但這可以通過插入$(l:base_concepts/upgrades#range)範圍升級/$來提升。$(p)要構造$(thing)氣動門/$，需要在門的$(italic)上半門/$旁側放置$(thing)氣動門基座/$。"
+    },
+    {
+      "type": "image",
+      "images": [
+        "pneumaticcraft:textures/patchouli/pneumatic_door.png"
+      ],
+      "text": "$(italic)一對氣動門；左側的被$(l:tools/camo_applicator)偽裝/$$(italic),右側的沒有/$"
+    },
+    {
+      "type": "spotlight",
+      "item": "pneumaticcraft:security_station",
+      "text": "若$(item)氣動門基座/$位於工作中的$(l:machines/security_station)安全站/$範圍內，其只將對被$(thing)安全站/$信任的玩家開門。"
+    },
+    {
+      "type": "text",
+      "title": "工作模式",
+      "text": "$(thing)氣動門/$在以下三個模式之一中工作，可以在氣動門基座的介面中選擇：$(li)$(thing)玩家近鄰/$：當玩家在範圍內時開門。$(li)$(thing)玩家近鄰並直視/$：當玩家在範圍內$(italic)並/$直視門時開門$(li)$(thing)木門/$：行為與原版$(item)木門/$相同。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "pneumaticcraft:pneumatic_door",
+      "recipe2": "pneumaticcraft:pneumatic_door_base"
+    }
+  ]
+}
