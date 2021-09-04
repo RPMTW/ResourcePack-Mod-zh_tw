@@ -29,14 +29,14 @@
             "B.title": "小蘿蔔",
             "B.item1": "thermal:radish",
             "B.item2": "thermal:radish_seeds",
-            "B.text": "一種具有強烈風味的根莖類蔬菜，通常生吃或蒸熟食用。"
+            "B.text": "A root vegetable with a sharp flavor, typically eaten raw or steamed."
         },
         {
             "type": "2-2_item_page",
             "A.title": "洋蔥",
             "A.item1": "thermal:onion",
             "A.item2": "thermal:onion_seeds",
-            "A.text": "一種球根狀蔬菜，常用於為美味菜餚增添風味。 讓人欲哭無淚。",
+            "A.text": "A bulbous vegetable that is often used to add flavor to a savory dish. Brings people to tears.",
             "B.title": "大米",
             "B.item1": "thermal:rice",
             "B.item2": "thermal:rice_seeds",
@@ -99,11 +99,36 @@
         },
         {
             "type": "3_item_page",
-            "title": "霜凍西瓜",
-            "item1": "thermal:frost_melon",
-            "item2": "thermal:frost_melon_slice",
-            "item3": "thermal:frost_melon_seeds",
-            "text": "A blue cultivar of melons. Those who consume it find that even the hottest of surfaces feel icy."
+            "A.title": "Hops",
+            "A.item1": "thermal:hops",
+            "A.item2": "thermal:hops_seeds",
+            "A.text": "The seed cones of a flowering hop vine. Used to flavor beer.",
+            "B.title": "Frost Melon",
+            "B.item1": "thermal:frost_melon_slice",
+            "B.item2": "thermal:frost_melon_seeds",
+            "B.text": "A blue cultivar of melons. Those who consume it find that even the hottest of surfaces feel icy."
+        },
+        {
+            "type": "2-2_item_page",
+            "A.title": "Fluxtooth",
+            "A.item1": "minecraft:redstone",
+            "A.item2": "thermal:redstone_mushroom_spores",
+            "A.text": "A pale mushroom that exudes a viscous, redstone-like emulsion when mature.",
+            "B.title": "Glimmercap",
+            "B.item1": "minecraft:glowstone_dust",
+            "B.item2": "thermal:glowstone_mushroom_spores",
+            "B.text": "A glowing fungus that produces a thin layer of shimmering, golden powder on its cap."
+        },
+        {
+            "type": "2-2_item_page",
+            "A.title": "Boomshroom",
+            "A.item1": "minecraft:gunpowder",
+            "A.item2": "thermal:gunpowder_mushroom_spores",
+            "A.text": "A temperamental mushroom that grows webs of explosive material on its underside.",
+            "B.title": "Slitake",
+            "B.item1": "minecraft:slime_ball",
+            "B.item2": "thermal:slime_mushroom_spores",
+            "B.text": "A gooey fungus that secretes protective slime, which can be congealed into balls."
         }
     ]
 }
