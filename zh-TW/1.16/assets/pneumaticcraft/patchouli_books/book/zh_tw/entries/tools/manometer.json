@@ -1,0 +1,23 @@
+{
+  "name": "壓力計",
+  "icon": "pneumaticcraft:manometer",
+  "category": "\n-工具",
+  "advancement": "pneumaticcraft:pressure_tube",
+  "pages": [
+    {
+      "type": "text",
+      "text": "使用壓力計可以測量氣動網路中的$(l:base_concepts/pressure)壓力/$。此外，某些氣動機器/管道具有一些特殊資訊。例如，$(l:tubes/safety_module)安全閥管道模組/$顯示其安全閾值。也就是說，如果你不想去做紅石數學，該工具很有幫助。"
+    },
+    {
+      "type": "crafting",
+      "text": "壓力計的合成表",
+      "recipe": "pneumaticcraft:manometer"
+    },
+    {
+      "type": "text",
+      "title": "其餘模組",
+      "flag": "|mod:theoneprobe,mod:hwyla",
+      "text": "安裝了 $(thing)The One Probe/$ 或 $(thing)WAILA/HWYLA/$ 等模組後，$(item)壓力計/$也許用處不多。"
+    }
+  ]
+}
