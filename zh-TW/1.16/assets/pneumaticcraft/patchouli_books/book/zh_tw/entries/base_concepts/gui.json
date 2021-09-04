@@ -1,0 +1,27 @@
+{
+  "name": "機器窗口基本概念",
+  "icon": "pneumaticcraft:textures/gui/icon/gui_mouse.png",
+  "category": "base_concepts",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(pncr)中大多數機器都有一個介面，包含有幾個$(thing)側頁標籤頁/$。有些標籤頁為所有機器共有，而有些標籤頁僅在部分機器中存在。以下是一些常見的標籤頁："
+    },
+    {
+      "type": "text",
+      "text": "$(li)$(bold)紅石行為/$：設定機器應當如何響應或發出紅石信號。$(li)$(bold)資訊/$：顯示關於該機器用途的（靜態）資訊。$(li)$(bold)升級/$：顯示該機器接受的升級，以及其在該機器中的功效。"
+    },
+    {
+      "type": "text",
+      "text": "$(li)$(bold)壓力狀態/$：顯示機器目前所處的壓力，以及該機器的空氣容量。$(li)$(bold)問題/$：若機器並不正常工作，指出問題所在。"
+    },
+    {
+      "type": "image",
+      "text": "一個含有三個標籤頁的介面：壓力狀態，問題（在此為無），與機器特定的裝配線控制器狀態標籤頁",
+      "images": [
+        "pneumaticcraft:textures/patchouli/gui_tabs.png"
+      ],
+      "border": "false"
+    }
+  ]
+}
