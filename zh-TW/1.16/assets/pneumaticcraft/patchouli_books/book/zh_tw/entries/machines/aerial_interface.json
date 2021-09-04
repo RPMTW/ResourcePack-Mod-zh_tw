@@ -1,0 +1,51 @@
+{
+  "name": "空氣介面",
+  "icon": "pneumaticcraft:aerial_interface",
+  "category": "machines",
+  "advancement": "pneumaticcraft:advanced_pressure_tube",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(item)空氣介面/$是一台功能強大的機器，介於其可以與玩家的物品欄相互動。施加足夠的$(l:base_concepts/pressure)壓力/$後，可以按照與一般容器互動的方式與該機器互動。輸入物品並不快取於介面中，而是$(italic)直接/$傳輸到目標玩家的物品欄中。例如，可以向介面安裝$(l:logistics/frames#requester)物流請求框架/$，並以此在玩家的物品欄中保持至少 64 根火把。"
+    },
+    {
+      "type": "text",
+      "text": "預設情況下，玩家的主物品欄由介面的側面存取，而盔甲欄位則由頂/底面存取。然而，存取設定可以在機器介面中的$(bold)側面設定/$標籤頁中重新設定。$(p)可以將任意一面設定為存取下列物品欄：$(li)主物品欄$(li)盔甲欄位$(li)非慣用手欄位$(li)終界物品欄（即原版$(item)終界儲物箱/$的介面）。"
+    },
+    {
+      "type": "text",
+      "title": "水下呼吸",
+      "text": "當然，既然有一台機器可以與玩家連結，而其又是由$(l:base_concepts/pressure)空氣/$供能的，那麼應該有一種方法可以在有需要時向玩家傳輸空氣——對吧？玩家在水下時，介面將以80 mL/刻的速率消耗額外空氣以保持玩家的水下呼吸。$(p)按空氣計，這比安裝了$(l:base_concepts/upgrades#scuba)水下呼吸升級/$的$(l:armor/pneumatic_helmet)氣動頭盔/$效率更高，但並不提供水下清晰視線。"
+    },
+    {
+      "type": "text",
+      "title": "傳輸 FE能量",
+      "text": "$(item)空氣介面/$接受 $(thing)FE能量/$（與 RF 和其餘部分模組的能量系統相容）。能量被儲存在其內部快取（大小為 100000 FE）中，並用於對玩家物品欄（包括盔甲槽）中可使用 FE 充能的物品充能。"
+    },
+    {
+      "type": "text",
+      "title": "Auto-Feeding",
+      "text": "安裝$(l:base_concepts/upgrades#dispenser)發射器升級/$後，$(item)空氣介面/$可以對玩家遠程餵食。此時，介面只接受食物物品，並且只有提供的物品可以被完全利用時才可以成功輸入。註：若試圖輸入的物品堆疊數大於 1，介面將在整堆物品可以被一次利用時再進行餵食。可以使用$(item)漏斗/$等低速輸入手段確保單次輸入的物品堆疊數最小。"
+    },
+    {
+      "type": "text",
+      "title": "處理經驗",
+      "text": "The $(l:base_concepts/upgrades#dispenser)Dispenser Upgrade/$ also allows you to pump $(thing)XP fluids/$ into or out of the Interface. When multiple types of XP fluid exist, you can choose which one to use via the $(bold)Experience/$ tab in the GUI.  This tab also shows which mods' experience fluids have been detected and are available for use. $(l:base_concepts/memory_essence)Memory Essence/$ is always available to use."
+    },
+    {
+      "type": "text",
+      "title": "處理經驗（續）",
+      "text": "Note that the Interface doesn't have an internal liquid buffer; it uses your experience directly as a 'tank'. This means that when pumping XP in or out, you need a device that can transport liquids at a rate higher than the amount of liquid XP per XP point. This rate is 20mB/tick for all known XP fluids at the time of writing."
+    },
+    {
+      "type": "text",
+      "title": "Auto-Charging",
+      "text": "By pointing a $(l:tubes/charging_module)Charging Module/$ at the $(item)Aerial Interface/$, you can charge any $(l:base_concepts/pressure)pressurizable/$ items in your inventory.$(p)Note that to charge any worn $(l:armor/overview)Pneumatic Armor/$ items, the Charging Module must be pointed at a side of the Interface which is connected to your armor slots."
+    },
+    {
+      "type": "crafting",
+      "text": "空氣介面的合成表",
+      "recipe": "pneumaticcraft:aerial_interface"
+    }
+  ]
+}
