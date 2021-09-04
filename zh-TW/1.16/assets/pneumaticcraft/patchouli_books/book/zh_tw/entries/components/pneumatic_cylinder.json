@@ -1,0 +1,17 @@
+{
+  "name": "壓力缸",
+  "icon": "pneumaticcraft:pneumatic_cylinder",
+  "category": "components",
+  "advancement": "pneumaticcraft:plastic",
+  "pages": [
+    {
+      "type": "text",
+      "text": "合成材料。其自身並無用途。"
+    },
+    {
+      "type": "crafting",
+      "text": "壓力缸的合成表",
+      "recipe": "pneumaticcraft:pneumatic_cylinder"
+    }
+  ]
+}
