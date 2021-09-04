@@ -1,0 +1,131 @@
+{
+  "components": [
+    {
+      "type": "header",
+      "text": "#foodname",
+      "x": -1,
+      "y": 0
+    },
+    {
+      "type": "separator",
+      "x": -1,
+      "y": 8
+    },
+    {
+      "type": "image",
+      "image": "fd_cookbook:textures/gui/cooking_pot_feast_recipe.png",
+      "x": 7,
+      "y": 13,
+      "width": 128,
+      "height": 128,
+      "texture_width": "128",
+      "texture_height": "128"
+    },
+    {
+      "type": "item",
+      "item": "#item1",
+      "x": 9,
+      "y": 15
+    },
+    {
+      "type": "item",
+      "item": "#item2",
+      "x": 27,
+      "y": 15
+    },
+    {
+      "type": "item",
+      "item": "#item3",
+      "x": 45,
+      "y": 15
+    },
+    {
+      "type": "item",
+      "item": "#item4",
+      "x": 9,
+      "y": 33
+    },
+    {
+      "type": "物品",
+      "item": "#item5",
+      "x": 27,
+      "y": 33
+    },
+    {
+      "type": "item",
+      "item": "#item6",
+      "x": 45,
+      "y": 33
+    },
+    {
+      "type": "item",
+      "item": "#feast_block",
+      "x": 85,
+      "y": 26
+    },
+    {
+      "type": "item",
+      "item": "#feast_meal",
+      "x": 85,
+      "y": 51
+    },
+    {
+      "type": "item",
+      "item": "#container",
+      "x": 63,
+      "y": 51
+    },
+    {
+      "type": "separator",
+      "x": -1,
+      "y": 70
+    },
+    {
+      "type": "header",
+      "text": "Info",
+      "x": -1,
+      "y": 75
+    },
+    {
+      "type": "separator",
+      "x": -1,
+      "y": 85
+    },
+    {
+      "type": "image",
+      "image": "fd_cookbook:textures/gui/hunger_icons.png",
+      "x": 3,
+      "y": 90,
+      "u": 0,
+      "v": 0,
+      "width": 9,
+      "height": 18,
+      "texture_width": "128",
+      "texture_height": "128"
+    },
+    {
+      "type": "text",
+      "text": "#hunger_amount",
+      "x": 12,
+      "y": 91
+    },
+    {
+      "type": "text",
+      "text": "#saturation_amount",
+      "x": 12,
+      "y": 101
+    },
+    {
+      "type": "text",
+      "text": "$(2)Effect$():",
+      "x": 3,
+      "y": 111
+    },
+    {
+      "type": "text",
+      "text": "#effect",
+      "x": 3,
+      "y": 121
+    }
+  ]
+}
