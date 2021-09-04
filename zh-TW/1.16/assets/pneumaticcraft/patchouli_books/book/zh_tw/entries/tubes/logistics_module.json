@@ -1,0 +1,37 @@
+{
+  "name": "物流管道模組",
+  "icon": "pneumaticcraft:logistics_module",
+  "category": "tubes",
+  "advancement": "pneumaticcraft:pressure_tube",
+  "pages": [
+    {
+      "type": "text",
+      "text": "This powerful module is used to connect inventories to a $(l:logistics/overview)Logistics System/$, effectively allowing controlled item and fluid transfer via pressure tubes.$(p)The inventory or fluid tank that the module points at must be fitted with a $(l:logistics/frames)Logistics Frame/$.$(p)The Logistics Module does not accept an $(l:tubes/advanced_pcb)Advanced PCB/$."
+    },
+    {
+      "type": "image",
+      "images": [
+        "pneumaticcraft:textures/patchouli/logistics_module.png"
+      ],
+      "border": "true",
+      "text": "兩個物流管道模組，將裝有$(l:logistics/frames#passive_provider)物流被動供應框架/$和$(l:logistics/frames#requester)物流請求框架/$的儲物箱連接"
+    },
+    {
+      "type": "text",
+      "text": "A network of Logistics Modules is defined by all the modules connected to each other by $(l:tubes/pressure_tubes)Pressure Tubes/$; note that any air-using machines do $(italic)not/$ form part of the network.$(p)You can select a channel via the module GUI, or by right-clicking with any $(item)dye/$; only Logistics Modules of the same color will communicate with each other, effectively giving you 16 $(thing)channels/$ on each network."
+    },
+    {
+      "type": "text",
+      "text": "物流管道模組需要$(l:base_concepts/pressure)壓力/$才可工作；最低工作壓力為 3 bar。消耗的空氣是距離，傳輸物品與一個常量的乘積。這意味著傳輸一整組物品的空氣消耗更大，長程傳輸同樣如此。空氣消耗在$(italic)接收端/$的物流模組進行，因為空氣流向接收端。"
+    },
+    {
+      "type": "text",
+      "text": "模組上具有指示燈，指示其目前狀態：$(p)$(li)$(#f00)紅/$：壓力不足。施加至少 3 bar。$(li)$(#f80)橙/$：壓力高於 3 bar，但不足以進行所需的物品/流體傳輸。$(li)$(#0f0)綠/$：壓力足夠。待命。$(li)$(#00f)藍（閃爍）/$：物品/流體正在被傳輸。"
+    },
+    {
+      "type": "crafting",
+      "text": "物流管道模組的合成表",
+      "recipe": "pneumaticcraft:logistics_module"
+    }
+  ]
+}
