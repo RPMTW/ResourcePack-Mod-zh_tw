@@ -1,0 +1,131 @@
+{
+  "name": "Stews and Soups",
+  "icon": "farmersdelight:tomato_sauce",
+  "category": "recipes",
+  "sortnum": "0",
+  "pages": [
+    {
+      "type": "cooking_pot",
+      "foodname": "Beetroot Soup",
+      "item1": "minecraft:beetroot",
+      "item2": "minecraft:beetroot",
+      "item3": "minecraft:beetroot",
+      "finalitem": "minecraft:beetroot_soup",
+      "container": "minecraft:bowl",
+      "hunger_amount": "x3",
+      "saturation_amount": "x3,5",
+      "effect": "$(l:basics/effects)$(9)Comfort$()(5:00)"
+    },
+    {
+      "type": "cooking_pot",
+      "foodname": "Rabbit Stew",
+      "item1": "minecraft:baked_potato",
+      "item2": "minecraft:rabbit,minecraft:cooked_rabbit",
+      "item3": "minecraft:carrot",
+      "item4": "minecraft:red_mushroom,minecraft:brown_mushroom",
+      "finalitem": "minecraft:rabbit_stew",
+      "container": "minecraft:bowl",
+      "hunger_amount": "x5",
+      "saturation_amount": "x6",
+      "effect": "$(l:basics/effects)$(9)Comfort$()(5:00)$(br)$(b)Jump Boost$()(3:00)"
+    },
+    {
+      "type": "cooking_pot",
+      "foodname": "Mushroom Stew",
+      "item1": "minecraft:brown_mushroom",
+      "item2": "minecraft:red_mushroom",
+      "finalitem": "minecraft:mushroom_stew",
+      "container": "minecraft:bowl",
+      "hunger_amount": "x3",
+      "saturation_amount": "x3,5",
+      "effect": "$(l:basics/effects)$(9)Comfort$()(5:00)"
+    },
+    {
+      "type": "cooking_pot",
+      "foodname": "Tomato Soup",
+      "item1": "farmersdelight:tomato",
+      "item2": "farmersdelight:tomato",
+      "finalitem": "farmersdelight:tomato_sauce",
+      "container": "minecraft:bowl",
+      "hunger_amount": "x1",
+      "saturation_amount": "x0,5",
+      "effect": "none"
+    },
+    {
+      "type": "cooking_pot",
+      "foodname": "Fish Stew",
+      "item1": "minecraft:cod,farmersdelight:cod_slice,minecraft:salmon,farmersdelight:salmon_slice,minecraft:tropical_fish",
+      "item2": "farmersdelight:tomato_sauce",
+      "item3": "farmersdelight:onion",
+      "finalitem": "farmersdelight:fish_stew",
+      "container": "minecraft:bowl",
+      "hunger_amount": "x5",
+      "saturation_amount": "x8",
+      "effect": "$(l:basics/effects)$(9)Comfort$()(4:00)"
+    },
+    {
+      "type": "cooking_pot",
+      "foodname": "Vegetable Soup",
+      "item1": "minecraft:carrot",
+      "item2": "minecraft:potato",
+      "item3": "minecraft:beetroot",
+      "item4": "farmersdelight:cabbage_leaf,farmersdelight:cabbage",
+      "finalitem": "farmersdelight:vegetable_soup",
+      "container": "minecraft:bowl",
+      "hunger_amount": "x5",
+      "saturation_amount": "x8",
+      "effect": "$(l:basics/effects)$(9)Comfort$()(4:00)"
+    },
+    {
+      "type": "cooking_pot",
+      "foodname": "Beef Stew",
+      "item1": "minecraft:beef,farmersdelight:minced_beef",
+      "item2": "minecraft:carrot",
+      "item3": "minecraft:potato",
+      "finalitem": "farmersdelight:beef_stew",
+      "container": "minecraft:bowl",
+      "hunger_amount": "x5",
+      "saturation_amount": "x9",
+      "effect": "$(l:basics/effects)$(9)Comfort$()(4:00)"
+    },
+    {
+      "type": "cooking_pot",
+      "foodname": "Pumpkin Soup",
+      "item1": "farmersdelight:pumpkin_slice",
+      "item2": "farmersdelight:cabbage,farmersdelight:cabbage_leaf",
+      "item3": "minecraft:porkchop,farmersdelight:bacon",
+      "item4": "minecraft:milk_bucket,farmersdelight:milk_bottle",
+      "finalitem": "farmersdelight:pumpkin_soup",
+      "container": "minecraft:bowl",
+      "hunger_amount": "x5",
+      "saturation_amount": "x9",
+      "effect": "$(l:basics/effects)$(9)Comfort$()(4:00)"
+    },
+    {
+      "type": "cooking_pot",
+      "foodname": "Baked Cod Stew",
+      "item1": "minecraft:cod,farmersdelight:cod_slice",
+      "item2": "minecraft:potato",
+      "item3": "minecraft:egg",
+      "item4": "farmersdelight:tomato",
+      "finalitem": "farmersdelight:baked_cod_stew",
+      "container": "minecraft:bowl",
+      "hunger_amount": "x5",
+      "saturation_amount": "x9",
+      "effect": "$(l:basics/effects)$(9)Comfort$()(4:00)"
+    },
+    {
+      "type": "cooking_pot",
+      "foodname": "Chicken Soup",
+      "item1": "minecraft:chicken,farmersdelight:chicken_cuts",
+      "item2": "minecraft:carrot",
+      "item3": "farmersdelight:cabbage,farmersdelight:cabbage_leaf",
+      "item4": "minecraft:carrot,minecraft:potato,minecraft:beetroot,farmersdelight:onion,farmersdelight:tomato",
+      "finalitem": "farmersdelight:chicken_soup",
+      "container": "minecraft:bowl",
+      "hunger_amount": "x5",
+      "saturation_amount": "x8",
+      "effect": "$(l:basics/effects)$(9)Comfort$()(4:00)"
+    }
+  ]
+}
