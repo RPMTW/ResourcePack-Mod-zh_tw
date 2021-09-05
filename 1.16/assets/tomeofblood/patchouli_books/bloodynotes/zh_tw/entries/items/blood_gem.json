@@ -1,0 +1,16 @@
+{
+  "name": "The Blood Gem",
+  "icon": "tomeofblood:blood_gem",
+  "category": "equipment",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Blood Gems are the pinnacle of a mage's casting.  To use one, a player must have a Soul Network full of LP.  They then enscribe a spell on a Scribe's Table, starting with the form.  "
+    },
+    {
+      "type": "text",
+      "text": "Any further enscribings add that spell to the end of the enscribed spell, and it's in this way that a mage may ascend beyond the previous limits of their magic."
+    }
+
+  ]
+}
