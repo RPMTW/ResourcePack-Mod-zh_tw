@@ -107,10 +107,10 @@ replaymod.gui.videothumbnail=影片縮略圖
 replaymod.gui.videovisibility.private=私有
 replaymod.gui.videovisibility.unlisted=未列表的
 replaymod.gui.videovisibility.public=公共
-replaymod.gui.ytuploadprogress.auth=[14]授權
-replaymod.gui.ytuploadprogress.prepare_video=[24]預備的影片：%%d%%%%
-replaymod.gui.ytuploadprogress.upload=[34]上傳：%%d%%%%
-replaymod.gui.ytuploadprogress.cleanup=[44]清除
+replaymod.gui.ytuploadprogress.auth=[1/4]授權
+replaymod.gui.ytuploadprogress.prepare_video=[2/4]預備的影片：%%d%%%%
+replaymod.gui.ytuploadprogress.upload=[3/4]上傳：%%d%%%%
+replaymod.gui.ytuploadprogress.cleanup=[4/4]清除
 replaymod.gui.ytuploadprogress.done=完成：%s
 replaymod.gui.titleempty=標題不能為空
 replaymod.gui.videothumbnailtoolarge=縮略圖大小超過了2MB
@@ -164,7 +164,7 @@ replaymod.gui.login.title=登入到ReplayMod.com
 replaymod.gui.register.title=註冊 Replay 賬號
 replaymod.gui.register.confirmpw=確認密碼
 
-replaymod.gui.register.disclaimer=註冊帳號後，將預設同意服務條款：httpsreplaymod.comlegalterms
+replaymod.gui.register.disclaimer=註冊帳號後，將預設同意服務條款：https://replaymod.com/legal/terms
 
 replaymod.gui.register.error.nomatch=兩次密碼不匹配
 replaymod.gui.register.error.shortusername=使用者名至少需要 5 個字元
@@ -214,7 +214,7 @@ replaymod.gui.center.unfavorite=取消收藏
 replaymod.gui.center.author=來自 %1$s%2$s
 replaymod.gui.keyframerepository.title=關鍵幀訊息
 
-replaymod.gui.rendering.progress=幀渲染：%1$d  %2$d
+replaymod.gui.rendering.progress=幀渲染：%1$d / %2$d
 
 #Upload GUI
 replaymod.gui.assets.filechooser=資料檔案
@@ -315,17 +315,17 @@ replaymod.input.keyframerepository=打開關鍵幀設定
 replaymod.input.rollclockwise=順時針旋轉
 replaymod.input.rollcounterclockwise=逆時針旋轉
 replaymod.input.resettilt=重置鏡頭的旋轉角度
-replaymod.input.playpause=播放暫停回放
+replaymod.input.playpause=播放/暫停回放
 replaymod.input.marker=加入標記事件
 replaymod.input.pathpreview=切換路徑預覽
 replaymod.input.assetmanager=資源管理器
 replaymod.input.objectmanager=目標管理器
 replaymod.input.quickmode=快速模式
 replaymod.gui.editkeyframe.title.spec=編輯旁觀者關鍵幀
-replaymod.input.positionkeyframe=位置旁觀者關鍵幀
+replaymod.input.positionkeyframe=位置/旁觀者關鍵幀
 replaymod.input.positiononlykeyframe=位置關鍵幀
 replaymod.input.timekeyframe=時間關鍵幀
-replaymod.input.bothkeyframes=位置旁觀者 + 時間關鍵幀
+replaymod.input.bothkeyframes=位置/旁觀者 + 時間關鍵幀
 
 # CameraControllers
 replaymod.camera.classic=經典
@@ -407,7 +407,7 @@ replaymod.gui.rendersettings.camerapath=導出攝像機路徑
 
 replaymod.gui.rendersettings.arguments=指令行參數
 replaymod.gui.rendersettings.commandline=指令行設定
-replaymod.gui.rendersettings.ffmpeg.description=如果你是一個高級使用者，您可以自訂用於導出影片的指令行參數。更多訊息，查看：httpreplaymod.comdocs replaymod.gui.offeropeneye6=了解更多訊息，請存取httpsopeneye.openmods.infofaq
+replaymod.gui.rendersettings.ffmpeg.description=如果你是一個高級使用者，您可以自訂用於導出影片的指令行參數。更多訊息，查看：http://replaymod.com/docs replaymod.gui.offeropeneye6=了解更多訊息，請存取https://openeye.openmods.info/faq
 
 replaymod.gui.rendersettings.stabilizecamera=穩定鏡頭
 
@@ -452,7 +452,7 @@ replaymod.gui.objects.properties.orientation=方向
 
 #Render Errors
 replaymod.gui.rendering.error.ffmpeglog=FFmpeg 輸出：
-replaymod.gui.rendering.error.message=要渲染影片，需要安裝 ffmpeg：httpffmpeg.org http://ffmpeg.org
+replaymod.gui.rendering.error.message=要渲染影片，需要安裝 ffmpeg：http://ffmpeg.org http://ffmpeg.org
 replaymod.gui.rendering.error.ffmpegargs.2=是否要將它們重置為預設值，然後重試？
 replaymod.gui.rendering.error.ffmpegargs.1=您似乎修改了指令行參數。
 replaymod.gui.replaymodified.message=錄像已經改變，你需要再次保存這些修改麼？
@@ -477,7 +477,7 @@ replaymod.gui.ingame.unnamedmarker=未命名的標記事件
 replaymod.gui.ingame.autoactivating=這個密鑰綁定可以在適當的時候自動啟動。
 replaymod.gui.ingame.autoactivating.disable=按住 Ctrl 鍵點按以停用自動啟動。
 replaymod.gui.ingame.autoactivating.enable=按住 Ctrl 鍵點按以啟用自動啟動。
-replaymod.gui.ingame.first_keyframe_not_at_start_warning=您剛剛放置了第一個關鍵幀，它不在0000。nn這通常表明您誤解了影片時間線（底部的時間線）的工作方式：nn頂部的時間線顯示您在重播中的目前時間，n底部的時間線顯示您正在創建的影片中的時間。n影片將始終在0000開始！如果您的第一個關鍵幀不在0000，n影片將顯示為凍結狀態，直到第一個關鍵幀出現！ If your first keyframe is not at 00:00,\nthen the video will appear frozen until the time of the first keyframe!
+replaymod.gui.ingame.first_keyframe_not_at_start_warning=您剛剛放置了第一個關鍵幀，它不在00:00。\n\n這通常表明您誤解了影片時間線（底部的時間線）的工作方式：\n\n頂部的時間線顯示您在重播中的目前時間，\n底部的時間線顯示您正在創建的影片中的時間。\n影片將始終在00:00開始！如果您的第一個關鍵幀不在00:00，\n影片將顯示為凍結狀態，直到第一個關鍵幀出現！ If your first keyframe is not at 00:00,\nthen the video will appear frozen until the time of the first keyframe!
 
 #Clear Keyframe Callback
 replaymod.gui.clearcallback.title=清除所有的關鍵幀？
