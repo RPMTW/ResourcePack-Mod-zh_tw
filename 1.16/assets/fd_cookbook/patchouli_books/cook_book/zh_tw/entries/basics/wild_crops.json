@@ -1,0 +1,62 @@
+{
+    "name": "Wild Crops",
+    "icon": "farmersdelight:wild_carrots",
+    "category": "basics",
+    "sortnum": "1",
+    "pages": [
+        {
+            "type": "text",
+            "title": "Wild Crops",
+            "text": "Farmers Delight adds 4 new Crops(Cabbage, Onion, Tomato, Rice),that can be found in the Wild and a Wild variant to 3 Vanilla Crops(Carrot, Potato, Beetroot)."
+        },
+        {
+            "type": "image",
+            "title": "Wild Carrot",
+            "images": ["fd_cookbook:textures/gui/cookbook/wild_carrot.png"],
+            "text": "Wild Carrots grow in Temperate climates(0.3 - 1.0 Temperature).",
+            "border": true
+        },
+        {
+            "type": "image",
+            "title": "Wild Potato",
+            "images": ["fd_cookbook:textures/gui/cookbook/wild_potato.png"],
+            "text": "Wild Potatoes grow in Cold climates(0.0 - 0.3 Temperature).",
+            "border": true
+        },
+        {
+            "type": "image",
+            "title": "Sea Beet",
+            "images": ["fd_cookbook:textures/gui/cookbook/sea_beet.png"],
+            "text": "Sea Beets grow on Beaches.",
+            "border": true
+        },
+        {
+            "type": "image",
+            "title": "Wild Cabbage",
+            "images": ["fd_cookbook:textures/gui/cookbook/wild_cabbage.png"],
+            "text": "Wild Cabbage grows on Beaches.",
+            "border": true
+        },
+        {
+            "type": "image",
+            "title": "Wild Onion",
+            "images": ["fd_cookbook:textures/gui/cookbook/wild_onion.png"],
+            "text": "Wild Onion grows in a Temperate climate(0.3 - 1.0 Temperature).",
+            "border": true
+        },
+        {
+            "type": "image",
+            "title": "Tomato Vines",
+            "images": ["fd_cookbook:textures/gui/cookbook/tomato_vines.png"],
+            "text": "Tomato Vines grow in Arid climates(more than 1.0 Temperature).",
+            "border": true
+        },
+        {
+            "type": "image",
+            "title": "Wild Rice",
+            "images": ["fd_cookbook:textures/gui/cookbook/wild_rice.png"],
+            "text": "Grows in 1 Block Deep Water in Swamps or Jungles.",
+            "border": true
+        }
+    ]
+}
