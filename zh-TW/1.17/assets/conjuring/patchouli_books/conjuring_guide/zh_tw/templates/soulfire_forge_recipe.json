@@ -2,7 +2,7 @@
   "processor": "com.glisco.conjuring.compat.patchouli.SoulfireForgeProcessor",
   "components": [
     {
-      "type": "image",
+      "type": "patchouli:image",
       "image": "conjuring:textures/gui/patchouli/soulfire_forge_patchouli.png",
       "width": 120,
       "height": 64,
@@ -10,7 +10,7 @@
       "y": 6
     },
     {
-      "type": "header",
+      "type": "patchouli:header",
       "text": "#iname",
       "maxWidth": 10,
       "x": -1,
@@ -77,7 +77,7 @@
       "y": 50
     },
     {
-      "type": "item",
+      "type": "patchouli:item",
       "item": "#input8",
       "x": 43,
       "y": 50

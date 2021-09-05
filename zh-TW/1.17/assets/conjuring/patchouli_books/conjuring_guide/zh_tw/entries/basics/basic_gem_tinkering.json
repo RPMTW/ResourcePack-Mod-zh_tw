@@ -5,13 +5,13 @@
   "pages": [
     {
       "type": "text",
-      "text": "(物品)寶石工匠是一種非常特殊的符文裝置，需要創造(項目)方面寶石().這些小石頭每個都表達了定制的不同方面，所有這些都可以應用於大多數工具軸承(召喚：基礎知識/靈魂複合材料#靈魂合金)靈魂合金.4 種不同的寶石由這些材料製成: 紅石, 青金石, 末影之眼 和綠寶石",
+      "text": " $(item)寶石工匠$()是一種非常特殊的符文裝置，需要創造$(thing)方面寶石$().這些小石頭每個都表達了定制的不同方面，所有這些都可以應用於大多數工具軸承$(l:conjuring:basics/soul_composite_materials#soul_alloy)靈魂合金$().$(p)4 種不同的寶石由這些材料製成: $(item)紅石$(), $(item)青金石$(), $(item)末影之眼$() 或$(item)綠寶石$().",
       "anchor": "aspect_gems"
     },
     {
       "type": "crafting",
       "recipe": "conjuring:crafting/gem_tinkerer",
-      "text": "要操作寶石工匠,  首先要在上面放一些(l:召喚：基礎/咒法精華#次要精髓)次級咒法精華在上面. 所有懸停列都需要安裝所需的項目。最後，一個簡單的 Shift-右鍵單擊,空手將啟動製作過程。"
+      "text": "要操作$(item)寶石工匠$(),  首先要在上面放一些 $(l:conjuring:basics/conjuration_essence#lesser_essence)次級咒法精華$()在上面. 所有懸停列都需要安裝所需的項目。最後，一個簡單的  $(thing)Shift-右鍵單擊$(),$(thing)空手$()將啟動製作過程。"
     },
     {
       "type": "text",
