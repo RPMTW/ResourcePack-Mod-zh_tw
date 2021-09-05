@@ -1,5 +1,5 @@
 {
-    "name": "Loot Scrapping",
+    "name": "碎片化",
     "icon": "theaurorian:auroriansteel",
     "category": "1aurorianbasics",
     "sortnum": "5",
@@ -7,9 +7,9 @@
     "pages": [
         {
             "type": "spotlight",
-            "title": "Loot Scrapping",
+            "title": "碎片化",
             "item": "theaurorian:auroriansteel",
-            "text": "Aurorian loot can be smelted into scrap, which can then be used to repair tools, craft other special tools, or craft a powerful type of steel: $(#008cff)Aurorian Steel$()! You can also use the Scrapper that gives double the scrap!"
+            "text": "極光幽境的許多材料都可以被熔煉為碎片。碎片可以被用於修復工具、製作其它種類的工具以及合成一種特殊的鋼：$(#008cff)極光鋼$()！你也可以使用粉碎器以獲得雙倍的碎片！"
         },
         {
             "type": "smelting",
@@ -19,7 +19,7 @@
         {
             "type": "crafting",
             "recipe2": "theaurorian:items/aurorianiteingot",
-            "text": "Each type of scrap can be turned into their own Ingot."
+            "text": "所有種類的碎片都可被轉為它們對應的錠。"
         },
         {
             "type": "crafting",
@@ -29,13 +29,13 @@
         {
             "type": "crafting",
             "recipe": "theaurorian:items/auroriansteel",
-            "text": "$(#008cff)Aurorian Steel$() is the strongest metal in The Aurorian and can be made into new armor and tools. Check it out in the $(#008cff)Magical Items$() category for more info."
+            "text": "$(#008cff)極光鋼$()是極光幽境中最強大的材料，它可以被製成工具和盔甲。你可以在$(#008cff)魔法物品$()部分中查看更多的訊息。"
         },
         {
             "type": "spotlight",
-            "title": "What now?",
+            "title": "然後呢？",
             "item": "theaurorian:moonlightforge",
-            "text": "These ingots can then be used to forge new tools in the $(#008cff)Moonlight Forge$()! More info in the $(#008cff)Moonlight Forge$() chapter."
+            "text": "這些錠可以在$(#008cff)月光融鍛台$()中被製成工具！在$(#008cff)月光融鍛台$()一章中查看更多訊息。"
         }
     ]
 }

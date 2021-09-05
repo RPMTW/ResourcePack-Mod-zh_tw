@@ -1,5 +1,5 @@
 {
-    "name": "Aurorian Steel Tools",
+    "name": "極光鋼工具",
     "icon": "theaurorian:auroriansteel",
     "category": "3magicalitems",
     "readbydefault": true,
@@ -7,13 +7,13 @@
         {
             "type": "spotlight",
             "item": "theaurorian:auroriansteelsword",
-            "text": "$(#008cff)Aurorian Steel$() is a metal forged from all aspects of The Aurorian. These tools have the special ability to level up enchantments placed on them!"
+            "text": "$(#008cff)極光鋼$()是極光幽境每一方面的材料融合在一起製得的金屬。這些工具能升級它們的附魔！"
         },
         {
             "type": "crafting",
-            "name": "Aurorian Steel",
+            "name": "極光鋼",
             "recipe": "theaurorian:items/auroriansteel",
-            "text": "They will choose the first enchantment they see, and if the enchantment has higher levels, it will upgrade it to the next level! Also cost of leveling up goes up each time."
+            "text": "它們會選擇自己的第一個附魔並在能升級時隨著時間的推移逐漸升級！"
         }
     ]
 }

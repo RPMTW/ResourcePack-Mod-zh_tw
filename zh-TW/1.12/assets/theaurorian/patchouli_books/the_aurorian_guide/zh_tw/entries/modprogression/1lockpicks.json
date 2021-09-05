@@ -1,5 +1,5 @@
 {
-    "name": "Lockpicks",
+    "name": "開鎖器",
     "icon": "theaurorian:lockpicks",
     "category": "2modprogression",
     "sortnum": "1",
@@ -9,11 +9,11 @@
             "type": "crafting",
             "name": "Lockpicks",
             "recipe": "theaurorian:items/tools/lockpicks",
-            "text": "$(#008cff)Lockpicks$() are required to gain access to the first dungeon, $(#008cff)The Runestone Dungeon$()."
+            "text": "$(#008cff)符石地牢$()將會是你開啟的第一個地牢，$(#008cff)開鎖器$()是你進入這個地牢的小幫手。"
         },
         {
             "type": "text",
-            "text": "$(#008cff)Lockpicks$() don't have much durability, their main use is to open $(#008cff)Runestone Dungeon Gates$(), which are found at the base of $(#008cff)The Runestone Dungeon$().$(br2)Later on you can find $(#008cff)Runestone Keys$() which will allow you to open gates without lockpicks."
+            "text": "$(#008cff)開鎖器$()的耐久度並不高，它們的主要用途為開啟$(#008cff)符文地牢大門$()，這扇大門深藏於$(#008cff)符文地牢$()的底端。$(br2)在這之後，你會找到$(#008cff)符石鑰匙$()，這一鑰匙可以代替開鎖器。"
         }
     ]
 }

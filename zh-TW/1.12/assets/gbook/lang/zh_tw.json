@@ -1,8 +1,8 @@
 {
-    "item.gbook.guidebook.name": "Guidebook",
+    "item.gbook.guidebook.name": "指南",
     "itemGroup.gbook": "指南手冊",
-    "text.copyToClipboard.line1": "The book wants to put text in your clipboard.",
-    "text.copyToClipboard.line2": "Are you sure you want to allow this?",
-    "text.copyToClipboard.success": "Text successfully copied.",
+    "text.copyToClipboard.line1": "這本書想要把文字複製進你的剪貼板。",
+    "text.copyToClipboard.line2": "你確定要允許嗎？",
+    "text.copyToClipboard.success": "文字已成功複製。",
     "cmd.gbook.guide.done": "重新載入完成"
 }

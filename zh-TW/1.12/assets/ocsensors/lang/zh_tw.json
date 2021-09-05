@@ -1,11 +1,11 @@
 {
-    "tile.ocsensors.sensor.name": "Sensor",
-    "tile.ocsensors.sensor.tooltip": "Used to read information like energy, inventory contents etc from remote blocks.",
+    "tile.ocsensors.sensor.name": "傳感器",
+    "tile.ocsensors.sensor.tooltip": "用於從遠程數據塊中讀取諸如能源、庫存內容等訊息。",
     "commands.ocsensors.usage": "/ocsensors [subcommand, leave empty for list of commands]",
-    "commands.ocsensors.available": "Available sub-commands:",
-    "commands.ocsensors.denied": "You do not have the permission to use this command.",
+    "commands.ocsensors.available": "可用的子指令:",
+    "commands.ocsensors.denied": "你沒有權限使用這個指令。",
     "commands.ocsensors.extract-configs.usage": "/ocsensors extract-configs",
-    "commands.ocsensors.extract-configs.description": "Extract the default integration configs from the .jar to the config folder.",
+    "commands.ocsensors.extract-configs.description": "從.jar中提取預設設定檔案到config資料夾中。",
     "commands.ocsensors.reload.usage": "/ocsensors reload",
-    "commands.ocsensors.reload.description": "Reloads all available integration configs."
+    "commands.ocsensors.reload.description": "重載全部設定檔案。"
 }

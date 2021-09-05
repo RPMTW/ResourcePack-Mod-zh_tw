@@ -1,5 +1,5 @@
 {
-    "name": "Keeper's Bow",
+    "name": "守衛之弓",
     "icon": "theaurorian:keepersbow",
     "category": "3magicalitems",
     "readbydefault": true,
@@ -7,7 +7,7 @@
         {
             "type": "spotlight",
             "item": "theaurorian:keepersbow",
-            "text": "$(#008cff)The Keeper's Bow$() shoots 3 arrows in a spread when fully drawn!"
+            "text": "$(#008cff)守衛之弓$()拉滿時能一次射出 3 枝箭！"
         }
     ]
 }

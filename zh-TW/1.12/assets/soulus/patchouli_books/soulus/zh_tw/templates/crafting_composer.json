@@ -2,7 +2,7 @@
 	"processor": "yuudaari.soulus.client.compat.patchouli.ComposerCraftingPage",
 	"components": [
 		{
-			"type": "image",
+			"type": "patchouli:image",
 			"image": "patchouli:textures/gui/crafting.png",
 			"x": 7,
 			"y": 2,
@@ -12,7 +12,7 @@
 			"texture_height": 128
 		},
 		{
-			"type": "header",
+			"type": "patchouli:header",
 			"text": "#name",
 			"x": -1,
 			"y": -6
@@ -91,7 +91,7 @@
 			"y": 45
 		},
 		{
-			"type": "item",
+			"type": "patchouli:item",
 			"item": "#input9",
 			"x": 50,
 			"y": 45

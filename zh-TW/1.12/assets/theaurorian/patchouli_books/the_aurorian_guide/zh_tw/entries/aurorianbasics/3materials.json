@@ -1,5 +1,5 @@
 {
-    "name": "Aurorian Materials",
+    "name": "極光幽境的材料",
     "icon": "theaurorian:silentwoodstick",
     "category": "1aurorianbasics",
     "sortnum": "3",
@@ -7,84 +7,84 @@
     "pages": [
         {
             "type": "spotlight",
-            "title": "Silentwood",
+            "title": "謐木",
             "item": "theaurorian:silentwoodplanks",
-            "text": "$(#008cff)Silentwood$() tools are the most basic Aurorian tools you can make. They're about the same as regular wood, except some tools have special abilities.$(br2)All Aurorian tools require $(#008cff)Silentwood Sticks$(), opposed to vanilla sticks."
+            "text": "$(#008cff)謐木$()是極光幽境中最基礎的材料。它製成的工具與普通的木頭工具別無二致，但有些工具擁有特殊的屬性。$(br2)所有的極光幽境的工具都需要使用$(#008cff)謐木棒$()而不是原版的木棒來製作。"
         },
         {
             "type": "image",
             "border": true,
-            "title": "Silentwood Trees",
+            "title": "謐木",
             "images": [
                 "theaurorian:patchouli_books/the_aurorian_guide/en_us/entries/aurorianbasics/silentwood.png"
             ]
         },
         {
             "type": "spotlight",
-            "title": "Aurorian Stone",
+            "title": "極光石",
             "item": "theaurorian:auroriancobblestone",
-            "text": "$(#008cff)Aurorian Stone$() tools are a bit faster than vanilla stone tools. Some tools have special abilities like $(#008cff)Silentwood$()."
+            "text": "$(#008cff)極光石$()工具相較原版的石工具來說挖掘速度更快一點。有些工具擁有與$(#008cff)謐木$()類似的特殊效果。"
         },
         {
             "type": "image",
             "border": true,
-            "title": "Aurorian Stone",
+            "title": "極光石",
             "images": [
                 "theaurorian:patchouli_books/the_aurorian_guide/en_us/entries/aurorianbasics/aurorianstone.png"
             ]
         },
         {
             "type": "spotlight",
-            "title": "Aurorian Coal",
+            "title": "極光煤炭",
             "item": "theaurorian:auroriancoal",
-            "text": "$(#008cff)Aurorian Coal$() can be used to smelt things in the furnace. It can also be turned into $(#008cff)Aurorian Coal Nuggets$() that can smelt exactly one item!"
+            "text": "$(#008cff)極光煤炭$()可以被用作熔爐的燃料。它也可以被轉化為$(#008cff)極光煤炭粒$()，極光煤炭粒可以熔煉剛好一個物品！"
         },
         {
             "type": "image",
             "border": true,
-            "title": "Aurorian Coal Ore",
+            "title": "極光煤礦",
             "images": [
                 "theaurorian:patchouli_books/the_aurorian_guide/en_us/entries/aurorianbasics/auroriancoal.png"
             ]
         },
         {
             "type": "spotlight",
-            "title": "Cerulean",
+            "title": "晶藍",
             "item": "theaurorian:ceruleaningot",
-            "text": "Unlike other materials, $(#008cff)Cerulean$() can't be used for tools, but instead used to make Armor, Buckets, and other special items!"
+            "text": "不像其它的材料，$(#008cff)晶藍$()不能被用於製作工具，但它可以被用於製作盔甲、桶以及其它特殊的物品！"
         },
         {
             "type": "image",
             "border": true,
-            "title": "Cerulean Ore",
+            "title": "晶藍礦",
             "images": [
                 "theaurorian:patchouli_books/the_aurorian_guide/en_us/entries/aurorianbasics/cerulean.png"
             ]
         },
         {
             "type": "spotlight",
-            "title": "Moonstone",
+            "title": "皎月石",
             "item": "theaurorian:moonstoneingot",
-            "text": "$(#008cff)Moonstone$() is a magical material! It works best at night, but worse during the day. It's a small bit better than iron tools."
+            "text": "$(#008cff)皎月石$()是一種具有魔力的材料！夜間它的效能極佳，而白天則會相對差一些。它製成的工具相較鐵工具更強一點。"
         },
         {
             "type": "image",
             "border": true,
-            "title": "Moonstone Ore",
+            "title": "皎月石礦",
             "images": [
                 "theaurorian:patchouli_books/the_aurorian_guide/en_us/entries/aurorianbasics/moonstone.png"
             ]
         },
         {
             "type": "spotlight",
-            "title": "Geodes/Crystals",
+            "title": "晶簇/水晶",
             "item": "theaurorian:crystal",
-            "text": "$(#008cff)Crystals$() are got by mining $(#008cff)Geode Ores$() and can be found all throughout The Aurorian. It cannot be used for tools or armor, but it's a very important ingredient for crafting!"
+            "text": "$(#008cff)水晶$()可以通過挖掘$(#008cff)晶簇礦$()得到。晶簇礦在整個極光幽境中都有分布。它不能被用於製作工具或盔甲，但是許多配方中都包含著這一相當重要的材料！"
         },
         {
             "type": "image",
             "border": true,
-            "title": "Geode Ore",
+            "title": "晶簇礦",
             "images": [
                 "theaurorian:patchouli_books/the_aurorian_guide/en_us/entries/aurorianbasics/geode.png"
             ]

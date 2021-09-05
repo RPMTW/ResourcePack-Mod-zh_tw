@@ -1,8 +1,8 @@
 {
-    "entity.grue.EntityGrue.name": "Grue",
-    "death.attack.grue": "%1$s was eaten by a Grue",
-    "death.attack.grue.player": "%1$s was eaten by a Grue whilst trying to escape %2$s",
-    "death.attack.wimpgrue": "%1$s was cowardly eaten by a Grue",
-    "death.attack.wimpgrue.player": "%1$s was cowardly eaten by a Grue whilst trying to escape %2$s",
-    "text.warning.grue": "It's pitch black, you are likely to be eaten by a Grue"
+    "entity.grue.EntityGrue.name": "格魯怪物",
+    "death.attack.grue": "%1$s被格魯怪物吃了",
+    "death.attack.grue.player": "%1$s在試圖逃離%2$s時被格魯怪物吃了",
+    "death.attack.wimpgrue": "%1$s懦弱地被格魯怪物吃掉了",
+    "death.attack.wimpgrue.player": "%1$s在試圖逃離%2$s時被格魯怪物吃了",
+    "text.warning.grue": "這裡太黑暗了，你可能會被格魯怪物吃掉"
 }

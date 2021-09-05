@@ -1,5 +1,5 @@
 {
-    "name": "Silentwood Crafting Table",
+    "name": "謐木工作檯",
     "icon": "theaurorian:silentwoodcraftingtable",
     "category": "5blocks",
     "readbydefault": true,
@@ -7,7 +7,7 @@
         {
             "type": "spotlight",
             "item": "theaurorian:silentwoodcraftingtable",
-            "text": "Just like a regular crafting table. Can be turned into a vanilla crafting table."
+            "text": "與普通的工作檯別無二致。可以被轉為原版的工作檯。"
         },
         {
             "type": "crafting",

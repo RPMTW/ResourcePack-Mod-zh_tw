@@ -1,5 +1,5 @@
 {
-    "name": "Silkberry Jam Sandwich",
+    "name": "桑葚醬三明治",
     "icon": "theaurorian:silkberryjamsandwich",
     "category": "4agriculture",
     "readbydefault": true,
@@ -7,11 +7,11 @@
         {
             "type": "spotlight",
             "item": "theaurorian:silkberryjamsandwich",
-            "text": "$(#008cff)Silkberry Jam Sandwich$() is a good meal for surviving off The Aurorian land!"
+            "text": "$(#008cff)桑葚醬三明治$()是一種有助於你在極光幽境中生存下去的好食物！"
         },
         {
             "type": "crafting",
-            "name": "Silkberry Jam Sandwich",
+            "name": "桑葚醬三明治",
             "recipe": "theaurorian:items/silkberryjamsandwich"
         }
     ]

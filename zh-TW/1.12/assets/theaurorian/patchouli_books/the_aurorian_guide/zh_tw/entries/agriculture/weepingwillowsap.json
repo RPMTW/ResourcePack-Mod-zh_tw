@@ -1,5 +1,5 @@
 {
-    "name": "Weeping Willow Sap",
+    "name": "垂柳樹液",
     "icon": "theaurorian:weepingwillowsap",
     "category": "4agriculture",
     "readbydefault": true,
@@ -7,11 +7,11 @@
         {
             "type": "spotlight",
             "item": "theaurorian:weepingwillowsap",
-            "text": "$(#008cff)Weeping Willow Sap$() can be obtained from Weeping Willow Trees. They can be burned for fuel or eaten to replace poison effects with slowness."
+            "text": "$(#008cff)垂柳木樹液$()可以從垂柳木上取得到。它們可以被用作燃料，也可以食用，食用後可將玩家的中毒效果變為緩慢效果。"
         },
         {
             "type": "text",
-            "text": "When replacing poison effect it will keep duration and amplifier but pass it onto slowness."
+            "text": "將中毒效果轉變為緩慢效果時會保留剩餘時間及等級。"
         }
     ]
 }

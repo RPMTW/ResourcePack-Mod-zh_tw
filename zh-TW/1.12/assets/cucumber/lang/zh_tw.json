@@ -4,11 +4,11 @@
     "_comment_2": "方塊",
     "_comment_3": " 物品",
     "_comment_4": " GUIDE",
-    "guide.cu.page_indicator": "頁數 %s/%s",
+    "guide.cu.page_indicator": "頁數 %s / %s",
     "_comment_5": "工具訣竅",
-    "tooltip.cu.exit": "Exit",
+    "tooltip.cu.exit": "退出",
     "tooltip.cu.back": "返回",
-    "tooltip.cu.author": "作者: %s",
-    "tooltip.cu.uses_left": "剩餘使用次數：%s",
-    "tooltip.cu.hold_shift_for_info": "§按住§e§oSHIFT §r§7以獲得更多資訊."
+    "tooltip.cu.author": "作者：%s",
+    "tooltip.cu.uses_left": "使用左側：%s",
+    "tooltip.cu.hold_shift_for_info": "§7按下 §e§oSHIFT §r§7鍵查看更多訊息。"
 }

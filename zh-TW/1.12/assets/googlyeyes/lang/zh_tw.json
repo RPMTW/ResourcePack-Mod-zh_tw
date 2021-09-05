@@ -1,10 +1,10 @@
 {
-    "googlyeyes.config.prop.disabledGoogly.name": "Disabled Googly Eyes",
-    "googlyeyes.config.prop.acidTripEyes.name": "Acid Trip Eyes",
-    "googlyeyes.config.prop.googlyEyeChance.name": "Googly Eye Chance",
-    "googlyeyes.config.prop.allPlayersHaveGooglyEyes.name": "All Players Have Googly Eyes",
-    "googlyeyes.config.prop.disabledGoogly.comment": "To disable Googly Eyes on a specific entity, put their registry name in here.\\nEG: \"Pig\", \"Skeleton\"\\nFor Players, put \"player\"",
-    "googlyeyes.config.prop.acidTripEyes.comment": "Let them googly eyes be trippin'",
-    "googlyeyes.config.prop.googlyEyeChance.comment": "Googly Eye chance (in %)",
-    "googlyeyes.config.prop.allPlayersHaveGooglyEyes.comment": "Should all players have googly eyes?"
+    "googlyeyes.config.prop.disabledGoogly.name": "鼓鼓眼已被停用",
+    "googlyeyes.config.prop.acidTripEyes.name": "迷幻游",
+    "googlyeyes.config.prop.googlyEyeChance.name": "鼓鼓眼機率",
+    "googlyeyes.config.prop.allPlayersHaveGooglyEyes.name": "所有玩家皆有鼓鼓眼",
+    "googlyeyes.config.prop.disabledGoogly.comment": "如果要針對特定實體停用鼓鼓眼，請把它們的註冊名寫在這裡。\\n例如：「Pig」，「Skeleton」\\n對玩家的話，請寫「player」",
+    "googlyeyes.config.prop.acidTripEyes.comment": "讓鼓鼓眼搞怪",
+    "googlyeyes.config.prop.googlyEyeChance.comment": "鼓鼓眼機率（%）",
+    "googlyeyes.config.prop.allPlayersHaveGooglyEyes.comment": "所有玩家是否該有鼓鼓眼？"
 }

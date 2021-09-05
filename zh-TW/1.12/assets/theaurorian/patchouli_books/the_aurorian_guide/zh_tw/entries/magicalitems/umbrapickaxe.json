@@ -1,5 +1,5 @@
 {
-    "name": "Umbra Pickaxe",
+    "name": "本影鎬",
     "icon": "theaurorian:umbrapickaxe",
     "category": "3magicalitems",
     "readbydefault": true,
@@ -7,7 +7,7 @@
         {
             "type": "spotlight",
             "item": "theaurorian:umbrapickaxe",
-            "text": "$(#008cff)The Umbra Pickaxe$() lets you select a block and gain a mining speed bonus towards that block! Selecting blocks costs a decent amount of durablity. Sneak clicking a block will clear the current selected block."
+            "text": "$(#008cff)本影鎬$()能讓你選擇一種方塊，並在挖掘這種方塊時獲得速度增益，但選擇這一過程會消耗大量耐久度。潛行點擊一個方塊會移除目前選中的方塊。"
         }
     ]
 }

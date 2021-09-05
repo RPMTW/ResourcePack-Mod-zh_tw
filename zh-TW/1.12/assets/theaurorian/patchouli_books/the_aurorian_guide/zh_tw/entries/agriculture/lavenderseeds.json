@@ -1,5 +1,5 @@
 {
-    "name": "Lavender Seeds",
+    "name": "薰衣草籽",
     "icon": "theaurorian:lavenderseeds",
     "category": "4agriculture",
     "readbydefault": true,
@@ -7,13 +7,13 @@
         {
             "type": "spotlight",
             "item": "theaurorian:lavenderseeds",
-            "text": "$(#008cff)Lavender Seeds$() are got by putting $(#008cff)Lavender$() in a crafting table. Can be planted to farm more lavender."
+            "text": "$(#008cff)薰衣草籽$()可以使用$(#008cff)薰衣草$()合成得到。可以用於種植更多的薰衣草。"
         },
         {
             "type": "crafting",
-            "name": "Lavender Seed Tea",
+            "name": "薰衣草籽茶",
             "recipe": "theaurorian:items/tea/teaseedy",
-            "text": "$(#008cff)Lavender Seeds$() can also be made into tea that gives a short speed buff."
+            "text": "$(#008cff)薰衣草籽$()也可以用於製作薰衣草籽茶，飲用薰衣草籽茶後可以獲得一小段時間的速度效果。"
         }
     ]
 }

@@ -1,12 +1,12 @@
 {
-    "item.vefluids:bucket.name": "Bucket",
-    "item.vefluids:bucket.fluid.name": "Fluid",
-    "item.vefluids:bucket.fluid.amount.name": "Amount",
-    "item.vefluids:bucket.error.fluid.milk.notRegistered": "The cow seem to dislike the bucket",
-    "item.vefluids:bucket.volume.notEnoughForFullBlock": "Need a 1000mb to place a full block of fluid",
-    "item.vefluids:bucket.creative.void": "Voids Fluids in Creative Mode",
+    "item.vefluids:bucket.name": "桶",
+    "item.vefluids:bucket.fluid.name": "流體",
+    "item.vefluids:bucket.fluid.amount.name": "含量",
+    "item.vefluids:bucket.error.fluid.milk.notRegistered": "牛似乎不喜歡桶",
+    "item.vefluids:bucket.volume.notEnoughForFullBlock": "需要1000mb來放置一個完整的流體方塊",
+    "item.vefluids:bucket.creative.void": "創造模式下清空流體",
     "fluid.milk": "牛奶",
     "fluid.fuel": "燃料",
     "fluid.oil": "石油",
-    "item.vefluids:ironBucket.name": "Iron Bucket"
+    "item.vefluids:ironBucket.name": "鐵桶"
 }

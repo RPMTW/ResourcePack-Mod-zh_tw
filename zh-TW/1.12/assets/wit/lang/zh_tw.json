@@ -1,6 +1,6 @@
 {
     "item.wit:wit.name": "無線介面終端",
-    "item.wit:wit_creative.name": "Creative Wireless Interface Terminal",
-    "key.open_wit.desc": "開啟無線介面終端",
-    "jei.wit.desc": "A wireless version of the AE2 Interface Terminal. To function, it needs to be linked to a ME network via a Security Terminal. A keybind can be set in Options->Controls to open the GUI."
+    "item.wit:wit_creative.name": "創造無線介面終端",
+    "key.open_wit.desc": "打開無線介面終端",
+    "jei.wit.desc": "無線版的介面終端。需要通過安全終端連結到ME網路。可以在控制中設定按鍵綁定以打開GUI。"
 }

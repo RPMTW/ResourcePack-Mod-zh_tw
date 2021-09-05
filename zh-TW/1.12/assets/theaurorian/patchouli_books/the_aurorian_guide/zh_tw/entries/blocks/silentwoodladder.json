@@ -1,5 +1,5 @@
 {
-    "name": "Silentwood Ladder",
+    "name": "謐木梯子",
     "icon": "theaurorian:silentwoodladder",
     "category": "5blocks",
     "readbydefault": true,
@@ -7,7 +7,7 @@
         {
             "type": "spotlight",
             "item": "theaurorian:silentwoodladder",
-            "text": "Just like a regular ladder!"
+            "text": "普通的梯子！"
         },
         {
             "type": "crafting",

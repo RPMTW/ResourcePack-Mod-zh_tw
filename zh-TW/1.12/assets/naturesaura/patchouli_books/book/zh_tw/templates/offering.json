@@ -2,7 +2,7 @@
     "processor": "de.ellpeck.naturesaura.compat.patchouli.ProcessorOffering",
     "components": [
         {
-            "type": "image",
+            "type": "patchouli:image",
             "image": "naturesaura:textures/gui/patchouli/elements.png",
             "x": 16,
             "y": 13,

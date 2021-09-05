@@ -1,9 +1,9 @@
 {
-    "item.death_compass.death_compass.name": "Death Compass",
-    "tooltip.death_compass.death_compass": "Given to Player after death to find Last Death Location.",
-    "tooltip.death_compass.dimension": "Dimension: %s",
-    "tooltip.death_compass.targetx": "Target X: %s",
-    "tooltip.death_compass.targety": "Target Y: %s",
-    "tooltip.death_compass.targetz": "Target Z: %s",
-    "tooltip.death_compass.time_of_death": "Time of Death: %s"
+    "item.death_compass.death_compass.name": "死亡羅盤",
+    "tooltip.death_compass.death_compass": "玩家死亡後給予，用於尋找上一個死亡地點。",
+    "tooltip.death_compass.dimension": "維度：%s",
+    "tooltip.death_compass.targetx": "目標X坐標：%s",
+    "tooltip.death_compass.targety": "目標Y坐標：%s",
+    "tooltip.death_compass.targetz": "目標Z坐標：%s",
+    "tooltip.death_compass.time_of_death": "死亡時間：%s"
 }

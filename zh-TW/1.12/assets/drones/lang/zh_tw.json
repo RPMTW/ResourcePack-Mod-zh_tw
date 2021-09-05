@@ -1,13 +1,13 @@
 {
-    "entity.drones.drone.name": "Drone",
-    "entity.drones.player_drone.name": "Constructed Drone",
-    "entity.drones.saw_blade.name": "Drone Whizzing Blade of Death",
-    "entity.drones.laser.name": "Drone Laser Beam",
-    "item.drones.drone_disruptor.name": "Drone Disruptor",
-    "tooltip.disruptor_1": "Single Use in Emergencies.",
-    "tooltip.disruptor_2": "Destroys all Drones in a 16 Block Radius.",
-    "item.drones.drone_constructor.name": "Drone Constructor",
-    "tooltip.constructor_1": "Single Use.",
-    "tooltip.constructor_2": "Spawns a Player Owned Drone.",
-    "itemGroup.drones": "Drones"
+    "entity.drones.drone.name": "無人機",
+    "entity.drones.player_drone.name": "建造的無人機",
+    "entity.drones.saw_blade.name": "無人機死亡鋸刃",
+    "entity.drones.laser.name": "無人機鐳射光束",
+    "item.drones.drone_disruptor.name": "無人機干擾者",
+    "tooltip.disruptor_1": "在緊急情況下單次使用。",
+    "tooltip.disruptor_2": "銷毀16格半徑內的所有無人機。",
+    "item.drones.drone_constructor.name": "無人機構造者",
+    "tooltip.constructor_1": "一次性使用。",
+    "tooltip.constructor_2": "產生一個玩家擁有的無人機。",
+    "itemGroup.drones": "無人機"
 }

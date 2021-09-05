@@ -1,7 +1,7 @@
 {
-    "item.townbuilder:house_key.name": "House Key",
-    "item.townbuilder:schematic_tool.name": "Schematic Tool",
-    "tile.townbuilder:structure_builder.name": "Structure Builder",
-    "msg.tolkienaddon.keySet.txt": "Key bound to builder block",
-    "msg.tolkienaddon.keyWrong.txt": "§4Wrong Key!!!"
+    "item.townbuilder:house_key.name": "房子鑰匙",
+    "item.townbuilder:schematic_tool.name": "結構工具",
+    "tile.townbuilder:structure_builder.name": "結構生成器",
+    "msg.tolkienaddon.keySet.txt": "鑰匙綁定到了生成器方塊",
+    "msg.tolkienaddon.keyWrong.txt": "§4錯誤的鑰匙！！！"
 }

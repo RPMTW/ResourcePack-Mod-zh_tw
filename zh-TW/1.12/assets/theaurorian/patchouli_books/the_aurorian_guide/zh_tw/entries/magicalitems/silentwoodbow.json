@@ -1,5 +1,5 @@
 {
-    "name": "Silentwood Bow",
+    "name": "謐木弓",
     "icon": "theaurorian:silentwoodbow",
     "category": "3magicalitems",
     "readbydefault": true,
@@ -7,11 +7,11 @@
         {
             "type": "spotlight",
             "item": "theaurorian:silentwoodbow",
-            "text": "$(#008cff)The Silentwood Bow$() is The Aurorian variant of the Bow.$(br2)The Aurorian also has an Arrow variant, $(#008cff)The Cerulean Arrow$() that does more damage and is faster than vanilla arrows!"
+            "text": "$(#008cff)謐木弓$()是極光幽境中弓的變種。$(br2)極光幽境中還有箭的變種：$(#008cff)晶藍箭$()，飛得比原版的箭更快，並能造成更高的傷害！"
         },
         {
             "type": "crafting",
-            "name": "Silentwood Bow",
+            "name": "謐木弓",
             "recipe": "theaurorian:items/tools/silentwood/silentwoodbow",
             "recipe2": "theaurorian:items/tools/ceruleanarrow"
         }

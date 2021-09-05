@@ -1,8 +1,8 @@
 {
-    "item.simplemagnets.basicmagnet.name": "Magnet",
-    "item.simplemagnets.advancedmagnet.name": "Advanced Magnet",
-    "tile.simplemagnets.basic_demagnetization_coil.name": "Demagnetization Coil",
-    "tile.simplemagnets.advanced_demagnetization_coil.name": "Advanced Demagnetization Coil",
+    "item.simplemagnets.basicmagnet.name": "磁鐵",
+    "item.simplemagnets.advancedmagnet.name": "高級磁鐵",
+    "tile.simplemagnets.basic_demagnetization_coil.name": "消磁線圈",
+    "tile.simplemagnets.advanced_demagnetization_coil.name": "高級消磁線圈",
     "simplemagnets.basicmagnet.info": "開啟後可以撿起%d格內的物品和經驗",
     "simplemagnets.advancedmagnet.info": "開啟後可以撿起%d格內的物品和經驗，可揀選特定物品",
     "simplemagnets.demagnetization_coil.info.no_filter": "防止%d格以內的物品被磁鐵吸引",

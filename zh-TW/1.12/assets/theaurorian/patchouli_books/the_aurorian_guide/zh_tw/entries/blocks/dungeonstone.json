@@ -1,5 +1,5 @@
 {
-    "name": "Dungeon Stone",
+    "name": "地牢石頭",
     "icon": "theaurorian:runestonegatekeyhole",
     "category": "5blocks",
     "readbydefault": true,
@@ -7,7 +7,7 @@
         {
             "type": "spotlight",
             "item": "theaurorian:runestone",
-            "text": "An unbreakable stone that makes up dungeons."
+            "text": "用於建造地牢的、無法被破壞的一種石頭。"
         }
     ]
 }

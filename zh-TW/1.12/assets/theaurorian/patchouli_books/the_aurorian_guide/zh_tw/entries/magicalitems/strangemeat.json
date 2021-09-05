@@ -1,5 +1,5 @@
 {
-    "name": "Strange Meat",
+    "name": "怪異的肉",
     "icon": "theaurorian:strangemeat",
     "category": "3magicalitems",
     "readbydefault": true,
@@ -7,7 +7,7 @@
         {
             "type": "spotlight",
             "item": "theaurorian:strangemeat",
-            "text": "$(#008cff)Strange Meat$() is very filling and takes a long time to eat. But once you finish it, you will get a random vanilla buff!"
+            "text": "$(#008cff)怪異的肉$()相當填肚子，並且需要很長的一段時間來食用。但是在你吃完後，你會隨機獲得一種原版的正面效果！"
         }
     ]
 }

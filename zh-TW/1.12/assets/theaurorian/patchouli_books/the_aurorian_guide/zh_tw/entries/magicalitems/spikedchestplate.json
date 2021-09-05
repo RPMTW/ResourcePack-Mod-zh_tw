@@ -1,5 +1,5 @@
 {
-    "name": "Spiked Chestplate",
+    "name": "尖釘胸甲",
     "icon": "theaurorian:spikedchestplate",
     "category": "3magicalitems",
     "readbydefault": true,
@@ -7,7 +7,7 @@
         {
             "type": "spotlight",
             "item": "theaurorian:spikedchestplate",
-            "text": "$(#008cff)The Spiked Chestplate$() gives the wearer slowness and thorns when they crouch!"
+            "text": "$(#008cff)尖釘胸甲$()會給予緩慢的效果，並會在穿戴者蹲下時獲得尖刺。"
         }
     ]
 }

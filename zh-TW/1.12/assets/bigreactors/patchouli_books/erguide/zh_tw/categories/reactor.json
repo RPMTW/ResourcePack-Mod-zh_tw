@@ -1,6 +1,6 @@
 {
     "name": "反應爐",
-    "description": "The Reactor is a multiblock machine that can be either build to generate power directly or to vaporize coolants into vapors that could be later used to drive a Turbine rotor.",
+    "description": "反應爐是個多方塊結構機械，既可以用來直接發電，也可以將冷卻劑氣化成蒸氣，隨後將其用來驅動渦輪轉子。",
     "icon": "bigreactors:reactorfuelrod",
     "sortnum": 2
 }

@@ -1,5 +1,5 @@
 {
-    "name": "Petunias",
+    "name": "牽牛花",
     "icon": "theaurorian:petuniaplant",
     "category": "4agriculture",
     "readbydefault": true,
@@ -7,13 +7,13 @@
         {
             "type": "spotlight",
             "item": "theaurorian:petuniaplant",
-            "text": "$(#008cff)Petunia$() is harvested using a Sickle, and cannot be farmed."
+            "text": "$(#008cff)牽牛花$()可以使用鐮來採集。不能被種植。"
         },
         {
             "type": "crafting",
-            "name": "Petunia Tea",
+            "name": "牽牛花茶",
             "recipe": "theaurorian:items/tea/teapetunia",
-            "text": "$(#008cff)Petunias$() can also be made into tea that gives a short strength buff."
+            "text": "$(#008cff)牽牛花$()也可以用於製作牽牛花茶，飲用牽牛花茶後可以獲得一小段時間的力量效果。"
         }
     ]
 }

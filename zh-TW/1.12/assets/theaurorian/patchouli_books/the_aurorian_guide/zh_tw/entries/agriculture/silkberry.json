@@ -1,5 +1,5 @@
 {
-    "name": "Silkberries",
+    "name": "桑葚",
     "icon": "theaurorian:silkberry",
     "category": "4agriculture",
     "readbydefault": true,
@@ -7,19 +7,19 @@
         {
             "type": "spotlight",
             "item": "theaurorian:silkberry",
-            "text": "$(#008cff)Silkberries$() are found all around The Aurorian! They can be eaten raw, turned into $(#008cff)Silkberry Jam$(), or even planted in farmland!"
+            "text": "$(#008cff)桑葚$()在整個極光幽境中都有分布！它們可以被直接食用，也可以用於製作$(#008cff)桑葚醬$()。它們可以被種植在耕地上！"
         },
         {
             "type": "crafting",
-            "name": "Silkberry Tea",
+            "name": "桑葚茶",
             "recipe": "theaurorian:items/tea/teasilkberry",
-            "text": "$(#008cff)Silkberries$() can also be made into tea that gives a short regeneration buff."
+            "text": "$(#008cff)桑葚$()也可以用於製作桑葚茶，飲用桑葚茶後可以獲得一小段時間的回覆效果。"
         },
         {
             "type": "crafting",
-            "name": "Silkberry Jam",
+            "name": "桑葚醬",
             "recipe": "theaurorian:items/silkberryjam",
-            "text": "$(#008cff)Silkberry Jam$() isn't very good by itself, but can be made into $(#008cff)Silkberry Jam Sandwiches$() with $(#008cff)Lavender Bread$()!"
+            "text": "$(#008cff)桑葚醬$()自身並沒有什麼可圈可點的地方，但是將其與$(#008cff)薰衣草麵包$()搭配後，製作出的$(#008cff)桑葚醬三明治$()相當不錯！"
         }
     ]
 }

@@ -1,5 +1,5 @@
 {
-    "name": "Crystalline Shield",
+    "name": "月凝晶盾牌",
     "icon": "theaurorian:crystallineshield",
     "category": "3magicalitems",
     "readbydefault": true,
@@ -7,7 +7,7 @@
         {
             "type": "spotlight",
             "item": "theaurorian:crystallineshield",
-            "text": "$(#008cff)The Crystalline Shield$() has the ability to repair any item in your other hand when blocking attacks!"
+            "text": "$(#008cff)月凝晶盾牌$()在抵擋掉攻擊時可以修復你主手的物品！"
         }
     ]
 }

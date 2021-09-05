@@ -1,7 +1,7 @@
 {
-    "_comment_0": " Config",
+    "_comment_0": " 設定",
     "morecauldrons.config.title": "更多鍋釜配置",
-    "_comment_1": " Tab",
+    "_comment_1": " 標籤",
     "itemGroup.morecauldrons": "更多煉藥鍋",
     "_comment_2": " 方塊",
     "tile.morecauldrons:acaciacauldron.name": "相思木煉藥鍋",
@@ -23,7 +23,7 @@
     "tile.morecauldrons:smoothdioritecauldron.name": "拋光閃長岩煉藥鍋",
     "tile.morecauldrons:andesitecauldron.name": "安山岩煉藥鍋",
     "tile.morecauldrons:smoothandesitecauldron.name": "拋光安山岩煉藥鍋",
-    "_comment_3": "Death Messages",
+    "_comment_3": "死亡訊息",
     "death.attack.boiled": "%1$s活活煮熟了",
     "death.attack.boiled.player": "%1$s試圖逃跑被活活煮沸%2$s"
 }

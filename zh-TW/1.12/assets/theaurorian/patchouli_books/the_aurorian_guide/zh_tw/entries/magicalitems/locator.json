@@ -1,5 +1,5 @@
 {
-    "name": "Dungeon Locator",
+    "name": "地牢定位器",
     "icon": "theaurorian:locator",
     "category": "3magicalitems",
     "readbydefault": true,
@@ -7,11 +7,11 @@
         {
             "type": "spotlight",
             "item": "theaurorian:locator",
-            "text": "$(#008cff)The Dungeon Locator$() will help you find dungeons! Sneak click to change the targeted dungeon. Use to spawn particles that float in the direction of the dungeon."
+            "text": "$(#008cff)地牢定位器$()將會幫助你找到地牢！潛行點擊以選擇地牢種類。使用時會在地牢所在的方向生成粒子。"
         },
         {
             "type": "crafting",
-            "name": "Dungeon Locator",
+            "name": "地牢定位器",
             "recipe": "theaurorian:items/tools/locator"
         }
     ]

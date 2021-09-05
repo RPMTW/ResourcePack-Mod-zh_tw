@@ -1,5 +1,5 @@
 {
-    "name": "Runestone Dungeon Mobs",
+    "name": "符石地牢中的生物",
     "icon": "theaurorian:bossspawnerkeeper",
     "category": "2modprogression",
     "sortnum": "3",
@@ -8,20 +8,20 @@
         {
             "type": "entity",
             "entity": "theaurorian:undeadknight",
-            "text": "$(#008cff)Undead Knights$() are slow, and inflict hunger when they attack."
+            "text": "$(#008cff)不死騎士s$()移動速度較慢，被其擊中時會獲得飢餓效果。"
         },
         {
             "type": "entity",
             "entity": "theaurorian:aurorianslime",
-            "text": "$(#008cff)Aurorian Slimes$() are fast, though are pretty weak."
+            "text": "$(#008cff)極光史萊姆$()移動速度較快，但是實力很弱。"
         },
         {
             "type": "text",
-            "text": "$(#8800ff)The Runestone Dungeon Keeper$() is the boss of $(#008cff)The Runestone Dungeon$(). He is a ranged boss that uses melee and knockback to hit you away when you get close.$(br2)It's recommended to bring a shield as he loves to use his arrows (especially when he's panicked).$(br2)When killed he will drop a $(#008cff)Keeper Amulet$() which can be used to access the next dungeon!"
+            "text": "$(#8800ff)符石守衛$()是$(#008cff)符石地牢$()的 Boss。它是一個遠程 Boss，但如果你靠得過近，它也會使用近戰攻擊將你擊飛。$(br2)使用盾牌抵擋它所射出的箭矢是一個不錯的選擇（尤其是在它陷入恐慌狀態時）。$(br2)將其擊殺後，它會掉落$(#008cff)地牢守衛護身符$()，通往下一座地牢的鑰匙！"
         },
         {
             "type": "entity",
-            "name": "Dungeon Keeper",
+            "name": "地牢守衛",
             "entity": "theaurorian:runestonedungeonkeeper"
         }
     ]

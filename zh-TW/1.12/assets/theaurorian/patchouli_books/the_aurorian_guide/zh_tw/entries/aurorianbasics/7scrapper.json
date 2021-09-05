@@ -1,5 +1,5 @@
 {
-    "name": "Scrapper",
+    "name": "粉碎器",
     "icon": "theaurorian:scrapper",
     "category": "1aurorianbasics",
     "sortnum": "7",
@@ -7,15 +7,15 @@
     "pages": [
         {
             "type": "spotlight",
-            "title": "More Scrap!",
+            "title": "更多碎片！",
             "item": "theaurorian:scrapper",
-            "text": "The $(#008cff)Scrapper$() will grind down tools to get more scrap than smelting! It requires $(#008cff)Crystals$() to run.$(br2)It can also grind down other tools like iron and gold to get back more nuggets!"
+            "text": "$(#008cff)粉碎器$()可以磨碎原有的工具並產出更多的碎片！它工作時會消耗$(#008cff)水晶$()。$(br2)它也可以磨碎鐵、金一類的工具來取得更多的粒！"
         },
         {
             "type": "crafting",
             "name": "",
             "recipe": "theaurorian:blocks/tileentity/scrapper",
-            "text": "Check JEI for full list of Scrapper recipes."
+            "text": "使用 JEI 查看全部的配方。"
         }
     ]
 }

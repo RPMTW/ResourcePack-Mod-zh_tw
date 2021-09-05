@@ -15,9 +15,9 @@
     "stackie.general.maximumexperience": "最大經驗",
     "stackie.general.maximumexperience.tooltip": "經驗將會被堆疊至這個數量。",
     "commands.stackie.usage": "/stackie <setinterval|setdistance|stackitems|stackexperience> <number|true|false>",
-    "commands.stackie.stacklimit": "設置堆疊數量至：%d",
-    "commands.stackie.interval": "設置堆疊間隔至：%d (%.1f 秒)",
-    "commands.stackie.distance": "設置堆疊距離至：%.2f",
-    "commands.stackie.stackitems": "堆疊物品設置為：%s",
-    "commands.stackie.stackexperience": "堆疊經驗設置為：%s"
+    "commands.stackie.stacklimit": "設定堆疊數量至：%d",
+    "commands.stackie.interval": "設定堆疊間隔至：%d (%.1f 秒)",
+    "commands.stackie.distance": "設定堆疊距離至：%.2f",
+    "commands.stackie.stackitems": "堆疊物品設定為：%s",
+    "commands.stackie.stackexperience": "堆疊經驗設定為：%s"
 }

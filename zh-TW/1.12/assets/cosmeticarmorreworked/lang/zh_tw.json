@@ -2,6 +2,6 @@
     "cos.key.opencosarmorinventory": "打开装饰盔甲栏",
     "cos.gui.buttoncos": "装饰盔甲",
     "cos.gui.buttonnormal": "普通",
-    "cos.command.clearcosarmor": "/clearcosarmor [player]",
-    "cos.command.clearcosarmor.success": "Cleared the cosmetic inventory of %s"
+    "cos.command.clearcosarmor": "/clearCosArmor [玩家名]",
+    "cos.command.clearcosarmor.success": "清除了 %s 的時裝物品欄"
 }

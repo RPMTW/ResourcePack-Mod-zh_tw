@@ -1,14 +1,14 @@
 {
-    "mobdismemberment.config.prop.gibTime.name": "Gib live time",
-    "mobdismemberment.config.prop.gibGroundTime.name": "Gib ground time",
-    "mobdismemberment.config.prop.blood.name": "Blood Effects",
-    "mobdismemberment.config.prop.bloodCount.name": "Blood Particle Amount",
-    "mobdismemberment.config.prop.greenBlood.name": "Green blood colour",
-    "mobdismemberment.config.prop.gibPushing.name": "Gib pushes entities",
-    "mobdismemberment.config.prop.gibTime.comment": "Length of time gibs can live (entirely)",
-    "mobdismemberment.config.prop.gibGroundTime.comment": "Length of time gibs can once they hit the ground",
-    "mobdismemberment.config.prop.blood.comment": "Should gibbing have blood?",
-    "mobdismemberment.config.prop.bloodCount.comment": "Amount of blood particles spawned per gib",
-    "mobdismemberment.config.prop.greenBlood.comment": "Should blood be green instead of red?",
-    "mobdismemberment.config.prop.gibPushing.comment": "Do gibs actively push mobs in it's path?"
+    "mobdismemberment.config.prop.gibTime.name": "截肢實時時間",
+    "mobdismemberment.config.prop.gibGroundTime.name": "截肢在地面時間",
+    "mobdismemberment.config.prop.blood.name": "血液特效",
+    "mobdismemberment.config.prop.bloodCount.name": "血液顆粒量",
+    "mobdismemberment.config.prop.greenBlood.name": "綠色血液",
+    "mobdismemberment.config.prop.gibPushing.name": "截肢可推實體",
+    "mobdismemberment.config.prop.gibTime.comment": "截肢可留時間（總長）",
+    "mobdismemberment.config.prop.gibGroundTime.comment": "截肢落地可留的時間長度",
+    "mobdismemberment.config.prop.blood.comment": "截肢是否會出血？",
+    "mobdismemberment.config.prop.bloodCount.comment": "每個截肢部分血液顆粒生成大小",
+    "mobdismemberment.config.prop.greenBlood.comment": "血液是否換成綠色，不是紅色？",
+    "mobdismemberment.config.prop.gibPushing.comment": "截肢是否會從生物的路徑推走生物？"
 }
