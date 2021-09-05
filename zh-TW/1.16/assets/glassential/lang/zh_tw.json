@@ -14,10 +14,10 @@
     "tooltip.glassential.property_redstone": "Emits strong redstone signal",
     "tooltip.glassential.property_reverse_ethereal": "Solid while sneaking",
     "itemGroup.glassential.items": "精緻玻璃",
-    "tooltip.glassential.dark": "Blocks light",
-    "tooltip.glassential.ethereal": "Not solid to players",
-    "tooltip.glassential.ethereal_reverse": "Only solid to players",
-    "tooltip.glassential.ghostly": "Not solid to entities",
-    "tooltip.glassential.light": "Emits light",
-    "tooltip.glassential.redstone": "Emits a redstone signal"
+    "tooltip.glassential.dark": "阻光",
+    "tooltip.glassential.ethereal": "對玩家而言不是固體",
+    "tooltip.glassential.ethereal_reverse": "僅對玩家而言是固體",
+    "tooltip.glassential.ghostly": "對實體而言不是固體",
+    "tooltip.glassential.light": "發光",
+    "tooltip.glassential.redstone": "啟動紅石訊號"
 }
