@@ -260,5 +260,12 @@
     "language.roughlyenoughitems.bulgarian": "Bulgarian",
     "language.roughlyenoughitems.russian": "Russian",
     "language.roughlyenoughitems.polish": "Polish",
-    "config.roughlyenoughitems.keyBindings.previousScreenKeybind": "Previous Screen:"
+    "config.roughlyenoughitems.keyBindings.previousScreenKeybind": "Previous Screen:",
+    "text.rei.feedback": "Any feedback you want to give to the REI developer? %s to submit your feedback!",
+    "text.rei.feedback.link": "Click me to visit the Google Form",
+    "text.rei.not.fully.initialized": "REI not yet fully initialized!",
+    "text.rei.not.fully.initialized.tooltip": "Missing stages: %s\nIf this does not go away,\ntry looking for support with the logs!",
+    "text.rei.inventory.highlighting.enabled": "Inventory Highlighting On",
+    "text.rei.inventory.highlighting.enabled.tooltip": "This makes slots that does not match\nthe search filter gray.\nDouble click the search bar to toggle this mode.",
+    "text.rei.too_long_nbt": "§cItem NBT is too long to be applied in multiplayer."
 }
