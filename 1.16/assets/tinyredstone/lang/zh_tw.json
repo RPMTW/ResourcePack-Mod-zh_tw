@@ -2,7 +2,7 @@
     "key.tinyredstone.rotation_lock": "Lock rotation (use scroll)",
     "block.tinyredstone.redstone_panel": "Redstone Panel",
     "message.item.redstone_panel": "§7Panel to hold tiny redstone bits.\nRight click with dye to change color.§r",
-    "message.item.redstone_wrench": "§7Right-click a Redstone Panel to rotate.\nLeft click to remove tiny redstone bits.§r",
+    "message.item.redstone_wrench": "§7Right-click a Redstone Panel to rotate.\nLeft click to remove tiny redstone bits.\nShift-left click to remove all of them.§r",
     "message.item.redstone_panel_cell": "§7Can be placed on a Redstone Panel to form a redstone circuit.§r",
     "message.item.tiny_color_selector": "§7Right click on a tiny block to select its color.§r",
     "item.tinyredstone.tiny_redstone": "Tiny Redstone Dust",
@@ -59,5 +59,8 @@
     "tinyredstone.noteblock.bit": "Bit",
     "tinyredstone.noteblock.banjo": "Banjo",
     "tinyredstone.noteblock.pling": "Pling",
-    "tinyredstone.noteblock.harp": "Harp"
+    "tinyredstone.noteblock.harp": "Harp",
+    "tinyredstone.yes": "Yes",
+    "tinyredstone.gui.clearpanel.msg": "Remove all components?",
+    "tinyredstone.noteblock.basedrum": "Base Drum"
 }
