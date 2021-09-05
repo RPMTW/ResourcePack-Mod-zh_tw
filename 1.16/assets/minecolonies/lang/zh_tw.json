@@ -2175,5 +2175,7 @@
     "com.minecolonies.research.technology.warehousemaster.name": "Warehouse Master",
     "com.minecolonies.research.technology.warehousemaster.subtitle": "So many items to choose from!",
     "com.minecolonies.research.technology.buildermodes.name": "Builder Modes",
-    "com.minecolonies.research.technology.buildermodes.subtitle": "Possibility Overload!"
+    "com.minecolonies.research.technology.buildermodes.subtitle": "Possibility Overload!",
+    "minecolonies.config.maxkeptbackups": "Backup Count",
+    "minecolonies.config.maxkeptbackups.comment": "Set the max amount of backups kept"
 }
