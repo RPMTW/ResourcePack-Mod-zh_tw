@@ -1,13 +1,13 @@
 {
-    "name": "Magmatic Bee",
+    "name": "熔岩蜂",
     "icon": "minecraft:magma_block",
     "read_by_default": true,
     "category": "productivebees:bees_wild",
     "pages": [
         {
             "type": "text",
-            "title": "Magmatic Bee",
-            "text": "Found living in nether brick nests in nether fortresses. Magmatic Bees prefer pollinating magma blocks or nether wart.",
+            "title": "熔岩蜂",
+            "text": "被發現生活在地獄要塞中的地獄磚蜂窩。熔岩蜂喜歡採集岩漿塊或地獄疙瘩。",
             "anchor": "magmatic"
         },
         {

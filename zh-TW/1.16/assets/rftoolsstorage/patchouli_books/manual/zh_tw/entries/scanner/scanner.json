@@ -1,0 +1,12 @@
+{
+  "name": "Storage Scanner",
+  "icon": "rftoolsstorage:storage_scanner",
+  "category": "rftoolsstorage:category_rftoolsstorage_scanner",
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "The Storage Scanner is a powerful block that can search nearby inventories and display items in them. It's also possible to access those items and store them again"
+    }
+  ]
+}

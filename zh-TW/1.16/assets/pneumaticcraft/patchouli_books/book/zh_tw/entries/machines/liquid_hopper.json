@@ -1,0 +1,28 @@
+{
+  "name": "液體漏斗",
+  "icon": "pneumaticcraft:liquid_hopper",
+  "category": "machines",
+  "advancement": "pneumaticcraft:root",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(item)液體漏斗/$是一個可以傳輸流體的設備。與$(l:machines/omnidirectional_hopper)全方位漏斗/$類似，其輸入面可以朝向任何方向，並使用同樣的放置與旋轉朝向方式。可以安裝$(l:base_concepts/upgrades#speed)速度升級/$以提升傳輸速度。"
+    },
+    {
+      "type": "spotlight",
+      "item": "pneumaticcraft:liquid_hopper",
+      "text": "$(item)流體漏斗/$同樣會試圖從$(9)輸入/$面前方的物品抽取流體，並將其輸入到$(6)輸出/$面前方的物品。這裡的「物品」包括水桶，熔岩桶，或其餘模組的流體容器。"
+    },
+    {
+      "type": "text",
+      "title": "發射器升級",
+      "flag": "pneumaticcraft:liquidHopperDispenser",
+      "text": "若$(item)流體漏斗/$安裝了$(l:base_concepts/upgrades#dispenser)發射器升級/$，其將會吸取$(9)輸入/$端的流體方塊（1000 mB），向$(6)輸出/$端釋放 1000 mB 流體形成流體方塊。例如，可以用作水泵。"
+    },
+    {
+      "type": "crafting",
+      "text": "流體漏斗的合成表",
+      "recipe": "pneumaticcraft:liquid_hopper"
+    }
+  ]
+}

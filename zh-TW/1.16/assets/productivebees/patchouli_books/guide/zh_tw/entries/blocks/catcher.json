@@ -1,16 +1,16 @@
 {
-    "name": "Catcher",
+    "name": "捕捉器",
     "icon": "productivebees:catcher",
     "category": "productivebees:blocks",
     "pages": [
         {
             "type": "spotlight",
             "item": "productivebees:catcher",
-            "text": "Load it up with cages and it will catch any bee flying over it. You can put a flower or $(l:blocks/feeder)feeding slab$(/l) on top to attract bees."
+            "text": "用籠子裝滿它，它會抓住任何飛過它的蜜蜂。 你可以在上面放一朵花或 $(l:blocks/feeder)餵食器$(/l) 來吸引蜜蜂。"
         },
         {
             "type": "text",
-            "text": "The Cather accepts three upgrades; A $(l:items/upgrades#babee)BaBee upgrade$(/l) will filter out adult bees and only catch BaBees. $(l:items/upgrades#filter)Filter upgrade$(/l) will make catch only the bees on the filter. A $(l:items/upgrades#range)Range upgrade$(/l) will increase the range. Multiple Range upgrades can be installed."
+            "text": "捕捉器接受三個升級； $(l:items/upgrades#babee)小蜜蜂過濾$(/l) 將過濾掉成年蜜蜂，只捕獲 小蜜蜂。 $(l:items/upgrades#filter)過濾升級$(/l) 將只捕獲過濾器上的蜜蜂。 A $(l:items/upgrades#range)範圍升級$(/l) 將增加範圍。 可以安裝多個範圍升級。"
         }
     ]
 }

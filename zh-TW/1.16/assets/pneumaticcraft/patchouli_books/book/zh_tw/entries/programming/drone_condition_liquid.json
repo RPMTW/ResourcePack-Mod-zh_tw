@@ -1,0 +1,19 @@
+{
+  "name": "無人機條件：流體",
+  "icon": "pneumaticcraft:textures/progwidgets/condition_drone_liquid_piece.png",
+  "category": "widget_cond",
+  "advancement": "pneumaticcraft:programmer",
+  "pages": [
+    {
+      "type": "text",
+      "text": "這是一個$(l:programming/conditions)條件/$拼圖。$(p)$(thing)無人機條件：流體/$允許你檢查$(l:tools/drone)無人機/$是否裝載有一定量的流體。只會對所連接的$(l:programming/liquid_filter)流體過濾器/$所允許的流體（如果沒有，即允許所有流體）進行計量。"
+    },
+    {
+      "type": "image",
+      "images": [
+        "pneumaticcraft:textures/progwidgets/condition_drone_liquid_piece.png"
+      ],
+      "text": "$(italic)無人機條件：流體/$"
+    }
+  ]
+}

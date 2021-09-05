@@ -1,0 +1,27 @@
+{
+  "name": "氣動發電機",
+  "icon": "pneumaticcraft:pneumatic_generator",
+  "category": "machines",
+  "flag": "pneumaticcraft:pneumaticGeneratorEnabled",
+  "advancement": "pneumaticcraft:advanced_pressure_tube",
+  "pages": [
+    {
+      "type": "text",
+      "text": "氣動發電機將$(l:base_concepts/pressure)壓縮空氣/$轉化為$(thing)工業2 的 EU/$。這是一個二級機器，也就是說其最低工作壓力為 15 bar。預設情況下轉化效率為 40%，但這可以$(ttcolor)$(t:見 'I:pneumaticGeneratorEfficiency')在設定檔案中變更/$。$(p)未安裝$(l:base_concepts/upgrades#speed)速度升級/$時輸出功率為 32 EU/刻；安裝一個升級時為 128 EU/刻；二個時則為 512 EU/刻。"
+    },
+    {
+      "type": "spotlight",
+      "item": "pneumaticcraft:pneumatic_generator",
+      "text": "空氣耗量（mL/刻）等於：$(p)$(formula)  輸出功率 / E * 400/$$(p)其中 $(formula)E/$ 代表百分數形式的效率值。例：在預設效率 40%，輸出功率 32 EU/刻的情況下，空氣耗率 = $(formula)32 / 40 * 400 = 320 mL/刻/$."
+    },
+    {
+      "type": "text",
+      "text": "影響其轉換效率的一個重要因素為發電機的$(l:base_concepts/heat)溫度/$。發電機必須被$(l:base_concepts/heat)冷卻/$，介於其效率會隨溫度的升高而降低，直至沒有有效的 EU 產出。"
+    },
+    {
+      "type": "crafting",
+      "text": "氣動發電機的合成表",
+      "recipe": "pneumaticcraft:pneumatic_generator"
+    }
+  ]
+}

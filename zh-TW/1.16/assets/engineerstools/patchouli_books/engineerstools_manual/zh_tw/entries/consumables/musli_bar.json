@@ -1,0 +1,18 @@
+{
+  "name": "Muslee Power Bar",
+  "icon": "engineerstools:musli_bar",
+  "category": "consumables",
+  "sortnum": 1020,
+  "pages": [
+    {
+      "type": "spotlight",
+      "title": "Muslee Power Bar",
+      "item": "engineerstools:musli_bar",
+      "text": "Actually 'Muslee Melange Power Bar', or 'Müsli-Bar'. This is a cerial bar with a variety of edible ingredients mixed in (hence, 'melange').$(br2)You can produce it on the go with the $(o)Power Bar Press$(), and eat as much of it as you like, even if your belly is almost bursting."
+    },
+    {
+      "type": "text",
+      "text": "$(br2) $(br2) $(br)Eating it takes much less time that a full meal (as commonly known, power bars are gone in a second).$(br2)Nutritions and nourishment values are comparable to a $(o)Golden Carrot$()."
+    }
+  ]
+}

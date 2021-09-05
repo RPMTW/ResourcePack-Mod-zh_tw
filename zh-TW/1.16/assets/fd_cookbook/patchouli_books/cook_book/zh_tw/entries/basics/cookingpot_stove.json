@@ -1,0 +1,41 @@
+{
+  "name": "Cooking Pot and Stove",
+  "icon": "farmersdelight:cooking_pot",
+  "category": "basics",
+  "sortnum": "4",
+  "pages": [
+    {
+      "type": "crafting_table_nofood",
+      "foodname": "Cooking Pot",
+      "item1": "minecraft:brick",
+      "item2": "minecraft:wooden_shovel",
+      "item3": "minecraft:brick",
+      "item4": "minecraft:iron_ingot",
+      "item5": "minecraft:water_bucket",
+      "item6": "minecraft:iron_ingot",
+      "item7": "minecraft:iron_ingot",
+      "item8": "minecraft:iron_ingot",
+      "item9": "minecraft:iron_ingot",
+      "finalitem": "farmersdelight:cooking_pot",
+      "info": "The Cooking Pot is a new workstation added by Farmers Delight which allows you to craft the majority of foods."
+    },
+    {
+      "type": "text",
+      "text": "To cook something in the Pot it needs to be heated by placing it on top of Campfires or Stoves. When something is done you can take it out by placing the right container in the corresponding slot or you can break the cooking pot and it will store the meal."
+    },
+    {
+      "type": "crafting_table_nofood",
+      "foodname": "Cooking Pot",
+      "item1": "minecraft:iron_ingot",
+      "item2": "minecraft:iron_ingot",
+      "item3": "minecraft:iron_ingot",
+      "item4": "minecraft:brick",
+      "item6": "minecraft:brick",
+      "item7": "minecraft:brick",
+      "item8": "minecraft:campfire",
+      "item9": "minecraft:brick",
+      "finalitem": "farmersdelight:stove",
+      "info": "The stove is like a better Campfire, with the change that you can cook 6 Items simultaneously."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "物品過濾器",
+  "icon": "pneumaticcraft:textures/progwidgets/item_filter_piece.png",
+  "category": "widget_other",
+  "advancement": "pneumaticcraft:programmer",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(thing)物品過濾器/$拼圖僅用作其餘拼圖的參數。可以用其指定哪些方塊或物品可以被撿起/放置/開採/...$(p)$(thing)右擊/$拼圖以調出設定介面。在此可以點擊$(thing)搜尋物品.../$搜尋物品，或者點擊$(thing)在物品欄查找.../$從物品欄選取物品。"
+    },
+    {
+      "type": "text",
+      "text": "此後，可以套用額外的過濾器設定以控制匹配如何進行；這些選項的用法以提示文字的形式在複選框處顯示。$(p)和往常一樣，$(italic)右側/$用作白名單，$(italic)左側/$用作黑名單。"
+    },
+    {
+      "type": "image",
+      "images": [
+        "pneumaticcraft:textures/progwidgets/item_filter_piece.png"
+      ],
+      "text": "$(italic)物品過濾器/$"
+    }
+  ]
+}

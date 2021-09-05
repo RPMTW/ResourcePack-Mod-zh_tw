@@ -1,0 +1,56 @@
+{
+  "name": "Sandwiches",
+  "icon": "farmersdelight:hamburger",
+  "category": "recipes",
+  "sortnum": "3",
+  "pages": [
+    {
+      "type": "crafting_table",
+      "foodname": "Egg Sandwich",
+      "item1": "minecraft:bread",
+      "item2": "farmersdelight:fried_egg",
+      "item4": "farmersdelight:fried_egg",
+      "finalitem": "farmersdelight:egg_sandwich",
+      "hunger_amount": "x4",
+      "saturation_amount": "x6,5",
+      "effect": "none"
+    },
+    {
+      "type": "crafting_table",
+      "foodname": "Chicken Sandwich",
+      "item1": "minecraft:bread",
+      "item2": "minecraft:cooked_chicken,farmersdelight:cooked_chicken_cuts",
+      "item4": "farmersdelight:cabbage,farmersdelight:cabbage_leaf",
+      "item5": "farmersdelight:onion",
+      "finalitem": "farmersdelight:chicken_sandwich",
+      "hunger_amount": "x5",
+      "saturation_amount": "x8",
+      "effect": "$(b)Strength$()(0:15)"
+    },
+    {
+      "type": "crafting_table",
+      "foodname": "Hamburger",
+      "item1": "minecraft:bread",
+      "item2": "farmersdelight:beef_patty",
+      "item3": "farmersdelight:cabbage,farmersdelight:cabbage_leaf",
+      "item4": "farmersdelight:tomato",
+      "item5": "farmersdelight:onion",
+      "finalitem": "farmersdelight:hamburger",
+      "hunger_amount": "x5,5",
+      "saturation_amount": "x8,5",
+      "effect": "$(b)Strength$()(0:15)"
+    },
+    {
+      "type": "crafting_table",
+      "foodname": "Bacon Sandwich",
+      "item1": "minecraft:bread",
+      "item2": "farmersdelight:cooked_bacon",
+      "item4": "farmersdelight:cabbage,farmersdelight:cabbage_leaf",
+      "item5": "farmersdelight:tomato",
+      "finalitem": "farmersdelight:bacon_sandwich",
+      "hunger_amount": "x5",
+      "saturation_amount": "x8",
+      "effect": "$(b)Resistance$()(0:15)"
+    }
+  ]
+}

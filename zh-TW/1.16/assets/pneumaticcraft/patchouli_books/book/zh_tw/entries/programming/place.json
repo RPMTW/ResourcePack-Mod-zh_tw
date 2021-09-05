@@ -1,0 +1,29 @@
+{
+  "name": "放置方塊",
+  "icon": "pneumaticcraft:textures/progwidgets/place_piece.png",
+  "category": "widget_interact",
+  "advancement": "pneumaticcraft:programmer",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(l:tools/drone)無人機/$將把物品欄中的物品放置到世界中。將在指定的$(l:programming/area)區域/$內放置方塊，從最近的位置開始。$(p)可以指定方塊被放置的順序：$(thing)右擊/$調出設定介面，在此可以指定$(item)無人機/$是否應當逐層放置方塊，如果是，是從頂至底還是從底至頂。"
+    },
+    {
+      "type": "text",
+      "title": "限制放置方塊數量",
+      "text": "放置操作的數目可以通過勾選設定介面中的$(thing)限制方塊互動數/$並輸入限制值限制至特定值。例如，如果設定為 1，$(item)無人機/$將只挖掘一個方塊就結束執行本拼圖。$(p)如果為設定限制，在無人機無法繼續放置方塊時，結束該拼圖。"
+    },
+    {
+      "type": "text",
+      "title": "過濾放置方塊",
+      "text": "最後，可以使用$(l:programming/item_filter)物品過濾器/$指定可以放置哪些方塊。過濾連接在$(italic)右側/$作為白名單，$(italic)左側/$作為黑名單。"
+    },
+    {
+      "type": "image",
+      "images": [
+        "pneumaticcraft:textures/progwidgets/place_piece.png"
+      ],
+      "text": "$(italic)放置方塊/$"
+    }
+  ]
+}

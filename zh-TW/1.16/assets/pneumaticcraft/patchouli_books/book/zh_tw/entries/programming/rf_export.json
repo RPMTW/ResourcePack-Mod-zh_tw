@@ -1,0 +1,19 @@
+{
+  "name": "輸出 RF",
+  "icon": "pneumaticcraft:textures/progwidgets/rf_export_piece.png",
+  "category": "widget_interact",
+  "advancement": "pneumaticcraft:programmer",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(l:tools/drone)無人機/$具有 100000FE 的內部能量儲存。該拼圖將能量從無人機的內部能量儲存輸出到支持能量的方塊（例如：$(item)熱力膨脹的能量單元/$或$(item)沉浸工程的電容器/$）。$(p)$(italic)與其名字不同，該拼圖檢查FE能量，而非RF（紅石通量）。該拼圖的命名屬於歷史遺留問題。/$"
+    },
+    {
+      "type": "image",
+      "images": [
+        "pneumaticcraft:textures/progwidgets/rf_export_piece.png"
+      ],
+      "text": "$(italic)輸出 RF/$"
+    }
+  ]
+}

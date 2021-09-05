@@ -1,14 +1,14 @@
 {
   "item.torchbowmod.torchbow": "火把弓",
-  "item.torchbowmod.multitorch": "壓縮火把",
+  "item.torchbowmod.multitorch": "火把組",
   "itemGroup.torchBowModTab": "火把弓模組",
-  "death.attack.EntityTorch": "%1$s died after %2$s's torch.",
-  "log.sb.check": "Storagebox Introduction Status check now......",
-  "log.sb.load": "Storagebox confirmed the introduction. Load complete.",
-  "log.sb.error": "Storagebox Load Error.",
-  "log.sb.unload": "Storagebox Non-Introduction.",
-  "log.sg.check": "Silent's Gems Introduction Status check now.......",
-  "log.sg.load": "Silent's Gemsconfirmed the introduction. Load complete.",
-  "log.sg.error": "讀取錯誤寂靜寶石",
-  "log.sg.unload": "沒有安裝寂靜寶石"
+  "death.attack.EntityTorch": "%1$s身上插滿了火把！",
+  "log.sb.check": "正在檢測StorageBox是否安裝……",
+  "log.sb.load": "檢測到StorageBox已安裝。已讀取聯動數據",
+  "log.sb.error": "無法讀取StorageBox",
+  "log.sb.unload": "StorageBox沒有安裝。",
+  "log.sg.check": "正在檢測Silent's Gems是否安裝……",
+  "log.sg.load": "檢測到Silent's Gems已安裝。已讀取聯動數據",
+  "log.sg.error": "無法讀取Silent's Gems",
+  "log.sg.unload": "Silent's Gems沒有安裝。"
 }

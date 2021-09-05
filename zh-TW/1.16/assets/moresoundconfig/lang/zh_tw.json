@@ -1,0 +1,8 @@
+{
+    "sounddeviceoptions.default": "系統預設",
+    "sounddeviceoptions.output": "輸出：%s",
+    "sounddeviceoptions.newdevice": "選擇新的輸出設備",
+    "sounddeviceoptions.activedevice": "目前已啟動：%s",
+    "sounddeviceoptions.readFailed": "無法讀取聲音設備！",
+    "sounddeviceoptions.readFailedHint": "你的音訊驅動程序可能不支持此功能。"
+}

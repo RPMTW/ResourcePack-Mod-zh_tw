@@ -1,0 +1,37 @@
+{
+    "name": "Rich Soil",
+    "icon": "farmersdelight:rich_soil",
+    "category": "basics",
+    "sortnum": "8",
+    "pages": [
+        {
+            "type": "text",
+            "title": "Rich Soil",
+            "text": "Rich Soil is a enhanced verision of dirt/farmland when any growable plant is placed on Rich Soil, its growth will be randomly boosted, similar to the usage of Bone Meal. It can also be converted to Rich Soil Farmland which is also immune to mob trampling."
+        },
+        {
+            "type": "crafting_table_nofood",
+            "foodname": "Organic Compost",
+            "item1": "minecraft:dirt",
+            "item2": "farmersdelight:straw,minecraft:rotten_flesh",
+            "item3": "farmersdelight:straw,minecraft:rotten_flesh",
+            "item4": "minecraft:bone_meal,farmersdelight:straw",
+            "item5": "minecraft:bone_meal,farmersdelight:straw",
+            "item6": "farmersdelight:tree_bark,minecraft:bone_meal",
+            "item7": "farmersdelight:tree_bark,minecraft:bone_meal",
+            "item8": "farmersdelight:tree_bark,minecraft:bone_meal",
+            "item9": "farmersdelight:tree_bark,minecraft:bone_meal",
+            "finalitem": "farmersdelight:organic_compost",
+            "info": "To get Rich Soil you first need to craft Organic Compost and convert it to Rich Soil"
+        },
+        {
+            "type": "text",
+            "title": "Getting Rich Soil",
+            "text": "To convert Organic Compost you need to decompose it over time by placing it in the world.$(br)The progress can also be speed up by:$(br)$(li)Brown and Red Mushrooms, and their $(l:basics/mushroom_colonies)Colonies$()$(li)Podzol and Mycelium$(li)Other blocks of Organic Compost$(li)Rich Soil, normal or farmland"
+        },
+        {
+            "type": "rich_soil",
+            "text": "The Process of transforming Organic Compost into Rich Soil."
+        }
+    ]
+}

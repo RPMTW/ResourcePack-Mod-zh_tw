@@ -1,0 +1,29 @@
+{
+  "name": "熱氣動加工機",
+  "icon": "pneumaticcraft:thermopneumatic_processing_plant",
+  "category": "manufacturing",
+  "advancement": "pneumaticcraft:refinery",
+  "pages": [
+    {
+      "type": "text",
+      "text": "A $(thing)Thermopneumatic Processing Plant/$ uses $(l:base_concepts/pressure)pressure/$ and/or $(l:base_concepts/heat)heat/$ to process materials. It has several uses:$(li)100mB $(thing)LPG/$ and 1 piece of $(item)Coal/$ makes 1000mB of $(l:components/plastic)Plastic/$. This requires heat, but no pressure.$(li)1000mB of $(thing)Diesel/$ and 1 piece of $(item)Redstone Dust/$ makes 1000mB of $(l:components/lubricant)Lubricant/$. Again, this requires heat, but no pressure."
+    },
+    {
+      "type": "text",
+      "text": "$(li)$(item)熱氣動加工機/$可以用於將$(l:manufacturing/refinery)精煉廠/$產出的重油裂化為輕油，每級轉化率為 80%：$(li)柴油 -> 煤油$(li)煤油 -> 汽油$(li)汽油 -> 液化石油氣$(p)該合成既需要熱量又需要壓力。"
+    },
+    {
+      "type": "link",
+      "flag": "mod:crafttweaker",
+      "title": "CraftTweaker",
+      "text": "$(thing)熱氣動加工機/$中的合成配方支持被 $(l:https://minecraft.curseforge.com/projects/crafttweaker)CraftTweaker/$ 修改：合成配方可以被加入或移除，見下面連結以獲得更多資訊。",
+      "url": "https://docs.blamejared.com/1.12/zh/Mods/PneumaticCraft_Repressurized/ThermopneumaticProcessingPlant/",
+      "link_text": "CraftTweaker 檔案"
+    },
+    {
+      "type": "crafting",
+      "text": "熱氣動加工機的合成表",
+      "recipe": "pneumaticcraft:thermopneumatic_processing_plant"
+    }
+  ]
+}

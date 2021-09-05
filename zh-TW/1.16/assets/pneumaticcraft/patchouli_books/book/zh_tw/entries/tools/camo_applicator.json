@@ -1,0 +1,21 @@
+{
+  "name": "偽裝塗敷器",
+  "icon": "pneumaticcraft:camo_applicator",
+  "category": "\n-工具",
+  "advancement": "pneumaticcraft:pressure_tube",
+  "pages": [
+    {
+      "type": "text",
+      "text": "The $(item)Camouflage Applicator/$ can be used to camouflage certain $(pncr) blocks:$(li)$(l:tubes/pressure_tubes)Pressure Tubes/$$(li)$(l:machines/pneumatic_door)Pneumatic Door Base/$$(li)$(l:machines/elevators)Elevator Base & Caller/$$(li)$(l:machines/charging_station)Charging Station/$$(li)$(l:machines/heat_pipe)Heat Pipe/$$(p)$(thing)Right-click/$ any solid block to copy its appearance to the Applicator tool, or $(thing)sneak+right-click/$ to clear the copied block. "
+    },
+    {
+      "type": "text",
+      "text": "然後，$(thing)右擊/$任何可被偽裝的方塊（見上表）以塗敷/除去偽裝。$(p)物品欄中需要有對應的方塊才能塗敷偽裝，這一過程將會消耗掉對應的方塊（但在除去偽裝時這一方塊將被返還）。$(p)同樣可以透過使用鎬或其他合適的工具破壞來移除偽裝；但偽裝用的方塊不會返還。"
+    },
+    {
+      "type": "crafting",
+      "text": "偽裝塗敷器的合成表",
+      "recipe": "pneumaticcraft:camo_applicator"
+    }
+  ]
+}

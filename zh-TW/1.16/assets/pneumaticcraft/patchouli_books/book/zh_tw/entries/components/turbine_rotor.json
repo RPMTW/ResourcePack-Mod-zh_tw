@@ -1,0 +1,17 @@
+{
+  "name": "輪機轉子",
+  "icon": "pneumaticcraft:turbine_rotor",
+  "category": "components",
+  "advancement": "pneumaticcraft:pressure_chamber",
+  "pages": [
+    {
+      "type": "text",
+      "text": "合成材料。其自身並無用途。"
+    },
+    {
+      "type": "crafting",
+      "text": "輪機轉子的合成表",
+      "recipe": "pneumaticcraft:turbine_rotor"
+    }
+  ]
+}

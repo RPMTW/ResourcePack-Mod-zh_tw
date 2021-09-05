@@ -93,7 +93,7 @@
       "y": 110
     },
     {
-      "type": "item",
+      "type": "patchouli:item",
       "guard": "#is_offset",
       "item": "#input5",
       "framed": "false",

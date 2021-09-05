@@ -1,0 +1,43 @@
+{
+  "name": "微型導彈",
+  "icon": "pneumaticcraft:micromissiles",
+  "category": "\n-工具",
+  "advancement": "pneumaticcraft:printed_circuit_board",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(item)微型導彈/$為小型手持導彈，具有爆炸性彈頭與智慧目標追蹤功能。要發射$(item)微型導彈/$，只需使用導彈筒$(thing)右擊/$。預設情況下，每個導彈筒裝載有 100 枚導彈。$(p)微型導彈在自身 24 格範圍內（球形範圍）尋找目標。找到可行目標後，導彈將指向該目標。"
+    },
+    {
+      "type": "entity",
+      "entity": "pneumaticcraft:micromissile",
+      "offset": "-0.3",
+      "text": "$(italic)小，但致命/$"
+    },
+    {
+      "type": "text",
+      "text": "$(item)微型導彈/$不會以發射者與屬於發射者的實體（如其寵物和無人機）為目標。但需要注意近旁爆炸導致的連帶傷害：並不建議將微型導彈用於近戰！$(p)$(item)微型導彈/$的目標可以為生物、礦車和船，但部位物品實體和船等非生物實體。"
+    },
+    {
+      "type": "text",
+      "text": "若$(item)微型導彈/$擊中實體或方塊，其將立刻爆炸。$(ttcolor)$(t:見設定檔案中的 'B:damageTerrain')預設情況下/$，爆炸並不破壞地形。$(p)$(item)微型導彈/$具有一定的執行時長。$(ttcolor)$(t:見設定檔案中的 'I:missileLifetime')預設情況下/$，該值為 300 刻（15 秒）。此後，導彈將耗盡燃料並下落，但在觸及地面時仍會爆炸。"
+    },
+    {
+      "type": "text",
+      "text": "若開火時指向可行的實體，發射出的$(item)微型導彈/$將立刻鎖定該實體，無論附近是否有更僅的實體。$(p)使用導彈筒$(thing)潛行右擊/$將打開設定介面，以便設定下列導彈屬性：$(li)三角選擇框處可以調節最高速度、轉向速率和爆炸威力的平衡。"
+    },
+    {
+      "type": "text",
+      "text": "$(li)可以在$(thing)智慧/$模式和$(thing)定向/$模式間切換：在$(thing)智慧/$模式下，導彈的行為如上述；在$(thing)定向/$模式下，導彈將沿直線飛行，但將具有更高的速度與傷害。$(li)可以在$(bold)實體過濾/$處填寫$(l:base_concepts/entity_filter)實體過濾器/$以指定可行目標。"
+    },
+    {
+      "type": "text",
+      "text": "$(li)按下$(bold)保存為預設值/$按鈕後，目前設定將被保存，並套用於所有新合成的微型導彈。註：預設設定被儲存在伺服器。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "pneumaticcraft:micromissiles",
+      "text": "微型導彈的合成表"
+    }
+  ]
+}

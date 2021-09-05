@@ -19,7 +19,8 @@
     },
     {
       "type": "crafting",
-      "recipe": "bloodmagic:alchemy_table"
+      "recipe": "bloodmagic:alchemy_table",
+      "text": "When looking at $(item)Alchemy Table$() recipes in this book (or in $(thing)JEI$()), please hover over the arrow with an \"LP\" label to view Time, $(blood)LP$() drain, and Tier information."
     },
     {
       "type": "image",
@@ -54,37 +55,42 @@
     },
     {
       "type": "text",
-      "text": "The Alchemy Table provides several ways to get vanilla items."
+      "a.heading": "Grass",
+      "a.recipe": "bloodmagic:alchemytable/grass_block",
+      "b.heading": "Leather",
+      "b.recipe": "bloodmagic:alchemytable/leather_from_flesh",
+      "c.heading": "Bread",
+      "c.recipe": "bloodmagic:alchemytable/bread"
     },
     {
       "type": "3x_crafting_alchemy_table",
       "a.heading": "草",
       "a.recipe": "bloodmagic:alchemytable/grass_block",
       "b.heading": "皮革",
-      "b.recipe": "bloodmagic:alchemytable/leather_from_flesh",
-      "c.heading": "麵包",
-      "c.recipe": "bloodmagic:alchemytable/bread"
+      "b.recipe": "bloodmagic:alchemytable/leather_from_flesh"
     },
     {
       "type": "2x_crafting_alchemy_table",
       "a.heading": "黏土",
       "a.recipe": "bloodmagic:alchemytable/clay_from_sand",
       "b.heading": "線",
-      "b.recipe": "bloodmagic:alchemytable/string"
+      "b.recipe": "bloodmagic:alchemytable/string",
+      "b.text": "Saltpeter NYI in Blood Magic."
     },
     {
       "type": "2x_crafting_alchemy_table",
       "a.heading": "燧石",
       "a.recipe": "bloodmagic:alchemytable/flint_from_gravel",
-      "b.heading": "火藥",
       "b.recipe": "bloodmagic:alchemytable/gunpowder",
-      "b.text": "Saltpeter NYI in Blood Magic."
+      "c.recipe": "bloodmagic:alchemytable/plantoil_from_taters"
     },
     {
       "type": "3x_crafting_alchemy_table",
       "a.heading": "植物油",
       "a.recipe": "bloodmagic:alchemytable/plantoil_from_wheat",
+      "b.heading": "Coal Sand",
       "b.recipe": "bloodmagic:alchemytable/plantoil_from_carrots",
+      "c.heading": "Explosive Powder",
       "c.recipe": "bloodmagic:alchemytable/plantoil_from_taters"
     },
     {
@@ -92,9 +98,11 @@
       "a.heading": "Plant Oil Cont.",
       "a.recipe": "bloodmagic:alchemytable/plantoil_from_beets",
       "b.heading": "煤礦砂",
-      "b.recipe": "bloodmagic:alchemytable/sand_coal",
-      "c.heading": "爆炸火藥",
-      "c.recipe": "bloodmagic:alchemytable/explosive_powder"
+      "b.recipe": "bloodmagic:alchemytable/sand_coal"
+    },
+    {
+      "type": "text",
+      "text": "The $(l:bloodmagic:alchemy_array/sigil/lava)Lava$() and $(l:bloodmagic:alchemy_array/sigil/water)Water Sigils$() are not consumed in either of these recipes. What's more, the $(item)Water Sigil$() can be used in place of a $(water)Water Bucket$() in any Alchemy Table Recipe."
     }
   ]
 }

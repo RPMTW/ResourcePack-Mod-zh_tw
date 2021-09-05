@@ -1,16 +1,16 @@
 {
-    "itemGroup.packages.group": "包裹",
-    "block.packages.package_maker": "包裹工作台",
-    "block.packages.package": "包裹",
+    "itemGroup.packages.group": "集裝盒",
+    "block.packages.package_maker": "集裝盒製作台",
+    "block.packages.package": "集裝盒",
     "block.packages.package.nonempty": "%s - %sx %s",
-    "packages.style_tooltip.frame": "%s 框架",
-    "packages.style_tooltip.inner": "%s 核心",
-    "packages.style_tooltip.both": "%s 框架和核心",
-    "packages.style_tooltip.color": "%s 顏色",
+    "packages.style_tooltip.frame": "%s邊框",
+    "packages.style_tooltip.inner": "%s內核",
+    "packages.style_tooltip.both": "%s邊框及內核",
+    "packages.style_tooltip.color": "%s",
     "packages.contents_tooltip": "%sx %s",
     "packages.contents_tooltip.empty": "空",
-    "packages.package_maker.frame": "框架",
-    "packages.package_maker.inner": "核心",
+    "packages.package_maker.frame": "邊框",
+    "packages.package_maker.inner": "內核",
     "packages.package_maker.dye": "顏色",
-    "packages.package_maker.craft_button": "新建"
+    "packages.package_maker.craft_button": "製作"
 }

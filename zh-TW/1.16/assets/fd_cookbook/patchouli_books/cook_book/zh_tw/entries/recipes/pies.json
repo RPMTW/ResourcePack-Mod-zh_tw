@@ -1,0 +1,71 @@
+{
+  "name": "Pies",
+  "icon": "farmersdelight:chocolate_pie",
+  "category": "recipes",
+  "sortnum": "5",
+  "pages": [
+    {
+      "type": "text",
+      "title": "pies",
+      "text": "Farmers delight adds 3 pies that are placeable like the normal cake.$(br)You can also cut the vanilla cake or the pies on a $(l:basics/cutting_board)cutting board$() witch will give you 7 cake slices or 4 pie slices depending on what you cut."
+    },
+    {
+      "type": "crafting_table_pie_crust",
+      "info": "You can also combine them back back into their original form by putting 7 cake slices or 4 pie slices of one kind in the crafting table."
+    },
+    {
+      "type": "crafting_table_pie",
+      "foodname": "Chocolate Pie",
+      "item1": "minecraft:cocoa_beans",
+      "item2": "minecraft:cocoa_beans",
+      "item3": "minecraft:cocoa_beans",
+      "item4": "minecraft:milk_bucket,farmersdelight:milk_bottle",
+      "item5": "minecraft:milk_bucket,farmersdelight:milk_bottle",
+      "item6": "minecraft:milk_bucket,farmersdelight:milk_bottle",
+      "item7": "minecraft:sugar",
+      "item8": "farmersdelight:pie_crust",
+      "item9": "minecraft:sugar",
+      "finalitem": "farmersdelight:chocolate_pie",
+      "slice": "farmersdelight:chocolate_pie_slice",
+      "hunger_amount": "x1,5",
+      "saturation_amount": "x0,5",
+      "effect": "$(9)Speed$()(1:30)"
+    },
+    {
+      "type": "crafting_table_pie",
+      "foodname": "Sweet Berry Cheesecake",
+      "item1": "minecraft:sweet_berries",
+      "item2": "minecraft:sweet_berries",
+      "item3": "minecraft:sweet_berries",
+      "item4": "minecraft:sweet_berries",
+      "item5": "minecraft:sweet_berries",
+      "item6": "minecraft:sweet_berries",
+      "item7": "minecraft:milk_bucket,farmersdelight:milk_bottle",
+      "item8": "farmersdelight:pie_crust",
+      "item9": "minecraft:milk_bucket,farmersdelight:milk_bottle",
+      "finalitem": "farmersdelight:sweet_berry_cheesecake",
+      "slice": "farmersdelight:sweet_berry_cheesecake_slice",
+      "hunger_amount": "x1,5",
+      "saturation_amount": "x0,5",
+      "effect": "$(9)Speed$()(1:30)"
+    },
+    {
+      "type": "crafting_table_pie",
+      "foodname": "Apple Pie",
+      "item1": "minecraft:wheat",
+      "item2": "minecraft:wheat",
+      "item3": "minecraft:wheat",
+      "item4": "minecraft:apple",
+      "item5": "minecraft:apple",
+      "item6": "minecraft:apple",
+      "item7": "minecraft:sugar",
+      "item8": "farmersdelight:pie_crust",
+      "item9": "minecraft:sugar",
+      "finalitem": "farmersdelight:apple_pie",
+      "slice": "farmersdelight:apple_pie_slice",
+      "hunger_amount": "x1,5",
+      "saturation_amount": "x0,5",
+      "effect": "$(9)Speed$()(1:30)"
+    }
+  ]
+}

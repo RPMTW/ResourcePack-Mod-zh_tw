@@ -7,7 +7,7 @@
     "command.mantle.view_tags.no_held_entity": "持有的物品不是生怪蛋",
     "command.mantle.view_tags.no_held_potion": "Held item is not a potion",
     "command.mantle.view_tags.no_held_fluid": "Unable to get fluid from the held item",
-    "command.mantle.view_tags.no_held_enchantment": "Held item is not enchanted",
+    "command.mantle.view_tags.no_held_enchantment": "持有的物品沒有附魔",
     "command.mantle.view_tags.no_targeted_entity": "No entity within range",
     "command.mantle.view_tags.no_targeted_tile_entity": "No fluid within range",
     "command.mantle.view_tags.no_tags": "沒有標籤",
@@ -28,7 +28,7 @@
     "command.mantle.tags_for.no_held_entity": "持有的物品不是生怪蛋",
     "command.mantle.tags_for.no_held_potion": "Held item is not a potion",
     "command.mantle.tags_for.no_held_fluid": "Unable to get fluid from the held item",
-    "command.mantle.tags_for.no_held_enchantment": "Held item is not enchanted",
+    "command.mantle.tags_for.no_held_enchantment": "持有的物品沒有附魔",
     "command.mantle.tags_for.no_targeted_entity": "No entity within range",
     "command.mantle.tags_for.no_targeted_tile_entity": "No fluid within range",
     "command.mantle.tags_for.no_tags": "沒有標籤"

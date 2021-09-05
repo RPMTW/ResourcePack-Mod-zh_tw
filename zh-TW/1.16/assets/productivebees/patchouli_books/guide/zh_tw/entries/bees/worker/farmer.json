@@ -1,5 +1,5 @@
 {
-    "name": "Farmer Bee",
+    "name": "農夫蜂",
     "icon": "minecraft:wheat",
     "read_by_default": true,
     "sortnum": 1,
@@ -7,8 +7,8 @@
     "pages": [
         {
             "type": "text",
-            "title": "Farmer Bee",
-            "text": "Will harvest nearby crops and leave the produce on the ground."
+            "title": "農夫蜂",
+            "text": "會收割附近的農作物並將產物留在地上。"
         },
         {
             "type": "entity",

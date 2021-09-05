@@ -1,0 +1,29 @@
+{
+  "name": "搭載實體",
+  "icon": "pneumaticcraft:textures/progwidgets/entity_import_piece.png",
+  "category": "widget_interact",
+  "advancement": "pneumaticcraft:programmer",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(l:tools/drone)無人機/$將會前往指定$(l:programming/area)區域/$內最近的符合可選的由$(l:programming/text)文字/$拼圖指定的$(l:base_concepts/entity_filter)實體過濾器的實體並將其搭載以供傳輸。$(p)此處的$(italic)實體/$包括玩家，儘管玩家可以按下 $(thing)Shift/$ 離開$(item)無人機/$。雖說如此，被一個你可以控制的飛行實體所搭載有其好處..."
+    },
+    {
+      "type": "text",
+      "title": "Experience Orbs",
+      "text": "Drones are also able to import $(thing)Experience Orbs/$ using this widget; the $(item)@orb/$ entity filter will match XP orbs. Imported orbs are converted to $(l:base_concepts/memory_essence)Memory Essence/$ and stored in the drone's internal tank; you can then use the $(l:programming/liquid_export)Liquid Export/$ widget to transfer that to a fluid tank."
+    },
+    {
+      "type": "text",
+      "title": "Area Limitations",
+      "text": "Keep in mind that any $(l:programming/area)Area/$ widgets connected to this widget must have an area type of $(thing)Box/$; this is the only supported shape. It's possible to create different shapes, though, by using whitelisting/blacklisting of areas."
+    },
+    {
+      "type": "image",
+      "images": [
+        "pneumaticcraft:textures/progwidgets/entity_import_piece.png"
+      ],
+      "text": "$(italic)Alien abduction/$"
+    }
+  ]
+}

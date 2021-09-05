@@ -1,13 +1,13 @@
 {
-    "name": "Glowing Bee",
+    "name": "螢光石蜂",
     "icon": "minecraft:glowstone_dust",
     "read_by_default": true,
     "category": "productivebees:bees_wild",
     "pages": [
         {
             "type": "text",
-            "title": "Glowing Bee",
-            "text": "Found living in glowing nests in the nether. Glowing Bees prefer pollinating glowing blocks like glowstone or lamps.",
+            "title": "螢光石蜂",
+            "text": "被發現生活在地獄的螢光石蜂窩中。喜歡採集發光的方塊， 像是螢光石或燈。",
             "anchor": "glowing"
         },
         {

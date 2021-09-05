@@ -1,0 +1,52 @@
+{
+    "name": "Tatami Mats",
+    "icon": "farmersdelight:full_tatami_mat",
+    "category": "basics",
+    "sortnum": "10",
+    "pages": [
+        {
+            "type": "crafting_table_nofood",
+            "foodname": "Tatami Block",
+            "item1": "farmersdelight:canvas",
+            "item2": "farmersdelight:straw",
+            "item4": "farmersdelight:straw",
+            "item5": "farmersdelight:canvas",
+            "finalitem": "farmersdelight:tatami",
+            "amount": "2",
+            "info": "Tatami is a Decorative Block that can be expanded in one direction, by placing it against each other."
+        },
+        {
+            "type": "crafting_table_nofood",
+            "foodname": "Tatami",
+            "item1": "farmersdelight:full_tatami_mat",
+            "item2": "farmersdelight:full_tatami_mat",
+            "finalitem": "farmersdelight:tatami",
+            "amount": "2",
+            "info": "none"
+        },
+        {
+            "type": "crafting_table_nofood",
+            "foodname": "Full Tatami Mat",
+            "item5": "farmersdelight:tatami",
+            "finalitem": "farmersdelight:full_tatami_mat",
+            "amount": "2",
+            "info": "none"
+        },
+        {
+            "type": "crafting_table_nofood",
+            "foodname": "Half Tatami Mat",
+            "item5": "farmersdelight:full_tatami_mat",
+            "finalitem": "farmersdelight:half_tatami_mat",
+            "amount": "2",
+            "info": "none"
+        },
+        {
+            "type": "crafting_table_nofood",
+            "foodname": "Full Tatami Mat",
+            "item1": "farmersdelight:half_tatami_mat",
+            "item2": "farmersdelight:half_tatami_mat",
+            "finalitem": "farmersdelight:full_tatami_mat",
+            "info": "none"
+        }
+    ]
+}

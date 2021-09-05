@@ -1,0 +1,22 @@
+{
+  "name": "充氣管道模組",
+  "icon": "pneumaticcraft:charging_module",
+  "category": "tubes",
+  "advancement": "pneumaticcraft:pressure_tube",
+  "pages": [
+    {
+      "type": "text",
+      "text": "該模組對其相對的容器中的可充氣物品充/放氣。例如，這裡的容器可以是裝有氣動工具的儲物箱，或者裝有$(l:components/air_canister)空氣罐/$以進行長程空氣運輸（或許需要借助其餘模組的遠程運輸裝置）。$(p)可以將該模組指向$(l:machines/aerial_interface)空氣介面/$以對玩家物品欄中的物品充氣。"
+    },
+    {
+      "type": "text",
+      "title": "高級印刷電路板",
+      "text": "When you apply an $(l:tubes/advanced_pcb)Advanced PCB/$ to the Charging Module, the module's charging rate increases from 10mL/tick (per item) to 100mL/tick (per item)"
+    },
+    {
+      "type": "crafting",
+      "text": "充氣管道模組",
+      "recipe": "pneumaticcraft:charging_module"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "小機槍",
+  "icon": "pneumaticcraft:minigun",
+  "category": "\n-工具",
+  "advancement": "pneumaticcraft:pressure_tube",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(item)加特林機槍/$為手持武器，消耗$(l:base_concepts/pressure)壓縮空氣/$與$(l:tools/minigun_ammo)機槍彈藥/$以工作。彈藥需要被裝填至$(l:tools/minigun_ammo#magazine)機槍的彈夾/$中——不會自動從玩家物品欄消耗彈藥。$(p)要開火，只需長按$(thing)右鍵/$。槍管將開始旋轉，並在到達所需速度時立刻開始開火。"
+    },
+    {
+      "type": "text",
+      "title": "Upgrading",
+      "text": "$(item)加特林機槍/$的很多功能（如啟動速度、攻擊範圍、藥水生效機率）可以在$(l:machines/charging_station)充氣站/$中調節。$(p)不同升級的具體效應可在充氣站的升級介面中找到。"
+    },
+    {
+      "type": "crafting",
+      "text": "加特林機槍的合成表",
+      "recipe": "pneumaticcraft:minigun"
+    }
+  ]
+}

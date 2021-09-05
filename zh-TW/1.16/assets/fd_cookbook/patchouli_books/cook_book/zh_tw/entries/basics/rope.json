@@ -1,0 +1,38 @@
+{
+    "name": "Ropes",
+    "icon": "farmersdelight:rope",
+    "category": "basics",
+    "sortnum": "7",
+    "pages": [
+        {
+            "type": "crafting_table_nofood",
+            "foodname": "Rope",
+            "item2": "farmersdelight:straw",
+            "item5": "farmersdelight:straw",
+            "item8": "farmersdelight:straw",
+            "finalitem": "farmersdelight:rope",
+            "info": "Ropes can be placed down and extended down by right clicking, then they can be used to climb on them."
+        },
+        {
+            "type": "crafting_table_nofood",
+            "foodname": "Safety Net",
+            "item1": "farmersdelight:rope",
+            "item2": "farmersdelight:rope",
+            "item4": "farmersdelight:rope",
+            "item5": "farmersdelight:rope",
+            "finalitem": "farmersdelight:safety_net",
+            "info": "The Safety Net can be placed down and will absorb all taken fall damage."
+        },
+        {
+            "type": "crafting_table_nofood",
+            "foodname": "Lead",
+            "item1": "farmersdelight:rope",
+            "item2": "farmersdelight:rope",
+            "item4": "farmersdelight:rope",
+            "item5": "farmersdelight:rope",
+            "item9": "farmersdelight:rope",
+            "finalitem": "minecraft:lead",
+            "info": "Ropes can be used to craft leads."
+        }
+    ]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "半方塊/裝置",
+  "description": "$(thing)半方塊/$是一些並不能算作方塊的奇怪的物品，因為其可以與真正的方塊放在同一位置，但卻可以像方塊一樣被放置。$(p)又見也應該被算作半方塊的$(l:logistics/frames)物流框架/$。",
+  "icon": "pneumaticcraft:transfer_gadget",
+  "sortnum": 7
+}

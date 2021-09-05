@@ -1,16 +1,16 @@
 {
-    "name": "Feeding Slab",
+    "name": "餵食半磚",
     "icon": "productivebees:feeder",
     "category": "productivebees:blocks",
     "pages": [
         {
             "type": "spotlight",
             "item": "productivebees:feeder",
-            "text": "Can be used as a collection point for feeding bees. It holds 3 item blocks. When Lumber or Quarry bees feed from this it will produce from a random item in the feeder."
+            "text": "用來供給蜜蜂的採集點， 上面可以放三樣物品。當《木料蜂》或《採石蜂》使用這個時， 擺放了多種木料或石頭只會隨機採集其中一種。"
         },
         {
             "type": "text",
-            "text": "The Feeder can be honeylogged giving the bees an excellent place to dip their toes and recover from a long day of works, aka it gives them regeneration."
+            "text": "餵食器可以進行蜂蜜記錄，為蜜蜂提供了一個很好的地方，可以讓蜜蜂從一整天的工作中恢復過來，也就是讓它們重獲新生。"
         }
     ]
 }

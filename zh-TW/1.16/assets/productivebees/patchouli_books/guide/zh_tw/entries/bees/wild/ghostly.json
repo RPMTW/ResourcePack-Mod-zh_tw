@@ -1,13 +1,13 @@
 {
-    "name": "Ghostly Bee",
+    "name": "幽靈蜂",
     "icon": "minecraft:ghast_tear",
     "read_by_default": true,
     "category": "productivebees:bees_wild",
     "pages": [
         {
             "type": "text",
-            "title": "Ghostly Bee",
-            "text": "Found living in soul sand nests in the nether. Ghostly Bees prefer pollinating nearby soul sand.",
+            "title": "幽靈蜂",
+            "text": "居住於地獄中的靈魂砂蜂窩，喜歡採集附近的靈魂砂。",
             "anchor": "ghostly"
         },
         {

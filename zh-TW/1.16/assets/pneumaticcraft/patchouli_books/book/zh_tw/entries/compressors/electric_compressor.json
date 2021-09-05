@@ -1,0 +1,26 @@
+{
+  "name": "電力壓縮機",
+  "icon": "pneumaticcraft:electric_compressor",
+  "category": "compressors",
+  "advancement": "pneumaticcraft:advanced_pressure_tube",
+  "flag": "pneumaticcraft:electricCompressorEnabled",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(item)電動壓縮機/$使用 $(thing)IC2 的 EU/$ 壓縮空氣。預設情況下，其效率為 40%，但這可以$(ttcolor)$(t:見 'I:electricCompressorEfficiency' 條目)在設定檔案中變更/$。$(p)其行為與 IC2 的一階機器相同，亦即輸入電壓高於 32EU/t 時其將爆炸。但是，像其他 IC2 機器一樣，可以安裝$(item)升壓升級/$一允許其接受更高電壓。"
+    },
+    {
+      "type": "text",
+      "text": "空氣輸出（mL/t）為：$(p)  $(formula)輸入速率 / E * 400/$$(p)其中 $(formula)E/$ 代表效率。$(p)例如，效率預設為 40%，輸入為 32mL/t 時，空氣產量為 $(formula)32 / 40 * 400 = 320mL/t/$。"
+    },
+    {
+      "type": "text",
+      "text": "另一個影響效率的因素是機器的$(l:base_concepts/heat)熱量/$。該機器需要被冷卻，因為其效率隨著溫度的增高而降低，直到不產生任何空氣。"
+    },
+    {
+      "type": "crafting",
+      "text": "$(item)電力壓縮機/$的合成表",
+      "recipe": "pneumaticcraft:electric_compressor"
+    }
+  ]
+}

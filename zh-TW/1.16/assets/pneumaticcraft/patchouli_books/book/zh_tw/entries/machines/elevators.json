@@ -1,0 +1,58 @@
+{
+  "name": "電梯",
+  "icon": "pneumaticcraft:elevator_base",
+  "category": "machines",
+  "advancement": "pneumaticcraft:plastic",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(thing)電梯/$是一個可以用於縱向運輸任何實體的機器，無論其是物品，怪物，動物或是玩家。$(p)需要在結構的底部放置$(item)電梯基座/$。可以疊加多個電梯基座。$(p)在此之上，放置$(item)電梯框架/$，作為對電梯的支撐。"
+    },
+    {
+      "type": "text",
+      "text": "Both the number of $(item)Elevator Bases/$ and the number of $(item)Elevator Frames/$ determine how high the $(thing)Elevator/$ can extend. The maximum height of an $(thing)Elevator/$ is the lower of:$(li)1 x the number of vertically-stacked $(item)Elevator Frames/$, or$(li)$(ttcolor)$(t:You can change this multiplier in mod config - see 'I:elevatorBaseBlocksPerBase')6 x/$ the number of vertically-stacked $(item)Elevator Bases/$"
+    },
+    {
+      "type": "text",
+      "text": "$(thing)電梯/$可以在以下兩種模式裡執行：$(li)$(bold)紅石模式/$：施加於$(item)電梯基座/$的$(#f00)紅石信號/$控制電梯的高度，正比於信號強度（信號為 0 時位於最底端，信號為 15 時位於最頂端）。$(li)$(bold)電梯呼叫器/$：$(l:machines/elevators#caller)電梯呼叫器/$可以提供對電梯更複雜的控制。"
+    },
+    {
+      "type": "text",
+      "title": "多方塊的電梯",
+      "text": "可以通過水平連接$(item)電梯基座/$以擴展$(thing)電梯/$的大小。當相鄰的$(thing)電梯/$的頂部$(item)電梯基座/$位於統一高度時，$(thing)電梯/$將會共享樓層（由$(l:machines/elevators#caller)電梯呼叫器/$定義）於紅石輸出，因而形成一個「多方塊結構」。"
+    },
+    {
+      "type": "text",
+      "title": "回收空氣",
+      "text": "$(item)電梯基座/$接受最多 4 個$(l:base_concepts/upgrades#charging)充氣升級/$，允許其在下降時回收一定的空氣（安裝前下降既不消耗也不回收空氣）。$(p)其代價是下降速度更慢；安裝 4 個升級時，會回收上升同一高度所需的空氣的 60%，但下降速度會減慢 40%。"
+    },
+    {
+      "type": "text",
+      "anchor": "caller",
+      "title": "電梯呼叫器",
+      "text": "放置在$(item)電梯框架/$旁邊的$(item)電梯呼叫器/$用於控制$(thing)電梯/$的高度。放置下一個$(item)電梯框架/$時，其將會計算所含有的$(thing)樓層/$數目，由$(item)電梯呼叫器/$定義。$(p)$(thing)樓層/$可以在$(item)電梯基座/$介面中重新命名；樓層名將會顯示在$(item)電梯呼叫器/$的按鈕中。其可以被點擊，以將電梯呼叫到該樓層。"
+    },
+    {
+      "type": "text",
+      "title": "電梯呼叫器（續）",
+      "text": "此外，$(item)電梯呼叫器/$將會在$(thing)電梯/$位於該樓層時發出$(#f00)紅石信號/$，而對電梯呼叫器施加一個$(#f00)紅石信號/$將呼叫$(thing)電梯/$至該樓層。$(p)最後，像其他方塊一樣，$(item)電梯呼叫器/$可以使用$(l:tools/camo_applicator)偽裝塗敷器/$進行偽裝。"
+    },
+    {
+      "type": "image",
+      "images": [
+        "pneumaticcraft:textures/patchouli/elevator.png"
+      ],
+      "border": "true",
+      "text": "$(italic)一個具有 3 個電梯呼叫器的小型電梯/$"
+    },
+    {
+      "type": "crafting",
+      "recipe": "pneumaticcraft:elevator_base_1",
+      "recipe2": "pneumaticcraft:elevator_frame"
+    },
+    {
+      "type": "crafting",
+      "recipe": "pneumaticcraft:elevator_caller"
+    }
+  ]
+}

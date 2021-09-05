@@ -1,5 +1,5 @@
 {
-    "name": "Ingot/Metal Bees",
+    "name": "各式金屬蜜蜂",
     "icon": "minecraft:iron_ingot",
     "read_by_default": true,
     "sortnum": 1,
@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "text",
-            "text": "You can find a bee for every flavor of metal. If you don't see what you're looking for, it might be in a mod specific page."
+            "text": "您可以找到適合每種金屬的蜜蜂。 如果您沒有看到要查找的內容，則它可能位於特定於模組的頁面中。"
         },
         {
             "type": "empty",
@@ -15,73 +15,73 @@
         },
         {
             "type": "text",
-            "title": "Aluminum Bee",
-            "text": "Bred from a $(l:bees/wild/crystalline)Crystalline Bee$(/l) and an $(l:bees/solitary/ashy_mining)Ashy Mining Bee$(/l).",
-            "anchor": "aluminum",
+            "title": "鋁礦蜂",
+            "text": "由$(l:bees/wild/crystalline)石英蜂$(/l)和$(l:bees/solitary/ashy_mining)灰色採礦蜂$(/l)配種而得。",
+            "anchor": "鋁",
             "flag": "productivebees:aluminum"
         },
         {
             "type": "entity",
-            "name": "Aluminum Bee",
+            "name": "鋁礦蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:aluminum'}",
             "flag": "productivebees:aluminum"
         },
         {
             "type": "text",
-            "title": "Bismuth Bee",
-            "text": "Bred from a $(l:bees/wild/crystalline)Crystalline Bee$(/l) and a $(l:bees/hive/gold)Gold Bee$(/l).",
-            "anchor": "bismuth",
+            "title": "鉍礦蜂",
+            "text": "由$(l:bees/wild/crystalline)石英蜂$(/l)和$(l:bees/hive/gold)金礦蜂$(/l)配種而得。",
+            "anchor": "鉍",
             "flag": "productivebees:bismuth"
         },
         {
             "type": "entity",
-            "name": "Bismuth Bee",
+            "name": "鉍礦蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:bismuth'}",
             "flag": "productivebees:bismuth"
         },
         {
             "type": "text",
-            "title": "Brass Bee",
-            "text": "Bred from a $(l:bees/modded/ingot_bees#zinc)Zinc Bee$(/l) and a $(l:bees/modded/ingot_bees#copper)Copper Bee$(/l).",
-            "anchor": "brass",
+            "title": "黃銅礦蜂",
+            "text": "由$(l:bees/modded/ingot_bees#zinc)鋅礦蜂$(/l)和$(l:bees/modded/ingot_bees#copper)銅礦蜂$(/l).配種而得。",
+            "anchor": "黃銅",
             "flag": "productivebees:brass"
         },
         {
             "type": "entity",
-            "name": "Brass Bee",
+            "name": "黃銅礦蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:brass'}",
             "flag": "productivebees:brass"
         },
         {
             "type": "text",
-            "title": "Bronze Bee",
-            "text": "Bred from a $(l:bees/modded/ingot_bees#tin)Tin Bee$(/l) and a $(l:bees/modded/ingot_bees#copper)Copper Bee$(/l).",
-            "anchor": "bronze",
+            "title": "青銅礦蜂",
+            "text": "由$(l:bees/modded/ingot_bees#tin)錫礦蜂$(/l)和$(l:bees/modded/ingot_bees#copper)銅礦蜂$(/l)配種而得。",
+            "anchor": "青銅",
             "flag": "productivebees:bronze"
         },
         {
             "type": "entity",
-            "name": "Bronze Bee",
+            "name": "青銅礦蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:bronze'}",
             "flag": "productivebees:bronze"
         },
         {
             "type": "text",
-            "title": "Constantan Bee",
-            "text": "Bred from a $(l:bees/modded/ingot_bees#copper)Copper Bee$(/l) and a $(l:bees/modded/ingot_bees#nickel)Nickel Bee$(/l).",
-            "anchor": "constantan",
+            "title": "康銅蜂",
+            "text": "由$(l:bees/mod_bees#copper)銅礦蜂$(/l)和$(l:bees/mod_bees#nickel)鎳礦蜂$(/l)配種而得。",
+            "anchor": "康銅",
             "flag": "productivebees:constantan"
         },
         {
             "type": "entity",
-            "name": "Constantan Bee",
+            "name": "康銅蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:constantan'}",
             "flag": "productivebees:constantan"
         },
         {
             "type": "text",
             "title": "銅蜜蜂",
-            "text": "Bred from a $(l:bees/wild/crystalline)Crystalline Bee$(/l) and an $(l:bees/solitary/ashy_mining)Ashy Mining Bee$(/l).",
+            "text": "由$(l:bees/wild/crystalline)石英蜂$(/l)和$(l:bees/solitary/ashy_mining)灰色採礦蜂$(/l)配種而得。",
             "anchor": "銅錠",
             "flag": "productivebees:copper"
         },
@@ -93,47 +93,47 @@
         },
         {
             "type": "text",
-            "title": "Electrum Bee",
-            "text": "Bred from an $(l:bees/hive/gold)Gold Bee$(/l) and a $(l:bees/modded/ingot_bees#silver)Silver Bee$(/l).",
-            "anchor": "electrum",
+            "title": "琥珀金蜂",
+            "text": "由$(l:bees/hive/gold)金礦蜂$(/l)和$(l:bees/modded/ingot_bees#silver)銀礦蜂$(/l)配種而得。",
+            "anchor": "琥珀金",
             "flag": "productivebees:electrum"
         },
         {
             "type": "實體",
-            "name": "Electrum Bee",
+            "name": "琥珀金蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:electrum'}",
             "flag": "productivebees:electrum"
         },
         {
             "type": "text",
-            "title": "Enderium Bee",
-            "text": "Bred from an $(l:bees/modded/ingot_bees#lead)Lead Bee$(/l) and a $(l:bees/hive/diamond)Diamond Bee$(/l).",
-            "anchor": "enderium",
+            "title": "終界合金蜂",
+            "text": "由$(l:bees/modded/ingot_bees#lead)鉛礦蜂$(/l)和$(l:bees/hive_bees/diamond)鑽石蜂$(/l)配種而得。",
+            "anchor": "終界合金",
             "flag": "productivebees:enderium"
         },
         {
             "type": "實體",
-            "name": "Enderium Bee",
+            "name": "終界合金蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:enderium'}",
             "flag": "productivebees:enderium"
         },
         {
             "type": "text",
-            "title": "Invar Bee",
-            "text": "Bred from an $(l:bees/hive/iron)Iron Bee$(/l) and a $(l:bees/modded/ingot_bees#nickel)Nickel Bee$(/l).",
-            "anchor": "invar",
+            "title": "殷鋼蜂",
+            "text": "由$(l:bees/hive_bees/iron)鐵礦蜂$(/l)和$(l:bees/modded/ingot_bees#nickel)鎳礦蜂$(/l)配種而得。",
+            "anchor": "殷鋼",
             "flag": "productivebees:invar"
         },
         {
             "type": "entity",
-            "name": "Invar Bee",
+            "name": "殷鋼蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:invar'}",
             "flag": "productivebees:invar"
         },
         {
             "type": "text",
             "title": "鉛蜜蜂",
-            "text": "Bred from an $(l:bees/hive/iron)Iron Bee$(/l) and a $(l:bees/solitary/blue_banded)Blue Banded Bee$(/l).",
+            "text": "由$(l:bees/hive_bees/iron)鐵礦蜂$(/l)和$(l:bees/solitary/blue_banded)青條花蜂$(/l)配種而得。",
             "anchor": "鉛錠\n",
             "flag": "productivebees:lead"
         },
@@ -145,21 +145,21 @@
         },
         {
             "type": "text",
-            "title": "Lumium Bee",
-            "text": "Bred from a $(l:bees/modded/ingot_bees#silver)Silver Bee$(/l) and an $(l:bees/modded/ingot_bees#tin)Tin Bee$(/l).",
-            "anchor": "lumium",
+            "title": "流明蜂",
+            "text": "由$(l:bees/modded/ingot_bees#silver)銀礦蜂$(/l)和$(l:bees/modded/ingot_bees#tin)錫礦蜂$(/l)配種而得。",
+            "anchor": "流明",
             "flag": "productivebees:lumium"
         },
         {
             "type": "entity",
-            "name": "Lumium Bee",
+            "name": "流明蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:lumium'}",
             "flag": "productivebees:lumium"
         },
         {
             "type": "text",
             "title": "鎳蜜蜂",
-            "text": "Bred from an $(l:bees/hive/iron)Iron Bee$(/l) and a $(l:bees/solitary/sweat)Sweat Bee$(/l).",
+            "text": "由$(l:bees/hive/iron)鐵礦蜂$(/l)和$(l:bees/solitary/sweat)汗水蜂$(/l)配種而得。",
             "anchor": "鎳",
             "flag": "productivebees:nickel"
         },
@@ -171,125 +171,125 @@
         },
         {
             "type": "text",
-            "title": "Osmium Bee",
-            "text": "Bred from an $(l:bees/hive/iron)Iron Bee$(/l) and a $(l:bees/solitary/neon_cuckoo)Neon Cuckoo Bee$(/l).$(br)Required mod: Mekanism",
-            "anchor": "osmium",
+            "title": "鋨礦蜂",
+            "text": "由$(l:bees/hive/iron)鐵礦蜂$(/l)和$(l:bees/solitary/neon_cuckoo)霓虹杜鵑蜂$(/l)配種而得。$(br)需安裝模組： Mekanism",
+            "anchor": "鋨",
             "flag": "productivebees:osmium"
         },
         {
             "type": "實體",
-            "name": "Osmium Bee",
+            "name": "鋨礦蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:osmium'}",
             "flag": "productivebees:osmium"
         },
         {
             "type": "text",
-            "title": "Platinum Bee",
-            "text": "Bred from a $(l:bees/hive/gold)Gold Bee$(/l) and a $(l:bees/wild/ender)Ender Bee$(/l).",
-            "anchor": "platinum",
+            "title": "鉑礦蜂",
+            "text": "由$(l:bees/hive/gold)金礦蜂$(/l)和$(l:bees/wild/ender)終界蜂$(/l)配種而得。",
+            "anchor": "鉑礦",
             "flag": "productivebees:platinum"
         },
         {
             "type": "實體",
-            "name": "Platinum Bee",
+            "name": "鉑礦蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:platinum'}",
             "flag": "productivebees:platinum"
         },
         {
             "type": "text",
-            "title": "Radioactive Bee",
-            "text": "Bred from an $(l:bees/hive/iron)Iron Bee$(/l) and a $(l:bees/bees/hive/creeper)Creeper Bee$(/l).",
-            "anchor": "radioactive",
+            "title": "放射性蜂",
+            "text": "由$(l:bees/hive/iron)鐵礦蜂$(/l)和$(l:bees/bees/hive/creeper)苦力怕蜂$(/l)配種而得。",
+            "anchor": "放射性",
             "flag": "productivebees:radioactive"
         },
         {
             "type": "實體",
-            "name": "Radioactive Bee",
+            "name": "放射性蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:radioactive'}",
             "flag": "productivebees:radioactive"
         },
         {
             "type": "text",
-            "title": "Signalum Bee",
-            "text": "Bred from a $(l:bees/modded/ingot_bees#silver)Silver Bee$(/l) and an $(l:bees/modded/ingot_bees#copper)Copper Bee$(/l).",
-            "anchor": "signalum",
+            "title": "信素蜂",
+            "text": "由$(l:bees/modded/ingot_bees#silver)銀礦蜂$(/l)和$(l:bees/modded/ingot_bees#copper)銅礦蜂$(/l).",
+            "anchor": "信素",
             "flag": "productivebees:signalum"
         },
         {
             "type": "entity",
-            "name": "Signalum Bee",
+            "name": "信素蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:signalum'}",
             "flag": "productivebees:signalum"
         },
         {
             "type": "text",
-            "title": "Silver Bee",
-            "text": "Bred from an $(l:bees/hive/iron)Iron Bee$(/l) and a $(l:bees/solitary/mason)Mason Bee$(/l).",
-            "anchor": "silver",
+            "title": "銀礦蜂",
+            "text": "由$(l:bees/hive/iron)鐵礦蜂$(/l)和$(l:bees/solitary/mason)壁蜂 $(/l)配種而得。",
+            "anchor": "銀",
             "flag": "productivebees:silver"
         },
         {
             "type": "entity",
-            "name": "Silver Bee",
+            "name": "銀礦蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:silver'}",
             "flag": "productivebees:silver"
         },
         {
             "type": "text",
-            "title": "Steel Bee",
-            "text": "Bred from an $(l:bees/hive/iron)Iron Bee$(/l) and a $(l:bees/hive/coal)Coal Bee$(/l).",
-            "anchor": "steel",
+            "title": "鋼蜂",
+            "text": "由$(l:bees/hive/iron)鐵礦蜂$(/l)和$(l:bees/hive/coal)煤炭蜂$(/l)配種而得。",
+            "anchor": "鋼",
             "flag": "productivebees:steel"
         },
         {
             "type": "entity",
-            "name": "Steel Bee",
+            "name": "鋼鐵蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:steel'}",
             "flag": "productivebees:steel"
         },
         {
             "type": "text",
-            "title": "Tin Bee",
-            "text": "Bred from a $(l:bees/wild/crystalline)Crystalline Bee$(/l) and an $(l:bees/solitary/ashy_mining)Ashy Mining Bee$(/l).",
-            "anchor": "tin",
+            "title": "錫礦蜂",
+            "text": "由$(l:bees/wild/crystalline)石英蜂$(/l)和$(l:bees/solitary/ashy_mining)灰色採礦蜂$(/l)配種而得。",
+            "anchor": "錫",
             "flag": "productivebees:tin"
         },
         {
             "type": "entity",
-            "name": "Tin Bee",
+            "name": "錫礦蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:tin'}",
             "flag": "productivebees:tin"
         },
         {
             "type": "text",
-            "title": "Titanium Bee",
-            "text": "Bred from an $(l:bees/hive/iron)Iron Bee$(/l) and a $(l:bees/bees/hive/diamond)Diamond Bee$(/l).",
-            "anchor": "titanium",
+            "title": "鈦礦蜂",
+            "text": "由$(l:bees/hive/iron)鐵礦蜂$(/l)和$(l:bees/bees/hive/diamond)鑽石蜂$(/l)配種而得。",
+            "anchor": "鈦",
             "flag": "productivebees:titanium"
         },
         {
             "type": "entity",
-            "name": "Titanium Bee",
+            "name": "鈦礦蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:titanium'}",
             "flag": "productivebees:titanium"
         },
         {
             "type": "text",
-            "title": "Tungsten Bee",
-            "text": "Bred from a $(l:bees/hive/coal)Coal Bee$(/l) and a $(l:bees/wild/ender)Ender Bee$(/l).",
-            "anchor": "tungsten",
+            "title": "鎢礦",
+            "text": "由$(l:bees/hive/coal)煤炭蜂$(/l)和$(l:bees/wild/ender)終界蜂$(/l)配種而得。",
+            "anchor": "鎢",
             "flag": "productivebees:tungsten"
         },
         {
             "type": "entity",
-            "name": "Tungsten Bee",
+            "name": "鎢礦蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:tungsten'}",
             "flag": "productivebees:tungsten"
         },
         {
             "type": "text",
             "title": "鋅蜜蜂",
-            "text": "Bred from an $(l:bees/hive/iron)Iron Bee$(/l) and a $(l:bees/solitary/sweat)Sweat Bee$(/l).",
+            "text": "由$(l:bees/hive/iron)鐵礦蜂$(/l)和$(l:bees/solitary/sweaty)汗水蜂$(/l)配種而得。",
             "anchor": "鋅",
             "flag": "productivebees:zinc"
         },

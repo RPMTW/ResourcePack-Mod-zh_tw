@@ -89,7 +89,8 @@
       "type": "tooltip",
       "tooltip": [
         "花費LP：#syphon#",
-        "所需時間 : #time# ticks"
+        "所需時間 : #time# ticks",
+        "Tier: #tier#+"
       ],
       "x": 69,
       "y": 8,

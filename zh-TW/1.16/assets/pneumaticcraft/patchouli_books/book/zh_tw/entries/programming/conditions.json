@@ -1,0 +1,74 @@
+{
+  "name": "條件",
+  "icon": "minecraft:comparator",
+  "category": "programming",
+  "advancement": "pneumaticcraft:programmer",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(thing)條件/$是一系列允許你檢查某些事情，並且當條件滿足時跳轉到程序的某一部分的程式拼圖。$(p)每個$(thing)條件/$拼圖都在最下排接受$(l:programming/text)文字/$拼圖參數，設定為對應的$(thing)標籤名/$。"
+    },
+    {
+      "type": "text",
+      "text": "當條件執行為$(thing)真/$時，$(l:programming/flow_control)程序執行流/$將會跳轉到具有對應於$(italic)右/$側連接的$(thing)文字/$參數的標籤名的$(l:programming/label)標籤/$。當條件執行為$(thing)假/$時，$(thing)程序執行流/$將將會跳轉到具有對應於$(italic)左/$側連接的$(thing)文字/$參數的標籤名的$(thing)標籤/$。$(p)當$(thing)條件/$拼圖無法找到可行的$(thing)文字/$參數時，$(thing)程序執行流/$將會繼續向$(italic)下/$執行下一拼圖。"
+    },
+    {
+      "type": "image",
+      "images": [
+        "pneumaticcraft:textures/patchouli/condition_widget.png"
+      ],
+      "border": "true",
+      "text": "$(italic)一個在紅石信號 >= 10 時使無人機自殺的條件：紅石拼圖/$"
+    },
+    {
+      "type": "text",
+      "text": "多數$(thing)條件/$拼圖可以$(thing)右擊/$打開一個設定介面。介面通常會含有 =/>= 運算選項，以及一個可以輸入數字的文字框。$(p)基於此你可以設定好條件（例如儲物箱內的物品數）為，例如，正好 10 個（= 模式，輸入 10），大於 20 個（>= 模式，輸入 21）或者小於 12 個（>= 模式，輸入 12，檢查條件為$(thing)假/$）。"
+    },
+    {
+      "type": "text",
+      "title": "Measuring",
+      "text": "All $(thing)Condition/$ widget GUI's (except $(l:programming/condition_item_filter)Condition: Item Filter/$) have a $(thing)Measure/$ textfield, where you can enter the name of a $(l:programming/variables)variable/$. If a variable name is supplied here, any measurement made by the drone will be stored in the X field of the variable.$(p)This can then be later used like any other variable, e.g. you could measure the level of a fluid tank, and write it on a sign."
+    },
+    {
+      "type": "text",
+      "title": "Measuring (cont.)",
+      "text": "If a measuring variable name is supplied, then it's no longer an error to have no branching Text widgets on the Condition widget (normally at least one branch is required). This means that the Condition widget can be used purely to measure a quantity; execution will just proceed downwards as normal.$(p)Note: pressure measurement conditions store the measured pressure in millibars (e.g. 5.5 bars would be 5500)."
+    },
+    {
+      "type": "text",
+      "title": "Condition Types",
+      "text": "Conditions can be divided into two categories: $(thing)Basic Conditions/$ and $(thing)Drone Conditions/$.$(p)Basic Conditions are used to check for things in the world, e.g. does a $(item)Chest/$ have a certain number of items, or does a block exist somewhere?$(p)$(thing)Drone Conditions/$ specifically target the $(l:tools/drone)Drone/$, e.g. does the Drone have a certain item, or have a certain pressure?"
+    },
+    {
+      "type": "text",
+      "text": "All block-based $(thing)Basic Conditions/$ have an $(thing)Any/All/$ block option. This is used when you're checking multiple blocks at a time.$(li)In $(thing)Any/$ mode, only $(italic)one/$ of the blocks in the selected $(l:programming/area)area/$ needs to match for the condition to be $(thing)true/$.$(li)In $(thing)All/$ mode, $(italic)all/$ blocks must match for the condition to be $(thing)true/$."
+    },
+    {
+      "type": "relations",
+      "title": "Basic Conditions",
+      "entries": [
+        "programming/condition_block",
+        "programming/condition_coordinate",
+        "programming/condition_entity",
+        "programming/condition_item_filter",
+        "programming/condition_item_inventory",
+        "programming/condition_liquid_inventory",
+        "programming/condition_pressure",
+        "programming/condition_redstone",
+        "programming/condition_rf"
+      ]
+    },
+    {
+      "type": "relations",
+      "title": "Drone Conditions",
+      "entries": [
+        "programming/drone_condition_item",
+        "programming/drone_condition_liquid",
+        "programming/drone_condition_entity",
+        "programming/drone_condition_pressure",
+        "programming/drone_condition_rf"
+      ]
+    }
+  ]
+}
+

@@ -3837,5 +3837,10 @@
     "block.structurize.yellow_clay_shingle_slab": "黃色黏土屋瓦半磚",
     "block.structurize.yellow_clay_spruce_shingle": "黃色黏土 杉木屋瓦",
     "block.structurize.yellow_clay_warped_shingle": "黃色黏土 扭曲蕈木屋瓦",
-    "block.structurize.yellow_floating_carpet": "黃色浮毯"
+    "block.structurize.yellow_floating_carpet": "黃色浮毯",
+    "com.ldtteam.structurize.gui.scantool.outsideanchor": "Skipping anchor outside of selected area, select a new one if you want to set one",
+    "com.ldtteam.structurize.gui.scantool.scanbadanchor": "Schematic %s has more than one possible anchor position, please select one",
+    "structurize.gui.replaceblock.null_placement": "Replacement with target block \"%s\" may not work under certain conditions.",
+    "structurize.config.iteratortype": "The iteration order on structure placement",
+    "structurize.config.iteratortype.comment": "Currently supports 'default', 'inwardcircle', 'hilbert', 'random' and 'inwardcircleheight1' to 'inwardcircleheight4' "
 }

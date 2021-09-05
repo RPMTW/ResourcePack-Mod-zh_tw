@@ -1,0 +1,23 @@
+{
+  "name": "條件：坐標",
+  "icon": "pneumaticcraft:textures/progwidgets/condition_coordinate_piece.png",
+  "category": "widget_cond",
+  "advancement": "pneumaticcraft:programmer",
+  "pages": [
+    {
+      "type": "text",
+      "text": "這是一個$(l:programming/conditions)條件/$拼圖。$(p)$(thing)條件：坐標/$對兩個$(l:programming/coordinate)坐標/$進行比較。可以對坐標進行不同的比較，準確而言，是對坐標在各個坐標軸（X/Y/Z）的分量比較。可以檢查兩個坐標是否有一個坐標軸上的分量，或者兩個，或者三個都符合特定條件。"
+    },
+    {
+      "type": "text",
+      "text": "要進行比較的坐標軸可以在設定介面中的複選框指定。類似的，要使用的條件（=，>=）可以由單選框指定。$(p)選定的坐標比較同樣以文字顯示於設定介面中（例：$(thing)x1 <= x2 且 z1 <= z1/$）。"
+    },
+    {
+      "type": "image",
+      "images": [
+        "pneumaticcraft:textures/progwidgets/condition_coordinate_piece.png"
+      ],
+      "text": "$(italic)條件：坐標/$"
+    }
+  ]
+}

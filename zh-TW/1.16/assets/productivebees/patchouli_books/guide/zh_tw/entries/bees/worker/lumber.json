@@ -1,5 +1,5 @@
 {
-    "name": "Lumber Bee",
+    "name": "伐木蜂",
     "icon": "minecraft:wooden_axe",
     "read_by_default": true,
     "sortnum": 3,
@@ -7,8 +7,8 @@
     "pages": [
         {
             "type": "text",
-            "title": "Lumber Bee",
-            "text": "Nibble on nearby wood and collects wood chips in its hive. Wood chips can be crafted into logs."
+            "title": "伐木蜂",
+            "text": "啃食附近的木頭並在蜂巢中收集木屑。 木片可以製作成原木。"
         },
         {
             "type": "entity",

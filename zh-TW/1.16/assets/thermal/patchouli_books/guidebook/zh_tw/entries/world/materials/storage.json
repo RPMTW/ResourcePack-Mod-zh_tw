@@ -5,18 +5,19 @@
     "category": "thermal:materials",
     "pages": [
         {
+            "flag": "!mod:thermal_expansion",
             "type": "text",
             "text": "Thermal adds storage blocks for all of its $(l:thermal:world/ores)ores$(/l) and $(l:thermal:materials/alloys)alloys$(/l), as well as gunpowder, slag, rich slag, and charcoal. With storage blocks from other mods, Thermal follows a convention where the center item in the crafting recipe determines which mod's storage block to craft. For example, surrounding a Thermal copper ingot with 8 Immersive Engineering copper ingots will craft a Thermal copper block."
         },
         {
-            "type": "合成",
-            "recipe": "thermal:storage/charcoal_block",
-            "recipe2": "thermal:storage/gunpowder_block"
+            "flag": "mod:thermal_expansion",
+            "type": "text",
+            "text": "Thermal adds storage blocks for all of its $(l:thermal:world/ores)ores$(/l) and $(l:thermal:materials/alloys)alloys$(/l), as well as gunpowder, slag, rich slag, and charcoal. These can be automatically packed/unpacked with the $(l:thermal:technology/machines/press)multiservo press$(/l)."
         },
         {
-            "type": "合成",
-            "recipe": "thermal:storage/slag_block",
-            "recipe2": "thermal:storage/rich_slag_block"
+            "flag": "mod:thermal_expansion",
+            "type": "text",
+            "text": "With storage blocks from other mods, Thermal follows a convention where the center item in the crafting recipe determines which mod's storage block to craft. For example, surrounding a Thermal copper ingot with 8 Immersive Engineering copper ingots will craft a Thermal copper block."
         },
         {
             "type": "合成",
@@ -50,6 +51,16 @@
         },
         {
             "type": "合成",
+            "recipe": "thermal:storage/constantan_block",
+            "recipe2": "thermal:storage/signalum_block"
+        },
+        {
+            "type": "crafting",
+            "recipe": "thermal:storage/lumium_block",
+            "recipe2": "thermal:storage/enderium_block"
+        },
+        {
+            "type": "crafting",
             "recipe": "thermal:storage/constantan_block",
             "recipe2": "thermal:storage/signalum_block"
         },

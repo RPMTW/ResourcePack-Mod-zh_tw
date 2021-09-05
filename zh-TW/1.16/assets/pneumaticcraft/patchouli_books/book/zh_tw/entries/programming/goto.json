@@ -1,0 +1,19 @@
+{
+  "name": "去往位置",
+  "icon": "pneumaticcraft:textures/progwidgets/goto_piece.png",
+  "category": "widget_interact",
+  "advancement": "pneumaticcraft:programmer",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(thing)去往位置/$的操作很簡單：$(l:tools/drone)無人機/$將會前往給定$(thing)區域/$內最近的可到達的位置。$(p)$(ttcolor)$(t:可以設定該拼圖立刻結束執行；右擊調出設定介面)當無人機到達指定區域/$，或該區域無法到達時，結束該拼圖。"
+    },
+    {
+      "type": "image",
+      "images": [
+        "pneumaticcraft:textures/progwidgets/goto_piece.png"
+      ],
+      "text": "$(italic)去往位置/$"
+    }
+  ]
+}

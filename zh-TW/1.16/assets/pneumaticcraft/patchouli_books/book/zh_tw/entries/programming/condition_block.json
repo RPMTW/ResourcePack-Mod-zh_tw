@@ -1,0 +1,23 @@
+{
+  "name": "條件：方塊",
+  "icon": "pneumaticcraft:textures/progwidgets/condition_block_piece.png",
+  "category": "widget_cond",
+  "advancement": "pneumaticcraft:programmer",
+  "pages": [
+    {
+      "type": "text",
+      "text": "這是一個$(l:programming/conditions)條件/$拼圖。$(p)$(thing)條件：方塊/$允許你檢查給定$(l:programming/area)區域/$內是否有給定方塊。例如，可以可以用此檢查一個區域內是否有成熟的作物。可以通過連接$(l:programming/item_filter)物品過濾器/$來指定有效方塊。"
+    },
+    {
+      "type": "text",
+      "text": "無人機將會檢查一個方塊是否可以被絲綢之觸，如果是，其將會檢查絲綢之觸下的方塊是否符合物品過濾。如果否，該方塊的掉落物將會被檢查。$(p)例如，可以把過濾器設為小麥，這樣，當小麥作物會掉落小麥時（即成熟），其將符合過濾。"
+    },
+    {
+      "type": "image",
+      "images": [
+        "pneumaticcraft:textures/progwidgets/condition_block_piece.png"
+      ],
+      "text": "$(italic)條件：方塊/$"
+    }
+  ]
+}

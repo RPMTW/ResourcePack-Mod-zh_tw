@@ -1,0 +1,34 @@
+{
+  "name": "攻擊實體",
+  "icon": "pneumaticcraft:textures/progwidgets/attack_piece.png",
+  "category": "widget_interact",
+  "advancement": "pneumaticcraft:programmer",
+  "pages": [
+    {
+      "type": "text",
+      "text": "The $(l:tools/drone)Drone/$ will attack every living creature within the area.$(p)Keep in mind that any $(l:programming/area)Area/$ widgets connected to this widget must have an area type of $(thing)Box/$; this is only supported shape. It's possible to create different shapes, though, by using whitelisting/blacklisting of areas."
+    },
+    {
+      "type": "text",
+      "title": "Filtering Entities",
+      "text": "可以通過作為$(l:base_concepts/entity_filter)實體過濾器/$的$(l:programming/text)文字/$過濾要被攻擊的實體。例如，要使$(item)無人機/$攻擊所有玩家，在$(thing)攻擊實體/$拼圖的$(italic)右/$側連接寫有$(#600)@player/$的$(thing)文字/$拼圖。$(p)要使無人機不攻擊自己，在$(italic)左/$側連接寫有自己的玩家名的$(thing)文字/$拼圖。"
+    },
+    {
+      "type": "text",
+      "title": "Melee Attacks",
+      "text": "$(l:tools/drone)無人機/$將會裝備並使用物品欄中任何的近戰武器進行攻擊。如果$(item)無人機/$的物品欄裡有多個武器，其將會選擇傷害值最大的那一個。$(p)可以使用$(l:programming/inventory_import)從容器提取物品/$為$(item)無人機/$提供武器。這是強烈建議的：$(item)無人機/$未攜帶武器的近戰攻擊很弱。"
+    },
+    {
+      "type": "text",
+      "title": "Ranged Attacks",
+      "text": "By inserting an $(l:base_concepts/upgrades#minigun)Minigun Upgrade/$ into the $(l:tools/drone)Drone/$, it will have a $(l:tools/minigun)Minigun/$ attached to it. When provided with $(l:tools/minigun_ammo)Gun Ammo/$ (using an $(l:programming/inventory_import)Inventory Import/$ widget) the $(item)Drone/$ will use this Minigun to perform ranged attacks on its foes.$(p)The default range is 16 blocks, which can be upgraded by inserting up to 16 $(l:base_concepts/upgrades#range_upgrade)Range Upgrades/$, for a maximum range of 32 blocks."
+    },
+    {
+      "type": "image",
+      "images": [
+        "pneumaticcraft:textures/progwidgets/attack_piece.png"
+      ],
+      "text": "$(italic)我會回來的/$"
+    }
+  ]
+}

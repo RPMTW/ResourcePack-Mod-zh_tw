@@ -1,0 +1,19 @@
+{
+  "name": "傳送",
+  "icon": "pneumaticcraft:textures/progwidgets/teleport_piece.png",
+  "category": "widget_interact",
+  "advancement": "pneumaticcraft:programmer",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(thing)傳送/$是開銷更大的（按照消耗$(l:base_concepts/pressure)空氣/$用量）$(l:programming/goto)去往位置/$，但也很直接：$(l:tools/drone)無人機/$將傳送到指定$(l:programming/area)區域/$內最近的位置。$(p)$(item)無人機/$使用 10000mL 空氣以傳送，而這也是未升級的$(item)無人機/$的容量，所以建議安裝$(l:base_concepts/upgrades#volume)容量升級/$。"
+    },
+    {
+      "type": "image",
+      "images": [
+        "pneumaticcraft:textures/progwidgets/teleport_piece.png"
+      ],
+      "text": "$(italic)現在我在這裡。現在我在那裡。/$"
+    }
+  ]
+}

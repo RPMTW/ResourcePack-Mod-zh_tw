@@ -1,0 +1,105 @@
+{
+  "name": "Noodles and Rice",
+  "icon": "farmersdelight:pasta_with_meatballs",
+  "category": "recipes",
+  "sortnum": "2",
+  "pages": [
+    {
+      "type": "crafting_table",
+      "foodname": "Raw Pasta",
+      "item1": "minecraft:egg",
+      "item2": "minecraft:wheat",
+      "item4": "minecraft:wheat",
+      "finalitem": "farmersdelight:raw_pasta",
+      "hunger_amount": "x1,5",
+      "saturation_amount": "x1,5",
+      "effect": "Random $(4)Hunger$()(0:30)"
+    },
+    {
+      "type": "cooking_pot",
+      "foodname": "Cooked Rice",
+      "item1": "farmersdelight:rice",
+      "finalitem": "farmersdelight:cooked_rice",
+      "container": "minecraft:bowl",
+      "hunger_amount": "x3",
+      "saturation_amount": "x2,5",
+      "effect": "$(l:basics/effects)$(9)Comfort$()(1:00)"
+    },
+    {
+      "type": "cooking_pot",
+      "foodname": "Vegetable Noodles",
+      "item1": "minecraft:carrot",
+      "item2": "minecraft:brown_mushroom",
+      "item3": "farmersdelight:raw_pasta",
+      "item4": "farmersdelight:cabbage,farmersdelight:cabbage_leaf",
+      "item5": "minecraft:carrot,minecraft:potato,minecraft:beetroot,farmersdelight:onion,farmersdelight:tomato",
+      "finalitem": "farmersdelight:vegetable_noodles",
+      "container": "minecraft:bowl",
+      "hunger_amount": "x7",
+      "saturation_amount": "x13",
+      "effect": "$(l:basics/effects)$(#FFB100)Nourished$()(8:00)"
+    },
+    {
+      "type": "cooking_pot",
+      "foodname": "Squid Ink Pasta",
+      "item1": "minecraft:cod,farmersdelight:cod_slice,minecraft:salmon,farmersdelight:salmon_slice,minecraft:tropical_fish",
+      "item2": "farmersdelight:raw_pasta",
+      "item3": "farmersdelight:tomato",
+      "item4": "minecraft:ink_sac",
+      "finalitem": "farmersdelight:squid_ink_pasta",
+      "container": "minecraft:bowl",
+      "hunger_amount": "x7",
+      "saturation_amount": "x13",
+      "effect": "$(l:basics/effects)$(#FFB100)Nourished$()(8:00)"
+    },
+    {
+      "type": "cooking_pot",
+      "foodname": "PastaWith Meatballs",
+      "item1": "farmersdelight:minced_beef",
+      "item2": "farmersdelight:raw_pasta",
+      "item3": "farmersdelight:tomato_sauce",
+      "finalitem": "farmersdelight:pasta_with_meatballs",
+      "container": "minecraft:bowl",
+      "hunger_amount": "x6",
+      "saturation_amount": "x11",
+      "effect": "$(l:basics/effects)$(#FFB100)Nourished$()(8:00)"
+    },
+    {
+      "type": "cooking_pot",
+      "foodname": "Pasta With Mutton Chops",
+      "item1": "minecraft:mutton",
+      "item2": "farmersdelight:raw_pasta",
+      "item3": "farmersdelight:tomato_sauce",
+      "finalitem": "farmersdelight:pasta_with_mutton_chop",
+      "container": "minecraft:bowl",
+      "hunger_amount": "x6",
+      "saturation_amount": "x11",
+      "effect": "$(l:basics/effects)$(#FFB100)Nourished$()(8:00)"
+    },
+    {
+      "type": "cooking_pot",
+      "foodname": "Fried Rice",
+      "item1": "farmersdelight:",
+      "item2": "minecraft:egg",
+      "item3": "minecraft:carrot",
+      "item4": "farmersdelight:onion",
+      "finalitem": "farmersdelight:fried_rice",
+      "container": "minecraft:bowl",
+      "hunger_amount": "x5",
+      "saturation_amount": "x8",
+      "effect": "$(l:basics/effects)$(#FFB100)Nourished$()(4:00)"
+    },
+    {
+      "type": "cooking_pot",
+      "foodname": "Dumplings",
+      "item1": "farmersdelight:raw_pasta",
+      "item2": "farmersdelight:cabbage,farmersdelight:cabbage_leaf",
+      "item3": "farmersdelight:onion",
+      "item4": "minecraft:chicken,farmersdelight:chicken_cuts,minecraft:porkchop,farmersdelight:bacon,minecraft:brown_mushroom",
+      "finalitem": "farmersdelight:dumplings",
+      "hunger_amount": "x4",
+      "saturation_amount": "x6,5",
+      "effect": "none"
+    }
+  ]
+}

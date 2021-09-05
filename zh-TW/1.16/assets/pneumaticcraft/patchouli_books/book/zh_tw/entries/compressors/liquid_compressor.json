@@ -1,0 +1,17 @@
+{
+  "name": "流體壓縮機",
+  "icon": "pneumaticcraft:liquid_compressor",
+  "category": "compressors",
+  "advancement": "pneumaticcraft:pressure_tube",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(item)流體壓縮機/$是一個簡單的壓縮機，產生$(l:base_concepts/pressure)壓縮空氣/$。其消耗液體燃料做到這一點；可在$(bold)可用燃料/$標籤頁查看可用的燃料與其各自的效率。註：「燃料」包括熔岩等高溫液體。"
+    },
+    {
+      "type": "crafting",
+      "text": "$(item)流體壓縮機/$的合成表",
+      "recipe": "pneumaticcraft:liquid_compressor"
+    }
+  ]
+}

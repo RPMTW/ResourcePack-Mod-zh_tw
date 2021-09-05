@@ -6,43 +6,12 @@
     {
       "type": "multiblock",
       "name": "磁引儀式",
-      "multiblock": {
-        "pattern": [
-          [
-            "__F__",
-            "_____",
-            "F___F",
-            "_____",
-            "__F__"
-          ],
-          [
-            "A_E_A",
-            "_____",
-            "E___E",
-            "_____",
-            "A_E_A"
-          ],
-          [
-            "_____",
-            "_E_E_",
-            "__0__",
-            "_E_E_",
-            "_____"
-          ]
-        ],
-        "mapping": {
-          "0": "bloodmagic:masterritualstone",
-          "A": "bloodmagic:airritualstone",
-          "F": "bloodmagic:fireritualstone",
-          "E": "bloodmagic:earthritualstone"
-        },
-        "symetrical": true
-      },
+      "multiblock_id": "bloodmagic:magnetism",
       "text": "Use a $(l:bloodmagic:rituals/ritual_diviner)Ritual Diviner$(/l) for easier construction."
     },
     {
       "type": "text",
-      "text": "Pulls up ores from the ground below and puts them into its placement range.$(br2)$(air)Air Runes: 4$(br)$(fire)Fire Runes: 4$(br)$(earth)Earth Runes: 8$(br2)$()Total Runes: 16"
+      "ritual": "magnetism"
     },
     {
       "type": "text",
@@ -50,9 +19,14 @@
     },
     {
       "type": "spotlight",
-      "item": "bloodmagic:ritualtinkerer",
-      "title": "範圍",
-      "text": "(Placement) The range that the ritual will place the grabbed ores into. $(br) $(li)Maximum Volume: 50 $(li)Horizontal Radius: 4 $(li)Vertical Radius: 4"
+      "ritual": "magnetism",
+      "page_type": "placementRange",
+      "text_overrides": [
+        [
+          "ores",
+          "item"
+        ]
+      ]
     }
   ]
 }

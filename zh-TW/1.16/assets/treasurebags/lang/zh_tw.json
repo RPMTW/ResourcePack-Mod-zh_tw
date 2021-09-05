@@ -1,0 +1,17 @@
+{
+    "bag.treasurebags.dungeon": "Dungeon Bag",
+    "bag.treasurebags.ender": "Ender Bag",
+    "bag.treasurebags.food": "Takeout Bag",
+    "bag.treasurebags.ingots": "Smelter's Party Bag",
+    "bag.treasurebags.literacy": "Literacy Bag",
+    "bag.treasurebags.nature": "Nature Bag",
+    "bag.treasurebags.player": "Player Bag",
+    "bag.treasurebags.spawn": "First Spawn Bag",
+    "bag.treasurebags.sticks_and_stones": "Sticks and Stones Bag",
+    "command.treasurebags.give.invalid": "無效背包類型: %s",
+    "command.treasurebags.give.success": "把 %1$sx %2$s 給予 %3$s",
+    "item.treasurebags.treasure_bag": "寶箱",
+    "item.treasurebags.treasure_bag.invalidType": "無效類型",
+    "item.treasurebags.treasure_bag.type": "類型:§r %s",
+    "item.treasurebags.treasure_bag.unknownType": "未知類型"
+}

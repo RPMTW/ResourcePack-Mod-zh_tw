@@ -1,0 +1,30 @@
+{
+  "name": "調節器管道模組",
+  "icon": "pneumaticcraft:regulator_tube_module",
+  "category": "tubes",
+  "advancement": "pneumaticcraft:pressure_tube",
+  "pages": [
+    {
+      "type": "text",
+      "text": "The Regulator Tube Module is an $(l:tubes/tube_modules#inline)inline/$ module used to limit the $(l:base_concepts/pressure)pressure/$ allowed through the tube. By default, the module will regulate the pressure to 4.9 bar (for both basic and advanced tubes) with no redstone signal, reducing toward 0 as the signal rises toward 15. This means a lever right beside a regulator closes it, preventing any air flow through it."
+    },
+    {
+      "type": "text",
+      "text": "模組的窄側達到這一壓力時，模組將阻止空氣流過該管道。這一點可以被用作「$(thing)變壓器/$」：輸入（寬）側為高壓空氣，但調節器管道模組將輸出端的壓力限制到閾值壓力。$(p)這可以用於用高壓氣網供應低壓氣網。"
+    },
+    {
+      "type": "text",
+      "text": "Interestingly, the $(thing)Regulator Module/$ allows unrestricted flow of air in the opposite direction (from the narrow side to the wide side) regardless of the redstone signal; this means a regulator with a full redstone signal can be used as a one-way valve.$(p)Note that the $(thing)Regulator/$ does $(italic)not/$ actively reduce pressure on its narrow side; it only prevents air flow if the pressure would rise above the threshold."
+    },
+    {
+      "type": "text",
+      "title": "高級印刷電路板",
+      "text": "When you apply an $(l:tubes/advanced_pcb)Advanced PCB/$ to the Regulator Module, the module gains a GUI providing far more control over the threshold level. You can set a precise threshold in the GUI, or with the $(bold)Advanced Config/$ checkbox, configure interpolated threshold levels based on the redstone signal. This functions exactly like the $(l:tubes/safety_module)Safety Module/$."
+    },
+    {
+      "type": "crafting",
+      "text": "調節器管道模組的合成表",
+      "recipe": "pneumaticcraft:regulator_tube_module"
+    }
+  ]
+}

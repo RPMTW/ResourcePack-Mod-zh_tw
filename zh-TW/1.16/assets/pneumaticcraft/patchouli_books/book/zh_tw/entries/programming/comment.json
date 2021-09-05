@@ -1,0 +1,19 @@
+{
+  "name": "注釋",
+  "icon": "pneumaticcraft:textures/progwidgets/comment_piece.png",
+  "category": "widget_other",
+  "advancement": "pneumaticcraft:programmer",
+  "pages": [
+    {
+      "type": "text",
+      "text": "該拼圖可用於向程序加入$(thing)注釋/$，並無功能上的影響。使用不消耗$(l:programming/puzzle_pieces)編程拼圖/$。"
+    },
+    {
+      "type": "image",
+      "images": [
+        "pneumaticcraft:textures/progwidgets/comment_piece.png"
+      ],
+      "text": "$(italic)注釋/$"
+    }
+  ]
+}

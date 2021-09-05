@@ -1,0 +1,19 @@
+{
+  "name": "待機",
+  "icon": "pneumaticcraft:textures/progwidgets/standby_piece.png",
+  "category": "widget_flow",
+  "advancement": "pneumaticcraft:programmer",
+  "pages": [
+    {
+      "type": "text",
+      "text": "當該拼圖被執行時，$(l:tools/drone)無人機/$將關閉螺旋漿並落到地上。這可以用於節約$(l:base_concepts/pressure)空氣/$，因為待機狀態下無人機並不消耗任何空氣。$(p)然而，$(thing)無人機/$會繼續執行其他拼圖；一旦所執行的拼圖需要進行工作，$(thing)無人機/$將會打開其螺旋槳。"
+    },
+    {
+      "type": "image",
+      "images": [
+        "pneumaticcraft:textures/progwidgets/standby_piece.png"
+      ],
+      "text": "$(italic)睡美人/$"
+    }
+  ]
+}

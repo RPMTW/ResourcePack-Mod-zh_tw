@@ -1,0 +1,12 @@
+{
+  "name": "Pump Card",
+  "icon": "rftoolsbuilder:shape_card_pump",
+  "category": "rftoolsbuilder:category_rftoolsbuilder_shape_cards",
+  "sortnum": 50,
+  "pages": [
+    {
+      "type": "text",
+      "text": "The Pump Card can be used to pump quarries by the Builder"
+    }
+  ]
+}

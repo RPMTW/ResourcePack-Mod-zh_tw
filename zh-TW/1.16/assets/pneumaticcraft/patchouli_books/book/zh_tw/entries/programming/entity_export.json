@@ -1,0 +1,19 @@
+{
+  "name": "卸載實體",
+  "icon": "pneumaticcraft:textures/progwidgets/entity_export_piece.png",
+  "category": "widget_interact",
+  "advancement": "pneumaticcraft:programmer",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(l:tools/drone)無人機/$將會去往指定$(l:programming/area)區域/$，並將其所搭載的實體卸載，在該實體符合可選的由$(l:programming/text)文字/$拼圖指定的$(l:base_concepts/entity_filter)實體過濾器/$的前提下。$(p)亦見$(l:programming/entity_import)搭載實體/$。"
+    },
+    {
+      "type": "image",
+      "images": [
+        "pneumaticcraft:textures/progwidgets/entity_export_piece.png"
+      ],
+      "text": "$(italic)卸載實體/$"
+    }
+  ]
+}

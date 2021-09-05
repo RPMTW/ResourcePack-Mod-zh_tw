@@ -1,0 +1,19 @@
+{
+  "name": "條件：RF",
+  "icon": "pneumaticcraft:textures/progwidgets/condition_rf_piece.png",
+  "category": "widget_cond",
+  "advancement": "pneumaticcraft:programmer",
+  "pages": [
+    {
+      "type": "text",
+      "text": "這是一個$(l:programming/conditions)條件/$拼圖。$(p)$(thing)條件：RF/$允許你（遠程）檢查指定$(l:programming/area)區域/$內的方塊的$(thing)FE能量/$值是否達到指定值。$(p)$(italic)與其名字不同，該拼圖檢查FE能量，而非RF（紅石通量）。該拼圖的命名屬於歷史遺留問題。/$"
+    },
+    {
+      "type": "image",
+      "images": [
+        "pneumaticcraft:textures/progwidgets/condition_rf_piece.png"
+      ],
+      "text": "$(italic)條件：RF/$"
+    }
+  ]
+}

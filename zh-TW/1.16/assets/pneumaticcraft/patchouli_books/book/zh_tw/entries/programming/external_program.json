@@ -1,0 +1,23 @@
+{
+  "name": "外部程序",
+  "icon": "pneumaticcraft:textures/progwidgets/external_program_piece.png",
+  "category": "widget_flow",
+  "advancement": "pneumaticcraft:programmer",
+  "pages": [
+    {
+      "type": "text",
+      "text": "This widget will search for any inventory in the specified $(l:programming/area)Area/$. For every inventory, it will go through each slot. When a $(l:tools/drone)Drone/$ or $(l:components/network_components#network_api)Network API/$ is found, it will run the program stored on that item.$(p)When the program finishes, the $(item)Drone/$ will move onto the next slot and/or inventory."
+    },
+    {
+      "type": "text",
+      "text": "該拼圖可以用來除錯$(item)無人機/$程序，因為$(l:programming/programmer)編程器/$同樣算作容器。只需要編程一個指向一個（只）含有某$(item)編程器的$(thing)區域/$的$(thing)外部程序/$拼圖，然後將其放置。$(p)此後，向編程器內放置$(item)無人機/$或$(item)網路 API/$，並進行編程。點擊$(item)編程器/$中的$(thing)⟶（導出）/$按鈕時，已部署的$(item)無人機/$將會立刻執行該程序。"
+    },
+    {
+      "type": "image",
+      "images": [
+        "pneumaticcraft:textures/progwidgets/external_program_piece.png"
+      ],
+      "text": "$(italic)遞迴調用/$"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "對於每個坐標",
+  "icon": "pneumaticcraft:textures/progwidgets/for_each_coordinate.png",
+  "category": "widget_flow",
+  "advancement": "pneumaticcraft:programmer",
+  "pages": [
+    {
+      "type": "text",
+      "text": "這個高級拼圖將會對給定$(l:programming/area)區域/$內的每一個坐標進行遍歷。對於每個坐標，將會把$(ttcolor)$(t:右擊拼圖以調出設定介面指定這一變數)指定變數/$設定為這一坐標，並跳轉到標籤名匹配所連接的$(l:programming/text)文字/$的$(l:programming/label)標籤/$處。當跳轉後的進程結束執行時（到達了執行的盡頭，一般將要跳轉回$(l:programming/start)開始/$處時），程序流將返回該拼圖，並對下一坐標重複該操作。"
+    },
+    {
+      "type": "text",
+      "title": "跳出循環",
+      "text": "可以透過將$(thing)對於每個坐標/$使用的坐標變數設為 (0,0,0) 的方式跳出循環。控制流跳轉回$(thing)對於每個坐標/$時其將注意到這一變更並取消後繼遍歷。"
+    },
+    {
+      "type": "image",
+      "images": [
+        "pneumaticcraft:textures/progwidgets/for_each_coordinate.png"
+      ],
+      "text": "$(italic)對於每個坐標/$"
+    }
+  ]
+}

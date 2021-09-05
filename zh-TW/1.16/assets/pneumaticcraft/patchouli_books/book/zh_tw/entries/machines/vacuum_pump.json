@@ -1,0 +1,38 @@
+{
+  "name": "真空泵",
+  "icon": "pneumaticcraft:vacuum_pump",
+  "category": "machines",
+  "advancement": "pneumaticcraft:pressure_chamber",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(thing)真空泵/$用於製造...真空。要達到這一點，真空泵需要消耗$(l:base_concepts/pressure)壓縮空氣/$。$(p)正壓應當被施加到 $(#0c0)+ 側/$；到達最小工作壓力時，$(item)真空泵/$開始工作，$(#c00)- 側/$的壓力降低，最低為 -1.0 bar，即為真空。"
+    },
+    {
+      "type": "image",
+      "images": [
+        "pneumaticcraft:textures/patchouli/vacuum_pump.png"
+      ]
+    },
+    {
+      "type": "text",
+      "title": "套用",
+      "text": "The following uses exist for negative (vacuum) pressure:$(li)Disenchanting: place an $(item)enchanted item/$ or $(item)Enchanted Book/$ with more than one enchantment and a vanilla $(item)Book/$ in a $(l:manufacturing/pressure_chamber)Pressure Chamber/$ and give the chamber sufficient negative pressure. A random enchantment will transfer from the item to the book.$(li)The $(l:tubes/air_grate_module)Air Grate Module/$, when given negative pressure, will attract entities to itself."
+    },
+    {
+      "type": "text",
+      "title": "Applications (cont.)",
+      "text": "$(li)Both the $(l:spawning/vacuum_trap)Vacuum Trap/$ and $(l:spawning/spawner_extractor)Spawner Extractor/$, devices required for making and using $(l:spawning/pressurized_spawner)Pressurized Spawners/$, need negative pressure to operate."
+    },
+    {
+      "type": "crafting",
+      "text": "Creating a Vacuum Pump",
+      "recipe": "pneumaticcraft:vacuum_pump"
+    },
+    {
+      "type": "pneumaticcraft:pressure_chamber",
+      "header": "Vacuum Disenchanting",
+      "recipe": "pneumaticcraft:pressure_chamber/pressure_chamber_disenchanting"
+    }
+  ]
+}

@@ -1,16 +1,16 @@
 {
     "itemGroup.demagnetize": "消磁",
-    "block.demagnetize.demagnetizer": "Demagnetizer",
-    "block.demagnetize.demagnetizer_advanced": "Advanced Demagnetizer",
-    "label.demagnetize.demagnetizer.filter": "過濾器",
+    "block.demagnetize.demagnetizer": "消磁器",
+    "block.demagnetize.demagnetizer_advanced": "高級消磁器",
+    "label.demagnetize.demagnetizer.filter": "過濾",
     "label.demagnetize.demagnetizer.range": "範圍",
-    "label.demagnetize.demagnetizer.blacklist": "黑名單物品",
-    "label.demagnetize.demagnetizer.whitelist": "白名單物品",
-    "label.demagnetize.demagnetizer.rsignored": "紅石忽略",
-    "label.demagnetize.demagnetizer.rson": "紅石開啟",
-    "label.demagnetize.demagnetizer.rsoff": "紅石關閉",
-    "description.demagnetize.demagnetizer.1": "Demagnetizers prevent item magnets from various mods from picking up items around them.",
-    "description.demagnetize.demagnetizer.2": "They can be filtered or redstone controlled.",
-    "description.demagnetize.demagnetizer.3": "The Advanced Demagnetizer has a larger range and more filter slots.",
-    "tooltip.demagnetize.configured": "Configured, drop in water to clear"
+    "label.demagnetize.demagnetizer.blacklist": "黑名單",
+    "label.demagnetize.demagnetizer.whitelist": "白名單",
+    "label.demagnetize.demagnetizer.rsignored": "忽略紅石訊號",
+    "label.demagnetize.demagnetizer.rson": "紅石訊號開",
+    "label.demagnetize.demagnetizer.rsoff": "紅石訊號關",
+    "description.demagnetize.demagnetizer.1": "消磁器可以防止各種模組的物品磁鐵吸住周圍的物品。",
+    "description.demagnetize.demagnetizer.2": "它們可以設定過濾或紅石控制。",
+    "description.demagnetize.demagnetizer.3": "高級消磁器有更大的範圍和更多的過濾槽。",
+    "tooltip.demagnetize.configured": "將其扔進水中即可初始化設定"
 }

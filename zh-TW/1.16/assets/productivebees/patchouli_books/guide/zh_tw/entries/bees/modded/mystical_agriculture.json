@@ -1,5 +1,5 @@
 {
-    "name": "Mystical Agriculture",
+    "name": "神秘農業",
     "icon": "mysticalagriculture:infusion_altar",
     "read_by_default": true,
     "sortnum": 8,
@@ -8,7 +8,7 @@
     "pages": [
         {
             "type": "text",
-            "text": "Totally balanced bees for Mystical Agriculture and addons."
+            "text": "用於神秘農業以及附屬的完全平衡的蜜蜂。"
         },
         {
             "type": "empty",
@@ -16,105 +16,105 @@
         },
         {
             "type": "text",
-            "title": "ProsperiBee",
-            "text": "This bee cannot be bred. Spawn egg is crafted from a $(l:bees/mod/bees/mystical_agriculture#inferium)Inferium Bee(/l) spawn egg using an infusion altar.",
-            "anchor": "prosperity",
+            "title": "繁榮蜜蜂",
+            "text": "這個蜜蜂不能配種而得。其生怪蛋製作從$(l:bees/mod/bees/mystical_agriculture#inferium)下級精華$(/l)生怪蛋在注魔祭壇使用。",
+            "anchor": "活化水晶",
             "flag": "productivebees:prosperity"
         },
         {
             "type": "entity",
-            "name": "ProsperiBee",
+            "name": "活化水晶蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:prosperity'}",
             "flag": "productivebees:prosperity"
         },
         {
             "type": "text",
-            "title": "Soulium Bee",
-            "text": "Converted from a $(l:bees/wild/ghostly)Ghostly Bee$(/l) using a soulium dagger.",
-            "anchor": "soulium",
+            "title": "離魂礦蜂",
+            "text": "從$(l:bees/wild/ghostly)幽靈蜂$(/l)用離魂匕首轉換而得。",
+            "anchor": "離魂",
             "flag": "productivebees:soulium"
         },
         {
             "type": "entity",
-            "name": "Soulium Bee",
+            "name": "離魂礦蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:soulium'}",
             "flag": "productivebees:soulium"
         },
         {
             "type": "text",
-            "title": "Inferium Bee",
-            "text": "This bee cannot be bred. Spawn egg is crafted from a $(l:bees/mod/bees/mystical_agriculture#prosperity)ProsperiBee(/l) spawn egg using an infusion altar.",
-            "anchor": "inferium",
+            "title": "下級精華蜂",
+            "text": "這個蜜蜂不能配種而得。其生怪蛋製作從$(l:bees/mod/bees/mystical_agriculture#prosperity)活化水晶蜂$(/l)生怪蛋在注魔祭壇使用。",
+            "anchor": "下級精華",
             "flag": "productivebees:inferium"
         },
         {
             "type": "entity",
-            "name": "Inferium Bee",
+            "name": "下級精華蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:inferium'}",
             "flag": "productivebees:inferium"
         },
         {
             "type": "text",
-            "title": "Prudentium Bee",
-            "text": "This bee cannot be bred. Spawn egg is crafted from a $(l:bees/mod/bees/mystical_agriculture#inferium)Inferium Bee(/l) spawn egg using an infusion altar.",
-            "anchor": "prudentium",
+            "title": "初級精華蜂",
+            "text": "這個蜜蜂不能配種而得。其生怪蛋製作從$(l:bees/mod/bees/mystical_agriculture#inferium)下級精華$(/l)生怪蛋在注魔祭壇使用。",
+            "anchor": "初級精華",
             "flag": "productivebees:prudentium"
         },
         {
             "type": "entity",
-            "name": "Prudentium Bee",
+            "name": "初級精華蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:prudentium'}",
             "flag": "productivebees:prudentium"
         },
         {
             "type": "text",
-            "title": "Tertium Bee",
-            "text": "This bee cannot be bred. Spawn egg is crafted from a $(l:bees/mod/bees/mystical_agriculture#prudentium)Prudentium Bee(/l) spawn egg using an infusion altar.",
-            "anchor": "tertium",
+            "title": "中級精華蜂",
+            "text": "這個蜜蜂不能配種而得。其生怪蛋製作從$(l:bees/mod/bees/mystical_agriculture#prudentium)初級精華$(/l)生怪蛋在注魔祭壇使用。",
+            "anchor": "中級精華",
             "flag": "productivebees:tertium"
         },
         {
             "type": "entity",
-            "name": "Tertium Bee",
+            "name": "中級精華蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:tertium'}",
             "flag": "productivebees:tertium"
         },
         {
             "type": "text",
-            "title": "Imperium Bee",
-            "text": "This bee cannot be bred. Spawn egg is crafted from a $(l:bees/mod/bees/mystical_agriculture#tertium)Tertium Bee(/l) spawn egg using an infusion altar.",
-            "anchor": "imperium",
+            "title": "高級精華蜂",
+            "text": "這個蜜蜂不能配種而得。其生怪蛋製作從$(l:bees/mod/bees/mystical_agriculture#tertium)中級精華$(/l)生怪蛋在注魔祭壇使用。",
+            "anchor": "高級精華",
             "flag": "productivebees:imperium"
         },
         {
             "type": "實體",
-            "name": "Imperium Bee",
+            "name": "高級精華蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:imperium'}",
             "flag": "productivebees:imperium"
         },
         {
             "type": "text",
-            "title": "Supremium Bee",
-            "text": "This bee cannot be bred. Spawn egg is crafted from a $(l:bees/mod/bees/mystical_agriculture#imperium)Imperium Bee(/l) spawn egg using an infusion altar.",
-            "anchor": "supremium",
+            "title": "終極精華蜂",
+            "text": "這個蜜蜂不能配種而得。其生怪蛋製作從$(l:bees/mod/bees/mystical_agriculture#imperium)高級精華$(/l)生怪蛋在注魔祭壇使用。",
+            "anchor": "終極精華",
             "flag": "productivebees:supremium"
         },
         {
             "type": "實體",
-            "name": "Supremium Bee",
+            "name": "終極精華蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:supremium'}",
             "flag": "productivebees:supremium"
         },
         {
             "type": "text",
-            "title": "Insanium Bee",
-            "text": "This bee cannot be bred. Spawn egg is crafted from a $(l:bees/mod/bees/mystical_agriculture#supremium)supremium Bee(/l) spawn egg using an infusion altar.",
-            "anchor": "insanium",
+            "title": "究極精華蜂",
+            "text": "這個蜜蜂不能配種而得。其生怪蛋製作從$(l:bees/mod/bees/mystical_agriculture#supremium)終極精華蜂$(/l)生怪蛋在注魔祭壇使用。",
+            "anchor": "究極精華",
             "flag": "productivebees:insanium"
         },
         {
             "type": "實體",
-            "name": "Insanium Bee",
+            "name": "究極精華蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:insanium'}",
             "flag": "productivebees:insanium"
         }

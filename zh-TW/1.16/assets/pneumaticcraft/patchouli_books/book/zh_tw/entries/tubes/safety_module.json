@@ -1,0 +1,26 @@
+{
+  "name": "安全閥管道模組",
+  "icon": "pneumaticcraft:safety_tube_module",
+  "category": "tubes",
+  "advancement": "pneumaticcraft:pressure_tube",
+  "pages": [
+    {
+      "type": "text",
+      "text": "該模組限制管網中的$(l:base_concepts/pressure)壓力/$至特定值，防止$(thing)爆炸/$；過量的壓力會被釋放到空氣中，也就是說，$(thing)能量損失/$。因此，該模組最好配合$(l:tubes/pressure_gauge_module)壓力表管道模組/$，以適時發出紅石信號，關閉壓縮機。"
+    },
+    {
+      "type": "text",
+      "text": "The default threshold level of the $(item)Safety Module/$ is 0.1 bar below the tube's danger level:$(li)4.9 bar for basic $(item)Pressure Tubes/$$(li)19.9 bar for $(item)Advanced Pressure Tubes/$$(p)Note that this has changed since 1.12.2, where a redstone signal was required to set the threshold."
+    },
+    {
+      "type": "text",
+      "title": "高級印刷電路板",
+      "text": "When you apply an $(l:tubes/advanced_pcb)Advanced PCB/$ to the Safety Module, the module gains a GUI (right-click) providing far more control over the threshold level. You can set a precise threshold in the GUI, or with the $(bold)Advanced Config/$ checkbox, configure interpolated threshold levels based on the signal. This functions very much like the $(l:tubes/pressure_gauge_module#img)Pressure Gauge GUI/$, but in reverse."
+    },
+    {
+      "type": "crafting",
+      "text": "安全閥管道模組的合成表",
+      "recipe": "pneumaticcraft:safety_tube_module"
+    }
+  ]
+}

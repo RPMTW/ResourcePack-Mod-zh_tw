@@ -1,0 +1,23 @@
+{
+  "name": "向容器輸出物品",
+  "icon": "pneumaticcraft:textures/progwidgets/inventory_export_piece.png",
+  "category": "widget_interact",
+  "advancement": "pneumaticcraft:programmer",
+  "pages": [
+    {
+      "type": "text",
+      "text": "與$(l:programming/inventory_import)從容器提取物品/$相反：$(l:tools/drone)無人機/$將去往指定$(l:programming/area)區域/$內最近的容器，並將$(item)無人機/$物品欄中的物品移動到容器中。$(p)$(thing)右擊/$打開設定介面，在此可以指定無人機與容器應當互動的面。同樣可以在此指定一次傳輸的物品的最大數量。"
+    },
+    {
+      "type": "text",
+      "text": "也可以連接任意數目（包括0）個$(l:programming/item_filter)物品過濾器/$以限制可以被傳輸的物品。記住，$(italic)右側/$的物品過濾器作為白名單，$(italic)左側/$的物品過濾器作為黑名單。$(p)當$(item)無人機/$的物品欄為空，或指定區域內沒有可接受物品的容器時，結束執行該拼圖。"
+    },
+    {
+      "type": "image",
+      "images": [
+        "pneumaticcraft:textures/progwidgets/inventory_export_piece.png"
+      ],
+      "text": "$(italic)謝謝您嘞/$"
+    }
+  ]
+}

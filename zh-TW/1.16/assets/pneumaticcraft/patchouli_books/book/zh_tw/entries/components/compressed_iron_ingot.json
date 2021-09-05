@@ -1,0 +1,11 @@
+{
+  "name": "壓縮鐵錠",
+  "icon": "pneumaticcraft:ingot_iron_compressed",
+  "category": "components",
+  "pages": [
+    {
+      "type": "text",
+      "text": "見$(l:base_concepts/basic_materials#compressed_iron_ingot)基礎材料/$。"
+    }
+  ]
+}

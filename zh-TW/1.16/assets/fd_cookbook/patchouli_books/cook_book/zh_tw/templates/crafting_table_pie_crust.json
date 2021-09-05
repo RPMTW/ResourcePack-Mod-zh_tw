@@ -1,0 +1,66 @@
+{
+  "components": [
+    {
+      "type": "text",
+      "text": "#info",
+      "x": 3,
+      "y": 2
+    },
+    {
+      "type": "image",
+      "image": "fd_cookbook:textures/gui/crafting_table_recipe.png",
+      "x": 7,
+      "y": 90,
+      "width": 128,
+      "height": 128,
+      "texture_width": "128",
+      "texture_height": "128"
+    },
+    {
+      "type": "item",
+      "item": "minecraft:wheat",
+      "x": 9,
+      "y": 110
+    },
+    {
+      "type": "item",
+      "item": "minecraft:milk_bucket,farmersdelight:milk_bottle",
+      "x": 27,
+      "y": 110
+    },
+    {
+      "type": "item",
+      "item": "minecraft:wheat",
+      "x": 45,
+      "y": 110
+    },
+    {
+      "type": "item",
+      "item": "minecraft:wheat",
+      "x": 27,
+      "y": 128
+    },
+    {
+      "type": "item",
+      "item": "farmersdelight:pie_crust",
+      "x": 85,
+      "y": 110
+    },
+    {
+      "type": "separator",
+      "x": -1,
+      "y": 70
+    },
+    {
+      "type": "header",
+      "text": "Pie Crust",
+      "x": -1,
+      "y": 75
+    },
+    {
+      "type": "separator",
+      "x": -1,
+      "y": 85
+    }
+  ]
+}

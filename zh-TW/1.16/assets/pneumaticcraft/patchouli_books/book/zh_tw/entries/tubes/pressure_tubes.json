@@ -1,0 +1,40 @@
+{
+  "name": "壓力管道",
+  "icon": "pneumaticcraft:pressure_tube",
+  "category": "tubes",
+  "advancement": "pneumaticcraft:root",
+  "priority": "是",
+  "pages": [
+    {
+      "type": "text",
+      "text": "壓力管道是$(pncr)中用於在壓縮機和機器間傳輸壓縮空氣的主要設備。$(p)未連接的管道將會洩漏空氣！然而，管道的每一個面可以使用$(l:tools/pneumatic_wrench)氣動扳手/$被設定為連接或斷開。其餘模組的扳手或許也可以做到這一點。"
+    },
+    {
+      "type": "image",
+      "title": "Tubes!",
+      "text": "$(italic)兩個壓力管道，裝有$(l:tubes/pressure_gauge_module)壓力表/$，$(italic)連接一台$(l:compressors/air_compressor)空壓力縮機/$$(italic)與一台$(l:machines/air_cannon)空氣炮/$",
+      "images": [
+        "pneumaticcraft:textures/patchouli/pressure_tubes.png"
+      ],
+      "border": "true"
+    },
+    {
+      "type": "text",
+      "text": "壓力管道上可以安裝$(l:tubes/tube_modules)管道模組/$，從而向管道加入各種功能。見管道模組各自的頁面以取得詳細資訊。$(p)壓力管道可以被$(l:tools/camo_applicator)偽裝塗敷器/$進行偽裝。"
+    },
+    {
+      "type": "text",
+      "text": "There are two $(l:base_concepts/pressure_tiers)tiers/$ of tube:$(br)$(li)Tier 1 tubes are very simple to craft. They can contain up to 5 bar of pressure, and have a capacity of 1000mL of air.$(li)Advanced Pressure Tubes require an $(l:manufacturing/assembly_system)Assembly Controller/$ to manufacture. They can contain up to 20 bar of pressure and have a capacity of 4000mL of air."
+    },
+    {
+      "type": "crafting",
+      "text": "壓力管道的合成表",
+      "recipe": "pneumaticcraft:pressure_tube"
+    },
+    {
+      "anchor": "advanced",
+      "type": "pneumaticcraft:assembly_system",
+      "recipe": "pneumaticcraft:assembly/advanced_pressure_tube"
+    }
+  ]
+}

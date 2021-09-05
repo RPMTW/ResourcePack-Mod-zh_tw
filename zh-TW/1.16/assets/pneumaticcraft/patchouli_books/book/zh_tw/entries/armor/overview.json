@@ -1,0 +1,67 @@
+{
+  "name": "Pneumatic Armor Overview",
+  "icon": "minecraft:written_book",
+  "category": "armor",
+  "priority": "是",
+  "advancement": "pneumaticcraft:printed_circuit_board",
+  "pages": [
+    {
+      "type": "text",
+      "text": "如果將$(pncr)與$(thing)鋼鐵人/$的懸浮介面結合會產生什麼？$(thing)氣動盔甲/$！$(p)儘管這一盔甲來源於東尼·史塔克的故事，其談不上什麼不可攻克：初始狀況下，其防護值僅略高於等價的$(thing)鐵質盔甲/$。"
+    },
+    {
+      "type": "image",
+      "images": [
+        "pneumaticcraft:textures/patchouli/pneumatic_armor.png"
+      ],
+      "border": "true",
+      "text": "壓縮鋼鐵人"
+    },
+    {
+      "type": "text",
+      "text": "儘管如此，該盔甲的具有高度可升級性。要對其安裝升級（並充氣），將其放入$(l:machines/charging_station)充氣站/$中。$(p)下列幾頁是對於所有盔甲部件通用的升級。各個部件特有的升級在各部件的頁面中。"
+    },
+    {
+      "type": "text",
+      "text": "穿戴盔甲時，盔甲將耗費數秒的時間$(thing)啟動/$。可以按下 $(thing)$(k:pneumaticcraft.armor.options)/$ 鍵打開設定介面，在此可以設定安裝的升級並調節懸浮窗口。安裝更多升級後，介面中會出現更多選項。$(p)值得注意的是，所有升級都可以在設定介面通過複選框開關，甚至可以將開關操作進行鍵位綁定，以便在未打開介面時開關。"
+    },
+    {
+      "type": "text",
+      "title": "Coloring",
+      "text": "Every armor piece is dynamically re-colorable from the default grey texture; each piece has a $(thing)primary/$ and $(thing)secondary/$ color which can be adjusted independently, and the Helmet $(thing)eyepiece/$ can also have its own color.$(p)To adjust colors, just use the $(bold)Colors.../$ screen from the main armor GUI screen. No special upgrades are needed for this; it's builtin functionality!"
+    },
+    {
+      "type": "spotlight",
+      "item": "pneumaticcraft:speed_upgrade",
+      "text": "$(l:base_concepts/upgrades#speed)Speed Upgrades/$ reduce the startup time of each armor piece. In addition, they reduce the $(l:armor/pneumatic_helmet)Helmet/$ lock-on time for $(l:base_concepts/upgrades#entity_tracker)Entity Tracker/$ and $(l:base_concepts/upgrades#block_tracker)Block Tracker/$, and increase the $(l:armor/pneumatic_leggings)Leggings/$ run speed, but at an $(l:base_concepts/pressure)air cost/$."
+    },
+    {
+      "type": "spotlight",
+      "item": "pneumaticcraft:volume_upgrade",
+      "text": "$(l:base_concepts/upgrades#volume)Volume Upgrades/$ increase the $(l:base_concepts/pressure)air storage capacity/$ of each armor piece, making them take longer to charge, but slower to lose pressure when in use. Volume Upgrades are limited to 25, and there are diminishing returns as you add more and more upgrades."
+    },
+    {
+      "type": "spotlight",
+      "item": "pneumaticcraft:armor_upgrade",
+      "text": "$(l:base_concepts/upgrades#armor)Armor Upgrades/$ increase the protection and toughness of each armor piece. With 2 upgrades installed, each piece is as good as the corresponding $(thing)Diamond Armor/$ piece.  With the maximum 4 upgrades, the protection is thus superior to $(thing)Diamond Armor/$."
+    },
+    {
+      "type": "spotlight",
+      "item": "pneumaticcraft:item_life_upgrade",
+      "text": "$(l:base_concepts/upgrades#item_life)Item Life Upgrades/$ slowly repair the armor piece, at a cost of $(l:base_concepts/pressure)air/$. Up to 6 upgrades can be installed in each piece, providing incrementally faster (but less air-efficient) repair."
+    },
+    {
+      "type": "spotlight",
+      "flag": "mod:mekanism",
+      "title": "Mekanism Radiation",
+      "item": "pneumaticcraft:radiation_shielding_upgrade",
+      "text": "The $(l:base_concepts/upgrades#radiation_shielding)Radiation Shielding Upgrade/$ provides protection against the harmful effects of Mekanism radiation, same as Mekanism's own $(l:https://wiki.aidancbrady.com/wiki/Radiation_Shielding_Unit)Radiation Shielding Unit/$. Note that you must have a Shielding Upgrade in every armor piece to receive full protection."
+    },
+    {
+      "type": "text",
+      "title": "Thaumcraft",
+      "flag": "mod:thaumcraft",
+      "text": "$(l:base_concepts/upgrades#thaumcraft)Thaumcraft Upgrades/$ provide the armor piece with the equivalent vis discount of the corresponding $(thing)Thaumaturge's armor/$.  In addition, a Thaumcraft Upgrade installed in the $(l:armor/helmet)Helmet/$ acts as a $(item)Goggles of Revealing/$, showing $(thing)aura nodes/$ and displaying $(thing)aspect/$ amounts in containers."
+    }
+  ]
+}

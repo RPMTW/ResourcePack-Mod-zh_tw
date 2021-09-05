@@ -1,0 +1,23 @@
+{
+  "name": "物品賦值",
+  "icon": "pneumaticcraft:textures/progwidgets/item_assign_piece.png",
+  "category": "widget_other",
+  "advancement": "pneumaticcraft:programmer",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(thing)物品賦值/$是一個高級拼圖，用於將物品存為$(l:programming/variables)變數/$。變數可以為坐標或物品；此處討論的變數為物品。$(p)亦見$(l:programming/coordinate_operator)坐標運算元/$取得關於坐標變數的資訊和對於變數的基本解釋。"
+    },
+    {
+      "type": "text",
+      "text": "To store an item in a given $(thing)variable/$, place an $(l:programming/item_filter)Item Filter/$ widget on the $(italic)right-hand/$ side of the $(thing)Item Assignment/$ widget with the desired item. This item will be assigned to the variable, which you specify by $(thing)right-clicking/$ the $(thing)Item Assignment/$ widget. Only the actual item will be transferred from the filter; filter settings are not.$(p)If you omit the $(thing)Item Filter/$ widget, the drone's held item will be assigned to the variable instead."
+    },
+    {
+      "type": "image",
+      "images": [
+        "pneumaticcraft:textures/progwidgets/item_assign_piece.png"
+      ],
+      "text": "$(italic)物品賦值/$"
+    }
+  ]
+}

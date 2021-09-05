@@ -1,6 +1,6 @@
 {
-  "multiconnect.betaWarning.line1": "%s 目前通過多連接進行測試支援。",
-  "multiconnect.betaWarning.line2": "Expect bugs, but report any you find to the issue tracker!",
+  "multiconnect.betaWarning.line1": "目前%s的支持在multiconnect屬於測試版功能。",
+  "multiconnect.betaWarning.line2": "可能會出現問題，務必向問題追蹤器匯報！",
   "multiconnect.changeForcedProtocol": "版本",
-  "multiconnect.unsupportedExperimentalCodec": "This server is using experimental features, or features which were experimental on the server version. Multiconnect cannot translate experimental data, and cannot connect to this server."
+  "multiconnect.unsupportedExperimentalCodec": "此伺服器使用了實驗性功能。multiconnect無法轉譯實驗性數據，因此無法連接至此伺服器。"
 }
