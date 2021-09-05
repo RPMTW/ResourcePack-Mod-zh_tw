@@ -1,0 +1,12 @@
+{
+  "name": "Introduction",
+  "icon": "minecraft:experience_bottle",
+  "category": "rftoolsbuilder:category_rftoolsbuilder_shield",
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "The Shield Projector can be used to protect areas against mobs or keep mobs in some area. It can also cause damage"
+    }
+  ]
+}
