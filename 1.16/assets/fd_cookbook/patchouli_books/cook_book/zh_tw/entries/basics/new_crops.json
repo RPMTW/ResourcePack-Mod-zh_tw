@@ -1,0 +1,19 @@
+{
+  "name": "New Crops",
+  "icon": "farmersdelight:textures/block/tomatoes_stage4.png",
+  "category": "basics",
+  "sortnum": "0",
+  "pages": [
+    {
+      "type": "text",
+      "title": "New Crops",
+      "text": "Farmers Delight adds 4 new Crops(Cabbage, Onion, Tomato, Rice), that can all be found in the wild, more info about that $(l:basics/wild_crops)here$()."
+    },
+    {
+      "type": "image",
+      "images": ["fd_cookbook:textures/gui/cookbook/new_crops.png"],
+      "text": "In this picture you can see the Item the Crop is planted with and the crop itself",
+      "border": true
+    }
+  ]
+}
