@@ -579,5 +579,14 @@
     "advancements.resourcefulbees.t4_hive_upgrade.title": "Mini Bee Mansion",
     "advancements.resourcefulbees.t4_hive_upgrade.description": "Obtain a T4 Hive Upgrade",
     "advancements.resourcefulbees.wax.title": "Wax On, Wax Off",
-    "advancements.resourcefulbees.wax.description": "Obtain some Wax"
+    "advancements.resourcefulbees.wax.description": "Obtain some Wax",
+    "tooltip.resourcefulbees.bee.creator": "- ",
+    "block.resourcefulbees.honey_glass": "Honey Glass (Bee)",
+    "block.resourcefulbees.honey_glass_player": "Honey Glass (Player)",
+    "item.resourcefulbees.yeti_bee_spawn_egg": "Yeti Bee Spawn Egg",
+    "entity.resourcefulbees.yeti_bee": "Yeti Bee",
+    "trait.resourcefulbees.spider": "Spider",
+    "trait.resourcefulbees.special.spider": "Allows bees to fly through spiderwebs without issues.",
+    "block.resourcefulbees.honey_glass.tooltip": "Allows bees to fly through.",
+    "block.resourcefulbees.honey_glass_player.tooltip": "Allows players to pass through."
 }
