@@ -477,5 +477,7 @@
     "info_book.integratedtunnels.tutorials.place_logwood": "Place Logs",
     "info_book.integratedtunnels.tutorials.place_logwood.text1": "Try creating a system using the &lWorld Block Exporter&r that only places wooden logs. Do this using the &lOredictionary Values&r operator to retrieve a list of all items in the &ologs&r tag.",
     "info_book.integratedtunnels.tutorials.click_sword": "Click with Sword",
-    "info_book.integratedtunnels.tutorials.click_sword.text1": "All this clicking and such can be quite boring, why not let a &lPlayer Simulator&r do it for you? Start by crafting one, and insert a &lVariable Card&r containing a &oDiamond Sword&r to let it attack autonomously using &oDiamond Swords&r from your item network."
+    "info_book.integratedtunnels.tutorials.click_sword.text1": "All this clicking and such can be quite boring, why not let a &lPlayer Simulator&r do it for you? Start by crafting one, and insert a &lVariable Card&r containing a &oDiamond Sword&r to let it attack autonomously using &oDiamond Swords&r from your item network.",
+    "aspect.aspecttypes.integratedtunnels.boolean.energy.checkamount": "Check Energy Amount",
+    "aspect.aspecttypes.integratedtunnels.boolean.energy.checkamount.info": "If only exactly the given energy amount is allowed to be moved in one tick, not less."
 }
