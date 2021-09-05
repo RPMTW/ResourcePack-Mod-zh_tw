@@ -1,0 +1,47 @@
+{
+  "name": "botania.entry.livingwoodTools",
+  "category": "tools",
+  "icon": "aiotbotania:livingwood_aiot",
+  "priority": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "botania.page.livingwoodTools0"
+    },
+    {
+      "type": "crafting",
+      "text": "botania.page.livingwoodTools1",
+      "recipe": "aiotbotania:livingwood_sword"
+    },
+    {
+      "type": "crafting",
+      "text": "botania.page.livingwoodTools2",
+      "recipe": "aiotbotania:livingwood_axe"
+    },
+    {
+      "type": "crafting",
+      "text": "botania.page.livingwoodTools3",
+      "recipe": "aiotbotania:livingwood_pickaxe"
+    },
+    {
+      "type": "crafting",
+      "text": "botania.page.livingwoodTools4",
+      "recipe": "aiotbotania:livingwood_shovel"
+    },
+    {
+      "type": "crafting",
+      "text": "botania.page.livingwoodTools5",
+      "recipe": "aiotbotania:livingwood_shears"
+    },
+    {
+      "type": "crafting",
+      "text": "botania.page.livingwoodTools6",
+      "recipe": "aiotbotania:livingwood_hoe"
+    },
+    {
+      "type": "crafting",
+      "text": "botania.page.livingwoodTools7",
+      "recipe": "aiotbotania:livingwood_aiot"
+    }
+  ]
+}
