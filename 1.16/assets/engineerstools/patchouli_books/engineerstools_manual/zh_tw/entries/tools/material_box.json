@@ -1,0 +1,18 @@
+{
+  "name": "Material Box",
+  "icon": "engineerstools:material_box",
+  "category": "tools",
+  "sortnum": 1070,
+  "pages": [
+    {
+      "type": "spotlight",
+      "title": "Material Box",
+      "item": "engineerstools:material_box",
+      "text": "Tool Box in a hand, sling box over the shoulder - that's how you usually see engineers arriving at field work places.$(br2)This simple metal cased box provides 54 slots to carry your materials from A to B,$(br)as well as some convenience tweaks."
+    },
+    {
+      "type": "text",
+      "text": "§nQuick-Move-All$()$(br)When $(o)shift-ctrl$() clicking an item for quick-moving, all identical stacks will also be relocated. If possible, the moved items will be placed close to already existing stacks.$(br2)§nShort Damage Resistance$()$(br)When you accidentally drop the box into the fire or a cactus, you have about 10s to pick it up. $(t:... I presume you may also want to intentionally get rid of the item by dropping it, hence only when filled. Each damage reduces the despawn time by 50s from initially 15min.)$(o)This only applies when the box is not empty$()."
+    }
+  ]
+}
