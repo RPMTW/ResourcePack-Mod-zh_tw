@@ -1,0 +1,89 @@
+{
+  "components": [
+    {
+      "type": "header",
+      "text": "#title",
+      "x": -1,
+      "y": 0
+    },
+    {
+      "type": "separator",
+      "x": -1,
+      "y": 9
+    },
+    {
+      "type": "text",
+      "text": "#info",
+      "x": 3,
+      "y": 15
+    },
+    {
+      "type": "image",
+      "image": "fd_cookbook:textures/gui/crafting_table_recipe.png",
+      "x": 7,
+      "y": 90,
+      "width": 128,
+      "height": 128,
+      "texture_width": "128",
+      "texture_height": "128"
+    },
+    {
+      "type": "separator",
+      "x": -1,
+      "y": 70
+    },
+    {
+      "type": "header",
+      "text": "#crafting_recipe",
+      "x": -1,
+      "y": 75
+    },
+    {
+      "type": "separator",
+      "x": -1,
+      "y": 85
+    },
+    {
+      "type": "item",
+      "item": "minecraft:stick",
+      "x": 9,
+      "y": 110
+    },
+    {
+      "type": "item",
+      "item": "minecraft:oak_planks,minecraft:spruce_planks,minecraft:birch_planks,minecraft:jungle_planks,minecraft:acacia_planks,minecraft:dark_oak_planks,minecraft:crimson_planks,minecraft:warped_planks",
+      "x": 27,
+      "y": 110
+    },
+    {
+      "type": "item",
+      "item": "minecraft:oak_planks,minecraft:spruce_planks,minecraft:birch_planks,minecraft:jungle_planks,minecraft:acacia_planks,minecraft:dark_oak_planks,minecraft:crimson_planks,minecraft:warped_planks",
+      "x": 45,
+      "y": 110
+    },
+    {
+      "type": "item",
+      "item": "minecraft:stick",
+      "x": 9,
+      "y": 128
+    },
+    {
+      "type": "item",
+      "item": "minecraft:oak_planks,minecraft:spruce_planks,minecraft:birch_planks,minecraft:jungle_planks,minecraft:acacia_planks,minecraft:dark_oak_planks,minecraft:crimson_planks,minecraft:warped_planks",
+      "x": 27,
+      "y": 128
+    },
+    {
+      "type": "item",
+      "item": "minecraft:oak_planks,minecraft:spruce_planks,minecraft:birch_planks,minecraft:jungle_planks,minecraft:acacia_planks,minecraft:dark_oak_planks,minecraft:crimson_planks,minecraft:warped_planks",
+      "x": 45,
+      "y": 128
+    },
+    {
+      "type": "item",
+      "item": "farmersdelight:cutting_board",
+      "x": 85,
+      "y": 110
+    }
+  ]
+}
