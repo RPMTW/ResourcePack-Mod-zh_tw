@@ -1,0 +1,16 @@
+{
+  "name": "Tomes of Blood",
+  "icon": "tomeofblood:blood_tome_three",
+  "category": "equipment",
+  "pages": [
+    {
+      "type": "text",
+      "text": "The discerning wizard may crave a new source of raw power for their spells.  For those learned in the art of Blood Magic, new options arise.  As you cast spells with the Tomes of Blood, it draws directly from your Soul Network in lieu of your mana pool."
+    },
+    {
+      "type": "text",
+      "text": "Be careful, the recipe has no way of transferring NBT data currently, so your spells will be wiped on conversion, and on each upgrade."
+    }
+
+  ]
+}
