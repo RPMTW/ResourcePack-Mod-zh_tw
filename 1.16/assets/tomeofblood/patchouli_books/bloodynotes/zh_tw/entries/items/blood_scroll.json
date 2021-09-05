@@ -1,0 +1,16 @@
+{
+  "name": "Blood Scrolls",
+  "icon": "tomeofblood:blood_scroll",
+  "category": "equipment",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Blood Scrolls are used to save larger spell chains.  Use these to make crafting Blood Gems less tedious, o bearer mine.  Enscribe Blood Gems on the Scribe's Table, or by holding the scroll in your main hand, with the gems in your off hand."
+    },
+    {
+      "type": "text",
+      "text": "Any further enscribings add that spell to the end of the enscribed spell, and it's in this way that a mage may ascend beyond the previous limits of their magic."
+    }
+
+  ]
+}
