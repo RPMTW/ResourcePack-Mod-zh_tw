@@ -8,10 +8,10 @@
     "bag.treasurebags.player": "Player Bag",
     "bag.treasurebags.spawn": "First Spawn Bag",
     "bag.treasurebags.sticks_and_stones": "Sticks and Stones Bag",
-    "command.treasurebags.give.invalid": "Invalid bag type: %s",
-    "command.treasurebags.give.success": "Gave %1$sx %2$s to %3$s",
-    "item.treasurebags.treasure_bag": "Treasure Bag",
-    "item.treasurebags.treasure_bag.invalidType": "Invalid Type",
-    "item.treasurebags.treasure_bag.type": "Type:§r %s",
-    "item.treasurebags.treasure_bag.unknownType": "Unknown Type"
+    "command.treasurebags.give.invalid": "無效背包類型: %s",
+    "command.treasurebags.give.success": "把 %1$sx %2$s 給予 %3$s",
+    "item.treasurebags.treasure_bag": "寶箱",
+    "item.treasurebags.treasure_bag.invalidType": "無效類型",
+    "item.treasurebags.treasure_bag.type": "類型:§r %s",
+    "item.treasurebags.treasure_bag.unknownType": "未知類型"
 }
