@@ -1,11 +1,11 @@
 {
     "configured.gui.search": "搜尋...",
-    "configured.gui.restore_defaults": "恢復預設值",
+    "configured.gui.restore_defaults": "恢復預設設定",
     "configured.gui.edit": "編輯",
     "configured.gui.edit_value": "編輯數值",
-    "configured.gui.add_value": "新增...",
-    "configured.gui.reset": "重設",
-    "configured.gui.remove": "刪除",
-    "configured.gui.info": "此功能表由配置動態生成。 請按一下這裡，開啟此 mod 的「 CurseForge 」頁面！",
-    "configured.gui.restore_message": "Are you sure you want to restore defaults?"
+    "configured.gui.add_value": "新增…",
+    "configured.gui.reset": "重置",
+    "configured.gui.remove": "移除",
+    "configured.gui.info": "此選單是由 Configured 動態生成的。點擊此處打開此模組的 CurseForge 頁面！",
+    "configured.gui.restore_message": "您確定要恢復默認設置嗎？"
 }
