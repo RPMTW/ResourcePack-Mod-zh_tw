@@ -1,0 +1,47 @@
+{
+  "name": "botania.entry.livingrockTools",
+  "category": "tools",
+  "icon": "aiotbotania:livingrock_aiot",
+  "priority": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "botania.page.livingrockTools0"
+    },
+    {
+      "type": "crafting",
+      "text": "botania.page.livingrockTools1",
+      "recipe": "aiotbotania:livingrock_sword"
+    },
+    {
+      "type": "crafting",
+      "text": "botania.page.livingrockTools2",
+      "recipe": "aiotbotania:livingrock_axe"
+    },
+    {
+      "type": "crafting",
+      "text": "botania.page.livingrockTools3",
+      "recipe": "aiotbotania:livingrock_pickaxe"
+    },
+    {
+      "type": "crafting",
+      "text": "botania.page.livingrockTools4",
+      "recipe": "aiotbotania:livingrock_shovel"
+    },
+    {
+      "type": "crafting",
+      "text": "botania.page.livingrockTools5",
+      "recipe": "aiotbotania:livingrock_shears"
+    },
+    {
+      "type": "crafting",
+      "text": "botania.page.livingrockTools6",
+      "recipe": "aiotbotania:livingrock_hoe"
+    },
+    {
+      "type": "crafting",
+      "text": "botania.page.livingrockTools7",
+      "recipe": "aiotbotania:livingrock_aiot"
+    }
+  ]
+}
