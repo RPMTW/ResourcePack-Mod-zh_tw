@@ -3837,5 +3837,10 @@
     "block.structurize.yellow_clay_shingle_slab": "Yellow Clay Shingle Slab",
     "block.structurize.yellow_clay_spruce_shingle": "Yellow Clay Spruce Shingle",
     "block.structurize.yellow_clay_warped_shingle": "Yellow Clay Warped Shingle",
-    "block.structurize.yellow_floating_carpet": "Yellow Floating Carpet"
+    "block.structurize.yellow_floating_carpet": "Yellow Floating Carpet",
+    "com.ldtteam.structurize.gui.scantool.outsideanchor": "Skipping anchor outside of selected area, select a new one if you want to set one",
+    "com.ldtteam.structurize.gui.scantool.scanbadanchor": "Schematic %s has more than one possible anchor position, please select one",
+    "structurize.gui.replaceblock.null_placement": "Replacement with target block \"%s\" may not work under certain conditions.",
+    "structurize.config.iteratortype": "The iteration order on structure placement",
+    "structurize.config.iteratortype.comment": "Currently supports 'default', 'inwardcircle', 'hilbert', 'random' and 'inwardcircleheight1' to 'inwardcircleheight4' "
 }
