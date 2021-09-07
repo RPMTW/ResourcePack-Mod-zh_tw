@@ -149,5 +149,10 @@
     "text.autoconfig.outvoted.option.common.entities.ostrich.spawn": "Enable Spawning",
     "text.autoconfig.outvoted.option.common.entities.ostrich.rate": "Spawn Weight",
     "text.autoconfig.outvoted.option.common.entities.ostrich.biomes": "Spawn Biomes",
-    "text.autoconfig.outvoted.option.common.entities.ostrich.health": "Max Health"
+    "text.autoconfig.outvoted.option.common.entities.ostrich.health": "Max Health",
+    "entity.outvoted.wildfire_s": "Soul Wildfire",
+    "entity.outvoted.glutton_s": "Swamp Glutton",
+    "entity.outvoted.glutton_r": "Red Sand Glutton",
+    "item.outvoted.wildfire_helmet_s": "Soul Wildfire Helmet",
+    "subtitles.entity.outvoted.ostrich.ambient": "Ostrich whistles"
 }
