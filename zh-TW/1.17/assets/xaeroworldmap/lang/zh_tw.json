@@ -102,12 +102,16 @@
     "gui.xaero_right_click_box_map_settings": "按 §2%s §r開啟設定",
     "gui.xaero_right_click_box_map_export": "將地圖匯出為 PNG",
     "gui.xaero_waypoint_backgrounds": "渲染定位點背景",
-    "gui.xaero_right_click_map_cant_teleport": "§8無法傳送到這裡...",
+    "gui.xaero_right_click_map_cant_teleport": "§8(Teleport) Ambiguous Y...",
     "gui.xaero_right_click_map_cant_create_waypoint": "§8無法在此設定傳送點...",
     "gui.xaero_no_world_map_item_message": "該模組被配置為需要在你的快捷鍵中或快捷欄以下物品:",
     "gui.xaero_right_click_waypoint_share": "在聊天中分享定位點",
     "gui.xaero_right_click_map_share_location": "在聊天中分享位置",
     "gui.xaero_right_click_map_cant_share_location": "§8無法分享此位置...",
     "gui.xaero_current_map_locked1": "目前選取的地圖由另一個處理程序（Minecraft 用戶端）使用。",
-    "gui.xaero_current_map_locked2": "請選擇此伺服器的不同地圖（左下角圖示）。"
+    "gui.xaero_current_map_locked2": "請選擇此伺服器的不同地圖（左下角圖示）。",
+    "gui.xaero_wm_detect_ambiguous_y": "Detect Ambiguous Y In Discovered",
+    "gui.xaero_wm_box_detect_ambiguous_y": "A single pixel on the map can contain multiple transparent layers and an opaque block under them. In older non-cache map data files, only the Y level (height) of the opaque block is stored in such cases, which often makes it unsafe to blindly teleport to the stored Y coordinate. When this setting is ON, the mod treats such map pixels as it would undiscovered chunks. It defaults to 2D waypoints and disables direct teleportation to such pixels. Disable this at your own risk!",
+    "gui.xaero_box_closing_menu_when_hopping": "Closing The Menu When Hopping To A Waypoint (left-clicking in the menu)",
+    "gui.xaero_box_not_closing_menu_when_hopping": "Not Closing The Menu When Hopping To A Waypoint (left-clicking in the menu)"
 }
