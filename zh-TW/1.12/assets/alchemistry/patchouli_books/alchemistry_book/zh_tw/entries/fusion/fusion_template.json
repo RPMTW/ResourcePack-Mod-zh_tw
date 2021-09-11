@@ -1,11 +1,11 @@
 {
-  "name": "Fusion Multiblock Template",
+  "name": "融合結構樣板",
   "icon": "minecraft:writable_book",
-  "category": "fusion_category",
+  "category": "融合分类",
   "pages": [
     {
       "type": "multiblock",
-      "name": "Fusion Multiblock",
+      "name": "融合模塊結構\n",
       "multiblock": {
         "pattern": [
           [
@@ -50,16 +50,16 @@
           ]
         ],
         "mapping": {
-          "C": "alchemistry:fusion_casing",
-          "T": "alchemistry:fusion_controller",
-          "R": "alchemistry:fusion_core",
-          "0": "alchemistry:fusion_casing"
+          "C": "煉金：融合外殼",
+          "T": "煉金：融合控制器",
+          "R": "煉金：融合核心",
+          "0": "煉金：融合外殼"
         }
       }
     },
     {
       "type": "text",
-      "text": "98x Fusion Casing $(br) 3x Fusion Core $(br) 1x Fusion Controller"
+      "text": "98x 融合外殼 $(br) 3x 融合核心 $(br) 1x 融合控制器"
     }
   ]
 }
