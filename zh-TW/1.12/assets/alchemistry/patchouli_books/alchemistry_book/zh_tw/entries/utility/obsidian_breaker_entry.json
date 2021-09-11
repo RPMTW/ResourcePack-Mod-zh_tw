@@ -1,15 +1,15 @@
 {
-  "name": "Obsidian Breaker",
+  "name": "黑曜石粉碎器",
   "icon": "alchemistry:obsidian_breaker",
-  "category": "utility_category",
+  "category": "實用_目錄",
   "pages": [
     {
       "type": "text",
-      "text": "The Obsidian Breaker is a simple item that can be used to instantly harvest a block of obsidian by shift + right-clicking the block. This item will be consumed in the process"
+      "text": "黑曜石粉碎器是可以使用shift鍵+鼠標右鍵立即采集一塊黑曜石的簡易物品，流程中將需求該物品"
     },
     {
       "type": "crafting",
-      "recipe": "alchemistry:obsidian_breaker"
+      "recipe": "煉金：黑曜石粉碎器"
     }
   ]
 }
