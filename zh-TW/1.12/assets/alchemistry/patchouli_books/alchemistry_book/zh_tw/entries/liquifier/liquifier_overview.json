@@ -1,15 +1,15 @@
 {
   "name": "液化概覽",
   "icon": "alchemistry:liquifier",
-  "category": "液化類目",
+  "category": "liquifier_category",
   "pages": [
     {
       "type": "text",
-      "text": "液化機是可用於將煉金元素或化合物等價轉化爲其液態的動能器械"
+      "text": "液化機是可用於將煉金元素或化合物等價轉化為其液態的動能器械"
     },
     {
       "type": "crafting",
-      "recipe": "煉金：液化機"
+      "recipe": "alchemistry:liquifier"
     }
   ]
 }
