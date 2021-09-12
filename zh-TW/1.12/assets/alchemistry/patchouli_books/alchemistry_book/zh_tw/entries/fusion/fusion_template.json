@@ -1,7 +1,7 @@
 {
   "name": "融合結構樣板",
   "icon": "minecraft:writable_book",
-  "category": "融合分类",
+  "category": "fusion_category",
   "pages": [
     {
       "type": "multiblock",
@@ -50,10 +50,10 @@
           ]
         ],
         "mapping": {
-          "C": "煉金：融合外殼",
-          "T": "煉金：融合控制器",
-          "R": "煉金：融合核心",
-          "0": "煉金：融合外殼"
+          "C": "alchemistry:fusion_casing",
+          "T": "alchemistry:fusion_controller",
+          "R": "alchemistry:fusion_core",
+          "0": "alchemistry:fusion_casing"
         }
       }
     },
