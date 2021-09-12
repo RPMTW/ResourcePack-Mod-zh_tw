@@ -1,20 +1,20 @@
 {
-  "name": "融合概览",
+  "name": "融合概覽",
   "icon": "alchemistry:fusion_controller",
-  "category": "融合分类",
+  "category": "fusion_category",
   "pages": [
     {
       "type": "text",
-      "text": "多方块结构允许你将两种元素融合为一种新元素，输入的两种元素原子数之和将决定输出元素，示例：铁（26）+镝（66）——>鈾(92)"
+      "text": "多方塊結構允許你將兩種元素融合為一種新元素，輸入的兩種元素原子數之和將決定輸出元素，示例：鐵（26）+鏑（66）——>鈾(92)"
     },
     {
       "type": "crafting",
       "recipe": "炼金融合控制器",
-      "recipe2": "炼金融合核心"
+      "recipe2": "alchemistry:fusion_controller"
     },
     {
       "type": "crafting",
-      "recipe": "炼金融合外壳"
+      "recipe": "alchemistry:fusion_casing"
     }
   ]
 }
