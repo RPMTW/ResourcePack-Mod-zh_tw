@@ -1,15 +1,15 @@
 {
   "name": "黑曜石粉碎器",
   "icon": "alchemistry:obsidian_breaker",
-  "category": "實用_目錄",
+  "category": "utility_category",
   "pages": [
     {
       "type": "text",
-      "text": "黑曜石粉碎器是可以使用shift鍵+鼠標右鍵立即采集一塊黑曜石的簡易物品，流程中將需求該物品"
+      "text": "黑曜石粉碎器是可以使用shift鍵+鼠標右鍵立即採集一塊黑曜石的簡易物品，流程中將需求該物品"
     },
     {
       "type": "crafting",
-      "recipe": "煉金：黑曜石粉碎器"
+      "recipe": "alchemistry:obsidian_breaker"
     }
   ]
 }
