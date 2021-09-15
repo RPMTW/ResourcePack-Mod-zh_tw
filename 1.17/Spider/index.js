@@ -7,6 +7,7 @@ const { GetModID } = require("./Module/GetModID");
 const { MCVersion } = require("./Module/MCVersion");
 const ver = config.ver;
 const modCount = config.modCount;
+const ModIndex = config.Index;
 const CurseForge = require("mc-curseforge-api");
 const urllib = require('urllib');
 
@@ -17,6 +18,7 @@ if (!fs.existsSync(ModDirPath)) {
 if (!fs.existsSync(path.join(__dirname, "../assets"))) {
     fs.mkdirSync(path.join(__dirname, "../assets"));
 }
+
 
 let index = 0;
 function RunLoop() {
@@ -48,7 +50,6 @@ function GetMods(index, pageSize) {
         });
 }
 
-
 function GetFile(ID) {
     let slug, fileID, fileName;
     CurseForge.getModFiles(Number(ID)).then((files) => {
@@ -78,5 +79,5 @@ function GetFile(ID) {
                 break;
             }
         }
-    }).catch(console.error);
+    }).catch("抓取模組檔案時發生未知錯誤: ", console.error);
 }

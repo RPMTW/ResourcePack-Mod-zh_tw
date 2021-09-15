@@ -54,5 +54,6 @@
     "text.autoconfig.comforts.option.sleepingBagBreakage.@Tooltip": "The chance that a sleeping bag will break upon usage",
     "text.autoconfig.comforts.option.sleepingBagDebuffs": "Sleeping Bag Debuffs",
     "text.autoconfig.comforts.option.sleepingBagDebuffs.@Tooltip[0]": "List of debuffs to apply to players after using the sleeping bag",
-    "text.autoconfig.comforts.option.sleepingBagDebuffs.@Tooltip[1]": "Format: [effect];[duration(secs)];[power]"
+    "text.autoconfig.comforts.option.sleepingBagDebuffs.@Tooltip[1]": "Format: [effect];[duration(secs)];[power]",
+    "itemGroup.comforts": "Comforts"
 }
