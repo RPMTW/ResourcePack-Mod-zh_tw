@@ -54,5 +54,6 @@
     "text.autoconfig.comforts.option.sleepingBagBreakage.@Tooltip": "睡袋在使用後毀壞的機率",
     "text.autoconfig.comforts.option.sleepingBagDebuffs": "睡袋負面效果",
     "text.autoconfig.comforts.option.sleepingBagDebuffs.@Tooltip[0]": "使用睡袋後給予玩家的負面效果",
-    "text.autoconfig.comforts.option.sleepingBagDebuffs.@Tooltip[1]": "格式：[效果];[持續時間(秒)];[等級]"
+    "text.autoconfig.comforts.option.sleepingBagDebuffs.@Tooltip[1]": "格式：[效果];[持續時間(秒)];[等級]",
+    "itemGroup.comforts": "舒適用具"
 }
