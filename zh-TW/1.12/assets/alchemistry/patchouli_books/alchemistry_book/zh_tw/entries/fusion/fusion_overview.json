@@ -1,16 +1,16 @@
 {
-  "name": "Fusion Overview",
+  "name": "融合概覽",
   "icon": "alchemistry:fusion_controller",
   "category": "fusion_category",
   "pages": [
     {
       "type": "text",
-      "text": "The Fusion Multiblock allows you to fuse two elements together to create new elements. The output will be decided by the sum of the atomic number of the two inputs. Example: Iron (26) + Dysprosium (66) -> Uranium (92)"
+      "text": "多方塊結構允許你將兩種元素融合為一種新元素，輸入的兩種元素原子數之和將決定輸出元素，示例：鐵（26）+鏑（66）——>鈾(92)"
     },
     {
       "type": "crafting",
-      "recipe": "alchemistry:fusion_controller",
-      "recipe2": "alchemistry:fusion_core"
+      "recipe": "炼金融合控制器",
+      "recipe2": "alchemistry:fusion_controller"
     },
     {
       "type": "crafting",

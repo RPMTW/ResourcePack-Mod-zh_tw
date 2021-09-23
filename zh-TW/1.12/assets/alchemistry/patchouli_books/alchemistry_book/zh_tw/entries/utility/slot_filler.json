@@ -1,11 +1,11 @@
 {
-  "name": "Slot Filler",
+  "name": "佔位符",
   "icon": "alchemistry:slot_filler",
   "category": "utility_category",
   "pages": [
     {
       "type": "text",
-      "text": "To create AE2/RS/etc crafting patterns for the Chemical Combiner you can fill empty slots in the pattern with the Slot Filler item so that it will transfer all of the items in the correct slot. The slot filler will be ignored by the machine recipe, then consumed with the other inputs"
+      "text": "要為化工合成創建合成模板，你可以使用佔位符填充空位以便將所以物品置於正確的位置，佔位符會被配方無視，然後與其他輸入一同使用"
     }
   ]
 }

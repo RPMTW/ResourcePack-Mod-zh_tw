@@ -1,11 +1,11 @@
 {
-  "name": "Fusion Multiblock Template",
+  "name": "融合結構樣板",
   "icon": "minecraft:writable_book",
   "category": "fusion_category",
   "pages": [
     {
       "type": "multiblock",
-      "name": "Fusion Multiblock",
+      "name": "融合模塊結構\n",
       "multiblock": {
         "pattern": [
           [
@@ -59,7 +59,7 @@
     },
     {
       "type": "text",
-      "text": "98x Fusion Casing $(br) 3x Fusion Core $(br) 1x Fusion Controller"
+      "text": "98x 融合外殼 $(br) 3x 融合核心 $(br) 1x 融合控制器"
     }
   ]
 }
