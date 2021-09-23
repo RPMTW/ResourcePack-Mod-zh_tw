@@ -12,7 +12,7 @@
     "key.blockmeter.menu": "顯示選項",
     "text.autoconfig.blockmeter.title": "方塊計量",
     "text.autoconfig.blockmeter.option.minimalLabelSize": "微小的盒子標尺寸寸",
-    "text.autoconfig.blockmeter.option.minimalLabelSize.@Tooltip[0]": "After 10 blocks, the labels keep their",
+    "text.autoconfig.blockmeter.option.minimalLabelSize.@Tooltip[0]": "在10個方塊之後，標籤保持不變",
     "text.autoconfig.blockmeter.option.minimalLabelSize.@Tooltip[1]": "size to improve long distance readability",
     "text.autoconfig.blockmeter.option.deleteBoxesOnDisable": "關閉時移除框線",
     "text.autoconfig.blockmeter.option.deleteBoxesOnDisable.@Tooltip[0]": "Removes measuring boxes when hitting",
