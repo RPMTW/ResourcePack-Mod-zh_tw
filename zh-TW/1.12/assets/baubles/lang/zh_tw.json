@@ -1,7 +1,7 @@
 {
     "_comment_0": "",
     "_comment_1": " 物品",
-    "item.Ring.0.name": "礦工戒指",
+    "item.Ring.0.name": "礦工指環",
     "_comment_2": "",
     "_comment_3": " 介面",
     "button.baubles": "飾品",
@@ -10,12 +10,12 @@
     "_comment_5": " 快捷鍵",
     "keybind.baublesinventory": "飾品欄",
     "_comment_6": "",
-    "_comment_7": " 解說",
-    "name.AMULET": "護身符欄",
-    "name.RING": "戒指欄",
-    "name.BELT": "腰帶欄",
-    "name.TRINKET": "所有飾品",
-    "name.HEAD": "頭顱欄",
-    "name.BODY": "飾品(腰帶)",
-    "name.CHARM": "飾品 (項鍊)"
+    "_comment_7": " 描述",
+    "name.AMULET": "飾品（護身符）",
+    "name.RING": "飾品（指環）",
+    "name.BELT": "飾品（腰帶）",
+    "name.TRINKET": "飾品（任意）",
+    "name.HEAD": "飾品（頭部）",
+    "name.BODY": "飾品（身體）",
+    "name.CHARM": "飾品（墜飾）"
 }
