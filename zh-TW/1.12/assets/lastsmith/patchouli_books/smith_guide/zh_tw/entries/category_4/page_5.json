@@ -1,21 +1,21 @@
 {
-   "name": "「大蛇鄂门」",
+   "name": "「大蛇鄂門」",
    "icon": "flammpfeil.slashblade:slashbladenamed{ModelName: \"named/agito\", TextureName: \"named/orotiagito\"}",
    "category": "category_4",
    "pages": [
       {
          "type": "text",
-         "text": "「大蛇鄂门」的真品$(br2)稀世名匠的传奇之作，自诞生之日便赢得好评$(br2)在九头大蛇的尾部寻求其身影……"
+         "text": "「大蛇鄂門」的真品$(br2)稀世名匠的傳奇之作，自誕生之日便贏得好評$(br2)在九頭大蛇的尾部尋求其身影……"
       },
       {
          "type": "entity",
          "entity": "twilightforest:hydra",
          "scale": 1,
-         "text": "在永恒的暮色之森中，杀死九头大蛇……"
+         "text": "在永恆的暮光之森中，殺死九頭大蛇……"
       },
       {
          "type": "text",
-         "text": "「大蛇鄂门」的力量与「散华」一致，都是众星之力。$(br2)在为其除锈之前，无法认清其中的奥妙。"
+         "text": "「大蛇鄂門」的力量與「散華」一致，都是眾星之力。$(br2)在為其除鏽之前，無法認清其中的奧妙。"
       },
       {
          "type": "crafting",
