@@ -1,16 +1,16 @@
 {
-   "name": "无铭「无名」",
+   "name": "無銘「無名」",
    "icon": "lastsmith:.slashblade.named",
    "category": "category_3",
    "pages": [
       {
          "type": "text",
-         "text": "失去了名字与力量的刀刃。$(br2)充其量也只是个废产罢了。"
+         "text": "失去了名字與力量的刀刃。$(br2)充其量也只是個廢產罷了。"
       },
       {
          "type": "spotlight",
          "item": "lastsmith:.slashblade.named",
-         "text": "如果你像修复你劣质的工具一样修复你的刀，就会把刀的灵魂剥离留下此物。$(br2)似乎可以引起刀刃内不愿堕落之魂的共鸣而幻化为其他名刀。"
+         "text": "如果你像修復你劣質的工具一樣修復你的刀，就會把刀的靈魂剝離留下此物。$(br2)似乎可以引起刀刃內不願墮落之魂的共鳴而幻化為其他名刀。"
       }
    ],
    "sortnum": 17
