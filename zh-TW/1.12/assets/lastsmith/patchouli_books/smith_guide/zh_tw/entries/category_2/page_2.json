@@ -1,11 +1,11 @@
 {
-   "name": "Sharpness-White-",
+   "name": "「白鞘」",
    "icon": "flammpfeil.slashblade:slashbladeWhite",
    "category": "category_2",
    "pages": [
       {
          "type": "text",
-         "text": "Here are some cheap recipes for mass production katanas. $(br)Demand of Blades has become larger and larger due to the War. We smiths are also busy in making these cheap weapons.$(br2)How ridiculous they are! They think about nothing but killing each other."
+         "text": "這裡是一些量產刀劍時候所使用的廉價配方。$(br)為了戰爭，刀劍的需求量日益增多。我們這些刀匠的工作也繁忙於這些廉價武器的供應。$(br2)可笑的「劍士」們，只知道如何互相廝殺。"
       },
       {
          "type": "crafting",
@@ -49,12 +49,12 @@
       {
          "type": "spotlight",
          "item": "lastsmith:heatted_blade:0",
-         "text": "Cool the blade in a Cauldron by right-clicking. You will hear sizzles."
+         "text": "在鍋釜裡右鍵進行冷卻，會聽到呲的聲響。"
       },
       {
          "type": "spotlight",
          "item": "lastsmith:heatted_blade:1",
-         "text": "Cool the blade in a Cauldron by right-clicking. You will hear sizzles."
+         "text": "在鍋釜裡右鍵進行冷卻，會聽到呲的聲響。"
       },
       {
          "type": "spotlight",
