@@ -1,11 +1,11 @@
 {
-   "name": "Quantum Saber",
+   "name": "「量子太刀」",
    "icon": "flammpfeil.slashblade:slashbladenamed{ModelName: \"named/nanosaber/model\", TextureName: \"named/nanosaber/texture_1_on\"}",
    "category": "category_7",
    "pages": [
       {
          "type": "text",
-         "text": "Those Kappas showed such a thing to me.$(br)Have Humans outside our world developed such a thing called \"Quantum Technology\"? What is it?$(br)They Kappas discussed enthusiastically about quantum technology. But I could not understand what they said.$(br)It's so light and powerful. Is it quantum technology?"
+         "text": "然後那群河童又給我看了看這個玩意。$(br2)外界的人類已經發展到量子技術這種東西了嗎？量子技術又是什麼？我沒有搞懂。$(br2)總之聽河童們說的一個勁，我一個字也聽不懂就是。$(br2)說起來，這玩意還挺輕巧，而且意外的力量很大，這就是量子技術嗎？"
       },
       {
          "type": "crafting",
