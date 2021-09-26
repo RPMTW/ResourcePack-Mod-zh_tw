@@ -1,11 +1,11 @@
 {
-   "name": "Nano Blade",
+   "name": "「奈米太刀」",
    "icon": "flammpfeil.slashblade:slashbladenamed{ModelName: \"named/nanosaber/model\", TextureName: \"named/nanosaber/texture_on\"}",
    "category": "category_7",
    "pages": [
       {
          "type": "text",
-         "text": "What is it?$(br)Nano Technology? Nano Saber?$(br2)Difficult to understand. But I did see it from Kappas.$(br2)Similar to Bunshi, but it seems not to be so sharp.$(br2)Kappas said this can be massive produced. But I doubt that."
+         "text": "嗯？這是什麼裝備呢？$(br)奈米技術？奈米軍刀？$(br2)我無法理解，不過河童們確實給我看了看這玩意。$(br2)好像和文始是差不多的樣子，不過沒有那種鋒利感。$(br2)聽他們說好像適合以後量產？我不敢相信。"
       },
       {
          "type": "crafting",
