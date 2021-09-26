@@ -1,11 +1,11 @@
 {
-   "name": "Silver BambooLight",
+   "name": "銀紙竹光",
    "icon": "flammpfeil.slashblade:slashbladeSilverBambooLight",
    "category": "category_2",
    "pages": [
       {
          "type": "text",
-         "text": "Final product of BambooLight Blade are called Silver BambooLight.$(br)Blades, using egg white as glue, are covered with Iron foil or silver foil.$(br2)Laymen will mistake these blades as steel ones, which shows the brilliant technique of Silver BambooLights' smithing."
+         "text": "竹光刀的完成品，被稱為「銀紙竹光」。$(br)鐵箔或銀箔之類的銀白色金屬箔用雞蛋清貼合在刀刃上，加以塗裝。$(br2)外行人在第一眼看到之前，都會認為這是鋼刃，足以說明竹光刀技藝之精湛。"
       },
       {
          "type": "crafting",
@@ -15,7 +15,7 @@
       {
          "type": "spotlight",
          "item": "flammpfeil.slashblade:slashbladeWrapper",
-         "text": "Kill 100 creatures then break the Blade, and it will turn into a mysterious Sheath, which is a necessary to make high-tier Blades."
+         "text": "斬斷100份活物之後，斷裂的刀會化作萬變之鞘。$(br2)製作重要刀裝具的必要之器。"
       },
       {
          "type": "relations",
