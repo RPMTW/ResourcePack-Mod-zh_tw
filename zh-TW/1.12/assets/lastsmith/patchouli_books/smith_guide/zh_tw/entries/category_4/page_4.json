@@ -1,21 +1,21 @@
 {
-   "name": "「鄂门」之名的仿作",
+   "name": "「鄂門」之名的仿作",
    "icon": "flammpfeil.slashblade:slashbladenamed{ModelName: \"named/agito\", TextureName: \"named/agito_false\"}",
    "category": "category_4",
    "pages": [
       {
          "type": "text",
-         "text": "「大蛇鄂门」的仿作$(br2)自「大蛇鄂门」诞生以来，其仿作品多如牛毛……$(br2)在Naga之名的大蛇尾部，可见其身影……"
+         "text": "「大蛇鄂門」的仿作$(br2)自「大蛇鄂門」誕生以來，其仿作品多如牛毛……$(br2)在納迦之名的大蛇尾部，可見其身影……"
       },
       {
          "type": "entity",
          "entity": "twilightforest:naga",
          "scale": 1,
-         "text": "在永恒的暮色之森中，杀死Naga大蛇……"
+         "text": "在永恆的暮光之森中，殺死納迦大蛇……"
       },
       {
          "type": "text",
-         "text": "仿作的「鄂门」仍旧拥有着一股妖气，也许是隐藏Naga大蛇之内的原因。$(br2)在为其除锈之前，无法认清其中的奥妙。"
+         "text": "仿作的「鄂門」仍舊擁有著一股妖氣，也許是隱藏納迦大蛇之內的原因。$(br2)在為其除鏽之前，無法認清其中的奧妙。"
       },
       {
          "type": "crafting",
