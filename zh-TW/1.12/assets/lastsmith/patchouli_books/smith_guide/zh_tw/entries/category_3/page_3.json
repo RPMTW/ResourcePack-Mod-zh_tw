@@ -1,11 +1,11 @@
 {
-   "name": "Muramasa the Thousand Crane",
+   "name": "千鶴「村正」",
    "icon": "flammpfeil.slashblade:slashbladenamed{ModelName: \"named/muramasa/muramasa\",TextureName: \"named/muramasa/muramasa\"}",
    "category": "category_3",
    "pages": [
       {
          "type": "text",
-         "text": "Has name $(o)Muramasa$() carved on it, The Blade was made by a smith from Muramasa family. It is named the same as the legendary Bewitched Blade, but not smithed by the same smith. Definitely, they are not the same Blade.$(br2)At that time, Muramasa family is one of the famous families of smiths, and they are even teachers of our Youkai smiths."
+         "text": "冠以村正之名的刀，出自村正家的一名刀匠之手。$(br)和那振不存在的妖刀一樣都是村正銘，但是卻並非出自同一刀匠之手，自然也不是同一振刀。$(br2)當年，村正家是人類刀匠的一大名家，甚至是我們這些妖怪刀匠的老師之一。"
       },
       {
          "type": "crafting",
