@@ -1,16 +1,16 @@
 {
-   "name": "Blade sets & Further Smithing",
+   "name": "刀裝與精湛",
    "icon": "flammpfeil.slashblade:slashblade",
    "category": "category_2",
    "pages": [
       {
          "type": "text",
-         "text": "it is not enough for a good samurai to only have a Sharpness White Blade.$(br)Any Blade lover knows that only in its Blade set can a Blade fully shows its excellence.$(br2)If you want a better blade, you may smith a better one to replace the old blade."
+         "text": "持有白鞘還遠遠不夠。$(br)任何一個愛刀的人都知道：刀必須在刀裝裡才能發揮最大的效用。$(br2)當然，如果不滿意原來的刀條，你可以在重新鍛造刀刃並換上更優質的刀條。"
       },
       {
          "type": "spotlight",
          "item": "flammpfeil.slashblade:slashbladeWrapper",
-         "text": "Kill 100 creatures then break the Blade, and it will turn into a mysterious Sheath, which is a necessary to make high-tier Blades."
+         "text": "斬斷100份活物之後，斷裂的刀會化作萬變之鞘。$(br2)製作重要刀裝具的必要之器。"
       },
       {
          "type": "crafting",
@@ -19,7 +19,7 @@
       },
       {
          "type": "relations",
-         "text": "At this point you have acknowledged the basic Blade smithing techniques.$(br2)You have become a capable smith. However, practising it over and over again is the only way to improve your skill.$(br)Then I will not teach you anything about smithing. I would like to talk about my stories...",
+         "text": "做到這一步，你就已經學會了基本的刀劍鍛造。$(br2)你已經是刀匠中的一員了，然而好刀是必須不斷精湛下去才能掌握的技藝。$(br)接下來，我不會再教任何的鍛造技法了。後面的內容只留給我的經歷，僅此……",
          "entries": [
             "lastsmith:category_2/page_1",
             "lastsmith:category_2/page_2",
