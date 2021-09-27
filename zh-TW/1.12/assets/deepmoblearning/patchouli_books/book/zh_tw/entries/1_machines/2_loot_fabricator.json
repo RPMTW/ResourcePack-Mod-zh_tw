@@ -6,12 +6,12 @@
   "pages": [
     {
       "type": "text",
-      "text": "The $(item)Loot Fabricator$() is a machine that can well.... $(item)Fabricate Loot$() from the various accessible $(item)Pristine Matters$().$(br2)This process requires $(l:1_machines/3_energy)Energy$() aswell as a selected $(item)Item$() to produce $(item)Loot$()."
+      "text": "$(item)戰利品製造器$()是一台機器，它能……從各種可使用的$(item)原始物質$()中$(item)製造戰利品$()。$(br2)此過程需要$(l:1_machines/3_energy)能量$()，而$(item)戰利品$()生成的種類也依賴於你所選擇的$(item)物品$()。"
     },
     {
       "type": "recipelookup",
       "recipe": "deepmoblearning:extraction_chamber",
-      "text": "The selected $(item)Item$() will be remembered for automation puposes, it will stay selected until its unselected."
+      "text": "選擇的$(item)物品$()能夠記憶在機器中，它會一直選擇被選擇的物品，直到取消對該物品的選擇。"
     }
   ]
 }
