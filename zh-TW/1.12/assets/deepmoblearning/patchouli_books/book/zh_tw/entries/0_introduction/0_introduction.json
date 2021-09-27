@@ -1,25 +1,25 @@
 {
-  "name": "Introduction",
+  "name": "介紹",
   "icon": "deepmoblearning:soot_covered_redstone",
   "category": "0_introduction",
   "sortnum": 0,
   "pages": [
     {
       "type": "text",
-      "text": "The design principle of this $(item)Mod$() is to be a simple and$(br)lag-free alternative to gathering mob resources by traditional means.$(br2)The mods mechanics encourage players to explore and engage in combat and benefit from it later on.$(br2)To get started you will need some specialized $(item)Crafting Components$()."
+      "text": "本$(item)模組$()的設計原則是將它變成一個簡單、$(br)減少卡頓的，用以替代取得怪物資源的傳統手段的方案。$(br2)模組的各種機制鼓勵玩家進行探索與戰鬥，並從中獲益。$(br2)開始之前，你需要獲得一些本模組專有的$(item)合成部件$()。"
     },
     {
       "type": "spotlight",
       "item": "deepmoblearning:soot_covered_redstone",
-      "title": "Sooting Redstone",
+      "title": "炭灰紅石",
       "anchor": "sooted_redstone",
-      "text": "$(item)Soot-covered Redstone$() can be created by crushing some $(item)Redstone$() against a $(item)Block of Coal$().$(br2)This sooty marvel will be required to craft most things this $(item)Mod$() has to offer."
+      "text": "$(item)炭灰紅石$()可以用$(item)紅石$()敲擊$(item)煤炭方塊$()獲得。$(br2)這個烏黑的小玩意在本$(item)模組$()中扮演著必不可少的角色。"
     },
     {
       "type": "recipelookup",
       "recipe": "deepmoblearning:soot_covered_plate",
       "recipe2": "deepmoblearning:machine_casing",
-      "title2": "機械鑄件"
+      "title2": "機械外殼"
     }
   ]
 }
