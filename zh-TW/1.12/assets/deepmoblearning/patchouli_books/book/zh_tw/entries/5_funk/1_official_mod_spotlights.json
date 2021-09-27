@@ -1,16 +1,16 @@
 {
-  "name": "Official Mod Spotlights",
+  "name": "正式版模組特色",
   "icon": "minecraft:筆記筆記本本",
   "category": "5_funk",
   "sortnum": 1,
   "pages": [
     {
       "type": "text",
-      "text": "During the development of the Mod and after its release I have done a few spotlight/update videos, you can find all of them in this $(l:https://www.youtube.com/watch?v=-C5T60iSjyM&list=PLJB-Y_FDFQZ5EKkzc6IrDRv9sr1thJ27M)Playlist$()$(br2)Besides the videos I have released there is a few others that should be mentioned. $(item)Vallen$() from $(item)Mischief of Mice$() has made a $(l:https://www.youtube.com/watch?v=hRe-nPCciXA)Bit-by-Bit$() about the mod which is fantastic."
+      "text": "在 Mod 的開發過程中，以及在 Mod 正式發布之後，我陸續上傳了一些高光/更新影片，你可以在這個$(l:https://www.youtube.com/watch?v=-C5T60iSjyM&list=PLJB-Y_FDFQZ5EKkzc6IrDRv9sr1thJ27M)播放列表$()裡找到它們。$(br2)除此之外，我還想再介紹另外幾位，一位是$(item)Mischief of Mice$()頻道的$(item)Vallen$()製作了影片$(l:https://www.youtube.com/watch?v=hRe-nPCciXA)Bit-by-Bit$()，他在影片中介紹了本 mod 的相關內容，非常值得一看。"
     },
     {
       "type": "text",
-      "text": "$(item)SystemCollapse$() also covered a lot of the progression of the mod in one of his SkyFactory 4 episodes and you can find that $(l:https://www.youtube.com/watch?v=urmzj-jwUTg)here$()."
+      "text": "$(item)SystemCollapse$() 也在他的 SkyFactory 4 模組包的某集實況中花了大量時間介紹了本 Mod ，你能在$(l:https://www.youtube.com/watch?v=urmzj-jwUTg)這裡$()找到這一集。"
     }
   ]
 }
