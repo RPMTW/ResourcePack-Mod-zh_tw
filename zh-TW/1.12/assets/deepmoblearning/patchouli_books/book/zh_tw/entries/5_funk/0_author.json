@@ -1,16 +1,16 @@
 {
-  "name": "Word from the Author",
+  "name": "作者的話",
   "icon": "minecraft:skull:3{SkullOwner:'IterationFunk'}",
   "category": "5_funk",
   "sortnum": 0,
   "pages": [
     {
       "type": "text",
-      "text": "Hiya, I'm IterationFunk, a 25 year old developer from icy Sweden. I started developing Deep Mob Learning back in the $(item)Summer$() of $(item)2017$() as a project to get into modding.$(br2)I had made previous attempts at modding but the first time around I wasn't really familiar with $(item)Java$() or programming for that matter."
+      "text": "Hiya，我是 IterationFunk ，一名來自於瑞典的 25 歲開發者。我於$(item)2017$()年的$(item)夏天$()開始著手開發 Deep Mob Learning，這是我初涉 mod 開發的牛刀小試之作。$(br2)在這之前我也嘗試過進行 mod 開發，但那時我對$(item)Java$()以及與Java相關的程序還不是很熟悉。"
     },
     {
       "type": "text",
-      "text": "I was introduced to the modded scene back in 1.4.6 where $(item)IC2$() and $(item)Thermal Expansion$() (RIP Tesseracts) had their glorydays, since then I've been playing on and off and after I started my $(l:https://www.youtube.com/user/Niklas939393/videos)Youtube Channel$() I've played the game pretty much every day.$(br2)I'm very happy to be part of this community and I do hope you enjoy playing the $(item)Mod$()!"
+      "text": "我在 1.4.6 版本時開始了解到 mod 的相關訊息，那時候，$(item)IC2$() 以及 $(item)Thermal Expansion$()（RIP Tesseracts）如日中天，人氣極高。從那之後，我便開始斷斷續續地玩 mc 了，而在我創建了我的 $(l:https://www.youtube.com/user/Niklas939393/videos)Youtube 頻道$()之後，我幾乎每天都在玩這款遊戲。$(br2)我很高興我能夠加入這個社區，我也衷心的希望你能享受本 $(item)Mod$() 能夠給你帶來歡樂時光！"
     }
   ]
 }
