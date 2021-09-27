@@ -614,7 +614,7 @@
     "entity.moreplanets.space_fish_hook.name": "太空釣鈎",
     "entity.moreplanets.alien_beam.name": "外星光束",
     "entity.moreplanets.vein_eye.name": "藤蔓之眼",
-    "entity.moreplanets.laser_bullet.name": "鐳射彈",
+    "entity.moreplanets.laser_bullet.name": "雷射彈",
     "entity.moreplanets.vein_ball.name": "Vein Ball",
     "entity.moreplanets.black_hole_storage.name": "Black Hole Storage",
     "entity.moreplanets.anti_gravity_arrow.name": "Anti Gravity Arrow",
@@ -712,7 +712,7 @@
     "death.attack.infected_gas": "%s 被毒氣殺死了",
     "death.attack.dark_energy": "%s 的身體被暗黑能量吞噬了",
     "death.attack.black_hole": "%s 被黑洞吞噬了",
-    "death.attack.laser": "%s 被鐳射彈射死了",
+    "death.attack.laser": "%s 被雷射彈射死了",
     "gui.config.mp.general": "基於更多行星設定.版本檢查,除錯,Mod選項.等等.",
     "gui.config.mp.dimension": "行星/衛星維度ID設定.",
     "gui.config.mp.gcaddon": "GC外掛相容設定.",
@@ -811,7 +811,7 @@
     "subtitles.entity.fronos.ambient": "糖果星生物環境",
     "subtitles.entity.fronos.hurt": "糖果星生物受傷",
     "subtitles.entity.fronos.death": "糖果星生物死亡",
-    "subtitles.player.laser_shooted": "激光射擊",
+    "subtitles.player.laser_shooted": "雷射射擊",
     "subtitles.player.unlock_treasure_chest": "解鎖寶箱",
     "subtitles.weather.loud_thunder": "雷鳴 "
 }
