@@ -67,7 +67,7 @@
     "morph.config.prop.abilitiesToHideInGui.name": "在介面裡藏起的能力",
     "morph.config.prop.childMorphs.comment": "是否能夠獲取兒童生物變形？\\n因不正確的變形轉換，預設關閉",
     "morph.config.prop.playerMorphs.comment": "是否能夠獲取玩家變形？",
-    "morph.config.prop.bossMorphs.comment": "是否可獲取Boss變形？預設關閉，因為如終界龍，暮色森林的九頭蛇和娜迦等等的變形問題。",
+    "morph.config.prop.bossMorphs.comment": "是否可獲取Boss變形？預設關閉，因為如終界龍，暮光森林的九頭蛇和娜迦等等的變形問題。",
     "morph.config.prop.blacklistedMobs.comment": "避免玩家獲取這些怪物變形。\\n留空以允許所有相容的怪物。\\n格式如下：<class>, <class>, <class>\\n例如：am2.entities.EntityBattleChicken, biomesoplenty.entities.EntityJungleSpider, thaumcraft.common.entities.monster.EntityWisp",
     "morph.config.prop.blackwhitelistedPlayers.comment": "這些玩家在變形能力黑/白名單列表中出現。\\n格式如下：<name>, <name>, <name>\\n例子：Cojomax99, pahimar, ohaiiChun",
     "morph.config.prop.instaMorph.comment": "是否可立即變形成剛獲取的怪物變形？",
