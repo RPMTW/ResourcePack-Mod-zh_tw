@@ -1,6 +1,6 @@
 {
   "name": "機器",
-  "description": "This chapter will teach you everything you need to know about the machines$(br)in $(dml)$(br2)All $(item)Machines$() accepts $(item)Inputs$() from the top of the block. The other sides are used to pipe $(item)Outputs$().",
+  "description": "此章節會教導你所有有關本$(item)模組$()機器的內容，$(br2)所有$(item)機器$()都能夠從頂上$(item)輸入$()物品。其他的麵用作往外抽取$(item)輸出$()產物。",
   "icon": "deepmoblearning:simulation_chamber",
   "sortnum": 1
 }
