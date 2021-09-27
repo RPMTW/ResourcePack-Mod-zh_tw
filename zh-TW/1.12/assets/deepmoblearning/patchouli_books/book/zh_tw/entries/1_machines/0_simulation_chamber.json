@@ -6,19 +6,19 @@
   "pages": [
     {
       "type": "text",
-      "text": "The $(item)Simulation Chamber$() is a machine that can read the information stored on your $(l:0_introduction/2_data_models)Data Models$() and from that $(l:0_introduction/1_data)Data$() create $(l:1_machines/1_matter)Matter$().$(br2)This process will add more $(l:0_introduction/1_data)Data$() to the $(l:0_introduction/2_data_models)Data Model$() currently being used.$(br2)This process also requires a $(a)Basic$() (or higher) tier$(br)$(l:0_introduction/2_data_models)Data Model$(), $(l:1_machines/3_energy)Energy$() and$(br)$(item)Polymer Clay$()."
+      "text": "$(item)模擬室$()能夠讀取$(l:0_introduction/2_data_models)數據模型$()中的數據，並從利用$(l:0_introduction/1_data)數據$()創造出$(l:1_machines/1_matter)物質$()。$(br2)此過程會為你的$(l:0_introduction/2_data_models)數據模型$()增加更多的$(l:0_introduction/1_data)數據$()。$(br2)此過程也需要$(a)基礎$()（或更高）等級的$(br)$(l:0_introduction/2_data_models)數據模型$()，以及$(l:1_machines/3_energy)能量$()和$(br)$(item)聚合黏土$()。"
     },
     {
       "type": "recipelookup",
       "recipe": "deepmoblearning:simulation_chamber",
       "anchor": "simulation_chamber",
-      "text": "The $(item)Simulation Chamber$() is crafted with a $(l:0_introduction/0_introduction#plates_and_casings)Soot-covered Machine Casing$().$(br2)The operational $(item)Energy$() cost depends on what $(l:0_introduction/2_data_models)Data Model$() is used."
+      "text": "$(item)模擬室$()通過$(l:0_introduction/0_introduction#plates_and_casings)炭灰板材機械外殼$()製作而得。$(br2)執行所需$(item)能量$()的多少取決於$(l:0_introduction/2_data_models)數據模型$()的種類。"
     },
     {
       "type": "recipelookup",
       "recipe": "deepmoblearning:polymer_clay",
       "anchor": "simulation_chamber",
-      "text": "$(item)Polymer Clay$() is a very soft and adept clay that can take on most shapes.$(br2)In the $(item)Simulation Chamber$() its used as a binding agent to create $(l:1_machines/1_matter)Matter$()"
+      "text": "$(item)聚合黏土$()非常柔軟，能夠變成各種形狀。$(br2)在$(item)模擬室$()內，它被用作$(l:1_machines/1_matter)物質$()製作過程中的黏合劑。"
     }
   ]
 }
