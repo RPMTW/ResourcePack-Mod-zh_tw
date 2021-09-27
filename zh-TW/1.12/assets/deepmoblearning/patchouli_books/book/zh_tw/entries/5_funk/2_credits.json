@@ -1,16 +1,16 @@
 {
-  "name": "點數",
-  "icon": "minecraft:蛋糕",
+  "name": "鳴謝",
+  "icon": "minecraft:cake",
   "category": "5_funk",
   "sortnum": 2,
   "pages": [
     {
       "type": "text",
-      "text": "A big $(item)Thank You$() to these people in no particular order.$(br2)$(item)Vyraal$() & $(item)Saereth$() for suggesting new feature(s) to the mod and adding it to their modpack $(item)Interactions$().$(br2)$(item)tommyTT$() for adding additional config options."
+      "text": "非常$(item)感謝$()以下的這些人，排名不分先後。$(br2)$(item)Vyraal$() & $(item)Saereth$() 對本 Mod 提出的寶貴意見和建議，以及在他們的模組包 $(item)Interactions$() 中加入了本 Mod 。$(br2)$(item)tommyTT$() 為 config 加入了額外的選項。"
     },
     {
       "type": "text",
-      "text": "$(item)Darkosto$() & $(item)Slowpoke101$() for adding the mod to their modpacks $(item)SkyFactory 4$() and $(item)FTB Sky Odyssey$() respectively."
+      "text": "$(item)Darkosto$() & $(item)Slowpoke101$() 分別將本 Mod 加入了他們的模組包 $(item)SkyFactory 4$() 以及 $(item)FTB Sky Odyssey$() 。"
     }
   ]
 }
