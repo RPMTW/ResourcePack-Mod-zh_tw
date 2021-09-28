@@ -453,7 +453,7 @@
     "mahoutsukai.config.mystic_staff_beam_factor.name": "魔杖光束傷害因數",
     "mahoutsukai.config.mystic_staff_beam_factor.name.tooltip": "傷害為最大法力百分比還是固定數值",
     "mahoutsukai.config.mystic_staff_beam_mana_cost.name": "魔杖光束每刻消耗法力\nmahoutsukai.config.mystic_staff_beam_mana_cost.name.tooltip=使用光束每刻消耗的法力（20刻=1秒）",
-    "mahoutsukai.config.mystic_staff_beam_mana_cost.name.tooltip": "This is the cost of using the beam, per tick (20 ticks per second)",
+    "mahoutsukai.config.mystic_staff_beam_mana_cost.name.tooltip": "使用光束每刻消耗的魔力（20刻=1秒）",
     "mahoutsukai.config.mystic_staff_beam_damage_scales.name": "光束傷害隨施法者的最大法力值增加而增加",
     "mahoutsukai.config.mystic_staff_beam_damage_scales.name.tooltip": "傷害為固定值還是根據施法者的'等級'判斷",
     "mahoutsukai.config.mystic_staff_beam_damage_acc.name": "魔杖光束增傷因數",
@@ -1015,7 +1015,7 @@
     "mahoutsukai.config.ripper_durability.name": "開膛手耐久度",
     "mahoutsukai.config.gamestages_enabled.name": "啟用GameStages支持",
     "mahoutsukai.config.no_shaders.name": "無光影",
-    "mahoutsukai.config.mystic_staff_big_rain.name": "Mystic Staff Creates Rain and Thunder",
+    "mahoutsukai.config.mystic_staff_big_rain.name": "魔杖造成雷雨天氣效果",
     "mahoutsukai.clarent.wounded": "你受傷了。請勿劇烈運動，否則傷勢加重。",
     "item.clarent.name": "燦然輝煌之王劍——「克拉倫特」",
     "item.morgan.name": "誓約勝利之劍——「摩根」",
@@ -1092,5 +1092,5 @@
     "enchantment.mahoutsukai.projector": "魔法陣投影機",
     "mahoutsukai.souls.collected": "已收集靈魂：",
     "mahoutsukai.config.mana_added_scaling_regen_per_tick.name": "Scaling Max Mana Regen",
-    "mahoutsukai.config.mana_added_scaling_regen_per_tick.name.tooltip": "When regen happens, this number is multiplied by max mana and added to regen"
+    "mahoutsukai.config.mana_added_scaling_regen_per_tick.name.tooltip": "當恢復發生時，這個數字乘以最大法力並添加到恢復中"
 }
