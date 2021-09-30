@@ -9,7 +9,7 @@
     },
     {
       "type": "text",
-      "text": "要指定特定實體，無論其屬於同一類型（如 Creeper，即爬行者）或具有同一名稱（如名為 MineMaarten 的玩家），只需輸入實體名稱。$(p)要指定某種實體$(italic)類型/$（如，被動型生物，攻擊型生物，任意玩家），在類型名前添加字元 @。下列是完整的過濾語法列表，包括所有合法的$(thing) @ 標識符/$。"
+      "text": "要指定特定實體，無論其屬於同一類型（如 Creeper，即苦力怕）或具有同一名稱（如名為 MineMaarten 的玩家），只需輸入實體名稱。$(p)要指定某種實體$(italic)類型/$（如，被動型生物，攻擊型生物，任意玩家），在類型名前加入字元 @。下列是完整的過濾語法列表，包括所有合法的$(thing) @ 標識符/$。"
     },
     {
       "type": "text",
@@ -19,15 +19,15 @@
     {
       "type": "text",
       "title": "例（續表)",
-      "text": "$(li)$(#800)@boat/$ 匹配船$(li)$(#800)@living/$ 匹配所有生物$(li)$(#800)@item/$ 匹配物品實體$(li)$(#800)@drone/$ 匹配$(l:tools/drone)無人機/$$(li)$(#800)Creeper/$ 匹配爬行者$(li)$(#800)MineMaarten/$ 匹配名為'MineMaarten'的實體$(li)$(#800)c*/$ 匹配任何（英文）名稱以字元 c 開頭的實體（如 Creeper|爬行者，或Cow|牛）。$(li)$(#800)*pig*/$ 匹配任何（英文）名稱含有字串 pig 的實體（如 Pig|豬，或 Zombie Pigman|僵屍豬人）。"
+      "text": "$(li)$(#800)@boat/$ 匹配船$(li)$(#800)@living/$ 匹配所有生物$(li)$(#800)@item/$ 匹配物品實體$(li)$(#800)@drone/$ 匹配$(l:tools/drone)無人機/$$(li)$(#800)Creeper/$ 匹配苦力怕$(li)$(#800)MineMaarten/$ 匹配名為'MineMaarten'的實體$(li)$(#800)c*/$ 匹配任何（英文）名稱以字元 c 開頭的實體（如 Creeper|苦力怕，或Cow|牛）。$(li)$(#800)*pig*/$ 匹配任何（英文）名稱含有字元串 pig 的實體（如 Pig|豬，或 Zombie Pigman|殭屍豬人）。"
     },
     {
       "type": "text",
-      "text": "所有匹配都忽略大小寫，也即，$(#800)zombie/$ 和 $(#800)Zombie/$ 都將匹配 Zombie|僵屍。$(p)可以使用 ;（半形分號）作為分割符輸入匹配$(thing)序列/$——這裡的匹配為$(italic)匹配任意/$：$(li)$(#800)creeper;zombie/$ 將匹配 Creeper|爬行者 $(italic)和/$ Zombie|僵屍。"
+      "text": "所有匹配都忽略大小寫，也即，$(#800)zombie/$ 和 $(#800)Zombie/$ 都將匹配 Zombie|殭屍。$(p)可以使用 ;（半形分號）作為分割符輸入匹配$(thing)序列/$——這裡的匹配為$(italic)匹配任意/$：$(li)$(#800)creeper;zombie/$ 將匹配 Creeper|苦力怕 $(italic)和/$ Zombie|殭屍。"
     },
     {
       "type": "text",
-      "text": "可以在過濾前添加字元「!」以將過濾反轉：$(li)$(#800)!@player/$ 匹配任何$(italic)非/$玩家的實體$(li)$(#800)!Creeper;Zombie/$ 匹配任何$(italic)既/$不為 Creeper|爬行者 $(italic)又/$不為 Zombie|僵屍$(li)$(#800)Creeper;!Zombie/$ 是$(f00)無效的/$: 「!」 僅可出現在過濾的開頭。/$$(p)$(bold)註：/$對於$(l:tools/drone)無人機/$中使用$(l:programming/text)文本/$拼圖標記的實體過濾器，不支持 「!」 標記；像其餘過濾一樣，在左側連接文本。"
+      "text": "可以在過濾前加入字元「!」以將過濾反轉：$(li)$(#800)!@player/$ 匹配任何$(italic)非/$玩家的實體$(li)$(#800)!Creeper;Zombie/$ 匹配任何$(italic)既/$不為 Creeper|苦力怕 $(italic)又/$不為 Zombie|殭屍$(li)$(#800)Creeper;!Zombie/$ 是$(f00)無效的/$: 「!」 僅可出現在過濾的開頭。/$$(p)$(bold)註：/$對於$(l:tools/drone)無人機/$中使用$(l:programming/text)文字/$拼圖示記的實體過濾器，不支持 「!」 標記；像其餘過濾一樣，在左側連接文字。"
     },
     {
       "type": "relations",
