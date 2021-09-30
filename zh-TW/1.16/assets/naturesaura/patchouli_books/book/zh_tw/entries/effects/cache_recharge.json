@@ -1,17 +1,17 @@
 {
-    "name": "Natural Storage",
+    "name": "靈氣儲存",
     "icon": "naturesaura:aura_cache",
     "category": "effects",
     "advancement": "naturesaura:positive_imbalance",
     "pages": [
         {
             "type": "text",
-            "text": "If enough $(aura) is present in the environment, so much so that the bar of the $(l:items/eye)Environmental Eye$() is filled up by about half above the regular amount, $(item)Natural Storage$() will start to occur: For any players around a saturated area that carry an $(l:items/aura_cache)Aura Cache$() with them, it will slowly start to $(thing)fill up$(), draining from the oversaturated $(aura)."
+            "text": "如果環境中出現足夠多的$(#419600)靈氣$()，多到$(l:items/eye)環境之眼$()的指示條被充滿到超過常規值的一半，$(item)靈氣儲存$()現象會開始發生：在飽食區域的玩家如果身上帶著$(l:items/aura_cache)靈氣快取$()，快取會被慢慢地$(thing)充滿$()，並從過飽食區域中吸取$(#419600)靈氣$()。"
         },
         {
             "type": "naturesaura:tree_ritual",
             "recipe": "naturesaura:cache_powder",
-            "text": "This effect can be inhibited using $(l:effects/effect_powder)Powder of no Storage$()."
+            "text": "該效應可以被$(l:effects/effect_powder)無儲之粉$()抑制。"
         }
     ]
 }
