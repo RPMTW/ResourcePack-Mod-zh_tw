@@ -1,15 +1,15 @@
 {
-    "tile.gyth.modular.tank.name": "Modular Tank",
-    "item.gyth.tank.upgrade.name": "Tank Upgrade",
+    "tile.gyth.modular.tank.name": "模組化儲罐",
+    "item.gyth.tank.upgrade.name": "儲罐升級",
     "itemGroup.gyth": "GYTH",
-    "tooltip.gyth.tier": "Tier",
-    "tooltip.gyth.owner": "Added by %s%s",
-    "tooltip.gyth.block": "Type",
+    "tooltip.gyth.tier": "等級",
+    "tooltip.gyth.owner": "由 %s%s §7加入",
+    "tooltip.gyth.block": "類型",
     "tooltip.gyth.capacity": "%dmb / %dmb",
-    "tooltip.gyth.capacity.upgrade": "%d Buckets",
-    "tooltip.gyth.contents": "Contents",
-    "tooltip.gyth.flammable": "Flammable",
-    "tooltip.gyth.missing": "There is no data for this item. Do not trust it!",
-    "jei.gyth.tank.desc": "A fluid tank, which can be upgraded to increase capacity. This tank keeps it's contents when broken. Only tier one tanks can be crafted directly. Higher tier tanks are aquired using upgrades.",
-    "jei.gyth.upgrade.desc": "An upgrade for the Modular Tank. Upgrades can only be applied to tanks of the same tier, or one higher. Same tier upgrades are purely cosmetic."
+    "tooltip.gyth.capacity.upgrade": "%d 桶",
+    "tooltip.gyth.contents": "存有",
+    "tooltip.gyth.flammable": "易燃",
+    "tooltip.gyth.missing": "這個物品沒有任何數據。別信他它！",
+    "jei.gyth.tank.desc": "一個簡單的流體儲罐，能夠安裝升級來提升容量。在破壞的時候能夠保留內部儲存流體。只有一級儲罐可以直接製造。更高級的儲罐是通過升級獲得的。",
+    "jei.gyth.upgrade.desc": "模組化儲罐的升級部件。一個升級只能用於同一等級，或者更高等級的儲罐。相同等級的升級僅僅用作裝飾。"
 }
