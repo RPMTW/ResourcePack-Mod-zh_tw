@@ -1,15 +1,15 @@
 {
-    "name": "T3 : Adv. Combat Armor",
+    "name": "等級３》先進戰鬥裝",
     "icon": "techguns:t3_combat_chestplate",
     "category": "armors",
     "pages": [
         {
             "type": "text",
-            "text": "The Advanced Combat Armor is a Tier 3 armor and intended to be used for combat. It's stats are a direct upgrade of the $(l:armors/combat_armor)Combat Armor$(/l). The Advanced Combat Armor can be upgraded to the $(l:armors/exosuit)Exo Suit$(/l)."
+            "text": "等級三的《先進戰鬥裝》設計用於戰鬥， 其屬性為$(l:armors/combat_armor)《戰鬥裝》$(/l)的升級， 還能升級成$(l:armors/exosuit)《動力裝》$(/l)。"
         },
         {
             "type": "entity",
-            "name": "Combat Armor",
+            "name": "先進戰鬥裝",
             "entity": "minecraft:armor_stand{ShowArms:1,NoBasePlate:1,ArmorItems:[{Count:1,id:'techguns:t3_combat_boots'}, {Count:1,id:'techguns:t3_combat_leggings'}, {Count:1,id:'techguns:t3_combat_chestplate'}, {Count:1,id:'techguns:t3_combat_helmet'}]}",
             "text": ""
         },
