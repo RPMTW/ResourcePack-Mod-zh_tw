@@ -1,11 +1,11 @@
 {
-  "name": "Electrolyzer Overview",
+  "name": "電解機簡介",
   "icon": "alchemistry:electrolyzer",
   "category": "electrolyzer_category",
   "pages": [
     {
       "type": "text",
-      "text": "The Electrolyzer is a powered machine that reacts catalyst items with fluids to create outputs. Every time the machine is finished processing there is a chance that the electrolyte will be consumed. This probability can be viewed in JEI by hovering over the catalyst item in a given recipe"
+      "text": "電解機是一種需要消耗FE能量的機器，它可以使某些流體通過催化劑作用分解為一些元素和化合物，催化劑有機率被消耗。"
     },
     {
       "type": "crafting",
