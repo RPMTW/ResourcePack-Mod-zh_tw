@@ -1,24 +1,24 @@
 {
-    "name": "Aura Field Creator",
+    "name": "靈氣力場創造器",
     "icon": "naturesaura:field_creator",
     "category": "using",
     "advancement": "naturesaura:sky_ingot",
     "pages": [
         {
             "type": "text",
-            "text": "One of the two activities mostly done by humans is $(thing)breaking$() blocks. This requires quite a bit of strengh and effort, and, if done for long amounts of time, can become quite tiring.$(br)The $(item)Aura Field Creator$() creates a dense field of moving $(aura) that is strong enough for it to $(thing)destroy blocks$() within it."
+            "text": "兩種人類主要活動之一便是$(thing)破壞$()方塊。這需要相當大的力量和努力，而且長時間這麼做相當累。$(br)$(item)靈氣力場創造器$()會創造一片有著移動$(#419600)靈氣$()的稠密力場，強力到足以$(thing)破壞$()力場內的方塊。"
         },
         {
             "type": "text",
-            "text": "To set up a field like this, two $(item)Aura Field Creators$() need to be placed a couple of blocks apart. Then, interacting with one of them while sneaking and interacting with the other while not sneaking will cause a connection between the two to form.$(br)Once supplying one of them with a $(thing)redstone signal$(), and after a short channel time, the field will be created between the two, allowing any blocks being placed there to be broken and their items being dropped into the world."
+            "text": "要想建立這樣一片力場，兩個$(item)靈氣力場創造器$()需要間隔一段距離放置。然後，潛行互動其中一個作為起始點，再不潛行互動另一個，使兩者間建立連接。$(br)一旦給任意一個創造器提供$(thing)紅石訊號$()，在短暫引導後，兩個創造器之間的力場會破壞其間的所有方塊，並掉落相應物品。"
         },
         {
             "type": "text",
-            "text": "Of course, breaking blocks and especially the initial channel time will require a bit of $(aura) from the environment. Additionally, while the field is active, a small amount is consumed as a sort of upkeep cost.$(br)Any botanist that requires items gained from $(thing)shearing$() certain blocks doesn't have to worry: Placing an $(item)Item Frame$() with $(item)Shears$() on any of the two $(item)Aura Field Creators$() will cause all shearable blocks inbetween to be sheared with all others being harvested normally."
+            "text": "當然，破壞方塊與創建力場需要環境中的一定量$(#419600)靈氣$()。另外，持續力場需要不斷消耗少量靈氣。$(br)任何需要從$(thing)剪$()特定方塊中獲得物品的植物學家不需要擔心：放置一個內含$(item)剪刀$()的$(item)物品展示框$()到兩個$(item)靈氣力場創造器$()之一上會使兩者間能被剪的方塊被剪下來，其他的則普通地被破壞。"
         },
         {
             "type": "crafting",
-            "text": "Creating two $(item)Aura Field Creators$()",
+            "text": "合成兩個$(item)靈氣力場創造器$()",
             "recipe": "naturesaura:field_creator"
         }
     ]
