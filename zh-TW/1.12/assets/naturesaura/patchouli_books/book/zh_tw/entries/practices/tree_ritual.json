@@ -1,5 +1,5 @@
 {
-    "name": "Ritual of the Forest",
+    "name": "森林儀式",
     "icon": "naturesaura:wood_stand",
     "category": "practices",
     "advancement": "naturesaura:gold_leaf",
@@ -8,45 +8,45 @@
     "pages": [
         {
             "type": "text",
-            "text": "When starting out as a magical botanist, it proves beneficial to use the powers of nature on a more direct level before delving directly into $(aura) itself. The $(item)Ritual of the Forest$() uses properties of $(l:practices/gold_trees)Gold Powder$() to encorporate the power of natural ingredients directly into a fresh, growing tree, devouring it in the process, but at the same time, transforming it into useful tools and items."
+            "text": "當你剛成為魔法植物學家時，使用自然力量本身比使用$(#419600)靈氣$()的力量更加有益。$(item)森林儀式$()使用$(l:practices/gold_trees)金葉粉$()的屬性來驅使自然成分力量進入一顆新生的，正在生長的樹苗，並在這個過程中吞噬它，將其轉化為實用的工具與物品。"
         },
         {
             "type": "text",
-            "text": "To construct this $(thing)ritual$(), one has to place $(item)Gold Powder$() in the configuration shown on the next page, with some $(item)Wooden Stands$() around that which will hold the ingredients.$(br)Then, the correct $(item)Sapling$() must be placed in the middle, and, either through some kind of fertilizer, or through the inevitability of time, its growth will cause the ritual to start."
+            "text": "要建造此$(thing)儀式$()，需要如同下一頁展示那樣放置$(item)金葉粉$()，一些用以擺放合成材料的$(item)木墩$()也需要放置在周圍。$(br)隨後，正確的$(item)樹苗$()必須被放置在中間。最後，要嘛使用肥料，要嘛等待必然的時間，樹苗的生長會導致儀式的開始。"
         },
         {
             "type": "multiblock",
             "multiblock_id": "naturesaura:tree_ritual",
-            "text": "Preparing the $(item)Ritual of the Forest$(). It is not required to have all $(item)Wood Stands$() present."
+            "text": "準備$(item)森林儀式$()。它並不需要圖中所有的$(item)木墩$()。"
         },
         {
             "type": "crafting",
-            "text": "Creating $(item)Wooden Stands$()",
+            "text": "合成$(item)木墩$()",
             "recipe": "naturesaura:wood_stand"
         },
         {
             "type": "text",
-            "text": "Together with the ritual, knowledge of $(item)Tokens$() can be gained: Wooden figurines, depicting key emotions - created from trees infused with their respective symbols. These figurines contain a combination of the vast power of $(aura) itself and the power of the emotions they represent.$(p)Going forward, these $(item)Tokens$() will be a key construction ingredient."
+            "text": "與儀式一起，$(item)徽章$()的知識會被得到：木製小雕像，刻畫特定的情感——使用注入對應符號的樹製作。這些雕像包含$(#419600)靈氣$()本身的巨大能量和雕像代表的情感的結合。$(p)再向前進，這些$(item)徽章$()將會是一個關鍵的構造原料。"
         },
         {
             "type": "naturesaura:tree_ritual",
             "recipe": "naturesaura:token_joy",
-            "text": "Creating the $(item)Token of Joy$(), infused with items that spark joy, found in nature, exploration and beauty"
+            "text": "合成$(item)快樂徽章$()，充滿了在自然、探索和美麗中發現，能激發快樂的物品"
         },
         {
             "type": "naturesaura:tree_ritual",
             "recipe": "naturesaura:token_fear",
-            "text": "Creating the $(item)Token of Fear$(), infused with items representing transience, falling"
+            "text": "合成$(item)恐懼徽章$()，充滿了代表無常、墮落的物品"
         },
         {
             "type": "naturesaura:tree_ritual",
             "recipe": "naturesaura:token_anger",
-            "text": "Creating the $(item)Token of Anger$(), infused with dark components - explosiveness, fire, darkness"
+            "text": "合成$(item)憤怒徽章$()，充滿了黑暗的成分——爆炸性、火、黑暗"
         },
         {
             "type": "naturesaura:tree_ritual",
             "recipe": "naturesaura:token_sorrow",
-            "text": "Creating the $(item)Token of Sorrow$(), infused with tears, fragility and death"
+            "text": "合成$(item)遺憾徽章$()，充滿了淚水、脆弱和死亡"
         }
     ]
 }
