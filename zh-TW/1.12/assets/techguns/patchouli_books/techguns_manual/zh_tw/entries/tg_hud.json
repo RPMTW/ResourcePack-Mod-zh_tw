@@ -1,20 +1,20 @@
 {
-    "name": "Techguns HUD",
+    "name": "科技槍械畫面",
     "icon": "techguns:itemshared:1",
     "category": "tg_inventory",
     "pages": [
         {
             "type": "text",
-            "text": "There are a few indicator symbols in the HUD that show the status of Techguns effects. Some can be toggled by $(l:tg_inventory_tab#buttons)button$(/l) or keybind."
+            "text": "科技槍械模組會在畫面顯示一些表示狀態效果的指示符號， 有些可經由$(l:tg_inventory_tab#buttons)按鈕$(/l)或按鍵來關閉。"
         },
         {
             "type": "image",
-            "title": "HUD & Button Symbols",
+            "title": "畫面及按鈕符號",
             "anchor": "images",
             "images": [
                 "techguns:textures/gui/manual/tg_hud_symbols.png"
             ],
-            "text": "The symbols used in the Techguns HUD and for $(l:tg_inventory_tab#buttons)buttons$(/l) in the $(l:tg_inventory_tab)Techguns Inventory Tab$(/l)."
+            "text": "顯示於畫面提示及$(l:tg_inventory_tab)科技槍械物品頁$(/l)中的$(l:tg_inventory_tab#buttons)按鈕$(/l)符號。"
         }
     ]
 }
