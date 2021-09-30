@@ -1,5 +1,5 @@
 {
-    "name": "Rotary Grinder",
+    "name": "旋轉磨粉機",
     "icon": "prodigytech:rotary_grinder",
     "category": "hot_air",
     "advancement": "prodigytech:main/aeroheater",
@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "text",
-            "text": "The $(item)Rotary Grinder$() works like a lot of well known machines: it crushes things. Most notably, it can crush an $(thing)Ore$() into 2 $(thing)Dusts$(), each being smeltable into an $(thing)Ingot$().$(br)It has a variety of other uses, and is required to progress through the mod.$(br2)Items can be inserted/extracted from any side except top and bottom."
+            "text": "$(item)旋轉磨粉機$()工作方式就和其他有名的Mod的同名機器一樣：粉碎物品。最主要的是他能把一個$(thing)礦$()粉碎成兩份$(thing)粉$()，每個都能燒成一個$(thing)錠$()。$(br)他還有其他的多種用法，以及這個mod整個流程都需要用到這個機器。$(br2)物品能從機器除了頂部和底部以外的各個面輸入/輸出。"
         },
         {
             "type": "crafting",
