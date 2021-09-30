@@ -1,12 +1,12 @@
 {
-    "name": "Zorrasteel Tools",
+    "name": "佐拉鋼工具",
     "icon": "prodigytech:zorrasteel_sword",
     "category": "primordium",
     "advancement": "prodigytech:main/zorra_leaf",
     "pages": [
         {
             "type": "text",
-            "text": "$(item)Zorrasteel$() can be used to make some tools. They are as strong as Diamond and are unbreakable.$(br2)They also cannot receive enchantments the normal ways, for that you'll need a $(item)Zorra Altar$(). This, however, allows them to get enchanted a lot more than mundane tools."
+            "text": "$(item)佐拉鋼$()能夠用來製作一些工具。這些工具效能上和鑽石鎬一樣但是是不毀的。$(br2)它們不能通過一般的方式來附魔，所以你需要一個$(item)佐拉祭壇$()。因為它，所以，能讓這些工具能獲得比那些平凡的工具更多更好的附魔。"
         },
         {
             "type": "crafting",
