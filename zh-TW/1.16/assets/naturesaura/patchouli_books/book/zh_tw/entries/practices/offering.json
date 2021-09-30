@@ -1,35 +1,35 @@
 {
-    "name": "Offering to the Gods",
+    "name": "獻給眾神",
     "icon": "naturesaura:offering_table",
     "category": "practices",
     "advancement": "naturesaura:tainted_gold",
     "pages": [
         {
             "type": "text",
-            "text": "$(item)Infused Iron$() is good and well, and it has enough natural power to do a variety of things on its own. But for more advanced mechanisms, a more powerful metal is required. For that, and for a lot of other things, the $(item)Offering to the Gods$() is required.$(br)The Gods have been, for a long time, the strongest and most powerful beings, and as such, also posess the strongest metals known to man."
+            "text": "$(item)灌注鐵$()很好，它有足夠的自然力量獨自做各種事情。但對於更先進的機械，需要更強大的金屬。為了這種金屬，也為了其他許多東西，$(item)獻給眾神$()儀式是必要的。$(br)長久以來，諸神一直是最強壯、最強大的存在，因此，它們也擁有人類所知的最強壯的金屬。"
         },
         {
             "type": "text",
-            "text": "To construct a way to call to the Gods themselves, simply place down an $(item)Offering Table$() with some flowers around it as depicted on the next page. Then, to start an offering, place any amount of items you want to offer into the bowl on the table, and then throw down the item that will call the Gods themselves, in most cases, the $(item)Spirit of Calling$(), close to the table.$(br)The requested items will then, with any luck, rain down from the sky."
+            "text": "要構造一種方法來呼喚神靈本身，只需放置一個$(item)供桌$()，並在桌子$()周圍放一些花，如下一頁所示。然後,開始祭祀,將任何數量你想供奉的物品放在桌子上的碗裡，然後靠近桌子扔下呼喚神本身的物品,在大多數情況下，$(item)呼喚之魂$()。$(br)運氣好的話,請求的物品將從天空如雨般落下。"
         },
         {
             "type": "multiblock",
             "multiblock_id": "naturesaura:offering_table",
-            "text": "Preparing the $(item)Offering to the Gods$(). Any type of flower can be used."
+            "text": "準備$(item)獻給眾神$()儀式。可以用任何種類的花。"
         },
         {
             "type": "crafting",
-            "text": "Creating the $(item)Offering Table$()",
+            "text": "合成$(item)供桌$()",
             "recipe": "naturesaura:offering_table"
         },
         {
             "type": "crafting",
-            "text": "Creating $(item)Spirits of Calling$()",
+            "text": "合成$(item)呼喚之魂$()",
             "recipe": "naturesaura:calling_spirit"
         },
         {
             "type": "naturesaura:offering",
-            "text": "Asking for $(item)Ingots of the Sky$(), a powerful metal infused with divine energy.",
+            "text": "請求$(item)天空之錠$()，用神聖能量灌注的強大金屬。",
             "recipe": "naturesaura:sky_ingot"
         },
         {
