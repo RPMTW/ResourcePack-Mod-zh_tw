@@ -1,16 +1,16 @@
 {
-    "name": "Item Grounder",
+    "name": "物品貼地器",
     "icon": "naturesaura:pickup_stopper",
     "category": "devices",
     "advancement": "naturesaura:infused_materials",
     "pages": [
         {
             "type": "text",
-            "text": "A lot of mechanisms require the use of dropped $(thing)items$() in the world, which can easily be picked up by people inspecting the mechanism on accident.$(br)The $(item)Item Grounder$() causes items in the area to only be picked up by anyone if they're sneaking. Its area of effect ranges from 0 to 8 blocks around it and is determined, relatively, by the strength of the $(thing)redstone signal$() applied."
+            "text": "許多機器需要用到世界中的掉落$(thing)物品$()，而這些物品很容易被檢查機器的人意外地撿起。$(br)$(item)物品貼地器$()會使得區域中的物品只能被潛行的人撿到。其工作範圍是附近的8格內，而且相當地受到通入的$(thing)紅石訊號$()強度的影響。"
         },
         {
             "type": "crafting",
-            "text": "Creating the $(item)Item Grounder$()",
+            "text": "合成$(item)物品貼地器$()",
             "recipe": "naturesaura:pickup_stopper"
         }
     ]
