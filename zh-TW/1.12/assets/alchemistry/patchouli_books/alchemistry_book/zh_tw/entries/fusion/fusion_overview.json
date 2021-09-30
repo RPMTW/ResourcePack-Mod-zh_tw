@@ -1,15 +1,15 @@
 {
-  "name": "融合概覽",
+  "name": "聚變倉簡介",
   "icon": "alchemistry:fusion_controller",
   "category": "fusion_category",
   "pages": [
     {
       "type": "text",
-      "text": "多方塊結構允許你將兩種元素融合為一種新元素，輸入的兩種元素原子數之和將決定輸出元素，示例：鐵（26）+鏑（66）——>鈾(92)"
+      "text": "聚變倉可以使兩種元素變為原子序數之和等於該兩種元素的元素。 舉例: 鐵 (26) + 磷 (15) -> 鈮 (41)"
     },
     {
       "type": "crafting",
-      "recipe": "炼金融合控制器",
+      "recipe": "alchemistry:fusion_controller",
       "recipe2": "alchemistry:fusion_controller"
     },
     {
