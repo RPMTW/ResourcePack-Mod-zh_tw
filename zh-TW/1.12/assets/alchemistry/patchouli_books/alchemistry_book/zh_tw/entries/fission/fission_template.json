@@ -1,11 +1,11 @@
 {
-  "name": "Fission Multiblock Template",
+  "name": "聚變倉結構",
   "icon": "alchemistry:fission_casing",
   "category": "fission_category",
   "pages": [
     {
       "type": "multiblock",
-      "name": "Fission Multiblock",
+      "name": "聚變倉",
       "multiblock": {
         "pattern": [
           [
@@ -59,7 +59,7 @@
     },
     {
       "type": "text",
-      "text": "98x Fission Casing $(br) 3x Fission Core $(br) 1x Fission Controller"
+      "text": "98x 聚變倉壁 $(br) 3x 聚變倉核心 $(br) 1x 聚變倉控制器"
     }
   ]
 }
