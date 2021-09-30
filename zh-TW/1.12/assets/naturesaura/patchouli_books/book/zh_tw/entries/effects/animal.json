@@ -1,21 +1,21 @@
 {
-    "name": "Increase of Fertility",
+    "name": "繁殖加速",
     "icon": "minecraft:egg",
     "category": "effects",
     "advancement": "naturesaura:positive_imbalance",
     "pages": [
         {
             "type": "text",
-            "text": "When the amount of $(aura) in an area increases beyond about two thirds of the $(l:items/eye)Environmental Eye$()'s gauge, and there is some $(l:effects/effect_powder)Powder of Fertility$() nearby, it starts to affect the $(item)animals$() in the area: Cows, sheep, pigs and the like will start $(thing)mating$() without any encouragement occasionally, draining some of the $(aura) in the process as if falling in love because of its power."
+            "text": "當區域內$(#419600)靈氣$()的含量超過了$(l:items/eye)環境之眼$()測量範圍的三分之二，而且附近存在一些$(l:effects/effect_powder)生育之粉$()，區域內的$(item)動物$()就會開始受到影響：牛、羊、豬之類的動物會開始在缺乏額外激勵的情況下自主$(thing)交配$()，因為繁殖是受到了靈氣的影響，在這過程中會消耗一定$(#419600)靈氣$()。"
         },
         {
             "type": "text",
-            "text": "Additionally, $(item)Eggs$() that have been laying around on the ground as an item for a while will $(thing)hatch$() into a chicken without needing to be thrown.$(p)Note that both of these effects will cease to occur once there are enough animals present in the area, preventing overpopulation."
+            "text": "除此之外，掉在附近地上的$(item)雞蛋$()會在沒有被投擲的情況下$(thing)孵化$()成雞。$(p)注意，一旦該地區有足夠的動物出現，上述兩種效應就會停止發生以防止動物數量過剩。"
         },
         {
             "type": "naturesaura:tree_ritual",
             "recipe": "naturesaura:animal_powder",
-            "text": "Creating the $(l:effects/effect_powder)Powder of Fertility$()."
+            "text": "合成$(l:effects/effect_powder)生育之粉$()."
         }
     ]
 }
