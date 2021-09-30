@@ -1,11 +1,11 @@
 {
-  "name": "融合結構樣板",
+  "name": "裂變倉結構",
   "icon": "minecraft:writable_book",
   "category": "fusion_category",
   "pages": [
     {
       "type": "multiblock",
-      "name": "融合模塊結構\n",
+      "name": "裂變倉",
       "multiblock": {
         "pattern": [
           [
@@ -51,15 +51,15 @@
         ],
         "mapping": {
           "C": "alchemistry:fusion_casing",
-          "T": "alchemistry:fusion_controller",
-          "R": "alchemistry:fusion_core",
-          "0": "alchemistry:fusion_casing"
+          "T": "alchemistry:fission_controller",
+          "R": "alchemistry:fission_core",
+          "0": "alchemistry:fission_casing"
         }
       }
     },
     {
       "type": "text",
-      "text": "98x 融合外殼 $(br) 3x 融合核心 $(br) 1x 融合控制器"
+      "text": "98x 裂變倉壁 $(br) 3x 裂變倉核心 $(br) 1x 裂變倉控制器"
     }
   ]
 }
