@@ -1,16 +1,16 @@
 {
-    "name": "Aura Detector",
+    "name": "靈氣探測器",
     "icon": "naturesaura:aura_detector",
     "category": "devices",
     "advancement": "naturesaura:infused_materials",
     "pages": [
         {
             "type": "text",
-            "text": "When working with $(aura), sometimes it can be beneficial to know about its levels in an area without having to be there to check in person. The $(item)Aura Detector$() gives out a $(thing)redstone$() signal based on the amount of $(aura) in the close vicinity around it, so long as you attach a $(item)Comparator$() to it. For that, its range of display is similar to that of the $(l:items/eye)Environmental Eye$()."
+            "text": "運用$(#419600)靈氣$()時，不需要親自檢查就知道目前區域靈氣含量是非常有用的。$(item)靈氣探測器$()會根據附近區域的$(#419600)靈氣$()數量在緊貼的$(item)紅石比較器$()中輸出$(thing)紅石$()訊號。其探測靈氣含量的範圍與$(l:items/eye)環境之眼$()相似。"
         },
         {
             "type": "crafting",
-            "text": "Creating the $(item)Aura Detector$()",
+            "text": "合成$(item)靈氣探測器$()",
             "recipe": "naturesaura:aura_detector"
         }
     ]
