@@ -1,24 +1,24 @@
 {
-    "name": "Adept Hopper",
+    "name": "專家型漏斗",
     "icon": "naturesaura:grated_chute",
     "category": "devices",
     "advancement": "naturesaura:infused_materials",
     "pages": [
         {
             "type": "text",
-            "text": "A lot of times when dealing with mechanical devices, $(thing)transporting items$() is of great importance and can become a nuisance if done on a large scale, especially because of the lack of $(thing)filtering$() abilities. The $(item)Adept Hopper$() creates the ability to filter items travelling through $(item)Hoppers$() with ease."
+            "text": "許多時候，在處理機械設備時，$(thing)傳輸物品$()非常重要，而且在規模很大，缺乏$(thing)過濾$()能力的情況下會變得非常麻煩。$(item)專家型漏斗$()能輕鬆地對經過$(item)漏斗$()的物品進行過濾。"
         },
         {
             "type": "text",
-            "text": "The $(item)Adept Hopper$() works just like a normal $(item)Hopper$(), except that it is a bit faster and that it can filter items as follows: Attaching any number of $(item)Item Frames$() to any side of it and placing items inside will cause $(thing)only those items$() to be let through. This counts both for pulling items from chests and the world and for having items inserted into it.$(p)It should additionally be noted that the $(l:using/hopper_upgrade)Hopper Enhancement$() can be combined with this to pick up only filtered items."
+            "text": "$(item)專家型漏斗$()就像普通$(item)漏斗$()一樣工作，除了比普通的快一點外還能像這樣進行過濾：將任意數量的$(item)物品展示框$()放置在其任一面上並在展示框內放置物品，$(thing)只有這些物品$()會通過漏斗。這同時對從儲物箱或世界中吸取物品和插入物品起效。$(p)值得注意的是，$(l:using/hopper_upgrade)漏斗增強器$()可以和這個同時工作來實現只撿起特定物品。"
         },
         {
             "type": "text",
-            "text": "Additionally, the $(item)Adept Hopper$()'s functionality can be $(thing)inverted$() simply by interacting with it while sneaking: This will cause not items $(italic)in$() the frames to be accepted, but all items that are $(italic)not$() in the frames. This, additionally, allows for throughput of any item, simply by not placing down any frames at all."
+            "text": "除此之外，$(item)專家型漏斗$()的功能可以簡單地被潛行右鍵$(thing)反轉$()：這會使得$(italic)在$()展示框內的物品不被接受，$(italic)不在$()的被接受。更進一步，這種漏斗允許任何物品通過，只需要不放置展示框。"
         },
         {
             "type": "crafting",
-            "text": "Creating the $(item)Adept Hopper$()$(p)It should be noted that, when equipping an $(l:items/eye)Environmental Eye$(), the amount of items currently stored in the hopper can be seen.",
+            "text": "合成$(item)專家型漏斗$()$(p)當裝備$(l:items/eye)環境之眼$()時，可以看見漏斗內儲存的物品。",
             "recipe": "naturesaura:grated_chute"
         }
     ]
