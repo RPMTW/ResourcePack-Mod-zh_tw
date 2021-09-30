@@ -1,5 +1,5 @@
 {
-    "name": "Transmutation Catalyst",
+    "name": "嬗變催化器",
     "icon": "naturesaura:conversion_catalyst",
     "category": "using",
     "advancement": "naturesaura:sky_ingot",
@@ -10,22 +10,22 @@
         },
         {
             "type": "naturesaura:tree_ritual",
-            "text": "Creating the $(item)Transmutation Catalyst$() using the $(l:practices/tree_ritual)Ritual of the Forest$().",
+            "text": "用$(l:practices/tree_ritual)森林儀式$()製造$(item)嬗變催化器$()。",
             "recipe": "naturesaura:conversion_catalyst"
         },
         {
             "type": "naturesaura:altar",
-            "text": "Creating $(item)Dragon's Breath$() out of the end's $(aura)",
+            "text": "用瓶裝黑暗製造$(item)龍之吐息$()。",
             "recipe": "naturesaura:breath"
         },
         {
             "type": "naturesaura:altar",
-            "text": "Conjuring $(item)Leather$() from a zombie's remains",
+            "text": "將腐肉轉化為$(item)皮革$()",
             "recipe": "naturesaura:leather"
         },
         {
             "type": "naturesaura:altar",
-            "text": "Making $(item)Soul Sand$() out of worldly grains",
+            "text": "利用沙製作$(item)靈魂砂$()",
             "recipe": "naturesaura:soul_sand"
         },
         {
@@ -35,17 +35,17 @@
         },
         {
             "type": "naturesaura:altar",
-            "text": "Conjuring $(item)Prismarine Shards$() from the nether's ore",
+            "text": "用地獄的礦物變出$(item)海磷碎片$()",
             "recipe": "naturesaura:prismarine"
         },
         {
             "type": "naturesaura:altar",
-            "text": "Causing $(thing)water$() to accumulate inside an empty $(item)bottle$()",
+            "text": "使空$(item)玻璃瓶$()內開始積攢$(thing)水$()",
             "recipe": "naturesaura:water"
         },
         {
             "type": "naturesaura:altar",
-            "text": "Turning $(item)Charcoal$() into $(item)Coal$()",
+            "text": "將$(item)木炭$()轉變為$(item)煤炭$()",
             "recipe": "naturesaura:coal"
         },
         {
