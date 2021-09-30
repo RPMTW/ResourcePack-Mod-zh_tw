@@ -1,5 +1,5 @@
 {
-    "name": "Zorra",
+    "name": "佐拉樹",
     "icon": "prodigytech:zorra_sapling",
     "category": "primordium",
     "advancement": "prodigytech:main/primordium",
@@ -7,12 +7,12 @@
     "pages": [
         {
             "type": "text",
-            "text": "The $(thing)Zorra$() is an artificial breed of tree obtained by putting any sapling through the $(item)Atomic Reshaper$(). Its leaves are razor sharp and can be harvested to make $(item)Zorrasteel$().$(br2)While $(item)Zorra Saplings$() are expensive and the trees don't yield a lot of them, any $(item)Zorra Leaves$() grown from a sapling can absorb the blood of any creature it kills and use it to spread a few blocks."
+            "text": "$(thing)佐拉樹$()是一種人工培育的樹，獲得方式是通過把樹苗放入$(item)原子重塑機$()來獲得。他的樹葉如刀鋒一樣鋒利，以及能採集下來製作$(item)佐拉鋼$()。$(br2)同時$(item)佐拉樹樹苗$()也是相當的昂貴，以及一棵樹也沒多少佐拉樹樹葉。所以任意只要是從樹苗長成的$(item)佐拉樹樹葉$()都可以通過讓樹葉殺死生物，吸收它們的血以擴充樹葉。"
         },
         {
             "type": "crafting",
             "recipe": "prodigytech:materials/zorrasteel_raw",
-            "text": "$(item)Raw Zorrasteel Ingots$() then need to be processed in the $(item)Explosion Furnace$() to become useable $(item)Zorrasteel Ingots$()."
+            "text": "$(item)生的佐拉鋼錠$()需要使用$(item)爆炸熔爐$()處理成可使用的$(item)佐拉鋼錠$()。"
         }
     ]
 }
