@@ -1,11 +1,11 @@
 {
-  "name": "Atomizer Overview",
+  "name": "霧化器簡介",
   "icon": "alchemistry:atomizer",
   "category": "atomizer_category",
   "pages": [
     {
       "type": "text",
-      "text": "The Atomizer is a powered machine that can be used convert fluids into their equivalent Alchemistry elements or compounds"
+      "text": "霧化器是一種需要消耗FE能量的機器，可將流體轉換為元素或化合物等物質"
     },
     {
       "type": "crafting",
