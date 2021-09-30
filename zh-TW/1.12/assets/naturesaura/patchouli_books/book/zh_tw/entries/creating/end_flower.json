@@ -1,17 +1,17 @@
 {
-    "name": "Rose of Oblivion",
+    "name": "遺忘玫瑰",
     "icon": "naturesaura:end_flower",
     "category": "creating",
     "advancement": "naturesaura:end_flower",
     "pages": [
         {
             "type": "text",
-            "text": "The $(thing)Ender Dragon$() is known to be quite a beast to behold. It guards $(thing)The End$() better than anybody else, but it can be defeated. This not only bears a token of its offspring and a lot of pride, it also bears the $(item)Rose of Oblivion$(). Upon the dragon's death, they will start sprouting out of the ground on the end island, ready to be collected by any botanist and placed in any dimension."
+            "text": "$(thing)終界龍$()被認為是相當兇暴的怪物。它在守衛$(thing)終末之界$()這點上比其他任何生物都做得好，但它是可以被打敗的。打敗終界龍不僅代表著龍的後代和屠龍者的榮譽，更代表著$(item)遺忘玫瑰$()。龍死後，玫瑰將開始在終界島的地面上發芽，準備好被任何植物學家收集並放置在任何維度。"
         },
         {
             "type": "spotlight",
             "item": "naturesaura:end_flower",
-            "text": "This flower bears very large amounts of $(aura) that can be harvested in an interesting way: Dropping an $(item)Ender Eye$() on the ground close to it will cause the rose to consume it and start dispersing its $(aura) into the environment. During this process, it can neither be stopped, nor harvested.",
+            "text": "這種花含有大量的$(#419600)靈氣$()，這些$(#419600)靈氣$()可以被一種有趣的方式收穫：在花的旁邊掉落的$(item)終界之眼$()會被花消耗掉，此時花會開始釋放$(#419600)靈氣$()到環境中。這個過程無法被停止，過程中花朵也無法被收穫。",
             "link_recipe": true
         }
     ]
