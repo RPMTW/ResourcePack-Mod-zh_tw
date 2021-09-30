@@ -1,11 +1,11 @@
 {
-    "name": "Camo Bench",
+    "name": "迷彩機",
     "icon": "techguns:simplemachine:8",
     "category": "simple_machines",
     "pages": [
         {
             "type": "text",
-            "text": "The camo bench allows to change the texture of techguns items but also can recolor vanilla blocks like wool. $(br) Put an item the top left slot and press the buttons to change the color. The camo of currently equipped armor parts can also be changed directly."
+            "text": "《迷彩機》讓你變更科技槍械物品的材質色彩， 也可用來幫像羊毛這種一般方塊重新上色。$(br)將物品放在左上方的槽中， 然後用按鈕來選擇變換的色彩， 也可直接改變身上穿著的服裝色彩。"
         },
         {
             "type": "crafting",
