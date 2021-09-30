@@ -1,6 +1,6 @@
 {
-    "name": "Aura Imbalance",
-    "description": "Draining $(aura) from the world or adding more of it is what is called $(thing)Aura Imbalance$() - and it can have both positive and negative effects. Those are listed in this category.",
+    "name": "靈氣失衡",
+    "description": "抽乾或增多世界內的$(#419600)靈氣$()被稱為$(thing)靈氣失衡$()——它是把雙刃劍。正反兩方的效果都列在此分類中。",
     "icon": "naturesaura:textures/gui/patchouli/categories/effects.png",
     "sortnum": 20
 }
