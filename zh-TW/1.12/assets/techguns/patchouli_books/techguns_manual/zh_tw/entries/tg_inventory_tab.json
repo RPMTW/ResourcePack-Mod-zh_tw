@@ -1,32 +1,32 @@
 {
-    "name": "Techguns Inventory Tab",
+    "name": "科技槍械物品頁",
     "icon": "techguns:itemshared:1",
     "category": "tg_inventory",
     "pages": [
         {
             "type": "text",
-            "text": "From the survival inventory the player can switch to the techguns inventory tab by clicking the buttons at the top."
+            "text": "在生存模式的物品欄畫面， 玩家可點擊上方的按鈕切換至科技槍械物品頁。"
         },
         {
             "type": "text",
-            "title": "Additional Armor Slots",
-            "text": "Techguns adds 3 additional armor slots where special items can be worn. The slots are $(thing)'Face'$(), $(thing)'Back'$() and $(thing)'Hands'$(). Items in this slots give different abilities or bonus stats."
+            "title": "額外裝備槽",
+            "text": "科技槍械模組增加 3 個用來穿戴指定物品的額外裝備槽，分別為$(thing)《臉部》$()、$(thing)《背部》$()及$(thing)《手部》$()， 這些槽中的物品可提供各種能力或增強屬性。"
         },
         {
             "type": "text",
-            "title": "Ammo Slots",
-            "text": "There are also additional inventory slots for ammo to not clutter the inventory. Currently 8 slots are available for ammo. Every item that is used as ammo or battery can be put there. Reloading checks for ammo in the ammo inventory first, empty magazines and batteries also get put there first."
+            "title": "彈藥槽",
+            "text": "有 8 個額外的彈藥槽， 可用來放子彈或能量匣， 免於散亂在身上的物品欄。 裝彈時會優先檢查彈藥槽的彈藥， 空的彈匣和能量匣也會優先放至這裡。"
         },
         {
             "type": "text",
-            "title": "Food Slots",
-            "text": "The 3 food slots allow to store food items that automatically get eaten when needed. Automatic feeding can be disabled in the config file. $(br2) There also is a healing item slot indicated with a + which is NOT USED as of version 2.0.1.2."
+            "title": "食物槽",
+            "text": "3 個用來存放食物的食物槽， 會在需要時自動吃掉。 設定檔中可將自動進食關閉。$(br2)還有一個顯示十字符號的醫療物品槽， 目前尚未啟用。"
         },
         {
             "type": "text",
-            "title": "Toggle Buttons",
+            "title": "開關按鈕",
             "anchor": "buttons",
-            "text": "On the left side of the Techguns Inventory there are small buttons to toggle bonus effects like 'Nightvision' or 'Jetpacks'. This buttons also have keybinds which can be viewed in the keybind options. $(br)The first button toggles the visibility of all $(l:tg_hud#images)Techguns HUD elements$(/l)."
+            "text": "在科技槍械物品頁左側有些小按鈕， 用來開關像是《夜視》或《噴射背包》這些附加效果。這些按鈕也有對應的快速鍵， 可在按鍵選項中查看。$(br)第一個按鈕可切換是否在畫面上顯示$(l:tg_hud#images)科技槍械模組的各種圖示$(/l)。"
         }
     ]
 }
