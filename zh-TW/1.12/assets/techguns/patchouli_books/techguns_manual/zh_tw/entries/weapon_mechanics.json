@@ -1,41 +1,41 @@
 {
-    "name": "* Weapon Mechanics *",
+    "name": "＊ 武器特性 ＊",
     "icon": "techguns:itemshared:57",
     "category": "weapons",
     "pages": [
         {
             "type": "text",
-            "text": "Weapons have a left click action and optionally a $(thing)right click action$(). The $(thing)left click action$() is either primary fire or melee when the weapon is a tool or a melee weapon. The $(thing)right-click action$() differs between weapon. Some weapons do not have a $(thing)right-click action$(), others have zooming, secondary fire mode or a charging attack."
+            "text": "武器的操作有滑鼠左鍵動作及選擇性的$(thing)滑鼠右鍵動作$()。當武器是工具或近戰武器時， $(thing)滑鼠左鍵動作$()為主要射擊或近距離戰鬥。而$(thing)滑鼠右鍵動作$()依各武器而不同， 有的可開啟望遠瞄準， 有的是第二發射模式或衝鋒攻擊， 而有些武器沒有$(thing)滑鼠右鍵動作$()。"
         },
         {
             "type": "text",
-            "title": "Hand Types",
+            "title": "手持方式",
             "anchor": "hand_types",
-            "text": "There are three different hand types for weapons: $(thing)'One-Handed'$(), $(thing)'Two-Handed'$() and $(thing)'Dual Wield Penalty'$(). 'Dual Wield Penalty' is like 'One-Handed' but gets an accuracy penalty when used with dual wielding. 'Two-Handed' weapons always block the second hand. The off-hand item is not rendered and cannot be used. Only 'Two-Handed' weapons can have a right click action but don't always have to."
+            "text": "武器手持的方式有三種：$(thing)單手$()、$(thing)雙手$()以及$(thing)雙持失準$()。$(br)《雙持失準》基本上跟《單手》一樣， 但兩手各拿一把的話會降低精準度。需要《雙手》持有的武器會用到副手， 無法使用副手上拿的物品， 也不會顯示出來。只有《雙手》武器才具有滑鼠右鍵動作， 不過也不是都有啦。"
         },
         {
             "type": "text",
-            "title": "Reloading",
-            "text": "A gun that has no more ammo left will be reloaded when you try to shoot it, provided that there is enough ammo left in your inventory. There is also a keybind ($(9)$(k:techguns.key.forceReload)$()) to force-reload a weapon. This allows to reload partially emptied guns but can cause loss of ammunition. If for example a magazine needs 3 bullet items to craft and the gun is reloaded with 25/30 shots, you only get 2 bullet items back."
+            "title": "裝彈",
+            "text": "當你要射擊一把沒有彈藥的槍， 就會執行裝彈的動作， 前提是身上的物品欄中還有足夠的彈藥。$(br)按鍵《$(9)$(k:techguns.key.forceReload)$()》可將手上的武器強制裝彈， 這能使子彈還沒用完的槍枝重新裝彈， 不過可能會造成子彈的損失。例如一把彈匣容量為 30 發子彈的槍， 這個彈匣需要 3 組子彈來製作， 而這把槍在剩餘 25 發子彈時強制裝彈， 此時只會退回 2 組子彈。"
         },
         {
             "type": "text",
-            "title": "Ammo and Durability",
-            "text": "Guns do NOT have durability. The durability bar on the item shows how much percent ammo is left. Ammunition is the only operation cost. The ammo count is also shown in left bottom corner of the screen in the following format: <ammo in magazine>/<magazine capacity> x <how often you can reload from your inventory>."
+            "title": "子彈與耐久度",
+            "text": "槍枝本身並無耐久度的屬性， 而槍枝物品上所顯示的耐久指示條為剩餘子彈的百分比， 槍枝唯一會消耗的只有子彈。子彈的數量也會顯示在畫面的右下角， 其格式為：$(br)<槍枝中的子彈>/<彈藥空間> x <還能從身上裝彈的次數>。"
         },
         {
             "type": "text",
-            "title": "Safe mode",
-            "text": "Guns have a safe mode that avoids all block damage. The safe mode can be toggle with the $(9)$(k:techguns.key.toggleSafemode)$()-key. With safe mode enabled weapons like a rocket launcher can be used near your base without blowing everything up. Server administrators can force players to use the safe mode. "
+            "title": "安全模式",
+            "text": "安全模式可避免槍械破壞到所有方塊。可按下《$(9)$(k:techguns.key.toggleSafemode)$()》鍵來開關安全模式。在安全模式下， 你可以放心的在基地附近使用像是火箭彈發射器這種武器， 而不用擔心意外的炸飛整個基地。 伺服器管理員可強制使玩家開啟安全模式。"
         },
         {
             "type": "image",
-            "title": "Safe mode Indicator",
+            "title": "安全模式圖示",
             "images": [
                 "techguns:textures/gui/manual/safemode_on.png",
                 "techguns:textures/gui/manual/safemode_off.png"
             ],
-            "text": "The icon showing the current state of safe-mode while holding a gun."
+            "text": "拿著槍時會出現這個圖示來表示目前的安全模式狀態。"
         }
     ]
 }
