@@ -1,20 +1,20 @@
 {
-    "name": "Bucket of Infinite Color",
+    "name": "五彩繽紛桶",
     "icon": "naturesaura:color_changer",
     "category": "items",
     "advancement": "naturesaura:infused_materials",
     "pages": [
         {
             "type": "text",
-            "text": "Using $(thing)colors$() as a means of making buildings look nice is a recognized technique among builders. However, sometimes it can be difficult to find all the colors one requires. The $(item)Bucket of Infinite Colors$(), merely using the three primary shades of the world, can create any color so long as it came in contact with them, and then tranfer it onto any dyeable block."
+            "text": "使用$(thing)顏色$()讓建築美觀的手段是建築玩家間的標準技術。然而，有時很難找到你所需的所有顏色。$(item)五彩繽紛桶$()，僅僅使用了世上的三種主要顏色，可以在接觸時創造任何顏色，並將顏色轉移到可染色方塊上。"
         },
         {
             "type": "text",
-            "text": "To use the bucket, simply sneak and interact with any dyeable block. To then transfer that color onto a block, simply interact with it.$(br)Sneaking and interacting with the item itself will cause it to switch into $(thing)fill mode$(), meaning that, upon dyeing a block, all surrounding blocks with the same color will also be changed.$(br)Of course, this comes with the cost of some $(thing)Aura$(), which needs to be supplied in the form of an $(l:items/aura_cache)Aura Cache$() in one's inventory."
+            "text": "要使用五彩繽紛桶，只需在潛行時互動任何可染色方塊。若想讓這顏色轉移到另一方塊，只需直接與之互動。$(br)對空氣潛行右擊可以切換至$(thing)填充模式$()，意味著一旦著色了一個可染色方塊，周圍所有的同色方塊都將被著色。$(br)當然，這些都需要一些$(thing)靈氣$()，需要依靠背包中的$(l:items/aura_cache)靈氣快取$()。"
         },
         {
             "type": "crafting",
-            "text": "Creating the $(item)Bucket of Infinite Color$()",
+            "text": "合成$(item)五彩繽紛桶$()",
             "recipe": "naturesaura:color_changer"
         }
     ]
