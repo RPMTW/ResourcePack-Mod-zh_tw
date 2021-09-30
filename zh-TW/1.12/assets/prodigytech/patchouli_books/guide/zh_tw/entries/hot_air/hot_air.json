@@ -1,5 +1,5 @@
 {
-    "name": "Hot Air",
+    "name": "熱空氣",
     "icon": "prodigytech:air_funnel",
     "category": "hot_air",
     "advancement": "prodigytech:recipes/ferramic_ingot",
@@ -8,20 +8,20 @@
     "pages": [
         {
             "type": "text",
-            "text": "Most machines in the mod will use $(thing)Hot Air$() as their fuel. $(thing)Hot Air$() can be produced with $(thing)Aeroheaters$(), which will output their $(thing)Hot Air$() to the block above them.$(br2)$(thing)Hot Air$() always travels upwards and is lost when going through anything that does not let it pass."
+            "text": "這Mod中大多數的機器都用$(thing)熱空氣$()作為他們的燃料。$(thing)熱空氣$()是由$(thing)氣熱爐$()產出的，然後從機器的上方輸出$(thing)熱空氣$()。$(br2)$(thing)熱空氣$()會一直往上升，以及在遇到他不能通過的東西的時候就會開始消散。"
         },
         {
             "type": "text",
-            "text": "$(thing)Hot Air machines$() will require $(thing)Hot Air$() to be supplied to their bottom side at a certain temperature in order to work.$(br2)They will also transmit their $(thing)Hot Air$() up, with a lowered temperature while working. This allows you to power several machines with the same $(thing)Aeroheater$() by stacking them on top of eachother."
+            "text": "$(thing)使用熱空氣的機器$()需要從他們的底面輸入$(thing)熱空氣$()且得在某個溫度才能讓他們工作。$(br2)他們也能向上傳輸$(thing)熱空氣$()，當機器在工作時，傳輸的溫度會低一些。這就需要你去只使用一個$(thing)氣熱爐$()來驅動你的一系列機器，而且還需要用向上堆疊的方式來放置機器。"
         },
         {
             "type": "text",
-            "text": "Higher temperatures will result in machines working faster. For example, supplying a machine with twice its required temperature will cause it to work twice as fast.$(br2)It also indirectly allows you to stack more machines since the temperature can go through a lot more working machines before being too low to be usable."
+            "text": "更的溫度會讓機器運作得更快。例如你供給一個機器需求的兩倍溫度，那麼機器的運作速度也是兩倍。$(br2)所以他也間接的允許你堆疊儘可能多的能保持工作狀態的機器，一直到最後一個無法工作為止。"
         },
         {
             "type": "crafting",
             "recipe": "prodigytech:machine/air_funnel",
-            "text": "$(item)Air Funnels$() allow you to transfer $(thing)Hot Air$() along longer distances without having to make expensive machines.$(br)In addition, they will stop transmitting $(thing)Hot Air$() when supplied with a redstone signal."
+            "text": "$(item)空氣管道$()能讓你傳輸$(thing)熱空氣$()到更遠的距離，而不用做哪些昂貴的機器。$(br)此外給予管道一個紅石訊號就能讓他停止傳輸$(thing)熱空氣$()。"
         }
     ]
 }
