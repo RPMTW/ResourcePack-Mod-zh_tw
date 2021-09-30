@@ -1,11 +1,11 @@
 {
-  "name": "黑曜石粉碎器",
+  "name": "黑曜石粉碎杖",
   "icon": "alchemistry:obsidian_breaker",
   "category": "utility_category",
   "pages": [
     {
       "type": "text",
-      "text": "黑曜石粉碎器是可以使用shift鍵+鼠標右鍵立即採集一塊黑曜石的簡易物品，流程中將需求該物品"
+      "text": "黑曜石粉碎杖是一個一次性物品，它可以右擊一塊黑曜石將其立刻採集，但黑曜石粉碎杖也會被消耗。"
     },
     {
       "type": "crafting",
