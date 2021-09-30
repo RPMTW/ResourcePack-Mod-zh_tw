@@ -1,16 +1,16 @@
 {
-    "name": "Hopper Enhancement",
+    "name": "增強型漏斗",
     "icon": "naturesaura:hopper_upgrade",
     "category": "using",
     "advancement": "naturesaura:infused_materials",
     "pages": [
         {
             "type": "text",
-            "text": "Collecting items using $(item)Hoppers$() is useful, but sometimes, it can be inconvenient, especially if given a big area that one has to collect items in. For that, the $(item)Hopper Enhancement$() will be a help: By simply placing it on top of any $(item)Hopper$(), it will increase its range of picking up items drastically by about $(thing)seven$() blocks.$(br)When collecting an item, it then uses a small amount of $(aura)."
+            "text": "通過$(item)漏斗$()收集物品十分有用，但有時候也會很不方便，尤其是有一大片區域需要收集物品。對此，$(item)增強型漏斗$()十分有用：只需將其放置在任何$(item)漏斗$()上方，它將會大大增加漏斗的拾取範圍大約$(thing)7$()格。$(br)每次收集到物品時，會耗費少量$(#419600)靈氣$()."
         },
         {
             "type": "crafting",
-            "text": "Creating the $(item)Hopper Enhancement$()",
+            "text": "合成$(item)增強型漏斗$()",
             "recipe": "naturesaura:hopper_upgrade"
         }
     ]
