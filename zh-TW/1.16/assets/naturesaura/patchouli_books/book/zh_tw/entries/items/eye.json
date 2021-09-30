@@ -1,5 +1,5 @@
 {
-    "name": "Environmental Eye",
+    "name": "環境之眼",
     "icon": "naturesaura:eye",
     "category": "items",
     "advancement": "naturesaura:wood_stand",
@@ -8,15 +8,15 @@
     "pages": [
         {
             "type": "text",
-            "text": "When working with $(aura), by nature, it will be hard to grasp just how much there is in any given area or storage device. The $(item)Environmental Eye$() has the powers to display this information to botanists though: Once created, merely holding it anywhere in one's hotbar will display several pieces of information:"
+            "text": "當使用$(#419600)靈氣$()時，你自然會想知道區域內還存有多少靈氣。$(item)環境之眼$()有著顯示植物學家所想的能力：一旦被合成，只需將其放置在快捷欄或飾品欄中即可顯示諸多訊息："
         },
         {
             "type": "text",
-            "text": "A bar will display the amount stored in $(aura)-bearing blocks, with a full bar meaning that the block has reached its storage capacity.$(br)An additional bar at the top left of one's field of view will display the saturation of $(aura) around one's current location, with the bar being half full meaning that the $(aura) is at its expected default level. The eye's limited power, however, means that, when $(aura) exceeds any end of the visible bar, it will not be able to tell you just how much there is."
+            "text": "一個進度條會顯示$(#419600)靈氣$()儲存方塊的儲量，進度條的總長為其容量。$(br)另一個進度條會顯示目前區域內$(#419600)靈氣$()的飽食度，進度條的一半為$(#419600)靈氣$()的初始含量。然而環境之眼的能力有限，當$(#419600)靈氣$()含量高於或低於進度條範圍，將無法得知確切含量。"
         },
         {
             "type": "naturesaura:tree_ritual",
-            "text": "Creating the $(item)Environmental Eye$() using the $(l:practices/tree_ritual)Ritual of the Forest$()",
+            "text": "用$(l:practices/tree_ritual)森林儀式$()創造$(item)環境之眼$()",
             "recipe": "naturesaura:eye"
         }
     ]
