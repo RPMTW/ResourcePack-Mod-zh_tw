@@ -1,21 +1,21 @@
 {
-    "name": "2. Nether Expedition",
+    "name": "２》地獄探險",
     "icon": "techguns:lmg",
     "category": "survival_guide",
     "pages": [
         {
             "type": "text",
-            "text": "The first nether expedition should involve collecting some 'Nether Quartz' which opens up new crafting options. It is recommended to not stay in the nether too long and use the mined quartz to further gear up."
+            "text": "首次征戰地獄應以收集《地獄石英》為優先目的， 這可讓你展開新的製作方式。建議別在地獄待太久， 並利用挖到的石英來做進一步的發展。"
         },
         {
             "type": "text",
-            "title": "Progressing",
-            "text": "Building a Jetpack allows to easier navigate in the nether. After that collecting some blaze rods and 'Cybernetic Parts' that drop from Cyber Demons should be the next objective."
+            "title": "持續前進",
+            "text": "製作《噴射背包》好讓你在地獄的探險更加輕鬆。$(br2)接下來的目標是收集《烈焰桿》以及《機械巨魔》所掉落的《控制零件》。"
         },
         {
             "type": "text",
-            "title": "Advanced Machines",
-            "text": "After enough cybernetic parts are collected to build a $(l:machines/fabricator)Fabricator$(/l) and a $(l:machines/reaction_chamber)Reaction Chamber$(/l) it is possible to advance to the next tech-tier. The Fabricator can produce cybernetic parts so it is recommended to build that one first."
+            "title": "進階機器",
+            "text": "控制零件收集足夠後， 就可建造$(l:machines/fabricator)《製造機》$(/l)及$(l:machines/reaction_chamber)《反應槽》$(/l)， 以進入下個科技階段。$(br)《製造機》可生產控制零件， 因此建議先建造這個。"
         }
     ]
 }
