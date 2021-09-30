@@ -1,24 +1,24 @@
 {
-    "name": "Explosion mechanics",
+    "name": "爆炸類機器進階",
     "icon": "prodigytech:explosion_furnace",
     "category": "介紹",
     "advancement": "prodigytech:main/explosion_furnace",
     "pages": [
         {
             "type": "text",
-            "text": "When given a redstone pulse, the $(item)Explosion Furnace$() will attempt to consume all $(thing)Explosive$() and $(thing)Dampener$() in its slots. If it succesfully did, it will produce an explosion and generate $(thing)Explosive Power$() (or $(thing)EP$()).$(br)The amount of $(thing)EP$() generated is proportional to the amount of $(thing)Explosive$() consumed and depends on which one was used."
+            "text": "當你給予機器一個紅石脈衝，$(item)爆炸熔爐$()會嘗試去消耗掉所有在槽中的$(thing)爆炸物$()和$(thing)吸收劑$()。如果這個過程被順利完成了，就會產生爆炸和生成$(thing)爆炸能量$()(或者叫做$(thing)EP$())。$(br)生成$(thing)EP$()的量取決於消耗了多少$(thing)爆炸物$()和使用的是什麼材料。"
         },
         {
             "type": "text",
-            "text": "At the same time, each consumed $(thing)Dampener$() will dampen a certain amount of $(thing)EP$().$(br2)If more $(thing)EP$() is generated than dampened, part of the output will be lost, depending on how much $(thing)EP$() was left undampened.$(br2)If more $(thing)EP$() is dampened than generated, then the excess dampening is substracted from the useable $(thing)EP$(), effectively reducing the number of crafts made."
+            "text": "同時，每次消耗的$(thing)吸收劑$()也會吸收對應量的$(thing)EP$()。$(br2)如果產出了比被吸收的$(thing)EP$()還多的$(thing)EP$()話，就會損失一部分輸出產物， 損失的量取決於你還有多少$(thing)EP$()沒有被吸收掉。$(br2)如果吸收的$(thing)EP$()比產出的還多，這過量的吸收劑將會從實際消耗的$(thing)EP$()中扣除（即扣除實際上要生成X個產物的EP），有效地減少產物的產出數量。"
         },
         {
             "type": "text",
-            "text": "Then, inputs are run top to bottom. If there is enough $(thing)EP$() to process one, it consumes the appropriate amount of $(thing)EP$() and gets processed.$(br)If the recipe requires a $(thing)Reagent$(), it will be consumed appropriately if present. If it's not present, then it will switch to the appropriate $(thing)Reagent$()-less recipe, or skip over the input if there's no matching recipe."
+            "text": "然後就是輸入的物品會從頂部進入後再從底部輸出，如果有足夠的$(thing)EP$()能夠處理一次，它會消耗適當的$(thing)EP$()去完成這一流程。$(br)如果目前的合成方式裡需要用到$(thing)反應物$()，如果有放入的話，也會被適量得消耗掉。如果沒有被放入的話，就會轉換成對應的無$(thing)反應物$()合成方式，亦或者是在沒有對應合成的情況下跳過輸入的物品，直接消耗掉適量的爆炸物和吸收劑。"
         },
         {
             "type": "text",
-            "text": "$(thing)Explosives$(), $(thing)Dampeners$(), inputs and $(thing)Reagents$() can be inserted from any side by Hoppers and such, and outputs can be extracted from any side as well. If the output slots are full while processing items, the excess items will be thrown in front of the $(item)Explosion Furnace$()."
+            "text": "$(thing)爆炸物$()，$(thing)吸收劑$()，參與合成的物品和$(thing)反應物$()能通過漏斗或者是其他方式來從任意麵輸入，以及輸出也能從任意麵被抽取。如果在機器在處理物品的時候輸出的槽滿了，這溢出來的部分就會從$(item)爆炸熔爐$()的正面丟出去。"
         }
     ]
 }
