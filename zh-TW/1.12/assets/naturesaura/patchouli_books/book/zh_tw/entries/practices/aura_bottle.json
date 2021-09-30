@@ -1,5 +1,5 @@
 {
-    "name": "Aura Bottling",
+    "name": "靈氣裝瓶",
     "icon": "naturesaura:aura_bottle{stored_type:'naturesaura:overworld'}",
     "category": "practices",
     "advancement": "naturesaura:wood_stand",
@@ -7,22 +7,22 @@
     "pages": [
         {
             "type": "text",
-            "text": "$(aura) and its presence in the world has been a conundrum to researchers for a long time now. Back in the day, they used to use $(item)Bottles$() to collect $(aura) and to be able to analyze it in greater detail as it becomes visible to the naked eye that way. Soon after, complaints from uninformed civilians started troubling them: \"Other scientists already have a use for bottles, this will cause issues\", they said."
+            "text": "$(#419600)靈氣$()及其在世界上的存在，長期以來一直是研究人員的難題。在過去，他們常常使用$(item)瓶子$()來收集$(#419600)靈氣$()，並在它變得能夠肉眼可見時進行更詳細的分析。不久之後，來自無知平民的抱怨開始困擾他們：「其他科學家已經在使用瓶子了，這將引起問題」，他們說。"
         },
         {
             "type": "crafting",
-            "text": "As such, and to shut out all the incoherent blabber, they created the $(item)Bottle and Cork$(): A similar, yet slightly different utensil to the bottle that can be used exclusively to collect $(aura) by simply interacting with the air while holding it.",
+            "text": "因此，為了排除所有語無倫次的胡扯，他們創造了$(item)瓶子和木塞$()：一個類似的，但略有不同的工具瓶，可以專門用來收集$(#419600)靈氣$()，只需要手持它對空氣右鍵。",
             "recipe": "naturesaura:bottle_two_the_rebottling"
         },
         {
             "type": "spotlight",
             "item": "naturesaura:aura_bottle{stored_type:'naturesaura:overworld'}",
             "link_recipe": true,
-            "text": "Of course, based on the world that you are currently in, the type of $(aura) collected will slightly vary. For instance, in the normal world, $(aura) can be gathered in the form of sunlight, while in the Nether realm, $(aura) can be gathered in the form of ghosts, and in the End realm, $(aura) is present in the form of an overabundance of darkness."
+            "text": "當然，根據您目前所處的環境，所收集的$(#419600)靈氣$()的類型會略有不同。例如，在主世界中，$(#419600)靈氣$()可以以陽光的形式收集，而在地獄中，$(#419600)靈氣$()可以以鬼魂的形式收集，而在終末之界中，$(#419600)靈氣$()以過剩黑暗的形式存在。"
         },
         {
             "type": "text",
-            "text": "Additionally, the collection of $(aura) in this manner can be automated easily using $(item)Dispensers$(): Putting empty $(item)Bottles and Corks$() into them will cause them to be shot out open, making them fill up with $(aura) in the process. As they are not sucked up by the Dispenser again afterwards, an additional tool like a $(item)Hopper$() is required."
+            "text": "此外，使用$(item)發射器$()可以很容易地自動收集$(#419600)靈氣$()：將空的$(item)瓶子和木塞$()放入其中將導致它們被打開，使它們在這個過程中充滿$(#419600)靈氣$()。由於之後它們不會再被發射器吸走，因此需要一個額外的工具，如$(item)漏斗$()。"
         }
     ]
 }
