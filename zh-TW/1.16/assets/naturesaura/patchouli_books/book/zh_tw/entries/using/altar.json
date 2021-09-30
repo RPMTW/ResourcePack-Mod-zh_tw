@@ -1,5 +1,5 @@
 {
-    "name": "The Natural Altar",
+    "name": "自然祭壇",
     "icon": "naturesaura:nature_altar",
     "category": "using",
     "advancement": "naturesaura:aura_bottle_overworld",
@@ -8,22 +8,22 @@
     "pages": [
         {
             "type": "text",
-            "text": "A rudimentary, yet effective way of collecting $(aura) early on is the $(item)Natural Altar$(). After creating the setup shown on the following page, the altar will start slowly draining $(aura) in the vicinity. However, it is not strong enough to cause major damage, making it only drain until there is none left in the area.$(br)The collected $(aura) can then be used as shown on the following pages."
+            "text": "早期收集$(#419600)靈氣$()的一種基本但有效的方法是$(item)自然祭壇$()。創建了接下來幾頁展示的設定後祭壇會開始慢慢地吸收周圍的$(#419600)靈氣$()。然而，它沒有足夠的強度來造成重大的破壞，即不會不停抽取$(#419600)靈氣$()直到周圍區枯竭。$(br)被收集的$(#419600)靈氣$()能被接下來幾頁展示的方法使用。"
         },
         {
             "type": "multiblock",
             "multiblock_id": "naturesaura:altar",
-            "text": "How to assemble the $(item)Natural Altar$()"
+            "text": "如何搭建$(item)自然祭壇$()"
         },
         {
             "type": "naturesaura:tree_ritual",
-            "text": "Creating the $(item)Natural Altar$() using the $(l:practices/tree_ritual)Ritual of the Forest$()",
+            "text": "使用$(l:practices/tree_ritual)森林儀式$()合成$(item)自然祭壇$()。",
             "recipe": "naturesaura:nature_altar"
         },
         {
             "type": "crafting",
             "recipe": "naturesaura:gold_brick",
-            "text": "Creating the $(item)Golden Stone Bricks$() that are used in the $(item)Natural Altar$()'s multiblock"
+            "text": "合成$(item)金色石磚$()，一種用來搭建$(item)自然祭壇$()多方塊結構的建築材料"
         },
         {
             "type": "text",
@@ -31,12 +31,12 @@
         },
         {
             "type": "naturesaura:altar",
-            "text": "Creating $(item)Infused Iron$(), a material blessed with the powers of $(aura), allowing it to be used in several magical $(thing)natural items$().$(br)Note that the same infusion is possible using the materials' block form.",
+            "text": "製造$(item)灌注鐵錠$()，一種被$(#419600)靈氣$()的力量祝福的材料，可以被用於製造多種魔法性的$(thing)自然物品$()。$(br)注意：材料的方塊形式同樣可以被注入。",
             "recipe": "naturesaura:infused_iron"
         },
         {
             "type": "naturesaura:altar",
-            "text": "Creating $(item)Infused Rock$(), an earthly material infused with $(aura).",
+            "text": "製造$(item)灌注石$()，一種用$(#419600)靈氣$()灌注的塵世材料。",
             "recipe": "naturesaura:infused_stone"
         }
     ]
