@@ -1,12 +1,12 @@
 {
-    "name": "Unstable Outbreak",
+    "name": "不穩定爆發",
     "icon": "minecraft:tnt",
     "category": "effects",
     "advancement": "naturesaura:negative_imbalance",
     "pages": [
         {
             "type": "text",
-            "text": "When the $(aura) levels in the area are extremely low, to the point that $(item)Natural Decay$() has already done all of the work it can, but the levels are still not increased, nature itself loses stability to the point of $(item)Unstable Outbreak$(): $(thing)Explosions$() will start sporadically occuring in a large area on the surface, their severity and interval varying based on the severity of the imbalance."
+            "text": "當區域內$(#419600)靈氣$()水平變得極端低，低到$(item)自然衰退$()已經做完了所有能做的工作，但靈氣等級仍未上升，自然會丟失穩定性直到$(item)不穩定爆發$()：大範圍內的地表會零星發生$(thing)爆炸$()，它們的嚴重程度和間隔會隨著失衡的嚴重程度而變化。"
         }
     ]
 }
