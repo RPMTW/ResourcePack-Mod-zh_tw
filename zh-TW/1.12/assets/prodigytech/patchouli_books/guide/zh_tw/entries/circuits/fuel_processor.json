@@ -1,17 +1,17 @@
 {
-    "name": "Fuel Processor",
+    "name": "燃料加工機",
     "icon": "prodigytech:fuel_processor",
     "category": "circuits",
     "advancement": "prodigytech:main/solderer",
     "pages": [
         {
             "type": "text",
-            "text": "The $(item)Fuel Processor$() breaks down Furnace fuels into $(item)Fuel Pellets$(), each burning for a single item in a Furnace. They can also be combined into groups of 4, 16 or 64 for convenience.$(br2)The output amount is rounded down if needed. Fuels that burn for more than 4096 items or have a container (like $(item)Lava Buckets$()) can't be processed."
+            "text": "$(item)燃料加工機$()把熔爐燃料打碎壓縮成 $(item)燃料丸$()，每一個都能在熔爐中燃燒一個物品。為了方便，還能把他們合成4,16或者64個一份。$(br2)如果有需要的話，輸出的數量將會被向下取整。 被加工的燃料如果是能燒超過4096個物品或者是有容器的(像是$(item)岩漿桶$())就不能被處理成燃料丸。"
         },
         {
             "type": "crafting",
             "recipe": "prodigytech:machine/fuel_processor",
-            "text": "Items can be inserted/extracted from any side except top and bottom."
+            "text": "物品能從機器除了頂部和底部以外的各個面輸入。"
         },
         {
             "type": "crafting",
