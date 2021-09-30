@@ -1,11 +1,11 @@
 {
-    "name": "Ore Drill Multiblock",
+    "name": "多方塊採礦機",
     "icon": "techguns:oredrill:4",
     "category": "ore_drills",
     "pages": [
         {
             "type": "text",
-            "text": "Ore drills are multiblock machines and general $(l:machine_mechanics)machine mechanics$(/l) apply. Ore drills can be built in different sizes and rotations but must be adjacent to an ore cluster. There are 5 different block types involved in building an ore drill. The formulas for calculating output and power are explained $(l:oredrills/ore_clusters#formulas)here$(/l)."
+            "text": "採礦機為多方塊結構的機器， 本書之$(l:machine_mechanics)《機器特性》$(/l)也適用於此機器。採礦機共有五種不同的建造型式， 也可轉九十度橫向建造， 但都必須與礦叢相接。本書$(l:oredrills/ore_clusters#formulas)此處$(/l)有輸出及能量的計算公式說明。"
         },
         {
             "type": "crafting",
@@ -20,11 +20,11 @@
         {
             "type": "crafting",
             "recipe": "techguns:oredrill_4_controller",
-            "text": "To start building an ore drill find an $(l:oredrills/ore_clusters)ore cluster$(/l) and start with placing down the rod(s). To form the multiblock, $(thing)right+click$() the controller."
+            "text": "找到$(l:oredrills/ore_clusters)礦叢$(/l)後就可放上鑽軸開始建造採礦機。擺好方塊後對著控制器$(thing)點擊滑鼠右鍵$()以完成建造。"
         },
         {
             "type": "multiblock",
-            "name": "Minimum Size Ore Drill",
+            "name": "最小的採礦機",
             "anchor": "tinydrill",
             "multiblock": {
                 "mapping": {
@@ -48,12 +48,12 @@
         },
         {
             "type": "text",
-            "title": "Dimensions",
-            "text": "The smallest possible drill is just 1 controller and 1 rod. All bigger sizes require a frame. The following constraints must hold:$(li)length of rods+engines <= 16 $(li)rod length >= drill diameter$(li)Engine block height >= radius$(li)rod length >= engine length"
+            "title": "建造規模",
+            "text": "最小的採礦機僅需要一支鑽軸及一個控制器， 其餘更大的都需要框架。需符合下列限制：$(li)鑽軸+引擎的長度 <= 16$(li)鑽軸長度 >= 鑽機直徑$(li)引擎高度 >= 鑽機半徑$(li)鑽軸長度 >= 引擎高度"
         },
         {
             "type": "multiblock",
-            "name": "Small Ore Drill",
+            "name": "小型採礦機",
             "multiblock": {
                 "mapping": {
                     "0": "techguns:oredrill[machinetype=controller]",
@@ -100,7 +100,7 @@
         },
         {
             "type": "multiblock",
-            "name": "Medium Ore Drill",
+            "name": "中型採礦機",
             "multiblock": {
                 "mapping": {
                     "0": "techguns:oredrill[machinetype=controller]",
@@ -152,7 +152,7 @@
         },
         {
             "type": "multiblock",
-            "name": "Max Size Ore Drill",
+            "name": "最大的採礦機",
             "multiblock": {
                 "mapping": {
                     "0": "techguns:oredrill[machinetype=controller]",
@@ -367,22 +367,22 @@
         },
         {
             "type": "spotlight",
-            "title": "Drill Item",
+            "title": "鑽頭",
             "item": "techguns:itemshared:137",
             "anchor": "drill",
-            "text": "An ore drill item is required for the drill to work. Depending on the size of the multiblock a different drill size is required. In the gui when hovering the progress bar the radius of the drill is shown. A Radius of 0 (just controller and rod) needs a small drill, radius 1 and 2 require a medium drill, while 3 and 4 need a large drill."
+            "text": "採礦機需裝上鑽頭才能工作， 鑽頭的大小需配合採礦機的規模。游標停留在介面中的進度指示條上， 會顯示鑽機的半徑， 半徑為 0 (僅控制器和鑽軸)只需小型鑽頭， 半徑為 1 到 2 需要中型鑽頭， 半徑達 3 到 4 則需大型鑽頭。"
         },
         {
             "type": "spotlight",
-            "title": "Drill Item",
+            "title": "鑽頭",
             "item": "techguns:itemshared:138",
             "anchor": "drill",
-            "text": "The material of the drill defines the mining level of the drill. Iron has a mininglevel of 1, obsidian steel 2 and carbon 3."
+            "text": "鑽頭的材質會決定採礦機的採掘等級， 鐵的等級為 1， 黑曜石鋼的等級為 2， 碳纖維則為 3。"
         },
         {
             "type": "text",
-            "title": "Power",
-            "text": "The drill multiblock can be powered by cables or by inputting items that can be used as furnace fuel or liquid fuel. The power from items is calculated from the furnace burn time. Liquid fuel burn value is defined in the config file. Every fluid that is defined as 'fuel' in the config file is added with the same burn value. Formulas are explained $(l:oredrills/ore_clusters#power)here$(/l)."
+            "title": "能量",
+            "text": "採礦機可經由線路或輸入固體或液體燃料來供給能量。固體燃料以熔爐的燃燒時間計算產生的能量， 液體燃料則在控制檔中設定， 所有在控制檔中定義為燃料的流體， 其燃燒值都相同。公式說明請參閱$(l:oredrills/ore_clusters#power)此處$(/l)。"
         }
     ]
 }
