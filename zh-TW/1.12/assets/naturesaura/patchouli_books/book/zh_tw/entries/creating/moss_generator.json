@@ -1,17 +1,17 @@
 {
-    "name": "Swamp Homi",
+    "name": "沼澤本味",
     "icon": "naturesaura:moss_generator",
     "category": "creating",
     "advancement": "naturesaura:infused_materials",
     "pages": [
         {
             "type": "text",
-            "text": "A great source of natural $(aura) is the $(thing)moss$() on any type of mossy block. This property can be made use of in the form of the $(item)Swamp Homi$(): It will take any blocks around it that are covered in moss and remove it, leaving the clean block behind. For each block that it does this with, it generates a bit of $(aura) and spreads it into the environment."
+            "text": "自然$(#419600)靈氣$()的一大來源是任意覆苔方塊上的$(thing)苔蘚$()。這一性質可以以$(item)沼澤本味$()的方式利用：它會吃掉附近覆苔方塊上的苔蘚，留下乾淨的方塊。每吃掉一個方塊上的苔蘚，它都會生成一點$(#419600)靈氣$()並將其散播到環境中。"
         },
         {
             "type": "crafting",
             "recipe": "naturesaura:moss_generator",
-            "text": "Creating the $(item)Swamp Homi$()"
+            "text": "合成$(item)沼澤本味$()"
         }
     ]
 }
