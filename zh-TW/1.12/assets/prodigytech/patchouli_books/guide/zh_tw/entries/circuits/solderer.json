@@ -1,5 +1,5 @@
 {
-    "name": "Solderer",
+    "name": "焊機",
     "icon": "prodigytech:solderer",
     "category": "circuits",
     "advancement": "prodigytech:main/rotary_grinder",
@@ -7,15 +7,15 @@
     "pages": [
         {
             "type": "text",
-            "text": "The $(item)Solderer$() is a machine that can make various $(thing)Circuits$(), which are needed for more advanced machines. It requires too much temperature for a mere $(item)Magmatic Aeroheater$() to fuel it.$(br2)To make a $(thing)Circuit$(), the machine needs $(item)Circuit Plates$(), $(item)Gold Dust$() and an appropriate $(thing)Circuit Pattern$(). The latter will tell which $(thing)Circuit$() will be made."
+            "text": "$(item)焊機$()是一個能做各種$(thing)電路$()的機器，當你需要做進階的高級機器的時候，他就派上用場了。他需求的溫度實在是太高了，以至於$(item)熔岩氣熱爐$()僅僅只夠最低限度的驅動$(br2)要想做出一個$(thing)電路$()，需要用到$(item)電路板$(), $(item)金粉$()以及選用適當的$(thing)電路模板$()。後面會講到各個模板會做出哪種$(thing)電路$()。"
         },
         {
             "type": "text",
-            "text": "The time spent and the amount of $(thing)Gold$() needed depends on the $(thing)Circuit$() made, and some of them will need an additional item to be consumed.$(br2)The machine needs to melt inserted $(item)Gold Dust$() before being able to use it, which it will do once hot enough."
+            "text": "時間的花費以及需要消耗的$(thing)金粉$()取決於你做的是哪種$(thing)電路$()，以及有的可能需要消耗一些額外的材料。$(br2)如果溫度足夠的話，焊機會在使用前熱熔一些輸入的$(item)金粉$()。"
         },
         {
             "type": "text",
-            "text": "All items will be automatically put in the correct slots when shift clicked or inserted through automation.$(br2)Items can be inserted/extracted from any side except the top and bottom."
+            "text": "所有物品通過shift+左擊和自動輸入的，都會被自動放到它對應的槽中。$(br2)物品能從機器除了頂部和底部以外的各個面輸入。"
         },
         {
             "type": "crafting",
