@@ -1,26 +1,26 @@
 {
-    "name": "Ritual of the Brewer",
+    "name": "釀造儀式",
     "icon": "naturesaura:potion_generator",
     "category": "creating",
     "advancement": "naturesaura:sky_ingot",
     "pages": [
         {
             "type": "text",
-            "text": "As ashes turn to ashes, and dust to dust, a similar natural conversion can be achieved with $(aura) and equally magic $(item)Potions$(). Specifically, $(item)Lingering Potions$() have certain magical abilities that allow one to extract the effects and convert them into $(aura) efficiently.$(p)To do this, simply build the $(item)Ritual of the Brewer$() as depicted on the next page."
+            "text": "塵歸塵，土歸土，$(#419600)靈氣$()與魔法$(item)藥水$()之間也可以發生相似的轉換。特殊的，$(item)滯留 藥水$()可以有效地將其藥效轉化為$(#419600)靈氣$()。$(p)你需要如下一頁所示，建造$(item)釀造儀式$()來實現此轉化。"
         },
         {
             "type": "text",
-            "text": "Then, throwing any kind of positive, lasting $(item)Lingering Potion$() down in its vicinity will cause the effect to be consumed and turned into $(aura). Needless to say, the longer and higher the effect, the more $(aura) gets created.$(br)Notice that, however, only one effect can be converted at one time, and throwing multiple potions at the ritual will cause their powers to go to waste."
+            "text": "然後，投擲任意種類的藥水，在吸收器周圍持續的$(item)滯留 藥水$()將被轉化為$(#419600)靈氣$()。顯然，效果越持久或強力，轉化的$(#419600)靈氣$() 將越多。$(br)然而要注意的是，同一時間內只有一種藥水可以被轉化，同時向儀式投擲多種藥水只會造成浪費。另外，如果區域內有足夠的$(#419600)靈氣$()，多餘的藥水也將被浪費。"
         },
         {
             "type": "multiblock",
             "multiblock_id": "naturesaura:potion_generator",
-            "text": "Creating the $(item)Ritual of the Brewer$() with the $(item)Lingering Absorber$() in the center"
+            "text": "以$(item)滯留 吸收器$()為中心，建造$(item)釀造儀式$()"
         },
         {
             "type": "crafting",
             "recipe": "naturesaura:potion_generator",
-            "text": "Creating the $(item)Lingering Absorber$()"
+            "text": "合成$(item)滯留 吸收器$()"
         }
     ]
 }
