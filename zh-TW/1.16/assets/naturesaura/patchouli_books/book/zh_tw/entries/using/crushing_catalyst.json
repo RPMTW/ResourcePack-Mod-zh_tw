@@ -1,5 +1,5 @@
 {
-    "name": "Crumbling Catalyst",
+    "name": "粉碎催化器",
     "icon": "naturesaura:crushing_catalyst",
     "category": "using",
     "advancement": "naturesaura:infused_materials",
@@ -10,32 +10,32 @@
         },
         {
             "type": "naturesaura:tree_ritual",
-            "text": "Creating the $(item)Crumbling Catalyst$() using the $(l:practices/tree_ritual)Ritual of the Forest$().",
+            "text": "使用$(l:practices/tree_ritual)森林儀式$()合成$(item)粉碎催化器$()。",
             "recipe": "naturesaura:crushing_catalyst"
         },
         {
             "type": "naturesaura:altar",
-            "text": "Creating $(item)Bone Meal$() by crushing $(item)Bones$()",
+            "text": "$粉碎(item)骨頭$()合成$(item)骨粉$()",
             "recipe": "naturesaura:bone"
         },
         {
             "type": "naturesaura:altar",
-            "text": "Harvesting $(item)Sugar$() by removing it from the cane",
+            "text": "從甘蔗中提取$(item)糖$()",
             "recipe": "naturesaura:sugar"
         },
         {
             "type": "naturesaura:altar",
-            "text": "Making $(item)Blaze Powder$() out of the Nether's materials",
+            "text": "從地獄材料中得到$(item)烈焰粉$()",
             "recipe": "naturesaura:blaze"
         },
         {
             "type": "naturesaura:altar",
-            "text": "Creating $(item)Glowstone Dust$() by destroying $(item)Glowstone$()",
+            "text": "粉碎$(item)螢光石$()合成$(item)螢光石粉$()",
             "recipe": "naturesaura:glowstone"
         },
         {
             "type": "naturesaura:altar",
-            "text": "Making $(item)Sand$() from pulverizing $(item)Cobblestone$()",
+            "text": "粉碎$(item)鵝卵石$()來獲得$(item)沙$()",
             "recipe": "naturesaura:sand"
         },
         {
