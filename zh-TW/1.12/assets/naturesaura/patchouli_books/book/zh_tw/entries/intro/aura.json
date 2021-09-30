@@ -1,23 +1,23 @@
 {
-    "name": "Aura, conceptually",
+    "name": "靈氣的概念",
     "icon": "naturesaura:gold_leaf",
     "category": "intro",
     "pages": [
         {
             "type": "text",
-            "text": "Contrary to popular belief, $(aura) isn't stored in single, floating $(italic)nodes$(), but rather, it is present everywhere in the world.$(br)While touching it is impossible, making use of its powers certainly is not. When $(aura) is used right, it can assist in the $(thing)production$() of materials, the $(thing)creation$() of new ideas and the $(thing)harnessing$() of the world and its components."
+            "text": "與普遍的觀點相反，$(#419600)靈氣$()不被儲存在單一，浮動的$(italic)節點$()，不如說它代表著世界中的一切。$(br)儘管觸碰它是不可能的，但利用其能量不是。當$(#419600)靈氣$()被正確使用時，它可以協助機器$(thing)生產$()物質，$(thing)創造$()新思想以及$(thing)控制$()世界及其組成。"
         },
         {
             "type": "text",
-            "text": "However, it isn't always as easy as that. Making use of it wrongly, specifically $(thing)draining$() it completely from an area, will face the culprit with diminishing returns.$(br)So while $(aura) is plentiful and useful, abusing it would certainly be ill-advised.$(p)An additional thing to note is that, based on the world you are in - specifically, the $(item)dimension$(), different types of $(aura) will be present, making some mechanics work unlike expected."
+            "text": "但是，事情可沒有那麼容易。錯誤的使用它，特別是從一個區域中將其$(thing)抽取$()至枯竭，將會面對使回報減少的源頭。$(br)所以儘管$(#419600)靈氣$()豐富而有用, 濫用它是不明智的。$(p)另外,基於你所處在的世界——尤其是$(item)維度$()，會表現出不同的$(#419600)靈氣$()，使一些機器工作方式與預料中不同。"
         },
         {
             "type": "text",
-            "text": "When it comes to the inner workings of $(aura), scientists are toubled to admit that they have not quite figured out how exactly it works yet.$(br)The only thing they know is that excess or missing amounts of $(aura) affect an area of varying size (based on the apparatus used) around the place the modification happened from.$(br)If an area is drained and a new generating instrument is added, it will renew the drained area first before creating its own luscious area."
+            "text": "當談到$(#419600)靈氣$()的工作原理，科學家目前為止還沒有研究出。$(br)他們僅僅知道$(#419600)靈氣$()的過量或缺失會影響到周圍不同大小（取決於使用的裝置）的區域。$(br)如果一個地區的$(#419600)靈氣$()被抽取後放置了新的生成裝置，新生成的$(#419600)靈氣$()會先重新填充被抽取的部分，再創造自己的富$(#419600)靈氣$()區域。"
         },
         {
             "type": "text",
-            "text": "Similarly, if a draining instrument is placed close to a rich area, it will first drain that area before moving on to draining the area directly around itself.$(p)While this behavior surely sounds complicated, the consensus is that letting the apparatus and $(aura) do their thing for a while seems to be a good approach of analysis, as sometimes $(aura) tends to migrate and move around to balance itself out naturally."
+            "text": "相似的, 如果一個抽取裝置被放置在富$(#419600)靈氣$()區附近，它將優先利用該區域的靈氣，隨後使用其附近的區域。雖然這種行為聽起來肯定很複雜，但人們一致認為，讓設備和$(#419600)靈氣$()暫時執行一段時間是一種很好的分析方法，因為有時候$(#419600)靈氣$()傾向於遷移和移動，以自然地平衡自己。"
         }
     ]
 }
