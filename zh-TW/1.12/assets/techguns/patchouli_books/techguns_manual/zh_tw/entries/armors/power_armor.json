@@ -1,15 +1,15 @@
 {
-    "name": "T3 : Power Armor",
+    "name": "等級３》能量裝",
     "icon": "techguns:t3_power_chestplate",
     "category": "armors",
     "pages": [
         {
             "type": "text",
-            "text": "The Power Armor is a  $(l:armor_mechanics#powered_armors)powered$(/l) Tier 3 armor intended for combat with strong defenses and uses $(thing)Energy Cell$()s for power."
+            "text": "《能量裝》為等級三的$(l:armor_mechanics#powered_armors)能量型服裝$(/l)， 設計用於戰鬥， 具有很好的防護力， 需使用$(thing)《能量匣》$()來補充能量。"
         },
         {
             "type": "entity",
-            "name": "Power Armor",
+            "name": "能量裝",
             "entity": "minecraft:armor_stand{ShowArms:1,NoBasePlate:1,ArmorItems:[{Count:1,id:'techguns:t3_power_boots'}, {Count:1,id:'techguns:t3_power_leggings'}, {Count:1,id:'techguns:t3_power_chestplate'}, {Count:1,id:'techguns:t3_power_helmet'}]}",
             "text": ""
         },
