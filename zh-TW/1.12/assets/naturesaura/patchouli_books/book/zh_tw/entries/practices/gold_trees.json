@@ -1,5 +1,5 @@
 {
-    "name": "Brilliant Trees",
+    "name": "閃耀樹",
     "icon": "naturesaura:gold_leaf",
     "category": "practices",
     "priority": true,
@@ -7,22 +7,22 @@
     "pages": [
         {
             "type": "text",
-            "text": "Through the years that botanist's have been trying to figure out the magical properties of $(aura) bearing objects, they have discovered an unexpected, yet common, theme: $(item)Gold$() seems to always play a role in the interaction between humans and $(aura)."
+            "text": "這些年來,植物學家一直試圖找出$(#419600)靈氣$()承載物的魔法屬性，他們發現了意想不到但又很常見的主題：似乎$(item)金子$()在人類與$(#419600)靈氣$()的互動中起到了重要作用。"
         },
         {
             "type": "spotlight",
-            "text": "To get into first contact with the substance's powers, one is required to create a $(item)Brilliant Tree$() that will, when harvested, shed $(item)Gold Leaf$() - a delicate, yet powerful material. To create such a tree, simply craft a bit of $(item)Brilliant Fiber$() and place it into the crown of a tree. Time will then bring brilliance.",
+            "text": "在首次接觸這種物質的力量之前，你需要創造一顆$(item)閃耀樹$()。它被收穫時，會掉落$(item)金葉$()——一種微妙而強大的物質。創造這種樹的方法很簡單，合成一些$(item)閃耀纖維$()並將其放置在其他樹的樹冠上。一段時間後，這棵樹將轉化為閃耀樹。",
             "item": "naturesaura:gold_leaf",
             "link_recipe": true
         },
         {
             "type": "crafting",
-            "text": "Creating the $(item)Brilliant Fiber$()",
+            "text": "合成$(item)閃耀纖維$()",
             "recipe": "naturesaura:gold_fiber"
         },
         {
             "type": "crafting",
-            "text": "$(item)Gold Leaf$(), once harvested, can easily be crushed into $(item)Gold Powder$() which can be placed on the ground as an integral part of the $(l:practices/tree_ritual)Ritual of the Forest$().",
+            "text": "當$(item)金葉$()被收穫後，可以簡單地被壓碎成$(item)金葉粉$()。它可以被放置在地面上，作為$(l:practices/tree_ritual)森林儀式$()不可缺少的一部分。",
             "recipe": "naturesaura:gold_powder"
         }
     ]
