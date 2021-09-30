@@ -1,12 +1,12 @@
 {
-    "name": "Ore Refinery",
+    "name": "礦精煉機",
     "icon": "prodigytech:ore_refinery",
     "category": "circuits",
     "advancement": "prodigytech:main/solderer",
     "pages": [
         {
             "type": "text",
-            "text": "The $(item)Ore Refinery$() can process $(thing)Ore$() into 2 $(thing)Dusts$(), just like the $(item)Rotary Grinder$(), but does so at a much faster rate and will also occasionally extract a smaller amount of $(thing)Dust$() of another ore.$(br2)Items can be inserted/extracted from any side except top and bottom."
+            "text": "$(item)礦精煉機$()能把$(thing)礦$()處理成2份 $(thing)粉$()，就像$(item)旋轉粉碎機$()一樣，但是處理的速度更加快，以及會偶爾產出少量的其他礦物的$(thing)粉$()$(br2)物品能從機器除了頂部和底部以外的各個面輸入。"
         },
         {
             "type": "crafting",
