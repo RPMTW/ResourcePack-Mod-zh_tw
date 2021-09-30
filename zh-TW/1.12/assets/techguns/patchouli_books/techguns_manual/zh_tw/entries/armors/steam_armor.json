@@ -1,15 +1,15 @@
 {
-    "name": "T1.5 : Steam Armor",
+    "name": "等級１.5》蒸氣裝",
     "icon": "techguns:steam_chestplate",
     "category": "armors",
     "pages": [
         {
             "type": "text",
-            "text": "The Steam Armor is the first $(l:armor_mechanics#powered_armors)powered armor$(/l) and needs 'Compressed Air Tank's."
+            "text": "《蒸氣裝》是遊戲最早可製作的$(l:armor_mechanics#powered_armors)能量型服裝$(/l)， 需使用《空氣壓縮罐》來補充能量。"
         },
         {
             "type": "entity",
-            "name": "Steam Armor",
+            "name": "蒸氣裝",
             "entity": "minecraft:armor_stand{ShowArms:1,NoBasePlate:1,ArmorItems:[{Count:1,id:'techguns:steam_boots'}, {Count:1,id:'techguns:steam_leggings'}, {Count:1,id:'techguns:steam_chestplate'}, {Count:1,id:'techguns:steam_helmet'}]}",
             "text": ""
         },
