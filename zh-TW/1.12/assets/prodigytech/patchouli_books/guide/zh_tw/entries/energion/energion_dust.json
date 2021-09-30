@@ -1,5 +1,5 @@
 {
-    "name": "Energion Dust",
+    "name": "能量粉",
     "icon": "prodigytech:energion_dust",
     "category": "energion",
     "advancement": "prodigytech:main/solderer",
@@ -8,7 +8,7 @@
     "pages": [
         {
             "type": "text",
-            "text": "$(item)Energion Dust$() is a mixture oozing with raw energy. Its main use is powering the $(item)Energion Aeroheater$(), which is required to progress further.$(br2)While it is expensive to craft raw $(item)Energion Dust$(), it is possible to aquire more at a much lower price once the first batch is made."
+            "text": "$(item)能量粉$()是一個洩露著野生能源的混合物。他主要用在驅動$(item)能源氣熱爐$()中，當然了他也是需要進一步加工的。$(br2)在第一次手搓出$(item)能量粉$()的時候，合成方式上還是比較昂貴的，所以就需要一個能夠生產更多但是更便宜的方案。"
         },
         {
             "type": "crafting",
