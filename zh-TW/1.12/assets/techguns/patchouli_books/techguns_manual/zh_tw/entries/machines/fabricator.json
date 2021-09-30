@@ -1,15 +1,15 @@
 {
-    "name": "Fabricator",
+    "name": "製造機",
     "icon": "techguns:multiblockmachine:2",
     "category": "multiblock_machines",
     "pages": [
         {
             "type": "text",
-            "text": "The fabricator is an advanced production machine that needs to be built as multiblock. To form the multiblock, the controller needs to be $(thing)right-clicked$() while you look at the controller and it is the right of the two bottom blocks. This defines the front direction of the machine."
+            "text": "《製造機》是需要以多個方塊建造而成的進階生產機器。將方塊堆放好後， 對著底部右邊的控制器方塊$(thing)點擊滑鼠右鍵$()以完成建造。控制器的位置就是機器的正面。"
         },
         {
             "type": "multiblock",
-            "name": "Fabricator",
+            "name": "製造機",
             "multiblock": {
                 "mapping": {
                     "H": "techguns:multiblockmachine[machinetype=fabricator_housing]",
@@ -32,7 +32,7 @@
         {
             "type": "crafting",
             "recipe": "techguns:multiblockmachine_0_fabricator_housing",
-            "text": "To build a fabricator you need:$(br) $(li) 3x Housing $(li) 4x Glass $(li) 1x Controller $(br) Which means 8 housings need to be crafted in total."
+            "text": "搭建製造機需要以下材料：$(br)$(li)製造機機體×3$(li)製造機玻璃×4$(li)製造機控制器×1$(br)這表示搭建製造機總共需要 8 個方塊。"
         },
         {
             "type": "crafting",
@@ -41,16 +41,16 @@
         },
         {
             "type": "image",
-            "title": "Preview Image",
+            "title": "預覽圖",
             "images": [
                 "techguns:textures/gui/manual/fabricator_image.png"
             ],
-            "text": "A formed fabricator built in the world."
+            "text": "建造完成的製造機"
         },
         {
             "type": "text",
-            "title": "Usage",
-            "text": "The fabricator has 4 input slots, 1 output slot and an $(l:machine_mechanics#upgrade)upgrade slot$(/l).$(br2)$(li)Input 1: the general input slot. $(li)Input 2: 'Wire' slot. $(li)Input 3: 'Powder' or 'Mechanical Parts' slot.  $(li)Input 4: 'Plate' slot.$(br2) The machine knows what to put where with $(thing)'Shift+Click'$() or through piping."
+            "title": "使用說明",
+            "text": "製造機有四個輸入槽、一個輸出槽， 以及一個$(l:machine_mechanics#upgrade)升級槽$(/l)。$(br2)$(li)輸入1： 一般物品槽。$(li)輸入2： 導線槽。$(li)輸入3： 粉狀物或零件槽。$(li)輸入4： 板材槽。$(br2)此機器若在物品欄使用$(thing)《Shift+滑鼠左鍵》$()或由管路送進物品時， 會自動分配應放置的槽位。"
         }
     ]
 }
