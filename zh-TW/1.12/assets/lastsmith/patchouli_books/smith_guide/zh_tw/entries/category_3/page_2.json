@@ -1,15 +1,15 @@
 {
-   "name": "Haze & Weiss Fox",
+   "name": "黑狐與白狐",
    "icon": "flammpfeil.slashblade:slashbladenamed{ModelName: \"named/sange/sange\",TextureName: \"named/sange/white\"}",
    "category": "category_3",
    "pages": [
       {
          "type": "text",
-         "text": "There was a family owned two spirit-infused Ruby Blades. In fact, the family is a Youkai family. To be precise, they are Spirit Foxes.$(br2)One of them is the pioneer of Two-long-blade-wielding Style, but now she is living in seclusion."
+         "text": "曾經有一戶人家，持有著兩把被靈氣覆蓋著的紅玉。$(br)實際上，那戶人家住著的本身就是妖怪，準確來說，狐妖。$(br2)這一位狐妖是開創雙長刀流派的一位劍術大師，現在已經隱居在某處了……"
       },
       {
          "type": "text",
-         "text": "Her Ruby Blade infused with her spirit power, and turned into two Spirit Fox Blades.$(br2)The Haze Fox of Repelling, repels any enemies approaching the owner; The Weiss Fox of Luck, seizes treasures from the enemies.$(br2)She with the two beloved Blades is in seclusion now."
+         "text": "她的紅玉刀受到她長期的靈力影響，幻化成了兩振妖狐之刃。$(br2)退魔之黑狐，具有擊退來犯者的力量；$(br)幸運之白狐，具有從來犯者手中奪取寶物的力量。$(br2)這兩把她的愛刀與她一同隱居了……"
       },
       {
          "type": "crafting",
@@ -18,7 +18,7 @@
       },
       {
          "type": "text",
-         "text": "If you cannot see the recipe, you may not have Sakura Mod and SJAP Mod installed. But you may use BladeSoul to get the Blade instead.$(br2)If TofuCraftReload Mod is present, something in the recipe will be changed."
+         "text": "如果你無法看到這些配方，說明你缺少了前置內容（櫻Mod和SJAP），你只能通過刀魂來取得了。$(br2)如果安裝了豆腐CraftReload，你會發現有些材料被替換了……"
       }
    ],
    "advancement": "lastsmith:slashblade_white",

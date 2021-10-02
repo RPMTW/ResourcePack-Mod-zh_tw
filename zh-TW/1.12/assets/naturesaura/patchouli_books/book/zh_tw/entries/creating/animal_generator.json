@@ -1,25 +1,25 @@
 {
-    "name": "Disentangler of Mortals",
+    "name": "俗人解脫之物",
     "icon": "naturesaura:animal_generator",
     "category": "creating",
     "advancement": "naturesaura:sky_ingot",
     "pages": [
         {
             "type": "text",
-            "text": "Creating $(aura) through natural substances can be a double-edged sword. Creating $(aura) using the $(item)Disentangler of Mortals$() is especially so: Killing any passive animal close to it will cause the animal's soul to be freed and spread into the environment in the form of a rather big amount of $(aura). For this, baby animals' souls are less fulfilled, causing less $(aura) to be dispersed."
+            "text": "通過自然物質創造$(#419600)靈氣$()可能是一把雙刃劍。使用$(item)俗人解脫之物$()更是如此：殺死任何靠近它的被動生物將導致動物的靈魂被釋放，並以相當大量的$(#419600)靈氣$()的形式擴散到環境中。因此，幼年動物靈魂較少，造成更少$(#419600)靈氣$()被擴散。"
         },
         {
             "type": "text",
-            "text": "Additionally, the $(thing)longer$() an animal is alive, the more $(aura) it will generate - signifiantly more so, making it a lot more viable and efficient to create a device that makes the animals wait for a while until their slaughtering. To harvest souls at their most fulfilled, one should wait about $(thing)one and a half hours$() or so."
+            "text": "此外，動物活得$(thing)越長$()，生成的$(#419600)靈氣$()越多。更重要的是，這使得創造一種讓動物等上一段時間再被宰殺的裝置變得更加可行和有效。要在靈魂最充實的時候收穫它們，我們應該等待$(thing)一個半小時左右$()。"
         },
         {
             "type": "text",
-            "text": "It should be noted, also, that the animals whose souls are absorbed will not be lootable for their usual drops. Additionally, supplying the $(item)Disentangler of Mortals$() with a death while it is already in the process of converting a soul will cause both the animal's soul not to be freed and its remains not to be dropped."
+            "text": "還需指出的是，靈魂被吸收的動物，其掉落物是無法獲得的。在此之上，在$(item)俗人解脫之物$()正在轉換靈魂時在附近殺死動物會使得動物的靈魂不會轉換為$(#419600)靈氣$()，動物也沒有掉落物。"
         },
         {
             "type": "crafting",
             "recipe": "naturesaura:animal_generator",
-            "text": "Creating the $(item)Disentangler of Mortals$()"
+            "text": "合成$(item)俗人解脫之物$()"
         }
     ]
 }

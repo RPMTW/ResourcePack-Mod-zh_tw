@@ -1,12 +1,12 @@
 {
-    "name": "Tartaric Aeroheater",
+    "name": "冥界氣熱爐",
     "icon": "prodigytech:tartaric_aeroheater",
     "category": "primordium",
     "advancement": "prodigytech:main/zorra_leaf",
     "pages": [
         {
             "type": "text",
-            "text": "The $(item)Tartaric Aeroheater$() is the most powerful $(thing)Aeroheater$() there is, if you can afford to run it. It burns Furnace fuel alongside $(item)Tartaric Stoker$(), the latter lasting as long as 1 Coal. Fuels are burned faster and faster as it heats up, up to 25x normal burning speed.$(br2)Fuels can be inserted from any side except the top."
+            "text": "$(item)冥界氣熱爐$()是最強的$(thing)氣熱爐$()沒有之一，前提是你得跑得動它。$(item)冥燃粉$()會和熔爐可燃燃料一併燃燒，冥燃粉的燃燒時間和燃燒1個煤炭的時間相同。燃料會在加熱的時候消耗的更快，同時加熱速度也會更快，最高比正常速度要快25倍。$(br2)燃料能從機器除了頂部以外的各個面輸入。"
         },
         {
             "type": "crafting",

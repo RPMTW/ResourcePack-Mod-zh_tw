@@ -1,16 +1,16 @@
 {
-    "name": "Mystical Magnifier",
+    "name": "神秘放大鏡",
     "icon": "naturesaura:range_visualizer",
     "category": "items",
     "advancement": "naturesaura:infused_materials",
     "pages": [
         {
             "type": "text",
-            "text": "The $(item)Mystical Magnifier$() is a $(t:is a mod by vazkii)neat$() device for any magical botanist working with machinery. When equipped in either hand, and interacting with a compatible device, its $(thing)range of operation$() will be displayed around it, allowing any contraptions built with it to be inspected easily and precisely. To stop a device from displaying its range, simply interact with it a second time."
+            "text": "$(item)神秘放大鏡$()對於經常接觸機器的植物學家來說是一個$(t:是一個vazkii的mod)簡潔(neat)$()的設備。當在兩手之一手持放大鏡並與相容的設備互動時，其$(thing)工作範圍$()會顯示出來，允許任何與它一起建造的精巧裝置被容易和精確地檢查。要隱藏其工作範圍，只需互動第二次。"
         },
         {
             "type": "crafting",
-            "text": "Creating the $(item)Mystical Magnifier$()",
+            "text": "合成$(item)神秘放大鏡$()",
             "recipe": "naturesaura:range_visualizer"
         }
     ]

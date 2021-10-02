@@ -1,17 +1,17 @@
 {
-  "name": "Trials",
+  "name": "試煉",
   "icon": "deepmoblearning:trial_keystone",
   "category": "2_trials",
   "sortnum": 1,
   "pages": [
     {
       "type": "text",
-      "text": "In a $(item)Trial$() you fight against $(item)Waves$() of $(item)Monsters$() until they are all $(item)Defeated$(). Conquering a $(item)Trial$() will yield you great rewards.$(br2)Not only is this a good way to get more $(l:1_machines/1_matter#pristine)Pristine Matter$(), it's also excellent for $(l:0_introduction/1_data)Data Collection$().$(br2)Higher $(item)Tier Trials$() will yield more $(item)Rewards$()."
+      "text": "在一場$(item)試煉$()中，你會面對$(item)一波又一波$()的$(item)怪物$()進攻，只有將它們全部$(item)消滅$()，試煉才會結束。通過了一場$(item)試煉$()後，你會獲得獎勵。$(br2)這不僅是獲得更多$(l:1_machines/1_matter#pristine)原始物質$()的方法，也是$(l:0_introduction/1_data)數據收集$()的超棒方式。$(br2)更高$(item)等級的試煉$()會給你更多的$(item)獎勵$()。"
     },
     {
       "type": "recipelookup",
       "recipe": "deepmoblearning:trial_keystone",
-      "text": "The number of $(item)Waves$() you will face depends on the $(item)Tier$() of the $(l:0_introduction/2_data_models)Data Model$() that was used to attune the $(l:2_trials/0_trial_key)Trial Key$().$(br2)The $(item)Tier$() of the $(l:2_trials/0_trial_key)Key$() will also determine how many $(l:2_trials/2_affixes)Affixes$() will be active in the $(item)Trial$()."
+      "text": "你要面對的$(item)波數$()取決於調諧到$(l:2_trials/0_trial_key)測試秘鑰$()的$(l:0_introduction/2_data_models)數據模型$()的$(item)等級$()。$(br2)$(l:2_trials/0_trial_key)秘鑰$()的$(item)等級$()也會決定有多少$(l:2_trials/2_affixes)詞綴$()會在$(item)試煉$()中被啟動。"
     }
   ]
 }

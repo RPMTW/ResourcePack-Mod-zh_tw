@@ -1,12 +1,12 @@
 {
-    "name": "Zorra Altar",
+    "name": "佐拉祭壇",
     "icon": "prodigytech:zorra_altar",
     "category": "primordium",
     "advancement": "prodigytech:main/zorra_leaf",
     "pages": [
         {
             "type": "text",
-            "text": "The $(item)Zorra Altar$() is used to apply or upgrade enchantments on $(thing)Zorrasteel tools$(), at the cost of experience and $(item)Zorra Leaves$().$(br2)Putting a $(thing)Zorrasteel tool$() in it will give you 3 options to choose from as well as their cost."
+            "text": "$(item)佐拉祭壇$()是用來為$(thing)佐拉鋼工具$()應用或者是升級附魔的，代價是消耗經驗和$(item)佐拉樹葉片$()。$(br2)放上一個$(thing)佐拉鋼工具$()就會給予你3個選項來選擇，以及告訴你需要使用多少級經驗。"
         },
         {
             "type": "crafting",
@@ -14,11 +14,11 @@
         },
         {
             "type": "text",
-            "text": "The top most slot will always be a new enchantment to apply (if possible).$(br)The middle one is always an upgrade to an existing enchantment (if possible).$(br)The bottom most one can be either and comes with a big experience discount, but you cannot see what it will apply until you get it.$(br2)Just like normal enchanting, all options change every time you enchant something."
+            "text": "最上面的那個槽，總會有一個新的附魔(如果有可能的話)。$(br)最中間的那個槽總會是升級一個已存在的附魔(如果有可能的話)。$(br)最下面的那個槽有前面兩者的功能，能夠應用一個新的附魔或者是升級目前的附魔，而且會有個相當大的經驗需求折扣，但是在它給你附上之前，無法預覽得知什麼附魔。$(br2)就和普通附魔一樣，當你附魔點別的之後，每個選項都會改變。"
         },
         {
             "type": "text",
-            "text": "With enough experience, $(thing)Zorrasteel tools$() can receive enchantments that far surpasses what standard tools can reach, although the price will start to accumulate quickly."
+            "text": "只要有足夠的經驗，$(thing)佐拉鋼工具$()能夠獲得的附魔是遠遠超過標準的工具能夠達到的, 但是這樣的話附魔的等級需求將會快速增加。"
         }
     ]
 }

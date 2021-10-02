@@ -1,8 +1,8 @@
 {
-    "item.hearthstone.name": "Hearthstone",
-    "msg.hearthstoneOnCooldown.txt": "Hearthstone is on cooldown!",
-    "msg.hearthstoneNoBed.txt": "Hearthstone is not linked to a bed!",
-    "msg.hearthstoneMissingBed.txt": "Your bed is missing! Hearthstone link is broken!",
-    "msg.hearthstoneLinked.txt": "Hearthstone is now linked",
-    "msg.hearthstoneCastCanceled.txt": "Hearthstone channel canceled!"
+    "item.hearthstone.name": "爐石",
+    "msg.hearthstoneOnCooldown.txt": "爐石還處於冷卻中！",
+    "msg.hearthstoneNoBed.txt": "爐石需要連結到一張床！",
+    "msg.hearthstoneMissingBed.txt": "你的床被破壞！因此爐石的連結也失效了！",
+    "msg.hearthstoneLinked.txt": "爐石現在已連結",
+    "msg.hearthstoneCastCanceled.txt": "爐石傳送被取消！"
 }

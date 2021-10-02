@@ -1,21 +1,21 @@
 {
-    "name": "Chemical Laboratory",
+    "name": "化學加工機",
     "icon": "techguns:basicmachine:2",
     "category": "powered_machines",
     "pages": [
         {
             "type": "text",
-            "text": "The Chemical Laboratory is an early game machine that is used for some utility crafting recipes and for filling tanks and compressed air cells. The machine has 1 input tank, 2 item input slots, 1 output slot, 1 output tank and an $(l:machine_mechanics#upgrade)upgrade slot$(/l)."
+            "text": "《化學加工機》為遊戲前期的機器， 用來配製一些應用物品及填充燃料罐、空氣壓縮罐等罐裝物。這臺機器有一個液體輸入槽、兩個物品輸入槽、一個物品輸出槽、一個液體輸出槽， 以及一個$(l:machine_mechanics#upgrade)升級槽$(/l)。"
         },
         {
             "type": "text",
-            "title": "Usage",
-            "text": "The third input slot is currently not used. Recipes may need different combinations on input liquid and items. Not all slots need to be used in each recipe. The 'toggle drain' button can be used to change which tank should be drained with pipes. This also applies to 'Right-clicking' with an empty bucket (or other fluid container). Filling is possible with both tanks and pipes."
+            "title": "使用說明",
+            "text": "依照配方不一定會用到全部的輸入槽， 可能需要輸入不同的液體及物品進行結合。$(br)《切換取出槽》按鈕可用來改變， 連接管路輸出或拿著空桶(或其它液體容器)對機器點擊滑鼠右鍵時， 所取出的液體槽。可由管路或使用容器將液體裝入輸入槽。"
         },
         {
             "type": "text",
-            "title": "Usage",
-            "text": "Both tanks have a 'dump' button that deletes the content of the tank. $(br)Available Recipes may differ on mod setup and should be viewed with Just Enough Items (JEI)."
+            "title": "使用說明",
+            "text": "兩個槽都有《排空》按鈕來清除槽中液體。$(br)可用的配方會因模組的設定而有所不同， 請用『Just Enough Items 充足物品模組(JEI)』來查詢配方。"
         },
         {
             "type": "crafting",

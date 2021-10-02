@@ -1,20 +1,20 @@
 {
-    "name": "Heat Capacitors",
+    "name": "熱容器",
     "icon": "prodigytech:heat_capacitor_2",
     "category": "circuits",
     "advancement": "prodigytech:main/solderer",
     "pages": [
         {
             "type": "text",
-            "text": "$(item)Heat Capacitors$() are a way to store $(thing)Hot Air$() to be used in a more convenient form. Each tier stores and provides a different target temperature, ranging from just enough to power advanced machines to the full power of the $(item)Tartaric Aeroheater$()."
+            "text": "$(item)熱容器$()是一個儲存$(thing)熱空氣$()的方式，以及一個使用起來更加方便的形式。不同等級的熱容器提供不同目標的溫度，能從剛好夠用來驅動高級機器，再到能和$(item)冥界氣熱爐$()一樣滿功率驅動。"
         },
         {
             "type": "text",
-            "text": "They must charged in a $(item)Heat Accumulator$() in order to be used. This machine needs $(thing)Hot Air$() at least as hot as what the capacitor is going to provide, and unlike other machines does not transmit its $(thing)Hot Air$(). Capacitors can be inserted from any side but the bottom, and can be automatically extracted once fully charged."
+            "text": "在使用前，必須要在$(item)蓄熱器$()中充能。這台機器需要的$(thing)熱空氣$()溫度至少要到這個熱容器能夠提供的溫度，以及不像別的機器一樣會傳輸機器內的 $(thing)熱空氣$()。熱容器能被除了底面之外的任意一面輸入，以及會在完全充滿後自動彈射出去。"
         },
         {
             "type": "text",
-            "text": "Once charged, a capacitor can be inserted in the $(item)Capacitor Aeroheater$() where it will provide its target temperature. A $(item)Heat Capacitor$() takes more time to charge than it can last, meaning other $(thing)Aeroheaters$() are still required. However, where those can take minutes to reach their maximum temperature, the $(item)Capacitor Aeroheater$() can do it in mere seconds. Capacitors can be inserted from any isde but the top, and can be automatically extracted once fully depleted."
+            "text": "在充能過後，熱容器就能被放入$(item)熱容器氣熱爐$()然後就能提供他對應的目標溫度了。$(item)熱容器$()充能時間要比他可持續時間長，意味著還是需要其他的$(thing)氣熱爐$()。然而，其他的氣熱爐要達到最大溫度需要用上幾分鐘，而$(item)熱容器$()則可以在數秒內達到。 熱容器能被除了頂部之外的任意一面輸入，且會在完全耗盡之後自動彈出。"
         },
         {
             "type": "crafting",

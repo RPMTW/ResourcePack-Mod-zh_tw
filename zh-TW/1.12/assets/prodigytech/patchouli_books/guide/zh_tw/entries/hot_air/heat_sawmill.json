@@ -1,12 +1,12 @@
 {
-    "name": "Heat Sawmill",
+    "name": "熱力鋸木機",
     "icon": "prodigytech:heat_sawmill",
     "category": "hot_air",
     "advancement": "prodigytech:main/aeroheater",
     "pages": [
         {
             "type": "text",
-            "text": "The $(item)Heat Sawmill$() can cut wood much more efficiently than hands can. This includes cutting $(thing)Logs$() into $(thing)Planks$(), and $(thing)Planks$() into $(thing)Sticks$(). This process will also produce $(item)Sawdust$(), which can be made into $(item)Particle Board$() for decoration.$(br2)Items can be inserted/extracted from any side except top and bottom."
+            "text": "$(item)熱力鋸木機$()比用手鋸木頭更加高效。當然包括了把$(thing)原木$()切成$(thing)木材$()，以及把$(thing)木材$()切成$(thing)木棒$()。運作的時候會生成副產物$(item)鋸屑$()，能用來做成$(item)刨花板$()作裝飾。$(br2)物品能從機器除了頂部和底部以外的各個面輸入/輸出。"
         },
         {
             "type": "crafting",

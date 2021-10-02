@@ -1,54 +1,54 @@
 {
-    "name": "* Machine Mechanics *",
+    "name": "＊ 機器特性 ＊",
     "icon": "techguns:itemshared:70",
     "category": "powered_machines",
     "pages": [
         {
             "type": "text",
-            "text": "Techguns machines share a few mechanics. This includes: $(l:machine_mechanics#power)Power$(/l), $(l:machine_mechanics#security)Security Settings$(/l) and $(l:machine_mechanics#redstone)Redstone Control$(/l). Power and Redstone Control is only relevant to powered machines, while Security Settings are also applicable to simple machines. The $(l:machine_mechanics#upgrade)'Upgrade Slot'$(/l) is also a shared mechanic between multiple machines."
+            "text": "科技槍械模組的機器有些共通的特性， 包括： $(l:machine_mechanics#power)能量$(/l)、$(br)$(l:machine_mechanics#security)權限設定$(/l)及$(l:machine_mechanics#redstone)紅石控制$(/l)。$(br)《能量》與《紅石控制》只用於需要能量的機器， 而《權限設定》也適用於普通機器。$(br)$(l:machine_mechanics#upgrade)《升級槽》$(/l)也通用於多方塊機器。"
         },
         {
             "type": "text",
-            "title": "Side Configuration",
-            "text": "Techguns machines share the concept to not need side configuration. This means input and extraction from pipes can come from any side. Recipes are designed in a way that for each item it must be deterministic in which slot it belongs. Extraction from machines require pipes with 'extract' mode as the machines do not output to inventories themselves."
+            "title": "存取面設定",
+            "text": "科技槍械模組的機器都不須設定方塊的存取面， 這表示可以從任何一面連接管路進行輸入和輸出。輸入的配方材料會依各個物品來決定其所屬的存放槽。由於機器並不會將物品輸出至本身的物品欄中， 因此必須使用具有《抽取》功能的管路才能從機器中取出物品。"
         },
         {
             "type": "text",
-            "title": "Security Settings",
+            "title": "權限設定",
             "anchor": "security",
-            "text": "Security Settings allow to restrict access to a machine. Machines have a lock-button that has 4 states.$(br2)$(li)public$(li)allies$(li)team$(li)owner$(br2)No matter what setting, only the owner (=the player who placed the machine) can change the security setting."
+            "text": "權限設定可用來限制機器的使用權。機器上用來設定權限的鎖頭按鈕有四種模式:$(br2)$(li)公開$(li)同盟$(li)團隊$(li)擁有者$(br2)無論哪種模式， 只有擁有者(放置這臺機器的玩家)才能更改權限設定。"
         },
         {
             "type": "text",
-            "title": "Security Settings",
+            "title": "權限設定",
             "anchor": "security2",
-            "text": "To make use of the 'allies' and 'team' settings you need FTBUtilies installed. Without FTBU 'allies' and 'team' is equal to 'public'."
+            "text": "必需安裝 FTB 應用模組(FTB Utilities)才能設定《同盟》及《團隊》這兩種模式， 否則這兩種模式就等同於《公開》模式。"
         },
         {
             "type": "text",
-            "title": "Power",
+            "title": "能量",
             "anchor": "power",
-            "text": "Machines that have a power bar on the left side of the gui require power to operate. The power system used by techguns is $(thing)'FE'$() or $(thing)'Forge Energy'$() which is also compatible with most RF (Redstone Flux) based cables. Techguns has no options to generate power itself, you need another mod to produce it. Alternatively you can disable power requirement in the techguns.cfg config file."
+            "text": "需要能量的機器在介面左側會有能量條。科技槍械模組所使用的能量系統為$(thing)《FE》$()或$(thing)《鍛造能量》$()， 同時也相容於大部分以 RF (紅石流體能量)為基礎的管線。科技槍械模組本身沒有生產能量的裝置， 你得利用其它模組來生產。或者你可以在 techguns.cfg 設定檔中停用本模組機器對能量的需求。"
         },
         {
             "type": "text",
-            "title": "Redstone Control",
+            "title": "紅石控制",
             "anchor": "redstone",
-            "text": "With redstone control a machine can be configured to react to redstone signals. The indicator in the top left with a red and green light indicate the current state. This allows to turn off machines by redstone signals. By default a machine ignores signals."
+            "text": "設為紅石控制可使機器接受紅石信號來關閉機器。畫面左上方的紅綠指示燈， 可顯示目前設定的狀態。機器預設為忽略紅石信號。"
         },
         {
             "type": "spotlight",
-            "title": "Upgrade Slot",
+            "title": "升級槽",
             "item": "techguns:itemshared:94",
             "anchor": "upgrade",
-            "text": "Some machines have an upgrade slot in the bottom right of their gui. In this slot 'Machine Upgrades' can be placed. The 'Stack Operation' upgrade allows the machine to process the same recipe multiple times at once. The stack upgrade can be applied up to 7 times allowing to process a recipe up to 8x simultaneously."
+            "text": "某些機器在介面的右下方有個用來放《機器升級板》的升級槽。《多重操作》升級板可讓機器以相同的時間多重處理目前的操作， 最多可疊加到 7 次， 使機器達到 8 倍的處理效率。"
         },
         {
             "type": "spotlight",
-            "title": "'Wrench'",
+            "title": "扳手",
             "item": "techguns:crowbar",
             "anchor": "wrench",
-            "text": "As many other tech mods, Techguns also has a 'wrench' item. The crowbar is Techguns version of a wrench, but can also be used as pickaxe and for hitting enemies. The crowbar allows to rotate techguns machines or can dismantle them ($(thing)'Sneak + Right Click'$()). Technically everything that has the tool class 'wrench' is considered as wrench."
+            "text": "如同其它科技模組， 科技槍械模組也有《扳手》。《鐵撬》就是科技槍械版的扳手， 而且也能當成鎬， 還能用來攻擊敵人。鐵撬可用來使科技槍械模組的機器轉向， 或按下$(thing)潛行+滑鼠右鍵$()將機器拆下。技術上而言， 任何工具類型中含有《扳手 wrench》的工具就可作為扳手來使用。"
         }
     ]
 }

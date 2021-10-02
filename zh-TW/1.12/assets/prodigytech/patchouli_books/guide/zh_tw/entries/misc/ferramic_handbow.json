@@ -1,12 +1,12 @@
 {
-    "name": "Ferramic Handbow",
+    "name": "瓷鐵手弓",
     "icon": "prodigytech:ferramic_handbow",
     "category": "雜項",
     "advancement": "prodigytech:main/rotary_grinder",
     "pages": [
         {
             "type": "text",
-            "text": "The $(item)Ferramic Handbow$() is very similar to a simple wooden Bow. It lasts longer but most importantly will automatically fire once its shot is fully charged, making it much more suitable for medium range combat.$(br2)It can receive all the same enchantments as the normal Bow."
+            "text": "$(item)瓷鐵手弓$()和普通的弓差不多，他耐久度更高，但是最重要的是它會在完全蓄力後自動射出，這使得他更加適合中程作戰。$(br2)他能附上和普通弓一樣的附魔。"
         },
         {
             "type": "crafting",

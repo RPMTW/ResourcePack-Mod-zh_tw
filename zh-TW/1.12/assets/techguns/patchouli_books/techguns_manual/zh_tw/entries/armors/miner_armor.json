@@ -1,15 +1,15 @@
 {
-    "name": "T1 : Miner's Armor",
+    "name": "等級１》礦工裝",
     "icon": "techguns:t1_miner_chestplate",
     "category": "armors",
     "pages": [
         {
             "type": "text",
-            "text": "The Miner's Armor is a Tier 1 armor and intended to be used for mining in early game. It provides the best mining speed bonus out of all T1 armors."
+            "text": "《礦工裝》為等級一的服裝， 其提供同級中最佳的挖掘性能， 設計用於遊戲初期的挖礦工作。"
         },
         {
             "type": "entity",
-            "name": "Miner's Armor",
+            "name": "礦工裝",
             "entity": "minecraft:armor_stand{ShowArms:1,NoBasePlate:1,ArmorItems:[{Count:1,id:'techguns:t1_miner_boots'}, {Count:1,id:'techguns:t1_miner_leggings'}, {Count:1,id:'techguns:t1_miner_chestplate'}, {Count:1,id:'techguns:t1_miner_helmet'}]}",
             "text": ""
         },

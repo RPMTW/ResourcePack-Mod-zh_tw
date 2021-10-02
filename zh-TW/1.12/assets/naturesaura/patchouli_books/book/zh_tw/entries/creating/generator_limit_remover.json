@@ -1,5 +1,5 @@
 {
-    "name": "Creational Catalyst",
+    "name": "創造催化器",
     "icon": "naturesaura:generator_limit_remover",
     "category": "creating",
     "advancement": "naturesaura:offering",
@@ -7,12 +7,12 @@
     "pages": [
         {
             "type": "text",
-            "text": "As described in the $(l:creating/on_generating)On Creating Aura$() section, most $(thing)creational devices$() lack the ability to create $(aura) beyond a certain point. The $(item)Creational Catalyst$() easily solves this problem: Placing it directly below any creational device will cause its limit to be lifted, making it able to generate $(aura) far beyond the previously mentioned point.$(br)This comes at no cost in return."
+            "text": "就如在$(l:creating/on_generating)在生產靈氣時$()一節中描述的一樣，大部分$(thing)靈氣產生設備$()在$(#419600)靈氣$()數量超過某一點時缺乏進一步創造$(#419600)靈氣$()的能力。$(item)創造催化器$()能簡單地解決這個問題：將其放置在產生設備下方會使得靈氣上限被提升，使得能生產遠超前述上限的靈氣。$(br)這是沒有代價的回報。"
         },
         {
             "type": "crafting",
             "recipe": "naturesaura:generator_limit_remover",
-            "text": "Crafting the $(item)Creational Catalyst$() using the tokens"
+            "text": "使用徽章合成$(item)創造催化器$()"
         }
     ]
 }

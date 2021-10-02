@@ -1,5 +1,5 @@
 {
-    "name": "Atomic Reshaper",
+    "name": "原子重塑機",
     "icon": "prodigytech:atomic_reshaper",
     "category": "primordium",
     "advancement": "prodigytech:main/energion_aeroheater",
@@ -8,7 +8,7 @@
     "pages": [
         {
             "type": "text",
-            "text": "The $(item)Atomic Reshaper$() can transform materials into other using varying amounts of $(item)Primordium$(). Most notably, it can turn Stone into random raw ores.$(br)Just like the $(item)Primordialis Reactor$() it requires the heat of an $(item)Energion Aeroheater$().$(br2)Items can be inserted/extracted from all sides except the top and bottom."
+            "text": "$(item)原子重塑機$()能通過使用不同量的$(item)原基$()來把一樣物品轉換成別的。最值得注意的是，他能把石頭轉換成各種原礦。$(item)原子重塑機$()作為最高級的機器，要驅動它最低都需要使用$(item)能源氣熱爐$()。$(br)就像是$(item)原基反應器$()也需要$(item)能源氣熱爐$()來作為他的供熱源一樣。$(br2)物品能從機器除了頂部和底部以外的各個面輸入/輸出。"
         },
         {
             "type": "crafting",

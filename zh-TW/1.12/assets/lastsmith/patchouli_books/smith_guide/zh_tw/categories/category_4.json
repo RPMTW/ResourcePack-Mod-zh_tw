@@ -1,6 +1,6 @@
 {
-   "name": "Blades that Bewitched",
-   "description": "These blades are infused with Devil's power.$(br2)If used properly, you can drive Devils' power.$(br2)As a Youkai, we can easily use the devils' power as our own strength.",
+   "name": "妖刀之卷",
+   "description": "妖刀者，邪魔侵染之刃也。$(br2)若運用自如，則妖氣也可化作力量而存。$(br2)身為妖怪的我等，自然可輕鬆駕馭其力，為我而用。",
    "icon": "flammpfeil.slashblade:slashbladenamed{ModelName: \"named/yamato\", TextureName: \"named/yamato\"}",
    "advancement": "lastsmith:bewitched_blade",
    "sortnum": 3

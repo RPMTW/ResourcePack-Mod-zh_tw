@@ -1,16 +1,16 @@
 {
-    "name": "Wormhole Funnel",
+    "name": "蟲洞管道",
     "icon": "prodigytech:wormhole_funnel",
     "category": "circuits",
     "advancement": "prodigytech:main/solderer",
     "pages": [
         {
             "type": "text",
-            "text": "The $(item)Wormhole Funnel$() is the only way to transmit $(thing)Hot Air$() horizontally. It can either be placed on top or below a block, and when linked with another $(item)Wormhole Funnel$() in the opposite position they will transmit $(thing)Hot Air$() between eachother.$(br2)$(item)Wormhole Funnels$() can be linked together by using a $(item)Wormhole Linker$()."
+            "text": "$(item)蟲洞管道$()是唯一的水平傳送$(thing)熱空氣$()的辦法。他能放置在方塊的頂部或者底部, 當$(item)蟲洞管道$()互相連接的時候，在另一面就可以開始互相傳輸$(thing)熱空氣$()了。$(br2)$(item)蟲洞管道$()可以用過$(item)蟲洞連接器$()來連接。"
         },
         {
             "type": "text",
-            "text": "Right click a $(item)Wormhole Funnel$() then the other to link them.$(br)Once linked you can right click any of the two $(item)Wormhole Funnels$() with anything that's not a block or the $(item)Wormhole Linker$() to show you where the other $(item)Wormhole Funnel$() is.$(br2)A $(item)Wormhole Funnel$() can only be linked to another $(item)Wormhole Funnel$() in the same dimension and less than 8 blocks away on all axis. It also can only be linked to one other $(item)Wormhole Funnel$() at a time."
+            "text": "右擊$(item)蟲洞管道$()然後點擊另一個來完成連接。$(br)一旦建立完連接之後，只要手上不是拿著$(item)蟲洞連接器$()或者是方塊右擊$(item)蟲洞管道$()都能夠告訴你另一個$(item)蟲洞管道$()在哪。$(br2)$(item)蟲洞管道$()只能在同一個緯度和在任意方向上相距不能超過8格的時候連接另一個$(item)蟲洞管道$()。同時他也只能同時連接一個$(item)蟲洞管道$()。"
         },
         {
             "type": "crafting",

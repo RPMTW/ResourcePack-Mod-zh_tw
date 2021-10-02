@@ -1,5 +1,5 @@
 {
-  "name": "Trial Attunement",
+  "name": "試煉系統",
   "icon": "deepmoblearning:trial_key",
   "category": "2_trials",
   "sortnum": 0,
@@ -7,12 +7,12 @@
     {
       "type": "recipelookup",
       "recipe": "deepmoblearning:trial_key",
-      "text": "This little guy is what starts a $(l:2_trials/1_trials)Trial$(), but first you need to $(item)Attune$() it.$(br2)Hover over the $(item)Key$() to see what $(l:0_introduction/2_data_models)Data Models$() you can use to attune it with. More may be added in the future."
+      "text": "這個小東西是你$(l:2_trials/1_trials)試煉$()的開始，但你要先對其進行$(item)調諧$()，它才能工作。$(br2)游標懸停在$(item)秘鑰$()上來查看可調諧的$(l:0_introduction/2_data_models)數據模型$()。在未來或許會加入更多種類。"
     },
     {
       "type": "text",
-      "title": "How to Attune",
-      "text": "The $(item)Attunement$() of the $(item)Key$() will decide what $(l:2_trials/1_trials)Trial$() is started.$(br2)For example a $(item)Zombie$() attuned key will start a $(item)Zombie$() $(l:2_trials/1_trials)Trial$().$(br2)You $(item)Attune Keys$() by having them in your $(item)Inventory$(). The next time you slay a mob and gain $(l:0_introduction/1_data)Data$() it will $(item)Attune$() the $(item)Key$() if the mob slain matches one of the available $(item)Attunements$()."
+      "title": "如何調諧",
+      "text": " $(item)秘鑰$()的$(item)調諧$()將決定$(l:2_trials/1_trials)試煉$()的內容。$(br2)例如，$(item)殭屍$()調諧到了秘鑰上，就會開始$(item)殭屍$() $(l:2_trials/1_trials)試煉$()。$(br2)將$(item)秘鑰$()放在$(item)背包$()中，下一次取得$(l:0_introduction/1_data)數據$()的過程中會將$(item)秘鑰$()$(item)調諧$()到相應怪物上，前提是此怪物在可調諧列表上。"
     }
   ]
 }

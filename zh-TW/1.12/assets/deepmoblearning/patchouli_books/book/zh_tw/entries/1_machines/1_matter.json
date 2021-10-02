@@ -1,23 +1,23 @@
 {
-  "name": "物品",
+  "name": "物質",
   "icon": "deepmoblearning:living_matter_hellish",
   "category": "1_machines",
   "sortnum": 1,
   "pages": [
     {
       "type": "text",
-      "text": "There are two kinds of $(item)Matter$(), $(item)Living$() and $(item)Pristine$().$(br2)You will always get one$(br)$(item)Living Matter$() from running a $(l:1_machines/0_simulation_chamber)Simulation$().$(br2)There is also a chance to produce $(item)Pristine Matter$(), the chance depends on the $(item)Tier$() of the $(l:0_introduction/2_data_models#data_models)Data Model$() currently in the $(l:1_machines/0_simulation_chamber)Simulation Chamber$()."
+      "text": "一共有兩種$(item)物質$()，$(item)世界$()和$(item)原始$()。$(br2)使用$(l:1_machines/0_simulation_chamber)模擬室$()，你總能能得到一個$(br)$(item)世界物質$()。$(br2)也有機率產生$(item)原始物質$()，該機率取決於你目前在$(l:1_machines/0_simulation_chamber)模擬室$()使用的$(l:0_introduction/2_data_models#data_models)數據模型$()的$(item)等級$()。"
     },
     {
       "type": "spotlight",
-      "title": "生活物資",
+      "title": "世界物質",
       "item": "deepmoblearning:living_matter_hellish",
-      "anchor": "生活",
-      "text": "$(item)Living Matter$() is a versatile matter that can be used to $(item)Transmute$() ingredients local to that $(item)Habitat$(), check $(item)JEI$() to see what recipes are available.$(br2)You can also consume $(item)Living Matter$() to gain $(item)Experience$()."
+      "anchor": "living",
+      "text": "$(item)世界物質$()能夠用來$(item)嬗變$()相應$(item)棲息地$()的素材，詳情請查看$(item)JEI$()中的配方。$(br2)你也可以消耗$(item)世界物質$()來獲得$(item)經驗$()。"
     },
     {
       "type": "crafting",
-      "title": "Example Transmutes",
+      "title": "嬗變樣例",
       "recipe": "deepmoblearning:living_matter_exchange/transmutes1_hellish/recipe0_soul_sand",
       "recipe2": "deepmoblearning:living_matter_exchange/transmutes2_extraterrestrial/recipe2_ender_pearl",
       "anchor": "living_transmute"
@@ -26,8 +26,8 @@
       "type": "spotlight",
       "title": "原始物質",
       "item": "deepmoblearning:pristine_matter_zombie",
-      "anchor": "原生的",
-      "text": "Secondary output from the $(l:1_machines/0_simulation_chamber)Simulation Chamber$().$(br2)The type of $(item)Pristine Matter$() you will produce depends on the type of the $(l:0_introduction/2_data_models#data_models)Data Model$().$(br2)$(item)Pristine Matter$() will produce mob drops in the$(br)$(l:1_machines/2_loot_fabricator)Loot Fabricator$()."
+      "anchor": "pristine",
+      "text": "這是$(l:1_machines/0_simulation_chamber)模擬室$()的第二種產物。$(br2)$(item)原始物質$()的種類取決於$(l:0_introduction/2_data_models#data_models)數據模型$()。$(br2)$(item)原始物質$()能夠在$(br)$(l:1_machines/2_loot_fabricator)戰利品製造器$()裡生產怪物掉落物。"
     }
   ]
 }

@@ -1,29 +1,29 @@
 {
-    "name": "* Armor Mechanics *",
+    "name": "＊ 服裝特性 ＊",
     "icon": "techguns:t1_scout_chestplate",
     "category": "armors",
     "pages": [
         {
             "type": "text",
-            "text": "Techguns armors are equipped like normal minecraft armors but they have a lot of special features. $(br2) Techguns armors are not destroyed at 0 durability, they stop to give their stats when reaching 1 durability and no longer take damage."
+            "text": "科技槍械模組中的服裝穿戴方式就跟 Minecraft 原版的護甲一樣， 不過多了許多特殊性能。$(br2)而且這些服裝並不會因為耐久度歸零而損毀消失， 它們只會在耐久度降到 1 時， 停止所有性能且無法抵擋任何傷害。"
         },
         {
             "type": "text",
-            "title": "Armor Repairing",
+            "title": "防具修理",
             "anchor": "repairing",
-            "text": "Techguns armor can be repaired at the 'Repair Bench'. Each ammo has a defined amount of materials that is need dependent on durability. Repairing an armor is cheaper than creating a new one. The amount of repair materials needed is shown in the tooltip at the repair bench."
+            "text": "科技槍械模組中的防具都可在《修理機》中進行修理， 修理機會顯示修復所需的材料及數量， 花費會比製作一件新的還便宜。"
         },
         {
             "type": "text",
-            "title": "Powered Armors",
+            "title": "能量型服裝",
             "anchor": "powered_armors",
-            "text": "Some armors are $(thing)'Powered Armors'$() which means they need power to operate. Currently there are two power types in the game: $(thing)Steam$() and $(thing)RF$(). Only the chestplate consumes power providing items and powers the other slots. Wearing two different power types does not work. Powered armors only provide their bonus stats when they are powered. Protection is given also without power."
+            "text": "某些服裝為$(thing)《能量型服裝》$()， 表示需要能量來驅動。目前本模組有《$(thing)蒸氣$()》及《$(thing)RF$()》兩種能量類型。能量物品只會對胸甲供應能量， 再由胸甲對其它裝備供應能量， 因此穿兩件不同能量類型的服裝會無法補充能量。能量型服裝的能量只是用來推動其附加的性能， 能量耗盡時不會影響原有的防護力。"
         },
         {
             "type": "text",
-            "title": "Reloading Armors",
+            "title": "補充服裝能量",
             "anchor": "armor_reloading",
-            "text": "The chestplate automatically consumes the required power item from the player's inventory when it's empty. The chestplate provides the power to other equipped slots with the same power-type. Some bonus effects drain additional power when used, for example the jump boost will drain extra power each time you jump."
+            "text": "當胸甲的能量耗盡時， 會自動使用玩家身上的能量物品來補充能量， 再將能量供應至其它裝備槽中相同能量類型的服裝。某些附加性能會在使用時消耗額外的能量， 例如加強跳躍會在每次跳躍時消耗額外能量。"
         }
     ]
 }

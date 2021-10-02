@@ -1,5 +1,5 @@
 {
-    "name": "Energetic Aura Forge",
+    "name": "靈氣充能台",
     "icon": "naturesaura:rf_converter",
     "category": "using",
     "advancement": "naturesaura:sky_ingot",
@@ -7,20 +7,20 @@
     "pages": [
         {
             "type": "text",
-            "text": "While $(aura) is quite versatile and useful, it's most definitely not the only $(thing)energy source$() around. In recent history, new sources of energy that aren't considered natural have been $(italic)forged$() by the people. Sometimes, it might prove useful to have such a power source at one's disposal instead. The $(item)Energetic Aura Forge$() directly converts $(aura) into what is known to most people as $(thing)Redstone Flux$(),"
+            "text": "$(#419600)靈氣$()相當萬能而又有用，但這肯定不是唯一的$(thing)能量源$()。最近的歷史上，新的非自然能源被人們$(italic)鑄造（forged）$()了出來。有時，有這樣一個能量源供自己使用可能很有用。$(item)靈氣充能台$()直接將$(#419600)靈氣$()轉換為被大多數人稱為$(thing)紅石通量$()的能量，"
         },
         {
             "type": "text",
-            "text": "to some as $(thing)Forge Energy$() and to even others as $(thing)Crystal Flux$().$(br)To achieve this, simply place the $(item)Energetic Aura Forge$() with the accompanied structure as shown on the next page. Then, any excess amount of $(aura) in the area will automatically be turned into electrical energy. The more $(aura) there is present, the faster the conversion process will go.$(br)Additionally, having the $(l:items/eye)Environmental Eye$() equipped will display the amount of energy in the device."
+            "text": "對有些人來說是$(thing)Forge Energy$()，對其他人甚至是$(thing)水晶通量$()。$(br)要實現這一點，只需將$(item)靈氣充能台$()與下一頁所示的伴隨結構放在一起即可。然後，該區域內任何多餘的$(#419600)靈氣$()都會自動轉換成電能。$(#419600)靈氣$()越多，轉換過程就會越快。另外，裝備了$(l:items/eye)環境之眼$()，就會顯示設備中的能量。"
         },
         {
             "type": "multiblock",
             "multiblock_id": "naturesaura:rf_converter",
-            "text": "Creating the structure around the $(item)Energetic Aura Forge$()"
+            "text": "$(item)靈氣充能台$()周圍的結構"
         },
         {
             "type": "crafting",
-            "text": "Creating the $(item)Energetic Aura Forge$()",
+            "text": "合成$(item)靈氣充能台$()",
             "recipe": "naturesaura:rf_converter"
         }
     ]

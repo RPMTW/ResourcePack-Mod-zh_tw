@@ -1,21 +1,21 @@
 {
-    "name": "3. High-Tech Weaponry",
+    "name": "３》高科技裝備",
     "icon": "techguns:tfg",
     "category": "survival_guide",
     "pages": [
         {
             "type": "text",
-            "text": "With a $(l:fabricator)Fabricator$(/l) and a $(l:reactionchamber)Reaction Chamber$(/l) you have access to new high-tech weapons and armors."
+            "text": "有了$(l:fabricator)《製造機》$(/l)和$(l:reactionchamber)《反應槽》$(/l)， 你可以擁有新的高科技武器與裝備。"
         },
         {
             "type": "text",
-            "title": "Advanced Processing",
-            "text": "The reaction chamber can process titanium ore needed for tier 3 armors. Also it is possible to enrich uranium for nuclear weapons. The fabricator produces energy cells and other items needed."
+            "title": "進階製造",
+            "text": "《反應槽》可提煉出等級 3 裝備所需的鈦金屬， 還能做出《濃縮鈾》來製造核子武器。而《製造機》可生產《能量匣》及其它所需物品。"
         },
         {
             "type": "text",
-            "title": "The Power of Flight",
-            "text": "If you acquire a nether star you can craft the 'anti-gravity device' allowing you to use creative flight when worn."
+            "title": "飛行之力",
+            "text": "若你獲得了地獄之星， 則可製作《反重力裝置》， 讓你背在身上時能像創造模式一樣自由飛行。"
         }
     ]
 }

@@ -1,12 +1,12 @@
 {
-    "name": "Magmatic Aeroheater",
+    "name": "熔岩氣熱爐",
     "icon": "prodigytech:magmatic_aeroheater",
     "category": "hot_air",
     "advancement": "prodigytech:recipes/ferramic_ingot",
     "pages": [
         {
             "type": "text",
-            "text": "The $(item)Magmatic Aeroheater$() will constantly produce low temperature $(thing)Hot Air$() as long as it is above a Lava block $(o)(source or flowing)$().$(br2)While it never needs refueling, it is also not hot enough to allow chaining most machines or to power more advanced ones."
+            "text": "$(item)熔岩氣熱爐$()當他放置在岩漿上時會持續生成低溫度的$(thing)熱空氣$()$(o)(流動的或者是靜態的岩漿都可以)$()。$(br2)而它從不需要重新裝填燃料，但是他產生的溫度也不足以讓他連接更多的機器，或者是推動更加高級的機器。"
         },
         {
             "type": "crafting",

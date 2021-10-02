@@ -1,11 +1,11 @@
 {
-  "name": "佔位符",
+  "name": "占位板",
   "icon": "alchemistry:slot_filler",
   "category": "utility_category",
   "pages": [
     {
       "type": "text",
-      "text": "要為化工合成創建合成模板，你可以使用佔位符填充空位以便將所以物品置於正確的位置，佔位符會被配方無視，然後與其他輸入一同使用"
+      "text": "在AE2/RS或其他合成終端中合成物品時空欄位需要這個占位板進行填充，以達到空欄位不會被填充物品的目的。"
     }
   ]
 }

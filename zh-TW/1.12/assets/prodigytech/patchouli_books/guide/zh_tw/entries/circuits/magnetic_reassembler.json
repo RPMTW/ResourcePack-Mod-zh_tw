@@ -1,12 +1,12 @@
 {
-    "name": "Magnetic Reassembler",
+    "name": "磁力重構機",
     "icon": "prodigytech:magnetic_reassembler",
     "category": "circuits",
     "advancement": "prodigytech:main/solderer",
     "pages": [
         {
             "type": "text",
-            "text": "The $(item)Magnetic Reassembler$() uses strong magnets to force small particules together. This makes it act as a reverse $(item)Rotary Grinder$(), and is an essential component on getting started with $(thing)Energion Crystal farming$().$(br2)Items can be inserted/extracted from any side except top and bottom."
+            "text": "$(item)磁力重構機$()使用超強的磁力使粒子重新組合在一起。他幹的活正好和$(item)旋轉粉碎機$()相反, 而且這也是個在$(thing)能量水晶$()的種植上必要的一個機器。$(br2)物品能從機器除了頂部和底部以外的各個面輸入。"
         },
         {
             "type": "crafting",

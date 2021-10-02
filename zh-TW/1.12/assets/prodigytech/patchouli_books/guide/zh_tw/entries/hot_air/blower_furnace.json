@@ -1,12 +1,12 @@
 {
-    "name": "Blower Furnace",
+    "name": "烘烤爐",
     "icon": "prodigytech:blower_furnace",
     "category": "hot_air",
     "advancement": "prodigytech:main/aeroheater",
     "pages": [
         {
             "type": "text",
-            "text": "The $(item)Blower Furnace$() is simply a $(thing)Hot Air$() powered Furnace. While it is slower than a normal Furnace on low temperatures, it is much more fuel efficient and can be chained with other machines.$(br2)Items can be inserted/extracted from any side except top and bottom."
+            "text": "$(item)烘烤爐$()是一個簡單的由$(thing)熱空氣$()驅動的熔爐。當他在處於低溫度的時候，他的工作速度甚至不如普通的熔爐，但是他的能耗比還是相當高的，以及能夠連接別的機器$(br2)物品能從機器除了頂部和底部以外的各個面輸入/輸出。"
         },
         {
             "type": "crafting",

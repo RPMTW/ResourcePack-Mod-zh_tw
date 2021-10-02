@@ -1,22 +1,22 @@
 {
-  "name": "Digital Agonizer",
+  "name": "數字化苦難之井",
   "icon": "deepmoblearningbm:digital_agonizer",
   "category": "4_bm",
   "sortnum": 0,
   "pages": [
     {
       "type": "text",
-      "text": "When supplied with $(l:1_machines/3_energy)Energy$() and a $(l:0_introduction/2_data_models)Data Model$() it will $(item)Digitally Torture$() the AI inside the $(l:0_introduction/2_data_models)Data Model$().$(br2)Besides being really fun, this process will also produce $(item)Life Essence$() for the $(item)Blood Altar$() that's linked to the $(item)Digital Agonizer$()."
+      "text": "當向其供給$(l:1_machines/3_energy)能量$()並放入$(l:0_introduction/2_data_models)數據模型$()後，它會對$(l:0_introduction/2_data_models)數據模型$()中的 AI 進行$(item)數字化折磨$()。$(br2)這一過程很有趣，而且還能夠產生$(item)生命源質$()，並將這些源質輸送給與$(item)數位折磨者$()相連接的$(item)血之祭壇$()。"
     },
     {
       "type": "recipelookup",
       "recipe": "deepmoblearningbm:digital_agonizer",
-      "text": "The amount of $(item)Life Essence$() it produces depends on the $(item)Catalyst$() being used, how many $(item)Sacrifice Runes$() the $(item)Blood Altar$() has and what $(item)Tier$() the $(l:0_introduction/2_data_models)Model$() is."
+      "text": "它所產生的$(item)生命源質$()的數量取決於它所使用的$(item)催化劑$()，$(item)血之祭壇$()周圍的$(item)獻祭符文$()數量，以及$(l:0_introduction/2_data_models)數據模型$()的$(item)等級$()。"
     },
     {
       "type": "text",
-      "title": "原料",
-      "text": "$(item)Catalysts$() can be used to amplify how much $(item)Life Essence$() you get per $(item)Operation$().$(br2)$(item)Catalysts$() varies in potency and how many operations it can amplify before running out.$(br2)You can find a list of $(item)Catalysts$() in $(item)JEI$()."
+      "title": "Catalysts",
+      "text": "$(item)催化劑$()可以增加你從每次$(item)操作$()中獲得的$(item)生命源質$()。$(br2)各種$(item)催化劑$()的效力不一，催化次數也各不相同。$(br2)你可以在$(item)JEI$()中查閱到可用的$(item)催化劑$()列表。"
     }
   ]
 }

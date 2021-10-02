@@ -1,15 +1,15 @@
 {
-    "name": "T3 : HEV Suit",
+    "name": "等級３》危境套裝",
     "icon": "techguns:t3_miner_chestplate",
     "category": "armors",
     "pages": [
         {
             "type": "text",
-            "text": "The HEV or Hazardous Envirnonment Suit is a $(l:armor_mechanics#powered_armors)powered$(/l) Tier 3 armor and requires $(thing)Energy Cell$()s. It is designed for mining operations in dangerous environments."
+            "text": "《危境套裝》為等級三的$(l:armor_mechanics#powered_armors)能量型服裝$(/l)， 需使用$(thing)《能量匣》$()來補充能量， 其設計用於惡劣環境中的挖掘任務。"
         },
         {
             "type": "entity",
-            "name": "HEV Suit",
+            "name": "危境套裝",
             "entity": "minecraft:armor_stand{ShowArms:1,NoBasePlate:1,ArmorItems:[{Count:1,id:'techguns:t3_miner_boots'}, {Count:1,id:'techguns:t3_miner_leggings'}, {Count:1,id:'techguns:t3_miner_chestplate'}, {Count:1,id:'techguns:t3_miner_helmet'}]}",
             "text": ""
         },

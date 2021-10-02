@@ -1,15 +1,15 @@
 {
-    "name": "T2 : Combat Armor",
+    "name": "等級２》戰鬥裝",
     "icon": "techguns:t2_combat_chestplate",
     "category": "armors",
     "pages": [
         {
             "type": "text",
-            "text": "The Combat Armor is a Tier 2 armor and intended to be used for combat. It's stats are a direct upgrade of the $(l:armors/soldier_armor)Soldier Armor$(/l)."
+            "text": "等級二的《戰鬥裝》也是設計用於戰鬥的服裝， 其屬性為$(l:armors/soldier_armor)《士兵裝》$(/l)的升級。"
         },
         {
             "type": "entity",
-            "name": "Combat Armor",
+            "name": "先進戰鬥裝",
             "entity": "minecraft:armor_stand{ShowArms:1,NoBasePlate:1,ArmorItems:[{Count:1,id:'techguns:t2_combat_boots'}, {Count:1,id:'techguns:t2_combat_leggings'}, {Count:1,id:'techguns:t2_combat_chestplate'}, {Count:1,id:'techguns:t2_combat_helmet'}]}",
             "text": ""
         },

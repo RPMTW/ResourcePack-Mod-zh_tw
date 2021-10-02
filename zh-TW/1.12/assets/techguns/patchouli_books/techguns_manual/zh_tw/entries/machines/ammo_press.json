@@ -1,16 +1,16 @@
 {
-    "name": "Ammo Press",
+    "name": "彈藥壓製機",
     "icon": "techguns:basicmachine:0",
     "category": "powered_machines",
     "pages": [
         {
             "type": "text",
-            "text": "The Ammo Press is an early game machine that is used for crafting the basic ammo types: 'Pistol Rounds', 'Shotgun shells', 'Rifle Rounds' and 'Sniper Rounds'. The machine has 3 input slots, 1 output slot and an $(l:machine_mechanics#upgrade)upgrade slot$(/l).$(br)With the 2 buttons ( ' < ' and ' > ' ) the type of ammo that is produced is changed, the resource costs are always the same, but the output amount differs per type."
+            "text": "《彈藥壓製機》為遊戲前期的機器， 用來製作手槍子彈、散彈槍子彈、步槍子彈及狙擊槍子彈等基本型彈藥。這臺機器有三個輸入槽、一個輸出槽， 以及一個$(l:machine_mechanics#upgrade)升級槽$(/l)。按下[＜]及[＞]兩個按鈕可挑選製作的子彈種類， 各種子彈消耗的輸入材料都一樣， 不同的是輸出的數量。"
         },
         {
             "type": "text",
-            "title": "Usage",
-            "text": "$(li)Input 1: Hard Metal / Core Metal, allowed: Steel Ingots and Lead Ingots, requires 1 Ingot per operation. $(li)Input 2: Soft Metal / Jacket Metal, allowed: Copper, Tin, Bronze, Iron, ... . Requires 2 Ingots per operation. $(li)Input 3: Gunpowder, 1 Item per operation.$(br)Available Recipes may differ on mod setup and should be viewed with Just Enough Items (JEI)."
+            "title": "使用說明",
+            "text": "$(li)輸入1： 彈芯， 可使用鋼錠及鉛錠等硬金屬， 每次需1錠。$(li)輸入2： 彈殼， 可使用銅錠、錫錠、青銅錠、鐵錠...等軟金屬， 每次需2錠。$(li)輸入3： 火藥， 每次需1撮。$(br)可用的配方會因模組的設定而有所不同， 請用『Just Enough Items 充足物品模組(JEI)』來查詢配方。"
         },
         {
             "type": "crafting",

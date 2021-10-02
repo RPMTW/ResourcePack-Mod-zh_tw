@@ -1,10 +1,10 @@
 {
-    "key.elenaidodge.dodge": "Dodge",
+    "key.elenaidodge.dodge": "閃避",
     "elenaidodge.general.common.skystrides.skystrides": "Skystrides Override",
-    "elenaidodge.general.common.balance.potions": "Potion Blacklist",
-    "reskillable.unlock.elenaidodge.dodge": "Dodge",
+    "elenaidodge.general.common.balance.potions": "藥水黑名單",
+    "reskillable.unlock.elenaidodge.dodge": "閃避",
     "reskillable.unlock.elenaidodge.dodge.desc": "Your hardwork is finally starting to pay off. You are now able to dodge enemy attacks!",
-    "reskillable.unlock.elenaidodge.walljump": "Wall Jump",
+    "reskillable.unlock.elenaidodge.walljump": "蹬牆跳",
     "reskillable.unlock.elenaidodge.walljump.desc": "Push off the side of block walls by facing away from them and pressing the 'jump' key!",
     "reskillable.unlock.elenaidodge.ledgegrab": "Ledge Grab",
     "reskillable.unlock.elenaidodge.ledgegrab.desc": "Pull yourself over the top of block walls by facing towards them and pressing the 'jump' key!",
@@ -52,6 +52,6 @@
     "enchantment.lightweight": "Lightweight",
     "enchantment.lightweight.desc": "Decreases weight to provide more Dodges.",
     "enchantment.elenaidodge.lightweight.desc": "Decreases weight to provide more Dodges.",
-    "item.elenaidodge.golden_feather.name": "Gold Feathery Ingot",
-    "item.elenaidodge.iron_feather.name": "Iron Feathery Ingot"
+    "item.elenaidodge.golden_feather.name": "金羽錠",
+    "item.elenaidodge.iron_feather.name": "鐵羽錠"
 }

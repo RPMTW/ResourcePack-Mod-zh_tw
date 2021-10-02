@@ -1,16 +1,16 @@
 {
-    "name": "Crystal Farming",
+    "name": "能量晶體種植",
     "icon": "prodigytech:energion_crystal_seed",
     "category": "energion",
     "advancement": "prodigytech:main/solderer",
     "pages": [
         {
             "type": "text",
-            "text": "$(item)Energion Dust$() can be turned into $(item)Energion Crystal Seeds$() in a $(item)Magnetic Reassembler$(). These seeds can then be planted on the ground and will slowly grow over time, yielding more $(item)Energion Crystal Seeds$().$(br2)Those can then either be replanted or grinded into useable $(item)Energion Dust$()."
+            "text": "$(item)能量粉$()能通過$(item)磁力重構機$()轉換成$(item)能量晶體種子$()。這些種子能被種植在地上然後緩慢得隨時間生長，生成更多的$(item)能量晶體種子$()。$(br2)然後你也可以接著拿去種植或者是拿去磨粉機磨成$(item)能量粉$()."
         },
         {
             "type": "text",
-            "text": "Those crystals are $(l)HIGHLY DANGEROUS$() once grown, and should $(l)NEVER$() be harvested without the $(item)Crystal Cutter$().$(br2)You can right click a crystal with it to harvest only a stage at a time, or just break it to harvest it all at once.$(br2)Putting Fortune on it increases the yield of grown crystals."
+            "text": "這些晶體一旦開始生長後是$(l)高 度 危 險 的$()，以及$(l)永 遠$()不要嘗試不使用$(item)晶體切割器$()來收割晶體。$(br2)你能用它來右擊晶體來收穫他的目前階段的晶體，或者是直接一次性全部拆掉。$(br2)給切割器附上幸運來收穫更多的晶體。"
         },
         {
             "type": "crafting",

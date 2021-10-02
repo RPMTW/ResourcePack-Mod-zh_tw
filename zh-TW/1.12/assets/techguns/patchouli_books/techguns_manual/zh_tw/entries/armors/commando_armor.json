@@ -1,15 +1,15 @@
 {
-    "name": "T2 : Commando Armor",
+    "name": "等級２》突擊隊裝",
     "icon": "techguns:t2_commando_chestplate",
     "category": "armors",
     "pages": [
         {
             "type": "text",
-            "text": "The Commando Armor is a Tier 2 armor intended for combat and under water activities."
+            "text": "等級二的《突擊隊裝》設計用於戰鬥及水中作業。"
         },
         {
             "type": "entity",
-            "name": "Soldier's Armor",
+            "name": "突擊隊裝",
             "entity": "minecraft:armor_stand{ShowArms:1,NoBasePlate:1,ArmorItems:[{Count:1,id:'techguns:t2_commando_boots'}, {Count:1,id:'techguns:t2_commando_leggings'}, {Count:1,id:'techguns:t2_commando_chestplate'}, {Count:1,id:'techguns:t2_commando_helmet'}]}",
             "text": ""
         },

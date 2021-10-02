@@ -1,6 +1,6 @@
 {
-    "name": "多方塊結構裝置",
-    "description": "這個模組一些複雜的裝置都是多方塊結構. $(l:machine_mechanics)'機械輸入法'$(/l) 同時也會套用於這些多方塊架構.",
+    "name": "多方塊機器",
+    "description": "科技槍械模組中最複雜的機器需要用多個方塊一起搭建。本書之$(l:machine_mechanics)《機器特性》$(/l)也適用於多方塊機器。",
     "icon": "techguns:multiblockmachine:5",
     "sortnum": 4
 }

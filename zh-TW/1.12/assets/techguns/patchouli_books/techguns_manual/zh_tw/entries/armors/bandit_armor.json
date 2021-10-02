@@ -1,15 +1,15 @@
 {
-    "name": "T1 : Bandit Armor",
+    "name": "等級１》盜賊裝",
     "icon": "techguns:t1_scout_chestplate",
     "category": "armors",
     "pages": [
         {
             "type": "text",
-            "text": "The Bandit Armor is a Tier 1 armor and intended to be used for exploration in early game. It provides the best movement speed bonus out of all T1 armors."
+            "text": "《盜賊裝》為等級一的服裝， 其提供同級中最佳的移動性能， 設計用於遊戲初期的勘查任務。"
         },
         {
             "type": "entity",
-            "name": "Bandit Armor",
+            "name": "盜賊裝",
             "entity": "minecraft:armor_stand{ShowArms:1,NoBasePlate:1,ArmorItems:[{Count:1,id:'techguns:t1_scout_boots'}, {Count:1,id:'techguns:t1_scout_leggings'}, {Count:1,id:'techguns:t1_scout_chestplate'}, {Count:1,id:'techguns:t1_scout_helmet'}]}",
             "text": ""
         },

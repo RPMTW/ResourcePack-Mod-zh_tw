@@ -1,15 +1,15 @@
 {
-  "name": "Chemical Combiner",
+  "name": "化學合成機",
   "icon": "alchemistry:chemical_combiner",
   "category": "chemical_combiner_category",
   "pages": [
     {
       "type": "text",
-      "text": "化學化合機是一種耗能機器，可能是煉金術中最重要的機器。化學化合機可結合元素和化合物—有時候也加入其他物品—以形成新物品。它的介面有一般合成台的九宮格，但不同的地方是，它允許每個格子一次消耗多於一個物品。"
+      "text": "化學合成機是一種需要消耗FE能量的機器，也許是它Alchemistry中最重要的機器。 化學合成機允許您將元素，化合物和一些其他物品組合在一起形成新物品。 它內含一個有9個物品空間格子的GUI，但與工作檯不同，它允許每個格子存在多個相同的物品。"
     },
     {
       "type": "text",
-      "text": "使用化學化合機最有效的方法是，在打開機器的介面後，用JEI選擇一個合成表，再按合成表轉移鍵(見下頁)。如此一來合成表的格子便會鎖定，只允許正確的物品擺放在正確的格子，而不允許物品進入空格子。但這項功能不是一定要用的，因為手動放置物品仍然是有效的。"
+      "text": "化學合成機也支持JEI物品傳輸功能，所以可以通過查看合成表來快速傳輸物品到化學合成機中以快速合成物品。"
     },
     {
       "type": "image",
@@ -20,7 +20,7 @@
     },
     {
       "type": "text",
-      "text": "The GUI contains 2 buttons. First is the 'Lock Recipe' button. This button is mostly obsolete in current versions of the mod, but toggling it allows you to clear the $(thing)target recipe$(), which unlocks all the slots. Second is the 'Pause' button which allows you to pause machine processing, however the machine will still accept energy and items"
+      "text": "這個機器包含兩個選項按鍵，一個是鎖定配方/解鎖配方，但目前版本這個功能已經失效，只能通過切換這個按鍵來清除目前合成表。暫停按鍵可以使這台機器暫停工作，但是仍然能夠向內傳輸能量和物品。"
     },
     {
       "type": "crafting",

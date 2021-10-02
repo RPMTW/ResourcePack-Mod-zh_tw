@@ -1,11 +1,11 @@
 {
-   "name": "Nagasada",
+   "name": "自鍛刀「永貞」",
    "icon": "flammpfeil.slashblade:slashbladenamed{ModelName: \"named/namedblade/model_stright\",TextureName: \"named/namedblade/texture_nagasada\"}",
    "category": "category_3",
    "pages": [
       {
          "type": "text",
-         "text": "The first Blade designed by myself and named Nagasada. In my opinion, new smithing learners should imitate this Blade; but it is not a traditional katana, means it may be not so worthy to be imitated."
+         "text": "我第一次自己認真設計的刀，命名為「永貞」。$(br2)我個人認為很適合新手模仿學習，不過因為不是傳統的日本刀所以也不算太值得學習的作品。"
       },
       {
          "type": "crafting",

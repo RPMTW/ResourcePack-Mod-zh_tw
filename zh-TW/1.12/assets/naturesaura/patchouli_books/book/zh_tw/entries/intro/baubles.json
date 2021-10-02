@@ -1,5 +1,5 @@
 {
-    "name": "Baubles",
+    "name": "裝飾物",
     "icon": "minecraft:totem_of_undying",
     "category": "intro",
     "read_by_default": true,
@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "text",
-            "text": "Sometimes you might find yourself lost with the space of your $(thing)inventory$(), having sky-high stacks of blocks and items cluttering your backpack and slowing you down.$(br)Some $(thing)natural items$() might be able to be placed directly on arms, waist and chest as $(item)Baubles$(). If an item has this functionality, it will display in its tooltip the parts of the body that it can reside on."
+            "text": "有時候你可能會發現自己迷失在自己的$(thing)物品欄$()空間裡，裡面大量堆疊的方塊和物品攪亂你的背包並使你找東西很慢。$(br)一些$(thing)自然物體$()可以作為$(item)飾品$()直接被放置在手臂，腰部與胸部。如果一個物品有這個功能，它會在提示裡顯示能放置的部位。"
         }
     ]
 }

@@ -1,19 +1,19 @@
 {
-  "name": "Chemical Dissolver",
+  "name": "化學溶解機",
   "icon": "alchemistry:chemical_dissolver",
   "category": "chemical_dissolver_category",
   "pages": [
     {
       "type": "text",
-      "text": "化學溶解機是一種耗能機器，它─以及化學結合機─是煉金術中最重要的機器。化學溶解機可將原料分解成不同的化學元素和化合物。"
+      "text": "化學溶解機是一種需要消耗FE能量的機器，它與化學合成機一樣也是Alchemistry中很重要的機器。化學溶解機能夠將物品分解為不同的元素或化合物。 "
     },
     {
       "type": "text",
-      "text": "There are two main types of Chemical Dissolver recipes which are denoted in each JEI recipe. First, there are recipes with $(thing)relative probability$() where all possible output groups add up to 100% and one output group will always be chosen for each $(thing)roll$(). Some recipes may have empty groups, however, resulting in a chance of no output."
+      "text": "化學溶解機的配方分為兩種類型，一種是絕對能夠成功的配方，它有100%的機率能夠得到元素或化合物，另一種是有機率成功的配方，它不一定每次都能得到元素或化合物。"
     },
     {
       "type": "text",
-      "text": "There are also recipes with $(thing)absolute probability$(). With absolute probability each group is rolled independently with its own chance of being outputted ignoring the results of other rolls."
+      "text": "每個配方的種類，成功機率，配方生產物都能在JEI中進行查看。"
     },
     {
       "type": "crafting",

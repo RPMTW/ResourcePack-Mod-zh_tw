@@ -1,15 +1,15 @@
 {
-  "name": "Glitch Fragments",
+  "name": "故障碎片",
   "icon": "deepmoblearning:glitch_fragment",
   "category": "3_system_malfunction",
   "sortnum": 1,
   "pages": [
     {
       "type": "spotlight",
-      "title": "Glitch Fragments",
+      "title": "故障碎片",
       "item": "deepmoblearning:glitch_fragment",
       "link_recipe": true,
-      "text": "$(item)Unstable Glitch Fragments$() can be created by crushing a $(l:3_system_malfunction/0_system_glitches#heart)Corrupted Glitch Heart$() against an $(item)Obsidian Block$().$(br2)These $(item)Fragments$() are used to create $(item)Glitch Infused Ingots$()."
+      "text": "用$(l:3_system_malfunction/0_system_glitches#heart)損壞的故障心臟$()敲擊$(item)黑曜石$()，可以獲得$(item)不穩定故障碎片$()。$(br2)這些$(item)碎片$()可用來製作$(item)故障灌注錠$()。"
     }
   ]
 }

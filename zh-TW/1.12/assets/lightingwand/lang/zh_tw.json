@@ -1,7 +1,7 @@
 {
-    "item.lightingwand.wand.name": "Lighting Wand",
-    "tile.lightingwand.light.name": "Light Source",
+    "item.lightingwand.wand.name": "照明魔杖",
+    "tile.lightingwand.light.name": "光源",
     "tip.lightingwand.uncharged": "未充能",
-    "psi.spellpiece.trickConjureLightInvisible": "Trick: Conjure Light Invisible",
-    "psi.spellpiece.trickConjureLightInvisible.desc": "Conjures a light in the given position. Only have CAD in hand can see the bounding box"
+    "psi.spellpiece.trickConjureLightInvisible": "啟動式: 構築隱藏光線",
+    "psi.spellpiece.trickConjureLightInvisible.desc": "在指定位置構築一團亮光，只有手持CAD時才能看到方塊邊框"
 }

@@ -1,11 +1,11 @@
 {
-  "name": "液化概覽",
+  "name": "液化器簡介",
   "icon": "alchemistry:liquifier",
   "category": "liquifier_category",
   "pages": [
     {
       "type": "text",
-      "text": "液化機是可用於將煉金元素或化合物等價轉化為其液態的動能器械"
+      "text": "液體化器是一種需要消耗FE能量的機器，它可以讓元素和化合物組成一些流體"
     },
     {
       "type": "crafting",

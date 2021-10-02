@@ -1,17 +1,17 @@
 {
-    "name": "Automatic Crystal Cutter",
+    "name": "晶體自動切割機",
     "icon": "prodigytech:automatic_crystal_cutter",
     "category": "energion",
     "advancement": "prodigytech:main/solderer",
     "pages": [
         {
             "type": "text",
-            "text": "The $(item)Automatic Crystal Cutter$() is a simple machine to automate your $(thing)Energion Crystal farming$(). Simply power it with $(thing)Hot Air$() and plant a crystal in front of it. When the crystal is fully grown, the $(item)Automatic Crystal Cutter$() will harvest it until it is back at its first stage.$(br2)The result can be extracted from any side except top or bottom."
+            "text": "$(item)晶體自動切割機$()是個能自動幫你完成$(thing)能量晶體種植$()的機器。一般地供給$(thing)熱空氣$()以及在機器前面種上晶體。當水晶完成長成後，$(item)晶體自動切割機$()會自動收穫晶體，只到晶體回到最初始的階段。$(br2)收穫的晶體可以從機器除了頂部和底部以外的各個面輸出。"
         },
         {
             "type": "crafting",
             "recipe": "prodigytech:machine/automatic_crystal_cutter",
-            "text": "Since it is likely each $(item)Automatic Crystal Cutter$() will spend more time being inactive than active, it is possible to stack large amounts of them vertically with the minimum $(thing)Hot Air$() requirements with minimal penalty."
+            "text": "因為每個像是$(item)晶體自動切割機$()的機器都會從閒置狀態到啟動狀態花更多的時間, 所以能夠有更多的時間去準備被大量地減少了最低需求的$(thing)熱空氣$()。"
         }
     ]
 }

@@ -6,17 +6,17 @@
   "pages": [
     {
       "type": "text",
-      "text": "Before you can start reaping the rewards you will need to collect some $(item)Data$() about a mob, the handheld device that makes that possible is called the $(item)Deep Learner$().$(br2)The $(item)Deep Learner$() is a device that can detect whenever you deliver mortal harm to a mob."
+      "text": "在你獲得回報之前，你需要收集關於一些與怪物相關的$(item)數據$()，而$(item)深度學習器$()可以擔此大任。$(br2)$(item)深度學習器$()會在你擊殺怪物時進行數據探測。"
     },
     {
       "type": "recipelookup",
       "recipe": "deepmoblearning:deep_learner",
-      "text": "It can turn your encounter with that mob into $(item)Data$() if you have a $(l:0_introduction/2_data_models)Data model$() attached to the $(item)Deep Learner$().$(br2)The $(item)Deep Learner$() Can have 4 attached $(l:0_introduction/2_data_models)Data Models$() at any given time."
+      "text": "它能夠將你所遭遇的怪物轉變為$(item)數據$()，前提是你把對應怪物的$(l:0_introduction/2_data_models)數據模型$()放在了$(item)深度學習器$()裡。$(br2)$(item)深度學習器$()能夠同時掛載4個$(l:0_introduction/2_data_models)數據模型$()。"
     },
     {
       "type": "spotlight",
       "item": "deepmoblearning:deep_learner",
-      "text": "If you hold the $(item)Deep Learner$() in your $(item)Mainhand$() or $(item)Offhand$() a HUD will be displayed showing you how much more $(item)Data$() you need before you reach the next $(l:0_introduction/2_data_models)Data Model$() $(item)Tier$()."
+      "text": "如果你的$(item)主手$()或$(item)非慣用手$()持有$(item)深度學習器$()，畫面上會出現一個HUD，它會告訴你還需要多少$(item)數據$()量才能提升$(l:0_introduction/2_data_models)數據模型$()的$(item)等級$()。"
     }
   ]
 }

@@ -1,20 +1,20 @@
 {
-    "name": "Aura Attraction Cart",
+    "name": "靈氣吸引礦車",
     "icon": "naturesaura:mover_cart",
     "category": "devices",
     "advancement": "naturesaura:aura_bottle_end",
     "pages": [
         {
             "type": "text",
-            "text": "One of the problems many $(aura) researchers face is that, while it's plentiful and easy to access, it's not necessarily easy to $(thing)move around$(). For this, the $(item)Aura Attraction Cart$() was developed: Its sole purpose is to provide the ability for $(aura) to be moved around the world easily. For that, all that is required is an excess amount of $(aura) in the starting area and some $(item)rails$()."
+            "text": "$(#419600)靈氣$()研究者面臨的許多問題之一是，儘管靈氣十分充足而且易於獲得，但不容易進行$(thing)移動$()。為了解決這個問題，$(item)靈氣吸引礦車$()被開發了出來：其唯一目的就是讓$(#419600)靈氣$()能輕鬆地在世界中移動。為了達成這一目標需要的全部僅僅是起始地點富餘的$(#419600)靈氣$()和一些$(item)軌道$()。"
         },
         {
             "type": "text",
-            "text": "To use the $(item)Aura Attraction Cart$(), one needs to place it on a rail. To cause it to hook on to $(aura) in the area around it and to make it able to move it around, it needs to pass a powered $(item)Activator Rail$(). It will then pick up the $(aura) around it and pull it along with it until it reaches an unpowered $(item)Activator Rail$(), at which point it will let go of the $(aura).$(p)It should be noted that, during the process of moving $(aura) in this manner, some of the excess is $(thing)$(t:| || || |_)lost$()."
+            "text": "使用$(item)靈氣吸引礦車$()需要將其放置在軌道上。要使其勾住周圍的$(#419600)靈氣$()並使之移動，礦車需要通過一段$(item)啟動軌道$()。礦車會載起周圍的$(#419600)靈氣$()並拉著其前進，直到遇到未供能的$(item)啟動軌道$()，這時礦車會鬆手放開$(#419600)靈氣$()。$(p)需要注意的是以這種方式移動$(#419600)靈氣$()會導致某些精華$(thing)$(t:| || || |_)丟失$()。"
         },
         {
             "type": "crafting",
-            "text": "Creating the $(item)Aura Attraction Cart$()",
+            "text": "合成$(item)靈氣吸引礦車$()",
             "recipe": "naturesaura:mover_cart"
         }
     ]

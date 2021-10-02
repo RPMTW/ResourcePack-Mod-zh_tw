@@ -1,22 +1,22 @@
 {
-  "name": "Glitch Infused Metal",
+  "name": "故障灌注金屬",
   "icon": "deepmoblearning:infused_ingot_block",
   "category": "3_system_malfunction",
   "sortnum": 2,
   "pages": [
     {
       "type": "text",
-      "text": "You've found that $(item)Lapis$() is a good stabilization agent for the $(item)Unstable Glitch Fragments$()$(br2)After the fragments are $(item)Stable$() they desparetely seek out a material to latch onto, you think that $(item)Gold$() might be strong enough as a $(item)Host$().$(br2)It's a delicate process, and it needs to be performed in $(item)Water$() or the materials won't bind properly."
+      "text": "你發現$(item)青金石$()是一種良好的穩定劑，它可以用來穩定$(item)不穩定故障碎片$()。$(br2)碎片$(item)穩定$()後，它們迫切地需要一種供其侵占的材料，你認為$(item)金錠$()也許能夠擔當這一$(item)宿主$()的角色。$(br2)這是個精細入微的過程，它需要在$(item)水$()中製作，否則材料之間無法很好的融合。"
     },
     {
       "type": "fluid_infusion",
-      "title": "Stabilization Process",
+      "title": "穩定化處理",
       "input1": "minecraft:dye:4",
       "input2": "deepmoblearning:glitch_fragment",
       "input3": "minecraft:gold_ingot",
       "output": "deepmoblearning:glitch_infused_ingot",
       "fluid": "deepmoblearning:textures/gui/patchouli/water.png",
-      "fluidTooltip": "水"
+      "fluidTooltip": "Water"
     }
   ]
 }

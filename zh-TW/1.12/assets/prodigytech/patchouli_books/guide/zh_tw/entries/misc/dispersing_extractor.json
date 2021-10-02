@@ -1,12 +1,12 @@
 {
-    "name": "Dispersing Extractor",
+    "name": "分散型提取器",
     "icon": "prodigytech:dispersing_extractor",
     "category": "雜項",
     "advancement": "prodigytech:recipes/ferramic_ingot",
     "pages": [
         {
             "type": "text",
-            "text": "The $(item)Dispersing Extractor$() is similar to the $(item)Linear Extractor$(), but pushes to all 5 sides it is not pulling from.$(br2)Items are pushed in a round-robin fashion stack by stack in a specific order, with the opposite side of the pulling one always being the first one."
+            "text": "$(item)分散型提取器$()是一個和$(item)線性提取器$()差不多的機器，從除了抽取方向以外的五個方向輸出。$(br2)物品會以特定順序成組地循環的方式輸出，用於抽取物品的那個面的相對的麵為最先輸出的。"
         },
         {
             "type": "crafting",

@@ -1,6 +1,6 @@
 {
-    "name": "簡易型裝置",
-    "description": "本模組新增的一些無需電力能源的裝置，同時也可以設定$(l:machine_mechanics#security)使用權限設定$(/l).",
+    "name": "普通機器",
+    "description": "科技槍械模組增加了一些不需使用能量的普通機器。仍支援$(l:machine_mechanics#security)權限設定$(/l)。",
     "icon": "techguns:simplemachine:8",
     "sortnum": 2
 }

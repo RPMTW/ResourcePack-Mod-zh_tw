@@ -1,6 +1,6 @@
 {
-  "name": "Blood Magic Addon",
-  "description": "This chapter will contain all of the information you need to use the $(item)Blood Magic Addon$()$(br)$(dmlbm)$(br2)This $(item)Mod$() helps you produce $(item)Life Essence$() without having a $(item)Well of Suffering$().$(br2)Keeping a bunch of mobs loaded to run your $(item)Well$() costs a lot of $(item)Server resources$(). This is a lag-free alternative.",
+  "name": "血魔法附屬",
+  "description": "這一章節包含了所有你會在$(item)血魔法附屬$()中使用到的訊息。$(br)$(dmlbm)$(br2)這個$(item)Mod$()可以讓你在不使用$(item)苦難之井$()儀式的情況下產出$(item)生命源質$()。$(br2)在$(item)井$()中載入數量龐大的怪物會極大地消耗$(item)伺服器資源$()。這無疑是一個能夠減少伺服器滯後的替代方法。",
   "icon": "deepmoblearningbm:digital_agonizer",
   "sortnum": 4,
   "flag": "mod:deepmoblearningbm"

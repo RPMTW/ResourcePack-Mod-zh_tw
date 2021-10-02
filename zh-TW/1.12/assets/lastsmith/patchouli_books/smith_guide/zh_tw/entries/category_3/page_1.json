@@ -1,16 +1,16 @@
 {
-   "name": "Ruby-Nameless-",
+   "name": "利刀「無名」紅玉",
    "icon": "flammpfeil.slashblade:slashbladenamed{TextureName: \"BambooKatana\"}",
    "category": "category_3",
    "pages": [
       {
          "type": "text",
-         "text": "Named after Ruby, the first smith who made the Blade. I recorded the universal recipe of its recent replica.$(br2)Its replica used to be owned by almost everyone, which is a beautiful memory of that period. For many reasons, there are fewer and fewer persons who own the Ruby Blade."
+         "text": "以第一代鍛造者——紅玉為名的優質打刀。我記錄下來了現在仿製品的通用配方。$(br2)在美好的過去，曾是人手一振仿製品，也算是那個時代的回憶了。$(br)因為各種原因，實際上現在持有紅玉的人越來越少了。"
       },
       {
          "type": "crafting",
          "recipe": "flammpfeil.slashblade:wrap.BambooMod.katana",
-         "text": "If you cannot see the recipe, you may not have Sakura Mod and SJAP Mod installed. But you may use BladeSoul to get the Blade instead."
+         "text": "如果你無法看到這個配方，說明你缺少了前置內容（櫻Mod和SJAP），你只能通過刀魂來取得了。"
       }
    ],
    "advancement": "lastsmith:slashblade_white",

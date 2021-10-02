@@ -1,15 +1,15 @@
 {
-    "name": "T1 : Soldier's Armor",
+    "name": "等級１》士兵裝",
     "icon": "techguns:t1_combat_chestplate",
     "category": "armors",
     "pages": [
         {
             "type": "text",
-            "text": "The Soldier's Armor is a Tier 1 armor and intended to be used for combat in early game. It provides the best defenses out of all T1 armors."
+            "text": "《士兵裝》為等級一的服裝中防護力最好的， 設計用於遊戲初期中進行戰鬥。"
         },
         {
             "type": "entity",
-            "name": "Soldier's Armor",
+            "name": "突擊隊裝",
             "entity": "minecraft:armor_stand{ShowArms:1,NoBasePlate:1,ArmorItems:[{Count:1,id:'techguns:t1_combat_boots'}, {Count:1,id:'techguns:t1_combat_leggings'}, {Count:1,id:'techguns:t1_combat_chestplate'}, {Count:1,id:'techguns:t1_combat_helmet'}]}",
             "text": ""
         },

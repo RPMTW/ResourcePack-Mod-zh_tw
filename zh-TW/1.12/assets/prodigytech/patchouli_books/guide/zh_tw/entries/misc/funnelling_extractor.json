@@ -1,12 +1,12 @@
 {
-    "name": "Funnelling Extractor",
+    "name": "漏斗型提取器",
     "icon": "prodigytech:funnelling_extractor",
     "category": "雜項",
     "advancement": "prodigytech:recipes/ferramic_ingot",
     "pages": [
         {
             "type": "text",
-            "text": "The $(item)Funnelling Extractor$() is similar to the $(item)Linear Extractor$(), but pulls from all 5 sides it is not pushing to.$(br2)Items are pulled in a specific order, with the opposite side of the pushing one always being the first one."
+            "text": "$(item)漏斗型提取器$()和$(item)線性提取器$()相似，但是從除了輸出方向以外的五個方向抽取。$(br2)物品會以特定順序抽取，用於輸出物品的那個面的相對的麵為最先抽取的。"
         },
         {
             "type": "crafting",

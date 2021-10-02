@@ -1,12 +1,12 @@
 {
-    "name": "Solid Fuel Aeroheater",
+    "name": "固體燃料氣熱爐",
     "icon": "prodigytech:solid_fuel_aeroheater",
     "category": "hot_air",
     "advancement": "prodigytech:recipes/ferramic_ingot",
     "pages": [
         {
             "type": "text",
-            "text": "The $(item)Solid Fuel Aeroheater$() burns Furnace fuels to produce its $(thing)Hot Air$(). This one can reach much higher temperatures than the $(item)Magmatic Aeroheater$(), but will require a constant source of fuel to work.$(br2)Fuels can be inserted from any side except the top."
+            "text": "$(item)固體燃料氣熱爐$()能把熔爐能燃燒的燃料燒成$(thing)熱空氣$()。這氣熱爐能生成比$(item)熔岩氣熱爐$()高得多的溫度，但他需要持續的燃料供應來維持工作。$(br2)燃料能從機器除了頂部以外的各個面輸入。"
         },
         {
             "type": "crafting",

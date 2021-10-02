@@ -5,31 +5,31 @@
     "pages": [
         {
             "type": "text",
-            "text": "Various materials used throughout the mod. More pages will unlock as you progress."
+            "text": "各種各樣會在Mod進程中用到的原料，會在你遊玩的過程中解鎖更多部分。"
         },
         {
             "type": "crafting",
             "recipe": "prodigytech:materials/ferramic_gear",
             "advancement": "prodigytech:recipes/ferramic_ingot",
-            "text": "$(item)Ferramic Gears$() are simply gears made of $(item)Ferramic$(), used in various recipes for machines or tools that grind things in some way."
+            "text": "$(item)瓷鐵齒輪$()是一個由$(item)瓷鐵$()簡單製作的，用在各種機器的合成中或者是其他需要以某種方式磨其他物品的工具。"
         },
         {
             "type": "crafting",
             "recipe": "prodigytech:materials/carbon_plate",
             "advancement": "prodigytech:main/rotary_grinder",
-            "text": "$(item)Carbon Plates$() are plates made of carbon, as their name implies. More advanced machines and contraptions may require a few of those."
+            "text": "$(item)碳板$()是由碳做成的板，正如其名。較多的高級機器和裝置需要用上少許的碳板。"
         },
         {
             "type": "crafting",
             "recipe": "prodigytech:materials/enriched_fuel",
             "advancement": "prodigytech:main/rotary_grinder",
-            "text": "$(item)Enriched Fuel$() is a way to get more efficiency out of Coal, as the result burns more than the sum of its parts."
+            "text": "$(item)富集燃料$()是一個讓煤炭變得更高效的方法，所以結果就是能夠燒的物品比他之前還多。"
         },
         {
             "type": "crafting",
             "recipe": "prodigytech:materials/inferno_fuel",
             "advancement": "prodigytech:main/rotary_grinder",
-            "text": "$(item)Inferno Fuel$() is an even more efficient Furnace fuel, which can be further refined by more advanced machines into $(item)Inferno Crystals$() then $(item)Aeternus Crystals$()."
+            "text": "$(item)低於燃料$()是一個在富集燃料之上更加高效的熔爐燃料，然後還能被更多的高級機器加工成$(item)地獄晶體$()然後再加工成$(item)永恆晶體$()。"
         }
     ]
 }

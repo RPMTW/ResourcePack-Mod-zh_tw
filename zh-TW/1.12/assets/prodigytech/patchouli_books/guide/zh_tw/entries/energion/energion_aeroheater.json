@@ -1,5 +1,5 @@
 {
-    "name": "Energion Aeroheater",
+    "name": "能源氣熱爐",
     "icon": "prodigytech:energion_aeroheater",
     "category": "energion",
     "advancement": "prodigytech:main/solderer",
@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "text",
-            "text": "The $(item)Energion Aeroheater$() will be your main use of $(item)Energion Dust$(). Simply insert the dust and it will slowly heat up until it reaches its target temperature of 250°C, allowing it to power the most advanced machines.$(br2)$(item)Energion Dust$() can be automatically inserted from any side but the top."
+            "text": "$(item)能源氣熱爐$()是你主要使用$(item)能量粉$()的地方。以常規方式給機器輸入能量粉，他就會緩緩地開始加熱，直到達到目標溫度250°C，這溫度足以驅動大多數的高級機器。$(br2)$(item)能量粉$()能從除了頂部的位置自動輸入。"
         },
         {
             "type": "crafting",
