@@ -1,0 +1,17 @@
+{
+  "name": "Leather Strap",
+  "icon": "simplyjetpacks:leather_strap",
+  "category": "simplyjetpacks:simplyjetpacks",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "This is the Leather Strap"
+    },
+    {
+      "type": "crafting",
+      "recipe": "simplyjetpacks:sj/leather_strap",
+      "text": "This is a test entry, but it should show up!"
+    }
+  ]
+}

@@ -10,7 +10,7 @@ const modCount = config.modCount;
 const ModIndex = config.Index;
 const CurseForge = require("mc-curseforge-api");
 const urllib = require('urllib');
-
+ 
 let ModDirPath = path.join(__dirname, "mod");
 if (!fs.existsSync(ModDirPath)) {
     fs.mkdirSync(ModDirPath);

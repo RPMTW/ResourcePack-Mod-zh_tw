@@ -1,0 +1,18 @@
+{
+  "name": "Ultimate Thruster",
+  "icon": "simplyjetpacks:thruster_mek4",
+  "category": "simplyjetpacks:mekanism",
+  "flag": "mod:mekanism",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "This is the Ultimate Thruster"
+    },
+    {
+      "type": "crafting",
+      "recipe": "simplyjetpacks:mek/thruster_mek4",
+      "text": "This is a test entry, but it should show up!"
+    }
+  ]
+}

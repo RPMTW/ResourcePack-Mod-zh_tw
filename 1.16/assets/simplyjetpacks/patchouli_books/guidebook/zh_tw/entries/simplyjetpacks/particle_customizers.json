@@ -1,0 +1,32 @@
+{
+  "name": "Particle Customizers",
+  "icon": "simplyjetpacks:particle_default",
+  "category": "simplyjetpacks:simplyjetpacks",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "These are the Particle Customizers"
+    },
+    {
+      "type": "crafting",
+      "recipe": "simplyjetpacks:sj/particle_default",
+      "text": "This is a test entry, but it should show up!"
+    },
+    {
+      "type": "crafting",
+      "recipe": "simplyjetpacks:sj/particle_none",
+      "text": "This is a test entry, but it should show up!"
+    },
+    {
+      "type": "crafting",
+      "recipe": "simplyjetpacks:sj/particle_rainbow",
+      "text": "This is a test entry, but it should show up!"
+    },
+    {
+      "type": "crafting",
+      "recipe": "simplyjetpacks:sj/particle_smoke",
+      "text": "This is a test entry, but it should show up!"
+    }
+  ]
+}

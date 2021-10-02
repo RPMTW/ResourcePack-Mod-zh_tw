@@ -2177,5 +2177,11 @@
     "com.minecolonies.research.technology.buildermodes.name": "Builder Modes",
     "com.minecolonies.research.technology.buildermodes.subtitle": "Possibility Overload!",
     "minecolonies.config.maxkeptbackups": "Backup Count",
-    "minecolonies.config.maxkeptbackups.comment": "Set the max amount of backups kept"
+    "minecolonies.config.maxkeptbackups.comment": "Set the max amount of backups kept",
+    "item.supply.error.not_solid": "Not a solid",
+    "item.supply.error.inside_colony": "Inside colony",
+    "item.supply.error.needs_air_above": "Need air above",
+    "item.supply.error.not_water": "Not a Fluid",
+    "item.supply.badblocks": "Not all blocks in the area do meet the requirements! Recheck the highlighted blocks",
+    "com.minecolonies.coremod.setting.minecolonies:dynamictreeharvestsize": "Dynamic trees radius:"
 }

@@ -1,6 +1,6 @@
 {
     "itemGroup.immersivepetroleum": "Immersive Petroleum",
-    "_comment": "################## Chat ##################",
+    "_comment": "################## Subtitles ##################",
     "block.immersivepetroleum.fluid_diesel": "Diesel",
     "block.immersivepetroleum.fluid_crude_oil": "Crude Oil",
     "block.immersivepetroleum.fluid_lubricant": "Lubricant",
@@ -68,10 +68,10 @@
     "desc.immersivepetroleum.info.projector.rotated.west": "Rotated West",
     "desc.immersivepetroleum.info.projector.mode_0": "Selection Mode",
     "desc.immersivepetroleum.info.projector.mode_1": "Projection Mode",
-    "desc.immersivepetroleum.info.projector.holdshift": "Hold Shift",
-    "desc.immersivepetroleum.info.projector.holdshift.text": "For stats",
-    "desc.immersivepetroleum.info.projector.holdctrl": "Hold Ctrl",
-    "desc.immersivepetroleum.info.projector.holdctrl.text": "For control scheme",
+    "desc.immersivepetroleum.info.projector.holdshift": "Shift",
+    "desc.immersivepetroleum.info.projector.holdshift.text": "Stats",
+    "desc.immersivepetroleum.info.projector.holdctrl": "Ctrl",
+    "desc.immersivepetroleum.info.projector.holdctrl.text": "Keybinds",
     "desc.immersivepetroleum.info.projector.control1": "Shift + Scroll-UP/DOWN to Rotate",
     "desc.immersivepetroleum.info.projector.control2": "%s to Mirror",
     "desc.immersivepetroleum.info.projector.control3": "Sneak + Rightclick in air to Change Mode",
@@ -117,5 +117,9 @@
     "chat.immersivepetroleum.info.coresample.oilRep": "Up to %d mB/tick of trace %s",
     "chat.immersivepetroleum.info.coresample.noOil": "No Fluid Reservoir",
     "key.categories.immersivepetroleum": "Immersive Petroleum",
-    "key.immersivepetroleum.projector.flip": "Mirror Projection"
+    "key.immersivepetroleum.projector.flip": "Mirror Projection",
+    "death.attack.ipFlarestack": "%1$s was flared out of existence",
+    "death.attack.ipFlarestack.player": "%1$s was flared out of existence by %2$s",
+    "subtitle.immersivepetroleum.projector": "Projector whirring",
+    "subtitle.immersivepetroleum.flarestack_fire": "Flarestack fire wooshing"
 }

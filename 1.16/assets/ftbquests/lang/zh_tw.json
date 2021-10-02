@@ -379,5 +379,13 @@
     "commands.ftbquests.weigh_from_emc.text": "Changed item reward weight based on EMC in %s",
     "commands.ftbquests.export_rewards_to_chest.usage": "/ftbquests export_rewards_to_chest <reward_table>",
     "commands.ftbquests.export_rewards_to_chest.text": "Exported %s / %s items from '%s'",
-    "ftbquests.chapter.default_hide_dependency_lines": "Default 'Hide Dependency Lines'"
+    "ftbquests.chapter.default_hide_dependency_lines": "Default 'Hide Dependency Lines'",
+    "commands.ftbquests.command.error.no_object": "No quest object found for ID %s!",
+    "commands.ftbquests.command.error.no_file": "No quest file was found, what's going on?!",
+    "commands.ftbquests.command.error.invalid_id": "Invalid Object ID: %s!",
+    "commands.ftbquests.command.error.invalid_type": "Invalid changeProgress type: %s!",
+    "commands.ftbquests.command.error.no_inventory": "Target block does not contain an inventory!",
+    "commands.ftbquests.command.feedback.table_exported": "Successfully exported Reward Table '%s' with %s items to the target block!",
+    "commands.ftbquests.command.feedback.table_imported": "Successfully imported Reward Table '%s' with %s items!",
+    "commands.ftbquests.command.feedback.table_too_many_items": "WARNING: Table %s contains more items than the target block could handle, stopping here!"
 }

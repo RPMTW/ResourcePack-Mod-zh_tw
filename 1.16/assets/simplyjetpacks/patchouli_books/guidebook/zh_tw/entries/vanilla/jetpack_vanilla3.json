@@ -1,0 +1,17 @@
+{
+  "name": "Diamond Jetpack",
+  "icon": "simplyjetpacks:jetpack_vanilla3",
+  "category": "simplyjetpacks:vanilla",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "This is the DiamondJetpack. The jetpack can become armored by applying the plating."
+    },
+    {
+      "type": "crafting",
+      "recipe": "simplyjetpacks:vanilla/jetpack_vanilla3",
+      "recipe2": "simplyjetpacks:vanilla/jetpack_vanilla3_armored"
+    }
+  ]
+}

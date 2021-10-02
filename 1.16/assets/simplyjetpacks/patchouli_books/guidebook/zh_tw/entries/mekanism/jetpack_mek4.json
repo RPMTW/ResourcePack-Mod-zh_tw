@@ -1,0 +1,18 @@
+{
+  "name": "Ultimate Jetpack",
+  "icon": "simplyjetpacks:jetpack_mek4",
+  "category": "simplyjetpacks:mekanism",
+  "flag": "mod:mekanism",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "This is the UltimateJetpack. The jetpack can become armored by applying the plating."
+    },
+    {
+      "type": "crafting",
+      "recipe": "simplyjetpacks:mek/jetpack_mek4",
+      "recipe2": "simplyjetpacks:mek/jetpack_mek4_armored"
+    }
+  ]
+}
