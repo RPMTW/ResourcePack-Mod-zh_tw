@@ -367,7 +367,7 @@ replaymod.gui.renderqueue.title=渲染隊列
 replaymod.gui.editkeyframe.interpolator.linear.name=線性插值器
 replaymod.gui.editkeyframe.interpolator.cubic.desc=利用三次方程矩陣計算所有路徑點來平滑鏡頭路徑。
 replaymod.gui.editkeyframe.interpolator.linear.desc=在關鍵幀直接構建直線。
-replaymod.gui.editkeyframe.interpolator.linear.desc=Draws straight lines between the keyframes.
+replaymod.gui.editkeyframe.interpolator.linear.desc=在關鍵幀之間繪製直線。
 
 #Render Settings GUI
 replaymod.gui.renderqueue.add=增加目前設定
@@ -382,12 +382,12 @@ replaymod.gui.rendersettings.renderer.equirectangular=圓柱式渲染
 replaymod.gui.rendersettings.presets=編碼預設
 replaymod.gui.rendersettings.renderer.blend=建模輸出[實驗]
 
-replaymod.gui.rendersettings.customresolution=錄像分辨率 Fastest Rendering Option. Fastest Rendering Option.
-replaymod.gui.rendersettings.renderer.stereoscopic.description=使用不同的3D技術，將影片渲染成一個立體的（並排）3D電影。每隻眼睛能看到的圖像是影片寬度的一半 The image for one eye is half the width of the video The image for one eye is half the width of the video
+replaymod.gui.rendersettings.customresolution=錄像分辨率 Fastest Rendering Option. 最快的渲染選項
+replaymod.gui.rendersettings.renderer.stereoscopic.description=使用不同的3D技術，將影片渲染成一個立體的（並排）3D電影。每隻眼睛能看到的圖像是影片寬度的一半 The image for one eye is half the width of the video 一隻眼睛的圖像是影片寬度的一半
 replaymod.gui.rendersettings.renderer.equirectangular.description=用 360 度全景圖渲染影片，採用圓柱式投影，這是 YouTube 新的 360 度影片功能，由 360 度影片播放器（Oculus Rift）所播放，例如 VR Player。 replaymod.gui.rendersettings.renderer.cubic.description=用 360 度全景圖渲染影片，這是由 360 度影片播放器（Oculus Rift）所播放，例如 VR Player。 replaymod.gui.rendersettings.renderer.ods.description=用 3D 360 度全景圖渲染影片，俗稱 VR 影片。採用圓柱式投影，這是 YouTube 新的 VR 影片功能。 This is usable by YouTube's new 360 degree video function, and several video players (and the Oculus Rift), for example VR Player.
-replaymod.gui.advancedscreenshots.finished.description.360=你成功建立了一張 360度 截圖！ This is usable by YouTube's new 360 degree video function, and several video players (and the Oculus Rift), for example VR Player.
-replaymod.gui.rendersettings.renderer.ods.description=Renders the video with a stereoscopic 3D 360 degree panoramic view, also called VR Video. This is usable by YouTube's new VR video function.
-replaymod.gui.rendersettings.renderer.blend.description=將模型導出為 .blend 檔案，可以使用 Blender 軟件打開該檔案。高度實驗性：需要大量記憶體，有相當多的已知問題，有時會產生損壞的 Blender 檔案。 Highly experimental: Requires lots of RAM, has quite a few known issues and sometimes produces broken Blender files. Highly experimental: Requires lots of RAM, has quite a few known issues and sometimes produces broken Blender files.
+replaymod.gui.advancedscreenshots.finished.description.360=你成功建立了一張 360度 截圖！ 這可用於 YouTube 的新 360 度視頻功能和多個影片播放器（和 Oculus Rift），例如 VR 播放器。
+使用立體 3D 360 度全景視圖渲染影片，也稱為 VR 影片。 這可用於 YouTube 的新 VR 影片功能。
+replaymod.gui.rendersettings.renderer.blend.description=將模型導出為 .blend 檔案，可以使用 Blender 軟件打開該檔案。高度實驗性：需要大量記憶體，有相當多的已知問題，有時會產生損壞的 Blender 檔案。 Highly experimental: Requires lots of RAM, has quite a few known issues and sometimes produces broken Blender files. 高度實驗性：需要大量 RAM ，有很多已知問題，有時會產生損壞的 Blender 文件。
 
 replaymod.gui.advancedscreenshots.resolution=分辨率
 replaymod.gui.rendersettings.customresolution.warning.yuv420=寬度和高度值需要偶數
@@ -477,7 +477,7 @@ replaymod.gui.ingame.unnamedmarker=未命名的標記事件
 replaymod.gui.ingame.autoactivating=這個密鑰綁定可以在適當的時候自動啟動。
 replaymod.gui.ingame.autoactivating.disable=按住 Ctrl 鍵點按以停用自動啟動。
 replaymod.gui.ingame.autoactivating.enable=按住 Ctrl 鍵點按以啟用自動啟動。
-replaymod.gui.ingame.first_keyframe_not_at_start_warning=您剛剛放置了第一個關鍵幀，它不在00:00。\n\n這通常表明您誤解了影片時間線（底部的時間線）的工作方式：\n\n頂部的時間線顯示您在重播中的目前時間，\n底部的時間線顯示您正在創建的影片中的時間。\n影片將始終在00:00開始！如果您的第一個關鍵幀不在00:00，\n影片將顯示為凍結狀態，直到第一個關鍵幀出現！ If your first keyframe is not at 00:00,\nthen the video will appear frozen until the time of the first keyframe! If your first keyframe is not at 00:00,\nthen the video will appear frozen until the time of the first keyframe!
+replaymod.gui.ingame.first_keyframe_not_at_start_warning=您剛剛放置了第一個關鍵幀，它不在00:00。\n\n這通常表明您誤解了影片時間線（底部的時間線）的工作方式：\n\n頂部的時間線顯示您在重播中的目前時間，\n底部的時間線顯示您正在創建的影片中的時間。\n影片將始終在00:00開始！如果您的第一個關鍵幀不在00:00，\n影片將顯示為凍結狀態，直到第一個關鍵幀出現！ If your first keyframe is not at 00:00,\nthen the video will appear frozen until the time of the first keyframe! 如果您的第一個關鍵幀不在 00:00，\n那麼影片將顯示凍結，直到第一個關鍵幀的時間！
 
 #Clear Keyframe Callback
 replaymod.gui.clearcallback.title=清除所有的關鍵幀？
@@ -526,10 +526,10 @@ replaymod.gui.offeropeneye1=你想安裝 OpenEye 麼？
 replaymod.gui.offeropeneye5=OpenEye 可以隨時停用，並且是完全可選的。
 replaymod.gui.offeropeneye8=下次你啟動 Minecraft 的時候能夠啟動它。
 replaymod.gui.offeropeneye4=
-replaymod.gui.offeropeneye5=OpenEye can be disabled at any time and is completely optional.
-replaymod.gui.offeropeneye6=More information is available at https://openeye.openmods.info/faq
-replaymod.gui.offeropeneye7=Clicking Yes will download OpenEye and place it in your mods folder.
-replaymod.gui.offeropeneye8=It will then be active the next time you start Minecraft.
+replaymod.gui.offeropeneye5=OpenEye可以在任何時候被停用，並且是完全可選的。
+更多訊息請到 https://openeye.openmods.info/faq
+點擊"是"將會下載 OpenEye 並將其放置在你的 mods 資料夾中。
+replaymod.gui.offeropeneye8=它將會在你下次啟動 Minecraft 時激活。
 
 #Advanced Screenshots Gui
 replaymod.gui.center.downloadrequired=下載並收藏這個錄像

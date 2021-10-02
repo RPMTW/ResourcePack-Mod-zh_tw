@@ -1,16 +1,16 @@
 {
-    "name": "This Book",
+    "name": "關於這本書",
     "icon": "patchouli:guide_book{'patchouli:book':'naturesaura:book'}",
     "category": "intro",
     "priority": true,
     "pages": [
         {
             "type": "text",
-            "text": "The $(item)Book of Natural Aura$() is the guide to all information related to $(aura), but it can do a lot more than just show informational texts: In it, one can find descriptions of how to $(thing)craft things$(), $(thing)build things$() and a lot more than that.$(br)Additionally, by completing $(item)Advancements$(), more chapters will unlock over time - each new chapter greeting the reader with a $(thing)red icon$()."
+            "text": "$(item)自然靈氣之書$()是關於$(#419600)靈氣$()的所有知識的指南，但它能做的比展示含有訊息的文字更多：讀者可以發現關於如何$(thing)合成物品$()，$(thing)建造結構$()的描述和更多的東西。$(br)除此之外，通過完成$(item)進度$()，更多章節會隨時間解鎖——新章節會用$(thing)紅色圖示$()歡迎讀者。"
         },
         {
             "type": "text",
-            "text": "Additionally, to guide the user through the development of their research, some chapters will display $(thing)orange icons$(). These notify the reader of the next step they will have to take to advance their research further. Additionally, there is a direct link to the $(item)Advancement menu$() on the front page, which allows a greater overview of the overall progress."
+            "text": "更進一步，為了在研究過程中引導讀者，一些章節還會顯示$(thing)橙色圖示$()。這些通知指示了讀者進一步推進研究必須進行的下一步。最後，首頁有通向$(item)進度選單$()的直接連結，允許讀者更好地掌握全局進度。"
         }
     ]
 }

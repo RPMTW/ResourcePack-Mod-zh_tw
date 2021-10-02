@@ -1,16 +1,16 @@
 {
-    "name": "Amulet of Wrath",
+    "name": "憤怒護身符",
     "icon": "naturesaura:shockwave_creator",
     "category": "items",
     "advancement": "naturesaura:tainted_gold",
     "pages": [
         {
             "type": "text",
-            "text": "The $(item)Amulet of Wrath$(), when held anywhere in the inventory, allows its wearer to focus their power, giving them the ability to, when $(thing)sneaking$() and $(thing)jumping$() in place, stomp down on the ground hard enough to create a $(item)shockwave$() that hurts any other living creatures close by.$(br)This, of course, comes at the cost of some $(aura), stored in the form of, say, an $(l:items/aura_cache)Aura Cache$()."
+            "text": "當$(item)憤怒護身符$()被放置在背包的任何位置，穿戴者可以集中自身能量，在$(thing)跳躍$()中按下$(thing)潛行$()鍵，砸在地上並產生$(item)衝擊波$()，衝擊波可以傷害附近的所有生物。$(br)這當然會消耗一些儲存在$(l:items/aura_cache)靈氣快取$()中的$(#419600)靈氣$()。"
         },
         {
             "type": "crafting",
-            "text": "Creating the $(item)Amulet of Wrath$()",
+            "text": "合成$(item)憤怒護身符$()",
             "recipe": "naturesaura:shockwave_creator"
         }
     ]

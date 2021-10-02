@@ -1,16 +1,16 @@
 {
-    "name": "Aura Trove",
+    "name": "靈氣寶藏",
     "icon": "naturesaura:aura_trove",
     "category": "items",
     "advancement": "naturesaura:sky_ingot",
     "pages": [
         {
             "type": "text",
-            "text": "Once the amount of $(aura) required becomes too much for the $(l:items/aura_cache)Aura Cache$() to store without having to refill it on too regular of a basis, one can employ the help of an $(item)Aura Trove$() - a higher tier version of the $(item)Aura Cache$() that has three times its storage capacity."
+            "text": "一旦$(#419600)靈氣$()的需求超過了$(l:items/aura_cache)靈氣快取$()的上限以至於要經常補充靈氣，可以尋求$(item)靈氣寶藏$()的幫助——更高級版本的$(item)靈氣快取$()，有著三倍儲存容量。"
         },
         {
             "type": "crafting",
-            "text": "Creating the $(item)Aura Trove$()",
+            "text": "合成$(item)靈氣寶藏$()",
             "recipe": "naturesaura:aura_trove"
         }
     ]

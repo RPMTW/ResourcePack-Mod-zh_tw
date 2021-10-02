@@ -11,7 +11,7 @@
     "environs.cfg.biomes.tooltip": "Options for controlling biome sound/effects",
     "environs.cfg.biomes.Sealevel": "Overworld Sealevel Override",
     "environs.cfg.biomes.Sealevel.tooltip": "Sealevel to set for Overworld (0 use default for World)",
-    "environs.cfg.biomes.DimBlacklist": "Dimension Blacklist",
+    "environs.cfg.biomes.DimBlacklist": "維度黑名單",
     "environs.cfg.biomes.DimBlacklist.tooltip": "Dimension IDs where biome sounds will not be played",
     "environs.cfg.effects": "Effect Options",
     "environs.cfg.effects.tooltip": "Options for controlling various effects",

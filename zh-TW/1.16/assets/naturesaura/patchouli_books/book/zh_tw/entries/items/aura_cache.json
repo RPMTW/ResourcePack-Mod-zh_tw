@@ -1,5 +1,5 @@
 {
-    "name": "Aura Cache",
+    "name": "靈氣快取",
     "icon": "naturesaura:aura_cache",
     "category": "items",
     "advancement": "naturesaura:infused_materials",
@@ -7,11 +7,11 @@
     "pages": [
         {
             "type": "text",
-            "text": "Having a $(l:collecting/altar)Natural Altar$() around that stores $(aura) is all well and good, but it would be more convenient to be able to carry it around. In that case, the $(item)Aura Cache$() will prove useful: It stores a substantial amount of $(aura) in it so one can use it on the go. $(br)To fill the cache up, simply place it on a $(item)Natural Altar$() and wait for the $(aura) to drain into it."
+            "text": "使用$(l:collecting/altar)自然祭壇$()儲存周圍的$(#419600)靈氣$()固然不錯，但如果能將靈氣帶走會更加方便。在這種情況下，$(item)靈氣快取$()顯得十分有用：它可以儲存$(#419600)靈氣$()以便隨時使用。$(br)若要填滿快取，只需將其放置在$(item)自然祭壇$()上並等待$(#419600)靈氣$()被吸取進去。"
         },
         {
             "type": "crafting",
-            "text": "Creating the $(item)Aura Cache$()",
+            "text": "合成$(item)靈氣快取$()",
             "recipe": "naturesaura:aura_cache"
         }
     ]

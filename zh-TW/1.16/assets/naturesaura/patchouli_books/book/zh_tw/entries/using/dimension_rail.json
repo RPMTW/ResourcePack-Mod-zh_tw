@@ -1,34 +1,34 @@
 {
-    "name": "Rails of the Worlds",
+    "name": "世界軌道",
     "icon": "naturesaura:dimension_rail_nether",
     "category": "using",
     "advancement": "naturesaura:sky_ingot",
     "pages": [
         {
             "type": "text",
-            "text": "While $(item)Minecarts$() have a limited ability to travel through any kind of $(thing)portals$(), it is definitely a complicated setup to create. The $(item)Rails of the Worlds$() solve that problem easily: There are three kinds, one for each of the known dimensions. When a minecart travels over one of them, it is transported to the rail's assigned dimension directly, while using some $(aura) in the process."
+            "text": "雖然$(item)礦車$()能有限地通過任意類型的$(thing)傳送門$()跨維度旅行，但是創建這一結構的步驟絕對算得上複雜。$(item)世界軌道$()很容易地解決了這個問題：有三種軌道，每種方法對應一個已知的維度。當一輛礦車經過其中一輛時，它將直接被傳輸到指定的世界，同時在這個過程中使用一些$(#419600)靈氣$()。"
         },
         {
             "type": "text",
-            "text": "The selection of the $(thing)position$() to which the minecarts are sent is based on the dimensions involved in the travel:$(br)Traveling between the overworld and the nether will cause the minecart to be sent to an eighth of its position and back, similary to how normal portals work.$(br)Traveling between the overworld and the end will cause the minecart to be sent to the $(thing)obsidian platform$(), and to the overworld's spawn point when traveling the other way."
+            "text": "礦車會穿送到目標維度的哪個$(thing)位置$()取決於涉及的維度：$(br)在主世界和地獄間傳送會將座標乘除八倍，類似於常規傳送門。$(br)在主世界和終界之間傳送會使礦車到達$(thing)黑曜石平台$()，回主世界則會回到重生點。"
         },
         {
             "type": "text",
-            "text": "Using a $(l:items/range_visualizer)Mystical Magnifier$() on any of the rails will cause the destination position to be highlighted in the destination dimension, with the highlight being visible $(thing)through walls$(), making it easy to find without much hassle.$(p)The only known caveat to these rails is that it seems that they do not have enough power to transport carts containing $(thing)living beings$()."
+            "text": "對鐵軌使用$(l:items/range_visualizer)神秘放大鏡$()會使目標地點在其維度高亮顯示，而且該效果會$(thing)穿牆$()，使得更容易找到目標。$(p)對於軌道使用的唯一警告是這些軌道似乎不足以傳輸載有$(thing)生物$()的礦車。"
         },
         {
             "type": "crafting",
-            "text": "Creating the $(item)Rail of the Overworld$()",
+            "text": "合成$(item)主世界鐵軌$()",
             "recipe": "naturesaura:dimension_rail_overworld"
         },
         {
             "type": "crafting",
-            "text": "Creating the $(item)Rail of the Nether$()",
+            "text": "合成$(item)地獄鐵軌$()",
             "recipe": "naturesaura:dimension_rail_nether"
         },
         {
             "type": "crafting",
-            "text": "Creating the $(item)Rail of the End$()",
+            "text": "合成$(item)終界鐵軌$()",
             "recipe": "naturesaura:dimension_rail_end"
         }
     ]

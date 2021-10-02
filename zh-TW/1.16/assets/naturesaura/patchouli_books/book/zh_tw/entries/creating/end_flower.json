@@ -1,12 +1,12 @@
 {
-    "name": "Rose of Oblivion",
+    "name": "遺忘玫瑰",
     "icon": "naturesaura:end_flower",
     "category": "creating",
     "advancement": "naturesaura:end_flower",
     "pages": [
         {
             "type": "text",
-            "text": "The $(thing)Ender Dragon$() is known to be quite a beast to behold. It guards $(thing)The End$() better than anybody else, but it can be defeated. This not only bears a token of its offspring and a lot of pride, it also bears the $(item)Rose of Oblivion$(). Upon the dragon's death, they will start sprouting out of the ground on the end island, ready to be collected by any botanist and placed in any dimension."
+            "text": "$(thing)終界龍$()被認為是相當兇暴的怪物。它在守衛$(thing)終末之界$()這點上比其他任何生物都做得好，但它是可以被打敗的。打敗終界龍不僅代表著龍的後代和屠龍者的榮譽，更代表著$(item)遺忘玫瑰$()。龍死後，玫瑰將開始在終界島的地面上發芽，準備好被任何植物學家收集並放置在任何維度。"
         },
         {
             "type": "spotlight",

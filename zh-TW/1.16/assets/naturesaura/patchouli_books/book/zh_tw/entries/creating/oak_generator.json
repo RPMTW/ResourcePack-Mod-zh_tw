@@ -1,12 +1,12 @@
 {
-    "name": "Canopy Diminisher",
+    "name": "樹冠減光器",
     "icon": "naturesaura:oak_generator",
     "category": "creating",
     "advancement": "naturesaura:infused_materials",
     "pages": [
         {
             "type": "text",
-            "text": "Surely, at one point in their lives, any person dealing with trees was faced with this well-known issue: An $(item)Oak Sapling$() grows into a $(thing)big tree$() which is hard to look at, to manage and to chop down.$(br)The $(item)Canopy Diminisher$() is a block that serves two purposes in and of itself:$(br)Placing it close to an area that oak trees are growing in, at most about 10 blocks away from them, will cause only"
+            "text": "當然，在生活中，任何人處理樹木時都會面臨著這著名的問題: 一顆$(item)橡木樹苗$()長成了一株看不到頭的$(thing)參天大樹$()，而你要去砍伐它。$(br)$(item)樹冠減光器$()是一個有著雙重用途的方塊：$(br)將它放置在樹苗附近大約10方塊遠，"
         },
         {
             "type": "text",
@@ -15,7 +15,7 @@
         {
             "type": "crafting",
             "recipe": "naturesaura:oak_generator",
-            "text": "Creating the $(item)Canopy Diminisher$()"
+            "text": "合成$(item)樹冠減光器$()"
         }
     ]
 }

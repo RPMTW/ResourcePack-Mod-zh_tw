@@ -1,25 +1,25 @@
 {
-    "name": "Firecracker Gaze",
+    "name": "煙花凝視者",
     "icon": "naturesaura:firework_generator",
     "category": "creating",
     "advancement": "naturesaura:offering",
     "pages": [
         {
             "type": "text",
-            "text": "$(item)Fireworks$() are beautiful to look at, while it is a bit pricy to create ones that look really good. The $(item)Firecracker Gaze$() seemingly shares this opinion especially: Consuming any fireworks that are $(thing)dropped$() on the ground around it, it will shoot them up into the air. Once they explode, their explosive and colorful energy is absorbed, and, based on the complexity of the firework,"
+            "text": "$(item)煙花$()看起來很漂亮，但是製作一個看起來非常漂亮的煙花就有點貴了。$(item)煙花凝視者$()似乎特別讚同這一觀點：它消耗掉掉在它周圍地上的任何$(thing)掉落的$()煙花，並將這些煙花射向天空。當煙花爆炸時，煙花的爆炸和顏色中的能量會被吸收，然後根據煙花的複雜性大小，"
         },
         {
             "type": "text",
-            "text": "more or less $(aura) is created and spread into the environment as a result. For the complexity, especially the $(thing)value$() of the items used in the firework's creation is of importance, but also, the amount of $(thing)firework stars$(), the amount of $(thing)colors$() and some other variables factor into the amount of $(aura) created from each shot."
+            "text": "不同量的$(#419600)靈氣$()會被創造並散發到環境中。想提高複雜性，合成煙花時使用的物品$(thing)數量$()是非常重要的，但$(thing)火藥球$()的數量，$(thing)顏色$()的數量和其他一些變數都影響每次煙花發射創造$(#419600)靈氣$()的數量。"
         },
         {
             "type": "text",
-            "text": "Additionally, it should be noted that, while a firework is already being shot into the air by the $(item)Firecracker Gaze$(), or while it is consuming an explosion's energy, dropping any more fireworks into its collection area will cause the fireworks to be consumed, but no $(aura) to be created from them. This implies that it would be wise to set up some sort of $(thing)timer$() for its automation."
+            "text": "除此之外還有一點值得注意，當煙花正在被$(item)煙花凝視者$()發射或者凝視者正在消耗爆炸能量，在旁邊掉落更多煙火會導致煙花被消耗但沒有$(#419600)靈氣$()產生。這意味著設定某種$(thing)定時器$()來進行自動化更為明智。"
         },
         {
             "type": "crafting",
             "recipe": "naturesaura:firework_generator",
-            "text": "Creating the $(item)Firecracker Gaze$()"
+            "text": "合成$(item)煙花凝視者$()"
         }
     ]
 }
