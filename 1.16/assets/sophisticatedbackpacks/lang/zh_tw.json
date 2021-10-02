@@ -72,9 +72,9 @@
     "item.sophisticatedbackpacks.stack_upgrade_tier_4": "Stack Upgrade Tier 4",
     "item.sophisticatedbackpacks.stack_upgrade_tier_4.tooltip": "Multiplies the number of stacks that can fit in a slot by 16",
     "item.sophisticatedbackpacks.tool_swapper_upgrade": "Tool Swapper Upgrade",
-    "item.sophisticatedbackpacks.tool_swapper_upgrade.tooltip": "Automatically swaps item in player's hand for the one effective on the block/entity when these are left clicked.",
+    "item.sophisticatedbackpacks.tool_swapper_upgrade.tooltip": "Automatically swaps item in player's hand for the one effective on the block/entity.",
     "item.sophisticatedbackpacks.advanced_tool_swapper_upgrade": "Advanced Tool Swapper Upgrade",
-    "item.sophisticatedbackpacks.advanced_tool_swapper_upgrade.tooltip": "Automatically swaps item in player's hand for the one effective on the block/entity when these are left clicked.\nHas filter options and enables swapping wrench like tools for block/entity player is looking at with %s",
+    "item.sophisticatedbackpacks.advanced_tool_swapper_upgrade.tooltip": "Automatically swaps item in player's hand for the one effective on the block/entity.\nHas filter options and enables swapping tools with %s",
     "keybind.sophisticatedbackpacks.category": "Sophisticated Backpacks",
     "keybind.sophisticatedbackpacks.open_backpack": "Open Backpack",
     "keybind.sophisticatedbackpacks.inventory_interaction": "Run Inventory Interaction Upgrades",
@@ -244,11 +244,5 @@
     "gui.sophisticatedbackpacks.upgrades.slots.battery_output.tooltip": "Output",
     "gui.sophisticatedbackpacks.upgrades.slots.battery_input.tooltip": "Input",
     "gui.sophisticatedbackpacks.error.add.battery_energy_high": "Backpack can't support this battery upgrade. Upgrade backpack or add stack multiplier to get at least %sx higher max energy",
-    "gui.sophisticatedbackpacks.error.add.battery_exists": "There's already Battery Upgrade in another upgrade slot",
-    "gui.sophisticatedbackpacks.upgrades.buttons.swap_weapon.detail": "Swaps weapon into hand when a tool is clicked on entity",
-    "gui.sophisticatedbackpacks.upgrades.buttons.do_not_swap_weapon.detail": "Weapon is never swapped into hand",
-    "gui.sophisticatedbackpacks.upgrades.buttons.swap_tools.detail": "Swaps appropriate tool into hand when it holds weapon or another tool",
-    "gui.sophisticatedbackpacks.upgrades.buttons.only_swap_for_tools": "Only Swap For Other Tools",
-    "gui.sophisticatedbackpacks.upgrades.buttons.only_swap_for_tools.detail": "Swaps tool into hand only if it holds another tool, does not swap for weapon",
-    "gui.sophisticatedbackpacks.upgrades.buttons.do_not_swap_tools.detail": "Tools are never swapped into hand"
+    "gui.sophisticatedbackpacks.error.add.battery_exists": "There's already Battery Upgrade in another upgrade slot"
 }
