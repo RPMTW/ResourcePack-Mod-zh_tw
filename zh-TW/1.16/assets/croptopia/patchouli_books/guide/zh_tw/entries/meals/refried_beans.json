@@ -1,0 +1,12 @@
+{
+  "name": "炒豆",
+  "icon": "croptopia:refried_beans",
+  "category": "croptopia:meals",
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "croptopia:refried_beans",
+      "text": "特蕾斯蛋糕的食譜"
+    }
+  ]
+}
