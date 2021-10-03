@@ -1,6 +1,6 @@
 {
-    "gui.clickmachine.autoclick": "Auto Clicker",
-    "block.clickmachine.auto_clicker": "Auto Clicker",
+    "gui.clickmachine.autoclick": "Click Machine",
+    "block.clickmachine.auto_clicker": "Click Machine",
     "gui.clickmachine.speed_0.rf.tooltip": "Speed 0: One click every %s ticks, %s rf/t",
     "gui.clickmachine.speed_1.rf.tooltip": "Speed 1: One click every %s ticks, %s rf/t",
     "gui.clickmachine.speed_2.rf.tooltip": "Speed 2: One click every %s ticks, %s rf/t",
@@ -22,5 +22,10 @@
     "gui.clickmachine.sneak.tooltip": "Toggle Sneaking",
     "gui.clickmachine.left_click.tooltip": "Left Click",
     "gui.clickmachine.right_click.tooltip": "Right Click",
-    "gui.clickmachine.power.tooltip": "Power: %s/%s"
+    "gui.clickmachine.power.tooltip": "Power: %s/%s",
+    "gui.clickmachine.speed": "%s clicks/s",
+    "gui.clickmachine.sneaking": "Sneaking",
+    "gui.clickmachine.right_click": "Right-Clicking",
+    "gui.clickmachine.power": "FE: %s/%s",
+    "gui.clickmachine.power.usage": "Using %s FE/t"
 }
