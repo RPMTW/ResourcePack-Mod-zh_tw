@@ -1,16 +1,16 @@
 {
-    "name": "Eye of the Pillager",
+    "name": "窳民之眼",
     "icon": "naturesaura:outpost_finder",
     "category": "items",
     "advancement": "naturesaura:aura_bottle_overworld",
     "pages": [
         {
             "type": "text",
-            "text": "For several occurences in the world, $(item)Explorer Maps$() can be used to find them easily. However, these maps cannot be found for all of the structures in the world. Specifically, $(thing)Pillager Outposts$() cannot be discovered in this manner. To solve this issue, magical botanists have constructed the $(item)Eye of the Pillager$(), which, upon being thrown, will fly towards the nearest $(thing)Pillager Outpost$()."
+            "text": "$(item)探索者地圖$()可以用於輕鬆地找到幾種世界中存在結構。然而，這些地圖無法用於找到所有種類的結構，特別是$(thing)掠奪者前哨站$()。為了解決這個問題，魔法植物學家構造出了$(item)窳民之眼$()。$(item)窳民之眼$()被擲出後，會飛向最近的$(thing)掠奪者前哨站$()。"
         },
         {
             "type": "crafting",
-            "text": "Creating the $(item)Eye of the Pillager$()",
+            "text": "製作$(item)窳民之眼$()",
             "recipe": "naturesaura:outpost_finder"
         }
     ]
