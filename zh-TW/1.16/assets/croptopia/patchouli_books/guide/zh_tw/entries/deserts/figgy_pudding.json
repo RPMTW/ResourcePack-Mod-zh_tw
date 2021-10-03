@@ -1,0 +1,12 @@
+{
+  "name": "無花果布丁",
+  "icon": "croptopia:figgy_pudding",
+  "category": "croptopia:deserts",
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "croptopia:shaped_figgy_pudding",
+      "text": "無花果布丁的食譜"
+    }
+  ]
+}
