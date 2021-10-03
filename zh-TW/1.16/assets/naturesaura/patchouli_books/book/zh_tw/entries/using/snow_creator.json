@@ -1,20 +1,20 @@
 {
-    "name": "Winter's Calling",
+    "name": "凜冬的呼喚",
     "icon": "naturesaura:snow_creator",
     "category": "using",
     "advancement": "naturesaura:sky_ingot",
     "pages": [
         {
             "type": "text",
-            "text": "Sometimes, especially during some holidays, one wishes for the cold to arrive and enlace the world in a white blanket. Nowadays, this occurence has become a lot rarer due to $(italic)some circumstances$(). The $(item)Winter's Calling$() brings this occurence back by causing snow to fall in a vast area around it, provided a little bit of $(aura)."
+            "text": "有時，特別是在某些假日時，會有人想要寒冷到來，並將世界覆蓋在白地毯裡。目前，由於$(italic)一些情況$()，這一現象已經變得越來越稀有。$(item)凜冬的呼喚$()通過消耗一點$(#419600)靈氣$()來使附近大範圍降雪，將這一現象帶了回來。"
         },
         {
             "type": "text",
-            "text": "Additionally, water will freeze into ice and very occasionally, snow golems will spawn to help with covering the lands. To get this process going, a $(thing)redstone signal$() needs to be supplied. The higher the strength of the signal, the biger the area in which snow will fall."
+            "text": "此外，水也會凍結成冰，相當偶然的情況下，還會生成一些雪人來幫助用雪覆蓋大地。要維持這一進程，需要持續提供$(thing)紅石訊號$()。訊號強度越強，會降雪的區域也越大。"
         },
         {
             "type": "crafting",
-            "text": "Creating the $(item)Winter's Calling$()$(p)$(italic)Glacial Precipitator",
+            "text": "製作$(item)凜冬的呼喚$()$(p)$(italic)冰川沉澱器",
             "recipe": "naturesaura:snow_creator"
         }
     ]
