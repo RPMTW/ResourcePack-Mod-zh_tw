@@ -1,0 +1,12 @@
+{
+  "name": "奶油",
+  "icon": "croptopia:butter",
+  "category": "croptopia:ingredients",
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "croptopia:butter",
+      "text": "奶油的製作方法"
+    }
+  ]
+}
