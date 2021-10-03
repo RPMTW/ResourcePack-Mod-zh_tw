@@ -1,7 +1,7 @@
 {
-	"name": "Studying Spells",
+	"name": "學習法術",
 	"icon": "ebwizardry:spell_book",
-	"category": "2_researching",
+	"category": "2_研究中",
 	"sortnum": 0,
 	"pages": [
 		{
@@ -29,7 +29,7 @@
 		{
 			"type": "crafting",
 			"recipe": "ancientspellcraft:sphere_cognizance",
-			"title": "Sphere of Cognizance",
+			"title": "認知寶珠",
 			"text": "The Sphere can be crafted at a crafting table"
 		}
 	]
