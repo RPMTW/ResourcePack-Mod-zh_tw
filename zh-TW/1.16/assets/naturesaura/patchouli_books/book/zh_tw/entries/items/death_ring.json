@@ -1,20 +1,20 @@
 {
-    "name": "Ring of Last Chance",
+    "name": "最後機會之指環",
     "icon": "naturesaura:death_ring",
     "category": "items",
     "advancement": "naturesaura:sky_ingot",
     "pages": [
         {
             "type": "text",
-            "text": "When one is stuck, as one says, between a rock and a hard place, not much can be done - sometimes, $(thing)death$() just has to be accepted as an occurence.$(p)That's what magical botanists used to think before they realized that $(thing)death itself$() could be $()averted$() using something as simple as a ring: The $(item)Ring of Last Chance$(), when placed anywhere in the user's"
+            "text": "當一個人，就像俗語說的那樣，進退兩難時，沒什麼事情可做的——有時，人不得不接受$(thing)死亡$()的發生。$(p)這也是魔法植物學家曾經以為的，直到他們意識到$(thing)死亡本身$()可以被$()避免$()，只需要使用像指環這麼簡單的東西：$(item)最後機會之指環$()，當放在使用者物品欄的"
         },
         {
             "type": "text",
-            "text": "inventory, will prevent their death by healing them and $(thing)disappearing$() in the process, similary to the $(item)Totem of Undying$()."
+            "text": "任何位置，在死亡發生時會進行阻止，治癒使用者並在過程中$(thing)消失$()，類似$(item)不死圖騰$()。"
         },
         {
             "type": "crafting",
-            "text": "Creating the $(item)Ring of Last Chance$()$(p)$(italic)This Ring Fits perfectly",
+            "text": "製作$(item)最後機會之指環$()$(p)$(italic)這枚戒指非常合適",
             "recipe": "naturesaura:death_ring"
         }
     ]
