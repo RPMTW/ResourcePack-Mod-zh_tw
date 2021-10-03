@@ -33,7 +33,7 @@
       "type": "crafting_alchemy_table",
       "heading": "束縛試劑",
       "recipe": "bloodmagic:alchemytable/reagent_binding",
-      "text": "$(italic)它緊緊地抱著我。。。"
+      "text": "$(italic)It clings to me tightly...$() $(br2)$(br2)$(item)Living Equipment$() is equivalent in durability to $(item)Diamond Armour$(), and can be repaired in an $(thing)Anvil$() with more $(thing)Binding Reagent.$()"
     },
     {
       "type": "text",
