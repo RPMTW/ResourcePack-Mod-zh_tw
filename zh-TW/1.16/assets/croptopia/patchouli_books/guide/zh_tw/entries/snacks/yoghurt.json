@@ -1,0 +1,12 @@
+{
+  "name": "優酪乳",
+  "icon": "croptopia:yoghurt",
+  "category": "croptopia:snacks",
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "croptopia:yoghurt",
+      "text": "優酪乳的食譜"
+    }
+  ]
+}
