@@ -1,21 +1,21 @@
 {
-    "name": "Reaper of Ender Heights",
+    "name": "終界高花收割機",
     "icon": "naturesaura:chorus_generator",
     "category": "creating",
     "advancement": "naturesaura:aura_bottle_end",
     "pages": [
         {
             "type": "text",
-            "text": "Once the mighty dragon of $(thing)the End$() has been defeated, one may start venturing out through the many barren islands around its lair. While doing so, one can discover $(thing)chorus$() plants: Flowers that sprout upwards and high into the sky. Flowers of this kind contain quite a substantial amount of $(aura), gathered from the ender air around them."
+            "text": "一旦$(thing)終末之界$()的強大巨龍被打敗，屠龍者可能會開始探索龍巢周圍的荒蕪浮空島嶼。在這麼做時，他會發現$(thing)歌萊$()植物：一種向上萌發，直插天空的花。這種花含有數量可觀的$(#419600)靈氣$()，這些$(#419600)靈氣$()是從周圍的終界空氣中收集而來的。"
         },
         {
             "type": "text",
-            "text": "Through the $(item)Reaper of Ender Heights$(), this energy can be extracted. First of all, a $(thing)chorus flower$() has to be grown at most about two blocks away from it. Once it has grown high enough, supplying the $(item)Reaper of Ender Heights$() with a $(thing)redstone signal$() will cause it to start harvesting the entire plant, dispersing $(aura) in the process.$(br)The higher and broader the plant has grown prior to harvesting, the more $(aura) is created."
+            "text": "通過$(item)終界高花收割機$()，這些能量能被提取出來。首先，在離收割機最遠兩格處種植一株$(thing)歌萊花$()。一旦花長得夠高，給$(item)終界高花收割機$()通入$(thing)紅石訊號$()會使其開始收割整顆植物，並在這個過程中散布$(#419600)靈氣$()。$(br)收割前植物長得越高越廣，收割時產生的$(#419600)靈氣$()越多。"
         },
         {
             "type": "crafting",
             "recipe": "naturesaura:chorus_generator",
-            "text": "Creating the $(item)Reaper of Ender Heights$()"
+            "text": "製作$(item)終界高花收割機$()"
         }
     ]
 }
