@@ -1,0 +1,12 @@
+{
+  "name": "烤堅果",
+  "icon": "croptopia:roasted_nuts",
+  "category": "croptopia:snacks",
+  "pages": [
+    {
+      "type": "smelting",
+      "recipe": "croptopia:roasted_nuts",
+      "text": "烤堅果的食譜"
+    }
+  ]
+}
