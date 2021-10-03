@@ -1,0 +1,12 @@
+{
+  "name": "柳橙汁",
+  "icon": "croptopia:orange_juice",
+  "category": "croptopia:drinks",
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "croptopia:orange_juice",
+      "text": "蔓越莓汁的食譜"
+    }
+  ]
+}
