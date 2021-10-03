@@ -1,36 +1,36 @@
 {
-    "name": "Skyseeker's Tools",
+    "name": "探天者的工具",
     "icon": "naturesaura:sky_pickaxe",
     "category": "items",
     "advancement": "naturesaura:sky_ingot",
     "pages": [
         {
             "type": "text",
-            "text": "The Gods' power is obviously immense and may not ever be understood by magical botanists. However, a very simple way to get a small taste of it are $(item)Skyseeker's tools$(). While also functioning as regular tools, they each have an additional $(thing)special ability$() that sets them apart from their $(item)diamond$() counterparts.$(br)Additionally, these tools can be $(thing)repaired$() in the same way as $(l:items/infused_iron_tools)Botanist's tools$()."
+            "text": "神祇們的力量神通廣大，也許永遠不能被魔法植物學家們解明。然而，有一種簡單的方法能淺嚐這種力量，這方法就是$(item)探天者的工具$()。除了普通工具的功能外，它們每個有著一種將其與$(item)鑽石$()同種工具區分開的額外$(thing)特殊能力$()。$(br)此外，它們還能被與$(l:items/infused_iron_tools)植物學家的工具$()相同的方式$(thing)修復$()。"
         },
         {
             "type": "crafting",
-            "text": "The $(item)Skyseeker's Pickaxe$() causes any items that were mined to immediately enter the user's inventory, removing the chance of precious diamonds plummeting into lava below.",
+            "text": "$(item)探天者之鎬$()能使挖掘的任何物品直接進入使用者的物品欄，消除了珍貴的鑽石墜入下方熔岩的風險。",
             "recipe": "naturesaura:sky_pickaxe"
         },
         {
             "type": "crafting",
-            "text": "The $(item)Skyseeker's Handaxe$() is very efficient at chopping $(thing)trees$(), doing so in one fell swoop.",
+            "text": "$(item)探天者之斧$()非常擅於砍$(thing)樹$()，能在一次猛揮後完成工作。",
             "recipe": "naturesaura:sky_axe"
         },
         {
             "type": "crafting",
-            "text": "The $(item)Skyseeker's Shovel$() makes creating varied paths a lot easier: When holding any $(thing)blocks$() in the off-hand, using the shovel will cause the targeted block to be $(thing)replaced$() with the held block.",
+            "text": "$(item)探天者之鏟$()使得製造多種道路變得簡單得多：在非慣用手持有任何$(thing)方塊$()時對目標使用鏟子，會使目標方塊被$(thing)替換$()成手持的方塊。",
             "recipe": "naturesaura:sky_shovel"
         },
         {
             "type": "crafting",
-            "text": "The $(item)Skyseeker's Hoe$() helps farmers twofold: For one, it tills a $(thing)bigger area$() of ground. Additionally, destroying a piece of $(item)tall grass$() causes all other bush-like blocks in a rather big area to be destroyed with it.",
+            "text": "$(item)探天者之鋤$()能從兩個方面幫助農夫：首先，它一次能鋤$(thing)更大區域$()的地面。其次，破壞一株$(item)芒草$()會同時摧毀較大範圍內所有的其他灌木類方塊。",
             "recipe": "naturesaura:sky_hoe"
         },
         {
             "type": "crafting",
-            "text": "The $(item)Skyseeker's Blade$() is an excellent way of dealing with monsters: When attacked, they will be briefly inflicted with the $(item)Levitation$() effect, causing them to rise up into the sky and plummet back down a short while later.",
+            "text": "$(item)探天者之劍$()是對付怪物的絕佳方式：怪物被擊中時，它們會短暫獲得$(item)漂浮$()效果，導致它們浮上天，並在稍後摔回地面。",
             "recipe": "naturesaura:sky_sword"
         }
     ]
