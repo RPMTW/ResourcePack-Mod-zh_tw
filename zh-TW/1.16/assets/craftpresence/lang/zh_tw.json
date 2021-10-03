@@ -39,7 +39,7 @@
     "gui.config.title.selector.view.items": "狀態工藝 - 可用的物品",
     "gui.config.comment.title": "目前版本 -> %1$s （示意 v%2$s）",
     "gui.config.comment.title.general": "顯示資訊的一般設定",
-    "gui.config.comment.title.biome_messages": "自定義生態域訊息\\n （手動格式：biome_name;訊息）\\n 可用的占位符：\\n - &biome& = 生態域名稱",
+    "gui.config.comment.title.biome_messages": "自訂與生態域一起顯示的資訊（手冊格式：biome_name;message）\\n 可用的占位符：\\n - &biome& = 生態域名稱/n - &icon& = 預設生態域圖示",
     "gui.config.comment.title.dimension_messages": "自定義維度訊息\\n （手動格式： dimension_name;訊息）\\n 可用的占位符：\\n - &dimension& = 維度名稱\\n - &icon& =預設維度圖示",
     "gui.config.comment.title.server_messages": "自定義伺服器訊息\\n （手動格式： server_Address;訊息;圖示）\\n 可用的占位符：\\n - &ip& =  伺服器位址\\n - &name& = 伺服器名稱\\n - &motd& = 伺服器Motd\\n - &icon& = 預設伺服器圖示\\n - &players& = 伺服器玩家統計\\n - &playerinfo& = 您在世界中的玩家資訊消息\\n - &worldinfo& = 您在世界中遊戲資訊",
     "gui.config.comment.title.status_messages": "客製化與不同遊戲狀態有關的資訊",
@@ -80,7 +80,7 @@
     "gui.config.message.editor.color.value.blue": "藍色數值",
     "gui.config.message.editor.color.value.alpha": "透明度數值",
     "gui.config.message.presence.generalArgs": "一般的消息格式化參數。 \\n占位符可在狀態資訊和其他區域設定有些占位符是空的，除非它們被指定 \\n&MAINMENU& = 主選單資訊，當在主選單中時 - &MCVERSION& = Minecraft版本標籤  - &BRAND& = Minecraft品牌標籤 - &IGN& = 非世界玩家資訊資訊 - &MODS& = 顯示你模組數量的資訊 - &PACK& = 如果有使用資料包/材質包，會是資料包/材質包的資訊。\\n - &DIMENSION& = 目前的維度訊息\\n - &BIOME& = 目前的生態域訊息\\n - &SERVER& = 目前的伺服器訊息\\n - &SCREEN& = 目前的介面訊息\\n &TILEENTITY& = 目前實體所拿取的訊息(方塊/物品/盔甲)\\n - &TARGETENTITY& = 目前的實體標籤訊息\\n - &ATTACKINGENTITY& = 目前攻擊中的實體訊息\\n - &RIDINGENTITY& = 目前騎乘的實體訊息",
-    "gui.config.message.presence.iconArgs": "一般的圖示格式化參數。 \\n在狀態資訊和其他區域可設定的占位符\\n* 一些占位符是空的，除非它們被指定\\n - &DEFAULT& = 預設圖示，在設定中指定 - &MAINMENU& = 在主選單中使用的圖示\\n *使用這個代替 &DEFAULT& 來只在主選單中顯示預設圖示\\n - &PACK& = 材質包/資料包的圖示，如果有使用材質包\\n資料包的情況下\\n - &DIMENSION& = 目前維度圖示\\n - &SERVER& = 目前伺服器圖示",
+    "gui.config.message.presence.iconArgs": "一般的圖示格式化參數:在狀態資訊和其他區域可設定的占位符\\n* 一些占位符是空的，除非它們被指定\\n - &DEFAULT& = 預設圖示。使用這個參數而不是&DEFAULT&，以便在主選單中只顯示預設圖示。",
     "gui.config.message.character.notice": "同步注意事項\\n\\n 在舊版 Minecraft 上同步可能無法產生準確的結果",
     "gui.config.message.credits": "這個設定介面由Jonathing從頭開始製作\\n並持續維護此模組到現在\\n，製作此自訂介面做了很多努力\\n\\n。希望能讓他得到一些支持。\\n，讓他持續維護這個模組，此模組的原始碼放在GitLab儲存庫。",
     "gui.config.message.tentative": "§4§l暫定發布（%1$s），功能可能改變",
@@ -261,7 +261,7 @@
     "craftpresence.command.export.post": "§2§l完成用戶端 ID %2$s 匯出 %1$s 資源，完整複製狀態為 %3$s",
     "craftpresence.command.export.exception": "§c§l指令異常 - 無法從用戶端 ID %1$s 匯出資源",
     "craftpresence.command.unrecognized": "§c§l未知指令 - 請使用§6§l/craftpresence help",
-    "craftpresence.command.current_data": "§l目前 RPC 資料 (登錄為 %1$s):§r\\n §6§l詳情:§r %2$s\\n §6§l遊戲狀態:§r %3$s\\n §6§l開始時間戳:§r %4$s\\n §6§l客戶端ID:§r %5$s\\n §6§l大圖示密鑰:§r %6$s\\n §6§l大圖示文本:§r %7$s\\n §6§l小圖示密鑰:§r %8$s\\n §6§l小圖示文本:§r %9$s\\n §6§l派對ID:§r %10$s\\n §6§l派對大小:§r %11$s\\n §6§l最大派對:§r %12$s\\n §6§l派對隱私:§r %13$s\\n §6§l加入保密:§r %14$s\\n §6§l結束時間戳:§r %15$s\\n §6§l匹配保密:§r %16$s\\n §6§l觀看保密:§r %17$s\\n §6§l實例:§r %18$s\n",
+    "craftpresence.command.current_data": "§l目前 RPC 數據（ 登入 %1$s ）：§r\\n §6§l細節：§r %2$s\\n §6§l遊戲狀態：§r %3$s\\n §6§l開始時間戳記 :§r %4$s\\n §6§l客戶端 ID：§r %5$s\\n §6§l大圖標鍵：§r %6$s\\n §6§l大圖示文本：§r %7$s\\n §6§l小圖示鍵：§r %8$s\\n §6§l小圖示文字：§r %9$s\\n §6§l派對ID：§r %10$s\\n §6§ l派對規模：§r %11$s\\n §6§l最大派對：§r %12$s\\n §6§l派對隱私：§r %13$s\\n §6§l加入秘密：§r %14$s\\n §6§l結束時間戳記：§r %15$s\\n §6§l匹配保密：§r %16$s\\n §6§l觀看保密：§r %17$s\\n §6§l按鈕： §r %18$s\\n §6§l實例：§r %19$s",
     "craftpresence.command.reload": "§6§l重新載入狀態工藝數據，取決於設定!",
     "craftpresence.command.reload.complete": "§2§l重新載入狀態工藝數據!",
     "craftpresence.command.request.info": "§6§l請求訊息:§r\\n §6§l請求者 用戶名: %1$s\\n\\n §6§l使用 /cp request <accept|deny> 或者等待 %2$s 秒拒絕",
@@ -344,5 +344,7 @@
     "craftpresence.logger.warning.updater.incompatible.json": "Json 區段 「%1$s」 的格式不相容...",
     "craftpresence.logger.warning.updater.data.missing": "缺少模組 「%1$s」 的關鍵元數據，提供假數據。(如果在去混淆的環境中，請忽略)",
     "craftpresence.logger.warning.convert.invalid": "物件 「%1$s」的數據轉換返回一個未知的、無效的或可跳過的結果。建議謹慎行事... (嘗試的模式：%2$s)...",
-    "craftpresence.exception.config.prop.null": "「%1$s」的屬性值不能為空"
+    "craftpresence.exception.config.prop.null": "「%1$s」的屬性值不能為空",
+    "gui.config.name.advanced.player_skin_endpoint": "Player Skin Endpoint",
+    "craftpresence.defaults.advanced.player_skin_endpoint": "https://crafatar.com/avatars/%1$s"
 }
