@@ -1,14 +1,14 @@
 {
-	"name": "Studying Relics",
+	"name": "學習遺物",
 	"icon": "minecraft:writable_book",
-	"category": "2_researching",
+	"category": "2_研究中",
 	"advancement": "ancientspellcraft:sphere_of_cognizance",
 	"sortnum": 1,
 	"pages": [
 		{
 			"type": "spotlight",
 			"item": "ancientspellcraft:stone_tablet",
-			"text": " Stone Tablets can be studied at a Sphere of Cognizance to uncover their secrets. Some scholars theorize that these tablets might be inscribed with knowledge of ancient spells- created and utilized by wizards from long-forgotten civilizations. However, no wizard in recent history has been successful in recreating any of these spells.",
+			"text": "可以在認知領域研究石碑以揭開它們的秘密。一些學者推測，這些石板可能刻有古代法術的知識——這些法術是由來自被遺忘已久的文明的巫師創造和使用的。然而，近代歷史上沒有一個巫師能夠成功地重現這些法術中的任何一個。",
 			"link_recipe": false
 		}
 	]
