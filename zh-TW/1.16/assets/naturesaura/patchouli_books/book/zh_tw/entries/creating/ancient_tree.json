@@ -10,11 +10,11 @@
         },
         {
             "type": "text",
-            "text": "It should additionally be noted that, while this tree looks especially beautiful in more hellish regions of the world due to the matching color scheme, it $(italic)does not work$() outside of the $(thing)overworld$() realm, as that is the only area where plants can thrive in the appropriate way."
+            "text": "還應指出的是，雖然這種樹在地獄般的區域裡會因為顏色十分搭配而看起來特別美麗，它$(italic)並不會$()在$(thing)主世界$()之外工作，因為主世界是植物能以合適方式成長的唯一區域。"
         },
         {
             "type": "naturesaura:tree_ritual",
-            "text": "Creating the $(item)Ancient Sapling$() using the $(l:practices/tree_ritual)Ritual of the Forest$()",
+            "text": "使用$(l:practices/tree_ritual)森林儀式$()來製作$(item)遠古木樹苗$()",
             "recipe": "naturesaura:ancient_sapling"
         },
         {
