@@ -1,16 +1,16 @@
 {
-    "name": "Nature's Mend",
+    "name": "自然修補",
     "icon": "minecraft:enchanted_book",
     "category": "using",
     "advancement": "naturesaura:infused_tools",
     "pages": [
         {
             "type": "text",
-            "text": "Having gained knowledge of the powers of $(l:items/infused_iron_tools)Infused Iron tools$(), one could wish for a certain one of these abilities to be applied to other tools, specifically their Aura-aided $(thing)repairing$(). The $(item)Nature's Mend$() enchantment gives any tool or armor piece the ability to be repaired, as long as the user is carrying an $(l:items/aura_cache)Aura Cache$() or similar storage device."
+            "text": "認知到了$(l:items/infused_iron_tools)灌注鐵工具$()的力量後，你可能會想讓其他工具也有灌注鐵工具中的一些特殊能力，特別是在$(#419600)靈氣$()幫助下的$(thing)自我修復$()。$(item)自然修補$()附魔能給予任何工具或盔甲這種能被$(#419600)靈氣$()修復的能力，只要使用者攜帶著$(l:items/aura_cache)靈氣快取$()或類似的儲存設備。"
         },
         {
             "type": "text",
-            "text": "For tools to be repaired, the additional requirement of $(thing)sneaking$() while holding the item has to be met as well.$(p)It should be noted that, while not being exceedingly rare, this enchantment has a similar chance of appearing as, say, the $(item)Looting$() enchantment."
+            "text": "要進行工具修復，除了這個附魔還需要手持該物品並$(thing)潛行$()。$(p)需要指出的是，雖然不是極其稀有，這個附魔的出現率也少到和$(item)掠奪$()相近。"
         }
     ]
 }
