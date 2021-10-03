@@ -14,5 +14,7 @@
     "abnormals_core.screen.slabfish_settings.tooltip": "異常(Abnormals)團隊贊助人板魚帽的設定。成為%s的贊助者。",
     "abnormals_core.message.redirect": "重新導向",
     "entity.abnormals_core.boat": "船",
-    "abnormals_core.config.smooth_sky_color": "平滑天空顏色"
+    "abnormals_core.config.smooth_sky_color": "平滑天空顏色",
+    "abnormals_core.config.screen_shake_scale": "畫面抖動幅度",
+    "abnormals_core.config.max_screen_shakers": "Max Screen Shakers"
 }
