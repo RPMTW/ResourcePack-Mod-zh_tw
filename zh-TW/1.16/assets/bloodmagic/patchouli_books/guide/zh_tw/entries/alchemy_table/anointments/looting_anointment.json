@@ -14,6 +14,18 @@
       "heading": "掠奪閃芒",
       "recipe": "bloodmagic:alchemytable/looting_anointment",
       "text": "增加殺死生物時的掉落率。 也與掠奪附魔疊加。$(br2)有效物品：工具，劍。$(br2)適用：掠奪 I（256 次命中）"
+    },
+    {
+      "type": "crafting_alchemy_table",
+      "heading": "Plunderer's Glint L",
+      "recipe": "bloodmagic:alchemytable/looting_anointment_l",
+      "text": "This upgraded version of the anointment lasts four times longer. $(br2)Applies: Plundering I (1024 hits)"
+    },
+    {
+      "type": "crafting_alchemy_table",
+      "heading": "Plunderer's Glint II",
+      "recipe": "bloodmagic:alchemytable/looting_anointment_2",
+      "text": "This upgraded version of the anointment further increases the drops from killed mobs. $(br2)Applies: Plundering II (256 hits)"
     }
   ]
 }
