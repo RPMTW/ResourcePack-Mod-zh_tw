@@ -14,6 +14,12 @@
       "heading": "Slow-burning Oil",
       "recipe": "bloodmagic:alchemytable/smelting_anointment",
       "text": "使用熱量來熔煉收穫的方塊。 $(br2)有效物品：工具、劍、費用。 $(br2)適用：加熱工具I（256塊） "
+    },
+    {
+      "type": "crafting_alchemy_table",
+      "heading": "Slow-burning Oil L",
+      "recipe": "bloodmagic:alchemytable/smelting_anointment_l",
+      "text": "This upgraded version of the anointment lasts four times longer. $(br2)Applies: Heated Tool I (1024 blocks)"
     }
   ]
 }
