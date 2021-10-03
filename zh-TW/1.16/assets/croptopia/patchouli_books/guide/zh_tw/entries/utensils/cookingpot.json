@@ -1,0 +1,12 @@
+{
+  "name": "烹飪鍋",
+  "icon": "croptopia:frying_pan",
+  "category": "croptopia:utensils",
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "croptopia:frying_pan",
+      "text": "平底鍋的製造方法"
+    }
+  ]
+}
