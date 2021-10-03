@@ -1,16 +1,16 @@
 {
-    "name": "Corporeal Eye",
+    "name": "實形之眼",
     "icon": "naturesaura:animal_container",
     "category": "devices",
     "advancement": "naturesaura:eye",
     "pages": [
         {
             "type": "text",
-            "text": "Sometimes, as a farmer, one wants their $(thing)animals$() to be contained in a small area as to prevent them from running away.$(br)The $(item)Corporeal Eye$() prevents any animals from exiting its area of effect without needing any blocks around it. Its $(thing)range$() for this containment is determined by the $(thing)redstone signal$() applied to it - the stronger it is, the bigger the area."
+            "text": "有時，作為一個農夫，會有人想要他的$(thing)動物們$()被控制在一個小區域內，以免它們到處亂跑。$(br)$(item)實形之眼$()能防止任何動物離開它的影響區域，而且不需要在周圍擺放任何方塊。它的作用$(thing)範圍$()受它收到的$(thing)紅石訊號$()的影響——訊號越強，範圍越大。"
         },
         {
             "type": "crafting",
-            "text": "Creating the $(item)Corporeal Eye$()",
+            "text": "製作$(item)實形之眼$()",
             "recipe": "naturesaura:animal_container"
         }
     ]
