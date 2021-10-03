@@ -10,7 +10,7 @@
         },
         {
             "type": "image",
-            "text": "有一個$(bold)符文蒼黃石$()被破壞（或沒有）的框架和它周圍的八個基座。",
+            "text": "There is a destroyed (or not) frame of  $(bold)Runed Flavolite$() and 6 pedestals around it.",
             "border": false,
             "images": [
                 "betterendforge:textures/images/eternal_ritual/portal_structure.png"
@@ -22,7 +22,7 @@
         },
         {
             "type": "image",
-            "text": "並將8個$(bold)永恆水晶$()放在基座上。",
+            "text": "並將6個$(bold)永恆水晶$()放在基座上。",
             "border": false,
             "images": [
                 "betterendforge:textures/images/eternal_ritual/portal_frame_full.png"
