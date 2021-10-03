@@ -567,5 +567,14 @@
     "effect.apotheosis.bleeding": "撕裂",
     "death.attack.apotheosis.bleeding": "%s失血過多。",
     "info.apoth.modifier_disabled": "這個調節器已被停用",
-    "itemGroup.apotheosis": "神化"
+    "itemGroup.apotheosis": "神化",
+    "block.apotheosis.enchantment_library": "Enchantment Library",
+    "apotheosis.ench.library": "Enchantment Library",
+    "tooltip.enchlib.1": "Max Level Available: %s",
+    "tooltip.enchlib.2": "Points Stored: %s/32767",
+    "tooltip.enchlib.4": "Next Level Cost: %d",
+    "tooltip.enchlib.5": "Next Level Unavailable",
+    "tooltip.enchlib.6": "Max Level Cost: %d",
+    "tooltip.enchlib.item": "Storing %d enchantments.",
+    "info.apotheosis.library": "The enchantment library is a block that stores enchantments.  Inserting an enchanted book will deposit it.  Left-clicking on a stored enchantment will extract one level of it.  Shift-clicking will extract the max level available."
 }
