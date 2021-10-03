@@ -1,8 +1,6 @@
 {
-    "_comment_0": " Misc",
     "itemGroup.tabQuantumFlux": "QuantumFlux",
     "key.quantumflux.magnet": "Toggle QuantumFlux magnet",
-    "_comment_1": " Items",
     "item.amplificationCrystal.name": "Amplification Crystal",
     "item.goldCasing.name": "Gold Casing",
     "item.quibitCrystal.name": "Quibit Crystal",
@@ -29,7 +27,6 @@
     "item.hamCheese.name": "Ham & Cheese Sandwhich",
     "item.graphiteDust.name": "Graphite Dust",
     "item.linkingCard.name": "Telepad Linking Card",
-    "_comment_2": " Blocks",
     "tile.graphiteOre.name": "Industrial Grade Graphite Ore",
     "tile.mobGlue.name": "Glue Trap",
     "tile.darkstone.plain.name": "Darkstone",
@@ -50,7 +47,6 @@
     "tile.rfExciter.name": "RF Exciter",
     "tile.containmentUnit.name": "Containment Unit",
     "tile.telepad.name": "Telepad",
-    "_comment_3": " Chat",
     "chat.rfStored": "%s RF in reserve",
     "chat.rfStored.max": "(%s capacity)",
     "chat.rfExciter.maxTransfer": "%s maximum transfer",
@@ -58,7 +54,6 @@
     "chat.telepad.link.success": "Telepad successfully linked!",
     "chat.telepad.link.stored": "Telepad location saved",
     "chat.telepad.link.clear": "Telepad location cleared",
-    "_comment_4": " Flair",
     "flair.item.netherBane": "Sabre of the Moon",
     "flair.item.industrialDiamond": "Created by putting Graphite Dust into an explosion",
     "flair.block.gluetrap": "Zombies check in, but they don't check out! "
