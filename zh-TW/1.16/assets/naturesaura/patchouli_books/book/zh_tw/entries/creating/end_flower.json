@@ -11,7 +11,7 @@
         {
             "type": "spotlight",
             "item": "naturesaura:end_flower",
-            "text": "This flower bears very large amounts of $(aura) that can be harvested in an interesting way: Dropping an $(item)Ender Eye$() on the ground close to it will cause the rose to consume it and start dispersing its $(aura) into the environment. During this process, it can neither be stopped, nor harvested. Note that this process does $(italic)not$() require a $(l:creating/generator_limit_remover)Creational Catalyst$().",
+            "text": "這種玫瑰蘊含大量的$(#419600)靈氣$()，這些$(#419600)靈氣$()可以被一種有趣的方式提取：在靠近玫瑰的地方丟一個$(item)終界之眼$()會使得玫瑰變成$(#419600)靈氣$()並散布到環境中。這個過程一旦開始就無法停止，此時玫瑰也無法被採集。注意，這個過程$(italic)不$()需要$(l:creating/generator_limit_remover)製造催化器$()。",
             "link_recipe": true
         }
     ]
