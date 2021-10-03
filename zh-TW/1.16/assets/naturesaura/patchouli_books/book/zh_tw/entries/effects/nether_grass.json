@@ -1,17 +1,17 @@
 {
-    "name": "Crimson Overgrowth",
+    "name": "猩紅增生",
     "icon": "naturesaura:nether_grass",
     "category": "effects",
     "advancement": "naturesaura:positive_imbalance",
     "pages": [
         {
             "type": "text",
-            "text": "As discussed in the chapter about $(l:effects/plant_boost)Vegetational Increase$(), an excess of $(aura) can migrate into plants and the like. A similar effect can be observed in the $(thing)nether$(): If the $(aura) levels are high enough, $(item)grass$() will begin to start growing on top of any $(item)netherrack$() in the area."
+            "text": "如同在$(l:effects/plant_boost)植物增生$()中提及的一樣，過量的$(#419600)靈氣$()會轉移到植物中去。$(thing)地獄$()中也可觀測到類似的現象：如果$(#419600)靈氣$()水平足夠高，$(item)草$()就會在區域內的任何$(item)地獄岩$()上生長。"
         },
         {
             "type": "naturesaura:tree_ritual",
             "recipe": "naturesaura:nether_grass_powder",
-            "text": "This effect can be inhibited using $(l:effects/effect_powder)Powder of Barrens$()."
+            "text": "使用$(l:effects/effect_powder)荒蕪之粉$()可以抑制此效果。"
         }
     ]
 }
