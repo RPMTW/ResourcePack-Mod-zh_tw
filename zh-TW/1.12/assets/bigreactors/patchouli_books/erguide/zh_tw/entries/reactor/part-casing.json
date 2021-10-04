@@ -1,5 +1,5 @@
 {
-    "name": "Casing",
+    "name": "外殼",
     "icon": "bigreactors:reactorcasing",
     "category": "bigreactors:reactor-parts",
     "read_by_default": true,
@@ -9,13 +9,13 @@
             "type": "spotlight",
             "item": "bigreactors:reactorcasing",
             "link_recipe": true,
-            "title": "Casing",
+            "title": "外殼",
             "text": "Casing blocks are the building blocks of the Reactor.$(br2)They are required to build its frame and are also used to craft the other parts. Casing blocks can also be used to fill the faces of the Reactor if you don't like glass too much.$(br2)You will craft a ton of them."
         },
         {
             "type": "crafting",
             "recipe2": "bigreactors:reactorcasing",
-            "title": "Casing"
+            "title": "外殼"
         },
         {
             "type": "part_usage",
