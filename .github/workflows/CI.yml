@@ -29,6 +29,5 @@ jobs:
       - name: "推送變更"
         continue-on-error: true
         run: |
-          git pull
           git push
           exit 0
