@@ -25,13 +25,10 @@ jobs:
           git add ./RPMTW-1.16.zip
           git commit -m "更新翻譯包"
           exit 0
-        shell: bash {0}
         
       - name: "推送變更"
         continue-on-error: true
         run: |
           git pull
           git push
-          exit 0
-        shell: bash {0}      
-          
+          exit 0          
