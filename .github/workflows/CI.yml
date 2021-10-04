@@ -25,10 +25,10 @@ jobs:
           git add ./RPMTW-1.17.zip
           git commit -m "更新翻譯包"
           exit 0
-        shell: bash {0}   
         
       - name: "推送變更"
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: ${{ github.ref }}
+        continue-on-error: true
+        run: |
+          git pull
+          git push
+          exit 0
