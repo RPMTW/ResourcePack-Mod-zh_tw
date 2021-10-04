@@ -1,8 +1,8 @@
 name: UpdateLang
  
 on:
-   schedule:
-   - cron: "*/60 0 * * *" #每天執行一次
+#    schedule:
+#    - cron: "*/60 0 * * *" #每天執行一次
    workflow_dispatch:
    push:
     branches: [ Original-1.17 ]
