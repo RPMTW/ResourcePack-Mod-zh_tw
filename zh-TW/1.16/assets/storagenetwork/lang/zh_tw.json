@@ -10,7 +10,7 @@
     "block.storagenetwork.export_kabel.guide": "當連接上一個儲存裝置後，導出纜線將會從網路取出物品至儲存裝置上。$(br)所有的導出纜線之間都有優先度順序與紅石信號控制，並接受纜線升級。",
     "block.storagenetwork.import_kabel": "導入纜線",
     "block.storagenetwork.import_kabel.guide": "導入纜線會時時的將相連裝置內的物品接入網路。$(br2)升級至$(l:import_filter_kabel)過濾導入電纜$(/l)以使用更多詳細設定。",
-    "block.storagenetwork.import_filter_kabel": "過濾導入電纜",
+    "block.storagenetwork.import_filter_kabel": "過濾導入纜線",
     "block.storagenetwork.import_filter_kabel.guide": "過濾導入纜線也會時時的將相連裝置內的物品接入網路。它能在控制介面裏設置纜線升級、物品篩選器，和紅石信號控制。$(br2)允許清單即意味著只會接受與清單內相符的物品通過，忽略清單會將除吻合清單以外的所有物品通過線纜；導入過濾器會將當下纜線裏的物品匯入清單之中。",
     "block.storagenetwork.filter_kabel": "過濾連接纜線",
     "block.storagenetwork.filter_kabel.guide": "每條連接纜線僅會連接一個儲存裝置至網路，具有優先級設置，並與導出纜線共用優先級順序；接受纜線升級。",
