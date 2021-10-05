@@ -1,11 +1,11 @@
 {
-	"itemGroup.facility.group": "Facility",
-	"config.facility.title": "Facility Configuration",
+	"itemGroup.facility.group": "連接設施",
+	"config.facility.title": "設施配置",
 	"config.facility.category.misc": "雜項",
-	"config.facility.value.shift_screens_left_if_rei_present": "Shift Screens Left for REI",
-	"config.facility.help.shift_screens_left_if_rei_present": "Gives more space for REI item display",
+	"config.facility.value.shift_screens_left_if_rei_present": "左移螢幕為REI留下空間",
+	"config.facility.help.shift_screens_left_if_rei_present": "為REI提供更多空間",
 	"config.facility.value.use_vanilla_fonts": "使用原版字體",
-	"config.facility.help.use_vanilla_fonts": "Use Minecraft font in storage screens",
+	"config.facility.help.use_vanilla_fonts": "在儲存畫面中使用Minecraft字體",
 	"config.facility.value.utb_cat1_rate": "UTB-1 Transfer Rate",
 	"config.facility.help.utb_cat1_rate": "Max items transferred each tick;by category 1 universal transport bus",
 	"config.facility.value.utb_cat1_import_cooldown": "UTB-1 Importer Tick Frequency",
@@ -33,9 +33,9 @@
 	"block.facility.crate": "板條箱 - 標準",
 	"block.facility.crate.desc": "Holds 2048 items in any combination.;NOT compatible with hoppers.",
 	"block.facility.hyper_crate": "Hyper Crate",
-	"block.facility.hyper_crate.desc": "It's bigger on the inside.;NOT compatible with hoppers.",
+	"block.facility.hyper_crate.desc": "內部空間更大;與漏斗不相容",
 	"block.facility.slotted_crate": "Slotted Crate - Standard",
-	"block.facility.slotted_crate.desc": "Holds 32 item stacks.;Compatible with hoppers.",
+	"block.facility.slotted_crate.desc": "可堆疊32個物品;與漏斗兼容",
 	"block.facility.creative_crate": "板條箱 - 創造",
 	"block.facility.creative_crate.desc": "For testing.;Will output random items given redstone signal.",
 	"block.facility.bin_1x": "桶 1X - 標準",
@@ -51,5 +51,5 @@
 	"block.facility.creative_bin_4x": "桶 4X - 創造",
 	"block.facility.creative_bin_4x.desc": "Endless supply of four items.;For testing.",
 	"block.facility.tank": "罐 - 標準",
-	"block.facility.tank.desc": "Holds 32 buckets of one fluid."
+	"block.facility.tank.desc": "可容納32桶的液體。"
 }
