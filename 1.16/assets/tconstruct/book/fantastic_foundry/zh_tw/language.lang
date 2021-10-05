@@ -1,19 +1,25 @@
-// Sections
+// Sections - Fantastic Foundry
 intro=Introduction
-materials=Tool materials
-bowmaterials=Bow materials
-tools=Tools
-modifiers=Modifiers
-smeltery=Smeltery
-seared_furnace=Seared Furnace
-tinker_tank=Tinker Tank
-tier_three_materials=Tier 3 Materials
+alloyer=Alloyer
 tier_four_materials=Tier 4 Materials
 
-molten_blaze=Molten Blaze
+foundry=Foundry
+foundry.features=Features
+foundry.byproducts=Byproducts
+foundry.controller=Controller
+foundry.structure=Structure
+foundry.structurereq=Structure Requirements
+foundry.scorched_tanks=Scorched Tanks
+foundry.scorched_blocks=Scorched Blocks
+foundry.scorched_ladder=Scorched Ladder
+foundry.scorched_glass=Scorched Glass
+foundry.scorched_drain=Scorched Drain
+foundry.scorched_duct=Scorched Duct
+foundry.scorched_chute=Scorched Chute
+foundry.fgui1=Foundry GUI
+foundry.fgui2=Foundry GUI Explination
 
-modifier.effect=Effects:
-tool.properties=Properties:
-
-material.craft_partbuilder=Can be crafted in the Part Builder
-material.craft_casting=Can be cast from
+blazing_blood=Blazing Blood
+blazing_blood.carry=Carrying
+blazing_blood.foundry=Foundry
+blazing_blood.melting=Melting
