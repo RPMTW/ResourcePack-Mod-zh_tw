@@ -1,5 +1,5 @@
 {
-	"name": "Crystal Shards",
+	"name": "水晶碎片",
 	"icon": "ancientspellcraft:crystal_ore_lightning",
 	"category": "3_worldgen",
 	"sortnum": 0,
@@ -7,7 +7,7 @@
 		{
 			"type": "text",
 			"item": "ancientspellcraft:crystal_ore_sorcery",
-			"text": " Elemental Crystal Shards can be found all around the Overworld. These small veins of crystal drop 1-2 Crystal Shards of their element, 9 of the same element can be combined into a full elemental crystal in a Crafting Bench.",
+			"text": " 元素水晶碎片可以在主世界中找到。這些小水晶脈會掉落 1-2 個其元素的水晶碎片，9 個相同的元素可以在製作台中組合成一個完整的元素水晶。",
 			"link_recipe": false
 		}
 	]
