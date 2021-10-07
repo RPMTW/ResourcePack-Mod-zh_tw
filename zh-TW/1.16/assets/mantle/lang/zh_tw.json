@@ -3,7 +3,7 @@
     "config.mantle.extraHeartRenderer": "啟用額外的Heart渲染器",
     "command.mantle.view_tags.success": "Values for %s tag '%s':",
     "command.mantle.view_tags.not_found": "未知 %s 註冊值 '%s'",
-    "command.mantle.view_tags.no_held_block": "Held item is not a block",
+    "command.mantle.view_tags.no_held_block": "這個物品不是一個方塊。",
     "command.mantle.view_tags.no_held_entity": "持有的物品不是生怪蛋",
     "command.mantle.view_tags.no_held_potion": "Held item is not a potion",
     "command.mantle.view_tags.no_held_fluid": "Unable to get fluid from the held item",
