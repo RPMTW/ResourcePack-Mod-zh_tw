@@ -1,5 +1,5 @@
 {
-	"name": "Fiery Crystal Veins",
+	"name": "赤焰的水晶靜脈",
 	"icon": "ancientspellcraft:crystal_ore_fire",
 	"category": "3_worldgen",
 	"sortnum": 1,
@@ -15,14 +15,14 @@
 			"images": [
 				"ancientspellcraft:textures/gui/entries/fiery_ore_shard.png"
 			],
-			"title": "Fiery Crystal Veins",
+			"title": "赤焰的水晶靜脈",
 			"text": ""
 		},
 		{
 			"type": "crafting",
 			"recipe": "ancientspellcraft:magic_crystal_fire",
 			"title": "Fiery Crystal",
-			"text": "        Crafting Table"
+			"text": "        工作台"
 		}
 	]
 }
