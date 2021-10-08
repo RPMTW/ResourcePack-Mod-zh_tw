@@ -1,5 +1,5 @@
 {
-	"name": "光輝的水晶靜脈",
+	"name": "光輝水晶礦脈",
 	"icon": "ancientspellcraft:crystal_ore_healing",
 	"category": "3_worldgen",
 	"sortnum": 5,
@@ -15,13 +15,13 @@
 			"images": [
 				"ancientspellcraft:textures/gui/entries/radiant_ore_shard.png"
 			],
-			"title": "光輝的水晶靜脈",
+			"title": "光輝水晶礦脈",
 			"text": ""
 		},
 		{
 			"type": "crafting",
 			"recipe": "ancientspellcraft:magic_crystal_healing",
-			"title": "Radiant Crystal",
+			"title": "光輝水晶",
 			"text": "        工作台"
 		}
 	]
