@@ -1,11 +1,40 @@
 name: UpdateLang
- 
+
 on:
-   workflow_dispatch:
-    
+  workflow_dispatch:
+
 jobs:
   Update:
-    runs-on: ubuntu-latest
-        
+    runs-on: ${{ matrix.os }}
+    strategy:
+      matrix:
+        os: ["ubuntu-latest", "ubuntu-latest", "ubuntu-latest"]
+        ref: ["Original-1.12", "Original", "Original-1.17"]
+        gameVersion: ["1.12.2", "1.16.5", "1.17.1"]
+        dirGameVersion: ["1.12", "1.16", "1.17"]
+
     steps:
-    - uses: actions/checkout@v2
+      - uses: actions/checkout@v2
+        with:
+          ref: ""
+      - uses: dart-lang/setup-dart@v1
+
+      - name: 安裝依賴項
+        run: dart pub get
+
+      - name: "更新原始語系檔案"
+        run: |
+          dart run .\Scripts\bin\main.dart --action update_lang --gameVersion ${{ matrix.gameVersion }} --dirGameVersion ${{ matrix.dirGameVersion }}
+
+      # - name: "提交檔案"
+      #   run: |
+      #     git config --global user.email "rpmtw666@gmail.com.com"
+      #     git config --global user.name "原始語系檔案更新機器人"
+      #     git add ./1.17/assets
+      #     git commit -m "更新原始語系檔案"
+
+      # - name: "推送變更"
+      #   uses: ad-m/github-push-action@master
+      #   with:
+      #     github_token: ${{ secrets.GITHUB_TOKEN }}
+      #     branch: ${{ github.ref }}
