@@ -45,7 +45,7 @@ jobs:
         run: |
           git config --global user.email "rpmtw666@gmail.com.com"
           git config --global user.name "原始語系檔案更新機器人"
-          git add ./1.17/assets
+          git add ./${{ matrix.dirGameVersion }}/assets
           git commit -m "更新原始語系檔案"
 
       - name: "推送變更"
