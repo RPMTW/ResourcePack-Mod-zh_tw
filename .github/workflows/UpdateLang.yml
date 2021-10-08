@@ -1,6 +1,8 @@
 name: UpdateLang
 
 on:
+  schedule:
+  - cron:  '0 0 */14 * *'
   workflow_dispatch:
 
 jobs:
@@ -27,6 +29,7 @@ jobs:
 
       - name: 安裝依賴項
         run: |
+          ls
           cd Scripts
           dart pub get
 
