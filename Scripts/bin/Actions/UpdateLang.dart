@@ -8,8 +8,12 @@ class UpdateLang {
     Map curseForgeIndex = CurseForgeIndex().map;
 
     for (String curseID in curseForgeIndex.values) {
-      print("[ ${(curseForgeIndex.values.toList().indexOf(curseID)) + 1}/${curseForgeIndex.length} ] 更新語系檔案中...");
-      await DownloadModLangFile.run(int.parse(curseID));
+      try {
+        print("[ ${(curseForgeIndex.values.toList().indexOf(curseID)) + 1}/${curseForgeIndex.length} ] 更新語系檔案中...");
+        await DownloadModLangFile.run(int.parse(curseID));
+      } catch (e) {
+        print("[$curseID] 更新語系檔案時發生未知錯誤\n$e");
+      }
     }
   }
 }
