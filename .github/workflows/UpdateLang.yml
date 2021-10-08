@@ -8,9 +8,16 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        ref: ["Original-1.12", "Original", "Original-1.17"]
-        gameVersion: ["1.12.2", "1.16.5", "1.17.1"]
-        dirGameVersion: ["1.12", "1.16", "1.17"]
+        include:
+          - ref: Original-1.12
+            gameVersion: "1.12.2"
+            dirGameVersion: "1.12"
+          - ref: Original
+            gameVersion: "1.16.5"
+            dirGameVersion: "1.16"
+          - ref: Original-1.17
+            gameVersion: "1.17.1"
+            dirGameVersion: "1.17"
 
     steps:
       - uses: actions/checkout@v2
@@ -19,7 +26,9 @@ jobs:
       - uses: dart-lang/setup-dart@v1
 
       - name: 安裝依賴項
-        run: dart pub get
+        run: |
+          cd .\Scripts
+          dart pub get
 
       - name: "更新原始語系檔案"
         run: |
