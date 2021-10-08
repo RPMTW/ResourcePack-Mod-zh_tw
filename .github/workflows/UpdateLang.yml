@@ -22,27 +22,27 @@ jobs:
     steps:
       - uses: actions/checkout@v2
         with:
-          ref: ""
+          ref: ${{ matrix.ref }}
       - uses: dart-lang/setup-dart@v1
 
       - name: 安裝依賴項
         run: |
-          cd .\Scripts
+          cd Scripts
           dart pub get
 
       - name: "更新原始語系檔案"
         run: |
-          dart run .\Scripts\bin\main.dart --action update_lang --gameVersion ${{ matrix.gameVersion }} --dirGameVersion ${{ matrix.dirGameVersion }}
+          dart run ./Scripts/bin/main.dart --action update_lang --gameVersion ${{ matrix.gameVersion }} --dirGameVersion ${{ matrix.dirGameVersion }}
 
-      # - name: "提交檔案"
-      #   run: |
-      #     git config --global user.email "rpmtw666@gmail.com.com"
-      #     git config --global user.name "原始語系檔案更新機器人"
-      #     git add ./1.17/assets
-      #     git commit -m "更新原始語系檔案"
+      - name: "提交檔案"
+        run: |
+          git config --global user.email "rpmtw666@gmail.com.com"
+          git config --global user.name "原始語系檔案更新機器人"
+          git add ./1.17/assets
+          git commit -m "更新原始語系檔案"
 
-      # - name: "推送變更"
-      #   uses: ad-m/github-push-action@master
-      #   with:
-      #     github_token: ${{ secrets.GITHUB_TOKEN }}
-      #     branch: ${{ github.ref }}
+      - name: "推送變更"
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
