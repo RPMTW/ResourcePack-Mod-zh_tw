@@ -2,7 +2,7 @@ name: UpdateLang
 
 on:
   schedule:
-  - cron:  '0 0 */14 * *'
+    - cron: "0 0 */14 * *"
   workflow_dispatch:
 
 jobs:
@@ -20,6 +20,8 @@ jobs:
           - ref: Original-1.17
             gameVersion: "1.17.1"
             dirGameVersion: "1.17"
+      max-parallel: 1
+      fail-fast: false      
 
     steps:
       - uses: actions/checkout@v2
@@ -28,7 +30,7 @@ jobs:
       - uses: actions/checkout@v2
         with:
           ref: main
-          path: "main"    
+          path: "main"
       - uses: dart-lang/setup-dart@v1
 
       - name: 安裝依賴項
