@@ -5,10 +5,9 @@ on:
 
 jobs:
   Update:
-    runs-on: ${{ matrix.os }}
+    runs-on: ubuntu-latest
     strategy:
       matrix:
-        os: ["ubuntu-latest", "ubuntu-latest", "ubuntu-latest"]
         ref: ["Original-1.12", "Original", "Original-1.17"]
         gameVersion: ["1.12.2", "1.16.5", "1.17.1"]
         dirGameVersion: ["1.12", "1.16", "1.17"]
