@@ -1,0 +1,17 @@
+{
+  "name": "Gold Thruster",
+  "icon": "simplyjetpacks:thruster_vanilla2",
+  "category": "simplyjetpacks:vanilla",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "This is the Gold Thruster"
+    },
+    {
+      "type": "crafting",
+      "recipe": "simplyjetpacks:vanilla/thruster_vanilla2",
+      "text": "This is a test entry, but it should show up!"
+    }
+  ]
+}
