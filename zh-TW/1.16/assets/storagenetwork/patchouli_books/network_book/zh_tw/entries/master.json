@@ -1,0 +1,15 @@
+{
+  "name": "block.storagenetwork.master",
+  "icon": "storagenetwork:master",
+  "category": "storagenetwork:blocks",
+  "pages": [
+    {
+      "type": "text",
+      "text": "block.storagenetwork.master.guide"
+    },
+    {
+      "type": "crafting",
+      "recipe": "storagenetwork:master"
+    }
+  ]
+}
