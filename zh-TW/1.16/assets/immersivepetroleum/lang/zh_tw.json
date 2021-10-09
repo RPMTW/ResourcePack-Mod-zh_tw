@@ -117,5 +117,9 @@
     "chat.immersivepetroleum.info.coresample.oilRep": "最高以 %d mB/tick 的效率產出%s",
     "chat.immersivepetroleum.info.coresample.noOil": "沒有液體儲層",
     "key.categories.immersivepetroleum": "沉浸原油",
-    "key.immersivepetroleum.projector.flip": "鏡像投影"
+    "key.immersivepetroleum.projector.flip": "鏡像投影",
+    "death.attack.ipFlarestack": "%1$s was flared out of existence",
+    "death.attack.ipFlarestack.player": "%1$s was flared out of existence by %2$s",
+    "subtitle.immersivepetroleum.projector": "Projector whirring",
+    "subtitle.immersivepetroleum.flarestack_fire": "Flarestack fire wooshing"
 }
