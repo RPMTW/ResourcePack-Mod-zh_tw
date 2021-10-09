@@ -75,5 +75,11 @@
     "potion.transform.description": "Transform a tree into a %s tree",
     "potion.transform.description.empty": "Base tree potion for brewing transformations",
     "death.attack.falling_tree": "%1$s was crushed by a falling tree",
-    "block.dynamictrees.rooty_water": "Water Roots"
+    "block.dynamictrees.rooty_water": "Water Roots",
+    "species.dynamictrees.red_mushroom": "Red Mushroom",
+    "species.dynamictrees.brown_mushroom": "Brown Mushroom",
+    "item.dynamictrees.dendro_potion.harvest": "Potion of Harvest",
+    "item.dynamictrees.dendro_potion.denuding": "Potion of Denuding",
+    "potion.harvest.description": "Speeds up fruit production",
+    "potion.denuding.description": "Removes all bark and leaves from a tree"
 }
