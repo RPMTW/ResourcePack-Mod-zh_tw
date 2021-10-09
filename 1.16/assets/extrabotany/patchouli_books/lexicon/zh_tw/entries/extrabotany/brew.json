@@ -1,0 +1,55 @@
+{
+  "name": "extrabotany.entry.brew",
+  "category": "extrabotany:extrabotany",
+  "icon": "extrabotany:manadrink",
+  "advancement": "botania:main/runic_altar_pickup",
+  "pages": [
+    {
+      "type": "text",
+      "text": "extrabotany.page.brew0"
+    },
+    {
+      "type": "crafting",
+      "text": "extrabotany.page.brew1",
+      "recipe": "extrabotany:emptybottle"
+    },
+	{
+      "type": "text",
+      "text": "extrabotany.page.brew2"
+    },
+	    {
+      "type": "text",
+      "text": "extrabotany.page.brew3"
+    },
+    {
+      "type": "botania:brew",
+      "text": "extrabotany.page.brew4",
+      "recipe": "extrabotany:brew/revolution"
+    },
+    {
+      "type": "botania:brew",
+      "text": "extrabotany.page.brew5",
+      "recipe": "extrabotany:brew/shell"
+    },
+    {
+      "type": "botania:brew",
+      "text": "extrabotany.page.brew6",
+      "recipe": "extrabotany:brew/allmighty"
+    },
+    {
+      "type": "botania:brew",
+      "text": "extrabotany.page.brew7",
+      "recipe": "extrabotany:brew/deadpool"
+    },
+    {
+      "type": "botania:brew",
+      "text": "extrabotany.page.brew8",
+      "recipe": "extrabotany:brew/floating"
+    }
+  ],
+  "extra_recipe_mappings": {
+    "extrabotany:manadrink": 0,
+	"extrabotany:cocktail": 2,
+	"extrabotany:splashgrenade": 3
+  }
+}
