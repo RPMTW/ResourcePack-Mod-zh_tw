@@ -1,0 +1,22 @@
+{
+    "name": "岩漿山貓",
+    "icon": "minecraft:lava_bucket",
+    "category": "creatures",
+    "pages": [
+        {
+            "type": "animal_spawn_info",
+            "animal": "lava_cat",
+            "breed": "用烈焰粉繁殖;",
+            "tame": "用烈焰桿馴服。",
+            "blurb": "接觸水會使它變為黑曜石山貓！"
+        },
+        {
+            "type": "entity",
+            "name": "岩漿山貓",
+            "entity": "mysticalworld:lava_cat",
+            "scale": "0.5",
+            "offset": "-0.3",
+            "text": "反過來，接觸岩漿會讓它變回來！"
+        }
+    ]
+}
