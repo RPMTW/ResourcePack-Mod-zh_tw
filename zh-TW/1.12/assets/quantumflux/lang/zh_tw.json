@@ -1,8 +1,6 @@
 {
-    "_comment_0": " Misc",
     "itemGroup.tabQuantumFlux": "量子通量",
     "key.quantumflux.magnet": "切換量子通量磁鐵",
-    "_comment_1": " 物品",
     "item.amplificationCrystal.name": "放大晶體",
     "item.goldCasing.name": "金製外殼",
     "item.quibitCrystal.name": "量子比特水晶",
@@ -29,7 +27,6 @@
     "item.hamCheese.name": "火腿和乳酪三明治",
     "item.graphiteDust.name": "石墨粉",
     "item.linkingCard.name": "傳送台連接卡",
-    "_comment_2": " 方塊",
     "tile.graphiteOre.name": "工業級石墨礦",
     "tile.mobGlue.name": "Glue 陷阱",
     "tile.darkstone.plain.name": "暗黑秘石",
@@ -50,7 +47,6 @@
     "tile.rfExciter.name": "RF激勵器",
     "tile.containmentUnit.name": "遏制單元",
     "tile.telepad.name": "傳送台",
-    "_comment_3": " Chat",
     "chat.rfStored": "存有 %s RF",
     "chat.rfStored.max": "(容量 %s RF)",
     "chat.rfExciter.maxTransfer": "最大傳輸%sRF/t",
@@ -58,7 +54,6 @@
     "chat.telepad.link.success": "傳送成功連接！",
     "chat.telepad.link.stored": "傳送台坐標已記錄",
     "chat.telepad.link.clear": "傳送台坐標已清除",
-    "_comment_4": " Flair",
     "flair.item.netherBane": "月之軍刀",
     "flair.item.industrialDiamond": "通過石墨粉爆炸而產生",
     "flair.block.gluetrap": "僵屍可以進，但不能出"
