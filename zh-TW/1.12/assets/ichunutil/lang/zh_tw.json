@@ -74,10 +74,5 @@
     "window.saveAs.confirmOverwrite": "檔案已存在！確認覆蓋？",
     "window.saveAs.failed": "無法保存檔案。",
     "tile.ichunutil.block.compactporkchop.name": "壓縮生豬肉",
-    "entity.EntityBlock.name": "方塊實體",
-    "ichunutil.config.prop.enableLatchedRendererSpawn.name": "啟用鎖定渲染器生成？",
-    "ichunutil.config.prop.enableLatchedRendererSpawn.comment": "如果發現 iChunUtil 正在生成大量這些實體並導致延遲，請將其設定為 0。可能會影響我的一些模式。我沒能確定問題所在，注意，但是如果你沒有記憶體問題，忽略這個設定。",
-    "ichunutil.config.cat.module.eula.name": "最終使用者許可協議",
-    "ichunutil.config.cat.module.eula.comment": "最終使用者許可協議設定。",
-    "ichunutil.config.prop.eulaAcknowledged.name": "最終使用者許可協議已同意"
+    "entity.EntityBlock.name": "方塊實體"
 }
