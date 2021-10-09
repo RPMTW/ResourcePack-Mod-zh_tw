@@ -1,5 +1,8 @@
 import 'dart:convert';
 
+import 'package:gson/decoder.dart';
+import 'package:gson/encoder.dart';
+import 'package:gson/gson.dart';
 import 'package:toml/toml.dart';
 
 class ModMetadata {
@@ -15,7 +18,7 @@ class ModMetadata {
 
   factory ModMetadata.fromForge112(List<int> bytes) {
     String string = Utf8Decoder(allowMalformed: true).convert(bytes);
-    Map meta = json.decode(string)[0];
+    Map meta = gsonDecode(string)[0];
     return ModMetadata(meta['modid'], meta['name'], meta['version']);
   }
 
@@ -27,7 +30,7 @@ class ModMetadata {
 
   factory ModMetadata.fromFabric(List<int> bytes) {
     String string = Utf8Decoder(allowMalformed: true).convert(bytes);
-    Map meta = json.decode(string);
+    Map meta = gsonDecode(string);
     return ModMetadata(meta['id'], meta['name'], meta['version']);
   }
 }
