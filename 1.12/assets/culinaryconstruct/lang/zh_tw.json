@@ -1,7 +1,4 @@
 {
-    "_comment_0": "################",
-    "_comment_1": "     Config    #",
-    "_comment_2": "################",
     "culinaryconstruct.general.maxsaturation": "Max Ingredient Saturation",
     "culinaryconstruct.general.maxsaturation.tooltip": "Blacklist ingredients with more than this max saturation modifier, -1 to disable",
     "culinaryconstruct.general.maxfood": "Max Ingredient Food",
@@ -14,9 +11,6 @@
     "culinaryconstruct.general.maxsandwichnesting.tooltip": "The maximum number of times a sandwich can go into a sandwich",
     "culinaryconstruct.general.breadblacklist": "Bread Blacklist",
     "culinaryconstruct.general.breadblacklist.tooltip": "List of items to blacklist as bread",
-    "_comment_3": "################",
-    "_comment_4": "    General    #",
-    "_comment_5": "################",
     "tile.culinaryconstruct.sandwich_station.name": "Sandwich Station",
     "item.culinaryconstruct.sandwich.name": "Sandwich",
     "tooltip.culinaryconstruct.ingredients.name": "Ingredients",
