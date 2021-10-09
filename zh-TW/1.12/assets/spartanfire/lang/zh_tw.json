@@ -1,5 +1,4 @@
 {
-    "_comment_0": "物品",
     "item.spartanfire:ingot_custom.name": "%s 錠",
     "item.spartanfire:dagger_custom.name": "%s 匕首",
     "item.spartanfire:parrying_dagger_custom.name": "%s 格擋匕首",
@@ -31,7 +30,6 @@
     "tooltip.spartanfire:desert_venom": "命中並產生劇毒效果",
     "tooltip.spartanfire:fire_dragonsteel": "點燃並擊退目標",
     "tooltip.spartanfire:ice_dragonsteel": "對目標有擊退和緩慢效果",
-    "_comment_1": "材料",
     "material.spartanfire:dragonbone": "龍骨",
     "material.spartanfire:fire_dragonbone": "火龍骨",
     "material.spartanfire:ice_dragonbone": "冰龍骨",
