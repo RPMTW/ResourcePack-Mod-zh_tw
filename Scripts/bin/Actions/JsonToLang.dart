@@ -11,13 +11,16 @@ class JsonToLang {
   static final String route = "json_to_lang";
 
   static Future<void> run() async {
-    Directory assetsDir = PathUttily.getAssetsDirectory();
+    Directory assetsDir = PathUttily(zhTWPath: true).getAssetsDirectory();
     for (FileSystemEntity assets in assetsDir.listSync()) {
-      File langFile = PathUttily.getChineseLangFile(basename(assets.path));
-      File oldLangFile = PathUttily.getOldChineseLangFile(basename(assets.path));
+      File langFile = PathUttily(zhTWPath: true).getChineseLangFile(basename(assets.path));
+      File oldLangFile = PathUttily(zhTWPath: true).getOldChineseLangFile(basename(assets.path));
+
+      print("[ ${basename(assets.path)} ] 將模組的 Json 轉換為 Lang");
 
       if (langFile.existsSync()) {
         await oldLangFile.writeAsString(LangUttily.jsonToOldLang(json.decode(await langFile.readAsString())));
+        await langFile.delete(recursive: true);
       }
     }
   }

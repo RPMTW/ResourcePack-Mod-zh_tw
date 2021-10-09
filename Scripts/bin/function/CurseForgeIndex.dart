@@ -4,7 +4,7 @@ import 'dart:io';
 import 'PathUttily.dart';
 
 class CurseForgeIndex {
-  File get file => PathUttily.getCuseForgeIndexFile();
+  File get file => PathUttily().getCuseForgeIndexFile();
 
   late Map _index;
 

@@ -5,6 +5,7 @@ on:
     branches: [Translated-1.12]
     paths:
       - "zh-TW/**"
+      - "Add-on/**"
   workflow_dispatch:
 
 jobs:

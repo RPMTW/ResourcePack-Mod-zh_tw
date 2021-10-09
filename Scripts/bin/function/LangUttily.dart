@@ -7,6 +7,7 @@ import 'package:path/path.dart';
 
 import '../main.dart';
 import 'PathUttily.dart';
+import 'PathUttily.dart';
 
 class LangUttily {
   /// Lang轉換為Json格式，由 https://gist.github.com/ChAoSUnItY/31c147efd2391b653b8cc12da9699b43 修改並移植而成
@@ -63,10 +64,10 @@ class LangUttily {
 
     /// 由於 1.12 使用舊版語系檔案格式
     if (dirGameVersion == "1.12") {
-      chineseLang = PathUttily.getOldChineseLangFile(modID);
+      chineseLang = PathUttily().getOldChineseLangFile(modID);
       englishLangMap = oldLangToMap(englishLang);
     } else {
-      chineseLang = PathUttily.getChineseLangFile(modID);
+      chineseLang = PathUttily().getChineseLangFile(modID);
       englishLangMap = gsonDecode(englishLang);
     }
 
@@ -78,7 +79,7 @@ class LangUttily {
     /// 新增英文語系檔案的內容
     langMap.addAll(englishLangMap);
 
-    PathUttily.getChineseLangFile(modID)
+    PathUttily().getChineseLangFile(modID)
       ..createSync(recursive: true)
       ..writeAsStringSync(JsonEncoder.withIndent('    ').convert(langMap));
   }
@@ -92,7 +93,7 @@ class LangUttily {
       if (fileName.startsWith("data/$modID/patchouli_books") || fileName.startsWith("assets/$modID/patchouli_books")) {
         /// 如果是檔案才處理
         if (file.isFile) {
-          Directory patchouliBooksDir = PathUttily.getPatchouliBooksDirectory(modID);
+          Directory patchouliBooksDir = PathUttily().getPatchouliBooksDirectory(modID);
 
           /// assets/[modID]/patchouli_books/[BookName]/[Lang_Code]/......
 
