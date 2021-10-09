@@ -18,7 +18,7 @@ on:
       ref:
         description: "執行分支"
         required: true
-        default: "Translated-1.17"
+        default: "Original-1.17"
 
 jobs:
   build:
