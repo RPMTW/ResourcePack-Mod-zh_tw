@@ -67,6 +67,8 @@ class DownloadModLangFile {
       try {
         List<String> modIDList = _getHasLangMod(archive);
         for (String modID in modIDList) {
+          if (modID == "minecraft") continue;
+
           Future<void> _runLangWrite(ArchiveFile file) async {
             await LangUttily.write(modID, Utf8Decoder(allowMalformed: true).convert(file.content as List<int>));
           }
