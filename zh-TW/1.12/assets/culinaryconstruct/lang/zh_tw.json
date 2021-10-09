@@ -1,7 +1,4 @@
 {
-    "_comment_0": "################",
-    "_comment_1": " Config #",
-    "_comment_2": "################",
     "culinaryconstruct.general.maxsaturation": "配料已達最大飽足度",
     "culinaryconstruct.general.maxsaturation.tooltip": "將內餡用多於最大飽食度的數值加入黑名單，設置-1已關閉",
     "culinaryconstruct.general.maxfood": "最大配料食物",
@@ -14,9 +11,6 @@
     "culinaryconstruct.general.maxsandwichnesting.tooltip": "三明治能被多次組裝的最大次數",
     "culinaryconstruct.general.breadblacklist": "麵包黑名單",
     "culinaryconstruct.general.breadblacklist.tooltip": "麵包類物品黑名單",
-    "_comment_3": "################",
-    "_comment_4": "    General    #",
-    "_comment_5": "################",
     "tile.culinaryconstruct.sandwich_station.name": "三明治組裝台",
     "item.culinaryconstruct.sandwich.name": "三明治",
     "tooltip.culinaryconstruct.ingredients.name": "Ingredients（原料）",
