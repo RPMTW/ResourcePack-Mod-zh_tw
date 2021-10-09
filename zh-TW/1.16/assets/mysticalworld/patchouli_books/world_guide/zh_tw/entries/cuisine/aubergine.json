@@ -1,0 +1,32 @@
+{
+    "name": "茄子",
+    "icon": "mysticalworld:aubergine",
+    "category": "cuisine",
+    "pages": [
+        {
+            "type": "spotlight",
+            "link_recipe": true,
+            "item": "mysticalworld:aubergine_seeds",
+            "text": "茄子種子可以割草獲得。"
+        },
+        {
+            "type": "spotlight",
+            "link_recipe": true,
+            "item": "mysticalworld:aubergine",
+            "text": "成熟之後收割的茄子可以直接吃，也可以用作其他料理的食材！",
+            "title": "茄子作物"
+        },
+        {
+            "type": "smelting",
+            "recipe": "mysticalworld:cooked_aubergine",
+            "title": "Cooked Aubergine",
+            "text": "Once cooked and with the seeds removed, further additions can be made to the aubergine to make it even tastier!"
+        },
+        {
+            "type": "crafting",
+            "recipe": "mysticalworld:stuffed_aubergine",
+            "title": "Stuffed Aubergine",
+            "text": "A great vegetarian delicacy, the aubergine is combined with beets, carrots & potatoes for a truly magnificent meal!"
+        }
+    ]
+}
