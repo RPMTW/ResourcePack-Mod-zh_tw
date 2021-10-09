@@ -53,5 +53,9 @@
     "sidebar_button.ftblibrary.toggle.night": "設定為黑夜",
     "sidebar_button.ftblibrary.toggle.night.tooltip": "設定為黑夜",
     "ftblibrary.select_item.list_mode.jei": "JEI",
-    "ftblibrary.select_item.list_mode.rei": "REI"
+    "ftblibrary.select_item.list_mode.rei": "REI",
+    "item.ftblibrary.fluid_container": "Fluid Container",
+    "item.ftblibrary.fluid_container.use": "Right-click on a tank to empty the container",
+    "ftblibrary.mb": "%d mB of %s",
+    "ftblibrary.empty": "Empty"
 }
