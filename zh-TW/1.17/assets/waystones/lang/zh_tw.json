@@ -50,5 +50,11 @@
     "waystones.cost.xp": "經驗",
     "waystones.cost.health": "半顆心",
     "waystones.cost.level": "等級",
-    "itemGroup.waystones.waystones": "傳送石碑"
+    "itemGroup.waystones.waystones": "傳送石碑",
+    "item.waystones.desert_waystone": "Desert Waystone",
+    "item.waystones.stone_brick_waystone": "Stone Brick Waystone",
+    "block.waystones.desert_waystone": "Desert Waystone",
+    "block.waystones.stone_brick_waystone": "Stone Brick Waystone",
+    "waystones.learned": "Learned one new waystone!",
+    "waystones.learned.multiple": "Learned %1$s new waystones!"
 }
