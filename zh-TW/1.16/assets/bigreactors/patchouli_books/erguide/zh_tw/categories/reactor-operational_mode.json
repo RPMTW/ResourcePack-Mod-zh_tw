@@ -1,0 +1,7 @@
+{
+    "name": "操作模式",
+    "description": "反應爐可以分為兩種模式開始工作：被動冷卻或自己啟動冷卻。$(br2)這個操作模式決定反應爐生產中當啟動時。",
+    "icon": "bigreactors:reinforced_reactorfluidport_forge_passive",
+    "parent": "bigreactors:reactor",
+    "sortnum": 1
+}
