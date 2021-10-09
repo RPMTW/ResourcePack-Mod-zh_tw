@@ -1,6 +1,4 @@
 {
-    "_comment_0": " zerocore lang file",
-    "_comment_1": "API - multiblock",
     "zerocore:api.multiblock.validation.success": "機器已生效",
     "zerocore:api.multiblock.validation.too_few_parts": "機器太小",
     "zerocore:api.multiblock.validation.machine_too_large": "機器太大，在 %2$s 軸最多有 %1$d 個方塊",
@@ -12,7 +10,6 @@
     "zerocore:api.multiblock.validation.invalid_part_for_sides": "位於 %1$d, %2$d, %3$d 的方塊不是有效的機器側面",
     "zerocore:api.multiblock.validation.invalid_part_for_interior": "位於 %1$d, %2$d, %3$d 的方塊不是有效的機器內部",
     "zerocore:api.multiblock.validation.invalid_foreign_part": "在 %1$d, %2$d, %3$d 的方塊屬於另一台機器",
-    "_comment_2": " Items",
     "item.zerocore:debugtool.name": "除錯工具",
     "zerocore:debugTool.tile.header": "位於%2$d，%3$d，%4$d的Tile Entity在%1$s方面的除錯分析報告",
     "zerocore:debugTool.block.header": "位於%2$d，%3$d，%4$d的方塊在%1$s方面的除錯分析報告",
@@ -22,10 +19,8 @@
     "zerocore:debugTool.block.tooltip1": "右擊方塊顯示除錯資訊",
     "zerocore:debugTool.block.tooltip2": "%1$s預設在伺服器端查詢",
     "zerocore:debugTool.block.tooltip3": "%1$s潛行：%2$s在用戶端查詢",
-    "_comment_3": " Debug-tools messages",
     "debug.zerocore.true": "True",
     "debug.zerocore.false": "False",
-    "_comment_4": " Version checker",
     "zerocore:vercheck.update1": "§6一個§l新§r§6版本§f %2$s §6可用（§f%1$s§6）：§f請更新！！！",
     "zerocore:vercheck.update2": "§6一個§l新§r§6版本§f %2$s §6可用（§f%1$s§6）：§f %3$s"
 }
