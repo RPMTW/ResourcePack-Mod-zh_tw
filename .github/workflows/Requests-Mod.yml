@@ -32,17 +32,14 @@ jobs:
           args: ${{ github.event.inputs.curseForgeID }}
           gameVersion: ${{ github.event.inputs.gameVersion }}
 
-      - name: "提交檔案"
-        continue-on-error: true
-        run: |
-          git config --global user.email "rpmtw666@gmail.com.com"
-          git config --global user.name "RPMTW Bot"
-          git add ./
-          git commit -m "新增請求的語系檔案"
-          exit 0
-
       - name: "推送變更"
-        continue-on-error: true
-        run: |
-          git push
-          exit 0
+        uses: github-actions-x/commit@v2.8
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          push-branch: ${{ github.event.inputs.ref }}
+          commit-message: "新增請求的語系檔案"
+          force-add: true
+          files: ./${{ github.event.inputs.gameVersion }}/assets
+          name: RPMTW Bot
+          email: rpmtw666@gmail.com
+          rebase: true
