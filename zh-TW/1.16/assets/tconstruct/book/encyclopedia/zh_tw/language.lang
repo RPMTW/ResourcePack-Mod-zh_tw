@@ -1,27 +1,37 @@
-// Sections
+部分
 intro=簡介
+
+small_tools=Small Tools
+small_tools.info=Tool Information
+large_tools=Broad Tools
+large_tools.info=Tool Information
+
 tier_one_materials=第一階段材料
 tier_two_materials=第二階段材料
 tier_three_materials=第三階段材料
 tier_four_materials=第四階段材料
 
+upgrades=Upgrades
+upgrades.subtext=Each tool gets a limited total number of upgrades slots.
+upgrades.general=§1§lGeneral§r
+upgrades.harvest=§1§lHarvest§r
+upgrades.weapon=§1§lWeapon§r
+
+slotless=Slotless
+slotless.subtext=Slotless modifiers do not require any slots.
+slotless.general=§1§lGeneral§r
+slotless.bonus=§1§lBonus§r
+
+abilities=Abilities
+abilities.subtext=Ability modifiers have fewer slots than upgrades, but are stronger per slot.
+abilities.general=§1§lGeneral§r
+abilities.harvest=§1§lHarvest§r
+abilities.interact=§1§lInteraction§r
+
 modifier.effect=效果:
 tool.properties=屬性:
 
-material.craft_partbuilder=可於部件加工台被製作
-material.craft_casting=可被製造於
-
 tier_one_materials.subtext=這些材料容易取得，並且可以放在部件加工台來製作工具部件
-material.tconstruct.wood.book=如果土撥鼠可以夾住木頭，那牠可以夾多少木頭？(英文雙關繞口令)
-material.tconstruct.stone.book=堅若磐石
-material.tconstruct.flint.book=這將點燃修補匠心中的火焰！
-material.tconstruct.bone.book=吾為所持劍之骨
-material.tconstruct.necrotic_bone.book=你對我有意見嗎？
-
 tier_two_materials.subtext=這些素材需要熔煉並鑄模才能製作而成，而且可能會更稀有一些
-material.tconstruct.slimewood.book=將史萊姆黏液澆鑄在木製部件上，可製作出耐用又可再生的材料！
-
 tier_three_materials.subtext=這些素材需經鑄鍊成能形成，可以使用合金爐或冶煉廠來鑄鍊
-material.tconstruct.nahuatl.book=一種古老的材料，由熔化的黑曜石鑄在木製零件上製成
-
 tier_four_materials.subtext=這些材料不得不透過在地獄裏的探索而得到
