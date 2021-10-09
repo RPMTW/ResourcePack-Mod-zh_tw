@@ -1890,5 +1890,14 @@
     "pneumaticcraft.waila.tank": "Tank #%d: %s",
     "pneumaticcraft.waila.temperatureGain": "§7Heat Absorption: §f%d%%",
     "pneumaticcraft.waila.temperatureLoss": "§7Heat Extraction: §f%d%%",
-    "programmingPuzzle.pneumaticcraft.drone_condition_upgrades.name": "Drone Condition: Upgrades"
+    "programmingPuzzle.pneumaticcraft.drone_condition_upgrades.name": "Drone Condition: Upgrades",
+    "block.pneumaticcraft.display_shelf": "Display Shelf",
+    "entity.pneumaticcraft.amadrone": "Amadron Delivery Drone",
+    "pneumaticcraft.gui.amadron.location.biomes": "▶ Biome Types:",
+    "pneumaticcraft.gui.amadron.location.blacklist": "Not available in:",
+    "pneumaticcraft.gui.amadron.location.dimensions": "▶ Dimensions:",
+    "pneumaticcraft.gui.amadron.location.whitelist": "Only available in:",
+    "pneumaticcraft.gui.amadron.location.unavailable": "Unavailable at this location!",
+    "pneumaticcraft.gui.tab.problems.amadron.noInventory": "§fMissing inventory or fluid tank.${br}§0Right-click an inventory and/or fluid tank with your Amadron Tablet.",
+    "pneumaticcraft.gui.tab.redstoneBehaviour.uvLightBox.interpolate": "Interpolate Threshold"
 }
