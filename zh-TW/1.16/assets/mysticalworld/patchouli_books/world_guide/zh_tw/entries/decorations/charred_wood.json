@@ -1,0 +1,37 @@
+{
+    "name": "燒焦的原木",
+    "icon": "mysticalworld:charred_log",
+    "category": "decorations",
+    "pages": [
+        {
+            "type": "spotlight",
+            "link_recipe": true,
+            "item": "mysticalworld:charred_log",
+            "text": "你可以找到被雷電擊中或者被野火燒焦的樹木，它們現在主要作為裝飾用途了。$(br2)你也可以用打火石和原版原木合成得到燒焦的原木，損耗打火石的1點耐久；用火焰彈合成也可以，但是會消耗火焰彈。"
+        },
+        {
+            "type": "crafting",
+            "recipe": "mysticalworld:charred_log_from_8_logs",
+            "recipe2": "mysticalworld:charred_log_from_single_log"
+        },
+        {
+            "type": "crafting",
+            "link_recipe": true,
+            "recipe": "mysticalworld:charred_planks",
+            "text": "燒焦的原木也可以像原版原木一樣分解為木板。"
+        },
+        {
+            "type": "crafting",
+            "link_recipe": true,
+            "recipe": "mysticalworld:charred_stairs",
+            "recipe2": "mysticalworld:charred_slab",
+            "text": "燒焦的木板可以做成相應的裝飾方塊。"
+        },
+        {
+            "type": "crafting",
+            "recipe": "mysticalworld:charred_wall",
+            "recipe2": "mysticalworld:charred_fence",
+            "link_recipe": true
+        }
+    ]
+}
