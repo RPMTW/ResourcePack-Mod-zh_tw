@@ -1,0 +1,49 @@
+name: Requests-Mod
+
+on:
+  workflow_dispatch:
+    inputs:
+      curseForgeID:
+        description: "CurseForge 專案 ID"
+        required: true
+        default: "306612" #306612 為 Fabric API 的 CurseForge 專案 ID 作為預設值
+      gameVersion:
+        description: "遊戲版本"
+        required: true
+        default: "1.17.1"
+      dirGameVersion:
+        description: "資料夾版本"
+        required: true
+        default: "1.17"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          ref: Translated-1.17
+
+      - name: "下載模組的語系檔案"
+        uses: RPMTW/Translation-Scripts@main
+        with:
+          action: "download_mod"
+          args: ${{ github.event.inputs.curseForgeID }}
+          gameVersion: ${{ github.event.inputs.gameVersion }}
+          dirGameVersion: ${{ github.event.inputs.dirGameVersion }}
+
+      - name: "提交檔案"
+        continue-on-error: true
+        run: |
+          git config --global user.email "rpmtw666@gmail.com.com"
+          git config --global user.name "RPMTW Bot"
+          git add ./
+          git commit -m "新增請求的語系檔案"
+          exit 0
+
+      - name: "推送變更"
+        continue-on-error: true
+        run: |
+          git push
+          exit 0
