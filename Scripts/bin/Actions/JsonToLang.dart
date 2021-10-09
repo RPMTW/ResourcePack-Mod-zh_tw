@@ -13,9 +13,11 @@ class JsonToLang {
   static Future<void> run() async {
     Directory assetsDir = PathUttily.getAssetsDirectory();
     for (FileSystemEntity assets in assetsDir.listSync()) {
-      File langFile = PathUttily.getOldChineseLangFile(basename(assets.path));
+      File langFile = PathUttily.getChineseLangFile(basename(assets.path));
+      File oldLangFile = PathUttily.getOldChineseLangFile(basename(assets.path));
+
       if (langFile.existsSync()) {
-        await langFile.writeAsString(LangUttily.jsonToOldLang(json.decode(await langFile.readAsString())));
+        await oldLangFile.writeAsString(LangUttily.jsonToOldLang(json.decode(await langFile.readAsString())));
       }
     }
   }
