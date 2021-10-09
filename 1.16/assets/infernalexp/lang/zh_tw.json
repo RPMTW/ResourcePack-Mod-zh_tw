@@ -363,5 +363,9 @@
     "infernalexp.config.option.luminousFungusGivesEffect": "Luminous Fungus gives Luminance Effect",
     "infernalexp.config.tooltip.luminousFungusGivesEffect": "Determines whether Luminous Fungus gives the Luminance effect on collision with an entity",
     "infernalexp.commands.setdimensionspawn.success.single": "Set %s's spawnpoint to %s, %s, %s [%s] in %s",
-    "infernalexp.commands.setdimensionspawn.success.multiple": "Set %s players' spawnpoints to %s, %s, %s [%s] in %s"
+    "infernalexp.commands.setdimensionspawn.success.multiple": "Set %s players' spawnpoints to %s, %s, %s [%s] in %s",
+    "block.infernalexp.luminous_stem": "Luminous Stem",
+    "block.infernalexp.stripped_luminous_stem": "Stripped Luminous Stem",
+    "block.infernalexp.luminous_hyphae": "Luminous Hyphae",
+    "block.infernalexp.stripped_luminous_hyphae": "Stripped Luminous Hyphae"
 }
