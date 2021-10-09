@@ -44,7 +44,7 @@ jobs:
           dart run ./main/Scripts/bin/main.dart --action update_lang --gameVersion ${{ matrix.gameVersion }} --dirGameVersion ${{ matrix.dirGameVersion }}
 
       - name: "推送變更"
-        uses: ad-m/github-actions-x/commit@v2.8
+        uses: github-actions-x/commit@v2.8
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           push-branch: ${{ matrix.ref }}
