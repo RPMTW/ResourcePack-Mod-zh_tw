@@ -1,9 +1,4 @@
 {
-    "_comment_0": "JEI Integration 語言檔案",
-    "_comment_1": "## Language Name: English",
-    "_comment_2": "## Language Region: United States",
-    "_comment_3": "## Language Code: en_us",
-    "_comment_4": " 配置",
     "config.jeiintegration.default": "預設",
     "config.jeiintegration.valid": "有效",
     "config.jeiintegration.title": "JEI Integration設定",
@@ -29,7 +24,6 @@
     "config.jeiintegration.tooltips.oreDictEntriesTooltipMode.comment": "設定礦物詞典提示文字的陳述。",
     "config.jeiintegration.tooltips.unlocalizedNameTooltipMode": "未本地化名提示文字",
     "config.jeiintegration.tooltips.unlocalizedNameTooltipMode.comment": "設定本地化名提示文字的陳述。",
-    "_comment_5": " Tooltips",
     "tooltip.jeiintegration.metadata": "元數據：",
     "tooltip.jeiintegration.nbtTagData": "NBT：",
     "tooltip.jeiintegration.durability": "耐久：",
