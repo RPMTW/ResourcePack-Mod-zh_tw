@@ -1,0 +1,22 @@
+{
+    "name": "甲蟲",
+    "icon": "mysticalworld:carapace",
+    "category": "creatures",
+    "pages": [
+        {
+            "type": "animal_spawn_info",
+            "animal": "beetle",
+            "breed": "使用西瓜繁殖;",
+            "tame": "使用西瓜種子馴服。",
+            "blurb": "Shoulder-riding is temporarily disabled in 1.15.2! :("
+        },
+        {
+            "type": "entity",
+            "name": "甲蟲",
+            "entity": "mysticalworld:beetle",
+            "scale": "1.5",
+            "offset": "-0.3",
+            "text": ""
+        }
+    ]
+}
