@@ -10,10 +10,6 @@ on:
       gameVersion:
         description: "遊戲版本"
         required: true
-        default: "1.17.1"
-      dirGameVersion:
-        description: "資料夾版本"
-        required: true
         default: "1.17"
       ref:
         description: "執行分支"
@@ -35,7 +31,6 @@ jobs:
           action: "download_mod"
           args: ${{ github.event.inputs.curseForgeID }}
           gameVersion: ${{ github.event.inputs.gameVersion }}
-          dirGameVersion: ${{ github.event.inputs.dirGameVersion }}
 
       - name: "提交檔案"
         continue-on-error: true
