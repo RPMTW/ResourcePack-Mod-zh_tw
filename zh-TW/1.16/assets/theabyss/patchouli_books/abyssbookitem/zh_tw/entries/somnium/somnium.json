@@ -1,0 +1,42 @@
+{
+	"name": "Somnium",
+	"icon": "theabyss:somnium",
+	"category": "somnium",
+	"advancement": "theabyss:loran_adv",
+	"priority": false,
+	"secret": false,
+	"read_by_default": false,
+	"pages": [
+		{
+			"type": "spotlight",
+			"item": "theabyss:somnium",
+			"title": "Somnium",
+			"link_recipe": false,
+			"text": "Somnium is an energy source that can be extracted from Loran. Somnium extractors require both loran and Loran Catalyst.Through processes unknown to few save the Somnic Masters, the Loran is converted into usable Somnium."
+		},
+		{
+			"type": "multiblock",
+			"text": "Somnium can be extracted from loran.",
+			"name": "Loran Flower",
+			"multiblock": {
+				"pattern": [
+					[
+						"0"
+					],
+					[
+						"A"
+					],
+					[
+						"A"
+					],
+					[
+						" "
+					]
+				],
+				"mapping": {
+					"A": "theabyss:loranflower"
+				}
+			}
+		}
+	]
+}
