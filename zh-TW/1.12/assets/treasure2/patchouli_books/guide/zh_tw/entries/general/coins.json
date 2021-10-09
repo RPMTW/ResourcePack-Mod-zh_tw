@@ -1,0 +1,20 @@
+{
+    "name": "Coins, Gems and Pearls",
+    "icon": "treasure2:ruby",
+    "category": "general",
+    "sortnum": 4,
+    "pages": [
+        {
+            "type": "text",
+            "title": "Coins, Gems and Pearls",
+            "text": "Some of the loot you may find or harvest are treasure coins, gems, or pearls.$(br)$(bold)Coins$()$(br) $(li)Gold Coin$()$(li)Silver Coin$()$(br)Gold is the rarer and more valuable of the two.$(br)$(b)Gems$()$(br)There are two kinds of gems - Ruby and Sapphire, which are both equal in value.($br)$(b)Pearls$()$(br)There are two kinds of pearls"
+        },
+        {
+            "type": "image",
+            "text": "A Wishing Well",
+            "images": [
+                ""
+            ]
+        }
+    ]
+}
