@@ -1,5 +1,4 @@
 {
-    "_comment_0": "備份",
     "aromabackup:backup.start.server": "開始備份。伺服器可能會產生卡頓！",
     "aromabackup:backup.start.client": "開始備份。世界可能會發生卡頓！",
     "aromabackup:backup.done.server": "伺服器備份完成！",
@@ -8,7 +7,6 @@
     "aromabackup:backup.failed.client": "世界備份失敗！",
     "aromabackup:backup.next.server": "下一個備份在%s分鐘後。",
     "aromabackup:backup.next.client": "下一個備份在%s分鐘後。",
-    "_comment_1": "命令",
     "aromabackup:command.commandOverride": "無法執行%s指令，因為備份目前正在執行。",
     "aromabackup:command.alreadyrunning": "備份已經在執行。",
     "aromabackup:command.playerstarted": "%s開始備份。"
