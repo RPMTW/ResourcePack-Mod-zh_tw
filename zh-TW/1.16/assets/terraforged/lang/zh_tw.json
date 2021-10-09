@@ -369,5 +369,20 @@
     "tooltip.terraforged.world.control_points.shallow_ocean": "控制淺海到海岸地形的過渡係數。\n與「海岸」設定係數的差距越大，過渡越平緩。",
     "tooltip.terraforged.world.properties.sea_level": "控制海平面高度",
     "tooltip.terraforged.world.properties.spawn_type": "設定出生地將儘可能靠近x=0,z=0，或是最近的大陸中心",
-    "tooltip.terraforged.world.properties.world_height": "控制世界高度"
+    "tooltip.terraforged.world.properties.world_height": "控制世界高度",
+    "display.terraforged.minecraft:bastion_remnant": "minecraft:bastion_remnant",
+    "display.terraforged.minecraft:endcity": "minecraft:endcity",
+    "display.terraforged.minecraft:fortress": "minecraft:fortress",
+    "display.terraforged.minecraft:nether_fossil": "minecraft:nether_fossil",
+    "display.terraforged.minecraft:stronghold": "minecraft:stronghold",
+    "display.terraforged.world.continent.continent_noise_gain": "Continent Noise Gain",
+    "display.terraforged.world.continent.continent_noise_lacunarity": "Continent Noise Lacunarity",
+    "display.terraforged.world.continent.continent_noise_octaves": "Continent Noise Octaves",
+    "display.terraforged.world.continent.continent_size_variance": "Continent Size Variance",
+    "display.terraforged.world.continent.continent_skipping": "Continent Skipping",
+    "tooltip.terraforged.world.continent.continent_noise_gain": "The contribution strength of each noise octave.",
+    "tooltip.terraforged.world.continent.continent_noise_lacunarity": "The frequency multiplier for each noise octave.",
+    "tooltip.terraforged.world.continent.continent_noise_octaves": "The number of octaves of noise used to distort the continent.",
+    "tooltip.terraforged.world.continent.continent_size_variance": "Increases the variance of continent sizes.",
+    "tooltip.terraforged.world.continent.continent_skipping": "Reduces the number of continents to create more vast oceans."
 }
