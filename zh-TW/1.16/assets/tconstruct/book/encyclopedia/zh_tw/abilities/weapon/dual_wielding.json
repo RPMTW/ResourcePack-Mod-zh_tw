@@ -2,10 +2,10 @@
   "modifier_id": "tconstruct:dual_wielding",
   "text": [
     {
-      "text": "Allows the tool to be used from both the main and the offhand. Tools with dual wielding have 80% attack speed and damage, or 90% attack speed and 70% damage for two handed tool."
+      "text": "允許從主手和副手使用該工具。雙持工具有 80% 的攻擊速度和傷害，或 90% 的攻擊速度和 70% 的雙手工具傷害。"
     },
     {
-      "text": "Two handed tools must first receive offhanded in order to receive dual wielding.",
+      "text": "雙手工具必須首先解放副手才能接受雙持。",
       "paragraph": true
     }
   ],
