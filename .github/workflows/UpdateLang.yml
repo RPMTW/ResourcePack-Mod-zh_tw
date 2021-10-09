@@ -12,14 +12,11 @@ jobs:
       matrix:
         include:
           - ref: Original-1.12
-            gameVersion: "1.12.2"
-            dirGameVersion: "1.12"
+            gameVersion: "1.12"
           - ref: Original
-            gameVersion: "1.16.5"
-            dirGameVersion: "1.16"
+            gameVersion: "1.16"
           - ref: Original-1.17
-            gameVersion: "1.17.1"
-            dirGameVersion: "1.17"
+            gameVersion: "1.17"
       max-parallel: 1
       fail-fast: false
 
@@ -33,7 +30,6 @@ jobs:
         with:
           action: "update_lang"
           gameVersion: ${{ matrix.gameVersion }}
-          dirGameVersion: ${{ matrix.dirGameVersion }}
 
       - name: "推送變更"
         uses: github-actions-x/commit@v2.8
