@@ -1,0 +1,21 @@
+{
+    "itemGroup.drinkbeer.beer": "Beer",
+    "itemGroup.drinkbeer.general": "DrinkBeer General Blocks",
+    "block.drinkbeer.beer_mug": "Miner Pale Ale",
+    "block.drinkbeer.beer_mug_blaze_stout": "Blaze Stout",
+    "block.drinkbeer.beer_mug_blaze_milk_stout": "Blaze Milk Stout",
+    "block.drinkbeer.beer_mug_apple_lambic": "Apple Lambic",
+    "block.drinkbeer.beer_mug_sweet_berry_kriek": "Sweet Berry Kriek",
+    "block.drinkbeer.beer_mug_haars_icey_pale_lager": "Haar's Icey Pale Lager",
+    "block.drinkbeer.beer_mug_pumpkin_kvass": "Pumpkin Kvass",
+    "block.drinkbeer.empty_beer_mug": "Empty Beer Mug",
+    "block.drinkbeer.beer_barrel": "Keg",
+    "item.drinkbeer.beer_mug.tooltip": "Haste 1:00",
+    "item.drinkbeer.beer_mug_blaze_stout.tooltip": "Fire Resistance 1:30",
+    "item.drinkbeer.beer_mug_blaze_milk_stout.tooltip": "Fire Resistance 2:00",
+    "item.drinkbeer.beer_mug_apple_lambic.tooltip": "Regeneration 0:15",
+    "item.drinkbeer.beer_mug_sweet_berry_kriek.tooltip": "Regeneration 0:20",
+    "item.drinkbeer.beer_mug_haars_icey_pale_lager.tooltip": "Drunk Frost Walker 1:00",
+    "drinkbeer.restores_hunger": "Restores Hunger: ",
+    "effect.drinkbeer.drunk_frost_walker": "Drunk Frost Walker"
+}
