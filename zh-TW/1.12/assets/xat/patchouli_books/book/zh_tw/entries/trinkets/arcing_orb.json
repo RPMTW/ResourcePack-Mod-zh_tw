@@ -9,7 +9,7 @@
         },
         {
             "type": "text",
-            "text": "$(l)Default Attribute modifiers:$()$(br)$(2)+10%$() Movement Speed$(br2)$(l)Mod Compatibility:$()$(br)$(n)Lycanites$(): Immunity to the stunned potion effect"
+            "text": "$(l)Default Attribute modifiers:$()$(br)$(2)+10%$() Movement Speed$(br2)$(l)Mod Compatibility:$()$(br)$(n)Lycanites$(): Immunity to the stunned potion effect$(br)$(n)Elenai Dodge 1$(): Dodging is handled by Elenai Dodge and not the arcing orb, lightning effect still triggers when dodging"
         },
         {
             "type": "crafting",
