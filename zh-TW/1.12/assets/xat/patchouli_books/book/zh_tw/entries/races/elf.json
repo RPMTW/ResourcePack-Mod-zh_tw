@@ -5,7 +5,7 @@
     "pages": [
         {
             "type": "text",
-            "text": "The Elf race is proficient in ranged combat, being capable of charging bow shots to make them deal more damage. They also have affinity with the forest, gaining a speed bonus while in one. Due to having no downsides, it is recommended to pick this race if you want to experience a unique race without any negative consequences."
+            "text": "The Elf race is proficient in ranged combat, being capable of charging bow shots to make them deal more damage. They also have affinity with the forest, gaining a speed bonus while in one. Due to having no downsides, it is recommended to pick this race if you want to experience a unique race without any negative consequences for incorrectly using it."
         },
         {
             "type": "text",
@@ -13,7 +13,7 @@
         },
         {
             "type": "text",
-            "text": "$(l)Ability: Charged Bow Shot$()$(br)Sneaking while drawing a bow activates a power shot, strengthening the damage at the cost of 20 mana."
+            "text": "$(l)Ability: Charged Bow Shot$()$(br)Sneaking while drawing a bow begins to charge a power shot at the cost of mana. Releasing an arrow at any point during this increases the damage, and fully charging a shot causes it to explode on impact (this will not break blocks)."
         },
         {
             "type": "crafting",
