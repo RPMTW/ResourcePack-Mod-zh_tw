@@ -18,7 +18,7 @@ class ModMetadata {
 
   factory ModMetadata.fromForge112(List<int> bytes) {
     String string = Utf8Decoder(allowMalformed: true).convert(bytes);
-    Map meta = gsonDecode(string)[0];
+    Map meta = json.decode(string)[0];
     return ModMetadata(meta['modid'], meta['name'], meta['version']);
   }
 

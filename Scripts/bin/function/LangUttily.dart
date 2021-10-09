@@ -59,15 +59,13 @@ class LangUttily {
 
   static Future<void> write(String modID, String englishLang) async {
     Map langMap = {};
-    late File chineseLang;
+    File chineseLang = PathUttily().getChineseLangFile(modID);
     late Map englishLangMap;
 
     /// 由於 1.12 使用舊版語系檔案格式
     if (dirGameVersion == "1.12") {
-      chineseLang = PathUttily().getOldChineseLangFile(modID);
       englishLangMap = oldLangToMap(englishLang);
     } else {
-      chineseLang = PathUttily().getChineseLangFile(modID);
       englishLangMap = gsonDecode(englishLang);
     }
 
