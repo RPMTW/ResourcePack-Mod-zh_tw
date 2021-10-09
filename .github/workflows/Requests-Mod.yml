@@ -1,4 +1,4 @@
-name: Requests-Mod
+name: Requests Mod
 
 on:
   workflow_dispatch:
@@ -15,6 +15,10 @@ on:
         description: "資料夾版本"
         required: true
         default: "1.17"
+      ref:
+        description: "執行分支"
+        required: true
+        default: "Translated-1.17"
 
 jobs:
   build:
@@ -23,7 +27,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
         with:
-          ref: Translated-1.17
+          ref: ${{ github.event.inputs.ref }}
 
       - name: "下載模組的語系檔案"
         uses: RPMTW/Translation-Scripts@main
