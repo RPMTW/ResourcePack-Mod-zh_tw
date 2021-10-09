@@ -1,0 +1,39 @@
+{
+	"name": "Loran",
+	"icon": "theabyss:loranflower",
+	"category": "flora",
+	"advancement": "theabyss:loran_adv",
+	"priority": false,
+	"secret": false,
+	"read_by_default": false,
+	"pages": [
+		{
+			"type": "text",
+			"text": "The blue plant that spreads is called Loran. Loran is a plant capable of absorbing and storing light which it converts to different energies. A plant of pure energy, it has both helpful and harmful properties depending on what it mixes with. More importantly though we are looking to use its properties when formed with obsidian, which is needed"
+		},
+		{
+			"type": "multiblock",
+			"text": "This is Loran.",
+			"name": "Loran Flower",
+			"multiblock": {
+				"pattern": [
+					[
+						"0"
+					],
+					[
+						"A"
+					],
+					[
+						"A"
+					],
+					[
+						" "
+					]
+				],
+				"mapping": {
+					"A": "theabyss:loranflower"
+				}
+			}
+		}
+	]
+}
