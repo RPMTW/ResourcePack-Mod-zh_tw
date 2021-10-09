@@ -1,0 +1,15 @@
+{
+	"name": "CH I - Dreams",
+	"icon": "minecraft:paper",
+	"category": "getting_started",
+	"advancement": "minecraft:adventure/sleep_in_bed",
+	"priority": false,
+	"secret": false,
+	"read_by_default": false,
+	"pages": [
+		{
+			"type": "text",
+			"text": "How was your first dream? What was it you saw? What did you hear? Was the vision clear enough? We still have time it's not too late, sleep again, and soon..."
+		}
+	]
+}
