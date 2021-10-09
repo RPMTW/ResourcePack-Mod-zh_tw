@@ -1,0 +1,36 @@
+{
+	"name": "CH I - Strange Rem Phase",
+	"icon": "minecraft:paper",
+	"category": "getting_started",
+	"advancement": "theabyss:strange_rem_phases",
+	"priority": false,
+	"secret": false,
+	"read_by_default": false,
+	"pages": [
+		{
+			"type": "text",
+			"text": "A §3radio?§0 I'm sure that noise has to be a §3radio…§0 Wait, I remember now… When I was alive there was a §3house§0, an abandoned house in the §3forest…§0 Find this house, I just know the answer must be there..."
+		},
+		{
+			"type": "multiblock",
+			"text": "You'll need to find this!",
+			"name": "Radio",
+			"multiblock": {
+				"pattern": [
+					[
+						" "
+					],
+					[
+						"A"
+					],
+					[
+						"0"
+					]
+				],
+				"mapping": {
+					"A": "theabyss:broken_radio"
+				}
+			}
+		}
+	]
+}
