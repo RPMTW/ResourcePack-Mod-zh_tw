@@ -1,10 +1,8 @@
 {
-    "_comment_0": "Tinkers' Construct Compat",
     "material.integrationforegoing.plastic.name": "塑膠",
     "material.integrationforegoing.pink_slime.name": "粉紅史萊姆",
     "material.integrationforegoing.reinforced_pink_slime.name": "強化粉紅史萊姆",
     "fluid.integrationforegoing.molten_reinforced_pink_slime": "熔融強化粉紅黏液",
-    "_comment_1": "收割機提示",
     "text.integrationforegoing.plant.ender_lilly": "- 來自 Extra Utilities 2（更多實用設備2）的終界百合",
     "text.integrationforegoing.plant.red_orchid": "- 來自 Extra Utilities 2（更多實用設備2）的紅藍蘭花",
     "text.integrationforegoing.plant.hemp_replant": "- 來自 Immersive Engineering（沉浸工程）的工業大麻§o（收穫全部）",
@@ -22,6 +20,5 @@
     "text.integrationforegoing.plant.botania_tall_mystical_flowers": "- 來自 Botania（植物魔法）的任意高神秘花",
     "text.integrationforegoing.plant.randomthings_lotus_replant": "- 來自 Random Things（隨意作品）的蓮花§o（需要補種）",
     "text.integrationforegoing.plant.randomthings_lotus_no_replant": "- 來自 Random Things（隨意作品）的蓮花§o（不需要補種）",
-    "_comment_2": "手冊頁條目",
     "text.integrationforegoing.book.addon_introduction": "Seems like you've installed Integration Foregoing...@L@@L@Integration Foregoing is the official addon for Industrial Foregoing, making use of its API and added some missing mod integrations.@L@@L@Added contents includes: Additional straw drinking handler for fluids from other mods, Bioreactor entries, Plant Gatherer handlers, Tinkers' Construct tool materials and more!"
 }
