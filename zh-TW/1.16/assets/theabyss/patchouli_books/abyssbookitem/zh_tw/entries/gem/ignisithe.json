@@ -1,0 +1,42 @@
+{
+	"name": "Ignisithe",
+	"icon": "theabyss:ignisithe_gem",
+	"category": "gem",
+	"advancement": "theabyss:ignisithe_ore_adv",
+	"priority": false,
+	"secret": false,
+	"read_by_default": false,
+	"pages": [
+		{
+			"type": "spotlight",
+			"item": "theabyss:ignisithe_gem",
+			"title": "Ignisithe",
+			"link_recipe": false,
+			"text": "Ignisithe can be found in the Blue Forest, Blue Mountains, Nether Wastes. They are found at an altitude of 2 to 30. With Ignisithe you can make weapons, armor and other things."
+		},
+		{
+			"type": "multiblock",
+			"text": "Ignisithe Ore.",
+			"name": "Ignisithe",
+			"multiblock": {
+				"pattern": [
+					[
+						"0"
+					],
+					[
+						"A"
+					],
+					[
+						" "
+					],
+					[
+						" "
+					]
+				],
+				"mapping": {
+					"A": "theabyss:ignisithe_ore"
+				}
+			}
+		}
+	]
+}
