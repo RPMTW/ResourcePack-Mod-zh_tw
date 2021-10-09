@@ -1,7 +1,5 @@
 {
-    "_comment_0": " CREATIVE TAB",
     "itemGroup.morebuckets": "更多桶",
-    "_comment_1": " 物品",
     "item.morebuckets.aluminum_bucket.name": "鋁桶",
     "item.morebuckets.copper_bucket.name": "銅桶",
     "item.morebuckets.tin_bucket.name": "錫桶",
@@ -23,7 +21,6 @@
     "item.morebuckets.ardite_bucket.name": "阿迪特桶",
     "item.morebuckets.cobalt_bucket.name": "鈷桶",
     "item.morebuckets.manyullyn_bucket.name": "瑪玉靈桶",
-    "_comment_2": "工具訣竅",
     "tooltip.morebuckets.empty": "空",
     "tooltip.morebuckets.buckets": "%s, %s - %s"
 }
