@@ -1,0 +1,14 @@
+{
+  "modifier_id": "tconstruct:overslime",
+  "text": [
+    {
+      "text": "這升級好像有點過頭了，不是嗎？"
+    }
+  ],
+  "effects": [
+    "工具會先消耗史萊姆耐久條來取代耐久度的耗損",
+    "用史萊姆水晶來回復",
+    "Different slime crystals recharge different amounts",
+    "Applies debuff to tools without slimy materials"
+  ]
+}
