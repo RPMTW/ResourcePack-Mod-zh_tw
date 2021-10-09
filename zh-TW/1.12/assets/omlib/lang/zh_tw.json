@@ -34,7 +34,6 @@
     "gui.omtteam.omlib:access_type_owner": "所有者",
     "gui.omtteam.omlib:access_type_op": "OP",
     "gui.omtteam.omlib:light_values": "亮度",
-    "gui.omtteam.omlib:targeting_options": "Targeting Options",
     "tooltip.omtteam.omlib:add_trusted_player": "將給定的玩家加入到基座的信任列表中。",
     "tooltip.omtteam.omlib:remove_trusted_player": "將指定玩家移除出基座的信任列表",
     "tooltip.omtteam.omlib:tp_none": "玩家無法打開GUI",
@@ -46,9 +45,5 @@
     "tooltip.omtteam.omlib:tp_text_field": "要加入的信任玩家名",
     "tooltip.omtteam.omlib:info_access_level": "當玩家被選中時, 這將顯示他們的存取級別。",
     "tooltip.omtteam.omlib:trusted_player_gui": "打開信任玩家的管理GUI。",
-    "tooltip.omtteam.omlib:target_mobs": "If the tile attacks mobs.",
-    "tooltip.omtteam.omlib:target_neutrals": "If the tile attacks passive creatures.",
-    "tooltip.omtteam.omlib:target_players": "If the tile attacks (non-trusted) players.",
-    "item.debug_tool.name": "除錯工具",
-    "text.omtteam.omlib:status_permission": "You do not have permission to do that."
+    "item.debug_tool.name": "除錯工具"
 }
