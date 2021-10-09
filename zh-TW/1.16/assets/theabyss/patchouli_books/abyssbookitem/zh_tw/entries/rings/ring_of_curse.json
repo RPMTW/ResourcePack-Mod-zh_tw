@@ -1,0 +1,23 @@
+{
+	"name": "Ring Of Curse",
+	"icon": "theabyss:ring_of_curse",
+	"category": "rings",
+	"advancement": "theabyss:somnium_adv",
+	"priority": false,
+	"secret": false,
+	"read_by_default": false,
+	"pages": [
+		{
+			"type": "spotlight",
+			"item": "theabyss:ring_of_curse",
+			"title": "Ring Of Curse",
+			"link_recipe": false,
+			"text": "The ring of curse is a very unusual and dangerous ring forcing all around you to their knees in its might! It will consume 70% somnium to make you strong and surrounding opponents weak."
+		},
+		{
+			"type": "crafting",
+			"title": "Ring Of Curse",
+			"recipe": "theabyss:ring_of_curse_rcp"
+		}
+	]
+}
