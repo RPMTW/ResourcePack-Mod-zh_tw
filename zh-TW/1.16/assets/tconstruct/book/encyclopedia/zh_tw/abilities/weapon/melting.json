@@ -2,10 +2,10 @@
   "modifier_id": "tconstruct:melting",
   "text": [
     {
-      "text": "Causes dropped items and attacked entities to be melted into the tools tank. Maximum fluid per hit produced at around 4 damage for most mobs. Also increases the tools tank capacity by 9 ingots, or 1296 mb. "
+      "text": "使掉落的物品和被攻擊的實體熔化到工具儲罐中。對於大多數生物，每次命中產生的最大流體大約為 4 點傷害。還增加了 9 個錠或 1296 mb 的工具儲罐容量。 "
     },
     {
-      "text": "Tools with melting have the ability to be filled and drained by interacting with fluid tank blocks."
+      "text": "具有熔化功能的工具能夠通過與流體罐方塊的互動來填充和排出。"
     }
   ],
   "more_text_space": true,
