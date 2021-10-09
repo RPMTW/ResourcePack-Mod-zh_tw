@@ -1,0 +1,23 @@
+{
+	"name": "Ring Of Spectral",
+	"icon": "theabyss:ring_of_spectral",
+	"category": "rings",
+	"advancement": "theabyss:somnium_adv",
+	"priority": false,
+	"secret": false,
+	"read_by_default": false,
+	"pages": [
+		{
+			"type": "spotlight",
+			"item": "theabyss:ring_of_spectral",
+			"title": "Ring Of Spectral",
+			"link_recipe": false,
+			"text": "The ring of spectral is a very rare ring. The ring produces an out of body experience using 100% somnium during its use. Be warned, your physical body being harmed will force your spirit to return."
+		},
+		{
+			"type": "crafting",
+			"title": "Ring Of Spectral",
+			"recipe": "theabyss:ring_of_spectral_rcp"
+		}
+	]
+}
