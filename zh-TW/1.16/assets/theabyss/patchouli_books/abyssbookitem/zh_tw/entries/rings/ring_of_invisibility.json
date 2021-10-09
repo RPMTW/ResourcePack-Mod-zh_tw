@@ -1,0 +1,23 @@
+{
+	"name": "Ring Of Invisibility",
+	"icon": "theabyss:ring_of_invisibility",
+	"category": "rings",
+	"advancement": "theabyss:somnium_adv",
+	"priority": false,
+	"secret": false,
+	"read_by_default": false,
+	"pages": [
+		{
+			"type": "spotlight",
+			"item": "theabyss:ring_of_invisibility",
+			"title": "Ring Of Invisibility",
+			"link_recipe": false,
+			"text": "The ring of invisibility makes you invisible for the cost of 20% somnium."
+		},
+		{
+			"type": "crafting",
+			"title": "Ring Of Invisibility",
+			"recipe": "theabyss:ring_of_invisibility_rcp"
+		}
+	]
+}
