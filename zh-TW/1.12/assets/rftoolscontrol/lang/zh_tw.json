@@ -1,6 +1,4 @@
 {
-    "_comment_0": " Achievements",
-    "_comment_1": " 物品",
     "item.rftoolscontrol.rftoolscontrol_manual.name": "RF工具|控制手冊",
     "item.rftoolscontrol.program_card.name": "程序卡",
     "item.rftoolscontrol.cpu_core_500.name": "B500處理器核心",
@@ -18,13 +16,11 @@
     "item.rftoolscontrol.token.name": "令牌",
     "item.rftoolscontrol.network_identifier.name": "網路標識",
     "item.rftoolscontrol.graphics_card.name": "顯示卡",
-    "_comment_2": " 方塊",
     "tile.rftoolscontrol.programmer.name": "編程器",
     "tile.rftoolscontrol.processor.name": "處理器",
     "tile.rftoolscontrol.craftingstation.name": "合成站",
     "tile.rftoolscontrol.node.name": "節點",
     "tile.rftoolscontrol.workbench.name": "工作檯",
     "tile.rftoolscontrol.tank.name": "多用流體箱",
-    "_comment_3": " Creative Tabs",
     "itemGroup.RFToolsControl": "RFTools:控制"
 }
