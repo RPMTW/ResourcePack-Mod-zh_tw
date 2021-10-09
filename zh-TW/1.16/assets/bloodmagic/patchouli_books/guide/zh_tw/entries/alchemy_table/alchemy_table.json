@@ -37,7 +37,7 @@
     },
     {
       "type": "text",
-      "text": "simply click the slot again to deselect it. The icon displayed in the slot shows whether it is accepting inputs or providing outputs. In the example picture, we are allowing pipes to take from our central slot only on the $(bold)D$()own slot, and any attempts to extract items from other sides will not succeed."
+      "text": "simply click the slot again to deselect it. The icon displayed in the slot shows whether it is accepting inputs or providing outputs. In the example picture, we are allowing pipes to take from our central slot only on the $(underline)D$()own slot, and any attempts to extract items from other sides will not succeed. $(br2)The following pages document a number of recipes currently available for the Alchemy Table."
     },
     {
       "type": "image",
@@ -46,16 +46,16 @@
         "bloodmagic:images/entries/alchemy_table/alchemy_table_soul_error.png"
       ],
       "title": "Alchemy Table Errors",
-      "anchor": "errors",
+      "anchor": "cutting_fluid",
       "border": true,
-      "text": "The Alchemy Table will tell you when something is wrong."
+      "text": "Basic Cutting Fluid is used for 2x Ore Processing.  It is also used in the $(l:bloodmagic:utility/alchemical_reaction_chamber)Alchemical Reaction Chamber$(/l) and the $(l:bloodmagic:rituals/ritual_list/ritual_crushing)Ritual of the Crusher$() for the same purpose."
     },
     {
       "type": "text",
       "text": "The two most common reasons for a recipe to not work in the Alchemy Table are as follows: $(li)$(bold)Orb Error$(): Either there is no Blood Orb present in the relevant slot, or the Orb you are trying to use is not a high enough level for this recipe. $(li)$(bold)Soul Network Error$(): The orb is of a valid level, but either you have not bound it to yourself (right click while holding it), or your Soul Network does not have enough LP in it. $(br2)The following pages document a number of recipes currently available for the Alchemy Table,"
     },
     {
-      "type": "crafting_alchemy_table",
+      "type": "text",
       "heading": "Basic Cutting Fluid",
       "anchor": "cutting_fluid",
       "recipe": "bloodmagic:alchemytable/basic_cutting_fluid",
@@ -63,43 +63,43 @@
     },
     {
       "type": "3x_crafting_alchemy_table",
-      "a.heading": "Iron Sand",
-      "a.recipe": "bloodmagic:alchemytable/sand_iron",
-      "b.heading": "Gold Sand",
-      "b.recipe": "bloodmagic:alchemytable/sand_gold"
-    },
-    {
-      "type": "3x_crafting_alchemy_table",
-      "a.heading": "Grass",
+      "a.heading": "草",
       "a.recipe": "bloodmagic:alchemytable/grass_block",
-      "b.heading": "Leather",
-      "b.recipe": "bloodmagic:alchemytable/leather_from_flesh",
-      "c.heading": "Bread",
-      "c.recipe": "bloodmagic:alchemytable/bread"
+      "b.heading": "皮革",
+      "b.recipe": "bloodmagic:alchemytable/leather_from_flesh"
     },
     {
       "type": "2x_crafting_alchemy_table",
       "a.heading": "黏土",
       "a.recipe": "bloodmagic:alchemytable/clay_from_sand",
-      "b.heading": "String",
-      "b.recipe": "bloodmagic:alchemytable/string"
+      "b.heading": "線",
+      "b.recipe": "bloodmagic:alchemytable/string",
+      "c.heading": "Bread",
+      "c.recipe": "bloodmagic:alchemytable/bread"
     },
     {
       "type": "2x_crafting_alchemy_table",
-      "a.heading": "Flint",
+      "a.heading": "燧石",
       "a.recipe": "bloodmagic:alchemytable/flint_from_gravel",
-      "b.heading": "Gunpowder",
+      "b.heading": "String",
       "b.recipe": "bloodmagic:alchemytable/gunpowder"
     },
     {
       "type": "3x_crafting_alchemy_table",
-      "a.heading": "Plant Oil",
+      "a.heading": "植物油",
       "a.recipe": "bloodmagic:alchemytable/plantoil_from_wheat",
-      "b.recipe": "bloodmagic:alchemytable/plantoil_from_carrots",
-      "c.recipe": "bloodmagic:alchemytable/plantoil_from_taters"
+      "b.heading": "Coal Sand",
+      "b.recipe": "bloodmagic:alchemytable/plantoil_from_carrots"
     },
     {
       "type": "3x_crafting_alchemy_table",
+      "a.heading": "Plant Oil Cont.",
+      "a.recipe": "bloodmagic:alchemytable/plantoil_from_beets",
+      "b.recipe": "bloodmagic:alchemytable/sand_coal",
+      "c.recipe": "bloodmagic:alchemytable/plantoil_from_taters"
+    },
+    {
+      "type": "text",
       "a.heading": "Plant Oil Cont.",
       "a.recipe": "bloodmagic:alchemytable/plantoil_from_beets",
       "b.heading": "Coal Sand",
