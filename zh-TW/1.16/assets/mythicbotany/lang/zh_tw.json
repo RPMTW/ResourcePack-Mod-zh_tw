@@ -190,9 +190,17 @@
     "lexicon.alfheim.kvasir.page1": "在阿薩神族和華納神族約和之後，諸神們創造出了一位侏儒——那便是克瓦希爾。克瓦希爾遊歷於九界之中，所到之處，人們都將其奉若貴賓，無比尊崇。然而，有兩隻侏儒，名為法亞拉（Fjalar）和戈拉（Galar），妄圖竊取克瓦希爾的天資才智。所以它們殺掉了克瓦希爾，用它的血與蜂蜜混合，然後釀出了一種蜜酒。喝下這種蜜酒，可以讓你像克瓦希爾那般穿梭於九界之中。",
     "lexicon.alfheim.kvasir.page2": "喝下這種酒，你便可以步入$(l:botania:alfhomancy/intro)亞爾夫海姆傳送門$()之內，隻身前往亞爾夫海姆。如果你不小心破壞了傳送門的框架結構，你只需將框架先修好，然後再扔入一顆龍石。龍石消失之時，傳送門便會重新開啟。",
     "lexicon.alfheim.kvasir.page4": "利用流浪商人作為克瓦希爾的象徵，你可以借流浪商人之軀殼取得克瓦希爾之血，這些血可用於釀造克瓦希爾之蜜酒。",
-    "item.mythicbotany.solidified_mana": "Solidified Mana",
+    "item.mythicbotany.solidified_mana": "固態魔力",
     "tooltip.mythicbotany.cost_pools": "%s Mana Pools",
     "tooltip.mythicbotany.reverse_ratio": "%sx Zoom (hover to zoom in)",
     "tooltip.mythicbotany.solidified_mana": "Throw in a pool to get your mana back.",
-    "tooltip.mythicbotany.invalid_solidified_mana": "This item is invalid."
+    "tooltip.mythicbotany.invalid_solidified_mana": "This item is invalid.",
+    "block.mythicbotany.feysythia": "Feysythia",
+    "block.mythicbotany.feysythia_floating": "Floating Feysythia",
+    "block.mythicbotany.petrunia": "Petrunia",
+    "block.mythicbotany.petrunia_floating": "Floating Petrunia",
+    "block.mythicbotany.feysythia.description": "A Fairytale of Fey",
+    "block.mythicbotany.petrunia.description": "Obtained from a garden in Privet Drive",
+    "lexicon.mythicbotany.generating.page4": "At some point in time your flowers will create mana that fast that spreaders are not enough to handle it. Then this comes in. It allows the mana of flowers to be inserted into the spark network directly. You still need to attach a recessive spark to it though.",
+    "lexicon.mythicbotany.functional.page4": "The Petrunia can activate rune rituals if provided with enough mana and placed near a master rune holder."
 }
