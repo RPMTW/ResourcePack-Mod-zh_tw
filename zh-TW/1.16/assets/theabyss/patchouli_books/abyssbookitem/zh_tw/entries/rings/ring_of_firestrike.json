@@ -1,0 +1,23 @@
+{
+	"name": "Ring Of Firestrike",
+	"icon": "theabyss:ring_of_firestrike",
+	"category": "rings",
+	"advancement": "theabyss:somnium_adv",
+	"priority": false,
+	"secret": false,
+	"read_by_default": false,
+	"pages": [
+		{
+			"type": "spotlight",
+			"item": "theabyss:ring_of_firestrike",
+			"title": "Ring Of Firestrike",
+			"link_recipe": false,
+			"text": "The ring of firestrike shoots a beam of fire at enemies for 25% sominum."
+		},
+		{
+			"type": "crafting",
+			"title": "Ring Of Firestrike",
+			"recipe": "theabyss:ring_of_firestrike_rcp"
+		}
+	]
+}
