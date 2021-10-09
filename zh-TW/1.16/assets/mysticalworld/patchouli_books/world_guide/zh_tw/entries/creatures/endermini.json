@@ -1,0 +1,22 @@
+{
+    "name": "迷你終界使者",
+    "icon": "mysticalworld:young_pearl",
+    "category": "creatures",
+    "pages": [
+        {
+            "type": "animal_spawn_info",
+            "animal": "endermini",
+            "breed": "不可繁殖;",
+            "tame": "不可馴服。",
+            "blurb": "這些可愛的小傢伙還是不喜歡被人盯著！"
+        },
+        {
+            "type": "entity",
+            "name": "迷你終界使者",
+            "entity": "mysticalworld:endermini",
+            "scale": "0.7",
+            "offset": 0,
+            "text": "這些小生物和他們的大個子表兄終界使者一起住在終界。"
+        }
+    ]
+}
