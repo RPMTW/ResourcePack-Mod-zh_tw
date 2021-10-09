@@ -1,8 +1,6 @@
 {
-    "_comment_0": "Content",
     "tile.parabox.parabox.name": "Parabox",
     "tile.parabox.empowered.parabox.name": "Empowered Parabox",
-    "_comment_1": "Info",
     "info.parabox.dimension": "A temporal anomaly prevents placing this here.",
     "info.parabox.disconnect": "Time and space have destabalized on the server. Try reconnecting in a few minutes.",
     "info.parabox.update.daily": "You have generated another prestige point. The Parabox now requires %d RF/t.",
@@ -15,7 +13,6 @@
     "info.parabox.emp.update.item": "%s has been provided.  Cycle time decreased by %s minutes.  The required item has changed to %s.",
     "info.parabox.emp.update.daily": "You have generated 3 more prestige points. The Empowered Parabox now requires %s RF/t and has a cycle time of %s minutes.",
     "info.parabox.created": "A parabox device has been placed into the world.  It is located at %s.",
-    "_comment_2": "Status",
     "parabox.status.backup": "This world has been put in a time loop. All progress in this world should be considered temporary until the time loop has closed. ",
     "parabox.status.backup.reset": "There are no active Parabox devices! The previous time loop could not be maintained, and a new one must be created.",
     "parabox.status.power": "Current RF/t: %s",
@@ -33,7 +30,6 @@
     "parabox.status.vote_success": "All players have voted.",
     "parabox.status.speed": "Speed: %s%%",
     "parabox.status.emp.speed": "Speed: %s%% | Item Speed: %s%%",
-    "_comment_3": "Buttons",
     "parabox.button.activate": "Activate",
     "parabox.button.deactivate": "Deactivate",
     "parabox.button.loop.on": "Loop: On",
@@ -42,7 +38,6 @@
     "parabox.tip.deactivate": "Click to deactivate the Parabox. This will stop generating Prestige Points, and all generated points will be lost.",
     "parabox.tip.loop.on": "You have voted to reset the time loop. All players on the server with boxes need to vote for this option.",
     "parabox.tip.loop.off": "Click this button when you are ready to initiate the loop. If you are on a server, all players with boxes must vote for this option.",
-    "_comment_4": "Collapse GUI",
     "parabox.collapsed": "The world has collapsed!",
     "parabox.reset": "A Parabox has reset the world to a previous state.",
     "parabox.return": "Return to %s"

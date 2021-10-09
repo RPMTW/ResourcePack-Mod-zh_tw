@@ -1,5 +1,6 @@
 {
-    "tile.engineersworkshop:blockTable.name": "Workshop Table",
+    "itemGroup.engineersworkshop": "Engineer's Workshop",
+    "tile.engineersworkshop.blocktable.name": "Workshop Table",
     "engineersworkshop:upgrade.blank.name": "Blank Upgrade",
     "engineersworkshop:upgrade.auto_crafter.name": "Auto Crafter Upgrade",
     "engineersworkshop:upgrade.storage.name": "Storage Upgrade",
@@ -34,8 +35,5 @@
     "engineersworkshop:upgrade.fuel_delay.description": "Decreases the time between fuel consummations",
     "engineersworkshop:upgrade.axe.description": "Allow your crusher to chop up logs into planks",
     "engineersworkshop:upgrade.unstackable": "Doesn't stack very well",
-    "engineersworkshop:upgrade.stackable": "Stacks up to %s",
-    "itemGroup.engineersworkshop": "Engineer's Workshop",
-    "engineersworkshop:hbdark": "§CH§Ea§Ap§Bp§9y§D §CB§Ei§Ar§Bt§9h§Dd§Ca§Ey§A §BD§9a§Dr§Ck§Eo§As§Bt§9o§D!",
-    "tile.engineersworkshop.blocktable.name": "Workshop Table"
+    "engineersworkshop:upgrade.stackable": "Stacks up to %s"
 }

@@ -1,0 +1,31 @@
+{
+    "name": "Chapter3: Keys",
+    "icon": "minecraft:writable_book",
+    "category": "recipes",
+    "pages": [
+        {
+            "type": "crafting",
+            "text": "The crafting of the Spider key requires that you travel to the nether for ingredients.",
+            "recipe": "treasure2:spider_key"
+        },
+        {
+            "type": "crafting",
+            "text": "The Wither Key...",
+            "recipe": "treasure2:wither_key"
+        },
+        {
+        	"type": "text",
+        	"text": "The gem keys can be crafted, but the gems are extremely rare to find."
+        },
+         {
+            "type": "crafting",
+            "recipe": "treasure2:ruby_key",
+            "recipe2": "treasure2:sapphire_key"
+        },
+         {
+            "type": "crafting",
+            "text": "Key Ring...",
+            "recipe": "treasure2:key_Ring"
+        }       
+    ]
+}

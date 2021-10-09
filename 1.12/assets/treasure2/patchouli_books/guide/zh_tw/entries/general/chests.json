@@ -1,0 +1,13 @@
+{
+    "name": "Chests",
+    "icon": "minecraft:chest",
+    "category": "general",
+    "sortnum": 1,
+    "pages": [
+    	{
+    		"type": "text",
+    		"title": "$(bold)Chests$()",
+             "text": "The goal is to find $(l:chests/list)treasure chests$(/l). A treasure chest is loaded with loot. Most chests are locked with one or more locks that require corresponding keys to open them. Sometimes you can find an unlocked chest."   		
+    	}
+    ]
+}

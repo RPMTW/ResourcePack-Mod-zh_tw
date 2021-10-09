@@ -1,14 +1,10 @@
 {
-    "_comment_0": "Creative Tab",
     "itemGroup.guideapi.creativeTab": "Guide-API",
-    "_comment_1": "Item",
     "item.guideapi.book.name": "Guide Book",
-    "_comment_2": "Button hovering text",
     "button.back.name": "Back",
     "button.next.name": "Next",
     "button.prev.name": "Previous",
     "button.search.name": "Search",
-    "_comment_3": "Text to draw",
     "text.shaped.crafting": "Shaped Crafting",
     "text.shapeless.crafting": "Shapeless Crafting",
     "text.furnace.smelting": "Smelting",
@@ -23,7 +19,6 @@
     "text.brewing.error": "&cError in the recipe",
     "text.linked.open": "Sneak + Use to open",
     "text.open.failed": "Something stopped you from opening this book",
-    "_comment_4": "Test",
     "test.guide.format": "This i\\ns a formatting\\n\\ttest",
     "test.category.name": "Test Category",
     "test.entry.name": "Test Entry"

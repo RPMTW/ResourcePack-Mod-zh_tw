@@ -1,9 +1,4 @@
 {
-    "_comment_0": " JEI Integration Language File",
-    "_comment_1": "## Language Name: English",
-    "_comment_2": "## Language Region: United States",
-    "_comment_3": "## Language Code: en_us",
-    "_comment_4": " Config",
     "config.jeiintegration.default": "Default",
     "config.jeiintegration.valid": "Valid",
     "config.jeiintegration.title": "JEI Integration Configuration",
@@ -29,7 +24,6 @@
     "config.jeiintegration.tooltips.oreDictEntriesTooltipMode.comment": "Configure the state of the ore dictionary entries tooltip.",
     "config.jeiintegration.tooltips.unlocalizedNameTooltipMode": "Unlocalized Name Tooltip",
     "config.jeiintegration.tooltips.unlocalizedNameTooltipMode.comment": "Configure the state of the unlocalized name tooltip.",
-    "_comment_5": " Tooltips",
     "tooltip.jeiintegration.metadata": "Metadata:",
     "tooltip.jeiintegration.nbtTagData": "NBT:",
     "tooltip.jeiintegration.durability": "Durability:",

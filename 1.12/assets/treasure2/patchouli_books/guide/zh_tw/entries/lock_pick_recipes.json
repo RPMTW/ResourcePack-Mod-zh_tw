@@ -1,0 +1,17 @@
+{
+    "name": "Chapter2: Lock picks",
+    "icon": "minecraft:writable_book",
+    "category": "recipes",
+    "pages": [
+ 		{
+ 			"type": "text",
+ 			"title": "Lock Picks",
+            "text": "The pilferers lock pick is the least expensive to make, but it will only work on COMMON and UNCOMMON locks. It also doesn't have a good success rate.$(br)The thief's lock pick is better, and also works on SCARCE locks, but is more expensive."
+ 		},
+        {
+            "type": "crafting",
+            "recipe": "treasure2:pilferers_lock_pick",
+            "recipe2": "treasure2:thiefs_lock_pick"
+        }
+    ]
+}

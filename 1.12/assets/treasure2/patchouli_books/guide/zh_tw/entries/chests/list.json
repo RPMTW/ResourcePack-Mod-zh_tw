@@ -1,0 +1,13 @@
+{
+    "name": "Chest List",
+    "icon": "treasure2:dread_pirate_chest",
+    "category": "chests",
+    "sortnum": 0,
+    "pages": [
+    	{
+    		"type": "text",
+    		"title": "$(bold)WList$()",
+             "text": ""   		
+    	}
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Rarities",
+    "icon": "minecraft:diamond",
+    "category": "general",
+    "sortnum": 2,
+    "pages": [
+    	{
+    		"type": "text",
+    		"title": "Rarities",
+             "text": "There are five (5) levels of rarity that apply to chests, keys, locks, loot tables and structures: $(6)COMMON$(0), $(6)UNCOMMON$(0),$(6)SCARCE$(0),$(6)RARE$(0), and $(6)EPIC$(0). You can see an item's rarity (and other attributes) by hovering over the item in your inventory."   		
+    	},
+    	{
+    		"type": "image",
+    		"images": ["show hover of wooden chest here"]
+    	}
+    ]
+}

@@ -100,12 +100,17 @@
     "gui.xaero_right_click_box_map_settings": "§2%s§r Open Settings",
     "gui.xaero_right_click_box_map_export": "Export Map as PNG",
     "gui.xaero_waypoint_backgrounds": "Render Waypoint Backgrounds",
-    "gui.xaero_right_click_map_cant_teleport": "§8Can't Teleport Here...",
+    "gui.xaero_right_click_map_cant_teleport": "§8(Teleport) Ambiguous Y...",
     "gui.xaero_right_click_map_cant_create_waypoint": "§8Can't Set A Waypoint Here...",
     "gui.xaero_no_world_map_item_message": "The mod is configured to require the following item in your hotbar or equipped:",
     "gui.xaero_right_click_waypoint_share": "Share Waypoint In Chat",
     "gui.xaero_right_click_map_share_location": "Share Location In Chat",
     "gui.xaero_right_click_map_cant_share_location": "§8Can't Share This Location...",
     "gui.xaero_current_map_locked1": "The currently selected map is used by another process (Minecraft client).",
-    "gui.xaero_current_map_locked2": "Please select a different map of this server (bottom left icon)."
+    "gui.xaero_current_map_locked2": "Please select a different map of this server (bottom left icon).",
+    "gui.xaero_wm_detect_ambiguous_y": "Detect Ambiguous Y In Discovered",
+    "gui.xaero_wm_box_detect_ambiguous_y": "A single pixel on the map can contain multiple transparent layers and an opaque block under them. In older non-cache map data files, only the Y level (height) of the opaque block is stored in such cases, which often makes it unsafe to blindly teleport to the stored Y coordinate. When this setting is ON, the mod treats such map pixels as it would undiscovered chunks. It defaults to 2D waypoints and disables direct teleportation to such pixels. Disable this at your own risk!",
+    "gui.xaero_box_closing_menu_when_hopping": "Closing The Menu When Hopping To A Waypoint (left-clicking in the menu)",
+    "gui.xaero_box_not_closing_menu_when_hopping": "Not Closing The Menu When Hopping To A Waypoint (left-clicking in the menu)",
+    "gui.xaero_wm_update_notification": "Update Notifications"
 }

@@ -1,18 +1,13 @@
 {
-    "_comment_0": " Config",
     "telepastries.config.title": "TelePastries config",
-    "_comment_1": " Creative Tab",
     "itemGroup.telepastries": "TelePastries",
-    "_comment_2": " Block",
     "tile.telepastries:nether_cake.name": "Nether Cake",
     "tile.telepastries:end_cake.name": "End Cake",
     "tile.telepastries:overworld_cake.name": "Overworld Cake",
     "tile.telepastries:twilight_cake.name": "Twilight Cake",
     "tile.telepastries:lost_city_cake.name": "Lost City Cake",
     "tile.telepastries:hunting_dimension_cake.name": "Hunting Dimension Cake",
-    "_comment_3": " Message",
     "telepastries.pastry.reset.complete": "Dimension %s 's saved position has been reset.",
     "telepastries.pastry.reset.failed": "Dimension %s does not have a saved position.",
-    "_comment_4": " Waila",
     "telepastries.bites.name": "Cake bites"
 }

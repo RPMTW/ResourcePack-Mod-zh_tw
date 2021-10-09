@@ -1,10 +1,7 @@
 {
-    "_comment_0": " CREATIVE TAB",
     "itemGroup.ironjetpacks": "Iron Jetpacks",
-    "_comment_1": " KEYBINDS",
     "key.ij.engine": "Toggle Engine",
     "key.ij.hover": "Toggle Hover Mode",
-    "_comment_2": " ITEMS",
     "item.ij.strap.name": "Leather Strap",
     "item.ij.basic_coil.name": "Basic Coil",
     "item.ij.advanced_coil.name": "Advanced Coil",
@@ -15,7 +12,6 @@
     "item.ij.thruster.name": "Thruster",
     "item.ij.capacitor.name": "Capacitor",
     "item.ij.jetpack.name": "Jetpack",
-    "_comment_3": " TOOLTIPS",
     "tooltip.ij.hold_shift": "§7Hold §e§oSHIFT §r§7for info.",
     "tooltip.ij.on": "ON",
     "tooltip.ij.off": "OFF",

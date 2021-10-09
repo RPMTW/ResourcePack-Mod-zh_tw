@@ -1,9 +1,6 @@
 {
-    "_comment_0": " Config",
     "morecauldrons.config.title": "More Cauldrons Config",
-    "_comment_1": " Tab",
     "itemGroup.morecauldrons": "More Cauldrons",
-    "_comment_2": " Blocks",
     "tile.morecauldrons:acaciacauldron.name": "Acacia Cauldron",
     "tile.morecauldrons:bigoakcauldron.name": "Dark Oak Cauldron",
     "tile.morecauldrons:birchcauldron.name": "Birch Cauldron",
@@ -23,7 +20,6 @@
     "tile.morecauldrons:smoothdioritecauldron.name": "Polished Diorite Cauldron",
     "tile.morecauldrons:andesitecauldron.name": "Andesite Cauldron",
     "tile.morecauldrons:smoothandesitecauldron.name": "Polished Andesite Cauldron",
-    "_comment_3": "Death Messages",
     "death.attack.boiled": "%1$s was boiled alive",
     "death.attack.boiled.player": "%1$s boiled alive trying to escape %2$s"
 }

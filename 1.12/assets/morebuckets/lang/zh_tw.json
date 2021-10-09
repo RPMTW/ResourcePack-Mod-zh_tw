@@ -1,7 +1,5 @@
 {
-    "_comment_0": " CREATIVE TAB",
     "itemGroup.morebuckets": "More Buckets",
-    "_comment_1": " ITEMS",
     "item.morebuckets.aluminum_bucket.name": "Aluminum Bucket",
     "item.morebuckets.copper_bucket.name": "Copper Bucket",
     "item.morebuckets.tin_bucket.name": "Tin Bucket",
@@ -23,7 +21,6 @@
     "item.morebuckets.ardite_bucket.name": "Ardite Bucket",
     "item.morebuckets.cobalt_bucket.name": "Cobalt Bucket",
     "item.morebuckets.manyullyn_bucket.name": "Manyullyn Bucket",
-    "_comment_2": " TOOLTIPS",
     "tooltip.morebuckets.empty": "Empty",
     "tooltip.morebuckets.buckets": "%s/%s - %s"
 }

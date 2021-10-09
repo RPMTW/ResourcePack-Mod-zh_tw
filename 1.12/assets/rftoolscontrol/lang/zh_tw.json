@@ -1,6 +1,4 @@
 {
-    "_comment_0": " Achievements",
-    "_comment_1": " Items",
     "item.rftoolscontrol.rftoolscontrol_manual.name": "RFTools Control Manual",
     "item.rftoolscontrol.program_card.name": "Program Card",
     "item.rftoolscontrol.cpu_core_500.name": "CPU Core B500",
@@ -18,13 +16,11 @@
     "item.rftoolscontrol.token.name": "Token",
     "item.rftoolscontrol.network_identifier.name": "Network Identifier",
     "item.rftoolscontrol.graphics_card.name": "Graphics Card",
-    "_comment_2": " Blocks",
     "tile.rftoolscontrol.programmer.name": "Programmer",
     "tile.rftoolscontrol.processor.name": "Processor",
     "tile.rftoolscontrol.craftingstation.name": "Crafting Station",
     "tile.rftoolscontrol.node.name": "Node",
     "tile.rftoolscontrol.workbench.name": "Workbench",
     "tile.rftoolscontrol.tank.name": "Multi Tank",
-    "_comment_3": " Creative Tabs",
     "itemGroup.RFToolsControl": "RFTools Control"
 }

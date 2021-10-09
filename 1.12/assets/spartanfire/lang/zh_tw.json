@@ -1,5 +1,4 @@
 {
-    "_comment_0": "Items",
     "item.spartanfire:ingot_custom.name": "%s Ingot",
     "item.spartanfire:dagger_custom.name": "%s Dagger",
     "item.spartanfire:parrying_dagger_custom.name": "%s Parrying Dagger",
@@ -31,7 +30,6 @@
     "tooltip.spartanfire:desert_venom": "Poisons on hit",
     "tooltip.spartanfire:fire_dragonsteel": "Ignites and knocks back targets",
     "tooltip.spartanfire:ice_dragonsteel": "Slows and knocks back targets",
-    "_comment_1": "Materials",
     "material.spartanfire:dragonbone": "Dragonbone",
     "material.spartanfire:fire_dragonbone": "Flamed Dragonbone",
     "material.spartanfire:ice_dragonbone": "Iced Dragonbone",
