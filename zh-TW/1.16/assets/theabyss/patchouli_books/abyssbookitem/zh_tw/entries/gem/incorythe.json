@@ -1,0 +1,42 @@
+{
+	"name": "Incorythe",
+	"icon": "theabyss:incorythe_gem",
+	"category": "gem",
+	"advancement": "theabyss:incorythe_ore_adv",
+	"priority": false,
+	"secret": false,
+	"read_by_default": false,
+	"pages": [
+		{
+			"type": "spotlight",
+			"item": "theabyss:incorythe_gem",
+			"title": "Incorythe",
+			"link_recipe": false,
+			"text": "Incorythe can be found in every biome. however they are the rarest ores you can find. They are found at an altitude of 4 to 12. With incorythe you can make weapons, armor and other things."
+		},
+		{
+			"type": "multiblock",
+			"text": "Incorythe Ore.",
+			"name": "Incorythe",
+			"multiblock": {
+				"pattern": [
+					[
+						"0"
+					],
+					[
+						"A"
+					],
+					[
+						" "
+					],
+					[
+						" "
+					]
+				],
+				"mapping": {
+					"A": "theabyss:incorythe_ore"
+				}
+			}
+		}
+	]
+}
