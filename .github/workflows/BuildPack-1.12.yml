@@ -3,6 +3,9 @@ name: Build Pack ( 1.12 )
 on:
   push:
     branches: [Translated-1.12]
+    paths:
+      - "zh-TW/**"
+      - "Add-on/**"    
   workflow_dispatch:
 
 jobs:
@@ -47,3 +50,4 @@ jobs:
         run: |
           git push
           exit 0
+          
