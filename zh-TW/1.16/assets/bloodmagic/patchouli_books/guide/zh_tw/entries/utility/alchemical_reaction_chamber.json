@@ -67,7 +67,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "The $(item)Alchemical Reaction Chamber$() isn't fully implemented yet, but among other things it can function as a $(thing)Furnace$(), offers a form of $(thing)Ore-Tripling$(), revert $(l:bloodmagic:altar/soul_network)Blood Orbs$(), and is currently the only way to get $(blood)Weak Blood Shards$(), specifically from a $(l:bloodmagic:dungeons/tau_fruit)Saturated Tau$()."
+      "text": "The $(item)Alchemical Reaction Chamber$() isn't fully implemented yet, but among other things it can function as a furnace, offers a form of ore-tripling, revert Blood Orbs, and is currently the only way to get $(item)Weak Blood Shards$(), specifically from an $(l:bloodmagic:altar/slates)Imbued Slate$()."
     },
     {
       "type": "crafting",
@@ -83,7 +83,7 @@
     {
       "type": "3x_crafting_arc",
       "a.heading": "[虛弱]氣血碎片",
-      "a.recipe": "bloodmagic:arc/weakbloodshard_tau",
+      "a.recipe": "bloodmagic:arc/weakbloodshard",
       "b.heading": "Revert Weak Blood Orb",
       "b.recipe": "bloodmagic:arc/reversion/weak_blood_orb",
       "c.heading": "Revert Apprentice Blood Orb",
@@ -133,18 +133,18 @@
       "heading": "基礎切削油",
       "anchor": "basic_cutting_fluid",
       "recipe": "bloodmagic:alchemytable/basic_cutting_fluid",
-      "text": "$(item)Basic Cutting Fluid$() turns a metal's $(item)Gravel$() into that metal's $(item)Sand$() for continued $(thing)3x ore processing$(). It can also turn an $(item)ore$() directly into two metal Sands for $(thing)2x Ore Processing$(). The same $(thing)2x Ore Processing$() is possible in the $(l:bloodmagic:alchemy_table/alchemy_table)Alchemy Table$(), but doing it in the $(item)ARC$() will save you some $(blood)LP$()."
+      "text": "Cutting Fluid turns a metal's Gravel into that metal's Sand for continued 3x ore processing.  It can also turn an ore directly into two metal Sand for 2x Ore Processing.  The same 2x Ore Processing is possible in the Alchemy Table, but doing it in the ARC will save you some LP."
     },
     {
-      "type": "2x_crafting_alchemy_table",
-      "a.heading": "Intermediate Cutting Fluid",
+      "type": "3x_crafting_alchemy_table",
+      "a.heading": "Metal Gravel to Metal Sand",
       "anchor": "intermediate_cutting_fluid",
-      "a.recipe": "bloodmagic:alchemytable/intermediate_cutting_fluid",
-      "b.recipe": "bloodmagic:alchemytable/intermediate_cutting_fluid_sigil",
+      "a.recipe": "bloodmagic:arc/dustsfrom_gravel_iron",
+      "b.recipe": "bloodmagic:arc/dustsfrom_ore_iron",
       "b.text": "$(item)Intermediate Cutting Fluid$() is similar to $(item)Basic Cutting Fluid$(), but lasts eight times longer and provides a 25% speed boost."
     },
     {
-      "type": "2x_crafting_arc",
+      "type": "crafting",
       "a.heading": "Metal Gravel to Metal Sand",
       "a.recipe": "bloodmagic:arc/dustsfrom_gravel_iron",
       "b.heading": "Ore to 2 Metal Sand",
@@ -154,11 +154,11 @@
       "type": "crafting",
       "heading": "Fuel Cell (Furnace)",
       "recipe": "bloodmagic:primitive_furnace_cell",
-      "text": "The $(item)ARC$() also functions as a $(thing)Furnace$(), but the only fuel sources it accepts is the $(item)Primitive Fuel Cell$() or a $(l:bloodmagic:utility/lava_crystal)Lava Crystal$(/l)."
+      "text": "The Primitive Fuel Cell is good for 128 individual uses. That's more than the Block of Coal used to craft it (60 items), and since it only loses durability when the crafting is finished it will not wase fuel."
     },
     {
       "type": "text",
-      "text": "The $(item)Primitive Fuel Cell$() is good for 128 individual uses. That's more than the $(item)Block of Coal$() used to craft it (60 items), and since it only loses durability when the crafting is finished it will not waste fuel."
+      "text": "The Hydration Cell is used to make Clay, the Cornerstone of Balance."
     },
     {
       "type": "crafting",
