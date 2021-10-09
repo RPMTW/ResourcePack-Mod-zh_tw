@@ -363,5 +363,9 @@
     "infernalexp.config.option.luminousFungusGivesEffect": "Luminous Fungus gives Luminance Effect",
     "infernalexp.config.tooltip.luminousFungusGivesEffect": "Determines whether Luminous Fungus gives the Luminance effect on collision with an entity",
     "infernalexp.commands.setdimensionspawn.success.single": "將%s的重生點設為 %s, %s, %s [%s] 在%s",
-    "infernalexp.commands.setdimensionspawn.success.multiple": "將%s 玩家的重生點設為 %s, %s, %s [%s]在%s"
+    "infernalexp.commands.setdimensionspawn.success.multiple": "將%s 玩家的重生點設為 %s, %s, %s [%s]在%s",
+    "block.infernalexp.luminous_stem": "Luminous Stem",
+    "block.infernalexp.stripped_luminous_stem": "Stripped Luminous Stem",
+    "block.infernalexp.luminous_hyphae": "Luminous Hyphae",
+    "block.infernalexp.stripped_luminous_hyphae": "Stripped Luminous Hyphae"
 }
