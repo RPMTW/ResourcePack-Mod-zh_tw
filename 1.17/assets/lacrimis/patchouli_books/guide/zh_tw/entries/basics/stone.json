@@ -1,0 +1,18 @@
+{
+  "name": "Rune Stone",
+  "icon": "lacrimis:rune/stone",
+  "category": "lacrimis:basics",
+  "advancement": "lacrimis:base/tainted_sludge",
+  "sortnum": 4,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Now this is a bit more what I was expecting. This stone is more malleable than normal, and it seems to absorb and disperse some of the tears. I might be able to make something more refined with this, but it will not hold the tears on it's own."
+    },
+    {
+      "type": "crafting",
+      "recipe": "lacrimis:crafting/rune_stone",
+      "text": "What can I make with $(l:infusion/infusion_basics)rune stone and iron$(/l)?"
+    }
+  ]
+}
