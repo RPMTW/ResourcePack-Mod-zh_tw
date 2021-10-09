@@ -1,0 +1,42 @@
+{
+	"name": "Aboranys",
+	"icon": "theabyss:aboranys_gem",
+	"category": "gem",
+	"advancement": "theabyss:aboranys_ore_adv",
+	"priority": false,
+	"secret": false,
+	"read_by_default": false,
+	"pages": [
+		{
+			"type": "spotlight",
+			"item": "theabyss:aboranys_gem",
+			"title": "Aboranys",
+			"link_recipe": false,
+			"text": "Aboranys can be found in the Blue Forest, Blue Mountains, Phantom Crate, and Slime Forest. They are found at an altitude of 2 to 12. With Aboranys you can make weapons, armor and other things."
+		},
+		{
+			"type": "multiblock",
+			"text": "Aboranys Ore.",
+			"name": "Aboranys",
+			"multiblock": {
+				"pattern": [
+					[
+						"0"
+					],
+					[
+						"A"
+					],
+					[
+						" "
+					],
+					[
+						" "
+					]
+				],
+				"mapping": {
+					"A": "theabyss:aboranys_ore"
+				}
+			}
+		}
+	]
+}
