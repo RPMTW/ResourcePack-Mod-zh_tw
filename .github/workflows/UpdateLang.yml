@@ -43,16 +43,14 @@ jobs:
         run: |
           dart run ./main/Scripts/bin/main.dart --action update_lang --gameVersion ${{ matrix.gameVersion }} --dirGameVersion ${{ matrix.dirGameVersion }}
 
-      - name: "提交檔案"
-        run: |
-          git config --global user.email "rpmtw666@gmail.com.com"
-          git config --global user.name "原始語系檔案更新機器人"
-          git add ./${{ matrix.dirGameVersion }}/assets
-          git commit -m "更新原始語系檔案"
-          git pull
-
       - name: "推送變更"
-        uses: ad-m/github-push-action@master
+        uses: ad-m/github-actions-x/commit@v2.8
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: ${{ github.ref }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          push-branch: ${{ matrix.ref }}
+          commit-message: "更新原始語系檔案"
+          force-add: true
+          files: ./${{ matrix.dirGameVersion }}/assets
+          name: 原始語系檔案更新機器人
+          email: rpmtw666@gmail.com.com
+          rebase: true
