@@ -50,5 +50,11 @@
     "waystones.cost.xp": "XP",
     "waystones.cost.health": "Half-Hearts",
     "waystones.cost.level": "Level(s)",
-    "itemGroup.waystones.waystones": "Waystones"
+    "itemGroup.waystones.waystones": "Waystones",
+    "item.waystones.desert_waystone": "Desert Waystone",
+    "item.waystones.stone_brick_waystone": "Stone Brick Waystone",
+    "block.waystones.desert_waystone": "Desert Waystone",
+    "block.waystones.stone_brick_waystone": "Stone Brick Waystone",
+    "waystones.learned": "Learned one new waystone!",
+    "waystones.learned.multiple": "Learned %1$s new waystones!"
 }
