@@ -1,0 +1,15 @@
+{
+  "name": "page.storagenetwork.gs_chunks",
+  "icon": "storagenetwork:builder_remote",
+  "category": "storagenetwork:getstarted",
+  "pages": [
+    {
+      "type": "text",
+      "text": "page.storagenetwork.gs_chunks.left"
+    },
+    {
+      "type": "text",
+      "text": "page.storagenetwork.gs_chunks.right"
+    }
+  ]
+}
