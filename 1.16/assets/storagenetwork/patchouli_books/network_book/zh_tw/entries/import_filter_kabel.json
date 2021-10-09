@@ -1,0 +1,15 @@
+{
+  "name": "block.storagenetwork.import_filter_kabel",
+  "icon": "storagenetwork:import_filter_kabel",
+  "category": "storagenetwork:cables",
+  "pages": [
+    {
+      "type": "text",
+      "text": "block.storagenetwork.import_filter_kabel.guide"
+    },
+    {
+      "type": "crafting",
+      "recipe": "storagenetwork:import_filter_kabel"
+    }
+  ]
+}

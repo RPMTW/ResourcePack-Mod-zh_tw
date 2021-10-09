@@ -627,5 +627,16 @@
     "mod.chiselsandbits.pattern.placement.failure.not.a.air.block": "Can not place pattern: The targeted block is not empty!",
     "mod.chiselsandbits.pattern.placement.failure.not.a.supported.block": "Can not place pattern: The targeted block can not be chiseled!",
     "mod.chiselsandbits.pattern.item.tooltip.mode.grouped": "Placement Mode: %1$s (%2$s)",
-    "mod.chiselsandbits.pattern.item.tooltip.mode.simple": "Placement Mode: %s"
+    "mod.chiselsandbits.pattern.item.tooltip.mode.simple": "Placement Mode: %s",
+    "mod.chiselsandbits.change-tracking.undo.failed": "You can not undo this!",
+    "mod.chiselsandbits.change-tracking.undo.success": "Undo successful",
+    "mod.chiselsandbits.change-tracking.redo.failed": "You can not redo your last undo!",
+    "mod.chiselsandbits.change-tracking.redo.success": "Redo successful",
+    "mod.chiselsandbits.keys.category": "Chisels & Bits",
+    "mod.chiselsandbits.keys.key.modded-tool.open": "Open Tool menu",
+    "mod.chiselsandbits.keys.key.modded-tool.cycle.left": "Cycle Tool mode to the left",
+    "mod.chiselsandbits.keys.key.modded-tool.cycle.right": "Cycle Tool mode to the right",
+    "mod.chiselsandbits.keys.key.measuring-tape.reset": "Reset measuring tape measurements",
+    "mod.chiselsandbits.keys.key.undo": "Undo last chiseling operation",
+    "mod.chiselsandbits.keys.key.redo": "Redo last undone chiseling operation"
 }

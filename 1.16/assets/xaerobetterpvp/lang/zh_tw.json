@@ -476,7 +476,7 @@
     "gui.xaero_while_sneaking": "Sneaking",
     "gui.xaero_multiple_waypoints_always": "Always",
     "gui.xaero_narrator_select_nothing": "Nothing",
-    "gui.xaero_category_setting_inherit": "§eINHERIT",
+    "gui.xaero_category_setting_inherit": "-",
     "gui.xaero_category_expanded_options": "%s (Choose an Option)",
     "gui.xaero_entity_category_root": "Any",
     "gui.xaero_entity_category_living": "Living",
@@ -531,5 +531,11 @@
     "gui.xaero_radar_setting_icons": "Display Icons",
     "gui.xaero_toggle_entity_radar": "Toggle Entity Radar",
     "narration.xaero_ui_list_left_right_usage": "Press LEFT and RIGHT buttons to select a column within the entry.",
-    "gui.xaero_category_help": "Sub-categories that are higher on the list are prioritized when multiple sub-categories include the same entity! Keep that in mind when creating custom categories. Usually, a new custom category should be placed at the top."
+    "gui.xaero_category_help": "Sub-categories that are higher on the list are prioritized when multiple sub-categories include the same entity! Keep that in mind when creating custom categories. Usually, a new custom category should be placed at the top.",
+    "gui.xaero_update_notification": "Update Notifications",
+    "gui.xaero_category_cut": "Cut/Move §e%1$s",
+    "gui.xaero_category_paste": "Paste §e%1$s§r Into §e%2$s",
+    "gui.xaero_category_paste_cancel": "Cancel Cut/Paste",
+    "gui.xaero_category_duplicate": "Duplicate §e%1$s",
+    "gui.xaero_category_duplicate_confirm": "Duplicate the following category?"
 }

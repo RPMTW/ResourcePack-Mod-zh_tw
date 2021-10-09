@@ -250,5 +250,17 @@
     "gui.sophisticatedbackpacks.upgrades.buttons.swap_tools.detail": "Swaps appropriate tool into hand when it holds weapon or another tool",
     "gui.sophisticatedbackpacks.upgrades.buttons.only_swap_for_tools": "Only Swap For Other Tools",
     "gui.sophisticatedbackpacks.upgrades.buttons.only_swap_for_tools.detail": "Swaps tool into hand only if it holds another tool, does not swap for weapon",
-    "gui.sophisticatedbackpacks.upgrades.buttons.do_not_swap_tools.detail": "Tools are never swapped into hand"
+    "gui.sophisticatedbackpacks.upgrades.buttons.do_not_swap_tools.detail": "Tools are never swapped into hand",
+    "gui.sophisticatedbackpacks.upgrades.tag_list.title": "Tags",
+    "gui.sophisticatedbackpacks.upgrades.tag_list.empty": "No tags selected",
+    "gui.sophisticatedbackpacks.upgrades.tag_list.tag_overflow": "+ %s more",
+    "gui.sophisticatedbackpacks.upgrades.buttons.add_tag": "Add Tag",
+    "gui.sophisticatedbackpacks.upgrades.buttons.add_tag.no_item": "<- Click an Item into slot to start adding its tags",
+    "gui.sophisticatedbackpacks.upgrades.buttons.add_tag.no_additional_tags": "All Item's tags are already added",
+    "gui.sophisticatedbackpacks.upgrades.buttons.add_tag.controls": "Scroll to Select, Click to Add",
+    "gui.sophisticatedbackpacks.upgrades.buttons.remove_tag": "Remove Tag",
+    "gui.sophisticatedbackpacks.upgrades.buttons.remove_tag.empty": "No tags to remove",
+    "gui.sophisticatedbackpacks.upgrades.buttons.remove_tag.controls": "Scroll to Select, Click to Remove",
+    "gui.sophisticatedbackpacks.upgrades.buttons.match_any_tag": "Match Any Tag",
+    "gui.sophisticatedbackpacks.upgrades.buttons.match_all_tags": "Match All Tags"
 }
