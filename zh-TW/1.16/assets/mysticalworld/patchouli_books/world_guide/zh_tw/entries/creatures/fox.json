@@ -1,0 +1,22 @@
+{
+    "name": "Silver Fox",
+    "icon": "mysticalworld:pelt",
+    "category": "creatures",
+    "pages": [
+        {
+            "type": "animal_spawn_info",
+            "animal": "狐狸",
+            "breed": "Breed: with uncooked chicken.",
+            "tame": "用蘋果馴服。",
+            "blurb": ""
+        },
+        {
+            "type": "entity",
+            "name": "狐狸",
+            "entity": "mysticalworld:silver_fox",
+            "scale": "0.8",
+            "offset": 0,
+            "text": "野生的狐狸是兔子和雞的殺手，但馴服後會變得溫順！"
+        }
+    ]
+}
