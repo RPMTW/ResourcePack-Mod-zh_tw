@@ -1,0 +1,12 @@
+{
+    "name": "Vinegar",
+    "icon": "mysticalworld:vinegar",
+    "category": "cuisine",
+    "pages": [
+        {
+            "type": "crafting",
+            "recipe": "mysticalworld:vinegar",
+            "text": "Causes hunger but serves no other purpose."
+        }
+    ]
+}
