@@ -27,21 +27,13 @@ jobs:
       - uses: actions/checkout@v2
         with:
           ref: ${{ matrix.ref }}
-      - uses: actions/checkout@v2
-        with:
-          ref: main
-          path: "main"
-      - uses: dart-lang/setup-dart@v1
-
-      - name: 安裝依賴項
-        run: |
-          ls
-          cd main/Scripts
-          dart pub get
 
       - name: "更新原始語系檔案"
-        run: |
-          dart run ./main/Scripts/bin/main.dart --action update_lang --gameVersion ${{ matrix.gameVersion }} --dirGameVersion ${{ matrix.dirGameVersion }}
+        uses: RPMTW/Translation-Scripts@1.0
+        with:
+          action: "update_lang"
+          gameVersion: ${{ matrix.gameVersion }}
+          dirGameVersion: ${{ matrix.dirGameVersion }}
 
       - name: "推送變更"
         uses: github-actions-x/commit@v2.8
