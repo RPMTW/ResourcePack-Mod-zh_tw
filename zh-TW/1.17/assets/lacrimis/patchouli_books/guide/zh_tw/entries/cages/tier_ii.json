@@ -1,0 +1,88 @@
+{
+  "name": "Tier II Soul Cage",
+  "icon": "lacrimis:rune/tier2",
+  "category": "lacrimis:cages",
+  "advancement": "lacrimis:base/rune_tier2",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Solidified tears are the perfect solution for making smaller and more compact runes and symbols. This new rune system can do many things that the old ones found impossible, and it can make the old tasks much more efficiently."
+    },
+    {
+      "type": "lacrimis:infusion",
+      "recipe": "lacrimis:infusion/rune_tier2",
+      "recipe2": "lacrimis:incrafting/rune_duct2"
+    },
+    {
+      "type": "text",
+      "text": "A tier II soul cage, needs seven tier II runes, and a tier II duct connector. No cage blocks are necessary for this one.$(br)Tier I core runes used in a tier II setup will require 25% less tears."
+    },
+    {
+      "type": "multiblock",
+      "text": "Replace the center with any tier I or II core rune.",
+      "multiblock": {
+        "pattern": [
+          [
+            "456",
+            "307",
+            "2P8"
+          ]
+        ],
+        "mapping": {
+          "0": "lacrimis:rune/stone",
+          "P": "lacrimis:rune/duct2[center=1]",
+          "2": "lacrimis:rune/tier2[center=2]",
+          "3": "lacrimis:rune/tier2[center=3]",
+          "4": "lacrimis:rune/tier2[center=4]",
+          "5": "lacrimis:rune/tier2[center=5]",
+          "6": "lacrimis:rune/tier2[center=6]",
+          "7": "lacrimis:rune/tier2[center=7]",
+          "8": "lacrimis:rune/tier2[center=0]"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "text": "Using a mix of tier I runes and tier II runes is also valid, though it will only be as powerful as a normal tier I soul cage. The advantage of this is that tier II runes do not require cage blocks, allowing for some more interesting decorations."
+    },
+    {
+      "type": "multiblock",
+      "name": "Mixing Runes",
+      "multiblock": {
+        "pattern": [
+          [
+            "RHL",
+            "V V",
+            "   "
+          ],
+          [
+            "RHL",
+            "V0V",
+            "   "
+          ],
+          [
+            "456",
+            "3S7",
+            "2P8"
+          ]
+        ],
+        "mapping": {
+          "R": "minecraft:iron_bars[south=true,east=true]",
+          "L": "minecraft:iron_bars[north=true,east=true]",
+          "H": "minecraft:iron_bars[south=true,north=true]",
+          "V": "minecraft:iron_bars[east=true,west=true]",
+          "S": "lacrimis:rune/stone",
+          "P": "lacrimis:rune/duct2[center=1]",
+          "2": "lacrimis:rune/tier2[center=2]",
+          "3": "lacrimis:rune/tier1[center=3]",
+          "4": "lacrimis:rune/tier1[center=4]",
+          "5": "lacrimis:rune/tier1[center=5]",
+          "6": "lacrimis:rune/tier1[center=6]",
+          "7": "lacrimis:rune/tier1[center=7]",
+          "8": "lacrimis:rune/tier2[center=0]"
+        }
+      }
+    }
+  ]
+}
