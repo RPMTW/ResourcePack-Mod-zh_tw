@@ -1,11 +1,8 @@
-"commit_message": "Fix: New translations %original_file_name% from Crowdin"
-"append_commit_message": false
-
-"files":
-  [
-    {
-      "source": "1.17/assets*",
-      "ignore": ["Add-on", "zh-TW"],
-      "translation": "%original_path%/%file_name%.%file_extension%",
-    },
-  ]
+commit_message: 'Fix: New translations %original_file_name% from Crowdin'
+append_commit_message: false
+files:
+  - source: 1.17/assets*
+    ignore:
+      - Add-on
+      - zh-TW
+    translation: '%original_path%/%file_name%.%file_extension%'
