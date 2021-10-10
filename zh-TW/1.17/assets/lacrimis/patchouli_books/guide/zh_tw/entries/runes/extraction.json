@@ -1,0 +1,18 @@
+{
+  "name": "Extraction (I)",
+  "icon": "lacrimis:rune/extraction",
+  "category": "lacrimis:runes",
+  "advancement": "lacrimis:base/rune_tier1",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Now this one is not to be trifled with, nor is it useful on its own. This extraction rune can take the soul of a being and force it into a tear duct system. I have theorized that this can be used for some kind of teleportation, though it will not work with this rune alone."
+    },
+    {
+      "type": "lacrimis:infusion",
+      "recipe": "lacrimis:infusion/rune_extraction",
+      "text": "Run cost: 200 Tears$(br)$(l:cages/tier_i)Tier I Soul Cage$(/l)$(br2)Thankfully it does not activate without a proper endpoint, such as the $(l:runes/destination)Destination Rune.$(/l)"
+    }
+  ]
+}
