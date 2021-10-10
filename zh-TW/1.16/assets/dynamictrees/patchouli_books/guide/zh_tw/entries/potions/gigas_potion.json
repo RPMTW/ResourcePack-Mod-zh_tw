@@ -1,11 +1,11 @@
 {
     "name": "Potion of Gigas",
     "icon": "dynamictrees:dendro_potion{potion_index:2}",
-    "category": "potions",
+    "category": "藥水",
     "sortnum": "5",
     "pages": [
         {
-            "type": "brewing",
+            "type": "釀造",
             "title": "Potion of Gigas",
             "ingredient": "minecraft:pumpkin_seeds",
             "bottle": "dynamictrees:dendro_potion",
@@ -13,8 +13,8 @@
             "text": "This potion changes the tree species to its mega equivalent. (if available)"
         },
         {
-            "type": "relations",
-            "title": "Relations",
+            "type": "關係",
+            "title": "關係",
             "entries": [
                 "potions/base_potion",
                 "potions/burgeoning_potion",
