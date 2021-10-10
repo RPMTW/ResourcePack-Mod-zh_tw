@@ -1,11 +1,11 @@
 {
     "name": "Base Potion of Transformation",
     "icon": "dynamictrees:dendropotion:6",
-    "category": "potions",
+    "category": "藥水",
     "sortnum": "6",
     "pages": [
         {
-            "type": "brewing",
+            "type": "釀造",
             "title": "Base Potion of Transformation",
             "ingredient": "minecraft:prismarine_crystals",
             "bottle": "dynamictrees:dendropotion",
@@ -13,8 +13,8 @@
             "text": "This is the brewing recipe for the base transformation potion.$(br2)All other transformation potions use this."
         },
         {
-            "type": "relations",
-            "title": "Relations",
+            "type": "關係",
+            "title": "關係",
             "entries": [
                 "potions/basepotion",
                 "potions/burgeoningpotion",
