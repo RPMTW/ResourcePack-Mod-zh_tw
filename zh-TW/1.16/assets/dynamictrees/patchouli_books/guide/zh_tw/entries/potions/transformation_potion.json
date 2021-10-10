@@ -1,11 +1,11 @@
 {
     "name": "Potion of Transformation",
     "icon": "dynamictrees:dendro_potion{potion_index:6}",
-    "category": "potions",
+    "category": "藥水",
     "sortnum": "3",
     "pages": [
         {
-            "type": "brewing",
+            "type": "釀造",
             "title": "Potion of Transformation",
             "ingredient": "dynamictrees:oak_seed",
             "bottle": "dynamictrees:dendro_potion{potion_index:6}",
@@ -13,8 +13,8 @@
             "text": "This potion changes an existing tree into another tree species.$(br2)The species of tree depends on the seed you use in the recipe. The example above uses an Oak Acorn."
         },
         {
-            "type": "relations",
-            "title": "Relations",
+            "type": "關係",
+            "title": "關係",
             "entries": [
                 "potions/base_potion",
                 "potions/burgeoning_potion",
