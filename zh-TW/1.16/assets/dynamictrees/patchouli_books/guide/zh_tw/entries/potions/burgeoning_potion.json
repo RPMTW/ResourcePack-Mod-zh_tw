@@ -1,11 +1,11 @@
 {
     "name": "Potion of Burgeoning",
     "icon": "dynamictrees:dendro_potion{potion_index:3}",
-    "category": "potions",
+    "category": "藥水",
     "sortnum": "3",
     "pages": [
         {
-            "type": "brewing",
+            "type": "釀造",
             "title": "Potion of Burgeoning",
             "ingredient": "minecraft:ghast_tear",
             "bottle": "dynamictrees:dendro_potion",
@@ -13,8 +13,8 @@
             "text": "This potion causes the tree to rapidly grow and replenishes its fertility. It will continue to grow until the soil is dry. The growth effect can be extended for as long as needed by replenishing the fertility every so often."
         },
         {
-            "type": "relations",
-            "title": "Relations",
+            "type": "關係",
+            "title": "關係",
             "entries": [
                 "potions/base_potion",
                 "potions/depletion_potion",
