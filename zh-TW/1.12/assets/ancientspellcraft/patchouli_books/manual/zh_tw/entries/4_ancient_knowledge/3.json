@@ -7,7 +7,7 @@
 	"pages": [
 		{
 			"type": "text",
-			"text": "Stone tablets were written in the language of the ancients, little is known about this long-dead dialect and even fewer can decipher them. $(br) $(br) $(o)Perhaps studying them with your Sphere could help?"
+			"text": "石碑是用古人的語言書寫的，人們對這種久已消亡的方言知之甚少，能破譯它們的人更少$(br)$(br)$(o)也許用您的球體研究它們會有所幫助？"
 		},
 		{
 			"type": "spotlight",
@@ -30,7 +30,7 @@
 		{
 			"type": "spotlight",
 			"item": "ancientspellcraft:stone_tablet_grand",
-			"text": "The largest stone tablets - and the most rare of its kind.",
+			"text": "最大的石碑——也是同類中最罕見的。",
 			"link_recipe": false
 		}
 	]
