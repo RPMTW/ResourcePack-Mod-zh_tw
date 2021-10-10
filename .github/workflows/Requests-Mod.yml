@@ -39,7 +39,7 @@ jobs:
           push-branch: ${{ github.event.inputs.ref }}
           commit-message: "新增請求的語系檔案"
           force-add: true
-          files: ./${{ github.event.inputs.gameVersion }}/assets
+          files: ./
           name: RPMTW Bot
           email: rpmtw666@gmail.com
           rebase: true
