@@ -1,11 +1,11 @@
 {
     "name": "Potion of Depletion",
     "icon": "dynamictrees:dendro_potion{potion_index:1}",
-    "category": "potions",
+    "category": "藥水",
     "sortnum": "2",
     "pages": [
         {
-            "type": "brewing",
+            "type": "釀造",
             "title": "Potion of Depletion",
             "ingredient": "minecraft:slime_ball",
             "bottle": "dynamictrees:dendro_potion",
@@ -13,8 +13,8 @@
             "text": "This potion depletes the soil and causes the tree to stop growing."
         },
         {
-            "type": "relations",
-            "title": "Relations",
+            "type": "關係",
+            "title": "關係",
             "entries": [
                 "potions/base_potion",
                 "potions/burgeoning_potion",
