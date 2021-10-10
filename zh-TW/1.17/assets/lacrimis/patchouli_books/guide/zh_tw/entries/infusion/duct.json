@@ -1,0 +1,26 @@
+{
+  "name": "Tear Ducts",
+  "icon": "lacrimis:duct",
+  "category": "lacrimis:infusion",
+  "advancement": "lacrimis:base/infusion_table",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "text",
+      "text": "One of the first things I tried with the new infusion table is a way to move a bit more distant from the crucible. Now that I have a safer way to craft I would like to do it outside the splash zone.$(br2)Given the spreading capabilities of the tears, it turned out to be pretty easy to do."
+    },
+    {
+      "type": "crafting",
+      "recipe": "lacrimis:crafting/duct"
+    },
+    {
+      "type": "text",
+      "text": "There are a few other variants that look to be useful, especially if I can transfer more than just tears:$(li)The gated tear duct can only connect when it is powered with redstone.$(li)The one way tear duct is a straight piece that can only transfer in one direction."
+    },
+    {
+      "type": "lacrimis:infusion",
+      "recipe": "lacrimis:infusion/gated_duct",
+      "recipe2": "lacrimis:infusion/one_way_duct"
+    }
+  ]
+}
