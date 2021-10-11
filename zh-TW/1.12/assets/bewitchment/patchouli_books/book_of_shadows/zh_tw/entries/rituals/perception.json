@@ -1,11 +1,11 @@
 {
-  "name": "Perception",
+  "name": "感知儀式",
   "category": "rituals",
   "icon": "minecraft:ender_eye",
   "pages": [
     {
       "type": "text",
-      "text": "Causes entities nearby to glow"
+      "text": "使周圍的實體發光"
     },
     {
       "type": "bewitchment:ritual",
