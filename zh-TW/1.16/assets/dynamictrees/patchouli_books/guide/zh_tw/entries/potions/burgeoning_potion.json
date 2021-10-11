@@ -13,8 +13,8 @@
             "text": "This potion causes the tree to rapidly grow and replenishes its fertility. It will continue to grow until the soil is dry. The growth effect can be extended for as long as needed by replenishing the fertility every so often."
         },
         {
-            "type": "關係",
-            "title": "關係",
+            "type": "relations",
+            "title": "Relations",
             "entries": [
                 "potions/base_potion",
                 "potions/depletion_potion",
