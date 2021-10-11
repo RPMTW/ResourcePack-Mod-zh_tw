@@ -1,16 +1,16 @@
 {
-  "name": "Vampiric Amulet",
+  "name": "吸血鬼護身符",
   "category": "demonic_gear",
   "icon": "bewitchment:vampiric_amulet",
   "pages": [
     {
       "type": "text",
-      "text": "A beautiful dark red amulet of mysterious origin. Wearers of this amulet sometimes report feeling rejuvenized after taking damage for some strange reason."
+      "text": "這枚未知來源的黑紅色護符十分亮眼，穿戴過它的人這樣描述它的作用，當他們因某些外部原因而受到傷害後，有時他們會感到身體又煥發了活力。"
     },
     {
       "type": "spotlight",
       "item": "bewitchment:vampiric_amulet",
-      "text": "Only obtainable through loot or demon trades"
+      "text": "這只能夠從獎勵箱以及惡魔交易中獲得"
     }
   ]
 }
