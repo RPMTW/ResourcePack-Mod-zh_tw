@@ -1,5 +1,5 @@
 {
-  "name": "Sigil of Purity",
+  "name": "淨咒符文",
   "category": "sigils",
   "icon": "bewitchment:sigil_purity",
   "pages": [
@@ -10,7 +10,7 @@
     {
       "type": "spotlight",
       "item": "bewitchment:sigil_purity",
-      "text": "Removes some lesser curses, but not all"
+      "text": "移除一些較弱的詛咒，不是全部詛咒"
     }
   ]
 }
