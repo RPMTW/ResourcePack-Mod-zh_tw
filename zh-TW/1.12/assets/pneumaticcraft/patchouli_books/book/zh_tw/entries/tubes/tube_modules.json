@@ -10,7 +10,7 @@
       "text": "$(thing)管道模組/$是一系列可以被安裝在$(l:tubes/pressure_tubes)壓力管道/$上的組件，可以在管道的側面，也可以在管線之中。$(p)可以透過使用$(l:tools/pneumatic_wrench)氣動扳手/$$(thing)潛行右擊/$移除已有的管道模組。"
     },
     {
-      "type": "關係",
+      "type": "relations",
       "entries": [
         "tubes/safety_module",
         "tubes/pressure_gauge_module",
