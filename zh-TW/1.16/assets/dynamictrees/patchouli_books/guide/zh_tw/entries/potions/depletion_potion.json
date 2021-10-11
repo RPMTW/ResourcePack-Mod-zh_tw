@@ -13,8 +13,8 @@
             "text": "This potion depletes the soil and causes the tree to stop growing."
         },
         {
-            "type": "關係",
-            "title": "關係",
+            "type": "relations",
+            "title": "Relations",
             "entries": [
                 "potions/base_potion",
                 "potions/burgeoning_potion",
