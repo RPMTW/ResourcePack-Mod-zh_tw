@@ -1,31 +1,31 @@
 {
-  "name": "Chalks",
+  "name": "粉筆",
   "category": "cauldron_and_brewing",
   "icon": "bewitchment:focal_chalk",
   "pages": [
     {
       "type": "text",
-      "text": "Chalk is used in [Circle Rites] in order to help focus and channel power. The Chalk Circles draws are just as important as the reagents used in the rite."
+      "text": "粉筆被應用於 [圓環儀式] , 其目的是匯集和引導儀式中的能量. 粉筆與儀式中所加入的魔法試劑一樣，都是不可或缺的。"
     },
     {
       "type": "crafting",
       "recipe": "bewitchment:ritual_chalk",
-      "text": "The first form of chalk, both used on its own and as a base for the other chalks."
+      "text": "粉筆的第一種形式, 它已經可以被用於儀式當中，當然也可以作為其它粉筆的合成基礎."
     },
     {
       "type": "bewitchment:cauldron_recipe",
       "recipe": "bewitchment:focal_chalk",
-      "text": "The heart of any circle ritual."
+      "text": "圓環儀式的核心."
     },
     {
       "type": "bewitchment:cauldron_recipe",
       "recipe": "bewitchment:fiery_chalk",
-      "text": "Used for rituals of a more diabolic nature."
+      "text": "用於那些本質上較為殘忍的儀式."
     },
     {
       "type": "bewitchment:cauldron_recipe",
       "recipe": "bewitchment:phasing_chalk",
-      "text": "Used for rituals that require communication with other dimensions or across large areas."
+      "text": "用於需要與其他維度或跨較大區域溝通的儀式."
     }
   ]
 }
