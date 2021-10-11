@@ -13,8 +13,8 @@
             "text": "This potion causes the tree to rapidly grow."
         },
         {
-            "type": "關係",
-            "title": "關係",
+            "type": "relations",
+            "title": "Relations",
             "entries": [
                 "potions/basepotion",
                 "potions/depletionpotion",
