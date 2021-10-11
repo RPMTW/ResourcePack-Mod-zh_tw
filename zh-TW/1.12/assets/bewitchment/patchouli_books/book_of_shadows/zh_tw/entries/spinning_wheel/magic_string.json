@@ -1,37 +1,37 @@
 {
-  "name": "Magic String",
+  "name": "魔法絲線",
   "category": "spinning_wheel",
   "icon": "bewitchment:spirit_string",
   "priority": true,
   "pages": [
     {
       "type": "text",
-      "text": "Strings bind things, everyone knows that. However, magical strings can bind other things together, including binding souls and even the essence of dimensions."
+      "text": "人人知道絲線可以縫合物品。然而，魔法絲線可以做到比普通絲線更多的事情，譬如在靈魂甚至是維度的本原之間建立連接。"
     },
     {
       "type": "bewitchment:spinning_wheel_recipe",
       "recipe": "bewitchment:cobweb",
-      "text": "Those spiders don’t got anything on you"
+      "text": "那些蜘蛛不會從你身上撈到什麼東西的"
     },
     {
       "type": "bewitchment:spinning_wheel_recipe",
       "recipe": "bewitchment:witches_stitching",
-      "text": "You got to pick up every stitch, must be the season of the Witch"
+      "text": "抽絲捻線，巫師盛年"
     },
     {
       "type": "bewitchment:spinning_wheel_recipe",
       "recipe": "bewitchment:golden_thread",
-      "text": "A shining golden thread"
+      "text": "閃亮的金線"
     },
     {
       "type": "bewitchment:spinning_wheel_recipe",
       "recipe": "bewitchment:pure_filament",
-      "text": "A shining silver thread, blessed and purified"
+      "text": "一根閃亮的銀線，其上隱約閃動著祝福以及淨化的光芒"
     },
     {
       "type": "bewitchment:spinning_wheel_recipe",
       "recipe": "bewitchment:spirit_string",
-      "text": "A string infused with spirits"
+      "text": "注入了靈魂的絲線"
     }
   ]
 }
