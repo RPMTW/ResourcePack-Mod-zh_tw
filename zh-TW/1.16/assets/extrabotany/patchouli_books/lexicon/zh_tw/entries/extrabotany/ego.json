@@ -1,0 +1,48 @@
+{
+  "name": "extrabotany.entry.ego",
+  "category": "extrabotany:extrabotany",
+  "icon": "extrabotany:pylon",
+  "advancement": "botania:main/gaia_guardian_kill",
+  "priority": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "extrabotany.page.ego0"
+    },
+    {
+      "type": "text",
+      "text": "extrabotany.page.ego1"
+    },
+    {
+      "type": "multiblock",
+      "multiblock_id": "botania:gaia_ritual",
+      "text": "botania.page.ego2"
+    },
+    {
+      "type": "crafting",
+      "text": "extrabotany.page.ego3",
+      "recipe": "extrabotany:challengeticket"
+    },
+    {
+      "type": "text",
+      "text": "extrabotany.page.ego4"
+    },
+    {
+      "type": "text",
+      "text": "extrabotany.page.ego5"
+    },
+    {
+      "type": "botania:terrasteel",
+      "text": "extrabotany.page.ego6",
+      "recipe": "extrabotany:terra_plate/orichalcos"
+    }
+  ],
+  "extra_recipe_mappings": {
+    "extrabotany:heromedal": 1,
+    "extrabotany:treasurebox": 1,
+    "extrabotany:rewardbaga": 1,
+    "extrabotany:rewardbagb": 1,
+    "extrabotany:rewardbagc": 1,
+    "extrabotany:rewardbagd": 1
+  }
+}
