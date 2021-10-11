@@ -1,52 +1,52 @@
 {
-  "name": "Advanced Fumes",
+  "name": "高級魔法精華",
   "category": "distilling_and_smelting",
   "icon": "bewitchment:cleansing_balm",
   "sortnum": 2,
   "pages": [
     {
       "type": "text",
-      "text": "Basic Fumes can be combined in the Distillery with other reagents, including other Fumes, in order to make more advanced mixtures used in more powerful forms of magic."
+      "text": "可以使用蒸餾器將基礎魔法精華與其它魔法試劑(當然包括其它基礎精華)混合，以便製成更高級的混合物，這種混合物在更強大的魔法中會用到。"
     },
     {
       "type": "bewitchment:distillery_recipe",
       "recipe": "bewitchment:cleansing_balm",
-      "text": "A salve with purifying powers"
+      "text": "具有淨化能力的藥膏"
     },
     {
       "type": "bewitchment:distillery_recipe",
       "recipe": "bewitchment:demonic_elixir",
-      "text": "A foul mixture infused with the essence of a demon"
+      "text": "被注入了惡魔本質的汙穢混合物"
     },
     {
       "type": "bewitchment:distillery_recipe",
       "recipe": "bewitchment:fiery_unguent",
-      "text": "Get your spicy memes here"
+      "text": "想來一點土（辣）味嗎？"
     },
     {
       "type": "bewitchment:distillery_recipe",
       "recipe": "bewitchment:oil_of_vitriol",
-      "text": "Cruel and bitter criticism"
+      "text": "毫不留情的批評"
     },
     {
       "type": "bewitchment:distillery_recipe",
       "recipe": "bewitchment:swirl_of_depths",
-      "text": "$(o)Might be kinda hypnotic"
+      "text": "$(o)可能這東西具有催眠的效果"
     },
     {
       "type": "bewitchment:distillery_recipe",
       "recipe": "bewitchment:heaven_extract",
-      "text": "From the heavens"
+      "text": "從天堂而來"
     },
     {
       "type": "bewitchment:distillery_recipe",
       "recipe": "bewitchment:stone_ichor",
-      "text": "Earthy mixture"
+      "text": "這瓶混合物還帶著泥土的芳香"
     },
     {
       "type": "bewitchment:distillery_recipe",
       "recipe": "bewitchment:otherworld_tears",
-      "text": "If you listen closely, you can hear them cry ~"
+      "text": "仔細聆聽, 你能聽到他們的哭泣"
     }
   ]
 }
