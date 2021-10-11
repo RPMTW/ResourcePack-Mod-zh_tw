@@ -1,16 +1,16 @@
 {
-  "name": "Thyrsus",
+  "name": "巴卡司之杖",
   "category": "magic_overview",
   "icon": "bewitchment:thyrsus",
   "pages": [
     {
       "type": "text",
-      "text": "A piece of giant fennel, adorned with a pinecone and ivy; inside the pinecone is a piece of iron, to pierce targets. Usage of this on animals causes them to become attracted to one another. It is unclear how this tool was made, but it's at least easily repairable with sticks."
+      "text": "一片巨大的茴香，其上裝飾著松果以及常春藤；松果內藏著一小塊能夠刺穿敵人的鐵。對著動物使用這根杖子，會使得它們進入繁殖狀態。這根手杖的製作工藝尚不明確，但你可以用木棒來輕鬆地修復它"
     },
     {
       "type": "spotlight",
       "item": "bewitchment:thyrsus",
-      "text": "This weapon, while frail, deals a bit of damage, and can inflict nausea on a target. Seems to be easily repairable and enchantable too."
+      "text": "這件武器只能對敵人造成較低的傷害，並對目標造成噁心效果。修復起來很容易，附魔性也較好。"
     }
   ]
 }
