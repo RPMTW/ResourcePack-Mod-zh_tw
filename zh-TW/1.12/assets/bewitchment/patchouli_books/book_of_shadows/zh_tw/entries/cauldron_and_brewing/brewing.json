@@ -1,295 +1,295 @@
 {
-  "name": "Brewing",
+  "name": "釀造",
   "category": "cauldron_and_brewing",
   "icon": "bewitchment:witches_cauldron",
   "pages": [
     {
       "type": "text",
-      "text": "Of course, the main reason a witch will use a Cauldron is to concoct magical brews, for good or for ill."
+      "text": "當然，女巫使用釜鍋的主要原因是為了調製或好或壞的魔法藥劑"
     },
     {
       "type": "text",
-      "title": "Brews",
-      "text": "In order to designate cauldron tomfoolery as a brew, a Mandrake Root must be thrown in first before any other reagents. After that, throw in the other reagents you wish, however the more you add, the more expensive the brew will be, ME-wise."
+      "title": "釀造",
+      "text": "為了讓你的釜鍋進行釀造, 曼陀羅根必須最先放入其中. 在這之後, 加入其它你想要加入的其他魔法試劑, 但是你加的越多，釀造成本也就越昂貴, 要注意把握好度."
     },
     {
       "type": "text",
-      "text": "Including redstone will increase the duration of the brew, up to a certain amount. Glowstone has the same effect on potency, and a Raven's Feather will prevent particles from appearing. Gunpowder may also be thrown in to create a splash brew, and if an Owlet's Wing is thrown in as well, it becomes a lingering brew."
+      "text": "紅石可以增加特定時長的藥水效果螢石則是增加藥水功效, 烏鴉的羽毛則可以取消藥水的粒子效果，投入火藥可以讓藥水變為飛濺 , 如果再繼續加入貓頭鷹的翅膀，它就會變成滯留 藥水"
     },
     {
       "type": "bewitchment:brew",
       "recipe": "bewitchment:instant_health",
-      "text": "Heals the target if they are alive, or damages them if undead"
+      "text": "治療生物，傷害不死"
     },
     {
       "type": "bewitchment:brew",
       "recipe": "bewitchment:instant_damage",
-      "text": "Damages the target if they are alive, or heals them if undead"
+      "text": "對生物造成傷害，治癒不死"
     },
     {
       "type": "bewitchment:brew",
       "recipe": "bewitchment:regeneration",
-      "text": "Grants regeneration if the target is alive, does nothing otherwise"
+      "text": "使目標生物再生, 對非生物沒有效果"
     },
     {
       "type": "bewitchment:brew",
       "recipe": "bewitchment:poison",
-      "text": "Poisons the target if they are alive, does nothing otherwise"
+      "text": "使目標中毒, 對非生物沒有效果"
     },
     {
       "type": "bewitchment:brew",
       "recipe": "bewitchment:wither",
-      "text": "Similar to poison but the capacity to kill, and damages undead as well"
+      "text": "與劇毒藥水類似，但會致死，並且對不死同樣有效果"
     },
     {
       "type": "bewitchment:brew",
       "recipe": "bewitchment:night_vision",
-      "text": "Allows the target to see clearly in low light areas. The Eye of Old will give this in addition to Water Breathing"
+      "text": "讓目標在昏暗區域看得更清楚，加入遠古之眼可以讓藥水額外獲得水下呼吸效果"
     },
     {
       "type": "bewitchment:brew",
       "recipe": "bewitchment:blindness",
-      "text": "Obscures the target's vision, and prevents them from sprinting"
+      "text": "模糊目標的視線，並使他們無法衝刺"
     },
     {
       "type": "bewitchment:brew",
       "recipe": "bewitchment:strength",
-      "text": "Strengthens the target's arms, allowing them to deal more melee damage"
+      "text": "增強目標的臂力, 使他們近戰傷害提高"
     },
     {
       "type": "bewitchment:brew",
       "recipe": "bewitchment:weakness",
-      "text": "Weakens the target's arms, forcing them to deal less melee damage"
+      "text": "削弱目標的臂力，使他們減少近戰傷害"
     },
     {
       "type": "bewitchment:brew",
       "recipe": "bewitchment:resistance",
-      "text": "Toughens the target's skin to receive less damage from non magical sources"
+      "text": "強化目標的外觀，可以降低非魔法傷害"
     },
     {
       "type": "bewitchment:brew",
       "recipe": "bewitchment:fire_resistance",
-      "text": "Grants the target immunity to fire and lava"
+      "text": "使得目標對火焰與熔岩傷害免疫"
     },
     {
       "type": "bewitchment:brew",
       "recipe": "bewitchment:absorption",
-      "text": "Gives a temporarily boost to health"
+      "text": "給予目標暫時性的血量提高"
     },
     {
       "type": "bewitchment:brew",
       "recipe": "bewitchment:jump_boost",
-      "text": "Strengthens the target's legs, allowing them to jump higher"
+      "text": "增強目標的腿部力量, 使得他們跳的更高"
     },
     {
       "type": "bewitchment:brew",
       "recipe": "bewitchment:speed",
-      "text": "Strengthens the target's legs, allowing them to move faster"
+      "text": "增強目標的腿部力量, 使得他們跑得更快"
     },
     {
       "type": "bewitchment:brew",
       "recipe": "bewitchment:slowness",
-      "text": "Weakens the target's legs, forcing them to move slower"
+      "text": "使目標的腿部無力化, 降低他們的移速"
     },
     {
       "type": "bewitchment:brew",
       "recipe": "bewitchment:haste",
-      "text": "Strengthens the target's arms, allowing them to mine and attack faster"
+      "text": "增強目標的手臂力量, 允許他們更快地採掘或攻擊"
     },
     {
       "type": "bewitchment:brew",
       "recipe": "bewitchment:mining_fatigue",
-      "text": "Weakens the target's arms, forcing them to mine and attack slower"
+      "text": "是目標的手臂陷入虛弱, 降低他們採掘 或攻擊的速度"
     },
     {
       "type": "bewitchment:brew",
       "recipe": "bewitchment:luck",
-      "text": "Gives the target a better chance at obtaining good loot"
+      "text": "使目標更有可能獲得好的戰利品"
     },
     {
       "type": "bewitchment:brew",
       "recipe": "bewitchment:unluck",
-      "text": "Gives the target a worse chance at obtaining good loot"
+      "text": "降低目標獲得好的戰利品的機率"
     },
     {
       "type": "bewitchment:brew",
       "recipe": "bewitchment:water_breathing",
-      "text": "Causes the target the grow a temporary set of gills, allowing them to breath while submerged in liquid. The Eye of Old will give this in addition to Night Vision"
+      "text": "使目標長出一副臨時的腮, 讓它們得以在液體中呼吸. 加入遠古之眼會額外使得藥水獲得夜視效果"
     },
     {
       "type": "bewitchment:brew",
       "recipe": "bewitchment:invisibility",
-      "text": "Causes all light to pass through the target, rendering them invisible. Does not apply to the target's armor and held items, however"
+      "text": "所有的光會直接穿過目標, 使其不可見. 然而，目標的盔甲和手裡的物品並不會受此藥水影響"
     },
     {
       "type": "bewitchment:brew",
       "recipe": "bewitchment:hunger",
-      "text": "Causes the target to think too much about their next meal"
+      "text": "使目標陷入飢餓"
     },
     {
       "type": "bewitchment:brew",
       "recipe": "bewitchment:nausea",
-      "text": "Disorients the target"
+      "text": "使目標暈頭轉向"
     },
     {
       "type": "bewitchment:brew",
       "recipe": "bewitchment:glowing",
-      "text": "Causes the target to glow"
+      "text": "使目標發光"
     },
     {
       "type": "bewitchment:brew",
       "recipe": "bewitchment:levitation",
-      "text": "Slowly raises the target into the air"
+      "text": "使目標緩慢地升入空中"
     },
     {
       "type": "bewitchment:brew",
       "recipe": "bewitchment:absence",
-      "text": "Purges the target of all potion effects"
+      "text": "清除目標所有的藥水效果"
     },
     {
       "type": "bewitchment:brew",
       "recipe": "bewitchment:purification",
-      "text": "Purges the target of negative potion effects"
+      "text": "清除目標的負面藥水效果"
     },
     {
       "type": "bewitchment:brew",
       "recipe": "bewitchment:corruption",
-      "text": "Purges the target of positive potion effects"
+      "text": "清除目標的正面藥水效果"
     },
     {
       "type": "bewitchment:brew",
       "recipe": "bewitchment:magic_resistance",
-      "text": "Allows the target to take less damage from magical sources"
+      "text": "減少目標受到的魔法傷害"
     },
     {
       "type": "bewitchment:brew",
       "recipe": "bewitchment:magic_weakness",
-      "text": "Makes the target take more damage from magical sources"
+      "text": "目標將承受更多的魔法傷害"
     },
     {
       "type": "bewitchment:brew",
       "recipe": "bewitchment:hellworld",
-      "text": "Converts the surrounding area into a Nether-like landscape, and sets some of the land and all entities unfortunate enough to be hit by the splash on fire"
+      "text": "將周邊區域轉化為類似於地獄的環境, 並會隨機的在地上生成火焰，在其中的生物也不例外——如果他足夠不幸的話"
     },
     {
       "type": "bewitchment:brew",
       "recipe": "bewitchment:iceworld",
-      "text": "Converts the surrounding area into a winter wonderland, and extinguishes fires both on the ground and on entities. Perpetual Ice, a form of ice that does not melt, may appear, and may be crafted into Embittered Bricks similar to Stone Bricks"
+      "text": "使周圍的環境轉化為一片冰雪奇境, 熄滅周圍和人身上的火焰. 在此過程中，一種不會融化的冰——永恆之冰——可能會出現。 而永恆之冰可以被製作為憎惡方磚，這種方磚與石磚十分相似"
     },
     {
       "type": "bewitchment:brew",
       "recipe": "bewitchment:rubedo",
-      "text": "Converts sand and colored blocks to their red counterpart"
+      "text": "將周圍的沙以及已經染色的方塊染紅"
     },
     {
       "type": "bewitchment:brew",
       "recipe": "bewitchment:citrinitas",
-      "text": "Converts red sand and colored blocks to their yellow counterpart"
+      "text": "將周圍的沙以及已經染色的方塊染黃"
     },
     {
       "type": "bewitchment:brew",
       "recipe": "bewitchment:desertification",
-      "text": "Converts various and plants into their desert counterpart"
+      "text": "將周圍的各種植物轉變為它們在沙漠中生成的版本"
     },
     {
       "type": "bewitchment:brew",
       "recipe": "bewitchment:fertility",
-      "text": "Causes plants to grow and animals to breed"
+      "text": "使得動物繁殖以及植物加速生長"
     },
     {
       "type": "bewitchment:brew",
       "recipe": "bewitchment:harvest",
-      "text": "Instantly harvests and re-plants seeds, and may make leaves drop apples and cause pumpkins to grow"
+      "text": "立即收穫作物並重新種植該作物的種子, 還可以使樹葉掉落蘋果以及催生南瓜"
     },
     {
       "type": "bewitchment:brew",
       "recipe": "bewitchment:spore_cloud",
-      "text": "Causes mushrooms, mycelium, ferns, and moss to grow. I hope you don’t have allergies…"
+      "text": "使蘑菇、菌絲土、蕨類植物和藤蔓加速生長. 我希望你不會對這些東西過敏……"
     },
     {
       "type": "bewitchment:brew",
       "recipe": "bewitchment:blight",
-      "text": "Kills plants and crops, and weakens living creatures"
+      "text": "破壞周圍的植物和作物，並削弱範圍內的生物"
     },
     {
       "type": "bewitchment:brew",
       "recipe": "bewitchment:ruin",
-      "text": "Causes various blocks to decay or break down"
+      "text": "使得多種方塊腐爛並損毀"
     },
     {
       "type": "bewitchment:brew",
       "recipe": "bewitchment:pesticide",
-      "text": "Damages arthropods"
+      "text": "對節肢生物傷害"
     },
     {
       "type": "bewitchment:brew",
       "recipe": "bewitchment:arachnophobia",
-      "text": "Wraps the target in spider webs, and summons hungry spiders to attack them"
+      "text": "用蜘蛛網困住目標, 並召喚蜘蛛來攻擊他們"
     },
     {
       "type": "bewitchment:brew",
       "recipe": "bewitchment:mending",
-      "text": "Turn dirt and mycelium to grass, and cure zombie villagers"
+      "text": "把泥土和菌絲土變成草地，並且可以治癒殭屍村民"
     },
     {
       "type": "bewitchment:brew",
       "recipe": "bewitchment:holy_water",
-      "text": "Next only to the Holy Hand Grenade! Damages unholy creatures, such as undead or demons"
+      "text": "僅次於神聖手雷! 淨化那些不純潔之物, 譬如不死以及惡魔"
     },
     {
       "type": "bewitchment:brew",
       "recipe": "bewitchment:wolfsbane",
-      "text": "Damages wolves and other canids"
+      "text": "對狼和其他犬科動物傷害"
     },
     {
       "type": "bewitchment:brew",
       "recipe": "bewitchment:deviants_decomposure",
-      "text": "Damages outcasts of society, such as illagers or witches. Has no effect on witch hunters"
+      "text": "對那些被逐出族群的人造成傷害, 譬如窳民以及女巫. 對狩巫人沒有影響"
     },
     {
       "type": "bewitchment:brew",
       "recipe": "bewitchment:sleeping",
-      "text": "Blinds and slows the target, and may kill them if they are on low enough health"
+      "text": "減速並致盲目標, 如果目標血量足夠低，有可能致死"
     },
     {
       "type": "bewitchment:brew",
       "recipe": "bewitchment:volatility",
-      "text": "KABOOM. Explode upon taking damage. Does not affect blocks"
+      "text": "大爆炸！受到傷害時發生爆炸. 不會破壞方塊"
     },
     {
       "type": "bewitchment:brew",
       "recipe": "bewitchment:grace",
-      "text": "Causes the target to take less fall damage"
+      "text": "降低目標的摔落傷害"
     },
     {
       "type": "bewitchment:brew",
       "recipe": "bewitchment:shell_armor",
-      "text": "Damages those who attack the target"
+      "text": "對傷害目標的對象造成傷害"
     },
     {
       "type": "bewitchment:brew",
       "recipe": "bewitchment:deflection",
-      "text": "Ting! Reflects arrows and other projectiles away from the target"
+      "text": "叮! 使得目標能夠反彈箭矢以及其它彈射物"
     },
     {
       "type": "bewitchment:brew",
       "recipe": "bewitchment:revealing",
-      "text": "Purges invisibility from hit entities"
+      "text": "使得被攻擊到的實體解除隱形"
     },
     {
       "type": "bewitchment:brew",
       "recipe": "bewitchment:disrobing",
-      "text": "Takes off the armour and baubles of a target"
+      "text": "卸除目標的護甲以及飾品"
     },
     {
       "type": "bewitchment:brew",
       "recipe": "bewitchment:sinking",
-      "text": "It becomes harder to jump, to the point of preventing jumping at stronger potencies"
+      "text": "使得目標難以跳躍，哪怕是再強大的力量也難以擺脫"
     },
     {
       "type": "bewitchment:brew",
       "recipe": "bewitchment:cursed_leaps",
-      "text": "Throws the target into the air, making them unable to act and then taking fall damage"
+      "text": "將目標拋至空中, 使得他們無法在空中做出任何操作，並承受掉落傷害"
     },
     {
       "type": "bewitchment:brew",
