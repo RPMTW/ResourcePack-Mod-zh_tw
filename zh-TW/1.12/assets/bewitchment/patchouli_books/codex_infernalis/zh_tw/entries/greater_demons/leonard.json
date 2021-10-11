@@ -1,15 +1,15 @@
 {
-  "name": "Master Leonard",
+  "name": "大師倫納德",
   "category": "greater_demons",
   "icon": "bewitchment:leonards_wand",
   "pages": [
     {
       "type": "text",
-      "text": "Some rites speak of a demon known as Leonard, and many names he goes by, such as The Black Goat of the Woods, Azazel, The Morning Star, and The False King of the Templars. However, many of these are contradictory, and he seems to be a demon that resides over witches."
+      "text": "一些儀式會談到倫納德的名諱，然而它所使用的名字可不僅僅只有這一個，森林中的黑羊，亞撒色，晨星，以及聖堂武士的虛假之王，這些都是倫納德。然而，面與面之間總存在著衝突與不協調，他似乎又是以惡魔的身份位居於女巫之首的王座上。"
     },
     {
       "type": "text",
-      "text": "Those who summon him are usually forced to indulge in a foul mixture known as the Stew of the Grotesque while holding a Green Candle and wearing a full set of any witch robes, in order to receive his blessing."
+      "text": "那些召喚他的女巫，將自己放縱於那種邪惡汙穢的混合物之中，手持幽幽綠燭，身穿繁複長袍，試圖以這樣的方式換取倫納德的的祝福。"
     },
     {
       "type": "entity",
@@ -18,8 +18,8 @@
     },
     {
       "type": "text",
-      "title": "Summoning",
-      "text": "Summoning Master Leonard is rather difficult, the blood of a lamb needs to be spilled for the ritual. I have documented the rite as follows:"
+      "title": "召喚",
+      "text": "召喚大師倫納德並不困難，在儀式中傾撒些許羔羊之血即可。我將這一儀式記錄在此："
     },
     {
       "type": "bewitchment:ritual",
