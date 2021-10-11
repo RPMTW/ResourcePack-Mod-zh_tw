@@ -9,7 +9,7 @@
             "text": "Tier 2 and 3 glyphs will require an Apprentice and Archmage spell book respectively. Higher tier books will allow you to cast higher tier spells, use them in automation, and provide additional mana and mana regeneration as a bonus. Once you are able to upgrade your book, upgrading your armor to the next tier of robes will also grant you another boost in casting."
         },
         {
-            "type": "關係",
+            "type": "relations",
             "entries": [
                 "items/books",
                 "items/armor"
