@@ -5,12 +5,12 @@
   "pages": [
     {
       "type": "text",
-      "text": "Slime can sometimes be hard to find, now you can make some in a cauldron!"
+      "text": "黏液球有時很難被找到, 現在你可以在釜鍋裡製造了!"
     },
     {
       "type": "bewitchment:cauldron_recipe",
       "recipe": "bewitchment:slimeball",
-      "text": "Sticky."
+      "text": "它黏黏的."
     }
   ]
 }
