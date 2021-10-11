@@ -1,81 +1,81 @@
 {
-  "name": "Poppets",
+  "name": "巫毒娃娃",
   "category": "gear",
   "icon": "bewitchment:poppet",
   "pages": [
     {
       "type": "text",
-      "text": "Poppets are small dolls bound to a target, usually the owner, in order to protect them from all manner of harm. That being said, Poppets may also be used by witches who wish to cast voodoo on those who oppose them. Poppets may either be carried on the witch’s person, or placed on a special shelf to keep them safe. $(o)Spanish Moss is vital to the creation of Poppets, so a trip to the swamp may be a good idea."
+      "text": "巫毒娃娃是一種可以與目標綁定在一起的小玩偶，人們通常會把這個目標定為自己，因為巫毒娃娃可以保護他免收一切形式的傷害。也就是說，女巫可以利用巫毒娃娃，給那些與她作對的人下巫毒（Voodoo）。女巫為了保護自己的巫毒娃娃的安全，有時會隨身攜帶著它，有時會把它放入特殊的架子中。$(o)西班牙苔蘚是巫毒娃娃製作過程中的關鍵物品，所以計劃一趟沼澤旅行或許是一個不錯的主意。"
     },
     {
       "type": "crafting",
       "recipe": "bewitchment:poppet",
-      "text": "The base poppet for all your crafting, does nothing and cannot be bound. $(br)$(o)Note: Poppets must be bound to become active. Bind poppets by holding a poppet in one hand and a taglock of the target another"
+      "text": "這種作為合成的基礎巫毒娃娃沒有什麼太大的作用，也無法與他人綁定。$(br)$(o)注意：先要啟動娃娃，必須將其與他人綁定。想要使得巫毒娃娃與某人綁定，你需要一隻手拿著巫毒娃娃，另一隻手拿著巫媒。"
     },
     {
       "type": "crafting",
       "recipe": "bewitchment:poppet_tool",
-      "text": "Like its armor variant, the poppet will break instead of your tool, preserving it for one last use."
+      "text": "就像它的護甲版本變種，這一娃娃不會直接破壞你的工具，而是保留了工具的最後一次使用機會"
     },
     {
       "type": "crafting",
       "recipe": "bewitchment:poppet_binding",
-      "text": "Slows those who attack you"
+      "text": "使攻擊你的人緩速"
     },
     {
       "type": "crafting",
       "recipe": "bewitchment:poppet_clumsy",
-      "text": "Has a chance to make attackers drop their weapons"
+      "text": "攻擊你的人有一定機率被繳械"
     },
     {
       "type": "crafting",
       "recipe": "bewitchment:poppet_deathprotection",
-      "text": "Helps you cheat death, just once"
+      "text": "幫助你欺騙死亡，僅生效一次"
     },
     {
       "type": "crafting",
       "recipe": "bewitchment:poppet_earthprotection",
-      "text": "Reduces fall damage"
+      "text": "減輕摔落傷害"
     },
     {
       "type": "crafting",
       "recipe": "bewitchment:poppet_flameprotection",
-      "text": "Reduces fire damage"
+      "text": "減輕火焰傷害"
     },
     {
       "type": "crafting",
       "recipe": "bewitchment:poppet_waterprotection",
-      "text": "Protects the owner from drowning for a short while"
+      "text": "短時間內保護目標不受溺水傷害"
     },
     {
       "type": "crafting",
       "recipe": "bewitchment:poppet_hungerprotection",
-      "text": "Reduces starvation damage and feeds the user a little bit"
+      "text": "減輕因飢餓帶來的傷害，並恢復少許飢餓值"
     },
     {
       "type": "crafting",
       "recipe": "bewitchment:poppet_spiritbane",
-      "text": "Reduces damage from spirits"
+      "text": "減少來自於靈體的傷害"
     },
     {
       "type": "crafting",
       "recipe": "bewitchment:poppet_vampiric",
-      "text": "Redirects damage you are taking to whoever its bound to. $(r)Must be carried in inventory"
+      "text": "將你所受的傷害轉移至娃娃所綁定的目標身上。$(r)娃娃必須放置在物品欄中"
     },
     {
       "type": "crafting",
       "recipe": "bewitchment:poppet_voodooprotection",
-      "text": "Protects from vampiric and voodoo poppets. (W.I.P)"
+      "text": "保護你免受吸血鬼以及巫毒的影響 (W.I.P)"
     },
     {
       "type": "crafting",
       "recipe": "bewitchment:poppet_voodoo",
-      "text": "Bound it to a target and right click with Bone Needles in your inventory will deal some damage to said target."
+      "text": "右擊使用骨針，會傷害到這一娃娃所綁定的對象。"
     },
     {
       "type": "crafting",
       "recipe": "bewitchment:poppet_wasting",
-      "text": "Induces hunger for whoever attacks the owner of this poppet"
+      "text": "攻擊攜帶者該娃娃的人會感到飢餓"
     }
   ]
 }
