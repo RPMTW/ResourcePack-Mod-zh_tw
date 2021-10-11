@@ -13,8 +13,8 @@
             "text": "This potion fully fertilizes the soil."
         },
         {
-            "type": "關係",
-            "title": "關係",
+            "type": "relations",
+            "title": "Relations",
             "entries": [
                 "potions/basepotion",
                 "potions/burgeoningpotion",
