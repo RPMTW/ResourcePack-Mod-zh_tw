@@ -1,0 +1,18 @@
+{
+  "name": "Soul Shell",
+  "icon": "lacrimis:soul_shell",
+  "category": "lacrimis:immaterial",
+  "advancement": "lacrimis:base/solidified_tear",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "text",
+      "text": "This shell can be placed down and given armor just like an armor stand. However, when it is hit by a $(l:immaterial/tainted_pearl)tainted pearl$(/l) it does something unique. Instead of a simple teleport it takes your place, as if you swapped bodies, or if your bodies swapped souls..."
+    },
+    {
+      "type": "lacrimis:infusion",
+      "recipe": "lacrimis:infusion/soul_shell",
+      "text": "Items, health, hunger, everything is left behind when you enter a new shell."
+    }
+  ]
+}

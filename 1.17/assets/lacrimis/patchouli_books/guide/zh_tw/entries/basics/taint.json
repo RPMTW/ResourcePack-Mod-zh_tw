@@ -1,0 +1,31 @@
+{
+  "name": "Taint",
+  "icon": "lacrimis:solidified_tear",
+  "category": "lacrimis:basics",
+  "advancement": "lacrimis:base/crucible",
+  "sortnum": 7,
+  "pages": [
+    {
+      "type": "text",
+      "text": "If you have broken a crucible or used a soul extraction rune, you probably noticed a block of taint forming. While it can fade if properly contained, it can spread and break things around it very easily. Touching it in any way will give you Taint Poison, and letting it spread will just make cleanup worse."
+    },
+    {
+      "type": "text",
+      "text": "The taint itself can spread in many ways, slowly replacing any block in it's path. While rune stone can resist it somewhat, and tough blocks like obsidian can stop it almost entirely, if it builds up enough it can break almost anything."
+    },
+    {
+      "type": "text",
+      "text": "Taint poison is a very common magical effect, and is more dangerous to armor than to the wearer. Any armor will protect the wearer from harm, but will be heavily damaged by the effects. Similar to normal poison, it will not kill a player outright, but will keep them at minimal health."
+    },
+    {
+      "type": "spotlight",
+      "item": "lacrimis:solidified_tear",
+      "link_recipe": true,
+      "text": "Travelling through a duct system will also give you Wavering Soul, a special effect that will kill any creature that has low health while under its effects. Anything killed by Wavering Soul in this way will drop a Solidified Tear. When paired with Taint Poison this is a very dangerous combo."
+    },
+    {
+      "type": "text",
+      "text": "The important thing with taint is to let it spread out and fade in a place where the surrounding blocks are stronger than it, but this can take some time, and adding too much of it to one place can throw any defences out the window. Do not let it touch a liquid, though fire can help a lot to keep it at bay."
+    }
+  ]
+}
