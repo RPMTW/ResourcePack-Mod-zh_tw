@@ -1,12 +1,12 @@
 {
-  "name": "Juniper",
+  "name": "龍血木",
   "category": "trees",
   "icon": "bewitchment:juniper_sapling",
   "pages": [
     {
       "type": "text",
-      "title": "Dragon's Blood",
-      "text": "A rare tree valued for its resin, having many uses but most commonly used for Sigils. This tree is extinct in the wild, however certain Alchemists are known to cultivate this tree in private, and may give out saplings to those they trust. Slashing a mature log with a Boline taps it, allowing its blood-red resin to leak out. Brooms made from this rare tree are faster than all but Elder brooms,"
+      "title": "龍血木",
+      "text": "一種稀少的樹木，以其樹脂而聞名，它有著許多用途，但最常見的用途是參與符文製作。這種樹在自然環境下已經找不到了，但是某些鍊金術士會以家養的形式種植這種樹，他們或許會給其所信任的人一些樹苗。用伯萊恩新月小刀剝去一個成熟的原木，會使得原木流出似血殷紅的樹脂。用這種木頭做成的掃帚很快，速度僅次於接骨木。"
     },
     {
       "type": "image",
@@ -14,7 +14,7 @@
         "bewitchment:textures/gui/patchouli/dragonsblood.png"
       ],
       "border": true,
-      "text": "but in turn they can have Sigils applied to them, which it will then apply to the rider."
+      "text": "雖然速度略遜一籌，但是你可以將符文附著掃帚其上，掃帚上的符文效果會施加到騎手身上。"
     }
   ]
 }
