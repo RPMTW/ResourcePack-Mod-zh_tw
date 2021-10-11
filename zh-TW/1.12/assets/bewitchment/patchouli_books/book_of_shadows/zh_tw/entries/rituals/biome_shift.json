@@ -1,11 +1,11 @@
 {
-  "name": "Biome Shift",
+  "name": "生態域改變",
   "category": "rituals",
   "icon": "minecraft:sapling",
   "pages": [
     {
       "type": "text",
-      "text": "Through supernatural means, this rite changes the local weather in an area, to the desires of the witch at hand. However, it requires one to use a boline (right click) when in the desired biome to allow the ritual to set said biome."
+      "text": "通過超自然的方法，這個儀式可以改變特定區域的氣候，進而將群系改變為女巫所希望的那種群系。你需要在你所想需要的生態域裡使用一下伯萊恩新月小刀，這樣儀式才能知曉你所想要是什麼群系。"
     },
     {
       "type": "bewitchment:ritual",
