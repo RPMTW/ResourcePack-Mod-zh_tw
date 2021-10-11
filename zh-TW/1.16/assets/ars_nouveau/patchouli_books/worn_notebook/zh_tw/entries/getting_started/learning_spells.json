@@ -9,7 +9,7 @@
             "text": "Accessing new spells will require a small amount of setup, resources, and base building. New spells can be learned by obtaining items called Glyphs. Glyphs are created by the Glyph Press using magical clay, a reagent, and World Mana. Once you have obtained a glyph, simply use it with a spellbook in your inventory in order to write the glyph to the book."
         },
         {
-            "type": "關係",
+            "type": "relations",
             "entries": [
                 "machines/glyph_press",
                 "getting_started/world_mana"
