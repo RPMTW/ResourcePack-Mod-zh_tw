@@ -5,12 +5,12 @@
   "pages": [
     {
       "type": "text",
-      "text": "A waystone is a carved piece of stone, usually bound to a specific location. If used in rites (via right-clicking on a running rite), it will transport the rite result to that location. However, the stone must be bound, via right-clicking on it in a desirable location. They last for three uses."
+      "text": "路標石是一塊被雕鑿過的石頭，它可以綁定於特定的位置。如果在儀式中使用(儀式進行時右鍵)，它會將儀式的效果轉移到它所綁定的位置。但如果你想這麼做，你必須先將其綁定到某個位置上，具體方法為手持路標石右鍵你所要綁定的位置。它可以被使用三次。"
     },
     {
       "type": "crafting",
       "recipe": "bewitchment:waystone",
-      "text": "Waystones can also be used for teleportation-based rites."
+      "text": "路標石也可以用於那些以傳送功能作為基礎的儀式當中。"
     }
   ]
 }
