@@ -1,6 +1,1 @@
-files:
-  - source: 1.16/assets*
-    ignore:
-      - Add-on
-      - zh-TW
-    translation: '%original_path%/%file_name%.%file_extension%'
+files: []
