@@ -344,5 +344,7 @@
     "craftpresence.logger.warning.updater.incompatible.json": "Json 區段 「%1$s」 的格式不相容...",
     "craftpresence.logger.warning.updater.data.missing": "缺少模組 「%1$s」 的關鍵元數據，提供假數據。(如果在去混淆的環境中，請忽略)",
     "craftpresence.logger.warning.convert.invalid": "物件 「%1$s」的數據轉換返回一個未知的、無效的或可跳過的結果。建議謹慎行事... (嘗試的模式：%2$s)...",
-    "craftpresence.exception.config.prop.null": "「%1$s」的屬性值不能為空"
+    "craftpresence.exception.config.prop.null": "「%1$s」的屬性值不能為空",
+    "gui.config.name.advanced.player_skin_endpoint": "Player Skin Endpoint",
+    "craftpresence.defaults.advanced.player_skin_endpoint": "https://crafatar.com/avatars/%1$s"
 }

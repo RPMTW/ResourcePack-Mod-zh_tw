@@ -1,0 +1,18 @@
+{
+  "name": "Spawner (Tier III)",
+  "icon": "lacrimis:rune/spawner",
+  "category": "lacrimis:runes",
+  "advancement": "lacrimis:base/rune_tier3",
+  "sortnum": 6,
+  "pages": [
+    {
+      "type": "text",
+      "text": "A rune with a very specific purpose, this allows for the breaking and repurposing of mob spawners. Activate it to turn a spawner block into a broken item, which can be re activated in the $(l:infusion/combiner)Soul Combiner$(/l)."
+    },
+    {
+      "type": "lacrimis:infusion",
+      "recipe": "lacrimis:infusion/rune_spawner",
+      "text": "Run cost: 600 Tears$(br)$(l:cages/tier_iii)Tier III Soul Cage$(/l)$(br2)"
+    }
+  ]
+}

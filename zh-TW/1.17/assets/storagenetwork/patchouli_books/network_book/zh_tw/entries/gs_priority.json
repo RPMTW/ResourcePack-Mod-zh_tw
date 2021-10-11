@@ -1,0 +1,15 @@
+{
+  "name": "page.storagenetwork.gs_priority",
+  "icon": "storagenetwork:filter_kabel",
+  "category": "storagenetwork:getstarted",
+  "pages": [
+    {
+      "type": "text",
+      "text": "page.storagenetwork.gs_priority.left"
+    },
+    {
+      "type": "text",
+      "text": "page.storagenetwork.gs_priority.right"
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "name": "Tier I Soul Cage",
+  "icon": "lacrimis:rune/tier1",
+  "category": "lacrimis:cages",
+  "advancement": "lacrimis:base/infusion_table",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "text",
+      "text": "By engraving gold into the blocks, they can disperse the soul tears in a slightly safer manner.$(br) I will need to make a proper structure out of this, something to contain the soul tears without being solid. Some kind of soul cage perhaps?"
+    },
+    {
+      "type": "lacrimis:infusion",
+      "recipe": "lacrimis:infusion/rune_tier1",
+      "text": "Eight seems like a very good number for this."
+    },
+    {
+      "type": "text",
+      "text": "While these blocks will not accept tears from an outside source, it is pretty simple to fix that.$(br)These duct connectors can be used to provide the soul cage with the tears it needs. They could also carry things through the tears out of the cage? That sounds a bit hazardous though."
+    },
+    {
+      "type": "crafting",
+      "recipe": "lacrimis:crafting/rune_duct1",
+      "text": "Make sure to include one in every soul cage. No more than that, as it is hard to control the flow as it is."
+    },
+    {
+      "type": "text",
+      "text": "This soul cage uses seven tier I runes, and a tier I duct connector. It also requires sixteen valid cage blocks, any combination of the following: $(li)Iron Bars$(li)Chains$(li)End rods$(br2)Activate it with redstone or a $(l:basics/divining_rod)Divining Rod$(/l)."
+    },
+    {
+      "type": "multiblock",
+      "name": "Just the base",
+      "text": "Replace the center with any tier I core rune.",
+      "multiblock": {
+        "pattern": [
+          [
+            "456",
+            "307",
+            "2P8"
+          ]
+        ],
+        "mapping": {
+          "0": "lacrimis:rune/stone",
+          "P": "lacrimis:rune/duct1[center=1]",
+          "2": "lacrimis:rune/tier1[center=2]",
+          "3": "lacrimis:rune/tier1[center=3]",
+          "4": "lacrimis:rune/tier1[center=4]",
+          "5": "lacrimis:rune/tier1[center=5]",
+          "6": "lacrimis:rune/tier1[center=6]",
+          "7": "lacrimis:rune/tier1[center=7]",
+          "8": "lacrimis:rune/tier1[center=0]"
+        }
+      }
+    },
+    {
+      "type": "multiblock",
+      "name": "Using Iron Bars",
+      "text": "Feel free to mix and match",
+      "multiblock": {
+        "pattern": [
+          [
+            "RHL",
+            "V V",
+            "rHl"
+          ],
+          [
+            "RHL",
+            "V0V",
+            "rHl"
+          ],
+          [
+            "456",
+            "3S7",
+            "2P8"
+          ]
+        ],
+        "mapping": {
+          "R": "minecraft:iron_bars[south=true,east=true]",
+          "L": "minecraft:iron_bars[north=true,east=true]",
+          "H": "minecraft:iron_bars[south=true,north=true]",
+          "V": "minecraft:iron_bars[east=true,west=true]",
+          "r": "minecraft:iron_bars[south=true,west=true]",
+          "l": "minecraft:iron_bars[north=true,west=true]",
+          "S": "lacrimis:rune/stone",
+          "P": "lacrimis:rune/duct1[center=1]",
+          "2": "lacrimis:rune/tier1[center=2]",
+          "3": "lacrimis:rune/tier1[center=3]",
+          "4": "lacrimis:rune/tier1[center=4]",
+          "5": "lacrimis:rune/tier1[center=5]",
+          "6": "lacrimis:rune/tier1[center=6]",
+          "7": "lacrimis:rune/tier1[center=7]",
+          "8": "lacrimis:rune/tier1[center=0]"
+        }
+      }
+    },
+    {
+      "type": "multiblock",
+      "name": "Using Chains",
+      "multiblock": {
+        "pattern": [
+          [
+            "CCC",
+            "C C",
+            "CCC"
+          ],
+          [
+            "CCC",
+            "C0C",
+            "CCC"
+          ],
+          [
+            "456",
+            "3S7",
+            "2P8"
+          ]
+        ],
+        "mapping": {
+          "C": "minecraft:chain",
+          "S": "lacrimis:rune/stone",
+          "P": "lacrimis:rune/duct1[center=1]",
+          "2": "lacrimis:rune/tier1[center=2]",
+          "3": "lacrimis:rune/tier1[center=3]",
+          "4": "lacrimis:rune/tier1[center=4]",
+          "5": "lacrimis:rune/tier1[center=5]",
+          "6": "lacrimis:rune/tier1[center=6]",
+          "7": "lacrimis:rune/tier1[center=7]",
+          "8": "lacrimis:rune/tier1[center=0]"
+        }
+      }
+    }
+  ]
+}
