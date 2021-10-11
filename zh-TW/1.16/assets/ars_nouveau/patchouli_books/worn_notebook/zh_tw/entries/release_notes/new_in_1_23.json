@@ -9,7 +9,7 @@
             "text": "Ars Nouveau 1.23.0, Updated Turrets!$(li)Adds the Basic Spell Turret with significantly reduced crafting cost.$(li)Adds Enchanted Spell Turret, casts at a discount.$(li)Adds the Timer Spell Turret, casts on a timer.$(li)Adds the Bounce glyph$(li)Adds the Firework glyph$(li)Adds the Toss glyph"
         },
         {
-            "type": "關係",
+            "type": "relations",
             "entries": [
                 "spells/firework",
                 "spells/toss",
