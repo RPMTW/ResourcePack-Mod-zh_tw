@@ -13,8 +13,8 @@
             "text": "This potion changes the tree species to its mega equivalent. (if available)"
         },
         {
-            "type": "關係",
-            "title": "關係",
+            "type": "relations",
+            "title": "Relations",
             "entries": [
                 "potions/basepotion",
                 "potions/burgeoningpotion",
