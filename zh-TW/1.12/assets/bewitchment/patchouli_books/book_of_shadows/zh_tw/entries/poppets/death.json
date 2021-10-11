@@ -1,12 +1,12 @@
 {
-  "name": "Death Protection Poppet",
+  "name": "巫毒娃娃-死亡庇佑",
   "category": "poppets",
   "icon": "bewitchment:poppet_deathprotection",
   "pages": [
     {
       "type": "crafting",
       "recipe": "bewitchment:poppet_deathprotection",
-      "text": "Helps you cheat death, just once"
+      "text": "幫助你欺騙死亡，僅生效一次"
     }
   ]
 }
