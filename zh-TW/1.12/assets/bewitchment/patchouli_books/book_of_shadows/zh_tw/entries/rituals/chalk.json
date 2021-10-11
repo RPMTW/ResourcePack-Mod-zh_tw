@@ -1,13 +1,13 @@
 {
-  "name": "Circles",
+  "name": "圓環",
   "category": "rituals",
   "icon": "bewitchment:focal_chalk",
   "priority": true,
   "pages": [
     {
       "type": "multiblock",
-      "name": "Small Glyph Setup",
-      "text": "The outer glyphs can be any type except gold",
+      "name": "小型圓環",
+      "text": "外層字元可以是所有類型的，除了金色",
       "multiblock": {
         "mapping": {
           "G": "bewitchment:glyph",
@@ -28,8 +28,8 @@
     },
     {
       "type": "multiblock",
-      "name": "Medium Glyph Setup",
-      "text": "The outer glyphs can be any type except gold",
+      "name": "中型圓環",
+      "text": "外層字元可以是所有類型的，除了金色",
       "multiblock": {
         "mapping": {
           "G": "bewitchment:glyph",
@@ -54,8 +54,8 @@
     },
     {
       "type": "multiblock",
-      "name": "Large Glyph Setup",
-      "text": "The outer glyphs can be any type except gold",
+      "name": "大型圓環",
+      "text": "外層字元可以是所有類型的，除了金色",
       "multiblock": {
         "mapping": {
           "G": "bewitchment:glyph",
