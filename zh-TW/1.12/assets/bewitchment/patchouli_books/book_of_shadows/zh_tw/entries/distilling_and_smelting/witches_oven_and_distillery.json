@@ -1,12 +1,12 @@
 {
-  "name": "Witches' Oven and Distillery",
+  "name": "女巫烤箱和蒸餾器",
   "category": "distilling_and_smelting",
   "icon": "bewitchment:distillery",
   "priority": true,
   "pages": [
     {
       "type": "text",
-      "text": "Despite their mundane uses and appearance, both the Oven and Distillery are vital to all forms of higher magic. The Oven can distill saplings and other items into pure extract, while the Distillery can process the Fumes with other ingredients into more complex mixtures."
+      "text": "儘管它們的用途和外觀都很平凡, 女巫烤箱和蒸餾器對所有形式的高等魔法都是不可或缺的. 烤箱可以將樹苗和其他物品蒸餾成提取物, 而蒸餾廠可以將精華與其它材料一起加工成更複雜的混合物。"
     },
     {
       "type": "crafting",
