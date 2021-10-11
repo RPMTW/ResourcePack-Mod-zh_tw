@@ -1,11 +1,11 @@
 {
-  "name": "Circle Drawing",
+  "name": "繪製圓環",
   "category": "rituals",
   "icon": "bewitchment:ritual_chalk",
   "pages": [
     {
       "type": "text",
-      "text": "Instantly draws a circle according to the chalk type held in the off-hand, with the size dependent on the ingredients used"
+      "text": "根據手持的粉筆類型立即繪製一個圓環，圓環的大小依賴於所使用的材料"
     },
     {
       "type": "bewitchment:ritual",
