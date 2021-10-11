@@ -9,7 +9,7 @@
       "text": "$(item)定位工具/$在$(thing)右擊/$時儲存坐標。坐標數據在$(pncr)中的好幾處被用到；見一下頁。$(p)使用$(item)定位工具/$$(thing)右擊/$空氣以打開設定介面，在此可以直接調整儲存的坐標。$(p)手持$(item)定位工具/$以將定位的方塊高亮。"
     },
     {
-      "type": "關係",
+      "type": "relations",
       "entries": [
         "machines/air_cannon",
         "machines/universal_sensor",
