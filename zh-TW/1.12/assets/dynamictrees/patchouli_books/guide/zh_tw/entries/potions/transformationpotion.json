@@ -13,8 +13,8 @@
             "text": "This potion changes an existing tree into another tree species.$(br2)The species of tree depends on the seed you use in the recipe. The example uses an Oak Acorn."
         },
         {
-            "type": "關係",
-            "title": "關係",
+            "type": "relations",
+            "title": "Relations",
             "entries": [
                 "potions/basepotion",
                 "potions/burgeoningpotion",
