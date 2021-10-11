@@ -1,11 +1,11 @@
 {
-  "name": "Sigil Table",
+  "name": "符文台",
   "category": "devices",
   "icon": "bewitchment:sigil_table",
   "pages": [
     {
       "type": "text",
-      "text": "A seemingly inconspicuous writing table, treated with Dragon’s Blood Resin, thus giving it a crimson tint. This fancy writing table is used to draw sigils. It also contains a unique 5x5 grid in which to draw them, to allow for a lot of freedom and space when drawing."
+      "text": "一張不起眼的寫字桌，於其上用龍血樹脂點出一抹殷紅。你便可以在這張華麗的寫字桌上刻畫符文了。桌子中有著一個5x5的網格，這些網格可用於刻畫符文，你有充足的空間和自由在上面畫出你想畫的。"
     },
     {
       "type": "crafting",
@@ -13,12 +13,12 @@
     },
     {
       "type": "text",
-      "title": "Sigils",
-      "text": "Sigils are special symbols created by a witch in order to create certain effects or to protect certain areas. Sigils must be drawn using Dragon’s Blood Resin, though other similar compounds such as dyes may also be required depending on the specific sigil."
+      "title": "符文",
+      "text": "符文是一種女巫創造出來的特定符號，目的是為了創造出某種特定的效果，來保護一些特定的區域。符文的刻畫必須使用到龍血樹脂，並且某些符文的刻畫還會要求使用達到一些與龍血樹脂比較類似的物品，譬如染料。"
     },
     {
       "type": "text",
-      "text": "Sigils may be applied on blocks to affect entities around it and fade away after a week. It can also be applied on chests and doors made from the wood of a Dragon’s Blood tree, and will apply the sigil to those who interact with it."
+      "text": "符文可以被附著到方塊上，然後不斷地影響周邊的實體，符文生效時長為一週左右。它也可以附著在儲物箱或者門上，只不過這些儲物箱和門必須使用龍血木製作的，那些與這些方塊互動的人會受到符文的影響。"
     },
     {
       "type": "bewitchment:sigil_recipe",
@@ -27,7 +27,7 @@
     {
       "type": "spotlight",
       "item": "bewitchment:sigil_mending",
-      "text": "Causes a target to regenerate health"
+      "text": "使目標受到回復效果"
     },
     {
       "type": "bewitchment:sigil_recipe",
@@ -36,7 +36,7 @@
     {
       "type": "spotlight",
       "item": "bewitchment:sigil_ruin",
-      "text": "Ills a target touching the sigil"
+      "text": "使接觸到目標的對象患病"
     },
     {
       "type": "bewitchment:sigil_recipe",
@@ -45,7 +45,7 @@
     {
       "type": "spotlight",
       "item": "bewitchment:sigil_binding",
-      "text": "Inflicts temporary paralysis"
+      "text": "給對象造成暫時性癱瘓效果"
     },
     {
       "type": "bewitchment:sigil_recipe",
@@ -54,7 +54,7 @@
     {
       "type": "spotlight",
       "item": "bewitchment:sigil_cleansing",
-      "text": "Removes debuffs from target"
+      "text": "移除對象的負面效果"
     },
     {
       "type": "bewitchment:sigil_recipe",
@@ -63,7 +63,7 @@
     {
       "type": "spotlight",
       "item": "bewitchment:sigil_failure",
-      "text": "Causes rituals to fail for a target for some time"
+      "text": "使得目標在進行儀式時有時會失敗"
     },
     {
       "type": "bewitchment:sigil_recipe",
@@ -72,7 +72,7 @@
     {
       "type": "spotlight",
       "item": "bewitchment:sigil_purity",
-      "text": "Removes some lesser curses, but not all"
+      "text": "移除一些較弱的詛咒，不是全部詛咒"
     },
     {
       "type": "bewitchment:sigil_recipe",
@@ -81,7 +81,7 @@
     {
       "type": "spotlight",
       "item": "bewitchment:sigil_luck",
-      "text": "Increases the chance of finding better loot in chests for a period of time"
+      "text": "一段時間內使得目標可能會在獎勵箱內獲得更好的獎勵"
     },
     {
       "type": "bewitchment:sigil_recipe",
@@ -90,7 +90,7 @@
     {
       "type": "spotlight",
       "item": "bewitchment:sigil_battle",
-      "text": "Provides a minor strength and resistance buff"
+      "text": "給予一個較弱的力量以及抗性效果"
     },
     {
       "type": "bewitchment:sigil_recipe",
@@ -99,7 +99,7 @@
     {
       "type": "spotlight",
       "item": "bewitchment:sigil_disorientation",
-      "text": "Confuses mobs and players"
+      "text": "使得敵對生物以及玩家陷入迷惑"
     },
     {
       "type": "bewitchment:sigil_recipe",
@@ -108,7 +108,7 @@
     {
       "type": "spotlight",
       "item": "bewitchment:sigil_shrieking",
-      "text": "Shrieks at a target, $(o)very loudly"
+      "text": "向目標尖叫, $(o)非常大聲"
     },
     {
       "type": "bewitchment:sigil_recipe",
@@ -117,7 +117,7 @@
     {
       "type": "spotlight",
       "item": "bewitchment:sigil_sentinel",
-      "text": "Summons spooky ghosts to attack the target"
+      "text": "召喚一隻陰森的幽靈來進攻目標"
     }
   ]
 }
