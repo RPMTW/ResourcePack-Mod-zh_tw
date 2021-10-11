@@ -1,12 +1,12 @@
 {
-  "name": "Misfortune",
+  "name": "災厄咒",
   "category": "curses",
   "icon": "minecraft:arrow",
   "pages": [
     {
       "type": "bewitchment:curse_recipe",
       "recipe": "bewitchment:misfortune",
-      "text": "Randomly gives the target any debuff other than wither or poison. Not constant, randomly occurs for the duration of the curse."
+      "text": "隨機基於目標除了凋零以及中毒以外的debuff。不是持續性的，而是在詛咒期間隨機的給予。"
     }
   ]
 }
