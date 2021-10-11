@@ -1,12 +1,12 @@
 {
-  "name": "Water Protection Poppet",
+  "name": "巫毒娃娃-水之庇佑",
   "category": "poppets",
   "icon": "bewitchment:poppet_waterprotection",
   "pages": [
     {
       "type": "crafting",
       "recipe": "bewitchment:poppet_waterprotection",
-      "text": "Protects the owner from drowning for a short while"
+      "text": "短時間內保護目標不受溺水傷害"
     }
   ]
 }
