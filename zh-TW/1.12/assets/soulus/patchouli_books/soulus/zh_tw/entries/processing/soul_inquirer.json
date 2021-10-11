@@ -12,7 +12,7 @@
 			"text": "The Soul Inquirer is a machine meant for detecting the presence of summoned creatures. How does it work, you ask? Simply give it a $(l:summoning/soulbook)Soulbook$(), and it will give a redstone output to comparators based on whether it detects a creature of that type."
 		},
 		{
-			"type": "關係",
+			"type": "relations",
 			"title": "Upgrades",
 			"entries": [
 				"summoning/range",
