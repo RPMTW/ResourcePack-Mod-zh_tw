@@ -1,17 +1,17 @@
 {
-  "name": "Bottled Frostfire",
+  "name": "瓶裝霜火",
   "category": "distilling_and_smelting",
   "icon": "bewitchment:bottled_frostfire",
   "pages": [
     {
       "type": "bewitchment:distillery_recipe",
       "recipe": "bewitchment:bottled_frostfire",
-      "text": "A strange anti-fire that is cold to the touch. When placed, it can smelt iron ore into Cold Iron when thrown in"
+      "text": "一種奇怪的火，摸起來很冷. 當放置下來時，它可以將投擲進入其中的鐵礦燒製為寒鐵錠"
     },
     {
       "type": "spotlight",
       "item": "bewitchment:cold_iron_ingot",
-      "text": "The bane of Oberon, and the bane of spirits in general, this is iron that has been worked in a cold flame, as to keep it's pristine nature, giving it dominion against spirits."
+      "text": "它是Oberon的禍根，也是靈魂的禍根, 這種鐵在霜火中鍛造而出, 它的本質給予了它排斥精神領域的特性"
     },
     {
       "type": "crafting",
