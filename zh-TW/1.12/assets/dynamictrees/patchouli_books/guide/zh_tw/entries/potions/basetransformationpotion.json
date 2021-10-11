@@ -13,8 +13,8 @@
             "text": "This is the brewing recipe for the base transformation potion.$(br2)All other transformation potions use this."
         },
         {
-            "type": "關係",
-            "title": "關係",
+            "type": "relations",
+            "title": "Relations",
             "entries": [
                 "potions/basepotion",
                 "potions/burgeoningpotion",
