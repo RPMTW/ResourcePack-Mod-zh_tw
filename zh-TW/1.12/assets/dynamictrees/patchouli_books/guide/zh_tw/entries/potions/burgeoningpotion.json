@@ -1,11 +1,11 @@
 {
     "name": "Potion of Burgeoning",
     "icon": "dynamictrees:dendropotion:3",
-    "category": "potions",
+    "category": "藥水",
     "sortnum": "3",
     "pages": [
         {
-            "type": "brewing",
+            "type": "釀造",
             "title": "Potion of Burgeoning",
             "ingredient": "minecraft:ghast_tear",
             "bottle": "dynamictrees:dendropotion",

@@ -1,5 +1,5 @@
 {
-	"name": "Verdant Crystal Veins",
+	"name": "蒼翠水晶礦脈",
 	"icon": "ancientspellcraft:crystal_ore_earth",
 	"category": "3_worldgen",
 	"sortnum": 5,
@@ -7,7 +7,7 @@
 		{
 			"type": "spotlight",
 			"item": "ancientspellcraft:crystal_ore_earth",
-			"text": " Verdant Crystal ore can be found under forested biomes. They are nourished by minerals and the sap of prehistoric tree roots during their formation millennia ago. These crystals seem to resonate with Mother Earth herself.",
+			"text": "倉翠水晶礦石可以在森林生態域下找到。它們在幾千年前形成期間由礦物質和史前蕈根的汁液滋養。這些水晶似乎與地球母親產生共鳴。",
 			"link_recipe": false
 		},
 		{
@@ -15,14 +15,14 @@
 			"images": [
 				"ancientspellcraft:textures/gui/entries/verdant_ore_shard.png"
 			],
-			"title": "Verdant Crystal Veins",
+			"title": "蒼翠水晶礦脈",
 			"text": ""
 		},
 		{
 			"type": "crafting",
 			"recipe": "ancientspellcraft:magic_crystal_earth",
-			"title": "Dark Crystal",
-			"text": "        Crafting Table"
+			"title": "暗夜水晶",
+			"text": "        工作台"
 		}
 	]
 }

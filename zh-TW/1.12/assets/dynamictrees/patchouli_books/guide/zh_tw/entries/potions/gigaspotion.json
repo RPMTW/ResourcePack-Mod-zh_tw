@@ -1,11 +1,11 @@
 {
     "name": "Potion of Gigas",
     "icon": "dynamictrees:dendropotion:2",
-    "category": "potions",
+    "category": "藥水",
     "sortnum": "8",
     "pages": [
         {
-            "type": "brewing",
+            "type": "釀造",
             "title": "Potion of Gigas",
             "ingredient": "minecraft:pumpkin_seeds",
             "bottle": "dynamictrees:dendropotion",

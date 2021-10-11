@@ -1,5 +1,5 @@
 {
-	"name": "Fiery Crystal Veins",
+	"name": "赤焰水晶礦脈",
 	"icon": "ancientspellcraft:crystal_ore_fire",
 	"category": "3_worldgen",
 	"sortnum": 1,
@@ -7,7 +7,7 @@
 		{
 			"type": "spotlight",
 			"item": "ancientspellcraft:crystal_ore_fire",
-			"text": " Fiery Crystal ore can be found within the scorching, unforgiving Deserts of the land. It has thoroughly absorbed the baking desert heat during its birth, and seems to emanate a burning aura.",
+			"text": " 赤焰水晶礦石可以在這片灼熱無情的沙漠中找到。它在出生時就徹底吸收了沙漠的炙熱，似乎散發著一股灼熱的氣息。",
 			"link_recipe": false
 		},
 		{
@@ -15,14 +15,14 @@
 			"images": [
 				"ancientspellcraft:textures/gui/entries/fiery_ore_shard.png"
 			],
-			"title": "Fiery Crystal Veins",
+			"title": "赤焰水晶礦脈",
 			"text": ""
 		},
 		{
 			"type": "crafting",
 			"recipe": "ancientspellcraft:magic_crystal_fire",
-			"title": "Fiery Crystal",
-			"text": "        Crafting Table"
+			"title": "赤焰水晶",
+			"text": "        工作台"
 		}
 	]
 }

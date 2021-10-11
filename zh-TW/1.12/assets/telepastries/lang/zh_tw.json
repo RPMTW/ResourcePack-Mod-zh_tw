@@ -1,18 +1,13 @@
 {
-    "_comment_0": " 設定",
     "telepastries.config.title": "傳送蛋糕設置",
-    "_comment_1": " 創造標籤",
     "itemGroup.telepastries": "傳送糕點",
-    "_comment_2": " Block",
     "tile.telepastries:nether_cake.name": "地獄蛋糕",
     "tile.telepastries:end_cake.name": "終界蛋糕",
     "tile.telepastries:overworld_cake.name": "主世界蛋糕",
     "tile.telepastries:twilight_cake.name": "暮光蛋糕",
     "tile.telepastries:lost_city_cake.name": "失落的城市蛋糕",
     "tile.telepastries:hunting_dimension_cake.name": "狩獵維度蛋糕",
-    "_comment_3": " 資訊",
     "telepastries.pastry.reset.complete": "已重置在 %s 維度保存的位置。",
     "telepastries.pastry.reset.failed": "維度 %s 沒有保存過的位置。",
-    "_comment_4": " Waila",
     "telepastries.bites.name": "咬過的蛋糕"
 }

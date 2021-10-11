@@ -1,11 +1,11 @@
 {
     "name": "Potion of Depletion",
     "icon": "dynamictrees:dendropotion:1",
-    "category": "potions",
+    "category": "藥水",
     "sortnum": "2",
     "pages": [
         {
-            "type": "brewing",
+            "type": "釀造",
             "title": "Potion of Depletion",
             "ingredient": "minecraft:slime_ball",
             "bottle": "dynamictrees:dendropotion",

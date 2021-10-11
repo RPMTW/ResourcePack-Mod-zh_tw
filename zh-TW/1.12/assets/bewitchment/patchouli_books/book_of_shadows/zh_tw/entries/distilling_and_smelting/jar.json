@@ -1,0 +1,20 @@
+{
+  "name": "黏土罐子",
+  "category": "distilling_and_smelting",
+  "icon": "bewitchment:empty_jar",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "text",
+      "text": "黏土罐子是女巫採集材料的必需品, 它們可以用來承裝魔法精華。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:unfired_jar"
+    },
+    {
+      "type": "smelting",
+      "recipe": "bewitchment:unfired_jar"
+    }
+  ]
+}

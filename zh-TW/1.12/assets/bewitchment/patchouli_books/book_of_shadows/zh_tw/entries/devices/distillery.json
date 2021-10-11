@@ -1,0 +1,60 @@
+{
+  "name": "蒸餾塔",
+  "category": "devices",
+  "icon": "bewitchment:distillery",
+  "pages": [
+    {
+      "type": "text",
+      "text": "用來製造比女巫烤箱單獨產生的煙霧更高級的煙霧。某些其他化合物也可以用這種裝置產生。蒸餾塔需要魔法能量，必須使用烈焰粉作為燃料。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:distillery"
+    },
+    {
+      "type": "bewitchment:distillery_recipe",
+      "recipe": "bewitchment:cleansing_balm",
+      "text": "具有淨化能力的藥膏"
+    },
+    {
+      "type": "bewitchment:distillery_recipe",
+      "recipe": "bewitchment:demonic_elixir",
+      "text": "被注入了惡魔本質的汙穢混合物"
+    },
+    {
+      "type": "bewitchment:distillery_recipe",
+      "recipe": "bewitchment:fiery_unguent",
+      "text": "想來一點土（辣）味嗎？"
+    },
+    {
+      "type": "bewitchment:distillery_recipe",
+      "recipe": "bewitchment:oil_of_vitriol",
+      "text": "毫不留情的批評"
+    },
+    {
+      "type": "bewitchment:distillery_recipe",
+      "recipe": "bewitchment:swirl_of_depths",
+      "text": "$(o)可能這東西具有催眠的效果"
+    },
+    {
+      "type": "bewitchment:distillery_recipe",
+      "recipe": "bewitchment:heaven_extract",
+      "text": "從天堂而來"
+    },
+    {
+      "type": "bewitchment:distillery_recipe",
+      "recipe": "bewitchment:stone_ichor",
+      "text": "這瓶混合物還帶著泥土的芳香"
+    },
+    {
+      "type": "bewitchment:distillery_recipe",
+      "recipe": "bewitchment:otherworld_tears",
+      "text": "仔細聆聽, 你能聽到他們的哭泣"
+    },
+    {
+      "type": "bewitchment:distillery_recipe",
+      "recipe": "bewitchment:otherworld_tears",
+      "text": "If you listen closely, you can hear them cry ~"
+    }
+  ]
+}

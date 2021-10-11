@@ -1,0 +1,123 @@
+{
+  "name": "符文台",
+  "category": "devices",
+  "icon": "bewitchment:sigil_table",
+  "pages": [
+    {
+      "type": "text",
+      "text": "一張不起眼的寫字桌，於其上用龍血樹脂點出一抹殷紅。你便可以在這張華麗的寫字桌上刻畫符文了。桌子中有著一個5x5的網格，這些網格可用於刻畫符文，你有充足的空間和自由在上面畫出你想畫的。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:sigil_table"
+    },
+    {
+      "type": "text",
+      "title": "符文",
+      "text": "符文是一種女巫創造出來的特定符號，目的是為了創造出某種特定的效果，來保護一些特定的區域。符文的刻畫必須使用到龍血樹脂，並且某些符文的刻畫還會要求使用達到一些與龍血樹脂比較類似的物品，譬如染料。"
+    },
+    {
+      "type": "text",
+      "text": "符文可以被附著到方塊上，然後不斷地影響周邊的實體，符文生效時長為一週左右。它也可以附著在儲物箱或者門上，只不過這些儲物箱和門必須使用龍血木製作的，那些與這些方塊互動的人會受到符文的影響。"
+    },
+    {
+      "type": "bewitchment:sigil_recipe",
+      "recipe": "bewitchment:mending"
+    },
+    {
+      "type": "spotlight",
+      "item": "bewitchment:sigil_mending",
+      "text": "使目標受到回復效果"
+    },
+    {
+      "type": "bewitchment:sigil_recipe",
+      "recipe": "bewitchment:ruin"
+    },
+    {
+      "type": "spotlight",
+      "item": "bewitchment:sigil_ruin",
+      "text": "使接觸到目標的對象患病"
+    },
+    {
+      "type": "bewitchment:sigil_recipe",
+      "recipe": "bewitchment:binding"
+    },
+    {
+      "type": "spotlight",
+      "item": "bewitchment:sigil_binding",
+      "text": "給對象造成暫時性癱瘓效果"
+    },
+    {
+      "type": "bewitchment:sigil_recipe",
+      "recipe": "bewitchment:cleansing"
+    },
+    {
+      "type": "spotlight",
+      "item": "bewitchment:sigil_cleansing",
+      "text": "移除對象的負面效果"
+    },
+    {
+      "type": "bewitchment:sigil_recipe",
+      "recipe": "bewitchment:failure"
+    },
+    {
+      "type": "spotlight",
+      "item": "bewitchment:sigil_failure",
+      "text": "使得目標在進行儀式時有時會失敗"
+    },
+    {
+      "type": "bewitchment:sigil_recipe",
+      "recipe": "bewitchment:purity"
+    },
+    {
+      "type": "spotlight",
+      "item": "bewitchment:sigil_purity",
+      "text": "移除一些較弱的詛咒，不是全部詛咒"
+    },
+    {
+      "type": "bewitchment:sigil_recipe",
+      "recipe": "bewitchment:luck"
+    },
+    {
+      "type": "spotlight",
+      "item": "bewitchment:sigil_luck",
+      "text": "一段時間內使得目標可能會在獎勵箱內獲得更好的獎勵"
+    },
+    {
+      "type": "bewitchment:sigil_recipe",
+      "recipe": "bewitchment:battle"
+    },
+    {
+      "type": "spotlight",
+      "item": "bewitchment:sigil_battle",
+      "text": "給予一個較弱的力量以及抗性效果"
+    },
+    {
+      "type": "bewitchment:sigil_recipe",
+      "recipe": "bewitchment:disorientation"
+    },
+    {
+      "type": "spotlight",
+      "item": "bewitchment:sigil_disorientation",
+      "text": "使得敵對生物以及玩家陷入迷惑"
+    },
+    {
+      "type": "bewitchment:sigil_recipe",
+      "recipe": "bewitchment:shrieking"
+    },
+    {
+      "type": "spotlight",
+      "item": "bewitchment:sigil_shrieking",
+      "text": "向目標尖叫, $(o)非常大聲"
+    },
+    {
+      "type": "bewitchment:sigil_recipe",
+      "recipe": "bewitchment:sentinel"
+    },
+    {
+      "type": "spotlight",
+      "item": "bewitchment:sigil_sentinel",
+      "text": "召喚一隻陰森的幽靈來進攻目標"
+    }
+  ]
+}

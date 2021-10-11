@@ -1,8 +1,6 @@
 {
-    "_comment_0": "Content",
     "tile.parabox.parabox.name": "獎勵盒",
     "tile.parabox.empowered.parabox.name": "強化獎勵盒",
-    "_comment_1": "Info",
     "info.parabox.dimension": "臨時性的異常阻止了放置。",
     "info.parabox.disconnect": "伺服器的世界和空間都被顛覆了。請嘗試幾分鐘後重連。",
     "info.parabox.update.daily": "你已經生成了一點聲望點數。獎勵盒現在需要 %d RF/t。",
@@ -15,7 +13,6 @@
     "info.parabox.emp.update.item": "已提供 %s 。循環時間減少了 %s 分鐘。所需項目已更改為 %s 。",
     "info.parabox.emp.update.daily": "你獲得了3個或更多聲望點。增強獎勵盒現在需要 %s RF/t 並且需要 %s 分鐘的循環時間。",
     "info.parabox.created": "一個獎勵盒被放在了世界之中，它位於 %s 。",
-    "_comment_2": "Status",
     "parabox.status.backup": "目前世界已經被放置在世界循環中。所有的進度都是臨時性的，直到時間循環被關閉。 ",
     "parabox.status.backup.reset": "目前沒有啟用的獎勵盒設備！先前的時間循環將不會被維持，新的東西必須被創建。",
     "parabox.status.power": "目前RF/t：%s",
@@ -33,7 +30,6 @@
     "parabox.status.vote_success": "所有的玩家已經投票。",
     "parabox.status.speed": "速度: %s%%",
     "parabox.status.emp.speed": "速度: %s%% | 物品速度: %s%%",
-    "_comment_3": "Buttons",
     "parabox.button.activate": "啟用",
     "parabox.button.deactivate": "停用",
     "parabox.button.loop.on": "循環：On",
@@ -42,7 +38,6 @@
     "parabox.tip.deactivate": "點擊停用獎勵盒。這將會停止生成聲望點數，所有已經生成的聲望點數也會損失。",
     "parabox.tip.loop.on": "你已經投票重載時間循環。所有擁有此獎勵盒的伺服器玩家都需要為此選項投票。",
     "parabox.tip.loop.off": "當你準備好初始化循環時，點擊此按鈕，所有擁有此獎勵盒的伺服器玩家都需要為此選項投票。",
-    "_comment_4": "Collapse GUI",
     "parabox.collapsed": "世界已經被崩塌！",
     "parabox.reset": "獎勵盒將世界狀態設置為先前的狀態。",
     "parabox.return": "恢覆到 %s"

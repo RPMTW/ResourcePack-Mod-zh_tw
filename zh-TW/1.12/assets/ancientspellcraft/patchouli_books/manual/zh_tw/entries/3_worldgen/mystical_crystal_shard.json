@@ -1,5 +1,5 @@
 {
-	"name": "Mystical Crystal Veins",
+	"name": "秘源水晶礦脈",
 	"icon": "ancientspellcraft:crystal_ore_sorcery",
 	"category": "3_worldgen",
 	"sortnum": 3,
@@ -7,7 +7,7 @@
 		{
 			"type": "spotlight",
 			"item": "ancientspellcraft:crystal_ore_sorcery",
-			"text": " The Crystal Veins of Sorcery naturally occur in the Plains biome, deep underground. $(br) Perhaps the simplicity of this natural habitat is what helps these Mystical crystals to manifest.",
+			"text": " 秘源水晶礦脈自然出現在平原生態域的地下深處。$(br)也許這個自然棲息地的簡單性有助於這些神秘的水晶顯現出來。",
 			"link_recipe": false
 		},
 		{
@@ -15,14 +15,14 @@
 			"images": [
 				"ancientspellcraft:textures/gui/entries/mystical_ore_shard.png"
 			],
-			"title": "Mystical Crystal Veins",
+			"title": "秘源水晶礦脈",
 			"text": ""
 		},
 		{
 			"type": "crafting",
 			"recipe": "ancientspellcraft:magic_crystal_sorcery",
-			"title": "Mystical Crystal",
-			"text": "        Crafting Table"
+			"title": "秘源水晶",
+			"text": "        工作台"
 		}
 	]
 }

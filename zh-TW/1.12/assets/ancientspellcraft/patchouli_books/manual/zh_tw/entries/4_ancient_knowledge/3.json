@@ -1,5 +1,5 @@
 {
-	"name": "Stone Tablets",
+	"name": "石碑",
 	"icon": "ancientspellcraft:stone_tablet",
 	"category": "ancient_knowledge",
 	"sortnum": 1,
@@ -7,30 +7,30 @@
 	"pages": [
 		{
 			"type": "text",
-			"text": "Stone tablets were written in the language of the ancients, little is known about this long-dead dialect and even fewer can decipher them. $(br) $(br) $(o)Perhaps studying them with your Sphere could help?"
+			"text": "石碑是用古人的語言書寫的，人們對這種久已消亡的方言知之甚少，能破譯它們的人更少$(br)$(br)$(o)也許用您的球體研究它們會有所幫助？"
 		},
 		{
 			"type": "spotlight",
 			"item": "ancientspellcraft:stone_tablet_small",
-			"text": "These are the smallest written knowledge pieces, usually the results of larger tables crumbling into fragments.",
+			"text": "這些是最小的書面知識片段，通常是大表破碎成碎片的結果。",
 			"link_recipe": false
 		},
 		{
 			"type": "spotlight",
 			"item": "ancientspellcraft:stone_tablet",
-			"text": "A bit chipped, but mostly intact",
+			"text": "有一點碎裂，但大部分完好無損",
 			"link_recipe": false
 		},
 		{
 			"type": "spotlight",
 			"item": "ancientspellcraft:stone_tablet_large",
-			"text": "The large stone tablets are very rare",
+			"text": "這些大石碑非常罕見",
 			"link_recipe": false
 		},
 		{
 			"type": "spotlight",
 			"item": "ancientspellcraft:stone_tablet_grand",
-			"text": "The largest stone tablets - and the most rare of its kind.",
+			"text": "最大的石碑——也是同類中最罕見的。",
 			"link_recipe": false
 		}
 	]

@@ -1,0 +1,35 @@
+{
+  "name": "寒鐵",
+  "category": "gear",
+  "icon": "bewitchment:cold_iron_ingot",
+  "pages": [
+    {
+      "type": "text",
+      "text": "它是Oberon的禍根，也是靈魂的禍根, 這種鐵在霜火中鍛造而出, 它的本質給予了它排斥精神領域的特性。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:equipment/armor/cold_iron_helmet",
+      "recipe2": "bewitchment:equipment/armor/cold_iron_chestplate"
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:equipment/armor/cold_iron_leggings",
+      "recipe2": "bewitchment:equipment/armor/cold_iron_boots"
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:equipment/tool/cold_iron_sword",
+      "recipe2": "bewitchment:equipment/tool/cold_iron_pickaxe"
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:equipment/tool/cold_iron_hoe",
+      "recipe2": "bewitchment:equipment/tool/cold_iron_axe"
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:equipment/tool/cold_iron_shovel"
+    }
+  ]
+}

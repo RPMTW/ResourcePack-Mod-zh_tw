@@ -1,11 +1,11 @@
 {
     "name": "Potion of Transformation",
     "icon": "dynamictrees:dendropotion:6",
-    "category": "potions",
+    "category": "藥水",
     "sortnum": "5",
     "pages": [
         {
-            "type": "brewing",
+            "type": "釀造",
             "title": "Potion of Transformation",
             "ingredient": "dynamictrees:oakseed",
             "bottle": "dynamictrees:dendropotion:6",

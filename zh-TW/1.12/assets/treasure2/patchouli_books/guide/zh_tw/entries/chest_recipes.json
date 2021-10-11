@@ -1,0 +1,17 @@
+{
+    "name": "Chapter4: Chests",
+    "icon": "minecraft:writable_book",
+    "category": "recipes",
+    "pages": [
+        {
+            "type": "text",
+            "title": "Chests",
+            "text": "Turn any extra skulls you have laying around into a chest!"
+        },
+        {
+            "type": "crafting",
+            "recipe": "treasure2:skull_chest",
+            "recipe2": "treasure2:gold_skull_chest"
+        }
+    ]
+}

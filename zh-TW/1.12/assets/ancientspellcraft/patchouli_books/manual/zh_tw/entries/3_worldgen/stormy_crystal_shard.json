@@ -1,5 +1,5 @@
 {
-	"name": "Stormy Crystal Veins",
+	"name": "風暴水晶礦脈",
 	"icon": "ancientspellcraft:crystal_ore_lightning",
 	"category": "3_worldgen",
 	"sortnum": 4,
@@ -7,7 +7,7 @@
 		{
 			"type": "spotlight",
 			"item": "ancientspellcraft:crystal_ore_lightning",
-			"text": " Stormy Crystal ore can be found under the sheer mountains of the Extreme Hills biome.  Due to the height of their home biome, they have absorbed a considerable amount of static electricity during their formation.",
+			"text": "風暴水晶礦石可以在極端山地生態域的陡峭山脈下找到。由於他們家鄉的生態域高度，所以他們在形成過程中吸收了大量的靜電。",
 			"link_recipe": false
 		},
 		{
@@ -15,14 +15,14 @@
 			"images": [
 				"ancientspellcraft:textures/gui/entries/stormy_ore_shard.png"
 			],
-			"title": "Stormy Crystal Veins",
+			"title": "風暴水晶礦脈",
 			"text": ""
 		},
 		{
 			"type": "crafting",
 			"recipe": "ancientspellcraft:magic_crystal_lightning",
-			"title": "Stormy Crystal",
-			"text": "        Crafting Table"
+			"title": "風暴水晶",
+			"text": "        工作台"
 		}
 	]
 }

@@ -1,0 +1,35 @@
+{
+  "name": "銀",
+  "category": "gear",
+  "icon": "bewitchment:silver_ingot",
+  "pages": [
+    {
+      "type": "text",
+      "text": "被恐懼與怨憎侵染的對象都會對銀毫無抵抗力。即便我們不知道它的具體工作原理，也不清楚它是被誰祝福過；但它仍然是這個世界上絕大多數具有物質形態的怪物的末日，就像是寒鐵對於靈體的殺傷力那樣。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:equipment/armor/silver_helmet",
+      "recipe2": "bewitchment:equipment/armor/silver_chestplate"
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:equipment/armor/silver_leggings",
+      "recipe2": "bewitchment:equipment/armor/silver_boots"
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:equipment/tool/silver_sword",
+      "recipe2": "bewitchment:equipment/tool/silver_pickaxe"
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:equipment/tool/silver_hoe",
+      "recipe2": "bewitchment:equipment/tool/silver_axe"
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:equipment/tool/silver_shovel"
+    }
+  ]
+}

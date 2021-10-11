@@ -1,0 +1,24 @@
+{
+  "name": "維度之沙",
+  "category": "distilling_and_smelting",
+  "icon": "bewitchment:dimensional_sand",
+  "pages": [
+    {
+      "type": "text",
+      "text": "維度之沙在手中感覺很奇怪……它是固體的, 但卻可以像液體一樣流動, 並以一種神秘的方式閃爍著. 它可以通過在女巫烤箱內烤製終界之眼或歌萊果獲得"
+    },
+    {
+      "type": "bewitchment:oven_recipe",
+      "recipe": "bewitchment:dimensional_sand",
+      "text": "你能感覺到這種藍綠色的材料與以太能量的共振, 它與終界緊緊相聯繫著."
+    },
+    {
+      "type": "bewitchment:oven_recipe",
+      "recipe": "bewitchment:dimensional_sand_alt0"
+    },
+    {
+      "type": "bewitchment:oven_recipe",
+      "recipe": "bewitchment:dimensional_sand_alt1"
+    }
+  ]
+}

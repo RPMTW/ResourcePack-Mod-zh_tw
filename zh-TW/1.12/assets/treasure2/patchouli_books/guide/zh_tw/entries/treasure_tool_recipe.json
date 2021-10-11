@@ -1,0 +1,16 @@
+{
+    "name": "Chapter1: Treasure Tool",
+    "icon": "minecraft:writable_book",
+    "category": "recipes",
+    "pages": [
+        {
+            "type": "text",
+            "title": "Treasure Tool",
+            "text": "The Treasure tool is an ingredient that is required for all treasure recipes."
+        },
+        {
+            "type": "crafting",
+            "recipe": "treasure2:treasure_tool"
+        }
+    ]
+}

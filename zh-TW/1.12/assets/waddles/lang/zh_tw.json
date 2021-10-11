@@ -1,12 +1,9 @@
 {
-    "_comment_0": "實體",
     "entity.waddles:adelie_penguin.name": "阿德利企鵝",
-    "_comment_1": "字幕",
     "waddles:subtitles.adelie.ambient": "阿德利企鵝的叫聲",
     "waddles:subtitles.adelie.baby.ambient": "阿德利企鵝幼鳥的叫聲",
     "waddles:subtitles.adelie.death": "阿德利企鵝死亡",
     "waddles:subtitles.adelie.hurt": "阿德利企鵝受傷",
-    "_comment_2": "提示",
     "waddles:config.category.general.tooltip": "Waddles的全域設定",
     "waddles:config.category.spawnchances.tooltip": "設定企鵝生產權重"
 }

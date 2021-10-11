@@ -1,0 +1,12 @@
+{
+  "name": "廢物處理",
+  "category": "cauldron_and_brewing",
+  "icon": "minecraft:lava_bucket",
+  "pages": [
+    {
+      "type": "text",
+      "title": "廢物處理",
+      "text": "裝有岩漿的釜鍋會摧毀任何扔進去的物品，如果有任何生物站在上面，釜鍋也會對他們造成火焰傷害."
+    }
+  ]
+}

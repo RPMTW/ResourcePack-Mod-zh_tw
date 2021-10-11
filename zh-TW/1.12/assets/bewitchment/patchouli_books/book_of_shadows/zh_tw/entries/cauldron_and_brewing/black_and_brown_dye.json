@@ -1,0 +1,21 @@
+{
+  "name": "黑色和棕色染料",
+  "category": "cauldron_and_brewing",
+  "icon": "bewitchment:iron_gall_ink",
+  "pages": [
+    {
+      "type": "text",
+      "text": "只是一些染料的替代品。"
+    },
+    {
+      "type": "bewitchment:cauldron_recipe",
+      "recipe": "bewitchment:iron_gall_ink",
+      "text": "替代了墨囊，不用再去辛苦地尋找魷魚了。同時有些人聲稱它在創造惡魔契約中至關重要……"
+    },
+    {
+      "type": "bewitchment:cauldron_recipe",
+      "recipe": "bewitchment:catechu_brown",
+      "text": "一種從木頭中提取的棕色染料，可代替可可豆。"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "name": "基礎魔法精華",
+  "category": "distilling_and_smelting",
+  "icon": "bewitchment:oak_spirit",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "text",
+      "text": "通過在女巫烤箱中燃燒樹苗，可以破壞性地提取出基礎魔法精華。它們在所有巫術形式中都有著重要的作用. 為了提取精華, 必須將陶罐放入烤箱中間的底部槽中，然後將樹苗放在左邊的槽中, 而燃料放置在左下角槽中。"
+    },
+    {
+      "type": "bewitchment:oven_recipe",
+      "recipe": "bewitchment:oak_spirit",
+      "text": "最重要的提取物中的一個, 用任何一種橡木樹苗製成"
+    },
+    {
+      "type": "bewitchment:oven_recipe",
+      "recipe": "bewitchment:oak_spirit_alt"
+    },
+    {
+      "type": "bewitchment:oven_recipe",
+      "recipe": "bewitchment:spruce_heart",
+      "text": "杉木精華, 在紡車製造中至關重要"
+    },
+    {
+      "type": "bewitchment:oven_recipe",
+      "recipe": "bewitchment:birch_soul",
+      "text": "一種輕靈的精華，從幼小的樺木中提取而來"
+    },
+    {
+      "type": "bewitchment:oven_recipe",
+      "recipe": "bewitchment:cloudy_oil",
+      "text": "從植物中提取的一種常見精華, 經常被用於調製高級魔法精華"
+    },
+    {
+      "type": "bewitchment:oven_recipe",
+      "recipe": "bewitchment:cloudy_oil_alt0"
+    },
+    {
+      "type": "bewitchment:oven_recipe",
+      "recipe": "bewitchment:acacia_resin",
+      "text": "這是一種很難找到的，具有治療功效的精華"
+    },
+    {
+      "type": "bewitchment:oven_recipe",
+      "recipe": "bewitchment:ebb_of_death",
+      "text": "一種充滿了死亡和衰敗氣息的精華, 提取自柏樹"
+    },
+    {
+      "type": "bewitchment:oven_recipe",
+      "recipe": "bewitchment:droplet_of_wisdom",
+      "text": "一種從接骨木中提取的精華，據說可以向使用者灌輸知識"
+    },
+    {
+      "type": "bewitchment:oven_recipe",
+      "recipe": "bewitchment:liquid_witchcraft",
+      "text": "曼陀羅的提取物，充滿了魔法能量"
+    },
+    {
+      "type": "bewitchment:oven_recipe",
+      "recipe": "bewitchment:essence_of_vitality",
+      "text": "從燒焦的杜松樹苗中提取出的生命精華"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "女巫長袍",
+  "category": "gear",
+  "icon": "bewitchment:witches_hat",
+  "pages": [
+    {
+      "type": "text",
+      "text": "女巫長袍是從事於巫術之路的人的首選服裝，儘管看上去很平凡，這件長袍依然會在你學習巫術的特定階段給予你一些助益。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:equipment/armor/witches_hat",
+      "recipe2": "bewitchment:equipment/armor/witches_cowl"
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:equipment/armor/witches_robes",
+      "recipe2": "bewitchment:equipment/armor/witches_pants"
+    }
+  ]
+}

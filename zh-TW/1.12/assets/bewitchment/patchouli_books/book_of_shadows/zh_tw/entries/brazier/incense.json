@@ -1,0 +1,46 @@
+{
+  "name": "薰香",
+  "category": "brazier",
+  "icon": "bewitchment:brazier",
+  "pages": [
+    {
+      "type": "text",
+      "text": "將特定的植物與[龍血樹脂]相結合，然後將其點燃, 在其所產生的香氛中入睡, 醒來之後，使用者會感到精神愉悅，並且感知更為敏銳. 香氛會影響以火盆為中心的五格範圍."
+    },
+    {
+      "type": "bewitchment:incense_recipe",
+      "recipe": "bewitchment:vitality",
+      "text": "強化了使用者的血肉，讓他們減少所受傷害，並且可以造成更多傷害。"
+    },
+    {
+      "type": "bewitchment:incense_recipe",
+      "recipe": "bewitchment:deftness",
+      "text": "提高使用者的速度和敏捷性。"
+    },
+    {
+      "type": "bewitchment:incense_recipe",
+      "recipe": "bewitchment:invigorating",
+      "text": "使用者會更加堅韌, 並且會提高挖掘方塊的速度。"
+    },
+    {
+      "type": "bewitchment:incense_recipe",
+      "recipe": "bewitchment:cats_eye",
+      "text": "刺激使用者的眼睛，讓他們像貓一樣能在黑暗中看到東西。"
+    },
+    {
+      "type": "bewitchment:incense_recipe",
+      "recipe": "bewitchment:fullness",
+      "text": "填飽使用者的胃, 並使他們能夠承擔更多傷害"
+    },
+    {
+      "type": "bewitchment:incense_recipe",
+      "recipe": "bewitchment:intensity",
+      "text": "在已經點燃的薰香旁，另起一個火盆並點燃這種薰香, 這種薰香可以增強前者的效果. 與濃度薰香不相容。"
+    },
+    {
+      "type": "bewitchment:incense_recipe",
+      "recipe": "bewitchment:concentration",
+      "text": "使附近火盆所燃燒出的香氛變濃, 讓其持續更久. 與強度薰香不相容。"
+    }
+  ]
+}

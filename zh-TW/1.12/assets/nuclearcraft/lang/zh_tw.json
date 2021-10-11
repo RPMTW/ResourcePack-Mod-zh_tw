@@ -2082,7 +2082,6 @@
     "gui.computer.invalid_argument_error": "無效參數%s，預期%s",
     "gui.computer.integer_too_small_error": "數字參數%s太小，預期最少%s",
     "gui.computer.integer_too_large_error": "數字參數%s太大，預期最大%s",
-    "_comment_0": " Localisation for ZeroCore multiblock API",
     "zerocore.api.nc.multiblock.validation.success": "多方塊結構已完成",
     "zerocore.api.nc.multiblock.validation.too_few_parts": "多方塊結構過小",
     "zerocore.api.nc.multiblock.validation.machine_too_large": "多方塊結構過大，在 %2$s 軸不能超過 %1$d 個方塊",

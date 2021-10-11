@@ -1,0 +1,16 @@
+{
+  "name": "Slime",
+  "category": "cauldron_and_brewing",
+  "icon": "minecraft:slime_ball",
+  "pages": [
+    {
+      "type": "text",
+      "text": "黏液球有時很難被找到, 現在你可以在釜鍋裡製造了!"
+    },
+    {
+      "type": "bewitchment:cauldron_recipe",
+      "recipe": "bewitchment:slimeball",
+      "text": "它黏黏的."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "儀式刀和伯萊恩新月小刀",
+  "category": "magic_overview",
+  "icon": "bewitchment:athame",
+  "pages": [
+    {
+      "type": "text",
+      "text": "一種神聖的儀式匕首，傳統上有一個黑色的柄。當用這種儀式刀殺死生物時，他們可能會掉落獨特的物品。這柄儀式刀也被用做增加祭壇魔力的輔助品。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:equipment/tool/athame"
+    },
+    {
+      "type": "text",
+      "text": "通常柄為白色的一把小鐮刀，它可以無傷害地從生物身上取得物品，比如從烏鴉身上取得羽毛，從羊身上取得毛線等，同時也在許多偏自然向的儀式上發揮作用。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:equipment/tool/boline"
+    }
+  ]
+}

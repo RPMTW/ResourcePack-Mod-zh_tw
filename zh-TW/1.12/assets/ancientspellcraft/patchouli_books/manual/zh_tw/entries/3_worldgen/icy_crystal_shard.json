@@ -1,5 +1,5 @@
 {
-	"name": "Icy Crystal Veins",
+	"name": "寒霜水晶礦脈",
 	"icon": "ancientspellcraft:crystal_ore_ice",
 	"category": "3_worldgen",
 	"sortnum": 2,
@@ -7,7 +7,7 @@
 		{
 			"type": "spotlight",
 			"item": "ancientspellcraft:crystal_ore_ice",
-			"text": " Icy Crystal ore can be found in the frozen abyss of the Tundra. They are frozen to the core, and imbued with the powers of frost.",
+			"text": "寒霜水晶礦石可以在凍土帶的冰凍深淵中找到。他們被凍結在覈心，並充滿了霜凍的力量。",
 			"link_recipe": false
 		},
 		{
@@ -15,14 +15,14 @@
 			"images": [
 				"ancientspellcraft:textures/gui/entries/icy_ore_shard.png"
 			],
-			"title": "Icy Crystal Veins",
+			"title": "寒霜水晶礦脈",
 			"text": ""
 		},
 		{
 			"type": "crafting",
 			"recipe": "ancientspellcraft:magic_crystal_ice",
-			"title": "Icy Crystal",
-			"text": "        Crafting Table"
+			"title": "寒霜水晶",
+			"text": "        工作台"
 		}
 	]
 }

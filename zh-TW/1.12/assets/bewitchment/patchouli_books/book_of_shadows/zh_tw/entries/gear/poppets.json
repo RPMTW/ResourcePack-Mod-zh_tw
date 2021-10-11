@@ -1,0 +1,81 @@
+{
+  "name": "巫毒娃娃",
+  "category": "gear",
+  "icon": "bewitchment:poppet",
+  "pages": [
+    {
+      "type": "text",
+      "text": "巫毒娃娃是一種可以與目標綁定在一起的小玩偶，人們通常會把這個目標定為自己，因為巫毒娃娃可以保護他免收一切形式的傷害。也就是說，女巫可以利用巫毒娃娃，給那些與她作對的人下巫毒（Voodoo）。女巫為了保護自己的巫毒娃娃的安全，有時會隨身攜帶著它，有時會把它放入特殊的架子中。$(o)西班牙苔蘚是巫毒娃娃製作過程中的關鍵物品，所以計劃一趟沼澤旅行或許是一個不錯的主意。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:poppet",
+      "text": "這種作為合成的基礎巫毒娃娃沒有什麼太大的作用，也無法與他人綁定。$(br)$(o)注意：先要啟動娃娃，必須將其與他人綁定。想要使得巫毒娃娃與某人綁定，你需要一隻手拿著巫毒娃娃，另一隻手拿著巫媒。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:poppet_tool",
+      "text": "就像它的護甲版本變種，這一娃娃不會直接破壞你的工具，而是保留了工具的最後一次使用機會"
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:poppet_binding",
+      "text": "使攻擊你的人緩速"
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:poppet_clumsy",
+      "text": "攻擊你的人有一定機率被繳械"
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:poppet_deathprotection",
+      "text": "幫助你欺騙死亡，僅生效一次"
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:poppet_earthprotection",
+      "text": "減輕摔落傷害"
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:poppet_flameprotection",
+      "text": "減輕火焰傷害"
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:poppet_waterprotection",
+      "text": "短時間內保護目標不受溺水傷害"
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:poppet_hungerprotection",
+      "text": "減輕因飢餓帶來的傷害，並恢復少許飢餓值"
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:poppet_spiritbane",
+      "text": "減少來自於靈體的傷害"
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:poppet_vampiric",
+      "text": "將你所受的傷害轉移至娃娃所綁定的目標身上。$(r)娃娃必須放置在物品欄中"
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:poppet_voodooprotection",
+      "text": "保護你免受吸血鬼以及巫毒的影響 (W.I.P)"
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:poppet_voodoo",
+      "text": "右擊使用骨針，會傷害到這一娃娃所綁定的對象。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:poppet_wasting",
+      "text": "攻擊攜帶者該娃娃的人會感到飢餓"
+    }
+  ]
+}

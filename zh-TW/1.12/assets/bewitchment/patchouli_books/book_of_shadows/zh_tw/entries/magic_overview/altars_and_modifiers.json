@@ -1,0 +1,44 @@
+{
+  "name": "祭壇以及裝飾物",
+  "category": "magic_overview",
+  "icon": "bewitchment:pentacle",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "text",
+      "title": "Altars",
+      "text": "如果魔法能量是女巫棲居地的血液, 祭壇就是循環血液的心臟. 祭壇是通過以2x3的布局放置6個相同類型的祭壇塊而形成的, 然後在上面鋪上任何顏色的地毯. 祭壇可以從附近32米範圍內的植物身上吸收能量, 並把能量供應給16米範圍內的設備."
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:stone_witches_altar"
+    },
+    {
+      "type": "multiblock",
+      "name": "如何搭建",
+      "multiblock": {
+        "mapping": {
+          "A": "bewitchment:stone_witches_altar[type=0]",
+          "0": "bewitchment:stone_witches_altar[type=0]"
+        },
+        "pattern": [
+          [
+            "AA",
+            "0A",
+            "AA"
+          ]
+        ]
+      },
+      "text": "祭壇周圍的方塊必須$(i)不能$()是其他的祭壇方塊"
+    },
+    {
+      "type": "text",
+      "title": "Modifiers",
+      "text": "裝飾物可以被分為4類: 盛具, 劍, 法杖, 以及五芒星. 每個祭壇只能從每種分類中的第一個放置上的物品中汲取力量, 相同分類的物品效果不會堆疊."
+    },
+    {
+      "type": "text",
+      "text": "盛具: 玻璃瓶, 花盆, 高腳杯, 以及盛滿的高腳杯. $(br2)劍: 原版劍, 銀劍, 儀式刀, 伯萊恩新月小刀. $(br2)法杖: 蠟燭, 火把, 終界燭. $(br2)五芒星: 珍貴的寶石, 頭骨, 或者五芒星本身."
+    }
+  ]
+}

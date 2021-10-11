@@ -1,0 +1,26 @@
+{
+  "name": "油脂和蠟燭",
+  "category": "cauldron_and_brewing",
+  "icon": "bewitchment:tallow",
+  "pages": [
+    {
+      "type": "text",
+      "text": "油脂是從死者身上提煉出來的. 雖然在一些釀造以及儀式中會使用到它, 但它是最廣泛的用途為製作飛行軟膏和蠟燭."
+    },
+    {
+      "type": "bewitchment:cauldron_recipe",
+      "recipe": "bewitchment:tallow",
+      "text": "將腐肉的脂肪煮熟. 用來製作蠟燭以及其它東西."
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:white_candle",
+      "text": "蠟燭可被染色成16中不同的顏色!"
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:flying_ointment",
+      "text": "一種相當怪異的混合物，由油脂和許多已知的具有刺激精神活性的有毒芳香植物混合而成, 掃帚可以塗上這種混合物，魔力會滲透其中，讓它擁有飛行的能力."
+    }
+  ]
+}

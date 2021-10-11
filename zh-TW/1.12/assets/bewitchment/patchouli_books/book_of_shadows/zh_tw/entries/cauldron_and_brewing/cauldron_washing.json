@@ -1,0 +1,21 @@
+{
+  "name": "釜鍋清洗",
+  "category": "cauldron_and_brewing",
+  "icon": "minecraft:water_bucket",
+  "pages": [
+    {
+      "type": "text",
+      "text": "釜鍋的一個比較普通的用途是清洗顏料，或者從其他物品中吸取符文。"
+    },
+    {
+      "type": "bewitchment:cauldron_recipe",
+      "recipe": "bewitchment:banner_pattern_removal",
+      "text": "釜鍋更常見的用途是清洗旗幟上的染料。"
+    },
+    {
+      "type": "bewitchment:cauldron_recipe",
+      "recipe": "bewitchment:wash_sigil",
+      "text": "移除龍血木掃帚上應用的符文。"
+    }
+  ]
+}

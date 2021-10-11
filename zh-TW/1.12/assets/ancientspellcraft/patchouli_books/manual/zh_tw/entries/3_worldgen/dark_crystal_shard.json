@@ -1,5 +1,5 @@
 {
-	"name": "Dark Crystal Veins",
+	"name": "暗夜水晶礦脈",
 	"icon": "ancientspellcraft:crystal_ore_necromancy",
 	"category": "3_worldgen",
 	"sortnum": 5,
@@ -7,7 +7,7 @@
 		{
 			"type": "spotlight",
 			"item": "ancientspellcraft:crystal_ore_necromancy",
-			"text": " Buried deep under the muck of the darkest, murkiest Swamps can the Dark Crystals of Necromancy be found. They were infused with dark, unpleasant energies during its formation. Some say the souls of creatures that drowned in the swamps are trapped in these crystals.",
+			"text": " 深埋在最黑暗、最陰暗的沼澤淤泥下，可以找到死靈法術的黑暗水晶。在它的形成過程中，它們被注入了黑暗、令人緩慢的能量。有人說淹死在沼澤中的沉屍靈魂被困在這些水晶中。",
 			"link_recipe": false
 		},
 		{
@@ -16,14 +16,14 @@
 			"images": [
 				"ancientspellcraft:textures/gui/entries/dark_ore_shard.png"
 			],
-			"title": "Dark Crystal Veins",
+			"title": "暗夜水晶礦脈",
 			"text": ""
 		},
 		{
 			"type": "crafting",
 			"recipe": "ancientspellcraft:magic_crystal_necromancy",
-			"title": "Dark Crystal",
-			"text": "        Crafting Table"
+			"title": "暗夜水晶",
+			"text": "        工作台"
 		}
 	]
 }

@@ -1,0 +1,60 @@
+{
+  "name": "火盆",
+  "category": "devices",
+  "icon": "bewitchment:brazier",
+  "pages": [
+    {
+      "type": "text",
+      "text": "火盆是一種特殊的容器，用來裝需要被燃燒才能發揮功效的魔法材料. 根據燃燒的魔法材料的不同，火盆會產生不同的增益效果, 它還可以製造濃稠的霧氣, 甚至可以召喚生物的來世, 因為燃燒物品可以揭開精神與現實之間的帷幕，藉此你便可以和這些靈魂交流。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:brazier",
+      "text": "火盆被用於焚香, 在薰香所影響的區域中會獲得增益效果. 一些更邪惡的人也說過他們可以使用火盆來詛咒目標……"
+    },
+    {
+      "type": "text",
+      "title": "薰香",
+      "text": "特定當量的的魔法材料與龍血樹脂一起在火盆中燃燒時起催化劑的作用, 薰香就產生了. 當燃燒時,它會在一定區域內產生香氛, 在此環境下入睡的玩家會獲得增益效果, 同時這股香氛也會讓那些黑暗中的敵人不敢靠近."
+    },
+    {
+      "type": "text",
+      "text": "然而，由於煙霧本身的輕盈性質，薰香所帶來的效果不可能像符文以及藥水那樣強勁且持久，除非……"
+    },
+    {
+      "type": "bewitchment:incense_recipe",
+      "recipe": "bewitchment:vitality",
+      "text": "Reinforces the flesh and blood of the user, allowing them to deal more damage as well as take less damage."
+    },
+    {
+      "type": "bewitchment:incense_recipe",
+      "recipe": "bewitchment:deftness",
+      "text": "Enhances the speed and agility of the user."
+    },
+    {
+      "type": "bewitchment:incense_recipe",
+      "recipe": "bewitchment:invigorating",
+      "text": "Causes the user to be more durable overall, and lets them break blocks faster."
+    },
+    {
+      "type": "bewitchment:incense_recipe",
+      "recipe": "bewitchment:cats_eye",
+      "text": "Stimulates the eyes of the user, allowing them to see in the dark just as a cat would."
+    },
+    {
+      "type": "bewitchment:incense_recipe",
+      "recipe": "bewitchment:fullness",
+      "text": "Makes the user less hungry, and allows them to take more hits."
+    },
+    {
+      "type": "bewitchment:incense_recipe",
+      "recipe": "bewitchment:intensity",
+      "text": "When burned in a separate brazier alongside a brazier containing a different incense, it increases the potency of its effects. Not compatible with Concentration."
+    },
+    {
+      "type": "bewitchment:incense_recipe",
+      "recipe": "bewitchment:concentration",
+      "text": "Thickens and concentrates the smoke from a nearby brazier, allowing its effects to linger on much longer. Not compatible with Intensity."
+    }
+  ]
+}

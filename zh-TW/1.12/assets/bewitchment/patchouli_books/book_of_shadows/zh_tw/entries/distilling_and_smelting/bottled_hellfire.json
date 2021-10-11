@@ -1,0 +1,15 @@
+{
+  "name": "瓶裝地獄烈焰",
+  "category": "distilling_and_smelting",
+  "icon": "bewitchment:bottled_hellfire",
+  "pages": [
+    {
+      "type": "text",
+      "text": "瓶裝地獄烈焰是一種充滿了魔力，同時也非常猛烈的火焰，它不會蔓延，在一些普通火焰無法發揮作用的地方，可以用它來加熱釜鍋. 但是一定要牢記，決不能讓地獄烈焰接觸身體，因為它會對你造成無法彌補的損傷."
+    },
+    {
+      "type": "bewitchment:distillery_recipe",
+      "recipe": "bewitchment:bottled_hellfire"
+    }
+  ]
+}

@@ -1,5 +1,4 @@
 {
-    "_comment_0": " 設定",
     "ftbbackups.general": "一般",
     "ftbbackups.general.silent": "安靜",
     "ftbbackups.general.backups_to_keep": "備份保留數",
@@ -14,7 +13,6 @@
     "ftbbackups.general.only_if_players_online": "只在有玩家上線時進行備份",
     "ftbbackups.general.force_on_shutdown": "在遊戲關閉時進行強制備份",
     "ftbbackups.general.buffer_size": "緩衝區大小",
-    "_comment_1": " Misc",
     "ftbbackups.lang.timer": "伺服器即將開始備份：%s",
     "ftbbackups.lang.timer_progress": "[%d%% | %d / %d]",
     "ftbbackups.lang.start": "伺服器開始備份！",
@@ -27,7 +25,6 @@
     "ftbbackups.lang.size.2": "總世界備份資料夾大小: %s",
     "ftbbackups.lang.size.3": "可用空間：%s",
     "ftbbackups.lang.saving_failed": "世界保存失敗！",
-    "_comment_2": " Commands",
     "commands.backup.usage": "/backup",
     "commands.backup.start.usage": "/backup start [自定義名稱]",
     "commands.backup.time.usage": "/backup time",

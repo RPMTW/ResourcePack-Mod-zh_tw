@@ -1,5 +1,6 @@
 {
-    "tile.engineersworkshop:blockTable.name": "工作檯",
+    "itemGroup.engineersworkshop": "工程師工作坊",
+    "tile.engineersworkshop.blocktable.name": "工作檯",
     "engineersworkshop:upgrade.blank.name": "空白升級",
     "engineersworkshop:upgrade.auto_crafter.name": "自動合成升級",
     "engineersworkshop:upgrade.storage.name": "儲存升級",
@@ -34,8 +35,5 @@
     "engineersworkshop:upgrade.fuel_delay.description": "減小功率消耗之間的時間",
     "engineersworkshop:upgrade.axe.description": "讓你的磨粉機把原木劈成木板",
     "engineersworkshop:upgrade.unstackable": "不能堆疊",
-    "engineersworkshop:upgrade.stackable": "最大堆疊 %s",
-    "itemGroup.engineersworkshop": "工程師工作坊",
-    "engineersworkshop:hbdark": "§CH§Ea§Ap§Bp§9y§D §CB§Ei§Ar§Bt§9h§Dd§Ca§Ey§A §BD§9a§Dr§Ck§Eo§As§Bt§9o§D！",
-    "tile.engineersworkshop.blocktable.name": "工作檯"
+    "engineersworkshop:upgrade.stackable": "最大堆疊 %s"
 }

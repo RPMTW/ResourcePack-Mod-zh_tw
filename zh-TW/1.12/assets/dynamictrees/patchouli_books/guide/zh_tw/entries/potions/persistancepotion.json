@@ -1,11 +1,11 @@
 {
     "name": "Potion of Persistance",
     "icon": "dynamictrees:dendropotion:5",
-    "category": "potions",
+    "category": "藥水",
     "sortnum": "7",
     "pages": [
         {
-            "type": "brewing",
+            "type": "釀造",
             "title": "Potion of Persistance",
             "ingredient": "minecraft:red_flower:1",
             "bottle": "dynamictrees:dendropotion",

@@ -1,10 +1,7 @@
 {
-    "_comment_0": " CREATIVE TAB",
     "itemGroup.ironjetpacks": "鐵製噴氣背包",
-    "_comment_1": " KEYBINDS",
     "key.ij.engine": "手動引擎",
     "key.ij.hover": "懸浮模式",
-    "_comment_2": " ITEMS",
     "item.ij.strap.name": "皮革條",
     "item.ij.basic_coil.name": "基礎線圈",
     "item.ij.advanced_coil.name": "高級線圈",
@@ -15,7 +12,6 @@
     "item.ij.thruster.name": "推進器",
     "item.ij.capacitor.name": "電容",
     "item.ij.jetpack.name": "噴射背包",
-    "_comment_3": " TOOLTIPS",
     "tooltip.ij.hold_shift": "§7按下 §e§oSHIFT §r§7鍵查看更多資訊。",
     "tooltip.ij.on": "開",
     "tooltip.ij.off": "關",

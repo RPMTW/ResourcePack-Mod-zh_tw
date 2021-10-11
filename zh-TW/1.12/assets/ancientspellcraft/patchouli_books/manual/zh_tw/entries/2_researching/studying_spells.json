@@ -6,31 +6,31 @@
 	"pages": [
 		{
 			"type": "text",
-			"text": " Scrolls of Identification can greatly simplify the process of divining the nature of an unknown spell, simply reading its incantations over the unknown spellbook or scroll will uncover its contents. $(br) However, they are a rare and finite resource. This is due to the fact that the process of creating such scrolls were lost to the ravages of time- they can now only be found or"
+			"text": "鑑定捲軸可以極大地簡化對未知術式性質的預測過程，只需在未知術式書或捲軸上閱讀其咒語即可發現其內容。$(br) 然而，它們是一種稀有且有限的資源。這是因為製作這些捲軸的過程已經在時間的蹂躪中丟失了——它們現在只能被找到或"
 		},
 		{
 			"type": "text",
-			"text": " traded for, at a great price. It's possible to cast a spell without understanding it, but only the most brave (or foolish?) wizards rely on such methods, as the results can vary from inconvenient to catastrophic. $(br)  It's possible to cast a spell without knowing it, but only the most brave (or foolish?) wizards rely on such methods as the results can be catastrophic. $(br) Fortunately, a group of resourceful wizard scholars"
+			"text": " 交易，價格優惠。有可能在不理解的情況下施展術式，但只有最勇敢（或最愚蠢？）的巫師才會依賴這種方法，因為結果可能從不方便到災難性不等。$(br) 有可能在不知情的情況下施展咒語，但只有最勇敢（或最愚蠢？）的巫師才會依賴這種方法，因為結果可能是災難性的。$(br) 幸運的是，一群足智多謀的巫師學者"
 		},
 		{
 			"type": "text",
-			"text": " have invented a method to study their newfound spells in a less risky fashion. Their fervent research resulted in a new tool - the Sphere of Cognizance. What are wizards without their crystal balls anyhow?$(br) The Sphere of Cognizance can be an essential tool for identifying unknown spells.$(br) By fuelling the process with raw magic crystals and concentrating their mind on the Sphere, a wizard can learn clues regarding the very"
+			"text": "發明了一種方法，以較低風險的方式研究他們新發現的術式。他們的熱情研究產生了一種新工具——認知領域。沒有水晶球的巫師算什麼？$(br) 認知之球可以成為識別未知術式的重要工具。$(br) 通過用原始魔法水晶推動這個過程並將他們的注意力集中在這個球上，巫師可以了解有關非常"
 		},
 		{
 			"type": "text",
-			"text": " nature of the spell which was put under the Sphere, without casting it. Not only can the elemental affinity of the spell be revealed this way, but also the its purpose - be it a summoning incantation, or a protective aura around the caster. "
+			"text": " 放置在球體下的咒語的性質，而不是施放它。不僅可以通過這種方式揭示術式的元素親和力，還可以揭示其目的 - 無論是召喚咒語，還是施法者周圍的保護光環。 "
 		},
 		{
 			"type": "spotlight",
 			"item": "ancientspellcraft:sphere_cognizance",
-			"text": "There is also a slight chance to discover the spell's name. The Sphere can be an useful addition to a wizard's arsenal of magical tools - and a mysterious, fancy decoration to a library of spells",
+			"text": "也有機會發現術式的名稱。球體可以成為巫師魔法工具庫的有用補充 - 也是術式圖書館的神秘而奇特的裝飾",
 			"link_recipe": false
 		},
 		{
 			"type": "crafting",
 			"recipe": "ancientspellcraft:sphere_cognizance",
 			"title": "認知寶珠",
-			"text": "The Sphere can be crafted at a crafting table"
+			"text": "這個球可以在合成台中被合成"
 		}
 	]
 }

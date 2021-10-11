@@ -1,5 +1,5 @@
 {
-	"name": "Remnants of the past",
+	"name": "史前遺跡",
 	"icon": "ancientspellcraft:ancient_spellcraft_spell_book",
 	"category": "ancient_knowledge",
 	"sortnum": 0,
@@ -7,19 +7,19 @@
 	"pages": [
 		{
 			"type": "text",
-			"text": " Only a few remnants of the old wizarding civilizations can be found in this era. Many of their ancient spells and techniques are said to be lost to the ages... the magical seals that bind magic to parchment have decayed and faded away, books and scrolls have been devoured by silverfish and the surviving ones crumble into dust at the slightest disturbance."
+			"text": " 在這個時代，只能找到一些古老的巫師文明的殘餘。據說他們的許多古老的咒語和技術已經失傳多年……將魔法綁定到羊皮紙上的魔法封印已經腐爛和褪色，書籍和捲軸被蠹蟲吞噬，倖存的那些被一絲一毫地粉碎成塵土騷亂。"
 		},
 		{
 			"type": "text",
-			"text": " Only the most mundane and sturdy forms of knowledge persisted - Stone Tablets, enchanted and bound runes, runic mana flasks and so on."
+			"text": " 只有最平凡和最堅固的知識形式存在——石碑、附魔和束縛的符文、符文法力瓶等等。"
 		},
 		{
 			"type": "text",
-			"text": "While most current-day wizards can discover ways to live for centuries, even the oldest of today can be considered but children in the eyes of the wizards from the age of these relics. It is unknown why the spell books and arcane wizard robes succumbed to the ravages of time, as they are usually enchanted with seals and incantations which prevents any kind of physical harm or aging. A large number of theories have been posited by scholars over the centuries, but few can be taken seriously."
+			"text": "雖然現今大多數巫師都可以找到數百年前的生活方式，但即使是現今最古老的巫師也可以被視為這些遺物時代巫師眼中的孩子。不知道為什麼法術書和奧術法師長袍會屈服於時間的蹂躪，因為它們通常附有封印和咒語，可以防止任何形式的身體傷害或老化。幾個世紀以來，學者們提出了大量的理論，但很少有人能夠認真對待。"
 		},
 		{
 			"type": "text",
-			"text": "One such theory, widely accepted by the wizardfolk, describes a cataclysmic event occurring thousands of years ago, commonly referred to as $(o)The Rift$(). $(br) Details are unclear, but based on the scraps of evidence discovered by wizard scholars over many millennia, it is concluded that $(o)The Rift$() caused all powerful forms of magic to be wiped out of the Overworld. Some scholars believe it was an accident, such as a powerful ritual gone awry; perhaps a wizard's foolish attempts to summon a primordial deity to gain even more powerful knowledge? Others say that it was intentional- that the ancient wizards hid their knowledge away due to the appearance of a terrifying new threat. Perhaps we will never find out the entire truth."
+			"text": "其中一個被巫師們廣泛接受的理論描述了數千年前發生的災難性事件，通常被稱為$(o)裂谷$()。$(br)細節尚不清楚，但根據巫師學者數千年來發現的證據碎片，可以得出結論：$(o)裂痕$（）導致所有强大的魔法形式從超世界中消失。一些學者認為這是一個意外，比如一個强大的儀式出了差錯；也許是一個巫師愚蠢地試圖召喚一比特原始神來獲得更强大的知識？另一些人說這是故意的——古代巫師由於出現了可怕的新威脅而將他們的知識隱藏起來。也許我們永遠也不會發現全部真相。"
 		}
 	]
 }

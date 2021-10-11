@@ -1,5 +1,5 @@
 {
-	"name": "Radiant Crystal Veins",
+	"name": "光輝水晶礦脈",
 	"icon": "ancientspellcraft:crystal_ore_healing",
 	"category": "3_worldgen",
 	"sortnum": 5,
@@ -7,7 +7,7 @@
 		{
 			"type": "spotlight",
 			"item": "ancientspellcraft:crystal_ore_healing",
-			"text": " Radiant Crystal ore can be found beneath the lush, green Jungles of the world. They seem to have been blessed with healing properties, making them a prized possession among healers. The connection between Jungles and Healing magic is unclear- some scholars believe it is due to the abundance of life energy (Vitae) in these Jungles.",
+			"text": " 光輝的水晶礦石可以在世界鬱鬱蔥蔥的綠色叢林下找到。他們似乎擁有治療能力，使他們成為治療師的珍貴財產。叢林和治療魔法之間的聯繫尚不清楚 - 一些學者認為這是由於這些叢林中豐富的生命能量（Vitae）。",
 			"link_recipe": false
 		},
 		{
@@ -15,14 +15,14 @@
 			"images": [
 				"ancientspellcraft:textures/gui/entries/radiant_ore_shard.png"
 			],
-			"title": "Radiant Crystal Veins",
+			"title": "光輝水晶礦脈",
 			"text": ""
 		},
 		{
 			"type": "crafting",
 			"recipe": "ancientspellcraft:magic_crystal_healing",
-			"title": "Radiant Crystal",
-			"text": "        Crafting Table"
+			"title": "光輝水晶",
+			"text": "        工作台"
 		}
 	]
 }

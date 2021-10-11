@@ -1,0 +1,56 @@
+{
+    "name": "Treasure Hunting",
+    "icon": "treasure2:gold_coin",
+    "category": "general",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "text",
+            "title": "$(bold)What to Look For$()",
+            "text": "Treasure chests are randomly hidden throughout the minecraft world. The following pages depict areas that contain treasure chests."
+        },
+        {
+            "title": "Graveyard",
+            "type": "image",
+            "images": [
+                "treasure2:textures/gui/patchouli/guide/graveyard1.png",
+                "treasure2:textures/gui/patchouli/guide/graveyard2.png",
+                "treasure2:textures/gui/patchouli/guide/graveyard3.png",
+                "treasure2:textures/gui/patchouli/guide/graveyard4.png"
+            ]
+        },
+        {
+            "title": "Abandoned Buildings",
+            "type": "image",
+            "images": [
+                "treasure2:textures/gui/patchouli/guide/tower1.png",
+                "treasure2:textures/gui/patchouli/guide/tower2.png",
+                "treasure2:textures/gui/patchouli/guide/tower3.png",
+                "treasure2:textures/gui/patchouli/guide/church1.png"
+            ]
+        },
+        {
+            "title": "Sunken Ships",
+            "type": "image",
+            "images": [
+                "treasure2:textures/gui/patchouli/guide/sunkenship1.png",
+                "treasure2:textures/gui/patchouli/guide/sunkenship2.png"
+            ]
+        },
+        {
+            "title": "Sunken Ruins",
+            "type": "image",
+            "images": [
+                ""
+            ]
+        },
+        {
+            "title": "Wither Tree Groves",
+            "type": "image",
+            "images": [
+                "treasure2:textures/gui/patchouli/guide/withergrove1.png",
+                "treasure2:textures/gui/patchouli/guide/withergrove2.png"
+            ]
+        }
+    ]
+}

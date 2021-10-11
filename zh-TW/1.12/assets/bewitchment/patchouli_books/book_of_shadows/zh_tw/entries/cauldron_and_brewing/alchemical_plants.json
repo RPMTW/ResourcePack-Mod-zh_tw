@@ -1,0 +1,40 @@
+{
+  "name": "煉金植物",
+  "category": "cauldron_and_brewing",
+  "icon": "bewitchment:torchwood",
+  "pages": [
+    {
+      "type": "text",
+      "text": "通過釜鍋，鍊金術可以創造出各種各樣的植物"
+    },
+    {
+      "type": "bewitchment:cauldron_recipe",
+      "recipe": "bewitchment:embergrass",
+      "text": "鍊金術創造的植物. 它所迸發出的火星會灼燒那些想要觸碰它的人. 這種植物會不斷蔓延，是用於基地布防的好材料。"
+    },
+    {
+      "type": "bewitchment:cauldron_recipe",
+      "recipe": "bewitchment:torchwood",
+      "text": "鍊金術創造的植物. 其主幹的頂端的球梗能夠發光。就像其它自然植物一樣，火炬木也會蔓延開來。"
+    },
+    {
+      "type": "bewitchment:cauldron_recipe",
+      "recipe": "bewitchment:frostflower",
+      "text": "這種花就是矛盾的結合體, 這種鍊金術創造的液體與空氣接觸後凍結，並形成了花的形狀, 它能夠合成為雪球。"
+    },
+    {
+      "type": "bewitchment:cauldron_recipe",
+      "recipe": "bewitchment:flower_siphoning_poppy",
+      "text": "儘管看上去很像是一株人畜無害的花朵，這種煉金製造的花朵的身上實際上長滿了倒鈎以及尖刺，它會從那些觸碰它的人的身上採集到的一份血液樣本。"
+    },
+    {
+      "type": "text",
+      "text": "想要提取被其吸收的血液，你需要主手拿著伯萊恩新月匕首，非慣用手拿著空的巫媒，然後右鍵。所有原版的花朵都可以這樣被製作為汲血花。"
+    },
+    {
+      "type": "bewitchment:cauldron_recipe",
+      "recipe": "bewitchment:blue_ink_cap",
+      "text": "由鍊金術所創造的蘑菇. 這種蘑菇會在它的凝膠狀的產孢體中產生藍色的墨水, 所以它可以替代藍色染料參與合成。"
+    }
+  ]
+}
