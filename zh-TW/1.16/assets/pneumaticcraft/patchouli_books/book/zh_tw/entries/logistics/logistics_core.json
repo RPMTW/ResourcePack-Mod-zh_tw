@@ -9,7 +9,7 @@
       "text": "This is a base crafting component for all $(l:logistics/overview)Logistics/$-related items and devices."
     },
     {
-      "type": "關係",
+      "type": "relations",
       "entries": [
         "logistics/frames",
         "logistics/logistics_drone",
