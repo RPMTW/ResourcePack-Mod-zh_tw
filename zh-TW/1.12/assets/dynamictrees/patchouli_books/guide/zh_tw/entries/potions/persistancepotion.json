@@ -13,8 +13,8 @@
             "text": "This potion changes an existing tree from growing, rendering it static. Useful if you want the tree to always look the way it does for decoration."
         },
         {
-            "type": "關係",
-            "title": "關係",
+            "type": "relations",
+            "title": "Relations",
             "entries": [
                 "potions/basepotion",
                 "potions/burgeoningpotion",
