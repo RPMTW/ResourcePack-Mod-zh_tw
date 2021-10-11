@@ -1,21 +1,21 @@
 {
-  "name": "Cauldron Washing",
+  "name": "釜鍋清洗",
   "category": "cauldron_and_brewing",
   "icon": "minecraft:water_bucket",
   "pages": [
     {
       "type": "text",
-      "text": "One of the more mundane uses of the Cauldron is to wash ink and other suck markings from materials."
+      "text": "釜鍋的一個比較普通的用途是清洗顏料，或者從其他物品中吸取符文。"
     },
     {
       "type": "bewitchment:cauldron_recipe",
       "recipe": "bewitchment:banner_pattern_removal",
-      "text": "A more mundane use of the cauldron is to clean dye from banners."
+      "text": "釜鍋更常見的用途是清洗旗幟上的染料。"
     },
     {
       "type": "bewitchment:cauldron_recipe",
       "recipe": "bewitchment:wash_sigil",
-      "text": "Removes applied sigils from dragons blood brooms"
+      "text": "移除龍血木掃帚上應用的符文。"
     }
   ]
 }
