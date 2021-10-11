@@ -13,8 +13,8 @@
             "text": "這是基礎藥水的釀造配方。$(br2)所有來自動態樹的藥水在釀造過程中都使用它。"
         },
         {
-            "type": "關係",
-            "title": "關係",
+            "type": "relations",
+            "title": "Relations",
             "entries": [
                 "potions/burgeoningpotion",
                 "potions/depletionpotion",
