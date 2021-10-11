@@ -11,7 +11,7 @@
       "text": "This odd substance is extruded by slimy creatures residing in the Fey realm, and can be obtained by using $(l:crafting/runic_shears)runic shears$() on suitable entities from our own world.$(br2)You can see a complete list of sources in $(sources:roots:strange_ooze)JEI$()."
     },
     {
-      "type": "關係",
+      "type": "relations",
       "anchor": "related",
       "entries": [
         "crafting/runic_shears"
