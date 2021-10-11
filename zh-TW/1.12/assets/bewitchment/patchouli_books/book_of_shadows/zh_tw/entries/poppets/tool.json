@@ -1,12 +1,12 @@
 {
-  "name": "Tool Poppet",
+  "name": "巫毒娃娃-工具",
   "category": "poppets",
   "icon": "bewitchment:poppet_tool",
   "pages": [
     {
       "type": "crafting",
       "recipe": "bewitchment:poppet_tool",
-      "text": "Like its armor variant, the poppet will break instead of your tool, preserving it for one last use."
+      "text": "就像它的護甲版本變種，這一娃娃不會直接破壞你的工具，而是保留了工具的最後一次使用機會"
     }
   ]
 }
