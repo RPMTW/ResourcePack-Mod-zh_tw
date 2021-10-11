@@ -1,11 +1,11 @@
 {
-  "name": "Blighted Lands",
+  "name": "枯萎之地",
   "category": "rituals",
   "icon": "minecraft:sand",
   "pages": [
     {
       "type": "text",
-      "text": "Through supernatural means, this rite changes the local weather in an area to become blighted and infertile. This is best cast on an enemy via the usage of a waystone, so one does not render their own land sterile."
+      "text": "通過超自然手段，這一儀式將會改變目前區域內的天氣，使這片區域變為貧瘠不毛之地。使用該儀式的最好方法是通過路標石使儀式影響到敵人，要不然這個儀式就只能禍害禍害自己人了。"
     },
     {
       "type": "bewitchment:ritual",
