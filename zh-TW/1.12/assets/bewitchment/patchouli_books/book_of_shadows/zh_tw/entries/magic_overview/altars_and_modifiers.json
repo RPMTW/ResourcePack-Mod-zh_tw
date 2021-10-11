@@ -1,5 +1,5 @@
 {
-  "name": "Altars and Modifiers",
+  "name": "祭壇以及裝飾物",
   "category": "magic_overview",
   "icon": "bewitchment:pentacle",
   "sortnum": 0,
@@ -7,7 +7,7 @@
     {
       "type": "text",
       "title": "Altars",
-      "text": "If Magical Energy is the lifeblood of a witch’s haunt, Altars are the heart that circulates it. Altars are formed by placing 6 of the same type of Altar Block in a 2x3 layout, and then topping it with a carpet of any colour. Altars can pull from plants in a 32 meter radius, and can distribute it to any devices in a 16 meter radius."
+      "text": "如果魔法能量是女巫棲居地的血液, 祭壇就是循環血液的心臟. 祭壇是通過以2x3的布局放置6個相同類型的祭壇塊而形成的, 然後在上面鋪上任何顏色的地毯. 祭壇可以從附近32米範圍內的植物身上吸收能量, 並把能量供應給16米範圍內的設備."
     },
     {
       "type": "crafting",
@@ -15,7 +15,7 @@
     },
     {
       "type": "multiblock",
-      "name": "How to Build",
+      "name": "如何搭建",
       "multiblock": {
         "mapping": {
           "A": "bewitchment:stone_witches_altar[type=0]",
@@ -29,16 +29,16 @@
           ]
         ]
       },
-      "text": "The blocks around the altar must $(i)not$() be other altar blocks"
+      "text": "祭壇周圍的方塊必須$(i)不能$()是其他的祭壇方塊"
     },
     {
       "type": "text",
       "title": "Modifiers",
-      "text": "Modifiers are grouped into 4 categories: cups, swords, wands, and pentacles. An Altar can only draw from the first item added of each Suite, and items of the same Suite do not stack."
+      "text": "裝飾物可以被分為4類: 盛具, 劍, 法杖, 以及五芒星. 每個祭壇只能從每種分類中的第一個放置上的物品中汲取力量, 相同分類的物品效果不會堆疊."
     },
     {
       "type": "text",
-      "text": "Cups: Glass Bottles, Flower Pots, Goblets, and Filled Goblets. $(br2)Swords: Vanilla swords, Silver Swords, Athames, Bolines. $(br2)Wands: Candles, Torches, End Rods. $(br2)Pentacles: Precious Gems, Skulls and Heads, the Pentacle itself."
+      "text": "盛具: 玻璃瓶, 花盆, 高腳杯, 以及盛滿的高腳杯. $(br2)劍: 原版劍, 銀劍, 儀式刀, 伯萊恩新月小刀. $(br2)法杖: 蠟燭, 火把, 終界燭. $(br2)五芒星: 珍貴的寶石, 頭骨, 或者五芒星本身."
     }
   ]
 }
