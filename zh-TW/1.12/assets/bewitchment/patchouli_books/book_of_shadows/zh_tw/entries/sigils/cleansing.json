@@ -1,5 +1,5 @@
 {
-  "name": "Sigil of Cleansing",
+  "name": "淨化符文",
   "category": "sigils",
   "icon": "bewitchment:sigil_cleansing",
   "pages": [
@@ -10,7 +10,7 @@
     {
       "type": "spotlight",
       "item": "bewitchment:sigil_cleansing",
-      "text": "Removes debuffs from target"
+      "text": "移除對象的負面效果"
     }
   ]
 }
