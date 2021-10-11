@@ -1,11 +1,11 @@
 {
-  "name": "Witches' Oven",
+  "name": "女巫烤箱",
   "category": "devices",
   "icon": "bewitchment:witches_oven",
   "pages": [
     {
       "type": "text",
-      "text": "Likely the first machine the aspiring witch will obtain, the Witches' Oven can burn certain reagents down to special fumes, and can produce a range of secondary products. If a Witches' Oven is given Clay Jars, it will collect the produced fumes. The jar is only needed if the outpute is a fume. On top of that, it may be used to produce various cooked foods."
+      "text": "通常情況下是一個有志女巫所獲得的第一個機器，女巫烤箱可以將一些特定試劑熔煉成特殊的精華，並產出一系列副產物。如果女巫烤箱內放有黏土罐子，它將會收集這些產出的魔法精華。除此之外，你也可以用其來製作食物，當然，只有很少一部分食物可以這樣。"
     },
     {
       "type": "crafting",
@@ -14,7 +14,7 @@
     {
       "type": "bewitchment:oven_recipe",
       "recipe": "bewitchment:oak_spirit",
-      "text": "One of the most vital of all extracts, made from any type of oak sapling"
+      "text": "一種至關重要的提取物，由任何種類的橡木樹苗做成"
     },
     {
       "type": "bewitchment:oven_recipe",
@@ -23,17 +23,17 @@
     {
       "type": "bewitchment:oven_recipe",
       "recipe": "bewitchment:spruce_heart",
-      "text": "Essence of spruce trees, and vital to the Spinning Wheel"
+      "text": "杉木的精華，是製作紡車的重要材料"
     },
     {
       "type": "bewitchment:oven_recipe",
       "recipe": "bewitchment:birch_soul",
-      "text": "A light and airy fume derived from young birch"
+      "text": "從樺木苗中提取的清淡煙霧"
     },
     {
       "type": "bewitchment:oven_recipe",
       "recipe": "bewitchment:cloudy_oil",
-      "text": "A common oil produced from cooking meats and herbs, and often used as a base oil for more advanced fumes"
+      "text": "一種常見的從肉類和一些草本植物中提取的油狀產物，通常作為生產高級煙霧的基礎溶劑"
     },
     {
       "type": "bewitchment:oven_recipe",
@@ -42,32 +42,32 @@
     {
       "type": "bewitchment:oven_recipe",
       "recipe": "bewitchment:acacia_resin",
-      "text": "A rather hard to find fume with great powers in healing"
+      "text": "一種很難取得的強力治療煙霧"
     },
     {
       "type": "bewitchment:oven_recipe",
       "recipe": "bewitchment:ebb_of_death",
-      "text": "A foul oil that reeks of death and decay, derived from the Cypress tree"
+      "text": "一種汙濁的油膏，散發著死亡和腐爛的氣息，從柏樹中提取"
     },
     {
       "type": "bewitchment:oven_recipe",
       "recipe": "bewitchment:droplet_of_wisdom",
-      "text": "An extract from Elder trees that is said to imbue knowledge on the user"
+      "text": "一種接骨木樹的提取物，據說可以給使用者灌輸知識"
     },
     {
       "type": "bewitchment:oven_recipe",
       "recipe": "bewitchment:liquid_witchcraft",
-      "text": "An extract from mandrakes that just hums with magical energy"
+      "text": "從杜松樹苗中提取，充滿了魔力"
     },
     {
       "type": "bewitchment:oven_recipe",
       "recipe": "bewitchment:essence_of_vitality",
-      "text": "A life-giving residue obtained from burned Yew saplings"
+      "text": "燃燒紫杉樹苗剩下的殘留物，蘊含些許生命力量"
     },
     {
       "type": "bewitchment:oven_recipe",
       "recipe": "bewitchment:ectoplasm",
-      "text": "Who you gonna call?"
+      "text": "那麼，你想要召喚誰?"
     },
     {
       "type": "bewitchment:oven_recipe",
@@ -76,7 +76,7 @@
     {
       "type": "bewitchment:oven_recipe",
       "recipe": "bewitchment:dimensional_sand",
-      "text": "A green-blue material you can feel resonating with aetheric energy, along with a powerful connection to the Ender."
+      "text": "一種藍綠色的材料，可以從中感受到以太能量與之共鳴，它與終界有著強有力的聯繫"
     },
     {
       "type": "bewitchment:oven_recipe",
