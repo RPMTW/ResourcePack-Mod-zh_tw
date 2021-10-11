@@ -1,16 +1,16 @@
 {
-  "name": "Baphomet's Caduceus",
+  "name": "巴弗滅之杖",
   "category": "devilish_oddities",
   "icon": "bewitchment:caduceus",
   "pages": [
     {
       "type": "text",
-      "text": "A special staff decorated with entwined snakes, and the staff of Baphomet. Once relieved of the Goat, the staff can summon spectral Feuerwurms to act as minions of the owner, and if the Demonologist holds the Caduceus while they were to be killed, the Caduceus will miraculously bring them back to life, at a great cost."
+      "text": "這根特別的法杖上纏繞著兩條蛇，似乎和巴弗滅有著一定的聯繫。當你釋放出其中的力量時，這根法杖將會召喚出幽靈形態的浴火蟲來為你戰鬥，當你即將陣亡時，只要你手持這一根法杖，法杖就會奇蹟般的重新賦予你生命，當然，代價也很高昂。"
     },
     {
       "type": "spotlight",
       "item": "bewitchment:caduceus",
-      "text": "The Caduceus cannot be repaired or enchanted"
+      "text": "這根法杖既不能被修復也不能被附魔"
     }
   ]
 }
