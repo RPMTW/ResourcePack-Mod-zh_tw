@@ -1,12 +1,12 @@
 {
-  "name": "Palor Pestilence",
+  "name": "白疫咒",
   "category": "curses",
   "icon": "minecraft:skull",
   "pages": [
     {
       "type": "bewitchment:curse_recipe",
       "recipe": "bewitchment:palor_pestilence",
-      "text": "Inflicts a painful, magical disease on the target, constantly eating away at their wellbeing until they keel over or get it cleansed."
+      "text": "使目標感染一種痛苦的魔法瘟疫，瘟疫會不斷地腐蝕掉它的健康身體，直到它們徹底倒下或者將詛咒去除。"
     }
   ]
 }
