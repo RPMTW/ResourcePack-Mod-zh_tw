@@ -1,16 +1,16 @@
 {
-  "name": "Box of Sealed Evil",
+  "name": "封魔之盒",
   "category": "devilish_oddities",
   "icon": "bewitchment:box_of_sealed_evil",
   "pages": [
     {
       "type": "text",
-      "text": "A box marked with some strange horned creature that you feel as if it’s watching you. Do you dare open it?"
+      "text": "這個盒子上標記著一些奇怪的有角生物，你感覺它似乎在直勾勾地盯著你，你敢打開它嗎？"
     },
     {
       "type": "spotlight",
       "item": "bewitchment:box_of_sealed_evil",
-      "text": "$(o)Surprise, Pandora's box~"
+      "text": "$(o)Surprise，潘多拉之盒~"
     }
   ]
 }
