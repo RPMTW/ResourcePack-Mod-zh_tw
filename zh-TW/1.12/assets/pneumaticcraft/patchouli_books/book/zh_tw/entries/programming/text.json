@@ -9,7 +9,7 @@
       "text": "$(thing)文字/$拼圖僅用作其他拼圖的參數。其被用於向需要的拼圖提供文字數據。$(p)下幾頁列出了使用該拼圖作為參數的拼圖。"
     },
     {
-      "type": "關係",
+      "type": "relations",
       "anchor": "entity_filter",
       "title": "作為實體過濾器",
       "entries": [
