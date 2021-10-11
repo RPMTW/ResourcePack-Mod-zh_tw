@@ -1,5 +1,5 @@
 {
-  "name": "Poppet",
+  "name": "巫毒娃娃",
   "category": "poppets",
   "icon": "bewitchment:poppet",
   "priority": true,
@@ -7,7 +7,7 @@
     {
       "type": "crafting",
       "recipe": "bewitchment:poppet",
-      "text": "The base poppet for all your crafting, does nothing and cannot be bound."
+      "text": "用於合成的娃娃，沒有什麼太大的作用，也無法與他人綁定。"
     }
   ]
 }
