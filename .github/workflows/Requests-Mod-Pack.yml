@@ -1,0 +1,45 @@
+name: Requests Mod
+
+on:
+  workflow_dispatch:
+    inputs:
+      curseForgeID:
+        description: "CurseForge 模組包 ID"
+        required: true
+        default: "494989" #Atr1
+      gameVersion:
+        description: "遊戲版本"
+        required: true
+        default: "1.17"
+      ref:
+        description: "執行分支"
+        required: true
+        default: "Original-1.17"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          ref: ${{ github.event.inputs.ref }}
+
+      - name: "下載模組的語系檔案"
+        uses: RPMTW/Translation-Scripts@main
+        with:
+          action: "download_modpack"
+          args: ${{ github.event.inputs.curseForgeID }}
+          gameVersion: ${{ github.event.inputs.gameVersion }}
+
+      - name: "推送變更"
+        uses: github-actions-x/commit@v2.8
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          push-branch: ${{ github.event.inputs.ref }}
+          commit-message: "新增模組包的語系檔案"
+          force-add: true
+          files: ./
+          name: RPMTW Bot
+          email: rpmtw666@gmail.com
+          rebase: true
