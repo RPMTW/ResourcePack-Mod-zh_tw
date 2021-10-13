@@ -22,9 +22,9 @@
     "block.netherite_plus.netherite_red_shulker_box": "紅色獄髓界伏盒",
     "block.netherite_plus.netherite_black_shulker_box": "黑色獄髓界伏盒",
     "block.netherite_plus.fake_netherite_block": "仿獄髓塊",
-    "block.netherite_plus.netherite_anvil": "獄髓砧",
+    "block.netherite_plus.netherite_anvil": "獄髓鐵砧",
     "block.netherite_plus.netherite_beacon": "獄髓烽火台",
-    "block.netherite_plus.netherite_beacon.tertiary": "Tertiary Power",
+    "block.netherite_plus.netherite_beacon.tertiary": "副效果",
     "item.netherite_plus.netherite_shield": "獄髓盾牌",
     "item.netherite_plus.netherite_shield.black": "黑色獄髓盾牌",
     "item.netherite_plus.netherite_shield.red": "紅色獄髓盾牌",
@@ -78,7 +78,7 @@
     "config.netherite_plus.anvil.xp_redcution": "獄髓砧使用經驗減少",
     "config.netherite_plus.graphics": "圖像設置",
     "config.netherite_plus.graphics.lava_vision": "每層熔岩的視野有多大",
-    "effect.netherite_plus.lava_vision": "岩漿明視",
+    "effect.netherite_plus.lava_vision": "岩漿夜視",
     "command.netherite_plus.might_require_restart": "Changing some of these features might require a game restart, like enabling or disabling features",
     "advancements.netherite_plus.root.title": "獄髓+",
     "advancements.netherite_plus.root.description": "獲得獄髓錠",
@@ -116,5 +116,5 @@
     "advancements.netherite_plus.netherite_fishing_rod_special.description": "Fish in Lava with a Netherite Fishing Rod and Get Ancient Debris",
     "advancements.netherite_plus.netherite_horse_armor_special.title": "Nice Lambo",
     "advancements.netherite_plus.netherite_horse_armor_special.description": "騎乘裝備獄髓馬鎧的馬",
-    "stat.netherite_plus.netherite_elytra_flight_distance": "獄髓鞘翅飛行距離"
+    "stat.netherite_plus.netherite_elytra_flight_distance": "使用獄髓鞘翅飛行時間"
 }
