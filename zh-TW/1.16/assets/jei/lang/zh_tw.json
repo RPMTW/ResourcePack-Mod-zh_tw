@@ -118,5 +118,11 @@
     "description.jei.wooden.door.3": "木門可以透過紅石電路打開/關閉。",
     "description.jei.debug.formatting.1": "測試 %s 格式化取代項目。",
     "description.jei.debug.formatting.2": "測試 %s %s 格式化取代項目。",
-    "description.jei.debug.formatting.3": "%s 嵌套"
+    "description.jei.debug.formatting.3": "%s 嵌套",
+    "jei.tooltip.error.recipe.transfer.disabled": "伺服器設置已禁用 JEI 配方轉移",
+    "jei.chat.error.no.cheat.permission.disabled": "在此伺服器上，所有玩家都禁用了 JEI 的作弊模式。",
+    "jei.chat.error.no.cheat.permission.enabled": "在此伺服器上，以下類型的玩家可以使用 JEI 的作弊模式：",
+    "jei.chat.error.no.cheat.permission.creative": "處於創造模式的玩家",
+    "jei.chat.error.no.cheat.permission.op": "具有操作員身份 (/op) 的玩家",
+    "jei.chat.error.no.cheat.permission.give": "可以使用 /give 的玩家"
 }
