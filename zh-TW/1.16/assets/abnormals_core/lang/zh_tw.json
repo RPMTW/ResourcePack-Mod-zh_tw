@@ -15,6 +15,6 @@
     "abnormals_core.message.redirect": "重新導向",
     "entity.abnormals_core.boat": "船",
     "abnormals_core.config.smooth_sky_color": "平滑天空顏色",
-    "abnormals_core.config.screen_shake_scale": "畫面抖動幅度",
-    "abnormals_core.config.max_screen_shakers": "Max Screen Shakers"
+    "abnormals_core.config.screen_shake_scale": "畫面抖動程度",
+    "abnormals_core.config.max_screen_shakers": "最大畫面抖動來源數量"
 }
