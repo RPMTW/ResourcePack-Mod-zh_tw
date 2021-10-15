@@ -257,7 +257,7 @@
     "mod.chiselsandbits.config.defaultToDynamicRenderer": "預設動態渲染",
     "mod.chiselsandbits.config.forceDynamicRenderer": "停用靜態渲染",
     "mod.chiselsandbits.config.useVBO": "啟用頂點緩衝器",
-    "mod.chiselsandbits.config.defaultToDynamicRenderer.tooltip": "預設情況下 C&B 使用靜態渲染，並在區塊更新時使用動態渲染，這個配置相反：在確定了模型的細節後他才會恢復靜態渲染，有助於解決對於過度複雜的場景中使用靜態渲染的過度卡頓。",
+    "mod.chiselsandbits.config.defaultToDynamicRenderer.tooltip": "預設情況下 C&B 使用靜態渲染，並在區塊更新時使用動態渲染，這個設定相反：在確定了模型的細節後他才會恢復靜態渲染，有助於解決對於過度複雜的場景中使用靜態渲染的過度卡頓。",
     "mod.chiselsandbits.config.forceDynamicRenderer.tooltip": "測試模式，完全停用靜態渲染。",
     "mod.chiselsandbits.config.useVBO.tooltip": "預設情況下，使用與MC相同的設定，但可以覆蓋。",
     "mod.chiselsandbits.config.blacklistTickingBlocks": "黑名單方塊",
