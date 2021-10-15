@@ -1502,7 +1502,7 @@
     "enchantment.cyclic.excavate.guide": "隨機向各個方向延伸並挖掘與原始目標匹配的方塊。更高的等級會挖掘更多方塊。[最大挖掘方塊數量=26+8×附魔等級]",
     "enchantment.cyclic.multishot.guide": "弓附魔，可以在射出的箭左右兩側增加額外的箭矢，它們相對於主箭頭顯示在左側和右側。",
     "enchantment.cyclic.experience_boost.guide": "每當挖掘一個掉落經驗球的方塊時，它會根據附魔等級隨機增加一個數值。每當一個生物死亡並掉落經驗值時，如果它被玩家殺死，則會根據等級隨機掉落更多經驗值。",
-    "item.cyclic.ender_book.guide": "一本神奇的書，可以將你目前的位置儲存為路徑點。潛行滑動滾輪以選擇位置，潛行右擊以傳送，跳躍取消傳送。使用能量或終界珍珠修復。",
+    "item.cyclic.ender_book.guide": "一本神奇的書，可以將你目前的位置儲存為定位點。潛行滑動滾輪以選擇位置，潛行右擊以傳送，跳躍取消傳送。使用能量或終界珍珠修復。",
     "item.cyclic.ender_book": "終界之書",
     "item.cyclic.ender_book.countdown": "即將傳送，倒計時：",
     "item.cyclic.ender_book.start": "正在傳送…（按跳躍鍵取消）",
