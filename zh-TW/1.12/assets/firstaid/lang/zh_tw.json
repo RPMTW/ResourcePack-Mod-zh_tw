@@ -49,7 +49,7 @@
     "firstaid.config.capmaxhealth": "限制最高生命值",
     "firstaid.config.capmaxhealth.tooltip": "如果設定為true,最高生命值將限制為6顆心和每條肢體2顆心吸收.如果設定為false,生命值上限會更高(通常64顆心和16顆心吸收)",
     "firstaid.config.experimental": "監視設定生命值類指令",
-    "firstaid.config.experimental.tooltip": "如果設定為true,從其他mods取得setHealth的所有用法.應該不會造成任何問題,但是允許類似於scaling health bandages等mod來套用.只需伺服器",
+    "firstaid.config.experimental.tooltip": "如果設定為true,從其他mods取得setHealth的所有用法.應該不會造成任何問題,但是允許類似於scaling health bandages等mod來應用.只需伺服器",
     "firstaid.config.bandage": "繃帶",
     "firstaid.config.bandage.tooltip": "繃帶物品的設定",
     "firstaid.config.plaster": "OK繃",
