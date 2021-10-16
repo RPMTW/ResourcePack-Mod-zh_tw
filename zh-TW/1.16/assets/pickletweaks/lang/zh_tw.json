@@ -71,7 +71,7 @@
     "item.pickletweaks.iron_scythe": "鐵長柄鐮刀",
     "item.pickletweaks.golden_scythe": "金長柄鐮刀",
     "item.pickletweaks.diamond_scythe": "鑽石長柄鐮刀",
-    "item.pickletweaks.flint_scythe": "燧石長柄鐮刀",
+    "item.pickletweaks.flint_scythe": "燧石 長柄鐮刀",
     "item.pickletweaks.emerald_scythe": "綠寶石長柄鐮刀",
     "item.pickletweaks.netherite_scythe": "獄髓長柄鐮刀",
     "tooltip.pickletweaks.gives_buffs": "給予增益",
@@ -81,7 +81,7 @@
     "tooltip.pickletweaks.disabled": "關",
     "tooltip.pickletweaks.enabled": "開",
     "tooltip.pickletweaks.mining_level": "採礦等級: %s",
-    "tooltip.pickletweaks.mining_speed": "採礦速度: %s",
+    "tooltip.pickletweaks.mining_speed": "挖掘速度：%s",
     "tooltip.pickletweaks.ammo": "彈藥：%s",
     "tooltip.pickletweaks.broken": "損壞的",
     "tooltip.pickletweaks.harvest_level": "收穫等級: %s",
@@ -90,5 +90,5 @@
     "tooltip.pickletweaks.useless_hoe_1": "這個鋤頭無法耕作。",
     "tooltip.pickletweaks.useless_weapon_1": "這個武器無法造成傷害。",
     "tooltip.pickletweaks.useless_bow_1": "弓弦已損壞，無法射擊。",
-    "tooltip.pickletweaks.your_item_is_broken": "Your %s is broken!"
+    "tooltip.pickletweaks.your_item_is_broken": "你的%s已損壞！"
 }
