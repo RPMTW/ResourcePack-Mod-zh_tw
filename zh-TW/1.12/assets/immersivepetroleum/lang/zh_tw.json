@@ -118,6 +118,6 @@
     "chat.immersivepetroleum.command.reservoir.set.clear": "已清除重設的油藏（%1$s）類型。",
     "chat.immersivepetroleum.command.reservoir.setAmount.NFE": "錯誤，“%1$s”不是一個有效的數字",
     "chat.immersivepetroleum.command.reservoir.setAmount.sucess": "區塊中油藏儲量以設定為‘%1$s’",
-    "chat.immersivepetroleum.command.reservoir.setCapacity.NFE": "錯誤，“%1$s”不是一個有效的數字",
+    "chat.immersivepetroleum.command.reservoir.setCapacity.NFE": "錯誤，「%1$s」不是一個有效的數字",
     "chat.immersivepetroleum.command.reservoir.setCapacity.sucess": "區塊中的油藏儲量以設定為‘%1$s’"
 }
