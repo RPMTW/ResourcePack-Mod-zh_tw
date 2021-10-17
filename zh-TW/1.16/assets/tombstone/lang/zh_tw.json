@@ -248,7 +248,7 @@
     "tombstone.message.recovery.no_file": "檔案 \"%s\" 不存在",
     "tombstone.message.no_save_to_restore": "沒有需要還原的存檔",
     "tombstone.message.positive_integer": "值需要是正數",
-    "tombstone.message.teleport_target_to_location": "%s has successfully been teleported to the location [x: %s, y: %s, z: %s] in %s",
+    "tombstone.message.teleport_target_to_location": "%s 成功傳送到 [x: %s, y: %s, z: %s] in %s",
     "tombstone.message.back": "返回",
     "tombstone.message.unknown": "未知",
     "tombstone.message.capture_familiar": "%s 被你的相依瓶捕獲，從而防止了其死亡",
