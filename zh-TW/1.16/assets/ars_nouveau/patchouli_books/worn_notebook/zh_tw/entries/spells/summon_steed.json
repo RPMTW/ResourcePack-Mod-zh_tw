@@ -1,5 +1,5 @@
 {
-  "name": "Summon Steed",
+  "name": "召喚駿馬",
   "icon": "ars_nouveau:glyph_summon_steed",
   "category": "spells_1",
   "sortnum": 2,
@@ -11,8 +11,8 @@
     {
       "type": "glyph_recipe",
       "recipe": "ars_nouveau:glyph_summon_steed",
-      "tier": "ONE",
-      "mana_cost": "High",
+      "tier": "一",
+      "mana_cost": "高",
       "clay_type": "ars_nouveau:magic_clay",
       "reagent": "minecraft:leather"
     }
