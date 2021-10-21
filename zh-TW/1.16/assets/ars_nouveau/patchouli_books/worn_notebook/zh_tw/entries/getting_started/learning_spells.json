@@ -1,12 +1,12 @@
 {
-    "name": "New Spells",
+    "name": "新法術構件",
     "icon": "ars_nouveau:blank_glyph",
     "sortnum": 4,
     "category": "getting_started",
     "pages": [
         {
             "type": "text",
-            "text": "Accessing new spells will require a small amount of setup, resources, and base building. New spells can be learned by obtaining items called Glyphs. Glyphs are created by the Glyph Press using magical clay, a reagent, and World Mana. Once you have obtained a glyph, simply use it with a spellbook in your inventory in order to write the glyph to the book."
+            "text": "獲得新的法術構件需要一些步驟、資源和基礎設施。新構件可通過獲得一種叫魔符的物品學習。在魔符壓印器中，使用魔法黏土、一種試劑和世界中的魔力可以制造魔符。獲得魔符之後，在物品欄里有法術書的情況下使用魔符，魔符就會寫到你的書上。"
         },
         {
             "type": "relations",
@@ -14,7 +14,7 @@
                 "machines/glyph_press",
                 "getting_started/world_mana"
             ],
-            "text": "To learn about creating new glyphs, see the section on the Glyph Press."
+            "text": "要學習制造新魔符的知識，請參閱魔符壓器機條目。"
         }
     ]
 }
