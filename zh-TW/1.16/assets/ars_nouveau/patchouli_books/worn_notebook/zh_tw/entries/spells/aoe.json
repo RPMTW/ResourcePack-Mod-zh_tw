@@ -1,5 +1,5 @@
 {
-  "name": "AOE",
+  "name": "範圍效果",
   "icon": "ars_nouveau:glyph_aoe",
   "category": "spells_2",
   "sortnum": 3,
@@ -11,8 +11,8 @@
     {
       "type": "glyph_recipe",
       "recipe": "ars_nouveau:glyph_aoe",
-      "tier": "TWO",
-      "mana_cost": "Medium",
+      "tier": "二",
+      "mana_cost": "中",
       "clay_type": "ars_nouveau:marvelous_clay",
       "reagent": "minecraft:firework_star"
     }
