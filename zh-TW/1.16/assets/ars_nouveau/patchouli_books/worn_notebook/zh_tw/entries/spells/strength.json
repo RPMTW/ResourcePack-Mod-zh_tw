@@ -1,5 +1,5 @@
 {
-  "name": "Strength",
+  "name": "力量",
   "icon": "ars_nouveau:glyph_strength",
   "category": "spells_3",
   "sortnum": 2,
@@ -11,8 +11,8 @@
     {
       "type": "glyph_recipe",
       "recipe": "ars_nouveau:glyph_strength",
-      "tier": "THREE",
-      "mana_cost": "High",
+      "tier": "三",
+      "mana_cost": "高",
       "clay_type": "ars_nouveau:mythical_clay",
       "reagent": "minecraft:blaze_powder"
     }
