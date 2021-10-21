@@ -1,16 +1,16 @@
 {
-  "name": "How to Enchant",
+  "name": "如何進行附魔",
   "sortnum": -1,
   "icon": "ars_nouveau:enchanting_apparatus",
-  "category": "enchantments",
+  "category": "附魔",
   "pages": [
     {
       "type": "text",
-      "text": "The Enchanting Apparatus may add new enchantments or upgrade existing ones by using Mana and items. To begin, select a level 1 enchantment and add its items to the pedestals. Place a jar of mana nearby, and use the item you want to enchant on the apparatus. The apparatus may only apply enchantments that are valid to the item you have given it."
+      "text": "通過使用魔力和物品，附魔裝置可以在物品上添加新附魔或者升級現有附魔。要開始附魔，首先選定一個想要的 1 級附魔，並將該附魔對應的物品放在基座上。然後在附近放置一罐魔力，並對附魔裝置使用你想附魔的物品。附魔裝置只會在附魔對物品有效時進行附魔"
     },
     {
       "type": "text",
-      "text": "To apply a level 2 or higher enchantment, the item must already have the previous level. For example, to apply Smite 3, the item must already have Smite 2."
+      "text": "要是物品附上等級 2 或更高級的附魔，這個物品必須已經有前一級的附魔。例如，要附上亡靈殺手 3，物品必須已經有亡靈殺手 2。"
     },
     {
       "type": "relations",
