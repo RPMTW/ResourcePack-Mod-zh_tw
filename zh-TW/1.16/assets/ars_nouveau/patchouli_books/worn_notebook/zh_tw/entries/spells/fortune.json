@@ -1,5 +1,5 @@
 {
-  "name": "Fortune",
+  "name": "幸運",
   "icon": "ars_nouveau:glyph_fortune",
   "category": "spells_2",
   "sortnum": 3,
@@ -11,8 +11,8 @@
     {
       "type": "glyph_recipe",
       "recipe": "ars_nouveau:glyph_fortune",
-      "tier": "TWO",
-      "mana_cost": "High",
+      "tier": "二",
+      "mana_cost": "高",
       "clay_type": "ars_nouveau:marvelous_clay",
       "reagent": "minecraft:rabbit_foot"
     }
