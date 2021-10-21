@@ -1,5 +1,5 @@
 {
-  "name": "Wind Shear",
+  "name": "風切",
   "icon": "ars_nouveau:glyph_wind_shear",
   "category": "spells_2",
   "sortnum": 2,
@@ -11,8 +11,8 @@
     {
       "type": "glyph_recipe",
       "recipe": "ars_nouveau:glyph_wind_shear",
-      "tier": "TWO",
-      "mana_cost": "Medium"
+      "tier": "二",
+      "mana_cost": "中"
     }
   ]
 }
