@@ -1,5 +1,5 @@
 {
-  "name": "Cold Snap",
+  "name": "寒流",
   "icon": "ars_nouveau:glyph_cold_snap",
   "category": "spells_2",
   "sortnum": 2,
@@ -11,8 +11,8 @@
     {
       "type": "glyph_recipe",
       "recipe": "ars_nouveau:glyph_cold_snap",
-      "tier": "TWO",
-      "mana_cost": "Medium",
+      "tier": "二",
+      "mana_cost": "中",
       "clay_type": "ars_nouveau:marvelous_clay",
       "reagent": "ars_nouveau:glyph_freeze"
     }
