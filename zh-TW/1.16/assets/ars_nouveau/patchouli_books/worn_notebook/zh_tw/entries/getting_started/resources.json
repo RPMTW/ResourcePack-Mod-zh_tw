@@ -1,12 +1,12 @@
 {
-    "name": "World Generation",
+    "name": "世界生成",
     "icon": "ars_nouveau:mana_gem",
     "sortnum": 8,
     "category": "getting_started",
     "pages": [
         {
             "type": "text",
-            "text": "Several resources can spawn in the world, each with their own magical properties. Source Gems can be found underground, but may also be renewably created using the Crystallizer. Archwood trees come in several decorative variants and may be used to craft Casting Wands. Source Berries, found in Taigas, are essential for crafting Mana Regeneration potions."
+            "text": "新生魔藝會在世界中生成多種資源，它們都有自身的魔法屬性。你能在地下發現魔源寶石，但也能用結晶器來可再生地生產這些寶石。至高木有幾種裝飾性的變體，而且可以用於合成施法法杖。魔源漿果叢可以在針葉林群系找到，它們是魔力再生藥水必不可少的原料。"
         },
         {
             "type": "relations",
