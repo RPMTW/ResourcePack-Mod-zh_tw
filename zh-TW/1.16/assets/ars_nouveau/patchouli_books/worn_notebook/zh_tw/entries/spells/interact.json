@@ -1,5 +1,5 @@
 {
-  "name": "Interact",
+  "name": "互動",
   "icon": "ars_nouveau:glyph_interact",
   "category": "spells_1",
   "sortnum": 2,
@@ -11,8 +11,8 @@
     {
       "type": "glyph_recipe",
       "recipe": "ars_nouveau:glyph_interact",
-      "tier": "ONE",
-      "mana_cost": "Low",
+      "tier": "一",
+      "mana_cost": "低",
       "clay_type": "ars_nouveau:magic_clay",
       "reagent": "minecraft:lever"
     }
