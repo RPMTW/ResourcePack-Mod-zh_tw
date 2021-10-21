@@ -1,5 +1,5 @@
 {
-  "name": "Toss",
+  "name": "投擲",
   "icon": "ars_nouveau:glyph_toss",
   "category": "spells_1",
   "sortnum": 2,
@@ -11,8 +11,8 @@
     {
       "type": "glyph_recipe",
       "recipe": "ars_nouveau:glyph_toss",
-      "tier": "ONE",
-      "mana_cost": "Low"
+      "tier": "一",
+      "mana_cost": "低"
     }
   ]
 }
