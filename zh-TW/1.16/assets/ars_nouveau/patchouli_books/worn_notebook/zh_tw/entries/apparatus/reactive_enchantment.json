@@ -18,7 +18,7 @@
       "item2": "ars_nouveau:glyph_amplify",
       "item3": "ars_nouveau:glyph_amplify",
       "item4": "ars_nouveau:glyph_amplify",
-      "cost": "Medium"
+      "cost": "中等"
     },
     {
       "type": "text",
@@ -35,7 +35,7 @@
       "item6": "ars_nouveau:glyph_extend_time",
       "item7": "ars_nouveau:glyph_aoe",
       "item8": "ars_nouveau:glyph_dampen",
-      "cost": "High"
+      "cost": "高"
     },
     {
       "type": "reactive_enchant_upgrade",
@@ -48,7 +48,7 @@
       "item6": "ars_nouveau:glyph_pierce",
       "item7": "ars_nouveau:glyph_extract",
       "item8": "ars_nouveau:glyph_fortune",
-      "cost": "Very High"
+      "cost": "非常高"
     },
     {
       "type": "text",
@@ -58,7 +58,7 @@
       "type": "reactive_enchant_upgrade",
       "reagent": "minecraft:diamond_sword{Enchantments:[{id:'ars_nouveau:reactive',lvl:1}]}",
       "item1": "ars_nouveau:spell_parchment",
-      "cost": "None"
+      "cost": "無"
     },
     {
       "type": "relations",
