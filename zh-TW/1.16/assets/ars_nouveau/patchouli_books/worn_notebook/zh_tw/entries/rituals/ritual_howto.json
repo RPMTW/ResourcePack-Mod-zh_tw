@@ -1,16 +1,16 @@
 {
-  "name": "Performing Rituals",
+  "name": "進行儀式",
   "sortnum": -1,
   "icon": "ars_nouveau:ritual",
   "category": "rituals",
   "pages": [
     {
       "type": "text",
-      "text": "Performing a ritual requires a Ritual Brazier, and a tablet. Once you have obtained a tablet and brazier, place your brazier in the world and use a tablet on it. The brazier will ignite, and is awaiting activation. In this state, you may throw in any additional items as a way to augment the ritual. If you wish to augment a ritual, simply toss the item on top of the brazier."
+      "text": "進行儀式需要一個儀式火盆和一塊儀式對應的木板。在獲得這二者之後，你需要將火盆放在地上，然後對其使用一個儀式之板。然後火盆會被點燃，並等待被激活。這種狀態下，你可以往火焰中投入額外物品來增強儀式。只需簡單地向火盆頂部扔出物品就行。"
     },
     {
       "type": "text",
-      "text": "To activate your ritual, interact with the brazier with an empty hand. Once activated, your ritual can no longer be augmented and has been consumed permanently. If a ritual requires source to operate, the brazier will pull from source jars within 6 blocks. Information related to rituals and their requirements can be found in their respective entries."
+      "text": "空手與火盆互動即可激活儀式。激活後，儀式無法再被增強，之前使用的材料也被永久性地消耗。如果儀式需要魔源來運行，火盆會自動地從附近 6 格內的魔源罐中抽取魔源。不同儀式的相關信息和進行時的具體需求可以在各儀式的條目中找到。 \""
     },
     {
       "type": "crafting",
