@@ -1,61 +1,61 @@
 {
-    "name": "Starter Spells",
+    "name": "新手法術",
     "icon": "ars_nouveau:glyph_break",
     "sortnum": 3,
     "category": "getting_started",
     "pages": [
         {
             "type": "text",
-            "text": "Starting out, you will only have access to a few effects and forms. Once you have access to the Glyph Press, you will be able to craft any spell. To help you in your decision, here are a few spells to start with."
+            "text": "一開始你只能得到少量低效果類和形態類構件。不過，當你獲得了魔符壓印器，你就能合成任何法術。為了幫助你作出決定，這裡是一些推薦的初始法術構件。"
         },
         {
             "type": "spotlight",
             "item": "ars_nouveau:glyph_break",
-            "title": "Break",
-            "text": "A starter effect, combine this with Projectile -> Break or Touch -> Break to harvest iron and lower materials."
+            "title": "破壞",
+            "text": "初始法術效果之一。構造出彈射物 -> 破壞或者觸摸 -> 破壞，便能以鐵鎬的挖掘等級挖掘方塊。"
         },
         {
             "type": "spotlight",
             "item": "ars_nouveau:glyph_harm",
-            "title": "Harm",
-            "text": "A starter effect, combine this with Projectile -> Harm or Touch -> Harm to damage enemies a small amount."
+            "title": "傷害",
+            "text": "初始法術效果之一。構造出彈射物 -> 傷害或者觸摸 -> 傷害，便能用來對敵人造成小額傷害。"
         },
         {
             "type": "spotlight",
             "item": "ars_nouveau:glyph_haste",
-            "title": "Haste",
-            "text": "A tier 1 effect that can be crafted using the Glyph Press. Grants the target a speed boost. Try Self -> Haste"
+            "title": "速度",
+            "text": "可用魔符壓印器合成的一級法術效果。該效果能使目標獲得速度狀態。可以嘗試自身 -> 速度。"
         },
         {
             "type": "spotlight",
             "item": "ars_nouveau:glyph_light",
-            "title": "Light",
-            "text": "A tier 1 effect that can be crafted using the Glyph Press. Creates a permanent light source when used on a block. Cast on entities to grant night vision."
+            "title": "光明",
+            "text": "可用魔符壓印器合成的一級法術效果。該效果對方塊使用時創造永久光源，對實體施放會使其獲得夜視。"
         },
         {
             "type": "spotlight",
             "item": "ars_nouveau:glyph_amplify",
-            "title": "Amplify",
-            "text": "A tier 1 augment that can be crafted using the Glyph Press. Increases the power of most spells. Try Projectile -> Break -> Amplify -> Amplify for breaking obsidian, or apply to Harm for better damage."
+            "title": "強化",
+            "text": "可用魔符壓印器合成的一級法術增強。該增強構件能增加大多數法術的強度。可以嘗試使用彈射物 -> 破壞 -> 強化 -> 強化來破壞黑曜石，也可用於傷害構件來提高輸出。"
         },
         {
             "type": "spotlight",
             "item": "ars_nouveau:glyph_ignite",
-            "title": "Ignite",
-            "text": "A tier 1 effect that can be crafted using the Glyph Press. Ignites entities and blocks. A cheap way to increase damage. Try Projectile -> Harm -> Ignite"
+            "title": "點燃",
+            "text": "可用魔符壓印器合成的一級法術效果。具體效果為點燃實體和方塊。是一種提高傷害的廉價方法。可以嘗試彈射物 -> 傷害 -> 點燃"
         },
         {
             "type": "spotlight",
             "item": "ars_nouveau:glyph_summon_steed",
-            "title": "Summon Steed",
-            "text": "A tier 1 effect that can be crafted using the Glyph Press. Summons a temporary, tamed, and saddled horse."
+            "title": "召喚駿馬",
+            "text": "可用魔符壓印器合成的一級法術效果。能召喚出已被馴服且裝好了鞍的馬。這些馬會在一定時間后消失。"
         },
         {
             "type": "relations",
             "entries": [
                 "machines/glyph_press"
             ],
-            "text": "To learn about creating new glyphs, see the section on the Glyph Press."
+            "text": "要學習創造新魔符的知識，請參閱魔符壓印器條目。"
         }
     ]
 }
