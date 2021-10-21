@@ -1,5 +1,5 @@
 {
-  "name": "Linger",
+  "name": "滯留",
   "icon": "ars_nouveau:glyph_linger",
   "category": "spells_3",
   "sortnum": 2,
@@ -11,8 +11,8 @@
     {
       "type": "glyph_recipe",
       "recipe": "ars_nouveau:glyph_linger",
-      "tier": "THREE",
-      "mana_cost": "High",
+      "tier": "三",
+      "mana_cost": "高",
       "clay_type": "ars_nouveau:mythical_clay",
       "reagent": "minecraft:dragon_breath"
     }
