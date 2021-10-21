@@ -1,5 +1,5 @@
 {
-  "name": "Gravity",
+  "name": "重力",
   "icon": "ars_nouveau:glyph_gravity",
   "category": "spells_2",
   "sortnum": 2,
@@ -11,8 +11,8 @@
     {
       "type": "glyph_recipe",
       "recipe": "ars_nouveau:glyph_gravity",
-      "tier": "TWO",
-      "mana_cost": "Low",
+      "tier": "二",
+      "mana_cost": "低",
       "clay_type": "ars_nouveau:marvelous_clay",
       "reagent": "minecraft:anvil"
     }
