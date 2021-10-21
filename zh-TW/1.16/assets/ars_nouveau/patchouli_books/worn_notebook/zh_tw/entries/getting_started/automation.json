@@ -1,12 +1,12 @@
 {
-    "name": "Starting Automation",
+    "name": "開始自動化",
     "icon": "ars_nouveau:spell_turret",
     "sortnum": 10,
     "category": "getting_started",
     "pages": [
         {
             "type": "text",
-            "text": "All spells may be used in Automation through casters like the Whelp or Spell Turret. Use these to create auto harvesters, tree farms, quarries, cake farms, glass factories, and more! For item transport, autocrafting, or resource generation, see the variety of magical entities that may be summoned using Charms."
+            "text": "所有法術都可通過書龍、法術炮塔這樣的施法生物或裝置用於自動化。你可以建造自動化農場、樹場、采礦場、蛋糕工廠、玻璃工廠，還有更多！對於物品運輸和自動合成，或者資源生產，參見可用護符召喚的多種魔法實體。"
         },
         {
             "type": "relations",
