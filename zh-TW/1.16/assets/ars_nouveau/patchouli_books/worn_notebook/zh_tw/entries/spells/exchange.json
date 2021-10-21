@@ -1,5 +1,5 @@
 {
-  "name": "Exchange",
+  "name": "交換",
   "icon": "ars_nouveau:glyph_exchange",
   "category": "spells_2",
   "sortnum": 2,
@@ -11,8 +11,8 @@
     {
       "type": "glyph_recipe",
       "recipe": "ars_nouveau:glyph_exchange",
-      "tier": "TWO",
-      "mana_cost": "Medium",
+      "tier": "二",
+      "mana_cost": "中",
       "clay_type": "ars_nouveau:marvelous_clay",
       "reagent": "ars_nouveau:glyph_extract"
     }
