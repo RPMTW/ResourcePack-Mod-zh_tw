@@ -1,5 +1,5 @@
 {
-  "name": "Glide",
+  "name": "滑翔",
   "icon": "ars_nouveau:glyph_glide",
   "category": "spells_3",
   "sortnum": 2,
@@ -11,8 +11,8 @@
     {
       "type": "glyph_recipe",
       "recipe": "ars_nouveau:glyph_glide",
-      "tier": "THREE",
-      "mana_cost": "High",
+      "tier": "三",
+      "mana_cost": "高",
       "clay_type": "ars_nouveau:mythical_clay",
       "reagent": "minecraft:elytra"
     }
