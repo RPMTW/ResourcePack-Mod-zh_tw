@@ -1,5 +1,5 @@
 {
-  "name": "Conjure Water",
+  "name": "召喚水",
   "icon": "ars_nouveau:glyph_conjure_water",
   "category": "spells_2",
   "sortnum": 2,
@@ -11,8 +11,8 @@
     {
       "type": "glyph_recipe",
       "recipe": "ars_nouveau:glyph_conjure_water",
-      "tier": "TWO",
-      "mana_cost": "High",
+      "tier": "二",
+      "mana_cost": "高",
       "clay_type": "ars_nouveau:marvelous_clay",
       "reagent": "minecraft:water_bucket"
     }
