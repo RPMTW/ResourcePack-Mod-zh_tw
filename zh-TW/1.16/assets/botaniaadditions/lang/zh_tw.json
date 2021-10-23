@@ -6,8 +6,8 @@
     "item.botaniaadditions.terra_bow": "泰拉弓",
     "botaniaadditions.entry.terraShovel": "泰拉收割者",
     "botaniaadditions.tagline.terraShovel": "泰拉粉碎者可當作鏟子，但功能較弱。",
-    "botaniaadditions.page.terraShovel0": "$(item)泰拉收割者$(0)是由$(l:basics/terrasteel)$(item)泰拉鋼$(0)$(/l)製成的鏟子，可以消耗$(thing)魔力$(0)進行5x5的區域破壞。$(p)它還可以在同樣的區域建立草徑或耕地，並使用$(thing)魔力$(0)來施肥。$(p)該物品的效果區域可以通過$(l:alfhomancy/thor_ring)$(item)托爾之戒$(0)增加$(/l)，也可以通過$(l:tools/temperance_stone)$(item)節制之石$(0)減少$(/l)，並且在潛行時停用。",
-    "botaniaadditions.page.terraShovel1": "收穫世界",
+    "botaniaadditions.page.terraShovel0": "$(item)泰拉收割者$(0)是由$(l:basics/terrasteel)$(item)泰拉鋼$(0)$(/l)製成的鏟，可以通過消耗$(thing)魔力$(0)破壞 5x5 區域的方塊。$(p)它也能在同樣大小內創造草徑或開墾耕地，並且它還能通過消耗$(thing)魔力$(0)來催生農作物。$(p)$(l:alfhomancy/thor_ring)$(item)托爾之戒$(0)$(/l)可以提升該物品的作用範圍，$(l:tools/temperance_stone)$(item)節制之石$(0)$(/l)則可以減少其範圍。可以通過潛行來關閉範圍破壞功能。",
+    "botaniaadditions.page.terraShovel1": "收割世界",
     "botaniaadditions.entry.regenIvy": "永恆常春藤",
     "botaniaadditions.tagline.regenIvy": "常春藤可以附在物品上，讓工具耐久度再生",
     "botaniaadditions.page.regenIvy0": "而 $(l:mana/pool)$(item)Manasteel$(0)$(/l), $(l:alfhomancy/elf_resources)$(item)Elementium$(0)$(/l) 和 \n$(l) :basics/terrasteel)$(item)Terrasteel$(0)$(/l) 工具有能力利用 $(thing)Mana$(0) 並用它來保護自己的身體，其他工具或盔甲沒有這個屬性。$(p)少量的 $(item)Timeless Ivy$(0) 幾乎可以附加到任何物品上，允許它用 $(thing)魔力$(0)修復。",
@@ -15,6 +15,6 @@
     "botaniaadditions.page.regenIvy2": "帶上你的地獄火斧",
     "botaniaadditions.entry.terraBow": "泰拉弓",
     "botaniaadditions.tagline.terraBow": "由泰拉鋼和活木製成的大弓",
-    "botaniaadditions.page.terraBow0": "$(item)大地弓$(0) 是一把很棒的弓，由\n$(l:basics/terrasteel)$(item)陶瓷剛$(0)$(/l) 和\n$(l:basics/pure_daisy)$(item)活木$(0)$(/l)可以拍攝一系列\n3x3 of your $(item)Arrows$(0)立即無需從您的\n庫存，以一些魔力為代價。",
-    "botaniaadditions.page.terraBow1": "多發但很好"
+    "botaniaadditions.page.terraBow0": "$(item)泰拉弓$(0)是由$(l:basics/terrasteel)$(item)泰拉鋼$(0)$(/l)和$(l:basics/pure_daisy)$(item)活木$(0)$(/l)製成的優質弓，它可以在不消耗背包中$(item)箭矢$(0)的情況下射出一組3x3的箭，但這需要消耗一些魔力。",
+    "botaniaadditions.page.terraBow1": "分裂箭矢，但是更好"
 }
