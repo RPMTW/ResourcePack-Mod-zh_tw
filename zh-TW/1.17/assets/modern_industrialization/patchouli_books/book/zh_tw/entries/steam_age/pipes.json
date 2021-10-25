@@ -1,27 +1,27 @@
 {
-  "name": "Pipes",
+  "name": "管道",
   "category": "modern_industrialization:steam_age",
   "icon": "modern_industrialization:wrench",
   "pages": [
     {
       "type": "text",
-      "text": "Pipes are used in the recipes of some machines, but they can also be placed in the world. Up to 3 pipes can fit in a single block.$(br2)Pipes of different colors will not connect.$(br2)Right-clicking a pipe with a wrench will change the connection type, shift-right-clicking will drop the pipe."
+      "text": "管道可用於合成一些機器，也可直接放置。1格的空間可放置最多3根管道。$(br2)不同材質的管道無法相連。$(br2)用扳手右擊管道可變更其連接類型，潛行+右擊拆掉管道。"
     },
     {
       "type": "spotlight",
       "item": "modern_industrialization:fluid_pipe",
-      "title": "Fluid Pipes",
-      "text": "Fluid pipes can only contain one type of fluid, and by default they won't connect to empty pipes or blocks. You can force a connection by right-clicking the center of the pipe with the wrench, or by right-clicking a block with a pipe in your hand: it will connect, but not consume the item in your hand."
+      "title": "流體管道",
+      "text": "流體管道只能運輸一種流體，預設流體管道不會連接到空導管或方塊。你可以用扳手右擊導管中心來使其強制連接，或手持管道右擊一個方塊——該方法不會消耗你手裡的管道。"
     },
     {
       "type": "spotlight",
       "item": "modern_industrialization:item_pipe",
-      "title": "Item Pipes",
-      "text": "Item pipes will not connect to inventories by default, but again you can force a connection.$(br2)Right-click a connection without holding a wrench and will see a filter. By default, whitelist mode is enabled, so no items will be inserted or extracted directly."
+      "title": "物流管道",
+      "text": "物流管道預設不會連接到庫存中，但你也可以強制連接。$(br2)右擊連接處可查看過濾器。預設開啟白名單模式，因此不會直接輸送物品。"
     },
     {
       "type": "text",
-      "text": "The different types of pipes don't work exactly the same way.$(br2)Every tick, fluid pipes will try to evenly extract for all connected blocks, and then try to insert that evenly. $(l:modern_industrialization:midgame/fluid_transfer)Read more about their speed here.$()$(br2)Item pipes will insert items into higher priorities first, and they will transfer 16 items every few seconds. $(l)They can be upgraded with motors.$()"
+      "text": "不同類型的管道的工作方式也不一樣。$(br2)流體管道每刻會運輸一定量的流體到相鄰的方塊，剩餘的流體會在管道間流動。$(br2)物流管道總是運輸物品到最近的庫存內，每隔幾秒最多運輸16件物品。"
     },
     {
       "type": "text",
