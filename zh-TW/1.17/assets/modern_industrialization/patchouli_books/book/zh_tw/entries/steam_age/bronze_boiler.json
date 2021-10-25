@@ -1,16 +1,16 @@
 {
-  "name": "Hot Water",
+  "name": "熱水",
   "category": "modern_industrialization:steam_age",
   "icon": "modern_industrialization:bronze_boiler",
   "pages": [
     {
       "type": "text",
-      "text": "Steam machines need steam to function, and that's exactly what the boiler provides.$(br2)It will slowly use fuel to heat up. When it's hot enough, it will start to produce steam. Don't forget to feed it with water or your fuel will burn for nothing."
+      "text": "蒸汽機器需要蒸汽來運轉，而鍋爐就能提供蒸汽。$(br2)鍋爐會緩慢消耗燃料來加熱。溫度足夠時，鍋爐就會產出蒸汽。別忘了加水，否則你的燃料就白燒了。"
     },
     {
       "type": "smelting",
       "recipe": "modern_industrialization:vanilla_recipes/steam_bucket",
-      "text": "You can also smelt water buckets into steam buckets. Make your first $(l:modern_industrialization:steam_age/steam_machines)Bronze Compressor$() before the boiler to save a lot on the plates!$(br2)Turn the page for the boiler itself..."
+      "text": "雖然鍋爐的造價高昂，但別忘了你可以獲得雙倍的礦。而且，一旦你有了頭兩台機器，它的造價就會降低三倍！"
     },
     {
       "type": "crafting",
