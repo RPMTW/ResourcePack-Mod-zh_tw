@@ -1,11 +1,11 @@
 {
-  "name": "Tanks & Barrels",
+  "name": "儲罐",
   "category": "modern_industrialization:steam_age",
   "icon": "modern_industrialization:bronze_tank",
   "pages": [
     {
       "type": "text",
-      "text": "Bronze tanks can store 4 buckets of fluid each, you can use them to interact with machines, and you can place them in the world.$(br2)Bronze barrels can be used to store and move 32 stacks of one item. Check the next pages for more information!"
+      "text": "青銅儲罐可以儲存4桶流體，可用於與機器互動，也可以直接放置。$(br2)放置後你可以用桶或其它儲罐右擊已放置的儲罐來轉移流體。$(br2)有相同儲存物的儲罐可以堆疊。"
     },
     {
       "type": "crafting",
