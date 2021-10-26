@@ -1,18 +1,18 @@
 {
   "category": "bewitchment:brewing",
-  "name": "Hardening",
+  "name": "硬化",
   "icon": "minecraft:scute",
   "advancement": "bewitchment:hidden_unlocks/altars",
   "pages": [
     {
       "type": "text",
-      "text": "This effect hardens the skin, giving a flat bonus on armor."
+      "text": "這種效果會使皮膚變硬，對護甲有固定的加成。"
     },
     {
       "type": "patchouli:spotlight",
-      "title": "Hardening",
+      "title": "硬化",
       "item": "minecraft:scute",
-      "text": "The armor bonus is proportional to the effect's strength."
+      "text": "護甲加成與效果的強度成正比。"
     }
   ]
 }
