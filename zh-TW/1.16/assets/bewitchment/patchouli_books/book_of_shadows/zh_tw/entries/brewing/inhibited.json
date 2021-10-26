@@ -1,18 +1,18 @@
 {
   "category": "bewitchment:brewing",
-  "name": "Inhibited",
+  "name": "禁用",
   "icon": "bewitchment:silver_ingot",
   "advancement": "bewitchment:hidden_unlocks/altars",
   "pages": [
     {
       "type": "text",
-      "text": "This effect blocks whoever drinks it from using their $(l:bewitchment:introduction/altars#internalme)Internal ME Buffer$(). This means they can't use items that require $(l:bewitchment:introduction/altars)Magical Energy$()."
+      "text": "這個效果會阻止喝它的人使用他們的 $(l:bewitchment:introduction/altars#internalme)Internal ME Buffer$()。這意味著他們不能使用需要 $(l:bewitchment:introduction/altars)Magical Energy$() 的物品。"
     },
     {
       "type": "spotlight",
-      "title": "Inhibited",
+      "title": "禁用",
       "item": "bewitchment:silver_ingot",
-      "text": "Intensity does not affect this effect."
+      "text": "強度不影響此效果。"
     }
   ]
 }
