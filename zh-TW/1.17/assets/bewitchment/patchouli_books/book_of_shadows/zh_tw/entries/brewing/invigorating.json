@@ -1,6 +1,6 @@
 {
   "category": "bewitchment:brewing",
-  "name": "Invigorating",
+  "name": "振奮",
   "icon": "bewitchment:elder_bark",
   "advancement": "bewitchment:hidden_unlocks/altars",
   "pages": [
@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:spotlight",
-      "title": "Invigorating",
+      "title": "振奮",
       "item": "bewitchment:elder_bark",
       "text": "Intensity will increase the amount of $(l:bewitchment:introduction/altars#internalme)ME$() gained."
     }
