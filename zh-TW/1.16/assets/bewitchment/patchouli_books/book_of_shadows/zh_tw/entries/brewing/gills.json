@@ -1,18 +1,18 @@
 {
   "category": "bewitchment:brewing",
-  "name": "Gills",
+  "name": "魚鰓",
   "icon": "minecraft:cod",
   "advancement": "bewitchment:hidden_unlocks/altars",
   "pages": [
     {
       "type": "text",
-      "text": "This malicious effect replaces the target's lungs with gills, making them able to only breathe underwater."
+      "text": "這種惡意效應用刺代替目標的肺部，使它們只能在水下呼吸。"
     },
     {
       "type": "spotlight",
-      "title": "Gills",
+      "title": "魚鰓",
       "item": "minecraft:cod",
-      "text": "Any Fish may be used for this."
+      "text": "任何魚都可以用來做這個。"
     }
   ]
 }
