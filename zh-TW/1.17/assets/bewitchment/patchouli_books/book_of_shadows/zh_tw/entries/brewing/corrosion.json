@@ -1,18 +1,18 @@
 {
   "category": "bewitchment:brewing",
-  "name": "Corrosion",
+  "name": "腐蝕",
   "icon": "minecraft:dragon_breath",
   "advancement": "bewitchment:hidden_unlocks/altars",
   "pages": [
     {
       "type": "text",
-      "text": "The counterpart to $(l:bewitchment:brewing/hardening)Hardening$() will reduce armor by a flat amount."
+      "text": "$(l:bewitchment:brewing/hardening)Hardening$() 的對應項將減少護甲值。"
     },
     {
       "type": "patchouli:spotlight",
-      "title": "Corrosion",
+      "title": "腐蝕",
       "item": "minecraft:dragon_breath",
-      "text": "The armor decrease is proportional to the potion's strength."
+      "text": "盔甲的減少與藥水的強度成正比。"
     }
   ]
 }
