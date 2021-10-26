@@ -1,18 +1,18 @@
 {
   "category": "bewitchment:brewing",
-  "name": "Climbing",
+  "name": "攀爬",
   "icon": "minecraft:spider_eye",
   "advancement": "bewitchment:hidden_unlocks/altars",
   "pages": [
     {
       "type": "text",
-      "text": "Allows whoever is affected to climb walls like Spiders would."
+      "text": "允許任何受影響的人像蜘蛛一樣爬牆。"
     },
     {
       "type": "patchouli:spotlight",
-      "title": "Climbing",
+      "title": "攀爬",
       "item": "minecraft:spider_eye",
-      "text": "This effect is not affected by intensity."
+      "text": "此效果不受強度影響。"
     }
   ]
 }
