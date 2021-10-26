@@ -1,18 +1,18 @@
 {
   "category": "bewitchment:brewing",
-  "name": "Ethereal",
+  "name": "空靈",
   "icon": "bewitchment:ectoplasm",
   "advancement": "bewitchment:hidden_unlocks/altars",
   "pages": [
     {
       "type": "text",
-      "text": "Ethereal entities cannot receive any damage, but can also not deal any."
+      "text": "空靈實體不能收到任何損害，但也不能處理任何損壞。"
     },
     {
       "type": "spotlight",
-      "title": "Ethereal",
+      "title": "空靈",
       "item": "bewitchment:ectoplasm",
-      "text": "Intensity does not affect this effect."
+      "text": "強度不影響此效果。"
     }
   ]
 }
