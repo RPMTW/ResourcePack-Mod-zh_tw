@@ -6,13 +6,13 @@
   "pages": [
     {
       "type": "text",
-      "text": "This will fill the $(l:bewitchment:introduction/altars#internalme)Internal ME Buffer$() of whoever consumes it by a flat amount."
+      "text": "這將以固定的數量填充消耗它的人的$(l:bewitchment:introduction/altars#internalme)內部ME緩衝區$()。"
     },
     {
       "type": "spotlight",
       "title": "振奮",
       "item": "bewitchment:elder_bark",
-      "text": "Intensity will increase the amount of $(l:bewitchment:introduction/altars#internalme)ME$() gained."
+      "text": "強度會增加獲得的$(l:bewitchment:introduction/altars#internalme)ME$()的數量。"
     }
   ]
 }
