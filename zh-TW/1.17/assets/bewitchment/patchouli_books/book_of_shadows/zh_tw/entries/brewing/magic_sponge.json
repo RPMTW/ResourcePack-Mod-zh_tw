@@ -1,6 +1,6 @@
 {
   "category": "bewitchment:brewing",
-  "name": "Magic Sponge",
+  "name": "魔法海綿",
   "icon": "bewitchment:dragons_blood_resin",
   "advancement": "minecraft:nether/find_fortress",
   "pages": [
@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:spotlight",
-      "title": "Magic Sponge",
+      "title": "魔法海綿",
       "item": "bewitchment:dragons_blood_resin",
       "text": "Higher intensity increases magic damage reduction."
     }
