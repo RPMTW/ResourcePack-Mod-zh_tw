@@ -1,158 +1,158 @@
 {
   "category": "bewitchment:brewing",
-  "name": "Mundane Brews",
+  "name": "普通啤酒",
   "icon": "bewitchment:witch_cauldron",
   "advancement": "bewitchment:hidden_unlocks/altars",
   "priority": true,
   "pages": [
     {
       "type": "text",
-      "text": "While a $(l:bewitchment:tools/witch_cauldron)Witch Cauldron$() can be used to make much more incredible $(l:bewitchment:brewing/brewing_basics)Brews$(), some witches may at times prefer to use more subtle $(l:bewitchment:brewing/brewing_basics)Brews$().$(br)All $(l:bewitchment:brewing/brewing_basics)Brews$() in this entry can be obtained via other means, though the $(l:bewitchment:tools/witch_cauldron)Witch Cauldron$() may allow you to make them stronger.$(br)Mundane $(l:bewitchment:brewing/brewing_basics)Brews$() fabricated in the $(l:bewitchment:tools/witch_cauldron)Witch Cauldron$() use slightly different ingredients."
+      "text": "雖然 $(l:bewitchment:tools/witch_cauldron)女巫鍋$() 可以用來製作更不可思議的 $(l:bewitchment:brewing/brewing_basics)釀造$()，但一些女巫有時可能更喜歡使用更微妙的$(l:bewitchment:brewing/brewing_basics)釀造$().$(br)此條目中的所有 $(l:bewitchment:brewing/brewing_basics)釀造$() 都可以通過其他方式獲得，儘管 $(l: bewitchment:tools/witch_cauldron)女巫鍋$() 可以讓你使它們更強大。$(br)Mundane $(l:bewitchment:brewing/brewing_basics)釀造$() 在 $(l:bewitchment:tools/witch_cauldron 中製造)女巫鍋$() 使用的成分略有不同。"
     },
     {
       "type": "spotlight",
-      "title": "Absorption",
+      "title": "吸收",
       "item": "minecraft:honey_bottle",
       "text": "Applies temporary extra health."
     },
     {
       "type": "spotlight",
-      "title": "Blindness",
+      "title": "失明",
       "item": "minecraft:ink_sac",
       "text": "Drastically reduces the target's field of vision, darkening everything around it."
     },
     {
       "type": "spotlight",
-      "title": "Fire Resistance",
+      "title": "抗火",
       "item": "minecraft:nether_wart",
       "text": "Grants immunity to fire."
     },
     {
       "type": "spotlight",
-      "title": "Glowing",
+      "title": "發光",
       "item": "minecraft:glistering_melon_slice",
       "text": "Makes the target glow obnoxiously."
     },
     {
       "type": "spotlight",
-      "title": "Haste",
+      "title": "挖掘加速",
       "item": "minecraft:dandelion",
       "text": "Increases mining speed and attack speed."
     },
     {
       "type": "spotlight",
-      "title": "Hunger",
+      "title": "飢餓",
       "item": "minecraft:rotten_flesh",
       "text": "Applies a hunger effect."
     },
     {
       "type": "spotlight",
-      "title": "Instant Health",
+      "title": "立即治療",
       "item": "bewitchment:garlic",
       "text": "Instantly heals a flat amount of health, using the healing properties of $(l:bewitchment:introducton/crops)Garlic$()."
     },
     {
       "type": "spotlight",
-      "title": "Instant Damage",
+      "title": "立即傷害",
       "item": "bewitchment:cypress_bark",
       "text": "Instantly damages a flat amount of health, harnessing the deadly energies of $(l:bewitchment:introduction/cypress_trees)Cypress$()."
     },
     {
       "type": "spotlight",
-      "title": "Invisibility",
+      "title": "隱形",
       "item": "minecraft:vine",
-      "text": "Makes the target invisible."
+      "text": "使目標隱形。"
     },
     {
       "type": "spotlight",
-      "title": "Jump Boost",
+      "title": "跳躍提升",
       "item": "minecraft:rabbit_foot",
       "text": "Jump boost is self-explanatory."
     },
     {
       "type": "spotlight",
-      "title": "Levitation",
+      "title": "懸浮",
       "item": "minecraft:chorus_fruit",
       "text": "Slowly ascends the target into the sky."
     },
     {
       "type": "spotlight",
-      "title": "Mining Fatigue",
+      "title": "挖掘疲勞",
       "item": "minecraft:poppy",
       "text": "Mining Fatigue makes the target hit much slower."
     },
     {
       "type": "spotlight",
-      "title": "Nausea",
+      "title": "噁心",
       "item": "bewitchment:aconite",
       "text": "Induces sickness by disorienting the target."
     },
     {
       "type": "spotlight",
-      "title": "Night Vision",
+      "title": "夜視",
       "item": "minecraft:carrot",
       "text": "Carrots are good for your eyes."
     },
     {
       "type": "spotlight",
-      "title": "Poison",
+      "title": "中毒",
       "item": "bewitchment:belladonna",
       "text": "Fills the target's blood with deadly toxin."
     },
     {
       "type": "spotlight",
-      "title": "Regeneration",
+      "title": "回復",
       "item": "bewitchment:juniper_bark",
       "text": "By utilizing the life energies from $(l:bewitchment:introduction/juniper_trees)Juniper$(), Regeneration quickens the healing process when applied.",
-      "anchor": "regeneration"
+      "anchor": "回復"
     },
     {
       "type": "spotlight",
-      "title": "Resistance",
+      "title": "抗性",
       "item": "bewitchment:spruce_bark",
-      "text": "Reduces damage taken.",
-      "anchor": "resistance"
+      "text": "減少受到的傷害。",
+      "anchor": "抗性"
     },
     {
       "type": "spotlight",
-      "title": "Slow Falling",
+      "title": "緩降",
       "item": "minecraft:feather",
       "text": "Makes the target fall gently, like a feather."
     },
     {
       "type": "spotlight",
-      "title": "Slowness",
+      "title": "緩慢",
       "item": "minecraft:slime_ball",
       "text": "Reduces the target's movement speed."
     },
     {
       "type": "spotlight",
-      "title": "Speed",
+      "title": "速度",
       "item": "minecraft:sugar_cane",
       "text": "Increases movement speed, using the energizing qualities of Sugar Cane."
     },
     {
       "type": "spotlight",
-      "title": "Strength",
+      "title": "力量",
       "item": "bewitchment:oak_bark",
       "text": "Using the powers of Oak, this increases damage output.",
-      "anchor": "strength"
+      "anchor": "力量"
     },
     {
       "type": "spotlight",
-      "title": "Water Breathing",
+      "title": "水下呼吸",
       "item": "minecraft:kelp",
-      "text": "Allows breathing in water."
+      "text": "允許在水中呼吸。"
     },
     {
       "type": "spotlight",
-      "title": "Weakness",
+      "title": "虛弱",
       "item": "minecraft:red_mushroom",
       "text": "Reduces the target's attack damage.$(br2)You may also use a Brown Mushroom for this."
     },
     {
       "type": "spotlight",
-      "title": "Wither",
+      "title": "凋零",
       "item": "minecraft:wither_rose",
       "text": "Gradually reduces the target's health."
     }
