@@ -1,13 +1,13 @@
 {
   "category": "bewitchment:brewing",
-  "name": "Mundane Brews",
+  "name": "普通啤酒",
   "icon": "bewitchment:witch_cauldron",
   "advancement": "bewitchment:hidden_unlocks/altars",
   "priority": true,
   "pages": [
     {
       "type": "text",
-      "text": "While a $(l:bewitchment:tools/witch_cauldron)Witch Cauldron$() can be used to make much more incredible $(l:bewitchment:brewing/brewing_basics)Brews$(), some witches may at times prefer to use more subtle $(l:bewitchment:brewing/brewing_basics)Brews$().$(br)All $(l:bewitchment:brewing/brewing_basics)Brews$() in this entry can be obtained via other means, though the $(l:bewitchment:tools/witch_cauldron)Witch Cauldron$() may allow you to make them stronger.$(br)Mundane $(l:bewitchment:brewing/brewing_basics)Brews$() fabricated in the $(l:bewitchment:tools/witch_cauldron)Witch Cauldron$() use slightly different ingredients."
+      "text": "雖然 $(l:bewitchment:tools/witch_cauldron)女巫鍋$() 可以用來製作更不可思議的 $(l:bewitchment:brewing/brewing_basics)釀造$()，但一些女巫有時可能更喜歡使用更微妙的$(l:bewitchment:brewing/brewing_basics)釀造$().$(br)此條目中的所有 $(l:bewitchment:brewing/brewing_basics)釀造$() 都可以通過其他方式獲得，儘管 $(l: bewitchment:tools/witch_cauldron)女巫鍋$() 可以讓你使它們更強大。$(br)Mundane $(l:bewitchment:brewing/brewing_basics)釀造$() 在 $(l:bewitchment:tools/witch_cauldron 中製造)女巫鍋$() 使用的成分略有不同。"
     },
     {
       "type": "patchouli:spotlight",
