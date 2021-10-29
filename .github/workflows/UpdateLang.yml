@@ -40,7 +40,6 @@ jobs:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           push-branch: ${{ matrix.ref }}
           commit-message: "更新原始語系檔案"
-          force-add: true
           files: ./${{ matrix.dirGameVersion }}/assets
           name: 原始語系檔案更新機器人
           email: rpmtw666@gmail.com.com
