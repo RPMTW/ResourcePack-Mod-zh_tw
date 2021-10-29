@@ -1,7 +1,7 @@
 {
-  "name": "Terrastone Tools",
+  "name": "地韻工具",
   "parent": "crafting_armor_tools",
   "sortnum": 2,
-  "description": "This section covers tools made from a combination of sturdy stone and terra moss.$(br2)$(info) All terrastone tools can be repaired with mossy cobblestone in an anvil or $(l:crafting/imbuer)imbuer$().",
+  "description": "此節介紹了利用堅硬的石頭以及大地苔蘚製作的各類工具。$(br2)$(info)所有的地韻工具都可以使用青苔鵝卵石進行修復，修復平台為鐵砧或是$(l:crafting/imbuer)注造器$()。",
   "icon": "roots:terrastone_shovel"
 }
