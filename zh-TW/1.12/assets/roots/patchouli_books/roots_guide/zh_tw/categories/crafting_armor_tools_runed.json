@@ -1,7 +1,7 @@
 {
-  "name": "Runed Tools",
+  "name": "符刻工具",
   "parent": "crafting_armor_tools",
   "sortnum": 3,
-  "description": "This section covers tools made out of runed obsidian.$(br2)$(info) All runed tools can be repaired additionally with $(l:crafting/runed_obsidian)runed obsidian$() using either an anvil or an $(l:crafting/imbuer)imbuer$().",
+  "description": "此節介紹了利用符刻黑曜石製作的各類工具。$(br2)$(info)所有的蘊生工具都可以使用$(l:crafting/runed_obsidian)符刻黑曜石$()進行修復，修復平台為鐵砧或是$(l:crafting/imbuer)注造器$()。",
   "icon": "roots:runed_pickaxe"
 }
