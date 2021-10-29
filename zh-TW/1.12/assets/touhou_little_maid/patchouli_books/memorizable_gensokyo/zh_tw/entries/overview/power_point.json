@@ -1,0 +1,25 @@
+{
+  "sortnum": 2,
+  "name": "P 點",
+  "icon": "minecraft:diamond_sword",
+  "category": "overview",
+  "pages": [
+    {
+      "type": "text",
+      "text": "The power point is an important resource for this mod, which is obtained by killing the $(l:overview/world_spawn#fairy)maid fairy$() or $(l:overview/world_spawn#rinnosuke)rinnosuke morichika$().$(br2)Can be used for $(l:overview/multiblocks_altar)altar$() crafting."
+    },
+    {
+      "type": "text",
+      "text": "當你手持$(l:overview/gohei_and_danmaku)御幣$()時，在遊戲畫面的左上角就能看到 power 值。$(br2)Power 值最大為 5，超過此數值不再增長。"
+    },
+    {
+      "type": "image",
+      "images": [
+        "touhou_little_maid:textures/book/power_point.png"
+      ],
+      "title": "Power Point",
+      "border": true,
+      "text": "Power point entity dropped on the ground."
+    }
+  ]
+}
