@@ -1,16 +1,16 @@
 {
-  "name": "Groves",
+  "name": "森流",
   "icon": "roots:grove_stone",
   "category": "concepts",
   "read_by_default": true,
   "pages": [
     {
       "type": "text",
-      "text": "After $(l:concepts/wild_magic)the fall of the Order of Druids$(), many sought to enhance the power of Wild Magic in order to make it equivalent to that which they had lost.$(br2)While their purpose was selfish, the resulting Grove Stone was surprisingly useful as a magnifier of wild magic, and as a catalyst for crafting.$(br2)Simulating the Fey was not"
+      "text": "After $(l:concepts/wild_magic)the fall of the Order of Druids$()，許多人都開始嘗試增強自身的荒野魔法之力，將這種力量視為它們業已丟失的力量的替代品。$(br2)雖然他們乃是出於私心才如此，但無可否認，他們也產出了一些成果——森流之石，這種石頭在增強荒野魔法時有著令人無法忽視的作用，而且它還能夠作為合成的催化劑。"
     },
     {
       "type": "multiblock",
-      "name": "Grove Stone",
+      "name": "森流之石",
       "multiblock": {
         "mapping": {
           "0": "roots:grove_stone",
@@ -46,15 +46,15 @@
         ]
       },
       "enable_visualize": false,
-      "text": "$(o)A sketch of a recent variation of the monolith$()"
+      "text": "$(o)這是最近方才出現的石碑變種，以上是縮略圖$()"
     },
     {
       "type": "text",
-      "text": "something that these latter Druids were capable of, and it remains unclear whether it is even possible to do so.$(br2)Regardless, when combined with an appropriately attuned device, Grove Stones allow for a greater range of crafting and creation.$(br2)Some posit they harness power from the Fey via minute portals, large enough for energy but too small to be seen, but the exact method remains unclear."
+      "text": "模仿精靈，這可不是剛剛談到的那些後生德魯伊能夠辦到的，甚至說，模仿精靈究竟有無可能，人們都尚未清楚。$(br2)回歸正題，當你將適當調諧過的設備與森流之石結合時，森流之石便可以讓你在一個很大的範圍裡進行合成和創造。$(br2)有些人認為，它們可以通過一種極小且時間很短的傳送門操縱精靈的力量，這種門的大小足以讓能量通過，但對於肉眼來說還是微不可查。話雖如此，具體的方法仍是迷霧一團。"
     },
     {
       "type": "multiblock",
-      "name": "'Fey' Crafter",
+      "name": "「精靈」工匠台",
       "multiblock": {
         "mapping": {
           "0": "roots:fey_crafter"
@@ -68,7 +68,7 @@
         ]
       },
       "enable_visualize": false,
-      "text": "$(o)Despite lacking evidence, often called a 'Fey' crafter.$()"
+      "text": "$(o)雖然沒有什麼證據，但大家都叫它「精靈」工匠台。$()"
     },
     {
       "type": "relations",
