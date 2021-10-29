@@ -1,7 +1,7 @@
 {
-  "name": "Wildwood Tools",
+  "name": "野木工具",
   "parent": "crafting_armor_tools",
   "sortnum": 4,
-  "description": "This section covers tools made from sturdy wildwood.$(br2)$(info) All wildwood tools can be repaired with wildwood bark in an anvil or $(l:crafting/imbuer)imbuer$().",
+  "description": "此節介紹了利用堅硬的野木製作的各類工具。$(br2)$(info)所有的地韻工具都可以使用野木樹皮進行修復，修復平台為鐵砧或是$(l:crafting/imbuer)注造器$()。",
   "icon": "roots:wildwood_quiver"
 }
