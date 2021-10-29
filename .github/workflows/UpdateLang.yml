@@ -35,11 +35,11 @@ jobs:
         run: git pull
         
       - name: "推送變更"
-        uses: github-actions-x/commit@v2.8
-        with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          push-branch: ${{ matrix.ref }}
-          commit-message: "更新原始語系檔案"
-          files: ./${{ matrix.dirGameVersion }}/assets
-          name: 原始語系檔案更新機器人
-          email: rpmtw666@gmail.com.com
+        env: 
+          version: ${{ matrix.dirGameVersion }}
+        run: |
+          git config --global user.name "RPMTW BOT"
+          git config --global user.email "rpmtw666@gmail.com"
+          git add ./$version/assets
+          git commit -m "更新原始語系檔案"
+          git push
