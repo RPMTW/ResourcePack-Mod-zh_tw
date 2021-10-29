@@ -2,6 +2,6 @@
   "name": "活工具",
   "parent": "crafting_armor_tools",
   "sortnum": 1,
-  "description": "This category describes the making and use of the living tools that can be crafted in a fey crafter.$(br2)$(info) All living tools can be additionally repaired with any Roots bark using an anvil or $(l:crafting/imbuer)imbuer$().",
+  "description": "此節會討論蘊生工具的製作以及使用，你可以在精靈工匠台上製作蘊生工具。$(br2)$(info)所有的蘊生工具都可以使用任何根源魔法的樹皮進行修復，修復平台為鐵砧或是$(l:crafting/imbuer)注造器$()。",
   "icon": "roots:living_pickaxe"
 }
