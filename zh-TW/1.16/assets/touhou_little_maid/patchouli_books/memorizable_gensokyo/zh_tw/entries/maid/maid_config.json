@@ -1,0 +1,12 @@
+{
+  "sortnum": 5,
+  "name": "女僕設定",
+  "icon": "minecraft:writable_book",
+  "category": "maid",
+  "pages": [
+    {
+      "type": "text",
+      "text": "本模組為女僕加入了大量的設定檔案，你可以設定女僕的某些屬性，也可以設定玩家可馴服的最大女僕數量。"
+    }
+  ]
+}
