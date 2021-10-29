@@ -43,3 +43,4 @@ jobs:
           git add ./$version/assets
           git commit -m "更新原始語系檔案"
           git push
+        continue-on-error: true
