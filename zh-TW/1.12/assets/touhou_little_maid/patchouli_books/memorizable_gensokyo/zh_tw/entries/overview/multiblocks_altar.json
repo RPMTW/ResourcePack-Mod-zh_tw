@@ -16,16 +16,16 @@
     },
     {
       "type": "text",
-      "text": "You can place the item by right-clicking on the top of the six oak pillars of the altar. You can remove the item by empty-handed right-clicking.$(br2)When the item is completely placed and the player's power point is enough, altar can trigger craft.$(br2)The craft is interrupted due to lack of power, and after obtaining enough power, right click again to re-trigger the craft."
+      "text": "你可以右擊六個橡木柱子的頂端來放置物品。通過空手 Shift 右擊來移除物品。$(br2)當物品完全放置且玩家的 Power 值足夠，祭壇就能觸發合成。$(br2)因為缺少 Power 而導致的合成中斷，在取得足夠 Power 以後，再次右擊可以重新觸發合成。"
     },
     {
       "type": "image",
       "images": [
         "touhou_little_maid:textures/book/altar_craft.png"
       ],
-      "title": "Altar Craft",
+      "title": "祭壇合成",
       "border": true,
-      "text": "The craft of spawn lightning, remember all craft is shapeless."
+      "text": "展示了生成閃電的合成，謹記所有的合成都是無序合成。"
     }
   ]
 }
