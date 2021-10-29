@@ -31,6 +31,9 @@ jobs:
           action: "update_lang"
           gameVersion: ${{ matrix.gameVersion }}
 
+      - name: "拉取變更"
+        run: git pull --all
+        
       - name: "推送變更"
         uses: github-actions-x/commit@v2.8
         with:
