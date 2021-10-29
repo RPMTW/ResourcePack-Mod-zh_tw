@@ -36,7 +36,7 @@ jobs:
         
       - name: "推送變更"
         env: 
-          version: ${{ matrix.dirGameVersion }}
+          version: ${{ matrix.gameVersion }}
         run: |
           git config --global user.name "RPMTW BOT"
           git config --global user.email "rpmtw666@gmail.com"
