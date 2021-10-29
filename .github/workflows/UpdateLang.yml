@@ -32,7 +32,7 @@ jobs:
           gameVersion: ${{ matrix.gameVersion }}
 
       - name: "拉取變更"
-        run: git pull --all
+        run: git pull
         
       - name: "推送變更"
         uses: github-actions-x/commit@v2.8
