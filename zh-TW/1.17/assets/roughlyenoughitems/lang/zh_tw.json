@@ -267,5 +267,7 @@
     "text.rei.not.fully.initialized.tooltip": "初始化未完成！缺失加載階段：%s\n若該提示長時間留存，\n請用日誌檔案尋求協助！",
     "text.rei.inventory.highlighting.enabled": "物品欄突顯顯示已啟用",
     "text.rei.inventory.highlighting.enabled.tooltip": "不符合搜尋關鍵字的物品將顯示為灰色背景。\n雙擊搜尋欄以開啟/關閉該模式。",
-    "text.rei.too_long_nbt": "§c物品 NBT 過長，不能應用於多人遊戲。"
+    "text.rei.too_long_nbt": "§c物品 NBT 過長，不能應用於多人遊戲。",
+    "text.rei.tag_match": "Tag: %s",
+    "text.rei.performance": "Performance Analysis"
 }
