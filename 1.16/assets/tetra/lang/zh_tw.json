@@ -144,7 +144,7 @@
     "tetra.stats.backstab": "Backstab",
     "tetra.stats.backstab.tooltip": "Hitting entities from behind cause critical hits that deal §e%s§r bonus damage",
     "tetra.stats.armor": "Armor",
-    "tetra.stats.armor.tooltip": "Provides §e%s§r armor when held",
+    "tetra.stats.armor.tooltip": "Provides §e%s§r armor when worn",
     "tetra.stats.toughness": "Toughness",
     "tetra.stats.toughness.tooltip": "Provides §e%s§r toughness when held",
     "tetra.stats.blocking": "Block",
@@ -2688,5 +2688,9 @@
     "tetra.tool.hoe.requirement": "This action requires a tier %d hoe.",
     "tetra.tool.pickaxe.craft_requirement": "Crafting requires a tier %d pickaxe",
     "tetra.tool.pry.craft_requirement": "Crafting requires a tier %d prying implement.",
-    "tetra.tool.shovel.craft_requirement": "Crafting requires a tier %d shovel"
+    "tetra.tool.shovel.craft_requirement": "Crafting requires a tier %d shovel",
+    "tetra.material.wool_red": "Wool",
+    "tetra.material.wool_red.prefix": "Wool",
+    "tetra.material.wool_yellow": "Wool",
+    "tetra.material.wool_yellow.prefix": "Wool"
 }

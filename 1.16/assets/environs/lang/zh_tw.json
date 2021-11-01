@@ -57,8 +57,8 @@
     "environs.cfg.fog.Enable.tooltip": "Enable/disable fog processing",
     "environs.cfg.fog.Morning": "Morning Fog",
     "environs.cfg.fog.Morning.tooltip": "Show morning fog that eventually burns off",
-    "environs.cfg.fog.MorningChance": "Morning Fog Chance",
-    "environs.cfg.fog.MorningChance.tooltip": "Chance morning fog will occurs expressed as 1 in N",
+    "environs.cfg.fog.MorningChance": "Morning Fog Chance Percentage",
+    "environs.cfg.fog.MorningChance.tooltip": "Percentage chance morning fog will occur",
     "environs.cfg.fog.Weather": "Weather Fog",
     "environs.cfg.fog.Weather.tooltip": "Increase fog based on the strength of rain",
     "environs.cfg.fog.Bedrock": "Bedrock Fog",
@@ -69,5 +69,7 @@
     "environs.cfg.fog.Biome.tooltip": "Enable biome specific fog density and color",
     "environs.soundcategory.biomes": "Biomes",
     "environs.soundcategory.spotsounds": "Spot Sounds",
-    "environs.soundcategory.waterfall": "Waterfalls"
+    "environs.soundcategory.waterfall": "Waterfalls",
+    "environs.cfg.effects.WaterfallCutoff": "Waterfall Strength Cutoff",
+    "environs.cfg.effects.WaterfallCutoff.tooltip": "Limit sounds to waterfall strengths above this value"
 }

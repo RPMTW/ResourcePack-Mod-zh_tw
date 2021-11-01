@@ -15,7 +15,7 @@
     "item.tinyredstone.tiny_solid_block": "Tiny Solid Block",
     "item.tinyredstone.tiny_redstone_block": "Tiny Redstone Block",
     "item.tinyredstone.tiny_redstone_lamp": "Tiny Redstone Lamp",
-    "item.tinyredstone.tiny_transparent_block": "Tiny Glass Block",
+    "item.tinyredstone.tiny_transparent_block": "Tiny Transparent Block",
     "item.tinyredstone.tiny_button": "Tiny Wooden Button",
     "item.tinyredstone.tiny_stone_button": "Tiny Stone Button",
     "item.tinyredstone.silicon": "Silicon",
@@ -82,5 +82,9 @@
     "message.item.tinyredstone.light_panel_cover": "Hides circuitry and prevents rendering.\nAllows light to penetrate.",
     "message.item.tinyredstone.dark_panel_cover": "Hides circuitry and prevents rendering and client syncing.\nDoes not allow light to penetrate.",
     "message.item.tinyredstone.tiny_note_block": "Right click to change pitch. Right click with Redstone Wrench to select instrument.\nNote is played on redstone pulse to Tiny Note Block or neighboring block (quasi-connectivity).\nThe One Probe and WAILA will display the instrument and note.\nCan be pushed by Tiny Pistons.",
-    "tinyredstone.tooltip.press_shift": "--Press Shift for More Info--"
+    "tinyredstone.tooltip.press_shift": "--Press Shift for More Info--",
+    "item.tinyredstone.trim_panel_cover": "Trimming Panel Cover",
+    "message.item.tinyredstone.trim_panel_cover": "Trims circuit down to fit components, hides circuitry and prevents rendering and client syncing.\nDoes not allow light to penetrate.",
+    "block.tinyredstone.block_chopper": "Block Chopper",
+    "message.block.tinyredstone.block_chopper": "Crafts tiny blocks from most full-sized blocks. No silicon required!"
 }

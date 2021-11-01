@@ -124,5 +124,6 @@
     "jei.chat.error.no.cheat.permission.enabled": "On this server, the following types of players can use JEI's Cheat Mode:",
     "jei.chat.error.no.cheat.permission.creative": "players who are in Creative Mode",
     "jei.chat.error.no.cheat.permission.op": "players who are have Operator Status (/op)",
-    "jei.chat.error.no.cheat.permission.give": "players who can use /give"
+    "jei.chat.error.no.cheat.permission.give": "players who can use /give",
+    "jei.message.configured": "Install the \"Configured\" mod to access the in-game config"
 }
