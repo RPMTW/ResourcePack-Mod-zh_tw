@@ -901,5 +901,6 @@
     "tombstone.compendium.grave_guardian.desc": "Rarely, a Grave Guardian can appear near a decorative grave.\nThis guardian will protect the surroundings from hostile creatures and will offer to trade with the players.\nDuring special events, the trades may differ.",
     "stat.tombstone.trade_grave_guardian": "Grave Guardian Trades",
     "stat.tombstone.traded_lollipop": "Traded Halloween Lollipop",
-    "entity.tombstone.grave_guardian": "Grave Guardian"
+    "entity.tombstone.grave_guardian": "Grave Guardian",
+    "tombstone.config.can_recycle_damaged_item.tooltip": "Damaged items can be recycled with the Book of Recycling"
 }

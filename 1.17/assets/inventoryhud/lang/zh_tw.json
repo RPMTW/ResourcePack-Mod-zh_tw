@@ -63,5 +63,7 @@
     "key.inventoryhud.togglepot": "Toggle PotionHUD on/off",
     "key.inventoryhud.togglearm": "Toggle ArmorHUD on/off",
     "inventoryhud.config.gui.update": "New version is available, ",
-    "inventoryhud.config.gui.updateclick": "Click to get"
+    "inventoryhud.config.gui.updateclick": "Click to get",
+    "inventoryhud.config.gui.bardur": "Bar duration:",
+    "inventoryhud.config.gui.bardur.tt": "Duration in seconds for full bar (setting for mini-mode)"
 }
