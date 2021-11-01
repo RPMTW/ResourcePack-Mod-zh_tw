@@ -536,5 +536,8 @@
     "gui.xaero_category_paste": "將 §e%1$s§r 在 §e%2$s 貼上",
     "gui.xaero_category_paste_cancel": "取消 剪下/貼上",
     "gui.xaero_category_duplicate": "複製 §e%1$s",
-    "gui.xaero_category_duplicate_confirm": "你要複製以下類別嗎？"
+    "gui.xaero_category_duplicate_confirm": "你要複製以下類別嗎？",
+    "gui.xaero_reverse_entity_radar": "Reverse Radar Render Order",
+    "gui.xaero_adjust_height_for_carpetlike_blocks": "Adjust Y For Short Blocks",
+    "gui.xaero_box_adjust_height_for_carpetlike_blocks": "Subtract 1 from the height value for short carpetlike blocks, e.g. carpet, 1-layer snow, lilypad etc. This prevents such blocks from causing harsh shading on the map like a full block."
 }
