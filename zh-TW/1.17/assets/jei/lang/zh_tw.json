@@ -120,5 +120,12 @@
     "description.jei.debug.formatting.2": "Testing %s %s formatting replacements.",
     "description.jei.debug.formatting.3": "%s nested",
     "gui.jei.category.compostable": "Compostable",
-    "gui.jei.category.compostable.chance": "Chance: %s%%"
+    "gui.jei.category.compostable.chance": "Chance: %s%%",
+    "jei.tooltip.error.recipe.transfer.disabled": "這個伺服器已停用 JEI 配方移動",
+    "jei.chat.error.no.cheat.permission.disabled": "這個伺服器禁止玩家使用 JEI 作弊模式。",
+    "jei.chat.error.no.cheat.permission.enabled": "這個伺服器允許下列類型的玩家使用 JEI 作弊模式：",
+    "jei.chat.error.no.cheat.permission.creative": "創造模式的玩家",
+    "jei.chat.error.no.cheat.permission.op": "有管理員權限（/op）的玩家",
+    "jei.chat.error.no.cheat.permission.give": "可以使用 /give 的玩家",
+    "jei.message.configured": "Install the \"Configured\" mod to access the in-game config"
 }
