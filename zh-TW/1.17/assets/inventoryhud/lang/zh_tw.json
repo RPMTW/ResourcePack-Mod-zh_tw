@@ -63,5 +63,7 @@
     "key.inventoryhud.togglepot": "切換藥水顯示 開/關",
     "key.inventoryhud.togglearm": "切換護甲顯示 開/關",
     "inventoryhud.config.gui.update": "有新版本可用！",
-    "inventoryhud.config.gui.updateclick": "點擊獲取"
+    "inventoryhud.config.gui.updateclick": "點擊獲取",
+    "inventoryhud.config.gui.bardur": "Bar duration:",
+    "inventoryhud.config.gui.bardur.tt": "Duration in seconds for full bar (setting for mini-mode)"
 }
