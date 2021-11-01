@@ -154,5 +154,19 @@
     "entity.outvoted.glutton_s": "Swamp Glutton",
     "entity.outvoted.glutton_r": "Red Sand Glutton",
     "item.outvoted.wildfire_helmet_s": "Soul Wildfire Helmet",
-    "subtitles.entity.outvoted.ostrich.ambient": "Ostrich whistles"
+    "subtitles.entity.outvoted.ostrich.ambient": "Ostrich whistles",
+    "entity.outvoted.glare": "Glare",
+    "entity.outvoted.copper_golem": "Copper Golem",
+    "block.outvoted.copper_button": "Copper Button",
+    "block.outvoted.exposed_copper_button": "Exposed Copper Button",
+    "block.outvoted.weathered_copper_button": "Weathered Copper Button",
+    "block.outvoted.oxidized_copper_button": "Oxidized Copper Button",
+    "block.outvoted.waxed_copper_button": "Waxed Copper Button",
+    "block.outvoted.waxed_exposed_copper_button": "Waxed Exposed Copper Button",
+    "block.outvoted.waxed_weathered_copper_button": "Waxed Weathered Copper Button",
+    "block.outvoted.waxed_oxidized_copper_button": "Waxed Oxidized Copper Button",
+    "text.autoconfig.outvoted.option.common.entities.coppergolem": "Copper Golem",
+    "text.autoconfig.outvoted.option.common.entities.coppergolem.health": "Max Health",
+    "text.autoconfig.outvoted.option.common.entities.coppergolem.oxidationRate": "Oxidation Rate",
+    "text.autoconfig.outvoted.option.common.entities.coppergolem.oxidationRate.@Tooltip": "Percentage chance for golem to oxidize per second, as a decimal"
 }
