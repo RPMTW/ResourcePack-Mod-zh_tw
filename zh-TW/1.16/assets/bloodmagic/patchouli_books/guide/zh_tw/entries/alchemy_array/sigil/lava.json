@@ -37,7 +37,7 @@
     },
     {
       "type": "crafting_alchemy_table",
-      "heading": "Lava Bucket",
+      "heading": "熔岩桶",
       "recipe": "bloodmagic:alchemytable/sigil_lava_bucket",
       "text": "What's more, it can be used in the $(l:bloodmagic:alchemy_table/alchemy_table)Alchemy Table$() to automate the production of $(fire)Lava Buckets$(). The Sigil is not consumed in this recipe."
     }
