@@ -10,7 +10,7 @@
       "text": "It drains a fluid source block in front of it.$(br2)It will place the fluid from the internal container and use $(6)1000$()RF."
     },
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "industrialforegoing:fluid_collector"
     }
   ]
