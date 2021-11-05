@@ -33,35 +33,35 @@
     },
     {
       "type": "text",
-      "text": "Each hatch has a temperature and stores heat which can be dissipated in several ways. The heat will naturally move to an adjacent hatch or to the outside if the hatch is on the edge (the heat is then lost). The speed of this process is equal to the hatches content's heat transfer coefficient (shown in REI) times the temperature difference. The heat can also be extracted in a fluid hatch by producing steam. A temperature above an item's maximum temperature will destroy it."
+      "text": "每個艙口都有一個溫度並儲存熱量，熱量可以通過多種方式消散。如果艙口在邊緣，熱量會自然地移動到相鄰艙口或外部（熱量隨後會散失）。此過程的速度等於艙口含量的傳熱係數（以 REI 顯示）乘以溫差。 熱量也可以通過產生蒸汽在流體艙中提取。高於物品最高溫度的溫度會摧毀它。"
     },
     {
       "type": "text",
-      "text": "The core nuclear reactor elements are neutrons. Those are produced by the nuclear fuel. There are two type of neutrons, fast and thermal : the fast carry energy while the thermal do not. Neutrons move in a straight line until they encounter an element or exit the reactor (for fast neutrons, their energy is then lost). The flow of neutrons is shown in the reactor GUI."
+      "text": "核心核反應堆元件是中子。這些是由核燃料產生的。有兩種類型的中子，快中子和熱中子：快中子攜帶能量，而熱中子不攜帶。中子沿直線運動，直到遇到元素或離開反應堆（對於快中子，它們的能量隨後會流失）。中子流顯示在反應堆介面中。"
     },
     {
       "type": "text",
-      "text": "When a neutron encounters a non-empty hatch, two things can happen : the neutron is absorbed or scattered. A scattered neutron will randomly change direction. If the scattered neutron is fast, it has a chance of slowing down, becoming a thermal one. This transfers the energy from the neutron to the hatch in the form of heat. An absorbed neutron stops its course and also transfers its energy if it was a fast neutron."
+      "text": "當中子遇到非空艙口時，會發生兩件事：中子被吸收或散射。散射的中子會隨機改變方向。如果散射的中子速度很快，它就有可能減速，變成熱中子。這將能量以熱量的形式從中子傳遞到艙口。如果被吸收的中子是快中子，它會停止運作並轉移其能量。"
     },
     {
       "type": "text",
-      "text": "The number of absorbed neutrons in a single hatch can be seen in the GUI. The probability for each processes is shown in REI. Those will strongly depend on the hatch's content and the neutron type (fast or thermal). Nuclear fuels absorb thermal neutrons far better."
+      "text": "在介面中可以看到單個艙口中吸收的中子數。每個過程的機率顯示在 REI 中。這些將在很大程度上取決於艙口的內容和中子類型（快中子或熱中子）。核燃料能更好地吸收熱中子。"
     },
     {
       "type": "text",
-      "text": "When a neutron, either fast or thermal, is absorbed in nuclear fuel, more neutrons are generated. Those are always fast neutrons and have random direction. Their generation is accompanied by the direct release of energy in the form of additional heat in the hatch."
+      "text": "當核燃料吸收快中子或熱中子時，會產生更多中子。那些總是快中子並且具有隨機方向。它們的產生伴隨著艙口中以額外熱量的形式直接釋放能量。"
     },
     {
       "type": "text",
-      "text": "Above a certain threshold, the number of generated neutrons will decrease with the temperature until reaching zero. This process wastes some energy, but guarantees the stability of the reactor. The number of generated neutrons (and effective efficiency), the direct energy and the temperature threshold are in REI."
+      "text": "超過某個閾值，產生的中子數會隨著溫度的升高而減少，直到達到零。這個過程浪費了一些能量，但保證了反應器的穩定性。產生的中子數（和有效效率）、直接能量和溫度閾值在 REI 中。"
     },
     {
       "type": "text",
-      "text": "Each nuclear component has maximum number of absorptions. When reached, the item is either destroyed or transformed into a depleted version. This is particularly useful for nuclear fuel because some part of the U238 is transformed into Plutonium in the depleted version, meaning some of it can be transformed back into fuel."
+      "text": "每個核成分都有最大吸收次數。當到達時，該物品要嘛被破壞，要嘛變成一個貧化的版本。這對核燃料特別有用，因為鈾-238 的某些部分在貧化的版本中會轉化為鈽，這意味著其中一些可以轉化回燃料。"
     },
     {
       "type": "text",
-      "text": "The same thing happens for fluids: a bit of fluid is transformed after each neutron absorption. This can be used to mass produce useful isotopes like deuterium and tritium. In both cases, the outcome is shown in REI."
+      "text": "流體也會發生同樣的事情：在每次吸收中子後，都會有一點流體發生變化。這可用於大量生產有用的同位素，如氘和氚。在這兩種情況下，結果都顯示在 REI 中。"
     }
   ],
   "sortnum": 206
