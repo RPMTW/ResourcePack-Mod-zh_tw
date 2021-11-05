@@ -10,7 +10,7 @@
       "text": "A generator that uses $(l:generators/biofuel)Biofuel$() to generate $(6)160$()RF/t. $(br2)This generator is efficient so it will stop consuming fuel when the internal buffer is full."
     },
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "industrialforegoing:biofuel_generator"
     }
   ]
