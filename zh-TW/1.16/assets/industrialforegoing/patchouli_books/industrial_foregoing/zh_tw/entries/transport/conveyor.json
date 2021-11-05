@@ -10,7 +10,7 @@
       "text": "Conveyors can be used to transport items, entities and fluids. They can interact with the world using $(l:conveyor_upgrades)upgrades$(). Items and entities can go up and down on the conveyors but fluids can only go horizontal. $(br2)Conveyors can be colored by right-clicking them with a dye."
     },
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "industrialforegoing:conveyor"
     },
     {
