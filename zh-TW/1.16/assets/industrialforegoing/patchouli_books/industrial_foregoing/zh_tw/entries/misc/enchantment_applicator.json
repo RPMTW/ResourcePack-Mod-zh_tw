@@ -10,7 +10,7 @@
       "text": "This machine functions the same way as an anvil but instead of experience it uses $(l:agr_husb/essence)Essence$(). It can grab essence from the tank on top of the cost is too big."
     },
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "industrialforegoing:enchantment_applicator"
     }
   ]
