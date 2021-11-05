@@ -1,15 +1,15 @@
 {
-  "name": "Fluid Pipe Speed",
+  "name": "液體管道速度",
   "category": "modern_industrialization:midgame",
   "icon": "minecraft:water_bucket",
   "pages": [
     {
       "type": "text",
-      "text": "You might be wondering how you can possibly transfer all these multiple thousands of millibuckets of steam every tick? The answer is: with regular fluid pipes!$(br2)Each fluid pipe has an internal buffer of exactly one bucket (= 1000 millibuckets). When you connect multiple pipes directly, they become linked and share their internal storage."
+      "text": "您可能想知道如何才能在每刻中傳輸所有這些數千毫桶的蒸汽？答案是：使用普通的液體管道！$(br2)每個液體管道都有一個正好是一個桶（= 1000 毫桶）的內部緩衝區。當您直接連接多個管道時，它們會相互連接並共享其內部儲存空間。"
     },
     {
       "type": "text",
-      "text": "How much fluid is transferred every tick is then bounded by the total capacity of the network. For example, 25 fluid pipes linked together can transfer up to 25000 mb/t of fluid - assuming you can produce that much fluid of course!$(br2)Note that you might be limited by the transfer rates of the tanks/machines the pipes are connected to."
+      "text": "然後，每刻傳輸多少流體受網路總容量的限制。例如，連接在一起的 25 根液體管道可以傳輸高達 25000 mb/t 的液體——當然前提是你可以生產這麼多液體！$(br2)請注意，您可能會受到管道所連接的儲罐/機器的傳輸速率的限制。"
     }
   ],
   "sortnum": 203
