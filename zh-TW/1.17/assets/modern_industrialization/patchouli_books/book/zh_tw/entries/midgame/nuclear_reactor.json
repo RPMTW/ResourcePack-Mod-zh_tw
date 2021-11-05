@@ -1,35 +1,35 @@
 {
-  "name": "The Nuclear Reactor",
+  "name": "核反應堆",
   "category": "modern_industrialization:midgame",
   "icon": "modern_industrialization:uranium_fuel_rod_quad",
   "pages": [
     {
       "type": "crafting",
       "recipe": "modern_industrialization:electric_age/machine/nuclear_reactor_asbl",
-      "text": "The Nuclear Reactor is a large multiblock whose purpose is to generate massive amounts of energy by consuming nuclear fuel. It can produce 100s of times more EU/t than diesel. It comes in several sizes from small to large."
+      "text": "核反應堆是一個大型多方塊，其目的是透過消耗核燃料來產生大量能量。它可以生產比柴油多 100 倍的 EU/t。它有多種尺寸，從小到大。"
     },
     {
       "type": "text",
-      "text": "How it works under the hood can be a bit overwhelming, despite the following pages trying to explain it. Nevertheless, you don't need to understand the details to be able to design a powerful reactor.$(br2)We recommend that you experiment with various designs in creative mode until you find one that suits you."
+      "text": "儘管下面幾頁試圖解釋它，但它在幕後的運作方式可能有點讓人不知所措。儘管如此，您無需了解細節即可設計功能強大的反應器。$(br2)我們建議您在創造模式下嘗試各種設計，直到找到適合您的設計。"
     },
     {
       "type": "text",
-      "text": "Note that the Nuclear Reactor cannot explode, emit radiation, or otherwise damage the map. The only thing that it can damage is the items you put in it if the temperature gets too high (more on this later).$(br2)You should feel free to experiment, and enjoy your new life as a nuclear scientist!"
+      "text": "請注意，核反應堆不會爆炸、發射輻射或以其他方式損壞地圖。如果溫度過高，它唯一可能損壞的是您放入其中的物品（稍後會詳細介紹）。$(br2)您應該可以自由地進行實驗，並享受作為核科學家的新生活！"
     },
     {
       "type": "crafting",
       "recipe": "modern_industrialization:electric_age/casing/nuclear_casing_asbl",
-      "text": "The main component is the Nuclear Casing which is made with Nuclear Alloy : a mix of cadmium, beryllium and blastproof alloy."
+      "text": "主要部件是由核合金製成的核套管：鎘、鈹和抗爆合金的混合物。"
     },
     {
       "type": "crafting",
       "recipe": "modern_industrialization:electric_age/casing/nuclear_item_hatch_asbl",
-      "text": "The upper part of the structure accepts Nuclear Item or Fluid Hatches (or simple casings). Those are the inputs and outputs of the reactor."
+      "text": "結構的上部接受核物品或液體艙口（或簡單的外殼）。這些是反應器的輸入和輸出。"
     },
     {
       "type": "crafting",
       "recipe": "modern_industrialization:electric_age/casing/nuclear_fluid_hatch_asbl",
-      "text": "Each hatch has one input (either item or fluid) and two outputs. The input slots will form a grid, displayed in the reactor GUI (accessible by right-clicking on the controller)."
+      "text": "每個艙口都有一個輸入（物品或液體）和兩個輸出。輸入槽將形成一個網格，顯示在反應器介面中（可對控制器按右鍵來存取）。"
     },
     {
       "type": "text",
