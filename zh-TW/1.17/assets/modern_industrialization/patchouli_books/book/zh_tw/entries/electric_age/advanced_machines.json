@@ -1,33 +1,33 @@
 {
-  "name": "Advanced Machines",
+  "name": "先進機器",
   "category": "modern_industrialization:electric_age",
   "icon": "modern_industrialization:advanced_machine_hull",
   "pages": [
     {
       "type": "spotlight",
-      "title": "Aluminum",
+      "title": "鋁",
       "item": "modern_industrialization:aluminum_ingot",
-      "text": "Aluminum is a material used for making more advanced machines. Like the other electric machines, these new machines will only connect to LV cables. Put bauxite dust in an Electric Blast Furnace and you'll get aluminum nuggets."
+      "text": "鋁是一種用於製造更先進機器的材料。與其他電動機器一樣，這些新機器只會連接到 LV 電纜。將鋁土礦粉放入電高爐中，您將獲得鋁粒。"
     },
     {
       "type": "crafting",
       "recipe": "modern_industrialization:electric_age/machine/centrifuge_asbl",
-      "text": "The Centrifuge splits items by spinning them very fast. You can use it to make carbon dust and unlock better recipes for steel and silicon."
+      "text": "離心機透過快速旋轉來分離物品。您可以使用它來製造碳粉並解鎖更好的鋼和矽配方。"
     },
     {
       "type": "crafting",
       "recipe": "modern_industrialization:electric_age/machine/chemical_reactor_asbl",
-      "text": "The Chemical Reactor can make items and fluids react."
+      "text": "化學反應器可以使物品和流體發生反應。"
     },
     {
       "type": "crafting",
       "recipe": "modern_industrialization:electric_age/machine/distillery_asbl",
-      "text": "The Distillery will turn various fluids into their lighter parts. That will be very useful for Oil Processing."
+      "text": "蒸餾室會將各種液體變成較輕的部分。這對石油加工非常有用。"
     },
     {
       "type": "crafting",
       "recipe": "modern_industrialization:electric_age/machine/electrolyzer_asbl",
-      "text": "The Electrolyzer can split materials into their different parts using strong electric currents. You can electrolyze bauxite dust to get aluminum dust, which you can then directly smelt into aluminum ingots in the EBF."
+      "text": "電解機可以使用強電流將材料分解成不同的部分。您可以電解鋁土礦粉以獲得鋁粉，然後您可以在 EBF 中將其直接冶煉成鋁錠。"
     }
   ],
   "sortnum": 106
