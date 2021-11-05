@@ -10,7 +10,7 @@
       "text": "This machine can extract enchantments from items when provided with a book. $(br2)It can function 2 ways, extract the enchantments into a book or it can extract the enchantment and transform it into $(l:agr_husb/essence)Essence$()."
     },
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "industrialforegoing:enchantment_extractor"
     }
   ]
