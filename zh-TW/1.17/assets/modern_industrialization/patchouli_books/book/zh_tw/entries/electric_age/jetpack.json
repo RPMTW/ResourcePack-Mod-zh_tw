@@ -1,12 +1,12 @@
 {
-  "name": "Diesel Jetpack and Tools",
+  "name": "柴油噴氣背包和工具",
   "category": "modern_industrialization:electric_age",
   "icon": "modern_industrialization:diesel_jetpack",
   "pages": [
     {
       "type": "crafting",
       "recipe": "modern_industrialization:armor/diesel_jetpack",
-      "text": "Jetpack go brrr... The more powerful the fuel, the faster the jetpack! We recommend Rubber Boots and a Rubber Helmet...$(br2)Don't forget to activate it using the $(o)Toggle Flight$() keybinding!"
+      "text": "噴氣背包翱翔吧... 燃料越強大，噴氣背包就越快！我們推薦橡膠靴子和橡膠頭盔...$(br2)不要忘記使用$(o)Toggle Flight$()按鍵啟動它！"
     },
     {
       "type": "crafting",
@@ -16,12 +16,12 @@
     {
       "type": "crafting",
       "recipe": "modern_industrialization:tools/diesel_mining_drill",
-      "text": "This Mining Drill can finally replace your Pickaxes and Shovels. Fill it with powerful fuel for the best speed!$(br2)Toggle between Silk Touch and Fortune III with shift right-click."
+      "text": "這個採礦鑽機終於可以取代你的鎬和鏟了。用強大的燃料填充它以獲得最佳速度！$(br2)使用 Shift + 右鍵在 絲綢之觸和幸運 III 之間切換。"
     },
     {
       "type": "crafting",
       "recipe": "modern_industrialization:tools/diesel_chainsaw",
-      "text": "Cutting down trees in style!"
+      "text": "花式伐木！"
     }
   ],
   "sortnum": 109
