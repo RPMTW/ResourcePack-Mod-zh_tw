@@ -1,27 +1,27 @@
 {
-  "name": "Electric Blast Furnace",
+  "name": "電力高爐",
   "category": "modern_industrialization:electric_age",
   "icon": "modern_industrialization:electric_blast_furnace",
   "pages": [
     {
       "type": "crafting",
       "recipe": "modern_industrialization:electric_age/machine/electric_blast_furnace_asbl",
-      "text": "The Electric Blast Furnace is the electric version of the Steam Blast Furnace. It unlocks new recipes and like other multiblock electric machines, its overclock is bounded to 128 EU/t by default."
+      "text": "電力高爐是蒸汽高爐的電動版本。它可以解鎖新配方，並且與其他多方塊電動機器一樣，預設情況下其超頻限制為 128 EU/t。"
     },
     {
       "type": "crafting",
       "recipe": "modern_industrialization:generated/materials/cupronickel/craft/coil",
-      "text": "The EBF is made of one layer of Heatproof Machine Casings, two hollow layers of Cupronickel Coils and one other layer of Heatproof Machine Casings. The controller must go on the bottom layer, and hatches on the top or bottom layer."
+      "text": "EBF 由一層耐熱機器外殼、兩層空心白銅線圈和另一層耐熱機器外殼組成。控制器必須在底層，在頂層或底層上有艙。"
     },
     {
       "type": "crafting",
       "recipe": "modern_industrialization:generated/hatches/basic/energy_input_hatch",
-      "text": "Don't forget to add Energy Input Hatch(es) or the EBF won't have energy! The LV Energy Input Hatch will only connect to LV cables."
+      "text": "不要忘記添加能量輸入艙，否則 EBF 將沒有能量！LV 能量輸入艙口僅連接到 LV 電纜。"
     },
     {
       "type": "crafting",
       "recipe": "modern_industrialization:generated/hatches/advanced/energy_input_hatch",
-      "text": "MV Energy Input Hatches will only connect to MV cables, which can be useful if you need a ton of energy for your EBF! You can't craft them yet, but keep in mind they exist..."
+      "text": "MV 能量輸入艙口僅連接到 MV 電纜，如果您的 EBF 需要大量能量，這將非常有用！你還不能合成它們，但請記住它們存在......"
     }
   ],
   "sortnum": 105
