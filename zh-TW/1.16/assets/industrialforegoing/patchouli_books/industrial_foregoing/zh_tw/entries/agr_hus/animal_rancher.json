@@ -10,7 +10,7 @@
       "text": "一台用於 $(6)剪刀$() 綿羊和 $(6)牛奶$() 牛的機器。"
     },
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "industrialforegoing:animal_rancher"
     }
   ]
