@@ -1,24 +1,24 @@
 {
-  "name": "Electricity",
+  "name": "電力",
   "category": "modern_industrialization:electric_age",
   "icon": "modern_industrialization:lv_steam_turbine",
   "pages": [
     {
       "type": "crafting",
       "recipe": "modern_industrialization:electric_age/machine/steam_turbine_asbl",
-      "text": "The Steam Turbine uses Steam to produce electricity. It converts every mb of Steam to 1 EU, up to 32 mb converted every tick."
+      "text": "蒸汽輪機使用蒸汽來發電。它將蒸汽的每 mb 轉換為 1 EU，每刻轉換最多 32 mb。"
     },
     {
       "type": "text",
-      "text": "The Steam Turbine will automatically send electricity to any machine connected directly to its output side. It will only connect to cables placed on its output side. It has the Low Voltage (LV) $(thing)Tier$().$(br2)Every electric cable has a Tier which determines how many EU/t it can transfer and to which machines it can connect. Copper, Silver and Tin are LV, Cupronickel and Electrum are MV, and so on..."
+      "text": "蒸汽輪機將自動向直接連接到其輸出端的任何機器供電。它只會連接到放置在其輸出側的電纜。它具有低電壓 (LV) $(thing)Tier$()。$(br2)每條電纜都有一個層級，它決定了它可以傳輸多少 EU/t 以及它可以連接到哪些機器。銅、銀和錫是 LV，白銅和琥珀金是 MV，依此類推..."
     },
     {
       "type": "text",
-      "text": "Cable networks have limitations on the amount of energy they will pull into the network: at most 256 EU/t for LV cables, 1024 EU/t for MV cables and 4096 EU/t for HV cables. Because there is no output limit for the network and because cables have a small internal storage, an LV network can provide more than 256 EU/t for a short amount of time.$(br2)Note however that single block electric machines will only connect to LV cables!"
+      "text": "電纜網路對進入網路的能量有限制：LV 電纜最多 256 EU/t，MV 電纜最多 1024 EU/t，HV 電纜最多 4096 EU/t。由於網路沒有輸出限制，而且電纜的內部儲存空間較小，因此 LV 網路可以在短時間內提供超過 256 EU/t 的電力。$(br2)但請注意，單方塊電動機器只能連接到 LV 電纜！"
     },
     {
       "type": "text",
-      "text": "To transfer more energy, you need to either create multiple pipe networks or use Transformers. As you would expect, an X to Y Transformer will connect to Y cables on its output side and to X cables on its 5 other sides."
+      "text": "要傳輸更多能量，您需要創建多個管網或使用變壓器。正如您所料，X 到 Y 變壓器將連接到其輸出側的 Y 電纜和其其他 5 側的 X 電纜。"
     },
     {
       "type": "crafting",
