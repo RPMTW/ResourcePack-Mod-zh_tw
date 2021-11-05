@@ -25,8 +25,8 @@
     },
     {
       "type": "text",
-      "title": "Note",
-      "text": "The item pipes are on whitelist by default (which mean only the items in the filter will be moved). You need to switch to blacklist (only the items NOT in the filter will be moved) or add the item you want to move to the filter. Be careful that you need to configure both sides of the pipe, otherwise items will not move."
+      "title": "備註",
+      "text": "預設情況下，物流管道在白名單上（這意味著只會移動過濾器中的物品）。您需要切換到黑名單（只有不在過濾器中的物品將被移動）或將您要移動的物品添加到過濾器。注意需要配置管道的兩側，否則物品將不會移動。"
     }
   ],
   "sortnum": 4
