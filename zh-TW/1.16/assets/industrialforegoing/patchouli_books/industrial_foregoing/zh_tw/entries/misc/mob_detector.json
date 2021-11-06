@@ -7,7 +7,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "This machine will detect how many entities are in front of it and it will emit a redstone signal in the back with the same strength as the amount of entities detected."
+      "text": "這台機器將偵測前方的實體數量，並在後方發出紅石信號，其強度與偵測到的實體數量相同。(最高15級)"
     },
     {
       "type": "crafting",
