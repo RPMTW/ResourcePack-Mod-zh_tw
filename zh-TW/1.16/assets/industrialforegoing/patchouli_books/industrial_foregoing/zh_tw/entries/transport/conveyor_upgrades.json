@@ -1,5 +1,5 @@
 {
-  "name": "Conveyor Upgrades",
+  "name": "輸送帶升級",
   "icon": "industrialforegoing:conveyor_extraction_upgrade",
   "category": "transport",
   "sortnum": 1,
@@ -8,13 +8,13 @@
     {
       "type": "spotlight",
       "item": "industrialforegoing:conveyor_extraction_upgrade",
-      "title": "精煉",
-      "text": "Extracts items and fluids from inventories. It can extract items from player inventories too. $(br2)Items and fluids that need to be extracted can be filtered in the gui."
+      "title": "提取",
+      "text": "從庫存庫存中提取物品和流體。它也可以從玩家物品欄中提取物品。$(br2)需要提取的物品和流體可以在GUI中過濾。"
     },
     {
       "type": "spotlight",
       "item": "industrialforegoing:conveyor_insertion_upgrade",
-      "title": "Insertion",
+      "title": "輸入",
       "text": "Inserts items and fluids to inventories. It has 2 modes, insert items that touch the conveyor or insert items that directly touch the upgrade. $(br2)Items and fluids that need to be inserted can be filtered in the gui."
     },
     {
