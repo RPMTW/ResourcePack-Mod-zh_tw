@@ -14,7 +14,7 @@
     "item.stalagnate_bowl_wart.name": "石筍碗盛裝的地獄疣湯",
     "itemGroup.better_nether": "更好的地獄",
     "message.spawn_help": "§c§l你必須使用螢光石粉來在此設立重生點",
-    "message.spawn_set": "§2§l你的重生點已設置",
+    "message.spawn_set": "§2§l你的重生點已設定",
     "tile.agave.name": "龍舌蘭",
     "tile.barrel_cactus.name": "桶型仙人掌",
     "tile.black_apple_seed.name": "黑蘋果芽",
@@ -132,7 +132,7 @@
     "tile.stalagnate_planks_stairs.name": "石筍階梯",
     "tile.stalagnate_seed.name": "石筍芽",
     "tile.wart_seed.name": "地獄疣芽",
-    "commands.findnethercity.usage.console": "輸入內容中沒有座標",
-    "commands.findnethercity.usage.coordinates": "錯誤的座標",
-    "commands.findnethercity.usage": "錯誤的用法， 必須是 /findNetherCity 或 /findNetherCity x y z"
+    "commands.findnethercity.usage.console": "輸入內容中沒有坐標！",
+    "commands.findnethercity.usage.coordinates": "錯誤的坐標！",
+    "commands.findnethercity.usage": "錯誤的用法，必須是 /findNetherCity 或 /findNetherCity x y z"
 }
