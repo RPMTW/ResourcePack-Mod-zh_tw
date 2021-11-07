@@ -90,7 +90,7 @@
     "tooltip.spartanshields.shield_signalum.desc": "對擊中盾牌的敵人造成(%ds)虛弱效果",
     "tooltip.spartanshields.shield_sumium.desc": "對擊中盾牌的敵人造成(%ds)發光效果",
     "tooltip.spartanshields.shield_snderium.desc": "對擊中盾牌的敵人造成(%ds)緩慢效果",
-    "tooltip.spartanshields.shield_elementium.desc": "在被敵人擊中時有(%d%%)機率生成小精靈",
+    "tooltip.spartanshields.shield_elementium.desc": "在被敵人擊中時有(d%%)機率生成小精靈",
     "tooltip.spartanshields.rf_capacity": "%d/%d RF",
     "tooltip.spartanshields.rf_charge_rate": "耗能：%d RF/t",
     "tooltip.spartanshields.rf_per_damage": "每吸收1心傷害消耗 %d RF",
@@ -103,7 +103,7 @@
     "tooltip.spartanshields.fe_per_damage": "每吸收1心傷害消耗 %d FE",
     "tooltip.spartanshields.fe_shield.desc": "相容RF，終界介面μI，Forge能量等能源api。",
     "tooltip.spartanshields.has_patterns": "具有以下旗幟圖案：",
-    "tooltip.spartanshields.cant_craft_missing_mods": "不能製作，缺少的模組為：%s",
+    "tooltip.spartanshields.cant_craft_missing_mods": "不能製作，缺少的mod為：",
     "tooltip.spartanshields.cant_craft_missing_material": "不能製作，缺少擁有 %s 材料的mod。",
     "enchantment.spartanshields.spikes": "盾纏尖刺",
     "enchantment.spartanshields.spikes.desc": "舉盾時，擊中盾牌的敵人會受到傷害",
@@ -124,6 +124,6 @@
     "book.spartanshields.entry.elementium_shield": "源質鋼盾牌",
     "book.spartanshields.page.elementium_shield0": "Using the exotic material $(item)Elementium$() from $(thing)Alfheim$(), another new variant of shield is available to make. It has a similar durability to the $(item)Manasteel Shield$(), but has an extra effect. Like $(l:tools/elf_gear)$(item)Elementium Tools$(), when hurt, there is a chance to spawn a $(thing)Pixie$().$(br2)This shield is also capable of performing a $(thing)Shield Bash$() by blocking and pressing $(2)$(k:attack)$().",
     "book.spartanshields.page.elementium_shield1": "The $(item)Elementium Plated Shield$()",
-    "message.spartanshields.powered_shield_block_fail": "無法吸收傷害，%s沒有能量了……",
+    "message.spartanshields.powered_shield_block_fail": "無法吸收傷害，盾沒有能量了……",
     "message.spartanshields.event_bus_shutdown_error": "[嚴重錯誤]一個模組導致事件匯流排在註冊之前/期間關閉，這個錯誤阻止了Spartan Shields（既本模組）註冊物品！檢查您的日誌報告，找出導致此問題的模組！"
 }
