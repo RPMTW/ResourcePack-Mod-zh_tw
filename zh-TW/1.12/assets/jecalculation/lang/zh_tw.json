@@ -13,7 +13,7 @@
     "jecalculation.gui.craft.inventory_enabled": "啟用物品欄檢測",
     "jecalculation.gui.craft.inventory_disabled": "停用物品欄檢測",
     "jecalculation.gui.craft.recipe": "新建配方",
-    "jecalculation.gui.craft.history": "瀏覽歷史",
+    "jecalculation.gui.craft.history": "歷史記錄",
     "jecalculation.gui.craft.help": "歡迎來到本模組的主介面。建議您首先使用右上角的兩個按鈕來導入配方以便後續的配方創建與編輯。當配方被記錄後，計算方可開始。若要算出某件物品的製作耗材，只需從JEI中選取目標物品並拖入介面左上角的欄位中，並逐個紀錄配方疊代。計算的結果將顯示在介面下方的欄位中。結果欄位上方的四個按鈕分別提供了配方的輸入總覽顯示、輸出總覽顯示、催化劑（如工作檯、合金爐、扳手等參與合成或提供合成環境但不消耗的物品）總覽顯示以及合成步驟總覽顯示。左上方的按鈕允許你加入及編輯「標籤」。「標籤」是本模組的重要組成部分，它在計算中指代著所有配方的參與者。配方中牽扯到的物品、流體、礦物辭典，甚至只是一個占位符，都以一個個「標籤」的形式參與JEC合成計算器的計算。只要操作正確，本模組定將助您一臂之力。",
     "jecalculation.gui.craft.title": "合成計算器",
     "jecalculation.gui.craft.label": "加入算子",
