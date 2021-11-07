@@ -38,8 +38,8 @@
     "tooltip.cookingforblockheads:cow_jar.description": "緩慢產出牛奶。",
     "tooltip.cookingforblockheads:toaster.description": "用魔法將麵包變成吐司。",
     "tooltip.cookingforblockheads:spice_rack.description": "儲存調料和原料。",
-    "tooltip.cookingforblockheads:counter.description": "儲存烹飪所需原料。",
-    "tooltip.cookingforblockheads:cabinet.description": "可以放在廚房紅磚上方的牆上。",
+    "tooltip.cookingforblockheads:counter.description": "提供烹飪原料。",
+    "tooltip.cookingforblockheads:cabinet.description": "可以放在廚房磚塊上方的牆上。",
     "tooltip.cookingforblockheads:corner.description": "沒有特殊的用途。",
     "tooltip.cookingforblockheads:kitchen_floor.description": "沒有特殊的用途。",
     "tooltip.cookingforblockheads:heating_unit.description": "允許使用能量加熱烤箱。",
@@ -51,7 +51,7 @@
     "tooltip.cookingforblockheads:can_be_placed_in_world": "可以放置。",
     "gui.cookingforblockheads:no_ingredients": "\\n \\n 食材不足",
     "gui.cookingforblockheads:no_selection": "在右邊選定項目\\n\n以查看食譜。",
-    "tooltip.cookingforblockheads:click_to_see_recipe": "點擊查看合成",
+    "tooltip.cookingforblockheads:click_to_see_recipe": "點擊查看食譜",
     "tooltip.cookingforblockheads:click_to_craft_one": "點擊合成食物",
     "tooltip.cookingforblockheads:click_to_smelt_one": "點擊烹飪食物",
     "tooltip.cookingforblockheads:click_to_craft_stack": "Shift點擊烹飪一組",
@@ -74,7 +74,7 @@
     "container.cookingforblockheads:counter": "廚櫃",
     "container.cookingforblockheads:cabinet": "廚房櫥櫃",
     "container.cookingforblockheads:fruit_basket": "水果籃",
-    "itemGroup.cookingforblockheads": "傻瓜式烹飪",
+    "itemGroup.cookingforblockheads": "傻瓜烹飪手冊",
     "waila.cookingforblockheads:milk_stored": "儲存牛奶：%d/%d",
     "waila.cookingforblockheads:toast_progress": "烘烤中……（%s）",
     "waila.cookingforblockheads:heating_unit": "升級：加熱器",
@@ -86,5 +86,5 @@
     "cookingforblockheads:subtitle.oven_close": "烤箱關上",
     "cookingforblockheads:subtitle.toaster_start": "吐司機烤製吐司",
     "cookingforblockheads:subtitle.toaster_stop": "吐司機完成烤製",
-    "jei.cookingforblockheads:cow_jar": "罐中乳牛"
+    "jei.cookingforblockheads:cow_jar": "罐中奶牛"
 }
