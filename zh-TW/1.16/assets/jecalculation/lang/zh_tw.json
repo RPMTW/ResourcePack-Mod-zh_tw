@@ -14,7 +14,7 @@
     "jecalculation.gui.craft.inventory_enabled": "啟用物品欄檢測",
     "jecalculation.gui.craft.inventory_disabled": "停用物品欄檢測",
     "jecalculation.gui.craft.recipe": "新建配方",
-    "jecalculation.gui.craft.history": "瀏覽歷史",
+    "jecalculation.gui.craft.history": "歷史記錄",
     "jecalculation.gui.craft.help": "歡迎來到本模組的主介面！首先，我建議你使用右上角的兩個按鈕來加入/編輯配方。配方是本模組的核心，而且，抱歉，只能手動載入。當你加入了計算所需的所有配方，你只需要從JEI物品列表中抓取所需計算的物品，放入左上角的欄位，結果就會自動顯示在下方的列表中。通過下方的四個按鈕，你可以在輸入，額外輸出，催化劑和合成步驟中切換。\f你可以使用左上角的按鈕來插入算子。「算子」是本模組運算的的核心，本質上任何可以放入物品槽的東西都是一種算子。最簡單的是物品棧，但是你還可以創建更高級的算子，諸如流體棧，礦物詞典或者僅僅是一個占位符。在運算過程中，相同的算子會自動關聯。除此之外，礦物詞典算子或者帶有模糊設定的物品棧算子還會智慧地與其他匹配的算子相關聯。",
     "jecalculation.gui.craft.title": "合成計算器",
     "jecalculation.gui.craft.label": "加入算子",
