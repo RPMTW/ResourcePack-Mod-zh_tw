@@ -6,7 +6,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "$(item)靜電壓縮機/$是一個$(l:base_concepts/pressure_tiers)二級/$空氣$(l:base_concepts/pressure)壓縮機/$，使用(thing)閃電/$作為壓縮空氣的能源。$(p)其被閃電擊中時將立刻產生 200000 mL 的空氣。看起來很多，但你又看見過幾次高壓苦力怕？這樣的產出只有在被閃電擊中時才會發生。"
+      "text": "$(item)靜電壓縮機/$是一個$(l:base_concepts/pressure_tiers)二級/$空氣$(l:base_concepts/pressure)壓縮機/$，使用(thing)閃電/$作為壓縮空氣的能源。$(p)其被閃電擊中時將立刻產生 200000 mL 的空氣。看起來很多，但你又看見過幾次閃電苦力怕？這樣的產出只有在被閃電擊中時才會發生。"
     },
     {
       "type": "text",
