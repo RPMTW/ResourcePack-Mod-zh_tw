@@ -2,20 +2,20 @@
   "armormodifier": "fire_resistant_armor",
   "text": [
     {
-      "text": "Coating your armor in fire resistant material will make it harder to burn you."
+      "text": "採用烈焰粉作為塗層塗抹在護甲上將使護甲更加耐燃燒。"
     },
     {
       "text": "\n"
     },
     {
-      "text": "It's just science."
+      "text": "這就是科學。"
     }
   ],
   "effects": [
-    "Reduces damage from fire and lava",
-    "Requires only 1 modifier",
-    "Not compatible with other resists",
-    "Multiple levels"
+    "提供火焰保護",
+    "只需要一個強化槽",
+    "與其他保護衝突",
+    "多個等級"
   ],
   "demoArmor": [
     "conarm:helmet",
