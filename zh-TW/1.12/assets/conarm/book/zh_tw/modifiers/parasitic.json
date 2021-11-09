@@ -2,12 +2,12 @@
   "armormodifier": "parasitic_armor",
   "text": [
     {
-      "text": "Attaching the bone of a Wither Skeleton to your armor gives it parasitic abilities."
+      "text": "將凋零之骨附著在護甲上將獲得寄生的能力。"
     }
   ],
   "effects": [
-    "Steals life from you to repair itself",
-    "Won't kill you and will only take when necessary",
+    "竊取回復耐久",
+    "不會偷光你的生命，只會在必要的時候啟用",
     "只能強化一次"
   ],
   "demoArmor": [
