@@ -6,7 +6,7 @@
     {
       "type": "spotlight",
       "item": "outvoted:void_heart",
-      "text": "The heart of the $(l:entity/glutton)Glutton$(/l), when crafted alongside an item, it will reset that item's repair cost (A.K.A. resets the Too Expensive! message)."
+      "text": "$(l:entity/glutton)暴食者$(/l)的心臟，當與物品一起製作時，它會重置該物品的維修成本（也就是重置「太貴了！」訊息）。"
     }
   ]
 }
