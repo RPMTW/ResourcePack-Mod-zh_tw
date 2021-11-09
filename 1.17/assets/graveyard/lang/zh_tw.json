@@ -45,10 +45,20 @@
     "block.graveyard.wither_skull_with_rib_cage": "Wither Skull and Rib Cage",
     "block.graveyard.creeper_skeleton": "Creeper Skeleton",
     "block.graveyard.dark_iron_bars": "Dark Iron Bars",
-    "block.graveyard.gravestone": "Gravestone",
+    "block.graveyard.gravestone": "Polished Basalt Gravestone",
     "entity.graveyard.skeleton_creeper": "Skeleton Creeper",
     "item.graveyard.skeleton_creeper_spawn_egg": "Skeleton Creeper Spawn Egg",
     "filled_map.graveyard:large_walled_graveyard": "Large Graveyard Explorer Map",
     "itemGroup.graveyard.group": "The Graveyard",
-    "gravestone.edit": "Edit Gravestone"
+    "gravestone.edit": "Edit Gravestone",
+    "block.graveyard.cobblestone_gravestone": "Cobblestone Gravestone",
+    "block.graveyard.mossy_cobblestone_gravestone": "Mossy Cobblestone Gravestone",
+    "block.graveyard.deepslate_gravestone": "Deepslate Gravestone",
+    "item.graveyard.bone_dagger": "Bone Dagger",
+    "entity.graveyard.acolyte": "Acolyte",
+    "item.graveyard.acolyte_spawn_egg": "Acolyte Spawn Egg",
+    "entity.graveyard.ghoul": "Ghoul",
+    "item.graveyard.ghoul_spawn_egg": "Ghoul Spawn Egg",
+    "entity.graveyard.reaper": "Reaper",
+    "item.graveyard.reaper_spawn_egg": "Reaper Spawn Egg"
 }

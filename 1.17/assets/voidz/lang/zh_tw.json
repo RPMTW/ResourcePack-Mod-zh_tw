@@ -2,5 +2,8 @@
     "block.voidz.void_portal": "Void Portal",
     "block.voidz.void": "Void",
     "block.voidz.infested_void": "Infested Void",
-    "death.attack.void": "%1$s was absorbed by the void"
+    "death.attack.void": "%1$s was absorbed by the void",
+    "text.autoconfig.voidz.title": "VoidZ Config",
+    "text.autoconfig.voidz.option.allow_boss_respawn": "Allow Boss Respawn",
+    "text.autoconfig.voidz.option.boss_respawn_time": "Boss Respawn Time"
 }

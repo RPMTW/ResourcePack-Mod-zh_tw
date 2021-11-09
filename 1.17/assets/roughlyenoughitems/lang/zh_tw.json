@@ -269,5 +269,12 @@
     "text.rei.inventory.highlighting.enabled.tooltip": "This makes slots that does not match\nthe search filter gray.\nDouble click the search bar to toggle this mode.",
     "text.rei.too_long_nbt": "§cItem NBT is too long to be applied in multiplayer.",
     "text.rei.tag_match": "Tag: %s",
-    "text.rei.performance": "Performance Analysis"
+    "text.rei.performance": "Performance Analysis",
+    "text.rei.shift_click_to": "Shift-Click to %s",
+    "config.roughlyenoughitems.layout.mergeDisplayUnderOne": "Merge Displays with Equal Contents:",
+    "config.roughlyenoughitems.layout.maxRecipesPageHeight": "Maximum Recipes Page Height:",
+    "config.roughlyenoughitems.horizontalEntriesBoundariesColumns": "Entries Columns Limit:",
+    "config.roughlyenoughitems.verticalEntriesBoundariesRows": "Entries Rows Limit:",
+    "config.roughlyenoughitems.favoritesHorizontalEntriesBoundaries": "Horizontal Favorites Boundaries:",
+    "config.roughlyenoughitems.favoritesHorizontalEntriesBoundariesColumns": "Favorites Columns Limit:"
 }
