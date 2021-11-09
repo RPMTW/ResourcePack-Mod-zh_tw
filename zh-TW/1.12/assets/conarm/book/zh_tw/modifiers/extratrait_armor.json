@@ -1,0 +1,17 @@
+{
+  "armormodifier": "extratrait_armor",
+  "text": [
+    {
+      "text": "Take an armor part and emboss it right onto your armor! The armor takes on the trait(s) of the armor part, but not the stats."
+    }
+  ],
+  "effects": [
+    "取得部件屬性",
+    "效果類似部件替換",
+    "刻印強化是永久的，無法被改變",
+    "不需要強化槽"
+  ],
+  "demoArmor": [
+    "conarm:chestplate"
+  ]
+}
