@@ -1,0 +1,19 @@
+{
+  "armormodifier": "reinforced_armor",
+  "text": [
+    {
+      "text": "Adding a reinforced plate to the armor seems to help with its durability, making it stronger."
+    }
+  ],
+  "effects": [
+    "使用工具有機率不消耗耐久",
+    "強化等級可以堆疊",
+    "多個等級"
+  ],
+  "demoArmor": [
+    "conarm:helmet",
+    "conarm:chestplate",
+    "conarm:leggings",
+    "conarm:boots"
+  ]
+}
