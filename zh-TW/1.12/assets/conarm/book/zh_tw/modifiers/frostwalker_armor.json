@@ -2,20 +2,20 @@
   "armormodifier": "frostwalker_armor",
   "text": [
     {
-      "text": "Attaching some super cold soles to your feet could be cold enough to freeze water."
+      "text": "將一些冰磚和荷葉捆在靴子上也許能夠冷到足以凍結周圍的水。"
     },
     {
       "text": "\n"
     },
     {
-      "text": "Maybe doing it again could make it more powerful?"
+      "text": "或許在做一次能夠使它更加強大？"
     }
   ],
   "effects": [
-    "Freezes nearby water",
-    "Negates damage from walking over hot surfaces",
-    "Can only be applied to boots",
-    "Multiple levels"
+    "凍結周圍的水",
+    "行走在岩漿塊上不會受到傷害",
+    "僅適用於靴子",
+    "多個等級"
   ],
   "demoArmor": [
     "conarm:boots"
