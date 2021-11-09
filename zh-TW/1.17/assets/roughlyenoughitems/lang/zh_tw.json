@@ -269,5 +269,12 @@
     "text.rei.inventory.highlighting.enabled.tooltip": "不符合搜尋關鍵字的物品將顯示為灰色背景。\n雙擊搜尋欄以開啟/關閉該模式。",
     "text.rei.too_long_nbt": "§c物品 NBT 過長，不能應用於多人遊戲。",
     "text.rei.tag_match": "Tag: %s",
-    "text.rei.performance": "Performance Analysis"
+    "text.rei.performance": "Performance Analysis",
+    "text.rei.shift_click_to": "Shift-Click to %s",
+    "config.roughlyenoughitems.layout.mergeDisplayUnderOne": "Merge Displays with Equal Contents:",
+    "config.roughlyenoughitems.layout.maxRecipesPageHeight": "Maximum Recipes Page Height:",
+    "config.roughlyenoughitems.horizontalEntriesBoundariesColumns": "Entries Columns Limit:",
+    "config.roughlyenoughitems.verticalEntriesBoundariesRows": "Entries Rows Limit:",
+    "config.roughlyenoughitems.favoritesHorizontalEntriesBoundaries": "Horizontal Favorites Boundaries:",
+    "config.roughlyenoughitems.favoritesHorizontalEntriesBoundariesColumns": "Favorites Columns Limit:"
 }
