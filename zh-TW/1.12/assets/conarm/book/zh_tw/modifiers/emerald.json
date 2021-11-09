@@ -2,13 +2,13 @@
   "armormodifier": "emerald_armor",
   "text": [
     {
-      "text": "Coating your armor in emerald increases its resilience and increases envy among villagers."
+      "text": "採用綠寶石作為塗層塗抹在護甲上將使護甲更具韌性，並增加了村民的嫉妒心。"
     }
   ],
   "effects": [
     "增加工具50%的耐久",
     "只能強化一次",
-    "Outrageous!"
+    "太離譜了！"
   ],
   "demoArmor": [
     "conarm:helmet",
