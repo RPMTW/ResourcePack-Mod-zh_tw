@@ -1,0 +1,19 @@
+{
+  "armormodifier": "soulbound_armor",
+  "text": [
+    {
+      "text": "A perfect match. You love your armor. Not even death can part you from it."
+    }
+  ],
+  "effects": [
+    "Armor remains in your inventory after death",
+    "只能強化一次",
+    "不需要強化槽"
+  ],
+  "demoArmor": [
+    "conarm:helmet",
+    "conarm:chestplate",
+    "conarm:leggings",
+    "conarm:boots"
+  ]
+}
