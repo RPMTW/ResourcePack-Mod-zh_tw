@@ -2,20 +2,20 @@
   "armormodifier": "projectile_resistant_armor",
   "text": [
     {
-      "text": "Attaching some more aerodynamic plating to your armor should allow you to reduce projectile damage."
+      "text": "將羽毛附著在護甲上會使你更加輕盈，並增加抗射性。"
     },
     {
       "text": "\n"
     },
     {
-      "text": "Trust us on this one."
+      "text": "這將是極好的。"
     }
   ],
   "effects": [
-    "Reduces damage from projectiles",
-    "Requires only 1 modifier",
-    "Not compatible with other resists",
-    "Multiple levels"
+    "提供彈射保護",
+    "只需要一個強化槽",
+    "與其他保護衝突",
+    "多個等級"
   ],
   "demoArmor": [
     "conarm:helmet",
