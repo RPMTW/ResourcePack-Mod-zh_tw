@@ -2,19 +2,19 @@
   "armormodifier": "shulkerweight_armor",
   "text": [
     {
-      "text": "Smearing some popped chorus fruit on your armor should give you a much stronger jump."
+      "text": "在護甲上塗抹一些爆裂歌萊果應該會顯著增強跳躍能力。"
     },
     {
       "text": "\n"
     },
     {
-      "text": "Be careful on the landing though!"
+      "text": "請小心著陸！"
     }
   ],
   "effects": [
-    "Each popped chorus fruit increases jump by a small amount",
-    "Does not protect against fall damage",
-    "Single level"
+    "不同部位護甲跳躍屬性可疊加",
+    "不能防止摔落傷害",
+    "單個等級"
   ],
   "demoArmor": [
     "conarm:helmet",
