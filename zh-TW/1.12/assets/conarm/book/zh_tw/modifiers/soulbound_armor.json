@@ -2,11 +2,11 @@
   "armormodifier": "soulbound_armor",
   "text": [
     {
-      "text": "A perfect match. You love your armor. Not even death can part you from it."
+      "text": "完美的搭配，你和你的護甲簡直是天造地設的般配。甚至死亡都不能讓你們分離。"
     }
   ],
   "effects": [
-    "Armor remains in your inventory after death",
+    "玩家死後復活，工具仍舊能保存在物品欄",
     "只能強化一次",
     "不需要強化槽"
   ],
