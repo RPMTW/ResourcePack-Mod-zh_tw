@@ -2,12 +2,12 @@
   "armormodifier": "mending_armor",
   "text": [
     {
-      "text": "Some moss has grown on the worn out edges of your armor. Enchanting it with some XP causes it to fuse with the armor, restoring it gradually."
+      "text": "你用舊的護甲邊緣長了些苔蘚。用一些經驗來附魔能讓它與護甲融合，從而逐步的修復它。"
     }
   ],
   "effects": [
-    "Stores collected XP",
-    "Slowly repairs the armor over time",
+    "吸取撿起的經驗球",
+    "隨著時間推移修復耐久",
     "多個等級"
   ],
   "demoArmor": [
