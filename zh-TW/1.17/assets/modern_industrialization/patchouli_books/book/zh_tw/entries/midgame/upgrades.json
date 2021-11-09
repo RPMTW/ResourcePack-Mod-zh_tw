@@ -12,13 +12,13 @@
     {
       "type": "crafting",
       "recipe": "modern_industrialization:tools/crowbar",
-      "text": "Shift + 按右鍵帶有撬棍的機器以刪除它包含的升級。對它按右鍵以移除其升級後的機身並將其更改回 LV 層。 等等，你能做到嗎？..."
+      "text": "Shift + 按右鍵帶有撬棍的機器以刪除它包含的升級。對它按右鍵以移除其升級後的機身並將其更改回低壓層。 等等，你能做到嗎？..."
     },
     {
       "type": "spotlight",
       "title": "機身升級",
       "item": "modern_industrialization:advanced_machine_hull",
-      "text": "是的你可以！ 右鍵單擊具有高級機身的機器將其更改為 MV 層：它現在將僅接受 MV 電纜連接。用撬棍按右鍵移除升級。"
+      "text": "是的你可以！對具有高級機身的機器按右鍵將其更改為中壓層：它現在將僅接受中壓電纜連接。用撬棍按右鍵移除升級。"
     }
   ],
   "sortnum": 200
