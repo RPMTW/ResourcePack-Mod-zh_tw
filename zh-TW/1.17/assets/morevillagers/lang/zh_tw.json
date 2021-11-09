@@ -54,5 +54,20 @@
     "Tame a cat in a village.": "在村莊裡馴服一隻貓。",
     "block.morevillagers.mining_bench": "採礦台",
     "filled_map.mineshaft": "礦井探險家地圖",
-    "entity.minecraft.villager.morevillagers.miner": "礦工"
+    "entity.minecraft.villager.morevillagers.miner": "礦工",
+    "text.autoconfig.morevillagers.title": "MoreVillagers Config",
+    "text.autoconfig.morevillagers.option.GENERATE_PLAINS_HOUSES": "Generate Plains Houses",
+    "text.autoconfig.morevillagers.option.GENERATE_TAIGA_HOUSES": "Generate Taiga Houses",
+    "text.autoconfig.morevillagers.option.GENERATE_SAVANNA_HOUSES": "Generate Savanna Houses",
+    "text.autoconfig.morevillagers.option.GENERATE_SNOWY_HOUSES": "Generate Snowy Houses",
+    "text.autoconfig.morevillagers.option.GENERATE_DESERT_HOUSES": "Generate Desert Houses",
+    "itemGroup.morevillagers.item_group": "More Villagers",
+    "entity.minecraft.villager.oceanographer": "Oceanographer",
+    "entity.minecraft.villager.netherian": "Netherologist",
+    "entity.minecraft.villager.woodworker": "Forester",
+    "entity.minecraft.villager.enderian": "Enderologist",
+    "entity.minecraft.villager.engineer": "Engineer",
+    "entity.minecraft.villager.florist": "Florist",
+    "entity.minecraft.villager.hunter": "Hunter",
+    "entity.minecraft.villager.miner": "Miner"
 }
