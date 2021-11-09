@@ -2,13 +2,13 @@
   "armormodifier": "powerful_armor",
   "text": [
     {
-      "text": "Attaching this gauntlet of power should give a general increase in attack power."
+      "text": "佩戴力量護手的胸甲將顯著提高攻擊傷害。"
     }
   ],
   "effects": [
     "增加攻擊力",
-    "Can only be applied to chestplates",
-    "Cannot be applied with Telekinetic or Dexterous",
+    "僅適用於胸甲",
+    "與其他護手強化衝突",
     "只能強化一次"
   ],
   "demoArmor": [
