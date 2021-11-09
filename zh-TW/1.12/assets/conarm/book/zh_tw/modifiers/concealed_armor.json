@@ -2,19 +2,19 @@
   "armormodifier": "concealed_armor",
   "text": [
     {
-      "text": "Applying some invisible ink will render your armor invisible to the naked eye."
+      "text": "塗抹一些隱性墨水在護甲上，能夠讓它變得肉眼不可見。"
     },
     {
       "text": "\n"
     },
     {
-      "text": "Purely cosmetic."
+      "text": "僅用於裝飾。"
     }
   ],
   "effects": [
-    "Renders your armor invisible",
-    "Requires no modifier",
-    "Cannot be used with the Traveller's Cloak of Invisibility"
+    "讓你的護甲變得隱形",
+    "不需要強化槽",
+    "不能用於旅行者披風"
   ],
   "demoArmor": [
     "conarm:helmet",
