@@ -22,5 +22,11 @@
     "options.iris.shaders.disabled": "光影：已停用",
     "options.iris.shaders.enabled": "光影：已啟用",
     "pack.iris.select.title": "選擇",
-    "pack.iris.list.label": "+ 拖放光影以加入"
+    "pack.iris.list.label": "+ 拖放光影以加入",
+    "iris.sodium.failure.title": "Iris failed to load!",
+    "iris.sodium.failure.reason": "You have Sodium in your mods folder, however Iris includes it. Please close the game, and remove Sodium from your mods folder.",
+    "options.iris.shadowDistance": "Max Shadow Distance",
+    "options.iris.shadowDistance.enabled": "Allows you to change the maximum distance for shadows. Terrain and entities beyond this distance will not cast shadows. Lowering the shadow distance can significantly increase performance.",
+    "options.iris.shadowDistance.disabled": "Your current shader pack has already set a render distance for shadows; you cannot change it.",
+    "options.iris.shadowDistance.sodium_tooltip": "The shadow render distance controls how far away terrain can potentially be rendered in the shadow pass. Lower distances mean that less terrain will be rendered, improving frame rates. This option cannot be changed on packs which explicitly specify a shadow render distance. The actual shadow render distance is capped by the View Distance setting."
 }
