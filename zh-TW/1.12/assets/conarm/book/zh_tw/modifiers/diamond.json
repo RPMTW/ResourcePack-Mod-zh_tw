@@ -2,14 +2,14 @@
   "armormodifier": "diamond_armor",
   "text": [
     {
-      "text": "Adding a diamond coating to an armor makes it more resilient and increases its protective power."
+      "text": "採用鑽石作為塗層塗抹在護甲上將使護甲更具韌性和防護能力。"
     }
   ],
   "effects": [
     "增加耐久度",
-    "Minor armor and toughness increase",
+    "增加護甲值和韌性",
     "只能強化一次",
-    "Fabulous!"
+    "太棒了！"
   ],
   "demoArmor": [
     "conarm:helmet",
