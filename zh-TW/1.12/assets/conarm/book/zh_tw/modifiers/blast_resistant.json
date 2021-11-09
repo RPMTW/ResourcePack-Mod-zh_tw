@@ -2,20 +2,20 @@
   "armormodifier": "blast_resistant_armor",
   "text": [
     {
-      "text": "Reinforcing your armor with some blast resistant plating will surely allow you to resist explosions better."
+      "text": "用一塊堅硬的磚塊包囊你的護甲一定能讓你獲得更好的抗爆效果。"
     },
     {
       "text": "\n"
     },
     {
-      "text": "No cement necessary, probably."
+      "text": "這樣便省去了水泥的消耗。"
     }
   ],
   "effects": [
-    "Reduces damage from explosions",
-    "Requires only 1 modifier",
-    "Not compatible with other resists",
-    "Multiple levels"
+    "提供爆炸保護",
+    "只需要一個強化槽",
+    "與其他保護衝突",
+    "多個等級"
   ],
   "demoArmor": [
     "conarm:helmet",
