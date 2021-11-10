@@ -1,10 +1,10 @@
 {
     "item.heart_container.name": "心之容器",
     "item.heart_piece.name": "心之碎片",
-    "text.levelhearts.heartadded": "Your life has increased by one.",
-    "text.levelhearts.replenished": "Your health is now fully replenished!",
+    "text.levelhearts.heartadded": "你的生命值增加了一。",
+    "text.levelhearts.replenished": "你的生命值現在已經完全恢復了！",
     "text.levelhearts.disabled": "此物品已停用。如果您有任何問題，請聯繫系統管理員。",
     "text.levelhearts.hardcore": "哦不！你失去了所有的進度。您的生命已重置為預設狀態。",
     "text.levelhearts.punish": "作為對你的死亡的懲罰，你失去了 %d 顆心！",
-    "text.levelhearts.healed": "You have been healed %d hearts!"
+    "text.levelhearts.healed": "你已經回復了 %d 顆心！"
 }
