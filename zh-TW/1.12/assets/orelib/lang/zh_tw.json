@@ -13,10 +13,10 @@
     "orelib.format.Sunset": "日落",
     "orelib.format.Daytime": "白天",
     "orelib.format.Nighttime": "夜晚",
-    "config.orelib.logging": "Logging Options",
-    "config.orelib.logging.tooltip": "Defines how OreLib logging will behave",
-    "config.orelib.logging.enableLogging": "Debug Logging",
-    "config.orelib.logging.enableLogging.tooltip": "Enables/disables debug logging of the mod",
-    "config.orelib.logging.enableVersionCheck": "Online Version Check Result",
-    "config.orelib.logging.enableVersionCheck.tooltip": "Enables/disables display of version check information"
+    "config.orelib.logging": "日誌選項",
+    "config.orelib.logging.tooltip": "定義 OreLib 日誌記錄的行為方式",
+    "config.orelib.logging.enableLogging": "除錯日誌",
+    "config.orelib.logging.enableLogging.tooltip": "啟用/停用模組的除錯日誌",
+    "config.orelib.logging.enableVersionCheck": "線上版本檢查結果",
+    "config.orelib.logging.enableVersionCheck.tooltip": "啟用/停用版本檢查資訊顯示"
 }
