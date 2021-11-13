@@ -1226,5 +1226,12 @@
     "ie.manual.entry.mineral_subtitle": "礦相關",
     "ie.manual.newerVersion": " - 新版本！",
     "ie.manual.currentVersion": " - 目前",
-    "ie.manual.entry.mineralsDimAny": "§l%1$s§r 是可在任何維度找到的礦脈。"
+    "ie.manual.entry.mineralsDimAny": "§l%1$s§r 是可在任何維度找到的礦脈。",
+    "effect.immersiveengineering.flammable.description": "Increases damage taken from fire",
+    "effect.immersiveengineering.slippery.description": "Entities affected by it slowly slide forward when on the ground, and have a chance of dropping held items",
+    "effect.immersiveengineering.conductive.description": "Entities affected by conductive take extra damage from electric or \"flux\" damage, such as Redstone Arsenal weapons or electrified Razor Wire",
+    "effect.immersiveengineering.sticky.description": "Heavily slowed and unable to jump",
+    "effect.immersiveengineering.stunned.description": "Endermen affected by stunned are unable to teleport. Has no effect on players",
+    "effect.immersiveengineering.concrete_feet.description": "Unable to move or jump. The effect immediately ends when the entity is no longer standing on Concrete",
+    "effect.immersiveengineering.flashed.description": "Players affected by it have their screen flash white, rendering them temporarily blind"
 }
