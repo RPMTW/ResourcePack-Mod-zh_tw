@@ -1284,7 +1284,7 @@
     "info_book.integrateddynamics.tutorials.recipe_handling": "合成處理",
     "info_book.integrateddynamics.tutorials.recipe_handling.text1": "&o合成&r是 &lMinecraft&r 的重要組成部分。這就是為什麼這個模組通過&8合成表&0值，以及&l原料&r值來表示它們的輸入和輸出，提供了優秀的支持。在這個教學裡，我們來看一看合成是如何被獲得與使用的。",
     "info_book.integrateddynamics.tutorials.recipe_handling.text2": "取得&8合成&0最簡單的方法是從一個可以處理合成的機器讀取。就先將一個&l機器讀取器&r靠著一個&l工作檯&r放置並讀取合成列表。",
-    "info_book.integrateddynamics.tutorials.recipe_handling.text3": "檢測是否你想對合成有更精細的控制，或者你正著手於一台不通過&l機器讀取器&r暴露它的合成的機器，你可以在&l邏輯編程器&r中可視化地自行創建一個合成。讓我們試著創建一個合成，例如合成一個&l儲物箱&r。",
+    "info_book.integrateddynamics.tutorials.recipe_handling.text3": "如果你想對合成有更精細的控制，或者你正著手於一台不通過&l機器讀取器&r暴露它的合成的機器，你可以在&l邏輯編程器&r中可視化地自行創建一個合成。讓我們試著創建一個合成，例如合成一個&l箱子&r。",
     "info_book.integrateddynamics.tutorials.recipe_handling.text4": "在教學的最後一部分，我們將在合成讀取上更進一步。使用&l依據輸出的合成&r，我們可以檢測得到一個運算符，它在一個&8原料&0上執行時會返回第一個將該&8原料&0作為輸出返回的&8合成&0。我們會用它來尋找一個&l儲物箱&r的合成。",
     "info_book.integrateddynamics.tutorials.recipe_handling.text5": "在你的&l邏輯編程器&r中使用儲物箱，創建一個&8原料&0的實例吧。接下來，從一個對著&l工作檯&r的&l機器讀取器&r中讀取&l依據輸出的合成&r。然後，使用&o執行&r運算符，將你的&l儲物箱&r&8原料&0在從&l機器讀取器&r中獲得的運算符上執行。最後，將獲得的變數插入顯示器來查看&l儲物箱&r的合成。（別忘了將所有你用過的變數插入一個&l變數卡箱&r）",
     "info_book.integrateddynamics.tutorials.recipe_handling.text6": "很明顯，你對&8合成&0與&8原料&0能做的還有很多。看看&l機器讀取器&r和&l邏輯編程器&r來找出其它可用的進階功能。",
