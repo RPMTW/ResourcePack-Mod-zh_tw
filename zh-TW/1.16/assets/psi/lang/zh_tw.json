@@ -1110,5 +1110,9 @@
     "psi.book.entry.secondaryOperators": "次級運算符",
     "psi.book.page.secondaryOperators.0": "顧名思義，這是一些相對沒那麼重要的數學$(thing)運算符$(0)，對比\"主要運算符\"而言(像是加或減)。本章運算符僅僅是各種數學或邏輯有關的混合，它們可以幫助你編寫$(thing)術式$(0)。我們將這些運算符分為兩部分來介紹。",
     "psi.book.page.secondaryOperators.1": "第一部分是與數的冪相關的，包括諸如$(piece)運算符:平方$(0)，$(piece)運算符:立方$(0)，$(piece)運算符:平方根$(0)以及$(piece)運算符:對數$(0)大部分的運算符所做的運算都和它的字面義相同$(p)請注意，$(piece)運算符:對數$(0)的底數是可選參數；如果沒有指定底數，它預設以10為底。$(p)$(piece)常量:e$(0)可以用來獲得一個自然對數。",
-    "psi.book.page.secondaryOperators.2": "第二部分的$(thing)運算符$(0)與邏輯運算相關。包括進行取整運算的術式：$(p)$(piece)運算符:向上取整$(0)，$(piece)運算符：向下取整$(0)以及$(piece)運算符：四捨五入$(0)。$(p)還包括$(piece)運算符:最小值$(0)和$(piece)運算符:最大值$(0)。這些運算符分別返回參數中的最小值和最大值。"
+    "psi.book.page.secondaryOperators.2": "第二部分的$(thing)運算符$(0)與邏輯運算相關。包括進行取整運算的術式：$(p)$(piece)運算符:向上取整$(0)，$(piece)運算符：向下取整$(0)以及$(piece)運算符：四捨五入$(0)。$(p)還包括$(piece)運算符:最小值$(0)和$(piece)運算符:最大值$(0)。這些運算符分別返回參數中的最小值和最大值。",
+    "psi.spellpiece.selector_tick_time": "Selector: Tick Time",
+    "psi.spellpiece.selector_tick_time.desc": "Returns the mean of tick times for the focal point dimension",
+    "psi.spellpiece.selector_tps": "Selector: TPS",
+    "psi.spellpiece.selector_tps.desc": "Returns the mean of ticks per second for the focal point dimension"
 }
