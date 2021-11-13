@@ -15,6 +15,14 @@
             "images": [
                 "mysticalworld:textures/hut.png"
             ]
+        },
+        {
+            "type": "image",
+            "title": "A ruined hut",
+            "text": "Fire has ruined this hut.",
+            "images": [
+                "mysticalworld:textures/ruined_hut.png"
+            ]
         }
     ]
 }
