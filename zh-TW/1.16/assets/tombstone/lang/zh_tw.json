@@ -1,5 +1,5 @@
 {
-    "tombstone.lang.version": "2.2.0",
+    "tombstone.lang.version": "2.2.1",
     "tombstone.grave.grave_simple": "簡易墳墓",
     "tombstone.grave.grave_normal": "普通墳墓",
     "tombstone.grave.grave_cross": "十字架墳墓",
@@ -877,5 +877,15 @@
     "tombstone.config.nerf_shadow_step.open_chest.tooltip": "Shadow Step is disabled for 10 seconds by opening a chest",
     "tombstone.compendium.grave_guardian.desc": "Rarely, a Grave Guardian can appear near a decorative grave.\nThis guardian will protect the surroundings from hostile creatures and will offer to trade with the players.\nDuring special events, the trades may differ.",
     "stat.tombstone.trade_grave_guardian": "Grave Guardian Trades",
-    "entity.tombstone.grave_guardian": "Grave Guardian"
+    "entity.tombstone.grave_guardian": "Grave Guardian",
+    "tombstone.advancement.halloween.desc": "Special advancements during Halloween",
+    "tombstone.advancement.trade_lollipop.title": "Tradable Lollipop",
+    "tombstone.advancement.trade_lollipop.desc": "You traded a Halloween Lollipop with a Grave Guardian",
+    "tombstone.advancement.trade_10_lollipop.title": "Easy Trades",
+    "tombstone.advancement.trade_10_lollipop.desc": "You traded 10 Halloween Lollipops with a Grave Guardian",
+    "tombstone.advancement.trade_50_lollipop.title": "Promising Business",
+    "tombstone.advancement.trade_50_lollipop.desc": "You traded 50 Halloween Lollipops with a Grave Guardian",
+    "tombstone.advancement.trade_lollipop_for_essence.title": "Essence of Undeath",
+    "tombstone.advancement.trade_lollipop_for_essence.desc": "You traded Halloween Lollipops for Essence of Undeath with a Grave Guardian",
+    "stat.tombstone.traded_lollipop": "Traded Halloween Lollipop"
 }
