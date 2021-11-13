@@ -114,5 +114,7 @@
     "gui.xaero_wm_box_detect_ambiguous_y": "地圖上的單個像素可以包含多個透明層和地圖下方的不透明塊。在較舊的非緩存地圖數據檔中， 在這種情況下， 僅儲存不透明方塊的 Y 層（高度）， 這通常使盲目傳送到儲存的 Y 座標不安全。當此設定開啟時， 模組將此類地圖像素視為未發現的方塊。它預設為 2D 定位點， 並停用直接傳送到此類像素。停用這個自擔風險！",
     "gui.xaero_box_closing_menu_when_hopping": "跳到定位點時關閉選單（選單中左鍵按下）",
     "gui.xaero_box_not_closing_menu_when_hopping": "跳到定位點時不關閉選單（選單中左鍵按下）",
-    "gui.xaero_wm_update_notification": "更新通知"
+    "gui.xaero_wm_update_notification": "更新通知",
+    "gui.xaero_wm_adjust_height_for_carpetlike_blocks": "Adjust Y For Short Blocks",
+    "gui.xaero_wm_box_adjust_height_for_carpetlike_blocks": "Subtract 1 from the height value for short carpetlike blocks, e.g. carpet, 1-layer snow, lilypad etc. This prevents such blocks from causing harsh shading on the map like a full block. Waypoints and teleportation over these blocks should make more sense too."
 }
