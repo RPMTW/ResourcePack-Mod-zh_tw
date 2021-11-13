@@ -1452,8 +1452,8 @@
     "com.minecolonies.coremod.gui.townhall.happiness.desc.social": "如果其他殖民者由於疾病、失業、無家可歸或飢餓而不高興，那麼幸福度會降低。",
     "com.minecolonies.coremod.gui.townhall.happiness.desc.saturation": "當殖民者吃飽後，幸福度會增加。",
     "com.minecolonies.coremod.gui.townhall.happiness.desc.mysticalsite": "如果殖民地有一個神秘之地，會根據其等級增加幸福度。",
-    "com.minecolonies.coremod.gui.townhall.happiness.desc.damage": "如果殖民者最近受過傷，那麼幸福度會降低。",
-    "com.minecolonies.coremod.gui.townhall.happiness.desc.death": "如果最近有殖民者死亡，那麼幸福度會降低。",
+    "com.minecolonies.coremod.gui.townhall.happiness.desc.damage": "Decreases happiness if colonists have been injured recently.",
+    "com.minecolonies.coremod.gui.townhall.happiness.desc.death": "Decreases happiness if colonists have died recently.",
     "com.minecolonies.coremod.gui.townhall.happiness.desc.raidwithoutdeath": "如果殖民地最近在沒有市民死亡的情況下挺過了突襲，那麼幸福度會增加。",
     "com.minecolonies.coremod.gui.townhall.happiness.desc.slepttonight": "如果市民殖民者最近能夠睡覺，那麼幸福度會增加。",
     "com.minecolonies.coremod.gui.back": "返回",
@@ -2182,6 +2182,15 @@
     "item.supply.error.inside_colony": "殖民地內部",
     "item.supply.error.needs_air_above": "上面需要空氣",
     "item.supply.error.not_water": "不是流體",
-    "item.supply.badblocks": "不是所有的方塊都符合要求！重新檢查高亮的方塊。",
-    "com.minecolonies.coremod.setting.minecolonies:dynamictreeharvestsize": "動態的樹範圍："
+    "item.supply.badblocks": "Not all blocks in the area meet the requirements! Recheck the highlighted blocks",
+    "com.minecolonies.coremod.setting.minecolonies:dynamictreeharvestsize": "動態的樹範圍：",
+    "com.minecolonies.coremod.gui.workerhuts.townhall": "Town Hall",
+    "com.minecolonies.coremod.gui.workerhuts.guardassignbed": "%s became a guard. The %s at %s now has an open bed slot for a new citizen.",
+    "com.minecolonies.coremod.gui.workerhuts.archertraineeassignbed": "%s became an archer in training. The %s at %s now has an open bed slot for a new citizen.",
+    "com.minecolonies.coremod.gui.workerhuts.knighttraineeassignbed": "%s became a knight in training. The %s at %s now has an open bed slot for a new citizen.",
+    "com.minecolonies.coremod.pvp.attack.start": "§cBeware, %s§c is attacking you and he brought guards!",
+    "com.minecolonies.coremod.pvp.defended.success": "§aYou successfully defended your colony against %s§a.",
+    "com.minecolonies.coremod.pvp.attack.guardgroupsize": "§eBeware, %s §ehas now: %d §eguards!",
+    "block.minecolonies.blockhuthome": "House",
+    "block.minecolonies.blockhuthome.name": "House"
 }
