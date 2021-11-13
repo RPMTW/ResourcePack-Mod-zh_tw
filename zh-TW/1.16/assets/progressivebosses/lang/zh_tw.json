@@ -13,5 +13,7 @@
     "progressivebosses:dragon_minion": "Dragon Minion",
     "death.attack.progressivebosses:dragon_fireball": "%1$s was fireballed by %2$s",
     "progressivebosses:command.summoned_entity": "Summoned %s with difficulty %d",
-    "progressivebosses:command.summon_invalid_entity": "Entity %s is not valid"
+    "progressivebosses:command.summon_invalid_entity": "Entity %s is not valid",
+    "dragon.first_killed": "Congrats on killing your first Dragon. Be aware that every Dragon you kill will make the next one harder to fight.",
+    "wither.first_summon": "You spawned your first Wither. Be aware that every Wither you spawn will make the next one harder to fight."
 }
