@@ -10,7 +10,7 @@
             "text": "The Alchemical Imbuer is a machine that brews potions. Creates $(l:thermal:technology/potion_fluid)potion fluid$(/l) as opposed to brewing directly in a bottle. One ingredient is enough to brew one potion bucket, which can fill 4 bottles."
         },
         {
-            "type": "合成",
+            "type": "crafting",
             "recipe": "thermal:machine_brewer",
             "title": "藥水釀造機"
         },
