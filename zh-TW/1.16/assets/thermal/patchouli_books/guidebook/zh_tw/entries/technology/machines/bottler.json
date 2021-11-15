@@ -10,7 +10,7 @@
             "text": "The Fluid Encapsulator is a machine that fills items that hold fluids, such as buckets and bottles. Can be used to automatically fill bottles with $(l:thermal:technology/potion_fluid)potion fluid$(/l) from the $(l:thermal:technology/machines/brewer)Alchemical Imbuer$(/l)."
         },
         {
-            "type": "合成",
+            "type": "crafting",
             "recipe": "thermal:machine_bottler",
             "title": "液體灌注機"
         },
