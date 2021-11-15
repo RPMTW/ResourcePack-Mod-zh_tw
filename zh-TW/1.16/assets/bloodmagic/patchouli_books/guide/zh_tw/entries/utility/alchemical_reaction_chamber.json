@@ -144,7 +144,7 @@
       "b.text": "$(item)Intermediate Cutting Fluid$() is similar to $(item)Basic Cutting Fluid$(), but lasts eight times longer and provides a 25% speed boost."
     },
     {
-      "type": "crafting",
+      "type": "2x_crafting_arc",
       "a.heading": "Metal Gravel to Metal Sand",
       "a.recipe": "bloodmagic:arc/dustsfrom_gravel_iron",
       "b.heading": "Ore to 2 Metal Sand",
