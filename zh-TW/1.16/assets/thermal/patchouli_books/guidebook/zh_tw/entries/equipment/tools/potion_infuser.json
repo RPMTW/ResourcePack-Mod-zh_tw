@@ -10,7 +10,7 @@
             "text": "Used to infuse yourself, mobs, or other players with potion effects. Press '$(k:cofh.mode_change_increment)' to toggle automatic infusion, which regularly infuses you with small doses. It can be filled with $(l:thermal:technology/potion_fluid)potion fluid$(/l) and augmented in the Tinker's Workbench."
         },
         {
-            "type": "合成",
+            "type": "crafting",
             "recipe": "thermal:potion_infuser",
             "title": "藥水注射器",
             "text": "It can be enchanted with $(l:thermal:world/holding)Holding$(/l) to improve fluid capacity."
