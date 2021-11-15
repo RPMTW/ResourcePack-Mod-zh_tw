@@ -545,5 +545,8 @@
     "gui.xaero_auto_convert_wp_distance_km": "Convert Distance to KM at",
     "gui.xaero_auto_convert_wp_distance_km_never": "Never",
     "gui.xaero_waypoint_distance_precision": "Waypoint Distance Precision",
-    "gui.xaero_sort_angle": "Angular Distance"
+    "gui.xaero_sort_angle": "Angular Distance",
+    "gui.xaero_toggle_enabled": "Enabled",
+    "gui.xaero_toggle_disabled": "Disabled",
+    "gui.xaero_main_entity_dot_size": "Main Entity Dot Size"
 }
