@@ -9,7 +9,7 @@
       "text": "Mending is an $(l:bewitchment:sigils/using_sigils)Active Sigil$().$(br)when activated, it will give Regeneration and Resistance to whoever activated it."
     },
     {
-      "type": "crafting",
+      "type": "patchouli:crafting",
       "recipe": "bewitchment:mending_sigil"
     }
   ]
