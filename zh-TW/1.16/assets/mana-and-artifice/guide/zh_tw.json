@@ -2578,7 +2578,7 @@
 		],
 		"related_recipes": [
 			{
-				"type": "crafting",
+				"type": "manaweaving_altar",
 				"location": "mana-and-artifice:manaweaver_wand"
 			}
 		]
@@ -6240,7 +6240,7 @@
 		"related_recipes": [
 			{
 				"location": "mana-and-artifice:manaweaver_wand",
-				"type": "crafting"
+				"type": "manaweaving_altar"
 			},
 			{
 				"location": "mana-and-artifice:improvised_manaweaver_wand",
