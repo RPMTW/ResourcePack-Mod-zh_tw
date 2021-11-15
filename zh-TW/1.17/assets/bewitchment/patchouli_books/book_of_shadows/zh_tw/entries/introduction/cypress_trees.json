@@ -15,17 +15,17 @@
       "border": true
     },
     {
-      "type": "crafting",
+      "type": "patchouli:crafting",
       "recipe": "bewitchment:cypress_wood",
       "recipe2": "bewitchment:cypress_planks"
     },
     {
-      "type": "crafting",
+      "type": "patchouli:crafting",
       "recipe": "bewitchment:cypress_stairs",
       "recipe2": "bewitchment:cypress_slab"
     },
     {
-      "type": "crafting",
+      "type": "patchouli:crafting",
       "recipe": "bewitchment:cypress_fence",
       "recipe2": "bewitchment:cypress_fence_gate"
     },
