@@ -39,13 +39,13 @@
       "text": "A Golden Gylph always forms the center of a circle."
     },
     {
-      "type": "crafting",
+      "type": "patchouli:crafting",
       "recipe": "bewitchment:chalk",
       "recipe2": "bewitchment:golden_chalk",
       "anchor": "chalk"
     },
     {
-      "type": "crafting",
+      "type": "patchouli:crafting",
       "recipe": "bewitchment:fiery_chalk",
       "recipe2": "bewitchment:eldritch_chalk"
     }
