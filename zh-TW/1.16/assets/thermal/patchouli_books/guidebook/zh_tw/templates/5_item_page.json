@@ -12,7 +12,7 @@
             "y": -1
         },
         {
-            "type": "物品",
+            "type": "item",
             "item": "#item1",
             "framed": true,
             "link_recipe": true,
@@ -20,7 +20,7 @@
             "y": 20
         },
         {
-            "type": "物品",
+            "type": "item",
             "item": "#item2",
             "framed": true,
             "link_recipe": true,
@@ -28,7 +28,7 @@
             "y": 20
         },
         {
-            "type": "物品",
+            "type": "item",
             "item": "#item3",
             "framed": true,
             "link_recipe": true,
@@ -36,7 +36,7 @@
             "y": 20
         },
         {
-            "type": "物品",
+            "type": "item",
             "item": "#item4",
             "framed": true,
             "link_recipe": true,
@@ -44,7 +44,7 @@
             "y": 45
         },
         {
-            "type": "物品",
+            "type": "item",
             "item": "#item5",
             "framed": true,
             "link_recipe": true,
