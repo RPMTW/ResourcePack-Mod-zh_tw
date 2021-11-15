@@ -785,7 +785,7 @@
     "tombstone.compendium.main.title": "概要",
     "tombstone.compendium.main.desc": "概要收集了關於本模組的一些訊息，以便幫助新玩家更快上手本模組。\n為了方便閱讀，你可以從右側的幾個選項去了解到每個訊息。",
     "tombstone.compendium.alignment.title": "陣營",
-    "tombstone.compendium.alignment.desc": "玩家的陣營取決於他的行為。\n陣營可以解鎖一些技能 ，或者允許你使用一些魔法物品。\n你的陣營偏向也會使 不死生物 / 活著的生物 對你造成的傷害有所變動，具體是哪種則取決於你的陣營偏向。\n減少傷害僅為個人效果。",
+    "tombstone.compendium.alignment.desc": "The alignment depends on the actions performed by the player.\nAlignment increases:\n- by using a soul receptacle on a grave to free the soul\n- by killing pillagers and zombies during a village siege\n- by exorcising a zombie-villager with the Ankh prayer\n- by protecting a villager with the Ankh prayer\nAlignment decreases:\n- by killing villagers\n- by using a tablet of cupidity\n- by plundering an abandoned player's grave without the key\nThe citizens and raiders of Minecolonies are considered to be villagers and pillagers, respectively.\nIt can unlock some perks or allow to use some magical items.\nEach level of alignment also reduces the damage done by undead / living creatures depending on your side of alignment.\nThe damage reduction does not affect those of others players.",
     "tombstone.compendium.ankh_of_pray.desc": "安卡的祈禱是一個可以取得死亡知識的物品，但是需要冷卻。\n當該物品可以使用時，可以用來在裝飾性墳墓附近進行祈禱 (+1 點) ，有機率會給予你正面藥水效果 (設定 + 死亡知識的等級)，或者你也可以用它去治癒殭屍村民 (+3 點)。\n它還可以用來重置你的技能點，當然需要你右擊一個帶有靈魂的裝飾性墳墓。\n如果玩家的陣營偏向傾向於聖潔陣營，就可以通過祈禱給予村民保護（模擬殖民地的市民也可以）。",
     "tombstone.compendium.bone_needle.desc": "骨針可用於與生物創建魔法連接，只需用骨針取走一小部分生物的精華即可。填滿精華的骨針便可用於浸漬鑽石，這些處理過後的鑽石便可參與到更複雜的合成中來，例如相依瓶的合成。",
     "tombstone.compendium.book_of_disenchantment.desc": "這本書可以在你右擊一個帶有靈魂的裝飾性墳墓時將物品裡的部分附魔隨機拆下來。\n需要拆解附魔的物品必須放在非慣用手。\n可以同時拆下的附魔的數量隨著你的技能等級逐步遞增一個。",
@@ -902,5 +902,8 @@
     "stat.tombstone.trade_grave_guardian": "Grave Guardian Trades",
     "stat.tombstone.traded_lollipop": "Traded Halloween Lollipop",
     "entity.tombstone.grave_guardian": "Grave Guardian",
-    "tombstone.config.can_recycle_damaged_item.tooltip": "Damaged items can be recycled with the Book of Recycling"
+    "tombstone.config.can_recycle_damaged_item.tooltip": "Damaged items can be recycled with the Book of Recycling",
+    "tombstone.config.frostbite_combining_fire_aspect.tooltip": "Allows Frostbite to combine with Fire Aspect",
+    "tombstone.config.astral_sorcery_ignore_enchantment_bonus.tooltip": "Ignore enchantment bonus provided by Astral Sorcery",
+    "tombstone.config.fix_anvil_custom_name": "fix the custom name with anvil when the string is empty"
 }
