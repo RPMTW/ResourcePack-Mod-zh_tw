@@ -6,7 +6,7 @@
     "flag": "mod:thermal_innovation",
     "pages": [
         {
-            "type": "合成",
+            "type": "crafting",
             "recipe": "thermal:augments/potion_duration_augment",
             "title": "長效煉藥升級",
             "text": "The Alchemical Extender augment increases duration of potions by 100%. Has no effect on potions that have instant, one-time effects (instant potions)."
