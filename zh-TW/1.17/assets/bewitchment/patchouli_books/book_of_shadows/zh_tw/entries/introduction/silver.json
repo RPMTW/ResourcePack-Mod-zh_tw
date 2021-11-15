@@ -20,12 +20,12 @@
       "text": "Raw Silver can be processed in Furnaces and Blast Furnaces."
     },
     {
-      "type": "crafting",
+      "type": "patchouli:crafting",
       "recipe": "bewitchment:raw_silver_block",
       "recipe2": "bewitchment:silver_block"
     },
     {
-      "type": "crafting",
+      "type": "patchouli:crafting",
       "recipe": "bewitchment:silver_nugget"
     },
     {
