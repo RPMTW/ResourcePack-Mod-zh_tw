@@ -3,9 +3,14 @@
     "item.disenchanter:experience_jar.name": "經驗之罐",
     "container.disenchant": "解除附魔",
     "msg.stored_xp.txt": "經驗瓶：%d/%d",
-    "msg.overload.txt": "超載：可以在滿載的情況下進行解除附魔",
+    "msg.overload.txt": "overload",
     "msg.automatic.txt": "自動化解除附魔",
     "msg.bulkdisenchanting.txt": "批量解除附魔",
     "msg.cycling.txt": "循環",
-    "msg.voiding.txt": "清空"
+    "msg.voiding.txt": "清空",
+    "msg.shift_for_tooltip.txt": "Hold Shift for more information",
+    "msg.extract_from_jar.txt": "- drink from the jar to extract some experience",
+    "msg.extract_all_from_jar.txt": "- sneak while drinking from the jar to extract all stored experience",
+    "msg.insert_into_jar.txt": "- sneak while punching with the jar to insert some experience",
+    "msg.overload_detailed.txt": "overload: disenchanting at full capacity is possible"
 }
