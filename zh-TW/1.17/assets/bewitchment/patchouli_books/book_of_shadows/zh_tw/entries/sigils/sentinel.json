@@ -9,7 +9,7 @@
       "text": "The Sentinel $(l:bewitchment:sigils/using_sigils)Active Sigil$() traps the spirit of a $(l:bewitchment:creatures/ghost)Ghost$(). when activated, it will apply a random debuff."
     },
     {
-      "type": "crafting",
+      "type": "patchouli:crafting",
       "recipe": "bewitchment:sentinel_sigil"
     }
   ]
