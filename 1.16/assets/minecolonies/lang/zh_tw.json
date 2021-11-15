@@ -2101,7 +2101,7 @@
     "com.minecolonies.coremod.jei.maxresearch.tip": "This recipe is only available until the research '%s' has been unlocked (then usually replaced with a better recipe).",
     "com.minecolonies.coremod.jei.intermediate.tip": "This recipe requires access to a %s.",
     "com.minecolonies.coremod.jei.chance.tip": "§e%d%% chance",
-    "com.minecolonies.coremod.jei.chanceskill.tip": "§e%d%% base chance + skill modifier",
+    "com.minecolonies.coremod.jei.chanceskill.tip": "§e%d%% base chance §a+ skill modifier",
     "com.minecolonies.coremod.jei.baker": "Bakes bread, and other things at higher levels. Can be taught extra recipes starting at level 3.",
     "com.minecolonies.coremod.jei.blacksmith": "Crafts tools, weapons, armour, and many other things made of metal.",
     "com.minecolonies.coremod.jei.concretemixer": "Crafts concrete powder and concrete. Can't learn other recipes.",
@@ -2192,5 +2192,9 @@
     "com.minecolonies.coremod.pvp.defended.success": "§aYou successfully defended your colony against %s§a.",
     "com.minecolonies.coremod.pvp.attack.guardgroupsize": "§eBeware, %s §ehas now: %d §eguards!",
     "block.minecolonies.blockhuthome": "House",
-    "block.minecolonies.blockhuthome.name": "House"
+    "block.minecolonies.blockhuthome.name": "House",
+    "com.minecolonies.coremod.jei.chancenegskill.tip": "§e%d%% base chance §c- skill modifier",
+    "com.minecolonies.coremod.jei.conditions.tip": "§bSpecial conditions apply",
+    "com.minecolonies.coremod.jei.fisherman": "Catches fish and other items as usual, plus some bonus items at higher levels.",
+    "com.minecolonies.coremod.gui.chat.potatogod": "I used to be just Jack then I made a bet with the Devil.. What was his name?.. 'Ray', I think. Anyways, being a cactus has.. interrupted my relationships. I've been wandering these lands for as long as I can remember. Then finally, I saw your pathetic village and thought 'hmm.. someone that lame could definitely use my help!'"
 }

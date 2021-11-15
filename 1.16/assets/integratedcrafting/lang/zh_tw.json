@@ -94,5 +94,7 @@
     "info_book.integratedcrafting.tutorials.autocrafting_trigger.text4": "Now, we tell the &lCrafting Writer&r to start crafting Oak Planks. Do this by creating a &lVariable Card&r containing Oak Planks using your &lLogic Programmer&r, and insert this into the &lCrafting Writer&r.",
     "info_book.integratedcrafting.tutorials.autocrafting_trigger.text5": "If you configured everything correctly, you will be able to see that one Oak Log has been converted into 4 Oak Planks. Once you remove these planks, 4 new planks will be crafted if other logs were available. You can play around with the &lCrafting Writer&r aspect settings to for example ignore the storage contents, and craft as many planks as possible.",
     "info_book.integratedcrafting.tutorials.autocrafting_trigger.text6": "The figure at the end of this section shows an example the required parts of a setup for completing this tutorial.",
-    "gui.integratedcrafting.partsettings.craftingcheckdisabled": "Disable Craft Check"
+    "gui.integratedcrafting.partsettings.craftingcheckdisabled": "Disable Craft Check",
+    "aspect.aspecttypes.integratedcrafting.integer.craftdelay": "Storage contents craft delay",
+    "aspect.aspecttypes.integratedcrafting.integer.craftdelay.info": "Only craft if ingredient is missing from storage for this duration"
 }

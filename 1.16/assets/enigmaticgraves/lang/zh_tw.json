@@ -3,5 +3,6 @@
     "entity.enigmaticgraves.grave": "Grave",
     "info.grave.remove_grave": "No Grave Location. Right click me (in creative) on a grave to remove it!",
     "item.enigmaticgraves.grave_finder": "Grave Finder",
-    "grave.locate": "The grave is at %s"
+    "grave.locate": "The grave is at %s",
+    "info.grave.not_found": "Grave position not found!"
 }

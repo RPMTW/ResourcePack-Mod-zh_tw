@@ -1011,8 +1011,8 @@
     "pneumaticcraft.gui.progWidget.area.type.sphere.sphereType": "Sphere type:",
     "pneumaticcraft.gui.progWidget.area.type.wall.name": "Wall",
     "pneumaticcraft.gui.progWidget.blockCondition.debug.allBlocksMatch": "All blocks match the criteria.",
-    "pneumaticcraft.gui.progWidget.blockCondition.debug.blockDoesNotMatch": "One or multiple blocks do not match the criteria.",
-    "pneumaticcraft.gui.progWidget.blockCondition.debug.blockMatches": "One or multiple blocks match the criteria.",
+    "pneumaticcraft.gui.progWidget.blockCondition.debug.blockDoesNotMatch": "One or more blocks do not match the criteria.",
+    "pneumaticcraft.gui.progWidget.blockCondition.debug.blockMatches": "One or more blocks match the criteria.",
     "pneumaticcraft.gui.progWidget.blockCondition.debug.noBlocksMatch": "No blocks match the criteria.",
     "pneumaticcraft.gui.progWidget.blockInteraction.debug.noBlocksValid": "No blocks can be interacted with.",
     "pneumaticcraft.gui.progWidget.blockOrder.closest": "Closest",
@@ -1899,5 +1899,13 @@
     "pneumaticcraft.gui.amadron.location.whitelist": "Only available in:",
     "pneumaticcraft.gui.amadron.location.unavailable": "Unavailable at this location!",
     "pneumaticcraft.gui.tab.problems.amadron.noInventory": "§fMissing inventory or fluid tank.${br}§0Right-click an inventory and/or fluid tank with your Amadron Tablet.",
-    "pneumaticcraft.gui.tab.redstoneBehaviour.uvLightBox.interpolate": "Interpolate Threshold"
+    "pneumaticcraft.gui.tab.redstoneBehaviour.uvLightBox.interpolate": "Interpolate Threshold",
+    "pneumaticcraft.gui.misc.any": "Any",
+    "pneumaticcraft.gui.tab.info.item.amadron_tablet.volumeUpgrade": "§0Increases the Amadron Tablet's air storage by by 2 * √U, where U = the number of Volume Upgrades, allowing the Amadron Tablet to run longer between recharges.",
+    "pneumaticcraft.playerFilter.biomes": "Biome Types:",
+    "pneumaticcraft.playerFilter.blacklist": "Not available when:",
+    "pneumaticcraft.playerFilter.dimensions": "Dimensions:",
+    "pneumaticcraft.playerFilter.gamestages": "Game Stages:",
+    "pneumaticcraft.playerFilter.whitelist": "Only available when:",
+    "pneumaticcraft.playerFilter.unavailable": "Unavailable at this time!"
 }
