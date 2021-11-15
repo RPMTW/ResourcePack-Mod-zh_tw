@@ -9,22 +9,22 @@
       "text": "Brambles are witchy weeds, artificially created with the help of $(l:bewitchment:brewing/elemental_oils)Elemental Oil$().$(br2)Each bramble has a unique effect connected to its element."
     },
     {
-      "type": "crafting",
+      "type": "patchouli:crafting",
       "recipe": "bewitchment:glowing_bramble",
       "text": "Glowing Bramble emits light and prevents mob spawning in a 24 block radius."
     },
     {
-      "type": "crafting",
+      "type": "patchouli:crafting",
       "recipe": "bewitchment:ender_bramble",
       "text": "Ender Bramble will teleport anything that collides with it to a random location within a 64 block radius."
     },
     {
-      "type": "crafting",
+      "type": "patchouli:crafting",
       "recipe": "bewitchment:fruiting_bramble",
       "text": "Fruiting Bramble will grow Witchberries, which can be used to craft $(l:bewitchment:introduction/altars#internalme)ME$()-restoring goodies."
     },
     {
-      "type": "crafting",
+      "type": "patchouli:crafting",
       "recipe": "bewitchment:scorched_bramble",
       "text": "Scorched Bramble will set entities on fire. It can also be used as a relatively decent fuel."
     },
