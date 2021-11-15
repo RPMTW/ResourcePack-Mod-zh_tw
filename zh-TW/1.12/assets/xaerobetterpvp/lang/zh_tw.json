@@ -539,5 +539,14 @@
     "gui.xaero_category_duplicate_confirm": "你要複製以下類別嗎？",
     "gui.xaero_reverse_entity_radar": "Reverse Radar Render Order",
     "gui.xaero_adjust_height_for_carpetlike_blocks": "Adjust Y For Short Blocks",
-    "gui.xaero_box_adjust_height_for_carpetlike_blocks": "Subtract 1 from the height value for short carpetlike blocks, e.g. carpet, 1-layer snow, lilypad etc. This prevents such blocks from causing harsh shading on the map like a full block."
+    "gui.xaero_box_adjust_height_for_carpetlike_blocks": "Subtract 1 from the height value for short carpetlike blocks, e.g. carpet, 1-layer snow, lilypad etc. This prevents such blocks from causing harsh shading on the map like a full block.",
+    "gui.xaero_box_category": "View/Edit §e%1$s",
+    "gui.xaero_box_category_settings": "Settings For §e%1$s",
+    "gui.xaero_auto_convert_wp_distance_km": "Convert Distance to KM at",
+    "gui.xaero_auto_convert_wp_distance_km_never": "Never",
+    "gui.xaero_waypoint_distance_precision": "Waypoint Distance Precision",
+    "gui.xaero_sort_angle": "Angular Distance",
+    "gui.xaero_toggle_enabled": "Enabled",
+    "gui.xaero_toggle_disabled": "Disabled",
+    "gui.xaero_main_entity_dot_size": "Main Entity Dot Size"
 }
