@@ -8,21 +8,21 @@
       "text": "Coffins, originally emerging from $(l:bewitchment:creatures/vampire)Vampires$(), have recently found traction especially among night-active witches.$(br2)When you sleep in one, you can skip the day.$(br2)Coffins, much like beds, can be dyed if they're white."
     },
     {
-      "type": "crafting",
+      "type": "patchouli:crafting",
       "recipe": "bewitchment:white_coffin"
     },
     {
-      "type": "crafting",
+      "type": "patchouli:crafting",
       "recipe": "bewitchment:orange_coffin",
       "recipe2": "bewitchment:orange_coffin_from_white_coffin"
     },
     {
-      "type": "crafting",
+      "type": "patchouli:crafting",
       "recipe": "bewitchment:magenta_coffin",
       "recipe2": "bewitchment:magenta_coffin_from_white_coffin"
     },
     {
-      "type": "crafting",
+      "type": "patchouli:crafting",
       "recipe": "bewitchment:light_blue_coffin",
       "recipe2": "bewitchment:light_blue_coffin_from_white_coffin"
     },
