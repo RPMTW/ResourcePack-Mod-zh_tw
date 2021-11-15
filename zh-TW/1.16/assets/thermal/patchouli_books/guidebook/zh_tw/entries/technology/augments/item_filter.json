@@ -5,7 +5,7 @@
     "read_by_default": true,
     "pages": [
         {
-            "type": "合成",
+            "type": "crafting",
             "recipe": "thermal:augments/item_filter_augment",
             "title": "物品過濾器",
             "text": "The Item Filter augment allows a machine, device, or piece of equipment to selectively accept items. The filter can be configured in a separate GUI, accessible by shift right-clicking the block or item it is installed in, or through a tab in the block's GUI."
