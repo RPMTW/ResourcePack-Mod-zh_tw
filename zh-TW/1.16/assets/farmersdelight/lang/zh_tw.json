@@ -224,15 +224,15 @@
     "item.farmersdelight.melon_juice": "西瓜汁",
     "item.farmersdelight.bacon_and_eggs": "培根蛋",
     "farmersdelight.tooltip.melon_juice": "Minor Instant Health",
-    "farmersdelight.advancement.use_skillet": "Portable Cooking",
+    "farmersdelight.advancement.use_skillet": "野炊",
     "farmersdelight.advancement.use_skillet.desc": "Skillets let you cook on the go. Stand near heat, then hold food in your other hand!",
     "farmersdelight.advancement.place_skillet": "Sizzling Hot!",
-    "farmersdelight.advancement.place_skillet.desc": "Place down your Skillet as a block while sneaking",
+    "farmersdelight.advancement.place_skillet.desc": "潛行時把煎鍋放置成方塊",
     "farmersdelight.subtitles.skillet.sizzle": "Skillet sizzles",
     "farmersdelight.subtitles.skillet.add_food": "Skillet hisses",
-    "farmersdelight.block.skillet.invalid_item": "This can't be cooked...",
-    "farmersdelight.item.skillet.how_to_cook": "Use your other hand to hold ingredients!",
-    "farmersdelight.jei.chance": "%1$s%% chance",
-    "farmersdelight.jei.info.knife": "Knives are lightweight melee weapons. They can harvest Straw from grasses, and guarantee secondary drops from animals.",
-    "farmersdelight.jei.info.ham": "A large cut of meat from a Pig or Hoglin's leg. You will need something lighter than a Sword to cut one..."
+    "farmersdelight.block.skillet.invalid_item": "這不能被烹飪……",
+    "farmersdelight.item.skillet.how_to_cook": "用另一隻手拿著原料！",
+    "farmersdelight.jei.chance": "%1$s%%機率",
+    "farmersdelight.jei.info.knife": "刀是輕型的近戰武器。可以從割草時獲得草稈，並保證從動物身上獲得二次掉落。",
+    "farmersdelight.jei.info.ham": "豬或豬布獸身上的一大塊肉，你需要比劍更輕巧的工具來切割它……"
 }
