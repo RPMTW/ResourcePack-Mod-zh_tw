@@ -6,7 +6,7 @@
     "flag": "mod:thermal_expansion",
     "pages": [
         {
-            "type": "合成",
+            "type": "crafting",
             "recipe": "thermal:augments/machine_cycle_augment",
             "title": "循環處理升級",
             "text": "The Cyclical Processing augment allows a machine's valid outputs to be fed back into its input slot(s). Useful for automation."
