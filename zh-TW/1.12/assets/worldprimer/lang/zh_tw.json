@@ -1,7 +1,4 @@
 {
-    "language.name": "Traditional Chinese",
-    "language.region": "TW",
-    "language.code": "en_US\n # Commands:",
     "worldprimer.commands.error.create_schematic.failed": "無法創建示意圖或結構檔案",
     "worldprimer.commands.error.create_schematic.file_exists_no_override": "檔案 \"%s\" 已存在, 並未提供覆蓋選項!",
     "worldprimer.commands.error.dimensionnotloaded": "維度%d 目前未載入!",
