@@ -9,7 +9,7 @@
       "text": "Decay is an $(l:bewitchment:sigils/using_sigils)Active Sigil$() that, when activated, will apply a strong Wither effect."
     },
     {
-      "type": "crafting",
+      "type": "patchouli:crafting",
       "recipe": "bewitchment:decay_sigil"
     }
   ]
