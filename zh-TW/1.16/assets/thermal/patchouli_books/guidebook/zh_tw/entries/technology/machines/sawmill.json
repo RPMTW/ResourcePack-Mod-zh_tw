@@ -10,7 +10,7 @@
             "text": "The Sawmill is a machine that cuts logs into planks more efficiently than crafting. It produces $(l:thermal:world/plants/treeproducts)Sawdust$(/l) as a byproduct."
         },
         {
-            "type": "合成",
+            "type": "crafting",
             "recipe": "thermal:machine_sawmill",
             "title": "鋸木機"
         },
