@@ -9,7 +9,7 @@
       "text": "The Brazier is an essential tool for $(l:bewitchment:curses/conducting_curses)Curses$(). other than that, it can be used for $(l:bewitchment:tools/brazier#incense)Incense$().$(br2)A Brazier can take up to four items. To start using it, you need to light it using a Flint and Steel."
     },
     {
-      "type": "crafting",
+      "type": "patchouli:crafting",
       "recipe": "bewitchment:brazier",
       "text": "For convenience, Braziers can also be attached to ceilings."
     },
