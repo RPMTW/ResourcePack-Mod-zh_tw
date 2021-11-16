@@ -10,11 +10,11 @@
       "text": "Use a $(l:bloodmagic:rituals/ritual_diviner#dusk)Ritual Diviner [Dusk]$(/l) for easier construction."
     },
     {
-      "type": "text",
+      "type": "bloodmagic:ritual_info",
       "ritual": "crushing"
     },
     {
-      "type": "spotlight",
+      "type": "bloodmagic:ritual_data",
       "ritual": "crushing",
       "page_type": "raw",
       "text_overrides": [
@@ -25,7 +25,7 @@
       ]
     },
     {
-      "type": "spotlight",
+      "type": "bloodmagic:ritual_data",
       "ritual": "crushing",
       "page_type": "corrosive",
       "text_overrides": [
@@ -40,13 +40,13 @@
       ]
     },
     {
-      "type": "spotlight",
+      "type": "bloodmagic:ritual_data",
       "ritual": "crushing",
       "page_type": "vengeful",
-      "text": "Compresses the inventory on successful operation (e.g. coal into Coal Blocks, Redstone into Blocks of Redstone, etc). Currently only does one compression per operation."
+      "text": "For example, it will turn Coal into Blocks of Coal, Redstone Dust into Blocks of Redstone, etc."
     },
     {
-      "type": "spotlight",
+      "type": "bloodmagic:ritual_data",
       "ritual": "crushing",
       "page_type": "destructive",
       "text_overrides": [
@@ -57,7 +57,7 @@
       ]
     },
     {
-      "type": "spotlight",
+      "type": "bloodmagic:ritual_data",
       "ritual": "crushing",
       "page_type": "steadfast",
       "text_overrides": [
@@ -72,12 +72,12 @@
       ]
     },
     {
-      "type": "spotlight",
+      "type": "bloodmagic:ritual_data",
       "ritual": "crushing",
       "page_type": "chest"
     },
     {
-      "type": "spotlight",
+      "type": "bloodmagic:ritual_data",
       "ritual": "crushing",
       "page_type": "crushingRange"
     }
