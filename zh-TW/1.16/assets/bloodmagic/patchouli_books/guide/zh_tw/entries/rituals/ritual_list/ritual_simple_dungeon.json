@@ -10,7 +10,7 @@
       "text": "Use a $(l:bloodmagic:rituals/ritual_diviner)Ritual Diviner$(/l) for easier construction."
     },
     {
-      "type": "text",
+      "type": "bloodmagic:ritual_info",
       "ritual": "simple_dungeon",
       "text_overrides": [
         [
