@@ -5,12 +5,12 @@
   "pages": [
     {
       "type": "text",
-      "text": "蒸汽機器需要蒸汽來運轉，而鍋爐就能提供蒸汽。$(br2)鍋爐會緩慢消耗燃料來加熱。溫度足夠時，鍋爐就會產出蒸汽。別忘了加水，否則你的燃料就白燒了。"
+      "text": "蒸汽機器需要蒸汽來運轉，而鍋爐就能提供蒸汽。$(br2)鍋爐會緩慢消耗燃料來加熱。溫度足夠時，鍋爐就會產出蒸汽。別忘了加水，否則你的燃料就白白浪費了。"
     },
     {
       "type": "smelting",
       "recipe": "modern_industrialization:vanilla_recipes/steam_bucket",
-      "text": "雖然鍋爐的造價高昂，但別忘了你可以獲得雙倍的礦。而且，一旦你有了頭兩台機器，它的造價就會降低三倍！"
+      "text": "您也可以將水桶熔煉成蒸汽桶。在鍋爐之前製作您的第一台$(l:modern_industrialization:steam_age/steam_machines)青銅壓縮機$()，以節省大量的板材！$(br2)翻到鍋爐本身的那一頁..."
     },
     {
       "type": "crafting",
