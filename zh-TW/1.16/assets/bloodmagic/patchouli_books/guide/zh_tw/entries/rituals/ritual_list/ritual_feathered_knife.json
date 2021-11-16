@@ -10,7 +10,7 @@
       "text": "Use a $(l:bloodmagic:rituals/ritual_diviner#dusk)Ritual Diviner [Dusk]$(/l) for easier construction."
     },
     {
-      "type": "text",
+      "type": "bloodmagic:ritual_info",
       "ritual": "feathered_knife",
       "text_overrides": [
         [
@@ -28,7 +28,7 @@
       ]
     },
     {
-      "type": "spotlight",
+      "type": "bloodmagic:ritual_data",
       "ritual": "feathered_knife",
       "page_type": "raw",
       "text_overrides": [
@@ -39,7 +39,7 @@
       ]
     },
     {
-      "type": "spotlight",
+      "type": "bloodmagic:ritual_data",
       "ritual": "feathered_knife",
       "page_type": "corrosive",
       "text_overrides": [
@@ -54,7 +54,7 @@
       ]
     },
     {
-      "type": "spotlight",
+      "type": "bloodmagic:ritual_data",
       "ritual": "feathered_knife",
       "page_type": "vengeful",
       "text_overrides": [
@@ -65,7 +65,7 @@
       ]
     },
     {
-      "type": "spotlight",
+      "type": "bloodmagic:ritual_data",
       "ritual": "feathered_knife",
       "page_type": "destructive",
       "text_overrides": [
@@ -76,12 +76,12 @@
       ]
     },
     {
-      "type": "spotlight",
+      "type": "bloodmagic:ritual_data",
       "ritual": "feathered_knife",
       "page_type": "steadfast"
     },
     {
-      "type": "spotlight",
+      "type": "bloodmagic:ritual_data",
       "ritual": "feathered_knife",
       "page_type": "altar",
       "text_overrides": [
@@ -92,7 +92,7 @@
       ]
     },
     {
-      "type": "spotlight",
+      "type": "bloodmagic:ritual_data",
       "ritual": "feathered_knife",
       "page_type": "damage"
     }
