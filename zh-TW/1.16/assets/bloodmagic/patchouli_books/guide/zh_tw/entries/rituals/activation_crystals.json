@@ -17,7 +17,7 @@
       "type": "crafting_altar",
       "heading": "[虛弱]啟動水晶",
       "recipe": "bloodmagic:weak_activation_crystal",
-      "text": "This crystal should do for now.",
+      "text": "Simply press [$(k:use)] with a bound Activation Crystal on a Master Ritual Stone to activate the ritual it's part of - assuming it's suitably assembled, that is.",
       "anchor": "weak"
     }
   ]
