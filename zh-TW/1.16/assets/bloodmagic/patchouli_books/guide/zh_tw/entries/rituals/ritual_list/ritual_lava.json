@@ -41,7 +41,7 @@
       "text": "Particularly useful against denizens of The Nether."
     },
     {
-      "type": "spotlight",
+      "type": "bloodmagic:ritual_data",
       "ritual": "lava",
       "page_type": "vengeful",
       "text_overrides": [
@@ -53,7 +53,7 @@
       "text": "When the debuff ends, they will do a wonderful impression of a firework."
     },
     {
-      "type": "spotlight",
+      "type": "bloodmagic:ritual_data",
       "ritual": "lava",
       "page_type": "destructive",
       "text_overrides": [
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "type": "spotlight",
+      "type": "bloodmagic:ritual_data",
       "ritual": "lava",
       "page_type": "steadfast",
       "text_overrides": [
@@ -75,12 +75,12 @@
       ]
     },
     {
-      "type": "spotlight",
+      "type": "bloodmagic:ritual_data",
       "ritual": "lava",
       "page_type": "lavaRange"
     },
     {
-      "type": "spotlight",
+      "type": "bloodmagic:ritual_data",
       "ritual": "lava",
       "page_type": "fireDamage",
       "text_overrides": [
