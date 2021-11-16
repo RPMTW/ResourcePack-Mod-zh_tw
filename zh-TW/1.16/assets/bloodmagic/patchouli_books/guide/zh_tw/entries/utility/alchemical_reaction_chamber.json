@@ -137,10 +137,10 @@
     },
     {
       "type": "3x_crafting_alchemy_table",
-      "a.heading": "Metal Gravel to Metal Sand",
+      "a.heading": "Intermediate Cutting Fluid",
       "anchor": "intermediate_cutting_fluid",
-      "a.recipe": "bloodmagic:arc/dustsfrom_gravel_iron",
-      "b.recipe": "bloodmagic:arc/dustsfrom_ore_iron",
+      "a.recipe": "bloodmagic:alchemytable/intermediate_cutting_fluid",
+      "b.recipe": "bloodmagic:alchemytable/intermediate_cutting_fluid_sigil",
       "b.text": "$(item)Intermediate Cutting Fluid$() is similar to $(item)Basic Cutting Fluid$(), but lasts eight times longer and provides a 25% speed boost."
     },
     {
