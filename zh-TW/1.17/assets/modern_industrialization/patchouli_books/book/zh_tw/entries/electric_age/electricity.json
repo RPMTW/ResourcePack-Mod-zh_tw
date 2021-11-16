@@ -14,7 +14,7 @@
     },
     {
       "type": "text",
-      "text": "Cable networks have limitations on the amount of energy they will pull into the network: at most 256 EU/t for LV cables, 1024 EU/t for MV cables and 8192 EU/t for HV cables. Because there is no output limit for the network and because cables have a small internal storage, an LV network can provide more than 256 EU/t for a short amount of time.$(br2)Note however that single block electric machines will only connect to LV cables!"
+      "text": "電纜網路對進入網路的能量有限制：低壓電纜最多 256 EU/t，中壓電纜最多 1024 EU/t，高壓電纜最多 8192 EU/t。由於網路沒有輸出限制，而且電纜的內部儲存空間較小，因此低壓網路可以在短時間內提供超過 256 EU/t 的電力。$(br2)但請注意，單方塊電動機器只能連接到低壓電纜！"
     },
     {
       "type": "text",
