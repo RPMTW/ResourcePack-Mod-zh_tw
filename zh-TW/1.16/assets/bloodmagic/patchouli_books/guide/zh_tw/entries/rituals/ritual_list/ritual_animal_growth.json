@@ -10,11 +10,11 @@
       "text": "Use a $(l:bloodmagic:rituals/ritual_diviner#dusk)Ritual Diviner [Dusk]$(/l) for easier construction."
     },
     {
-      "type": "text",
+      "type": "bloodmagic:ritual_info",
       "ritual": "animal_growth"
     },
     {
-      "type": "spotlight",
+      "type": "bloodmagic:ritual_data",
       "ritual": "animal_growth",
       "page_type": "raw",
       "text_overrides": [
@@ -25,17 +25,17 @@
       ]
     },
     {
-      "type": "spotlight",
+      "type": "bloodmagic:ritual_data",
       "ritual": "animal_growth",
       "page_type": "vengeful"
     },
     {
-      "type": "spotlight",
+      "type": "bloodmagic:ritual_data",
       "ritual": "animal_growth",
       "page_type": "destructive"
     },
     {
-      "type": "spotlight",
+      "type": "bloodmagic:ritual_data",
       "ritual": "animal_growth",
       "page_type": "steadfast",
       "text_overrides": [
@@ -46,15 +46,15 @@
       ]
     },
     {
-      "type": "spotlight",
+      "type": "bloodmagic:ritual_data",
       "ritual": "animal_growth",
       "page_type": "growing"
     },
     {
-      "type": "spotlight",
+      "type": "bloodmagic:ritual_data",
       "ritual": "animal_growth",
       "page_type": "chest",
-      "text": "(Chest) Chest for breeding items (if properly augmented, requires $(steadfast)Steadfast Will$()).$(br) $(li)Maximum Volume: 1 $(li)Horizontal Radius: 3 $(li)Vertical Radius: 3"
+      "text": "Requires $(steadfast)Steadfast Will$()."
     }
   ]
 }
