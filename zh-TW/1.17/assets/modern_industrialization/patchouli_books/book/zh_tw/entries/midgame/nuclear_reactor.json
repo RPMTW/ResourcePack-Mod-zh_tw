@@ -24,12 +24,12 @@
     {
       "type": "crafting",
       "recipe": "modern_industrialization:electric_age/casing/nuclear_item_hatch_asbl",
-      "text": "結構的上部接受核物品或液體倉（或簡單的外殼）。這些是反應器的輸入和輸出。"
+      "text": "結構的上部接受核物品或流體倉（或簡單的外殼）。這些是反應器的輸入和輸出。"
     },
     {
       "type": "crafting",
       "recipe": "modern_industrialization:electric_age/casing/nuclear_fluid_hatch_asbl",
-      "text": "每個倉都有一個輸入（物品或液體）和兩個輸出。輸入槽將形成一個網格，顯示在反應器介面中（可對控制器按右鍵來存取）。"
+      "text": "每個倉都有一個輸入（物品或流體）和兩個輸出。輸入槽將形成一個網格，顯示在反應器介面中（可對控制器按右鍵來存取）。"
     },
     {
       "type": "text",
