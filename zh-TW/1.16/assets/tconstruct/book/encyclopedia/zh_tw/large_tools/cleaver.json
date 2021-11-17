@@ -2,7 +2,7 @@
   "tool": "tconstruct:cleaver",
   "text": [
     {
-      "text": "The Cleaver is a high damage, slow speed weapon."
+      "text": "劈刀是一種高傷害、低攻速的武器。"
     },
     {
       "text": "Expanders increase the area of the sweep attack, and silky grants AOE shearing.",
@@ -11,7 +11,7 @@
   ],
   "properties": [
     "+3.5 Attack Damage",
-    "150% Attack Modifier",
+    "150% 攻擊倍率",
     "0.9 Attack Speed",
     "+1 Reach",
     "350% Durability Modifier",
