@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:worldbound",
   "text": [
     {
-      "text": "Alternative to netherite that makes tools invulnerable when dropped without requiring an upgrade slot. Does not grant any stat boosts"
+      "text": "替代獄髓，使工具在丟出時無法破壞，無需升級插槽。不給予任何數值提升"
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Single use",
-    "Slotless"
+    "只能強化一次",
+    "無槽升級"
   ]
 }
