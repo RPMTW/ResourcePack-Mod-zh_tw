@@ -83,7 +83,7 @@
     {
       "type": "3x_crafting_arc",
       "a.heading": "[虛弱]氣血碎片",
-      "a.recipe": "bloodmagic:arc/weakbloodshard",
+      "a.recipe": "bloodmagic:arc/weakbloodshard_tau",
       "b.heading": "Revert Weak Blood Orb",
       "b.recipe": "bloodmagic:arc/reversion/weak_blood_orb",
       "c.heading": "Revert Apprentice Blood Orb",
@@ -136,7 +136,7 @@
       "text": "Cutting Fluid turns a metal's Gravel into that metal's Sand for continued 3x ore processing.  It can also turn an ore directly into two metal Sand for 2x Ore Processing.  The same 2x Ore Processing is possible in the Alchemy Table, but doing it in the ARC will save you some LP."
     },
     {
-      "type": "3x_crafting_alchemy_table",
+      "type": "2x_crafting_alchemy_table",
       "a.heading": "Intermediate Cutting Fluid",
       "anchor": "intermediate_cutting_fluid",
       "a.recipe": "bloodmagic:alchemytable/intermediate_cutting_fluid",
