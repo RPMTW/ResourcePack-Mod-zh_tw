@@ -2,10 +2,10 @@
   "modifier_id": "tconstruct:tank",
   "text": [
     {
-      "text": "Increases the tank capacity of the tool by 8 ingots (or 1152 mb) per level. Useful alongside abilities such as bucketing or melting."
+      "text": "每級增加 8 個錠（或 1152 mb）的工具儲罐容量。與裝桶或熔煉等能力一起使用時很有用。"
     },
     {
-      "text": "Tools with tanks have the ability to be filled and drained by interacting with fluid tank blocks.",
+      "text": "有儲液升級的工具可以通過與流體儲灌互動來填充和排出。",
       "paragraph": true
     }
   ],
