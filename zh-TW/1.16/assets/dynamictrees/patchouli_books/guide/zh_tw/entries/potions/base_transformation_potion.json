@@ -1,20 +1,20 @@
 {
-    "name": "Base Potion of Transformation",
+    "name": "基礎轉生藥水",
     "icon": "dynamictrees:dendro_potion{potion_index:6}",
     "category": "藥水",
     "sortnum": "4",
     "pages": [
         {
             "type": "釀造",
-            "title": "Base Potion of Transformation",
+            "title": "基礎轉生藥水",
             "ingredient": "minecraft:prismarine_crystals",
             "bottle": "dynamictrees:dendro_potion",
             "output": "dynamictrees:dendro_potion{potion_index:6}",
-            "text": "This is the brewing recipe for the base transformation potion.$(br2)All other transformation potions use this."
+            "text": "這是基礎轉生藥水的釀造配方。$(br2)所有其他轉生藥水都使用它。"
         },
         {
             "type": "relations",
-            "title": "Relations",
+            "title": "關係",
             "entries": [
                 "potions/base_potion",
                 "potions/burgeoning_potion",
