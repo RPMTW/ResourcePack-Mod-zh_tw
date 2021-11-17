@@ -2,7 +2,7 @@
   "name": "變更日誌",
   "icon": "minecraft：地圖",
   "category": "bloodmagic:utility",
-  "priority": "是",
+  "priority": "true",
   "pages": [
     {
       "type": "text",
