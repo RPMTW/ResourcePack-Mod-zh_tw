@@ -1,12 +1,12 @@
 {
-    "name": "Potion of Burgeoning",
+    "name": "生長藥水",
     "icon": "dynamictrees:dendro_potion{potion_index:3}",
     "category": "藥水",
     "sortnum": "3",
     "pages": [
         {
             "type": "釀造",
-            "title": "Potion of Burgeoning",
+            "title": "生長藥水",
             "ingredient": "minecraft:ghast_tear",
             "bottle": "dynamictrees:dendro_potion",
             "output": "dynamictrees:dendro_potion{potion_index:3}",
@@ -14,7 +14,7 @@
         },
         {
             "type": "relations",
-            "title": "Relations",
+            "title": "關係",
             "entries": [
                 "potions/base_potion",
                 "potions/depletion_potion",
