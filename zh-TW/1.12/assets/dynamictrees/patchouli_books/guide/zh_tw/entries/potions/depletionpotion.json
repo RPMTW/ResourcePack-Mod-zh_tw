@@ -1,20 +1,20 @@
 {
-    "name": "Potion of Depletion",
+    "name": "枯竭藥水",
     "icon": "dynamictrees:dendropotion:1",
     "category": "藥水",
     "sortnum": "2",
     "pages": [
         {
             "type": "釀造",
-            "title": "Potion of Depletion",
+            "title": "枯竭藥水",
             "ingredient": "minecraft:slime_ball",
             "bottle": "dynamictrees:dendropotion",
             "output": "dynamictrees:dendropotion:1",
-            "text": "This potion depletes the soil and causes the tree to stop growing."
+            "text": "這種藥水會枯竭土壤並導致樹木停止生長。"
         },
         {
             "type": "relations",
-            "title": "Relations",
+            "title": "關係",
             "entries": [
                 "potions/basepotion",
                 "potions/burgeoningpotion",
