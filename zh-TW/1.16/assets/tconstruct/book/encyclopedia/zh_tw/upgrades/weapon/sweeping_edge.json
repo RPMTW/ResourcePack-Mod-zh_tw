@@ -2,13 +2,13 @@
   "modifier_id": "tconstruct:sweeping_edge",
   "text": [
     {
-      "text": "Increases the amount of damage dealt by the swords sweep attack. Causes the tool to deal 50% of the main attack's damage at level 1, 67% of the damage at level 2, 75% at level 3, and 80% at level 4."
+      "text": "增加橫掃造成的傷害量。使該工具在 1 級時橫掃造成 50% 的攻擊傷害，2 級 67%、3 級 75%、4 級 80%。"
     }
   ],
   "more_text_space": true,
   "effects": [
     "可以逐漸提升等級",
-    "Maximum of 4 levels",
+    "最多強化至4級",
     "每個等級需要1個升級槽"
   ]
 }
