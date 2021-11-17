@@ -113,6 +113,6 @@
     "gui.xaero_box_closing_menu_when_hopping": "跳到定位點時關閉選單（選單中左鍵按下）",
     "gui.xaero_box_not_closing_menu_when_hopping": "跳到定位點時不關閉選單（選單中左鍵按下）",
     "gui.xaero_wm_update_notification": "更新通知",
-    "gui.xaero_wm_adjust_height_for_carpetlike_blocks": "Adjust Y For Short Blocks",
-    "gui.xaero_wm_box_adjust_height_for_carpetlike_blocks": "Subtract 1 from the height value for short carpetlike blocks, e.g. carpet, 1-layer snow, lilypad etc. This prevents such blocks from causing harsh shading on the map like a full block. Waypoints and teleportation over these blocks should make more sense too."
+    "gui.xaero_wm_adjust_height_for_carpetlike_blocks": "為短方塊調整 Y 座標",
+    "gui.xaero_wm_box_adjust_height_for_carpetlike_blocks": "從短地毯狀方塊的高度值中減去 1，例如地毯、1 層雪、荷葉等。這可以防止這些方塊在地圖上像一個完整的方塊一樣造成嚴重的陰影。在這些方塊上的定位點和進行傳送也應該更有意義。"
 }
