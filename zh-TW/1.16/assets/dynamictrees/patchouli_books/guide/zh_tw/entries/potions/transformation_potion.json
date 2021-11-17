@@ -1,12 +1,12 @@
 {
-    "name": "Potion of Transformation",
+    "name": "轉生藥水",
     "icon": "dynamictrees:dendro_potion{potion_index:6}",
     "category": "藥水",
     "sortnum": "3",
     "pages": [
         {
             "type": "釀造",
-            "title": "Potion of Transformation",
+            "title": "轉生藥水",
             "ingredient": "dynamictrees:oak_seed",
             "bottle": "dynamictrees:dendro_potion{potion_index:6}",
             "output": "dynamictrees:dendro_potion{potion_index:6,target:'dynamictrees:oak'}",
@@ -14,7 +14,7 @@
         },
         {
             "type": "relations",
-            "title": "Relations",
+            "title": "關係",
             "entries": [
                 "potions/base_potion",
                 "potions/burgeoning_potion",
