@@ -1,20 +1,20 @@
 {
-    "name": "Potion of Fertility",
+    "name": "肥沃藥水",
     "icon": "dynamictrees:dendropotion:4",
     "category": "藥水",
     "sortnum": "4",
     "pages": [
         {
             "type": "釀造",
-            "title": "Potion of Fertility",
+            "title": "肥沃藥水",
             "ingredient": "minecraft:fish",
             "bottle": "dynamictrees:dendropotion",
             "output": "dynamictrees:dendropotion:4",
-            "text": "This potion fully fertilizes the soil."
+            "text": "這種藥水可以使土壤充分肥沃。"
         },
         {
             "type": "relations",
-            "title": "Relations",
+            "title": "關係",
             "entries": [
                 "potions/basepotion",
                 "potions/burgeoningpotion",
