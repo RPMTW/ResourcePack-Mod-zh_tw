@@ -2,10 +2,10 @@
   "modifier_id": "tconstruct:magnetic",
   "text": [
     {
-      "text": "After mining blocks or attacking mobs, pulls items within 3 blocks towards the player, ignoring gravity."
+      "text": "在挖掘方塊或攻擊生物後，將 3 格方塊內的物品拉向玩家，無視重力。"
     },
     {
-      "text": "Each level adds 1 extra block of range, and increases the speed.",
+      "text": "每級增加 1 格額外範圍，並提高速度。",
       "paragraph": true
     }
   ],
