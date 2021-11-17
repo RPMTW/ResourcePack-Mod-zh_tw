@@ -5,16 +5,16 @@
       "text": "寬斧可以一次挖掘一整直列的樹木，或是垂直面上的6個方塊"
     },
     {
-      "text": "Expanders alternate between width and depth.",
+      "text": "範圍擴展器在寬度和深度之間交替。",
       "paragraph": true
     }
   ],
   "properties": [
-    "+5 Attack Damage",
-    "150% Attack Modifier",
-    "0.6 Attack Speed",
-    "30% Mining Modifier",
-    "425% Durability Modifier",
-    "Strips wood"
+    "+5 攻擊傷害",
+    "150% 攻擊倍率",
+    "0.6 攻擊速度",
+    "30% 挖掘速度倍率",
+    "425% 耐久倍率",
+    "可以剝皮木塊"
   ]
 }
