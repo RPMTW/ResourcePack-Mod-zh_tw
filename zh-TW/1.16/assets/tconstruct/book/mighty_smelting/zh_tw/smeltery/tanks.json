@@ -1,15 +1,15 @@
 {
-  "title": "Seared Tanks",
+  "title": "焦黑儲罐",
   "item": {
     "tag": "tconstruct:seared_tanks"
   },
   "text": [
     {
-      "text": "Tanks are good for storing molten fluids or fuels. If you want to melt metals in your smeltery you'll need one! Tanks can also be poured into from the smeltery if you want to store stuff for later.",
+      "text": "儲罐非常適合儲存熔融流體或燃料。 如果你想在你的冶煉爐熔化金屬，你會需要一個！ 如果你想儲存一些流體以備後用，也可以從冶煉爐中倒入儲罐。",
       "paragraph": true
     },
     {
-      "text": "Tanks can not be used for the floor of the smeltery.",
+      "text": "儲罐不能用於冶煉爐的地板。",
       "paragraph": true
     }
   ]
