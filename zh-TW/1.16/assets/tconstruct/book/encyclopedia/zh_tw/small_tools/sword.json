@@ -2,17 +2,17 @@
   "tool": "tconstruct:sword",
   "text": [
     {
-      "text": "The Sword is an all around weapon, granting medium speed and attack. Starts with 2 abilities, but 1 fewer upgrades."
+      "text": "劍是一種全能型武器，有中等攻擊速度和攻擊力。初始有 2 個能力槽，但少 1 個升級槽。"
     },
     {
-      "text": "Expanders on a sword increase the area of the sweep attack, while Silky grants shearing.",
+      "text": "劍上的延展升級會增加橫掃攻擊的範圍，而絲綢則提供剪刀功能。",
       "paragraph": true
     }
   ],
   "properties": [
-    "+3 Attack Damage",
-    "1.6 Attack Speed",
-    "110% Durability Modifier",
-    "Sweep Attack"
+    "+3 攻擊傷害",
+    "1.6 攻擊速度",
+    "110% 耐久倍率",
+    "橫掃攻擊"
   ]
 }
