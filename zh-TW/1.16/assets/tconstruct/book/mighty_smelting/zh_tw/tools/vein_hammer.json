@@ -2,13 +2,13 @@
   "tool": "tconstruct:vein_hammer",
   "text": [
     {
-      "text": "The vein hammer is a broad mining tool. It harvests blocks of the same type in veins."
+      "text": "礦脈錘是一種範圍型採礦工具，能一次採集連接的同類型方塊。"
     },
     {
       "text": "\n"
     },
     {
-      "text": "It is optimal for getting all ores in a vein in one hit."
+      "text": "適合一擊挖掘礦脈中所有礦石。"
     },
     {
       "text": "\n"
@@ -19,7 +19,7 @@
   ],
   "properties": [
     "需要工匠鐵砧",
-    "Vein mining",
+    "連鎖挖礦",
     "3x3 AOE 採礦",
     "貫穿傷害加成"
   ]
