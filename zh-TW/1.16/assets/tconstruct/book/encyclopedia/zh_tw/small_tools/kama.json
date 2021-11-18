@@ -2,19 +2,19 @@
   "tool": "tconstruct:kama",
   "text": [
     {
-      "text": "The Kama is a precision reaping tool, effective on plants, webs, and wool."
+      "text": "短刃鐮是一種精準的收割工具，用於採集植物、蜘蛛網和剪羊毛。"
     },
     {
-      "text": "Expanders increase the circular radius of the tool.",
+      "text": "延展升級增加了工具的圓形半徑。",
       "paragraph": true
     }
   ],
   "properties": [
-    "+1 Attack Damage",
-    "75% Attack Modifier",
-    "1.8 Attack Speed",
-    "Tills dirt",
-    "Shears plants and animals",
-    "Harvest plants"
+    "+1 攻擊傷害",
+    "75% 攻擊倍率",
+    "1.8 攻擊速度",
+    "開墾耕地",
+    "剪植物和動物",
+    "收穫植物"
   ]
 }
