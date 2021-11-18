@@ -2,10 +2,10 @@
   "modifier_id": "tconstruct:overslime",
   "text": [
     {
-      "text": "Overslime grants tools a second durability bar, which is consumed before the main durability bar. By default, tools start with 50 max overslime, multiplied by its durability modifier."
+      "text": "史萊姆塗層賦予工具第二個耐久條，替代主耐久條被消耗。默認情況下，工具初始擁有 50 最大史萊姆塗層，乘以它的耐久倍率。"
     },
     {
-      "text": "Tools with no slime-based parts have attack damage and mining speed reduced by 10%.",
+      "text": "沒有史萊姆部件的工具的攻擊傷害和挖掘速度降低 10%。",
       "paragraph": true
     }
   ],
