@@ -1,32 +1,32 @@
 部分
 intro=簡介
 
-small_tools=Small Tools
-small_tools.info=Tool Information
-large_tools=Broad Tools
-large_tools.info=Tool Information
+small_tools=小型工具
+small_tools.info=工具資訊
+large_tools=大型工具
+large_tools.info=工具資訊
 
 tier_one_materials=第一階段材料
 tier_two_materials=第二階段材料
 tier_three_materials=第三階段材料
 tier_four_materials=第四階段材料
 
-upgrades=Upgrades
-upgrades.subtext=Each tool gets a limited total number of upgrades slots.
-upgrades.general=§1§lGeneral§r
-upgrades.harvest=§1§lHarvest§r
-upgrades.weapon=§1§lWeapon§r
+upgrades=升級
+upgrades.subtext=每個工具的升級槽總數是有限的。
+upgrades.general=§1§l通用§r
+upgrades.harvest=§1§l挖掘§r
+upgrades.weapon=§1§l武器§r
 
-slotless=Slotless
-slotless.subtext=Slotless modifiers do not require any slots.
-slotless.general=§1§lGeneral§r
-slotless.bonus=§1§lBonus§r
+slotless=無槽
+slotless.subtext=無槽升級不需要消耗任何升級槽。
+slotless.general=§1§l通用§r
+slotless.bonus=§1§l加成§r
 
-abilities=Abilities
-abilities.subtext=Ability modifiers have fewer slots than upgrades, but are stronger per slot.
-abilities.general=§1§lGeneral§r
-abilities.harvest=§1§lHarvest§r
-abilities.interact=§1§lInteraction§r
+abilities=能力
+abilities.subtext=能力強化的槽數比升級少，但功能更強。
+abilities.general=§1§l通用§r
+abilities.harvest=§1§l挖掘§r
+abilities.interact=§1§l相互作用§r
 
 modifier.effect=效果:
 tool.properties=屬性:
