@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:luck",
   "text": [
     {
-      "text": "In my experience, there's no such thing as luck."
+      "text": "根據我的經驗，沒有運氣這回事。"
     }
   ],
   "effects": [
-    "Increases mob drops and block drops",
-    "Maximum of 3 levels, different recipe for each level",
-    "Requires 1 Ability Slot for the first level, following levels do not need another slot"
+    "增加擊殺生物與破壞方塊後的掉落物數量與稀有掉落物機率",
+    "最高 3 級，每個等級所需材料不同",
+    "第一級需要 1 個能力槽，之後不需要其他升級槽"
   ]
 }
