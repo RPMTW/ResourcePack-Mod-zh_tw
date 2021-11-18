@@ -1,15 +1,15 @@
 {
-  "title": "Seared Glass",
+  "title": "焦黑玻璃",
   "item": {
     "id": "tconstruct:seared_glass"
   },
   "text": [
     {
-      "text": "Looking at your mighty marvels of molten materials without invalidating your smeltery can be done with this glass. Do note it doesn't store fluid unlike tanks.",
+      "text": "這種玻璃可以使你觀察熔融材料的巨大奇蹟，同時不讓冶煉爐失效。請注意，它不像儲罐那樣儲存液體。",
       "paragraph": true
     },
     {
-      "text": "Glass can not be used for the floor of the smeltery.",
+      "text": "玻璃不能用於冶煉爐的地板。",
       "paragraph": true
     }
   ]
