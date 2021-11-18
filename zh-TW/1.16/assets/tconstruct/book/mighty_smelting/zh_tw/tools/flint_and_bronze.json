@@ -2,18 +2,18 @@
   "tool": "tconstruct:flint_and_bronze",
   "text": [
     {
-      "text": "Flint and Bronze is an affordable tool effective for starting fires."
+      "text": "青銅打火石是一種經濟實惠的工具，適用於點火。"
     },
     {
       "text": "\n"
     },
     {
-      "text": "Unlike other most other tools, it is crafted in a crafting station or crafting table."
+      "text": "與其他大多數工具不同，它是在工作站或工作台中製作的。"
     }
   ],
   "properties": [
-    "Creates fires",
-    "Starts with fiery 1",
-    "Repaired using tinker's bronze"
+    "製造火",
+    "初始擁有怒火 I，點燃攻擊目標",
+    "用匠魂青銅修復"
   ]
 }
