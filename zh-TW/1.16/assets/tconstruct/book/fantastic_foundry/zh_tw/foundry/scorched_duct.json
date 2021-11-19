@@ -1,15 +1,15 @@
 {
-  "title": "Scorched Duct",
+  "title": "焦灼輸導孔",
   "item": {
     "id": "tconstruct:scorched_duct"
   },
   "text": [
     {
-      "text": "The seared duct is your way to pull a specific fluid out of the foundry. The fluid is chosen by putting a copper can or bucket full of a liquid in the duct's filter slot.",
+      "text": "焦灼輸導孔能將特定液體從熔鑄爐中輸出。將裝滿液體的銅罐或桶放入管道的過濾槽中來選擇流體。",
       "paragraph": true
     },
     {
-      "text": "The fluid that you have selected to be filterd will show on the middle of the duct.",
+      "text": "要過濾的液體將顯示在管道的中間。",
       "paragraph": true
     }
   ]
