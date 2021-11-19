@@ -4,5 +4,6 @@
     "tip.lightingwand.uncharged": "未充能",
     "lightingwand.spellpiece.trick_conjure_invisible_light": "術式: 生成隱形光源",
     "lightingwand.spellpiece.trick_conjure_invisible_light.desc": "在指定的位置變出一團亮光， 只有手持魔杖才看得見光源方塊。 第二個參數為光源強度。",
-    "psi.spellerror.lightingwand.light": "錯誤: 量值必須介於 0 到 15 之間"
+    "psi.spellerror.lightingwand.light": "錯誤: 量值必須介於 0 到 15 之間",
+    "tip.lightingwand.light": "Light: %s"
 }
