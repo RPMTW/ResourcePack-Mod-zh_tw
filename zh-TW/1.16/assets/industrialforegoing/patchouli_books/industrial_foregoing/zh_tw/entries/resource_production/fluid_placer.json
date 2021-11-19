@@ -7,10 +7,10 @@
   "pages": [
     {
       "type": "text",
-      "text": "它會放置液體。$(br2)它會放置內部容器的液體，並使用$(6)1000$()RF。"
+      "text": "It places fluids.$(br2)It will place the fluid from the internal container and use $(6)1000$()RF."
     },
     {
-      "type": "crafting",
+      "type": "合成",
       "recipe": "industrialforegoing:fluid_placer"
     }
   ]

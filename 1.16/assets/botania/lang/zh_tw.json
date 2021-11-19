@@ -2137,7 +2137,7 @@
     "botania.page.manaEnchanting9": "During the enchanting process, the item being enchanted can't be removed.$(p)Additionally, if any component of the construct is removed at any point of the process, the core will revert to its original $(item)Lapis Lazuli Block$(0) form, and all mana transferred will be lost.",
     "botania.entry.turntable": "Spreader Turntable",
     "botania.tagline.turntable": "Spin spreaders around",
-    "botania.page.turntable0": "The $(item)Spreader Turntable$(0), as its name implies, continually rotates a $(l:mana/spreader)$(item)Mana Spreaders$(0)$(/l) placed upon it. Placing a spreader on a turntable will set it spinning; a redstone signal pauses its spin.$(p)To change the speed of a turntable, right-click it with a $(l:basics/wand)$(item)Wand of the Forest$(0)$(/l); sneak-right clicking it will change its direction.",
+    "botania.page.turntable0": "The $(item)Spreader Turntable$(0), as its name implies, continually rotates a $(l:mana/spreader)$(item)Mana Spreader$(0)$(/l) placed upon it. Placing a spreader on a turntable will set it spinning; a redstone signal pauses its spin.$(p)To change the speed of a turntable, right-click it with a $(l:basics/wand)$(item)Wand of the Forest$(0)$(/l); sneak-right clicking it will change its direction.",
     "botania.page.turntable2": "Similarly, a $(item)Dispenser$(0) with a $(l:basics/wand)$(item)Wand of the Forest$(0)$(/l) from the side will change the speed, and one from the bottom will change the direction.",
     "botania.page.turntable1": "You spin me right round",
     "botania.entry.manaAlchemy": "Alchemising with Mana",
@@ -3002,7 +3002,7 @@
     "botania.entry.headCreating": "Head Creation",
     "botania.tagline.headCreating": "Create any player's head",
     "botania.page.headCreating0": "A commonly-invoked spell of the Elves is the use of a few resources and a $(item)Name Tag$(0) to transmute a piece of $(l:basics/pure_daisy)$(item)Livingrock$(0)$(/l) into the head of the $(thing)Player$(0) named by the tag.$(p)Its exact mechanics are unknown, but the spell seems easy enough to replicate on a $(l:basics/rune_altar)$(item)Runic Altar$(0)$(/l).",
-    "botania.page.headCreating2": "A subset of the $(thing)Minecraft$(0) community (whoops fourth wall) has dedicated itself to creating heads that serve as all sorts of decorations. $(l:https://freshcoal.com/maincollection)Clicking on this sentence will take you to a website with a list of names usable for this purpose.$(/l) Do note, however, that this list is not affiliated with Botania in any way, shape, or form, and is definitely not the only place to find these types of heads.",
+    "botania.page.headCreating2": "A subset of the $(thing)Minecraft$(0) community (whoops fourth wall) has dedicated itself to creating heads that serve as all sorts of decorations. Avid decorators might consider visiting some community websites that aggregate these heads.",
     "botania.page.headCreating1": "Get your head in the game",
     "botania.entry.azulejo": "Azulejos",
     "botania.tagline.azulejo": "Blue-and-white decorative tiles",
@@ -3103,5 +3103,11 @@
     "botania.subtitle.labellia": "Labellia renames something",
     "botaniamisc.rannuncarpus.state_sensitive": "Match Exact State",
     "botaniamisc.rannuncarpus.state_insensitive": "Match Block Only",
-    "block.botania.floating_labellia": "Floating Labellia"
+    "block.botania.floating_labellia": "Floating Labellia",
+    "block.botania.tangleberrie_chibi": "Tangleberrie Petite",
+    "block.botania.tangleberrie_chibi.reference": "No frying pans allowed",
+    "block.botania.floating_tangleberrie_chibi": "Floating Tangleberrie Petite",
+    "block.botania.jiyuulia_chibi": "Jiyuulia Petite",
+    "block.botania.jiyuulia_chibi.reference": "Flügel der Freiheit",
+    "block.botania.floating_jiyuulia_chibi": "Floating Jiyuulia Petite"
 }

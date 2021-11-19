@@ -7,10 +7,10 @@
   "pages": [
     {
       "type": "text",
-      "text": "將前方的流體收入其中，並消耗$(6)1000$()RF。"
+      "text": "It drains a fluid source block in front of it.$(br2)It will place the fluid from the internal container and use $(6)1000$()RF."
     },
     {
-      "type": "crafting",
+      "type": "合成",
       "recipe": "industrialforegoing:fluid_collector"
     }
   ]

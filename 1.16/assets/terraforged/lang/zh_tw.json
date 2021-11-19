@@ -369,5 +369,20 @@
     "tooltip.terraforged.world.control_points.shallow_ocean": "Controls the point above which shallow oceans transition into coastal terrain.\nThe greater the gap to the coast slider, the more gradual the transition.",
     "tooltip.terraforged.world.properties.sea_level": "Controls the sea level",
     "tooltip.terraforged.world.properties.spawn_type": "Set whether spawn should be close to x=0,z=0 or the centre of the nearest continent",
-    "tooltip.terraforged.world.properties.world_height": "Controls the world height"
+    "tooltip.terraforged.world.properties.world_height": "Controls the world height",
+    "display.terraforged.minecraft:bastion_remnant": "minecraft:bastion_remnant",
+    "display.terraforged.minecraft:endcity": "minecraft:endcity",
+    "display.terraforged.minecraft:fortress": "minecraft:fortress",
+    "display.terraforged.minecraft:nether_fossil": "minecraft:nether_fossil",
+    "display.terraforged.minecraft:stronghold": "minecraft:stronghold",
+    "display.terraforged.world.continent.continent_noise_gain": "Continent Noise Gain",
+    "display.terraforged.world.continent.continent_noise_lacunarity": "Continent Noise Lacunarity",
+    "display.terraforged.world.continent.continent_noise_octaves": "Continent Noise Octaves",
+    "display.terraforged.world.continent.continent_size_variance": "Continent Size Variance",
+    "display.terraforged.world.continent.continent_skipping": "Continent Skipping",
+    "tooltip.terraforged.world.continent.continent_noise_gain": "The contribution strength of each noise octave.",
+    "tooltip.terraforged.world.continent.continent_noise_lacunarity": "The frequency multiplier for each noise octave.",
+    "tooltip.terraforged.world.continent.continent_noise_octaves": "The number of octaves of noise used to distort the continent.",
+    "tooltip.terraforged.world.continent.continent_size_variance": "Increases the variance of continent sizes.",
+    "tooltip.terraforged.world.continent.continent_skipping": "Reduces the number of continents to create more vast oceans."
 }

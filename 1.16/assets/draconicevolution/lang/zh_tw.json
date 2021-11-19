@@ -596,5 +596,19 @@
     "tech_level.draconicevolution.wyvern": "Wyvern",
     "tile.draconicevolution.dislocation_inhibitor.info": "Prevents items dropped within 5 block from being collected by Item Dislocators.",
     "tooltip.draconicevolution.bow.damage": "%s Max Attack Damage",
-    "tooltip.draconicevolution.bow.energy_per_shot": "%s OP/shot"
+    "tooltip.draconicevolution.bow.energy_per_shot": "%s OP/shot",
+    "dislocate.draconicevolution.bound.bound_to": "Bound To",
+    "dislocate.draconicevolution.bound.cant_find_player": "The bound player is not online!",
+    "dislocate.draconicevolution.bound.cant_find_target": "Could not find the bound dislocator!",
+    "dislocate.draconicevolution.bound.click_to_link": "Right click to create bound pair",
+    "dislocate.draconicevolution.bound.click_to_link_self": "Right click to bind to yourself",
+    "dislocate.draconicevolution.bound.in_player_inventory": "The bound dislocator is in a players inventory. Will teleport to player.",
+    "dislocate.draconicevolution.bound.key": "Unique Key",
+    "dislocate.draconicevolution.bound.link_id": "Link ID",
+    "dislocate.draconicevolution.bound.player_link": "Bound to player",
+    "dislocate.draconicevolution.bound.unknown_link": "Unknown Location",
+    "item.draconicevolution.p2p_dislocator": "Bound Dislocator (Point to Point)",
+    "item.draconicevolution.p2p_dislocator_unbound": "Un-Bound Dislocator (Point to Point)",
+    "item.draconicevolution.player_dislocator": "Bound Dislocator (Player)",
+    "item.draconicevolution.player_dislocator_unbound": "Un-Bound Dislocator (Player)"
 }

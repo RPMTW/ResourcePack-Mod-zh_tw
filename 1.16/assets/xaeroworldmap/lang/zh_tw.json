@@ -113,5 +113,8 @@
     "gui.xaero_wm_detect_ambiguous_y": "Detect Ambiguous Y In Discovered",
     "gui.xaero_wm_box_detect_ambiguous_y": "A single pixel on the map can contain multiple transparent layers and an opaque block under them. In older non-cache map data files, only the Y level (height) of the opaque block is stored in such cases, which often makes it unsafe to blindly teleport to the stored Y coordinate. When this setting is ON, the mod treats such map pixels as it would undiscovered chunks. It defaults to 2D waypoints and disables direct teleportation to such pixels. Disable this at your own risk!",
     "gui.xaero_box_closing_menu_when_hopping": "Closing The Menu When Hopping To A Waypoint (left-clicking in the menu)",
-    "gui.xaero_box_not_closing_menu_when_hopping": "Not Closing The Menu When Hopping To A Waypoint (left-clicking in the menu)"
+    "gui.xaero_box_not_closing_menu_when_hopping": "Not Closing The Menu When Hopping To A Waypoint (left-clicking in the menu)",
+    "gui.xaero_wm_update_notification": "Update Notifications",
+    "gui.xaero_wm_adjust_height_for_carpetlike_blocks": "Adjust Y For Short Blocks",
+    "gui.xaero_wm_box_adjust_height_for_carpetlike_blocks": "Subtract 1 from the height value for short carpetlike blocks, e.g. carpet, 1-layer snow, lilypad etc. This prevents such blocks from causing harsh shading on the map like a full block. Waypoints and teleportation over these blocks should make more sense too."
 }

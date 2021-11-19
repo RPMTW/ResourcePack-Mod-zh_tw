@@ -10,13 +10,13 @@
             "text": "Phyto explosives will instantly apply a bonemeal effect to all crops and grass in an area. Explosive blocks and grenades have radii of 9 and 5 blocks, respectively."
         },
         {
-            "type": "crafting",
+            "type": "合成",
             "recipe": "thermal:phyto_tnt",
             "recipe2": "thermal:phyto_grenade_4"
         },
         {
             "flag": "&mod:thermal_cultivation,mod:thermal_locomotion",
-            "type": "crafting",
+            "type": "合成",
             "recipe": "thermal:phyto_tnt_minecart",
             "title": "PNT Minecart"
         }

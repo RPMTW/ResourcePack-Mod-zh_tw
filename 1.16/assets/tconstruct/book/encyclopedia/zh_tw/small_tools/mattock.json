@@ -1,0 +1,13 @@
+{
+  "tool": "tconstruct:mattock",
+  "text": [
+    { "text": "The Mattock is a Expandprecise digging and chopping tool, effective on wood, dirt, gravel, and sand." },
+    { "text": "Expanders cause adjacent blocks of the same type to also be mined, with range based on the number of expanders.", "paragraph": true }
+  ],
+  "properties": [
+    "+1.5 Attack Damage",
+    "1.0 Attack Speed",
+    "Knockback I",
+    "Makes paths"
+  ]
+}
