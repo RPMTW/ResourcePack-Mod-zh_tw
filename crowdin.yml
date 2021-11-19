@@ -1,7 +1,7 @@
-commit_message: "New translations %original_file_name% from Crowdin"
+commit_message: New translations %original_file_name% from Crowdin
 append_commit_message: false
 files:
   - source: 1.18/assets*
     ignore:
       - zh-TW
-    translation: "%original_path%/%file_name%.%file_extension%"
+    translation: '%original_path%/%file_name%.%file_extension%'
