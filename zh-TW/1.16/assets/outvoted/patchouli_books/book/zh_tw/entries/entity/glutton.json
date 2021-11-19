@@ -7,19 +7,19 @@
       "type": "entity",
       "entity": "outvoted:glutton{Variant:0}",
       "scale": "0.7",
-      "text": "The Glutton is a unique mob that has interesting abilities related to enchantments."
+      "text": "暴食者是一種獨特的生物，具有與附魔相關的有趣能力。"
     },
     {
       "type": "text",
-      "text": "The Glutton is a complex mob that is able to consume items thrown into its mouth and store the enchantments. It can then apply those enchantments to a new enchantable item thrown in, given that the item has no enchantments to begin with. Any unenchantable items will be permanently consumed, like a trash can. It is also able to get enchantments one level higher than the max when 2 max level enchants are combined. It can not go any higher than 1 above max, and only works on enchantments that have levels higher than 1."
+      "text": "暴食者是一種複雜的生物，能夠吃掉扔進嘴裡的物品並儲存附魔。然後它可以將這些附魔套用到一個新的可附魔物品上，因為該物品一開始沒有附魔。任何無法附魔的物品都將被刪除，就像垃圾桶一樣。當 2 個最高等級的附魔組合時，它還可以獲得比最高等級高一級的附魔。它不能高於最大值 1，並且僅適用於等級高於 1 的附魔。"
     },
     {
       "type": "text",
-      "text": "It can combine enchantments that wouldn't be able to normally like Infinity and Mending, but refuses to do so on any sort of protection. Once and item is used in the Glutton, it can no longer be used with a Glutton, but can still be modified in an anvil or grindstone."
+      "text": "它可以結合通常無法像是無限和修補等不相容的附魔，但在任何保護下都拒絕這樣做。一旦和物品在暴食者中使用，它就不能再與暴食者一起使用，但仍然可以在鐵砧或砂輪中進行修改。"
     },
     {
       "type": "text",
-      "text": "Taking damage from the Glutton will cause 1 random enchanted item in your inventory to lose an enchantment level (if enabled in config). If the enchantment is already at minimum level, it will remove the enchantment entirely.$(br2)Drops: Bottle o' Enchanting, $(l:items/void_heart)Void Heart$(/l)"
+      "text": "受到暴食者的傷害會導致您物品欄中的 1 個隨機附魔物品失去附魔等級。如果附魔已經在最低等級，它將完全移除附魔。$(br2)掉落物：經驗瓶、$(l:items/void_heart)虛空之心$(/l)"
     },
     {
       "type": "entity",

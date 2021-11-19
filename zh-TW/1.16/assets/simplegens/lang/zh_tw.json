@@ -101,5 +101,10 @@
     "guide.simplegens.soul.button.title": "靈魂發電機",
     "guide.simplegens.soul.description": "靈魂發電機需要存有怪物靈魂的物品。通常這些物品是怪物頭顱或其他來自怪物的稀有掉落物。",
     "guide.simplegens.modifier_speed.desc": "    速度升級將提高發電機運行的速度。請謹慎使用，因為速度和消耗率會同等增加。",
-    "guide.simplegens.modifier_efficiency": "    發電機沒有提升運行速度，但它能使用更少的燃料。"
+    "guide.simplegens.modifier_efficiency": "    發電機沒有提升運行速度，但它能使用更少的燃料。",
+    "gui.simplegens.duration_rates": "Duration Rates",
+    "gui.simplegens.level_rates": "Level Rates",
+    "gui.simplegens.level": "Level",
+    "jei.simplegens.simple_xp.title": "Simple XP Generator",
+    "jei.simplegens.upgradable_xp.title": "Upgradable XP Generator"
 }

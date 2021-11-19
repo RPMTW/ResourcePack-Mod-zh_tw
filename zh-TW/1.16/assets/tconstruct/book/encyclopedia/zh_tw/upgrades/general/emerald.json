@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:emerald",
+  "text": [
+    {
+      "text": "給予 50% 的耐久度和對窳民造成額外 +2.5 傷害。並將工具的挖掘等級提高為鐵。"
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "最高只有 1 級",
+    "需要1個升級槽"
+  ]
+}

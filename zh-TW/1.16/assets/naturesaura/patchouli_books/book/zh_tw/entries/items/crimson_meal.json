@@ -1,20 +1,20 @@
 {
-    "name": "Crimson Meal",
+    "name": "猩紅粉末",
     "icon": "naturesaura:crimson_meal",
     "category": "items",
     "advancement": "naturesaura:aura_bottle_nether",
     "pages": [
         {
             "type": "text",
-            "text": "Most of the time, $(item)Bone Meal$() serves the purpose it needs to serve: Fertilizing any plants to make them grow a lot faster. However, when it comes to the $(thing)Nether$() dimension, simple bone meal doesn't fare so well.$(br)This issue, however, can be easily avoided through the use of $(item)Crimson Meal$().$(br)Not only will this substance make any $(item)Nether Wart$() plants grow faster in a similar fashion to how bone meal"
+            "text": "大多數時候，$(item)骨粉$()都能起到它該起的作用：對植物施肥，使其生長速度大大加快。然而，當來到$(thing)地獄$()維度時，簡單的骨粉不再所向披靡。$(br)這個問題，可以通過使用$(item)猩紅粉末$()輕鬆避免。$(br)這種物質不但會使任何$(item)地獄疙瘩$()類植物以類似骨粉的方式生長得更快，"
         },
         {
             "type": "text",
-            "text": "works, but it will also cause fully grown $(item)Nether Wart$() to turn into a huge $(thing)nether wart mushroom$() that can be harvested for a higher yield of produce."
+            "text": "還會使完全成熟的$(item)地獄疙瘩$()變成可收穫的巨大$(thing)地獄疙瘩蘑菇$()，從而使產量更高。"
         },
         {
             "type": "crafting",
-            "text": "Creating the $(item)Crimson Meal$()",
+            "text": "製作$(item)猩紅粉末$()",
             "recipe": "naturesaura:crimson_meal"
         }
     ]

@@ -1,0 +1,22 @@
+{
+    "name": "魷魚",
+    "icon": "minecraft:ink_sac",
+    "category": "creatures",
+    "pages": [
+        {
+            "type": "animal_spawn_info",
+            "animal": "squid",
+            "breed": "不可繁殖;",
+            "tame": "不可馴服",
+            "blurb": "用玻璃瓶右鍵魷魚可以取得墨水！"
+        },
+        {
+            "type": "entity",
+            "name": "魷魚",
+            "entity": "minecraft:squid",
+            "scale": "0.5",
+            "offset": "-0.65",
+            "text": "魷魚鬚可以烤熟了吃！"
+        }
+    ]
+}

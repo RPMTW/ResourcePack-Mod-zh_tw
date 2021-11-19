@@ -1,20 +1,20 @@
 {
-    "name": "Item Distributor",
+    "name": "物品分配器",
     "icon": "naturesaura:item_distributor",
     "category": "devices",
     "advancement": "naturesaura:infused_materials",
     "pages": [
         {
             "type": "text",
-            "text": "In a time long past, non-botanic scientists had created an actual addition to the world: The $(item)Item Distributor$(). Yet back in the day, its state was far less than functioning, but $(aura) turned this around by infusing the materials with the required power to move items by a designated pattern.$(br)The $(item)Item Distributor$() will take any items from containers that are placed $(thing)on top$() of it and"
+            "text": "很久以前，非植物的科學家曾創造了對世界的一大貢獻：$(item)物品分配器$()。在那時，它遠算不上好用，但在當下，通過用設計需要的強度進行材料灌注，使得物品以設計好的模式移動，$(#419600)靈氣$()成功地逆轉了之前難用的窘境。$(br)$(item)物品分配器$()會從它$(thing)頂部$()的容器內抽取任何物品，"
         },
         {
             "type": "text",
-            "text": "distribute them $(thing)equally$() throughout all of the containers that are placed $(thing)on the sides$() of it. Additionally, when having an $(l:items/eye)Environmental Eye$() equipped, the distributor is able to be switched into $(thing)random mode$() simply by sneaking and interacting with it. Following this action, items will not be distributed into the inventories equally, but randomly. This can be useful, for example, for redstone contraptions that require randomness."
+            "text": "然後$(thing)等量地$()將物品分配到到$(thing)側面$()的所有容器中。此外，在裝備$(l:items/eye)環境之眼$()時對其潛行互動，它就能切換為$(thing)隨機模式$()。這樣切換後，物品不會被等量分配，而是被隨機分配。這可能在需要隨機性的紅石設計裡會很有用。"
         },
         {
             "type": "crafting",
-            "text": "Creating the $(item)Item Distributor$()",
+            "text": "製作$(item)物品分配器$()",
             "recipe": "naturesaura:item_distributor"
         }
     ]

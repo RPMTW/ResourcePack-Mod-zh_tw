@@ -1,0 +1,12 @@
+{
+  "name": "蛋白棒",
+  "icon": "croptopia:protein_bar",
+  "category": "croptopia:snacks",
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "croptopia:protein_bar",
+      "text": "蛋白棒的食譜"
+    }
+  ]
+}

@@ -1,13 +1,13 @@
 {
     "item.rftoolsbase.network_monitor": "RF網路監視儀",
-    "item.rftoolsbase.teleport_probe": "傳輸除錯儀",
+    "item.rftoolsbase.teleport_probe": "傳送除錯儀",
     "item.rftoolsbase.filter_module": "儲存過濾模組",
-    "item.rftoolsbase.developers_delight": "開發者指南工具",
+    "item.rftoolsbase.developers_delight": "RF工具維度說明書",
     "item.rftoolsbase.shard_wand": "空間碎片杖",
     "item.rftoolsbase.orphaning_card": "棄權卡",
     "item.rftoolsbase.security_card": "安全卡",
     "item.rftoolsbase.infused_diamond": "充能鑽石",
-    "item.rftoolsbase.infused_enderpearl": "充能終界珍珠",
+    "item.rftoolsbase.infused_enderpearl": "蘊魔終界珍珠",
     "item.rftoolsbase.smartwrench": "智慧扳手",
     "item.rftoolsbase.smartwrench_select": "智慧扳手（選擇）",
     "item.rftoolsbase.dimensionalshard": "空間碎片",
@@ -17,7 +17,7 @@
     "item.rftoolsbase.tablet": "平板電腦（空）",
     "item.rftoolsbase.tablet_filled": "平板電腦（滿）",
     "item.rftoolsbase.manual": "RF工具指導手冊",
-    "block.rftoolsbase.machine_infuser": "注能機",
+    "block.rftoolsbase.machine_infuser": "機器注能機",
     "block.rftoolsbase.security_manager": "權限管理器",
     "block.rftoolsbase.dimensionalshard_overworld": "空間碎片礦",
     "block.rftoolsbase.dimensionalshard_nether": "空間碎片礦",
@@ -26,8 +26,8 @@
     "_comment": "Creative Tabs",
     "itemGroup.rftoolsbase": "RF 工具｜基礎",
     "key.categories.rftools": "RF 工具",
-    "key.debugDumpNBTItem": "獲取手持物品的NBT",
-    "key.debugDumpNBTBlock": "獲取選中方塊的NBT",
+    "key.debugDumpNBTItem": "導出手持物品的 NBT",
+    "key.debugDumpNBTBlock": "導出被選擇方塊的 NBT",
     "key.nextDestination": "循環到下一個目標",
     "key.prevDestination": "循環到上一個目標",
     "message.rftoolsbase.shiftmessage": "<按住 Shift>",
@@ -53,5 +53,5 @@
     "message.rftoolsbase.smartwrench_select.gold": "選擇模式：潛行右擊拆卸，右擊旋轉",
     "message.rftoolsbase.smartwrench_select.info1": "模式：",
     "message.rftoolsbase.smartwrench_select.info2": "方塊： ",
-    "message.rftoolsbase.security_manager": "@a內容: %s 組\n@f此塊管理您的安全卡"
+    "message.rftoolsbase.security_manager": "@a滿足：%s組\n@f 這個機器管理你的安全卡"
 }

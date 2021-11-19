@@ -7,10 +7,10 @@
   "pages": [
     {
       "type": "text",
-      "text": "When fully charged with a $(l:resource_production/laser_drill)Laser Drill$() it will fluids. To do it will need a specific catalyst that won't be consumed and the machine will need to be placed in an specific biome and be drilling at a specific depth. $(br2)Some fluids might need an entity under the machine to produce the fluid. $(br2)Check JEI for values."
+      "text": "當完全充能$(l:resource_production/laser_drill)雷射鑽$()時，它會產生流體。 要做到這一點，就需要一種不會消耗的特定催化劑，而機器需要放置在特定的生態系中，並在特定的高度進行鑽孔。$(br2)生產一些流體可能需要在機器下方放置特定生物。$(br2)善用JEI查詢。"
     },
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "industrialforegoing:fluid_laser_base"
     }
   ]

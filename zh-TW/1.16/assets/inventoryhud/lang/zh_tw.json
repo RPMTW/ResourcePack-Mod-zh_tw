@@ -63,5 +63,7 @@
     "key.inventoryhud.togglepot": "打開/關閉藥水 HUD",
     "key.inventoryhud.togglearm": "打開/關閉裝備 HUD",
     "inventoryhud.config.gui.update": "有新版本可用！",
-    "inventoryhud.config.gui.updateclick": "點擊獲取"
+    "inventoryhud.config.gui.updateclick": "點擊獲取",
+    "inventoryhud.config.gui.bardur": "狀態條持續時間：",
+    "inventoryhud.config.gui.bardur.tt": "完整狀態條的持續時間（以秒為單位）（迷你模式的設定）"
 }

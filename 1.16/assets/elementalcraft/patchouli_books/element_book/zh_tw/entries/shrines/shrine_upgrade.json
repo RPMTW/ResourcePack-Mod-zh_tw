@@ -1,0 +1,39 @@
+{
+  "name": "item.elementalcraft.shrinebase",
+  "category": "elementalcraft:shrines",
+  "icon": "elementalcraft:shrine_upgrade_acceleration",
+  "advancement": "elementalcraft:pickup/shrine_upgrade_core",
+  "turnin": "elementalcraft:pickup/shrine_upgrade_core",
+  "sortnum": 100,
+  "pages": [
+    {
+      "type": "text",
+      "text": "elementalcraft.page.shrine_upgrade0"
+    },
+    {
+      "type": "crafting",
+      "recipe": "elementalcraft:shrine_upgrade_range",
+      "recipe2": "elementalcraft:shrine_upgrade_capacity"
+    },
+    {
+      "type": "crafting",
+      "recipe": "elementalcraft:shrine_upgrade_efficiency",
+      "recipe2": "elementalcraft:shrine_upgrade_strength"
+    },
+    {
+      "type": "crafting",
+      "recipe": "elementalcraft:shrine_upgrade_fortune",
+      "recipe2": "elementalcraft:shrine_upgrade_silk_touch"
+    },
+    {
+      "type": "crafting",
+      "recipe": "elementalcraft:shrine_upgrade_acceleration",
+      "recipe2": "elementalcraft:shrine_upgrade_optimization"
+    },
+    {
+      "type": "crafting",
+      "recipe": "elementalcraft:shrine_upgrade_planting",
+      "recipe2": "elementalcraft:shrine_upgrade_nectar"
+    }
+  ]
+}

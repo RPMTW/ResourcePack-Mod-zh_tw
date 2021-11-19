@@ -1,0 +1,35 @@
+{
+  "modifier_id": "tconstruct:bucketing",
+  "text": [
+    {
+      "text": "§oThis is a bucket.§r"
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "§lDear God.§r",
+      "pargraph": true
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "§oThere's more.§r",
+      "pargraph": true
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "§lNooo.§r",
+      "pargraph": true
+    }
+  ],
+  "effects": [
+    "您的工具現在也是個桶",
+    "儲液升級可以增加儲罐容量",
+    "單次升級",
+    "需要 1 個能力槽"
+  ]
+}

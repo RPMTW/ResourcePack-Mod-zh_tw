@@ -7,10 +7,10 @@
   "pages": [
     {
       "type": "text",
-      "text": "3 Furnaces in 1.$(br2)Returns $(6)2$()mb of Essence per item melted. Requires $(6)40$()RF/t."
+      "text": "三爐合一。$(br2)每燒一個物品會產生$(6)2$()mb的精華液。一次需要$(6)40$()RF/t。"
     },
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "industrialforegoing:resourceful_furnace"
     }
   ]

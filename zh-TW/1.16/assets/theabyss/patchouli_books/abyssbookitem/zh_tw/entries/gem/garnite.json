@@ -1,0 +1,42 @@
+{
+	"name": "Garnite Ingot",
+	"icon": "theabyss:garnite_ingot",
+	"category": "gem",
+	"advancement": "theabyss:garnite_ore_adv",
+	"priority": false,
+	"secret": false,
+	"read_by_default": false,
+	"pages": [
+		{
+			"type": "spotlight",
+			"item": "theabyss:garnite_ingot",
+			"title": "Garnite Ingot",
+			"link_recipe": false,
+			"text": "Garnite Ores can be found in the Slime Forest and Blue Jungles. They are found at an altitude of 5 to 12. With Ignisithe you can make weapons, armor and other things."
+		},
+		{
+			"type": "multiblock",
+			"text": "Garnite Ore.",
+			"name": "Garnite Ore",
+			"multiblock": {
+				"pattern": [
+					[
+						"0"
+					],
+					[
+						"A"
+					],
+					[
+						" "
+					],
+					[
+						" "
+					]
+				],
+				"mapping": {
+					"A": "theabyss:garnite_ore"
+				}
+			}
+		}
+	]
+}

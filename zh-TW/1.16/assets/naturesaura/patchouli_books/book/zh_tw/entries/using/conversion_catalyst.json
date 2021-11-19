@@ -6,7 +6,7 @@
     "pages": [
         {
             "type": "text",
-            "text": "The $(l:using/altar)Natural Altar$() can be useful for infusing certain items with the power of $(aura), however, it can also assist in transmuting items from one type into another.$(br)This can be achieved by creating the $(item)Transmutation Catalyst$() and placing it on top of any of the four lower $(item)Golden Stone Brick$() blocks around the altar, and then placing the ingredient on the altar as usual."
+            "text": "$(l:using/altar)自然祭壇$()對於使用$(#419600)靈氣$()灌注特定物品來說很有用，但是，祭壇也能助力於將物品嬗變成另一種物品。$(br)要實現這一點，只需製作$(item)嬗變催化器$()，並將其放在祭壇周圍 4 個更低的$(item)黃金石磚$()方塊上，然後像平時一樣放置原料。"
         },
         {
             "type": "naturesaura:tree_ritual",
@@ -30,7 +30,7 @@
         },
         {
             "type": "naturesaura:altar",
-            "text": "Creating $(item)Nether Wart$() from the Nether's spores",
+            "text": "用地獄的蕈菇製作$(item)地獄疙瘩$()",
             "recipe": "naturesaura:nether_wart"
         },
         {
@@ -50,62 +50,62 @@
         },
         {
             "type": "naturesaura:altar",
-            "text": "Creating $(item)Spectral Arrows$()",
+            "text": "製作$(item)追跡之箭$()",
             "recipe": "naturesaura:arrow"
         },
         {
             "type": "naturesaura:altar",
-            "text": "Creating a $(item)Chorus Flower$()",
+            "text": "製作$(item)歌萊花$()",
             "recipe": "naturesaura:chorus"
         },
         {
             "type": "naturesaura:altar",
-            "text": "Creating $(item)Fermented Spider Eyes$()",
+            "text": "製作$(item)發酵蜘蛛眼$()",
             "recipe": "naturesaura:fermented"
         },
         {
             "type": "naturesaura:altar",
-            "text": "Creating a $(item)Lead$()",
+            "text": "製作$(item)拴繩$()",
             "recipe": "naturesaura:lead"
         },
         {
             "type": "naturesaura:altar",
-            "text": "Purifying a $(item)Poisonous Potato$()",
+            "text": "淨化$(item)毒馬鈴薯$()",
             "recipe": "naturesaura:potato"
         },
         {
             "type": "naturesaura:altar",
-            "text": "Creating $(item)Prismarine Crystals$()",
+            "text": "製作$(item)海磷砂粒$()",
             "recipe": "naturesaura:prismarine_crystal"
         },
         {
             "type": "naturesaura:altar",
-            "text": "Creating a $(item)Rabbit's Foot$()",
+            "text": "製作$(item)兔子腳$()",
             "recipe": "naturesaura:rabbit_foot"
         },
         {
             "type": "naturesaura:altar",
-            "text": "Creating $(item)Gilded Blackstone$()",
+            "text": "製作$(item)鑲金黑石$()",
             "recipe": "naturesaura:gilded_blackstone"
         },
         {
             "type": "naturesaura:altar",
-            "text": "Creating $(item)Crimson Fungus$()",
+            "text": "製作$(item)緋紅蕈菇$()",
             "recipe": "naturesaura:crimson_fungus"
         },
         {
             "type": "naturesaura:altar",
-            "text": "Creating $(item)Warped Fungus$()",
+            "text": "製作$(item)扭曲蕈菇$()",
             "recipe": "naturesaura:warped_fungus"
         },
         {
             "type": "naturesaura:altar",
-            "text": "Turning $(item)Apples$() into $(item)Eggs$()",
+            "text": "將$(item)蘋果$()變成$(item)雞蛋$()",
             "recipe": "naturesaura:egg"
         },
         {
             "type": "naturesaura:altar",
-            "text": "Turning $(item)Water$() into $(item)Milk$()$(p)$(italic)Just like Jesus$()",
+            "text": "將$(item)水$()變成$(item)牛奶$()$(p)$(italic)就像耶穌一樣$()",
             "recipe": "naturesaura:milk"
         }
     ]

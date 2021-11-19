@@ -1,0 +1,14 @@
+{
+  "name": "block.elementalcraft.lavashrine",
+  "category": "elementalcraft:shrines",
+  "icon": "elementalcraft:lavashrine",
+  "advancement": "elementalcraft:pickup/shrinebase",
+  "turnin": "elementalcraft:pickup/lavashrine",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "text",
+      "text": "elementalcraft.page.lavashrine0"
+    }
+  ]
+}

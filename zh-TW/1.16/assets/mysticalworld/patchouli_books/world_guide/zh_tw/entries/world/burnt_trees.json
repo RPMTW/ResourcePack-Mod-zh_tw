@@ -1,0 +1,20 @@
+{
+    "name": "燒焦的樹",
+    "icon": "mysticalworld:charred_log",
+    "category": "world",
+    "pages": [
+        {
+            "type": "text",
+            "title": "Charred Tree",
+            "text": "眾所周知，大部分樹木無法在雷擊或野火中倖存。但某些硬木即使樹葉焚燒殆盡，樹幹仍剩餘殘骸。$(br2)你可以發現這些樹木遺留的殘骸。"
+        },
+        {
+            "type": "image",
+            "title": "一棵燒焦的樹",
+            "text": "$(l:decoration/charred_wood)Charred wood blocks$() can be used for decoration.",
+            "images": [
+                "mysticalworld:textures/tree.png"
+            ]
+        }
+    ]
+}

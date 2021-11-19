@@ -1,0 +1,23 @@
+{
+  "name": "elementalcraft.entry.rune",
+  "category": "elementalcraft:advanced",
+  "icon": "elementalcraft:rune{elementalcraft:{rune:'elementalcraft:tano'}}",
+  "advancement": "elementalcraft:pickup/inscriber",
+  "turnin": "elementalcraft:pickup/rune",
+  "sortnum": 6,
+  "pages": [
+    {
+      "type": "text",
+      "text": "elementalcraft.page.rune0"
+    },
+    {
+      "type": "crafting",
+      "recipe": "elementalcraft:minor_rune_slate",
+      "recipe2": "elementalcraft:rune_slate"
+    },
+        {
+      "type": "crafting",
+      "recipe": "elementalcraft:major_rune_slate"
+    }
+  ]
+}

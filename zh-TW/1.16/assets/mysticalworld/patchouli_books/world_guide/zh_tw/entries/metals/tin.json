@@ -1,0 +1,20 @@
+{
+    "name": "錫礦",
+    "icon": "mysticalworld:tin_ore",
+    "category": "metals",
+    "pages": [
+        {
+            "type": "spotlight",
+            "link_recipe": true,
+            "item": "mysticalworld:tin_ore",
+            "text": "A softer and more flexible material, this ore is commonly found near the surface."
+        },
+        {
+            "type": "smelting",
+            "link_recipe": true,
+            "recipe": "mysticalworld:tin_ingot_from_smelting",
+            "title": "Tin Ingots",
+            "text": "Tin ore can be smelted into ingots using both the furnace and the blast furnace."
+        }
+    ]
+}

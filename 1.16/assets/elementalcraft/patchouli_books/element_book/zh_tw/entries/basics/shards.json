@@ -1,0 +1,32 @@
+{
+  "name": "elementalcraft.entry.shards",
+  "category": "elementalcraft:basics",
+  "icon": "elementalcraft:fire_shard",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "text",
+      "text": "elementalcraft.page.shards0"
+    },
+    {
+      "type": "crafting",
+      "recipe": "elementalcraft:fire_shard",
+      "recipe2": "elementalcraft:powerful_fire_shard_from_fire_shards"
+    },
+    {
+      "type": "crafting",
+      "recipe": "elementalcraft:water_shard",
+      "recipe2": "elementalcraft:powerful_water_shard_from_water_shards"
+    },
+    {
+      "type": "crafting",
+      "recipe": "elementalcraft:earth_shard",
+      "recipe2": "elementalcraft:powerful_earth_shard_from_earth_shards"
+    },
+    {
+      "type": "crafting",
+      "recipe": "elementalcraft:air_shard",
+      "recipe2": "elementalcraft:powerful_air_shard_from_air_shards"
+    }
+  ]
+}

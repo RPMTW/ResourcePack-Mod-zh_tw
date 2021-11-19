@@ -1,0 +1,28 @@
+{
+  "name": "進行儀式",
+  "sortnum": -1,
+  "icon": "ars_nouveau:ritual",
+  "category": "rituals",
+  "pages": [
+    {
+      "type": "text",
+      "text": "進行儀式需要一個儀式火盆和一塊儀式對應的木板。在獲得這二者之後，你需要將火盆放在地上，然後對其使用一個儀式之板。然後火盆會被點燃，並等待被激活。這種狀態下，你可以往火焰中投入額外物品來增強儀式。只需簡單地向火盆頂部扔出物品就行。"
+    },
+    {
+      "type": "text",
+      "text": "空手與火盆互動即可激活儀式。激活後，儀式無法再被增強，之前使用的材料也被永久性地消耗。如果儀式需要魔源來運行，火盆會自動地從附近 6 格內的魔源罐中抽取魔源。不同儀式的相關信息和進行時的具體需求可以在各儀式的條目中找到。 \""
+    },
+    {
+      "type": "crafting",
+      "recipe": "ars_nouveau:ritual",
+      "recipe2": "ars_nouveau:ritual_sunrise"
+    },
+    {
+      "type": "relations",
+      "entries": [
+        "machines/ritual",
+        "rituals/sunrise"
+      ]
+    }
+  ]
+}

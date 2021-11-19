@@ -1,0 +1,15 @@
+{
+	"name": "CH III - The Abyss",
+	"icon": "minecraft:paper",
+	"category": "getting_started",
+	"advancement": "theabyss:the_abyss_adv",
+	"priority": false,
+	"secret": false,
+	"read_by_default": false,
+	"pages": [
+		{
+			"type": "text",
+			"text": "You did it.. You’ve entered the Abyss and you’re still alive! I’m fading, there isn't much time left for me to speak so let me do one last favor for you. I am leaving a fragment of my spirit in this book, it will open new passages as you progress on your journey. Please stay safe wanderer as you look for answers to your journey in the Abyss. Farewell!"
+		}
+	]
+}

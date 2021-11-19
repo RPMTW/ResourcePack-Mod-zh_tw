@@ -1,21 +1,21 @@
 {
-    "name": "Offshoot Observer",
+    "name": "分裂觀測儀",
     "icon": "naturesaura:slime_split_generator",
     "category": "creating",
     "advancement": "naturesaura:tainted_gold",
     "pages": [
         {
             "type": "text",
-            "text": "$(thing)Slimes$() and $(thing)Magma Cubes$() are peculiar beings. Upon being hurt enough, they $(thing)split$() into smaller versions of themselves, similarly to how cells multiply in the body. This natural process can be exploited by the $(item)Offshoot Observer$(): When such a creature splits in its vicinity, the created entropy will be consumed and $(aura) will be dispersed into the environment."
+            "text": "$(thing)史萊姆$()和$(thing)岩漿立方怪$()是獨特的存在。在受到足夠傷害時，它們會$(thing)分裂$()成更小版本的自己，與身體中細胞分裂的方式很類似。這種自然過程可以被$(item)分裂觀測儀$()利用：當這類生物在其附近分裂時，新增的熵會被消耗，並向周圍環境散布$(#419600)靈氣$()。"
         },
         {
             "type": "text",
-            "text": "Needless to say, the amount of $(aura) created is based on the $(thing)size$() and $(thing)rarity$() of the creature.$(br)It should also be noted that, while the $(item)Offshoot Observer$() is in the process of dispering $(aura), causing an additional creature to split will not cause any more $(aura) to be created."
+            "text": "無需多言，產生$(#419600)靈氣$()的具體數量會依據生物的$(thing)大小$()和$(thing)稀有度$()而不同。$(br)還應指出的是，在$(item)分裂觀察儀$()散播靈氣的途中，再使額外的生物進行分裂不會產生額外的$(#419600)靈氣$()。"
         },
         {
             "type": "crafting",
             "recipe": "naturesaura:slime_split_generator",
-            "text": "Creating the $(item)Offshoot Observer$()"
+            "text": "製作$(item)分裂觀測儀$()"
         }
     ]
 }

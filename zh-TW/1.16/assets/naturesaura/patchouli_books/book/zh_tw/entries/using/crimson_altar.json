@@ -1,5 +1,5 @@
 {
-    "name": "The Crimson Altar",
+    "name": "猩紅祭壇",
     "icon": "naturesaura:nature_altar",
     "category": "using",
     "advancement": "naturesaura:aura_bottle_nether",
@@ -8,25 +8,25 @@
     "pages": [
         {
             "type": "text",
-            "text": "The $(l:using/altar)Natural Altar$(), while having the ability to turn iron into $(item)Infused Iron$(), does not fare well in different regions, specifically the $(thing)Nether$(), where a much darker type of $(aura) is present. Here, the $(item)Crimson Altar$() can be built. A structure very similar to the $(thing)Natural Altar$(), which is able to, instead, turn $(item)Gold$() into $(item)Tainted Gold$(). For this, the structure on the following page needs to be assembled."
+            "text": "$(l:using/altar)自然祭壇$()儘管能將鐵變成$(item)灌注鐵$()，但這一過程在其他區域進行得並不順利，特別是$(thing)地獄$()，這個有著更黑暗$(#419600)靈氣$()的地方。不過，在這裡可以建造$(item)猩紅祭壇$()，一種與$(thing)自然祭壇$()非常類似的結構。這種結構不能製造$(item)灌注鐵$()，但作為代替，能將$(item)黃金$()變成$(item)汙染黃金()。要進行這一灌注，需要搭建下頁展示的結構。"
         },
         {
             "type": "text",
-            "text": "It should be noted that, while looking different, the $(item)Crimson Altar$() itself is in fact not a different block - it is merely the $(item)Natural Altar$()'s appearance in an area where ghostly $(aura) is present, caused by its inherent magical infusion with $(aura). Similar can be said for any $(item)Catalysts$(): Merely placing them on top of the crimson altar will cause their ghostly recipes to work as well."
+            "text": "應當注意的是，儘管看著不同，$(item)猩紅祭壇$()方塊本身並非不同的方塊——它僅僅是$(item)自然祭壇$()出現在幽靈般$(#419600)靈氣$()中後，由於其固有的$(#419600)靈氣$()灌注展現出的模樣。類似的事情對於任何$(item)催化器$()也適用：只是將它們放在猩紅祭壇上就能使它們的幽靈配方也生效。"
         },
         {
             "type": "multiblock",
             "multiblock_id": "naturesaura:nether_altar",
-            "text": "How to assemble the $(item)Crimson Altar$(). The $(item)Crimson Planks$() can be replaced with $(item)Warped Planks$()."
+            "text": "$(item)猩紅祭壇$()的組建過程。$(item)緋紅蕈木材$()可以用$(item)扭曲蕈木材$()代替。"
         },
         {
             "type": "crafting",
             "recipe": "naturesaura:gold_nether_brick",
-            "text": "Creating the $(item)Golden Nether Bricks$() that are used in the $(item)Crimson Altar$()'s multiblock"
+            "text": "製作$(item)黃金地獄磚頭$()，這種磚塊被用於$(item)猩紅祭壇$()的多方塊結構中"
         },
         {
             "type": "naturesaura:altar",
-            "text": "Creating $(item)Tainted Gold$(), a material blessed with the powers of ghostly $(aura).$(br)Note that the same infusion is possible using the materials' block form.",
+            "text": "製作$(item)汙染黃金$()，一種被幽靈般$(#419600)靈氣$()的力量祝福的材料。$(br)注意，同樣的灌注也能對這種材料的方塊形式生效。",
             "recipe": "naturesaura:tainted_gold"
         }
     ]

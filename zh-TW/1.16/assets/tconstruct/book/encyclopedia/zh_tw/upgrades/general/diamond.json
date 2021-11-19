@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:diamond",
+  "text": [
+    {
+      "text": "給予 +500 耐久、+1 攻擊傷害和 +1 挖掘速度。此外，將工具的挖掘等級提升至鑽石。"
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "最高只有 1 級",
+    "需要1個升級槽"
+  ]
+}

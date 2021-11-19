@@ -7,10 +7,10 @@
   "pages": [
     {
       "type": "text",
-      "text": "A cats best friend <3$(br2)When placed above a $(6)water pool$() of at least $(6)3x3$() and $(6)1$() block deep, it will start $(6)fishing$() and put the fish (and perhaps something else?) in the internal inventory, at the cost of $(6)5000$()RF per operation."
+      "text": "貓貓最好的朋友<3$(br2)如果放置在至少$(6)3x3$()和$(6)1$()格深的$(6)水池$()上方，它將開始$(6)釣魚$() ，並將魚類(或是其他東西？)放入內部儲存，每項操作消耗$(6)5000$()RF。"
     },
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "industrialforegoing:marine_fisher"
     }
   ]

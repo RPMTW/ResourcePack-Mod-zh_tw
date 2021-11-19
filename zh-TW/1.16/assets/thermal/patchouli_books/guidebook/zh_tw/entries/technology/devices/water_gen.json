@@ -10,7 +10,7 @@
             "text": "The Aqueous Accumulator is a device that will generate infinite water for your needs. In order for it to produce water there must be at least two source blocks adjacent to the sides of the device. Source blocks above or below the device will not count."
         },
         {
-            "type": "合成",
+            "type": "crafting",
             "recipe": "thermal:device_water_gen",
             "title": "蓄水器"
         },

@@ -1,0 +1,14 @@
+{
+  "name": "spell.elementalcraft.tree_fall",
+  "category": "elementalcraft:spells",
+  "icon": "elementalcraft:scroll{elementalcraft:{spell:'elementalcraft:tree_fall'}}",
+  "advancement": "elementalcraft:pickup/scroll",
+  "turnin": "elementalcraft:pickup/scroll",
+  "sortnum": 8,
+  "pages": [
+    {
+      "type": "text",
+      "text": "elementalcraft.page.tree_fall0"
+    }
+  ]
+}

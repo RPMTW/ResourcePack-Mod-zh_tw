@@ -1,0 +1,15 @@
+{
+  "name": "item.storagenetwork.speed_upgrade",
+  "icon": "storagenetwork:speed_upgrade",
+  "category": "storagenetwork:upgrades",
+  "pages": [
+    {
+      "type": "text",
+      "text": "item.storagenetwork.speed_upgrade.guide"
+    },
+    {
+      "type": "crafting",
+      "recipe": "storagenetwork:speed_upgrade"
+    }
+  ]
+}

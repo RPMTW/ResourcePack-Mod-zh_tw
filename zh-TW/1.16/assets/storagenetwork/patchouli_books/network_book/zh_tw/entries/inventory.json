@@ -1,0 +1,15 @@
+{
+  "name": "block.storagenetwork.inventory",
+  "icon": "storagenetwork:inventory",
+  "category": "storagenetwork:blocks",
+  "pages": [
+    {
+      "type": "text",
+      "text": "block.storagenetwork.inventory.guide"
+    },
+    {
+      "type": "crafting",
+      "recipe": "storagenetwork:inventory"
+    }
+  ]
+}

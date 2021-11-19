@@ -1,0 +1,18 @@
+{
+  "category": "bewitchment:brewing",
+  "name": "偏轉",
+  "icon": "minecraft:phantom_membrane",
+  "advancement": "bewitchment:hidden_unlocks/altars",
+  "pages": [
+    {
+      "type": "text",
+      "text": "使箭偏離目標，使其從射出的地方更快地返回。"
+    },
+    {
+      "type": "spotlight",
+      "title": "偏移",
+      "item": "minecraft:phantom_membrane",
+      "text": "偏轉效果越强，箭越快返回。"
+    }
+  ]
+}

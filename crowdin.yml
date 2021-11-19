@@ -1,3 +1,6 @@
+commit_message: 'RPMTW 新翻譯更新 %original_file_name%'
+append_commit_message": false
+
 files:
   - source: 1.16/assets*
     ignore:

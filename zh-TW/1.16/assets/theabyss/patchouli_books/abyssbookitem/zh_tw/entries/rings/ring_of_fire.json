@@ -1,0 +1,23 @@
+{
+	"name": "Ring Of Fire",
+	"icon": "theabyss:ring_of_fire",
+	"category": "rings",
+	"advancement": "theabyss:somnium_adv",
+	"priority": false,
+	"secret": false,
+	"read_by_default": false,
+	"pages": [
+		{
+			"type": "spotlight",
+			"item": "theabyss:ring_of_fire",
+			"title": "Ring Of Fire",
+			"link_recipe": false,
+			"text": "The ring of fire lights entities around you aflame burning 35% somnium in the process."
+		},
+		{
+			"type": "crafting",
+			"title": "Ring Of Fire",
+			"recipe": "theabyss:ring_of_fire_rcp"
+		}
+	]
+}

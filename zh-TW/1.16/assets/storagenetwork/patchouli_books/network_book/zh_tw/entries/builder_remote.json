@@ -1,0 +1,15 @@
+{
+  "name": "item.storagenetwork.builder_remote",
+  "icon": "storagenetwork:builder_remote",
+  "category": "storagenetwork:remotes",
+  "pages": [
+    {
+      "type": "text",
+      "text": "item.storagenetwork.builder_remote.guide"
+    },
+    {
+      "type": "crafting",
+      "recipe": "storagenetwork:builder_remote"
+    }
+  ]
+}

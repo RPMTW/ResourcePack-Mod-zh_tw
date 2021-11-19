@@ -7,10 +7,10 @@
   "pages": [
     {
       "type": "text",
-      "text": "This machine, when provided with power, charges the first $(l:resource_production/ore_laser_base)Ore Laser Base$() and $(l:resource_production/fluid_laser_base)Fluid Laser Base$() that finds in its working area."
+      "text": "當這臺機器獲得電力時，會向其工作區域中的第一個$(l: resource_production/ore_laser_base)礦物雷射鑽基座$()和$(l: resource_production/fluid_laser_base)流體雷射鑽基座$()充能。"
     },
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "industrialforegoing:laser_drill"
     }
   ]

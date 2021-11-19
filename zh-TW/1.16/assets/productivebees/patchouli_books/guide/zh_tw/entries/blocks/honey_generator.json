@@ -7,6 +7,10 @@
             "type": "spotlight",
             "item": "productivebees:honey_generator",
             "text": "燃燒蜂蜜來發電。 蜂蜜可以用管道輸送，也可以在 GUI 中添加蜂蜜瓶、塊和桶"
+        },
+        {
+            "type": "text",
+            "text": "A Honey Generator accepts two upgrades; A $(l:items/upgrades#productivity)Productivity upgrade$(/l) will lower the honey consumption. $(l:items/upgrades#speed)Speed upgrade$(/l) will increase the...speed."
         }
     ]
 }

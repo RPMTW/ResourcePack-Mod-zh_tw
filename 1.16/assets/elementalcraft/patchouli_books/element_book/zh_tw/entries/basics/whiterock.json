@@ -1,0 +1,24 @@
+{
+  "name": "block.elementalcraft.whiterock",
+  "category": "elementalcraft:basics",
+  "icon": "elementalcraft:whiterock",
+  "advancement": "elementalcraft:pickup/infuser",
+  "turnin": "elementalcraft:pickup/whiterock",
+  "priority": true,
+  "sortnum": 5,
+  "pages": [
+    {
+      "type": "text",
+      "text": "elementalcraft.page.whiterock0"
+    },
+    {
+      "type": "crafting",
+      "recipe": "elementalcraft:whiterock_stairs"
+    },
+    {
+      "type": "crafting",
+      "recipe": "elementalcraft:whiterock_slab",
+      "recipe2": "elementalcraft:whiterock_wall"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+	"name": "Prolog",
+	"icon": "minecraft:paper",
+	"category": "getting_started",
+	"advancement": "theabyss:unlockthebook",
+	"priority": false,
+	"secret": false,
+	"read_by_default": false,
+	"pages": [
+		{
+			"type": "text",
+			"text": "The Abyss is a dimension to explore full of unique adventures and dangers! It's a dimension of darkness the only light comes from magical blocks and the various flora, fungi, and fauna of the dimension."
+		},
+		{
+			"type": "text",
+			"text": "Don’t be afraid, I am here to help you. The first thing you must do is equip yourself for battles, to protect you against various creatures! Once this is done you must begin §3sleeping§0 as often as possible, the more you sleep the more I can show you. These visions can only come as I am able to make them, gradually they will show you what to do. Stay safe wanderer."
+		}
+	]
+}

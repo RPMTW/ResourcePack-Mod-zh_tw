@@ -31,7 +31,7 @@
     "container.frame_chest": "框架儲物箱",
     "item.blockcarpentry.hammer": "錘子",
     "item.blockcarpentry.texture_wrench": "材質扳手",
-    "item.blockcarpentry.chisel": "鑿",
+    "item.blockcarpentry.chisel": "鑿子",
     "item.blockcarpentry.paintbrush": "顏料刷",
     "message.blockcarpentry.light_level": "光照等級: %s",
     "message.blockcarpentry.texture": "材質: %s",
@@ -77,5 +77,13 @@
     "advancements.blockcarpentry.chest.title": "我需要從我的箱子取出一些東西",
     "advancements.blockcarpentry.chest.description": "我想提醒你箱子的凹陷，以防萬一你們忘了，箱子裏有什麼",
     "advancements.blockcarpentry.all.title": "世界的 §l§n§1p§2r§3e§4t§5t§6i§be§es§9t§r 泥土房子",
-    "advancements.blockcarpentry.all.description": "查看所有新的可能性"
+    "advancements.blockcarpentry.all.description": "查看所有新的可能性",
+    "block.blockcarpentry.frame_carpet": "框架地毯",
+    "block.blockcarpentry.frame_pane": "框架窗",
+    "block.blockcarpentry.frame_daylight_detector": "框架日光感測器",
+    "block.blockcarpentry.illusion_carpet": "幻象地毯",
+    "block.blockcarpentry.illusion_pane": "幻象窗",
+    "block.blockcarpentry.illusion_daylight_detector": "幻象日光感測器",
+    "message.blockcarpentry.crimson_overlay": "活化緋紅疊層",
+    "message.blockcarpentry.warped_overlay": "活化扭曲疊層"
 }

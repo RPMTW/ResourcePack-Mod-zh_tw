@@ -6,7 +6,7 @@
     "pages": [
         {
             "type": "text",
-            "text": "The $(l:using/altar)Natural Altar$() can be useful for infusing certain items with the power of $(aura), but it can also be used to $(thing)crush$() certain items into different shapes.$(br)This can be achieved by creating the $(item)Crumbling Catalyst$() and placing it on top of any of the four lower $(item)Golden Stone Brick$() blocks around the altar, and then placing the ingredient on the altar as usual."
+            "text": "$(l:using/altar)自然祭壇$()在將$(#419600)靈氣$()之力灌注到特定物品時很有用，但它也能用於將一些物品$(thing)壓碎$()成不同的形狀。$(br)要實現這一點，只需製作$(item)崩壞催化器$()，並將其放在祭壇周圍 4 個更低的$(item)黃金石磚$()方塊上，然後像平時一樣放置原料。"
         },
         {
             "type": "naturesaura:tree_ritual",
@@ -40,7 +40,7 @@
         },
         {
             "type": "naturesaura:altar",
-            "text": "Making $(item)Gold Powder$() from $(item)Golden Leaves$()",
+            "text": "用$(item)黃金樹葉$()製作$(item)金葉粉$()",
             "recipe": "naturesaura:gold_powder"
         }
     ]

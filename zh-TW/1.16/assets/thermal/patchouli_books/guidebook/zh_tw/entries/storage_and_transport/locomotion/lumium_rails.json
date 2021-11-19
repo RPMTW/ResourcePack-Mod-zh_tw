@@ -10,17 +10,17 @@
             "text": "流明鐵軌工作原理與標準鐵軌完全相同，不同之處在於它們發出15級的光。"
         },
         {
-            "type": "合成",
+            "type": "crafting",
             "recipe": "thermal:lumium_rail",
             "recipe2": "thermal:lumium_crossover_rail"
         },
         {
-            "type": "合成",
+            "type": "crafting",
             "recipe": "thermal:lumium_powered_rail",
             "recipe2": "thermal:lumium_activator_rail"
         },
         {
-            "type": "合成",
+            "type": "crafting",
             "recipe": "thermal:lumium_detector_rail"
         }
     ]

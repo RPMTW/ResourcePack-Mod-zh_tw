@@ -1,0 +1,23 @@
+{
+	"name": "Ring Of Ocean",
+	"icon": "theabyss:ring_of_ocean",
+	"category": "rings",
+	"advancement": "theabyss:somnium_adv",
+	"priority": false,
+	"secret": false,
+	"read_by_default": false,
+	"pages": [
+		{
+			"type": "spotlight",
+			"item": "theabyss:ring_of_ocean",
+			"title": "Ring Of Ocean",
+			"link_recipe": false,
+			"text": "The ring the ocean gives you the power to swim fast and extend time underwater using 15% somnium in the process."
+		},
+		{
+			"type": "crafting",
+			"title": "Ring Of Ocean",
+			"recipe": "theabyss:ring_of_ocean_rcp"
+		}
+	]
+}

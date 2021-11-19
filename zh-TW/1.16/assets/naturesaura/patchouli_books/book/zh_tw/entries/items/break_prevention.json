@@ -1,16 +1,16 @@
 {
-    "name": "Eir's Token",
+    "name": "埃爾的標記",
     "icon": "naturesaura:break_prevention",
     "category": "items",
     "advancement": "naturesaura:sky_ingot",
     "pages": [
         {
             "type": "text",
-            "text": "There are few things more unpleasant than one's favorite $(thing)tool$() breaking when it is needed most, removing the ability to even repair it and rendering all enchanting efforts useless. To mitigate this problem, $(item)Eir's Token$() can be applied to any tool using an $(thing)anvil$(). Any tools that have this token applied will, instead of breaking when their durability reaches zero, simply $(thing)stop functioning$() instead."
+            "text": "一個人的趁手$(thing)工具$()在最急需時損壞，甚至無法被修復，使得所有附魔的努力看上去徒勞無功，很少有比這更令人討厭的事了。為了緩和這個問題，可以將$(item)埃爾的標記$()使用$(thing)鐵砧$()安裝到任何工具上。任何帶有這個標記的工具，在它們的耐久歸零時不會損壞，作為代替，只是簡單的$(thing)停止工作$()。"
         },
         {
             "type": "naturesaura:tree_ritual",
-            "text": "Creating the $(item)Eir's Token$() using the $(l:practices/tree_ritual)Ritual of the Forest$()",
+            "text": "使用$(l:practices/tree_ritual)森林儀式$()製作$(item)埃爾的標記$()",
             "recipe": "naturesaura:break_prevention"
         }
     ]

@@ -10,20 +10,20 @@
       "text": "Use a $(l:bloodmagic:rituals/ritual_diviner#dusk)Ritual Diviner [Dusk]$(/l) for easier construction."
     },
     {
-      "type": "text",
+      "type": "bloodmagic:ritual_info",
       "ritual": "ellipsoid"
     },
     {
       "type": "text",
-      "text": "(Chest) The location of the inventory that the ritual will grab blocks from to place in the world. $(br) $(li)Maximum Volume: 1 $(li)Horizontal Radius: 3 $(li)Vertical Radius: 3"
+      "text": "This ritual is purely aesthetic in nature, designed for the budding, yet lazy, builder that resides in all of us. It's particularly good for building complicated shapes, such as the mighty gold dome above your Evil Lair. ...You do have one of those, right?"
     },
     {
-      "type": "spotlight",
+      "type": "bloodmagic:ritual_data",
       "ritual": "ellipsoid",
       "page_type": "chest"
     },
     {
-      "type": "spotlight",
+      "type": "bloodmagic:ritual_data",
       "ritual": "ellipsoid",
       "page_type": "spheroidRange"
     }

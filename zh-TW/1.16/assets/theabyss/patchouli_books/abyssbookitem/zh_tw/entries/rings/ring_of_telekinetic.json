@@ -1,0 +1,23 @@
+{
+	"name": "Ring Of Telekinetic",
+	"icon": "theabyss:ring_of_telekinetic",
+	"category": "rings",
+	"advancement": "theabyss:somnium_adv",
+	"priority": false,
+	"secret": false,
+	"read_by_default": false,
+	"pages": [
+		{
+			"type": "spotlight",
+			"item": "theabyss:ring_of_telekinetic",
+			"title": "Ring Of Telekinetic",
+			"link_recipe": false,
+			"text": "The ring of telekinetic is a ring that was traced back to darkest magics of the Abyss itself, activating it defies the laws of physics sending opponents up into the air at the price of 35% somnium"
+		},
+		{
+			"type": "crafting",
+			"title": "Ring Of Telekinetic",
+			"recipe": "theabyss:ring_of_telekinetic_rcp"
+		}
+	]
+}

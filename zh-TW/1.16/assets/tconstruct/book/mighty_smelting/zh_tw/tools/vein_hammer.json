@@ -1,0 +1,26 @@
+{
+  "tool": "tconstruct:vein_hammer",
+  "text": [
+    {
+      "text": "礦脈錘是一種範圍型採礦工具，能一次採集連接的同類型方塊。"
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "適合一擊挖掘礦脈中所有礦石。"
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "Disclaimer: Thruul Industries is not responsible for mass vein mining of property."
+    }
+  ],
+  "properties": [
+    "需要工匠鐵砧",
+    "連鎖挖礦",
+    "3x3 AOE 採礦",
+    "貫穿傷害加成"
+  ]
+}

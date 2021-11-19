@@ -1,0 +1,12 @@
+{
+  "sortnum": 2,
+  "name": "指令",
+  "icon": "minecraft:command_block",
+  "category": "other",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(#f00)/tlm$()：這是本模組提供的指令。$(br2)你可以通過它設定 P 點，女僕數量或者重新載入模型包。"
+    }
+  ]
+}

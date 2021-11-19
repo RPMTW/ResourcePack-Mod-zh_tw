@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:padded",
+  "text": [
+    {
+      "text": "降低每級 50% 工具造成的所有擊退。"
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "最多只能 3 級",
+    "每個等級需要1個升級槽"
+  ]
+}

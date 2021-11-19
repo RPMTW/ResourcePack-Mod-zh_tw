@@ -1,0 +1,26 @@
+{
+  "name": "Musli Bar Press",
+  "icon": "engineerstools:musli_bar_press",
+  "category": "tools",
+  "sortnum": 1060,
+  "pages": [
+    {
+      "type": "spotlight",
+      "title": "Musli Bar Press",
+      "item": "engineerstools:musli_bar_press",
+      "text": "A manually operated food press to produce the 'Muslee Melange Power Bars'.$(br2)Drop in a few seeds for the cerial base and every food you can find, and slowly crank up the compression force with the lever mechanism to make your DYI Power Bars."
+    },
+    {
+      "type": "text",
+      "text": "The input slot on the left side of the GUI accepts seeds and non-toxic food. After enough ingredients are inserted, the crafted Power Bars will appear in the output slot at the right side.$(br)You can place more ingredients into the input slot, everything accepted is persistant in the internal storage of the press. The upper 'progress' bar shows how full the seeds container is, whereas the lower bar represents the fill state of food."
+    },
+    {
+      "type": "text",
+      "text": "Therefore, you can continue dropping seeds and food into the input slot even if the output slot is already full (stack size of the Muslee Bars is 64).$(br2)The container fills up more or less depending on the nutrient content of the food you drop in, and there is also a small 'conversion loss' for crafting the Muslee Bars."
+    },
+    {
+      "type": "text",
+      "text": "$(br2) $(br2) $(br2) $(br2) $(br2)$(o)In numeric terms:$(br)$(li)Seed storage: 512$(li)Food storage: 128$(li)Seeds needed per bar: 1$(li)Food per bar: 8 (loss 25%)"
+    }
+  ]
+}

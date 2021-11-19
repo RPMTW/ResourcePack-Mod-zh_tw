@@ -1,5 +1,5 @@
 {
-  "name": "樹汁",
+  "name": "膠乳桶",
   "icon": "industrialforegoing:latex_bucket",
   "category": "basics",
   "sortnum": 3,
@@ -7,7 +7,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "This fluid is used in a $(l:basics/latex_processing_unit)Latex Procressing Unit$() to make Tiny Dry Rubber"
+      "text": "用於$(l:basics/latex_processing_unit)膠乳加工機$()中以生產小塊乾橡膠"
     }
   ]
 }

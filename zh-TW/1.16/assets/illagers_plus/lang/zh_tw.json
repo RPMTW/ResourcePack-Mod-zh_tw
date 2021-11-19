@@ -1,6 +1,6 @@
 {
     "_comment": "Advancement",
-    "entity.illagers_plus.archer": "弓箭手",
+    "entity.illagers_plus.archer": "游侠",
     "entity.illagers_plus.berserker": "狂戰士",
     "entity.illagers_plus.black_iron_golem": "黑鐵魔像",
     "entity.illagers_plus.enchanter": "附魔師",
@@ -57,5 +57,13 @@
     "illagers_plus.config.illager_king_wc": "Illager King Wave Counts",
     "illagers_plus.config.miner_wc": "Miner Wave Counts",
     "illagers_plus.config.necromancer_wc": "Necromancer Wave Counts",
-    "illagers_plus.command.display_config.failed": "[%1$s] is not a structure from Illagers+! Was it formatted and/or spelled correctly?"
+    "illagers_plus.command.display_config.failed": "[%1$s] is not a structure from Illagers+! Was it formatted and/or spelled correctly?",
+    "entity.illagers_plus.frostmancer": "Frostmancer",
+    "entity.illagers_plus.illager_general": "Illager General",
+    "item.illagers_plus.frostmancer_egg": "Frostmancer Spawn Egg",
+    "item.illagers_plus.illager_general_egg": "Illager General Spawn Egg",
+    "illagers_plus.advancements.find_ice_castle.title": "Ice Castle",
+    "illagers_plus.advancements.find_ice_castle.description": "Locate an Ice Castle",
+    "illagers_plus.advancements.spawn_reinforcements.title": "Now You've Done It...",
+    "illagers_plus.advancements.spawn_reinforcements.description": "Force an Illager General to Spawn Reinforcements in an Illager Fort"
 }

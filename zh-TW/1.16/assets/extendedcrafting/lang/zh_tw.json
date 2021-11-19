@@ -78,7 +78,7 @@
     "tooltip.extendedcrafting.limited_input": "有限輸入",
     "tooltip.extendedcrafting.unlimited_input": "無限輸入",
     "tooltip.extendedcrafting.toggle_auto_crafting": "切換自動合成",
-    "tooltip.extendedcrafting.tier": "等級: %s",
+    "tooltip.extendedcrafting.tier": "等級：%s",
     "tooltip.extendedcrafting.crafting": "合成：%sx %s",
     "tooltip.extendedcrafting.mode": "模式：%s",
     "tooltip.extendedcrafting.type": "類型：%s",
@@ -87,7 +87,7 @@
     "tooltip.extendedcrafting.requires_table": "需要%s級工作檯",
     "tooltip.extendedcrafting.items_required": "所需物品：",
     "tooltip.extendedcrafting.singularity_id": "奇點ID：%s",
-    "tooltip.extendedcrafting.added_by": "加入者: %s",
+    "tooltip.extendedcrafting.added_by": "加入者：%s",
     "tooltip.extendedcrafting.auto_table_save_recipe": "Shift+左鍵以保存此配方。",
     "tooltip.extendedcrafting.auto_table_delete_recipe": "Shift+左鍵以刪除此配方。",
     "message.extendedcrafting.changed_mode": "模式改變為%s。",
@@ -125,7 +125,7 @@
     "book.extendedcrafting.landing_text": "合成拓展增加了幾種合成物品的方法，以及額外的合成物品和設備。$(br2)本指南用於解釋此 mod 中不同合成方法的功能。它們的實現方式由modpack製作者決定。",
     "book.extendedcrafting.category.crafting.name": "合成方法",
     "book.extendedcrafting.category.crafting.description": "本節介紹了合成拓展加入的不同合成機制。",
-    "book.extendedcrafting.category.components.name": "製作組件",
+    "book.extendedcrafting.category.components.name": "合成組件",
     "book.extendedcrafting.category.components.description": "本節介紹了合成拓展加入的不同合成物品。",
     "book.extendedcrafting.category.utilities.name": "合成實用工具",
     "book.extendedcrafting.category.utilities.description": "本節介紹了合成拓展加入的不同合成合成實用工具。",
@@ -150,5 +150,6 @@
     "book.extendedcrafting.entry.ultimate_singularity": "終極奇點",
     "book.extendedcrafting.entry.ultimate_singularity.page.1": "終極奇點$(bold)通常$()在$(l:crafting/tables)終極工作檯$()中合成。$(br2)它$(bold)通常$()由所有（如果不是大多數）可用的奇點合成而成。",
     "book.extendedcrafting.entry.handheld_table": "手持工作檯",
-    "book.extendedcrafting.entry.handheld_table.page.1": "手持工作檯是一個工作檯。"
+    "book.extendedcrafting.entry.handheld_table.page.1": "手持工作檯是一個工作檯。",
+    "tooltip.extendedcrafting.seconds": "%s Seconds"
 }

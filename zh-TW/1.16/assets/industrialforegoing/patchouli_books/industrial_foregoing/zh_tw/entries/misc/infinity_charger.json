@@ -1,16 +1,16 @@
 {
   "name": "無限充電器",
   "icon": "industrialforegoing:infinity_charger",
-  "category": "雜項",
+  "category": "misc",
   "sortnum": 5,
   "read_by_default": true,
   "pages": [
     {
       "type": "text",
-      "text": "Charges items that can hold power. It charges $(6)Infinity$() items very fast."
+      "text": "為物品充電。充$(6)無限系列$物品時非常快速。"
     },
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "industrialforegoing:infinity_charger"
     }
   ]

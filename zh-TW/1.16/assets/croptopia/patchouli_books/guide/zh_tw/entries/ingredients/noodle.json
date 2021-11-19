@@ -1,0 +1,12 @@
+{
+  "name": "麵條",
+  "icon": "croptopia:noodle",
+  "category": "croptopia:ingredients",
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "croptopia:noodle",
+      "text": "麵條的製作方法"
+    }
+  ]
+}

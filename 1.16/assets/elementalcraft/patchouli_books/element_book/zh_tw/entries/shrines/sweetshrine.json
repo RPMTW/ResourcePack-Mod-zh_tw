@@ -1,0 +1,14 @@
+{
+  "name": "block.elementalcraft.sweetshrine",
+  "category": "elementalcraft:shrines",
+  "icon": "elementalcraft:sweetshrine",
+  "advancement": "elementalcraft:pickup/shrinebase",
+  "turnin": "elementalcraft:pickup/sweetshrine",
+  "sortnum": 4,
+  "pages": [
+    {
+      "type": "text",
+      "text": "elementalcraft.page.sweetshrine0"
+    }
+  ]
+}

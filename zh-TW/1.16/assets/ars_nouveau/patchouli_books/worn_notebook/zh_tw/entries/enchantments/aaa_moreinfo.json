@@ -1,0 +1,23 @@
+{
+  "name": "如何進行附魔",
+  "sortnum": -1,
+  "icon": "ars_nouveau:enchanting_apparatus",
+  "category": "enchantments",
+  "pages": [
+    {
+      "type": "text",
+      "text": "通過使用魔力和物品，附魔裝置可以在物品上添加新附魔或者升級現有附魔。要開始附魔，首先選定一個想要的 1 級附魔，並將該附魔對應的物品放在基座上。然後在附近放置一罐魔力，並對附魔裝置使用你想附魔的物品。附魔裝置只會在附魔對物品有效時進行附魔"
+    },
+    {
+      "type": "text",
+      "text": "要是物品附上等級 2 或更高級的附魔，這個物品必須已經有前一級的附魔。例如，要附上亡靈殺手 3，物品必須已經有亡靈殺手 2。"
+    },
+    {
+      "type": "relations",
+      "entries": [
+        "machines/enchanting_apparatus",
+        "machines/mana_jar"
+      ]
+    }
+  ]
+}

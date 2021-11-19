@@ -7,10 +7,10 @@
   "pages": [
     {
       "type": "text",
-      "text": "用於將 $(6)baby$() 動物與成年動物分開的機器。 小動物將被傳送到機器的背面。 您可以更改在 GUI 中移動的生物類型。"
+      "text": "用於將$(6)幼年$()動物與成年動物分開的機器。小動物將被傳送到機器的背面。您可以在介面中更改移動的生物類型。"
     },
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "industrialforegoing:animal_baby_separator"
     }
   ]

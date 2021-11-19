@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:silky",
+  "text": [
+    {
+      "text": "使開採方塊之掉落物不會改變物品形式。此外還允許為劍、砍刀、鐮刀和匕首剪毛。"
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "最高只有 1 級",
+    "需要 1 個技能槽"
+  ]
+}

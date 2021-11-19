@@ -1,13 +1,13 @@
 {
   "name": "無限鑽頭",
   "icon": "industrialforegoing:infinity_drill",
-  "category": "\n-工具",
+  "category": "tools",
   "sortnum": 3,
   "read_by_default": true,
   "pages": [
     {
       "type": "text",
-      "text": "The Infinity Drill is a tool that allows you to mine big areas, the bigger the tier the bigger the area."
+      "text": "無限鑽頭是一個能讓你開採大範圍的工具，等級越高，範圍就越大。"
     }
   ]
 }

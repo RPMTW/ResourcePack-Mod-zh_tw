@@ -1,0 +1,32 @@
+{
+  "name": "block.elementalcraft.air_mill",
+  "category": "elementalcraft:instruments",
+  "icon": "elementalcraft:air_mill",
+  "advancement": "elementalcraft:pickup/tank",
+  "turnin": "elementalcraft:pickup/air_mill",
+  "sortnum": 5,
+  "pages": [
+    {
+      "type": "text",
+      "text": "elementalcraft.page.air_mill0"
+    },
+    {
+      "type": "crafting",
+      "recipe": "elementalcraft:air_mill"
+    },
+    {
+      "type": "multiblock",
+      "multiblock": {
+        "mapping": {
+          "I": "elementalcraft:air_mill",
+          "0": "elementalcraft:tank"
+        },
+        "pattern": [
+          ["I"],
+          ["0"]
+        ]
+      }
+    }
+  ]
+}
+

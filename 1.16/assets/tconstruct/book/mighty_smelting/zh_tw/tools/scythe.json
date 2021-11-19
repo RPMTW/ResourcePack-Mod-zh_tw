@@ -2,19 +2,20 @@
   "tool": "tconstruct:scythe",
   "text": [
     {
-      "text": "The Scythe is an adventurers broadest friend. Prefer venturing through the thick jungles, or delving into the deep spider infested caves? The scythe will always have your back for hacking through foliage. "
+      "text": "The Scythe is an elusive weapon. Some, such as Darkosto, have a hard time obtaining a scythe."
     },
     {
       "text": "\n"
     },
     {
-      "text": "It is optimal for harvesting crops, leaves, hay bales, cob webs, a wide variety of foliage."
+      "text": "The scythe is optimal for area of attacks and destroying leaves."
     }
   ],
   "properties": [
-    "Advanced harvesting tool",
-    "3x3 AoE Harvesting",
-    "Effective on all types of foliage",
-    "AoE attack capabilities"
+    "Requires a Tool Forge",
+    "Advanced mining tool and weapon",
+    "3x3x3 AOE plany breaking",
+    "Can hoe dirt",
+    "When given silk touch, can be used for shearing"
   ]
 }

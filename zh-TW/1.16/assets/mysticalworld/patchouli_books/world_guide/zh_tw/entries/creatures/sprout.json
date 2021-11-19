@@ -1,0 +1,22 @@
+{
+    "name": "芽精靈",
+    "icon": "mysticalworld:aubergine",
+    "category": "creatures",
+    "pages": [
+        {
+            "type": "animal_spawn_info",
+            "animal": "sprout",
+            "breed": "Breed: special.",
+            "tame": "不可馴服",
+            "blurb": "不同顏色的芽精靈會掉落不同的蔬菜！"
+        },
+        {
+            "type": "entity",
+            "name": "芽精靈",
+            "entity": "mysticalworld:sprout",
+            "scale": 1,
+            "offset": 0,
+            "text": "These adorable root vegetables like to wander the forests and sometimes dance!"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+name: Build Pack ( 1.16 )
+
+on:
+  push:
+    branches: [Translated]
+    paths:
+      - "zh-TW/**"
+      - "Add-on/**"
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          ref: Translated
+      - uses: papeloto/action-zip@v1
+        with:
+          files: zh-TW/1.16 Add-on/1.16/
+          dest: RPMTW-1.16.zip
+
+      - name: "提交檔案"
+        continue-on-error: true
+        run: |
+          git config --global user.email "rpmtw666@gmail.com"
+          git config --global user.name "RPMTW Bot"
+          git add ./RPMTW-1.16.zip
+          git commit -m "更新翻譯包"
+          exit 0
+      - name: "推送變更"
+        continue-on-error: true
+        run: |
+          git push
+          exit 0

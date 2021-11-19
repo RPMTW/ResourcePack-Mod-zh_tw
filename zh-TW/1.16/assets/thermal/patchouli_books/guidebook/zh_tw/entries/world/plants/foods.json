@@ -6,17 +6,17 @@
     "category": "thermal:plants",
     "pages": [
         {
-            "type": "合成",
+            "type": "crafting",
             "recipe": "thermal:chocolate_cake",
             "text": "A delightful, delectable dessert deserving decorous devotion. As satisfying as normal cake."
         },
         {
-            "type": "合成",
+            "type": "crafting",
             "recipe": "thermal:spice_cake",
             "text": "A satiating, scrumptious sweet synthesized from sadiroot spice. Cleanses negative status effects when eaten."
         },
         {
-            "type": "合成",
+            "type": "crafting",
             "recipe": "thermal:xp_stew",
             "text": "An exhilarant eggplant elixir effervescing with exhorbitant experience enhancements. Boosts exp gain when consumed."
         }

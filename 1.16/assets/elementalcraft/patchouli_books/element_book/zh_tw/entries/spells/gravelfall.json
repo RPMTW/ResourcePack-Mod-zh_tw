@@ -1,0 +1,14 @@
+{
+  "name": "spell.elementalcraft.gravelfall",
+  "category": "elementalcraft:spells",
+  "icon": "elementalcraft:scroll{elementalcraft:{spell:'elementalcraft:gravelfall'}}",
+  "advancement": "elementalcraft:pickup/scroll",
+  "turnin": "elementalcraft:pickup/scroll",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "text",
+      "text": "elementalcraft.page.gravelfall0"
+    }
+  ]
+}

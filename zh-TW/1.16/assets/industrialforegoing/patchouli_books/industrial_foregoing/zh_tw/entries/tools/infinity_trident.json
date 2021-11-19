@@ -1,13 +1,13 @@
 {
   "name": "無限三叉戟",
   "icon": "industrialforegoing:infinity_trident",
-  "category": "\n-工具",
+  "category": "tools",
   "sortnum": 3,
   "read_by_default": true,
   "pages": [
     {
       "type": "text",
-      "text": "The Infinity Trident is a tool that allows you to release the true power of a Trident. Increasing the tier will give you access to different levels of $(6)Loyalty$(), $(6)Riptide$() and $(6)Channeling$(). $(br2)Channeling and hit damage will be applied in aoe."
+      "text": "無限三叉戟是一種讓您釋放三叉戟真正力量的工具。提升等級將讓你獲得不同等級的$(6)忠誠$()、$(6)波滔$()和$(6)喚雷$()。$(br2)喚雷和打擊傷害將套用於AOE。"
     }
   ]
 }

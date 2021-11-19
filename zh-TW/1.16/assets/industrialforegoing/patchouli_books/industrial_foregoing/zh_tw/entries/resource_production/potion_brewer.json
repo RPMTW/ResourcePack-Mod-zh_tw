@@ -7,10 +7,10 @@
   "pages": [
     {
       "type": "text",
-      "text": "An automatic vanilla brewer.$(br2)When supplied with $(6)Power$() it will create a potion from the provided ingredients.$(br)Empty bottles will be filled if the internal $(6)water$() container is filled."
+      "text": "一台全自動草藥釀造機。$(br2)當提供$(6)電力$()時，它會使用放入的物品釀造藥水。$(br)如果內部的$(6)液體$()空間滿了又沒有在釀造藥水時，水將會填入空的玻璃瓶中。"
     },
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "industrialforegoing:potion_brewer"
     }
   ]

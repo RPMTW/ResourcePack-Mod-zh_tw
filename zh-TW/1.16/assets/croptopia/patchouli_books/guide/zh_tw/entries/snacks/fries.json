@@ -1,0 +1,16 @@
+{
+  "name": "薯條",
+  "icon": "croptopia:french_fries",
+  "category": "croptopia:snacks",
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "croptopia:french_fries",
+      "recipe2": "croptopia:sweet_potato_fries"
+    },
+    {
+      "type": "text",
+      "text": "不同類型薯條的食譜"
+    }
+  ]
+}

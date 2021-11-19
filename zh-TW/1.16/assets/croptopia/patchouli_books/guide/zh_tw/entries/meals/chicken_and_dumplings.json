@@ -1,0 +1,12 @@
+{
+  "name": "雞肉餃子",
+  "icon": "croptopia:chicken_and_dumplings",
+  "category": "croptopia:meals",
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "croptopia:chicken_and_dumplings",
+      "text": "雞肉餃子的食譜"
+    }
+  ]
+}

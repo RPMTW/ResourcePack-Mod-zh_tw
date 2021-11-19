@@ -1,0 +1,31 @@
+{
+  "name": "block.elementalcraft.solar_synthesizer",
+  "category": "elementalcraft:instruments",
+  "icon": "elementalcraft:solar_synthesizer",
+  "advancement": "elementalcraft:pickup/swift_alloy_ingot",
+  "turnin": "elementalcraft:pickup/solar_synthesizer",
+  "sortnum": 7,
+  "pages": [
+    {
+      "type": "text",
+      "text": "elementalcraft.page.solar_synthesizer0"
+    },
+    {
+      "type": "crafting",
+      "recipe": "elementalcraft:solar_synthesizer"
+    },
+    {
+      "type": "multiblock",
+      "multiblock": {
+        "mapping": {
+          "I": "elementalcraft:solar_synthesizer",
+          "0": "elementalcraft:tank"
+        },
+        "pattern": [
+          ["I"],
+          ["0"]
+        ]
+      }
+    }
+  ]
+}

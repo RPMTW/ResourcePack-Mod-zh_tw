@@ -1,5 +1,5 @@
 {
-  "name": "World Transporter",
+  "name": "世界運輸器",
   "icon": "industrialforegoing:world_transporter_type",
   "category": "transport",
   "sortnum": 0,
@@ -7,7 +7,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "Item Transporter can be used to pick up items into inventories or drop items into the world.$(br2)Multiple transporter types can be in the same block and they have insertion modes and extraction modes. To change modes modes you need to right-click the middle area."
+      "text": "世界運輸器可將物品輸入容器內或是放入世界中。$(br2)多個世界運輸器可以在同一格方塊中，並且具有輸入模式和提取模式。要更改模式，您需要右鍵按一下中間區域。"
     },
     {
       "type": "text",

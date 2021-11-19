@@ -1,20 +1,20 @@
 {
-    "name": "Armorer's Aid",
+    "name": "盔甲匠之援",
     "icon": "naturesaura:blast_furnace_booster",
     "category": "using",
     "advancement": "naturesaura:offering",
     "pages": [
         {
             "type": "text",
-            "text": "Ever since villager scientists have discovered the use of higher tier materials to create a $(item)Blast Furnace$(), magical botanists have attempted to further improve upon this technology. They have found that $(aura) might be capable of purifying any kind of $(thing)ore$() to a point where it has a chance of producing $(thing)two ingots$() rather than one."
+            "text": "自從村民科學家發現了更高等材料的用途並創造了$(item)高爐$()，魔法植物學家一直在設法進一步發展這項科技。它們發現了$(#419600)靈氣$()可能適於淨化任意種類的$(thing)礦物$()，以致於冶煉礦物有機率產生$(thing)兩個錠$()而不是一個。"
         },
         {
             "type": "text",
-            "text": "These capabilities can be introduced through an $(item)Armorer's Aid$(), which simply has to be placed on top of a $(item)Blast Furnace$().$(p)It should be noted, for the sake of $(thing)automation$(), that ores can be inserted into any side of the $(item)Armorer's Aid$() using a $(item)Hopper$() or similar device. This will cause the items to end up in the smelting area as if they were fed directly into the top of the $(item)Blast Furnace$()."
+            "text": "這種功能可以通過$(item)盔甲匠之援$()，實現，只需簡單地將其放在$(item)高爐$()的頂部。$(p)注意，為了$(thing)自動化$()，礦物可以通過$(item)漏斗$()或類似的設備插入$(item)盔甲匠之援$()。這會使得插入的物品到達熔煉區域，就像它們被直接從$(item)高爐$()頂部插入一樣。"
         },
         {
             "type": "crafting",
-            "text": "Creating the $(item)Armorer's Aid$()",
+            "text": "製作$(item)盔甲匠之援$()",
             "recipe": "naturesaura:blast_furnace_booster"
         }
     ]

@@ -10,7 +10,7 @@
             "text": "The Pulverizer is a machine that crushes items and ores. Improves ore yields, which can be further increased using augments and $(l:thermal:world/materials/catalysts)catalysts$(/l)."
         },
         {
-            "type": "合成",
+            "type": "crafting",
             "recipe": "thermal:machine_pulverizer",
             "title": "粉碎機"
         },

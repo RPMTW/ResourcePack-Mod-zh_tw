@@ -1,0 +1,12 @@
+{
+  "name": "銅製按鈕",
+  "icon": "outvoted:copper_button",
+  "category": "outvoted:block_category",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "outvoted:copper_button",
+      "text": "銅魔像最喜歡的方塊。會隨時間氧化，可以像普通銅一樣塗蠟和刮除，但是按下按鈕的時間越長，氧化程度會更高。"
+    }
+  ]
+}

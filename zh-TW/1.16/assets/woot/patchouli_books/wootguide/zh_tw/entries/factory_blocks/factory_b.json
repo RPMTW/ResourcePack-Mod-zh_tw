@@ -1,0 +1,11 @@
+{
+  "name": "guide.woot.factory_blocks.factory_b.name",
+  "category": "woot:factory_blocks",
+  "icon": "woot:factory_b",
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "woot:factory_b"
+    }
+  ]
+}

@@ -546,7 +546,5 @@
     "multiblock.validation.reprocessor.invalid_part_for_face": "This part may not be placed in this Reprocessor face",
     "multiblock.validation.reprocessor.invalid_collector_position": "The Collector may only be placed in the Reprocessor's bottom face",
     "compat.bigreactors.jei.reprocessor.recipecategory.title": "Reprocessor",
-    "compat.bigreactors.jei.reprocessor.recipecategory.energy.tooltip.title": "Energy",
-    "gui.bigreactors.reactor.controller.voidreactants.line1": "Void reactants",
-    "gui.bigreactors.reactor.controller.voidreactants.line2": "Void all reactants present in the Reactor"
+    "compat.bigreactors.jei.reprocessor.recipecategory.energy.tooltip.title": "Energy"
 }

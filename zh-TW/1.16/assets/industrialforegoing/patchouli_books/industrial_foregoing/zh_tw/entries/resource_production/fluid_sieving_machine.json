@@ -7,10 +7,10 @@
   "pages": [
     {
       "type": "text",
-      "text": "Using fermented ore meat and sand this machine will turn that meat into dust from the ore that it was first created."
+      "text": "使用發酵礦石肉和沙子，這台機器將把這種肉轉變為對應的礦石粉末。"
     },
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "industrialforegoing:fluid_sieving_machine"
     }
   ]

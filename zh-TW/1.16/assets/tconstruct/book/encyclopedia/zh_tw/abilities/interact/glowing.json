@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:glowing",
+  "text": [
+    {
+      "text": "使目標方塊的側面發光。放置發光源會消耗 10 點耐久度，這會繞過其他減少耐久度損失的強化。"
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "最高只有 1 級",
+    "需要 1 個技能槽"
+  ]
+}

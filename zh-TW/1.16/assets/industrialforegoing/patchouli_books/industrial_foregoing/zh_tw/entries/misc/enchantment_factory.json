@@ -1,16 +1,16 @@
 {
   "name": "自動附魔台",
   "icon": "industrialforegoing:enchantment_factory",
-  "category": "雜項",
+  "category": "misc",
   "sortnum": 0,
   "read_by_default": true,
   "pages": [
     {
       "type": "text",
-      "text": "This machine when provided with large amounts of $(l:agr_hus/essence)Essence$() and an item it will enchant the item with a level $(6)30$()."
+      "text": "提供這台機器大量的$(l:agr_hus/essence)精華液$()，為放入的物品進行一次$(6)30$()級的附魔。"
     },
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "industrialforegoing:enchantment_factory"
     }
   ]

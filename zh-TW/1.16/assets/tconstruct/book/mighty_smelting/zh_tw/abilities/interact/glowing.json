@@ -1,0 +1,14 @@
+{
+  "modifier_id": "tconstruct:glowing",
+  "text": [
+    {
+      "text": "That's a bright idea."
+    }
+  ],
+  "effects": [
+    "與方塊互動放置光源",
+    "消耗耐久度放置光源，即使工具有不毀升級",
+    "單次升級",
+    "需要 1 個能力槽"
+  ]
+}

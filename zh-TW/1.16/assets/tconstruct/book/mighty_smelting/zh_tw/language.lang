@@ -1,19 +1,28 @@
-部分
+// Sections - Mighty Smelting
 intro=簡介
-materials=工具材料
-bowmaterials=弓箭材料
-tools=工具
-modifiers=強化
-smeltery=冶煉爐
-seared_furnace=烤爐
-tinker_tank=工匠儲罐
+entity_melting=生物熔化
 tier_three_materials=第三階段材料
-tier_four_materials=第四階段材料
+tools=工具
+tools.subtext=大型工具全部都需要匠魂鐵砧來製造
 
-modifier.effect=效果:
-tool.properties=屬性:
+smeltery=冶煉爐
+smeltery.features=功能
+smeltery.alloying=合金
+smeltery.controller=控制器
+smeltery.structure=結構
+smeltery.structurereq=結構
+tinker_tank=工匠儲罐
+smeltery.seared_blocks=焦黑方塊
+smeltery.seared_ladder=焦黑梯子
+smeltery.seared_glass=焦黑玻璃
+smeltery.seared_drain=焦黑排液孔
+smeltery.seared_duct=焦黑輸導孔
+smeltery.seared_chute=焦黑滑槽
+smeltery.sgui1=冶煉爐介面
+smeltery.sgui2=冶煉爐介面解釋
 
-material.craft_partbuilder=可於部件加工台被製作
-material.craft_casting=可被製造於
-
-material.tconstruct.nahuatl.book=一種古老的材料，由熔化的黑曜石鑄在木製零件上製成
+abilities=能力
+abilities.general=§1§l通用§r
+abilities.harvest=§1§l挖掘§r
+abilities.weapon=§1§l武器§r
+abilities.interact=§1§l互動§r

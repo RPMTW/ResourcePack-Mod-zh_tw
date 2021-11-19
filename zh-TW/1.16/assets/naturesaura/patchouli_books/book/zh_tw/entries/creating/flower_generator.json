@@ -14,12 +14,12 @@
         },
         {
             "type": "text",
-            "text": "Additionally, it needs to be said that, since the flowers that it is supplied with naturally only appear in the $(thing)overworld$() realm, that is also the only area where this device functions at all. In other realms, for example, the more $(thing)hellish$() regions, this machine will have no effect."
+            "text": "此外，需要說明的是，由於提供給吸收器的種種花朵自然情況下只會出現在$(thing)主世界$()領域，這個機器也只會在那運作。在其他領域，例如更$(thing)地獄般$()的區域，這個機器不會產生效果。"
         },
         {
             "type": "crafting",
             "recipe": "naturesaura:flower_generator",
-            "text": "Creating the $(item)Herbivorous Absorber$()"
+            "text": "製造$(item)草食性吸收器$()"
         }
     ]
 }

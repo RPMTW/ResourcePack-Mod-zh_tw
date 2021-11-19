@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:experienced",
+  "text": [
+    {
+      "text": "將擊殺怪物和破壞方塊獲得的經驗提升50%。"
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "最多強化至5級",
+    "每個等級需要1個升級槽"
+  ]
+}

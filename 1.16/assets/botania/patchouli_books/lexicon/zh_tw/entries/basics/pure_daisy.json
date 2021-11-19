@@ -1,0 +1,44 @@
+{
+  "name": "botania.entry.pureDaisy",
+  "category": "botania:basics",
+  "icon": "botania:pure_daisy",
+  "priority": true,
+  "advancement": "botania:main/flower_pickup",
+  "turnin": "botania:main/pure_daisy_pickup",
+  "pages": [
+    {
+      "type": "text",
+      "text": "botania.page.pureDaisy0"
+    },
+    {
+      "type": "image",
+      "text": "botania.page.pureDaisy1",
+      "images": [
+        "botania:textures/gui/entries/pure_daisy.png"
+      ]
+    },
+    {
+      "type": "crafting",
+      "text": "botania.page.pureDaisy2",
+      "recipe": "botania:livingwood_twig"
+    },
+    {
+      "type": "text",
+      "text": "botania.page.pureDaisy4"
+    },
+    {
+      "type": "botania:petal_apothecary",
+      "text": "botania.page.pureDaisy3",
+      "recipe": "botania:petal_apothecary/pure_daisy"
+    }
+  ],
+  "extra_recipe_mappings": {
+    "botania:floating_pure_daisy": 1,
+    "botania:livingrock": 1,
+    "botania:livingwood": 1,
+    "minecraft:snow": 1,
+    "minecraft:packed_ice": 1,
+    "minecraft:blue_ice": 1,
+    "minecraft:obsidian": 1
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "name": "botania.entry.apothecary",
+  "category": "botania:basics",
+  "icon": "botania:apothecary_default",
+  "priority": true,
+  "advancement": "botania:main/flower_pickup",
+  "turnin": "botania:main/apothecary_pickup",
+  "pages": [
+    {
+      "type": "text",
+      "text": "botania.page.apothecary0"
+    },
+    {
+      "type": "image",
+      "text": "botania.page.apothecary1",
+      "images": [
+        "botania:textures/gui/entries/apothecary.png"
+      ]
+    },
+    {
+      "type": "text",
+      "text": "botania.page.apothecary2"
+    },
+    {
+      "type": "text",
+      "text": "botania.page.apothecary3"
+    },
+    {
+      "type": "text",
+      "text": "botania.page.apothecary4"
+    },
+    {
+      "type": "text",
+      "text": "botania.page.apothecary7"
+    },
+    {
+      "type": "text",
+      "text": "botania.page.apothecary6"
+    },
+    {
+      "type": "crafting",
+      "text": "botania.page.apothecary5",
+      "recipe": "botania:apothecary_default"
+    }
+  ],
+  "extra_recipe_mappings": {
+    "botania:apothecary_mossy": 1
+  }
+}

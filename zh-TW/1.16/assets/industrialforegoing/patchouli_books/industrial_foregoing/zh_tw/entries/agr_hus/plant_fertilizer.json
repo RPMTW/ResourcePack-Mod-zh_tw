@@ -14,7 +14,7 @@
       "text": "施肥機只接受以下肥料：$(br)$(li)骨粉$(li)肥料"
     },
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "industrialforegoing:plant_fertilizer"
     }
   ]

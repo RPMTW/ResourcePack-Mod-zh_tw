@@ -9,11 +9,11 @@
       "text": "一台刷怪機器，當有能量供應、精華液和一個裏頭有生物的大師球時，這台機器就會從身旁生出怪物，$(br2)跟一般的生怪箱一樣，當附近的生物太多時，機器將會停止運作。"
     },
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "industrialforegoing:mob_duplicator"
     },
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "industrialforegoing:mob_imprisonment_tool"
     }
   ]

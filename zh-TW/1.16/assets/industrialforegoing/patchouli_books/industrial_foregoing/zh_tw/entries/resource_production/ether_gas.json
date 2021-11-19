@@ -1,5 +1,5 @@
 {
-  "name": "Ether Gas (Bucket)",
+  "name": "乙醚氣桶",
   "icon": "industrialforegoing:ether_gas_bucket",
   "category": "resource_production",
   "sortnum": 13,
@@ -7,7 +7,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "The fluid produced by the $(l:resource_production/fluid_laser_base)Fluid Laser Base$() when placed right on top of a Wither."
+      "text": "由$(l:resource_production/fluid_laser_base)流體雷射鑽基座$()(正下方要有一隻凋靈怪)獲得的液體。"
     }
   ]
 }

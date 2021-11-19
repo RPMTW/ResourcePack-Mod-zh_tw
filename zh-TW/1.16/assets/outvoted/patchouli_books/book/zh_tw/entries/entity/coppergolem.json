@@ -1,0 +1,37 @@
+{
+  "name": "銅魔像",
+  "icon": "minecrafT:copper_block",
+  "category": "outvoted:entity_category",
+  "pages": [
+    {
+      "type": "entity",
+      "entity": "outvoted:copper_golem{Oxidization:0}",
+      "scale": "0.7",
+      "text": "銅魔像是一個可愛的小生物，喜歡按銅製按鈕！"
+    },
+    {
+      "type": "text",
+      "text": "銅魔像可以用一個銅方塊、一個雕刻過的南瓜和一個避雷針放在彼此的頂部來創造。無論銅方塊處於何種氧化狀態，魔像都會生成。它還會隨著時間的推移緩慢氧化（可設定），可以塗蠟或用斧頭刮除。"
+    },
+    {
+      "type": "text",
+      "text": "一旦完全氧化，它就會像雕像一樣凍結在原地。也意味著它也將保持其姿勢。 如果您想要具有預設姿勢的雕像，請使用完全氧化的銅方塊生成銅魔像，魔像會凍結並面向南瓜所面向的方向生成。"
+    },
+    {
+      "type": "text",
+      "text": "銅魔像會以隨機的時間間隔尋找其範圍內（約 10 格）的銅製按鈕並按下。隨著魔像氧化，它的移動速度會變慢，這意味著按下按鈕之間的間隔會增加。"
+    },
+    {
+      "type": "entity",
+      "entity": "outvoted:copper_golem{Oxidization:1}",
+      "scale": "0.7",
+      "text": "斑駁的銅魔像"
+    },
+    {
+      "type": "entity",
+      "entity": "outvoted:copper_golem{Oxidization:2}",
+      "scale": "0.7",
+      "text": "鏽蝕的銅魔像"
+    }
+  ]
+}

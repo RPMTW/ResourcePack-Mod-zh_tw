@@ -6,7 +6,7 @@
     "flag": "mod:thermal_expansion",
     "pages": [
         {
-            "type": "合成",
+            "type": "crafting",
             "recipe": "thermal:augments/machine_output_augment",
             "title": "輔助篩取升級",
             "text": "The Auxiliary Process Sieve augment increases chances of secondary output by 15% but scales the energy per operation by 1.25."

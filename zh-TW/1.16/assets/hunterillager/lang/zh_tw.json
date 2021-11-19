@@ -6,9 +6,9 @@
     "container.hunterillager.quivers": "箭袋",
     "entity.hunterillager.hunterillager": "獵手",
     "subtitles.hunterillager.laugh": "獵手笑了",
-    "death.attack.hunterillager.boomerang": "%1$s 被迴旋鏢擊斃",
+    "death.attack.hunterillager.boomerang": "%1$s was hit by %2$s 's boomerang",
     "death.attack.hunterillager.boomerang.player": "%1$s 被 %2$s 的迴旋鏢擊斃",
-    "hunterillager.config.generateHunterHouse": "在主世界生成獵人之家",
+    "hunterillager.config.generateHunterHouse": "generate HunterHouse In OverLevel",
     "hunterillager.config.spawnHunterIllagerOnPatrol": "在巡邏隊中生成獵手",
     "enchantment.hunterillager.bounce": "反射"
 }

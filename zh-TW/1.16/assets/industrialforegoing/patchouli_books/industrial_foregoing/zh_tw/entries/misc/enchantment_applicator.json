@@ -1,16 +1,16 @@
 {
   "name": "自動型鐵砧",
   "icon": "industrialforegoing:enchantment_applicator",
-  "category": "雜項",
+  "category": "misc",
   "sortnum": 3,
   "read_by_default": true,
   "pages": [
     {
       "type": "text",
-      "text": "This machine functions the same way as an anvil but instead of experience it uses $(l:agr_husb/essence)Essence$(). It can grab essence from the tank on top of the cost is too big."
+      "text": "這台機器與鐵砧的功能相同，但它使用的是$(l: agr_husb/essence)精華液$()而不是經驗。"
     },
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "industrialforegoing:enchantment_applicator"
     }
   ]

@@ -83,7 +83,7 @@
     {
       "type": "3x_crafting_arc",
       "a.heading": "[虛弱]氣血碎片",
-      "a.recipe": "bloodmagic:arc/weakbloodshard",
+      "a.recipe": "bloodmagic:arc/weakbloodshard_tau",
       "b.heading": "Revert Weak Blood Orb",
       "b.recipe": "bloodmagic:arc/reversion/weak_blood_orb",
       "c.heading": "Revert Apprentice Blood Orb",
@@ -131,8 +131,17 @@
     {
       "type": "crafting_alchemy_table",
       "heading": "基礎切削油",
+      "anchor": "basic_cutting_fluid",
       "recipe": "bloodmagic:alchemytable/basic_cutting_fluid",
       "text": "Cutting Fluid turns a metal's Gravel into that metal's Sand for continued 3x ore processing.  It can also turn an ore directly into two metal Sand for 2x Ore Processing.  The same 2x Ore Processing is possible in the Alchemy Table, but doing it in the ARC will save you some LP."
+    },
+    {
+      "type": "2x_crafting_alchemy_table",
+      "a.heading": "Intermediate Cutting Fluid",
+      "anchor": "intermediate_cutting_fluid",
+      "a.recipe": "bloodmagic:alchemytable/intermediate_cutting_fluid",
+      "b.recipe": "bloodmagic:alchemytable/intermediate_cutting_fluid_sigil",
+      "b.text": "$(item)Intermediate Cutting Fluid$() is similar to $(item)Basic Cutting Fluid$(), but lasts eight times longer and provides a 25% speed boost."
     },
     {
       "type": "2x_crafting_arc",
@@ -145,11 +154,11 @@
       "type": "crafting",
       "heading": "Fuel Cell (Furnace)",
       "recipe": "bloodmagic:primitive_furnace_cell",
-      "text": "The ARC also functions as a Furnace, but the only fuel sources it accepts is the $(item)Primitive Fuel Cell$() or $(l:bloodmagic:utility/lava_crystal)Lava Crystal$(/l)."
+      "text": "The Primitive Fuel Cell is good for 128 individual uses. That's more than the Block of Coal used to craft it (60 items), and since it only loses durability when the crafting is finished it will not wase fuel."
     },
     {
       "type": "text",
-      "text": "The Primitive Fuel Cell is good for 128 individual uses. That's more than the Block of Coal used to craft it (60 items), and since it only loses durability when the crafting is finished it will not wase fuel."
+      "text": "The Hydration Cell is used to make Clay, the Cornerstone of Balance."
     },
     {
       "type": "crafting",

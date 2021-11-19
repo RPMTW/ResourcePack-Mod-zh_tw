@@ -1,0 +1,14 @@
+{
+  "modifier_id": "tconstruct:dual_wielding",
+  "text": [
+    {
+      "text": "Duels are more honorable with dual wielding."
+    }
+  ],
+  "effects": [
+    "允許雙持工具",
+    "雙手工具需要副手",
+    "單次升級",
+    "需要 1 個能力槽"
+  ]
+}

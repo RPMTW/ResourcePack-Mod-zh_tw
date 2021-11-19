@@ -1,0 +1,12 @@
+{
+  "name": "檸檬雞",
+  "icon": "croptopia:lemon_chicken",
+  "category": "croptopia:meals",
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "croptopia:lemon_chicken",
+      "text": "檸檬雞的食譜"
+    }
+  ]
+}

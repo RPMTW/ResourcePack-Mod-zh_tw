@@ -10,7 +10,7 @@
       "text": "Use a $(l:bloodmagic:rituals/ritual_diviner)Ritual Diviner$(/l) for easier construction."
     },
     {
-      "type": "text",
+      "type": "bloodmagic:ritual_info",
       "ritual": "lava",
       "text_overrides": [
         [
@@ -20,7 +20,7 @@
       ]
     },
     {
-      "type": "spotlight",
+      "type": "bloodmagic:ritual_data",
       "ritual": "lava",
       "page_type": "raw",
       "text_overrides": [
@@ -35,13 +35,13 @@
       ]
     },
     {
-      "type": "spotlight",
+      "type": "bloodmagic:ritual_data",
       "ritual": "lava",
       "page_type": "corrosive",
-      "text": "Entities within range that are immune to fire (e.g. pigmen, blazes) are damaged severely."
+      "text": "Particularly useful against denizens of The Nether."
     },
     {
-      "type": "spotlight",
+      "type": "bloodmagic:ritual_data",
       "ritual": "lava",
       "page_type": "vengeful",
       "text_overrides": [
@@ -50,10 +50,10 @@
           "thing"
         ]
       ],
-      "text": "Entities in this range are afflicted by Fire Fuse. When the debuff ends, they will do a wonderful impression of a firework."
+      "text": "When the debuff ends, they will do a wonderful impression of a firework."
     },
     {
-      "type": "spotlight",
+      "type": "bloodmagic:ritual_data",
       "ritual": "lava",
       "page_type": "destructive",
       "text_overrides": [
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "type": "spotlight",
+      "type": "bloodmagic:ritual_data",
       "ritual": "lava",
       "page_type": "steadfast",
       "text_overrides": [
@@ -75,12 +75,12 @@
       ]
     },
     {
-      "type": "spotlight",
+      "type": "bloodmagic:ritual_data",
       "ritual": "lava",
       "page_type": "lavaRange"
     },
     {
-      "type": "spotlight",
+      "type": "bloodmagic:ritual_data",
       "ritual": "lava",
       "page_type": "fireDamage",
       "text_overrides": [
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "type": "spotlight",
+      "type": "bloodmagic:ritual_data",
       "ritual": "lava",
       "page_type": "fireFuse",
       "text_overrides": [
@@ -102,7 +102,7 @@
       ]
     },
     {
-      "type": "spotlight",
+      "type": "bloodmagic:ritual_data",
       "ritual": "lava",
       "page_type": "fireResist",
       "text_overrides": [
@@ -113,7 +113,7 @@
       ]
     },
     {
-      "type": "spotlight",
+      "type": "bloodmagic:ritual_data",
       "ritual": "lava",
       "page_type": "lavaTank",
       "text_overrides": [

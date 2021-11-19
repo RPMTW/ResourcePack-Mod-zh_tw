@@ -1,0 +1,29 @@
+{
+    "name": "巨大藥水",
+    "icon": "dynamictrees:dendro_potion{potion_index:2}",
+    "category": "藥水",
+    "sortnum": "5",
+    "pages": [
+        {
+            "type": "釀造",
+            "title": "巨大藥水",
+            "ingredient": "minecraft:pumpkin_seeds",
+            "bottle": "dynamictrees:dendro_potion",
+            "output": "dynamictrees:dendro_potion{potion_index:2}",
+            "text": "這種藥水將樹種改變為它的巨型等效物。（如果可供使用的話）"
+        },
+        {
+            "type": "relations",
+            "title": "關係",
+            "entries": [
+                "potions/base_potion",
+                "potions/burgeoning_potion",
+                "potions/depletion_potion",
+                "potions/fertility_potion",
+                "potions/persistance_potion",
+                "potions/base_transformation_potion",
+                "potions/transformation_potion"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "block.elementalcraft.vacuumshrine",
+  "category": "elementalcraft:shrines",
+  "icon": "elementalcraft:vacuumshrine",
+  "advancement": "elementalcraft:pickup/shrinebase",
+  "turnin": "elementalcraft:pickup/vacuumshrine",
+  "sortnum": 5,
+  "pages": [
+    {
+      "type": "text",
+      "text": "elementalcraft.page.vacuumshrine0"
+    }
+  ]
+}

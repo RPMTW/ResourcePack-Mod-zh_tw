@@ -1,0 +1,20 @@
+{
+    "name": "墳墓",
+    "icon": "minecraft:skeleton_skull",
+    "category": "world",
+    "pages": [
+        {
+            "type": "text",
+            "title": "墳墓",
+            "text": "曾經埋葬不死的地方，如今已經荒廢。$(br)你無法確定下面埋藏的是寶藏，還是亡魂。"
+        },
+        {
+            "type": "image",
+            "title": "一座墳墓",
+            "text": "有些值得探索的東西。",
+            "images": [
+                "mysticalworld:textures/barrow.png"
+            ]
+        }
+    ]
+}

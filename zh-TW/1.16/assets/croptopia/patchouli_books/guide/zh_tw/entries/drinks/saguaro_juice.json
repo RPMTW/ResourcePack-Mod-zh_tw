@@ -1,0 +1,12 @@
+{
+  "name": "仙人掌果汁",
+  "icon": "croptopia:saguaro_juice",
+  "category": "croptopia:drinks",
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "croptopia:saguaro_juice",
+      "text": "仙人掌果汁的食譜"
+    }
+  ]
+}

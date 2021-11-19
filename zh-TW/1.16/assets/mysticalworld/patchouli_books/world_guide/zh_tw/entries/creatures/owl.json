@@ -1,0 +1,22 @@
+{
+    "name": "貓頭鷹",
+    "icon": "minecraft:feather",
+    "category": "creatures",
+    "pages": [
+        {
+            "type": "animal_spawn_info",
+            "animal": "owl",
+            "breed": "用生兔肉繁殖;",
+            "tame": "Taming: Not tameable.",
+            "blurb": ""
+        },
+        {
+            "type": "entity",
+            "name": "貓頭鷹",
+            "entity": "mysticalworld:owl",
+            "scale": "0.7",
+            "offset": "0.3",
+            "text": ""
+        }
+    ]
+}

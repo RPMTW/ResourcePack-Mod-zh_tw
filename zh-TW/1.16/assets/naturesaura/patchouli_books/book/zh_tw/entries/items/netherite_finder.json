@@ -1,20 +1,20 @@
 {
-    "name": "Staff of Ancient Knowledge",
+    "name": "遠古知識之杖",
     "icon": "naturesaura:netherite_finder",
     "category": "items",
     "advancement": "naturesaura:offering",
     "pages": [
         {
             "type": "text",
-            "text": "Recent discoveries have unmasked a rather important, buried substance within the darker parts of this world: $(thing)Ancient Debris$(). This hard-to-find material is sturdy and extremely useful to miners, yet its rarity makes it hard to obtain. The $(item)Staff of Ancient Knowledge$() solves this problem in an elegant way."
+            "text": "最近的發現揭露了一種十分重要，掩埋於世界更黑暗部分的物質：$(thing)遠古遺骸$()。這種難以尋找的材料相當堅固，對於礦工及其有用，但它的稀缺性導致其難以獲得。$(item)遠古知識之杖$()以一種優雅的方式解決了這個問題。"
         },
         {
             "type": "text",
-            "text": "When using it, all $(thing)Ancient Debris$() blocks in an area around the user will be highlighted, making them visible even $(thing)through other blocks$(), for about a minute or so. During this time, the material can easily be located and mined.$(br)Needless to say, this operation requires a large amount of $(aura) from an $(l:items/aura_cache)Aura Cache$() or similar device."
+            "text": "使用$(item)遠古知識之杖$()時，使用者附近的所有$(thing)遠古遺骸$()方塊都會被高亮，使其甚至能被$(thing)穿過方塊$()看見，持續時間約一分鐘。在這段時間內，目標方塊能被輕鬆地定位並挖掘。$(br)無需多言，這個操作需要$(l:items/aura_cache)靈氣快取$()或類似設備中的大量$(#419600)靈氣$()。"
         },
         {
             "type": "crafting",
-            "text": "Creating the $(item)Staff of Ancient Knowledge$()",
+            "text": "製作$(item)遠古知識之杖$()",
             "recipe": "naturesaura:netherite_finder"
         }
     ]

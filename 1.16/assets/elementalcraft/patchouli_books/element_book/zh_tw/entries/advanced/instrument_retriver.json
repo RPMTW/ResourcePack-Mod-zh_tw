@@ -1,0 +1,19 @@
+{
+  "name": "block.elementalcraft.instrument_retriever",
+  "category": "elementalcraft:advanced",
+  "icon": "elementalcraft:instrument_retriever",
+  "advancement": "elementalcraft:pickup/swift_alloy_ingot",
+  "turnin": "elementalcraft:pickup/instrument_retriever",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "text",
+      "text": "elementalcraft.page.instrument_retriever0"
+    },
+    {
+      "type": "crafting",
+      "recipe": "elementalcraft:instrument_retriever"
+    }
+  ]
+}
+

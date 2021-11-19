@@ -1,0 +1,61 @@
+{
+	"name": "Somnium Infuser",
+	"icon": "theabyss:somnium_infuser",
+	"category": "somnium",
+	"advancement": "theabyss:loran_adv",
+	"priority": false,
+	"secret": false,
+	"read_by_default": false,
+	"pages": [
+		{
+			"type": "spotlight",
+			"item": "theabyss:somnium_infuser",
+			"title": "Somnium Infuser",
+			"link_recipe": false,
+			"text": "The Somnium Infuser is similar to a brewing stand in that it produces potions. It infuses Somnium into mixtures that can be used for gaining the ability to regen Somnium, to increase that ability, to brew a potion that makes your channeling of Somnium much more effecient, you can even infuse Somnium into a brew to be immune from fear for a period of time."
+		},
+		{
+			"type": "text",
+			"text": "Who knows what other potions can be infused with Somnium for an incredibly powerful result..."
+		},
+		{
+			"type": "multiblock",
+			"text": "To build a somnium infuser you need Test Tube and Test Tube Head",
+			"name": "Somnium Infuser",
+			"multiblock": {
+				"pattern": [
+					[
+						"0"
+					],
+					[
+						"A"
+					],
+					[
+						" "
+					],
+					[
+						" "
+					]
+				],
+				"mapping": {
+					"A": "theabyss:somnium_infuser"
+				}
+			}
+		},
+		{
+			"type": "crafting",
+			"title": "Somnium Infuser",
+			"recipe": "theabyss:test_tube_head_rcp",
+			"recipe2": "theabyss:test_tube_rcp"
+		},
+		{
+			"type": "text",
+			"text": "If you have both materials you can now build a somnium infuser!"
+		},
+		{
+			"type": "crafting",
+			"title": "Somnium Infuser",
+			"recipe": "theabyss:somnium_infuser_rcp"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+  "modifier_id": "tconstruct:pathing",
+  "text": [
+    {
+      "text": "允許工具放置草徑，類似於鶴嘴鋤或挖掘鏟。工具將使用其正常的開採區域來放置草徑。"
+    },
+    {
+      "text": "在工具原有耕作泥土或放置草徑效果之前觸發。(如果已存在)",
+      "paragraph": true
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "最高只有 1 級",
+    "需要 1 個技能槽"
+  ]
+}

@@ -7,10 +7,10 @@
   "pages": [
     {
       "type": "text",
-      "text": "This machine mixes primal dye colours to create the colours of the rainbow.$(br2)For example: If the requested $(6)dye$() is white, it will need 1 of $(4)Red$(0), $(2)Green$(0) and $(1)Blue$(0).$(br)It will consume $(6)30$()RF/t"
+      "text": "這台機器混合三原色的染料來創造其他顏色的染料。$(br2)例如：如果要求的$(6)染料$()是白色的，它需要$(4)紅色$(0)、$(2)綠色$(0)和$(1)藍色$(0)各1個。$(br)它將消耗$(6)30$()RF/t。"
     },
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "industrialforegoing:dye_mixer"
     }
   ]

@@ -1,0 +1,20 @@
+{
+    "name": "魔源",
+    "icon": "ars_nouveau:mana_jar",
+    "sortnum": 5,
+    "category": "getting_started",
+    "pages": [
+        {
+            "type": "text",
+            "text": "魔源是一種必須使用世界中的設備進行收集的特殊資源。魔源可用於給魔符壓印器和附魔裝置之類的設備供能。你需要魔源罐和魔源通道來收集世界中的魔力。"
+        },
+        {
+            "type": "relations",
+            "entries": [
+                "source/mana_jar",
+                "source/volcanic_accumulator",
+                "source/mana_condenser"
+            ]
+        }
+    ]
+}

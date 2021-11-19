@@ -1,0 +1,18 @@
+{
+  "name": "Auto Stim Pack",
+  "icon": "engineerstools:stimpack",
+  "category": "tools",
+  "sortnum": 1030,
+  "pages": [
+    {
+      "type": "spotlight",
+      "title": "Auto Stim Pack",
+      "item": "engineerstools:stimpack",
+      "text": "A portable automatic injection system, which monitors your health while present in your inventory, Curios slot or Bauble slot.$(br)When you are $(t:Default 3 hearts)low on health$(), it will charge up for about one second, and push a few hearts instantly back. Additional short regeneration and boost effects help you to get out of"
+    },
+    {
+      "type": "text",
+      "text": "$(br2) $(br2) $(br) the unfortunate situation:$(br) $(br)$(li)Regeneration: 15s$(li)Speed: 20s$(li)Resistance: 10s$(li)Fire Resistance: 10s$(br2)Has only two shots and is not repairable."
+    }
+  ]
+}

@@ -20,5 +20,18 @@
     "enchantwithmob.config.naturalSpawnEnchantedMob": "自然生成附魔生物",
     "enchantwithmob.config.spawnEnchantedAnimal": "生成附魔動物",
     "enchantwithmob.config.enchantedBoss": "生成Boss(更難)",
-    "enchantwithmob.config.enchantYourSelf": "自身附魔"
+    "enchantwithmob.config.enchantYourSelf": "自身附魔",
+    "mobenchant.enchantwithmob.name.enchantwithmob.multishot": "MultiShot",
+    "mobenchant.enchantwithmob.protection": "Protection",
+    "mobenchant.enchantwithmob.tough": "Tough",
+    "mobenchant.enchantwithmob.strong": "Strong",
+    "mobenchant.enchantwithmob.speedy": "Speedy",
+    "mobenchant.enchantwithmob.thorn": "Thorn",
+    "mobenchant.enchantwithmob.health_boost": "HealthBoost",
+    "mobenchant.enchantwithmob.poison": "Poison",
+    "mobenchant.enchantwithmob.huge": "Huge",
+    "mobenchant.enchantwithmob.multishot": "MultiShot",
+    "enchantwithmob.cannot.enchant": "This mob cannot grant that enchantment or already have",
+    "enchantwithmob.cannot.enchant_yourself": "you cannot grant that enchantment or already have",
+    "death.attack.enchantwithmob.indirectVoid": "%1$s was wrapped in void by %2$s"
 }

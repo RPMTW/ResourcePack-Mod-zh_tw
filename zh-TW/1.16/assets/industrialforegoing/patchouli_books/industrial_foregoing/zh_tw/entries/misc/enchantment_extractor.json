@@ -1,16 +1,16 @@
 {
   "name": "附魔提取機",
   "icon": "industrialforegoing:enchantment_extractor",
-  "category": "雜項",
+  "category": "misc",
   "sortnum": 4,
   "read_by_default": true,
   "pages": [
     {
       "type": "text",
-      "text": "This machine can extract enchantments from items when provided with a book. $(br2)It can function 2 ways, extract the enchantments into a book or it can extract the enchantment and transform it into $(l:agr_husb/essence)Essence$()."
+      "text": "放入書時，該機器可以從物品中提取附魔。$(br2)它有2種模式，將附魔提取到書中，或者它可以提取附魔並將其轉化為$(l:agr_husb/essence)精華液$()。"
     },
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "industrialforegoing:enchantment_extractor"
     }
   ]

@@ -9,7 +9,7 @@
             "text": "The redprint can copy and paste your machine configurations with ease! To save a configuration, right click a configured machine with a blank redprint. Right click on other machines with a configured redprint to paste the configuration. Shift right click to clear a redprint. Hold the redprint in the offhand slot in order to automatically configure placed machines."
         },
         {
-            "type": "合成",
+            "type": "crafting",
             "recipe": "thermal:tools/redprint",
             "title": "紅圖"
         }

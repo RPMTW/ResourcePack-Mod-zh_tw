@@ -1,0 +1,15 @@
+{
+  "name": "page.storagenetwork.gs_setup",
+  "icon": "storagenetwork:collector",
+  "category": "storagenetwork:getstarted",
+  "pages": [
+    {
+      "type": "text",
+      "text": "page.storagenetwork.gs_setup.left"
+    },
+    {
+      "type": "text",
+      "text": "page.storagenetwork.gs_setup.right"
+    }
+  ]
+}

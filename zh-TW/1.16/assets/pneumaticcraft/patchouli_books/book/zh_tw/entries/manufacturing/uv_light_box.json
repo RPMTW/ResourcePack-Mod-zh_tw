@@ -13,8 +13,13 @@
       "text": "在完整的 10 分鐘照射後，$(item)印刷電路板/$有 100% 的機率在$(l:manufacturing/etching_acid)蝕刻酸/$中蝕刻成功。但是，可以照射更短的時間，這將導致印刷電路板蝕刻成功的機率降低。$(p)註：照射過程在總進度較低時進行得更快，接近完成時進行得更慢。"
     },
     {
+      "type": "text",
+      "title": "Threshold Automation",
+      "text": "紫外線燈箱的合成表"
+    },
+    {
       "type": "crafting",
-      "text": "紫外線燈箱的合成表",
+      "text": "Creating the UV Light Box",
       "recipe": "pneumaticcraft:uv_light_box"
     }
   ]

@@ -1,0 +1,28 @@
+{
+    "name": "小屋",
+    "icon": "mysticalworld:thatch",
+    "category": "world",
+    "pages": [
+        {
+            "type": "text",
+            "title": "小屋",
+            "text": "You will find several different types of huts in the wild, some of them livable and some of them slightly ruined."
+        },
+        {
+            "type": "image",
+            "title": "野外的小屋",
+            "text": "很適合作為基地。",
+            "images": [
+                "mysticalworld:textures/hut.png"
+            ]
+        },
+        {
+            "type": "image",
+            "title": "A ruined hut",
+            "text": "Fire has ruined this hut.",
+            "images": [
+                "mysticalworld:textures/ruined_hut.png"
+            ]
+        }
+    ]
+}

@@ -7,10 +7,10 @@
   "pages": [
     {
       "type": "text",
-      "text": "A machine that transforms $(6)sludge$() into something useful.$(br2)When supplied with $(6)Sludge$(), obtained from the $(l:agriculture_n_husbandry/plant_gatherer)Plant Gatherer$(), it will generate $(6)something$().$(br)This process requires $(6)1000$()RF/t though so be sure to have some power stored."
+      "text": "一台將$(6)污泥$()變成有用的東西的機器。$(br2)放入從$(l:agricultural_n_husbandry/plant_gatherer)收割機$()取得的$(6)污泥$()，它會產生$(6)某個東西$()。$(br)這個過程需要$(6)1000$()RF/t ，請務必多儲存一些能量。"
     },
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "industrialforegoing:sludge_refiner"
     }
   ]

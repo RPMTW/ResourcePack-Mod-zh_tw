@@ -1,0 +1,20 @@
+{
+    "name": "更好的施法",
+    "icon": "ars_nouveau:novice_robes",
+    "sortnum": 7,
+    "category": "getting_started",
+    "pages": [
+        {
+            "type": "text",
+            "text": "你的魔力池可以變大，方法有特殊的法師盔甲、附魔、學習新魔符或者飲用藥水。一旦你獲得了魔力花種子，你就能進一步合成初學者法袍。法袍會顯著增加你的施法能力。各類法袍都能使用你的魔力自我修復，而且還有較好的附魔能力。法袍還能為你提供相當不錯的保護。"
+        },
+        {
+            "type": "relations",
+            "entries": [
+                "machines/enchanting_apparatus",
+                "apparatus/mana_bloom_crop",
+                "items/armor"
+            ]
+        }
+    ]
+}

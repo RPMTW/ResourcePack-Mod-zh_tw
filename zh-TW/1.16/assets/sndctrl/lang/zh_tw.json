@@ -75,5 +75,7 @@
     "sndctrl.text.tooltip.category": "類型: ",
     "sndctrl.text.tooltip.vanilla": "內置原版聲音",
     "sndctrl.message.cfg.soundconfig.invalid": "聲音配置是無效的。",
-    "sndctrl.soundcategory.config": "配置聲音"
+    "sndctrl.soundcategory.config": "配置聲音",
+    "sndctrl.cfg.sound.EnhancedHRTF": "Enable HRTF Processing",
+    "sndctrl.cfg.sound.EnhancedHRTF.tooltip": "Enable HRTF processing in OpenAL"
 }

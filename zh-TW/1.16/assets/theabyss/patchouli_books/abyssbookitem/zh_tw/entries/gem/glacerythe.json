@@ -1,0 +1,42 @@
+{
+	"name": "Glacerythe",
+	"icon": "theabyss:glacerythe_gem",
+	"category": "gem",
+	"advancement": "theabyss:glacerythe_ore_adv",
+	"priority": false,
+	"secret": false,
+	"read_by_default": false,
+	"pages": [
+		{
+			"type": "spotlight",
+			"item": "theabyss:glacerythe_gem",
+			"title": "Glacerythe",
+			"link_recipe": false,
+			"text": "Glacerythe can be found in every biome. They are found at an altitude of 24 to 42. With glacerythe you can make weapons, armor and other things."
+		},
+		{
+			"type": "multiblock",
+			"text": "Glacerythe Ore.",
+			"name": "Glacerythe",
+			"multiblock": {
+				"pattern": [
+					[
+						"0"
+					],
+					[
+						"A"
+					],
+					[
+						" "
+					],
+					[
+						" "
+					]
+				],
+				"mapping": {
+					"A": "theabyss:glacerythe_ore"
+				}
+			}
+		}
+	]
+}

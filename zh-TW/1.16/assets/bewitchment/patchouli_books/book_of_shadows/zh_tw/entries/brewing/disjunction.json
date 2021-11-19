@@ -1,0 +1,18 @@
+{
+  "category": "bewitchment:brewing",
+  "name": "擷取",
+  "icon": "minecraft:ender_pearl",
+  "advancement": "bewitchment:hidden_unlocks/altars",
+  "pages": [
+    {
+      "type": "text",
+      "text": "分離目標，試圖將其傳送到一個小半徑內。"
+    },
+    {
+      "type": "spotlight",
+      "title": "擷取",
+      "item": "minecraft:ender_pearl",
+      "text": "傳送半徑隨著強度的增大而增加。"
+    }
+  ]
+}

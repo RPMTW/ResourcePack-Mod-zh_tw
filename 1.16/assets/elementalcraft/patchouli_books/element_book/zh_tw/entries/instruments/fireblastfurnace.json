@@ -1,0 +1,32 @@
+{
+  "name": "block.elementalcraft.fireblastfurnace",
+  "category": "elementalcraft:instruments",
+  "icon": "elementalcraft:fireblastfurnace",
+  "advancement": "elementalcraft:pickup/purecrystal",
+  "turnin": "elementalcraft:pickup/fireblastfurnace",
+  "sortnum": 11,
+  "pages": [
+    {
+      "type": "text",
+      "text": "elementalcraft.page.fireblastfurnace0"
+    },
+    {
+      "type": "crafting",
+      "recipe": "elementalcraft:fireblastfurnace"
+    },
+    {
+      "type": "multiblock",
+      "multiblock": {
+        "mapping": {
+          "I": "elementalcraft:fireblastfurnace",
+          "0": "elementalcraft:tank"
+        },
+        "pattern": [
+          ["I"],
+          ["0"]
+        ]
+      }
+    }
+  ]
+}
+

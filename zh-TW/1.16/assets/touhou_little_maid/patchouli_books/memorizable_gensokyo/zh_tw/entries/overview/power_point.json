@@ -1,0 +1,16 @@
+{
+  "sortnum": 2,
+  "name": "P 點",
+  "icon": "touhou_little_maid:power_point",
+  "category": "overview",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Power 道具是本模組重要的資源，通過殺死$(l:overview/world_spawn#fairy)女僕妖精$()來取得。$(br2)能夠用於$(l:overview/multiblocks_altar)祭壇$()合成。"
+    },
+    {
+      "type": "text",
+      "text": "當你手持$(l:overview/gohei_and_danmaku)御幣$()時，在遊戲畫面的左上角就能看到 power 值。$(br2)Power 值最大為 5，超過此數值不再增長。"
+    }
+  ]
+}

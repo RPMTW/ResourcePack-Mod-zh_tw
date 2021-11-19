@@ -1,0 +1,34 @@
+{
+  "name": "REDIA Tool",
+  "icon": "engineerstools:redia_tool",
+  "category": "tools",
+  "sortnum": 1010,
+  "pages": [
+    {
+      "type": "spotlight",
+      "title": "REDIA Tool",
+      "item": "engineerstools:redia_tool",
+      "text": "READIA is a diamond coating technique $(o)$(t:... The name is a parody to an old acronym name 'WIDIA', meaning 'Wie Diamant' aka 'diamond-like'. This sintered/cemented carbon material can be found today in a lot of tools, tool heads, cutting wheels, or drill heads - pretty much standard stuff. ...)(REal DIAmond)$() to produce very hard and yet non-briddle tools.$(br2)The REDIA Tool is a hand-held multi purpose tool, combining Axe, Pickaxe, Shovel, Hoe, as well as Shears. It comes with a few additional aspects, which make it ideal for building"
+    },
+    {
+      "type": "text",
+      "text": "tasks and early game mining.$(br2)§nRepairing and REDIA coating$()$(br)The tool is maintained by renewing the Diamond coating. Place the tool and a diamond into a crafting table or your inventory crafting grid to do this. By over-repairing the tool, $(o)Efficiency$() is added ($(o)+2$() each). When the maximum is reached, $(o)Fortune$() is added.$(br2)$(o)Fortune and Efficiency decay with the tool durability, so keep it in good shape$()."
+    },
+    {
+      "type": "text",
+      "text": "§nShearing and Plant Snipping$()$(br)When $(o)sneak-right-clicking$() Sheep, Vines, Webs, etc, the tool acts as Shears, and the corresponding items will be dropped.$(br2)$(br2)§nHoeing and Tilling$()$(br)Sneak-right-clicking Grass or Dirt will hoe the clicked soil to Farmland. Further sneack-clicks will continue cycling the soil to Coarse Dirt, Grass Path, Dirt again, and so forth."
+    },
+    {
+      "type": "text",
+      "text": "§nTree Felling$()$(br)Sneaking while breaking a wood log of a tree will also cut the whole tree above that block, including leaves. The drops of the additionally broken blocks are determined in a way as these blocks would have been cut manually without Fortune effects. Tree felling will cause additional damage to the tool, and also make you hungry."
+    },
+    {
+      "type": "text",
+      "text": "§nHealth and Safety$()$(br)Because well balanced and not too heavy, the tool allows you to deflect unintended hits in the last moment. Hence, it prevents accidentally hitting pets, villagers, or calm Zombie Pigmen.$(br2)$(t:That is a very well known feature of Vazkiis Mana Steel Pickaxe transferred into the Engineering context, where Botania tools are seldom available. It's such a good thing that we all wanna have it. See mod credits.)§nTorch placing$()$(br)By right-clicking on a face to that a Torch can be attached, you place a torch directly from your inventory via this tool."
+    },
+    {
+      "type": "text",
+      "text": ""
+    }
+  ]
+}

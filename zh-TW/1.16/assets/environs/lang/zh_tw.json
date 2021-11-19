@@ -57,8 +57,8 @@
     "environs.cfg.fog.Enable.tooltip": "Enable/disable fog processing",
     "environs.cfg.fog.Morning": "Morning Fog",
     "environs.cfg.fog.Morning.tooltip": "Show morning fog that eventually burns off",
-    "environs.cfg.fog.MorningChance": "清晨迷霧機率",
-    "environs.cfg.fog.MorningChance.tooltip": "出現清晨迷霧的機率為 1/N",
+    "environs.cfg.fog.MorningChance": "Morning Fog Chance Percentage",
+    "environs.cfg.fog.MorningChance.tooltip": "Percentage chance morning fog will occur",
     "environs.cfg.fog.Weather": "天氣迷霧",
     "environs.cfg.fog.Weather.tooltip": "依據降雨強度的增強型迷霧",
     "environs.cfg.fog.Bedrock": "基岩迷霧",
@@ -69,5 +69,7 @@
     "environs.cfg.fog.Biome.tooltip": "啟用生態域的特殊濃度和顏色的迷霧",
     "environs.soundcategory.biomes": "生態域",
     "environs.soundcategory.spotsounds": "Spot Sounds",
-    "environs.soundcategory.waterfall": "瀑布"
+    "environs.soundcategory.waterfall": "瀑布",
+    "environs.cfg.effects.WaterfallCutoff": "Waterfall Strength Cutoff",
+    "environs.cfg.effects.WaterfallCutoff.tooltip": "Limit sounds to waterfall strengths above this value"
 }

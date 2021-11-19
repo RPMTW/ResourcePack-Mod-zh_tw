@@ -1,0 +1,18 @@
+{
+  "name": "item.elementalcraft.cover_frame",
+  "category": "elementalcraft:basics",
+  "icon": "elementalcraft:cover_frame",
+  "advancement": "elementalcraft:pickup/drenched_iron_ingot",
+  "turnin": "elementalcraft:pickup/cover_frame",
+  "sortnum": 6,
+  "pages": [
+    {
+      "type": "text",
+      "text": "elementalcraft.page.cover_frame0"
+    },
+    {
+      "type": "crafting",
+      "recipe": "elementalcraft:cover_frame"
+    }
+  ]
+}
