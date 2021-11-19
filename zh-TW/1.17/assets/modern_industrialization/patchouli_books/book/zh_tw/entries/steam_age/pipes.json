@@ -1,32 +1,32 @@
 {
-  "name": "Pipes",
+  "name": "管道",
   "category": "modern_industrialization:steam_age",
   "icon": "modern_industrialization:wrench",
   "pages": [
     {
       "type": "text",
-      "text": "Pipes are used in the recipes of some machines, but they can also be placed in the world. Up to 3 pipes can fit in a single block.$(br2)Pipes of different colors will not connect.$(br2)Right-clicking a pipe with a wrench will change the connection type, shift-right-clicking will drop the pipe."
+      "text": "管道可用於合成一些機器，也可直接放置。1 格的空間可放置最多 3 根管道。$(br2)不同材質的管道無法相連。$(br2)用扳手對管道按右鍵可變更其連接類型，潛行+右鍵拆掉管道。"
     },
     {
       "type": "spotlight",
       "item": "modern_industrialization:fluid_pipe",
-      "title": "Fluid Pipes",
-      "text": "Fluid pipes can only contain one type of fluid, and by default they won't connect to empty pipes or blocks. You can force a connection by right-clicking the center of the pipe with the wrench, or by right-clicking a block with a pipe in your hand: it will connect, but not consume the item in your hand."
+      "title": "流體管道",
+      "text": "流體管道只能包含一種類型的流體，預設情況下它們不會連接到空管道或方塊。您可以用扳手對管道的中心按右鍵來強制連接，或者在您手中的管道上對一個方塊按右鍵：它會連接，但不會消耗您手中的物品。"
     },
     {
       "type": "spotlight",
       "item": "modern_industrialization:item_pipe",
-      "title": "Item Pipes",
-      "text": "Item pipes will not connect to inventories by default, but again you can force a connection.$(br2)Right-click a connection without holding a wrench and will see a filter. By default, whitelist mode is enabled, so no items will be inserted or extracted directly."
+      "title": "物品管道",
+      "text": "物品管道預設不會連接到容器方塊中，但你也可以強制連接。$(br2)對連接處按右鍵可查看過濾器。預設開啟白名單模式，因此不會直接輸送物品。"
     },
     {
       "type": "text",
-      "text": "The different types of pipes don't work exactly the same way.$(br2)Every tick, fluid pipes will try to evenly extract for all connected blocks, and then try to insert that evenly. $(l:modern_industrialization:midgame/fluid_transfer)Read more about their speed here.$()$(br2)Item pipes will insert items into higher priorities first, and they will transfer 16 items every few seconds. $(l)They can be upgraded with motors.$()"
+      "text": "不同類型的管道的運作方式並不完全相同。$(br2)流體管道每刻都會嘗試均勻地提取所有連接的方塊，然後嘗試均勻地投入。$(l:modern_industrialization:midgame/fluid_transfer)在此處閱讀有關它們速度的更多資訊。$()$(br2)物品管道會先投入優先級更高的物品，每隔幾秒就會傳送 16 個物品。$(l)它們可以用馬達升級。$()"
     },
     {
       "type": "text",
-      "title": "Note",
-      "text": "The item pipes are on whitelist by default (which mean only the items in the filter will be moved). You need to switch to blacklist (only the items NOT in the filter will be moved) or add the item you want to move to the filter. Be careful that you need to configure both sides of the pipe, otherwise items will not move."
+      "title": "備註",
+      "text": "預設情況下，物流管道在白名單上（這意味著只會移動過濾器中的物品）。您需要切換到黑名單（只有不在過濾器中的物品將被移動）或將您要移動的物品添加到過濾器。注意需要配置管道的兩側，否則物品將不會移動。"
     }
   ],
   "sortnum": 4

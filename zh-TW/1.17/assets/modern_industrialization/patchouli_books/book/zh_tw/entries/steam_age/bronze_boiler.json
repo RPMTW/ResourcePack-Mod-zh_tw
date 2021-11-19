@@ -1,26 +1,26 @@
 {
-  "name": "Hot Water",
+  "name": "熱水",
   "category": "modern_industrialization:steam_age",
   "icon": "modern_industrialization:bronze_boiler",
   "pages": [
     {
       "type": "text",
-      "text": "Steam machines need steam to function, and that's exactly what the boiler provides.$(br2)It will slowly use fuel to heat up. When it's hot enough, it will start to produce steam. Don't forget to feed it with water or your fuel will burn for nothing."
+      "text": "蒸汽機器需要蒸汽來運轉，而鍋爐就能提供蒸汽。$(br2)鍋爐會緩慢消耗燃料來加熱。溫度足夠時，鍋爐就會產出蒸汽。別忘了加水，否則你的燃料就白白浪費了。"
     },
     {
       "type": "smelting",
       "recipe": "modern_industrialization:vanilla_recipes/steam_bucket",
-      "text": "You can also smelt water buckets into steam buckets. Make your first $(l:modern_industrialization:steam_age/steam_machines)Bronze Compressor$() before the boiler to save a lot on the plates!$(br2)Turn the page for the boiler itself..."
+      "text": "您也可以將水桶熔煉成蒸汽桶。在鍋爐之前製作您的第一台$(l:modern_industrialization:steam_age/steam_machines)青銅壓縮機$()，以節省大量的板材！$(br2)翻到鍋爐本身的那一頁..."
     },
     {
       "type": "crafting",
       "recipe": "modern_industrialization:steam_age/bronze/boiler_asbl",
-      "text": "It probably looks crazy expensive to you right now, but don't forget that you can double ores. Also, as soon as you will have your first two machines, it will become three times less expensive!"
+      "text": "現在對你來說可能看起來很貴，但不要忘記你可以加倍礦物。此外，只要您擁有前兩台機器，它的價格就會便宜三倍！"
     },
     {
       "type": "crafting",
       "recipe": "modern_industrialization:materials/fire_clay_dust",
-      "text": "To make fire clay bricks, you will need to cook fire clay dusts and in order to craft these, you will need brick dusts. To make some, hammer bricks (the item, not the block), in the Forge Hammer. The process efficiency can be improved in steam machines."
+      "text": "要製作耐火磚，您需要燒製耐火黏土粉，為了製作這些，您需要使用紅磚粉。在鍛造鎚中製作一些，鎚鍊紅磚頭（物品，而不是方塊）。在蒸汽機中可以提高過程效率。"
     }
   ],
   "sortnum": 2

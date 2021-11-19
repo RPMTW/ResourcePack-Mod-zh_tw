@@ -5,21 +5,21 @@
   "pages": [
     {
       "type": "text",
-      "text": "Before making bronze, we will need to create a Forge Hammer. It can hammer or saw items.$(br2)You can put iron, copper and tin ore in the forge hammer and you will receive 2 Crushed Dust per ore. Every crushed dust can be smelted into an ingot."
+      "text": "在製作青銅前，我們需要一個鍛造台。鍛造台可以鎚鍊或鋸開物品。$(br2)你可以放入鐵、銅和錫礦，之後你會獲得 2 個礦物碎粉。每個礦物碎粉可熔煉為一塊錠。"
     },
     {
       "type": "crafting",
       "recipe": "modern_industrialization:forge_hammer",
-      "text": "Now, you may want to consider making a Steam Mining Drill... Check the next page!"
+      "text": "現在，您可能要考慮製作一個蒸汽採礦鑽頭... 查看下一頁！"
     },
     {
       "type": "crafting",
       "recipe": "modern_industrialization:tools/steam_mining_drill",
-      "text": "The Steam Mining Drill can mine 3x3 blocks at the time, perfect for your early game mining needs!"
+      "text": "蒸汽採礦鑽頭一次可以挖掘 3x3 方塊，非常適合您早期的遊戲挖掘需求！"
     },
     {
       "type": "text",
-      "text": "The Steam Mining Drill requires both water and solid fuel (for example coal).$(br2)Right-click a water source to fill it with water, and make sure to always place some fuel next right next to it in your inventory bar. The fuel will be consumed slowly when you mine."
+      "text": "蒸汽採礦鑽頭需要水和固體燃料（例如煤炭）。$(br2)對一個水源按右鍵以將其注滿水，並確保始終將一些燃料放在物品欄旁邊的旁邊。當你開採時，燃料會慢慢消耗。"
     }
   ],
   "sortnum": 0

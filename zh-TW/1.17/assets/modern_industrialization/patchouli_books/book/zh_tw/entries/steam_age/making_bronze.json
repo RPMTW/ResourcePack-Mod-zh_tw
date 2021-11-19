@@ -1,11 +1,11 @@
 {
-  "name": "Your First Bronze!",
+  "name": "你的第一塊青銅！",
   "category": "modern_industrialization:steam_age",
   "icon": "modern_industrialization:bronze_dust",
   "pages": [
     {
       "type": "text",
-      "text": "First, you need to make small copper and tin dusts by hammering copper and tin nuggets in the forge hammer.$(br2)You can then combine copper and tin (tiny) dusts to make bronze (tiny) dust.$(br2)Always remember that 9 tiny dusts are one dust."
+      "text": "首先你需要用鍛造台錘鍊銅和錫粒為小堆礦粉。$(br2)用（小堆）銅和錫粉可製作（小堆）青銅粉。$(br2)請記住9個小堆礦粉等於1個礦粉。"
     },
     {
       "type": "crafting",
@@ -15,7 +15,7 @@
     {
       "type": "smelting",
       "recipe": "modern_industrialization:generated/materials/bronze/smelting/dust_to_ingot_smelting",
-      "text": "Smelting bronze dust will give you a bronze ingot."
+      "text": "熔煉青銅粉會給你一個青銅錠。"
     }
   ],
   "sortnum": 1

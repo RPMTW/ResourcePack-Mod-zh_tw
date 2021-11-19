@@ -1,17 +1,17 @@
 {
-  "name": "Better Diesel",
+  "name": "更好的柴油",
   "category": "modern_industrialization:midgame",
   "icon": "modern_industrialization:turbo_diesel_generator",
   "pages": [
     {
       "type": "crafting",
       "recipe": "modern_industrialization:electric_age/machine/turbo_diesel_generator_asbl",
-      "text": "Keep in mind you can use a Turbo Diesel Generator for compat HV power generation. As you might expect, it produces up to 512 EU/t. Remember that you can find the amount of energy stored in every fuel with REI."
+      "text": "請記住，您可以使用渦輪柴油發電機進行相容高壓發電。正如您所料，它的產量高達 512 EU/t。請記住，您可以使用 REI 找到每種燃料中儲存的能量。"
     },
     {
       "type": "crafting",
       "recipe": "modern_industrialization:electric_age/machine/large_diesel_generator_asbl",
-      "text": "Once you have access to processing units and highly advanced machine hulls, considering making a few Large Diesel Generators. Each of these bad boys will turn fuel into EU, up to 8192 EU/t!"
+      "text": "一旦您可以使用處理單元和精英的機器外殼，就可以考慮製造一些大型柴油發電機。這一些中的每一個都會將燃料轉化為 EU，高達 16384 EU/t！"
     }
   ],
   "sortnum": 204

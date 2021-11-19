@@ -1,0 +1,43 @@
+{
+  "category": "bewitchment:brewing",
+  "name": "元素油",
+  "icon": "bewitchment:cleansing_balm",
+  "advancement": "bewitchment:hidden_unlocks/witch_cauldron",
+  "priority": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "元素油是巫術中必不可少的製作成分。它們由一類 $(l:bewitchment:introduction/bark)釀造$() 和其他組件組成。$(br2)要製作幾瓶油，首先扔一塊 $(l:bewitchment:introduction /bark)釀造$() 放入沸騰的 $(l:bewitchment:tools/witch_cauldron)女巫鍋$() 中，然後加入其他成分。一旦達到令人愉悅的匹配顏色，您就可以將其裝瓶。"
+    },
+    {
+      "type": "bewitchment:oil",
+      "recipe": "bewitchment:oil_crafting/cleansing_balm",
+      "text": "清潔香膏與光相關，同樣明亮。"
+    },
+    {
+      "type": "bewitchment:oil",
+      "recipe": "bewitchment:oil_crafting/grim_elixir",
+      "text": "與黑暗原理有關， 格裡姆靈丹妙藥是黑暗的， 像血一樣。"
+    },
+    {
+      "type": "bewitchment:oil",
+      "recipe": "bewitchment:oil_crafting/aqua_cerate",
+      "text": "水陶瓷是藍色的，像水。$(br2)任何類型的魚都可以用於此。"
+    },
+    {
+      "type": "bewitchment:oil",
+      "recipe": "bewitchment:oil_crafting/fiery_serum",
+      "text": "火熱的血清是一種明亮的橙色。它結合了火焰的原則。"
+    },
+    {
+      "type": "bewitchment:oil",
+      "recipe": "bewitchment:oil_crafting/earth_ichor",
+      "text": "這種草綠油融入了地球。"
+    },
+    {
+      "type": "bewitchment:oil",
+      "recipe": "bewitchment:oil_crafting/heaven_extract",
+      "text": "天堂提取物是完全白色的，代表空氣。$(br2)小心不要把$(l:bewitchment:introduction/crops)曼德拉克根 $()在第一，否則你可能會不小心創建一個$(l:bewitchment:brewing/brewing_basics)釀造 $()。"
+    }
+  ]
+}

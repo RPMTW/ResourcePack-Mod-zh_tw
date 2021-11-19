@@ -1,0 +1,13 @@
+{
+    "option.rebelkeithy.extendedarmorbars.colors": "Colors",
+    "option.rebelkeithy.extendedarmorbars.armorenable": "Enable Armor Bar",
+    "option.rebelkeithy.extendedarmorbars.armorenabledescription": "Disabling this will only disable this mods\noverriding of the armor bar. It will NOT\ndisable the armor bar completely.",
+    "option.rebelkeithy.extendedarmorbars.armorhidebackground": "Hide Background for Armor Bar",
+    "option.rebelkeithy.extendedarmorbars.armorhidewhenempty": "Hide Armor Bar When Empty",
+    "option.rebelkeithy.extendedarmorbars.toughnessenable": "Enable Toughness Bar",
+    "option.rebelkeithy.extendedarmorbars.toughnesshidebackground": "Hide Background for Toughness Bar",
+    "option.rebelkeithy.extendedarmorbars.toughnesshidewhenempty": "Hide Toughness Bar When Empty",
+    "option.rebelkeithy.extendedarmorbars.armorbaroffset": "Armor Bar Y Offset",
+    "option.rebelkeithy.extendedarmorbars.toughnessbaroffset": "Toughness Bar Y Offset",
+    "option.rebelkeithy.extendedarmorbars.onehealthbar": "Don't move armor bar when over 10 hearts"
+}
