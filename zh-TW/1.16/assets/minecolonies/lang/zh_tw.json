@@ -2101,7 +2101,7 @@
     "com.minecolonies.coremod.jei.maxresearch.tip": "這個配方只能在研究「%s」被解鎖之前可用（然後通常被更好的配方取代）",
     "com.minecolonies.coremod.jei.intermediate.tip": "這個配方需要存取 %s。",
     "com.minecolonies.coremod.jei.chance.tip": "§e%d%% 的機率",
-    "com.minecolonies.coremod.jei.chanceskill.tip": "§e%d%% 基礎機率 + 技能加成",
+    "com.minecolonies.coremod.jei.chanceskill.tip": "§e%d%% base chance §a+ skill modifier",
     "com.minecolonies.coremod.jei.baker": "烘焙麵包，以及其他在更高等級下的東西。從 3 級開始可以學習額外的配方。",
     "com.minecolonies.coremod.jei.blacksmith": "製作工具、武器、盔甲和許多其他金屬製成的東西",
     "com.minecolonies.coremod.jei.concretemixer": "製作混凝土粉末和混凝土，不能學習其他配方。",
@@ -2192,5 +2192,9 @@
     "com.minecolonies.coremod.pvp.defended.success": "§a你成功地保衛了你的殖民地，抵禦了 %s§a。",
     "com.minecolonies.coremod.pvp.attack.guardgroupsize": "§e注意，%s §e現在有：%d §e個衛兵！",
     "block.minecolonies.blockhuthome": "住宅",
-    "block.minecolonies.blockhuthome.name": "住宅"
+    "block.minecolonies.blockhuthome.name": "住宅",
+    "com.minecolonies.coremod.jei.chancenegskill.tip": "§e%d%% base chance §c- skill modifier",
+    "com.minecolonies.coremod.jei.conditions.tip": "§bSpecial conditions apply",
+    "com.minecolonies.coremod.jei.fisherman": "Catches fish and other items as usual, plus some bonus items at higher levels.",
+    "com.minecolonies.coremod.gui.chat.potatogod": "I used to be just Jack then I made a bet with the Devil.. What was his name?.. 'Ray', I think. Anyways, being a cactus has.. interrupted my relationships. I've been wandering these lands for as long as I can remember. Then finally, I saw your pathetic village and thought 'hmm.. someone that lame could definitely use my help!'"
 }
