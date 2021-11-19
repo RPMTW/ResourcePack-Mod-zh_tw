@@ -540,5 +540,14 @@
     "gui.xaero_category_duplicate_confirm": "你要複製以下類別嗎？",
     "gui.xaero_reverse_entity_radar": "反向雷達渲染順序",
     "gui.xaero_adjust_height_for_carpetlike_blocks": "為短方塊調整 Y 座標",
-    "gui.xaero_box_adjust_height_for_carpetlike_blocks": "從短地毯狀方塊的高度值中減去 1，例如地毯、1 層雪、荷葉等。這可以防止這些方塊在地圖上像一個完整的方塊一樣造成嚴重的陰影。"
+    "gui.xaero_box_adjust_height_for_carpetlike_blocks": "從短地毯狀方塊的高度值中減去 1，例如地毯、1 層雪、荷葉等。這可以防止這些方塊在地圖上像一個完整的方塊一樣造成嚴重的陰影。",
+    "gui.xaero_box_category": "檢視/編輯 §e%1$s",
+    "gui.xaero_box_category_settings": "§e%1$s§r 的設定",
+    "gui.xaero_auto_convert_wp_distance_km": "將距離轉換為公里（KM）：",
+    "gui.xaero_auto_convert_wp_distance_km_never": "永不",
+    "gui.xaero_waypoint_distance_precision": "定位點距離精度",
+    "gui.xaero_sort_angle": "角距離",
+    "gui.xaero_toggle_enabled": "已啟用",
+    "gui.xaero_toggle_disabled": "已停用",
+    "gui.xaero_main_entity_dot_size": "主實體光點大小"
 }
