@@ -1227,11 +1227,11 @@
     "ie.manual.newerVersion": " - 新版本！",
     "ie.manual.currentVersion": " - 目前",
     "ie.manual.entry.mineralsDimAny": "§l%1$s§r 是可在任何維度找到的礦脈。",
-    "effect.immersiveengineering.flammable.description": "Increases damage taken from fire",
-    "effect.immersiveengineering.slippery.description": "Entities affected by it slowly slide forward when on the ground, and have a chance of dropping held items",
-    "effect.immersiveengineering.conductive.description": "Entities affected by conductive take extra damage from electric or \"flux\" damage, such as Redstone Arsenal weapons or electrified Razor Wire",
-    "effect.immersiveengineering.sticky.description": "Heavily slowed and unable to jump",
-    "effect.immersiveengineering.stunned.description": "Endermen affected by stunned are unable to teleport. Has no effect on players",
-    "effect.immersiveengineering.concrete_feet.description": "Unable to move or jump. The effect immediately ends when the entity is no longer standing on Concrete",
-    "effect.immersiveengineering.flashed.description": "Players affected by it have their screen flash white, rendering them temporarily blind"
+    "effect.immersiveengineering.flammable.description": "增加火焰傷害",
+    "effect.immersiveengineering.slippery.description": "受其影響的實體在地面上時會慢慢向前滑動，並有機會掉落持有的物品",
+    "effect.immersiveengineering.conductive.description": "受導電傷害影響的實體會受到電傷害或「通量」傷害，如紅石武庫武器",
+    "effect.immersiveengineering.sticky.description": "嚴重緩速，無法跳躍",
+    "effect.immersiveengineering.stunned.description": "受眩暈影響的末影人無法傳送。對玩家沒有影響",
+    "effect.immersiveengineering.concrete_feet.description": "無法移動或跳躍。當實體不再站在混凝土上時，效果立即結束",
+    "effect.immersiveengineering.flashed.description": "受其影響的玩家畫面閃閃發白，讓他們暫時失明"
 }
