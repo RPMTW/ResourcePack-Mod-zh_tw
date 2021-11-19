@@ -1011,8 +1011,8 @@
     "pneumaticcraft.gui.progWidget.area.type.sphere.sphereType": "球形類型：",
     "pneumaticcraft.gui.progWidget.area.type.wall.name": "牆",
     "pneumaticcraft.gui.progWidget.blockCondition.debug.allBlocksMatch": "所有方塊全部符合條件。",
-    "pneumaticcraft.gui.progWidget.blockCondition.debug.blockDoesNotMatch": "一個或多個方塊不符合條件。",
-    "pneumaticcraft.gui.progWidget.blockCondition.debug.blockMatches": "一個或多個方塊符合條件。",
+    "pneumaticcraft.gui.progWidget.blockCondition.debug.blockDoesNotMatch": "One or more blocks do not match the criteria.",
+    "pneumaticcraft.gui.progWidget.blockCondition.debug.blockMatches": "One or more blocks match the criteria.",
     "pneumaticcraft.gui.progWidget.blockCondition.debug.noBlocksMatch": "沒有方塊符合條件。",
     "pneumaticcraft.gui.progWidget.blockInteraction.debug.noBlocksValid": "沒有方塊可以互動。",
     "pneumaticcraft.gui.progWidget.blockOrder.closest": "最靠近的",
@@ -1899,5 +1899,13 @@
     "pneumaticcraft.gui.amadron.location.whitelist": "僅在下列位置可購買：",
     "pneumaticcraft.gui.amadron.location.unavailable": "在該位置不可購買！",
     "pneumaticcraft.gui.tab.problems.amadron.noInventory": "§f容器或儲罐缺失。${br}§0使用亞馬龍平板右擊容器和/或儲罐。",
-    "pneumaticcraft.gui.tab.redstoneBehaviour.uvLightBox.interpolate": "內插閾值"
+    "pneumaticcraft.gui.tab.redstoneBehaviour.uvLightBox.interpolate": "內插閾值",
+    "pneumaticcraft.gui.misc.any": "Any",
+    "pneumaticcraft.gui.tab.info.item.amadron_tablet.volumeUpgrade": "§0Increases the Amadron Tablet's air storage by by 2 * √U, where U = the number of Volume Upgrades, allowing the Amadron Tablet to run longer between recharges.",
+    "pneumaticcraft.playerFilter.biomes": "Biome Types:",
+    "pneumaticcraft.playerFilter.blacklist": "Not available when:",
+    "pneumaticcraft.playerFilter.dimensions": "Dimensions:",
+    "pneumaticcraft.playerFilter.gamestages": "Game Stages:",
+    "pneumaticcraft.playerFilter.whitelist": "Only available when:",
+    "pneumaticcraft.playerFilter.unavailable": "Unavailable at this time!"
 }
