@@ -1,20 +1,20 @@
 {
-    "name": "Potion of Transformation",
-    "icon": "dynamictrees:dendropotion:6",
+    "name": "轉生藥水",
+    "icon": "Base Potion of Transformation",
     "category": "藥水",
     "sortnum": "5",
     "pages": [
         {
             "type": "釀造",
-            "title": "Potion of Transformation",
+            "title": "轉生藥水",
             "ingredient": "dynamictrees:oakseed",
             "bottle": "dynamictrees:dendropotion:6",
             "output": "dynamictrees:dendropotion:6{target:'dynamictrees:oak'}",
-            "text": "This potion changes an existing tree into another tree species.$(br2)The species of tree depends on the seed you use in the recipe. The example uses an Oak Acorn."
+            "text": "這種藥水將現有的樹木變成另一種樹種。$(br2)樹木的種類取決於您在配方中使用的種子。該示例使用橡子。"
         },
         {
             "type": "relations",
-            "title": "Relations",
+            "title": "關係",
             "entries": [
                 "potions/basepotion",
                 "potions/burgeoningpotion",

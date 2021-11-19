@@ -1,5 +1,5 @@
 {
-    "itemGroup.simplyjetpacks.main": "簡單噴射背包 2",
+    "itemGroup.simplyjetpacks.main": "簡易噴氣背包2",
     "item.simplyjetpacks.jetpack_creative.name": "創造飛行背包",
     "item.simplyjetpacks.fluxpack_creative.name": "創造儲電背包",
     "item.simplyjetpacks.particle_default.name": "尾跡煙霧（預設）",
@@ -295,8 +295,8 @@
     "config.simplyjetpacks.misc.tooltip": "調整各種變數",
     "config.simplyjetpacks.misc.joinAdvancements": "加入成就",
     "config.simplyjetpacks.misc.joinAdvancements.tooltip": "啟用後，當您第一次加入一個世界時，您將獲得多項成就。",
-    "subtitle.simplyjetpacks.jetpack": "*噴射背包噪音*",
-    "subtitle.simplyjetpacks.jetpack_other": "*噴射背包其他噪音*",
+    "subtitle.simplyjetpacks.jetpack": "*噴氣背包噪音*",
+    "subtitle.simplyjetpacks.jetpack_other": "*噴氣背包其他噪音*",
     "subtitle.simplyjetpacks.rocket": "*火箭噪音*",
     "advancement.simplyjetpacks.root.title": "簡單噴射背包 2",
     "advancement.simplyjetpacks.root.desc": "開始 Simply Jetpacks 2",

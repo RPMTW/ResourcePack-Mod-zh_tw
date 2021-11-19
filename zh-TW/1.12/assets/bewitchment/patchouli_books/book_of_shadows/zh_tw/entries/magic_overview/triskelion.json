@@ -1,16 +1,16 @@
 {
-  "name": "Triskelion Amulet",
+  "name": "三曲腿護身符",
   "category": "magic_overview",
   "icon": "bewitchment:triskelion",
   "pages": [
     {
       "type": "text",
-      "text": "A golden medallion decorated with a swirled shape, it consumes ME in order to grant its owner great strength. Originally made by an ancient civilisation, the way to create it has been lost. However they can be found in chests as well as dropped from certain very powerful, very old, entities."
+      "text": "一個金質獎章，其上刻出漩渦型紋路作為點綴，它可以消耗ME來為佩戴者附加力量效果。這一古代文明的留存物的製作方法早已遺失，但你可以在獎勵箱內發現這一飾品，你也可以擊敗一些非常古老強大的生物，它們也會掉落出這件飾品。"
     },
     {
       "type": "spotlight",
       "item": "bewitchment:triskelion",
-      "text": "Only obtainable through loot or demon trades"
+      "text": "這只能夠從獎勵箱以及惡魔交易中獲得"
     }
   ]
 }

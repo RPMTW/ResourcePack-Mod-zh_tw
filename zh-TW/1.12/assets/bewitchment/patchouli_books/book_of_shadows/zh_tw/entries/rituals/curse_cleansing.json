@@ -1,11 +1,11 @@
 {
-  "name": "Curse Cleansing",
+  "name": "詛咒淨化",
   "category": "rituals",
   "icon": "bewitchment:brazier",
   "pages": [
     {
       "type": "text",
-      "text": "Rid yourselves of curses from other devilish witches. The lesser ritual has a 50% chance to remove each curse and cannot remove greater curses while the greater ritual has a 90% success rate and capable of removing greater curses."
+      "text": "移除來自於其它惡魔女巫所施加的詛咒。次級儀式有50%的機率移除身上的某個詛咒，並且不能夠移除強力詛咒；而高級儀式有90%的機率生效，且能移除強力詛咒。"
     },
     {
       "type": "bewitchment:ritual",

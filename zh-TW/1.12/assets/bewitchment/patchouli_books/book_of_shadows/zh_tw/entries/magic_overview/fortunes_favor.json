@@ -1,16 +1,16 @@
 {
-  "name": "Fortune's Favor",
+  "name": "幸運女神的垂青",
   "category": "magic_overview",
   "icon": "bewitchment:fortunes_favor",
   "pages": [
     {
       "type": "text",
-      "text": "A pair of enchanted gloves that boost mining speed, give more drops from ores such as coal and lapis, and allows them to take taglocks easier. It is unknown what magic was used to make these gloves, but they can be found in the possession of powerful beings, as well as in forgotten chests."
+      "text": "這雙手套可以提升你的挖掘速度，可以從礦中獲得更多的掉落物，比如煤炭以及青金石，還能讓你更輕鬆地獲得巫媒。沒人知道在製作這雙手套的過程中使用了什麼魔法，但你可以在一些強大存在的庫存中找到這種手套，那些被遺忘的儲物箱中有時也會出現這種手套。"
     },
     {
       "type": "spotlight",
       "item": "bewitchment:fortunes_favor",
-      "text": "$(o)Get lucky~"
+      "text": "$(o)幸運兒~"
     }
   ]
 }

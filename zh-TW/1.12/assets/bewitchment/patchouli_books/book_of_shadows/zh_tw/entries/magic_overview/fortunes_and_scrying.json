@@ -1,11 +1,11 @@
 {
-  "name": "Fortunes and Scrying",
+  "name": "命運與占卜",
   "category": "magic_overview",
   "icon": "bewitchment:crystal_ball",
   "pages": [
     {
       "type": "text",
-      "text": "Scrying is a rather potent means of gaining info on a target. The following pages detail one such known mean, as well as finding fortunes on a target, waiting for the universe to fulfill them."
+      "text": "占卜是一種獲得目標訊息的有效手段。接下來的頁面詳細介紹了如何釋讀占卜，除此之外還有如何為目標占卜運勢，等待宇宙實現它們。"
     },
     {
       "type": "empty",
@@ -13,8 +13,8 @@
     },
     {
       "type": "text",
-      "title": "Crystal Ball",
-      "text": "Crystal balls are rather magical in general. They are most commonly used to predict the future and give out fortunes, but some claim they can be used for other things, such as remote viewing. By right clicking with the taglock of a target, you are able to get some info on the individual in general, but it's up to you to interpret them."
+      "title": "占卜水晶球",
+      "text": "水晶球一般都很神奇。它們最常用來預測未來和宣布命運，但也有人聲稱它們可以用於其他事情，比如遠程窺探。右擊與某一目標綁定的巫媒，你可以獲得它的一些訊息，但這些訊息並不會直接顯示出來，而是需要你的進一步闡釋。"
     },
     {
       "type": "bewitchment:ritual",

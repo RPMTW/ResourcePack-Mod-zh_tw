@@ -5,7 +5,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "Commonly seen in all manners of forests, trees are the backbone of most witchcraft."
+      "text": "常見於各種樹林之中, 樹木是大多數巫術的關鍵道具。"
     },
     {
       "type": "empty",
@@ -13,8 +13,8 @@
     },
     {
       "type": "text",
-      "title": "Cypress",
-      "text": "A tall and dark tree found in coniferous settings, such as Taigas. This tree is associated with death and the afterlife, and is vital to creating the Ebb of Death fume. Despite this, brooms made from its wood give the rider temporary resistance when in flight."
+      "title": "柏樹",
+      "text": "在針葉環境中(如Taigas地形)發現的一種高大而黑暗的樹。這種樹與死亡和來世有關，對製備死亡低潮煙霧至關重要。儘管如此，用柏木製成的掃把在飛行中可以給騎手帶來暫時的抗性。"
     },
     {
       "type": "image",
@@ -25,8 +25,8 @@
     },
     {
       "type": "text",
-      "title": "Elder",
-      "text": "Elder is a tree that is commonly seen in lush forests, including common Forests and Birch Forests. This tree is associated with wisdom and its saplings produce the Drop of Wisdom fume. Magic brooms made from this tree's wood are among the fastest. This tree also produces juicy berries, which your father smelt of."
+      "title": "接骨木",
+      "text": "接骨木是一種在茂密的森林中常見的樹，包括常見的森林和樺木森林。這棵樹與智慧有關，樹苗產生智慧液滴。用這棵樹的木頭製作的魔法掃把是最快的。這棵樹也產生多汁的漿果，這是你父親曾經聞到的。"
     },
     {
       "type": "image",
@@ -37,8 +37,8 @@
     },
     {
       "type": "text",
-      "title": "Juniper",
-      "text": "A tree mostly found in arid settings, most commonly in the Savanna. This tree is renowned for its great magic powers, and extracts from young trees are used to make Liquid Witchcraft. Brooms of this wood type have innate magic powers, and do not need ME to fly. It produces small blue berry-like cones that are a popular spice."
+      "title": "杜松",
+      "text": "一種主要在幹極度乾旱區發現的樹，最常見的是在薩瓦納草原。這棵樹以其強大的魔力而聞名，從幼樹中提取的提取物被用來製作液化魔力。這種木質的掃把具有天生的魔力，不需要額外提供魔力。它產生小的藍色莓狀球果，是一種流行的香料。"
     },
     {
       "type": "image",
@@ -49,8 +49,8 @@
     },
     {
       "type": "text",
-      "title": "Dragon's Blood",
-      "text": "A rare tree valued for its resin, having many uses but most commonly used for Sigils. This tree is extinct in the wild, however certain Alchemists are known to cultivate this tree in private, and may give out saplings to those they trust. Slashing a mature log with a Boline taps it, allowing its blood-red resin to leak out. Brooms made from this rare tree are faster than all but Elder brooms,"
+      "title": "龍血木",
+      "text": "一種稀少的樹木，以其樹脂而聞名，它有著許多用途，但最常見的用途是參與符文製作。這種樹在自然環境下已經找不到了，但是某些鍊金術士會以家養的形式種植這種樹，他們或許會給其所信任的人一些樹苗。用伯萊恩新月小刀剝去一個成熟的原木，會使得原木流出似血殷紅的樹脂。用這種木頭做成的掃帚很快，速度僅次於接骨木。"
     },
     {
       "type": "image",
@@ -58,7 +58,7 @@
         "bewitchment:textures/gui/patchouli/dragonsblood.png"
       ],
       "border": true,
-      "text": "but in turn they can have Sigils applied to them, which it will then apply to the rider."
+      "text": "雖然速度略遜一籌，但是你可以將符文附著掃帚其上，掃帚上的符文效果會施加到騎手身上。"
     }
   ]
 }

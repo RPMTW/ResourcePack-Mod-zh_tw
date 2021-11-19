@@ -1,16 +1,16 @@
 {
-  "name": "Cleaver Blade",
+  "name": "屠戮之刃",
   "category": "demonic_gear",
   "icon": "bewitchment:cleaver_sword",
   "pages": [
     {
       "type": "text",
-      "text": "A sword made of an unknown metal, it is often wielded by the Children of the Golden Calf. To obtain one, one must best such a being in the first place."
+      "text": "以一種未知金屬製作的劍，你通常可以看見金牛犢的孩子使用這把劍。想要獲得這樣的一把劍，你需要在初次見到金牛犢的孩子的時候就擊敗它，奪取它的劍。"
     },
     {
       "type": "spotlight",
       "item": "bewitchment:cleaver_sword",
-      "text": "A fiercesome blade, that's for sure."
+      "text": "鋒利無比，這是肯定的。"
     }
   ]
 }

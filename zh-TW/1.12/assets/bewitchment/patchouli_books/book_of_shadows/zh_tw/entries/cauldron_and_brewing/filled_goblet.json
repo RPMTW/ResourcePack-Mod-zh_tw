@@ -1,12 +1,12 @@
 {
-  "name": "Filled Goblet",
+  "name": "盛滿的高腳杯",
   "category": "cauldron_and_brewing",
   "icon": "bewitchment:filled_goblet",
   "pages": [
     {
       "type": "bewitchment:cauldron_recipe",
       "recipe": "bewitchment:filled_goblet",
-      "text": "When filled with this magical mixture, the Goblet will give more power to altars, as well as emit a redstone signal."
+      "text": "當高腳杯內盛滿了魔法混合物, 它可以增強儀式的效果, 並且也會向外產生紅石訊號."
     }
   ]
 }

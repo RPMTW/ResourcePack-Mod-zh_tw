@@ -1,11 +1,11 @@
 {
-  "name": "Natures Blessing",
+  "name": "自然祝福",
   "category": "rituals",
   "icon": "minecraft:sapling",
   "pages": [
     {
       "type": "text",
-      "text": "Through supernatural means, this rite changes the local weather in an area to become fertile once more, in the event of total destruction. It cannot restore biomes, however, for that requires another rite."
+      "text": "通過超自然手段，這一儀式將會改變目前區域內的天氣，使這片區域的土地重回肥沃，即便在此之前這片土地已遭到了極大的破壞。然而，這一儀式無法恢復生態域，恢復生態域需要其它的儀式。"
     },
     {
       "type": "bewitchment:ritual",

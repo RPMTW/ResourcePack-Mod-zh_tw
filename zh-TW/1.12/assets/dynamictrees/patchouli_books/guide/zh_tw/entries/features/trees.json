@@ -6,12 +6,12 @@
     "pages": [
         {
             "type": "text",
-            "title": "Trees",
-            "text": "- Trees grow progressively from seeds to mature trees over time.$(br2)- Trees grow around obstacles in a natural way.$(br2)- Trees have growth rate and mature sizes that are biome, temperature and rainfall dependent.$(br2)- Drop seeds at random that can potentially plant themselves."
+            "title": "樹木",
+            "text": "- 隨著時間的推移，樹木逐漸從種子長成成熟的樹木。$(br2)- 樹木以自然的方式在障礙物周圍生長。$(br2)- 樹木的生長速度和成熟大小取決於生態域、溫度和降雨量。$(br2)- 隨機掉落可能自行種植的種子。"
         },
         {
             "type": "text",
-            "text": "- Trees won't grow in darkness. Leaves not connected to an outer tree branch or starved of light will die. Outer branches without leaves slowly rot away.$(br2)- Walking on leaves blocks is slow and sinking. Falling onto leaves prevents fall damage and breaks the leaf block.$(br2)- Vanilla Tree Fruits(apples, cocoa beans)$(br2)- Thin branches can be climbed like ladders."
+            "text": "- 樹不會在黑暗中生長。沒有連接到外部樹枝或缺乏光照的葉子會枯萎。沒有葉子的外枝慢慢腐爛。$(br2)- 在樹葉方塊上行走會變得緩慢且會下沉。落在樹葉上可以防止墜落傷害並破壞樹葉方塊。$(br2)- 原版樹木果實（蘋果、可可豆）$(br2)- 細細的樹枝可以像梯子一樣攀爬。"
         }
     ]
 }

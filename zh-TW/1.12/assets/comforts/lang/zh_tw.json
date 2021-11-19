@@ -5,7 +5,7 @@
     "comforts.general.wellrested.tooltip": "設定為 true 時，你不能馬上再次入睡，取決於之前你睡了多久",
     "comforts.general.sleepyratio": "睡眠因子\ncomforts.general.sleepyratio.tooltip=如果[更真實的睡眠]選項為 true 時，則該值用於確定在再次入睡之前需要多長時間（更大的數字=可以更快地睡覺）",
     "comforts.general.resthammocks": "養老吊床",
-    "comforts.general.resthammocks.tooltip": "設定為 true ，以便在不睡覺的情況下在吊床上打瞌睡",
+    "comforts.general.resthammocks.tooltip": "設定為 true ，以便在不睡覺的情況下在吊床上打盹",
     "comforts.general.nighthammocks": "夜間吊床",
     "comforts.general.nighthammocks.tooltip": "設定為 true 時可以在晚上睡在吊床上",
     "comforts.general.sleepingbagdebuffs": "睡袋的負面效果",
@@ -59,5 +59,5 @@
     "tile.hammock.tooFarAway": "你現在不能休息，吊床太遠了",
     "tile.comforts.rope.name": "繩與釘",
     "capability.comforts.notSleepy": "你現在不能休息，你還未感到疲倦",
-    "itemGroup.comforts": "舒適用具"
+    "itemGroup.comforts": "舒適用品"
 }

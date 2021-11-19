@@ -1,11 +1,11 @@
 {
-  "name": "Hungry Flames",
+  "name": "飢餓之火",
   "category": "rituals",
   "icon": "minecraft:blaze_powder",
   "pages": [
     {
       "type": "text",
-      "text": "Summons flames from below to cook and smelt any items in the circle, but some items may be burned to XP"
+      "text": "在圓環下召喚火焰來烹飪圓環中的食物或者燒製圓環中的任意物品，但有些物品會被燒毀，變成經驗球"
     },
     {
       "type": "bewitchment:ritual",

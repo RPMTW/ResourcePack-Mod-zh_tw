@@ -1,12 +1,12 @@
 {
-  "name": "Earth Protection Poppet",
+  "name": "巫毒娃娃-大地庇佑",
   "category": "poppets",
   "icon": "bewitchment:poppet_earthprotection",
   "pages": [
     {
       "type": "crafting",
       "recipe": "bewitchment:poppet_earthprotection",
-      "text": "Reduces fall damage"
+      "text": "減輕摔落傷害"
     }
   ]
 }

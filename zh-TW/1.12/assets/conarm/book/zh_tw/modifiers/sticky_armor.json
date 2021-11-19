@@ -1,0 +1,18 @@
+{
+  "armormodifier": "sticky_armor",
+  "text": [
+    {
+      "text": "在你的護甲上纏上網看起來會很醜，但它能有效牽絆任何接觸你的實體。"
+    }
+  ],
+  "effects": [
+    "緩速敵人的移速",
+    "只能強化一次"
+  ],
+  "demoArmor": [
+    "conarm:helmet",
+    "conarm:chestplate",
+    "conarm:leggings",
+    "conarm:boots"
+  ]
+}

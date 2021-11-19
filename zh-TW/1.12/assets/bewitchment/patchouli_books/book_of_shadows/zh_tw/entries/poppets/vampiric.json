@@ -1,12 +1,12 @@
 {
-  "name": "Vampiric Poppet",
+  "name": "巫毒娃娃-吸血鬼",
   "category": "poppets",
   "icon": "bewitchment:poppet_vampiric",
   "pages": [
     {
       "type": "crafting",
       "recipe": "bewitchment:poppet_vampiric",
-      "text": "Redirects damage you are taking to whoever its bound to. $(r)Must be carried in inventory."
+      "text": "將你所受的傷害轉移至娃娃所綁定的目標身上。$(r)娃娃必須放置在物品欄中"
     }
   ]
 }

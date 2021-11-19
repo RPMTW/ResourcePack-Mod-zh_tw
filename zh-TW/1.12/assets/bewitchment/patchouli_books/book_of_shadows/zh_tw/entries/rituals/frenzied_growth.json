@@ -1,11 +1,11 @@
 {
-  "name": "Frenzied Growth",
+  "name": "狂暴滋生",
   "category": "rituals",
   "icon": "bewitchment:elder_sapling",
   "pages": [
     {
       "type": "text",
-      "text": "Charges vanilla trees with magic to mutate them into their more witchy counterpart"
+      "text": "為原版樹木充能，使它們變異為更具巫術風格的變種"
     },
     {
       "type": "bewitchment:ritual",

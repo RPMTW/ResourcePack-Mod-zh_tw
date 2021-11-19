@@ -1,0 +1,18 @@
+{
+  "armormodifier": "travel_sneak_armor",
+  "text": [
+    {
+      "text": "為那些潛行者而設計，這件披風能讓你隱於眾目之下。"
+    }
+  ],
+  "effects": [
+    "獲得隱形能量",
+    "通過快捷鍵切換",
+    "啟動隱形時消耗耐久",
+    "每件護甲只能裝配一個配件",
+    "Only 1 accessory per item"
+  ],
+  "demoArmor": [
+    "conarm:chestplate"
+  ]
+}

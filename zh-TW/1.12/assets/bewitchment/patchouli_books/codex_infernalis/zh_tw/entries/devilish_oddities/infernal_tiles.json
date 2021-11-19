@@ -1,11 +1,11 @@
 {
-  "name": "Infernal Tiles",
+  "name": "惡魔裝飾方塊",
   "category": "devilish_oddities",
   "icon": "bewitchment:nethersteel",
   "pages": [
     {
       "type": "text",
-      "text": "On top of wearable apparel, there are also many blocks and other such items connected to demons."
+      "text": "除了可以穿的裝備以外，還有許多與惡魔有關的物品以及方塊。"
     },
     {
       "type": "empty",
@@ -13,8 +13,8 @@
     },
     {
       "type": "text",
-      "title": "Nethersteel",
-      "text": "A strange semi-metallic material. It feels warm, almost as if alive… This material is too... capricious to be shaped into tools, but can often be shaped into decorative blocks and idols. It’s also critical in creating many demonic baubles. This dubious substance is created as follows:"
+      "title": "地獄鋼",
+      "text": "一種奇怪的半金屬物質，摸起來有種溫暖的觸感，就好像它是活物……這種材料實在是過於……易塑了，沒辦法用它來做成工具，但可以將其製作為裝飾物或者崇拜雕像。它也在一些惡魔飾品的製造中起著重要作用。這種不太靠得住的材料的製作方法如下所示："
     },
     {
       "type": "crafting",
@@ -22,8 +22,8 @@
     },
     {
       "type": "text",
-      "title": "Scorned Bricks",
-      "text": "No matter the climate, this red-tinted slaty stone is always as cold as the night. If you press your ear to it, you can swear you hear cries and screams… This material is believed to be used by demons to build their great palaces hidden beyond the angles of time, and can be created using the Hellworld brew on Embittered Bricks, as well as follows:"
+      "title": "鄙夷方磚",
+      "text": "無論周圍氣候如何，這種類似於石板且微泛紅色的石頭摸起來總是像夜晚那樣清冷。將耳朵貼到石磚上，你可以驚恐地聽到其尖叫以及哭泣的聲音……人們認為惡魔就是用這種材料建造它們的處所，藉以躲過時天使的搜查，and can be created using the Hellworld brew on Embittered Bricks, as well as follows:"
     },
     {
       "type": "crafting",
@@ -31,8 +31,8 @@
     },
     {
       "type": "text",
-      "title": "Despair Bricks",
-      "text": "Sometimes seen in the wastes of the many hells, these ochre bricks are often associated with desolate wastes, where no soul receives any warmth from any light, and thus, rots for all eternity. The structures that dot these landscapes were believed to have been made by demons long-gone, and yet their recipe is as is:"
+      "title": "絕望方磚",
+      "text": "有時可以在地獄的一些廢棄角落看到這種方塊，這種赭色的方磚與荒蕪廢地有著一定的聯繫，在那裡，靈魂無法從光芒中獲得哪怕是一絲一毫的溫暖，它們只能在冰冷的光裡不斷腐朽，直至永恆。那些點綴於廢地之上的建築似乎是由惡魔建造的，但這些惡魔早已湮沒與歷史之中了。即便如此，這一方磚的配方依然存在著："
     },
     {
       "type": "crafting",
@@ -40,8 +40,8 @@
     },
     {
       "type": "text",
-      "title": "Statue",
-      "text": "Statues are large figures of major demons. They can be placed around statues, granting a boon, and sometimes, the favor of the demon itself."
+      "title": "雕像",
+      "text": "雕像是那些重要的惡魔的一種大型雕塑，將它們放在身旁，你會獲得一定的增益，有時，甚至惡魔也會將目光投向於你。"
     },
     {
       "type": "crafting",
@@ -51,132 +51,132 @@
     },
     {
       "type": "crafting",
-      "title": "Leonard",
+      "title": "倫納德",
       "recipe": "bewitchment:nether_brick_leonard_statue",
       "recipe2": "bewitchment:scorned_brick_leonard_statue",
-      "text": "Leonard is known as being the King of the Witches."
+      "text": "倫納德是女巫的王。"
     },
     {
       "type": "crafting",
-      "title": "Baphomet",
+      "title": "巴弗滅",
       "recipe": "bewitchment:stone_baphomet_statue",
       "recipe2": "bewitchment:gold_baphomet_statue"
     },
     {
       "type": "crafting",
-      "title": "Baphomet",
+      "title": "巴弗滅",
       "recipe": "bewitchment:nether_brick_baphomet_statue",
       "recipe2": "bewitchment:scorned_brick_baphomet_statue",
-      "text": "Beware the Templars and their Goat idolatory."
+      "text": "要當心它的守衛以及羊頭追隨者。"
     },
     {
       "type": "crafting",
-      "title": "Lilith",
+      "title": "莉莉絲",
       "recipe": "bewitchment:stone_lilith_statue",
       "recipe2": "bewitchment:gold_lilith_statue"
     },
     {
       "type": "crafting",
-      "title": "Lilith",
+      "title": "莉莉絲",
       "recipe": "bewitchment:nether_brick_lilith_statue",
       "recipe2": "bewitchment:scorned_brick_lilith_statue",
-      "text": "The Mistress of The Night feeds on the blood of men."
+      "text": "黑夜的女主人以人類的血液為食。"
     },
     {
       "type": "crafting",
-      "title": "Herne",
+      "title": "赫恩",
       "recipe": "bewitchment:stone_herne_statue",
       "recipe2": "bewitchment:gold_herne_statue"
     },
     {
       "type": "crafting",
-      "title": "Herne",
+      "title": "赫恩",
       "recipe": "bewitchment:nether_brick_herne_statue",
       "recipe2": "bewitchment:scorned_brick_herne_statue",
-      "text": "Hunter Orion believes he can hunt all."
+      "text": "獵戶星之獵，它相信無人能逃脫它的獵殺。"
     },
     {
       "type": "crafting",
-      "title": "Moloch",
+      "title": "摩洛克",
       "recipe": "bewitchment:stone_moloch_statue",
       "recipe2": "bewitchment:gold_moloch_statue"
     },
     {
       "type": "crafting",
-      "title": "Moloch",
+      "title": "摩洛克",
       "recipe": "bewitchment:nether_brick_moloch_statue",
       "recipe2": "bewitchment:scorned_brick_moloch_statue",
-      "text": "Moloch devours all in sight."
+      "text": "摩洛克吞噬了祂能看到的所有東西。"
     },
     {
       "type": "text",
-      "title": "idol",
-      "text": "Idols are small effigies of a demon, often placed on altars by willing demonolators, who worship these infernal beings."
+      "title": "崇拜塑像",
+      "text": "塑像是一種較小的惡魔雕塑，常被那些惡魔崇拜者們放置在儀式邊，以表示自己對於惡魔的狂熱之情。"
     },
     {
       "type": "crafting",
-      "title": "Leonard",
+      "title": "倫納德",
       "recipe": "bewitchment:stone_leonard_idol",
       "recipe2": "bewitchment:gold_leonard_idol"
     },
     {
       "type": "crafting",
-      "title": "Leonard",
+      "title": "倫納德",
       "recipe": "bewitchment:nether_brick_leonard_idol",
       "recipe2": "bewitchment:scorned_brick_leonard_idol",
-      "text": "Leonard is known as being the King of the Witches."
+      "text": "倫納德是女巫的王。"
     },
     {
       "type": "crafting",
-      "title": "Baphomet",
+      "title": "巴弗滅",
       "recipe": "bewitchment:stone_baphomet_idol",
       "recipe2": "bewitchment:gold_baphomet_idol"
     },
     {
       "type": "crafting",
-      "title": "Baphomet",
+      "title": "巴弗滅",
       "recipe": "bewitchment:nether_brick_baphomet_idol",
       "recipe2": "bewitchment:scorned_brick_baphomet_idol",
-      "text": "Beware the Templars and their Goat idolatory."
+      "text": "要當心它的守衛以及羊頭追隨者。"
     },
     {
       "type": "crafting",
-      "title": "Lilith",
+      "title": "莉莉絲",
       "recipe": "bewitchment:stone_lilith_idol",
       "recipe2": "bewitchment:gold_lilith_idol"
     },
     {
       "type": "crafting",
-      "title": "Lilith",
+      "title": "莉莉絲",
       "recipe": "bewitchment:nether_brick_lilith_idol",
       "recipe2": "bewitchment:scorned_brick_lilith_idol",
-      "text": "The Mistress of The Night feeds on the blood of men."
+      "text": "黑夜的女主人以人類的血液為食。"
     },
     {
       "type": "crafting",
-      "title": "Herne",
+      "title": "赫恩",
       "recipe": "bewitchment:stone_herne_idol",
       "recipe2": "bewitchment:gold_herne_idol"
     },
     {
       "type": "crafting",
-      "title": "Herne",
+      "title": "赫恩",
       "recipe": "bewitchment:nether_brick_herne_idol",
       "recipe2": "bewitchment:scorned_brick_herne_idol",
-      "text": "Hunter Orion believes he can hunt all."
+      "text": "獵戶星之獵，它相信無人能逃脫它的獵殺。"
     },
     {
       "type": "crafting",
-      "title": "Moloch",
+      "title": "摩洛克",
       "recipe": "bewitchment:stone_moloch_idol",
       "recipe2": "bewitchment:gold_moloch_idol"
     },
     {
       "type": "crafting",
-      "title": "Moloch",
+      "title": "摩洛克",
       "recipe": "bewitchment:nether_brick_moloch_idol",
       "recipe2": "bewitchment:scorned_brick_moloch_idol",
-      "text": "Moloch devours all in sight."
+      "text": "摩洛克吞噬了祂能看到的所有東西。"
     }
   ]
 }

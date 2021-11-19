@@ -1,12 +1,12 @@
 {
-  "name": "Aqueous Soil",
+  "name": "水素土",
   "icon": "roots:elemental_soil_water",
   "category": "automation",
   "read_by_default": true,
   "pages": [
     {
       "type": "text",
-      "text": "$(l:resources/elemental_soil)Aqueous soil$() automatically harvests crops that grow on it.$(br2)Drops are either deposited directly on the soil, or, if there is an inventory below the soil, into that inventory (allowing for automation with chests, hoppers, etc).$(br2)$(info) This functionality can be disabled by planting gravel directly below the soil."
+      "text": "$(l:resources/elemental_soil)水素土$()可以自動收穫生長於其上的作物。$(br2)掉落物會直接存放在水素土上方，又或者，如果在土的下方有儲存空間，那麼水素土會將掉落物存入儲存空間內（如此便可以與儲物箱、漏斗等形成自動化結構了）。$(br2)$(info)若是在水素土下方放上一塊礫石，那麼該功能將被停用。"
     },
     {
       "type": "multiblock",
@@ -47,7 +47,7 @@
           ]
         ]
       },
-      "text": "Wheat will automatically be harvested and then deposited into the chest below."
+      "text": "小麥被自動收集，並且被存放到了下方的儲物箱內。"
     },
     {
       "type": "multiblock",
@@ -88,7 +88,7 @@
           ]
         ]
       },
-      "text": "As the drops will be placed in the area of the hopper, the hopper will automatically pick them up."
+      "text": "掉落物會被放置到漏斗的吸納範圍內，而漏斗則會自動拾取這些掉落物。"
     },
     {
       "type": "multiblock",
@@ -129,7 +129,7 @@
           ]
         ]
       },
-      "text": "As gravel is below the aqueous soil, the wheat will not be harvested."
+      "text": "若在水素土下方放上礫石，小麥便不會被收穫了。"
     },
     {
       "type": "relations",

@@ -1,15 +1,15 @@
 {
-  "name": "Bottle of Blood",
+  "name": "瓶裝血液",
   "category": "demonic_gear",
   "icon": "bewitchment:bottle_of_blood",
   "pages": [
     {
       "type": "text",
-      "text": "A vital reagent in much of demonology and in many curses. When a living creature is slain with the Athame, and while a Glass Bottle is also held in the offhand, the blood of the dying creature may be collected in the Glass Bottle for later use."
+      "text": "這是一種在惡魔學以及詛咒施放中十分重要的材料。當你用儀式刀殺死一隻活物，並且非慣用手中拿著空瓶的話，你就會獲得一瓶這隻可憐的生物的血液。"
     },
     {
       "type": "text",
-      "text": "Some also claim that the blood can be consumed by those not connected to Lilith, to grant their body the strength of the slain, but it often sickens them more than it helps."
+      "text": "有些人聲稱，那些與莉莉絲沒有任何關係的人可以利用這種血液，這一血液會為其身體附加上血液來源生物的力量，但這一行為的噁心程度顯然蓋過了它所能提供的助益。"
     }
   ]
 }

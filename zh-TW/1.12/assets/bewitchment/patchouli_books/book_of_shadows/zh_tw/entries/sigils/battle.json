@@ -1,5 +1,5 @@
 {
-  "name": "Sigil of Battle",
+  "name": "戰鬥符文",
   "category": "sigils",
   "icon": "bewitchment:sigil_battle",
   "pages": [
@@ -10,7 +10,7 @@
     {
       "type": "spotlight",
       "item": "bewitchment:sigil_battle",
-      "text": "Provides a minor strength and resistance buff"
+      "text": "提供較弱的力量以及抗性效果"
     }
   ]
 }

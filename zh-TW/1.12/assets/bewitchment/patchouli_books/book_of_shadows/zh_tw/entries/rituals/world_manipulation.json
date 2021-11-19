@@ -1,11 +1,11 @@
 {
-  "name": "World Manipulation",
+  "name": "世界操縱",
   "category": "rituals",
   "icon": "minecraft:gold_ingot",
   "pages": [
     {
       "type": "text",
-      "text": "Various rituals that allow a witch to change what condition the world is in"
+      "text": "各種允許女巫來改變當下世界具體情況的儀式"
     },
     {
       "type": "empty",
@@ -13,8 +13,8 @@
     },
     {
       "type": "text",
-      "title": "Solar Glory",
-      "text": "Turns it to day. Only works at night"
+      "title": "焯日榮光",
+      "text": "將世界轉為白天，只在晚上有效"
     },
     {
       "type": "bewitchment:ritual",
@@ -22,8 +22,8 @@
     },
     {
       "type": "text",
-      "title": "High Moon",
-      "text": "Turns it to night. Only works during the day"
+      "title": "皎月高懸",
+      "text": "將世界轉為黑夜，只在白天有效"
     },
     {
       "type": "bewitchment:ritual",
@@ -31,8 +31,8 @@
     },
     {
       "type": "text",
-      "title": "Sands of Time",
-      "text": "Manipulates time to speed up the daylight cycle"
+      "title": "時之沙",
+      "text": "操縱時間來加快日夜循環"
     },
     {
       "type": "bewitchment:ritual",
@@ -40,8 +40,8 @@
     },
     {
       "type": "text",
-      "title": "Deluge",
-      "text": "Causes a downpour"
+      "title": "天傾倒灌",
+      "text": "引發一場傾盆大雨"
     },
     {
       "type": "bewitchment:ritual",

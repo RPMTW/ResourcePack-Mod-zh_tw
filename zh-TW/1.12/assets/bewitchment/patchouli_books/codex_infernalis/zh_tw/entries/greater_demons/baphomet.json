@@ -1,20 +1,20 @@
 {
-  "name": "Lord Baphomet",
+  "name": "君王巴弗滅",
   "category": "greater_demons",
   "icon": "bewitchment:caduceus",
   "pages": [
     {
       "type": "text",
-      "text": "One of the most infamous of all demons, Baphomet posses the head and legs of a goat, a feminine form, and pair of large corvid wings upon their back. Baphomet also wears a burning torch upon their head, the flame of eldritch knowledge."
+      "text": "它在所有惡魔中都是最臭名昭著的存在，巴弗滅長著山羊的頭和腿，以一種女性的形象示人，在背上還長著一對巨大且彎曲的翅膀。巴弗滅的頭上還頂著一束火把，那燃燒的火焰似乎輕喃著來自異域的知識。"
     },
     {
       "type": "text",
-      "text": "Often associated with alchemists, and of fallen templars, Baphomet is known to bless those worthy with infernal knowledge, even if the mind of the recipient cannot comprehend it. Baphomet can also exert control over lower demons, and can usually bless their Summoner with the powers of a demon themselves,"
+      "text": "人們常常會認為巴弗滅與鍊金術師以及墮落聖騎這些邪惡事物有關，這是由於它會「祝福」那些值得地獄知識侵占的人，哪怕那些人的腦子根本無法理解它的「祝福」。巴弗滅還可以強行控制下位惡魔，還能用惡魔的力量祝福那些召喚它的人。"
     },
     {
       "type": "text",
-      "title": "Pledging",
-      "text": "Given the player prove him/herself to the old Goat by ingesting a Stew of the Grotesque while wearing a full set of any witch robes, and while holding a Pentacle."
+      "title": "誓約",
+      "text": "想要在這隻古老的山羊面前證明自己對它的忠誠，你需要手持五芒星，身著任意的全套女巫裝備，然後喝下大亂燉。"
     },
     {
       "type": "entity",
@@ -25,12 +25,12 @@
     {
       "type": "text",
       "title": "Summoning",
-      "text": "In order to summon Baphomet, the blood of a lamb needs to be spilled for the ritual. I have documented the rite as follows:"
+      "text": "想要召喚出巴弗滅，你需要在儀式上傾撒一些羔羊之血。我在下面記錄了該儀式的具體細節。"
     },
     {
       "type": "bewitchment:ritual",
       "recipe": "bewitchment:conjure_baphomet",
-      "name": "Baphomet's Sabbath"
+      "name": "巴弗滅之祭"
     }
   ]
 }

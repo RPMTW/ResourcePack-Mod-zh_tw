@@ -1,11 +1,11 @@
 {
-  "name": "Alchemist's Attire",
+  "name": "鍊金術士裝備",
   "category": "spinning_wheel",
   "icon": "bewitchment:alchemist_hat",
   "pages": [
     {
       "type": "text",
-      "text": "By using Witch’s Stitches and stitching silver wool impregnated with elemental fumes onto normal robes, it increases the wearer’s proficiency with brews (extra brew in cauldron), both boosting their own brews, and decreasing negative effects from potions inflicted on the wearer."
+      "text": "使用女巫縫線以及浸有元素魔法精華的銀色羊毛縫製到普通長袍上，這件長跑能夠提升穿戴者的釀造熟練度 (指的是在釜鍋內的釀造)，減少釀造時間，並減少穿戴者所受的負面效果時長。"
     },
     {
       "type": "bewitchment:spinning_wheel_recipe",

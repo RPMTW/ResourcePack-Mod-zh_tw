@@ -8,13 +8,13 @@
     "doubleslabs.configgui.replaceSameSlab": "替換相同的水平半磚",
     "doubleslabs.configgui.disableVerticalSlabPlacement": "停用直立半磚放置",
     "doubleslabs.configgui.verticalSlabCraftingBlacklist": "直立半磚製作黑名單",
-    "doubleslabs.configgui.uvlockModelBlacklist": "UVLock Model Blacklist",
+    "doubleslabs.configgui.uvlockModelBlacklist": "UVLock 模型黑名單",
     "doubleslabs.configgui.slabCullBlacklist": "半磚剔除黑名單",
     "doubleslabs.configgui.useDoubleSlabModelBlacklist": "雙倍半磚模型黑名單",
     "doubleslabs.configgui.verticalSlabPlacementMethod": "直立半磚放置方法",
-    "doubleslabs.configgui.title": "Double Slabs Config",
-    "doubleslabs.configgui.category.server": "Server Config",
-    "doubleslabs.configgui.category.server.tooltip": "All settings which configure the server side of the mod (mainly placement related)",
-    "doubleslabs.configgui.category.client": "Client Config",
-    "doubleslabs.configgui.category.client.tooltip": "All settings which only affect the current player"
+    "doubleslabs.configgui.title": "雙半磚設定",
+    "doubleslabs.configgui.category.server": "伺服器端設定",
+    "doubleslabs.configgui.category.server.tooltip": "配置模組伺服器端的所有設定（主要是放置相關的）",
+    "doubleslabs.configgui.category.client": "用戶端設定",
+    "doubleslabs.configgui.category.client.tooltip": "所有僅影響目前玩家的設定"
 }

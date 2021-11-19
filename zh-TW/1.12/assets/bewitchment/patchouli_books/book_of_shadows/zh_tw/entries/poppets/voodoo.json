@@ -1,12 +1,12 @@
 {
-  "name": "Voodoo Poppet",
+  "name": "巫毒娃娃-伏都巫術",
   "category": "poppets",
   "icon": "bewitchment:poppet_voodoo",
   "pages": [
     {
       "type": "crafting",
       "recipe": "bewitchment:poppet_voodoo",
-      "text": "Bound it to a target and right click with Bone Needles in your inventory will deal some damage to said target, throw it in lava from the top will also burn the target."
+      "text": "右擊使用骨針，會傷害到這一娃娃所綁定的對象，將其岩漿中會使得目標被燒傷"
     }
   ]
 }

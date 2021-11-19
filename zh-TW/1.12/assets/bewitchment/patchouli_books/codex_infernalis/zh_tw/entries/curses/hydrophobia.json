@@ -1,12 +1,12 @@
 {
-  "name": "Hydrophobia",
+  "name": "恐水咒",
   "category": "curses",
   "icon": "minecraft:water_bucket",
   "pages": [
     {
       "type": "bewitchment:curse_recipe",
       "recipe": "bewitchment:hydrophobia",
-      "text": "The target moves slower in water, they sink faster in water, and hostile aquatic creatures deal more damage to them."
+      "text": "目標在水中下沉的更快，游得更慢，並且敵對的水生生物能夠對其造成更高的傷害。"
     }
   ]
 }

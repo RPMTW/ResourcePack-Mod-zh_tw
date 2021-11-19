@@ -1,5 +1,5 @@
 {
-    "name": "Woodland Staff",
+    "name": "森林之杖",
     "read_by_default": "true",
     "icon": "dynamictrees:staff",
     "category": "othermechanics",
@@ -7,12 +7,12 @@
     "pages": [
         {
             "type": "text",
-            "title": "Woodland Staff",
-            "text": "The woodland staff is a creative tool that allows you to copy and paste tree states.$(br2)It can be obtained by using the /dt createstaff command, or by getting it from the creative menu.$(br2)You can then set/reset the target species by right clicking a tree, or set/reset the tree and JoCode (growth shape) by shift right clicking a tree."
+            "title": "森林之杖",
+            "text": "森林之杖是一種創造模式工具，可讓您複製和貼上樹木的狀態。$(br2)它可以使用 /dt createstaff 指令獲得，也可以從創造模式選單中獲得。$(br2)然後，您可以對樹木按右鍵來設定/重設目標物種，或者對樹木按右鍵來設定/重設樹木和 JoCode（生長形狀）。"
         },
         {
             "type": "text",
-            "text": "Also note that although this is a creative tool, it has an axe harvest level of 3, making it a fast tool for cutting down trees."
+            "text": "另請注意，雖然這是一個創造模式工具，但它的斧頭收穫等級為 3，使其成為砍伐樹木的快速工具。"
         }
     ]
 }

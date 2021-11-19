@@ -1,11 +1,11 @@
 {
-  "name": "Minerals",
+  "name": "礦物",
   "category": "world",
   "icon": "bewitchment:amethyst",
   "pages": [
     {
       "type": "text",
-      "text": "While inorganic, minerals, from gems to stones to metals, are just as important in Witchcraft."
+      "text": "無機礦物質，無論是寶石還是石頭或者金屬，在巫術藝術中同樣重要。"
     },
     {
       "type": "empty",
@@ -13,8 +13,8 @@
     },
     {
       "type": "text",
-      "title": "Coquina",
-      "text": "A type of sedimentary stone found on Beaches. This stone has a powerful connection to the oceans and is in fact composed of the remains of shellfish."
+      "title": "貝殼灰岩",
+      "text": "一種發現在海灘上的沉積岩，這種石頭和海洋有一種強力的聯繫，事實上，它本身就是由海洋中的甲殼類動物遺骸所組成。"
     },
     {
       "type": "image",
@@ -25,8 +25,8 @@
     },
     {
       "type": "text",
-      "title": "Amethyst",
-      "text": "An incredibly popular purple crystal. It is used to help boost offensive magics, and some claim it can affect health positively."
+      "title": "紫水晶",
+      "text": "一種非常受歡迎的紫色水晶體，它被用來輔助提高進攻性魔法的威力，一些人聲稱它可以影響健康積極性"
     },
     {
       "type": "image",
@@ -37,8 +37,8 @@
     },
     {
       "type": "text",
-      "title": "Garnet",
-      "text": "A gemstone with a deep red-purple hue. This gem is very good at protecting from evil magics, and as such, has defensive properties."
+      "title": "石榴石",
+      "text": "一種深紫紅色寶石，這種寶石非常擅長防護邪惡魔法等諸如此類的魔法。具有防禦屬性。"
     },
     {
       "type": "image",
@@ -49,8 +49,8 @@
     },
     {
       "type": "text",
-      "title": "Opal",
-      "text": "A whitish gem known for its “play of colour” or “fire”, a brilliant light show that changes based on how its held. This gem aids support-based magic, such as enhancing powers."
+      "title": "蛋白石",
+      "text": "一種以變彩效應或者「火」而聞名的白色的寶石，它可以變換出燦爛的流光，這取決於它被如何拿著。這種寶石能增幅支援類魔法，比如增強力量等"
     },
     {
       "type": "image",
@@ -61,8 +61,8 @@
     },
     {
       "type": "text",
-      "title": "Salt",
-      "text": "A mineral found fairly shallow underground. While seeming rather inconspicuous, salt is used to protect against all forms of supernatural creatures, acting as a physical barrier of sorts towards them."
+      "title": "鹽",
+      "text": "在淺層地下發現的礦物，雖然看起來不顯然，但鹽可以用來防禦所有種類的超自然生物，勉強扮演著一道天然的屏障"
     },
     {
       "type": "image",
@@ -73,8 +73,8 @@
     },
     {
       "type": "text",
-      "title": "Silver",
-      "text": "A brilliant metal, next to only gold. Representing the moon as well as purity, silver is a coveted metal used in many magical devices. It also finds widespread use in slaying supernatural beings, commonly werewolves, but vampires and other undead are also harmed by it."
+      "title": "銀",
+      "text": "一種光亮的金屬，僅伴生於金礦周圍。代表了純潔的月亮，銀是一種用於許多魔法設備的令人嚮往的金屬。它也被發現可以廣泛地應用於獵殺超自然生物，比如狼人，但是吸血鬼和其他不死生物也受它的影響"
     },
     {
       "type": "image",

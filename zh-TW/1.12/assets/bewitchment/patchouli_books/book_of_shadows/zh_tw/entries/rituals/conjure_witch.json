@@ -1,11 +1,11 @@
 {
-  "name": "Conjure Witch",
+  "name": "召喚女巫",
   "category": "rituals",
   "icon": "minecraft:apple",
   "pages": [
     {
       "type": "text",
-      "text": "Summons a fellow practitioner. However, they may not always be happy you did so…"
+      "text": "召喚一位巫術同行，但是，她們不一定會喜歡你這麼做……"
     },
     {
       "type": "bewitchment:ritual",

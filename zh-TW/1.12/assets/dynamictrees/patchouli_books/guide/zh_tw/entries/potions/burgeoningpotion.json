@@ -1,20 +1,20 @@
 {
-    "name": "Potion of Burgeoning",
+    "name": "生長藥水",
     "icon": "dynamictrees:dendropotion:3",
     "category": "藥水",
     "sortnum": "3",
     "pages": [
         {
             "type": "釀造",
-            "title": "Potion of Burgeoning",
+            "title": "生長藥水",
             "ingredient": "minecraft:ghast_tear",
             "bottle": "dynamictrees:dendropotion",
             "output": "dynamictrees:dendropotion:3",
-            "text": "This potion causes the tree to rapidly grow."
+            "text": "這種藥水使樹木快速生長。"
         },
         {
             "type": "relations",
-            "title": "Relations",
+            "title": "關係",
             "entries": [
                 "potions/basepotion",
                 "potions/depletionpotion",

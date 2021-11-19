@@ -1,21 +1,21 @@
 {
-  "name": "Diabolic Vein & Sanguine Cloth",
+  "name": "惡魔血管 & 猩紅布匹",
   "category": "demonic_gear",
   "icon": "bewitchment:sanguine_cloth",
   "pages": [
     {
       "type": "text",
-      "text": "When the fleece of a black sheep is washed in the blood of a sacrifice, the Sanguine Cloth is created. This fabric is used in the creation of both the Besmirched Robes along with the preferred garb of the Children of Lilith, along with a reagent in certain rites. It is also believed that this very material is what demons make their garments out of."
+      "text": "當獻祭之血流過黑羊的毛皮，猩紅布匹就這樣被製作出來了。這種布料可被用於製作玷汙長袍，也可用於製作莉莉絲的孩子最喜歡的衣服，又或者用於特定儀式的試劑。人們還相信，這種材料正是惡魔製造裝備所用的材料。"
     },
     {
       "type": "bewitchment:spinning_wheel_recipe",
       "recipe": "bewitchment:sanguine_cloth",
-      "text": "$(o)Blood infused fabric~"
+      "text": "$(o)被血侵染的布匹"
     },
     {
       "type": "bewitchment:spinning_wheel_recipe",
       "recipe": "bewitchment:diabolical_vein",
-      "text": "$(o)Very bloody"
+      "text": "$(o)十分血腥"
     }
   ]
 }

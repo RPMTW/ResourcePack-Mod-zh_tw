@@ -1,5 +1,5 @@
 {
-  "name": "Sigil of Sentinel",
+  "name": "守衛符文",
   "category": "sigils",
   "icon": "bewitchment:sigil_sentinel",
   "pages": [
@@ -10,7 +10,7 @@
     {
       "type": "spotlight",
       "item": "bewitchment:sigil_sentinel",
-      "text": "Summons spooky ghosts to attack the target"
+      "text": "召喚一隻陰森的幽靈來進攻目標"
     }
   ]
 }

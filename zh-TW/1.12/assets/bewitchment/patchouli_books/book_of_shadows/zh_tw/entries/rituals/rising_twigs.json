@@ -1,11 +1,11 @@
 {
-  "name": "Rising Twigs",
+  "name": "抽枝",
   "category": "rituals",
   "icon": "bewitchment:broom",
   "pages": [
     {
       "type": "text",
-      "text": "Transforms a mundane broom into its magical equivalent. Brooms, including the mundane one, can also be used to sweep up various dusts."
+      "text": "將一個平凡的掃帚轉化為它的魔法版本，而無論是普通掃帚還是魔法掃帚，都可以用來掃除地上的各種粉塵。"
     },
     {
       "type": "crafting",
@@ -13,8 +13,8 @@
     },
     {
       "type": "text",
-      "title": "Cypress Broom",
-      "text": "Cypress Brooms cost magic power from a Grimoire Magia to maintain flight. They also give resistance 2 when mounted."
+      "title": "柏木掃帚",
+      "text": "柏木掃帚消耗魔導書中的魔力來保持飛行，當配備時，它也提供[ 抗性Ⅱ ]的效果"
     },
     {
       "type": "bewitchment:ritual",
@@ -22,8 +22,8 @@
     },
     {
       "type": "text",
-      "title": "Elder Broom",
-      "text": "Elder Brooms cost magic power from a Grimoire Magia to maintain flight. They are the fastest of the brooms, but do not have any special properties."
+      "title": "接骨木掃帚",
+      "text": "消耗魔導書中的魔力來保持飛行，它是飛的最快的掃帚，但不提供任何特殊的屬性"
     },
     {
       "type": "bewitchment:ritual",
@@ -31,8 +31,8 @@
     },
     {
       "type": "text",
-      "title": "Juniper Broom",
-      "text": "Juniper Brooms do not cost magic power to maintain flight, due to their magical nature. However, they are also quite slow."
+      "title": "杜松木掃帚",
+      "text": "杜松木掃帚不消耗魔導書中的魔力，因為它自身的魔法屬性，但是，它飛的是相當慢"
     },
     {
       "type": "bewitchment:ritual",
@@ -40,8 +40,8 @@
     },
     {
       "type": "text",
-      "title": "Dragon's Blood Broom",
-      "text": "A broom made from a dragon’s blood tree, a sigil can be applied to the broom, and its effects will be applied to you while in flight. Also flies a bit faster than a normal broom, but not as fast as an Elder broom"
+      "title": "龍血木掃帚",
+      "text": "龍血木製作的掃帚，可以在上面附加上符文，符文效果會在騎手身上生效。飛行速度僅次於接骨木掃帚"
     },
     {
       "type": "bewitchment:ritual",

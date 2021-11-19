@@ -1,20 +1,20 @@
 {
-    "name": "Potion of Gigas",
+    "name": "巨大藥水",
     "icon": "dynamictrees:dendropotion:2",
     "category": "藥水",
     "sortnum": "8",
     "pages": [
         {
             "type": "釀造",
-            "title": "Potion of Gigas",
+            "title": "巨大藥水",
             "ingredient": "minecraft:pumpkin_seeds",
             "bottle": "dynamictrees:dendropotion",
             "output": "dynamictrees:dendropotion:2",
-            "text": "This potion changes the tree species to its mega equivalent. (if available)"
+            "text": "這種藥水將樹種改變為它的巨型等效物。（如果可供使用的話）"
         },
         {
             "type": "relations",
-            "title": "Relations",
+            "title": "關係",
             "entries": [
                 "potions/basepotion",
                 "potions/burgeoningpotion",

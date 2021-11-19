@@ -1,12 +1,12 @@
 {
-  "name": "Paranoia",
+  "name": "偏執咒",
   "category": "curses",
   "icon": "minecraft:ender_eye",
   "pages": [
     {
       "type": "bewitchment:curse_recipe",
       "recipe": "bewitchment:paranoia",
-      "text": "The fears of the subject become amplified, constantly following them around. Not even in their head are they safe."
+      "text": "心靈所遭受的恐懼被放大，並持續地作用於其身上。身體囚禁了靈魂，靈魂只能被恐懼反覆折磨。"
     }
   ]
 }

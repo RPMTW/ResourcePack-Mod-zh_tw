@@ -1,11 +1,11 @@
 {
-  "name": "Grimorie Magia",
+  "name": "魔導書",
   "category": "magic_overview",
   "icon": "bewitchment:grimoire_magia",
   "pages": [
     {
       "type": "text",
-      "text": "Despite the fact you contain ME in your own body, your soul prevents it from leaving, also preventing it from being used. Instead, the Grimoire Magia can be used for on-the-go magic. It must be placed on an Altar to charge it with ME."
+      "text": "儘管事實上你的身體內部就儲存有魔力，但你的靈魂卻阻止它離開身體，同樣阻止著它被你使用。作為替代，魔導書可以用於啟動魔法。它需要放在祭壇上來充能"
     },
     {
       "type": "bewitchment:ritual",
