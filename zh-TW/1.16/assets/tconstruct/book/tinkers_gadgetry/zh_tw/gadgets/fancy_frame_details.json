@@ -1,32 +1,32 @@
 {
-  "title": "Fancy Item Frames",
+  "title": "花式物品展示框",
   "text": [
     {
-      "text": "• Clear: Turn invisible when an item is placed inside."
+      "text": "• 通透：放入物品後展示框變為隱形。"
     },
     {
       "text": "\n"
     },
     {
-      "text": "• Gold: Gradually rotates the item automatically. Crafting with a redstone torch reverses the direction."
+      "text": "• 黃金：自動旋轉物品。加上紅石火把合成會反轉旋轉方向。"
     },
     {
       "text": "\n"
     },
     {
-      "text": "• Diamond: Gradually reduces the rotation until the item is upright. Supports more rotations than a standard frame."
+      "text": "• 鑽石：逐漸減少旋轉，直到物品直立。 支持比標準物品展示框更多的旋轉角度。"
     },
     {
       "text": "\n"
     },
     {
-      "text": "• Manyullyn: Always appears fully lit, even in darkness."
+      "text": "• 瑪玉靈：即使在完全黑暗中，物品也會完全明亮著。"
     },
     {
       "text": "\n"
     },
     {
-      "text": "• Netherite: Resistant to fire and explosions."
+      "text": "• 獄髓：耐火和防爆炸"
     }
   ]
 }
