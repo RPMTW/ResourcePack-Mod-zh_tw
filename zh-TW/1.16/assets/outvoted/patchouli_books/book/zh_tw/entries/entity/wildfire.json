@@ -7,24 +7,24 @@
       "type": "entity",
       "entity": "outvoted:wildfire",
       "scale": "0.9",
-      "text": "加入模組的第一個生物，Wildfire是一個危險的地獄生物"
+      "text": "加入模組的第一個生物，獄火行者是一個危險的地獄生物"
     },
     {
       "type": "text",
-      "text": "The Wildfire is a blaze-like mob that patrols the Nether. It is an uncommon, \"random encounter\" spawn, and when it shows up it spawns several Blazes along with it. It is capable of shooting a line of fireballs at its enemies, and can put up its shields to block damage.$(br2)Drops: $(l:items/wildfire_piece)Molten Shard$(/l), $(l:items/wildfire_helmet)Wildfire Helmet$(/l)"
+      "text": "獄火行者是一種在地獄巡邏的類似烈焰使者的生物。這是一個不常見的「隨機遭遇」生成，當它出現時，它會同時生成幾個烈焰使者。它能夠向敵人發射一排火球，並可以豎起盾牌來阻擋傷害。$(br2)掉落物：烈焰桿、$(l:items/wildfire_piece)熔融碎片$(/l)、$(l:items/wildfire_helmet)獄火頭盔$(/l)"
     },
     {
       "type": "entity",
       "entity": "outvoted:wildfire{Variant:1}",
       "scale": "0.9",
-      "text": "Soul Wildfires",
+      "text": "靈魂砂谷 獄火行者",
       "flag": "outvoted:wildfirevariant"
     },
     {
       "type": "entity",
       "entity": "minecraft:blaze{Variant:1}",
       "scale": "0.9",
-      "text": "Soul Blazes",
+      "text": "靈魂砂谷的烈焰使者",
       "flag": "outvoted:wildfirevariant"
     }
   ]
