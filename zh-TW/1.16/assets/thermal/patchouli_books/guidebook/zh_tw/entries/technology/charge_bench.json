@@ -10,7 +10,7 @@
             "text": "The Energetic Infuser is a block that can be used to charge up to 9 items at once. Its main benefits over the $(l:thermal:technology/tinker_bench)Tinker's Bench$(/l) are faster charging speeds and that items can be automatically inserted and extracted (e.g. with a hopper)."
         },
         {
-            "type": "合成",
+            "type": "crafting",
             "recipe": "thermal:charge_bench",
             "title": "能量灌注機",
             "text": "$(o)Ancient texts record the existence of a machine by the same name that was once able to infuse Redstone Flux directly into items, not just tools. This, however, seems to defy all logic.$()"
