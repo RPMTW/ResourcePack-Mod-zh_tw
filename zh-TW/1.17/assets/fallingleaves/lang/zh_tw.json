@@ -10,7 +10,7 @@
     "text.autoconfig.fallingleaves.option.dropFromPlayerPlacedBlocks": "玩家放置的方塊是否落樹葉？",
     "text.autoconfig.fallingleaves.option.minimumFreeSpaceBelow": "所需的垂直空間(半塊)",
     "text.autoconfig.fallingleaves.option.minimumFreeSpaceBelow.@Tooltip": "如果下方有足夠的可用空間，樹葉只會從方塊上掉下來",
-    "text.autoconfig.fallingleaves.option.windEnabled": "Enable Wind?",
+    "text.autoconfig.fallingleaves.option.windEnabled": "啟用風飄落葉的效果?",
     "text.autoconfig.fallingleaves.option.windEnabled.@Tooltip": "There's always some amount of wind, this option allows for stronger wind",
     "text.autoconfig.fallingleaves.option.windlessDimensions": "Windless Dimensions",
     "text.autoconfig.fallingleaves.category.fallingleaves.general": "一般",
