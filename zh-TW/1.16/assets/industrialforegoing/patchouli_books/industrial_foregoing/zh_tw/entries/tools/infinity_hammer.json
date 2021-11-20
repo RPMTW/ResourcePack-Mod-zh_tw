@@ -1,17 +1,17 @@
 {
   "name": "無限電錘",
   "icon": "industrialforegoing:infinity_hammer",
-  "category": "\n-工具",
+  "category": "tools",
   "sortnum": 3,
   "read_by_default": true,
   "pages": [
     {
       "type": "text",
-      "text": "The Infinity Hammer is a tool that allows you to damage enemies in an area. Increasing the tier will give you access to different levels of $(6)Beheading$(), allowing you to get mob heads easily."
+      "text": "無限電錘是可以讓你攻擊範圍內所有敵人的工具。 增加等級將讓你可以獲得不同等級的$(6)斬首$()功能，讓你可以輕鬆獲得怪物頭顱。"
     },
     {
       "type": "text",
-      "text": "When right clicked into the ground it will make a $(6)shatter$() effect into the ground in a cone shape in front of the user."
+      "text": "右鍵點擊地面，它將會在玩家前方的錐形範圍釋放$(6)粉碎$()地面的攻擊效果。"
     }
   ]
 }
