@@ -19,27 +19,27 @@
   "pages": [
     {
       "type": "text",
-      "text": "$(item)Bows$() and $(item)Crossbows$() are fine enough in their way, but sifting through $(item)Gravel$() for $(item)Flint$() and murdering chickens for their $(item)Feathers$() is, frankly, beneath you. These shiny (and extremely sharp) $(item)Throwing Daggers$() also have some quite devious effects, if you do say so yourself."
+      "text": "$(item)弓$()和$(item)弩$()已經夠好了，但坦白說，在$(item)礫石$()中篩選$(item)燧石$()並殺死雞以獲取$(item)羽毛$()不合適你。 如果你也這麼覺得，這些閃亮(且極其鋒利)的$(item)投擲匕首$()也有一些非常狡猾的效果。"
     },
     {
       "type": "crafting_soulforge",
-      "heading": "Iron Throwing Dagger",
+      "heading": "鐵製投擲匕首",
       "recipe": "bloodmagic:soulforge/throwing_dagger",
       "anchor": "iron_throwing_dagger",
       "text": "The $(item)Iron Throwing Dagger$() is a fast-hitting attack, dealing 10 damage with a decent cooldown. Not only that, but if you have some $(l:bloodmagic:demon_will/demon_will)Demon Will$() on you (be it in its raw form, or stored within a $(l:bloodmagic:demon_will/soul_gem)Tartaric Gem$(), it will drop $(raw)Will$() as a $(l:bloodmagic:demon_will/sentient_sword)Sentient Sword$() would."
     },
     {
       "type": "crafting_soulforge",
-      "heading": "Syringe Throwing Dagger",
+      "heading": "注射器投擲匕首",
       "recipe": "bloodmagic:soulforge/throwing_dagger_syringe",
       "anchor": "syringe_throwing_dagger",
-      "text": "The $(item)Syringe Throwing Dagger$() is for the Sanguimancer more interested of the acquisition of $(blood)Blood$() than $(raw)Will$(). While it deals slightly less damage, it is noticeably cheaper, and enemies killed by this weapon have a chance of dropping a $(item)Slate Ampoule$() - or more, if they're hearty enough."
+      "text": "$(item)注射器投擲匕首$()是為比起$(raw)意志$()對$(blood)血液$()更感興趣的採集者準備的。 雖然它造成的傷害略低，但明顯更便宜，而且被這種武器殺死的生物有機會掉落一個或多個$(item)安瓿石板$()，如果他們夠熱情的話。"
     },
     {
       "type": "spotlight",
       "item": "bloodmagic:slate_ampoule",
-      "title": "Slate Ampoule",
-      "text": "These delightful little vials can be crushed when near a $(l:bloodmagic:altar/blood_altar)Blood Altar$() in order to transfer $(blood)500 LP$() into it, destroying the $(item)Ampoule$() in the process. These gains are unaffected by any $(item)Runes$() you may have."
+      "title": "安瓿石板",
+      "text": "當靠近$(l:bloodmagic:altar/blood_altar)血之祭壇$()時，這些令人愉快的小瓶可以被壓碎，以便將$(blood)500 LP$()轉移到其中，在此過程中摧毀$(item)安瓿$()。這些增益不受可能擁有的任何$(item)符文$()的影響。"
     }
   ]
 }
