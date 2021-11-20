@@ -1,0 +1,11 @@
+{
+    "components": [
+        {
+            "type": "zcsptMultiblock",
+            "multiblock_id": "#multiblock_id",
+            "text": "#文本",
+            "x": 0,
+            "y": 10
+        }
+    ]
+}
