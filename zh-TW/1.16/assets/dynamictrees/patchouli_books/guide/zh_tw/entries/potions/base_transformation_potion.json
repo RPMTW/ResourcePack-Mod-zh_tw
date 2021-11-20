@@ -1,0 +1,29 @@
+{
+    "name": "基礎轉生藥水",
+    "icon": "dynamictrees:dendro_potion{potion_index:6}",
+    "category": "藥水",
+    "sortnum": "4",
+    "pages": [
+        {
+            "type": "釀造",
+            "title": "基礎轉生藥水",
+            "ingredient": "minecraft:prismarine_crystals",
+            "bottle": "dynamictrees:dendro_potion",
+            "output": "dynamictrees:dendro_potion{potion_index:6}",
+            "text": "這是基礎轉生藥水的釀造配方。$(br2)所有其他轉生藥水都使用它。"
+        },
+        {
+            "type": "relations",
+            "title": "關係",
+            "entries": [
+                "potions/base_potion",
+                "potions/burgeoning_potion",
+                "potions/depletion_potion",
+                "potions/fertility_potion",
+                "potions/gigas_potion",
+                "potions/persistance_potion",
+                "potions/transformation_potion"
+            ]
+        }
+    ]
+}
