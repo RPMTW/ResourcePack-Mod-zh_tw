@@ -94,5 +94,7 @@
     "info_book.integratedcrafting.tutorials.autocrafting_trigger.text4": "現在，我們告訴&l合成請求器&r開始製作橡木材。使用你的&l編程器&r創建一個包含橡木材的&l變數卡&r，並將其插入到&l合成請求器&r中。",
     "info_book.integratedcrafting.tutorials.autocrafting_trigger.text5": "如果你正確地設定了所有內容，你將能夠看到一個橡木原木已經轉換為4個橡木材。一旦你拿走這些木材，如果有其他的原木可用，將會製作4塊新的木材。你可以使用&l合成請求器&r的設置來忽略儲存內容，並盡可能多地製作木材。",
     "info_book.integratedcrafting.tutorials.autocrafting_trigger.text6": "本節末尾的圖顯示完成本指導教學之設定所需部分的範例。",
-    "gui.integratedcrafting.partsettings.craftingcheckdisabled": "Disable Craft Check"
+    "gui.integratedcrafting.partsettings.craftingcheckdisabled": "Disable Craft Check",
+    "aspect.aspecttypes.integratedcrafting.integer.craftdelay": "Storage contents craft delay",
+    "aspect.aspecttypes.integratedcrafting.integer.craftdelay.info": "Only craft if ingredient is missing from storage for this duration"
 }

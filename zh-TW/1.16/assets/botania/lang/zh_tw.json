@@ -2137,8 +2137,8 @@
     "botania.page.manaEnchanting9": "附魔過程中物品不能取出，但 可在完成後取出.$(p)注意附魔台結構的任何一部 分被移除或是破壞都會將它 變為原來的$(item)青金石方塊$(0).",
     "botania.entry.turntable": "發射器旋轉台",
     "botania.tagline.turntable": "旋轉發射器",
-    "botania.page.turntable0": "$(item)發射器旋轉台$(0)如它的名字，能 將$(item)魔力發射器$(0)來迴旋轉.在上 方放置一個發射器旋轉台就 會開始轉動它，紅石信號會阻 止旋轉.$(p)要改變轉速，用$(item)森林法杖$(0)右擊 它，shift右擊會反轉.",
-    "botania.page.turntable2": "相似的是，對著一個 $(item)發射器$(0)使用 $(l:basics/wand)$(item)森林法杖$(0)$(/l)  在側面點擊會改變速度，而在底部點擊會改變旋轉方向。",
+    "botania.page.turntable0": "The $(item)Spreader Turntable$(0), as its name implies, continually rotates a $(l:mana/spreader)$(item)Mana Spreader$(0)$(/l) placed upon it. Placing a spreader on a turntable will set it spinning; a redstone signal pauses its spin.$(p)To change the speed of a turntable, right-click it with a $(l:basics/wand)$(item)Wand of the Forest$(0)$(/l); sneak-right clicking it will change its direction.",
+    "botania.page.turntable2": "類似的，一個帶有$(l:basics/wand)$(item)森林法杖$(0)$(/l)的$(item)發射器$(0)在其側面使用將會改變它的速度，在底部使用會改變它旋轉的方向。",
     "botania.page.turntable1": "你讓我剛好轉了一圈",
     "botania.entry.manaAlchemy": "魔力煉金",
     "botania.tagline.manaAlchemy": "將A變為B，這種交換並不等價",
@@ -3103,5 +3103,11 @@
     "botania.subtitle.labellia": "半邊蓮重命名了一些東西",
     "botaniamisc.rannuncarpus.state_sensitive": "精確匹配狀態",
     "botaniamisc.rannuncarpus.state_insensitive": "僅匹配方塊",
-    "block.botania.floating_labellia": "浮空半邊蓮"
+    "block.botania.floating_labellia": "浮空半邊蓮",
+    "block.botania.tangleberrie_chibi": "Tangleberrie Petite",
+    "block.botania.tangleberrie_chibi.reference": "No frying pans allowed",
+    "block.botania.floating_tangleberrie_chibi": "Floating Tangleberrie Petite",
+    "block.botania.jiyuulia_chibi": "Jiyuulia Petite",
+    "block.botania.jiyuulia_chibi.reference": "Flügel der Freiheit",
+    "block.botania.floating_jiyuulia_chibi": "Floating Jiyuulia Petite"
 }
