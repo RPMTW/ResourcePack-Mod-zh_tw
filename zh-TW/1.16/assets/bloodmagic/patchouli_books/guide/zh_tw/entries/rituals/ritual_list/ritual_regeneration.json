@@ -10,24 +10,24 @@
       "text": "Use a $(l:bloodmagic:rituals/ritual_diviner#dusk)Ritual Diviner [Dusk]$(/l) for easier construction."
     },
     {
-      "type": "text",
+      "type": "bloodmagic:ritual_info",
       "ritual": "regeneration"
     },
     {
-      "type": "spotlight",
+      "type": "bloodmagic:ritual_data",
       "ritual": "regeneration",
       "page_type": "corrosive"
     },
     {
-      "type": "spotlight",
+      "type": "bloodmagic:ritual_data",
       "ritual": "regeneration",
       "page_type": "heal"
     },
     {
-      "type": "spotlight",
+      "type": "bloodmagic:ritual_data",
       "ritual": "regeneration",
       "page_type": "vampire",
-      "text": "(Vampirism) Mobs within this range have their health syphoned to heal players in the Healing range. $(br) $(li)Maximum Volume: Full Range. $(li)Horizontal Radius: 20 $(li)Vertical Radius: 20"
+      "text": "Requires $(corrosive)Corrosive Will$()."
     }
   ]
 }
