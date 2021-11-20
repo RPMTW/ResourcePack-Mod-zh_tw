@@ -7,10 +7,10 @@
   "pages": [
     {
       "type": "text",
-      "text": "Duplicates $(6)fungi$().$(br2)Requires $(6)40$()RF/t and $(6)water$() ($(6)100$()mb per operation). $(br2)For nether fungi it needs $(6)lava$()."
+      "text": "複製$(6)菌絲$()。$(br2)需要$(6)40$()RF/t和$(6)水$()(每次操作消耗$(6)100$()mb)。$(br2)地獄的作物要消耗$(6)岩漿$()."
     },
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "industrialforegoing:spores_recreator"
     }
   ]
