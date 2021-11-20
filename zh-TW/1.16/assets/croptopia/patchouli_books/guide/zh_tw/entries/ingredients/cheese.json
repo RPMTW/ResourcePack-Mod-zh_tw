@@ -1,0 +1,12 @@
+{
+  "name": "乳酪",
+  "icon": "croptopia:cheese",
+  "category": "croptopia:ingredients",
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "croptopia:cheese",
+      "text": "乳酪的製作方法"
+    }
+  ]
+}
