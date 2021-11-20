@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:necrotic",
+  "text": [
+    {
+      "text": "有機率在攻擊目標時，基於造成傷害百分比的數值治癒自己，每級治療 0% 到 5%。"
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "最多強化至5級",
+    "每個等級需要1個升級槽"
+  ]
+}
