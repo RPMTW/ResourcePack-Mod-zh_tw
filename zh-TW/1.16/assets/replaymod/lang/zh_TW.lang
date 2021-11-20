@@ -5,16 +5,16 @@ replaymod.api.parammissing=缺少必要的參數：%1$s
 replaymod.api.invalidvalue=無效的參數 %1$s - 允許的參數為：%2$s
 replaymod.api.invalidlogin=無效的登入數據
 replaymod.api.invalidauthkey=無效的認證密鑰
-replaymod.api.notenoughspace=伺服器沒有足夠的空間來上傳這個檔案。考慮購買更多空間請存取 ReplayMod.com replaymod.api.nofilesuploaded=沒有上傳檔案 replaymod.api.filetoobig=上傳的檔案太大。 考慮在ReplayMod.com上購買進階版。 replaymod.api.nofilesuploaded=沒有上傳檔案 replaymod.api.filetoobig=上傳的檔案太大。 考慮在ReplayMod.com上購買進階版。
+replaymod.api.nofilesuploaded=沒有上傳的檔案 replaymod.api.nofilesuploaded=沒有上傳檔案 replaymod.api.filetoobig=上傳的檔案太大。 考慮在ReplayMod.com上購買進階版。
 replaymod.api.invalidfile=此檔案無效
-replaymod.api.nofilesuploaded=沒有上傳的檔案
+replaymod.gui.upload.success=檔案已成功上傳
 replaymod.api.filenoexist=此檔案不存在 replaymod.api.filetoobig=上傳的檔案太大。 考慮在ReplayMod.com上購買進階版。
 replaymod.api.alreadyrated=你已經評論過了這個檔案
 replaymod.api.usernoexist=此使用者不存在
 replaymod.api.invalidcategory=無效的檔案類型
 replaymod.gui.ytuploadprogress.upload=[3/4]上傳：%%d%%%%
 replaymod.api.toomanyvalues=這個數值太高了，參數：%1$s
-replaymod.api.noparameters=至少需要一個參數。參數：%1$s 參數：%1$s 參數：%1$s
+replaymod.api.noparameters=至少需要一個參數。參數：%1$s 參數：%1$s 參數：%1$s 參數：%1$s
 replaymod.api.invalidfilename=檔案名必須在 5~30 個字元之間
 replaymod.api.usernameexists=這個使用者名已被使用
 replaymod.api.invalidmail=無效的電子郵箱地址
@@ -40,7 +40,7 @@ replaymod.chat.addedmarker=標記事件已加入
 
 #Chat messages displayed in Replay Viewer
 replaymod.chat.morekeyframes=至少需要 2 個位置關鍵幀和 2 個時間關鍵幀
-replaymod.chat.pathinterrupted=鏡頭路徑取消 replaymod.chat.negativetime=鏡頭路徑不能倒退，請向你附近的時間領主尋求幫助。 Please consult your nearest time lord for assistance.
+replaymod.chat.pathinterrupted=鏡頭路徑取消 replaymod.chat.negativetime=鏡頭路徑不能倒退，請向你附近的時間領主尋求幫助。 Please consult your nearest time lord for assistance. replaymod.chat.negativetime=鏡頭路徑不能倒退，請向你附近的時間領主尋求幫助。 Please consult your nearest time lord for assistance.
 replaymod.chat.pathstarted=鏡頭模式啟動
 replaymod.chat.pathfinished=鏡頭路徑完成
 replaymod.gui.rendersettings.camerapath=導出攝像機路徑
@@ -179,9 +179,9 @@ replaymod.gui.viewer.replayfolder=打開錄像資料夾……
 replaymod.gui.viewer.bulkrender=渲染 %1$d 個影片
 
 replaymod.gui.viewer.delete.linea=確定要刪除這個錄像嗎？
-replaymod.gui.viewer.delete.failed1=你的操作系統不允許我們刪除掉這一錄像， 這是 這是
-replaymod.gui.viewer.delete.failed2=我們束手無策，你只能自行處理。 你必須自己處理。 你必須自己處理。
-replaymod.gui.viewer.delete.lineb=「%1$s」將會永遠丟失！（真的很久！） (非常久！) (非常久！)
+replaymod.gui.viewer.delete.failed1=你的操作系統不允許我們刪除掉這一錄像， 這是 這是 這是
+replaymod.gui.viewer.delete.failed2=我們束手無策，你只能自行處理。 你必須自己處理。 你必須自己處理。 你必須自己處理。
+replaymod.gui.viewer.delete.lineb=「%1$s」將會永遠丟失！（真的很久！） (非常久！) (非常久！) (非常久！)
 
 replaymod.gui.viewer.download.title=下載錄像檔案……
 replaymod.gui.viewer.download.message=請稍候，「%1$s」正在下載。
@@ -225,10 +225,10 @@ replaymod.gui.upload.namehint=錄像名稱
 replaymod.gui.upload.descriptionhint=簡介
 replaymod.gui.ingame.menu.pause=暫停回放
 replaymod.gui.upload.uploading=上傳中……
-replaymod.gui.upload.success=檔案已成功上傳
+replaymod.gui.advancedscreenshots.finished.upload.veer=上傳到 VeeR.tv
 replaymod.gui.modwarning.missing=缺失 Mod
 replaymod.gui.upload.hideip2=隱藏伺服器 IP（%s）
-replaymod.input.thumbnail=截取縮略圖 replaymod.gui.upload.nothumbnail=缺失縮略圖。請在回放過程中按 %1$s 鍵來截取縮略圖。 replaymod.gui.upload.nothumbnail=缺失縮略圖。請在回放過程中按 %1$s 鍵來截取縮略圖。
+replaymod.input.thumbnail=截取縮略圖 replaymod.gui.upload.nothumbnail=缺失縮略圖。請在回放過程中按 %1$s 鍵來截取縮略圖。 replaymod.gui.upload.nothumbnail=缺失縮略圖。請在回放過程中按 %1$s 鍵來截取縮略圖。 replaymod.gui.upload.nothumbnail=缺失縮略圖。請在回放過程中按 %1$s 鍵來截取縮略圖。
 replaymod.gui.upload.tryagain=再試一次？
 
 replaymod.gui.upload.error.name.length=錄像名稱必須在 5~30 個字元之間
@@ -272,11 +272,11 @@ replaymod.gui.rendering.cancel=取消渲染
 replaymod.gui.cancelrender.message=你確定要取消目前的渲染過程嗎？
 #Saving Replay GUI
 replaymod.gui.replaysaving.title=保存錄像檔案中……
-replaymod.gui.modwarning.version.expected=異常 replaymod.gui.replaymodified.no=放棄變更 你是否要保存更改？
-replaymod.gui.replaymodified.yes=保存修改的錄像
+replaymod.gui.replaymodified.yes=保存修改的錄像 replaymod.gui.replaymodified.no=放棄變更 你是否要保存更改？
+replaymod.gui.done=完成 replaymod.gui.replaymodified.no=放棄變更 你是否要保存更改？
 replaymod.gui.modwarning.missing=缺失 Mod
 replaymod.gui.replaymodified.warning1=名稱為「%1$s」的錄像已經存在了。
-replaymod.gui.replaymodified.warning2=你確定要覆蓋它？
+replaymod.gui.modwarning.version.expected=異常 replaymod.gui.replaymodified.no=放棄變更 你是否要保存更改？
 
 #Player Overview GUI
 replaymod.gui.playeroverview.visible=玩家實體
@@ -383,9 +383,9 @@ replaymod.gui.rendersettings.presets=編碼預設
 replaymod.gui.rendersettings.renderer.blend=建模輸出[實驗]
 
 replaymod.gui.rendersettings.customresolution=錄像分辨率 Fastest Rendering Option. 最快的渲染選項
-replaymod.gui.rendersettings.renderer.stereoscopic.description=使用不同的3D技術，將影片渲染成一個立體的（並排）3D電影。每隻眼睛能看到的圖像是影片寬度的一半 The image for one eye is half the width of the video 一隻眼睛的圖像是影片寬度的一半
-replaymod.gui.rendersettings.renderer.equirectangular.description=用 360 度全景圖渲染影片，採用圓柱式投影，這是 YouTube 新的 360 度影片功能，由 360 度影片播放器（Oculus Rift）所播放，例如 VR Player。 replaymod.gui.rendersettings.renderer.cubic.description=用 360 度全景圖渲染影片，這是由 360 度影片播放器（Oculus Rift）所播放，例如 VR Player。 replaymod.gui.rendersettings.renderer.ods.description=用 3D 360 度全景圖渲染影片，俗稱 VR 影片。採用圓柱式投影，這是 YouTube 新的 VR 影片功能。 This is usable by YouTube's new 360 degree video function, and several video players (and the Oculus Rift), for example VR Player.
-replaymod.gui.advancedscreenshots.finished.description.360=你成功建立了一張 360度 截圖！ 這可用於 YouTube 的新 360 度視頻功能和多個影片播放器（和 Oculus Rift），例如 VR 播放器。
+replaymod.gui.rendersettings.renderer.stereoscopic.description=使用不同的3D技術，將影片渲染成一個立體的（並排）3D電影。每隻眼睛能看到的圖像是影片寬度的一半 The image for one eye is half the width of the video 一隻眼睛的圖像是影片寬度的一半 一隻眼睛的圖像是影片寬度的一半
+replaymod.gui.rendersettings.renderer.equirectangular.description=用 360 度全景圖渲染影片，採用圓柱式投影，這是 YouTube 新的 360 度影片功能，由 360 度影片播放器（Oculus Rift）所播放，例如 VR Player。 replaymod.gui.rendersettings.renderer.cubic.description=用 360 度全景圖渲染影片，這是由 360 度影片播放器（Oculus Rift）所播放，例如 VR Player。 replaymod.gui.rendersettings.renderer.ods.description=用 3D 360 度全景圖渲染影片，俗稱 VR 影片。採用圓柱式投影，這是 YouTube 新的 VR 影片功能。 This is usable by YouTube's new 360 degree video function, and several video players (and the Oculus Rift), for example VR Player. 使用立體 3D 360 度全景視圖渲染影片，也稱為 VR 影片。 這可用於 YouTube 的新 VR 影片功能。
+replaymod.gui.advancedscreenshots.finished.description.360=你成功建立了一張 360度 截圖！ 這可用於 YouTube 的新 360 度視頻功能和多個影片播放器（和 Oculus Rift），例如 VR 播放器。 這可用於 YouTube 的新 360 度視頻功能和多個影片播放器（和 Oculus Rift），例如 VR 播放器。
 使用立體 3D 360 度全景視圖渲染影片，也稱為 VR 影片。 這可用於 YouTube 的新 VR 影片功能。
 replaymod.gui.rendersettings.renderer.blend.description=將模型導出為 .blend 檔案，可以使用 Blender 軟件打開該檔案。高度實驗性：需要大量記憶體，有相當多的已知問題，有時會產生損壞的 Blender 檔案。 Highly experimental: Requires lots of RAM, has quite a few known issues and sometimes produces broken Blender files. 高度實驗性：需要大量 RAM ，有很多已知問題，有時會產生損壞的 Blender 文件。
 
@@ -407,7 +407,7 @@ replaymod.gui.rendersettings.stabilizecamera=穩定鏡頭
 
 replaymod.gui.rendersettings.arguments=指令行參數
 replaymod.gui.rendersettings.commandline=指令行設定
-replaymod.gui.rendersettings.ffmpeg.description=如果你是一個高級使用者，您可以自訂用於導出影片的指令行參數。更多訊息，查看：http://replaymod.com/docs replaymod.gui.offeropeneye6=了解更多訊息，請存取https://openeye.openmods.info/faq replaymod.gui.modwarning.version=不同的 Mod 版本
+replaymod.gui.rendersettings.ffmpeg.description=如果你是一個高級使用者，您可以自訂用於導出影片的指令行參數。更多訊息，查看：http://replaymod.com/docs replaymod.gui.offeropeneye6=了解更多訊息，請存取https://openeye.openmods.info/faq replaymod.gui.modwarning.version=不同的 Mod 版本 replaymod.gui.modwarning.version=不同的 Mod 版本
 
 replaymod.gui.rendersettings.antialiasing=圖形保真
 
@@ -430,7 +430,7 @@ replaymod.gui.rendersettings.antialiasing.x4=4倍
 replaymod.gui.rendering.error.title=渲染失敗
 replaymod.gui.rendersettings.antialiasing.x8=8倍
 replaymod.gui.ingame.menu.renderpath=渲染錄像
-replaymod.gui.objects.properties.scale=縮放
+replaymod.gui.ingame.menu.renderpath=渲染錄像
 
 #Render Queue GUI
 replaymod.gui.renderqueue.renderall=渲染全部
@@ -440,22 +440,22 @@ replaymod.gui.renderqueue.renderselected=渲染選擇
 replaymod.gui.rendering.cancel=取消渲染
 
 #Rendering GUI
-replaymod.gui.ingame.menu.renderpath=渲染錄像
+replaymod.gui.rendering.error.ffmpeglog=FFmpeg 輸出：
 replaymod.gui.rendering.pause=暫停渲染
 replaymod.gui.rendering.timetaken=渲染時間
 replaymod.gui.rendering.cancel.callback=你確定嗎？
-replaymod.gui.done=完成 replaymod.gui.replaymodified.no=放棄變更 你是否要保存更改？
+replaymod.gui.rendering.error.ffmpegargs.2=是否要將它們重置為預設值，然後重試？
 replaymod.gui.rendering.preview=顯示預覽（效能降低）
 replaymod.gui.advancedscreenshots.create=截圖
 replaymod.gui.rendering.timeleft=剩餘時間
 replaymod.gui.objects.properties.orientation=方向
 
 #Render Errors
-replaymod.gui.rendering.error.ffmpeglog=FFmpeg 輸出：
-replaymod.gui.rendering.error.message=要渲染影片，需要安裝 ffmpeg：http://ffmpeg.org http://ffmpeg.org http://ffmpeg.org
-replaymod.gui.rendering.error.ffmpegargs.2=是否要將它們重置為預設值，然後重試？
+replaymod.gui.modwarning.title=不相容檢測
+replaymod.gui.rendering.error.message=要渲染影片，需要安裝 ffmpeg：http://ffmpeg.org http://ffmpeg.org http://ffmpeg.org http://ffmpeg.org
 replaymod.gui.rendering.error.ffmpegargs.1=您似乎修改了指令行參數。
 replaymod.gui.replaymodified.message=錄像已經改變，你需要再次保存這些修改麼？
+replaymod.error.unknownrestriction1=你目前的版本不支持錄像影片的播放。
 
 #Ingame Menu
 replaymod.gui.ingame.menu.addposkeyframe=加入位置關鍵幀
@@ -499,11 +499,11 @@ replaymod.gui.objects.properties.opacity=不透明度
 replaymod.gui.objects.empty=沒有加入對象
 replaymod.gui.center.search.name=錄像名稱
 replaymod.gui.modwarning.title=不相容檢測
-replaymod.gui.settings.notifications=啟用通知
+replaymod.gui.center.search.name=錄像名稱
 replaymod.gui.center.search.name=錄像名稱
 
 #Errors
-replaymod.error.unknownrestriction1=你目前的版本不支持錄像影片的播放。
+replaymod.gui.modwarning.message1=目前可能會發生不相容
 replaymod.error.unknownrestriction2=它試圖強制執行未知的%s。
 replaymod.error.negativetime1=你的一些時間關鍵幀出了問題。
 replaymod.error.negativetime2=不支持倒放。
@@ -516,14 +516,14 @@ replaymod.gui.modwarning.message2=Minecraft 版本和這個錄像已經被檢測
 replaymod.gui.modwarning.message3=載入這個錄像可能會發生錯誤或者導致崩潰。
 replaymod.gui.advancedscreenshots.finished.upload.veer=上傳到 VeeR.tv
 replaymod.gui.offeropeneye2=OpenEye是一個收集匿名訊息的Mod
-replaymod.api.alreadyrated=你已經評論過了這個檔案
+replaymod.gui.replaymodified.warning2=你確定要覆蓋它？
 replaymod.gui.offeropeneye7=點擊這個會下載 OpenEye 並安裝到你的 Mods 資料夾。
-replaymod.gui.offeropeneye3=包含 Mod 執行和任何崩潰的訊息。
+replaymod.api.alreadyrated=你已經評論過了這個檔案
 replaymod.gui.pitch=X軸旋轉
 
 #OpenEye
 replaymod.gui.offeropeneye1=你想安裝 OpenEye 麼？
-replaymod.gui.offeropeneye5=OpenEye 可以隨時停用，並且是完全可選的。
+replaymod.gui.offeropeneye3=包含 Mod 執行和任何崩潰的訊息。
 replaymod.gui.offeropeneye8=下次你啟動 Minecraft 的時候能夠啟動它。
 replaymod.gui.offeropeneye4=
 replaymod.gui.offeropeneye5=OpenEye可以在任何時候被停用，並且是完全可選的。
