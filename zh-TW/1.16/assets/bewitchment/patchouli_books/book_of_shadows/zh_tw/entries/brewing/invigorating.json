@@ -1,0 +1,18 @@
+{
+  "category": "bewitchment:brewing",
+  "name": "振奮",
+  "icon": "bewitchment:elder_bark",
+  "advancement": "bewitchment:hidden_unlocks/altars",
+  "pages": [
+    {
+      "type": "text",
+      "text": "這將以固定的數量填充消耗它的人的$(l:bewitchment:introduction/altars#internalme)內部ME緩衝區$()。"
+    },
+    {
+      "type": "spotlight",
+      "title": "振奮",
+      "item": "bewitchment:elder_bark",
+      "text": "強度會增加獲得的$(l:bewitchment:introduction/altars#internalme)ME$()的數量。"
+    }
+  ]
+}
