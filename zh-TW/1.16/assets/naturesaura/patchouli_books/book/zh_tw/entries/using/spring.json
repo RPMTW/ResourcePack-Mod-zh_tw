@@ -1,20 +1,20 @@
 {
-    "name": "Everlasting Spring",
+    "name": "永恆之泉",
     "icon": "naturesaura:spring",
     "category": "using",
     "advancement": "naturesaura:offering",
     "pages": [
         {
             "type": "text",
-            "text": "The $(item)Everlasting Spring$() packages the many abilities of $(thing)water$() elegantly into a solid structure, one that can even be used in areas that are usually deemed $(thing)too hot$() for water to exist there. As for simple actions, the $(item)Everlasting Spring$() can fill $(item)cauldrons$() on top of it, $(item)sponges$() close to it and $(item)buckets$() used on it with water. It also irrigates $(thing)farmland$() in an area of five blocks around it."
+            "text": "$(item)永恆之泉$()將$(thing)水$()的許多功能優雅地打包到一個固體結構中，甚至能在常認為$(thing)太熱$()以至於水無法存在的地方使用。簡單的方面來說，$(item)永恆之泉$()能用水灌滿其上方的$(item)鍋釜$()、弄濕附近的$(item)海綿$()，對其使用$(item)桶$()也會獲得水。它也能灌溉大約 5 格之內的$(thing)耕地$()。"
         },
         {
             "type": "text",
-            "text": "Additionally, any more advanced mechanics like $(item)pipes$() can pull water out of it. Additionally, the spring is able to interact with $(item)lava$() in the following ways: If lava is placed one block away horizontally from it, a block of $(item)cobblestone$() will be generated. If the same is done, but vertically, $(item)stone$() is created instead. A block of lava directly next to the spring will turn into $(item)obsidian$().$(n)Of course, all of these actions require varying amounts of $(aura)."
+            "text": "此外，任何像$(item)管道$()之類的更高級的機械能從其中抽水。泉還能和$(item)熔岩$()以以下方式互動：如果熔岩放在同一水平的一格遠處，會生成一個$(item)鵝卵石$()方塊。如果在豎直方向以同一距離放置，則會生成$(item)石頭$()。在泉旁緊貼放置的熔岩會被變成$(item)黑曜石$()。$(n)理所當然，所有這些功能都需要或多或少的$(#419600)靈氣$()。"
         },
         {
             "type": "crafting",
-            "text": "Assembling the $(item)Everlasting Spring$()",
+            "text": "組裝$(item)永恆之泉$()",
             "recipe": "naturesaura:spring"
         }
     ]
