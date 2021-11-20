@@ -1,0 +1,29 @@
+{
+    "name": "生物炭基礎藥水",
+    "icon": "dynamictrees:dendro_potion",
+    "category": "藥水",
+    "sortnum": "1",
+    "pages": [
+        {
+            "type": "釀造",
+            "title": "生物炭基礎藥水",
+            "ingredient": "minecraft:charcoal",
+            "bottle": "minecraft:potion{Potion:'minecraft:awkward'}",
+            "output": "dynamictrees:dendro_potion",
+            "text": "This is the brewing recipe for the base potion.$(br2)All other potions from dynamic trees use this during brewing."
+        },
+        {
+            "type": "relations",
+            "title": "關係",
+            "entries": [
+                "potions/burgeoning_potion",
+                "potions/depletion_potion",
+                "potions/fertility_potion",
+                "potions/gigas_potion",
+                "potions/persistance_potion",
+                "potions/base_transformation_potion",
+                "potions/transformation_potion"
+            ]
+        }
+    ]
+}
