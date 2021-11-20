@@ -10,11 +10,11 @@
       "text": "Use a $(l:bloodmagic:rituals/ritual_diviner)Ritual Diviner$(/l) for easier construction."
     },
     {
-      "type": "text",
+      "type": "bloodmagic:ritual_info",
       "ritual": "green_grove"
     },
     {
-      "type": "spotlight",
+      "type": "bloodmagic:ritual_data",
       "ritual": "green_grove",
       "page_type": "raw",
       "text_overrides": [
@@ -25,17 +25,17 @@
       ]
     },
     {
-      "type": "spotlight",
+      "type": "bloodmagic:ritual_data",
       "ritual": "green_grove",
       "page_type": "corrosive"
     },
     {
-      "type": "spotlight",
+      "type": "bloodmagic:ritual_data",
       "ritual": "green_grove",
       "page_type": "vengeful"
     },
     {
-      "type": "spotlight",
+      "type": "bloodmagic:ritual_data",
       "ritual": "green_grove",
       "page_type": "destructive",
       "text_overrides": [
@@ -46,22 +46,22 @@
       ]
     },
     {
-      "type": "spotlight",
+      "type": "bloodmagic:ritual_data",
       "ritual": "green_grove",
       "page_type": "steadfast"
     },
     {
-      "type": "spotlight",
+      "type": "bloodmagic:ritual_data",
       "ritual": "green_grove",
       "page_type": "growing"
     },
     {
-      "type": "spotlight",
+      "type": "bloodmagic:ritual_data",
       "ritual": "green_grove",
       "page_type": "hydrate"
     },
     {
-      "type": "spotlight",
+      "type": "bloodmagic:ritual_data",
       "ritual": "green_grove",
       "page_type": "leech"
     }
