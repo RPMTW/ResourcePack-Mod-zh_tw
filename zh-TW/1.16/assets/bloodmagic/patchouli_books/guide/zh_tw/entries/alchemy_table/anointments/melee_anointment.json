@@ -14,6 +14,18 @@
       "heading": "磨刀油",
       "recipe": "bloodmagic:alchemytable/melee_damage_anointment",
       "text": "暫時提高造成的近戰傷害 +3。 $(br2)有效物品：工具、劍。$(br2)適用：磨刀石I（256次點擊）"
+    },
+    {
+      "type": "crafting_alchemy_table",
+      "heading": "Honing Oil L",
+      "recipe": "bloodmagic:alchemytable/melee_damage_anointment_l",
+      "text": "This upgraded version of the anointment lasts four times longer. $(br2)Applies: Whetstone I (1024 hits)"
+    },
+    {
+      "type": "crafting_alchemy_table",
+      "heading": "Honing Oil II",
+      "recipe": "bloodmagic:alchemytable/melee_damage_anointment_2",
+      "text": "This upgraded version of the anointment increases melee damage dealt by +6. $(br2)Applies: Whetstone II (256 hits)"
     }
   ]
 }
