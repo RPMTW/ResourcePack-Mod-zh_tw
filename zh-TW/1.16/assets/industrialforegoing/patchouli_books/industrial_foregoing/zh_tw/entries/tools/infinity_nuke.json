@@ -1,5 +1,5 @@
 {
-  "name": "Infinity Nuke",
+  "name": "無限核彈",
   "icon": "industrialforegoing:infinity_nuke",
   "category": "tools",
   "sortnum": 3,
@@ -7,7 +7,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "The Infinity Nuke is a tool of mass destruction where explosion radius will increased based on the tier and the amount of biofuel in it. The Nuke won't destroy things in claimed chunks. $(br2)To make it explode you need to place it on the ground, right click it to arm it and right click it with a flint & steel to make it explode."
+      "text": "無限核彈是一種可以大規模破壞方塊的工具，其爆炸半徑會根據等級和其中的生物燃料量而增加。核彈不會摧毀玩家領地內的方塊。$(br2)要讓它爆炸，你需要將它放置在地上，右鍵點擊關上它，再拿著打火機右鍵點擊即可使用 "
     }
   ]
 }
