@@ -1,22 +1,15 @@
-部分
+// Sections - Puny Smelting
 intro=簡介
-materials=工具材料
-bowmaterials=弓箭材料
-tools=工具
-modifiers=強化
 smeltery=冶煉爐
-seared_furnace=烤爐
-tinker_tank=工匠儲罐
+moving_fluids=Moving Fluids
+casting=Casting
 tier_two_materials=第二階段材料
 
-repairing=修理
-offhand=副手採掘
-bolt_core=弩箭製作
+upgrades=升級
+upgrades.general=§1§l通用§r
+upgrades.harvest=§1§l挖掘§r
+upgrades.weapon=§1§l武器§r
 
-modifier.effect=效果:
-tool.properties=屬性:
-
-material.craft_partbuilder=可於部件加工台被製作
-material.craft_casting=可被製造於
-
-material.tconstruct.slimewood.book=將史萊姆黏液澆鑄在木製部件上，可製作出耐用又可再生的材料！
+slotless=Slotless Modifier
+slotless.slotless=§1§lSlotless§r
+slotless.bonus_upgrades=§1§lUpgrades++§r
