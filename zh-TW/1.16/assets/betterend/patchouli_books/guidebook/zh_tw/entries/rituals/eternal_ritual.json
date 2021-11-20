@@ -1,0 +1,44 @@
+{
+    "name": "永恆儀式",
+    "icon": "betterend:eternal_pedestal",
+    "read_by_default": true,
+    "category": "rituals",
+    "pages": [
+        {
+            "type": "text",
+            "text": "“返回主世界的方法並不那麼簡單。”$(br2)在環遊終界時，您可能會遇到古代遺跡。"
+        },
+        {
+            "type": "image",
+            "text": "有一個$(bold)符文蒼黃石$()被破壞（或沒有）的框架和它周圍的六個基座。",
+            "border": false,
+            "images": [
+                "betterend:textures/images/eternal_ritual/portal_structure.png"
+            ]
+        },
+        {
+            "type": "text",
+            "text": "這些是曾經連接終界和主世界的宏偉傳送門的遺跡。$(br2)想要激活傳送門，您需要恢復框架（如果它是毀壞的）。"
+        },
+        {
+            "type": "image",
+            "text": "並將6個$(bold)永恆水晶$()放在基座上。",
+            "border": false,
+            "images": [
+                "betterend:textures/images/eternal_ritual/portal_frame_full.png"
+            ]
+        },
+        {
+            "type": "image",
+            "text": "放置最後一個水晶後，傳送門將被激活。",
+            "border": false,
+            "images": [
+                "betterend:textures/images/eternal_ritual/ritual_finished.png"
+            ]
+        },
+        {
+            "type": "text",
+            "text": "$(bold)符文蒼黃石$()（恢復框架）和 $(bold)永恆水晶$()可以通過$(l:rituals/infusion_ritual)注入儀式$(/l)獲得。"
+        }
+    ]
+}
