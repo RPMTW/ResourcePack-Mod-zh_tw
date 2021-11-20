@@ -1,0 +1,57 @@
+{
+	"name": "Somnium Extractor",
+	"icon": "theabyss:somnium_extractor",
+	"category": "somnium",
+	"advancement": "theabyss:loran_adv",
+	"priority": false,
+	"secret": false,
+	"read_by_default": false,
+	"pages": [
+		{
+			"type": "spotlight",
+			"item": "theabyss:somnium_extractor",
+			"title": "Somnium Extractor",
+			"link_recipe": false,
+			"text": "Somnium is incredibly important for the use of ancient artifacts and magical rings. You can store Somnium in bottles for later use. You can obtain the ability to channel Somnium and evolve enhancements that allow you to both regen Somnium at a better rate, and efficiently use Somnium."
+		},
+		{
+			"type": "multiblock",
+			"text": "You need this to extract somnium from loran.",
+			"name": "Somnium Extractor",
+			"multiblock": {
+				"pattern": [
+					[
+						"0"
+					],
+					[
+						"A"
+					],
+					[
+						" "
+					],
+					[
+						" "
+					]
+				],
+				"mapping": {
+					"A": "theabyss:somnium_extractor"
+				}
+			}
+		},
+		{
+			"type": "crafting",
+			"title": "Somnium Extractor",
+			"recipe": "theabyss:loran_energy_rcp",
+			"recipe2": "theabyss:somnium_extractor_rcp"
+		},
+		{
+			"type": "text",
+			"text": "Use Loran and Loran Catalyst to extract somnium. If you have extracted somnium you can make a bottle of somnium to charge your somnium!"
+		},
+		{
+			"type": "crafting",
+			"title": "Bottle Of Somnium",
+			"recipe": "theabyss:bottle_of_somnium_rcp"
+		}
+	]
+}
