@@ -1,20 +1,20 @@
 {
-    "name": "Staff of Baldur",
+    "name": "巴德爾之杖",
     "icon": "naturesaura:light_staff",
     "category": "items",
     "advancement": "naturesaura:sky_ingot",
     "pages": [
         {
             "type": "text",
-            "text": "The Gods of higher worlds have long held many powers, including the power of casting $(thing)light$() upon the world. When combining godly materials in the fashion depicted on the following page, a staff can be created that shoots out a $(thing)ray of light$() which, when a block is hit, causes the surrounding area to be lit up as if $(item)Glowstone$() had been placed there."
+            "text": "更高世界的神祇們長久以來持有這許多特殊能力，包括向世界照下$(thing)光$()的能力。將神聖的材料以下頁描繪的方式組合，就能製造出一把能射出$(thing)光之射線$()的法杖。當射線擊中方塊後，會使得附近區域被照亮，就好像那裡放了$(item)螢光石$()一樣。"
         },
         {
             "type": "text",
-            "text": "Additionally, when the ray hits any sort of living creature, it will cause it to go up in $(thing)flames$(). $(p)To cast a ray of this kind, a small amount of $(aura) has to be carried on the user."
+            "text": "此外，當射線擊中了任何種類的生物，還會使其$(thing)著火$()。$(p)要射出這種射線，使用者身上必須攜帶少量的$(#419600)靈氣$()。"
         },
         {
             "type": "crafting",
-            "text": "Creating the $(item)Staff of Baldur$()",
+            "text": "製作$(item)巴德爾之杖$()",
             "recipe": "naturesaura:light_staff"
         }
     ]
