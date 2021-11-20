@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:hydraulic",
+  "text": [
+    {
+      "text": "Using the magic of pumps and fluids you can move things with ease. I mean you can just not in this case."
+    }
+  ],
+  "effects": [
+    "當在水下或雨中時，工具會加快挖掘速度",
+    "分為多個等級，每升一級會提升速度",
+    "每個級別需要 1 個升級插槽"
+  ]
+}
