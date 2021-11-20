@@ -10,7 +10,7 @@
       "text": "Use a $(l:bloodmagic:rituals/ritual_diviner#dusk)Ritual Diviner [Dusk]$(/l) for easier construction."
     },
     {
-      "type": "bloodmagic:ritual_info",
+      "type": "text",
       "ritual": "crystal_harvest",
       "text_overrides": [
         [
@@ -24,7 +24,7 @@
       ]
     },
     {
-      "type": "bloodmagic:ritual_data",
+      "type": "spotlight",
       "ritual": "crystal_harvest",
       "page_type": "crystal",
       "text_overrides": [

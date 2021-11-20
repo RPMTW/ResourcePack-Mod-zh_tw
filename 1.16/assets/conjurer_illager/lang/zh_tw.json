@@ -20,5 +20,9 @@
     "subtitles.entity.conjurer.prepare_attack": "Conjurer prepares attack",
     "subtitles.entity.conjurer.prepare_displacement": "Conjurer prepares displacement",
     "subtitles.entity.bouncy_ball.bounce": "Ball bounces",
-    "subtitles.entity.bouncy_ball.vanish": "Ball pops"
+    "subtitles.entity.bouncy_ball.vanish": "Ball pops",
+    "item.conjurer_illager.music_disc": "Mysterious Disc",
+    "death.attack.conjurer_illager:papercut": "%1$s was delt a bad hand",
+    "death.attack.conjurer_illager:indirect_papercut": "%1$s was delt a bad hand by %2$s",
+    "gui.conjurer_illager.item.conjurer_hat.desc": "Decreases magic damage by 30%"
 }

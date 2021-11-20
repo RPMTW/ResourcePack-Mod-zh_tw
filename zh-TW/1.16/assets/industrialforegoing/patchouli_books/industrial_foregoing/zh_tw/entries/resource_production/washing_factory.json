@@ -7,10 +7,10 @@
   "pages": [
     {
       "type": "text",
-      "text": "使用肉湯桶和特定原礦將肉湯轉變為此種礦石的原礦肉桶。"
+      "text": "Using liquid meat and an ore this machine will turn that meat into raw ore meat of that ore."
     },
     {
-      "type": "crafting",
+      "type": "合成",
       "recipe": "industrialforegoing:washing_factory"
     }
   ]

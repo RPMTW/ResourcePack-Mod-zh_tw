@@ -10,7 +10,7 @@
       "text": "Use a $(l:bloodmagic:rituals/ritual_diviner)Ritual Diviner$(/l) for easier construction."
     },
     {
-      "type": "bloodmagic:ritual_info",
+      "type": "text",
       "ritual": "water",
       "text_overrides": [
         [
@@ -20,7 +20,7 @@
       ]
     },
     {
-      "type": "bloodmagic:ritual_data",
+      "type": "spotlight",
       "ritual": "water",
       "page_type": "waterRange"
     }

@@ -10,7 +10,7 @@
       "text": "Use a $(l:bloodmagic:rituals/ritual_diviner#dusk)Ritual Diviner [Dusk]$(/l) for easier construction."
     },
     {
-      "type": "bloodmagic:ritual_info",
+      "type": "text",
       "ritual": "upgrade_remove",
       "text_overrides": [
         [

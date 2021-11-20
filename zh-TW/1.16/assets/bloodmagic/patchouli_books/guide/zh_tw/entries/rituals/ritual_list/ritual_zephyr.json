@@ -10,16 +10,16 @@
       "text": "Use a $(l:bloodmagic:rituals/ritual_diviner)Ritual Diviner$(/l) for easier construction."
     },
     {
-      "type": "bloodmagic:ritual_info",
+      "type": "text",
       "ritual": "zephyr"
     },
     {
-      "type": "bloodmagic:ritual_data",
+      "type": "spotlight",
       "ritual": "zephyr",
       "page_type": "zephyrRange"
     },
     {
-      "type": "bloodmagic:ritual_data",
+      "type": "spotlight",
       "ritual": "zephyr",
       "page_type": "chest"
     }
