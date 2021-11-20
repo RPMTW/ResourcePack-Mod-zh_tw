@@ -1,0 +1,12 @@
+{
+  "name": "牛軋糖",
+  "icon": "croptopia:nougat",
+  "category": "croptopia:snacks",
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "croptopia:nougat",
+      "text": "牛軋糖的食譜\n"
+    }
+  ]
+}
