@@ -38,6 +38,11 @@
     {
       "type": "text",
       "text": "如果你在$(2)草地$()上按右鍵，它會消耗 150LP \n產生骨粉的效果。$(br2)但是，如果您按住Shift在空中右鍵印記，\n印記將亮起以表明它已被啟動，它將會每 10 秒消耗 150LP\n以玩家為中心 7x7x5 區域中的每個方塊都將套用一個增長刻度。\n適合種那些馬鈴薯！ "
+    },
+    {
+      "type": "text",
+      "flag": "mod:curios",
+      "text": "As you have the $(thing)Curios API$() installed, you can equip this $(item)Sigil$() as a charm. If you want to wear more curios at once, consider using a $(l:bloodmagic:alchemy_array/sigil/holding)Sigil of Holding$(), or the $(l:bloodmagic:alchemy_array/living_equipment/armor_upgrades/curios_sockets)Socketed Upgrade$() for your $(l:bloodmagic:alchemy_array/living_equipment/living_basics)Living Armour$()."
     }
   ]
 }
