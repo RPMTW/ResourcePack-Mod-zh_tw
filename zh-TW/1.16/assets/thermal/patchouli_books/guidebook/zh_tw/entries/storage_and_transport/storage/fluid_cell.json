@@ -10,7 +10,7 @@
             "text": "The Fluid Cell can be used to store and distribute fluids. The fluid cell starts with 128,000mb of capacity and 8,000mb/t max in/out rate. This can be improved using augments. It can only store one fluid at a time. Each side can be configured to in/output. The fluid cell always auto-outputs and never auto-inputs. Provides a comparator output proportional to how full it is."
         },
         {
-            "type": "合成",
+            "type": "crafting",
             "recipe": "thermal:fluid_cell_frame",
             "recipe2": "thermal:fluid_cell"
         },
