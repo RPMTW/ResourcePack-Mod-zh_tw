@@ -1,0 +1,25 @@
+{
+  "category": "bewitchment:brewing",
+  "name": "釀造基礎",
+  "icon": "bewitchment:witch_cauldron",
+  "advancement": "bewitchment:hidden_unlocks/altars",
+  "priority": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "釀酒藝術是巫術的覈心學科。顧名思義，這一切都是關於釀造藥水的。$(br2)）要開始釀造，你需要一個煮沸的$(l:bewitchment:tools/witch_cauldron)女巫鍋$()，一些$(l:bewitchment:introduction/altars)祭壇能量$()，以及其他各種各樣的配料。$(br2)要開始釀造，首先添加 $(l:bewitchment:introduction/crops)曼德拉蕈根$()到$(l:bewitchment:introduction/crops)女巫鍋$()。"
+    },
+    {
+      "type": "text",
+      "text": "在添加$(l:bewitchment:introduction/crops)曼德拉蕈根$()後，你可以添加其他成分。每種成分都會使裝瓶啤酒所需的$(l:bewitchment:introduction/altars)祭壇能量$()新增150，而在釀造過程中，如果$(l:bewitchment:introduction/altars)祭壇能量$()不足，則會導致啤酒立即失敗，所以請記住。$(br2)成分可分為藥劑成分和調節劑。無論你的$(l:bewitchment:introduction/altars)祭壇力量$()，你最多只能添加四種成分。"
+    },
+    {
+      "type": "text",
+      "text": "藥水成分可以為您的啤酒添加效果。你總是希望至少有一個。某些藥水成分提供的確切效果在其他條目中概述。可以添加更多的成分，但這是以修改劑的空間為代價的。$(br2)修改劑將增强您的釀造：紅石粉新增持續時間，而螢石粉使其更有效。"
+    },
+    {
+      "type": "text",
+      "text": "您只能添加一種增強效力的調節劑；但是，其他修改器在科技上僅受空間大小的限制，並且您的$(l:bewitchment:introduction/altars)祭壇力量$()。$(br2)最後，您可以使用常規的沖泡架對您的藥劑進行後期處理。另外請注意，當水呈棕色時，通常意味著您的釀造失敗$(br2)$(o)也許你應該自己做個實驗，看看哪些有效，哪些無效"
+    }
+  ]
+}
