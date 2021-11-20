@@ -10,7 +10,7 @@
             "text": "The Numismatic Dynamo uses $(l:thermal:technology/machines/press)coins$(/l) to produce RF."
         },
         {
-            "type": "合成",
+            "type": "crafting",
             "recipe": "thermal:dynamo_numismatic",
             "title": "通貨能源爐"
         },
