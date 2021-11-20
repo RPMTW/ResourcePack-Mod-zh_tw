@@ -10,7 +10,7 @@
             "text": "The Nullifier is a device that can void all items and fluids that are inserted into it. Items/fluids that are input automatically (via e.g. hoppers) are instantly voided, while items inserted manually through the GUI are temporarily stored until the trash button is pressed. It is compatible with filter type augments to restrict what it can accept."
         },
         {
-            "type": "合成",
+            "type": "crafting",
             "recipe": "thermal:device_nullifier",
             "title": "銷毀器",
             "text": "Redstone control only affects the automatic insertion of items/fluids. Manual deletion through the GUI can always be performed, regardless of redstone control setting."
