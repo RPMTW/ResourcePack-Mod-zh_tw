@@ -5,7 +5,7 @@
     "read_by_default": true,
     "pages": [
         {
-            "type": "合成",
+            "type": "crafting",
             "recipe": "thermal:augments/xp_storage_augment",
             "title": "知識濃縮儲存",
             "text": "The Knowledge Concentrator augment allows a machine or device to collect experience from recipes or the world. It starts with a max storage of 2.5k XP, which is multiplied by the scale factor offered by $(l:thermal:technology/augments/integral_components)Integral Components$(/l)."
