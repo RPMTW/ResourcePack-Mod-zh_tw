@@ -10,7 +10,7 @@
       "text": "當有提供$(l:agr_hus/sewage)汙水$()的時候，這台機器將會從中製造出$(l:agr_hus/fertilizer)肥料$()。"
     },
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "industrialforegoing:sewage_composter"
     }
   ]
