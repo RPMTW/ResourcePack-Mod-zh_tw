@@ -10,7 +10,7 @@
             "text": "The Vacuumulator is a device that can pick up items in its area of effect. It can pick up EXP orbs when a $(l:thermal:technology/augments/xp_storage)knowledge concentrator augment$(/l) is installed. At base, the vacuumulator collects in a 9x9x9 area centered on it, which can be augmented up to 15x15x15 using $(l:thermal:technology/augments/area_radius)radial enhancement augments$(/l)."
         },
         {
-            "type": "合成",
+            "type": "crafting",
             "recipe": "thermal:device_collector",
             "title": "真空儲物箱",
             "text": "When controlled by redstone, the vacuumulator will immediately pick items up the moment it is turned on. This way, it will always reliably activate when pulsed."
