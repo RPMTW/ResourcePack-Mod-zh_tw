@@ -1,16 +1,16 @@
 {
   "name": "肉湯注射器",
   "icon": "industrialforegoing:meat_feeder",
-  "category": "\n-工具",
+  "category": "tools",
   "sortnum": 1,
   "read_by_default": true,
   "pages": [
     {
       "type": "text",
-      "text": "When in your inventory the Meat Feeder will feed you with the liquid meat stored inside of the tool."
+      "text": "當放置在玩家身上，且內部裝有肉湯時，如果玩家的飽食度未滿，肉湯注射器將會自動補充玩家的飽食度。"
     },
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "industrialforegoing:meat_feeder"
     }
   ]
