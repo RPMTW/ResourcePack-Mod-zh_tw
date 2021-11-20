@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:necrotic",
+  "text": [
+    {
+      "text": "Harvest the life of your foes in order to survive longer."
+    }
+  ],
+  "effects": [
+    "攻擊敵人時有機率竊取生命",
+    "分為多個等級，每升一級會提升竊取生命的機率",
+    "每個級別需要 1 個升級插槽"
+  ]
+}
