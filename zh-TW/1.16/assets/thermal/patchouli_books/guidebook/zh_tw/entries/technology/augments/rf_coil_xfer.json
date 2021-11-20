@@ -5,7 +5,7 @@
     "read_by_default": true,
     "pages": [
         {
-            "type": "合成",
+            "type": "crafting",
             "recipe": "thermal:augments/rf_coil_xfer_augment",
             "title": "強導通量線圈",
             "text": "The High-Flux RF Coil augment scales the RF storage by 2 and the RF transfer by 6."
