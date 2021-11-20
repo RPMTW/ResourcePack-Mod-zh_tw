@@ -14,12 +14,12 @@
             "text": "For example, a $(l:thermal:technology/machines/furnace)Redstone Furnace$(/l) with Resonant and Hardened Integral Components and a $(l:thermal:technology/augments/rf_coil_storage)Stabilized RF Coil$(/l) will have 24x the RF storage, 8x RF transfer, and 4x base RF/t.$(br2)Hardened, Reinforced, and Resonant Integral Components have scale factors of 2x, 3x, and 4x respectively."
         },
         {
-            "type": "合成",
+            "type": "crafting",
             "recipe": "thermal:augments/upgrade_augment_1",
             "recipe2": "thermal:augments/upgrade_augment_2"
         },
         {
-            "type": "合成",
+            "type": "crafting",
             "recipe": "thermal:augments/upgrade_augment_3"
         }
     ]
