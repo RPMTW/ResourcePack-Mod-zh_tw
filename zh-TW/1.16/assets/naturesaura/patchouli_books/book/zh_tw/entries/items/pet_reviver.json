@@ -1,20 +1,20 @@
 {
-    "name": "Token of Undying Friendship",
+    "name": "不朽友情之證明",
     "icon": "naturesaura:pet_reviver",
     "category": "items",
     "advancement": "naturesaura:sky_ingot",
     "pages": [
         {
             "type": "text",
-            "text": "Owning $(thing)pets$() is quite the emotional endeavour, since the chance of them succumbing to monsters or hot lava is alarmingly high. Magical botanists have had to deal with this problem for a long time, until they found out about the powers of the $(item)Token of Undying Friendship$(). Upon being applied to any $(thing)tamed animal$(), the animal will never be able to die anymore."
+            "text": "擁有$(thing)寵物$()是一情緒上的重擔，因為它們死於怪物或者熱熔岩的機率高得驚人。魔法植物學家們在很長時間裡也不得不直面這個問題，直到它們發現了$(item)不朽友情之證明$()的力量。在對任何$(thing)已馴服動物$()使用後，該動物便永遠不會死亡。"
         },
         {
             "type": "text",
-            "text": "Instead, when it reaches dangerously low health, it will be $(thing)sent home$() to the owner's usual revival location. During this process, a rather large amount of $(aura) is drained from the area around this home location.$(br)The animal additionally expresses its happiness over being given this special token by occasionally showing you their heart."
+            "text": "與死亡相反，當動物的生命低到達了危險的地步，它就會被$(thing)送回家$()，回到主人通常復活的地方。這個過程會消耗家周圍相當大量的$(#419600)靈氣$()。$(br)在給予了這個特殊證明後，動物還會經常冒出愛心，來表達它們的快樂。"
         },
         {
             "type": "crafting",
-            "text": "Creating the $(item)Token of Undying Friendship$()",
+            "text": "製作$(item)不朽友情之證明$()",
             "recipe": "naturesaura:pet_reviver"
         }
     ]
