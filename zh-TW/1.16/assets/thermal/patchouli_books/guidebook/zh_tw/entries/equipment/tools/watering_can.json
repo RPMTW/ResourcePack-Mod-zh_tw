@@ -10,7 +10,7 @@
             "text": "Uses to water crops to accelerate their growth. It can be filled and augmented in the Tinker's Workbench. After installing radius augments, press '$(k:cofh.mode_change_increment)' to change between watering radii. It can be enchanted with $(l:thermal:world/holding)Holding$(/l) to improve water capacity."
         },
         {
-            "type": "合成",
+            "type": "crafting",
             "recipe": "thermal:watering_can",
             "title": "灑水壺"
         },
