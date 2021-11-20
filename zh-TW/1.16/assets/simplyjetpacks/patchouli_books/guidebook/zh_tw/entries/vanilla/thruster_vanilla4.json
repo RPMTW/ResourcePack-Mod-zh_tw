@@ -1,0 +1,17 @@
+{
+  "name": "Netherite Thruster",
+  "icon": "simplyjetpacks:thruster_vanilla4",
+  "category": "simplyjetpacks:vanilla",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "This is the Netherite Thruster"
+    },
+    {
+      "type": "crafting",
+      "recipe": "simplyjetpacks:vanilla/thruster_vanilla4",
+      "text": "This is a test entry, but it should show up!"
+    }
+  ]
+}
