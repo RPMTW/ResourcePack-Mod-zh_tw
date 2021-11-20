@@ -1,13 +1,13 @@
 {
   "name": "菌絲反應器",
   "icon": "industrialforegoing:mycelial_reactor",
-  "category": "發電機",
+  "category": "generators",
   "sortnum": 2,
   "read_by_default": true,
   "pages": [
     {
       "type": "text",
-      "text": "Using the $(6)Mycelial Network$() (A subspace domain containing a living vegetative mass of fungus called the mycelium) this reactor can detect the other $(6)mycelial generators$() and generate massive amounts of FE. $(br2)For this to happen, once instance of each generator needs to be working at the same time."
+      "text": "使用$(6)菌絲網路$()(一個充滿菌絲體的子空間域），這個反應器可以偵測出其他$(6)菌絲網路發電機$()，併產生大量的FE。 $(br2)要做到這一點，所有的菌絲網路發電機需要同時工作。"
     },
     {
       "type": "text",
