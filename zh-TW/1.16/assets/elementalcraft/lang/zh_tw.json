@@ -141,7 +141,7 @@
     "block.elementalcraft.shrine_upgrade_boneless_growth": "祭壇升級：多樣化",
     "block.elementalcraft.shrine_upgrade_pickup": "祭壇升級：瞬間吸收",
     "block.elementalcraft.shrine_upgrade_nectar": "祭壇升級：花蜜",
-    "block.elementalcraft.shrine_upgrade_mystical_grove": "祭壇升級：神秘樹叢",
+    "block.elementalcraft.shrine_upgrade_mystical_grove": "祭壇升級：神祕樹叢",
     "block.elementalcraft.shrine_upgrade_stem_pollination": "祭壇升級：蕈柄授粉",
     "block.elementalcraft.crystalore": "惰性水晶礦",
     "block.elementalcraft.whiterock": "白石",
@@ -248,7 +248,7 @@
     "tooltip.elementalcraft.boneless_growth": "可以種植不能被骨粉催熟的植物",
     "tooltip.elementalcraft.pickup": "傳送工作範圍內的掉落物至容器中",
     "tooltip.elementalcraft.nectar": "做出一點犧牲，將甜甜的花蜜留給蜜蜂享用",
-    "tooltip.elementalcraft.mystical_grove": "種植神秘花而不是普通的花朵",
+    "tooltip.elementalcraft.mystical_grove": "種植神祕花而不是普通的花朵",
     "tooltip.elementalcraft.stem_pollination": "蕈柄作物現在可以長成果實",
     "message.elementalcraft.connect": "連接",
     "message.elementalcraft.disconnect": "斷開",
@@ -259,7 +259,7 @@
     "elementalcraft.category.basics.desc": "$(thing)元素工藝$()中的基本概念與機制。",
     "elementalcraft.category.instruments": "元素器械",
     "elementalcraft.category.instruments.desc": "$(thing)元素器械$()是主要的合成場所，$(br)它們通過消耗$(thing)元素$()來完成各種各樣的活動，使用時需將它們貼附於$(ec:tank)元素容器$()的上表面。",
-    "elementalcraft.category.crafting": "合成",
+    "elementalcraft.category.crafting": "crafting",
     "elementalcraft.category.crafting.desc": "本章節主要講述$(thing)合成機制$()，包括灌注與聚合。",
     "elementalcraft.category.shrines": "祭壇",
     "elementalcraft.category.shrines.desc": "$(item)祭壇$()是一種通過消耗$(thing)元素$()來執行各種任務的裝置。",
@@ -351,5 +351,6 @@
     "tooltip.elementalcraft.protection": "只影響敵方",
     "block.elementalcraft.springshrine": "Spring Shrine",
     "block.elementalcraft.shrine_upgrade_filling": "Filling Shrine Upgrade",
-    "tooltip.elementalcraft.filling": "Fill tank with water"
+    "tooltip.elementalcraft.filling": "Fill tank with water",
+    "elementalcraft_rune.elementalcraft.creative": "Creative rune"
 }
