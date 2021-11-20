@@ -1,0 +1,23 @@
+{
+	"name": "Ring Of Freeze",
+	"icon": "theabyss:ring_of_freeze",
+	"category": "rings",
+	"advancement": "theabyss:somnium_adv",
+	"priority": false,
+	"secret": false,
+	"read_by_default": false,
+	"pages": [
+		{
+			"type": "spotlight",
+			"item": "theabyss:ring_of_freeze",
+			"title": "Ring Of Freeze",
+			"link_recipe": false,
+			"text": "The ring of freeze taps into the powers of the ice dimension devouring 35% somnium to freeze your opponents."
+		},
+		{
+			"type": "crafting",
+			"title": "Ring Of Freeze",
+			"recipe": "theabyss:ring_of_freeze_rcp"
+		}
+	]
+}
