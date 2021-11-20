@@ -48,7 +48,7 @@
     "item.allthemodium.allthemodium_leggings": "ATM金屬護腿",
     "item.allthemodium.allthemodium_boots": "ATM金屬靴子",
     "item.allthemodium.crushed_allthemodium": "壓碎的ATM金屬",
-    "item.allthemodium.crushed_vibranium": "壓碎的釩金屬",
+    "item.allthemodium.crushed_vibranium": "壓碎的汎金屬",
     "item.allthemodium.crushed_unobtainium": "壓碎的難得素",
     "item.allthemodium.vibranium_helmet": "汎金屬頭盔",
     "item.allthemodium.vibranium_chestplate": "汎金屬胸甲",
@@ -70,7 +70,7 @@
     "item.allthemodium.vibranium_dust": "汎金屬粉",
     "item.allthemodium.unobtainium_nugget": "難得素粒",
     "block.allthemodium.unobtainium_ore": "難得素礦",
-    "block.allthemodium.unobtainium_block": "難得素塊",
+    "block.allthemodium.unobtainium_block": "難得素方塊",
     "item.allthemodium.unobtainium_ingot": "難得素錠",
     "item.allthemodium.unobtainium_dust": "難得素粉",
     "block.allthemodium.teleport_pad": "傳送板",
@@ -131,5 +131,8 @@
     "block.iceandfire.vibranium_pile": "釩金粒堆",
     "tetra.material.allthemodium": "ATM金屬",
     "tetra.material.vibranium": "釩金屬",
-    "tetra.material.unobtainium": "難得素"
+    "tetra.material.unobtainium": "難得素",
+    "item.allthemodium.crushed_allthemodium_ore": "壓碎的ATM金屬礦",
+    "item.allthemodium.crushed_vibranium_ore": "壓碎的汎金屬礦",
+    "item.allthemodium.crushed_unobtainium_ore": "壓碎的難得素礦"
 }
