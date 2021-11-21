@@ -1,6 +1,6 @@
 {
   "category": "bewitchment:brewing",
-  "name": "Nourishing",
+  "name": "營養",
   "icon": "minecraft:bamboo",
   "advancement": "bewitchment:hidden_unlocks/altars",
   "pages": [
@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:spotlight",
-      "title": "Nourishing",
+      "title": "營養",
       "item": "minecraft:bamboo",
       "text": "The gain increase scales with intensity."
     }
