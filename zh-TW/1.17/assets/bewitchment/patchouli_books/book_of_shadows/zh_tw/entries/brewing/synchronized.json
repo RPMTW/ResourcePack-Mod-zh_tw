@@ -1,6 +1,6 @@
 {
   "category": "bewitchment:brewing",
-  "name": "Synchronized",
+  "name": "同步",
   "icon": "minecraft:ghast_tear",
   "advancement": "bewitchment:hidden_unlocks/altars",
   "pages": [
@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:spotlight",
-      "title": "Synchronized",
+      "title": "同步",
       "item": "minecraft:ghast_tear",
       "text": "Synchronized effects are cut in half.$(br2)This effect is not compatible with $(l:bewitchment:brewing/theft)Theft$().$(br2)The higher this effect's intensity, the further it'll reach."
     }
