@@ -1,6 +1,6 @@
 {
   "category": "bewitchment:brewing",
-  "name": "Polymorph",
+  "name": "變形",
   "icon": "bewitchment:taglock{OwnerName:Aelpecyem}",
   "advancement": "bewitchment:hidden_unlocks/altars",
   "pages": [
@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:spotlight",
-      "title": "Polymorph",
+      "title": "變形",
       "item": "bewitchment:taglock{FromPlayer: 1b, OwnerUUID: [I; 1672005179, -1854323673, -2070260447, 778045631], OwnerName:\"Aelpecyem\"}",
       "text": "Intensity does not have an effect on this potion.$(br2)This potion only works if created from a $(l:bewitchment:tools/taglock)Taglock$() of another player."
     }
