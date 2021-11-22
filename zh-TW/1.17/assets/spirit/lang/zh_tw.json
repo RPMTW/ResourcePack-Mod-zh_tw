@@ -1,9 +1,9 @@
 {
-    "item.spirit.soul_crystal": "Soul Crystal",
-    "item.spirit.soul_crystal.upgrade_message": "Your crystal's spirit reaches new heights! Tier upgraded.",
-    "block.spirit.soul_cage": "Soul Cage",
-    "block.spirit.broken_spawner": "Broken Spawner",
-    "effect.spirit.corrupted": "Corrupted",
-    "itemGroup.spirit.spirit": "Spirit",
-    "config.spirit.toggletooltip": "Disable/Enable Entity Visual Effect"
+    "item.spirit.soul_crystal": "靈魂水晶",
+    "item.spirit.soul_crystal.upgrade_message": "你的水晶靈魂達到了新的高度！等級已升級。",
+    "block.spirit.soul_cage": "靈魂籠",
+    "block.spirit.broken_spawner": "破損的生怪箱",
+    "effect.spirit.corrupted": "已損壞",
+    "itemGroup.spirit.spirit": "靈魂",
+    "config.spirit.toggletooltip": "禁用/啟用實體視覺效果"
 }
