@@ -1,11 +1,11 @@
 {
-  "name": "Manual Quest",
+  "name": "手動任務",
   "category": "patchouli:page_types",
   "icon": "minecraft:totem_of_undying",
   "pages": [
     {
       "type": "patchouli:quest",
-      "text": "This quest is completed manually by clicking the button."
+      "text": "此任務通過按鍵手動完成。"
     }
   ]
 }
