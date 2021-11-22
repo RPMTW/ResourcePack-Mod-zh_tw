@@ -1,13 +1,13 @@
 {
-  "name": "Link",
+  "name": "連結",
   "category": "patchouli:page_types",
   "icon": "minecraft:chain",
   "pages": [
     {
       "type": "patchouli:link",
       "url": "https://example.com",
-      "link_text": "Link to example.com",
-      "text": "Button below opens example.com"
+      "link_text": "連結到 example.com",
+      "text": "下面的按鈕打開 example.com"
     }
   ]
 }
