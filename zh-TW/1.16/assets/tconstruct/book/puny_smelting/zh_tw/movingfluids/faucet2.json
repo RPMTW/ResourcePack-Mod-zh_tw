@@ -1,15 +1,15 @@
 {
-  "title": "Faucets",
+  "title": "澆注口",
   "text": [
     {
-      "text": "Faucets are your main way to get fluids out from melters, smelteries, tanks, or any valid fluid container. Simply place it on the block, and right click to pour into a fluid container below."
+      "text": "澆注口是您從熔化爐、冶煉爐、儲罐或任何有效液體容器中取出液體的主要方式。只需將其放在方塊上，然後右鍵即可倒入下方的液體容器中。"
     },
     {
-      "text": "Faucets will pour out from the sides or bottom of the connected block to the block directly below the faucet itself.",
+      "text": "澆注口會從連接方塊的側面或底部，並向澆注口本身正下方的方塊倒出液體。",
       "paragraph": true
     },
     {
-      "text": "Faucets respond to redstone signals, so simply placing an activated lever next to it will make it constantly pour out its contents. A redstone pulse will pour out its contents until the destination is full or the source is empty.",
+      "text": "澆注口會回應紅石訊號，只需在它旁邊放置一個啟動的控制桿，它就會不斷地倒出裡面的東西。紅石脈衝將傾倒其內容，直到目標被裝滿或液體被倒空。",
       "paragraph": true
     }
   ]
