@@ -1,5 +1,5 @@
 {
-  "name": "Spotlights",
+  "name": "頭條",
   "category": "patchouli:page_types",
   "icon": "minecraft:oak_sapling",
   "pages": [
@@ -11,14 +11,14 @@
     {
       "type": "patchouli:spotlight",
       "item": "minecraft:dead_bush,minecraft:spruce_sapling",
-      "title": "Custom title",
-      "text": "Custom text $(l)with formatting$()."
+      "title": "自訂標題",
+      "text": "自定義文字 $(l)格式為$()。"
     },
     {
       "type": "patchouli:spotlight",
       "item": "tag:minecraft:piglin_loved",
       "title": "Tag Spotlight",
-      "text": "Piglins love these!",
+      "text": "豬布林喜歡這些！",
       "link_recipe": true
     },
     {
@@ -28,8 +28,8 @@
     {
       "type": "patchouli:spotlight",
       "item": "tag:minecraft:wool,minecraft:bone",
-      "title": "Wool",
-      "text": "But also a bone?"
+      "title": "羊毛",
+      "text": "但也是一根骨頭？"
     }
   ]
 }
