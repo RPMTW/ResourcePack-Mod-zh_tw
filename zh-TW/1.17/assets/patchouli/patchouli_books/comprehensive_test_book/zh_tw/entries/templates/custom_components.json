@@ -1,12 +1,12 @@
 {
-  "name": "Custom Template Components",
+  "name": "自定義範本元件",
   "category": "patchouli:templates",
   "icon": "minecraft:written_book",
   "pages": [
     {
       "type": "patchouli:custom_component",
-      "spaghet": "pasta",
-      "pop": "beer"
+      "spaghet": "義大利麵",
+      "pop": "啤酒"
     }
   ]
 }
