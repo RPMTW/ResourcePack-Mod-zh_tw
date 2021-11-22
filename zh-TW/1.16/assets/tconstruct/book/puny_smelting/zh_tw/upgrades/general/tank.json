@@ -2,13 +2,13 @@
   "modifier_id": "tconstruct:tank",
   "text": [
     {
-      "text": "This baby has a 120mm cannon, a mounted machine gu... wait this isn't that type of tank..? That's disappointing I'd rather have the vehicle."
+      "text": "這寶貝設有一門120毫米的主炮，一門重機槍……等等，這不是那種坦克(Tank)？真令人失望。"
     }
   ],
   "effects": [
-    "Increases the tank size of the tool",
-    "Tool becomes a portable fluid container that can be poured into",
-    "Multiple levels, each level increases tank size further",
-    "Requires 1 Upgrade Slot per level"
+    "增加工具的儲罐尺寸",
+    "工具成為可倒入液體的攜帶型液體容器",
+    "多個等級，每級進一步增加儲罐容量",
+    "每個級別需要1個升級槽"
   ]
 }
