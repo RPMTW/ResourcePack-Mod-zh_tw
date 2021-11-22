@@ -1,8 +1,8 @@
 // Sections - Puny Smelting
 intro=簡介
 smeltery=冶煉爐
-moving_fluids=Moving Fluids
-casting=Casting
+moving_fluids=熔融液體
+casting=鑄造
 tier_two_materials=第二階段材料
 
 upgrades=升級
@@ -10,6 +10,6 @@ upgrades.general=§1§l通用§r
 upgrades.harvest=§1§l挖掘§r
 upgrades.weapon=§1§l武器§r
 
-slotless=Slotless Modifier
-slotless.slotless=§1§lSlotless§r
-slotless.bonus_upgrades=§1§lUpgrades++§r
+slotless=無槽強化
+slotless.slotless=§1§l無槽§r
+slotless.bonus_upgrades=§1§l升級++§r
