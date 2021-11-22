@@ -1,15 +1,15 @@
 {
-  "title": "Channels",
+  "title": "澆注道",
   "text": [
     {
-      "text": "Channels can be filled with fluid from the top or from sides set to input. They output into the bottom, or sides that are set to output."
+      "text": "澆注道可從頂部或側面注入液體。 可設置為向底部或側面輸出。"
     },
     {
-      "text": "Channels have arrows inside them that show the direction that fluid will travel. Right clicking the sides of channels will switch them between input, output, and none. Right clicking the middle of the channel will set it to output to directly below if there is a valid fluid container underneath. Channels can not transfer upwards.",
+      "text": "澆注道內部有箭頭，顯示液體將行進的方向。右鍵澆注道的兩側將在輸入、輸出和無之間切換狀態。如果下方有有效的液體容器，則右鍵澆注道的中間會將其設置為直接輸出到下方。澆注道不能向上傳輸。",
       "paragraph": true
     },
     {
-      "text": "Channels respond to redstone as well. Powering it will enable and disable downwards flowing.",
+      "text": "澆注道也會和紅石起反應。收到紅石訊號時將切換啟用和禁用向下流動。",
       "paragraph": true
     }
   ]
