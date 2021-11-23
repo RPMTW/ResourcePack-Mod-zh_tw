@@ -86,7 +86,7 @@
             "flag": "productivebees:ammolite"
         },
         {
-            "type": "實體",
+            "type": "entity",
             "name": "斑彩石蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:ammolite'}",
             "flag": "productivebees:ammolite"
@@ -99,7 +99,7 @@
             "flag": "productivebees:apatite"
         },
         {
-            "type": "實體",
+            "type": "entity",
             "name": "磷灰石蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:apatite'}",
             "flag": "productivebees:apatite"
@@ -112,7 +112,7 @@
             "flag": "productivebees:aquamarine"
         },
         {
-            "type": "實體",
+            "type": "entity",
             "name": "海藍寶石蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:aquamarine'}",
             "flag": "productivebees:aquamarine"
@@ -164,7 +164,7 @@
             "flag": "productivebees:carnelian"
         },
         {
-            "type": "實體",
+            "type": "entity",
             "name": "紅玉髓蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:carnelian'}",
             "flag": "productivebees:carnelian"
@@ -177,7 +177,7 @@
             "flag": "productivebees:cats_eye"
         },
         {
-            "type": "實體",
+            "type": "entity",
             "name": "貓眼蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:cats_eye'}",
             "flag": "productivebees:cats_eye"
@@ -190,7 +190,7 @@
             "flag": "productivebees:chrysoprase"
         },
         {
-            "type": "實體",
+            "type": "entity",
             "name": "綠玉髓蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:chrysoprase'}",
             "flag": "productivebees:chrysoprase"
@@ -203,7 +203,7 @@
             "flag": "productivebees:cinnabar"
         },
         {
-            "type": "實體",
+            "type": "entity",
             "name": "硃砂蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:cinnabar'}",
             "flag": "productivebees:cinnabar"
