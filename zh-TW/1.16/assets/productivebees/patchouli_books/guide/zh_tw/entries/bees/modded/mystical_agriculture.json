@@ -87,7 +87,7 @@
             "flag": "productivebees:imperium"
         },
         {
-            "type": "實體",
+            "type": "entity",
             "name": "高級精華蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:imperium'}",
             "flag": "productivebees:imperium"
@@ -100,7 +100,7 @@
             "flag": "productivebees:supremium"
         },
         {
-            "type": "實體",
+            "type": "entity",
             "name": "終極精華蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:supremium'}",
             "flag": "productivebees:supremium"
@@ -113,7 +113,7 @@
             "flag": "productivebees:insanium"
         },
         {
-            "type": "實體",
+            "type": "entity",
             "name": "究極精華蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:insanium'}",
             "flag": "productivebees:insanium"
