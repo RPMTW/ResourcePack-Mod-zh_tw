@@ -87,7 +87,7 @@
             "flag": "productivebees:knightslime"
         },
         {
-            "type": "實體",
+            "type": "entity",
             "name": "騎士史萊姆史萊姆",
             "entity": "productivebees:configurable_bee{type:'productivebees:knightslime'}",
             "flag": "productivebees:knightslime"
@@ -100,7 +100,7 @@
             "flag": "productivebees:manyullyn"
         },
         {
-            "type": "實體",
+            "type": "entity",
             "name": "瑪玉靈蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:manyullyn'}",
             "flag": "productivebees:manyullyn"
@@ -113,7 +113,7 @@
             "flag": "productivebees:pig_iron"
         },
         {
-            "type": "實體",
+            "type": "entity",
             "name": "生鐵蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:pig_iron'}",
             "flag": "productivebees:pig_iron"
@@ -165,7 +165,7 @@
             "flag": "productivebees:soulsteel"
         },
         {
-            "type": "實體",
+            "type": "entity",
             "name": "魂鋼蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:soulsteel'}",
             "flag": "productivebees:soulsteel"
@@ -178,7 +178,7 @@
             "flag": "productivebees:tinkers_bronze"
         },
         {
-            "type": "實體",
+            "type": "entity",
             "name": "匠魂青銅蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:tinkers_bronze'}",
             "flag": "productivebees:tinkers_bronze"
