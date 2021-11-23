@@ -91,7 +91,7 @@
             "flag": "productivebees:arcane"
         },
         {
-            "type": "實體",
+            "type": "entity",
             "name": "奥術礦蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:arcane'}",
             "flag": "productivebees:arcane"
@@ -104,7 +104,7 @@
             "flag": "productivebees:starmetal"
         },
         {
-            "type": "實體",
+            "type": "entity",
             "name": "星輝礦蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:starmetal'}",
             "flag": "productivebees:starmetal"
@@ -117,7 +117,7 @@
             "flag": "productivebees:bloody"
         },
         {
-            "type": "實體",
+            "type": "entity",
             "name": "血蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:bloody'}",
             "flag": "productivebees:bloody"
@@ -169,7 +169,7 @@
             "flag": "productivebees:uraninite"
         },
         {
-            "type": "實體",
+            "type": "entity",
             "name": "ATM金屬蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:allthemodium'}",
             "flag": "productivebees:allthemodium"
@@ -182,7 +182,7 @@
             "flag": "productivebees:vibranium"
         },
         {
-            "type": "實體",
+            "type": "entity",
             "name": "釩金屬礦蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:vibranium'}",
             "flag": "productivebees:vibranium"
@@ -195,7 +195,7 @@
             "flag": "productivebees:unobtainium"
         },
         {
-            "type": "實體",
+            "type": "entity",
             "name": "難得素礦蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:unobtainium'}",
             "flag": "productivebees:unobtainium"
