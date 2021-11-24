@@ -18,7 +18,7 @@
             "type": "text",
             "title": "鋨礦蜂",
             "text": "由$(l:bees/hive/iron)鐵礦蜂$(/l)和$(l:bees/solitary/neon_cuckoo)霓虹杜鵑蜂$(/l)配種而得。$(br)需安裝模組： Mekanism",
-            "anchor": "鋨",
+            "anchor": "osmium",
             "flag": "productivebees:osmium"
         },
         {
@@ -31,7 +31,7 @@
             "type": "text",
             "title": "強化螢光石蜂",
             "text": "由$(l:bees/modded/mekanism#osmium)鋨礦蜂$(/l)和$(l:bees/wild/glowing)螢光石蜂$(/l)配種而得。$(br)需安裝模組： Mekanism",
-            "anchor": "強化螢光石",
+            "anchor": "refined_glowstone",
             "flag": "productivebees:refined_glowstone"
         },
         {
