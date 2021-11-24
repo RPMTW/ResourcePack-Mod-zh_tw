@@ -18,7 +18,7 @@
             "type": "text",
             "title": "岩石蜂",
             "text": "這個蜜蜂不能被配種而得。其生怪蛋製作從$(l:bees/hive/diamond)鑽石蜂$(/l)生怪蛋在冶煉爐裡使用。",
-            "anchor": "岩石人",
+            "anchor": "basalz",
             "flag": "productivebees:basalz"
         },
         {
@@ -31,7 +31,7 @@
             "type": "text",
             "title": "狂風蜂",
             "text": "這個蜜蜂不能被配種而得。其生怪蛋製作從$(l:bees/hive/diamond)鑽石蜂$(/l)生怪蛋在冶煉爐裡使用。",
-            "anchor": "狂風人",
+            "anchor": "blitz",
             "flag": "productivebees:blitz"
         },
         {
@@ -44,7 +44,7 @@
             "type": "text",
             "title": "暴雪蜂",
             "text": "這個蜜蜂不能被配種而得。其生怪蛋製作從$(l:bees/hive/diamond)鑽石蜂$(/l)生怪蛋在冷凍器裡使用。",
-            "anchor": "暴雪人",
+            "anchor": "blizz",
             "flag": "productivebees:blizz"
         },
         {
