@@ -5,7 +5,7 @@
   "advancement": "minecraft:nether/find_fortress",
   "pages": [
     {
-      "type": "text",
+      "type": "patchouli:text",
       "text": "Mending is an $(l:bewitchment:sigils/using_sigils)Active Sigil$().$(br)when activated, it will give Regeneration and Resistance to whoever activated it."
     },
     {
