@@ -6,7 +6,7 @@
   "sortnum": 1,
   "pages": [
     {
-      "type": "text",
+      "type": "patchouli:text",
       "text": "The Heavy $(l:bewitchment:sigils/using_sigils)Passive Sigil$() will magically increase fall damage on everything around it."
     },
     {
