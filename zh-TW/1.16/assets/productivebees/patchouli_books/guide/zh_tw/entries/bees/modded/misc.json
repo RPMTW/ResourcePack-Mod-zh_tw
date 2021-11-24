@@ -9,7 +9,7 @@
             "type": "text",
             "title": "矽蜂",
             "text": "由$(l:bees/solitary/nomad)遊牧蜂$(/l)和$(l:bees/solitary/reed)蘆葦蜂$(/l)。配種而得。",
-            "anchor": "矽",
+            "anchor": "silicon",
             "flag": "productivebees:silicon"
         },
         {
@@ -22,7 +22,7 @@
             "type": "text",
             "title": "塑膠蜂",
             "text": "由$(l:bees/solitary/resin)樹脂蜂$(/l)和$(l:bees/worker_bees#lumber)伐木蜂$(/l)。配種而得。",
-            "anchor": "塑膠",
+            "anchor": "plastic",
             "flag": "productivebees:plastic"
         },
         {
@@ -35,7 +35,7 @@
             "type": "text",
             "title": "終界黑雲母蜂",
             "text": "由$(l:bees/wild/crystalline)石英蜂$(/l)和$(l:bees/wild/draconic)龍族蜂$(/l)配種而得。$(br)需安裝模組： Quark",
-            "anchor": "終界黑雲母",
+            "anchor": "ender_biotite",
             "flag": "productivebees:ender_biotite"
         },
         {
@@ -48,7 +48,7 @@
             "type": "text",
             "title": "空間蜂",
             "text": "由$(l:bees/wild/crystalline)石英蜂$(/l)和$(l:bees/wild/ender)終界蜂$(/l).$(br2)需安裝模組： AE2",
-            "anchor": "空間",
+            "anchor": "spacial",
             "flag": "productivebees:spacial"
         },
         {
@@ -61,7 +61,7 @@
             "type": "text",
             "title": "硝石蜂",
             "text": "由$(l:bees/hive/coal)煤炭蜂$(/l)和$(l:bees/wild/magmatic)岩漿蜂$(/l)配種而得。",
-            "anchor": "硝石",
+            "anchor": "niter",
             "flag": "productivebees:niter"
         },
         {
@@ -74,7 +74,7 @@
             "type": "text",
             "title": "硫礦蜂",
             "text": "由$(l:bees/hive/coal)煤炭蜂$(/l)和$(l:bees/hive/creeper)苦力怕蜂$(/l)配種而得。",
-            "anchor": "硫磺",
+            "anchor": "sulfur",
             "flag": "productivebees:sulfur"
         },
         {
@@ -87,7 +87,7 @@
             "type": "text",
             "title": "奥術礦蜂",
             "text": "這個蜜蜂不能被配種而得。其生怪蛋製作從$(l:bees/hive/diamond)鑽石蜂$(/l)生怪蛋在附魔裝置裡使用。",
-            "anchor": "奧術",
+            "anchor": "arcane",
             "flag": "productivebees:arcane"
         },
         {
@@ -100,7 +100,7 @@
             "type": "text",
             "title": "星輝礦蜂",
             "text": "這個蜜蜂不能被配種而得。其生怪蛋製作從$(l:bees/hive/iron)鐵蜜蜂$(/l)生怪蛋在注魔祭壇裡使用。",
-            "anchor": "星輝礦石",
+            "anchor": "starmetal",
             "flag": "productivebees:starmetal"
         },
         {
@@ -113,7 +113,7 @@
             "type": "text",
             "title": "血蜂",
             "text": "這個蜜蜂不能被配種而得。其生怪蛋製作從$(l:bees/solitary/nomad)遊牧蜂$(/l)生怪蛋。",
-            "anchor": "血",
+            "anchor": "bloody",
             "flag": "productivebees:bloody"
         },
         {
@@ -126,7 +126,7 @@
             "type": "text",
             "title": "粉紅史萊姆蜂",
             "text": "餵食粉紅史萊姆給$(l:bees/wild/slimy)史萊姆蜂$(/l) 就會變成。",
-            "anchor": "粉紅史萊姆",
+            "anchor": "pink_slimy",
             "flag": "productivebees:pink_slimy"
         },
         {
@@ -139,7 +139,7 @@
             "type": "text",
             "title": "門瑞歐蜂",
             "text": "由$(l:bees/solitary/neon_cuckoo)霓虹杜鵑蜂$(/l)和$(l:bees/wild/crystalline)石英蜂$(/l)配種而得。",
-            "anchor": "門瑞歐",
+            "anchor": "menril",
             "flag": "productivebees:menril"
         },
         {
@@ -152,7 +152,7 @@
             "type": "text",
             "title": "鈾礦蜂",
             "text": "由$(l:bees/hive/iron)鐵礦蜂$(/l)和$(l:bees/bees/hive/creeper)苦力怕蜂$(/l)配種而得。",
-            "anchor": "鈾礦",
+            "anchor": "uraninite",
             "flag": "productivebees:uraninite"
         },
         {
@@ -165,7 +165,7 @@
             "type": "text",
             "title": "ATM金屬礦蜂",
             "text": "由$(l:bees/hive/diamond)鑽石蜂$(/l)和$(l:bees/hive/withered)凋零骷髏蜂$(/l)配種而得。",
-            "anchor": "aTM金屬",
+            "anchor": "allthemodium",
             "flag": "productivebees:uraninite"
         },
         {
@@ -178,7 +178,7 @@
             "type": "text",
             "title": "釩金屬礦蜂",
             "text": "由$(l:bees/hive/diamond)鑽石蜂$(/l)和$(l:bees/wild/draconic)龍族蜂$(/l)配種而得。",
-            "anchor": "釩金屬",
+            "anchor": "vibranium",
             "flag": "productivebees:vibranium"
         },
         {
@@ -191,7 +191,7 @@
             "type": "text",
             "title": "難得素礦蜂",
             "text": "由$(l:bees/mod_bees#allthemodium)ATM金屬蜂$(/l)和$(l:bees/mod_bees#vibranium)釩金屬蜂$(/l)配種而得。",
-            "anchor": "難得素",
+            "anchor": "unobtainium",
             "flag": "productivebees:unobtainium"
         },
         {
