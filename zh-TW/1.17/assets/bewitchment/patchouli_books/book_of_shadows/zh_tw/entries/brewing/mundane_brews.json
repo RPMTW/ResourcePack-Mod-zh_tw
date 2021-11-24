@@ -6,7 +6,7 @@
   "priority": true,
   "pages": [
     {
-      "type": "text",
+      "type": "patchouli:text",
       "text": "雖然 $(l:bewitchment:tools/witch_cauldron)女巫鍋$() 可以用來製作更不可思議的 $(l:bewitchment:brewing/brewing_basics)釀造$()，但一些女巫有時可能更喜歡使用更微妙的$(l:bewitchment:brewing/brewing_basics)釀造$().$(br)此條目中的所有 $(l:bewitchment:brewing/brewing_basics)釀造$() 都可以通過其他方式獲得，儘管 $(l: bewitchment:tools/witch_cauldron)女巫鍋$() 可以讓你使它們更強大。$(br)Mundane $(l:bewitchment:brewing/brewing_basics)釀造$() 在 $(l:bewitchment:tools/witch_cauldron 中製造)女巫鍋$() 使用的成分略有不同。"
     },
     {
@@ -104,14 +104,14 @@
       "title": "回復",
       "item": "bewitchment:juniper_bark",
       "text": "By utilizing the life energies from $(l:bewitchment:introduction/juniper_trees)Juniper$(), Regeneration quickens the healing process when applied.",
-      "anchor": "回復"
+      "anchor": "regeneration"
     },
     {
       "type": "patchouli:spotlight",
       "title": "抗性",
       "item": "bewitchment:spruce_bark",
       "text": "減少受到的傷害。",
-      "anchor": "抗性"
+      "anchor": "resistance"
     },
     {
       "type": "patchouli:spotlight",
@@ -136,7 +136,7 @@
       "title": "力量",
       "item": "bewitchment:oak_bark",
       "text": "使用橡木的力量，增加傷害輸出。",
-      "anchor": "力量"
+      "anchor": "strength"
     },
     {
       "type": "patchouli:spotlight",
