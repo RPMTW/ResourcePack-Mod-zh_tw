@@ -5,7 +5,7 @@
   "advancement": "minecraft:nether/find_fortress",
   "pages": [
     {
-      "type": "text",
+      "type": "patchouli:text",
       "text": "The $(l:bewitchment:sigils/using_sigils)Active Sigil$() of cleansing removes all harmful potion effects on whoever activates it."
     },
     {
