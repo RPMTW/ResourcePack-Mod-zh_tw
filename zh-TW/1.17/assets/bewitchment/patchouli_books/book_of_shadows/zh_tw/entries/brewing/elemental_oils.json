@@ -6,7 +6,7 @@
   "priority": true,
   "pages": [
     {
-      "type": "text",
+      "type": "patchouli:text",
       "text": "元素油是巫術中必不可少的製作成分。它們由一類 $(l:bewitchment:introduction/bark)釀造$() 和其他組件組成。$(br2)要製作幾瓶油，首先扔一塊 $(l:bewitchment:introduction /bark)釀造$() 放入沸騰的 $(l:bewitchment:tools/witch_cauldron)女巫鍋$() 中，然後加入其他成分。一旦達到令人愉悅的匹配顏色，您就可以將其裝瓶。"
     },
     {
