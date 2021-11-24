@@ -173,7 +173,7 @@
         {
             "type": "text",
             "title": "匠魂青銅蜂",
-            "text": "這個蜜蜂不能被配種而得。其生怪蛋製作從$(l:bees/modded/ingot_bees#copper)銅礦蜂$(/l)生怪蛋在澆注台使用。",
+            "text": "這個蜜蜂不能被配種而得。其生怪蛋製作從$(l:bees/modded/ingot_bees#copper)銅蜂$(/l)生怪蛋在澆注台使用。",
             "anchor": "tinkers_bronze",
             "flag": "productivebees:tinkers_bronze"
         },
