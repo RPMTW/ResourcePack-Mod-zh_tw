@@ -18,7 +18,7 @@
             "type": "text",
             "title": "終界史萊姆蜂",
             "text": "這個蜜蜂不能配種而得。其生怪蛋製作從$(l:bees/wild/slimy)史萊姆蜂$(/l)生怪蛋在澆注台使用。",
-            "anchor": "終界史萊姆",
+            "anchor": "ender_slimy",
             "flag": "productivebees:ender_slimy"
         },
         {
@@ -31,7 +31,7 @@
             "type": "text",
             "title": "神血史萊姆蜂",
             "text": "這個蜜蜂不能配種而得。其生怪蛋製作從$(l:bees/wild/slimy)史萊姆蜂$(/l)生怪蛋在澆注台使用。",
-            "anchor": "神血史萊姆",
+            "anchor": "ichor_slimy",
             "flag": "productivebees:ichor_slimy"
         },
         {
@@ -44,7 +44,7 @@
             "type": "text",
             "title": "天空史萊姆蜂",
             "text": "這個蜜蜂不能被配種而得。其生怪蛋製作從$(l:bees/wild/slimy)史萊姆蜂$(/l)生怪蛋在澆注台使用。",
-            "anchor": "天空史萊姆",
+            "anchor": "sky_slimy",
             "flag": "productivebees:sky_slimy"
         },
         {
@@ -57,7 +57,7 @@
             "type": "text",
             "title": "鈷礦蜂",
             "text": "這個蜜蜂不能被配種而得。其生怪蛋製作從$(l:bees/hive/iron)鐵蜜蜂$(/l)生怪蛋在澆注台使用。",
-            "anchor": "鈷",
+            "anchor": "cobalt",
             "flag": "productivebees:cobalt"
         },
         {
@@ -70,7 +70,7 @@
             "type": "text",
             "title": "黑科林斯青銅蜂",
             "text": "這個蜜蜂不能被配種而得。其生怪蛋製作從$(l:bees/hive/obsidian)黑曜石蜂$(/l)生怪蛋在澆注台使用。",
-            "anchor": "肝素",
+            "anchor": "hepatizon",
             "flag": "productivebees:hepatizon"
         },
         {
@@ -83,7 +83,7 @@
             "type": "text",
             "title": "史萊姆騎士蜂",
             "text": "這個蜜蜂不能被配種而得。其生怪蛋製作從$(l:bees/hive/iron)鐵蜜蜂$(/l)生怪蛋在澆注台使用。",
-            "anchor": "騎士史萊姆",
+            "anchor": "knightslime",
             "flag": "productivebees:knightslime"
         },
         {
@@ -96,7 +96,7 @@
             "type": "text",
             "title": "瑪玉靈蜂",
             "text": "這個蜜蜂不能被配種而得。其生怪蛋製從$(l:bees/hive/netherite)遠古遺骸蜂$(/l)生怪蛋在澆注台使用。",
-            "anchor": "瑪玉靈",
+            "anchor": "manyullyn",
             "flag": "productivebees:manyullyn"
         },
         {
@@ -109,7 +109,7 @@
             "type": "text",
             "title": "生鐵蜂",
             "text": "這個蜜蜂不能被配種而得。其生怪蛋製作從$(l:bees/hive/iron)鐵蜜蜂$(/l)生怪蛋在澆注台使用。",
-            "anchor": "生鐵",
+            "anchor": "pig_iron",
             "flag": "productivebees:pig_iron"
         },
         {
@@ -122,7 +122,7 @@
             "type": "text",
             "title": "皇后史萊姆蜂",
             "text": "這個蜜蜂不能被配種而得。其生怪蛋製作從$(l:bees/hive/gold)金礦蜂$(/l)生怪蛋在澆注台使用。",
-            "anchor": "皇后史萊姆",
+            "anchor": "queens_slime",
             "flag": "productivebees:queens_slime"
         },
         {
@@ -135,7 +135,7 @@
             "type": "text",
             "title": "玫瑰金礦蜂",
             "text": "這個蜜蜂不能被配種而得。其生怪蛋製作從$(l:bees/hive/gold)金礦蜂$(/l)生怪蛋在澆注台使用。",
-            "anchor": "玫瑰金",
+            "anchor": "rose_gold",
             "flag": "productivebees:rose_gold"
         },
         {
@@ -148,7 +148,7 @@
             "type": "text",
             "title": "史萊姆鋼蜂",
             "text": "這個蜜蜂不能被配種而得。其生怪蛋製作從$(l:bees/hive/iron)鐵蜜蜂$(/l)生怪蛋在澆注台使用。",
-            "anchor": "史萊姆鋼",
+            "anchor": "slimesteel",
             "flag": "productivebees:slimesteel"
         },
         {
@@ -161,7 +161,7 @@
             "type": "text",
             "title": "魂鋼蜂",
             "text": "這個蜜蜂不能被配種而得。其生怪蛋製作從$(l:bees/modded/tconstruct#cobalt)鈷礦蜂$(/l)生怪蛋在澆注台使用。",
-            "anchor": "靈魂鋼",
+            "anchor": "soulsteel",
             "flag": "productivebees:soulsteel"
         },
         {
@@ -174,7 +174,7 @@
             "type": "text",
             "title": "匠魂青銅蜂",
             "text": "這個蜜蜂不能被配種而得。其生怪蛋製作從$(l:bees/modded/ingot_bees#copper)銅礦蜂$(/l)生怪蛋在澆注台使用。",
-            "anchor": "匠魂青銅",
+            "anchor": "tinkers_bronze",
             "flag": "productivebees:tinkers_bronze"
         },
         {
