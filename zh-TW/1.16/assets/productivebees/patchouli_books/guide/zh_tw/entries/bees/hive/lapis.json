@@ -8,8 +8,8 @@
         {
             "type": "text",
             "title": "青金石蜂",
-            "text": "由$(l:bees/hive_bees#redstone)紅石蜂$(/l)和$(l:bees/solitary_bees#blue_banded)青條花蜂$(/l)配種而得。",
-            "anchor": "青金石"
+            "text": "由$(l:bees/hive/redstone)紅石蜂$(/l)和$(l:bees/solitary/blue_banded)青條花蜂$(/l)配種而得。",
+            "anchor": "lapis"
         },
         {
             "type": "entity",
