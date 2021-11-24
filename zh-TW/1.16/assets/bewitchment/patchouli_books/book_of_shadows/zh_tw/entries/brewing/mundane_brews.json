@@ -104,14 +104,14 @@
       "title": "回復",
       "item": "bewitchment:juniper_bark",
       "text": "By utilizing the life energies from $(l:bewitchment:introduction/juniper_trees)Juniper$(), Regeneration quickens the healing process when applied.",
-      "anchor": "回復"
+      "anchor": "regeneration"
     },
     {
       "type": "spotlight",
       "title": "抗性",
       "item": "bewitchment:spruce_bark",
       "text": "減少受到的傷害。",
-      "anchor": "抗性"
+      "anchor": "resistance"
     },
     {
       "type": "spotlight",
@@ -136,7 +136,7 @@
       "title": "力量",
       "item": "bewitchment:oak_bark",
       "text": "使用橡木的力量，增加傷害輸出。",
-      "anchor": "力量"
+      "anchor": "strength"
     },
     {
       "type": "spotlight",
