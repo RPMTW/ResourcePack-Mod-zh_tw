@@ -21,7 +21,7 @@
         {
             "type": "text",
             "title": "塑膠蜂",
-            "text": "由$(l:bees/solitary/resin)樹脂蜂$(/l)和$(l:bees/worker_bees#lumber)伐木蜂$(/l)。配種而得。",
+            "text": "由$(l:bees/solitary/resin)樹脂蜂$(/l)和$(l:bees/worker_bees#lumber)伐木蜂$(/l)配種而得。",
             "anchor": "plastic",
             "flag": "productivebees:plastic"
         },
@@ -34,7 +34,7 @@
         {
             "type": "text",
             "title": "終界黑雲母蜂",
-            "text": "由$(l:bees/wild/crystalline)石英蜂$(/l)和$(l:bees/wild/draconic)龍族蜂$(/l)配種而得。$(br)需安裝模組： Quark",
+            "text": "由$(l:bees/wild/crystalline)石英蜂$(/l)和$(l:bees/wild/draconic)龍族蜂$(/l)配種而得。$(br)需安裝模組：《夸克》（Quark）",
             "anchor": "ender_biotite",
             "flag": "productivebees:ender_biotite"
         },
@@ -47,7 +47,7 @@
         {
             "type": "text",
             "title": "空間蜂",
-            "text": "由$(l:bees/wild/crystalline)石英蜂$(/l)和$(l:bees/wild/ender)終界蜂$(/l).$(br2)需安裝模組： AE2",
+            "text": "由$(l:bees/wild/crystalline)石英蜂$(/l)和$(l:bees/wild/ender)終界蜂$(/l)配種而得。$(br2)可以離心這種蜜蜂的蜂巢以獲得需要進一步處理的石英種子。",
             "anchor": "spacial",
             "flag": "productivebees:spacial"
         },
@@ -72,14 +72,14 @@
         },
         {
             "type": "text",
-            "title": "硫礦蜂",
+            "title": "硫磺蜂",
             "text": "由$(l:bees/hive/coal)煤炭蜂$(/l)和$(l:bees/hive/creeper)苦力怕蜂$(/l)配種而得。",
             "anchor": "sulfur",
             "flag": "productivebees:sulfur"
         },
         {
             "type": "entity",
-            "name": "硫礦蜂",
+            "name": "硫磺蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:sulfur'}",
             "flag": "productivebees:sulfur"
         },
