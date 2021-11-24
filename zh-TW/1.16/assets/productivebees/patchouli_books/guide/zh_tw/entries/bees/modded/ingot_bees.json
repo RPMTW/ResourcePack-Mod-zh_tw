@@ -94,7 +94,7 @@
         {
             "type": "text",
             "title": "琥珀金蜂",
-            "text": "由$(l:bees/hive/gold)金礦蜂$(/l)和$(l:bees/modded/ingot_bees#silver)銀礦蜂$(/l)配種而得。",
+            "text": "由$(l:bees/hive/gold)黃金蜂$(/l)和$(l:bees/modded/ingot_bees#silver)銀蜂$(/l)配種而得。",
             "anchor": "electrum",
             "flag": "productivebees:electrum"
         },
@@ -146,7 +146,7 @@
         {
             "type": "text",
             "title": "流明蜂",
-            "text": "由$(l:bees/modded/ingot_bees#silver)銀礦蜂$(/l)和$(l:bees/modded/ingot_bees#tin)錫礦蜂$(/l)配種而得。",
+            "text": "由$(l:bees/modded/ingot_bees#silver)銀蜂$(/l)和$(l:bees/modded/ingot_bees#tin)錫蜂$(/l)配種而得。",
             "anchor": "lumium",
             "flag": "productivebees:lumium"
         },
@@ -211,7 +211,7 @@
         {
             "type": "text",
             "title": "信素蜂",
-            "text": "由$(l:bees/modded/ingot_bees#silver)銀蜂$(/l)和$(l:bees/modded/ingot_bees#copper)銅蜂$(/l).",
+            "text": "由$(l:bees/modded/ingot_bees#silver)銀蜂$(/l)和$(l:bees/modded/ingot_bees#copper)銅蜂$(/l)配種而得。",
             "anchor": "signalum",
             "flag": "productivebees:signalum"
         },
@@ -230,13 +230,13 @@
         },
         {
             "type": "entity",
-            "name": "銀礦蜂",
+            "name": "銀蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:silver'}",
             "flag": "productivebees:silver"
         },
         {
             "type": "text",
-            "title": "鋼蜂",
+            "title": "鋼鐵蜂",
             "text": "由$(l:bees/hive/iron)鐵礦蜂$(/l)和$(l:bees/hive/coal)煤炭蜂$(/l)配種而得。",
             "anchor": "steel",
             "flag": "productivebees:steel"
@@ -249,46 +249,46 @@
         },
         {
             "type": "text",
-            "title": "錫礦蜂",
+            "title": "錫蜂",
             "text": "由$(l:bees/wild/crystalline)石英蜂$(/l)和$(l:bees/solitary/ashy_mining)灰色採礦蜂$(/l)配種而得。",
             "anchor": "tin",
             "flag": "productivebees:tin"
         },
         {
             "type": "entity",
-            "name": "錫礦蜂",
+            "name": "錫蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:tin'}",
             "flag": "productivebees:tin"
         },
         {
             "type": "text",
-            "title": "鈦礦蜂",
+            "title": "鈦蜂",
             "text": "由$(l:bees/hive/iron)鐵礦蜂$(/l)和$(l:bees/bees/hive/diamond)鑽石蜂$(/l)配種而得。",
             "anchor": "titanium",
             "flag": "productivebees:titanium"
         },
         {
             "type": "entity",
-            "name": "鈦礦蜂",
+            "name": "鈦蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:titanium'}",
             "flag": "productivebees:titanium"
         },
         {
             "type": "text",
-            "title": "鎢礦",
+            "title": "鎢蜂",
             "text": "由$(l:bees/hive/coal)煤炭蜂$(/l)和$(l:bees/wild/ender)終界蜂$(/l)配種而得。",
             "anchor": "tungsten",
             "flag": "productivebees:tungsten"
         },
         {
             "type": "entity",
-            "name": "鎢礦蜂",
+            "name": "鎢蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:tungsten'}",
             "flag": "productivebees:tungsten"
         },
         {
             "type": "text",
-            "title": "鋅蜜蜂",
+            "title": "鋅蜂",
             "text": "由$(l:bees/hive/iron)鐵礦蜂$(/l)和$(l:bees/solitary/sweaty)汗水蜂$(/l)配種而得。",
             "anchor": "zinc",
             "flag": "productivebees:zinc"
