@@ -6,7 +6,7 @@
   "sortnum": 1,
   "pages": [
     {
-      "type": "text",
+      "type": "patchouli:text",
       "text": "The Shadows $(l:bewitchment:sigils/using_sigils)Passive Sigil$() casts a magical aura of darkness around it, preventing scrying from $(l:bewitchment:tools/crystal_ball)Crystal Balls$() that aim around it."
     },
     {
