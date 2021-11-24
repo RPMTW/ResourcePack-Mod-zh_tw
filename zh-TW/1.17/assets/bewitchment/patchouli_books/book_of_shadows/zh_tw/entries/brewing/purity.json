@@ -5,7 +5,7 @@
   "advancement": "bewitchment:hidden_unlocks/altars",
   "pages": [
     {
-      "type": "text",
+      "type": "patchouli:text",
       "text": "By applying the cleansing powers of Birch, the Purity effect can weaken the effects of harmful statuses.$(br2)For each intensity, this effect will reduce the power of a negative effect, also reducing its own power."
     },
     {
