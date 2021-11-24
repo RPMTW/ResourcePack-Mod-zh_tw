@@ -6,7 +6,7 @@
   "sortnum": 1,
   "pages": [
     {
-      "type": "text",
+      "type": "patchouli:text",
       "text": "The Extending $(l:bewitchment:sigils/using_sigils)Passive Sigil$() will double the duration of any nearby $(l:bewitchment:tools/brazier#incense)Incense$() around it."
     },
     {
