@@ -5,7 +5,7 @@
   "advancement": "bewitchment:hidden_unlocks/taglock",
   "pages": [
     {
-      "type": "text",
+      "type": "patchouli:text",
       "text": "Poppet Shelves make for nice furniture. They can store up to nine $(l:bewitchment:poppets/poppet_practice)Poppets$(), which are all active.$(br2)This makes Poppet Shelves good for freeing up inventory space, while still having all $(l:bewitchment:poppets/poppet_practice)Poppets$() ready."
     },
     {
