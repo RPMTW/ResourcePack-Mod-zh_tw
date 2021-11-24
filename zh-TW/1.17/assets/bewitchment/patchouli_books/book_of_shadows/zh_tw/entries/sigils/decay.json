@@ -5,7 +5,7 @@
   "advancement": "minecraft:nether/find_fortress",
   "pages": [
     {
-      "type": "text",
+      "type": "patchouli:text",
       "text": "Decay is an $(l:bewitchment:sigils/using_sigils)Active Sigil$() that, when activated, will apply a strong Wither effect."
     },
     {
