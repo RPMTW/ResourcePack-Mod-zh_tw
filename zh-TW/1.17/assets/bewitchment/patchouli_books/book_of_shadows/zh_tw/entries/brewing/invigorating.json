@@ -5,7 +5,7 @@
   "advancement": "bewitchment:hidden_unlocks/altars",
   "pages": [
     {
-      "type": "text",
+      "type": "patchouli:text",
       "text": "這將以固定的數量填充消耗它的人的$(l:bewitchment:introduction/altars#internalme)內部ME緩衝區$()。"
     },
     {
