@@ -4,7 +4,7 @@
   "icon": "minecraft:tropical_fish",
   "pages": [
     {
-      "type": "text",
+      "type": "patchouli:text",
       "text": {
         "translate": "patchouli.gui.lexicon.reloaded",
         "with": [
