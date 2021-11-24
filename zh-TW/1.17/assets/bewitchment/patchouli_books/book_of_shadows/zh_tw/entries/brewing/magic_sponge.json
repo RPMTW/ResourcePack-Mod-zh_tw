@@ -5,7 +5,7 @@
   "advancement": "minecraft:nether/find_fortress",
   "pages": [
     {
-      "type": "text",
+      "type": "patchouli:text",
       "text": "魔法海綿會減少魔法來源的傷害，然後根據傷害重新填充目標的 $(l:bewitchment:introduction/altars#internalme)內部ME緩衝$()。"
     },
     {
