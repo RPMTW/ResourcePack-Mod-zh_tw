@@ -5,7 +5,7 @@
   "advancement": "bewitchment:hidden_unlocks/altars",
   "pages": [
     {
-      "type": "text",
+      "type": "patchouli:text",
       "text": "Polymorph must be one of the most versatile effects. Players under the Polymorph effect change their form into the target of the $(l:bewitchment:tools/taglock)Taglock$() used.$(br2)The Brew can be made into a Splash Potion or similar variants, just like other brews."
     },
     {
