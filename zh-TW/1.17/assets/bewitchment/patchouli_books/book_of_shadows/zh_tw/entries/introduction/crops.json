@@ -4,7 +4,7 @@
   "icon": "bewitchment:mandrake_root",
   "pages": [
     {
-      "type": "text",
+      "type": "patchouli:text",
       "text": "Witchcraft utilizes several natural crops for the art. These crops are used for $(l:bewitchment:rituals/rituals)Rituals$(), $(l:bewitchment:brewing/brewing_basics)Brewing$(), and many other things.$(br2)Seeds for these crops can be found in wild grass, much like other seeds."
     },
     {
