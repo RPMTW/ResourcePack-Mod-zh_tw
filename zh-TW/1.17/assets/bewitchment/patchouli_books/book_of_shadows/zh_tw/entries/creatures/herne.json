@@ -5,7 +5,7 @@
   "advancement": "bewitchment:hidden_unlocks/demon_heart",
   "pages": [
     {
-      "type": "text",
+      "type": "patchouli:text",
       "text": "Herne, the Lord of the Wild Hunt, is commonly $(l:bewitchment:tools/grotesque_stew)Pledged$() to by suffering $(l:bewitchment:curses/lycanthropy)Lycanthropes$(). He can grant almost total control over the $(l:bewitchment:curses/conducting_curses)Curse$(), allowing victims to transform at will. Alternatively, he can be offered $(l:bewitchment:introduction/crops)Aconite$(), removing the $(l:bewitchment:curses/conducting_curses)Curse$() entirely.$(br2)Summoning him is rather elaborate, and will be outlined in this entry."
     },
     {
