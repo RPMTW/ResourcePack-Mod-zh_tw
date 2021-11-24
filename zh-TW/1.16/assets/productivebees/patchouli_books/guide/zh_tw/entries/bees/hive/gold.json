@@ -1,5 +1,5 @@
 {
-    "name": "金蜜蜂",
+    "name": "黃金蜂",
     "icon": "minecraft:gold_ingot",
     "read_by_default": true,
     "category": "productivebees:bees_hive",
@@ -7,9 +7,9 @@
     "pages": [
         {
             "type": "text",
-            "title": "金蜜蜂",
-            "text": "由$(l:bees/wild_bees#crystalline)石英蜂$(/l)和$(l:bees/solitary_bees#mason)壁蜂$(/l)配種而得。",
-            "anchor": "金"
+            "title": "黃金蜂",
+            "text": "由$(l:bees/wild/crystalline)石英蜂$(/l)和$(l:bees/solitary/mason)壁蜂$(/l)配種而得。",
+            "anchor": "gold"
         },
         {
             "type": "entity",
