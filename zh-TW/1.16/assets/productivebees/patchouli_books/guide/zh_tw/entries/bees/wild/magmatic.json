@@ -1,13 +1,13 @@
 {
-    "name": "熔岩蜂",
+    "name": "岩漿蜂",
     "icon": "minecraft:magma_block",
     "read_by_default": true,
     "category": "productivebees:bees_wild",
     "pages": [
         {
             "type": "text",
-            "title": "熔岩蜂",
-            "text": "被發現生活在地獄要塞中的地獄磚蜂窩。熔岩蜂喜歡採集岩漿塊或地獄疙瘩。",
+            "title": "岩漿蜂",
+            "text": "被發現生活在地獄要塞中的地獄磚蜂窩。岩漿蜂喜歡採集岩漿塊或地獄疙瘩。",
             "anchor": "magmatic"
         },
         {
