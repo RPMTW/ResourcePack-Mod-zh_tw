@@ -6,11 +6,11 @@
         {
             "type": "spotlight",
             "item": "productivebees:catcher",
-            "text": "用籠子裝滿它，它會抓住任何飛過它的蜜蜂。 你可以在上面放一朵花或 $(l:blocks/feeder)餵食器$(/l) 來吸引蜜蜂。"
+            "text": "用籠子裝滿它，它會抓住任何飛過它的蜜蜂。 你可以在上面放一朵花或 $(l:blocks/feeder)餵食半磚$(/l) 來吸引蜜蜂。"
         },
         {
             "type": "text",
-            "text": "捕捉器接受三個升級； $(l:items/upgrades#babee)小蜜蜂過濾$(/l) 將過濾掉成年蜜蜂，只捕獲 小蜜蜂。 $(l:items/upgrades#filter)過濾升級$(/l) 將只捕獲過濾器上的蜜蜂。 A $(l:items/upgrades#range)範圍升級$(/l) 將增加範圍。 可以安裝多個範圍升級。"
+            "text": "捕捉器接受三個升級：$(l:items/upgrades#babee)幼蜂過濾$(/l) 將過濾掉成年蜜蜂，只捕獲幼蜂； $(l:items/upgrades#filter)過濾升級$(/l)將只捕獲過濾器上的蜜蜂；$(l:items/upgrades#range)範圍升級$(/l)將增加範圍。可以安裝多個範圍升級。"
         }
     ]
 }
