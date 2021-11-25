@@ -98,14 +98,14 @@
         },
         {
             "type": "text",
-            "title": "星輝礦蜂",
-            "text": "這個蜜蜂不能被配種而得。其生怪蛋製作從$(l:bees/hive/iron)鐵蜜蜂$(/l)生怪蛋在注魔祭壇裡使用。",
+            "title": "星輝錠蜂",
+            "text": "這個蜜蜂不能被配種而得。其生怪蛋製作從$(l:bees/hive/iron)鐵蜂$(/l)生怪蛋在注魔祭壇裡使用。",
             "anchor": "starmetal",
             "flag": "productivebees:starmetal"
         },
         {
             "type": "entity",
-            "name": "星輝礦蜂",
+            "name": "星輝錠蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:starmetal'}",
             "flag": "productivebees:starmetal"
         },
@@ -150,53 +150,53 @@
         },
         {
             "type": "text",
-            "title": "鈾礦蜂",
-            "text": "由$(l:bees/hive/iron)鐵礦蜂$(/l)和$(l:bees/bees/hive/creeper)苦力怕蜂$(/l)配種而得。",
+            "title": "鈾蜂",
+            "text": "由$(l:bees/hive/iron)鐵蜂$(/l)和$(l:bees/bees/hive/creeper)苦力怕蜂$(/l)配種而得。",
             "anchor": "uraninite",
             "flag": "productivebees:uraninite"
         },
         {
             "type": "entity",
-            "name": "鈾礦蜂",
+            "name": "鈾蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:uraninite'}",
             "flag": "productivebees:uraninite"
         },
         {
             "type": "text",
-            "title": "ATM金屬礦蜂",
-            "text": "由$(l:bees/hive/diamond)鑽石蜂$(/l)和$(l:bees/hive/withered)凋零骷髏蜂$(/l)配種而得。",
+            "title": "ATM 金屬蜂",
+            "text": "由$(l:bees/hive/diamond)鑽石蜂$(/l)和$(l:bees/hive/withered)凋零蜂$(/l)配種而得。",
             "anchor": "allthemodium",
             "flag": "productivebees:uraninite"
         },
         {
             "type": "entity",
-            "name": "ATM金屬蜂",
+            "name": "ATM 金屬蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:allthemodium'}",
             "flag": "productivebees:allthemodium"
         },
         {
             "type": "text",
-            "title": "釩金屬礦蜂",
+            "title": "汎金屬蜂",
             "text": "由$(l:bees/hive/diamond)鑽石蜂$(/l)和$(l:bees/wild/draconic)龍族蜂$(/l)配種而得。",
             "anchor": "vibranium",
             "flag": "productivebees:vibranium"
         },
         {
             "type": "entity",
-            "name": "釩金屬礦蜂",
+            "name": "汎金屬蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:vibranium'}",
             "flag": "productivebees:vibranium"
         },
         {
             "type": "text",
-            "title": "難得素礦蜂",
-            "text": "由$(l:bees/mod_bees#allthemodium)ATM金屬蜂$(/l)和$(l:bees/mod_bees#vibranium)釩金屬蜂$(/l)配種而得。",
+            "title": "難得素蜂",
+            "text": "由$(l:bees/mod_bees#allthemodium)ATM 金屬蜂$(/l)和$(l:bees/mod_bees#vibranium)汎金屬蜂$(/l)配種而得。",
             "anchor": "unobtainium",
             "flag": "productivebees:unobtainium"
         },
         {
             "type": "entity",
-            "name": "難得素礦蜂",
+            "name": "難得素蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:unobtainium'}",
             "flag": "productivebees:unobtainium"
         }
