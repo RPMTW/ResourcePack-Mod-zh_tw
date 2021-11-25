@@ -1,5 +1,5 @@
 {
-    "name": "神秘農業",
+    "name": "神祕農業",
     "icon": "mysticalagriculture:infusion_altar",
     "read_by_default": true,
     "sortnum": 8,
@@ -8,7 +8,7 @@
     "pages": [
         {
             "type": "text",
-            "text": "用於神秘農業以及附屬的完全平衡的蜜蜂。"
+            "text": "用於神祕農業以及附屬的完全平衡的蜜蜂。"
         },
         {
             "type": "empty",
@@ -16,7 +16,7 @@
         },
         {
             "type": "text",
-            "title": "繁榮蜜蜂",
+            "title": "活化水晶蜂",
             "text": "這個蜜蜂不能配種而得。其生怪蛋製作從$(l:bees/mod/bees/mystical_agriculture#inferium)下級精華$(/l)生怪蛋在注魔祭壇使用。",
             "anchor": "prosperity",
             "flag": "productivebees:prosperity"
@@ -29,14 +29,14 @@
         },
         {
             "type": "text",
-            "title": "離魂礦蜂",
+            "title": "離魂蜂",
             "text": "從$(l:bees/wild/ghostly)幽靈蜂$(/l)用離魂匕首轉換而得。",
             "anchor": "soulium",
             "flag": "productivebees:soulium"
         },
         {
             "type": "entity",
-            "name": "離魂礦蜂",
+            "name": "離魂蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:soulium'}",
             "flag": "productivebees:soulium"
         },
