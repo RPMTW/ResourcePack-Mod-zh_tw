@@ -1,16 +1,16 @@
 {
-    "name": "Gene Indexer",
+    "name": "基因索引器",
     "icon": "productivebees:gene_indexer",
     "category": "productivebees:blocks",
     "pages": [
         {
             "type": "spotlight",
             "item": "productivebees:gene_indexer",
-            "text": "Are you drowning in gene samples? Are you getting RSI from combining genes? Then this block is for you!"
+            "text": "你被基因樣本淹沒了嗎？你是否藉由組合基因獲得 RSI？那麼這個方塊是給你的！"
         },
         {
             "type": "text",
-            "text": "Fill up this extra big container with all the genes you have lying around, flip a switch and watch as the automated internal gene indexer thingy combines the genes for you. It might not be the most efficient way...but it's automated!\nNeeds a redstone signal."
+            "text": "用你身邊所有的基因填滿這個額外的大容器，打開一個開關，看著自動化的內部基因索引器為你組合基因。這可能不是最有效的方式……但它是自動化的！\n需要紅石信號。"
         }
     ]
 }
