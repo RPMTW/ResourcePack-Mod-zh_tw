@@ -16,12 +16,12 @@
         {
             "type": "crafting",
             "recipe": "productivebees:upgrades/breeding",
-            "text": "可用於: $(l:hives/advanced_hives#expanded)擴展蜂箱$(/l), $(l:blocks/catcher)捕捉器$(/l)。",
+            "text": "可用於：$(l:hives/advanced_hives#expanded)擴展蜂箱$(/l)、$(l:blocks/catcher)捕捉器$(/l)。",
             "anchor": "babee"
         },
         {
             "type": "text",
-            "text": "當安裝在蜂巢中時，小蜜蜂升級將為生活在蜂巢內的蜜蜂提供一個很小的機會來繁殖和生產新的後代，而無需您的參與。 $(br)當安裝在 $(l:blocks/catcher)捕捉器$(/l) 中時，只有小蜜蜂會被捕獲並放在籠子裡。"
+            "text": "當安裝在蜂巢中時，幼蜂升級將為生活在蜂巢內的蜜蜂提供一個很小的機會來繁殖和生產新的後代，而無需您的參與。$(br)當安裝在$(l:blocks/catcher)捕捉器$(/l)中時，只有幼蜂會被捕獲並放在籠子裡。"
         },
         {
             "type": "crafting",
@@ -36,27 +36,27 @@
         {
             "type": "crafting",
             "recipe": "productivebees:upgrades/time",
-            "text": "可用於: $(l:hives/advanced_hives#expanded)擴展蜂箱$(/l), $(l:blocks/centrifuge)離心機$(/l), $(l:blocks/incubator)孵化器$(/l)。",
+            "text": "可用於：$(l:hives/advanced_hives#expanded)擴展蜂箱$(/l)、$(l:blocks/centrifuge)離心機$(/l)、$(l:blocks/incubator)孵化器$(/l)。",
             "anchor": "speed"
         },
         {
             "type": "text",
-            "text": "當安裝在蜂巢中時，速度升級將減少蜜蜂在蜂巢內停留的時間。 $(br)當安裝在$(l:blocks/centrifuge)離心機$(/l)或$(l:blocks/incubator)孵化器$(/l)中時，會提高運行速度"
+            "text": "當安裝在蜂巢中時，速度升級將減少蜜蜂在蜂巢內停留的時間。 $(br)當安裝在$(l:blocks/centrifuge)離心機$(/l)或$(l:blocks/incubator)孵化器$(/l)中時，會提高運作速度"
         },
         {
             "type": "crafting",
             "recipe": "productivebees:upgrades/filter",
-            "text": "可用於: $(l:hives/advanced_hives#expanded)擴展蜂箱$(/l), $(l:blocks/catcher)捕捉器$(/l)。",
+            "text": "可用於：$(l:hives/advanced_hives#expanded)擴展蜂箱$(/l)、$(l:blocks/catcher)捕捉器$(/l)。",
             "anchor": "filter"
         },
         {
             "type": "text",
-            "text": "右鍵單擊蜜蜂以將其添加到過濾器。 將過濾器放入製作網格中以清除它。 當安裝在蜂巢中時，只允許過濾器上指定的蜜蜂進入。 $(br)當安裝在捕捉器中時，只有過濾器上指定的蜜蜂會被捕獲。"
+            "text": "在蜜蜂上按右鍵來將其添加到過濾器。將過濾器放入合成格中來清除。安裝在蜂巢中時，只允許過濾器上指定的蜜蜂進入。$(br)安裝在捕捉器中時，只有過濾器上指定的蜜蜂會被捕獲。"
         },
         {
             "type": "crafting",
             "recipe": "productivebees:upgrades/range",
-            "text": "可用於: $(l:blocks/catcher)捕捉器$(/l)。",
+            "text": "可用於：$(l:blocks/catcher)捕捉器$(/l)。",
             "anchor": "range"
         },
         {
@@ -71,7 +71,7 @@
         },
         {
             "type": "text",
-            "text": "當安裝在蜂巢中時，蜜蜂會產生蜂巢塊而不是蜂巢。"
+            "text": "當安裝在蜂箱中時，可以傳送的蜜蜂在升級後居住在蜂箱中時將不再傳送。"
         },
         {
             "type": "crafting",
@@ -81,7 +81,7 @@
         },
         {
             "type": "text",
-            "text": "當安裝在蜂巢中時，可以傳送的蜜蜂在升級後居住在蜂巢中時將不再傳送。"
+            "text": "當安裝在蜂箱中時，每次訪問都會提取一小部分授粉蜜蜂。根本不應該傷害牠們。"
         }
     ]
 }
