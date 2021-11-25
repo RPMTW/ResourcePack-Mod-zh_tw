@@ -1,16 +1,16 @@
 {
-    "name": "蜂蜜發電機",
+    "name": "蜂蜜生產器",
     "icon": "productivebees:honey_generator",
     "category": "productivebees:blocks",
     "pages": [
         {
             "type": "spotlight",
             "item": "productivebees:honey_generator",
-            "text": "燃燒蜂蜜來發電。 蜂蜜可以用管道輸送，也可以在 GUI 中添加蜂蜜瓶、塊和桶"
+            "text": "燃燒蜂蜜來產生能量。蜂蜜可以用管道輸送，也可以在介面中添加蜂蜜瓶、方塊和桶"
         },
         {
             "type": "text",
-            "text": "A Honey Generator accepts two upgrades; A $(l:items/upgrades#productivity)Productivity upgrade$(/l) will lower the honey consumption. $(l:items/upgrades#speed)Speed upgrade$(/l) will increase the...speed."
+            "text": "蜂蜜生產器接受兩次升級：$(l:items/upgrades#productivity)產率升級$(/l)將降低蜂蜜消耗量，$(l:items/upgrades#speed)速度升級$(/l)將提高……速度。"
         }
     ]
 }
