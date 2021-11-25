@@ -1,5 +1,5 @@
 {
-    "name": "Collector Bee",
+    "name": "收藏蜂",
     "icon": "minecraft:hopper",
     "read_by_default": true,
     "sortnum": 5,
@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "text",
-            "title": "Collector Bee",
+            "title": "收藏蜂",
             "text": "會撿拾附近地上的物品並放回蜂箱。$(br)結合農夫蜂就可成為自動化農場了。"
         },
         {
