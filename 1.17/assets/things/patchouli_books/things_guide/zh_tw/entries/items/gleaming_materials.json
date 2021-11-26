@@ -1,0 +1,16 @@
+{
+  "name": "Gleaming Materials",
+  "icon": "things:gleaming_powder",
+  "category": "things:items",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(item)Gleaming Powder$(), mined from $(l:things:blocks/gleaming_ore)Gleaming Ore$(), possesses some pretty useful magical abilities, to the point where some deranged individuals might consider it a primitive form of life. Although useless in and of itself, it does enable the creation of a wide range of utilities and trinkets."
+    },
+    {
+      "type": "crafting",
+      "recipe": "things:gleaming_compound",
+      "text": "Something else to try is covering a $(item)Diamond$() in it, which results in the even more powerful $(item)Gleaming Compound$()."
+    }
+  ]
+}

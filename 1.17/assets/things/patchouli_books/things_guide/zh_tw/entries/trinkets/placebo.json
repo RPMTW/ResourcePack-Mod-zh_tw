@@ -1,0 +1,16 @@
+{
+  "name": "Placebo",
+  "icon": "things:placebo",
+  "category": "things:trinkets",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Whilst producing mass-amounts of potions is not the most straining task imaginable, saving some would no doubt be useful. The $(item)Placebo$() might just about help with this. It sometimes decides, unbeknownst to you, to replace the potion you're drinking with a placebo yet somehow preserve the effects"
+    },
+    {
+      "type": "crafting",
+      "recipe": "things:placebo",
+      "text": "How it accomplishes this is currently unknown, \"it just works\""
+    }
+  ]
+}

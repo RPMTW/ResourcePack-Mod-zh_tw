@@ -1,0 +1,16 @@
+{
+  "name": "Enchanted Wax Gland",
+  "icon": "things:enchanted_wax_gland",
+  "category": "things:trinkets",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Strapping a $(item)Wax Gland$() to your feet is actually a great idea. Similar to its paragon in nature, a waxed lower body makes you float. Moreover, the $(item)Gleaming Compound$() mixed into this particular gland bestows upon you great speed in water, turning it a very effective means of transport."
+    },
+    {
+      "type": "crafting",
+      "recipe": "things:enchanted_wax_gland",
+      "text": "As great as these powers are, heat is their downfall. This could be remedied however, if you were to to wear the gland in conjunction with a $(l:things:trinkets/hades_crystal)Hades Crystal$()"
+    }
+  ]
+}

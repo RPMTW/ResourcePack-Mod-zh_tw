@@ -1,0 +1,16 @@
+{
+  "name": "Glowstone Fixtures",
+  "icon": "things:quartz_glowstone_fixture",
+  "category": "things:blocks",
+  "pages": [
+    {
+      "type": "text",
+      "text": "A piece of Glowstone conveniently mounted on a small plate. Glows as bright as Glowstone and has pretty particles.$(p)Pretty neat, huh"
+    },
+    {
+      "type": "crafting",
+      "recipe": "things:quartz_glowstone_fixture",
+      "recipe2": "things:stone_glowstone_fixture"
+    }
+  ]
+}

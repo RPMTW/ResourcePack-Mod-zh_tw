@@ -1,0 +1,19 @@
+{
+  "name": "Apple",
+  "icon": "minecraft:apple",
+  "category": "things:items",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Apples are food items that can be eaten by the player.$(p)To eat an apple, press and hold use while it is selected in the hotbar or put it in your face. Eating one restores 4 hunger and 2.4 saturation.$(p)Placing an apple into a composter has a 65% (13⁄20) chance of raising the compost level by 1."
+    },
+    {
+      "type": "image",
+      "images": [
+        "things:textures/gui/apple_patchouli.png"
+      ],
+      "border": true,
+      "text": "How to correctly install $(#ff0000)Apple$()"
+    }
+  ]
+}

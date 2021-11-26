@@ -1,0 +1,19 @@
+{
+  "name": "Gleaming Ore",
+  "icon": "things:gleaming_ore",
+  "category": "things:blocks",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(item)Gleaming Ore$() is most important in the majority of endeavours aiming to create a $(thing)Thing$(). It can be found deep within the bowels of the earth, and will drop some $(l:things:items/gleaming_materials)Gleaming Powder$() if harvested using at least a $(item)Diamond Pickaxe$(). Enchanting this tool with $(thing)Fortune$() could prove useful when ore is sparse, although the increase in yield might disappoint."
+    },
+    {
+      "type": "image",
+      "images": [
+        "things:textures/gui/gleaming_ore_patchouli.png"
+      ],
+      "border": true,
+      "text": "Some $(item)Gleaming Ore$() in it's natural habitat. $(o)$(#999999)It glows"
+    }
+  ]
+}

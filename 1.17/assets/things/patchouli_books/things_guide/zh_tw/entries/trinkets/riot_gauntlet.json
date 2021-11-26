@@ -1,0 +1,15 @@
+{
+  "name": "Riot Gauntlet",
+  "icon": "things:riot_gauntlet",
+  "category": "things:trinkets",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Utilizing $(item)Gleaming Compound$()'s magical properties and the pure blunt force of two $(item)Netherite Ingots$() to the face, the $(item)Riot Gauntlet$() enhances its wearers strength significantly. Dismembering a lone Zombie proves effortless even without a weapon, making the Gauntlet a warrior's best friend."
+    },
+    {
+      "type": "crafting",
+      "recipe": "things:riot_gauntlet"
+    }
+  ]
+}

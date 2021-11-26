@@ -1,0 +1,23 @@
+{
+  "name": "Displacement Tome",
+  "icon": "things:displacement_tome",
+  "category": "things:items",
+  "pages": [
+    {
+      "type": "text",
+      "text": "It turns out that by taking advantage of $(item)Glowing Ink's$() peculiar properties, an $(item)Ender Pearl$() can be instructed to take the user to a specific location stored on a $(item)Displacement Page$(). These pages are too fragile to be used on their own however, and as such need to be contained in a $(item)Displacement Tome$(). The added bonus is that it allows one to inscribe said pages."
+    },
+    {
+      "type": "text",
+      "text": "This is achieved by opening the Tome when in possession of one or more $(item)Displacement Pages$() and clicking the $(thing)+$() icon, which will create a new entry in the Tome and insert the page. One can edit a page's content by $(thing)Right-Clicking$(), which even allows the user to discard it! The Tome also holds an internal buffer of $(item)Ender Pearls$(), filled by $(thing)Shift-Right-Clicking$() it."
+    },
+    {
+      "type": "crafting",
+      "recipe": "things:displacement_tome"
+    },
+    {
+      "type": "crafting",
+      "recipe": "things:displacement_page"
+    }
+  ]
+}

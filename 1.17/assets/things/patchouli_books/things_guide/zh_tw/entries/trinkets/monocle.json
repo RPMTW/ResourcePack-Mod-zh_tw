@@ -1,0 +1,15 @@
+{
+  "name": "Monocle",
+  "icon": "things:monocle",
+  "category": "things:trinkets",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Monocles have long been used to provide their wearer with better vision. Taking one and adding some $(item)Gleaming Powder$() onto it's lens gives it a magical glow that, when worn, grants $(thing)Night Vision$() on top of the usual benefits."
+    },
+    {
+      "type": "crafting",
+      "recipe": "things:monocle"
+    }
+  ]
+}
