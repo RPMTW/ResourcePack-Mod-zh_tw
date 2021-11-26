@@ -6,11 +6,11 @@
   "priority": true,
   "pages": [
     {
-      "type": "text",
+      "type": "patchouli:text",
       "text": "Altars are the cornerstone of any witch's lair. they can be used to collect energy - henceforth referred to as ME (magical energy). This energy is essential to most witchcraft, and is collected from nearby plants. You'll want many different plants to collect maximum power."
     },
     {
-      "type": "text",
+      "type": "patchouli:text",
       "text": "You may also place swords, pentacles, and wands atop the altar to modify it.$(br2)Swords will increase the storage multiplier. Pentacles such as Skulls and Gems will increase gain. Wands such as $(l:bewitchment:tools/candelabras)Candelabras$(), Lanterns, and Torches will give a flat bonus on capacity."
     },
     {

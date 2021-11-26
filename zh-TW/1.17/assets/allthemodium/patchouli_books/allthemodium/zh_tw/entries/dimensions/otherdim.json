@@ -1,12 +1,12 @@
 {
-    "name": "The Other",
+    "name": "其他",
     "icon": "alltheores:ore_other_diamond",
     "category": "allthemodium:dimensions",
     "sortnum": "3",
     "pages": [
         {
             "type": "text",
-            "text": "The Other Dimension is a very hostile dimension. it is where all of the Ice and Fire mobs spawn including buffed dragons.It also has Special ores that will drop extra resources compared to the ores in the Overworld or Mining Dimension.To teleport to the dimension use the $(l:dimensions/teleport_pad)Teleport Pad$(/c) in the Nether."
+            "text": "其他維度是一個非常敵對的維度。它是所有冰與火生物生成的地方，包括被強化的龍。它還具有特殊的礦石，與主世界或採礦維度中的礦石相比，它們會掉落額外的資源。要傳送到其他維度，請使用在地獄使用$(l:dimensions/teleport_pad)傳送板$(/c)。"
         }
     ]
 }

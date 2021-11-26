@@ -5,7 +5,7 @@
   "advancement": "bewitchment:hidden_unlocks/demon_horn",
   "pages": [
     {
-      "type": "text",
+      "type": "patchouli:text",
       "text": "通過用惡魔號角製作 $(l:bewitchment:brewing/brewing_basics)釀造$()，你可以將正面的藥水效果逆轉為負面效果。$(br2)當作為藥水成分添加時，腐化總是會出現最重要的是，這意味著它會在喝醉時反轉所有先前的效果，但不會反轉藥水的效果。"
     },
     {

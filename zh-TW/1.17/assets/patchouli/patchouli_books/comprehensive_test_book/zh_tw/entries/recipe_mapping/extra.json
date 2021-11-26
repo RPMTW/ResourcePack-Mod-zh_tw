@@ -1,10 +1,10 @@
 {
-  "name": "Extra Recipe Mapping",
+  "name": "額外的配方映射",
   "category": "patchouli:recipe_mapping",
   "icon": "minecraft:tropical_fish",
   "pages": [
     {
-      "type": "text",
+      "type": "patchouli:text",
       "text": {
         "translate": "patchouli.gui.lexicon.reloaded",
         "with": [
@@ -17,7 +17,7 @@
     },
     {
       "type": "patchouli:text",
-      "text": "Logs should be mapped here"
+      "text": "日誌應在此處映射"
     }
   ],
   "extra_recipe_mappings": {

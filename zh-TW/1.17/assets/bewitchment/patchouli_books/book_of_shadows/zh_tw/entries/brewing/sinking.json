@@ -1,18 +1,18 @@
 {
   "category": "bewitchment:brewing",
-  "name": "Sinking",
+  "name": "下沉",
   "icon": "minecraft:iron_ingot",
   "advancement": "bewitchment:hidden_unlocks/altars",
   "pages": [
     {
-      "type": "text",
-      "text": "Makes the target sink faster, especially in water or when flying."
+      "type": "patchouli:text",
+      "text": "使目標下沉更快，特別是在水中或飛行時。"
     },
     {
       "type": "patchouli:spotlight",
-      "title": "Sinking",
+      "title": "下沉",
       "item": "minecraft:iron_ingot",
-      "text": "Higher intensity makes the target sink faster."
+      "text": "更高的強度使目標下沉更快。"
     }
   ]
 }

@@ -1,13 +1,13 @@
 {
-    "itemGroup.xp_storage_trinkets.trinkets": "XP Storage - Trinkets",
+    "itemGroup.xp_storage_trinkets.trinkets": "XP 儲存 - 飾品",
     "item.xp_storage_trinkets.cristalis_lazuli": "Cristalis Lazuli",
-    "item.xp_storage_trinkets.xp_conduit": "XP Conduit",
-    "item.xp_storage_trinkets.xp_saver": "XP Saver",
-    "text.autoconfig.xp_storage_trinkets.title": "XP Storage - Trinkets Configs",
-    "text.autoconfig.xp_storage_trinkets.option.xpConduitAllowed": "Allow XP Conduit",
-    "text.autoconfig.xp_storage_trinkets.option.xpConduitMaxDamage": "XP Conduit durability",
-    "text.autoconfig.xp_storage_trinkets.option.xpConduitTransfer": "XP Conduit transfer amount (%)",
-    "text.autoconfig.xp_storage_trinkets.option.xpSaverAllowed": "Allow XP Saver",
-    "text.autoconfig.xp_storage_trinkets.option.xpSaverMaxDamage": "XP Saver durability",
-    "text.autoconfig.xp_storage_trinkets.option.xpSaverTransfer": "XP Saver transfer amount (%)"
+    "item.xp_storage_trinkets.xp_conduit": "XP 導管",
+    "item.xp_storage_trinkets.xp_saver": "XP 儲存器",
+    "text.autoconfig.xp_storage_trinkets.title": "XP 儲存 - 飾品配置",
+    "text.autoconfig.xp_storage_trinkets.option.xpConduitAllowed": "允許 XP 導管",
+    "text.autoconfig.xp_storage_trinkets.option.xpConduitMaxDamage": "XP 導管耐久",
+    "text.autoconfig.xp_storage_trinkets.option.xpConduitTransfer": "XP 管道轉移數量 (%)",
+    "text.autoconfig.xp_storage_trinkets.option.xpSaverAllowed": "允許 XP 儲存器",
+    "text.autoconfig.xp_storage_trinkets.option.xpSaverMaxDamage": "XP 儲存器耐久",
+    "text.autoconfig.xp_storage_trinkets.option.xpSaverTransfer": "XP 儲存器轉移數量 (%)"
 }

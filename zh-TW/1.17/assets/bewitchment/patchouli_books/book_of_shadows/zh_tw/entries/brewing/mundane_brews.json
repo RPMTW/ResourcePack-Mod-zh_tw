@@ -6,26 +6,26 @@
   "priority": true,
   "pages": [
     {
-      "type": "text",
+      "type": "patchouli:text",
       "text": "雖然 $(l:bewitchment:tools/witch_cauldron)女巫鍋$() 可以用來製作更不可思議的 $(l:bewitchment:brewing/brewing_basics)釀造$()，但一些女巫有時可能更喜歡使用更微妙的$(l:bewitchment:brewing/brewing_basics)釀造$().$(br)此條目中的所有 $(l:bewitchment:brewing/brewing_basics)釀造$() 都可以通過其他方式獲得，儘管 $(l: bewitchment:tools/witch_cauldron)女巫鍋$() 可以讓你使它們更強大。$(br)Mundane $(l:bewitchment:brewing/brewing_basics)釀造$() 在 $(l:bewitchment:tools/witch_cauldron 中製造)女巫鍋$() 使用的成分略有不同。"
     },
     {
       "type": "patchouli:spotlight",
       "title": "吸收",
       "item": "minecraft:honey_bottle",
-      "text": "Applies temporary extra health."
+      "text": "應用臨時額外健康。"
     },
     {
       "type": "patchouli:spotlight",
       "title": "失明",
       "item": "minecraft:ink_sac",
-      "text": "Drastically reduces the target's field of vision, darkening everything around it."
+      "text": "大幅減少目標的視野，使周圍的一切變暗。"
     },
     {
       "type": "patchouli:spotlight",
       "title": "抗火",
       "item": "minecraft:nether_wart",
-      "text": "Grants immunity to fire."
+      "text": "免疫火焰 。"
     },
     {
       "type": "patchouli:spotlight",
@@ -37,13 +37,13 @@
       "type": "patchouli:spotlight",
       "title": "挖掘加速",
       "item": "minecraft:dandelion",
-      "text": "Increases mining speed and attack speed."
+      "text": "增加挖掘速度和攻擊速度."
     },
     {
       "type": "patchouli:spotlight",
       "title": "飢餓",
       "item": "minecraft:rotten_flesh",
-      "text": "Applies a hunger effect."
+      "text": "賦予飢餓效果。"
     },
     {
       "type": "patchouli:spotlight",
@@ -73,7 +73,7 @@
       "type": "patchouli:spotlight",
       "title": "懸浮",
       "item": "minecraft:chorus_fruit",
-      "text": "Slowly ascends the target into the sky."
+      "text": "使目標緩慢地升入空中."
     },
     {
       "type": "patchouli:spotlight",
@@ -91,39 +91,39 @@
       "type": "patchouli:spotlight",
       "title": "夜視",
       "item": "minecraft:carrot",
-      "text": "Carrots are good for your eyes."
+      "text": "胡蘿蔔對眼睛很好"
     },
     {
       "type": "patchouli:spotlight",
       "title": "中毒",
       "item": "bewitchment:belladonna",
-      "text": "Fills the target's blood with deadly toxin."
+      "text": "已致命的毒素填充目標的血液。"
     },
     {
       "type": "patchouli:spotlight",
       "title": "回復",
       "item": "bewitchment:juniper_bark",
       "text": "By utilizing the life energies from $(l:bewitchment:introduction/juniper_trees)Juniper$(), Regeneration quickens the healing process when applied.",
-      "anchor": "回復"
+      "anchor": "regeneration"
     },
     {
       "type": "patchouli:spotlight",
       "title": "抗性",
       "item": "bewitchment:spruce_bark",
       "text": "減少受到的傷害。",
-      "anchor": "抗性"
+      "anchor": "resistance"
     },
     {
       "type": "patchouli:spotlight",
       "title": "緩降",
       "item": "minecraft:feather",
-      "text": "Makes the target fall gently, like a feather."
+      "text": "使目標像羽毛一樣輕輕地落下。"
     },
     {
       "type": "patchouli:spotlight",
       "title": "緩慢",
       "item": "minecraft:slime_ball",
-      "text": "Reduces the target's movement speed."
+      "text": "減緩目標的移動速度。"
     },
     {
       "type": "patchouli:spotlight",
@@ -135,8 +135,8 @@
       "type": "patchouli:spotlight",
       "title": "力量",
       "item": "bewitchment:oak_bark",
-      "text": "Using the powers of Oak, this increases damage output.",
-      "anchor": "力量"
+      "text": "使用橡木的力量，增加傷害輸出。",
+      "anchor": "strength"
     },
     {
       "type": "patchouli:spotlight",
@@ -148,13 +148,13 @@
       "type": "patchouli:spotlight",
       "title": "虛弱",
       "item": "minecraft:red_mushroom",
-      "text": "Reduces the target's attack damage.$(br2)You may also use a Brown Mushroom for this."
+      "text": "減少目標攻擊傷害。$(br2)你也可以使用棕色蘑菇。"
     },
     {
       "type": "patchouli:spotlight",
       "title": "凋零",
       "item": "minecraft:wither_rose",
-      "text": "Gradually reduces the target's health."
+      "text": "逐漸降低目標的生命。"
     }
   ]
 }

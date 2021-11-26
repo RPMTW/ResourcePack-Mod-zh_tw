@@ -1,16 +1,16 @@
 {
   "category": "bewitchment:brewing",
-  "name": "Thorns",
+  "name": "尖刺",
   "icon": "minecraft:cactus",
   "advancement": "bewitchment:hidden_unlocks/altars",
   "pages": [
     {
-      "type": "text",
-      "text": "The Thorns effect does as its name implies. Every entity that tries to damage the user will receive some damage."
+      "type": "patchouli:text",
+      "text": "荊棘效應確實如其名稱所示的那樣。每個試圖損壞用戶的實體都會收到一些損壞。"
     },
     {
       "type": "patchouli:spotlight",
-      "title": "Thorns",
+      "title": "尖刺",
       "item": "minecraft:cactus",
       "text": "The damage received through Thorns is proportional to the effect's strength."
     }

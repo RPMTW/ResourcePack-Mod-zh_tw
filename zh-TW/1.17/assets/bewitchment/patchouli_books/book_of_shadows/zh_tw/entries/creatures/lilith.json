@@ -5,7 +5,7 @@
   "advancement": "bewitchment:hidden_unlocks/demon_heart",
   "pages": [
     {
-      "type": "text",
+      "type": "patchouli:text",
       "text": "Lilith, the mountain-mother of $(l:bewitchment:creatures/vampire)Vampires$() is often addressed to grant victims of $(l:bewitchment:curses/vampirism)Vampirism$() higher powers.$(br2)$(l:bewitchment:tools/grotesque_stew)Pledging$() to her allows them to freely change their form into that of a bat, allowing them to roam freely. Alternatively, she can be be offered $(l:bewitchment:introduction/crops)Garlic$(), freeing the victim of her $(l:bewitchment:curses/conducting_curses)Curse$()."
     },
     {

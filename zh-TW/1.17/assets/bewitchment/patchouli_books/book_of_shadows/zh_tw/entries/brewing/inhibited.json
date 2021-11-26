@@ -5,7 +5,7 @@
   "advancement": "bewitchment:hidden_unlocks/altars",
   "pages": [
     {
-      "type": "text",
+      "type": "patchouli:text",
       "text": "這個效果會阻止喝它的人使用他們的 $(l:bewitchment:introduction/altars#internalme)Internal ME Buffer$()。這意味著他們不能使用需要 $(l:bewitchment:introduction/altars)Magical Energy$() 的物品。"
     },
     {

@@ -1,11 +1,11 @@
 {
-  "name": "Normal Subcategory Entry",
+  "name": "正常子類別條目",
   "category": "patchouli:subcategories/normal_subcategory",
   "icon": "minecraft:carrot_on_a_stick",
   "pages": [
     {
-      "type": "text",
-      "text": "hello world"
+      "type": "patchouli:text",
+      "text": "世界您好"
     }
   ]
 }

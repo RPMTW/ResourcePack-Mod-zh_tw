@@ -5,7 +5,7 @@
   "advancement": "bewitchment:hidden_unlocks/demon_heart",
   "pages": [
     {
-      "type": "text",
+      "type": "patchouli:text",
       "text": "Brooms are magical devices commonly used by witches. Through the use of $(l:bewitchment:introduction/altars#internalme)ME$(), they enable the user to fly through the skies.$(br2)Brooms come in four variants, each with unique properties."
     },
     {

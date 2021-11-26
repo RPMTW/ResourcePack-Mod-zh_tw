@@ -1,16 +1,16 @@
 {
-    "name": "Allthemodium Apple",
+    "name": "ATM金屬蘋果",
     "icon": "allthemodium:allthemodium_apple",
     "category": "allthemodium:food",
     "pages": [
         {
             "type": "crafting",
             "recipe": "allthemodium:main/allthemodium_apple",
-            "title": "Allthemodium Apple"
+            "title": "ATM金屬蘋果"
         },
         {
             "type": "text",
-            "text": "The Allthemodium Apple gives 20 hunger and 80 saturation. The apple has the following effects:$(li)Fast to Eat$(li)Can Always Eat$(li)Absorption X for 30 Sec$(li)Regeneration X for 30 Sec"
+            "text": "ATM金屬蘋果恢復 20 飢餓值和 80 飽和度。蘋果有以下效果：$(li)吃得更快$(li)總是能吃$(li)吸收X持續30秒$(li)再生X持續30秒"
         }
     ]
 }

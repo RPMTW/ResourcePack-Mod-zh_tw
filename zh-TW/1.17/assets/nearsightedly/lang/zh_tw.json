@@ -1,7 +1,7 @@
 {
     "text.autoconfig.nearsightedly.title": "Near-Sightedly Config",
-    "text.autoconfig.nearsightedly.option.min": "Min Render Distance",
-    "text.autoconfig.nearsightedly.option.max": "Max Render Distance",
+    "text.autoconfig.nearsightedly.option.min": "最小渲染距離",
+    "text.autoconfig.nearsightedly.option.max": "最大渲染距離",
     "text.autoconfig.nearsightedly.option.min.@Tooltip[0]": "Sets the minimum allowed render distance.",
     "text.autoconfig.nearsightedly.option.min.@Tooltip[1]": "This will be corrected if needed (between 2 and 32 by default)",
     "text.autoconfig.nearsightedly.option.min.@Tooltip[2]": "If this is greater than the maximum, the values will be swapped.",

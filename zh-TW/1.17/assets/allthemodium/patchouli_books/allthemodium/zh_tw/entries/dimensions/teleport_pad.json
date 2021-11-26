@@ -1,5 +1,5 @@
 {
-    "name": "Teleport Pad",
+    "name": "傳送板",
     "icon": "allthemodium:teleport_pad",
     "category": "allthemodium:dimensions",
     "sortnum": "1",
@@ -10,7 +10,7 @@
         },
         {
             "type": "text",
-            "text": "The Teleport Pad is used to teleport to $(l:dimensions/miningdim)The Mining Dimension$(/c), and $(l:dimensions/otherdim)The Other$(/c) you need to shift right click with both an empty hand and off hand.$(br2)As a note, the $(l:dimensions/miningdim)The Mining Dimension$(/c) is disabled in the ATM6: To The Sky pack"
+            "text": "傳送板用於傳送到 $(l:dimensions/miningdim)採礦維度$(/c)和$(l:dimensions/otherdim)其他維度$(/c)，你需要在雙手不持有物品時Shift右鍵。$(br2)備註：$(l:dimensions/miningdim)採礦維度$(/c)在 ATM6: To The Sky 包中被禁用"
         }
     ]
 }
