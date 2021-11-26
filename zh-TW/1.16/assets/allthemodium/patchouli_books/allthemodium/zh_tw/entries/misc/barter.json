@@ -1,5 +1,5 @@
 {
-    "name": "Bartering",
+    "name": "以物易物",
     "icon": "minecraft:piglin_spawn_egg",
     "category": "allthemodium:misc",
     "sortnum": "2",
@@ -13,13 +13,13 @@
         {
             "type": "spotlight",
             "item": "minecraft:gold_ingot",
-            "title": "Bartering",
+            "title": "以物易物",
             "link_recipe": false,
-            "text": "Piglin Bartering can be useful for getting some good items early game. you can trade with them by dropping gold, or right click gold on them.$(br2)See the next pages for the added trades"
+            "text": "豬布林交易對於在遊戲早期獲得一些好物品很有用。你可以通過丟出黃金與他們進行交易，或者拿著黃金在他們身上右鍵。$(br2)有關添加的交易，請參見下一頁"
         },
         {
             "type": "text",
-            "text": "$(li)Allthemodium Boots-Weight 1$(li)Allthemodium Potion-Weight 1$(li)2-4 Allthemodium Apples-Weight 4$(li)1-2 Allthemodium Carrot - Weight 3$(li)1-4 Allthemodium Nuggets-Weight 8"
+            "text": "$(li)ATM金屬靴-權重1$(li)ATM金屬藥水-權重1$(li)2-4 ATM金屬蘋果-權重4$(li)1-2 ATM金屬胡蘿蔔-權重3$(li) 1-4 ATM 金屬粒-權重 8"
         },
         {
             "type": "text",
