@@ -1,0 +1,15 @@
+{
+    "name": "ATM金屬礦",
+    "icon": "allthemodium:allthemodium_ore",
+    "category": "allthemodium:ore",
+    "sortnum": "1",
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "allthemodium:allthemodium_ore",
+            "title": "Allthemodium Ore",
+            "link_recipe": false,
+            "text": "ATM金屬礦生成在 Y 5-45 之間的海洋生態域中，但是在採礦維度無論生物群系如何，只要在\n相同高度都可以找到"
+        }
+    ]
+}

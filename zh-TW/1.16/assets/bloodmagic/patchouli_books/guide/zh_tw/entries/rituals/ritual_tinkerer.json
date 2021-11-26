@@ -2,7 +2,7 @@
   "name": "Ritual Tinkerer",
   "icon": "bloodmagic:ritualtinkerer",
   "category": "bloodmagic:rituals",
-  "priority": "是",
+  "priority": "true",
   "pages": [
     {
       "type": "text",

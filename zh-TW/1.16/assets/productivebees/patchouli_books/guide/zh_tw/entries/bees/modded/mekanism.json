@@ -8,7 +8,7 @@
     "pages": [
         {
             "type": "text",
-            "text": "專用於Mekanism模組金屬的蜜蜂。僅顯示於特殊金屬的蜜蜂，對於普通的金屬像銅礦和錫礦請看$(l:bees/modded/ingot_bees)所有金屬錠蜜蜂列表$(/l)"
+            "text": "專用於《通用機械》（Mekanism）模組金屬的蜜蜂。僅顯示於特殊金屬的蜜蜂，對於普通的金屬像銅蜂和錫蜂請看$(l:bees/modded/ingot_bees)所有金屬錠蜜蜂列表$(/l)"
         },
         {
             "type": "empty",
@@ -16,22 +16,22 @@
         },
         {
             "type": "text",
-            "title": "鋨礦蜂",
+            "title": "鋨蜂",
             "text": "由$(l:bees/hive/iron)鐵礦蜂$(/l)和$(l:bees/solitary/neon_cuckoo)霓虹杜鵑蜂$(/l)配種而得。$(br)需安裝模組： Mekanism",
-            "anchor": "鋨",
+            "anchor": "osmium",
             "flag": "productivebees:osmium"
         },
         {
             "type": "entity",
-            "name": "鋨礦蜂",
+            "name": "鋨蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:osmium'}",
             "flag": "productivebees:osmium"
         },
         {
             "type": "text",
             "title": "強化螢光石蜂",
-            "text": "由$(l:bees/modded/mekanism#osmium)鋨礦蜂$(/l)和$(l:bees/wild/glowing)螢光石蜂$(/l)配種而得。$(br)需安裝模組： Mekanism",
-            "anchor": "強化螢光石",
+            "text": "由$(l:bees/modded/mekanism#osmium)鋨蜂$(/l)和$(l:bees/wild/glowing)螢光石蜂$(/l)配種而得。$(br)需安裝模組：《通用機械》（Mekanism）",
+            "anchor": "refined_glowstone",
             "flag": "productivebees:refined_glowstone"
         },
         {
@@ -43,7 +43,7 @@
         {
             "type": "text",
             "title": "強化黑曜石蜂",
-            "text": "由$(l:bees/modded/mekanism#osmium)鋨礦蜂$(/l)和$(l:bees/hive/obsidian)黑曜石蜂$(/l)配種而得。$(br)需安裝模組： Mekanism",
+            "text": "由$(l:bees/modded/mekanism#osmium)鋨蜂$(/l)和$(l:bees/hive/obsidian)黑曜石蜂$(/l)配種而得。$(br)需安裝模組：《通用機械》（Mekanism）",
             "anchor": "refined_obsidian",
             "flag": "productivebees:refined_obsidian"
         },

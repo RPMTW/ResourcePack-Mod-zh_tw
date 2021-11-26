@@ -7,10 +7,10 @@
   "pages": [
     {
       "type": "text",
-      "text": "It places blocks.$(br2)It will place the blocks from the internal container and use $(6)1000$()RF."
+      "text": "它會放置方塊。$(br2)它會放置內部儲存的方塊，並使用$(6)1000$()RF。"
     },
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "industrialforegoing:block_placer"
     }
   ]

@@ -1,0 +1,18 @@
+{
+  "category": "bewitchment:brewing",
+  "name": "織網",
+  "icon": "minecraft:cobweb",
+  "advancement": "bewitchment:hidden_unlocks/altars",
+  "pages": [
+    {
+      "type": "text",
+      "text": "立即在目標周圍放置臨時蜘蛛網。"
+    },
+    {
+      "type": "spotlight",
+      "title": "織網",
+      "item": "minecraft:cobweb",
+      "text": "Intensity increases the radius in which Cobwebs are placed."
+    }
+  ]
+}

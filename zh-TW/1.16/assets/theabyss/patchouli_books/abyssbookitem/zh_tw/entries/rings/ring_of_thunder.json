@@ -1,0 +1,23 @@
+{
+	"name": "Ring Of Thunder",
+	"icon": "theabyss:ring_of_thunder",
+	"category": "rings",
+	"advancement": "theabyss:somnium_adv",
+	"priority": false,
+	"secret": false,
+	"read_by_default": false,
+	"pages": [
+		{
+			"type": "spotlight",
+			"item": "theabyss:ring_of_thunder",
+			"title": "Ring Of Thunder",
+			"link_recipe": false,
+			"text": "The ring of thunder drains 35% somnium to cast lightning on entities around you. Be warned, the danger of this ring is that it does not discriminate its targets, and should not be used near allies."
+		},
+		{
+			"type": "crafting",
+			"title": "Ring Of Thunder",
+			"recipe": "theabyss:ring_of_thunder_rcp"
+		}
+	]
+}

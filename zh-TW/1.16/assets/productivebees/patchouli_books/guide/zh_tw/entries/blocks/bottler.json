@@ -7,6 +7,33 @@
             "type": "spotlight",
             "item": "productivebees:bottler",
             "text": "裝瓶機用來將蜂蜜裝入瓶中。先將蜂蜜倒入機器， 然後在裝瓶機中放入玻璃瓶， 就會將蜂蜜填充至瓶中。$(br2)裝瓶機配合活塞可用來將蜜蜂塞入瓶中， 請參閱$(l:genetics/transferring)基因章節$(/l)。"
+        },
+        {
+            "type": "multiblock",
+            "name": "帶離心機的裝瓶機",
+            "multiblock": {
+                "mapping": {
+                    "H": "productivebees:centrifuge",
+                    "E": "productivebees:bottler"
+                },
+                "pattern": [
+                    [
+                        "H",
+                        "E"
+                    ],
+                    [
+                        "0",
+                        " "
+                    ]
+                ],
+                "symmetrical": true,
+                "offset": [
+                    0,
+                    1,
+                    0
+                ]
+            },
+            "enable_visualize": false
         }
     ]
 }

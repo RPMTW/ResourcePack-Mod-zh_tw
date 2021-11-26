@@ -1,0 +1,23 @@
+{
+	"name": "Ring Of Teleport",
+	"icon": "theabyss:ring_of_teleport",
+	"category": "rings",
+	"advancement": "theabyss:somnium_adv",
+	"priority": false,
+	"secret": false,
+	"read_by_default": false,
+	"pages": [
+		{
+			"type": "spotlight",
+			"item": "theabyss:ring_of_teleport",
+			"title": "Ring Of Teleport",
+			"link_recipe": false,
+			"text": "The ring of teleport uses 20% somnium to either teleport a player to a location or teleport a target to them, all requiring line of sight. However be warned, a side effect of the rings magic is that teleported opponents are briefly invisible."
+		},
+		{
+			"type": "crafting",
+			"title": "Ring Of Teleport",
+			"recipe": "theabyss:ring_of_teleport_rcp"
+		}
+	]
+}

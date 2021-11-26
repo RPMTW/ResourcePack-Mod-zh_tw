@@ -1,0 +1,15 @@
+{
+    "name": "汎金屬礦",
+    "icon": "allthemodium:vibranium_ore",
+    "category": "allthemodium:ore",
+    "sortnum": "2",
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "allthemodium:vibranium_ore",
+            "title": "汎金屬礦",
+            "link_recipe": false,
+            "text": "汎金屬礦可以在 Y 107-113 附近的緋紅和扭曲森林生態域中找到。"
+        }
+    ]
+}

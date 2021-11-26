@@ -7,10 +7,10 @@
   "pages": [
     {
       "type": "text",
-      "text": "Using raw ore meat this machine will seal its contents when reached the configured level and it will ferment that meat using the selected production type."
+      "text": "將原礦肉桶加工為發酵礦石肉桶。"
     },
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "industrialforegoing:fermentation_station"
     }
   ]

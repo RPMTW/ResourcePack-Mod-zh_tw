@@ -1,5 +1,5 @@
 {
-  "name": "Conveyor Upgrades",
+  "name": "輸送帶升級",
   "icon": "industrialforegoing:conveyor_extraction_upgrade",
   "category": "transport",
   "sortnum": 1,
@@ -8,44 +8,44 @@
     {
       "type": "spotlight",
       "item": "industrialforegoing:conveyor_extraction_upgrade",
-      "title": "精煉",
-      "text": "Extracts items and fluids from inventories. It can extract items from player inventories too. $(br2)Items and fluids that need to be extracted can be filtered in the gui."
+      "title": "提取",
+      "text": "從庫存中提取物品和流體。它也可以從玩家物品欄中提取物品。$(br2)需要提取的物品和流體可以在GUI中過濾。"
     },
     {
       "type": "spotlight",
       "item": "industrialforegoing:conveyor_insertion_upgrade",
-      "title": "Insertion",
-      "text": "Inserts items and fluids to inventories. It has 2 modes, insert items that touch the conveyor or insert items that directly touch the upgrade. $(br2)Items and fluids that need to be inserted can be filtered in the gui."
+      "title": "輸入",
+      "text": "將物品和液體輸入庫存中。它有2種模式，將所有經過入口的物品輸入或只允許輸入帶前進方向與入口一致的物品輸入。$(br2)需要輸入的物品和液體可以在GUI中過濾。"
     },
     {
       "type": "spotlight",
       "item": "industrialforegoing:conveyor_detection_upgrade",
-      "title": "Detection",
-      "text": "Detects items and entities that are on top of the conveyor. $(br2)Items and entities that need to be detected can be filtered in the gui. Entities can be filtered using a MIB with the entity inside."
+      "title": "檢測",
+      "text": "檢測輸送帶上的物品和實體。$(br2)要檢測的物品和實體可以在GUI中過濾。可以使用內部實體的MIB過濾實體。"
     },
     {
       "type": "spotlight",
       "item": "industrialforegoing:conveyor_bouncing_upgrade",
-      "title": "Bouncing",
-      "text": "Launches items and entites that are on top of the conveyor. The vertical and horizontal strength can be changed in the GUI.$(br2)Items and entities that need to be launched can be filtered in the gui. Entities can be filtered using a MIB with the entity inside."
+      "title": "彈射",
+      "text": "彈射輸送帶上的物品和實體。可以在GUI中更改垂直和水平強度。$(br2)需要彈射的物品和實體可以在GUI中過濾。可以使用內部實體的MIB過濾實體。"
     },
     {
       "type": "spotlight",
       "item": "industrialforegoing:conveyor_dropping_upgrade",
-      "title": "Dropping",
-      "text": "Drops items and entites that are on top of the conveyor directly below it. $(br2)Items and entities that need to be dropped can be filtered in the gui. Entities can be filtered using a MIB with the entity inside."
+      "title": "投下",
+      "text": "將輸送機上的物品和實體投射到下方。 $(br2)需要投下的物品和實體可以在GUI中過濾。可以使用內部實體的MIB過濾實體。"
     },
     {
       "type": "spotlight",
       "item": "industrialforegoing:conveyor_blinking_upgrade",
-      "title": "Blinking",
-      "text": "Teleports items and entites that are on top of the conveyor. The vertical and horizontal distance can be changed in the GUI.$(br2)Items and entities that need to be launched can be filtered in the gui. Entities can be filtered using a MIB with the entity inside."
+      "title": "閃爍",
+      "text": "傳送輸送帶上的物品和實體。可以在GUI中更改垂直和水平距離。$(br2)需要傳送的物品和實體可以在GUI中過濾。可以使用內部實體的MIB過濾實體。"
     },
     {
       "type": "spotlight",
       "item": "industrialforegoing:conveyor_splitting_upgrade",
       "title": "拆分",
-      "text": "Splits items and entites that are on top of the conveyor with the ratio defined in the GUI. It needs upgrades in all the sides that need be distributed."
+      "text": "使用 GUI 中定義的比率拆分傳送帶上的物品和實體。 它需要在需要分佈的所有方面進行升級。"
     }
   ]
 }

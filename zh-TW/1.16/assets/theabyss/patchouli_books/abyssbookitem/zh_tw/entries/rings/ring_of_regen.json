@@ -1,0 +1,23 @@
+{
+	"name": "Ring Of Regen",
+	"icon": "theabyss:ring_of_reg",
+	"category": "rings",
+	"advancement": "theabyss:somnium_adv",
+	"priority": false,
+	"secret": false,
+	"read_by_default": false,
+	"pages": [
+		{
+			"type": "spotlight",
+			"item": "theabyss:ring_of_reg",
+			"title": "Ring Of Regen",
+			"link_recipe": false,
+			"text": "For a short period of time the ring of regen consumes 20% somnium healing the Player only."
+		},
+		{
+			"type": "crafting",
+			"title": "Ring Of Regen",
+			"recipe": "theabyss:ring_of_regen_rcp"
+		}
+	]
+}

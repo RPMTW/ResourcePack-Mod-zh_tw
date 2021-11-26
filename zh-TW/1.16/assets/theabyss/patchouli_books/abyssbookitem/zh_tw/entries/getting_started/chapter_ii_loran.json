@@ -1,0 +1,55 @@
+{
+	"name": "CH II - Loran",
+	"icon": "minecraft:paper",
+	"category": "getting_started",
+	"advancement": "theabyss:loran_adv",
+	"priority": false,
+	"secret": false,
+	"read_by_default": false,
+	"pages": [
+		{
+			"type": "spotlight",
+			"item": "theabyss:loran",
+			"title": "Loran",
+			"link_recipe": false,
+			"text": "The blue plant that spreads is called Loran. Loran is a plant capable of absorbing and storing light which it converts to different energies. A plant of pure energy, it has both helpful and harmful properties depending on what it mixes with. More importantly though we are looking to use its properties when formed"
+		},
+		{
+			"type": "text",
+			"text": "with obsidian, which is needed to create unstable portal material. This unstable portal material will be our gateway to the Abyss itself."
+		},
+		{
+			"type": "crafting",
+			"title": "Unstable Obsidian & Key",
+			"recipe": "theabyss:unstable_obsidian_rcp",
+			"recipe2": "theabyss:portal_igniter_rcp"
+		},
+		{
+			"type": "multiblock",
+			"text": "This is the Portal.",
+			"name": "The Portal",
+			"multiblock": {
+				"pattern": [
+					[
+						"AAAA"
+					],
+					[
+						"A  A"
+					],
+					[
+						"A  A"
+					],
+					[
+						"A 0A"
+					],
+					[
+						"AAAA"
+					]
+				],
+				"mapping": {
+					"A": "theabyss:unstable_obsidian"
+				}
+			}
+		}
+	]
+}

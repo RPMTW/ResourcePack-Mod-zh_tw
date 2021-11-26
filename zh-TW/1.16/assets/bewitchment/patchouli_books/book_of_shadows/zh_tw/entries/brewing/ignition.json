@@ -1,0 +1,18 @@
+{
+  "category": "bewitchment:brewing",
+  "name": "聖焰",
+  "icon": "minecraft:blaze_powder",
+  "advancement": "bewitchment:hidden_unlocks/altars",
+  "pages": [
+    {
+      "type": "text",
+      "text": "只要效果處於激活狀態，這就會使目標著火。"
+    },
+    {
+      "type": "spotlight",
+      "title": "聖焰",
+      "item": "minecraft:blaze_powder",
+      "text": "聖焰不受強度影響。"
+    }
+  ]
+}

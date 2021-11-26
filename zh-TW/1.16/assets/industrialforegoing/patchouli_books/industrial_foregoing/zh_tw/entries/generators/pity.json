@@ -1,16 +1,16 @@
 {
-  "name": "Pififul Generator",
+  "name": "木質燃料發電機",
   "icon": "industrialforegoing:pitiful_generator",
-  "category": "發電機",
+  "category": "generators",
   "sortnum": 0,
   "read_by_default": true,
   "pages": [
     {
       "type": "text",
-      "text": "A very inefficient generator that consumes burnable fuels, like coal. $(br2)It's so inefficient that when the machine energy buffer is full it will keep consuming fuel."
+      "text": "一種效率極低的發電機，消耗可燃燃料，如煤炭。$(br2)效率非常低，電量滿了之後還是會繼續消耗燃料。"
     },
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "industrialforegoing:pitiful_generator"
     }
   ]

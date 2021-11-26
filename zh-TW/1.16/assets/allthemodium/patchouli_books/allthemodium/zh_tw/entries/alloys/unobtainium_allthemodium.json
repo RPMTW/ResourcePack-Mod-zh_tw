@@ -1,0 +1,19 @@
+{
+    "name": "難得素-ATM合金",
+    "icon": "allthemodium:unobtainium_allthemodium_alloy_ingot",
+    "category": "allthemodium:alloys",
+    "sortnum": "2",
+    "pages": [
+        {
+            "type": "text",
+            "text": "難得素-ATM合金$(br)是這模組的中階$(br)3合金，是透過在$(br)龍電熔爐$(br)左側放入難得素$(br)右側放入ATM金屬製造的。"
+        },
+        {
+            "type": "entity",
+            "entity": "iceandfire:lightning_dragon",
+            "scale": "0.9",
+            "rotate": true,
+            "default_rotation": -45
+        }
+    ]
+}

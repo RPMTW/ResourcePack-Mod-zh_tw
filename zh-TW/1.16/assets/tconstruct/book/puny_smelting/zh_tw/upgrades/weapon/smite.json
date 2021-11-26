@@ -1,0 +1,21 @@
+{
+  "modifier_id": "tconstruct:smite",
+  "text": [
+    {
+      "text": "懼怕我吧，不死生物……"
+    },
+    {
+      "text": "\n",
+      "paragraph": true
+    },
+    {
+      "text": "我掌握著鑲金西瓜的力量！ 或許鑲金西瓜鎧甲能讓他們遠離我。",
+      "paragraph": true
+    }
+  ],
+  "effects": [
+    "增加對不死生物的傷害",
+    "分為多個等級，每升一級會提升傷害",
+    "每個級別需要 1 個升級插槽"
+  ]
+}

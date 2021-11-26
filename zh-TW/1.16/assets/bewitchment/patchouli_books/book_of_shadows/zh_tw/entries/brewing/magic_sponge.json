@@ -1,0 +1,18 @@
+{
+  "category": "bewitchment:brewing",
+  "name": "魔法海綿",
+  "icon": "bewitchment:dragons_blood_resin",
+  "advancement": "minecraft:nether/find_fortress",
+  "pages": [
+    {
+      "type": "text",
+      "text": "魔法海綿會減少魔法來源的傷害，然後根據傷害重新填充目標的 $(l:bewitchment:introduction/altars#internalme)內部ME緩衝$()。"
+    },
+    {
+      "type": "spotlight",
+      "title": "魔法海綿",
+      "item": "bewitchment:dragons_blood_resin",
+      "text": "更高的強度會增加魔法傷害減免。"
+    }
+  ]
+}

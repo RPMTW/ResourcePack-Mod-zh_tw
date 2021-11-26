@@ -1,0 +1,160 @@
+{
+  "category": "bewitchment:brewing",
+  "name": "普通啤酒",
+  "icon": "bewitchment:witch_cauldron",
+  "advancement": "bewitchment:hidden_unlocks/altars",
+  "priority": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "雖然 $(l:bewitchment:tools/witch_cauldron)女巫鍋$() 可以用來製作更不可思議的 $(l:bewitchment:brewing/brewing_basics)釀造$()，但一些女巫有時可能更喜歡使用更微妙的$(l:bewitchment:brewing/brewing_basics)釀造$().$(br)此條目中的所有 $(l:bewitchment:brewing/brewing_basics)釀造$() 都可以通過其他方式獲得，儘管 $(l: bewitchment:tools/witch_cauldron)女巫鍋$() 可以讓你使它們更強大。$(br)Mundane $(l:bewitchment:brewing/brewing_basics)釀造$() 在 $(l:bewitchment:tools/witch_cauldron 中製造)女巫鍋$() 使用的成分略有不同。"
+    },
+    {
+      "type": "spotlight",
+      "title": "吸收",
+      "item": "minecraft:honey_bottle",
+      "text": "應用臨時額外健康。"
+    },
+    {
+      "type": "spotlight",
+      "title": "失明",
+      "item": "minecraft:ink_sac",
+      "text": "大幅減少目標的視野，使周圍的一切變暗。"
+    },
+    {
+      "type": "spotlight",
+      "title": "抗火",
+      "item": "minecraft:nether_wart",
+      "text": "免疫火焰 。"
+    },
+    {
+      "type": "spotlight",
+      "title": "發光",
+      "item": "minecraft:glistering_melon_slice",
+      "text": "Makes the target glow obnoxiously."
+    },
+    {
+      "type": "spotlight",
+      "title": "挖掘加速",
+      "item": "minecraft:dandelion",
+      "text": "增加挖掘速度和攻擊速度."
+    },
+    {
+      "type": "spotlight",
+      "title": "飢餓",
+      "item": "minecraft:rotten_flesh",
+      "text": "賦予飢餓效果。"
+    },
+    {
+      "type": "spotlight",
+      "title": "立即治療",
+      "item": "bewitchment:garlic",
+      "text": "Instantly heals a flat amount of health, using the healing properties of $(l:bewitchment:introducton/crops)Garlic$()."
+    },
+    {
+      "type": "spotlight",
+      "title": "立即傷害",
+      "item": "bewitchment:cypress_bark",
+      "text": "Instantly damages a flat amount of health, harnessing the deadly energies of $(l:bewitchment:introduction/cypress_trees)Cypress$()."
+    },
+    {
+      "type": "spotlight",
+      "title": "隱形",
+      "item": "minecraft:vine",
+      "text": "使目標隱形。"
+    },
+    {
+      "type": "spotlight",
+      "title": "跳躍提升",
+      "item": "minecraft:rabbit_foot",
+      "text": "Jump boost is self-explanatory."
+    },
+    {
+      "type": "spotlight",
+      "title": "懸浮",
+      "item": "minecraft:chorus_fruit",
+      "text": "使目標緩慢地升入空中."
+    },
+    {
+      "type": "spotlight",
+      "title": "挖掘疲勞",
+      "item": "minecraft:poppy",
+      "text": "Mining Fatigue makes the target hit much slower."
+    },
+    {
+      "type": "spotlight",
+      "title": "噁心",
+      "item": "bewitchment:aconite",
+      "text": "Induces sickness by disorienting the target."
+    },
+    {
+      "type": "spotlight",
+      "title": "夜視",
+      "item": "minecraft:carrot",
+      "text": "胡蘿蔔對眼睛很好"
+    },
+    {
+      "type": "spotlight",
+      "title": "中毒",
+      "item": "bewitchment:belladonna",
+      "text": "已致命的毒素填充目標的血液。"
+    },
+    {
+      "type": "spotlight",
+      "title": "回復",
+      "item": "bewitchment:juniper_bark",
+      "text": "By utilizing the life energies from $(l:bewitchment:introduction/juniper_trees)Juniper$(), Regeneration quickens the healing process when applied.",
+      "anchor": "regeneration"
+    },
+    {
+      "type": "spotlight",
+      "title": "抗性",
+      "item": "bewitchment:spruce_bark",
+      "text": "減少受到的傷害。",
+      "anchor": "resistance"
+    },
+    {
+      "type": "spotlight",
+      "title": "緩降",
+      "item": "minecraft:feather",
+      "text": "使目標像羽毛一樣輕輕地落下。"
+    },
+    {
+      "type": "spotlight",
+      "title": "緩慢",
+      "item": "minecraft:slime_ball",
+      "text": "減緩目標的移動速度。"
+    },
+    {
+      "type": "spotlight",
+      "title": "速度",
+      "item": "minecraft:sugar_cane",
+      "text": "Increases movement speed, using the energizing qualities of Sugar Cane."
+    },
+    {
+      "type": "spotlight",
+      "title": "力量",
+      "item": "bewitchment:oak_bark",
+      "text": "使用橡木的力量，增加傷害輸出。",
+      "anchor": "strength"
+    },
+    {
+      "type": "spotlight",
+      "title": "水下呼吸",
+      "item": "minecraft:kelp",
+      "text": "允許在水中呼吸。"
+    },
+    {
+      "type": "spotlight",
+      "title": "虛弱",
+      "item": "minecraft:red_mushroom",
+      "text": "減少目標攻擊傷害。$(br2)你也可以使用棕色蘑菇。"
+    },
+    {
+      "type": "spotlight",
+      "title": "凋零",
+      "item": "minecraft:wither_rose",
+      "text": "逐漸降低目標的生命。"
+    }
+  ]
+}

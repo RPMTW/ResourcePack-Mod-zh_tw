@@ -8,8 +8,8 @@
         {
             "type": "text",
             "title": "煤炭蜂",
-            "text": "由$(l:bees/hive/redstone)烈焰蜂$(/l) 和$(l:bees/solitary/leafcutter)切葉蜂$(/l)配種而得。",
-            "anchor": "煤炭"
+            "text": "由$(l:bees/hive/blazing)烈焰蜂$(/l)和$(l:bees/solitary/leafcutter)切葉蜂$(/l)配種而得。",
+            "anchor": "coal"
         },
         {
             "type": "entity",

@@ -1,5 +1,5 @@
 {
-  "name": "精華（桶）",
+  "name": "精華液桶",
   "icon": "industrialforegoing:essence_bucket",
   "category": "agriculture_husbandry",
   "sortnum": 7,
@@ -7,7 +7,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "產生的流動體驗形式$(l:agr_hus/mob_crusher)怪物粉碎者$() 。"
+      "text": "由$(l:agr_hus/mob_crusher)屠宰機$()將掉落的經驗球轉化而成的液態經驗值。"
     }
   ]
 }

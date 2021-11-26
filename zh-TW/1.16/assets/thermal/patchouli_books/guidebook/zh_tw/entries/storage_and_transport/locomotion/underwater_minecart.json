@@ -10,7 +10,7 @@
             "text": "The Underwater Minecart allows entities, including players, to ride $(l:thermal:storage_and_transport/locomotion/prismarinerails)rails$(/l) underwater. Entities riding underwater minecarts have 4 minutes before they suffocate. Mobs will still behave as if they are under water; undead mobs will not burn, blazes and endermen will take damage, and zombies will turn into drowneds. Can be enchanted with respiration, which decreases the chance that air will be used per tick."
         },
         {
-            "type": "合成",
+            "type": "crafting",
             "recipe": "thermal:underwater_minecart"
         }
     ]

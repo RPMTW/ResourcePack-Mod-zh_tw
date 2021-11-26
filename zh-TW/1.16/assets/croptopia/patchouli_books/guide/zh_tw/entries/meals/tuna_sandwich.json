@@ -1,0 +1,12 @@
+{
+  "name": "鮪魚三明治",
+  "icon": "croptopia:tuna_sandwich",
+  "category": "croptopia:meals",
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "croptopia:tuna_sandiwch",
+      "text": "鮪魚三明治的食譜(半成品)"
+    }
+  ]
+}

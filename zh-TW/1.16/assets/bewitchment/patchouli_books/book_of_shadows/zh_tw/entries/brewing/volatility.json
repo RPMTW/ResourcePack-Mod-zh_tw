@@ -1,0 +1,18 @@
+{
+  "category": "bewitchment:brewing",
+  "name": "不穩定",
+  "icon": "minecraft:fire_charge",
+  "advancement": "bewitchment:hidden_unlocks/altars",
+  "pages": [
+    {
+      "type": "text",
+      "text": "使目標極其不穩定。當被擊中時，它們會引起破壞性爆炸，立即消除影響並傷害周圍的所有實體。"
+    },
+    {
+      "type": "spotlight",
+      "title": "不穩定",
+      "item": "minecraft:fire_charge",
+      "text": "爆炸傷害與效果的強度一起擴展。"
+    }
+  ]
+}

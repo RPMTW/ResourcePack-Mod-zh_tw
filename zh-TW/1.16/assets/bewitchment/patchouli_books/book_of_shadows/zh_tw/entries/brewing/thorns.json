@@ -1,0 +1,18 @@
+{
+  "category": "bewitchment:brewing",
+  "name": "尖刺",
+  "icon": "minecraft:cactus",
+  "advancement": "bewitchment:hidden_unlocks/altars",
+  "pages": [
+    {
+      "type": "text",
+      "text": "荊棘效應確實如其名稱所示的那樣。每個試圖損壞用戶的實體都會收到一些損壞。"
+    },
+    {
+      "type": "spotlight",
+      "title": "尖刺",
+      "item": "minecraft:cactus",
+      "text": "The damage received through Thorns is proportional to the effect's strength."
+    }
+  ]
+}

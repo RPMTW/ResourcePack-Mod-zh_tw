@@ -1,0 +1,64 @@
+{
+    "name": "注魔儀式",
+    "icon": "betterend:infusion_pedestal",
+    "read_by_default": true,
+    "category": "rituals",
+    "pages": [
+        {
+            "type": "text",
+            "text": "為物品注入元素的力量"
+        },
+        {
+            "type": "crafting",
+            "title": "準備結構",
+            "text": "首先，您需要製作 $(bold)注魔基座$()和$(bold)任何$()其他類型的8個基座。",
+            "recipe": "betterend:infusion_pedestal"
+        },
+        {
+            "type": "image",
+            "text": "然後，您需要將注魔基座放置在中心，其他基座放置在周圍。 ",
+            "border": true,
+            "images": [
+                "betterend:textures/images/infusion_ritual/infusion_ritual_start.png",
+                "betterend:textures/images/infusion_ritual/infusion_ritual_full.png"
+            ]
+        },
+        {
+            "type": "image",
+            "title": "注魔",
+            "text": "當儀式結構準備好時，您可以開始注魔。",
+            "border": false,
+            "images": [
+                "betterend:textures/images/infusion_ritual/ritual_structure.png"
+            ]
+        },
+        {
+            "type": "image",
+            "text": "將主要成分放在$(bold)注魔基座$() 上，將其他材料放在其他基座。",
+            "border": false,
+            "images": [
+                "betterend:textures/images/infusion_ritual/ritual_ready.png"
+            ]
+        },
+        {
+            "type": "text",
+            "text": "您可以在$(l:https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items)REI$(/l)中查看食譜。$(br2)要開始注魔只需將主要成分放在最後或右鍵單擊$(bold)注魔基座$()。"
+        },
+        {
+            "type": "image",
+            "text": "然後你需要等到儀式完成。",
+            "border": false,
+            "images": [
+                "betterend:textures/images/infusion_ritual/ritual_started.png"
+            ]
+        },
+        {
+            "type": "image",
+            "text": "並取結果。",
+            "border": false,
+            "images": [
+                "betterend:textures/images/infusion_ritual/ritual_finished.png"
+            ]
+        }
+    ]
+}

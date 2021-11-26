@@ -6,6 +6,6 @@
     "gui.colytra.config.permissionList.tooltip": "按註冊名稱列出物品列表，根據許可模式列入黑名單/白名單",
     "gui.colytra.config.colytraMode": "鞘翅胸甲模式",
     "gui.colytra.config.colytraMode.tooltip": "設定鞘翅胸甲可如何使用\nNORMAL: 鞘翅與胸甲分開存在，可以以後分開\nUNISON: 鞘翅與胸甲完全融合，無法再分開\nPERFECT: 鞘翅與胸甲完全融合，但飛行不會消耗耐久度",
-    "gui.colytra.config.energyUsage": "耗能",
+    "gui.colytra.config.energyUsage": "能量使用",
     "gui.colytra.config.energyUsage.tooltip": "如果設定為Unison模式並且胸甲使用能量，則鞘翅飛行每秒消耗多少能量"
 }

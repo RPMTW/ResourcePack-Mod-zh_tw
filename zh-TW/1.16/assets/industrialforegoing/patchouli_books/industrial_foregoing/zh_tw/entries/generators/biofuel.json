@@ -1,13 +1,13 @@
 {
-  "name": "Biofuel (Fluid)",
+  "name": "生物燃料（流體）",
   "icon": "industrialforegoing:biofuel_bucket",
-  "category": "發電機",
+  "category": "generators",
   "sortnum": 1,
   "read_by_default": true,
   "pages": [
     {
       "type": "text",
-      "text": "A purple fluid made of plants, dyes and some questionable things like skulls in a $(l:generators/bioreactor)Bioreactor$(). $(br2)Used in a $(l:generators/biofuel_generator)Biofuel Generator$() or in $(l:tools/infinity_tools)Infinity Tools$()."
+      "text": "一種紫色液體，將植物、染料和一些可疑的東西像是骨頭放入$(l:generators/bioreactor)生物反應器$()裡所製成。 $(br2)用於$(l:generators/biofuel_generator)生物燃料生成器$()或 $(l:tools/infinity_tools)無限工具$()。"
     }
   ]
 }

@@ -1,0 +1,18 @@
+{
+  "category": "bewitchment:brewing",
+  "name": "營養",
+  "icon": "minecraft:bamboo",
+  "advancement": "bewitchment:hidden_unlocks/altars",
+  "pages": [
+    {
+      "type": "text",
+      "text": "The Nourishing effect increases the effectiveness of food, giving a flat increase in gain when consuming food."
+    },
+    {
+      "type": "spotlight",
+      "title": "營養",
+      "item": "minecraft:bamboo",
+      "text": "The gain increase scales with intensity."
+    }
+  ]
+}

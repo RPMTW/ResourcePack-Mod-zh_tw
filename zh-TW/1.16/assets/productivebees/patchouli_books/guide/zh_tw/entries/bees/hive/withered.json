@@ -1,5 +1,5 @@
 {
-    "name": "凋零骷髏蜂",
+    "name": "凋零蜂",
     "icon": "productivebees:wither_skull_chip",
     "read_by_default": true,
     "category": "productivebees:bees_hive",
@@ -7,9 +7,9 @@
     "pages": [
         {
             "type": "text",
-            "title": "凋零骷髏蜂",
+            "title": "凋零蜂",
             "text": "餵食凋零玫瑰給$(l:bees/hive_bees#skeletal)骷髏蜂$(/l)就會變成。",
-            "anchor": "凋零"
+            "anchor": "withered"
         },
         {
             "type": "entity",

@@ -1,0 +1,19 @@
+{
+    "name": "難得素-汎金屬 合金",
+    "icon": "allthemodium:unobtainium_vibranium_alloy_ingot",
+    "category": "allthemodium:alloys",
+    "sortnum": "3",
+    "pages": [
+        {
+            "type": "text",
+            "text": "難得素-汎金屬 合金是$(br)三種合金中最強的，$(br)它是在$(br)龍冰熔爐$(br)左側放入難得素，$(br)右側放入汎金屬製造的"
+        },
+        {
+            "type": "entity",
+            "entity": "iceandfire:ice_dragon",
+            "scale": "0.9",
+            "rotate": true,
+            "default_rotation": -45
+        }
+    ]
+}

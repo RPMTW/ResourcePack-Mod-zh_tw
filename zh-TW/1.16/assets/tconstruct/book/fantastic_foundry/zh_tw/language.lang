@@ -1,19 +1,25 @@
 // Sections
 intro=簡介
-materials=工具材料
-bowmaterials=弓箭材料
-tools=工具
-modifiers=強化
-smeltery=冶煉爐
-seared_furnace=烤爐
-tinker_tank=工匠儲罐
-tier_three_materials=第三階段材料
+alloyer=合金
 tier_four_materials=第四階段材料
 
-molten_blaze=熔火之焰
-
-modifier.effect=效果:
+smeltery=冶煉爐
 tool.properties=屬性:
+foundry.byproducts=Byproducts
+foundry.controller=Controller
+foundry.structure=Structure
+foundry.structurereq=Structure Requirements
+tinker_tank=工匠儲罐
+foundry.scorched_blocks=Scorched Blocks
+tier_three_materials=第三階段材料
+foundry.scorched_glass=Scorched Glass
+foundry.scorched_drain=Scorched Drain
+foundry.scorched_duct=Scorched Duct
+foundry.scorched_chute=Scorched Chute
+foundry.fgui1=Foundry GUI
+foundry.fgui2=Foundry GUI Explination
 
-material.craft_partbuilder=可於部件加工台被製作
-material.craft_casting=可被製造於
+molten_blaze=熔火之焰
+blazing_blood.carry=Carrying
+seared_furnace=烤爐
+blazing_blood.melting=Melting

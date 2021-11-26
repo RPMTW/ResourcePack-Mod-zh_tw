@@ -1,0 +1,18 @@
+{
+  "category": "bewitchment:brewing",
+  "name": "偷竊",
+  "icon": "minecraft:diamond",
+  "advancement": "bewitchment:hidden_unlocks/altars",
+  "pages": [
+    {
+      "type": "text",
+      "text": "這種效果將竊取任何附近實體的正面影響，並將其應用於您。環境效果就是一個例外。"
+    },
+    {
+      "type": "spotlight",
+      "title": "偷竊",
+      "item": "minecraft:diamond",
+      "text": "Stealing an effect will halve its duration.$(br2)This effect is not compatible with $(l:bewitchment:brewing/synchronized)Synchronized$().$(br2)The higher this effect's intensity, the further it'll reach."
+    }
+  ]
+}

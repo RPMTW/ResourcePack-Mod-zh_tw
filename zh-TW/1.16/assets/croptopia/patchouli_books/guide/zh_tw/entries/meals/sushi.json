@@ -1,0 +1,12 @@
+{
+  "name": "壽司",
+  "icon": "croptopia:sushi",
+  "category": "croptopia:meals",
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "croptopia:sushi",
+      "text": "壽司的食譜"
+    }
+  ]
+}

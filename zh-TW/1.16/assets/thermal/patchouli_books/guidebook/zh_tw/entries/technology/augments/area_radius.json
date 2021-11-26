@@ -5,7 +5,7 @@
     "read_by_default": true,
     "pages": [
         {
-            "type": "合成",
+            "type": "crafting",
             "recipe": "thermal:augments/area_radius_augment",
             "title": "徑向範圍拓展",
             "text": "The Radial Enhancement Augment allows your tool or machine to affect a greater area around it. Each augment will increase the maximum area by 1 block in every direction."

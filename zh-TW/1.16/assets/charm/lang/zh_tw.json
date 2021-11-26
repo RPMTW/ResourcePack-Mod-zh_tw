@@ -109,7 +109,7 @@
     "enchantment.charm.tinted.desc": "允許使用鐵砧上的染料來改變附魔閃光的顏色",
     "entity.charm.coral_squid": "珊瑚魷魚",
     "entity.charm.moobloom": "哞花",
-    "entity.minecraft.villager.charm.beekeeper": "養蜂人",
+    "entity.minecraft.villager.charm.beekeeper": "养蜂人",
     "entity.minecraft.villager.charm.lumberjack": "伐木工",
     "filled_map.charm.trader_map": "%s地圖",
     "gui.charm.recipebook.toggleRecipes.fireable": "顯示可燃",
@@ -133,9 +133,13 @@
     "structure.charm.jungle_pyramid": "叢林神廟",
     "structure.charm.mineshaft": "廢棄礦坑",
     "structure.charm.ocean_ruin": "海底遺跡",
-    "structure.charm.pillager_outpost": "奪者前哨站",
+    "structure.charm.pillager_outpost": "掠奪者前哨站",
     "structure.charm.ruined_portal": "廢棄傳送門",
     "structure.charm.shipwreck": "沉船",
     "structure.charm.swamp_hut": "沼澤小屋",
-    "structure.charm.village": "村莊"
+    "structure.charm.village": "村莊",
+    "entity.minecraft.villager.beekeeper": "養蜂人",
+    "entity.minecraft.villager.lumberjack": "伐木工",
+    "rei.charm.category.firing": "火",
+    "rei.charm.category.woodcutting": "木材切割"
 }

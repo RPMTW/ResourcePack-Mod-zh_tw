@@ -1,0 +1,17 @@
+{
+  "name": "Iron Thruster",
+  "icon": "simplyjetpacks:thruster_vanilla1",
+  "category": "simplyjetpacks:vanilla",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "This is the Iron Thruster"
+    },
+    {
+      "type": "crafting",
+      "recipe": "simplyjetpacks:vanilla/thruster_vanilla1",
+      "text": "This is a test entry, but it should show up!"
+    }
+  ]
+}

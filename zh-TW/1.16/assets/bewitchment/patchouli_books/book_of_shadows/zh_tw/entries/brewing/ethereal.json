@@ -1,0 +1,18 @@
+{
+  "category": "bewitchment:brewing",
+  "name": "空靈",
+  "icon": "bewitchment:ectoplasm",
+  "advancement": "bewitchment:hidden_unlocks/altars",
+  "pages": [
+    {
+      "type": "text",
+      "text": "空靈實體不能收到任何損害，但也不能處理任何損壞。"
+    },
+    {
+      "type": "spotlight",
+      "title": "空靈",
+      "item": "bewitchment:ectoplasm",
+      "text": "強度不影響此效果。"
+    }
+  ]
+}

@@ -10,7 +10,7 @@
       "text": "Use a $(l:bloodmagic:rituals/ritual_diviner#dusk)Ritual Diviner [Dusk]$(/l) for easier construction."
     },
     {
-      "type": "text",
+      "type": "bloodmagic:ritual_info",
       "ritual": "crystal_split",
       "text_overrides": [
         [
@@ -25,7 +25,7 @@
     },
     {
       "type": "text",
-      "text": "Recommended setup for the Resonance of the Faceted Crystal ritual."
+      "text": "This ritual takes a well grown (at least 5 spires) $(l:bloodmagic:demon_will/will_manipulation/crystallized_will)Raw Crystal Cluster$(/l) located 2 blocks above the $(item)Master Ritual Stone$(), and splits it into new single spires of each $(l:bloodmagic:demon_will/will_manipulation/aspected_will)Aspected Will$(/l) Crystal Clusters located directly above the 4 elemental Ritual Stones. This spacing is designed to accommodate a $(item)Demon Crystallizer$() on top of the $(item)Master Ritual Stone$().$(br2)For information on growing Demon Will Crystals, please see $(l:bloodmagic:demon_will/will_manipulation/crystallized_will)Crystallized Will$(/l)."
     },
     {
       "type": "image",
@@ -34,7 +34,7 @@
         "bloodmagic:images/entries/demon_will/will_splitting.png"
       ],
       "border": true,
-      "text": "This ritual takes a well grown (5 spires) $(l:bloodmagic:demon_will/crystallized_will)Raw Crystal Cluster$(/l) located 2 blocks above the $(item)Master Ritual Stone$(), and splits it into new single spires of each $(l:bloodmagic:demon_will/aspected_will)Aspected Will$(/l) Crystal Clusters located directly above the 4 elemental Ritual Stones. This spacing is designed to accommodate a $(item)Demon Crystallizer$() on top of the $(item)Master Ritual Stone$().$(br2)For information on growing Demon Will Crystals, please see $(l:bloodmagic:demon_will/crystallized_will)Crystallized Will$(/l)."
+      "text": "Recommended setup for the Resonance of the Faceted Crystal ritual."
     }
   ]
 }

@@ -1,0 +1,18 @@
+{
+  "category": "bewitchment:brewing",
+  "name": "附魔",
+  "icon": "minecraft:lapis_block",
+  "advancement": "bewitchment:hidden_unlocks/altars",
+  "pages": [
+    {
+      "type": "text",
+      "text": "使普通攻擊具有魔法，讓他們通過護甲。"
+    },
+    {
+      "type": "spotlight",
+      "title": "附魔",
+      "item": "minecraft:lapis_block",
+      "text": "由此產生的傷害明顯低於原藥，但會根據藥水的強度新增一個組織傷害加成。"
+    }
+  ]
+}

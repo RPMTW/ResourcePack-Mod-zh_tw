@@ -14,6 +14,12 @@
       "heading": "礦工之秘",
       "recipe": "bloodmagic:alchemytable/hidden_knowledge_anointment",
       "text": "採集方塊時會掉落經驗值。每塊掉落 +2exp。$(br2)有效物品：工具、劍、炸藥。$(br2)適用：礦工之秘I（256塊）"
+    },
+    {
+      "type": "crafting_alchemy_table",
+      "heading": "Miner's Secrets L",
+      "recipe": "bloodmagic:alchemytable/hidden_knowledge_anointment_l",
+      "text": "This upgraded version of the anointment lasts four times longer. $(br2)Applies: Miner's Secrets I (1024 blocks)"
     }
   ]
 }

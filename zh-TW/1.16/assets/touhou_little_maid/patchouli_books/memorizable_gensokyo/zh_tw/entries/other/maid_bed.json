@@ -1,0 +1,20 @@
+{
+  "sortnum": 5,
+  "name": "女僕床",
+  "icon": "touhou_little_maid:maid_bed",
+  "category": "other",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "touhou_little_maid:maid_bed",
+      "text": "玩家可以睡覺，自然而然女僕也可以睡覺。在睡覺的日程中，女僕會尋找周圍的床睡覺。$(br2)睡著狀態的女僕不會再被敵對性生物攻擊，此時女僕的介面也無法開啟。"
+    },
+    {
+      "type": "image",
+      "images": [
+        "touhou_little_maid:textures/book/bed.png"
+      ],
+      "text": "睡在床上的女僕。"
+    }
+  ]
+}

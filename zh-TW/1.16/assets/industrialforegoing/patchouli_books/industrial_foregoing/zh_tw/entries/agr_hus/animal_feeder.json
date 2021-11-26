@@ -7,10 +7,10 @@
   "pages": [
     {
       "type": "text",
-      "text": "一台機器用於 $(6)feed$() 動物，因此當機器提供動物餵養物品時，它們可以生產嬰兒。"
+      "text": "一台用於$(6)飼育$()動物的機器，提供和動物相對應的食物後，機器會消耗食物並自動繁殖動物。"
     },
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "industrialforegoing:animal_feeder"
     }
   ]

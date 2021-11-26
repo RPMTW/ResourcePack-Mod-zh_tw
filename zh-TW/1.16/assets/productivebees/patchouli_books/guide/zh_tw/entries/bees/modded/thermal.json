@@ -1,5 +1,5 @@
 {
-    "name": "熱力膨脹",
+    "name": "精煉機械",
     "icon": "thermal:chiller",
     "read_by_default": true,
     "sortnum": 8,
@@ -8,7 +8,7 @@
     "pages": [
         {
             "type": "text",
-            "text": "專用於Thermal模組金屬的蜜蜂。僅顯示於特殊金屬的蜜蜂，對於普通的金屬像銅礦和錫礦請看$(l:bees/modded/ingot_bees)所有金屬錠蜜蜂列表$(/l)"
+            "text": "專用於《精煉機械》（Thermal）模組金屬的蜜蜂。僅顯示於特殊金屬的蜜蜂，對於普通的金屬像銅蜂和錫蜂請看$(l:bees/modded/ingot_bees)所有金屬錠蜜蜂列表$(/l)"
         },
         {
             "type": "empty",
@@ -18,7 +18,7 @@
             "type": "text",
             "title": "岩石蜂",
             "text": "這個蜜蜂不能被配種而得。其生怪蛋製作從$(l:bees/hive/diamond)鑽石蜂$(/l)生怪蛋在冶煉爐裡使用。",
-            "anchor": "岩石人",
+            "anchor": "basalz",
             "flag": "productivebees:basalz"
         },
         {
@@ -29,14 +29,14 @@
         },
         {
             "type": "text",
-            "title": "狂風蜂",
+            "title": "閃電蜂",
             "text": "這個蜜蜂不能被配種而得。其生怪蛋製作從$(l:bees/hive/diamond)鑽石蜂$(/l)生怪蛋在冶煉爐裡使用。",
-            "anchor": "狂風人",
+            "anchor": "blitz",
             "flag": "productivebees:blitz"
         },
         {
             "type": "entity",
-            "name": "狂風蜂",
+            "name": "閃電蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:blitz'}",
             "flag": "productivebees:blitz"
         },
@@ -44,7 +44,7 @@
             "type": "text",
             "title": "暴雪蜂",
             "text": "這個蜜蜂不能被配種而得。其生怪蛋製作從$(l:bees/hive/diamond)鑽石蜂$(/l)生怪蛋在冷凍器裡使用。",
-            "anchor": "暴雪人",
+            "anchor": "blizz",
             "flag": "productivebees:blizz"
         },
         {

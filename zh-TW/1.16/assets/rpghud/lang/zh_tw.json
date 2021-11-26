@@ -168,7 +168,7 @@
     "tooltip.y_pos": "Set the custom Y/ncoordinate of/nthis element/nRange: 0-1000/nThe value reflects the percent of/nthe screen from the top side/n250 would render this element at/n25%% from the top side of the screen",
     "tooltip.use_position": "When activated this element uses the/ncustom X/Y Coordinates set in the/nsettings of this element/n(If the Hud-Type supports/ncustom coordinates for this element)",
     "tooltip.health_percentage": "顯示生命值/以百分比表示",
-    "tooltip.hunger_percentage": "顯示饑餓值/以百分比顯示",
+    "tooltip.hunger_percentage": "顯示飢餓值/n以百分比顯示",
     "tooltip.mount_health_percentage": "以百分比形式顯示坐騎血量條/坐騎護甲值",
     "tooltip.experience_percentage": "顯示經驗值/n以百分比表示"
 }

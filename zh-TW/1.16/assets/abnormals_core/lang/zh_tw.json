@@ -1,18 +1,20 @@
 {
     "abnormals_core.config.quark_sign_editing": "夸克編輯器",
-    "abnormals_core.config.require_empty_hand": "您需要空手來使用夸克編輯器",
+    "abnormals_core.config.require_empty_hand": "您需要移除手上的物品來使用夸克編輯器",
     "abnormals_core.config.slabfish_hat.enabled": "板魚帽",
     "abnormals_core.config.slabfish_hat.enabled.tooltip": "切換板魚帽。適用於2級以上的贊助者。",
     "abnormals_core.config.slabfish_hat.sweater": "毛衣",
     "abnormals_core.config.slabfish_hat.sweater.tooltip": "切換板魚帽毛衣。適用於2級以上贊助者。",
     "abnormals_core.config.slabfish_hat.backpack": "背包",
     "abnormals_core.config.slabfish_hat.backpack.tooltip": "切換板魚帽背包。適用於3級以上贊助者。",
-    "abnormals_core.config.slabfish_hat.type": "類型",
+    "abnormals_core.config.slabfish_hat.type": "種類",
     "abnormals_core.config.slabfish_hat.type.tooltip": "切換板魚帽的類型。適用於4級以上贊助者。",
     "abnormals_core.screen.slabfish_settings": "板魚帽設定...",
     "abnormals_core.screen.slabfish_settings.title": "板魚帽設定",
-    "abnormals_core.screen.slabfish_settings.tooltip": "異常(Abnormals)團隊贊助人板魚帽的設定。成為%s的贊助者。",
-    "abnormals_core.message.redirect": "重新導向",
+    "abnormals_core.screen.slabfish_settings.tooltip": "異常(Abnormals )團隊贊助人板魚帽的設定。成為%s的贊助者。",
+    "abnormals_core.message.redirect": "正在重新導向",
     "entity.abnormals_core.boat": "船",
-    "abnormals_core.config.smooth_sky_color": "平滑天空顏色"
+    "abnormals_core.config.smooth_sky_color": "平滑天空顏色",
+    "abnormals_core.config.screen_shake_scale": "畫面抖動程度",
+    "abnormals_core.config.max_screen_shakers": "最大畫面抖動來源數量"
 }

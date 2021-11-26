@@ -57,7 +57,7 @@
     "block.naturesaura.dimension_rail_nether": "地獄鐵軌",
     "block.naturesaura.projectile_generator": "射擊標靶",
     "block.naturesaura.blast_furnace_booster": "盔甲匠之援",
-    "block.naturesaura.nether_wart_mushroom": "地獄疣蘑菇",
+    "block.naturesaura.nether_wart_mushroom": "地獄疙瘩蘑菇",
     "block.naturesaura.animal_container": "實形之眼",
     "block.naturesaura.snow_creator": "凜冬的呼喚",
     "block.naturesaura.item_distributor": "物品分配器",
@@ -146,7 +146,7 @@
     "container.naturesaura:offering.name": "祭祀諸神",
     "container.naturesaura:animal_spawner.name": "降生祭壇",
     "info.naturesaura.aura_in_area": "周圍的靈氣",
-    "info.naturesaura.book.landing": "$(aura) 是一個複雜的概念，創造、收集、使用它也許會有些困難。$(br)此 $(item)自然靈氣指南$()包含了你所需要的一切資訊。",
+    "info.naturesaura.book.landing": "$(#419600)靈氣$()是一個複雜的概念，創造、收集、使用它也許會有些困難。$(br)這本$(item)自然靈氣指南$()包含了你所需要的一切訊息。",
     "info.naturesaura.book.subtitle": "自然靈氣的指南",
     "info.naturesaura.stored_pos": "你草草記下了這個位置",
     "info.naturesaura.connected": "你創造了一個連接",
@@ -217,7 +217,7 @@
     "effect.naturesaura.breathless": "窒息",
     "entity.naturesaura.effect_inhibitor": "效應粉",
     "entity.naturesaura.mover_cart": "靈氣吸引礦車",
-    "enchantment.naturesaura.aura_mending": "靈氣修補",
+    "enchantment.naturesaura.aura_mending": "自然修補",
     "enchantment.naturesaura.aura_mending.desc": "使用靈氣修理工具",
     "naturesaura:aura_mending.enchant.desc": "使用靈氣治癒玩家"
 }

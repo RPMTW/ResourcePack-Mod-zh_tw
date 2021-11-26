@@ -1,5 +1,5 @@
 {
-    "name": "鐵蜜蜂",
+    "name": "鐵蜂",
     "icon": "minecraft:iron_ingot",
     "read_by_default": true,
     "category": "productivebees:bees_hive",
@@ -7,9 +7,9 @@
     "pages": [
         {
             "type": "text",
-            "title": "鐵蜜蜂",
-            "text": "由$(l:bees/wild_bees#crystalline)石英蜂$(/l)和$(l:bees/solitary_bees#ashy_mining)灰色採礦蜂$(/l)配種而得。",
-            "anchor": "鐵"
+            "title": "鐵蜂",
+            "text": "由$(l:bees/wild/crystalline)石英蜂$(/l)和$(l:bees/solitary/ashy_mining)灰色採礦蜂$(/l)配種而得。",
+            "anchor": "iron"
         },
         {
             "type": "entity",

@@ -1,0 +1,18 @@
+{
+  "category": "bewitchment:brewing",
+  "name": "腐蝕",
+  "icon": "minecraft:dragon_breath",
+  "advancement": "bewitchment:hidden_unlocks/altars",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(l:bewitchment:brewing/hardening)Hardening$() 的對應項將減少護甲值。"
+    },
+    {
+      "type": "spotlight",
+      "title": "腐蝕",
+      "item": "minecraft:dragon_breath",
+      "text": "盔甲的減少與藥水的強度成正比。"
+    }
+  ]
+}

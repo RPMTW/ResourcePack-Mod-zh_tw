@@ -1,5 +1,5 @@
 {
-    "name": "神秘農業",
+    "name": "神祕農業",
     "icon": "mysticalagriculture:infusion_altar",
     "read_by_default": true,
     "sortnum": 8,
@@ -8,7 +8,7 @@
     "pages": [
         {
             "type": "text",
-            "text": "用於神秘農業以及附屬的完全平衡的蜜蜂。"
+            "text": "用於神祕農業以及附屬的完全平衡的蜜蜂。"
         },
         {
             "type": "empty",
@@ -16,9 +16,9 @@
         },
         {
             "type": "text",
-            "title": "繁榮蜜蜂",
+            "title": "活化水晶蜂",
             "text": "這個蜜蜂不能配種而得。其生怪蛋製作從$(l:bees/mod/bees/mystical_agriculture#inferium)下級精華$(/l)生怪蛋在注魔祭壇使用。",
-            "anchor": "活化水晶",
+            "anchor": "prosperity",
             "flag": "productivebees:prosperity"
         },
         {
@@ -29,14 +29,14 @@
         },
         {
             "type": "text",
-            "title": "離魂礦蜂",
+            "title": "離魂蜂",
             "text": "從$(l:bees/wild/ghostly)幽靈蜂$(/l)用離魂匕首轉換而得。",
-            "anchor": "離魂",
+            "anchor": "soulium",
             "flag": "productivebees:soulium"
         },
         {
             "type": "entity",
-            "name": "離魂礦蜂",
+            "name": "離魂蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:soulium'}",
             "flag": "productivebees:soulium"
         },
@@ -44,7 +44,7 @@
             "type": "text",
             "title": "下級精華蜂",
             "text": "這個蜜蜂不能配種而得。其生怪蛋製作從$(l:bees/mod/bees/mystical_agriculture#prosperity)活化水晶蜂$(/l)生怪蛋在注魔祭壇使用。",
-            "anchor": "下級精華",
+            "anchor": "inferium",
             "flag": "productivebees:inferium"
         },
         {
@@ -57,7 +57,7 @@
             "type": "text",
             "title": "初級精華蜂",
             "text": "這個蜜蜂不能配種而得。其生怪蛋製作從$(l:bees/mod/bees/mystical_agriculture#inferium)下級精華$(/l)生怪蛋在注魔祭壇使用。",
-            "anchor": "初級精華",
+            "anchor": "prudentium",
             "flag": "productivebees:prudentium"
         },
         {
@@ -70,7 +70,7 @@
             "type": "text",
             "title": "中級精華蜂",
             "text": "這個蜜蜂不能配種而得。其生怪蛋製作從$(l:bees/mod/bees/mystical_agriculture#prudentium)初級精華$(/l)生怪蛋在注魔祭壇使用。",
-            "anchor": "中級精華",
+            "anchor": "tertium",
             "flag": "productivebees:tertium"
         },
         {
@@ -83,11 +83,11 @@
             "type": "text",
             "title": "高級精華蜂",
             "text": "這個蜜蜂不能配種而得。其生怪蛋製作從$(l:bees/mod/bees/mystical_agriculture#tertium)中級精華$(/l)生怪蛋在注魔祭壇使用。",
-            "anchor": "高級精華",
+            "anchor": "imperium",
             "flag": "productivebees:imperium"
         },
         {
-            "type": "實體",
+            "type": "entity",
             "name": "高級精華蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:imperium'}",
             "flag": "productivebees:imperium"
@@ -96,11 +96,11 @@
             "type": "text",
             "title": "終極精華蜂",
             "text": "這個蜜蜂不能配種而得。其生怪蛋製作從$(l:bees/mod/bees/mystical_agriculture#imperium)高級精華$(/l)生怪蛋在注魔祭壇使用。",
-            "anchor": "終極精華",
+            "anchor": "supremium",
             "flag": "productivebees:supremium"
         },
         {
-            "type": "實體",
+            "type": "entity",
             "name": "終極精華蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:supremium'}",
             "flag": "productivebees:supremium"
@@ -109,11 +109,11 @@
             "type": "text",
             "title": "究極精華蜂",
             "text": "這個蜜蜂不能配種而得。其生怪蛋製作從$(l:bees/mod/bees/mystical_agriculture#supremium)終極精華蜂$(/l)生怪蛋在注魔祭壇使用。",
-            "anchor": "究極精華",
+            "anchor": "insanium",
             "flag": "productivebees:insanium"
         },
         {
-            "type": "實體",
+            "type": "entity",
             "name": "究極精華蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:insanium'}",
             "flag": "productivebees:insanium"

@@ -1,0 +1,23 @@
+{
+	"name": "Ring Of Time",
+	"icon": "theabyss:ring_of_time",
+	"category": "rings",
+	"advancement": "theabyss:somnium_adv",
+	"priority": false,
+	"secret": false,
+	"read_by_default": false,
+	"pages": [
+		{
+			"type": "spotlight",
+			"item": "theabyss:ring_of_time",
+			"title": "Ring Of Time",
+			"link_recipe": false,
+			"text": "The ring of time is 10 times more powerful than the ring of freeze it will stop your opponents as if time itself halted, it will drain 80% somnium in the process."
+		},
+		{
+			"type": "crafting",
+			"title": "Ring Of Time",
+			"recipe": "theabyss:ring_of_time_rcp"
+		}
+	]
+}

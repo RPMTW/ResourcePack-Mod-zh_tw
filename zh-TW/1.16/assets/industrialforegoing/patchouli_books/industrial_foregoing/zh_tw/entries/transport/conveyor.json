@@ -1,5 +1,5 @@
 {
-  "name": "Conveyors",
+  "name": "輸送帶",
   "icon": "industrialforegoing:conveyor",
   "category": "transport",
   "sortnum": 0,
@@ -7,21 +7,21 @@
   "pages": [
     {
       "type": "text",
-      "text": "Conveyors can be used to transport items, entities and fluids. They can interact with the world using $(l:conveyor_upgrades)upgrades$(). Items and entities can go up and down on the conveyors but fluids can only go horizontal. $(br2)Conveyors can be colored by right-clicking them with a dye."
+      "text": "輸送帶可用於輸送物品、實體和流體。它們可以進行$(l:conveyor_upgrades)升級$()。物品和實體可以在輸送帶上上下傳送，但流體只能水平傳送。$(br2)輸送帶可以透過手持染料右鍵點擊來跟改顏色。"
     },
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "industrialforegoing:conveyor"
     },
     {
       "type": "spotlight",
       "item": "minecraft:glowstone_dust",
-      "text": "Using glowstone can make the conveyors move items and entities very fast."
+      "text": "使用螢光石可以讓傳送帶非常快速地移動物品和實體。"
     },
     {
       "type": "spotlight",
       "item": "industrialforegoing:plastic",
-      "text": "Using plastic will prevent items from being picked up when they are on top of a conveyor."
+      "text": "使用塑料將防止物品在輸送帶上時被玩家吸取。"
     }
   ]
 }

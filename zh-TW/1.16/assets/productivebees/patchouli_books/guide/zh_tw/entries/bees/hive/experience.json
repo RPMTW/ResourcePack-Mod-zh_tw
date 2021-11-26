@@ -8,8 +8,8 @@
         {
             "type": "text",
             "title": "經驗蜂",
-            "text": "由$(l:bees/hive/emerald)綠寶石蜂$(/l) 和$(l:bees/hive_bees#lapis)青金石蜂$(/l)配種而得。",
-            "anchor": "經驗"
+            "text": "由$(l:bees/hive/emerald)綠寶石蜂$(/l) 和$(l:bees/hive/lapis)青金石蜂$(/l)配種而得。",
+            "anchor": "experience"
         },
         {
             "type": "entity",

@@ -17,7 +17,7 @@
             "type": "text",
             "title": "瑪瑙蜂",
             "text": "從$(l:bees/hive/diamond)鑽石蜂$(/l) 用瑪瑙轉換",
-            "anchor": "瑪瑙",
+            "anchor": "agate",
             "flag": "productivebees:agate"
         },
         {
@@ -30,7 +30,7 @@
             "type": "text",
             "title": "亞歷山大石蜂",
             "text": "從$(l:bees/hive/diamond)鑽石蜂$(/l) 用亞歷山大石轉換",
-            "anchor": "亞歷山大石",
+            "anchor": "alexandrite",
             "flag": "productivebees:alexandrite"
         },
         {
@@ -43,7 +43,7 @@
             "type": "text",
             "title": "琥珀蜂",
             "text": "從$(l:bees/hive/diamond)鑽石蜂$(/l) 用琥珀轉換",
-            "anchor": "琥珀",
+            "anchor": "amber",
             "flag": "productivebees:amber"
         },
         {
@@ -56,7 +56,7 @@
             "type": "text",
             "title": "紫水晶蜂",
             "text": "從$(l:bees/hive/diamond)鑽石蜂$(/l) 用紫水晶轉換",
-            "anchor": "紫水晶",
+            "anchor": "amethyst",
             "flag": "productivebees:amethyst"
         },
         {
@@ -69,7 +69,7 @@
             "type": "text",
             "title": "紫黃晶蜂",
             "text": "從$(l:bees/hive/diamond)鑽石蜂$(/l) 用紫黃晶轉換",
-            "anchor": "紫黃晶",
+            "anchor": "ametrine",
             "flag": "productivebees:ametrine"
         },
         {
@@ -82,11 +82,11 @@
             "type": "text",
             "title": "斑彩石蜂",
             "text": "從$(l:bees/hive/diamond)鑽石蜂$(/l) 用斑彩石轉換",
-            "anchor": "斑彩石",
+            "anchor": "ammolite",
             "flag": "productivebees:ammolite"
         },
         {
-            "type": "實體",
+            "type": "entity",
             "name": "斑彩石蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:ammolite'}",
             "flag": "productivebees:ammolite"
@@ -95,11 +95,11 @@
             "type": "text",
             "title": "磷灰石蜂",
             "text": "從$(l:bees/hive/diamond)鑽石蜂$(/l) 用磷灰石轉換",
-            "anchor": "磷灰石",
+            "anchor": "apatite",
             "flag": "productivebees:apatite"
         },
         {
-            "type": "實體",
+            "type": "entity",
             "name": "磷灰石蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:apatite'}",
             "flag": "productivebees:apatite"
@@ -108,11 +108,11 @@
             "type": "text",
             "title": "海藍寶石蜂",
             "text": "從$(l:bees/hive/diamond)鑽石蜂$(/l) 用海藍寶石轉換",
-            "anchor": "海藍寶石",
+            "anchor": "aquamarine",
             "flag": "productivebees:aquamarine"
         },
         {
-            "type": "實體",
+            "type": "entity",
             "name": "海藍寶石蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:aquamarine'}",
             "flag": "productivebees:aquamarine"
@@ -121,7 +121,7 @@
             "type": "text",
             "title": "藍錐礦蜂",
             "text": "從$(l:bees/hive/diamond)鑽石蜂$(/l) 用藍錐礦轉換",
-            "anchor": "藍錐礦",
+            "anchor": "benitoite",
             "flag": "productivebees:benitoite"
         },
         {
@@ -134,7 +134,7 @@
             "type": "text",
             "title": "黑鑽石蜂",
             "text": "從$(l:bees/hive/diamond)鑽石蜂$(/l) 用黑鑽石轉換",
-            "anchor": "黑鑽石",
+            "anchor": "black_diamond",
             "flag": "productivebees:black_diamond"
         },
         {
@@ -160,11 +160,11 @@
             "type": "text",
             "title": "紅玉髓蜂",
             "text": "從$(l:bees/hive/diamond)鑽石蜂$(/l) 用紅玉髓轉換",
-            "anchor": "紅玉髓",
+            "anchor": "carnelian",
             "flag": "productivebees:carnelian"
         },
         {
-            "type": "實體",
+            "type": "entity",
             "name": "紅玉髓蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:carnelian'}",
             "flag": "productivebees:carnelian"
@@ -173,11 +173,11 @@
             "type": "text",
             "title": "貓眼蜂",
             "text": "從$(l:bees/hive/diamond)鑽石蜂$(/l) 用貓眼轉換",
-            "anchor": "貓眼",
+            "anchor": "cats_eye",
             "flag": "productivebees:cats_eye"
         },
         {
-            "type": "實體",
+            "type": "entity",
             "name": "貓眼蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:cats_eye'}",
             "flag": "productivebees:cats_eye"
@@ -186,11 +186,11 @@
             "type": "text",
             "title": "綠玉髓蜂",
             "text": "從$(l:bees/hive/diamond)鑽石蜂$(/l) 用綠玉髓轉換",
-            "anchor": "綠玉髓",
+            "anchor": "chrysoprase",
             "flag": "productivebees:chrysoprase"
         },
         {
-            "type": "實體",
+            "type": "entity",
             "name": "綠玉髓蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:chrysoprase'}",
             "flag": "productivebees:chrysoprase"
@@ -199,11 +199,11 @@
             "type": "text",
             "title": "硃砂蜂",
             "text": "從$(l:bees/hive/diamond)鑽石蜂$(/l) 用硃砂轉換",
-            "anchor": "硃砂",
+            "anchor": "cinnabar",
             "flag": "productivebees:cinnabar"
         },
         {
-            "type": "實體",
+            "type": "entity",
             "name": "硃砂蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:cinnabar'}",
             "flag": "productivebees:cinnabar"
@@ -314,14 +314,14 @@
         },
         {
             "type": "text",
-            "title": "玉石蜜蜂",
+            "title": "玉石蜂",
             "text": "從$(l:bees/hive/diamond)鑽石蜂$(/l) 用翡翠轉換",
-            "anchor": "玉",
+            "anchor": "jade",
             "flag": "productivebees:jade"
         },
         {
             "type": "entity",
-            "name": "玉蜜蜂",
+            "name": "玉石蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:jade'}",
             "flag": "productivebees:jade"
         },

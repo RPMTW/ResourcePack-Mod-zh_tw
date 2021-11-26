@@ -6,7 +6,7 @@
     "pages": [
         {
             "type": "text",
-            "text": "When draining $(aura) from an area to the point that plants and other vegetation no longer have the natural energy required to support themselves, $(thing)Natural Decay$() kicks in. All $(item)Grass$() will decay, along with $(item)Leaves$() from trees and other plants. The more $(aura) is drained from an area, the worse this effect will get.$(br)It seems that this effect only occurs in the $(thing)overworld$() and the $(thing)nether$()."
+            "text": "當一個區域的$(#419600)靈氣$()被抽取到一定地步，使得草木和植被不再含有維生所系的自然能量時，$(thing)自然衰退$()就會發生。所有的$(item)草$()、樹上的樹葉和其他植物都會衰退並腐敗。區域內$(#419600)靈氣$()被消耗得越多，衰退的程度就越糟糕。$(br)似乎這種效果只會在$(thing)主世界$()和$(thing)地獄$()發生。"
         }
     ]
 }

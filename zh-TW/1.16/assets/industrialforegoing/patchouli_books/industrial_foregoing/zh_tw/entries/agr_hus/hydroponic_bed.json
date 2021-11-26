@@ -7,10 +7,10 @@
   "pages": [
     {
       "type": "text",
-      "text": "這台機器與動力和 $(6)水$() (or $(6)lava$() for nether crops) 結合時，它會稍微加快作物的生長速度。 $(br2)通過提供非常少量的 $(l:resource_production/ether_gas)Ether Gas$() 作物將生長得更快，並且它們將被自動重新種植。"
+      "text": "將電力和$(6)水$()(或是$(6)岩漿$())結合時，它會稍微加快作物的生長速度。 $(br2)通過提供非常少量的$(l:resource_production/ether_gas)乙醚氣$()作物將生長得更快，並且它們將被自動重新種植。"
     },
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "industrialforegoing:hydroponic_bed"
     }
   ]

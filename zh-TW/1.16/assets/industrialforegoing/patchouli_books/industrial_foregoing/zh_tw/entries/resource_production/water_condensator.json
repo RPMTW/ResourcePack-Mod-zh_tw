@@ -7,10 +7,10 @@
   "pages": [
     {
       "type": "text",
-      "text": "A machine that generates $(6)water$() from surrounding sourceblocks.$(br2)When adjacent to at least $(6)2 water source blocks$(), it will start working.$(br)Adding additional source blocks and supplying $(6)1000()RF per operation, will make the machine significally faster."
+      "text": "一台可以生產$(6)水$()的機器。$(br2)至少要有兩個面貼著$(6)水$()，它才會開始運作。$(br)額外輸入電力將使機器運作更加快速，每次消耗$(6)1000()RF。"
     },
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "industrialforegoing:water_condensator"
     }
   ]

@@ -1,0 +1,18 @@
+{
+  "category": "bewitchment:brewing",
+  "name": "震鳴",
+  "icon": "minecraft:honeycomb",
+  "advancement": "bewitchment:hidden_unlocks/altars",
+  "pages": [
+    {
+      "type": "text",
+      "text": "將所有聲音降低到具有此效果的任何人。"
+    },
+    {
+      "type": "spotlight",
+      "title": "震鳴",
+      "item": "minecraft:honeycomb",
+      "text": "藥水的強度越高，減少的聲音就越多。"
+    }
+  ]
+}

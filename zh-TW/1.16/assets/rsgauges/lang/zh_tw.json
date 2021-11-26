@@ -10,7 +10,7 @@
     "block.rsgauges.door_sensor_switch.help": "§6一個掛在門上方牆上的玩家感應器。§r",
     "block.rsgauges.elevator_button": "雙穩態紅石開關（電梯按鈕）",
     "block.rsgauges.elevator_button.help": "(箭頭指向上、下或者兩個方向取決於放置時點擊的具體位置)\n${rsgauges.switch.feature.typepulse.help}${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help}",
-    "block.rsgauges.glass_button": "玻璃按鈕",
+    "block.rsgauges.glass_button": "脈衝紅石開關 (星形玻璃按鈕)",
     "block.rsgauges.glass_button.help": "${rsgauges.switch.feature.typepulse.help}${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.pulseextend.help} ${rsgauges.switch.feature.pulsetime.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help} ${rsgauges.switch.feature.colortinting.help}",
     "block.rsgauges.glass_contact_mat": "接觸紅石開關 (玻璃片)",
     "block.rsgauges.glass_contact_mat.help": "§6一個玻璃地板，在暴露於機械壓力時和壓力釋放後一段時間內會改變顏色並發出紅石訊號。 §r\n訊號會輸出到底部和正面。不會發出任何聲音。靈敏度高。 ${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.contactmat.offdelay.help} ${rsgauges.switch.feature.linksource.help} ${rsgauges.switch.feature.colortinting.help}",

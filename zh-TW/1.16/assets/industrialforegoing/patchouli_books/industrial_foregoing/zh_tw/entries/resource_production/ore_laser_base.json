@@ -7,10 +7,10 @@
   "pages": [
     {
       "type": "text",
-      "text": "When fully charged with a $(l:resource_production/laser_drill)Laser Drill$() it will produce ores. Each ore that can produced has a weight based in the biome the machine is placed in and the depth the machine is configured to mine in. $(br2)Laser lenses increases the weight of an a produced ore. $(br2)Check JEI for values."
+      "text": "當完全充能$(l: resource_production/laser_drill)雷射鑽$()時，它將生產礦石。 每個可生產礦物的生產機率是基於機器所放置生態系以及設定的挖掘深度。$(br2)雷射鏡片可增加對應礦物的生產機率。$(br2)善用JEI查詢。"
     },
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "industrialforegoing:ore_laser_base"
     }
   ]

@@ -5,7 +5,7 @@
     "read_by_default": true,
     "pages": [
         {
-            "type": "合成",
+            "type": "crafting",
             "recipe": "thermal:augments/fluid_tank_augment",
             "title": "Expanded Tank Const.",
             "text": "The Expanded Tank Construction augment scales the size of all fluid storage in a machine, device, dynamo, or tool by 4."

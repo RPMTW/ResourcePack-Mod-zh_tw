@@ -71,7 +71,7 @@
     "gui.integratedterminals.craftingplan.status.error.desc": "未知錯誤",
     "gui.integratedterminals.craftingplan.status.invalid": "非法",
     "gui.integratedterminals.craftingplan.status.invalid.desc": "缺失儲存的合成原料",
-    "gui.integratedterminals.craftingplan.status.unstarted": "有效",
+    "gui.integratedterminals.craftingplan.status.unstarted": "合法",
     "gui.integratedterminals.craftingplan.status.unstarted.desc": "還未開始",
     "gui.integratedterminals.craftingplan.status.queueing": "排隊中",
     "gui.integratedterminals.craftingplan.status.queueing.desc": "等待其他工作完成",

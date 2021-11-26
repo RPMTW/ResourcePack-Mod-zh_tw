@@ -1,0 +1,18 @@
+{
+  "category": "bewitchment:brewing",
+  "name": "吸血",
+  "icon": "bewitchment:bottle_of_blood",
+  "advancement": "bewitchment:hidden_unlocks/altars",
+  "pages": [
+    {
+      "type": "text",
+      "text": "根據造成的傷害治療目標。"
+    },
+    {
+      "type": "spotlight",
+      "title": "吸血",
+      "item": "bewitchment:bottle_of_blood",
+      "text": "強度越高，恢復的生命值越多。$(br2)如果你有 $(l:bewitchment:brewing/mundane_brews#strength)力量$(), \n$(l:bewitchment:brewing/mundane_brews#regeneration)回復$()，或$(l:bewitchment:brewing/mundane_brews#resistance)抗性.$()"
+    }
+  ]
+}

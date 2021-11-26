@@ -1,7 +1,7 @@
 {
   "name": "附魔物品分揀機",
   "icon": "industrialforegoing:enchantment_sorter",
-  "category": "雜項",
+  "category": "misc",
   "sortnum": 1,
   "read_by_default": true,
   "pages": [
@@ -10,8 +10,8 @@
       "text": "這台機器會將有無附魔的物品進行分類"
     },
     {
-      "type": "合成",
-      "recipe": "附魔分類器"
+      "type": "crafting",
+      "recipe": "industrialforegoing:enchantment_sorter"
     }
   ]
 }

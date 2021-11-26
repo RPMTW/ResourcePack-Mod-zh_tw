@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:knockback",
+  "text": [
+    {
+      "text": "每級增加 0.5 擊退，這會擊退大約 2 個方塊距離。大多數工具預設為 0.4 擊退。"
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "最多強化至5級",
+    "每個等級需要1個升級槽"
+  ]
+}

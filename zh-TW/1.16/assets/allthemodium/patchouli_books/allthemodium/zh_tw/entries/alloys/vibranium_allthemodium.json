@@ -1,0 +1,19 @@
+{
+    "name": "汎金屬-ATM金屬 合金",
+    "icon": "allthemodium:vibranium_allthemodium_alloy_ingot",
+    "category": "allthemodium:alloys",
+    "sortnum": "1",
+    "pages": [
+        {
+            "type": "text",
+            "text": "汎金屬-ATM金屬 合金$(br)是三種合金中最弱的$(br)它是在$(br)龍火熔爐$(br)左側放入汎金屬，$(br)右側放入ATM金屬製造的"
+        },
+        {
+            "type": "entity",
+            "entity": "iceandfire:fire_dragon",
+            "scale": "0.9",
+            "rotate": true,
+            "default_rotation": -45
+        }
+    ]
+}

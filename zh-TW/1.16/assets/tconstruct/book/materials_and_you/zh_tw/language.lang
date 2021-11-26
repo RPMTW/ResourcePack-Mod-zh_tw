@@ -1,31 +1,10 @@
 // 分節
 intro=簡介
-materials=工具材料
 tools=工具
-modifiers=強化
+
 tier_one_materials=第一階段材料
+tier_one_materials.subtext="材料"是製作任何工具的第一步。 material.craft_partbuilder=可於部件加工台被製作 material.craft_partbuilder=可於部件加工台被製作 material.craft_partbuilder=可於部件加工台被製作 這些材料可以放置在部件加工台中以創建工具部件。
 
 repairing=修理
-
-bonus_upgrades=§1§l升級++§r
-general=§1§l一般§r
-harvest=§1§l收穫§r
-weapon=§1§l武器§r
-slotless=§1§l無槽升級§r
-ability=§1§I能力§r
 further_reading=延伸閱讀
 terminology=術語
-
-
-modifier.effect=效果:
-tool.properties=屬性:
-
-material.craft_partbuilder=可於部件加工台被製作
-material.craft_casting=可用《%s》來鑄造
-
-tier_one_materials.subtext="材料"是製作任何工具的第一步。 material.craft_partbuilder=可於部件加工台被製作 material.craft_partbuilder=可於部件加工台被製作 material.craft_partbuilder=可於部件加工台被製作
-material.tconstruct.wood.book=如果土撥鼠可以夾住木頭，那牠可以夾多少木頭？(英文雙關繞口令)
-material.tconstruct.stone.book=堅若磐石
-material.tconstruct.flint.book=這將點燃修補匠心中的火焰！
-material.tconstruct.bone.book=吾為所持劍之骨
-material.tconstruct.necrotic_bone.book=你對我有意見嗎？

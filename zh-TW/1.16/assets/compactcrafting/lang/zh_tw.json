@@ -1,7 +1,16 @@
 {
-    "itemGroup.compactcrafting": "壓縮工藝",
-    "block.compactcrafting.field_projector": "壓縮投影機",
-    "compactcrafting.jei.miniaturization.title": "微型化製作",
-    "compactcrafting.jei.miniaturization.component": "材料組成：放置於世界中",
-    "compactcrafting.jei.miniaturization.catalyst": "將此物品投入微型化空間以開始製作。"
+    "itemGroup.compactcrafting": "壓縮合成",
+    "block.compactcrafting.field_projector": "微縮力場投影機",
+    "compactcrafting.jei.miniaturization.title": "微縮合成",
+    "compactcrafting.jei.miniaturization.component": "材料組成：放置於世界中。",
+    "compactcrafting.jei.miniaturization.catalyst": "將該物品投入微縮力場中以啟動合成。",
+    "block.compactcrafting.rescan_proxy": "Field Proxy (Rescan)",
+    "block.compactcrafting.match_proxy": "Field Proxy (Match)",
+    "compactcrafting.top.current_recipe": "Recipe: ",
+    "compactcrafting.top.awaiting_catalyst": "Awaiting catalyst...",
+    "compactcrafting.top.progress": "%s / %s",
+    "tooltip.compactcrafting.proxy_bound": "Bound to: %s",
+    "tooltip.compactcrafting.proxy_hint": "Send a redstone pulse to mark a field for recipe scanning.",
+    "tooltip.compactcrafting.proxy_bind_hint": "Shift-use on a projector to bind to a field.",
+    "tooltip.compactcrafting.proxy_unbind_hint": "Shift-use in the air to unbind from field."
 }

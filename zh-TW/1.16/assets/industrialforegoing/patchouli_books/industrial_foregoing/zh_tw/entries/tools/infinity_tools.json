@@ -1,17 +1,17 @@
 {
-  "name": "Infinity Tools",
+  "name": "無限工具",
   "icon": "industrialforegoing:infinity_drill",
-  "category": "\n-工具",
+  "category": "tools",
   "sortnum": 2,
   "read_by_default": true,
   "pages": [
     {
       "type": "text",
-      "text": "The Infinity Tools follow a simple principle, the more power they have the better they are. Increasing the tier might give the tool special perks.  Having $(l:biofuel)biofuel$() in them will make them more efficient by consuming the fuel instead of power when used. $(br2)You can $(6)Sneak+Right Click$() to open the tool GUI."
+      "text": "無限工具遵循著一個簡單的原則，他們的等級越高就越好。 增加等級可能會給予工具特別功能。比起電力，使用$(l:bio-fuel)生物燃料$()可以提高其效率。$(br2)您可以$(6)右鍵點擊$()開啟工具GUI。"
     },
     {
       "type": "text",
-      "text": "You can disable the $(6)charging$() of the tool by disabling charging in the tool GUI. $(br2)There are 7 tiers: $(li)Poor$(li)Common$(li)Uncommon$(li)Rare$(li)Epic$(li)Legendary$(li)Artifact $(br2) All tools will teleport the drops to the player."
+      "text": "你可以停用工具GUI中的$(6)充電$()。$(br2)有7個等級：$(li)較差的$(li)普通$(li)罕見$(li)珍貴$(li)史詩$(li)神話$(li)神器$(br2)所有工具都會將掉落物傳送給玩家。"
     },
     {
       "type": "text",

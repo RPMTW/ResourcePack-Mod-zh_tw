@@ -1,0 +1,16 @@
+{
+    "name": "基因索引器",
+    "icon": "productivebees:gene_indexer",
+    "category": "productivebees:blocks",
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "productivebees:gene_indexer",
+            "text": "你被基因樣本淹沒了嗎？你是否藉由組合基因獲得 RSI？那麼這個方塊是給你的！"
+        },
+        {
+            "type": "text",
+            "text": "用你身邊所有的基因填滿這個額外的大容器，打開一個開關，看著自動化的內部基因索引器為你組合基因。這可能不是最有效的方式……但它是自動化的！\n需要紅石信號。"
+        }
+    ]
+}

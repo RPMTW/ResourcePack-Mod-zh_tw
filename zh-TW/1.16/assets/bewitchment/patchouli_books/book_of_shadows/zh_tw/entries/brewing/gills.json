@@ -1,0 +1,18 @@
+{
+  "category": "bewitchment:brewing",
+  "name": "魚鰓",
+  "icon": "minecraft:cod",
+  "advancement": "bewitchment:hidden_unlocks/altars",
+  "pages": [
+    {
+      "type": "text",
+      "text": "這種惡意效應用刺代替目標的肺部，使它們只能在水下呼吸。"
+    },
+    {
+      "type": "spotlight",
+      "title": "魚鰓",
+      "item": "minecraft:cod",
+      "text": "任何魚都可以用來做這個。"
+    }
+  ]
+}

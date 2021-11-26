@@ -1,0 +1,42 @@
+{
+	"name": "Aberythe",
+	"icon": "theabyss:aberythe_gem",
+	"category": "gem",
+	"advancement": "theabyss:aberythe_ore_adv",
+	"priority": false,
+	"secret": false,
+	"read_by_default": false,
+	"pages": [
+		{
+			"type": "spotlight",
+			"item": "theabyss:aberythe_gem",
+			"title": "Aberythe",
+			"link_recipe": false,
+			"text": "Aberythe can be found in the Blue Forest, Blue Mountains, Phantom Crate, and Slime Forest. They are found at an altitude of 2 to 14. With Aberythe you can make weapons, armor and other things."
+		},
+		{
+			"type": "multiblock",
+			"text": "Aberythe Ore.",
+			"name": "Aberythe",
+			"multiblock": {
+				"pattern": [
+					[
+						"0"
+					],
+					[
+						"A"
+					],
+					[
+						" "
+					],
+					[
+						" "
+					]
+				],
+				"mapping": {
+					"A": "theabyss:aberythe_ore"
+				}
+			}
+		}
+	]
+}

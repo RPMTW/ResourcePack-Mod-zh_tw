@@ -1,12 +1,12 @@
 {
-    "name": "Crimson Decay",
+    "name": "猩紅衰退",
     "icon": "minecraft:soul_sand",
     "category": "effects",
     "advancement": "naturesaura:negative_imbalance",
     "pages": [
         {
             "type": "text",
-            "text": "As it turns out, the effects of $(l:effects/decay)Natural Decay$() extend to the $(thing)nether$() in a way: When the $(aura) levels are low enough, $(item)netherrack$() and other blocks will start to $(thing)decay$() as well. First, they will transform into $(item)soul soil$(), then into $(item)soul sand$(), inevitably making the area truly hard to traverse. Additionally, blocks will also start to $(thing)ignite$() seemingly at random."
+            "text": "事實證明，$(l:effects/decay)自然衰退$()這種效果能在某種程度上推廣到$(thing)地獄$()：當$(#419600)靈氣$()水平足夠低時，$(item)地獄岩$()和其他方塊也會開始$(thing)衰退$()。一開始，它們會變成$(item)靈魂土$()，然後變成$(item)靈魂砂$()，不可避免地使得該區域難以穿過。除此之外，方塊還會開始隨機地被$(thing)點燃$()。"
         }
     ]
 }

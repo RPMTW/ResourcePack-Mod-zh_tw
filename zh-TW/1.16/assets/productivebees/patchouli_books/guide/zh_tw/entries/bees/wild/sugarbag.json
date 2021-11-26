@@ -1,13 +1,13 @@
 {
-    "name": "帶蜜蜜蜂",
+    "name": "含蜜蜂",
     "icon": "minecraft:cocoa_beans",
     "read_by_default": true,
     "category": "productivebees:bees_wild",
     "pages": [
         {
             "type": "text",
-            "title": "帶蜜蜜蜂",
-            "text": "這種溫暖潮濕的小蜜蜂可以在熱帶地區找到。 它產生一種特殊類型的超級美味的蜂巢。$(br)即使在自然氣候之外種植，它也可以進入可可豆。",
+            "title": "含蜜蜂",
+            "text": "這種溫暖潮濕的小蜜蜂可以在熱帶地區找到。牠產生一種特殊類型的超級美味的蜂巢。$(br)即使在自然氣候之外種植，牠也可以進入可可豆。",
             "anchor": "sugarbag"
         },
         {
