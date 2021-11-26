@@ -1,0 +1,13 @@
+{
+  "name": "Vivifica Glyphs",
+  "icon": "magicfungi:pudicitiam_glyph",
+  "category": "magicfungi:glyph_category",
+  "sortnum": 4,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "magicfungi:pudicitiam_glyph",
+      "text": "$(2)$(l)Pudicitiam Glyph $(br2)$()$(a)Heals any non-modded creatures into their healed counterpart (e.g: zombie villager -> villager).$(br2)$(2)$(l)Sanctificare Glyph $(br2)$()$(a)Converts a small patch of Morbus into regular grass, cleaning small areas temporarily."
+    }
+  ]
+}

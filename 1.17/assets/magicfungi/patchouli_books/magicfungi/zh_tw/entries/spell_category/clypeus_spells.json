@@ -1,0 +1,14 @@
+{
+  "name": "Clypeus Spells",
+  "icon": "magicfungi:cadere_spell",
+  "category": "magicfungi:spell_category",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "magicfungi:cadere_spell",
+      "title": "Clypeus Spells",
+      "text": "$(3)$(l)Cadere Spell$(br2)$()$(b)Grants slow falling for a few seconds. $(br2)$(3)$(l)Glacies Spell$(br2)$()$(b)Grants a special ice protection to the user, at the cost of being slower."
+    }
+  ]
+}

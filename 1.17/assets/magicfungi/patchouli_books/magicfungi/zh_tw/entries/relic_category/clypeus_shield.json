@@ -1,0 +1,13 @@
+{
+  "name": "Clypeus Shield",
+  "icon": "magicfungi:clypeus_shield",
+  "category": "magicfungi:relic_category",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "magicfungi:clypeus_shield",
+      "text": "$(3)$(l)Clypeus Shield $()is a special shield made from $(3)Clypeus Essence$(). Has additional durability and lower cooldown times."
+    }
+  ]
+}

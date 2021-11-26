@@ -1,0 +1,14 @@
+{
+  "name": "Vivifica Spells",
+  "icon": "magicfungi:fertilis_spell",
+  "category": "magicfungi:spell_category",
+  "sortnum": 4,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "magicfungi:fertilis_spell",
+      "title": "Vivifica Spells",
+      "text": "$(2)$(l)Fertilis Spell$(br2)$()$(a)Stimulates the growth of nearby crops."
+    }
+  ]
+}

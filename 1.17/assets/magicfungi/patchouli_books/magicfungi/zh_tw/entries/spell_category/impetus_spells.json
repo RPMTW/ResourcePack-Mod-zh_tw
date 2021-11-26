@@ -1,0 +1,14 @@
+{
+  "name": "Impetus Spells",
+  "icon": "magicfungi:ignei_spell",
+  "category": "magicfungi:spell_category",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "magicfungi:ignei_spell",
+      "title": "Impetus Spells",
+      "text": "$(4)$(l)Ignei Spell$(br2)$()$(c)Spawns small fire charge where you're aiming at. $(br2)$(4)$(l)Scintillam Spell$(br2)$()$(c)Spawns a Ghast's fireball where you're aiming at."
+    }
+  ]
+}

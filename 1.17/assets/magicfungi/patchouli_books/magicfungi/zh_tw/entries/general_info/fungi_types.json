@@ -1,0 +1,68 @@
+{
+  "name": "Fungi Types",
+  "icon": "magicfungi:impetus_mushroom",
+  "category": "magicfungi:general_info",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "magicfungi:impetus_mushroom",
+      "title": "Impetus",
+      "text": "$()Used on $(c)$(l)offensive $()magic. Easier to look for on $(6)$(l)Savanna biomes$()."
+    },
+    {
+      "type": "image",
+      "images": ["magicfungi:textures/guide_book/savanna.png"],
+      "title": " ",
+      "border":  true
+    },
+    {
+      "type": "spotlight",
+      "item": "magicfungi:clypeus_mushroom",
+      "title": "Clypeus",
+      "text": "$()Used on $(3)$(l)defensive $()magic. Easier to find at $(b)$(l)Snowy Tundras$()."
+    },
+    {
+      "type": "image",
+      "images": ["magicfungi:textures/guide_book/snowy_tundra.png"],
+      "title": " ",
+      "border":  true
+    },
+    {
+      "type": "spotlight",
+      "item": "magicfungi:utilis_mushroom",
+      "title": "Utilis",
+      "text": "$()Used on $(d)$(l)utility $()magic. Easier to look for on $(5)$(l)Extreme Hills$()."
+    },
+    {
+      "type": "image",
+      "images": ["magicfungi:textures/guide_book/extreme_hills.png"],
+      "title": " ",
+      "border":  true
+    },
+    {
+      "type": "spotlight",
+      "item": "magicfungi:vivifica_mushroom",
+      "title": "Vivifica",
+      "text": "$()Used on $(a)$(l)nature/pure $()magic. Easier to find at $(2)$(l)Jungle biomes$()."
+    },
+    {
+      "type": "image",
+      "images": ["magicfungi:textures/guide_book/jungle.png"],
+      "title": " ",
+      "border":  true
+    },
+    {
+      "type": "spotlight",
+      "item": "magicfungi:morbus_mushroom",
+      "title": "Morbus",
+      "text": "$()Used on $(7)$(l)dark/unpure $()magic. Can only be found on the $(7)$(l)Host Biome$()."
+    },
+    {
+      "type": "image",
+      "images": ["magicfungi:textures/guide_book/host_biome.png"],
+      "title": " ",
+      "border":  true
+    }
+  ]
+}
