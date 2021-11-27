@@ -1,0 +1,15 @@
+{
+  "name": "Diamond Pressure Plate",
+  "icon": "things:diamond_pressure_plate",
+  "category": "things:blocks",
+  "pages": [
+    {
+      "type": "text",
+      "text": "A Pressure Plate made of $(item)Diamonds$() is quite the unusual sight, but useful nonetheless. When constructed like this, it $(thing)only reacts to players$(), making it finally a viable option for placing outside your front door."
+    },
+    {
+      "type": "crafting",
+      "recipe": "things:diamond_pressure_plate"
+    }
+  ]
+}
