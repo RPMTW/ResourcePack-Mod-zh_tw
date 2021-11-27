@@ -31,9 +31,11 @@
     "block.whisperwoods.hand_of_fate.tooltip.shiftdown": "按住 SHIFT 顯示儀式配方",
     "block.whisperwoods.hand_of_fate.tooltip.recipehint": "用以下物品之一右擊命運之手。",
     "block.whisperwoods.hand_of_fate.tooltip.recipe.wisp": "召喚鬼火",
-    "block.whisperwoods.hand_of_fate.tooltip.recipe.wisp.hint": "放入一個鬼光時使用，它會製造出對應顏色的鬼火",
+    "block.whisperwoods.hand_of_fate.tooltip.recipe.wisp.hint": "when used with a Ghost Light inserted, it will create wisps of matching color",
     "block.whisperwoods.hand_of_fate.tooltip.recipe.hirschgeist": "召喚鹿之精魂",
-    "block.whisperwoods.hand_of_fate.tooltip.recipe.hirschgeist.hint": "需要放入任意鬼光",
+    "block.whisperwoods.hand_of_fate.tooltip.recipe.hirschgeist.hint": "requires any Ghost Light to be inserted",
     "item.whisperwoods.bottled_moth": "瓶裝蛾",
-    "misc.whisperwoods.eggorder": "生成%s"
+    "misc.whisperwoods.eggorder": "生成%s",
+    "block.whisperwoods.hand_of_fate.tooltip.recipe_format": "%1$s: %2$s",
+    "block.whisperwoods.hand_of_fate.tooltip.recipe_format_hint": "%1$s: %2$s (%3$s)"
 }
