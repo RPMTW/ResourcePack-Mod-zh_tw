@@ -1,0 +1,18 @@
+{
+  "name": "Carving Glyphs",
+  "icon": "magicfungi:glyph_carving_workbench",
+  "category": "magicfungi:glyph_category",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "magicfungi:glyph_carving_workbench",
+      "title": "Carving Glyphs",
+      "text": "Glyphs are simple, single-use magics. They come in all 5 fungi types and can be used without any cooldown.$(br)$(br)$(l)Carving Glyphs$()$(br)To start the carving, you must craft a $(l)Glyph Carving Workbench$():"
+    },
+    {
+      "type": "crafting",
+      "recipe": "magicfungi:crafting/glyph_carving_workbench"
+    }
+  ]
+}
