@@ -1,0 +1,17 @@
+{
+  "name": "Morbus Glyphs",
+  "icon": "magicfungi:parasitus_glyph",
+  "category": "magicfungi:morbus_category",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "magicfungi:parasitus_glyph",
+      "text": "$(8)$(l)Parasitus Glyph $(br2)$()$(7)The selected mob turns into a host for a parasite that will slowly kill the creature, while healing you. $(br2)$(8)$(l)Corrumpere Glyph$(br2)$()$(7)Corrupts any non-modded creatures into their corrupted"
+    },
+    {
+      "type": "text",
+      "text": "$(7)counterpart (e.g: Hoglin -> Zoglin)$()$(br2)$(8)$(l)Maledictio Glyph $(br2)$()$(7)Corrupts a small patch of regular grass into Morbus Grass."
+    }
+  ]
+}
