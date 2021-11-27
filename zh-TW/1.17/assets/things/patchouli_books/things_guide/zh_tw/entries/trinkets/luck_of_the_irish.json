@@ -1,0 +1,15 @@
+{
+  "name": "Luck of the Irish",
+  "icon": "things:luck_of_the_irish",
+  "category": "things:trinkets",
+  "pages": [
+    {
+      "type": "text",
+      "text": "To the average Minecrafter, the $(item)Poisonous Potato$() might seem like a wasted opportunity. By crafting and wearing $(item)Luck of the Irish$() though, a great benefit can be extracted from them. The $(item)Gleaming Compound$() contained in it can transmute the poison effect one usually gets afflicted with into $(thing)Regeneration II$() by applying knowledge gained from the incorporated $(item)Enchanted Golden Apple$()."
+    },
+    {
+      "type": "crafting",
+      "recipe": "things:luck_of_the_irish"
+    }
+  ]
+}
