@@ -42,7 +42,7 @@
     "subtitles.meetyourfight.entity.bellringer.idle": "提鐘鬼魅的哭泣",
     "subtitles.meetyourfight.entity.bellringer.hurt": "提鐘鬼魅受傷了",
     "subtitles.meetyourfight.entity.bellringer.death": "提鐘鬼魅死亡",
-    "subtitles.meetyourfight.entity.dame_fortuna.idle": "幸運夫人呼吸",
+    "subtitles.meetyourfight.entity.dame_fortuna.idle": "Dame Fortuna speaks",
     "subtitles.meetyourfight.entity.dame_fortuna.hurt": "幸運夫人受傷",
     "subtitles.meetyourfight.entity.dame_fortuna.death": "幸運夫人死亡",
     "subtitles.meetyourfight.entity.dame_fortuna.attack": "幸運夫人笑了",
@@ -69,5 +69,7 @@
     "advancements.meetyourfight.swampjaw_summon.description": "獲得化石魚餌並召喚沼澤顎",
     "advancements.meetyourfight.swampjaw_kill.title": "沼澤冠軍",
     "advancements.meetyourfight.swampjaw_kill.description": "擊敗沼澤顎得到一個青苔牙齒",
-    "itemGroup.meetyourfight": "滿足你的戰鬥"
+    "itemGroup.meetyourfight": "滿足你的戰鬥",
+    "item.meetyourfight.music_disc_magnum": "Music Disc",
+    "item.meetyourfight.music_disc_magnum.desc": "Monkey Warhol - Magnum"
 }
