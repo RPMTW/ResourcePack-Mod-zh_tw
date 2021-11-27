@@ -76,8 +76,8 @@
     "ars_nouveau.page.belt_of_unstable_gifts": "會偶爾給予一個隨機、短期、正面的藥水效果。這些效果的強度各不相同。",
     "ars_nouveau.page.whelp_charm": "書龍是一種幫手生物，能使用魔源罐中的魔源施法。交予抄寫了法術的羊皮紙，書龍就會在它的講台附近施法。對講台使用書龍護符可召喚出書龍。書龍可以被白色、黑色、藍色、綠色、紅色或者紫色染料染色。",
     "ars_nouveau.page2.whelp_charm": "書龍很脆弱，所以需要注意保護。如果書龍死亡或被解除魔法，它就會掉落其護符。",
-    "ars_nouveau.page3.whelp_charm": "書龍可以施放以觸摸或彈射物作為形態的法術。你可以把法術寫在法術羊皮紙上交給它們。目前書龍只會以其講台附近的方塊為目標。施法會消耗召喚講台附近魔源罐中的魔源。預設情況下，書龍只會在法術中§l所有§r效果都能起作用時施法。比如收穫只會對完全長成的樹施放，生長只會對未成熟的作物施放。",
-    "ars_nouveau.page4.whelp_charm": "可以使用支配之杖停用這種嚴格模式，不過還是更推薦使用多個職責不同的書龍進行分工。雖然書龍自身不能拾取掉落物，但它可以使用物品拾取法術，並將法術拾取的物品存放在講台旁的儲物箱裡。與不能拾取相反，書龍在施法時可以放置方塊，也可以使用物品與世界互動。你可以將物品或方塊交給書龍，它將會直接從召喚講台相鄰的儲物箱中拿取並使用該種物品。",
+    "ars_nouveau.page3.whelp_charm": "Bookwyrms can cast spells that begin with Touch or Projectile. You may give them a spell that is written on Spell Parchment. Currently, Bookwyrms will only target blocks surrounding their lectern. Spell casting will consume source from jars that are within 7 blocks of their Lectern. By default, Bookwyrms will only cast a spell if EVERY spell effect will do something. Harvest will only be cast on trees or fully grown crops, or Grow on crops that are not full grown.",
+    "ars_nouveau.page4.whelp_charm": "To disable this strict mode, use a Dominion Wand, however using multiple specialized Bookwyrms is recommended. While Bookwyrms cannot pickup blocks on their own, they may store items in chests that are next to the Lectern using the Item Pickup spell. Conversely, Bookwyrms may place blocks and interact with the world using Items. You may give an item or block to the Bookwyrm, and it will use the item directly from the chests adjacent to the lectern.",
     "ars_nouveau.page.carbuncle_charm": "卡班克爾會在森林地區自然出現，並且會尋找金粒。雖然卡班克爾一般會害怕人類，但它們會允許拿著金粒的人類靠近。當卡班克爾拾取金粒後，它就會從這個世界上消失並留下卡班克爾碎片。",
     "ars_nouveau.page2.carbuncle_charm": "雖然野生的卡班克爾不能被馴服，但其碎片可以用來召喚已馴服的卡班克爾。",
     "ars_nouveau.page3.carbuncle_charm": "對著地面使用卡班克爾護符可召喚出已馴服的卡班克爾。已馴服的卡班克爾會拾取附近的掉落物並將其放到附近的容器內。卡班克爾還會收穫附近完全長成的魔源漿果叢。當被殺死或解除魔法，卡班克爾會掉落其護符。你可以對其使用紫色、紅色、黃色、橙色、藍色或綠色的染料進行染色。",
@@ -544,7 +544,7 @@
     "ars_nouveau.whelp.invalid": "書龍不能施放無效法術。",
     "ars_nouveau.whelp.desc": "交予書龍已抄寫的法術羊皮紙，即可設定其施放的法術。",
     "ars_nouveau.whelp.casting": "書龍正在施放%s",
-    "ars_nouveau.whelp.spell_item": "若召喚水晶旁的儲物箱有%s，書龍就會在法術中使用它。",
+    "ars_nouveau.whelp.spell_item": "This Bookwyrm will use %s in spells if this item is in a Lectern chest.",
     "ars_nouveau.whelp.no_item": "無。",
     "ars_nouveau.whelp.placing": "放置：",
     "ars_nouveau.whelp.using": "使用物品：",
@@ -744,8 +744,8 @@
     "ars_nouveau.page1.ritual": "一種可用作裝飾或進行儀式的火盆。要在火盆上點燃裝飾性的火焰，只需對火盆施展光明法術。火焰的顏色會與法術的顏色相同。對火盆提供一個紅石訊號能停止目前儀式。關於進行儀式的詳細訊息，請參閱儀式的專門章節。",
     "ars_nouveau.page1.scribes_table": "將法術複製到新的法術書是可能的，不管是為了備份還是為了分享。首先，在抄寫台上放一本法術書。然後，潛行對抄寫台使用另一本法術書。這樣會把你手上法術書的法術複製到桌上那本法術書裡。",
     "ars_nouveau.page2.scribes_table": "你也可以把特定法術抄寫到法術羊皮紙上。這些羊皮紙能教導你的魔法僕從如何施法。首先，在抄寫台上放一張法術羊皮紙。然後，拿出你的法術書，將目前法術改成你想要的那個，就像準備用其施法一樣。最後，潛行對抄寫台使用法術書。你的羊皮紙現在會含有該法術。",
-    "ars_nouveau.page1.warp_portal": "折越傳送門，和折越卷軸一樣，能向同一維度內任何位置進行單向傳送。要建造折越傳送門，先使用奧術磚或其變體建造一個地獄傳送門形狀的門。在旁邊放一個裝滿的魔力罐。然後，往框架裡扔出一個寫好位置的折越卷軸。如果附近有足夠的魔力，傳送門就會啟動。",
-    "ars_nouveau.page2.warp_portal": "一個魔法傳送門，能將玩家、生物、法術和物品傳送到同一維度的任何位置。",
+    "ars_nouveau.page1.warp_portal": "Warp portals, like warp scrolls, provide a one-way teleport to any location, provided it is in the same dimension. To construct a Warp Portal, build a frame from Arcane Bricks or its variants in the shape of a rectangle and provide a full Source Jar nearby. Then, throw a warp scroll with a written location into the frame. Given there is enough source nearby, the portal will be created.",
+    "ars_nouveau.page2.warp_portal": "Portals can be built horizontal or vertical, from 1x1 to 21x21 in size. Warping does not cost any source after creation.",
     "ars_nouveau.page1.arcane_ore": "魔源寶石礦比金礦稍微常見一點，被挖掘後掉落魔源寶石。魔源寶石可用於合成飾品、解鎖新法術和建造設備。魔源寶石也可以用結晶器可再生地製造。",
     "ars_nouveau.page1.archwood": "至高木共有 4 種類型，而且在任何生態域都會小機率生成。此外，在罕見情況下，你還可能會找到一片至高木森林，裡面滿是魔法生物、自然生成的光源和至高木。至高木可以用於裝飾、儀式和製作法杖。",
     "ars_nouveau.page1.decorative": "純裝飾性方塊。將奧術石放在切石機中可查看這些方塊的完整列表。",
@@ -865,5 +865,6 @@
     "ars_nouveau.page3.weald_walker": "能對附近敵人施展凍結和寒流。",
     "ars_nouveau.page4.weald_walker": "能對附近敵人施展強化過的傷害和禁錮。",
     "ars_nouveau.page5.weald_walker": "能對附近敵人施展脆弱詛咒和強化過的凋零。",
-    "ars_nouveau.page1.weald_waddler": "如果林地行者死亡，它會變成林地蹣跚者。林地蹣跚者又會慢慢長大，變回林地行者，對其使用骨粉可以加速這個過程。林地蹣跚者在長大前無法戰鬥，也不能自保。"
+    "ars_nouveau.page1.weald_waddler": "如果林地行者死亡，它會變成林地蹣跚者。林地蹣跚者又會慢慢長大，變回林地行者，對其使用骨粉可以加速這個過程。林地蹣跚者在長大前無法戰鬥，也不能自保。",
+    "ars_nouveau.page3.warp_portal": "A magical portal that can send players, mobs, spells, and items to any location in the same dimension."
 }
