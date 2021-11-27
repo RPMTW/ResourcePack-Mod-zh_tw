@@ -1,0 +1,15 @@
+{
+  "name": "Rabbit Foot Charm",
+  "icon": "things:rabbit_foot_charm",
+  "category": "things:trinkets",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Although the average rabbit foot pendant is supposed to bring good luck, sprinkling some $(item)Gleaming Powder$() onto one has a different effect. By stimulating the ingredients usually used in potion-making, the $(item)Rabbit's Foot$() is coaxed into providing the user with permanent $(thing)Jump Boost II$()."
+    },
+    {
+      "type": "crafting",
+      "recipe": "things:rabbit_foot_charm"
+    }
+  ]
+}
