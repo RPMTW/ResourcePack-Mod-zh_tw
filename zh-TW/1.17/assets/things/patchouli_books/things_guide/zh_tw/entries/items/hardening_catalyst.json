@@ -1,0 +1,15 @@
+{
+  "name": "Hardening Catalyst",
+  "icon": "things:hardening_catalyst",
+  "category": "things:items",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Combining a $(item)Nether Star$() with many hard things seems to result in a fluid of all things. This resulting fluid however, possess an interesting property. Pouring it over something with durability in an $(thing)Anvil$() will, for some experience cost, make that item $(thing)unbreakable$()."
+    },
+    {
+      "type": "crafting",
+      "recipe": "things:hardening_catalyst"
+    }
+  ]
+}
