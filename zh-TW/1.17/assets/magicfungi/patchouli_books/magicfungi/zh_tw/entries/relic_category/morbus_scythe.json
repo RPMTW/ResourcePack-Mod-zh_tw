@@ -1,0 +1,13 @@
+{
+  "name": "Morbus Scythe",
+  "icon": "magicfungi:morbus_scythe",
+  "category": "magicfungi:relic_category",
+  "sortnum": 4,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "magicfungi:morbus_scythe",
+      "text": "$(8)$(l)Morbus Scythe $()is a special scythe made from $(8)$(l)Morbus Essence$(). After hitting an entity with it, it'll receive $(8)Withering$()."
+    }
+  ]
+}
