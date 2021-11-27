@@ -1,0 +1,44 @@
+{
+  "name": "Autumn Court",
+  "icon": "feywild:autumn_tree_sapling",
+  "category": "autumn_court",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "text",
+      "text": "The Autumn Court is the most mature of the four Fae Courts, their age and wisdom has given them a appreciation of fine art, music and poetry. They rather spend a night listening to song, dancing and flirting then going to combat or mindlessly indulging themselves. They know the upcoming period will be a harsh one, and feel the responsibility of preparing for the end of a cycle."
+    },
+    {
+      "type": "image",
+      "title": "The Eternal Fall",
+      "images": [
+        "feywild:textures/patchouli_images/autumn_book.png"
+      ],
+      "border": true
+    },
+    {
+      "type": "text",
+      "text": "Perhaps the most kind of the Courts, they are still capable of trickery and mischief, but they are more hush-hush about it.  The Autumn Court will protect the Feywild from any evil spirits and will harvest souls who have gone astray. They tend to disguise themselves as past years fallen. To honour them but also to give the lost soul one more good time before passing on to the next stage."
+    },
+    {
+      "type": "image",
+      "title": "Autumn World Tree",
+      "images": [
+        "feywild:textures/patchouli_images/autumn_worldtree_book.png"
+      ],
+      "border": true
+    },
+    {
+      "type": "spotlight",
+      "item": "feywild:fey_altar",
+      "title": "Autumn World Tree",
+      "text": "The Autumn World tree is difficult to find, but it is the home of the Ashen Lady. Note: Only the pixies are implemented, other court members will be added in later updates. The World Tree also has a Fey altar for you to use."
+    },
+    {
+      "type": "spotlight",
+      "item": "feywild:tree_mushroom",
+      "title": "Giant Mushroom",
+      "text": "In the Eternal Falls you can find giant Mushrooms. You can grow your own giant mushrooms by placing a red or brown mushroom on podzol, and grow it with bone meal. The tree mushrooms can be carfully harvested with a shear. "
+    }
+  ]
+}
