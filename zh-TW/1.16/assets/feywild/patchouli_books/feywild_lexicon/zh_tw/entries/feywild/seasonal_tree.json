@@ -1,0 +1,56 @@
+{
+  "name": "Seasonal Trees",
+  "icon": "feywild:autumn_tree_sapling",
+  "category": "feywild",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "text",
+      "text": "The War between the Seasons can be found everywhere in the Feywild, from small patches to area's overflowing with the season's magic. Normal trees will become enchanted with the magic of the seasons and effect their surrounding areas with that magic. Planting a seasonal sapling will increase the dominance of the specific season in the area."
+    },
+    {
+      "type": "image",
+      "title": "Fey Trees",
+      "images": [
+        "feywild:textures/patchouli_images/trees_book.png"
+      ],
+      "border": true
+    },
+    {
+      "type": "spotlight",
+      "item": "feywild:spring_tree_sapling",
+      "title": "Spring Sapling",
+      "text": "Flowers from the spring season will grow around the tree."
+    },
+    {
+      "type": "spotlight",
+      "item": "feywild:summer_tree_sapling",
+      "title": "Summer Sapling",
+      "text": "Flowers from the summer season will grow around the tree and sometimes the tree may be a home for the Summer Court's bees."
+    },
+    {
+      "type": "spotlight",
+      "item": "feywild:autumn_tree_sapling",
+      "title": "Autumn Sapling",
+      "text": "The area around the tree will soon be filled with fallen leaves. To ward of evil spirits sometimes a carved pumpkin may appear"
+    },
+    {
+      "type": "spotlight",
+      "item": "feywild:winter_tree_sapling",
+      "title": "Winter Sapling",
+      "text": "The Winter tree will be covered in snow."
+    },
+    {
+      "type": "crafting",
+      "title": "Fey Wood",
+      "recipe": "feywild:spring_tree_wood",
+      "text": "Feywood can be obtained by cutting down one of the Fey trees. Each season has its own Fey Wood."
+    },
+    {
+      "type": "spotlight",
+      "item": "feywild:fey_dust",
+      "title": "Fey Dust",
+      "text": "The fey trees will also drop fey dust when you cut down their leaves."
+    }
+  ]
+}
