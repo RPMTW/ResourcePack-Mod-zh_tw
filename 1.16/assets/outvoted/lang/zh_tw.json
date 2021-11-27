@@ -172,5 +172,12 @@
     "text.autoconfig.outvoted.option.common.entities.coppergolem": "Copper Golem",
     "text.autoconfig.outvoted.option.common.entities.coppergolem.health": "Max Health",
     "text.autoconfig.outvoted.option.common.entities.coppergolem.oxidationRate": "Oxidation Rate",
-    "text.autoconfig.outvoted.option.common.entities.coppergolem.oxidationRate.@Tooltip": "Percentage chance for golem to oxidize per second, as a decimal"
+    "text.autoconfig.outvoted.option.common.entities.coppergolem.oxidationRate.@Tooltip": "Percentage chance for golem to oxidize per second, as a decimal",
+    "entity.outvoted.blaze_s": "Soul Blaze",
+    "item.outvoted.glare_spawn_egg": "Glare Spawn Egg",
+    "text.autoconfig.outvoted.option.common.entities.glare": "Glare",
+    "text.autoconfig.outvoted.option.common.entities.glare.spawn": "Enable Spawning",
+    "text.autoconfig.outvoted.option.common.entities.glare.rate": "Spawn Weight",
+    "text.autoconfig.outvoted.option.common.entities.glare.health": "Max Health",
+    "text.autoconfig.outvoted.option.common.misc.givePatchouliBookOnLogin": "Give Patchouli Book On Login"
 }
