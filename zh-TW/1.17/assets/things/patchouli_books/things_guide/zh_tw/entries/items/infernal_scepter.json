@@ -1,0 +1,15 @@
+{
+  "name": "Infernal Scepter",
+  "icon": "things:infernal_scepter",
+  "category": "things:items",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Slapping a $(item)Lava Bucket$() onto a $(item)Blaze Rod$() reinforced with a few $(item)Netherite Ingots$() seems like a great idea, doesn't it? Well, it sure does make for a good weapon! By heating up $(item)Fire Charges$(), the $(item)Infernal Scepter$() makes them go airborne, and thereby potentially deadly. This process is very intense though, and even the incredible toughness of Netherite can not withstand it forever."
+    },
+    {
+      "type": "crafting",
+      "recipe": "things:infernal_scepter"
+    }
+  ]
+}
