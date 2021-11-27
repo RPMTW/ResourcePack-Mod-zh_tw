@@ -1,0 +1,23 @@
+{
+  "name": "Dodging",
+  "icon": "minecraft:rabbit_foot",
+  "category": "parrying:mechanics",
+  "pages": [
+    {
+      "type": "text",
+      "text": "The rabbit is among the most successful of the plant eating animals. Many attribute this to its adaptability, or its quite frankly ridiculous breeding habits. However, one of the biggest contributors to the success of the rabbit is its agility. $(br2) In combat, you must be like the rabbit, ready to dodge at a moment's notice."
+    },
+    {
+      "type": "text",
+      "text": "To dodge, one must perform the action of sprinting, but in a different direction. One can do so to the left, right or back. This may take practice to get right, but once mastered, the dodge offers an unparalleled increase in agility. $(br2) Dodging in melee can be a useful way to circumvent the parry of an opponent, or to move out of reach to eat a snack. In ranged combat, a good dodge can save you from an unwanted arrow to the face."
+    },
+    {
+      "type": "text",
+      "text": "Dodging requires a good amount of freedom of movement to pull off. Heavy armors, while excellent at providing protection from being knocked back, can hinder one's ability to dodge substantially. Thus, one must decide whether they prefer to to be like the rabbit, dodging every blow but tiring quickly, or the tortoise, taking hits and surviving long enough to win. Many will tell you that the tortoise is the better option, "
+    },
+    {
+      "type": "text",
+      "text": "but if the rabbit has a strong enough bite, he can end the fight well before he tires. It is up to you to decide your strategy. $(br2) Speaking of rabbits, potions made from their feet are an excellent way to increase one's jumping abilities. When dodging, one can benefit from this fact. A Potion of Leaping can increase the distance one can dodge by an appreciable distance."
+    }
+  ]
+}
