@@ -1,0 +1,39 @@
+{
+  "advancement": "feywild:feywild/fey_dust",
+  "name": "Dwarven Knowledge",
+  "icon": "feywild:schematics_fey_altar",
+  "category": "dwarves",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "feywild:schematics_gem_transmutation",
+      "title": "Schematics",
+      "text": "If you gain trust with a summoned dwarf, overtime they may reveal secrets only known to the dwarfs. Some dwarves hide their secrets and most valued items in mine shafts."
+    },
+    {
+      "advancement": "feywild:feywild/schematics_gem_transmutation",
+      "type": "spotlight",
+      "item": "feywild:greater_fey_gem",
+      "title": "Gem Transmutation",
+      "text": "With the knowledge of gem transmutation you can easily make high quality fey gems."
+    },
+    {
+      "advancement": "feywild:feywild/schematics_gem_transmutation",
+      "type": "image",
+      "title": "Gem Transmutation",
+      "images": ["feywild:textures/patchouli_images/schematics_gem_transmutation_book.png"],
+      "border": true,
+      "text": "Requires 50 - 150 mana stored into the dwarven Anvil."
+    },
+    {
+      "advancement": "feywild:feywild/schematics_gem_transmutation",
+      "type": "spotlight",
+      "item": "feywild:schematics_gem_transmutation",
+      "title": "Recipe",
+      "text": "Either requires 5 Lesser, 5 Greater or 5 Shiny Fey Gems to transmute to their superior versions. Make sure the schematics for gem transmutation are present for the Dwarf Blacksmith to receive instructions and start crafting."
+    }, {
+      "type": "text",
+      "text": ""
+    }
+  ]
+}

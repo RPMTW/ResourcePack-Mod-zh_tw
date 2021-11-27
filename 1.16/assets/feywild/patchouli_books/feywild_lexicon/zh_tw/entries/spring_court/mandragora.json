@@ -1,0 +1,29 @@
+{
+  "name": "Mandragora",
+  "icon": "feywild:mandrake_crop_seed",
+  "category": "spring_court",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "feywild:mandrake_crop_seed",
+      "title": "Mandrake",
+      "text": "As if touched by a fey spirit, mandragoras are typically bright and cheerful optimists, ready to laugh, frolic and enjoy life and nature. They sprout from their less charming relatives, the mandrakes."
+    },
+    {
+      "type": "entity",
+      "entity": "feywild:melon_mandragora"
+    },
+    {
+      "type": "crafting",
+      "title": "Honey Cookie",
+      "recipe": "feywild:magical_honey_cookie"
+    },
+    {
+      "type": "spotlight",
+      "item": "feywild:magical_honey_cookie",
+      "title": "Mandragora",
+      "text": "By feeding a mandrake their favorite food, a magical honey cookie, they will sprout into a Mandragora. A Mandragora will take care of your garden, and her lovely singing voice might even grow crops."
+    }
+  ]
+}

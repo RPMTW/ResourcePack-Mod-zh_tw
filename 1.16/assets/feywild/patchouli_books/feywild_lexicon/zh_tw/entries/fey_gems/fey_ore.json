@@ -1,0 +1,30 @@
+{
+  "advancement": "feywild:feywild/fey_dust",
+  "name": "Fey Ore",
+  "icon": "feywild:lesser_fey_gem",
+  "category": "fey_gems",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Fey gems are very wanted by some creatures and wizards because it still contains some of the Fey's original magic."
+    },
+    {
+      "type": "spotlight",
+      "item": "feywild:fey_gem_block",
+      "title": "Fey Ore",
+      "text": "Be careful when mining the Fey ore. As it is fragile and putting too much pressure on the ore can lower the quality of the excavated Fey Gems."
+    },
+    {
+      "type": "smelting",
+      "title": "Fey Dust",
+      "recipe": "feywild:fey_dust",
+      "text": "When a Fey passes into the next world, they leave behind a small amount of Fey Dust. Some believe the magical powder gives the power of flight to whoever it is sprinkled on."
+    },
+    {
+      "type": "spotlight",
+      "item": "feywild:lesser_fey_gem",
+      "title": "Fey Gems",
+      "text": "The fey gems can vary in quality. Higher quality gems can but cut into lower quality gems. The knowledge on how to increase the quality of a fey gem is only known by the dwarves."
+    }
+  ]
+}

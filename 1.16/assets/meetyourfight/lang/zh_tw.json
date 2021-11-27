@@ -42,7 +42,7 @@
     "subtitles.meetyourfight.entity.bellringer.idle": "Bellringer wails",
     "subtitles.meetyourfight.entity.bellringer.hurt": "Bellringer hurt",
     "subtitles.meetyourfight.entity.bellringer.death": "Bellringer dies",
-    "subtitles.meetyourfight.entity.dame_fortuna.idle": "Dame Fortuna breathes",
+    "subtitles.meetyourfight.entity.dame_fortuna.idle": "Dame Fortuna speaks",
     "subtitles.meetyourfight.entity.dame_fortuna.hurt": "Dame Fortuna hurt",
     "subtitles.meetyourfight.entity.dame_fortuna.death": "Dame Fortuna dies",
     "subtitles.meetyourfight.entity.dame_fortuna.attack": "Dame Fortuna laughs",
@@ -69,5 +69,7 @@
     "advancements.meetyourfight.swampjaw_summon.description": "Get a Fossil Bait to summon Swampjaw",
     "advancements.meetyourfight.swampjaw_kill.title": "Bog Champion",
     "advancements.meetyourfight.swampjaw_kill.description": "Defeat Swampjaw to get a Mossy Tooth",
-    "itemGroup.meetyourfight": "Meet Your Fight"
+    "itemGroup.meetyourfight": "Meet Your Fight",
+    "item.meetyourfight.music_disc_magnum": "Music Disc",
+    "item.meetyourfight.music_disc_magnum.desc": "Monkey Warhol - Magnum"
 }

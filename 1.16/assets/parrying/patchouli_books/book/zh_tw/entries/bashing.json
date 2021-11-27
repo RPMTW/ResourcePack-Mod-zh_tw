@@ -1,0 +1,19 @@
+{
+  "name": "Shield Bashing",
+  "icon": "minecraft:shield",
+  "category": "parrying:mechanics",
+  "pages": [
+    {
+      "type": "text",
+      "text": "A shield is a useful tool in battle. It can stand strong against a variety of attacks, both melee and ranged. However, in the right hands, a shield is also a potent weapon. While its damage may be lacking, a strike from a shield can throw an opponent off balance, granting the perfect opportunity to strike. $(br2) To bash an opponent, first bring your shield to bear."
+    },
+    {
+      "type": "text",
+      "text": "When it is up, wait for the perfect moment. When it presents itself, attack with your shield, bringing it down upon your enemies. With a standard tower shield, you can hit up to 3 opponents at once, though I have heard rumors of magical spells that let a shield bash against many more. $(br2) A bash will lower the defenses of your target, leaving them open to powerful strikes."
+    },
+    {
+      "type": "text",
+      "text": "Shield bashing is not without its downsides, however. A bash will knock a target off balance, yes, but it will also disrupt your posture, making it difficult to bring your shield to bear. This effect is more pronounced when bashing multiple targets, so when fighting groups it is wise to use a weapon that can strike many targets."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Spring Court",
+  "icon": "feywild:spring_tree_sapling",
+  "category": "spring_court",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Bouncy, bubbly and completely void of the idea of personal space, the fey of the Spring Court treat everything as if they have never seen it before. They are like hyperactive children, always wondering what everything is, stuffing anything into their mouth that seems slightly edible and their only concern is not having either enough fun or food for the day."
+    },
+    {
+      "type": "image",
+      "title": "Blossoming Wealds",
+      "images": ["feywild:textures/patchouli_images/spring_book.png"],
+      "border": true
+    },
+    {
+      "type": "text",
+      "text": "They represent the birth of a new year and the coming of new life and are the most innocent of the Court. They are however, notoriously obnoxious when playing pranks, as they do not know the dangers or consequences of their actions. Nor do they care about it."
+    }, {
+      "type": "image",
+      "title": "Spring World Tree",
+      "images": ["feywild:textures/patchouli_images/spring_worldtree_book.png"],
+      "border": true
+    },
+    {
+      "type": "spotlight",
+      "item": "feywild:fey_altar",
+      "title": "Spring World Tree",
+      "text": "The Spring World tree is difficult to find, but it is the home of King Oberon. Note: Only the pixies are implemented, other court members will be added in later updates. The World Tree also has a Fey altar for you to use."
+    },
+    {
+      "type": "spotlight",
+      "item": "feywild:dandelion_seed",
+      "title": "Giant Dandelion",
+      "text": "In the Blossoming Wealds you can find giant dandelions. The giant dandelion has three variations; a bud, a flower and the flower's well known fluff. The flower will also drop dandelion seeds, which can be used to grow your own giant dandelions. "
+    }
+  ]
+}

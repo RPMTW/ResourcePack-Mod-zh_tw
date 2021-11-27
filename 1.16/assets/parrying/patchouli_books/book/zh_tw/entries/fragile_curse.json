@@ -1,0 +1,11 @@
+{
+  "name": "Fragile",
+  "icon": "minecraft:enchanted_book",
+  "category": "parrying:enchantments",
+  "pages" : [
+    {
+      "type": "text",
+      "text": "This curse can sunder virtually any weapon. It weakens the bonds of the material, causing hard impacts, such as from parrying, to deal increased damage to the weapon. Weapons afflicted with this curse that are used for frequent parrying in general only last one third as long as they should."
+    }
+  ]
+}

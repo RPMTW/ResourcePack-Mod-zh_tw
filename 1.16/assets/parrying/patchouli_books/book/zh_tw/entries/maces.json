@@ -1,0 +1,15 @@
+{
+  "name": "Maces",
+  "icon": "parrying:iron_mace",
+  "category": "parrying:weapons",
+  "pages" : [
+    {
+      "type": "text",
+      "text": "The mace is a fairly inelegant weapon. It consists of a heavy weight, often with added spikes, on the end of a stick. Really, its basically little more than a club. $(br2) That said, it is impossible to deny the efficacy of the mace. Its heavy impact allows it to penetrate armor to a limited degree, meaning that it is highly effective against armored foes."
+    },
+    {
+      "type": "text",
+      "text": "In terms of raw damage, the mace is similar to the sword. However, its extra weight reduces its effective speed, balancing its anti-armor potential. As such, the mace is best used against armored targets, with the effect becoming more pronounced as the level of armor increases."
+    }
+  ]
+}

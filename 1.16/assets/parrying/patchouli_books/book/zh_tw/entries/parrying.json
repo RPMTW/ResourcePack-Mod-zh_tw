@@ -1,0 +1,23 @@
+{
+  "name": "Parrying",
+  "icon": "minecraft:iron_sword",
+  "category": "parrying:mechanics",
+  "pages": [
+    {
+      "type": "text",
+      "text": "To parry means to deflect or divert an attack. In melee, a well placed parry can be the difference between life and death. This is especially true if your opponent is wielding a powerful weapon. $(br2) To parry an attack, you must be wielding a weapon of your own. I myself prefer the sword, however an axe, pickaxe, or even a hoe will do."
+    },
+    {
+      "type": "text",
+      "text": "If it's better than your fists, chances are you can parry with it. When an enemy swings at you, strike at them, aiming directly for them. If you've done it right, your weapons should collide, and their pitiful attack will be cast aside with a satisfying \"clang\"! $(br2) Parrying will work regardless of the strength of your swing, "
+    },
+    {
+      "type": "text",
+      "text": "so I recommend using rapid strikes for parrying. This will drastically reduce your damage output, so be ready to switch between rapid, light strikes and heavy, well timed blows. $(br2) Being able to switch between offense and defense is key to winning an engagement. Keep up a solid defense, but when the enemy gives you an opening, don't be afraid to strike!"
+    },
+    {
+      "type": "text",
+      "text": "An important thing to keep in mind with parrying is that it relies on being able to move a weapon into a defensive position quickly. As such, heavier weapons, such as maces, axes, and hammers are more difficult to use for parrying. Lighter weapons, such as swords, are much more effective in this role."
+    }
+  ]
+}

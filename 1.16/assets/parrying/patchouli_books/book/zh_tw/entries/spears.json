@@ -1,0 +1,15 @@
+{
+  "name": "Spears",
+  "icon": "parrying:diamond_spear",
+  "category": "parrying:weapons",
+  "pages" : [
+    {
+      "type": "text",
+      "text": "The spear is one of the most popular weapons in history, and it's easy to see why. After all, any weapon that lets you stay as far away as possible from the enemy increases your chances of survival. Of course, it can also make you look like a coward, but sometimes a measure of caution is the superior choice. After all, wise cowards live longer than brave fools."
+    },
+    {
+      "type": "text",
+      "text": "The straightforward, aerodynamic shape of a spear makes it rather good for being thrown. With a strong enough throw, the weapon can actually deal MORE damage than normal. Of course, then you'll be down a weapon, so take care not to throw your spear lightly. Or heavily, for that matter, as that may make its retrieval difficult..."
+    }
+  ]
+}

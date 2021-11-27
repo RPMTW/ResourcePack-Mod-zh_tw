@@ -1,0 +1,19 @@
+{
+  "name": "Deflection",
+  "icon": "minecraft:enchanted_book",
+  "category": "parrying:enchantments",
+  "pages" : [
+    {
+      "type": "text",
+      "text": "While parrying arrows is practically impossible with an ordinary weapon, it is undeniably cool. This enchantment aims to remedy this. It works by drawing a sword towards the world-line of an incoming arrow, allowing the wielder to deflect it with minimal effort. $(br2) Hitting a sword mid flight tends to rob an arrow of kinetic energy. Higher levels "
+    },
+    {
+      "type": "text",
+      "text": "of this enchantment help mitigate this, allowing the arrow to retain more of its speed. $(br2) With enough practice, it is possible to reflect arrows back at the shooter. This is not only a great way to turn the tables on an archer, especially if they are using poisoned arrows, but is also a glorious power move."
+    },
+    {
+      "type": "text",
+      "text": "Any archer who is taken down by their own arrow will surely drown in their own shame. Thus, deflections is an excellent way to affirm the superiority of proper melee combat."
+    }
+  ]
+}

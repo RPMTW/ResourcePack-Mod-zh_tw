@@ -1,0 +1,38 @@
+{
+  "name": "Winter Court",
+  "icon": "feywild:winter_tree_sapling",
+  "category": "winter_court",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "text",
+      "text": "When leaves have fallen and the sky has turned to gray and the night has closed in on the day. That's when the Winter Court reigns supreme in the Feywild. These fey are not concerned with the living and their power struggles. Eventually death will come for us all and their purpose is to make sure the Feywild sees another turn of the year."
+    },
+    {
+      "type": "image",
+      "title": "Frozen Retreat",
+      "images": ["feywild:textures/patchouli_images/winter_book.png"],
+      "border": true
+    },
+    {
+      "type": "text",
+      "text": "They may seem cold and sullen at a first glance, but they will warm up to anyone who is willing to help the Feywild to its harshest most deadly period. Winter fey tend to be softspoken, slightly morbid and never choose their words without thinking about them. They seem to be a bit on the awkward side when it comes to social dealings, and some prefer the company of the dead. "
+    }, {
+      "type": "image",
+      "title": "Winter World Tree",
+      "images": ["feywild:textures/patchouli_images/winter_worldtree_book.png"],
+      "border": true
+    }, {
+      "type": "spotlight",
+      "item": "feywild:fey_altar",
+      "title": "Winter World Tree",
+      "text": "The Winter World tree is difficult to find, but it is the home of Queen Mab. Note: Only the pixies are implemented, other court members will be added in later updates. The World Tree also has a Fey altar for you to use."
+    },
+    {
+      "type": "spotlight",
+      "item": "feywild:crocus_seed",
+      "title": "Giant Crocus",
+      "text": "In the Frozen Retreat you can find giant crocuses. The giant crocus will open it's flower during the day and will close at night. The flower will also drop crcous seeds, which can be used to grow your own giant crocus. "
+    }
+  ]
+}

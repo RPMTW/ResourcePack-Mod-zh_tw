@@ -1,0 +1,15 @@
+{
+  "name": "Hammers",
+  "icon": "parrying:diamond_hammer",
+  "category": "parrying:weapons",
+  "pages" : [
+    {
+      "type": "text",
+      "text": "The hammer is, in essence, a larger, heavier mace. Its massive head delivers a devastating hit on impact, making it an incredibly powerful weapon on par with a war axe. The heavy weight also grants the hammer extraordinary armor penetration, rendering even the heaviest, hardest suits of armor little more than an amusing suggestion."
+    },
+    {
+      "type": "text",
+      "text": "The extreme weight of the hammer makes it very difficult to parry with, so other forms of defense are recommended when wielding a hammer."
+    }
+  ]
+}

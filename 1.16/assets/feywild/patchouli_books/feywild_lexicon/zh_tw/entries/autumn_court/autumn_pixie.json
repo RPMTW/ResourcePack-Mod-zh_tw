@@ -1,0 +1,46 @@
+{
+  "name": "Autumn Pixie",
+  "icon": "feywild:summoning_scroll_autumn_pixie",
+  "category": "autumn_court",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "text",
+      "text": "The Autumn Court is the most mature of the four Fey Courts, their age and wisdom has given them a appreciation of fine art, music and poetry. They rather spend a night listening to song, dancing and flirting then going to combat or mindlessly indulging themselves."
+    },
+    {
+      "type": "entity",
+      "entity": "feywild:autumn_pixie",
+      "offset": 0.4
+    }, {
+      "type": "spotlight",
+      "item": "feywild:summoning_scroll",
+      "title": "Summoning",
+      "text": "Beware that when you summon a pixie, you are bound to their Court! This means other courts might not be willing to interact with you afterwards."
+    },
+    {
+      "type": "spotlight",
+      "item": "feywild:fey_altar",
+      "title": "Summoning",
+      "text": "Also note that not all pixies are willing familiars, and they might trick you! Try interacting with your pixie after you summoned one, if possible try to gain their trust."
+    },
+    {
+      "type": "spotlight",
+      "item": "feywild:summoning_scroll_autumn_pixie",
+      "title": "Summoning Autumn Pixie",
+      "text": "With this scroll you can summon a Autumn Pixie. Autumn Pixies will try to ward off any evil spirits by protecting you with a wind walk spell."
+    },
+    {
+      "type": "image",
+      "title": "Summoning Ingredients",
+      "images": ["feywild:textures/patchouli_images/autumn_summon_book.png"],
+      "border": true
+    },
+    {
+      "type": "spotlight",
+      "item": "minecraft:cookie",
+      "title": "Companion",
+      "text": "The summoned pixie will follow you by shift-right clicking her, if you want her to stay at a certain location, shift-right click her again."
+    }
+  ]
+}

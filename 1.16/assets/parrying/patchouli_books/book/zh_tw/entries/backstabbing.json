@@ -1,0 +1,23 @@
+{
+  "name": "Backstabs",
+  "icon": "minecraft:ghast_tear",
+  "category": "parrying:mechanics",
+  "pages" : [
+    {
+      "type": "text",
+      "text": "There is a saying that \"All is fair in love and war\", and while I have no idea who said this first, it is very true. In combat, one must take every advantage they can, because you cannot assume that your opponent will not do the same. $(br2)One way to attain such an advantage is to attack from behind. From the front, an opponent is able to defend themselves."
+    },
+    {
+      "type": "text",
+      "text": "However, from behind, they are vulnerable. For many creatures, all it takes to defeat them is a single strike to the back. Of course, most opponents will know this, so they will attempt to keep themselves facing a potential threat at all times $(br2) To overcome this, I have two recommendations. The first is to use stealth to your advantage. Certain potions, as well as keeping a low profile, can prevent you from being seen until it is too late."
+    },
+    {
+      "type": "text",
+      "text": "The second is to attack from a distance, if you can. A well placed arrow is just as good as a sword when attacking from behind. In fact, arrows can sometimes be preferable for such tactics, due to their penetrative power. $(br2) When going for a backstab, aim is critical. Even a slight miss can fail to kill the target, alerting them to your presence. Always be prepared to defend yourself if your target is not dead instantly."
+    },
+    {
+      "type": "text",
+      "text": "Take note, not every creature can be attacked in this manner. Some creatures are simply too large or too powerful to be vulnerable. In general, if your target has more vitality than you do, you can't backstab it. $(br2) I learned this the hard way when I tried to assassinate a witch..."
+    }
+  ]
+}

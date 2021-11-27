@@ -1224,5 +1224,6 @@
     "advancements.blue_skies.everdawn.get_horizonite.desc": "Smelt Raw Horizonite into an ingot.",
     "gui.blue_skies.item.boss_egg": "Bosses spawned from this item will not work fully.",
     "gui.blue_skies.item.unused": "This item is unused, and incomplete. It will be obtainable in a future release.",
-    "gui.blue_skies.blue_journal.unlock_status": "The Blue Journal unlocked a tab in your inventory!"
+    "gui.blue_skies.blue_journal.unlock_status": "The Blue Journal unlocked a tab in your inventory!",
+    "tile.keystone.peaceful_difficulty": "The boss cannot be summoned on Peaceful difficulty."
 }

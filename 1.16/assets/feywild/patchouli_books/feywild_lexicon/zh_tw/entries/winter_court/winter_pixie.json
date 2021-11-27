@@ -1,0 +1,46 @@
+{
+  "name": "Winter Pixie",
+  "icon": "feywild:summoning_scroll_winter_pixie",
+  "category": "winter_court",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "text",
+      "text": "They may seem cold and sullen at a first glance, but they will warm up to anyone who is willing to help the Feywild to its harshest most deadly period. Winter fey tend to be softspoken, slightly morbid and never choose their words without thinking about them. They seem to be a bit on the awkward side when it comes to social dealings, and some of them prefer the company of the dead."
+    },
+    {
+      "type": "entity",
+      "entity": "feywild:winter_pixie",
+      "offset": 0.4
+    }, {
+      "type": "spotlight",
+      "item": "feywild:summoning_scroll",
+      "title": "Summoning",
+      "text": "Beware that when you summon a pixie, you are bound to their Court! This means other courts might not be willing to interact with you afterwards."
+    },
+    {
+      "type": "spotlight",
+      "item": "feywild:fey_altar",
+      "title": "Summoning",
+      "text": "Also note that not all pixies are willing familiars, and they might trick you! Try interacting with your pixie after you summoned one, if possible try to gain their trust."
+    },
+    {
+      "type": "spotlight",
+      "item": "feywild:summoning_scroll_winter_pixie",
+      "title": "Summoning Winter Pixie",
+      "text": "With this scroll you can summon a Winter Pixie. The Winter Pixie will occasionally summon back a soul into a snowman's body."
+    },
+    {
+      "type": "image",
+      "title": "Summoning Ingredients",
+      "images": ["feywild:textures/patchouli_images/winter_summon_book.png"],
+      "border": true
+    },
+    {
+      "type": "spotlight",
+      "item": "minecraft:cookie",
+      "title": "Companion",
+      "text": "The summoned pixie will follow you by shift-right clicking her, if you want her to stay at a certain location, shift-right click her again."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Fey Dust",
+  "icon": "feywild:fey_dust",
+  "category": "fey_gems",
+  "pages": [
+    {
+      "type": "text",
+      "text": "When a Fey passes into the next world, they leave behind a small amount of Fey Dust. Breaking the fey trees will also provide you with fey dust. Fey Dust is also obtained by heating up fey ore."
+    },
+    {
+      "type": "smelting",
+      "title": "Fey Dust",
+      "recipe": "feywild:smelting/fey_dust",
+      "text": "Some believe the magical powder gives the power of flight to whoever it is sprinkled on. A boy once ate a whole stack and he was 'never' seen again."
+    }
+  ]
+}

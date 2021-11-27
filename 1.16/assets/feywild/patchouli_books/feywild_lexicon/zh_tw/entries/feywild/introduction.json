@@ -1,0 +1,32 @@
+{
+  "name": "Introduction",
+  "icon": "minecraft:writable_book",
+  "category": "feywild",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Did you ever find your shoes laced together after a good nights sleep? The sugar in your tea has suddenly turned to salt? Did you ever travel through the forest swearing you see something just in the corner of your eye or hearing the giggle of children's voices?"
+    },
+    {
+      "type": "text",
+      "text": "Don't fret, you're not going mad! It's just the local fey showing you they care for you in their own very special way. Fey are pranksters, tricksters who enjoy teasing us big folk. Most of the time they are harmless, but just as with us, there might be a bad seed or two amongst them. It's hard to gain the trust of a fairy, as they see the world in a different way that we do."
+    },
+    {
+      "type": "spotlight",
+      "item": "feywild:feywild_lexicon",
+      "text": "If you want to learn more about the Fey, you may want to visit a Library and speak to one of the librarians there. They also have guide books on magic, depending what magic you brought to the Feywild. If he is not present just ring the bell."
+    },
+    {
+      "type": "image",
+      "title": "Library",
+      "images": ["feywild:textures/patchouli_images/library_book.png"],
+      "border": true
+    },
+    {
+      "type": "crafting",
+      "title": "Feywild Lexicon",
+      "recipe": "feywild:feywild_lexicon"
+    }
+  ]
+}

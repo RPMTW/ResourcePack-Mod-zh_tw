@@ -1,0 +1,15 @@
+{
+  "name": "Daggers",
+  "icon": "parrying:netherite_dagger",
+  "category": "parrying:weapons",
+  "pages" : [
+    {
+      "type": "text",
+      "text": "The dagger is a classic weapon. In fact, one of the first weapons crafted is said to have been a stone knife. For thousands of years, the dagger has been a staple of melee combat. $(br2) Of course, its easy to see why. The dagger is a cheap and versatile weapon."
+    },
+    {
+      "type": "text",
+      "text": "Its lightweight nature makes it perfect for throwing, and also makes it a rather fast weapon. Its damage output is rather low, but its speed more than makes up for this. $(br2) Additionally, in the right hands, its quick nature makes the dagger good for taking openings in a target's defenses that others might not see."
+    }
+  ]
+}

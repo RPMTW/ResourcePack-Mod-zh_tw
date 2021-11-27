@@ -1,0 +1,15 @@
+{
+  "name": "Flails",
+  "icon": "parrying:gold_flail",
+  "category": "parrying:weapons",
+  "pages" : [
+    {
+      "type": "text",
+      "text": "The flail is a peculiar weapon. It consists of a handle with a heavy weight attached to the end by a chain. By any account, this so called \"Weapon\" should cause more damage to the wielder than its target. $(br2) However, in the hands of a skilled wielder, the flail has several unique characteristics that make it a worthwhile weapon."
+    },
+    {
+      "type": "text",
+      "text": "For a bludgeoning weapon, the flail is rather light, and its unique balance makes it quite fast. The lack of weight unfortunately reduces its armor penetration, but this is made up for the flail's utility against shields. The articulated nature of the flail allows it to swing around a shield, with a portion of its energy carrying through to the head, allowing it to strike the target behind the shield. This ability is very useful against those who put too much faith in their shields."
+    }
+  ]
+}

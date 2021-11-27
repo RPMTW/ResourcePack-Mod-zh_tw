@@ -9,7 +9,7 @@
     "block.piglin_expansion.basaltic_blackstone_slab": "Basaltic Blackstone Slab",
     "itemGroup.tabpiglin_expansion": "Piglin Expansion",
     "item.piglin_expansion.divinity_netherite_armor_helmet": "Divinity Netherite Helmet",
-    "block.piglin_expansion.chiseled_basalt_quadratiles_slab": "ChiseledBasaltQuadratiles",
+    "block.piglin_expansion.chiseled_basalt_quadratiles_slab": "Chiseled Basalt Quadratiles",
     "item.piglin_expansion.divinity_netherite_armor_boots": "Divinity Netherite Boots",
     "block.piglin_expansion.gilded_basalt_quadratiles": "Gilded Basalt Quadratiles",
     "item.piglin_expansion.golden_stick": "Golden Stick",
@@ -20,6 +20,13 @@
     "advancements.divinity_staff.descr": "Craft a Piglin Divinity Staff",
     "advancements.divinity_armor.title": "Divinity Armor",
     "block.piglin_expansion.gilded_basalt_quadratiles_slab": "Gilded Basalt Quadratiles",
-    "block.piglin_expansion.chiseled_basalt_quadratiles": "ChiseledBasaltQuadratiles",
-    "advancements.divinity_staff.title": "Power of Gods"
+    "block.piglin_expansion.chiseled_basalt_quadratiles": "Chiseled Basalt Quadratiles",
+    "advancements.divinity_staff.title": "Power of Gods",
+    "effect.divinity": "Divinity",
+    "item.minecraft.tipped_arrow.effect.divinity_potion": "Divinity Arrow Potion",
+    "item.minecraft.splash_potion.effect.divinity_potion": "Divinity Splash Potion",
+    "item.minecraft.lingering_potion.effect.divinity_potion": "Lingering Divinity Potion",
+    "effect.piglin_expansion.divinity": "Divinity",
+    "item.piglin_expansion.piglin_divinity_essence": "Piglin Divinity Essence",
+    "item.minecraft.potion.effect.divinity_potion": "Divinity Potion"
 }

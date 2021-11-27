@@ -42,7 +42,7 @@
     "block.desolation.ash_block_6": "Ash Block",
     "block.desolation.ash_block_8": "Ash Block",
     "item.desolation.mask_leggings": "Goggles Leggings",
-    "block.desolation.charred_trap_door": "Charred Fence",
+    "block.desolation.charred_trap_door": "Charred Trap Door",
     "item.desolation.cinder_fruit": "Cinder Fruit",
     "block.desolation.scorched_tuft_glowing": "Glowing Scorched Tuft",
     "block.desolation.charred_slab": "Charred Slab",
@@ -104,5 +104,6 @@
     "text.autoconfig.desolation.option.charredForestChance": "Charred Forest Chance",
     "text.autoconfig.desolation.option.smallCharredForestChance": "Small Charred Forest Chance",
     "text.autoconfig.desolation.option.charredForestClearingChance": "Charred Forest Clearing Chance",
-    "text.autoconfig.desolation.option.generateClearings": "Generate Clearings"
+    "text.autoconfig.desolation.option.generateClearings": "Generate Clearings",
+    "effect.desolation.potion_of_cinder_soul": "Potion Of Cinder Soul"
 }

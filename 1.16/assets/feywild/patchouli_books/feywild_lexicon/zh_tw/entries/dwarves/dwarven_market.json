@@ -1,0 +1,71 @@
+{
+  "advancement": "feywild:feywild/traveling_stone",
+  "name": "Dwarven Market",
+  "icon": "feywild:inactive_market_rune_stone",
+  "category": "dwarves",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "feywild:inactive_market_rune_stone",
+      "title": "Schematics",
+      "text": "Runestones are small slabs of stone with magical properties. They can hold different kinds of magical spells. The most common are the Traveling stones, used to travel to other locations."
+    },
+    {
+      "advancement": "",
+      "type": "spotlight",
+      "item": "feywild:market_rune_stone",
+      "title": "Market Traveling Stone",
+      "text": "You can ask a dwarf you are friends with to activate an inactive rune stone. When activated it can be used to teleport to a secret location only known by the dwarves and those they trust."
+    },
+    {
+      "advancement": "",
+      "type": "image",
+      "title": "Dwarven Market",
+      "images": ["feywild:textures/patchouli_images/market_book.png"],
+      "border": true,
+      "text": "At the dwarven market you can trade for all kinds of items."
+    },
+    {
+      "type": "entity",
+      "entity": "feywild:dwarf_baker",
+      "scale": 0.6,
+      "offset": 0.15,
+      "text": "This dwarf will trade for all kinds of culinairy items."
+    },
+    {
+      "type": "entity",
+      "entity": "feywild:dwarf_shepherd",
+      "scale": 0.6,
+      "offset": 0.15,
+      "text": "This dwarf will trade for all kinds of farm animal items."
+    },
+    {
+      "type": "entity",
+      "entity": "feywild:dwarf_toolsmith",
+      "scale": 0.6,
+      "offset": 0.15,
+      "text": "This dwarf will trade for all kinds of armour, weapons and tools."
+    },
+    {
+      "type": "entity",
+      "entity": "feywild:dwarf_artificer",
+      "scale": 0.6,
+      "offset": 0.15,
+      "text": "This dwarf will trade for all kinds of artifects and trinkets."
+    },
+    {
+      "type": "entity",
+      "entity": "feywild:dwarf_miner",
+      "scale": 0.6,
+      "offset": 0.15,
+      "text": "This dwarf will trade for all kinds of stones and ore."
+    },
+    {
+      "type": "entity",
+      "entity": "feywild:dwarf_dragon_hunter",
+      "scale": 0.6,
+      "offset": 0.15,
+      "text": "This dwarf will trade for all kinds of monster drops."
+    }
+  ]
+}

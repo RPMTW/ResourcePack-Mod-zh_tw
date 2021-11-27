@@ -1,0 +1,39 @@
+{
+  "name": "Summer Court",
+  "icon": "feywild:summer_tree_sapling",
+  "category": "summer_court",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "text",
+      "text": "The Summer Court is the primary reigning Court within the Feywild and they know it. Haughty and demanding, they expect anyone who addresses them to treat them as the royals they are. The other Courts and inhabitants of the Feywild are there to serve them, and though polite, they demand recognition of their self-claimed royal status."
+    },
+    {
+      "type": "image",
+      "title": "Golden Seelie Fields",
+      "images": ["feywild:textures/patchouli_images/summer_book.png"],
+      "border": true
+    },
+    {
+      "type": "text",
+      "text": "The Summer Court defend the Feywild against intruders which seek to take a hold of the Faerie Court's riches and are more combat orientated then the other Courts. They are quick to answer any threat or opposition with their righteous judgment."
+    }, {
+      "type": "image",
+      "title": "Summer World Tree",
+      "images": ["feywild:textures/patchouli_images/summer_worldtree_book.png"],
+      "border": true
+    },
+    {
+      "type": "spotlight",
+      "item": "feywild:fey_altar",
+      "title": "Summer World Tree",
+      "text": "The Summer World tree is difficult to find, but it is the home of Queen Titania. Note: Only the pixies are implemented, other court members will be added in later updates. The World Tree also has a Fey altar for you to use."
+    },
+    {
+      "type": "spotlight",
+      "item": "feywild:sunflower_seed",
+      "title": "Giant Sunflower",
+      "text": "In the Golden Seelie Fields you can find giant sunflowers. The giant sunflowers will face the sun's position. The flower will also drop sunflower seeds, which can be used to grow your own giant sunflowers. "
+    }
+  ]
+}
