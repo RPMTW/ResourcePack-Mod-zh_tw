@@ -1,8 +1,8 @@
 {
     "itemGroup.nauticality.main": "Nauticality",
-    "item.nauticality.glow_fish_spawn_egg": "Glow Fish Spawn Egg",
-    "item.nauticality.glow_fish_bucket": "Glow Fish Bucket",
-    "entity.nauticality.glow_fish": "Glow Fish",
+    "item.nauticality.glow_fish_spawn_egg": "螢光魚生怪蛋",
+    "item.nauticality.glow_fish_bucket": "螢光魚桶",
+    "entity.nauticality.glow_fish": "螢光魚",
     "item.nauticality.pirate_spawn_egg": "海盜 生怪蛋",
     "entity.nauticality.pirate": "海盜",
     "item.nauticality.submarine": "Submarine",
@@ -11,7 +11,7 @@
     "item.nauticality.cattail": "Cattail",
     "item.nauticality.algae": "Algae",
     "block.nauticality.cattail": "Cattail",
-    "block.nauticality.algae": "Algae",
-    "nauticality.midnightconfig.title": "Nauticality Config",
-    "nauticality.midnightconfig.pirateShipRate": "Pirate Ship spawn rate"
+    "block.nauticality.algae": "藻類",
+    "nauticality.midnightconfig.title": "Nauticality 設定",
+    "nauticality.midnightconfig.pirateShipRate": "海盜船生成機率"
 }
