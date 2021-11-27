@@ -1,0 +1,33 @@
+{
+  "name": "Magic Mushroom Stews",
+  "icon": "magicfungi:clypeus_mushroom_stew",
+  "category": "magicfungi:general_info",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "magicfungi:impetus_mushroom_stew",
+      "text": "$(c)$(l)Impetus Mushroom Stew $()is a spicy, ruby-colored mushroom stew made with $(c)$(l)Impetus Mushrooms$(). Upon consumption, it'll grant the user a few seconds of $(4)$(l)Strength$()."
+    },
+    {
+      "type": "spotlight",
+      "item": "magicfungi:clypeus_mushroom_stew",
+      "text": "$(3)$(l)Clypeus Mushroom Stew $()is a refreshing, teal-colored mushroom stew made with $(3)$(l)Clypeus Mushrooms$(). Upon consumption, it'll grant the user a few seconds of $(7)$(l)Resistance$()."
+    },
+    {
+      "type": "spotlight",
+      "item": "magicfungi:utilis_mushroom_stew",
+      "text": "$(d)$(l)Utilis Mushroom Stew $()is a umami, rose-colored mushroom stew made with $(d)$(l)Utilis Mushrooms$(). Upon consumption, it'll grant the user a few seconds of $(e)$(l)Haste$()."
+    },
+    {
+      "type": "spotlight",
+      "item": "magicfungi:vivifica_mushroom_stew",
+      "text": "$(a)$(l)Vivifica Mushroom Stew $()is a sweet, lime-colored mushroom stew made with $(a)$(l)Vivifica Mushrooms$(). Upon consumption, it'll grant the user a few seconds of $(c)$(l)Regeneration$()."
+    },
+    {
+      "type": "spotlight",
+      "item": "magicfungi:morbus_mushroom_stew",
+      "text": "$(8)$(l)Morbus Mushroom Stew $()is a sour, coal-colored mushroom stew made with $(8)$(l)Morbus Mushrooms$(). Upon consumption, it'll grant the user a few seconds of $(8)$(l)Withering$()."
+    }
+  ]
+}
