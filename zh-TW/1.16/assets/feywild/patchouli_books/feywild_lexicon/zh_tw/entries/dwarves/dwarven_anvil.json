@@ -1,0 +1,48 @@
+{
+  "advancement": "feywild:feywild/fey_dust",
+  "name": "Dwarven Anvil",
+  "icon": "feywild:dwarven_anvil",
+  "category": "dwarves",
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "feywild:dwarven_anvil",
+      "title": "Dwarven Anvil",
+      "text": "Dwarves don't easily make friends with outsiders, but if you are one of the few who has earned the gratitude of a dwarf, you have a friend for life."
+    },
+    {
+      "type": "spotlight",
+      "item": "feywild:summoning_scroll_dwarf_blacksmith",
+      "title": "Summoning Contract",
+      "text": "A summoning contract can be obtained by trading with dwarves (up to level 3). By shift-right clicking the dwarven anvil with the summoning scroll, you will bind a dwarf to that anvil."
+    },
+    {
+      "type": "spotlight",
+      "item": "feywild:dwarven_anvil",
+      "title": "Crafting",
+      "text": "The summoned dwarf will craft for you when you place the correct recipe in the anvil. So make sure there is a dwarf bound to the anvil."
+    },
+    {
+      "type": "spotlight",
+      "item": "feywild:fey_dust",
+      "title": "Mana",
+      "text": "You can replenish the mana of the anvil, by placing fey dust as fuel in the buttom-left slot of the anvil. Most special recipes require mana."
+    },
+    {
+      "type": "spotlight",
+      "item": "minecraft:cake",
+      "title": "Providing for a Dwarf",
+      "text": "The summoned dwarf will have different trades then those found in caves or at the blacksmith. They will require a daily meal in exchange for ore. If you provide the dwarf with enough meals he will offer you his knowledge in the form of schematics"
+    },
+    {
+      "type": "spotlight",
+      "item": "feywild:schematics_gem_transmutation",
+      "title": "Schematics",
+      "text": "Most recipes for the anvil will require schematics. You can place the schematics in the top-left slot of the anvil."
+    },
+    {
+      "type": "text",
+      "text": "So to craft with the dwarven anvil make sure you have enough mana, a dwarf should be bound to the anvil, and you require the correct schematics. Ones all items are placed the dwarf will start crafting for you!"
+    }
+  ]
+}
