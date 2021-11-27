@@ -1,0 +1,11 @@
+{
+  "name": "Crippling",
+  "icon": "minecraft:enchanted_book",
+  "category": "parrying:enchantments",
+  "pages": [
+    {
+      "type": "text",
+      "text": "This brutal enchantment focuses kinetic energy onto the bones of your targets, bruising and breaking them. This has a considerable slowing effect on your target. Take note that this enchantment is somewhat random, with both the chance and duration of your effect varying. In general, longer lasting debilitation has a lower chance to occur."
+    }
+  ]
+}
