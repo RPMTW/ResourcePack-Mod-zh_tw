@@ -1,0 +1,49 @@
+{
+  "name": "Summer Pixie",
+  "icon": "feywild:summoning_scroll_summer_pixie",
+  "category": "summer_court",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "text",
+      "text": "The Summer Court is the primary reigning Court within the Feywild and they know it. Haughty and demanding, they expect anyone who addresses them to treat them as the royals they are. The other Courts and inhabitants of the Feywild are there to serve them, and though polite, they demand recognition of their self-claimed royal status."
+    },
+    {
+      "type": "entity",
+      "entity": "feywild:summer_pixie",
+      "offset": "0.4"
+    },
+    {
+      "type": "spotlight",
+      "item": "feywild:summoning_scroll",
+      "title": "Summoning",
+      "text": "Beware that when you summon a pixie, you are bound to their Court! This means other courts might not be willing to interact with you afterwards."
+    },
+    {
+      "type": "spotlight",
+      "item": "feywild:fey_altar",
+      "title": "召喚",
+      "text": "Also note that not all pixies are willing familiars, and they might trick you! Try interacting with your pixie after you summoned one, if possible try to gain their trust."
+    },
+    {
+      "type": "spotlight",
+      "item": "feywild:summoning_scroll_summer_pixie",
+      "title": "Summoning Summer Pixie",
+      "text": "With this scroll you can summon a Summer Pixie. As a proud member of the Summer Court the Summer Pixie will smite down her foes."
+    },
+    {
+      "type": "image",
+      "title": "Summoning Ingredients",
+      "images": [
+        "feywild:textures/patchouli_images/summer_summon_book.png"
+      ],
+      "border": true
+    },
+    {
+      "type": "spotlight",
+      "item": "minecraft:cookie",
+      "title": "Companion",
+      "text": "The summoned pixie will follow you by shift-right clicking her, if you want her to stay at a certain location, shift-right click her again."
+    }
+  ]
+}
