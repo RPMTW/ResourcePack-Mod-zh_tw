@@ -5,7 +5,7 @@
     "item.bigbrain.buckler.desc.charge": "長按右鍵蓄力後向前猛衝",
     "item.bigbrain.buckler.desc.while": "猛衝時：",
     "item.bigbrain.buckler.desc.forward": "  +持盾者向前方衝刺",
-    "item.bigbrain.buckler.desc.speed": "  +9 移動速度",
+    "item.bigbrain.buckler.desc.speed": "  *9 Speed",
     "item.bigbrain.buckler.desc.bash": "  +撞擊實體對其造成6-8點傷害",
     "item.bigbrain.buckler.desc.explosion": "  +撞擊實體引發爆炸",
     "item.bigbrain.buckler.desc.knockback": "  +1 抗擊退",
@@ -19,5 +19,7 @@
     "enchantment.bigbrain.turning.desc": "以喪失重擊能力為代價去除圓盾蓄力時對視角移動速度的影響。",
     "enchantment.bigbrain.bang.desc": "持盾重擊時引發爆炸，對自身及周圍生物造成傷害。",
     "bigbrain.advancements.nether.obtain_buckler.title": "蓄力圓盾",
-    "bigbrain.advancements.nether.obtain_buckler.description": "獲得一面圓盾。"
+    "bigbrain.advancements.nether.obtain_buckler.description": "Obtain a buckler from a bastion chest or from a slain piglin brute.",
+    "item.bigbrain.snowball.desc.hit": "On hit:",
+    "item.bigbrain.snowball.desc.freeze": "  +5s Freezing"
 }
