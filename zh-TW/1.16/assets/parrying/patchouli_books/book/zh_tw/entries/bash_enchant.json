@@ -1,0 +1,15 @@
+{
+  "name": "Bashing",
+  "icon": "minecraft:enchanted_book",
+  "category": "parrying:enchantments",
+  "pages": [
+    {
+      "type": "text",
+      "text": "This unique enchantment is very useful for any shield user. It optimizes the impact of the shield against a target, allowing it to bash more targets with the same attack. Legends say that at high levels this enchantment allows for up to 6 targets to be bashed at a time!"
+    },
+    {
+      "type": "text",
+      "text": "A somewhat less useful side effect, the enchantment also optimizes vibrations in the shield, making it more comfortable to wield."
+    }
+  ]
+}
