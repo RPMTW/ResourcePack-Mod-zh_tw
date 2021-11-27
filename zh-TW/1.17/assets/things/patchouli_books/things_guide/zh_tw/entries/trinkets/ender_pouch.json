@@ -1,0 +1,15 @@
+{
+  "name": "Ender Pouch",
+  "icon": "things:ender_pouch",
+  "category": "things:trinkets",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Everyone knows the pain of having to return from an exploring venture early to empty one's inventory. Now this issue can not be remedied with such simple materials, yet at least the $(item)Ender Pouch$() manages to almost double the time spent adventuring. Effectively being a portable Ender Chest, it provides quick access to the user's $(thing)Ender Inventory$()."
+    },
+    {
+      "type": "crafting",
+      "recipe": "things:ender_pouch"
+    }
+  ]
+}
