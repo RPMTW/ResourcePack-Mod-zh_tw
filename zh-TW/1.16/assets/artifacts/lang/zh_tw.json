@@ -80,7 +80,7 @@
     "item.artifacts.cloud_in_a_bottle.tooltip": "維吉爾都不會的二段跳",
     "item.artifacts.whoopee_cushion.tooltip": "讓你脹氣",
     "item.artifacts.vampiric_glove.tooltip": "使佩戴者的近戰攻擊吸收攻擊目標的生命",
-    "item.artifacts.golden_hook.tooltip": "增加生物掉落的經驗。增加未殺過生物的掉落經驗",
+    "item.artifacts.golden_hook.tooltip": "Increases experience dropped by creatures",
     "item.artifacts.helium_flamingo.tooltip.0": "允許佩戴者在空中游泳一段有限的時間。",
     "item.artifacts.helium_flamingo.tooltip.1": "在空中按 %s 開始游泳",
     "item.artifacts.aqua_dashers.tooltip": "允許佩戴者跑步時可行走在液體上",
@@ -147,5 +147,7 @@
     "artifacts.config.common.artifact_rarity": "神器稀有度",
     "artifacts.config.server.helium_flamingo.max_flight_time": "最長飛行時間",
     "artifacts.config.server.helium_flamingo.recharge_time": "充填速度",
-    "artifacts.config.server.villager_hat.reputation_bonus": "聲譽加成"
+    "artifacts.config.server.villager_hat.reputation_bonus": "聲譽加成",
+    "artifacts.config.server.everlasting_foods.use_duration": "Use duration",
+    "artifacts.config.server.golden_hook.experience_bonus": "Experience bonus"
 }
