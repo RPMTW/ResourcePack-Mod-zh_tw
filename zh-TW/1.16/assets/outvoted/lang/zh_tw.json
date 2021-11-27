@@ -172,5 +172,12 @@
     "text.autoconfig.outvoted.option.common.entities.coppergolem": "銅魔像",
     "text.autoconfig.outvoted.option.common.entities.coppergolem.health": "最大生命值",
     "text.autoconfig.outvoted.option.common.entities.coppergolem.oxidationRate": "氧化率",
-    "text.autoconfig.outvoted.option.common.entities.coppergolem.oxidationRate.@Tooltip": "魔像每秒氧化的百分比，以小數表示"
+    "text.autoconfig.outvoted.option.common.entities.coppergolem.oxidationRate.@Tooltip": "魔像每秒氧化的百分比，以小數表示",
+    "entity.outvoted.blaze_s": "Soul Blaze",
+    "item.outvoted.glare_spawn_egg": "Glare Spawn Egg",
+    "text.autoconfig.outvoted.option.common.entities.glare": "Glare",
+    "text.autoconfig.outvoted.option.common.entities.glare.spawn": "Enable Spawning",
+    "text.autoconfig.outvoted.option.common.entities.glare.rate": "Spawn Weight",
+    "text.autoconfig.outvoted.option.common.entities.glare.health": "Max Health",
+    "text.autoconfig.outvoted.option.common.misc.givePatchouliBookOnLogin": "Give Patchouli Book On Login"
 }
