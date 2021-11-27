@@ -1,0 +1,19 @@
+{
+    "secondchanceforge.config.title": "Second Chance Config",
+    "secondchanceforge.config.option.coyoteTimeEnabled": "Coyote Time",
+    "secondchanceforge.config.tooltip.coyoteTimeEnabled": "Determines if the 'Coyote Time' feature is enabled.\n 'Coyote Time' allows the player to jump for a second or two after falling off of a block in order to stop themselves from falling into a pit.\n This will not allow the player to double jump, only jump when walking off of a block.",
+    "secondchanceforge.config.option.coyoteTimeTicks": "Coyote Time Ticks",
+    "secondchanceforge.config.tooltip.coyoteTimeTicks": "Determines how long (in ticks) the player has to jump with 'Coyote Time' after falling off a block.",
+    "secondchanceforge.config.option.secondChanceEnabled": "Second Chance",
+    "secondchanceforge.config.tooltip.secondChanceEnabled": "Determines if the 'Second Chance' feature is enabled.\n 'Second Chance' leaves the player at half a heart after taking fatal damage from a mob or explosion while at or above 7 hearts.",
+    "secondchanceforge.config.option.secondChanceSound": "Second Chance Sound",
+    "secondchanceforge.config.tooltip.secondChanceSound": "Determines if the 'Second Chance' sound will play when the effect is activated.",
+    "secondchanceforge.config.option.secondChanceExplosions": "Second Chance Explosions",
+    "secondchanceforge.config.tooltip.secondChanceExplosions": "Determines if the 'Second Chance' feature will be activated by explosions.",
+    "secondchanceforge.config.option.secondChanceMobs": "Second Chance Mobs",
+    "secondchanceforge.config.tooltip.secondChanceMobs": "Determines if the 'Second Chance' feature will be activated by mobs.",
+    "secondchanceforge.config.option.secondChanceActivationHealth": "Second Chance Activation Health",
+    "secondchanceforge.config.tooltip.secondChanceActivationHealth": "Determines how much health the player must start with for 'Second Chance' to activate.",
+    "secondchanceforge.config.option.secondChanceHealthRemainder": "Second Chance Health Remainder",
+    "secondchanceforge.config.tooltip.secondChanceHealthRemainder": "Determines how much health the player should be left with after 'Second Chance' activates."
+}
