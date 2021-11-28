@@ -1,6 +1,6 @@
 {
   "name": "動物",
-  "icon": "minecraft:spawn_egg:0{EntityTag:{id:\"twilightforest:wild_boar\"}}",
+  "icon": "twilightforest:wild_boar_spawn_egg",
   "category": "entities",
   "advancement": "twilightforest:alt/entities/animals",
   "sortnum": 1100,
@@ -8,50 +8,82 @@
     {
       "type": "entity",
       "advancement": "twilightforest:alt/entities/bighorn_sheep",
-      "entity": "twilightforest:bighorn_sheep",
-      "text": "things and stuff"
+      "entity": "twilightforest:bighorn_sheep"
+    },
+    {
+      "type": "text",
+      "advancement": "twilightforest:alt/entities/bighorn_sheep",
+      "text": "大角山羊是一種溫順的草食性動物。不像它們在主世界的同類，這些羊生來就有五顏六色的毛皮，雖然棕色似乎是最常見的。"
     },
     {
       "type": "entity",
       "advancement": "twilightforest:alt/entities/bunny",
-      "entity": "twilightforest:bunny",
-      "text": "things and stuff"
+      "entity": "twilightforest:bunny"
+    },
+    {
+      "type": "text",
+      "advancement": "twilightforest:alt/entities/bunny",
+      "text": "一種小型的內向動物，暮光森林侏儒兔傾向於花費一整天的時間在透過跳躍造訪這個世界的所有生態域。"
     },
     {
       "type": "entity",
       "advancement": "twilightforest:alt/entities/deer",
-      "entity": "twilightforest:deer",
-      "text": "things and stuff"
+      "entity": "twilightforest:deer"
+    },
+    {
+      "type": "text",
+      "advancement": "twilightforest:alt/entities/deer",
+      "text": "野鹿常被發現遊蕩於大部分的暮光森林，且通常是成群行動。很少東西比一群鹿在林間地吃草更像一幅畫。"
     },
     {
       "type": "entity",
       "advancement": "twilightforest:alt/entities/raven",
-      "entity": "twilightforest:raven",
-      "text": "things and stuff"
+      "entity": "twilightforest:raven"
+    },
+    {
+      "type": "text",
+      "advancement": "twilightforest:alt/entities/raven",
+      "text": "這些鳥兒往往是難以捉摸的，但它們墨黑的羽毛因為某種未知的特性而發著光。要是有人能夠靠近它們以取得一根羽毛，或許他們就能發現為甚麼..."
     },
     {
       "type": "entity",
       "advancement": "twilightforest:alt/entities/squirrel",
-      "entity": "twilightforest:squirrel",
-      "text": "things and stuff"
+      "entity": "twilightforest:squirrel"
+    },
+    {
+      "type": "text",
+      "advancement": "twilightforest:alt/entities/squirrel",
+      "text": "這些古怪的生物似乎對冒險者毫無用處。"
     },
     {
       "type": "entity",
       "advancement": "twilightforest:alt/entities/wild_boar",
-      "entity": "twilightforest:tiny_bird",
-      "text": "things and stuff"
+      "entity": "twilightforest:wild_boar"
+    },
+    {
+      "type": "text",
+      "advancement": "twilightforest:alt/entities/wild_boar",
+      "text": "野生的山豬似乎和它們在主世界的粉色同類有些不同，但它們的棕色皮膚為它們在森林中提供了保護色。"
     },
     {
       "type": "entity",
-      "advancement": "twilightforest:alt/entities/wild_boar",
-      "entity": "twilightforest:tiny_bird",
-      "text": "things and stuff"
+      "advancement": "twilightforest:alt/entities/tiny_bird",
+      "entity": "twilightforest:tiny_bird"
+    },
+    {
+      "type": "text",
+      "advancement": "twilightforest:alt/entities/tiny_bird",
+      "text": "這些容易受到驚嚇的生物不會構成威脅或傷害，也不提供任何食物。"
     },
     {
       "type": "entity",
       "advancement": "twilightforest:alt/entities/penguin",
-      "entity": "twilightforest:penguin",
-      "text": "things and stuff"
+      "entity": "twilightforest:penguin"
+    },
+    {
+      "type": "text",
+      "advancement": "twilightforest:alt/entities/penguin",
+      "text": "這種鳥類被發現一大群在巨大的冰川上，它們非常熱愛雪...和魚"
     }
   ]
 }
