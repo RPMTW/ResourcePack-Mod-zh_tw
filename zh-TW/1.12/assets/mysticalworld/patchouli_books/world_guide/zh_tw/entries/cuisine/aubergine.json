@@ -1,25 +1,32 @@
 {
-  "name": "茄子",
-  "icon": "mysticalworld:aubergine",
-  "category": "cuisine",
-  "pages": [
-    {
-      "type": "spotlight",
-      "link_recipe": true,
-      "item": "mysticalworld:cooked_aubergine",
-      "text": "從$(l:crops/aubergine)成熟的茄子作物$()上可以採收出茄子，這些茄子可有著許多用途。"
-    },
-    {
-      "type": "smelting",
-      "recipe": "mysticalworld:aubergine",
-      "title": "烤茄子",
-      "text": "將茄子裡的種子掏空，放到火上細細烤製，如果再向其中加入一些額外食材，最後的菜餚肯定更為美味。"
-    },
-    {
-      "type": "crafting",
-      "recipe": "mysticalworld:stuffed_aubergine",
-      "title": "釀茄子",
-      "text": "令人回味無窮的素食佳餚，茄子與甜菜，胡蘿蔔，馬鈴薯的美妙滋味在舌尖盡情交融碰撞，這才是真正的饕餮盛宴！"
-    }
-  ]
+    "name": "茄子",
+    "icon": "mysticalworld:aubergine",
+    "category": "cuisine",
+    "pages": [
+        {
+            "type": "spotlight",
+            "link_recipe": true,
+            "item": "mysticalworld:aubergine_seeds",
+            "text": "茄子種子可以割草獲得。"
+        },
+        {
+            "type": "spotlight",
+            "link_recipe": true,
+            "item": "mysticalworld:aubergine",
+            "text": "成熟之後收割的茄子可以直接吃，也可以用作其他料理的食材！",
+            "title": "茄子作物"
+        },
+        {
+            "type": "smelting",
+            "recipe": "mysticalworld:cooked_aubergine",
+            "title": "Cooked Aubergine",
+            "text": "Once cooked and with the seeds removed, further additions can be made to the aubergine to make it even tastier!"
+        },
+        {
+            "type": "crafting",
+            "recipe": "mysticalworld:stuffed_aubergine",
+            "title": "Stuffed Aubergine",
+            "text": "A great vegetarian delicacy, the aubergine is combined with beets, carrots & potatoes for a truly magnificent meal!"
+        }
+    ]
 }
