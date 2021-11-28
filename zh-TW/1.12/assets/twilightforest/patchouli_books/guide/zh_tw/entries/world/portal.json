@@ -1,6 +1,6 @@
 {
   "name": "Building a Portal",
-  "icon": "twilightforest:miniature_structure:0",
+  "icon": "twilightforest:twilight_portal_miniature_structure",
   "category": "world",
   "sortnum": -1010,
   "pages": [
@@ -12,13 +12,13 @@
         "pattern": [
           [
             " FF ",
-            "FAAF",
+            "F0AF",
             "FAAF",
             " FF "
           ],
           [
             " GG ",
-            "G0WG",
+            "GWWG",
             "GWWG",
             " GG "
           ],
@@ -32,10 +32,9 @@
         "mapping": {
           " ": "ANY",
           "A": "AIR",
-          "0": "minecraft:water",
-          "W": "minecraft:water",
-          "F": "minecraft:red_flower",
-          "G": "minecraft:grass",
+          "W": "minecraft:water[level=15]",
+          "F": "minecraft:poppy",
+          "G": "minecraft:grass_block",
           "D": "minecraft:dirt"
         },
         "symmetrical": true,
@@ -52,9 +51,14 @@
       }
     },
     {
+      "type": "text",
+      "title": "Valid Portal Criteria",
+      "text": "$(li)Grass Blocks can be swapped out for any earth-y block. Examples: Farmland, Mycelium, Uberous Soil $(li)Poppies can be switched out for any other flower, leaf, or crop! $(li)A portal can be any size as long as there are less than 64 water spaces. You can even make it different shapes too! $(li)The bottom of the portal $(l)MUST$() stay as dirt."
+    },
+    {
       "type": "spotlight",
       "title": "Activation Item",
-      "item": "minecraft:diamond",
+      "item": "#twilightforest:portal/activator",
       "text": "Drop a diamond into the water!"
     },
     {
@@ -87,13 +91,11 @@
         "mapping": {
           " ": "ANY",
           "A": "AIR",
-          "0": "AIR",
           "W": "twilightforest:twilight_portal",
-          "F": "minecraft:red_flower",
-          "G": "minecraft:grass",
+          "F": "minecraft:poppy",
+          "G": "minecraft:grass_block",
           "D": "minecraft:dirt"
         },
-        "symmetrical": true,
         "offset": [
           0,
           1,
