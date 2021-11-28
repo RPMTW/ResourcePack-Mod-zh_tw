@@ -1,6 +1,6 @@
 {
   "name": "迷宮史萊姆",
-  "icon": "minecraft:spawn_egg:0{EntityTag:{id:\"twilightforest:maze_slime\"}}",
+  "icon": "twilightforest:maze_slime_spawn_egg",
   "category": "entities",
   "advancement": "twilightforest:alt/entities/maze_slime",
   "sortnum": 5020,
