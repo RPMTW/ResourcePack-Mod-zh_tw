@@ -1,13 +1,12 @@
 {
-  "name": "蠶繭",
-  "icon": "mysticalworld:silk_cocoon",
-  "category": "items",
-  "pages": [
-    {
-      "type": "spotlight",
-      "item": "mysticalworld:silk_cocoon",
-      "link_recipe": true,
-      "text": "蠶繭是$(l:creatures/silkworm)蠶$()長大以後產生的。把樹葉扔在蠶附近餵蠶可以讓它長得快。"
-    }
-  ]
+    "name": "蠶繭",
+    "icon": "mysticalworld:silk_cocoon",
+    "category": "items",
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "mysticalworld:silk_cocoon",
+            "text": "These cocoons are produced by $(l:creatures/silkworm)silkworms$() after a growing period. They are primarily used to produce $(l:items/silk_thread)silk thread$()."
+        }
+    ]
 }
