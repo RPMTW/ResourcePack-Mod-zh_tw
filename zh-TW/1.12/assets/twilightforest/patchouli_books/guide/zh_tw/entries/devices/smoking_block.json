@@ -1,6 +1,6 @@
 {
   "name": "冒煙方塊",
-  "icon": "twilightforest:fire_jet:0",
+  "icon": "twilightforest:smoker",
   "category": "devices",
   "advancement": "twilightforest:alt/treasures/smoking_block",
   "sortnum": 5050,
@@ -8,7 +8,7 @@
     {
       "type": "spotlight",
       "title": "冒煙方塊",
-      "item": "twilightforest:fire_jet:0",
+      "item": "twilightforest:smoker",
       "text": "他們似乎相對安全到能站在上面。我的腳底沒有起水泡而且皮膚沒有在灼燒，但另一方面來說，在裡面呼吸不是一件舒服的事。這個東西似乎會自我維持，不需要熱源；我在思考它會是有用的嗎？"
     }
   ]
