@@ -1,6 +1,6 @@
 {
     "tile.ftbguides.quest_block.name": "Quest Block",
-    "ftbguides": "FTB Guides Common",
+    "ftbguides": "FTB Guides Modpack",
     "ftbguides.general.modpack_guide_version": "Modpack Guide Version",
     "ftbguides.general.flash_guides": "Flash Guides Button",
     "ftbguides.general.base_uri": "Base URI",
@@ -30,5 +30,9 @@
     "ftbguides.lang.theme.dark": "Dark",
     "ftbguides.lang.theme.light": "Light",
     "ftbguides.lang.theme.solarized_dark": "Solarized Dark",
-    "ftbguides.lang.theme.solarized_light": "Solarized Light"
+    "ftbguides.lang.theme.solarized_light": "Solarized Light",
+    "ftbguides.general.disable_non_modpack_guides": "Disable Non-Modpack Guides",
+    "ftbguides_local": "FTB Guides Local",
+    "ftbguides.general.width_percent": "Width Percent",
+    "item.ftbguides.book.name": "Guide Book"
 }

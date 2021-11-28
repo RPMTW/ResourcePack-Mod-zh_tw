@@ -24,5 +24,6 @@
     "commands.recipes.container.false": "%1$d container(s) are disabled for craft handling",
     "commands.recipes.furnace": "Count %1$d recipe changes in furnace",
     "commands.recipes.dump.page": "Page %1$d of %2$d",
-    "commands.recipes.dump.next": "Click to display page %1$d"
+    "commands.recipes.dump.next": "Click to display page %1$d",
+    "handler.found.text": "Results found: %d"
 }
