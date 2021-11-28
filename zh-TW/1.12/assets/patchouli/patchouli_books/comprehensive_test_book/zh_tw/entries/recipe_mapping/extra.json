@@ -1,0 +1,27 @@
+{
+  "name": "額外的配方映射",
+  "category": "patchouli:recipe_mapping",
+  "icon": "minecraft:tropical_fish",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": {
+        "translate": "patchouli.gui.lexicon.reloaded",
+        "with": [
+          69
+        ]
+      }
+    },
+    {
+      "type": "patchouli:empty"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "日誌應在此處映射"
+    }
+  ],
+  "extra_recipe_mappings": {
+    "minecraft:grass_block": 0,
+    "tag:minecraft:logs": 2
+  }
+}
