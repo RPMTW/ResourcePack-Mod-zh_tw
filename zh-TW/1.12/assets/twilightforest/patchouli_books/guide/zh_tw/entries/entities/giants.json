@@ -1,6 +1,6 @@
 {
   "name": "Giants",
-  "icon": "minecraft:spawn_egg:0{EntityTag:{id:\"twilightforest:giant_miner\"}}",
+  "icon": "twilightforest:giant_miner_spawn_egg",
   "category": "entities",
   "advancement": "twilightforest:alt/entities/giants",
   "sortnum": 8110,
@@ -8,14 +8,22 @@
     {
       "type": "entity",
       "advancement": "twilightforest:alt/entities/giant_miner",
-      "entity": "twilightforest:giant_miner{HandItems:[{id:\"stone_pickaxe\",Count:1}]}",
-      "text": "things and stuff"
+      "entity": "twilightforest:giant_miner{HandItems:[{Count:1,id:stone_pickaxe},{}]}"
+    },
+    {
+      "type": "text",
+      "advancement": "twilightforest:alt/entities/giant_miner",
+      "text": "礦工巨人與裝甲巨人位於雲小屋中。 它是一個巨大的人形生物，揮舞著同樣巨大的鎬。 如此獨特的物品一定是為了萬能的目的......"
     },
     {
       "type": "entity",
       "advancement": "twilightforest:alt/entities/armored_giant",
-      "entity": "twilightforest:armored_giant{ArmorItems:[{id:\"iron_boots\",Count:1},{id:\"iron_leggings\",Count:1},{id:\"iron_chestplate\",Count:1},{id:\"iron_helmet\",Count:1}],HandItems:[{id:\"stone_sword\",Count:1}]}",
-      "text": "things and stuff"
+      "entity": "twilightforest:armored_giant{HandItems:[{Count:1,id:stone_sword},{}],ArmorItems:[{Count:1,id:iron_boots},{Count:1,id:iron_leggings},{Count:1,id:iron_chestplate},{Count:1,id:iron_helmet}]}"
+    },
+    {
+      "type": "text",
+      "advancement": "twilightforest:alt/entities/armored_giant",
+      "text": "裝甲巨人與它的親戚礦工巨人一起在雲小屋中被發現。 然而，它的裝甲使它比它們更堅強。 像礦工巨人一樣，它會變形以反映遇到它的生物的身體。 或許他們會這樣做，因為他們的真實形態太醜陋而無法揭示。"
     }
   ]
 }
