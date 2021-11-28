@@ -1,6 +1,6 @@
 {
   "name": "砷鉛鐵建造器",
-  "icon": "twilightforest:tower_device:6",
+  "icon": "twilightforest:carminite_builder",
   "category": "devices",
   "advancement": "twilightforest:alt/treasures/carminite",
   "sortnum": 6230,
@@ -8,7 +8,7 @@
     {
       "type": "spotlight",
       "title": "砷鉛鐵建造器",
-      "item": "twilightforest:tower_device:6",
+      "item": "twilightforest:carminite_builder",
       "text": "這個奇怪的裝置收到紅石訊號時會轉變成透明的紅色方塊。一但被觸發，它將會創造一條路徑取決於我看向哪裡。這條路徑只是暫時的，而且消失後需要另一個紅石訊號來重新激活它。"
     }
   ]
