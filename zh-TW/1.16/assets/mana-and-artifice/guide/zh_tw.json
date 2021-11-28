@@ -451,7 +451,7 @@
 			},
 			{
 				"type": "text",
-				"value": "/setfaction [faction_id] <player>\n設定玩家的派系。因為某些與 forge 有關的原因，這條指令無法在伺服器中使用自動補全功能，但你還可以手動補全，可供選擇的有：NONE（無），DEMONS（惡魔），FEY_COURT（仙女之庭）和 ANCIENT_WIZARDS（遠古議會巫師）"
+				"value": "/setFaction [faction_id] <player>\n設定玩家的派系。因為某些與 forge 有關的原因，這條指令無法在伺服器中使用自動補全功能，但你還可以手動補全，可供選擇的有：NONE（無），DEMONS（惡魔），FEY_COURT（仙女之庭）和 ANCIENT_WIZARDS（遠古議會巫師）"
 			},
 			{
 				"type": "text",
