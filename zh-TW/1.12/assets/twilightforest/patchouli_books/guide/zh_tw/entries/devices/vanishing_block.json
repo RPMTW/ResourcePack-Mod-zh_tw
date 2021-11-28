@@ -1,6 +1,6 @@
 {
   "name": "消失方塊",
-  "icon": "twilightforest:tower_device:2",
+  "icon": "twilightforest:vanishing_block",
   "category": "devices",
   "advancement": "twilightforest:alt/treasures/carminite",
   "sortnum": 6210,
@@ -8,7 +8,7 @@
     {
       "type": "spotlight",
       "title": "消失方塊",
-      "item": "twilightforest:tower_device:2",
+      "item": "twilightforest:vanishing_block",
       "text": "這比我所預期的還要奇特。當我觸碰或給這個方塊紅石訊號時，它在我眼前消失了。等待一段時間後它仍然沒恢復，所以它對安全效能做出甚麼貢獻？"
     }
   ]
