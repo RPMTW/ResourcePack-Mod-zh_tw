@@ -1,6 +1,6 @@
 {
   "name": "火焰噴射機關",
-  "icon": "twilightforest:fire_jet:6",
+  "icon": "twilightforest:encased_fire_jet",
   "category": "devices",
   "advancement": "twilightforest:alt/treasures/encased_fire_jet",
   "sortnum": 5060,
@@ -8,7 +8,7 @@
     {
       "type": "spotlight",
       "title": "火焰噴射機關",
-      "item": "twilightforest:fire_jet:6",
+      "item": "twilightforest:encased_fire_jet",
       "text": "利用火焰噴射器和技術上的天分，我可以創造出一個自我維持，並可以利用按下一個按鈕或給予紅石訊號來噴火的噴射器。雖然這個裝置似乎有些缺陷 - 它在噴火前須要先預熱，所以我必須在適當的時機給予它訊號。"
     }
   ]
