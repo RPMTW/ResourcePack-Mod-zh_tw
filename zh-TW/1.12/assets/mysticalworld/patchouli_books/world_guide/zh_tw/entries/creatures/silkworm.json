@@ -1,27 +1,26 @@
 {
-  "name": "蠶",
-  "icon": "mysticalworld:silk_cocoon",
-  "category": "creatures",
-  "flag": "roots:silkworm",
-  "pages": [
-    {
-      "type": "spotlight",
-      "item": "mysticalworld:silkworm_egg",
-      "text": "它們會隨時間長大並產出$(l:items/silk_cocoon)蠶繭$().$(br2)它們不會在任何確定的群系生成，也不能繁殖，但是可以從蠶卵中孵化出來。"
-    },
-    {
-      "type": "entity",
-      "name": "蠶",
-      "entity": "mysticalworld:entity_silkworm",
-      "scale": "1.5",
-      "offset": "-0.3",
-      "text": "你可以手動餵食蠶，只需拿著樹葉右擊蠶即可，這會加快蠶的生長進度。"
-    },
-    {
-      "type": "spotlight",
-      "item": "minecraft:leaves",
-      "flag": "roots:silkworm_leaves",
-      "text": "給蠶餵食樹葉，既可以增加蠶蛹的掉落量，又可以加快它的生長速度。$(br2)蠶既不會自然生成也不能繁殖，但是有機率從卵中孵化。$(br2)破壞樹葉有機率獲得蠶卵。"
-    }
-  ]
+    "name": "蠶",
+    "icon": "mysticalworld:silk_cocoon",
+    "category": "creatures",
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "mysticalworld:silkworm_egg",
+            "text": "Silkworms grow slowly over time and produce $(l:items/silk_cocoon)cocoons$().$(br2)This breed is surprisingly hostile and territorial, attacking any other nearby silkworms. $(l:creatures/silkworm#obtain)See over for obtaining them.$()"
+        },
+        {
+            "type": "entity",
+            "name": "蠶",
+            "entity": "mysticalworld:silkworm",
+            "scale": "1.5",
+            "offset": "-0.3",
+            "text": "You can right-click them with leaves to speed up their growth and cause them to drop more."
+        },
+        {
+            "type": "spotlight",
+            "anchor": "obtain",
+            "item": "minecraft:oak_leaves",
+            "text": "Silkworms do not spawn naturally, nor can they be bred, but can be hatched from eggs.$(br2)Eggs can be found by breaking leaves in the same way you would to get saplings."
+        }
+    ]
 }
