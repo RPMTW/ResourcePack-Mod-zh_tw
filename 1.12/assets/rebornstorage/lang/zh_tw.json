@@ -4,7 +4,7 @@
     "item.rebornstorage.storagecell.1024k.name": "1024k Storage Disk",
     "item.rebornstorage.storagecell.4096k.name": "4096k Storage Disk",
     "item.rebornstorage.storagecell.16384k.name": "16384k Storage Disk",
-    "item.rebornstorage.storagecellfluid.16384k.name": "16384k Fluid Storage Disk",
+    "item.rebornstorage.storagecellfluid.16384k.name": "16384k Storage Disk Fluid",
     "item.rebornstorage.storagecellfluid.32768k.name": "32768k Fluid Storage Disk",
     "item.rebornstorage.storagecellfluid.131m.name": "131m Fluid Storage Disk",
     "item.rebornstorage.storagecellfluid.524m.name": "524m Fluid Storage Disk",
@@ -20,5 +20,10 @@
     "tile.rebornstorage.multicrafter.frame.name": "Crafting Frame",
     "tile.rebornstorage.multicrafter.cpu.name": "Crafting CPU",
     "tile.rebornstorage.multicrafter.storage.name": "Crafting Storage",
-    "tile.rebornstorage.multicrafter.io.name": "IO Port"
+    "tile.rebornstorage.multicrafter.io.name": "IO Port",
+    "item.rebornstorage.storagecellfluid.256k.name": "256k Storage Disk Fluid",
+    "item.rebornstorage.storagecellfluid.1024k.name": "1024k Storage Disk Fluid",
+    "item.rebornstorage.storagecellfluid.4096k.name": "4096k Storage Disk Fluid",
+    "item.rebornstorage.storagepart.1024k_fluid.name": "1024k Fluid Storage Part",
+    "item.rebornstorage.storagepart.4096k_fluid.name": "4096k Fluid Storage Part"
 }

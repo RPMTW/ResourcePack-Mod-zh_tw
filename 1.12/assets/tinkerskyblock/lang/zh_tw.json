@@ -17,5 +17,7 @@
     "modifier.log_breaker.name": "Lumberjack",
     "modifier.log_breaker.desc": "§oTimber!§r\\nThis Axe can only harvest tree-logs",
     "commands.give-skyblock-tools.usage": "/give-skyblock-tools <player>",
-    "commands.give-skyblock-tools.success": "Given skyblock tools to %s"
+    "commands.give-skyblock-tools.success": "Given skyblock tools to %s",
+    "tile.tinkerskyblock.wooden_hopper.name": "Wooden Hopper",
+    "item.tinkerskyblock.wooden_hopper.tooltip": "Slower, cheaper variant of the hopper"
 }

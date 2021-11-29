@@ -96,7 +96,7 @@
     "gui.levelup:mining_bonus.spec": "Mining",
     "gui.levelup:craft_bonus.spec": "Crafting",
     "gui.levelup:combat_bonus.spec": "Combat",
-    "gui.levelup.budget": "Levels available: %s",
+    "gui.levelup.budget": "Levels spent: %s",
     "gui.skills": "Skills",
     "gui.addlevel": "Add Level",
     "levelup.prereq": "Prerequisites: %s",
@@ -113,5 +113,8 @@
     "sneak.attack": "Sneak attack for %d x damage!",
     "level.invalid": "§e§l[Level Up!]§r§e You must reach level 5 before choosing a specialization.§r",
     "levelup.howto.getlevels.0": "Sneak-Right-Click this book with 5 or more",
-    "levelup.howto.getlevels.1": "levels to trade levels for a skill point."
+    "levelup.howto.getlevels.1": "levels to trade levels for a skill point.",
+    "gui.levelup.skillmenu.0": "Mining",
+    "gui.levelup.skillmenu.1": "Crafting",
+    "gui.levelup.skillmenu.2": "Combat"
 }

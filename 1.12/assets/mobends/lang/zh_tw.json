@@ -29,5 +29,15 @@
     "mobends.config.show_sword_trails": "Show Sword Trails",
     "mobends.config.show_sword_trails.tooltip": "If true, sword trails will be shown",
     "mobends.config.perform_spin_attack": "Perform Spin Attack",
-    "mobends.config.perform_spin_attack.tooltip": "If true, the spin attack (whirl slash) will be occur."
+    "mobends.config.perform_spin_attack.tooltip": "If true, the spin attack (whirl slash) will be occur.",
+    "mobends.gui.customize": "Customize",
+    "mobends.gui.entername": "Enter a new name",
+    "mobends.gui.filename": "Filename",
+    "mobends.gui.chooseapacktoedit": "Choose a local pack to edit",
+    "mobends.gui.condition": "Condition",
+    "mobends.gui.node": "Node",
+    "mobends.gui.calculation": "Calculation",
+    "mobends.setting.sword_trail": "Sword Trail",
+    "mobends.setting.arrow_trails": "Arrow Trails",
+    "mobends.setting.spin_attack": "Spin Attack"
 }
