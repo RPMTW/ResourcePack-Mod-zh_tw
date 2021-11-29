@@ -355,5 +355,7 @@
     "advancements.refinedstorage.interface_to_the_world": "Interface to the world",
     "advancements.refinedstorage.interface_to_the_world.description": "Export and import items at the same time with an Interface",
     "advancements.refinedstorage.storing_externally": "Storing externally",
-    "advancements.refinedstorage.storing_externally.description": "Use an External Storage to provide the network with storage from an external block like a chest"
+    "advancements.refinedstorage.storing_externally.description": "Use an External Storage to provide the network with storage from an external block like a chest",
+    "item.refinedstorage.cover": "Cover",
+    "item.refinedstorage.hollow_cover": "Hollow Cover"
 }

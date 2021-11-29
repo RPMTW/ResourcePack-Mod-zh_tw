@@ -187,5 +187,8 @@
     "message.rftoolsdim.dimension_monitor.name": "Name: ",
     "message.rftoolsdim.phased_field_generator.header": "This RF/charged module gives a temporary protection while visiting an unpowered dimension",
     "message.rftoolsdim.phased_field_generator.gold": "Always keep on your hotbar and don't let the power run out!!",
-    "message.rftoolsdim.phased_field_generator.power": "Power: "
+    "message.rftoolsdim.phased_field_generator.power": "Power: ",
+    "block.rftoolsdim.dimension_editor": "Dimension Editor",
+    "message.rftoolsdim.dimension_editor.header": "The Dimension Editor can be used to edit an existing dimension. You can use it to add (some) dimlets. To add a new (charged) matter receiver or to destroy a dimension (using tnt)",
+    "message.rftoolsdim.dimension_editor.gold": "Infusing bonus: reduced power consumption and faster processing"
 }

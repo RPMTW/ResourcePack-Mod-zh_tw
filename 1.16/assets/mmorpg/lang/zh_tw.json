@@ -6,7 +6,7 @@
     "block.mmorpg.ore_block3": "Epic Ore Block",
     "block.mmorpg.ore_block4": "Legendary Ore Block",
     "block.mmorpg.ore_block5": "Mythical Ore Block",
-    "_comment": " [CATEGORY]: STATS - DESCRIPTIONS",
+    "_comment": " [CATEGORY]: SPELLS - DESCRIPTIONS",
     "itemGroup.mmorpg.main_group": "Age of Exile",
     "itemGroup.mmorpg.gem_group": "Age of Exile Gems",
     "itemGroup.mmorpg.runes_group": "Age of Exile Runes",
@@ -3515,5 +3515,6 @@
     "mmorpg.stat_desc.poison_ball_chance_of_negative.3": "Chance to give effect",
     "mmorpg.stat_desc.spell_earth_damage": "Increases damage of spells of that element.",
     "mmorpg.stat_desc.spell_lifesteal": "Restore % of spell damage as health.",
-    "mmorpg.stat_desc.spell_power": "Used for certain spells"
+    "mmorpg.stat_desc.spell_power": "Used for certain spells",
+    "item.mmorpg.common_soul_produce": "Common Gear Soul Stone"
 }

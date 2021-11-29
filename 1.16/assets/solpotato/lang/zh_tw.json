@@ -31,5 +31,9 @@
     "config.solpotato.is_food_tooltip_enabled": "Enable Food Tooltip",
     "config.solpotato.food_blacklist": "Blacklist",
     "config.solpotato.food_whitelist": "Whitelist (disables blacklist)",
-    "config.solpotato.reset_on_death": "Reset on Death"
+    "config.solpotato.reset_on_death": "Reset on Death",
+    "command.solpotato.foodlist.no_permissions": "You do not have the permissions necessary to apply this command to other players!",
+    "command.solpotato.foodlist.clear.success": "Food list reset!",
+    "command.solpotato.foodlist.diversity_feedback": "Food Diversity: %.2f",
+    "command.solpotato.foodlist.sync.success": "Food list synchronized!"
 }

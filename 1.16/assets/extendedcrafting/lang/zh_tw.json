@@ -151,5 +151,6 @@
     "book.extendedcrafting.entry.ultimate_singularity.page.1": "The Ultimate Singularity is $(bold)usually$() made in the $(l:crafting/tables)Ultimate Crafting Table$(). $(br2)It is $(bold)usually$() made of all, if not most, of the available singularities.",
     "book.extendedcrafting.entry.handheld_table": "Handheld Crafting Table",
     "book.extendedcrafting.entry.handheld_table.page.1": "The Handheld Crafting Table is a Crafting Table.",
-    "tooltip.extendedcrafting.seconds": "%s Seconds"
+    "tooltip.extendedcrafting.seconds": "%s Seconds",
+    "tooltip.extendedcrafting.selected": "Selected"
 }
