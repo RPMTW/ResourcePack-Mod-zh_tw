@@ -31,5 +31,9 @@
     "config.solpotato.is_food_tooltip_enabled": "啟用食物提示",
     "config.solpotato.food_blacklist": "黑名單",
     "config.solpotato.food_whitelist": "白名單(停用黑名單)",
-    "config.solpotato.reset_on_death": "死亡重設"
+    "config.solpotato.reset_on_death": "死亡重設",
+    "command.solpotato.foodlist.no_permissions": "You do not have the permissions necessary to apply this command to other players!",
+    "command.solpotato.foodlist.clear.success": "Food list reset!",
+    "command.solpotato.foodlist.diversity_feedback": "Food Diversity: %.2f",
+    "command.solpotato.foodlist.sync.success": "Food list synchronized!"
 }
