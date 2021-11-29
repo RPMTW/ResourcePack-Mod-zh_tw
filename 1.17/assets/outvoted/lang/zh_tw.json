@@ -168,5 +168,19 @@
     "text.autoconfig.outvoted.option.common.entities.coppergolem": "Copper Golem",
     "text.autoconfig.outvoted.option.common.entities.coppergolem.health": "Max Health",
     "text.autoconfig.outvoted.option.common.entities.coppergolem.oxidationRate": "Oxidation Rate",
-    "text.autoconfig.outvoted.option.common.entities.coppergolem.oxidationRate.@Tooltip": "Percentage chance for golem to oxidize per second, as a decimal"
+    "text.autoconfig.outvoted.option.common.entities.coppergolem.oxidationRate.@Tooltip": "Percentage chance for golem to oxidize per second, as a decimal",
+    "entity.outvoted.blaze_s": "Soul Blaze",
+    "item.outvoted.glare_spawn_egg": "Glare Spawn Egg",
+    "text.autoconfig.outvoted.option.common.entities.glutton.capEnchants": "Cap Enchants",
+    "text.autoconfig.outvoted.option.common.entities.glutton.capEnchants.@Tooltip[0]": "Cap overenchants to 1 over vanilla max level",
+    "text.autoconfig.outvoted.option.common.entities.glutton.capEnchants.@Tooltip[1]": "Disable to have no upper limit on overenchants",
+    "text.autoconfig.outvoted.option.common.entities.glare": "Glare",
+    "text.autoconfig.outvoted.option.common.entities.glare.spawn": "Enable Spawning",
+    "text.autoconfig.outvoted.option.common.entities.glare.rate": "Spawn Weight",
+    "text.autoconfig.outvoted.option.common.entities.glare.biomes": "Spawn Biomes",
+    "text.autoconfig.outvoted.option.common.entities.glare.health": "Max Health",
+    "text.autoconfig.outvoted.option.common.entities.glare.shouldInteract": "Should Interact With Environment",
+    "text.autoconfig.outvoted.option.common.entities.glare.shouldInteract.@Tooltip": "Set to FALSE to disable the Glare picking up and placing blocks/items",
+    "text.autoconfig.outvoted.option.common.entities.glare.inventorySize": "Max Inventory Size",
+    "text.autoconfig.outvoted.option.common.misc.givePatchouliBookOnLogin": "Give Patchouli Book On Login"
 }

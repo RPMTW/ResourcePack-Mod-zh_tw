@@ -681,7 +681,7 @@
     "misc.silentgear.key": "[%s]",
     "misc.silentgear.lockedStats": "Stats are locked",
     "misc.silentgear.materialCategories": "Categories: %s",
-    "misc.silentgear.notifyOnBreak": "Your %s has broken. You should fix that.",
+    "misc.silentgear.notifyOnBreak": "Your %s has broken. You should fix that... Consider crafting a repair kit.",
     "misc.silentgear.off": "Off",
     "misc.silentgear.on": "On",
     "misc.silentgear.poorlyMade": "This item is poorly made and will not last long",
@@ -897,5 +897,10 @@
     "trait.silentgear.vulcan": "Vulcan",
     "trait.silentgear.vulcan.desc": "Places obsidian at a high durability cost",
     "trait.silentgear.widen": "Widen",
-    "trait.silentgear.widen.desc": "Increases the effect radius of hammers and excavators"
+    "trait.silentgear.widen.desc": "Increases the effect radius of hammers and excavators",
+    "materialModifier.silentgear.starcharged": "Starcharged",
+    "item.silentgear.blueprint.jeiTip": "Press U (default controls) to see recipes in JEI",
+    "item.silentgear.blueprint.mixing.disabled": "Mixing materials is disabled by the config",
+    "item.silentgear.blueprint.mixing.enabled": "Mixing materials is enabled",
+    "misc.silentgear.jeiNotInstalled.": "JEI is not installed? Please consider installing the Just Enough Items (JEI) mod."
 }

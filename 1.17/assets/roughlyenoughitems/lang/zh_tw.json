@@ -276,5 +276,21 @@
     "config.roughlyenoughitems.horizontalEntriesBoundariesColumns": "Entries Columns Limit:",
     "config.roughlyenoughitems.verticalEntriesBoundariesRows": "Entries Rows Limit:",
     "config.roughlyenoughitems.favoritesHorizontalEntriesBoundaries": "Horizontal Favorites Boundaries:",
-    "config.roughlyenoughitems.favoritesHorizontalEntriesBoundariesColumns": "Favorites Columns Limit:"
+    "config.roughlyenoughitems.favoritesHorizontalEntriesBoundariesColumns": "Favorites Columns Limit:",
+    "category.rei.waxing": "Waxing",
+    "category.rei.wax_scraping": "Wax Scraping",
+    "category.rei.oxidizing": "Oxidizing",
+    "category.rei.oxidation_scraping": "Oxidation Scraping",
+    "error.rei.not.supported.move.items": "Move Items is not supported with this recipe and this container.",
+    "text.rei.dispose_here": "Dispose Here",
+    "config.roughlyenoughitems.filtering.shouldFilterDisplays": "Should Filter Displays:",
+    "language.roughlyenoughitems.chinese_traditional_hong_kong": "Chinese Traditional, Hong Kong",
+    "language.roughlyenoughitems.norwegian": "Norwegian",
+    "language.roughlyenoughitems.turkish": "Turkish",
+    "language.roughlyenoughitems.ukrainian": "Ukrainian",
+    "language.roughlyenoughitems.spanish": "Spanish",
+    "language.roughlyenoughitems.italian": "Italian",
+    "language.roughlyenoughitems.czech": "Czech",
+    "language.roughlyenoughitems.danish": "Danish",
+    "language.roughlyenoughitems.hebrew": "Hebrew"
 }

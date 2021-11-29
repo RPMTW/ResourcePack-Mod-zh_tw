@@ -82,5 +82,8 @@
     "minihud.message.error.shapes.select_shape_from_dropdown": "Select the Shape type to create from the dropdown widget",
     "minihud.message.distance_reference_point_set": "Set distance reference point to %s",
     "minihud.message.seed_set": "MiniHUD: Set the world seed to '%s'",
-    "minihud.message.spawn_set": "MiniHUD: Set the world spawn to %s"
+    "minihud.message.spawn_set": "MiniHUD: Set the world spawn to %s",
+    "minihud.label.bee_info.count": "§7Contains §b%s§7 bee(s)",
+    "minihud.label.bee_info.count_babies": "§7Contains §b%s§7 bee(s), (§b%s§7 babies)",
+    "minihud.label.bee_info.name": "§7- %s"
 }

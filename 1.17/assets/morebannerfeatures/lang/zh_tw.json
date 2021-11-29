@@ -1,3 +1,17 @@
 {
-    "block.minecraft.fortune_banner": "§e§oFortune Banner"
+    "block.minecraft.fortune_banner": "§e§oFortune Banner",
+    "mbf.options": "More Banner Features Options",
+    "mbf.options.bar": "Wooden Bar",
+    "mbf.options.samurai_banner": "Samurai Cape",
+    "mbf.options.fox_correction": "Fox Mouth Correction",
+    "mbf.options.banner_glint": "Enchanting Effect",
+    "mbf.options.horse_slot": "Additional Horse Slot",
+    "mbf.options.errors": "Error Messages",
+    "mbf.tooltip.bar": "Wooden Bars will be displayed between the animals and the banners they wear on their sides.",
+    "mbf.tooltip.samurai_banner": "Displays the banner cloak as a Samurai Banner [BETA]",
+    "mbf.tooltip.fox_correction": "Banners in fox mouths will be displayed properly.",
+    "mbf.tooltip.horse_slot": "Tells if the additional horse slot should be activated. Can cause issues if only disabled on the server!",
+    "mbf.tooltip.banner_glint": "All Banners will have the enchanting effect.",
+    "mbf.tooltip.errors": "When MoreBannerFeatures catches an error while rendering it'll be displayed in chat.",
+    "mbf.message.error": "§c§lMoreBannerFeatures: §cAn error occurred while rendering. Please report this with a provided game log on discord by clicking on this message. This message can be deactivated in the mod's settings"
 }
