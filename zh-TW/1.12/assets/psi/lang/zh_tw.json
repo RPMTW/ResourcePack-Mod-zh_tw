@@ -169,7 +169,7 @@
     "item.psi:exosuit_sensor_heat.name": "熱傳感器",
     "item.psi:exosuit_sensor_stress.name": "壓力傳感器",
     "item.psi:vector_ruler.name": "向量尺",
-    "death.attack.psi-overload": "%s 耗盡了他的想子。",
+    "death.attack.psi-overload": "%s overflowed their Psionic Energy",
     "psi.component.assembly": "機體",
     "psi.component.core": "核心",
     "psi.component.socket": "彈夾",
