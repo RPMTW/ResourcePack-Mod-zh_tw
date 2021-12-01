@@ -41,7 +41,7 @@
     "chat.computercraft.wired_modem.peripheral_connected": "外部設備\"%s\"已連接到網路",
     "chat.computercraft.wired_modem.peripheral_disconnected": "外部設備\"%s\"已斷開網路連接",
     "commands.computercraft.synopsis": "各種控制電腦的指令。",
-    "commands.computercraft.desc": "/computercraft 指令提供了各種除錯和管理工具，用於互動和控制電腦。",
+    "commands.computercraft.desc": "The /computercraft command provides various debugging and administrator tools for controlling and interacting with computers.",
     "commands.computercraft.help.synopsis": "提供特定指令的使用幫助",
     "commands.computercraft.help.desc": "顯示此幫助消息",
     "commands.computercraft.help.no_children": "%s 沒有子指令",
@@ -129,5 +129,10 @@
     "computercraft.gui.upload.failed.generic": "Uploading files failed (%s)",
     "gui.computercraft.upload.overwrite": "Files would be overwritten",
     "gui.computercraft.upload.overwrite.detail": "The following files will be overwritten when uploading. Continue?%s",
-    "gui.computercraft.upload.overwrite_button": "Overwrite"
+    "gui.computercraft.upload.overwrite_button": "Overwrite",
+    "gui.computercraft.upload.failed.name_too_long": "File names are too long to be uploaded.",
+    "gui.computercraft.upload.failed.too_many_files": "Cannot upload this many files.",
+    "gui.computercraft.upload.failed.generic": "Uploading files failed (%s)",
+    "gui.computercraft.upload.failed.corrupted": "Files corrupted when uploading. Please try again.",
+    "gui.computercraft.pocket_computer_overlay": "Pocket computer open. Press ESC to close."
 }
