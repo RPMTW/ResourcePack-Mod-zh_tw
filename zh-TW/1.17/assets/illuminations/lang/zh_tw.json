@@ -59,7 +59,7 @@
     "option.tooltip.illuminations.fireflyWhiteAlpha": "螢火蟲中心的透明度（百分比）。",
     "option.illuminations.fireflyRainbow": "Firefly §c§oR§6§oA§e§oI§a§oN§9§oB§b§oO§5§oW §rMode",
     "option.illuminations.viewAurasFP": "在第一人稱視角時顯示裝飾品",
-    "option.tooltip.illuminations.viewAurasFP": "在第一人稱視角時是否顯示特效及寵物",
+    "option.tooltip.illuminations.viewAurasFP": "Whether your own auras and pets should render while in first person.",
     "option.illuminations.fireflySpawnRate": "Firefly Spawn Rate",
     "option.tooltip.illuminations.fireflySpawnRate": "The spawn rate of fireflies.",
     "option.tooltip.illuminations.fireflySpawnRate.disable": "DISABLE: Fireflies don't appear",
@@ -109,5 +109,9 @@
     "option.illuminations.biome.endHighlands": "End Highlands",
     "option.illuminations.biome.endBarrens": "End Barrens",
     "option.illuminations.biome.other": "Other",
-    "option.tooltip.illuminations.biome": "Biomes in this category:"
+    "option.tooltip.illuminations.biome": "Biomes in this category:",
+    "option.illuminations.displayDonationToast": "Display donation toast",
+    "option.tooltip.illuminations.displayDonationToast": "If you already donated or don't want to donate, set this option to false.",
+    "option.illuminations.debugMode": "Log Debug Mode",
+    "option.tooltip.illuminations.debugMode": "Enable debug mode logs to troubleshoot issues with cosmetics loading."
 }
