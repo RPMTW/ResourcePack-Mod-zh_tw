@@ -28,5 +28,8 @@
     "options.iris.shadowDistance": "最大陰影距離",
     "options.iris.shadowDistance.enabled": "能讓您變更陰影的最大距離。超出此距離的地形和實體將不會有陰影。調低陰影距離能顯著提升效能。",
     "options.iris.shadowDistance.disabled": "您無法變更目前光影包所設定的陰影顯示距離。",
-    "options.iris.shadowDistance.sodium_tooltip": "The shadow render distance controls how far away terrain can potentially be rendered in the shadow pass. Lower distances mean that less terrain will be rendered, improving frame rates. This option cannot be changed on packs which explicitly specify a shadow render distance. The actual shadow render distance is capped by the View Distance setting."
+    "options.iris.shadowDistance.sodium_tooltip": "The shadow render distance controls how far away terrain can potentially be rendered in the shadow pass. Lower distances mean that less terrain will be rendered, improving frame rates. This option cannot be changed on packs which explicitly specify a shadow render distance. The actual shadow render distance is capped by the View Distance setting.",
+    "iris.sodium.failure.download": "Download Sodium",
+    "iris.sodium.failure.reason.notFound": "Iris requires Sodium for good performance, but Sodium is not installed. Please download Sodium, place it in your mods folder, and re-launch the game.",
+    "iris.sodium.failure.reason.incompatible": "Iris requires Sodium for good performance, but an incompatible version was found. Please download the correct version of Sodium, place it in your mods folder, remove the incorrect version, and re-launch the game."
 }
