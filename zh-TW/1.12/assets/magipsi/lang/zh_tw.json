@@ -156,7 +156,7 @@
     "item.psi:exosuit_sensor_heat.name": "Focusing Plate Heat Sensor",
     "item.psi:exosuit_sensor_stress.name": "Focusing Plate Stress Sensor",
     "item.psi:vector_ruler.name": "向量尺",
-    "death.attack.psi-overload": "%s 耗盡了他的想子。",
+    "death.attack.psi-overload": "%s overflowed their Psionic Energy",
     "psi.component.assembly": "Frame",
     "psi.component.core": "Crux",
     "psi.component.socket": "Notch",
