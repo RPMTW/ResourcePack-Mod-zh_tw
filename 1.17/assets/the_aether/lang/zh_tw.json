@@ -473,7 +473,7 @@
     "item.the_aether.moa_meat": "Moa Chop",
     "item.the_aether.moa_meat_cooked": "Cooked Moa Chop",
     "item.the_aether.nightmare_fuel": "Nightmare Fuel",
-    "item.the_aether.nightmare_fuel.tooltip": "warm to the touch",
+    "item.the_aether.nightmare_fuel.tooltip": "Warm to the touch",
     "item.the_aether.orange_boat": "Orange Boat",
     "item.the_aether.purple_swet_spawn_egg": "Purple Swet Spawn Egg",
     "item.the_aether.skyroot_boat": "Skyroot Boat",
@@ -560,5 +560,8 @@
     "subtitles.the_aether.entity.nightmare.hurt": "Nightmare hurts",
     "subtitles.the_aether.entity.nightmare.ambient": "Magpie Coos",
     "subtitles.the_aether.entity.nightmare.death": "Nightmare... dies?",
-    "easteregg.the_aether.aerwhale": "Serenity is the queen of W(h)ales!!"
+    "easteregg.the_aether.aerwhale": "Serenity is the queen of W(h)ales!!",
+    "commands.the_aether.LUV.success.query": "LUV%1$s",
+    "commands.the_aether.LUV.success.set": "%1$s's LUV is now %2$s",
+    "commands.the_aether.LUV.failure.set": "You have no right!"
 }

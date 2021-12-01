@@ -111,5 +111,7 @@
     "option.illuminations.biome.other": "Other",
     "option.tooltip.illuminations.biome": "Biomes in this category:",
     "option.illuminations.displayDonationToast": "Display donation toast",
-    "option.tooltip.illuminations.displayDonationToast": "If you already donated or don't want to donate, set this option to false."
+    "option.tooltip.illuminations.displayDonationToast": "If you already donated or don't want to donate, set this option to false.",
+    "option.illuminations.debugMode": "Log Debug Mode",
+    "option.tooltip.illuminations.debugMode": "Enable debug mode logs to troubleshoot issues with cosmetics loading."
 }

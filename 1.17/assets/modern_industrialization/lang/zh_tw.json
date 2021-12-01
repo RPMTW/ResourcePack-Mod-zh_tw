@@ -1284,5 +1284,6 @@
     "text.modern_industrialization.gravichestplate_true": "GraviChestPlate enabled!",
     "text.modern_industrialization.ore_generation_tooltip_vein_frequency": "%d veins per chunk",
     "text.modern_industrialization.ore_generation_tooltip_vein_size": "%d ores per vein",
-    "text.modern_industrialization.ore_generation_tooltip_y": "Levels range : 0 to %d"
+    "text.modern_industrialization.ore_generation_tooltip_y": "Levels range : 0 to %d",
+    "text.autoconfig.modern_industrialization.option.enableDebugCommands": "Enable UNSUPPORTED and DANGEROUS debug commands"
 }
