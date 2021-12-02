@@ -1,0 +1,18 @@
+{
+  "name": "Ultimate Armor Plating",
+  "icon": "simplyjetpacks:armorplating_mek4",
+  "category": "simplyjetpacks:mekanism",
+  "flag": "mod:mekanism",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "This is the Ultimate Armor Plating"
+    },
+    {
+      "type": "crafting",
+      "recipe": "simplyjetpacks:mek/armorplating_mek4",
+      "text": "This is a test entry, but it should show up!"
+    }
+  ]
+}

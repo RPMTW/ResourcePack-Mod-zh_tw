@@ -1,6 +1,6 @@
 {
-    "item.item_calculator_crafting.name": "Crafting Calculator",
-    "item.item_calculator_math.name": "Math Calculator",
+    "item.item_calculator_crafting.name": "Crafting calculator",
+    "item.item_calculator_math.name": "Math calculator",
     "jecalculation.key.category": "Just Enough Calculation",
     "jecalculation.key.gui_craft": "Open crafting calculator",
     "jecalculation.key.gui_math": "Open math calculator",
@@ -94,5 +94,12 @@
     "jecalculation.label.item_stack.fuzzy_meta": "Fuzzy metadata",
     "jecalculation.label.item_stack.fuzzy_nbt": "Fuzzy NBT",
     "jecalculation.label.item_stack.fuzzy_cap": "Fuzzy capabilities",
-    "jecalculation.label.common.amount": "Amount: %s"
+    "jecalculation.label.common.amount": "Amount: %s",
+    "jecalculation.chat.help": "/jeca craft - open crafting calculator\\n/jeca math - open math calculator",
+    "jecalculation.gui.craft.output": "Extra outputs",
+    "jecalculation.gui.recipe.pick": "Pick label",
+    "jecalculation.gui.recipe.confirm": "Apply changes",
+    "jecalculation.gui.recipe.delete": "Delete label",
+    "jecalculation.gui.recipe.to_percent": "Change to percentage",
+    "jecalculation.gui.recipe.to_amount": "Change to amount"
 }

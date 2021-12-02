@@ -1,6 +1,6 @@
 {
     "name": "Your First Reactor",
-    "icon": "bigreactors:reactorcasing",
+    "icon": "bigreactors:basic_reactorcasing",
     "category": "bigreactors:intro",
 
     "pages": [
@@ -9,63 +9,43 @@
             "text": "The Reactor is a multiblock machine whose primary job is to produce energy, and a lot of it.$(br2)A multiblock machine is composed by many different blocks that you will place in the world next to each others.$(br2)To craft and power the Reactor you need Yellorium ingots, so go mine some Yellorite Ore and smelt it right away!"
         },
         {
-            "type": "multiblock",
-            "multiblock": {
-                "mapping": {
-                    "0": "bigreactors:reactorcasing",
-                    "C": "bigreactors:reactorcasing",
-                    "F": "bigreactors:reactorfuelrod",
-                    "R": "bigreactors:reactorcontrolrod",
-                    "A": "bigreactors:reactoraccessport",
-                    "E": "bigreactors:reactorpowertaprf",
-                    "X": "bigreactors:reactorcontroller"
-                },
-                "pattern": [
-                    [
-                        "CCC",
-                        "CRC",
-                        "CCC"
-                    ],
-                    [
-                        "CCC",
-                        "EFA",
-                        "CXC"
-                    ],
-                    [
-                        "CCC",
-                        "C0C",
-                        "CCC"
-                    ]
-                ]
-            }
+            "type": "zcmultiblock",
+            "multiblock_id" : "bigreactors:bookfirstbasicreactor"
         },
         {
             "type": "text",
-            "text": "To build your first Reactor you need to craft the following Basic Reactor blocks:$(br2)$(li)22x Casing$(li)1x Controller$(li)1x Control Rod$(li)1x Fuel Rod$(li)1x Access Port$(li)1x Redstone Flux Power Tap$(br2)The Glass block is actually optional and can be replaced by another Casing block."
+            "text": "To build your first Reactor you need to craft the following Basic Reactor blocks:$(br2)$(li)22x Casing$(li)1x Controller$(li)1x Control Rod$(li)1x Fuel Rod$(li)1x Solid Access Port$(li)1x Active Forge Energy Power Tap$(br2)The Glass block is actually optional and can be replaced by another Casing block."
         },
         {
-            "type": "crafting",
-            "recipe": "bigreactors:reactorcasingcores",
-            "recipe2": "bigreactors:reactorcasing"
+            "type": "crafting2x",
+            "title1": "Casing",
+            "recipe1": "bigreactors:reactor/basic/casing",
+            "title2": "Glass",
+            "recipe2": "bigreactors:reactor/basic/glass"
         },
         {
-            "type": "crafting",
-            "recipe": "bigreactors:reactorglass_vanillaglass",
-            "recipe2": "bigreactors:reactorcontroller"
+            "type": "crafting2x",
+            "title1": "Controller",
+            "recipe1": "bigreactors:reactor/basic/controller_ingots_uranium",
+            "title2": "Control Rod",
+            "recipe2": "bigreactors:reactor/basic/controlrod"
         },
         {
-            "type": "crafting",
-            "recipe": "bigreactors:reactorcontrolrod",
-            "recipe2": "bigreactors:reactorfuelrod_vanillaglass"
+            "type": "crafting2x",
+            "title1": "Fuel Rod",
+            "recipe1": "bigreactors:reactor/basic/fuelrod_ingots_uranium",
+            "title2": "Access Port",
+            "recipe2": "bigreactors:reactor/basic/solidaccessport"
         },
         {
-            "type": "crafting",
-            "recipe": "bigreactors:reactoraccessport",
-            "recipe2": "bigreactors:reactorpowertaprf"
-        },
-        {
-            "type": "text",
+            "type": "crafting-text",
+            "title": "Forge Power Tap",
+            "recipe": "bigreactors:reactor/basic/activetap_fe",
             "text": "Once you have crafted all the required blocks, you are ready to build your first Reactor.$(br2)Place the blocks in your world using the following diagram, putting the Fuel Rod in the center with a Casing below."
+        },
+        {
+            "type": "zcmultiblock",
+            "multiblock_id" : "bigreactors:bookfirstbasicreactor"
         },
         {
             "type": "text",
@@ -73,11 +53,11 @@
         },
         {
             "type": "text",
-            "text": "Now that your Reactor is ready, it's time to put some fuel in it.$(br2)Pick up more Yellorium ingots and right-click on the Access Port. Set the Port to Inlet mode and place your ingots in the input slot.$(br2)The ingots will be quickly consumed by the Reactor and turned into fuel.$(br2)Open the Controller interface and turn your Reactor on!"
+            "text": "Now that your Reactor is ready, it's time to put some fuel in it.$(br2)Pick up more Yellorium ingots and right-click on the Solid Access Port. Set the Port to Inlet mode and place your ingots in the input slot.$(br2)The ingots will be quickly consumed by the Reactor and turned into fuel.$(br2)Open the Controller interface and turn your Reactor on!"
         },
         {
             "type": "text",
-            "text": "As the Reactor heats up, energy is slowly being produced and the internal energy buffer filled.$(br2)To use the energy stored inside the Reactor you need to connect some sort of energy pipe or a machine to the Power Tap."
+            "text": "As the Reactor heats up, energy is slowly being produced and the internal energy buffer filled.$(br2)To use the energy stored inside the Reactor you need to connect some sort of energy pipe or a machine to the Active Forge Power Tap.$(br)The Power Tap will send out energy to the connected block (if it can accept it)"
         },
         {
             "type": "text",

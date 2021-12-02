@@ -1,0 +1,18 @@
+{
+  "name": "Elite Thruster",
+  "icon": "simplyjetpacks:thruster_mek3",
+  "category": "simplyjetpacks:mekanism",
+  "flag": "mod:mekanism",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "This is the Elite Thruster"
+    },
+    {
+      "type": "crafting",
+      "recipe": "simplyjetpacks:mek/thruster_mek3",
+      "text": "This is a test entry, but it should show up!"
+    }
+  ]
+}

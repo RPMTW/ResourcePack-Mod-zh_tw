@@ -1,38 +1,26 @@
 {
     "name": "Ores",
-    "icon": "bigreactors:oreyellorite",
+    "icon": "bigreactors:yellorite_ore",
     "category": "bigreactors:intro",
     "read_by_default": true,
     "pages": [
         {
-            "type": "spotlight",
-            "item": "bigreactors:oreyellorite",
-            "text": "The usual source of fuel that will power your Reactors.$(br2)Yellorite can be found in almost all biomes and can be smelted to produce Yellorium ingots."
+            "type": "spotlight-smelting",
+            "spotlightItem": "bigreactors:yellorite_ore",
+            "spotlightText": "The usual source of fuel that will power your Reactors.$(br2)Yellorite can be found in almost all biomes and can be smelted to produce Yellorium ingots.",
+            "recipe": "bigreactors:smelting/yellorium_from_ore"
         },
         {
-            "type": "smelting",
-            "recipe": "bigreactors:oreyellorite",
-            "text": "Yellorium, in ingot or block form, can be inserted in an Access Port to be converted into fuel for your Reactor."
+            "type": "spotlight-item",
+            "spotlightItem": "bigreactors:benitoite_ore",
+            "spotlightText": "Only found in the extreme recesses of hell, Benitoite crystals has some unusual properties that you still haven't found an use for.",
+            "smallItem": "bigreactors:benitoite_crystal"
         },
         {
-            "type": "spotlight",
-            "item": "bigreactors:orebenitoite",
-            "text": "This ore is only found in the extreme recesses of hell.$(br2)Look's up. Or down."
-        },
-        {
-            "type": "spotlight",
-            "item": "bigreactors:mineralbenitoite",
-            "text": "Benitoite crystals has some unusual properties that you still haven't found an use for."
-        },
-        {
-            "type": "spotlight",
-            "item": "bigreactors:oreanglesite",
-            "text": "You need to reach the end of your journey to find this elusive ore."
-        },
-        {
-            "type": "spotlight",
-            "item": "bigreactors:mineralanglesite",
-            "text": "The crystals are shiny and pretty, but you still don't know how you could use them to your advantage."
+            "type": "spotlight-item",
+            "spotlightItem": "bigreactors:anglesite_ore",
+            "spotlightText": "You need to reach the end of your journey to find this elusive crystals, even if you still don't know how you could use them to your advantage.",
+            "smallItem": "bigreactors:anglesite_crystal"
         }
     ]
 }
