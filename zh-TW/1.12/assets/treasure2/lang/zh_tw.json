@@ -279,5 +279,10 @@
     "item.treasure2:ring_of_fortitude.name": "Ring of Fortitude",
     "chat.key_break": "Your key broke whilst attempting to unlock the lock!",
     "chat.key_not_fit": "Your key doesn't fit the lock!",
-    "chat.key_unable_unlock": "Your key failed to unlock the lock!"
+    "chat.key_unable_unlock": "Your key failed to unlock the lock!",
+    "item.treasure2:gottschs_ring_of_moon.name": "Gottsch's Ring of the Moon",
+    "item.treasure2:skeleton.name": "Skeleton",
+    "tooltip.charm.suffix.level20": "of the Moon",
+    "tooltip.charm.suffix.level99": "of the Whale",
+    "tooltip.charm.gottschs_ring_of_moon.special": "Limited Edition: Treasure2 4-millionth download reward."
 }
