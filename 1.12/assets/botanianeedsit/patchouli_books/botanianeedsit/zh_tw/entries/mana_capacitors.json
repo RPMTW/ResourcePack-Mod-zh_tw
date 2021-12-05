@@ -1,0 +1,23 @@
+{
+  "name": "botanianeedsit.entry.mana_capacitors",
+  "category": "mana",
+  "icon": "botanianeedsit:mana_capacitor_manasteel",
+  "pages": [
+    {
+      "type": "text",
+      "text": "botanianeedsit.page.mana_capacitors.0"
+    },
+    {
+      "type": "crafting",
+      "recipe": "botanianeedsit:mana_capacitor_manasteel"
+    },
+    {
+      "type": "crafting",
+      "recipe": "botanianeedsit:mana_capacitor_elementium"
+    },
+    {
+      "type": "crafting",
+      "recipe": "botanianeedsit:mana_capacitor_terrasteel"
+    }
+  ]
+}

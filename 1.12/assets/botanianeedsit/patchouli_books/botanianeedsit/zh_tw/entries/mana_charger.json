@@ -1,0 +1,16 @@
+{
+  "name": "botanianeedsit.entry.mana_charger",
+  "category": "mana",
+  "icon": "botanianeedsit:mana_charger",
+  "pages": [
+    {
+      "type": "text",
+      "text": "botanianeedsit.page.mana_charger.0"
+    },
+    {
+      "type": "crafting",
+      "text": "botanianeedsit.page.mana_charger.1",
+      "recipe": "botanianeedsit:mana_charger"
+    }
+  ]
+}

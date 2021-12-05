@@ -521,7 +521,7 @@
     "entity.cqr_pirate_captain.name": "Pirate Captain",
     "entity.cqr_giant_spider.name": "Shelob",
     "entity.cqr_ender_king.name": "Ender King",
-    "entity.cqr_ender_calamity.name": "ยง4Ender Calamity",
+    "entity.cqr_ender_calamity.name": "Ender Calamity",
     "entity.cqr_summoning_circle.name": "<TECHNICAL_ENTITY>summoning pentagram",
     "entity.cqr_illusion_walker_king.name": "Abyss Walker King",
     "entity.cqr_walker_tornado.name": "<TECHNICAL_ENTITY>Walker Tornado",
@@ -565,5 +565,14 @@
     "advancements.cqrepoured.kill_ender_king.title": "Was that everything?!",
     "advancements.cqrepoured.kill_ender_king.description": "Kill the feared leader of the endermen, the great ender king!",
     "advancements.cqrepoured.kill_ender_calamity.title": "Yes, that was everything!",
-    "advancements.cqrepoured.kill_ender_calamity.description": "Win a heroic volleyball match of death against the conjured evil."
+    "advancements.cqrepoured.kill_ender_calamity.description": "Win a heroic volleyball match of death against the conjured evil.",
+    "item.unprotected_positions_tool.name": "Unprotected Position Selector Helper",
+    "item.magic_bell.name": "Magic Bell",
+    "description.magic_bell.name": "Ring the bell and you will see the path to the Lich's Phylactery. Break the blocks the bell shows you and the dungeon's walls will yield to you.",
+    "enchantment.cqrepoured.lightning_protection.desc": "Protects you from lightning when applied to a helmet.",
+    "enchantment.cqrepoured.spectral.desc": "Increased damage towards endermen and abyss walkers. Highly recommended when fighting the walker king.",
+    "entity.cqr_exterminator.name": "Exterminator Prototype",
+    "advancements.cqrepoured.kill_exterminator.title": "Electrician",
+    "advancements.cqrepoured.kill_exterminator.description": "Defeat the Illager's technological abomination",
+    "effect.cqrepoured.twohanded": "Twohanded"
 }

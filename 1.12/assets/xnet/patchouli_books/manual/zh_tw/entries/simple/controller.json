@@ -1,0 +1,12 @@
+{
+  "name": "Controller",
+  "icon": "xnet:controller",
+  "category": "xnet:category_xnet_simple",
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "The Controller is the most important block of this mod. In this machine you control edit the different channels and define how items, liquids, or power move through those channels"
+    }
+  ]
+}

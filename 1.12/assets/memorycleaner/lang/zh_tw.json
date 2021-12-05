@@ -1,0 +1,14 @@
+{
+    "memorycleaner.config.show_message": "Show Cleaning Message",
+    "memorycleaner.config.min_interval": "Min Interval",
+    "memorycleaner.config.max_interval": "Max Interval",
+    "memorycleaner.config.force_clean_percentage": "Min RAM Usage Percentage to Force Clean",
+    "memorycleaner.config.min_idle_time": "Min Idle Time",
+    "memorycleaner.config.clean_on_join": "Clean Memory on World Join",
+    "memorycleaner.config.command_aliases": "Command Aliases",
+    "memorycleaner.config.auto_cleanup": "Enable Automatic Cleanup",
+    "memorycleaner.config.clean_on_init": "Clean Memory During Init",
+    "memorycleaner.config.auto_cleanup_tab": "Auto Cleanup",
+    "memorycleaner.gc.start": "§a[MemoryCleaner] §fCleaning memory, this might cause some lag!",
+    "memorycleaner.gc.end": "§a[MemoryCleaner] §fMemory cleaning finished!"
+}

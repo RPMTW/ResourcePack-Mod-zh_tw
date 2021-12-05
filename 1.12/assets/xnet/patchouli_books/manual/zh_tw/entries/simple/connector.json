@@ -1,0 +1,12 @@
+{
+  "name": "Connectors",
+  "icon": "xnet:connector_red",
+  "category": "xnet:category_xnet_simple",
+  "sortnum": 30,
+  "pages": [
+    {
+      "type": "text",
+      "text": "To actually connect your cable to a block or machine you need a Connector"
+    }
+  ]
+}

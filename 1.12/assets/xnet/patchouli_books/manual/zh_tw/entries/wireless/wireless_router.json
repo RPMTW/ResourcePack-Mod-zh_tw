@@ -1,0 +1,12 @@
+{
+  "name": "Wireless Router",
+  "icon": "xnet:wireless_router",
+  "category": "xnet:category_xnet_wireless",
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Wireless connection of networks. @todo"
+    }
+  ]
+}
