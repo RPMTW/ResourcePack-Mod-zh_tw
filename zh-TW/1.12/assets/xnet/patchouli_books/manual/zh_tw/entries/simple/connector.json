@@ -1,0 +1,12 @@
+{
+  "name": "連接器",
+  "icon": "xnet:connector_red",
+  "category": "xnet:category_xnet_simple",
+  "sortnum": 30,
+  "pages": [
+    {
+      "type": "text",
+      "text": "要將電纜實際連接到方塊或機器，您需要連接器"
+    }
+  ]
+}
