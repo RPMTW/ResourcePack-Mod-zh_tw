@@ -1,0 +1,12 @@
+{
+  "name": "路由器",
+  "icon": "xnet:router",
+  "category": "xnet:category_xnet_network",
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "路由器允許連接多個網路。這需要路由電纜"
+    }
+  ]
+}
