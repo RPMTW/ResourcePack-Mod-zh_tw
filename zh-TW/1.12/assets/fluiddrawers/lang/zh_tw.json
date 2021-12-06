@@ -1,7 +1,7 @@
 {
-    "itemGroup.fluiddrawers": "Fluid Drawers",
-    "tile.fluiddrawers:tank0.name": "Basic Tank",
-    "tile.fluiddrawers:tank_custom0.name": "Framed Tank",
-    "fluiddrawers.container.tank": "Tank",
-    "fluiddrawers.info.tank_capacity": "Holds %,d mB per tank"
+    "itemGroup.fluiddrawers": "儲液抽屜",
+    "tile.fluiddrawers:tank0.name": "儲液抽屜",
+    "tile.fluiddrawers:tank_custom0.name": "鑲框儲液抽屜",
+    "fluiddrawers.container.tank": "儲液抽屜設定",
+    "fluiddrawers.info.tank_capacity": "初始可儲存%,d mB流體"
 }
