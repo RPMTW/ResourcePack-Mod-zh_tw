@@ -1,14 +1,14 @@
 {
-    "memorycleaner.config.show_message": "Show Cleaning Message",
-    "memorycleaner.config.min_interval": "Min Interval",
-    "memorycleaner.config.max_interval": "Max Interval",
-    "memorycleaner.config.force_clean_percentage": "Min RAM Usage Percentage to Force Clean",
-    "memorycleaner.config.min_idle_time": "Min Idle Time",
-    "memorycleaner.config.clean_on_join": "Clean Memory on World Join",
-    "memorycleaner.config.command_aliases": "Command Aliases",
-    "memorycleaner.config.auto_cleanup": "Enable Automatic Cleanup",
-    "memorycleaner.config.clean_on_init": "Clean Memory During Init",
-    "memorycleaner.config.auto_cleanup_tab": "Auto Cleanup",
-    "memorycleaner.gc.start": "§a[MemoryCleaner] §fCleaning memory, this might cause some lag!",
-    "memorycleaner.gc.end": "§a[MemoryCleaner] §fMemory cleaning finished!"
+    "memorycleaner.config.show_message": "清理時顯示消息",
+    "memorycleaner.config.min_interval": "最小清理時間間隔（秒）",
+    "memorycleaner.config.max_interval": "最大清理時間間隔（秒）",
+    "memorycleaner.config.force_clean_percentage": "強制清理時記憶體占用百分比",
+    "memorycleaner.config.min_idle_time": "清理時玩家的掛機時間（秒）",
+    "memorycleaner.config.clean_on_join": "是否在進入世界時清理",
+    "memorycleaner.config.command_aliases": "清理指令別名",
+    "memorycleaner.config.auto_cleanup": "啟用自動記憶體清理",
+    "memorycleaner.config.clean_on_init": "遊戲啟動時清理記憶體",
+    "memorycleaner.config.auto_cleanup_tab": "記憶體自動清理",
+    "memorycleaner.gc.start": "§a[記憶體清理] §f正在清理記憶體，可能會導致卡頓！",
+    "memorycleaner.gc.end": "§a[記憶體清理] §f記憶體清理完成！"
 }
