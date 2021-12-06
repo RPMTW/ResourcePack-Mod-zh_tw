@@ -1,11 +1,11 @@
 {
-    "enhanced_attack_indicator.tinyconfig.title": "Enhanced Attack Indicator",
-    "enhanced_attack_indicator.tinyconfig.showBlockBreaking": "Show Block Breaking Progress",
-    "enhanced_attack_indicator.tinyconfig.showRangeWeaponDraw": "Show Ranged Weapon Draw",
-    "enhanced_attack_indicator.tinyconfig.showItemCooldowns": "Show Item Cooldowns",
-    "enhanced_attack_indicator.tinyconfig.disablePickaxesAndShovels": "Disable Pickaxes' and Shovels' Weapon Cooldown",
-    "enhanced_attack_indicator.tinyconfig.disableAxes": "Disables Axes' Weapon Cooldown",
-    "enhanced_attack_indicator.tinyconfig.weaponCoolDownImportance": "Weapon Cooldown Priority",
+    "enhanced_attack_indicator.tinyconfig.title": "進階攻擊指示器",
+    "enhanced_attack_indicator.tinyconfig.showBlockBreaking": "顯示方塊破壞進度",
+    "enhanced_attack_indicator.tinyconfig.showRangeWeaponDraw": "顯示遠程武器攻擊進度",
+    "enhanced_attack_indicator.tinyconfig.showItemCooldowns": "顯示物品冷卻",
+    "enhanced_attack_indicator.tinyconfig.disablePickaxesAndShovels": "停用鎬和鏟的武器冷卻",
+    "enhanced_attack_indicator.tinyconfig.disableAxes": "停用斧的武器冷卻",
+    "enhanced_attack_indicator.tinyconfig.weaponCoolDownImportance": "武器冷卻優先",
     "enhanced_attack_indicator.tinyconfig.enum.WeaponCoolDownImportance.FIRST": "First",
     "enhanced_attack_indicator.tinyconfig.enum.WeaponCoolDownImportance.MIDDLE": "Middle",
     "enhanced_attack_indicator.tinyconfig.enum.WeaponCoolDownImportance.LAST": "Last"
