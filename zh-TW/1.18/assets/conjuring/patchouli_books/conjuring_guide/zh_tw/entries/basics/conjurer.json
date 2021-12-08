@@ -1,0 +1,24 @@
+{
+  "name": "魔術師",
+  "icon": "conjuring:conjurer",
+  "category": "conjuring:basics",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "To the untrained eye, a $(item)Conjurer$() may look remarkably similar to a normal monster spawner. This, however, would be a short-sighted conclusion. $(br)Even being nothing more than a cage constructed of $(l:conjuring:basics/soulfire_forge#soul_alloy)Soul Alloy$(), it nevertheless enables an inserted $(l:conjuring:basics/conjuring_focus)Conjuring Focus$() to function."
+    },
+    {
+      "type": "conjuring:soulfire_forge_recipe",
+      "recipe": "conjuring:soulfire_forge/conjurer",
+      "text": "When one of these gizmos is inserted, the $(item)Conjurer$() will begin the summoning process. While this is of course a very useful setup even in it's basic state, many improvements can be made using $(l:conjuring:basics/basic_gem_tinkering)Charms$()."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "The different charm aspects will influence a $(item)Conjurer$() in the following ways:$(br) $(li)$(#007a18)≈ Haste: Decreases the time between each summoning cycle$()$(br) $(li)$(#a80f01)ღ Abundance: Increases the amount of creatures conjured per cycle$()$(br) $(li)$(#4d8184)λ Scope: Increases the range in which the Conjurer will sense a player's presence$()"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(li)$(#123f89)ʊ Ignorance: Increases the amount of creatures in close vicinity the Conjurer ignores when judging how many new ones to summon$()$(p)A final feature of the $(item)Conjurer$() one should keep in mind is that, when confronted with a $(thing)redstone signal$(), it will promptly seize operation"
+    }
+  ]
+}
