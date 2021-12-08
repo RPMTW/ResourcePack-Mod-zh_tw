@@ -1,0 +1,34 @@
+{
+  "name": "高級機器",
+  "category": "modern_industrialization:electric_age",
+  "icon": "modern_industrialization:advanced_machine_hull",
+  "pages": [
+    {
+      "type": "spotlight",
+      "title": "鋁",
+      "item": "modern_industrialization:aluminum_ingot",
+      "text": "鋁是一種用於製造更高級機器的材料。與其他電動機器一樣，這些新機器只會連接到低壓電纜。將鋁土礦粉放入電高爐中，您將獲得鋁粒。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:electric_age/machine/centrifuge_asbl",
+      "text": "離心機透過快速旋轉來分離物品。您可以使用它來製造碳粉並解鎖更好的鋼和矽配方。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:electric_age/machine/chemical_reactor_asbl",
+      "text": "化學反應器可以使物品和流體發生反應。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:electric_age/machine/distillery_asbl",
+      "text": "蒸餾室會將各種流體變成較輕的部分。這對石油加工非常有用。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:electric_age/machine/electrolyzer_asbl",
+      "text": "電解機可以使用強電流將材料分解成不同的部分。您可以電解鋁土礦粉以獲得鋁粉，然後您可以在 EBF 中將其直接冶煉成鋁錠。"
+    }
+  ],
+  "sortnum": 106
+}
