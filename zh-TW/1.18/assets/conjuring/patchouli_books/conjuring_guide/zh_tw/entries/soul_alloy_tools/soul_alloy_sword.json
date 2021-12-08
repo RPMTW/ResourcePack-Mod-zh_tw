@@ -1,0 +1,18 @@
+{
+  "name": "魂合金劍",
+  "icon": "conjuring:soul_alloy_sword",
+  "category": "conjuring:soul_alloy_tools",
+  "extra_recipe_mappings": {
+    "conjuring:soul_alloy_sword": 0
+  },
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "The Soul Alloy Sword is a contribution to the warrior who possess it. It's ability launches five beams, which normally deal 20% of that sword's attack damage each. If one wishes to make the $(item)Soul Alloy Sword$() stronger, then the art of $(l:conjuring:basics/basic_gem_tinkering)Gem Tinkering$() will strengthen it so:$(br) $(li)$(#007a18)≈ Haste: Improves the speed of swinging the sword.$()"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(li)$(#a80f01)ღ Abundance: Rewards the killer with larger spoils when eradicating an enemy. Stacks with Looting.$()$(br) $(li)$(#4d8184)λ Scope: Disables Sweeping Edge in favor of a large area of effect attack. The damage this deals increases with each gem fitted. $()$(br) $(li)$(#123f89)ʊ Ignorance: Ignores a specific amount of armor per gem fitted."
+    }
+  ]
+}
