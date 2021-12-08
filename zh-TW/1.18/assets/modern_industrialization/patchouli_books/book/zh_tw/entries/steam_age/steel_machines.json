@@ -1,0 +1,35 @@
+{
+  "name": "大煉鋼",
+  "category": "modern_industrialization:steam_age",
+  "icon": "modern_industrialization:steel_boiler",
+  "pages": [
+    {
+      "type": "text",
+      "text": "現在你有鋼了，你可以將你的青銅機器升級為鋼機器了。鋼機器的處理效率為 4 EU/t，只要能量占用不超過4 EU/t，鋼機器的處理速度就是青銅機器的兩倍。基本上，其速度是青銅機器的兩倍，而且它還可以解鎖新的配方。"
+    },
+    {
+      "type": "text",
+      "text": "鋼製倉比青銅倉容量更大，多方塊結構至少要有一個倉升級為鋼。只要能量占用不超過 4 EU/t，鋼機器的處理速度就是青銅機器的兩倍。$(br2)鋼鍋爐的產能是青銅鍋爐的兩倍，處理效率最高為 16 EU/t，鋼水泵可產出青銅水泵兩倍的產物，效率為每 5 秒 2 桶。"
+    },
+    {
+      "type": "text",
+      "text": "鋼儲罐可以儲存8桶流體。$(br2)鋼管道和其它材質的管道一樣，你可以在一格方塊內將鋼管道和其它材質的管道混合使用。$(br2)你可以用REI查看所有的配方！"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:steam_age/steel/packer_asbl",
+      "text": "打包機是用鋼打造的新機器，可以幫你自動合成簡易物品。你可以自動合成雙層錠、管道等物品，詳見REI。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:steam_age/steel/unpacker_asbl",
+      "text": "解包機，一種只能用鋼製成的新機器……猜猜它是做什麼的。o_O"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:trash_can",
+      "text": "用幾塊鋼板，你現在可以製作一個非常有用的方塊！$(br2)自動垃圾桶會破壞通過管道輸送到其中的任何物品或流體！"
+    }
+  ],
+  "sortnum": 11
+}
