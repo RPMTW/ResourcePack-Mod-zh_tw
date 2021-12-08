@@ -1,0 +1,47 @@
+{
+  "name": "你喜歡焦炭/可樂嗎?",
+  "category": "modern_industrialization:steam_age",
+  "icon": "modern_industrialization:coke_oven",
+  "pages": [
+    {
+      "type": "text",
+      "text": "當你有了足夠多的青銅機器後，你就可以開始造鋼了。你的終極目標是造出採石場這個自動開採礦物的多方塊結構。$(br2)你要做的第一步就是製作焦炭。不用氧氣加熱煤炭你就可以獲得焦炭。為此你需要建造一個多方塊結構——焦爐。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:steam_age/fireclay/coke_oven",
+      "text": "對於第一個多方塊結構，你需要一個焦爐，21個磚塊和3個$(thing)倉$()：物流輸入、物流輸出和流體輸入倉。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:hatches/bronze/item_input_hatch",
+      "recipe2": "modern_industrialization:hatches/bronze/item_output_hatch"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:hatches/bronze/fluid_input_hatch",
+      "recipe2": "modern_industrialization:hatches/bronze/fluid_output_hatch"
+    },
+    {
+      "type": "text",
+      "text": "此處的焦爐方塊具有$(thing)控制器$()的作用。每個多方塊都由一個控制器管理，但您通常無法直接與控制器交互：所有輸入和輸出都通過倉。我們需要流體輸入，因為焦爐由蒸汽驅動，我們需要煤的物品輸入和焦炭的輸出。$(br2)如果我們忘記了其中一個倉，焦爐將無法啟動！"
+    },
+    {
+      "type": "text",
+      "text": "$(l)拿著扳手查看遺失的方塊和錯誤！$()您還可以握住倉以了解它可以去哪裡。$(br2)我們需要 21 個磚塊來建造這個多塊磚！檢查 REI，雖然它說總共需要 24 個，但我們有 3 個倉，所以我們只需要為剩下的 21 個方塊提供磚塊！"
+    },
+    {
+      "type": "image",
+      "title": "焦爐!",
+      "images": [
+        "modern_industrialization:textures/guidebook/coke_oven.png"
+      ],
+      "text": "當你放置好所有的方塊後，請確認控制器的方向無誤，然後用扳手對中心按右鍵。你會"
+    },
+    {
+      "type": "text",
+      "text": "看到一條顯示成功的消息。如果沒有的話請檢查錯誤。$(br2)一旦焦爐說$(o)形狀有效$()，用蒸汽填充流體輸入倉，將煤放入物品輸入倉，你就可以開始了！$(br2)焦炭對鋼鐵非常有用，但它也是一種強大的燃料。它的燃燒時間是煤炭的 4 倍！"
+    }
+  ],
+  "sortnum": 9
+}
