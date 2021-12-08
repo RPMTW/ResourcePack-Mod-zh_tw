@@ -1,0 +1,19 @@
+{
+  "name": "聚爆壓縮機!",
+  "category": "modern_industrialization:midgame",
+  "icon": "modern_industrialization:implosion_compressor",
+  "pages": [
+    {
+      "type": "spotlight",
+      "title": "熟悉的藍色寶石",
+      "item": "minecraft:diamond",
+      "text": "使用工業 TNT，聚爆壓縮機能夠壓縮最耐磨材料的粉和錠。這包括鎢、抗爆合金、鈹——這些材料對核裂變非常重要——最後還有鑽石！"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:electric_age/machine/implosion_compressor_asbl",
+      "text": "希望你現在已經學會檢查每個 REI 配方，所以你應該很容易發現抗爆混合金屬錠和鎢粒可以用壓縮機製造... 當然，直到你擁有第一台聚爆壓縮機！"
+    }
+  ],
+  "sortnum": 205
+}
