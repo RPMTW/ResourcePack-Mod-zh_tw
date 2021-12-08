@@ -1,0 +1,22 @@
+{
+  "name": "你的第一塊青銅！",
+  "category": "modern_industrialization:steam_age",
+  "icon": "modern_industrialization:bronze_dust",
+  "pages": [
+    {
+      "type": "text",
+      "text": "首先你需要用鍛造台錘鍊銅和錫粒為小堆礦粉。$(br2)用（小堆）銅和錫粉可製作（小堆）青銅粉。$(br2)請記住9個小堆礦粉等於1個礦粉。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:materials/bronze_dust",
+      "recipe2": "modern_industrialization:materials/bronze_tiny_dust"
+    },
+    {
+      "type": "smelting",
+      "recipe": "modern_industrialization:materials/bronze/smelting/dust_to_ingot_smelting",
+      "text": "熔煉青銅粉會給你一個青銅錠。"
+    }
+  ],
+  "sortnum": 1
+}
