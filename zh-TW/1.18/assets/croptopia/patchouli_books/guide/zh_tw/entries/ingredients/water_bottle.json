@@ -1,0 +1,12 @@
+{
+  "name": "水瓶",
+  "icon": "croptopia:water_bottle",
+  "category": "croptopia:ingredients",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:shaped_water_bottle",
+      "text": "水瓶的製作方法"
+    }
+  ]
+}
