@@ -1,0 +1,20 @@
+{
+  "name": "Stabilized Focuses",
+  "icon": "conjuring:stabilized_conjuring_focus",
+  "category": "conjuring:basics",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "A $(l:conjuring:basics/conjuring_focus)Conjuring Focus$() does a good job, but sometimes it is simply not enough. A $(item)Stabilized Conjuring Focus$(), which is reinforced with $(l:conjuring:basics/soul_composite_materials#soul_slice)Soul Slices$(), is exponentially more powerful. Once inserted into a $(l:conjuring:basics/conjurer)Conjurer$(), it will start mimicking a player's presence, practically allowing for perpetual summoning."
+    },
+    {
+      "type": "conjuring:soulfire_forge_recipe",
+      "recipe": "conjuring:soulfire_forge/stabilized_conjuring_focus",
+      "text": "Considering how expensive a Stabilized Focus is, cleaning and reusing it might seen practical. To accomplish this, one can utilize $(item)Distilled Spirit$(). This freakish fluid is obtained by imbuing four pieces of $(l:conjuring:basics/conjuration_essence)Conjuration Essence$()"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "into a plain old glass bottle using a $(l:conjuring:rituals/ritual_of_weaving)Soul Weaver$(). The focus to be cleansed must then be placed into a $(item)Soul Funnel$() and the $(item)Distilled Spirit$() dropped on top. Finally, a simple $(thing)right-click$() with a $(l:conjuring:basics/conjuring_scepters)Conjuring Scepter$() will suffice to extract the soul."
+    }
+  ]
+}
