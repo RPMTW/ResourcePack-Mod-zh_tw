@@ -1,0 +1,25 @@
+{
+  "name": "基本的寶石修補",
+  "icon": "conjuring:ignorance_charm",
+  "category": "conjuring:basics",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": " $(item)寶石工匠$()是一種非常特殊的符文裝置，需要創造$(thing)方面寶石$().這些小石頭每個都表達了客製化的不同方面，所有這些都可以應用於大多數工具軸承$(l:conjuring:basics/soul_composite_materials#soul_alloy)靈魂合金$().$(p)4 種不同的寶石由這些材料製成: $(item)紅石$(), $(item)青金石$(), $(item)終界之眼$() 或$(item)綠寶石$().",
+      "anchor": "aspect_gems"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "conjuring:crafting/gem_tinkerer",
+      "text": "要操作$(item)寶石工匠$(),  首先要在上面放一些 $(l:conjuring:basics/conjuration_essence#lesser_essence)次級咒法精華$()在上面. 所有懸停列都需要安裝所需的項目。最後，一個簡單的  $(thing)Shift-右鍵單擊$(),$(thing)空手$()將啟動製作過程。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "The violent conditions inside a $(l:conjuring:basics/conjurer)Conjurer$() necessitate extra care when trying to use $(item)Aspect Gems$() inside one. In fact, reinforcing them using $(item)Gem Sockets$() is required. These sturdy little receptacles allow the $(item)Gems$() to focus their energy directly into the installed $(l:conjuring:basics/conjuring_focus)Conjuring Focus$(), augmenting it's capabilities."
+    },
+    {
+      "type": "conjuring:soulfire_forge_recipe",
+      "recipe": "conjuring:soulfire_forge/gem_socket"
+    }
+  ]
+}
