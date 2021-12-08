@@ -1,0 +1,17 @@
+{
+  "name": "製作電纜",
+  "category": "modern_industrialization:electric_age",
+  "icon": "modern_industrialization:tin_wire",
+  "pages": [
+    {
+      "type": "text",
+      "text": "在攪拌機中將焦炭粉與水混合，您將獲得粗製合成潤滑油，您可以將其在蒸汽高爐中燃燒以獲得合成潤滑油。將它與紙混合，就可以為您提供橡膠薄板！$(br2)強烈建議自動化此過程！請注意，紙可以使用木漿由木材製成。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:steam_age/steel/wiremill_asbl",
+      "text": "對於電線，您將需要材軋機！將這些電線與橡膠薄板結合起來得到電纜！"
+    }
+  ],
+  "sortnum": 100
+}
