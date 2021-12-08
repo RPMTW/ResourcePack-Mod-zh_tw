@@ -1,0 +1,17 @@
+{
+  "name": "大型儲罐",
+  "category": "modern_industrialization:electric_age",
+  "icon": "modern_industrialization:large_tank",
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:electric_age/machine/large_tank_asbl",
+      "text": "大型儲罐是一個多方塊，可讓您儲存大量流體，例如蒸汽。它可以為結構中的每個方塊（包括側面）儲存 64 桶流體。"
+    },
+    {
+      "type": "text",
+      "text": "您只會看到最小形狀的預覽，但您可以在儲罐的頂部、背面和側面添加層。正面必須保持水平對稱。$(br2)只有管道可以進入儲罐，並且只能通過控制器。$(br2)不要破壞控制器，否則您將失去所有儲存的流體！"
+    }
+  ],
+  "sortnum": 101
+}
