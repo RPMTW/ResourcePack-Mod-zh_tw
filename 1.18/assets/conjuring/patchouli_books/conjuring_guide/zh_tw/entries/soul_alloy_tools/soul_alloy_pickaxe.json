@@ -1,0 +1,18 @@
+{
+  "name": "Soul Alloy Pickaxe",
+  "icon": "conjuring:soul_alloy_pickaxe",
+  "category": "conjuring:soul_alloy_tools",
+  "extra_recipe_mappings": {
+    "conjuring:soul_alloy_pickaxe": 0
+  },
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "The perilous $(item)Soul Alloy Pickaxe$() is worth more than your average, puny $(item)Netherite Pickaxe$(). $(thing)Right-clicking$() will coerce it to send out a beam which vein-mines any ores it touches. Applying the various $(l:conjuring:basics/basic_gem_tinkering#aspect_gems)Aspect Gems$() onto a $(item)Soul Alloy Pickaxe$() will affect it in a plethora of ways:$(br) $(li)$(#007a18)≈ Haste: Improves the pace of mining with the pickaxe. Stacks with Efficiency.$()$(br) "
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(li)$(#a80f01)ღ Abundance: Increases the amount dropped by certain ores. Stacks with Fortune.$()$(br) $(li)$(#4d8184)λ Scope: Quite literally increases the scope of mining. Increases by 1 block per gem.$()$(br) $(li)$(#123f89)ʊ Ignorance: Ignores a small amount of durability loss when using the tool. Stacks with Unbreaking."
+    }
+  ]
+}

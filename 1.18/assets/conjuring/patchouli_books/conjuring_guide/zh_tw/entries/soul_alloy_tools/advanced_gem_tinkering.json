@@ -1,0 +1,22 @@
+{
+  "name": "Advanced Gem Tinkering",
+  "icon": "conjuring:ignorance_gem",
+  "category": "conjuring:soul_alloy_tools",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "After priming on $(l:conjuring:basics/basic_gem_tinkering)Basic Gem Tinkering$(), one might realize the $(item)Gem Tinkerer$()'s $(o)full potential$(). Upon acquiring some $(item)Soul Alloy Tools$(), it can infuse them with $(l:conjuring:basics/basic_gem_tinkering)Aspect Gems$(). This procedure is remarkably similar to normal operation, as one must simply substitute the $(item)Lesser Conjuration Essence$() with the tool and the items on the columns with the desired gems. There is a limit to this power however."
+    },
+    {
+      "type": "patchouli:image",
+      "images": [
+        "conjuring:textures/gui/patchouli/gem_tinkerer_patchouli_1.png",
+        "conjuring:textures/gui/patchouli/gem_tinkerer_patchouli_2.png",
+        "conjuring:textures/gui/patchouli/gem_tinkerer_patchouli_3.png"
+      ],
+      "border": true,
+      "title": "Adjusting Gems",
+      "text": "A single tool may only carry two gem types, and never more than 5 gems."
+    }
+  ]
+}

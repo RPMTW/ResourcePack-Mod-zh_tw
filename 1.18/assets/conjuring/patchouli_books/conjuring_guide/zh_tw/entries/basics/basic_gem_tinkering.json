@@ -1,0 +1,25 @@
+{
+  "name": "Basic Gem Tinkering",
+  "icon": "conjuring:ignorance_charm",
+  "category": "conjuring:basics",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "The $(item)Gem Tinkerer$() is a very special kind of runic apparatus required to create $(thing)Aspect Gems$(). These little stones each express a different facet of customization, all of which can be applied to most implements bearing $(l:conjuring:basics/soul_composite_materials#soul_alloy)Soul Alloy$().$(p)The 4 different gems are made of these materials: $(item)Redstone$(), $(item)Lapis Lazuli$(), $(item)Eye of Ender$() or $(item)Emerald$().",
+      "anchor": "aspect_gems"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "conjuring:crafting/gem_tinkerer",
+      "text": "To operate the $(item)Gem Tinkerer$(), one must first place some $(l:conjuring:basics/conjuration_essence#lesser_essence)Lesser Conjuration Essence$() on top. All hovering columns then need to be fitted with the desired items. Finally, a simple $(thing)shift-right-click$() with an $(thing)empty hand$() will initiate the crafting process."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "The violent conditions inside a $(l:conjuring:basics/conjurer)Conjurer$() necessitate extra care when trying to use $(item)Aspect Gems$() inside one. In fact, reinforcing them using $(item)Gem Sockets$() is required. These sturdy little receptacles allow the $(item)Gems$() to focus their energy directly into the installed $(l:conjuring:basics/conjuring_focus)Conjuring Focus$(), augmenting it's capabilities."
+    },
+    {
+      "type": "conjuring:soulfire_forge_recipe",
+      "recipe": "conjuring:soulfire_forge/gem_socket"
+    }
+  ]
+}

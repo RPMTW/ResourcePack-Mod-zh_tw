@@ -1,0 +1,20 @@
+{
+  "name": "The Soulfire Forge",
+  "icon": "conjuring:soulfire_forge",
+  "category": "conjuring:basics",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Many of the materials involved in conjuration and related activities aren't exactly what one might consider $(o)safe$() or $(o)easy to work with$(). Especially $(item)Soul Soil$(), because of the very properties exploited in the creation of $(item)Soul Alloy$(), can be quite nasty.$(p)To remedy this, the $(item)Soulfire Forge$() is employed when working with these substances."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "conjuring:crafting/soulfire_forge",
+      "text": "By utilizing $(thing)Soul Fire$(), it can burn off dangerous or unwanted components and create a clean composite.$(p)This consumes the $(thing)Soul Fire$() however, meaning that re-lighting it for every crafting process is required."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "This would seem a menial task, yet, some well-known basic dispensing machinery can be used to handle it.$(p)Taking all these precautions for safety also incurs a time penalty that increases with recipe complexity, something only advanced equipment may mitigate."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Soul Composite Materials",
+  "icon": "conjuring:soul_alloy",
+  "category": "conjuring:basics",
+  "pages": [
+    {
+      "type": "conjuring:soulfire_forge_recipe",
+      "recipe": "conjuring:soulfire_forge/soul_alloy",
+      "text": "$(item)Soul Alloy$() is vitally important in any and all endeavours involving summoning.$(p)Being composed mostly of basic metals it is quite sturdy and could also prove handy in the creation of tools.",
+      "anchor": "soul_alloy"
+    },
+    {
+      "type": "conjuring:soulfire_forge_recipe",
+      "recipe": "conjuring:soulfire_forge/soul_slice",
+      "text": "A blend of $(l:conjuring:basics/conjuration_essence)Conjuration Essence$() and $(item)Iron Ingots$() adorned with a $(item)Nether Star$(), the $(item)Soul Slice$() is a formidable material. It's extraordinary powers facilitate the creation of ever stronger instruments, like the $(l:conjuring:basics/stabilized_conjuring_focus)Stabilized Conjuring Focus$().",
+      "anchor": "soul_slice"
+    }
+  ]
+}

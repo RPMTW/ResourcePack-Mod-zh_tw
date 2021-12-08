@@ -1,0 +1,15 @@
+{
+  "name": "Basic Tool Safety",
+  "icon": "conjuring:abundance_gem",
+  "category": "conjuring:soul_alloy_tools",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "The powers resting inside $(thing)Soul Alloy Tools$() are formidable. Whether innate like the $(l:conjuring:soul_alloy_tools/soul_alloy_hatchet)Soul Alloy Hatchet$()'s $(thing)Soul Feller$() ability or additive like the $(thing)area-mining$() of a scope-augmented $(l:conjuring:soul_alloy_tools/soul_alloy_pickaxe)Soul Alloy Pickaxe$(), they can also be quite destructive. To ensure one's property stays intact, the tools normally rest in a disabled state, ready to be awoken by their master."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "To accomplish this, it is required to press both the $(thing)Shift$() and $(thing)$(k:conjuring.toggle_tool_mode)$() (configurable) keys while holding the tool."
+    }
+  ]
+}

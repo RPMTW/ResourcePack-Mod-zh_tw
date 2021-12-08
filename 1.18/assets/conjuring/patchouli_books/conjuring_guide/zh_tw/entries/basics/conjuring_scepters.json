@@ -1,0 +1,24 @@
+{
+  "name": "Conjuring Scepter",
+  "icon": "conjuring:conjuring_scepter",
+  "category": "conjuring:basics",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Commanding the powerful contraptions involved in conjuration is no easy task and as such, the $(item)Conjuring Scepter$() is required to interact with most of them. The very basic act of mounting a $(item)Diamond$() onto a $(item)Blaze Rod$() has apparently greatly improved their magical abilities, making the usage of most runic machinery a breeze."
+    },
+    {
+      "type": "conjuring:soulfire_forge_recipe",
+      "recipe": "conjuring:soulfire_forge/conjuring_scepter"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "There may come a point at which one runs out of $(l:conjuring:basics/conjuration_essence)Conjuration Essence$(). When this happens, many options can be explored, yet the $(item)Superior Conjuring Scepter$() should prove the most reliable long-term solution. By utilizing the innate mystical properties of the attached $(item)Nether Star$(), it manages to create so-called $(thing)Soul Projectiles$(). These will condense an entity's soul into some $(l:conjuring:basics/conjuration_essence)Conjuration Essence$() when on sufficiently low health."
+    },
+    {
+      "type": "conjuring:soulfire_forge_recipe",
+      "recipe": "conjuring:soulfire_forge/superior_conjuring_scepter",
+      "text": "Additionally, the scepter is capable of instantly finishing any process in the $(l:conjuring:basics/soulfire_forge)Soulfire Forge$() by $(thing)shift-right-clicking$()."
+    }
+  ]
+}
