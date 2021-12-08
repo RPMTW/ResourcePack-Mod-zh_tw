@@ -1,0 +1,27 @@
+{
+  "name": "大型蒸汽鍋爐",
+  "category": "modern_industrialization:electric_age",
+  "icon": "modern_industrialization:large_steam_boiler",
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:electric_age/machine/large_steam_boiler_asbl",
+      "text": "大型蒸汽鍋爐是小型青銅和鋼製鍋爐的升級版。它使用燃料的速度比熔爐快 8 倍，但在完全加熱時會產生 256 mb/t 的蒸汽。不要忘記水，否則它不會起作用！"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:electric_age/casing/bronze_plated_bricks_asbl",
+      "text": "您需要的主要方塊是鍍銅磚塊，但您還需要青銅管道機器外殼和耐熱機器外殼。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:steam_age/bronze/casing_pipe_asbl",
+      "recipe2": "modern_industrialization:electric_age/casing/heatproof_machine_casing_asbl"
+    },
+    {
+      "type": "text",
+      "text": "大型蒸汽鍋爐由一層耐熱機器外殼和三層鍍銅磚塊組成。$(br2)控制器進入第二層（即第一層鍍銅磚塊）。$(br2)中間的兩個方塊是青銅管道機器外殼。$(br2)倉必須放在底層。"
+    }
+  ],
+  "sortnum": 102
+}
