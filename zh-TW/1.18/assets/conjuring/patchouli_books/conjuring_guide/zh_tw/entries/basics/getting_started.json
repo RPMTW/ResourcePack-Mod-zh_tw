@@ -1,0 +1,15 @@
+{
+  "name": "入門",
+  "icon": "conjuring:enchiridion",
+  "category": "conjuring:basics",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "To start out in the practice of conjuration, a basic supply of $(item)Netherite Scrap$() and some $(l:conjuring:basics/conjuration_essence)Conjuration Essence$() is required. The first piece of equipment one shall create is the $(l:conjuring:basics/soulfire_forge)Soulfire Forge$(), required to form the elementary $(l:conjuring:basics/soul_composite_materials)Soul Composite Materials$(). Moving forward, constructing a $(l:conjuring:basics/conjurer)Conjurer$() as well as a $(l:conjuring:basics/conjuring_scepter)Conjuring Scepter$() and $(l:conjuring:basics/conjuring_focus)Conjuring Focus$() is in order."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Once this gear has been obtained, it is recommended to brush up on $(l:conjuring:rituals/ritual_basics)Ritual Basics$() and seek to perform the $(l:conjuring:rituals/ritual_of_extraction)Ritual of Extraction$() to create a first summoning setup. This may be refined using the practices outlined in $(l:conjuring:basics/basic_gem_tinkering)Basic Gem Tinkering$(). After having gained some experience with souls, creating $(thing)Soul Alloy Tools$() may be of interest. These prestigious instruments can be enhanced through $(l:conjuring:soul_alloy_tools/advanced_gem_tinkering)Advanced Gem Tinkering$(). Crafting them however, requires the $(l:conjuring:rituals/ritual_of_weaving)Ritual of Weaving$() to be carried out."
+    }
+  ]
+}
