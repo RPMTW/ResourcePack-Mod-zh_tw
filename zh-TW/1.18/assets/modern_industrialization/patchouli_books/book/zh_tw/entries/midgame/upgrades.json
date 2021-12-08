@@ -1,0 +1,25 @@
+{
+  "name": "升級部件！",
+  "category": "modern_industrialization:midgame",
+  "icon": "modern_industrialization:basic_upgrade",
+  "pages": [
+    {
+      "type": "spotlight",
+      "title": "超頻升級",
+      "item": "modern_industrialization:basic_upgrade",
+      "text": "您知道普通電機的超頻上限為 32 EU/t，而電動多方塊的超頻上限為 128 EU/t？$(br2)對單擊機器或多方塊按右鍵，並在您手中進行一些升級以增加其最大超頻！檢查 REI 以了解確切數量。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:tools/crowbar",
+      "text": "Shift + 按右鍵帶有撬棍的機器以刪除它包含的升級。對它按右鍵以移除其升級後的機身並將其更改回低壓層。 等等，你能做到嗎？..."
+    },
+    {
+      "type": "spotlight",
+      "title": "機身升級",
+      "item": "modern_industrialization:advanced_machine_hull",
+      "text": "是的你可以！對具有高級機身的機器按右鍵將其更改為中壓層：它現在將僅接受中壓電纜連接。用撬棍按右鍵移除升級。"
+    }
+  ],
+  "sortnum": 200
+}
