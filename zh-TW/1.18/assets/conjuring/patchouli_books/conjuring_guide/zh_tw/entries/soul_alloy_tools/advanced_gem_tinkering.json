@@ -1,0 +1,22 @@
+{
+  "name": "高級寶石修補",
+  "icon": "conjuring:ignorance_gem",
+  "category": "conjuring:soul_alloy_tools",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "After priming on $(l:conjuring:basics/basic_gem_tinkering)Basic Gem Tinkering$(), one might realize the $(item)Gem Tinkerer$()'s $(o)full potential$(). Upon acquiring some $(item)Soul Alloy Tools$(), it can infuse them with $(l:conjuring:basics/basic_gem_tinkering)Aspect Gems$(). This procedure is remarkably similar to normal operation, as one must simply substitute the $(item)Lesser Conjuration Essence$() with the tool and the items on the columns with the desired gems. There is a limit to this power however."
+    },
+    {
+      "type": "patchouli:image",
+      "images": [
+        "conjuring:textures/gui/patchouli/gem_tinkerer_patchouli_1.png",
+        "conjuring:textures/gui/patchouli/gem_tinkerer_patchouli_2.png",
+        "conjuring:textures/gui/patchouli/gem_tinkerer_patchouli_3.png"
+      ],
+      "border": true,
+      "title": "調整寶石",
+      "text": "一個工具只能攜帶兩種寶石類型，並且不能超過 5 顆寶石。"
+    }
+  ]
+}
