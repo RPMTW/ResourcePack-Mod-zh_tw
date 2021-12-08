@@ -1,0 +1,24 @@
+{
+  "name": "咒法經華",
+  "icon": "conjuring:conjuration_essence",
+  "category": "conjuring:basics",
+  "extra_recipe_mappings": {
+    "conjuring:lesser_conjuration_essence": 1
+  },
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "While being the most basic substance involved in summoning, $(item)Conjuration Essence$() is still of utmost importance. It embodies the most basic properties all souls share and is therefore involved in the creation of many more capable materials."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "One can obtain some essence of their own from $(thing)breaking ordinary spawners$() as well as $(thing)plundering chests$().$(br)For when a less concentrated material is required, simply $(thing)sneak-right-clicking$() some essence on any stone-like surface smashes it into 4 pieces of $(item)Lesser Conjuration Essence$()"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "conjuring:crafting/conjuration_essence",
+      "text": "$(o)~a fine predicament$()",
+      "anchor": "lesser_essence"
+    }
+  ]
+}
