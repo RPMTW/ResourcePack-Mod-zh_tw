@@ -1,0 +1,26 @@
+{
+  "name": "儲罐和桶",
+  "category": "modern_industrialization:steam_age",
+  "icon": "modern_industrialization:bronze_tank",
+  "pages": [
+    {
+      "type": "text",
+      "text": "青銅儲罐可以儲存4桶流體，可用於與機器互動，也可以直接放置。$(br2)放置後你可以用桶或其它儲罐右擊已放置的儲罐來轉移流體。$(br2)有相同儲存物的儲罐可以堆疊。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:materials/bronze/craft/tank",
+      "text": "當放置在世界中時，您可以使用桶或其他儲罐對它們按右鍵以傳輸流體。$(br2)此外，如果它們具有相同的內容，您可以堆疊它們。多麼漂亮！"
+    },
+    {
+      "type": "text",
+      "text": "如果你破壞一個桶，它會保留它儲存的內容，你會得到一個可以與之交互的物品。$(br2)對帶有物品的桶物品按左鍵以將其插入桶中。$(br2)在桶物品的空槽上按左鍵以從中提取一些物品。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:materials/bronze/craft/barrel",
+      "text": "您無法與直接放置的桶進行交互，但管道和機器可以正常運作。"
+    }
+  ],
+  "sortnum": 7
+}
