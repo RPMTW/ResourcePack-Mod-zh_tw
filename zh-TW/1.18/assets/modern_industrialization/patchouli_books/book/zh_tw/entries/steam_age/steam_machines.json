@@ -1,0 +1,46 @@
+{
+  "name": "蒸汽機器",
+  "category": "modern_industrialization:steam_age",
+  "icon": "modern_industrialization:bronze_furnace",
+  "pages": [
+    {
+      "type": "text",
+      "text": "現在是時候建造青銅機器了。鍋爐可以自動將蒸汽輸送至相鄰的機器內，每刻可輸送最多8滴的蒸汽。$(br2)青銅機器的執行效率為2 EU/t，即每次消耗2能量單位。1滴蒸汽 = 1 EU，最高溫度的鍋爐可以同時給4台機器提供能量！"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:steam_age/bronze/compressor_asbl",
+      "text": "壓縮機可以以1:1的比率將錠壓成板，也可以將雙層錠壓成2塊板。這也許是你想造的第一台機器！"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:steam_age/bronze/mixer_asbl",
+      "text": "攪拌機可以攪拌礦粉，讓你以更高的比率獲得青銅、耐火黏土和生鋼。它也可以產出鵝卵石和黏土。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:steam_age/bronze/macerator_asbl",
+      "text": "研磨機可將 2 塊礦物碎粉研磨為 3 個礦粉。相當於三倍的礦產出！它還可以將各種材料變成礦粉來回收利用。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:steam_age/bronze/cutting_machine_asbl",
+      "text": "板材切割機可以讓你以跟高的比率獲得螺栓、齒輪、環和杆。它每次都會消耗一些潤滑劑。現在你可以暫時用水當作潤滑劑，其它潤滑劑可以加快機器的執行效率。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:steam_age/bronze/furnace_asbl",
+      "text": "這個熔爐……就是個……普通的熔爐。它和普通的熔爐一樣慢，但它消耗的燃料是普通熔爐的四十分之一。"
+    },
+    {
+      "type": "text",
+      "text": "蒸汽機將接受來自任何一方的輸入，無論是物品、蒸汽還是其他流體。$(br2)您可以按一下介面中的鎖來鎖定他們的欄位。鎖定的欄位只接受一種類型的物品或流體。$(br2)每台機器都有一個輸出端，您可以從介面啟用自動輸出。當然，漏斗、管道和其他自動化裝置可以從任何一側提取輸出物品。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:tools/wrench",
+      "text": "你可以用扳手對任何機器按右鍵來使其轉向。潛行+右鍵可以旋轉輸出端。$(br2)請注意用扳手破壞機器不會獲得掉落物，請用鎬拆除機器！"
+    }
+  ],
+  "sortnum": 3
+}
