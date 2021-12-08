@@ -1,0 +1,31 @@
+{
+  "name": "電動機器",
+  "category": "modern_industrialization:electric_age",
+  "icon": "modern_industrialization:assembler",
+  "pages": [
+    {
+      "type": "text",
+      "text": "電動機器的工作原理與蒸汽機完全相同，不同之處在於它們需要電力而不是蒸汽，並且它們逐漸超頻配方，最高可達 32 EU/t。$(br2)您可以使用 REI 查看您已經熟悉的機器的電動版本的配方。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:electric_age/machine/polarizer_asbl",
+      "text": "電磁偏振器使東西偏振。它還沒有很多配方，但它已經對自動化馬達很有用！"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:electric_age/machine/assembler_asbl",
+      "text": "您會想要大量生產的第一台機器！裝配機允許您自動化幾乎所有配方，如果您使用欄位鎖定，每個裝配機最多 3 個。"
+    },
+    {
+      "type": "text",
+      "text": "我們強烈建議您盡快使用組裝機自動化機身、類比電路、馬達、活塞、機械手臂和傳送帶，這將使製造電動機器基本免費！"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:electric_age/machine/configurable_chest_asbl",
+      "text": "可設定儲物箱不是機器，但是一旦您擁有類比電路，您就可以合成它！$(br2)它有 21 個可設定的欄位和自動提取功能！對自動化非常有用！"
+    }
+  ],
+  "sortnum": 104
+}
