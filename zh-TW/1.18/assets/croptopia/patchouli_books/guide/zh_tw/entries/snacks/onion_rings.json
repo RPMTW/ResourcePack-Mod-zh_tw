@@ -1,0 +1,12 @@
+{
+  "name": "洋蔥圈",
+  "icon": "croptopia:onion_rings",
+  "category": "croptopia:snacks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:onion_rings",
+      "text": "洋蔥圈的食譜"
+    }
+  ]
+}
