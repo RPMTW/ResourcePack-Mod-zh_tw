@@ -1,0 +1,15 @@
+{
+  "name": "基本工具安全",
+  "icon": "conjuring:abundance_gem",
+  "category": "conjuring:soul_alloy_tools",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "靈魂合金工具內的力量是強大的。無論是像召喚魂合金工具靈魂合金斧頭靈魂合金斧頭靈魂伐木者這樣的先天能力，還是像範圍增強的魔法合金工具靈魂合金鎬靈魂合金鎬的區域挖掘這樣的附加能力，它們也可以是相當具有破壞性的。為了確保一個人的財產完好無損，這些工具通常處於禁用狀態，準備被它們的主人喚醒。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "To accomplish this, it is required to press both the $(thing)Shift$() and $(thing)$(k:conjuring.toggle_tool_mode)$() (configurable) keys while holding the tool."
+    }
+  ]
+}
