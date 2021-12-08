@@ -1,0 +1,18 @@
+{
+  "name": "靈魂合金鏟",
+  "icon": "conjuring:soul_alloy_shovel",
+  "category": "conjuring:soul_alloy_tools",
+  "extra_recipe_mappings": {
+    "conjuring:soul_alloy_shovel": 0
+  },
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "While the shovel sees little use normally, the ability of the $(item)Soul Alloy Shovel$() is likely to become a good friend. When used it will seek out any items around and bring them back to it's caller. The $(item)Soul Alloy Shovel$() may be fitted with $(l:conjuring:basics/basic_gem_tinkering#aspect_gems)Aspect Gems$(), which improves it in certain aspects:$(br) $(li)$(#007a18)≈ Haste: Improves the pace of digging with the shovel. Stacks with Efficiency.$()$(br) "
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(li)$(#a80f01)ღ Abundance: Enriches the loot found when digging up treasure. Stacks with Fortune.$()$(br) $(li)$(#4d8184)λ Scope: Expands the literal scope of digging. Increases by 1 block per gem.$()$(br) $(li)$(#123f89)ʊ Ignorance: Ignores a small amount of durability loss when using the tool. Stacks with Unbreaking."
+    }
+  ]
+}
