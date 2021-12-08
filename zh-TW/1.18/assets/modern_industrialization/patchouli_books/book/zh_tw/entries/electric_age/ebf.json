@@ -1,0 +1,28 @@
+{
+  "name": "電力高爐",
+  "category": "modern_industrialization:electric_age",
+  "icon": "modern_industrialization:electric_blast_furnace",
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:electric_age/machine/electric_blast_furnace_asbl",
+      "text": "電力高爐是蒸汽高爐的電動版本。它可以解鎖新配方，並且與其他多方塊電動機器一樣，預設情況下其超頻限制為 128 EU/t。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:materials/cupronickel/craft/coil",
+      "text": "EBF 由一層耐熱機器外殼、兩層空心白銅線圈和另一層耐熱機器外殼組成。控制器必須在底層，在頂層或底層上有倉。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:hatches/basic/energy_input_hatch",
+      "text": "不要忘記添加能量輸入倉，否則 EBF 將沒有能量！低壓能量輸入倉僅連接到低壓電纜。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:hatches/advanced/energy_input_hatch",
+      "text": "中壓能量輸入倉僅連接到中壓電纜，如果您的 EBF 需要大量能量，這將非常有用！你還不能合成它們，但請記住它們存在..."
+    }
+  ],
+  "sortnum": 105
+}
