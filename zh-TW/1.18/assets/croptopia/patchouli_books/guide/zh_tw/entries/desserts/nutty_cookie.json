@@ -1,0 +1,12 @@
+{
+  "name": "堅果餅乾",
+  "icon": "croptopia:nutty_cookie",
+  "category": "croptopia:desserts",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:nutty_cookie",
+      "text": "堅果餅乾的食譜"
+    }
+  ]
+}
