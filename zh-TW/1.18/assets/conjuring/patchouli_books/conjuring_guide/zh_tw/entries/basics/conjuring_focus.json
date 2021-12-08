@@ -1,0 +1,16 @@
+{
+  "name": "召喚焦點",
+  "icon": "conjuring:conjuring_focus",
+  "category": "conjuring:basics",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Souls are complex entities and therefore containing them is certainly no easy task. The tool used to fulfill it has been dubbed the $(item)Conjuring Focus$(). A simple lens made of $(l:conjuring:basics/soul_composite_materials#soul_alloy)Soul Alloy$() and reinforced with some $(item)Gold$(), it employs their synergistic attributes to safely contain the inner construct of a certain soul type."
+    },
+    {
+      "type": "conjuring:soulfire_forge_recipe",
+      "recipe": "conjuring:soulfire_forge/conjuring_focus",
+      "text": "When inserted into a $(l:conjuring:basics/conjurer)Conjurer$() it's true power will start to unfold, and mobs of the stored soul's type will be conjured.$(p)To trap a soul inside a focus, one shall seek to perform a $(l:conjuring:rituals/ritual_of_extraction)Ritual of Extraction$()."
+    }
+  ]
+}
