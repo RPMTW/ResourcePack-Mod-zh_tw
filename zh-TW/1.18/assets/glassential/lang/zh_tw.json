@@ -1,0 +1,16 @@
+{
+    "block.glassential.tinted_ethereal_glass": "有色空靈玻璃",
+    "block.glassential.tinted_reverse_ethereal_glass": "有色反向空靈玻璃",
+    "block.glassential.ethereal_glass": "空靈玻璃",
+    "block.glassential.reverse_ethereal_glass": "反向空靈玻璃",
+    "block.glassential.ghostly_glass": "幽靈玻璃",
+    "block.glassential.light_glass": "發光玻璃",
+    "block.glassential.redstone_glass": "紅石玻璃",
+    "tooltip.glassential.property_tinted": "不透光",
+    "tooltip.glassential.property_ethereal": "Allows passage while sneaking",
+    "tooltip.glassential.property_ghostly": "Allows passage to entities",
+    "tooltip.glassential.property_luminous": "Emits bright light",
+    "tooltip.glassential.property_redstone": "Emits strong redstone signal",
+    "tooltip.glassential.property_reverse_ethereal": "Solid while sneaking",
+    "itemGroup.glassential.items": "精緻玻璃"
+}
