@@ -20,7 +20,7 @@
     },
     {
       "type": "text",
-      "text": "想要創建煉金矩陣，只需持 $(item)奧術粉灰$()右擊地面頂部（雖然任何實心方塊面都有效） - 這將消耗$(item)奧術粉灰$() 20 分之 1 個耐久度，並繪製一個簡單的煉金矩陣，沒有添加物是沒有任何效果的。$(bl2)當你點下煉金矩陣時，它會拿走一個你手上的物品，並在矩陣中保留它。並且，這個物品將用於決定煉金矩陣的效果。"
+      "text": "想要創造出煉金矩陣，手持$(item)奧術粉灰$()，面對方塊按下[$(k:use)]。這會消耗 1 耐久的$(item)奧術粉灰$()——它的耐久度總共 20 ——並繪制出一個$(thing)煉金矩陣$()。然而，煉金矩陣本身並無太大用處。$(bl2)當你手持物品右擊$(thing)煉金矩陣$()時，矩陣會消耗你手中的一個$(item)物品$()，並將其放置到矩陣當中。被置入的物品決定了$(thing)煉金矩陣$()的效果。"
     },
     {
       "type": "image",
@@ -31,15 +31,15 @@
       ],
       "title": "煉金矩陣",
       "border": true,
-      "text": "鍊金矩陣展示: 未添加；只添加基底；\n已放入基底與催化劑。"
+      "text": "$(thing)煉金矩陣$()不同的狀態：未輸入；僅有$(item)基底$()；兼具$(item)基底$()以及$(item)催化劑$()。"
     },
     {
       "type": "text",
-      "text": "每次鍊金都需要兩個項目：一個基礎和一個催化劑。 \n基礎是你在繪製矩陣之後放入的第一樣物品，而第二樣為催化劑。\n當你放入時，矩陣的外觀會改變，如果它是有效的，則矩陣將在你放入催化劑後開始啟動。\n$(br2)儘管目前只實現了幾個陣列，但最終您將擁有從簡單的$(l:bloodmagic:alchemy_array/crafting_array)創造矩陣$(/l)一路到甚至能夠傳送的矩陣。"
+      "text": "每次鍊金都需要有兩種物品：基底和催化劑。在繪制了煉金矩陣之後，你第一個置入的物品便是基底，第二個置入的便是催化劑。當你向其中置入物品後，若該物品有效，則煉金矩陣的外觀會發生改變。一旦你再向其中加入催化劑，那麽矩陣便會開始運作。"
     },
     {
       "type": "text",
-      "text": "Although only a few arrays are currently implemented, eventually you will have arrays that range from simple $(l:bloodmagic:alchemy_array/functional_arrays/crafting_array)crafting arrays$(/l) to even teleportation arrays."
+      "text": "盡管目前只有寥寥幾個儀式已經完善，但在模組完全完善後，你將可以進行眾多的儀式，從簡單的$(l:bloodmagic:alchemy_array/functional_arrays/crafting_array)創造矩陣$(/l)，一路到甚至能夠傳送的矩陣。"
     }
   ]
 }
