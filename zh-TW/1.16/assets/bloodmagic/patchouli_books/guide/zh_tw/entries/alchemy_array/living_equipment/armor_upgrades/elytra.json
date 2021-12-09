@@ -1,11 +1,11 @@
 {
-  "name": "Elytra",
+  "name": "鞘翅",
   "icon": "minecraft:elytra",
   "category": "bloodmagic:alchemy_array/living_equipment/armor_upgrades",
   "pages": [
     {
       "type": "text",
-      "text": "Adds an Elytra to your Living Armor. Rather than being trained, the $(l:bloodmagic:alchemy_array/living_equipment/living_tomes)Upgrade Tome$() must be crafted. $(br2)This Elytra does drain durability from the Chestplate, but at half the speed of a normal Elytra. $(br2)It also looks pretty neat."
+      "text": "為你的束靈盔甲添加一件鞘翅。必須製作$(l:bloodmagicalchemy_array/living_equipment/living_tomes)強化手冊()。$(br2)這種鞘翅確實會消耗胸甲的耐久度，但速度是普通鞘翅的一半。$(br2)它看起來也很整潔。"
     },
     {
       "type": "bloodmagic:crafting_upgrade_array",
