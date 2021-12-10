@@ -21,11 +21,11 @@
     },
     {
       "type": "text",
-      "text": "(Also not implemented:) $(strike)The blood altar's LP value can be read via a comparator on the side, similar to a vanilla chest. $(br2)If you place a $(item)Bloodstone Brick$()$(strike) underneath the altar, the comparator will instead read the value of the $(l:bloodmagic:altar/soul_network)Soul Network$(/l) of the owner of any orb that is placed into the Altar. $(br2)The signal strength depends on the size of the orb in the altar, not the maximum LP of the network, so if you have"
+      "text": "(Also not implemented:) $(strike)你可以在側邊使用比較器查看血之祭壇內的 $(blood)LP$()$(strike) 值，這和原版的箱子類似。$(br2)$(strike)如果你在祭壇下方放置了一塊$(item)血石磚$()$(strike)，那麽比較器便會轉而查看放置在祭壇內寶珠的主人的$(l:bloodmagic:altar/soul_network)靈魂網絡$(/l)。$(br2)$(strike)信號強度取決於祭壇內寶珠的寶珠大小。而不是寶珠內網絡的最大 $(blood)LP$()$(strike) 值，"
     },
     {
       "type": "text",
-      "text": "$(strike)500,000 LP, a Weak Blood Orb would show as completely full, but a Master Blood Orb would show as only half full. This can be used to, for example, deactivate certain rituals when you are running low on LP, to ensure you don't run out. $(br2)Lastly, placing a $(item)Redstone Lamp$()$(strike) underneath the altar will make it output a redstone signal upon finishing a crafting operation. With a bit of cunning, this should allow you to fully automate the production of slates."
+      "text": "$(strike)比方說，如果你有 $(blood)500,000 LP$()$(strike)，那麽一個虛弱氣血寶珠便會讓信號全滿，而一個大師氣血寶珠只會讓信號半滿。這一特性可以用在一些特定場景，例如，在 $(blood)LP$()$(strike) 過低時關閉一些特定的儀式，確保你不會被榨乾。$(br2)$(strike)最後，如果是在祭壇下方放上$(item)紅石燈$()$(strike)，比較器便會在合成結束時釋放紅石信號。現在只需要轉動起你的小腦袋瓜，這些特性應該足以讓你的石板生產完全自動化了。"
     }
   ]
 }
