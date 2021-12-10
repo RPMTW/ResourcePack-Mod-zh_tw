@@ -5,7 +5,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "$(item)充能符文()有它的奇妙之處。當$(l:bloodmagic:altar/blood_altar)血之祭壇$()不在合成階段或灌注$(l:bloodmagic:altar/soul_network)氣血寶珠$()時；$(item)充能符文()將緩慢吸取LP並充能。使你若在下次將物品放入血之祭壇且要合成時，它將會立刻將充能的LP一比一地轉換為合成所需的LP並瞬間注入物品當中。"
+      "text": "$(item)充能符文$()有它的奇妙之處。當$(l:bloodmagic:altar/blood_altar)血之祭壇$()不在合成階段或灌注$(l:bloodmagic:altar/soul_network)氣血寶珠$()時；$(item)充能符文$()將緩慢吸取LP並充能。使你若在下次將物品放入血之祭壇且要合成時，它將會立刻將充能的LP一比一地轉換為合成所需的LP並瞬間注入物品當中。"
     },
     {
       "type": "text",
