@@ -1,5 +1,5 @@
 {
-  "name": "Slow-burning Oil",
+  "name": "緩燃之油",
   "icon": "bloodmagic:smelting_anointment",
   "category": "bloodmagic:alchemy_table/anointments",
   "extra_recipe_mappings": [
@@ -19,7 +19,7 @@
       "type": "crafting_alchemy_table",
       "heading": "Slow-burning Oil L",
       "recipe": "bloodmagic:alchemytable/smelting_anointment_l",
-      "text": "This upgraded version of the anointment lasts four times longer. $(br2)Applies: Heated Tool I (1024 blocks)"
+      "text": "這個升級版的藥水膏持續時間延長了四倍。 $(br2)適用：加熱工具I(1024塊)"
     }
   ]
 }
