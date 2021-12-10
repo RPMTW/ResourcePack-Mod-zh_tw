@@ -16,11 +16,11 @@
     },
     {
       "type": "text",
-      "text": "Doing so will consume the $(item)Tome$() and apply all EXP from it to your chestplate - unless there are not enough $(thing)Upgrade Points$() avaliable. $(br2)In this case, the Tome will apply as much EXP as it can and store the remainder - unless there's less than 1 level's worth left, in which case the tome will be destroyed."
+      "text": "這樣做將會消耗$(item)手冊$()並將其中的所有經驗值輸出到你的胸甲上 - 除非沒有足夠的$(thing)升級點數$()。 $(br2)在這種情況下，手冊將輸出盡可能多的經驗值並存儲其餘部分 - 除非剩餘的經驗值少於 1 等，在這種情況下，手冊將被銷毀。"
     },
     {
       "type": "text",
-      "text": "This is an excellent way to focus training on abilities you wish to see more of, whilst conveniently forgetting ones you find less useful. $(br2)Alternately, you can teach different chestplates different skills, so you can have one chestplate for mining, one for combat, and yet another for exploration."
+      "text": "這是一種更好的方式，可以將升級重點放在您需要的能力上，同時方便地去除那些您認為不太有用的能力。 $(br2)或者，你可以教不同的胸甲不同的技能，你可以有一個胸甲用於採礦，一個用於戰鬥，另一個用於探索。"
     }
   ]
 }
