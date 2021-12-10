@@ -19,13 +19,13 @@
       "type": "crafting_alchemy_table",
       "heading": "Honing Oil L",
       "recipe": "bloodmagic:alchemytable/melee_damage_anointment_l",
-      "text": "This upgraded version of the anointment lasts four times longer. $(br2)Applies: Whetstone I (1024 hits)"
+      "text": "這個升級版的藥水膏持續時間延長了四倍。 $(br2)適用：磨刀石I(1024次命中)"
     },
     {
       "type": "crafting_alchemy_table",
       "heading": "Honing Oil II",
       "recipe": "bloodmagic:alchemytable/melee_damage_anointment_2",
-      "text": "This upgraded version of the anointment increases melee damage dealt by +6. $(br2)Applies: Whetstone II (256 hits)"
+      "text": "這個升級版的藥水膏提高造成的近戰傷害 +6。 $(br2)適用：磨刀石II(256次命中)"
     }
   ]
 }
