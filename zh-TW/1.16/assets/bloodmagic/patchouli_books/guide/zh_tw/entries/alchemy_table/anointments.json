@@ -11,13 +11,13 @@
   "pages": [
     {
       "type": "text",
-      "text": "$(item)Anointments$() are essentially $(item)potions$() for your tools, weapons, and even your $(l:bloodmagic:demon_will/explosive_charges)Charges$(). By right-clicking with the $(item)anointment$() in one hand, it will be applied to the item in your other hand, if possible. Not all anointments work on all equipment! $(br2)Unlike $(item)potions$(), $(item)anointments$() aren't timed; rather, they wear off a bit at a time as your tool or weapon is used."
+      "text": "$(item)藥水膏$()是用於您的工具、武器甚至$(l:bloodmagic:demon_will/demonic_items/explosive_charges)炸藥$()的$(item)藥水$()。 手持$(item)藥水膏$()按[$(k:use)]將其塗抹在另一隻手的物品上，如果可以的話。 並非所有的藥水膏都適用於所有的設備！ $(br2)與$(item)藥水$()不同，$(item)藥水膏$()沒有時間限制； 相對的，它們會隨著您的工具或武器的使用而逐漸磨損。"
     },
     {
       "type": "crafting_alchemy_table",
       "heading": "Slate-infused Vial",
       "recipe": "bloodmagic:alchemytable/slate_vial",
-      "text": "A sturdy Vial that can contain otherwise uncontainable mixtures."
+      "text": "一個堅固的小瓶，可以容納其他容器無法容納的混合物。"
     }
   ]
 }
