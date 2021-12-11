@@ -1,11 +1,11 @@
 {
-    "itemGroup.entitybanners.creative_tab": "Entity Banners",
-    "effect.entitybanners.entity_banner_status_effect": "Entity Banner",
-    "item.entitybanners.entity_banner": "%s Banner",
-    "chat.entitybanners.killed_n_entities": "%s has defeated the %sth %s!",
-    "tooltip.entitybanners.nearby_players1": "Nearby players get a bonus",
-    "tooltip.entitybanners.nearby_players2": "against: %s",
-    "tooltip.entitybanners.status_effect1": "Increased damage and defense",
-    "tooltip.entitybanners.status_effect2": "from the following: ",
-    "tooltip.entitybanners.nearby_banner": "Banner nearby"
+    "itemGroup.entitybanners.creative_tab": "實體旗幟",
+    "effect.entitybanners.entity_banner_status_effect": "實體旗幟",
+    "item.entitybanners.entity_banner": "%s 旗幟",
+    "chat.entitybanners.killed_n_entities": "%s 擊敗了第 %s 個 %s！",
+    "tooltip.entitybanners.nearby_players1": "附近的玩家獲得獎勵",
+    "tooltip.entitybanners.nearby_players2": "獎勵：%s",
+    "tooltip.entitybanners.status_effect1": "增加以下傷害和",
+    "tooltip.entitybanners.status_effect2": "防禦：",
+    "tooltip.entitybanners.nearby_banner": "附近的旗幟"
 }
