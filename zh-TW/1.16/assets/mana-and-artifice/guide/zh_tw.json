@@ -133,40 +133,44 @@
 			},
 			{
 				"type": "text",
-				"value": "首先是最主要的HUD——魔力條。魔力條外觀為一條橫條，橫條內標識著你的魔法等級，整個橫條則代表著你的魔力量。而在橫條的下方還有一根小橫條，它代表了你升至下一魔法等級所需的經驗值。當你手持一個法術時，魔力條會有一部分變暗，變暗的部分代表著法術的魔力使用量；而如果是引導類法術，則代表了起始引導所需要的魔力。"
+				"value": "The main hud is the mana bar.  In this you will see a badge with your level in it, a main bar representing your mana, and a smaller bar below representing your magic XP to next level.  The main bar also has a darker section when holding a spell; this represents the estimated mana cost of the spell, or in the case of a channeled spell, the cost to start channeling it."
 			},
 			{
 				"type": "title",
-				"value": "HUD 顯示選項"
+				"value": "HUD Display Option"
 			},
 			{
 				"type": "text",
+				"value": "Click the hud display tab at the bottom of this UI to change how the HUD displays. You can select always, conditionally (when you have a mana-consuming item equipped), or never.\n\nIf you can't see your HUD, you've likely changed this option!"
+			},
+			{
+				"type": "image",
 				"location": "mana-and-artifice:textures/guide/hud_options.png",
 				"width": 41,
 				"height": 62
 			},
 			{
-				"type": "image",
-				"value": "HUD 位置選項",
+				"type": "title",
+				"value": "HUD Position Option",
 				"newPage": true
 			},
 			{
-				"type": "title",
-				"value": "HUD 位置選項"
+				"type": "text",
+				"value": "Click the hud position tab at the bottom of this UI to change the HUD position."
 			},
 			{
-				"type": "text",
+				"type": "image",
 				"location": "mana-and-artifice:textures/guide/hud_position.png",
 				"width": 41,
 				"height": 62
 			},
 			{
-				"type": "image",
-				"value": "假如你在魔力條旁看見一個紅色閃電，這表示你的物品欄中有一個充電不足的物品",
+				"type": "text",
+				"value": "If you see a red drop with a lightning bolt in it next to your mana, this means that you have an item in your inventory that's low on charge.",
 				"newPage": true
 			},
 			{
-				"type": "text",
+				"type": "image",
 				"location": "mana-and-artifice:textures/guide/low_charge.png",
 				"width": 29,
 				"height": 36,
@@ -189,11 +193,11 @@
 			},
 			{
 				"type": "text",
-				"value": "魔力編織的第一步，是製作一把織魔者之杖。溫特姆法杖的使用次數有限，並且次數耗盡後還會損毀，但你不必擔心，之後你還可以製作出更強的法杖，那種法杖可以永久留存。"
+				"value": "To do it, first craft a Manaweaver's Wand.  The vinteum wands have limited uses and will eventually break, however later on you can make more powerful ones that will last forever."
 			},
 			{
 				"type": "item",
-				"location": "mana-and-artifice:manaweaver_wand",
+				"location": "mana-and-artifice:vinteum_manaweaver_wand",
 				"scale": 1
 			},
 			{
@@ -219,7 +223,11 @@
 		],
 		"related_recipes": [
 			{
-				"location": "mana-and-artifice:manaweaver_wand",
+				"location": "mana-and-artifice:vinteum_manaweaver_wand",
+				"type": "crafting"
+			},
+			{
+				"location": "mana-and-artifice:chimerite_manaweaver_wand",
 				"type": "crafting"
 			},
 			{
@@ -251,7 +259,11 @@
 		],
 		"related_recipes": [
 			{
-				"location": "mana-and-artifice:manaweaver_wand",
+				"location": "mana-and-artifice:vinteum_manaweaver_wand",
+				"type": "crafting"
+			},
+			{
+				"location": "mana-and-artifice:chimerite_manaweaver_wand",
 				"type": "crafting"
 			},
 			{
@@ -286,6 +298,200 @@
 			{
 				"location": "mana-and-artifice:manaweaving/sorcery/book_of_rote",
 				"type": "manaweaving_altar"
+			}
+		]
+	},
+	"Eldrin Wellsprings": {
+		"category": "eldrin_altar",
+		"index": -91,
+		"tier": 3,
+		"sections": [
+			{
+				"type": "title",
+				"value": "Eldrin Wellsprings"
+			},
+			{
+				"type": "text",
+				"value": "There is a network of points of power scattered through the world.  These points are called Eldrin Wellsprings.  Wellsprings are associated with one of the affinities, and vary in power as well."
+			},
+			{
+				"type": "text",
+				"value": "Eldrin Wellsprings are invisible unless the Unguent of Wellspring Sight Unguent (or the more powerful Eldrin Sight Unguent made by the Council of Wizards) is active, but it is not required to make use of eldrin wellsprings.\n\nThere may be a way to capture them to harness their power when I have more experience."
+			},
+			{
+				"type": "text",
+				"value": "Those aligned with the Council of Wizards can use the Eldrin Flight spell to travel to them, and the Eldrin Bracelet to draw power from these wellsprings when in close proximity to reduce the mana cost of their spells."
+			},
+			{
+				"type": "title",
+				"value": "Locating Wellsprings"
+			},
+			{
+				"type": "text",
+				"value": "As stated before, wellsprings have affinities, and these affinities are obtained from the biome that the wellspring is in.  It's technically possible to find any wellspring anywhere, however I'm most likely to find wellsprings for each affinity in the following types of places:"
+			},
+			{
+				"type": "text",
+				"value": "Arcane: Found in the high places, forests, and jungles."
+			},
+			{
+				"type": "text",
+				"value": "Earth: Found in forests, swamps, mesas, and jungles."
+			},
+			{
+				"type": "text",
+				"value": "Water: Found in rivers, oceans, and swamps."
+			},
+			{
+				"type": "text",
+				"value": "Wind: Found in plains and savannas, as well as high places."
+			},
+			{
+				"type": "text",
+				"value": "Fire: Found in deserts and hellish places."
+			},
+			{
+				"type": "text",
+				"value": "Ender: Found in swamps, mushroom biomes, and places where the void is strongest."
+			},
+			{
+				"type": "text",
+				"value": "(These settings are ignored if the config for generic wellsprings is enabled)"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/wellspring_sight_unguent"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/eldrin_sight_unguent"
+			},
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/eldrin_flight"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/artifice/eldrin_bracelet"
+			}
+		]
+	},
+	"Capturing Eldrin Wellsprings": {
+		"category": "eldrin_altar",
+		"index": -90,
+		"tier": 4,
+		"sections": [
+			{
+				"type": "title",
+				"value": "Capturing Eldrin Wellsprings"
+			},
+			{
+				"type": "text",
+				"value": "I've figured out a way that I can harness some of the power of the eldrin wellsprings.  I need to be careful to only take small amounts, as the raw power would simply melt any kind of apparatus that would take more.  The secret is to use a lens that only refracts small amounts of power into a void dimension, which is needed to contain the raw power.  This lens requires a very specific resonant structure to be built around it in order to support the magic.  I could then use some other kind of apparatus to draw energy in from this void when it's needed."
+			},
+			{
+				"type": "text",
+				"value": "It's worth noting that it's more important to focus on the overall captured power from eldrin wellsprings rather than a rechargeable resource.  I can check my total power stored in the Occulus."
+			},
+			{
+				"type": "text",
+				"value": "Although the occulus doesn't show it, you can build the Wellspring Prism structure out of chimerite sandstone, or chimerite stone.  Either one will work."
+			},
+			{
+				"type": "text",
+				"value": "(There are configs that will allow eldrin wellsprings to spawn with no affinity, and the first type of lens used on each node will then permanently set its affinity.  There are also configs to make eldrin wellspring power per faction instead of per player)"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "multiblock",
+				"location": "mana-and-artifice:multiblock/wellspring_capture"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/eldrin/wellspring_pillar"
+			},
+			{
+				"type": "manaweaving_altar",
+				"locations": [
+					"mana-and-artifice:manaweaving/eldrin/lens_arcane",
+					"mana-and-artifice:manaweaving/eldrin/lens_ender",
+					"mana-and-artifice:manaweaving/eldrin/lens_fire",
+					"mana-and-artifice:manaweaving/eldrin/lens_water",
+					"mana-and-artifice:manaweaving/eldrin/lens_air",
+					"mana-and-artifice:manaweaving/eldrin/lens_earth"
+				]
+			}
+		]
+	},
+	"Eldrin Conduits": {
+		"category": "eldrin_altar",
+		"index": -89,
+		"tier": 4,
+		"sections": [
+			{
+				"type": "title",
+				"value": "Eldrin Conduits"
+			},
+			{
+				"type": "text",
+				"value": "By capturing Eldrin Wellsprings and siphoning them off into a void dimension, I can use Eldrin Conduits to bring that energy back into the material plane.  Each conduit can bring forth a different energy."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"locations": [
+					"mana-and-artifice:manaweaving/eldrin/conduit_arcane",
+					"mana-and-artifice:manaweaving/eldrin/conduit_ender",
+					"mana-and-artifice:manaweaving/eldrin/conduit_fire",
+					"mana-and-artifice:manaweaving/eldrin/conduit_water",
+					"mana-and-artifice:manaweaving/eldrin/conduit_air",
+					"mana-and-artifice:manaweaving/eldrin/conduit_earth"
+				]
+			}
+		]
+	},
+	"Eldrin Altar": {
+		"category": "eldrin_altar",
+		"index": -88,
+		"tier": 4,
+		"sections": [
+			{
+				"type": "title",
+				"value": "Eldrin Altar"
+			},
+			{
+				"type": "text",
+				"value": "The Eldrin Altar will allow me to create some of the most powerful magical artifacts, those hinted at only by legend in ages to come.  First, I will need to make the altar itself, and surround it just so with pedestals."
+			},
+			{
+				"type": "text",
+				"value": "Next, I will need to create Eldrin Conduits and place them somewhere within 7 blocks of the altar, and somewhere their top crystal will have a clear line of sight to the altar.  Not all recipes need all types of power, so I only need to place the ones that the recipe actually requires."
+			},
+			{
+				"type": "text",
+				"value": "Each recipe needs a certain amount of Eldrin Energy captured from the Wellsprings.  I'll need to find and capture enough wellsprings to power the altar's process."
+			},
+			{
+				"type": "text",
+				"value": "When I have everything ready, I must place the required items on the altar and surrounding pedestals (I'm pretty sure order or position doesn't matter), and activate the altar with an empty hand.  Then all that's left is to enjoy the show."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "multiblock",
+				"location": "mana-and-artifice:multiblock/eldrin_altar"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/eldrin/eldrin_altar"
+			},
+			{
+				"type": "crafting",
+				"location": "mana-and-artifice:runeforging/stone_pedestal"
 			}
 		]
 	},
@@ -353,7 +559,7 @@
 			},
 			{
 				"type": "text",
-				"value": "晉升等階後，你會解鎖符文鍛爐的升級，例如速度提升以及礦物雙倍化等。"
+				"value": "Once you have advanced in tier, you will unlock upgrades to the Runeforge in the form of speed increases, ore doubling, and item repair."
 			}
 		],
 		"related_recipes": [
@@ -395,7 +601,7 @@
 			},
 			{
 				"type": "text",
-				"value": "直接在符文或硫磺鍛爐旁邊放上基座，再在基座上放置一塊秘鳴晶體，我可以稍許改變鍛爐的效力。\n\n若在鍛爐旁放置了兩塊以上的紅色，黃色或者橙色晶體，那麼鍛爐可以雙倍化礦物熔煉。\n\n白色，青色，藍色或者淺藍色晶體，會讓鍛爐嘗試修復放進去的物品，但如此升級過的鍛爐將無法進行正常熔煉。\n\n在未來版本還會有更多的內容。"
+				"value": "By placing pedestals directly adjacent to a runeforge or brimstone forge with chimerite crystals on top of them, I can alter its effects slightly.\n\nRed, Yellow, or Orange crystals will apply an ore doubling effect if there are two of them.\n\nWhite, Cyan, Blue, or Light Blue will cause the forge to repair items put into it, though it will no longer be able to smelt if upgraded in this manner.\n\nThere may be more to come in the future."
 			}
 		],
 		"related_recipes": [
@@ -408,7 +614,11 @@
 				"locations": [
 					"mana-and-artifice:chimerite_crystals/crystal_orange",
 					"mana-and-artifice:chimerite_crystals/crystal_red",
-					"mana-and-artifice:chimerite_crystals/crystal_yellow"
+					"mana-and-artifice:chimerite_crystals/crystal_yellow",
+					"mana-and-artifice:chimerite_crystals/crystal_light_blue",
+					"mana-and-artifice:chimerite_crystals/crystal_blue",
+					"mana-and-artifice:chimerite_crystals/crystal_cyan",
+					"mana-and-artifice:chimerite_crystals/crystal_white"
 				]
 			}
 		]
@@ -447,23 +657,31 @@
 			},
 			{
 				"type": "text",
-				"value": "/setmagicLevel [0-75] <player>\n設定玩家的魔法等級以及魔力最大值。"
+				"value": "/setmagiclevel [0-75] <player>\nSets a player's magic level and max mana."
 			},
 			{
 				"type": "text",
-				"value": "/setFaction [faction_id] <player>\n設定玩家的派系。因為某些與 forge 有關的原因，這條指令無法在伺服器中使用自動補全功能，但你還可以手動補全，可供選擇的有：NONE（無），DEMONS（惡魔），FEY_COURT（仙女之庭）和 ANCIENT_WIZARDS（遠古議會巫師）"
+				"value": "/setfaction [faction_id] <player>\nSets a player's faction.  For some reason this won't autocomplete on servers because forge, but the valid factions are:  NONE, DEMONS, FEY_COURT, ANCIENT_WIZARDS"
 			},
 			{
 				"type": "text",
-				"value": "/completeprogression <player>\n使特定玩家完成其目前等階在奧秘之眼內所顯示的待完成工作（這也會完成進度儀式）。"
+				"value": "/completeprogression <player>\nCompletes all occulus tasks for a player at their current tier (this essentially enables the progression rituals)."
 			},
 			{
 				"type": "text",
-				"value": "/settier [1-5] <player>\n設定一名玩家的等階（包括對應等階所開放的配方）"
+				"value": "/settier [1-5] <player>\nSets a player tier, including what recipes they have access to."
 			},
 			{
 				"type": "text",
-				"value": "/makerote [part_id] <player>\n使得特定玩家定式熟記該構件。能讓其在定式之書內使用該構件。因為某些與 forge 有關的原因，這條指令無法在伺服器中使用自動補全功能。"
+				"value": "/makerote [part_id] <player>\nMakes a spell part rote for the given player, allowing it to be used in the Book of Rote."
+			},
+			{
+				"type": "text",
+				"value": "/makewellspring [x y z] <affinity> <strength>\nCreates a wellspring node at the given point.  If strength and/or affinity are omitted, random values are used."
+			},
+			{
+				"type": "text",
+				"value": "/setwellspringpower [player] [affinity] [strength]\nSets the wellspring network strength for the selected player(s).  Is only temporary; the first recalculation will override these values.  Use for testing."
 			}
 		],
 		"related_recipes": []
@@ -508,10 +726,91 @@
 			},
 			{
 				"type": "text",
-				"value": "難以置信，如此愚蠢的事情居然還真在我的眼皮子底下發生了——這種有魔法縈繞於其上的礦，居然一直以來被我當做開採礦時的多餘石頭給扔掉了！之所以我將其稱為秘鳴寶石，是因為粗看上去它與挖掘時產生的礦物碎片差不多，而只有魔法感知能力足夠敏銳之後，你才能察覺到它的真實樣貌。\n\n它大量蘊藏於綠寶石礦之中，這與綠寶石本身的精巧結構頗有關係。就算是那種初入魔法門道的愣頭青，其中的絕大多數也可以感知到秘鳴寶石，也許魔法等級 5 級就足以發現它的存在了。\n\n鑽石礦的秘鳴寶石蘊藏量要次於綠寶石。也因此，探尋到蘊藏在鑽石礦中的秘鳴寶石便需要更強的魔法感知能力，當然，只是稍微多一些，大約魔法等級 10 級就夠了。\n\n煤礦中的蘊藏量是最低的。確切地說，秘鳴寶石在其中簡直就像是可憐的微量元素，而想要將其中的點點微量聚合成為足夠大的，可用的形態，非得那些已經浸淫魔法多年，心靈已與魔法高度諧鳴的人才可能辦到。我敢說，低於魔法等級 20 級，想都別想。\n\n關於開採機率，我還得再補充一下，在開採過程中，秘鳴寶石有可能會遭到破壞，所以並不是每一次挖掘都能有所收穫。挖掘綠寶石是最有可能開採到的，其次是鑽石，最後是煤。\n\n你可以在工作檯上將其製作為一整個塊，反之亦可。"
+				"value": "I can't believe it's been under my nose this whole time - a hidden magical ore that I mistook for excess bits of rock when mining other valuable ores!  I call it Chimerite because it can look just like mining debris until one's magical senses are honed to be able to detect it.\n\nIt's easiest to find in emerald ore, something to do with the structure of emeralds themselves.  Most mages will be able to sense these with only a little bit of magical experience, probably mages that are at least level 5.\n\nNext are diamonds.  While not as easy as emeralds, chimerite can be found here by mages with a little bit more experience, above level 10.\n\nLastly is coal.  Chimerite is technically there in trace elements, but it takes a finely tuned magical mind to pick up the traces that are large enough to be useable.  I would say no mage under level 20 would see it.\n\nOn that point, I should note that the chimerite is also often destroyed as part of the mining process, and isn't always retrievable from every mining attempt.  Emeralds seem to have the best success rate here, followed by diamonds, and then again by coal.\n\nIt can be crafted into blocks and back using a crafting table."
 			}
 		],
 		"related_recipes": []
+	},
+	"Useful Vanilla Recipes": {
+		"category": "basics",
+		"index": -2,
+		"sections": [
+			{
+				"type": "title",
+				"value": "Useful Vanilla Recipes"
+			},
+			{
+				"type": "text",
+				"value": "This mod adds a few recipes for vanilla items that are often used in the mod or just generally difficult to obtain.  They are listed here.  Some are tier locked and will appear as you advance."
+			},
+			{
+				"type": "text",
+				"value": "The included recipes are:\n\nLeather\nCrying Obsidian\nPrismarine Crystal\nPrismarine Shard\nGilded Blackstone\nName Tag\nPoisonous Potato\nSaddle"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/utility/leather"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/utility/crying_obsidian"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/utility/prismarine_crystal"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/utility/prismarine_shard"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/utility/gilded_blackstone"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/utility/name_tag"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/utility/poisonous_potato"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/utility/saddle"
+			}
+		]
+	},
+	"Mana Coffee": {
+		"category": "basics",
+		"index": -2,
+		"tier": 3,
+		"sections": [
+			{
+				"type": "title",
+				"value": "Mana Coffee"
+			},
+			{
+				"type": "text",
+				"value": "A delightful blend of cocoa beans and magic, this coffee will give you a boost to your mana regen for 4 minutes with a stunted mana debuff for 1 min afterward.  Great for a pre-bossfight boost.  Unfortunately for the undead, they just get to enjoy the taste."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "crafting",
+				"location": "mana-and-artifice:clay_mug"
+			},
+			{
+				"type": "arcane_furnace",
+				"location": "mana-and-artifice:arcanefurnace/mana_coffee_beans"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/food/mana_coffee"
+			}
+		]
 	},
 	"Factions": {
 		"category": "basics",
@@ -535,7 +834,7 @@
 			},
 			{
 				"type": "text",
-				"value": "然而，使用這些不屬於你的派系的物品時要當心。因為你的使用最終會招致其他派系的突襲，在突襲中，他們會派出非常強大的刺殺者緊盯著你，這些刺殺者比他們對應的，自然生成的版本要多了許多毀滅性的能力，擊敗它們的難易度直線上升。他們還會從與你的戰鬥中吸取教訓，隨著戰鬥次數的增多，他們會變得愈發難纏。但是，如果他們決定直接殺掉你，那戰鬥會更容易一些。"
+				"value": "Though you must take care: using spells and relics from the other factions will eventually cause them to raid you, which involves them sending very powerful assassins after you.  These assassins have more devastating abilities than their natually spawning counterparts, and will prove significantly tougher to defeat.  They will also learn from their fights against you and will become more difficult over time.  If they manage to kill you, the fights will become easier."
 			},
 			{
 				"type": "text",
@@ -578,7 +877,7 @@
 			},
 			{
 				"type": "text",
-				"value": "遠古巫師議會更側重於防禦以及魔力操縱，它們的聖物則也多與此有關：奧術王冠可以增加你的魔力值上限，並且還會自動驅散掉那些有害的效果狀態；艾得靈之力手鐲則可以抽取附近蘊藏於魔脈中的艾得靈能量，使你在施法時消耗的魔力得到下降；一些特有的法術構件，例如護盾和魔力轉送。當你在查閱奧秘之眼時，任何需要遠古巫師議會派系作為要求的對象，都會帶有如下的圖示："
+				"value": "The Ancient Council of Wizards have a focus on defense and mana manipulation.  Their relics include items such as the Arcane Crown, which gives you bonus mana and can dispel harmful effects automatically, the Bracelet of Eldrin Power which causes you to absorb nearby eldrin energy to reduce mana costs while spell casting, and spell components such as Shield and Mana Transfer.  When looking at the occulus, anything requiring the Council faction will be marked with the following icon:"
 			},
 			{
 				"type": "image",
@@ -681,6 +980,22 @@
 			{
 				"location": "mana-and-artifice:tarma_root_to_brown_dye",
 				"type": "crafting"
+			},
+			{
+				"location": "mana-and-artifice:wakebloom_to_blue_dye",
+				"type": "crafting"
+			},
+			{
+				"location": "mana-and-artifice:desert_nova_to_orange_dye",
+				"type": "crafting"
+			},
+			{
+				"location": "mana-and-artifice:cerublossom_to_purple_dye",
+				"type": "crafting"
+			},
+			{
+				"location": "mana-and-artifice:aum_to_green_dye",
+				"type": "crafting"
 			}
 		]
 	},
@@ -780,6 +1095,38 @@
 		],
 		"related_recipes": []
 	},
+	"Enemy: Hulking Zombie": {
+		"category": "basics",
+		"index": 3,
+		"tier": 3,
+		"sections": [
+			{
+				"type": "title",
+				"value": "Enemy: Hulking Zombie"
+			},
+			{
+				"type": "text",
+				"value": "Hulking Zombies are one of the soldiers of the Undead.  They can take an extreme amount of damage, and can dish it out as well.  Their attacks can either knock their target back or up into the air, and they've been known to leap at airborne targets with the intent of spiking them back down to the ground (often at the expense of their own safety)."
+			}
+		],
+		"related_recipes": []
+	},
+	"Enemy: Skeleton Assassin": {
+		"category": "basics",
+		"index": 3,
+		"tier": 3,
+		"sections": [
+			{
+				"type": "title",
+				"value": "Enemy: Skeleton Assassin"
+			},
+			{
+				"type": "text",
+				"value": "Skeleton Assassins are one of the soldiers of the Undead.  These terrifying stalkers have the ability to drop smoke bombs to make themselves invisible.  They know how to attack from concealment, making their attacks deal significantly more damage.  They also can throw deadly shurikens with high speed, and will throw bolos at flying targets in an attempt to bring them to the ground."
+			}
+		],
+		"related_recipes": []
+	},
 	"Manaweaving Altar": {
 		"category": "manaweaving",
 		"sections": [
@@ -794,7 +1141,11 @@
 		],
 		"related_recipes": [
 			{
-				"location": "mana-and-artifice:manaweaver_wand",
+				"location": "mana-and-artifice:vinteum_manaweaver_wand",
+				"type": "crafting"
+			},
+			{
+				"location": "mana-and-artifice:chimerite_manaweaver_wand",
 				"type": "crafting"
 			},
 			{
@@ -890,6 +1241,10 @@
 			{
 				"type": "text",
 				"value": "現在，拿上你的符文工匠錘，對著已經放置在鐵砧上的物品奮力敲打吧。但你要注意，一定要確保所有的東西都放置在了正確的位置，如果你將物品放置在了錯誤的位置並開始了鍛造，那麼這些物品將會從鐵砧上彈出。\n\n敲打足夠多的次數之後，鍛造過程就完成了。"
+			},
+			{
+				"type": "text",
+				"value": "Rune patterns are somewhat brittle and will break after forging 4 times.  The exception to this is constructs; they aren't the most graceful of automati and will unfortunately break the pattern every time they forge a rune (getting one use out of it instead of four - this helps with making automations!)"
 			}
 		],
 		"related_recipes": [
@@ -1156,12 +1511,12 @@
 		],
 		"related_recipes": [
 			{
-				"type": "crafting",
-				"location": "mana-and-artifice:vinteum_manaweaver_wand"
+				"location": "mana-and-artifice:vinteum_manaweaver_wand",
+				"type": "crafting"
 			},
 			{
-				"type": "crafting",
-				"location": "mana-and-artifice:chimerite_manaweaver_wand"
+				"location": "mana-and-artifice:chimerite_manaweaver_wand",
+				"type": "crafting"
 			},
 			{
 				"type": "crafting",
@@ -1169,7 +1524,46 @@
 			},
 			{
 				"type": "crafting",
-				"location": "mana-and-artifice:runic_anvil"
+				"location": "mana-and-artifice:runescribing/runescribing_table"
+			},
+			{
+				"type": "crafting",
+				"location": "mana-and-artifice:runeforging/runic_anvil"
+			}
+		]
+	},
+	"Beheading": {
+		"category": "enchantments",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Beheading"
+			},
+			{
+				"type": "text",
+				"value": "I can apply this enchantment to weapons to help guarantee that the heads of enemies I defeat will remain intact for later use.  This enchantment increases the chance that a head will drop from a kill.  If the loot generated already contains a head, it will not be increased more by this enchant."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/beheading_i"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/beheading_ii"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/beheading_iii"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/beheading_iv"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/beheading_v"
 			}
 		]
 	},
@@ -1873,7 +2267,7 @@
 			},
 			{
 				"type": "text",
-				"value": "我打算創造一張可以讓我瞬間部署回返儀式的圓盤。我得在其中設定好正確的儀式結構，然後只需要一些魔力驅動我進行傳送即可。\n\n你可以在終界圓盤中設定多個地點，並為它們命名。若想快速選擇地點，你可以使用 UI 鍵（預設為「z」）。"
+				"value": "I've managed to create a disc that can instantly perform a ritual of return.  I just need to set the correct pattern in it, then it uses some of my mana to move me around.\n\nThe Ender Disc can support multiple locations, each with a name.  Quick select locations using the UI key (default 'z')."
 			}
 		],
 		"related_recipes": [
@@ -1906,7 +2300,7 @@
 		"related_recipes": [
 			{
 				"type": "manaweaving_altar",
-				"location": "mana-and-artifice:manaweaving/arcane_crown"
+				"location": "mana-and-artifice:manaweaving/artifice/arcane_crown"
 			}
 		]
 	},
@@ -1934,6 +2328,41 @@
 			{
 				"type": "manaweaving_altar",
 				"location": "mana-and-artifice:manaweaving/spectral_elytra"
+			}
+		]
+	},
+	"Faction Horns": {
+		"category": "artifice",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Faction Horns"
+			},
+			{
+				"type": "text",
+				"value": "I have found a recipe for a given device that resonates deeply with members of my faction.  I can turn this into a horn that when blown will summon allies from my faction to aid me.  This can only be done very infrequently, and my allies will only remain for a short duration."
+			},
+			{
+				"type": "text",
+				"value": "You can only craft/use the horn of your faction."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/artifice/horn_council"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/artifice/horn_demons"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/artifice/horn_fey"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/artifice/horn_undead"
 			}
 		]
 	},
@@ -2443,6 +2872,34 @@
 			}
 		]
 	},
+	"Soul Speed": {
+		"index": 0,
+		"category": "enchantments",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Soul Speed"
+			},
+			{
+				"type": "text",
+				"value": "The Soul Speed enchantment allows you to move faster on soul sand and soul soil. This increased speed is very useful when travelling through the Soul Sand Valley biome in the Nether dimension."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/soul_speed_i"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/soul_speed_ii"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/soul_speed_iii"
+			}
+		]
+	},
 	"Thorns": {
 		"index": 0,
 		"category": "enchantments",
@@ -2578,8 +3035,16 @@
 		],
 		"related_recipes": [
 			{
-				"type": "manaweaving_altar",
-				"location": "mana-and-artifice:vinteum_manaweaver_wand"
+				"location": "mana-and-artifice:vinteum_manaweaver_wand",
+				"type": "crafting"
+			},
+			{
+				"location": "mana-and-artifice:chimerite_manaweaver_wand",
+				"type": "crafting"
+			},
+			{
+				"location": "mana-and-artifice:improvised_manaweaver_wand",
+				"type": "crafting"
 			}
 		]
 	},
@@ -2700,7 +3165,7 @@
 		"related_recipes": [
 			{
 				"type": "manaweaving_altar",
-				"location": "mana-and-artifice:manaweaving/leather_from_zombie_flesh"
+				"location": "mana-and-artifice:manaweaving/utility/leather"
 			}
 		]
 	},
@@ -2791,13 +3256,137 @@
 			},
 			{
 				"type": "text",
-				"value": "形狀：墜擊會在高空中生成一個彈射物（前提是目標地點可以直視天空），這個彈射物會以施術者的指向位置作為目標點（前提是該位置處於施術者的觸及範圍內）。彈射物會快速下墜，並對撞到的第一個實體或者方塊生效。由於墜擊構件較難擊中目標，所以它會在擊中時附加額外傷害。"
+				"value": "This spell shape will spawn a projectile high up in the sky (provided the target has a clear path to the sky), targeted at the point where the caster is pointing (if in range).  The projectile will fall quickly and will affect the first entity or block it hits.  The smite shape deals extra damage on impact due to its difficulty to target."
 			}
 		],
 		"related_recipes": [
 			{
 				"type": "spell_part",
 				"location": "mana-and-artifice:shapes/smite"
+			}
+		]
+	},
+	"Shape: Wrath": {
+		"index": "1",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Wrath"
+			},
+			{
+				"type": "text",
+				"value": "This incredibly powerful channeled spell shape will call down smiting blasts of magic to strike all around me within its radius.  Like smite, it must have a clear path to the sky, so it won't be as useful in tight spaces."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:shapes/wrath"
+			}
+		]
+	},
+	"Shape: Bound Sword": {
+		"index": "1",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Bound Sword"
+			},
+			{
+				"type": "text",
+				"value": "This shape will cause the spell (or spell staff/book) to coalesce into a bound sword.  The components will be applied to whatever mob I hit with it.  The sword has a constant minor mana drain, and consumes a burst of mana with each hit.\n\nTo return it to a spell, either run out of mana or drop the sword on the ground."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:shapes/bound_sword"
+			}
+		]
+	},
+	"Shape: Bound Shield": {
+		"index": "1",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Bound Shield"
+			},
+			{
+				"type": "text",
+				"value": "This shape will cause the spell (or spell staff/book) to coalesce into a bound shield.  The components will be applied to whatever mob I block with it, as long as they are within 5 blocks of me.  The shield has a constant minor mana drain that increases while actively blocking, and consumes a burst of mana with each block.\n\nTo return it to a spell, either run out of mana or drop the shield on the ground."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:shapes/bound_shield"
+			}
+		]
+	},
+	"Shape: Bound Axe": {
+		"index": "1",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Bound Axe"
+			},
+			{
+				"type": "text",
+				"value": "This shape will cause the spell (or spell staff/book) to coalesce into a bound axe.  The components will be applied to whatever mob I hit with it.  The axe has a constant minor mana drain, and consumes a burst of mana with each hit.\n\nTo return it to a spell, either run out of mana or drop the axe on the ground."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:shapes/bound_axe"
+			}
+		]
+	},
+	"Shape: Bound Bow": {
+		"index": "1",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Bound Bow"
+			},
+			{
+				"type": "text",
+				"value": "This shape will cause the spell (or spell staff/book) to coalesce into a bound bow.  The components will be applied to whatever mob I hit with its arrows.  The bow has a constant minor mana drain, and consumes a burst of mana with each arrow fired.  However, the arrows are made of pure mana and don't require nor consume any arrows from my pack.\n\nTo return it to a spell, either run out of mana or drop the bow on the ground."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:shapes/bound_bow"
+			}
+		]
+	},
+	"Shape: Summon": {
+		"index": "1",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Summon"
+			},
+			{
+				"type": "text",
+				"value": "I can make use of the arcane arts to summon creatures to defend me.  First, I will need to fill a Crystal Phylactery with souls from the creature I want to summon.  This is done simply by having it in my pack when I kill them (though to initially set the creature type of the phylactery, it must be held in one of my hands when the creature is killed - being in my pack isn't enough).  Then, I hold the spell in one hand, and the phylactery in the other.  That will determine what I summon.\n\nIt's also worth noting that any components I put into the spell will be applied to the creature when it is summoned, so I should be aware of the implications...and the possibilities."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:shapes/summon"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/crystal_phylactery"
 			}
 		]
 	},
@@ -2961,6 +3550,26 @@
 			}
 		]
 	},
+	"Shape: Chain": {
+		"index": "1",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Chain"
+			},
+			{
+				"type": "text",
+				"value": "This shape will target a short distance away from me.  From there, if I hit a block it will jump to nearby connected blocks of the same type, applying the components of the spell to each block.  If it hits an entity, it will attempt to jump within the full radius to other entities.  It will not jump between blocks and entities."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:shapes/chain"
+			}
+		]
+	},
 	"Component: Fire Damage": {
 		"index": "2",
 		"category": "sorcery",
@@ -3051,7 +3660,7 @@
 			},
 			{
 				"type": "text",
-				"value": "我找到一種方法，可以將純淨的火焰極度壓縮，然後透過一場劇烈的爆炸釋放出能量。如此操作的結果，其光效與閃電幾無二致。這一法術創造出來的爆炸似乎有一定機率能夠在敵人之間跳躍，機率的大小依賴於法術中的增強 I 構件的數量。這在應對大批敵人的情況下可十分有用。"
+				"value": "I've figured out a way to channel pure fire into a blast so concentrated that it more resembles lightning than anything else.  The charge it creates seems to have a chance to arc to other targets based on the amount of magnitude I put into it.  This could be useful against large groups of enemies."
 			}
 		],
 		"related_recipes": [
@@ -3139,7 +3748,7 @@
 			},
 			{
 				"type": "text",
-				"value": "我找到了一種方法，這一方法可以讓我在本維度以及其他臨近維度之間撕開一個小裂隙。裂隙的大小不足以讓我透過，但我能感覺，裂隙通向的總是同一個空間。也許我可以將我的物品儲存於這個裂隙中，這樣那些小偷小摸之人就侵犯不到我的財產了。\n\n如果將這個法術對自己施放，別人就完全沒有了可乘之機：法術打開的裂隙只能由我查看，並且在我關閉後，裂隙會立即消失。\n\n有趣的是，哪怕其他巫師與我召喚出來的裂隙互動，他們打開的空間也是與我打開的不一樣的，這可能是由於法術構成式中的各部分之間的微妙反應不盡相同。"
+				"value": "I have discovered how to tear a small rift between this dimension and one of the neighbouring ones.  It's not large enough to fit myself through, but it does always seem to go to the same place for me.  Maybe I can use it to store a few things safely away from prying eyes and sticky fingers.\n\nEven moreso if I cast it on myself, this opens the rift just for me and immediately closes it when I am done with it.\n\nInterestingly, other mages that interact with rifts find that for them it opens to a different location, even if I am the one to summon it.  It must be something to do with how their magic interacts with the spell's formula."
 			}
 		],
 		"related_recipes": [
@@ -3169,6 +3778,290 @@
 			}
 		]
 	},
+	"Component: Levitate": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Levitate"
+			},
+			{
+				"type": "text",
+				"value": "I can use a combination of arcane and wind magic to lift my target into the air and allow them a limited form of flight.  The movement is slow, but some days, that still beats walking."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/levitate"
+			}
+		]
+	},
+	"Component: Exchange": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Exchange"
+			},
+			{
+				"type": "text",
+				"value": "I can use this effect to exchange a block that's hit with a block in my other hand.  I've discovered that the first time this happens in a spell, it will 'set' the block type and will consume additional blocks even from my pack if the stack in my hand runs out.  This is particularly notable for spells that target a large area, or for channeled spells."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/exchange"
+			}
+		]
+	},
+	"Component: Fossilize": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Fossilize"
+			},
+			{
+				"type": "text",
+				"value": "This powerful magic I've discovered seems to be somewhat of a double-edged sword.\n\nIt greatly fortifies me against powerful blows, but makes my defense much more brittle against smaller attacks, much like a diamond: extremely hard but will shatter if struck just right.\n\nAll incoming attacks cannot do more than 4 damage (2 hearts) to me, but anything that does less will be increased to 4 damage.  My armor and other defensive abilities should still protect me from some of the damage after this effect is applied, however.\n\nThis might be a good candidate for shorter durations, and I can see several offensive possibilities to apply this to my target as well..."
+			},
+			{
+				"type": "text",
+				"value": "WARNING:  This spell part can only be crafted by those who have aligned themselves with the Undead."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/fortification"
+			}
+		]
+	},
+	"Component: Shear": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Shear"
+			},
+			{
+				"type": "text",
+				"value": "In my ever-present quest to eschew physical tools, I have figured out a way to precisely control a burst of magic to apply a shearing effect.  This will work well for things like sheep, but will also help me manipulate blocks, such as carving a pumpkin."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/shear"
+			}
+		]
+	},
+	"Component: Wind Wall": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Wind Wall"
+			},
+			{
+				"type": "text",
+				"value": "I've plucked arrows out of my armor (and limbs) for the last time!  I've found a way to create a dense barrier of whirling wind surrounding me.  With this wind, I can redirect arrows and other projectiles that are launched at me.  If I increase the power of the wind, I can even cause it to reflect the projectile back at its source!\n\nThis will teach the first skeleton I see a lesson."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/wind_wall"
+			}
+		]
+	},
+	"Component: Felled Oak": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Felled Oak"
+			},
+			{
+				"type": "text",
+				"value": "Using a similar form of magic to Break, I can cause entire trees to fall at my whim."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/felled_oak"
+			}
+		]
+	},
+	"Component: Mist Form": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Mist Form"
+			},
+			{
+				"type": "text",
+				"value": "I can use the necromantic arts to turn myself into living mist.  While I am in the form of mist, I can fly, pass through any non-solid block, and take reduced damage when attacked, but I can't interact with any block, item, or entity.\n\nTo end the effect early, double tap space as if to fly.\n\nWARNING:  This spell part can only be crafted by those who have aligned themselves with the Undead."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/mist_form"
+			}
+		]
+	},
+	"Component: Mind Vision": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Mind Vision"
+			},
+			{
+				"type": "text",
+				"value": "I can use a forbidden branch of magic to access the mind of another, seeing what they see for a short time.\n\nTo end the effect early, double tap space as if to fly.\n\nWARNING:  This spell part can only be crafted by those who have aligned themselves with the Undead."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/mind_vision"
+			}
+		]
+	},
+	"Component: Recall": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Recall"
+			},
+			{
+				"type": "text",
+				"value": "I can focus my arcane magic on a Rune of Marking held in my hand to transport the spell's target to its marked location instantly.  It can go about 500 blocks per magnitude, and might get them into trouble if the marked location is in a different dimension.  In those cases, a Ritual of Return would be the better choice."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/recall"
+			}
+		]
+	},
+	"Component: Eldrin Flight": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Eldrin Flight"
+			},
+			{
+				"type": "text",
+				"value": "By focusing on the ambient streams of magic that form the eldrin wellsprings of the world, I can attune my own magic to them and cause my target to be swept up and carried along them at immense speed.\n\nThis spell requires being cast twice in order to work.  The first cast no matter the target will cause my target to start seeing eldrin wellsprings for about 10 seconds.  The second cast will cause the target to launch along the closest eldrin wellspring to where they are looking.  The spell will place me at the surface of the world, or if the Eldrin Wellspring is captured, it will place me within the capture, if able.\n\nIt also appears that I can see the affinities of the eldrin wellsprings I might travel to when choosing.  This might help in selecting which one I want to navigate towards.\n\nIt seems this spell can only target me and other wizards, and only if they are allied with me (Minecraft Scoreboard Teams)."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/eldrin_flight"
+			}
+		]
+	},
+	"Component: Summon Skeletal Horse": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Summon Skeletal Horse"
+			},
+			{
+				"type": "text",
+				"value": "I can reach across the border of death to animate bones to carry me where I need to go.\n\nWARNING:  This spell part can only be crafted by those who have aligned themselves with the Undead."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/summon_skeletal_horse"
+			}
+		]
+	},
+	"Component: Possession": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Possession"
+			},
+			{
+				"type": "text",
+				"value": "I can invade the mind of another to force them to do my bidding.  Left clicking while posessing a target may sometimes yield special abilities.\n\nTo end the effect early, double tap space as if to fly.\n\nWARNING:  This spell part can only be crafted by those who have aligned themselves with the Undead."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/posession"
+			}
+		]
+	},
+	"Component: Living Bomb": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Living Bomb"
+			},
+			{
+				"type": "text",
+				"value": "I can ignite my target into a living bomb.  They will take fire damage based on the magnitude of the spell.  If they die while under the effect of this spell, they will explode based on the magnitude of the spell.  This explosion will also cause any targets hit by it to then be affected by Living Bomb as well, though a weaker version of it."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/living_bomb"
+			}
+		]
+	},
+	"Component: Wither": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Wither"
+			},
+			{
+				"type": "text",
+				"value": "I can tap into the slow decay of the grave and accelerate the process, making my target wither before my very eyes."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/wither"
+			}
+		]
+	},
 	"Component: Divination": {
 		"index": "2",
 		"category": "sorcery",
@@ -3179,7 +4072,7 @@
 			},
 			{
 				"type": "text",
-				"value": "將奧術以及終界魔法相結合，我可以對附近礦的位置進行占卜，讓我能夠短距離穿牆看到它們。如果我在副手拿著一個方塊，法術將只會顯示這一方塊的位置。"
+				"value": "I can use a combination of arcane and ender magic to divine the location of nearby ores, making them visible to me through walls at a short distance.  If I hold a block in my offhand, it will focus the spell on finding that block."
 			}
 		],
 		"related_recipes": [
@@ -3239,7 +4132,7 @@
 			},
 			{
 				"type": "text",
-				"value": "我可以召喚出一個供我短時間內合成物品的工作檯虛影。如果我或者有人在這個工作檯旁邊，我便能夠不費什麼力氣地維繫它的存在，但若是無人在其側，那它便會在一分鐘後消失。\n\nAlternately, if I simply cast the component on myself, I can create a small workbench that only I can use immediately, and it will dissipate the moment I am done with it."
+				"value": "I can conjure a phantasmal workbench that will allow me to craft items at it for a short duration.  I'm able to effortlessly maintain the workbench as long as I or any other person is close to it, but otherwise it will fade after one minute.\n\nAlternately, if I simply cast the component on myself, I can create a small workbench that only I can use immediately, and it will dissipate the moment I am done with it."
 			}
 		],
 		"related_recipes": [
@@ -3259,7 +4152,7 @@
 			},
 			{
 				"type": "text",
-				"value": "我可以使用魔法，短時間內予以方塊生命！在回到他們原先位置之前，他們會在我的周圍一蹦一蹦的閒逛，還會幫助我攻擊敵人。\n\nThis component will cause all further components within the spell to affect the animated block rather than the original target.\n\n注意：只有與仙女之庭結盟的人才能運用這一法術構件。"
+				"value": "I can use my magic to bring blocks to life for a short time!  They'll hop around and attack my enemies before returning to a block where they stand.\n\nThis component will cause all further components within the spell to affect the animated block rather than the original target.\n\nWARNING: This can only be crafted by those who have aligned themselves to the Ancient Council of Wizards."
 			}
 		],
 		"related_recipes": [
@@ -3339,7 +4232,7 @@
 			},
 			{
 				"type": "text",
-				"value": "將氣魔法與地魔法粗略混合，我可以使簡單的方塊暫時違逆重力，並漂浮到半空中，然後它會在一個適當的位置停住。\n\nThis component will cause all further components within the spell to affect the floating block rather than the original target."
+				"value": "Using some rudimentary mix of air and earth magic, I can cause simple blocks to temporarily defy gravity and float upwards into the sky before locking in place.\n\nThis component will cause all further components within the spell to affect the floating block rather than the original target."
 			},
 			{
 				"type": "text",
@@ -3363,7 +4256,7 @@
 			},
 			{
 				"type": "text",
-				"value": "我可以使用地魔法，使得一些簡單的方塊在短時間內受到重力的影響。\n\nThis component will cause all further components within the spell to affect the rising block rather than the original target.\n\n下一次見到苦力怕，我得先把它拋斥開，然後再對著它旁邊的隧道使用塌陷魔法！"
+				"value": "I can use earth magic to cause simple blocks to fall under the influence of gravity for a short time.\n\nThis component will cause all further components within the spell to affect the rising block rather than the original target.\n\nNext time I see that creeper, I intend to fling it backwards and collapse the tunnel around it!"
 			}
 		],
 		"related_recipes": [
@@ -3423,7 +4316,7 @@
 			},
 			{
 				"type": "text",
-				"value": "我反覆思考：如何開發火焰法術的更多功用？我知曉許多火焰所能能辦到的獨特用處：取暖，燒煮食物，工業生產等等。但火焰是否能應用於恢復生命值？我認為，只要足夠小心地操控火焰，就能夠用其封閉我的傷口。火焰儘管會在燒灼我的那一瞬間對我造成傷害，但在此之後卻能帶給我更大的益處。It also seems that if fire is somehow unable to affect the target, then the beneficial healing of the spell is not applied either.\n\n增強 1：造成傷害 2，治療生命值 4\n\n增強 2：造成傷害 4，治療生命值 8\n\n增強 3：造成傷害 8，治療生命值 16\n\n注意：只有與地獄惡魔結盟的人才能運用這一法術構件。"
+				"value": "I've been thinking of a way to use fire spells to do more than destroy.  I know there are many effects of fire that are beneficial:  warmth, cooked food, industry.  But what about the preservation of life?  I believe with some carefully applied fire, I can seal up wounds.  It will hurt initially, but the overall benefit will be greater.  It also seems that if fire is somehow unable to affect the target, then the beneficial healing of the spell is not applied either.\n\nMagnitude 1: Damage 2, heal 4\n\nMagnitude 2: Damage 4, heal 8\n\nMagnitude 3: Damage 8, heal 16\n\nWARNING: This can only be crafted by those allied with the Demons of the Nether."
 			}
 		],
 		"related_recipes": [
@@ -3583,7 +4476,7 @@
 			},
 			{
 				"type": "text",
-				"value": "我曾學習過如何從仙女之庭中召喚出具有保護能力的尖刺與藤蔓。These thorns will protect me from swords and bows like an armored carapace (albeit a small amount of armor; I should probably use it to enhance existing armor instead of relying on it completely).  So too will they protect from things like  cacti and sweet berries or other thorns。它也會對攻擊我的人予以報復。\n\n注意：只有與仙女之庭結盟的人才能運用這一法術構件。"
+				"value": "I have been shown how to pull protective thorns and vines from the very fey court itself.  These thorns will protect me from swords and bows like an armored carapace (albeit a small amount of armor; I should probably use it to enhance existing armor instead of relying on it completely).  So too will they protect from things like  cacti and sweet berries or other thorns.  It will also retaliate against attackers.\n\nWARNING: This can only be crafted by those allied with the Fey Courts."
 			}
 		],
 		"related_recipes": [
@@ -3603,7 +4496,7 @@
 			},
 			{
 				"type": "text",
-				"value": "提起奇詭之術，人們往往會想起仙女們。這種聯想的確實是有道理的，誘像法術會創造出兩個向前奔跑的我的幻像。這種幻像會吸引走那些想要傷害我的敵人的注意力，並且附加的增強構件越多，注意力轉移的現象發生機率越高。\n\nThis component will cause all further components within the spell to affect the decoy rather than the original target.\n\n注意：只有與仙女之庭結盟的人才能運用這一法術構件。"
+				"value": "Trickery is something the fey are known for.  It's true, this decoy will create an illusory double of me that will run forward.  It will draw the attention of enemies that seek to do me harm, and is more likely to do so with a higher magnitude.\n\nThis component will cause all further components within the spell to affect the decoy rather than the original target.\n\nWARNING: This can only be crafted by those allied with the Fey Courts."
 			}
 		],
 		"related_recipes": [
@@ -3663,7 +4556,7 @@
 			},
 			{
 				"type": "text",
-				"value": "有些巫師話真的很多，我得想出一種辦法來讓他們閉嘴。這個法術應該可以讓他們把嘴乖乖閉上，與此同時，這還可以防止他們施放法術。我不太確定哪個作用比較有價值。"
+				"value": "Other wizards talk too much.  I should do something about that.  This spell should quiet them down, and at the same time prevent them from casting spells.  I'm not sure which one is more valuable."
 			}
 		],
 		"related_recipes": [
@@ -4033,6 +4926,26 @@
 			}
 		]
 	},
+	"Modifier: Delay": {
+		"index": "3",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Delay"
+			},
+			{
+				"type": "text",
+				"value": "I can choose to make the components within my spells affect the target a short delay after hitting them.  It doesn't matter if they move, teleport, run, or hide.  They're mine."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:modifiers/delay"
+			}
+		]
+	},
 	"Modifier: Range": {
 		"index": "3",
 		"category": "sorcery",
@@ -4140,8 +5053,12 @@
 				"location": "mana-and-artifice:purified_vinteum_dust"
 			},
 			{
-				"type": "crafting",
-				"location": "mana-and-artifice:manaweaver_wand"
+				"location": "mana-and-artifice:vinteum_manaweaver_wand",
+				"type": "crafting"
+			},
+			{
+				"location": "mana-and-artifice:chimerite_manaweaver_wand",
+				"type": "crafting"
 			},
 			{
 				"type": "crafting",
@@ -4163,7 +5080,7 @@
 			},
 			{
 				"type": "text",
-				"value": "天光乍露，黎明破曉。這一儀式可以將黑夜轉換為白天，只能在夜晚或是暴風雨天氣進行該儀式。"
+				"value": "This ritual will turn night into day.  It can only be performed at night or during thunderstorms."
 			}
 		],
 		"related_recipes": [
@@ -4227,7 +5144,7 @@
 			},
 			{
 				"type": "text",
-				"value": "鐵鐘嗡鳴，響徹太虛。一名神秘的實體會被召來此處，人們都稱其為派系中間人。這一實體會停留於此半天時間，你可以用自身所屬派系的生物以及一些派系標誌（透過擊敗你遇到的派系敵人獲得），來換取其他兩個派系的聖物。我得確保在召喚它之前準備好至少一個可用於交易的聖物，以及各派系各一組的標誌才行。"
+				"value": "The tolling of the iron bell rings out into the ether, summoning a mysterious entity only known as The Broker.  This entity will remain for one half day and will trade a combination of faction tokens (which are obtained by defeating faction enemies when encountered) and relics of my own faction for obtained relics of the other two factions.  I should ensure that I have one of each of my faction's relics available for trade and at least a stack of each of the faction tokens before calling upon the Broker."
 			}
 		],
 		"related_recipes": [
@@ -4515,7 +5432,7 @@
 			},
 			{
 				"type": "text",
-				"value": "有一些儀式專門用於製造元素微核。每種元素親和都對應著一對儀式/微核，Be sure to check the ritual entries in this codex as the mote rituals all have special conditions required in order to perform the ritual.\n\n這些儀式是：\n\n永恆虛空儀式 / 終界微核\n\n遺忘之知儀式 / 魔法微核\n\n不羈之風儀式 / 氣湧微核\n\n焦灼煉獄儀式 / 火炎微核\n\n淵極之海儀式 / 流水微核\n\n遠古之石儀式 / 大地微核"
+				"value": "There are rituals that exist to create various elemental motes.  There is one ritual/mote for each affinity.  Be sure to check the ritual entries in this codex as the mote rituals all have special conditions required in order to perform the ritual.\n\nThe rituals are:\n\nRitual of the Endless Void / Mote of Ender\n\nRitual of Forgotten Lore / Mote of Magic\n\nRitual of the Untamed Wind / Mote of Air\n\nRitual of the Searing Inferno / Mote of Fire\n\nRitual of the Deep Ocean / Mote of Water\n\nRitual of Ancient Stone / Mote of Earth."
 			}
 		],
 		"related_recipes": [
@@ -4555,13 +5472,17 @@
 			},
 			{
 				"type": "text",
-				"value": "一筆一劃地在地上畫出儀式，一次還好，次數多了既費時又耗力。使用儀式袋可以幫助你解決這一問題。\n\n啟動儀式後，儀式會顯示出所需要的耗材，擺放好耗材之後，拿著儀式袋按住 GUI 鍵（預設為左 Ctrl）並右擊儀式中心，即可將儀式袋與該儀式綁定。\n\n潛行右擊空氣可以打開袋子。在其中你可以放上粉筆以及儀式耗材。\n\n對著平坦且空間足夠的表面右擊儀式袋，將會立刻在目標處開啟一個與儀式袋綁定的儀式。這一過程消耗的是儀式袋內的物品。\n\n此外，使用儀式袋布置的儀式，在儀式執行速度上將會比手動布置的儀式快很多。\n\nRitual kits can store multiple rituals.  Select a slot before binding or placing using the UI key (default 「Z」) and the radial menu."
+				"value": "Having to draw out a ritual each and every time can be time consuming.  Enter the ritual kit.\n\nTo bind the kit to a specific ritual pattern, sneak while activating the centre of a ritual.\n\nHold the GUI key (default left Ctrl) and right click the kit to open the bag.  Place all items needed for the ritual inside the kit.\n\nActivating the kit on a sufficiently sized, empty flat space will instantly place and activate the ritual.  Items will be consumed from the kit.\n\nAdditionally, rituals activated from a kit complete significantly faster than ones drawn manually.\n\nRitual kits can store multiple rituals.  Select a slot before binding or placing using the UI key (default 'z') and the radial menu."
 			}
 		],
 		"related_recipes": [
 			{
 				"type": "crafting",
 				"location": "mana-and-artifice:rituals/ritual_kit"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/rituals/fast_ritual_kit"
 			}
 		]
 	},
@@ -4665,11 +5586,11 @@
 		"related_recipes": [
 			{
 				"type": "manaweaving_altar",
-				"location": "mana-and-artifice:manaweaving/manaweaving_runic_silk"
+				"location": "mana-and-artifice:manaweaving/intermediate/infused_silk"
 			},
 			{
 				"type": "manaweaving_altar",
-				"location": "mana-and-artifice:manaweaving/manaweaving_infused_silk"
+				"location": "mana-and-artifice:manaweaving/intermediate/runic_silk"
 			}
 		]
 	},
@@ -5074,7 +5995,7 @@
 		"related_recipes": [
 			{
 				"type": "manaweaving_altar",
-				"location": "mana-and-artifice:manaweaving/bubble_boat"
+				"location": "mana-and-artifice:manaweaving/artifice/bubble_boat"
 			}
 		]
 	},
@@ -5094,7 +6015,7 @@
 		"related_recipes": [
 			{
 				"type": "manaweaving_altar",
-				"location": "mana-and-artifice:manaweaving/brimstone_boat"
+				"location": "mana-and-artifice:manaweaving/artifice/brimstone_boat"
 			}
 		]
 	},
@@ -5115,6 +6036,46 @@
 			{
 				"type": "manaweaving_altar",
 				"location": "mana-and-artifice:manaweaving/artifice/brimstone_charm"
+			}
+		]
+	},
+	"Enderfeather Charm": {
+		"index": 0,
+		"category": "artifice",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Enderfeather Charm"
+			},
+			{
+				"type": "text",
+				"value": "The Enderfeather Charm is a single use item that, while expensive, will return me to my bed (or equivalent) regardless of distance as long as I'm in the same dimension.  I'm sure there are less expensive means of achieving a similar effect as I grow my abilities."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/artifice/enderfeather_charm"
+			}
+		]
+	},
+	"Bonefeather Charm": {
+		"index": 0,
+		"category": "artifice",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Bonefeather Charm"
+			},
+			{
+				"type": "text",
+				"value": "The Bonefeather Charm is a single use item that will automatically protect me from lethal fall damage.  If a fall would not be lethal, the charm will do nothing.  I'm sure there are less expensive means of achieving a similar effect as I grow my abilities."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/artifice/bonefeather_charm"
 			}
 		]
 	},
@@ -5190,7 +6151,175 @@
 			},
 			{
 				"type": "manaweaving_altar",
-				"location": "mana-and-artifice:manaweaving/manaweaving_infused_silk"
+				"location": "mana-and-artifice:manaweaving/intermediate/infused_silk"
+			}
+		]
+	},
+	"Infernal Armor": {
+		"index": 0,
+		"category": "eldrin_altar",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Infernal Armor"
+			},
+			{
+				"type": "text",
+				"value": "The pinnacle of demonic defense, the Infernal Armor is nearly impervious to damage.  The flames imbued into it allow me to achieve extreme speeds while sprinting, and if jumping while sprinting I will launch into the air.\n\nWhile airborne, if I crouch I will rocket myself down towards the ground, impacting in a fiery explosion.\n\nThe armor renders me completely immune to explosive and fire damage, and if I am burning, the flames empower the armor and allow me to strike in melee with far more power than I would otherwise be able to."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "eldrin_altar",
+				"location": "mana-and-artifice:eldrin_altar/armor/infernal_helm"
+			},
+			{
+				"type": "eldrin_altar",
+				"location": "mana-and-artifice:eldrin_altar/armor/infernal_chestplate"
+			},
+			{
+				"type": "eldrin_altar",
+				"location": "mana-and-artifice:eldrin_altar/armor/infernal_greaves"
+			},
+			{
+				"type": "eldrin_altar",
+				"location": "mana-and-artifice:eldrin_altar/armor/infernal_boots"
+			}
+		]
+	},
+	"Spellweaver Armor": {
+		"index": 0,
+		"category": "eldrin_altar",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Spellweaver Armor"
+			},
+			{
+				"type": "text",
+				"value": "When most think of an archmage, they often think of a long beard and flowing robes.  While not archmage armor, the spellweaver armor is the battle standard for the Wizard Council's magi, used by many of their adept wizards and is inspired by the archmage's armor itself.  The armor itself is as strong as a knight's chainmail, and while wearing it, I have significantly more mana and mana regeneration.  It also allows limited levitation flight (double tap space to toggle).  Finally, it has a replenishing bank of three defensive runes that will reflect projectiles.  Each rune goes dormant after reflecting a projectile, and will come back online after a brief recharge period of a few seconds, allowing it to reflect another projectile."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "eldrin_altar",
+				"location": "mana-and-artifice:eldrin_altar/armor/spellweaver_runes"
+			},
+			{
+				"type": "eldrin_altar",
+				"location": "mana-and-artifice:eldrin_altar/armor/spellweaver_robes"
+			},
+			{
+				"type": "eldrin_altar",
+				"location": "mana-and-artifice:eldrin_altar/armor/spellweaver_leggings"
+			},
+			{
+				"type": "eldrin_altar",
+				"location": "mana-and-artifice:eldrin_altar/armor/spellweaver_boots"
+			}
+		]
+	},
+	"Druidic Armor": {
+		"index": 0,
+		"category": "eldrin_altar",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Druidic Armor"
+			},
+			{
+				"type": "text",
+				"value": "Several village elders tell legends of the druids of old, who were able to link themselves to nature in extreme ways.  In reality, these druids were simply high ranking allies of the fey, gifted with powerful artifacts and spells.  One of the highest gifts was the Druidic Armor, which is imbued with the trickery of the fey as well as their chaotic yet gentle embrace.  While not as strong as some of the other faction armors in terms of physical defense, the ironwood it is composed of is as strong as common plate armor.  When wearing this armor, the wings on the back will allow me to fly or hover depending on my preference (double tap to start or stop hovering, single tap while falling to enter elytra flight).  It also has a chance to teleport or levitate melee attackers, and a chance to reflect projectiles.  Lastly, when my health gets low, it will apply a regenerating effect to me, though it can only do so every so often."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "eldrin_altar",
+				"location": "mana-and-artifice:eldrin_altar/armor/druidic_antlers"
+			},
+			{
+				"type": "eldrin_altar",
+				"location": "mana-and-artifice:eldrin_altar/armor/druidic_buckskin"
+			},
+			{
+				"type": "eldrin_altar",
+				"location": "mana-and-artifice:eldrin_altar/armor/druidic_leggings"
+			},
+			{
+				"type": "eldrin_altar",
+				"location": "mana-and-artifice:eldrin_altar/armor/druidic_slippers"
+			}
+		]
+	},
+	"Bone Armor": {
+		"index": 0,
+		"category": "eldrin_altar",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Witherbone Armor"
+			},
+			{
+				"type": "text",
+				"value": "Members of the undead embody the unstoppable resilience of death while wearing the Witherbone armor.  It is as strong as even the most hardy armor forged from the metals of the nether, boasting near immunity to physical damage.  This armor causes the wearer to drain life away at a touch, regenerating souls simply by causing damage.  It also prevents the death of the wearer, instead shifting them to a cloud of mist allowing them to fly and make their escape.\n\nIf you take damage that would kill you while wearing this armor, that damage is reduced so that you are left with one hit point and you immediately enter mist form.  If you have one hit point, you die as normal.  This effect has no cooldown."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "eldrin_altar",
+				"location": "mana-and-artifice:eldrin_altar/armor/bone_skullcap"
+			},
+			{
+				"type": "eldrin_altar",
+				"location": "mana-and-artifice:eldrin_altar/armor/bone_cuirass"
+			},
+			{
+				"type": "eldrin_altar",
+				"location": "mana-and-artifice:eldrin_altar/armor/bone_greaves"
+			},
+			{
+				"type": "eldrin_altar",
+				"location": "mana-and-artifice:eldrin_altar/armor/bone_boots"
+			}
+		]
+	},
+	"Greater Motes": {
+		"index": 0,
+		"category": "eldrin_altar",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Greater Motes"
+			},
+			{
+				"type": "text",
+				"value": "Now that I've harnessed some of the power of the eldrin wellsprings, I can use their power to create more powerful versions of the elemental motes.  These motes contain far more potent concentrates of the affineal elements, and will allow me to create far more powerful artifacts than I could before."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "eldrin_altar",
+				"location": "mana-and-artifice:eldrin_altar/mote/greater_mote_arcane"
+			},
+			{
+				"type": "eldrin_altar",
+				"location": "mana-and-artifice:eldrin_altar/mote/greater_mote_ender"
+			},
+			{
+				"type": "eldrin_altar",
+				"location": "mana-and-artifice:eldrin_altar/mote/greater_mote_fire"
+			},
+			{
+				"type": "eldrin_altar",
+				"location": "mana-and-artifice:eldrin_altar/mote/greater_mote_water"
+			},
+			{
+				"type": "eldrin_altar",
+				"location": "mana-and-artifice:eldrin_altar/mote/greater_mote_air"
+			},
+			{
+				"type": "eldrin_altar",
+				"location": "mana-and-artifice:eldrin_altar/mote/greater_mote_earth"
 			}
 		]
 	},
@@ -5295,7 +6424,7 @@
 			},
 			{
 				"type": "manaweaving_altar",
-				"location": "mana-and-artifice:manaweaving/eldritch_orb"
+				"location": "mana-and-artifice:manaweaving/artifice/eldritch_orb"
 			}
 		]
 	},
@@ -5357,7 +6486,7 @@
 			},
 			{
 				"type": "text",
-				"value": "這一魔力充盈的手鐲會保護我不受火焰與熔岩的侵害。當然，我還是得謹慎些，因為它並不能永遠的保護我，最終還是會停止工作的，需要重新充能方可恢復使用。\n\n這一手鐲只能由那些與地獄惡魔結成同盟的人製作出來。"
+				"value": "This enchanted bracelet will protect me from fire and lava.  I must take care though, as it's protection will not last forever and it will eventually stop working, needing to be recharged.\n\nThis bracelet can only be crafted by those that have aligned themselves with the Demons of the Nether."
 			}
 		],
 		"related_recipes": [
@@ -5367,27 +6496,51 @@
 			}
 		]
 	},
-	"Ley Line Bracelet": {
+	"Coffin": {
 		"index": 0,
 		"category": "artifice",
 		"sections": [
 			{
 				"type": "title",
-				"value": "魔脈手鐲"
+				"value": "Coffin"
 			},
 			{
 				"type": "text",
-				"value": "這一魔力充盈的手鐲會牽引周圍殘存的魔法微粒，如果我離魔脈的距離足夠近，它也可以抽取魔脈中的能量。當我魔力捉襟見肘時，可以利用這一手鐲為我的法術充能。還是比較值的，畢竟誰都會有魔力不夠用的情況。\n\n這一手鐲只能由那些與遠古巫師議會結成同盟的人製作出來。"
+				"value": "A staple of the undead, the coffin functions like a bed but only for those that have joined the ranks of the undead.  It also restores a portion of the souls that the undead use to fuel their spells.\n\nThis coffin can only be crafted by those that have allied themselves with the ranks of the undead."
 			}
 		],
 		"related_recipes": [
 			{
 				"type": "manaweaving_altar",
-				"location": "mana-and-artifice:manaweaving/artifice/ley_line_bracelet"
+				"location": "mana-and-artifice:manaweaving/artifice/coffin"
+			}
+		]
+	},
+	"Bracelet of Eldrin Power": {
+		"index": 0,
+		"category": "artifice",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Bracelet of Eldrin Power"
+			},
+			{
+				"type": "text",
+				"value": "This enchanted bracelet allows me to draw power from nearby motes of residual magic as well as eldrin wellsprings if I am close enough.  I can use this to fuel my spells when I would otherwise not have enough mana.  It might be worth making something to help me see them.\n\nThis bracelet can only be crafted by those that have aligned themselves with the Council of Wizards."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/artifice/eldrin_bracelet"
 			},
 			{
 				"type": "manaweaving_altar",
-				"location": "mana-and-artifice:manaweaving/sight_unguent"
+				"location": "mana-and-artifice:manaweaving/eldrin_sight_unguent"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/wellspring_sight_unguent"
 			}
 		]
 	},
@@ -5499,6 +6652,26 @@
 			}
 		]
 	},
+	"Ring of Brittle Bone": {
+		"index": 0,
+		"category": "artifice",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Ring of Brittle Bone"
+			},
+			{
+				"type": "text",
+				"value": "This sinister ring, when worn, seems to draw more of the mystical life force out of targets killed by undead wizards.\n\nWARNING: This ring can only be crafted by those that have allied themselves with the Undead."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/artifice/bone_ring"
+			}
+		]
+	},
 	"Belt of Locks": {
 		"index": 0,
 		"category": "artifice",
@@ -5569,7 +6742,7 @@
 			},
 			{
 				"type": "text",
-				"value": "穿戴上這枚護身符，在施法的時候，若我的另一隻手拿著一把劍，那麼護身符將會提升 15% 的法術傷害。\n\n因為哪怕是巫師也得身兼數職。"
+				"value": "This amulet, when worn, will increase the damage of my spells cast by 15% while I have a sword in the other hand.\n\nBecause even wizards need to multiclass."
 			}
 		],
 		"related_recipes": [
@@ -5589,7 +6762,7 @@
 			},
 			{
 				"type": "text",
-				"value": "穿戴上這枚護身符，它會減少 20% 我所受到的魔法傷害。"
+				"value": "This amulet, when worn, will reduce magic damage I take by 20%."
 			}
 		],
 		"related_recipes": [
@@ -5609,7 +6782,7 @@
 			},
 			{
 				"type": "text",
-				"value": "穿戴上這枚護身符，它將會保護我免受由凋零以及它的邪惡爪牙對我施加的惡毒效果，前提是它得有魔力。"
+				"value": "This amulet, when worn, will protect me from the nefarious effects caused by the aptly named Wither and its skeletal minions as long as it has charge."
 			}
 		],
 		"related_recipes": [
@@ -5659,17 +6832,17 @@
 			}
 		]
 	},
-	"Ring of Transportation": {
+	"Ring of Collection (Greater)": {
 		"index": 0,
 		"category": "artifice",
 		"sections": [
 			{
 				"type": "title",
-				"value": "運輸之戒"
+				"value": "Ring of Collection (Greater)"
 			},
 			{
 				"type": "text",
-				"value": "戴上這枚戒指後，會使我的破解法術試圖將物品運送到我手邊由標記符文標記的容器中。 如果該容器由於某種原因無法到達，例如未裝載或在另一個空間，它將試圖把它們放到我的物品欄中。 如果我的物品欄已滿，它將把它們丟在我腳下。"
+				"value": "This ring, when worn, will cause my break spells to attempt to transport items to a contained marked by a Rune of Marking in my offhand.  If the container is for whatever reason unreachable, for example unloaded or in another dimension, it will attempt to instead put them in my inventory.  If my inventory is full, it will drop them at my feet."
 			}
 		],
 		"related_recipes": [
@@ -5970,7 +7143,7 @@
 			},
 			{
 				"type": "text",
-				"value": "這一儀式可以將知識元素和研究元素聚合為精華。\n\n這一儀式要求其外圍要有足夠多的能夠提升附魔能力的方塊（例如書櫃），我覺得 10 個應該夠了。"
+				"value": "This ritual coalesces the elements of knowledge and study into an essence.\n\nThis ritual must be done by placing enough blocks that improve enchantments (such as bookshelves) anywhere along the ritual's outer border.  I think ten should do the trick."
 			},
 			{
 				"type": "image",
@@ -6094,6 +7267,70 @@
 			}
 		]
 	},
+	"Cold Dark": {
+		"index": 0,
+		"category": "rituals",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Ritual of the Cold Dark"
+			},
+			{
+				"type": "text",
+				"value": "This ritual calls out to the legions of the Undead.  By doing so, you are offering to align yourself with the undead in exchange for access to their dark powers.\n\nIf the undead respond, they will give you a sign.  Follow the instructions if you believe you are worthy.\n\nAllying oneself with such entities will almost assuredly make enemies of others."
+			},
+			{
+				"type": "text",
+				"value": "WARNING:  The undead faction is a much more difficult faction to play.  Your casting resource becomes souls, something that does not naturally regenerate.  You must kill others to obtain their souls.  Other undead give the least, then animals, then monsters, then villagers, then players.\n\nYou can sleep in coffins as if they were beds, will burn in sunlight, but can breathe underwater.  Wearing a helmet can mitigate the burning but eventually the helmet will burn away and break.\n\nChoose this path at your own risk."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "ritual",
+				"location": "mana-and-artifice:rituals/cold_dark"
+			}
+		]
+	},
+	"Sanctum Invocation": {
+		"index": 0,
+		"category": "rituals",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Ritual of Sanctum Invocation"
+			},
+			{
+				"type": "text",
+				"value": "This ritual Designates a place of power for your faction.  Upon completion, it spawns a single block, a 'circle of power'.  Right click this block to display a structure that you will then need to build.  Upon completion, the circle of power will activate.  Allied faction players (and you of course) when standing near or within the completed structure will gain a powerful buff to their spell casting, causing more damage with spells and making their buffs last significantly longer."
+			},
+			{
+				"type": "text",
+				"value": "For the undead, this sanctum serves an additional purpose.  Enemies within the sanctum will be given the 'Vulnerable Soul' debuff.  Killing enemies with this debuff will yield significantly more souls than normal."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "ritual",
+				"location": "mana-and-artifice:rituals/circle_of_power"
+			},
+			{
+				"type": "multiblock",
+				"location": "mana-and-artifice:multiblock/council_circle"
+			},
+			{
+				"type": "multiblock",
+				"location": "mana-and-artifice:multiblock/demon_circle"
+			},
+			{
+				"type": "multiblock",
+				"location": "mana-and-artifice:multiblock/fey_circle"
+			},
+			{
+				"type": "multiblock",
+				"location": "mana-and-artifice:multiblock/undead_circle"
+			}
+		]
+	},
 	"Flat Lands": {
 		"index": 0,
 		"category": "rituals",
@@ -6176,23 +7413,55 @@
 			}
 		]
 	},
-	"Unguent of Seeing": {
+	"Unguent of Sight": {
 		"index": 0,
 		"category": "manaweaving",
 		"sections": [
 			{
 				"type": "title",
-				"value": "視之藥膏"
+				"value": "Unguent of Sight"
 			},
 			{
 				"type": "text",
-				"value": "視之藥膏是一種混合物，將其敷在眼睛上時，可以讓使用者在一小段時間內看清環繞在他周圍的靈氣。\n\n它同樣可以幫助你看破由其他巫師所製造出來的幻象。"
+				"value": "The unguent of sight is a concoction that, when applied to the eyes, allows the recipient to see more of the magical aura around them for a short time.  \n\nIt also helps to pierce veils and illusions created by other mages."
+			},
+			{
+				"type": "title",
+				"value": "Unguent of Wellspring Seeing"
+			},
+			{
+				"type": "text",
+				"value": "The unguent of Wellspring Seeing is a less powerful version of the Sight Unguent, which allows those not aligned with the Council to see eldrin wellsprings, though without any of the other benefits the Sight Unguent provides."
 			}
 		],
 		"related_recipes": [
 			{
 				"type": "manaweaving_altar",
-				"location": "mana-and-artifice:manaweaving/sight_unguent"
+				"location": "mana-and-artifice:manaweaving/eldrin_sight_unguent"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/wellspring_sight_unguent"
+			}
+		]
+	},
+	"Wellspring Sight Unguent": {
+		"index": 0,
+		"category": "manaweaving",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Wellspring Sight Unguent"
+			},
+			{
+				"type": "text",
+				"value": "The Wellspring Sight Unguent, when applied to the eyes, allows the user to perceive eldrin wellsprings in the world.  While less potent than the Unguent of Seeing, its use also doesn't incur the wrath of the Council."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/wellspring_sight_unguent"
 			}
 		]
 	},
@@ -6206,44 +7475,32 @@
 			},
 			{
 				"type": "text",
-				"value": "符法雖是一種法術，但卻無需額外材料，僅憑繪畫織魔圖樣即可進行施法。每當你的等階提升時，你都會解鎖一些新的符法。\n\n你可以在你的織魔者之杖內設定/查看符法的圖樣組合（每個圖樣組合至少包含兩個圖樣），之後，你甚至可以將非引導類符法組合起來，組成自訂符法。"
+				"value": "Cantrips are spells that you can cast using nothing but manaweaving pattern combination.  You unlock new cantrips every time you tier up."
 			},
 			{
 				"type": "title",
-				"value": "施放符法"
+				"value": "The Cantrip GUI"
 			},
 			{
 				"type": "text",
-				"value": "施放符法，首先你得準備一根織魔者之杖，裝備之後先進行第一個圖樣的繪製，繪製完畢之後圖樣會懸浮於空中。接著，再繪製第二個圖樣，繪製完畢之後它會與第一個圖樣相融合。若該圖樣組合綁定於某個符法，你會聽到叮鈴聲，畫面上會出現一個帶著冷卻條的圖示。若該符法是瞄準類符法，當計時條結束時，符法會朝著你所指向的地方發射出去。"
+				"value": "To view the cantrips GUI, simply hold any manaweaver wand in your hand, press the gui key (default control), and right click.  The wand's tooltip will show this as well.\n\nOnce in the gui, hover over any of the cantrip icons to see a description of what the cantrip does.  You can also change the patterns required for that cantrip (minimum 2) by using the arrows next to the boxes below each cantrip's icon.\n\nSome cantrips allow inserting items as well that are related to that cantrip (such as spells).  For example the 'Freeform Spell' cantrips require that you place a spell into the inventory slot before they'll do anything."
 			},
 			{
 				"type": "title",
-				"value": "施放符法"
+				"value": "Casting Cantrips"
 			},
 			{
 				"type": "text",
-				"value": "施放符法，首先你得準備一根織魔者之杖，裝備之後先進行第一個圖樣的繪製，繪製完畢之後圖樣會懸浮於空中。接著，再繪製第二個圖樣，繪製完畢之後它會與第一個圖樣相融合。若該圖樣組合綁定於某個符法，你會聽到叮鈴聲，畫面上會出現一個帶著冷卻條的圖示。若該符法是瞄準類符法，當計時條結束時，符法會朝著你所指向的地方發射出去。"
-			},
-			{
-				"type": "text",
-				"value": "第二個符法則可以驅散你身上的負面效果，類似於喝牛奶。"
-			},
-			{
-				"type": "text",
-				"value": "第三個符法會召喚出魔導書，一本類似於終界儲物箱的法術書。"
-			},
-			{
-				"type": "text",
-				"value": "最後三個符法槽可以放入其他的法術，施展符法意味著施展該法術，當然，這樣的法術不能帶有任何修飾構件。"
+				"value": "To cast a cantrip, first you'll need a manaweaver's wand.  Equip that, and draw the first pattern using normal manaweaving.  It will appear in the air once complete.  Next, draw the second pattern.  Once complete it will merge with the first.  Once a cantrip pattern is matched, you will hear a tone and see an icon with a countdown bar.  For cantrips that must be aimed such as spells, it will target and cast where you are looking when that timer reaches the end."
 			}
 		],
 		"related_recipes": [
 			{
-				"location": "mana-and-artifice:manaweaving/sorcery/cantrip_book",
-				"type": "manaweaving_altar"
+				"location": "mana-and-artifice:vinteum_manaweaver_wand",
+				"type": "crafting"
 			},
 			{
-				"location": "mana-and-artifice:manaweaver_wand",
+				"location": "mana-and-artifice:chimerite_manaweaver_wand",
 				"type": "crafting"
 			},
 			{
@@ -6352,6 +7609,46 @@
 			}
 		]
 	},
+	"Runic Light": {
+		"index": "0",
+		"category": "artifice",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Runic Light"
+			},
+			{
+				"type": "text",
+				"value": "The runic light is a decoration block that gives a rustic magical feel wherever it is placed."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "crafting",
+				"location": "mana-and-artifice:runic_light"
+			}
+		]
+	},
+	"Runic Torch": {
+		"index": "0",
+		"category": "artifice",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Runic Torch"
+			},
+			{
+				"type": "text",
+				"value": "The runic torch is a decoration block that gives a medieval magical feel wherever it is placed."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "crafting",
+				"location": "mana-and-artifice:runic_torch"
+			}
+		]
+	},
 	"Tables": {
 		"index": "0",
 		"category": "artifice",
@@ -6386,13 +7683,33 @@
 			},
 			{
 				"type": "text",
-				"value": "沖流生成器，當之無愧的氣魔法應用的傑出代表。\n\n放置到世界後，它會影響自身上下 50 格以內的空間，整體呈現為一條單格柱形。\n\n站在柱形範圍內的巫師，會被牽引到沖流中。\n\n如果巫師向上看，他會在沖流中做上升運動。\n如果巫師向下看，他會緩緩的向下降落，這一過程十分安全。\n\n上升或下降的速度取決於巫師向上看或向下看的程度。\n\n潛行狀態下，巫師會停滯在目前的位置上，如此一來，你便無需擔心沖流的影響，尋找東西，進行方塊互動，想做啥就做啥。"
+				"value": "The Slipstream Generator is a marvel of air magic.\n\nWhen placed, it affects an area 50 blocks in front of the vortex face, in a single block column.  It works horizontally as well as vertically.\n\nAdditional generators stacked opposite the vortex (for example directly below when facing up) will collectively increase the range of the effect.\n\nWizards that stand within this column will be grabbed by the slipstream.\n\nIf the wizard looks up, they will rise through the slipstream.\nIf the wizard looks down, they will safely lower through the slipstream.\n\nThe speed of raising and lowering is dependent on how much a wizard looks up or down.\n\nCrouching will lock the wizard in place in the slipstream, allowing them to look around or interact without being moved by the slipstream itself."
 			}
 		],
 		"related_recipes": [
 			{
 				"type": "manaweaving_altar",
 				"location": "mana-and-artifice:manaweaving/artifice/slipstream_generator"
+			}
+		]
+	},
+	"Redstone Spell Trigger": {
+		"index": "0",
+		"category": "artifice",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Redstone Spell Trigger"
+			},
+			{
+				"type": "text",
+				"value": "The Redstone Spell Trigger will emit redstone from all sides when struck by a spell.  It emits full power that decreases slowly back to 0 over a few seconds."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/redstone_spell_trigger"
 			}
 		]
 	},
@@ -6406,13 +7723,121 @@
 			},
 			{
 				"type": "text",
-				"value": "石製基座可以容納物品，所容納的物品會在其上展示出來。"
+				"value": "Stone pedestals can be used to hold items for display purposes.  They are also used as part of Runeforge upgrades."
 			}
 		],
 		"related_recipes": [
 			{
 				"type": "crafting",
 				"location": "mana-and-artifice:runeforging/stone_pedestal"
+			}
+		]
+	},
+	"Witherbone": {
+		"index": "0",
+		"category": "artifice",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Witherbone"
+			},
+			{
+				"type": "text",
+				"value": "This blackened bone is often used in crafting recipes surrounding the ender, the undead, and death."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/intermediate/witherbone"
+			}
+		]
+	},
+	"Living Flame": {
+		"index": "0",
+		"category": "artifice",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Living Flame"
+			},
+			{
+				"type": "text",
+				"value": "The flame in this bottle seems to pulse and move as if alive.  These pulsing pyros are often used in crafting recipes surrounding fire, the nether, and demons."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/intermediate/living_flame"
+			}
+		]
+	},
+	"Ironbark": {
+		"index": "0",
+		"category": "artifice",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Ironbark"
+			},
+			{
+				"type": "text",
+				"value": "This sturdy piece of ancient bark has been imbued with the strength of iron to mimic an almost petrified effect.  It's exceptionally strong and is often used in crafting recipes surrounding nature and the fey."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/intermediate/ironbark"
+			}
+		]
+	},
+	"Arcane Stones": {
+		"index": "-1",
+		"category": "artifice",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Arcane Stones"
+			},
+			{
+				"type": "text",
+				"value": "Arcane stones are often used as decoration, though they also (if placed properly) can be used to direct magical energies in specific scenarios when imbued with vinteum or chimerite inlays.  As such, they are often used in structures focusing on magic."
+			},
+			{
+				"type": "title",
+				"value": "Shaping Stones"
+			},
+			{
+				"type": "text",
+				"value": "Arcane stones can be shaped into walls, slabs, stairs, and more by following the same crafting processes that I would use for normal stone.  This is because when they are manaweaved, the magic is already infused in them, and they can thus be simply worked like normal stone either at a workbench or a stonecutter."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/decoration/arcane_stone"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/decoration/arcane_sandstone"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/decoration/vinteum_arcane_stone"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/decoration/vinteum_arcane_sandstone"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/decoration/chimerite_arcane_stone"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/decoration/chimerite_arcane_sandstone"
 			}
 		]
 	},
@@ -6542,7 +7967,7 @@
 			},
 			{
 				"type": "title",
-				"value": "親和度效果"
+				"value": "Once you have your workbench set up and your parts made, you'll need to choose what affinities you want to imbue into the construct.  Each affinity changes attributes of the construct.  You set the affinity by casting spells of the given affinity at each of the 8 nearby chimerite crystals.  The spells must directly target the crystals, so channeled spells, AoE spells and self spells, for example, will not work.  When you do, a sigil will appear above the crystal indicating the affinity.  Place all five parts of the construct on the workbench and activate the workbench itself with an empty hand to begin the crafting process.  Once the imbuing is complete. you can start to command your construct."
 			},
 			{
 				"type": "text",
@@ -6875,7 +8300,7 @@
 			},
 			{
 				"type": "text",
-				"value": "執行這一指令的構裝體對周圍的羊，哞菇這些可以被收剪的動物進行收剪，並且構裝體會每隔一段時間從設定半徑內的雞身上拔毛。"
+				"value": "This command will cause the construct to shear nearby sheep, mooshrooms, and other animals that can be sheared, as well as periodically pluck feathers from chickens within the configured radius.  The construct must have a blade arm in order to use this task."
 			}
 		]
 	},
