@@ -98,5 +98,16 @@
     "tooltip.survive.weight": "重量:%1$s%2$s",
     "tooltip.survive.temperature": "溫度: %1$s ",
     "power.survive.heat_resistance.name": "炎熱抗性",
-    "power.survive.heat_resistance.description": "你的耐熱性非常高"
+    "power.survive.heat_resistance.description": "你的耐熱性非常高",
+    "item.survive.wood_ash": "Wood Ash",
+    "item.survive.potash_solution": "Potash Solution",
+    "item.survive.potash": "Potash",
+    "item.survive.animal_fat": "Animal Fat",
+    "item.survive.soap_bottle": "Soap Bottle",
+    "item.survive.soap_mix": "Soap Mix",
+    "block.survive.potash_cauldron": "Potash Cauldron",
+    "tooltip.drinks_left": "Drinks Left",
+    "tooltip.drink_purified": "Is Purified",
+    "tooltip.drink_not_purified": "Is Not Purified",
+    "tooltip.soap_left": "Soap Remaining: %1$s"
 }

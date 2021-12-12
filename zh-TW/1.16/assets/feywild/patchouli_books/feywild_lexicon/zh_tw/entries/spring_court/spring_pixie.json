@@ -1,0 +1,53 @@
+{
+  "name": "Spring Pixie",
+  "icon": "feywild:summoning_scroll_spring_pixie",
+  "category": "spring_court",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Bouncy, bubbly and completely void of the idea of personal space, the pixies of the Spring Court treat everything as if they have never seen it before. They are like hyperactive children, always wondering what everything is, stuffing anything into their mouth that seems slightly edible and their only concern is not having either enough fun or food for the day. "
+    },
+    {
+      "type": "entity",
+      "entity": "feywild:spring_pixie",
+      "offset": "0.4"
+    },
+    {
+      "type": "text",
+      "text": "They represent the birth of a new year and the coming of new life and are the most innocent of the Spring Court. They are however, notoriously obnoxious when playing pranks, as they do not know the dangers or consequences of their actions. Nor do they care about it."
+    },
+    {
+      "type": "spotlight",
+      "item": "feywild:summoning_scroll",
+      "title": "召喚",
+      "text": "Beware that when you summon a pixie, you are bound to their Court! This means other courts might not be willing to interact with you afterwards."
+    },
+    {
+      "type": "spotlight",
+      "item": "feywild:fey_altar",
+      "title": "Summoning",
+      "text": "Also note that not all pixies are willing familiars, and they might trick you! Try interacting with your pixie after you summoned one, if possible try to gain their trust."
+    },
+    {
+      "type": "spotlight",
+      "item": "feywild:summoning_scroll_spring_pixie",
+      "title": "Summoning Spring Pixie",
+      "text": "With this scroll you can summon a Spring Pixie. The presence of a Spring Pixie will make the animals fall in love with each other."
+    },
+    {
+      "type": "image",
+      "title": "Summoning Ingredients",
+      "images": [
+        "feywild:textures/patchouli_images/spring_summon_book.png"
+      ],
+      "border": true
+    },
+    {
+      "type": "spotlight",
+      "item": "minecraft:cookie",
+      "title": "Companion",
+      "text": "The summoned pixie will follow you by shift-right clicking her, if you want her to stay at a certain location, shift-right click her again."
+    }
+  ]
+}

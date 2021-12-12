@@ -31,14 +31,14 @@
     "tooltip.adhooks.launcher.loosen": "%%1$s鬆開：%2$s（按下）",
     "tooltip.adhooks.launcher.loosen_same": "%1$s鬆開:%2$s 在按住 %1$s%4$s 時按下或按住%1$s%3$s%2$s",
     "tooltip.adhooks.launcher.swing": "%1$s搖擺:%2$s 使用 %1$s%3$s%2$s 來蓄力",
-    "tooltip.adhooks.launcher.tarzan_jump": "%1$sTarzan Jump:%2$s while swinging, double tap %1$s%3$s%2$s",
-    "tooltip.adhooks.launcher.release": "%1$sRelease:%2$s being grappled by another player press %1$s%3$s%2$s holding %1$s%4$s",
+    "tooltip.adhooks.launcher.tarzan_jump": "%1$s泰山跳躍： 擺動時%2$s ， 按兩下 %1$s%3$s%2$s",
+    "tooltip.adhooks.launcher.release": "%1$s釋放：按下 %2$s，當被其他玩家抓住時%1$s%3$s%2$s按下 %1$s%4$s",
     "tooltip.adhooks.launcher.more_info": "%1$shold%2$s%3$s%1$s了解更多訊息",
-    "tooltip.adhooks.launcher.controls": "%1$sHold%2$s Control%1$s to see controls",
+    "tooltip.adhooks.launcher.controls": "%1$s按住%2$s Ctrl與%1$s 查看控制說明",
     "tooltip.adhooks.launcher.main_hand": "%1$s慣用手",
     "tooltip.adhooks.launcher.off_hand": "%1$s副手",
     "tooltip.adhooks.launcher.other": "%1$s 其他",
     "tooltip.adhooks.launcher.jump_boost_strength": "跳躍提升",
-    "tooltip.adhooks.launcher.jump_boost": "%1$sJump Boost:%2$s while pulling, press %1$s%3$s%2$s holding %1$s%4$s",
+    "tooltip.adhooks.launcher.jump_boost": "%1$s跳躍提升：%2$s ，當拉動時按 %1$s%3$s%2$s 並按住 %1$s%4$s",
     "tooltip.adhooks.launcher.repair": "%1$s修復：%2$s 可以在鐵砧中使用線修復耐久"
 }

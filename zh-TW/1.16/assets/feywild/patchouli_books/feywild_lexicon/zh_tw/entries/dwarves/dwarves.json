@@ -1,0 +1,24 @@
+{
+  "advancement": "feywild:feywild/fey_dust",
+  "name": "Dwarves",
+  "icon": "minecraft:diamond_pickaxe",
+  "category": "dwarves",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Brought into life by the spilling of Ymirs lifeblood, the dwarves have a strong binding with the earth, fire and the mountains. This makes them excellent and skilled metalworkers and craftsmen, and they take great pride in this."
+    },
+    {
+      "type": "entity",
+      "entity": "feywild:dwarf_blacksmith",
+      "scale": "0.8",
+      "offset": "0.15"
+    },
+    {
+      "type": "spotlight",
+      "item": "feywild:summoning_scroll_dwarf_blacksmith",
+      "title": "Summoning Contract",
+      "text": "Most dwarves can be found underground mining and some have build a home, somewhere in the Feywild. If you trade alot with them, they may offer you a Summoning Contract."
+    }
+  ]
+}

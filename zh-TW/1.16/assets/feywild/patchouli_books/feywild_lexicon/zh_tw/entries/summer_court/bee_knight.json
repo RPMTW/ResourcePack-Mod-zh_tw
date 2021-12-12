@@ -1,0 +1,48 @@
+{
+  "name": "Bee Knight",
+  "icon": "feywild:honeycomb",
+  "category": "summer_court",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "feywild:honeycomb",
+      "title": "Sacred Honey",
+      "text": "The Bee Knights patrol the Golden Seelie Fields, looking for anyone who tries to steal their sacred honey."
+    },
+    {
+      "type": "entity",
+      "entity": "feywild:bee_knight",
+      "scale": "0.8"
+    },
+    {
+      "type": "image",
+      "title": "Bee Keep",
+      "images": [
+        "feywild:textures/patchouli_images/bee_keep_book.png"
+      ],
+      "border": true,
+      "text": "Inspired by a building of Kelpie The Fox: https://www.youtube.com/watch?v=Cs-nHCvrOpg"
+    },
+    {
+      "type": "spotlight",
+      "item": "feywild:display_glass",
+      "title": "Bee Keep",
+      "text": "The best honey of the Summer Court is kept at the Bee Keep. The Bee Keep is protected by several Bee Knights. The Sacred Honey Comb is kept in a glass display. The display can be broken by left clicking it rapidly so it will break, and the golden treasure is yours."
+    },
+    {
+      "type": "spotlight",
+      "item": "feywild:summoning_scroll_bee_knight",
+      "title": "Summoning Winter Pixie",
+      "text": "With this scroll you can summon a Bee Knight. The Bee Knight will protect the area from other creatures interacting with it."
+    },
+    {
+      "type": "image",
+      "title": "Summoning Ingredients",
+      "images": [
+        "feywild:textures/patchouli_images/bee_knight_summon_book.png"
+      ],
+      "border": true
+    }
+  ]
+}

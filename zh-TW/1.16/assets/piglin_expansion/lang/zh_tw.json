@@ -9,7 +9,7 @@
     "block.piglin_expansion.basaltic_blackstone_slab": "玄武黑石半磚",
     "itemGroup.tabpiglin_expansion": "豬布林擴展",
     "item.piglin_expansion.divinity_netherite_armor_helmet": "神聖獄髓頭盔",
-    "block.piglin_expansion.chiseled_basalt_quadratiles_slab": "浮雕玄武岩瓷磚",
+    "block.piglin_expansion.chiseled_basalt_quadratiles_slab": "Chiseled Basalt Quadratiles",
     "item.piglin_expansion.divinity_netherite_armor_boots": "神聖獄髓護靴",
     "block.piglin_expansion.gilded_basalt_quadratiles": "鍍金玄武岩瓷磚",
     "item.piglin_expansion.golden_stick": "金棍",
@@ -20,6 +20,13 @@
     "advancements.divinity_staff.descr": "合成一根豬布林神杖",
     "advancements.divinity_armor.title": "神力注入",
     "block.piglin_expansion.gilded_basalt_quadratiles_slab": "鍍金玄武岩瓷磚",
-    "block.piglin_expansion.chiseled_basalt_quadratiles": "浮雕玄武岩瓷磚",
-    "advancements.divinity_staff.title": "神之力"
+    "block.piglin_expansion.chiseled_basalt_quadratiles": "Chiseled Basalt Quadratiles",
+    "advancements.divinity_staff.title": "神之力",
+    "effect.divinity": "Divinity",
+    "item.minecraft.tipped_arrow.effect.divinity_potion": "Divinity Arrow Potion",
+    "item.minecraft.splash_potion.effect.divinity_potion": "Divinity Splash Potion",
+    "item.minecraft.lingering_potion.effect.divinity_potion": "Lingering Divinity Potion",
+    "effect.piglin_expansion.divinity": "Divinity",
+    "item.piglin_expansion.piglin_divinity_essence": "Piglin Divinity Essence",
+    "item.minecraft.potion.effect.divinity_potion": "Divinity Potion"
 }

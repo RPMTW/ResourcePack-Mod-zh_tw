@@ -27,15 +27,15 @@
     },
     {
       "type": "text",
-      "text": "標註著此物品是被該玩家所擁有——只要這項物品有需要耗費任何LP時，它就會從該玩家的靈魂網絡來抽取LP來使用。在一些情況裏，如果無法從網絡抽出LP時，它將會轉為直接抽取生命值來轉化為LP。$(br2)為了要靈魂網絡注入LP，你得先製造一個$(item)氣血寶珠$()；氣血寶珠會用兩種方法來吸取周遭的LP：$(br)如果周遭有一個$(l:bloodmagic:altar/blood_altar)血之祭壇$(/l)存在，那氣血寶珠將會從祭壇吸取LP；否則將以生命：LP = 1：200的比例從生命值扣除。"
+      "text": "標註著此物品是被該玩家所擁有——只要這項物品有需要耗費任何$(blood)LP$()時，它就會從該玩家的$(thing)靈魂網絡$()來抽取$(blood)LP$()來使用。$(br2)在一些情況裏，如果無法從網絡抽出$(blood)LP$()時，它將會轉為直接抽取生命值來轉化為LP。"
     },
     {
       "type": "text",
-      "text": "這兒還有許多不同種類的氣血寶珠，不過只有跟氣血寶珠同等或更高等級的祭壇才能製造它們：$(br)$(li)$(item)孱弱氣血寶珠$()容量：5k LP$(br)$(li)$(item)學徒氣血寶珠$()容量：25k LP$(br)$(li)$(item)術師氣血寶珠$()容量：150k LP$(br)$(li)$(item)大師氣血寶珠$()容量：1M LP"
+      "text": "為了要靈魂網絡注入LP，你得先製造一個$(item)氣血寶珠$()；氣血寶珠會用兩種方法來吸取周遭的LP：$(br)如果周遭有一個$(l:bloodmagic:altar/blood_altar)血之祭壇$(/l)存在，那氣血寶珠將會從祭壇吸取LP；否則將以生命：LP = 1：200的比例從生命值扣除。"
     },
     {
       "type": "text",
-      "text": "There is a separate $(item)Blood Orb$() that can be created for each Tier of the $(item)Blood Altar$(). Their recipes are documented overleaf. $(li)$(item)Weak Blood Orb$() - Max capacity: $(blood)5k LP$(). $(li)$(item)Apprentice Blood Orb$() - Max capacity: $(blood)25k LP$(). $(li)$(item)Magician Blood Orb$() - Max capacity: $(blood)150k LP$(). $(li)$(item)Master Blood Orb$() - Max capacity: $(blood)1M LP$(). $(br2)If that's still not enough $(blood)LP storage$() for you, consider using $(l:bloodmagic:altar/blood_rune/orb_rune)Runes of the Orb$()."
+      "text": "這兒還有許多不同種類的$(item)氣血寶珠$()，不過只有與其同等或更高等級的$(item)血之祭壇$()才能製造它們。 他們的合成方式在後方。$(li)$(item)虛弱氣血寶珠$() - 最大容量：$(blood)5k LP$()。$(li)$(item)學徒氣血寶珠$() - 最大容量：$(blood)25k LP$()。$(li)$(item)法師氣血寶珠$() - 最大容量：$(blood)150k LP$()。$(li)$(item)導師氣血寶珠$() - 最大容量：$(blood)1M LP$()。$(br2)如果這對您來說仍然不夠$(blood)LP存儲$()，請考慮使用$(l:bloodmagic:altar/blood_rune/orb_rune)寶珠符文$()。"
     },
     {
       "type": "2x_crafting_altar",

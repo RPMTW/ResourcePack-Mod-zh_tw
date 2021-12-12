@@ -187,5 +187,8 @@
     "message.rftoolsdim.dimension_monitor.name": "名稱： ",
     "message.rftoolsdim.phased_field_generator.header": "當造訪未充能維度時，此RF充能模組將會給予暫時的保護",
     "message.rftoolsdim.phased_field_generator.gold": "永遠放在快捷鍵中而且不要讓能量用完!!",
-    "message.rftoolsdim.phased_field_generator.power": "能量: "
+    "message.rftoolsdim.phased_field_generator.power": "能量: ",
+    "block.rftoolsdim.dimension_editor": "Dimension Editor",
+    "message.rftoolsdim.dimension_editor.header": "The Dimension Editor can be used to edit an existing dimension. You can use it to add (some) dimlets. To add a new (charged) matter receiver or to destroy a dimension (using tnt)",
+    "message.rftoolsdim.dimension_editor.gold": "Infusing bonus: reduced power consumption and faster processing"
 }

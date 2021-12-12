@@ -6,7 +6,7 @@
     "block.mmorpg.ore_block3": "上品礦",
     "block.mmorpg.ore_block4": "精品礦",
     "block.mmorpg.ore_block5": "珍品礦",
-    "_comment": " [CATEGORY]： 統計 ─ 描述",
+    "_comment": " [CATEGORY]: SPELLS - DESCRIPTIONS",
     "itemGroup.mmorpg.main_group": "流亡時代",
     "itemGroup.mmorpg.gem_group": "流亡時代 - 寶石",
     "itemGroup.mmorpg.runes_group": "流亡時代 - 符文",
@@ -3515,5 +3515,6 @@
     "mmorpg.stat_desc.poison_ball_chance_of_negative.3": "攻擊時附加效果的機率",
     "mmorpg.stat_desc.spell_earth_damage": "增加該屬性技能的傷害",
     "mmorpg.stat_desc.spell_lifesteal": "將法術傷害的百分比恢復為生命值",
-    "mmorpg.stat_desc.spell_power": "用於某些法術"
+    "mmorpg.stat_desc.spell_power": "用於某些法術",
+    "item.mmorpg.common_soul_produce": "Common Gear Soul Stone"
 }

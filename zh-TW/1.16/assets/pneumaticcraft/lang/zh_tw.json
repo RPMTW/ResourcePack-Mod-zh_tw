@@ -1757,8 +1757,8 @@
     "pneumaticcraft.message.jackhammer.mode.3x3_full": "3 x 3 (full)",
     "pneumaticcraft.message.jackhammer.mode.vein": "Veinminer (ores/logs)",
     "pneumaticcraft.message.jackhammer.mode.vein_plus": "Veinminer (full)",
-    "pneumaticcraft.message.memory_stick.absorb.false": "XP Orb auto-absorb: §6off",
-    "pneumaticcraft.message.memory_stick.absorb.true": "XP Orb auto-absorb: §aon",
+    "pneumaticcraft.message.memory_stick.absorb.false": "自動吸收經驗球： §6關",
+    "pneumaticcraft.message.memory_stick.absorb.true": "自動吸收經驗球： §6開",
     "pneumaticcraft.message.minigun.outOfAmmo": "§6Out of Ammo! Sneak & Right-click to load",
     "pneumaticcraft.message.misc.outOfAir": "%s 的空氣已被耗盡！",
     "pneumaticcraft.message.securityStation.accessPrevented": "Access prevented by Security Station!",
@@ -1767,7 +1767,7 @@
     "pneumaticcraft.message.securityStation.cantHack": "Insufficient security level to hack this Security Station. Add more Security Upgrades to your Pneumatic Helmet.",
     "pneumaticcraft.message.securityStation.outOfOrder": "This Security Station is out of order!",
     "pneumaticcraft.message.securityStation.stationPlacementPrevented": "Placement prevented by one or more Security Stations",
-    "pneumaticcraft.message.securityStation.hackSucceeded.1": "Hack Succeeded!",
+    "pneumaticcraft.message.securityStation.hackSucceeded.1": "成功駭入！",
     "pneumaticcraft.message.securityStation.hackSucceeded.2": "Security Station disabled until Reboot",
     "pneumaticcraft.message.securityStation.hackFailed.1": "Hack Failed!",
     "pneumaticcraft.message.securityStation.hackFailed.2": "Countermeasures Engaged",
@@ -1879,7 +1879,7 @@
     "pneumaticcraft.gui.progWidget.blockCondition..allBlocksMatch": "All blocks match the criteria.",
     "pneumaticcraft.gui.progWidget.debug.lastMessage": "上一條訊息：%s 前",
     "pneumaticcraft.message.misc.countedItem": "%d 個%s",
-    "pneumaticcraft.message.misc.fluidB": "%d B",
+    "pneumaticcraft.message.misc.fluidB": "%d 桶",
     "pneumaticcraft.message.misc.fluidmB": "%d mB",
     "pneumaticcraft.message.misc.order": "順序：%s",
     "pneumaticcraft.message.misc.range": "範圍：%d 格",
@@ -1907,5 +1907,5 @@
     "pneumaticcraft.playerFilter.dimensions": "Dimensions:",
     "pneumaticcraft.playerFilter.gamestages": "Game Stages:",
     "pneumaticcraft.playerFilter.whitelist": "Only available when:",
-    "pneumaticcraft.playerFilter.unavailable": "Unavailable at this time!"
+    "pneumaticcraft.playerFilter.unavailable": "現在無法使用！"
 }

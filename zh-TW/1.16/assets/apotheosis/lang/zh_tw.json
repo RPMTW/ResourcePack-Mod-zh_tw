@@ -380,7 +380,6 @@
     "forge.swimSpeed": "游泳速度",
     "forge.entity_gravity": "重力",
     "block.reeds": "甘蔗",
-    "potion.potency.3": "IV",
     "enchantment.level.11": "XI",
     "enchantment.level.12": "XII",
     "enchantment.level.13": "XIII",
@@ -577,5 +576,13 @@
     "tooltip.enchlib.6": "滿級導出消耗：%d",
     "tooltip.enchlib.item": "目前儲備著 %d 種附魔。",
     "info.apotheosis.library": "附魔儲備台是一個能儲存附魔以備不時之需的方塊。  放入附魔書即可存入附魔。  存入後，左擊可以導出該附魔的 1 級附魔書，重複導出可在輸出欄裡疊加附魔書中該附魔的附魔等級。  按住Shift左擊可一次性導出該附魔的目前最高等級附魔書。",
-    "info.apotheosis.tome_error": "Bugged Item - Right click in the air to turn into an enchanted book."
+    "info.apotheosis.tome_error": "Bugged Item - Right click in the air to turn into an enchanted book.",
+    "info.apotheosis.retrieved_from": "Extracted From: %s",
+    "type.apotheosis.sword": "Sword",
+    "type.apotheosis.ranged": "Ranged",
+    "type.apotheosis.pickaxe": "Pickaxe",
+    "type.apotheosis.shovel": "Shovel",
+    "type.apotheosis.axe": "Axe",
+    "type.apotheosis.armor": "Armor",
+    "type.apotheosis.shield": "Shield"
 }

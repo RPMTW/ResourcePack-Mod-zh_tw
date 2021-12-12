@@ -17,15 +17,15 @@
     },
     {
       "type": "crafting_alchemy_table",
-      "heading": "Iron Tip L",
+      "heading": "鐵尖 L",
       "recipe": "bloodmagic:alchemytable/bow_power_anointment_l",
-      "text": "This upgraded version of the anointment lasts four times longer. $(br2)Applies: Heavy Shot I (1024 shots)"
+      "text": "這個升級版的藥水膏持續時間延長了四倍。 $(br2)適用：強擊 I (1024發)"
     },
     {
       "type": "crafting_alchemy_table",
-      "heading": "Iron Tip II",
+      "heading": "鐵尖 II",
       "recipe": "bloodmagic:alchemytable/bow_power_anointment_2",
-      "text": "This upgraded version of the anointment increases the damage by 50% instead. $(br2)Applies: Heavy Shot II (256 shots)"
+      "text": "這個升級版的藥水膏會令傷害增加50%。 $(br2)適用：強擊 II (256發)"
     }
   ]
 }

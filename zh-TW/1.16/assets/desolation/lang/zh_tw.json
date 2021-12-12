@@ -42,7 +42,7 @@
     "block.desolation.ash_block_6": "灰燼方塊",
     "block.desolation.ash_block_8": "灰燼方塊",
     "item.desolation.mask_leggings": "風鏡護腿",
-    "block.desolation.charred_trap_door": "燒焦柵欄",
+    "block.desolation.charred_trap_door": "Charred Trap Door",
     "item.desolation.cinder_fruit": "餘燼果實",
     "block.desolation.scorched_tuft_glowing": "發光乾焦草簇",
     "block.desolation.charred_slab": "燒焦半磚",
@@ -104,5 +104,6 @@
     "text.autoconfig.desolation.option.charredForestChance": "產生燒焦的森林機率",
     "text.autoconfig.desolation.option.smallCharredForestChance": "產生燒焦的小型森林機率",
     "text.autoconfig.desolation.option.charredForestClearingChance": "產生燒焦的森林荒地機率",
-    "text.autoconfig.desolation.option.generateClearings": "清除生成"
+    "text.autoconfig.desolation.option.generateClearings": "清除生成",
+    "effect.desolation.potion_of_cinder_soul": "Potion Of Cinder Soul"
 }

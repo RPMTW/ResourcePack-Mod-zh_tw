@@ -106,14 +106,14 @@
         },
         {
             "type": "text",
-            "title": "終界錠蜂",
+            "title": "終界金屬蜂",
             "text": "由$(l:bees/modded/ingot_bees#lead)鉛礦蜂$(/l)和$(l:bees/hive_bees/diamond)鑽石蜂$(/l)配種而得。",
             "anchor": "enderium",
             "flag": "productivebees:enderium"
         },
         {
             "type": "entity",
-            "name": "終界錠蜂",
+            "name": "終界金屬蜂",
             "entity": "productivebees:configurable_bee{type:'productivebees:enderium'}",
             "flag": "productivebees:enderium"
         },
