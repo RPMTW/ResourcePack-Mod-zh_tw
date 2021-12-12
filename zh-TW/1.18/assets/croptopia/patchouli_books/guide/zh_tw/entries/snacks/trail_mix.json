@@ -1,0 +1,12 @@
+{
+  "name": "什錦雜果",
+  "icon": "croptopia:trail_mix",
+  "category": "croptopia:snacks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:trail_mix",
+      "text": "什錦雜果的食譜"
+    }
+  ]
+}

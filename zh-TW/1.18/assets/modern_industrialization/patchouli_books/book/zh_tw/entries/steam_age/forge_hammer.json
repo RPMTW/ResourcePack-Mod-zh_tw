@@ -1,0 +1,26 @@
+{
+  "name": "入門",
+  "category": "modern_industrialization:steam_age",
+  "icon": "modern_industrialization:forge_hammer",
+  "pages": [
+    {
+      "type": "text",
+      "text": "在製作青銅前，我們需要一個鍛造台。鍛造台可以鎚鍊或鋸開物品。$(br2)你可以放入鐵、銅和錫礦，之後你會獲得 2 個礦物碎粉。每個礦物碎粉可熔煉為一塊錠。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:forge_hammer",
+      "text": "現在，您可能要考慮製作一個蒸汽採礦鑽頭... 查看下一頁！"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:tools/steam_mining_drill",
+      "text": "蒸汽採礦鑽頭一次可以挖掘 3x3 方塊，非常適合您早期的遊戲挖掘需求！"
+    },
+    {
+      "type": "text",
+      "text": "The Steam Mining Drill requires both water and solid fuel (for example coal).$(br2)Right-click a water source to fill it with water, and make sure to always place some fuel next in your drill by right-clicking the fuel items on it in your inventory. The fuel will be consumed slowly when you mine."
+    }
+  ],
+  "sortnum": 0
+}

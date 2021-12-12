@@ -1,0 +1,16 @@
+{
+  "name": "基礎儀式",
+  "icon": "conjuring:blackstone_pedestal",
+  "category": "conjuring:rituals",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Seeing as $(item)Gilded Blackstone$() has some peculiar magical properties, it seems perfectly reasonable to construct a pedestal out of it. These have been proven to excel at presenting items and providing their essence, enabling the performing of $(thing)rituals$(). Prior to this, however, the pedestals $(thing)need to be linked$() to the respective ritual's core."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "conjuring:crafting/blackstone_pedestal",
+      "text": "This is accomplished by $(thing)shift-right-clicking$() first a pedestal and then the corresponding ritual core, all while wielding a $(l:conjuring:basics/conjuring_scepters)Conjuring Scepter$() of any kind."
+    }
+  ]
+}

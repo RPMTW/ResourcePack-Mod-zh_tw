@@ -1,0 +1,37 @@
+{
+  "name": "編織儀式",
+  "icon": "conjuring:soul_weaver",
+  "category": "conjuring:rituals",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Some crafting processes, like those involved in fabricating $(l:conjuring:soul_alloy_tools/basics)Soul Alloy Tools$(), can be very involved and consequently require the $(thing)Ritual of Weaving$() to be carried out.$(p)To get started, one ought place a $(item)Soul Weaver$() and link it to four pedestals as depicted in $(l:conjuring:rituals/ritual_basics)Ritual Basics$(). Then, the crafting ingredients must be placed on both weaver and pedestals."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "conjuring:crafting/soul_weaver",
+      "text": "In the final step, the $(item)Soul Weaver$() has to be loaded with $(l:conjuring:basics/conjuration_essence)Conjuration Essence$() and subsequently $(thing)right-clicked$() with a $(l:conjuring:basics/conjuring_scepters)Conjuring Scepter$() to commence the ritual."
+    },
+    {
+      "type": "multiblock",
+      "name": "編織儀式",
+      "multiblock": {
+        "mapping": {
+          "0": "conjuring:soul_weaver",
+          "P": "conjuring:blackstone_pedestal"
+        },
+        "pattern": [
+          [
+            "___P___",
+            "___ ___",
+            "___ ___",
+            "P  0  P",
+            "___ ___",
+            "___ ___",
+            "___P___"
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "不鏽鋼",
+  "category": "modern_industrialization:midgame",
+  "icon": "modern_industrialization:stainless_steel_dust",
+  "pages": [
+    {
+      "type": "spotlight",
+      "title": "不鏽鋼",
+      "item": "modern_industrialization:stainless_steel_ingot",
+      "text": "不鏽鋼是您需要大量使用的下一種材料。繼續閱讀以了解原因！$(br2)在 EBF 中熔煉不鏽鋼粉會給您帶來熱錠，您可以使用真空冷凝器將其冷卻回普通錠。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:electric_age/machine/vacuum_freezer_asbl",
+      "text": "你可以用 REI 查看基材，用扳手查看準確的形狀！"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:electric_age/machine/distillation_tower_asbl",
+      "text": "一旦你有了一些數位電路，一定要建造一個蒸餾塔。蒸餾室只給你一個石油加工輸出，但塔給你每層一個！"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:tools/screwdriver",
+      "text": "要更改蒸餾塔的高度，請用螺絲刀對它按右鍵。這也適用於具有多種形狀的其他多方塊，$(l)例如坎塔爾層 EBF。$()"
+    }
+  ],
+  "sortnum": 201
+}

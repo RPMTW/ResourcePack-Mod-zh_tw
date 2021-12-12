@@ -1,0 +1,26 @@
+{
+  "name": "石油加工",
+  "category": "modern_industrialization:electric_age",
+  "icon": "modern_industrialization:bucket_diesel",
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:oil/oil_drilling_rig_asbl",
+      "text": "鑽油機是一個巨大的多方塊，可以使用流體管道在基岩下挖掘石油。是的，它基本上是一個石油開採機。石油加工將為您提供大量副產品和能源！"
+    },
+    {
+      "type": "text",
+      "text": "多方塊的結構由：鋼製機殼、和鏈條組成，放置控制器並握住扳手即可看到。倉可以用鋼製機器外殼代替，但請確保至少有物品輸入、流體輸出和能量輸入倉！$(br2)石油可以轉化為各種燃料，用於更高效的橡膠薄板生產。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:electric_age/machine/diesel_generator_asbl",
+      "text": "柴油發電機可以燃燒各種燃料，您可以在 REI 中查看每種燃料產生多少 EU。柴油發電機將產生高達 128 EU/t 的產量，並且只能連接到中壓電纜。"
+    },
+    {
+      "type": "text",
+      "text": "柴油發電機只會在需要時使用燃料，但如果您需要持續的能源供應，您可以在大型蒸汽鍋爐中放入液體燃料而不是物品。$(br2)完全加熱的大型蒸汽鍋爐在使用相同數量的燃料時產生的能量大約是柴油發電機產生的能量的兩倍。"
+    }
+  ],
+  "sortnum": 108
+}

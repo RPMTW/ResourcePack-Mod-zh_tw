@@ -1,0 +1,17 @@
+{
+    "item.simpleteleporters.ender_shard": "終界碎片",
+    "block.simpleteleporters.teleporter": "傳送機",
+    "text.simpleteleporters.unlinked": "未連結",
+    "text.simpleteleporters.linked": "連接結：%1$s, %2$s, %3$s 在維度 %4$s",
+    "text.simpleteleporters.how_to_link": "潛行並在一個方塊上按右鍵來連結位置",
+    "text.simpleteleporters.crystal_info": "連結終界碎片到 %1$s, %2$s, %3$s",
+    "text.simpleteleporters.error.no_crystal": "這台傳送機已經沒有終界碎片了！",
+    "text.simpleteleporters.error.unlinked_teleporter": "這台傳送機的終界碎片未連結！",
+    "text.simpleteleporters.error.unlinked_shard": "這個終界碎片未連結！",
+    "text.simpleteleporters.error.invalid_position": "傳送位置無效！也許有一個方塊擋住了道路？",
+    "text.simpleteleporters.error.wrong_dimension": "這台傳送機的終界碎片不夠強大，無法跨越維度！",
+    "subtitles.block.teleporter.teleport": "傳送機傳送",
+    "subtitles.block.teleporter.crystal_inserted": "終界碎片已插入",
+    "subtitles.block.teleporter.crystal_removed": "終界碎片已移除",
+    "subtitles.item.ender_shard.link": "終界碎片連結已建立"
+}

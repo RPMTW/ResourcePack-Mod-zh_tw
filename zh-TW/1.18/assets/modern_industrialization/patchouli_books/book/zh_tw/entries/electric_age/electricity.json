@@ -1,0 +1,30 @@
+{
+  "name": "電力",
+  "category": "modern_industrialization:electric_age",
+  "icon": "modern_industrialization:lv_steam_turbine",
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:electric_age/machine/steam_turbine_asbl",
+      "text": "蒸汽輪機使用蒸汽來發電。它將蒸汽的每 mb 轉換為 1 EU，每刻轉換最多 32 mb。"
+    },
+    {
+      "type": "text",
+      "text": "蒸汽輪機將自動向直接連接到其輸出端的任何機器供電。它只會連接到放置在其輸出側的電纜。它具有低電壓（LV）$(thing)層$()。$(br2)每條電纜都有一個層級，它決定了它可以傳輸多少 EU/t 以及它可以連接到哪些機器。銅、銀和錫是低壓，白銅和琥珀金是中壓，依此類推..."
+    },
+    {
+      "type": "text",
+      "text": "電纜網路對進入網路的能量有限制：低壓電纜最多 256 EU/t，中壓電纜最多 1024 EU/t，高壓電纜最多 8192 EU/t。由於網路沒有輸出限制，而且電纜的內部儲存空間較小，因此低壓網路可以在短時間內提供超過 256 EU/t 的電力。$(br2)但請注意，單方塊電動機器只能連接到低壓電纜！"
+    },
+    {
+      "type": "text",
+      "text": "要傳輸更多能量，您需要創建多個管網或使用變壓器。正如您所料，X 到 Y 變壓器將連接到其輸出側的 Y 電纜和其其他 5 側的 X 電纜。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:electric_age/transformer/lv_mv/up_asbl",
+      "recipe2": "modern_industrialization:electric_age/transformer/lv_mv/down_asbl"
+    }
+  ],
+  "sortnum": 103
+}

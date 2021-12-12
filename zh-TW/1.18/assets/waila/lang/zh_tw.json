@@ -142,5 +142,9 @@
     "config.waila.plugin_waila.show_item_desc": "顯示從方塊中取出的物品",
     "config.waila.plugin_waila.show_entity_hp": "顯示實體生命值",
     "config.waila.plugin_waila.show_states": "顯示狀態",
-    "config.waila.plugin_waila.show_pos": "顯示方塊位置"
+    "config.waila.plugin_waila.show_pos": "顯示方塊位置",
+    "gui.waila.credits": "鳴謝",
+    "gui.waila.credits.original_mod_by": "原創「WAILA」模組，作者：",
+    "gui.waila.credits.authors": "作者",
+    "gui.waila.credits.contributors": "貢獻者"
 }

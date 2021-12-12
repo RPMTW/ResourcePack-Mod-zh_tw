@@ -1,0 +1,19 @@
+{
+  "name": "無限資源？",
+  "category": "modern_industrialization:steam_age",
+  "icon": "modern_industrialization:steam_quarry",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "modern_industrialization:steam_quarry",
+      "title": "蒸汽開採機",
+      "text": "採石機是個蒸汽驅動的多方塊結構，它消耗物流管道來掘入地底並挖掘礦物，你可以在REI中查看可挖到的礦物。$(br2)你最好準備好4個高爐，建造採石機需要消耗$(l)很多鋼$()。$(br2)採石機的基礎形狀是兩層3x3的空心機器外殼和2格高的垂直鎖鏈，採石機放在底層的一面。在中心放置兩個垂直的"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:quarry/drill/bronze_drill_asbl",
+      "text": "鎖鏈，在鎖鏈頂部放置一個鋼機器外殼，在鎖鏈兩側放置共6個鋼管道機器外殼。採石機最多可包含4個倉，可替換底下兩層的任意鋼機器外殼。$(l:https://streamable.com/9wk7xb)影片$()"
+    }
+  ],
+  "sortnum": 12
+}

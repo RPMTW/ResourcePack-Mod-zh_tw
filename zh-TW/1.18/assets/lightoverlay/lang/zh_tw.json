@@ -1,0 +1,20 @@
+{
+    "key.lightoverlay.category": "光疊加",
+    "key.lightoverlay.enable_overlay": "切換光疊加",
+    "description.lightoverlay.caching": "如果達到16以上，或者你是在Potato上執行，建議使用快取。",
+    "config.lightoverlay.general": "一般",
+    "config.lightoverlay.reach": "延伸:",
+    "config.lightoverlay.caching": "快取：",
+    "config.lightoverlay.crossLevel": "亮度等級：",
+    "config.lightoverlay.secondaryLevel": "次要光等級：",
+    "config.lightoverlay.showNumber": "顯示編號：",
+    "config.lightoverlay.smoothLines": "平滑線：",
+    "config.lightoverlay.underwater": "水下顯示：",
+    "config.lightoverlay.lineWidth": "線寬度：",
+    "config.lightoverlay.yellowColor": "黃色：",
+    "config.lightoverlay.secondaryColor": "次要顏色：",
+    "config.lightoverlay.redColor": "紅色：",
+    "config.lightoverlay.invalidColor": "顏色無效",
+    "config.lightoverlay.mushroom": "蘑菇生態域顯示：",
+    "config.lightoverlay.useListWhileCaching": "快取時使用 glList："
+}

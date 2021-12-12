@@ -1,0 +1,33 @@
+{
+  "name": "高壓！",
+  "category": "modern_industrialization:midgame",
+  "icon": "modern_industrialization:pressurizer",
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:pressurizer",
+      "text": "加壓機是一種由鈦製成的新型多方塊，可以將水變成高壓水，將蒸汽變成高壓蒸汽，反之亦然。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:electric_age/machine/high_pressure_large_steam_boiler_asbl",
+      "text": "一旦您可以使用高壓水，您就可以使用高壓大型蒸汽鍋爐來生產高壓蒸汽。$(br2)一毫桶高壓蒸汽價值 8 mb 普通蒸汽，即 8 EU。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:electric_age/machine/large_steam_turbine_asbl",
+      "text": "大型蒸汽輪機將接受普通蒸汽（1 mb = 1 EU）和高壓蒸汽（1 mb = 8 EU）進入 EU，並將產生高達 16384 EU/t！$(l)但是，它不會給您回普通水或高壓水。$()"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:electric_age/machine/heat_exchanger_asbl",
+      "text": "請記住，將水加壓成高壓水會消耗大量能量，但輪機不會將其返還！您可以使用熱交換器為另一個循環回收高壓水。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:electric_age/machine/hv_steam_turbine_asbl",
+      "text": "小型裝置的另一種選擇是使用高壓蒸汽輪機。與其他高壓發電機一樣，它將產生 512 EU/t。這個只接受普通蒸汽。"
+    }
+  ],
+  "sortnum": 202
+}

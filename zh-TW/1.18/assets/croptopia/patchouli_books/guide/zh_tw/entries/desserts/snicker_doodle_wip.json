@@ -1,0 +1,12 @@
+{
+  "name": "肉桂餅乾",
+  "icon": "croptopia:snicker_doodle",
+  "category": "croptopia:desserts",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:snicker_doodle",
+      "text": "肉桂餅乾的食譜"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "無限水源？",
+  "category": "modern_industrialization:steam_age",
+  "icon": "modern_industrialization:bronze_water_pump",
+  "pages": [
+    {
+      "type": "text",
+      "text": "你可能想問有沒有一種自動將水輸送到鍋爐的方法？有！你需要水泵。將水泵放在水裡，它就會開始以1 EU/t 的效率運輸水。$(br)它會自動將水運輸到相鄰的方塊裡。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:steam_age/bronze/water_pump_asbl",
+      "text": "對於每個相鄰的水源，青銅水泵每5秒可泵出1/8桶水桶的水，因此最大產能為 1桶/5秒。"
+    }
+  ],
+  "sortnum": 8
+}

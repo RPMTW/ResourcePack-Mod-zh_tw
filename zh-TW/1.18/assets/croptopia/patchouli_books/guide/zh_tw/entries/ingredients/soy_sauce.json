@@ -1,0 +1,12 @@
+{
+  "name": "醬油",
+  "icon": "croptopia:soy_sauce",
+  "category": "croptopia:ingredients",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:soy_sauce",
+      "text": "醬油的製作方法"
+    }
+  ]
+}
