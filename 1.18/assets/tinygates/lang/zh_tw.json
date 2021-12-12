@@ -1,0 +1,21 @@
+{
+    "itemGroup.tinygates": "Tiny Gates",
+    "item.tinygates.tiny_and_gate": "Tiny AND Gate",
+    "message.item.tinygates.tiny_and_gate": "Outputs to front when a signal is received to both left AND right side.",
+    "item.tinygates.tiny_or_gate": "Tiny OR Gate",
+    "message.item.tinygates.tiny_or_gate": "Outputs to front when a signal is received to either left OR right side.",
+    "item.tinygates.tiny_xor_gate": "Tiny XOR Gate",
+    "message.item.tinygates.tiny_xor_gate": "Outputs to front when the input signals do not match, similar to a 3-way light switch.",
+    "item.tinygates.tiny_not_gate": "Tiny NOT Gate",
+    "message.item.tinygates.tiny_not_gate": "Outputs to front when there is no signal to the back. Similar to redstone torch but to single direction with no delay.",
+    "item.tinygates.tiny_rs_latch": "Tiny RS Latch",
+    "message.item.tinygates.tiny_rs_latch": "Outputs to front when signal on left (Set signal) is pulsed. Remains on until signal on right (Reset signal) is pulsed.",
+    "item.tinygates.tiny_t_flip_flop": "Tiny T Flip Flop",
+    "message.item.tinygates.tiny_t_flip_flop": "Output to front toggles on pulse to back.",
+    "item.tinygates.tiny_counter": "Tiny Counter",
+    "message.item.tinygates.tiny_counter": "Counts pulses received to back input (up to 15).\nDisplays number and outputs that signal strength to front.\nAlso can act as a potentiometer.\nInput to left locks number.\nInput to right resets counter.",
+    "item.tinygates.tiny_clock": "Tiny Clock",
+    "message.item.tinygates.tiny_clock": "Outputs redstone pulses to front at a set interval.\nRight click for GUI to set interval.\nDisable with redstone signal to back.",
+    "item.tinygates.tiny_edge_detector": "Tiny Edge Detector",
+    "message.item.tinygates.tiny_edge_detector": "Outputs redstone pulse at start (rising edge) or stop (falling edge) of redstone signal to back input.\nRight click to toggle edge to detect (rising or falling)."
+}
