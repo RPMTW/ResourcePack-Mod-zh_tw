@@ -1,6 +1,6 @@
 {
   "name": "火焰噴發口",
-  "icon": "twilightforest:fire_jet:3",
+  "icon": "twilightforest:fire_jet",
   "category": "devices",
   "advancement": "twilightforest:alt/treasures/fire_jet",
   "sortnum": 5050,
@@ -8,7 +8,7 @@
     {
       "type": "spotlight",
       "title": "火焰噴發口",
-      "item": "twilightforest:fire_jet:3",
+      "item": "twilightforest:fire_jet",
       "text": "這些噴發口會隨機地噴出火焰。我在這些方塊附近時必須小心，因為它們似乎不是被任何東西觸發的。因為某些原因，當它下方沒有岩漿時，它就會停止噴發，或許這就是它們的秘密？"
     }
   ]

@@ -1,16 +1,12 @@
 {
-  "sortnum": 7,
+  "sortnum": 2,
   "name": "指令",
   "icon": "minecraft:command_block",
   "category": "other",
   "pages": [
     {
       "type": "text",
-      "text": "/touhou_little_maid power 設定玩家 power 數值$(br)/touhou_little_maid maid_num 設定玩家女僕數值$(br)/hata reload 重載旗指物材質$(br)/maid_res reload 重載女僕資源包。此指令並不能完全重載部分資源，建議使用 F3+T 快捷鍵。$(br)/draw_coupon reload 重載抽卡機率表$(br)/spell_card reload 重載符卡數據"
-    },
-    {
-      "type": "text",
-      "text": "$(#f00)/touhou_little_maid power$() Set player power value$(br)$(#f00)/touhou_little_maid maid_num$() Set player's maid num"
+      "text": "$(#f00)/tlm$()：這是本模組提供的指令。$(br2)你可以通過它設定 P 點，女僕數量或者重新載入模型包。"
     }
   ]
 }

@@ -521,7 +521,7 @@
     "entity.cqr_pirate_captain.name": "海盜船長",
     "entity.cqr_giant_spider.name": "屍羅",
     "entity.cqr_ender_king.name": "終界之王",
-    "entity.cqr_ender_calamity.name": "ยง4終界災難",
+    "entity.cqr_ender_calamity.name": "Ender Calamity",
     "entity.cqr_summoning_circle.name": "<TECHNICAL_ENTITY>五角星召喚物",
     "entity.cqr_illusion_walker_king.name": "深淵漫步者之王",
     "entity.cqr_walker_tornado.name": "<TECHNICAL_ENTITY>深淵旋風",
@@ -565,5 +565,14 @@
     "advancements.cqrepoured.kill_ender_king.title": "這就是全部嗎？",
     "advancements.cqrepoured.kill_ender_king.description": "殺死令人畏懼的終界使者領袖，偉大的終界之王！",
     "advancements.cqrepoured.kill_ender_calamity.title": "是的，這就是全部！ ",
-    "advancements.cqrepoured.kill_ender_calamity.description": "迎接一場英勇的死亡排球賽，對抗變異的邪惡。"
+    "advancements.cqrepoured.kill_ender_calamity.description": "迎接一場英勇的死亡排球賽，對抗變異的邪惡。",
+    "item.unprotected_positions_tool.name": "Unprotected Position Selector Helper",
+    "item.magic_bell.name": "Magic Bell",
+    "description.magic_bell.name": "Ring the bell and you will see the path to the Lich's Phylactery. Break the blocks the bell shows you and the dungeon's walls will yield to you.",
+    "enchantment.cqrepoured.lightning_protection.desc": "Protects you from lightning when applied to a helmet.",
+    "enchantment.cqrepoured.spectral.desc": "Increased damage towards endermen and abyss walkers. Highly recommended when fighting the walker king.",
+    "entity.cqr_exterminator.name": "Exterminator Prototype",
+    "advancements.cqrepoured.kill_exterminator.title": "Electrician",
+    "advancements.cqrepoured.kill_exterminator.description": "Defeat the Illager's technological abomination",
+    "effect.cqrepoured.twohanded": "Twohanded"
 }

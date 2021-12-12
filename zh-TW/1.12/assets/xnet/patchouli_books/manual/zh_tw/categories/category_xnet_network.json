@@ -1,0 +1,7 @@
+{
+  "name": "多重網路",
+  "description": "將多個網路與路由器連接",
+  "parent": "xnet:category_xnet",
+  "icon": "xnet:router",
+  "sortnum": 20
+}

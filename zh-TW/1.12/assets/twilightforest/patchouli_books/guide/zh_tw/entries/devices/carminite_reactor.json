@@ -1,6 +1,6 @@
 {
   "name": "砷鉛鐵反應器",
-  "icon": "twilightforest:tower_device:12",
+  "icon": "twilightforest:carminite_reactor",
   "category": "devices",
   "advancement": "twilightforest:alt/treasures/carminite",
   "sortnum": 6260,
@@ -8,7 +8,7 @@
     {
       "type": "spotlight",
       "title": "砷鉛鐵反應器",
-      "item": "twilightforest:tower_device:12",
+      "item": "twilightforest:carminite_reactor",
       "text": "我無法理解這是用來做甚麼的。它是反應器的一種，所以我假設它會散發能量，但它毫無反應。也許它是需要能量的那種？"
     },
     {

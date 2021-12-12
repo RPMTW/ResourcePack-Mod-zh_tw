@@ -1,6 +1,6 @@
 {
     "tile.ftbguides.quest_block.name": "任務書",
-    "ftbguides": "FTB 整合包指南",
+    "ftbguides": "FTB Guides Modpack",
     "ftbguides.general.modpack_guide_version": "整合包指南版本",
     "ftbguides.general.flash_guides": "Flash 指南按鈕",
     "ftbguides.general.base_uri": "基本 URI",
@@ -30,5 +30,9 @@
     "ftbguides.lang.theme.dark": "暗色",
     "ftbguides.lang.theme.light": "亮色",
     "ftbguides.lang.theme.solarized_dark": "Solarized 暗色",
-    "ftbguides.lang.theme.solarized_light": "Solarized 亮色"
+    "ftbguides.lang.theme.solarized_light": "Solarized 亮色",
+    "ftbguides.general.disable_non_modpack_guides": "Disable Non-Modpack Guides",
+    "ftbguides_local": "FTB Guides Local",
+    "ftbguides.general.width_percent": "Width Percent",
+    "item.ftbguides.book.name": "Guide Book"
 }

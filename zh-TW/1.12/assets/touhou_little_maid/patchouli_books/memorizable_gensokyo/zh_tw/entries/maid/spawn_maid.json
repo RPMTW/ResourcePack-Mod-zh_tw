@@ -1,7 +1,7 @@
 {
   "sortnum": 0,
   "name": "生成女僕",
-  "icon": "minecraft:spawn_egg{EntityTag:{id:'touhou_little_maid:entity.passive.maid'}}",
+  "icon": "touhou_little_maid:hakurei_gohei",
   "category": "maid",
   "pages": [
     {
@@ -10,7 +10,7 @@
     },
     {
       "type": "text",
-      "text": "蛋糕盒右擊即可打開，你需要右擊三次觸發不同的打開階段，最後蛋糕盒會消失。$(br2)你需要一塊蛋糕才能馴服女僕。馴服的物品可在設定檔案中進行變更，此處不再累述。$(br2)馴服的女僕和原版寵物行為幾乎一致，你可以右擊打開她的 GUI。"
+      "text": "蛋糕盒按右鍵即可開啟，你需要按右鍵三次觸發不同的打開階段，最後蛋糕盒會消失。$(br2)你需要一塊蛋糕才能馴服女僕。馴服的物品可在設定檔案中進行變更，此處不再累述。$(br2)馴服的女僕和原版寵物行為幾乎一致，你可以按右鍵來開啟她的介面。"
     }
   ]
 }

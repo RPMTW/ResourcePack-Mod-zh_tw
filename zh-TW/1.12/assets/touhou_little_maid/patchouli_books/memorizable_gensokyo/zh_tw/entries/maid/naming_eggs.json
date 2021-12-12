@@ -1,5 +1,5 @@
 {
-  "sortnum": 12,
+  "sortnum": 9,
   "name": "命名彩蛋",
   "icon": "minecraft:name_tag",
   "category": "maid",
@@ -7,6 +7,13 @@
     {
       "type": "text",
       "text": "特殊命名的女僕能夠顯示特殊模型，預設情況下，使用 $(#ff0000)=>玩家ID$() 命名的女僕能變成該 ID 對應的玩家外觀模型。$(br2)女僕資源包也可以加入自訂的模型彩蛋，甚至是 SHA1 加密過的模型彩蛋。"
+    },
+    {
+      "type": "image",
+      "images": [
+        "touhou_little_maid:textures/book/nametag.png"
+      ],
+      "text": "命名為 $(#ff0000)=>Notch$() 的女僕模型。"
     }
   ]
 }

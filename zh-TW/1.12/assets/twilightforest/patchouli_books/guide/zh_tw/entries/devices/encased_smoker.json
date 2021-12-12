@@ -1,6 +1,6 @@
 {
   "name": "冒煙機關",
-  "icon": "twilightforest:fire_jet:1",
+  "icon": "twilightforest:encased_smoker",
   "category": "devices",
   "advancement": "twilightforest:alt/treasures/encased_smoker",
   "sortnum": 5060,
@@ -8,7 +8,7 @@
     {
       "type": "spotlight",
       "title": "冒煙機關",
-      "item": "twilightforest:fire_jet:1",
+      "item": "twilightforest:encased_smoker",
       "text": "冒煙方塊總是散發煙霧，但這對我來說反而是不方便的。對冒煙方塊接上線路後，我創造了一個只有在我激活它時才散發煙霧的裝置。現在我必須研究這種裝置的實用性。"
     }
   ]

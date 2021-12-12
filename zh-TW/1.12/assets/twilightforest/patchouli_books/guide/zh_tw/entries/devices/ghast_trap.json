@@ -1,6 +1,6 @@
 {
   "name": "幽靈陷阱",
-  "icon": "twilightforest:tower_device:10",
+  "icon": "twilightforest:ghast_trap",
   "category": "devices",
   "advancement": "twilightforest:alt/treasures/carminite",
   "sortnum": 6250,
@@ -8,7 +8,7 @@
     {
       "type": "spotlight",
       "title": "幽靈陷阱",
-      "item": "twilightforest:tower_device:10",
+      "item": "twilightforest:ghast_trap",
       "text": "和它的名字相同，這個裝置唯一的用途就是困住幽靈們。看起來給它紅石訊號沒有任何反應，也許它需要另一種能量來源？"
     },
     {

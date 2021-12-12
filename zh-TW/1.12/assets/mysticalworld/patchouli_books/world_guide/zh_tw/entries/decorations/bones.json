@@ -1,0 +1,25 @@
+{
+    "name": "Bones",
+    "icon": "mysticalworld:skeleton_top_2",
+    "category": "decorations",
+    "pages": [
+        {
+            "type": "crafting",
+            "link_recipe": true,
+            "recipe": "mysticalworld:bone_pile_1",
+            "text": "These piles of bones can be discovered around the world or crafted.$(br2)$(info) Silk touch is required to harvest this in full.$(br2)Shapelessly craft to loop through different types."
+        },
+        {
+            "type": "crafting",
+            "link_recipe": true,
+            "recipe": "mysticalworld:skeleton_top_1",
+            "text": "These skeletal remains can be found throughout the world or crafted.$(br2)$(info) Silk touch is required to harvest this in full.$(br2)Shapelessly craft to loop through different types."
+        },
+        {
+            "type": "crafting",
+            "link_recipe": true,
+            "recipe": "mysticalworld:skeleton_bottom_1",
+            "text": "These skeletal remains can be found throughout the world or crafted.$(br2)$(info) Silk touch is required to harvest this in full.$(br2)Shapelessly craft to loop through different types."
+        }
+    ]
+}

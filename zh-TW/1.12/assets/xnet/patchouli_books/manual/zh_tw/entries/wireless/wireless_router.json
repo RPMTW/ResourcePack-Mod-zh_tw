@@ -1,0 +1,12 @@
+{
+  "name": "無線路由器",
+  "icon": "xnet:wireless_router",
+  "category": "xnet:category_xnet_wireless",
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "網路的無線連接。@todo"
+    }
+  ]
+}

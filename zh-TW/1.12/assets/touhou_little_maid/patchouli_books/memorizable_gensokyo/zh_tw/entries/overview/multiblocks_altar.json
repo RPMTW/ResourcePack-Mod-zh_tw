@@ -1,7 +1,7 @@
 {
   "sortnum": 4,
   "name": "多方塊祭壇",
-  "icon": "minecraft:wool:14",
+  "icon": "minecraft:red_wool",
   "category": "overview",
   "pages": [
     {
@@ -15,17 +15,15 @@
       "text": "使用$(l:overview/gohei_and_danmaku)御幣$()對第四層中間偏左的紅色羊毛正面按右鍵，能夠構建祭壇。"
     },
     {
-      "type": "text",
-      "text": "你可以右擊六個橡木柱子的頂端來放置物品。通過空手 Shift 右擊來移除物品。$(br2)當物品完全放置且玩家的 Power 值足夠，祭壇就能觸發合成。$(br2)因為缺少 Power 而導致的合成中斷，在取得足夠 Power 以後，再次右擊可以重新觸發合成。"
+      "type": "image",
+      "title": "多方塊祭壇",
+      "images": [
+        "touhou_little_maid:textures/book/altar.png"
+      ]
     },
     {
-      "type": "image",
-      "images": [
-        "touhou_little_maid:textures/book/altar_craft.png"
-      ],
-      "title": "祭壇合成",
-      "border": true,
-      "text": "展示了生成閃電的合成，謹記所有的合成都是無序合成。"
+      "type": "text",
+      "text": "你可以對六個橡木柱子的頂端按右鍵來放置物品。通過空手 Shift + 右鍵來移除物品。$(br2)當物品完全放置且玩家的 Power 值足夠，祭壇就能觸發合成。$(br2)因為缺少 Power 而導致的合成中斷，在取得足夠 Power 以後，再次按右鍵可以重新觸發合成。"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "name": "反建器",
-  "icon": "twilightforest:tower_device:9",
+  "icon": "twilightforest:antibuilder",
   "category": "devices",
   "advancement": "twilightforest:alt/treasures/carminite",
   "sortnum": 6240,
@@ -8,7 +8,7 @@
     {
       "type": "spotlight",
       "title": "反建器",
-      "item": "twilightforest:tower_device:9",
+      "item": "twilightforest:antibuilder",
       "text": "這個方塊散發出了奇怪的光環，而且它看起來像是在保護在這個範圍內的所有方塊。任何嘗試放在這個範圍內的方塊都會被馬上破壞，嘗試破壞的任何方塊都會變成奇怪的紅-綠色方塊。看起來沒有開關能把它關掉，但一定有其他辦法。"
     }
   ]

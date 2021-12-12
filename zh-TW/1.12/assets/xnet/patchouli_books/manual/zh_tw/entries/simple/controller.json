@@ -1,0 +1,12 @@
+{
+  "name": "控制器",
+  "icon": "xnet:controller",
+  "category": "xnet:category_xnet_simple",
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "控制器是此模組中最重要的方塊。在此機器中，您可以控制編輯不同的通道，並定義物品、液體或能源如何通過這些通道移動"
+    }
+  ]
+}

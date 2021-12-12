@@ -1,0 +1,12 @@
+{
+  "name": "電纜",
+  "icon": "xnet:netcable_red",
+  "category": "xnet:category_xnet_simple",
+  "sortnum": 20,
+  "pages": [
+    {
+      "type": "text",
+      "text": "有四根互不干擾的彩色電纜"
+    }
+  ]
+}

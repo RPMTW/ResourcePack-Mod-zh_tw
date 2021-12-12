@@ -1,16 +1,16 @@
 {
   "sortnum": 4,
-  "name": "飾品",
+  "name": "女僕飾品",
   "icon": "touhou_little_maid:ultramarine_orb_elixir",
   "category": "maid",
   "pages": [
     {
       "type": "text",
-      "text": "女僕 GUI 的第三個標籤是飾品欄。這個模組提供了幾種飾品，在特定條件下觸發保護女僕：$(li)紺珠之藥：可使用 6 次來抵消女僕死亡。$(li)墓碑飾品：當女僕死亡時生成保留物品的墓碑。$(li)保護飾品：當女僕受到對應傷害時，傷害事件被取消。$(li)閃避布：當裝備了此飾品的女僕，被遠程武器擊中時，其行為模式將會和終界使者一模一樣。"
+      "text": "本模組加入了數個飾品，當女僕在特定情況下時會觸發這些飾品來保護她。$(li)紺珠之藥：能夠避免6次女僕的死亡。"
     },
     {
       "type": "text",
-      "text": "$(li)Protect Bauble: When the maid receives the corresponding damage, the damage event is canceled.$(li)Nimble Fabric: When a maid equipped with this bauble is hit by projectile, her behavior will be exactly the same as the ender."
+      "text": "$(li)保護飾品：當女僕受到對應傷害時，能夠觸發對應的保護。$(li)閃避布：當女僕被彈射物攻擊時，行為將會和終界使者一致。"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-    "﻿handler.found.text": "Results found: %d",
+    "﻿handler.found.text": "找到結果：%d",
     "key.categories.gui": "介面",
     "commands.recipes.usage": "/recipes <check <result|ingredients|space 'width' 'height'>|conflict|container <true/false>|dump|furnace|get <by_held/by_item 'item-name'/by_name 'recipe-name'>>",
     "commands.recipes.check.usage": "/recipes check <result/ingredients/space 'width' 'height'>",
@@ -24,5 +24,6 @@
     "commands.recipes.container.false": "以下物品被禁用合成：%1$s",
     "commands.recipes.furnace": "有 %d 個熔爐配方變化了",
     "commands.recipes.dump.page": "第 %1$d 頁，共 %2$d 頁",
-    "commands.recipes.dump.next": "點擊顯示第 %1$d 頁"
+    "commands.recipes.dump.next": "點擊顯示第 %1$d 頁",
+    "handler.found.text": "找到結果：%d"
 }

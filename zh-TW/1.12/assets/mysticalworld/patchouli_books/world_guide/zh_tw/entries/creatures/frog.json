@@ -1,23 +1,22 @@
 {
-  "name": "青蛙",
-  "icon": "minecraft:slime_ball",
-  "category": "creatures",
-  "flag": "roots:frog",
-  "pages": [
-    {
-      "type": "animal_spawn_info",
-      "animal": "frog",
-      "breed": "用棕蘑菇繁殖;",
-      "tame": "Taming: Not tameable.",
-      "blurb": ""
-    },
-    {
-      "type": "entity",
-      "name": "Frog",
-      "entity": "mysticalworld:entity_frog",
-      "scale": "1.5",
-      "offset": "-0.3",
-      "text": "青蛙偶爾會像雞下蛋一樣掉落黏液球！"
-    }
-  ]
+    "name": "青蛙",
+    "icon": "minecraft:slime_ball",
+    "category": "creatures",
+    "pages": [
+        {
+            "type": "animal_spawn_info",
+            "animal": "frog",
+            "breed": "用棕蘑菇繁殖;",
+            "tame": "Taming: Not tameable.",
+            "blurb": ""
+        },
+        {
+            "type": "entity",
+            "name": "Frog",
+            "entity": "mysticalworld:frog",
+            "scale": "1.5",
+            "offset": "-0.3",
+            "text": "These frogs regularly drop slime balls while hopping around!"
+        }
+    ]
 }
