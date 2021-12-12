@@ -1,0 +1,15 @@
+{
+  "name": "Mining Glove",
+  "icon": "things:mining_gloves",
+  "category": "things:trinkets",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Even though mining is one of Minecraft's core game mechanics, doing it in bulk can be quite the task. A $(item)Mining Glove$(), however, can help speed this up. By both making the user's hands more tough and swift, a vast increase in mining speed is achieved."
+    },
+    {
+      "type": "crafting",
+      "recipe": "things:mining_gloves"
+    }
+  ]
+}

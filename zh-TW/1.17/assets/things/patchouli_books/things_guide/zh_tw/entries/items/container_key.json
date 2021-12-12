@@ -1,0 +1,16 @@
+{
+  "name": "Container Key",
+  "icon": "things:container_key",
+  "category": "things:items",
+  "pages": [
+    {
+      "type": "text",
+      "text": "The $(item)Container Key$() might prove a pretty useful utility to those keen on protecting their belongings. By $(thing)Shift-Right-Clicking$() on any container (eg. Chest, Furnace, ...) it will be locked and can only be opened again using this $(thing)one specific$() key until one chooses to unlock it again. This can be done just as easily by $(thing)Shift-Right-Clicking$() with the key again."
+    },
+    {
+      "type": "crafting",
+      "recipe": "things:container_key",
+      "text": "One should keep in mind however, that, to those so inclined, overcoming this protection should prove trivial by simply destroying the container in question."
+    }
+  ]
+}

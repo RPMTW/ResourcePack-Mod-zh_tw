@@ -1,0 +1,16 @@
+{
+  "name": "Mossy Necklace",
+  "icon": "things:moss_necklace",
+  "category": "things:trinkets",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Patching Wounds is a nasty job, luckily the $(item)Mossy Necklace$() is only too happy to do it for you! Provide it with light, either natural or artificial in nature, and it will begin healing you. The way in which it does this is not entirely hygienic, suffice it to say that moss can grow and wounds can be patched."
+    },
+    {
+      "type": "crafting",
+      "recipe": "things:moss_necklace",
+      "text": "$(o)$(#999999)A \"natural\" band-aid"
+    }
+  ]
+}

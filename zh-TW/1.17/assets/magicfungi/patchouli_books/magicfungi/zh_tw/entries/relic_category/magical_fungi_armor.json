@@ -1,0 +1,24 @@
+{
+  "name": "Magical Fungi Armor",
+  "icon": "magicfungi:magical_fungi_chestplate",
+  "category": "magicfungi:relic_category",
+  "sortnum": 5,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "magicfungi:magical_fungi_chestplate",
+      "title": "Magical Fungi Armor",
+      "text": "$(c)$(l)Magical Fungi Armor $()is a special set of armor made with $(c)$(l)Magical Fungi Alloy $()and $(l)Netherite$(). If all 4 pieces are worn at the same time, $(c)8 additional hearts $()are granted to the user."
+    },
+    {
+      "type": "crafting",
+      "recipe": "magicfungi:crafting/magical_fungi_armor/magical_fungi_helmet",
+      "recipe2": "magicfungi:crafting/magical_fungi_armor/magical_fungi_chestplate"
+    },
+    {
+      "type": "crafting",
+      "recipe": "magicfungi:crafting/magical_fungi_armor/magical_fungi_leggings",
+      "recipe2": "magicfungi:crafting/magical_fungi_armor/magical_fungi_boots"
+    }
+  ]
+}

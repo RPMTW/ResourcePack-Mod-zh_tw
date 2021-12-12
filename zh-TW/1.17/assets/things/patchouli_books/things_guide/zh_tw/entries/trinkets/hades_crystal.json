@@ -1,0 +1,15 @@
+{
+  "name": "Hades Crystal",
+  "icon": "things:hades_crystal",
+  "category": "things:trinkets",
+  "pages": [
+    {
+      "type": "text",
+      "text": "By applying the Nether's tainted heat directly to $(item)Gleaming Compound$(), a $(item)Hades Crystal$() is formed. In this new form, the Compound has learned to absorb and neutralize heat, protecting the wearer from all kinds of fire as best it can."
+    },
+    {
+      "type": "crafting",
+      "recipe": "things:hades_crystal"
+    }
+  ]
+}

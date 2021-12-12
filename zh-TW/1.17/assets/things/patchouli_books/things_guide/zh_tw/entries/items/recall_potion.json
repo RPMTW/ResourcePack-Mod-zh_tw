@@ -1,0 +1,11 @@
+{
+  "name": "Recall Potion",
+  "icon": "things:recall_potion",
+  "category": "things:items",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Quite possibly a concept as old as Minecraft itself, the $(item)Recall Potion$() allows the user to instantly return to their $(thing)Spawnpoint$() by exploiting some subspace shenanigans, whose inner workings we're still unsure about. This magical brew can be attained by imbuing an $(item)Awkward Potion$() with the powers of an $(item)Ender Pearl$() in a $(thing)Brewing Stand$()."
+    }
+  ]
+}

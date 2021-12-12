@@ -1,0 +1,16 @@
+{
+  "name": "Bater Wucket",
+  "icon": "things:bater_wucket",
+  "category": "things:items",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Legends tell of an ancient sphere called Reddit, whose inhabitants were supposedly some of the strangest people ever seen. One day, the story goes, the idea of an inverse Water Bucket, dubbed the $(item)Bater Wucket$(), surfaced and struck terror in the minds of everyone forced to witness."
+    },
+    {
+      "type": "crafting",
+      "recipe": "things:bater_wucket",
+      "text": "This cursed instrument would be constructed of pure water held together by god-knows-what and be able to dispense virtually infinite amounts of this purest of all substances.$(p)$(o)$(#999999).. what?"
+    }
+  ]
+}

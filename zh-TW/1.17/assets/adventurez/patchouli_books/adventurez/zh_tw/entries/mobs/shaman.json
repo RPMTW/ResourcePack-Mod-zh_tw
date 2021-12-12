@@ -1,11 +1,11 @@
 {
-    "name": "Shaman",
+    "name": "薩滿",
     "icon": "adventurez:stone_golem_heart",
     "category": "adventurez:mob_category",
     "pages": [
         {
             "type": "text",
-            "text": "The Shaman is a swamp creature which fell in a alchemy cauldron when it was young. Since then it experiments with some kind of evil and toxic magic"
+            "text": "薩滿是一種沼澤生物，年輕時掉進了煉金術大鍋里。從那時起，它嘗試了某種邪惡和有毒的魔法。"
         },
         {
             "type": "entity",

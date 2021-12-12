@@ -1,0 +1,44 @@
+{
+  "name": "Morbus Spreading",
+  "icon": "magicfungi:heart_of_vivifica",
+  "category": "magicfungi:morbus_category",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "magicfungi:morbus_clock",
+      "title": "Morbus Spreading",
+      "text": "The $(l:morbus_category/host_biome)Host Biome $()is home to thousands of Morbus Mushrooms, and, due to their parasitic nature, will slowly spread to surrounding biomes.$(br2)To check how many days are left before the spreading, you must craft a $(l)Morbus Clock$():"
+    },
+    {
+      "type": "crafting",
+      "recipe": "magicfungi:crafting/morbus_spreading/morbus_clock_1",
+      "title": "Morbus Clock",
+      "text": "With it, you can check if Morbus Spreading will happen on your world and if so, how many days until it'll happen.$(br)But enough predicting, let's talk about how to prevent the Morbus Spreading."
+    },
+    {
+      "type": "spotlight",
+      "item": "magicfungi:sanctificare_glyph",
+      "title": "Purifying the Morbus",
+      "text": "$(2)$(l)Sanctificare Glyph $(br2)$()$(a)Converts a small patch of Morbus into regular grass, cleaning small areas temporarily."
+    },
+    {
+      "type": "crafting",
+      "recipe": "magicfungi:crafting/morbus_spreading/heart_of_vivifica",
+      "title": "Heart of Vivifica",
+      "text": "Cures the soil from the Morbus spreading permanently, however, it won't remove the already existing damage (use the Sanctificare Glyph for that!)"
+    },
+    {
+      "type": "spotlight",
+      "item": "magicfungi:maledictio_glyph",
+      "title": "Embracing the Morbus",
+      "text": "$(8)$(l)Maledictio Glyph $(br2)$()$(7)Opposite to the Sanctificare Glyph, this glyph corrupts a small patch of regular grass into Morbus Grass."
+    },
+    {
+      "type": "crafting",
+      "recipe": "magicfungi:crafting/morbus_spreading/heart_of_morbus",
+      "title": "Heart of Morbus",
+      "text": "Reverts the effects of the Heart of Vivifica, allowing the Morbus to spread once again.$(br2)$(4)$(l)WARNING: Both Morbus corrupting items might be disabled on your modpack."
+    }
+  ]
+}
