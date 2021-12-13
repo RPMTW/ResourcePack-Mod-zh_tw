@@ -1,7 +1,7 @@
 {
     "category.autoclicker-fabric": "自動連點器",
     "keybinding.toggle-hold": "切換按住快捷鍵",
-    "keybinding.open-gui": "打開自動點擊器GUI",
+    "keybinding.open-gui": "打開自動點擊器設定",
     "autoclicker-fabric.hud.holding": "按住 %s",
     "autoclicker-fabric.msg.holding-keys": "按住快捷鍵!",
     "autoclicker-fabric.msg.released-keys": "釋放快捷鍵！",
@@ -10,11 +10,11 @@
     "autoclicker-fabric.gui.spamming": "垃圾郵件:%s",
     "autoclicker-fabric.gui.attack": "攻擊(左鍵)",
     "autoclicker-fabric.gui.use": "用(右鍵)",
-    "autoclicker-fabric.gui.respect": "尊重冷卻時間：%s",
+    "autoclicker-fabric.gui.respect": "等待冷卻時間",
     "autoclicker-fabric.gui.mob-mode": "生物模式:%s",
     "autoclicker-fabric.gui.help.active": "如果啟用，它將使用下面的選項來確定如何自動點擊",
     "autoclicker-fabric.gui.help.spamming": "啟用後，按鍵將被按下，然後取消按下，您可以在下面控制此操作發生的速度。",
-    "autoclicker-fabric.gui.help.cooldown": "啟用後，如果檢測到生物，將根據攻擊的冷卻時間點擊該按鈕。",
-    "autoclicker-fabric.gui.help.mob-mode": "（必須啟用“尊重冷卻時間”）。啟用時，僅當生物直接可見時，才會按一下該按鈕。",
+    "autoclicker-fabric.gui.help.cooldown": "啟用後，如果偵測到生物，將會以攻擊的冷卻時間點擊該按鈕。",
+    "autoclicker-fabric.gui.help.mob-mode": "（必須啟用“等待冷卻時間”）。啟用時，僅限生物在可見範圍時，才會按一下該按鈕。",
     "autoclicker-fabric.gui.help.spam-speed": "啟用“垃圾郵件”時，此設定將確定每次按一下之間的滴答聲數量，0=關閉，1+=1tick延遲。"
 }
