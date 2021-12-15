@@ -318,7 +318,7 @@
     "ars_nouveau.glyph_desc.pickup": "在法術啟動處以中等半徑拾取附近物品。範圍可透過範圍效果增加。",
     "ars_nouveau.glyph_desc.pierce": "當用於彈射物法術，彈射物會在命中方塊或生物後繼續前進一次。導致特定效果也能命中目標背後的方塊，例如破壞。和範圍效果組合可增加影響的深度。",
     "ars_nouveau.glyph_desc.place_block": "從施法者物品欄放置方塊。如果是玩家在施法，法術會優先放置物品欄的方塊。",
-    "ars_nouveau.glyph_desc.projectile": "你的初始法術構件。召喚一個彈射物，彈射物命中目標或方塊時會造成法術效果。被敏感構件增強後，彈射物能破壞草之類不影響實體移動的方塊。",
+    "ars_nouveau.glyph_desc.projectile": "A spell you start with. Summons a projectile that applies spell effects when this projectile hits a target or block. Sensitive will allow Projectiles to break plants or other materials that do not block motion.",
     "ars_nouveau.glyph_desc.pull": "將目標拉近施法者",
     "ars_nouveau.glyph_desc.redstone_signal": "在方塊上創造一道紅石訊號脈衝，就像按鈕一樣。訊號初始強度為 10，可透過強化提高，也可透過抑制降低。脈衝時長可透過延長時效延長。",
     "ars_nouveau.glyph_desc.rune": "在地上放置一個符文，會對觸碰符文的目標施放法術。與符文粉筆放置的符文不同，這些符文是一次性的，而且不能充能。使用拾取物品時，物品會放在相鄰容器中。",
@@ -866,5 +866,7 @@
     "ars_nouveau.page4.weald_walker": "能對附近敵人施展強化過的傷害和禁錮。",
     "ars_nouveau.page5.weald_walker": "能對附近敵人施展脆弱詛咒和強化過的凋零。",
     "ars_nouveau.page1.weald_waddler": "如果林地行者死亡，它會變成林地蹣跚者。林地蹣跚者又會慢慢長大，變回林地行者，對其使用骨粉可以加速這個過程。林地蹣跚者在長大前無法戰鬥，也不能自保。",
-    "ars_nouveau.page3.warp_portal": "A magical portal that can send players, mobs, spells, and items to any location in the same dimension."
+    "ars_nouveau.page3.warp_portal": "A magical portal that can send players, mobs, spells, and items to any location in the same dimension.",
+    "ars_nouveau.source": "Source: %s",
+    "ars_nouveau.crush_recipe": "Crush Glyph"
 }
