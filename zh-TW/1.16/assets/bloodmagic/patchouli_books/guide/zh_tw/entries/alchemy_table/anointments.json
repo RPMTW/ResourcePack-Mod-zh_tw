@@ -2,12 +2,6 @@
   "name": "藥水膏",
   "icon": "bloodmagic:melee_anointment",
   "category": "bloodmagic:alchemy_table",
-  "extra_recipe_mappings": [
-    [
-      "bloodmagic:slate_vial",
-      1
-    ]
-  ],
   "pages": [
     {
       "type": "text",
