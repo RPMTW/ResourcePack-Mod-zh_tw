@@ -10,8 +10,8 @@
         } , 
         {
             "type": "entity" ,
-            "title": "",
-            "entity": "untamedwilds:bear_blind"
+            "entity": "untamedwilds:bear{Variant: 1}" ,
+            "text": ""
         }
     ]
 }

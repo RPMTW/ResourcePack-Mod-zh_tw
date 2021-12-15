@@ -191,5 +191,15 @@
     "item.minecraft.tipped_arrow.effect.love": "Arrow of Love",
     "item.minecraft.tipped_arrow.effect.magic_resistance": "Arrow of Magic Resistance",
     "item.minecraft.tipped_arrow.effect.panacea": "Arrow of Panacea",
-    "effect.cofh_core.slimed": "Slimed"
+    "effect.cofh_core.slimed": "Slimed",
+    "commands.cofh.recharge.success.single": "Supercharging %s",
+    "commands.cofh.recharge.success.multiple": "Supercharging %s entities",
+    "info.cofh.another_player": "Another Player",
+    "info.cofh.amount_unmodifiable": "Unmodifiable Amount",
+    "info.cofh.boostable": "Boostable",
+    "info.cofh.claimable": "Claimable",
+    "info.cofh.heads": "Heads",
+    "info.cofh.none": "None",
+    "info.cofh.tails": "Tails",
+    "effect.cofh_core.supercharge": "Supercharging"
 }

@@ -18,5 +18,12 @@
     "wither.first_summon": "You spawned your first Wither. Be aware that every Wither you spawn will make the next one harder to fight.",
     "elder_guardian.approach": "Seems like you're approaching an Ocean Monument, until you defeat all the Elder guardians ... or unless you flee ... you'll not be able to break blocks.",
     "item.progressivebosses.elder_guardian_spike": "Elder Guardian Spike",
-    "progressivebosses:elder_minion": "Elder Minion"
+    "progressivebosses:elder_minion": "Elder Minion",
+    "wither.minion": "Wither Minion",
+    "dragon.larva": "Dragon Larva",
+    "dragon.minion": "Dragon Minion",
+    "command.player_get_wither_difficulty": "%s has summoned %d Withers",
+    "command.player_get_dragon_difficulty": "%s has killed %d Dragons",
+    "command.player_set_boss_difficulty": "Set %s's %s difficulty to %d",
+    "command.player_add_boss_difficulty": "Added %d %s's Difficulty to %s (now %d)"
 }

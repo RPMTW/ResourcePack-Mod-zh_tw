@@ -1294,5 +1294,9 @@
     "advancements.secret_calibur.title": "Secret Calibur",
     "mahoutsukai.projector.orbitspeedvalue": "Orbit Speed:",
     "mahoutsukai.projector.prepitchvalue": "Orbit Pitch:",
-    "mahoutsukai.projector.preyawvalue": "Orbit Yaw:"
+    "mahoutsukai.projector.preyawvalue": "Orbit Yaw:",
+    "": "",
+    "mahoutsukai.config.mana_increase_log_punishment.name": "Apply logarithmic punishment to mana increase based on current max",
+    "mahoutsukai.config.punishment_factor.name": "Punishment factor for mana increase based on current max",
+    "mahoutsukai.config.unholy_words.name": "Words which are considered unholy by Caliburn and Rhongomyniad"
 }

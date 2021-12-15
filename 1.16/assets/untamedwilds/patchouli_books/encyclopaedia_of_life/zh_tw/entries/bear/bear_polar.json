@@ -9,9 +9,9 @@
             "text": "The Polar Bear ($(o)Ursus maritimus$()) is one of the largest species of bear, found rarely in frozen biomes and commonly prowling the ice sheets of frozen oceans. $(br2)Polar Bears are hypercarnivorous often hunting from the edge of sea ice, living off fat reserves when no sea ice is present."
         } ,
         {
-            "type": "entity" , 
-            "title": "",
-            "entity": "untamedwilds:bear_polar"
+            "type": "entity" ,
+            "entity": "untamedwilds:bear{Variant: 5}" ,
+            "text": ""
         }
     ]
 }

@@ -25,7 +25,7 @@
     "block.simplylight.lightbulb": "Simple Light Bulb",
     "block.simplylight.lightbulb.info": "Just a simple light bulb,",
     "block.simplylight.lightbulb.info2": "place in any direction.",
-    "block.simplylight.rodlamp": "Rod Lamp",
+    "block.simplylight.rodlamp": "Illuminant Rod",
     "block.simplylight.rodlamp.info": "A simple rod of light.",
     "block.simplylight.rodlamp.info2": "Can be placed in any direction.",
     "block.simplylight.illuminant_black_block": "Illuminant Black Block",
@@ -118,5 +118,8 @@
     "block.simplylight.illuminant_yellow_block_on": "Illuminant Yellow Block (Inverted)",
     "block.simplylight.illuminant_yellow_block_on.info": "Simple light block,",
     "block.simplylight.illuminant_yellow_block_on.info2": "Deactivates by %s.",
-    "simplylight.redstone": "Redstone"
+    "simplylight.redstone": "Redstone",
+    "block.simplylight.lamp_post": "Illuminant Column",
+    "block.simplylight.lamp_post.info": "3 Block tall lamp post.",
+    "block.simplylight.lamp_post.info2": "Top block emits light."
 }

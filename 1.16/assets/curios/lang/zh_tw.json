@@ -37,5 +37,11 @@
     "curios.modifiers.bracelet": "When worn as bracelet:",
     "key.curios.category": "Curios",
     "key.curios.open.desc": "Open/Close Curios Inventory",
-    "gui.curios.toggle": "Toggle Visibility"
+    "gui.curios.toggle": "Toggle Visibility",
+    "curios.modifiers.slots.plus.0": "+%s %s Slots",
+    "curios.modifiers.slots.plus.1": "+%s%% %s Slots",
+    "curios.modifiers.slots.plus.2": "+%s%% %s Slots",
+    "curios.modifiers.slots.take.0": "-%s %s Slots",
+    "curios.modifiers.slots.take.1": "-%s%% %s Slots",
+    "curios.modifiers.slots.take.2": "-%s%% %s Slots"
 }

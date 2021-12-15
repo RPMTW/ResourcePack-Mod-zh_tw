@@ -615,5 +615,7 @@
     "trainer.bloodmagic.allowupgrade": "Allow up to: %s %s",
     "trainer.bloodmagic.blacklist": "Allow other upgrades",
     "trainer.bloodmagic.blockupgrade": "Deny: %s",
-    "trainer.bloodmagic.whitelist": "Deny other upgrades"
+    "trainer.bloodmagic.whitelist": "Deny other upgrades",
+    "curios.identifier.living_armour_socket": "Living Armour Socket",
+    "living_upgrade.bloodmagic.curios_socket": "Socketed"
 }
