@@ -1,8 +1,8 @@
 {
-    "text.autoconfig.autoconfig1u_example.title": "自動配置範例",
+    "text.autoconfig.autoconfig1u_example.title": "自動設定範例",
     "text.autoconfig.autoconfig1u_example.category.a": "範例種類 A",
     "text.autoconfig.autoconfig1u_example.category.b": "範例種類 B",
-    "text.autoconfig.autoconfig1u_example.option.moduleA.aBoolean.@PrefixText": "這是使用自動配置API 產生自動配置GUI 的範例",
+    "text.autoconfig.autoconfig1u_example.option.moduleA.aBoolean.@PrefixText": "這是使用自動設定API 產生自動設定GUI 的範例",
     "text.autoconfig.autoconfig1u_example.option.moduleA.aBoolean": "布林值",
     "text.autoconfig.autoconfig1u_example.option.moduleA.anEnum": "枚舉",
     "text.autoconfig.autoconfig1u_example.option.moduleA.anEnum.@Tooltip[0]": "這是工具提示範例。",
