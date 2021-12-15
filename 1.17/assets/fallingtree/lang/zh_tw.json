@@ -149,7 +149,7 @@
     "text.autoconfig.fallingtree.option.tools.speedMultiplicand.@Tooltip[12]": "WARNING: If you are on a server, this either has to be set to 0",
     "text.autoconfig.fallingtree.option.tools.speedMultiplicand.@Tooltip[13]": "or every player should have the mod. Else they'll have a weird",
     "text.autoconfig.fallingtree.option.tools.speedMultiplicand.@Tooltip[14]": "effect of breaking the block but the block is still there.",
-    "chat.fallingtree.tree_too_big": "This tree is too big and can't be broken in one hit (max: %d)",
+    "chat.fallingtree.tree_too_big": "This tree is too big won't be scanned further (max scan size: %d)",
     "chat.fallingtree.prevented_break_tool": "Your tool is about to break, go repair it or get a new one.",
     "text.autoconfig.fallingtree.option.trees.maxScanSize": "Max scan size",
     "text.autoconfig.fallingtree.option.trees.maxScanSize.@Tooltip[0]": "The maximum number of blocks that",
@@ -187,5 +187,7 @@
     "text.autoconfig.fallingtree.option.tools.damageRounding.@Tooltip[4]": "ROUND_UP will round up.",
     "text.autoconfig.fallingtree.option.tools.damageRounding.@Tooltip[5]": "PROBABILISTIC will treat decimal fraction as a probability of rounding up.",
     "text.autoconfig.fallingtree.option.tools.damageRounding.@Tooltip[6]": "ie: 9.45 will have 45% chance of being rounded up to 10",
-    "text.autoconfig.fallingtree.option.tools.damageRounding.@Tooltip[7]": "and 55% chance of being rounded down to 9."
+    "text.autoconfig.fallingtree.option.tools.damageRounding.@Tooltip[7]": "and 55% chance of being rounded down to 9.",
+    "text.autoconfig.fallingtree.option.notificationMode.@Tooltip[4]": "NONE: No notifications will appear.",
+    "chat.fallingtree.break_tree_too_big": "This tree is too big and can't be broken in one hit (max tree size: %d)"
 }
