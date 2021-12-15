@@ -833,5 +833,8 @@
     "xat.config.races.dragon.flight.speed.amount": "Creative Flight Speed Amount",
     "xat.config.races.dragon.flight.speed.amount.tooltip": "Directly Sets the Movement speed for Creative Flight",
     "xat.config.races.dragon.flight.cost": "Flight Cost",
-    "xat.config.races.dragon.flight.cost.tooltip": "Mana Cost per second while flying"
+    "xat.config.races.dragon.flight.cost.tooltip": "Mana Cost per second while flying",
+    "item.dragons_eye.0.nightvision": "#darkgreen:Grants Night Vision $nightvision:",
+    "xat.config.faelis_ring": "Ring of the Faeles Settings",
+    "xat.config.faelis_ring.tooltip": ""
 }

@@ -164,8 +164,8 @@
     "tile.wrought_tile.name": "Wrought Iron Tile",
     "tile.wrought_platform.name": "Wrought Iron Platform",
     "tile.wrought_platform_slab.name": "Wrought Iron Platform",
-    "item.mug.name": "Mug of %s",
-    "item.mug.empty.name": "Empty Mug",
+    "item.mug.name": "Mug of %s [WIP]",
+    "item.mug.empty.name": "Empty Mug [WIP]",
     "item.signet_antimony.name": "Signet of Antimony",
     "item.ingot_antimony.name": "Antimony Ingot",
     "item.stamp_text_raw.name": "Raw Inscription Stamp",
@@ -189,7 +189,7 @@
     "fluid.vodka": "Potato Vodka",
     "fluid.absinthe": "Absinthe",
     "fluid.methanol": "Pyroligneous Spirit",
-    "fluid.umber_ale": "Umber Ale [WIP]",
+    "fluid.umber_ale": "Umber Ale",
     "fluid.inner_fire": "Inner Fire Ale",
     "fluid.snowpoff": "Snowpoff Vodka",
     "potion.potency.6": "VII",
@@ -319,5 +319,8 @@
     "distilling.modifier.dial.slower_chugging": "- Slower Chugging",
     "distilling.modifier.dial.faster_chugging": "- Faster Chugging",
     "distilling.modifier.dial.fire_retardant": "- Fire Retardant",
-    "subtitles.sulfur_ore.vent": "Sulfur Ore releases corrosive cloud"
+    "subtitles.sulfur_ore.vent": "Sulfur Ore releases corrosive cloud",
+    "embers.jei.recipe.dawnstone_anvil": "Dawnstone Anvil Recipe",
+    "tile.ember_funnel.name": "Ember Funnel",
+    "fluid.ale": "Ale"
 }

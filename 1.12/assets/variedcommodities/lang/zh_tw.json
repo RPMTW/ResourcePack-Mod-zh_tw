@@ -1,5 +1,5 @@
 {
-    "block.editIcon": "You have 10 seconds to place an Icon",
+    "block.editIcon": "You have 10 seconds to place an normal item, blocks dont work",
     "itemGroup.vcweapons": "VariedCommodities Weapons",
     "itemGroup.vcarmors": "VariedCommodities Armors",
     "itemGroup.vcblocks": "VariedCommodities Blocks",
@@ -390,5 +390,10 @@
     "item.money.name": "Money",
     "item.necklace.name": "Necklace",
     "item.usb_stick.name": "USB-Stick",
-    "item.vcrecipes_book.name": "VariedCommodities Recipe Book"
+    "item.vcrecipes_book.name": "VariedCommodities Recipe Book",
+    "item.holyhandgrenade.name": "Holy Hand Grenade",
+    "gui.clear": "Clear",
+    "gui.paste": "Paste",
+    "gui.copy": "Copy",
+    "gui.close": "Close"
 }

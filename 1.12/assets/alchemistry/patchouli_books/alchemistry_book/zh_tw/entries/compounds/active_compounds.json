@@ -1,47 +1,47 @@
 {
   "name": "Active Compound List",
-  "icon": "chemlib:compound_potassium_cyanide",
+  "icon": "alchemistry:compound:54",
   "category": "compounds_category",
   "pages": [
     {
       "type": "spotlight",
-      "item": "chemlib:compound_potassium_cyanide",
+      "item": "alchemistry:compound:54",
       "title": "Potassium Cyanide",
       "text": "Extremely poisonous, do not consume!"
     },
     {
       "type": "spotlight",
-      "item": "chemlib:compound_psilocybin",
+      "item": "alchemistry:compound:21",
       "title": "Psilocybin",
       "text": "Grants the user night vision, slowness, and an appreciation for the small details of nature"
     },
     {
       "type": "spotlight",
-      "item": "chemlib:compound_penicillin",
+      "item": "alchemistry:compound:58",
       "title": "Penicillin",
       "text": "Clears all status effects from the user and heals them a small amount"
     },
     {
       "type": "spotlight",
-      "item": "chemlib:compound_epinephrine",
+      "item": "alchemistry:compound:55",
       "title": "Epinephrine",
       "text": "The user gains night vision and an increase in speed"
     },
     {
       "type": "spotlight",
-      "item": "chemlib:compound_caffeine",
+      "item": "alchemistry:compound:59",
       "title": "Caffeine",
       "text": "The user gains night vision and an increase in speed, same as epinephrine"
     },
     {
       "type": "spotlight",
-      "item": "chemlib:compound_cocaine",
+      "item": "alchemistry:compound:56",
       "title": "Cocaine",
       "text": "The user can jump and run around like a cheetah"
     },
     {
       "type": "spotlight",
-      "item": "chemlib:compound_acetylsalicylic_acid",
+      "item": "alchemistry:compound:57",
       "title": "Acetylsalicylic Acid",
       "text": "Heals the user by 2.5 hearts"
     }
