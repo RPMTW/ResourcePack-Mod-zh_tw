@@ -1,134 +1,141 @@
 {
-    "name": "作物",
-    "icon": "thermal:barley",
-    "read_by_default": true,
-    "flag": "mod:thermal_cultivation",
-    "category": "thermal:plants",
-    "pages": [
-        {
-            "type": "text",
-            "text": "Thermal Cultivation adds a variety of crops, the seeds of which may be purchased from villagers. These crops can be harvested by right clicking with an empty hand."
-        },
-        {
-            "type": "2-2_item_page",
-            "A.title": "靈活跳躍",
-            "A.item1": "thermal:hops",
-            "A.item2": "thermal:hops_seeds",
-            "A.text": "The seed cones of a flowering hop vine. Used to flavor beer.",
-            "B.title": "玉米",
-            "B.item1": "thermal:corn",
-            "B.item2": "thermal:corn_seeds",
-            "B.text": "A staple grain prized for its versatility."
-        },
-        {
-            "type": "2-2_item_page",
-            "A.title": "大麥",
-            "A.item1": "thermal:barley",
-            "A.item2": "thermal:barley_seeds",
-            "A.text": "A cereal grain which can be ground into flour or malted to make beer or whiskey.",
-            "B.title": "小蘿蔔",
-            "B.item1": "thermal:radish",
-            "B.item2": "thermal:radish_seeds",
-            "B.text": "A root vegetable with a sharp flavor, typically eaten raw or steamed."
-        },
-        {
-            "type": "2-2_item_page",
-            "A.title": "洋蔥",
-            "A.item1": "thermal:onion",
-            "A.item2": "thermal:onion_seeds",
-            "A.text": "A bulbous vegetable that is often used to add flavor to a savory dish. Brings people to tears.",
-            "B.title": "大米",
-            "B.item1": "thermal:rice",
-            "B.item2": "thermal:rice_seeds",
-            "B.text": "The most widely consumed staple grain in the world. Laborious to harvest."
-        },
-        {
-            "type": "2-2_item_page",
-            "A.title": "薩蒂根梗",
-            "A.item1": "thermal:sadiroot",
-            "A.item2": "thermal:sadiroot_seeds",
-            "A.text": "A medicinal spice known for its cleansing properties. Has a distinctive aroma.",
-            "B.title": "菠菜",
-            "B.item1": "thermal:spinach",
-            "B.item2": "thermal:spinach_seeds",
-            "B.text": "The leaves of a spinach plant. Grants sailors an increase in muscle mass."
-        },
-        {
-            "type": "2-2_item_page",
-            "A.title": "甜椒",
-            "A.item1": "thermal:bell_pepper",
-            "A.item2": "thermal:bell_pepper_seeds",
-            "A.text": "A cultivar of peppers without the spice. Commonly chopped and used in dishes.",
-            "B.title": "茄子",
-            "B.item1": "thermal:eggplant",
-            "B.item2": "thermal:eggplant_seeds",
-            "B.text": "一種用於許多菜餚的紫色海綿狀$(l)果實$()。 傾向於吸收其他味道。"
-        },
-        {
-            "type": "2-2_item_page",
-            "A.title": "四季豆",
-            "A.item1": "thermal:green_bean",
-            "A.item2": "thermal:green_bean_seeds",
-            "A.text": "The immature seed pods of a bean plant. Can be consumed alone or cooked in various dishes.",
-            "B.title": "花生",
-            "B.item1": "thermal:peanut",
-            "B.item2": "thermal:peanut_seeds",
-            "B.text": "The seeds of a peanut plant. Often roasted, pressed into oil, or ground into peanut butter."
-        },
-        {
-            "type": "2-2_item_page",
-            "A.title": "草莓",
-            "A.item1": "thermal:strawberry",
-            "A.item2": "thermal:strawberry_seeds",
-            "A.text": "一種甜的紅色果實，用於各種調味品和甜點。",
-            "B.title": "番茄",
-            "B.item1": "thermal:tomato",
-            "B.item2": "thermal:tomato_seeds",
-            "B.text": "一種美味的紅色$(l)果實$()，通常切片用於菜餚或榨汁製成醬汁和湯。"
-        },
-        {
-            "type": "2-2_item_page",
-            "A.title": "咖啡",
-            "A.item1": "thermal:coffee",
-            "A.item2": "thermal:coffee_seeds",
-            "A.text": "咖啡樹的果實，可以烘烤、研磨和釀造咖啡樹的果核，成為模組開發者的命脈。",
-            "B.title": "茶",
-            "B.item1": "thermal:tea",
-            "B.item2": "thermal:tea_seeds",
-            "B.text": "The leaves of a tea plant. Often dumped into the ocean during tea parties."
-        },
-        {
-            "type": "3_item_page",
-            "A.title": "Hops",
-            "A.item1": "thermal:hops",
-            "A.item2": "thermal:hops_seeds",
-            "A.text": "The seed cones of a flowering hop vine. Used to flavor beer.",
-            "B.title": "Frost Melon",
-            "B.item1": "thermal:frost_melon_slice",
-            "B.item2": "thermal:frost_melon_seeds",
-            "B.text": "A blue cultivar of melons. Those who consume it find that even the hottest of surfaces feel icy."
-        },
-        {
-            "type": "2-2_item_page",
-            "A.title": "Fluxtooth",
-            "A.item1": "minecraft:redstone",
-            "A.item2": "thermal:redstone_mushroom_spores",
-            "A.text": "一種蒼白的蘑菇，成熟時會散發出一種黏稠的、類似紅石的汁液。",
-            "B.title": "Glimmercap",
-            "B.item1": "minecraft:glowstone_dust",
-            "B.item2": "thermal:glowstone_mushroom_spores",
-            "B.text": "A glowing fungus that produces a thin layer of shimmering, golden powder on its cap."
-        },
-        {
-            "type": "2-2_item_page",
-            "A.title": "Boomshroom",
-            "A.item1": "minecraft:gunpowder",
-            "A.item2": "thermal:gunpowder_mushroom_spores",
-            "A.text": "A temperamental mushroom that grows webs of explosive material on its underside.",
-            "B.title": "Slitake",
-            "B.item1": "minecraft:slime_ball",
-            "B.item2": "thermal:slime_mushroom_spores",
-            "B.text": "A gooey fungus that secretes protective slime, which can be congealed into balls."
-        }
-    ]
+  "name": "作物",
+  "icon": "thermal:barley",
+  "read_by_default": true,
+  "flag": "mod:thermal_cultivation",
+  "category": "thermal:plants",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Thermal Cultivation adds a variety of crops, the seeds of which may be purchased from villagers. These crops can be harvested by right clicking with an empty hand."
+    },
+    {
+      "type": "2-2_item_page",
+      "A.title": "靈活跳躍",
+      "A.item1": "thermal:hops",
+      "A.item2": "thermal:hops_seeds",
+      "A.text": "The seed cones of a flowering hop vine. Used to flavor beer.",
+      "B.title": "玉米",
+      "B.item1": "thermal:corn",
+      "B.item2": "thermal:corn_seeds",
+      "B.text": "A staple grain prized for its versatility."
+    },
+    {
+      "type": "2-2_item_page",
+      "A.title": "大麥",
+      "A.item1": "thermal:barley",
+      "A.item2": "thermal:barley_seeds",
+      "A.text": "A cereal grain which can be ground into flour or malted to make beer or whiskey.",
+      "B.title": "小蘿蔔",
+      "B.item1": "thermal:radish",
+      "B.item2": "thermal:radish_seeds",
+      "B.text": "A root vegetable with a sharp flavor, typically eaten raw or steamed."
+    },
+    {
+      "type": "2-2_item_page",
+      "A.title": "洋蔥",
+      "A.item1": "thermal:onion",
+      "A.item2": "thermal:onion_seeds",
+      "A.text": "A bulbous vegetable that is often used to add flavor to a savory dish. Brings people to tears.",
+      "B.title": "大米",
+      "B.item1": "thermal:rice",
+      "B.item2": "thermal:rice_seeds",
+      "B.text": "The most widely consumed staple grain in the world. Laborious to harvest."
+    },
+    {
+      "type": "2-2_item_page",
+      "A.title": "薩蒂根梗",
+      "A.item1": "thermal:sadiroot",
+      "A.item2": "thermal:sadiroot_seeds",
+      "A.text": "A medicinal spice known for its cleansing properties. Has a distinctive aroma.",
+      "B.title": "菠菜",
+      "B.item1": "thermal:spinach",
+      "B.item2": "thermal:spinach_seeds",
+      "B.text": "The leaves of a spinach plant. Grants sailors an increase in muscle mass."
+    },
+    {
+      "type": "2-2_item_page",
+      "A.title": "甜椒",
+      "A.item1": "thermal:bell_pepper",
+      "A.item2": "thermal:bell_pepper_seeds",
+      "A.text": "A cultivar of peppers without the spice. Commonly chopped and used in dishes.",
+      "B.title": "茄子",
+      "B.item1": "thermal:eggplant",
+      "B.item2": "thermal:eggplant_seeds",
+      "B.text": "一種用於許多菜餚的紫色海綿狀$(l)果實$()。 傾向於吸收其他味道。"
+    },
+    {
+      "type": "2-2_item_page",
+      "A.title": "四季豆",
+      "A.item1": "thermal:green_bean",
+      "A.item2": "thermal:green_bean_seeds",
+      "A.text": "The immature seed pods of a bean plant. Can be consumed alone or cooked in various dishes.",
+      "B.title": "花生",
+      "B.item1": "thermal:peanut",
+      "B.item2": "thermal:peanut_seeds",
+      "B.text": "The seeds of a peanut plant. Often roasted, pressed into oil, or ground into peanut butter."
+    },
+    {
+      "type": "2-2_item_page",
+      "A.title": "草莓",
+      "A.item1": "thermal:strawberry",
+      "A.item2": "thermal:strawberry_seeds",
+      "A.text": "一種甜的紅色果實，用於各種調味品和甜點。",
+      "B.title": "番茄",
+      "B.item1": "thermal:tomato",
+      "B.item2": "thermal:tomato_seeds",
+      "B.text": "一種美味的紅色$(l)果實$()，通常切片用於菜餚或榨汁製成醬汁和湯。"
+    },
+    {
+      "type": "2-2_item_page",
+      "A.title": "咖啡",
+      "A.item1": "thermal:coffee",
+      "A.item2": "thermal:coffee_seeds",
+      "A.text": "咖啡樹的果實，可以烘烤、研磨和釀造咖啡樹的果核，成為模組開發者的命脈。",
+      "B.title": "茶",
+      "B.item1": "thermal:tea",
+      "B.item2": "thermal:tea_seeds",
+      "B.text": "The leaves of a tea plant. Often dumped into the ocean during tea parties."
+    },
+    {
+      "type": "3_item_page",
+      "A.title": "Hops",
+      "A.item1": "thermal:hops",
+      "A.item2": "thermal:hops_seeds",
+      "A.text": "The seed cones of a flowering hop vine. Used to flavor beer.",
+      "B.title": "Frost Melon",
+      "B.item1": "thermal:frost_melon_slice",
+      "B.item2": "thermal:frost_melon_seeds",
+      "B.text": "A blue cultivar of melons. Those who consume it find that even the hottest of surfaces feel icy."
+    },
+    {
+      "type": "2-2_item_page",
+      "A.title": "Fluxtooth",
+      "A.item1": "minecraft:redstone",
+      "A.item2": "thermal:redstone_mushroom_spores",
+      "A.text": "一種蒼白的蘑菇，成熟時會散發出一種黏稠的、類似紅石的汁液。",
+      "B.title": "Glimmercap",
+      "B.item1": "minecraft:glowstone_dust",
+      "B.item2": "thermal:glowstone_mushroom_spores",
+      "B.text": "A glowing fungus that produces a thin layer of shimmering, golden powder on its cap."
+    },
+    {
+      "type": "2-2_item_page",
+      "A.title": "Boomshroom",
+      "A.item1": "minecraft:gunpowder",
+      "A.item2": "thermal:gunpowder_mushroom_spores",
+      "A.text": "A temperamental mushroom that grows webs of explosive material on its underside.",
+      "B.title": "Slitake",
+      "B.item1": "minecraft:slime_ball",
+      "B.item2": "thermal:slime_mushroom_spores",
+      "B.text": "A gooey fungus that secretes protective slime, which can be congealed into balls."
+    },
+    {
+      "type": "2_item_page",
+      "title": "Amaranth",
+      "item1": "thermal:amaranth",
+      "item2": "thermal:amaranth_seeds",
+      "text": "A vibrant grain packed with nutrients and alchemical properties."
+    }
+  ]
 }
