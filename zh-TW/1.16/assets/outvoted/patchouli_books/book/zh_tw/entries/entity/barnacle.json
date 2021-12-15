@@ -6,12 +6,12 @@
     {
       "type": "entity",
       "entity": "outvoted:barnacle",
-      "scale": "0.2",
+      "scale": "0.3",
       "text": "潛伏在海洋最深處的可怕怪物，不斷地等待著牠的下一個受害者。"
     },
     {
       "type": "text",
-      "text": "海妖，最初被稱為深海怪物，是深海中的一種恐怖動物，牠只會在最深的海洋中生成，並且會追逐任何偶然闖入牠家的旅行者。牠可以捕捉船隻並抓住玩家將他們拉到海面下。$(br2)掉落: $(l:items/barnacle_tooth)海妖尖牙$(/l)"
+      "text": "The Barnacle, originally referred to as the Monster of the Ocean Depths, is a terror of the deep sea. It only spawns in the deepest of oceans and will chase any travelers that happen to stumble into its home. It can catch boats and grab players to pull them under the ocean surface. $(br2)Drops: $(l:items/barnacle_tooth)Barnacle Tooth$(/l)"
     }
   ]
 }
