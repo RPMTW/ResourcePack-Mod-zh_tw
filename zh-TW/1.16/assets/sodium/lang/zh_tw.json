@@ -15,7 +15,7 @@
     "sodium.options.gui_scale.tooltip": "設定介面尺寸比例。如果設定為「自動」，則使用可能的最大比例。",
     "sodium.options.fullscreen.tooltip": "啟用後，遊戲將全螢幕顯示（若支援）。",
     "sodium.options.v_sync.name": "垂直同步",
-    "sodium.options.v_sync.tooltip": "啟用後，遊戲的FPS將與顯示器的刷新率同步，從而在犧牲整體輸入延遲的情況下獲得更流暢的體驗。如果設備設定過低，此設定可能會降低效能。",
+    "sodium.options.v_sync.tooltip": "啟用後，遊戲的FPS將與顯示器的更新率同步，從而在犧牲整體輸入延遲的情況下獲得更流暢的體驗。如果裝置設定過低，此設定可能會降低效能。",
     "sodium.options.fps_limit.tooltip": "限制最大FPS。此選項有限制遊戲渲染速度的的效果，因此開啟此選項有利於提升電池續航或多任務處理。啟用垂直同步時此選項會被自動忽略，除非該值低於顯示器的刷新",
     "sodium.options.view_bobbing.tooltip": "啟用後，玩家在移動時的視角會搖晃擺動。停用該選項可緩解暈動症症狀。",
     "sodium.options.attack_indicator.tooltip": "控制攻擊顯示計顯示在畫面上的位置。",
@@ -53,6 +53,6 @@
     "sodium.options.disable_driver_blacklist.tooltip": "If selected, Sodium will ignore the built-in driver blacklist and enable options which are known to be broken with your system configuration. This might cause serious problems and should not be used unless you really do know better. The settings screen must be saved, closed, and re-opened after changing this option in order to reveal previously hidden options.",
     "sodium.options.performance_impact_string": "效能影響：%s",
     "sodium.options.buttons.undo": "復原",
-    "sodium.options.buttons.apply": "應用",
+    "sodium.options.buttons.apply": "套用變更",
     "sodium.options.buttons.close": "關閉"
 }
