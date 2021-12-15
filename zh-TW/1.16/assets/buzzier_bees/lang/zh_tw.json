@@ -4,7 +4,7 @@
     "item.buzzier_bees.sticky_honey_wand": "黏性蜂蜜手杖",
     "item.buzzier_bees.honey_apple": "蜂蜜蘋果",
     "item.buzzier_bees.honey_bread": "蜂蜜麵包",
-    "item.buzzier_bees.glazed_porkchop": "蜜汁豬排",
+    "item.buzzier_bees.glazed_porkchop": "Honey Glazed Porkchop",
     "item.buzzier_bees.silverfish_bottle": "蠹魚瓶",
     "item.buzzier_bees.endermite_bottle": "終界蟎瓶",
     "item.buzzier_bees.bee_bottle": "蜜蜂瓶",
@@ -157,5 +157,16 @@
     "block.minecraft.banner.mca_honeycomb.lightBlue": "淺藍色蜂巢",
     "block.minecraft.banner.mca_honeycomb.magenta": "洋紅色蜂巢",
     "block.minecraft.banner.mca_honeycomb.orange": "橙色蜂巢",
-    "block.minecraft.banner.mca_honeycomb.white": "白色蜂巢"
+    "block.minecraft.banner.mca_honeycomb.white": "白色蜂巢",
+    "block.buzzier_bees.oak_beehive": "Oak Beehive",
+    "advancements.buzzier_bees.adventure.four_leaf_clover.title": "Better Luck This Time",
+    "advancements.buzzier_bees.adventure.four_leaf_clover.description": "Find a Four Leaf Clover",
+    "advancements.buzzier_bees.husbandry.use_honey_apple.title": "An Apple a Day",
+    "advancements.buzzier_bees.husbandry.use_honey_apple.description": "Use a Honey Apple to cure Levitation",
+    "advancements.buzzier_bees.husbandry.use_honey_bread.title": "Good Omens",
+    "advancements.buzzier_bees.husbandry.use_honey_bread.description": "Use Honey Bread to cure Bad Omen",
+    "advancements.buzzier_bees.husbandry.use_glazed_porkchop.title": "Knees Weak, Arms Honey",
+    "advancements.buzzier_bees.husbandry.use_glazed_porkchop.description": "Use a Glazed Porkchop to cure Mining Fatigue",
+    "block.minecraft.banner.mca_honeycomb.light_gray": "Light Gray Honeycomb",
+    "block.minecraft.banner.mca_honeycomb.light_blue": "Light Blue Honeycomb"
 }
