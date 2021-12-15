@@ -615,5 +615,7 @@
     "trainer.bloodmagic.allowupgrade": "允許最多： %s %s",
     "trainer.bloodmagic.blacklist": "允許其他升級",
     "trainer.bloodmagic.blockupgrade": "拒絕： %s",
-    "trainer.bloodmagic.whitelist": "拒絕其他升級"
+    "trainer.bloodmagic.whitelist": "拒絕其他升級",
+    "curios.identifier.living_armour_socket": "Living Armour Socket",
+    "living_upgrade.bloodmagic.curios_socket": "Socketed"
 }
