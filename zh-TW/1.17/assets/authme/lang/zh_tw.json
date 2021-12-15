@@ -8,7 +8,7 @@
     "gui.authme.auth.greeting": "已登入為 %s",
     "gui.authme.auth.message.failed.credentials": "認證無效！",
     "gui.authme.auth.message.failed.generic": "無法登入！",
-    "gui.authme.auth.message.success": "成功登入！",
+    "gui.authme.auth.message.success": "登入成功",
     "gui.authme.auth.message.success.offline": "成功離線遊玩！",
     "gui.authme.auth.title": "驗證",
     "gui.authme.multiplayer.button.auth": "驗證",
@@ -16,8 +16,8 @@
     "gui.authme.status.invalid": "✗",
     "gui.authme.status.unknown": "…",
     "gui.authme.status.valid": "✓",
-    "text.autoconfig.authme.title": "認證我配置",
-    "text.autoconfig.authme.option.authButton": "認證按鈕",
+    "text.autoconfig.authme.title": "驗證我的設定",
+    "text.autoconfig.authme.option.authButton": "驗證按鈕",
     "text.autoconfig.authme.option.authButton.x": "X 座標",
     "text.autoconfig.authme.option.authButton.y": "Y 座標"
 }
