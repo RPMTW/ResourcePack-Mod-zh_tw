@@ -191,5 +191,15 @@
     "item.minecraft.tipped_arrow.effect.love": "丘比特之箭",
     "item.minecraft.tipped_arrow.effect.magic_resistance": "魔抗之箭",
     "item.minecraft.tipped_arrow.effect.panacea": "靈丹妙箭",
-    "effect.cofh_core.slimed": "黏著"
+    "effect.cofh_core.slimed": "黏著",
+    "commands.cofh.recharge.success.single": "Supercharging %s",
+    "commands.cofh.recharge.success.multiple": "Supercharging %s entities",
+    "info.cofh.another_player": "Another Player",
+    "info.cofh.amount_unmodifiable": "Unmodifiable Amount",
+    "info.cofh.boostable": "Boostable",
+    "info.cofh.claimable": "Claimable",
+    "info.cofh.heads": "Heads",
+    "info.cofh.none": "無",
+    "info.cofh.tails": "Tails",
+    "effect.cofh_core.supercharge": "Supercharging"
 }
