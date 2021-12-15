@@ -1,5 +1,5 @@
 {
-    "key.rei.category": "REI（在「設定」頁面上設置快捷鍵）",
+    "key.rei.category": "REI（在「設定」頁面上設定快捷鍵）",
     "text.rei.cheating": "作弊",
     "text.rei.cheating_disabled": "§7作弊已停用",
     "text.rei.cheating_enabled": "§c作弊已啟用",
@@ -273,8 +273,8 @@
     "text.rei.shift_click_to": "Shift-Click以 %s",
     "config.roughlyenoughitems.layout.mergeDisplayUnderOne": "具有相等內容的合併顯示：",
     "config.roughlyenoughitems.layout.maxRecipesPageHeight": "每頁最大高度：",
-    "config.roughlyenoughitems.horizontalEntriesBoundariesColumns": "Entries Columns Limit:",
-    "config.roughlyenoughitems.verticalEntriesBoundariesRows": "Entries Rows Limit:",
-    "config.roughlyenoughitems.favoritesHorizontalEntriesBoundaries": "Horizontal Favorites Boundaries:",
-    "config.roughlyenoughitems.favoritesHorizontalEntriesBoundariesColumns": "Favorites Columns Limit:"
+    "config.roughlyenoughitems.horizontalEntriesBoundariesColumns": "垂直顯示行數限制:",
+    "config.roughlyenoughitems.verticalEntriesBoundariesRows": "水平顯示行數限制：",
+    "config.roughlyenoughitems.favoritesHorizontalEntriesBoundaries": "橫向顯示我的最愛列：",
+    "config.roughlyenoughitems.favoritesHorizontalEntriesBoundariesColumns": "我的最愛列顯示限制:"
 }
