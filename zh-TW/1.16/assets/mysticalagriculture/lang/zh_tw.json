@@ -531,5 +531,8 @@
     "book.mysticalagriculture.entry.experience_capsule.page.1": "Experience Capsules are used to collect experience for creating Experience Seeds. $(br2)To collect experience, simply have some Experience Capsules in your inventory and pick up Experience Orbs.",
     "book.mysticalagriculture.entry.soul_extractor": "靈魂提取器",
     "book.mysticalagriculture.entry.soul_extractor.page.1": "Soul Extractors are used to convert mob drops into mob souls. They run off of solid fuelds and have an internal power storage buffer. $(br2)The soul extractor provides a use for extra mob drops you may have, but generally won't be as efficient as using a $(l:souls/soulium_dagger)Soulium Dagger$().",
-    "mobSoulType.mysticalagriculture.slime": "史萊姆"
+    "mobSoulType.mysticalagriculture.slime": "史萊姆",
+    "tooltip.mysticalagriculture.machine_speed": "Operation Speed: %st",
+    "tooltip.mysticalagriculture.machine_fuel_rate": "Fuel Usage: %s/t",
+    "tooltip.mysticalagriculture.machine_fuel_capacity": "Fuel Capacity: %s"
 }
