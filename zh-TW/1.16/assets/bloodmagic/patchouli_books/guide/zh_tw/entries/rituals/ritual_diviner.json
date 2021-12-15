@@ -2,28 +2,6 @@
   "name": "儀式推測仗",
   "icon": "bloodmagic:ritualdiviner",
   "category": "bloodmagic:rituals",
-  "extra_recipe_mappings": [
-    [
-      "bloodmagic:airscribetool",
-      4
-    ],
-    [
-      "bloodmagic:firescribetool",
-      4
-    ],
-    [
-      "bloodmagic:waterscribetool",
-      5
-    ],
-    [
-      "bloodmagic:earthscribetool",
-      7
-    ],
-    [
-      "bloodmagic:duskscribetool",
-      6
-    ]
-  ],
   "pages": [
     {
       "type": "text",
