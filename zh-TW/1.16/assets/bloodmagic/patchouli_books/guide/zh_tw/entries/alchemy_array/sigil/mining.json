@@ -2,16 +2,6 @@
   "name": "速掘印記",
   "icon": "bloodmagic:miningsigil",
   "category": "bloodmagic:alchemy_array/sigil",
-  "extra_recipe_mappings": [
-    [
-      "bloodmagic:reagentfastminer",
-      1
-    ],
-    [
-      "bloodmagic:miningsigil",
-      1
-    ]
-  ],
   "pages": [
     {
       "type": "text",
