@@ -3,11 +3,10 @@
     "icon": "thermal:rf_potato",
     "category": "thermal:tools",
     "read_by_default": true,
-    "flag": "mod:thermal_expansion",
     "pages": [
         {
             "type": "text",
-            "text": "Stores and transfers RF to other machines. Cannot be used to recharge items in a player's inventory. It can be enchanted with $(l:thermal:world/holding)Holding$(/l) to improve RF capacity."
+            "text": "Stores and transfers RF. Cannot be used to recharge items in a player's inventory. It can be enchanted with $(l:thermal:world/holding)Holding$(/l) to improve RF capacity."
         },
         {
             "type": "crafting",
