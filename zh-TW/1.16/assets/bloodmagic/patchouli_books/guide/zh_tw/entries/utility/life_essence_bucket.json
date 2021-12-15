@@ -2,12 +2,6 @@
   "name": "生命源質桶",
   "icon": "bloodmagic:life_essence_bucket",
   "category": "bloodmagic:utility",
-  "extra_recipe_mappings": [
-    [
-      "bloodmagic:life_essence_bucket",
-      1
-    ]
-  ],
   "pages": [
     {
       "type": "text",
