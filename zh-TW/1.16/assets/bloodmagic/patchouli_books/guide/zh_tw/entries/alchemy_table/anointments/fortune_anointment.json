@@ -2,12 +2,6 @@
   "name": "福耳圖那精華",
   "icon": "bloodmagic:fortune_anointment",
   "category": "bloodmagic:alchemy_table/anointments",
-  "extra_recipe_mappings": [
-    [
-      "bloodmagic:fortune_anointment",
-      0
-    ]
-  ],
   "pages": [
     {
       "type": "crafting_alchemy_table",
