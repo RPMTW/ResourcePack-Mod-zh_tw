@@ -1,0 +1,14 @@
+{
+  "name": "信徒",
+  "icon": "twilightforest:adherent_spawn_egg",
+  "category": "twilightforest:entities",
+  "advancement": "twilightforest:alt/entities/adherent",
+  "sortnum": 9010,
+  "pages": [
+    {
+      "type": "entity",
+      "entity": "twilightforest:adherent",
+      "text": "things and stuff"
+    }
+  ]
+}
