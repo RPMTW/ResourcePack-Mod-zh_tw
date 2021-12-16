@@ -4,9 +4,9 @@
     "sodium.option_impact.high": "高",
     "sodium.option_impact.extreme": "極高",
     "sodium.option_impact.varies": "視情況而定",
-    "sodium.options.pages.general": "通用",
+    "sodium.options.pages.general": "一般設定",
     "sodium.options.pages.quality": "品質",
-    "sodium.options.pages.advanced": "高級",
+    "sodium.options.pages.advanced": "進階選項",
     "sodium.options.view_distance.tooltip": "顯示距離控制地形應被渲染至多遠。更低的距離意味著更少的可見地形，也就有利於提升FPS。",
     "sodium.options.brightness.tooltip": "控制遊戲畫面的亮度（伽馬值）。",
     "sodium.options.clouds.tooltip": "控制雲是否可見。",
@@ -52,7 +52,7 @@
     "sodium.options.disable_driver_blacklist.name": "停用驅動程式黑名單",
     "sodium.options.disable_driver_blacklist.tooltip": "If selected, Sodium will ignore the built-in driver blacklist and enable options which are known to be broken with your system configuration. This might cause serious problems and should not be used unless you really do know better. The settings screen must be saved, closed, and re-opened after changing this option in order to reveal previously hidden options.",
     "sodium.options.performance_impact_string": "效能影響：%s",
-    "sodium.options.buttons.undo": "復原",
+    "sodium.options.buttons.undo": "取消變更",
     "sodium.options.buttons.apply": "套用變更",
-    "sodium.options.buttons.close": "關閉"
+    "sodium.options.buttons.close": "退出"
 }
