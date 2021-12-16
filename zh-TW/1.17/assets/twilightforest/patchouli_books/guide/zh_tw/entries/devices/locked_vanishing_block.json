@@ -1,0 +1,19 @@
+{
+  "name": "鎖住的消失方塊",
+  "icon": "twilightforest:locked_vanishing_block",
+  "category": "twilightforest:devices",
+  "advancement": "twilightforest:alt/treasures/carminite",
+  "sortnum": 6220,
+  "pages": [
+    {
+      "type": "spotlight",
+      "title": "鎖住的消失方塊",
+      "item": "twilightforest:locked_vanishing_block",
+      "text": "這個東西有些不對。不論我對它做甚麼，它和相鄰的消失方塊都不會發生任何事。我注意到在這個裝置的中間有一個奇怪的圖案，也許它需要一個鑰匙之類的東西？"
+    },
+    {
+      "type": "text",
+      "text": "當然了，這些裝置就像門上的鎖。如果我給其中一個塔之鑰匙，他們就會被解鎖，且因此與它們中的其中一個互動就會讓他們在我面前消失，並允許相鄰的消失方塊消失。"
+    }
+  ]
+}
