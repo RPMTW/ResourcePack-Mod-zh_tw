@@ -897,5 +897,10 @@
     "trait.silentgear.vulcan": "火匠",
     "trait.silentgear.vulcan.desc": "以大量耐久度為代價放置黑曜石",
     "trait.silentgear.widen": "拓寬",
-    "trait.silentgear.widen.desc": "提升錘與開掘鏟的作用範圍"
+    "trait.silentgear.widen.desc": "提升錘與開掘鏟的作用範圍",
+    "materialModifier.silentgear.starcharged": "Starcharged",
+    "item.silentgear.blueprint.jeiTip": "Press U (default controls) to see recipes in JEI",
+    "item.silentgear.blueprint.mixing.disabled": "Mixing materials is disabled by the config",
+    "item.silentgear.blueprint.mixing.enabled": "Mixing materials is enabled",
+    "misc.silentgear.jeiNotInstalled.": "JEI is not installed? Please consider installing the Just Enough Items (JEI) mod."
 }
