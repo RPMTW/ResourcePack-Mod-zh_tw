@@ -1,37 +1,74 @@
 {
   "name": "銅魔像",
-  "icon": "minecrafT:copper_block",
+  "icon": "minecraft:copper_block",
   "category": "outvoted:entity_category",
   "pages": [
     {
       "type": "entity",
       "entity": "outvoted:copper_golem{Oxidization:0}",
-      "scale": "0.7",
+      "scale": "0.8",
       "text": "銅魔像是一個可愛的小生物，喜歡按銅製按鈕！"
     },
     {
-      "type": "text",
-      "text": "銅魔像可以用一個銅方塊、一個雕刻過的南瓜和一個避雷針放在彼此的頂部來創造。無論銅方塊處於何種氧化狀態，魔像都會生成。它還會隨著時間的推移緩慢氧化（可設定），可以塗蠟或用斧頭刮除。"
+      "type": "multiblock",
+      "name": "Copper Golem",
+      "multiblock": {
+        "mapping": {
+          "L": "minecraft:lightning_rod",
+          "P": "minecraft:carved_pumpkin",
+          "C": "minecraft:copper_block"
+        },
+        "pattern": [
+          [
+            "L"
+          ],
+          [
+            "P"
+          ],
+          [
+            "C"
+          ],
+          [
+            "0"
+          ]
+        ],
+        "offset": [
+          0,
+          1,
+          0
+        ]
+      },
+      "text": "Any type of Copper Block works, and the golem will spawn with the oxidization level."
     },
     {
       "type": "text",
-      "text": "一旦完全氧化，它就會像雕像一樣凍結在原地。也意味著它也將保持其姿勢。 如果您想要具有預設姿勢的雕像，請使用完全氧化的銅方塊生成銅魔像，魔像會凍結並面向南瓜所面向的方向生成。"
+      "text": "The Copper Golem can be created with a block of copper, a carved pumpkin, and a lightning rod place on top of each other. The Golem will spawn with whatever oxidization state the copper block was at. It also oxidizes slowly overtime (configurable) and can be waxed or scraped with an axe."
     },
     {
       "type": "text",
-      "text": "銅魔像會以隨機的時間間隔尋找其範圍內（約 10 格）的銅製按鈕並按下。隨著魔像氧化，它的移動速度會變慢，這意味著按下按鈕之間的間隔會增加。"
+      "text": "Once fully oxidized, it will freeze in place like a statue. Also meaning that it will maintain its pose as well. If you want a statue with a default pose, spawn the Copper Golem using a fully oxidized copper block, and the Golem will spawn frozen and facing whichever direction the pumpkin was facing."
+    },
+    {
+      "type": "text",
+      "text": "At random intervals, the Copper Golem will pathfind to a copper button in its range (about 10 blocks) and press it. As the Golem oxidizes, it's movement speed slows, meaning the interval between pressing buttons will be increased."
     },
     {
       "type": "entity",
       "entity": "outvoted:copper_golem{Oxidization:1}",
-      "scale": "0.7",
-      "text": "斑駁的銅魔像"
+      "scale": "0.8",
+      "text": "Exposed Copper Golem"
     },
     {
       "type": "entity",
       "entity": "outvoted:copper_golem{Oxidization:2}",
-      "scale": "0.7",
-      "text": "鏽蝕的銅魔像"
+      "scale": "0.8",
+      "text": "Weathered Copper Golem"
+    },
+    {
+      "type": "entity",
+      "entity": "outvoted:copper_golem{Oxidization:3}",
+      "scale": "0.8",
+      "text": "Oxidized Copper Golem"
     }
   ]
 }
