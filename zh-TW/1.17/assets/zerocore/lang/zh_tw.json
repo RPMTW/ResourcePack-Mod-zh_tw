@@ -1,5 +1,5 @@
 {
-    "_comment": "雜記",
+    "_comment": "GUI",
     "zerocore:api.multiblock.validation.success": "機器已生效",
     "zerocore:api.multiblock.validation.block_not_connected": "該方塊沒有與控制器相連",
     "zerocore:api.multiblock.validation.too_few_parts": "機器太小",
@@ -17,5 +17,17 @@
     "zerocore:debugTool.block.tooltip2": "%1$s預設在伺服器端查詢",
     "zerocore:debugTool.block.tooltip3": "%1$s潛行：%2$s在用戶端查詢",
     "zerocore:gui.patchouli.missing": "使用該功能需要安裝 Patchouli 模組",
-    "zerocore:gui.manual.open": "打開手冊頁面"
+    "zerocore:gui.manual.open": "打開手冊頁面",
+    "gui.zerocore.base.generic.empty": "Empty",
+    "gui.zerocore.base.screen.ioport.mode": "Operational mode:",
+    "gui.zerocore.base.control.energybar.line1": "Internal Energy Buffer",
+    "gui.zerocore.base.control.energybar.line2a": "  @0",
+    "gui.zerocore.base.control.energybar.line2b": " / %1$s",
+    "gui.zerocore.base.control.energybar.line3a": "  @1",
+    "gui.zerocore.base.control.energybar.line3b": "% full",
+    "gui.zerocore.base.control.fluidbar.line2": "  @0",
+    "gui.zerocore.base.control.fluidbar.line3a": "  @1",
+    "gui.zerocore.base.control.fluidbar.line3b": " / %1$s",
+    "gui.zerocore.base.control.fluidbar.line4a": "  @2",
+    "gui.zerocore.base.control.fluidbar.line4b": "% full"
 }
