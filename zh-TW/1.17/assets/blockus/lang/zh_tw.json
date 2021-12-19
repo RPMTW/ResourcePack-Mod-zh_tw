@@ -8,7 +8,7 @@
     "block.blockus.blaze_bricks_wall": "烈焰磚牆",
     "block.blockus.blaze_bricks_stairs": "烈焰磚階梯",
     "block.blockus.blaze_bricks_slab": "烈焰磚半磚",
-    "block.blockus.blaze_pillar": "烈焰磚頭柱",
+    "block.blockus.blaze_pillar": "烈焰柱",
     "block.blockus.rough_sandstone": "粗糙砂岩",
     "block.blockus.rough_sandstone_stairs": "粗糙砂岩階梯",
     "block.blockus.rough_sandstone_slab": "粗糙砂岩半磚",
@@ -242,7 +242,6 @@
     "block.blockus.stone_door": "石門",
     "block.blockus.stone_trapdoor": "石地板門",
     "block.blockus.oak_barrel": "橡木桶",
-    "block.minecraft.barrel": "杉木桶",
     "block.blockus.birch_barrel": "樺木桶",
     "block.blockus.jungle_barrel": "叢林木桶",
     "block.blockus.acacia_barrel": "相思木桶",
@@ -804,7 +803,6 @@
     "block.blockus.limestone_wall": "石灰石牆",
     "block.blockus.marble_wall": "大理石牆",
     "block.blockus.bluestone_wall": "藍石牆",
-    "block.minecraft.nether_wart_block": "緋紅疣塊",
     "block.blockus.legacy_bricks": "磚 (舊版材質)",
     "block.blockus.legacy_stonecutter": "切石機 (舊版材質)",
     "block.blockus.legacy_grass_block": "草地 (舊版材質)",
@@ -1219,5 +1217,6 @@
     "block.blockus.small_obsidian_brick_column": "小型黑曜石磚石柱",
     "block.blockus.small_purpur_brick_column": "小型紫珀磚石柱",
     "block.blockus.small_end_stone_brick_column": "小型終界石磚石柱",
-    "block.blockus.small_phantom_purpur_brick_column": "小型夜魅紫珀磚石柱"
+    "block.blockus.small_phantom_purpur_brick_column": "小型夜魅紫珀磚石柱",
+    "blockus.blockItem.givespeed": "Gives Speed III effect to player standing on it."
 }
