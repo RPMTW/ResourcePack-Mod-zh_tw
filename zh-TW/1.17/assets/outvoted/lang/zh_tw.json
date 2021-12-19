@@ -168,5 +168,19 @@
     "text.autoconfig.outvoted.option.common.entities.coppergolem": "銅魔像",
     "text.autoconfig.outvoted.option.common.entities.coppergolem.health": "最大生命值",
     "text.autoconfig.outvoted.option.common.entities.coppergolem.oxidationRate": "氧化率",
-    "text.autoconfig.outvoted.option.common.entities.coppergolem.oxidationRate.@Tooltip": "魔像每秒氧化的百分比，以小數表示"
+    "text.autoconfig.outvoted.option.common.entities.coppergolem.oxidationRate.@Tooltip": "魔像每秒氧化的百分比，以小數表示",
+    "entity.outvoted.blaze_s": "Soul Blaze",
+    "item.outvoted.glare_spawn_egg": "Glare Spawn Egg",
+    "text.autoconfig.outvoted.option.common.entities.glutton.capEnchants": "附魔上限",
+    "text.autoconfig.outvoted.option.common.entities.glutton.capEnchants.@Tooltip[0]": "Cap overenchants to 1 over vanilla max level",
+    "text.autoconfig.outvoted.option.common.entities.glutton.capEnchants.@Tooltip[1]": "Disable to have no upper limit on overenchants",
+    "text.autoconfig.outvoted.option.common.entities.glare": "Glare",
+    "text.autoconfig.outvoted.option.common.entities.glare.spawn": "Enable Spawning",
+    "text.autoconfig.outvoted.option.common.entities.glare.rate": "Spawn Weight",
+    "text.autoconfig.outvoted.option.common.entities.glare.biomes": "Spawn Biomes",
+    "text.autoconfig.outvoted.option.common.entities.glare.health": "Max Health",
+    "text.autoconfig.outvoted.option.common.entities.glare.shouldInteract": "Should Interact With Environment",
+    "text.autoconfig.outvoted.option.common.entities.glare.shouldInteract.@Tooltip": "Set to FALSE to disable the Glare picking up and placing blocks/items",
+    "text.autoconfig.outvoted.option.common.entities.glare.inventorySize": "Max Inventory Size",
+    "text.autoconfig.outvoted.option.common.misc.givePatchouliBookOnLogin": "Give Patchouli Book On Login"
 }
