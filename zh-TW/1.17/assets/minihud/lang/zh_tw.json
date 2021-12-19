@@ -82,5 +82,8 @@
     "minihud.message.error.shapes.select_shape_from_dropdown": "從下拉欄中選擇要建立的形狀型別",
     "minihud.message.distance_reference_point_set": "設定距離參考點位 %s",
     "minihud.message.seed_set": "MiniHUD: 設定世界種子為 '%s'",
-    "minihud.message.spawn_set": "MiniHUD: 設定世界出生點到 %s"
+    "minihud.message.spawn_set": "MiniHUD: 設定世界出生點到 %s",
+    "minihud.label.bee_info.count": "§7包含 §b%s§7 蜜蜂(s)",
+    "minihud.label.bee_info.count_babies": "§7包含 §b%s§7隻蜜蜂(§b%s§7為幼年)",
+    "minihud.label.bee_info.name": "§7- %s"
 }
