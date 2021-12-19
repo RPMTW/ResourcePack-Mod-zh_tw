@@ -1,0 +1,18 @@
+{
+  "name": "E = mc²",
+  "category": "modern_industrialization:endgame",
+  "icon": "modern_industrialization:bucket_uu_matter",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "modern_industrialization:bucket_uu_matter",
+      "text": "透過合適的電解裝置和奇異點，大量能量可以透過量子霍金輻射轉化為普遍可用的物質，也稱為 UU 物質，宇宙的結構。"
+    },
+    {
+      "type": "spotlight",
+      "item": "modern_industrialization:replicator",
+      "text": "擁有 100 毫桶的 UU 物質，複製機可以複製（幾乎）遊戲中的任何物品！$(br2)恭喜，它現在是 Yourcraft。 感謝您玩現代工業化。"
+    }
+  ],
+  "sortnum": 303
+}
