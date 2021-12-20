@@ -1,7 +1,7 @@
 {
     "key.inventoryhud.category": "物品欄顯示+",
     "key.inventoryhud.toggle": "切換 顯示/隱藏 物品欄",
-    "key.inventoryhud.openconfig": "開啟設定",
+    "key.inventoryhud.openconfig": "開啟物品欄顯示介面設定",
     "config.inventoryhud.category.armorhud": "顯示盔甲狀態",
     "config.inventoryhud.category.inventoryhud": "顯示物品欄",
     "config.inventoryhud.category.potionshud": "顯示藥水效果",
@@ -63,7 +63,7 @@
     "key.inventoryhud.togglepot": "切換藥水狀態顯示 啟用/停用",
     "key.inventoryhud.togglearm": "切換盔甲顯示 啟用/停用",
     "inventoryhud.config.gui.update": "有新版本可供下載！",
-    "inventoryhud.config.gui.updateclick": "點擊獲取",
+    "inventoryhud.config.gui.updateclick": "點擊取得",
     "inventoryhud.config.gui.bardur": "狀態條持續時間：",
     "inventoryhud.config.gui.bardur.tt": "完整狀態條的持續時間（以秒為單位）（迷你模式的設定）"
 }
