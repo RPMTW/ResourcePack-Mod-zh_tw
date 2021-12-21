@@ -1,0 +1,53 @@
+{
+	"name": "Crafting - Awnings",
+	"category": "recipes",
+	"icon": "nekoration:awning_stripe{color:10b}",
+	"pages":[
+		{
+			"type": "patchouli:spotlight",
+			"title": "Crafting Awnings",
+			"item": "nekoration:awning_stripe_short{color:6b,display:{Name:\'{\\\"text\\\":\\\"Good m-awning!\\\",\\\"italic\\\":false}\'}}",
+			"text": "$(br)$(l)Sunny,cloudy,rainy... with me there's no worries... $()$(br2)No matter what the weather is, $(#FF9900)awnings$() can always be a great companion to your neat house."
+		},
+		{
+			"type": "nekoration:double_crafting_neko",
+			"title": "Pure Color Awnings",
+			"item11": "",
+			"item12": "",
+			"item13": "minecraft:blue_wool,minecraft:cyan_wool,minecraft:green_wool,minecraft:light_blue_wool,minecraft:light_gray_wool,minecraft:lime_wool,minecraft:magenta_wool,minecraft:orange_wool,minecraft:pink_wool,minecraft:purple_wool,minecraft:red_wool,minecraft:white_wool,minecraft:yellow_wool",
+			"item14": "",
+			"item15": "minecraft:blue_wool,minecraft:cyan_wool,minecraft:green_wool,minecraft:light_blue_wool,minecraft:light_gray_wool,minecraft:lime_wool,minecraft:magenta_wool,minecraft:orange_wool,minecraft:pink_wool,minecraft:purple_wool,minecraft:red_wool,minecraft:white_wool,minecraft:yellow_wool",
+			"item16": "",
+			"item17": "minecraft:blue_wool,minecraft:cyan_wool,minecraft:green_wool,minecraft:light_blue_wool,minecraft:light_gray_wool,minecraft:lime_wool,minecraft:magenta_wool,minecraft:orange_wool,minecraft:pink_wool,minecraft:purple_wool,minecraft:red_wool,minecraft:white_wool,minecraft:yellow_wool",
+			"item18": "",
+			"item19": "",
+			"result1": "nekoration:awning_pure#3{color:1b},nekoration:awning_pure#3{color:3b},nekoration:awning_pure#3{color:5b},nekoration:awning_pure#3{color:6b},nekoration:awning_pure#3{color:7b},nekoration:awning_pure#3{color:8b},nekoration:awning_pure#3{color:9b},nekoration:awning_pure#3{color:10b},nekoration:awning_pure#3{color:11b},nekoration:awning_pure#3{color:12b},nekoration:awning_pure#3{color:13b},nekoration:awning_pure#3{color:14b},nekoration:awning_pure#3{color:15b}",
+			"item21": "",
+			"item22": "",
+			"item23": "minecraft:blue_wool,minecraft:cyan_wool,minecraft:green_wool,minecraft:light_blue_wool,minecraft:light_gray_wool,minecraft:lime_wool,minecraft:magenta_wool,minecraft:orange_wool,minecraft:pink_wool,minecraft:purple_wool,minecraft:red_wool,minecraft:white_wool,minecraft:yellow_wool",
+			"item24": "",
+			"item25": "minecraft:blue_wool,minecraft:cyan_wool,minecraft:green_wool,minecraft:light_blue_wool,minecraft:light_gray_wool,minecraft:lime_wool,minecraft:magenta_wool,minecraft:orange_wool,minecraft:pink_wool,minecraft:purple_wool,minecraft:red_wool,minecraft:white_wool,minecraft:yellow_wool",
+			"item26": "",
+			"item27": "minecraft:blue_wool,minecraft:cyan_wool,minecraft:green_wool,minecraft:light_blue_wool,minecraft:light_gray_wool,minecraft:lime_wool,minecraft:magenta_wool,minecraft:orange_wool,minecraft:pink_wool,minecraft:purple_wool,minecraft:red_wool,minecraft:white_wool,minecraft:yellow_wool",
+			"item28": "",
+			"item29": "minecraft:stick",
+			"result2": "nekoration:awning_pure_short#3{color:1b},nekoration:awning_pure_short#3{color:3b},nekoration:awning_pure_short#3{color:5b},nekoration:awning_pure_short#3{color:6b},nekoration:awning_pure_short#3{color:7b},nekoration:awning_pure_short#3{color:8b},nekoration:awning_pure_short#3{color:9b},nekoration:awning_pure_short#3{color:10b},nekoration:awning_pure_short#3{color:11b},nekoration:awning_pure_short#3{color:12b},nekoration:awning_pure_short#3{color:13b},nekoration:awning_pure_short#3{color:14b},nekoration:awning_pure_short#3{color:15b}"
+		},
+		{
+			"type": "nekoration:double_conversion",
+			"title": "Awning Converting",
+			"item1": "nekoration:awning_pure{color:1b},nekoration:awning_pure{color:3b},nekoration:awning_pure{color:5b},nekoration:awning_pure{color:6b},nekoration:awning_pure{color:7b},nekoration:awning_pure{color:8b},nekoration:awning_pure{color:9b},nekoration:awning_pure{color:10b},nekoration:awning_pure{color:11b},nekoration:awning_pure{color:12b},nekoration:awning_pure{color:13b},nekoration:awning_pure{color:14b},nekoration:awning_pure{color:15b}",
+			"item2": "nekoration:awning_stripe{color:1b},nekoration:awning_stripe{color:3b},nekoration:awning_stripe{color:5b},nekoration:awning_stripe{color:6b},nekoration:awning_stripe{color:7b},nekoration:awning_stripe{color:8b},nekoration:awning_stripe{color:9b},nekoration:awning_stripe{color:10b},nekoration:awning_stripe{color:11b},nekoration:awning_stripe{color:12b},nekoration:awning_stripe{color:13b},nekoration:awning_stripe{color:14b},nekoration:awning_stripe{color:15b}",
+			"item3": "nekoration:awning_pure_short{color:1b},nekoration:awning_pure_short{color:3b},nekoration:awning_pure_short{color:5b},nekoration:awning_pure_short{color:6b},nekoration:awning_pure_short{color:7b},nekoration:awning_pure_short{color:8b},nekoration:awning_pure_short{color:9b},nekoration:awning_pure_short{color:10b},nekoration:awning_pure_short{color:11b},nekoration:awning_pure_short{color:12b},nekoration:awning_pure_short{color:13b},nekoration:awning_pure_short{color:14b},nekoration:awning_pure_short{color:15b}",
+			"item4": "nekoration:awning_stripe_short{color:1b},nekoration:awning_stripe_short{color:3b},nekoration:awning_stripe_short{color:5b},nekoration:awning_stripe_short{color:6b},nekoration:awning_stripe_short{color:7b},nekoration:awning_stripe_short{color:8b},nekoration:awning_stripe_short{color:9b},nekoration:awning_stripe_short{color:10b},nekoration:awning_stripe_short{color:11b},nekoration:awning_stripe_short{color:12b},nekoration:awning_stripe_short{color:13b},nekoration:awning_stripe_short{color:14b},nekoration:awning_stripe_short{color:15b}",
+			"description": "$(#FF9900)Pure color$() awnings and $(#9900FF)st$(#2288FF)ri$(#9900FF)ped$(#2288FF) on$(#9900FF)es$() can easily be converted to one another, through either a crafting table or the crafting slots in Survival Mode. The conversion doesn't take any extra ingredient."
+		},
+		{
+			"type": "patchouli:image",
+			"title": "Using an axe",
+			"images": ["nekoration:textures/gui/brochure/awning.png"],
+			"border": true,
+			"text": "The bottom part of an awning can be enabled/disabled using $(#AA55FF)any type of axe$()."
+		}
+	]
+}

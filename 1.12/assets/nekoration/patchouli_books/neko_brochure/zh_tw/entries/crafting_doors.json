@@ -1,0 +1,31 @@
+{
+	"name": "Crafting - Doors",
+	"category": "recipes",
+	"icon": "nekoration:door_1",
+	"pages":[
+		{
+			"type": "patchouli:spotlight",
+			"title": "Crafting Doors",
+			"item": "nekoration:door_tall_1{display:{Name:\'{\\\"text\\\":\\\"Ado-orable!\\\",\\\"italic\\\":false}\'}}",
+			"text": "$(br)$(l)Told you not to feed Bonemeal to Doors...$()$(br2)$(#FF9900)Quartz doors$() brought to the doors family, adorable... and dyeable!"
+		},
+		{
+			"type": "patchouli:crafting",
+			"title": "Quartz Doors",
+			"recipe": "nekoration:door/door_1",
+			"recipe2": "nekoration:door/door_tall_1"
+		},
+		{
+			"type": "patchouli:crafting",
+			"title": "Chiseled Quartz Doors",
+			"recipe": "nekoration:door/door_2",
+			"recipe2": "nekoration:door/door_tall_2"
+		},
+		{
+			"type": "patchouli:crafting",
+			"title": "Quartz Bricks Doors",
+			"recipe": "nekoration:door/door_3",
+			"recipe2": "nekoration:door/door_tall_3"
+		}
+	]
+}

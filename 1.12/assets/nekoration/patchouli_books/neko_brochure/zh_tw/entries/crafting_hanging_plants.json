@@ -1,0 +1,25 @@
+{
+	"name": "Crafting - Hanging Plants",
+	"category": "recipes",
+	"icon": "nekoration:flower_basket_iron",
+	"pages":[
+		{
+			"type": "patchouli:spotlight",
+			"title": "Crafting Hanging Plants",
+			"item": "nekoration:flower_basket_gold{display:{Name:\'{\\\"text\\\":\\\"Great view from up here!\\\",\\\"italic\\\":false}\'}}",
+			"text": "$(br)Want a basket of $(l)flowers hanging$() by your window?$(br2)$(#FF9900)Hanging plants$() can hook under a lamp post or chain, and they enjoy the great view from somewhere high above..."
+		},
+		{
+			"type": "patchouli:crafting",
+			"title": ".",
+			"recipe": "nekoration:misc/flower_basket_iron",
+			"recipe2": "nekoration:misc/flower_basket_quartz"
+		},
+		{
+			"type": "patchouli:crafting",
+			"title": ".",
+			"recipe": "nekoration:misc/flower_basket_gold",
+			"text": "$(br2)The flowers used in above recipes can be any type, from $(#EE1111)poppies$() to $(#FFDF33)oxeye daisies$()."
+		}
+	]
+}

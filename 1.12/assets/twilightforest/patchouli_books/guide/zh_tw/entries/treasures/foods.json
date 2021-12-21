@@ -1,7 +1,7 @@
 {
   "name": "Meats, Meals, and Edibles",
   "icon": "twilightforest:experiment_115{full:1}",
-  "category": "twilightforest:treasures",
+  "category": "treasures",
   "advancement": "twilightforest:alt/treasures/foods/any",
   "sortnum": 1100,
   "pages": [
@@ -28,7 +28,7 @@
       "text": "Beef from a Minotaur. It's not very much if eaten raw, but cook it up and it is a valuable food item, rivalling the likes of Cooked Chicken."
     }, {
       "type": "text",
-      "advancement": "twilightforest:alt/treasures/foods/venison",
+      "advancement": "twilightforest:alt/treasures/foods/vension",
       "text": "things and stuff"
     }, {
       "type": "spotlight",

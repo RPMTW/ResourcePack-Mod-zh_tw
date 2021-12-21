@@ -1,0 +1,73 @@
+{
+	"name": "Crafting - Windows",
+	"category": "recipes",
+	"icon": "nekoration:window_cross{color:7b}",
+	"pages":[
+		{
+			"type": "patchouli:spotlight",
+			"title": "Crafting Windows",
+			"item": "nekoration:window_arch{color:14b,display:{Name:\'{\\\"text\\\":\\\"...Why not Linux?\\\",\\\"italic\\\":false}\'}}",
+			"text": "$(br)$(l)95, XP, 7, 8, 10...$()$(br2)$(#FF9900)Windows$() are framed glass blocks that make your walls full of life...and light. They're doors to brightness."
+		},
+		{
+			"type": "nekoration:crafting_neko",
+			"item1": "minecraft:dark_oak_planks,minecraft:spruce_planks,minecraft:warped_planks,minecraft:jungle_planks,minecraft:oak_planks,minecraft:crimson_planks,minecraft:acacia_planks,minecraft:birch_planks",
+			"item2": "minecraft:stick",
+			"item3": "minecraft:dark_oak_planks,minecraft:spruce_planks,minecraft:warped_planks,minecraft:jungle_planks,minecraft:oak_planks,minecraft:crimson_planks,minecraft:acacia_planks,minecraft:birch_planks",
+			"item4": "minecraft:stick",
+			"item5": "minecraft:glass",
+			"item6": "minecraft:stick",
+			"item7": "minecraft:dark_oak_planks,minecraft:spruce_planks,minecraft:warped_planks,minecraft:jungle_planks,minecraft:oak_planks,minecraft:crimson_planks,minecraft:acacia_planks,minecraft:birch_planks",
+			"item8": "minecraft:stick",
+			"item9": "minecraft:dark_oak_planks,minecraft:spruce_planks,minecraft:warped_planks,minecraft:jungle_planks,minecraft:oak_planks,minecraft:crimson_planks,minecraft:acacia_planks,minecraft:birch_planks",
+			"result": "nekoration:window_simple#4{color:0b},nekoration:window_simple#4{color:2b},nekoration:window_simple#4{color:3b},nekoration:window_simple#4{color:4b},nekoration:window_simple#4{color:7b},nekoration:window_simple#4{color:9b},nekoration:window_simple#4{color:10b},nekoration:window_simple#4{color:14b}",
+			"description": "Just like $(#9900FF)$(l:crafting_half_timber)half-timber$() blocks, you need to get the $(#4466FF)base type$() as an ingredient of its variants, and the type of $(#00BEFF)planks$() determines the wood type of the crafting result."
+		},
+		{
+			"type": "nekoration:double_crafting_neko",
+			"item11": "",
+			"item12": "minecraft:stick",
+			"item13": "",
+			"item14": "minecraft:stick",
+			"item15": "nekoration:window_simple{color:0b},nekoration:window_simple{color:2b},nekoration:window_simple{color:3b},nekoration:window_simple{color:4b},nekoration:window_simple{color:7b},nekoration:window_simple{color:9b},nekoration:window_simple{color:10b},nekoration:window_simple{color:14b}",
+			"item16": "minecraft:stick",
+			"item17": "",
+			"item18": "minecraft:stick",
+			"item19": "",
+			"result1": "nekoration:window_cross{color:0b},nekoration:window_cross{color:2b},nekoration:window_cross{color:3b},nekoration:window_cross{color:4b},nekoration:window_cross{color:7b},nekoration:window_cross{color:9b},nekoration:window_cross{color:10b},nekoration:window_cross{color:14b}",
+			"item21": "",
+			"item22": "minecraft:stick",
+			"item23": "",
+			"item24": "minecraft:stick",
+			"item25": "nekoration:window_simple{color:0b},nekoration:window_simple{color:2b},nekoration:window_simple{color:3b},nekoration:window_simple{color:4b},nekoration:window_simple{color:7b},nekoration:window_simple{color:9b},nekoration:window_simple{color:10b},nekoration:window_simple{color:14b}",
+			"item26": "minecraft:stick",
+			"item27": "minecraft:stick",
+			"item28": "minecraft:stick",
+			"item29": "minecraft:stick",
+			"result2": "nekoration:window_lancet{color:0b},nekoration:window_lancet{color:2b},nekoration:window_lancet{color:3b},nekoration:window_lancet{color:4b},nekoration:window_lancet{color:7b},nekoration:window_lancet{color:9b},nekoration:window_lancet{color:10b},nekoration:window_lancet{color:14b}"
+		},
+		{
+			"type": "nekoration:double_crafting_neko",
+			"item11": "minecraft:stick",
+			"item12": "minecraft:stick",
+			"item13": "minecraft:stick",
+			"item14": "minecraft:stick",
+			"item15": "nekoration:window_simple{color:0b},nekoration:window_simple{color:2b},nekoration:window_simple{color:3b},nekoration:window_simple{color:4b},nekoration:window_simple{color:7b},nekoration:window_simple{color:9b},nekoration:window_simple{color:10b},nekoration:window_simple{color:14b}",
+			"item16": "minecraft:stick",
+			"item17": "",
+			"item18": "",
+			"item19": "",
+			"result1": "nekoration:window_arch{color:0b},nekoration:window_arch{color:2b},nekoration:window_arch{color:3b},nekoration:window_arch{color:4b},nekoration:window_arch{color:7b},nekoration:window_arch{color:9b},nekoration:window_arch{color:10b},nekoration:window_arch{color:14b}",
+			"item21": "minecraft:stick",
+			"item22": "minecraft:stick",
+			"item23": "minecraft:stick",
+			"item24": "minecraft:stick",
+			"item25": "nekoration:window_simple{color:0b},nekoration:window_simple{color:2b},nekoration:window_simple{color:3b},nekoration:window_simple{color:4b},nekoration:window_simple{color:7b},nekoration:window_simple{color:9b},nekoration:window_simple{color:10b},nekoration:window_simple{color:14b}",
+			"item26": "minecraft:stick",
+			"item27": "minecraft:stick",
+			"item28": "minecraft:stick",
+			"item29": "minecraft:stick",
+			"result2": "nekoration:window_shade{color:0b},nekoration:window_shade{color:2b},nekoration:window_shade{color:3b},nekoration:window_shade{color:4b},nekoration:window_shade{color:7b},nekoration:window_shade{color:9b},nekoration:window_shade{color:10b},nekoration:window_shade{color:14b}"
+		}
+	]
+}

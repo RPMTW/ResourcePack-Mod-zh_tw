@@ -1,0 +1,25 @@
+{
+	"name": "Crafting - Paintings",
+	"category": "recipes",
+	"icon": "nekoration:painting{type:1b,width:1s,height:1s}",
+	"pages":[
+		{
+			"type": "patchouli:spotlight",
+			"title": "Crafting Paintings",
+			"item": "nekoration:painting{type:1b,width:1s,height:1s,display:{Name:\'{\\\"text\\\":\\\"Painted by Vincent Willem van Gogh!\\\",\\\"italic\\\":false}\'}}",
+			"text": "$(br)Feel like creative ideas are bursting from mind?$(br2)Just try creating your own artwork on a $(#FF9900)blank painting$()!"
+		},
+		{
+			"type": "patchouli:crafting",
+			"title": "Palette",
+			"recipe": "nekoration:painting/palette",
+			"text": "$(br)To start painting, you'll first need to get a palette to help you pick colors. A few plank blocks and some dyes are the required ingredients."
+		},
+		{
+			"type": "patchouli:crafting",
+			"title": "Blank Painting",
+			"recipe": "nekoration:painting/painting",
+			"text": "$(br)Then comes the canvas, or to say, blank painting. This recipe resembles that of vanilla paintings, except that all sticks are replaced by bamboo.$(br)Pandas will surely love them. $(br)  ^._.^"
+		}
+	]
+}

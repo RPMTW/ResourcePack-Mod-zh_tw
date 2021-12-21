@@ -1,0 +1,147 @@
+{
+	"name": "Crafting - Furniture",
+	"category": "recipes",
+	"icon": "nekoration:oak_table",
+	"pages":[
+		{
+			"type": "patchouli:spotlight",
+			"title": "Crafting Furniture",
+			"item": "nekoration:crimson_table{display:{Name:\'{\\\"text\\\":\\\"I\\\'m a Crimson Table.\\\",\\\"italic\\\":false}\'}}",
+			"text": "$(br)$(l)Wooden Furniture$()!$(br2)$(#FF9900)Furniture$() keep your room away from being empty and boring... And they're $(#B039F3)not merely$() decorations, you can sit on a $(#22E044)chair$(), have a cup of coffee(if you have), and chat with your friends!"
+		},
+		{
+			"type": "patchouli:crafting",
+			"title": "Oak Furniture",
+			"recipe": "nekoration:furniture/oak_table",
+			"recipe2": "nekoration:furniture/oak_chair"
+		},
+		{
+			"type": "patchouli:crafting",
+			"title": "Birch Furniture",
+			"recipe": "nekoration:furniture/birch_table",
+			"recipe2": "nekoration:furniture/birch_chair"
+		},
+		{
+			"type": "patchouli:crafting",
+			"title": "Acacia Furniture",
+			"recipe": "nekoration:furniture/acacia_table",
+			"recipe2": "nekoration:furniture/acacia_chair"
+		},
+		{
+			"type": "patchouli:crafting",
+			"title": "Jungle Furniture",
+			"recipe": "nekoration:furniture/jungle_table",
+			"recipe2": "nekoration:furniture/jungle_chair"
+		},
+		{
+			"type": "patchouli:crafting",
+			"title": "Spruce Furniture",
+			"recipe": "nekoration:furniture/spruce_table",
+			"recipe2": "nekoration:furniture/spruce_chair"
+		},
+		{
+			"type": "patchouli:crafting",
+			"title": "Warped Furniture",
+			"recipe": "nekoration:furniture/warped_table",
+			"recipe2": "nekoration:furniture/warped_chair"
+		},
+		{
+			"type": "patchouli:crafting",
+			"title": "Crimson Furniture",
+			"recipe": "nekoration:furniture/crimson_table",
+			"recipe2": "nekoration:furniture/crimson_chair"
+		},
+		{
+			"type": "patchouli:crafting",
+			"title": "Dark Oak Furniture",
+			"recipe": "nekoration:furniture/dark_oak_table",
+			"recipe2": "nekoration:furniture/dark_oak_chair"
+		},
+		{
+			"type": "patchouli:crafting",
+			"title": "...And Round Tables",
+			"recipe": "nekoration:furniture/oak_round_table",
+			"recipe2": "nekoration:furniture/birch_round_table"
+		},
+		{
+			"type": "patchouli:crafting",
+			"title": "...",
+			"recipe": "nekoration:furniture/acacia_round_table",
+			"recipe2": "nekoration:furniture/jungle_round_table"
+		},
+		{
+			"type": "patchouli:crafting",
+			"title": "...",
+			"recipe": "nekoration:furniture/spruce_round_table",
+			"recipe2": "nekoration:furniture/warped_round_table"
+		},
+		{
+			"type": "patchouli:crafting",
+			"title": "...",
+			"recipe": "nekoration:furniture/crimson_round_table",
+			"recipe2": "nekoration:furniture/dark_oak_round_table"
+		},
+		{
+			"type": "nekoration:crafting_neko",
+			"item1": "",
+			"item2": "",
+			"item3": "minecraft:spruce_planks",
+			"item4": "minecraft:spruce_planks",
+			"item5": "minecraft:spruce_planks",
+			"item6": "minecraft:spruce_planks",
+			"item7": "minecraft:spruce_planks",
+			"item8": "",
+			"item9": "minecraft:spruce_planks",
+			"result": "nekoration:spruce_chair#4",
+			"description": "$(l)Did you know that...$()$(br2)Unlike those for half-timber, all furniture recipes can be $(#5577FF)mirrored$(), just like vanilla recipes."
+		},
+		{
+			"type": "nekoration:double_crafting_neko",
+			"title": "Glass Tables",
+			"item11": "minecraft:glass",
+			"item12": "minecraft:glass",
+			"item13": "minecraft:glass",
+			"item14": "",
+			"item15": "minecraft:dark_oak_planks,minecraft:spruce_planks,minecraft:warped_planks,minecraft:jungle_planks,minecraft:oak_planks,minecraft:crimson_planks,minecraft:acacia_planks,minecraft:birch_planks",
+			"item16": "",
+			"item17": "",
+			"item18": "minecraft:dark_oak_planks,minecraft:spruce_planks,minecraft:warped_planks,minecraft:jungle_planks,minecraft:oak_planks,minecraft:crimson_planks,minecraft:acacia_planks,minecraft:birch_planks",
+			"item19": "",
+			"result1": "nekoration:glass_round_table#4{color:0b},nekoration:glass_round_table#4{color:2b},nekoration:glass_round_table#4{color:3b},nekoration:glass_round_table#4{color:4b},nekoration:glass_round_table#4{color:7b},nekoration:glass_round_table#4{color:9b},nekoration:glass_round_table#4{color:10b},nekoration:glass_round_table#4{color:14b}",
+			"item21": "minecraft:dark_oak_planks,minecraft:spruce_planks,minecraft:warped_planks,minecraft:jungle_planks,minecraft:oak_planks,minecraft:crimson_planks,minecraft:acacia_planks,minecraft:birch_planks",
+			"item22": "minecraft:glass",
+			"item23": "minecraft:dark_oak_planks,minecraft:spruce_planks,minecraft:warped_planks,minecraft:jungle_planks,minecraft:oak_planks,minecraft:crimson_planks,minecraft:acacia_planks,minecraft:birch_planks",
+			"item24": "minecraft:dark_oak_planks,minecraft:spruce_planks,minecraft:warped_planks,minecraft:jungle_planks,minecraft:oak_planks,minecraft:crimson_planks,minecraft:acacia_planks,minecraft:birch_planks",
+			"item25": "",
+			"item26": "minecraft:dark_oak_planks,minecraft:spruce_planks,minecraft:warped_planks,minecraft:jungle_planks,minecraft:oak_planks,minecraft:crimson_planks,minecraft:acacia_planks,minecraft:birch_planks",
+			"item27": "minecraft:dark_oak_planks,minecraft:spruce_planks,minecraft:warped_planks,minecraft:jungle_planks,minecraft:oak_planks,minecraft:crimson_planks,minecraft:acacia_planks,minecraft:birch_planks",
+			"item28": "",
+			"item29": "minecraft:dark_oak_planks,minecraft:spruce_planks,minecraft:warped_planks,minecraft:jungle_planks,minecraft:oak_planks,minecraft:crimson_planks,minecraft:acacia_planks,minecraft:birch_planks",
+			"result2": "nekoration:glass_table#4{color:0b},nekoration:glass_table#4{color:2b},nekoration:glass_table#4{color:3b},nekoration:glass_table#4{color:4b},nekoration:glass_table#4{color:7b},nekoration:glass_table#4{color:9b},nekoration:glass_table#4{color:10b},nekoration:glass_table#4{color:14b}"
+		},
+		{
+			"type": "nekoration:double_crafting_neko",
+			"title": "And More!",
+			"item11": "minecraft:dark_oak_planks,minecraft:spruce_planks,minecraft:warped_planks,minecraft:jungle_planks,minecraft:oak_planks,minecraft:crimson_planks,minecraft:acacia_planks,minecraft:birch_planks",
+			"item12": "",
+			"item13": "",
+			"item14": "minecraft:dark_oak_planks,minecraft:spruce_planks,minecraft:warped_planks,minecraft:jungle_planks,minecraft:oak_planks,minecraft:crimson_planks,minecraft:acacia_planks,minecraft:birch_planks",
+			"item15": "minecraft:stick",
+			"item16": "minecraft:stick",
+			"item17": "minecraft:dark_oak_planks,minecraft:spruce_planks,minecraft:warped_planks,minecraft:jungle_planks,minecraft:oak_planks,minecraft:crimson_planks,minecraft:acacia_planks,minecraft:birch_planks",
+			"item18": "minecraft:dark_oak_planks,minecraft:spruce_planks,minecraft:warped_planks,minecraft:jungle_planks,minecraft:oak_planks,minecraft:crimson_planks,minecraft:acacia_planks,minecraft:birch_planks",
+			"item19": "minecraft:dark_oak_planks,minecraft:spruce_planks,minecraft:warped_planks,minecraft:jungle_planks,minecraft:oak_planks,minecraft:crimson_planks,minecraft:acacia_planks,minecraft:birch_planks",
+			"result1": "nekoration:arm_chair#4{color:0b},nekoration:arm_chair#4{color:2b},nekoration:arm_chair#4{color:3b},nekoration:arm_chair#4{color:4b},nekoration:arm_chair#4{color:7b},nekoration:arm_chair#4{color:9b},nekoration:arm_chair#4{color:10b},nekoration:arm_chair#4{color:14b}",
+			"item21": "",
+			"item22": "",
+			"item23": "",
+			"item24": "",
+			"item25": "",
+			"item26": "",
+			"item27": "",
+			"item28": "",
+			"item29": "",
+			"result2": ""
+		}
+	]
+}

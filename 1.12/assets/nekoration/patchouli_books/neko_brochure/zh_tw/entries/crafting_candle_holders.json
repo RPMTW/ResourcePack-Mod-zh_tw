@@ -1,0 +1,61 @@
+{
+	"name": "Crafting - Candle Holders",
+	"category": "recipes",
+	"icon": "nekoration:candle_holder_iron{color:14b}",
+	"pages":[
+		{
+			"type": "patchouli:spotlight",
+			"title": "Crafting Candle Holders",
+			"item": "nekoration:candle_holder_quartz{color:14b,display:{Name:\'{\\\"text\\\":\\\"I\\\'m an Octopus!\\\",\\\"italic\\\":false}\'}}",
+			"text": "$(br)Decorations needed on your empty tables? Don't worry, $(l)candle holders$() are there to help.$(br2)$(#FF9900)Candle holders$() can light up your table, and fill your room with infinite warmth."
+		},
+		{
+			"type": "nekoration:double_crafting_neko",
+			"item11": "minecraft:honeycomb",
+			"item12": "minecraft:honeycomb",
+			"item13": "minecraft:honeycomb",
+			"item14": "minecraft:iron_block",
+			"item15": "minecraft:iron_block",
+			"item16": "minecraft:iron_block",
+			"item17": "",
+			"item18": "minecraft:iron_block",
+			"item19": "",
+			"result1": "nekoration:candle_holder_iron#3{color:14b}",
+			"item21": "minecraft:honeycomb",
+			"item22": "minecraft:honeycomb",
+			"item23": "minecraft:honeycomb",
+			"item24": "minecraft:quartz_block",
+			"item25": "minecraft:quartz_block",
+			"item26": "minecraft:quartz_block",
+			"item27": "",
+			"item28": "minecraft:quartz_block",
+			"item29": "",
+			"result2": "nekoration:candle_holder_quartz#3{color:14b}"
+		},
+		{
+			"type": "nekoration:crafting_neko",
+			"item1": "minecraft:honeycomb",
+			"item2": "minecraft:honeycomb",
+			"item3": "minecraft:honeycomb",
+			"item4": "minecraft:gold_block",
+			"item5": "minecraft:gold_block",
+			"item6": "minecraft:gold_block",
+			"item7": "",
+			"item8": "minecraft:gold_block",
+			"item9": "",
+			"result": "nekoration:candle_holder_gold#3{color:14b}",
+			"description": "It can be lit up using a $(#FF3300)torch$(), $(#FF6600)lantern$() or $(#FF9900)flint and steel$(). Of course, you can also use their $(#55CCFF)soul variants$() for spooky blue flames. If even that is not cool enough, a $(#AA00FF)nether star$() can make it twinkle!"
+		},
+		{
+			"type": "nekoration:item_footer",
+			"title": "Dyeing Candles",
+			"item1": "nekoration:candle_holder_quartz{color:14b}",
+			"item2": "nekoration:candle_holder_quartz{color:13b}",
+			"item3": "nekoration:candle_holder_quartz{color:12b}",
+			"item4": "nekoration:candle_holder_quartz{color:11b}",
+			"item5": "nekoration:candle_holder_quartz{color:10b}",
+			"item6": "nekoration:candle_holder_quartz{color:9b}",
+			"text": "Simply applying dyes to a candle holder will change the color of candles on it. Thus it is possible to decorate your room with $(#FF0000)c$(#FFAA00)o$(#EEBB00)l$(#BBEE00)o$(#33EEFF)r$(#22AAFF)f$(#8811FF)u$(#EE0000)l$() candles.$(br2)Have a try! ^._.^"
+		}
+	]
+}

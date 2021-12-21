@@ -1,0 +1,22 @@
+{
+	"name": "Crafting - Stone Blocks",
+	"category": "recipes",
+	"icon": "nekoration:stone_base_bottom{color:14b}",
+	"pages":[
+		{
+			"type": "patchouli:spotlight",
+			"title": "Crafting Stone Blocks",
+			"item": "nekoration:stone_corinthian{color:14b,display:{Name:\'{\\\"text\\\":\\\"How do you do?\\\",\\\"italic\\\":false}\'}}",
+			"text": "$(br)$(l)Ornamental Stone Blocks!$()$(br2)$(#FF9900)Stone blocks$() in Nekoration is made through the process of $(#00BEFF)stone cutting$(), just like many other stone blocks."
+		},
+		{
+			"type": "nekoration:double_stonecutting_neko",
+			"title": "Stone Cutting",
+			"item1": "minecraft:smooth_stone",
+			"result1": "nekoration:stone_base{color:7b},nekoration:stone_base_bottom{color:7b},nekoration:stone_frame{color:7b},nekoration:stone_frame_bottom{color:7b},nekoration:stone_pillar{color:7b},nekoration:stone_pillar_bottom{color:7b},nekoration:stone_doric{color:7b},nekoration:stone_ionic{color:7b},nekoration:stone_corinthian{color:7b},nekoration:stone_layered{color:7b}",
+			"item2": "nekoration:stone_base{color:7b},nekoration:stone_base_bottom{color:7b}",
+			"result2": "nekoration:window_top{color:7b},nekoration:window_sill{color:7b},nekoration:window_frame{color:7b},nekoration:stone_pot{color:7b},nekoration:stone_planter{color:7b}",
+			"description": "$(#55EE00)$(t:Full cubes)Full stone blocks$() in $(#FF9900)Nekoration$() are cut from smooth stone, and the $(#00CC22)$(t:Base & Base Bottom)base type$() can then be used to make stone decors."
+		}
+	]
+}

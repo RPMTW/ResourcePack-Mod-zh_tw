@@ -1,0 +1,32 @@
+{
+	"name": "Crafting - Lamp Posts",
+	"category": "recipes",
+	"icon": "nekoration:lamp_post_iron",
+	"pages":[
+		{
+			"type": "patchouli:spotlight",
+			"title": "Crafting Lamp Posts",
+			"item": "nekoration:lamp_post_gold{display:{Name:\'{\\\"text\\\":\\\"Shiny!\\\",\\\"italic\\\":false}\'}}",
+			"text": "$(br)$(l)Lamp posts!$()$(br2)They are the guide, lighting up the way wherever you go...$(br2)They are the guard, keeping darkness away from your home..."
+		},
+		{
+			"type": "patchouli:crafting",
+			"title": ".",
+			"recipe": "nekoration:misc/lamp_post_iron",
+			"recipe2": "nekoration:misc/lamp_post_quartz"
+		},
+		{
+			"type": "patchouli:crafting",
+			"title": ".",
+			"recipe": "nekoration:misc/lamp_post_gold",
+			"text": "$(br)In fact, not only $(#FFBB00)lanterns$(), but also $(#11DD88)hanging plants$() can be attached to lamp posts. And lamp posts don't have to stand straight - they can be pasted onto walls, too."
+		},
+		{
+			"type": "patchouli:image",
+			"title": "Lamp Posts",
+			"images": ["nekoration:textures/gui/brochure/lamp_posts.png"],
+			"border": true,
+			"text": "How many $(#FF9900)lamp posts$() can you find in the picture? : )"
+		}
+	]
+}

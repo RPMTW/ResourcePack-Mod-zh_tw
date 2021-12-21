@@ -1,0 +1,18 @@
+{
+	"name": "How to get this?",
+	"category": "introduction",
+	"icon": "patchouli:guide_book",
+	"pages":[
+		{
+			"type": "patchouli:text",
+			"text": "$(l)How to get the brochure?$()$(br2)In $(#FF9900)Creative Mode$(), you can simply find it in the \'Neko Tools\' tab.$(br)As for $(#9900FF)Survival Mode$(), you can try trading with a $(#5570FF)Novice Librarian$() villager, and this brochure might appear as an option among the offers, you can then exchange a book and some $(#00FF66)Emeralds$() for it."
+		},
+		{
+			"type": "patchouli:image",
+			"title": "Librarian",
+			"images": ["nekoration:textures/gui/brochure/librarian.png"],
+			"border": true,
+			"text": "A $(#5570FF)Novice Librarian$() villager."
+		}
+	]
+}
