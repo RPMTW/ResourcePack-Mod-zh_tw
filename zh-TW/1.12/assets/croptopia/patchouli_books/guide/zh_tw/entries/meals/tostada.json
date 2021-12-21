@@ -1,0 +1,12 @@
+{
+  "name": "脆玉米餅",
+  "icon": "croptopia:tostada",
+  "category": "croptopia:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:tostada",
+      "text": "脆玉米餅的食譜"
+    }
+  ]
+}
