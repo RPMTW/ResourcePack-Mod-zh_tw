@@ -21,5 +21,11 @@
     "wanionlib.failure": "Failure",
     "wanionlib.consumes": "Consumes %1$s FE",
     "wanionlib.per.operation": "per operation",
-    "wanionlib.field.occupied": "You cannot use this field while %1$s is using it."
+    "wanionlib.field.occupied": "You cannot use this field while %1$s is using it.",
+    "wanionlib.matching.matcher.disabled": "Disabled",
+    "wanionlib.matching.matcher.enum": "ENUM",
+    "wanionlib.matching.matcher.empty": "Empty",
+    "wanionlib.matching.matcher.damaged": "Damaged",
+    "wanionlib.matching.matcher.vanilla": "Vanilla",
+    "wanionlib.matching.matcher.mod": "Mod:"
 }
