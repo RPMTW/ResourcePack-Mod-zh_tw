@@ -1,0 +1,56 @@
+{
+	"name": "Mechanics - Connecting",
+	"category": "mechanics",
+	"icon": "nekoration:window_top{color:14b}",
+	"pages": [
+		{
+			"type": "patchouli:text",
+			"text": "$(#FF9900)Model connection$() is a feature applied to many blocks in Nekoration, to name a few, stone pillars, half-timber pillars and window frames.$(br2)The mechanics may seem confusing at first, but are actually useful when building if you get to know them."
+		},
+		{
+			"type": "patchouli:text",
+			"title": "Connection Types",
+			"text": "$(#FF9900)Model connection$() in Nekoration can generally be categorized into 3 types:$(li)Horizontal Connection$(li)Vertical Connection$(li)Special Connection$()$(br2)The next pages will go into detail about these types."
+		},
+		{
+			"type": "patchouli:image",
+			"title": "Horizontal Connection",
+			"images": [
+				"nekoration:textures/gui/brochure/mechanics_fig1.png"
+			],
+			"border": false,
+			"text": "   $(o)Fig. 1$() Horizontal Connection"
+		},
+		{
+			"type": "patchouli:text",
+			"text": "By default, $(#FF9900)horizontal connection$() is one-directional. That is, it auto-connects when you place blocks in a $(#0088FF)left-to-right$() order, but does NOT do the same thing if the blocks are put in the $(#AF22EE)$(t:i.e.right-to-left)inversed order$().$(br2)This placement order can be $(#22AAFF)tweaked$() in the $(#AA22FF)server config$() if you don't find it handy. for example, you can change the order to $(#FFAA00)RIGHT2LEFT$() if you want the inversed order, or simply $(#FFAA00)BOTH$() to connect regardless of the order."
+		},
+		{
+			"type": "patchouli:image",
+			"title": "Vertical Connection",
+			"images": [
+				"nekoration:textures/gui/brochure/mechanics_fig2.png"
+			],
+			"border": false,
+			"text": "   $(o)Fig. 2$() Vertical Connection"
+		},
+		{
+			"type": "patchouli:text",
+			"text": "Similar to horizontal connection, $(#FF9900)vertical connection$() is also single directional by default, and can also be configured in the config file.$(br2)The server config file containing these settings can be found at $(br)$(#AA22FF)saves/ $(br)<Your World Name>/ serverconfig/ $(br)nekoration-server.toml$(). $(br)As for servers, just go into the $(#22AAFF)world folder$() and follow the path."
+		},
+		{
+			"type": "patchouli:image",
+			"title": "Special Connection",
+			"images": [
+				"nekoration:textures/gui/brochure/mechanics_fig3.png",
+				"nekoration:textures/gui/brochure/mechanics_fig4.png"
+			],
+			"border": false,
+			"text": "   $(o)Fig. 3$() Special Connection"
+		},
+		{
+			"type": "patchouli:text",
+			"text": "For lamp posts and window frames, they have their own logic of connecting. And it works smartly if you put these blocks in $(#9900FF)a specific order$(), which is shown in the figures on the left.$(br2)$(br2)$(#FF9900)^._.^= ∫"
+		}
+	]
+}
