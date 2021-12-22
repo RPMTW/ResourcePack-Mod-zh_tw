@@ -1010,7 +1010,7 @@
     "block.cyclic.uncrafter": "分解磨床",
     "block.cyclic.uncrafter.tooltip": "物品反向拆解",
     "block.cyclic.wireless_redstone.guide.title": "無線紅石",
-    "block.cyclic.wireless_redstone.guide": "無線發射器和接收器能夠無線傳輸紅石訊號。$(br)在世界上放置一個無線接收器，使用$(l:misc/location) GPS 數據卡$(/l)右擊來儲存其坐標。然後將 GPS 數據卡放入無線發射器。$(br)只要發訊器接收到紅石訊號，與其匹配的接收器都會同步接收到紅石訊號。",
+    "block.cyclic.wireless_redstone.guide": "無線發射器和接收器能夠無線傳輸紅石訊號。$(br)在世界上放置一個無線接收器，使用$(l:misc/location) GPS 數據卡$(/l)右擊來儲存其坐標。然後將 GPS 數據卡放入無線發射器。$(br)只要發射訊器接收到紅石訊號，與其匹配的接收器都會同步接收到紅石訊號。",
     "block.cyclic.wireless_transmitter": "無線紅石發射器",
     "block.cyclic.wireless_transmitter.tooltip": "傳送無線紅石訊號到無線接收器，拿著它左擊無線接收器能夠記錄坐標",
     "block.cyclic.wireless_receiver": "無線紅石接收器",
