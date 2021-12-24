@@ -3,7 +3,7 @@
   "icon": "pneumaticcraft:pressure_tube",
   "category": "tubes",
   "advancement": "pneumaticcraft:root",
-  "priority": "是",
+  "priority": "true",
   "pages": [
     {
       "type": "text",
