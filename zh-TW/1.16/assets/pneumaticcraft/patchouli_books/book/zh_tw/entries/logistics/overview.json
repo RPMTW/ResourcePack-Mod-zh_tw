@@ -3,7 +3,7 @@
   "icon": "pneumaticcraft:logistics_configurator",
   "category": "logistics",
   "advancement": "pneumaticcraft:root",
-  "priority": "是",
+  "priority": "true",
   "pages": [
     {
       "type": "text",
