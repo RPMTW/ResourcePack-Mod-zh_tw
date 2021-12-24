@@ -5,7 +5,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "$(item)轉位符文$()提升了$(l:bloodmagic:altar/blood_altar)血之祭壇$(/l)LP輸入跟輸出的速度"
+      "text": "$(item)轉位符文$()可以提升在祭壇與外部進行交換時的$(blood)生命源質$()流動速度，例如泵抽取祭壇內源質，或是從外部儲罐中填充源質。"
     },
     {
       "type": "crafting",
