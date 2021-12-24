@@ -5,7 +5,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "鍊金術桌使用一點 LP 和少許成分來做一些奇妙的事情！$(br2)它的很多內容都是 NYI。 $(br2) 將滑鼠停在 LP 箭頭上來觀看更多信息。"
+      "text": "些許原料，少量 LP，小小鍊金術桌，卻能創造出諸多奇妙事物！$(br2)鍊金術桌的許多內容還處於待完善狀態。$(br2)游標懸停在 LP 箭頭上，便可以查看到更多訊息。"
     },
     {
       "type": "crafting",
@@ -17,17 +17,17 @@
       "images": [
         "bloodmagic:images/entries/alchemy_table/alchemy_table_gui.png"
       ],
-      "title": "鍊金術桌介面",
+      "title": "鍊金術桌 GUI",
       "border": true,
-      "text": "The Alchemy Table can be inserted into or extracted from. This is how it's configured."
+      "text": "鍊金術桌可以被注入或是提取物品。以下這些按鈕的使用方法。"
     },
     {
       "type": "text",
-      "text": "The $(item)Alchemy Table$() has a number of buttons on its right hand side. These are, in order, $(underline)D$()own, $(underline)U$()p, $(underline)N$()orth, $(underline)S$()outh, $(underline)W$()est, and $(underline)e$()ast. To use them, first click on any slot in the Alchemy Table. (Here, we have selected the central 'finished item' slot, for demonstration.) Next, click on one of these six buttons to toggle whether or not the $(item)Alchemy Table$() should allow $(item)Hoppers$(), pipes, or other such external interference from this face. To return to the table's normal function,"
+      "text": "$(item)鍊金術桌$()的右手邊有幾個按鈕。按順序它們分別為：$(bold)下$()，$(bold)上$()，$(bold)北$()，$(bold)南$()，$(bold)西$()以及$(bold)東$()。使用方法為：首先，點擊桌內的任意一個欄位（在這裡，我們選擇點擊中央的「完成的物品」槽作為示例。）；接著，點擊六個按鈕中的一個，來切換$(item)鍊金術桌$()是否允許從一面對選擇欄位進行外部介入，例如$(item)漏斗$()，管道或是其他類似的東西。"
     },
     {
       "type": "text",
-      "text": "simply click the slot again to deselect it. The icon displayed in the slot shows whether it is accepting inputs or providing outputs. In the example picture, we are allowing pipes to take from our central slot only on the $(underline)D$()own slot, and any attempts to extract items from other sides will not succeed. $(br2)The following pages document a number of recipes currently available for the Alchemy Table."
+      "text": "若想退回到鍊金術桌的正常功能，再次點擊欄位取消選擇即可。欄位內顯示的圖示意味著它是否會接受輸入或是抽取輸出。在示例圖片中，我們令中央欄位僅接受從$(bold)下$()方接入的管道，來對欄位進行抽取的工作，任何嘗試從其他面進行的抽取行為都會失敗。$(br2)以下頁面記錄了一些目前可以在鍊金術桌內進行的配方。"
     },
     {
       "type": "image",
@@ -38,7 +38,7 @@
       "title": "Alchemy Table Errors",
       "anchor": "errors",
       "border": true,
-      "text": "Basic Cutting Fluid is used for 2x Ore Processing.  It is also used in the $(l:bloodmagic:utility/alchemical_reaction_chamber)Alchemical Reaction Chamber$(/l) and the $(l:bloodmagic:rituals/ritual_list/ritual_crushing)Ritual of the Crusher$() for the same purpose."
+      "text": "The Alchemy Table will tell you when something is wrong."
     },
     {
       "type": "text",
@@ -46,39 +46,39 @@
     },
     {
       "type": "3x_crafting_alchemy_table",
-      "a.heading": "Grass",
+      "a.heading": "草",
       "a.recipe": "bloodmagic:alchemytable/grass_block",
-      "b.heading": "Leather",
+      "b.heading": "皮革",
       "b.recipe": "bloodmagic:alchemytable/leather_from_flesh",
-      "c.heading": "Bread",
+      "c.heading": "麵包",
       "c.recipe": "bloodmagic:alchemytable/bread"
     },
     {
       "type": "2x_crafting_alchemy_table",
-      "a.heading": "Clay",
+      "a.heading": "黏土",
       "a.recipe": "bloodmagic:alchemytable/clay_from_sand",
-      "b.heading": "String",
+      "b.heading": "線",
       "b.recipe": "bloodmagic:alchemytable/string"
     },
     {
       "type": "3x_crafting_alchemy_table",
-      "a.heading": "Plant Oil",
+      "a.heading": "植物油",
       "a.recipe": "bloodmagic:alchemytable/plantoil_from_wheat",
       "b.recipe": "bloodmagic:alchemytable/plantoil_from_carrots",
       "c.recipe": "bloodmagic:alchemytable/plantoil_from_taters"
     },
     {
       "type": "3x_crafting_alchemy_table",
-      "a.heading": "Plant Oil Cont.",
+      "a.heading": "植物油",
       "a.recipe": "bloodmagic:alchemytable/plantoil_from_beets",
-      "b.heading": "Coal Sand",
+      "b.heading": "煤砂",
       "b.recipe": "bloodmagic:alchemytable/sand_coal",
-      "c.heading": "Explosive Powder",
+      "c.heading": "爆炸粉末",
       "c.recipe": "bloodmagic:alchemytable/explosive_powder"
     },
     {
       "type": "3x_crafting_alchemy_table",
-      "a.heading": "植物油",
+      "a.heading": "燧石",
       "a.recipe": "bloodmagic:alchemytable/flint_from_gravel",
       "b.heading": "Saltpeter",
       "b.recipe": "bloodmagic:alchemytable/saltpeter",
