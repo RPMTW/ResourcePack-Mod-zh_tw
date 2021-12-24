@@ -2,7 +2,7 @@
   "name": "Routing Nodes",
   "icon": "bloodmagic:masterroutingnode",
   "category": "bloodmagic:demon_will/item_routing",
-  "priority": "是",
+  "priority": "true",
   "pages": [
     {
       "type": "text",
