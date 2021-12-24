@@ -5,11 +5,11 @@
   "pages": [
     {
       "type": "text",
-      "text": "$(item)充能符文$()有它的奇妙之處。當$(l:bloodmagic:altar/blood_altar)血之祭壇$()不在合成階段或灌注$(l:bloodmagic:altar/soul_network)氣血寶珠$()時；$(item)充能符文$()將緩慢吸取LP並充能。使你若在下次將物品放入血之祭壇且要合成時，它將會立刻將充能的LP一比一地轉換為合成所需的LP並瞬間注入物品當中。"
+      "text": "$(item)充能符文$()是一種獨特的升級。當$(l:bloodmagic:altar/blood_altar)血之祭壇$()並未工作且沒有容納$(l:bloodmagic:altar/soul_network)血之寶珠$()的情況下，它會從祭壇中吸取 $(blood)LP$()，將 $(blood)LP$() 快取在祭壇外部。當有物品放入祭壇後，它會立刻消耗儲存在它之中的 $(blood)LP$() 充能，供以物品合成。比率為 1:1。"
     },
     {
       "type": "text",
-      "text": "$(l:bloodmagic:altar/blood_altar)血之祭壇$()每20 tick將會為$(item)充能符文()充能，且每個$(l:bloodmagic:altar/blood_rune/acceleration_rune)促速符文$(/l)能減少1 tick的間隔時間。$(br)\n血之祭壇在充能時每tick的充能量(LP)為：$(br)\n10×$(l:bloodmagic:altar/blood_rune/charging_rune)充能符文$()數量×[1+($(l:bloodmagic:altar/blood_rune/speed_rune)速度符文$()數量/10)]$(br)\n每個血之祭壇的最大充能量為1000LP乘上$(item)充能符文$()的數量,，而假如血之祭壇的容量大於20000LP，則還得乘上(血之祭壇容量/20000)的倍率。"
+      "text": "血之祭壇每在遊戲中過 20 tick 就會進行一次充能，每個$(l:bloodmagic:altar/blood_rune/acceleration_rune)促速符文$(/l)可以減掉 1 tick。$(br2)血之祭壇在每充能刻進行的充能速率為：[$(blood)10 LP$() x $(l:bloodmagic:altar/blood_rune/charging_rune)充能符文$()數量 x (1 + $(l:bloodmagic:altar/blood_rune/speed_rune)加速符文$()/10)] $(br2)血之祭壇的最大充能量為每個$(item)充能符文$()提供$(blood)1000 LP$()，然後總數再乘以[(主血之祭壇流體槽容量)/20000]，前提是這個值大於 1。"
     },
     {
       "type": "crafting",
