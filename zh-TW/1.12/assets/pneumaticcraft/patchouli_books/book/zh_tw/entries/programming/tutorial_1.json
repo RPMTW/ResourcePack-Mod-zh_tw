@@ -2,7 +2,7 @@
   "name": "基礎教學 #1",
   "icon": "minecraft:knowledge_book",
   "category": "programming",
-  "priority": "是",
+  "priority": "true",
   "advancement": "pneumaticcraft:programmer",
   "pages": [
     {
