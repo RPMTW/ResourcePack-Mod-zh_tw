@@ -2,7 +2,7 @@
   "name": "獲得第一顆惡魔意志",
   "icon": "bloodmagic:soulsnare",
   "category": "bloodmagic:demon_will/will_manipulation",
-  "priority": "是",
+  "priority": "true",
   "pages": [
     {
       "type": "crafting_altar",
