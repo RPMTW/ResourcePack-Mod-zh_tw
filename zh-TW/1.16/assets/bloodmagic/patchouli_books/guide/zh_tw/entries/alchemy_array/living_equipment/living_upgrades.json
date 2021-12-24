@@ -1,16 +1,16 @@
 {
-  "name": "束靈裝備升級",
+  "name": "束靈裝備強化",
   "icon": "bloodmagic:upgradetome",
   "priority": true,
   "category": "bloodmagic:alchemy_array/living_equipment",
   "pages": [
     {
       "type": "text",
-      "text": "穿上這件新盔甲時，你感覺到它正在成長，\n它會試圖輔助它看到你執行的各種任務。\n $(br2)它能在很多領域有所表現，但所有成長都是有限的，\n所以單項重複培育太多次是徒勞無功的。"
+      "text": "穿上這套盔甲，你察覺到它正在不斷地生長，並且它還會嘗試幫助你進行一些工作，當然，前提是在這之前你有做過這些事情，並且它也觀察到了。$(br2)它似乎可以在許多地方大展拳腳，但它的成長無疑是有上限的，若你嘗試讓它同一時間做所有事情，那不過是徒勞罷了。"
     },
     {
       "type": "text",
-      "text": "也許多種專精可能是一個好主意？當然，如果你不想獲得教育失敗的缺陷，你必須小心的培育它。 $(br2)幸運的是，你設計了一個$(l:rituals/ritual_list/ritual_upgrade_remove)儀式$() 來協助培育，和$(l:rituals/ritual_list/ritual_armour_evolve)另一個$()能使你的盔甲具有更強的成長能力。"
+      "text": "也許可以多準備幾套不同專長的套裝？當然，如果你不想你的套裝變成四不像，那你還是得小心謹慎地培養你的裝備。$(br2)好在，你設計出了一種$(l:rituals/ritual_list/ritual_upgrade_remove)儀式$()，它可以幫助你訓練你的裝備，而且還有$(l:rituals/ritual_list/ritual_armour_evolve)另一種儀式$()，它能夠使得裝備的成長力更上一層樓。"
     }
   ]
 }
