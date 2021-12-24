@@ -1,0 +1,17 @@
+{
+  "name": "重力裝甲",
+  "category": "modern_industrialization:endgame",
+  "icon": "modern_industrialization:gravichestplate",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "modern_industrialization:gravichestplate",
+      "text": "重力裝甲使用先進的超導體技術來反轉佩戴它的玩家周圍的重力場。$(br2)它使用EU，並且可以藉由在方塊上按右鍵來充電。"
+    },
+    {
+      "type": "text",
+      "text": "請注意，目前的 GSP 技術允許飛行並防止墜落傷害，但不能防止其他類型的傷害。$(br2)現代工業化工程師正在努力尋找解決方案，但研發時間比預期的要長。"
+    }
+  ],
+  "sortnum": 300
+}

@@ -1,0 +1,19 @@
+{
+  "name": "幽靈陷阱",
+  "icon": "twilightforest:ghast_trap",
+  "category": "twilightforest:devices",
+  "advancement": "twilightforest:alt/treasures/carminite",
+  "sortnum": 6250,
+  "pages": [
+    {
+      "type": "spotlight",
+      "title": "幽靈陷阱",
+      "item": "twilightforest:ghast_trap",
+      "text": "和它的名字相同，這個裝置唯一的用途就是困住幽靈們。看起來給它紅石訊號沒有任何反應，也許它需要另一種能量來源？"
+    },
+    {
+      "type": "text",
+      "text": "這正是我要的！如果我可以在這些陷阱中的其中一個附近殺掉足夠的虛弱高塔迷你幽靈，它就會從這些擊殺中獲得足夠的能量。這個裝置發出了一些噪音，當噪音夠大聲時，我可以用紅石訊號來觸發這個裝置，吸住在空中的幽靈，同時吸取它們的生命。"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "聚～～～變",
+  "category": "modern_industrialization:endgame",
+  "icon": "modern_industrialization:fusion_reactor",
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:electric_age/machine/fusion_reactor_asbl",
+      "text": "融合反應爐是終極能源！它可以將氘、氚和/或氦 3 結合成氦電漿，這是遊戲中最強大的燃料！然而，它需要大量的能量來點燃反應。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:electric_age/machine/plasma_turbine_asbl",
+      "text": "電漿渦輪機可以將氦電漿轉化為 EU，速度為 100 kEU/毫桶。其最大生產率約為 1 MEU/t。"
+    }
+  ],
+  "sortnum": 302
+}
