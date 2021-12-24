@@ -2,7 +2,7 @@
   "name": "Overview",
   "icon": "minecraft:cake",
   "category": "intro",
-  "priority": "是",
+  "priority": "true",
   "pages": [
     {
       "type": "text",
