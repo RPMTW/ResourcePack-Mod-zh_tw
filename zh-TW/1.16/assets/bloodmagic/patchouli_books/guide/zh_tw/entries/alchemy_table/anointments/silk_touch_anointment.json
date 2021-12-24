@@ -5,9 +5,9 @@
   "pages": [
     {
       "type": "crafting_alchemy_table",
-      "heading": "Soft Coating",
+      "heading": "柔軟覆層",
       "recipe": "bloodmagic:alchemytable/silk_touch_anointment",
-      "text": "對採集的方塊施加絲綢之觸。 不與原版附魔疊加。$(br2)有效物品：工具、劍、炸藥。$(br2)適用：絲綢之觸 I（256 塊）"
+      "text": "採掘方塊時施加絲綢之觸的效果。與原版的對應附魔效果不疊加。$(br2)有效物品：工具，劍，炸藥。$(br2)施加：柔觸 I（256 個方塊）"
     },
     {
       "type": "crafting_alchemy_table",
