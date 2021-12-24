@@ -5,7 +5,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "每個$(item)寶珠符文$()會為在$(l:bloodmagic:altar/blood_altar)血之祭壇$(/l)裡的$(item)氣血寶珠$()增加2%的容量 。（以累加方式計算）"
+      "text": "$(item)寶珠符文$()可以提升在祭壇內的$(item)血之寶珠$()的容量，每個符文增加 2% 的容量。"
     },
     {
       "type": "crafting",
