@@ -1,11 +1,11 @@
 {
-  "name": "裂變倉結構",
+  "name": "分裂倉結構",
   "icon": "minecraft:writable_book",
   "category": "fusion_category",
   "pages": [
     {
       "type": "multiblock",
-      "name": "裂變倉",
+      "name": "分裂倉",
       "multiblock": {
         "pattern": [
           [
@@ -59,7 +59,7 @@
     },
     {
       "type": "text",
-      "text": "98x 裂變倉壁 $(br) 3x 裂變倉核心 $(br) 1x 裂變倉控制器"
+      "text": "98x 分裂倉壁 $(br) 3x 分裂倉核心 $(br) 1x 分裂倉控制器"
     }
   ]
 }

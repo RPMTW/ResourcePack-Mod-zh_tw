@@ -1,11 +1,11 @@
 {
-  "name": "聚變倉結構",
+  "name": "融合倉結構",
   "icon": "alchemistry:fission_casing",
   "category": "fission_category",
   "pages": [
     {
       "type": "multiblock",
-      "name": "聚變倉",
+      "name": "融合倉",
       "multiblock": {
         "pattern": [
           [
@@ -59,7 +59,7 @@
     },
     {
       "type": "text",
-      "text": "98x 聚變倉壁 $(br) 3x 聚變倉核心 $(br) 1x 聚變倉控制器"
+      "text": "98x 融合倉壁 $(br) 3x 融合倉核心 $(br) 1x 融合倉控制器"
     }
   ]
 }

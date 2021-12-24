@@ -1,0 +1,12 @@
+{
+  "name": "甜甜圈",
+  "icon": "croptopia:doughnut",
+  "category": "croptopia:snacks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:doughnut",
+      "text": "你會在 Blender 中製作的第一個 3D 模型。"
+    }
+  ]
+}

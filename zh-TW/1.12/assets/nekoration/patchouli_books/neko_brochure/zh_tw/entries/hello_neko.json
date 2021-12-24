@@ -1,0 +1,20 @@
+{
+	"name": "Hello Neko!",
+	"category": "介紹",
+	"icon": "nekoration:paw",
+	"pages": [
+		{
+			"type": "patchouli:text",
+			"text": "$(l)What's Nekoration?$()$(br)$(#FF9900)Nekoration$() is a mod adding lots of decorational stuff to Minecraft, making building and decorating easier and more joyful.$(br2)The name $(#FF9900)Nekoration$() is a compound of $(#00BEFF)cat$() in Japanese(ねこ, neko) and $(#FFD200)decoration$(), suggesting that the mod is both $(#BD00FF)ornamental$() and $(#00E07E)cats-friendly$()... Meow~ ^._.^= ∫"
+		},
+		{
+			"type": "patchouli:image",
+			"title": "Nekoration",
+			"images": [
+				"nekoration:textures/gui/brochure/night_scene.png"
+			],
+			"border": true,
+			"text": "A cozy tranquil night decorated with $(#FF9900)Nekoration$()."
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "鮮奶油",
+  "icon": "croptopia:whipping_cream",
+  "category": "croptopia:ingredients",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:whipping_cream",
+      "text": "玉米殼的製作方法"
+    }
+  ]
+}

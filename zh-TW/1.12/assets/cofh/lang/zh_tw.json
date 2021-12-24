@@ -34,7 +34,7 @@
     "chat.cofh.command.pregen": "預生成指定範圍內的區塊。",
     "chat.cofh.command.reloadworldgen.success": "世界生成器已重載。",
     "chat.cofh.command.reloadworldgen.syntax": "/cofh reloadworldgen",
-    "chat.cofh.command.reloadworldgen": "重新載入磁盤上的世界生成器設定。",
+    "chat.cofh.command.reloadworldgen": "重新載入磁碟上的世界生成器設定。",
     "chat.cofh.command.replaceblocks.failure": "沒有可替換的方塊。",
     "chat.cofh.command.replaceblocks.start": "正在從(%2$s,%3$s,%4$s)到(%5$s,%6$s,%7$s)將%1$s個方塊替換為%8$s。",
     "chat.cofh.command.replaceblocks.success": "成功從(%2$s,%3$s,%4$s)到(%5$s,%6$s,%7$s)將%1$s個方塊替換為%8$s。",
