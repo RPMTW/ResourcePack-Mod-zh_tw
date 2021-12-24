@@ -54,5 +54,9 @@
     "msg.framedblocks.tile_entity": "Blocks with TileEntities cannot be inserted into framed blocks!",
     "title.framedblocks:framed_chest": "Framed Chest",
     "block.framedblocks.framed_flower_pot": "Framed Flower Pot",
-    "block.framedblocks.framed_rail_slope": "Framed Rail Slope"
+    "block.framedblocks.framed_rail_slope": "Framed Rail Slope",
+    "block.framedblocks.framed_collapsible_block": "Framed Collapsible Block",
+    "block.framedblocks.framed_half_pillar": "Framed Half Pillar",
+    "block.framedblocks.framed_pillar": "Framed Pillar",
+    "block.framedblocks.framed_post": "Framed Post"
 }

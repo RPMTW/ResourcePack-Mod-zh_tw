@@ -1,9 +1,9 @@
 {
     "menu.modoption": "模組選項...",
-    "text.autoconfig.bettergamemenu.title": "更好的遊戲目錄配置",
+    "text.autoconfig.bettergamemenu.title": "更好的遊戲介面設定",
     "text.autoconfig.bettergamemenu.option.enableModOptions": "啟用\"模組設定\"按鈕",
-    "text.autoconfig.bettergamemenu.option.enableRFARB": "刪除\"反饋和報告錯誤\"按鈕",
+    "text.autoconfig.bettergamemenu.option.enableRFARB": "移除\"意見反應和回報錯誤\"按鈕",
     "text.autoconfig.bettergamemenu.option.enableHideUnnecessaryShareToLan": "隱藏不必要的\"共開局域網路\"按鈕",
     "text.autoconfig.bettergamemenu.option.enableRejoinButton": "啟用\"重新加入\"按鈕",
-    "text.autoconfig.bettergamemenu.option.enableModMenuCompat": "模組目錄兼容"
+    "text.autoconfig.bettergamemenu.option.enableModMenuCompat": "模組介面相容"
 }

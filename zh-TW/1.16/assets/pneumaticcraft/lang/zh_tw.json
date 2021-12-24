@@ -842,7 +842,7 @@
     "pneumaticcraft.gui.logistics_frame_default_storage.fluidFilters": "可儲存的流體",
     "pneumaticcraft.gui.logistics_frame_default_storage.itemFilters": "可儲存的物品",
     "pneumaticcraft.gui.logistics_frame.facing": "朝向：%s",
-    "pneumaticcraft.gui.logistics_frame.facing.tooltip": "定義無人機存取被加框架的容器的麵的朝向。${br}該選項被永遠存取所對面的物流模組所忽略。",
+    "pneumaticcraft.gui.logistics_frame.facing.tooltip": "定義無人機存取被加框架的容器的面的朝向。${br}該選項被永遠存取所對面的物流模組所忽略。",
     "pneumaticcraft.gui.logistics_frame.filter_settings": "過濾器設定",
     "pneumaticcraft.gui.logistics_frame.fluidBlacklist": "流體黑名單",
     "pneumaticcraft.gui.logistics_frame.fluidWhitelist": "流體白名單",

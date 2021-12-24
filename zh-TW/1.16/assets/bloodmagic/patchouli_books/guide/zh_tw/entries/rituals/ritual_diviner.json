@@ -2,55 +2,33 @@
   "name": "儀式推測仗",
   "icon": "bloodmagic:ritualdiviner",
   "category": "bloodmagic:rituals",
-  "extra_recipe_mappings": [
-    [
-      "bloodmagic:airscribetool",
-      4
-    ],
-    [
-      "bloodmagic:firescribetool",
-      4
-    ],
-    [
-      "bloodmagic:waterscribetool",
-      5
-    ],
-    [
-      "bloodmagic:earthscribetool",
-      7
-    ],
-    [
-      "bloodmagic:duskscribetool",
-      6
-    ]
-  ],
   "pages": [
     {
       "type": "text",
-      "text": "Crafting rituals is an intricate business; Even if you have the correct $(item)Inscription Tools$(), you can't just slap runic inscriptions down any old how and expect things to happen. Luckily, the $(item)Ritual Diviner$() is here to help. $(br2)Simply hold [$(k:sneak)] and click [$(k:use)] while looking at empty air to cycle through the avaliable rituals."
+      "text": "製作儀式是一項複雜的工作；即使您擁有正確的$(item)銘文工具$()，您也不能只是將符文刻在石頭上並期望任何事情發生。 幸運的是，$(item)儀式推測仗$()可以提供幫助。$(br2)只需對著空氣按住[$(k:sneak)]並單擊$(k:use)]，即可選擇儀式。"
     },
     {
       "type": "crafting",
       "recipe": "bloodmagic:ritual_diviner_0",
-      "text": "Holding down [$(k:use)] while looking at a $(item)Master Ritual Stone$() will make the Diviner build the currently selected ritual out of any $(item)Ritual Stones$() you may be carrying. It's almost like magic!"
+      "text": "在查看$(item)主儀式石$()時按住[$(k:use)]將使儀式推測仗使用您身上攜帶的$(item)儀式石$()來構建當前選擇的儀式。 這就像魔法一樣！"
     },
     {
       "type": "text",
-      "text": "The Ritual Diviner cannot break blocks however, so make sure the area is clear before you commence construction, or the $(l:bloodmagic:rituals/activation_crystals)Activation Crystal$() will be unable to do its job. $(br2)It's also worth noting that the base ritual diviner can only create some of the more basic rituals. If you want the most out of your diviner, you'll have to upgrade it with $(dusk)Dusk Inscription Tools$()."
+      "text": "然而，儀式推測仗不能破壞方塊，所以在你開始建造之前先確保該區域足夠空曠，否則$(l:bloodmagic:rituals/activation_crystals)啟動水晶$()將無法完成它的工作。$(br2)還有值得注意的是，基礎儀式推測仗只能創建一些基礎的儀式。如果您想充分利用儀式推測仗，則必須使用$(dusk)元素銘文工具:薄暮$()對其進行升級。"
     },
     {
       "type": "crafting",
       "recipe": "bloodmagic:ritual_diviner_1",
       "anchor": "dusk",
-      "text": "Unlike the Elemental Inscription Tools, the Ritual Diviner and Ritual Diviner [Dusk] will never run out."
+      "text": "與元素銘文工具不同的是，儀式推測仗和儀式推測仗[薄暮]永遠不會用完。"
     },
     {
       "type": "text",
-      "text": "The base Ritual Diviner requires one of each $(item)Elemental Inscription Tool$() for its construction, and thus a tier 3 $(l:bloodmagic:altar/blood_altar)Blood Altar$(/l). $(br2)The four base Elemental Inscription Tools can be crafted in your Altar for $(blood)1,000 LP$() each, as defined on the following pages. The Ritual Diviner [Dusk] similarly requires a Tier 4 Altar to make two Dusk Elemental Inscription Tools, at a cost of $(blood)2,000 LP$() each."
+      "text": "基礎儀式推測仗需要四種$(item)元素銘文工具$()各一個來構建，因此需要一個 3 階$(l:bloodmagic:altar/blood_altar)血之祭壇$(/l)。$(br2)四種基本元素銘文工具可以在您的祭壇中消耗$(blood)1000LP$()製作，具體如下頁所述。儀式推測仗[薄暮]需要一個四階祭壇來製作兩個元素銘文工具:薄暮，一個消耗$(blood)2000LP$()。"
     },
     {
       "type": "text",
-      "text": "You can also use these tools to inscribe runes by hand, but this should only seriously be used for decorative purposes, as it is both slow and inaccurate."
+      "text": "您也可以使用這些工具手工刻寫符文，但這只能用於裝飾，因為它既慢又不准確。"
     },
     {
       "type": "2x_crafting_altar",

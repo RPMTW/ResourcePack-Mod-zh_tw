@@ -29,7 +29,7 @@
       "type": "crafting_soulforge",
       "heading": "惡魔坩堝",
       "recipe": "bloodmagic:soulforge/demon_crucible",
-      "text": "This will burn $(l:bloodmagic:demon_will/demon_will)Demon Will$() and release it into the atmosphere. Put a charged $(l:bloodmagic:demon_will/soul_gem)Tartaric Gem$() or any aspect of $(item)Demon Crystal$() into it and let it run."
+      "text": "這將燃燒$(l:bloodmagic:demon_will/demon_will)惡魔意志$()並將其釋放到空氣中。 將充能的$(l:bloodmagic:demon_will/soul_gem)地獄魂石$()或任何一種$(item)惡魔水晶$()放入其中並讓它運行。"
     },
     {
       "type": "image",
@@ -38,11 +38,11 @@
       ],
       "title": "惡魔坩堝",
       "border": true,
-      "text": "The $(item)Demon Crucible$(), with a $(l:bloodmagic:demon_will/soul_gem)Tartaric Gem$() inside it."
+      "text": "$(item)惡魔坩堝$()，裡面有一顆$(l:bloodmagic:demon_will/soul_gem)地獄魂石$()。"
     },
     {
       "type": "text",
-      "text": "Now we have $(raw)Raw Will$() in the atmosphere. Great, now what? $(br2)Some $(l:bloodmagic:rituals/ritual_tinkerer)Rituals$() benefit from $(raw)Raw Will$(), but the main benefit from this is the ability to create $(item)Demon Will Crystals$() and from there, split them into their $(l:bloodmagic:demon_will/aspected_will)Aspects$(). $(br2)Once you have some of these Aspected Will Crystals, you can burn them in the crucible to unleash them into the atmosphere for your rituals to benefit from."
+      "text": "現在我們的大氣中有了$(raw)原始意志$()。 太好了，現在呢？$(br2)一些$(l:bloodmagic:rituals/ritual_tinkerer)儀式$()貌似能從$(raw)原始意志l$()中受益，但由此帶來的主要好處是能夠創造$(item)惡魔意志水晶$()，然後從那裡將它們分成不同的$(l:bloodmagic:demon_will/aspected_will)樣貌$()。$(br2) 一旦你獲得了意志水晶，你就可以將它們放入坩堝中燃燒，將它們釋放到大氣中，讓你的儀式從中受益。"
     },
     {
       "type": "crafting_soulforge",

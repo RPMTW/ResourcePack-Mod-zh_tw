@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "text",
-            "text": "The Tinker's Workbench is a block that can charge, fill, and apply augments to tools and blocks. It has two modes, charge/refill and augment, which you can toggle between using the button below the item slot in the GUI. Augments only take effect when you toggle modes or take the tool/block out."
+            "text": "The Tinker's Workbench is a block that can charge, fill, and apply augments to tools and blocks. It has two modes, charge/refill and augment, which you can toggle between using the button below the item slot in the GUI. Augments are only fully installed when you toggle modes or take the tool/block out."
         },
         {
             "type": "crafting",

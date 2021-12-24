@@ -14,19 +14,19 @@
     },
     {
       "type": "text",
-      "text": "inventory and holding shift. $(br2)Place down a Master Ritual Stone, and hold right-click until all the stones have been placed and painted with the correct element. Finally, right click the Master Ritual Stone with your Activation Crystal. If you've done everything right, you should get a message saying 'A rush of energy flows through the ritual!'. The ritual is now active."
+      "text": "放下主儀式石，按住[$(k:use)]直到所有的儀式石都被放置並塗上正確的元素。 最後，手持啟動水晶在大主儀式石上按[$(k:use)]。 如果你做的一切都正確，你應該會收到一條訊息:「一股能量流經這個儀式！」。 這個儀式現在啟動了。"
     },
     {
       "type": "text",
-      "text": "If this does not occur, a few things may have gone wrong. If you instead get text saying 'You feel a push, but are too weak to complete this ritual', then you do not have enough LP in your Soul Network to activate the ritual. $(br2) If the message reads 'You feel that these runes are not configured correctly...', then something has gone wrong in the placement of the runes. Check the area for any blockages (such as grass, stone, etc) and try again."
+      "text": "如果沒有發生這種情況，則可能有一些地方出了問題。 如果您收到的文字是:「你感到有股拉力，但是要完成儀式，你還是弱了點。」，說明你的$(thing)靈魂網絡$()中沒有足夠的$(blood)LP$()來激活該儀式。 $(br2)如果消息顯示:「你發現這些儀式石的擺放似乎有些問題……」，則說明符文的放置出現了問題。 檢查該區域是否有任何障礙物，然後嘗試再次啟動儀式。"
     },
     {
       "type": "text",
-      "text": "Remember that some rituals extend several blocks above and below the Master Ritual Stone. If you get no error, ensure that the activation crystal is bound to your soul network - this can be accomplished by right-clicking it. $(br2) It is important to note that the crystal does not have to be bound to YOUR network - if you can get a hold of another player's crystal, you can activate rituals using their blood-pool. Guard yours well!"
+      "text": "請記住，有些儀式會在主儀式石的上方和下方延伸幾個方塊。 如果沒有出錯，請確保激啟動水晶已綁定到您的靈魂網絡 - 這可以通過按住[$(k:use)]來完成。$(br2)需要注意的是，水晶不一定要綁定到你的網絡——如果你能拿到其他玩家的水晶，你可以使用他們的$(blood)LP$()來激活儀式。 好好保護你的水晶！"
     },
     {
       "type": "text",
-      "text": "one last note; all rituals respond to a $(item)Redstone$() signal, so sticking a lever on the side of the Master Ritual Stone is a good way to deactivate it. You can combine this knowledge with some of the information in $(l:bloodmagic:altar/redstone_automation)Redstone and Automation$() to ensure your rituals shut down automatically long before your Soul Network runs dry."
+      "text": "最後一條註解； 所有儀式都能接收$(fire)紅石$()信號，因此在主儀式石的側面放置一個控制桿是停用它的好方法。 您可以將這些知識在$(l:bloodmagic:altar/redstone_automation)紅石自動化$()中的一資訊結合起來，以確保您的儀式在您的$(thing)靈魂網絡$()耗盡之前自動關閉。"
     }
   ]
 }

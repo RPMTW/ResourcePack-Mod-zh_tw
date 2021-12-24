@@ -37,5 +37,11 @@
     "curios.modifiers.bracelet": "佩戴手鐲時：",
     "key.curios.category": "飾品",
     "key.curios.open.desc": "開啟/關閉飾品欄",
-    "gui.curios.toggle": "可見性切換"
+    "gui.curios.toggle": "可見性切換",
+    "curios.modifiers.slots.plus.0": "+%s%s 格",
+    "curios.modifiers.slots.plus.1": "+%s%% %s 格",
+    "curios.modifiers.slots.plus.2": "+%s%% %s 格",
+    "curios.modifiers.slots.take.0": "-%s %s 格",
+    "curios.modifiers.slots.take.1": "-%s%% %s 格",
+    "curios.modifiers.slots.take.2": "-%s%% %s 格"
 }

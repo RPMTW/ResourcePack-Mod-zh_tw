@@ -149,8 +149,8 @@
     "book.extendedcrafting.entry.singularities.page.1": "奇點是高度壓縮的物質。它們$(bold)通常$()被通過$(l:crafting/compression)量子壓縮機$()合成。$(br2)奇點可能$(bold)可以$()用在很多方面，例如$(l:components/ultimate_singularity)終極奇點$().",
     "book.extendedcrafting.entry.ultimate_singularity": "終極奇點",
     "book.extendedcrafting.entry.ultimate_singularity.page.1": "終極奇點$(bold)通常$()在$(l:crafting/tables)終極工作檯$()中合成。$(br2)它$(bold)通常$()由所有（如果不是大多數）可用的奇點合成而成。",
-    "book.extendedcrafting.entry.handheld_table": "手持工作檯",
-    "book.extendedcrafting.entry.handheld_table.page.1": "手持工作檯是一個工作檯。",
-    "tooltip.extendedcrafting.seconds": "%s Seconds",
-    "tooltip.extendedcrafting.selected": "Selected"
+    "book.extendedcrafting.entry.handheld_table": "手持式工作台",
+    "book.extendedcrafting.entry.handheld_table.page.1": "手持式工作台就是一個工作台",
+    "tooltip.extendedcrafting.seconds": "%s 秒",
+    "tooltip.extendedcrafting.selected": "已選擇"
 }

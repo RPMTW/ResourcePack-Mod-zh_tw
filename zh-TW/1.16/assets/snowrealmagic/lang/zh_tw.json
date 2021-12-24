@@ -7,5 +7,7 @@
     "block.snowrealmagic.fence": "雪覆蓋的柵欄",
     "block.snowrealmagic.fence_gate": "雪覆蓋的柵欄門",
     "gamerule.blizzardStrength": "暴雪強度",
-    "gamerule.blizzardStrength.description": "雪塊會從天而降。 由雪添加！ 真正的魔法！"
+    "gamerule.blizzardStrength.description": "Snow blocks will fall from sky. 1~8 to set the max layers. Added by Snow! Real Magic!",
+    "gamerule.blizzardFrequency": "Blizzard frequency",
+    "gamerule.blizzardFrequency.description": "The possibility to do blizzard. N/10000 per tick per chunk. Added by Snow! Real Magic!"
 }

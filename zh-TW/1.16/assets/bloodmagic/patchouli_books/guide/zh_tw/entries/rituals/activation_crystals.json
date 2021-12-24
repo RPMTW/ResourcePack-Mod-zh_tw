@@ -2,12 +2,6 @@
   "name": "啟動水晶",
   "icon": "bloodmagic:activationcrystalweak",
   "category": "bloodmagic:rituals",
-  "extra_recipe_mappings": [
-    [
-      "bloodmagic:activationcrystalweak",
-      1
-    ]
-  ],
   "pages": [
     {
       "type": "text",

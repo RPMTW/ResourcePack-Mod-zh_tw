@@ -3842,7 +3842,7 @@
     "com.ldtteam.structurize.gui.scantool.scanbadanchor": "結構圖 %s 有多個可能的錨點位置，請選擇一個",
     "structurize.gui.replaceblock.null_placement": "在某些情況下，用目標方塊替換「%s」可能無法工作。",
     "structurize.config.iteratortype": "結構放置時的疊代順序",
-    "structurize.config.iteratortype.comment": "目前支持‘default’、‘inwardcircle’、‘hilbert’、‘random’以及‘inwardcircleheight1’到‘inwardcircleheight4’",
+    "structurize.config.iteratortype.comment": "Currently supports 'default', 'inwardcircle', 'hilbert', 'random' and 'inwardcircleheight1' to 'inwardcircleheight4' ",
     "block.structurize.blocktagsubstitution": "標籤錨點方塊",
     "structurize.gui.shapetool.creative_only": "在生存模式下，結構化不支持使用結構形狀工具。切換到創造模式或安裝模擬殖民地並使用模擬殖民地的建築工具。",
     "structurize.gui.delete.title": "Delete Structure",

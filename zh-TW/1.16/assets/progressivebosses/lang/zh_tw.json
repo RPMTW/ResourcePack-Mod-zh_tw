@@ -18,5 +18,12 @@
     "wither.first_summon": "你生成了你的第一個凋零怪。請注意，你生成的每一個凋零怪都會使下一個更難戰鬥。",
     "elder_guardian.approach": "看起來你正在接近海底神殿，直到你擊敗所有遠古深海守衛……或者除非你逃跑……否則你將無法破壞方塊。",
     "item.progressivebosses.elder_guardian_spike": "Elder Guardian Spike",
-    "progressivebosses:elder_minion": "Elder Minion"
+    "progressivebosses:elder_minion": "Elder Minion",
+    "wither.minion": "Wither Minion",
+    "dragon.larva": "Dragon Larva",
+    "dragon.minion": "Dragon Minion",
+    "command.player_get_wither_difficulty": "%s has summoned %d Withers",
+    "command.player_get_dragon_difficulty": "%s has killed %d Dragons",
+    "command.player_set_boss_difficulty": "Set %s's %s difficulty to %d",
+    "command.player_add_boss_difficulty": "Added %d %s's Difficulty to %s (now %d)"
 }

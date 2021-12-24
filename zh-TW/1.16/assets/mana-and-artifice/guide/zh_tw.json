@@ -15,7 +15,7 @@
 			},
 			{
 				"type": "title",
-				"value": "Pages"
+				"value": "頁面"
 			},
 			{
 				"type": "text",
@@ -141,32 +141,36 @@
 			},
 			{
 				"type": "text",
+				"value": "點擊 UI 下方的 HUD 顯示按鈕，可以切換 HUD 的顯示樣態。你可以選擇總是顯示，條件觸發顯示（當你裝備著消耗魔力的物品時），或者從不顯示。\n\n如果你發現你的 HUD 都不見了，那或許是因為你改了這個選項！"
+			},
+			{
+				"type": "image",
 				"location": "mana-and-artifice:textures/guide/hud_options.png",
 				"width": 41,
 				"height": 62
 			},
 			{
-				"type": "image",
+				"type": "title",
 				"value": "HUD 位置選項",
 				"newPage": true
 			},
 			{
-				"type": "title",
-				"value": "HUD 位置選項"
+				"type": "text",
+				"value": "點擊 UI 下方的 HUD 位置按鈕，可以切換 HUD 的顯示位置。"
 			},
 			{
-				"type": "text",
+				"type": "image",
 				"location": "mana-and-artifice:textures/guide/hud_position.png",
 				"width": 41,
 				"height": 62
 			},
 			{
-				"type": "image",
-				"value": "假如你在魔力條旁看見一個紅色閃電，這表示你的物品欄中有一個充電不足的物品",
+				"type": "text",
+				"value": "如果你發覺你的魔力條旁有一滴帶著閃電標識的紅色水滴圖示，這說明你的物品欄內的某件物品的充能值很低。",
 				"newPage": true
 			},
 			{
-				"type": "text",
+				"type": "image",
 				"location": "mana-and-artifice:textures/guide/low_charge.png",
 				"width": 29,
 				"height": 36,
@@ -193,7 +197,7 @@
 			},
 			{
 				"type": "item",
-				"location": "mana-and-artifice:manaweaver_wand",
+				"location": "mana-and-artifice:vinteum_manaweaver_wand",
 				"scale": 1
 			},
 			{
@@ -219,7 +223,11 @@
 		],
 		"related_recipes": [
 			{
-				"location": "mana-and-artifice:manaweaver_wand",
+				"location": "mana-and-artifice:vinteum_manaweaver_wand",
+				"type": "crafting"
+			},
+			{
+				"location": "mana-and-artifice:chimerite_manaweaver_wand",
 				"type": "crafting"
 			},
 			{
@@ -251,7 +259,11 @@
 		],
 		"related_recipes": [
 			{
-				"location": "mana-and-artifice:manaweaver_wand",
+				"location": "mana-and-artifice:vinteum_manaweaver_wand",
+				"type": "crafting"
+			},
+			{
+				"location": "mana-and-artifice:chimerite_manaweaver_wand",
 				"type": "crafting"
 			},
 			{
@@ -286,6 +298,200 @@
 			{
 				"location": "mana-and-artifice:manaweaving/sorcery/book_of_rote",
 				"type": "manaweaving_altar"
+			}
+		]
+	},
+	"Eldrin Wellsprings": {
+		"category": "eldrin_altar",
+		"index": -91,
+		"tier": 3,
+		"sections": [
+			{
+				"type": "title",
+				"value": "艾得靈源泉"
+			},
+			{
+				"type": "text",
+				"value": "世界中存在著一種能量節點網路，它開枝散葉，遍布各處。這些節點被稱為「艾得靈源泉」。 每個源泉都與特定的親和息息相關，並且，它們所蘊藏的力量也各不相同。"
+			},
+			{
+				"type": "text",
+				"value": "除非使用源泉之視藥膏（或者是巫師議會製作的艾得靈之視藥膏——這是源泉之視藥膏的高級版本），否則即便你站在艾得靈源泉跟前，你也不能瞧見它的絲毫真容。但是，即便你看不到它，你也仍可以使用它。\n\n當我更為技藝精湛之後，我應該能找到某種捕捉它們的方法，進一步地操縱它們的力量。"
+			},
+			{
+				"type": "text",
+				"value": "那些與巫師議會結盟的人，可以使用艾得靈飛行，在源泉之間穿梭旅行；艾得靈手鐲則可以抽取臨近源泉中的力量，藉以減少他們施法的魔力消耗。"
+			},
+			{
+				"type": "title",
+				"value": "定位源泉"
+			},
+			{
+				"type": "text",
+				"value": "由上，源泉有著自身的親和，它們的親和來源於它們所處的生態域。理論上，你可以在任何地方找到任何種類的源泉，然而，在可能性大小的角度上來說，我最有可能在特定的地方找到特定親和的源泉，以下為各個地點："
+			},
+			{
+				"type": "text",
+				"value": "奧術：在較高的地方，森林以及叢林。"
+			},
+			{
+				"type": "text",
+				"value": "地：森林，沼澤，平頂山以及叢林。"
+			},
+			{
+				"type": "text",
+				"value": "水：河流，海洋以及沼澤。"
+			},
+			{
+				"type": "text",
+				"value": "風：平原以及莽原，高處也會出現。"
+			},
+			{
+				"type": "text",
+				"value": "火：沙漠以及類地獄的地方。"
+			},
+			{
+				"type": "text",
+				"value": "終界：沼澤，蘑菇生態域以及那些虛空之力充盈的地方。"
+			},
+			{
+				"type": "text",
+				"value": "（如果設定 generic wellsprings 一項已打開，那麼上述的這些設定將會失效）"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/wellspring_sight_unguent"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/eldrin_sight_unguent"
+			},
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/eldrin_flight"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/artifice/eldrin_bracelet"
+			}
+		]
+	},
+	"Capturing Eldrin Wellsprings": {
+		"category": "eldrin_altar",
+		"index": -90,
+		"tier": 4,
+		"sections": [
+			{
+				"type": "title",
+				"value": "捕捉艾得靈源泉"
+			},
+			{
+				"type": "text",
+				"value": "我找到了一種操縱艾得靈源泉之力的方法。但我得小心一些，操縱時應該僅控制較少的能量，因為這些原生之力能夠輕而易舉地摧毀任何裝置，到頭來，為了省時間卻花費了更多時間，得不償失。那麼如何操作呢？答案便是使用透鏡，你可以用透鏡折射少量的源泉之力，引導其到虛空維度中，只有虛空維度才能承載這股原生能量。這一操作不僅需要透鏡，還需要在透鏡周圍搭建特別的共鳴結構，否則這一魔法無法生效。將能量抽取並存入虛空之後，下次需要取用這些能量時，我便可以利用另外的裝置將虛空中的能量抽回。"
+			},
+			{
+				"type": "text",
+				"value": "值得注意的是，你最好是完全把艾得靈源泉之力抽乾，而不是細水長流地它生一些你抽一些。我可以查看我儲存奧秘之眼中的全部源泉之力。"
+			},
+			{
+				"type": "text",
+				"value": "儘管奧秘之眼本身不會顯示你有多少能量，但你可以另用它法。使用秘鳴砂岩或是秘鳴之石搭建的源泉稜鏡結構，便可以用於能量查詢。"
+			},
+			{
+				"type": "text",
+				"value": "(There are configs that will allow eldrin wellsprings to spawn with no affinity, and the first type of lens used on each node will then permanently set its affinity.  There are also configs to make eldrin wellspring power per faction instead of per player)"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "multiblock",
+				"location": "mana-and-artifice:multiblock/wellspring_capture"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/eldrin/wellspring_pillar"
+			},
+			{
+				"type": "manaweaving_altar",
+				"locations": [
+					"mana-and-artifice:manaweaving/eldrin/lens_arcane",
+					"mana-and-artifice:manaweaving/eldrin/lens_ender",
+					"mana-and-artifice:manaweaving/eldrin/lens_fire",
+					"mana-and-artifice:manaweaving/eldrin/lens_water",
+					"mana-and-artifice:manaweaving/eldrin/lens_air",
+					"mana-and-artifice:manaweaving/eldrin/lens_earth"
+				]
+			}
+		]
+	},
+	"Eldrin Conduits": {
+		"category": "eldrin_altar",
+		"index": -89,
+		"tier": 4,
+		"sections": [
+			{
+				"type": "title",
+				"value": "艾得靈傳輸核心"
+			},
+			{
+				"type": "text",
+				"value": "將艾得靈源泉捕捉並吸入虛空維度後，我可以使用艾得靈傳輸核心來將源泉內的能量帶回物質世界。每種傳輸核心可以傳輸特定種類的能量。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"locations": [
+					"mana-and-artifice:manaweaving/eldrin/conduit_arcane",
+					"mana-and-artifice:manaweaving/eldrin/conduit_ender",
+					"mana-and-artifice:manaweaving/eldrin/conduit_fire",
+					"mana-and-artifice:manaweaving/eldrin/conduit_water",
+					"mana-and-artifice:manaweaving/eldrin/conduit_air",
+					"mana-and-artifice:manaweaving/eldrin/conduit_earth"
+				]
+			}
+		]
+	},
+	"Eldrin Altar": {
+		"category": "eldrin_altar",
+		"index": -88,
+		"tier": 4,
+		"sections": [
+			{
+				"type": "title",
+				"value": "艾得靈祭壇"
+			},
+			{
+				"type": "text",
+				"value": "艾得靈祭壇可以幫助你製作出一些強大的魔法造物，直到今天，這些物品也只是在傳說之中有過隻言片語的描述。首先，我需要製作出祭壇本體，並在它周圍擺上一些基座。"
+			},
+			{
+				"type": "text",
+				"value": "接著，我需要製作出艾得靈傳輸核心，並擺放在祭壇周圍的 7 格範圍內，祭壇頂部的水晶會顯示出一條清晰的線，連接到核心上。不是所有的配方都需要全部種類的源泉之力，你只需要在祭壇旁擺放配方需要的對應的核心就行了。"
+			},
+			{
+				"type": "text",
+				"value": "每種配方都需要從被捕捉的源泉內抽取特定量的艾得靈能量。所以，我需要找到並捕捉足夠多的源泉，滿足我的祭壇工作需要。"
+			},
+			{
+				"type": "text",
+				"value": "萬事俱備，我就得在祭壇以及周圍的基座上放入需要的物品了（擺放次序和位置並不重要），擺放完後空手啟動祭壇即可。啟動後，靜靜欣賞祭壇合成吧。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "multiblock",
+				"location": "mana-and-artifice:multiblock/eldrin_altar"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/eldrin/eldrin_altar"
+			},
+			{
+				"type": "crafting",
+				"location": "mana-and-artifice:runeforging/stone_pedestal"
 			}
 		]
 	},
@@ -408,7 +614,11 @@
 				"locations": [
 					"mana-and-artifice:chimerite_crystals/crystal_orange",
 					"mana-and-artifice:chimerite_crystals/crystal_red",
-					"mana-and-artifice:chimerite_crystals/crystal_yellow"
+					"mana-and-artifice:chimerite_crystals/crystal_yellow",
+					"mana-and-artifice:chimerite_crystals/crystal_light_blue",
+					"mana-and-artifice:chimerite_crystals/crystal_blue",
+					"mana-and-artifice:chimerite_crystals/crystal_cyan",
+					"mana-and-artifice:chimerite_crystals/crystal_white"
 				]
 			}
 		]
@@ -447,11 +657,11 @@
 			},
 			{
 				"type": "text",
-				"value": "/setmagicLevel [0-75] <player>\n設定玩家的魔法等級以及魔力最大值。"
+				"value": "/setmagiclevel [0-75] <player>\n設定玩家的魔法等級以及魔力最大值。"
 			},
 			{
 				"type": "text",
-				"value": "/setFaction [faction_id] <player>\n設定玩家的派系。因為某些與 forge 有關的原因，這條指令無法在伺服器中使用自動補全功能，但你還可以手動補全，可供選擇的有：NONE（無），DEMONS（惡魔），FEY_COURT（仙女之庭）和 ANCIENT_WIZARDS（遠古議會巫師）"
+				"value": "/setfaction [faction_id] <player>\n設定玩家的派系。因為某些與 forge 有關的原因，這條指令無法在伺服器中使用自動補全功能，但你還可以手動補全，可供選擇的有：NONE（無），DEMONS（惡魔），FEY_COURT（仙女之庭）和 ANCIENT_WIZARDS（遠古議會巫師）"
 			},
 			{
 				"type": "text",
@@ -464,6 +674,14 @@
 			{
 				"type": "text",
 				"value": "/makerote [part_id] <player>\n使得特定玩家定式熟記該構件。能讓其在定式之書內使用該構件。因為某些與 forge 有關的原因，這條指令無法在伺服器中使用自動補全功能。"
+			},
+			{
+				"type": "text",
+				"value": "/makewellspring [x y z] <affinity> <strength>\n在給定點位創造一處源泉，如果未填寫強度以及/或者親和，那麼在創造時將會使用隨機值。"
+			},
+			{
+				"type": "text",
+				"value": "/setwellspringpower [player] [affinity] [strength]\n為選中的玩家設定源泉網路強度。變更是暫時的，在變更後的第一次重計算時，賦予的值將會被覆蓋。用於測試。"
 			}
 		],
 		"related_recipes": []
@@ -512,6 +730,87 @@
 			}
 		],
 		"related_recipes": []
+	},
+	"Useful Vanilla Recipes": {
+		"category": "basics",
+		"index": -2,
+		"sections": [
+			{
+				"type": "title",
+				"value": "一些好用的原版配方"
+			},
+			{
+				"type": "text",
+				"value": "本模組為原版的物品加入了少量配方，這些物品在本模組中的使用率較高，或者取得較為困難。下面列出了這些物品。其中的一些有等階要求，得等你逐步進階之後，這些配方才會出現。"
+			},
+			{
+				"type": "text",
+				"value": "配方包括：\n\n皮革\n哭泣的黑曜石\n海磷砂粒\n海磷碎片\n鑲金黑石\n命名牌\n毒馬鈴薯\n鞍"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/utility/leather"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/utility/crying_obsidian"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/utility/prismarine_crystal"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/utility/prismarine_shard"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/utility/gilded_blackstone"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/utility/name_tag"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/utility/poisonous_potato"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/utility/saddle"
+			}
+		]
+	},
+	"Mana Coffee": {
+		"category": "basics",
+		"index": -2,
+		"tier": 3,
+		"sections": [
+			{
+				"type": "title",
+				"value": "魔力咖啡"
+			},
+			{
+				"type": "text",
+				"value": "可可豆加上魔法，美味綻於舌尖，令人愉悅。這一咖啡可以增強你的魔力再生速度，持續 4 分鐘，效果結束後你會陷入到魔力阻滯狀態，持續 1 分鐘。比較適合 boss 戰前的準備。可惜的是，對於不死而言，它們就只能嘗個味道了。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "crafting",
+				"location": "mana-and-artifice:clay_mug"
+			},
+			{
+				"type": "arcane_furnace",
+				"location": "mana-and-artifice:arcanefurnace/mana_coffee_beans"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/food/mana_coffee"
+			}
+		]
 	},
 	"Factions": {
 		"category": "basics",
@@ -632,7 +931,7 @@
 			},
 			{
 				"type": "text",
-				"value": "極為常見的花，那些眼神不好的人經常把它錯認為藍色蝴蝶蘭。但若是仔細觀察，便能看到其上那微弱的螢光效果。它生長於森林，平原，以及任何寒冷生態域。奧藍堇可被用於諸多種類的魔法配方中。據說，它還會發出一種只有小孩才能聽到的輕柔嗡鳴聲。"
+				"value": "極為常見的花，那些眼神不好的人經常把它錯認為蘭花。但若是仔細觀察，便能看到其上那微弱的螢光效果。它生長於森林，平原，以及任何寒冷生態域。奧藍堇可被用於諸多種類的魔法配方中。據說，它還會發出一種只有小孩才能聽到的輕柔嗡鳴聲。"
 			},
 			{
 				"type": "title",
@@ -680,6 +979,22 @@
 		"related_recipes": [
 			{
 				"location": "mana-and-artifice:tarma_root_to_brown_dye",
+				"type": "crafting"
+			},
+			{
+				"location": "mana-and-artifice:wakebloom_to_blue_dye",
+				"type": "crafting"
+			},
+			{
+				"location": "mana-and-artifice:desert_nova_to_orange_dye",
+				"type": "crafting"
+			},
+			{
+				"location": "mana-and-artifice:cerublossom_to_purple_dye",
+				"type": "crafting"
+			},
+			{
+				"location": "mana-and-artifice:aum_to_green_dye",
 				"type": "crafting"
 			}
 		]
@@ -780,6 +1095,38 @@
 		],
 		"related_recipes": []
 	},
+	"Enemy: Hulking Zombie": {
+		"category": "basics",
+		"index": 3,
+		"tier": 3,
+		"sections": [
+			{
+				"type": "title",
+				"value": "敵人：重型殭屍"
+			},
+			{
+				"type": "text",
+				"value": "重型殭屍是不死派系的兵種之一。它們能夠承受大量的傷害，並將所承受的傷害轉嫁出去。它們的攻擊可以將敵人擊退或是擊飛至空中，並且它們還能夠高高跳起，將飛在半空中的敵人狠狠地拽回地面（在這種情況下，它們自身的安全就得不到保障了）。"
+			}
+		],
+		"related_recipes": []
+	},
+	"Enemy: Skeleton Assassin": {
+		"category": "basics",
+		"index": 3,
+		"tier": 3,
+		"sections": [
+			{
+				"type": "title",
+				"value": "敵人：骷髏刺客"
+			},
+			{
+				"type": "text",
+				"value": "骷髏刺客是不死派系的兵種之一。這種令人驚懼的追獵者可以施放出煙霧彈遮掩自身。它們對於放冷箭的技術了如指掌，能夠對敵人造成大量的傷害。它們還能擲出高速而致命的手裏劍進行攻擊，而對於飛在空中的敵人，它們則會擲出一把大刀，嘗試將敵人打回至地面上。"
+			}
+		],
+		"related_recipes": []
+	},
 	"Manaweaving Altar": {
 		"category": "manaweaving",
 		"sections": [
@@ -794,7 +1141,11 @@
 		],
 		"related_recipes": [
 			{
-				"location": "mana-and-artifice:manaweaver_wand",
+				"location": "mana-and-artifice:vinteum_manaweaver_wand",
+				"type": "crafting"
+			},
+			{
+				"location": "mana-and-artifice:chimerite_manaweaver_wand",
 				"type": "crafting"
 			},
 			{
@@ -890,6 +1241,10 @@
 			{
 				"type": "text",
 				"value": "現在，拿上你的符文工匠錘，對著已經放置在鐵砧上的物品奮力敲打吧。但你要注意，一定要確保所有的東西都放置在了正確的位置，如果你將物品放置在了錯誤的位置並開始了鍛造，那麼這些物品將會從鐵砧上彈出。\n\n敲打足夠多的次數之後，鍛造過程就完成了。"
+			},
+			{
+				"type": "text",
+				"value": "符文樣板還是有些脆弱的，鍛造了四次之後就會損壞。但如果是構裝體使用，那就不太一樣了：這種不太精緻的自動小玩偶，每次符文鍛造完成後都會破壞掉樣板（每個樣板只能用一次，而不是四次——這在做自動化的時候很有幫助！）。"
 			}
 		],
 		"related_recipes": [
@@ -1012,7 +1367,7 @@
 			},
 			{
 				"type": "text",
-				"value": "符文鐵砧的任意麵都可以提取物品和接收物品。"
+				"value": "符文鐵砧的任意面都可以提取物品和接收物品。"
 			},
 			{
 				"type": "title",
@@ -1020,7 +1375,7 @@
 			},
 			{
 				"type": "text",
-				"value": "在不含內容物的情況下，符文鍛爐可從任意麵接收物品，當其不在工作狀態時，它的任意麵都可以提取物品。"
+				"value": "在不含內容物的情況下，符文鍛爐可從任意麵接收物品，當其不在工作狀態時，它的任意面都可以提取物品。"
 			}
 		]
 	},
@@ -1156,12 +1511,12 @@
 		],
 		"related_recipes": [
 			{
-				"type": "crafting",
-				"location": "mana-and-artifice:vinteum_manaweaver_wand"
+				"location": "mana-and-artifice:vinteum_manaweaver_wand",
+				"type": "crafting"
 			},
 			{
-				"type": "crafting",
-				"location": "mana-and-artifice:chimerite_manaweaver_wand"
+				"location": "mana-and-artifice:chimerite_manaweaver_wand",
+				"type": "crafting"
 			},
 			{
 				"type": "crafting",
@@ -1169,7 +1524,46 @@
 			},
 			{
 				"type": "crafting",
-				"location": "mana-and-artifice:runic_anvil"
+				"location": "mana-and-artifice:runescribing/runescribing_table"
+			},
+			{
+				"type": "crafting",
+				"location": "mana-and-artifice:runeforging/runic_anvil"
+			}
+		]
+	},
+	"Beheading": {
+		"category": "enchantments",
+		"sections": [
+			{
+				"type": "title",
+				"value": "斬首"
+			},
+			{
+				"type": "text",
+				"value": "我可以將這一附魔附加到武器上。附魔過後的武器在殺敵時會儘量不去破壞敵人的頭顱，方便我取下並留於後用。這一附魔會增加擊殺敵人時的頭顱掉落機率。如果已生成的戰利品中已經包含了頭顱，那麼附魔不會再去增加頭顱的掉落機率。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/beheading_i"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/beheading_ii"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/beheading_iii"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/beheading_iv"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/beheading_v"
 			}
 		]
 	},
@@ -1906,7 +2300,7 @@
 		"related_recipes": [
 			{
 				"type": "manaweaving_altar",
-				"location": "mana-and-artifice:manaweaving/arcane_crown"
+				"location": "mana-and-artifice:manaweaving/artifice/arcane_crown"
 			}
 		]
 	},
@@ -1934,6 +2328,41 @@
 			{
 				"type": "manaweaving_altar",
 				"location": "mana-and-artifice:manaweaving/spectral_elytra"
+			}
+		]
+	},
+	"Faction Horns": {
+		"category": "artifice",
+		"sections": [
+			{
+				"type": "title",
+				"value": "派系號角"
+			},
+			{
+				"type": "text",
+				"value": "我發現了一種能夠與我方派系成員深度共鳴的配方。我可以將這種方法以號角的形式具象化，當吹響號角時，你便可以召喚出同派系的盟友來助你一臂之力。這種召喚行為不能常用，並且你的盟友的留存時間也較短。"
+			},
+			{
+				"type": "text",
+				"value": "你只能改製作/使用你的派系的號角。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/artifice/horn_council"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/artifice/horn_demons"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/artifice/horn_fey"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/artifice/horn_undead"
 			}
 		]
 	},
@@ -1977,7 +2406,7 @@
 			},
 			{
 				"type": "text",
-				"value": "我創造出了一種印記，這一印記可以暫時性地將目標地面轉化為獨立的維度，你可以在其中隨心所欲地穿梭出入。大約 10 秒過後，原先位置的物質將會重新回歸，好似無事發生。當然，我是指沒有東西掉下去的情況下。這一可穿越的維度可以困住那些稀裡糊塗走進去的生物，這當然也包括你在內。\n\n我得確保當一切恢復的時候，我不會被埋在裡面。\n\n同時，這個小玩意兒似乎只能影響基礎的生態域。"
+				"value": "我創造出了一種印記，這一印記可以暫時性地將目標地面轉化為獨立的維度，你可以在其中隨心所欲地穿梭出入。大約 10 秒過後，原先位置的物質將會重新回歸，好似無事發生。當然，我是指沒有東西掉下去的情況下。這一可穿越的維度可以困住那些稀裡糊塗走進去的生物，這當然也包括你在內。\n\n我得確保當一切恢復的時候，我不會被埋在裡面。\n\n同時，它似乎只能影響基礎的生態域。"
 			}
 		],
 		"related_recipes": [
@@ -2443,6 +2872,34 @@
 			}
 		]
 	},
+	"Soul Speed": {
+		"index": 0,
+		"category": "enchantments",
+		"sections": [
+			{
+				"type": "title",
+				"value": "靈魂之速"
+			},
+			{
+				"type": "text",
+				"value": "靈魂之速附魔可以增加你在靈魂砂或是靈魂土上的移動速度。若是你途徑位於地獄維度的靈魂砂峽谷，這個這一附魔提升的速度便能發揮大用。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/soul_speed_i"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/soul_speed_ii"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/enchanting/soul_speed_iii"
+			}
+		]
+	},
 	"Thorns": {
 		"index": 0,
 		"category": "enchantments",
@@ -2578,8 +3035,16 @@
 		],
 		"related_recipes": [
 			{
-				"type": "manaweaving_altar",
-				"location": "mana-and-artifice:vinteum_manaweaver_wand"
+				"location": "mana-and-artifice:vinteum_manaweaver_wand",
+				"type": "crafting"
+			},
+			{
+				"location": "mana-and-artifice:chimerite_manaweaver_wand",
+				"type": "crafting"
+			},
+			{
+				"location": "mana-and-artifice:improvised_manaweaver_wand",
+				"type": "crafting"
 			}
 		]
 	},
@@ -2700,7 +3165,7 @@
 		"related_recipes": [
 			{
 				"type": "manaweaving_altar",
-				"location": "mana-and-artifice:manaweaving/leather_from_zombie_flesh"
+				"location": "mana-and-artifice:manaweaving/utility/leather"
 			}
 		]
 	},
@@ -2798,6 +3263,130 @@
 			{
 				"type": "spell_part",
 				"location": "mana-and-artifice:shapes/smite"
+			}
+		]
+	},
+	"Shape: Wrath": {
+		"index": "1",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "天怒"
+			},
+			{
+				"type": "text",
+				"value": "這一引導類形狀構件的威力超乎你的想像，它能夠從空中召來爆炸性的墜擊魔法，對周圍半徑範圍內的區域進行打擊。與墜擊類似，施術地點與天空之間不能有方塊阻擋，所以在狹窄的空間內，這一構件就不太好使了。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:shapes/wrath"
+			}
+		]
+	},
+	"Shape: Bound Sword": {
+		"index": "1",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "縛法之劍"
+			},
+			{
+				"type": "text",
+				"value": "這一形狀構件可以使法術（或者法杖/法術書）聚合為一把縛法之劍。法術的效果會在我攻擊到怪物的時候施加到怪物身上。劍會持續而少量地抽取我的魔力，在攻擊時則會瞬間抽取一部分魔力。\n\n若想退回到法術形態，只需耗光你的魔力，或是把它丟在地上即可。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:shapes/bound_sword"
+			}
+		]
+	},
+	"Shape: Bound Shield": {
+		"index": "1",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "縛法之盾"
+			},
+			{
+				"type": "text",
+				"value": "這一形狀構件可以使法術（或者法杖/法術書）聚合為一把縛法之盾。法術的效果會被施加到攻擊被阻擋的怪物身上，並且這一怪物必須位於我的 5 格距離以內。盾牌會持續而少量地抽取我的魔力，並且消耗量隨著持盾時間而逐漸升高，在阻擋進攻時則會瞬間抽取一部分魔力。\n\n若想退回到法術形態，只需耗光你的魔力，或是把它丟在地上即可。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:shapes/bound_shield"
+			}
+		]
+	},
+	"Shape: Bound Axe": {
+		"index": "1",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "縛法之斧"
+			},
+			{
+				"type": "text",
+				"value": "這一形狀構件可以使法術（或者法杖/法術書）聚合為一把縛法之斧。法術的效果會在我攻擊到怪物的時候施加到怪物身上。斧子會持續而少量地抽取我的魔力，在攻擊時則會瞬間抽取一部分魔力。\n\n若想退回到法術形態，只需耗光你的魔力，或是把它丟在地上即可。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:shapes/bound_axe"
+			}
+		]
+	},
+	"Shape: Bound Bow": {
+		"index": "1",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "縛法之弓"
+			},
+			{
+				"type": "text",
+				"value": "這一形狀構件可以使法術（或者法杖/法術書）聚合為一把縛法之弓。法術的效果會在我使用這把弓的箭矢射擊到怪物的時候施加到怪物身上。弓會持續而少量地抽取我的魔力，在箭矢射出時則會瞬間抽取一部分魔力。然而，箭矢本身乃是由純粹的魔力構成的，所以發射箭矢並不會消耗背包內的箭矢。\n\n若想退回到法術形態，只需耗光你的魔力，或是把它丟在地上即可。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:shapes/bound_bow"
+			}
+		]
+	},
+	"Shape: Summon": {
+		"index": "1",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "召喚"
+			},
+			{
+				"type": "text",
+				"value": "利用奧法藝術，我能召喚出護佑於我的生物。首先，我得向水晶護符內注滿我想要召喚的生物的靈魂。只要把護符揣背包裡，帶著它擊殺想要召喚的生物就行了（雖然如此，當你在剛剛開始設定護符的生物種類時，你仍需要在擊殺生物時手持護符——僅僅是放在背包裡可不太夠）。注滿之後，我需要在一隻手上拿著法術，另一隻手上拿著護符，然後施法。再次強調，水晶護符決定了你的召喚生物種類。\n\n需要注意的是，你在法術中應用的構件，也會相對應地施加到你召喚出來的生物上，所以你還是得搞明白各個構件的含義……還有可能性。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:shapes/summon"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/crystal_phylactery"
 			}
 		]
 	},
@@ -2961,6 +3550,26 @@
 			}
 		]
 	},
+	"Shape: Chain": {
+		"index": "1",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "連鎖"
+			},
+			{
+				"type": "text",
+				"value": "這一形狀會鎖定距離你較短距離的目標，施放後，如果我擊中了方塊，那麼法術會跳躍到周圍相連的同種方塊上，並將效果構件應用於每個方塊；如果我擊中了一個實體，法術會嘗試跳躍到半徑內的其他實體上。法術不會在方塊和實體之間跳躍。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:shapes/chain"
+			}
+		]
+	},
 	"Component: Fire Damage": {
 		"index": "2",
 		"category": "sorcery",
@@ -2991,7 +3600,7 @@
 			},
 			{
 				"type": "text",
-				"value": "這一效果構件會釋放出一道純粹的魔法沖流撞擊目標，並且能夠燃燒掉目標的一些魔力值。只有與巫師議會結盟的人才能運用這一法術構件。"
+				"value": "這一效果構件會釋放出一道純粹的魔法沖流撞擊目標，並且能夠燃燒掉目標的一些魔力值。只有與遠古巫師議會結盟的人才能運用這一法術構件。"
 			}
 		],
 		"related_recipes": [
@@ -3051,7 +3660,7 @@
 			},
 			{
 				"type": "text",
-				"value": "我找到一種方法，可以將純淨的火焰極度壓縮，然後透過一場劇烈的爆炸釋放出能量。如此操作的結果，其光效與閃電幾無二致。這一法術創造出來的爆炸似乎有一定機率能夠在敵人之間跳躍，機率的大小依賴於法術中的增強 I 構件的數量。這在應對大批敵人的情況下可十分有用。"
+				"value": "我找到一種方法，可以將純淨的火焰極度壓縮，然後透過一場劇烈的爆炸釋放出能量。如此操作的結果，其光效與閃電幾無二致。這一法術創造出來的爆炸似乎有一定機率能夠在敵人之間跳躍，機率的大小依賴於法術中的增強構件的數量。這在應對大批敵人的情況下可十分有用。"
 			}
 		],
 		"related_recipes": [
@@ -3169,6 +3778,290 @@
 			}
 		]
 	},
+	"Component: Levitate": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "懸浮"
+			},
+			{
+				"type": "text",
+				"value": "我可以結合奧術以及風之魔法，使目標漂浮在空中，並獲得一定限度的飛行能力。飛行的速度較為緩慢，但總好過步行。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/levitate"
+			}
+		]
+	},
+	"Component: Exchange": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "交換"
+			},
+			{
+				"type": "text",
+				"value": "我可以利用此效果構件，交換法術擊中的方塊與我另一隻手上的方塊。我發現，當我第一次使用這一法術時，它會「設定」方塊的種類，並在我另一隻手上的方塊用完時，使用我背包內的同種方塊。這在該法術應用於大面積區域，或是使用引導構件時相當有用。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/exchange"
+			}
+		]
+	},
+	"Component: Fossilize": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "石化"
+			},
+			{
+				"type": "text",
+				"value": "我找到的這一構件效果極為強大，但卻是一把雙刃劍。\n\n它能讓我在面對強力爆炸時面不改色，但卻也讓我在面對強度不高的攻擊時無比脆弱，就好似鑽石一般：無比堅硬，卻會在被敲擊弱點之處時「啪」地崩碎。\n\n所有外來的攻擊都不會對我造成超過 4 點（2 顆心）的傷害，但是所有傷害低於 4 的攻擊，造成傷害會被提升到 4。不過，我的盔甲以及其他防禦能力，仍會會在此效果生效後發揮保護作用。\n\n如果時間設定得短一些，這個構件還算得上是一個好的待選構件，而且我已經能夠想到好幾種圍繞著這個構件的進攻方案了......"
+			},
+			{
+				"type": "text",
+				"value": "注意：只有與不死結盟的人才能運用這一法術構件。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/fortification"
+			}
+		]
+	},
+	"Component: Shear": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "剪收"
+			},
+			{
+				"type": "text",
+				"value": "日常中，我總是避免使用物理工具，而在此過程中，我找到了一種精準控制魔法沖流的方法，利用這種沖流，我能夠模仿出剪收的效果。這一構件能夠應用於類似於綿羊這樣的對象上，但這可不是它的唯一功能，它還能幫助我操縱方塊，比如雕鑿南瓜之類的。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/shear"
+			}
+		]
+	},
+	"Component: Wind Wall": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "風牆"
+			},
+			{
+				"type": "text",
+				"value": "最後一次！我再也不用把箭從我的盔甲還有四肢上拔下來了！我找到了一種能夠在我身邊創造出一道緻密的渦流屏障的方法。利用這道風牆，我可以將朝我射來的箭矢或是其他彈射物彈開。如果我提升了風牆的威力，我甚至還能夠讓撞上的彈射物反彈回它的源頭！\n\n待會被我逮到的第一隻骷髏，讓我來給你好好上一課。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/wind_wall"
+			}
+		]
+	},
+	"Component: Felled Oak": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "伐木"
+			},
+			{
+				"type": "text",
+				"value": "運用類似於破壞法術的結構，我可以讓樹屈從於我的意志，整顆倒落於地。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/felled_oak"
+			}
+		]
+	},
+	"Component: Mist Form": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "霧形態"
+			},
+			{
+				"type": "text",
+				"value": "我能夠運用死靈魔法藝術將自己轉變為一團活霧。當我處於霧形態時，我能夠飛行，穿過任何非固體方塊，並且還能減少受到的傷害，但作為代價，我不能與任何方塊、物品以及實體互動。\n\n若想提前終止此法術效果，按下兩次空格鍵即可，就跟你嘗試飛行那樣。\n\n注意：只有與不死結盟的人才能運用這一法術構件。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/mist_form"
+			}
+		]
+	},
+	"Component: Mind Vision": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "心靈視野"
+			},
+			{
+				"type": "text",
+				"value": "運用那禁忌的魔法分支，我能夠進入到他人的心靈之中，短時間內看到他們所看到之物。\n\n若想提前終止此法術效果，按下兩次空格鍵即可，就跟你嘗試飛行那樣。\n\n注意：只有與不死結盟的人才能運用這一法術構件。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/mind_vision"
+			}
+		]
+	},
+	"Component: Recall": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "召回"
+			},
+			{
+				"type": "text",
+				"value": "將我的奧術魔法凝聚到我手中的標記符文上，我可以將法術目標立刻傳送至符文所標記的位置。每個增強構件大約可以拓寬 500 格的範圍，如果你標記了一個非目前維度的坐標，那可能會在傳送的時候帶來一些麻煩。在這種跨維度的情況下，回返儀式是更好的選擇。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/recall"
+			}
+		]
+	},
+	"Component: Eldrin Flight": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "艾得靈飛行"
+			},
+			{
+				"type": "text",
+				"value": "原生魔法之流形成了世界中的艾得靈源泉。將這一魔流凝聚壓縮，我便能夠將我的魔能與它相互調諧，法術目標將會被魔能攜卷，並以令人驚異的速度進行移動。\n\n這一法術需要施放兩次方可生效。第一次施放對施法目標所造成的影響不大，只是讓他能夠看見周圍的艾得靈源泉，持續時間為 10 秒左右。第二次施放會使得目標衝向他離他所視位置最近的艾得靈源泉。此法術會將我挪送至世界的地面上，又或者如果目標艾得靈源泉已經被捕捉了，那麼它會儘可能地將我挪送至捕捉的位置上。\n\n當我在選擇源泉時，我好像能夠看到我的旅行目標源泉的親和種類。這在我挑選旅行目標時很有用。\n\n看起來，這一法術只能夠以自己，或是其他與你結盟的巫師巫師作為目標（Minecraft 計分板隊伍）。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/eldrin_flight"
+			}
+		]
+	},
+	"Component: Summon Skeletal Horse": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "召喚骷髏馬"
+			},
+			{
+				"type": "text",
+				"value": "越過死亡之界限，賦亡骨以生氣，載我前往所欲之處。\n\n注意：只有與不死結盟的人才能運用這一法術構件。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/summon_skeletal_horse"
+			}
+		]
+	},
+	"Component: Possession": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "操縱"
+			},
+			{
+				"type": "text",
+				"value": "侵入他人之心智，令其屈從於我的指令。操縱過程中左擊，有時你會獲得特殊能力。\n\n若想提前終止此法術效果，按下兩次空格鍵即可，就跟你嘗試飛行那樣。\n\n注意：只有與不死結盟的人才能運用這一法術構件。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/posession"
+			}
+		]
+	},
+	"Component: Living Bomb": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "活體炸彈"
+			},
+			{
+				"type": "text",
+				"value": "我可以點燃法術目標，將其轉化為一個活體炸彈。法術目標會持續受到火焰傷害，傷害量取決於增強構件。如果目標因此構件的傷害而死亡，那麼它們會爆炸，爆炸效果也取決於增強構件。被此爆炸擊中的目標也會變為活體炸彈，但強度比原爆炸稍弱。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/living_bomb"
+			}
+		]
+	},
+	"Component: Wither": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "凋零"
+			},
+			{
+				"type": "text",
+				"value": "我能夠將來自於墳墓的緩慢衰敗腐朽之力注入到法術目標中，並加速腐朽之力的生效速度。目標會在我的眼前逐漸凋零。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/wither"
+			}
+		]
+	},
 	"Component: Divination": {
 		"index": "2",
 		"category": "sorcery",
@@ -3239,7 +4132,7 @@
 			},
 			{
 				"type": "text",
-				"value": "我可以召喚出一個供我短時間內合成物品的工作檯虛影。如果我或者有人在這個工作檯旁邊，我便能夠不費什麼力氣地維繫它的存在，但若是無人在其側，那它便會在一分鐘後消失。\n\nAlternately, if I simply cast the component on myself, I can create a small workbench that only I can use immediately, and it will dissipate the moment I am done with it."
+				"value": "我可以召喚出一個供我短時間內合成物品的工作檯虛影。如果我或者有人在這個工作檯旁邊，我便能夠不費什麼力氣地維繫它的存在，但若是無人在其旁，那它便會在一分鐘後消失。\n\n此外，若我僅是簡單地將此構件對自己施放，我便能創造出一個小小的、供以即時使用的工作檯，而在合成結束後，它便會消散掉。"
 			}
 		],
 		"related_recipes": [
@@ -3259,7 +4152,7 @@
 			},
 			{
 				"type": "text",
-				"value": "我可以使用魔法，短時間內予以方塊生命！在回到他們原先位置之前，他們會在我的周圍一蹦一蹦的閒逛，還會幫助我攻擊敵人。\n\nThis component will cause all further components within the spell to affect the animated block rather than the original target.\n\n注意：只有與仙女之庭結盟的人才能運用這一法術構件。"
+				"value": "我可以使用魔法，短時間內予以方塊生命！在回到他們原先位置之前，他們會在我的周圍一蹦一蹦的閒逛，還會幫助我攻擊敵人。\n\n這一構件會將法術內的其餘構件的效果轉移至喚生的方塊上，而不是原先的目標。\n\n注意：只有與仙女之庭結盟的人才能運用這一法術構件。"
 			}
 		],
 		"related_recipes": [
@@ -3279,7 +4172,7 @@
 			},
 			{
 				"type": "text",
-				"value": "仙女教會了我如何將隱形效果拓展到我的裝備和物品之上。除了那最敏銳的觀察者，其他任何事物都發現不了我。"
+				"value": "仙女教會了我如何將隱形效果拓展到我的裝備和物品之上。除了那些最敏銳的觀察者們，其他任何事物都發現不了我。"
 			}
 		],
 		"related_recipes": [
@@ -3319,7 +4212,7 @@
 			},
 			{
 				"type": "text",
-				"value": "我可以使用奧術魔法以及鑽石的晶體矩陣，將生物束縛在內。加入的強度構件越多，我能束縛的生物便越強。不過，我想我應該是沒辦法束縛其他巫師以及某些異常強大的存在的，無論怎樣增強法術都無濟於事。"
+				"value": "我可以使用奧術魔法以及鑽石的晶體矩陣將生物束縛在內。加入的強度構件越多，我能束縛的生物便越強。不過，我想我應該是沒辦法束縛其他巫師以及某些異常強大的存在的，無論怎樣增強法術都無濟於事。"
 			}
 		],
 		"related_recipes": [
@@ -3339,7 +4232,7 @@
 			},
 			{
 				"type": "text",
-				"value": "將氣魔法與地魔法粗略混合，我可以使簡單的方塊暫時違逆重力，並漂浮到半空中，然後它會在一個適當的位置停住。\n\nThis component will cause all further components within the spell to affect the floating block rather than the original target."
+				"value": "將氣魔法與地魔法粗略混合，我可以使簡單的方塊暫時違逆重力，並漂浮到半空中，然後它會在一個適當的位置停住。\n\n這一構件會將法術內的其餘構件的效果轉移至漂浮的方塊上，而不是原先的目標。"
 			},
 			{
 				"type": "text",
@@ -3363,7 +4256,7 @@
 			},
 			{
 				"type": "text",
-				"value": "我可以使用地魔法，使得一些簡單的方塊在短時間內受到重力的影響。\n\nThis component will cause all further components within the spell to affect the rising block rather than the original target.\n\n下一次見到苦力怕，我得先把它拋斥開，然後再對著它旁邊的隧道使用塌陷魔法！"
+				"value": "我可以使用地魔法，使得一些簡單的方塊在短時間內受到重力的影響。\n\n這一構件會將法術內的其餘構件的效果轉移至受重力的方塊上，而不是原先的目標。\n\n下一次見到苦力怕，我得先把它拋斥開，然後再對著它旁邊的隧道使用塌陷魔法！"
 			}
 		],
 		"related_recipes": [
@@ -3403,7 +4296,7 @@
 			},
 			{
 				"type": "text",
-				"value": "透過對特定植物的深入研究，我找到了某種能夠刮取植物上的某部分成分濃稠的東西的方法，這種東西一旦達到了一定的量，就會成為一種特別強的毒藥。在這種方法的基礎上，我可以延續並創新這種方法，在純粹魔法層面上生產出這種毒藥。"
+				"value": "透過對某些植物的深入研究，我找到了一種刮取植物上的某部分成分濃稠的東西的方法，這種東西一旦達到了一定的量，就會成為一種特別強的毒藥。在這種方法的基礎上，我可以延續並創新這種方法，在純粹魔法層面上生產出這種毒藥。"
 			}
 		],
 		"related_recipes": [
@@ -3423,7 +4316,7 @@
 			},
 			{
 				"type": "text",
-				"value": "我反覆思考：如何開發火焰法術的更多功用？我知曉許多火焰所能能辦到的獨特用處：取暖，燒煮食物，工業生產等等。但火焰是否能應用於恢復生命值？我認為，只要足夠小心地操控火焰，就能夠用其封閉我的傷口。火焰儘管會在燒灼我的那一瞬間對我造成傷害，但在此之後卻能帶給我更大的益處。It also seems that if fire is somehow unable to affect the target, then the beneficial healing of the spell is not applied either.\n\n增強 1：造成傷害 2，治療生命值 4\n\n增強 2：造成傷害 4，治療生命值 8\n\n增強 3：造成傷害 8，治療生命值 16\n\n注意：只有與地獄惡魔結盟的人才能運用這一法術構件。"
+				"value": "我反覆思考：如何開發火焰法術的更多功用？我知曉許多火焰所能能辦到的獨特用處：取暖，燒煮食物，工業生產等等。但火焰是否能應用於恢復生命值？我認為，只要足夠小心地操控火焰，就能夠用其封閉我的傷口。火焰儘管會在燒灼我的那一瞬間對我造成傷害，但在此之後卻能帶給我更大的益處。然而，若是目標不會受到火焰的影響，那麼火焰所帶來的益處也就自然無法應用於他。\n\n增強 1：造成傷害 2，治療生命值 4\n\n增強 2：造成傷害 4，治療生命值 8\n\n增強 3：造成傷害 8，治療生命值 16\n\n注意：只有與地獄惡魔結盟的人才能運用這一法術構件。"
 			}
 		],
 		"related_recipes": [
@@ -3583,7 +4476,7 @@
 			},
 			{
 				"type": "text",
-				"value": "我曾學習過如何從仙女之庭中召喚出具有保護能力的尖刺與藤蔓。These thorns will protect me from swords and bows like an armored carapace (albeit a small amount of armor; I should probably use it to enhance existing armor instead of relying on it completely).  So too will they protect from things like  cacti and sweet berries or other thorns。它也會對攻擊我的人予以報復。\n\n注意：只有與仙女之庭結盟的人才能運用這一法術構件。"
+				"value": "我曾學習過如何從仙女之庭中召喚出具有保護能力的尖刺與藤蔓。這些尖刺猶如著身之盔甲，於刀劍與箭矢之下護我周全（其實只能提供少量護甲值；用來給現有的盔甲錦上添花還行，完全依賴它並不可取）。並且還會保護我免受諸如仙人掌、甜莓叢以及其他種類的尖刺的刺傷。它也會對攻擊我的人予以報復。\n\n注意：只有與仙女之庭結盟的人才能運用這一法術構件。"
 			}
 		],
 		"related_recipes": [
@@ -3603,7 +4496,7 @@
 			},
 			{
 				"type": "text",
-				"value": "提起奇詭之術，人們往往會想起仙女們。這種聯想的確實是有道理的，誘像法術會創造出兩個向前奔跑的我的幻像。這種幻像會吸引走那些想要傷害我的敵人的注意力，並且附加的增強構件越多，注意力轉移的現象發生機率越高。\n\nThis component will cause all further components within the spell to affect the decoy rather than the original target.\n\n注意：只有與仙女之庭結盟的人才能運用這一法術構件。"
+				"value": "提起奇詭之術，人們往往會想起仙女們。這種聯想的確實是有道理的，誘像法術會創造出兩個向前奔跑的我的幻像。這種幻像會吸引走那些想要傷害我的敵人的注意力，並且附加的增強構件越多，注意力轉移的現象發生機率越高。\n\n這一構件會將法術內的其餘構件的效果轉移至誘像上，而不是原先的目標。\n\n注意：只有與仙女之庭結盟的人才能運用這一法術構件。"
 			}
 		],
 		"related_recipes": [
@@ -3923,7 +4816,7 @@
 			},
 			{
 				"type": "text",
-				"value": "巫師總是能用魔法創造奇蹟。詔下猛烈的火焰以及狂暴的雷霆，召喚突如其來的風暴，於維度之間肆意穿越，輕而易舉就能進行長途傳送，這些都只是巫師之力的一部分而已。但大多數情況下，進行這些操作都需要一定的時間的準備。\n\n但我發現，很多時候解決問題的方法並沒有那麼複雜，只需讓對方看不到我，問題就能迎刃而解。"
+				"value": "巫師總是能用魔法創造奇蹟。詔下猛烈的火焰以及狂暴的雷霆，召喚突如其來的風暴，於維度之間肆意穿越，輕而易舉就能進行長途傳送，這些都只是巫師之力的一部分而已。但大多數情況下，進行這些操作都需要一定的時間的準備。\n\n然而我發現，很多時候解決問題的方法並沒有那麼複雜，只需讓對方看不到我，問題就能迎刃而解。"
 			}
 		],
 		"related_recipes": [
@@ -3963,7 +4856,7 @@
 			},
 			{
 				"type": "text",
-				"value": "透過改變法術構成式，我可以增大我的法術的影響範圍。如此施法造成的壓力有時讓我感覺不堪重負，但是這真的很值得，尤其是當你製造出了一個超大的火球的時候，你會覺得物超所值。"
+				"value": "透過改變法術構成式，我可以增大我的法術的影響區域。如此施法造成的壓力有時讓我感覺不堪重負，但是這真的很值得，尤其是當你製造出了一個超大的火球的時候，你會覺得物超所值。"
 			}
 		],
 		"related_recipes": [
@@ -3983,7 +4876,7 @@
 			},
 			{
 				"type": "text",
-				"value": "透過修改法術構成式，我可以讓法術更快生效。彈射物的飛行速度會加快，那些受到擊退效果的敵人也會以更快的速度被彈開。我在想，這一自訂方式還能與其他的部件產生什麼樣的火花？"
+				"value": "我能夠修改法術的構成式，使得特定的移動效果能夠更快發生。"
 			}
 		],
 		"related_recipes": [
@@ -4033,6 +4926,26 @@
 			}
 		]
 	},
+	"Modifier: Delay": {
+		"index": "3",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "延遲"
+			},
+			{
+				"type": "text",
+				"value": "我可以選擇我的法術中的某些構件，讓他們在擊中目標後等待一段時間再生效。目標移動、傳送、逃跑或是躲藏，都不會影響延遲效果。它們是我的獵物，躲無可躲。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:modifiers/delay"
+			}
+		]
+	},
 	"Modifier: Range": {
 		"index": "3",
 		"category": "sorcery",
@@ -4043,7 +4956,7 @@
 			},
 			{
 				"type": "text",
-				"value": "我能夠拓展我的法術射擊距離，然而，這一構件對彈射物法術無甚幫助，因為彈射物法術的速度才是影響其射程的最大因素。這一構件實際上可以提升我的法術層面的延伸距離，當然，其他的一些距離也會受到影響。"
+				"value": "我能夠拓展我的法術射擊距離，然而，這一構件看起來對彈射物法術無甚幫助，因為彈射物法術的速度才是影響其射程的最大因素。這一構件實際上可以提升我的抽象層面的延伸距離，當然，其他的一些距離也會受到影響。"
 			}
 		],
 		"related_recipes": [
@@ -4063,7 +4976,7 @@
 			},
 			{
 				"type": "text",
-				"value": "利用魔法，我可以在周身創造出屏障，這一屏障可以阻擋那些朝我飛來的物品。我在想，有沒有可能創造出一種新的護盾，可以幫助我防禦更多種類的傷害？"
+				"value": "利用魔法，我可以在周身創造出屏障，這一屏障可以阻擋那些朝我飛來的物品。我在想，有沒有可能創造出一種新的護盾，可以幫助我防禦更多種類的傷害？\n\n注意：只有與遠古巫師議會結盟的人才能運用這一法術構件。"
 			}
 		],
 		"related_recipes": [
@@ -4083,7 +4996,7 @@
 			},
 			{
 				"type": "text",
-				"value": "這一效果極為耗費魔力，但是如果我能集聚足夠多的魔力，我便能讓我的傷口瞬間癒合，這在某些時候可是能救命的。\n\n注意：只有與仙女之庭結盟的人才能運用這一法術構件。"
+				"value": "這一構件極為耗費魔力，但是如果我能集聚足夠多的魔力，我便能讓我的傷口瞬間癒合，這在某些時候可是能救命的。\n\n注意：只有與仙女之庭結盟的人才能運用這一法術構件。"
 			}
 		],
 		"related_recipes": [
@@ -4140,8 +5053,12 @@
 				"location": "mana-and-artifice:purified_vinteum_dust"
 			},
 			{
-				"type": "crafting",
-				"location": "mana-and-artifice:manaweaver_wand"
+				"location": "mana-and-artifice:vinteum_manaweaver_wand",
+				"type": "crafting"
+			},
+			{
+				"location": "mana-and-artifice:chimerite_manaweaver_wand",
+				"type": "crafting"
 			},
 			{
 				"type": "crafting",
@@ -4515,7 +5432,7 @@
 			},
 			{
 				"type": "text",
-				"value": "有一些儀式專門用於製造元素微核。每種元素親和都對應著一對儀式/微核，Be sure to check the ritual entries in this codex as the mote rituals all have special conditions required in order to perform the ritual.\n\n這些儀式是：\n\n永恆虛空儀式 / 終界微核\n\n遺忘之知儀式 / 魔法微核\n\n不羈之風儀式 / 氣湧微核\n\n焦灼煉獄儀式 / 火炎微核\n\n淵極之海儀式 / 流水微核\n\n遠古之石儀式 / 大地微核"
+				"value": "有一些儀式專門用於製造元素微核。每種元素親和都對應著一對儀式/微核，製作前，請仔細確認書中對應儀式的章節，因為所有微核儀式的進行都需要滿足特定的條件。\n\n這些儀式是：\n\n永恆虛空儀式 / 終界微核\n\n遺忘之知儀式 / 魔法微核\n\n不羈之風儀式 / 氣湧微核\n\n焦灼煉獄儀式 / 火炎微核\n\n淵極之海儀式 / 流水微核\n\n遠古之石儀式 / 大地微核"
 			}
 		],
 		"related_recipes": [
@@ -4555,13 +5472,17 @@
 			},
 			{
 				"type": "text",
-				"value": "一筆一劃地在地上畫出儀式，一次還好，次數多了既費時又耗力。使用儀式袋可以幫助你解決這一問題。\n\n啟動儀式後，儀式會顯示出所需要的耗材，擺放好耗材之後，拿著儀式袋按住 GUI 鍵（預設為左 Ctrl）並右擊儀式中心，即可將儀式袋與該儀式綁定。\n\n潛行右擊空氣可以打開袋子。在其中你可以放上粉筆以及儀式耗材。\n\n對著平坦且空間足夠的表面右擊儀式袋，將會立刻在目標處開啟一個與儀式袋綁定的儀式。這一過程消耗的是儀式袋內的物品。\n\n此外，使用儀式袋布置的儀式，在儀式執行速度上將會比手動布置的儀式快很多。\n\nRitual kits can store multiple rituals.  Select a slot before binding or placing using the UI key (default 「Z」) and the radial menu."
+				"value": "一筆一劃地在地上畫出儀式，一次還好，次數多了既費時又耗力。使用儀式袋可以幫助你解決這一問題。\n\n啟動儀式後，儀式會顯示出所需要的耗材，擺放好耗材之後，拿著儀式袋按住 GUI 鍵（預設為左 Ctrl）並右擊儀式中心，即可將儀式袋與該儀式綁定。\n\n潛行右擊空氣可以打開袋子。在其中你可以放上粉筆以及儀式耗材。\n\n對著平坦且空間足夠的表面右擊儀式袋，將會立刻在目標處開啟一個與儀式袋綁定的儀式。這一過程消耗的是儀式袋內的物品。\n\n此外，使用儀式袋布置的儀式，在儀式執行速度上將會比手動布置的儀式快很多。\n\n儀式用具帶可以儲存多種儀式。在綁定或是放置儀式前，請先選擇一個欄位。按住 UI 鍵（預設為「Z」）即可喚出放射列表進行選擇。"
 			}
 		],
 		"related_recipes": [
 			{
 				"type": "crafting",
 				"location": "mana-and-artifice:rituals/ritual_kit"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/rituals/fast_ritual_kit"
 			}
 		]
 	},
@@ -4624,7 +5545,7 @@
 			},
 			{
 				"type": "text",
-				"value": "對於那些不想或者無法手動繪製織魔圖樣的人，他們可以使用織魔放映機來滿足他們的需求。這一設備一旦被放置，就會抽取附近兩格以內的玩家體內的魔力。它一共可以抽取100點魔力。\n\n啟動充能完畢的放映機，會使其放映出目前它所選定的圖樣；以單獨的織魔圖樣啟動這一方塊，將會改變它放映出來的圖樣。"
+				"value": "對於那些不想或者無法手動繪製織魔圖樣的人，他們可以使用織魔放映機來滿足他們的需求。這一設備一旦被放置，就會抽取附近兩格以內的玩家體內的魔力。它一共可以抽取 100 點魔力。\n\n啟動充能完畢的放映機，會使其放映出目前它所選定的圖樣；以單獨的織魔圖樣啟動這一方塊，將會改變它放映出來的圖樣。"
 			}
 		],
 		"related_recipes": [
@@ -4665,11 +5586,11 @@
 		"related_recipes": [
 			{
 				"type": "manaweaving_altar",
-				"location": "mana-and-artifice:manaweaving/manaweaving_runic_silk"
+				"location": "mana-and-artifice:manaweaving/intermediate/infused_silk"
 			},
 			{
 				"type": "manaweaving_altar",
-				"location": "mana-and-artifice:manaweaving/manaweaving_infused_silk"
+				"location": "mana-and-artifice:manaweaving/intermediate/runic_silk"
 			}
 		]
 	},
@@ -4972,7 +5893,7 @@
 			},
 			{
 				"type": "text",
-				"value": "守護符文可以用於守護一個方塊，使其無法被使用。一旦施放，只有施加守護效果的玩家以及與該玩家同一小隊的玩家可以使用或者破壞該方塊。\n\nNote that this feature is not fully implemented."
+				"value": "守護符文可以用於守護一個方塊，使其無法被使用。一旦施放，只有施加守護效果的玩家以及與該玩家同一小隊的玩家可以使用或者破壞該方塊。\n\n注意，此特性尚未完善。"
 			}
 		],
 		"related_recipes": [
@@ -5074,7 +5995,7 @@
 		"related_recipes": [
 			{
 				"type": "manaweaving_altar",
-				"location": "mana-and-artifice:manaweaving/bubble_boat"
+				"location": "mana-and-artifice:manaweaving/artifice/bubble_boat"
 			}
 		]
 	},
@@ -5094,7 +6015,7 @@
 		"related_recipes": [
 			{
 				"type": "manaweaving_altar",
-				"location": "mana-and-artifice:manaweaving/brimstone_boat"
+				"location": "mana-and-artifice:manaweaving/artifice/brimstone_boat"
 			}
 		]
 	},
@@ -5115,6 +6036,46 @@
 			{
 				"type": "manaweaving_altar",
 				"location": "mana-and-artifice:manaweaving/artifice/brimstone_charm"
+			}
+		]
+	},
+	"Enderfeather Charm": {
+		"index": 0,
+		"category": "artifice",
+		"sections": [
+			{
+				"type": "title",
+				"value": "終界之羽符咒"
+			},
+			{
+				"type": "text",
+				"value": "終界之羽符咒是只可以使用一次昂貴物品，使用後，你會返回至你的床邊（或是等價的位置），返回距離不受限制，但必須在同一維度。我確信，隨著我能力的增強，我能夠找到一種較為廉價的方法來代替這一符咒。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/artifice/enderfeather_charm"
+			}
+		]
+	},
+	"Bonefeather Charm": {
+		"index": 0,
+		"category": "artifice",
+		"sections": [
+			{
+				"type": "title",
+				"value": "骨羽符咒"
+			},
+			{
+				"type": "text",
+				"value": "終界之羽符咒只可以使用一次，它可以自動保護我免受致命的摔落傷害。如果摔落傷害並不致命，符咒並不會生效。我確信，隨著我能力的增強，我能夠找到一種較為廉價的方法來代替這一符咒。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/artifice/bonefeather_charm"
 			}
 		]
 	},
@@ -5190,7 +6151,175 @@
 			},
 			{
 				"type": "manaweaving_altar",
-				"location": "mana-and-artifice:manaweaving/manaweaving_infused_silk"
+				"location": "mana-and-artifice:manaweaving/intermediate/infused_silk"
+			}
+		]
+	},
+	"Infernal Armor": {
+		"index": 0,
+		"category": "eldrin_altar",
+		"sections": [
+			{
+				"type": "title",
+				"value": "煉獄盔甲"
+			},
+			{
+				"type": "text",
+				"value": "煉獄盔甲的防禦滴水不漏，堪稱惡魔防具的巔峰之作。熊熊烈焰灌注其中，使得我在衝刺時速度急劇增加；若是在衝刺時起跳，我還會直接飛躍到空中。\n\n在空中時進入潛行狀態，我便能化身火箭直墜地面，引發一場烈焰爆炸。\n\n盔甲護體，我得以完全免疫爆炸以及火焰傷害，而如果我處於點燃狀態，身上的烈焰便會為盔甲充能，我的近戰攻擊的力量將會大幅增強，增強幅度無出其右。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "eldrin_altar",
+				"location": "mana-and-artifice:eldrin_altar/armor/infernal_helm"
+			},
+			{
+				"type": "eldrin_altar",
+				"location": "mana-and-artifice:eldrin_altar/armor/infernal_chestplate"
+			},
+			{
+				"type": "eldrin_altar",
+				"location": "mana-and-artifice:eldrin_altar/armor/infernal_greaves"
+			},
+			{
+				"type": "eldrin_altar",
+				"location": "mana-and-artifice:eldrin_altar/armor/infernal_boots"
+			}
+		]
+	},
+	"Spellweaver Armor": {
+		"index": 0,
+		"category": "eldrin_altar",
+		"sections": [
+			{
+				"type": "title",
+				"value": "織法者盔甲"
+			},
+			{
+				"type": "text",
+				"value": "談及大巫師，人們腦海裡的形象多是一綹長胡加上飄飄長袍。雖然這套織法者盔甲並不是大巫師的盔甲，而是受到了大法師盔甲的啟發而製作出來的，但卻仍是議會的法師們的戰鬥標準裝備，議會裡的成熟法師大都穿著它。它的堅韌程度與騎士的鎖鏈盔甲不相上下，穿著時，我的魔力總量以及魔力回復速度均會得到顯著提升。它還能給予我一定的飛行懸浮飛行能力（雙按空格可以切換）。最後，它能夠儲存三層可以反彈彈射物的防禦符文。每枚符文將會在反彈彈射物後進入休眠狀態，在經過數秒的再充能時間後會恢復，再次幫你反彈彈射物。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "eldrin_altar",
+				"location": "mana-and-artifice:eldrin_altar/armor/spellweaver_runes"
+			},
+			{
+				"type": "eldrin_altar",
+				"location": "mana-and-artifice:eldrin_altar/armor/spellweaver_robes"
+			},
+			{
+				"type": "eldrin_altar",
+				"location": "mana-and-artifice:eldrin_altar/armor/spellweaver_leggings"
+			},
+			{
+				"type": "eldrin_altar",
+				"location": "mana-and-artifice:eldrin_altar/armor/spellweaver_boots"
+			}
+		]
+	},
+	"Druidic Armor": {
+		"index": 0,
+		"category": "eldrin_altar",
+		"sections": [
+			{
+				"type": "title",
+				"value": "德魯伊盔甲"
+			},
+			{
+				"type": "text",
+				"value": "Several village elders tell legends of the druids of old, who were able to link themselves to nature in extreme ways.  In reality, these druids were simply high ranking allies of the fey, gifted with powerful artifacts and spells.  One of the highest gifts was the Druidic Armor, which is imbued with the trickery of the fey as well as their chaotic yet gentle embrace.  While not as strong as some of the other faction armors in terms of physical defense, the ironwood it is composed of is as strong as common plate armor.  When wearing this armor, the wings on the back will allow me to fly or hover depending on my preference (double tap to start or stop hovering, single tap while falling to enter elytra flight).  It also has a chance to teleport or levitate melee attackers, and a chance to reflect projectiles.  Lastly, when my health gets low, it will apply a regenerating effect to me, though it can only do so every so often."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "eldrin_altar",
+				"location": "mana-and-artifice:eldrin_altar/armor/druidic_antlers"
+			},
+			{
+				"type": "eldrin_altar",
+				"location": "mana-and-artifice:eldrin_altar/armor/druidic_buckskin"
+			},
+			{
+				"type": "eldrin_altar",
+				"location": "mana-and-artifice:eldrin_altar/armor/druidic_leggings"
+			},
+			{
+				"type": "eldrin_altar",
+				"location": "mana-and-artifice:eldrin_altar/armor/druidic_slippers"
+			}
+		]
+	},
+	"Bone Armor": {
+		"index": 0,
+		"category": "eldrin_altar",
+		"sections": [
+			{
+				"type": "title",
+				"value": "凋零之骨盔甲"
+			},
+			{
+				"type": "text",
+				"value": "Members of the undead embody the unstoppable resilience of death while wearing the Witherbone armor.  It is as strong as even the most hardy armor forged from the metals of the nether, boasting near immunity to physical damage.  This armor causes the wearer to drain life away at a touch, regenerating souls simply by causing damage.  It also prevents the death of the wearer, instead shifting them to a cloud of mist allowing them to fly and make their escape.\n\nIf you take damage that would kill you while wearing this armor, that damage is reduced so that you are left with one hit point and you immediately enter mist form.  If you have one hit point, you die as normal.  This effect has no cooldown."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "eldrin_altar",
+				"location": "mana-and-artifice:eldrin_altar/armor/bone_skullcap"
+			},
+			{
+				"type": "eldrin_altar",
+				"location": "mana-and-artifice:eldrin_altar/armor/bone_cuirass"
+			},
+			{
+				"type": "eldrin_altar",
+				"location": "mana-and-artifice:eldrin_altar/armor/bone_greaves"
+			},
+			{
+				"type": "eldrin_altar",
+				"location": "mana-and-artifice:eldrin_altar/armor/bone_boots"
+			}
+		]
+	},
+	"Greater Motes": {
+		"index": 0,
+		"category": "eldrin_altar",
+		"sections": [
+			{
+				"type": "title",
+				"value": "精核"
+			},
+			{
+				"type": "text",
+				"value": "Now that I've harnessed some of the power of the eldrin wellsprings, I can use their power to create more powerful versions of the elemental motes.  These motes contain far more potent concentrates of the affineal elements, and will allow me to create far more powerful artifacts than I could before."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "eldrin_altar",
+				"location": "mana-and-artifice:eldrin_altar/mote/greater_mote_arcane"
+			},
+			{
+				"type": "eldrin_altar",
+				"location": "mana-and-artifice:eldrin_altar/mote/greater_mote_ender"
+			},
+			{
+				"type": "eldrin_altar",
+				"location": "mana-and-artifice:eldrin_altar/mote/greater_mote_fire"
+			},
+			{
+				"type": "eldrin_altar",
+				"location": "mana-and-artifice:eldrin_altar/mote/greater_mote_water"
+			},
+			{
+				"type": "eldrin_altar",
+				"location": "mana-and-artifice:eldrin_altar/mote/greater_mote_air"
+			},
+			{
+				"type": "eldrin_altar",
+				"location": "mana-and-artifice:eldrin_altar/mote/greater_mote_earth"
 			}
 		]
 	},
@@ -5295,7 +6424,7 @@
 			},
 			{
 				"type": "manaweaving_altar",
-				"location": "mana-and-artifice:manaweaving/eldritch_orb"
+				"location": "mana-and-artifice:manaweaving/artifice/eldritch_orb"
 			}
 		]
 	},
@@ -5367,27 +6496,51 @@
 			}
 		]
 	},
-	"Ley Line Bracelet": {
+	"Coffin": {
 		"index": 0,
 		"category": "artifice",
 		"sections": [
 			{
 				"type": "title",
-				"value": "魔脈手鐲"
+				"value": "棺材"
 			},
 			{
 				"type": "text",
-				"value": "這一魔力充盈的手鐲會牽引周圍殘存的魔法微粒，如果我離魔脈的距離足夠近，它也可以抽取魔脈中的能量。當我魔力捉襟見肘時，可以利用這一手鐲為我的法術充能。還是比較值的，畢竟誰都會有魔力不夠用的情況。\n\n這一手鐲只能由那些與遠古巫師議會結成同盟的人製作出來。"
+				"value": "不死的必要物品，棺材對於加入了不死派系的人而言相當於床。它也能夠恢復入睡之人的一部分的靈魂，不死派系的成員在施法時使用的正是靈魂。\n\n這一棺材只能由那些與不死結成同盟的人製作出來。"
 			}
 		],
 		"related_recipes": [
 			{
 				"type": "manaweaving_altar",
-				"location": "mana-and-artifice:manaweaving/artifice/ley_line_bracelet"
+				"location": "mana-and-artifice:manaweaving/artifice/coffin"
+			}
+		]
+	},
+	"Bracelet of Eldrin Power": {
+		"index": 0,
+		"category": "artifice",
+		"sections": [
+			{
+				"type": "title",
+				"value": "艾得靈之力手鐲"
+			},
+			{
+				"type": "text",
+				"value": "這一魔力充盈的手鐲會牽引周圍殘存的魔法微粒，如果我離源泉的距離足夠近，它也可以抽取其中的能量。當我魔力告急時，可以利用這一手鐲為我的法術充能。還是比較值的，畢竟誰都會有魔力不夠用的情況。\n\n這一手鐲只能由那些與遠古巫師議會結成同盟的人製作出來。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/artifice/eldrin_bracelet"
 			},
 			{
 				"type": "manaweaving_altar",
-				"location": "mana-and-artifice:manaweaving/sight_unguent"
+				"location": "mana-and-artifice:manaweaving/eldrin_sight_unguent"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/wellspring_sight_unguent"
 			}
 		]
 	},
@@ -5496,6 +6649,26 @@
 			{
 				"type": "manaweaving_altar",
 				"location": "mana-and-artifice:manaweaving/artifice/air_cast_ring"
+			}
+		]
+	},
+	"Ring of Brittle Bone": {
+		"index": 0,
+		"category": "artifice",
+		"sections": [
+			{
+				"type": "title",
+				"value": "脆骨戒指"
+			},
+			{
+				"type": "text",
+				"value": "戴上這枚邪惡的戒指後，你似乎可以從目標身上汲取出更多的神秘生命力。\n\n注意：只有與不死結盟的人才能合成這一物品。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/artifice/bone_ring"
 			}
 		]
 	},
@@ -5659,17 +6832,17 @@
 			}
 		]
 	},
-	"Ring of Transportation": {
+	"Ring of Collection (Greater)": {
 		"index": 0,
 		"category": "artifice",
 		"sections": [
 			{
 				"type": "title",
-				"value": "運輸之戒"
+				"value": "高級收集之戒"
 			},
 			{
 				"type": "text",
-				"value": "戴上這枚戒指後，會使我的破解法術試圖將物品運送到我手邊由標記符文標記的容器中。 如果該容器由於某種原因無法到達，例如未裝載或在另一個空間，它將試圖把它們放到我的物品欄中。 如果我的物品欄已滿，它將把它們丟在我腳下。"
+				"value": "穿戴上這枚戒指，我的破壞法術會試圖將被破壞的方塊直接運送到標記的容器中，只需在副手拿著一個已標記容器的標記符文，即可將容器設為標記狀態。如果這一容器因為某些原因而不可存取，例如，沒被載入或者在另一維度，戒指會轉而嘗試將物品運送至你的物品欄中。如果你的物品欄滿了，那這些方塊就只能在地上躺著了。"
 			}
 		],
 		"related_recipes": [
@@ -6094,6 +7267,70 @@
 			}
 		]
 	},
+	"Cold Dark": {
+		"index": 0,
+		"category": "rituals",
+		"sections": [
+			{
+				"type": "title",
+				"value": "黯寒儀式"
+			},
+			{
+				"type": "text",
+				"value": "這一儀式會召喚出不死軍團，儀式進行後，你便向不死獻上了你的忠誠，以此交換那不死的黑暗之力。\n\n如果不死回應了你，它們會給予你一道提示，遵循提示，如果你確信你值得這樣做。\n\n與如此的實體結盟，你會與他人敵對。"
+			},
+			{
+				"type": "text",
+				"value": "注意：不死派系屬於遊玩難易度較高的派系。你的施法資源會變為靈魂，這種資源並不會自然再生。你必須擊殺別人才能獲得它們的靈魂。其他不死給予的靈魂最少，動物會多一些，然後是怪物、村民，玩家給的靈魂最多。\n\n你可以睡在棺材裡，對你來說，這就是床；你會被陽光點燃，但是可以在水下呼吸；帶上頭盔可以暫時避免燒灼，但最終，頭盔也會被燒壞掉。\n\n踏上這條道路，風險自己承擔。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "ritual",
+				"location": "mana-and-artifice:rituals/cold_dark"
+			}
+		]
+	},
+	"Sanctum Invocation": {
+		"index": 0,
+		"category": "rituals",
+		"sections": [
+			{
+				"type": "title",
+				"value": "聖所祈禱儀式"
+			},
+			{
+				"type": "text",
+				"value": "這一儀式會指定一個地點，這一地點將會變為你的派系的力量之所。儀式完成後，它會生成一個方塊，那就是「力量之環」，右擊這一方塊即可顯示出一套結構，你需要搭建這一結構。搭建完成後，力量之環將會生效，相同陣營的玩家（你也在內）靠近或是站在結構內部，會在施法時獲得強力的增幅效果，法術能夠造成更高的傷害，增幅類法術的效果時長大幅增加。"
+			},
+			{
+				"type": "text",
+				"value": "對於不死派系，它的聖所還有著額外的作用。位於聖所內部的敵人會獲得「脆弱靈魂」的削弱效果。帶有此效果死亡的敵人，會給予你比通常情況下更多的靈魂。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "ritual",
+				"location": "mana-and-artifice:rituals/circle_of_power"
+			},
+			{
+				"type": "multiblock",
+				"location": "mana-and-artifice:multiblock/council_circle"
+			},
+			{
+				"type": "multiblock",
+				"location": "mana-and-artifice:multiblock/demon_circle"
+			},
+			{
+				"type": "multiblock",
+				"location": "mana-and-artifice:multiblock/fey_circle"
+			},
+			{
+				"type": "multiblock",
+				"location": "mana-and-artifice:multiblock/undead_circle"
+			}
+		]
+	},
 	"Flat Lands": {
 		"index": 0,
 		"category": "rituals",
@@ -6176,23 +7413,55 @@
 			}
 		]
 	},
-	"Unguent of Seeing": {
+	"Unguent of Sight": {
 		"index": 0,
 		"category": "manaweaving",
 		"sections": [
 			{
 				"type": "title",
-				"value": "視之藥膏"
+				"value": "Unguent of Sight"
 			},
 			{
 				"type": "text",
-				"value": "視之藥膏是一種混合物，將其敷在眼睛上時，可以讓使用者在一小段時間內看清環繞在他周圍的靈氣。\n\n它同樣可以幫助你看破由其他巫師所製造出來的幻象。"
+				"value": "The unguent of sight is a concoction that, when applied to the eyes, allows the recipient to see more of the magical aura around them for a short time.  \n\nIt also helps to pierce veils and illusions created by other mages."
+			},
+			{
+				"type": "title",
+				"value": "Unguent of Wellspring Seeing"
+			},
+			{
+				"type": "text",
+				"value": "The unguent of Wellspring Seeing is a less powerful version of the Sight Unguent, which allows those not aligned with the Council to see eldrin wellsprings, though without any of the other benefits the Sight Unguent provides."
 			}
 		],
 		"related_recipes": [
 			{
 				"type": "manaweaving_altar",
-				"location": "mana-and-artifice:manaweaving/sight_unguent"
+				"location": "mana-and-artifice:manaweaving/eldrin_sight_unguent"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/wellspring_sight_unguent"
+			}
+		]
+	},
+	"Wellspring Sight Unguent": {
+		"index": 0,
+		"category": "manaweaving",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Wellspring Sight Unguent"
+			},
+			{
+				"type": "text",
+				"value": "The Wellspring Sight Unguent, when applied to the eyes, allows the user to perceive eldrin wellsprings in the world.  While less potent than the Unguent of Seeing, its use also doesn't incur the wrath of the Council."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/wellspring_sight_unguent"
 			}
 		]
 	},
@@ -6210,11 +7479,11 @@
 			},
 			{
 				"type": "title",
-				"value": "施放符法"
+				"value": "The Cantrip GUI"
 			},
 			{
 				"type": "text",
-				"value": "施放符法，首先你得準備一根織魔者之杖，裝備之後先進行第一個圖樣的繪製，繪製完畢之後圖樣會懸浮於空中。接著，再繪製第二個圖樣，繪製完畢之後它會與第一個圖樣相融合。若該圖樣組合綁定於某個符法，你會聽到叮鈴聲，畫面上會出現一個帶著冷卻條的圖示。若該符法是瞄準類符法，當計時條結束時，符法會朝著你所指向的地方發射出去。"
+				"value": "To view the cantrips GUI, simply hold any manaweaver wand in your hand, press the gui key (default control), and right click.  The wand's tooltip will show this as well.\n\nOnce in the gui, hover over any of the cantrip icons to see a description of what the cantrip does.  You can also change the patterns required for that cantrip (minimum 2) by using the arrows next to the boxes below each cantrip's icon.\n\nSome cantrips allow inserting items as well that are related to that cantrip (such as spells).  For example the 'Freeform Spell' cantrips require that you place a spell into the inventory slot before they'll do anything."
 			},
 			{
 				"type": "title",
@@ -6223,27 +7492,15 @@
 			{
 				"type": "text",
 				"value": "施放符法，首先你得準備一根織魔者之杖，裝備之後先進行第一個圖樣的繪製，繪製完畢之後圖樣會懸浮於空中。接著，再繪製第二個圖樣，繪製完畢之後它會與第一個圖樣相融合。若該圖樣組合綁定於某個符法，你會聽到叮鈴聲，畫面上會出現一個帶著冷卻條的圖示。若該符法是瞄準類符法，當計時條結束時，符法會朝著你所指向的地方發射出去。"
-			},
-			{
-				"type": "text",
-				"value": "第二個符法則可以驅散你身上的負面效果，類似於喝牛奶。"
-			},
-			{
-				"type": "text",
-				"value": "第三個符法會召喚出魔導書，一本類似於終界儲物箱的法術書。"
-			},
-			{
-				"type": "text",
-				"value": "最後三個符法槽可以放入其他的法術，施展符法意味著施展該法術，當然，這樣的法術不能帶有任何修飾構件。"
 			}
 		],
 		"related_recipes": [
 			{
-				"location": "mana-and-artifice:manaweaving/sorcery/cantrip_book",
-				"type": "manaweaving_altar"
+				"location": "mana-and-artifice:vinteum_manaweaver_wand",
+				"type": "crafting"
 			},
 			{
-				"location": "mana-and-artifice:manaweaver_wand",
+				"location": "mana-and-artifice:chimerite_manaweaver_wand",
 				"type": "crafting"
 			},
 			{
@@ -6352,6 +7609,46 @@
 			}
 		]
 	},
+	"Runic Light": {
+		"index": "0",
+		"category": "artifice",
+		"sections": [
+			{
+				"type": "title",
+				"value": "符文之光"
+			},
+			{
+				"type": "text",
+				"value": "符文之光是一種裝飾性方塊，能夠給你的家帶來些許鄉村魔法氛圍。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "crafting",
+				"location": "mana-and-artifice:runic_light"
+			}
+		]
+	},
+	"Runic Torch": {
+		"index": "0",
+		"category": "artifice",
+		"sections": [
+			{
+				"type": "title",
+				"value": "符文火炬"
+			},
+			{
+				"type": "text",
+				"value": "符文火炬是一種裝飾性方塊，能夠給你的家帶來些許鄉村魔法氛圍。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "crafting",
+				"location": "mana-and-artifice:runic_torch"
+			}
+		]
+	},
 	"Tables": {
 		"index": "0",
 		"category": "artifice",
@@ -6386,13 +7683,33 @@
 			},
 			{
 				"type": "text",
-				"value": "沖流生成器，當之無愧的氣魔法應用的傑出代表。\n\n放置到世界後，它會影響自身上下 50 格以內的空間，整體呈現為一條單格柱形。\n\n站在柱形範圍內的巫師，會被牽引到沖流中。\n\n如果巫師向上看，他會在沖流中做上升運動。\n如果巫師向下看，他會緩緩的向下降落，這一過程十分安全。\n\n上升或下降的速度取決於巫師向上看或向下看的程度。\n\n潛行狀態下，巫師會停滯在目前的位置上，如此一來，你便無需擔心沖流的影響，尋找東西，進行方塊互動，想做啥就做啥。"
+				"value": "沖流生成器，當之無愧的氣魔法應用傑出代表。\n\n放置後，它會影響帶著漩渦的那一面的前方長度 50 格、寬度 1 格的區域。它既能水平工作，也能垂直工作。\n\n如果在漩渦面的反面（例如，漩渦面朝上時，在方塊下方放置）疊加更多的沖流生成器，所有生成器的效果會疊加在一起，增加影響的範圍。\n\n站在柱形範圍內的巫師，會被牽引到沖流中。\n\n如果巫師向上看，他會在沖流中做上升運動。\n如果巫師向下看，他會緩緩的向下降落，這一過程十分安全。\n\n上升或下降的速度取決於巫師向上看或向下看的程度。\n\n潛行狀態下，巫師會停滯在目前的位置上，如此一來，你便無需擔心沖流的影響，無論尋找東西還是進行方塊互動，想做啥就做啥。"
 			}
 		],
 		"related_recipes": [
 			{
 				"type": "manaweaving_altar",
 				"location": "mana-and-artifice:manaweaving/artifice/slipstream_generator"
+			}
+		]
+	},
+	"Redstone Spell Trigger": {
+		"index": "0",
+		"category": "artifice",
+		"sections": [
+			{
+				"type": "title",
+				"value": "紅石法術觸發器"
+			},
+			{
+				"type": "text",
+				"value": "紅石法術觸發器會在被法術擊中後向各個方向發射紅石訊號。發射訊號的強度為滿級，並會在一小段時間內緩慢減低到強度 0。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/redstone_spell_trigger"
 			}
 		]
 	},
@@ -6406,13 +7723,121 @@
 			},
 			{
 				"type": "text",
-				"value": "石製基座可以容納物品，所容納的物品會在其上展示出來。"
+				"value": "石製基座可以容納物品，所容納的物品會在其上展示出來。它們也可以作為符文鍛爐升級的一部分。"
 			}
 		],
 		"related_recipes": [
 			{
 				"type": "crafting",
 				"location": "mana-and-artifice:runeforging/stone_pedestal"
+			}
+		]
+	},
+	"Witherbone": {
+		"index": "0",
+		"category": "artifice",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Witherbone"
+			},
+			{
+				"type": "text",
+				"value": "This blackened bone is often used in crafting recipes surrounding the ender, the undead, and death."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/intermediate/witherbone"
+			}
+		]
+	},
+	"Living Flame": {
+		"index": "0",
+		"category": "artifice",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Living Flame"
+			},
+			{
+				"type": "text",
+				"value": "The flame in this bottle seems to pulse and move as if alive.  These pulsing pyros are often used in crafting recipes surrounding fire, the nether, and demons."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/intermediate/living_flame"
+			}
+		]
+	},
+	"Ironbark": {
+		"index": "0",
+		"category": "artifice",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Ironbark"
+			},
+			{
+				"type": "text",
+				"value": "This sturdy piece of ancient bark has been imbued with the strength of iron to mimic an almost petrified effect.  It's exceptionally strong and is often used in crafting recipes surrounding nature and the fey."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/intermediate/ironbark"
+			}
+		]
+	},
+	"Arcane Stones": {
+		"index": "-1",
+		"category": "artifice",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Arcane Stones"
+			},
+			{
+				"type": "text",
+				"value": "Arcane stones are often used as decoration, though they also (if placed properly) can be used to direct magical energies in specific scenarios when imbued with vinteum or chimerite inlays.  As such, they are often used in structures focusing on magic."
+			},
+			{
+				"type": "title",
+				"value": "Shaping Stones"
+			},
+			{
+				"type": "text",
+				"value": "Arcane stones can be shaped into walls, slabs, stairs, and more by following the same crafting processes that I would use for normal stone.  This is because when they are manaweaved, the magic is already infused in them, and they can thus be simply worked like normal stone either at a workbench or a stonecutter."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/decoration/arcane_stone"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/decoration/arcane_sandstone"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/decoration/vinteum_arcane_stone"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/decoration/vinteum_arcane_sandstone"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/decoration/chimerite_arcane_stone"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/decoration/chimerite_arcane_sandstone"
 			}
 		]
 	},
@@ -6444,7 +7869,7 @@
 			},
 			{
 				"type": "text",
-				"value": "木質構裝體部件由某種木頭製成，這種部件輕盈且在水中可以漂浮，這意味著木製構裝體可以移動的更快，且不會沉入水底。然而，火焰對這種構裝體會造成更高的傷害，並且構裝體的生命值也較低。",
+				"value": "木製構裝體部件由某種木塊製成，這種部件輕盈且在水中可以漂浮，這意味著木製構裝體可以移動的更快，且不會沉入水底。然而，火焰對這種構裝體會造成更高的傷害，並且構裝體的生命值也較低。",
 				"newPage": true
 			},
 			{
@@ -6457,7 +7882,7 @@
 			},
 			{
 				"type": "text",
-				"value": "石製構裝體要比木質構裝體更結實，但是你得注意，它們在水中可是會沉底的。雖說比木頭更結實，但與其他材料相比，結實程度還是遜色很多。由於這種材料較重，所以，構裝體加裝的石製部件越多，自身的抗擊退也就越強。",
+				"value": "石製構裝體要比木製構裝體更結實，但是你得注意，它們在水中可是會沉底的。雖說比木塊更結實，但與其他材料相比，結實程度還是遜色很多。由於這種材料較重，所以，構裝體加裝的石製部件越多，自身的抗擊退也就越強。",
 				"newPage": true
 			},
 			{
@@ -6470,7 +7895,7 @@
 			},
 			{
 				"type": "text",
-				"value": "作為村民魔像的主要構成材料，鐵的用量可謂巨大。相較於石頭，鐵質構裝體的恢復能力更強，同時，在水中下沉的也更快，移動速度也更慢，同樣數量下的部件，鐵質部件所給予的抗擊退更高。鐵質構裝體會在等階 3 時解鎖。",
+				"value": "作為村民魔像的主要構成材料，鐵的用量可謂巨大。相較於石頭，鐵製構裝體的恢復能力更強，同時，在水中下沉的也更快，移動速度也更慢，同樣數量下的部件，鐵製部件所給予的抗擊退更高。鐵製構裝體會在等階 3 時解鎖。",
 				"newPage": true
 			},
 			{
@@ -6483,7 +7908,7 @@
 			},
 			{
 				"type": "text",
-				"value": "金質構裝體與鐵質的較為相似，只不過金質構裝體的抗擊退會稍微高一些，但代價就是自身的血量。金質構裝體會在等階 3 時解鎖。",
+				"value": "金製構裝體與鐵製的較為相似，只不過金製構裝體的抗擊退會稍微高一些，但代價就是自身的血量。金製構裝體會在等階 3 時解鎖。",
 				"newPage": true
 			},
 			{
@@ -6875,7 +8300,7 @@
 			},
 			{
 				"type": "text",
-				"value": "執行這一指令的構裝體對周圍的羊，哞菇這些可以被收剪的動物進行收剪，並且構裝體會每隔一段時間從設定半徑內的雞身上拔毛。"
+				"value": "執行這一指令的構裝體對周圍的綿羊，哞菇這些可以被收剪的動物進行收剪，並且構裝體會每隔一段時間從設定半徑內的雞身上拔毛。The construct must have a blade arm in order to use this task."
 			}
 		]
 	},
