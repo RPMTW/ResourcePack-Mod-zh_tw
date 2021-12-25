@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:respiration",
+  "text": [
+    {
+      "text": "Reduces air consumption to 50%, 33%, or 25% at level 1, 2, and 3 respectively."
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "最多只能 3 級",
+    "每個等級需要1個升級槽"
+  ]
+}
