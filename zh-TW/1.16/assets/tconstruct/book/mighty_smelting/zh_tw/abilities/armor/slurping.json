@@ -1,0 +1,18 @@
+{
+  "modifier_id": "tconstruct:slurping",
+  "text": [
+    {
+      "text": "He was number one!"
+    },
+    {
+      "text": "Right clicking a tank with helmet fills it",
+      "paragraph": true
+    }
+  ],
+  "effects": [
+    "Drink fluids stored in the helmlet",
+    "Keybind is used to drink",
+    "單個等級",
+    "Requires 1 ability slot"
+  ]
+}
