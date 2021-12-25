@@ -2,7 +2,11 @@
   "modifier_id": "tconstruct:emerald",
   "text": [
     {
-      "text": "給予 50% 的耐久度和對窳民造成額外 +2.5 傷害。並將工具的挖掘等級提高為鐵。"
+      "text": "Grants +50% durability, +2.5 damage against illagers, and +5% knockback resistance. Increases the tool's harvest level to iron."
+    },
+    {
+      "text": "Tools and armor will only receive applicable stat boosts, for instance held tools will not receive knockback resistance.",
+      "paragraph": true
     }
   ],
   "more_text_space": true,
