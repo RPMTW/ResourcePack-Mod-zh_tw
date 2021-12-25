@@ -1,0 +1,14 @@
+{
+  "modifier_id": "tconstruct:looting",
+  "text": [
+    {
+      "text": "Increases drop rates from monsters killed with an empty hand. Note that unlike other modifiers which have multiple recipes, fortune requires a different recipe for each level, and the recipes must be applied in order."
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "最多只能 3 級",
+    "第一級需要 1 個技能槽",
+    "第二級和第三級不用"
+  ]
+}
