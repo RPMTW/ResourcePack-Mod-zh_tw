@@ -6,32 +6,51 @@ small_tools.info=工具資訊
 large_tools=大型工具
 large_tools.info=工具資訊
 
+armor=Armor
+armor.info=Armor Information
+
 tier_one_materials=第一階段材料
+tier_one_materials.subtext=這些材料容易取得，並且可以放在部件加工台來製作工具部件
+
 tier_two_materials=第二階段材料
+tier_two_materials.subtext=這些素材需要熔煉並鑄模才能製作而成，而且可能會更稀有一些
+
 tier_three_materials=第三階段材料
+tier_three_materials.subtext=這些素材需經鑄鍊成能形成，可以使用合金爐或冶煉廠來鑄鍊
+
 tier_four_materials=第四階段材料
+tier_four_materials.subtext=這些材料不得不透過在地獄裏的探索而得到
+skull_materials=Slimeskulls
+skull_materials.subtext=This section describes the effects of all types of skulls in creating a slimeskull
 
 upgrades=升級
 upgrades.subtext=每個工具的升級槽總數是有限的。
-upgrades.general=§1§l通用§r
-upgrades.harvest=§1§l挖掘§r
-upgrades.weapon=§1§l武器§r
+upgrades.group_general=General
+upgrades.group_harvest=Harvest
+upgrades.group_weapon=Weapon
+upgrades.group_damage=Damage Boost
+upgrades.group_armor=Armor
+upgrades.feather_falling=Feather Fall
+
+defense=Defense
+defense.subtext=Instead of material traits, armor will include defense slots to improve protection.
+defense.group_protection=Protection
+defense.group_special=Special
 
 slotless=無槽
 slotless.subtext=無槽升級不需要消耗任何升級槽。
-slotless.general=§1§l通用§r
-slotless.bonus=§1§l加成§r
+slotless.group_general=General
+slotless.group_bonus=Bonus
 
 abilities=能力
 abilities.subtext=能力強化的槽數比升級少，但功能更強。
-abilities.general=§1§l通用§r
-abilities.harvest=§1§l挖掘§r
-abilities.interact=§1§l相互作用§r
+abilities.group_general=General
+abilities.group_harvest=Harvest
+abilities.group_weapon=Weapon
+abilities.group_interact=Interaction
+abilities.group_armor=Armor
+abilities.unarmed=Unarmed
 
 modifier.effect=效果:
 tool.properties=屬性:
 
-tier_one_materials.subtext=這些材料容易取得，並且可以放在部件加工台來製作工具部件
-tier_two_materials.subtext=這些素材需要熔煉並鑄模才能製作而成，而且可能會更稀有一些
-tier_three_materials.subtext=這些素材需經鑄鍊成能形成，可以使用合金爐或冶煉廠來鑄鍊
-tier_four_materials.subtext=這些材料不得不透過在地獄裏的探索而得到
