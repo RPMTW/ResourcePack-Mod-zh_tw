@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:thorns",
+  "text": [
+    {
+      "text": "Has a 15% chance per level to apply 1 to 4 damage to the attacker. Multiple pieces will stack the effect."
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "最多只能 3 級",
+    "每個等級需要1個升級槽"
+  ]
+}
