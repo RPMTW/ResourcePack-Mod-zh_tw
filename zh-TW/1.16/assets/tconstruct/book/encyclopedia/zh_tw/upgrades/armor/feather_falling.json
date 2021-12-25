@@ -1,0 +1,14 @@
+{
+  "modifier_id": "tconstruct:feather_falling",
+  "text": [
+    {
+      "text": "Grants +12% resistance to fall damage per level, up to a maximum of +48% at 5 levels."
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "可以逐漸提升等級",
+    "最多強化至4級",
+    "每個等級需要1個升級槽"
+  ]
+}
