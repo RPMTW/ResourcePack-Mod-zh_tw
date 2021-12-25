@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:soulspeed",
+  "text": [
+    {
+      "text": "Grants +40.5% speed on soul sand, plus an additional 10.5% added for each additional level. Reduces the slowdown from walking on soulsand."
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "最多只能 3 級",
+    "每個等級需要1個升級槽"
+  ]
+}
