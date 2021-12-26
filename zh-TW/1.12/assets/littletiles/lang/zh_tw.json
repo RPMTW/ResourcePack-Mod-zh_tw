@@ -291,5 +291,6 @@
     "littletiles.colortube.tooltip": "%s\\n'%s' to pick color\\nHold 'CTRL' to place more points\\n'%s' to mark the position\\n'%s' to configure tool\\n'%s' to configure grid size and filter",
     "littletiles.recipeadvanced.tooltip": "'%s' first position\\n'%s' second position\\n'%s' pick shape/ structure\\n'%s' confirm/ configure selection",
     "littletiles.saw.tooltip": "'%s' extend tile\\n'%s' shrink tile\\nHold 'CTRL' to go further",
-    "littletiles.screwdriver.tooltip": "'%s' first position\\n'%s' second position\\n'%s' modify selection"
+    "littletiles.screwdriver.tooltip": "'%s' first position\\n'%s' second position\\n'%s' modify selection",
+    "exception.permission.recipe.size": "Recipe area is too large (maximum %s blocks allowed)"
 }
