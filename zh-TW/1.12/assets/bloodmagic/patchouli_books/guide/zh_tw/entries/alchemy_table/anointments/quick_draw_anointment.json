@@ -1,0 +1,25 @@
+{
+  "name": "迅捷溶劑",
+  "icon": "bloodmagic:quick_draw_anointment",
+  "category": "bloodmagic:alchemy_table/anointments",
+  "pages": [
+    {
+      "type": "crafting_alchemy_table",
+      "heading": "迅捷溶劑",
+      "recipe": "bloodmagic:alchemytable/quick_draw_anointment",
+      "text": "減少 33% 弓與弩的拉弦速度。$(br2)有效物品：弓、弩。$(br2)施加：巧手 I（256 發）"
+    },
+    {
+      "type": "crafting_alchemy_table",
+      "heading": "Dexterity Alkahest L",
+      "recipe": "bloodmagic:alchemytable/quick_draw_anointment_l",
+      "text": "這個升級版的藥水膏持續時間延長了四倍。 $(br2)適用：靈巧雙手I(1024發)"
+    },
+    {
+      "type": "crafting_alchemy_table",
+      "heading": "Dexterity Alkahest II",
+      "recipe": "bloodmagic:alchemytable/quick_draw_anointment_2",
+      "text": "這個升級版的藥水膏將弓和弩的拉弓時間減少50%。 $(br2)適用：靈巧雙手II(256發)"
+    }
+  ]
+}
