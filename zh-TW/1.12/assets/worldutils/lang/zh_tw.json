@@ -77,5 +77,6 @@
     "worldutils.commands.tileticks.remove.start": "開始清除方塊刻。這可能需要一段時間，具體取決於世界的大小...",
     "worldutils.commands.tileticks.removeinvalid.start": "刪除無效的方塊刻可能需要一段時間，具體取決於世界的大小...",
     "worldutils.commands.tileticks.remover.info": "從 %d 個區域文件的 %d 個區塊中總共刪除了 %d 個方塊刻",
-    "worldutils.commands.tileticks.remover.loaded": "目前載入了 %d 個區塊，*沒有*從這些區塊中刪除方塊刻"
+    "worldutils.commands.tileticks.remover.loaded": "目前載入了 %d 個區塊，*沒有*從這些區塊中刪除方塊刻",
+    "worldutils.commands.error.setblock.invalid_position": "Invalid block position (outside world?)"
 }
