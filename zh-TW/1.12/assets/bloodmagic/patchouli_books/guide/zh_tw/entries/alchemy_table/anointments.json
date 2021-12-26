@@ -1,0 +1,17 @@
+{
+  "name": "塗物",
+  "icon": "bloodmagic:melee_anointment",
+  "category": "bloodmagic:alchemy_table",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(item)塗物$()本質上乃是$(item)藥水$()，只不過使用對象變為了你的工具、武器甚至是你的$(l:bloodmagic:demon_will/explosive_charges)炸藥$()。手持$(item)塗物$()按下[$(k:use)]，若另一隻手上持有工具，那麼塗物便會作用於這一工具。並不是所有的塗物都可以用於所有裝備上！$(br2)不像$(item)藥水$()，$(item)塗物$()沒有時間限制；然而，它會在每次你使用工具或是武器的時候消耗掉一些使用次數。"
+    },
+    {
+      "type": "crafting_alchemy_table",
+      "heading": "注入石板的小瓶",
+      "recipe": "bloodmagic:alchemytable/slate_vial",
+      "text": "一種堅固的小瓶，可以裝一些通常情況下無法承裝的混合物。"
+    }
+  ]
+}
