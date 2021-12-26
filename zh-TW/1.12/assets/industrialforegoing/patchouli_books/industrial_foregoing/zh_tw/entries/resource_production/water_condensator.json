@@ -1,0 +1,17 @@
+{
+  "name": "蓄水器",
+  "icon": "industrialforegoing:water_condensator",
+  "category": "resource_production",
+  "sortnum": 11,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "一台可以生產$(6)水$()的機器。$(br2)至少要有兩個面貼著$(6)水$()，它才會開始運作。$(br)額外輸入電力將使機器運作更加快速，每次消耗$(6)1000()RF。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:water_condensator"
+    }
+  ]
+}
