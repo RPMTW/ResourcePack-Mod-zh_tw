@@ -1,0 +1,24 @@
+{
+  "name": "束靈進化",
+  "icon": "bloodmagic:livingplate",
+  "category": "bloodmagic:rituals/ritual_list",
+  "pages": [
+    {
+      "type": "multiblock",
+      "name": "束靈進化",
+      "multiblock_id": "bloodmagic:armour_evolve",
+      "text": "使用$(l:bloodmagic:rituals/ritual_diviner)儀式推測仗 [薄暮]$(/l)來輕鬆建造。"
+    },
+    {
+      "type": "bloodmagic:ritual_info",
+      "ritual": "armour_evolve",
+      "text_overrides": [
+        [
+          "Living Armor",
+          "l:bloodmagic:alchemy_array/living_equipment/living_basics"
+        ]
+      ],
+      "text": "穿著$(l:bloodmagic:alchemy_array/living_equipment/living_basics)束靈裝備$()站在$(l:bloodmagic:rituals/ritual_stones)主儀式石$()上使用這個$(thing)儀式$()。"
+    }
+  ]
+}
