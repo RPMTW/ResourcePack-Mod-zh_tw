@@ -3,7 +3,7 @@
     "item.disenchanter:experience_jar.name": "經驗之罐",
     "container.disenchant": "解除附魔",
     "msg.stored_xp.txt": "經驗瓶：%d/%d",
-    "msg.overload.txt": "超載",
+    "msg.overload.txt": "overload: disenchanting at full capacity is possible",
     "msg.automatic.txt": "自動化解除附魔",
     "msg.bulkdisenchanting.txt": "批量解除附魔",
     "msg.cycling.txt": "循環",
