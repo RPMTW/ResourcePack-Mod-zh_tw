@@ -1,0 +1,155 @@
+{
+    "name": "通用訊息",
+    "icon": "qmd:accelerator_casing",
+    "category": "qmd:accelerators",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "text",
+            "text": "本模組的核心即加速器相關的多方塊結構。加速器相關的結構多種多樣：$(l:accelerators/linear_accelerator)線性加速器$(/l)、$(l:accelerators/ring_accelerator)同步加速器$(/l)、$(l:accelerators/Beam_diverter)束流轉向器$(/l)以及$(l:accelerators/decelerator)減速器$(/l)。它們的作用各不相同，但具有一定程度上相同的本質特徵及構成材料。"
+        },
+        {
+            "type": "text",
+            "title": "建造",
+            "text": "所有加速器相關的多方塊結構都包含加速器外殼和/或加速器透明外殼。它們也都需要能量埠，以及至少兩個——一個輸入，一個輸出——冷卻劑出入口。手持核電工藝的多功能工具右擊即可設定出入口模式。"
+        },
+        {
+            "type": "text",
+            "text": " 每個加速器相關的多方塊結構中央都是一根由束流方塊構成的長條，粒子由此透過。束流方塊周圍可以有三種結構組件：射頻腔、四極磁鐵和雙極磁鐵。這些結構之外還有冷卻器冷卻整個加速器。"
+        },
+        {
+            "anchor": "rf_cavity",
+            "type": "multiblock",
+            "name": "射頻腔",
+            "multiblock": {
+                "mapping": {
+                    "C": "qmd:accelerator_cavity",
+                    "B": "qmd:accelerator_beam"
+                },
+                "pattern": [
+                    [
+                        "   ",
+                        "CCC",
+                        " 0 "
+                    ],
+                    [
+                        " B ",
+                        "CBC",
+                        " B "
+                    ],
+                    [
+                        "   ",
+                        "CCC",
+                        "   "
+                    ]
+                ]
+            },
+            "enable_visualize": false,
+            "text": "如圖所示，射頻腔圍繞在束流方塊旁邊，由同種射頻腔方塊構成。"
+        },
+        {
+            "type": "text",
+            "text": " 射頻腔提高加速器的加速電壓，由此粒子會從末尾輸出。射頻腔的加速電壓由其種類，也即其材料決定。"
+        },
+        {
+            "anchor": "quadrupole",
+            "type": "multiblock",
+            "name": "四極磁鐵",
+            "multiblock": {
+                "mapping": {
+                    "M": "qmd:accelerator_magnet",
+                    "B": "qmd:accelerator_beam"
+                },
+                "pattern": [
+                    [
+                        "0M "
+                    ],
+                    [
+                        "MBM"
+                    ],
+                    [
+                        " M "
+                    ]
+                ]
+            },
+            "enable_visualize": false,
+            "text": "如圖所示，四極磁鐵圍繞在束流方塊旁邊，由同種電磁鐵方塊構成。"
+        },
+        {
+            "type": "text",
+            "text": "四極磁鐵提高粒子束流的聚焦。聚焦表示了粒子可行的距離，如果粒子束流在加速器中走了過遠的距離則不能被輸出，而四極磁鐵可被用於補足聚焦。四極磁鐵的強度由電磁鐵的種類，也即電磁鐵的材料決定。"
+        },
+        {
+            "anchor": "dipole",
+            "type": "multiblock",
+            "name": "雙極材料",
+            "multiblock": {
+                "mapping": {
+                    "M": "qmd:accelerator_magnet",
+                    "Y": "qmd:accelerator_yoke",
+                    "B": "qmd:accelerator_beam",
+                    "0": "qmd:accelerator_yoke"
+                },
+                "pattern": [
+                    [
+                        "Y0Y",
+                        "YMY",
+                        "YYY"
+                    ],
+                    [
+                        "YYY",
+                        "YBB",
+                        "YBY"
+                    ],
+                    [
+                        "YYY",
+                        "YMY",
+                        "YYY"
+                    ]
+                ]
+            },
+            "enable_visualize": false,
+            "text": "拐角處的只有兩個輸出的雙極磁鐵。"
+        },
+        {
+            "type": "text",
+            "text": "在一個束流方塊上下各放置一個同種類的電磁鐵，再用電磁軛填充周圍3x3x3的空間。上一頁已經展示了一個拐角處的雙極磁鐵。$(l:accelerators/Beam_diverter)束流轉向器$(/l)中的雙極磁鐵也可以是水平的，此時束流將會被轉至上或下方向。雙極磁鐵無法被用於$(l:accelerators/linear_accelerator)線性加速器$(/l)。"
+        },
+        {
+            "type": "text",
+            "text": "每個雙極磁鐵的強度都是其本身的電磁鐵的強度。拐角處必須放有雙極磁鐵，因為它能夠改變束流方向。"
+        },
+        {
+            "type": "image",
+            "images": [
+                "qmd:textures/gui/book_images/dipoles.png"
+            ],
+            "text": "空的$(l:accelerators/ring_accelerator)同步加速器$(/l)中雙極磁鐵的示例。"
+        },
+        {
+            "type": "text",
+            "title": "冷卻器",
+            "text": "每個射頻腔及電磁鐵都會在工作時釋放熱量，因此加速器內應設有一些冷卻器。它們只會在位置符合條件時工作，條件可在其提示文字中查看。"
+        },
+        {
+            "type": "image",
+            "images": [
+                "qmd:textures/gui/book_images/coolers.png"
+            ],
+            "text": "包含冷卻器的$(l:accelerators/linear_accelerator)線性加速器$(/l)的示例。"
+        },
+        {
+            "type": "text",
+            "title": "Cooling",
+            "text": "因會產出熱量，加速器必須及時完成自身的冷卻；如果在操作時過熱，過熱的組件便會發生爆炸。冷卻加速器需要冷卻劑，每個加速器都需要有一個入口輸入冷卻劑，和一個出口輸出熱冷卻劑。每種冷卻劑都有溫度屬性，這會決定加速器所能達到的最低溫度。例如液氦為4 K，液氮為70 K。"
+        },
+        {
+            "type": "text",
+            "text": "可用的冷卻劑及其溫度屬性可在JEI中查看。加速器需要一個模式為輸入和一個模式為輸出的冷卻劑出入口。手持核電工藝的多功能工具右擊即可設定出入口模式。將游標指針移至加速器GUI中靠右的冷卻劑一槽即可查看目前存有的冷卻劑量、冷卻劑被使用及熱冷卻劑被排出的最大速率。"
+        },
+        {
+            "type": "text",
+            "text": "按住Shift並點擊出現的按鈕可以清空加速器所儲存的冷卻劑及熱冷卻劑。"
+        }
+    ]
+}
