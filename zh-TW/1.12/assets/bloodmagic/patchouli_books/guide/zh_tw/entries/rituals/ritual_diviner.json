@@ -1,0 +1,53 @@
+{
+  "name": "儀式推測仗",
+  "icon": "bloodmagic:ritualdiviner",
+  "category": "bloodmagic:rituals",
+  "pages": [
+    {
+      "type": "text",
+      "text": "製作儀式是一項複雜的工作；即使您擁有正確的$(item)銘文工具$()，您也不能只是將符文刻在石頭上並期望任何事情發生。 幸運的是，$(item)儀式推測仗$()可以提供幫助。$(br2)只需對著空氣按住[$(k:sneak)]並單擊$(k:use)]，即可選擇儀式。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "bloodmagic:ritual_diviner_0",
+      "text": "在查看$(item)主儀式石$()時按住[$(k:use)]將使儀式推測仗使用您身上攜帶的$(item)儀式石$()來構建當前選擇的儀式。 這就像魔法一樣！"
+    },
+    {
+      "type": "text",
+      "text": "然而，儀式推測仗不能破壞方塊，所以在你開始建造之前先確保該區域足夠空曠，否則$(l:bloodmagic:rituals/activation_crystals)啟動水晶$()將無法完成它的工作。$(br2)還有值得注意的是，基礎儀式推測仗只能創建一些基礎的儀式。如果您想充分利用儀式推測仗，則必須使用$(dusk)元素銘文工具:薄暮$()對其進行升級。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "bloodmagic:ritual_diviner_1",
+      "anchor": "dusk",
+      "text": "與元素銘文工具不同的是，儀式推測仗和儀式推測仗[薄暮]永遠不會用完。"
+    },
+    {
+      "type": "text",
+      "text": "基礎儀式推測仗需要四種$(item)元素銘文工具$()各一個來構建，因此需要一個 3 階$(l:bloodmagic:altar/blood_altar)血之祭壇$(/l)。$(br2)四種基本元素銘文工具可以在您的祭壇中消耗$(blood)1000LP$()製作，具體如下頁所述。儀式推測仗[薄暮]需要一個四階祭壇來製作兩個元素銘文工具:薄暮，一個消耗$(blood)2000LP$()。"
+    },
+    {
+      "type": "text",
+      "text": "您也可以使用這些工具手工刻寫符文，但這只能用於裝飾，因為它既慢又不准確。"
+    },
+    {
+      "type": "2x_crafting_altar",
+      "a.heading": "Inscription Tool: Air",
+      "a.recipe": "bloodmagic:altar/air_tool",
+      "b.heading": "Inscription Tool: Fire",
+      "b.recipe": "bloodmagic:altar/fire_tool"
+    },
+    {
+      "type": "2x_crafting_altar",
+      "a.heading": "Inscription Tool: Water",
+      "a.recipe": "bloodmagic:altar/water_tool",
+      "b.heading": "Inscription Tool: Earth",
+      "b.recipe": "bloodmagic:altar/earth_tool"
+    },
+    {
+      "type": "crafting_altar",
+      "heading": "Inscription Tool: Dusk",
+      "recipe": "bloodmagic:altar/dusk_tool"
+    }
+  ]
+}
