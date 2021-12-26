@@ -22,5 +22,17 @@
     "energyconverters.energybridge.stored": "能量儲存： %s",
     "energyconverters.rf_warning": "§C您不需要此功能的機率約為99 %%！ 請改用Forge能量轉換器（FE）。§r",
     "energyconverters.mj_hint": "§A使用木製能量管道從該模組中提取能量。§r",
-    "energyconverters.fe_hint": "§A與聲稱需要“ RF”的模組相容率為99%§r"
+    "energyconverters.fe_hint": "§A與聲稱需要“ RF”的模組相容率為99%§r",
+    "tile.energy_producer_tr.low.name": "LV Energy Producer (TechReborn)",
+    "tile.energy_producer_tr.medium.name": "MV Energy Producer (TechReborn)",
+    "tile.energy_producer_tr.high.name": "HV Energy Producer (TechReborn)",
+    "tile.energy_producer_tr.extreme.name": "EV Energy Producer (TechReborn)",
+    "tile.energy_producer_tr.insane.name": "IV Energy Producer (TechReborn)",
+    "tile.energy_producer_tr.infinite.name": "INF Energy Producer (TechReborn)",
+    "tile.energy_consumer_tr.low.name": "LV Energy Consumer (TechReborn)",
+    "tile.energy_consumer_tr.medium.name": "MV Energy Consumer (TechReborn)",
+    "tile.energy_consumer_tr.high.name": "HV Energy Consumer (TechReborn)",
+    "tile.energy_consumer_tr.extreme.name": "EV Energy Consumer (TechReborn)",
+    "tile.energy_consumer_tr.insane.name": "IV Energy Consumer (TechReborn)",
+    "tile.energy_consumer_tr.infinite.name": "INF Energy Consumer (TechReborn)"
 }
