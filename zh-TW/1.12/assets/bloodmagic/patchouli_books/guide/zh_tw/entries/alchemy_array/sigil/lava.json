@@ -1,0 +1,35 @@
+{
+  "name": "熔岩印記",
+  "icon": "bloodmagic:lavasigil",
+  "category": "bloodmagic:alchemy_array/sigil",
+  "pages": [
+    {
+      "type": "text",
+      "text": "作為$(l:bloodmagic:alchemy_array/sigil/water)水之印記$(/l)的姐妹符文，$(item)熔岩印記$()能夠消耗 1000 $(blood)LP$()，手持$(item)熔岩印記$()時，對著地面按下[$(k:use)]，即可放置一格$(fire)熔岩$()。在$(l:bloodmagic:alchemy_array/functional_arrays/arcane_ash)煉金矩陣$(/l)中依序放入$(item)熔岩試劑$() 和$(item)空白石板$()，一枚嶄新的印記就出爐了。如果你的$(l:bloodmagic:altar/soul_network)靈魂網路$(/l)中沒有足夠的 LP，它會抽取你 5 顆心的血量作為使用代價。"
+    },
+    {
+      "type": "crafting_2-step_sigil",
+      "alchemy_table.heading": "熔岩試劑",
+      "alchemy_table.recipe": "bloodmagic:alchemytable/reagent_lava",
+      "array.heading": "熔岩印記",
+      "array.recipe": "bloodmagic:array/lavasigil",
+      "array.text": "$(italic)很燙！別吃$()"
+    },
+    {
+      "type": "image",
+      "images": [
+        "bloodmagic:images/entries/sigil/lava_sigil1.png",
+        "bloodmagic:images/entries/sigil/lava_sigil2.png"
+      ],
+      "title": "熔岩印記矩陣",
+      "border": true,
+      "text": "熔岩印記，旁邊的是它的合成矩陣，以及它的主要用途。"
+    },
+    {
+      "type": "crafting_alchemy_table",
+      "heading": "Lava Bucket",
+      "recipe": "bloodmagic:alchemytable/sigil_lava_bucket",
+      "text": "What's more, it can be used in the $(l:bloodmagic:alchemy_table/alchemy_table)Alchemy Table$() to automate the production of $(fire)Lava Buckets$(). The Sigil is not consumed in this recipe."
+    }
+  ]
+}
