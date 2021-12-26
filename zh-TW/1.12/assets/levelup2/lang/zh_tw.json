@@ -96,7 +96,7 @@
     "gui.levelup:mining_bonus.spec": "挖礦",
     "gui.levelup:craft_bonus.spec": "創造",
     "gui.levelup:combat_bonus.spec": "戰鬥",
-    "gui.levelup.budget": "剩餘等級：%s",
+    "gui.levelup.budget": "Levels spent: %s",
     "gui.skills": "技能",
     "gui.addlevel": "增添技能點數",
     "levelup.prereq": "先決條件：%s",
@@ -113,5 +113,8 @@
     "sneak.attack": "潛行攻擊獲得 %d x 的傷害！",
     "level.invalid": "§e§l[Level Up!]§r§e在選擇升級之前，你必須達到5級。§r",
     "levelup.howto.getlevels.0": "在等級為5級或以上時，手持該書潛行右擊",
-    "levelup.howto.getlevels.1": "以消耗5級經驗並獲得1點技能點數。"
+    "levelup.howto.getlevels.1": "以消耗5級經驗並獲得1點技能點數。",
+    "gui.levelup.skillmenu.0": "Mining",
+    "gui.levelup.skillmenu.1": "Crafting",
+    "gui.levelup.skillmenu.2": "Combat"
 }
