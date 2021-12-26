@@ -2,18 +2,18 @@
   "tool": "tconstruct:slime_chestplate",
   "text": [
     {
-      "text": "The slimelytra is the latest in flight technology."
+      "text": "史萊姆鞘翅是最先進的飛行技術。"
     },
     {
-      "text": "Created by pouring enderslime on an elytra, these wings can also be repaired with phantom membranes.",
+      "text": "透過將終界史萊姆倒在鞘翅上而成，這些翅膀也可以使用夜魅皮膜修復。",
       "paragraph": true
     }
   ],
   "properties": [
-    "672 Durability",
+    "672 耐久值",
     "5 Upgrade Slots",
     "0 Defense Slots",
     "1 Ability Slot",
-    "Wings"
+    "翅膀"
   ]
 }
