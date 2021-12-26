@@ -1,0 +1,17 @@
+{
+  "name": "Netherite Jetpack",
+  "icon": "simplyjetpacks:jetpack_vanilla4",
+  "category": "simplyjetpacks:vanilla",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "This is the NetheriteJetpack. The jetpack can become armored by applying the plating."
+    },
+    {
+      "type": "crafting",
+      "recipe": "simplyjetpacks:vanilla/jetpack_vanilla4",
+      "recipe2": "simplyjetpacks:vanilla/jetpack_vanilla4_armored"
+    }
+  ]
+}
