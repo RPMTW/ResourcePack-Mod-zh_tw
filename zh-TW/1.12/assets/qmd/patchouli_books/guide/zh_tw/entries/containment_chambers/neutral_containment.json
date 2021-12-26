@@ -1,12 +1,12 @@
 {
-	"name": "Neutral Containment",
+	"name": "電中性遏制器",
 	"icon": "qmd:neutral_containment_controller",
 	"category": "qmd:containment_chambers",
 	"sortnum": 1,
 	"pages": [
 		{
 			"type": "text",
-			"text": "The Neutral Containment Chambers is used to create and store neutrally charged exotic materials like antimatter. $(bold)Be very carful with them!$()"
+			"text": "遏制器室被用於生成及儲存電中性奇異物質，比如反物質。$(bold)萬萬小心！$()"
 		}
 	]
 }
