@@ -12,5 +12,18 @@
     "tooltip.glassential.property_luminous": "Emits bright light",
     "tooltip.glassential.property_redstone": "Emits strong redstone signal",
     "tooltip.glassential.property_reverse_ethereal": "Solid while sneaking",
-    "itemGroup.glassential.items": "精緻玻璃"
+    "itemGroup.glassential.items": "精緻玻璃",
+    "block.glassential.glass_dark_ethereal": "Tinted Ethereal Glass",
+    "block.glassential.glass_dark_ethereal_reverse": "Tinted Reverse Ethereal Glass",
+    "block.glassential.glass_ethereal": "縹緲玻璃",
+    "block.glassential.glass_ethereal_reverse": "反向縹緲玻璃",
+    "block.glassential.glass_ghostly": "幽靈玻璃",
+    "block.glassential.glass_light": "發光玻璃",
+    "block.glassential.glass_redstone": "紅石玻璃",
+    "tooltip.glassential.dark": "阻光",
+    "tooltip.glassential.ethereal": "對玩家而言不是固體",
+    "tooltip.glassential.ethereal_reverse": "僅對玩家而言是固體",
+    "tooltip.glassential.ghostly": "對實體而言不是固體",
+    "tooltip.glassential.light": "發光",
+    "tooltip.glassential.redstone": "啟動紅石訊號"
 }
