@@ -1,0 +1,43 @@
+{
+    "name": "流體蜂",
+    "icon": "minecraft:water_bucket",
+    "read_by_default": true,
+    "sortnum": 4,
+    "category": "productivebees:bees_modded",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "蜜蜂生產液體"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        },
+        {
+            "type": "patchouli:text",
+            "title": "巧克力蜂",
+            "text": "藉由將可可豆餵給 $(l:bees/wild/sugarbag)帶蜜蜜蜂$(/l) 獲得。",
+            "anchor": "chocolate",
+            "flag": "productivebees:chocolate"
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "巧克力蜂",
+            "entity": "productivebees:configurable_bee{type:'productivebees:chocolate'}",
+            "flag": "productivebees:chocolate"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "茶蜜蜂",
+            "text": "藉由將一桶水餵給 $(l:bees/solitary/leafcutter)切葉蜂$(/l) 獲得。",
+            "anchor": "tea",
+            "flag": "productivebees:tea"
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "茶蜜蜂",
+            "entity": "productivebees:configurable_bee{type:'productivebees:tea'}",
+            "flag": "productivebees:tea"
+        }
+    ]
+}
