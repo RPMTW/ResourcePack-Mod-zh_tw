@@ -1,0 +1,21 @@
+{
+    "name": "蜂籠",
+    "icon": "productivebees:bee_cage",
+    "category": "productivebees:items",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "productivebees:bee_cage",
+            "text": "蜂籠用來捕捉蜜蜂， 以便存放或運送。拿著蜂籠對蜜蜂點擊滑鼠右鍵就能捕捉蜜蜂， 之後再對著地面點擊滑鼠右鍵就能將蜜蜂放出。$(br2)外出時別忘了身上準備幾個蜂籠， 說不定路上會遇到有趣的蜜蜂。"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "productivebees:bee_cage",
+            "text": "遊戲初期便可輕易取得"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "在有效的花朵方塊上釋放蜜蜂會將蜜蜂的花位置設為該方塊。類似地，在潛行時在有效的蜂箱或蜂窩上釋放蜜蜂會將蜜蜂的家鄉位置設為該蜂箱或蜂窩。"
+        }
+    ]
+}
