@@ -62,5 +62,7 @@
     "config.wearablebackpacks.category.cosmetic": "美化設定",
     "config.wearablebackpacks.category.cosmetic.tooltip": "調控一些並不影響遊戲性的美化設定（僅客戶端）。",
     "config.wearablebackpacks.cosmetic.enchantEffectOpacity": "附魔效果不透明度",
-    "config.wearablebackpacks.cosmetic.enchantEffectOpacity.tooltip": "如果背包擁有附魔，可以調控其附魔的不透明度，或者隱藏附魔。"
+    "config.wearablebackpacks.cosmetic.enchantEffectOpacity.tooltip": "如果背包擁有附魔，可以調控其附魔的不透明度，或者隱藏附魔。",
+    "config.wearablebackpacks.backpack.durability.hint": "No effect if not equipped as armor.",
+    "config.wearablebackpacks.backpack.armor.hint": "No effect if not equipped as armor."
 }
