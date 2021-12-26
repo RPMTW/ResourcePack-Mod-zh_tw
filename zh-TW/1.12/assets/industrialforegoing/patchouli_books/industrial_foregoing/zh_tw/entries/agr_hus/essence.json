@@ -1,0 +1,13 @@
+{
+  "name": "精華液桶",
+  "icon": "industrialforegoing:essence_bucket",
+  "category": "agriculture_husbandry",
+  "sortnum": 7,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "由$(l:agr_hus/mob_crusher)屠宰機$()將掉落的經驗球轉化而成的液態經驗值。"
+    }
+  ]
+}
