@@ -9,7 +9,7 @@
     "levelup:woodcutting.desc": "提高伐木的速度。",
     "levelup:lumbering.desc": "伐木時掉落額外的原木。",
     "levelup:stonecutting.desc": "提高挖掘石頭的速度。",
-    "levelup:prospecting.desc": "挖掘礦石有機率翻倍。",
+    "levelup:prospecting.desc": "挖掘礦有機率翻倍。",
     "levelup:flintloot.desc": "有機會在挖掘時收穫更多燧石。",
     "levelup:treasurehunting.desc": "在挖掘泥土時隨機獲得寶藏。",
     "levelup:swordcrit.desc": "隨機的將直接攻擊的傷害加倍。",
@@ -34,7 +34,7 @@
     "levelup:fishbonus.desc": "釣魚時獲得額外的收穫。",
     "item.levelup:orechunk.name": "%s碎塊",
     "item.levelup.ore.name": "礦",
-    "item.levelup:orechunk_null.name": "礦石碎塊",
+    "item.levelup:orechunk_null.name": "礦碎塊",
     "item.levelup:respec.name": "專業變革之書",
     "item.levelup:skill.name": "技巧書",
     "skill.levelup:mining_bonus.short": "採掘",
@@ -96,7 +96,7 @@
     "gui.levelup:mining_bonus.spec": "挖礦",
     "gui.levelup:craft_bonus.spec": "創造",
     "gui.levelup:combat_bonus.spec": "戰鬥",
-    "gui.levelup.budget": "Levels spent: %s",
+    "gui.levelup.budget": "剩餘等級：%s",
     "gui.skills": "技能",
     "gui.addlevel": "增添技能點數",
     "levelup.prereq": "先決條件：%s",
@@ -114,7 +114,7 @@
     "level.invalid": "§e§l[Level Up!]§r§e在選擇升級之前，你必須達到5級。§r",
     "levelup.howto.getlevels.0": "在等級為5級或以上時，手持該書潛行右擊",
     "levelup.howto.getlevels.1": "以消耗5級經驗並獲得1點技能點數。",
-    "gui.levelup.skillmenu.0": "Mining",
-    "gui.levelup.skillmenu.1": "Crafting",
-    "gui.levelup.skillmenu.2": "Combat"
+    "gui.levelup.skillmenu.0": "採掘",
+    "gui.levelup.skillmenu.1": "合成",
+    "gui.levelup.skillmenu.2": "戰鬥"
 }
