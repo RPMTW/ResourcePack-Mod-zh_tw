@@ -1,0 +1,15 @@
+{
+  "name": "使用矩陣進行合成",
+  "icon": "bloodmagic:divinationsigil",
+  "category": "bloodmagic:alchemy_array/functional_array",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(1)合成煉金矩陣$()時矩陣最簡單的形式之一。這種矩陣可以將$(item)基底物$()刻入$(item)催化劑$()中，將它們一併轉化為一些有用的物品（這一過程伴隨著一段較短但精緻的動畫）。"
+    },
+    {
+      "type": "text",
+      "text": "其中的一些產物僅需$(l:sigil/divination)一些較易獲得的原料$(/l)即可製作，但其它的那些產物則需要額外的步驟才能進行製作。"
+    }
+  ]
+}
