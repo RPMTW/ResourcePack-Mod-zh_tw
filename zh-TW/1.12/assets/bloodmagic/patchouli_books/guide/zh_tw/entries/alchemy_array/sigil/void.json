@@ -1,0 +1,19 @@
+{
+  "name": "虛空印記",
+  "icon": "bloodmagic:voidsigil",
+  "category": "bloodmagic:alchemy_array/sigil",
+  "pages": [
+    {
+      "type": "text",
+      "text": "當你手持$(item)虛空印記$()對準任意液體按下 [$(k:use)] 時，印記會摧毀此液體，每摧毀一個方塊消耗 50$(blood)LP$()。非常適合清理那些流得遍地都是的熔岩，你再也不需要手動一個個放置覆蓋方塊，再一個個破壞掉了，這可太無聊了。"
+    },
+    {
+      "type": "crafting_2-step_sigil",
+      "alchemy_table.heading": "虛空試劑",
+      "alchemy_table.recipe": "bloodmagic:alchemytable/reagent_void",
+      "array.heading": "虛空印記",
+      "array.recipe": "bloodmagic:array/voidsigil",
+      "array.text": "$(italic)勝過速易潔®！"
+    }
+  ]
+}
