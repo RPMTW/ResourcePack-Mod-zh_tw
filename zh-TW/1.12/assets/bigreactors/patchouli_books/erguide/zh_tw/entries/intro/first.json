@@ -1,6 +1,6 @@
 {
     "name": "你的第一個反應爐",
-    "icon": "bigreactors:reactorcasing",
+    "icon": "bigreactors:basic_reactorcasing",
     "category": "bigreactors:intro",
     "pages": [
         {
@@ -8,63 +8,43 @@
             "text": "這個反應爐是一個主要生產能量的多方塊機器，。$(br2)一個多方塊機器是由各種方塊組成。$(br2)製作反應堆並為其提供動力你需要黃鈾錠，所以馬上去挖些黃鈾礦然後熔煉它！"
         },
         {
-            "type": "multiblock",
-            "multiblock": {
-                "mapping": {
-                    "0": "bigreactors:reactorcasing",
-                    "C": "bigreactors:reactorcasing",
-                    "F": "bigreactors:reactorfuelrod",
-                    "R": "bigreactors:reactorcontrolrod",
-                    "A": "bigreactors:reactoraccessport",
-                    "E": "bigreactors:reactorpowertaprf",
-                    "X": "bigreactors:reactorcontroller"
-                },
-                "pattern": [
-                    [
-                        "CCC",
-                        "CRC",
-                        "CCC"
-                    ],
-                    [
-                        "CCC",
-                        "EFA",
-                        "CXC"
-                    ],
-                    [
-                        "CCC",
-                        "C0C",
-                        "CCC"
-                    ]
-                ]
-            }
+            "type": "zcmultiblock",
+            "multiblock_id": "bigreactors:bookfirstbasicreactor"
         },
         {
             "type": "text",
-            "text": "建造你的第一個反應堆你需要合成以下的基礎反應爐方塊。$(br2)$(li)22x 殼$(li)1x 控制器$(li)1x 控制棒$(li)1x 燃料棒$(li)1x 訪問接口$(li)1x 紅石通量電源接頭$(br2)玻璃方塊實際上是可選的可以被用來替代其他殼方塊。"
+            "text": "To build your first Reactor you need to craft the following Basic Reactor blocks:$(br2)$(li)22x Casing$(li)1x Controller$(li)1x Control Rod$(li)1x Fuel Rod$(li)1x Solid Access Port$(li)1x Active Forge Energy Power Tap$(br2)The Glass block is actually optional and can be replaced by another Casing block."
         },
         {
-            "type": "crafting",
-            "recipe": "bigreactors:reactorcasingcores\n",
-            "recipe2": "bigreactors:reactorcasing"
+            "type": "crafting2x",
+            "title1": "Casing",
+            "recipe1": "bigreactors:reactor/basic/casing",
+            "title2": "Glass",
+            "recipe2": "bigreactors:reactor/basic/glass"
         },
         {
-            "type": "crafting",
-            "recipe": "bigreactors:reactorglass_vanillaglass",
-            "recipe2": "bigreactors:reactorcontroller"
+            "type": "crafting2x",
+            "title1": "Controller",
+            "recipe1": "bigreactors:reactor/basic/controller_ingots_uranium",
+            "title2": "Control Rod",
+            "recipe2": "bigreactors:reactor/basic/controlrod"
         },
         {
-            "type": "crafting",
-            "recipe": "bigreactors:reactorcontrolrod",
-            "recipe2": "bigreactors:reactorfuelrod_vanillaglass"
+            "type": "crafting2x",
+            "title1": "Fuel Rod",
+            "recipe1": "bigreactors:reactor/basic/fuelrod_ingots_uranium",
+            "title2": "Access Port",
+            "recipe2": "bigreactors:reactor/basic/solidaccessport"
         },
         {
-            "type": "crafting",
-            "recipe": "bigreactors:reactoraccessport",
-            "recipe2": "bigreactors:reactorpowertaprf"
+            "type": "crafting-text",
+            "title": "Forge Power Tap",
+            "recipe": "bigreactors:reactor/basic/activetap_fe",
+            "text": "Once you have crafted all the required blocks, you are ready to build your first Reactor.$(br2)Place the blocks in your world using the following diagram, putting the Fuel Rod in the center with a Casing below."
         },
         {
-            "type": "text",
-            "text": "一旦你已經合成所有需要的方塊，你就可以來建造你的第一個反應爐。$(br2)根據圖表在你的世界放置方塊，在中間殼的下面放置燃料棒"
+            "type": "zcmultiblock",
+            "multiblock_id": "bigreactors:bookfirstbasicreactor"
         },
         {
             "type": "text",
@@ -72,11 +52,11 @@
         },
         {
             "type": "text",
-            "text": "現在你的反應爐已準備，是時候放入一些燃料。$(br2)拿起更多黃鈾錠然後在訪問接口右鍵。設定接口到輸入模式然後放入你的錠到輸入欄位。$(br2)該錠會快速被反應爐轉換成燃料。$(br2)開啟控制器然後啟動反應爐！"
+            "text": "Now that your Reactor is ready, it's time to put some fuel in it.$(br2)Pick up more Yellorium ingots and right-click on the Solid Access Port. Set the Port to Inlet mode and place your ingots in the input slot.$(br2)The ingots will be quickly consumed by the Reactor and turned into fuel.$(br2)Open the Controller interface and turn your Reactor on!"
         },
         {
             "type": "text",
-            "text": "因為反應爐在升溫中，所以生產能量較慢和內能緩衝。$(br2)要使用庫存在反應爐內的能量你需要連一些一些能量管道或者機器到能量接口"
+            "text": "As the Reactor heats up, energy is slowly being produced and the internal energy buffer filled.$(br2)To use the energy stored inside the Reactor you need to connect some sort of energy pipe or a machine to the Active Forge Power Tap.$(br)The Power Tap will send out energy to the connected block (if it can accept it)"
         },
         {
             "type": "text",
