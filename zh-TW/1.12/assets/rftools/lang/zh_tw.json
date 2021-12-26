@@ -201,5 +201,6 @@
     "message.rftools.invchecker": "@f如果在儲物格中的物品數量超過一個固定\\n@f的數值，這個邏輯方塊就會給予一個紅石信號。",
     "message.rftools.threelogic": "@f這個邏輯方塊能用它三個輸入\\n@f來進行各式各樣的邏輯操作",
     "message.rftools.counter": "@a計數: %s\\n@a目前值: %s\\n@f這個邏輯方塊對紅石信號進行計數\\n@f並當達到固定數值時輸出紅石信號",
-    "message.rftools.sequencer": "@a延時: %s\\n@a模式: %s\\n@a數位: %s\\n@f這個邏輯方塊通過在 GUI 中設定\\n@f的模式來輸出一系列信號"
+    "message.rftools.sequencer": "@a延時: %s\\n@a模式: %s\\n@a數位: %s\\n@f這個邏輯方塊通過在 GUI 中設定\\n@f的模式來輸出一系列信號",
+    "item.ComputerModule.name": "Computer Module"
 }
