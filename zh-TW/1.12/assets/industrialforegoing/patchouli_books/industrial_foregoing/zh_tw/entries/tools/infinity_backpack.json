@@ -1,0 +1,17 @@
+{
+  "name": "無限背包",
+  "icon": "industrialforegoing:infinity_backpack",
+  "category": "tools",
+  "sortnum": 3,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "無限背包是一個讓您可以攜帶大量物品的工具。$(br2)它可以儲存3種特定流體：$(6)生物燃料$()允許自動運作，$(6)精華$()自動收集經驗(啟用自動收集時)和$(6)肉湯$()自動進食。"
+    },
+    {
+      "type": "text",
+      "text": "When $(6)Magnet Mode$() is enabled nearby items will be teleported to the player when they can be picked up. $(br2)When $(6)Auto-Pickup Mode$() is enabled items that can go in the backpack picked up by the player it will go into the backpack automatically. $(br2)Each slot can be configured to $(6)void$() excess or to $(6)refill$() stacks that aren't full in your inventory."
+    }
+  ]
+}
