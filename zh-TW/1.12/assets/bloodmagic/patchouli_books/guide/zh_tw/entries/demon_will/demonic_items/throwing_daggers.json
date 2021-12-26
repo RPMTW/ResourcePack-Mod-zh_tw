@@ -1,0 +1,37 @@
+{
+  "name": "投擲匕首",
+  "icon": "bloodmagic:throwing_dagger",
+  "category": "bloodmagic:demon_will/demonic_items",
+  "extra_recipe_mappings": [
+    [
+      "bloodmagic:slate_ampoule",
+      3
+    ]
+  ],
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(item)Bows$() and $(item)Crossbows$() are fine enough in their way, but sifting through $(item)Gravel$() for $(item)Flint$() and plucking chickens for their $(item)Feathers$() is, frankly, beneath you. These shiny (and extremely sharp) $(item)Throwing Daggers$() also have some quite devious effects, if you do say so yourself."
+    },
+    {
+      "type": "crafting_soulforge",
+      "heading": "鐵製投擲匕首",
+      "recipe": "bloodmagic:soulforge/throwing_dagger",
+      "anchor": "iron_throwing_dagger",
+      "text": "The $(item)Iron Throwing Dagger$() is a fast-hitting attack, dealing 10 damage with a decent cooldown. Not only that, but if you have some $(l:bloodmagic:demon_will/will_manipulation/demon_will)Demon Will$() on you (be it in its raw form, or stored within a $(l:bloodmagic:demon_will/will_manipulation/soul_gem)Tartaric Gem$(), it will drop $(raw)Will$() as a $(l:bloodmagic:demon_will/demonic_items/sentient_sword)Sentient Sword$() would."
+    },
+    {
+      "type": "crafting_soulforge",
+      "heading": "注射器投擲匕首",
+      "recipe": "bloodmagic:soulforge/throwing_dagger_syringe",
+      "anchor": "syringe_throwing_dagger",
+      "text": "The $(item)Syringe Throwing Dagger$() is for the Sanguimancer more interested of the acquisition of $(blood)Life Essence() than $(raw)Will$(). While it deals slightly less damage, it is noticeably cheaper, and enemies killed by this weapon have a chance of dropping a $(item)Slate Ampoule$() - or more, if they're hearty enough."
+    },
+    {
+      "type": "spotlight",
+      "item": "bloodmagic:slate_ampoule",
+      "title": "安瓿石板",
+      "text": "當靠近$(l:bloodmagic:altar/blood_altar)血之祭壇$()時，這些令人愉快的小瓶可以被壓碎，以便將$(blood)500 LP$()轉移到其中，在此過程中摧毀$(item)安瓿$()。這些增益不受可能擁有的任何$(item)符文$()的影響。"
+    }
+  ]
+}
