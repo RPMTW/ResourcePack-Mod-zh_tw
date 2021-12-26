@@ -1,0 +1,21 @@
+{
+  "name": "收割機",
+  "icon": "industrialforegoing:plant_gatherer",
+  "category": "agriculture_husbandry",
+  "sortnum": 1,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "用來$(6)收割$()作物或$(6)砍伐$()樹木的機器，每次進行都會產生小量的汙泥在機器內。$(br2)如果收割機在砍伐一棵位在工作範圍內的樹，那它將會持續砍伐與樹底相接的其他樹葉或原木。"
+    },
+    {
+      "type": "text",
+      "text": "收割機在採收時會破壞作物，即便那些作物僅需點擊右鍵就能採收。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:plant_gatherer"
+    }
+  ]
+}
