@@ -10,7 +10,7 @@
     "riskyblocks": "Enable Risky Blocks",
     "riskyblocks.tooltip": "Enables using blocks that might crash/lag the game if used to replace another block. Enable at your own risk.",
     "dimension_list": "Dimension List",
-    "dimension_list.tooltip": "This is the Dimension Block/Allowlist. If it contains *, it is a blocklist. Otherwise, it is an allowlist.",
+    "dimension_list.tooltip": "This is the Dimension Black/Whitelist. If it contains *, it is a blacklist. Otherwise, it is a whitelist.",
     "replacepercent": "Replacement Percentage",
     "replacepercent.tooltip": "What percentage of blocks get replaced",
     "multiplychance": "Multiply Removal Chance",
