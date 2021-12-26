@@ -1,0 +1,19 @@
+{
+  "name": "風之印記",
+  "icon": "bloodmagic:airsigil",
+  "category": "bloodmagic:alchemy_array/sigil",
+  "pages": [
+    {
+      "type": "text",
+      "text": "將你拋向你所面對的方向，每次使用消耗 50 LP。需要注意的是，印記不會提供任何的緩降效果，所以在著陸時務必小心！總的來說，風之印記可以大大加快四處跑動的速度，但你卻也因此需要承擔一定的風險。有許多對我們的提醒不上心的巫師，他們在郊野使用印記並飛到了很高的地方，但在此過程中耗盡了自己$(l:bloodmagic:altar/soul_network)靈魂網路$()中的 LP，最後只能眼睜睜地看著自己死亡。"
+    },
+    {
+      "type": "crafting_2-step_sigil",
+      "alchemy_table.heading": "風之試劑",
+      "alchemy_table.recipe": "bloodmagic:alchemytable/reagent_air",
+      "array.heading": "風之印記",
+      "array.recipe": "bloodmagic:array/airsigil",
+      "array.text": "$(italic)輕飄飄的了……"
+    }
+  ]
+}
