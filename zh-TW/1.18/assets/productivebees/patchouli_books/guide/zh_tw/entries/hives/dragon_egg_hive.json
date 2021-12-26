@@ -1,0 +1,22 @@
+{
+    "name": "龍蛋蜂箱",
+    "icon": "productivebees:dragon_egg_hive",
+    "category": "productivebees:hives",
+    "sortnum": 4,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "productivebees:dragon_egg_hive",
+            "text": "為龍族蜂製作的特殊蜂巢，可讓使用者收穫原本難以獲得的龍蜂蜂巢。龍蜂自然生活在黑曜石巢穴中，但也會生活在挖空的龍蛋中。"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "productivebees:hives/dragon_egg_hive",
+            "text": "你可以用剩菜做一個令人滿意的煎蛋捲"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "生活在終界的龍蛋蜂箱中的龍族蜂不需要花，因為它們從空氣中吸收龍之精華。在任何其他地點活動時，龍族蜂必須有另一個授粉來源。$(br2)龍蛋蜂箱不支援升級"
+        }
+    ]
+}
