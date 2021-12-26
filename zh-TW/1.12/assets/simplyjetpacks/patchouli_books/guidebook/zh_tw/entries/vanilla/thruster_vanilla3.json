@@ -1,0 +1,17 @@
+{
+  "name": "Diamond Thruster",
+  "icon": "simplyjetpacks:thruster_vanilla3",
+  "category": "simplyjetpacks:vanilla",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "This is the Diamond Thruster"
+    },
+    {
+      "type": "crafting",
+      "recipe": "simplyjetpacks:vanilla/thruster_vanilla3",
+      "text": "This is a test entry, but it should show up!"
+    }
+  ]
+}
