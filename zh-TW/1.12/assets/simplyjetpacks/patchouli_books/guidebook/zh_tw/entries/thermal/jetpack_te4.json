@@ -1,0 +1,18 @@
+{
+  "name": "Resonant Jetpack",
+  "icon": "simplyjetpacks:jetpack_te4",
+  "category": "simplyjetpacks:thermal",
+  "flag": "mod:thermal",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "This is the ResonantJetpack. The jetpack can become armored by applying the plating."
+    },
+    {
+      "type": "crafting",
+      "recipe": "simplyjetpacks:te/jetpack_te4",
+      "recipe2": "simplyjetpacks:te/jetpack_te4_armored"
+    }
+  ]
+}
