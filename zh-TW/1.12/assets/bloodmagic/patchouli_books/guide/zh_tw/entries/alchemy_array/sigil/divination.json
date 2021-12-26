@@ -1,0 +1,39 @@
+{
+  "name": "占卜印記",
+  "icon": "bloodmagic:divinationsigil",
+  "category": "bloodmagic:alchemy_array/sigil",
+  "pages": [
+    {
+      "type": "text",
+      "text": "在血魔法的眾多印記中，$(item)占卜印記$()也許是你最先想要製作出來的印記。若想製作出這一印記，你需要先畫出一個$(l:bloodmagic:alchemy_array/functional_arrays/arcane_ash)煉金矩陣$(/l)，並依序放入基底物$(item)紅石粉$()，催化劑$(item)空白石板$()。"
+    },
+    {
+      "type": "crafting_array",
+      "heading": "占卜印記",
+      "recipe": "bloodmagic:array/divinationsigil",
+      "text": " $(italic)窺探靈魂。"
+    },
+    {
+      "type": "image",
+      "images": [
+        "bloodmagic:images/entries/sigil/divination_sigil.png"
+      ],
+      "title": "占卜印記矩陣",
+      "border": true,
+      "text": "占卜印記，旁邊的是它的合成矩陣。"
+    },
+    {
+      "type": "text",
+      "text": "占卜印記有兩種主要用途：$(br)$(li)當玩家手持印記對準空氣右擊，印記會顯示出你$(l:bloodmagic:altar/soul_network)靈魂網路$(/l)中的 LP 量。$(li)若是對著$(l:bloodmagic:altar/blood_altar)血之祭壇$(/l)右擊，它會告訴玩家祭壇的目前等級、所含 LP 量以及 LP 最大儲存量。手持$(item)占卜印記$()，它還能在你使用其他方塊時助你一臂之力，但具體細節此處按下不表。"
+    },
+    {
+      "type": "image",
+      "images": [
+        "bloodmagic:images/entries/sigil/divination_sigil_info.png"
+      ],
+      "title": "Divination's Sigil Display",
+      "border": true,
+      "text": "The Divination Sigil displays this HUD when you are looking at a Blood Altar."
+    }
+  ]
+}
