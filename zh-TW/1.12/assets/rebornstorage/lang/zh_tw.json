@@ -20,5 +20,10 @@
     "tile.rebornstorage.multicrafter.frame.name": "合成器框架",
     "tile.rebornstorage.multicrafter.cpu.name": "合成器CPU",
     "tile.rebornstorage.multicrafter.storage.name": "合成器儲存",
-    "tile.rebornstorage.multicrafter.io.name": "IO埠"
+    "tile.rebornstorage.multicrafter.io.name": "IO埠",
+    "item.rebornstorage.storagecellfluid.256k.name": "256k Storage Disk Fluid",
+    "item.rebornstorage.storagecellfluid.1024k.name": "1024k Storage Disk Fluid",
+    "item.rebornstorage.storagecellfluid.4096k.name": "4096k Storage Disk Fluid",
+    "item.rebornstorage.storagepart.1024k_fluid.name": "1024k Fluid Storage Part",
+    "item.rebornstorage.storagepart.4096k_fluid.name": "4096k Fluid Storage Part"
 }
