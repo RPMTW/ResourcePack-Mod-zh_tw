@@ -1,0 +1,18 @@
+{
+  "name": "Hardened Thruster",
+  "icon": "simplyjetpacks:thruster_te2",
+  "category": "simplyjetpacks:thermal",
+  "flag": "mod:thermal",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "This is the Hardened Thruster"
+    },
+    {
+      "type": "crafting",
+      "recipe": "simplyjetpacks:te/thruster_te2",
+      "text": "This is a test entry, but it should show up!"
+    }
+  ]
+}
