@@ -76,7 +76,7 @@
     "mclib.config.appearance.user_interface_scale": "GUI 尺寸",
     "mclib.config.comments.appearance.user_interface_scale": "McHorse 的模組的 GUI 尺寸，代替影片設定中的介面尺寸。若設為 0，則會使用 Minecraft 的介面尺寸設定",
     "mclib.config.appearance.tooltip_style": "工具提示樣式",
-    "mclib.config.comments.appearance.tooltip_style": "該選項用於變更 GUI 工具提示的樣式",
+    "mclib.config.comments.appearance.tooltip_style": "This option allows to change GUI tooltip style",
     "mclib.config.tutorials.title": "教學選項",
     "mclib.config.tutorials.tooltip": "該分類提供了利於製作教學影片的選項",
     "mclib.config.tutorials.enable_mouse_rendering": "游標游標",
@@ -216,5 +216,7 @@
     "mclib.keystrokes_position.top_right": "右上",
     "mclib.keystrokes_position.top_left": "左上",
     "mclib.tooltip_style.light": "淺色",
-    "mclib.tooltip_style.dark": "深色"
+    "mclib.tooltip_style.dark": "深色",
+    "mclib.config.appearance.trackpad_decimal_places": "Trackpad decimal places",
+    "mclib.config.comments.appearance.trackpad_decimal_places": "Set how many decimal places should not be rounded"
 }
