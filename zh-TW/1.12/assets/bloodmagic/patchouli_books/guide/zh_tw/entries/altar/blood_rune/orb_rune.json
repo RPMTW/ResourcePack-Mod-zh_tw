@@ -1,0 +1,15 @@
+{
+  "name": "寶珠符文",
+  "icon": "bloodmagic:orbcapacityrune",
+  "category": "bloodmagic:altar/blood_rune",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(item)寶珠符文$()可以提升在祭壇內的$(item)血之寶珠$()的容量，每個符文增加 2% 的容量。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "bloodmagic:blood_rune_orb"
+    }
+  ]
+}
