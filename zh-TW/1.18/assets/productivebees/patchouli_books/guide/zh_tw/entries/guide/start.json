@@ -1,0 +1,27 @@
+{
+    "name": "入門",
+    "icon": "minecraft:writable_book",
+    "category": "productivebees:guide",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "生產蜜蜂模組是建立在原版的蜜蜂養殖上， 本手冊假定讀者對原版的蜜蜂系統已有一些了解。"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "除了原版蜜蜂，您還會遇到一系列新的蜜蜂，牠們生活在世界各地不同生態域的隱蔽$(l:hives/nests)蜂窩$(/l)中。這些蜜蜂是孤獨的，這意味著牠們不會生活在蜂箱中。然而，牠們的基因允許繁殖不同類型的蜜蜂，而且牠們看起來很酷。"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "您需要找到的第一件事是原版蜂窩，以獲得一些蜂蜜瓶和蜂巢。需要蜂蜜瓶來合成$(l:items/bee_cage)蜂籠$(/l)，這樣可以更輕鬆地將蜜蜂運送到您的家中。"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "一旦你收集了足夠多的蜂巢，為自己建造一個$(l:hives/advanced_hives)高級蜂箱$(/l)和一個 $(l:hives/expansion_boxes)擴充盒$(/l)。$(l:hives/advanced_hives)高級蜂箱$(/l)允許您查看內部並密切關注您的蜜蜂及其生產的產品。"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "有些蜜蜂只能在其他空間發現或透過繁殖獲得。使用 JEI 查找繁殖配方，以便您知道需要找到哪些蜜蜂。"
+        }
+    ]
+}
