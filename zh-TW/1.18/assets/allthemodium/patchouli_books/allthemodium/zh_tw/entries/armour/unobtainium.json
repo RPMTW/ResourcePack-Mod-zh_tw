@@ -1,0 +1,22 @@
+{
+    "name": "難得素盔甲",
+    "icon": "allthemodium:unobtainium_chestplate",
+    "category": "allthemodium:armour",
+    "sortnum": "3",
+    "pages": [
+        {
+            "type": "text",
+            "text": "難得素盔甲具有與汎金屬盔甲相同的所有屬性，但顯著增加了盔甲、盔甲強度和擊退抗性，它還增加了：$(li)免疫界伏蚌懸浮效果"
+        },
+        {
+            "type": "crafting",
+            "recipe": "allthemodium:main/unobtainium_helmet",
+            "recipe2": "allthemodium:main/unobtainium_chestplate"
+        },
+        {
+            "type": "crafting",
+            "recipe": "allthemodium:main/unobtainium_leggings",
+            "recipe2": "allthemodium:main/unobtainium_boots"
+        }
+    ]
+}
