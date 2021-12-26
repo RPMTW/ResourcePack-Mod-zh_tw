@@ -1,0 +1,57 @@
+{
+    "name": "通用機械",
+    "icon": "mekanism:energy_tablet",
+    "read_by_default": true,
+    "sortnum": 8,
+    "category": "productivebees:bees_modded",
+    "flag": "mod:mekanism",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "專用於《通用機械》（Mekanism）模組金屬的蜜蜂。僅顯示於特殊金屬的蜜蜂，對於普通的金屬像銅蜂和錫蜂請看$(l:bees/modded/ingot_bees)所有金屬錠蜜蜂列表$(/l)"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        },
+        {
+            "type": "patchouli:text",
+            "title": "鋨蜂",
+            "text": "由$(l:bees/hive/iron)鐵礦蜂$(/l)和$(l:bees/solitary/neon_cuckoo)霓虹杜鵑蜂$(/l)配種而得。$(br)需安裝模組： Mekanism",
+            "anchor": "osmium",
+            "flag": "productivebees:osmium"
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "鋨蜂",
+            "entity": "productivebees:configurable_bee{type:'productivebees:osmium'}",
+            "flag": "productivebees:osmium"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "強化螢光石蜂",
+            "text": "由$(l:bees/modded/mekanism#osmium)鋨蜂$(/l)和$(l:bees/wild/glowing)螢光石蜂$(/l)配種而得。$(br)需安裝模組：《通用機械》（Mekanism）",
+            "anchor": "refined_glowstone",
+            "flag": "productivebees:refined_glowstone"
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "強化螢光石蜂",
+            "entity": "productivebees:configurable_bee{type:'productivebees:refined_glowstone'}",
+            "flag": "productivebees:refined_glowstone"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "強化黑曜石蜂",
+            "text": "由$(l:bees/modded/mekanism#osmium)鋨蜂$(/l)和$(l:bees/hive/obsidian)黑曜石蜂$(/l)配種而得。$(br)需安裝模組：《通用機械》（Mekanism）",
+            "anchor": "refined_obsidian",
+            "flag": "productivebees:refined_obsidian"
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "強化黑曜石蜂",
+            "entity": "productivebees:configurable_bee{type:'productivebees:refined_obsidian'}",
+            "flag": "productivebees:refined_obsidian"
+        }
+    ]
+}
