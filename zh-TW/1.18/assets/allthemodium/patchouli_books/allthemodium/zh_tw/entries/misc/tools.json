@@ -1,0 +1,27 @@
+{
+    "name": "ATM金屬工具",
+    "icon": "allthemodium:alloy_paxel",
+    "category": "allthemodium:misc",
+    "sortnum": "1",
+    "pages": [
+        {
+            "type": "text",
+            "text": "ATM金屬包含多種工具，大多數都正常工作，但鎬具有一些獨特的功能。"
+        },
+        {
+            "type": "crafting",
+            "recipe": "allthemodium:main/alloy_paxel",
+            "text": "鎬有一些獨特的用途$(li)製作草徑$(li)剝皮原木$(li)從黑曜石製作哭泣的黑曜石"
+        },
+        {
+            "type": "crafting",
+            "recipe": "allthemodium:main/alloy_pick",
+            "recipe2": "allthemodium:main/alloy_shovel"
+        },
+        {
+            "type": "crafting",
+            "recipe": "allthemodium:main/alloy_sword",
+            "recipe2": "allthemodium:main/alloy_axe"
+        }
+    ]
+}
