@@ -1,0 +1,18 @@
+{
+    "name": "伐木蜂",
+    "icon": "minecraft:wooden_axe",
+    "read_by_default": true,
+    "sortnum": 3,
+    "category": "productivebees:bees_worker",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "title": "伐木蜂",
+            "text": "啃食附近的木頭並在蜂巢中收集木屑。 木片可以製作成原木。"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "productivebees:lumber_bee"
+        }
+    ]
+}
