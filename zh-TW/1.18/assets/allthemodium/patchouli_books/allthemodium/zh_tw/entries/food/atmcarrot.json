@@ -1,0 +1,16 @@
+{
+    "name": "ATM胡蘿蔔",
+    "icon": "allthemodium:allthemodium_carrot",
+    "category": "allthemodium:food",
+    "pages": [
+        {
+            "type": "crafting",
+            "recipe": "allthemodium:main/allthemodium_carrot",
+            "title": "ATM胡蘿蔔"
+        },
+        {
+            "type": "text",
+            "text": "ATM胡蘿蔔恢復 40 飢餓值和 320 飽和度。胡蘿蔔有以下效果：$(li)吃得更快$(li)總是能吃$(li)吸收X持續30秒$(li)再生X持續30秒"
+        }
+    ]
+}
