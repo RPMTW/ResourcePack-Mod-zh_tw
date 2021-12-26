@@ -83,5 +83,7 @@
     "subtitles.debuff.heartbeat": "心跳",
     "gui.next_heal": "下一次恢復：%s秒",
     "firstaid.specificarmor": "+ %s 點特定位置護甲值",
-    "firstaid.specifictoughness": "+ %s 點特定位置盔甲強度"
+    "firstaid.specifictoughness": "+ %s 點特定位置盔甲強度",
+    "firstaid.config.enchantmenthandling": "Enchantment Handling",
+    "firstaid.config.enchantmenthandling.tooltip": "Specify how enchantments are applied"
 }
