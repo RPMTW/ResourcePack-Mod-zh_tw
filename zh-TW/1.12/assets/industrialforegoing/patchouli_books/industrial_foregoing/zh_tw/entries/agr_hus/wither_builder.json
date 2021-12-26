@@ -1,0 +1,16 @@
+{
+  "name": "凋靈生成器",
+  "icon": "industrialforegoing:wither_builder",
+  "category": "agriculture_husbandry",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "這台機器可以用來蓋出凋零怪，只要有能量供給，跟足夠的道具：$(6)3個凋零骷髏頭顱$()和$(6)4個靈魂沙$()，它就會自動地在工作範圍內蓋出召喚凋零怪的結構。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:wither_builder"
+    }
+  ]
+}
