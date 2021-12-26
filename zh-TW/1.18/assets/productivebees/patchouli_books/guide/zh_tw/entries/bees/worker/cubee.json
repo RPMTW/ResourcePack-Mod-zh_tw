@@ -1,0 +1,18 @@
+{
+    "name": "邱比特蜂",
+    "icon": "minecraft:arrow",
+    "read_by_default": true,
+    "sortnum": 7,
+    "category": "productivebees:bees_worker",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "title": "邱比特蜂",
+            "text": "這蜜蜂分泌的費洛蒙使動物的情緒舒暢。"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "productivebees:cupid_bee"
+        }
+    ]
+}
