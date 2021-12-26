@@ -307,5 +307,16 @@
     "commands.sophisticatedbackpacks.give.success": "Gave backpack to %s",
     "commands.sophisticatedbackpacks.remove_non_player.success": "Removed %s non player backpacks",
     "chat.sophisticatedbackpacks.backpack_uuid.tooltip": "Click to give backpack UUID: %s",
-    "fluid.sophisticatedbackpacks.xp_still": "Experience"
+    "fluid.sophisticatedbackpacks.xp_still": "Experience",
+    "gui.sophisticatedbackpacks.settings.item_display": "Item Disp.",
+    "gui.sophisticatedbackpacks.settings.item_display.tooltip": "Item Display Settings",
+    "gui.sophisticatedbackpacks.settings.item_display.tooltip_detail": "Allows selecting a slot that will be used to show its item on top of backpack model",
+    "gui.sophisticatedbackpacks.settings.item_display.tooltip_open_detail": "Allows selecting a slot that will be used to show its item on top of backpack model\nSelect slot = left click/drag\nUnselect slot = right click/drag",
+    "gui.sophisticatedbackpacks.upgrades.buttons.void_overflow": "Void Overflow",
+    "gui.sophisticatedbackpacks.upgrades.buttons.void_overflow.detail": "Allows single slot to be filled with the item\nand voids anything that overflows",
+    "gui.sophisticatedbackpacks.upgrades.buttons.void_any": "Void Any",
+    "gui.sophisticatedbackpacks.upgrades.buttons.mend_items": "Repair Items With Mending",
+    "gui.sophisticatedbackpacks.upgrades.buttons.do_not_mend_items": "Do Not Repair Items",
+    "gui.sophisticatedbackpacks.settings.buttons.rotate": "Rotate",
+    "gui.sophisticatedbackpacks.settings.buttons.rotate_detail": "Clockwise = Left Click\nCounter-Clockwise = Right Click"
 }
