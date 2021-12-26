@@ -1,0 +1,32 @@
+{
+  "name": "先知印記",
+  "icon": "bloodmagic:seersigil",
+  "category": "bloodmagic:alchemy_array/sigil",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(item)先知印記$()是$(l:bloodmagic:alchemy_array/sigil/divination)占卜印記$()的進階版本。它不僅能夠先是與其綁定的玩家$(l:bloodmagic:altar/soul_network)靈魂網路$(/l)中的 LP 數值，還能在你看向$(l:bloodmagic:altar/blood_altar)血之祭壇$(/l)時提供更多的訊息。"
+    },
+    {
+      "type": "crafting_2-step_sigil",
+      "alchemy_table.heading": "視界試劑",
+      "alchemy_table.recipe": "bloodmagic:alchemytable/reagent_sight",
+      "array.heading": "先知印記",
+      "array.recipe": "bloodmagic:array/seersigil",
+      "array.text": "$(italic)當知曉一切並不足夠。"
+    },
+    {
+      "type": "text",
+      "text": "從上到下，訊息分別為：$(li)$(l:bloodmagic:altar/blood_altar)血之祭壇$(/l)的目前等級。$(li)祭壇中儲存的血液數量，以及目前祭壇的容量上限。（一般來說，祭壇的上限一般為 10,000 點，但是你可以使用$(l:bloodmagic:altar/blood_rune/capacity_rune)增容符文$()和$(l:bloodmagic:altar/blood_rune/aug_capacity_rune)超容符文$()增加它的上限。$(li)如果其中有正在進行的合成，會顯示出合成進度。$(li)LP 消耗量/Tick - 合成中的祭壇的每 tick LP 消耗數量。$(li)儲存在目前結構中$(l:bloodmagic:altar/blood_rune/charging_rune)充能符文$()中的 LP。"
+    },
+    {
+      "type": "image",
+      "images": [
+        "bloodmagic:images/entries/sigil/seer_sigil_info.png"
+      ],
+      "title": "先知符文顯示",
+      "border": true,
+      "text": "當你看向血之祭壇時，先知符文會顯示出此 HUD。"
+    }
+  ]
+}
