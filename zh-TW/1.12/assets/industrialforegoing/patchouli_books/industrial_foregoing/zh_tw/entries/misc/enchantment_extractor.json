@@ -1,0 +1,17 @@
+{
+  "name": "附魔提取機",
+  "icon": "industrialforegoing:enchantment_extractor",
+  "category": "misc",
+  "sortnum": 4,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "放入書時，該機器可以從物品中提取附魔。$(br2)它有2種模式，將附魔提取到書中，或者它可以提取附魔並將其轉化為$(l:agr_husb/essence)精華液$()。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:enchantment_extractor"
+    }
+  ]
+}
