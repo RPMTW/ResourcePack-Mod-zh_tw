@@ -1,0 +1,187 @@
+{
+    "name": "匠魂",
+    "icon": "tconstruct:casting_table",
+    "read_by_default": true,
+    "sortnum": 8,
+    "category": "productivebees:bees_modded",
+    "flag": "mod:tconstruct",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "專用於匠魂模組金屬的蜜蜂。這種蜜蜂是在澆注台將金屬注入到生怪蛋裡獲得"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        },
+        {
+            "type": "patchouli:text",
+            "title": "終界史萊姆蜂",
+            "text": "這個蜜蜂不能配種而得。其生怪蛋製作從$(l:bees/wild/slimy)史萊姆蜂$(/l)生怪蛋在澆注台使用。",
+            "anchor": "ender_slimy",
+            "flag": "productivebees:ender_slimy"
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "終界史萊姆蜂",
+            "entity": "productivebees:configurable_bee{type:'productivebees:ender_slimy'}",
+            "flag": "productivebees:ender_slimy"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "靈漿蜂",
+            "text": "這個蜜蜂不能配種而得。其生怪蛋製作從$(l:bees/wild/slimy)史萊姆蜂$(/l)生怪蛋在澆注台使用。",
+            "anchor": "ichor_slimy",
+            "flag": "productivebees:ichor_slimy"
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "靈漿蜂",
+            "entity": "productivebees:configurable_bee{type:'productivebees:ichor_slimy'}",
+            "flag": "productivebees:ichor_slimy"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "天空史萊姆蜂",
+            "text": "這個蜜蜂不能被配種而得。其生怪蛋製作從$(l:bees/wild/slimy)史萊姆蜂$(/l)生怪蛋在澆注台使用。",
+            "anchor": "sky_slimy",
+            "flag": "productivebees:sky_slimy"
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "天空史萊姆蜂",
+            "entity": "productivebees:configurable_bee{type:'productivebees:sky_slimy'}",
+            "flag": "productivebees:sky_slimy"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "鈷蜂",
+            "text": "這個蜜蜂不能被配種而得。其生怪蛋製作從$(l:bees/hive/iron)鐵蜂$(/l)生怪蛋在澆注台使用。",
+            "anchor": "cobalt",
+            "flag": "productivebees:cobalt"
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "鈷蜂",
+            "entity": "productivebees:configurable_bee{type:'productivebees:cobalt'}",
+            "flag": "productivebees:cobalt"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "魂晶蜂",
+            "text": "這個蜜蜂不能被配種而得。其生怪蛋製作從$(l:bees/hive/obsidian)黑曜石蜂$(/l)生怪蛋在澆注台使用。",
+            "anchor": "hepatizon",
+            "flag": "productivebees:hepatizon"
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "魂晶蜂",
+            "entity": "productivebees:configurable_bee{type:'productivebees:hepatizon'}",
+            "flag": "productivebees:hepatizon"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "騎士史萊姆蜂",
+            "text": "這個蜜蜂不能被配種而得。其生怪蛋製作從$(l:bees/hive/iron)鐵蜂$(/l)生怪蛋在澆注台使用。",
+            "anchor": "knightslime",
+            "flag": "productivebees:knightslime"
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "騎士史萊姆蜂",
+            "entity": "productivebees:configurable_bee{type:'productivebees:knightslime'}",
+            "flag": "productivebees:knightslime"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "瑪玉靈蜂",
+            "text": "這個蜜蜂不能被配種而得。其生怪蛋製從$(l:bees/hive/netherite)遠古蜂$(/l)生怪蛋在澆注台使用。",
+            "anchor": "manyullyn",
+            "flag": "productivebees:manyullyn"
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "瑪玉靈蜂",
+            "entity": "productivebees:configurable_bee{type:'productivebees:manyullyn'}",
+            "flag": "productivebees:manyullyn"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "生鐵蜂",
+            "text": "這個蜜蜂不能被配種而得。其生怪蛋製作從$(l:bees/hive/iron)鐵蜂$(/l)生怪蛋在澆注台使用。",
+            "anchor": "pig_iron",
+            "flag": "productivebees:pig_iron"
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "生鐵蜂",
+            "entity": "productivebees:configurable_bee{type:'productivebees:pig_iron'}",
+            "flag": "productivebees:pig_iron"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "皇后史萊姆蜂",
+            "text": "這個蜜蜂不能被配種而得。其生怪蛋製作從$(l:bees/hive/gold)黃金蜂$(/l)生怪蛋在澆注台使用。",
+            "anchor": "queens_slime",
+            "flag": "productivebees:queens_slime"
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "皇后史萊姆蜂",
+            "entity": "productivebees:configurable_bee{type:'productivebees:queens_slime'}",
+            "flag": "productivebees:queens_slime"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "玫瑰金蜂",
+            "text": "這個蜜蜂不能被配種而得。其生怪蛋製作從$(l:bees/hive/gold)黃金蜂$(/l)生怪蛋在澆注台使用。",
+            "anchor": "rose_gold",
+            "flag": "productivebees:rose_gold"
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "玫瑰金蜂",
+            "entity": "productivebees:configurable_bee{type:'productivebees:rose_gold'}",
+            "flag": "productivebees:rose_gold"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "史萊姆鋼蜂",
+            "text": "這個蜜蜂不能被配種而得。其生怪蛋製作從$(l:bees/hive/iron)鐵蜂$(/l)生怪蛋在澆注台使用。",
+            "anchor": "slimesteel",
+            "flag": "productivebees:slimesteel"
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "史萊姆鋼蜂",
+            "entity": "productivebees:configurable_bee{type:'productivebees:slimesteel'}",
+            "flag": "productivebees:slimesteel"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "魂鋼蜂",
+            "text": "這個蜜蜂不能被配種而得。其生怪蛋製作從$(l:bees/modded/tconstruct#cobalt)鈷蜂$(/l)生怪蛋在澆注台使用。",
+            "anchor": "soulsteel",
+            "flag": "productivebees:soulsteel"
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "魂鋼蜂",
+            "entity": "productivebees:configurable_bee{type:'productivebees:soulsteel'}",
+            "flag": "productivebees:soulsteel"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "匠魂青銅蜂",
+            "text": "這個蜜蜂不能被配種而得。其生怪蛋製作從$(l:bees/modded/ingot_bees#copper)銅蜂$(/l)生怪蛋在澆注台使用。",
+            "anchor": "tinkers_bronze",
+            "flag": "productivebees:tinkers_bronze"
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "匠魂青銅蜂",
+            "entity": "productivebees:configurable_bee{type:'productivebees:tinkers_bronze'}",
+            "flag": "productivebees:tinkers_bronze"
+        }
+    ]
+}
