@@ -1,0 +1,49 @@
+{
+  "name": "束靈裝備基礎",
+  "icon": "bloodmagic:reagentbinding",
+  "category": "bloodmagic:alchemy_array/living_equipment",
+  "extra_recipe_mappings": [
+    [
+      "bloodmagic:reagentbinding",
+      1
+    ],
+    [
+      "bloodmagic:livinghelmet",
+      3
+    ],
+    [
+      "bloodmagic:livingplate",
+      3
+    ],
+    [
+      "bloodmagic:livingleggings",
+      3
+    ],
+    [
+      "bloodmagic:livingboots",
+      3
+    ]
+  ],
+  "pages": [
+    {
+      "type": "text",
+      "text": "想要製作出$(item)束靈裝備$()，首先，你需要準備一套$(item)鐵製盔甲（armor）$()『或者說$(item)鐵製盔甲（Armour）$()，如果你更喜歡這種說法的話』，一些$(l:bloodmagic:alchemy_array/functional_arrays/arcane_ash)奧術粉灰$()，以及一些$(item)束縛試劑$()。並且，你還得準備一顆$(br)$(l:bloodmagic:demon_will/soul_gem)普通地獄魂石$()，因為只有普通及以上等級的魂石方可容納足量的$(item)惡魔意志$()。"
+    },
+    {
+      "type": "crafting_alchemy_table",
+      "heading": "束縛試劑",
+      "recipe": "bloodmagic:alchemytable/reagent_binding",
+      "text": "$(italic)它緊緊地黏附於我身上……$()"
+    },
+    {
+      "type": "text",
+      "text": "與其他煉金矩陣類似，手持$(item)奧術粉灰$()，面對方塊按下[$(k:use)]，然後再向其中投入$(item)束縛試劑$()。接著，放入你的$(item)鐵頭盔$()，$(item)鐵胸甲$()，$(item)鐵護腿$()或者$(item)鐵靴子$()，放入後向後退幾步，靜靜觀看煉金矩陣工作吧。$(br2)束靈裝備在鍛造之初與鐵製盔甲無甚區別，但它擁有$(thing)強化點數$()，謹慎地消耗這些點數，你可以以特定的方式增強束靈裝備。它們的初始強化點數上限為 100，但是你可以透過某些方式，使得裝備的強化點數超過其上限……"
+    },
+    {
+      "type": "crafting_array",
+      "heading": "束縛儀式",
+      "recipe": "bloodmagic:array/living_helmet",
+      "text": "哎，它是活的……而且它還在以我為範本不斷地進行學習。我最好小心一些，別亂教東西給它。$(br2)當我看向它時，我可以按住 [$(k:sneak)] 鍵近距離觀察它，看看它目前到底學習了啥玩意。"
+    }
+  ]
+}
