@@ -1,0 +1,20 @@
+{
+  "name": "Creative Jetpack",
+  "icon": "simplyjetpacks:jetpack_creative",
+  "category": "simplyjetpacks:simplyjetpacks",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "This is the Creative Jetpack. It is only available in Creative Mode and cannot be crafted."
+    },
+    {
+      "type": "spotlight",
+      "item": "simplyjetpacks:jetpack_creative"
+    },
+    {
+      "type": "spotlight",
+      "item": "simplyjetpacks:jetpack_creative_armored"
+    }
+  ]
+}
