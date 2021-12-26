@@ -15,7 +15,7 @@
         },
         {
             "type": "text",
-            "text": "Only valid coils can be placed inside the Turbine, around it's Rotor shaft. Invalid blocks will prevent the Turbine multiblock from forming."
+            "text": "Only valid coils can be placed inside the Turbine, around it's Rotor shaft. Invalid blocks will prevent the Turbine multiblock from forming.$(br2)Blocks that can be used as Inductor Coils are marked with a special tooltip that you can see if you want to spoiler yourself and you have enabled the $(italic)Advanced Tooltips$() feature of Minecraft (F3 + H)."
         }
     ]
 }
