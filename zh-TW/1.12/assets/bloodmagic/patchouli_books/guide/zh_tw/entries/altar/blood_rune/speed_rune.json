@@ -1,0 +1,15 @@
+{
+  "name": "速度符文",
+  "icon": "bloodmagic:speedrune",
+  "category": "bloodmagic:altar/blood_rune",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(item)速度符文$()可以增加血之祭壇所有合成的合成速度。每個符文疊加 20% 的合成速度（以及當祭壇空置時的進度丟失速度）。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "bloodmagic:blood_rune_speed"
+    }
+  ]
+}
