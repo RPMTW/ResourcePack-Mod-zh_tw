@@ -1,0 +1,15 @@
+{
+  "name": "獻祭符文",
+  "icon": "bloodmagic:sacrificerune",
+  "category": "bloodmagic:altar/blood_rune",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(item)獻祭符文$()可以提升血之祭壇透過某些方法從非玩家實體身上取得$(blood)生命源質$()的取得量。每個符文疊加 10% 的增加量。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "bloodmagic:blood_rune_sacrifice"
+    }
+  ]
+}
