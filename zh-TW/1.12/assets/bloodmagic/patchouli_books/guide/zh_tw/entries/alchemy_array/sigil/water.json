@@ -1,0 +1,35 @@
+{
+  "name": "水之印記",
+  "icon": "bloodmagic:watersigil",
+  "category": "bloodmagic:alchemy_array/sigil",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(item)水之印記$()的功用很簡單。對準一個方塊按下 [$(k:use)] 後，它就會從你的$(l:bloodmagic:altar/soul_network)靈魂網路$(/l)中抽取 100 LP，並在世界中放置一個水源方塊。如果 LP 不足，它便會轉而抽取你的生命值。在煉金矩陣中放入$(item)水之試劑$()以及$(item)空白石板$()便可製成。"
+    },
+    {
+      "type": "crafting_2-step_sigil",
+      "alchemy_table.heading": "水之試劑",
+      "alchemy_table.recipe": "bloodmagic:alchemytable/reagent_water",
+      "array.heading": "水之印記",
+      "array.recipe": "bloodmagic:array/watersigil",
+      "array.text": "$(italic)無限水，有人要來點嗎？"
+    },
+    {
+      "type": "image",
+      "images": [
+        "bloodmagic:images/entries/sigil/water_sigil1.png",
+        "bloodmagic:images/entries/sigil/water_sigil2.png"
+      ],
+      "title": "水之試劑矩陣",
+      "border": true,
+      "text": "水之試劑，旁邊的是它的合成矩陣，還有它的主要用途。"
+    },
+    {
+      "type": "crafting_alchemy_table",
+      "heading": "Water Bucket",
+      "recipe": "bloodmagic:alchemytable/sigil_water_bucket",
+      "text": "What's more, it can be used in the $(l:bloodmagic:alchemy_table/alchemy_table)Alchemy Table$() to automate the production of $(water)Water Buckets$(). The Sigil is not consumed in this recipe."
+    }
+  ]
+}
