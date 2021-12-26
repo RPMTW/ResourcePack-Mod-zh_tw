@@ -1,0 +1,15 @@
+{
+  "name": "轉位符文",
+  "icon": "bloodmagic:dislocationrune",
+  "category": "bloodmagic:altar/blood_rune",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(item)轉位符文$()可以提升在祭壇與外部進行交換時的$(blood)生命源質$()流動速度，例如泵抽取祭壇內源質，或是從外部儲罐中填充源質。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "bloodmagic:blood_rune_displacement"
+    }
+  ]
+}
