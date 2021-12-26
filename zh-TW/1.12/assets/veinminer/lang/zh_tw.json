@@ -1,5 +1,5 @@
 {
-    "command.veinminer": "/veinminer mode/blocklist/toollist/blocklimit/radius/per_tick/saveconfig/help",
+    "command.veinminer": "/veinminer mode/blocklist/toollist/blocklimit/radius/per_tick/saveconfig/reloadconfig/help",
     "command.veinminer.enable": "/veinminer mode auto/sneak/no_sneak",
     "command.veinminer.blocklist": "/veinminer blocklist %s add/remove <模組 id>:<方塊名稱> <元數據>",
     "command.veinminer.toollist": "/veinminer toollist %s add/remove <工具id>",
@@ -34,7 +34,7 @@
     "mod.veinminer.preferredmode.nosneak": "VeinMiner正使用非潛行模式。",
     "mod.veinminer.finished.tooHungry": "你的飢餓值不足以使用VeinMiner。",
     "mod.veinminer.finished.noExp": "你的經驗值不足以使用VeinMiner。",
-    "veinminer.key.category": "VeinMiner",
+    "veinminer.key.category": "Vein Miner",
     "veinminer.key.enable": "啟用VeinMiner",
     "command.veinminer.help1": "可用指令參數：",
     "command.veinminer.help2": "「mode」：切換VeinMiner模式",
