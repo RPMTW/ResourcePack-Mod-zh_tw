@@ -1,0 +1,13 @@
+{
+  "name": "肉醬桶",
+  "icon": "industrialforegoing:meat_bucket",
+  "category": "agriculture_husbandry",
+  "sortnum": 10,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(l:agr_hus/mob_slaughter_factory)屠宰場$()所產出的一種液體。"
+    }
+  ]
+}
