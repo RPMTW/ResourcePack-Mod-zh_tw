@@ -1,0 +1,18 @@
+{
+  "name": "Leadstone Jetpack",
+  "icon": "simplyjetpacks:jetpack_te1",
+  "category": "simplyjetpacks:thermal",
+  "flag": "mod:thermal",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "This is the LeadstoneJetpack. The jetpack can become armored by applying the plating."
+    },
+    {
+      "type": "crafting",
+      "recipe": "simplyjetpacks:te/jetpack_te1",
+      "recipe2": "simplyjetpacks:te/jetpack_te1_armored"
+    }
+  ]
+}
