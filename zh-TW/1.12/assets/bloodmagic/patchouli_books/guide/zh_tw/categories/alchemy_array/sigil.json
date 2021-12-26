@@ -1,0 +1,7 @@
+{
+  "name": "印記",
+  "description": "透過$(l:bloodmagic:alchemy_array/functional_arrays/crafting_array)煉金儀式$()，你可以製作出$(item)印記$()，耗材為一些$(item)試劑$()以及一塊$(l:bloodmagic:altar/slates)石板$()。儀式會從你的$(l:bloodmagic:altar/soul_network)靈魂網路$()中汲取 LP。若無 LP，儀式便無法實現其各種有用的功能。",
+  "icon": "bloodmagic:divinationsigil",
+  "parent": "bloodmagic:alchemy_array",
+  "sortnum": 1
+}
