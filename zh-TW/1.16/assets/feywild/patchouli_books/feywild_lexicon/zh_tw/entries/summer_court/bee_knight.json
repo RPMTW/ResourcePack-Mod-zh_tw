@@ -1,5 +1,5 @@
 {
-  "name": "Bee Knight",
+  "name": "蜜蜂騎士",
   "icon": "feywild:honeycomb",
   "category": "summer_court",
   "sortnum": 2,
@@ -7,8 +7,8 @@
     {
       "type": "spotlight",
       "item": "feywild:honeycomb",
-      "title": "Sacred Honey",
-      "text": "The Bee Knights patrol the Golden Seelie Fields, looking for anyone who tries to steal their sacred honey."
+      "title": "神聖的蜂蜜",
+      "text": "蜜蜂騎士在金色的田野巡邏，尋找任何試圖偷走他們神聖蜂蜜的人。."
     },
     {
       "type": "entity",
@@ -17,28 +17,28 @@
     },
     {
       "type": "image",
-      "title": "Bee Keep",
+      "title": "養蜂場",
       "images": [
         "feywild:textures/patchouli_images/bee_keep_book.png"
       ],
       "border": true,
-      "text": "Inspired by a building of Kelpie The Fox: https://www.youtube.com/watch?v=Cs-nHCvrOpg"
+      "text": "靈感來源於Kelpie的影片: https://www.youtube.com/watch?v=Cs-nHCvrOpg"
     },
     {
       "type": "spotlight",
       "item": "feywild:display_glass",
-      "title": "Bee Keep",
-      "text": "The best honey of the Summer Court is kept at the Bee Keep. The Bee Keep is protected by several Bee Knights. The Sacred Honey Comb is kept in a glass display. The display can be broken by left clicking it rapidly so it will break, and the golden treasure is yours."
+      "title": "養蜂場",
+      "text": "夏之森林裡最好的蜂蜜是在養蜂場裡釀製的。蜂窩由幾個蜂騎士保護。神聖的蜂窩放在一個玻璃陳列櫃裡。透過快速左鍵點擊畫面，可以將其打破，這樣它就會被打破，黃金寶藏就是你的了。"
     },
     {
       "type": "spotlight",
       "item": "feywild:summoning_scroll_bee_knight",
-      "title": "Summoning Winter Pixie",
-      "text": "With this scroll you can summon a Bee Knight. The Bee Knight will protect the area from other creatures interacting with it."
+      "title": "召喚蜜蜂騎士",
+      "text": "有了這個卷軸，你可以召喚一個蜜蜂騎士。蜜蜂騎士將保護該區域不受其他生物的影響."
     },
     {
       "type": "image",
-      "title": "Summoning Ingredients",
+      "title": "召喚配方",
       "images": [
         "feywild:textures/patchouli_images/bee_knight_summon_book.png"
       ],
