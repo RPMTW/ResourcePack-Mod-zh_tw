@@ -1,30 +1,30 @@
 {
   "advancement": "feywild:feywild/fey_dust",
-  "name": "Fey Ore",
+  "name": "精靈礦",
   "icon": "feywild:lesser_fey_gem",
   "category": "fey_gems",
   "pages": [
     {
       "type": "text",
-      "text": "Fey gems are very wanted by some creatures and wizards because it still contains some of the Fey's original magic."
+      "text": "一些生物和巫師非常需要精靈寶石，因為它仍然包含一些精靈的原始魔法."
     },
     {
       "type": "spotlight",
       "item": "feywild:fey_gem_block",
-      "title": "Fey Ore",
-      "text": "Be careful when mining the Fey ore. As it is fragile and putting too much pressure on the ore can lower the quality of the excavated Fey Gems."
+      "title": "精靈礦",
+      "text": "在開採精靈礦時要小心。因為精靈礦易碎，對礦施加太大壓力會降低挖掘出的精靈寶石的質量。."
     },
     {
       "type": "smelting",
-      "title": "Fey Dust",
+      "title": "精靈塵",
       "recipe": "feywild:fey_dust",
-      "text": "When a Fey passes into the next world, they leave behind a small amount of Fey Dust. Some believe the magical powder gives the power of flight to whoever it is sprinkled on."
+      "text": "當一隻精靈進入下一個世界時，它們會留下少量精靈塵。有些人相信這種神奇的粉末會給灑在身上的人帶來飛翔的力量。"
     },
     {
       "type": "spotlight",
       "item": "feywild:lesser_fey_gem",
-      "title": "Fey Gems",
-      "text": "The fey gems can vary in quality. Higher quality gems can but cut into lower quality gems. The knowledge on how to increase the quality of a fey gem is only known by the dwarves."
+      "title": "精靈寶石",
+      "text": "精靈寶石的質量各不相同。高質量的寶石只能切割成低質量的寶石。關於如何提高精靈寶石製量的知識只有矮人知道."
     }
   ]
 }
