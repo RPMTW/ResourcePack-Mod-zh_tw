@@ -1,48 +1,48 @@
 {
   "advancement": "feywild:feywild/fey_dust",
-  "name": "Dwarven Anvil",
+  "name": "矮人砧",
   "icon": "feywild:dwarven_anvil",
   "category": "dwarves",
   "pages": [
     {
       "type": "crafting",
       "recipe": "feywild:dwarven_anvil",
-      "title": "Dwarven Anvil",
-      "text": "Dwarves don't easily make friends with outsiders, but if you are one of the few who has earned the gratitude of a dwarf, you have a friend for life."
+      "title": "矮人砧",
+      "text": "矮人不容易與外人交朋友，但如果你是少數幾個贏得矮人感激的人之一，你就有了一個終生的朋友。"
     },
     {
       "type": "spotlight",
       "item": "feywild:summoning_scroll_dwarf_blacksmith",
-      "title": "Summoning Contract",
-      "text": "A summoning contract can be obtained by trading with dwarves (up to level 3). By shift-right clicking the dwarven anvil with the summoning scroll, you will bind a dwarf to that anvil."
+      "title": "傳喚卷軸",
+      "text": "召喚契約可以透過與矮人交易獲得（高達3級）。透過按住shift鍵並使用召喚卷軸右鍵點擊矮人鐵砧，可以將矮人綁定到該鐵砧上。"
     },
     {
       "type": "spotlight",
       "item": "feywild:dwarven_anvil",
-      "title": "Crafting",
-      "text": "The summoned dwarf will craft for you when you place the correct recipe in the anvil. So make sure there is a dwarf bound to the anvil."
+      "title": "合成",
+      "text": "當你在鐵砧中放置正確的配方時，召喚的矮人將為你製作工藝品。所以要確保鐵砧上有一個侏儒。"
     },
     {
       "type": "spotlight",
       "item": "feywild:fey_dust",
-      "title": "Mana",
-      "text": "You can replenish the mana of the anvil, by placing fey dust as fuel in the buttom-left slot of the anvil. Most special recipes require mana."
+      "title": "魔法",
+      "text": "你可以透過在鐵砧的按鈕左槽中放置鐵塵作為燃料來補充鐵砧的法力。大多數特殊配方都需要法力."
     },
     {
       "type": "spotlight",
       "item": "minecraft:cake",
-      "title": "Providing for a Dwarf",
-      "text": "The summoned dwarf will have different trades then those found in caves or at the blacksmith. They will require a daily meal in exchange for ore. If you provide the dwarf with enough meals he will offer you his knowledge in the form of schematics"
+      "title": "培養一個矮人",
+      "text": "被召喚的矮人將有不同的行業，然後在洞穴或鐵匠發現。他們需要每天吃一頓飯來交換礦。如果你給矮人提供足夠的食物，他會以圖表的形式向你提供他的知識"
     },
     {
       "type": "spotlight",
       "item": "feywild:schematics_gem_transmutation",
-      "title": "Schematics",
-      "text": "Most recipes for the anvil will require schematics. You can place the schematics in the top-left slot of the anvil."
+      "title": "圖紙",
+      "text": "大多數鐵砧配方都需要圖紙。您可以將圖紙放置在砧座的左上角插槽中."
     },
     {
       "type": "text",
-      "text": "So to craft with the dwarven anvil make sure you have enough mana, a dwarf should be bound to the anvil, and you require the correct schematics. Ones all items are placed the dwarf will start crafting for you!"
+      "text": "因此，要使用矮人鐵砧進行製造，請確保您有足夠的法力，矮人應該綁定到鐵砧上，並且您需要正確的示意圖。放置所有物品後，矮人將開始為您製作！"
     }
   ]
 }
