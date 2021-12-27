@@ -1,16 +1,16 @@
 {
-  "name": "Spring Court",
+  "name": "春之精靈",
   "icon": "feywild:spring_tree_sapling",
   "category": "spring_court",
   "sortnum": 0,
   "pages": [
     {
       "type": "text",
-      "text": "Bouncy, bubbly and completely void of the idea of personal space, the fey of the Spring Court treat everything as if they have never seen it before. They are like hyperactive children, always wondering what everything is, stuffing anything into their mouth that seems slightly edible and their only concern is not having either enough fun or food for the day."
+      "text": "彈力十足，充滿泡泡，完全沒有個人空間的概念，春之精靈對待一切，就像他們以前從未見過一樣。他們就像過度活躍的孩子，總是想知道一切有趣的東西，把任何看起來稍微可以吃的東西塞進嘴裡，他們唯一關心的是一天沒有足夠的樂趣或食物。"
     },
     {
       "type": "image",
-      "title": "Blossoming Wealds",
+      "title": "春之森林",
       "images": [
         "feywild:textures/patchouli_images/spring_book.png"
       ],
@@ -18,11 +18,11 @@
     },
     {
       "type": "text",
-      "text": "They represent the birth of a new year and the coming of new life and are the most innocent of the Court. They are however, notoriously obnoxious when playing pranks, as they do not know the dangers or consequences of their actions. Nor do they care about it."
+      "text": "他們代表著新的一年的誕生和新生命的到來。然而，他們在惡作劇時是出了名的令人討厭的，因為他們不知道自己行為的危險或後果。他們也不在乎。"
     },
     {
       "type": "image",
-      "title": "Spring World Tree",
+      "title": "春世界樹",
       "images": [
         "feywild:textures/patchouli_images/spring_worldtree_book.png"
       ],
@@ -31,14 +31,14 @@
     {
       "type": "spotlight",
       "item": "feywild:fey_altar",
-      "title": "Spring World Tree",
-      "text": "The Spring World tree is difficult to find, but it is the home of King Oberon. Note: Only the pixies are implemented, other court members will be added in later updates. The World Tree also has a Fey altar for you to use."
+      "title": "春世界樹",
+      "text": "春天世界樹很難找到，因為它是春之精靈的家。"
     },
     {
       "type": "spotlight",
       "item": "feywild:dandelion_seed",
-      "title": "Giant Dandelion",
-      "text": "In the Blossoming Wealds you can find giant dandelions. The giant dandelion has three variations; a bud, a flower and the flower's well known fluff. The flower will also drop dandelion seeds, which can be used to grow your own giant dandelions. "
+      "title": "巨大蒲公英",
+      "text": "在盛開的花叢中，你可以找到巨大的蒲公英。巨大的蒲公英有三個變種；一朵花蕾，一朵花和這朵花眾所周知的絨毛。這種花也會掉落蒲公英種子，可以用來種植你自己的巨大蒲公英。 "
     }
   ]
 }
