@@ -6,20 +6,20 @@
   "pages": [
     {
       "type": "text",
-      "text": "Did you ever find your shoes laced together after a good nights sleep? The sugar in your tea has suddenly turned to salt? Did you ever travel through the forest swearing you see something just in the corner of your eye or hearing the giggle of children's voices?"
+      "text": "晚上睡個好覺後，你有沒有發現你的鞋子繫在一起？你茶裡的糖突然變成鹽了？你有沒有穿過森林，發誓你在眼角看到了什麼，或者聽到了孩子們的笑聲？"
     },
     {
       "type": "text",
-      "text": "Don't fret, you're not going mad! It's just the local fey showing you they care for you in their own very special way. Fey are pranksters, tricksters who enjoy teasing us big folk. Most of the time they are harmless, but just as with us, there might be a bad seed or two amongst them. It's hard to gain the trust of a fairy, as they see the world in a different way that we do."
+      "text": "別擔心，你不會發瘋的！這只是當地人向你展示他們以自己獨特的方式關心你。精靈是惡作劇者，喜歡戲弄我們這些大人物s。大多數時候，它們是無害的，但就像我們一樣，它們中間可能有一兩個壞批。很難獲得精靈的信任，因為他們看待世界的方式與我們不同。"
     },
     {
       "type": "spotlight",
       "item": "feywild:feywild_lexicon",
-      "text": "If you want to learn more about the Fey, you may want to visit a Library and speak to one of the librarians there. They also have guide books on magic, depending what magic you brought to the Feywild. If he is not present just ring the bell."
+      "text": "如果你想了解更多關於精靈的訊息，你可能想參觀一家圖書館，並與那裡的一位圖書管理員交談。他們也有關於魔法的指導書，這取決於你給她帶來了什麼魔法。如果他不在場，就按門鈴。"
     },
     {
       "type": "image",
-      "title": "Library",
+      "title": "圖書館",
       "images": [
         "feywild:textures/patchouli_images/library_book.png"
       ],
@@ -27,7 +27,7 @@
     },
     {
       "type": "crafting",
-      "title": "Feywild Lexicon",
+      "title": "四季精靈指南",
       "recipe": "feywild:feywild_lexicon"
     }
   ]
