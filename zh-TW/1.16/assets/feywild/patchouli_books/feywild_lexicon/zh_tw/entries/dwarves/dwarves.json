@@ -1,12 +1,12 @@
 {
   "advancement": "feywild:feywild/fey_dust",
-  "name": "Dwarves",
+  "name": "矮人",
   "icon": "minecraft:diamond_pickaxe",
   "category": "dwarves",
   "pages": [
     {
       "type": "text",
-      "text": "Brought into life by the spilling of Ymirs lifeblood, the dwarves have a strong binding with the earth, fire and the mountains. This makes them excellent and skilled metalworkers and craftsmen, and they take great pride in this."
+      "text": "矮人與大地、火和山脈有著緊密的聯繫。這使他們成為優秀和熟練的金屬工人和工匠，他們為此感到非常自豪。"
     },
     {
       "type": "entity",
@@ -17,8 +17,8 @@
     {
       "type": "spotlight",
       "item": "feywild:summoning_scroll_dwarf_blacksmith",
-      "title": "Summoning Contract",
-      "text": "Most dwarves can be found underground mining and some have build a home, somewhere in the Feywild. If you trade alot with them, they may offer you a Summoning Contract."
+      "title": "召喚卷軸",
+      "text": "大多數矮人可以在地下採礦。如果你與他們進行大量交易，他們可能會給你一份召喚卷軸。"
     }
   ]
 }
