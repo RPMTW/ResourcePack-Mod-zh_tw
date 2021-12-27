@@ -1,73 +1,73 @@
 {
   "advancement": "feywild:feywild/traveling_stone",
-  "name": "Dwarven Market",
+  "name": "矮人市場",
   "icon": "feywild:inactive_market_rune_stone",
   "category": "dwarves",
   "pages": [
     {
       "type": "spotlight",
       "item": "feywild:inactive_market_rune_stone",
-      "title": "Schematics",
-      "text": "Runestones are small slabs of stone with magical properties. They can hold different kinds of magical spells. The most common are the Traveling stones, used to travel to other locations."
+      "title": "圖紙",
+      "text": "水晶石是一種具有神奇特性的小石板。他們可以持有不同種類的魔法咒語。最常見的是移動的石頭，用來移動到其他地方。"
     },
     {
       "advancement": "",
       "type": "spotlight",
       "item": "feywild:market_rune_stone",
-      "title": "Market Traveling Stone",
-      "text": "You can ask a dwarf you are friends with to activate an inactive rune stone. When activated it can be used to teleport to a secret location only known by the dwarves and those they trust."
+      "title": "市場傳送石",
+      "text": "你可以讓你的朋友侏儒啟動一個不活動的符文石。啟動後，它可以傳送到一個只有矮人和他們信任的人知道的秘密地點。"
     },
     {
       "advancement": "",
       "type": "image",
-      "title": "Dwarven Market",
+      "title": "矮人市場",
       "images": [
         "feywild:textures/patchouli_images/market_book.png"
       ],
       "border": true,
-      "text": "At the dwarven market you can trade for all kinds of items."
+      "text": "在矮人市場，你可以交易各種物品。"
     },
     {
       "type": "entity",
       "entity": "feywild:dwarf_baker",
       "scale": "0.6",
       "offset": "0.15",
-      "text": "This dwarf will trade for all kinds of culinairy items."
+      "text": "這個矮人會來交換各種各樣的廚具."
     },
     {
       "type": "entity",
       "entity": "feywild:dwarf_shepherd",
       "scale": "0.6",
       "offset": "0.15",
-      "text": "This dwarf will trade for all kinds of farm animal items."
+      "text": "這個矮人會用它來交換各種農場動物的物品."
     },
     {
       "type": "entity",
       "entity": "feywild:dwarf_toolsmith",
       "scale": "0.6",
       "offset": "0.15",
-      "text": "This dwarf will trade for all kinds of armour, weapons and tools."
+      "text": "這個矮人將用它來交換各種盔甲、武器和工具."
     },
     {
       "type": "entity",
       "entity": "feywild:dwarf_artificer",
       "scale": "0.6",
       "offset": "0.15",
-      "text": "This dwarf will trade for all kinds of artifects and trinkets."
+      "text": "這個矮人會用它來交換各種各樣的手工藝品和小飾品."
     },
     {
       "type": "entity",
       "entity": "feywild:dwarf_miner",
       "scale": "0.6",
       "offset": "0.15",
-      "text": "This dwarf will trade for all kinds of stones and ore."
+      "text": "這個矮人會用各種各樣的石頭和礦來交換."
     },
     {
       "type": "entity",
       "entity": "feywild:dwarf_dragon_hunter",
       "scale": "0.6",
       "offset": "0.15",
-      "text": "This dwarf will trade for all kinds of monster drops."
+      "text": "這個矮人會用各種怪物掉落物來交換."
     }
   ]
 }
