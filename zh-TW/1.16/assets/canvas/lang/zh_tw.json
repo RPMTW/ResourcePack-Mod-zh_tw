@@ -75,7 +75,7 @@
   "config.canvas.help.terrain_setup_off_thread": "Terrain setup done off the main render thread.;Increases FPS when moving.;May see blank chunks at edge on fast turns.",
   "config.canvas.value.enable_vao": "Use Vertex Array Objects (DISABLED)",
   "config.canvas.help.enable_vao": "VAOs improve performance when supported.;Disable if causing problems.",
-  "config.canvas.value.cull_entity_render": "Better Entity Culling",
+  "config.canvas.value.cull_entity_render": "實體渲染優化",
   "config.canvas.help.cull_entity_render": "Use more accurate logic to decide which entities to render.;Improves framerate in most scenes.",
   "config.canvas.value.greedy_render_thread": "Greedy Render Thread",
   "config.canvas.help.greedy_render_thread": "When true, render thread does not yield to other threads every frame.;Vanilla behavior is false (yields).",
