@@ -1,12 +1,12 @@
 {
-  "name": "Beef Stew",
-  "icon": "croptopia:beef_stew",
+  "name": "燉牛肉",
+  "icon": "作物盛境：燉牛肉",
   "category": "croptopia:meals",
   "pages": [
     {
       "type": "patchouli:crafting",
-      "recipe": "croptopia:shaped_beef_stew",
-      "text": "Recipe"
+      "recipe": "作物盛境：擺盤的燉牛肉",
+      "text": "食譜"
     }
   ]
 }
