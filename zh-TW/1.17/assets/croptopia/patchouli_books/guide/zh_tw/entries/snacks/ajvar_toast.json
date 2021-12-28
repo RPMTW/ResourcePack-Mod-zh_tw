@@ -1,12 +1,12 @@
 {
-  "name": "Ajvar Toast",
-  "icon": "croptopia:ajvar_toast",
+  "name": "紅椒醬吐司",
+  "icon": "作物盛境：紅椒醬吐司",
   "category": "croptopia:snacks",
   "pages": [
     {
       "type": "patchouli:crafting",
-      "recipe": "croptopia:shaped_ajvar_toast",
-      "text": "Recipe for making ajvar toast."
+      "recipe": "作物盛境：擺盤的紅椒醬吐司",
+      "text": "紅椒醬吐司食譜"
     }
   ]
 }
