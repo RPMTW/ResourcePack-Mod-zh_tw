@@ -1,12 +1,12 @@
 {
-  "name": "Eggplant Parmesan",
-  "icon": "croptopia:eggplant_parmesan",
+  "name": "巴馬乾酪茄子",
+  "icon": "作物盛境：巴馬乾酪茄子",
   "category": "croptopia:meals",
   "pages": [
     {
       "type": "patchouli:crafting",
-      "recipe": "croptopia:shaped_eggplant_parmesan",
-      "text": "Recipe"
+      "recipe": "作物盛境：擺盤的巴馬乾酪茄子",
+      "text": "食譜"
     }
   ]
 }
