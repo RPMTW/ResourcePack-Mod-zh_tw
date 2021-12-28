@@ -1,12 +1,12 @@
 {
-  "name": "Toast Sandwich",
-  "icon": "croptopia:toast_sandwich",
+  "name": "烤三明治",
+  "icon": "作物盛境：烤三明治",
   "category": "croptopia:meals",
   "pages": [
     {
       "type": "patchouli:crafting",
-      "recipe": "croptopia:shaped_toast_sandwich",
-      "text": "Recipe"
+      "recipe": "作物盛境：擺盤的烤三明治",
+      "text": "食譜"
     }
   ]
 }
