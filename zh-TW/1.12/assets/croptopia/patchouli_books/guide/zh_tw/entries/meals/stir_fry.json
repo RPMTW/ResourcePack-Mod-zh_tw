@@ -1,12 +1,12 @@
 {
-  "name": "Stir Fry",
-  "icon": "croptopia:stir_fry",
+  "name": "小炒",
+  "icon": "作物盛境：小炒",
   "category": "croptopia:meals",
   "pages": [
     {
       "type": "patchouli:crafting",
-      "recipe": "croptopia:shaped_stir_fry",
-      "text": "Recipe"
+      "recipe": "作物盛境：擺盤的小炒",
+      "text": "食譜"
     }
   ]
 }
