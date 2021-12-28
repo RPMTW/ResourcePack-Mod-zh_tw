@@ -1,12 +1,12 @@
 {
-  "name": "Avocado Toast",
-  "icon": "croptopia:avocado_toast",
+  "name": "酪梨吐司",
+  "icon": "作物盛境：酪梨吐司",
   "category": "croptopia:snacks",
   "pages": [
     {
       "type": "patchouli:crafting",
-      "recipe": "croptopia:shaped_avocado_toast",
-      "text": "Recipe for making avocado toast. (A favorite of Millennials everywhere!)"
+      "recipe": "作物盛境：擺盤的酪梨吐司",
+      "text": "酪梨吐司食譜（各地千禧世代的最愛！)"
     }
   ]
 }
