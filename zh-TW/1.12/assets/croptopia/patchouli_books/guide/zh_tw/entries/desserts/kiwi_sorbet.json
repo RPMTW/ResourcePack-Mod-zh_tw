@@ -1,12 +1,12 @@
 {
-  "name": "Kiwi Sorbet",
-  "icon": "croptopia:kiwi_sorbet",
-  "category": "croptopia:desserts",
+  "name": "奇異果雪葩",
+  "icon": "作物盛境：奇異果雪葩",
+  "category": "作物盛境：甜點",
   "pages": [
     {
       "type": "patchouli:crafting",
-      "recipe": "croptopia:shaped_kiwi_sorbet",
-      "text": "Recipe"
+      "recipe": "作物盛境：擺盤的奇異果雪葩",
+      "text": "食譜"
     }
   ]
 }
