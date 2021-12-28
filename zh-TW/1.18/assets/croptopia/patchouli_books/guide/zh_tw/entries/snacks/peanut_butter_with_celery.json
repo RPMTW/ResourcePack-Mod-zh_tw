@@ -1,12 +1,12 @@
 {
-  "name": "Peanut Butter with Celery",
-  "icon": "croptopia:peanut_butter_with_celery",
+  "name": "芹菜花生醬",
+  "icon": "作物盛境：芹菜花生醬",
   "category": "croptopia:snacks",
   "pages": [
     {
       "type": "patchouli:crafting",
-      "recipe": "croptopia:shaped_peanut_butter_with_celery",
-      "text": "Recipe"
+      "recipe": "作物盛境：擺盤的芹菜花生醬",
+      "text": "食譜"
     }
   ]
 }
