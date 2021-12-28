@@ -1,12 +1,12 @@
 {
-  "name": "Baked Yam",
-  "icon": "croptopia:baked_yam",
+  "name": "烤山藥",
+  "icon": "作物盛境：烤山藥",
   "category": "croptopia:meals",
   "pages": [
     {
       "type": "patchouli:smelting",
-      "recipe": "croptopia:smelting_baked_yam",
-      "text": "Recipe"
+      "recipe": "作物盛境：烤山藥蓉",
+      "text": "食譜"
     }
   ]
 }
