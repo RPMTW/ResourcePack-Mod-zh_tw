@@ -1,12 +1,12 @@
 {
-  "name": "Cheesy Asparagus",
-  "icon": "croptopia:cheesy_asparagus",
+  "name": "芝士蘆筍",
+  "icon": "作物盛境：芝士蘆筍",
   "category": "croptopia:meals",
   "pages": [
     {
       "type": "patchouli:crafting",
-      "recipe": "croptopia:shaped_cheesy_asparagus",
-      "text": "Recipe"
+      "recipe": "作物盛境：擺盤的芝士蘆筍",
+      "text": "食譜"
     }
   ]
 }
