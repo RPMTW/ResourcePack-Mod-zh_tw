@@ -1,12 +1,12 @@
 {
-  "name": "Cooked Bacon",
-  "icon": "croptopia:cooked_bacon",
+  "name": "熟培根",
+  "icon": "作物盛境：熟培根",
   "category": "croptopia:snacks",
   "pages": [
     {
       "type": "patchouli:smelting",
-      "recipe": "croptopia:smelting_cooked_bacon",
-      "text": "Recipe"
+      "recipe": "作物盛境：熟培根碎",
+      "text": "食譜"
     }
   ]
 }
