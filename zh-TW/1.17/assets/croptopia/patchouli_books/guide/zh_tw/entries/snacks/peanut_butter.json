@@ -1,12 +1,12 @@
 {
-  "name": "Peanut Butter",
-  "icon": "croptopia:peanut_butter",
+  "name": "花生醬",
+  "icon": "作物盛境：花生醬",
   "category": "croptopia:snacks",
   "pages": [
     {
       "type": "patchouli:crafting",
-      "recipe": "croptopia:shaped_peanut_butter",
-      "text": "Recipe"
+      "recipe": "作物盛境：擺盤的花生醬",
+      "text": "食譜"
     }
   ]
 }
