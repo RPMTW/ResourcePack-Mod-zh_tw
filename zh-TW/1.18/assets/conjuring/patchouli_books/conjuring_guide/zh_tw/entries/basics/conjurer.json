@@ -8,7 +8,7 @@
       "text": "To the untrained eye, a $(item)Conjurer$() may look remarkably similar to a normal monster spawner. This, however, would be a short-sighted conclusion. $(br)Even being nothing more than a cage constructed of $(l:conjuring:basics/soulfire_forge#soul_alloy)Soul Alloy$(), it nevertheless enables an inserted $(l:conjuring:basics/conjuring_focus)Conjuring Focus$() to function."
     },
     {
-      "type": "conjuring:soulfire_forge_recipe",
+      "type": "招魂 : 魂焰鍛造配方",
       "recipe": "conjuring:soulfire_forge/conjurer",
       "text": "When one of these gizmos is inserted, the $(item)Conjurer$() will begin the summoning process. While this is of course a very useful setup even in it's basic state, many improvements can be made using $(l:conjuring:basics/basic_gem_tinkering)Charms$()."
     },
