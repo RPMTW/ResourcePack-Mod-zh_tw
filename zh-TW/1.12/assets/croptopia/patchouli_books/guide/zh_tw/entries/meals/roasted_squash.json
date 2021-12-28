@@ -1,12 +1,12 @@
 {
-  "name": "Roasted Squash",
-  "icon": "croptopia:roasted_squash",
+  "name": "烤西葫蘆",
+  "icon": "作物盛境：烤西葫蘆",
   "category": "croptopia:meals",
   "pages": [
     {
       "type": "patchouli:crafting",
-      "recipe": "croptopia:shaped_roasted_squash",
-      "text": "Recipe"
+      "recipe": "作物盛境：擺盤的烤西葫蘆",
+      "text": "食譜"
     }
   ]
 }
