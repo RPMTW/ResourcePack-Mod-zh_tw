@@ -1,12 +1,12 @@
 {
-  "name": "Ajvar",
-  "icon": "croptopia:ajvar",
+  "name": "紅椒醬",
+  "icon": "作物盛境：紅椒醬",
   "category": "croptopia:ingredients",
   "pages": [
     {
       "type": "patchouli:crafting",
-      "recipe": "croptopia:shaped_ajvar",
-      "text": "Recipe for Ajvar."
+      "recipe": "作物盛境：擺盤的紅椒醬",
+      "text": "紅椒醬食譜"
     }
   ]
 }
