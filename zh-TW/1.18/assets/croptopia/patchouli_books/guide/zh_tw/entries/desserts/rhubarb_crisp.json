@@ -1,12 +1,12 @@
 {
-  "name": "Rhubarb Crisp",
-  "icon": "croptopia:rhubarb_crisp",
-  "category": "croptopia:desserts",
+  "name": "大黃脆片",
+  "icon": "作物盛境：大黃脆片",
+  "category": "作物盛境：甜點",
   "pages": [
     {
       "type": "patchouli:crafting",
-      "recipe": "croptopia:shaped_rhubarb_crisp",
-      "text": "Recipe"
+      "recipe": "作物盛境：擺盤的大黃脆片",
+      "text": "食譜"
     }
   ]
 }
