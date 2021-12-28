@@ -1,12 +1,12 @@
 {
-  "name": "Roasted Radishes",
-  "icon": "croptopia:roasted_radishes",
+  "name": "烤小蘿蔔",
+  "icon": "作物盛境：烤小蘿蔔",
   "category": "croptopia:meals",
   "pages": [
     {
       "type": "patchouli:crafting",
-      "recipe": "croptopia:shaped_roasted_radishes",
-      "text": "Recipe"
+      "recipe": "作物盛境：擺盤的烤小蘿蔔",
+      "text": "食譜"
     }
   ]
 }
