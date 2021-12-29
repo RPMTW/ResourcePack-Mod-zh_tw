@@ -8,7 +8,7 @@
       "text": "Commanding the powerful contraptions involved in conjuration is no easy task and as such, the $(item)Conjuring Scepter$() is required to interact with most of them. The very basic act of mounting a $(item)Diamond$() onto a $(item)Blaze Rod$() has apparently greatly improved their magical abilities, making the usage of most runic machinery a breeze."
     },
     {
-      "type": "招魂 : 魂焰鍛造配方",
+      "type": "conjuring:soulfire_forge_recipe",
       "recipe": "conjuring:soulfire_forge/conjuring_scepter"
     },
     {
