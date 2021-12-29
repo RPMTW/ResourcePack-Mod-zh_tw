@@ -1,11 +1,11 @@
 {
   "name": "炒牛肉",
-  "icon": "作物盛境：炒牛肉",
+  "icon": "croptopia:beef_stir_fry",
   "category": "croptopia:meals",
   "pages": [
     {
       "type": "patchouli:crafting",
-      "recipe": "作物盛境：擺盤的炒牛肉",
+      "recipe": "croptopia:shaped_beef_stir_fry",
       "text": "食譜"
     }
   ]
