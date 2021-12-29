@@ -1,6 +1,6 @@
 {
-    "bettermobgriefinggamerule.config.defaultGlobalRule": "Default Global Rule",
-    "bettermobgriefinggamerule.config.defaultGlobalRule.tooltip": "The default global mobGriefing value which will be used when creating a new world or opening an existing world for the first time with this mod installed.",
-    "bettermobgriefinggamerule.config.defaultEntityRules": "Default Entity Rules",
-    "bettermobgriefinggamerule.config.defaultEntityRules.tooltip": "The default entity specific mobGriefing rules which will be used when creating a new world or opening an existing world for the first time with this mod installed."
+    "bettermobgriefinggamerule.config.defaultGlobalRule": "預設全域規則",
+    "bettermobgriefinggamerule.config.defaultGlobalRule.tooltip": "預設全域 mobGriefing 值, 將在首次安裝此 mod 後, 創建新世界或打開現有世界時使用。",
+    "bettermobgriefinggamerule.config.defaultEntityRules": "預設實體規則",
+    "bettermobgriefinggamerule.config.defaultEntityRules.tooltip": "對特定 mobGriefing 實體的預設規則，將在首次安裝此 mod 後, 創建新世界或打開現有世界時使用。"
 }
