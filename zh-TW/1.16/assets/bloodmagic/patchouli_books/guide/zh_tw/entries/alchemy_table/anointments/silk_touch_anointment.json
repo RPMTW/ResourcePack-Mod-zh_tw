@@ -7,13 +7,13 @@
       "type": "crafting_alchemy_table",
       "heading": "柔軟覆層",
       "recipe": "bloodmagic:alchemytable/silk_touch_anointment",
-      "text": "採掘方塊時施加絲綢之觸的效果。與原版的對應附魔效果不疊加。$(br2)有效物品：工具，劍，炸藥。$(br2)施加：柔觸 I（256 個方塊）"
+      "text": "採掘方塊時施加絲綢之觸的效果。與原版的對應附魔效果不疊加。$(br2)有效物品：工具，劍，炸藥。$(br2)施加：柔觸I（256格方塊）"
     },
     {
       "type": "crafting_alchemy_table",
-      "heading": "Soft Coating L",
+      "heading": "Soft CoatingL",
       "recipe": "bloodmagic:alchemytable/silk_touch_anointment_l",
-      "text": "這個升級版的藥水膏持續時間延長了四倍。 $(br2)適用：絲綢之觸 I(1024塊)"
+      "text": "這個升級版的藥水膏持續時間延長了四倍。 $(br2)適用：絲綢之觸I(1024格方塊)"
     }
   ]
 }
