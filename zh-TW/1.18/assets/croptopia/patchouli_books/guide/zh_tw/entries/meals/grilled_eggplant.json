@@ -1,11 +1,11 @@
 {
   "name": "烤茄子",
-  "icon": "作物盛境：烤茄子",
+  "icon": "croptopia:grilled_eggplant",
   "category": "croptopia:meals",
   "pages": [
     {
       "type": "patchouli:crafting",
-      "recipe": "作物盛境：擺盤的烤茄子",
+      "recipe": "croptopia:shaped_grilled_eggplant",
       "text": "食譜"
     }
   ]
