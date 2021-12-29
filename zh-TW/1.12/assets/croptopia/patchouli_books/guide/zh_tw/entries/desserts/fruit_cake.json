@@ -1,11 +1,11 @@
 {
   "name": "水果蛋糕",
-  "icon": "作物盛境：水果蛋糕",
-  "category": "作物盛境：甜點",
+  "icon": "croptopia:fruit_cake",
+  "category": "croptopia:desserts",
   "pages": [
     {
       "type": "patchouli:crafting",
-      "recipe": "作物盛境：擺盤的水果蛋糕",
+      "recipe": "croptopia:shaped_fruit_cake",
       "text": "食譜"
     }
   ]
