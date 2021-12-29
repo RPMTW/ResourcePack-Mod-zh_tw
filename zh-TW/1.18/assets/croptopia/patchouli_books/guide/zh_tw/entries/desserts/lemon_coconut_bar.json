@@ -1,11 +1,11 @@
 {
   "name": "檸檬椰子棒",
-  "icon": "作物盛境：檸檬椰子棒",
-  "category": "作物盛境：甜點",
+  "icon": "croptopia:lemon_coconut_bar",
+  "category": "croptopia:desserts",
   "pages": [
     {
       "type": "patchouli:crafting",
-      "recipe": "作物盛境：造型檸檬椰子棒",
+      "recipe": "croptopia:shaped_lemon_coconut_bar",
       "text": "食譜"
     }
   ]
