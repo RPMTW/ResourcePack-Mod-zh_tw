@@ -1,11 +1,11 @@
 {
   "name": "蒸青豆",
-  "icon": "作物盛境：蒸青豆",
+  "icon": "croptopia:steamed_green_beans",
   "category": "croptopia:meals",
   "pages": [
     {
       "type": "patchouli:crafting",
-      "recipe": "作物盛境：擺盤的蒸青豆",
+      "recipe": "croptopia:shaped_steamed_green_beans",
       "text": "食譜"
     }
   ]
