@@ -7,19 +7,19 @@
       "type": "crafting_alchemy_table",
       "heading": "礦工之秘",
       "recipe": "bloodmagic:alchemytable/hidden_knowledge_anointment",
-      "text": "成功挖掘方塊會掉落經驗球。每個方塊 +2 經驗值。$(br2有效物品：工具、劍、炸藥。$(br2)施加：礦工之秘 I（256 個方塊）"
+      "text": "成功挖掘方塊會掉落經驗球。每個方塊+2經驗值。$(br2)有效物品：工具、劍、炸藥。$(br2)施加：礦工之秘I(256個方塊)"
     },
     {
       "type": "crafting_alchemy_table",
-      "heading": "Miner's Secrets L",
+      "heading": "礦工之秘L",
       "recipe": "bloodmagic:alchemytable/hidden_knowledge_anointment_l",
       "text": "這個升級版的藥水膏持續時間延長了四倍。 $(br2)適用：礦工之秘I(1024塊)"
     },
     {
       "type": "crafting_alchemy_table",
-      "heading": "Miner's Secrets II",
+      "heading": "礦工之秘II",
       "recipe": "bloodmagic:alchemytable/hidden_knowledge_anointment_2",
-      "text": "This upgraded version of the anointment increases the yield. $(br2)Applies: Miner's Secrets II (256 blocks)"
+      "text": "這個升級版的藥水膏增加了產量。 $(br2)適用：礦工之秘II(256塊)"
     }
   ]
 }
