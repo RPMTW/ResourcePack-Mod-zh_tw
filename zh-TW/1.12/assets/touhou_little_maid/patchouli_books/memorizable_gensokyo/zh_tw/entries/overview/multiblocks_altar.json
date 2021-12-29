@@ -1,7 +1,7 @@
 {
   "sortnum": 4,
   "name": "多方塊祭壇",
-  "icon": "minecraft:red_wool",
+  "icon": "minecraft:wool:14",
   "category": "overview",
   "pages": [
     {
@@ -15,15 +15,17 @@
       "text": "使用$(l:overview/gohei_and_danmaku)御幣$()對第四層中間偏左的紅色羊毛正面按右鍵，能夠構建祭壇。"
     },
     {
-      "type": "image",
-      "title": "多方塊祭壇",
-      "images": [
-        "touhou_little_maid:textures/book/altar.png"
-      ]
+      "type": "text",
+      "text": "You can place the item by right-clicking on the top of the six oak pillars of the altar. You can remove the item by empty-handed right-clicking.$(br2)When the item is completely placed and the player's power point is enough, altar can trigger craft.$(br2)The craft is interrupted due to lack of power, and after obtaining enough power, right click again to re-trigger the craft."
     },
     {
-      "type": "text",
-      "text": "你可以對六個橡木柱子的頂端按右鍵來放置物品。通過空手 Shift + 右鍵來移除物品。$(br2)當物品完全放置且玩家的 Power 值足夠，祭壇就能觸發合成。$(br2)因為缺少 Power 而導致的合成中斷，在取得足夠 Power 以後，再次按右鍵可以重新觸發合成。"
+      "type": "image",
+      "images": [
+        "touhou_little_maid:textures/book/altar_craft.png"
+      ],
+      "title": "Altar Craft",
+      "border": true,
+      "text": "The craft of spawn lightning, remember all craft is shapeless."
     }
   ]
 }
