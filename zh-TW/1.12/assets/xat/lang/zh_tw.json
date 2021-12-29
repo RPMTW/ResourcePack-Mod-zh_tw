@@ -836,5 +836,10 @@
     "xat.config.races.dragon.flight.cost.tooltip": "Mana Cost per second while flying",
     "item.dragons_eye.0.nightvision": "#darkgreen:獲得夜視$nightvision:",
     "xat.config.faelis_ring": "Ring of the Faeles Settings",
-    "xat.config.faelis_ring.tooltip": ""
+    "xat.config.faelis_ring.tooltip": "",
+    "damagetype.xat.water": "water",
+    "death.attack.xat.water": "%1$s died to %2$s while wearing an Ender Queen's Crown",
+    "attribute.name.xat.jump": "Jump",
+    "attribute.name.xat.stepheight": "Step Height",
+    "attribute.name.xat.entityMagic.regen": "MP Regen"
 }
