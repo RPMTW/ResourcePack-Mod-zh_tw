@@ -7,19 +7,19 @@
       "type": "crafting_alchemy_table",
       "heading": "鐵尖",
       "recipe": "bloodmagic:alchemytable/bow_power_anointment",
-      "text": "提升 25% 你發射的箭矢的傷害，並且效果能與原版附魔疊加。$(br2)有效工具：弓、弩。$(br2)施加：勁射 I（256 發）"
+      "text": "提升 25% 你發射的箭矢的傷害，並且效果能與原版附魔疊加。$(br2)有效工具：弓、弩。$(br2)施加：勁射I（256 發）"
     },
     {
       "type": "crafting_alchemy_table",
-      "heading": "鐵尖 L",
+      "heading": "鐵尖L",
       "recipe": "bloodmagic:alchemytable/bow_power_anointment_l",
-      "text": "這個升級版的藥水膏持續時間延長了四倍。 $(br2)適用：強擊 I (1024發)"
+      "text": "這個升級版的藥水膏持續時間延長了四倍。 $(br2)適用：強擊I (1024發)"
     },
     {
       "type": "crafting_alchemy_table",
-      "heading": "鐵尖 II",
+      "heading": "鐵尖II",
       "recipe": "bloodmagic:alchemytable/bow_power_anointment_2",
-      "text": "這個升級版的藥水膏會令傷害增加50%。 $(br2)適用：強擊 II (256發)"
+      "text": "這個升級版的藥水膏會令傷害增加50%。 $(br2)適用：強擊II (256發)"
     }
   ]
 }
