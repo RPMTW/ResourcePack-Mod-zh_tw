@@ -1,11 +1,11 @@
 {
   "name": "奶油綠豆",
-  "icon": "作物盛境：奶油綠豆",
+  "icon": "croptopia:buttered_green_beans",
   "category": "croptopia:meals",
   "pages": [
     {
       "type": "patchouli:crafting",
-      "recipe": "作物盛境：擺盤的奶油綠豆",
+      "recipe": "croptopia:shaped_buttered_green_beans",
       "text": "食譜"
     }
   ]
