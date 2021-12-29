@@ -1,15 +1,11 @@
 {
   "name": "Enchanted Forest",
-  "icon": "twilightforest:rainboak_sapling",
+  "icon": "twilightforest:twilight_sapling:9",
   "category": "biomes",
   "advancement": "twilightforest:alt/biomes/enchanted_forest",
   "sortnum": 2200,
   "pages": [
     {
-      "type": "image",
-      "title": "Enchanted Forest",
-      "images": ["twilightforest:textures/gui/patchouli_images/test_filler.png"]
-    }, {
       "type": "text",
       "text": "things and stuff"
     }

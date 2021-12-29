@@ -256,5 +256,9 @@
     "tile.buttonStone.name": "Stone Button",
     "tile.buttonWood.name": "Wooden Button",
     "tile.endPortal.name": "End Portal",
-    "tile.endGateway.name": "End Gateway"
+    "tile.endGateway.name": "End Gateway",
+    "randomtweaks.config.misc.allowSleepNearMobsWithCustomNames": "Allow sleep near mobs with custom names",
+    "randomtweaks.config.misc.disableBedProximityRequirement": "Disable bed proximity requirement",
+    "randomtweaks.config.misc.localizePortalNames": "Localize portal names",
+    "tile.netherPortal.name": "Nether Portal"
 }
