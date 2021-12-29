@@ -256,5 +256,9 @@
     "tile.buttonStone.name": "石質按鈕",
     "tile.buttonWood.name": "木質按鈕",
     "tile.endPortal.name": "終界傳送門",
-    "tile.endGateway.name": "終界折躍門"
+    "tile.endGateway.name": "終界折躍門",
+    "randomtweaks.config.misc.allowSleepNearMobsWithCustomNames": "Allow sleep near mobs with custom names",
+    "randomtweaks.config.misc.disableBedProximityRequirement": "Disable bed proximity requirement",
+    "randomtweaks.config.misc.localizePortalNames": "Localize portal names",
+    "tile.netherPortal.name": "Nether Portal"
 }
