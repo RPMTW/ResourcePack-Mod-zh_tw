@@ -1,11 +1,11 @@
 {
   "name": "烤籚筍",
-  "icon": "作物盛境：烤籚筍",
+  "icon": "croptopia:roasted_asparagus",
   "category": "croptopia:meals",
   "pages": [
     {
       "type": "patchouli:crafting",
-      "recipe": "作物盛境：擺盤的烤籚筍",
+      "recipe": "croptopia:shaped_roasted_asparagus",
       "text": "食譜"
     }
   ]
