@@ -387,5 +387,9 @@
     "commands.ftbquests.command.error.no_inventory": "Target block does not contain an inventory!",
     "commands.ftbquests.command.feedback.table_exported": "Successfully exported Reward Table '%s' with %s items to the target block!",
     "commands.ftbquests.command.feedback.table_imported": "Successfully imported Reward Table '%s' with %s items!",
-    "commands.ftbquests.command.feedback.table_too_many_items": "WARNING: Table %s contains more items than the target block could handle, stopping here!"
+    "commands.ftbquests.command.feedback.table_too_many_items": "WARNING: Table %s contains more items than the target block could handle, stopping here!",
+    "ftbquests.task.ftbquests.structure": "Find Structure",
+    "ftbquests.task.ftbquests.structure.structure": "Structure",
+    "ftbquests.task.ftbquests.observation.observe_type": "Type",
+    "ftbquests.task.ftbquests.observation.to_observe": "Observe"
 }
