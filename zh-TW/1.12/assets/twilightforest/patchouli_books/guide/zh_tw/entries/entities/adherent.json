@@ -1,6 +1,6 @@
 {
   "name": "信徒",
-  "icon": "twilightforest:adherent_spawn_egg",
+  "icon": "minecraft:spawn_egg:0{EntityTag:{id:\"twilightforest:adherent\"}}",
   "category": "entities",
   "advancement": "twilightforest:alt/entities/adherent",
   "sortnum": 9010,
