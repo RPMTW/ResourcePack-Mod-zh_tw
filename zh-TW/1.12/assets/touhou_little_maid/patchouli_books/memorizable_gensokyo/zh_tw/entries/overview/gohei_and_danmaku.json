@@ -8,12 +8,21 @@
       "type": "spotlight",
       "item": "touhou_little_maid:hakurei_gohei",
       "link_recipe": true,
-      "text": "御幣是一個普通的近戰武器。$(br2)手持御幣的女僕，在彈幕模式下會發射彈幕。"
+      "text": "The gohei is a ranged weapon that can be used to shoot danmaku, and it also can be used as a normal melee weapon.$(br2)When you hold the gohei and press alt to scroll the mouse wheel, you can switch the danmaku style of the shoot."
     },
     {
       "type": "crafting",
       "recipe": "touhou_little_maid:hakurei_gohei",
-      "text": "御幣還是構建多方塊祭壇的重要工具。"
+      "text": "The higher power point player has, the higher damage and speed the danmaku has.$(br2)The gohei is an important tool for building a multi-block altar."
+    },
+    {
+      "type": "image",
+      "images": [
+        "touhou_little_maid:textures/book/shoot_danmaku.png"
+      ],
+      "title": "Shoot Danmaku",
+      "border": true,
+      "text": "The player holds gohei to shoot danmaku"
     }
   ]
 }
