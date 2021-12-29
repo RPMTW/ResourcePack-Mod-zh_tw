@@ -9,7 +9,7 @@
     "block.the_bumblezone.sticky_honey_residue": "Sticky Honey Residue",
     "block.the_bumblezone.sticky_honey_redstone": "Sticky Honey Redstone",
     "block.the_bumblezone.honey_crystal": "Honey Crystal",
-    "block.the_bumblezone.beeswax_planks": "Beeswax Planks",
+    "block.the_bumblezone.beeswax_planks": "Beehive Beeswax",
     "item.the_bumblezone.honey_crystal_shards": "Honey Crystal Shards",
     "item.the_bumblezone.sugar_water_bucket": "Sugar Water Bucket",
     "item.the_bumblezone.sugar_water_bottle": "Sugar Water Bottle",
@@ -185,5 +185,9 @@
     "text.autoconfig.the_bumblezone-main.option.BZGeneralConfig.beehemothSpeed": "Beehemoth Speed",
     "text.autoconfig.the_bumblezone-main.option.BZGeneralConfig.beehemothSpeed.@PrefixText": "Base speed for the Beehemoth when being rode by a player.",
     "text.autoconfig.the_bumblezone-main.option.BZClientConfig.lgbtBeeRate": "LGBT+ Bee Skin Rate",
-    "text.autoconfig.the_bumblezone-main.option.BZClientConfig.lgbtBeeRate.@PrefixText": "Rate for how often a bee will have an LGBT+ coat!"
+    "text.autoconfig.the_bumblezone-main.option.BZClientConfig.lgbtBeeRate.@PrefixText": "Rate for how often a bee will have an LGBT+ coat!",
+    "item.the_bumblezone.bee_bread": "Bee Bread",
+    "effect.the_bumblezone.beenergized": "Beenergized",
+    "advancements.the_bumblezone.beenergized_maxed.title": "Speedy Buzzy Bees!",
+    "advancements.the_bumblezone.beenergized_maxed.description": "By combining pollen and honey, create Bee Bread and feed it to bees until they are maximum speed! Zoom!"
 }
