@@ -1,11 +1,11 @@
 {
   "name": "填餡洋薊",
-  "icon": "作物盛境：填餡洋薊",
+  "icon": "croptopia:stuffed_artichoke",
   "category": "croptopia:meals",
   "pages": [
     {
       "type": "patchouli:crafting",
-      "recipe": "作物盛境：擺盤的填餡洋薊",
+      "recipe": "croptopia:shaped_stuffed_artichoke",
       "text": "食譜"
     }
   ]
