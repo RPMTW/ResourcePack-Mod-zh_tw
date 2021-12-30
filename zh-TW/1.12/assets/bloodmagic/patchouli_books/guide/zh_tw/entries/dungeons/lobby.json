@@ -1,5 +1,5 @@
 {
-  "name": "The Antechamber",
+  "name": "大廳",
   "icon": "bloodmagic:dungeon_seal",
   "category": "bloodmagic:dungeons",
   "extra_recipe_mappings": [
@@ -131,19 +131,19 @@
   "pages": [
     {
       "type": "text",
-      "text": "Upon performing the $(l:bloodmagic:rituals/ritual_list/ritual_simple_dungeon)Edge of the Hidden Realm$() ritual, you will find yourself looking at an $(thing)Inversion Pillar$(). Right click this pillar to be transported to the Antechamber, your first foray into the $(thing)Demon Realm.$() $(br)There are a few things of note in this first room: $(li)A single treasure chest containing some basic loot and, if you are lucky, a few $(l:bloodmagic:dungeons/simple_key)Simple Keys$()."
+      "text": "在執行$(l:bloodmagic:rituals/ritual_list/ritual_simple_dungeon)隱域之緣$()儀式後，你會發現自己的眼前出現一個$(thing)反轉柱$()。右鍵點擊這個柱子會被傳送到大廳，這是你第一次進入$(thing)魔界$()。$(br)第一個房間有一些值得注意的東西：$(li)一個單獨的寶箱，包含一些基本的戰利品，如果幸運的話，還有一些$(l:bloodmagic:dungeons/simple_key)簡易鑰匙$()。"
     },
     {
       "type": "text",
-      "text": "$(li)Secondly, a number of $(thing)Doorways$(), each locked with a $(thing)Dungeon Seal.$() Use a $(item)Key$() on these seals to unlock the next room. $(li)Thirdly, an $(item)Inversion Pillar$(), a mirror of the one you summoned previously. [$(k:use)] this to return to your world. $(br2)There's also a large number of decorative blocks here, should you feel your home base needs some pizazz."
+      "text": "$(li)第二，你會看到許多道$(thing)門$()，每道門都被鎖上了。使用$(item)鑰匙$()來解鎖下一個房間。$(li)第三，$(item)反轉柱$()，你之前召喚出來的傳送器。[$(k:use)]點擊它回到你原本的世界。$(br2)如果您覺得您的基地需要增加一些活力與魅力的話，這裡還有大量的裝飾方塊。"
     },
     {
       "type": "text",
-      "text": "Any additional rooms you open from this antecamber will contain some combination of loot, monsters, traps and possibly some unactivated rituals. Keep your eyes peeled! $(br2)A few examples of loot that you might find: $(li)Enchanted Books $(li)Enchanted Weapons and Armour $(li)$(l:bloodmagic:alchemy_table/anointments)Various Anointments$() $(li)$(l:bloodmagic:demon_will/will_manipulation/demon_will)Demon Will$() $(li)Potion Ingredients"
+      "text": "你從這個大廳打開的任何其他房間都將包含一些戰利品、怪物、陷阱和可能一些未激活的儀式。擦亮眼睛！$(br2)一些你可能會發現的戰利品示例：$(li)\n附魔書$(li)\n附魔的武器和裝備$(li)$(l:bloodmagic:alchemy_table/anointments)各種塗物$()$(li )$(l:bloodmagic:demon_will/will_manipulation/demon_will)惡魔意志$()$(li)藥水材料"
     },
     {
       "type": "text",
-      "text": "$(li)Tau Fruit $(li)Saturated Tau $(li)Tau Oil$(br2)So get hunting and keep an eye out for treasure and traps alike!"
+      "text": "$(li)仙桃$(li)飽滿的仙桃$(li)仙桃油$(br2)所以探險時，記得留意寶藏和陷阱！"
     }
   ]
 }
