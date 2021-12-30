@@ -704,7 +704,7 @@
     "messages.securitycraft:cameraMonitor.rightclickToView": "右擊監視器以查看它。",
     "messages.securitycraft:mrat.noSlots": "有沒有更多的空插槽綁定這個地雷！",
     "messages.securitycraft:mrat.cantBind": "你不能綁定一個不屬於你的礦。",
-    "messages.securitycraft:mrat.bound": "遠程存取工具已經綁定位於 # 地雷",
+    "messages.securitycraft:mrat.bound": "遠程存取工具已經綁定位於 %s 地雷",
     "messages.securitycraft:mrat.unbound": "已解除綁定%s的地雷。",
     "messages.securitycraft:srat.noSlots": "沒有更多的空插槽綁定這個哨兵！",
     "messages.securitycraft:srat.cantBind": "你不能約束一個不屬於你的哨兵。",
