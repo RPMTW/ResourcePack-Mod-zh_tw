@@ -11,7 +11,7 @@
       "type": "crafting_soulforge",
       "heading": "惡魔坩堝",
       "recipe": "bloodmagic:soulforge/demon_crucible",
-      "text": "Put a charged $(l:bloodmagic:demon_will/will_manipulation/soul_gem)Tartaric Gem$() or any aspect of $(item)Demon Will$() or $(item)Demon Crystal$() into it and let it run. $(item)Crystals$() will be consumed once the chunk's $(raw)Will$() dips below 50, wheras $(raw)Demon Will$() (in item form or from the $(item)Tartaric Gem$()) will be consumed a bit at a time, as needed."
+      "text": "將蘊含意志的$(l:bloodmagic:demon_will/will_manipulation/soul_gem)地獄魂石$()或任何$(item)惡魔意志$()或$(item)惡魔水晶$()放入其中並讓它運行。一旦$(raw)意志$()低於50，區塊內將會消耗一個$(item)水晶$()，而$(raw)惡魔意志$()（以物品形式或來自$(item)地獄魂石$()）將根據需要一次消耗一點。"
     },
     {
       "type": "image",
@@ -20,7 +20,7 @@
       ],
       "title": "惡魔坩堝",
       "border": true,
-      "text": "The $(item)Demon Crucible$(), with a $(l:bloodmagic:demon_will/will_manipulation/soul_gem)Tartaric Gem$() inside it."
+      "text": "$(item)惡魔坩堝$()，裡面有一顆$(l:bloodmagic:demon_will/soul_gem)地獄魂石$()。"
     },
     {
       "type": "text",
