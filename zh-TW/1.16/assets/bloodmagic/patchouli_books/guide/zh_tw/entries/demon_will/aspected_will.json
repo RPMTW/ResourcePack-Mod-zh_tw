@@ -1,5 +1,5 @@
 {
-  "name": "惡魔意志詳情",
+  "name": "惡魔意志種類",
   "icon": "bloodmagic:vengefulcrystal",
   "category": "bloodmagic:demon_will",
   "extra_recipe_mappings": [
@@ -62,7 +62,7 @@
       "images": [
         "bloodmagic:images/entries/demon_will/will_splitting.png"
       ],
-      "title": "意志的各方面",
+      "title": "意志的各個種類",
       "border": true,
       "text": "正在進行中的$(l:bloodmagic:rituals/ritual_list/ritual_crystal_split)結晶共鳴$()儀式。"
     },
