@@ -10,7 +10,7 @@
     {
       "type": "crafting",
       "recipe": "bloodmagic:alchemy_table",
-      "text": "When looking at $(item)Alchemy Table$() recipes in this book (or in $(thing)JEI$()), please hover over the arrow with an \"LP\" label to view Time, $(blood)LP$() drain, and Tier information."
+      "text": "查看本書(或$(thing)JEI$())中的$(item)鍊金術桌$()配方時，將鼠標停在帶有“LP”標籤的箭頭上以查看時間、$(blood)LP$()消耗和層級的相關信息。"
     },
     {
       "type": "image",
