@@ -48,11 +48,11 @@
       "type": "crafting_soulforge",
       "heading": "惡魔結晶壇",
       "recipe": "bloodmagic:soulforge/demon_crystallizer",
-      "text": "This will slowly consume $(l:bloodmagic:demon_will/demon_will)Demon Will$() from the atmosphere to produce $(item)Will Crystals$(). The first spire costs about 100 will to form, and all subsequent spires cost 40 each, but can be burned for 50 in the $(item)Demon Crucible$(). The largest $(item)Crystal Cluster$() can be up to 7 spires."
+      "text": "這將慢慢消耗大氣中的$(l:bloodmagic:demon_will/demon_will)惡魔意志$()以產生$(item)意志水晶$()。第一個尖塔消耗大約100點意志形成，隨後的所有尖塔每個消耗40點，但可以在$(item)惡魔坩堝$()中燃燒50點。最大的$(item)水晶簇$()最多可以有7個尖塔。"
     },
     {
       "type": "text",
-      "text": "如果您的物品欄中至少有 1,000 個 意志（總合任意數量的 $(l:bloodmagic:demon_will/soul_gem)地獄魂石$()），您可以通過空手右擊晶簇來收集這些晶體。這能夠摘下除中央外的所有晶體。 $(br2)然而，如果你意志不夠，還是$(italic)真的$()需要中間那個晶簇，或者只是趕時間，你可以用鎬一次挖下它們全部。"
+      "text": "如果您的物品欄中至少有1,000個意志（或是任意數量的$(l:bloodmagic:demon_will/soul_gem)地獄魂石$()），您可以通過空手右擊晶簇來收集這些晶體。這能夠摘下除中央外的所有晶體。$(br2)然而，如果你意志不夠，還是$(italic)真的$()需要中間那個晶簇，或者只是趕時間，你可以用鎬一次挖下它們全部。"
     },
     {
       "type": "relations",
