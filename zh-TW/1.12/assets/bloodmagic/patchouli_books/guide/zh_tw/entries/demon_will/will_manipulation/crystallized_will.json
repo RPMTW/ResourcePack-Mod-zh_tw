@@ -23,13 +23,13 @@
   "pages": [
     {
       "type": "text",
-      "text": "Now that you have plenty of $(l:bloodmagic:demon_will/will_manipulation/demon_will)Demon Will$() in your $(l:bloodmagic:demon_will/will_manipulation/soul_gem)Tartaric Gem$(), it's time to explore what happens when you unleash it upon the world. $(br2)First off, you'll need to get $(raw)Will$() into the $(l:bloodmagic:demon_will/will_manipulation/aura)Aura$().  Next, you'll need to make a $(thing)Demon Crystallizer$()."
+      "text": "既然您的$(l:bloodmagic:demon_will/soul_gem)地獄魂石$()中有大量的$(l:bloodmagic:demon_will/demon_will)惡魔意志$()，現在是時候探索當您將其釋放到世界上時會發生什麼。 $(br)首先，你需要創造一個$(item)惡魔坩堝$()，然後用$(l:bloodmagic:demon_will/demon_will)惡魔意志$()填充它。"
     },
     {
       "type": "crafting_soulforge",
       "heading": "Demon Crystallizer",
       "recipe": "bloodmagic:soulforge/demon_crystallizer",
-      "text": "This will slowly consume $(l:bloodmagic:demon_will/will_manipulation/demon_will)Demon Will$() from the $(l:bloodmagic:demon_will/will_manipulation/aura)Aura$() to produce $(item)Will Crystals$(). The first spire costs 100 $(raw)Will$() to form, and all subsequent spires cost 40 each, but can be burned for 50 in the $(item)Demon Crucible$(), for a net gain of 10. The largest $(item)Crystal Cluster$() can be up to 7 spires."
+      "text": "這將慢慢消耗大氣中的$(l:bloodmagic:demon_will/demon_will)惡魔意志$()以產生$(item)意志水晶$()。第一個尖塔消耗大約100點$(raw)意志$()形成，隨後的所有尖塔每個消耗40點，但可以在$(item)惡魔坩堝$()中燃燒50點。最大的$(item)水晶簇$()最多可以有7個尖塔。"
     },
     {
       "type": "text",
