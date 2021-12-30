@@ -27,13 +27,13 @@
     "key.ae2wtlib.toggleMagnet": "切換磁力卡",
     "text.autoconfig.ae2wtlib.title": "AE2 無線終端機",
     "text.autoconfig.ae2wtlib.option.chargeRate": "充電速率",
-    "text.autoconfig.ae2wtlib.option.wutChargeRateMultiplier": "Wireless Universal Terminal Charge Rate Multiplier",
-    "text.autoconfig.ae2wtlib.option.outOfRangePowerMultiplier": "Out of Range Power Multiplier",
+    "text.autoconfig.ae2wtlib.option.wutChargeRateMultiplier": "無線通用終端充電速率倍增器",
+    "text.autoconfig.ae2wtlib.option.outOfRangePowerMultiplier": "超出範圍的功率倍增器",
     "text.autoconfig.ae2wtlib.option.magnetCardRange": "Magnet Card Range",
-    "text.autoconfig.ae2wtlib.option.enableTrinket": "Enable Trinkets Integration",
+    "text.autoconfig.ae2wtlib.option.enableTrinket": "啟用飾品欄附屬",
     "text.autoconfig.ae2wtlib.option.wutChargeRateMultiplier.@Tooltip": "",
-    "text.autoconfig.ae2wtlib.option.outOfRangePowerMultiplier.@Tooltip": "If this is lower than 1, being in range of a Wireless Access Point would use more power in some cases.",
+    "text.autoconfig.ae2wtlib.option.outOfRangePowerMultiplier.@Tooltip": "如果此值低於 1，則在無線存取點的範圍內會消耗更多功率。",
     "text.autoconfig.ae2wtlib.option.magnetCardRange.@Tooltip": "",
     "text.autoconfig.ae2wtlib.option.enableTrinket.@Tooltip[0]": "This will break things if it is different than a server you might connect to.",
-    "text.autoconfig.ae2wtlib.option.enableTrinket.@Tooltip[1]": "It is only effective if Trinkets is installed."
+    "text.autoconfig.ae2wtlib.option.enableTrinket.@Tooltip[1]": "它只有在安裝了飾品時才有效。"
 }
