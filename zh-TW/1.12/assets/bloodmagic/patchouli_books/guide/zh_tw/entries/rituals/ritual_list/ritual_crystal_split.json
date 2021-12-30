@@ -25,16 +25,16 @@
     },
     {
       "type": "text",
-      "text": "This ritual takes a well grown (at least 5 spires) $(l:bloodmagic:demon_will/will_manipulation/crystallized_will)Raw Crystal Cluster$(/l) located 2 blocks above the $(item)Master Ritual Stone$(), and splits it into new single spires of each $(l:bloodmagic:demon_will/will_manipulation/aspected_will)Aspected Will$(/l) Crystal Clusters located directly above the 4 elemental Ritual Stones. This spacing is designed to accommodate a $(item)Demon Crystallizer$() on top of the $(item)Master Ritual Stone$().$(br2)For information on growing Demon Will Crystals, please see $(l:bloodmagic:demon_will/will_manipulation/crystallized_will)Crystallized Will$(/l)."
+      "text": "該儀式需要一個生長良好（至少5個尖頂）的$(l:bloodmagic:demon_will/will_manipulation/crystallized_will)原生意志晶簇$(/l)，位於$(item)主儀式石$()上方2格處，並將其分成新的單個尖頂，其他每個$(l:bloodmagic:demon_will/will_manipulation/aspected_will)意志晶簇$(/l)各自放在4個元素儀式石正上方。此間距設計用於在$(item)主儀式石$()頂部容納$(item)惡魔結晶壇$()。$(br2)有關種植惡魔意志水晶的訊息，請參閱$(l:bloodmagic:demon_will/will_manipulation/crystallized_will)結晶化意志$(/l)。"
     },
     {
       "type": "image",
-      "title": "Ritual Setup",
+      "title": "儀式設置",
       "images": [
         "bloodmagic:images/entries/demon_will/will_splitting.png"
       ],
       "border": true,
-      "text": "Recommended setup for the Resonance of the Faceted Crystal ritual."
+      "text": "推薦的結晶共鳴儀式設置。"
     }
   ]
 }
