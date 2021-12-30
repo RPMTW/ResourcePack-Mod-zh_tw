@@ -1,5 +1,5 @@
 {
-  "name": "惡魔意志詳情",
+  "name": "惡魔意志種類",
   "icon": "bloodmagic:vengefulcrystal",
   "category": "bloodmagic:demon_will/will_manipulation",
   "extra_recipe_mappings": [
@@ -55,14 +55,14 @@
   "pages": [
     {
       "type": "text",
-      "text": "將$(l:bloodmagic:demon_will/will_manipulation/demon_will)惡魔意志$()釋放到大氣中，絕對是一個絕妙的主意。事實證明，它不僅在增強$(item)儀式$()方面有用，而且您還成功地將其濃縮成一個$(l:bloodmagic:demon_will/will_manipulation/crystallized_will)水晶簇$()，並且想知道下一步該將目光投向什麼。$(br2)對你來說，這些$(item)水晶$()感覺有點……矛盾。某種$(l:bloodmagic:rituals/ritual_list/ritual_crystal_split)儀式$()可能會幫助他們把它們變成更純粹的形式……"
+      "text": "將$(l:bloodmagic:demon_will/will_manipulation/demon_will)惡魔意志$()釋放到大氣中，絕對是一個絕妙的主意。事實證明，它不僅在增強$(item)儀式$()方面有用，而且您還成功地將其濃縮成一個$(l:bloodmagic:demon_will/will_manipulation/crystallized_will)意志晶簇$()，並且想知道下一步該將目光投向什麼。$(br2)對你來說，這些$(item)水晶$()感覺有點……矛盾。某種$(l:bloodmagic:rituals/ritual_list/ritual_crystal_split)儀式$()可能會幫助他們把它們變成更純粹的形式……"
     },
     {
       "type": "image",
       "images": [
         "bloodmagic:images/entries/demon_will/will_splitting.png"
       ],
-      "title": "意志的各方面",
+      "title": "意志的各個種類",
       "border": true,
       "text": "正在進行中的$(l:bloodmagic:rituals/ritual_list/ritual_crystal_split)結晶共鳴$()儀式。"
     },
