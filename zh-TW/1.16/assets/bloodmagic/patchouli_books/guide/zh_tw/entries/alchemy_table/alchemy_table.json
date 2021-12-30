@@ -10,7 +10,7 @@
     {
       "type": "crafting",
       "recipe": "bloodmagic:alchemy_table",
-      "text": "When looking at $(item)Alchemy Table$() recipes in this book (or in $(thing)JEI$()), please hover over the arrow with an \"LP\" label to view Time, $(blood)LP$() drain, and Tier information."
+      "text": "查看本書(或$(thing)JEI$())中的$(item)鍊金術桌$()配方時，將鼠標停在帶有“LP”標籤的箭頭上以查看時間、$(blood)LP$()消耗和層級的相關信息。"
     },
     {
       "type": "image",
@@ -35,14 +35,14 @@
         "bloodmagic:images/entries/alchemy_table/alchemy_table_orb_error.png",
         "bloodmagic:images/entries/alchemy_table/alchemy_table_soul_error.png"
       ],
-      "title": "Alchemy Table Errors",
+      "title": "鍊金術桌錯誤",
       "anchor": "errors",
       "border": true,
-      "text": "The Alchemy Table will tell you when something is wrong."
+      "text": "煉金術桌會在出現錯誤時告訴您。"
     },
     {
       "type": "text",
-      "text": "The two most common reasons for a recipe to not work in the Alchemy Table are as follows: $(li)$(bold)Orb Error$(): Either there is no Blood Orb present in the relevant slot, or the Orb you are trying to use is not a high enough level for this recipe. $(li)$(bold)Soul Network Error$(): The orb is of a valid level, but either you have not bound it to yourself (right click while holding it), or your Soul Network does not have enough LP in it. $(br2)The following pages document a number of recipes currently available for the Alchemy Table,"
+      "text": "配方在煉金術桌中不起作用的兩個最常見原因如下：$(li)$(bold)氣血寶珠錯誤$()：相關插槽中沒有氣血寶珠，或者您所使用的氣血寶珠等級不夠高無法在此配方使用。$(li)$(bold)靈魂網路錯誤$()：氣血寶珠的等級是有效的，但是你沒有綁定它（拿著它點擊右鍵），或者你的靈魂網絡沒有足夠的LP。$(br2)以下頁面記錄了當前可用於煉金術桌的一些配方，"
     },
     {
       "type": "3x_crafting_alchemy_table",
@@ -80,21 +80,21 @@
       "type": "3x_crafting_alchemy_table",
       "a.heading": "燧石",
       "a.recipe": "bloodmagic:alchemytable/flint_from_gravel",
-      "b.heading": "Saltpeter",
+      "b.heading": "硝石",
       "b.recipe": "bloodmagic:alchemytable/saltpeter",
-      "c.heading": "Gunpowder",
+      "c.heading": "火藥",
       "c.recipe": "bloodmagic:alchemytable/gunpowder"
     },
     {
       "type": "2x_crafting_alchemy_table",
-      "a.heading": "Lava Bucket",
+      "a.heading": "熔岩桶",
       "a.recipe": "bloodmagic:alchemytable/sigil_lava_bucket",
-      "b.heading": "Water Bucket",
+      "b.heading": "水桶",
       "b.recipe": "bloodmagic:alchemytable/sigil_water_bucket"
     },
     {
       "type": "text",
-      "text": "The $(l:bloodmagic:alchemy_array/sigil/lava)Lava$() and $(l:bloodmagic:alchemy_array/sigil/water)Water Sigils$() are not consumed in either of these recipes. What's more, the $(item)Water Sigil$() can be used in place of a $(water)Water Bucket$() in any Alchemy Table Recipe."
+      "text": "$(l:bloodmagic:alchemy_array/sigil/lava)熔岩印記$()和$(l:bloodmagic:alchemy_array/sigil/water)水之印記$() 在這兩個配方中都不會消耗。更重要的是，$(item)水之印記$()可以用來代替任何煉金術桌配方中的$(water)水桶$()。"
     }
   ]
 }
