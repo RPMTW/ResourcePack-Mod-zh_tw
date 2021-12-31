@@ -1,21 +1,21 @@
 {
-  "name": "Standard Item Filter",
+  "name": "標準物品過濾器",
   "icon": "bloodmagic:itemrouterfilterexact",
   "category": "bloodmagic:demon_will/item_routing",
   "pages": [
     {
       "type": "text",
-      "text": "The Standard Item Filter lets you select up to 9 items to withdraw from, or insert into, the adjacent inventory when inserted into a $(l:bloodmagic:demon_will/item_routing/routing_nodes)Routing Node$(). $(br2)Each item has a quantity - leaving this blank will default to 'all'. $(br2)The Filter also has an Allow and Deny function. In Deny mode, quantities are ignored. "
+      "text": "當插入到$(l:bloodmagic:demon_will/item_routing/routing_nodes)路由節點$()時，標準物品過濾器允許您選擇最多9個物品以從相鄰的容器中取出或放入。$(br2)每個物品都可以設定傳輸數量——留空將默認為“全部”。$(br2)過濾器也有允許和拒絕功能。在拒絕模式下，傳輸數量會被忽略。"
     },
     {
       "type": "crafting_alchemy_table",
-      "heading": "Standard Item Filter",
+      "heading": "標準物品過濾器",
       "recipe": "bloodmagic:alchemytable/router_filter",
-      "text": "$(br)When used in an $(item)Input Routing Node$(), the quantity tells the node how many of that item to leave in the selected inventory. Anything above this amount will be imported into the network."
+      "text": "$(br)當在$(item)輸入路由節點$()中使用時，傳輸數量會讓節點偵測該物品有多少還留在選定的容器中。高於此數量的任何物品都將導入網絡。"
     },
     {
       "type": "text",
-      "text": "When used in an $(item)Output Routing Node$(), the quantity tells the node how many of that item to fill in the selected inventory with. Anything above this amount will be left in the network - either passed into another valid inventory, or left where it is."
+      "text": "在$(item)輸出路由節點$()中使用時，傳輸數量則告訴節點要在所指定的容器中放入多少物品。高於此數量的任何物品都將留在網路中-要麼傳遞到另一個有效容器中，要麼留在原地。"
     },
     {
       "type": "image",
@@ -23,9 +23,9 @@
         "bloodmagic:images/entries/routing/standard_item_filter_gui.png",
         "bloodmagic:images/entries/routing/standard_item_filter_mouseover.png"
       ],
-      "title": "Standard Item Filter GUI",
+      "title": "標準物品過濾器介面",
       "border": true,
-      "text": "The GUI and the mouseover text of a configured filter."
+      "text": "已配置過濾器的介面和鼠標懸停文本。"
     }
   ]
 }
