@@ -5,6 +5,7 @@ on:
     branches: [Translated-1.12]
     paths:
       - "zh-TW/**"
+      - "Add-on/**"
   workflow_dispatch:
 
 jobs:
@@ -24,7 +25,7 @@ jobs:
 
 
       - name: "壓縮資源包"
-        run: zip -r RPMTW-1.12.zip zh-TW/1.12
+        run: zip -r RPMTW-1.12.zip zh-TW/1.12 Add-on/1.12
 
       - name: "提交檔案"
         continue-on-error: true
