@@ -92,16 +92,16 @@
     },
     {
       "type": "text",
-      "text": "Of course, your setup can be as steep or as shallow as you want (Within reason, as defined earlier in this entry). $(br2) It is important to note that the tranquility bonus is capped by the size of your altar (and thus, the tier of path you are using). The caps are as follows: $(li) No Path: 20%. $(li) Wooden Path: 60%. $(li) Stone Path: 120%. $(li) Worn Stone Path: 200%. $(li) Obsidian Path: 300%. (Obsidian is NYI, sadly)"
+      "text": "當然，您可以根據您的需要設置的陡峭或平順（在合理範圍內，如本條目前面所定義）。$(br2)需要注意的是，$(thing)靜謐值加成$()的上限是你的祭壇的大小（因此，你所使用的路面等級）。上限如下：$(li)無路面：20%。$(li)木質路面：60%。$(li)石製路面：120%。$(li)碎石路面：200%。$(li)黑曜石路面：300%。（可悲的是黑曜石路面是尚未加入）"
     },
     {
       "type": "image",
       "images": [
         "bloodmagic:images/entries/utility/incense_altar4.png"
       ],
-      "title": "Incense Altar Setup",
+      "title": "薰香祭壇設置",
       "border": true,
-      "text": "A very simple Incense Altar. Note the (optional) mixing of different path blocks."
+      "text": "一個非常簡單的$(item)薰香祭壇$()設置。 注意不同路面方塊的（可選）混搭。"
     }
   ]
 }
