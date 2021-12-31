@@ -1,18 +1,18 @@
 {
-  "name": "Node Router",
+  "name": "節點連接工具",
   "icon": "bloodmagic:noderouter",
   "category": "bloodmagic:demon_will/item_routing",
   "priority": "true",
   "pages": [
     {
       "type": "text",
-      "text": "The $(item)Node Router$() is used to link Nodes together into a Network. Its functionality is straightforward - Simply hold [$(k:sneak)] and [$(k:use)] while aiming at  a node, then do the same to another node within 16 blocks. These two nodes are now linked. If you want to de-select a node, [$(k:use)] on any other block. See the entry on $(l:bloodmagic:demon_will/item_routing/routing_nodes)Routing Nodes$() for more information."
+      "text": "$(item)節點連接工具$()用於將節點連接在一起從而形成網絡。它的功能很簡單——只需在瞄準一個節點時按住[$(k:sneak)]和[$(k:use)]，然後對16格內的另一個節點執行相同操作。這兩個節點就會鏈接。如果你想取消正在選取節點的狀態，請[$(k:use)]點擊任何其他方塊。有關詳細信息，請參閱$(l:bloodmagic:demon_will/item_routing/routing_nodes)路由節點$()。"
     },
     {
       "type": "crafting_soulforge",
-      "heading": "Node Router",
+      "heading": "節點連接工具",
       "recipe": "bloodmagic:soulforge/node_router",
-      "text": "$(italic)A slightly magical stick.$()"
+      "text": "$(italic)一根如魔法般的棍子。$()"
     }
   ]
 }
