@@ -11,7 +11,7 @@
       "type": "crafting_soulforge",
       "heading": "[微小]地獄魂石",
       "recipe": "bloodmagic:soulforge/pettytartaricgem",
-      "text": "Your first gem will hold a maximum of 64 $(l:bloodmagic:demon_will/will_manipulation/demon_will)Will$(). Much more compact than before! $(br2)If you ever want to transfer $(raw)Will$() from one gem to another, simply hold [$(k:use)] while holding the gem you want to empty, and it will transfer its will into the first valid gem it finds in your inventory."
+      "text": "你的初級魂石可以容納64個$(l:bloodmagic:demon_will/will_manipulation/demon_will)意志$()。比以前緊湊多了！$(br2)如果您想將$(raw)意志$()從一個魂石轉移到另一個魂石，只需在持有您想要清空的魂石的同時按住 [$(k:use)]，它就會將其意志轉移到在您的物品欄中第一個找到的有效的魂石中。"
     },
     {
       "type": "text",
