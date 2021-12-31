@@ -11,17 +11,17 @@
       "type": "crafting_soulforge",
       "heading": "[微小]地獄魂石",
       "recipe": "bloodmagic:soulforge/pettytartaricgem",
-      "text": "Your first gem will hold a maximum of 64 $(l:bloodmagic:demon_will/will_manipulation/demon_will)Will$(). Much more compact than before! $(br2)If you ever want to transfer $(raw)Will$() from one gem to another, simply hold [$(k:use)] while holding the gem you want to empty, and it will transfer its will into the first valid gem it finds in your inventory."
+      "text": "你的初級魂石可以容納64個$(l:bloodmagic:demon_will/will_manipulation/demon_will)意志$()。比以前緊湊多了！$(br2)如果您想將$(raw)意志$()從一個魂石轉移到另一個魂石，只需在持有您想要清空的魂石的同時按住 [$(k:use)]，它就會將其意志轉移到在您的物品欄中第一個找到的有效的魂石中。"
     },
     {
       "type": "text",
-      "text": "\n你的$(item)[微小]地獄魂石$()是一個有用的工具，但它顯然不夠強壯。小心的使用$(item)鑽石$()、$(item)青金石$()和$(item)紅石$() ，你找到了一種將其儲存能力提高四倍的方法。 "
+      "text": "你的$(item)[微小]地獄魂石$()是一個有用的工具，但它顯然不夠強壯。小心的使用$(item)鑽石$()、$(item)青金石$()和$(item)紅石$()，你找到了一種將其儲存能力提高四倍的方法。 "
     },
     {
       "type": "crafting_soulforge",
       "heading": "[細塊]地獄魂石",
       "recipe": "bloodmagic:soulforge/lessertartaricgem",
-      "text": "This reinforced gem can hold up to 256 $(l:bloodmagic:demon_will/will_manipulation/demon_will)Will$(). $(br2)Note: You only need one gem when upgrading - the $(item)Hellfire Forge$() will draw $(raw)Will$() from the gem it's crafting before trying to use will from the gem in its Gem Slot. Don't worry, the newly crafted gem will hold any leftover $(raw)Will$() from the process."
+      "text": "這顆強化魂石最多可容納256個$(l:bloodmagic:demon_will/will_manipulation/demon_will)意志$()。$(br2)注意：升級時你只需要一顆魂石-$(item)獄火熔爐$()會優先從正在合成的魂石中提取$(raw)意志$()，不夠時再從右側補充欄位的魂石中提取。不用擔心，合成出的新魂石將保留該過程中剩餘的$(raw)意志$()。"
     },
     {
       "type": "text",
@@ -31,7 +31,7 @@
       "type": "crafting_soulforge",
       "heading": "[普通]地獄魂石",
       "recipe": "bloodmagic:soulforge/commontartaricgem",
-      "text": "This intricate gem can hold an impressive 1,024 $(l:bloodmagic:demon_will/will_manipulation/demon_will)Will$()."
+      "text": "這顆錯綜複雜的魂石最多可容納1024個$(l:bloodmagic:demon_will/will_manipulation/demon_will)意志$()。"
     },
     {
       "type": "text",
@@ -41,7 +41,7 @@
       "type": "crafting_soulforge",
       "heading": "[較大]地獄魂石",
       "recipe": "bloodmagic:soulforge/greatertartaricgem",
-      "text": "This masterpiece of artifice can hold an astounding 4,096 $(l:bloodmagic:demon_will/will_manipulation/demon_will)Will$()."
+      "text": "這個大師級傑作最多可容納4096個$(l:bloodmagic:demon_will/will_manipulation/demon_will)意志$()。"
     },
     {
       "type": "text",
