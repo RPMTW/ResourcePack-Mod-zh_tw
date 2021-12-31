@@ -1,11 +1,11 @@
 {
-  "name": "Incense Altar",
+  "name": "薰香祭壇",
   "icon": "bloodmagic:incensealtar",
   "category": "bloodmagic:utility",
   "pages": [
     {
       "type": "text",
-      "text": "  The $(item)Incense Altar$() is a multiblock structure that can be used to boost your self-sacrificing at a $(l:bloodmagic:altar/blood_altar)Blood Altar.$(/l) By standing nearby your setup, the $(item)Incense Altar$() will calm your soul based on the area's total \"Tranquility\", allowing you to significantly increase your LP gains."
+      "text": "$(item)薰香祭壇$()是一個多方塊結構，可用在$(l:bloodmagic:altar/blood_altar)血之祭壇$()上以加強你的自我犧牲。站在您的設置附近，$(item)薰香祭壇$()將根據該區域的總$(thing)靜謐值$()使您的靈魂平靜下來，讓您的$(blood)LP$()收益顯著增加。"
     },
     {
       "type": "crafting",
