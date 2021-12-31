@@ -5,7 +5,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "Bloodstone Bricks are a decorational block, and used as the capstones for the Tier-4 Blood Altar."
+      "text": "$(item)血石磚$()是一種裝飾方塊，用在四階$(l:bloodmagic:altar/blood_altar)血之祭壇$()的$(thing)頂點處$()。"
     },
     {
       "type": "crafting",
