@@ -55,7 +55,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "將$(l:bloodmagic:demon_will/will_manipulation/demon_will)惡魔意志$()釋放到大氣中，絕對是一個絕妙的主意。事實證明，它不僅在增強$(item)儀式$()方面有用，而且您還成功地將其濃縮成一個$(l:bloodmagic:demon_will/will_manipulation/crystallized_will)意志晶簇$()，並且想知道下一步該將目光投向什麼。$(br2)對你來說，這些$(item)水晶$()感覺有點……矛盾。某種$(l:bloodmagic:rituals/ritual_list/ritual_crystal_split)儀式$()可能會幫助他們把它們變成更純粹的形式……"
+      "text": "將$(l:bloodmagic:demon_will/will_manipulation/demon_will)惡魔意志$()釋放到大氣中，絕對是一個絕妙的主意。事實證明，它不僅在增強$(item)儀式$()方面有用，而且您還成功地將其濃縮成一個$(l:bloodmagic:demon_will/will_manipulation/crystallized_will)意志晶簇$()，並且想知道下一步該將目光投向什麼。$(br2)對你來說，這些$(item)晶體$()感覺有點……矛盾。某種$(l:bloodmagic:rituals/ritual_list/ritual_crystal_split)儀式$()可能會幫助他們把它們變成更純粹的形式……"
     },
     {
       "type": "image",
@@ -81,11 +81,11 @@
     },
     {
       "type": "text",
-      "text": "您可能想知道：“我到底如何將這份意志變成可用的形式？”嗯，答案很簡單。 只需將一塊空的$(l:bloodmagic:demon_will/will_manipulation/soul_gem)地獄魂石$()放入與$(item)惡魔坩堝$()相同區塊裡的$(l:bloodmagic:demon_will/will_manipulation/soul_forge)獄火熔爐$()中，然後用所需種類的意志水晶餵養惡魔坩堝。 你的$(l:bloodmagic:demon_will/will_manipulation/soul_gem)地獄魂石$()會充滿這種意志。 你可以通過按住[$(k:use)]來改變你的$(raw)感知工具$()使用的類型。"
+      "text": "您可能想知道：“我到底如何將這份意志變成可用的形式？”嗯，答案很簡單。 只需將一塊空的$(l:bloodmagic:demon_will/will_manipulation/soul_gem)地獄魂石$()放入與$(item)惡魔坩堝$()相同chunk裡的$(l:bloodmagic:demon_will/will_manipulation/soul_forge)獄火熔爐$()中，然後用所需種類的意志晶體餵養惡魔坩堝。 你的$(l:bloodmagic:demon_will/will_manipulation/soul_gem)地獄魂石$()會充滿這種意志。 你可以通過按住[$(k:use)]來改變你的$(raw)感知工具$()使用的類型。"
     },
     {
       "type": "text",
-      "text": "請注意，您的$(raw)感知工具$()將優先採用身上最大數量的$(raw)意志$()。如果你在一個$(l:bloodmagic:demon_will/will_manipulation/soul_gem)地獄魂石$()中攜帶10個$(corrosive)腐蝕意志$()，在另一個中攜帶1,000個$(raw)原生意志$()，那麼你的劍將保持$(raw)原生$()。"
+      "text": "請注意，您的$(raw)感知工具$()將優先採用身上最大數量的$(raw)意志$()。如果你在一個$(l:bloodmagic:demon_will/will_manipulation/soul_gem)地獄魂石$()中攜帶10個$(corrosive)腐蝕意志$()，在另一個中攜帶1,000個$(raw)原生意志$()，那麼你的劍將保持為$(raw)原生$()。"
     }
   ]
 }
