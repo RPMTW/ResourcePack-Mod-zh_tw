@@ -15,13 +15,13 @@
     },
     {
       "type": "text",
-      "text": "\n你的$(item)[微小]地獄魂石$()是一個有用的工具，但它顯然不夠強壯。小心的使用$(item)鑽石$()、$(item)青金石$()和$(item)紅石$() ，你找到了一種將其儲存能力提高四倍的方法。 "
+      "text": "你的$(item)[微小]地獄魂石$()是一個有用的工具，但它顯然不夠強壯。小心的使用$(item)鑽石$()、$(item)青金石$()和$(item)紅石$()，你找到了一種將其儲存能力提高四倍的方法。 "
     },
     {
       "type": "crafting_soulforge",
       "heading": "[細塊]地獄魂石",
       "recipe": "bloodmagic:soulforge/lessertartaricgem",
-      "text": "This reinforced gem can hold up to 256 $(l:bloodmagic:demon_will/will_manipulation/demon_will)Will$(). $(br2)Note: You only need one gem when upgrading - the $(item)Hellfire Forge$() will draw $(raw)Will$() from the gem it's crafting before trying to use will from the gem in its Gem Slot. Don't worry, the newly crafted gem will hold any leftover $(raw)Will$() from the process."
+      "text": "這顆強化魂石最多可容納256個$(l:bloodmagic:demon_will/will_manipulation/demon_will)意志$()。$(br2)注意：升級時你只需要一顆魂石-$(item)獄火熔爐$()會優先從正在合成的魂石中提取$(raw)意志$()，不夠時再從右側補充欄位的魂石中提取。不用擔心，合成出的新魂石將保留該過程中剩餘的$(raw)意志$()。"
     },
     {
       "type": "text",
@@ -31,22 +31,22 @@
       "type": "crafting_soulforge",
       "heading": "[普通]地獄魂石",
       "recipe": "bloodmagic:soulforge/commontartaricgem",
-      "text": "This intricate gem can hold an impressive 1,024 $(l:bloodmagic:demon_will/will_manipulation/demon_will)Will$()."
+      "text": "這顆錯綜複雜的魂石最多可容納1024個$(l:bloodmagic:demon_will/will_manipulation/demon_will)意志$()。"
     },
     {
       "type": "text",
-      "text": "You have clearly outdone yourself with the creation of the $(item)Common Tartaric Gem$(), but you feel there is still more you can do. However, getting more out of your gem will involve the culmination of all your work so far. Not only do you need a $(l:bloodmagic:altar/slates)Demonic Slate$(), you also require a $(l:bloodmagic:utility/alchemical_reaction_chamber#blood_shard)Weak Blood Shard$() $(o)and$() a $(l:bloodmagic:demon_will/will_manipulation/crystallized_will)Demon Will Crystal$(). Of course, it will come with rewards to match, powering your $(l:bloodmagic:demon_will/demonic_items/sentient_tools)Sentient Tools$() like nothing you have seen before..."
+      "text": "您在創造$(item)一般的地獄魂石$()這方面顯然已經超越了自我，但您覺得還有更多的事情可以做。但是，想從您的魂石中獲得更多收益將迎來來您迄今為止所有工作的高峰。你不僅需要$(l:bloodmagic:altar/slates)惡魔石板$()，還需要$(l:bloodmagic:utility/alchemical_reaction_chamber#blood_shard)虛弱氣血碎片$()$(o)和$()$(l:bloodmagic:demon_will/will_manipulation/crystallized_will)惡魔意志晶體$()。當然，它將會帶來同等的獎勵，為您的$(l:bloodmagic:demon_will/demonic_items/sentient_tools)感知工具$()提供前所未有的力量……"
     },
     {
       "type": "crafting_soulforge",
       "heading": "[較大]地獄魂石",
       "recipe": "bloodmagic:soulforge/greatertartaricgem",
-      "text": "This masterpiece of artifice can hold an astounding 4,096 $(l:bloodmagic:demon_will/will_manipulation/demon_will)Will$()."
+      "text": "這個大師級傑作最多可容納4096個$(l:bloodmagic:demon_will/will_manipulation/demon_will)意志$()。"
     },
     {
       "type": "text",
       "flag": "mod:curios",
-      "text": "As you have the $(thing)Curios API$() installed, you can equip $(item)Tartaric Gems$() as a necklace. If you want to wear more curios at once, consider using a $(l:bloodmagic:alchemy_array/sigil/holding)Sigil of Holding$(), or the $(l:bloodmagic:alchemy_array/living_equipment/armor_upgrades/curios_sockets)Socketed Upgrade$() for your $(l:bloodmagic:alchemy_array/living_equipment/living_basics)Living Armour$()."
+      "text": "如果您安裝了$(thing)Curios API$()，您可以將$(item)地獄魂石$()作為項鍊裝備。如果您想一次佩戴更多飾品，請考慮為您的$(l:bloodmagic:alchemy_array/living_equipment/living_basics)束靈裝備$()使用$(l:bloodmagic:alchemy_array/sigil/holding)集持印記$()或$(l:bloodmagic:alchemy_array/living_equipment/armor_upgrades/curios_sockets)插槽升級$()。"
     }
   ]
 }
