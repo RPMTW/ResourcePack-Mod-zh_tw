@@ -29,7 +29,7 @@
     "text.autoconfig.ae2wtlib.option.chargeRate": "充電速率",
     "text.autoconfig.ae2wtlib.option.wutChargeRateMultiplier": "無線通用終端充電速率倍增器",
     "text.autoconfig.ae2wtlib.option.outOfRangePowerMultiplier": "超出範圍的功率倍增器",
-    "text.autoconfig.ae2wtlib.option.magnetCardRange": "Magnet Card Range",
+    "text.autoconfig.ae2wtlib.option.magnetCardRange": "磁卡範圍",
     "text.autoconfig.ae2wtlib.option.enableTrinket": "啟用飾品欄附屬",
     "text.autoconfig.ae2wtlib.option.wutChargeRateMultiplier.@Tooltip": "",
     "text.autoconfig.ae2wtlib.option.outOfRangePowerMultiplier.@Tooltip": "如果此值低於 1，則在無線存取點的範圍內會消耗更多功率。",
