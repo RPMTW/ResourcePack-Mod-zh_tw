@@ -238,7 +238,7 @@
     "hats.config.prop.allowSendingOfHats.comment": "是否允許將模型文件發送到伺服器/用戶端？",
     "hats.config.prop.allowReceivingOfHats.comment": "是否允許將模型文件接收到伺服器/用戶端？",
     "hats.config.prop.modMobSupport.comment": "啟用模組 生物支持帽子？",
-    "hats.config.prop.readLocalModMobSupport.comment": "從/帽子/文件夾讀取本地模組 生物支持文件（HatModMobSupport.json）？如果關閉，它將取消在線GitHub版本。使用這個來測試自訂生物帽子。",
+    "hats.config.prop.readLocalModMobSupport.comment": "從/帽子/資料夾讀取本機模組生物支援檔案（HatModMobSupport.json）？如果關閉，它將取消在線 GitHub 版本。使用這個來測試自訂生物帽子。",
     "hats.config.prop.firstJoinMessage.comment": "當玩家第一次加入世界時，向玩家發送“首次加入”消息？",
     "hats.config.prop.lockedHat.comment": "玩家在鎖定模式下帶什麼帽子（請參閱playerHatsMode 2）。如果你想讓不同的玩家戴上不同的帽子，請使用OP模式。",
     "hats.config.prop.startTime.comment": "對於playerHatsMode 6：需要在伺服器上啟用以解鎖第一個帽子的時間（以ticks為單位）",
