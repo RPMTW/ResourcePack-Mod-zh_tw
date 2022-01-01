@@ -118,7 +118,7 @@
     "betterquesting.help.page5": "§l§n導入%n§r%n一些擴展包可能包括其他任務mod的介面或者是讓整合作者下載在線的任務線。你可以在編輯模式下的修改任務線界面中點擊“導入”按鈕打開介面。 預設情況下，BQ沒有任何任務包，您需要找到一個擴展包或者自己做。",
     "betterquesting.help.page6": "§l§n主題%n§r%n如果你是特定顏色的UI背景的愛好者或者是想讓自己的包更具有權威性的整合作者，“主題”一定會成為你最好的朋友。主題可以根據你的需求來改變任務界面的外觀，無論是未來派，魔法派還是經典的Minecraft風格都能夠實現。 它們可以通過資源包，資源目錄或擴展包進行安裝。",
     "betterquesting.help.page7": "§l§n本地化%n§r%nBQ支持任務名稱和任務描述的所有本地化，以便如果您想要將您的整合包釋放給所有國家的玩家!為了將你的任務本地化，你需要使用unique字元，例如“§omypack.quest1.name§r” 而不是純文本。你可以創建一個只包含.lang文件的資源包並準備好所有語言的譯文。這些文件可以選擇性地儲存在BQ的資源目錄中，以便捆綁包裝",
-    "betterquesting.help.page8": "§l§n資源%n§r%n如果要自訂主界面，綁定主題或添加本地化文件，則可以通過此修改以下路徑的文件： %n%n\"§o/config/betterquesting/resources/<pack_name>/§r\"%n%n這裡的任何文件夾都可以被視為未列出的資源包，其中包含個性化您的整合包所需的所有內容。",
+    "betterquesting.help.page8": "§l§n資源%n§r%n如果要自訂主界面，綁定主題或添加本地化檔案，則可以通過此修改以下路徑的檔案： %n%n\"§o/config/betterquesting/resources/<pack_name>/§r\"%n%n這裡的任何資料夾都可以被視為未列出的資源包，其中包含個性化您的整合包所需的所有內容。",
     "betterquesting.design.tree": "任務樹設計",
     "betterquesting.toolbox.tab.main": "主要",
     "betterquesting.toolbox.tool.open.name": "打開",
