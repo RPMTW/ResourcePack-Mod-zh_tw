@@ -11,7 +11,7 @@
     },
     {
       "type": "text",
-      "text": "When $(6)Magnet Mode$() is enabled nearby items will be teleported to the player when they can be picked up. $(br2)When $(6)Auto-Pickup Mode$() is enabled items that can go in the backpack picked up by the player it will go into the backpack automatically. $(br2)Each slot can be configured to $(6)void$() excess or to $(6)refill$() stacks that aren't full in your inventory."
+      "text": "啟用$(6)磁鐵模式$()後，加大掉落物和經驗球的吸附範圍。$(br2)當啟用$(6)自動拾取模式$()時，玩家拾取可以放入背包的物品時將自動進入背包。$(br2)每個插槽都可以配置為$(6)清除$()多餘物品或重新$(6)補充$()物品欄中未滿的物品。"
     }
   ]
 }
