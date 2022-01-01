@@ -9,7 +9,7 @@
     "ichunutil.config.cat.gameplay.comment": "這些選項影響使用模組時的遊戲性。",
     "ichunutil.config.cat.globalOptions.comment": "這些選項影響載入這個模組的伺服器端和客戶端。",
     "ichunutil.config.cat.serverOptions.comment": "這些選項只影響載入這個模組的伺服器端。",
-    "ichunutil.config.cat.clientOnly.comment": "這些選項只影響載入這個模組的客戶端。\\n如果你在尋找快捷鍵，請在 ichunutil_keybinds.cfg 檔案中查看。",
+    "ichunutil.config.cat.clientOnly.comment": "這些選項只影響載入這個模組的用戶端。\\n如果你在尋找快捷鍵，請在 ichunutil_keybinds.cfg 檔案中查看。",
     "ichunutil.config.cat.block.comment": "這些選項影響模組中的方塊。",
     "ichunutil.config.cat.keybind.name": "快捷鍵",
     "ichunutil.config.cat.keybind.comment": "如果你正在設定檔案中閱讀此處，我將強烈地推薦在遊戲中變更快捷鍵。\\niChunUtil使用自訂的快捷鍵。請到選項介面然後點擊顯示其他選項。\\n\\n如果你實在想要編輯這個設定檔案，格式是<key code>，並且可以追加 \":SHIFT\", \":CTRL\" 或\":ALT\" 這些你想要同時按下的鍵。\\n鍵碼值請在：http://minecraft.gamepedia.com/Key_codes 中查看 \\n例子：當你同時按下 Shift 鍵和 Alt 鍵，48:SHIFT:ALT 將綁定 B 鍵。",
