@@ -22,7 +22,7 @@
     "capsule.error.noCaptureBase": "這附近沒有截取裝置。",
     "capsule.error.cantMergeWithDestination": "有多余的方塊存在於部署範圍內！",
     "capsule.error.cantMergeWithDestinationEntity": "有 %s 存在於部署範圍內！",
-    "capsule.error.capsuleContentNotFound": "\"%s\" 膠囊無法在存檔的 \"structures\" 文件夾內被找到。",
+    "capsule.error.capsuleContentNotFound": "\"%s\" 膠囊無法在存檔的 \"structures\" 資料夾內被找到。",
     "capsule.error.technicalError": "在使用膠囊模組時發生了一些技術性問題，詳情請參考遊戲或伺服器日誌。",
     "capsule.error.templateNotFound": "錯誤：找不到膠囊的模板 %s。",
     "capsule.error.notAllowed": "膠囊並不允許被布置在此區域。",
