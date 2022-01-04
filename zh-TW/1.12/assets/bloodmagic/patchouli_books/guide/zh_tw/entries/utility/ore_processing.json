@@ -66,7 +66,7 @@
       "type": "3x_crafting_arc",
       "a.heading": "1個礦物變3個碎片",
       "a.recipe": "bloodmagic:arc/fragmentsiron",
-      "b.heading": "錠變礦砂",
+      "b.heading": "錠到礦砂",
       "b.recipe": "bloodmagic:arc/dustsfrom_ingot_iron",
       "c.heading": "硫磺和熔岩",
       "c.recipe": "bloodmagic:arc/netherrack_to_sulfer",
@@ -80,7 +80,7 @@
     },
     {
       "type": "crafting_arc",
-      "heading": "碎片變礫石",
+      "heading": "碎片到礫石",
       "recipe": "bloodmagic:arc/gravelsiron"
     },
     {
@@ -89,20 +89,20 @@
     },
     {
       "type": "2x_crafting_arc",
-      "a.heading": "Metal Gravel to Metal Sand",
+      "a.heading": "礦物礫石到礦砂",
       "a.recipe": "bloodmagic:arc/dustsfrom_gravel_iron",
-      "b.heading": "Ore to 2 Metal Sand",
+      "b.heading": "1個礦物變2個礦砂",
       "b.recipe": "bloodmagic:arc/dustsfrom_ore_iron"
     },
     {
       "type": "crafting",
       "heading": "Fuel Cell (Furnace)",
       "recipe": "bloodmagic:primitive_furnace_cell",
-      "text": "The $(item)ARC$() also functions as a $(thing)Furnace$(), but the only fuel sources it accepts is the $(item)Primitive Fuel Cell$() or a $(l:bloodmagic:utility/lava_crystal)Lava Crystal$(/l)."
+      "text": "$(item)煉金反應爐$()也當作$(thing)熔爐$()使用，但它接受的燃料來源只有$(item)原始燃料單元$()和$(l:bloodmagic:utility /lava_crystal)熔岩晶體$(/l)。"
     },
     {
       "type": "text",
-      "text": "The $(item)Primitive Fuel Cell$() is good for 128 individual uses. That's more than the $(item)Block of Coal$() used to craft it (60 items), and since it only loses durability when the crafting is finished it will not waste fuel."
+      "text": "$(item)原始燃料單元$()可以使用128次。這比用來製作它的$(item)煤炭方塊$()還多，而且它只會在燒製完成時失去耐久度，所以不會浪費燃料。"
     }
   ]
 }
