@@ -27,27 +27,27 @@
   "pages": [
     {
       "type": "text",
-      "text": "The $(l:bloodmagic:alchemy_table/alchemy_table)Alchemy Table$() can be used, amongst other things, for ore doubling, whilst the $(l:bloodmagic:utility/alchemical_reaction_chamber)Alchemical Reaction Chamber$() can triple the output of your ores. Get more ore out of your mining expeditions with the power of blood!"
+      "text": "$(l:bloodmagic:alchemy_table/alchemy_table)煉金術桌$()可以用於礦物加倍，而 $(l:bloodmagic:utility/alchemy_reaction_chamber)煉金反應爐$()可以使礦物輸出增加至三倍。用鮮血的力量從您的採礦探險中獲取更多礦物！"
     },
     {
       "type": "crafting_alchemy_table",
-      "heading": "Basic Cutting Fluid",
+      "heading": "基礎切削油",
       "anchor": "cutting_fluid",
       "recipe": "bloodmagic:alchemytable/basic_cutting_fluid_sigil",
-      "text": "Basic Cutting Fluid is used for 2x Ore Processing.  It can also be used in the $(l:bloodmagic:utility/alchemical_reaction_chamber)Alchemical Reaction Chamber$(/l) for the same purpose. While a $(l:bloodmagic:alchemy_array/sigil/water)Water Sigil$() is used in this demonstration, a simple $(water)Bottle of Water$() may be substituted in a pinch, though unlike the sigil, this will be consumed."
+      "text": "基礎切削油用於將礦物2倍化。它也可以用在$(l:bloodmagic:utility/alchemistry_reaction_chamber)煉金反應爐$(/l)中以達到同樣的目的。雖然在本演示中使用了$(l:bloodmagic:alchemy_array/sigil/water)水之印記$()，但在緊要關頭可以換成一個簡單的$(water)水桶$()，儘管與印記不同，水桶會被消耗。"
     },
     {
       "type": "crafting_alchemy_table",
-      "heading": "Intermediate Cutting Fluid",
+      "heading": "進階切削油",
       "anchor": "intermediate_cutting_fluid",
       "recipe": "bloodmagic:alchemytable/intermediate_cutting_fluid_sigil",
-      "text": "Intermediate Cutting Fluid is an improved version that lasts eight times as long and increases crafting speed by 25%. You'll have to go $(l:bloodmagic:dungeons/lobby)Dungeon Delving$() for the $(l:bloodmagic:dungeons/tau_fruit)Tau Oil$(), though."
+      "text": "進階切削油是持續時間延長八倍，製作速度提高25%的改良品。不過，你必須去$(l:bloodmagic:dungeons/lobby)地下城$()取得$(l:bloodmagic:dungeons/tau_fruit)仙桃油$()才有辦法製作。"
     },
     {
       "type": "2x_crafting_alchemy_table",
-      "a.heading": "Iron Sand",
+      "a.heading": "鐵礦砂",
       "a.recipe": "bloodmagic:alchemytable/sand_iron",
-      "b.heading": "Gold Sand",
+      "b.heading": "金礦砂",
       "b.recipe": "bloodmagic:alchemytable/sand_gold"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "type": "crafting_alchemy_table",
-      "heading": "Explosive Powder",
+      "heading": "爆炸粉末",
       "anchor": "ore_processing",
       "recipe": "bloodmagic:alchemytable/explosive_powder",
       "text": "$(item)Explosive Powder$() in the $(item)ARC$() is used to turn $(item)Ores$() into $(item)Ore Fragments$() for $(thing)3x Ore Processing$(), or turn $(item)Ingots$() into their $(item)Sand$() variant. It can also turn $(fire)Netherrack$() into $(air)Sulfur$() and 5mb of $(fire)Lava$()."
