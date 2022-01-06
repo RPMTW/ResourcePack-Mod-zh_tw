@@ -16,7 +16,7 @@
     "chickenchunks:commands.restrictions.player.offline.enable": "Set AllowOffline Enabled for %s",
     "chickenchunks:commands.restrictions.player.offline.disable": "Set AllowOffline Disabled for %s",
     "chickenchunks:commands.restrictions.player.offline.reset": "Reset AllowOffline for %s back to global control",
-    "chickenchunks:commands.restrictions.player.timeout.set": "Set Timeout for %s to %s minutes",
+    "chickenchunks:commands.restrictions.player.timeout.set": "將 %s 的超時設置為 %s 分鐘",
     "chickenchunks:commands.restrictions.player.timeout.reset": "Reset Timeout for %s back to global control",
     "chickenchunks:commands.restrictions.player.allowed_chunks.set": "Set Total Allowed Chunks for %s to %s Chunks",
     "chickenchunks:commands.restrictions.player.allowed_chunks.reset": "Reset Total Allowed Chunks for %s back to global control",
