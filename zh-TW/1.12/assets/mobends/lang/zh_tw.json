@@ -39,5 +39,9 @@
     "mobends.gui.calculation": "計算",
     "mobends.setting.sword_trail": "劍道",
     "mobends.setting.arrow_trails": "弓箭路徑",
-    "mobends.setting.spin_attack": "旋轉攻擊"
+    "mobends.setting.spin_attack": "旋轉攻擊",
+    "mobends.config.item_use_classifications": "Item use classifications\nmobends.config.item_use_classifications.tooltip=A list of \"item=classification\" mappings.",
+    "mobends.config.item_attack_classifications": "Item attack classifications\nmobends.config.item_attack_classifications.tooltip=A list of \"item=classification\" mappings.",
+    "mobends.config.keep_armor_as_vanilla": "Keep armor as vanilla",
+    "mobends.config.keep_entity_as_vanilla": "Keep entity as vanilla"
 }
