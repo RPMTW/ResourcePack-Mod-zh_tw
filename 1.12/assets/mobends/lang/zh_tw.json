@@ -39,5 +39,9 @@
     "mobends.gui.calculation": "Calculation",
     "mobends.setting.sword_trail": "Sword Trail",
     "mobends.setting.arrow_trails": "Arrow Trails",
-    "mobends.setting.spin_attack": "Spin Attack"
+    "mobends.setting.spin_attack": "Spin Attack",
+    "mobends.config.item_use_classifications": "Item use classifications\nmobends.config.item_use_classifications.tooltip=A list of \"item=classification\" mappings.",
+    "mobends.config.item_attack_classifications": "Item attack classifications\nmobends.config.item_attack_classifications.tooltip=A list of \"item=classification\" mappings.",
+    "mobends.config.keep_armor_as_vanilla": "Keep armor as vanilla",
+    "mobends.config.keep_entity_as_vanilla": "Keep entity as vanilla"
 }
