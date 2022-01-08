@@ -18,7 +18,7 @@ jobs:
       - name: "壓縮資源包"
         uses: vimtor/action-zip@v1
         with:
-          files: zh-TW/1.16 Add-on/1.16/
+          files: zh-TW/1.16
           dest: RPMTW-1.16.zip
           
       - name: "提交檔案"
