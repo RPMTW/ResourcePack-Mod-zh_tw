@@ -1700,7 +1700,7 @@
     "pneumaticcraft.gui.universalSensor.desc.world_global_variable": "如果所連結的全域變數的 X 值非零，輸出紅石訊號 15。",
     "pneumaticcraft.gui.universalSensor.desc.world_is_raining": "如果所在的維度正在下雨，輸出紅石訊號。",
     "pneumaticcraft.gui.universalSensor.desc.world_players_in_server": "當每一個玩家登入伺服器時，發出紅石訊號。${br}如果在文字框裡指定一個玩家名，當該玩家線上時輸出紅石訊號為 15，否則輸出 0。",
-    "pneumaticcraft.gui.universalSensor.desc.world_tick_time": "輸出與伺服器用於更新該世界所花時間（mspt）相關的紅石訊號。該時間與 /forge tps 指令的計算方式相同。通過在文字框中輸入數值，可以調整監測值對應到紅石訊號的分辨率。輸出的紅石訊號關係如下：${br}訊號 = mspt（單位 ms）* 文字框數值（留空則為 0）${br}例如：mspt = 20，文字框輸入 0.5${br}訊號 = 20 * 0.5 = 10",
+    "pneumaticcraft.gui.universalSensor.desc.world_tick_time": "輸出與伺服器用於更新該世界所花時間（mspt）相關的紅石訊號。該時間與 /forge tps 指令的計算方式相同。通過在文字框中輸入數值，可以調整監測值對應到紅石訊號的解析度。輸出的紅石訊號關係如下：${br}訊號 = mspt（單位 ms）* 文字框數值（留空則為 0）${br}例如：mspt = 20，文字框輸入 0.5${br}訊號 = 20 * 0.5 = 10",
     "pneumaticcraft.gui.universalSensor.desc.world_time": "輸出正比於每天的時間（0~23999）的紅石訊號：${br}訊號 = 時間 / 15000${br}例：若時間為 6000（正午），紅石訊號將為 4。",
     "pneumaticcraft.gui.universalSensor.desc.world_twitch": "若文字框中的玩家正在（使用 Twitch）直播，輸出紅石訊號。",
     "pneumaticcraft.gui.universalSensor.desc.world_weather_forecast": "輸出標誌距離下一次下雨的時間的紅石訊號。每一分鐘，訊號增強 1。${br}訊號 = 15 - 下雨前的時間（單位為分鐘）${br}例如：如果距離下一次下雨還有 10 分鐘，訊號為 5。",
