@@ -1,0 +1,9 @@
+Hard-to-destroy Reptile
+
+This is another hostile mob that attacks almost all types of entities, driven by its hatred of life.
+It has dynamic size; it increases when the reptile successfully damages a victim, and decreases when it receives damage;
+its maximum size is ~3 blocks high and ~4 blocks wide.
+It destroys any leaves and non-significant blocks around for easier navigation.
+It is immune to everything except "out of world" damage, while the Hydrochloric acid damages it until it has 33% of max health.
+It doesn't attack flying SCPs.
+It is able to climb in order to reach its victim.

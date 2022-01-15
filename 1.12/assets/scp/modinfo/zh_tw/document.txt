@@ -1,0 +1,7 @@
+Document is an item which is used for placing a structure with an SCP (containment chamber). It won't place the chamber
+if there are any unbreakable blocks or blocks with tile entities in the way. You can place a preview of the chamber
+area by Shift + right clicking - it will place grey outline blocks of the chamber, blue outline blocks of the door
+positions and a green outline block where you are supposed to click again if the location of the chamber suits you.
+These blocks will disappear after 15 seconds by themselves, but you can change this value in options. The chamber
+usually has a door entrance. You will need keycard(s) to trigger the card readers that might happen to be inside the
+chamber.
