@@ -1,0 +1,16 @@
+{
+  "modifier": "lens_killer",
+  "text": [
+    {
+      "text": "Congratuation you are now a serial killer!"
+    }
+  ],
+  "effects": [
+    "Gain more damage",
+	"Single use"
+  ],
+  "demoTool": [
+    "tconstruct:broadsword",
+    "tconstruct:shuriken"
+  ]
+}

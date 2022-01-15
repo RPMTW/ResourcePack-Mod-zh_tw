@@ -1,0 +1,16 @@
+{
+  "modifier": "ender_star",
+  "text": [
+    {
+      "text": "Are you having trouble getting wither skulls? then this modifier is for you!"
+    }
+  ],
+  "effects": [
+    "Mobs and Animals have 50% to drop a wither skull. works with the luck modifier.",
+	"Single use"
+  ],
+  "demoTool": [
+    "tconstruct:broadsword",
+    "tconstruct:shuriken"
+  ]
+}
