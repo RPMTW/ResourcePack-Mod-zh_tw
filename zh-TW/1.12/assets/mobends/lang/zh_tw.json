@@ -1,14 +1,14 @@
 {
     "mobends.gui.section.settings": "設定",
     "mobends.gui.section.packs": "包",
-    "mobends.gui.section.customize": "customize",
+    "mobends.gui.section.customize": "自訂義",
     "mobends.gui.settings": "設定",
     "mobends.gui.packs": "包",
     "mobends.gui.publicpacks": "公用包",
     "mobends.gui.localpacks": "本地包",
     "mobends.gui.unusedpacks": "未使用包",
     "mobends.gui.appliedpacks": "已應用包",
-    "mobends.gui.back": "Back",
+    "mobends.gui.back": "返回",
     "mobends.gui.use": "使用",
     "mobends.gui.disable": "停用",
     "mobends.gui.edit": "編輯",
@@ -42,6 +42,6 @@
     "mobends.setting.spin_attack": "旋轉攻擊",
     "mobends.config.item_use_classifications": "Item use classifications\nmobends.config.item_use_classifications.tooltip=A list of \"item=classification\" mappings.",
     "mobends.config.item_attack_classifications": "Item attack classifications\nmobends.config.item_attack_classifications.tooltip=A list of \"item=classification\" mappings.",
-    "mobends.config.keep_armor_as_vanilla": "Keep armor as vanilla",
-    "mobends.config.keep_entity_as_vanilla": "Keep entity as vanilla"
+    "mobends.config.keep_armor_as_vanilla": "確保護甲為原版",
+    "mobends.config.keep_entity_as_vanilla": "確保實體為原版"
 }
