@@ -20,7 +20,7 @@
 		{
 			"anchor": "controller",
 			"type": "blocks/1",
-			"header": "Turbine Controller",
+			"header": "渦輪控制器",
 			"block": "nuclearcraft:turbine_controller",
 			"text": "The $(item)Turbine Controller$() displays information about the turbine, and allows for it to be toggled. The controller must be placed within a wall of the turbine. Without a controller, the turbine multiblock will not form. The turbine will only function if the controller is supplied with a redstone signal."
 		},
