@@ -5,11 +5,11 @@
   "pages": [
     {
       "type": "text",
-      "text": "運動矩陣是一對矩陣，它們可以以特定的方向拋飛玩家、實體、物品等對象。將玩家、生物、物品等指向特定方向。 一個會水平投擲物品，而另一個會垂直投擲。"
+      "text": "運動矩陣是一對矩陣，它們可以以特定的方向拋飛玩家、實體、物品等對象。其中的一種會將物品水平拋飛，另一種則是垂直拋飛。"
     },
     {
       "type": "2x_functional_array",
-      "a.heading": "推進矩陣",
+      "a.heading": "速度矩陣",
       "a.recipe": "bloodmagic:array/movement",
       "a.image": "movementarray.png",
       "b.heading": "上升矩陣",
