@@ -1,5 +1,5 @@
 {
-  "name": "大廳",
+  "name": "前廳",
   "icon": "bloodmagic:dungeon_seal",
   "category": "bloodmagic:dungeons",
   "extra_recipe_mappings": [
@@ -131,15 +131,15 @@
   "pages": [
     {
       "type": "text",
-      "text": "在執行$(l:bloodmagic:rituals/ritual_list/ritual_simple_dungeon)隱域之緣$()儀式後，你會發現自己的眼前出現一個$(thing)反轉柱$()。右鍵點擊這個柱子會被傳送到大廳，這是你第一次進入$(thing)魔界$()。$(br)第一個房間有一些值得注意的東西：$(li)一個單獨的寶箱，包含一些基本的戰利品，如果幸運的話，還有一些$(l:bloodmagic:dungeons/simple_key)簡易鑰匙$()。"
+      "text": "進行$(l:bloodmagic:rituals/ritual_list/ritual_simple_dungeon)隱域之緣$()儀式後，$(thing)倒轉之柱$()會被召喚而出。右擊這一柱子，你將會被傳送到前廳，此處是你初探$(thing)惡魔領域$()的起始之處。$(br)這個房間裡有幾處需要留意的地方：$(li)一個裝基礎戰利品的財寶儲物箱，並且如果你足夠幸運的話，你還能在儲物箱內找到一些$(l:bloodmagic:dungeons/simple_key)簡易的鑰匙$()。"
     },
     {
       "type": "text",
-      "text": "$(li)第二，你會看到許多道$(thing)門$()，每道門都被鎖上了。使用$(item)鑰匙$()來解鎖下一個房間。$(li)第三，$(item)反轉柱$()，你之前召喚出來的傳送器。[$(k:use)]點擊它回到你原本的世界。$(br2)如果您覺得您的基地需要增加一些活力與魅力的話，這裡還有大量的裝飾方塊。"
+      "text": "$(li)第二，一些$(thing)入口$()，每個入口都被$(thing)地牢封印$()鎖上了。對著封印使用$(item)鑰匙$()可以解鎖進入下一房間。$(li)第三，$(item)倒轉之柱$()，這根倒轉之柱和先前召喚的是鏡像關係。對著這根柱子按下[$(k:use)]即可返回到進入前的世界。 $(br2)前廳內還有大量裝飾性方塊，如果你覺得你的基地需要裝點一二，你可以帶一些回家。"
     },
     {
       "type": "text",
-      "text": "你從這個大廳打開的任何其他房間都將包含一些戰利品、怪物、陷阱和可能一些未激活的儀式。擦亮眼睛！$(br2)一些你可能會發現的戰利品示例：$(li)附魔書$(li)附魔的武器和裝備$(li)$(l:bloodmagic:alchemy_table/anointments)各種塗物$()$(li)$(l:bloodmagic:demon_will/will_manipulation/demon_will)惡魔意志$()$(li)藥水材料"
+      "text": "從前廳處解鎖的房間內會有一些不同組合的戰利品、怪物以及陷阱，也有可能會有一些未啟動的儀式，睜大雙眼，別錯過了寶貝！$(br2)你有可能會發現如下的戰利品：$(li)附魔書$(li)附魔武器和盔甲$(li)$(l:bloodmagic:alchemy_table/anointments)多種塗物$() $(li)$(l:bloodmagic:demon_will/will_manipulation/demon_will)惡魔意志$() $(li)藥水原料"
     },
     {
       "type": "text",
