@@ -1,11 +1,11 @@
 {
     "tile.msc.controlled_spawner.name": "%s 生怪磚",
-    "itemGroup.spawnercontrol": "Spawner Control",
+    "itemGroup.spawnercontrol": "生怪磚控制",
     "spawnercontrol.general.vanillaspawnerconfig": "原版生怪磚設定",
     "spawnercontrol.general.customspawners": "自訂生怪磚列表",
     "spawnercontrol.general.altervanillaspawner": "修改原版生怪磚",
     "spawnercontrol.general.makecreativetab": "創建創造模式標籤頁",
     "spawnercontrol.general.custom_spawners": "自訂生怪磚設定",
     "spawnercontrol.general.custom_spawners.tooltip": "包含通過自訂生怪磚加入的每個生怪磚的設定屬性",
-    "tile.msc.za_warudo.name": "時を止まれ"
+    "tile.msc.za_warudo.name": "時間暫停"
 }
