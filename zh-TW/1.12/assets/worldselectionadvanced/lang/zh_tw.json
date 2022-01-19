@@ -1,15 +1,15 @@
 {
-    "selectWorld.tooltip.worldTime": "WorldTime",
-    "selectWorld.tooltip.worldType": "WorldType",
+    "selectWorld.tooltip.worldTime": "世界時間",
+    "selectWorld.tooltip.worldType": "世界類型",
     "selectWorld.tooltip.mods": "MODS",
-    "selectWorld.tooltip.day": "Day",
-    "selectWorld.tooltip.date": "Date",
-    "selectWorld.tooltip.seed": "Seed",
-    "selectWorld.tooltip.new": "New",
-    "selectWorld.tooltip.missing": "Missing",
-    "selectWorld.tooltip.outdated": "Outdated",
-    "selectWorld.tooltip.upgraded": "Upgraded",
-    "selectWorld.tooltip.reactivated": "Reactivated",
-    "selectWorld.tooltip.active": "Active",
-    "selectWorld.commands": "Commands"
+    "selectWorld.tooltip.day": "天",
+    "selectWorld.tooltip.date": "日期",
+    "selectWorld.tooltip.seed": "種子碼",
+    "selectWorld.tooltip.new": "新增",
+    "selectWorld.tooltip.missing": "丟失",
+    "selectWorld.tooltip.outdated": "過時",
+    "selectWorld.tooltip.upgraded": "升級",
+    "selectWorld.tooltip.reactivated": "重啟",
+    "selectWorld.tooltip.active": "啟用",
+    "selectWorld.commands": "指令"
 }
