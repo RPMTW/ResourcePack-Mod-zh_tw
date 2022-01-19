@@ -1,0 +1,17 @@
+{
+  "modifier": "ref_shulker_pearl",
+  "text": [
+    {
+      "text": "Oh Shiny a pearl!"
+    }
+  ],
+  "effects": [
+    "Remove Levitation",
+    "只能強化一次"
+  ],
+  "demoTool": [
+    "tconstruct:broadsword",
+    "tconstruct:shuriken",
+    "tinkers_reforged:gladius"
+  ]
+}
