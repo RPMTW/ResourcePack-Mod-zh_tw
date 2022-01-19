@@ -5,9 +5,9 @@
     "container.infinity_chest.name": "無盡儲物箱",
     "tooltip.filling_range": "這是屬於%1$s的%2$s。",
     "avaritiaddons.clear.shape": "Click to Clear Recipe",
-    "container.infinity_compressor.name": "Infinity Compressor",
+    "container.infinity_compressor.name": "無盡壓縮器",
     "avaritiaddons.tooltip.empty": "Empty",
-    "avaritiaddons.tooltip.filling_range": "%1$s of %2$s",
+    "avaritiaddons.tooltip.filling_range": "這是屬於%1$s的%2$s。",
     "avaritiaddons.no.jei": "Without JEI, this button is useless.",
     "avaritiaddons.clear.recipe": "Shift Click to Clear Recipe",
     "avaritiaddons.compressor.usage.1": "This Compressor can only be used",
@@ -22,5 +22,5 @@
     "avaritiaddons.compressor.trashcan": "Enable Trashcan mode?",
     "avaritiaddons.infinity.chest.desc.line.1": "For now, the %1$s cannot be interacted through its interface.",
     "avaritiaddons.infinity.chest.desc.line.2": "All the I/O must be done using automation.",
-    "tile.avaritiaddons.infinity.glass.name": "Infinity Glass"
+    "tile.avaritiaddons.infinity.glass.name": "無盡玻璃"
 }
