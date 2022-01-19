@@ -1,0 +1,21 @@
+{
+  "modifier": "ref_tanzanite",
+  "text": [
+    {
+      "text": "Adding a tanzanite to the edge of a tool makes it more resilient and increases what the tool can mine. Also makes a fetching fashion statement."
+    }
+  ],
+  "effects": [
+    "增加耐久度",
+    "次要屬性的增加",
+    "挖掘等級提升到黑曜石級",
+    "只能強化一次",
+    "太棒了!"
+  ],
+  "demoTool": [
+    "tconstruct:pickaxe",
+    "tconstruct:broadsword",
+    "tconstruct:shortbow",
+    "tconstruct:arrow"
+  ]
+}
