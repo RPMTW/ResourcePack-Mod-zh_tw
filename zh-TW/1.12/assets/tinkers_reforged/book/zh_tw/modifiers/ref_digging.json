@@ -1,0 +1,17 @@
+{
+  "modifier": "ref_digging",
+  "text": [
+    {
+      "text": "Dig more!"
+    }
+  ],
+  "effects": [
+    "Increase the mining speed.",
+    "Multiple Levels."
+  ],
+  "demoTool": [
+    "tconstruct:pickaxe",
+    "tconstruct:shovel",
+    "tconstruct:hatchet"
+  ]
+}
