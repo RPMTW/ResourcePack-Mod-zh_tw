@@ -1,0 +1,18 @@
+{
+  "modifier": "infinity_catalyst",
+  "text": [{
+    "text": "Attaching an infinity catalyst to your tool expands it into the fourth dimension and makes room for more modifiers."
+  }],
+  "effects": [
+    "Five extra modifiers",
+    "Can be applied more than once",
+    "Non-euclidean",
+    "Absolutely ludicrous"
+  ],
+  "demoTool": [
+    "tconstruct:pickaxe",
+    "tconstruct:broadsword",
+    "tconstruct:shortbow",
+    "tconstruct:arrow"
+  ]
+}

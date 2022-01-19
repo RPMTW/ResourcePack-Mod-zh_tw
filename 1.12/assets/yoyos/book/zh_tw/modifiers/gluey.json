@@ -1,0 +1,19 @@
+{
+    "modifier": "gluey",
+    "text": [
+        {
+            "text": "Putting slime on pistons makes them sticky, so why not yoyos?\n"
+        },
+        {
+            "text": "...Honestly didn't expect that to work... huh."
+        }
+    ],
+    "effects": [
+        "The yoyo sticks to blocks",
+        "Moderate decrease in damage",
+        "Single use"
+    ],
+    "demoTool": [
+        "yoyos:yoyo"
+    ]
+}
