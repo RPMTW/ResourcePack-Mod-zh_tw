@@ -1,0 +1,17 @@
+{
+    "modifier": "farming",
+    "text": [
+        {
+            "text": "If putting shears on the thing worked, why not put a hoe on it, too?"
+        }
+    ],
+    "effects": [
+        "Allows the yoyo to till soil like a hoe",
+        "Will replant the crops if seeds are dropped",
+        "Slight damage increase",
+        "只能強化一次"
+    ],
+    "demoTool": [
+        "yoyos:yoyo"
+    ]
+}
