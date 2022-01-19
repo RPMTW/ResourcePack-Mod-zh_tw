@@ -193,7 +193,7 @@
 			},
 			{
 				"type": "text",
-				"value": "魔力編織的第一步，是製作一把織魔者之杖。溫特姆法杖的使用次數有限，並且次數耗盡後還會損毀，但你不必擔心，之後你還可以製作出更強的法杖，那種法杖可以永久留存。"
+				"value": "魔力編織的第一步，是製作一把織魔者魔杖。溫特姆魔杖的使用次數有限，並且次數耗盡後還會損毀，但你不必擔心，之後你還可以製作出更強的魔杖，那種魔杖可以永久留存。"
 			},
 			{
 				"type": "item",
@@ -202,7 +202,7 @@
 			},
 			{
 				"type": "text",
-				"value": "接著，將法杖拿在手中，並嘗試使用它（持續右擊）；在引導織魔者之杖時，你需要在空氣中畫出相應的圖樣，當你摹畫完畢之後，只需鬆開右鍵即可。"
+				"value": "接著，將魔杖拿在手中，並嘗試使用它（持續右擊）；在引導織魔者魔杖時，你需要在空氣中畫出相應的圖樣，當你摹畫完畢之後，只需鬆開右鍵即可。"
 			},
 			{
 				"type": "image",
@@ -212,7 +212,7 @@
 			},
 			{
 				"type": "text",
-				"value": "魔力編織需要高度的專注，而專注需要耗費大量魔力。然而，不要讓魔力的快速流失干擾你的心境，以免在摹畫中出現錯誤：摹畫失敗的圖樣將不會起任何作用。\n\n據說一些巫師在使用織魔者之杖時，表示自己聽到了清脆的鈴聲，儘管我們不能確認是否真的有巫師這樣子說過，但可以確定的是，這一鈴聲表明了織魔者之杖正在工作。\n\n也有一些巫師無法或者不願意在空氣中繪製圖形。在如此的需求下，織魔放映機應運而生。將其放置於地上，它就會抽取你（或者是其他人，只要靠得夠近）體內的魔力反哺自身。當放映機啟動後，它就可以放映出圖樣，當然，你需要在放映機啟動前就選擇好需要放映的圖樣。"
+				"value": "魔力編織需要高度的專注，而專注需要耗費大量魔力。然而，不要讓魔力的快速流失干擾你的心境，以免在摹畫中出現錯誤：摹畫失敗的圖樣將不會起任何作用。\n\n據說一些巫師在使用織魔者魔杖時，表示自己聽到了清脆的鈴聲，儘管我們不能確認是否真的有巫師這樣子說過，但可以確定的是，這一鈴聲表明了織魔者魔杖正在工作。\n\n也有一些巫師無法或者不願意在空氣中繪製圖形。在如此的需求下，織魔放映機應運而生。將其放置於地上，它就會抽取你（或者是其他人，只要靠得夠近）體內的魔力反哺自身。當放映機啟動後，它就可以放映出圖樣，當然，你需要在放映機啟動前就選擇好需要放映的圖樣。"
 			},
 			{
 				"type": "image",
@@ -320,7 +320,7 @@
 			},
 			{
 				"type": "text",
-				"value": "那些與巫師議會結盟的人，可以使用艾得靈飛行，在源泉之間穿梭旅行；艾得靈手鐲則可以抽取臨近源泉中的力量，藉以減少他們施法的魔力消耗。"
+				"value": "那些與巫師議會結盟的人，可以使用艾得靈旅航，在源泉之間穿梭旅行；艾得靈手鐲則可以抽取臨近源泉中的力量，藉以減少他們施法的魔力消耗。"
 			},
 			{
 				"type": "title",
@@ -328,7 +328,7 @@
 			},
 			{
 				"type": "text",
-				"value": "由上，源泉有著自身的親和，它們的親和來源於它們所處的生態域。理論上，你可以在任何地方找到任何種類的源泉，然而，在可能性大小的角度上來說，我最有可能在特定的地方找到特定親和的源泉，以下為各個地點："
+				"value": "由上所言，源泉有著自身的親和，它們的親和來源於它們所處的生態域。理論上，你可以在任何地方找到任何種類的源泉，然而，從可能性大小的角度上來說，我最有可能在特定的地方找到特定親和的源泉，以下為各個地點："
 			},
 			{
 				"type": "text",
@@ -356,7 +356,7 @@
 			},
 			{
 				"type": "text",
-				"value": "（如果設定 generic wellsprings 一項已打開，那麼上述的這些設定將會失效）"
+				"value": "（如果設定中的 generic wellsprings 一項已打開，那麼上述的這些設定將會失效）"
 			}
 		],
 		"related_recipes": [
@@ -393,7 +393,7 @@
 			},
 			{
 				"type": "text",
-				"value": "值得注意的是，你最好是完全把艾得靈源泉之力抽乾，而不是細水長流地它生一些你抽一些。我可以查看我儲存奧秘之眼中的全部源泉之力。"
+				"value": "值得注意的是，你最好是把艾得靈源泉之力完全抽乾，而不是細水長流地它生一些你抽一些。我可以查看我儲存奧秘之眼中的全部源泉之力。"
 			},
 			{
 				"type": "text",
@@ -465,7 +465,7 @@
 			},
 			{
 				"type": "text",
-				"value": "艾得靈祭壇可以幫助你製作出一些強大的魔法造物，直到今天，這些物品也只是在傳說之中有過隻言片語的描述。首先，我需要製作出祭壇本體，並在它周圍擺上一些基座。"
+				"value": "艾得靈祭壇可以幫助你製作出一些強大的魔法造物，時至今日，這些物品也只是在傳說之中有過隻言片語的描述。首先，我需要製作出祭壇本體，並在它周圍擺上一些基座。"
 			},
 			{
 				"type": "text",
@@ -657,7 +657,7 @@
 			},
 			{
 				"type": "text",
-				"value": "/setmagiclevel [0-75] <player>\n設定玩家的魔法等級以及魔力最大值。"
+				"value": "/setmagicLevel [0-75] <player>\n設定玩家的魔法等級以及魔力最大值。"
 			},
 			{
 				"type": "text",
@@ -1367,7 +1367,7 @@
 			},
 			{
 				"type": "text",
-				"value": "符文鐵砧的任意面都可以提取物品和接收物品。"
+				"value": "符文鐵砧的任意麵都可以提取物品和接收物品。"
 			},
 			{
 				"type": "title",
@@ -1375,7 +1375,7 @@
 			},
 			{
 				"type": "text",
-				"value": "在不含內容物的情況下，符文鍛爐可從任意麵接收物品，當其不在工作狀態時，它的任意面都可以提取物品。"
+				"value": "在不含內容物的情況下，符文鍛爐可從任意麵接收物品，當其不在工作狀態時，它的任意麵都可以提取物品。"
 			}
 		]
 	},
@@ -1502,7 +1502,7 @@
 			},
 			{
 				"type": "text",
-				"value": "一切準備就緒後，你需要向符文中注入魔力，如此便開啟了符文附魔的初始階段。\n\n將物品以及所需魔法耗材放入織魔祭壇中，然後，使用織魔者之杖繪製出祭壇上方顯現的所需圖樣。\n\n當然，你也可以使用織魔放映機來代替手工操作，只需將其放在祭壇旁，然後放映對應的圖樣即可。\n\n如果不小心畫錯了，你可以手持織魔者之杖右擊啟動織魔祭壇，然後織魔者之杖就可以從祭壇中抽回你最近畫出的圖樣了。\n\n一旦你以正確的順序畫出了正確的圖樣，並且放置了正確的物品，祭壇會將所有的這些吸入，然後開始對符文進行附魔。\n\n剩下的工作便是將符文與物品結合在一起，這項工作得在符文鐵砧上進行。"
+				"value": "一切準備就緒後，你需要向符文中注入魔力，如此便開啟了符文附魔的初始階段。\n\n將物品以及所需魔法耗材放入織魔祭壇中，然後，使用織魔者魔杖繪製出祭壇上方顯現的所需圖樣。\n\n當然，你也可以使用織魔放映機來代替手工操作，只需將其放在祭壇旁，然後放映對應的圖樣即可。\n\n如果不小心畫錯了，你可以手持織魔者魔杖右擊啟動織魔祭壇，然後織魔者魔杖就可以從祭壇中抽回你最近畫出的圖樣了。\n\n一旦你以正確的順序畫出了正確的圖樣，並且放置了正確的物品，祭壇會將所有的這些吸入，然後開始對符文進行附魔。\n\n剩下的工作便是將符文與物品結合在一起，這項工作得在符文鐵砧上進行。"
 			},
 			{
 				"type": "text",
@@ -1637,11 +1637,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "再生靈氣"
+				"value": "治療之光環"
 			},
 			{
 				"type": "text",
-				"value": "這種靈氣會定期消耗我的魔力，然後對我施加較弱的治療效果。靠近我的人同樣也會受此裨益。\n\n由於這種靈氣的魔法結構特別複雜，所以我只能將其繪製於胸甲之上，因為只有胸甲才有足夠的空間來容納靈氣運轉所需的符文。"
+				"value": "這種光環會定期消耗我的魔力，然後對我施加較弱的治療效果。靠近我的人同樣也會受此裨益。\n\n由於這種光環的魔法結構特別複雜，所以我只能將其繪製於胸甲之上，因為只有胸甲才有足夠的空間來容納光環運轉所需的符文。並且，它似乎不會再有其他光環附魔在場的情況下工作，但它應該能與其他的附魔相容，一齊生效。"
 			}
 		],
 		"related_recipes": [
@@ -1656,11 +1656,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "躍動靈氣"
+				"value": "跳躍之光環"
 			},
 			{
 				"type": "text",
-				"value": "這種靈氣會定期消耗我的魔力，然後提升我的跳躍能力。靠近我的人同樣也會受此裨益。\n\n由於這種靈氣的魔法結構特別複雜，所以我只能將其繪製於胸甲之上，因為只有胸甲才有足夠的空間來容納靈氣運轉所需的符文。"
+				"value": "這種光環會定期消耗我的魔力，然後提升我的跳躍能力。靠近我的人同樣也會受此裨益。\n\n由於這種光環的魔法結構特別複雜，所以我只能將其繪製於胸甲之上，因為只有胸甲才有足夠的空間來容納光環運轉所需的符文。並且，它似乎不會再有其他光環附魔在場的情況下工作，但它應該能與其他的附魔相容，一齊生效。"
 			}
 		],
 		"related_recipes": [
@@ -1675,11 +1675,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "礦工靈氣"
+				"value": "挖掘之光環"
 			},
 			{
 				"type": "text",
-				"value": "這種靈氣會定期消耗我的魔力，並給予一個能夠提升我的挖掘速度的效果。靠近我的人同樣也會受此裨益。\n\n由於這種靈氣的魔法結構特別複雜，所以我只能將其繪製於胸甲之上，因為只有胸甲才有足夠的空間來容納靈氣運轉所需的符文。"
+				"value": "這種光環會定期消耗我的魔力，並給予一個能夠提升我的挖掘速度的效果。靠近我的人同樣也會受此裨益。\n\n由於這種光環的魔法結構特別複雜，所以我只能將其繪製於胸甲之上，因為只有胸甲才有足夠的空間來容納光環運轉所需的符文。"
 			}
 		],
 		"related_recipes": [
@@ -1694,11 +1694,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "長涉者靈氣"
+				"value": "疾馳之光環"
 			},
 			{
 				"type": "text",
-				"value": "這種靈氣會定期消耗我的魔力，並對我施加提升移動速度的效果。靠近我的人同樣也會受此裨益。\n\n由於這種靈氣的魔法結構特別複雜，所以我只能將其繪製於胸甲之上，因為只有胸甲才有足夠的空間來容納靈氣運轉所需的符文。"
+				"value": "這種光環會定期消耗我的魔力，並對我施加提升移動速度的效果。靠近我的人同樣也會受此裨益。\n\n由於這種光環的魔法結構特別複雜，所以我只能將其繪製於胸甲之上，因為只有胸甲才有足夠的空間來容納光環運轉所需的符文。並且，它似乎不會再有其他光環附魔在場的情況下工作，但它應該能與其他的附魔相容，一齊生效。"
 			}
 		],
 		"related_recipes": [
@@ -1713,11 +1713,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "深潛靈氣"
+				"value": "深潛之光環"
 			},
 			{
 				"type": "text",
-				"value": "這種靈氣會定期消耗我的魔力，使我更為習慣於海底作業。\n\n由於這種靈氣的魔法結構特別複雜，所以我只能將其繪製於胸甲之上，因為只有胸甲才有足夠的空間來容納靈氣運轉所需的符文。"
+				"value": "這種光環會定期消耗我的魔力，使我更習慣於海底作業。\n\n由於這種光環的魔法結構特別複雜，所以我只能將其繪製於胸甲之上，因為只有胸甲才有足夠的空間來容納光環運轉所需的符文。並且，它似乎不會再有其他光環附魔在場的情況下工作，但它應該能與其他的附魔相容，一齊生效。"
 			}
 		],
 		"related_recipes": [
@@ -1828,7 +1828,7 @@
 			},
 			{
 				"type": "text",
-				"value": "爆炸保護附魔可以減輕由爆炸帶來的傷害，爆炸包括TNT爆炸，苦力怕爆炸，地獄幽靈的火球，凋零充能完畢時發出的爆炸，以及終界水晶的爆炸。"
+				"value": "爆炸保護附魔可以減輕由爆炸帶來的傷害，爆炸包括 TNT 爆炸，苦力怕爆炸，地獄幽靈的火球，凋零充能完畢時發出的爆炸，以及終界水晶的爆炸。"
 			}
 		],
 		"related_recipes": [
@@ -2148,7 +2148,7 @@
 			},
 			{
 				"type": "text",
-				"value": "使射出普通箭不會消耗背包裡的箭。\n\n這一附魔只對普通箭有效，不會對追跡之箭和藥水箭生效。"
+				"value": "使射出普通箭不會消耗背包裡的箭。\n\n這一附魔只對普通箭矢有效，不會對追跡之箭和藥水箭生效。"
 			}
 		],
 		"related_recipes": [
@@ -2502,7 +2502,7 @@
 			},
 			{
 				"type": "text",
-				"value": "分裂箭矢是一個可以附在弩上的附魔。使弩可以一次向三個方向射出三枝箭，而只消耗一枝箭（但會消耗3點耐久）。"
+				"value": "分裂箭矢是一個可以附在弩上的附魔。使弩可以一次向三個方向射出三枝箭，而只消耗一枝箭（但會消耗 3 點耐久）。"
 			}
 		],
 		"related_recipes": [
@@ -2798,7 +2798,7 @@
 			},
 			{
 				"type": "text",
-				"value": "被開採的方塊掉落本身，而非其通常的掉落物。使用帶有該附魔的工具，你可以採集一些脆弱的方塊，例如玻璃和冰。也可以採集鑽石礦或者煤礦。（不會掉落鑽石和煤）"
+				"value": "被開採的方塊掉落本身，而非其通常的掉落物。使用帶有該附魔的工具，你可以採集一些脆弱的方塊，例如玻璃和冰。也可以採集鑽石礦或者煤礦（不會掉落鑽石和煤）。"
 			}
 		],
 		"related_recipes": [
@@ -3079,7 +3079,7 @@
 			},
 			{
 				"type": "text",
-				"value": "我得搭建一個適合研究工作空間，這樣的一片小地方能夠讓我更好的把我對法術的構思記錄在紙上。\n\n先是一張位置合適，擺放整潔的桌子，寬敞的桌面適合放置一些物品；還得準備些能夠承受魔法抄寫的紙；對了，還有一瓶合適的墨水，沒了墨水還怎麼做研究。我最好再備上一點奧術粉末。\n\n萬事俱備，接下來就可以進行研究了。首先，我得選擇一種塑造法術的方式，這一方式決定了魔法會以何種形式出現在世界中。我認為應該有有數種方式可以供自己學習並選擇。\n\n在這之後，我應該選擇一個構件，這一構件會決定這一法術在世界中產生的效果。\n\n這些應該足夠編寫一個基礎法術了。然而，我還需深入考慮，法術的哪幾個方面是可以供我自訂設計的。想要改變最終的輸出，我得修改法術「等式」的一部分內容。\n\n當我最終設計出了我心儀的法術，我需要靜候片刻，奧術粉末會將墨水灌注到魔法配方之中，依據這一配方，可以用接下來的儀式將其製作為真正的法術。還好，在我腦海裡的小桌已經為這一步預留了位置。\n\n……我真的很想知道是否有某種方法可以製作出更為複雜的法術，譬如說，能夠在一個法術釋放裡產生多種效果？應該是有的。"
+				"value": "我得搭建一個適合研究工作空間，這樣的一片小地方能夠讓我更好的把我對法術的構思記錄在紙上。\n\n先是一張位置合適，擺放整潔的桌子，寬敞的桌面適合放置一些物品；還得準備些能夠承受魔法抄寫的紙；對了，還有一瓶合適的墨水，沒了墨水還怎麼做研究。我最好再備上一點奧術粉末。\n\n萬事俱備，接下來就可以進行研究了。首先，我得選擇一種塑造法術的方式，這一方式決定了魔法會以何種形式出現在世界中。我認為應該有有數種方式可以供自己學習並選擇。\n\n在這之後，我應該選擇一個構件，這一構件會決定這一法術在世界中產生的效果。\n\n這些應該足夠編寫一個基礎法術了。然而，我還需深入考慮，法術的哪幾個方面是可以供我自訂設計的。想要改變最終的輸出，我得修改法術「等式」的一部分內容。\n\n當我最終設計出了我心儀的法術，我需要靜候片刻，奧術粉末會將墨水灌注到魔法配方之中，依據這一配方，可以用接下來的儀式將其製作為真正的法術。還好，在我腦海裡的小桌已經為這一步預留了位置。\n\n……我真的很想知道是否有某種方法可以製作出更為複雜的法術，譬如說，能夠在一次法術施放裡產生多種效果？應該是有的。"
 			}
 		],
 		"related_recipes": [
@@ -3232,7 +3232,7 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "彈射物施法"
+				"value": "彈射物"
 			},
 			{
 				"type": "text",
@@ -3516,7 +3516,7 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "電弧施法"
+				"value": "電弧"
 			},
 			{
 				"type": "text",
@@ -3536,7 +3536,7 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "觸摸施法"
+				"value": "觸摸"
 			},
 			{
 				"type": "text",
@@ -3640,7 +3640,7 @@
 			},
 			{
 				"type": "text",
-				"value": "這一效果構件可以急劇降低目標的溫度，由溫度急速變換而帶來的打擊將會對目標造成巨大的傷害。"
+				"value": "這一效果構件可以急劇降低目標的溫度，由溫度急速變換而帶來的打擊將會對目標造成巨大的傷害。隨著冰霜傷害的傷害增高，它還可以將水暫時凍成冰（或者時永久凍結，如果傷害足夠高的話），也可以將熔岩冷卻為黑曜石。"
 			}
 		],
 		"related_recipes": [
@@ -3968,7 +3968,7 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "艾得靈飛行"
+				"value": "艾得靈旅航"
 			},
 			{
 				"type": "text",
@@ -4232,7 +4232,7 @@
 			},
 			{
 				"type": "text",
-				"value": "將氣魔法與地魔法粗略混合，我可以使簡單的方塊暫時違逆重力，並漂浮到半空中，然後它會在一個適當的位置停住。\n\n這一構件會將法術內的其餘構件的效果轉移至漂浮的方塊上，而不是原先的目標。"
+				"value": "將氣魔法與地魔法粗略混合，我可以使簡單的方塊暫時違逆重力，並漂浮到半空中，然後它會在一個適當的位置停住。"
 			},
 			{
 				"type": "text",
@@ -4256,7 +4256,7 @@
 			},
 			{
 				"type": "text",
-				"value": "我可以使用地魔法，使得一些簡單的方塊在短時間內受到重力的影響。\n\n這一構件會將法術內的其餘構件的效果轉移至受重力的方塊上，而不是原先的目標。\n\n下一次見到苦力怕，我得先把它拋斥開，然後再對著它旁邊的隧道使用塌陷魔法！"
+				"value": "我可以使用地魔法，使得一些簡單的方塊在短時間內受到重力的影響。\n\n下一次見到苦力怕，我得先把它拋斥開，然後再對著它旁邊的隧道使用塌陷魔法！"
 			}
 		],
 		"related_recipes": [
@@ -5032,7 +5032,7 @@
 			},
 			{
 				"type": "text",
-				"value": "耗材被消耗之後，儀式會開始放映織魔圖樣。你需要使用織魔者之杖繪製出這些圖樣（或者也可以使用織魔放映機投射出這些圖樣），繪製完畢後，這些圖樣也會被儀式吸收掉，如果繪製過程尚未結束，那麼儀式會繼續放映未繪製的圖樣。\n\n並不是所有的儀式都需要繪製圖樣。\n\n當所有的圖樣繪製完畢後，儀式會在數秒後發揮效果。"
+				"value": "耗材被消耗之後，儀式會開始放映織魔圖樣。你需要使用織魔者魔杖繪製出這些圖樣（或者也可以使用織魔放映機投射出這些圖樣），繪製完畢後，這些圖樣也會被儀式吸收掉，如果繪製過程尚未結束，那麼儀式會繼續放映未繪製的圖樣。\n\n並不是所有的儀式都需要繪製圖樣。\n\n當所有的圖樣繪製完畢後，儀式會在數秒後發揮效果。"
 			},
 			{
 				"type": "title",
@@ -5693,11 +5693,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "符文：靈氣"
+				"value": "符文：光環"
 			},
 			{
 				"type": "text",
-				"value": "這一樣式可為工具附加上與靈氣有關的附魔，靈氣附魔的效果會環繞於被附工具的周圍。這種附魔極為強大，其效果甚至可以影響到周圍的盟友。"
+				"value": "這一樣式可為工具附加上與光環有關的附魔，光環附魔的效果會環繞於被附工具的周圍。這種附魔極為強大，其效果甚至可以影響到周圍的盟友。"
 			}
 		],
 		"related_recipes": [
@@ -5937,11 +5937,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "各式法杖"
+				"value": "魔法法杖以及魔杖"
 			},
 			{
 				"type": "text",
-				"value": "對於巫師而言，使用法杖或者法杖施法，才能體現出巫師的尊貴優雅。你可以在戰利品箱中發現一些早已沾滿了塵埃的法杖，其內還記錄了一些法術，只不過使用次數極為有限。帶有使用次數的權杖和法杖，在使用時不會消耗魔力，但次數耗盡後，它們會立刻損壞。\n\n可以在織魔台上將法術綁定到法杖上。"
+				"value": "對於巫師而言，使用魔杖或者法杖施法，才能體現出巫師的尊貴優雅。你可以在戰利品箱中發現一些早已沾滿了塵埃的杖子，其內還記錄了一些法術，只不過使用次數極為有限。帶有使用次數的魔杖和法杖，在使用時不會消耗魔力，但次數耗盡後，它們會立刻損壞。\n\n可以在織魔祭壇上將法術綁定到法杖上。"
 			}
 		],
 		"related_recipes": [
@@ -6197,7 +6197,7 @@
 			},
 			{
 				"type": "text",
-				"value": "談及大巫師，人們腦海裡的形象多是一綹長胡加上飄飄長袍。雖然這套織法者盔甲並不是大巫師的盔甲，而是受到了大法師盔甲的啟發而製作出來的，但卻仍是議會的法師們的戰鬥標準裝備，議會裡的成熟法師大都穿著它。它的堅韌程度與騎士的鎖鏈盔甲不相上下，穿著時，我的魔力總量以及魔力回復速度均會得到顯著提升。它還能給予我一定的飛行懸浮飛行能力（雙按空格可以切換）。最後，它能夠儲存三層可以反彈彈射物的防禦符文。每枚符文將會在反彈彈射物後進入休眠狀態，在經過數秒的再充能時間後會恢復，再次幫你反彈彈射物。"
+				"value": "談及大巫師，人們腦海裡的形象多是一綹長胡加上一件飄飄長袍。雖然這套織法者盔甲並不是大巫師的那種寬鬆法袍，而是受到了這種裝備的啟發而製作出來的，但卻仍是議會的法師們的戰鬥標準裝備，議會裡的成熟法師大都穿著它。它的堅韌程度與騎士的鎖鏈盔甲不相上下，穿著時，我的魔力總量以及魔力恢復速度均會得到顯著提升。它還能給予我一定的飛行懸浮飛行能力（雙按空格可以切換）。最後，它能夠儲存三層可以反彈彈射物的防禦符文。每枚符文將會在反彈彈射物後進入休眠狀態，在經過數秒的再充能時間後會恢復，再次幫你反彈彈射物。"
 			}
 		],
 		"related_recipes": [
@@ -6229,7 +6229,7 @@
 			},
 			{
 				"type": "text",
-				"value": "Several village elders tell legends of the druids of old, who were able to link themselves to nature in extreme ways.  In reality, these druids were simply high ranking allies of the fey, gifted with powerful artifacts and spells.  One of the highest gifts was the Druidic Armor, which is imbued with the trickery of the fey as well as their chaotic yet gentle embrace.  While not as strong as some of the other faction armors in terms of physical defense, the ironwood it is composed of is as strong as common plate armor.  When wearing this armor, the wings on the back will allow me to fly or hover depending on my preference (double tap to start or stop hovering, single tap while falling to enter elytra flight).  It also has a chance to teleport or levitate melee attackers, and a chance to reflect projectiles.  Lastly, when my health gets low, it will apply a regenerating effect to me, though it can only do so every so often."
+				"value": "有數位村中的長者談到過關於古代德魯伊的傳說，這些德魯伊能夠將自然與自身以一種異乎尋常的方式連接在一起。而在現實裡，這些德魯伊乃是仙女們的高級盟友，仙女從它們那得到了許多強力的飾品和法術。德魯伊盔甲便是那些最高級的贈與之物中的一種。這種盔甲被注入了仙女的詭術，它們的氣息縈繞於其上——混沌卻也輕柔。雖然德魯伊盔甲的物理防禦效能不如某些派系的盔甲，但至少能比肩普通板甲，這得益於它的底材——鐵木。穿上這套盔甲，背上的翅膀能讓我飛行或是懸停，想怎麼飛就怎麼飛（雙擊空格開始飛行，下落時點擊空格可以進入鞘翅飛行模式）。它還有一定機率將近戰攻擊你的人傳送走，或是使它漂浮起來，並且還有可能反彈彈射物。最後一點，當你的生命值較低時，它會給予你回復效果，該效果每隔一段時間才能觸發一次。"
 			}
 		],
 		"related_recipes": [
@@ -6261,7 +6261,7 @@
 			},
 			{
 				"type": "text",
-				"value": "Members of the undead embody the unstoppable resilience of death while wearing the Witherbone armor.  It is as strong as even the most hardy armor forged from the metals of the nether, boasting near immunity to physical damage.  This armor causes the wearer to drain life away at a touch, regenerating souls simply by causing damage.  It also prevents the death of the wearer, instead shifting them to a cloud of mist allowing them to fly and make their escape.\n\nIf you take damage that would kill you while wearing this armor, that damage is reduced so that you are left with one hit point and you immediately enter mist form.  If you have one hit point, you die as normal.  This effect has no cooldown."
+				"value": "穿著凋零之骨盔甲，不死派系的成員難以阻擋，就好似那萬物無法抗拒的歸於死亡。它的防禦效能極強，甚至連用地獄最堅硬的金屬鍛造的盔甲，在防禦方面也僅是和它不相伯仲，任何物理傷害打上去都只是灑灑水。這套盔甲的穿戴者會在觸碰別人時吸取對方的生命力，亦即，在對對方造成傷害時會恢復自身靈魂。並且，它還會防止穿戴者死亡，會在穿戴者命懸一線之際，將其變化為一團霧雲，穿戴者會因此獲得飛行能力，迅速逃離危險之處。\n\n如果你在穿戴著這套盔甲時受到了足以致命的傷害，這一傷害將會被削減，你會保留最後半顆心的血量，並會立即進入霧形態。如果你是在最後剩半顆心的情況下受到致命傷害，那你仍會死去。這一效果沒有觸發冷卻間隔。"
 			}
 		],
 		"related_recipes": [
@@ -6293,7 +6293,7 @@
 			},
 			{
 				"type": "text",
-				"value": "Now that I've harnessed some of the power of the eldrin wellsprings, I can use their power to create more powerful versions of the elemental motes.  These motes contain far more potent concentrates of the affineal elements, and will allow me to create far more powerful artifacts than I could before."
+				"value": "現在，我已可以操縱部分艾得靈源泉之力了，我能夠運用它們的力量來創造更為強大的元素微核。這些新的微核蘊含更多對應種類的濃縮元素，能夠在我製作新的強力飾品的過程中派上大用場。"
 			}
 		],
 		"related_recipes": [
@@ -6702,7 +6702,7 @@
 			},
 			{
 				"type": "text",
-				"value": "當你穿戴著這條皮帶時，靈氣附魔的效果只會影響到你，消耗的魔力也會因此而下降。"
+				"value": "當你穿戴著這條皮帶時，光環附魔的效果只會影響到你，消耗的魔力也會因此而下降。"
 			}
 		],
 		"related_recipes": [
@@ -6722,7 +6722,7 @@
 			},
 			{
 				"type": "text",
-				"value": "當副手持有該法杖時，它會激發我對於旅行的狂熱感，提升我的移動速度，跳躍高度，游泳速度，還可以輔助提升我的上步高度。"
+				"value": "當副手持有該魔杖時，它會激發我對於旅行的狂熱感，提升我的移動速度，跳躍高度，游泳速度，還可以輔助提升我的上步高度。"
 			}
 		],
 		"related_recipes": [
@@ -7451,11 +7451,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Wellspring Sight Unguent"
+				"value": "源泉之視藥膏"
 			},
 			{
 				"type": "text",
-				"value": "The Wellspring Sight Unguent, when applied to the eyes, allows the user to perceive eldrin wellsprings in the world.  While less potent than the Unguent of Seeing, its use also doesn't incur the wrath of the Council."
+				"value": "將源泉之視藥膏塗抹在眼上，你便可看見世界中的艾得靈源泉。雖然效力比起艾得靈之視藥膏差了很多，但用這個至少不會招致議會的怒火。"
 			}
 		],
 		"related_recipes": [
@@ -7475,15 +7475,15 @@
 			},
 			{
 				"type": "text",
-				"value": "符法雖是一種法術，但卻無需額外材料，僅憑繪畫織魔圖樣即可進行施法。每當你的等階提升時，你都會解鎖一些新的符法。\n\n你可以在你的織魔者之杖內設定/查看符法的圖樣組合（每個圖樣組合至少包含兩個圖樣），之後，你甚至可以將非引導類符法組合起來，組成自訂符法。"
+				"value": "符法雖是一種法術，但卻無需額外材料，僅憑繪畫織魔圖樣即可進行施法。每當你的等階提升時，你都會解鎖一些新的符法。\n\n你可以在你的織魔者魔杖內設定/查看符法的圖樣組合（每個圖樣組合至少包含兩個圖樣），之後，你甚至可以將非引導類符法組合起來，組成自訂符法。"
 			},
 			{
 				"type": "title",
-				"value": "The Cantrip GUI"
+				"value": "符法 GUI"
 			},
 			{
 				"type": "text",
-				"value": "To view the cantrips GUI, simply hold any manaweaver wand in your hand, press the gui key (default control), and right click.  The wand's tooltip will show this as well.\n\nOnce in the gui, hover over any of the cantrip icons to see a description of what the cantrip does.  You can also change the patterns required for that cantrip (minimum 2) by using the arrows next to the boxes below each cantrip's icon.\n\nSome cantrips allow inserting items as well that are related to that cantrip (such as spells).  For example the 'Freeform Spell' cantrips require that you place a spell into the inventory slot before they'll do anything."
+				"value": "若想查看符法 GUI，僅需手持織魔魔杖並按住 GUI 鍵（預設為 Control），接著右擊即可。魔杖的提示文字裡也寫有。\n\n進入 GUI 後，游標懸停在各個符法的標誌上，即可查看各符法的作用描述。你也可以變更觸發某個符法所需要的織魔圖樣（最少 2 個），點擊各圖樣旁的紫色小箭頭即可。\n\n有些符法可以容納一些物品，容納後，此物品便與此符法產生了關聯（例如法術）。一個例子是「任選法術」符法，你只有在此符法的物品槽內放上法術後，此符法才會有效果。"
 			},
 			{
 				"type": "title",
@@ -7491,7 +7491,7 @@
 			},
 			{
 				"type": "text",
-				"value": "施放符法，首先你得準備一根織魔者之杖，裝備之後先進行第一個圖樣的繪製，繪製完畢之後圖樣會懸浮於空中。接著，再繪製第二個圖樣，繪製完畢之後它會與第一個圖樣相融合。若該圖樣組合綁定於某個符法，你會聽到叮鈴聲，畫面上會出現一個帶著冷卻條的圖示。若該符法是瞄準類符法，當計時條結束時，符法會朝著你所指向的地方發射出去。"
+				"value": "施放符法，首先你得準備一根織魔者魔杖，裝備之後先進行第一個圖樣的繪製，繪製完畢之後圖樣會懸浮於空中。接著，再繪製第二個圖樣，繪製完畢之後它會與第一個圖樣相融合。若該圖樣組合綁定於某個符法，你會聽到叮鈴聲，畫面上會出現一個帶著冷卻條的圖示。若該符法是瞄準類符法，當計時條結束時，符法會朝著你所指向的地方發射出去。"
 			}
 		],
 		"related_recipes": [
@@ -7515,11 +7515,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "臨時織魔者之杖"
+				"value": "臨時織魔者魔杖"
 			},
 			{
 				"type": "text",
-				"value": "在緊要關頭，我很確定我能夠僅憑一根木棒以及一朵魔法花或者秘鳴寶石，打造出一根臨時織魔者之杖。它能讓我在緊急情況下進行魔力編織，但使用數次後便會損毀。然而，這幾次的使用機會足以讓我施放一次或者兩次的符法，關鍵時刻足以扭轉乾坤。"
+				"value": "在緊要關頭，我很確定我能夠僅憑一根木棒以及一朵魔法花或者秘鳴寶石，打造出一根臨時織魔者魔杖。它能讓我在緊急情況下進行魔力編織，但使用數次後便會損毀。然而，這幾次的使用機會足以讓我施放一次或者兩次的符法，關鍵時刻足以扭轉乾坤。"
 			}
 		],
 		"related_recipes": [
@@ -7739,11 +7739,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Witherbone"
+				"value": "凋零之骨"
 			},
 			{
 				"type": "text",
-				"value": "This blackened bone is often used in crafting recipes surrounding the ender, the undead, and death."
+				"value": "這種漆黑的骨頭往往會被用於那些與終界、不死和死亡相關的合成配方中。"
 			}
 		],
 		"related_recipes": [
@@ -7759,11 +7759,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Living Flame"
+				"value": "活焰"
 			},
 			{
 				"type": "text",
-				"value": "The flame in this bottle seems to pulse and move as if alive.  These pulsing pyros are often used in crafting recipes surrounding fire, the nether, and demons."
+				"value": "瓶中的火焰在不斷躍動、漂移，好似活物。這一脈動之焰往往會被用於與火焰、地獄和惡魔有關的合成配方中。"
 			}
 		],
 		"related_recipes": [
@@ -7779,11 +7779,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Ironbark"
+				"value": "鐵樹皮"
 			},
 			{
 				"type": "text",
-				"value": "This sturdy piece of ancient bark has been imbued with the strength of iron to mimic an almost petrified effect.  It's exceptionally strong and is often used in crafting recipes surrounding nature and the fey."
+				"value": "這種遠古樹皮本身便無比堅硬，加之又向其中注入了鐵之力，用於模擬類似於石化的效果，最終便製作出了這種異常強力的材料。它往往被用於與自然和仙女相關的合成配方。"
 			}
 		],
 		"related_recipes": [
@@ -7799,19 +7799,19 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Arcane Stones"
+				"value": "奧術石材"
 			},
 			{
 				"type": "text",
-				"value": "Arcane stones are often used as decoration, though they also (if placed properly) can be used to direct magical energies in specific scenarios when imbued with vinteum or chimerite inlays.  As such, they are often used in structures focusing on magic."
+				"value": "奧術石材用於裝飾向來不錯，但若是向其注入了溫特姆或是秘鳴寶石，並形成的對應鑲嵌帶，便可以使得石材在特定情形下引導魔法能量（擺放正確的話）。因此，它們常被用於與魔法有關的結構中。"
 			},
 			{
 				"type": "title",
-				"value": "Shaping Stones"
+				"value": "成型石材"
 			},
 			{
 				"type": "text",
-				"value": "Arcane stones can be shaped into walls, slabs, stairs, and more by following the same crafting processes that I would use for normal stone.  This is because when they are manaweaved, the magic is already infused in them, and they can thus be simply worked like normal stone either at a workbench or a stonecutter."
+				"value": "奧術石材可以被加工塑型為牆、半磚、階梯等方塊，凡是普通石頭能進行的合成工序，奧術石材都可以做到。之所以加工起來如此方便，是因為我們在織魔過程中施展的魔法已滲入了它們的內部，因而在工作檯和切石機上加工它們時不費吹灰之力，就和普通石頭差不多。"
 			}
 		],
 		"related_recipes": [
@@ -8070,7 +8070,7 @@
 			},
 			{
 				"type": "text",
-				"value": "構裝體的智慧屬性決定了它能執行多少統御星錐內編寫的指令（預設為 8 ）。如果你嘗試讓構裝體執行超出它們能力範圍的數量的指令，它們會因為指令太多而感到困惑，然後會從頭執行指令。\n\n用不同材料製成的智慧頭部，可以讓構裝體突破此界限。"
+				"value": "構裝體的智慧屬性決定了它能執行多少統御星錐內編寫的指令（預設為 8）。如果你嘗試讓構裝體執行超出它們能力範圍的數量的指令，它們會因為指令太多而感到困惑，然後會從頭執行指令。\n\n用不同材料製成的智慧頭部，可以讓構裝體突破此界限。"
 			}
 		]
 	},
@@ -8084,7 +8084,7 @@
 			},
 			{
 				"type": "text",
-				"value": "有時，你會突然想到到一個問題：\"我的構裝體現在在幹啥？？\" 在書中搜尋：構裝體診斷棒，做一根出來，然後用它右擊你的構裝體，你就可以直觀的查看到構裝體小腦袋裡的內容。"
+				"value": "有時，你會突然想到到一個問題：「我的構裝體現在在幹啥？？」在書中搜尋：構裝體診斷棒，做一根出來，然後用它右擊你的構裝體，你就可以直觀的查看到構裝體小腦袋裡的內容。"
 			}
 		],
 		"related_recipes": [
