@@ -1,0 +1,22 @@
+{
+    "modifier": "gardening",
+    "text": [
+        {
+            "text": "Hmm... So shears cut down shrubs, and yoyos cut down scrubs..."
+        },
+        {
+            "text": "\n"
+        },
+        {
+            "text": "So if you put the two together, you'd be unstoppable!"
+        }
+    ],
+    "effects": [
+        "Allows the yoyo to cut down grass and shrubs like shears",
+        "Slight damage increase",
+        "只能強化一次"
+    ],
+    "demoTool": [
+        "yoyos:yoyo"
+    ]
+}
