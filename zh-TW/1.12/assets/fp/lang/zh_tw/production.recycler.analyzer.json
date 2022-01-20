@@ -1,7 +1,7 @@
 [
   "I developed a tool for the recycler to put into the middle slot.",
   "It's a scanner which scans and analyzes the unit layer by layer. It produces support points in the process.",
-  "Crafting:",
+  "合成:",
   {
     "link": "fp:lang/part/crafting_production.recycler.analyzer.json"
   },
