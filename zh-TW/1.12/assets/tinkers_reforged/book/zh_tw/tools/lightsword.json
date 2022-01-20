@@ -1,8 +1,8 @@
 {
-  "tool": "lightsword",
+  "tool": "光劍",
   "text": [
     {
-      "text": "The lightsword is a sword used to slay Werewolves. It is effective against mobs"
+      "text": "光劍是一把用來殺死狼人的劍。它對生物很有效"
     },
     {
       "text": "\n"
@@ -13,6 +13,6 @@
   ],
   "properties": [
     "中等傷害",
-    "Can use offhand"
+    "非慣用手可用"
   ]
 }
