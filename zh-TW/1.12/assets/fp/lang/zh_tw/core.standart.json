@@ -1,10 +1,10 @@
 [
-	"On the basis of the silicon elements and copper parts as connectors, as well as the usage of iron for contamination of the silicon wafer, I managed to create a universal processing unit.",
-	"With correct outer controlling, my primitive processor can go through algorithms and perform many different calculations.",
-	"Assembly:",
+	"透過簡單的搭配焊接矽元素和銅配件,和鐵蝕刻出的矽晶板,我設計出了一個通用的處理單元。.",
+	"透過正確的外部操作,我能讓原始處理器透過算法執行許多不同的計算。",
+	"裝配",
 	{
 		"link": "fp:lang/part/as_core.standart.json"
 	},
-	"Info:",
-	"Processors possess 1 critical property: Their capacity (§lcore§r), which indicates the maximum load (refer to chipset/memory) the processor can handle before it begins to heat up. When the temperature exceeds 1000C it'll go kaput!"
+	"訊息:",
+	"每個處理器具有1個關鍵屬性:它們的容量（§lcore§r），表示處理器在開始發熱前所能處理的最大負荷（參考晶片組/記憶體）。當溫度超過1000C時，它就會壞掉!"
 ]
