@@ -24,8 +24,8 @@
     "item.spartanfire.quarterstaff_custom.name": "%s錘頭棍",
     "tooltip.spartanfire:fire_dragonbone": "點燃並擊退目標，對冰龍可造成額外傷害",
     "tooltip.spartanfire:ice_dragonbone": "緩慢並擊退目標，對火龍可造成額外傷害",
-    "tooltip.spartanfire:jungle": "對非節肢生物和沙蟲的傷害+4",
-    "tooltip.spartanfire:desert": "對非節肢生物和沙蟲的傷害+4",
+    "tooltip.spartanfire:jungle": "對非節肢生物和死亡蠕蟲的傷害+4",
+    "tooltip.spartanfire:desert": "對非節肢生物和死亡蠕蟲的傷害+4",
     "tooltip.spartanfire:jungle_venom": "命中並產生劇毒效果",
     "tooltip.spartanfire:desert_venom": "命中並產生劇毒效果",
     "tooltip.spartanfire:fire_dragonsteel": "點燃並擊退目標",
@@ -33,10 +33,10 @@
     "material.spartanfire:dragonbone": "龍骨",
     "material.spartanfire:fire_dragonbone": "火龍骨",
     "material.spartanfire:ice_dragonbone": "冰龍骨",
-    "material.spartanfire:desert": "沙漠巨蟻",
-    "material.spartanfire:jungle": "叢林巨蟻",
-    "material.spartanfire:desert_venom": "沙漠巨蟻蟄針",
-    "material.spartanfire:jungle_venom": "叢林巨蟻蟄針",
-    "material.spartanfire:ice_dragonsteel": "冰龍鋼",
-    "material.spartanfire:fire_dragonsteel": "火龍鋼"
+    "material.spartanfire:desert": "沙蟻",
+    "material.spartanfire:jungle": "林蟻",
+    "material.spartanfire:desert_venom": "沙漠蟻蟄針",
+    "material.spartanfire:jungle_venom": "叢林蟻蟄針",
+    "material.spartanfire:ice_dragonsteel": "龍霜鋼",
+    "material.spartanfire:fire_dragonsteel": "龍炎鋼"
 }
