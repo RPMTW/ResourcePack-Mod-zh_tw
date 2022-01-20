@@ -1,7 +1,7 @@
 [
   "The possibilities of \"Overdrive\" are limited and only applicable to blocks with computer system. With the help of nanostructure manipulation I can manipulate every working block (ticking tileEntity) to add additional work steps.",
   "For this I have developed a machine, that can be placed on other blocks. It has a computer system and needs neon energy. A single external processing unit at a clock rate of 100% doubles the block's speed.",
-  "Crafting:",
+  "合成:",
   {
     "link": "fp:lang/part/crafting_chips.externalcore.json"
   }
