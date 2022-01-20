@@ -1,11 +1,11 @@
 [
-	"I have developed a special chipset which improves the efficiency of machines.",
-	"This chipset is most useful in energy generators, where it controls the generation and transformation of energy. This increases energy production per tick or the profit from resources.",
-	"Assembly:",
+	"我已經開發了一種特殊的晶片組來提高機器的效率。",
+	"這個晶片組在能量發生器中最為有用,它控制著能量的產生和轉化。這增加了每tick的能量產生或資源的利用率。",
+	"裝配",
 	{
 		"link": "fp:lang/part/as_chip.industrial.json"
 	},
-	"A industrial chipset of high quality (high chip power) or the usage of multiple chipsets will increase the effect accordingly.",
-	"Hint: The exact effect is determined by the supporting machine.",
-	"Hint: Refer to \"Logic Chipset\" for general information."
+	"工業晶片組的影響效果隨著其品質(chip power)和數量的增加而增強。",
+	"提示:增強的具體效果它所支持的機器決定。",
+	"提示:參考\"邏輯晶片組\" 相關訊息。"
 ]
