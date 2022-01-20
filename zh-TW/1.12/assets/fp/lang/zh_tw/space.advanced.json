@@ -1,7 +1,7 @@
 [
   "My simple board computer is unfortunately not able to calculate the travel paths for the FTL-Drive. Because, despite the processing unit in the FTL itself, even more precise data for control and course calculation is needed, and I have to compensate for spacetime logic (or lack thereof) and effects of quantum mechanics. That's why I created an upgrade and used a powerful quantum computer as the CPU.",
   "I also fixed some problems the first version of the board computer had. For example, the message 'Your spaceship is open' also points out where it is open.",
-  "Crafting:",
+  "合成:",
   {
     "link": "fp:lang/part/crafting_space.advanced.json"
   },
