@@ -1,16 +1,16 @@
 [
-  "I have developed some useful Redstone components.",
-  "Lever:",
+  "我設計了一些有用的紅石組件。",
+  "控制桿:",
   {
     "link": "fp:lang/part/crafting_deco.rs_utils.json"
   },
-  "Button:",
+  "按鈕:",
   {
     "link": "fp:lang/part/crafting_deco.rs_utils2.json"
   },
-  "Redstone Timer (Clock):",
+  "紅石鐘:",
   {
     "link": "fp:lang/part/crafting_deco.rs_utils3.json"
   },
-  "The interval of the timer can be set via GUI."
+  "間隔時間可透過GUI設定。"
 ]
