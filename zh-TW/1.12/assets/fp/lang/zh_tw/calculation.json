@@ -1,14 +1,14 @@
 [
-	"Energy research needs a lot of computing power, which unfortunately the researcher does not have. That's why the research is getting to be very time consuming.",
-	"So I invented a calculations module, which will help the researcher to perform complex calculations. Because this module doesn't need a lot of different chipsets, I was able to modify the system to include more RAM slots. I have also included a second, interconnected processor to process the data faster. Thus this system can utilize more corepower than normal machines.",
-	"The calculations module has to be directly connected to the researcher or connected via a network. (Networks potentially have yet to be researched.)",
-	"It is possible to connect any number of modules to a researcher, whereby one module with 100% RAM has 4 times the calculation power of a normal researcher. The power of a module depends only on its RAM power.",
-	"Crafting:",
+	"能源研究涉及到龐大的計算量，這些事情僅靠研究台是無法做到的。這就是研究藍圖的過程非常的耗時的原因。",
+	"所以我開發了一個計算模組，它能夠幫助研究台計算大量的數據。由於該模組不需要大量各種各樣的晶片，我能夠修改它的系統擴充它的記憶體條插槽。並且使他能夠支持雙處理器以便更快的處理數據。所以說這個系統和普通的主板系統相比，能夠容納更多的corepower。",
+	"計算模組必須緊貼著研究台，或者透過網路連接。",
+	"可以同時連接多個計算模組到研究台上，一個連有ram為100%的計算模組的研究台計算能力是普通研究台的4倍。模組的能量取決於它的ram。",
+	"合成:",
 	{
 		"link": "fp:lang/part/cr_calculation.main.json"
 	},
 	{
 		"link": "fp:lang/part/cr_calculation.json"
 	},
-	"Currently, I should be able to attach 1-2 modules to a researcher."
+	"目前,我最多只能為研究台附加2個計算模組。"
 ]
