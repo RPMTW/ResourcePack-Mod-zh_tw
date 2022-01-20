@@ -1,8 +1,8 @@
 [
-	"The efficiency of the reconstructed Dungeon Cores was unexpectedly low. After some investigation I recognized a mistake in the reconstruction process.",
-	"The concept used by the Unreachable was linking the single units of the core to a torus-shaped network. I can follow this concept by combining two Dungeon Cores.",
-	"This improved design permits an extremely large amount of power. This power is also influenced by the power of both Dungeon Cores.",
-	"Assembly:",
+	"重建的地牢處理器效率出乎意料地低。經過一番調查，我意識到重組時的一個嚴重錯誤。",
+	"未知科技原本的概念是將處理器的單個單元連接到一個圓環形網路。我可以透過結合兩個地牢的內核來遵循這個概念。",
+	"這種改進的處理器有著極高的承受力。該承受力同時也受到地牢corepower的影響。",
+	"裝配",
 	{
 		"link": "fp:lang/part/as_core.univers.json"
 	}
