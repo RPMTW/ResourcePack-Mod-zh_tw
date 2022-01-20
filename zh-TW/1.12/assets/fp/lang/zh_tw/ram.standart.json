@@ -1,7 +1,7 @@
 [
 	"By combining Neon parts which store small amounts of energy as well as a control device, I have designed a memory storage device. I built the controller out of a silicon wafer coated with iron.",
 	"This memory design is very fast, but the data must be rewritten periodically. This is caused by a slow energy leak of the small storages.",
-	"Assembly:",
+	"裝配",
 	{
 		"link": "fp:lang/part/as_ram.standart.json"
 	},
