@@ -1,9 +1,9 @@
 [
-	"I have developed a special chipset which deactivates the whole machine if it starts to overheat. This prevents component failure and destruction.",
-	"Assembly:",
+	"我開發了一個特殊的晶片使機器如果過熱就自動停機. 這樣可以防止部件失效和破壞.",
+	"裝配",
 	{
 		"link": "fp:lang/part/as_chip.damage.json"
 	},
-	"A damage chipset of high quality (high chip power) has no additional benefits compared to a normal one!",
-	"Hint: Refer to \"Logic Chipset\" for general information."
+	"高品質（chip power）的損壞監控晶片組與普通晶片相比沒有任何更多的優勢。",
+	"提示:參考\"邏輯晶片組\"相關訊息."
 ]
