@@ -3,7 +3,7 @@
   "On the left side of the GUI I can resize the area. [Important: A change of 1 in X or Z direction causes a change of two blocks]. On the right side I can move the area around.",
   "On the bottom I can disable the display of the yellow box in-world (\"Render:false\"). Also I am able to rename the zone.",
   "The selected area is shown with an yellow box. Flashing edges mean that they are not directly visible. For example this can be caused if the selection is below ground.",
-  "Crafting:",
+  "合成:",
   {
     "link": "fp:lang/part/crafting_space.claime.json"
   }
