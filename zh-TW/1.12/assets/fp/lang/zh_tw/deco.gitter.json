@@ -1,6 +1,6 @@
 [
-	"I researched a complex structure made from composite metal and iron bars, a grid block.",
-	"Crafting:",
+	"我研究了由複合金屬和鐵棒製成的複雜結構，一個普通的網格方塊。",
+	"合成:",
 	{
 		"link": "fp:lang/part/cr_deco.gitter.json"
 	},
@@ -13,6 +13,6 @@
 	{
 		"link": "fp:lang/part/cr_deco.gittertreppe.json"
 	},
-	"Information: The blocks can be (un)colored using the air brush.",
-	"Information: Two stacked slabs drop a full block."
+	"訊息：可使用噴槍進行染色",
+	"訊息：兩個半磚敲落後掉落完整的方塊。"
 ]
