@@ -1,8 +1,8 @@
 {
-  "tool": "greatsword",
+  "tool": "巨劍",
   "text": [
     {
-      "text": "The Greatsword is a weapon with a slow attack speed and high damage."
+      "text": "巨劍是一種攻擊速度慢、高額傷害的武器。"
     },
     {
       "text": "\n"
@@ -12,7 +12,7 @@
     }
   ],
   "properties": [
-    "Medium to High Damage",
+    "中等到高額傷害",
     "橫掃攻擊",
     "非慣用手可用"
   ]
