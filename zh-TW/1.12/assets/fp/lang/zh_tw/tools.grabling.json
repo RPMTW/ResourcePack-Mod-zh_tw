@@ -1,7 +1,7 @@
 [
 	"It's hard to maneuver in huge caves or canyons. That's why I wanted to develop a piton (a climbing tool fixed into a wall for lateral climbing). However I noticed a problem:",
 	"Pitons need edges in the landscape to be securely able to hold me up. As a solution, I developed climbing slime. Instead of throwing a piton, the rope is attached to a sticky ball of slime. A neon impulse that is transferred through the rope can suppress the stickiness of the slime for a short time to release it from a wall.",
-	"Crafting:",
+	"合成:",
 	{
 		"link": "fp:lang/part/cr_tools.grabling.json"
 	},
