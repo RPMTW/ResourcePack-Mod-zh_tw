@@ -1,6 +1,6 @@
 [
     "I have developed an automated rocket launcher. It will target entities in its range and shoot rockets at them until they die. The computer system helps at targeting and following them when they move.",
-    "Crafting:",
+    "合成:",
     {
         "link": "fp:lang/part/cr_space.turret.rocket.json"
     },
