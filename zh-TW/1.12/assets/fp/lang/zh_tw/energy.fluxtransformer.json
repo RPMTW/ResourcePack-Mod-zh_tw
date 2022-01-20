@@ -1,6 +1,6 @@
 [
 	"I discovered a transformator to convert the unfamiliar form of energy into safe Neon Energy. However, this can have unwanted side effects at high flow rates, so I have also integrated a current limiter.",
-	"Crafting:",
+	"合成:",
 	{
 		"link": "fp:lang/part/crafting_energy.fluxtransformer.json"
 	},
