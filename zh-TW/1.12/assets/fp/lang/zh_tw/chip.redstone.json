@@ -1,7 +1,7 @@
 [
-	"The redstone control chipset works for any kind of machine, including a mainboard. It ensures that the machine checks independently whether it gets a redstone signal and shuts down afterwards.",
-	"This enables shutting down big systems for power saving issues.",
-	"Assembly:",
+	"紅石控制晶片適合任何類型的機器,它能透過檢查機器是否有接受獨立的紅石訊號來控制機器的開關。",
+	"這樣可以關閉不必要的系統以節省電力.",
+	"裝配",
 	{
 		"link": "fp:lang/part/as_chip.redstone.json"
 	}
