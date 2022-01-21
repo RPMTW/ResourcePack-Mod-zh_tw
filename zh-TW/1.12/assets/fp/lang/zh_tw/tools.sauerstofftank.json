@@ -1,12 +1,12 @@
 [
-  "To work underwater for longer time periods, I have to take along air. The simple tanks I created are useful for that; and in combination with a light aluminum casing, I can take the tanks as a backpack.",
-  "I also added a controller and a compressor, for automatic refilling of the tanks above water.",
+  "為了在更長的時間內在水下工作，我帶上足夠的氧氣。 我設計的簡單儲罐對此有很大的幫助; 並結合輕鋁外殼，我可以把它當作背包。",
+  "我還加入了一個控制器和一個壓縮機，用於在水面上自動重新填充儲罐。",
   "合成:",
   {
     "link": "fp:lang/part/crafting_tools.sauerstofftank.json"
   },
-  "Capacity: 2 min",
-  "Refill: 2 min",
-  "Display: The fill level of the tanks is shown using the normal oxygen bar. Once it's empty (after 2 min), your oxygen tanks are depleted. Your oxygen level will be filled up once when this happens, and depletes at normal speed.",
-  "Above water, the tanks refill slowly, as long as they are equipped."
+  "容量: 2 min",
+  "重裝: 2 min",
+  "顯示：使用正常氧氣條顯示儲罐的液位。 一旦空了（2分鐘後），你的氧氣罐就耗盡了。",
+  "在水面之上，氧氣罐只要配備好，就會慢慢補充。"
 ]
