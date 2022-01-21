@@ -1,9 +1,9 @@
 [
-  "I developed a tool for the recycler to put into the middle slot.",
-  "It's a scanner which scans and analyzes the unit layer by layer. It produces support points in the process.",
+  "我開發了一個回收工具，透過將它放進回收機中間的插槽進行使用。",
+  "該工具中內置了一個掃描儀，透過分析部件的結構來層層拆解它們。 在此過程中產生SP點。",
   "合成:",
   {
     "link": "fp:lang/part/crafting_production.recycler.analyzer.json"
   },
-  "This unit can analyze all products of the Assembly Table. For cores, chipsets, and RAM, the amount of Support Points depends on the power of the component."
+  "該工具可以分析所有裝配台製作的產品。 對於處理器，晶片組和記憶體條，SP點的生成量取決於組件的功能。"
 ]
