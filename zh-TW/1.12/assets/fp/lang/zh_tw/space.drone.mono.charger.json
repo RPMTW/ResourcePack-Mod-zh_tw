@@ -1,9 +1,9 @@
 [
-	"This special, redesigned monorail can recharge the internal energy storage of monocarts automatically.",
-	"If a monocart passes by, it will stop until it is fully charged.",
+	"這種特殊的，重製後的軌道可以自動為單軌礦車的內部電池充能。",
+	"當單軌礦車經過時，會在該軌道上停下，直至充滿電。",
 	"合成:",
 	{
 		"link": "fp:lang/part/cr_space.drone.mono.charger.json"
 	},
-	"This monorail uses neon energy as usual."
+	"該單軌同樣由氖能量供能。"
 ]
