@@ -1,8 +1,8 @@
 [
-  "I'd tried to develop an intelligent fishing lure, but something went wrong. Instead, I accidentally developed a sort of egg that absorbs organisms and puts them into stasis.",
+  "我正在試圖研發一種智慧的捕魚裝置，但是遇到了瓶頸。相反，在研究過程中我發明了一種能吸收生物體並使其停滯的蛋。",
   "裝配",
   {
     "link": "fp:lang/part/assembly_tools.egger.json"
   },
-  "The \"Entity Egger\" can be thrown. If it hits an organism, it will be absorbed. The creature can subsequently be released in the same way."
+  "「實體捕捉蛋」可以被投擲。 如果碰到一個有效實體，會將其捕捉。 用相同的方式可釋放生物。"
 ]
