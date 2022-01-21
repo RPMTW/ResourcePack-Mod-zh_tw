@@ -1,15 +1,15 @@
 [
-	"With the help of my deadly lasers, I have developed a type of guard tower. With the help of a built-in computer, it automatically targets all creatures within its range. With a very strong laser beam, the guard tower will rapidly injure targets.",
-	"In doing so, the tower consumes large amounts of neon energy, which is why I should connect it to a more permanent source of energy. In addition to the continuous consumption of the computer monitoring system, the killing of an entity requires additional energy (10 NE per life point).",
+	"基於紅色聚焦鏡片，我開發了一種防衛塔。在其內置處理器的幫助下，它會自動瞄準其範圍內的所有生物。發射非常強的雷射束，護衛塔將迅速傷害目標。",
+	"當雷射被發射時，雷射塔消耗大量的氖能，我應該將其連接到更持久的能量源。除了持續消耗電腦監控系統外，一個實體被殺死需要額外的能量（每個生命點10NE）。",
 	"合成:",
 	{
 		"link": "fp:lang/part/cr_space.turret.killer.json"
 	},
-	"The laser turret is controlled by a computer system which, among other things, regulates the target acquisition and the energy flow.",
-	"Supported Chipsets",
-	"Industrial Chipset: Reduces the energy needed to kill creatures.",
-	"Tactical Control Chipset: Increases the target search radius.",
-	"AI Chipset: Advanced configuration with GUI !",
+	"雷射炮塔由電腦系統控制，可調節目標選取和能量流。",
+	"支持的晶片組",
+	"工業晶片組：減少殺死生物所需的能量。",
+	"戰術控制晶片組：增加目標搜尋半徑。",
+	"AI晶片組：不將目標殺死（剩下1點生命值）。",
 	"Ultimate Chipset: The killed entities will drop XP.",
 	"Logistic Chipset: The dropped items will get transported to the laser."
 ]
