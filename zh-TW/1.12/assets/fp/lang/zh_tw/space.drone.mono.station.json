@@ -1,12 +1,12 @@
 [
-	"This special, redesigned rail can load goods into a waiting monocart and it also works as monorail waypoint.",
-	"In the GUI of the monorail station, you can use the pencil symbol to rename the waypoint. For the in- and output you can filter up to 5 different items. The green arrow is the input into the monocart and the red arrow is the output from it.",
-	"Next to the arrows, you can see buttons to switch between blacklist and whitelist mode.",
-	"Additionally in whitelist mode, you can adjust the amount for each slot (left click: +1, right click: -1, shift+left: +10, shift+right: -10). An amount over 64 represents infinity/everything.",
-	"The configured load up count represents the total amount of items of this type put inside the monocart, while the unload count represnts the amount of items taken from the monocart.",
+	"這種特殊的，重製後的軌道可以為停靠的單軌礦車裝貨，同時它也具有路徑單軌的功能。",
+	"在單軌站的GUI中，你可以用字母和符號來命名定位點。透過輸入和輸出的標記槽可以讓你過濾最多5種不同的物品。綠色的箭頭代表著從外部輸入到單軌礦車，紅色的箭頭代表著從礦車輸出到外部。",
+	"此外，您可以調整每個標記槽的物品數量（左鍵：+1，右鍵：-1，shift+左箭：+10，shift+右鍵：-10）。 超過64代表無限/所有物品。",
+	"此外，您可以調整每個標記槽的物品數量（左鍵：+1，右鍵：-1，shift+左箭：+10，shift+右鍵：-10）。 超過64代表無限/所有物品。",
+	"設定的裝載計數表示在礦車中放置的這種類型的物品的總量，而卸載計數表示從礦車取得的物品的數量。",
 	"Crafting:",
 	{
 		"link": "fp:lang/part/cr_space.drone.mono.station.json"
 	},
-	"The monorail station does not have an inventory of its own, therefore the station directly interacts with the surounding inventories."
+	"單軌站沒有自己的物品槽，因此單軌站只能緊靠著容器才能起作用。"
 ]
