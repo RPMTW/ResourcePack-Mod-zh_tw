@@ -1,11 +1,11 @@
 [
-  "I improved the simple Industrial Furnace with my newest technologies. Now it consumes Neon Energy and received an upgradable computer system.",
-  "The Neon Industrial Furnace features some sensors and precisely adjustable heating coils. So it can perfectly control the smelting process.",
-  "With these new abilities, I was also able to modify my old recipes to make them more efficient. (all Recipes are listed in the following Researches)",
-  "I am sure that there are more uses for this machine. I have also integrated a system for consumption of support points, which I can use in more complex recipes.",
+  "我用最新的技術改進了簡單的工業爐。現在，它消耗氖能源並接受可升級的電腦系統。",
+  "氖工業爐具有一些傳感器和精確可調的加熱線圈。所以它可以完美地控制冶煉過程。",
+  "有了這些新的功能，我也可以修改我的舊配方，使它們更有效率。（所有配方在以下研究中列出）",
+  "我相信這台機器有更多的用途，我還整合了SP點消耗系統，可以在更複雜的合成中使用。",
   "合成:",
   {
     "link": "fp:lang/part/crafting_production.neonind.json"
   },
-  "Important: The consumption of support points (SP) is not able to be done by using the Flash Memory. The required technique will be researchable later!"
+  "重要提示：使用快閃記憶體不能完成Support點（SP）的消耗。所需的技術在以後的研究中！"
 ]
