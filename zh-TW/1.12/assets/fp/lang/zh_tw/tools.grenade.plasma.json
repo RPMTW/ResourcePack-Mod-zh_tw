@@ -1,17 +1,17 @@
 [
-  "The simple, black powder grenade is very effective for killing creatures, but it also regularly causes damage to the landscape or nearby buildings.",
-  "I can ignite a small amount of neon dust with blaze powder which triggers an extremely strong plasma wave. However, this only harms creatures! The radiation can be safely absorbed by non-living things.",
-  "I can use 1-3 units of neon dust to select the strength of the grenade.",
-  "Crafting (shapeless):",
-  "Strength 1:",
+  "簡單的黑色粉末手榴彈對於殺死生物非常有效，但也會對景觀或附近建築物造成損壞。",
+  "我可以用烈焰粉點燃少量的氖塵，觸發極度強烈的電漿體波。 但是，這只會傷害生物！",
+  "我可以使用1-3等級的氖粉末來選擇手榴彈的強度。",
+  "無序合成:",
+  "強度1:",
   {
     "link": "fp:lang/part/crafting_tools.grenade.plasma.json"
   },
-  "Strength 2:",
+  "強度2:",
   {
     "link": "fp:lang/part/crafting_tools.grenade.plasma2.json"
   },
-  "Strength 3:",
+  "強度3:",
   {
     "link": "fp:lang/part/crafting_tools.grenade.plasma3.json"
   }
