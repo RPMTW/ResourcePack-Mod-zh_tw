@@ -1,10 +1,10 @@
 [
-  "I have developed a special workbench which has internal item storage to make my crafting more efficient.",
-  "Only this workbench has the facilities for all of my future crafting recipes, which I will soon discover.",
+  "我開發出了一個特殊的工作檯，它自帶的內部物品欄使我的合成更有效率。",
+  "只有這個工作檯有我所有未來製作配方的設施，我將很快發現。",
   "合成:",
   {
     "link": "fp:lang/part/crafting_techtabel.json"
   },
-  "IMPORTANT: All crafting recipes enabled by this mod are ONLY possible in this workbench!",
+  "重要訊息：此mod啟用的所有製作配方只能在此工作檯中使用！",
   "Since 1.12 the normal vanilla table is also possible."
 ]
