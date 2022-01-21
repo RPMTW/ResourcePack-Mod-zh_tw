@@ -1,11 +1,11 @@
 [
-    "The protective value of the armor is high, but as I have now energy modules I though of possibilities to further improve it.",
-    "I discovered a rare case where every substance can act as a ferrofluid but only for a small amount of time. To controll it I have used quantanium coils as they can create strong magnetic fields due to their low electrical resistence.",
-    "I dont understand the process compleatly but when a spark hits bitripentium the atoms around start to lose their eletron pairs resulting of short time magnetism of all atoms around, combined with the strong magnetic field of the coils everything is a shortime ferrofluid.",
-    "In theorie only energy is needed and this device would turn my very body into a ferrofluid, but because of unknown side effects the armor is used as a shield to lower the effect of my own body.",
+    "這套盔甲的保護能力非常好, 但我現在有了能源模組，我在思考有沒有可能改進它。",
+    "我發現在一種罕見的情況下，所有物質都會表現的像鐵磁流體一樣，但只能持續一小段時間。為了控制它，我使用了量子線圈，因為它們具有很低的電阻。",
+    "我沒完全弄懂這個過程，不過當火花擊中比特錠時周圍的原子開始失去電子對，導致周圍的原子都被磁化，結合量子線圈強大的磁場便使得所有東西都短暫鐵磁流體化。",
+    "理論上這台設備只需要能量即可運作，而且會把我的身體鐵磁流體化，不過一種未知的副作用使盔甲變成了能夠減輕它的影響的盾牌。",
     "合成:",
     {
         "link": "fp:lang/part/cr_tools.modul.shield.json"
     },
-    "Currently one shield is enough to protect a tens of my life but needs one second to regenerate. This will do not much against large amounts of damage but it will help against small amounts."
+    "目前一個盾牌就足夠保護我幾十次了，但它需要一秒來重新充能。所以它不能阻擋大量的傷害，而是能夠阻擋少量傷害。"
 ]
