@@ -1,7 +1,7 @@
 [
-  "With the assistance of my centrifuge, I can process stone, gravel, and other rocks to extract traces of more valuable materials.",
-  "I can perform this method multiple times to various rock types to eventually get finely ground, clean sand..",
-  "Example:",
+  "在離心機的幫助下，我可以處理石頭，礫石等資源，以提取更有價值的材料。",
+  "我可以多次對各類石頭進行這種方法，最終得到細磨的沙塵。",
+  "例:",
   {
     "link": "fp:lang/part/zentrifuge_production.zent.extraction1.json"
   },
@@ -11,5 +11,5 @@
   {
     "link": "fp:lang/part/zentrifuge_production.zent.extraction13.json"
   },
-  "Information: The centrifuge has many recipes, so not all listed here!"
+  "訊息：離心機有很多配方，所以在這裡並沒有全部列出！"
 ]
