@@ -1,11 +1,11 @@
 [
-  "The naturally occurring Redstone can transfer simple signals. By the integration of Redstone dust in the aluminum frame of the pipes, I created a pipe that also transfers Redstone signals.",
-  "Furthermore the new pipes have no loss of signal strength and can be simply connected to traditional Redstone dust.",
+  "一般情況下，紅石可以傳遞簡單的訊號。透過將紅石整合在管道的鋁框架中，我創建了一個可以傳輸紅石訊號的管道。",
+  "此外，新的管道沒有訊號強度的損失，可以簡單地連接到原版的紅石電路上。",
   "合成:",
   {
     "link": "fp:lang/part/crafting_log.redstonepipe.json"
   },
-  "This pipes are especially handy to provide machines and lights with Redstone signals.",
+  "這種管道特別方便地為機器和燈具提供紅石訊號。",
   "",
-  "Configuration: Using the Scrench I'm able to configure every side of a pipe segment, so I can prevent them from connecting with this side. (§lright click§r on desired side). Furthermore these pipes have a third state, marked by a red dot on the side. In this state it's only connected for Redstone signals, but not for Items."
+  "設定：使用扳手我可以設定管段的每一面，防止它們不期望一端連接。（請在所需方面點擊）。此外，這些管道具有第三狀態，在側面由紅點標記。在這種狀態下，它只連接紅石訊號，但不適用於物品。"
 ]
