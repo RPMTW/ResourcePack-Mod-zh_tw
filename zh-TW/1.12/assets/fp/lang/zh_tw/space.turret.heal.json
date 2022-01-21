@@ -1,13 +1,13 @@
 [
-	"Applying nano-manipulation technology, I have developed a new type of laser tower. With the help of a built-in computer, the tower automatically targets all creatures and players within its range. With a very precise laser beam, the tower will heal the targets.",
-	"In doing so, the tower consumes large amounts of neon energy, which is why I should connect it to a more permanent source of energy. In addition to the continuous consumption of the computer monitoring system, the healing of an entity requires additional energy (10 NE per life point).",
+	"在奈米技術的支持下，我開發了一種新型的雷射塔。透過其內置的電腦，它可以自動瞄準範圍內的所有生物和玩家。發出非常精確的雷射束治癒目標。",
+	"過程中，雷射塔消耗大量的氖能，我應該為它提供一個永久穩定的能力來源。除了電腦系統的持續消耗之外，實體的治療需要額外的能量（每個生命點10NE）。",
 	"合成:",
 	{
 		"link": "fp:lang/part/cr_space.turret.heal.json"
 	},
 	"The laser turret is controlled by a computer system which, among other things, regulates the target acquisition and the energy flow.",
 	"Supported Chipsets:",
-	"Industrial Chipset: Reduces the energy needed to heal creatures.",
+	"工業晶片: 減少殺死生物所需的能量。",
 	"Tactical Control Chipset: Increases the target search radius.",
-	"AI Chipset: Advanced configuration with GUI!"
+	"AI晶片組: 使用GUI進行高級設定！"
 ]
