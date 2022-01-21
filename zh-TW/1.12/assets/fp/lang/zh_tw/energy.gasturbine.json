@@ -1,11 +1,11 @@
 [
-	"The biogas can most effectively be converted into usable neon energy by means of a turbine.",
-	"The gas turbine takes flammable gases. The turbine needs some time to reach maximal power, while be permanently supplied with gas, as able to store the Neon Energy. The combustion does not generate any waste.",
+	"沼氣可以透過渦輪機最有效地轉化為可用的氖氣能源。",
+	"燃氣輪機需要易燃氣體。渦輪機需要一些時間來達到最大功率，同時要長期供應氣體，以便能夠儲存氖氣。燃燒不會產生任何廢物。",
 	"合成:",
 	{
 		"link": "fp:lang/part/cr_energy.gasturbine.json"
 	},
-	"By increasing the \"ram\"-value I can cause a faster generation and emission of the energy.",
-	"Supported Chipsets:",
-	"Logic Chipset\nIndustrial Chipset (energy yield!)\nRedstone Control Chipset\nDamage Control Chipset"
+	"透過增加「ram」，我可以更快地產生和釋放能量.",
+	"支持晶片組:",
+	"邏輯晶片組\n工業晶片組（能量產出）\n紅石控制晶片組\n損壞監控晶片組"
 ]
