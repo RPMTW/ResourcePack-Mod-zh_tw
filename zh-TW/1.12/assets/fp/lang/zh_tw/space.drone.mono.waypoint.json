@@ -1,9 +1,9 @@
 [
-	"I can use this special, redesigned rail as waypoint, for the path setup of the monocart.",
-	"After I place the waypoint, I can open the GUI (§lRight Click§r) to edit the name. This will help me identify them later.",
+	"我能用這種特殊的，重製後的軌道設定定位點，為單軌礦車設定路徑。",
+	"放置單軌定位點後,我能打開GUI(§l右鍵§r)編輯它的名稱，以便我以後區分它們。",
 	"合成:",
 	{
 		"link": "fp:lang/part/cr_space.drone.mono.waypoint.json"
 	},
-	"I think I should also create a improved variant to load and unload goods simultaneously..."
+	"我想我也應該為它做一些改進來同時裝載和卸載貨物..."
 ]
