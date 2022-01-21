@@ -1,15 +1,15 @@
 [
-	"Because of the Prismid lens, I developed a turret. This automatically targets with help of the integrated computer creatures and players within easy reach. With the special laser beam, the tower sucks the targets life and converts it into neon energy.",
-	"The neon energy must be drained from the turret so that it can work permanently.",
+	"由於稜鏡的存在，我開發了一個炮塔。在集成電腦的幫助下，它能自動瞄準觸手可及的生物和玩家。透過特殊的雷射束，炮塔會吸走目標的生命，並將其轉化為氖能量。",
+	"氖能量必須從炮塔中耗盡，這樣它才能永久性地工作。",
 	"合成:",
 	{
 		"link": "fp:lang/part/cr_space.turret.absorb.json"
 	},
-	"The laser turret is controlled by a computer system which, among other things, regulates the target acquisition and the energy flow.",
-	"Supported Chipsets",
-	"Industrial Chipset: Increases the created energy per healthpoint.",
-	"Tactical Control Chipset: Increases the target search radius.",
-	"AI Chipset: Advanced configuration with GUI !",
-	"Ultimate Chipset: The killed entities will drop XP.",
-	"Logistic Chipset: The dropped items will get transported to the laser."
+	"雷射炮塔由電腦系統控制，可調節目標選取和能量流。",
+	"支持的晶片組",
+	"工業晶片組：增加每個健康點創造的能量。",
+	"戰術控制晶片組：增加目標搜尋半徑。",
+	"AI晶片組： 使用GUI進行高級設定！",
+	"終極晶片組：被殺的實體會掉落經驗值。",
+	"物流晶片組：掉落的物品將被運送到雷射器。"
 ]
