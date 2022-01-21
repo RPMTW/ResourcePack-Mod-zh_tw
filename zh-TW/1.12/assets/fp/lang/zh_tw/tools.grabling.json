@@ -1,9 +1,9 @@
 [
-	"It's hard to maneuver in huge caves or canyons. That's why I wanted to develop a piton (a climbing tool fixed into a wall for lateral climbing). However I noticed a problem:",
-	"Pitons need edges in the landscape to be securely able to hold me up. As a solution, I developed climbing slime. Instead of throwing a piton, the rope is attached to a sticky ball of slime. A neon impulse that is transferred through the rope can suppress the stickiness of the slime for a short time to release it from a wall.",
+	"在巨大的洞穴或峽谷中探索時，想必行動是非常不方便的。這就是為什麼我想開發一個定在牆上進行橫向攀爬的工具。但是我注意到了一個問題：",
+	"抓鈎必需要在地形的邊緣才能牢牢抓住。作為解決方案，我開發了攀岩史萊姆抓鈎。繩索不是投擲抓鈎，而是附著黏稠的黏液球的繩索。透過繩索傳遞的氖動力氣沖可以抑制黏液短時間的黏性，將其從牆壁上鬆開。",
 	"合成:",
 	{
 		"link": "fp:lang/part/cr_tools.grabling.json"
 	},
-	"By right clicking, the piton is thrown, as in using a hinge. Once the slime hits a block, you'll be pulled in this direction immediately. Note: the climbing slime needs to be charged with neon energy."
+	"透過右鍵點擊，可以拋出繩索。一旦黏液球撞上方塊，你將立即被拉向這個方向。注意：需要充滿氖能量後使用。"
 ]
