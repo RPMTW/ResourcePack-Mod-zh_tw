@@ -1,25 +1,25 @@
 [
-  "Recently, I asked myself the question how I can cover larger horizontal distances. The result was a teleporter which can teleport me above and below.",
+  "最近我問自己如何跨越很大的水平距離。結果是一個傳送器，可以傳送我上下。",
   "合成:",
   {
     "link": "fp:lang/part/cr_space.teleport.json"
   },
-  "The yellow teleporter is the basic element. One can teleport to it, but not away from it.",
-  "You can teleport with an Enderpearl. When they are energized with neon energy and the target is stabilized, you can use the ability without breaking the Enderpearl.",
+  "黃色傳送器是基本要素。可以傳送給它，但不能遠離它。",
+  "您可以用終界珍珠傳送。當他們用氖能量充電並且目標穩定時，您可以使用該功能，而不會破壞終界珍珠。",
   "Crafting:",
   {
     "link": "fp:lang/part/crafting_space.teleport.json"
   },
-  "The green teleporter can only teleport you to the top, regardless of it being a normal, up, or down teleporter.",
+  "綠色傳送點只能傳送你到頂部，無論它是一個正常的，向上或向下傳送器。",
   "合成:",
   {
     "link": "fp:lang/part/crafting_space.teleport2.json"
   },
-  "The red teleporter can only teleport away. The type of receiving teleporter does not matter.",
-  "However, I also noticed that multi-story buildings have both a possibility to move up and down.",
-  "Crafting:",
+  "紅色傳送器只能將你傳送走。 接收傳送器的類型無關緊要。",
+  "不過，我也注意到，多層建築既可上也可下。",
+  "合成:",
   {
     "link": "fp:lang/part/crafting_space.teleport3.json"
   },
-  "If you use a Scrench to right-click on a double teleporter, it splits apart and the lower part travels down until it hits the ground. Like this, you can easily connect two teleporters again."
+  "如果您使用扳手右擊一對送器，則會斷開，向下傳送時，直接傳送至地面。 像這樣，您可以輕鬆地再次連接兩台傳送機。"
 ]
