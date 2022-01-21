@@ -1,11 +1,11 @@
 [
-  "I've developed a pump to transport fluids better. The Pump contains a computer system and can be upgraded to increase throughput. In addition to the operating speed (based on RAM), it also depends on the performance of the Transport Chipsets.",
-  "The pump can be supplied with neon energy from each side. On the sides I installed Tube connectors, a green one  for input and a red one for output. The pump will suck liquid from all the sources connected by Tubes and store it in the internal tank. On the output side, the pump tries to transfer the liquid to a valid destination.",
-  "Buckets can be emptied and filled through the GUI. A filter can be set in the upper, central slot to limit the pump to a specific fluid.",
+  "我設計出了一個用於輸送液體的泵。 該泵包含一個電腦系統，透過升級提高抽取量。 決定因素除了執行速度（基於RAM）之外，它還取決於傳輸晶片的效能。",
+  "泵可以從側面供應氖能量。 側面我安裝了管道介面，一個綠色的輸入和一個紅色的輸出。 泵將從管道連接的所有來源方塊吸取液體並將其儲存在內部儲罐中。 在輸出端，泵試圖將液體轉移到有效的目標。",
+  "透過GUI可以清空並填充水桶。 在上部中央槽中可以設定過濾，限制特定的流體。",
   "合成:",
   {
     "link": "fp:lang/part/crafting_log.pump.json"
   },
   "Supported Chipsets:",
-  "Logic Chipset\nTransport Chipset(throughput)\nRedstone Control Chipset\nDamage Control Chipset"
+  "邏輯晶片\n傳輸晶片(抽取量)\n紅石控制晶片\n損壞監控晶片"
 ]
