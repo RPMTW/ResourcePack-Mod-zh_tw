@@ -1,18 +1,18 @@
 [
-  "I created a useful multitool. It allows me to rotate blocks and should be useful to modify machines.",
+  "我設計了一個有用的多功能工具。 可以用來旋轉方塊，並且對於修改機器應該是非常有用的。",
   {
     "link": "fp:lang/part/crafting_tools.scrench.json"
   },
-  "Mode-change: §lright click \"in the air\"§r",
-  "Rotation-Mode:",
+  "模式切換: §l右擊空氣§r",
+  "旋轉模式:",
   {
     "link": "fp:lang/part/image_tools.scrench2.json"
   },
-  "§lright click§r on a block to rotate it.",
-  "Modification-Mode:",
+  "§l右擊§r一個方塊來旋轉它。",
+  "設定模式:",
   {
     "link": "fp:lang/part/image_tools.scrench3.json"
   },
-  "§lShift + right click§r on an machine to modify it.",
-  "Note: The first modifiable machine will be unlocked later on!"
+  "§lShift + 右擊§r一個機器來設定它。",
+  "注意：第一個可設定的機器將在以後解鎖！"
 ]
