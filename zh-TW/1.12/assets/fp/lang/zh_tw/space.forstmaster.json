@@ -1,9 +1,9 @@
 [
-	"I have developed a specialized drone to cut down trees. It cuts all known trees, but also huge mushrooms and collects the trunk, saplings, and fruits, bringing them to the drone station.",
-	"The Forestmaster can be placed (with §lsneak + right click§r) at a drone station. It processes all nearby targets within an 11-block range. To disassemble the drone, I need to use a scrench with §lsneak  + right click§r.",
+	"我發明了一個專用於砍樹的無人機。它能砍所有已知的樹木和巨型蘑菇,同時也能收集掉落的樹幹，果實，樹苗，並將它們運送到無人機站。",
+	"伐木無人機可直接放置在無人機站上(透過§lshift+右鍵§r)。它能檢測到半徑為11個方塊的區域的目標並工作。透過扳手shift+右鍵拆除。",
 	"合成:",
 	{
 		"link": "fp:lang/part/cr_space.forstmaster.json"
 	},
-	"I should consider implementing a replanting function..."
+	"我應該考慮實現一個補充功能"
 ]
