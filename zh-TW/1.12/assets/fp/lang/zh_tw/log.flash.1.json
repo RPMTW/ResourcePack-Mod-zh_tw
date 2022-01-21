@@ -1,13 +1,13 @@
 [
-  "The Support-Points produced by my machine can’t be transported in a normal way, because they are only virtual data. To solve this problem I developed a Flash-Memory, which can store a fixed amount of Support points independent from a machine.",
-  "This first and really simple Redstone-Memory is based on small Redstone elements which can take 2 states. These cells are very prone to physical and electrical influences, so I have covered them in a corrosion-resistant and shielding gold casing.",
-  "For the internal organization and an access to the memory module a simple Logic Chipset including a special program is all that's needed.",
+  "機器產生的SP點不能以正常方式傳輸，因為它們只是虛擬數據。為了解決這個問題，我開發了一個可以獨立於機器的可保存SP點的快閃記憶體。",
+  "這是基於採取2個狀態的小型紅石元素做成的紅石記憶體。這些電池非常容易受到物理和電氣的影響，所以我已經用耐腐蝕和防護金套管覆蓋了它們。",
+  "對於內部組織和對儲存器模組的存取，包括特殊程序的，簡單邏輯晶片組是所有的東西都需要的。",
   "裝配",
   {
     "link": "fp:lang/part/as_log.flash.1.json"
   },
-  "Capacity: 128 SP",
-  "Information: The following slot is for load/unload of Flash-Memories (existing in some machines).",
+  "容量: 128 SP",
+  "訊息：以下插槽用於載入/卸載快閃記憶體（存在於某些機器中）。",
   {
     "link": "fp:lang/part/image_log.flash.1.json"
   }
