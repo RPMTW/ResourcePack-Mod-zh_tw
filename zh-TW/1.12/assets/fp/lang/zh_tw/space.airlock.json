@@ -1,7 +1,7 @@
 [
-  "Space is nothing but a vaccum. To protect myself out there, I have developed an airlock.",
-  "It is a rotatable and retractable block, in the retracted state it takes up 1x1x1, while in the extended state it becomes 1x2.5x1 blocks.",
-  "With the help of redstone, I can switch between the two states. It is optimally designed for two locks to be placed 3 blocks apart, and due to the rotational properties, you can build both horizontally and vertically.",
+  "太空只不過是一個真空環境。為了保護自己，我已經開發了一個氣閘。",
+  "它是一個可旋轉和可縮回的塊，處於縮回狀態，占用1x1x1，而在擴展狀態下，它變為1x2.5x1方塊。",
+  "在紅石的幫助下，我可以在兩個狀態之間切換它。它是最佳設計的兩個氣閘分開放置3個方塊，您也可以水準和垂直地構建。",
   "合成:",
   {
     "link": "fp:lang/part/crafting_space.airlock.json"
