@@ -1,11 +1,11 @@
 [
-  "Using my Centrifuge, I can process remnants of plants and other organic material to extract traces of more valuable materials found inside them.",
-  "In particular, after processing, the following residual elements are collected:",
-  "Woodchips: combustible wood residue",
-  "Compost: plant residue, used as a fertilizer",
-  "Plant fibers: raw material for Biopolymer",
-  "I can use this method on dirt and a wide variety of plants; but for plants containing any dye, I need a better process.",
-  "Example:",
+  "使用離心機，我可以處理植物和其他有機物質的殘留物，以提取其中發現的更有價值的材料。",
+  "尤其是在處理之後，可以收集到以下殘留元素：",
+  "木片：可燃木材殘渣",
+  "堆肥：植物殘渣，用作肥料",
+  "植物纖維：有機聚合物的原料",
+  "我可以對泥土和各種各樣的植物使用這種方法; 但對於含有任何染料的植物，我需要一個更好的方法。",
+  "例:",
   {
     "link": "fp:lang/part/zentrifuge_production.zent.bio.json"
   },
@@ -15,5 +15,5 @@
   {
     "link": "fp:lang/part/zentrifuge_production.zent.bio3.json"
   },
-  "Information: The centrifuge has a large number recipes, so not all listed here!"
+  "訊息：離心機有大量的配方，所以這裡沒有列出全部的內容！"
 ]
