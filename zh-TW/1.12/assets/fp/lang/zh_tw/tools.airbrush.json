@@ -1,17 +1,17 @@
 [
-  "I created a tool to color my composite metal blocks.",
-  "It's an airbrush, which accelerates the material in the storage tank and disperses it evenly. The device is able to color blocks, but also to sandblast them to remove coloring. To do this I must use sand or gravel.",
+  "我製作了一個可以對複合金屬塊染色的工具。",
+  "它是一個噴槍。 該設備能夠對色塊進行著色，還可以對其進行噴砂處理以便於去除色。 為了做到這一點，我必須使用沙或砂礫。",
   "合成:",
   {
     "link": "fp:lang/part/crafting_tools.airbrush.json"
   },
-  "Color Tanks (Shapeless):",
+  "染料罐(無序合成):",
   {
     "link": "fp:lang/part/crafting_tools.airbrush2.json"
   },
-  "Usage:",
-  "§lsShift + right click§r opens the airbrush inventory, where I can insert a color tank or Sand/Gravel.",
-  "§lright click§r on an Metal/Grid - Block to brush. By sandblasting blocks, they return to their uncolored state. By using a color tank it is colored with the corresponding color.",
-  "You can read in a block's research information if it is colorable or not. (As well as by simply trying).",
-  "Note: A colored block can't be recolored directly, you have to sandblast it first."
+  "用法:",
+  "§lsShift +右擊§r打開噴槍的物品槽，在那裡我可以插入一個染料罐或沙/礫石。",
+  "§lright +右擊§r 為金屬塊/金屬網格染色。 透過噴沙，使它們恢復到未著色的狀態。放上對應的染料罐可以噴出對應的顏色。",
+  "您可以閱讀相應方塊的研究訊息，查看它是否可著色。",
+  "注意：已染色的方塊不能直接重新噴漆，您必須先噴砂。"
 ]
