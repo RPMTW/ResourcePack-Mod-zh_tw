@@ -1,19 +1,19 @@
 [
-	"I have developed a new survival kit that allows me to breathe in a deadly environment. The concept is similar to the simple oxygen tank, but this time optimized it for the installation in composite armor.",
-	"The set consists of two components: a mask and a number of bottles. I have to put the mask in the helmet so that it supplies me with air if necessary. I can attach the bottles anywhere on the armor, increasing the time that the armor can supply me.",
-	"All parts are designed to self-inflate when in an environment of breathable air.",
+	"我已經開發了一種新的生存裝備，可以讓我在致命的環境中呼吸。這個概念類似於簡單的氧氣瓶，但這次對它進行了優化，以便安裝在合金盔甲中。",
+	"這套裝置包括兩個部分：一個面罩和若干瓶子。我必須把面罩放在頭盔裡，以便在必要時為我提供空氣。我可以把瓶子掛在盔甲的任何地方，增加盔甲可以供應我的時間。",
+	"所有部件都被設計為在可呼吸空氣的環境中自動充氣。",
 	"合成:",
 	{
 		"link": "fp:lang/part/cr_tools.modul.oxygenmask.json"
 	},
-	"Capacity: 30 sec",
-	"Refill: 5 sec",
+	"容量：30 sec",
+	"重裝: 5 sec",
 	"",
 	"合成:",
 	{
 		"link": "fp:lang/part/cr_tools.modul.oxygentank.json"
 	},
-	"Capacity: 5 min",
-	"Refill: 50 sec",
-	"Display: The fill level of the tanks is shown using the normal oxygen bar."
+	"容量: 5 min",
+	"重裝: 50 sec",
+	"顯示：儲氣罐的填充量用普通的氧氣棒來顯示。"
 ]
