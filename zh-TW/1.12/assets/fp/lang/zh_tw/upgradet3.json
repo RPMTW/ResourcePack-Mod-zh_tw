@@ -1,12 +1,12 @@
 [
-  "According to the laws of physics of this world, I can extract some of my knowledge with the help of - for lack of a better word - a magic wand. I can then bind this knowledge to objects.",
-  "Perhaps I can use this strange process to create things more useful than just glittery tools. My current technology has so much potential for improvement with this.",
+  "根據這個世界物理學的規律，我可以借助於魔術棒（我找不到更好的詞來形容..）來提取我的一些知識。 我可以把這個知識綁定到對象上。",
+  "也許我可以使用這個奇怪的過程來創建比只是閃光的工具更有用的東西。 我目前的技術有很大的改進潛力。",
   "I have developed a research module based on the Enchanting Table, which allows me to extract my knowledge of the world in the form of experience points (XP) and, if necessary, inject it again.",
   "The module must be linked directly to the Researcher or via a network to function. The actual work takes place in the Researcher as normal.",
   "合成:",
   {
     "link": "fp:lang/part/crafting_upgradet3.json"
   },
-  "The module stores up to 1500 XP (about 31 levels). If this proves insufficient, I can simply connect several modules to a Researcher.",
+  "該模組最多可儲存1500個XP（約31個級別）。 如果這還不能滿足需求，我可以簡單地將幾個模組連接到一個研究台上。",
   "However, I should also connect more calculation modules to the researcher. Currently, 8-16 modules are expected to be adequate."
 ]
