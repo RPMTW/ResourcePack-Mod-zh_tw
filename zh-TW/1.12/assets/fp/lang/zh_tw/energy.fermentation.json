@@ -1,9 +1,9 @@
 [
-	"The recycler is able to process almost any biomaterial into compost, which is why I have been looking for a use of the correspondingly large quantities. I have noticed that decomposition of compost produces flammable, high-energy gas.",
-	"With the help of my new invention, I can make this process usable. The fermenter picks up compost and ferments it to Biogas and small amounts of Dirt.",
+	"回收機能夠將幾乎所有的生物材料加工成堆肥，這就是為什麼我一直在尋找相應的大量的用途。我注意到，堆肥的分解會產生易燃的高能量氣體。",
+	"在我的新發明的幫助下，我可以讓這個過程變得可用。發酵器收集堆肥並將其發酵成沼氣和少量的泥土。",
 	"合成:",
 	{
 		"link": "fp:lang/part/cr_energy.fermentation.json"
 	},
-	"Info: Material throughput is highest when the stack of compost is full."
+	"訊息：當堆肥堆滿時，材料處理量是最高的。"
 ]
