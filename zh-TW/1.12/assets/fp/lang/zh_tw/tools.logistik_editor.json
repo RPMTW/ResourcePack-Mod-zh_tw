@@ -1,14 +1,14 @@
 [
-  "I created a multitool to adjust the input/output behavior of my machines.",
+  "我設計了一個多功能工具來調整我的機器的輸入/輸出端。",
   "合成:",
   {
     "link": "fp:lang/part/crafting_tools.logistik_editor.json"
   },
-  "Usage:",
-  "By §lright click§r (in the air) the modes can be switched, among:",
-  "Energy, Support, Network, Items, Fluids",
-  "In each mode you will see an overlay (colored border) on the faces of your machines if they support this mode.",
-  "By §lShift + right click§r you can configure the sides to be:",
-  "Inactive (no symbol), Input (green arrow), Output (red arrow), Input+Output (both)",
-  "You can only select modes and configurations that are relative to the target machine."
+  "用法:",
+  "對著空氣§l右擊§r可在以下模式間切換:",
+  "能源，SP，網路，物品，流體",
+  "在每種模式下，如果支持這種模式，您將看到機器面上的覆蓋圖案（彩色邊框）。",
+  "透過§lShift +右擊§r你可以設定方塊的一個面:",
+  "無效（無符號），輸入（綠色箭頭），輸出（紅色箭頭），輸入+輸出（兩格箭頭）",
+  "您只能選擇相對於目標機器的模式和設定。"
 ]
