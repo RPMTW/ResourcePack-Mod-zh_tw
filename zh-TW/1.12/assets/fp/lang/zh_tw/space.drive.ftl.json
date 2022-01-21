@@ -1,12 +1,12 @@
 [
-  "According to my calculations, I would need to fly a very long time to reach another planet, because my flight speeds are limited. So I searched for other possibilities to move through space. With the teleportation power of ender pearls in mind, I created a new drive, which manipulates the folds of space itself to create a shortcut to a destination.",
-  "This process needs a lot of power and is only possible with a special machine I named the FTL-Drive. It is built with 12 FTL-Blocks, a 2x3 foundation and 2 blocks tall. After all 12 components are placed, I can assemble the final drive. (This connects automatically.)",
-  "I have to install this drive in any spaceship I use if I wish to ever fly further than Menelaus.",
+  "根據我的計算，我會飛很長時間才能到達另一個星球，因為我無法以無限的速度飛行。 所以我搜尋了其他飛向的可能性。 考慮到這種情況，我創建了一個新的驅動器，它可以操縱空間本身來實現到達目的地的快捷方式。",
+  "這個過程需要巨大的能量，只有我可以用一台名為FTL-驅動的專用機器才能實現。 它需要12個FTL-方塊，一個2格高的2x3結構組成。 放置12個組件後，我可以組裝最終的驅動器。 （連接自動）",
+  "如果我希望進行比門勒蘭星更遠的旅行，我必須在每個宇宙飛船上安裝這個驅動器。",
   "合成:",
   {
     "link": "fp:lang/part/cr_space.drive.ftl.json"
   },
-  "Warning: Don't use the FTL-BLock for decoration!",
+  "警告：別把FTL-方塊拿來做裝飾！",
   "Building:",
   {
     "link": "fp:lang/part/building_space.drive.ftl.json"
