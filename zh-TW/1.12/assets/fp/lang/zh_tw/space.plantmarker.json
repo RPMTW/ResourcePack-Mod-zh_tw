@@ -1,8 +1,8 @@
 [
-	"With the help of this plant marker, I can tell the Forestmaster where to replant trees.",
-	"This block works like soil, where the sapling can be planted. I can use a sapling to select the tree type which will grow on the plant marker.",
-	"The green point indicates if the type is set, and I can place a sapling of the same type with my hand after that.",
-	"The Forestmaster will then plant at each plant marker in range the fitting sapling, if that sapling is available in the drone station.",
+	"在種植標記的幫助下，我能告訴無人機在哪重新放置樹苗。",
+	"這個方塊像土壤一樣，可以種植樹苗。我可以使用樹苗來選擇將在種植標記上生長的樹類型。",
+	"綠色的點表示：如果類型已經設定，我可以在上面放置手中的同種樹苗。",
+	"然後，如果無人機中有樹苗，它將在每個種植標記的範圍內種植相應樹苗。",
 	"合成:",
 	{
 		"link": "fp:lang/part/cr_space.plantmarker.json"
