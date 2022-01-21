@@ -1,7 +1,7 @@
 [
-  "With the assistance of my centrifuge, I can process ore to extract more valuable materials.",
-  "By using Support-Points I am able to extract dust with an ratio of 1:2.5 from the ores. And a small amount of an additional material, too.",
-  "Example:",
+  "借助離心機，我可以從礦中提取更有價值的材料。",
+  "使用SP，我可以從礦中以1:2.5的比例提取礦粉。 還有一小部分額外的材料。",
+  "例:",
   {
     "link": "fp:lang/part/zentrifuge_production.zent.extraction2.json"
   },
@@ -11,5 +11,5 @@
   {
     "link": "fp:lang/part/zentrifuge_production.zent.extraction23.json"
   },
-  "Information: The centrifuge has many recipes, so not all listed here!"
+  "訊息：離心機有很多配方，所以在這裡並沒有全部列出！"
 ]
