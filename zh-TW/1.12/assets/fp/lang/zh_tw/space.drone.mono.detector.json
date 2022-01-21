@@ -1,6 +1,6 @@
 [
-	"This special, redesigned monorail can detect monocarts.",
-	"If a monocart passses this rail, it will send a redstone signal.",
+	"這種特殊的，重製後的軌道能夠檢測經過的單軌礦車。",
+	"如果有單軌礦車經過該軌道，便會觸發一段紅石訊號。",
 	"合成:",
 	{
 		"link": "fp:lang/part/cr_space.drone.mono.detector.json"
