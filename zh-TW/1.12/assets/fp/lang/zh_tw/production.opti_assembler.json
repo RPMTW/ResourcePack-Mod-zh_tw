@@ -1,13 +1,13 @@
 [
-  "It is difficult to manufacture all processors, memory and chips by hand. That's why I developed a machine similar to Optibench, which allows me to automate the processes of the assembly table.",
-  "As long as the machine is powered and the computer system is functional, it can process up to three different assembly orders (rows in the GUI). If a product is created that is needed in another order, it will be used directly in this order. If the product is no longer needed, it will be in the output slot (right).",
-  "The left 3 slots of a row are the respective goods receipt for the order. The fourth slot contains the recipe, which specifies what should be produced. The machine can not work without a recipe!",
-  "By clicking on the button (top right) you can change to recipe creation. Here are 3 slots offered as in the assembly table. If these are filled in accordance with a valid assembly recipe, the product is shown. If additionally a crystal is inserted in the upper slot, a recipe can be taken below.",
-  "As with the assembly table, the supply of support points can increase the maximum quality of the products. For automatic further processing, it should be noted that all products are subject to chance and therefore may have fluctuating values.",
-  "Crafting:",
+  "用手工製造所有的處理器、儲存器和晶片是很困難的。這就是為什麼我開發了一台類似於自動合成台的機器，它使我能夠將裝配台的過程自動化。",
+  "只要機器有電，電腦系統有功能，它最多可以處理三個不同的裝配訂單（GUI中的行）。如果創建的產品在另一個訂單中需要，它將在這個訂單中直接使用。如果該產品不再需要，它將被放入輸出槽（右）。",
+  "一行的左邊3個槽是該訂單的各自的貨物收據。第四個插槽包含配方，它規定了應該生產的東西。沒有配方，機器就無法工作。",
+  "透過點擊按鈕（右上角），你可以改變到配方創建。這裡提供了3個與裝配表一樣的插槽。如果這些槽是按照有效的裝配配方填充的，產品就會顯示出來。如果在上面的插槽中另外插入一個晶體，就可以在下面取一個配方。",
+  "與裝配台一樣，SP點的供應可以提高產品的最大品質。對於自動的進一步加工，應該注意的是，所有產品都有偶然性，因此可能有波動的數值。",
+  "合成：",
   {
     "link": "fp:lang/part/crafting_production.opti_assembler.json"
   },
-  "Supported Chipsets:",
-  "Logic Chipset\nTransport Chipset\nRedstone Control Chipset\nSupport Chipset\nUltimate Chipset\nDamage Control Chipset"
+  "支持的晶片組：",
+  "邏輯晶片組\n傳輸晶片組\n紅石控制晶片組\nSP晶片組\n新型晶片組\n損壞監控晶片組"
 ]
