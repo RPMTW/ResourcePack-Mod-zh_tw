@@ -1,7 +1,7 @@
 [
-	"The efficiency of the reconstructed Dungeon RAMs was unexpectedly low. After some investigation, I recognized a mistake in the reconstruction process.",
-	"The concept used by the Unreachable was linking the single units of the RAM to a torus-shaped network. I can follow this concept by combining two Dungeon RAM units.",
-	"This improved design permits an extremely large amount of processing power. This power is also influenced by the power of the both Dungeon RAMs.",
+	"重建的地牢記憶體條的效率出乎意料地低。經過一番調查，我意識到重組時的一個錯誤。",
+	"未知科技的原本概念是將記憶體條的每個單元連接到一個圓環形網路中。我可以透過結合兩個地牢記憶體條來遵循這個概念。",
+	"這種改進的記憶體條具有著極高的能力。這個能力也受到兩個地牢記憶體條能力的影響。",
 	"裝配",
 	{
 		"link": "fp:lang/part/as_ram.univers.json"
