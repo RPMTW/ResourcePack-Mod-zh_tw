@@ -1,13 +1,13 @@
 [
-  "I combined a special machine and a program for the integrated computer system. So I created a device to automatize crafting processes. The internal computer system can be upgraded in functionality and speed, like my prototypes (refer \"Overdrive\")",
+  "我結合了一個特別的機器和一個集成電腦系統的程序。所以我創建了一個自動化工藝流程的設備。內部電腦系統可以升級功能和速度，如我的原型機（參見「過載」）",
   "合成:",
   {
     "link": "fp:lang/part/crafting_production.optibench.json"
   },
-  "In its simple operation mode the machine crafts every recipe together, which is placed in the 3x3 grid. Under the conditions that the computer system is working and powered with enough neon energy. Because I didn't think this function is perfect, I added a recipe mode.",
-  "To do this, I must switch to the recipe creation first. (By clicking the button above the progress bar) Here I can place any crafting recipe in the 3x3 crafting grid, which should be crafted later. In the upper slot I need to insert a crystal (any type is possible), which will be a memory for the recipe. In the output slot of the crafting grid the crafting result should be shown now. If everything looks OK, I can write the recipe to the crystal by taking out the recipe sheet from the lower slot. Now I have what I need, so I can clean up the crafting grid or simply execute the crafting.",
-  "Back in the normal Optibench GUI, I can insert the recipe sheet into the related Slot (next to the button). Now the Optibench only will only execute this recipe, only accept Items matching the recipe and organize the items inside the crafting grid automatically.",
-  "The finished product can be extracted by hand or machine (hopper, pusher, etc.). The lower Support Slot is for filling up Flash-Memories. The machine is working with each Item that match to the recipe that includes Meta states and OreDictionary.",
+  "在其簡單的操作模式下，機器將每個配方裡的物品調用出來，放置在3x3網格中合成。電腦系統工作需要在氖能量充足的條件下。我不認為這個功能是完美的，我加入了一個配方模式。",
+  "為此，我必須先切換到配方製作模式。（透過點擊進度條上方的按鈕）在這裡，我可以在3x3合成網格中標記任何想要的配方。在上部插槽中，我需要插入一個晶體（任何類型都可以），這將是配方的儲存區。在合成網格的輸出槽中，現在應該顯示合成結果。如果一切看起來都可以，我可以透過從下方的槽中取出配方表，將配方寫入水晶。現在我已有了我需要的，所以我可以清理合成欄，或者簡單地執行其它合成。",
+  "回到正常的自動合成台GUI，我可以將配方表插入相關的插槽（按鈕旁）。現在自動合成台只會執行此配方，只接受與配方相匹配的物品，並自動擺放合成網格中的項目。",
+  "成品可以手動或用機器（漏斗，管道）提取。較低的支持插槽用於填充快閃記憶體。該機器能處理與包含nbt數據和礦物辭典的配方匹配的每個物品。",
   "Supported Chipsets:",
   "Logic Chipset\nTransport Chipset\nRedstone Control Chipset\nSupport Chipset\nUltimate Chipset\nDamage Control Chipset"
 ]
