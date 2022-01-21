@@ -1,10 +1,10 @@
 [
-  "My simple board computer is unfortunately not able to calculate the travel paths for the FTL-Drive. Because, despite the processing unit in the FTL itself, even more precise data for control and course calculation is needed, and I have to compensate for spacetime logic (or lack thereof) and effects of quantum mechanics. That's why I created an upgrade and used a powerful quantum computer as the CPU.",
-  "I also fixed some problems the first version of the board computer had. For example, the message 'Your spaceship is open' also points out where it is open.",
+  "不幸的是，我的一般的電腦電腦無法計算FTL-驅動的路徑。因為儘管FTL中的處理單元需要更精確的控制和過程計算數據，而且我必須補償量子力學的邏輯和影響。這就是為什麼我創建了一個升級，並使用一個強大的量子電腦作為cpu。",
+  "我也修復了第一個版本的一些問題。例如訊息'你的太空飛船是開放的'也會指出哪些地方是開放的。",
   "合成:",
   {
     "link": "fp:lang/part/crafting_space.advanced.json"
   },
-  "More notes for usage are available at the entry of the board computer.",
-  "Depending on the color of the housing, each board computer has a different graphic user interface."
+  "更多註解用於機載電腦的入門。",
+  "根據主頁的顏色，每台電腦會會生成不同圖案的使用者介面。"
 ]
