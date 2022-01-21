@@ -1,17 +1,17 @@
 [
-  "This advanced furnace is powered by Lava, which can be inserted by buckets or pipes. It use this energy to smelt items that cool down the Lava slowly until they solidify to obsidian. This power allows to smelt up to 3 Items at the same time.",
+  "這台先進的爐子是透過熔岩來驅動的，可以插入桶或者管道。它可以透過將熔岩冷卻成黑曜石這一大量的放熱過程來熔化物品，該爐子可以同時熔化3個物品！",
   "合成:",
   {
     "link": "fp:lang/part/crafting_production.industrieofen.json"
   },
-  "Usage (GUI):",
+  "(GUI):",
   {
     "link": "fp:lang/part/industrialfurnace_production.industrieofen2.json"
   },
-  "Technical Data:",
-  "Lava-Usage: 10 mB per molten Item",
-  "Production of Obsidian: 1 Obsidian per 1000mB consumed Lava",
-  "Speed: 400 Ticks per Cycle (20 sec)",
+  "技術數據:",
+  "熔岩消耗: 每熔化一個物品消耗10mB",
+  "黑曜石的生產：每消耗1000mB熔岩產生1個黑曜石",
+  "速度: 400 Ticks 循環一次(20s)",
   "",
-  "Note: Maybe I can combine the materials of the 3 slots to create alloys or refine my Resources"
+  "注意：也許我可以組合3個插槽的材料來創建合金或改進我的資源"
 ]
