@@ -1,9 +1,9 @@
 [
-	"With this Ram series I have reached my current possibilities, I am not able to add more units onto a memory module. In this series I tried to build function in the memory controller for organizing the module and reducing the processor usage.",
-	"I reached another improvement by adding a separate unit for the storage of Support data. This extremely relieved the unspecified part of the system.",
+	"關於這個記憶體系列，我已經嘗試了我目前所有的可能性，我無法在記憶體模組上加入更多的單元。 在本系列中，我嘗試在記憶體控制器中構建功能來組織模組並減少處理器的使用。",
+	"我透過為Support數據的儲存加入了一個單獨的單元來達到了另一個改進。 這極大地減輕了系統未指定的部分。",
 	"裝配",
 	{
 		"link": "fp:lang/part/as_ram.penton.json"
 	},
-	"Hint: Refer to \"Standard Ram\" for general information."
+	"提示：有關訊息，請參閱「標準記憶體」。"
 ]
