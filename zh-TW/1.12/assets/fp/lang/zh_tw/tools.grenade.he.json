@@ -1,21 +1,21 @@
 [
-  "For my grenades, I have developed a universal base component: a metal capsule, ideal for firing. It also includes a blasting cap that ignites on impact and distributes the contents.",
+  "對於手雷，我開發了一個通用的基礎部件：一種金屬膠囊，非常適用於射擊。 它還包括一個拉環，點燃影響並釋放其內容。",
   "合成:",
   {
     "link": "fp:lang/part/crafting_tools.grenade.he.json"
   },
-  "My first simple grenade I have filled with black powder, which is ignited on impact and causes considerable damage.",
-  "I can use 1-3 units of black powder, allowing me to choose the level of explosive force.",
-  "Crafting (shapeless):",
-  "Strength 1:",
+  "我的第一個簡單的手榴彈充滿了黑色的粉末，撞擊後引起相當大的傷害",
+  "我可以使用1-3等級的黑色粉末，讓我選擇爆炸威力。",
+  "無序合成:",
+  "強度1:",
   {
     "link": "fp:lang/part/crafting_tools.grenade.he2.json"
   },
-  "Strength 2:",
+  "強度2:",
   {
     "link": "fp:lang/part/crafting_tools.grenade.he3.json"
   },
-  "Strength 3:",
+  "強度3:",
   {
     "link": "fp:lang/part/crafting_tools.grenade.he4.json"
   }
