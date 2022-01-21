@@ -1,9 +1,9 @@
 [
-    "I created a new paraglider, but this time as modul for the composite armor. It uses lighter materials than last time, which results in slower falltime. Thanks to the engines I installed it is also possible to maneuver more easaly.",
-    "I also installed a chip triggering the parachute in emergancy situations, so it will automatically save me from dangerous falls.",
+    "我製作了一種新的滑翔傘，但這次它是作為鎧甲的一部分。它使用了比之前更輕的材料，使得下落速度更慢了。由於安裝了引擎，練習也變得更容易了。",
+    "我還安裝了一塊晶片，當發生緊急事故時，它會自動保護我防止摔死。",
     "合成:",
     {
         "link": "fp:lang/part/cr_tools.modul.paraglider.json"
     },
-    "The controls are the same as for the normal paraglider."
+    "控制它的方法和普通的滑翔傘是一樣的。"
 ]
