@@ -1,10 +1,10 @@
 [
-  "My work produces huge amounts of waste, and it would be handy to recycle it. Right now I'm planning to grind up the items. I want to leave my options open though, so I created a case with conveyor belts.",
-  "It can supply any tool with energy and activate it. During this process, the machine can deconstruct a suitable unit into up to 9 parts, the speed of which depends on the power of the embedded computer system.",
+  "在我工作的過程中通常產生著大量的浪費。為了方便回收，我打算研磨這些物品。所以我創建了一個帶傳送帶的儲物箱。",
+  "它可以為任何回收工具提供能量並啟動它。 在這個過程中，機器可以將合適的組件分解成最多9個零件，其速度取決於電腦系統的能力。",
   "合成:",
   {
     "link": "fp:lang/part/crafting_production.recycler.json"
   },
-  "Supported Chipsets:",
-  "Logic Chipset\nTransport Chipset\nRedstone Control Chipset\nSupport Chipset\nDamage Control Chipset"
+  "支持晶片組:",
+  "邏輯晶片組\n運輸晶片組\n紅石控制晶片組\nSP晶片組\n損壞監控晶片組"
 ]
