@@ -1,12 +1,12 @@
 [
-  "I have developed a more flexible version of the airlock, with this gate being freely selectable in size, shape, and orientation.",
-  "The modules can be simply placed as a block and can be placed in various orientations (use §lShift + Right Click§r to avoid activating the door). Different orientations can be combined to make a gate.",
-  "The idea is to count all blocks that have contact with each other as a door. With a §lRight Click§r on any block of the gate, it can be opened/closed.",
+  "我開發了一個更靈活的氣閘版本，這個門可以在大小，形狀和方向上自由選擇。",
+  "模組可以簡單地放置，並且可以放置在各種方向（使用§lShift+右擊§r以避免啟動門）。不同的方向也可以結合起來形成一個門。",
+  "右擊任何一個模組都可以打開/關閉。",
   "合成:",
   {
     "link": "fp:lang/part/crafting_space.modular_door.json"
   },
-  "Example:",
+  "例:",
   {
     "link": "fp:lang/part/image_space.modular_door2.json"
   }
