@@ -1,20 +1,20 @@
 [
-	"I created a locker from aluminum and metal blocks. While it provides the same storage space as a standard chest, it is more stable and comes in various designs and colors.",
-	"The most significant advantage is that even if the locker is moved, its contents remain safe.",
-	"Info: The (filled) locker can be broken down and placed again without its contents becoming lost!",
-	"Door - light:",
+	"我用鋁和金屬塊創建了一個儲物箱。雖然它提供與標準儲物箱相同的儲存空間，但它更加穩定，具有各種設計和顏色。",
+	"最顯著的優點是，即使儲物箱移動，其內容仍然得到保存。",
+	"訊息：（填充）儲物櫃可以拆除並放置，而不會丟失內容！",
+	"門-燈：",
 	{
 		"link": "fp:lang/part/cr_deco.wardrobe1.json"
 	},
-	"Door - dark:",
+	"門-黑色",
 	{
 		"link": "fp:lang/part/cr_deco.wardrobe2.json"
 	},
-	"Drawer - light:",
+	"抽屜-燈:",
 	{
 		"link": "fp:lang/part/cr_deco.wardrobe3.json"
 	},
-	"Drawer - dark:",
+	"抽屜-黑色:",
 	{
 		"link": "fp:lang/part/cr_deco.wardrobe4.json"
 	}
