@@ -1,10 +1,10 @@
 [
-  "I noticed that light objects with large surface areas glide through the air. I advanced this concept to create a kind of parachute and put it inside a backpack.",
-  "If I open the paraglider, it deploys itself independently and lets me glide slowly down to the ground.",
+  "我注意到，具有大表面積的輕物體可以透過空氣滑行。我可以根據這個概念來創造一種滑翔傘，把它放在背包裡。",
+  "如果我打開滑翔傘，它會獨自展開，讓我慢慢地滑向地面。",
   "合成:",
   {
     "link": "fp:lang/part/crafting_tools.gleiter.json"
   },
-  "During a free fall, I can deploy the paraglider by pressing the \"F\"-Key (press once, don't hold it). By hitting the key again, you can pack the paraglider back up.",
-  "Info: The key can be changed in the Options menu."
+  "在自由下落時，我可以按「F」鍵-展開滑翔傘（按一次，不要按住它）。再次按鍵，您可以將滑翔傘收回。",
+  "訊息：可以在選項選單中變更鍵位。"
 ]
