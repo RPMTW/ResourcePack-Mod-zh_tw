@@ -1,9 +1,9 @@
 [
-    "The magnet armor is useful if you want to constantly pick up items on the ground. But as soon as you try to throw away things it starts to get annoying.",
-    "I fixed this by using a electromagnet which can be toggled on and off. This will hopefully help me pick up large amounts of items. Energy is only used if there are items around, as it will automatically enter a low power mode.",
+    "當你經常想撿起地上的物品時磁力盔甲很有用。但一旦你想丟棄物品，它就開始煩人了。",
+    "我使用能夠開關的電磁鐵解決了這個問題。它應該能幫助我撿起大量的物品。只有周圍地面上有物品時它才會消耗能量，否則會自動進入低能耗模式。",
     "合成:",
     {
         "link": "fp:lang/part/cr_tools.modul.magnet.json"
     },
-    "By default the toggle key is G, but can they changed in the controls menu."
+    "預設開關鍵是G，你能在控制選單裡修改。."
 ]
