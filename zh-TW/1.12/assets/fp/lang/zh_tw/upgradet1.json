@@ -1,9 +1,9 @@
 [
-  "It seems that the neon energy is the key to many new technologies, so I created a module to improve my Researcher. It allows me to do more research using this type of energy.",
-  "The Module must be directly connected to the Researcher. All work is done in the Researcher as usual.",
+  "看來，氖能量（NE）是許多新技術的關鍵，所以我製作了一個用於輔助研究台的研究模組。 我能透過它將氖能量運用到研究台上進行更多的研究。",
+  "研究模組必須緊貼著研究台。 所有的操作都像往常一樣在研究台上完成。",
   "合成:",
   {
     "link": "fp:lang/part/crafting_upgradet1.json"
   },
-  "The module stores up to 10000 NE, if this not enough for a research project, you can use more modules or wait until it fills up again. The energy can be provided by cables or batteries."
+  "該研究模組最多可儲存10000個NE，如果這不足以用於研究項目，則可以使用更多模組或時間，直到它再次填滿。 能量可由電纜或電池提供。"
 ]
