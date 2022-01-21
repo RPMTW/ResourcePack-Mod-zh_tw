@@ -1,10 +1,10 @@
 [
-  "This machine is designed to divide some materials into useful small parts. It is fast and takes every type of burnable fuel.",
+  "該機器是為將特定材料分解成一些有用的零件而設計的，不僅工作效率高，並且能支持所有可燃燃料。",
   "合成:",
   {
     "link": "fp:lang/part/crafting_partpress.json"
   },
-  "Recipes:",
+  "配方:",
   {
     "link": "fp:lang/part/partpress_partpress2.json"
   },
