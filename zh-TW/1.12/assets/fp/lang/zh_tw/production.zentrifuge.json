@@ -1,10 +1,10 @@
 [
-  "In nature, pure materials rarely exist; most things have small traces of other substances in them. Therefore I developed a machine to extract those trace materials.",
-  "This machine is composed of several boxes that rotate very quickly, and via centrifugal force, materials of different weights are separated. Included in the unit, I have provided many methods of separation and collection.",
-  "I can certainly make some improvements on the machine and add more features. I have also installed a system to work with the collection of support points for later use.",
+  "在自然界中，純淨物很少存在;大多數東西都摻雜著其他物質。因此，我開發了一種機器來提取這些其他物質材料。",
+  "本機器由多個快速旋轉盒組成，透過離心力分離，將質量不同的材料分離。在單元中，我提供了許多分離和收集的方法。",
+  "我可以在機器上做一些改進，並加入更多的功能，我還安裝了一個系統來處理SP點的收集供以後使用。",
   "合成:",
   {
     "link": "fp:lang/part/crafting_production.zentrifuge.json"
   },
-  "Information: Support Points (SP) are not transferrable with flash memory. The corresponding technology may be developed later."
+  "訊息：Support點（SP）還不能使用快閃記憶體傳輸。 相應的技術可能要在以後開發。"
 ]
