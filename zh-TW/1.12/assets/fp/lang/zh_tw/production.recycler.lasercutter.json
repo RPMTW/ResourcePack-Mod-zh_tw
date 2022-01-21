@@ -1,9 +1,9 @@
 [
-  "I developed a tool for the recycler to put into the middle slot.",
-  "It consists of cameras and a laser which precisely cuts a suitable unit. This process is very versatile, but it quadruples the energy requirements.",
+  "我開發了一個回收工具，透過將它放進回收機中間的插槽進行使用。",
+  "它由攝影機和能夠精確切割部件的雷射刀組成。這個過程是多功能的，但是能量需求翻了四倍。",
   "合成:",
   {
     "link": "fp:lang/part/crafting_production.recycler.lasercutter.json"
   },
-  "This tool features many recipes, for example: \n -All products of the Assembly Table \n -Horse Armor \n -Products of the \"Decorations\"-tab (uncolored, if possible) \n -Iron Bars, Minecarts, Buckets \n -More"
+  "該工具支持很多其他的配方:\n-所有裝配台生產的組件\n-馬鎧\n-「裝飾」領域的物品\n-鐵欄杆,礦車,桶\n-等等"
 ]
