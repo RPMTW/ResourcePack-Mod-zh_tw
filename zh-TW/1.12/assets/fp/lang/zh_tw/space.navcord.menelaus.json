@@ -1,9 +1,9 @@
 [
-  "A spaceship has little purpose without a destination. I will build a telescope to search the sky for planets.",
-  "Upon finding something I will make a corresponding data record, which I can insert into the onboard computer.",
+  "沒有目的地的太空飛船是沒有意義的。我將建造一個望遠鏡，搜尋太空中的行星。",
+  "找到一些東西後，我將記錄相應的數據，可以將其插入到機載電腦中。",
   "合成:",
   {
     "link": "fp:lang/part/crafting_space.navcord.menelaus.json"
   },
-  "Use with \"§lRight Click§r\"."
+  "§l右擊§r使用."
 ]
