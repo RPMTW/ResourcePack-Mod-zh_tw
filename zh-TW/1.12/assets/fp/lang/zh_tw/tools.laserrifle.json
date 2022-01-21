@@ -1,9 +1,9 @@
 [
-	"If I supply large amounts of energy over a short time period to a laser diode, it releases an extremely strong laser pulse. Between two activations, however, a certain charging time is required.",
-	"I managed to integrate the entire system into a portable weapon. It fires directly forward an impulse, which can cause a lot of damage.",
+	"如果在短時間內向雷射二極管提供大量能量，則會釋放極強的雷射脈衝。 然而，在兩次啟動之間，需要一定的充電時間。",
+	"我設法將整個系統整合到攜帶式武器中。 它直接向前發射脈衝，這可能會造成很大的傷害。",
 	"合成:",
 	{
 		"link": "fp:lang/part/cr_tools.laserrifle.json"
 	},
-	"Neon energy is required to (re-)charge. If the charge reserve is below 18 NE, no further shots can be prepped."
+	"需要充入氖能量。 如果儲能量低於18 NE，則不能再次發射。"
 ]
