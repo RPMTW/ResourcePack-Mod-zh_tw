@@ -1,7 +1,7 @@
 [
-	"Drones need an base to load energy and exchange items. So I designed the Drone Station. On their top I am able to place drones.",
-	"The Drone Station contains an large inventory (at top) and an battery bar (at bottom). I must add at least one battery to power the drones.",
-	"The inventory can be filled and emptied by the use of pipes/hopper. By connecting a cable, the batteries can charge automatically.",
+	"無人機需要一個基地來載入能量和交換物品。所以我設計了無人機站。在他們的頂端，我能夠放置無人機。",
+	"無人機站包含大量儲存欄（頂部）和電池欄（底部）。我必須加入至少一個電池為無人機供電。",
+	"可以透過使用管道/漏斗來填充和清空儲存欄。透過連接電纜，電池可以自動充電。",
 	"合成:",
 	{
 		"link": "fp:lang/part/cr_space.dronestation.json"
