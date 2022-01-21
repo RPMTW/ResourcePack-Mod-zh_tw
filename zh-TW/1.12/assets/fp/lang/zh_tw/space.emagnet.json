@@ -1,9 +1,9 @@
 [
-	"I've developed an electromagnet, a block that is much stronger than a normal magnetic block, but it needs neon energy. The main difference is I can turn it on and off with redstone signals.",
+	"我開發了一種電磁鐵，一塊比普通磁塊強得多的磁鐵，但需要氖能量。主要區別是我可以用紅石訊號打開和關閉它。",
 	"合成:",
 	{
 		"link": "fp:lang/part/cr_space.emagnet.json"
 	},
-	"This magnetic block is controlled by a computer system to prevent the coil from overheating and to fine tune the magnetic field and intensity. It should be noted that the speed of the RAM determines the frequency of the magnetic field, frequencies which can cause a lot of interference, stronger than normal magnetic sources could produce.",
-	"Supported chipsets:\nIndustrial chipset"
+	"該磁塊由電腦系統控制，以防止線圈過熱並可微調磁場和強度。應該注意的是，記憶體的大小決定了磁場的頻率，可能導致大量干擾的頻率，比正常磁源可能產生的頻率更強。",
+	"支持的晶片組：\n工業晶片組"
 ]
