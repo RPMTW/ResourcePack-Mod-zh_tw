@@ -1,11 +1,11 @@
 [
-  "Diamonds are the hardest material I know, with a construct of this material I should be able to pulverize all types of Ingots, Ores and Crystals. In order to do this I designed a automated mill.",
+  "鑽石是我所知道的最堅硬的材料，透過這種材料的硬度，我應該能夠粉碎各種錠，礦和水晶。 為了做到這一點，我設計了一個自動化磨床。",
   "合成:",
   {
     "link": "fp:lang/part/crafting_production.supercrusher.json"
   },
-  "I build a diamond-studded grinder and combined it with a computer system to speed it up and prevent the wear of the expensive grinder.",
-  "Furthermore I can duplicate the yield of ores by pulverizing them. This can also used to refine crystal without coal, logically the Dusts must be smelted into the Ingots in a second step.",
+  "我建立一個鑽石研磨機，並結合電腦系統加速，並防止昂貴的研磨機損壞。",
+  "此外，我可以粉碎礦來增加產量。 這也可以用來精煉沒有煤的晶體，從邏輯上講，粉末接下來通常被拿去熔煉成錠。",
   "Supported Chipsets:",
-  "Logic Chipset\nTransport Chipset\nRedstone Control Chipset\nUltimate Chipset\nDamage Control Chipset"
+  "邏輯晶片組\n傳輸晶片組\n紅石控制晶片組\n新型晶片組\n損壞監控晶片組"
 ]
