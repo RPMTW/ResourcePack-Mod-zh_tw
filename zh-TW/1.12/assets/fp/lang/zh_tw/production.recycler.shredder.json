@@ -1,9 +1,9 @@
 [
-  "I developed a tool for the recycler to put into the middle slot.",
-  "It consists of two spiked cylinders which rip the target unit into shreds. This process is versatile, but sports a somewhat low yield.",
+  "我開發了一個回收工具，透過將它放進回收機中間的插槽進行使用。",
+  "它由兩個加工過的金屬圓柱體組成，將工件撕裂成碎片。這個過程是多步驟的，但回收的收益有點低。",
   "合成:",
   {
     "link": "fp:lang/part/crafting_production.recycler.shredder.json"
   },
-  "This tool features many recipes, for example: \n -All products of the Assembly Table \n -Stones \n -Plants, wood, foliage \n -Glass und wool \n -Bones"
+  "該工具支持多種其他配方:\n-所有裝配台生產的組件\n-石頭\n-植物，木塊，樹葉\n-玻璃和羊毛\n-骨頭"
 ]
