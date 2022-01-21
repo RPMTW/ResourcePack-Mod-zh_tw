@@ -1,17 +1,17 @@
 [
-  "Sometimes, all you want is a big fire.",
-  "When I fill the grenade with blaze powder, it is spread and ignited upon impact, lighting the nearby area on fire.",
-  "In the grenade, I can use 1-3 units of blaze powder, correlating to the affected area.",
-  "Crafting (shapeless):",
-  "Strength 1:",
+  "有時，你滿腦子想的都是Fire！Fire！~。",
+  "當我用烈焰粉填滿手榴彈時，它會撞擊並點燃附近的地區。",
+  "在手榴彈中，我可以使用1-3等級的火焰粉，與受影響的地區相關。",
+  "無序合成:",
+  "強度1:",
   {
     "link": "fp:lang/part/crafting_tools.grenade.blaze.json"
   },
-  "Strength 2:",
+  "強度2:",
   {
     "link": "fp:lang/part/crafting_tools.grenade.blaze2.json"
   },
-  "Strength 3:",
+  "強度3:",
   {
     "link": "fp:lang/part/crafting_tools.grenade.blaze3.json"
   }
