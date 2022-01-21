@@ -1,12 +1,12 @@
 [
-    "I developed a tool for the recycler to put into the middle slot.",
-    "It consists of a green laser, two quantanium coils, and some computer chips for controlling everything.",
-    "A green laser is used instead of a red one, because of the higher precision achievable with shorter, green light waves.",
-    "First the laser scans the object to map where it is damaged and to find out what materials are needed to repair the tools. Then the coils are used to open small tears in the fabric of space-time to acquire the needed resources.",
-    "This progress needs a lot of energy, and to prevent creating permanent interdimensional holes, support points are used to stabilize the tears.",
+    "我開發了一個回收工具，透過將它放進回收機中間的插槽進行使用。",
+    "它由一個綠色焦點透鏡，兩個量子線圈和一些控制它們的電腦晶片組成。",
+    "使用較短的綠色光波可以實現更高的精度，所以我用它代替了紅色焦點透鏡。",
+    "首先，雷射掃描物體以映射損壞的位置，並找出需要哪些材料來修復工具。然後，線圈用於打開時空結構以獲得所需的資源。",
+    "這一過程需要大量的能量，為了防止形成永久的空間空洞，使用支撐點來穩定這些變化。",
     "Crafting:",
     {
         "link": "fp:lang/part/cr_production.recycler.timemanipulator.json"
     },
-    "This tool has many recipes, and should be able to repair any tool."
+    "該工具支持很多配方，可以修復任何工具。"
 ]
