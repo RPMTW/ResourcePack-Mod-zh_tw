@@ -1,11 +1,11 @@
 [
-  "I developed a tool that allows me to change the physical appearance of blocks.",
-  "I am able to scan any block, upon which the visual structure is saved and can be transfered to any block that supports it.",
+  "我開發了一個工具，能透過它改變方塊的物理外觀。",
+  "我可以掃描任何方塊，保存其掃描樣式，並將其傳輸到支持它的任何方塊。",
   {
     "link": "fp:lang/part/crafting_tools.hologramm.json"
   },
-  "§lShift + right click§r to save structure",
-  "simple §lright click§r to change the appearance",
-  "Note: Some structures are too complex to be saved.",
-  "Supported blocks:\nAny tubes \nAny cables\n"
+  "§lShift + 右擊§r保存結構",
+  "直接§l右擊§r來改變外觀",
+  "注意：某些結構太複雜，無法保存。",
+  "支持的方塊：\n任何管道\n任意電纜"
 ]
