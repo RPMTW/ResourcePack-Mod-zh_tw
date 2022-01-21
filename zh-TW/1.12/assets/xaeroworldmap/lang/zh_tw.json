@@ -115,7 +115,7 @@
     "gui.xaero_wm_update_notification": "更新通知",
     "gui.xaero_wm_adjust_height_for_carpetlike_blocks": "為短方塊調整 Y 座標",
     "gui.xaero_wm_box_adjust_height_for_carpetlike_blocks": "從短地毯狀方塊的高度值中減去 1，例如地毯、1 層雪、荷葉等。這可以防止這些方塊在地圖上像一個完整的方塊一樣造成嚴重的陰影。在這些方塊上的定位點和進行傳送也應該更有意義。",
-    "gui.xaero_right_click_map_cant_teleport_world": "§8(Teleport) Unconfirmed...",
-    "gui.xaero_box_only_current_map_waypoints": "Displaying only the waypoints bound to the current world map, even if another waypoint sub-world is selected for the minimap using the full waypoint menu.",
-    "gui.xaero_box_waypoints_selected_by_minimap": "Displaying waypoints from the same waypoint sub-world that you are viewing in game and on the minimap. The sub-world can be switched in the full waypoint menu."
+    "gui.xaero_right_click_map_cant_teleport_world": "§8（傳送）未確認...",
+    "gui.xaero_box_only_current_map_waypoints": "僅顯示綁定到目前世界地圖的定位點，即使使用完整定位點選單為小地圖選擇了另一個定位點子世界。",
+    "gui.xaero_box_waypoints_selected_by_minimap": "顯示您在遊戲和小地圖上查看的同一定位點子世界的定位點。子世界可以在完整的定位點選單中切換。"
 }
