@@ -1,0 +1,26 @@
+{
+	"name": "Anti Fear Essence",
+	"icon": "theabyss:anti_fear_essence",
+"category": "alchemy",
+"advancement": "minecraft:adventure/sleep_in_bed",
+
+	"priority":false,
+	"secret":false,
+	"read_by_default":false,
+
+
+	"pages": [
+		{
+			"type": "spotlight",
+			"item": "theabyss:anti_fear_essence",
+			"title": "Anti Fear Essence",
+			"link_recipe":false,
+			"text": "The Anti Fear Essence can be very useful. Sometimes you will find that everything around you is getting dark. you are afraid This essence will help you to temporarily suppress this fear. It also makes you 10% stronger and 10% more resistant to attacks."
+		},
+		{
+			"type": "text",
+			"title": "Crafting",
+			"text": "This essence can be crafted in a Somnium Infuser and requires loran energy and somnium."
+		}
+	]
+}

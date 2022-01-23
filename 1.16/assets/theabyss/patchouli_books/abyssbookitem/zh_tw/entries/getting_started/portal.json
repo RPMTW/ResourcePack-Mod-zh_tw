@@ -1,0 +1,79 @@
+{
+	"name": "Creating a Portal",
+	"icon": "minecraft:paper",
+"category": "getting_started",
+"advancement": "minecraft:adventure/sleep_in_bed",
+
+	"priority":false,
+	"secret":false,
+	"read_by_default":false,
+
+
+	"pages": [
+		{
+			"type": "text",
+			"text": "The Abyss is a dimension to explore full of unique adventures and dangers! It's a dimension of darkness the only light comes from magical blocks and the various flora, fungi, and fauna of the dimension."
+		},
+	{
+		"type": "text",
+		"text": "Don’t be afraid, I am here to help you. The first thing you must do is equip yourself for battles, to protect you against various creatures! Once this is done you must begin §3sleeping§0 as often as possible, the more you sleep the more I can show you. These visions can only come as I am able to make them, gradually they will show you what to do. Stay safe wanderer."
+	},
+				{
+					"type": "text",
+					"text": "How was your first dream? What was it you saw? What did you hear? Was the vision clear enough? We still have time it's not too late, sleep again, and soon..."
+				},
+				{
+					"type": "text",
+					"text": "A §3radio?§0 I'm sure that noise has to be a §3radio…§0 Wait, I remember now… When I was alive there was a §3house§0, an abandoned house in the §3forest…§0 Find this house, I just know the answer must be there..."
+				},
+				{
+					"type": "multiblock",
+					"text": "You'll need to find this!",
+					"name": "Radio",
+					"multiblock": {
+						"pattern": [
+							[" "],
+							["A"],
+							["0"]
+						],
+						"mapping": {
+							"A": "theabyss:broken_radio"
+						}
+					}
+				},
+		{
+			"type": "spotlight",
+			"item": "theabyss:loran",
+			"title": "Loran",
+			"link_recipe":false,
+			"text": "The blue plant that spreads is called Loran. Loran is a plant capable of absorbing and storing light which it converts to different energies. A plant of pure energy, it has both helpful and harmful properties depending on what it mixes with. More importantly though we are looking to use its properties when formed"
+		},
+			{
+				"type": "text",
+				"text": "with obsidian, which is needed to create unstable portal material. This unstable portal material will be our gateway to the Abyss itself."
+			},
+			{
+				"type": "crafting",
+				"title": "Unstable Obsidian & Key",
+				"recipe": "theabyss:unstable_obsidian_rcp",
+				"recipe2": "theabyss:portal_igniter_rcp"
+			},
+			{
+				"type": "multiblock",
+				"text": "This is the Portal.",
+				"name": "The Portal",
+				"multiblock": {
+					"pattern": [
+						["AAAA"],
+						["A  A"],
+						["A  A"],
+						["A 0A"],
+						["AAAA"]
+					],
+					"mapping": {
+						"A": "theabyss:unstable_obsidian"
+					}
+				}
+			}
+	]
+}

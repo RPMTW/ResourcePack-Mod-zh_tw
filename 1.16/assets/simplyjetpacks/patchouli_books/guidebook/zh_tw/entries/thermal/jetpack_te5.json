@@ -6,13 +6,12 @@
   "read_by_default": true,
   "pages": [
     {
-      "type": "text",
-      "text": "This is the Flux-Infused JetPlate"
+      "type": "patchouli:text",
+      "text": "This is the Flux-Infused JetPlate."
     },
     {
-      "type": "crafting",
-      "recipe": "simplyjetpacks:te/jetpack_te5",
-      "recipe2": "simplyjetpacks:te/jetpack_te5_armored"
+      "type": "patchouli:crafting",
+      "recipe": "simplyjetpacks:thermal/jetpack_te5"
     }
   ]
 }

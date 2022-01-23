@@ -1,0 +1,42 @@
+{
+	"name": "Arcane",
+	"icon": "theabyss:arcane_workbench",
+"category": "somnium",
+"advancement": "minecraft:adventure/sleep_in_bed",
+
+	"priority":false,
+	"secret":false,
+	"read_by_default":false,
+
+
+	"pages": [
+		{
+			"type": "spotlight",
+			"item": "theabyss:arcane_workbench",
+			"title": "Arcane",
+			"link_recipe":false,
+			"text": "The Arcane is used to Craft magical artifacts such as Rings you can use to cast spells!  to see recipes please install JEI."
+		},
+			{
+				"type": "multiblock",
+				"text": "",
+				"name": "Arcane",
+				"multiblock": {
+					"pattern": [
+						["0"],
+						["A"],
+						[" "],
+						[" "]
+					],
+					"mapping": {
+						"A": "theabyss:arcane_workbench"
+					}
+				}
+			},
+			{
+				"type": "crafting",
+				"title": "Arcane",
+				"recipe": "theabyss:arcane_workbench_rcp"
+			}
+	]
+}

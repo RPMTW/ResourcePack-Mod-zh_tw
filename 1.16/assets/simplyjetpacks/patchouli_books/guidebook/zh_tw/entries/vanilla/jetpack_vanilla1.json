@@ -5,11 +5,11 @@
   "read_by_default": true,
   "pages": [
     {
-      "type": "text",
-      "text": "This is the IronJetpack. The jetpack can become armored by applying the plating."
+      "type": "patchouli:text",
+      "text": "This is the Iron Jetpack. The jetpack can become armored by applying the armor plating."
     },
     {
-      "type": "crafting",
+      "type": "patchouli:crafting",
       "recipe": "simplyjetpacks:vanilla/jetpack_vanilla1",
       "recipe2": "simplyjetpacks:vanilla/jetpack_vanilla1_armored"
     }

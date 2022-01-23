@@ -1,0 +1,26 @@
+{
+	"name": "Somnium Damage",
+	"icon": "theabyss:somnium_damage_upragde",
+"category": "alchemy",
+"advancement": "minecraft:adventure/sleep_in_bed",
+
+	"priority":false,
+	"secret":false,
+	"read_by_default":false,
+
+
+	"pages": [
+		{
+			"type": "spotlight",
+			"item": "theabyss:somnium_damage_upragde",
+			"title": "Somnium Damage",
+			"link_recipe":false,
+			"text": "The Somnium Damage Essence empowers your spells, artifacts, and rings! You can use them a maximum of 5 times. But be careful! the stronger you get the more hallucinations you will have. The darkness will slowly eat you up from them.. take care wanderer!"
+		},
+		{
+			"type": "text",
+			"title": "Crafting",
+			"text": "This essence can be crafted in a Somnium Infuser and requires loran energy and somnium."
+		}
+	]
+}

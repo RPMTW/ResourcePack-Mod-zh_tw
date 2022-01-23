@@ -1,0 +1,26 @@
+{
+	"name": "Bottle Of Somnium",
+	"icon": "theabyss:bottle_of_somnium",
+"category": "alchemy",
+"advancement": "minecraft:adventure/sleep_in_bed",
+
+	"priority":false,
+	"secret":false,
+	"read_by_default":false,
+
+
+	"pages": [
+		{
+			"type": "spotlight",
+			"item": "theabyss:bottle_of_somnium",
+			"title": "Bottle Of Somnium",
+			"link_recipe":false,
+			"text": "A bottle of Somnium is required to run alchemy at all. It is a base Potion alongside Loran Energy. A bottle of Somnium is also very good for your health and your energy! It is namely the bridge between two worlds, an energy stronger than mana."
+		},
+		{
+			"type": "text",
+			"title": "Crafting",
+			"text": "This essence can be crafted in a Crafting Table."
+		}
+	]
+}

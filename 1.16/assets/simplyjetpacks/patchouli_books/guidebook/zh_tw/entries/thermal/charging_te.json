@@ -6,13 +6,16 @@
   "read_by_default": true,
   "pages": [
     {
-      "type": "text",
+      "type": "patchouli:text",
       "text": "The following items can be used to charge the jetpacks."
     },
     {
-      "type": "spotlight",
-      "item": "thermal:tinker_bench",
-      "text": "This can be used to charge the jetpacks."
+      "type": "patchouli:spotlight",
+      "item": "thermal:tinker_bench"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "thermal:charge_bench"
     }
   ]
 }

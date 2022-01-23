@@ -1,0 +1,42 @@
+{
+	"name": "Research Table",
+	"icon": "theabyss:research_table",
+"category": "somnium",
+"advancement": "minecraft:adventure/sleep_in_bed",
+
+	"priority":false,
+	"secret":false,
+	"read_by_default":false,
+
+
+	"pages": [
+		{
+			"type": "spotlight",
+			"item": "theabyss:research_table",
+			"title": "Research Table",
+			"link_recipe":false,
+			"text": "Research Table is used to research Crystals, artifacts and more. Before you can process any crystal in a crystal cutter you'll need to research them first! Cutting crystals without any knowledge will just destroy your goods."
+		},
+			{
+				"type": "multiblock",
+				"text": "",
+				"name": "Research Table",
+				"multiblock": {
+					"pattern": [
+						["0"],
+						["A"],
+						[" "],
+						[" "]
+					],
+					"mapping": {
+						"A": "theabyss:research_table"
+					}
+				}
+			},
+			{
+				"type": "crafting",
+				"title": "Research Table",
+				"recipe": "theabyss:research_table_rcp"
+			}
+	]
+}

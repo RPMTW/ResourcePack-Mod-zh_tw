@@ -31,5 +31,10 @@
     "item.endertanks.bucket.team": "Ender Bucket",
     "block.endertanks.tank.public": "Ender Tank",
     "block.endertanks.tank.private": "Ender Tank",
-    "block.endertanks.tank.team": "Ender Tank"
+    "block.endertanks.tank.team": "Ender Tank",
+    "info.endertanks.bucket.mode.info.txt": " §oSneak Scroll to Change Mode",
+    "info.endertanks.bucket.mode.normal.txt": "§7Mode:§o Normal (Pickup, Sneak to Place)",
+    "info.endertanks.bucket.mode.invert.txt": "§7Mode:§o Invert (Place, Sneak to Pickup)",
+    "info.endertanks.bucket.mode.pickup.txt": "§7Mode:§o Pickup Only",
+    "info.endertanks.bucket.mode.place.txt": "§7Mode:§o Place Only"
 }

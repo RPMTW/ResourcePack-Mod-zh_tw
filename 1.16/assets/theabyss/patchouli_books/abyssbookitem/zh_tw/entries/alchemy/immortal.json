@@ -1,0 +1,26 @@
+{
+	"name": "Immortal Substance",
+	"icon": "theabyss:immortal_substance",
+"category": "alchemy",
+"advancement": "minecraft:adventure/sleep_in_bed",
+
+	"priority":false,
+	"secret":false,
+	"read_by_default":false,
+
+
+	"pages": [
+		{
+			"type": "spotlight",
+			"item": "theabyss:immortal_substance",
+			"title": "Immortal Substance",
+			"link_recipe":false,
+			"text": "The Immortal Substance has always been true to its name! It promises exactly what it is supposed to! It makes you immortal.. no one can kill you, not even yourself. But where there is light, there is darkness.. be careful with this essence.."
+		},
+		{
+			"type": "text",
+			"title": "Crafting",
+			"text": "This essence can be crafted in a Somnium Infuser and requires loran energy and somnium."
+		}
+	]
+}

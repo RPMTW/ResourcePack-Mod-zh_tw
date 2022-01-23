@@ -10,7 +10,7 @@
         } , 
         {
             "type": "entity" , 
-            "entity": "untamedwilds:tortoise{Variant: 0}" , 
+            "entity": "untamedwilds:tortoise{Variant: 0, Size: 1}" ,
             "text": ""
         }
     ]

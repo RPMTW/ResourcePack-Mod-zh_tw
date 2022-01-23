@@ -6,13 +6,13 @@
   "read_by_default": true,
   "pages": [
     {
-      "type": "text",
+      "type": "patchouli:text",
       "text": "This is the Resonant Thruster"
     },
     {
-      "type": "crafting",
-      "recipe": "simplyjetpacks:te/thruster_te4",
-      "text": "This is a test entry, but it should show up!"
+      "type": "patchouli:crafting",
+      "recipe": "simplyjetpacks:thermal/thruster_te4",
+      "text": "This is the recipe."
     }
   ]
 }

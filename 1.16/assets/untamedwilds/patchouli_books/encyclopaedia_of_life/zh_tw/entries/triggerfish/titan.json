@@ -10,7 +10,7 @@
         } , 
         {
             "type": "entity" , 
-            "entity": "untamedwilds:triggerfish{Variant: 6}" , 
+            "entity": "untamedwilds:triggerfish{Variant: 6, Size: 1}" ,
             "text": ""
         }
     ]

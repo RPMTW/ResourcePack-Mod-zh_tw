@@ -71,7 +71,7 @@
     "item.mowziesmobs.earth_talisman.text.7": "Release sneak to surface and stop tunneling",
     "item.mowziesmobs.mob_remover.text.0": "Left-click to remove a Mowzie's Mobs mob",
     "item.mowziesmobs.wrought_helmet.text.0": "Never breaks",
-    "item.mowziesmobs.spear.text.0": "Extends attack range by 3.5 blocks",
+    "item.mowziesmobs.spear.text.0": "Extends attack range by 1.5 blocks",
     "item.mowziesmobs.spear.text.1": "1/3 chance to instantly kill animals with less than 30 health",
     "item.mowziesmobs.ice_crystal.text.0": "Hold right-click to channel an icy whirlwind",
     "item.mowziesmobs.ice_crystal.text.1": "Recharges while in inventory",
@@ -82,7 +82,7 @@
     "item.mowziesmobs.naga_fang.text.0": "Used to brew Potion of Poison Resistance or craft a Naga Fang Dagger",
     "item.mowziesmobs.naga_fang_dagger": "Naga Fang Dagger",
     "item.mowziesmobs.naga_fang_dagger.text.0": "Poisons targets",
-    "item.mowziesmobs.naga_fang_dagger.text.1": "Deals bonus damage from behind",
+    "item.mowziesmobs.naga_fang_dagger.text.1": "Deals double damage from behind",
     "item.mowziesmobs.foliaath_spawn_egg": "Foliaath Spawn Egg",
     "item.mowziesmobs.wroughtnaut_spawn_egg": "Ferrous Wroughtnaut Spawn Egg",
     "item.mowziesmobs.barakoa_spawn_egg": "Barakoa Spawn Egg",
@@ -326,5 +326,13 @@
     "config.mowziesmobs.allowed_block_tags": "Allowed Block Tags",
     "config.mowziesmobs.backstab_damage_mult": "Backstab Damage Multiplier",
     "subtitles.mowziesmobs.barakoa.heal": "Barakoaya heals",
-    "subtitles.mowziesmobs.barakoa.teleport": "Barakoaya teleports"
+    "subtitles.mowziesmobs.barakoa.teleport": "Barakoaya teleports",
+    "entity.mowziesmobs.barakoa_sunblocker_player": "Barakoaya",
+    "item.mowziesmobs.music_disc_petiole": "Music Disc",
+    "item.mowziesmobs.music_disc_petiole.desc": "LudoCrypt - Petiole",
+    "config.mowziesmobs.do_camera_shake": "Do Camera Shake",
+    "subtitles.mowziesmobs.petiole": "Petiole",
+    "subtitles.mowziesmobs.barako_theme": "Barako Battle Theme",
+    "subtitles.mowziesmobs.ferrous_wroughtnaut_theme": "Ferrous Wroughtnaut Battle Theme",
+    "subtitles.mowziesmobs.frostmaw_theme": "Frostmaw Battle Theme"
 }

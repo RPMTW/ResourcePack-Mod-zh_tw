@@ -1,0 +1,42 @@
+{
+	"name": "Mortar And Pestle",
+	"icon": "theabyss:mortar_and_pestle",
+"category": "somnium",
+"advancement": "minecraft:adventure/sleep_in_bed",
+
+	"priority":false,
+	"secret":false,
+	"read_by_default":false,
+
+
+	"pages": [
+		{
+			"type": "spotlight",
+			"item": "theabyss:mortar_and_pestle",
+			"title": "Mortar And Pestle",
+			"link_recipe":false,
+			"text": "Mortar And Pestle is used to make dust and powder out of various but mostly crystals."
+		},
+			{
+				"type": "multiblock",
+				"text": "",
+				"name": "Mortar And Pestle",
+				"multiblock": {
+					"pattern": [
+						["0"],
+						["A"],
+						[" "],
+						[" "]
+					],
+					"mapping": {
+						"A": "theabyss:mortar_and_pestle"
+					}
+				}
+			},
+			{
+				"type": "crafting",
+				"title": "Mortar And Pestle",
+				"recipe": "theabyss:mortar_rcp"
+			}
+	]
+}

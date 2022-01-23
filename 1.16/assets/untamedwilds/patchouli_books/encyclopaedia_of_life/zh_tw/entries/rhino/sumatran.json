@@ -10,7 +10,7 @@
         } , 
         {
             "type": "entity" , 
-            "entity": "untamedwilds:rhino{Variant: 3}" , 
+            "entity": "untamedwilds:rhino{Variant: 3, Size: 1}" ,
             "text": ""
         }
     ]

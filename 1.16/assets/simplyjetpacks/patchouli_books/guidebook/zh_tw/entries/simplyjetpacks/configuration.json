@@ -1,0 +1,12 @@
+{
+  "name": "Configuration",
+  "icon": "minecraft:apple",
+  "category": "simplyjetpacks:simplyjetpacks",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "The config values for each jetpack can be changed within the config files. This allows you to customise each jetpack individually."
+    }
+  ]
+}

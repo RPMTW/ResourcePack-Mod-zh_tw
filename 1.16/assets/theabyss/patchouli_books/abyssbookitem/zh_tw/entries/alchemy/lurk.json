@@ -1,0 +1,26 @@
+{
+	"name": "Lurker Juice",
+	"icon": "theabyss:lurker_juice",
+"category": "alchemy",
+"advancement": "minecraft:adventure/sleep_in_bed",
+
+	"priority":false,
+	"secret":false,
+	"read_by_default":false,
+
+
+	"pages": [
+		{
+			"type": "spotlight",
+			"item": "theabyss:lurker_juice",
+			"title": "Lurker Juice",
+			"link_recipe":false,
+			"text": "Lurker Juice is a safe essence that promises you to endure more and jump higher. It is very effective and easy to make. However, this essence doesn't last that long, so use it wisely."
+		},
+		{
+			"type": "text",
+			"title": "Crafting",
+			"text": "This essence can be crafted in a Somnium Infuser and requires loran energy and somnium."
+		}
+	]
+}

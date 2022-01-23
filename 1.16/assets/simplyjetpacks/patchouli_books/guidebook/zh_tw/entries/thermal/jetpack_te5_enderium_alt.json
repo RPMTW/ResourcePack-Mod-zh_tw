@@ -1,0 +1,33 @@
+{
+  "name": "(Gelid) Flux-Infused JetPlate",
+  "icon": "simplyjetpacks:jetpack_te5_enderium",
+  "category": "simplyjetpacks:thermal",
+  "flag": "mod:thermal",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "This is the (Gelid) Flux-Infused JetPlate. The next few pages will tell you how to craft it if you do not have Redstone Repository installed."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyjetpacks:jetpack_te5_enderium"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "You will need to craft some custom Gelid Armor Plating."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "simplyjetpacks:thermal/armorplating_te5_enderium"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "This recipe is used when Redstone Repository is not installed."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "simplyjetpacks:thermal/jetpack_te5_armored_alt"
+    }
+  ]
+}

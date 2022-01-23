@@ -10,7 +10,7 @@
         } , 
         {
             "type": "entity" , 
-            "entity": "untamedwilds:whale_shark{Variant: 0}" ,
+            "entity": "untamedwilds:whale_shark{Variant: 0, Size: 1}" ,
             "text": ""
         }
     ]

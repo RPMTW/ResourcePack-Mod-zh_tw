@@ -1,0 +1,26 @@
+{
+	"name": "Somnium Regen",
+	"icon": "theabyss:somnium_regen_upgrade",
+"category": "alchemy",
+"advancement": "minecraft:adventure/sleep_in_bed",
+
+	"priority":false,
+	"secret":false,
+	"read_by_default":false,
+
+
+	"pages": [
+		{
+			"type": "spotlight",
+			"item": "theabyss:somnium_regen_upgrade",
+			"title": "Somnium Regen",
+			"link_recipe":false,
+			"text": "The Somnium regenerations essence has two different effects. If you use this essence for the first time, it will ensure that Somnium natural regenerates in your body. If you drink it again, somniom regenerates up to 20% faster. You can drink this essence about 3 to 5 times."
+		},
+		{
+			"type": "text",
+			"title": "Crafting",
+			"text": "This essence can be crafted in a Somnium Infuser and requires loran energy and somnium."
+		}
+	]
+}

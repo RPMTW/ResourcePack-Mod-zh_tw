@@ -5,13 +5,13 @@
   "read_by_default": true,
   "pages": [
     {
-      "type": "text",
-      "text": "This is the Potato Jetpack."
+      "type": "patchouli:text",
+      "text": "This is the Potato Jetpack. Caution is advised when flying this jetpack!"
     },
     {
-      "type": "crafting",
-      "recipe": "simplyjetpacks:sj/jetpack_potato",
-      "text": "This is a test entry, but it should show up!"
+      "type": "patchouli:crafting",
+      "text": "The recipe for this Jetpack.",
+      "recipe": "simplyjetpacks:jetpack_potato"
     }
   ]
 }

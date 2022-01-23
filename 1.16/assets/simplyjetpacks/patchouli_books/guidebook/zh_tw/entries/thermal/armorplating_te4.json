@@ -6,13 +6,13 @@
   "read_by_default": true,
   "pages": [
     {
-      "type": "text",
-      "text": "This is the Enderium Armor Plating"
+      "type": "patchouli:text",
+      "text": "This is the Enderium Armor Plating. It can be crafted using the Induction Smelter from Thermal Series."
     },
     {
-      "type": "crafting",
-      "recipe": "simplyjetpacks:te/armorplating_te4",
-      "text": "This is a test entry, but it should show up!"
+      "type": "patchouli:spotlight",
+      "item": "simplyjetpacks:armorplating_te4",
+      "text": "This is the item."
     }
   ]
 }

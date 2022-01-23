@@ -47,7 +47,7 @@
     "item.quarryplus.remote_controller": "Remote Controller",
     "quarryplus.chat.change_mode": "Working mode was changed to %s",
     "quarryplus.chat.current_mode": "Now, working in %s",
-    "quarryplus.chat.disable_message": "%s is disabled.",
+    "quarryplus.chat.disable_message": "%s is disabled. Please change config to use this machine.",
     "quarryplus.chat.filler_mode": "Frame Mode",
     "quarryplus.chat.indent": "-    %s%s",
     "quarryplus.chat.marker_area": "This marker's Area is:",
@@ -152,5 +152,6 @@
     "itemGroup.flexiblemarker": "Flexible Marker",
     "gui.left": "Left",
     "gui.forward": "Forward",
-    "gui.right": "Right"
+    "gui.right": "Right",
+    "quarryplus.chat.bedrock_module_description": "Install this to a machine to remove Bedrock."
 }

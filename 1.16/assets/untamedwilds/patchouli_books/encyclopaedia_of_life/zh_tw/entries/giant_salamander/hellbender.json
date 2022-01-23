@@ -10,7 +10,7 @@
         } , 
         {
             "type": "entity" , 
-            "entity": "untamedwilds:giant_salamander{Variant: 1}" ,
+            "entity": "untamedwilds:giant_salamander{Variant: 1, Size: 1}" ,
             "text": ""
         }
     ]

@@ -318,5 +318,21 @@
     "gui.sophisticatedbackpacks.upgrades.buttons.mend_items": "Repair Items With Mending",
     "gui.sophisticatedbackpacks.upgrades.buttons.do_not_mend_items": "Do Not Repair Items",
     "gui.sophisticatedbackpacks.settings.buttons.rotate": "Rotate",
-    "gui.sophisticatedbackpacks.settings.buttons.rotate_detail": "Clockwise = Left Click\nCounter-Clockwise = Right Click"
+    "gui.sophisticatedbackpacks.settings.buttons.rotate_detail": "Clockwise = Left Click\nCounter-Clockwise = Right Click",
+    "item.sophisticatedbackpacks.smoking_upgrade": "Smoking Upgrade",
+    "item.sophisticatedbackpacks.smoking_upgrade.tooltip": "Smoking food in an upgrade tab",
+    "item.sophisticatedbackpacks.auto_smoking_upgrade": "Auto-smoking Upgrade",
+    "item.sophisticatedbackpacks.auto_smoking_upgrade.tooltip": "Smoking food in an upgrade tab\nAutomatically pulls/pushes items",
+    "item.sophisticatedbackpacks.blasting_upgrade": "Blasting Upgrade",
+    "item.sophisticatedbackpacks.blasting_upgrade.tooltip": "Blasting ores and metal stuff in an upgrade tab",
+    "item.sophisticatedbackpacks.auto_blasting_upgrade": "Auto-blasting Upgrade",
+    "item.sophisticatedbackpacks.auto_blasting_upgrade.tooltip": "Blasting ores and metal stuff in an upgrade tab\nAutomatically pulls/pushes items",
+    "gui.sophisticatedbackpacks.upgrades.smoking": "Smoking",
+    "gui.sophisticatedbackpacks.upgrades.auto_smoking": "Auto-smoke",
+    "gui.sophisticatedbackpacks.upgrades.blasting": "Blasting",
+    "gui.sophisticatedbackpacks.upgrades.auto_blasting": "Auto-blast",
+    "gui.sophisticatedbackpacks.upgrades.smoking.tooltip": "Smoking",
+    "gui.sophisticatedbackpacks.upgrades.auto_smoking.tooltip": "Auto-Smoking",
+    "gui.sophisticatedbackpacks.upgrades.blasting.tooltip": "Blasting",
+    "gui.sophisticatedbackpacks.upgrades.auto_blasting.tooltip": "Auto-Blasting"
 }

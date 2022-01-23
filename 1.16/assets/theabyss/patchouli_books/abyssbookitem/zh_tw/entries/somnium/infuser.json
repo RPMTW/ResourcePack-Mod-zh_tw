@@ -2,7 +2,7 @@
 	"name": "Somnium Infuser",
 	"icon": "theabyss:somnium_infuser",
 "category": "somnium",
-"advancement": "theabyss:loran_adv",
+"advancement": "minecraft:adventure/sleep_in_bed",
 
 	"priority":false,
 	"secret":false,
@@ -15,7 +15,7 @@
 			"item": "theabyss:somnium_infuser",
 			"title": "Somnium Infuser",
 			"link_recipe":false,
-			"text": "The Somnium Infuser is similar to a brewing stand in that it produces potions. It infuses Somnium into mixtures that can be used for gaining the ability to regen Somnium, to increase that ability, to brew a potion that makes your channeling of Somnium much more effecient, you can even infuse Somnium into a brew to be immune from fear for a period of time."
+			"text": "The Somnium Infuser is similar to a brewing stand in that it produces potions. It infuses Somnium into mixtures that can be used for gaining the ability to regen Somnium, to increase that ability, to brew a potion that makes your channeling of Somnium much more effecient, you can even infuse Somnium into a brew to be immune from fear for a period of time. to see recipes please install JEI."
 		},
 		{
 			"type": "text",

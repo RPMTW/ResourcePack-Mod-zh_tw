@@ -10,7 +10,7 @@
         } , 
         {
             "type": "entity" , 
-            "entity": "untamedwilds:snake{Variant: 13}" , 
+            "entity": "untamedwilds:snake{Variant: 13, Size: 1}" ,
             "text": ""
         }
     ]

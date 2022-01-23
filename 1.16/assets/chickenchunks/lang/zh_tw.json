@@ -21,5 +21,6 @@
     "chickenchunks:commands.restrictions.player.allowed_chunks.set": "Set Total Allowed Chunks for %s to %s Chunks",
     "chickenchunks:commands.restrictions.player.allowed_chunks.reset": "Reset Total Allowed Chunks for %s back to global control",
     "chickenchunks:commands.restrictions.player.chunks_per_loader.set": "Set Chunks Per Loader for %s to %s Chunks",
-    "chickenchunks:commands.restrictions.player.chunks_per_loader.reset": "Set Chunks Per Loader for %s back to global control"
+    "chickenchunks:commands.restrictions.player.chunks_per_loader.reset": "Set Chunks Per Loader for %s back to global control",
+    "chickenchunks.gui.morechunks": "Exceeds allowance by %d chunks"
 }

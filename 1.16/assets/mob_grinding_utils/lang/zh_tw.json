@@ -140,5 +140,6 @@
     "tooltip.spawner_upgrade_width": "Width Modifier: +1. Max of 5.",
     "tooltip.spawner_upgrade_height": "Height Modifier: +1. Max of 5.",
     "tooltip.monocle": "What-ho? Spiffy, old bean!",
-    "block.mob_grinding_utils.entity_spawner.jei.info": "Spawns Mobs in a 3x3x1 area.//nConsumes XP Jellies.//nCan be upgraded."
+    "block.mob_grinding_utils.entity_spawner.jei.info": "Spawns Mobs in a 3x3x1 area.\nConsumes XP Jellies.\nCan be upgraded.",
+    "mob_grinding_utils.jei.any_experience": "accepts any: forge:experience"
 }

@@ -6,13 +6,13 @@
   "read_by_default": true,
   "pages": [
     {
-      "type": "text",
+      "type": "patchouli:text",
       "text": "This is the HardenedJetpack. The jetpack can become armored by applying the plating."
     },
     {
-      "type": "crafting",
-      "recipe": "simplyjetpacks:te/jetpack_te2",
-      "recipe2": "simplyjetpacks:te/jetpack_te2_armored"
+      "type": "patchouli:crafting",
+      "recipe": "simplyjetpacks:thermal/jetpack_te2",
+      "recipe2": "simplyjetpacks:thermal/jetpack_te2_armored"
     }
   ]
 }

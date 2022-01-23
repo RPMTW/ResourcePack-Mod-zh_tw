@@ -10,7 +10,7 @@
         } , 
         {
             "type": "entity" , 
-            "entity": "untamedwilds:softshell_turtle{Variant: 0}" , 
+            "entity": "untamedwilds:softshell_turtle{Variant: 0, Size: 1}" ,
             "text": ""
         }
     ]

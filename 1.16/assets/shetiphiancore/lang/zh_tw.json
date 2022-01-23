@@ -86,5 +86,8 @@
     "shetiphiancore.team.sysadmin.add.inform": "You have been added to %1$s",
     "shetiphiancore.team.sysadmin.transfer.fail": "Transfer aborted: user is already leader",
     "shetiphiancore.team.sysadmin.disband.success": "Team has been disbanded, all players have been kicked",
-    "shetiphiancore.team.sysadmin.disband.inform": "An admin disbanded %1$s, you are no longer in a team"
+    "shetiphiancore.team.sysadmin.disband.inform": "An admin disbanded %1$s, you are no longer in a team",
+    "info.shetiphian.texture.missing": "Texture Data Missing",
+    "info.shetiphian.texture.invalid": "Texture Block Missing",
+    "info.shetiphian.texture.defaulted": "Using Default"
 }

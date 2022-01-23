@@ -6,11 +6,11 @@
   "read_by_default": true,
   "pages": [
     {
-      "type": "text",
+      "type": "patchouli:text",
       "text": "This is the Low Voltage Jetpack. The jetpack can become armored by applying the plating."
     },
     {
-      "type": "crafting",
+      "type": "patchouli:crafting",
       "recipe": "simplyjetpacks:ie/jetpack_ie1",
       "recipe2": "simplyjetpacks:ie/jetpack_ie1_armored"
     }

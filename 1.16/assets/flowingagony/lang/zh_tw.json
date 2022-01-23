@@ -140,5 +140,15 @@
     "enchantment.flowingagony.source_of_envy.desc": "Makes creature who attacked you an attacking target of its own kind due to envy.",
     "enchantment.flowingagony.back_and_fill.desc": "Monsters who do not choose you as priority will receive more damage from you.",
     "enchantment.flowingagony.scholar_of_original_sin.desc": "Learning and researching original sin makes your body more fragile, but it also makes you more experienced in analyzing experience.",
-    "enchantment.flowingagony.original_sin_erosion.desc": "Erosion of original sin extracts power from you, but it also makes you more experienced in analyzing experience."
+    "enchantment.flowingagony.original_sin_erosion.desc": "Erosion of original sin extracts power from you, but it also makes you more experienced in analyzing experience.",
+    "effect.flowingagony.cursed_hatred.description": "Greatly strengthens the damage inflicted on one.",
+    "effect.flowingagony.cursed_antipathy.description": "Causes antipathy damage which ignores armor to target.",
+    "effect.flowingagony.extreme_hatred.description": "Tremendously increases attack damage but consumes more hunger points at pretty fast rate. Lasts until you kill a creature.",
+    "effect.flowingagony.agony_resonance.description": "Imposes the status effect \"Been Resonated\" on all the nearby mobs.",
+    "effect.flowingagony.been_resonated.description": "Causes damage as you took to all the nearby creatures who are in the debuff \"Agony Resonance\".",
+    "effect.flowingagony.let_me_savor_it.description": "Decreases your attack damage and instead gives the attacker a certain damage. This buff will vanish once your hearts are higher than 12.",
+    "effect.flowingagony.listen_to_me_singing.description": "The victim will be repeatedly forcibly lifted and then smashed towards the ground.",
+    "effect.flowingagony.curse_of_undead.description": "You burn like a zombie under daylight! A helmet is necessary to block the damage. Largely increases the damage of fire and enables fire to cause damage on helmets. Rather than milk, the debuff can only be removed by enchanted golden apples or death. No more negative effects of hunger under this debuff and you can restore 1 hearts and obtain 3 seconds of buff \"Strength Ⅰ\" by eating rotten meat.",
+    "effect.flowingagony.lightburn_fungal_infection.description": "Causes lightburn fungal infection damage. Players with the enchantment \"Lightburn Fungal Parasitic\" are free from this effect.",
+    "effect.flowingagony.envious_being.description": "Increases attack damage."
 }

@@ -1,0 +1,12 @@
+{
+  "name": "Integration",
+  "icon": "minecraft:carrot",
+  "category": "simplyjetpacks:simplyjetpacks",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Simply Jetpacks 2 supports integration with the following mods: Mekanism, Thermal Series, Immersive Engineering."
+    }
+  ]
+}

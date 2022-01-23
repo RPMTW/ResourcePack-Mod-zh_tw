@@ -1,0 +1,26 @@
+{
+	"name": "Somnium Usage",
+	"icon": "theabyss:somnium_upgrade",
+"category": "alchemy",
+"advancement": "minecraft:adventure/sleep_in_bed",
+
+	"priority":false,
+	"secret":false,
+	"read_by_default":false,
+
+
+	"pages": [
+		{
+			"type": "spotlight",
+			"item": "theabyss:somnium_upgrade",
+			"title": "Somnium Usage",
+			"link_recipe":false,
+			"text": "The Somnium Usage essence is similar to the regenerations essence. However, this essence causes you to use less energy when using spells, artifacts or rings. You can use this essence 3 to 5 times."
+		},
+		{
+			"type": "text",
+			"title": "Crafting",
+			"text": "This essence can be crafted in a Somnium Infuser and requires loran energy and somnium."
+		}
+	]
+}

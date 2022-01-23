@@ -1,0 +1,18 @@
+{
+  "name": "Cryotheum Coolant Unit",
+  "icon": "simplyjetpacks:unit_cryotheum",
+  "category": "simplyjetpacks:thermal",
+  "flag": "mod:thermal",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "This is the Cryotheum Coolant Unit. It can be filled with liquid Cryotheum using the Fluid Encapsulator from Thermal Series."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "simplyjetpacks:thermal/unit_cryotheum_empty",
+      "text": "This is the recipe."
+    }
+  ]
+}

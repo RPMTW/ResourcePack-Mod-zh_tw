@@ -1,0 +1,42 @@
+{
+	"name": "Crystal Cutter",
+	"icon": "theabyss:crystal_cutter",
+"category": "somnium",
+"advancement": "minecraft:adventure/sleep_in_bed",
+
+	"priority":false,
+	"secret":false,
+	"read_by_default":false,
+
+
+	"pages": [
+		{
+			"type": "spotlight",
+			"item": "theabyss:crystal_cutter",
+			"title": "Crystal Cutter",
+			"link_recipe":false,
+			"text": "Crystal Cutter is used to cut raw crystals and generate crystal shards. Before you try to cut crystals you should research them on a research table first!"
+		},
+			{
+				"type": "multiblock",
+				"text": "",
+				"name": "Crystal Cutter",
+				"multiblock": {
+					"pattern": [
+						["0"],
+						["A"],
+						[" "],
+						[" "]
+					],
+					"mapping": {
+						"A": "theabyss:crystal_cutter"
+					}
+				}
+			},
+			{
+				"type": "crafting",
+				"title": "Crystal Cutter",
+				"recipe": "theabyss:crystal_cutter_rcp"
+			}
+	]
+}

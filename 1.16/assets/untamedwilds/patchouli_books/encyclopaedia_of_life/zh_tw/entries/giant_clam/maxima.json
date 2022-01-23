@@ -10,7 +10,7 @@
         } , 
         {
             "type": "entity" , 
-            "entity": "untamedwilds:giant_clam{Variant: 2}" , 
+            "entity": "untamedwilds:giant_clam{Variant: 2, Size: 1}" ,
             "text": ""
         }
     ]

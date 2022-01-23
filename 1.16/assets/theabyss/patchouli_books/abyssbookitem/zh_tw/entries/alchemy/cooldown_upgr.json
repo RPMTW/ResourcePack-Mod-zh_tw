@@ -1,0 +1,26 @@
+{
+	"name": "Somnium Cooldown",
+	"icon": "theabyss:somnium_cooldown_upgrade",
+"category": "alchemy",
+"advancement": "minecraft:adventure/sleep_in_bed",
+
+	"priority":false,
+	"secret":false,
+	"read_by_default":false,
+
+
+	"pages": [
+		{
+			"type": "spotlight",
+			"item": "theabyss:somnium_cooldown_upgrade",
+			"title": "Somnium Cooldown",
+			"link_recipe":false,
+			"text": "The Somnium Cooldown Essence shortens your cooldown when using an artifact, ring or spell! This essence can be used up to 5 times."
+		},
+		{
+			"type": "text",
+			"title": "Crafting",
+			"text": "This essence can be crafted in a Somnium Infuser and requires loran energy and somnium."
+		}
+	]
+}

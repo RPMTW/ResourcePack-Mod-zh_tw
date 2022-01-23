@@ -6,23 +6,23 @@
   "read_by_default": true,
   "pages": [
     {
-      "type": "text",
+      "type": "patchouli:text",
       "text": "The following items can be used to charge the jetpacks."
     },
     {
-      "type": "spotlight",
+      "type": "patchouli:spotlight",
       "item": "mekanism:basic_energy_cube"
     },
     {
-      "type": "spotlight",
+      "type": "patchouli:spotlight",
       "item": "mekanism:advanced_energy_cube"
     },
     {
-      "type": "spotlight",
+      "type": "patchouli:spotlight",
       "item": "mekanism:elite_energy_cube"
     },
     {
-      "type": "spotlight",
+      "type": "patchouli:spotlight",
       "item": "mekanism:ultimate_energy_cube"
     }
   ]

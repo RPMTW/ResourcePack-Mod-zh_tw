@@ -1298,5 +1298,20 @@
     "": "",
     "mahoutsukai.config.mana_increase_log_punishment.name": "Apply logarithmic punishment to mana increase based on current max",
     "mahoutsukai.config.punishment_factor.name": "Punishment factor for mana increase based on current max",
-    "mahoutsukai.config.unholy_words.name": "Words which are considered unholy by Caliburn and Rhongomyniad"
+    "mahoutsukai.config.unholy_words.name": "Words which are considered unholy by Caliburn and Rhongomyniad",
+    "advancements.boogie_woogie.description": "Swap with one of your friends",
+    "advancements.boogie_woogie.title": "Boogie Woogie",
+    "block.mahoutsukai.mahoujin_selective_displacement": "Selective Displacement",
+    "effect.mahoutsukai.selective_displacement": "Swap",
+    "effect.mahoutsukai.selective_displacement_cooldown": "Swap Cooldown",
+    "item.mahoutsukai.scroll_selective_displacement": "Scroll of Selective Displacement",
+    "key.selectiveDisplacement": "Selective Displacement",
+    "mahoutsukai.book.selective_displacement.desc": "Use this scroll to receive a buff. While active, tap the %%k0 keybind to swap places with a target entity. Alternatively, hold the keybind to select two entities, and switch them instead.%%n%%nThere is a short cooldown between swaps. This scroll costs %%val0 mana.",
+    "mahoutsukai.book.selective_displacement.name": "Selective Displacement",
+    "mahoutsukai.config.selective_displacement_cooldown.name": "Selective Displacement Cooldown",
+    "mahoutsukai.config.selective_displacement_hold_time.name": "Selective Displacement Hold Time",
+    "mahoutsukai.config.selective_displacement_mana_cost.name": "Selective Displacement Mana Cost",
+    "mahoutsukai.config.selective_displacement_range.name": "Selective Displacement Range",
+    "mahoutsukai.config.selective_displacement_time.name": "Selective Displacement Time",
+    "mahoutsukai.config.show_selected_entity.name": "Show Selected Entity"
 }

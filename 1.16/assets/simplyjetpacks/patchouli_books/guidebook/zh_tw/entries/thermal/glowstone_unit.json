@@ -1,0 +1,18 @@
+{
+  "name": "Glowstone Elevation Unit",
+  "icon": "simplyjetpacks:unit_glowstone",
+  "category": "simplyjetpacks:thermal",
+  "flag": "mod:thermal",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "This is the Glowstone Elevation Unit. It can be filled with liquid Glowstone using the Fluid Encapsulator from Thermal Series."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "simplyjetpacks:thermal/unit_glowstone_empty",
+      "text": "This is the recipe."
+    }
+  ]
+}

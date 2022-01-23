@@ -6,13 +6,13 @@
   "read_by_default": true,
   "pages": [
     {
-      "type": "text",
+      "type": "patchouli:text",
       "text": "This is the Iron Armor Plating"
     },
     {
-      "type": "crafting",
+      "type": "patchouli:crafting",
       "recipe": "simplyjetpacks:ie/armorplating_ie2",
-      "text": "This is a test entry, but it should show up!"
+      "text": "This is the recipe."
     }
   ]
 }

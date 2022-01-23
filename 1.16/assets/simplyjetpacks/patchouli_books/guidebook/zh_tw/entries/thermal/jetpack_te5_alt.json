@@ -1,0 +1,41 @@
+{
+  "name": "Flux-Infused JetPlate",
+  "icon": "simplyjetpacks:jetpack_te5",
+  "category": "simplyjetpacks:thermal",
+  "flag": "mod:thermal",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "This is the Flux-Infused JetPlate. The next few pages will tell you how to craft it if you do not have Redstone Arsenal installed."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyjetpacks:jetpack_te5"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "You will need to craft some custom Flux Armor Plating."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "simplyjetpacks:thermal/armorplating_te5"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "You will also need to craft a custom Flux Chestplate."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "simplyjetpacks:thermal/flux_chestplate"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "This recipe is used when Redstone Arsenal is not installed."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "simplyjetpacks:thermal/jetpack_te5_alt"
+    }
+  ]
+}

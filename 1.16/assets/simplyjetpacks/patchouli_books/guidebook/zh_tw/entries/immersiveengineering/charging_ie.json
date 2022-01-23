@@ -6,11 +6,11 @@
   "read_by_default": true,
   "pages": [
     {
-      "type": "text",
+      "type": "patchouli:text",
       "text": "The following items can be used to charge the jetpacks."
     },
     {
-      "type": "spotlight",
+      "type": "patchouli:spotlight",
       "item": "immersiveengineering:charging_station",
       "text": "This can be used to charge the jetpacks."
     }

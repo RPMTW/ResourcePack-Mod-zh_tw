@@ -2,7 +2,7 @@
 	"name": "Somnium",
 	"icon": "theabyss:somnium",
 "category": "somnium",
-"advancement": "theabyss:loran_adv",
+"advancement": "minecraft:adventure/sleep_in_bed",
 
 	"priority":false,
 	"secret":false,
@@ -29,7 +29,7 @@
 						[" "]
 					],
 					"mapping": {
-						"A": "theabyss:loranflower"
+						"A": "theabyss:loran_flower"
 					}
 				}
 			}

@@ -1,0 +1,26 @@
+{
+	"name": "Anti Infect Essence",
+	"icon": "theabyss:anti_infect_essence",
+"category": "alchemy",
+"advancement": "minecraft:adventure/sleep_in_bed",
+
+	"priority":false,
+	"secret":false,
+	"read_by_default":false,
+
+
+	"pages": [
+		{
+			"type": "spotlight",
+			"item": "theabyss:anti_infect_essence",
+			"title": "Anti Infect Essence",
+			"link_recipe":false,
+			"text": "The Anti Infect Essence is required to survive in the abyss dimension. You inhale poisonous spores which can lead to persistent diseases. once you are infected it will not be long before you suffer an agonizing slow death. once you are in the abyss dimension quickly craft two to four of these essences to be able to breathe the poisonous air."
+		},
+		{
+			"type": "text",
+			"title": "Crafting",
+			"text": "This essence can be crafted in a Somnium Infuser and requires loran energy and somnium."
+		}
+	]
+}
