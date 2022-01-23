@@ -26,5 +26,6 @@
     "loottweaker.config.warnings.newTableMinecraftNamespace": "newTable() Minecraft Namespace",
     "loottweaker.config.workarounds.category": "Workarounds",
     "loottweaker.config.workarounds.forceInitClasses": "Classes to force initialise",
-    "loottweaker.config.lastCfgVersion": "Do not touch!"
+    "loottweaker.config.lastCfgVersion": "Do not touch!",
+    "loottweaker.config.deprecationWarnings": "Should LootTweaker warn about deprecated methods on world load? Resets if the version of LootTweaker is changed."
 }

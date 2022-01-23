@@ -30,5 +30,6 @@
     "reborncore.gui.tooltip.energy_storage_redstone_mode_5": "Redstone Behavior: Do not output energy",
     "reborncore.gui.tooltip.energy_storage_redstone_mode_6": "Redstone Behavior: Do not output energy unless full",
     "reborncore.gui.slotconfigtip.slot": "Click on slot to configure.",
-    "reborncore.gui.slotconfigtip.side": "Ctrl+C to copy slot config, Ctrl+V to paste slot config."
+    "reborncore.gui.slotconfigtip.side": "Ctrl+C to copy slot config, Ctrl+V to paste slot config.",
+    "item.reborncore:manual.name": "Team Reborn Manual"
 }

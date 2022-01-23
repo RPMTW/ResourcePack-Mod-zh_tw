@@ -841,5 +841,8 @@
     "death.attack.xat.water": "%1$s died to %2$s while wearing an Ender Queen's Crown",
     "attribute.name.xat.jump": "Jump",
     "attribute.name.xat.stepheight": "Step Height",
-    "attribute.name.xat.entityMagic.regen": "MP Regen"
+    "attribute.name.xat.entityMagic.regen": "MP Regen",
+    "xat.tooltip.reach": "Reach",
+    "xat.config.polarized_stone.repel.range": "Polarized Repel Range",
+    "xat.config.polarized_stone.repel.range.tooltip": "The Distance from the player to repel entities"
 }

@@ -32,5 +32,8 @@
     "tooltip.jeiintegration.registryName": "ID:",
     "tooltip.jeiintegration.maxStackSize": "Max Stack Size:",
     "tooltip.jeiintegration.oreDict": "Ore Dictionary Entries:",
-    "tooltip.jeiintegration.unlocalizedName": "Unloc. Name:"
+    "tooltip.jeiintegration.unlocalizedName": "Unloc. Name:",
+    "config.jeiintegration.tooltips.internalNameTooltipMode": "Internal Name Tooltip",
+    "config.jeiintegration.tooltips.internalNameTooltipMode.comment": "Configure the state of the internal name tooltip.",
+    "tooltip.jeiintegration.internalName": "ID:"
 }

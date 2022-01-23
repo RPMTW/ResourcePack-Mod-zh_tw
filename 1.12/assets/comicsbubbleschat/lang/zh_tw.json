@@ -1,4 +1,24 @@
 {
     "  \"text.config.maxstackbubbles\": \"Max bubbles stackable (0 ": "∞)\",",
-    "  \"text.config.maxlinewidth\": \"Max line width (min ": "50)\",\n  \"text.config.enablebubble\": \"Enable Bubbles\",\n  \"text.config.enablethroughblock\": \"Transparency Through Block (like username)\",\n  \"text.config.forceformatchat\": \"Force chat format (if the bubbles do not appear)\",\n  \"text.config.duration.suffix\": \"seconds\",\n  \"text.config.duration.prefix\": \"Duration bubbles\",\n  \"text.config.sizebubble.prefix\": \"Size of bubbles\",\n  \"text.config.range.prefix\": \"Receiving Distance Bubble\",\n  \"text.mustbeplayer\" : \"You must be a player to use this command !\",\n  \"text.config.nolinked\": \"The mod is not linked to at server, the bubbles will not appear !\"\n}"
+    "  \"text.config.maxlinewidth\": \"Max line width (min ": "50)\",\n  \"text.config.enablebubble\": \"Enable Bubbles\",\n  \"text.config.enablethroughblock\": \"Transparency Through Block (like username)\",\n  \"text.config.forceformatchat\": \"Force chat format (if the bubbles do not appear)\",\n  \"text.config.duration.suffix\": \"seconds\",\n  \"text.config.duration.prefix\": \"Duration bubbles\",\n  \"text.config.sizebubble.prefix\": \"Size of bubbles\",\n  \"text.config.range.prefix\": \"Receiving Distance Bubble\",\n  \"text.mustbeplayer\" : \"You must be a player to use this command !\",\n  \"text.config.nolinked\": \"The mod is not linked to at server, the bubbles will not appear !\"\n}",
+    "key.comicsbubbleschat.category": "Comics Bubbles Chat",
+    "key.openoptions.desc": "Gui Options",
+    "key.openguitext.desc": "Gui Text",
+    "text.red": "Red",
+    "text.green": "Green",
+    "text.blue": "Blue",
+    "text.alpha": "Transparency",
+    "text.config.title": "Options Comics Bubbles Chat",
+    "text.config.outline": "Outline color option",
+    "text.config.inside": "Inside color option",
+    "text.config.text": "Text color option",
+    "text.config.test": "This is a test !",
+    "text.config.resetcolor": "Reset color",
+    "text.config.resetduration": "Reset duration",
+    "text.config.resetstack": "Reset max bubbles stackable",
+    "text.config.resetlinewidth": "Reset max line width",
+    "text.config.clearbubbles": "Remove current bubbles\ntext.config.maxstackbubbles=Max bubbles stackable (0 = ∞)\ntext.config.maxlinewidth=Max line width (min = 50)",
+    "text.config.duration.suffix": "seconds",
+    "text.config.duration.prefix": "Duration bubbles",
+    "text.config.nolinked": "The mod is not linked to at server, the bubbles will not appear !"
 }

@@ -1,6 +1,6 @@
 {
-    "key.reelIn": "Tension Line Left",
-    "key.reelOut": "Tension Line Right",
+    "key.reelIn": "Reel In",
+    "key.reelOut": "Reel Out",
     "key.fishingmadebetter.category": "Fishing Made Better",
     "itemGroup.tabFishingMadeBetter": "Fishing Made Better",
     "fishingmadebetter.subtitle.reeling": "Reeling",
@@ -45,5 +45,11 @@
     "notif.fishingmadebetter.bite": "A bite!",
     "notif.fishingmadebetter.tracker.nohand": "You must be holding a fish tracker either in your main hand or your off hand",
     "notif.fishingmadebetter.tracker.twohand": "You cannot hold fish trackers in both hands",
-    "notif.fishingmadebetter.tracker.finish": "You have finished tracking"
+    "notif.fishingmadebetter.tracker.finish": "You have finished tracking",
+    "item.fishingmadebetter.knife.name": "Knife",
+    "item.fishingmadebetter.scale_remover.name": "Fish Scale Remover",
+    "item.fishingmadebetter.fish_tracker.name": "Fish Tracker",
+    "item.fishingmadebetter.basic_fishing_rod.name": "Basic Fishing Rod",
+    "item.fishingmadebetter.iron_fishing_rod.name": "Iron Fishing Rod",
+    "item.fishingmadebetter.diamond_fishing_rod.name": "Diamond Fishing Rod"
 }
