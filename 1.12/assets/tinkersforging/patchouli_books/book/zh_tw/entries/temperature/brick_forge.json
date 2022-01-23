@@ -1,0 +1,17 @@
+{
+    "name": "Brick Forge",
+    "icon": "tinkersforging:forge",
+    "category": "temperature",
+    "pages": [
+        {
+            "type": "text",
+            "text": "The brick forge is a refined method for heating items. It burns solid fuel similar to a furnace to heat up any items in its top three slots. To use, place some fuel in the bottom slot, the right click with any fire starting device. The forge will start burning and consume fuel. As it burns, the temperature will increase, heating up any items in the forge's top slots."
+        },
+        {
+            "type": "crafting",
+            "recipe": "tinkersforging:brick_forge",
+            "text": "For the Sophisticated Tinkerer",
+            "link_recipe": true
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Tinker's Anvil",
+    "icon": "tinkersforging:tinkers_anvil/iron",
+    "category": "forging",
+    "pages": [
+        {
+            "type": "text",
+            "text": "The Tinker's Anvil is the key block necessary for forging. It can be crafted out of most tool metals, including iron, gold and diamond. For a detailed guide on how to use the anvil to forge items, see $(l:forging/getting_started)The Art of Forging$()"
+        },
+        {
+            "type": "crafting",
+            "recipe": "tinkersforging:anvil_iron",
+            "recipe2": "tinkersforging:anvil_gold"
+        }
+    ]
+}

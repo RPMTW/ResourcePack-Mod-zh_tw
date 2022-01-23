@@ -1,0 +1,19 @@
+{
+    "name": "Tinker's Construct",
+    "icon": "tconstruct:pick_head{Material:'Iron'}",
+    "category": "items",
+    "pages": [
+        {
+            "type": "text",
+            "text": "All tool parts from Tinker's Construct can be forged using the Tinker's Anvil. They require the same amount of ingots that they would if they were casted. Additionally, when you cast an ingot from a Tinker's Construct smeltery, it will come out of the mold piping hot, meaning you don't need to initially heat up an ingot if it was casted."
+        },
+        {
+            "type": "image",
+            "images": [
+                "tinkersforging:textures/guide/tinkers_smeltery.png"
+            ],
+            "text": "A Smeltery. I think."
+        }
+    ],
+    "flag": "modid:tconstruct"
+}

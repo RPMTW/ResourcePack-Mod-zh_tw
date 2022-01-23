@@ -1,0 +1,22 @@
+{
+    "name": "Getting Started",
+    "icon": "tinkersforging:hammer/iron",
+    "category": "forging",
+    "pages": [
+        {
+            "type": "text",
+            "text": "To get started forging, you will need to acquire several items. The first being a $(l:forging/tinkers_anvil)Tinker's Anvil$(), along with a $(l:items/tinkers_hammer)Hammer$(). Make sure that the tier of your anvil is at least as high as the tier of the item you want to create. Then you will need a method to heat up your items, some ingots to forge, and you can begin!"
+        },
+        {
+            "type": "image",
+            "images": [
+                "tinkersforging:textures/guide/tinkers_anvil.png"
+            ],
+            "text": "\"What in tarnation do all these buttons do!\" - Old Man McGucket"
+        },
+        {
+            "type": "text",
+            "text": "To work an item, you first need to heat it up. Different metals have different temperatures or colors at which they become workable. You can heat up items in a $(l:temperature/charcoal_forge)Charcoal Forge$() or the $(l:temperature/brick_forge)Brick Forge$(). However, be warned: Most items will melt if they get too hot, meaning you have to watch the temperature of your items carefully."
+        }
+    ]
+}

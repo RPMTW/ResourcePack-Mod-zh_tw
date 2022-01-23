@@ -1,0 +1,35 @@
+{
+    "name": "Armor",
+    "icon": "minecraft:iron_chestplate",
+    "category": "items",
+    "pages": [
+        {
+            "type": "text",
+            "text": "The Tinker's Anvil can also be used to forge armor pieces. Most modded metals are supported, meaning you can forge Helmets, Chestplates, Leggings, and Boots from various mods or metals."
+        },
+        {
+            "type": "spotlight",
+            "item": "minecraft:iron_helmet",
+            "title": "Helmets",
+            "text": "Any metal helmet requires five ingots to forge. The default rules for forging it are: Bend Last, Bend Second Last, and Hit Third Last."
+        },
+        {
+            "type": "spotlight",
+            "item": "minecraft:iron_chestplate",
+            "title": "Chestplates",
+            "text": "Any metal chestplate requires eight ingots to forge. The default rules for forging it are: Hit Last, Bend Any, and Upset Any."
+        },
+        {
+            "type": "spotlight",
+            "item": "minecraft:iron_leggings",
+            "title": "Leggings",
+            "text": "Any metal leggings require seven ingots to forge. The default rules for forging them are: Hit Any, Bend Any, and Draw Any."
+        },
+        {
+            "type": "spotlight",
+            "item": "minecraft:iron_boots",
+            "title": "Boots",
+            "text": "Any metal boots require four ingots to forge. The default rules for forging them are: Bend Last, Bend Second Last, and Shrink Third Last."
+        }
+    ]
+}
