@@ -17,6 +17,8 @@ jobs:
             gameVersion: "1.16"
           - ref: Original-1.17
             gameVersion: "1.17"
+          - ref: Original-1.18
+            gameVersion: "1.18"
       max-parallel: 1
       fail-fast: false
 
