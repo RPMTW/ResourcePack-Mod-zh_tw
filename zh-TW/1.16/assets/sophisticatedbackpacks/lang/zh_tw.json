@@ -307,5 +307,16 @@
     "gui.sophisticatedbackpacks.settings.memory.tooltip_open_detail": "能夠讓這個欄位記住它所對應的物品，而且這個欄位只能放對應的物品\n全選欄位/取消選擇全部欄位=按鈕\n選擇欄位=左鍵點擊/左鍵拖動\n取消選擇欄位=右鍵點擊/拖動",
     "gui.sophisticatedbackpacks.narrate.tab_button": "Upgrade tab open/close button",
     "gui.sophisticatedbackpacks.narrate.context_button": "Context toggle set to: %s",
-    "gui.sophisticatedbackpacks.narrate.context_button.usage": "Click to toggle context"
+    "gui.sophisticatedbackpacks.narrate.context_button.usage": "Click to toggle context",
+    "gui.sophisticatedbackpacks.settings.item_display": "物品展示",
+    "gui.sophisticatedbackpacks.settings.item_display.tooltip": "物品展示設定",
+    "gui.sophisticatedbackpacks.settings.item_display.tooltip_detail": "Allows selecting a slot that will be used to show its item on top of backpack model",
+    "gui.sophisticatedbackpacks.settings.item_display.tooltip_open_detail": "Allows selecting a slot that will be used to show its item on top of backpack model\nSelect slot = left click/drag\nUnselect slot = right click/drag",
+    "gui.sophisticatedbackpacks.upgrades.buttons.void_overflow": "Void Overflow",
+    "gui.sophisticatedbackpacks.upgrades.buttons.void_overflow.detail": "Allows single slot to be filled with the item and voids anything that overflows",
+    "gui.sophisticatedbackpacks.upgrades.buttons.void_any": "Void Any",
+    "gui.sophisticatedbackpacks.upgrades.buttons.mend_items": "Repair Items With Mending",
+    "gui.sophisticatedbackpacks.upgrades.buttons.do_not_mend_items": "Do Not Repair Items",
+    "gui.sophisticatedbackpacks.settings.buttons.rotate": "旋轉",
+    "gui.sophisticatedbackpacks.settings.buttons.rotate_detail": "Clockwise = Left Click\nCounter-Clockwise = Right Click"
 }
