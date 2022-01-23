@@ -94,8 +94,8 @@
     "config.jei.advanced.giveMode": "Give Mode",
     "config.jei.advanced.giveMode.comment": "Choose if JEI should give ingredients direct to the inventory (inventory) or pick them up with the mouse (mouse_pickup).",
     "gui.jei.editMode.description": "JEI Hide Ingredients Mode:",
-    "gui.jei.editMode.description.hide": "%s-click to hide",
-    "gui.jei.editMode.description.hide.wild": "%s-right-click to hide by wildcard",
+    "gui.jei.editMode.description.hide": "%s to hide",
+    "gui.jei.editMode.description.hide.wild": "%s to hide by wildcard",
     "key.jei.ctrl": "CTRL",
     "key.jei.ctrl.mac": "CMD",
     "gui.jei.category.craftingTable": "Crafting",
@@ -142,5 +142,11 @@
     "jei.key.category.search": "JEI (Search Filter)",
     "key.jei.clearSearchBar": "Clear the Search Filter",
     "key.jei.previousSearch": "Previous Search in History",
-    "key.jei.nextSearch": "Next Search in History"
+    "key.jei.nextSearch": "Next Search in History",
+    "jei.tooltip.cheat.mode.how.to.disable.hover.config.button.hotkey": "%s here to toggle it.",
+    "key.jei.toggleCheatModeConfigButton": "Toggle Cheat Mode (when hovering over config button)",
+    "key.jei.cheatOneItem2": "Cheat 1 item",
+    "jei.key.category.edit.mode": "JEI (Edit Mode)",
+    "key.jei.toggleHideIngredient": "Hide an ingredient",
+    "key.jei.toggleWildcardHideIngredient": "Hide an ingredient using wildcard matching"
 }
