@@ -105,5 +105,10 @@
     "option.modmenu.mods_button_style.classic": "Below Realms",
     "option.modmenu.mods_button_style.replace_realms": "Replace Realms",
     "option.modmenu.mods_button_style.shrink": "Adjacent",
-    "option.modmenu.mods_button_style.icon": "Icon"
+    "option.modmenu.mods_button_style.icon": "Icon",
+    "modmenu.searchTerms.library": "api library",
+    "modmenu.searchTerms.patchwork": "patchwork forge fml",
+    "modmenu.searchTerms.deprecated": "deprecated outdated old",
+    "modmenu.searchTerms.clientside": "clientside gameside",
+    "modmenu.searchTerms.configurable": "configurations configs configures configurable options"
 }

@@ -259,7 +259,7 @@
     "item.gobber2.gobber2_ring_blaze.line2": "Works while in player main hand",
     "item.gobber2.gobber2_ring_pyro": "Ring of the Pyro",
     "item.gobber2.gobber2_ring_pyro.line1": "Causes hostile mobs to spontaneously combust",
-    "item.gobber2.gobber2_ring_pyro.line2": "Works while in player inventory",
+    "item.gobber2.gobber2_ring_pyro.line2": "Works while in player mainn hand",
     "item.gobber2.gobber2_ring_explorer": "Ring of the Explorer",
     "item.gobber2.gobber2_ring_explorer.line1": "Teleports the player to a random location.",
     "item.gobber2.gobber2_ring_explorer.line2": "Min/max search range: %s %s",
@@ -509,5 +509,16 @@
     "advancements.gobber2.gobber2_sword_end.desc": "Craft a End Gobber Sword",
     "advancements.gobber2.gobber2_sword_sniper.title": "It's a Sword and A Bow!",
     "advancements.gobber2.gobber2_sword_sniper.desc": "Craft a Sword of the Sniper",
-    "itemGroup.gobber2": "Gobber 2"
+    "itemGroup.gobber2": "Gobber 2",
+    "tetra.material.gobber": "Gobber",
+    "tetra.material.gobber.prefix": "Gobber",
+    "tetra.material.gobber_nether": " Nether Gobber",
+    "tetra.material.gobber_nether.prefix": "Nether Gobber",
+    "tetra.material.gobber_end": "End Gobber",
+    "tetra.material.gobber_end.prefix": "End Gobber",
+    "tetra.improvement.bleeding.name": "Bleeding",
+    "tetra.improvement.backstab.name": "Backstab",
+    "tetra.improvement.enderReverb.name": "Ender Reverb",
+    "tetra.improvement.unbreaking.name": "Unbreaking",
+    "tetra.improvement.criticalStrike.name": "Critical Strike"
 }

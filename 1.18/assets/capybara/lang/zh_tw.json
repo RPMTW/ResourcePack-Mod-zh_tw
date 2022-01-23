@@ -5,5 +5,8 @@
     "subtitle.capybara.capybara.hurt": "Capybara hurts",
     "subtitle.capybara.capybara.death": "Capybara dies",
     "text.autoconfig.capybara.title": "Capybara Config",
-    "text.autoconfig.capybara.option.debugMode": "Debug Mode"
+    "text.autoconfig.capybara.option.debugMode": "Debug Mode",
+    "text.autoconfig.capybara.option.spawnWeight": "Capybara Spawn Weight",
+    "text.autoconfig.capybara.option.minGroupSize": "Capybara Min Group Size",
+    "text.autoconfig.capybara.option.maxGroupSize": "Capybara Max Group Size"
 }

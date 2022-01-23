@@ -46,7 +46,7 @@
     "screen.utilitix.crude_furnace": "Crude Furnace",
     "tooltip.utilitix.blacklisted_mob": "This mob is blacklisted",
     "tooltip.utilitix.current_mob": "Current Mob",
-    "tooltip.utilitix.no_mob": "Shift-rightclick a mob to bind the bell",
+    "tooltip.utilitix.no_mob": "Shift-rightclick a mob to bind it",
     "tooltip.utilitix.invalid_link": "Not Linked",
     "tooltip.utilitix.valid_link": "Linked: %s",
     "tooltip.utilitix.signal_strength": "Signal strength: %s",
@@ -91,5 +91,8 @@
     "description.utilitix.crude_furnace": "This furnace smelts everything a normal furnace can smelt if the Smoker and Blast Furnace cannot smelt this item. It is twice as fast as the normal furnace recipe but only provides the half experience.",
     "jei.utilitix.gilding": "Gilding",
     "jade.utilitix.experience_crystal.level": "Level: ",
-    "jade.utilitix.experience_crystal.xp": "XP points: "
+    "jade.utilitix.experience_crystal.xp": "XP points: ",
+    "block.utilitix.dimmable_redstone_lamp": "Dimmable Redstone Lamp",
+    "item.utilitix.mob_yoinker": "Mob Yoinker",
+    "utilitix.map_saved": "Saved map here: %s"
 }

@@ -27,5 +27,8 @@
     "tooltip.pylons.no_effect2": "to apply it to the card.",
     "tooltip.pylons.no_player": "Right-click on a player to select them.",
     "tooltip.pylons.player": "Player: %s",
-    "tooltip.pylons.progress": "Progress: %d/%d seconds"
+    "tooltip.pylons.progress": "Progress: %d/%d seconds",
+    "gui.pylons.toggleWork": "Working status",
+    "gui.pylons.workArea": "Work area (in chunks)",
+    "tooltip.pylons.effect_denied": "Effect is disabled in the config."
 }

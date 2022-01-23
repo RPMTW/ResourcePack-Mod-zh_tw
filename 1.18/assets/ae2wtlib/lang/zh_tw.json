@@ -35,5 +35,8 @@
     "text.autoconfig.ae2wtlib.option.outOfRangePowerMultiplier.@Tooltip": "If this is lower than 1, being in range of a Wireless Access Point would use more power in some cases.",
     "text.autoconfig.ae2wtlib.option.magnetCardRange.@Tooltip": "",
     "text.autoconfig.ae2wtlib.option.enableTrinket.@Tooltip[0]": "This will break things if it is different than a server you might connect to.",
-    "text.autoconfig.ae2wtlib.option.enableTrinket.@Tooltip[1]": "It is only effective if Trinkets is installed."
+    "text.autoconfig.ae2wtlib.option.enableTrinket.@Tooltip[1]": "It is only effective if Trinkets is installed.",
+    "gui.ae2wtlib.slot.infinity_booster_card.desc": "Infinity Booster Card",
+    "gui.ae2wtlib.slot.magnetcard.desc": "Magnet Card",
+    "text.autoconfig.ae2wtlib.option.wutBatterySizeMultiplier": "Wireless Universal Terminal Battery Size Multiplier"
 }

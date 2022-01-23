@@ -58,5 +58,17 @@
     "info.jei.item.missilecloserange": "Specs:\n    Range: 3,000 Blocks",
     "info.jei.item.missilemediumrange": "Specs:\n    Range: 10,000 Blocks",
     "info.jei.item.missilelongrange": "Specs:\n    Range: Unlimited",
-    "info.jei.item.rocketlauncher": "Hold the Rocket Launcher in your hand. You will also need a Close-Range Missile and any type of Ballistix explosive in your inventory (or on your hotbar). Then, fire away!"
+    "info.jei.item.rocketlauncher": "Hold the Rocket Launcher in your hand. You will also need a Close-Range Missile and any type of Ballistix explosive in your inventory (or on your hotbar). Then, fire away!",
+    "item.ballistix.tracker": "Tracker",
+    "item.ballistix.scanner": "Scanner",
+    "message.scanner.cleared": "Cleared trackers!",
+    "message.scanner.none": "There were no trackers!",
+    "jei.gui.warheadtemplate": "Launch Silo Layout",
+    "jei.gui.warheadtemplate.info.missile": "Any Missile",
+    "jei.gui.warheadtemplate.info.explosive": "Any Explosive",
+    "jei.info.item.missilesilo": "Can launch any missile loaded with any warhead. Enter the coordiantes by hand or using a radar gun, and launch using a redstone signal!",
+    "jei.info.item.missilecloserange": "Specs:\n    Range: 3,000 Blocks",
+    "jei.info.item.missilemediumrange": "Specs:\n    Range: 10,000 Blocks",
+    "jei.info.item.missilelongrange": "Specs:\n    Range: Unlimited",
+    "jei.info.item.rocketlauncher": "Hold the Rocket Launcher in your hand. You will also need a Close-Range Missile and any type of Ballistix explosive in your inventory (or on your hotbar). Then, fire away!"
 }
