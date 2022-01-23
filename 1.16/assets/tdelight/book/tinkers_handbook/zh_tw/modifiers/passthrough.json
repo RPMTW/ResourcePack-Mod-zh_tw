@@ -1,0 +1,17 @@
+{
+  "modifier_id": "tdelight:passthrough",
+  "text": [
+    {
+      "text": "Ah... Thruul, never change."
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "This simplified fluid pump replenishes the Calefacient Exchanger �cHeart�r with any fuels that find themselves stranded in auxiliary reservoirs."
+    }
+  ],
+  "effects": [
+    "Drains fuel from the Melting modifier, or other similar internal tanks."
+  ]
+}
