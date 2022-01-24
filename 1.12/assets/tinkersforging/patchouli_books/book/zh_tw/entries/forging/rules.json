@@ -1,0 +1,15 @@
+{
+    "name": "Working Rules",
+    "icon": "tinkersforging:textures/guide/progress_indicator_icon.png",
+    "category": "forging",
+    "pages": [
+        {
+            "type": "text",
+            "text": "Forging consists of trying to line up the green progress indicator with the red target indicator by using the different working buttons (Hitting, Bending, Punching, etc.). Additionally, you have to satisfy the rules for the item you are creating. Note that when you work an item, its progress gets saved - meaning you can take it out to re-heat without loosing the working progress of the item."
+        },
+        {
+            "type": "text",
+            "text": "To complete a forging recipe, you must also satisfy up to three additional rules. These appear in the center of the GUI, right above three indicators which show your last three moves. Rules add restrictions on your last three moves. For instance: \"Hit Last\": The last move you do must be a type of hit (Small Medium or Light). All rules consist of a type of move (Hit, Draw, Punch, Bend, Upset, Shrink) and an ordering (Last, Second Last, Third Last, Not Last, Any)"
+        }
+    ]
+}

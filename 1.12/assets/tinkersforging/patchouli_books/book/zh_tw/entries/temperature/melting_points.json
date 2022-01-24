@@ -1,0 +1,39 @@
+{
+    "name": "Temperature Guide",
+    "icon": "tinkersforging:textures/guide/temperature_icon.png",
+    "category": "temperature",
+    "pages": [
+        {
+            "type": "text",
+            "text": "All metals have a different temperature at which they are workable, and another temperature at which they will melt. The next few pages show working and melting points of common metals.$(br2)"
+        },
+        {
+            "type": "text",
+            "text": "Note: based on your tooltip setting (Advanced vs. Normal) these temperatures will show in exact values (i.e. 23.5 C) or color indicators (i.e. $(dark red) or $(yellow white))"
+        },
+        {
+            "type": "text",
+            "title": "Working Temperature",
+            "text": "$(li)100 C - Tin$(li)200 C - Lead$(li)250 C - Zinc, Pig Iron$(li)450 C - Aluminium$(li)600 C - Copper$(li)650 C - Electrum, Brass$(li)700 C - Bronze, Silver, Gold$(li)950 C - Steel$(li)1150 C - Nickel, Invar$(li)1100 C - Cobalt, Iron$(li)1400 C - Ardite, Manyullyn, Mithril, Diamond",
+            "flag": "tinkersforging:tooltip_advanced"
+        },
+        {
+            "type": "text",
+            "title": "Melting Temperature",
+            "text": "$(li)300 C - Tin$(li)350 C - Lead$(li)400 C - Zinc, Pig Iron$(li)700 C - Aluminium$(li)900 C - Electrum, Brass$(li)950 C - Bronze, Silver$(li)1000 C - Copper$(li)1100 C - Gold$(li)1350 C - Steel$(li)1450 C - Nickel, Invar$(li)1600 C - Cobalt, Iron$(li)2100 C - Ardite, Manyullyn$(li)3200 C - Mithril$(li)4700 C - Diamond",
+            "flag": "tinkersforging:tooltip_advanced"
+        },
+        {
+            "type": "text",
+            "title": "Working Temperature",
+            "text": "$(li)$(very hot) - Tin$(li)$(dark red) - Lead$(li)$(dark red)* - Zinc, Pig Iron$(li)$(red)* - Aluminium$(li)$(bright red) - Copper$(li)$(bright red)* - Electrum, Brass$(li)$(bright red)** - Bronze, Silver, Gold$(li)$(orange)* - Steel$(li)$(yellow) - Nickel, Invar$(li)$(yellow)* - Cobalt, Iron$(li)$(white)* - Ardite, Manyullyn, Mithril, Diamond",
+            "flag": "!tinkersforging:tooltip_advanced"
+        },
+        {
+            "type": "text",
+            "title": "Melting Temperature",
+            "text": "$(li)$(dark red)** - Tin$(li)$(dark red)*** - Lead$(li)$(red) - Zinc, Pig Iron$(li)$(bright red)** - Aluminium$(li)$(orange) - Electrum, Brass$(li)$(orange)* - Bronze, Silver$(li)$(orange)** - Copper$(li)$(yellow) - Gold$(li)$(white) - Steel$(li)$(white)*** - Nickel, Invar$(li)Too high - Cobalt, Iron, Ardite, Manyullyn, Mithril, Diamond",
+            "flag": "!tinkersforging:tooltip_advanced"
+        }
+    ]
+}

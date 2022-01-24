@@ -1,0 +1,12 @@
+{
+    "name": "Construct's Armory",
+    "icon": "conarm:chest_core{Material:'Iron'}",
+    "category": "items",
+    "pages": [
+        {
+            "type": "text",
+            "text": "All armor parts from Construct's Armor are able to be forged in the Tinker's Anvil. They require the same amount of ingots as if they were casted. Recipes and Forging Rules can be seen if you are using JEI, or in the GUI of the Tinker's Anvil."
+        }
+    ],
+    "flag": "modid:conarm"
+}
