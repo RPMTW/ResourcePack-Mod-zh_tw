@@ -1,5 +1,5 @@
 {
-  "name": "Carrot Recipes",
+  "name": "胡蘿蔔配方",
   "icon": "mysticalworld:cooked_carrot",
   "category": "cuisine",
   "pages": [
@@ -7,13 +7,13 @@
       "type": "spotlight",
       "link_recipe": true,
       "item": "mysticalworld:cooked_carrot",
-      "text": "Like beetroots, carrots can also be roasted."
+      "text": "類似甜菜根，胡蘿蔔也能烤著吃。"
     },
     {
       "type": "smelting",
       "recipe": "minecraft:carrot",
-      "title": "Cooked Carrot",
-      "text": "Carrots can be cooked slowly in a furnace."
+      "title": "烤胡蘿蔔",
+      "text": "胡蘿蔔可以在熔爐裡細火慢烤。"
     }
   ]
 }
