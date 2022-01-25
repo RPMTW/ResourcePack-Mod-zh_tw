@@ -1,22 +1,22 @@
 {
-    "name": "岩漿山貓",
+    "name": "熔岩貓",
     "icon": "minecraft:lava_bucket",
     "category": "creatures",
     "pages": [
         {
             "type": "animal_spawn_info",
             "animal": "lava_cat",
-            "breed": "用烈焰粉繁殖;",
-            "tame": "用烈焰桿馴服。",
-            "blurb": "接觸水會使它變為黑曜石山貓！"
+            "breed": "繁殖物品：烈焰粉。",
+            "tame": "馴服物品：烈焰桿。",
+            "blurb": "泡水後它們會變成黑曜石貓！"
         },
         {
             "type": "entity",
-            "name": "岩漿山貓",
+            "name": "熔岩貓",
             "entity": "mysticalworld:lava_cat",
             "scale": "0.5",
             "offset": "-0.3",
-            "text": "反過來，接觸岩漿會讓它變回來！"
+            "text": "相應的，讓黑曜石貓泡進熔岩能把它們變回去。"
         }
     ]
 }
