@@ -7,9 +7,9 @@
     {
       "type": "animal_spawn_info",
       "animal": "beetle",
-      "breed": "使用西瓜繁殖;",
-      "tame": "使用西瓜種子馴服。",
-      "blurb": "Sneak-right-clicking with an empty hand will allow you to place the beetle on your shoulder!"
+      "breed": "繁殖物品：西瓜。",
+      "tame": "馴服物品：西瓜種子。",
+      "blurb": "空手對甲蟲潛行右擊能將它們放在你的肩膀上！"
     },
     {
       "type": "entity",
@@ -17,7 +17,7 @@
       "entity": "mysticalworld:entity_beetle",
       "scale": "1.5",
       "offset": "-0.3",
-      "text": "Sneak-right-click again with an empty hand to put them down."
+      "text": "再次空手潛行右擊能放它們下來。"
     }
   ]
 }
