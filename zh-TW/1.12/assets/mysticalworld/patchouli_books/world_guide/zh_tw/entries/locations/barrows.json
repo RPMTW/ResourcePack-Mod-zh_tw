@@ -1,17 +1,17 @@
 {
-  "name": "墳墓",
+  "name": "古墳",
   "icon": "minecraft:stonebrick:1",
   "category": "locations",
   "pages": [
     {
       "type": "text",
-      "title": "墳墓",
-      "text": "曾經埋葬不死的地方，如今已經荒廢。$(br)你無法確定下面埋藏的是寶藏，還是亡魂。"
+      "title": "古墳",
+      "text": "曾經是埋葬死者之處，不過已經被廢棄多年。古墳中是否還有寶藏——甚至死者——仍是未知之數。"
     },
     {
       "type": "image",
-      "title": "一座墳墓",
-      "text": "有些值得探索的東西。",
+      "title": "一座古墳",
+      "text": "待探索的地點。",
       "images": [
         "mysticalworld:textures/barrow.png"
       ]
