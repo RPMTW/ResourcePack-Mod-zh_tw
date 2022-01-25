@@ -1,6 +1,6 @@
 {
   "name": "動物",
-  "icon": "twilightforest:wild_boar_spawn_egg",
+  "icon": "minecraft:spawn_egg:0{EntityTag:{id:\"twilightforest:wild_boar\"}}",
   "category": "entities",
   "advancement": "twilightforest:alt/entities/animals",
   "sortnum": 1100,
@@ -13,20 +13,8 @@
     },
     {
       "type": "entity",
-      "advancement": "twilightforest:alt/entities/bighorn_sheep",
-      "entity": "twilightforest:bunny",
-      "text": "things and stuff"
-    },
-    {
-      "type": "entity",
       "advancement": "twilightforest:alt/entities/bunny",
       "entity": "twilightforest:bunny",
-      "text": "things and stuff"
-    },
-    {
-      "type": "entity",
-      "advancement": "twilightforest:alt/entities/bunny",
-      "entity": "twilightforest:raven",
       "text": "things and stuff"
     },
     {
@@ -37,19 +25,31 @@
     },
     {
       "type": "entity",
-      "advancement": "twilightforest:alt/entities/deer",
-      "entity": "twilightforest:tiny_bird",
-      "text": "things and stuff"
-    },
-    {
-      "type": "entity",
       "advancement": "twilightforest:alt/entities/raven",
       "entity": "twilightforest:raven",
       "text": "things and stuff"
     },
     {
       "type": "entity",
-      "advancement": "twilightforest:alt/entities/raven",
+      "advancement": "twilightforest:alt/entities/squirrel",
+      "entity": "twilightforest:squirrel",
+      "text": "things and stuff"
+    },
+    {
+      "type": "entity",
+      "advancement": "twilightforest:alt/entities/wild_boar",
+      "entity": "twilightforest:tiny_bird",
+      "text": "things and stuff"
+    },
+    {
+      "type": "entity",
+      "advancement": "twilightforest:alt/entities/wild_boar",
+      "entity": "twilightforest:tiny_bird",
+      "text": "things and stuff"
+    },
+    {
+      "type": "entity",
+      "advancement": "twilightforest:alt/entities/penguin",
       "entity": "twilightforest:penguin",
       "text": "things and stuff"
     }
