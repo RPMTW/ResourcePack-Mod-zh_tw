@@ -2,7 +2,7 @@
     "loottweaker.commands.dump.desc": "§2/ct loottables [mode] <args>\\n§3轉儲特定的戰利品表(s)\\n§3to <game directory>/dumps",
     "loottweaker.commands.dump.usage": "用法：ct loottables [mode] <args>\\n模式：全部 | 目標 | 按名字 | 列表\\nArgs：無| 無 | 表名 | 無",
     "loottweaker.commands.dump.unknownSubcommand": "未知的子指令 %s",
-    "loottweaker.commands.dump.all.done": "完成!",
+    "loottweaker.commands.dump.all.done": "完成！",
     "loottweaker.commands.dump.all.exception": "An unexpected error occured while dumping %s. Check the game log for details.",
     "loottweaker.commands.dump.byName.missingName": "需要戰利品表名稱！",
     "loottweaker.commands.dump.byName.invalidName": "無效的戰利品表名稱！",
@@ -27,5 +27,5 @@
     "loottweaker.config.workarounds.category": "Workarounds",
     "loottweaker.config.workarounds.forceInitClasses": "Classes to force initialise",
     "loottweaker.config.lastCfgVersion": "不要碰！",
-    "loottweaker.config.deprecationWarnings": "Should LootTweaker warn about deprecated methods on world load? Resets if the version of LootTweaker is changed."
+    "loottweaker.config.deprecationWarnings": "LootTweaker 是否應警告世界負載的棄用方法？如果變更了LootTweaker的版本，則重置。"
 }
