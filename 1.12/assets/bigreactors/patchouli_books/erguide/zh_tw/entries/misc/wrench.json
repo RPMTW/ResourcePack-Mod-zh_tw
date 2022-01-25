@@ -5,11 +5,11 @@
     "read_by_default": true,
     "pages": [
         {
-            "type": "spotlight",
+            "type": "patchouli:spotlight",
             "item": "bigreactors:wrench",
             "link_recipe": true,
             "title" : "The Extreme Wrench",
-            "text": "The Extreme Wrench is.. hum.. a wrench.$(br2)You can use the change the input/output mode of parts like the Access Port or the Coolant Ports."
+            "text": "The Extreme Wrench is.. hum.. a wrench.$(br2)You can use the change the input/output mode of parts like the Access Port or the Fluid Ports.$(br2)The wrench is tagged as a Forge wrench so you should be able to use it in other mods too."
         }
     ]
 }

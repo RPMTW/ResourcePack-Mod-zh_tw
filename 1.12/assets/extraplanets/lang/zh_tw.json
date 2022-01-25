@@ -103,7 +103,7 @@
     "tile.mercury.ore_mercury.name": "Mercury Ore",
     "tile.mercury.stone_bricks.name": "Mercury Stone Bricks",
     "tile.mercury.mercury_block.name": "Block of Mercury",
-    "tile.mercury.ore_carbon.name": "Carbon Ore",
+    "tile.mercury.ore_carbon.name": "Mercury Carbon Ore",
     "tile.mercury.carbon_block.name": "Block of Carbon",
     "tile.mercury.dungeon_brick.name": "Mercury Dungeon Brick",
     "tile.ceres.surface.name": "Ceres Surface Rock",
@@ -490,7 +490,7 @@
     "gui.message.finding.block": "Can be found on",
     "gui.message.finding.volcanic.rock": "Jupiter & Io",
     "gui.message.finding.potash": "Mercury, deep underground",
-    "gui.message.decontamination.unit": "Reduces Radiation Level by 10%",
+    "gui.message.decontamination.unit": "Reduces Radiation Level by {PERCENT}",
     "gui.battery_slot.desc.custom": "Recommended to use a Massive Battery",
     "gui.radiation.cancel.message": "You can use Oxygen Sealers with a Ambient Thermal Controller upgrade for full protection from Radiation & Pressure",
     "currently.unused.name": "Currently Unused!",
@@ -1416,5 +1416,9 @@
     "item.t7key.name": "Tier 7 Dungeon Key",
     "item.t8key.name": "Tier 8 Dungeon Key",
     "item.t9key.name": "Tier 9 Dungeon Key",
-    "item.t10key.name": "Tier 10 Dungeon Key"
+    "item.t10key.name": "Tier 10 Dungeon Key",
+    "gui.module.basic_solar_panel.name": "Basic Portable Solar Panel",
+    "gui.module.advanced_solar_panel.name": "Advanced Portable Solar Panel",
+    "gui.module.basic_solar_panel.desc": "Very slowly recharger's your space suit during the day time",
+    "gui.module.advanced_solar_panel.desc": "Slowly recharger's your space suit during the day time"
 }
