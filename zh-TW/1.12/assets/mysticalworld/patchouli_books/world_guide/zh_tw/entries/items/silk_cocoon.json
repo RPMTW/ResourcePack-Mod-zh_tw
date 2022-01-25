@@ -7,7 +7,7 @@
       "type": "spotlight",
       "item": "mysticalworld:silk_cocoon",
       "link_recipe": true,
-      "text": "These cocoons are produced by $(l:creatures/silkworm)silkworms$() after a growing period. The growth process may be sped up by dropping leaves on the ground nearby, which the silkworms will then eat."
+      "text": "$(l:creatures/silkworm)蠶$()在生長一段時間後會產出這些繭。在它們附近的地面扔下樹葉餵食可以加速生長過程。"
     }
   ]
 }
