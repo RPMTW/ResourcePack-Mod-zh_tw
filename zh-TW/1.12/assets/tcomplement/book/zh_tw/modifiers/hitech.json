@@ -2,13 +2,13 @@
   "modifier": "hitech",
   "text": [
     {
-      "text": "The latest in futuristic chisel technology from iChisel"
+      "text": "來自未來的最新iChisel鑿子改造技術！"
     }
   ],
   "effects": [
-    "Apply to chisels",
-    "Futuristic UI",
-    "Can be combined with Width++ and Height++ for more chiseling modes"
+    "改進鑿子",
+    "使鑿子獲得iChisel屬性",
+    "使鑿子能像iChisel一樣，使用其GUI進行雕刻"
   ],
   "demoTool": [
     "tcomplement:chisel"
