@@ -1,11 +1,11 @@
 {
-  "title": "Alloy Tank",
+  "title": "合金儲罐",
   "image": {
     "file": "tcomplement:textures/gui/book/alloy_tank.png"
   },
   "text": [
     {
-      "text": "The Alloy Tank pulls liquids from adjecent tanks and melters to make alloys."
+      "text": "合金儲罐會從相鄰的焦黑容器中抽取液體並進一步加工為對應的合金。"
     }
   ]
 }
