@@ -1,0 +1,17 @@
+{
+    "demoTool": [
+        "tconstruct:scythe",
+        "tconstruct:kama"
+    ],
+    "effects": [
+        "Chance of extra harvest drops when harvesting crops",
+        "Increases mining level to obsidian",
+        "Works well on with Scythes"
+    ],
+    "modifier": "bountiful",
+    "text": [
+        {
+            "text": "Apatite, often used for fertilizer, can be applied to tools to increase the quantity of drops obtained from crops."
+        }
+    ]
+}
