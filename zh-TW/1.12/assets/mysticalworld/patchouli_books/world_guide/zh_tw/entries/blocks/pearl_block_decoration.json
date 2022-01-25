@@ -1,5 +1,5 @@
 {
-  "name": "Pearl Block Decorations",
+  "name": "珍珠塊裝飾",
   "icon": "mysticalworld:pearl_stairs",
   "category": "blocks",
   "pages": [
@@ -8,27 +8,27 @@
       "recipe": "mysticalworld:pearl_block",
       "recipe2": "mysticalworld:pearl_from_pearl_block",
       "link_recipe": true,
-      "text": "Pearl blocks require 9 pearls to craft, but can be uncrafted."
+      "text": "珍珠塊需要 9 個珍珠合成，而且可以還原成珍珠。"
     },
     {
       "type": "crafting",
       "recipe": "mysticalworld:pearl_stairs",
       "recipe2": "mysticalworld:pearl_slab",
       "link_recipe": true,
-      "title": "階梯 & 半磚"
+      "title": "階梯和半磚"
     },
     {
       "type": "crafting",
       "recipe": "mysticalworld:pearl_wall",
       "recipe2": "mysticalworld:pearl_fence",
       "link_recipe": true,
-      "title": "Walls & Fences"
+      "title": "牆和柵欄"
     },
     {
       "type": "crafting",
       "recipe": "mysticalworld:pearl_fence_gate",
       "link_recipe": true,
-      "title": "Fence Gates"
+      "title": "柵欄門"
     }
   ]
 }
