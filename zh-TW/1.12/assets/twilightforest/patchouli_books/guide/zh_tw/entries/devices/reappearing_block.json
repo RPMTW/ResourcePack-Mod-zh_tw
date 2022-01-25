@@ -1,6 +1,6 @@
 {
   "name": "重現方塊",
-  "icon": "twilightforest:tower_device:0",
+  "icon": "twilightforest:reappearing_block",
   "category": "devices",
   "advancement": "twilightforest:alt/treasures/carminite",
   "sortnum": 6200,
@@ -8,7 +8,7 @@
     {
       "type": "spotlight",
       "title": "重現方塊",
-      "item": "twilightforest:tower_device:0",
+      "item": "twilightforest:reappearing_block",
       "text": "這是個引人注目和耐人尋味的裝置。當我觸碰或給它一個紅石訊號時，它就會在我眼前消失。它似乎在一小段時間後就會恢復，但我想我永遠都無法理解為甚麼會這樣。"
     }
   ]
