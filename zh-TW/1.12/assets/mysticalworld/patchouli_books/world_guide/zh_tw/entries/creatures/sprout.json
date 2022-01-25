@@ -6,9 +6,9 @@
     {
       "type": "animal_spawn_info",
       "animal": "sprout",
-      "breed": "Breed: with aubergines.",
-      "tame": "不可馴服",
-      "blurb": "不同顏色的芽精靈會掉落不同的蔬菜！"
+      "breed": "繁殖物品：茄子。",
+      "tame": "馴服物品：無法馴服。",
+      "blurb": "芽精靈的顏色不同，掉落物也不同！"
     },
     {
       "type": "entity",
@@ -16,7 +16,7 @@
       "entity": "mysticalworld:entity_sprout",
       "scale": 1,
       "offset": 0,
-      "text": "These adorable root vegetables like long walks on the beach, wandering the forests, and are trying to learn how to dance!"
+      "text": "這些令人喜愛的小根芽喜歡在海灘上漫步、在森林裡遊蕩，甚至還會試著跳舞！"
     }
   ]
 }
