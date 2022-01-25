@@ -1,6 +1,6 @@
 {
   "name": "雪人",
-  "icon": "twilightforest:yeti_spawn_egg",
+  "icon": "minecraft:spawn_egg:0{EntityTag:{id:\"twilightforest:yeti\"}}",
   "category": "entities",
   "advancement": "twilightforest:alt/entities/yeti",
   "sortnum": 7020,
