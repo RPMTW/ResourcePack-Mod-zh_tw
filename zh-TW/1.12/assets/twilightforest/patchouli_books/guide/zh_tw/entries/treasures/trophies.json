@@ -32,14 +32,14 @@
     {
       "type": "spotlight",
       "title": "哞菇牛頭人王戰利品",
-      "item": "twilightforest:minoshroom_trophy",
+      "item": "twilightforest:trophy:6",
       "advancement": "twilightforest:progress_labyrinth",
       "text": "The trophy of the Minoshroom, bestowed to those who have bested the beast of the Labyrinth. Though iron-plated, it is still worth the well-fought battle of the brawn, or brain versus brawn, however the Minoshroom was slain."
     },
     {
       "type": "spotlight",
       "title": "九頭蛇戰利品",
-      "item": "twilightforest:hydra_trophy",
+      "item": "twilightforest:trophy:2",
       "advancement": "twilightforest:progress_hydra",
       "text": "A trophy depicting one of the many heads of the Hydra. Though slaying a head only creates more, this reward from a heated battle is proof that a beast with regenerating heads can be slain. Seems like the mouth opens when there's no solid surface beneath the Trophy."
     },
@@ -56,7 +56,7 @@
     {
       "type": "text",
       "advancement": "twilightforest:progress_yeti",
-      "text": "no trophy here, sad"
+      "text": "things and stuff"
     },
     {
       "type": "text",
