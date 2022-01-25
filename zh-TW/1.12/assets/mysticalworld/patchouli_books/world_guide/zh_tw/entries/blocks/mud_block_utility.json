@@ -1,5 +1,5 @@
 {
-  "name": "用泥磚做紅石元件！",
+  "name": "泥塊設備",
   "icon": "mysticalworld:mud_block_pressure_plate",
   "category": "blocks",
   "pages": [
@@ -7,7 +7,7 @@
       "type": "spotlight",
       "item": "mysticalworld:mud_block_pressure_plate",
       "link_recipe": true,
-      "text": "用無機鹽泥塊和泥磚都可以合成對應的壓力板。$(br2)他們與石壓力板一樣只在被生物踩踏時啟動。"
+      "text": "泥塊和泥磚都可以用來合成壓力板。就像石製的壓力板那樣，它們主要對生物作出反應。"
     },
     {
       "type": "crafting",
@@ -20,7 +20,7 @@
       "type": "spotlight",
       "item": "mysticalworld:mud_block_button",
       "link_recipe": true,
-      "text": "用無機鹽泥塊和泥磚都可以合成對應的按鈕。"
+      "text": "泥塊和泥磚都可以用來合成按鈕。"
     },
     {
       "type": "crafting",
