@@ -7,19 +7,19 @@
       "type": "spotlight",
       "link_recipe": true,
       "item": "mysticalworld:cooked_aubergine",
-      "text": "Aubergine can be harvested from $(l:crops/aubergine)mature aubergine crops$() and used in multiple ways."
+      "text": "茄子可以從$(l:crops/aubergine)成熟的茄子作物$()處收穫，而且有多種用途。"
     },
     {
       "type": "smelting",
       "recipe": "mysticalworld:aubergine",
-      "title": "Cooked Aubergine",
-      "text": "Once cooked and with the seeds removed, further additions can be made to the aubergine to make it even tastier!"
+      "title": "烤茄子",
+      "text": "烤熟並去掉種子後，還能對茄子進一步烹飪，讓它變得更加好吃！"
     },
     {
       "type": "crafting",
       "recipe": "mysticalworld:stuffed_aubergine",
-      "title": "Stuffed Aubergine",
-      "text": "A great vegetarian delicacy, the aubergine is combined with beets, carrots & potatoes for a truly magnificent meal!"
+      "title": "釀茄子",
+      "text": "茄子和甜菜、胡蘿蔔、馬鈴薯的結合帶來了這一上好的素食佳餚，能讓人飽餐一頓！"
     }
   ]
 }
