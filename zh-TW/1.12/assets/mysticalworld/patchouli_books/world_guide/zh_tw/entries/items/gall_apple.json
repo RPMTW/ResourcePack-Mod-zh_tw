@@ -6,7 +6,7 @@
     {
       "type": "spotlight",
       "item": "mysticalworld:gall_apple",
-      "text": "那些被黃蜂注入了幼蟲的樹將會長出蟲癭蘋果。如果你想主動吸引黃蜂前來產卵，你可以對著橡木或者黑橡木使用$(l:items/wasp_attractant)黃蜂引誘劑$()。$(br2)這些「蘋果」是$(l:items/tannins)鞣酸$()的主要來源，你會在在皮革處理的過程中使用到鞣酸。"
+      "text": "蟲癭蘋果可以從被黃蜂幼蟲侵染的樹上收穫。該過程通常始於在橡木或黑橡木上種下$(l:items/wasp_attractant)黃蜂引誘劑$()。$(br2)這些「蘋果」富含用於生產皮革的$(l:items/tannins)鞣酸$()。"
     }
   ]
 }
