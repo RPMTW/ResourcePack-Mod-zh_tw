@@ -822,5 +822,14 @@
     "bonus.tombstone.zombify": "Can convert villagers to zombie-villagers by using the Ankh",
     "bonus.tombstone.exorcism": "Can convert zombie-villagers to villagers by using the Ankh",
     "enchantment.tombstone.fishing_bad_luck.name": "Fishing Bad Luck",
-    "tombstone.message.no_other_valid_player": "There is no other valid player"
+    "tombstone.message.no_other_valid_player": "There is no other valid player",
+    "tombstone.item.christmas_gift.name": "Mysterious Gift",
+    "tombstone.item.christmas_gift.desc": "This gift has appeared mysteriously and doesn't seem to want to open.\\nA message is written there: \"Cannot be opened before December 25.\"",
+    "tombstone.item.christmas_gift.use": "Find a way to open this gift",
+    "tombstone.message.gift.success": "The gift starts to shine then disappears, revealing its contents",
+    "tombstone.message.gift.failed": "You have to wait until December 25 to open the gift",
+    "tombstone.advancement.christmas.title": "Christmas",
+    "tombstone.advancement.christmas.desc": "Special advancements during Christmas",
+    "tombstone.advancement.mysterious_gift.title": "Mysterious Gift",
+    "tombstone.advancement.mysterious_gift.desc": "A gift appeared out of nowhere"
 }
