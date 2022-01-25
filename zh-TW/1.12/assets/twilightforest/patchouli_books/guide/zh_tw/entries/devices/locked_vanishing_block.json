@@ -1,6 +1,6 @@
 {
   "name": "鎖住的消失方塊",
-  "icon": "twilightforest:tower_device:4",
+  "icon": "twilightforest:locked_vanishing_block",
   "category": "devices",
   "advancement": "twilightforest:alt/treasures/carminite",
   "sortnum": 6220,
@@ -8,7 +8,7 @@
     {
       "type": "spotlight",
       "title": "鎖住的消失方塊",
-      "item": "twilightforest:tower_device:4",
+      "item": "twilightforest:locked_vanishing_block",
       "text": "這個東西有些不對。不論我對它做甚麼，它和相鄰的消失方塊都不會發生任何事。我注意到在這個裝置的中間有一個奇怪的圖案，也許它需要一個鑰匙之類的東西？"
     },
     {
