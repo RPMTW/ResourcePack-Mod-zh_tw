@@ -7,13 +7,13 @@
       "type": "crafting",
       "recipe": "mysticalworld:silk_thread",
       "link_recipe": true,
-      "text": "Silk thread can be obtained by processing $(l:items/silk_cocoons)silkworm cocoons$(), although the quantity will vary depending on the method."
+      "text": "絲線可以透過處理$(l:items/silk_cocoons)蠶繭獲得$()。蠶繭產出絲線的數量極大地取決於具體方法。"
     },
     {
       "type": "crafting",
       "recipe": "mysticalworld:spindle",
       "recipe2": "mysticalworld:silk_thread_spindle",
-      "text": "Combining the silkworm cocoon with a spindle will produce the best results, although it will consume some of the durability of the spindle."
+      "text": "利用紡錘處理蠶繭能產出最多的絲線，不過這會消耗紡錘一點耐久。"
     }
   ]
 }
