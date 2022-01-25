@@ -1,0 +1,26 @@
+{
+    "name": "Tinker's Hammer",
+    "icon": "tinkersforging:hammer/iron",
+    "category": "items",
+    "pages": [
+        {
+            "type": "text",
+            "text": "the Tinker's Hammer is a multipurpose instrument that is used to forge items. It can be crafted from most materials, including wood, stone, iron, diamond, and many other metals. Note that hammers above stone tier require a tool head to be forged with a Tinker's Anvil. It can also be used as a weak pickaxe."
+        },
+        {
+            "type": "crafting",
+            "recipe": "tinkersforging:wood_hammer",
+            "recipe2": "tinkersforging:stone_hammer"
+        },
+        {
+            "type": "crafting",
+            "recipe": "tinkersforging:hammer_iron",
+            "recipe2": "tinkersforging:hammer_gold"
+        },
+        {
+            "type": "crafting",
+            "recipe": "tinkersforging:hammer_diamond",
+            "text": "The hammer head can be made by forging five ingots on a Tinker's Anvil."
+        }
+    ]
+}
