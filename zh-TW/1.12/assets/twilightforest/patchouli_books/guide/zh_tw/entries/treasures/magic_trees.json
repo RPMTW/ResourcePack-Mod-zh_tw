@@ -1,6 +1,6 @@
 {
   "name": "Magical Trees",
-  "icon": "twilightforest:time_sapling",
+  "icon": "twilightforest:twilight_sapling:4",
   "category": "treasures",
   "advancement": "twilightforest:alt/treasures/magic_trees",
   "sortnum": 2100,
@@ -16,17 +16,17 @@
     },
     {
       "type": "text",
-      "advancement": "twilightforest:alt/treasures/tree_of_time",
+      "advancement": "twilightforest:alt/treasures/tree_of_transformation",
       "text": "Tree of Transformation"
     },
     {
       "type": "text",
-      "advancement": "twilightforest:alt/treasures/tree_of_time",
-      "text": "Tree of Time desc."
+      "advancement": "twilightforest:alt/treasures/tree_of_mining",
+      "text": "Miner's Tree"
     },
     {
       "type": "text",
-      "advancement": "twilightforest:alt/treasures/tree_of_transformation",
+      "advancement": "twilightforest:alt/treasures/tree_of_sorting",
       "text": "Sorting Tree"
     }
   ]
