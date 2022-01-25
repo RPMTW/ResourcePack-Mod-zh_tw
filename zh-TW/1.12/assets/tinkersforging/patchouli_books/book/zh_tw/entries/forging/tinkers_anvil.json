@@ -1,11 +1,11 @@
 {
-    "name": "Tinker's Anvil",
+    "name": "工匠砧",
     "icon": "tinkersforging:tinkers_anvil/iron",
     "category": "forging",
     "pages": [
         {
             "type": "text",
-            "text": "The Tinker's Anvil is the key block necessary for forging. It can be crafted out of most tool metals, including iron, gold and diamond. For a detailed guide on how to use the anvil to forge items, see $(l:forging/getting_started)The Art of Forging$()"
+            "text": "工匠砧是鍛造的關鍵性方塊。它能夠透過絕大多數工具材料進行合成，囊括鐵、金和鑽石。若要詳細了解如何使用砧進行物品鍛造，請查看$(l:forging/getting_started)鍛造藝術$()篇章。"
         },
         {
             "type": "crafting",
