@@ -1,6 +1,6 @@
 {
   "name": "Hollow Hills",
-  "icon": "twilightforest:miniature_structure:2",
+  "icon": "twilightforest:twilight_portal_miniature_structure",
   "category": "major_landmarks",
   "advancement": "twilightforest:alt/major_landmarks/hollow_hills",
   "sortnum": 2000,
@@ -12,12 +12,12 @@
     },
     {
       "type": "text",
-      "advancement": "twilightforest:alt/major_landmarks/medium_hollow_hill",
+      "advancement": "twilightforest:alt/major_landmarks/hollow_hill_small",
       "text": "things and stuff"
     },
     {
       "type": "text",
-      "advancement": "twilightforest:alt/major_landmarks/large_hollow_hill",
+      "advancement": "twilightforest:alt/major_landmarks/hollow_hill_medium",
       "text": "things and stuff"
     }
   ]
