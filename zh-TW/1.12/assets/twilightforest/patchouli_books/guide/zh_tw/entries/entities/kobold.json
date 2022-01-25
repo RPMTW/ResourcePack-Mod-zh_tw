@@ -1,6 +1,6 @@
 {
   "name": "地精",
-  "icon": "twilightforest:kobold_spawn_egg",
+  "icon": "minecraft:spawn_egg:0{EntityTag:{id:\"twilightforest:kobold\"}}",
   "category": "entities",
   "advancement": "twilightforest:alt/entities/kobold",
   "sortnum": 2100,
