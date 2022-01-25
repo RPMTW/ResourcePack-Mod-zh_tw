@@ -1,22 +1,23 @@
 {
-    "name": "甲蟲",
-    "icon": "mysticalworld:carapace",
-    "category": "creatures",
-    "pages": [
-        {
-            "type": "animal_spawn_info",
-            "animal": "beetle",
-            "breed": "使用西瓜繁殖;",
-            "tame": "使用西瓜種子馴服。",
-            "blurb": "Shoulder-riding is temporarily disabled in 1.15.2! :("
-        },
-        {
-            "type": "entity",
-            "name": "甲蟲",
-            "entity": "mysticalworld:beetle",
-            "scale": "1.5",
-            "offset": "-0.3",
-            "text": ""
-        }
-    ]
+  "name": "甲蟲",
+  "icon": "mysticalworld:carapace",
+  "category": "creatures",
+  "flag": "roots:beetle",
+  "pages": [
+    {
+      "type": "animal_spawn_info",
+      "animal": "beetle",
+      "breed": "使用西瓜繁殖;",
+      "tame": "使用西瓜種子馴服。",
+      "blurb": "Sneak-right-clicking with an empty hand will allow you to place the beetle on your shoulder!"
+    },
+    {
+      "type": "entity",
+      "name": "甲蟲",
+      "entity": "mysticalworld:entity_beetle",
+      "scale": "1.5",
+      "offset": "-0.3",
+      "text": "Sneak-right-click again with an empty hand to put them down."
+    }
+  ]
 }
