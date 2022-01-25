@@ -6,13 +6,13 @@
     {
       "type": "animal_spawn_info",
       "animal": "hell_sprout",
-      "breed": "Breed: with cooked aubergines.",
-      "tame": "不可馴服",
-      "blurb": "Found peacefully wandering the nether, occasionally planting nether wart."
+      "breed": "繁殖物品：烤茄子。",
+      "tame": "馴服物品：無法馴服。",
+      "blurb": "能在地獄發現，它們一直在安靜地遊蕩，偶爾還會播種地獄疙瘩。"
     },
     {
       "type": "entity",
-      "name": "Hell Sprout",
+      "name": "地獄芽精靈",
       "entity": "mysticalworld:entity_hell_sprout",
       "scale": 1,
       "offset": 0,
