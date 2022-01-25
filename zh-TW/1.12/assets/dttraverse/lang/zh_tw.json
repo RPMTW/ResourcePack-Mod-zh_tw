@@ -1,8 +1,15 @@
 {
-    "item.dttraverse:autumn_brownseed.name": "棕色秋季樹橡子",
-    "item.dttraverse:autumn_redseed.name": "紅棕色秋季樹橡子",
-    "item.dttraverse:autumn_orangeseed.name": "橙色秋季樹橡子",
-    "item.dttraverse:autumn_yellowseed.name": "黃色秋季樹柳絮",
+    "item.dttraverse:autumn_brownseed.name": "Brown Autumnal Acorn",
+    "item.dttraverse:autumn_redseed.name": "Red Autumnal Acorn",
+    "item.dttraverse:autumn_orangeseed.name": "Orange Autumnal Acorn",
+    "item.dttraverse:autumn_yellowseed.name": "Yellow Autumnal Catkin",
     "item.dttraverse:firseed.name": "Fir Seed\n",
-    "tile.dttraverse:firbranch.name": "動態冷杉木"
+    "tile.dttraverse:firbranch.name": "Fir Tree",
+    "species.dttraverse:autumn_brown.name": "Brown Autumnal Oak",
+    "species.dttraverse:autumn_orange.name": "Orange Autumnal Oak",
+    "species.dttraverse:autumn_red.name": "Red Autumnal Oak",
+    "species.dttraverse:autumn_yellow.name": "Yellow Autumnal Birch",
+    "species.dttraverse:mini_jungle.name": "Mini Jungle",
+    "species.dttraverse:oak_shrub.name": "Oak Shrub",
+    "species.dttraverse:fir.name": "Fir"
 }
