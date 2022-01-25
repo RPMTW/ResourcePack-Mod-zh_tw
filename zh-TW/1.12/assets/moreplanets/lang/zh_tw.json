@@ -750,7 +750,7 @@
     "desc.bhs_more.name": "and %s more...",
     "desc.shift_info.name": "按下<SHIFT>鍵來查看更多",
     "desc.control_info.name": "按下<CONTROL>鍵來查看更多",
-    "description.space_portal": "Survival Planet enabled:",
+    "description.space_portal": "Space Portal work only if you select a planet to start survival on it.",
     "container.space_warp_pad.name": "太空傳送墊",
     "container.dark_energy_receiver.name": "暗黑能量無限接收器",
     "container.nuclear_waste_generator.name": "核廢料發電機",
@@ -813,5 +813,14 @@
     "subtitles.entity.fronos.death": "糖果星生物死亡",
     "subtitles.player.laser_shooted": "雷射射擊",
     "subtitles.player.unlock_treasure_chest": "解鎖寶箱",
-    "subtitles.weather.loud_thunder": "雷鳴 "
+    "subtitles.weather.loud_thunder": "雷鳴 ",
+    "message.survival_planet.1": "Want to start survival on other planets? Click here to open",
+    "message.survival_planet.2": "Celestial Selection Screen",
+    "message.survival_planet.3": "to get start over there!",
+    "message.survival_planet.4": "Or if you don't want to go.",
+    "message.survival_planet.5": "Click here to disable this message",
+    "message.survival_planet_selected.1": "You select",
+    "message.survival_planet_selected.2": "as a survival planet, Good Luck!",
+    "command.mpcelestial.1": "Survival Planet Selection message disabled, you can type /mpcelestial command anytime if you want!",
+    "command.mpcelestial.2": "Sorry. You are already choose survival planet and cannot be changed!"
 }
