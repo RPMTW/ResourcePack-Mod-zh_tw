@@ -1,5 +1,5 @@
 {
-  "name": "石英礦石",
+  "name": "石英礦",
   "icon": "mysticalworld:granite_quartz_ore",
   "category": "ores",
   "flag": "roots:quartz",
@@ -8,7 +8,7 @@
       "type": "spotlight",
       "link_recipe": true,
       "item": "mysticalworld:granite_quartz_ore",
-      "text": "你可以在主世界的花崗岩帶中找到石英礦石，破壞礦石後，其掉落物與地獄的石英礦石並無二致。"
+      "text": "石英礦可以在主世界的花崗岩團簇中發現，破壞後的掉落物和地獄的相同。"
     }
   ]
 }
