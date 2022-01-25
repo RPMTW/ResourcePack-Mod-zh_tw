@@ -1,5 +1,5 @@
 {
-  "name": "Fox",
+  "name": "狐狸",
   "icon": "mysticalworld:pelt",
   "category": "creatures",
   "flag": "roots:fox",
@@ -7,8 +7,8 @@
     {
       "type": "animal_spawn_info",
       "animal": "狐狸",
-      "breed": "Breed: with apples.",
-      "tame": "用蘋果馴服。",
+      "breed": "繁殖物品：蘋果。",
+      "tame": "馴服物品：蘋果。",
       "blurb": ""
     },
     {
@@ -17,7 +17,7 @@
       "entity": "mysticalworld:entity_fox",
       "scale": "0.8",
       "offset": 0,
-      "text": "野生的狐狸是兔子和雞的殺手，但馴服後會變得溫順！"
+      "text": "狐狸是兔子和雞的兇狠天敵，但在馴服後會變得溫順！"
     }
   ]
 }
