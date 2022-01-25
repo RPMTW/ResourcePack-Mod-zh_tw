@@ -1,27 +1,27 @@
 {
-    "name": "Charcoal Forge",
+    "name": "木炭熔爐",
     "icon": "minecraft:coal:1",
     "category": "temperature",
     "pages": [
         {
             "type": "text",
-            "text": "The charcoal forge is a primitive but effective method for heating many items at once. It is created from lighting a charcoal pile on fire. It functions similar to the $(l:blocks_and_items/brick_forge)Brick Forge$(). It is slower to heat up, but it can heat multiple items at once. To create a charcoal pile, place any piece of charcoal in the world. You can stack charcoal up to 8 layers high, like snow."
+            "text": "木炭熔爐是原始但又極具效率的東西，能夠一次性加熱很多物品。透過點燃木炭堆來做到。功能上和$(l:blocks_and_items/brick_forge)紅磚熔爐$()極為相似。雖然加熱速度緩慢，但是能夠一次性加熱多個物品。將木炭右擊方塊即可弄出木炭堆，就如同雪片一樣，最高可以堆疊8層。"
         },
         {
             "type": "image",
             "images": [
                 "tinkersforging:textures/guide/charcoal_piles.png"
             ],
-            "text": "A big pile o' charcoal"
+            "text": "一大坨木炭堆"
         },
         {
             "type": "text",
-            "text": "To create a charcoal forge, simply build the multiblock featured on the next page, and then right click the forge with a fire starter such as flint and steel. The forge will start burning, shrinking as it consumes charcoal. If the surrounding blocks are broken, the forge will rapidly lose temperature, peaking at around a third of the maximum temperature."
+            "text": "為了搭建出木炭熔爐，只需要按照下頁顯示的搭建多方塊結構，接下來用諸如打火石之類的東西右擊熔爐進行點火。熔爐就會開始燃燒，隨著消耗木炭而進行體積縮小。環繞的方塊一旦被打破，溫度會急劇下降，使其最高溫度只有最高溫度的三分之一"
         },
         {
             "type": "multiblock",
             "multiblock_id": "tinkersforging:charcoal_forge",
-            "text": "The side blocks can by any stone type solid block."
+            "text": "邊側部分可以為任意類型的石製固體方塊。"
         }
     ]
 }
