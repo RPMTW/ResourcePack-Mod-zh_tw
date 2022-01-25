@@ -7,13 +7,13 @@
       "type": "crafting",
       "link_recipe": true,
       "recipe": "mysticalworld:assorted_seeds",
-      "text": "任意4個種子合成就可以得到混合種子。"
+      "text": "任意 4 個種子可以混合成什錦種子。"
     },
     {
       "type": "smelting",
       "recipe": "mysticalworld:assorted_seeds",
-      "title": "烤製種子",
-      "text": "用多餘的種子就可以製作的簡單小零食，在你需要的時候給你補充能量！"
+      "title": "烤種子",
+      "text": "一道簡單快捷的小吃，能幫助你消耗多出的種子。剛餓時吃下，能給你帶來急需的能量！"
     }
   ]
 }
