@@ -8,14 +8,14 @@
       "type": "spotlight",
       "link_recipe": true,
       "item": "mysticalworld:copper_ore",
-      "text": "銅礦可以在野外幾乎任何地方發現。可以熔煉成銅錠用來製作工具。"
+      "text": "銅礦可以在多個高度發現，而且其分布極有規律。銅礦可以熔煉成銅錠，並用於製作工具。"
     },
     {
       "type": "smelting",
       "link_recipe": true,
       "recipe": "mysticalworld:copper_ore",
       "title": "銅錠",
-      "text": "銅工具和武器的挖掘等級與鐵相同。"
+      "text": "銅製工具和武器的挖掘等級與鐵相同。"
     },
     {
       "type": "crafting",
