@@ -7,12 +7,12 @@
       "type": "crafting",
       "link_recipe": true,
       "recipe": "mysticalworld:wasp_attractant",
-      "text": "將蛋白質和糖以正確比例混合在一起，這一混合物用來吸引黃蜂再好不過了！"
+      "text": "蛋白質和糖的組合正是吸引黃蜂的黃金配方！"
     },
     {
       "type": "spotlight",
       "item": "mysticalworld:wasp_attractant",
-      "text": "這一引誘劑可以用於絕大多數種類的橡木 (普通橡木以及黑橡木)，被注入了黃蜂幼蟲的樹，將很快長出$(l:items/gall_apple)蟲癭蘋果$()。"
+      "text": "引誘劑能種在大多數橡木（主要是橡木和黑橡木）的樹幹上，之後黃蜂注入的幼蟲就會迅速造成$(l:items/gall_apple)蟲癭蘋果$()的產生。"
     }
   ]
 }
