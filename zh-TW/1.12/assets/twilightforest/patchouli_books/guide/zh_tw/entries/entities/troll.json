@@ -1,6 +1,6 @@
 {
   "name": "山怪",
-  "icon": "twilightforest:troll_spawn_egg",
+  "icon": "minecraft:spawn_egg:0{EntityTag:{id:\"twilightforest:troll\"}}",
   "category": "entities",
   "advancement": "twilightforest:alt/entities/troll",
   "sortnum": 8010,
