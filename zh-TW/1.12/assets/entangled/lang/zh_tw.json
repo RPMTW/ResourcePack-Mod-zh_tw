@@ -1,6 +1,6 @@
 {
-    "tile.entangled.block.name": "量子糾纏方塊",
-    "item.entangled.item.name": "量子糾纏綁定器",
+    "tile.entangled.block.name": "纏聯塊",
+    "item.entangled.item.name": "纏聯綁定器",
     "entangled.entangled_block.info.ranged_same_dimension": "在同個維度可綁定方塊，距離最多%d格",
     "entangled.entangled_block.info.infinite_same_dimension": "在同個維度可綁定方塊",
     "entangled.entangled_block.info.ranged_other_dimension": "可綁定最多%d格方塊，或其他維度的方塊",
@@ -20,6 +20,6 @@
     "entangled.waila.bound_same_dimension": "連結至 %1$s 於（%2$d， %3$d， %4$d）",
     "entangled.waila.bound_other_dimension": "與 %1$s 綁定在 %5$s 的位置（%2$d, %3$d, %4$d）",
     "entangled.waila.unbound": "未綁定鑰匙",
-    "tile.entangled:block.name": "Entangled Block",
-    "item.entangled:item.name": "Entangled Binder"
+    "tile.entangled:block.name": "纏聯中樞",
+    "item.entangled:item.name": "纏聯綁定器"
 }
