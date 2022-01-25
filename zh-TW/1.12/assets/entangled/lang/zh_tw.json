@@ -19,5 +19,7 @@
     "entangled.entangled_binder.clear": "連結已清除!",
     "entangled.waila.bound_same_dimension": "連結至 %1$s 於（%2$d， %3$d， %4$d）",
     "entangled.waila.bound_other_dimension": "與 %1$s 綁定在 %5$s 的位置（%2$d, %3$d, %4$d）",
-    "entangled.waila.unbound": "未綁定鑰匙"
+    "entangled.waila.unbound": "未綁定鑰匙",
+    "tile.entangled:block.name": "Entangled Block",
+    "item.entangled:item.name": "Entangled Binder"
 }
