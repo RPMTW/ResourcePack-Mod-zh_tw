@@ -1,5 +1,5 @@
 {
-  "name": "泥巴和泥磚",
+  "name": "泥塊",
   "icon": "mysticalworld:wet_mud_block",
   "category": "blocks",
   "pages": [
@@ -7,7 +7,7 @@
       "type": "spotlight",
       "item": "mysticalworld:wet_mud_block",
       "link_recipe": true,
-      "text": "合成出來以後，可以在熔爐中烘乾得到泥巴和泥磚。"
+      "text": "合成後可以透過熔爐乾燥。"
     },
     {
       "type": "crafting",
@@ -15,15 +15,15 @@
       "recipe2": "mysticalworld:wet_mud_brick",
       "link_recipe": true,
       "title": "濕潤的泥塊",
-      "text": "濕潤的泥磚可以合成獲得。"
+      "text": "濕潤的泥塊可以用來合成濕潤的泥磚。"
     },
     {
       "type": "smelting",
       "recipe": "mysticalworld:wet_mud_block",
       "recipe2": "mysticalworld:wet_mud_brick",
       "link_recipe": true,
-      "title": "熔爐烘乾",
-      "text": "接下來將它們放入熔爐，燒製成泥塊和泥磚。"
+      "title": "烘乾",
+      "text": "濕潤的泥塊和泥磚可以在熔爐裡烘乾。"
     }
   ]
 }
