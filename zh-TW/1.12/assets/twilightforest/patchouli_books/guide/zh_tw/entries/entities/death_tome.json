@@ -1,6 +1,6 @@
 {
   "name": "死亡之書",
-  "icon": "minecraft:spawn_egg:0{EntityTag:{id:\"twilightforest:death_tome\"}}",
+  "icon": "twilightforest:death_tome_spawn_egg",
   "category": "entities",
   "advancement": "twilightforest:alt/entities/death_tome",
   "sortnum": 4010,
