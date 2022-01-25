@@ -1,5 +1,5 @@
 {
-  "name": "不完整的終界珍珠",
+  "name": "未成熟的終界珍珠",
   "icon": "mysticalworld:unripe_pearl",
   "category": "items",
   "pages": [
@@ -7,14 +7,14 @@
       "type": "spotlight",
       "link_recipe": true,
       "item": "mysticalworld:unripe_pearl",
-      "text": "不完整的終界珍珠可以從$(l:creatures/endermini)迷你終界人$()身上獲得。"
+      "text": "未成熟的終界珍珠能在終界使者的未成熟年輕個體——迷你終界使者中找到。"
     },
     {
       "type": "crafting",
       "link_recipe": true,
       "recipe": "mysticalworld:ender_pearl",
-      "text": "直接使用會將你隨機傳送。將它們9個合成可以得到完整的終界珍珠。",
-      "title": "Ender Pearl"
+      "text": "作物物品使用時，它會進行隨機傳送。9 個未成熟的終界珍珠能合成出一個真正的終界珍珠。",
+      "title": "終界珍珠"
     }
   ]
 }
