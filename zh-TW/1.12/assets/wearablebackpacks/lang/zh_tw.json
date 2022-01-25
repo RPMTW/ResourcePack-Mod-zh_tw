@@ -28,7 +28,7 @@
     "config.wearablebackpacks.backpack.enabled": "啟用普通背包",
     "config.wearablebackpacks.backpack.enabled.tooltip": "停用此選項後可屏蔽所有形式的背包。",
     "config.wearablebackpacks.backpack.durability": "背包耐久",
-    "config.wearablebackpacks.backpack.durability.tooltip": "Controls the durability of the regular backpack (0 for unbreakable). Lowering this (including setting to 0) can cause issues with already damaged backpacks.",
+    "config.wearablebackpacks.backpack.durability.tooltip": "本選項控制背包的耐久值，設定為0代表不毀。",
     "config.wearablebackpacks.backpack.armor": "防禦點數",
     "config.wearablebackpacks.backpack.armor.tooltip": "本選項控制當背包用作護甲時，其所能提供的護甲點數。",
     "config.wearablebackpacks.backpack.size": "儲存空間",
