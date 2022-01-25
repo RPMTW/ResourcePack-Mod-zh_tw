@@ -1,0 +1,1811 @@
+<?xml version="1.0" encoding="utf-8"?>
+<book title="Rockhounding Chemistry Guide book" cover="rockhounding_chemistry:gbook/icons/cover" fontSize="0.6" home="0:0">
+	<include ref="rockhounding_chemistry:xml/custom.xml"/>
+
+	<chapter id="chapters">
+		<page id="index">
+			<title color="#CC3333">Table of contents</title>
+			<p space="10"/>
+			<link ref="concept:readme_page" color="#000066">-&gt; Readme first</link>
+			<link ref="concept:concept_page" color="#000066">-&gt; Mod Concept</link>
+			<p space="10"/>
+			<link ref="tech:tech_page" color="#000066">-&gt; Tech Concepts</link>
+			<p space="10"/>
+			<link ref="resources:resources_page" color="#000066">-&gt; Resources</link>
+			<p space="10"/>
+			<link ref="utility:utility_page" color="#000066">-&gt; Utility Blocks</link>
+			<link ref="tools:tools_page" color="#000066">-&gt; Utility Items</link>
+			<link ref="devices:devices_page" color="#000066">-&gt; Structures and Machines</link>
+			<p space="10"/>
+			<link ref="mobs:mobs_page" color="#000066">-&gt; Mobs</link>
+			<p space="10"/>
+			<link ref="projects:projects_page" color="#000066">-&gt; Projects</link>
+			<link ref="features:features_page" color="#000066">-&gt; Additional Features</link>
+			<link ref="simulants:simulants_page" color="#000066">-&gt; Simulants</link>
+		</page>
+	</chapter>
+
+				<chapter id="concept">
+					<page id="readme_page">
+						<link ref="chapters:index" color="#CC3333">&lt;- Readme first</link>
+						<p>- If the size of this book doesn't allow an optimal reading, it is suggested to set the GUI scale to 0 in the Guidebook configuration "gbook.cfg" or a suiting combination with the game GUI scale.</p>
+						<p>- This mod works better with other tech mods introducing metals and other materials to quickly share common resources, since the key is the production of uncommon or non-minable resources usable later in the game.</p>
+						<p>- This book tries to describe all the parts of the mod and the steps to proceed into it. The table of contents is divided into the main arguments, each one splitted into chapters. Each chapter contains sorted lists of documentation.</p> 
+						<p>- For a faster navigation, clicking on the indexes leads you to the proper page, while clicking on the red page titles leads you back to its direct parent index.</p>
+						<p>- Search for the Chemistry Quest Book in JEI for a progressive quest line to assembly the entire factory.</p>
+					</page>
+					<page id="concept_page">
+						<link ref="chapters:index" color="#CC3333">&lt;- Mod Concept</link>
+						<p>- This mod roughly depicts the production of various resources from an industrial chemistry point of view. It involves processes to analyze an unidentified mineral, acknowledge its composition and progressively treat what is exposed to collect their bearing elements. There is not a proper goal line, but assembling the factory and involving the player with choices and strategies are part of the mod's spirit.</p>
+						<p>- The tech tree is made of several converging branches, working on their own or feeding eachother, concerning the acquiring of primary resources and their processing into advanced ones for further usage.</p>
+						<p>- In its basic form, at the end of the chain there is a set of ingredients usable to gate features at given game phases, mostly in late-game. Each machine is also customizable with external recipes, so that each one can be used outside the mod mechanics, to differentiate or spread the pack recipes.</p>
+					</page>
+				</chapter>
+
+				<chapter id="tech">
+					<page id="tech_page">
+						<link ref="chapters:index" color="#CC3333">&lt;- Tech Concepts</link>
+						<p space="10"/>
+						<link ref="structures:structures_page" indent="8" color="#333399">-&gt; Structures</link>
+						<link ref="structures:connections_page" indent="8" color="#333399">-&gt; Connections</link>
+						<link ref="structures:gui_page" indent="8" color="#333399">-&gt; GUI elements</link>
+						<link ref="structures:signal_page" indent="8" color="#333399">-&gt; Redstone handling</link>
+						<link ref="structures:measures_page" indent="8" color="#333399">-&gt; Measurement</link>
+						<link ref="structures:consumables_page" indent="8" color="#333399">-&gt; Consumables</link>
+					</page>
+				</chapter>
+
+							<chapter id="structures">
+								<page id="structures_page">
+									<link ref="tech:tech_page" color="#CC3333">&lt;- Structures</link>
+									<p>Most of the devices are multiblock structures made of orientable elements connected to eachother. Some of them are provided of a gui, to operate the main functions or just delegated to hold an ingredient of the performed recipe. Some elements are 2 blocks tall and placed at once, hence considered as a single unit. Hitting each element with the mod wrench will rotate clockwise the block.</p>
+									<p>To assembly a structure, this guide uses a grid system for every layer composing it, from the lowest to the highest. Each layer is shown "as seen from above", with the position of every component in the grid and a red arrow indicating their orientation relative to the rest of the structure. Components without the orientation arrow can be freely placed. Slots marked with colored borders, indicate if a block is delegated to powering (red), input tasks (blue) or output tasks (orange). If a block handles only a specific fluid or gas, it will be also shown inside the slot.</p>
+								</page>
+
+								<page id="connections_page">
+									<link ref="tech:tech_page" color="#CC3333">&lt;- Connections</link>
+									<p>Structures offer a large amount of hooks for transportation and powering systems. Each element uses colored plugs just for reference, but unless warned in the structure chapters, piping can be managed from any side. Also, blocks delegated to handle a specific fluid and gas are automatically filtered for that resource.</p>
+									<p>Colored plugs roughly tell what kind of piping the block handles:</p>
+									<p space="2"/>
+									<p>- Blue plugs indicate that the block can accept ingredients.</p>
+									<p space="2"/>
+									<p>- Orange plugs indicate that the block can extract products.</p>
+									<p space="2"/>
+									<p>- Gold plugs refers to generic connections between parts of the structure.</p> 
+									<p space="2"/>
+									<p>- Red plugs indicate that the element must be connected to the Power Station.</p> 
+									<p space="2"/>
+									<image src="rockhounding_chemistry:gbook/icons/plugs" tw="80" th="20"/>
+								</page>
+
+								<page id="gui_page">
+									<link ref="tech:tech_page" color="#CC3333">&lt;- GUI elements</link>
+									<image src="rockhounding_chemistry:gbook/icons/activation" tw="18" th="18"/>
+									<p space="2"/>
+									<p>It activates the structure or single elements. If a recipe selector is available, the structure may need to be activated before the correct ingredients can be accepted.</p>
+									<p space="5"/>
+									<image src="rockhounding_chemistry:gbook/icons/sliders" tw="28" th="14"/>
+									<p space="2"/>
+									<p>When available, sliders increase or decrease their related parameter.</p>
+									<p space="5"/>
+									<image src="rockhounding_chemistry:gbook/icons/rsignal" tw="14" th="14"/>
+									<p space="2"/>
+									<p>While visible, it indicates that a redstone signal is overriding the button function. Redstone overriding can be used for activation purposes or to set a parameter by the signal's power level (0 to 15).</p>
+									<p space="5"/>
+									<image src="rockhounding_chemistry:gbook/icons/speeds" tw="18" th="18"/>
+									<p space="2"/>
+									<p>Where available, the slot accepts tiered Speed Upgrades. There are 7 tiers, speeding the process up to 8 times.</p>
+								</page>
+
+								<page>
+									<image src="rockhounding_chemistry:gbook/icons/recipes" tw="16" th="16"/>
+									<p space="2"/>
+									<p>If active on top of the gui, it allows to access the machine JEI recipe tabs. The standard I/O colored arrows indicate if items are ingredients or the result of the recipe.</p>
+									<p space="5"/>
+									<image src="rockhounding_chemistry:gbook/icons/monitor" tw="14" th="14"/>
+									<p space="2"/>
+									<p>While hovered with the cursor, this icon shows useful information about the related machine and the recipe being processed. It should always be consulted.</p>
+									<p space="5"/>
+									<image src="rockhounding_chemistry:gbook/icons/swapping" tw="100" th="22"/>
+									<p space="2"/>
+									<p>In guis with this slot system, the handled ingredient can be automatically cycled by the recipe selector so to be pushed for extraction while a different one is injected. It helps the <link ref="utilities:server_page" color="#000000">Server</link> to schedule recipes.</p>
+								</page>
+
+								<page id="signal_page">
+									<link ref="tech:tech_page" color="#CC3333">&lt;- Redstone handling</link>
+									<p space="2"/>
+									<p>Every structure is provided of a special plug which allows a redstone signal to override the manual activation. It can be useful to control and temporize the activity of each structure inside the factory:</p>
+									<p space="4"/>
+									<image src="rockhounding_chemistry:gbook/icons/signal_plug" tw="78" th="24"/>
+									<p space="4"/>
+									<p>It can be located in a different spot inside each structure and it's the only side where a valid signal can be acquired from repeaters, redstone wires or any powered block.</p>
+									<p space="4"/>
+									<image src="rockhounding_chemistry:gbook/screens/signal_sample" tw="180" th="111"/>
+								</page>
+								<page>
+									<p space="2"/>
+									<p>Fluid tanks and gas vessels, can be set to provide a steady redstone signal to a comparator attached to them once a certain threashold in the stored amount is reached. This is useful to control the amount of produced material or to turn on/off a device depending on available resources.</p>
+									<image src="rockhounding_chemistry:gbook/wiki/tank_threashold" tw="78" th="24"/>
+									<p space="4"/>
+									<p>There are three available modes:</p>
+									<p color="#0000FF">> By redstone level:</p>
+									<p>A redstone signal from 0 to 15, will be provided depending on the stored quantity, where 15 equals to a full tank.</p>
+									<p color="#0000FF">> High past threashold:</p>
+									<p>Once the stored amount passes the assigned precentage (in steps of 5%), it will provide a high signal.</p>
+									<p color="#0000FF">> Low past threashold:</p>
+									<p>Once the stored amount passes the assigned precentage (in steps of 5%), the provided high level signal will turn low.</p>
+									<p space="4"/>
+									<p color="#0000FF">Preview</p>
+									<link ref="galleries:gal_signal" color="#336633">Redstone handling example</link>
+								</page>
+
+								<page id="measures_page">
+									<link ref="tech:tech_page" color="#CC3333">&lt;- Measurement</link>
+									<p>The mod uses different ways to quantify resources, some common to any mod, some specific for the mod.</p>
+									<p space="5"/>
+									<p>> Fuel Power: it is expressed in ticks. It equals to the burntime of regular fuel or the efficiency of additional burnable resources.</p>
+									<p space="5"/>
+									<p>> Gases: gases are quantified in 'cu' (cubic unit), where 1cu can be roughly compared to 1Bucket for fluids. </p>
+									<p space="5"/>
+									<p>> Elements: some machines use fraction of the element dusts, so they are quantified in 'ppc' (Parts-Per-Craft), where 1 dust is made of 100ppc by default.</p>
+								</page>
+
+								<page id="consumables_page">
+									<link ref="tech:tech_page" color="#CC3333">&lt;- Consumables</link>
+									<p>Some of the machines use consumables for their processes. They are damageable items that will slowly get consumed and needing a replacement. All of them are anyway enchantable with Unbreaking to last longer or with mending to have a chance to repair themselves over time.</p>
+									<p space="5"/>
+									<p>In case of catalysts, there is available a specific process that is able to clean and recover them from being definitely spent. It is the Catalyst Regeneration.</p>
+								</page>
+							</chapter>
+
+				<chapter id="resources">
+					<page id="resources_page">
+						<link ref="chapters:index" color="#CC3333">&lt;- Resources</link>
+						<p space="10"/>
+						<link ref="minerals:minerals_page" indent="8" color="#333399">-&gt; Expendables</link>
+						<link ref="minerals:minerals_page" indent="8" color="#333399">-&gt; Minerals</link>
+						<link ref="minerals:specimens_pages" indent="8" color="#333399">-&gt; Gangues</link>
+						<link ref="minerals:specimens_pages" indent="8" color="#333399">-&gt; Specimens</link>
+						<link ref="minerals:elements_pages" indent="8" color="#333399">-&gt; Elements</link>
+						<link ref="minerals:fluid_pages" indent="8" color="#333399">-&gt; Fluids and Gases</link>
+						<link ref="minerals:syngas_pages" indent="8" color="#333399">-&gt; The Syngas Path</link>
+						<link ref="minerals:parts_pages" indent="8" color="#333399">-&gt; Material and Parts</link>
+					</page>
+				</chapter>
+
+							<chapter id="minerals">
+								<page id="minerals_page">
+									<link ref="resources:resources_page" color="#CC3333">&lt;- Expendables</link>
+									<p>The production chain requires some supporting material to be steadly running. They are vanilla supplies like coal, granite, redstone and water. Being them the base for almost every process, their afflux needs to be constant and strong.</p>
+									<p space="10"/>
+
+									<link ref="resources:resources_page" color="#CC3333">&lt;- Minerals</link>
+									<p>Ore supplying is represented by veins of Uninspected mineral, which generate in any whitelisted dimension with stone in the underground. Being the only source for materials, vein parameters should be accordingly set to ensure abundance in any area. Uninspected Minerals set the start of the processing chain being crushed on the Mineral Sizer.</p>
+									<stack item="rockhounding_chemistry:uninspected_mineral" meta="0" count="1"/>
+								</page>
+
+								<page id="specimens_pages">
+									<link ref="resources:resources_page" color="#CC3333">&lt;- Gangues</link>
+									<p>Gangues are mixtures of minerals trapped in the raw ore exposed by crushing the Uninspected mineral in the Mineral Sizer. There are 13 types of gangue, representing the first stage of the classification. Moving the cursor over them is possible to read their required comminution to properly set the machine.</p>
+									<stack_eight>
+										<stack item="rockhounding_chemistry:mineral_ores" meta="0" count="1"/>
+										<stack item="rockhounding_chemistry:mineral_ores" meta="1" count="1"/>
+										<stack item="rockhounding_chemistry:mineral_ores" meta="2" count="1"/>
+										<stack item="rockhounding_chemistry:mineral_ores" meta="3" count="1"/>
+										<stack item="rockhounding_chemistry:mineral_ores" meta="4" count="1"/>
+										<stack item="rockhounding_chemistry:mineral_ores" meta="5" count="1"/>
+										<stack item="rockhounding_chemistry:mineral_ores" meta="6" count="1"/>
+										<stack item="rockhounding_chemistry:mineral_ores" meta="7" count="1"/>
+									</stack_eight>
+									<stack_eight>
+										<stack item="rockhounding_chemistry:mineral_ores" meta="8" count="1"/>
+										<stack item="rockhounding_chemistry:mineral_ores" meta="9" count="1"/>
+										<stack item="rockhounding_chemistry:mineral_ores" meta="10" count="1"/>
+										<stack item="rockhounding_chemistry:mineral_ores" meta="11" count="1"/>
+										<stack item="rockhounding_chemistry:mineral_ores" meta="12" count="1"/>
+										<stack item="minecraft:air" meta="0" count="1"/>
+										<stack item="minecraft:air" meta="0" count="1"/>
+										<stack item="minecraft:air" meta="0" count="1"/>
+									</stack_eight>
+									<p space="10"/>
+
+									<link ref="resources:resources_page" color="#CC3333">&lt;- Specimens</link>
+									<p>Specimens are stable shards recovered from their gangue after an exposure to specific substances. Shards are minerals composed by one or more chemical elements following a specific formula. Each shard has its own specific gravity to properly set the leaching filters, readable by moving the cursor over them.</p>
+									<stack_eight>
+										<stack item="rockhounding_chemistry:antimonate_shards" meta="3" count="1"/>
+										<stack item="rockhounding_chemistry:arsenate_shards" meta="0" count="1"/>
+										<stack item="rockhounding_chemistry:borate_shards" meta="4" count="1"/>
+										<stack item="rockhounding_chemistry:carbonate_shards" meta="1" count="1"/>
+										<stack item="rockhounding_chemistry:chromate_shards" meta="3" count="1"/>
+										<stack item="rockhounding_chemistry:halide_shards" meta="2" count="1"/>
+										<stack item="rockhounding_chemistry:native_shards" meta="4" count="1"/>
+										<stack item="rockhounding_chemistry:oxide_shards" meta="9" count="1"/>
+									</stack_eight>
+									<stack_eight>
+										<stack item="rockhounding_chemistry:phosphate_shards" meta="4" count="1"/>
+										<stack item="rockhounding_chemistry:silicate_shards" meta="7" count="1"/>
+										<stack item="rockhounding_chemistry:sulfate_shards" meta="6" count="1"/>
+										<stack item="rockhounding_chemistry:sulfide_shards" meta="7" count="1"/>
+										<stack item="rockhounding_chemistry:vanadate_shards" meta="1" count="1"/>
+										<stack item="minecraft:air" meta="0" count="1"/>
+										<stack item="minecraft:air" meta="0" count="1"/>
+										<stack item="minecraft:air" meta="0" count="1"/>
+									</stack_eight>
+								</page>
+
+								<page id="elements_pages">
+									<link ref="resources:resources_page" color="#CC3333">&lt;- Elements</link>
+									<p>Chemical elements are obtained in their dust form by accumulating little quantities from the Chemical Extractor and can be used as supply in tech environments. The quantity of the extracted material roughly reflects the precentages listed when moving the cursor over the specimens.</p>
+									<p>Some elements are common and have an high availability. They are there just for completion and surplus, since usually minable from other mods.</p>
+									<stack_four>
+										<stack item="rockhounding_chemistry:chemical_dusts" meta="16" count="1"/>
+										<stack item="rockhounding_chemistry:chemical_dusts" meta="26" count="1"/>
+										<stack item="rockhounding_chemistry:chemical_dusts" meta="30" count="1"/>
+										<stack item="rockhounding_chemistry:chemical_dusts" meta="38" count="1"/>
+									</stack_four>
+									<p space="5"/>
+									<p>Uncommom elements are those usually unavailable as an ore in the world, requiring to be extracted.</p>
+									<stack_four>
+										<stack item="rockhounding_chemistry:chemical_dusts" meta="17" count="1"/>
+										<stack item="rockhounding_chemistry:chemical_dusts" meta="46" count="1"/>
+										<stack item="rockhounding_chemistry:chemical_dusts" meta="47" count="1"/>
+										<stack item="rockhounding_chemistry:chemical_dusts" meta="54" count="1"/>
+									</stack_four>
+									<p space="5"/>
+									<p>Rare Earth Elements are the rarest elements to be found and require quite a lot of resources to be collected in decent amounts, setting an ultimate achievement.</p>
+									<stack_four>
+										<stack item="rockhounding_chemistry:chemical_dusts" meta="0" count="1"/>
+										<stack item="rockhounding_chemistry:chemical_dusts" meta="3" count="1"/>
+										<stack item="rockhounding_chemistry:chemical_dusts" meta="8" count="1"/>
+										<stack item="rockhounding_chemistry:chemical_dusts" meta="12" count="1"/>
+									</stack_four>
+								</page>
+
+								<page id="fluid_pages">
+									<link ref="resources:resources_page" color="#CC3333">&lt;- Fluids and Gases</link>
+									<p color="#0000FF">Fluids:</p>
+									<p>Most of the fluids used by the mod are acids dealing damage (which can be disabled from the config). They can be handled as usual with any moving system.</p>
+									<p space="4"/>
+									<p color="#0000FF">Gases:</p>
+									<p>In Minecraft gases are fluids marked as "gaseous" (depicted by a flipped bucket icon). Inside the mod, gases are handled only in vessels and moved through a <link ref="utilities:pipeline_page" color="#000000">Gas Pipeline</link>.</p>
+									<p space="4"/>
+									<p color="#0000FF">Fluid Category:</p>
+									<p>The <link ref="utilities:fluidpedia_page" color="#000000">Fluidpedia</link> provides some parameters which tell the way a fluid can be stored inside the mod tanks. It roughly depends on Density and Viscosity. While Light Fluids can be held in a <link ref="utilities:fluid_tank_page" color="#000000">Fluid Tank</link>, Heavy Fluids require a <link ref="utilities:fluid_tank_page" color="#000000">Heavy Drum</link> to be stored. </p>
+									<p>Af = (D + V) / 2</p>
+									<p>Kf = V / D</p>
+									<p>Light Fluid: Af&lt;=3500 and Kf&lt;=1.50</p>
+									<p>Heavy Fluid: Af&gt;3500 or Kf&gt;1.50</p>
+								</page>
+
+								<page id="syngas_pages">
+									<link ref="resources:resources_page" color="#CC3333">&lt;- The Syngas Path</link>
+									<p>The mod has its own optional powering system, based on the production of Syngas, entirely sustained by water and coal. Syngas can be injected in the Power Station to produce Fuel Power and RF for the structure, as well as RF for external uses.</p>
+									<p space="2"/>
+									<p color="#0000FF">How to set the Syngas Path:</p>
+									<p>1- Assembly a <link ref="tiertwo:mineral_sizer_page" color="#000000">Mineral Sizer</link> and turn Coal Blocks into Cracked Coal.</p>
+									<p space="2"/>
+									<p>2- Place a <link ref="tierone:pond_page" color="#000000">Slurry Pond</link> and feed it with Cracked Coal and Water to obtain Coal Slurry.</p>
+									<p space="2"/>
+									<p>3- Assembly a <link ref="tiertwo:gas_plant_page" color="#000000">Gasification Plant</link> and feed it with water and Coal Slurry to obtain Raw Syngas.</p>
+									<p space="2"/>
+									<p>4- Assembly a <link ref="tiertwo:gas_purifier_page" color="#000000">Gas Purifier</link> and feed it with Raw Syngas to refine it into Syngas.</p>
+									<p space="2"/>
+									<p>5- Stock the Syngas in <link ref="utilities:pressure_vessel_page" color="#000000">Gas Holders</link>. Set a <link ref="utilities:pipeline_page" color="#000000">Gas Pipeline</link> path, dedicated to the Syngas delivery to all the structures.</p>
+									<p space="2"/>
+									<p>6- Feed each <link ref="utilities:engine_page" color="#000000">Power Station</link> with Syngas to produce Fuel Power. Add a <link ref="tools:tools_page" color="#000000">Gas Turbine</link> in the Redstone slot to produce also RF.</p>
+								</page>
+
+								<page id="parts_pages">
+									<link ref="resources:resources_page" color="#CC3333">&lt;- Material and Parts</link>
+									<p>This mod produces several alloys as an immediate application of the processes. They are roughly depicted by their characteristics and their real composition.</p>
+									<p space="5"/>
+									<p color="#0000FF">合金</p>
+									<p>Alloys are implemented with their set of items and oredicted to be integrated in recipes.</p>
+									<stack_five>
+										<stack item="rockhounding_chemistry:alloy_blocks_tech" meta="13" count="1"/>
+										<stack item="rockhounding_chemistry:alloy_bricks_tech" meta="13" count="1"/>
+										<stack item="rockhounding_chemistry:alloy_items_tech" meta="39" count="1"/>
+										<stack item="rockhounding_chemistry:alloy_items_tech" meta="40" count="1"/>
+										<stack item="rockhounding_chemistry:alloy_items_tech" meta="41" count="1"/>
+									</stack_five>
+									<p space="5"/>
+									<p>The Mischmetal alloy has the ability to generate sparks if walking on it while wearing boots.</p>
+									<p space="10"/>
+									<p color="#0000FF">Parts</p>
+									<p>For additional applications, alloys and metals can produce extra parts. They can be common ingredients for late-game technical recipes, like gears, plates and molten metals for Tinker Construct, as well as for trading purposes, like coins.</p>
+									<stack_eight>
+										<stack item="rockhounding_chemistry:alloy_parts" meta="0" count="1"/>
+										<stack item="rockhounding_chemistry:alloy_parts" meta="1" count="1"/>
+										<stack item="rockhounding_chemistry:alloy_parts" meta="2" count="1"/>
+										<stack item="rockhounding_chemistry:fluid.molten_titanium" meta="0" count="1"/>
+										<stack item="rockhounding_chemistry:alloy_parts" meta="3" count="1"/>
+										<stack item="rockhounding_chemistry:alloy_parts" meta="4" count="1"/>
+										<stack item="rockhounding_chemistry:alloy_parts" meta="5" count="1"/>
+										<stack item="rockhounding_chemistry:fluid.molten_vanadium" meta="0" count="1"/>
+									</stack_eight>
+									<stack_eight>
+										<stack item="rockhounding_chemistry:alloy_parts" meta="6" count="1"/>
+										<stack item="rockhounding_chemistry:alloy_parts" meta="7" count="1"/>
+										<stack item="rockhounding_chemistry:alloy_parts" meta="8" count="1"/>
+										<stack item="rockhounding_chemistry:fluid.molten_cube" meta="0" count="1"/>
+										<stack item="rockhounding_chemistry:alloy_parts" meta="24" count="1"/>
+										<stack item="rockhounding_chemistry:alloy_parts" meta="25" count="1"/>
+										<stack item="rockhounding_chemistry:alloy_parts" meta="26" count="1"/>
+										<stack item="rockhounding_chemistry:fluid.molten_hastelloy" meta="0" count="1"/>
+									</stack_eight>
+								</page>
+							</chapter>
+
+				<chapter id="utility">
+					<page id="utility_page">
+						<link ref="chapters:index" color="#CC3333">&lt;- Utility Blocks</link>
+						<p space="10"/>
+						<p><stack item="rockhounding_chemistry:machines_e" meta="2" count="1"/> <link ref="utilities:pump_page" color="#333399">-&gt; Water Pump</link></p>
+						<p><stack item="rockhounding_chemistry:machines_a" meta="2" count="1"/> <link ref="utilities:engine_page" color="#333399">-&gt; Power Station</link></p>
+						<p><stack item="rockhounding_chemistry:machines_c" meta="9" count="1"/> <link ref="utilities:cabinets_page" color="#333399">-&gt; Cabinets</link></p>
+						<p><stack item="rockhounding_chemistry:machines_a" meta="4" count="1"/> <link ref="utilities:fluid_tank_page" color="#333399">-&gt; Fluid Tank</link></p>
+						<p><stack item="rockhounding_chemistry:machines_e" meta="5" count="1"/> <link ref="utilities:fluid_tank_page" color="#333399">-&gt; Heavy Drum</link></p>
+						<p><stack item="rockhounding_chemistry:machines_d" meta="15" count="1"/> <link ref="utilities:fluid_tank_page" color="#333399">-&gt; Containment Tank</link></p>
+						<p><stack item="rockhounding_chemistry:machines_b" meta="9" count="1"/> <link ref="utilities:pressure_vessel_page" color="#333399">-&gt; Pressure Vessel</link></p>
+						<p><stack item="rockhounding_chemistry:machines_d" meta="6" count="1"/> <link ref="utilities:pressure_vessel_page" color="#333399">-&gt; Gas Holder</link></p>
+						<p><stack item="rockhounding_chemistry:machines_a" meta="14" count="1"/> <link ref="utilities:server_page" color="#333399">-&gt; Server</link></p>
+						<p><stack item="rockhounding_chemistry:machines_d" meta="12" count="1"/> <link ref="utilities:fluidpedia_page" color="#333399">-&gt; Fluidpedia</link></p>
+						<p><stack item="rockhounding_chemistry:machines_d" meta="13" count="1"/> <link ref="utilities:fluidpedia_page" color="#333399">-&gt; Chemical Dumper</link></p>
+						<p><stack item="rockhounding_chemistry:machines_e" meta="1" count="1"/> <link ref="utilities:exhaustion_page" color="#333399">-&gt; Exhaust Valve</link></p>
+						<p><stack item="rockhounding_chemistry:pipeline_pump" meta="0" count="1"/> <link ref="utilities:pipeline_page" color="#333399">-&gt; Fluid Pipeline</link></p>
+						<p><stack item="rockhounding_chemistry:gasline_pump" meta="0" count="1"/> <link ref="utilities:pipeline_page" color="#333399">-&gt; Gas Pipeline</link></p>
+					</page>
+				</chapter>
+
+							<chapter id="utilities">
+								<page id="pump_page">
+									<p><stack item="rockhounding_chemistry:machines_e" meta="2" count="1"/> <link ref="utility:utility_page" color="#CC3333">&lt;- Water Pump</link></p>
+									<p>This device allows to collect water from a source tile. It must be placed on top of it and turned on with a redstone signal. Water will be slowly collected in the internal tank and can be extracted with any fluid trasport system.</p>
+									<p>It is not fueled and has no gui.</p>
+									<p>It has 2 combined upgrades: Compression and Tiers.</p>
+									<p space="5"/>
+									<p>- A Compressing Unit allows to improve the water aspiration by making it persistent.</p>
+									<p space="5"/>
+									<p>- Tiered Impellers improve the efficiency of the pump by increasing the flow:</p>
+									<p indent="10"> - Iron Impeller: 200 mb/t</p>
+									<p indent="10"> - Aluminum Impeller: 1000 mb/t</p>
+									<p indent="10"> - Stellite Impeller: 2000 mb/t</p>
+									<p/>
+									<grid_four>
+										<stack item="rockhounding_chemistry:misc_items" meta="9" count="1"/>
+										<stack item="rockhounding_chemistry:misc_items" meta="30" count="1"/>
+										<stack item="rockhounding_chemistry:misc_items" meta="31" count="1"/>
+										<stack item="rockhounding_chemistry:misc_items" meta="32" count="1"/>
+									</grid_four>
+								</page>
+								<page>
+									<p>Upgrades can be applied by using on the machine the desired item. Impellers can be swapped by using a new one on the machine, making the old one drop. By default the Water Pump is crafted with the Iron Impeller installed. Without Compression, the Tier upgrades produce half their efficiency. The Compressor can be also removed by using the wrench on the machine.</p>
+									<p/>
+									<image src="rockhounding_chemistry:gbook/screens/water_pump" tw="150" th="105"/>
+								</page>
+
+								<page id="engine_page">
+									<p><stack item="rockhounding_chemistry:machines_a" meta="2" count="1"/> <link ref="utility:utility_page" color="#CC3333">&lt;- Power Station</link></p>
+									<p>This is the element handling the power supply inside the mod. It can passively provide power to the structures or be used as a RF generator. It can produce Fuel Power or Redstone Flux.</p>
+									<p>&gt; Fuel Power is generated by any burnable item, <link ref="minerals:syngas_pages" color="#000000">Syngas</link>, lava or converted from external RF (by applying an Induction Heating Interface to the fuel slot).</p>
+									<p>&gt; RF is generated by redstone, <link ref="minerals:syngas_pages" color="#000000">Syngas</link> (by applying a Gas Turbine to the redstone slot) or directly injected from external sources.</p>
+									<p>Once connected to a structure, the two modules will be automatically handled to show which type of fuel it is required (fuel, RF, both). The switch in the middle allows to independently provide RF to blocks in front of it. It should be turned off while connected to a structure. External RF can be inserted from any conduit, <link ref="minerals:syngas_pages" color="#000000">Syngas</link> can be inserted from the back only through a <link ref="utilities:pipeline_page" color="#000000">Gas Pipeline</link>.</p>
+								</page>
+
+								<page id="cabinets_page">
+									<p><stack item="rockhounding_chemistry:machines_c" meta="9" count="1"/>  <link ref="utility:utility_page" color="#CC3333">&lt;- Cabinets</link></p>
+									<p>Cabinets allow to interface ingredients in structures. There are two type of cabinets: the Element and the Material cabinet. The first type holds the elements being processed by the mod, while the second type holds elements injected via CraftTweaker. They are 2 blocks tall: the lower part is the proper material storage, while the upper part works as injector for the storage and requires a Graduated Cylinder to quantify the inserted material. When required, on its output side, it's possible to connect a Lab Balance, which turns stored elements back to the item form. An hopper or any item extractor can be attached to the balance to move these items.</p>
+									<image src="rockhounding_chemistry:gbook/screens/cabinets" tw="135" th="95"/>
+								</page>
+
+								<page id="fluid_tank_page">
+									<p><stack item="rockhounding_chemistry:machines_a" meta="4" count="1"/> <link ref="utility:utility_page" color="#CC3333">&lt;- Fluid Tank</link></p>
+									<p>This basic tank stores <link ref="minerals:fluid_pages" color="#000000">Light Fluids</link>. It is provided of a filter to handle a specific fluid by using a <link ref="tools:tools_page" color="#000000">Sampling Ampoule</link> and slots to also handle fluids directly from the gui other than using buckets on the tank. A void slot allows to clean the tank from its content.</p>
+									<p space="4"/>
+									<p><stack item="rockhounding_chemistry:machines_e" meta="5" count="1"/> <link ref="utility:utility_page" color="#CC3333">&lt;- Heavy Drum</link></p>
+									<p>The Heavy Drum is dedicated to store <link ref="minerals:fluid_pages" color="#000000">Heavy Fluids</link>, very dense and viscous fluids, which cannot be held in the basic tank. It has the same handling properties though.</p>
+									<p space="4"/>
+									<p><stack item="rockhounding_chemistry:machines_d" meta="15" count="1"/> <link ref="utility:utility_page" color="#CC3333">&lt;- Containment Tank</link></p>
+									<p>The Containment Tank is an advanced tank, part of the <link ref="feature:toxic_page" color="#000000">Hazard and Pollution</link> feature. It allows to contain <link ref="minerals:fluid_pages" color="#000000">Light Fluids</link> without the risk of any pollutant leaking. By pressing U on it, JEI will tell which are the hazardous fluids. </p>
+								</page>
+
+								<page id="pressure_vessel_page">
+									<p><stack item="rockhounding_chemistry:machines_b" meta="9" count="1"/> <link ref="utility:utility_page" color="#CC3333">&lt;- Pressure Vessel</link></p>
+									<p>This is a tank capable to contain gases. Vessels are unidirectional, with fixed input and output marked with colored plugs. It roughly depicts the filled bucket of regular fluids, containing only 1cu of gas and can transfer only through the <link ref="utilities:pipeline_page" color="#000000">Gas Pipeline</link>. Its gui allows to filter the input by using a <link ref="tools:tools_page" color="#000000">Sampling Ampoule</link> or void the tank, losing the content. If kept at full capacity over a long period, it may collapse and explode by the <link ref="feature:toxic_page" color="#000000">Hazard and Pollution</link> feature.</p>
+									<p space="10"/>
+									<p><stack item="rockhounding_chemistry:machines_d" meta="6" count="1"/> <link ref="utility:utility_page" color="#CC3333">&lt;- Gas Holder</link></p>
+									<p>The Gas Holder is the high tier pressure vessel capable to contain 1000cu of gas and is two blocks tall. It has the same characteristics of the lower tier.</p>
+									<image src="rockhounding_chemistry:gbook/screens/vessels" tw="120" th="48"/>
+								</page>
+
+								<page id="server_page">
+									<p><stack item="rockhounding_chemistry:machines_a" meta="14" count="1"/> <link ref="utility:utility_page" color="#CC3333">&lt;- Server</link></p>
+									<p>The Server allows the structures incorporating it to automatically schedule multiple recipes in a cycle as long as ingredients are constantly supplied. For the cycle, it uses Server Files in which to inscribe all the informations about the recipe to perform. A cycle can execute up to 9 files in the order they are placed inside the cabinet (left to right). Once activated, the Server overrides the recipe handler of the structure. Turning it off, the controlled structure returns to its regular duty.</p>
+									<grid_two>
+										<stack item="rockhounding_chemistry:machines_a" meta="14" count="1"/>
+										<stack item="rockhounding_chemistry:misc_items" meta="0" count="1"/>
+									</grid_two>
+									<p space="5"/>
+									<image src="rockhounding_chemistry:gbook/wiki/wikiserver" tw="180" th="106"/>
+								</page>
+								<page>
+									<p color="#0000FF">How to set the Server:</p>
+									<p>1- Put a Server File into the inscriber slot.</p>
+									<p space="3"/>
+									<p>2a- Select the recipe or the variable parameter, depending on the structure and its recipes.</p>
+									<p space="3"/>
+									<p>2b- Choose how many times it must perform the selected recipe.</p>
+									<p space="3"/>
+									<p>2c- When enabled, if necessary set an item filter or fluid filter by a <link ref="tools:tools_page" color="#000000">Sampling Ampoule</link>, depending on the type of recipe.</p>
+									<p space="3"/>
+									<p>2d- Choose if the file must be endlessly repeated after the cabinet cycle is over. Non repeatable files will be skipped once done.</p>
+									<p space="3"/>
+									<p>3- Save the file. A tooltip will show the settings. Saved files can be regenerated anytime with new values at the same way.</p>
+									<p space="3"/>
+									<p>4- Put the saved file in the cabinet in the planned order.</p>
+									<p space="3"/>
+									<p>5- Activate the Server when all the files are in place inside the cabinet. The structure should be always activated after the server.</p>
+								</page>
+
+								<page id="fluidpedia_page">
+									<p><stack item="rockhounding_chemistry:machines_d" meta="12" count="1"/> <link ref="utility:utility_page" color="#CC3333">&lt;- Fluidpedia</link></p>
+									<p>The Fluidpedia is an utility block that allows to pick samples of fluids and gases for filtering purposes inside the mod. It works by using a <link ref="tools:tools_page" color="#000000">Sampling Ampoule</link> on any of the available slots. A tooltip provides additional informations like type and temperature, which are reliavant for some of the machines. To better address the search, a selector allows to filter the materials by character (A-Z) or by type (Fluid/Gas/All). The filled ampoule must then be used on the filter slot of the interested machine.</p> 
+									<p space="10"/>
+									<p><stack item="rockhounding_chemistry:machines_d" meta="13" count="1"/> <link ref="utility:utility_page" color="#CC3333">&lt;- Chemical Dumper</link></p>
+									<p>The Chemical Dumper is an utility block that allows to dynamically void unwanted fluids or gases. It is provided of an internal filter to set the input and can connect to any fluid pipe or the <link ref="utilities:pipeline_page" color="#000000">Gas Pipeline</link>, giving a final destination to the material to dump.</p> 
+								</page>
+
+								<page id="exhaustion_page">
+									<p><stack item="rockhounding_chemistry:machines_e" meta="1" count="1"/> <link ref="utility:utility_page" color="#CC3333">&lt;- Exhaust Valve</link></p>
+									<p>The Exhaust Valve is a block related to the <link ref="feature:toxic_page" color="#000000">Hazard and Pollution</link> feature. It allows to release the pressure of any vessel or holder if kept too long at full capacity, preventing a collapsing. It has a configurable tolerance and a percentage of released gas for when the critical point is reached. Tolerance and its current progression are shown in screen overlays like HWYLA or TheOneProbe. If the contained gas is marked as pollutant, when released it will generate a toxic cloud around the vessel which will dissolve after a while. By pressing U on the Pressure Vessel, JEI will tell which gases are hazardous.</p>
+									<image src="rockhounding_chemistry:gbook/screens/exhaustion_valve" tw="52" th="80"/>
+								</page>
+
+								<page id="pipeline_page">
+									<p><stack item="rockhounding_chemistry:pipeline_pump" meta="0" count="1"/> <link ref="utility:utility_page" color="#CC3333">&lt;- Fluid Pipeline</link></p>
+									<p>The Fluid Pipeline is a moving system between fluid handlers. A fluid line is composed of a Pump connected to the sending tank and a Valve to the receiving tanks, joined by Ducts. By default, the pump moves 1 bucket per cycle, upgraded to 100 buckets by using a Compressing Unit on it. The valve has a gui in which to separately filter each of the free sides.</p> 
+									<grid_four>
+										<stack item="rockhounding_chemistry:pipeline_pump" meta="0" count="1"/>
+										<stack item="rockhounding_chemistry:pipeline_duct" meta="0" count="1"/>
+										<stack item="rockhounding_chemistry:pipeline_valve" meta="0" count="1"/>
+										<stack item="rockhounding_chemistry:misc_items" meta="9" count="1"/>
+									</grid_four>
+									<p space="10"/>
+									<p><stack item="rockhounding_chemistry:gasline_pump" meta="0" count="1"/> <link ref="utility:utility_page" color="#CC3333">&lt;- Gas Pipeline</link></p>
+									<p>The Gas Pipeline is a moving system between the mod's gas handlers. A gas line is composed of a Pump connected to the output of the sending handler and Ducts connected to the input of the receiving handlers. The pump alone can already transfer gas without ducts. It transfers by default 1cu of gas per cycle, upgraded to 10cu of gas by using a Compressing Unit on it.</p> 
+									<grid_three>
+										<stack item="rockhounding_chemistry:gasline_pump" meta="0" count="1"/>
+										<stack item="rockhounding_chemistry:gasline_duct" meta="0" count="1"/>
+										<stack item="rockhounding_chemistry:misc_items" meta="9" count="1"/>
+									</grid_three>
+								</page>
+								<page>
+									<p color="#0000FF">How to set the Pipeline:</p>
+									<p>These actions are valid for both fluid and gas pipeline.</p>
+									<p>- To start working, pumps and valve must be activated with bare hands while sneaking.</p> 
+									<p>- Hitting pumps with the mod wrench, it sets an increasing delay (hit while sneaking to decrease), ticking less intensively to save performance.</p> 
+									<p>- Both the delay and the lenght of the line may influence the efficiency of the pipeline. It is suggested to create the shortest path possible, avoiding loops.</p>
+									<p>- Using the wrench on the pump will remove the Compressing Unit upgrade, if it was applied.</p> 
+									<p>- Using the wrench on a duct, it changes color barring the path.</p>
+									<image src="rockhounding_chemistry:gbook/screens/pipeline" tw="179" th="70"/>
+								</page>
+
+							</chapter>
+
+				<chapter id="tools">
+					<page id="tools_page">
+						<link ref="chapters:index" color="#CC3333">&lt;- Utility Items</link>
+						<p space="10"/>
+						<p color="#0000FF"><stack item="rockhounding_core:mod_wrench" meta="0" count="1"/> Mod Wrench</p>
+						<p space="2"/>
+						<p>This tool allows to interact with some blocks and machines to alter their function or rotation. It can be used by right clicking, left clicking, while sneaking or not during the action. The various chapters explain when it's possible to use it and how.</p>
+						<p space="5"/>
+						<p color="#0000FF"><stack item="rockhounding_chemistry:tile_nullifier" meta="0" count="1"/> Tile Nullifier</p>
+						<p space="2"/>
+						<p>This debug item allows to reset and drop any of the machines, by using it on them, if their tile entity gets permanently corrupted or causing crashes when trying to interact with them.</p>
+						<p space="5"/>
+						<p color="#0000FF"><stack item="rockhounding_chemistry:sampling_ampoule" meta="0" count="1"/> Sampling Ampoule</p>
+						<p space="2"/>
+						<p>This item allows to pick a sample of gas or fluid from the <link ref="utilities:fluidpedia_page" color="#000000">Fluidpedia</link> to set a filter inside tanks or vessels able to filter their input.</p>
+					</page>
+					<page>
+						<p color="#0000FF"><stack item="rockhounding_core:heat_inductor" meta="0" count="1"/> Induction Heating Interface</p>
+						<p space="2"/>
+						<p>This item must be placed in the fuel slot of the <link ref="utilities:engine_page" color="#000000">Power Station</link>. It allows to convert the external incoming RF into Fuel Power to supply the structures.</p>
+						<p space="5"/>
+						<p color="#0000FF"><stack item="rockhounding_core:gas_turbine" meta="0" count="1"/> Gas Turbine</p>
+						<p space="2"/>
+						<p>This item must be placed in the redstone slot of the <link ref="utilities:engine_page" color="#000000">Power Station</link> and allows to use <link ref="minerals:syngas_pages" color="#000000">Syngas</link> for the production of RF.</p>
+						<p space="5"/>
+						<p color="#0000FF"><stack item="rockhounding_core:fuel_blend" meta="0" count="1"/> Fuel Blend</p>
+						<p space="2"/>
+						<p>This is an experimental alternative fueling system overriding both fuel and redstone, making the fueling machines accept only this item. It is disabled by default from the Core. No longer developed.</p>
+					</page>
+				</chapter>
+
+				<chapter id="devices">
+					<page id="devices_page">
+						<link ref="chapters:index" color="#CC3333">&lt;- Structures and Machines</link>
+						<p space="10"/>
+						<link ref="tier_one:tier_one_page" indent="8" color="#333399">-&gt; Tier1 Machines</link>
+						<p space="4"/>
+						<link ref="tier_two:tier_two_page" indent="8" color="#333399">-&gt; Tier2 Machines</link>
+						<p space="4"/>
+						<link ref="tier_three:tier_three_page" indent="8" color="#333399">-&gt; Tier3 Machines</link>
+						<p space="4"/>
+						<link ref="tier_four:tier_four_page" indent="8" color="#333399">-&gt; Tier4 Machines</link>
+					</page>
+				</chapter>
+
+							<chapter id="tier_one">
+								<page id="tier_one_page">
+									<link ref="devices:devices_page" color="#CC3333">&lt;- Tier1 Machines</link>
+									<p space="10"/>
+									<p><stack item="rockhounding_chemistry:machines_a" meta="12" count="1"/> <link ref="tierone:evaporation_tank_page" color="#333399">-&gt; Evaporation Tank</link></p>
+									<p><stack item="rockhounding_chemistry:machines_a" meta="13" count="1"/> <link ref="tierone:evaporation_tank_page" color="#333399">-&gt; Seasoning Rack</link></p>
+									<p><stack item="rockhounding_chemistry:machines_b" meta="0" count="1"/> <link ref="tierone:pond_page" color="#333399">-&gt; Slurry Pond</link></p>
+									<p><stack item="rockhounding_chemistry:machines_d" meta="11" count="1"/> <link ref="tierone:transposer_page" color="#333399">-&gt; Transposer</link></p>
+									<p><stack item="rockhounding_chemistry:machines_a" meta="10" count="1"/> <link ref="tierone:blender_page" color="#333399">-&gt; Lab Blender</link></p>
+									<p><stack item="rockhounding_chemistry:machines_a" meta="11" count="1"/> <link ref="tierone:casting_bench_page" color="#333399">-&gt; Profiling Bench</link></p>
+									<p><stack item="rockhounding_chemistry:machines_b" meta="11" count="1"/> <link ref="tierone:exchanger_page" color="#333399">-&gt; Heat Exchanger</link></p>
+									<p><stack item="rockhounding_chemistry:machines_c" meta="1" count="1"/> <link ref="tierone:condenser_page" color="#333399">-&gt; Gas Condenser</link></p>
+									<p><stack item="rockhounding_chemistry:machines_a" meta="15" count="1"/> <link ref="tierone:expander_page" color="#333399">-&gt; Gas Expansion Chamber</link></p>
+									<p><stack item="rockhounding_chemistry:machines_e" meta="3" count="1"/> <link ref="tierone:catalyst_regen" color="#333399">-&gt; Catalyst Renegerator</link></p>
+									<p><stack item="rockhounding_chemistry:machines_b" meta="10" count="1"/> <link ref="tierone:compressor_page" color="#333399">-&gt; Air Compressor</link></p>
+								</page>
+							</chapter>
+										<chapter id="tierone">
+											<page id="evaporation_tank_page">
+												<p><stack item="rockhounding_chemistry:machines_a" meta="12" count="1"/> <link ref="tier_one:tier_one_page" color="#CC3333">&lt;- Evaporation Tank</link></p>
+												<p>The Evaporation Tank is a small container fillable with water, slowly evaporating to reveal a layer of Raw Salt. This layer can be manually harvested by using a shovel on top of the tank or extracted with an hopper or pipes. Raw salt must be prosessed in the Seasoning Rack to be refined into common salt. The evaporation process involves several environmental occurrencies:</p>
+												<p space="2"/>
+												<p>&gt; Using the wrench on the tank will change the extractible fluid by using pipes. This can turn the tank into a rain collector. Extracted fluids cannot be processed in the tank anymore.</p>
+												<p space="2"/>
+												<p>&gt; If it rains, the empty tank slowly fills itself.</p>
+												<p space="2"/>
+												<p>&gt; Rain collecting does not happen in biomes with no rain.</p>
+												<p space="2"/>
+												<p>&gt; The evaporation advances on daytime, stopping at night.</p>
+												<p space="2"/>
+												<p>&gt; The tank must always see the sky to evaporate.</p>
+											</page>
+
+											<page>
+												<p>&gt; If it rains at any stage of the evaporation, the salt will melt again into water after a configurable amount of time.</p>
+												<p space="2"/>
+												<p>&gt; Evaporation changes through biomes: faster in hot biomes, slower in cold and wet biomes.</p>
+												<p space="2"/>
+												<p>&gt; Altitudes above y=120 speed up the evaporation compared to lower levels.</p>
+												<p space="2"/>
+												<p>&gt; A blacklist sets dimensions where evaporation will not happen.</p>
+												<p space="2"/>
+												<p>&gt; A whitelist for "no-air" or "space" dimensions sets places where the evaporation is replaced by desublimation, causing the immediate revealing of a poorer raw salt at a lower water rate.</p>
+
+												<p space="10"/>
+												<p><stack item="rockhounding_chemistry:machines_a" meta="13" count="1"/> <link ref="tier_one:tier_one_page" color="#CC3333">&lt;- Seasoning Rack</link></p>
+												<p>The Seasoning Rack is an unpowered device operating as an object processor, where ingredients can be turned into others after an interval.</p>
+											</page>
+
+											<page id="pond_page">
+												<p><stack item="rockhounding_chemistry:machines_b" meta="0" count="1"/> <link ref="tier_one:tier_one_page" color="#CC3333">&lt;- Slurry Pond</link></p>
+												<p>The Slurry Pond is an unpowered device producing a fluid substance by the maceration of a solid ingredient in a fluid solvent. Its speed and efficiency are defined by the concentration of the process, which is controlled by a slider.</p> 
+												<p space="2"/>
+												<image src="rockhounding_chemistry:gbook/wiki/slurry_conc" tw="87" th="40"/>
+												<p space="2"/>
+												<p color="#0000FF">> High concentration (green area)</p> 
+												<p>Dense smaller scale process.</p> 
+												<p>Consumes less ingredients and yields less slurry, but it outputs at a faster rate.</p>
+												<p space="2"/>
+												<p color="#0000FF">> Low concentration (red area)</p> 
+												<p>Diluted larger scale process.</p> 
+												<p>Consumes more ingredients and yields more slurry, but requires more time to output.</p> 
+												<p space="2"/>
+												<p>The gui monitor indicates the required ingredients and their managed quantity, as well as the process time.</p>
+											</page>
+
+											<page id="transposer_page">
+												<p><stack item="rockhounding_chemistry:machines_d" meta="11" count="1"/> <link ref="tier_one:tier_one_page" color="#CC3333">&lt;- Transposer</link></p>
+												<p>It is an unpowered device to unify modded fluids or gases into one variant. It also allows gases from other mods to be put in circle inside the mod, as well as gases from the mod to be ported outside. Once ported, the gas can be picked by the <link ref="utilities:pipeline_page" color="#000000">Gas Pipeline</link> in front. Porting a gas outside, it can be picked with any fluid pipe from any side and requires a vessel attached to the input. The enablers allow to select which type of material to process.</p>
+												<p>Injecting a gas in the system via CraftTweaker, the script must contain the same gas for both input and output, to be transposed into the mod.</p>
+												<p space="2"/>
+												<image src="rockhounding_chemistry:gbook/screens/transposer" tw="154" th="94"/>
+											</page>
+
+											<page id="blender_page">
+												<p><stack item="rockhounding_chemistry:machines_a" meta="10" count="1"/> <link ref="tier_one:tier_one_page" color="#CC3333">&lt;- Lab Blender</link></p>
+												<p>It allows to mix different ingredients into a mixture. It is 2 blocks tall: while the controller handles the operations, the upper tank holds the ingredients.</p>
+												<p space="4"/>
+												<p color="#0000FF">Requirements</p>
+												<p>1x Blending Unit</p>
+												<p>1x <link ref="utilities:engine_page" color="#000000">Power Station</link> (Redstone)</p>
+												<p space="4"/>
+												<p color="#0000FF">Assembling</p>
+												<layer_1_2/>
+												<blender_slots>
+													<stack item="rockhounding_chemistry:machines_a" meta="2" count="1"/>
+													<stack item="rockhounding_chemistry:machines_a" meta="10" count="1"/>
+												</blender_slots>
+												<p space="4"/>
+												<image src="rockhounding_chemistry:gbook/screens/blender" tw="94" th="110"/>
+											</page>
+											<page>
+												<p color="#0000FF">How to set the Lab Blender:</p>
+												<p>> Oredicted ingredients can be freely inserted, as long as only those required by the recipe.</p>
+												<image src="rockhounding_chemistry:gbook/wiki/blender_tank_1" tw="103" th="40"/>
+												<p space="2"/>
+												<p>> A memory system also allows to lock the slots to accept only specific ingredients. Turn on the Lock and add the valid items to be recognized. Clicking the slot again will remove the filter, turning off the Lock will reset the memory.</p>
+												<image src="rockhounding_chemistry:gbook/wiki/blender_tank_2" tw="103" th="40"/>
+												<p space="2"/>
+												<p>> The controller also shows a preview of the current recipe depending on the ingredients.</p>
+												<image src="rockhounding_chemistry:gbook/wiki/blender_unit" tw="82" th="60"/>
+											</page>
+
+											<page id="casting_bench_page">
+												<p><stack item="rockhounding_chemistry:machines_a" meta="11" count="1"/> <link ref="tier_one:tier_one_page" color="#CC3333">&lt;- Profiling Bench</link></p>
+												<p>The profiling bench is an unpowered machine that allows to reshape materials into parts with different patterns to choose from. It can be interacted straight away by right-clicking the block to insert or extract the items or handled with hoppers and pipes.</p>
+												<p space="4"/>
+												<p color="#0000FF">Requirements</p>
+												<p>1x Profiling Bench</p>
+												<p>1x <link ref="utilities:server_page" color="#000000">Server</link></p>
+												<p space="4"/>
+												<p color="#0000FF">Assembling</p>
+												<profiling_slots>
+													<stack item="rockhounding_chemistry:machines_a" meta="14" count="1"/>
+													<stack item="rockhounding_chemistry:machines_a" meta="11" count="1"/>
+												</profiling_slots>
+												<image src="rockhounding_chemistry:gbook/screens/casting" tw="84" th="100"/>
+											</page>
+											<page>
+												<p color="#0000FF">How to set the Profiling Bench:</p>
+												<p>> The device has a selector in front of the press, showing the possible shapes and it can be scrolled by punching the block (punch while sneaking to scroll backward).</p>
+												<stack_eight>
+													<stack item="rockhounding_chemistry:pattern_items" meta="0" count="1"/>
+													<stack item="rockhounding_chemistry:pattern_items" meta="1" count="1"/>
+													<stack item="rockhounding_chemistry:pattern_items" meta="2" count="1"/>
+													<stack item="rockhounding_chemistry:pattern_items" meta="3" count="1"/>
+													<stack item="rockhounding_chemistry:pattern_items" meta="4" count="1"/>
+													<stack item="rockhounding_chemistry:pattern_items" meta="5" count="1"/>
+													<stack item="rockhounding_chemistry:pattern_items" meta="6" count="1"/>
+													<stack item="rockhounding_chemistry:pattern_items" meta="7" count="1"/>
+												</stack_eight>
+												<stack_four>
+													<stack item="rockhounding_chemistry:pattern_items" meta="8" count="1"/>
+													<stack item="rockhounding_chemistry:pattern_items" meta="9" count="1"/>
+													<stack item="rockhounding_chemistry:pattern_items" meta="10" count="1"/>
+													<stack item="minecraft:air" meta="0" count="1"/>
+												</stack_four>
+												<p space="4"/>
+												<p>> Use a valid item on the block and it will get placed under the press, which will start moving.</p> 
+												<p space="4"/>
+												<p>> Once done, the new item will appear and can be extracted by clicking the block again.</p>
+											</page>
+
+											<page id="exchanger_page">
+												<p><stack item="rockhounding_chemistry:machines_b" meta="11" count="1"/> <link ref="tier_one:tier_one_page" color="#CC3333">&lt;- Heat Exchanger</link></p>
+												<p>The Heat Exchanger processes gases by cooling them through a coolant liquid system.</p>
+												<p space="4"/>
+												<p color="#0000FF">Requirements</p>
+												<p>1x Heat Exchanger</p>
+												<p>1x Gas pressurizer</p>								
+												<p>1x <link ref="utilities:engine_page" color="#000000">Power Station</link> (Redstone)</p>
+												<p>2x <link ref="utilities:pressure_vessel_page" color="#000000">Vessel/Holder</link></p>
+												<p>1x Flotation Tank</p>
+												<p space="4"/>
+												<p color="#0000FF">Assembling</p>
+												<layer_1_2_3/>
+												<exchanger_slots>
+													<stack item="rockhounding_chemistry:machines_b" meta="11" count="1"/>
+													<stack item="rockhounding_chemistry:machines_b" meta="9" count="1"/>
+													<stack item="rockhounding_chemistry:machines_a" meta="2" count="1"/>
+													<stack item="rockhounding_chemistry:machines_b" meta="1" count="1"/>
+													<stack item="rockhounding_chemistry:machines_d" meta="14" count="1"/>
+												</exchanger_slots>
+											</page>
+											<page>
+												<p color="#0000FF">How to set the Heat Exchanger:</p>
+												<p>> Fill the coolant tank on top, making sure the fluid temperature isn't higher than the input one. The lower is the coolant temperature, the less energy and coolant are consumed in the process.</p>
+												<image src="rockhounding_chemistry:gbook/wiki/coolant" tw="133" th="60"/>
+												<p space="4"/>
+												<p>> The output gas must have a lower temperature than the input gas for a valid recipe.</p> 
+												<p space="4"/>
+												<p color="#0000FF">Preview</p>
+												<link ref="galleries:gal_exchanger" color="#336633">Front View</link>
+											</page>
+
+											<page id="condenser_page">
+												<p><stack item="rockhounding_chemistry:machines_c" meta="1" count="1"/> <link ref="tier_one:tier_one_page" color="#CC3333">&lt;- Gas Condenser</link></p>
+												<p>It compresses gases into their liquid state following the Expansion Ratio 1/N. It works in opposition to the Expanion Chamber, sharing the same recipes with inverted factors.</p>
+												<p space="4"/>
+												<p color="#0000FF">Requirements</p>
+												<p>1x Gas Condenser</p>
+												<p>1x <link ref="utilities:pressure_vessel_page" color="#000000">Vessel/Holder</link></p>
+												<p>1x Buffer Tank</p>
+												<p>1x <link ref="utilities:engine_page" color="#000000">Power Station</link> (Fuel)</p>
+												<p space="4"/>
+												<p color="#0000FF">Assembling</p>
+												<layer_1_2/>
+												<condenser_slots>
+													<stack item="rockhounding_chemistry:machines_b" meta="9" count="1"/>
+													<stack item="rockhounding_chemistry:machines_c" meta="1" count="1"/>
+													<stack item="rockhounding_chemistry:machines_a" meta="2" count="1"/>
+													<stack item="rockhounding_chemistry:machines_e" meta="6" count="1"/>
+												</condenser_slots>
+												<p space="4"/>
+												<image src="rockhounding_chemistry:gbook/screens/condenser" tw="90" th="90"/>
+											</page>
+
+											<page id="expander_page">
+												<p><stack item="rockhounding_chemistry:machines_a" meta="15" count="1"/> <link ref="tier_one:tier_one_page" color="#CC3333">&lt;- Gas Expansion Chamber</link></p>
+												<p>It expands fluids into their gas state following the Expansion Ratio 1/N. It works in opposition to the Gas Condenser, sharing the same recipes with inverted factors.</p>
+												<p space="4"/>
+												<p color="#0000FF">Requirements</p>
+												<p>1x Expansion Chamber</p>
+												<p>1x <link ref="utilities:pressure_vessel_page" color="#000000">Vessel/Holder</link></p>
+												<p>1x Flotation Tank</p>
+												<p>1x <link ref="utilities:engine_page" color="#000000">Power Station</link> (Fuel)</p>
+												<p space="4"/>
+												<p color="#0000FF">Assembling</p>
+												<layer_1_2/>
+												<expander_slots>
+													<stack item="rockhounding_chemistry:machines_b" meta="9" count="1"/>
+													<stack item="rockhounding_chemistry:machines_a" meta="15" count="1"/>
+													<stack item="rockhounding_chemistry:machines_a" meta="2" count="1"/>
+													<stack item="rockhounding_chemistry:machines_d" meta="14" count="1"/>
+												</expander_slots>
+												<p space="4"/>
+												<image src="rockhounding_chemistry:gbook/screens/expander" tw="84" th="90"/>
+											</page>
+
+											<page id="catalyst_regen">
+												<p><stack item="rockhounding_chemistry:machines_e" meta="3" count="1"/> <link ref="tier_one:tier_one_page" color="#CC3333">&lt;- Catalyst Regenerator</link></p>
+												<p>The Catalyst Regenerator replenishes the functionality of spent catalysts. The system is applied beneath any structure element holding catalysts.</p>
+												<p space="4"/>
+												<p color="#0000FF">Requirements</p>
+												<p>1x Catalyst Renegerator</p>
+												<p>1x <link ref="utilities:pressure_vessel_page" color="#000000">Vessel/Holder</link></p>								
+												<p space="4"/>
+												<p color="#0000FF">Assembling</p>
+												<regen_slots>
+													<stack item="rockhounding_chemistry:machines_e" meta="3" count="1"/>
+													<stack item="rockhounding_chemistry:machines_b" meta="9" count="1"/>
+													<stack item="minecraft:water_bucket" meta="0" count="1"/>
+													<stack item="rockhounding_chemistry:fluid.flue_gas" meta="0" count="1"/>
+												</regen_slots>
+												<p space="2"/>
+												<p color="#0000FF">Monitored Blocks</p>
+												<p>Precipitation Chamber: Controller</p>
+												<p>Lab Oven: Controller</p>
+												<p>Gas Reforming: Controller</p>
+												<p>Chemical Extractor: Stabilizer</p>
+												<p>Fixed Bed Reactor: Controller</p>
+											</page>
+
+											<page>
+												<p color="#0000FF">How to set the Catalyst Regen.:</p>
+												<p>> The Regenerator must be oriented with the row of colored plugs on top of it matching those under the monitored block they connect.</p>
+												<image src="rockhounding_chemistry:gbook/wiki/catalyst_plugs" tw="120" th="80"/>
+												<p space="4"/>
+												<p>> Feed water to the Regenerator and Flue Gas to the attached vessel.</p>
+												<p space="4"/>
+												<p>> When activated, once any monitored catalyst drops its durability below 25%, it gets replenished. As a side effect of the cleaning process, a coke compound can be occasionally saved.</p>
+												<p space="2"/>
+												<image src="rockhounding_chemistry:gbook/screens/catalyst_regen" tw="90" th="66"/>
+											</page>
+											
+											<page id="compressor_page">
+												<p><stack item="rockhounding_chemistry:machines_b" meta="10" count="1"/> <link ref="tier_one:tier_one_page" color="#CC3333">&lt;- Air Compressor</link></p>
+												<p>The air compressor allows to produce compressed air, used in some process inside the mod.</p>
+												<p>The device is already provided of a own fuel system, so no additional Power Station is required. Once activated, the compressing unit simply pushes air inside the attached container for storage.</p>
+												<p space="4"/>
+												<p color="#0000FF">Requirements</p>
+												<p>1x Air Compressor (fuel)</p>
+												<p>1x <link ref="utilities:pressure_vessel_page" color="#000000">Vessel/Holder</link></p>
+												<p space="4"/>
+												<p color="#0000FF">Assembling</p>
+												<compressor_slots>
+													<stack item="rockhounding_chemistry:machines_b" meta="10" count="1"/>
+													<stack item="rockhounding_chemistry:machines_d" meta="6" count="1"/>
+													<stack item="rockhounding_chemistry:machines_b" meta="9" count="1"/>
+												</compressor_slots>
+												<image src="rockhounding_chemistry:gbook/screens/compressor" tw="141" th="90"/>
+											</page>
+										</chapter>
+
+							<chapter id="tier_two">
+								<page id="tier_two_page">
+									<link ref="devices:devices_page" color="#CC3333">&lt;- Tier2 Machines</link>
+									<p> </p>
+									<p><stack item="rockhounding_chemistry:machines_a" meta="0" count="1"/> <link ref="tiertwo:mineral_sizer_page" color="#333399">-&gt; Mineral Sizer</link></p>
+									<p><stack item="rockhounding_chemistry:machines_e" meta="7" count="1"/> <link ref="tiertwo:cstr_page" color="#333399">-&gt; Electrochemical CSTR</link></p>
+									<p><stack item="rockhounding_chemistry:machines_a" meta="5" count="1"/> <link ref="tiertwo:lab_oven_page" color="#333399">-&gt; Lab Oven</link></p>
+									<p><stack item="rockhounding_chemistry:machines_e" meta="11" count="1"/> <link ref="tiertwo:precipitation_page" color="#333399">-&gt; Precipitation Chamber</link></p>
+									<p><stack item="rockhounding_chemistry:machines_b" meta="4" count="1"/> <link ref="tiertwo:gas_plant_page" color="#333399">-&gt; Gasification Plant</link></p>
+									<p><stack item="rockhounding_chemistry:machines_b" meta="5" count="1"/> <link ref="tiertwo:gas_purifier_page" color="#333399">-&gt; Gas Purifier</link></p>
+									<p><stack item="rockhounding_chemistry:machines_c" meta="6" count="1"/> <link ref="tiertwo:retention_vat_page" color="#333399">-&gt; Retention Vat</link></p>
+									<p><stack item="rockhounding_chemistry:machines_d" meta="0" count="1"/> <link ref="tiertwo:alloyer_page" color="#333399">-&gt; Metal Alloyer</link></p>
+								</page>
+							</chapter>
+
+										<chapter id="tiertwo">
+											<page id="mineral_sizer_page">
+												<p><stack item="rockhounding_chemistry:machines_a" meta="0" count="1"/> <link ref="tier_two:tier_two_page" color="#CC3333">&lt;- Mineral Sizer</link></p>
+												<p>The Mineral Sizer allows to crush materials based on how fine the grain of the product must be (comminution). The smaller this grain is meant to be, the heavier the process can be, requiring more power, time and wearing.</p>
+												<p space="4"/>
+												<p color="#0000FF">Requirements</p>
+												<p>1x Sizer Controller</p>
+												<p>2x Crushing Tank</p>
+												<p>1x Gangue Collector</p>
+												<p>1x <link ref="utilities:engine_page" color="#000000">Power Station</link> (Fuel)</p>
+												<p>1x <link ref="utilities:server_page" color="#000000">Server</link></p>
+												<p space="4"/>
+												<p color="#0000FF">Assembling</p>
+												<sizer_slots>
+													<stack item="rockhounding_chemistry:machines_a" meta="0" count="1"/>
+													<stack item="rockhounding_chemistry:machines_a" meta="1" count="1"/>
+													<stack item="rockhounding_chemistry:machines_a" meta="1" count="1"/>
+													<stack item="rockhounding_chemistry:machines_a" meta="3" count="1"/>
+													<stack item="rockhounding_chemistry:machines_a" meta="2" count="1"/>
+													<stack item="rockhounding_chemistry:machines_a" meta="14" count="1"/>
+												</sizer_slots>
+												<p space="2"/>
+												<image src="rockhounding_chemistry:gbook/screens/sizer" tw="176" th="66"/>
+											</page>
+											<page>
+												<p color="#0000FF">How to set the Mineral Sizer:</p>
+												<p>> Fill the two Crushing tanks with the 8 Crushing Gears. They are consumed accordingly to the comminution, so the first gear in line breaks faster than the last.</p> 
+												<image src="rockhounding_chemistry:gbook/wiki/sizer_gears" tw="91" th="20"/>
+												<p space="4"/>
+												<p>> Put the item to crush in the input slot and with the help of JEI, change the comminution until it exposes the correct output.</p>
+												<image src="rockhounding_chemistry:gbook/wiki/sizer_comm_1" tw="102" th="40"/>
+												<p space="4"/>
+												<p>> The exposed item/s can be seen by moving the cursor on the icon appearing when an output is found.</p>
+												<image src="rockhounding_chemistry:gbook/wiki/sizer_comm_2" tw="23" th="20"/>
+												<p space="4"/>
+												<p>> The gangue collector gets the crushed product and it must be kept always free with hoppers or pipes for the next process to start. Slots are handled by the machine, giving an extra yeld depending on the recipe.</p>
+											</page>
+
+											<page id="cstr_page">
+												<p><stack item="rockhounding_chemistry:machines_e" meta="7" count="1"/> <link ref="tier_two:tier_two_page" color="#CC3333">&lt;- Electrochemical CSTR</link></p>
+												<p>The Continous Stirred Tank Reactor produces solutions by mixing fluids, eventually requiring voltage. A gaseous byproduct can be optionally produced.</p>
+												<p space="4"/>
+												<p color="#0000FF">Requirements</p>
+												<p>1x Electrochemical CSTR</p>
+												<p>1x CSTR Container</p>
+												<p>1x Fluid Input System</p>
+												<p>1x Charger</p>
+												<p>1x <link ref="utilities:engine_page" color="#000000">Power Station</link> (Both)</p>
+												<p>1x <link ref="utilities:pressure_vessel_page" color="#000000">Vessel/Holder</link></p>
+												<p space="4"/>
+												<p color="#0000FF">Assembling</p>
+												<layer_1_2/>
+												<cstr_slots_1>
+													<stack item="rockhounding_chemistry:machines_e" meta="9" count="1"/>
+													<stack item="rockhounding_chemistry:machines_e" meta="7" count="1"/>
+												</cstr_slots_1>
+												<p space="2"/>
+												<layer_3_4/>
+												<cstr_slots_2>
+													<stack item="rockhounding_chemistry:machines_e" meta="7" count="1"/>
+													<stack item="rockhounding_chemistry:machines_b" meta="9" count="1"/>
+													<stack item="rockhounding_chemistry:machines_a" meta="2" count="1"/>
+													<stack item="rockhounding_chemistry:machines_a" meta="7" count="1"/>
+													<stack item="rockhounding_chemistry:misc_blocks_a" meta="4" count="1"/>
+												</cstr_slots_2>
+											</page>																					
+											<page>
+												<p color="#0000FF">How to set the CSTR:</p>
+												<p>> Set a filter on both tanks in the input system by using the <link ref="tools:tools_page" color="#000000">Sampling Ampoule</link> and feed the two fluids. Make sure to set the filters accordingly with the JEI indications about Primary and Secondary input.</p> 
+												<p space="2"/>
+												<p>> Check if the recipe requires voltage and feed accordingly. If the icon it lighted it will consume also RF. Feed then the Power Station.</p>
+												<image src="rockhounding_chemistry:gbook/wiki/cstr_voltage" tw="24" th="24"/>
+												<p space="4"/>
+												<p>> Turn the reactor on. The product will be collected at the bottom, while the byproduct will be sent to the vessel.</p>
+												<p space="6"/>
+												<p color="#0000FF">Preview</p>
+												<link ref="galleries:gal_cstr" color="#336633">Front View</link>
+											</page>
+
+											<page id="lab_oven_page">
+												<p><stack item="rockhounding_chemistry:machines_a" meta="5" count="1"/> <link ref="tier_two:tier_two_page" color="#CC3333">&lt;- Lab Oven</link></p>
+												<p>The Lab Oven allows to produce solutions by the reaction of different ingredients.</p>
+												<p space="4"/>
+												<p color="#0000FF">Requirements</p>
+												<p>1x Oven Reactor</p>
+												<p>1x Separator</p>
+												<p>1x Fluid Input System</p>
+												<p>1x Fluid Output System</p>
+												<p>1x <link ref="utilities:engine_page" color="#000000">Power Station</link> (Both)</p>
+												<p>1x <link ref="utilities:server_page" color="#000000">Server</link></p>
+												<p space="4"/>
+												<p color="#0000FF">Assembling</p>
+												<layer_1_2/>
+												<oven_slots>
+													<stack item="rockhounding_chemistry:machines_a" meta="14" count="1"/>
+													<stack item="rockhounding_chemistry:machines_a" meta="7" count="1"/>
+													<stack item="rockhounding_chemistry:misc_blocks_a" meta="3" count="1"/>
+													<stack item="rockhounding_chemistry:machines_a" meta="8" count="1"/>
+													<stack item="rockhounding_chemistry:machines_a" meta="5" count="1"/>
+													<stack item="rockhounding_chemistry:machines_a" meta="2" count="1"/>
+												</oven_slots>
+												<p space="2"/>
+												<p space="4"/>
+												<p color="#0000FF">Preview</p>
+												<link ref="galleries:gal_oven" color="#336633">Front View</link>
+											</page>
+											<page>
+												<p color="#0000FF">How to set the Lab Oven:</p>
+												<p>> Select the recipe to perform in the controller.</p> 
+												<p space="2"/>
+												<p>> The ingredients and fluids exchanging is automatically handled, allowing to connect the structure to a storage network.</p>
+												<image src="rockhounding_chemistry:gbook/wiki/oven_sel" tw="164" th="20"/>
+												<p space="2"/>
+												<p>> The reactor accepts two types of solid ingredients: a solute and/or a catalyst. While the solute is consumed each process, the catalyst is only damaged.</p>
+												<p space="2"/>
+												<image src="rockhounding_chemistry:gbook/wiki/oven_ingr" tw="57" th="35"/>
+												<p space="2"/>
+												<p>> The oven has two possible outputs: a mandatory Solution and an optional fluid by-product, both picked by the fluid output system.</p>
+												<p space="2"/>
+												<p>> Once the selection is made, turn the machine on to accept the ingredients.</p>
+											</page>
+
+											<page id="precipitation_page">
+												<p><stack item="rockhounding_chemistry:machines_e" meta="11" count="1"/> <link ref="tier_two:tier_two_page" color="#CC3333">&lt;- Precipitation Chamber</link></p>
+												<p>The Precipitation chamber allows to produce fluid and solid material by the reaction of different ingredients.</p>
+												<p space="4"/>
+												<p color="#0000FF">Requirements</p>
+												<p>1x Precipitation Chamber</p>
+												<p>2x Precipitation Reactor</p>
+												<p>1x Flotation Tank</p>
+												<p>1x Buffer Tank</p>
+												<p>1x <link ref="utilities:engine_page" color="#000000">Power Station</link> (Both)</p>
+												<p>1x <link ref="utilities:server_page" color="#000000">Server</link></p>
+												<p space="4"/>
+												<p color="#0000FF">Assembling</p>
+												<layer_1/>
+												<precipitation_slots_1>
+													<stack item="rockhounding_chemistry:machines_e" meta="11" count="1"/>
+													<stack item="rockhounding_chemistry:machines_e" meta="12" count="1"/>
+													<stack item="rockhounding_chemistry:machines_a" meta="2" count="1"/>
+													<stack item="rockhounding_chemistry:machines_a" meta="14" count="1"/>
+												</precipitation_slots_1>
+												<p space="4"/>
+												<layer_2/>
+												<precipitation_slots_2>
+													<stack item="rockhounding_chemistry:machines_e" meta="11" count="1"/>
+													<stack item="rockhounding_chemistry:machines_d" meta="14" count="1"/>
+													<stack item="rockhounding_chemistry:machines_e" meta="6" count="1"/>
+												</precipitation_slots_2>
+												<p space="2"/>
+												<p space="4"/>
+												<p color="#0000FF">Preview</p>
+												<link ref="galleries:gal_precipitator" color="#336633">Front View</link>
+											</page>
+											<page>
+												<p color="#0000FF">How to set the Precipitator:</p>
+												<p>> Select the recipe to perform in the upper controller.</p> 
+												<p space="2"/>
+												<p>> The ingredient exchange and the Flotation Tank filter are automatically handled, allowing to connect the structure to a storage network.</p>
+												<image src="rockhounding_chemistry:gbook/wiki/precipitator_sel" tw="164" th="21"/>
+												<p space="2"/>
+												<p>> The reactor accepts two types of solid ingredients: a solute and/or a catalyst. While the solute is consumed each process, the catalyst is only damaged.</p>
+												<p space="2"/>
+												<image src="rockhounding_chemistry:gbook/wiki/oven_ingr" tw="57" th="35"/>
+												<p space="2"/>
+												<p>> The reactor has two possible outputs: a mandatory solution pumped in the Buffer Tank and an optional solid by-product, collected in the lower chamber of the reactor.</p>
+												<p space="2"/>
+												<p>> Once the selection is made, turn the machine on to accept the ingredients.</p>
+											</page>
+
+											<page id="gas_plant_page">
+												<p><stack item="rockhounding_chemistry:machines_b" meta="4" count="1"/> <link ref="tier_two:tier_two_page" color="#CC3333">&lt;- Gasification Plant</link></p>
+												<p>The Gasification Plant produces gases by the reaction of solutions at high temperatures past a threashold value.</p>
+												<p space="4"/>
+												<p color="#0000FF">Requirements</p>
+												<p>1x Gasifier Burner</p>
+												<p>1x Gasifier Cistern</p>
+												<p>1x Gas pressurizer</p>
+												<p>1x <link ref="utilities:engine_page" color="#000000">Power Station</link> (Fuel)</p>
+												<p>1x <link ref="utilities:pressure_vessel_page" color="#000000">Vessel/Holder</link></p>
+												<p>1x Particulate Collector</p>
+												<p space="4"/>
+												<p color="#0000FF">Assembling</p>
+												<layer_1_2/>
+												<gasifier_slots_1>
+													<stack item="rockhounding_chemistry:machines_b" meta="1" count="1"/>
+													<stack item="rockhounding_chemistry:machines_b" meta="9" count="1"/>
+													<stack item="rockhounding_chemistry:machines_b" meta="4" count="1"/>
+													<stack item="rockhounding_chemistry:machines_b" meta="8" count="1"/>
+													<stack item="rockhounding_chemistry:machines_a" meta="2" count="1"/>
+												</gasifier_slots_1>
+												<p space="2"/>
+												<layer_3/>
+												<gasifier_slots_2>
+													<stack item="rockhounding_chemistry:machines_b" meta="2" count="1"/>
+												</gasifier_slots_2>
+											</page>
+											<page>
+												<p color="#0000FF">How to set the Gasification Plant:</p>
+												<p>> Supply the input fluids on both cistern and burner.</p>
+												<p space="4"/>
+												<p>> Feed the Power Station constantly with fuel to raise the temperature. Once reached the threashold, it starts producing. While inactive, the temperature slowly decreases.</p>
+												<image src="rockhounding_chemistry:gbook/wiki/gasifier_burner" tw="84" th="40"/>
+												<p space="4"/>
+												<p>> The Particulate Collector picks the available by-products and should be connected to a chest.</p>
+												<image src="rockhounding_chemistry:gbook/wiki/gasifier_slag" tw="77" th="40"/>
+												<p space="4"/>
+												<p>> Add a Refractory Casing upgrade when craftable. It improves the heating/cooling factors but has a rare chance to break increasing the speed upgrade.</p>
+												<grid_two>
+													<stack item="rockhounding_chemistry:misc_items" meta="35" count="1"/>
+													<stack item="rockhounding_chemistry:speed_items" meta="7" count="1"/>
+												</grid_two>
+												<p space="4"/>
+												<p color="#0000FF">Preview</p>
+												<link ref="galleries:gal_gasifier" color="#336633">Front View</link>
+											</page>
+
+											<page id="gas_purifier_page">
+												<p><stack item="rockhounding_chemistry:machines_b" meta="5" count="1"/> <link ref="tier_two:tier_two_page" color="#CC3333">&lt;- Gas Purifier</link></p>
+												<p>It allows to perform a purifying process on a gas to a refined one, possibly a refined version of itself.</p>
+												<p space="4"/>
+												<p color="#0000FF">Requirements</p>
+												<p>1x Gas Purifier</p>
+												<p>1x Cyclone Separator</p>
+												<p>1x Cyclone Separator Top</p>
+												<p>1x Gas pressurizer</p>								
+												<p>1x <link ref="utilities:engine_page" color="#000000">Power Station</link> (Fuel)</p>
+												<p>2x <link ref="utilities:pressure_vessel_page" color="#000000">Vessel/Holder</link></p>
+												<p>1x Particulate Collector</p>
+												<p space="4"/>
+												<p color="#0000FF">Assembling</p>
+												<layer_1_2/>
+												<purifier_slots_1>
+													<stack item="rockhounding_chemistry:machines_b" meta="8" count="1"/>
+													<stack item="rockhounding_chemistry:machines_a" meta="2" count="1"/>
+													<stack item="rockhounding_chemistry:machines_b" meta="5" count="1"/>
+													<stack item="rockhounding_chemistry:machines_b" meta="9" count="1"/>
+													<stack item="rockhounding_chemistry:machines_b" meta="6" count="1"/>
+												</purifier_slots_1>
+												<p space="2"/>
+												<layer_3_4/>
+												<purifier_slots_2>
+													<stack item="rockhounding_chemistry:machines_b" meta="6" count="1"/>
+													<stack item="rockhounding_chemistry:machines_b" meta="15" count="1"/>
+													<stack item="rockhounding_chemistry:machines_b" meta="1" count="1"/>
+												</purifier_slots_2>
+											</page>
+											<page>
+												<p color="#0000FF">How to set the Gas Purifier:</p>
+												<p>> The structure is ruled by the purifying controller, from where it's possible to activate the machine. The raw gas is taken from the container on the side and moved to the container at the back after being purified.</p>
+												<p space="4"/>
+												<p>> The Particulate Collector picks the waste of the recipe. Each recipe can have none or up to two by-products. It is suggested to connect the block to a chest to extract the material.</p>
+												<image src="rockhounding_chemistry:gbook/wiki/gasifier_slag" tw="77" th="40"/>
+												<p space="4"/>
+												<p color="#0000FF">Preview</p>
+												<link ref="galleries:gal_purifier" color="#336633">Front View</link>
+											</page>
+
+											<page id="retention_vat_page">
+												<p><stack item="rockhounding_chemistry:machines_c" meta="6" count="1"/> <link ref="tier_two:tier_two_page" color="#CC3333">&lt;- Retention Vat</link></p>
+												<p>This is the second stage of the leaching system. It does a finer analysis of a leachate to recover finer specimens.</p>
+												<p space="4"/>
+												<p color="#0000FF">Requirements</p>
+												<p>1x Retention Controller</p>
+												<p>2x Sealed Vat</p>								
+												<p>1x Specimen Collector</p>
+												<p>1x <link ref="utilities:pressure_vessel_page" color="#000000">Vessel/Holder</link></p>
+												<p>1x <link ref="utilities:engine_page" color="#000000">Power Station</link> (Fuel)</p>
+												<p>1x Flotation Tank</p>
+												<p>1x Buffer Tank</p>								
+												<p>1x <link ref="utilities:server_page" color="#000000">Server</link></p>
+												<p space="4"/>
+												<p color="#0000FF">Assembling</p>
+												<layer_1_2_b/>
+												<retention_slots>
+													<stack item="rockhounding_chemistry:machines_c" meta="6" count="1"/>
+													<stack item="rockhounding_chemistry:machines_c" meta="4" count="1"/>
+													<stack item="rockhounding_chemistry:machines_c" meta="5" count="1"/>
+													<stack item="rockhounding_chemistry:machines_a" meta="2" count="1"/>
+													<stack item="rockhounding_chemistry:machines_a" meta="14" count="1"/>
+													<stack item="rockhounding_chemistry:machines_b" meta="9" count="1"/>
+													<stack item="rockhounding_chemistry:machines_d" meta="14" count="1"/>
+													<stack item="rockhounding_chemistry:machines_e" meta="6" count="1"/>
+													<stack item="minecraft:water_bucket" meta="0" count="1"/>
+													<stack item="rockhounding_chemistry:fluid.hydrofluoric_acid" meta="0" count="1"/>
+													<stack item="rockhounding_chemistry:fluid.water_vapour" meta="0" count="1"/>
+												</retention_slots>
+											</page>
+											<page>
+												<p color="#0000FF">How to set the Retention Vat:</p>
+												<p>> Add the input leachate to the Flotation Tank and provide the additional material.</p>
+												<p space="4"/>
+												<p>> Insert a Slurry Agitator on each of the Sealed Vats.</p>
+												<p space="4"/>
+												<p>> Choose the best Specific Gravity to expose the needed specimen. Exposed specimens can be seen by hovering the lens icon as an output is found.</p>
+												<image src="rockhounding_chemistry:gbook/wiki/vat_gravity" tw="120" th="20"/>
+												<p space="4"/>
+												<p>> As soon as possible set a filter upgrade to tighten the selector range.</p>
+												<p space="4"/>
+												<p>> The specimen collector gets the leached product and it must be kept always free with hoppers or pipes for the next process to start. Slots are handled by the machine.</p>
+												<p space="4"/>
+												<p>> The Buffer Tank will collect the Toxic Waste produced at the end of the process.</p>
+												<p space="4"/>
+												<p color="#0000FF">Preview</p>
+												<link ref="galleries:gal_retention" color="#336633">Front View</link>
+											</page>
+											
+											<page id="alloyer_page">
+												<p><stack item="rockhounding_chemistry:machines_d" meta="0" count="1"/> <link ref="tier_two:tier_two_page" color="#CC3333">&lt;- Metal Alloyer</link></p>
+												<p>The Metal Alloyer casts alloys by combining different elements in a different quantity,</p>
+												<p space="4"/>
+												<p color="#0000FF">Requirements</p>
+												<p>1x Metal Alloyer</p>
+												<p>1x <link ref="utilities:cabinets_page" color="#000000">Element Cabinet</link></p>								
+												<p>1x <link ref="utilities:cabinets_page" color="#000000">Material Cabinet</link></p>
+												<p>1x <link ref="utilities:engine_page" color="#000000">Power Station</link> (Fuel)</p>
+												<p>1x <link ref="utilities:server_page" color="#000000">Server</link></p>
+												<p space="4"/>
+												<p color="#0000FF">Assembling</p>
+												<layer_1_2/>
+												<alloyer_slots>
+													<stack item="rockhounding_chemistry:machines_d" meta="2" count="1"/>
+													<stack item="rockhounding_chemistry:machines_c" meta="9" count="1"/>
+													<stack item="rockhounding_chemistry:machines_a" meta="14" count="1"/>
+													<stack item="rockhounding_chemistry:machines_d" meta="0" count="1"/>
+													<stack item="rockhounding_chemistry:machines_a" meta="2" count="1"/>
+												</alloyer_slots>
+												<p space="4"/>
+												<p color="#0000FF">Preview</p>
+												<link ref="galleries:gal_alloyer" color="#336633">Front View</link>
+											</page>
+											<page>
+												<p color="#0000FF">How to set the Metal Alloyer:</p>
+												<p>> Select an alloy from the selector.</p>
+												<image src="rockhounding_chemistry:gbook/wiki/alloyer_sel" tw="180" th="20"/>
+												<p space="4"/>
+												<p>> Put a Graduated Cylinder on both Cabinets in the upper section.</p>
+												<p space="4"/>
+												<p>> Put a Mold Pattern in the consumable slot.</p>
+												<p space="4"/>
+												<p>> Check if there are enough ingredients by hovering the cursor on the checklist. A full green recipe means it is ready to cast. Additional ingredients can be supplied from the upper section of the cabinets.</p> 
+												<image src="rockhounding_chemistry:gbook/wiki/alloyer_rec" tw="133" th="60"/>
+											</page>
+
+										</chapter>
+
+							<chapter id="tier_three">
+								<page id="tier_three_page">
+									<link ref="devices:devices_page" color="#CC3333">&lt;- Tier3 Machines</link>
+									<p> </p>
+									<p><stack item="rockhounding_chemistry:machines_c" meta="3" count="1"/> <link ref="tierthree:leaching_vat_page" color="#333399">-&gt; Leaching Vat</link></p>
+									<p><stack item="rockhounding_chemistry:machines_c" meta="0" count="1"/> <link ref="tierthree:gan_page" color="#333399">-&gt; Cryogenic Distillation</link></p>
+									<p><stack item="rockhounding_chemistry:machines_d" meta="5" count="1"/> <link ref="tierthree:deposition_page" color="#333399">-&gt; Deposition Chamber</link></p>
+									<p><stack item="rockhounding_chemistry:machines_d" meta="8" count="1"/> <link ref="tierthree:pulling_page" color="#333399">-&gt; Crystal Pulling Crucible</link></p>
+									<p><stack item="rockhounding_chemistry:machines_f" meta="5" count="1"/> <link ref="tierthree:bedreactor_page" color="#333399">-&gt; Fixed Bed Reactor</link></p>
+								</page>
+							</chapter>
+
+										<chapter id="tierthree">
+											<page id="leaching_vat_page">
+												<p><stack item="rockhounding_chemistry:machines_c" meta="3" count="1"/> <link ref="tier_three:tier_three_page" color="#CC3333">&lt;- Leaching Vat</link></p>
+												<p>It exposes specimens in gangues by acid attacks, through 3 phases. Aside the recovered specimen it produces leachate for further processing.</p>
+												<p space="4"/>
+												<p color="#0000FF">Requirements</p>
+												<p>1x Leaching Controller</p>
+												<p>3x Sealed Vat</p>								
+												<p>1x Specimen Collector</p>
+												<p>2x <link ref="utilities:pressure_vessel_page" color="#000000">Vessel/Holder</link></p>
+												<p>1x <link ref="utilities:engine_page" color="#000000">Power Station</link> (Fuel)</p>
+												<p>1x Buffer Tank</p>
+												<p>1x <link ref="utilities:server_page" color="#000000">Server</link></p>
+												<p space="4"/>
+												<p color="#0000FF">Assembling</p>
+												<layer_1_2_c/>
+												<leaching_slots>
+													<stack item="rockhounding_chemistry:machines_c" meta="3" count="1"/>
+													<stack item="rockhounding_chemistry:machines_c" meta="4" count="1"/>
+													<stack item="rockhounding_chemistry:machines_c" meta="5" count="1"/>
+													<stack item="rockhounding_chemistry:machines_a" meta="14" count="1"/>
+													<stack item="rockhounding_chemistry:machines_b" meta="9" count="1"/>
+													<stack item="rockhounding_chemistry:fluid.sodium_hydroxide" meta="0" count="1"/>
+													<stack item="rockhounding_chemistry:fluid.hydrochloric_acid" meta="0" count="1"/>
+													<stack item="minecraft:water_bucket" meta="0" count="1"/>
+													<stack item="rockhounding_chemistry:fluid.water_vapour" meta="0" count="1"/>
+													<stack item="rockhounding_chemistry:fluid.water_vapour" meta="0" count="1"/>
+													<stack item="rockhounding_chemistry:machines_a" meta="2" count="1"/>
+													<stack item="rockhounding_chemistry:machines_e" meta="6" count="1"/>
+												</leaching_slots>
+											</page>
+											<page>
+												<p color="#0000FF">How to set the Leaching Vat:</p>
+												<p>> Add an ingredient to the input and provide the additional material.</p>
+												<p space="4"/>
+												<p>> Insert a Slurry Agitator on each of the Sealed Vats.</p>
+												<p space="4"/>
+												<p>> Choose the best Specific Gravity to expose the needed specimen. Exposed specimens can be seen by hovering the lens icon as an output is found.</p>
+												<image src="rockhounding_chemistry:gbook/wiki/vat_gravity" tw="120" th="20"/>
+												<p space="4"/>
+												<p>> As soon as possible set a filter upgrade to tighten the selector range.</p>
+												<p space="4"/>
+												<p>> The specimen collector gets the product and it must be kept always free with hoppers or pipes for the next process to start. Slots are handled by the machine. </p>
+												<p space="4"/>
+												<p>> The tank on top of the collector will hold the leachate.</p>
+												<p space="4"/>
+												<p color="#0000FF">Preview</p>
+												<link ref="galleries:gal_leaching" color="#336633">Front View</link>
+											</page>
+
+											<page id="gan_page">
+												<p><stack item="rockhounding_chemistry:machines_c" meta="0" count="1"/> <link ref="tier_three:tier_three_page" color="#CC3333">&lt;- Cryogenic Distillation</link></p>
+												<p>This plant allows to extract elements through the air separation process, storing them in the final holders. Some of the extracted gases are extremely rare, requiring a lot of energy and time to be properly acquired.</p> 
+												<p space="4"/>
+												<p color="#0000FF">Requirements</p>
+												<p>1x GAN Controller</p>
+												<p>1x <link ref="utilities:engine_page" color="#000000">Power Station</link> (Redstone)</p>
+												<p>3x Gas pressurizer</p>								
+												<p>3x <link ref="utilities:pressure_vessel_page" color="#000000">Vessel/Holder</link></p>
+												<p>1x Turboexpander</p>
+												<p>1x Separator</p>
+												<p>5x GAN Tower</p>
+												<p>2x GAN Tower Top</p>
+												<p>2x GAN Injector</p>
+												<p>1x Gas Bulbs</p>
+
+												<p space="4"/>
+												<p color="#0000FF">Output</p>
+												<layer_gases/>
+												<stack_nine>
+													<stack item="rockhounding_chemistry:fluid.nitrogen" meta="0" count="1"/>
+													<stack item="rockhounding_chemistry:fluid.oxygen" meta="0" count="1"/>
+													<stack item="minecraft:air" meta="0" count="1"/>
+													<stack item="rockhounding_chemistry:fluid.argon" meta="0" count="1"/>
+													<stack item="rockhounding_chemistry:fluid.carbon_dioxide" meta="0" count="1"/>
+													<stack item="rockhounding_chemistry:fluid.helium" meta="0" count="1"/>
+													<stack item="rockhounding_chemistry:fluid.neon" meta="0" count="1"/>
+													<stack item="rockhounding_chemistry:fluid.krypton" meta="0" count="1"/>
+													<stack item="rockhounding_chemistry:fluid.xenon" meta="0" count="1"/>
+												</stack_nine>
+												<p space="4"/>
+												<p color="#0000FF">Preview</p>
+												<link ref="galleries:gal_gan" color="#336633">Front View, Back View</link>
+											</page>
+
+											<page>
+												<p space="4"/>
+												<p color="#0000FF">Assembling</p>
+												<layer_1_3/>
+												<gan_slots_1>
+													<stack item="rockhounding_chemistry:machines_c" meta="2" count="1"/>
+													<stack item="rockhounding_chemistry:machines_b" meta="1" count="1"/>
+													<stack item="rockhounding_chemistry:misc_blocks_a" meta="7" count="1"/>
+													<stack item="rockhounding_chemistry:machines_b" meta="9" count="1"/>
+													<stack item="rockhounding_chemistry:machines_b" meta="13" count="1"/>
+													<stack item="rockhounding_chemistry:misc_blocks_a" meta="3" count="1"/>
+													<stack item="rockhounding_chemistry:machines_b" meta="1" count="1"/>
+													<stack item="rockhounding_chemistry:machines_b" meta="1" count="1"/>
+													<stack item="rockhounding_chemistry:misc_blocks_a" meta="7" count="1"/>
+													<stack item="rockhounding_chemistry:machines_b" meta="9" count="1"/>
+													<stack item="rockhounding_chemistry:machines_a" meta="2" count="1"/>
+													<stack item="rockhounding_chemistry:machines_c" meta="0" count="1"/>
+													<stack item="rockhounding_chemistry:machines_b" meta="9" count="1"/>
+													<stack item="rockhounding_chemistry:fluid.cooled_air" meta="0" count="1"/>
+													<stack item="rockhounding_chemistry:misc_blocks_a" meta="5" count="1"/>
+													<stack item="rockhounding_chemistry:misc_blocks_a" meta="5" count="1"/>
+												</gan_slots_1>
+											</page>
+											<page>
+												<p space="4"/>
+												<p color="#0000FF">Assembling</p>
+												<layer_4_5/>
+												<gan_slots_2>
+													<stack item="rockhounding_chemistry:misc_blocks_a" meta="6" count="1"/>
+													<stack item="rockhounding_chemistry:misc_blocks_a" meta="5" count="1"/>
+													<stack item="rockhounding_chemistry:misc_blocks_a" meta="6" count="1"/>
+												</gan_slots_2>
+											</page>
+											<page>
+												<p color="#0000FF">How to set the Gan Plant:</p>
+												<p>The plant is splitted into three channels, to get Nitrogen, Oxygen and rare gases. There are 6 extractible rare gases, each one with a different rarity. Each channel can work on a separate duty. The plant consumes energy depending on how many channels are operating at the same time.</p>
+												<p space="4"/>
+												<p>> Select the operational channels from the switches and turn the plant on.</p>
+												<image src="rockhounding_chemistry:gbook/wiki/gan_gas" tw="58" th="20"/>
+											</page>
+											
+											<page id="deposition_page">
+												<p><stack item="rockhounding_chemistry:machines_d" meta="5" count="1"/> <link ref="tier_three:tier_three_page" color="#CC3333">&lt;- Deposition Chamber</link></p>
+												<p>It processes materials by the exposure to gases at certain temperatures and pressures.</p>
+												<p space="4"/>
+												<p color="#0000FF">Requirements</p>
+												<p>1x Vapor Deposition Chamber</p>
+												<p>2x Separator</p>
+												<p>3x <link ref="utilities:pressure_vessel_page" color="#000000">Vessel/Holder</link></p>
+												<p>2x Gas Pressurizer</p>
+												<p>1x <link ref="utilities:engine_page" color="#000000">Power Station</link> (Redstone)</p>
+												<p>1x <link ref="utilities:server_page" color="#000000">Server</link></p>
+												<p space="4"/>
+												<p color="#0000FF">Assembling</p>
+												<layer_1_2/>
+												<deposition_slots>
+													<stack item="rockhounding_chemistry:machines_b" meta="9" count="1"/>
+													<stack item="rockhounding_chemistry:misc_blocks_a" meta="3" count="1"/>
+													<stack item="rockhounding_chemistry:machines_b" meta="1" count="1"/>
+													<stack item="rockhounding_chemistry:machines_d" meta="4" count="1"/>
+													<stack item="rockhounding_chemistry:machines_a" meta="14" count="1"/>
+													<stack item="rockhounding_chemistry:machines_a" meta="2" count="1"/>
+												</deposition_slots>
+												<p space="4"/>
+												<p color="#0000FF">Preview</p>
+												<link ref="galleries:gal_deposition" color="#336633">Front View</link>
+											</page>
+											<page>
+												<p color="#0000FF">How to set the Deposition Chamber:</p>
+												<p>> Select a recipe from the selector. The vessel at the back will purge wrong gases to be sent back in the storage system.</p>
+												<image src="rockhounding_chemistry:gbook/wiki/deposition_sel" tw="180" th="20"/>
+												<p space="4"/>
+												<p>> Put an ingredient in the controller to set the input.</p>
+												<p space="4"/>
+												<p>> Put the upgrades in the lower chamber. The Insulation Upgrade reduces temperature and pressure leaking. The Casing Upgrade reinforces the chamber speeding the pressurizing.</p>
+												<grid_three>
+													<stack item="rockhounding_chemistry:misc_items" meta="15" count="1"/>
+													<stack item="rockhounding_chemistry:speed_items" meta="7" count="1"/>
+													<stack item="rockhounding_chemistry:misc_items" meta="16" count="1"/>
+												</grid_three>
+												<p space="4"/>
+												<p>> Wait for the temperature and pressure to raise til the recipe threashold for the process to start. After every process the device loses most of its parameters that need to be restored again.</p>
+												<image src="rockhounding_chemistry:gbook/wiki/deposition_val" tw="18" th="40"/>
+											</page>
+
+											<page id="pulling_page">
+												<p><stack item="rockhounding_chemistry:machines_d" meta="8" count="1"/> <link ref="tier_three:tier_three_page" color="#CC3333">&lt;- Crystal Pulling Crucible</link></p>
+												<p>The Crystal Pulling Crucible crates synthetic crystals by mixing a melting compound with a doping compound in an environment full of Argon.</p>
+												<p space="4"/>
+												<p color="#0000FF">Requirements</p>
+												<p>1x Pulling Crucible</p>
+												<p>1x Pulling Crucible Top</p>
+												<p>1x <link ref="utilities:pressure_vessel_page" color="#000000">Vessel/Holder</link></p>								
+												<p>1x Gas Pressurizer</p>
+												<p>1x <link ref="utilities:engine_page" color="#000000">Power Station</link> (Redstone)</p>
+												<p space="4"/>
+												<p color="#0000FF">Assembling</p>
+												<layer_1_2/>
+												<pulling_slots_1>
+													<stack item="rockhounding_chemistry:machines_a" meta="2" count="1"/>
+													<stack item="rockhounding_chemistry:machines_d" meta="8" count="1"/>
+													<stack item="rockhounding_chemistry:machines_b" meta="1" count="1"/>
+													<stack item="rockhounding_chemistry:machines_d" meta="8" count="1"/>
+													<stack item="rockhounding_chemistry:machines_b" meta="9" count="1"/>
+													<stack item="rockhounding_chemistry:fluid.argon" meta="0" count="1"/>
+												</pulling_slots_1>
+												<layer_3/>
+												<pulling_slots_2>
+													<stack item="rockhounding_chemistry:misc_blocks_a" meta="10" count="1"/>
+												</pulling_slots_2>
+											</page>
+
+											<page>
+												<p color="#0000FF">How to set the Pulling Crucible:</p>
+												<p>> Set the ingredients in the lower section of the crucible and the dopant in the middle section.</p>
+												<p space="4"/>
+												<p>> Feed the vessel with Argon.</p>
+												<p space="4"/>
+												<p>> Turn on the machine and wait for the chamber to heat up and melt the compund, process will follow.</p>
+												<image src="rockhounding_chemistry:gbook/wiki/pulling_heat" tw="54" th="19"/>
+												<p space="7"/>
+												<p color="#0000FF">Preview</p>
+												<link ref="galleries:gal_pulling" color="#336633">Front View</link>
+											</page>
+
+											<page id="bedreactor_page">
+												<p><stack item="rockhounding_chemistry:machines_f" meta="5" count="1"/> <link ref="tier_three:tier_three_page" color="#CC3333">&lt;- Fixed Bed Reactor</link></p>
+												<p>It produces a gas compound by the interaction of gases with catalysts. Up to 8 catalysts can be used, multiplying the handled quantities. Output vessel is on the side, the purge one is at the back. At the input it's sugggested to use holders.</p>
+												<p space="4"/>
+												<p color="#0000FF">Requirements</p>
+												<p>1x Fixed Bed Reactor Controller</p>
+												<p>1x Fixed Bed Reactor Chamber</p>
+												<p>1x Tubular System</p>
+												<p>1x Gas Router</p>
+												<p>6x <link ref="utilities:pressure_vessel_page" color="#000000">Vessel/Holder</link></p>								
+												<p>1x <link ref="utilities:engine_page" color="#000000">Power Station</link> (Both)</p>
+												<p>1x <link ref="utilities:server_page" color="#000000">Server</link></p>
+												<p space="4"/>
+												<p color="#0000FF">Assembling</p>
+												<layer_1_2/>
+												<bedreactor_slots_1>
+													<stack item="rockhounding_chemistry:machines_a" meta="14" count="1"/>
+													<stack item="rockhounding_chemistry:machines_b" meta="9" count="1"/>
+													<stack item="rockhounding_chemistry:machines_f" meta="0" count="1"/>
+													<stack item="rockhounding_chemistry:machines_f" meta="4" count="1"/>
+													<stack item="rockhounding_chemistry:machines_a" meta="2" count="1"/>
+												</bedreactor_slots_1>
+											</page>
+
+											<page>
+												<layer_3_4_5/>
+												<bedreactor_slots_2>
+													<stack item="rockhounding_chemistry:machines_f" meta="2" count="1"/>
+													<stack item="rockhounding_chemistry:misc_blocks_a" meta="14" count="1"/>
+													<stack item="rockhounding_chemistry:machines_b" meta="9" count="1"/>
+												</bedreactor_slots_2>
+												<p space="8"/>
+												<p color="#0000FF">How to set the Fixed Bed Reactor:</p>
+												<p>> Select the reaction to perform from the Controller.</p>
+												<p space="4"/>
+												<p>> Feed the input gases to the top holders, according to the filters automatically set.</p>
+												<p space="4"/>
+												<p>> Insert up to 8 Catalysts in order to increase the output. No need to be 8, each one will multiply the quantities.</p>
+												<p space="7"/>
+												<p color="#0000FF">Preview</p>
+												<link ref="galleries:bed_reactor" color="#336633">Front View</link>
+											</page>
+
+										</chapter>
+
+							<chapter id="tier_four">
+								<page id="tier_four_page">
+									<link ref="devices:devices_page" color="#CC3333">&lt;- Tier4 Machines</link>
+									<p> </p>
+									<p><stack item="rockhounding_chemistry:machines_c" meta="13" count="1"/> <link ref="tierfour:gas_reformer_page" color="#333399">-&gt; Reforming Reactor</link></p>
+									<p><stack item="rockhounding_chemistry:machines_c" meta="7" count="1"/> <link ref="tierfour:extractor_page" color="#333399">-&gt; Chemical Extractor</link></p>
+								</page>
+							</chapter>
+										<chapter id="tierfour">
+											<page id="gas_reformer_page">
+												<p><stack item="rockhounding_chemistry:machines_c" meta="13" count="1"/> <link ref="tier_four:tier_four_page" color="#CC3333">&lt;- Reforming Reactor</link></p>
+												<p>The Reforming Reactor produces gas and fluid compounds by the reaction of two gases. It takes 2 series of catalysts, the which combination determines the efficiency of the reactor.</p>
+												<p space="4"/>
+												<p color="#0000FF">Requirements</p>
+												<p>1x Reforming Controller</p>
+												<p>4x <link ref="utilities:pressure_vessel_page" color="#000000">Vessel/Holder</link></p>
+												<p>2x Reforming Tower</p>
+												<p>1x Reforming Tower Top</p>
+												<p>1x Separator</p>
+												<p>1x <link ref="utilities:engine_page" color="#000000">Power Station</link> (Redstone)</p>
+												<p>1x Buffer Tank</p>
+												<p>1x <link ref="utilities:server_page" color="#000000">Server</link></p>
+												<p space="1"/>
+											</page>
+											<page>
+												<p color="#0000FF">Assembling</p>
+												<layer_1_2/>
+												<reformer_slots_1>
+													<stack item="rockhounding_chemistry:machines_a" meta="2" count="1"/>
+													<stack item="rockhounding_chemistry:machines_c" meta="13" count="1"/>
+													<stack item="rockhounding_chemistry:machines_a" meta="14" count="1"/>
+													<stack item="rockhounding_chemistry:misc_blocks_a" meta="3" count="1"/>
+													<stack item="rockhounding_chemistry:machines_b" meta="9" count="1"/>
+												</reformer_slots_1>
+												<p space="4"> </p>
+												<layer_3_4/>
+												<reformer_slots_2>
+													<stack item="rockhounding_chemistry:misc_blocks_a" meta="8" count="1"/>
+												</reformer_slots_2>
+												<p space="4"> </p>
+												<layer_5_6/>
+												<reformer_slots_3>
+													<stack item="rockhounding_chemistry:misc_blocks_a" meta="9" count="1"/>
+													<stack item="rockhounding_chemistry:machines_e" meta="6" count="1"/>
+												</reformer_slots_3>
+											</page>
+											<page>
+												<p color="#0000FF">System Catalysts</p>
+												<p><stack item="rockhounding_chemistry:nl_catalyst" meta="0" count="1"/> Tier1: NiAl</p>
+												<p><stack item="rockhounding_chemistry:gr_catalyst" meta="0" count="1"/> Tier2: Graphite</p>
+												<p><stack item="rockhounding_chemistry:wg_catalyst" meta="0" count="1"/> Tier3: White Gold</p>
+												<p space="4"> </p>
+												<p color="#0000FF">Reaction Catalysts</p>
+												<p><stack item="rockhounding_chemistry:au_catalyst" meta="0" count="1"/> Tier1: Gold</p>
+												<p><stack item="rockhounding_chemistry:os_catalyst" meta="0" count="1"/> Tier2: See Recipes</p>
+												<p space="9"/>
+												<p color="#0000FF">Preview</p>
+												<link ref="galleries:gal_reformer" color="#336633">Front View</link>
+											</page>
+											<page>
+												<p color="#0000FF">How to set the Reforming Reactor:</p>
+												<p>> Select the reaction to perform in the Controller.</p>
+												<image src="rockhounding_chemistry:gbook/wiki/reformer_1" tw="168" th="20"/>
+												<p space="4"/>
+												<p>1a- Insert the 4 Reaction Catalysts in the outer socket of the reactor.</p>
+												<p space="4"/>
+												<p>1b- Insert the 6 System Catalysts in the inner socket of the reactor.</p>
+												<p space="4"/>
+												<image src="rockhounding_chemistry:gbook/wiki/reformer_2" tw="156" th="80"/>
+												<p space="4"/>
+												<p>> Feed the input gases to the side vessels, according to the filters automatically set.</p>
+												<p space="4"/>
+												<p>> The output vessel and tank are optional for the type of recipe, the unneeded one can be omitted.</p>
+												<p space="4"/>
+												<p>> Turn the reactor on.</p>
+											</page>
+
+											<page id="extractor_page">
+												<p><stack item="rockhounding_chemistry:machines_c" meta="7" count="1"/> <link ref="tier_four:tier_four_page" color="#CC3333">&lt;- Chemical Extractor</link></p>
+												<p>It decomposes the specimens to isolate the elements.</p> 
+												<p space="2"/>
+												<p color="#0000FF">Requirements</p>
+												<p>1x Extractor Controller</p>
+												<p>1x Extraction Reactor</p>
+												<p>1x <link ref="utilities:engine_page" color="#000000">Power Station</link> (Both)</p>
+												<p>1x Fluid Input System</p>
+												<p>1x <link ref="utilities:cabinets_page" color="#000000">Element Cabinet</link></p>								
+												<p>1x <link ref="utilities:cabinets_page" color="#000000">Material Cabinet</link></p>								
+												<p>1x Glassware Holder</p>
+												<p>1x Reaction Stabilizer</p>
+												<p>1x Charger</p>
+												<p>1x Lab Balance</p>
+												<p>1x <link ref="utilities:server_page" color="#000000">Server</link></p>
+												<p space="4"/>
+												<p color="#0000FF">Assembling</p>
+												<layer_1_2/>
+												<extractor_slots>
+													<stack item="rockhounding_chemistry:machines_c" meta="12" count="1"/>
+													<stack item="rockhounding_chemistry:machines_a" meta="7" count="1"/>
+													<stack item="rockhounding_chemistry:machines_c" meta="9" count="1"/>
+													<stack item="rockhounding_chemistry:machines_c" meta="8" count="1"/>
+													<stack item="rockhounding_chemistry:machines_c" meta="15" count="1"/>
+													<stack item="rockhounding_chemistry:machines_d" meta="2" count="1"/>
+													<stack item="rockhounding_chemistry:machines_c" meta="7" count="1"/>
+													<stack item="rockhounding_chemistry:machines_a" meta="2" count="1"/>
+													<stack item="rockhounding_chemistry:fluid.nitric_acid" meta="0" count="1"/>
+													<stack item="rockhounding_chemistry:fluid.sodium_cyanide" meta="0" count="1"/>
+													<stack item="rockhounding_chemistry:machines_c" meta="11" count="1"/>
+													<stack item="rockhounding_chemistry:machines_a" meta="14" count="1"/>
+													<stack item="rockhounding_chemistry:misc_blocks_a" meta="4" count="1"/>
+												</extractor_slots>
+											</page>
+											<page>
+												<p color="#0000FF">How to set the Chemical Extractor:</p>
+												<p>> Put a specimen in the controller to set the input.</p>
+												<p space="4"/>
+												<p>> Feed the fluids accordingly to the preset filters.</p>
+												<p space="4"/>
+												<p>> Supply 6 Ferrous Catalysts to the Reaction Stabilizer.</p>
+												<p space="4"/>
+												<p>> Put a Test Tube and a Graduated Cylinder in the Glassware Holder.</p>
+												<p space="4"/>
+												<p>> Put a Graduated Cylinder on both Cabinets upper sections.</p>
+												<p space="4"/>
+												<p>> Select an intensity accordingly to the resources and specimen. If all the elements composing a specimen are lower than 20%, the intensity becomes irrilevant and the lowest is the more profitable. The gui monitors indicate the state of the reactor.</p>
+												<image src="rockhounding_chemistry:gbook/wiki/extractor_int" tw="75" th="20"/>
+												<p space="4"/>
+												<p>> Turn the machine on.</p>
+												<p space="4"/>
+												<p color="#0000FF">Catalysts</p>
+												<stack_six>
+													<stack item="rockhounding_chemistry:fe_catalyst" meta="0" count="1"/>
+													<stack item="rockhounding_chemistry:fe_catalyst" meta="0" count="1"/>
+													<stack item="rockhounding_chemistry:fe_catalyst" meta="0" count="1"/>
+													<stack item="rockhounding_chemistry:fe_catalyst" meta="0" count="1"/>
+													<stack item="rockhounding_chemistry:fe_catalyst" meta="0" count="1"/>
+													<stack item="rockhounding_chemistry:fe_catalyst" meta="0" count="1"/>
+												</stack_six>
+												<p space="4"/>
+												<p color="#0000FF">Preview</p>
+												<link ref="galleries:gal_extractor" color="#336633">Front View</link>
+											</page>
+										</chapter>
+
+
+				<chapter id="生物">
+					<page id="mobs_page">
+						<link ref="chapters:index" color="#CC3333">&lt;- Mobs</link>
+						<p> </p>
+						<link ref="mob:toxic_slime_page_page" indent="8" color="#333399">-&gt; Toxic Slimes</link>
+					</page>
+				</chapter>
+							<chapter id="mob">
+								<page id="toxic_slime_page_page">
+									<link ref="mobs:mobs_page" color="#CC3333">&lt;- Toxic Slimes</link>
+									<p>This mob is related to the <link ref="feature:toxic_page" color="#000000">Hazard and Pollution</link> feature. It spawns if there is Toxic Sludge from tanks spilled in the world. It is small but moves and leaps fast and is immune to acid damage, targeting the player which will get damage and poisoning if attacked. When killed it drops Toxic Slimeball. Currently no uses are added for this item.</p>
+									<p space="4"/>
+									<stack item="rockhounding_chemistry:mob_items" meta="0" count="1"/>
+									<p space="4"/>
+									<image src="rockhounding_chemistry:gbook/screens/toxic_slime" tw="140" th="56"/>
+								</page>
+							</chapter>
+
+				<chapter id="projects">
+					<page id="projects_page">
+						<link ref="chapters:index" color="#CC3333">&lt;- Projects</link>
+						<p space="10"/>
+						<p><stack item="rockhounding_chemistry:machines_d" meta="10" count="1"/> <link ref="project:orbiter_page" color="#333399">-&gt; Orbiter</link></p>
+						<p><stack item="rockhounding_chemistry:machines_e" meta="4" count="1"/> <link ref="project:disposer" color="#333399">-&gt; Disposer</link></p>
+						<p><stack item="rockhounding_chemistry:didymium_glass" meta="0" count="1"/> <link ref="project:didymium_page" color="#333399">-&gt; Didymium Glass</link></p>
+					</page>
+				</chapter>
+							<chapter id="project">
+								<page id="orbiter_page">
+									<p><stack item="rockhounding_chemistry:machines_d" meta="10" count="1"/> <link ref="projects:projects_page" color="#CC3333">&lt;- Orbiter</link></p>
+									<p>This device detects and picks any experience orb inside a configurable radius. Orbs will be instantly grabbed and their value kept inside the storage. The detection radius depends on the magnetic probes. A selector inside the gui allows the player to retrieve the available levels from the storage. The machines has also a fluid tank where it is possible to recycle the Toxic Waste produced by some of the mod structures. This recycling allows to have a 50% chance to double the value of the orb. Also, if OpenBlocks is installed, the stored xp can be handled as Liquid XP and drained from the machine with any piping system.</p>
+									<p>The device needs to be activated to start collecting the orbs. Probes are made of common materials and advanced alloys. Hovering the cursor on them will show the provided radius. A probe must be always used for the machine to work.</p>
+									<stack_four>
+										<stack item="rockhounding_chemistry:probe_items" meta="0" count="1"/>
+										<stack item="rockhounding_chemistry:probe_items" meta="1" count="1"/>
+										<stack item="rockhounding_chemistry:probe_items" meta="2" count="1"/>
+										<stack item="rockhounding_chemistry:probe_items" meta="3" count="1"/>
+									</stack_four>
+								</page>
+
+								<page id="disposer">
+									<p><stack item="rockhounding_chemistry:machines_e" meta="4" count="1"/> <link ref="projects:projects_page" color="#CC3333">&lt;- Disposer</link></p>
+									<p>The Disposer is an unpowered device that allows to drop simultaneously one item from each of its internal slots at a configured interval in ticks. Dropped items appear in front of the device. Slots can be also locked so only each one involved can receive that specific item.</p> 
+								</page>
+
+								<page id="didymium_page">
+									<p><stack item="rockhounding_chemistry:didymium_glass" meta="0" count="1"/> <link ref="projects:projects_page" color="#CC3333">&lt;- Didymium Glass</link></p>
+									<p>Didymium Glass is a blurred glass which allows to filter the light, creating dark rooms which are yet visible from the outside. It is made in the Metal Alloyer by a mixture of Rare Earths Elements and filtered sand. It is available in three themes (borderless, bordered and bricks).</p>
+									<p space="4"/>
+									<grid_three>
+										<stack item="rockhounding_chemistry:didymium_glass" meta="0" count="1"/>
+										<stack item="rockhounding_chemistry:didymium_glass" meta="1" count="1"/>
+										<stack item="rockhounding_chemistry:didymium_glass" meta="2" count="1"/>
+									</grid_three>
+									<p space="4"/>
+									<image src="rockhounding_chemistry:gbook/screens/didymium" tw="128" th="110"/>
+								</page>
+							</chapter>
+
+				<chapter id="features">
+					<page id="features_page">
+						<link ref="chapters:index" color="#CC3333">&lt;- Additional Features</link>
+						<p space="10"/>
+						<link ref="feature:toxic_page" indent="8" color="#333399">-&gt; Hazard and Pollution</link>
+					</page>
+				</chapter>
+							<chapter id="feature">
+								<page id="toxic_page">
+									<link ref="features:features_page" color="#CC3333">&lt;- Hazard and Pollution</link>
+									<p space="10"/>
+									<p color="#333399"> <stack item="rockhounding_chemistry:fluid.toxic_waste" meta="0" count="1"/> Toxic Waste</p>
+									<p>This is the byproduct of several chemical reactions. It deal damage touching it and has the configurable ability to drop few experience when killing entities. It also has the ability to mutate items into others by tossing them into it.</p>
+									<p space="10"/>
+									<p color="#333399"> <stack item="rockhounding_chemistry:fluid.toxic_sludge" meta="0" count="1"/> Toxic Sludge</p>
+									<p>This is a leaking fluid occurring when a mod tank contains a fluid marked as "pollutant", causing nearby pollution over time. It is toxic too and has the ability to generate <link ref="mobs:mobs_page" color="#000000">Toxic Slimes</link>. To prevent pollution, pollutant fluids should be quickly stored inside a <link ref="utilities:fluid_tank_page" color="#000000">Containment Tank</link>.</p>
+								</page>
+								<page>
+									<p color="#333399">Gas pressure hazard</p>
+									<p>Keeping any of the mod gas handlers (vessels, holders, devices) at its full capacity over a long period of time, may lead it to collape and explode. Gases should be stored in large holders taking care to leave a bit of capacity tolerance so to allow the stabilization. In any case, it is possible to use <link ref="utilities:exhaustion_page" color="#000000">Exhaust Valves</link> on top of the vessels, which will take care to unload part of the content to keep the pressure under control. If the contained gas being released is marked as "pollutant", it may create a temporary toxic cloud around the tank.</p>
+								</page>
+							</chapter>
+
+				<chapter id="simulants">
+					<page id="simulants_page">
+						<link ref="chapters:index" color="#CC3333">&lt;- Simulants</link>
+						<p space="10"/>
+						<link ref="simulant:simul1_page" indent="8" color="#333399">-&gt; Slime</link>
+						<link ref="simulant:simul1_page" indent="8" color="#333399">-&gt; Gunpowder</link>
+						<link ref="simulant:simul2_page" indent="8" color="#333399">-&gt; Snow</link>
+						<link ref="simulant:simul2_page" indent="8" color="#333399">-&gt; Sponge</link>
+					</page>
+				</chapter>
+							<chapter id="simulant">
+								<page id="simul1_page">
+									<link ref="simulants:simulants_page" color="#CC3333">&lt;- Slime</link>
+									<grid_two>
+										<stack item="rockhounding_chemistry:silicone_cartridge" meta="0" count="1"/>
+										<stack item="minecraft:slime_ball" meta="0" count="1"/>
+									</grid_two>
+									<p space="2"/>
+									<p>Silicone is a dense compound produced in the lab oven, that is required to craft the Silicone Cartridge. This tool allows to produce slime balls when clicked in air while sneaking, or to place slime blocks in world when used on a surface. It can be also used in crafting recipes in place of slime balls, damaging the tool after each crafting.</p>
+									<p space="10"/>
+									<link ref="simulants:simulants_page" color="#CC3333">&lt;- Gunpowder</link>
+									<grid_two>
+										<stack item="rockhounding_chemistry:chemical_items" meta="12" count="1"/>
+										<stack item="minecraft:gunpowder" meta="0" count="1"/>
+									</grid_two>
+									<p space="2"/>
+									<p>Gunpowder can be chemically produced in mass by extracting its main ingredients through various type of manipulation, also using some chemical reactions and mixing them to obtain the final compound.</p>
+								</page>
+
+								<page id="simul2_page">
+									<link ref="simulants:simulants_page" color="#CC3333">&lt;- Snow</link>
+									<grid_two>
+										<stack item="rockhounding_chemistry:sodium_polyacrylate" meta="0" count="1"/>
+										<stack item="minecraft:snow" meta="0" count="1"/>
+									</grid_two>
+									<p space="2"/>
+									<p>Artificial snow is made by creating in the Lab Oven the Sodium Polyacrylate polymer. It can be used in a cauldron full of water. The fluid is absorbed by the compoound generating a snow block. Alternatively, the item can be tossed into the water for the reaction to happen in place. Snow blocks can be mined as usual.</p>
+									<p space="10"/>
+									<link ref="simulants:simulants_page" color="#CC3333">&lt;- Sponge</link>
+									<grid_two>
+										<stack item="rockhounding_chemistry:waterlock" meta="0" count="1"/>
+										<stack item="minecraft:sponge" meta="0" count="1"/>
+									</grid_two>
+									<p space="2"/>
+									<p>The waterlock is an high tier sponge simulant allowing to clean a larger amount of water. It works the same way as a vanilla sponge by placing it in water and smelting it to dry when wet.</p>
+								</page>
+							</chapter>
+
+
+				<chapter id="galleries">
+					<page id="gal_oven">
+						<link ref="tiertwo:lab_oven_page" color="#CC3333">&lt;- Back to Lab Oven</link>
+						<p space="5"/>
+						<image src="rockhounding_chemistry:gbook/screens/oven" tw="180" th="170"/>
+					</page>
+					<page id="gal_precipitator">
+						<link ref="tiertwo:precipitation_page" color="#CC3333">&lt;- Back to Precipitation Chamber</link>
+						<p space="5"/>
+						<image src="rockhounding_chemistry:gbook/screens/precipitator" tw="180" th="180"/>
+					</page>
+					<page id="gal_gasifier">
+						<link ref="tiertwo:gas_plant_page" color="#CC3333">&lt;- Back to Gasification Plant</link>
+						<p space="5"/>
+						<image src="rockhounding_chemistry:gbook/screens/gasifier" tw="170" th="254"/>
+					</page>
+					<page id="gal_purifier">
+						<link ref="tiertwo:gas_purifier_page" color="#CC3333">&lt;- Back to Gas Purifier</link>
+						<p space="5"/>
+						<image src="rockhounding_chemistry:gbook/screens/purifier" tw="172" th="256"/>
+					</page>
+					<page id="gal_exchanger">
+						<link ref="tierone:exchanger_page" color="#CC3333">&lt;- Back to Heat Exchanger</link>
+						<p space="5"/>
+						<image src="rockhounding_chemistry:gbook/screens/exchanger" tw="180" th="245"/>
+					</page>
+					<page id="gal_retention">
+						<link ref="tiertwo:retention_vat_page" color="#CC3333">&lt;- Back to Retention Vat</link>
+						<p space="5"/>
+						<image src="rockhounding_chemistry:gbook/screens/retention_vat" tw="180" th="180"/>
+					</page>
+					<page id="gal_alloyer">
+						<link ref="tiertwo:alloyer_page" color="#CC3333">&lt;- Back to Metal Alloyer</link>
+						<p space="5"/>
+						<image src="rockhounding_chemistry:gbook/screens/alloyer" tw="180" th="181"/>
+					</page>
+					<page id="gal_leaching">
+						<link ref="tierthree:leaching_vat_page" color="#CC3333">&lt;- Back to Leaching Vat</link>
+						<p space="5"/>
+						<image src="rockhounding_chemistry:gbook/screens/leaching_vat" tw="180" th="208"/>
+					</page>
+					<page id="gal_gan">
+						<link ref="tierthree:gan_page" color="#CC3333">&lt;- Back to Cryogenic Distillation</link>
+						<p space="5"/>
+						<image src="rockhounding_chemistry:gbook/screens/gan_1" tw="126" th="125"/>
+						<p space="5"/>
+						<image src="rockhounding_chemistry:gbook/screens/gan_2" tw="123" th="125"/>
+					</page>
+					<page id="gal_deposition">
+						<link ref="tierthree:deposition_page" color="#CC3333">&lt;- Back to Deposition Chamber</link>
+						<p space="5"/>
+						<image src="rockhounding_chemistry:gbook/screens/deposition" tw="180" th="167"/>
+					</page>
+					<page id="gal_pulling">
+						<link ref="tierthree:pulling_page" color="#CC3333">&lt;- Back to Pulling Crucible</link>
+						<p space="5"/>
+						<image src="rockhounding_chemistry:gbook/screens/pulling" tw="180" th="201"/>
+					</page>
+					<page id="gal_reformer">
+						<link ref="tierfour:gas_reformer_page" color="#CC3333">&lt;- Back to Reforming Reactor</link>
+						<p space="5"/>
+						<image src="rockhounding_chemistry:gbook/screens/reformer" tw="170" th="266"/>
+					</page>
+					<page id="gal_extractor">
+						<link ref="tierfour:extractor_page" color="#CC3333">&lt;- Back to Chemical Extractor</link>
+						<p space="5"/>
+						<image src="rockhounding_chemistry:gbook/screens/extractor" tw="180" th="130"/>
+					</page>
+					<page id="gal_cstr">
+						<link ref="tiertwo:cstr_page" color="#CC3333">&lt;- Back to Electrochemical CSTR</link>
+						<p space="5"/>
+						<image src="rockhounding_chemistry:gbook/screens/cstr" tw="180" th="183"/>
+					</page>
+					<page id="bed_reactor">
+						<link ref="tierthree:bedreactor_page" color="#CC3333">&lt;- Back to Fixed Bed Reactor</link>
+						<p space="5"/>
+						<image src="rockhounding_chemistry:gbook/screens/bed_reactor" tw="180" th="246"/>
+					</page>
+					<page id="gal_signal">
+						<link ref="structures:signal_page" color="#CC3333">&lt;- Back to Redstone handling</link>
+						<p space="5"/>
+						<image src="rockhounding_chemistry:gbook/screens/signal_tank" tw="180" th="105"/>
+						<p space="5"/>
+						<p>In this example, the activation of the Air Compressor is overriden by the signal coming from the gas holder. It produces compressed air until the holder reaches its 75% capacity, then turning off itself until the storage goes under the threashold again. During the down time, another device will be enabled.</p>
+					</page>
+
+				</chapter>
+
+				<stack-links>
+					<stack item="rockhounding_chemistry:machines_b" meta="9">utilities:pressure_vessel_page</stack>
+				</stack-links>
+
+				
+</book>
