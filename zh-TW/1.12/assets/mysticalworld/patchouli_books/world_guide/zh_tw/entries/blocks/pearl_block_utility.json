@@ -1,5 +1,5 @@
 {
-  "name": "Pearl Block Utility",
+  "name": "珍珠塊設備",
   "icon": "mysticalworld:pearl_pressure_plate",
   "category": "blocks",
   "pages": [
@@ -8,7 +8,7 @@
       "recipe": "mysticalworld:pearl_pressure_plate",
       "recipe2": "mysticalworld:pearl_button",
       "link_recipe": true,
-      "title": "Plates & Buttons"
+      "title": "壓力板和按鈕"
     }
   ]
 }
