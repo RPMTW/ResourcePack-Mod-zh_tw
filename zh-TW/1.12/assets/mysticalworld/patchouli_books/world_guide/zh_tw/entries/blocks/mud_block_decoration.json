@@ -1,5 +1,5 @@
 {
-  "name": "用泥磚做建材！",
+  "name": "泥塊裝飾",
   "icon": "mysticalworld:mud_block_stairs",
   "category": "blocks",
   "pages": [
@@ -7,7 +7,7 @@
       "type": "spotlight",
       "item": "mysticalworld:mud_block_stairs",
       "link_recipe": true,
-      "text": "用無機鹽泥塊和泥磚都可以合成對應的階梯。"
+      "text": "乾泥塊和乾泥磚都可以用來合成泥塊階梯。"
     },
     {
       "type": "crafting",
@@ -20,7 +20,7 @@
       "type": "spotlight",
       "item": "mysticalworld:mud_block_slab",
       "link_recipe": true,
-      "text": "用無機鹽泥塊和泥磚都可以合成對應的半磚。"
+      "text": "乾泥塊和乾泥磚都可以用來合成泥塊半磚。"
     },
     {
       "type": "crafting",
@@ -33,7 +33,7 @@
       "type": "spotlight",
       "item": "mysticalworld:mud_block_wall",
       "link_recipe": true,
-      "text": "用無機鹽泥塊和泥磚都可以合成對應的牆。"
+      "text": "乾泥塊和乾泥磚都可以用來合成泥塊牆。"
     },
     {
       "type": "crafting",
@@ -46,7 +46,7 @@
       "type": "spotlight",
       "item": "mysticalworld:mud_block_fence",
       "link_recipe": true,
-      "text": "用無機鹽泥塊和泥磚都可以合成對應的柵欄。"
+      "text": "乾泥塊和乾泥磚都可以用來合成泥塊柵欄。"
     },
     {
       "type": "crafting",
@@ -59,14 +59,14 @@
       "type": "spotlight",
       "item": "mysticalworld:mud_block_fence_gate",
       "link_recipe": true,
-      "text": "Fence gates can be crafted out of both dried mud blocks and dried mud bricks."
+      "text": "乾泥塊和乾泥磚都可以用來合成泥塊柵欄門。"
     },
     {
       "type": "crafting",
       "recipe": "mysticalworld:mud_block_fence_gate",
       "recipe2": "mysticalworld:mud_brick_fence_gate",
       "link_recipe": true,
-      "title": "Fences"
+      "title": "柵欄"
     }
   ]
 }
