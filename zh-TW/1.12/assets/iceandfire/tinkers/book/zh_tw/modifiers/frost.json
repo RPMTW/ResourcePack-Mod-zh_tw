@@ -1,0 +1,35 @@
+{
+  "modifier": "霜凍",
+  "text": [
+    {
+      "text": "在工具上塗滿冰龍血，能賦予工具凍結敵人的能力。"
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "不能用於龍鋼製工具；與炎灼衝突。"
+    },
+    {
+      "text": "\n"
+    }
+  ],
+  "effects": [
+    "凍結敵人10秒",
+    "追加額外的龍霜傷害",
+    "使敵人接下來的行動減速",
+    "僅能強化一次"
+  ],
+  "demoTool": [
+    "tconstruct:broadsword",
+    "tconstruct:cleaver",
+    "tconstruct:hammer",
+    "tconstruct:arrow",
+    "tconstruct:longsword",
+    "tconstruct:shortbow",
+    "tconstruct:frypan",
+    "tconstruct:crossbow",
+    "tconstruct:scythe",
+    "tconstruct:shuriken"
+  ]
+}
