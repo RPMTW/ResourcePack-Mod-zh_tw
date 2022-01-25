@@ -1,0 +1,27 @@
+{
+    "name": "Charcoal Forge",
+    "icon": "minecraft:coal:1",
+    "category": "temperature",
+    "pages": [
+        {
+            "type": "text",
+            "text": "The charcoal forge is a primitive but effective method for heating many items at once. It is created from lighting a charcoal pile on fire. It functions similar to the $(l:blocks_and_items/brick_forge)Brick Forge$(). It is slower to heat up, but it can heat multiple items at once. To create a charcoal pile, place any piece of charcoal in the world. You can stack charcoal up to 8 layers high, like snow."
+        },
+        {
+            "type": "image",
+            "images": [
+                "tinkersforging:textures/guide/charcoal_piles.png"
+            ],
+            "text": "A big pile o' charcoal"
+        },
+        {
+            "type": "text",
+            "text": "To create a charcoal forge, simply build the multiblock featured on the next page, and then right click the forge with a fire starter such as flint and steel. The forge will start burning, shrinking as it consumes charcoal. If the surrounding blocks are broken, the forge will rapidly lose temperature, peaking at around a third of the maximum temperature."
+        },
+        {
+            "type": "multiblock",
+            "multiblock_id": "tinkersforging:charcoal_forge",
+            "text": "The side blocks can by any stone type solid block."
+        }
+    ]
+}
