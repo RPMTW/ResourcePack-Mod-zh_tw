@@ -548,5 +548,15 @@
     "gui.xaero_sort_angle": "角距離",
     "gui.xaero_toggle_enabled": "已啟用",
     "gui.xaero_toggle_disabled": "已停用",
-    "gui.xaero_main_entity_dot_size": "主實體光點大小"
+    "gui.xaero_main_entity_dot_size": "主實體光點大小",
+    "gui.xaero_box_category_include_list2": "A list of entity types to include in the (sub-)category on top of the entities included by the \"Hard Include\".",
+    "gui.xaero_box_category_exclude_list2": "A list of entity types to exclude from the entity types already included in the (sub-)category. Can work both as a \"whitelist\" and a \"blacklist\" depending on the exclusion mode you choose. This does not remove entities from the entity radar, unless you're excluding from the root \"Any\" category. The \"Display\" setting can remove entities from the radar.",
+    "gui.xaero_box_category_hard_include2": "Controls which entities to automatically include in the (sub-)category without having to put them in the include list manually.",
+    "gui.xaero_category_help2": "Select a sub-category and go to its Settings to configure things like dot color, names, icons etc. \\n \\n Sub-categories that are higher on the list are prioritized when multiple sub-categories include the same entity! Keep that in mind when creating custom categories. Usually, a new custom category should be placed at the top.",
+    "gui.xaero_category_settings_save_confirm": "Save changes before you exit?",
+    "gui.xaero_category_settings_save_confirm_warning": "Warning: This confirmation screen was recently replaced!",
+    "gui.xaero_start_fading_at": "Min Y Distance For Depth Fade",
+    "gui.xaero_box_start_fading_at": "Minimum Y level difference requirement for an entity to start darkening on the radar when the \"Show Entity Depth\" setting is enabled.",
+    "gui.xaero_start_fading_at_auto": "Auto",
+    "gui.xaero_legacy_color": "Legacy"
 }
