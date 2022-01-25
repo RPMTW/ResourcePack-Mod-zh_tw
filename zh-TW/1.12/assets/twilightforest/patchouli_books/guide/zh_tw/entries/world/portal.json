@@ -1,6 +1,6 @@
 {
   "name": "Building a Portal",
-  "icon": "twilightforest:twilight_portal_miniature_structure",
+  "icon": "twilightforest:miniature_structure:0",
   "category": "world",
   "sortnum": -1010,
   "pages": [
@@ -12,13 +12,13 @@
         "pattern": [
           [
             " FF ",
-            "F0AF",
+            "FAAF",
             "FAAF",
             " FF "
           ],
           [
             " GG ",
-            "GWWG",
+            "G0WG",
             "GWWG",
             " GG "
           ],
@@ -33,9 +33,9 @@
           " ": "ANY",
           "A": "AIR",
           "0": "minecraft:water",
-          "W": "minecraft:water[level=15]",
-          "F": "minecraft:poppy",
-          "G": "minecraft:grass_block",
+          "W": "minecraft:water",
+          "F": "minecraft:red_flower",
+          "G": "minecraft:grass",
           "D": "minecraft:dirt"
         },
         "symmetrical": true,
@@ -53,14 +53,14 @@
     },
     {
       "type": "spotlight",
-      "title": "Valid Portal Criteria",
+      "title": "Activation Item",
       "item": "minecraft:diamond",
-      "text": "$(li)Grass Blocks can be swapped out for any earth-y block. Examples: Farmland, Mycelium, Uberous Soil $(li)Poppies can be switched out for any other flower, leaf, or crop! $(li)A portal can be any size as long as there are less than 64 water spaces. You can even make it different shapes too! $(li)The bottom of the portal $(l)MUST$() stay as dirt."
+      "text": "Drop a diamond into the water!"
     },
     {
       "type": "multiblock",
       "name": "Completed Twilight Portal",
-      "text": "Drop a diamond into the water!",
+      "text": "If you see the purple swirls, hop right in!",
       "enable_visualize": false,
       "advancement": "twilightforest:root",
       "multiblock": {
