@@ -131,7 +131,7 @@
     "prefab.gui.structure.bed_color": "床的顏色",
     "prefab.gui.structure.facing.player": "注意：如果你面向北邊的話，選擇南方會使建築朝向你。",
     "prefab.gui.structure.block.clicked": "黃色輪廓是你點擊的方塊。",
-    "prefab.gui.structure.door.facing": "注意：如果你面向北邊的話，選擇南方會使門朝向你。",
+    "prefab.gui.structure.door.facing": "Note: If you're facing north, choose south so the doors are facing you.\nprefab.gui.structure.nobuild=Cannot build structure due to protected blocks/area or unbreakable blocks are in the area. Block Name: %1$s Block Position: x=%2$s, y=%3$s, z=%4$s",
     "prefab.gui.structure.nobuild": "區域內有被保護的或無法破壞的方塊，無法建造結構。",
     "prefab.gui.button.build": "建造 ！",
     "prefab.gui.button.cancel": "取消",
@@ -194,5 +194,6 @@
     "prefab.gui.length": "長度",
     "prefab.gui.stairs_height": "階梯高度",
     "prefab.gui.stairs_width": "階梯寬度",
-    "prefab.gui.building_options": "建築選項"
+    "prefab.gui.building_options": "建築選項",
+    "itemGroup.prefab.logo": "Prefab"
 }
