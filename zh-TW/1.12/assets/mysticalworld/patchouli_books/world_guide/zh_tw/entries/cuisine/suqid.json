@@ -7,19 +7,19 @@
       "type": "spotlight",
       "link_recipe": true,
       "item": "mysticalworld:raw_squid",
-      "text": "生魷魚鬚可以擊殺$(l:creatures/squid)魷魚$()獲得。可以生吃，也可以烤熟吃。"
+      "text": "殺死$(l:creatures/squid)魷魚$()可以獲得生魷魚觸鬚。雖然可以生吃，但也能被進一步烹飪。"
     },
     {
       "type": "smelting",
       "recipe": "mysticalworld:raw_squid",
-      "title": "Calamari",
-      "text": "收集大量的魷魚鬚來製作史詩級的料理，它將帶來絕佳的美食體驗！"
+      "title": "炸魷魚",
+      "text": "對觸鬚的預處理帶來了數量充足的炸魷魚，而這還能與其他食材結合帶來更神秘驚人的體驗！"
     },
     {
       "type": "crafting",
       "recipe": "mysticalworld:epic_squid",
       "title": "史詩魷魚",
-      "text": "史詩魷魚散發著不可忽視的紫色光輝！雖然造價很高，但它幾乎能恢復全部的飢餓值，並帶來奇妙的效果。即使你不餓也可以吃，也能獲得效果。"
+      "text": "這道史詩魷魚裡富含著紫色魷魚精華，不容置疑！雖然製作需要的原料很昂貴，但這道菜會一掃全部飢餓，並且提供大量的增益。沒錯，不餓的時候也能單純為了增益食用史詩魷魚。"
     }
   ]
 }
