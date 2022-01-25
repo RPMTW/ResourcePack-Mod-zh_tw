@@ -117,5 +117,18 @@
     "gui.xaero_wm_box_adjust_height_for_carpetlike_blocks": "從短地毯狀方塊的高度值中減去 1，例如地毯、1 層雪、荷葉等。這可以防止這些方塊在地圖上像一個完整的方塊一樣造成嚴重的陰影。在這些方塊上的定位點和進行傳送也應該更有意義。",
     "gui.xaero_right_click_map_cant_teleport_world": "§8（傳送）未確認...",
     "gui.xaero_box_only_current_map_waypoints": "僅顯示綁定到目前世界地圖的定位點，即使使用完整定位點選單為小地圖選擇了另一個定位點子世界。",
-    "gui.xaero_box_waypoints_selected_by_minimap": "顯示您在遊戲和小地圖上查看的同一定位點子世界的定位點。子世界可以在完整的定位點選單中切換。"
+    "gui.xaero_box_waypoints_selected_by_minimap": "顯示您在遊戲和小地圖上查看的同一定位點子世界的定位點。子世界可以在完整的定位點選單中切換。",
+    "gui.xaero_wm_min_zoom_local_waypoints": "Min Zoom For Local Waypoints",
+    "gui.xaero_wm_arrow_colour": "Arrow Color",
+    "gui.xaero_wm_box_arrow_color": "Color of the arrow that indicates the position and the rotation of the player.",
+    "gui.xaero_wm_color_minimap": "Minimap  ",
+    "gui.xaero_wm_red": "Red ",
+    "gui.xaero_wm_green": "Green ",
+    "gui.xaero_wm_blue": "Blue ",
+    "gui.xaero_wm_yellow": "Yellow",
+    "gui.xaero_wm_purple": "Purple ",
+    "gui.xaero_wm_white": "White ",
+    "gui.xaero_wm_black": "Black ",
+    "gui.xaero_wm_legacy_color": "Legacy",
+    "gui.xaero_wm_team_color": "Team"
 }
