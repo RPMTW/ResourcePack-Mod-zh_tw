@@ -8,20 +8,20 @@
       "type": "spotlight",
       "link_recipe": true,
       "item": "mysticalworld:silver_ore",
-      "text": "銀礦石生成在和金礦類似的高度和位置。可以熔煉成銀錠用來製作工具，其附魔能力與金相同，而耐久卻稍高。"
+      "text": "銀礦的位置和深度與金礦類似。熔煉後會得到銀錠，並可進一步合成銀製工具。這些工具附魔等級與金類似，耐久更高。"
     },
     {
       "type": "smelting",
       "link_recipe": true,
       "recipe": "mysticalworld:silver_ore",
       "title": "銀錠",
-      "text": "銀工具和武器的挖掘等級與金相同。"
+      "text": "銀製工具和武器的挖掘等級和金相同。"
     },
     {
       "type": "crafting",
       "recipe": "mysticalworld:silver_axe",
       "recipe2": "mysticalworld:silver_hoe",
-      "title": "銀工具"
+      "title": "銀製工具"
     },
     {
       "type": "crafting",
