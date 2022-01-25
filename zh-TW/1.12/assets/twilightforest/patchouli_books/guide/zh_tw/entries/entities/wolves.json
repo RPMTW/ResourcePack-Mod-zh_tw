@@ -1,6 +1,6 @@
 {
   "name": "Wolves",
-  "icon": "minecraft:spawn_egg:0{EntityTag:{id:\"twilightforest:hostile_wolf\"}}",
+  "icon": "twilightforest:hostile_wolf_spawn_egg",
   "category": "entities",
   "advancement": "twilightforest:alt/entities/wolves",
   "sortnum": 2100,
@@ -13,14 +13,14 @@
     },
     {
       "type": "entity",
-      "advancement": "twilightforest:alt/entities/mist_wolf",
+      "advancement": "twilightforest:alt/entities/hostile_wolf",
       "entity": "twilightforest:mist_wolf",
       "text": "things and stuff"
     },
     {
       "type": "entity",
-      "advancement": "twilightforest:alt/entities/winter_wolf",
-      "entity": "twilightforest:winter_wolf",
+      "advancement": "twilightforest:alt/entities/mist_wolf",
+      "entity": "twilightforest:mist_wolf",
       "text": "things and stuff"
     }
   ]
