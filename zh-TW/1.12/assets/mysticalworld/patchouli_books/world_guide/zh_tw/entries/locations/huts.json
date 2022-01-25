@@ -1,17 +1,17 @@
 {
-  "name": "小屋",
+  "name": "茅草屋",
   "icon": "mysticalworld:thatch",
   "category": "locations",
   "pages": [
     {
       "type": "text",
-      "title": "小屋",
-      "text": "你可能會在野外，尤其是平原上發現小屋。$(br)可以作為生存基地，但是要提防地下室裡的東西……"
+      "title": "茅草屋",
+      "text": "你可以在世界各處找到這種小屋，特別是在地勢平緩的地方或者平原類群系。它們可以作為一個不錯的開始基地，你在地下室可能還會發現一些好東西！"
     },
     {
       "type": "image",
-      "title": "野外的小屋",
-      "text": "很適合作為基地。",
+      "title": "荒野中的小屋！",
+      "text": "一個可以安家的好地方。",
       "images": [
         "mysticalworld:textures/hut.png"
       ]
