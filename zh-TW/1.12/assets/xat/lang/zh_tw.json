@@ -190,7 +190,7 @@
     "item.sea_stone.0.name": "海洋之石",
     "item.sea_stone.0.tooltip1": "@bubbles:",
     "item.sea_stone.0.tooltip2": "@betterswimming:",
-    "item.sea_stone.0.bubbles": "[#darkaqua:$bubbles:#reset:]#gold:個氣泡的無限氧氣",
+    "item.sea_stone.0.bubbles": "#gold:Infinite oxygen at #reset:[#darkaqua:$bubbles:#reset:]#gold: bubbles",
     "item.sea_stone.0.betterswimming": "#darkgreen:增強游泳",
     "item.sea_stone.0.compat.tan": "@tanthirst:",
     "item.sea_stone.0.tanthirst": "#gold:免疫脫水",
