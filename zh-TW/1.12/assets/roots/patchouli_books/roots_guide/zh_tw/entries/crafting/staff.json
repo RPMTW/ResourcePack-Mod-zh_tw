@@ -6,7 +6,7 @@
   "read_by_default": true,
   "pages": [
     {
-      "type": "crafting",
+      "type": "合成",
       "recipe": "roots:staff",
       "text": "The staff is one of the essential components of $(cat:spells)spells$() and $(l:spells/introduction)spell casting$().$(br2)Instead of imbuing spells directly into a staff, they are first permanently imbued into your $(l:spells/library)spell library$() using a $(l:crafting/gramary)gramary$()."
     },
