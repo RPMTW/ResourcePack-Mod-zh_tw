@@ -1,17 +1,17 @@
 {
   "name": "礦物雷射鑽基座",
-  "icon": "industrialforegoing:ore_laser_base",
-  "category": "resource_production",
+  "icon": "工業先鋒：礦物雷射鑽基座",
+  "category": "資源生產",
   "sortnum": 14,
   "read_by_default": true,
   "pages": [
     {
       "type": "text",
-      "text": "當完全充能$(l: resource_production/laser_drill)雷射鑽$()時，它將生產礦石。 每個可生產礦物的生產機率是基於機器所放置生態系以及設定的挖掘深度。$(br2)雷射鏡片可增加對應礦物的生產機率。$(br2)善用JEI查詢。"
+      "text": "當完全充能$(l: resource_production/laser_drill)雷射鑽$()時，它將生產礦石。 每個可生產礦物的生產機率是基於機器所放置生態系以及設定的挖掘深度。$(br2)雷射聚焦透鏡可增加對應礦物的生產機率。$(br2)善用JEI查詢。"
     },
     {
       "type": "crafting",
-      "recipe": "industrialforegoing:ore_laser_base"
+      "recipe": "工業先鋒：礦物雷射鑽基座"
     }
   ]
 }
