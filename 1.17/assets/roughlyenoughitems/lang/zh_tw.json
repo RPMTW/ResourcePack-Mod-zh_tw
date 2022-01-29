@@ -305,5 +305,6 @@
     "text.rei.config.menu.config": "More Options...",
     "config.roughlyenoughitems.leftSideMobEffects": "Mob Effects Position:",
     "config.roughlyenoughitems.leftSideMobEffects.boolean.true": "Left",
-    "config.roughlyenoughitems.leftSideMobEffects.boolean.false": "Right (Vanilla)"
+    "config.roughlyenoughitems.leftSideMobEffects.boolean.false": "Right (Vanilla)",
+    "text.auto_craft.move_items.tooltip": "Ctrl-Click to Move Items"
 }

@@ -3,5 +3,12 @@
     "tweed4_tailor_screen.screen.wandering_collector.max-lost-stack-amount": "Amount of items to remember",
     "tweed4_tailor_screen.screen.wandering_collector.buy-back-trades": "Number of trades",
     "tweed4_tailor_screen.screen.wandering_collector.min-emeralds-trade": "Minimum price",
-    "tweed4_tailor_screen.screen.wandering_collector.max-emeralds-trade": "Maximum price"
+    "tweed4_tailor_screen.screen.wandering_collector.max-emeralds-trade": "Maximum price",
+    "tweed4_tailor_screen.screen.wandering_collector.include-dropped-stacks": "Include dropped stacks",
+    "tweed4_tailor_screen.screen.wandering_collector.default-prices": "Default Prices",
+    "tweed4_tailor_screen.screen.wandering_collector.default-prices.min-price": "Minimum price",
+    "tweed4_tailor_screen.screen.wandering_collector.default-prices.max-price": "Maximum price",
+    "tweed4_tailor_screen.screen.wandering_collector.default-prices.price-item": "Price item",
+    "tweed4_tailor_screen.screen.wandering_collector.default-prices.scale-price-with-count": "Scale with count",
+    "tweed4_tailor_screen.screen.wandering_collector.default-prices.min-price-scale": "Scale with count"
 }
