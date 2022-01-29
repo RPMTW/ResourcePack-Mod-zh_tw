@@ -1,6 +1,6 @@
 {
   "name": "釣魚機",
-  "icon": "industrialforegoing:marine_fisher",
+  "icon": "工業先鋒：釣魚機",
   "category": "resource_production",
   "sortnum": 3,
   "read_by_default": true,
@@ -11,7 +11,7 @@
     },
     {
       "type": "crafting",
-      "recipe": "industrialforegoing:marine_fisher"
+      "recipe": "工業先鋒：釣魚機"
     }
   ]
 }
