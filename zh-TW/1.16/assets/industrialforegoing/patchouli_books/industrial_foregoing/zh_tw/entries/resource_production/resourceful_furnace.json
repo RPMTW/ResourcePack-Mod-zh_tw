@@ -1,6 +1,6 @@
 {
   "name": "高級熔爐",
-  "icon": "industrialforegoing:resourceful_furnace",
+  "icon": "工業先鋒：高級熔爐",
   "category": "resource_production",
   "sortnum": 6,
   "read_by_default": true,
@@ -11,7 +11,7 @@
     },
     {
       "type": "crafting",
-      "recipe": "industrialforegoing:resourceful_furnace"
+      "recipe": "工業先鋒：高級熔爐"
     }
   ]
 }
