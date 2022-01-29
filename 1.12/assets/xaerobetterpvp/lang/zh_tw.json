@@ -558,5 +558,7 @@
     "gui.xaero_start_fading_at": "Min Y Distance For Depth Fade",
     "gui.xaero_box_start_fading_at": "Minimum Y level difference requirement for an entity to start darkening on the radar when the \"Show Entity Depth\" setting is enabled.",
     "gui.xaero_start_fading_at_auto": "Auto",
-    "gui.xaero_legacy_color": "Legacy"
+    "gui.xaero_legacy_color": "Legacy",
+    "gui.xaero_partial_y_teleportation": "Use Y With Partial When TP",
+    "gui.xaero_box_partial_y_teleportation": "When teleporting to a waypoint or a map location, offset the Y coordinate by 0.5 to avoid falling through carpet-like blocks into the void. Otherwise, the integer Y coordinate is used."
 }
