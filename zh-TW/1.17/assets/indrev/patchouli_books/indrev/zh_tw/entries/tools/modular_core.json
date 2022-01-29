@@ -5,7 +5,7 @@
   "icon": "indrev:modular_core",
   "pages": [
     {
-      "type": "crafting",
+      "type": "合成",
       "recipe": "indrev:shaped/modular_core",
       "text": "模組化核心是每個模組化工具的基底。但在其可用之前必須先充能。您至少需要一個雷射發射器、一個密封艙和大量的能量儲存（1億LF）以充能它，。"
     },
