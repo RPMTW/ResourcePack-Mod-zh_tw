@@ -1,7 +1,7 @@
 {
   "name": "顏料調色器",
-  "icon": "industrialforegoing:dye_mixer",
-  "category": "resource_production",
+  "icon": "工業先鋒：顏料調色器",
+  "category": "資源生產",
   "sortnum": 12,
   "read_by_default": true,
   "pages": [
@@ -11,7 +11,7 @@
     },
     {
       "type": "crafting",
-      "recipe": "industrialforegoing:dye_mixer"
+      "recipe": "工業先鋒：顏料調色器"
     }
   ]
 }
