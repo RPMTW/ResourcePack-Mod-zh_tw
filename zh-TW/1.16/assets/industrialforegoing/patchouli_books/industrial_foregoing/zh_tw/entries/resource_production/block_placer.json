@@ -1,7 +1,7 @@
 {
   "name": "方塊放置器",
-  "icon": "industrialforegoing:block_placer",
-  "category": "resource_production",
+  "icon": "工業先鋒：方塊放置器",
+  "category": "資源生產",
   "sortnum": 5,
   "read_by_default": true,
   "pages": [
@@ -11,7 +11,7 @@
     },
     {
       "type": "crafting",
-      "recipe": "industrialforegoing:block_placer"
+      "recipe": "工業先鋒：方塊放置器"
     }
   ]
 }
