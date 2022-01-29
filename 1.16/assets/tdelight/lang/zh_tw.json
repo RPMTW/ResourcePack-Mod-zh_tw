@@ -1,18 +1,12 @@
 {
-    "_comment": "Item groups",
+    "_comment": "Modifiers",
     "itemGroup.tdelight.tool_parts": "Tinker's Delight Tool Parts",
     "itemGroup.tdelight.general": "Tinker's Delight",
     "itemGroup.tdelight.tools": "Tinker's Delight Tools",
     "itemGroup.tdelight.smeltery": "Tinker's Delight Smeltery",
-
-    "_comment": "Items",
     "item.tdelight.tinkers_handbook": "Tinker's Handbook",
     "item.tdelight.tinkers_handbook.tooltip": "It reads good.",
-
-    "_comment": "Misc",
     "tdelight.attribute.name.generic.fake_harvest_speed": "Mining Speed",
-
-    "_comment": "Hamletite",
     "material.tdelight.hamletite": "Hamletite",
     "block.tdelight.hamletite_block": "Block of Hamletite",
     "block.tdelight.hamletite_block.tooltip": "Can be used as beacon base",
@@ -22,8 +16,6 @@
     "fluid.tdelight.molten_hamletite": "Molten Hamletite",
     "fluid.tdelight.flowing_molten_hamletite": "Flowing Molten Hamletite",
     "item.tdelight.molten_hamletite_bucket": "Molten Hamletite Bucket",
-
-    "_comment": "Rosenquartz",
     "material.tdelight.rosenquartz": "Rosenquartz",
     "block.tdelight.rosenquartz_block": "Block of Rosenquartz",
     "block.tdelight.rosenquartz_block.tooltip": "Can be used as beacon base",
@@ -33,8 +25,6 @@
     "fluid.tdelight.molten_rosenquartz": "Molten Rosenquartz",
     "fluid.tdelight.flowing_molten_rosenquartz": "Flowing Molten Rosenquartz",
     "item.tdelight.molten_rosenquartz_bucket": "Molten Rosenquartz Bucket",
-
-    "_comment": "Gildedfern",
     "material.tdelight.gildedfern": "Gildedfern",
     "block.tdelight.gildedfern_block": "Block of Gildedfern",
     "block.tdelight.gildedfern_block.tooltip": "Can be used as beacon base",
@@ -44,36 +34,27 @@
     "fluid.tdelight.molten_gildedfern": "Molten Gildedfern",
     "fluid.tdelight.flowing_molten_gildedfern": "Flowing Molten Gildedfern",
     "item.tdelight.molten_gildedfern_bucket": "Molten Gildedfern Bucket",
-
-    "_comment": "Tools",
     "item.tdelight.mace": "Mace",
-    "item.tdelight.mace.description":"A single-handed weapon, applying extra knockback.",
+    "item.tdelight.mace.description": "A single-handed weapon, applying extra knockback.",
     "item.tdelight.naginata": "Naginata",
-    "item.tdelight.naginata.description":"It's a knife on a long pole.",
+    "item.tdelight.naginata.description": "It's a knife on a long pole.",
     "item.tdelight.war_hammer": "War Hammer",
-    "item.tdelight.war_hammer.description":"It's slow, but it packs a punch.",
-
-    "_comment": "Tool parts",
+    "item.tdelight.war_hammer.description": "It's slow, but it packs a punch.",
     "item.tdelight.mace_head": "Mace Head",
     "pattern.tdelight.mace_head": "Mace Head",
     "item.tdelight.naginata_head": "Naginata Head",
     "pattern.tdelight.naginata_head": "Naginata Head",
     "item.tdelight.war_hammer_head": "War Hammer Head",
     "pattern.tdelight.war_hammer_head": "War Hammer Head",
-
-    "_comment": "Casts",
     "item.tdelight.mace_head_cast": "Mace Head Gold Cast",
     "item.tdelight.mace_head_sand_cast": "Mace Head Sand Cast",
     "item.tdelight.mace_head_red_sand_cast": "Mace Head Red Sand Cast",
-
     "item.tdelight.war_hammer_head_cast": "War Hammer Head Gold Cast",
     "item.tdelight.war_hammer_head_sand_cast": "War Hammer Head Sand Cast",
     "item.tdelight.war_hammer_head_red_sand_cast": "War Hammer Head Red Sand Cast",
     "item.tdelight.naginata_head_cast": "Naginata Head Gold Cast",
     "item.tdelight.naginata_head_sand_cast": "Naginata Head Sand Cast",
     "item.tdelight.naginata_head_red_sand_cast": "Naginata Head Red Sand Cast",
-
-    "_comment": "Modifiers",
     "modifier.tdelight.vengeful": "Vengeful",
     "modifier.tdelight.vengeful.flavor": "Hungry for more.",
     "modifier.tdelight.vengeful.description": "Increases the weapon's attack with each kill.",
