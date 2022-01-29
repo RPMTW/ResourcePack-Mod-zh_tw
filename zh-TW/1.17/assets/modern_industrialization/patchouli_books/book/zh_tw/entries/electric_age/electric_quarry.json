@@ -4,7 +4,7 @@
   "icon": "modern_industrialization:electric_quarry",
   "pages": [
     {
-      "type": "crafting",
+      "type": "合成",
       "recipe": "modern_industrialization:electric_age/machine/electric_quarry_asbl",
       "text": "電力開採機是蒸汽開採機的電力等效物。為它提供物品和能量，然後看著你的資源變得非常快！$(br2)它的結構與蒸汽開採機完全相同。"
     },
