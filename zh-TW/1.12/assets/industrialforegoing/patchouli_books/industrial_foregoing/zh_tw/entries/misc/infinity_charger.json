@@ -1,7 +1,7 @@
 {
   "name": "無限充電器",
-  "icon": "industrialforegoing:infinity_charger",
-  "category": "misc",
+  "icon": "工業先鋒：無限充電器",
+  "category": "雜項",
   "sortnum": 5,
   "read_by_default": true,
   "pages": [
@@ -11,7 +11,7 @@
     },
     {
       "type": "crafting",
-      "recipe": "industrialforegoing:infinity_charger"
+      "recipe": "工業先鋒：無限充電器"
     }
   ]
 }
