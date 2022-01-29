@@ -1,17 +1,17 @@
 {
   "name": "流體篩分機",
-  "icon": "industrialforegoing:fluid_sieving_machine",
+  "icon": "工業先鋒：流體篩分機",
   "category": "resource_production",
   "sortnum": 21,
   "read_by_default": true,
   "pages": [
     {
       "type": "text",
-      "text": "使用發酵礦石肉和沙子，這台機器將把這種肉轉變為對應的礦石粉末。"
+      "text": "使用發酵礦物肉湯和沙子，這台機器能將其轉變為對應的礦物粉末。"
     },
     {
       "type": "crafting",
-      "recipe": "industrialforegoing:fluid_sieving_machine"
+      "recipe": "工業先鋒：流體篩分機"
     }
   ]
 }
