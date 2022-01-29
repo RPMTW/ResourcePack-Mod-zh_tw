@@ -1,7 +1,7 @@
 {
   "name": "生物探測器",
-  "icon": "industrialforegoing:mob_detector",
-  "category": "misc",
+  "icon": "工業先鋒：生物探測器",
+  "category": "雜項",
   "sortnum": 6,
   "read_by_default": true,
   "pages": [
@@ -11,7 +11,7 @@
     },
     {
       "type": "crafting",
-      "recipe": "industrialforegoing:mob_detector"
+      "recipe": "工業先鋒：生物探測器"
     }
   ]
 }
