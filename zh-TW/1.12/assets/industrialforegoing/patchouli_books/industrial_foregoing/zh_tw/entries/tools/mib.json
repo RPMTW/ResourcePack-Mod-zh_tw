@@ -1,7 +1,7 @@
 {
   "name": "大師球",
-  "icon": "industrialforegoing:mob_imprisonment_tool",
-  "category": "tools",
+  "icon": "工業先鋒：大師球",
+  "category": "工具",
   "sortnum": 0,
   "read_by_default": true,
   "pages": [
@@ -11,7 +11,7 @@
     },
     {
       "type": "crafting",
-      "recipe": "industrialforegoing:mob_imprisonment_tool"
+      "recipe": "工業先鋒：大師球"
     }
   ]
 }
