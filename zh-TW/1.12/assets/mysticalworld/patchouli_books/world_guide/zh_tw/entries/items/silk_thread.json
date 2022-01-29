@@ -4,7 +4,7 @@
   "category": "items",
   "pages": [
     {
-      "type": "crafting",
+      "type": "合成",
       "recipe": "mysticalworld:silk_thread",
       "link_recipe": true,
       "text": "絲線可以透過處理$(l:items/silk_cocoons)蠶繭獲得$()。蠶繭產出絲線的數量極大地取決於具體方法。"
