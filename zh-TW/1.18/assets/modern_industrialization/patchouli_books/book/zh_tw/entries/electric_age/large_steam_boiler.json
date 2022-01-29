@@ -4,7 +4,7 @@
   "icon": "modern_industrialization:large_steam_boiler",
   "pages": [
     {
-      "type": "crafting",
+      "type": "合成",
       "recipe": "modern_industrialization:electric_age/machine/large_steam_boiler_asbl",
       "text": "大型蒸汽鍋爐是小型青銅和鋼製鍋爐的升級版。它使用燃料的速度比熔爐快 8 倍，但在完全加熱時會產生 256 mb/t 的蒸汽。不要忘記水，否則它不會起作用！"
     },
