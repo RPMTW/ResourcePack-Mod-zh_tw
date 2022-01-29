@@ -4,7 +4,7 @@
     "category": "decorations",
     "pages": [
         {
-            "type": "crafting",
+            "type": "合成",
             "recipe": "mysticalworld:wet_mud_block",
             "link_recipe": true,
             "text": "The bucket of water is not consumed in making these bricks. When placed in the world, they will become difficult terrain, slowing anyone who walks upon them. $(info) All dry variants listed here are available through the stonecutter."
