@@ -112,7 +112,7 @@
     "mclib.config.vanilla.title": "原版屬性微調",
     "mclib.config.vanilla.tooltip": "關於對 Minecraft 的代碼進行微調的選項",
     "mclib.config.vanilla.max_packet_size": "最大資料包大小",
-    "mclib.config.comments.vanilla.max_packet_size": "用於設定模型資料包的最大大小（以字節為單位）。警告：請勿在公開伺服器中修改該屬性，因為這會讓伺服器更容易遭到 DDoS。該選項是為單人模式設計的！",
+    "mclib.config.comments.vanilla.max_packet_size": "用於設定模型資料封包的最大大小（以位元組為單位）。警告：請勿在公開伺服器中修改該屬性，因為這會讓伺服器更容易遭到 DDoS。該選項是為單人模式設計的！",
     "op_access.config.title": "OP 存取權限",
     "op_access.config.mclib.title": "McLib",
     "op_access.config.mclib.tooltip": "McLib OP 存取權限選項",
