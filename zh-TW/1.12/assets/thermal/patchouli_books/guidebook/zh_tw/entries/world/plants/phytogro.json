@@ -7,7 +7,7 @@
     "pages": [
         {
             "flag": "&mod:thermal_cultivation,!mod:thermal_expansion",
-            "type": "crafting",
+            "type": "合成",
             "recipe": "thermal:phytogro_2",
             "text": "Phyto-gro is fertilizer that is densely packed with all the nutrients plants need. It can be directly applied to plants or spread in an area with $(l:thermal:equipment/explosives/phyto_explosives)some explosives$(/l)."
         },
