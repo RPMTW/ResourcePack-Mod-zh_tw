@@ -1,7 +1,7 @@
 {
   "name": "汙泥精煉機",
-  "icon": "industrialforegoing:sludge_refiner",
-  "category": "resource_production",
+  "icon": "工業先鋒：汙泥精煉機",
+  "category": "資源生產",
   "sortnum": 10,
   "read_by_default": true,
   "pages": [
@@ -11,7 +11,7 @@
     },
     {
       "type": "crafting",
-      "recipe": "industrialforegoing:sludge_refiner"
+      "recipe": "工業先鋒：汙泥精煉機"
     }
   ]
 }
