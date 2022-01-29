@@ -1,25 +1,25 @@
 {
   "name": "流體運輸器",
-  "icon": "industrialforegoing:fluid_transporter_type",
-  "category": "transport",
+  "icon": "工業先鋒：流體輸送類型",
+  "category": "運輸",
   "sortnum": 0,
   "read_by_default": true,
   "pages": [
     {
       "type": "text",
-      "text": "流體運輸器可用於運輸流體。您需要在提取側和插入側放置轉運體。$(br2)多個流體運輸器可以在同一格方塊中，它們具有插入模式和提取模式。要更改模式，您需要右鍵點擊中間區域。"
+      "text": "流體運輸器可用於運輸流體。您需要在輸入側和輸出側放置運輸體。$(br2)多個流體運輸器可以在同一格方塊中，它們具有輸入模式和輸出模式。要更改模式，您需要右鍵點擊中間區域。"
     },
     {
       "type": "text",
-      "text": "You can filter things interacting in the GUI with blacklist and whitelist modes. $(br2)To remove upgrades or a transporter you can Sneak + Right + Clicking one of the transporters. $(br2)In regulator mode when a transporter is in insertion mode you can specify how many items/fluid an inventory can have."
+      "text": "您可以使用黑名單和白名單模式過濾 GUI 中互動的物品。 $(br2)要刪除升級或運輸器時，您可以蹲下+右鍵點擊運輸器。 $(br2)當運輸器處於輸入狀態並且開啟調節模式時，您可以指定庫存內可以擁有的物品/流體數量。"
     },
     {
       "type": "text",
-      "text": "You can speed how fast a transporter work with Speed Addons and you can transfer more using Efficiency Addons by right-clicking them in the outer ring of the transporter."
+      "text": "您可以手持外掛右鍵點擊運輸器的外環，安裝速度外掛以提升輸送速度，或安裝效率外掛以提升輸送數量。"
     },
     {
       "type": "crafting",
-      "recipe": "industrialforegoing:item_transporter_type"
+      "recipe": "工業先鋒：物品輸送類型"
     }
   ]
 }
