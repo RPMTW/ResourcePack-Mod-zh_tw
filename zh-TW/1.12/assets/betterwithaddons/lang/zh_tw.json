@@ -429,13 +429,13 @@
     "fruit.rot.50": "",
     "fruit.rot.75": "發霉",
     "fruit.rot.100": "腐爛",
-    "tile.pond_base.dry.name": "Salination Pond [DEPRECATED]",
-    "tile.pond_base.wet.name": "Sandy Clay [DEPRECATED]",
-    "tile.salt_layer.name": "Layer of Salt [DEPRECATED]",
-    "fluid.brine": "Brine [DEPRECATED]",
-    "fluid.salinated_brine": "Saturated Brine [DEPRECATED]",
-    "item.bowl.salt.name": "Bowl of Salt [DEPRECATED]",
-    "tooltip.pond_creation.name": "Place in sun to dry into Salination Pond.",
-    "tooltip.salt_creation.name": "Put at bottom of water basin will eventually dry into salt layers.",
-    "tooltip.salt_layer.name": "Pick up with a bowl to get salt."
+    "tile.pond_base.dry.name": "鹽化池 [已棄用]",
+    "tile.pond_base.wet.name": "沙質黏土 [已棄用]",
+    "tile.salt_layer.name": "鹽層 [已棄用]",
+    "fluid.brine": "鹽水 [已棄用]",
+    "fluid.salinated_brine": "飽和鹽水 [已棄用]",
+    "item.bowl.salt.name": "一碗鹽 [已棄用]",
+    "tooltip.pond_creation.name": "放置在陽光下曬乾到鹽化池中。",
+    "tooltip.salt_creation.name": "放在水盆底部最終會乾燥成鹽層。",
+    "tooltip.salt_layer.name": "用碗拿起鹽。"
 }
