@@ -1,7 +1,7 @@
 {
   "name": "生物反應器",
-  "icon": "industrialforegoing:bioreactor",
-  "category": "generators",
+  "icon": "工業先鋒：生物反應器",
+  "category": "發電機",
   "sortnum": 2,
   "read_by_default": true,
   "pages": [
@@ -11,7 +11,7 @@
     },
     {
       "type": "crafting",
-      "recipe": "industrialforegoing:bioreactor"
+      "recipe": "工業先鋒：生物反應器"
     }
   ]
 }
