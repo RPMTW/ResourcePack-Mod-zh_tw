@@ -4,7 +4,7 @@
   "icon": "modern_industrialization:diesel_jetpack",
   "pages": [
     {
-      "type": "crafting",
+      "type": "合成",
       "recipe": "modern_industrialization:armor/diesel_jetpack",
       "text": "噴氣背包翱翔吧... 燃料越強大，噴氣背包就越快！我們推薦橡膠靴子和橡膠頭盔...$(br2)不要忘記使用$(o)開關飛行$()按鍵啟動它！"
     },
