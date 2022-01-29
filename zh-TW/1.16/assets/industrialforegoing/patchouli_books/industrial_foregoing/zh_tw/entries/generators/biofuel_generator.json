@@ -1,17 +1,17 @@
 {
   "name": "生物燃油發電機",
-  "icon": "industrialforegoing:biofuel_generator",
+  "icon": "工業先鋒：生物燃油發電機",
   "category": "generators",
   "sortnum": 3,
   "read_by_default": true,
   "pages": [
     {
       "type": "text",
-      "text": "使用$(l:generators/biofuel)生物燃料$()生成$(6)160$()RF/t的發電機。 $(br2)此發電機效率高，因此當內部電量滿時，它將停止消耗燃油。"
+      "text": "使用$(l:generators/biofuel)生物燃油$()生成$(6)160$()RF/t的發電機。 $(br2)此發電機效率高，因此當內部電量滿時，它將停止消耗燃油。"
     },
     {
       "type": "crafting",
-      "recipe": "industrialforegoing:biofuel_generator"
+      "recipe": "工業先鋒：生物燃油發電機"
     }
   ]
 }
