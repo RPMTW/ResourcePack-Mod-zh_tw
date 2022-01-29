@@ -4,7 +4,7 @@
     "category": "cuisine",
     "pages": [
         {
-            "type": "crafting",
+            "type": "合成",
             "recipe": "mysticalworld:fish_and_chips",
             "text": "A delicious combination of cooked potato and cooked fish, topped with $(l:cuisine/vinegar)vinegar$()!"
         }
