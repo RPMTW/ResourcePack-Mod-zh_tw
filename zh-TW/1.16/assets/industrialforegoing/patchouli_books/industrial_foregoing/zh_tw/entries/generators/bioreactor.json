@@ -1,17 +1,17 @@
 {
-  "name": "生物質爐",
-  "icon": "industrialforegoing:bioreactor",
+  "name": "生物反應器",
+  "icon": "工業先鋒：生物反應器",
   "category": "generators",
   "sortnum": 2,
   "read_by_default": true,
   "pages": [
     {
       "type": "text",
-      "text": "A machine that when provided with water and some $(6)seeds$(), $(6)sapplings$(), $(6)dyes$() and ... $(6)skulls$()??? it will create $(l:generators/biofuel)Biofuel$(). $(br2)The more different types of items the reactor has the more biofuel per item it will create. For example: having 1 item the reactor it will only make $(6)80$()mb but, if you have 4 different items, each item will make $(6)110$()mb for a total of $(6)440$()mb."
+      "text": "當提供水和一些 $(6)種子$（）， $(6)樹苗$（）， $(6)染料$（）和... $(6)骨頭$（）???時，機器將會製作$（l：generators/biofuel）Biofuel$（）。 $(br2)反應器擁有的不同類型的物品越多，它產生的每個物品的生物燃料就越多。例如：有1個物品時，反應堆只能產生 $(6)80$（）mb，但是，如果你有4個不同的物品，每個物品將產生 $(6)110$（）mb，總共 $(6)440$（）mb。"
     },
     {
       "type": "crafting",
-      "recipe": "industrialforegoing:bioreactor"
+      "recipe": "工業先鋒：生物反應器"
     }
   ]
 }
