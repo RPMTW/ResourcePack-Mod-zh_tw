@@ -1,12 +1,12 @@
 {
-    "bq_msi.task.rc_locate": "Task Locate Structure",
-    "bq_msi.task.multiblock": "Task Create Multiblock",
-    "command.getStructureName.usage": "/getStructureName\tOptional: <Dimension> <X Coordinate> <Z Coordinate>",
+    "bq_msi.task.rc_locate": "任務定位結構",
+    "bq_msi.task.multiblock": "任務創建多方塊",
+    "command.getStructureName.usage": "/getStructureName\tOptional: <維度> <X 座標> <Z 座標>",
     "command.getMultiblockCache.usage": "/getMultiblockCache",
     "command.clearMultiblockCache.usage": "/clearMultiblockCache",
-    "bq_msi.gui.structure": "Structure: %s",
-    "bq_msi.gui.found": "Found!",
-    "bq_msi.gui.undiscovered": "Undiscovered",
-    "bq_msi.gui.created": "Built!",
-    "bq_msi.gui.noncreated": "Not yet built!"
+    "bq_msi.gui.structure": "結構：%s",
+    "bq_msi.gui.found": "已找到！",
+    "bq_msi.gui.undiscovered": "尚未發現",
+    "bq_msi.gui.created": "已建造！",
+    "bq_msi.gui.noncreated": "尚未建造！"
 }
