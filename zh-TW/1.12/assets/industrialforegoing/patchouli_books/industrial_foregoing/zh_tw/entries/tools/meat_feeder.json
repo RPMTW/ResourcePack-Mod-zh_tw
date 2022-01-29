@@ -1,7 +1,7 @@
 {
   "name": "肉湯注射器",
-  "icon": "industrialforegoing:meat_feeder",
-  "category": "tools",
+  "icon": "工業先鋒：肉湯注射器",
+  "category": "工具",
   "sortnum": 1,
   "read_by_default": true,
   "pages": [
@@ -11,7 +11,7 @@
     },
     {
       "type": "crafting",
-      "recipe": "industrialforegoing:meat_feeder"
+      "recipe": "工業先鋒：肉湯注射器"
     }
   ]
 }
