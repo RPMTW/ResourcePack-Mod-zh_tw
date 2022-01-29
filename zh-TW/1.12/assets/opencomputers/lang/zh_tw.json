@@ -268,7 +268,7 @@
     "oc:tooltip.diskdrive.CC": "已經§a支持§7使用ComputerCraft的磁片了.",
     "oc:tooltip.diskdrive": "用來讀寫磁片.可以給機器人安裝使其可以插入磁片.",
     "oc:tooltip.diskdrivemountable": "和普通磁片驅動器用途一樣,但必須裝載在機架裡.",
-    "oc:tooltip.diskusage": "磁碟使用: %s/%s 字節",
+    "oc:tooltip.diskusage": "磁碟使用: %s/%s 位元組",
     "oc:tooltip.disklocked": "鎖定者：%s",
     "oc:tooltip.diskmodemanaged": "模式: 管理",
     "oc:tooltip.diskmodeunmanaged": "模式: 不受管理",
