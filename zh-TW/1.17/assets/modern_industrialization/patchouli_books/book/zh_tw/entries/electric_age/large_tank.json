@@ -4,7 +4,7 @@
   "icon": "modern_industrialization:large_tank",
   "pages": [
     {
-      "type": "crafting",
+      "type": "合成",
       "recipe": "modern_industrialization:electric_age/machine/large_tank_asbl",
       "text": "大型儲罐是一個多方塊，可讓您儲存大量流體，例如蒸汽。它可以為結構中的每個方塊（包括側面）儲存 64 桶流體。"
     },
