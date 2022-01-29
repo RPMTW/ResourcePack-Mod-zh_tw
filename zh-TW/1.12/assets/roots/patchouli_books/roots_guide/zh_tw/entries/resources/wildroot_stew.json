@@ -5,7 +5,7 @@
   "read_by_default": true,
   "pages": [
     {
-      "type": "crafting",
+      "type": "合成",
       "recipe": "roots:wildroot_stew",
       "text": "While providing a hearty meal, the $(l:herbs/wildroot)wildroot$() used to make this stew is somewhat bland and tasteless.$(br2)Nevertheless, it is enough to sate hunger when there is little else to be had."
     },
