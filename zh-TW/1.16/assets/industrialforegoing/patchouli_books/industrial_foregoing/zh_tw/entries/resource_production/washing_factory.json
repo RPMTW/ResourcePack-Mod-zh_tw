@@ -1,6 +1,6 @@
 {
-  "name": "洗滌廠",
-  "icon": "industrialforegoing:washing_factory",
+  "name": "洗礦廠",
+  "icon": "工業先鋒：洗礦場",
   "category": "resource_production",
   "sortnum": 19,
   "read_by_default": true,
@@ -11,7 +11,7 @@
     },
     {
       "type": "crafting",
-      "recipe": "industrialforegoing:washing_factory"
+      "recipe": "工業先鋒：洗礦場"
     }
   ]
 }
