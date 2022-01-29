@@ -1,17 +1,17 @@
 {
   "name": "蘑菇孢子繁殖器",
-  "icon": "industrialforegoing:spores_recreator",
+  "icon": "工業先鋒：蘑菇孢子繁殖器",
   "category": "resource_production",
   "sortnum": 8,
   "read_by_default": true,
   "pages": [
     {
       "type": "text",
-      "text": "複製$(6)菌絲$()。$(br2)需要$(6)40$()RF/t和$(6)水$()(每次操作消耗$(6)100$()mb)。$(br2)地獄的作物要消耗$(6)岩漿$()."
+      "text": "複製$(6)菌絲$()。$(br2)需要$(6)40$()RF/t和$(6)水$()(每次操作消耗$(6)100$()mb)。$(br2)地獄的菌絲要消耗$(6)岩漿$()."
     },
     {
       "type": "crafting",
-      "recipe": "industrialforegoing:spores_recreator"
+      "recipe": "工業先鋒：蘑菇孢子繁殖器"
     }
   ]
 }
