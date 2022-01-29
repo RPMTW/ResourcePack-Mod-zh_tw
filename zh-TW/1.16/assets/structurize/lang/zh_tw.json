@@ -40,7 +40,7 @@
     "com.ldtteam.structurize.gui.tagtool.notag": "錯誤：先輸入一個有效的標籤再應用！",
     "com.ldtteam.structurize.gui.tagtool.removed": "標籤 %s 已從 %s 移除。",
     "com.ldtteam.structurize.gui.tagtool.save": "成功使錨點方塊應用了標籤",
-    "com.ldtteam.structurize.network.messages.schematicsavemassage.toobig": "結構檔案太大，不能大於 %s 字節！",
+    "com.ldtteam.structurize.network.messages.schematicsavemassage.toobig": "結構檔案太大，不能大於 %s 位元組！",
     "com.structurize.command.playernotfound": "無法找到用以保存掃描結果的玩家！",
     "com.structurize.command.scan.no.perm": "你無權用指令來進行掃描，請使用掃描工具！",
     "com.structurize.gui.buildtool.leave.tip": "用結構建築工具右擊某個固體方塊來調整建築位置",
