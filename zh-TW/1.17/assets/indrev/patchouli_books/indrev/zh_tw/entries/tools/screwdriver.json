@@ -5,7 +5,7 @@
   "icon": "indrev:screwdriver",
   "pages": [
     {
-      "type": "crafting",
+      "type": "合成",
       "recipe": "indrev:shaped/screwdriver",
       "text": "The Screwdriver is used to configure machines' input and outputs for items and fluids.$(br)Can also be used on Lazuli Flux Container to configurate energy sides."
     }
