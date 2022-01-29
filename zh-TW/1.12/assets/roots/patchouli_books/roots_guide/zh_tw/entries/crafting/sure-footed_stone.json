@@ -5,7 +5,7 @@
   "read_by_default": true,
   "pages": [
     {
-      "type": "crafting",
+      "type": "合成",
       "recipe": "roots:runestone_trample",
       "text": "The ideal solution for any farmer!$(br2)Not only does this stone prevent crops within 30 blocks from being trampled by players, creatures or monsters, it also hydrates all farmland within five blocks."
     },
