@@ -5,7 +5,7 @@
   "icon": "indrev:chopper_mk1",
   "pages": [
     {
-      "type": "crafting",
+      "type": "合成",
       "recipe": "indrev:shaped/chopper_mk1",
       "text": "$(l)伐木機$()用於自動樹場，且可使用升級組件強化。$(br)但需要指定的物品才能運作:(設置時將其放於2X2的空間中)"
     },
