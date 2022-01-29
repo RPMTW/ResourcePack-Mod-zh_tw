@@ -4,7 +4,7 @@
     "category": "cuisine",
     "pages": [
         {
-            "type": "crafting",
+            "type": "合成",
             "link_recipe": true,
             "recipe": "mysticalworld:assorted_seeds_recipe",
             "text": "You can combine four of any different type of seeds (or four of the same seeds!) together."
