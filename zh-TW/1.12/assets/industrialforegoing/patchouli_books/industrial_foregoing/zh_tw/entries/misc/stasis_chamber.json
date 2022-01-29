@@ -1,7 +1,7 @@
 {
   "name": "冷凝室",
   "icon": "industrialforegoing:stasis_chamber",
-  "category": "misc",
+  "category": "雜項",
   "sortnum": 5,
   "read_by_default": true,
   "pages": [
@@ -11,7 +11,7 @@
     },
     {
       "type": "crafting",
-      "recipe": "industrialforegoing:stasis_chamber"
+      "recipe": "工業先鋒：冷凝室"
     }
   ]
 }
