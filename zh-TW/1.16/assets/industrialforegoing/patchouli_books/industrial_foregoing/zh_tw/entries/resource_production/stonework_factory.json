@@ -1,17 +1,17 @@
 {
   "name": "造石加工機",
-  "icon": "industrialforegoing:material_stonework_factory",
+  "icon": "工業先鋒：造石加工機",
   "category": "resource_production",
   "sortnum": 0,
   "read_by_default": true,
   "pages": [
     {
       "type": "text",
-      "text": "一個次世代$(6)鵝卵石$()發電機.$(br2)當提供$(6)60$()RF/t以及$(6)水$()和$(6)岩漿$()時，經由指示由指示創造某些材料。$(br)這些材料可以進行進一步的操作:$(br)$(li)熔煉$(br)$(li)粉碎$(br)$(li)合成"
+      "text": "一個次世代$(6)鵝卵石$()製造機.$(br2)當提供$(6)60$()RF/t以及$(6)水$()和$(6)岩漿$()時，可經由指示創造某些材料。$(br)這些材料可以進行進一步的操作:$(br)$(li)熔煉$(br)$(li)粉碎$(br)$(li)合成"
     },
     {
       "type": "crafting",
-      "recipe": "industrialforegoing:material_stonework_factory"
+      "recipe": "工業先鋒：造石加工機"
     }
   ]
 }
