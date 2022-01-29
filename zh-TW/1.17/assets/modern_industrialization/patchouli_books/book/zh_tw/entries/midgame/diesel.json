@@ -4,7 +4,7 @@
   "icon": "modern_industrialization:turbo_diesel_generator",
   "pages": [
     {
-      "type": "crafting",
+      "type": "合成",
       "recipe": "modern_industrialization:electric_age/machine/turbo_diesel_generator_asbl",
       "text": "請記住，您可以使用渦輪柴油發電機進行相容高壓發電。正如您所料，它的產量高達 512 EU/t。請記住，您可以使用 REI 找到每種燃料中儲存的能量。"
     },
