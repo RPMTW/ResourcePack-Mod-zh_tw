@@ -1,17 +1,17 @@
 {
   "name": "自動煉藥機",
-  "icon": "industrialforegoing:potion_brewer",
+  "icon": "工業先鋒：自動煉藥機",
   "category": "resource_production",
   "sortnum": 9,
   "read_by_default": true,
   "pages": [
     {
       "type": "text",
-      "text": "一台全自動草藥釀造機。$(br2)當提供$(6)電力$()時，它會使用放入的物品釀造藥水。$(br)如果內部的$(6)液體$()空間滿了又沒有在釀造藥水時，水將會填入空的玻璃瓶中。"
+      "text": "一台自動化的原版釀造台。$(br2)當提供$(6)電力$()時，它會使用放入的物品釀造藥水。$(br)如果內部的$(6)水$()滿了，水將會填入空的玻璃瓶中且不會消耗水。"
     },
     {
       "type": "crafting",
-      "recipe": "industrialforegoing:potion_brewer"
+      "recipe": "工業先鋒：自動煉藥機"
     }
   ]
 }
