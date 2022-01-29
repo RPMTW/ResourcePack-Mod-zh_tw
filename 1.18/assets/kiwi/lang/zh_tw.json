@@ -11,5 +11,8 @@
     "cosmetic.snownee.2021q1": "Electronicat",
     "cosmetic.snownee.xmas": "Santa Hat",
     "cosmetic.snownee.sunny_milk": "Sunny Milk",
-    "argument.kiwi.registry.id.invalid": "ID is invalid"
+    "argument.kiwi.registry.id.invalid": "ID is invalid",
+    "tip.kiwi.debug_tooltip": "==========\nThank you for using Kiwi and Snownee's other mods!\nItem NBT and tags tooltips are active. %s to disable.\n==========",
+    "tip.kiwi.click_here": "[Click Here]",
+    "tip.kiwi.debug_tooltip.success": "Disabled debug tooltips. You can enable them in config."
 }

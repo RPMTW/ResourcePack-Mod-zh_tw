@@ -350,5 +350,8 @@
     "modularrouters.jei.recipe.module_reset.description": "Completely resets the module to its newly-crafted state.  Beware: ALL data, including filter settings and enchantments, will be lost (but any installed augments will be returned)",
     "modularrouters.jei.recipe.module_reset": "Module Reset",
     "modularrouters.patchouli.book.landing": "This manual is a complete reference guide to $(#228)Modular Routers/$.",
-    "modularrouters.patchouli.book.name": "Modular Routers Manual"
+    "modularrouters.patchouli.book.name": "Modular Routers Manual",
+    "modularrouters.guiText.label.breakMatchType.BLOCK": "Match by Block",
+    "modularrouters.guiText.label.breakMatchType.ITEM": "Match by Dropped Item(s)",
+    "modularrouters.guiText.popup.breaker.matchType": "§a§nMatch Type ${br} ${br}§r- Match by Dropped Item(s): when breaking a block, the filter matches on the item(s) that would be dropped (note that Silk Touch will affect drops)${br}- Match by Block: the filter matches on the block itself, e.g. Stone in the filter would match Stone blocks, even without Silk Touch (although the drop is still Cobblestone)"
 }

@@ -864,7 +864,7 @@
     "tombstone.compendium.blessing.desc": "Each time you're hit, you have a chance to get a short buff with a cooldown delay.\nThe effect depends on the number of pieces of armor equiped with this enchantment.",
     "tombstone.compendium.frostbite.title": "Frostbite",
     "tombstone.compendium.frostbite.desc": "Each time you hit an enemy, there's a chance to apply a freezing effect.",
-    "tombstone.compendium.familiar_receptacle.desc": "This receptacle can capture the soul of one of your dead familiar and all its possessions.\nThe soul contained in the receptacle must then recover by slowly absorbing the vital essence of the wearer.\nThe most common use of the receptacle is to bring this familiar back to life by praying with the Ankh.\nThe required level to craft a familiar receptacle can be defined in config.\nOn dedicated servers, the familiar receptacle can capture even if you're offline.",
+    "tombstone.compendium.familiar_receptacle.desc": "This receptacle can capture the soul of one of your dead familiar and all its possessions.\nThe soul contained in the receptacle must then recover by slowly absorbing the vital essence of the wearer.\nThe most common use of the receptacle is to bring this familiar back to life by praying with the Ankh.\nOn dedicated servers, the familiar receptacle can capture even if you're offline.",
     "tombstone.compendium.fishing_rod_of_misadventure.desc": "This fishing rod seems to be bad luck fishing.\nEnchanting the item with a Grave's Soul seems to worsen this bad luck.",
     "tombstone.compendium.ghostly_shape.desc": "Ghostly Shape is an neutral effect received after a death that prevents creatures from attacking you.\nThe Perk Ghostly Shape grants additional effects.\nThe duration of the effect is reduced to 10 seconds when teleporting with a Grave's Key (configurable) and to 5 seconds when pickup items from a grave.\nThe effect is canceled if you attack a creature.\nDepending on your configuration, the effect will also be negated if you open a chest, break a block, or push a hostile creature.",
     "tombstone.compendium.essence_of_undeath.desc": "The Essence of Undeath is a crafting ingredient to build decorative graves.\nIt can be dropped rarely from the undead creatures, by fishing in deep water or with cat morning gifts.",
@@ -960,5 +960,6 @@
     "tombstone.config.show_tooltip_combine.tooltip": "Display the combinations in item tooltip",
     "tombstone.config.show_fishing_marker": "Fishing Marker",
     "tombstone.config.show_fishing_marker.tooltip": "Display an icon when fishing with the Rod of Misadventure showing if you're in openwater",
-    "entity.tombstone.cloud": "Cloud"
+    "entity.tombstone.cloud": "Cloud",
+    "tombstone.message.dyeable": "Dyeable"
 }

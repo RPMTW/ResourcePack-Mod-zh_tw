@@ -576,5 +576,17 @@
     "jei.info.block.hydroelectricgenerator": "Output:\n    Maximum Voltage: 120V\n    Maximum Power: 720 W\n    Maximum Current: 6 A",
     "jei.info.block.windmill": "Output:\n    Maximum Voltage: 120V\n    Maximum Power: 1.2 kW\n    Maximum Current: 10.0 A\n\nIdeal Height: Y = 135",
     "jei.info.block.tank": "Can store any fluid up to %smB. Note the fluid is lost when the tank is broken!",
-    "jei.info.fluid.combustionchamberfuel": "Combustion Chamber Fuel:\n    Produces: %2$s kW\n    Cost: %1$s mb."
+    "jei.info.fluid.combustionchamberfuel": "Combustion Chamber Fuel:\n    Produces: %2$s kW\n    Cost: %1$s mb.",
+    "item.electrodynamics.raworetin": "Raw Tin",
+    "item.electrodynamics.raworesilver": "Raw Silver",
+    "item.electrodynamics.raworelead": "Raw Lead",
+    "item.electrodynamics.upgraderange": "Range Upgrade",
+    "item.electrodynamics.upgradeexperience": "Experience Upgrade",
+    "block.electrodynamics.raworeblocktin": "Block of Raw Tin",
+    "block.electrodynamics.raworeblocksilver": "Block of Raw Silver",
+    "block.electrodynamics.raworeblocklead": "Block of Raw Lead",
+    "tooltip.info.xpstored": "Stored XP: %s",
+    "tooltip.info.xpusage": "Shift+Right-Click to dispense",
+    "tooltip.info.range": "Increases raduis by 1",
+    "tooltip.countdown.tickstillcheck": "Ticks left: %s"
 }
