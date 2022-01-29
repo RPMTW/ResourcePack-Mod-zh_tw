@@ -1,6 +1,6 @@
 {
   "name": "流體放置器",
-  "icon": "industrialforegoing:fluid_placer",
+  "icon": "工業先鋒：流體放置器",
   "category": "resource_production",
   "sortnum": 4,
   "read_by_default": true,
@@ -11,7 +11,7 @@
     },
     {
       "type": "crafting",
-      "recipe": "industrialforegoing:fluid_placer"
+      "recipe": "工業先鋒：流體放置器"
     }
   ]
 }
