@@ -1,17 +1,17 @@
 {
   "name": "發酵站",
-  "icon": "industrialforegoing:fermentation_station",
-  "category": "resource_production",
+  "icon": "工業先鋒：發酵站",
+  "category": "資源生產",
   "sortnum": 20,
   "read_by_default": true,
   "pages": [
     {
       "type": "text",
-      "text": "將原礦肉桶加工為發酵礦石肉桶。"
+      "text": "當內部的生礦物肉湯容量達到設定的密閉時機後，會依照所選的生產模式加工為發酵礦物肉湯。"
     },
     {
       "type": "crafting",
-      "recipe": "industrialforegoing:fermentation_station"
+      "recipe": "工業先鋒：發酵站"
     }
   ]
 }
