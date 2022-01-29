@@ -1,7 +1,7 @@
 {
   "name": "流體收集器",
-  "icon": "industrialforegoing:fluid_collector",
-  "category": "resource_production",
+  "icon": "工業先鋒：流體收集器",
+  "category": "資源生產",
   "sortnum": 7,
   "read_by_default": true,
   "pages": [
@@ -11,7 +11,7 @@
     },
     {
       "type": "crafting",
-      "recipe": "industrialforegoing:fluid_collector"
+      "recipe": "工業先鋒：流體收集器"
     }
   ]
 }
