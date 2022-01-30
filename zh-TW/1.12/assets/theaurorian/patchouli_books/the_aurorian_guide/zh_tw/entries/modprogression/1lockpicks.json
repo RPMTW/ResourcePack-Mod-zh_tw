@@ -6,7 +6,7 @@
     "readbydefault": true,
     "pages": [
         {
-            "type": "合成",
+            "type": "crafting",
             "name": "Lockpicks",
             "recipe": "theaurorian:items/tools/lockpicks",
             "text": "$(#008cff)符石地牢$()將會是你開啟的第一個地牢，$(#008cff)開鎖器$()是你進入這個地牢的小幫手。"
