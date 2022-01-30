@@ -7,7 +7,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "輸送帶可用於輸送物品、實體和流體。它們可以進行$(l:conveyor_upgrades)升級$()。物品和實體可以在輸送帶上下傳送，但流體只能水平傳送。$(br2)輸送帶可以透過手持染料右鍵點擊來更改顏色。"
+      "text": "輸送帶可用於輸送物品、實體和流體。它們可以進行$(l:conveyor_upgrades)升級$()。物品和實體可以在輸送帶上上下傳送，但流體只能水平傳送。$(br2)輸送帶可以透過手持染料右鍵點擊來跟改顏色。"
     },
     {
       "type": "crafting",
@@ -16,12 +16,12 @@
     {
       "type": "spotlight",
       "item": "minecraft:glowstone_dust",
-      "text": "使用螢石粉可以讓輸送帶非常快速地移動物品和實體。"
+      "text": "使用螢光石可以讓傳送帶非常快速地移動物品和實體。"
     },
     {
       "type": "spotlight",
       "item": "industrialforegoing:plastic",
-      "text": "使用塑膠片以防止物品在輸送帶上時被玩家吸取。"
+      "text": "使用塑料將防止物品在輸送帶上時被玩家吸取。"
     }
   ]
 }
