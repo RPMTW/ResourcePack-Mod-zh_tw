@@ -5,7 +5,7 @@
   "read_by_default": true,
   "pages": [
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "roots:pyre",
       "text": "The primary use of a pyre is the execution of rituals, and the use of the pyre in this context is described in $(l:rituals/introduction)the rituals introduction$().$(br2)Other uses include the creation of certain herbs, as described in the $(l:herbs/introduction)herbs$()"
     },
