@@ -5,7 +5,7 @@
   "icon": "indrev:miner_mk4",
   "pages": [
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "indrev:shaped/miner_mk4",
       "text": "$(l)$(o)礦機電腦$()放置於$(l:machines/miner#chunk_scanner)$(t:Chunk Scanner)$(l)$(o)$(#0000ff)掃描過的$()chunk裡時將耗費能量挖掘。挖掘時不摧毀方塊。$(br)礦機電腦運行時耗費$(#1111FF)64LF/tick$()，每加裝一個鑽頭能源耗費增加 $(#1111FF)256LF/tick$()"
     },
