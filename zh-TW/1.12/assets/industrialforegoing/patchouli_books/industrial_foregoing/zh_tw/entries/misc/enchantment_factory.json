@@ -1,6 +1,6 @@
 {
   "name": "自動附魔台",
-  "icon": "工業先鋒：自動附魔台",
+  "icon": "industrialforegoing:enchantment_factory",
   "category": "雜項",
   "sortnum": 0,
   "read_by_default": true,
@@ -11,7 +11,7 @@
     },
     {
       "type": "crafting",
-      "recipe": "工業先鋒：自動附魔台"
+      "recipe": "industrialforegoing:enchantment_factory"
     }
   ]
 }
