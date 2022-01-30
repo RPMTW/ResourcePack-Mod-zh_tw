@@ -4,7 +4,7 @@
     "category": "decorations",
     "pages": [
         {
-            "type": "合成",
+            "type": "crafting",
             "recipe": "mysticalworld:wet_mud_brick",
             "link_recipe": true,
             "text": "Crafted from $(l:decoration/mud_blocks)wet mud blocks$(), these bricks will also slow anyone walking upon them when placed in the world. $(info) All dry variants listed here are available through the stonecutter."
