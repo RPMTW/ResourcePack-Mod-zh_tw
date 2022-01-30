@@ -1,6 +1,6 @@
 {
   "name": "造石加工機",
-  "icon": "工業先鋒：造石加工機",
+  "icon": "industrialforegoing:material_stonework_factory",
   "category": "resource_production",
   "sortnum": 0,
   "read_by_default": true,
@@ -11,7 +11,7 @@
     },
     {
       "type": "crafting",
-      "recipe": "工業先鋒：造石加工機"
+      "recipe": "industrialforegoing:material_stonework_factory"
     }
   ]
 }
