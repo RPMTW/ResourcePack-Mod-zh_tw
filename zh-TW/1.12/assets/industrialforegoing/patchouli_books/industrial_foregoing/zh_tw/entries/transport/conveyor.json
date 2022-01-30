@@ -1,7 +1,7 @@
 {
   "name": "輸送帶",
   "icon": "industrialforegoing:conveyor",
-  "category": "運輸",
+  "category": "transport",
   "sortnum": 0,
   "read_by_default": true,
   "pages": [
@@ -11,16 +11,16 @@
     },
     {
       "type": "crafting",
-      "recipe": "輸送帶"
+      "recipe": "industrialforegoing:conveyor"
     },
     {
       "type": "spotlight",
-      "item": "螢石粉",
+      "item": "minecraft:glowstone_dust",
       "text": "使用螢石粉可以讓輸送帶非常快速地移動物品和實體。"
     },
     {
       "type": "spotlight",
-      "item": "塑膠片",
+      "item": "industrialforegoing:plastic",
       "text": "使用塑膠片以防止物品在輸送帶上時被玩家吸取。"
     }
   ]
