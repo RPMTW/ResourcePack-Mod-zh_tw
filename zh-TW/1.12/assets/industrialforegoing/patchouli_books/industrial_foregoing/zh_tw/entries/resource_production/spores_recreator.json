@@ -1,6 +1,6 @@
 {
   "name": "蘑菇孢子繁殖器",
-  "icon": "工業先鋒：蘑菇孢子繁殖器",
+  "icon": "industrialforegoing:spores_recreator",
   "category": "resource_production",
   "sortnum": 8,
   "read_by_default": true,
@@ -11,7 +11,7 @@
     },
     {
       "type": "crafting",
-      "recipe": "工業先鋒：蘑菇孢子繁殖器"
+      "recipe": "industrialforegoing:spores_recreator"
     }
   ]
 }
