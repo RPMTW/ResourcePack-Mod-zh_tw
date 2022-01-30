@@ -7,12 +7,12 @@
   "pages": [
     {
       "type": "crafting",
-      "recipe": "工業先鋒：乾橡膠",
+      "recipe": "industrialforegoing:dryrubber",
       "text": "一種基礎合成材料，由$(l:basics/latex)乳膠$()製成。"
     },
     {
       "type": "smelting",
-      "recipe": "工業先鋒：塑膠片"
+      "recipe": "industrialforegoing:plastic"
     }
   ]
 }
