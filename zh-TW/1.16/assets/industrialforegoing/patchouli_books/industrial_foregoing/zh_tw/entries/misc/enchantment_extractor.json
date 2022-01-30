@@ -1,6 +1,6 @@
 {
   "name": "附魔提取機",
-  "icon": "工業先鋒：附魔提取機",
+  "icon": "industrialforegoing:enchantment_extractor",
   "category": "misc",
   "sortnum": 4,
   "read_by_default": true,
@@ -11,7 +11,7 @@
     },
     {
       "type": "crafting",
-      "recipe": "工業先鋒：附魔提取機"
+      "recipe": "industrialforegoing:enchantment_extractor"
     }
   ]
 }
