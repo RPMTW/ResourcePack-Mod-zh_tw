@@ -5,7 +5,7 @@
   "icon": "indrev:rancher_mk1",
   "pages": [
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "indrev:shaped/rancher_mk1",
       "text": "$(l)放牧機$()用於自動牧場，且可使用升級組件強化。$(br)但需要指定的物品才能運作:(設置時將其放於2X2的空間中)"
     },
