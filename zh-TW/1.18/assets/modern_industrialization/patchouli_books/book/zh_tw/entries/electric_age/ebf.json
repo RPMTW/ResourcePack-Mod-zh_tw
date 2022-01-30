@@ -4,7 +4,7 @@
   "icon": "modern_industrialization:electric_blast_furnace",
   "pages": [
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "modern_industrialization:electric_age/machine/electric_blast_furnace_asbl",
       "text": "電力高爐是蒸汽高爐的電動版本。它可以解鎖新配方，並且與其他多方塊電動機器一樣，預設情況下其超頻限制為 128 EU/t。"
     },
