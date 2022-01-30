@@ -6,7 +6,7 @@
   "read_by_default": true,
   "pages": [
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "roots:wood_knife",
       "text": "Knives are an essential, multi-use tool that also act as a weapon.$(br2)$(info) They can be made of a variety of materials, and the material determines durability and the amount of damage dealt."
     },
