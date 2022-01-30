@@ -1,6 +1,6 @@
 {
   "name": "礦物雷射鑽基座",
-  "icon": "工業先鋒：礦物雷射鑽基座",
+  "icon": "industrialforegoing:ore_laser_base",
   "category": "resource_production",
   "sortnum": 14,
   "read_by_default": true,
@@ -11,7 +11,7 @@
     },
     {
       "type": "crafting",
-      "recipe": "工業先鋒：礦物雷射鑽基座"
+      "recipe": "industrialforegoing:ore_laser_base"
     }
   ]
 }
