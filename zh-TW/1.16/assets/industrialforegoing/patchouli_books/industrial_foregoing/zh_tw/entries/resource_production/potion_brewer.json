@@ -1,6 +1,6 @@
 {
   "name": "自動煉藥機",
-  "icon": "工業先鋒：自動煉藥機",
+  "icon": "industrialforegoing:potion_brewer",
   "category": "resource_production",
   "sortnum": 9,
   "read_by_default": true,
@@ -11,7 +11,7 @@
     },
     {
       "type": "crafting",
-      "recipe": "工業先鋒：自動煉藥機"
+      "recipe": "industrialforegoing:potion_brewer"
     }
   ]
 }
