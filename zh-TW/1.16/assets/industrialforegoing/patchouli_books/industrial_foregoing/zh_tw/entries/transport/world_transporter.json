@@ -1,7 +1,7 @@
 {
   "name": "世界運輸器",
-  "icon": "工業先鋒：世界輸送類型",
-  "category": "運輸",
+  "icon": "industrialforegoing:world_transporter_type",
+  "category": "transport",
   "sortnum": 0,
   "read_by_default": true,
   "pages": [
@@ -19,7 +19,7 @@
     },
     {
       "type": "crafting",
-      "recipe": "工業先鋒：世界輸送類型"
+      "recipe": "industrialforegoing:world_transporter_type"
     }
   ]
 }
