@@ -1,6 +1,6 @@
 {
   "name": "流體篩分機",
-  "icon": "工業先鋒：流體篩分機",
+  "icon": "industrialforegoing:fluid_sieving_machine",
   "category": "resource_production",
   "sortnum": 21,
   "read_by_default": true,
@@ -11,7 +11,7 @@
     },
     {
       "type": "crafting",
-      "recipe": "工業先鋒：流體篩分機"
+      "recipe": "industrialforegoing:fluid_sieving_machine"
     }
   ]
 }
