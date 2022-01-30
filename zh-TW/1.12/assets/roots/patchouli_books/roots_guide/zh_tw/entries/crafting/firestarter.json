@@ -6,7 +6,7 @@
   "read_by_default": true,
   "pages": [
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "roots:firestarter",
       "text": "The fire starter is a simple device made of sticks.$(br2)While it only has a single use and requires you to channel for a few seconds before the fire begins, it is a convenient alternative to flint & steel."
     },
