@@ -1,6 +1,6 @@
 {
   "name": "生物燃油發電機",
-  "icon": "工業先鋒：生物燃油發電機",
+  "icon": "industrialforegoing:biofuel_generator",
   "category": "發電機",
   "sortnum": 3,
   "read_by_default": true,
@@ -11,7 +11,7 @@
     },
     {
       "type": "crafting",
-      "recipe": "工業先鋒：生物燃油發電機"
+      "recipe": "industrialforegoing:biofuel_generator"
     }
   ]
 }
