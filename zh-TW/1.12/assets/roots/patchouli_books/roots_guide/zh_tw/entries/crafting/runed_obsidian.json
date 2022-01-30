@@ -5,7 +5,7 @@
   "read_by_default": true,
   "pages": [
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "roots:runed_obsidian_chiseled",
       "text": "There are a number of decorative variants of $(l:resources/runed_obsidian)runed obsidian$(). $(br2)While $(l:rituals/standing_stones)standing stones$() require a cap of chiseled runestone, any one of the brick variants suffices for the base."
     },
