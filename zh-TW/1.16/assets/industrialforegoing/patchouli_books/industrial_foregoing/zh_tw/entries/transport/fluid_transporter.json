@@ -1,7 +1,7 @@
 {
   "name": "流體運輸器",
-  "icon": "工業先鋒：流體輸送類型",
-  "category": "運輸",
+  "icon": "industrialforegoing:fluid_transporter_type",
+  "category": "transport",
   "sortnum": 0,
   "read_by_default": true,
   "pages": [
@@ -19,7 +19,7 @@
     },
     {
       "type": "crafting",
-      "recipe": "工業先鋒：物品輸送類型"
+      "recipe": "industrialforegoing:item_transporter_type"
     }
   ]
 }
