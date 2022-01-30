@@ -151,7 +151,7 @@
     "config.betteranimalsplus.spawn_weight": "生成權重",
     "config.betteranimalsplus.minimum_group_size": "搬遷規模下限",
     "config.betteranimalsplus.maximum_group_size": "搬遷規模上限",
-    "config.betteranimalsplus.spawn_biomes": "Spawn Biomes",
+    "config.betteranimalsplus.spawn_biomes": "生成生態域",
     "config.betteranimalsplus.use_spawn_costs": "Use Spawn Costs",
     "config.betteranimalsplus.cost_per_spawn": "Cost Per Spawn",
     "config.betteranimalsplus.maximum_cost_per_biome": "Maximum Cost Per Biome",
@@ -169,5 +169,5 @@
     "config.betteranimalsplus.target_chance": "Target Chance",
     "config.betteranimalsplus.pickup_blacklist": "Pickup Blacklist",
     "config.betteranimalsplus.create_snow": "Create Snow",
-    "config.betteranimalsplus.taming_items": "Taming Items"
+    "config.betteranimalsplus.taming_items": "馴服物品"
 }
