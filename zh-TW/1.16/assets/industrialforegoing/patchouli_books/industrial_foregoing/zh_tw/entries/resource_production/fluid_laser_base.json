@@ -1,6 +1,6 @@
 {
   "name": "流體雷射鑽基座",
-  "icon": "工業先鋒：流體雷射鑽基座",
+  "icon": "industrialforegoing:fluid_laser_base",
   "category": "resource_production",
   "sortnum": 15,
   "read_by_default": true,
@@ -11,7 +11,7 @@
     },
     {
       "type": "crafting",
-      "recipe": "工業先鋒：流體雷射鑽基座"
+      "recipe": "industrialforegoing:fluid_laser_base"
     }
   ]
 }
