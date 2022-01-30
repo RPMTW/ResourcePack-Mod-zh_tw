@@ -1,6 +1,6 @@
 {
   "name": "生物探測器",
-  "icon": "工業先鋒：生物探測器",
+  "icon": "industrialforegoing:mob_detector",
   "category": "misc",
   "sortnum": 6,
   "read_by_default": true,
@@ -11,7 +11,7 @@
     },
     {
       "type": "crafting",
-      "recipe": "工業先鋒：生物探測器"
+      "recipe": "industrialforegoing:mob_detector"
     }
   ]
 }
