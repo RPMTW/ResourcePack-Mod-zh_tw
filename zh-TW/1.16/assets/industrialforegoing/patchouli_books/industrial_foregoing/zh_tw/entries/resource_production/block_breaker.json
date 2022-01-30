@@ -1,6 +1,6 @@
 {
   "name": "方塊破壞器",
-  "icon": "工業先鋒：方塊破壞器",
+  "icon": "industrialforegoing:block_breaker",
   "category": "resource_production",
   "sortnum": 2,
   "read_by_default": true,
@@ -11,7 +11,7 @@
     },
     {
       "type": "crafting",
-      "recipe": "工業先鋒：方塊破壞器"
+      "recipe": "industrialforegoing:block_breaker"
     }
   ]
 }
