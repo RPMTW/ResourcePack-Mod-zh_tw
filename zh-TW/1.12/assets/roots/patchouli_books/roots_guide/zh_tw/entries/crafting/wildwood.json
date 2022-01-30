@@ -5,7 +5,7 @@
   "read_by_default": true,
   "pages": [
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "roots:wildwood_planks",
       "text": "There are a number of decorative variants and uses for $(l:resources/wildwood)wildwood$() & $(l:resources/bark#dark_oak)wildwood bark$()."
     },
