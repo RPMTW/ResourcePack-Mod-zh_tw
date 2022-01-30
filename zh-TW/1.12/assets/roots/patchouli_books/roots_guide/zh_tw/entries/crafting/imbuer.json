@@ -5,7 +5,7 @@
   "read_by_default": true,
   "pages": [
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "roots:imbuer",
       "text": "$(info) Please see the $(l:spells/introduction#imbuing)spells introduction section on imbuing$() for information on spells.$(br2)Specific use instructions along with all other uses of the imbuer will be outlined and discussed in the following pages.$(br2)"
     },
