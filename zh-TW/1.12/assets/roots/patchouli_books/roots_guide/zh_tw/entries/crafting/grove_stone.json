@@ -4,7 +4,7 @@
   "category": "crafting",
   "pages": [
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "roots:grove_stone",
       "text": "$(l:concepts/groves)First conceptualised$() after the gateways to the Fey world were closed, the purpose of the Grove Stone has become entwined with that of the ill-named $(l:crafting/fey_crafter)fey crafter$().$(br2)The stone on its own does nothing, but when empowered"
     },
