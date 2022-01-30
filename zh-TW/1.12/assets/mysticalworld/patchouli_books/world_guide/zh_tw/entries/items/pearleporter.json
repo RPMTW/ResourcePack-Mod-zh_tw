@@ -4,7 +4,7 @@
   "category": "items",
   "pages": [
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "mysticalworld:pearleporter",
       "text": "珍珠提取器簡單明瞭，能讓你在不傷害$(l:creatures/clam)蛤蜊$()的前提下抽出它們裡面的$(l:items/pearls)珍珠$()！$(br2)不過，製作提取器需要先獲得一個珍珠。"
     }
