@@ -1,6 +1,6 @@
 {
   "name": "附魔物品分揀機",
-  "icon": "工業先鋒：附魔物品分揀機",
+  "icon": "industrialforegoing:enchantment_sorter",
   "category": "misc",
   "sortnum": 1,
   "read_by_default": true,
@@ -11,7 +11,7 @@
     },
     {
       "type": "crafting",
-      "recipe": "工業先鋒：附魔物品分揀機"
+      "recipe": "industrialforegoing:enchantment_sorter"
     }
   ]
 }
