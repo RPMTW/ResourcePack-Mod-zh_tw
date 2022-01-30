@@ -6,7 +6,7 @@
 	"sortnum": 10304,
 	"pages": [
 		{
-			"type": "合成",
+			"type": "crafting",
 			"recipe": "soulus:doodads/soul_inquirer",
 			"title": "The Soul Inquirer",
 			"text": "The Soul Inquirer is a machine meant for detecting the presence of summoned creatures. How does it work, you ask? Simply give it a $(l:summoning/soulbook)Soulbook$(), and it will give a redstone output to comparators based on whether it detects a creature of that type."
