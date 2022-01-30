@@ -6,7 +6,7 @@
   "read_by_default": true,
   "pages": [
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "roots:gramary",
       "text": "Much more than just bark and herbs held bound by string, this is a repository of magic used in imbuing when adding new spells to your library.$(br2)$(warning) You will need at least one of these to progress through Roots."
     },
