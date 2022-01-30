@@ -5,7 +5,7 @@
   "icon": "indrev:pump_mk1",
   "pages": [
     {
-      "type": "合成",
+      "type": "crafting",
       "recipe": "indrev:shaped/pump_mk1",
       "text": "$(l)泵$()用於抽取液體並傳輸至管線或儲罐"
     },
