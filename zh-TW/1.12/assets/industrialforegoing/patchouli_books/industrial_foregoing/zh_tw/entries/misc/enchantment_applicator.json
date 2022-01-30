@@ -1,6 +1,6 @@
 {
   "name": "自動型鐵砧",
-  "icon": "工業先鋒：自動型鐵砧",
+  "icon": "industrialforegoing:enchantment_applicator",
   "category": "雜項",
   "sortnum": 3,
   "read_by_default": true,
@@ -11,7 +11,7 @@
     },
     {
       "type": "crafting",
-      "recipe": "工業先鋒：自動型鐵砧"
+      "recipe": "industrialforegoing:enchantment_applicator"
     }
   ]
 }
