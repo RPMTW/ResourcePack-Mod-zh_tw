@@ -1,13 +1,13 @@
 {
   "name": "自動附魔台",
   "icon": "industrialforegoing:enchantment_factory",
-  "category": "雜項",
+  "category": "misc",
   "sortnum": 0,
   "read_by_default": true,
   "pages": [
     {
       "type": "text",
-      "text": "當為這台機器提供大量的$(l:agr_hus/essence)精華液時$()，會將放入的物品進行一次$(6)30$()級的附魔。"
+      "text": "提供這台機器大量的$(l:agr_hus/essence)精華液$()，為放入的物品進行一次$(6)30$()級的附魔。"
     },
     {
       "type": "crafting",
