@@ -121,7 +121,7 @@
     "gui.computercraft.tooltip.computer_id": "電腦ID：%s",
     "gui.computercraft.tooltip.disk_id": "磁碟ID：%s",
     "gui.computercraft:config.computer_space_limit": "電腦空間限制（位元組）",
-    "gui.computercraft:config.floppy_space_limit": "磁片空間限制（字節）",
+    "gui.computercraft:config.floppy_space_limit": "軟盤空間限制（位元組）",
     "gui.computercraft:config.maximum_open_files": "每台電腦打開的最大文件數",
     "gui.computercraft:config.disable_lua51_features": "停用Lua 5.1功能",
     "gui.computercraft:config.default_computer_settings": "預設電腦設定",
