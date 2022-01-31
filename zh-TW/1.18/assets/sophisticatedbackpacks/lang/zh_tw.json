@@ -310,13 +310,13 @@
     "fluid.sophisticatedbackpacks.xp_still": "經驗等級",
     "gui.sophisticatedbackpacks.settings.item_display": "物品展示",
     "gui.sophisticatedbackpacks.settings.item_display.tooltip": "物品展示設定",
-    "gui.sophisticatedbackpacks.settings.item_display.tooltip_detail": "Allows selecting a slot that will be used to show its item on top of backpack model",
-    "gui.sophisticatedbackpacks.settings.item_display.tooltip_open_detail": "Allows selecting a slot that will be used to show its item on top of backpack model\nSelect slot = left click/drag\nUnselect slot = right click/drag",
-    "gui.sophisticatedbackpacks.upgrades.buttons.void_overflow": "Void Overflow",
-    "gui.sophisticatedbackpacks.upgrades.buttons.void_overflow.detail": "Allows single slot to be filled with the item\nand voids anything that overflows",
-    "gui.sophisticatedbackpacks.upgrades.buttons.void_any": "Void Any",
-    "gui.sophisticatedbackpacks.upgrades.buttons.mend_items": "Repair Items With Mending",
-    "gui.sophisticatedbackpacks.upgrades.buttons.do_not_mend_items": "Do Not Repair Items",
+    "gui.sophisticatedbackpacks.settings.item_display.tooltip_detail": "允許選擇一個空格，該空格將用於在背包模型的頂部顯示其專案",
+    "gui.sophisticatedbackpacks.settings.item_display.tooltip_open_detail": "允許選擇一個空格，該空格將用於在背包型號頂部顯示其專案\n選擇空格 = 按左鍵/拖動\n取消選擇空格 = 按右鍵/拖動",
+    "gui.sophisticatedbackpacks.upgrades.buttons.void_overflow": "清除溢出",
+    "gui.sophisticatedbackpacks.upgrades.buttons.void_overflow.detail": "允許單個空格填充物品\n並清除溢出的任何內容",
+    "gui.sophisticatedbackpacks.upgrades.buttons.void_any": "清除所有",
+    "gui.sophisticatedbackpacks.upgrades.buttons.mend_items": "以經驗修補修復物品",
+    "gui.sophisticatedbackpacks.upgrades.buttons.do_not_mend_items": "沒有修理物品",
     "gui.sophisticatedbackpacks.settings.buttons.rotate": "旋轉",
-    "gui.sophisticatedbackpacks.settings.buttons.rotate_detail": "Clockwise = Left Click\nCounter-Clockwise = Right Click"
+    "gui.sophisticatedbackpacks.settings.buttons.rotate_detail": "順時針 = 按左鍵\n逆時針 = 按右鍵"
 }
