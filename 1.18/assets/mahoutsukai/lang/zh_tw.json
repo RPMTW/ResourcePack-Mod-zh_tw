@@ -1313,5 +1313,9 @@
     "mahoutsukai.config.selective_displacement_mana_cost.name": "Selective Displacement Mana Cost",
     "mahoutsukai.config.selective_displacement_range.name": "Selective Displacement Range",
     "mahoutsukai.config.selective_displacement_time.name": "Selective Displacement Time",
-    "mahoutsukai.config.show_selected_entity.name": "Show Selected Entity"
+    "mahoutsukai.config.show_selected_entity.name": "Show Selected Entity",
+    "mahoutsukai.config.one_life.name": "Mahou Resets on Death",
+    "mahoutsukai.projector_overlay.armor_add": " + Right Click : Add a new projection to this armor.",
+    "mahoutsukai.projector_overlay.armor_remove": " + Right Click : Remove latest projection on this armor",
+    "mahoutsukai.projector_overlay.armor_replace": "Right Click : Replace the latest projection on this armor."
 }

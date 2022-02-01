@@ -1392,5 +1392,7 @@
     "bf.settings.category.experimental": "Experimental",
     "item.bf.equipment_item_landmine": "Landmine",
     "item.bf.gun_panzerbuchse39": "Panzerbuchse 39",
-    "item.bf.gun_springfield_scoped": "Springfield (Scoped)"
+    "item.bf.gun_springfield_scoped": "Springfield (Scoped)",
+    "bf.settings.experimental.toggle.aim": "Toggle Aim",
+    "bf.settings.experimental.toggle.aim.desc": "Determines whether aim should toggle by single or held right-clicking."
 }
