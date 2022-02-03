@@ -103,7 +103,7 @@
     "tile.mercury.ore_mercury.name": "水星汞礦",
     "tile.mercury.stone_bricks.name": "水星石磚",
     "tile.mercury.mercury_block.name": "汞塊",
-    "tile.mercury.ore_carbon.name": "碳礦",
+    "tile.mercury.ore_carbon.name": "Mercury Carbon Ore",
     "tile.mercury.carbon_block.name": "碳塊",
     "tile.mercury.dungeon_brick.name": "水星地牢磚",
     "tile.ceres.surface.name": "谷神星地表岩石",
@@ -490,7 +490,7 @@
     "gui.message.finding.block": "可以在",
     "gui.message.finding.volcanic.rock": "木星和木衛一找到",
     "gui.message.finding.potash": "汞，地底深處",
-    "gui.message.decontamination.unit": "減少了 10% 的輻射等級",
+    "gui.message.decontamination.unit": "Reduces Radiation Level by {PERCENT}",
     "gui.battery_slot.desc.custom": "建議使用究極電池",
     "gui.radiation.cancel.message": "你可以使用帶有環境溫度控制器升級的氧氣供給機來充分保護你不受輻射和壓強的影響",
     "currently.unused.name": "目前未被使用！",
@@ -1416,5 +1416,9 @@
     "item.t7key.name": "七階寶箱鑰匙",
     "item.t8key.name": "八階寶箱鑰匙",
     "item.t9key.name": "九階寶箱鑰匙",
-    "item.t10key.name": "十階寶箱鑰匙"
+    "item.t10key.name": "十階寶箱鑰匙",
+    "gui.module.basic_solar_panel.name": "Basic Portable Solar Panel",
+    "gui.module.advanced_solar_panel.name": "Advanced Portable Solar Panel",
+    "gui.module.basic_solar_panel.desc": "Very slowly recharger's your space suit during the day time",
+    "gui.module.advanced_solar_panel.desc": "Slowly recharger's your space suit during the day time"
 }
