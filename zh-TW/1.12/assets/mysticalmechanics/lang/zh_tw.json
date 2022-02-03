@@ -13,7 +13,7 @@
     "subtitles.gear.add": "齒輪連接",
     "subtitles.gear.remove": "齒輪斷開",
     "mysticalmechanics.unit.default": "%s R",
-    "mysticalmechanics.lubricant.test_lubricant": "Test Lubricant",
+    "mysticalmechanics.lubricant.test_lubricant": "測試潤滑油",
     "mysticalmechanics.tooltip.creative_source.set": "設定為輸出： %s R",
     "mysticalmechanics.tooltip.bwm_converter.off": "轉為Better With Mods能量",
     "mysticalmechanics.tooltip.bwm_converter.on": "轉為奇械學能量",
@@ -21,5 +21,5 @@
     "mysticalmechanics.probe.power": "⚙ %s",
     "mysticalmechanics.probe.input_power": "§9⬊§r %s",
     "mysticalmechanics.probe.output_power": "§6⬉§r %s",
-    "mysticalmechanics.probe.lubricant": "Can lubricate"
+    "mysticalmechanics.probe.lubricant": "可潤滑"
 }
