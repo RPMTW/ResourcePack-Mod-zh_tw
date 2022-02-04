@@ -6,13 +6,13 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "The Synchronized effect will apply any effect you have to nearby entities."
+      "text": "同步效果將對你周圍的怪物附加你身上的藥水效果。"
     },
     {
       "type": "patchouli:spotlight",
       "title": "同步",
       "item": "minecraft:ghast_tear",
-      "text": "Synchronized effects are cut in half.$(br2)This effect is not compatible with $(l:bewitchment:brewing/theft)Theft$().$(br2)The higher this effect's intensity, the further it'll reach."
+      "text": "被同步的效果時間將砍半。$(br2)此效果不與$(l:bewitchment:brewing/theft)偷竊$()效果相容。$(br2)等級越高，效果所能涵蓋的範圍越廣。"
     }
   ]
 }
