@@ -103,7 +103,7 @@
       "type": "spotlight",
       "title": "回復",
       "item": "bewitchment:juniper_bark",
-      "text": "By utilizing the life energies from $(l:bewitchment:introduction/juniper_trees)Juniper$(), Regeneration quickens the healing process when applied.",
+      "text": "活用了$(l:bewitchment:introduction/juniper_trees)刺柏$()所蘊含的生氣，回復生命值。",
       "anchor": "regeneration"
     },
     {
@@ -129,7 +129,7 @@
       "type": "spotlight",
       "title": "速度",
       "item": "minecraft:sugar_cane",
-      "text": "Increases movement speed, using the energizing qualities of Sugar Cane."
+      "text": "藉由甘蔗裡那令人興奮的糖分，增加移動速度。"
     },
     {
       "type": "spotlight",
