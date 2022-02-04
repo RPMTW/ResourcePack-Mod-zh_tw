@@ -6,13 +6,13 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "By applying the cleansing powers of Birch, the Purity effect can weaken the effects of harmful statuses.$(br2)For each intensity, this effect will reduce the power of a negative effect, also reducing its own power."
+      "text": "藉著樺木的潔淨效用，純潔效果可以弱化負面效果。$(br2)每個等級的純潔效果都將與每個等級的負面效果互相抵銷等級。"
     },
     {
       "type": "patchouli:spotlight",
-      "title": "純度",
+      "title": "純潔",
       "item": "bewitchment:birch_bark",
-      "text": "In concrete terms, this means that you can remove more negative effects the stronger the effect is."
+      "text": "講實際點，這代表了在等級更高的純潔效果中，能消除更多的負面效果。"
     }
   ]
 }
