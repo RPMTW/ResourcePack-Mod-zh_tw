@@ -54,7 +54,7 @@
     "config.canvas.help.vanilla_chunk_matrix": "尚未完成",
     "config.canvas.value.adjust_vanilla_geometry": "防止深度戰鬥",
     "config.canvas.help.adjust_vanilla_geometry": "調整了一些原版模型的四邊形（如鐵條），以避免與相鄰方塊發生Z字形衝突。",
-    "config.canvas.value.clamp_exterior_vertices": "Clamp Exterior Vertices",
+    "config.canvas.value.clamp_exterior_vertices": "夾鉗外部頂點",
     "config.canvas.help.clamp_exterior_vertices": "Treats model geometry outside of;block boundaries as on;the block for lighting purposes.;Helps prevent bad lighting outcomes.",
     "config.canvas.value.pad_translucent_formats": "Pad Translucent Formats",
     "config.canvas.help.pad_translucent_formats": "Pad vertex data in chunks with multiple;formats. Significantly increases frame rate;at cost of some wasted memory.",
