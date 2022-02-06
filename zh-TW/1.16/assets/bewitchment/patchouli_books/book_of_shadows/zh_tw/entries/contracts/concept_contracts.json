@@ -1,13 +1,13 @@
 {
   "category": "bewitchment:contracts",
-  "name": "Concept: Contracts",
+  "name": "淺談契約",
   "icon": "bewitchment:demonic_contract",
   "advancement": "bewitchment:hidden_unlocks/demon_horn",
   "priority": true,
   "pages": [
     {
       "type": "text",
-      "text": "Contracts are otherworldly pacts purchased from $(l:bewitchment:creatures/demon)Demons$() at the cost of health.$(br2)Contracts usually last seven days, and cannot be broken."
+      "text": "契約是從與$(l:bewitchment:creatures/demon)惡魔$()的交易中獲得，其代價是部分的生命。$(br2)契約通常可以持續七天，並且不得毀約。"
     }
   ]
 }
