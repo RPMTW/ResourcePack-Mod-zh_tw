@@ -1,13 +1,13 @@
 {
   "category": "bewitchment:contracts",
-  "name": "War",
+  "name": "征戰契約",
   "icon": "bewitchment:demonic_contract",
   "advancement": "bewitchment:hidden_unlocks/demon_horn",
   "sortnum": 2,
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "Beings under the War $(l:bewitchment:contracts/concept_contracts)Contract$() cause aggression among nearby entities, causing them to attack each other first."
+      "text": "在征戰$(l:bewitchment:contracts/concept_contracts)契約$()的效力下，激起了附近生物開始攻擊離它們最近的生物，使它們自相殘殺。"
     }
   ]
 }
