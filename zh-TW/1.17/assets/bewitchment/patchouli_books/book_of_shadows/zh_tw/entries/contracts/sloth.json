@@ -1,13 +1,13 @@
 {
   "category": "bewitchment:contracts",
-  "name": "Sloth",
+  "name": "怠惰契約",
   "icon": "bewitchment:demonic_contract",
   "advancement": "bewitchment:hidden_unlocks/demon_horn",
   "sortnum": 1,
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "Sloth lets you regenerate much faster when standing still."
+      "text": "怠惰契約使你在不動的時候，能飛快地恢復生命。"
     }
   ]
 }
