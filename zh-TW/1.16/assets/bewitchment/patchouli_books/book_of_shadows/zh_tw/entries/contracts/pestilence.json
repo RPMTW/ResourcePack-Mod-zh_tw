@@ -1,13 +1,13 @@
 {
   "category": "bewitchment:contracts",
-  "name": "Pestilence",
+  "name": "瘟疫契約",
   "icon": "bewitchment:demonic_contract",
   "advancement": "bewitchment:hidden_unlocks/demon_horn",
   "sortnum": 2,
   "pages": [
     {
       "type": "text",
-      "text": "Those marked by Pestilence are able to effectively inflict heavy illness upon their foes."
+      "text": "那些簽署了瘟疫契約的人們，在攻擊敵人時能順帶給它們些嚴重的疾病。"
     }
   ]
 }
