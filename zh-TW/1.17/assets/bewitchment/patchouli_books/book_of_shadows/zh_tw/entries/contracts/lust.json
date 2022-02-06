@@ -1,13 +1,13 @@
 {
   "category": "bewitchment:contracts",
-  "name": "Lust",
+  "name": "色慾契約",
   "icon": "bewitchment:demonic_contract",
   "advancement": "bewitchment:hidden_unlocks/demon_horn",
   "sortnum": 1,
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "Lust brings love in the air~$(br2)This causes animals bred under whoever has this $(l:bewitchment:contracts/concept_contracts)Contract$() to breed thrice the usual amount."
+      "text": "色慾將情愛遍佈的無處不在。$(br2)這導致了當動物們被簽署色慾$(l:bewitchment:contracts/concept_contracts)契約$()的玩家餵養繁殖時，會生產出正常狀況下數量三倍的幼雛。\n"
     }
   ]
 }
