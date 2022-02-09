@@ -72,7 +72,7 @@
     "item.storagenetwork.picker_remote.tooltip": "Tapping on a block will pull matching blocks from the network",
     "item.storagenetwork.picker_remote.guide": "This remote binds as normal but does not have a screen.  Instead, tap this item in the world on a block.  This will request either 1 or a full stack of that block, depending on if you are crouching.  ",
     "item.storagenetwork.collector_remote": "Network Collector Remote",
-    "item.storagenetwork.collector_remote.tooltip": "Items picked up  are moved into the network",
+    "item.storagenetwork.collector_remote.tooltip": "Items picked up are moved into the network",
     "item.storagenetwork.collector_remote.guide": "Bind this to the network as normal.  This remote works anywhere in your inventory (including curios but not ender chest), no need to hold it in hand or hotbar.  When you pickup any item, this will insert that item into the network if possible.",
     "block.storagenetwork.recipe.invalid": "Transaction invalid:",
     "block.storagenetwork.recipe.invalidleft": "Set Input on left",
