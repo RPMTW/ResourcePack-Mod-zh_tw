@@ -744,7 +744,7 @@
     "theoneprobe.ae2.showing": "顯示",
     "theoneprobe.ae2.stored_energy": "%1$d / %2$d",
     "theoneprobe.ae2.unlocked": "未鎖定",
-    "waila.ae2.Channels": "%1$d / %2$d 頻道",
+    "waila.ae2.Channels": "%1$d of %2$d Channels",
     "waila.ae2.Charged": "%d%% 充能",
     "waila.ae2.Contains": "容納",
     "waila.ae2.Crafting": "合成中",
@@ -759,5 +759,15 @@
     "waila.ae2.P2PUnlinked": "未連接",
     "waila.ae2.Showing": "顯示",
     "waila.ae2.Stored": "已儲存： %s / %s",
-    "waila.ae2.Unlocked": "未鎖定"
+    "waila.ae2.Unlocked": "未鎖定",
+    "gui.ae2.Interface": "ME Interface",
+    "gui.ae2.PartialPlan": "Partial Plan (Missing Ingredients)",
+    "gui.tooltips.ae2.RequestableAmount": "Requestable: %s",
+    "gui.tooltips.ae2.StoredAmount": "Stored: %s",
+    "theoneprobe.ae2.channels_of": "%1$d of %2$d Channels",
+    "theoneprobe.ae2.nested_p2p_tunnel": "Error: Nested P2P Tunnel",
+    "waila.ae2.ChannelsOf": "%1$d of %2$d Channels",
+    "waila.ae2.ErrorControllerConflict": "Error: Controller Conflict",
+    "waila.ae2.ErrorNestedP2PTunnel": "Error: Nested P2P Tunnel",
+    "waila.ae2.ErrorTooManyChannels": "Error: Too Many Channels"
 }
