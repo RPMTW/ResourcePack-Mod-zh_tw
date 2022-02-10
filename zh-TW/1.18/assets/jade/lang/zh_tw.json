@@ -51,7 +51,7 @@
     "config.waila.overlay_anchor_x": "水平固定",
     "config.waila.overlay_anchor_y": "垂直固定",
     "config.waila.overlay_square": "Square Border",
-    "config.waila.flip_main_hand": "Flip Main Hand",
+    "config.waila.flip_main_hand": "Flip with Main Hand",
     "config.waila.flip_main_hand_desc": "Flip tooltip's location if main hand is left",
     "config.waila.overlay_color": "顏色",
     "config.waila.overlay_alpha": "Alpha 值",
@@ -140,5 +140,7 @@
     "config.waila.plugin_minecraft.redstone": "能量等級",
     "config.waila.plugin_minecraft.jukebox": "活動記錄",
     "config.waila.plugin_minecraft.villager_profession": "村民職業",
-    "jade.spawner": "%s (%s)"
+    "jade.spawner": "%s (%s)",
+    "config.waila.plugin_minecraft.animal_owner": "Animal Owner",
+    "jade.owner": "Owner: %s"
 }
