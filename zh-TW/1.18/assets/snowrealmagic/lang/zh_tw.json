@@ -1,0 +1,13 @@
+{
+    "itemGroup.snowrealmagic": "雪！真正的魔法！",
+    "entity.snowrealmagic.snow": "下落中的方塊",
+    "block.snowrealmagic.slab": "雪覆蓋的半磚",
+    "block.snowrealmagic.stairs": "雪覆蓋的階梯",
+    "block.snowrealmagic.wall": "雪覆蓋的牆",
+    "block.snowrealmagic.fence": "雪覆蓋的柵欄",
+    "block.snowrealmagic.fence_gate": "雪覆蓋的柵欄門",
+    "gamerule.blizzardStrength": "暴雪強度",
+    "gamerule.blizzardStrength.description": "Snow blocks will fall from sky. 1~8 to set the max layers. Added by Snow! Real Magic!",
+    "gamerule.blizzardFrequency": "Blizzard frequency",
+    "gamerule.blizzardFrequency.description": "The possibility to do blizzard. N/10000 per tick per chunk. Added by Snow! Real Magic!"
+}
