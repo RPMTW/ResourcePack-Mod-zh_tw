@@ -289,5 +289,19 @@
     "language.roughlyenoughitems.italian": "義大利語",
     "language.roughlyenoughitems.czech": "捷克語",
     "language.roughlyenoughitems.danish": "丹麥語",
-    "language.roughlyenoughitems.hebrew": "希伯來語"
+    "language.roughlyenoughitems.hebrew": "希伯來語",
+    "text.rei.config.menu.dark_theme": "深色主題",
+    "text.rei.config.menu.craftable_filter": "合成物品篩選器",
+    "text.rei.config.menu.display": "顯示設定...",
+    "text.rei.config.menu.display.remove_recipe_book": "移除原版配方手冊",
+    "text.rei.config.menu.display.left_side_mob_effects": "Left Side Mob Effects",
+    "text.rei.config.menu.display.left_side_panel": "Left Side Panel",
+    "text.rei.config.menu.display.scrolling_side_panel": "Scrolling Side Panel",
+    "text.rei.config.menu.display.side_search_field": "Side Search Field",
+    "text.rei.config.menu.display.syntax_highlighting": "Syntax Highlighting",
+    "text.rei.config.menu.config": "More Options...",
+    "config.roughlyenoughitems.leftSideMobEffects": "Mob Effects Position:",
+    "config.roughlyenoughitems.leftSideMobEffects.boolean.true": "Left",
+    "config.roughlyenoughitems.leftSideMobEffects.boolean.false": "Right (Vanilla)",
+    "text.auto_craft.move_items.tooltip": "Ctrl-Click to Move Items"
 }
