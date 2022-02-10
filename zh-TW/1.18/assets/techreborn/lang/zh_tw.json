@@ -1011,5 +1011,17 @@
     "gui.techreborn.tank.type": "流體類型:",
     "gui.techreborn.tank.amount": "流體量:",
     "gui.techreborn.storage.store": "儲存:",
-    "gui.techreborn.storage.amount": "數量:"
+    "gui.techreborn.storage.amount": "數量:",
+    "item.techreborn.amethyst_dust": "Amethyst Dust",
+    "item.techreborn.silver_helmet": "Silver Helmet",
+    "item.techreborn.silver_chestplate": "Silver Chestplate",
+    "item.techreborn.silver_leggings": "Silver Leggings",
+    "item.techreborn.silver_boots": "Silver Boots",
+    "item.techreborn.steel_helmet": "Steel Helmet",
+    "item.techreborn.steel_chestplate": "Steel Chestplate",
+    "item.techreborn.steel_leggings": "Steel Leggings",
+    "item.techreborn.steel_boots": "Steel Boots",
+    "techreborn.message.info.unplaceable_fluid": "Cannot be placed",
+    "techreborn.tooltip.unobtainable": "Unobtainable in Survival Mode",
+    "item.techreborn.sponge_piece": "Piece of Sponge"
 }
