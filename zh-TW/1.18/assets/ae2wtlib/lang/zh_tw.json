@@ -35,5 +35,8 @@
     "text.autoconfig.ae2wtlib.option.outOfRangePowerMultiplier.@Tooltip": "如果此值低於 1，則在無線存取點的範圍內會消耗更多功率。",
     "text.autoconfig.ae2wtlib.option.magnetCardRange.@Tooltip": "",
     "text.autoconfig.ae2wtlib.option.enableTrinket.@Tooltip[0]": "如果它與您連接到的伺服器不相同，這將破壞事物。",
-    "text.autoconfig.ae2wtlib.option.enableTrinket.@Tooltip[1]": "它只有在安裝了飾品時才有效。"
+    "text.autoconfig.ae2wtlib.option.enableTrinket.@Tooltip[1]": "它只有在安裝了飾品時才有效。",
+    "gui.ae2wtlib.slot.infinity_booster_card.desc": "Infinity Booster Card",
+    "gui.ae2wtlib.slot.magnetcard.desc": "Magnet Card",
+    "text.autoconfig.ae2wtlib.option.wutBatterySizeMultiplier": "Wireless Universal Terminal Battery Size Multiplier"
 }
