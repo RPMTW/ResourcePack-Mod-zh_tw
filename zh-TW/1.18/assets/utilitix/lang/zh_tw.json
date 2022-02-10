@@ -46,7 +46,7 @@
     "screen.utilitix.crude_furnace": "粗爐",
     "tooltip.utilitix.blacklisted_mob": "這種生物在黑名單裡",
     "tooltip.utilitix.current_mob": "目前生物",
-    "tooltip.utilitix.no_mob": "Shift右鍵 生物以綁定生物鐘",
+    "tooltip.utilitix.no_mob": "Shift-rightclick a mob to bind it",
     "tooltip.utilitix.invalid_link": "未連結",
     "tooltip.utilitix.valid_link": "連結到： %s",
     "tooltip.utilitix.signal_strength": "訊號強度：%s",
@@ -91,5 +91,8 @@
     "description.utilitix.crude_furnace": "如果煙熏爐和高爐不能熔煉到這種物品，則該熔爐可以冶鍊普通熔爐可以熔煉到的所有東西。它的速度是普通爐子配方的兩倍，但只能提供一半的經驗。",
     "jei.utilitix.gilding": "鍍金",
     "jade.utilitix.experience_crystal.level": "等級：",
-    "jade.utilitix.experience_crystal.xp": "經驗值： "
+    "jade.utilitix.experience_crystal.xp": "經驗值： ",
+    "block.utilitix.dimmable_redstone_lamp": "Dimmable Redstone Lamp",
+    "item.utilitix.mob_yoinker": "Mob Yoinker",
+    "utilitix.map_saved": "Saved map here: %s"
 }
