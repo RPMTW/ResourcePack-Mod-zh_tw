@@ -48,5 +48,9 @@
     "libx.config.gui.component.arguments": "Arguments",
     "libx.config.gui.component.type_text": "Text",
     "libx.config.gui.component.type_translate": "Translation",
-    "libx.config.gui.component.type_key": "Keybinding"
+    "libx.config.gui.component.type_key": "Keybinding",
+    "libx.command.reload.common": "Reloading all LibX common configs.",
+    "libx.command.reload.client": "Reloading all LibX client configs.",
+    "libx.config.gui.resource_list.type_allow_list": "Allow List",
+    "libx.config.gui.resource_list.type_deny_list": "Deny List"
 }
