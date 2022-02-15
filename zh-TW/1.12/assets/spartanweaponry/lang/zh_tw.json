@@ -617,5 +617,18 @@
     "config.spartanweaponry:sweep2Percentage": "橫掃攻擊 II：橫掃傷害百分比",
     "config.spartanweaponry:armorPiercePercentage": "盔甲貫穿：貫穿百分比",
     "config.spartanweaponry:disableFOVZoomIn": "停用FOV放大效果",
-    "config.spartanweaponry:disableSpartanHUDBaublesIntegration": "停用斯巴達HUD：飾品相容"
+    "config.spartanweaponry:disableSpartanHUDBaublesIntegration": "停用斯巴達HUD：飾品相容",
+    "entity.spartanweaponry:dagger_thrown.name": "Dagger",
+    "entity.spartanweaponry:throwing_knife.name": "Throwing Knife",
+    "entity.spartanweaponry:throwing_axe.name": "Throwing Axe",
+    "entity.spartanweaponry:javelin_thrown.name": "Javelin",
+    "entity.spartanweaponry:boomerang_thrown.name": "Boomerang",
+    "entity.spartanweaponry:bolt.name": "Bolt",
+    "entity.spartanweaponry:bolt_spectral.name": "Spectral Bolt",
+    "entity.spartanweaponry:bolt_diamond.name": "Diamond Bolt",
+    "entity.spartanweaponry:arrow_wood.name": "Wooden Arrow",
+    "entity.spartanweaponry:arrow_iron.name": "Iron Arrow",
+    "entity.spartanweaponry:arrow_diamond.name": "Diamond Arrow",
+    "entity.spartanweaponry:arrow_explosive.name": "Explosive Arrow",
+    "entity.spartanweaponry:dynamite.name": "Dynamite"
 }
