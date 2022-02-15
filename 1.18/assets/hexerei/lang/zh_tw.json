@@ -262,5 +262,21 @@
     "gui.jei.category.pestle_and_mortar.grind_time_2": "§lTime§r",
     "gui.jei.category.pestle_and_mortar.resultSeconds": "§l%ss§r",
     "gui.jei.category.mixing_cauldron.fluid": "Fluid",
-    "gui.jei.category.mixing_cauldron.output": "Output"
+    "gui.jei.category.mixing_cauldron.output": "Output",
+    "item.hexerei.broom_netherite_tip": "Broom Netherite Tip",
+    "item.hexerei.broom_waterproof_tip": "Broom Waterproof Tip",
+    "item.hexerei.dowsing_rod": "Dowsing Rod",
+    "tooltip.hexerei.dowsing_rod": "Helps find swamps and jungles.",
+    "tooltip.hexerei.dowsing_rod_2": "Leaves change color based on if the player is facing a swamp.",
+    "tooltip.hexerei.dowsing_rod_3": "If the leaves are healthy you are going the right way.",
+    "tooltip.hexerei.dowsing_rod_4": "Crouch and right click to change searching for swamps/jungles.",
+    "tooltip.hexerei.dowsing_rod_5": "Right click to reset the selected position to a new position of the biome type.",
+    "tooltip.hexerei.selenite_shard": "Obtained by breaking a Selenite Cluster in selenite geodes found under jungles and swamps.",
+    "tooltip.hexerei.broom_waterproof_tip": "Allows brooms to travel through the water without kicking the player off for limited time.",
+    "tooltip.hexerei.broom_netherite_tip": "Allows brooms to travel through lava without burning for limited time.",
+    "tooltip.hexerei.small_satchel": "Extends the broom inventory by 9 slots.",
+    "tooltip.hexerei.medium_satchel": "Extends the broom inventory by 18 slots.",
+    "tooltip.hexerei.large_satchel": "Extends the broom inventory by 27 slots.",
+    "display.hexerei.dowsing_rod_swamp": "Now locating a swamp.",
+    "display.hexerei.dowsing_rod_jungle": "Now locating a jungle."
 }
