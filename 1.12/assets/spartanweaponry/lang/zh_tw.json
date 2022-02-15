@@ -617,5 +617,18 @@
     "config.spartanweaponry:sweep2Percentage": "Sweep II: Sweep Damage Percentage",
     "config.spartanweaponry:armorPiercePercentage": "Armor Pierce: Pierce Percentage",
     "config.spartanweaponry:disableFOVZoomIn": "Disable FOV Zoom-In Effect",
-    "config.spartanweaponry:disableSpartanHUDBaublesIntegration": "Disable Spartan HUD: Baubles Integration"
+    "config.spartanweaponry:disableSpartanHUDBaublesIntegration": "Disable Spartan HUD: Baubles Integration",
+    "entity.spartanweaponry:dagger_thrown.name": "Dagger",
+    "entity.spartanweaponry:throwing_knife.name": "Throwing Knife",
+    "entity.spartanweaponry:throwing_axe.name": "Throwing Axe",
+    "entity.spartanweaponry:javelin_thrown.name": "Javelin",
+    "entity.spartanweaponry:boomerang_thrown.name": "Boomerang",
+    "entity.spartanweaponry:bolt.name": "Bolt",
+    "entity.spartanweaponry:bolt_spectral.name": "Spectral Bolt",
+    "entity.spartanweaponry:bolt_diamond.name": "Diamond Bolt",
+    "entity.spartanweaponry:arrow_wood.name": "Wooden Arrow",
+    "entity.spartanweaponry:arrow_iron.name": "Iron Arrow",
+    "entity.spartanweaponry:arrow_diamond.name": "Diamond Arrow",
+    "entity.spartanweaponry:arrow_explosive.name": "Explosive Arrow",
+    "entity.spartanweaponry:dynamite.name": "Dynamite"
 }

@@ -1613,5 +1613,7 @@
     "spell.ebwizardry\\:summon_snow_golem_festive": "Summon Frosty The Snowman",
     "spell.ebwizardry\\:invigorating_presence_festive": "Invigorating Presents",
     "spell.ebwizardry\\:empowering_presence_festive": "Empowering Presents",
-    "wizard.debug": "%1$s, %2$s, %3$s"
+    "wizard.debug": "%1$s, %2$s, %3$s",
+    "config.ebwizardry.inject_mob_drops": "Allow Wizardry Mob Loot",
+    "config.ebwizardry.inject_mob_drops.tooltip": "Whether to inject Wizardry loot to mobs, based on the loot table 'Mob Loot Table Whitelist' / 'Mob Loot Table Blacklist' settings. If disabled, the lists won't have any effect!"
 }
