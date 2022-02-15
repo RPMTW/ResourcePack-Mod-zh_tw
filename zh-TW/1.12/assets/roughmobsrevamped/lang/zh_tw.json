@@ -2,5 +2,6 @@
     "entity.hostilebat.name": "Hostile Bat",
     "translation.warning.bossdescriptor": ", a powerful",
     "translation.warning.bossaction": "warlord, has joined the battlefield.",
-    "translation.warning.fog": "The thick fog reaches out for you... You begin to choke as you move through it. Perhaps you should find the source of the poisonous mist, or flee to safety."
+    "translation.warning.fog": "The thick fog reaches out for you... You begin to choke as you move through it. Perhaps you should find the source of the poisonous mist, or flee to safety.",
+    "death.attack.poisonous_fog": "%s choked on poisonous fog."
 }
