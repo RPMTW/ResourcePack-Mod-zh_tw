@@ -1,13 +1,13 @@
 {
-    "item.hunterillager.spawnegg_hunterillager": "HunterIllager Spawn Egg",
+    "item.hunterillager.spawnegg_hunterillager": "盜獵手 生怪蛋",
     "item.hunterillager.quivers": "箭袋",
-    "item.hunterillager.boomerang": "回力鏢",
-    "item.hunterillager.quiver.desc": "握住箭袋和箭矢時，您可以按右鍵貯存箭矢。",
-    "entity.hunterillager.hunterillager": "獵手",
-    "subtitles.hunterillager.laugh": "獵手笑了",
-    "death.attack.hunterillager.boomerang": "%1$s was hit by %2$s 's boomerang",
-    "hunterillager.config.structureSpacing": "Hunter House Generate Spacing",
-    "hunterillager.config.foodWhitelist": "HunterIllager Eat Food Whitelist",
-    "hunterillager.config.attackableWhitelist": "HunterIllager Attackable Whitelist",
-    "enchantment.hunterillager.bounce": "反射"
+    "item.hunterillager.boomerang": "迴旋鏢",
+    "item.hunterillager.quiver.desc": "手持箭袋和箭矢時，按右鍵可以存放箭矢。",
+    "entity.hunterillager.hunterillager": "盜獵手",
+    "subtitles.hunterillager.laugh": "盜獵手哼哼笑",
+    "death.attack.hunterillager.boomerang": "%1$s 被 %2$s 的迴旋鏢擊斃",
+    "hunterillager.config.structureSpacing": "獵手小屋生成間距",
+    "hunterillager.config.foodWhitelist": "盜獵手飲食白名單",
+    "hunterillager.config.attackableWhitelist": "盜獵手獵物白名單",
+    "enchantment.hunterillager.bounce": "反彈"
 }
