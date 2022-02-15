@@ -614,7 +614,7 @@
     "tombstone.command.tbteleport.player.usage": "Teleports to a player\n/tbteleport player [entity] <targetEntity>",
     "tombstone.command.tbrestoreinventory.usage": "Restores the player inventory with the last known grave\n/tbrestoreinventory [player]",
     "tombstone.command.tbrecovery.usage": "Backups and restores players\n/tbrecovery <save_all_players|save_player <player>|load_player <player> [save]>",
-    "tombstone.command.tbknowledge.usage": "Adjusts the Knowledge of Death of a player\n/tbknowledge <player> <show|set|give|remove> <amount>\nYou can also reset the Ankh's cooldown with /tbknowledge <player> reset_ankh",
+    "tombstone.command.tbknowledge.usage": "Ajuste la Connaissance de la Mort d'un joueur\n/tbknowledge <joueur> <show|set|give|remove> <amount>\nDéfinis l'alignment d'un joueur\n/tbknowledge <joueur> alignment <-4;4>\nVous pouvez aussi réinitialiser le temps de recharge de l'Ânkh avec /tbknowledge <joueur> reset_ankh",
     "tombstone.command.tbsiege.usage": "Launches or interrupt a village siege in Overworld\n/tbsiege <start|stop>",
     "tombstone.command.tbrevivefamiliar.usage": "Revives the last dead familiar of a player\n/tbrevivefamiliar <player>",
     "tombstone.command.tbacceptteleport.usage": "This command shouldn't be called manually",
@@ -967,5 +967,13 @@
     "tombstone.config.marker_type.tooltip": "Defines the type of marker when holding in hand some items like the Grave's Key",
     "tombstone.config.show_fishing_marker": "Fishing Marker",
     "tombstone.config.show_fishing_marker.tooltip": "Display an icon when fishing with the Rod of Misadventure showing if you're in openwater",
-    "entity.tombstone.cloud": "Cloud"
+    "entity.tombstone.cloud": "Cloud",
+    "tombstone.message.pray_of_empathy": "Your prayer has appeased the creature that seems determined to follow you as a familiar",
+    "tombstone.message.set_alignment": "The alignment of %s has been changed",
+    "bonus.tombstone.pray_of_empathy.title": "Pray of Empathy",
+    "bonus.tombstone.pray_of_empathy": "Can encourage a creature to become one of your familiars",
+    "tombstone.advancement.create_smoke_ball.title": "Not Carbolic",
+    "tombstone.advancement.create_smoke_ball.desc": "You created a Smoke Ball",
+    "tombstone.advancement.color_smoke_ball.title": "In the dark, all colors accord",
+    "tombstone.advancement.color_smoke_ball.desc": "You colored a Smoke Ball"
 }

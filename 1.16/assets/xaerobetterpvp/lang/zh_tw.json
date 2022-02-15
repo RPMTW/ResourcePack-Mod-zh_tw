@@ -561,5 +561,11 @@
     "gui.xaero_start_fading_at_auto": "Auto",
     "gui.xaero_legacy_color": "Legacy",
     "gui.xaero_partial_y_teleportation": "Use Y With Partial When TP",
-    "gui.xaero_box_partial_y_teleportation": "When teleporting to a waypoint or a map location, offset the Y coordinate by 0.5 to avoid falling through carpet-like blocks into the void. Otherwise, the integer Y coordinate is used."
+    "gui.xaero_box_partial_y_teleportation": "When teleporting to a waypoint or a map location, offset the Y coordinate by 0.5 to avoid falling through carpet-like blocks into the void. Otherwise, the integer Y coordinate is used.",
+    "gui.xaero_delete_reached_deathpoints": "Delete Reached Deathpoints",
+    "gui.xaero_box_delete_reached_deathpoints": "Automatically delete deathpoints when you are within 4 blocks from them. This requires the deathpoint to be visible in-game or on the minimap. A deathpoint is protected from deletion for 5 seconds after its creation.",
+    "gui.xaero_hide_minimap_under_screen": "Hide When Under Screen",
+    "gui.xaero_box_hide_minimap_under_screen": "Hide the minimap when a GUI screen is open, e.g. the inventory, with the exception of minimap-related screens and the chat screen.",
+    "gui.xaero_north_compass_color": "North Compass Color",
+    "gui.xaero_north_compass_color_default": "Default"
 }
