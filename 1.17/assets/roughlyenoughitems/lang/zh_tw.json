@@ -268,7 +268,7 @@
     "text.rei.inventory.highlighting.enabled": "Inventory Highlighting On",
     "text.rei.inventory.highlighting.enabled.tooltip": "This makes slots that does not match\nthe search filter gray.\nDouble click the search bar to toggle this mode.",
     "text.rei.too_long_nbt": "§cItem NBT is too long to be applied in multiplayer.",
-    "text.rei.tag_match": "Tag: %s",
+    "text.rei.tag_match": "Accepts Tag: #%s",
     "text.rei.performance": "Performance Analysis",
     "text.rei.shift_click_to": "Shift-Click to %s",
     "config.roughlyenoughitems.layout.mergeDisplayUnderOne": "Merge Displays with Equal Contents:",
