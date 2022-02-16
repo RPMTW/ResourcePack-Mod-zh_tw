@@ -955,7 +955,7 @@
                 <image src="arcanearchives:gui/guidebook/manifest_searchbar" tw="32" th="16"/> You can filter what items your Manifest displays by typing in the search bar. Right clicking the search bar clears the current term. You can also shift-click the search bar to copy your current JEI search term.
             </p>
             <p>
-                <image src="arcanearchives:gui/guidebook/manifest_alphanumeric" tw="32" th="16"/> The first button at the top of the Manifest toggles whether items are sorted by name or by quantity.
+                <image src="arcanearchives:gui/guidebook/manifest_alphanumeric" tw="32" th="16"/> 清單頂部的第一個按鈕切換物品是按名稱排序還是按數量排序。
             </p>
             <p>
                 <image src="arcanearchives:gui/guidebook/manifest_ascdesc" tw="32" th="16"/> The second button at the top of the Manifest toggles whether items are sorted in ascending order or in descending order.
