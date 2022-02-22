@@ -125,7 +125,7 @@
     "tile.engineersdecor.passive_fluid_accumulator.help": "§6基於真空吸力的流體收集器。§r有一個輸出面，其他面都是輸入。\\\n                                                   當從輸出面被泵抽取時，從輸入面鄰接儲罐抽取液體。",
     "tile.engineersdecor.small_fluid_funnel.name": "小型流體收集漏斗",
     "tile.engineersdecor.small_fluid_funnel.help": "§6收集上方的流體。§r有一個三桶大的內部儲罐。會\\\n                                            追溯流體到附近的源方塊。流體可被流體運輸系統或桶\\\n                                            移出。只會裝滿下方的儲罐（重力傳輸）。與原版\\\n                                            無限水相容。",
-    "tile.engineersdecor.factory_dropper.name": "工廠掉落器",
+    "tile.engineersdecor.factory_dropper.name": "工廠投擲器",
     "tile.engineersdecor.factory_dropper.help": "§6適用於高級工廠自動化的掉落器。§r有十二個輪詢選擇的儲物格。\\\n                                         掉落的力度、角度、一疊數量和冷卻延時可在GUI調節。三個\\\n                                         內部比較槽帶有邏輯與或邏輯或功能，可用作內部觸發源。內部觸發\\\n                                         還能和外部紅石訊號觸發再進行邏輯與或邏輯或。觸發模擬按鈕僅作測試用途。\\\n                                         當內部觸發條件滿足時，預先打開卷簾門。所有符合條件的物品\\\n                                         會同時掉落。點擊GUI的各處來了解如何運作。",
     "tile.engineersdecor.factory_hopper.name": "工廠漏斗",
     "tile.engineersdecor.factory_hopper.help": "§6適用於高級工廠自動化的漏斗。§r可一次傳輸半組物品，最大收集範圍9x9。\\n\\\n                                        GUI滑動條：控制收集距離（0到4），插入延遲（0.5秒到10秒），插入一疊物品的大小（1到32）。\\n\\\n                                        GUI紅石控制：不反相/反相（預設），脈衝模式/持續模式（預設）。",
