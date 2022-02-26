@@ -28,28 +28,28 @@
     },
     {
       "type": "bewitchment:distillery_recipe",
-      "recipe": "bewitchment:oil_of_vitriol",
-      "text": "毫不留情的批評"
+      "recipe": "bewitchment:bottled_frostfire",
+      "text": "A strange anti-fire that is cold to the touch. When placed, it can smelt iron ore into Cold Iron when thrown in"
     },
     {
       "type": "bewitchment:distillery_recipe",
-      "recipe": "bewitchment:swirl_of_depths",
+      "recipe": "bewitchment:oil_of_vitriol",
       "text": "$(o)可能這東西具有催眠的效果"
     },
     {
       "type": "bewitchment:distillery_recipe",
-      "recipe": "bewitchment:heaven_extract",
+      "recipe": "bewitchment:swirl_of_depths",
       "text": "$(o)這東西也許有催眠的效果"
     },
     {
       "type": "bewitchment:distillery_recipe",
-      "recipe": "bewitchment:stone_ichor",
+      "recipe": "bewitchment:heaven_extract",
       "text": "這瓶混合物還帶著泥土的芳香"
     },
     {
       "type": "bewitchment:distillery_recipe",
-      "recipe": "bewitchment:otherworld_tears",
-      "text": "仔細聆聽, 你能聽到他們的哭泣"
+      "recipe": "bewitchment:stone_ichor",
+      "text": "Earthy mixture"
     },
     {
       "type": "bewitchment:distillery_recipe",
