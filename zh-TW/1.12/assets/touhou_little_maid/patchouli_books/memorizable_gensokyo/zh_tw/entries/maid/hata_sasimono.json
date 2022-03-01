@@ -1,17 +1,17 @@
 {
   "sortnum": 5,
-  "name": "旗指物",
+  "name": "Hata Sasimono",
   "icon": "touhou_little_maid:hata_sasimono",
   "category": "maid",
   "pages": [
     {
       "type": "crafting",
       "recipe": "touhou_little_maid:hata_sasimono",
-      "text": "女僕會傷害玩家，乃至其他女僕和寵物，旗指物就是為此設計的。"
+      "text": "This maid will hurt the player, and other maids or pets. That is why hata sasimono was designed."
     },
     {
       "type": "text",
-      "text": "合成一個旗指物，接著右擊女僕可以為其加入旗指物。在女僕的主 GUI 中你可以找到對應切換旗指物樣式的按鈕。$(br2)你也可以自訂自己的旗指物，透過查找 Wiki 來取得幫助。"
+      "text": "Craft a hata sasimono, and then right-click on a maid to add hata sasimono to the maid. You can find the corresponding button to switch the style of hata sasimono in the main GUI.$(br2)You can also customize your own hata sasimono. Check the wiki for more instructions."
     }
   ]
 }
