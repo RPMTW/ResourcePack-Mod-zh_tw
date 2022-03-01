@@ -1,13 +1,13 @@
 {
   "sortnum": 12,
-  "name": "攜帶式音響",
+  "name": "Trolley Audio",
   "icon": "touhou_little_maid:trolley_audio",
   "category": "other",
   "pages": [
     {
       "type": "spotlight",
       "item": "touhou_little_maid:trolley_audio",
-      "text": "攜帶式音響和行李箱很像，其使用方式和原版的唱片機也完全一致。"
+      "text": "The trolley audio is similar to the suitcase, and its use is exactly the same as the vanilla jukebox."
     }
   ]
 }
