@@ -1,17 +1,17 @@
 {
   "sortnum": 4,
-  "name": "神社庭燈",
+  "name": "Shrine Lamp",
   "icon": "touhou_little_maid:maid_beacon",
   "category": "other",
   "pages": [
     {
       "type": "spotlight",
       "item": "touhou_little_maid:maid_beacon",
-      "text": "神社庭燈既是一個不錯的裝飾物，還具有一定的實用功能。$(br2)神社庭燈右擊上部能夠打開 GUI，儲存玩家的 P 點，同時還能點擊按鈕選擇相應的效果，這些效果會消耗 P 點來為周圍範圍的女僕帶來對應增益效果。"
+      "text": "The shrine lamp is a good decoration and has certain practical functions. Right click on the upper part of the shrine lamp to open the GUI, store the player's power point."
     },
     {
       "type": "text",
-      "text": "神社庭燈還是一個自動收集 P 點的好工具，它能夠自動收集其三格範圍內的 P 點，並將其儲存起來。"
+      "text": "It also can select effect, then will consume power points to bring the effect to the surrounding range of maids.$(br2)The shrine lamp is also a good tool for automatically collecting power point. It can automatically collect power point within 3 blocks and store them."
     }
   ]
 }
