@@ -1,16 +1,16 @@
 {
   "sortnum": 0,
-  "name": "生成女僕",
+  "name": "Spawn Maid",
   "icon": "minecraft:spawn_egg{EntityTag:{id:'touhou_little_maid:entity.passive.maid'}}",
   "category": "maid",
   "pages": [
     {
       "type": "text",
-      "text": "取得女僕的方式非常特殊，而且必須透過多方塊祭壇才能取得。$(br2)因為合成表很有可能會在後續發生改變，所以請查詢 JEI 的祭壇標籤。$(br2)當在多方塊祭壇中成功生成女僕後，你將會得到一個包裝著女僕的蛋糕盒。"
+      "text": "The way to get a maid is very special and needs to be done through a multi-blocks altar.$(br2)Since the recipe is likely to change in the future, please check the JEI altar label.$(br2)After the maid is successfully spawned in a multi-blocks altar, you will get a cake box wrapped with the maid. You can right-click the cake box to open it."
     },
     {
       "type": "text",
-      "text": "蛋糕盒右擊即可打開，你需要右擊三次觸發不同的打開階段，最後蛋糕盒會消失。$(br2)你需要一塊蛋糕才能馴服女僕。馴服的物品可在設定檔案中進行變更，此處不再累述。$(br2)馴服的女僕和原版寵物行為幾乎一致，你可以右擊打開她的 GUI。"
+      "text": "You need to right-click three times to trigger different opening stages, and finally the cake box will disappear.$(br2)You will need a cake to tame the maid. the taming items can be changed in the configuration file, which was mentioned already.$(br2)The tamed maid is almost identical to a vanilla pet, and you can right-click to open her GUI."
     }
   ]
 }
