@@ -1,12 +1,12 @@
 {
   "sortnum": 11,
-  "name": "女僕聲音",
+  "name": "Maid Sound",
   "icon": "minecraft:jukebox",
-  "category": "女僕",
+  "category": "maid",
   "pages": [
     {
       "type": "text",
-      "text": "你可以製作自訂聲音包來替換、擴充女僕的音效。$(br2)在女僕主介面的下方有相關按鈕，點擊即可打開聲音素材播放介面。"
+      "text": "You can make custom sound packs to replace or expand the maid's sound effects. There are related buttons at the bottom of the maid's inventory. $(br2)Click the button to open the sound playback gui."
     }
   ]
 }
