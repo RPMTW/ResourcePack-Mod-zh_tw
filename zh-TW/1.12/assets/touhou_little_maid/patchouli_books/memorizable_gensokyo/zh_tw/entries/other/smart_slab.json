@@ -1,17 +1,17 @@
 {
   "sortnum": 22,
-  "name": "魂符",
+  "name": "Soul Spell",
   "icon": "touhou_little_maid:smart_slab",
   "category": "other",
   "pages": [
     {
       "type": "spotlight",
       "item": "touhou_little_maid:smart_slab",
-      "text": "這可不是一塊普通的紙，它附上了遠古女僕的靈魂。$(br)每個玩家在剛剛出生時會獲得一塊魂符，右擊就可以釋放出一隻女僕。魂符可以重複利用，你可以右擊女僕將其裝回石板中。"
+      "text": "This is not an ordinary paper, it is attached to the soul of the ancient maid.$(br2)Each player will get a soul spell when they are spawn, right click to release a maid."
     },
     {
       "type": "text",
-      "text": "在地牢戰利品箱中也能非常罕見的發現魂符。$(br2)你可以通過設定停用上述兩個魂符取得方式，魂符同樣會被「玩家女僕數量上限」設定所限制住。"
+      "text": "The spell can be reused, you can right-click on the maid to put it back into the spell. In the dungeon loot chest, soul spell can also be found very rarely.$(br2)You can disable the above two spell acquisition methods through configuration, and the spell will also be restricted by the \"maximum number of player maids\" configuration."
     }
   ]
 }
