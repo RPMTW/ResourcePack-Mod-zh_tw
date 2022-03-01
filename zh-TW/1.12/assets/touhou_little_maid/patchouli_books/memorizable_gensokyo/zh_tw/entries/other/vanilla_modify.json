@@ -1,19 +1,19 @@
 {
   "sortnum": 8,
-  "name": "原版修改",
+  "name": "Vanilla Modify",
   "icon": "minecraft:book",
   "category": "other",
   "pages": [
     {
       "type": "text",
-      "text": "本模組的設定檔案部分加入了對原版兩個實體模型的修改。$(br2)一個可以將原版史萊姆修改為油庫裡模型，另一個可以將原版經驗球模型修改為得分道具。$(br2)你還可以將原版的不死圖騰修改為命點道具的材質。"
+      "text": "Modifications to two vanilla entity models have been added to the configuration of this mod. $(br2)One can modify the vanilla slime model to yukkuri, and the other can modify the vanilla experience orb model to score point.$(br2)You can also change the vanilla totem of undying to the texture of the life point."
     },
     {
       "type": "image",
       "images": [
         "touhou_little_maid:textures/book/yukkuri.png"
       ],
-      "title": "油庫裡",
+      "title": "Yukkuri",
       "border": true
     }
   ]
