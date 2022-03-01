@@ -217,5 +217,12 @@
     "engineersdecor.config.pipevalve_max_flowrate": "Valves: Max flow rate",
     "engineersdecor.config.pipevalve_redstone_gain": "Valves: Redstone slope",
     "engineersdecor.config.e_furnace_speed_percent": "E-furnace: Smelting speed %",
-    "engineersdecor.config.e_furnace_power_consumption": "E-furnace: Power consumption"
+    "engineersdecor.config.e_furnace_power_consumption": "E-furnace: Power consumption",
+    "tile.engineersdecor.sign_firehazard.name": "§6Sign \"Fire Hazard\"",
+    "tile.engineersdecor.sign_frost.name": "§6Sign \"Frost Warning\"",
+    "tile.engineersdecor.sign_hotsurface.name": "§6Sign \"Caution Hot Surface\"",
+    "tile.engineersdecor.sign_laser.name": "§6Sign \"Laser Hazard\"",
+    "tile.engineersdecor.sign_magichazard.name": "§6Sign \"Caution Magical Hazard\"",
+    "tile.engineersdecor.sign_magneticfield.name": "§6Sign \"Caution Strong Magnetic Field\"",
+    "tile.engineersdecor.sign_radioactive.name": "§6Sign \"Radioactive Hazard\""
 }
