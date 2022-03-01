@@ -1,17 +1,17 @@
 {
   "sortnum": 1,
-  "name": "自訂坐墊",
+  "name": "Custom Cushion",
   "icon": "touhou_little_maid:chair{ModelId:'touhou_little_maid:cat_cart'}",
   "category": "other",
   "pages": [
     {
       "type": "crafting",
       "recipe": "touhou_little_maid:chair",
-      "text": "自訂坐墊是純裝飾向的物品，直接右擊放置在地上，shift 左擊能夠打掉它。右擊能夠坐上，shift 右擊可以打開切換坐墊樣式的 GUI。"
+      "text": "The custom cushion is a purely decorative item, placed directly on the ground by right-click, and shift left-click can destroy it, right-click to sit, shift right-click to open the GUI to switch the cushion style."
     },
     {
       "type": "text",
-      "text": "部分坐墊在女僕靠近時可以直接坐上，shift 右擊女僕能夠使其離開坐墊。$(br2)坐墊模型也可以完全自訂，也可通過資源包快捷加入自訂模型，相關自訂內容請查看 Wiki。"
+      "text": "Some of the cushions can sit directly when the maid is close, shift right-click to the maid can leave the cushion.$(br2)The cushion model can also be completely customized, or you can quickly add a custom model through the resource package. For related customizations, please check the wiki."
     }
   ]
 }
