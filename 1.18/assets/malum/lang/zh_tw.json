@@ -693,5 +693,13 @@
     "tetra.material.tainted_rock": "Tainted Rock",
     "tetra.material.tainted_rock.prefix": "Tainted Rock",
     "tetra.material.twisted_rock": "Twisted Rock",
-    "tetra.material.twisted_rock.prefix": "Twisted Rock"
+    "tetra.material.twisted_rock.prefix": "Twisted Rock",
+    "death.attack.magebane": "%s got too confident with a soul hunter",
+    "death.attack.magebane.player": "%s got too confident with %s",
+    "death.attack.scythe_sweep": "%s was sliced into two pieces",
+    "death.attack.scythe_sweep.player": "%s was sliced into two pieces by %s",
+    "death.attack.voodoo": "%s had their soul shattered",
+    "death.attack.voodoo.player": "%s had their soul shattered by %s",
+    "death.attack.voodoo_no_shatter": "%s had their soul shattered",
+    "death.attack.voodoo_no_shatter.player": "%s had their soul shattered by %s"
 }

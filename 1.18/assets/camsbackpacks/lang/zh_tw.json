@@ -36,5 +36,8 @@
     "container.camsbackpacks.obstructed_block": "Block in front of player is obstructed!",
     "container.camsbackpacks.cant_equip": "You're already wearing something on your back!",
     "container.camsbackpacks.player_inv": "Inventory",
-    "container.camsbackpacks.backpack_inv": "Backpack"
+    "container.camsbackpacks.backpack_inv": "Backpack",
+    "text.autoconfig.camsbackpacks.title": "CamsBackpacks",
+    "text.autoconfig.camsbackpacks.option.sneakPlaceBackpack": "Enable Sneak-Placing Backpacks",
+    "text.autoconfig.camsbackpacks.option.hideToolTip": "Hide Backpack Tooltip"
 }

@@ -357,7 +357,7 @@
     "tetra.stats.sweeping.level": "Sweep Damage",
     "tetra.stats.sweeping.efficiency": "Sweep Area",
     "tetra.stats.sweeping.tooltip": "Attacking an entity also hits all adjacent enemies within a §e%s§r block radius for §e%s§r weapon damage",
-    "tetra.stats.sweeping.tooltip_extended": "Sweeping attacks do not trigger when attacking mid-air or while sprinting.",
+    "tetra.stats.sweeping.tooltip_extended": "Sweeping attacks do not trigger when attacking mid-air, while sprinting or when attacking during swing cooldown.",
     "tetra.stats.truesweep": "Truesweep",
     "tetra.stats.truesweep.tooltip": "Entities hit by a sweep are affected by enchantments and item effects. Swinging triggers the sweeping effect even if it does not hit an entity.",
     "tetra.stats.truesweep.tooltip_extended": "Enchantments include both bonus damage from enchantments like smite and effects from enchantments like fire aspect. Item effects refers to effects like bleeding or critical strike.",
@@ -663,7 +663,7 @@
     "block.tetra.rack.description": "Items can be hung on the rack, right-click to add or remove an item.\nA tool hung on a rack near a workbench becomes available for crafting as if it was in the player inventory, the rack needs to be within a 3x3x3 area (centered one block above the workbench) for this to work.",
     "block.tetra.block_geode": "Geode block",
     "item.tetra.geode": "Geode",
-    "item.tetra.geode.tooltip": "Breaking open at a workbench may yield valuable minerals\n \n§8Drops are affected by the fortune enchantment",
+    "item.tetra.geode.tooltip": "Presents glimmer from within in the presence of light\n \n§8Breaking open at a workbench may yield valuable minerals, drops are affected by the fortune enchantment",
     "tetra.break_geode_action.label": "Break open",
     "item.tetra.pristine_diamond": "Pristine Diamond",
     "tetra.shatter_diamond_action.label": "Shatter",
@@ -2037,7 +2037,7 @@
     "tetra.advancements.spelunking.suspend_bow.title": "Planar Intersection",
     "tetra.advancements.spelunking.suspend_bow.description": "Use two planar stabilizers to craft a bow stabilizer",
     "tetra.advancements.spelunking.geode.title": "Hollow Solids",
-    "tetra.advancements.spelunking.geode.description": "Find a geode in the depths",
+    "tetra.advancements.spelunking.geode.description": "Find a geode when mining deepslate\n\n§7Deepslate containing geodes glimmer in the presence of light",
     "tetra.advancements.spelunking.geode_open.title": "Mineral Crackers",
     "tetra.advancements.spelunking.geode_open.description": "Upgrade a mallet and use it to break open a geode at a workbench",
     "tetra.advancements.spelunking.hammer_fix.title": "Restored Machinery",
@@ -2168,5 +2168,9 @@
     "enchantment.minecraft.loyalty.desc": "Returns shortly after being thrown",
     "enchantment.minecraft.riptide.desc": "Propels the wielder forward when used in water or rain",
     "enchantment.minecraft.impaling.desc": "Deal increased damage to wet or aquatic entities",
-    "enchantment.minecraft.channeling.desc": "Calls down lightning when thrown at an entity during a thunderstorm"
+    "enchantment.minecraft.channeling.desc": "Calls down lightning when thrown at an entity during a thunderstorm",
+    "tetra.material.bamboo": "Bamboo",
+    "tetra.material.bamboo.prefix": "Bamboo",
+    "tetra.improvement.hollow.name": "Hollow",
+    "tetra.improvement.hollow.description": "Yields a flat speed increase but reduces overall durability by 10%%"
 }

@@ -94,5 +94,6 @@
     "jade.utilitix.experience_crystal.xp": "XP points: ",
     "block.utilitix.dimmable_redstone_lamp": "Dimmable Redstone Lamp",
     "item.utilitix.mob_yoinker": "Mob Yoinker",
-    "utilitix.map_saved": "Saved map here: %s"
+    "utilitix.map_saved": "Saved map here: %s",
+    "utilitix.compat.quark.disable_piston_logic_replacement": "Disable \"Use Piston Logic Replacement\" in quark general settings to use this properly."
 }

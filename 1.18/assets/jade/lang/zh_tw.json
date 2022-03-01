@@ -142,5 +142,9 @@
     "config.waila.plugin_minecraft.villager_profession": "Villager Profession",
     "jade.spawner": "%s (%s)",
     "config.waila.plugin_minecraft.animal_owner": "Animal Owner",
-    "jade.owner": "Owner: %s"
+    "jade.owner": "Owner: %s",
+    "jade.infinity": "+∞",
+    "jade.seconds": "%ds",
+    "jade.modName.cpp": "Crafting++",
+    "mymod.fuel": "Fuel: %d ticks"
 }

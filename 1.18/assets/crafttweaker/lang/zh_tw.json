@@ -86,5 +86,7 @@
     "crafttweaker.command.recipes.hand.empty": "Cannot get recipes for an empty ItemStack!",
     "crafttweaker.reload.complete": "CraftTweaker reload complete!",
     "crafttweaker.reload.start": "CraftTweaker reload starting!",
-    "crafttweaker.script.load.start": "Starting loading scripts for loader '%s'"
+    "crafttweaker.script.load.start": "Starting loading scripts for loader '%s'",
+    "crafttweaker.command.description.dump.loot_tables": "Outputs the names of all registered loot tables",
+    "crafttweaker.command.misc.loot_tables": "Loot Tables"
 }

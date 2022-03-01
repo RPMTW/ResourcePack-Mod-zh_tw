@@ -1394,5 +1394,11 @@
     "item.bf.gun_panzerbuchse39": "Panzerbuchse 39",
     "item.bf.gun_springfield_scoped": "Springfield (Scoped)",
     "bf.settings.experimental.toggle.aim": "Toggle Aim",
-    "bf.settings.experimental.toggle.aim.desc": "Determines whether aim should toggle by single or held right-clicking."
+    "bf.settings.experimental.toggle.aim.desc": "Determines whether aim should toggle by single or held right-clicking.",
+    "bf.gamemode.sg.description": "Survive in the wasteland amongst other well trained soldiers. Become the last survivor to win!",
+    "bf.message.gamemode.survivalgames.welcome": "Welcome to the Survival Games",
+    "bf.message.gamemode.survivalgames.death": "%s has been killed. %s tributes remain.",
+    "block.bf.kimino": "Kimono",
+    "bf.settings.experimental.toggle.bobbing": "Toggle Bobbing",
+    "bf.settings.experimental.toggle.bobbing.desc": "Toggles a very experimental bobbing effect for the players camera."
 }

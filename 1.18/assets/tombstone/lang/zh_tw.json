@@ -130,7 +130,7 @@
     "tombstone.item.ankh_of_pray.desc": "Allows you to pray for your soul on graves",
     "tombstone.item.ankh_of_pray.use1": "It doesn't appear to be the right time to pray %s",
     "tombstone.item.ankh_of_pray.use2": "Hold right click near a decorative grave to pray",
-    "tombstone.item.ankh_of_pray.use3": "Right click on a grave's soul reset all your perks",
+    "tombstone.item.ankh_of_pray.use3": "Left click on a grave's soul reset all your perks",
     "tombstone.item.lollipop": "Magic Lollipop",
     "tombstone.item.lollipop.desc": "The effects are unpredictable",
     "tombstone.item.bone_needle": "Bone Needle",
@@ -824,7 +824,7 @@
     "tombstone.command.tbteleport.player.usage": "Teleports to a player\n/tbteleport player [entity] <targetEntity>",
     "tombstone.command.tbrestoreinventory.usage": "Restores the player inventory with the last known grave\n/tbrestoreinventory [player]",
     "tombstone.command.tbrecovery.usage": "Backups and restores players\n/tbrecovery <save_all_players|save_player <player>|load_player <player> [save]>",
-    "tombstone.command.tbknowledge.usage": "Adjusts the Knowledge of Death of a player\n/tbknowledge <player> <show|set|give|remove> <amount>\nSets the player's alignment\n/tbknowledge <player> <alignment> <-4;4>\nYou can also reset the Ankh's cooldown with /tbknowledge <player> reset_ankh",
+    "tombstone.command.tbknowledge.usage": "Adjusts the Knowledge of Death of a player\n/tbknowledge <player> <show|set|give|remove> <amount>\nSets the player's alignment\n/tbknowledge <player> <alignment> <-4; 4>\nYou can also reset the Ankh's cooldown with /tbknowledge <player> reset_ankh",
     "tombstone.command.tbsiege.usage": "Launches or interrupt a village siege\n/tbsiege <start|stop> [dim]",
     "tombstone.command.tbrevivefamiliar.usage": "Revives the last dead familiar of a player\n/tbrevivefamiliar <player>",
     "tombstone.command.tbacceptteleport.usage": "This command shouldn't be called manually",
@@ -971,5 +971,6 @@
     "tombstone.advancement.create_smoke_ball.title": "Not Carbolic",
     "tombstone.advancement.create_smoke_ball.desc": "You created a Smoke Ball",
     "tombstone.advancement.color_smoke_ball.title": "All colours will agree in the dark",
-    "tombstone.advancement.color_smoke_ball.desc": "You colored a Smoke Ball"
+    "tombstone.advancement.color_smoke_ball.desc": "You colored a Smoke Ball",
+    "bonus.tombstone.exorcism.title": "Exorcism"
 }
