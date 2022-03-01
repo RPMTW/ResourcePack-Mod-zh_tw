@@ -1,12 +1,12 @@
 {
   "sortnum": 7,
-  "name": "指令",
+  "name": "Command",
   "icon": "minecraft:command_block",
   "category": "other",
   "pages": [
     {
       "type": "text",
-      "text": "/touhou_little_maid power 設定玩家 power 數值$(br)/touhou_little_maid maid_num 設定玩家女僕數值$(br)/hata reload 重載旗指物材質$(br)/maid_res reload 重載女僕資源包。此指令並不能完全重載部分資源，建議使用 F3+T 快捷鍵。$(br)/draw_coupon reload 重載抽卡機率表$(br)/spell_card reload 重載符卡數據"
+      "text": "$(#f00)/hata reload$() Reload all hata textures$(br)$(#f00)/maid_res reload$() Reload the maid resource pack. This command does not completely reload some resources. It is recommended to use the F3+T shortcut key.$(br)$(#f00)/draw_coupon reload$() Reload draw coupon.$(br)$(#f00)/spell_card reload$() Reload all spell card data."
     },
     {
       "type": "text",
