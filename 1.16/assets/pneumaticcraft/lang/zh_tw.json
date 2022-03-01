@@ -1125,7 +1125,7 @@
     "pneumaticcraft.gui.progWidget.itemFilter.ignoreDurability": "▶ Ignore Item Durability",
     "pneumaticcraft.gui.progWidget.itemFilter.useNBT": "▶ Match Item NBT",
     "pneumaticcraft.gui.progWidget.itemFilter.ignoreNBT": "▶ Ignore Item NBT",
-    "pneumaticcraft.gui.progWidget.itemFilter.useItemCount.tooltip": "When checked, allow only the specified number of items or quantity (mB) of fluid to be transferred.",
+    "pneumaticcraft.gui.progWidget.itemFilter.useItemCount.tooltip": "When checked, allow only the specified number of items or quantity (mB) of fluid to be transferred before moving to the next widget in the program.",
     "pneumaticcraft.gui.progWidget.itemFilter.useItemCount": "Use count",
     "pneumaticcraft.gui.progWidget.itemFilter.variableLabel": "Variable",
     "pneumaticcraft.gui.progWidget.itemFilter.warning.ignoredItemAssign": "This widget will be ignored. Item Assign widget only takes a single Item Filter widget.",
@@ -1406,8 +1406,8 @@
     "pneumaticcraft.gui.tab.problems.amadron.notEnoughItemSpace": "§fNot enough space in destination inventory.${br}§0Create space in the bound inventory.",
     "pneumaticcraft.gui.tab.problems.amadron.outOfStock": "§fOut of stock!${br}§0Come back later, maybe the vendor will resupply...",
     "pneumaticcraft.gui.tab.problems.amadron.notEnoughStock": "§fNot enough stock!${br}§0This is as much as you can order!",
-    "pneumaticcraft.gui.tab.problems.amadron.tooManyItems": "§fToo many items ordered!${br}§0An Amadrone can't carry more than 36 stacks of items. You will need to split your order into separate orders.",
-    "pneumaticcraft.gui.tab.problems.amadron.tooMuchFluid": "§fToo much fluid ordered!${br}§0An Amadrone can't carry more than 576 buckets of fluid. You will need to split your order into separate orders.",
+    "pneumaticcraft.gui.tab.problems.amadron.tooManyItems": "§fToo many items in order!${br}§0An Amadrone can't carry more than 36 stacks of items. You will need to split your order into separate orders.",
+    "pneumaticcraft.gui.tab.problems.amadron.tooMuchFluid": "§fToo much fluid in order!${br}§0An Amadrone can't carry more than 576 buckets of fluid. You will need to split your order into separate orders.",
     "pneumaticcraft.gui.tab.problems.applyPressure": "§0Apply at least %s bar.",
     "pneumaticcraft.gui.tab.problems.applyVacuum": "§0Get the pressure below %s bar.",
     "pneumaticcraft.gui.tab.problems.assembly_controller.duplicateMachine": "§fDuplicate Machine Detected!${br}§0Ensure there is only one %s.",
@@ -1915,5 +1915,6 @@
     "block.pneumaticcraft.compressed_brick_tile": "Compressed Brick Tile",
     "block.pneumaticcraft.compressed_brick_wall": "Compressed Brick Wall",
     "block.pneumaticcraft.compressed_stone": "Compressed Stone",
-    "block.pneumaticcraft.compressed_stone_slab": "Compressed Stone Slab"
+    "block.pneumaticcraft.compressed_stone_slab": "Compressed Stone Slab",
+    "pneumaticcraft.gui.progWidget.itemFilter.useItemCount.craftingTooltip": "When checked, allow only the specified number of items to be crafted before moving to the next widget in the program."
 }

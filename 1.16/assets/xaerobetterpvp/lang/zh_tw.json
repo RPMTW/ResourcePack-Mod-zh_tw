@@ -567,5 +567,7 @@
     "gui.xaero_hide_minimap_under_screen": "Hide When Under Screen",
     "gui.xaero_box_hide_minimap_under_screen": "Hide the minimap when a GUI screen is open, e.g. the inventory, with the exception of minimap-related screens and the chat screen.",
     "gui.xaero_north_compass_color": "North Compass Color",
-    "gui.xaero_north_compass_color_default": "Default"
+    "gui.xaero_north_compass_color_default": "Default",
+    "gui.xaero_category_add_to_list_custom": "Confirm Custom Input: %1$s",
+    "gui.xaero_box_category_list_add": "Supports entity identifiers or patterns with special characters * ) ( and |. \n \n * - matches anything. \n )( - parenthesis, mostly for usage with |. \n | - the OR operator to match different sequences in the same location. \n \n For example: \n minecraft:creeper \n minecraft:zombie(_villager|_horse) - zombie villagers and horses. \n minecraft:a*l - any vanilla entity which starts with 'a' and ends with 'l'."
 }

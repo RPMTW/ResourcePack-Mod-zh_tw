@@ -151,5 +151,7 @@
     "options.shrines.biome_list": "biome selection",
     "comment_general": "",
     "gui.shrines.removeQuestion": "Are you sure you want to delete [%s]?",
-    "gui.shrines.removeWarning": "It will be gone forever (A long time)"
+    "gui.shrines.removeWarning": "It will be gone forever (A long time)",
+    "key.customStructuresScreen": "Structure Novel UI",
+    "key.categories.shrines": "Shrines Structures"
 }
