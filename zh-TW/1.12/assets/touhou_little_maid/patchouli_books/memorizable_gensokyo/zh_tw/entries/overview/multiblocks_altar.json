@@ -1,31 +1,31 @@
 {
   "sortnum": 4,
-  "name": "多方塊祭壇",
+  "name": "Multi-Blocks Altar",
   "icon": "minecraft:wool:14",
   "category": "overview",
   "pages": [
     {
       "type": "text",
-      "text": "祭壇是本模組用於合成所必需的多方塊結構。$(br2)祭壇的合成表可以通過 JEI 取得，合成同時還需要玩家的$(l:overview/power_point)power 值$()。"
+      "text": "The altar is the multi-block structure required for the craft of this mod.$(br2)The altar's recipes can be obtained through JEI, and the craft also requires player's $(l:overview/power_point)power point$()."
     },
     {
       "type": "multiblock",
-      "name": "祭壇",
+      "name": "Altar",
       "multiblock_id": "touhou_little_maid:altar",
-      "text": "使用$(l:overview/gohei_and_danmaku)御幣$()對第四層中間偏左的紅色羊毛正面按右鍵，能夠構建祭壇。"
+      "text": "Use the $(l:overview/gohei_and_danmaku)gohei$() to right click on the red wool in the center left of the fourth layer to build the altar."
     },
     {
       "type": "text",
-      "text": "你可以右擊六個橡木柱子的頂端來放置物品。透過空手 Shift 右擊來移除物品。$(br2)當物品完全放置且玩家的 Power 值足夠，祭壇就能觸發合成。$(br2)因為缺少 Power 而導致的合成中斷，在取得足夠 Power 以後，再次右擊可以重新觸發合成。"
+      "text": "You can place the item by right-clicking on the top of the six oak pillars of the altar. You can remove the item by empty-handed right-clicking.$(br2)When the item is completely placed and the player's power point is enough, altar can trigger craft.$(br2)The craft is interrupted due to lack of power, and after obtaining enough power, right click again to re-trigger the craft."
     },
     {
       "type": "image",
       "images": [
         "touhou_little_maid:textures/book/altar_craft.png"
       ],
-      "title": "祭壇合成",
+      "title": "Altar Craft",
       "border": true,
-      "text": "展示了生成閃電的合成，謹記所有的合成都是無序合成。"
+      "text": "The craft of spawn lightning, remember all craft is shapeless."
     }
   ]
 }
