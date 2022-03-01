@@ -1,6 +1,6 @@
 {
   "sortnum": 3,
-  "name": "御幣與彈幕",
+  "name": "Gohei And Danmaku",
   "icon": "touhou_little_maid:hakurei_gohei",
   "category": "overview",
   "pages": [
@@ -8,21 +8,21 @@
       "type": "spotlight",
       "item": "touhou_little_maid:hakurei_gohei",
       "link_recipe": true,
-      "text": "御幣是一種範圍性攻擊武器，可以用來發射彈幕，當然也可以作為近戰武器。$(br2)當你手持御幣摁下 alt 鍵並滑動游標滾輪，可以切換發射的彈幕樣式。"
+      "text": "The gohei is a ranged weapon that can be used to shoot danmaku, and it also can be used as a normal melee weapon.$(br2)When you hold the gohei and press alt to scroll the mouse wheel, you can switch the danmaku style of the shoot."
     },
     {
       "type": "crafting",
       "recipe": "touhou_little_maid:hakurei_gohei",
-      "text": "玩家擁有的 power 值越高，發射的彈幕傷害和速度就越快。$(br2)御幣還是構建多方塊祭壇的重要工具。"
+      "text": "The higher power point player has, the higher damage and speed the danmaku has.$(br2)The gohei is an important tool for building a multi-block altar."
     },
     {
       "type": "image",
       "images": [
         "touhou_little_maid:textures/book/shoot_danmaku.png"
       ],
-      "title": "發射彈幕",
+      "title": "Shoot Danmaku",
       "border": true,
-      "text": "玩家手持御幣發射彈幕。"
+      "text": "The player holds gohei to shoot danmaku"
     }
   ]
 }
