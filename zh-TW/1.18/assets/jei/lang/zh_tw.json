@@ -141,10 +141,10 @@
     "description.jei.debug.formatting.1": "Testing %s formatting replacements.",
     "description.jei.debug.formatting.2": "Testing %s %s formatting replacements.",
     "description.jei.debug.formatting.3": "%s nested",
-    "jei.tooltip.cheat.mode.how.to.disable.hover.config.button.hotkey": "%s here to toggle it.",
-    "key.jei.toggleCheatModeConfigButton": "Toggle Cheat Mode (mouse over config button)",
-    "key.jei.cheatOneItem2": "Cheat 1 item",
-    "jei.key.category.edit.mode": "JEI (Edit Mode)",
-    "key.jei.toggleHideIngredient": "Hide an ingredient",
-    "key.jei.toggleWildcardHideIngredient": "Hide an ingredient using wildcard"
+    "jei.tooltip.cheat.mode.how.to.disable.hover.config.button.hotkey": "%s 這裡以切換它",
+    "key.jei.toggleCheatModeConfigButton": "切換作弊模式 (將鼠標懸停在設定按鈕上)",
+    "key.jei.cheatOneItem2": "作弊獲取1物品",
+    "jei.key.category.edit.mode": "JEI (編輯模式)",
+    "key.jei.toggleHideIngredient": "隱藏合成材料",
+    "key.jei.toggleWildcardHideIngredient": "使用通配符隱藏合成材料"
 }
