@@ -765,9 +765,9 @@
     "gui.tooltips.ae2.RequestableAmount": "可請求： %s",
     "gui.tooltips.ae2.StoredAmount": "已儲存：%s",
     "theoneprobe.ae2.channels_of": "頻道：%1$d/%2$d",
-    "theoneprobe.ae2.nested_p2p_tunnel": "Error: Nested P2P Tunnel",
-    "waila.ae2.ChannelsOf": "%1$d of %2$d Channels",
+    "theoneprobe.ae2.nested_p2p_tunnel": "錯誤：相嵌的P2P管道",
+    "waila.ae2.ChannelsOf": "來自%2$d頻道的%1$d",
     "waila.ae2.ErrorControllerConflict": "錯誤：控制器衝突",
-    "waila.ae2.ErrorNestedP2PTunnel": "Error: Nested P2P Tunnel",
-    "waila.ae2.ErrorTooManyChannels": "Error: Too Many Channels"
+    "waila.ae2.ErrorNestedP2PTunnel": "錯誤：相互輪迴的P2P通道",
+    "waila.ae2.ErrorTooManyChannels": "錯誤：頻道過多"
 }
