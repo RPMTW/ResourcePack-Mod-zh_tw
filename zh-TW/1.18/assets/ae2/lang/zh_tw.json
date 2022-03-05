@@ -761,13 +761,13 @@
     "waila.ae2.Stored": "已儲存： %s / %s",
     "waila.ae2.Unlocked": "未鎖定",
     "gui.ae2.Interface": "ME介面",
-    "gui.ae2.PartialPlan": "Partial Plan (Missing Ingredients)",
-    "gui.tooltips.ae2.RequestableAmount": "Requestable: %s",
-    "gui.tooltips.ae2.StoredAmount": "Stored: %s",
-    "theoneprobe.ae2.channels_of": "%1$d of %2$d Channels",
+    "gui.ae2.PartialPlan": "部分排程(缺少材料)",
+    "gui.tooltips.ae2.RequestableAmount": "可請求： %s",
+    "gui.tooltips.ae2.StoredAmount": "已儲存：%s",
+    "theoneprobe.ae2.channels_of": "頻道：%1$d/%2$d",
     "theoneprobe.ae2.nested_p2p_tunnel": "Error: Nested P2P Tunnel",
     "waila.ae2.ChannelsOf": "%1$d of %2$d Channels",
-    "waila.ae2.ErrorControllerConflict": "Error: Controller Conflict",
+    "waila.ae2.ErrorControllerConflict": "錯誤：控制器衝突",
     "waila.ae2.ErrorNestedP2PTunnel": "Error: Nested P2P Tunnel",
     "waila.ae2.ErrorTooManyChannels": "Error: Too Many Channels"
 }
