@@ -774,5 +774,16 @@
     "jm.waypoint.temp_waypoint_remove_distance.tooltip": "The distance from player when temporary waypoints are auto removed.",
     "jm.waypoint.manager.disable_strikethrough": "Disable Strikethrough text",
     "jm.waypoint.manager.disable_strikethrough.tooltip": "Disables the strike through of the waypoint text.",
-    "key.journeymap.fullscreen.disable_buttons": "Disable Fullscreen Buttons"
+    "key.journeymap.fullscreen.disable_buttons": "Disable Fullscreen Buttons",
+    "jm.theme.labelsource.moonphase": "Moon Phase",
+    "jm.theme.labelsource.moonphase.pre": "Moon Phase: ",
+    "jm.theme.labelsource.moonphase.day": "Day",
+    "jm.theme.labelsource.moonphase.full_moon": "Full Moon",
+    "jm.theme.labelsource.moonphase.waning_gibbous": "Waning Gibbous",
+    "jm.theme.labelsource.moonphase.third_quarter": "Third Quarter",
+    "jm.theme.labelsource.moonphase.waning_crescent": "Waning Crescent",
+    "jm.theme.labelsource.moonphase.new_moon": "New Moon",
+    "jm.theme.labelsource.moonphase.waxing_crescent": "Waxing Crescent",
+    "jm.theme.labelsource.moonphase.first_quarter": "First Quarter",
+    "jm.theme.labelsource.moonphase.waxing_gibbous": "Waxing Gibbous"
 }
