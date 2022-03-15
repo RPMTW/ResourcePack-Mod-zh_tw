@@ -1400,5 +1400,7 @@
     "bf.message.gamemode.survivalgames.death": "%s has been killed. %s tributes remain.",
     "block.bf.kimino": "Kimono",
     "bf.settings.experimental.toggle.bobbing": "Toggle Bobbing",
-    "bf.settings.experimental.toggle.bobbing.desc": "Toggles a very experimental bobbing effect for the players camera."
+    "bf.settings.experimental.toggle.bobbing.desc": "Toggles a very experimental bobbing effect for the players camera.",
+    "bf.cloud.notification.friends.join.fail.bootcamp": "Couldn't join friend! You must complete bootcamp first!",
+    "bf.cloud.notification.friends.join.fail.none": "Couldn't join friend! No match could be found, try again later!"
 }

@@ -816,5 +816,8 @@
     "message.occultism.familiar.beaver_familiar.enabled": "Ring Effect - Beaver: Enabled",
     "message.occultism.familiar.beaver_familiar.disabled": "Ring Effect - Beaver: Disabled",
     "item.occultism.ritual_dummy.familiar_beaver": "Ritual: Summon Beaver Familiar",
-    "item.occultism.ritual_dummy.familiar_beaver.tooltip": "The Beaver familiar provides increased woodcutting speed to their masters and harvests nearby trees when they grow from a sapling."
+    "item.occultism.ritual_dummy.familiar_beaver.tooltip": "The Beaver familiar provides increased woodcutting speed to their masters and harvests nearby trees when they grow from a sapling.",
+    "block.occultism.spirit_wall_torch": "Spirit Torch",
+    "item.occultism.ritual_dummy.custom_ritual": "Custom Ritual Dummy",
+    "item.occultism.ritual_dummy.custom_ritual.tooltip": "Used for modpacks as a fallback for custom rituals that do not have their own ritual item."
 }

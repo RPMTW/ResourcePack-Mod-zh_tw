@@ -48,7 +48,7 @@
     "item.quarryplus.remote_controller": "Remote Controller",
     "quarryplus.chat.change_mode": "Working mode was changed to %s",
     "quarryplus.chat.current_mode": "Now, working in %s",
-    "quarryplus.chat.disable_message": "%s is disabled.",
+    "quarryplus.chat.disable_message": "%s is disabled. Please enable it in config.",
     "quarryplus.chat.filler_mode": "Frame Mode",
     "quarryplus.chat.give_exp": "Given %s experiment points.",
     "quarryplus.chat.indent": "-    %s%s",
@@ -181,5 +181,10 @@
     "gui.left": "Left",
     "gui.forward": "Forward",
     "gui.right": "Right",
-    "block.quarryplus.filler": "Filler"
+    "block.quarryplus.filler": "Filler",
+    "block.quarryplus.solid_fuel_quarry": "Solid Fuel Quarry",
+    "item.quarryplus.filler_module": "Filler Module",
+    "quarryplus.chat.bedrock_module_description": "Install this to a machine to remove Bedrock.",
+    "itemGroup.quarryplus": "QuarryPlus",
+    "quarryplus.tooltip.item_disable_message": "DISABLED. Please enable it in config."
 }

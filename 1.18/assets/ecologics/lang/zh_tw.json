@@ -60,5 +60,17 @@
     "entity.ecologics.camel": "Camel",
     "entity.ecologics.penguin": "Penguin",
     "item.ecologics.camel_spawn_egg": "Camel Spawn Egg",
-    "item.ecologics.penguin_spawn_egg": "Penguin Spawn Egg"
+    "item.ecologics.penguin_spawn_egg": "Penguin Spawn Egg",
+    "block.ecologics.thin_ice": "Thin Ice",
+    "ecologics.subtitles.entity.penguin.ambient": "Penguin squawks",
+    "ecologics.subtitles.entity.penguin.death": "Penguin dies",
+    "ecologics.subtitles.entity.penguin.hurt": "Penguin hurts",
+    "effect.ecologics.slippery": "Slippery",
+    "item.ecologics.penguin_feather": "Penguin Feather",
+    "item.minecraft.potion.effect.sliding": "Potion of Sliding",
+    "item.minecraft.splash_potion.effect.sliding": "Splash Potion of Sliding",
+    "item.minecraft.lingering_potion.effect.sliding": "Lingering Potion of Sliding",
+    "item.minecraft.tipped_arrow.effect.sliding": "Arrow of Sliding",
+    "advancements.husbandry.breed_penguin.title": "Happy Feet",
+    "advancements.husbandry.breed_penguin.description": "Breed penguins to obtain a penguin feather from the baby."
 }
