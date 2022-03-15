@@ -103,5 +103,7 @@
     "sodium-extra.option.stars": "Stars",
     "sodium-extra.option.stars.tooltip": "If enabled, the stars will be rendered.",
     "sodium-extra.option.sun_moon": "Sun & Moon",
-    "sodium-extra.option.sun_moon.tooltip": "If enabled, the sun and moon will be rendered."
+    "sodium-extra.option.sun_moon.tooltip": "If enabled, the sun and moon will be rendered.",
+    "sodium-extra.option.gl_debug_verbosity": "OpenGL Debug Output",
+    "sodium-extra.option.gl_debug_verbosity.tooltip": "Debug Output is an OpenGL feature that makes debugging and optimizing OpenGL applications easier. Briefly, this feature provides a method for the driver to provide textual message information back to the application.\nModifying this option will require a game restart."
 }
