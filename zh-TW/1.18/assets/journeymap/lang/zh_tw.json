@@ -708,12 +708,12 @@
     "key.journeymap.fullscreen_chat_position": "發送（游標處）位置到聊天欄",
     "jm.minimap.self_display_scale": "Self Display Scale",
     "jm.minimap.self_display_scale.tooltip": "The scale for self icon.",
-    "jm.server.see_underground_players": "See Underground Players",
+    "jm.server.see_underground_players": "看見地底的玩家",
     "jm.server.see_underground_players.tooltip": "Expanded Radar Only!\nWhether underground players are visible on the radar.\nNether is unaffected by this setting.\nALL: Everyone can see underground players\nOP: Only Ops can see underground players\nNONE: No one can see underground players.",
     "jm.server.render_range": "Force Map Render Range Max",
     "jm.server.render_range.tooltip": "Force all players to a maximum chunk render distance for the map. 0 to use client settings.\nThis setting only forces the max, it does not increase their render range.\nThis value will not be reflected in the client's Cartography section of the Options screen.",
-    "jm.waypoint.disable": "Disable",
-    "jm.waypoint.show_all": "Show All",
-    "jm.waypoint.hide_all": "Hide All",
+    "jm.waypoint.disable": "停用",
+    "jm.waypoint.show_all": "顯示全部",
+    "jm.waypoint.hide_all": "隱藏全部",
     "key.journeymap.fullscreen.menu.chat_position": "Chat Position"
 }
