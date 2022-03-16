@@ -1,9 +1,9 @@
 {
     "deleteworldstotrash.selectWorld.deleteWarning": "'%s' will be moved to the %s, so you can restore it later if necessary.",
-    "deleteworldstotrash.selectWorld.deleteFailure": "Failed to move to %s",
-    "deleteworldstotrash.selectWorld.recycleBin": "recycle bin",
+    "deleteworldstotrash.selectWorld.deleteFailure": "移至 %s 失敗",
+    "deleteworldstotrash.selectWorld.recycleBin": "回收桶",
     "deleteworldstotrash.selectWorld.trash": "trash",
-    "deleteworldstotrash.selectWorld.deleteButton": "Move To %s",
-    "deleteworldstotrash.selectWorld.recycleBinButton": "Recycle Bin",
+    "deleteworldstotrash.selectWorld.deleteButton": "移至 %s",
+    "deleteworldstotrash.selectWorld.recycleBinButton": "回收桶",
     "deleteworldstotrash.selectWorld.trashButton": "Trash"
 }
