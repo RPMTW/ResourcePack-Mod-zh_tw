@@ -51,6 +51,6 @@
     "libx.config.gui.component.type_key": "Keybinding",
     "libx.command.reload.common": "Reloading all LibX common configs.",
     "libx.command.reload.client": "Reloading all LibX client configs.",
-    "libx.config.gui.resource_list.type_allow_list": "Allow List",
-    "libx.config.gui.resource_list.type_deny_list": "Deny List"
+    "libx.config.gui.resource_list.type_allow_list": "允許清單",
+    "libx.config.gui.resource_list.type_deny_list": "拒絕清單"
 }
