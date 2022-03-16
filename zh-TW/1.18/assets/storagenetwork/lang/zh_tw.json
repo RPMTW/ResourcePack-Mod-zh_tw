@@ -72,7 +72,7 @@
     "item.storagenetwork.picker_remote.tooltip": "點擊一個方塊，會嘗試從儲存網中取出相同的物品",
     "item.storagenetwork.picker_remote.guide": "蹲下右鍵將遙控器綁定到儲存網。沒有操作介面，點擊世界上的方塊時，嘗試從物品網路中取出相同的方塊，取出一個或一組取決於有沒有潛行",
     "item.storagenetwork.collector_remote": "無線網路收集器",
-    "item.storagenetwork.collector_remote.tooltip": "Items picked up are moved into the network",
+    "item.storagenetwork.collector_remote.tooltip": "撿起的物品將移入儲存網",
     "item.storagenetwork.collector_remote.guide": "像往常一樣將其綁定到網絡。 這個遙控器可以在你的物品欄中的任何地方使用（包括飾品欄，但不包括終界箱），不需要拿在手裡或快捷欄。當您拿起任何物品時，嘗試將該物品放入網絡。",
     "block.storagenetwork.recipe.invalid": "事務無效：",
     "block.storagenetwork.recipe.invalidleft": "在左側設置輸入",
