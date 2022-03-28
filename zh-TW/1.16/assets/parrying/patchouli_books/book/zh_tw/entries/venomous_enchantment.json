@@ -1,11 +1,11 @@
 {
-  "name": "Venomous",
+  "name": "淬毒",
   "icon": "minecraft:enchanted_book",
   "category": "parrying:enchantments",
   "pages": [
     {
       "type": "text",
-      "text": "Among assassins, poisoning a blade is a time honored tradition. Now, with the help of magic, you may help keep this dishonorable tradition alive. A dagger with the venomous enchantment will inflict poison onto a target with a successful backstab. Each level of the enchantment adds one level of poison. WARNING: do not lick the blade, and wash your hands after usage."
+      "text": "在刺客中，在刀刃上下毒是一個歷史悠久的傳統。現在，在附魔的幫助下，你可以幫助保持這個不光彩的傳統。一把帶有淬毒附魔的匕首在成功背刺的情況下會對目標造成毒害。每一級的附魔都會增加一級的中毒。警告：請勿舔刀片，使用後請洗手。"
     }
   ]
 }
