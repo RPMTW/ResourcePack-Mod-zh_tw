@@ -1,15 +1,15 @@
 {
-  "name": "Dual Wielding",
+  "name": "雙持",
   "icon": "parrying:stone_dagger",
   "category": "parrying:mechanics",
   "pages": [
     {
       "type": "text",
-      "text": "Sometimes, one weapon just isn't enough. Fortunately, for times like these, we can use a revolutionary new invention; your other hand! $(br2) Dual wielding techniques generally revolve around balancing a pair of weapons to attack faster. The closer together in speed the weapons are, the faster you will be able to attack. With 2 near-identical weapons, "
+      "text": "有時，一件武器是不夠的。幸運的是這的時候，我們可以使用一個革命性的新發明；「你的另一隻手！」。 $(br2) 雙持技術通常圍繞著一對平衡的武器以更快地進行攻擊。兩把武器的速度越接近，你的攻擊速度就越快。有了2件近乎相同的武器。"
     },
     {
       "type": "text",
-      "text": "you will be able to attack faster than with just one of them. Weapons cannot be swung at the same time, as this tends to throw you off balance. To dual wield, simply place a weapon in both hands, and repeatedly attack. The hand you are using will alternate automatically with each swing as long as you are holding both weapons (a rather curious phenomenon). Most enchantments will work when dual wielding, though some may become confused by the use of your off hand."
+      "text": "你將能夠比只用其中一把武器更快地進行攻擊。兩把武器不能同時揮舞，因為這會使你失去平衡。要想雙持武器，只需將武器放在兩隻手上並反覆攻擊。只要你拿著兩把武器，每次揮舞時你使用的手會自動交替（這是一個相當奇怪的現象）。大多數附魔在雙持時都能發揮作用，儘管有些附魔可能會因為使用你的另一隻手而變得混亂。"
     }
   ]
 }
