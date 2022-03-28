@@ -1,23 +1,23 @@
 {
-  "name": "Dodging",
+  "name": "閃避",
   "icon": "minecraft:rabbit_foot",
   "category": "parrying:mechanics",
   "pages": [
     {
       "type": "text",
-      "text": "The rabbit is among the most successful of the plant eating animals. Many attribute this to its adaptability, or its quite frankly ridiculous breeding habits. However, one of the biggest contributors to the success of the rabbit is its agility. $(br2) In combat, you must be like the rabbit, ready to dodge at a moment's notice."
+      "text": "兔子是草食動物中最成功的一種。許多人把這歸功於它的適應性，或者坦率地說是因為它可笑的繁殖習慣。然而，兔子成功的最大因素之一是它的敏捷性。 $(br2) 在戰鬥中，你必須像兔子一樣，隨時準備閃避。"
     },
     {
       "type": "text",
-      "text": "To dodge, one must perform the action of sprinting, but in a different direction. One can do so to the left, right or back. This may take practice to get right, but once mastered, the dodge offers an unparalleled increase in agility. $(br2) Dodging in melee can be a useful way to circumvent the parry of an opponent, or to move out of reach to eat a snack. In ranged combat, a good dodge can save you from an unwanted arrow to the face."
+      "text": "要閃避，必須進行衝刺的動作，但方向不同。可以向左、向右或向後做。這可能需要練習才能掌握，但一旦掌握了，閃避就會提高無與倫比的敏捷性。 $(br2) 近戰中的閃避是一種有用的方式，可以繞過對手的招架，或者移動到對手碰不到的地方去吃點心。在遠程戰鬥中，一個好的閃避可以使你免於被箭矢射中臉部。"
     },
     {
       "type": "text",
-      "text": "Dodging requires a good amount of freedom of movement to pull off. Heavy armors, while excellent at providing protection from being knocked back, can hinder one's ability to dodge substantially. Thus, one must decide whether they prefer to to be like the rabbit, dodging every blow but tiring quickly, or the tortoise, taking hits and surviving long enough to win. Many will tell you that the tortoise is the better option, "
+      "text": "躲避需要大量的靈活性才能完成。重型盔甲雖然在提供保護以免被擊退方面很出色，但會大大妨礙一個人的躲避能力。因此，人們必須決定他們是喜歡像兔子一樣，躲避每一次打擊，但很快就會疲憊不堪，還是喜歡像烏龜一樣，承受打擊並存活足夠長的時間以獲得勝利。許多人會告訴你，烏龜是更好的選擇。 "
     },
     {
       "type": "text",
-      "text": "but if the rabbit has a strong enough bite, he can end the fight well before he tires. It is up to you to decide your strategy. $(br2) Speaking of rabbits, potions made from their feet are an excellent way to increase one's jumping abilities. When dodging, one can benefit from this fact. A Potion of Leaping can increase the distance one can dodge by an appreciable distance."
+      "text": "但如果兔子有足夠強的咬合力，它可以在疲憊之前很好地結束戰鬥。你的策略由你決定。 $(br2) 說到兔子，用牠們的腳製成的藥水是增加人的跳躍能力的絕佳方法。在躲避時，人們可以從這一事實中獲益。跳躍藥水可以使人的躲避距離增加不少。"
     }
   ]
 }
