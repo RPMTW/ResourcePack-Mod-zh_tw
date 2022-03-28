@@ -1,15 +1,15 @@
 {
-  "name": "The Blood Gem",
+  "name": "血之寶石",
   "icon": "tomeofblood:blood_gem",
   "category": "equipment",
   "pages": [
     {
       "type": "text",
-      "text": "Blood Gems are the pinnacle of a mage's casting.  To use one, a player must have a Soul Network full of LP.  They then enscribe a spell on a Scribe's Table, starting with the form.  "
+      "text": "血之寶石是法師施法的巔峰之作。要使用它，玩家必須有一個充滿LP的靈魂網路。然後在抄寫台上寫下一個法術，從形態開始。"
     },
     {
       "type": "text",
-      "text": "Any further enscribings add that spell to the end of the enscribed spell, and it's in this way that a mage may ascend beyond the previous limits of their magic."
+      "text": "任何進一步的刻印都會將該法術添加到刻印法術的末尾，正是透過這種方式，法師可以提升到超越其先前法術的極限。"
     }
   ]
 }
