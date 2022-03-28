@@ -13,9 +13,9 @@
     "enchantment.parrying.bashing": "猛擊",
     "enchantment.parrying.bashing.desc": "增加盾擊可以擊中的目標數量。",
     "enchantment.parrying.phasing": "抵銷詛咒",
-    "enchantment.parrying.phasing.desc": "導致格擋有機率失敗。",
+    "enchantment.parrying.phasing.desc": "導致招架有機率失敗。",
     "enchantment.parrying.fragile": "脆弱詛咒",
-    "enchantment.parrying.fragile.desc": "使格擋會大量耗損耐久度。",
+    "enchantment.parrying.fragile.desc": "使招架會大量耗損耐久度。",
     "attribute.name.parrying.armor_pen": "護甲穿透",
     "attribute.name.parrying.shield_pen": "盾牌無視",
     "attribute.name.parrying.inv_reduction": "減少無敵時間",
@@ -61,7 +61,7 @@
     "death.attack.dagger": "%1$s 被投擲的匕首殺死了",
     "death.attack.dagger.player": "%1$s 被 %2$s 投擲的匕首殺死了",
     "key.parrying.dodge": "閃避",
-    "stat.parrying.parry": "格擋數",
+    "stat.parrying.parry": "招架數",
     "advancements.parrying.campfire_light": "烽火台亮了！",
     "advancements.parrying.campfire_light.desc": "透過射箭點燃營火"
 }
