@@ -1,15 +1,15 @@
 {
-  "name": "Maces",
+  "name": "釘頭鎚",
   "icon": "parrying:iron_mace",
   "category": "parrying:weapons",
   "pages": [
     {
       "type": "text",
-      "text": "The mace is a fairly inelegant weapon. It consists of a heavy weight, often with added spikes, on the end of a stick. Really, its basically little more than a club. $(br2) That said, it is impossible to deny the efficacy of the mace. Its heavy impact allows it to penetrate armor to a limited degree, meaning that it is highly effective against armored foes."
+      "text": "釘頭鎚是一種相當不優雅的武器。它由一個重物組成，通常在棍子的末端加上尖刺。真的，它基本上只是一根棍子而已。雖然如此，但不可能否認釘頭鎚的功效。 $(br2) 沉重的衝擊力使它能在有限的程度上穿透盔甲，這意味著它對穿盔甲的敵人非常有效。"
     },
     {
       "type": "text",
-      "text": "In terms of raw damage, the mace is similar to the sword. However, its extra weight reduces its effective speed, balancing its anti-armor potential. As such, the mace is best used against armored targets, with the effect becoming more pronounced as the level of armor increases."
+      "text": "就原始傷害而言，釘頭鎚與劍相似。然而，它的額外重量降低了揮動速度，且增加了它的反裝甲能力。因此，釘頭鎚最好用來對付裝甲目標，隨著裝甲值的提高，效果會更加明顯。"
     }
   ]
 }
