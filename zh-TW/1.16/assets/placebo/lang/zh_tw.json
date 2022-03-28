@@ -2,7 +2,7 @@
     "key.categories.placebo": "安慰劑",
     "placebo.toggleTrails": "切換贊助者路徑",
     "placebo.toggleWings": "切換贊助者翅膀",
-    "placebo.cmd.serialize_success": "Saved %s to %s.",
-    "placebo.cmd.serialize_failure": "An error occured during the serialization process.",
-    "placebo.cmd.not_found": "%s was not found."
+    "placebo.cmd.serialize_success": "已保存 %s 至 %s 。",
+    "placebo.cmd.serialize_failure": "序列化過程中發生了錯誤。",
+    "placebo.cmd.not_found": "未找到 %s 。"
 }
