@@ -1,15 +1,15 @@
 {
-  "name": "Bashing",
+  "name": "猛擊",
   "icon": "minecraft:enchanted_book",
   "category": "parrying:enchantments",
   "pages": [
     {
       "type": "text",
-      "text": "This unique enchantment is very useful for any shield user. It optimizes the impact of the shield against a target, allowing it to bash more targets with the same attack. Legends say that at high levels this enchantment allows for up to 6 targets to be bashed at a time!"
+      "text": "這種獨特的附魔對任何盾牌使用者都非常有用。它優化了盾牌影響的目標，允許它用相同的攻擊擊中更多目標。傳說中，在高等級下，這種附魔允許一次最多攻擊6個目標！"
     },
     {
       "type": "text",
-      "text": "A somewhat less useful side effect, the enchantment also optimizes vibrations in the shield, making it more comfortable to wield."
+      "text": "一個不太有用的次要效果，附魔還優化了盾牌中的振動，使其能更舒適地揮舞。"
     }
   ]
 }
