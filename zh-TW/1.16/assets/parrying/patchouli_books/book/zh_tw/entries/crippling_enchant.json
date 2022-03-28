@@ -1,11 +1,11 @@
 {
-  "name": "Crippling",
+  "name": "重創",
   "icon": "minecraft:enchanted_book",
   "category": "parrying:enchantments",
   "pages": [
     {
       "type": "text",
-      "text": "This brutal enchantment focuses kinetic energy onto the bones of your targets, bruising and breaking them. This has a considerable slowing effect on your target. Take note that this enchantment is somewhat random, with both the chance and duration of your effect varying. In general, longer lasting debilitation has a lower chance to occur."
+      "text": "這個殘酷的附魔將動能集中在目標的骨頭上，使他們受傷和骨折。這對你的目標有相當大的緩速效果。請注意，附魔的效果是隨機的，效果的機率和持續時間都不同。一般來說，持續時間較長的緩速發生的機率較低。"
     }
   ]
 }
