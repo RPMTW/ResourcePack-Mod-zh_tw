@@ -1,15 +1,15 @@
 {
-  "name": "Tomes of Blood",
+  "name": "血之寶典",
   "icon": "tomeofblood:blood_tome_three",
   "category": "equipment",
   "pages": [
     {
       "type": "text",
-      "text": "The discerning wizard may crave a new source of raw power for their spells.  For those learned in the art of Blood Magic, new options arise.  As you cast spells with the Tomes of Blood, it draws directly from your Soul Network in lieu of your mana pool."
+      "text": "敏銳的巫師可能渴望為他們的法術提供新的原始力量來源。對於那些精通血魔法的人來說，新的選擇出現了。當你用血之寶典施法時，它會直接抽取你的靈魂網路，而不是抽取法力池。"
     },
     {
       "type": "text",
-      "text": "Be careful, the recipe has no way of transferring NBT data currently, so your spells will be wiped on conversion, and on each upgrade."
+      "text": "注意，血魔法合成配方目前無法傳輸NBT資料，因此你的法術與魔符將在轉換時和每次升級時被清除。"
     }
   ]
 }
