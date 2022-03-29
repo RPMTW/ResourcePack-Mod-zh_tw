@@ -819,5 +819,7 @@
     "item.occultism.ritual_dummy.familiar_beaver.tooltip": "The Beaver familiar provides increased woodcutting speed to their masters and harvests nearby trees when they grow from a sapling.",
     "block.occultism.spirit_wall_torch": "Spirit Torch",
     "item.occultism.ritual_dummy.custom_ritual": "Custom Ritual Dummy",
-    "item.occultism.ritual_dummy.custom_ritual.tooltip": "Used for modpacks as a fallback for custom rituals that do not have their own ritual item."
+    "item.occultism.ritual_dummy.custom_ritual.tooltip": "Used for modpacks as a fallback for custom rituals that do not have their own ritual item.",
+    "item.occultism.book_of_calling.message_set_managed_machine_extract_location": "%s will now extract from %s from the side: %s",
+    "item.occultism.book_of_calling.message_no_managed_machine": "Set a managed machine before setting an extract location %s"
 }

@@ -38,5 +38,11 @@
     "text.autoconfig.ae2wtlib.option.enableTrinket.@Tooltip[1]": "It is only effective if Trinkets is installed.",
     "gui.ae2wtlib.slot.infinity_booster_card.desc": "Infinity Booster Card",
     "gui.ae2wtlib.slot.magnetcard.desc": "Magnet Card",
-    "text.autoconfig.ae2wtlib.option.wutBatterySizeMultiplier": "Wireless Universal Terminal Battery Size Multiplier"
+    "text.autoconfig.ae2wtlib.option.wutBatterySizeMultiplier": "Wireless Universal Terminal Battery Size Multiplier",
+    "text.autoconfig.de/mari_023/ae2wtlib.title": "AE2 Wireless Terminals",
+    "text.autoconfig.de/mari_023/ae2wtlib.option.outOfRangePowerMultiplier": "Out of Range Power Multiplier",
+    "text.autoconfig.de/mari_023/ae2wtlib.option.magnetCardRange": "Magnet Card Range",
+    "text.autoconfig.de/mari_023/ae2wtlib.option.enableTrinket": "Enable Trinkets Integration",
+    "text.autoconfig.de/mari_023/ae2wtlib.option.outOfRangePowerMultiplier.@Tooltip": "If this is lower than 1, being in range of a Wireless Access Point would use more power in some cases.",
+    "text.autoconfig.de/mari_023/ae2wtlib.option.magnetCardRange.@Tooltip": ""
 }
