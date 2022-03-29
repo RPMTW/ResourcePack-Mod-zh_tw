@@ -544,7 +544,7 @@
     "item.tconstruct.kama.description": "短刃鐮是一種精準型收割工具，可同時用於作物收割與畜毛剃取。\n右擊：收穫並補種作物",
     "item.tconstruct.scythe.description": "鐮刀是一種範圍型收割工具，能單次收割一整片區域內的植物。\n右擊：收穫並補種作物",
     "item.tconstruct.sword.description": "劍是一種泛用型武器，其橫掃攻擊能阻截成群結隊的敵人。\n還能高效清理蜘蛛網！",
-    "item.tconstruct.cleaver.description": "每一位冶煉術大師必備的武器——劈刀。再堅韌的鱗甲也難以在這寬闊的刀刃不傷分毫。",
+    "item.tconstruct.cleaver.description": "The Cleaver is a weapon for a smeltery master. High range attacks keep cut through the toughest of foes.",
     "block.tconstruct.tank.fluid": "液體儲量：%s",
     "block.tconstruct.tank.mb": "%d mB",
     "block.tconstruct.tank.ingots": "%d錠",
@@ -2114,5 +2114,17 @@
     "modifier.tconstruct.dyed": "Dyed",
     "modifier.tconstruct.dyed.formatted": "Dyed #%s",
     "modifier.tconstruct.dyed.flavor": "Redecorate!",
-    "modifier.tconstruct.dyed.description": "Armor appearance changed to match a different material"
+    "modifier.tconstruct.dyed.description": "Armor appearance changed to match a different material",
+    "material.tconstruct.darkthread": "Darkthread",
+    "material.tconstruct.darkthread.flavor": "Come to the dark side, we have sowing",
+    "material.tconstruct.darkthread.encyclopedia": "Increases drop chances from mobs, stacking with luck",
+    "material.tconstruct.ancient_hide": "Ancient Hide",
+    "material.tconstruct.ancient_hide.flavor": "Leather tanned by the oldest of stone",
+    "material.tconstruct.ancient_hide.encyclopedia": "Increases drop chances from blocks, stacking with luck",
+    "material.tconstruct.obsidian": "Obsidian",
+    "material.tconstruct.debris": "Debris",
+    "material.tconstruct.clay": "Clay",
+    "material.tconstruct.honey": "Honey",
+    "key.categories.tconstruct": "Tinkers' Construct",
+    "modifier.tconstruct.temperate.mining_speed": "Temperate Speed"
 }
