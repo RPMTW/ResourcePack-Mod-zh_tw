@@ -2495,5 +2495,8 @@
     "com.minecolonies.coremod.gui.home.new": "Works %d blocks from here",
     "com.minecolonies.research.effects.blockhutnetherworker.description": "Unlocks Nether Mine",
     "com.minecolonies.research.technology.opennether.name": "Open the Nether",
-    "com.minecolonies.research.technology.opennether.subtitle": "It's a dangerous job, but it must be done!"
+    "com.minecolonies.research.technology.opennether.subtitle": "It's a dangerous job, but it must be done!",
+    "com.minecolonies.coremod.item.scroll.wrong_building": "Cannot link resource scroll to %s at %s",
+    "com.minecolonies.coremod.gui.showemployed": "Show employed?",
+    "com.minecolonies.coremod.jei.loottableid": "Loot Table: %s"
 }
