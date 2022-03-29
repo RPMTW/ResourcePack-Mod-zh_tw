@@ -92,5 +92,15 @@
     "msg.linker.error.firstMachine": "你必須從這台機器開始連接！",
     "msg.linker.program": "已為連接器編入坐標",
     "msg.linker.success": "成功連接",
-    "machine.tooltip.multiblock": "（多方塊機器）"
+    "machine.tooltip.multiblock": "（多方塊機器）",
+    "itemGroup.libvulpesmaterials": "LibVulpes Materials",
+    "block.libvulpes.machinestructure": "Machine Structure",
+    "block.libvulpes.advancedmachinestructure": "Advanced Machine Structure",
+    "item.libvulpes.rodiron": "Iron Rod",
+    "item.libvulpes.rodcopper": "Copper Rod",
+    "item.libvulpes.rodsteel": "Steel Rod",
+    "item.libvulpes.rodtitanium": "Titanium Rod",
+    "item.libvulpes.rodiridium": "Iridium Rod",
+    "item.libvulpes.battery": "Small Battery",
+    "item.libvulpes.batterypack": "Small Battery Pack"
 }
