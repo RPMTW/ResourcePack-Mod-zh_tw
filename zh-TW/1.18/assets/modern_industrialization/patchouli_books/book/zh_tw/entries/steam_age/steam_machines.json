@@ -20,7 +20,7 @@
     {
       "type": "crafting",
       "recipe": "modern_industrialization:steam_age/bronze/macerator_asbl",
-      "text": "研磨機可將 2 塊礦物碎粉研磨為 3 個礦粉。相當於三倍的礦產出！它還可以將各種材料變成礦粉來回收利用。"
+      "text": "The Macerator will turn 3 crushed dusts/raw ores into 4.5 dusts. Ore hemiquadrupling for the win! It can also recycle all kinds of materials by turning them into dust."
     },
     {
       "type": "crafting",
@@ -34,7 +34,7 @@
     },
     {
       "type": "text",
-      "text": "蒸汽機將接受來自任何一方的輸入，無論是物品、蒸汽還是其他流體。$(br2)您可以按一下介面中的鎖來鎖定他們的欄位。鎖定的欄位只接受一種類型的物品或流體。$(br2)每台機器都有一個輸出端，您可以從介面啟用自動輸出。當然，漏斗、管道和其他自動化裝置可以從任何一側提取輸出物品。"
+      "text": "Steam machines will accept inputs from any side, be it items, steam or another fluid.$(br2)You can lock their slots by clicking on the lock in the interface. Locked slots only accept one type of item or fluid.$(br2)Every machine has an output side, and you can enable auto-output from the interface. Hoppers, pipes and other automation can extract output items from any side, of course. You can also reduce the maximum number of items in a slot by scrolling."
     },
     {
       "type": "crafting",
