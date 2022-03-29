@@ -5,7 +5,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "首先你需要用鍛造台錘鍊銅和錫粒為小堆礦粉。$(br2)用（小堆）銅和錫粉可製作（小堆）青銅粉。$(br2)請記住9個小堆礦粉等於1個礦粉。"
+      "text": "First, you need to make copper and tin (tiny) dusts by hammering copper and tin ingots (nuggets) in the forge hammer. You can then combine copper and tin (tiny) dusts to make bronze (tiny) dust. This process is more efficient in a $(l:modern_industrialization:steam_age/steam_machines)Mixer$().$(br2)Always remember that 9 tiny dusts are one dust."
     },
     {
       "type": "crafting",
