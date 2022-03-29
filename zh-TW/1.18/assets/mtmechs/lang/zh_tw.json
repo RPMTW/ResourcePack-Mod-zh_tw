@@ -42,5 +42,7 @@
     "key.categories.mtmechs": "Magitek Mechs",
     "subtitles.mtmechs.beamheld": "*Vzzsh*",
     "subtitles.mtmechs.mechon": "*Powering On*",
-    "subtitles.mtmechs.mechoff": "*Powering Off*"
+    "subtitles.mtmechs.mechoff": "*Powering Off*",
+    "gamerule.paInfiniteEnergy": "Charge PA infinitely instead of using batteries.",
+    "itemGroup.mtmechs": "Magitek Mechs"
 }
