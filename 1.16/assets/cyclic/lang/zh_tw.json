@@ -211,7 +211,7 @@
     "cyclic.screen.size9": "19x19",
     "cyclic.screen.size10": "21x21",
     "cyclic.screen.size11": "23x23",
-    "cyclic.screen.size12": "23x23",
+    "cyclic.screen.size12": "25x25",
     "cyclic.screen.filter.true": "Ignore List",
     "cyclic.screen.filter.false": "Allow List",
     "cyclic.screen.filter.item.count": "Count: ",
@@ -1627,5 +1627,6 @@
     "block.cyclic.mason_iron.guide": "Mason blocks are a decorative block and a crafting ingredient for various machines.",
     "block.cyclic.mason_steel.guide": "Mason blocks are a decorative block and a crafting ingredient for various machines.",
     "block.cyclic.mason_plate.guide": "Mason blocks are a decorative block and a crafting ingredient for various machines.",
-    "block.cyclic.user.hand": "Use Left Hand"
+    "block.cyclic.user.hand": "Use Left Hand",
+    "buildertype.tunnel": "Tunnel"
 }

@@ -544,7 +544,7 @@
     "item.tconstruct.kama.description": "The Kama is a precision reaping tool, mowing down plants and shearing animals.\nRight Click: Harvest and replant crops",
     "item.tconstruct.scythe.description": "The Scythe is a broad reaping tool, mowing down plants in a wide area.\nRight Click: Harvest and replant crops",
     "item.tconstruct.sword.description": "The Sword is a universal weapon. Sweep attacks keep enemy hordes at bay.\nAlso good against cobwebs!",
-    "item.tconstruct.cleaver.description": "The Cleaver is a weapon for a smeltery master. High range attacks keep cut though the toughest of foes.",
+    "item.tconstruct.cleaver.description": "The Cleaver is a weapon for a smeltery master. High range attacks keep cut through the toughest of foes.",
     "block.tconstruct.tank.fluid": "Liquid %s",
     "block.tconstruct.tank.mb": "%d mb",
     "block.tconstruct.tank.ingots": "%d ingots",
@@ -2114,5 +2114,17 @@
     "modifier.tconstruct.dyed": "Dyed",
     "modifier.tconstruct.dyed.formatted": "Dyed #%s",
     "modifier.tconstruct.dyed.flavor": "Redecorate!",
-    "modifier.tconstruct.dyed.description": "Armor appearance changed to match a different material"
+    "modifier.tconstruct.dyed.description": "Armor appearance changed to match a different material",
+    "material.tconstruct.darkthread": "Darkthread",
+    "material.tconstruct.darkthread.flavor": "Come to the dark side, we have sowing",
+    "material.tconstruct.darkthread.encyclopedia": "Increases drop chances from mobs, stacking with luck",
+    "material.tconstruct.ancient_hide": "Ancient Hide",
+    "material.tconstruct.ancient_hide.flavor": "Leather tanned by the oldest of stone",
+    "material.tconstruct.ancient_hide.encyclopedia": "Increases drop chances from blocks, stacking with luck",
+    "material.tconstruct.obsidian": "Obsidian",
+    "material.tconstruct.debris": "Debris",
+    "material.tconstruct.clay": "Clay",
+    "material.tconstruct.honey": "Honey",
+    "key.categories.tconstruct": "Tinkers' Construct",
+    "modifier.tconstruct.temperate.mining_speed": "Temperate Speed"
 }
