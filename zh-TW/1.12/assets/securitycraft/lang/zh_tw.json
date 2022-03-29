@@ -355,7 +355,7 @@
     "help.securitycraft:portableRadar.info": "只要有玩家在雷達的探測範圍之內（可以在設定檔案中修改）攜帶式雷達將會給它的所有者發送一條聊天訊息。你可以使用命名過的命名牌將攜帶式雷達命名。",
     "help.securitycraft:keypadChest.info": "密碼箱裝備有密碼鎖系統，只有在密碼輸入正確時，儲物箱才能打開。",
     "help.securitycraft:usernameLogger.info": "使用者名記錄器在紅石訊號啟動下，能夠記錄三格內任意玩家的名字。",
-    "help.securitycraft:reinforced.info": "Reinforced blocks are unbreakable building blocks with vanilla equivalents. Only the person who placed them down can destroy them using the universal block remover.",
+    "help.securitycraft:reinforced.info": "被強化方塊是牢不可破的方塊。只有放下它們的人才能使用通用的去除器摧毀它們。",
     "help.securitycraft:alarm.info": "報警器能夠在給予紅石訊號時發出警報聲，警報聲間隔為 2 秒（可在設定檔案中調節）。",
     "help.securitycraft:reinforcedFenceGate.info": "強化鐵柵欄門就行原版的柵欄門一樣，但是無法破壞，且只能被鍵盤，物品欄掃描器等開啟。當互動時能夠傷害除擁有者外的其他人。",
     "help.securitycraft:panicButton.info": "緊急按鈕很像普通按鈕，但是卻和控制桿一樣工作。",
