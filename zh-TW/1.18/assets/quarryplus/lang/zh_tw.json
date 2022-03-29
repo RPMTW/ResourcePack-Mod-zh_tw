@@ -21,7 +21,7 @@
     "block.quarryplus.replacer": "採石場替換器",
     "block.quarryplus.dummy_replacer": "取代虛擬方塊",
     "block.quarryplus.refineryplus": "增強型精煉器",
-    "block.quarryplus.solidquarry": "固體燃料採石場",
+    "block.quarryplus.solidquarry": "Solid Fuel Quarry",
     "block.quarryplus.spawner_controller": "生怪磚控制器",
     "block.quarryplus.adv_pump": "進階泵",
     "block.quarryplus.workbench": "增強型工作台",
@@ -111,7 +111,7 @@
     "gui.silktouchList": "絲綢之觸方塊列表",
     "itemGroup.quarryplus.quarryplus": "增強型採石場",
     "key.hover": "模式切換鍵",
-    "key.yoglib": "增強型採石場",
+    "key.yoglib": "QuarryPlus",
     "nei.handler.qpusage": "增強型採石場機器選項",
     "pp.change": "變化方向",
     "pp.copy": "複製設定",
@@ -180,5 +180,11 @@
     "itemGroup.flexiblemarker": "柔性標記",
     "gui.left": "左",
     "gui.forward": "向前",
-    "gui.right": "右"
+    "gui.right": "右",
+    "block.quarryplus.filler": "Filler",
+    "block.quarryplus.solid_fuel_quarry": "Solid Fuel Quarry",
+    "item.quarryplus.filler_module": "Filler Module",
+    "quarryplus.chat.bedrock_module_description": "Install this to a machine to remove Bedrock.",
+    "itemGroup.quarryplus": "QuarryPlus",
+    "quarryplus.tooltip.item_disable_message": "DISABLED. Please enable it in config."
 }
