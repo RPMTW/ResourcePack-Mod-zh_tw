@@ -121,5 +121,7 @@
     "simplylight.shift": "按住<%s>了解更多資訊。",
     "block.simplylight.lamp_post": "Illuminant Column",
     "block.simplylight.lamp_post.info": "3 Block tall lamp post.",
-    "block.simplylight.lamp_post.info2": "Top block emits light."
+    "block.simplylight.lamp_post.info2": "Top block emits light.",
+    "block.simplylight.edge_light.jei.info": "Will morph depending on the blocks present around itself on placement.\nShape will persist afterward, letting you make shapes using temporary blocks.",
+    "block.simplylight.edge_light_top.jei.info": "Will morph depending on the blocks present around itself on placement.\nShape will persist afterward, letting you make shapes using temporary blocks."
 }
