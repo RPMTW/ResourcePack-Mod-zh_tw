@@ -626,11 +626,11 @@
     "multiblock.validation.fluidizer.invalid_frame_block": "Only Casing may be used as part of a Fluidizer's frame",
     "multiblock.validation.fluidizer.invalid_part_for_interior": "This part may not be placed in the Fluidizer's interior",
     "multiblock.validation.fluidizer.invalid_block": "%1$s is not valid block for the Fluidizer",
-    "config.bigreactors.fluidizer.maxfluidizerheight": "Max height (Y)",
-    "config.bigreactors.fluidizer.maxfluidizersize": "Max size (X/Z)",
+    "config.bigreactors.fluidizer.maxfluidizerheight": "最大高度 (Y)",
+    "config.bigreactors.fluidizer.maxfluidizersize": "最大尺寸 (X/Z)",
     "config.bigreactors.fluidizer.energyperrecipetick": "Energy per recipe tick",
     "compat.bigreactors.jei.common.recipecategory.energy.tooltip.title": "Energy",
-    "compat.bigreactors.jei.fluidizer.recipecategory.solid.title": "Fluidizer - Solid to Fluid",
-    "compat.bigreactors.jei.fluidizer.recipecategory.solidmixing.title": "Fluidizer - Solid mixing",
-    "compat.bigreactors.jei.fluidizer.recipecategory.fluidmixing.title": "Fluidizer - Fluid mixing"
+    "compat.bigreactors.jei.fluidizer.recipecategory.solid.title": "流化器 - 固體到流體",
+    "compat.bigreactors.jei.fluidizer.recipecategory.solidmixing.title": "流化器 - 固體混合",
+    "compat.bigreactors.jei.fluidizer.recipecategory.fluidmixing.title": "流化器 - 流體混合"
 }
