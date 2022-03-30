@@ -202,13 +202,13 @@
     "effect.createaddition.shocking": "觸電",
     "block.createaddition.overcharged_casing": "Overcharged Casing",
     "block.createaddition.tesla_coil": "特斯拉線圈",
-    "createaddition.ponder.tesla_coil.header": "Using a Tesla Coil to charge Items",
-    "createaddition.ponder.tesla_coil.text_1": "The Tesla Coil will charge Items below it",
-    "createaddition.ponder.tesla_coil.text_2": "It will charge any Forge Energy Items and more!",
-    "createaddition.ponder.tesla_coil_hurt.header": "Dangerous Tesla Coils",
-    "createaddition.ponder.tesla_coil_hurt.text_1": "The Tesla Coil is also able to inflict damage on nearby Players and Mobs",
-    "createaddition.ponder.tesla_coil_hurt.text_2": "This can be activated with a Redstone signal",
-    "createaddition.ponder.tesla_coil_hurt.text_3": "Prepare to be Shocked!",
-    "death.attack.tesla_coil": "%1$s received a lethal electric shock",
-    "death.attack.tesla_coil.player": "%1$s received a lethal electric shock while fighting %2$s"
+    "createaddition.ponder.tesla_coil.header": "使用特斯拉線圈為物品充電",
+    "createaddition.ponder.tesla_coil.text_1": "特斯拉線圈將為其下方的物品充電",
+    "createaddition.ponder.tesla_coil.text_2": "他能為任何使用FE能量的物品充電！",
+    "createaddition.ponder.tesla_coil_hurt.header": "危險的特斯拉線圈",
+    "createaddition.ponder.tesla_coil_hurt.text_1": "特斯拉線圈還能夠對附近的玩家和生物造成傷害",
+    "createaddition.ponder.tesla_coil_hurt.text_2": "可以透過紅石信號啟動",
+    "createaddition.ponder.tesla_coil_hurt.text_3": "準備好震驚吧！",
+    "death.attack.tesla_coil": "%1$s 受到致命的電擊",
+    "death.attack.tesla_coil.player": "%1$s 在與 %2$s戰鬥時受到致命的電擊"
 }
