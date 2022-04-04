@@ -124,5 +124,5 @@
     "ironfurnaces.update.buttons": "[{\"text\":\"[\"},{\"text\":\"點擊此處以檢視更新紀錄\",\"color\":\"green\",\"clickEvent\":{\"action\":\"open_url\",\"value\":\"%s\"}},{\"text\":\"] [\",\"color\":\"none\"},{\"text\":\"點擊此處以進行下載\",\"color\":\"green\",\"clickEvent\":{\"action\":\"open_url\",\"value\":\"%s\"}},{\"text\":\"]\",\"color\":\"none\"}]",
     "ironfurnaces.update.buttonOptions": "點擊： 更新紀錄， Shift+點擊： 下載 ！ (於瀏覽器)",
     "ironfurnaces.update.failed": "[{\"text\":\"檢查《\"},{\"text\":\"鐵熔爐\",\"color\":\"dark_green\"},{\"text\":\"》模組的更新失敗 ！ 可從日誌記錄中查看更多資訊 ！\",\"color\":\"none\"}]",
-    "tooltip.ironfurnaces.augment_slot": "Augment Slot"
+    "tooltip.ironfurnaces.augment_slot": "擴充插槽"
 }
