@@ -97,5 +97,12 @@
     "text.autoconfig.conjuring.option.tools_config.pickaxe_secondary_durability_cost": "§bPickaxe §7- §rSecondary Durability Cost",
     "text.autoconfig.conjuring.option.tools_config.pickaxe_secondary_cooldown": "§bPickaxe §7- §rSecondary Cooldown",
     "text.autoconfig.conjuring.option.tools_config.pickaxe_veinmine_max_blocks": "§bPickaxe §7- §rVeinmining Range",
-    "text.autoconfig.conjuring.option.tools_config.shovel_magnet_range": "§dShovel §7- §rMagnet Range"
+    "text.autoconfig.conjuring.option.tools_config.shovel_magnet_range": "§dShovel §7- §rMagnet Range",
+    "item.conjuring.soul_alloy_scythe": "Soul Alloy Scythe",
+    "advancement.conjuring.soul_alloy_scythe.title": "It's A Rotten Banana",
+    "advancement.conjuring.soul_alloy_scythe.description": "You crafted a Soul Alloy Scythe. You obviously make good decisions",
+    "text.autoconfig.conjuring.option.tools_config.scythe_scope_exponent": "§eScythe §7- §rScope Exponent",
+    "text.autoconfig.conjuring.option.tools_config.scythe_secondary_base_durability_cost": "§eScythe §7- §rSecondary Base Durability Cost",
+    "text.autoconfig.conjuring.option.tools_config.scythe_secondary_per_scope_durability_cost": "§eScythe §7- §rSecondary Scope Durability Cost",
+    "text.autoconfig.conjuring.option.tools_config.scythe_secondary_cooldown": "§eScythe §7- §rSecondary Cooldown"
 }
