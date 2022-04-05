@@ -28,16 +28,16 @@ jobs:
           ref: ${{ matrix.ref }}
 
       - name: "更新原始語系檔案"
-        uses: RPMTW/Translation-Scripts@main
+        uses: RPMTW/Translation-Scripts@1.1.1
         with:
           action: "update_lang"
           gameVersion: ${{ matrix.gameVersion }}
 
       - name: "拉取變更"
         run: git pull
-        
+
       - name: "推送變更"
-        env: 
+        env:
           version: ${{ matrix.gameVersion }}
         run: |
           git config --global user.name "RPMTW BOT"

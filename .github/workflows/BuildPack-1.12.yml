@@ -18,7 +18,7 @@ jobs:
           ref: Translated-1.12
 
       - name: "將 Json 轉換為 Lang"
-        uses: RPMTW/Translation-Scripts@main
+        uses: RPMTW/Translation-Scripts@1.1.1
         with:
           action: "json_to_lang"
           gameVersion: "1.12"

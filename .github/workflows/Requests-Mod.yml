@@ -26,7 +26,7 @@ jobs:
           ref: ${{ github.event.inputs.ref }}
 
       - name: "下載模組的語系檔案"
-        uses: RPMTW/Translation-Scripts@main
+        uses: RPMTW/Translation-Scripts@1.1.1
         with:
           action: "download_mod"
           args: ${{ github.event.inputs.curseForgeID }}
