@@ -1,5 +1,5 @@
 {
-    "name": "Scavenger",
+    "name": "拾荒者",
     "icon": "minecraft:enchanted_book",
     "category": "apotheosis:enchanting/enchantments",
     "flag": "apotheosis:enchanting",
@@ -7,11 +7,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(2)Scavenger$() is a Masterwork enchantment for swords.$(p)It gives a 2.5% chance per level to roll loot drops twice when you kill a mob.$(p)When successful, it will be as if you had just killed two of the same entity."
+            "text": "$(2)拾荒者$()是劍的極品附魔。$(p)每級有 2.5% 的機率在你殺死一個生物時計算兩次戰利品。$(p)成功後，效果就像你剛殺死了兩隻同一個實體一樣。"
         },
         {
             "type": "patchouli:text",
-            "text": "This enchantment works on all entities, including bosses like $(8)Withers$().$(p)It also stacks with $(9)Looting$()."
+            "text": "這個附魔適用於所有實體，包括像$(8)凋零$()這樣的 Boss。$(p)它還可以和$(9)掠奪$()疊加。"
         }
     ]
 }
