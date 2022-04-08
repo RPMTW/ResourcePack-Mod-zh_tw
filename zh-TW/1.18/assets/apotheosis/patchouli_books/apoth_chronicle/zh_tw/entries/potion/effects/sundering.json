@@ -1,5 +1,5 @@
 {
-    "name": "Sundering",
+    "name": "破甲",
     "icon": "apotheosis:textures/mob_effect/sundering.png",
     "category": "apotheosis:potion/effects",
     "flag": "apotheosis:potion",
@@ -7,11 +7,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "The Potion of $(c)Sundering$() is a negative effect.$(p)While under its effects, all damage received is increased by 20% per level."
+            "text": "$(c)破甲$()是一種負面效果。$(p)使所有受到的傷害每級增加 20%。"
         },
         {
             "type": "patchouli:text",
-            "text": "It serves as a direct counter to resistance, and is additive with resistance.$(p)If you had Sundering II and Resistance II, you would take normal damage."
+            "text": "破甲作為抗性的相反效果，能和抗性互相抵銷。$(p)如果你有破甲 II和抗性 II，你會受到正常的傷害。"
         }
     ]
 }
