@@ -1,5 +1,5 @@
 {
-    "name": "Enchantment Types",
+    "name": "附魔類型",
     "icon": "minecraft:emerald",
     "category": "apotheosis:enchanting/enchantments",
     "flag": "apotheosis:enchanting",
@@ -7,22 +7,22 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "You may notice that some enchantments have different colored names.$(p)This is because Apotheosis introduces three new sub-categories of enchantments.$(p)Each sub-category has a a few rules imposed on them."
+            "text": "你可能會注意到，有些附魔有不同的顏色名稱。$(p)這是因為神化引入了三個新的附魔子類別。$(p)每個子類別都有一些強制規則。"
         },
         {
             "type": "patchouli:text",
-            "title": "Masterwork",
-            "text": "$(2)Masterwork$() enchantments represent the strongest and rarest enchantments.$(p)They always require at least 55 $(fpower) to receive."
+            "title": "極品",
+            "text": "$(2)極品$() 附魔代表最強和最稀有的附魔。$(p)需要至少 55 $(fpower)才能獲得。"
         },
         {
             "type": "patchouli:text",
-            "title": "Twisted",
-            "text": "$(5)Twisted$() enchantments always have one good and one bad effect.$(p)They always require at least 45 $(fpower) to receive."
+            "title": "扭曲",
+            "text": "$(5)扭曲$()附魔同時具有正面和負面效果。$(p)需要至少 45 $(fpower) 才能獲得。"
         },
         {
             "type": "patchouli:text",
-            "title": "Corrupted",
-            "text": "$(4)Corrupted$() enchantments have a health cost associated with their effect.$(p)They always require at least 65 $(fpower) to receive.$(p)They are considered to be $(c)curses$()."
+            "title": "腐化",
+            "text": "$(4)腐化$()附魔的的效果通常需要付出生命值的代價。$(p)需要至少 65 $(fpower) 才能獲得。$(p)它們被認為是$(c)詛咒附魔$()。"
         }
     ]
 }
