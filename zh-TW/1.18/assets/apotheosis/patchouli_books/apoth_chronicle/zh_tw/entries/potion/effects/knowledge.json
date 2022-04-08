@@ -7,11 +7,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "The Potion of $(9)Ancient Knowledge$() is a beneficial effect.$(p)While under its effects, any experience generated from mobs you kill is multiplied."
+            "text": "古代知識$(9)藥水$()是一種有益的效果。$(p)你殺死的生物產生的任何經驗都會成倍增加。"
         },
         {
             "type": "patchouli:text",
-            "text": "At Level I, it quadruples experience drops.$(p)At Level II, it multiplies them by 8."
+            "text": "在I級，經驗值會翻 2 倍。$(p)在II級，經驗值會翻 8 倍。"
         }
     ]
 }
