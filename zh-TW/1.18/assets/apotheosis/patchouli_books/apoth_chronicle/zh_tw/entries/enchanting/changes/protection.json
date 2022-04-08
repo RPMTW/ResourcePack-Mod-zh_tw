@@ -7,11 +7,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(9)Protection$() is no longer exclusive with the subtypes of protection.$(p)This means you can now have $(9)Protection$() and one other defensive enchantment that is normally exclusive."
+            "text": "$(9)保護$()不再排斥保護的子類型附魔。$(p)這意味著現在可以擁有$(9)保護$()和另一種通常會排斥的防禦附魔。"
         },
         {
             "type": "patchouli:text",
-            "text": "Additionally, the max effective protection points has been raised from 20 to 65.$(p)Protection points past 20 are less effective, and points past 65 have no effect."
+            "text": "此外，最大有效保護點已從 20 提高到 65。$(p) 超過 20 的保護點效果較差，超過 65 的保護點無效。"
         }
     ]
 }
