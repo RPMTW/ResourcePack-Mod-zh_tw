@@ -1,6 +1,6 @@
 {
-    "name": "Anvils",
-    "description": "This section details all changes to the anvil.$(p)Anvils are now enchantable, have no level limits, and can be repaired (in an anvil) with Iron Blocks.",
+    "name": "鐵砧",
+    "description": "本節詳細介紹了對鐵砧的所有更改。$(p)鐵砧現在可以附魔、沒有等級限制，且可以在鐵砧中用鐵方塊修復。",
     "icon": "minecraft:anvil",
     "flag": "apotheosis:enchanting",
     "parent": "apotheosis:enchanting/enchanting"
