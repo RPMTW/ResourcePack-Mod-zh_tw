@@ -1,5 +1,5 @@
 {
-    "name": "Life Mending",
+    "name": "生命修補",
     "icon": "minecraft:enchanted_book",
     "category": "apotheosis:enchanting/enchantments",
     "flag": "apotheosis:enchanting",
@@ -7,11 +7,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(4)Life Mending$() is a corrupted enchantment applicable to all damageable items.$(p)While $(9)Mending$() converts received experience to durability, $(4)Life Mending$() converts received healing to durability.$(p)The durability per health point increases with level."
+            "text": "$(4)生命修補$()是一種適用於所有具有耐久物品的腐化附魔。$(p)$(9)修補$()將獲得的經驗轉化為耐久，$(4)生命修補$()則是將獲得的治療轉化為耐久。$(p)治療量修復的耐久度隨著附魔等級增加。"
         },
         {
             "type": "patchouli:text",
-            "text": "Additionally, this enchantment can be found in the Enchanting Table."
+            "text": "此外，這個附魔可以在附魔台中獲得。"
         }
     ]
 }
