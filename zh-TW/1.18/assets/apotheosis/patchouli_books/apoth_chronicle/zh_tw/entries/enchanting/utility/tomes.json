@@ -1,17 +1,17 @@
 {
-    "name": "Tomes",
+    "name": "寶典",
     "icon": "apotheosis:other_tome",
     "category": "apotheosis:enchanting/utility",
     "flag": "apotheosis:enchanting",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "Tomes are a special type of Book.$(p)A Tome can be enchanted just like a book, but can only receive specific enchantments.$(p)The exception is the $(l:apotheosis:enchanting/utility/scrapping)Tome of Scrapping$(), which has another purpose."
+            "text": "寶典是一種特殊類型的書。$(p)寶典可以像書一樣被附魔，但只能獲得特定的附魔。$(p)$(l:apotheosis:enchanting/utility/scrapping)分解寶典$()是例外，它用於另外的目的。"
         },
         {
             "type": "patchouli:crafting",
             "recipe": "apotheosis:other_tome",
-            "text": "Once you enchant a tome, it will transform into an enchanted book."
+            "text": "當你附魔了一本寶典，它將變成一本附魔書。"
         },
         {
             "type": "patchouli:crafting",
