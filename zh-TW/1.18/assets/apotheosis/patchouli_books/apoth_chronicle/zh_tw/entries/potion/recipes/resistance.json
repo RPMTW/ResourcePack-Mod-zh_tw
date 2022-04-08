@@ -1,5 +1,5 @@
 {
-    "name": "Resistance",
+    "name": "抗性",
     "icon": "minecraft:textures/mob_effect/resistance.png",
     "category": "apotheosis:potion/recipes",
     "flag": "apotheosis:potion",
@@ -7,13 +7,13 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(9)Resistance$() is a fairly useful effect that has no recipe in vanilla.$(p)Each level gives +20% damage reduction against all sources.$(p)You'll also need it to craft $(l:apotheosis:potion/effects/sundering)Sundering$() potions."
+            "text": "$(9)抗性$()是一個非常有用的效果，在原版中沒有釀造配方。$(p)每個等級減少 +20%受到所有來源的傷害。$(p)你還需要用它來製作$( l:apotheosis:potion/effects/sundering)破甲$()藥水。"
         },
         {
             "type": "patchouli:spotlight",
-            "title": "Brewing Recipe",
+            "title": "釀造配方",
             "item": "minecraft:shulker_shell",
-            "text": "This potion can be crafted with an Awkward Potion and a Shulker Shell.$(p)It can be extended, strengthend, or turned into a splash potion with the usual ingredients."
+            "text": "這種藥水可以用基礎藥水和界伏殼製作。$(p)它可以用通常的成分延長時效、強化或變成噴濺藥水。"
         }
     ]
 }
