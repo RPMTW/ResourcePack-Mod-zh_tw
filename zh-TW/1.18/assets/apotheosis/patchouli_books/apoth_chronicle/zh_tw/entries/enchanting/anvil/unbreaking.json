@@ -1,5 +1,5 @@
 {
-    "name": "Unbreaking",
+    "name": "耐久",
     "icon": "minecraft:enchanted_book",
     "category": "apotheosis:enchanting/anvil",
     "flag": "apotheosis:enchanting",
@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(9)Unbreaking$() can now be applied to Anvils.$(p)Each level of unbreaking reduces the chance of the anvil being damaged when used (or dropped)."
+            "text": "$(9)耐久$()現在可以在鐵砧上使用。$(p)每個等級的耐久都會降低鐵砧在使用（或掉落）時損壞的機率。"
         }
     ]
 }
