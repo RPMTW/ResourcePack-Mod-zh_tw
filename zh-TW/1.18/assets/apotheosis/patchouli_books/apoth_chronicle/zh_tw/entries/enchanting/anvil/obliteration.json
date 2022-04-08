@@ -1,5 +1,5 @@
 {
-    "name": "Obliteration",
+    "name": "分裂",
     "icon": "minecraft:enchanted_book",
     "category": "apotheosis:enchanting/anvil",
     "flag": "apotheosis:enchanting",
@@ -7,11 +7,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(9)Obliteration$() is another brand new anvil exclusive enchantment.$(p)An obliteration anvil can convert a single enchanted book with exactly one enchantment into two enchanted books, each one level lower."
+            "text": "$(9)分裂$() 是另一個全新的鐵砧專屬附魔。$(p)分裂鐵砧可以將一本單一附魔的附魔書，分裂成兩本附魔書，且每本都低一附魔等級。"
         },
         {
             "type": "patchouli:text",
-            "text": "To use an obliteration anvil, throw an enchanted book into the world, and place the anvil so that it lands on top of the book.$(p)A book with Sharpness III that is obliterated would become two books, each with Sharpness II."
+            "text": "要使用分裂鐵砧，將一本附魔書扔到世界上，然後將鐵砧放在書的頂部砸下。$(p)一本帶有鋒利 III 的書被分裂後將變成兩本書，兩本書都有鋒利 II。"
         }
     ]
 }
