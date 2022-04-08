@@ -1,5 +1,5 @@
 {
-    "name": "Sharpness",
+    "name": "鋒利",
     "icon": "minecraft:netherite_sword",
     "category": "apotheosis:enchanting/changes",
     "flag": "apotheosis:enchanting",
@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(9)Sharpness$() is no longer exclusive with other damage enchantments.$(p)This means you can now have $(9)Sharpness$() and one other damage enchantment that is normally exclusive."
+            "text": "$(9)鋒利$()不再排斥其他傷害類型附魔。$(p)這意味著現在可以擁有$(9)鋒利$()和另一種通常會排斥的傷害附魔。"
         }
     ]
 }
