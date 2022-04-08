@@ -1,12 +1,12 @@
 {
-    "name": "Cobwebs",
+    "name": "蜘蛛網",
     "icon": "minecraft:cobweb",
     "category": "apotheosis:enchanting/utility",
     "flag": "apotheosis:enchanting",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "Cobwebs can be combined with an item in an anvil to remove all enchantments.$(p)Prismatic Cobwebs can be combined with an item in an anvil to remove all curses."
+            "text": "蜘蛛網可以在鐵砧中與物品結合以移除所有附魔。$(p)稜柱形蜘蛛網可以在鐵砧中與物品結合以移除所有詛咒附魔。"
         },
         {
             "type": "patchouli:crafting",
