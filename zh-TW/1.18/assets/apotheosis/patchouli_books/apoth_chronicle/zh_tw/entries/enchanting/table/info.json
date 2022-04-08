@@ -1,24 +1,24 @@
 {
-    "name": "The Info Menu",
+    "name": "資訊功能介面",
     "icon": "apotheosis:textures/gui/book/question_mark.png",
     "category": "apotheosis:enchanting/table",
     "flag": "apotheosis:enchanting",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "The enchanting table has a helpful screen to let you learn about what enchantments are available.$(p)To access it, place an item in the enchanting table, and click the question mark in the top right."
+            "text": "附魔台有一個的介面能讓你了解可用的附魔。$(p)請在附魔台上放置一個物品，然後點擊右上角的問號。"
         },
         {
             "type": "patchouli:text",
-            "text": "The purpose of this chapter is to introduce this screen, and help you navigate it.$(p)If you have a full understanding of it, you'll never be confused by enchanting again."
+            "text": "本章的目的是介紹這個介面，幫助你導航它。$(p)如果你對它有充分的了解，你就不會再對附魔困惑了。"
         },
         {
             "type": "patchouli:image",
-            "title": "The Slot Selector",
+            "title": "選項選擇",
             "images": [
                 "apotheosis:textures/gui/book/slot_selector.png"
             ],
-            "text": "This lets you select which enchanting slot to inspect."
+            "text": "在這裡可以選擇要查看的附魔選項。"
         },
         {
             "type": "patchouli:text",
@@ -30,7 +30,7 @@
             "images": [
                 "apotheosis:textures/gui/book/enchantments_window.png"
             ],
-            "text": "This shows you what enchantments are available."
+            "text": "這向你展示了可使用的附魔。"
         },
         {
             "type": "patchouli:text",
