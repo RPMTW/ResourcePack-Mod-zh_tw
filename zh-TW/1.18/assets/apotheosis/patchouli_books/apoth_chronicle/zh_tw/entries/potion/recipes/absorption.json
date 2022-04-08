@@ -1,5 +1,5 @@
 {
-    "name": "Absorption",
+    "name": "吸收",
     "icon": "minecraft:textures/mob_effect/absorption.png",
     "category": "apotheosis:potion/recipes",
     "flag": "apotheosis:potion",
@@ -7,13 +7,13 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(9)Absorption$() is an interesting effect.$(p)Each level grants 2 additional temporary hearts.$(p)However, these hearts don't refresh during the duration, so a $(l:apotheosis:potion/charms/charm)Potion Charm$() is preferrable."
+            "text": "$(9)吸收$()是一個有趣的效果。$(p)每個等級給予 2 顆心的臨時生命值。$(p)但是，這些心在持續時間內不會刷新，所以製成$(l:apotheosis:potion /charms/charm)藥水護符$()是個優秀的選擇。"
         },
         {
             "type": "patchouli:spotlight",
-            "title": "Brewing Recipe",
+            "title": "釀造配方",
             "item": "minecraft:golden_apple",
-            "text": "This potion can be crafted with an Awkward Potion and a Golden Apple.$(p)It can be extended, strengthend, or turned into a splash potion with the usual ingredients."
+            "text": "這種藥水可以用基礎藥水和金蘋果製作。$(p)它可以用通常的成分延長、強化或變成噴濺藥水。"
         }
     ]
 }
