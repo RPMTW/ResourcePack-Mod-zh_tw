@@ -1,5 +1,5 @@
 {
-    "name": "Bleeding",
+    "name": "流血",
     "icon": "apotheosis:textures/mob_effect/bleeding.png",
     "category": "apotheosis:potion/effects",
     "flag": "apotheosis:potion",
@@ -7,11 +7,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(c)Bleeding$() is a negative effect applied by $(l:apotheosis:village/fletching#broadhead)Broadhead Arrows$().$(p)It causes you to take damage every two seconds."
+            "text": "$(c)流血$()是由$(l:apotheosis:village/fletching#broadhead)寬頭箭$()施加的負面效果。$(p)流血會使你每兩秒鐘受到一次傷害。"
         },
         {
             "type": "patchouli:text",
-            "text": "The damage increases with the level of $(c)Bleeding$().$(p)The damage from $(c)Bleeding$() bypasses armor."
+            "text": "傷害隨著$(c)流血$()的等級增加。$(p)$(c)流血$()造成的傷害會無視護甲。"
         }
     ]
 }
