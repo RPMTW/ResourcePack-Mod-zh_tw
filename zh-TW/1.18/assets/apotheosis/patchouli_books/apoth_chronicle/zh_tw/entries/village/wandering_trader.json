@@ -1,5 +1,5 @@
 {
-    "name": "Wandering Trader",
+    "name": "流浪商人",
     "icon": "minecraft:emerald",
     "category": "apotheosis:village/village",
     "flag": "apotheosis:village",
@@ -7,11 +7,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "Have you ever met one of those shady merchants that just appear on your lawn?$(p)Those are called $(9)Wandering Traders$().$(p)Typically they only sell hot garbage."
+            "text": "你有沒有遇到過那些突然出現在你草坪上的黑心商人？$(p)他們被稱為$(9)流浪商人$()。$(p)通常他們只賣些垃圾。"
         },
         {
             "type": "patchouli:text",
-            "text": "However, Apotheosis adds a ton of new trades to their tables so they are actually worth interacting with.$(p)These trades include items like $(9)Beacons$() or $(9)Totems of Undying$(), and heavily enchanted diamond gear."
+            "text": "然而，神化在他們的交易表上增加了大量的新交易，所以他們實際上是值得互動的。$(p)這些交易包括像$(9)烽火台$()或$(9)不死圖騰$()這樣的物品，以及有高級附魔的鑽石裝備。"
         }
     ]
 }
