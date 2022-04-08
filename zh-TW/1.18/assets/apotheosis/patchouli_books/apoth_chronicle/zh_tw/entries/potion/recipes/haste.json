@@ -1,5 +1,5 @@
 {
-    "name": "Haste",
+    "name": "挖掘加速",
     "icon": "minecraft:textures/mob_effect/haste.png",
     "category": "apotheosis:potion/recipes",
     "flag": "apotheosis:potion",
@@ -7,13 +7,13 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(9)Haste$() is another useful effect that has no recipe in vanilla.$(p)Each level gives +20% mining speed."
+            "text": "$(9)挖掘加速$()是另一個有用的正面效果，在原版中沒有釀造配方。$(p)每個等級提供 +20% 的挖掘速度。"
         },
         {
             "type": "patchouli:spotlight",
-            "title": "Brewing Recipe",
+            "title": "釀造配方",
             "item": "minecraft:mushroom_stew",
-            "text": "This potion can be crafted with an Awkward Potion and some Mushroom Stew.$(p)It can be extended, strengthend, or turned into a splash potion with the usual ingredients."
+            "text": "這種藥水可以用一種基礎藥水和一些蘑菇湯來製作。$(p)它可以用通常的成分延長時效、強化或變成噴濺藥水。"
         }
     ]
 }
