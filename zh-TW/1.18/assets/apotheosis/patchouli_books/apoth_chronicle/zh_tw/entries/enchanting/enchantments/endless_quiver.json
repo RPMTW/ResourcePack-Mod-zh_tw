@@ -1,5 +1,5 @@
 {
-    "name": "Endless Quiver",
+    "name": "無盡箭袋",
     "icon": "minecraft:enchanted_book",
     "category": "apotheosis:enchanting/enchantments",
     "flag": "apotheosis:enchanting",
@@ -7,11 +7,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(2)Endless Quiver$() is a Masterwork enchantment for bows.$(p)When firing a bow, arrows are not consumed, no matter the type.$(p)It is considered a direct upgrade from $(9)Infinity$()."
+            "text": "$(2)無盡箭袋$()是弓的極品附魔。$(p)射箭時無論哪種類型的箭都不會被消耗。$(p)它被認為是$(9)無限$()的直接升級。"
         },
         {
             "type": "patchouli:text",
-            "text": "This enchantment should even make arrows from other mods infinite."
+            "text": "這種附魔甚至應該會讓其他模組的箭變得無限。"
         }
     ]
 }
