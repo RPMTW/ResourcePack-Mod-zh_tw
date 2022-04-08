@@ -1,5 +1,5 @@
 {
-    "name": "Ender Lead",
+    "name": "終界栓繩",
     "icon": "apotheosis:ender_lead",
     "category": "apotheosis:garden/garden",
     "flag": "apotheosis:garden",
@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "The Ender Lead is an item that allows you to capture farm animals.$(p)Punch an animal with the lead to capture it, and right click to release.$(p)Farm animals are usually only those that can be bred."
+            "text": "終界栓繩是一個可以讓你捕捉農場動物的物品。$(p)用栓繩打動物以捕捉它，然後右鍵釋放。$(p)農場動物通常指那些可以繁殖的動物。"
         },
         {
             "type": "patchouli:crafting",
