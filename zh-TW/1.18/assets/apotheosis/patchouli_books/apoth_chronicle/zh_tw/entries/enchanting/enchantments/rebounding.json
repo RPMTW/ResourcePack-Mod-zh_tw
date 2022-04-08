@@ -1,5 +1,5 @@
 {
-    "name": "Rebounding",
+    "name": "反彈",
     "icon": "minecraft:enchanted_book",
     "category": "apotheosis:enchanting/enchantments",
     "flag": "apotheosis:enchanting",
@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(9)Rebounding$() is an enchantment for chestplates and leggings.$(p)It causes all melee attackers to be launched away from the user.$(p)Higher levels increase the distance."
+            "text": "$(9)反彈$()是胸甲和護腿的附魔。$(p)它會使所有近戰攻擊者遠離玩家。$(p)更高的等級會增加彈飛距離。"
         }
     ]
 }
