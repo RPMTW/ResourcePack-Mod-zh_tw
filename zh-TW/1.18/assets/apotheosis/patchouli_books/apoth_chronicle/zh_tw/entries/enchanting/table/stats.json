@@ -1,23 +1,23 @@
 {
-    "name": "Enchanting Stats",
+    "name": "附魔屬性",
     "icon": "minecraft:bookshelf",
     "category": "apotheosis:enchanting/table",
     "flag": "apotheosis:enchanting",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "With Apotheosis, enchanting is dependent on more than just levels.$(p)There are currently five new enchanting stats.$(p)Blocks that provide enchanting stats will have them on their tooltip."
+            "text": "在神化中，附魔不僅僅取決於等級。$(p)目前有五個新的附魔屬性。$(p)提供附魔屬性的方塊將在其工具提示中顯示它們。"
         },
         {
             "type": "patchouli:text",
-            "title": "Eterna",
-            "text": "$(eterna) is the primary stat of enchanting.$(p)Each point of $(eterna) increases the maximum enchanting level by two.$(p)Some blocks can only provide $(eterna) up to a certain maximum value."
+            "title": "位階",
+            "text": "$(eterna)是附魔的主要屬性。$(p)每一點$(eterna)都會使最大附魔等級增加 2。$(p)某些方塊只能提供$(eterna)到某個最大值。"
         },
         {
             "type": "patchouli:text",
-            "title": "Quanta",
+            "title": "量子化",
             "anchor": "quanta",
-            "text": "$(quanta) is a secondary stat. It controls enchanting variance.$(p)During enchanting, you have a $(bpower), which is the level you spent to enchant with, and then a $(fpower), after all modifications.$(p)$(quanta) is one of the factors in the modification process."
+            "text": "$(quanta)是次要屬性。它控制著附魔的變化。$(p)在附魔期間，你有一個$(bpower)，這是你花費的附魔等級，然後是一個$(fpower)，經過所有修改之後的結果。$(p)$(quanta)是修改過程中的因素之一。"
         },
         {
             "type": "patchouli:text",
@@ -25,7 +25,7 @@
         },
         {
             "type": "patchouli:text",
-            "title": "Arcana",
+            "title": "阿卡那",
             "text": "$(arcana) is a secondary stat. It controls the rarity weights, and at certain thresholds will guarantee you get additional enchantments.$(p)At 25% $(arcana), you will always receive at least two enchantments. At 75%, you will always receive three."
         },
         {
@@ -34,22 +34,22 @@
         },
         {
             "type": "patchouli:text",
-            "title": "Rectification",
+            "title": "修正",
             "anchor": "rectification",
             "text": "Rectification is a tertiary stat. It directly impacts the lower bound of $(quanta) modifications.$(p)Recall that your $(4)Min Power$() is equal to $(4)1 - Quanta$().$(p)With Rectification (R), your $(4)Min Power$() is equal to $(4)1 - (1 - R) * Quanta$()."
         },
         {
             "type": "patchouli:text",
-            "text": "If that doesn't make a ton of sense, don't worry about it.$(p)Just know that higher Rectification values are always a good thing.$(p)You can also have negative Rectification, which is always bad."
+            "text": "如果這沒有多大意義，請不要擔心。$(p)只要知道更高的修正值總是一件好事。$(p)你也可以有負數的修正，這總是不好的。"
         },
         {
             "type": "patchouli:text",
-            "title": "Clues",
-            "text": "Clues are another tertiary stat.$(p)Each clue allows you to see one additional item in the preview window.$(p)When you can see every available enchantment, the text will change slightly."
+            "title": "附魔線索",
+            "text": "線索是另一個第三屬性。$(p)每條線索允許你在預覽視窗中看到一個額外的物品。$(p)當你可以看到所有可用的附魔時，文本會略有變化。"
         },
         {
             "type": "patchouli:text",
-            "text": "You can also drop to zero clues, and be able to see nothing."
+            "text": "你也可以將線索降至零，並且什麼也看不見。"
         }
     ]
 }
