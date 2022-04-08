@@ -1,5 +1,5 @@
 {
-    "name": "Potion Charms",
+    "name": "藥水護符",
     "icon": "apotheosis:potion_charm",
     "category": "apotheosis:potion/charms",
     "flag": "apotheosis:potion",
@@ -7,22 +7,22 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "A $(9)Potion Charm$() is a brand new item that helps you get the most out of your potions.$(p)See, while a normal potion requires you to drink it and use the whole effect at once, the $(9)Potion Charm$() lets you stagger it."
+            "text": "$(9)藥水護符$()是一個全新的物品，可以幫助你充分利用你的藥水。$(p)普通的藥水需要你喝下它並立即使用整個效果，但$(9)藥水護符$() 能讓你分次使用。"
         },
         {
             "type": "patchouli:crafting",
             "recipe": "apotheosis:potion_charm",
-            "title": "Potion Charm Crafting",
-            "text": "A charm is made out of three potions of the same type, and some blaze powder.$(p)A single charm lasts longer than the three potions combined."
+            "title": "藥水護符合成",
+            "text": "護符由三種相同類型的藥水和一些烈焰粉製成。$(p)一個護符的持續時間比三瓶藥水的總和還要長。"
         },
         {
             "type": "patchouli:text",
-            "title": "Using Potion Charms",
-            "text": "A $(9)Potion Charm$() is only active when it is enabled.$(p)To enable a charm, simply right click with it in-hand.$(p)An enabled charm will start glowing."
+            "title": "使用藥水護符",
+            "text": "$(9)藥水護符$()僅在啟用時有效。$(p)要啟用藥水護符，只需拿在手中右鍵即可。$(p)啟用的護符將開始發光。"
         },
         {
             "type": "patchouli:text",
-            "text": "As long as the charm is active and in your inventory, it will apply the potion to you, consuming durability.$(p)The charm will only apply a couple seconds of potion at a time.$(p)When the charm runs out of durability, it will break."
+            "text": "只要護符處於啟用狀態並且在你的物品欄中，它就會將藥水效果施加到你身上並消耗耐久。$(p)護符一次只會施加幾秒鐘的藥水效果。$(p)當護符耐久用完時，它會破裂。"
         }
     ]
 }
