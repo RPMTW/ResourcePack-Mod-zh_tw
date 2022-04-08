@@ -1,16 +1,16 @@
 {
-    "name": "Enchanting Seed",
+    "name": "附魔種子",
     "icon": "minecraft:wheat_seeds",
     "category": "apotheosis:enchanting/table",
     "flag": "apotheosis:enchanting",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "Everything in enchanting (and some other mechanics) are based on your $(9)Enchanting Seed$().$(p)The seed is changed whenever you enchant an item at an enchanting table."
+            "text": "附魔中的所有內容（以及其他一些機制）都基於你的$(9)附魔種子$()。$(p)每當你在附魔台上附魔物品時，附魔種子都會改變。"
         },
         {
             "type": "patchouli:text",
-            "text": "Unless your seed changes, all seed-based random outcomes will remain the same.$(p)For example, what enchantments are selected for a particular slot is a seed-based random outcome."
+            "text": "除非種子發生更改，否則所有基於種子的隨機結果將保持不變。$(p)例如，為特定選項選擇的附魔是基於種子的隨機結果。"
         }
     ]
 }
