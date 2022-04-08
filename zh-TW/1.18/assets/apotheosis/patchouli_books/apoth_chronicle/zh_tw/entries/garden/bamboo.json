@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "Bamboo can now grow up to 32 blocks tall.$(p)Bamboo growth is a bit weird though, so it won't always reach exactly this height.$(p)This value is configurable, so it might be a bit higher (or lower) than that based on modpack."
+            "text": "竹子現在可以長到 32 個方塊高。$(p)竹子的生長機制有點奇怪，所以它不一定會生長到這個高度。$(p)這個值是可配置的，所以它可能會更高（或更低），比基於模組包的設定。"
         }
     ],
     "extra_recipe_mappings": {
