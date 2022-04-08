@@ -1,5 +1,5 @@
 {
-    "name": "Chromatic Aberration",
+    "name": "色差",
     "icon": "minecraft:enchanted_book",
     "category": "apotheosis:enchanting/enchantments",
     "flag": "apotheosis:enchanting",
@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(9)Chromatic Aberration$() is an enchantment for shears.$(p)It causes any wool that is sheared to become a random color."
+            "text": "$(9)色差$()是剪刀的附魔。$(p)它使任何被剪下的羊毛變成隨機顏色。"
         }
     ]
 }
