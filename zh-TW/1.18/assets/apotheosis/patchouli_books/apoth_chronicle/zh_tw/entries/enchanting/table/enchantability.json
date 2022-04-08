@@ -1,12 +1,12 @@
 {
-    "name": "Item Enchantability",
+    "name": "物品附魔能力",
     "icon": "minecraft:golden_sword",
     "category": "apotheosis:enchanting/table",
     "flag": "apotheosis:enchanting",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "In vanilla, an item's enchantability contributes to your $(fpower).$(p)Apotheosis changes it to provide a direct $(arcana) boost instead.$(p)$(arcana) is increased by 50% of an item's enchantability."
+            "text": "在原版中，物品的附魔能力會影響你的$(fpower)。$(p)神化將其改為提供直接的$(arcana)提升。$(p)$(arcana)增加了物品的 50% 的附魔能力。"
         }
     ]
 }
