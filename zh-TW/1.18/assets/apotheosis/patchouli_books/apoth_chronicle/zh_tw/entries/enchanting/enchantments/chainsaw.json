@@ -1,5 +1,5 @@
 {
-    "name": "Chainsaw",
+    "name": "電鋸",
     "icon": "minecraft:enchanted_book",
     "category": "apotheosis:enchanting/enchantments",
     "flag": "apotheosis:enchanting",
@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(2)Chainsaw$() is a Masterwork enchantment that can be applied to axes.$(p)When breaking a tree, the entire tree will be harvested.$(p)This uses durability from the axe."
+            "text": "$(2)電鋸$()是一個可以用於斧頭的極品附魔。$(p)當砍伐一棵樹時，整棵樹都會被收割。$(p)這將使用斧頭的耐久度。"
         }
     ]
 }
