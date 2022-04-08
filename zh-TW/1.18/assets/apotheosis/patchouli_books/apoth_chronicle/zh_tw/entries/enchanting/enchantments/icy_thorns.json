@@ -1,5 +1,5 @@
 {
-    "name": "Icy Thorns",
+    "name": "冰霜荊棘",
     "icon": "minecraft:enchanted_book",
     "category": "apotheosis:enchanting/enchantments",
     "flag": "apotheosis:enchanting",
@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(9)Icy Thorns$() is a chestplate enchantment.$(p)It applies slowness to attackers. The duration and strength scale with the enchantment level.$(p)It is exclusive with $(9)Thorns$()."
+            "text": "$(9)冰霜荊棘$()是一個胸甲附魔。$(p)它會對攻擊者施加緩慢效果。持續時間和強度隨附魔等級而定。$(p)與$(9)尖刺$()衝突。"
         }
     ]
 }
