@@ -1,5 +1,5 @@
 {
-    "name": "Boon of the Earth",
+    "name": "地之恩賜",
     "icon": "minecraft:enchanted_book",
     "category": "apotheosis:enchanting/enchantments",
     "flag": "apotheosis:enchanting",
@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(2)Boon of the Earth$() is a Masterwork enchantment for pickaxes.$(p)When mining simple stones, there is a chance for an ore block to be dropped."
+            "text": "$(2)地之恩賜$()是鎬的極品附魔。$(p)當挖掘簡單的石頭時，有機會掉落一個礦物塊。"
         }
     ]
 }
