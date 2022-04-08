@@ -1,5 +1,5 @@
 {
-    "name": "Tempting",
+    "name": "引誘",
     "icon": "minecraft:enchanted_book",
     "category": "apotheosis:enchanting/enchantments",
     "flag": "apotheosis:enchanting",
@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(9)Tempting$() is a hoe enchantment.$(p)When holding a hoe with this enchantment, all animals will follow you as if holding their breeding item."
+            "text": "$(9)引誘$()是鋤頭附魔。$(p)當拿著帶有這個附魔的鋤頭時，所有的動物都會跟著你，就像拿著它們的繁殖物品一樣。"
         }
     ]
 }
