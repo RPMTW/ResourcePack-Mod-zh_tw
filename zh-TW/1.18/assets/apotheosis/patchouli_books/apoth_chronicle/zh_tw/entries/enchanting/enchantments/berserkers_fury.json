@@ -1,5 +1,5 @@
 {
-    "name": "Berserker's Fury",
+    "name": "狂戰士之怒",
     "icon": "minecraft:enchanted_book",
     "category": "apotheosis:enchanting/enchantments",
     "flag": "apotheosis:enchanting",
@@ -7,11 +7,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(4)Berserker's Fury$() is a Corrupted enchantment that can be applied to chestplates.$(p)While using this enchantment, if you take damage, you will take additional damage and receive Resistance, Speed, and Strength."
+            "text": "$(4)狂戰士之怒$()是一種可以用於胸甲的腐化附魔。$(p)在使用此附魔時，如果你受到傷害，你將受到額外傷害並獲得抗性、速度和力量。"
         },
         {
             "type": "patchouli:text",
-            "text": "The damage taken and potion strength are based on the enchantment level."
+            "text": "受到的傷害和藥水強度取決於附魔等級。"
         }
     ]
 }
