@@ -1,5 +1,5 @@
 {
-    "name": "Tome of Scrapping",
+    "name": "分解寶典",
     "icon": "apotheosis:scrap_tome",
     "category": "apotheosis:enchanting/utility",
     "flag": "apotheosis:enchanting",
@@ -7,12 +7,12 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "The Tome of Scrapping is a way of retrieving enchantments from an item.$(p)Combining one with another item in an anvil will destroy the other item, and make a book with some of the enchantments at random."
+            "text": "分解寶典是一種從物品中獲取附魔的方法。$(p)在鐵砧中將分解寶典與另一個物品結合會破壞另一個物品，並隨機製作一本帶有一些附魔的書。"
         },
         {
             "type": "patchouli:crafting",
             "recipe": "apotheosis:scrap_tome",
-            "text": "You will always receive half of the enchantments (rounded up).$(p)The enchantments selected are based on your $(l:apotheosis:enchanting/table/seed)Enchanting Seed$()."
+            "text": "你永遠都能獲得一半的附魔（向上取整數）$(p)選擇的附魔基於你的$(l:apotheosis:enchanting/table/seed)附魔種子$()。"
         }
     ]
 }
