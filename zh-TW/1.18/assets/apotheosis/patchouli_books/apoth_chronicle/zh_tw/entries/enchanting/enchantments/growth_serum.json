@@ -1,5 +1,5 @@
 {
-    "name": "Growth Serum",
+    "name": "生長精華",
     "icon": "minecraft:enchanted_book",
     "category": "apotheosis:enchanting/enchantments",
     "flag": "apotheosis:enchanting",
@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(2)Growth Serum$() is a Masterwork enchantment for shears.$(p)It makes sheep have a 50% chance to immediately regrow their wool."
+            "text": "$(2)生長精華$()是剪刀的極品附魔。$(p)它使羊有 50% 的機率立即重新長出羊毛。"
         }
     ]
 }
