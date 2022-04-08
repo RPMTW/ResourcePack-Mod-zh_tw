@@ -1,5 +1,5 @@
 {
-    "name": "Mining Fatigue",
+    "name": "挖掘疲勞",
     "icon": "minecraft:textures/mob_effect/mining_fatigue.png",
     "category": "apotheosis:potion/recipes",
     "flag": "apotheosis:potion",
@@ -7,13 +7,13 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(c)Mining Fatigue$() is a negative effect that is normally only applied by Guardians.$(p)While active, your mining speed is reduced by 20% per level.$(p)It is the direct opposite of $(9)Haste$()."
+            "text": "$(c)挖掘疲勞$()是一種負面效果，通常只有遠古深海守衛才能使用。$(p)挖掘速度每級降低 20%。$(p)與$(9)挖掘加速$()正好相反。"
         },
         {
             "type": "patchouli:spotlight",
-            "title": "Brewing Recipe",
+            "title": "釀造配方",
             "item": "minecraft:fermented_spider_eye",
-            "text": "This potion can be crafted with a $(9)Potion of Haste$() and a Fermented Spider Eye.$(p)It can be extended, strengthend, or turned into a splash potion with the usual ingredients."
+            "text": "這種藥水可以用$(9)挖掘加速藥水$()和發酵蜘蛛眼來製作。$(p)它可以用通常的成分延長時效、強化或變成噴濺藥水。"
         }
     ]
 }
