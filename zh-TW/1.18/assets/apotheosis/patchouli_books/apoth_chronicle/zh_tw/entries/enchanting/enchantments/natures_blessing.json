@@ -1,5 +1,5 @@
 {
-    "name": "Nature's Blessing",
+    "name": "自然之祝",
     "icon": "minecraft:enchanted_book",
     "category": "apotheosis:enchanting/enchantments",
     "flag": "apotheosis:enchanting",
@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(9)Nature's Blessing$() is a hoe enchantment.$(p)It allows a hoe to be used as bonemeal, for a durability cost.$(p)Higher enchantment levels reduce the durability cost."
+            "text": "$(9)自然之祝$()是鋤頭的附魔。$(p)它允許用鋤頭施加骨粉效果，但需要消耗耐久。$(p)更高的附魔等級會降低耐久度消耗。"
         }
     ]
 }
