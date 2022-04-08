@@ -1,5 +1,5 @@
 {
-    "name": "Shears",
+    "name": "剪刀",
     "icon": "minecraft:shears",
     "category": "apotheosis:enchanting/changes",
     "flag": "apotheosis:enchanting",
@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "Alongside the new enchantments, Shears may now also receive $(9)Unbreaking$(), $(9)Efficiency$(), and $(9)Fortune$()."
+            "text": "除了新的附魔以外，剪刀現在還可以獲得$(9)耐久$()、$(9)效率$()和$(9)幸運$()附魔。"
         }
     ]
 }
