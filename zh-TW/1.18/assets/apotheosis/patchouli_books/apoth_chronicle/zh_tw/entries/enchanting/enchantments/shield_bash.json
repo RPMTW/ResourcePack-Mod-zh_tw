@@ -1,5 +1,5 @@
 {
-    "name": "Shield Bash",
+    "name": "盾擊",
     "icon": "minecraft:enchanted_book",
     "category": "apotheosis:enchanting/enchantments",
     "flag": "apotheosis:enchanting",
@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(9)Shield Bash$() is a shield enchantment.$(p)It makes melee attacks with that shield do extra damage.$(p)However, attacking with $(9)Shield Bash$() causes additional durability damage."
+            "text": "$(9)盾擊$()是盾牌附魔。$(p)用該盾牌進行的近戰攻擊造成額外傷害。$(p)但是使用$(9)盾擊$()進行攻擊會消耗額外的耐久。"
         }
     ]
 }
