@@ -417,7 +417,7 @@
     "mahoutsukai.book.treasury_projection.name": "Treasury Projection",
     "mahoutsukai.book.treasury_projection2.desc": "The gauntlet has two other modes upon pressing shift right-click. In AOE mode, weapons will be fired from behind you towards the direction you're looking at, and in Chains mode, chains will spawn near the target you're looking at and, if the target is a creature, attempt to hit them when right-click is held while staring at it. ",
     "mahoutsukai.book.treasury_projection2.name": "Treasury Projection (cont.)",
-    "mahoutsukai.book.weapon_projectiles.desc": "Using this scroll grants the caster a bow, which can shoot tools and weapons. %%n %%nIt drains %%val0 mana from the caster on use of the scroll.",
+    "mahoutsukai.book.weapon_projectiles.desc": "Using this scroll grants the caster a bow, which can shoot tools and weapons. %%n %%nIt drains %%val0 mana from the caster on use of the scroll. Shift right click with the bow to use only projected weapons (and projection scrolls).",
     "mahoutsukai.book.weapon_projectiles.name": "Weapon Projectiles",
     "mahoutsukai.caliburn.innate_cap": "Innate Cap",
     "mahoutsukai.caliburnkeyword1": "zomb",
@@ -1316,7 +1316,7 @@
     "mahoutsukai.config.show_selected_entity.name": "Show Selected Entity",
     "mahoutsukai.config.one_life.name": "Mahou Resets on Death",
     "mahoutsukai.projector_overlay.armor_add": " + Right Click : Add a new projection to this armor.",
-    "mahoutsukai.projector_overlay.armor_remove": " + Right Click : Remove latest projection on this armor",
+    "mahoutsukai.projector_overlay.armor_remove": " + Right Click : Remove latest projection on this armor.",
     "mahoutsukai.projector_overlay.armor_replace": "Right Click : Replace the latest projection on this armor.",
     "mahoutsukai.config.alarm_action_bar_messages.comment": "Messages are sent to Action Bar as opposed to the Chat window",
     "mahoutsukai.config.alarm_action_bar_messages.name": "Messages are sent to Action Bar",
@@ -1337,5 +1337,9 @@
     "mahoutsukai.config.projector_continues_rotate_when_off.comment": "Stop spinning when powered off",
     "mahoutsukai.config.projector_continues_rotate_when_off.name": "Mahoujin Projector Continues Rotating When Redstone Applied",
     "mahoutsukai.config.projector_default_rotation_speed.comment": "Base rotation speed for projector",
-    "mahoutsukai.config.projector_default_rotation_speed.name": "Mahoujin Projector Default Rotation Speed"
+    "mahoutsukai.config.projector_default_rotation_speed.name": "Mahoujin Projector Default Rotation Speed",
+    "mahoutsukai.config.buff_clear_items.name": "Buff Clear Items",
+    "mahoutsukai.config.fallen_down_beam_target_health_percentage_damage.name": "Fallen Down Beam Mode Health Percentage Damage",
+    "mahoutsukai.weaponprojectiles.normal": "Normal Mode",
+    "mahoutsukai.weaponprojectiles.projections": "Projection Mode"
 }

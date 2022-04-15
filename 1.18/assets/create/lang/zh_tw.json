@@ -2205,5 +2205,8 @@
     "create.ponder.windmill_source.text_5": "Use a Wrench to configure its rotation direction",
     "create.ponder.windmill_source.text_6": "Right-click the Bearing anytime to stop and edit the Structure again",
     "create.ponder.windmill_structure.header": "Windmill Contraptions",
-    "create.ponder.windmill_structure.text_1": "Any Structure can count as a valid Windmill, as long as it contains at least 8 sail-like Blocks."
+    "create.ponder.windmill_structure.text_1": "Any Structure can count as a valid Windmill, as long as it contains at least 8 sail-like Blocks.",
+    "item.create.copper_backtank_placeable": "Copper Backtank Placeable",
+    "create.tooltip.speedRequirement.slow": "Slow",
+    "create.tooltip.speedRequirement.fast": "Fast"
 }

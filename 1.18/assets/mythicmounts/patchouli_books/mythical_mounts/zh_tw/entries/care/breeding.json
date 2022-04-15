@@ -1,0 +1,13 @@
+{
+  "name": "Breeding",
+  "icon": "mythicmounts:textures/gui/book/dash.png",
+  "category": "mythicmounts:care",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Mounts can be bred to pass down characteristics such as health, speed, and coloration of the parents, although sometimes mutations may occur.$(br2)To breed mounts:$(li)both must be tame$(li)both must have full health$(li)both must have a suitable breeding item$(li)at least one must be standing"
+    }
+  ],
+  "sortnum": 5
+}

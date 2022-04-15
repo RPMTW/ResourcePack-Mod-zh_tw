@@ -209,7 +209,7 @@
     "message.supplementaries.potion.lingering": "Lingering",
     "message.supplementaries.potion.splash": "Splash",
     "subtitle.supplementaries.music.pancake": "Pancake Music",
-    "item.supplementaries.pancake_disc.desc": "STiiX - Pancake Music",
+    "item.supplementaries.pancake_disc.desc": "Partyp - Pancake Music",
     "message.supplementaries.key.lockable": "Key Lockable",
     "message.supplementaries.placeable": "Placeable",
     "subtitle.supplementaries.gunpowder.ignite": "Gunpowder fizzles",
@@ -1074,5 +1074,8 @@
     "block.supplementaries.trapped_present_purple": "Trapped Purple Present",
     "block.supplementaries.trapped_present_blue": "Trapped Blue Present",
     "block.supplementaries.trapped_present_light_blue": "Trapped Light Blue Present",
-    "block.supplementaries.trapped_present_cyan": "Trapped Cyan Present"
+    "block.supplementaries.trapped_present_cyan": "Trapped Cyan Present",
+    "block.supplementaries.silver_lantern": "Silver Lantern",
+    "block.supplementaries.lead_lantern": "Lead Lantern",
+    "block.supplementaries.gold_lantern": "Gold Lantern"
 }

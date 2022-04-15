@@ -2,9 +2,6 @@
   "name": "Stabilized Focuses",
   "icon": "conjuring:stabilized_conjuring_focus",
   "category": "conjuring:basics",
-  "extra_recipe_mappings": {
-    "conjuring:distilled_spirit": 1
-  },
   "pages": [
     {
       "type": "patchouli:text",

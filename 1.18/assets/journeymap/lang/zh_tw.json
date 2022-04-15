@@ -752,5 +752,7 @@
     "jm.theme.labelsource.moonphase.new_moon": "New Moon",
     "jm.theme.labelsource.moonphase.waxing_crescent": "Waxing Crescent",
     "jm.theme.labelsource.moonphase.first_quarter": "First Quarter",
-    "jm.theme.labelsource.moonphase.waxing_gibbous": "Waxing Gibbous"
+    "jm.theme.labelsource.moonphase.waxing_gibbous": "Waxing Gibbous",
+    "jm.waypoint.shader": "Shader Beacon",
+    "jm.waypoint.shader.tooltip": "Lets shaders do their thing on waypoint beacons. May have unexpected results."
 }

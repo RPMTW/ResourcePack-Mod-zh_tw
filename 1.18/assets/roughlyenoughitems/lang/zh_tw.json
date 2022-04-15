@@ -330,5 +330,10 @@
     "config.roughlyenoughitems.miscellaneous.cachingFastEntryRendering.@PrefixText": "This option will improve performance for rendering entries for up to 5x, with an average of 2.5x performance gain. However, this will break enchantment glints and animated textures.",
     "config.roughlyenoughitems.isFocusModeZoomed": "Entry Focus Mode:",
     "config.roughlyenoughitems.isFocusModeZoomed.boolean.true": "Zoomed",
-    "config.roughlyenoughitems.isFocusModeZoomed.boolean.false": "Highlighted"
+    "config.roughlyenoughitems.isFocusModeZoomed.boolean.false": "Highlighted",
+    "text.rei.support.me": "Support me to continue making REI better!",
+    "text.rei.support.me.desc": "As a patreon supporter of REI, you get to use the latest version of REI for Minecraft snapshots.\nAlternatively, you can also support me financially through renting a BisectHosting server.\n\n%s\n%s",
+    "text.rei.support.me.patreon": "Donate on Patreon",
+    "text.rei.support.me.bisect": "Use code SHEDANIEL on BisectHosting",
+    "config.roughlyenoughitems.accessibility.useCompactTabButtons": "Compact Tab Arrow Buttons:"
 }

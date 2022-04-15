@@ -88,5 +88,8 @@
     "crafttweaker.reload.start": "CraftTweaker reload starting!",
     "crafttweaker.script.load.start": "Starting loading scripts for loader '%s'",
     "crafttweaker.command.description.dump.loot_tables": "Outputs the names of all registered loot tables",
-    "crafttweaker.command.misc.loot_tables": "Loot Tables"
+    "crafttweaker.command.misc.loot_tables": "Loot Tables",
+    "crafttweaker.command.misc.fluid": "Fluid",
+    "crafttweaker.script.load.end.error": "An error occurred while loading scripts: please check the log",
+    "crafttweaker.script.load.end.noerror": "Loading completed without errors"
 }

@@ -12,7 +12,7 @@
     {
       "type": "conjuring:soulfire_forge_recipe",
       "recipe": "conjuring:soulfire_forge/soul_slice",
-      "text": "A blend of $(l:conjuring:basics/conjuration_essence)Conjuration Essence$() and $(item)Iron Ingots$() adorned with a $(item)Nether Star$(), the $(item)Soul Slice$() is a formidable material. Its extraordinary powers facilitate the creation of ever stronger instruments, like the $(l:conjuring:basics/stabilized_conjuring_focus)Stabilized Conjuring Focus$().",
+      "text": "A blend of $(l:conjuring:basics/conjuration_essence)Conjuration Essence$() and $(item)Iron Ingots$() adorned with a $(item)Nether Star$(), the $(item)Soul Slice$() is a formidable material. It's extraordinary powers facilitate the creation of ever stronger instruments, like the $(l:conjuring:basics/stabilized_conjuring_focus)Stabilized Conjuring Focus$().",
       "anchor": "soul_slice"
     }
   ]
