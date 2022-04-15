@@ -334,5 +334,16 @@
     "subtitles.mowziesmobs.petiole": "Petiole",
     "subtitles.mowziesmobs.barako_theme": "Barako Battle Theme",
     "subtitles.mowziesmobs.ferrous_wroughtnaut_theme": "Ferrous Wroughtnaut Battle Theme",
-    "subtitles.mowziesmobs.frostmaw_theme": "Frostmaw Battle Theme"
+    "subtitles.mowziesmobs.frostmaw_theme": "Frostmaw Battle Theme",
+    "item.mowziesmobs.earthbore_gauntlet": "Earthbore Gauntlet",
+    "item.mowziesmobs.earthbore_gauntlet.text.0": "Creative mode only",
+    "item.mowziesmobs.earthbore_gauntlet.text.1": "Hold right-click to tunnel through the ground",
+    "item.mowziesmobs.earthbore_gauntlet.text.2": "Look in the direction you'd like to dig",
+    "item.mowziesmobs.earthbore_gauntlet.text.3": "Release right-click to surface and stop tunneling",
+    "item.mowziesmobs.earthbore_gauntlet.text.4": "Recharges while in inventory",
+    "config.mowziesmobs.earthbore_gauntlet": "Earthbore Gauntlet",
+    "config.mowziesmobs.earthbore_gauntlet.tooltip": "",
+    "config.mowziesmobs.play_boss_music": "Play Boss Music",
+    "config.mowziesmobs.custom_player_anims": "Custom Player Animations",
+    "subtitles.mowziesmobs.wroughtnaut.shout": "Ferrous Wroughtnaut shouts"
 }

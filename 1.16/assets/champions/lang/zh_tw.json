@@ -27,5 +27,7 @@
     "affix.champions.wounding": "Wounding",
     "affix.champions.shielding": "Shielding",
     "affix.champions.arctic": "Arctic",
-    "affix.champions.enkindling": "Enkindling"
+    "affix.champions.enkindling": "Enkindling",
+    "death.attack.cinderBullet": "%1$s was struck by flames",
+    "death.attack.cinderBullet.indirect": "%1$s was struck by flames whilst fighting %2$s"
 }
