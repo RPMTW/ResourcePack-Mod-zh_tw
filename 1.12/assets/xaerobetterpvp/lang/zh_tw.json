@@ -571,5 +571,13 @@
     "gui.xaero_box_category_list_add": "Supports entity identifiers or patterns with special characters * ) ( and |. \\n \\n * - matches anything. \\n )( - parenthesis, mostly for usage with |. \\n | - the OR operator to match different sequences in the same location. \\n \\n For example: \\n minecraft:creeper \\n minecraft:zombie(_villager|_horse) - zombie villagers and horses. \\n minecraft:a*l - any vanilla entity which starts with 'a' and ends with 'l'.",
     "gui.xaero_using_custom_subworld": "Waypoints: %1$s",
     "gui.xaero_hide_minimap_under_f3": "Hide When Under F3",
-    "gui.xaero_box_hide_minimap_under_f3": "Hide the minimap when the F3 debug screen is enabled."
+    "gui.xaero_box_hide_minimap_under_f3": "Hide the minimap when the F3 debug screen is enabled.",
+    "gui.xaero_light_all": "All",
+    "gui.xaero_light_both2": "Both",
+    "gui.xaero_entity_display_y": "Display Y Level",
+    "gui.xaero_entity_display_y_full": "Display Entity Y Level",
+    "gui.xaero_block_light_value": "BL: %d",
+    "gui.xaero_sky_light_value": "SL: %d",
+    "gui.xaero_all_light_value": "L: %d",
+    "gui.xaero_both_light_value": "BL: %d SL: %d"
 }
