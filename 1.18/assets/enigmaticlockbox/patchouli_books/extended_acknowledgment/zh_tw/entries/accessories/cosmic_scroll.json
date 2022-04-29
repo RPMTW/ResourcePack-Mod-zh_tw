@@ -1,0 +1,22 @@
+{
+    "name": "book.enigmaticlockbox.entry.cosmic_scroll.name",
+    "icon": "enigmaticlegacy:cosmic_scroll",
+    "category": "enigmaticlegacy:accessories",
+	"advancement": "enigmaticlockbox:book/accessories/cosmic_scroll",
+    "secret": false,
+    "priority": false,
+    "read_by_default": false,
+    "sortnum": 180,
+    "pages": [
+        {
+            "type": "text",
+            "text": "book.enigmaticlockbox.entry.cosmic_scroll.page.1"
+        },
+		{
+            "type": "crafting",
+			"recipe": "enigmaticlockbox:cosmic_scroll",
+            "title": " ",
+            "text": "book.enigmaticlockbox.entry.cosmic_scroll.page.2"
+        }
+    ]
+}

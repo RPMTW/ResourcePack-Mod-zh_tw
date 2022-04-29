@@ -91,7 +91,7 @@
     "artifacts.subtitles.entity.mimic.death": "Mimic dies",
     "artifacts.subtitles.item.whoopee_cushion.fart": "Fart",
     "artifacts.config.common.artifact_rarity": "Artifact rarity",
-    "artifacts.config.common.campsite.biome_blacklist": "Campsite Biome blacklist",
+    "artifacts.config.common.campsite.biome_blacklist": "Campsite biome blacklist",
     "artifacts.config.common.campsite.rarity": "Campsite rarity",
     "artifacts.config.common.campsite.min_y": "Campsite minimum height",
     "artifacts.config.common.campsite.max_y": "Campsite maximum height",
@@ -140,5 +140,8 @@
     "artifacts.config.server.vampiric_glove.absorption_ratio": "Absorption ratio",
     "artifacts.config.server.vampiric_glove.max_health_absorbed": "Maximum health absorbed",
     "artifacts.config.server.villager_hat.reputation_bonus": "Reputation Bonus",
-    "artifacts.config.server.whoopee_cushion.flatulence": "Flatulence"
+    "artifacts.config.server.whoopee_cushion.flatulence": "Flatulence",
+    "artifacts.config.common.campsite.count": "Campsite count",
+    "artifacts.config.common.campsite.scan_range": "Campsite downwards scan range",
+    "artifacts.config.common.campsite.max_ceiling_height": "Campsite maximum ceiling height"
 }

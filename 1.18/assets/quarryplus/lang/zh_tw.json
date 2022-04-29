@@ -48,10 +48,10 @@
     "item.quarryplus.remote_controller": "Remote Controller",
     "quarryplus.chat.change_mode": "Working mode was changed to %s",
     "quarryplus.chat.current_mode": "Now, working in %s",
-    "quarryplus.chat.disable_message": "%s is disabled.",
+    "quarryplus.chat.disable_message": "%s is disabled. Please enable it in config.",
     "quarryplus.chat.filler_mode": "Frame Mode",
     "quarryplus.chat.give_exp": "Given %s experiment points.",
-    "quarryplus.chat.indent": "-    %s%s",
+    "quarryplus.chat.indent": "- %s%s",
     "quarryplus.chat.marker_area": "This marker's Area is:",
     "quarryplus.chat.plus_enchantments": "---- This PlusMachine has these Enchantments",
     "quarryplus.chat.no_enchantments": "---- This PlusMachine has NO Enchantments",
@@ -170,7 +170,7 @@
     "trigger.plus_working": "The PlusMachine is working.",
     "yog.armor.hover.off": "Hover Mode disabled.",
     "yog.armor.hover.on": "Hover Mode enabled.",
-    "yog.pump.liquid": "-    %s: %smB",
+    "yog.pump.liquid": "- %s: %smB",
     "yog.spawner.setting": "Please select entity to be spawned by spawner",
     "chat.flexiblemarker.area": "Set new area.",
     "chat.flexiblemarker.pos": "Set new machine pos. %s",
@@ -186,5 +186,9 @@
     "item.quarryplus.filler_module": "Filler Module",
     "quarryplus.chat.bedrock_module_description": "Install this to a machine to remove Bedrock.",
     "itemGroup.quarryplus": "QuarryPlus",
-    "quarryplus.tooltip.item_disable_message": "DISABLED. Please enable it in config."
+    "quarryplus.tooltip.item_disable_message": "DISABLED. Please enable it in config.",
+    "block.quarryplus.remote_placer": "Remote Placer",
+    "block.quarryplus.waterlogged_flex_marker": "Waterlogged Flexible Marker",
+    "block.quarryplus.waterlogged_marker": "Waterlogged Marker Plus",
+    "block.quarryplus.waterlogged_marker16": "Waterlogged Chunk Marker"
 }

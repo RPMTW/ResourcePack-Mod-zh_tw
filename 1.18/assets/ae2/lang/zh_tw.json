@@ -839,5 +839,10 @@
     "gui.tooltips.ae2.TypeFilter": "Filter Types",
     "item.ae2.energy_card": "Energy Card",
     "item.ae2.wrapped_generic_stack": "Wrapped Generic Stack",
-    "biome.ae2.spatial_storage": "Spatial Storage"
+    "biome.ae2.spatial_storage": "Spatial Storage",
+    "gui.ae2.PatternAccessTerminal": "Pattern Access Terminal",
+    "gui.ae2.PatternAccessTerminalHint": "Show Or Hide on Pattern Access Terminal.",
+    "gui.ae2.PatternAccessTerminalShort": "Pattern A. Terminal",
+    "item.ae2.equal_distribution_card": "Equal Distribution Card",
+    "item.ae2.void_card": "Overflow Destruction Card"
 }

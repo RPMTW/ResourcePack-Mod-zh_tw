@@ -203,5 +203,7 @@
     "item.createaddition.biomass_pellet": "Biomass Pellet",
     "item.createaddition.biomass_pellet.tooltip": "BIOMASS_PELLET",
     "item.createaddition.biomass_pellet.tooltip.summary": "A _solid fuel_ which can smelt _6 items_ in a _Furnace_ .",
-    "block.createaddition.bioethanol": "Bioethanol"
+    "block.createaddition.bioethanol": "Bioethanol",
+    "createaddition.recipe.charging": "Charging",
+    "effect.createaddition.shocking.description": "Causes severely reduced movement speed"
 }

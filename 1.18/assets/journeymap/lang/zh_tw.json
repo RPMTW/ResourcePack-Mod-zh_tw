@@ -754,5 +754,9 @@
     "jm.theme.labelsource.moonphase.first_quarter": "First Quarter",
     "jm.theme.labelsource.moonphase.waxing_gibbous": "Waxing Gibbous",
     "jm.waypoint.shader": "Shader Beacon",
-    "jm.waypoint.shader.tooltip": "Lets shaders do their thing on waypoint beacons. May have unexpected results."
+    "jm.waypoint.shader.tooltip": "Lets shaders do their thing on waypoint beacons. May have unexpected results.",
+    "jm.advanced.seed_id": "Multi World Support",
+    "jm.advanced.seed_id.tooltip": "Experimental: Multi World support, prevents map overwriting in multi-world server setups.\n\nNOTE: Will only take effect after rejoining server!",
+    "jm.minimap.waypointicon_scale": "Waypoint Icon Scale",
+    "jm.minimap.waypointicon_scale.tooltip": "The scale for waypoint icons"
 }
