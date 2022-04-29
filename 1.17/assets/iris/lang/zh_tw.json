@@ -49,5 +49,10 @@
     "options.iris.profile.custom": "Custom",
     "pack.iris.configure.title": "Configure",
     "label.iris.true": "On",
-    "label.iris.false": "Off"
+    "label.iris.false": "Off",
+    "iris.shaders.disabled": "Shaders disabled!",
+    "iris.shaders.debug.enabled": "Debugging has been enabled, debug logging will be more verbose!",
+    "iris.shaders.debug.disabled": "Debugging has been disabled.",
+    "iris.shaders.debug.failure": "Cannot enable debugging, your computer does not support debug features.",
+    "iris.shaders.debug.restart": "You do not have a debug context, please restart to enable debugging."
 }
