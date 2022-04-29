@@ -1014,5 +1014,9 @@
     "subtitles.thermal.block.machine_furnace": "Redstone Furnace hums and crackles",
     "subtitles.thermal.block.machine_pulverizer": "Pulverizer smashes",
     "subtitles.thermal.block.machine_sawmill": "Sawmill cuts",
-    "subtitles.thermal.block.machine_smelter": "Induction Smelter hums"
+    "subtitles.thermal.block.machine_smelter": "Induction Smelter hums",
+    "block.thermal.energy_distributor": "RF Distribution Interface",
+    "block.thermal.fluid_distributor": "Fluid Distribution Interface",
+    "block.thermal.energy_distributor.keyword": "energy rf transfer",
+    "block.thermal.fluid_distributor.keyword": "fluid transfer"
 }
