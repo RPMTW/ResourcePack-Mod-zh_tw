@@ -781,7 +781,7 @@
     "item.minecraft.splash_potion.effect.hut_hut_hut_flag_1": "Splash Basic Day Wave Flag 1",
     "item.minecraft.splash_potion.effect.hut_hut_hut_flag_2": "Splash Basic Day Wave Flag 1",
     "entity.scootys_pvz_regrown.grave_1_busted": "Grave",
-    "advancements.quests_advancement.descr": "The categorie for quest advancements.",
+    "advancements.quests_advancement.descr": "The category for quest advancements.",
     "item.scootys_pvz_regrown.grave_3_busted_spawn_egg": "Grave Spawn Egg",
     "advancements.quest_4_advancement.title": "Pea Power",
     "entity.scootys_pvz_regrown.hypnotized_zombie": "Hypnotized Zombie",
@@ -932,5 +932,10 @@
     "item.minecraft.splash_potion.effect.gravetimer": "Splash Gravetimer",
     "item.scootys_pvz_regrown.moon_shroom_spawn_egg": "Moon Shroom Spawn Egg",
     "advancements.doom_shroom_advancement.descr": "Blow up all the zombies in the area with the worlds deadliest plant",
-    "item.scootys_pvz_regrown.ice_shroom_spawn_egg": "Ice Shroom Spawn Egg"
+    "item.scootys_pvz_regrown.ice_shroom_spawn_egg": "Ice Shroom Spawn Egg",
+    "effect.deathtimer": "Deathtimer",
+    "item.minecraft.potion.effect.deathtimer": "Deathtimer",
+    "item.minecraft.splash_potion.effect.deathtimer": "Splash Deathtimer",
+    "item.minecraft.tipped_arrow.effect.deathtimer": "Arrow of Deathtimer",
+    "item.minecraft.lingering_potion.effect.deathtimer": "Lingering Deathtimer"
 }
