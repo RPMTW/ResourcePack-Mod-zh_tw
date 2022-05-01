@@ -1397,7 +1397,7 @@
     "bf.settings.experimental.toggle.aim.desc": "Determines whether aim should toggle by single or held right-clicking.",
     "bf.gamemode.sg.description": "Survive in the wasteland amongst other well trained soldiers. Become the last survivor to win!",
     "bf.message.gamemode.survivalgames.welcome": "Welcome to the Survival Games",
-    "bf.message.gamemode.survivalgames.death": "%s has been killed. %s tributes remain.",
+    "bf.message.gamemode.survivalgames.death": "%s has been killed. %s left.",
     "block.bf.kimino": "Kimono",
     "bf.settings.experimental.toggle.bobbing": "Toggle Bobbing",
     "bf.settings.experimental.toggle.bobbing.desc": "Toggles a very experimental bobbing effect for the players camera.",
@@ -1413,5 +1413,15 @@
     "block.bf.wall_shop_sign_france_carentan_2": "Carentan Wall Shop Sign",
     "block.bf.wall_shop_sign_france_carentan_3": "Carentan Wall Shop Sign",
     "block.bf.wall_shop_sign_france_carentan_4": "Carentan Wall Shop Sign",
-    "block.bf.zero_plane_nogear": "Zero Plane (Gear Up)"
+    "block.bf.zero_plane_nogear": "Zero Plane (Gear Up)",
+    "bf.message.gamemode.survivalgames.start": "Go! Go! Go!",
+    "bf.message.gamemode.survivalgames.border.shrink.start": "The border is now shrinking!",
+    "bf.message.gamemode.survivalgames.grace.period.end": "Grace period has ended!",
+    "bf.message.gamemode.survivalgames.loot.fail.empty": "This chest has already been looted!",
+    "bf.settings.crosshair.name": "Crosshair",
+    "bf.settings.crosshair.name.desc": "The crosshair to be used",
+    "bf.settings.ui.render.compass": "Render Compass",
+    "bf.settings.ui.render.compass.desc": "Determines whether compass renders while in a match.",
+    "bf.settings.ui.render.minimap": "Render Minimap",
+    "bf.settings.ui.render.minimap.desc": "Determines whether minimap renders while in a match."
 }

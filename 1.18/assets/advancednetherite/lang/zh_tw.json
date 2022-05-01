@@ -53,5 +53,20 @@
     "advancements.advancednetherite.nether.netherite_emerald_armor.title": "Endermen?",
     "advancements.advancednetherite.nether.netherite_emerald_armor.description": "Get a full suit of Netherite-Emerald armor",
     "advancements.advancednetherite.nether.netherite_diamond_armor.title": "Cover Me in Netherite-Diamond",
-    "advancements.advancednetherite.nether.netherite_diamond_armor.description": "Get a full suit of Netherite-Diamond armor"
+    "advancements.advancednetherite.nether.netherite_diamond_armor.description": "Get a full suit of Netherite-Diamond armor",
+    "tooltip.advancednetherite.armor.enderman_passive": "+ Pacifies Endermen",
+    "tooltip.advancednetherite.armor.piglin_passive": "+ Pacifies Piglins",
+    "tooltip.advancednetherite.armor.phantom_passive": "+ Pacifies Phantoms",
+    "tooltip.advancednetherite.pickaxe.additional_diamond_drop": "+ Chance of dropping additional Diamond while mining Diamond ores",
+    "tooltip.advancednetherite.pickaxe.additional_emerald_drop": "+ Chance of dropping additional Emerald while mining Emerald ores",
+    "tooltip.advancednetherite.pickaxe.additional_gold_drop": "+ Chance of dropping additional Raw Gold while mining Gold ores",
+    "tooltip.advancednetherite.pickaxe.additional_iron_drop": "+ Chance of dropping additional Raw Iron while mining Iron ores",
+    "tooltip.advancednetherite.sword.additional_enderman_mob_drop": "+ Chance of dropping additional Ender Pearl on killing Enderman",
+    "tooltip.advancednetherite.sword.additional_piglin_mob_drop": "+ Chance of dropping additional Gold Ingot on killing Piglin",
+    "tooltip.advancednetherite.sword.additional_zombified_piglin_mob_drop": "+ Chance of dropping additional Gold Nugget(s) on killing Zombified Piglin",
+    "tooltip.advancednetherite.sword.additional_phantom_mob_drop": "+ Chance of dropping additional Phantom Membrane(s) on killing Phantom",
+    "tooltip.advancednetherite.misc.press_shift_key": "Press %s to view all perks",
+    "tooltip.advancednetherite.misc.shift": "[SHIFT]",
+    "advancements.advancednetherite.nether.netherite_iron_armor.title": "No More Phantoms",
+    "advancements.advancednetherite.nether.netherite_iron_armor.description": "Get a full suit of Netherite-Iron armor"
 }
