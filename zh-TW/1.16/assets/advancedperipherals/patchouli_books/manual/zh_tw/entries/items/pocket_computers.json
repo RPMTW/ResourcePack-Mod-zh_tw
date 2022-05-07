@@ -5,11 +5,11 @@
   "pages": [
     {
       "type": "text",
-      "text": "We provide Pocket Computer upgrades for the following peripherals:$(li)$(9)$(l:peripherals/environment_detector)Environment Detector$(/l)$()$(li)$(9)$(l:peripherals/player_detector)Player Detector$(/l)$()$(li)$(9)$(l:peripherals/chat_box)Chat Box$(/l)$()$(p)For the full documentation please see the $(9)$(l:https://docs.srendi.de/items/pocket_computer/)official wiki page$(/l)$()!"
+      "text": "我們為以下外圍設備提供掌上電腦升級：$(li)$(9)$(l:peripherals/environment_detector)Environment Detector$(/l)$()$(li)$(9)$(l:peripherals/ player_detector)玩家檢測器$(/l)$()$(li)$(9)$(l:peripherals/chat_box)聊天框$(/l)$()$(p)完整的文檔請看$ (9)$(l:https://docs.srendi.de/items/pocket_computer/)官方wiki頁面$(/l)$()！"
     },
     {
       "type": "text",
-      "text": "Simply combine these with a pocket computer to add the peripheral to it. Note that you can't use the associated events."
+      "text": "\n只需將這些與袖珍計算機結合起來，即可為其添加外圍設備。請注意，您不能使用關聯的事件。"
     }
   ]
 }
