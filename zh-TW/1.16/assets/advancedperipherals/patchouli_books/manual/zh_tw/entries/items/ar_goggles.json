@@ -1,15 +1,15 @@
 {
-  "name": "AR Goggles",
-  "icon": "advancedperipherals:ar_goggles",
-  "category": "advancedperipherals:items",
+  "name": "AR眼鏡",
+  "icon": "\n高級外設：ar_眼鏡",
+  "category": "高級外設：物品",
   "pages": [
     {
       "type": "text",
-      "text": "The AR Goggles can be used in combination with the $(9)$(l:peripherals/ar_controller)AR Controller$(/l)$() to have a customizable overlay wherever you go. Fun!$(p)Right click an AR Controller with your glasses to link them.$(p)For the full documentation please see the $(9)$(l:https://docs.srendi.de/items/ar_goggles/)official wiki page$(/l)$()!"
+      "text": "AR 眼鏡可以與 $(9)$(l:peripherals/ar_controller)AR 控制器$(/l)$() 結合使用，無論您走到哪裡都可以定制覆蓋。有趣！$(p)用您的眼鏡右鍵單擊 AR 控制器以鏈接它們。$(p)有關完整文檔，請參閱 $(9)$(l:https://docs.srendi.de/items/ar_goggles /)官方維基頁面$(/l)$()！"
     },
     {
       "type": "crafting",
-      "recipe": "advancedperipherals:ar_goggles"
+      "recipe": "\n高級外設：AR_眼鏡"
     }
   ]
 }
