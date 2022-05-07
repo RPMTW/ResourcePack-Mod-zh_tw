@@ -1,20 +1,20 @@
 {
-  "name": "End automata core",
-  "icon": "advancedperipherals:end_automata_core",
-  "category": "advancedperipherals:metaphysics",
-  "advancement": "advancedperipherals:weak_automata_core",
+  "name": "終界自動機核心",
+  "icon": "\n高級外設：end_automata_core",
+  "category": "高級外圍：形而上學\n",
+  "advancement": "高級外設：weak_automata_core\n",
   "pages": [
     {
       "type": "spotlight",
-      "title": "End automata core",
-      "item": "advancedperipherals:end_automata_core",
-      "text": "After consuming 10 endermans, weak automata core will be transformed to end automata core!$(p)In addition to be more powerful weak automata core variant, seems, this soul also provide some limited teleportation abilities for turtle itself."
+      "title": "\n結束自動機核心",
+      "item": "\n高級外設：end_automata_core",
+      "text": "\n消耗10個末影人後，弱自動機核心將轉化為末日自動機核心！$(p)除了是更強大的弱自動機核心變體之外，似乎這個靈魂還為烏龜本身提供了一些有限的瞬移能力。"
     },
     {
       "type": "link",
-      "text": "In additions to weak automata core abilities, this soul also allow limited world-bound teleportation. Seems, you need to store points and then teleport to them!$(p)But be aware, any stored points will be lost after turtle is broken.",
+      "text": "除了較弱的自動機核心能力之外，這個靈魂還允許有限的世界傳送。看來，你需要儲存點數，然後傳送到他們那裡！$(p)但是要注意，任何儲存的點數都會在海龜被破壞後丟失。\n",
       "url": "https://docs.srendi.de/items/end_automata/",
-      "link_text": "API documentation"
+      "link_text": "API 文檔"
     }
   ]
 }
