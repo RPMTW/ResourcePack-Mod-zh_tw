@@ -1,11 +1,11 @@
 {
-  "name": "Computer Tool",
-  "icon": "advancedperipherals:computer_tool",
-  "category": "advancedperipherals:items",
+  "name": "\n電腦工具",
+  "icon": "\n高級外設：電腦工具",
+  "category": "高級外設：物品",
   "pages": [
     {
       "type": "text",
-      "text": "The Computer Tool is a tool to open GUI's from our blocks. Currently, the Computer Tool is useless, it's just a wonderful item.$(p)For the full documentation please see the $(9)$(l:https://docs.srendi.de/items/computer_tool/)official wiki page$(/l)$()!"
+      "text": "\n計算機工具是從我們的方塊中打開 GUI 的工具。目前爲止，’電腦工具‘ 還沒有用途，它只是一個很棒的項目。$(p)完整的文檔請參見 $(9)$(l:https://docs.srendi.de/items/computer_tool/)官方 wiki頁$(/l)$()！"
     },
     {
       "type": "crafting",
