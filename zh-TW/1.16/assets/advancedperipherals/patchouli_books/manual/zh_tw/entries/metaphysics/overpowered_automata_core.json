@@ -1,25 +1,25 @@
 {
-  "name": "Overpowered automata core",
-  "icon": "advancedperipherals:overpowered_weak_automata_core",
-  "category": "advancedperipherals:metaphysics",
-  "advancement": "advancedperipherals:weak_automata_core",
+  "name": "強大的自動機核心",
+  "icon": "高級外設：overpowered_weak_automata_core",
+  "category": "高級外圍：形而上學\n",
+  "advancement": "高級外設：weak_automata_core\n",
   "pages": [
     {
       "type": "spotlight",
-      "title": "Overpowered weak automata core",
-      "item": "advancedperipherals:overpowered_weak_automata_core",
-      "text": "This is you first attempt to bypass rules of metaphysics. Well, not so successful as you hope it would be.$(p)Naive combination of any automata core and nether star lead to some result ..."
+      "title": "強大的弱自動機核心",
+      "item": "高級外設：overpowered_weak_automata_core",
+      "text": "這是你第一次嘗試繞過形而上學的規則。 好吧，沒有你希望的那麼成功。$(p)任何自動機核心和下界之星的天真組合都會導致一些結果......"
     },
     {
       "type": "crafting",
-      "recipe": "advancedperipherals:overpowered_weak_automata_core",
-      "recipe2": "advancedperipherals:overpowered_end_automata_core"
+      "recipe": "高級外設：overpowered_weak_automata_core",
+      "recipe2": "高級外設：overpowered_end_automata_core"
     },
     {
       "type": "link",
-      "text": "Overpowered versions of automata cores doesn't consumes item durability when use it.$(p)But everything come for price. If you try to perform any operation with this core without enough fuel - upgrade will broke immediately.",
+      "text": "強力版本的自動機核心在使用時不會消耗物品的耐久度。$(p)但一切都是有代價的。 如果您嘗試在沒有足夠燃料的情況下使用此核心執行任何操作 - 升級將立即中斷。",
       "url": "https://docs.srendi.de/items/overpowered_automata/",
-      "link_text": "API documentation"
+      "link_text": "API 文檔"
     }
   ]
 }
