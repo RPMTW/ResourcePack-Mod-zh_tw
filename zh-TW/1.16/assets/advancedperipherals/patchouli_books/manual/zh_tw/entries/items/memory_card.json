@@ -1,15 +1,15 @@
 {
   "name": "記憶卡",
   "icon": "advancedperipherals:memory_card",
-  "category": "advancedperipherals:items",
+  "category": "高級外設：物品",
   "pages": [
     {
       "type": "text",
-      "text": "The $(9)$(l:items/ar_goggles)AR Goggles$(/l)$() can be used in combination with the $(9)$(l:peripherals/inventory_manager)Inventory Manager$(/l)$() to communicate with the player's inventory.$(p)Right click with the Memory Card in hand to assign it to yourself.$(p)For the full documentation please see the $(9)$(l:https://docs.srendi.de/items/ar_goggles/)official wiki page$(/l)$()!"
+      "text": "$(9)$(l:items/ar_goggles)AR Goggles$(/l)$() 可以與 $(9)$(l:peripherals/inventory_manager)Inventory Manager$(/l)$ 結合使用() 與玩家的庫存進行通信。$(p)右鍵單擊手中的存儲卡將其分配給自己。$(p)有關完整文檔，請參閱 $(9)$(l:https:// docs.srendi.de/items/ar_goggles/)官方維基頁面$(/l)$()！"
     },
     {
       "type": "crafting",
-      "recipe": "advancedperipherals:memory_card"
+      "recipe": "\n高級外設：memory_card"
     }
   ]
 }
