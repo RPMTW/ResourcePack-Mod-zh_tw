@@ -6,11 +6,11 @@
   "pages": [
     {
       "type": "text",
-      "text": "Welcome to PneumaticCraft!$(li)Get some $(thing)Iron/$ and some $(thing)Stone/$.  You'll want around a stack of each (maybe a bit less iron) to start with.$(li)Throw your iron on the ground, and blow it up. Yes, really.$(li)Collect the resulting $(thing)Compressed Iron/$ (a little will be lost in the explosion).$(li)Make some $(l:tubes/pressure_tubes)Pressure Tubes/$.$(li)Make some $(l:base_concepts/building_materials)Reinforced Stone/$.$(li)Build a $(l:manufacturing/pressure_chamber)Pressure Chamber/$."
+      "text": "歡迎來到 PneumaticCraft!$(li)取得一些 $(thing)鐵/$ 和 $(thing)石頭/$.  首先你需要一組 (或少一些)的鐵.$(li)將鐵丟到地上, 然後炸掉. 對, 沒錯.$(li)收集當中產生的 $(thing)壓縮鐵/$ (爆炸中會損失一些).$(li)製作一些 $(l:tubes/pressure_tubes)壓力管道/$.$(li)製作一些 $(l:base_concepts/building_materials)/$.$(li)建造 $(l:manufacturing/pressure_chamber)壓力室/$."
     },
     {
       "type": "text",
-      "text": "自此之後，該手冊的更多部分將會解鎖，基於你在$(pncr)的發展過程中達成的的$(thing)進度/$。查看該模組的進度頁獲取下一步發展的指導（完成某些進度也會給予$(thing)經驗/$，算是錦上添花）。"
+      "text": "自此之後，基於你在$(pncr)發展過程中達成的$(thing)進度/$，該手冊更多部分將會解鎖。查看該模組的進度頁面獲取發展下一步的指導（完成某些進度也會給予$(thing)經驗/$，算是錦上添花）。"
     }
   ]
 }
