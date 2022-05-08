@@ -1,11 +1,11 @@
 {
-    "name": "Building Materials",
+    "name": "建築材料",
     "icon": "pneumaticcraft:reinforced_bricks",
     "category": "base_concepts",
     "pages": [
         {
             "type": "text",
-            "text": "$(pncr) adds a collection of $(thing)Reinforced Stone/$ block types, which are made with some $(item)Stone/$ and a little $(item)Compressed Iron/$. Many crafting recipes require some form of Reinforced Stone.$(p)Reinforced Stone blocks are also very suitable for building with, and all types have a high blast resistance."
+            "text": "$(pncr) 新增了一系列 $(thing)強化石頭/$方塊, 使用 $(item)石頭/$ 和一點 $(item)壓縮鐵/$來製作.  許多配方需要某種種類的強化石頭。$(p)強化石頭也非常適合用於建造，且所有種類都具有高抗爆性。"
         },
         {
             "type": "crafting",
