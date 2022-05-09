@@ -1578,7 +1578,7 @@
     "pneumaticcraft.gui.tab.upgrades.pressurized_spawner.speed": "生怪速度更快，但空氣耗量也將指數式增長。",
     "pneumaticcraft.gui.tab.upgrades.programmable_controller.inventory": "預設情況下，可程式化控制器可以運輸一組物品。每一個安裝的物品欄升級將會允許無人機另外運輸一組物品。${br}${br}每一個該升級同樣可以（如果安裝了對應的升級）將內部儲罐的容量提升 16000 mB，將 RF 儲存容量提升 100000 RF。同時，提升無人機傳輸 RF 的速率（速率 = 最大儲存量 / 100）。",
     "pneumaticcraft.gui.tab.upgrades.programmable_controller.magnet": "With one or more Magnet Upgrades inserted, the Programmable Controller's minidrone will automatically pick up nearby items, if the controller has free inventory space. The base range is 2 blocks, increasing by 1 block per inserted upgrade.",
-    "pneumaticcraft.gui.tab.upgrades.programmable_controller.speed": "增快可程式化控制器的無人機移動的速率。",
+    "pneumaticcraft.gui.tab.upgrades.programmable_controller.speed": "增快可程式化控制器的無人機移動速率。",
     "pneumaticcraft.gui.tab.upgrades.security_station.entity_tracker": "每個實體追蹤升級提升入侵（按入侵者控制一個節點計）被檢測的機率。加入更多升級將會有編輯遞減效應。",
     "pneumaticcraft.gui.tab.upgrades.security_station.range": "每個升級將安全站的（立方）範圍提升一格（最高為 16 格）。",
     "pneumaticcraft.gui.tab.upgrades.security_station.security": "Increases the Security Station's rating by one for each upgrade. Players need more Security Upgrades in their Pneumatic Helmet than the Security Station has to be able to even begin a hack attempt.",
