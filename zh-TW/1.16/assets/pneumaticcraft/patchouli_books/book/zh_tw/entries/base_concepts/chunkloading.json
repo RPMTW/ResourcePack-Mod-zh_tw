@@ -1,11 +1,11 @@
 {
-  "name": "Chunk Loading",
+  "name": "區塊載入",
   "icon": "minecraft:ender_eye",
   "category": "base_concepts",
   "pages": [
     {
       "type": "text",
-      "text": "It is a fundamental mechanic of Minecraft that only parts of the world are loaded into memory at a time. This is essential for performance; no affordable computer could keep an entire world (especially a modded one) loaded and ticking all at once. The world is thus divided into 16x16 (in the horizontal axes) $(thing)chunks/$, only of few of which are loaded at once."
+      "text": "這是 Minecraft 的基本機制，一次只載入部分地圖到記憶體中。 這對性能來說非常重要；  沒有一臺電腦可以負擔同時載入整個地圖（尤其是加裝模組）的區塊。 因此，地圖被劃分為 16x16（水平軸面）$(thing)的區塊/$，只有少數是一次性載入的。"
     },
     {
       "type": "text",
