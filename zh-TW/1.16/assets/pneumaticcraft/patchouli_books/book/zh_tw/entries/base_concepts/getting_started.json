@@ -6,7 +6,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "歡迎來到 PneumaticCraft!$(li)取得一些 $(thing)鐵/$ 和 $(thing)石頭/$.  首先你需要一組 (或少一些)的鐵.$(li)將鐵丟到地上, 然後炸掉. 對, 沒錯.$(li)收集當中產生的 $(thing)壓縮鐵/$ (爆炸中會損失一些).$(li)製作一些 $(l:tubes/pressure_tubes)壓力管道/$.$(li)製作一些 $(l:base_concepts/building_materials)/$.$(li)建造 $(l:manufacturing/pressure_chamber)壓力室/$."
+      "text": "歡迎來到 PneumaticCraft!$(li)取得一些 $(thing)鐵/$ 和 $(thing)石頭/$。  首先你需要一組(或少一些)的鐵。$(li)將鐵丟到地上, 然後炸掉。 對, 沒錯。$(li)收集當中產生的 $(thing)壓縮鐵/$ (爆炸中會損失一些)。$(li)製作一些 $(l:tubes/pressure_tubes)壓力管道/$。$(li)製作一些 $(l:base_concepts/building_materials)強化石頭/$。$(li)建造 $(l:manufacturing/pressure_chamber)壓力室/$。"
     },
     {
       "type": "text",
