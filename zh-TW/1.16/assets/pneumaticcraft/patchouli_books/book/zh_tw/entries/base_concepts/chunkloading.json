@@ -9,22 +9,22 @@
     },
     {
       "type": "text",
-      "text": "This has important ramifications for designing reliable modded builds; if you want processing to happen when you're not at your base, you need to $(thing)chunkload/$ the relevant machines. The information following is primary intended as hints to achieve reliable $(pncr) builds, but much of it applies to other mods too."
+      "text": "這對設計可靠的模組建物來說非常重要； 如果你想要不在建物附近時使其持續運作，你需要 $(thing)載入區塊/$ 相關的機器。 下列資訊主要為實作可靠 $(pncr) 建物的提示，但其中大部分也適用於其他模組。"
     },
     {
       "type": "text",
-      "title": "Chunkloading Methods",
-      "text": "$(li)Vanilla has a $(thing)/forceload/$ command to force one or more chunks to remain always loaded, but this does require op privileges to use$(li)Many mods offer player-usable chunkloading solutions, e.g. $(thing)FTB Chunks/$, $(thing)Chicken Chunks/$, $(thing)Weirding Gadgets/$ and more.$(li)The $(l:programming/programmable_controller)Programmable Controller/$ from this mod offers some limited chunkloading functionality too."
+      "title": "區塊載入方法",
+      "text": "$(li)Vanilla 有一條 $(thing)/forceload/$ 指令來強制一個或多個區塊持續處於載入狀態，但這必須需要權限才能操作$(li)許多模組提供玩家區塊載入的解決辦法，例如 $(thing)FTB Chunks/$, $(thing)Chicken Chunks/$, $(thing)Weirding Gadgets/$ 和更多。$(li)本模組的 $(l:programming/programmable_controller)可程式化控制器/$ 也提供了一些有限的區塊載入功能。"
     },
     {
       "type": "text",
-      "title": "Chunkloading Safety",
-      "text": "The following hints will assist in building reliable chunkloaded systems:$(li)$(thing)Try to keep your builds within chunk boundaries/$. If part of your build is chunkloaded and part of it isn't, the results can be highly unpredictable. Have either all of it or none of it loaded.$(li)$(thing)Use Security Upgrades in machines./$ This prevents explosions; even with good redstone control, chunkloading or server performance issues can be problematic."
+      "title": "區塊載入的安全性",
+      "text": "下列提示將有助於建構靠譜的區塊載入系統：$(li)$(thing)嘗試將建物蓋在區塊的邊界內/$。如果建物只有部分載入，而另一部分沒有，則很可能產生無法預期的結果。要就載入全部，不然就不載入。$(li)$(thing)在電腦中使用安全升級。/$ 可以防止爆炸;即使具有優良的紅石控制，伺服器性能和區塊載入也可能造成問題。"
     },
     {
       "type": "text",
-      "title": "Chunkloading Safety (cont)",
-      "text": "$(li)$(thing)Keep multiblocks within a single chunk if possible./$ Even when all relevant chunks are chunkloaded, it's not ideal to have multiblocks like the $(l:manufacturing/pressure_chamber)Pressure Chamber/$ span two or more chunks."
+      "title": "區塊載入的安全性(續)",
+      "text": "$(li)$(thing)盡可能的話，將多方塊建物建在單個區塊中。/$ 即使所有相關區塊都會被載入，像$(l:manufacturing/pressure_chamber)壓力室/$ 這樣的多方塊建物跨越了兩個或更多區塊也是不理想的。"
     }
   ]
 }
