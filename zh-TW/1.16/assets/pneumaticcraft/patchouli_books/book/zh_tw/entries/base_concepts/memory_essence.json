@@ -5,7 +5,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "$(item)記憶精華/$是一種液體，以液態形式代表玩家的經驗和記憶。它可以被提取和儲存到之後使用，無論是用於原版附魔，還是用於一些 $(pncr) 的製作。$(p)有兩種方法可以獲得 $(item)記憶精華/$:$(li)1. 使用$(l:tools/memory_stick)記憶棒/$$(li)2. 使用  $(l:machines/aerial_interface)空中傳輸介面/$。"
+      "text": "$(item)記憶精華/$是一種液體，以液態形式代表玩家的經驗和記憶。它可以被提取和儲存到之後使用，無論是用於原版附魔，還是用於一些 $(pncr) 的製作。$(p)有兩種方法可以獲得 $(item)記憶精華/$:$(li)1. 使用$(l:tools/memory_stick)記憶棒/$$(li)2. 使用$(l:machines/aerial_interface)空中傳輸介面/$。"
     },
     {
       "type": "spotlight",
