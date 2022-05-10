@@ -10,7 +10,7 @@
     },
     {
       "type": "spotlight",
-      "title": "Automatic Charging",
+      "title": "自動充氣",
       "item": "pneumaticcraft:charging_station",
       "text": "As with all types of Drone, these drones require $(l:base_concepts/pressure)pressure/$ to operate, and will automatically seek out $(l:tools/drone#charging)a Charging Station with a Dispenser Upgrade/$ if low on air."
     },
