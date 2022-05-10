@@ -35,12 +35,12 @@
     {
       "type": "text",
       "title": "處理經驗（續）",
-      "text": "Note that the Interface doesn't have an internal liquid buffer; it uses your experience directly as a 'tank'. This means that when pumping XP in or out, you need a device that can transport liquids at a rate higher than the amount of liquid XP per XP point. This rate is 20mB/tick for all known XP fluids at the time of writing."
+      "text": "需要注意的是，空氣介面自身並不具有內部流體快取；傳輸的流體直接與玩家的經驗值互動。因此，傳輸經驗流體時，傳輸速率需要大於每刻傳輸 1 點經驗對應的流體量。書寫本頁時，對於已知的所有經驗流體這一速率為 20 mB/刻。"
     },
     {
       "type": "text",
       "title": "Auto-Charging",
-      "text": "By pointing a $(l:tubes/charging_module)Charging Module/$ at the $(item)Aerial Interface/$, you can charge any $(l:base_concepts/pressure)pressurizable/$ items in your inventory.$(p)Note that to charge any worn $(l:armor/overview)Pneumatic Armor/$ items, the Charging Module must be pointed at a side of the Interface which is connected to your armor slots."
+      "text": "若將$(l:tubes/charging_module)充氣管道模組/$指向$(item)空中傳輸介面/$，可以對物品欄中的$(l:base_concepts/pressure)可充氣/$物品進行充氣。$(p)需要注意的是，要對佩戴的$(l:armor/overview)氣動盔甲/$充氣，充氣管道模組應指向與盔甲欄位連結的側面。"
     },
     {
       "type": "crafting",
