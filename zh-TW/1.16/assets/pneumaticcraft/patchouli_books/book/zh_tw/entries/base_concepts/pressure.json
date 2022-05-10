@@ -5,7 +5,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "Compressed air is the $(pncr) $(thing)power system/$, based on real-world pressure mechanics.$(p)$(li)Compressed air is $(italic)produced/$ by a class of machines called $(thing)Compressors/$, of which there are several types.$(li)All pressurizable machines and tools have a $(thing)volume/$ (measured in mL), which is the amount of air they can store at standard atmospheric pressure, or $(ttcolor)$(t:This mod uses 0 bar to represent standard atmospheric pressure, also known as Gauge Pressure)0 bar/$."
+      "text": "壓縮空氣是$(pncr)中的$(thing)能量系統/$，而這一系統是基於真實世界中依靠壓力運轉的機器的。$(p)$(li)壓縮空氣是由一系列稱作$(thing)壓縮機/$的機器$(italic)生產的/$，而這些壓縮機有很多種。$(li)所有可被加壓的機器都具有一項稱為$(thing)容量/$（以 mL 計）的屬性，代表在一個標準大氣壓（或者說，$(ttcolor)$(t:該模組使用 0 bar 表示標準大氣壓或表壓力。)0 bar/$）下其可儲存的空氣量。"
     },
     {
       "type": "text",
