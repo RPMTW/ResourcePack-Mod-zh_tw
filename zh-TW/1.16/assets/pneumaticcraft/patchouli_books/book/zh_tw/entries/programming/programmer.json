@@ -58,14 +58,14 @@
     {
       "type": "text",
       "anchor": "convert_relative",
-      "title": "Convert to Relative",
-      "text": "Say you've designed a program that runs an automated farm and you want to share this. People on a different world will have their farm at different coordinates, so they would have to change every single $(l:programming/area)Area/$ widget; what a pain.$(p)The $(thing)Convert to Relative/$ button makes this easier; it also provides tooltips indicating what you need to do to convert your program."
+      "title": "轉換至相對坐標",
+      "text": "假如有一個自動農場的程式，需要被共享。在其餘位置的玩家的農場將會在其餘坐標處，因此其需要修改每一個$(l:programming/area)區域/$拼圖；真是麻煩。$(p)$(thing)轉換至相對坐標/$按鈕使其更為容易；同時，提供轉化程式的指引。"
     },
     {
       "type": "text",
       "anchor": "convert_relative",
-      "title": "Convert to Relative (cont.)",
-      "text": "You will need to add one fixed $(l:programming/coordinate_operator)Coordinate Operator/$ widget, along with a $(l:programming/coordinate)Coordinate/$ widget containing a $(thing)base position/$ (e.g. the position of an input chest). It then converts any absolute positions (area or coordinate) used in your program to coordinates relative to that base position.$(p)Now, users of your program will only have to adjust a single coordinate to use your program!"
+      "title": "轉換至相對坐標（續）",
+      "text": "需要加入一個固定的$(l:programming/coordinate_operator)坐標運算元/$拼圖，以及包含有$(thing)基準位置/$（例如，輸入儲物箱的位置）的$(l:programming/coordinate)坐標/$拼圖。此後，其將程序中的任何絕對位置（區域或坐標）轉化為相對與基準位置的坐標。$(p)這樣一來，其餘玩家只需要修改程序中的一個坐標！"
     }
   ]
 }
