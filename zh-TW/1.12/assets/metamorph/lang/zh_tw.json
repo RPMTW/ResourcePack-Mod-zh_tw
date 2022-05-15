@@ -186,5 +186,9 @@
     "morph.section.entity": "實體偽裝（Metamorph）",
     "morph.section.user": "玩家偽裝",
     "metamorph.gui.body_parts.keys.select_prev": "選擇前一個身體附件",
-    "metamorph.gui.body_parts.keys.select_next": "選擇後一個身體附件"
+    "metamorph.gui.body_parts.keys.select_next": "選擇後一個身體附件",
+    "metamorph.gui.creative.keys.onionskin": "Toggle onion skins",
+    "metamorph.gui.editor.shadow.all": "Render all",
+    "metamorph.gui.editor.shadow.noshadow": "No shadow",
+    "metamorph.gui.editor.shadow.onlyshadow": "Only shaodws"
 }
