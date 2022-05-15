@@ -3019,5 +3019,13 @@
     "dcs.creativetab.machine": "HeatAndClimate:Machine",
     "dcs.creativetab.magic": "HeatAndClimate:Magic",
     "dcs.creativetab.tool": "HeatAndClimate:Tools",
-    "entity.dcs.main.coat_rack.name": "Coat Rack"
+    "entity.dcs.main.coat_rack.name": "Coat Rack",
+    "tile.dcs_device_display_case_0.name": "Display Case",
+    "dcs.tip.displaycase": "Right-click with sneaking: Open owner GUI.",
+    "dcs.gui.device.displaycase": "Display Case",
+    "dcs.gui.message.displaycase.price_add": "UP",
+    "dcs.gui.message.displaycase.price_red": "DOWN",
+    "dcs.gui.message.displaycase.buy": "BUY",
+    "dcs.gui.message.displaycase.emerald_max": "The emeralds are full. Please contact the owner.",
+    "dcs.gui.message.displaycase.failed": "This item cannot be purchased."
 }

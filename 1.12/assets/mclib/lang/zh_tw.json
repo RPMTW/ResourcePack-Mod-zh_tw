@@ -218,5 +218,9 @@
     "mclib.tooltip_style.light": "Light",
     "mclib.tooltip_style.dark": "Dark",
     "mclib.config.appearance.trackpad_decimal_places": "Trackpad decimal places",
-    "mclib.config.comments.appearance.trackpad_decimal_places": "Set how many decimal places should not be rounded"
+    "mclib.config.comments.appearance.trackpad_decimal_places": "Set how many decimal places should not be rounded",
+    "mclib.gui.transforms.delta.origin": "Around the origin",
+    "keybinds.config.title": "Keybinds",
+    "keybinds.config.unknown_mod": "Unknown mod",
+    "keybinds.config.no_category": "No category"
 }

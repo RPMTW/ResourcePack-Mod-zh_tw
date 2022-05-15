@@ -1685,5 +1685,8 @@
     "attack.dev1.1.name": "Lightning Wave",
     "attack.dev1.1.text": "Do 300 damage to the enemy.",
     "card.dev2.name": "Berserker Soul",
-    "card.dev2.text": "Draw cards until you draw a non-Pokémon card. As you draw each card, deal 20 damage to all your opponent's Pokémon, and discard the card drawn."
+    "card.dev2.text": "Draw cards until you draw a non-Pokémon card. As you draw each card, deal 20 damage to all your opponent's Pokémon, and discard the card drawn.",
+    "battleSpectator.title": "Spectating",
+    "selector.mydiscard": "Your Discard Pile",
+    "trainer.energysearch.selector.reveal": "Opponent has picked an energy card from the deck"
 }

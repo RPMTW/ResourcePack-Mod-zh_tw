@@ -186,5 +186,9 @@
     "morph.section.entity": "Entity morphs (Metamorph)",
     "morph.section.user": "User morphs",
     "metamorph.gui.body_parts.keys.select_prev": "Select previous body part",
-    "metamorph.gui.body_parts.keys.select_next": "Select next body part"
+    "metamorph.gui.body_parts.keys.select_next": "Select next body part",
+    "metamorph.gui.creative.keys.onionskin": "Toggle onion skins",
+    "metamorph.gui.editor.shadow.all": "Render all",
+    "metamorph.gui.editor.shadow.noshadow": "No shadow",
+    "metamorph.gui.editor.shadow.onlyshadow": "Only shaodws"
 }
