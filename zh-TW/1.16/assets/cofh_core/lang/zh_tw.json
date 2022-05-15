@@ -139,7 +139,7 @@
     "enchantment.minecraft.infinity.desc": "普通的箭永不會被消耗。",
     "enchantment.minecraft.knockback.desc": "強化近戰攻擊的擊退效果。",
     "enchantment.minecraft.looting.desc": "提升生物掉落物數量。",
-    "enchantment.minecraft.loyalty.desc": "三叉戟會折返使用者手中。",
+    "enchantment.minecraft.loyalty.desc": "Item returns after being thrown.",
     "enchantment.minecraft.luck_of_the_sea.desc": "提升精緻垂釣戰利品的出現機率。",
     "enchantment.minecraft.lure.desc": "縮短垂釣戰利品上鈎的耗時。",
     "enchantment.minecraft.mending.desc": "賦予帶有該附魔的物品以消耗經驗值修復自身的能力。",
@@ -201,5 +201,8 @@
     "info.cofh.heads": "Heads",
     "info.cofh.none": "無",
     "info.cofh.tails": "Tails",
-    "effect.cofh_core.supercharge": "Supercharging"
+    "effect.cofh_core.supercharge": "Supercharging",
+    "info.cofh.crossbow_loaded": "Loaded from:",
+    "death.attack.knife": "%1$s got knifed by %2$s!",
+    "death.attack.knife.item": "%1$s was poked by %2$s using %3$s!"
 }
