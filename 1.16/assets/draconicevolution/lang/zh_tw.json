@@ -139,7 +139,7 @@
     "gui.draconicevolution.draconium_chest.autofill_lock.info": "Autofill Lock",
     "gui.draconicevolution.draconium_chest.autofill_off": "Autofill Off",
     "gui.draconicevolution.draconium_chest.autofill_off.info": "Autofill Off",
-    "gui.draconicevolution.draconium_chest.color_picker": "Change Color",
+    "gui.draconicevolution.draconium_chest.color_picker": "Change Chest Color",
     "gui.draconicevolution.draconium_chest.color_picker.info": "Change Color",
     "gui.draconicevolution.draconium_chest.smelt_energy": "Smelt Energy",
     "gui.draconicevolution.draconium_chest.smelt_speed": "Smelt Speed",
@@ -610,5 +610,10 @@
     "item.draconicevolution.p2p_dislocator": "Bound Dislocator (Point to Point)",
     "item.draconicevolution.p2p_dislocator_unbound": "Un-Bound Dislocator (Point to Point)",
     "item.draconicevolution.player_dislocator": "Bound Dislocator (Player)",
-    "item.draconicevolution.player_dislocator_unbound": "Un-Bound Dislocator (Player)"
+    "item.draconicevolution.player_dislocator_unbound": "Un-Bound Dislocator (Player)",
+    "block.draconicevolution.placed_item": "Placed Item",
+    "gui.draconicevolution.draconium_chest.feed.all.info": "Feed All\nFeed all smeltable items into the furnace.",
+    "gui.draconicevolution.draconium_chest.feed.filter.info": "Feed Filtered\nFeed any items that are already being smelted.",
+    "gui.draconicevolution.draconium_chest.feed.off.info": "Feed Off",
+    "gui.draconicevolution.draconium_chest.feed.sticky.info": "Feed Filtered (Sticky)\nThe same as Filtered but will keep one item so the filter persists."
 }

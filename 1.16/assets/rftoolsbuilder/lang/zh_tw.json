@@ -58,5 +58,6 @@
     "message.rftoolsbuilder.space_chamber_card.gold": "Sneak right-click on a space chamber controller to set the channel for this card. Right-click in the air to show an overview of the area contents. Insert it in a builder to copy/move the linked area",
     "message.rftoolsbuilder.space_chamber_card.cost": "Base cost: ",
     "message.rftoolsbuilder.space_chamber_card.channel": "Channel: ",
-    "message.rftoolsbuilder.space_chamber_card.extra": "(final cost depends on infusion level)"
+    "message.rftoolsbuilder.space_chamber_card.extra": "(final cost depends on infusion level)",
+    "block.rftoolsbuilder.support_block": "Support Block"
 }
