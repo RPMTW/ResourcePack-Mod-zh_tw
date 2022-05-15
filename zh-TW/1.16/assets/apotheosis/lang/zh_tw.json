@@ -709,5 +709,8 @@
     "info.apotheosis.capturing": "捕獲附魔使怪物有機率掉落生怪蛋\\n \\n掉落機率：每等級 0.4%%",
     "book.apotheosis.name": "暗影編年史",
     "book.apotheosis.subtitle": "神化指南書",
-    "book.apotheosis.landing": "歡迎來到神化的世界。$(br2)神化被組織成各種$(#8080FF)模塊$()，而這本書也是如此。$(br2)被禁用的模塊將被隱藏。"
+    "book.apotheosis.landing": "歡迎來到神化的世界。$(br2)神化被組織成各種$(#8080FF)模塊$()，而這本書也是如此。$(br2)被禁用的模塊將被隱藏。",
+    "stat.apotheosis.silent": "Silent",
+    "stat.apotheosis.silent.desc": "Spawned entities will make no noise",
+    "item.apotheosis.spawner": "%s Spawner"
 }
