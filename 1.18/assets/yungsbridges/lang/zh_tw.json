@@ -14,5 +14,22 @@
     "text.autoconfig.yungsbridges-fabric-1_18.option.yungsBridges.spawnRates.@Tooltip[3]": "Note this is ONLY an attempt - the bridge will only spawn if the chunk contains fitting river terrain.",
     "text.autoconfig.yungsbridges-fabric-1_18.option.yungsBridges.spawnRates.smallBridges": "Small Bridge Spawn Rate",
     "text.autoconfig.yungsbridges-fabric-1_18.option.yungsBridges.spawnRates.mediumBridges": "Medium Bridge Spawn Rate",
-    "text.autoconfig.yungsbridges-fabric-1_18.option.yungsBridges.spawnRates.largeBridges": "Large Bridge Spawn Rate"
+    "text.autoconfig.yungsbridges-fabric-1_18.option.yungsBridges.spawnRates.largeBridges": "Large Bridge Spawn Rate",
+    "text.autoconfig.yungsbridges-fabric-1_18.category.Spawn Rates": "SpawnRates",
+    "text.autoconfig.yungsbridges-fabric-1_18.category.default": "General",
+    "text.autoconfig.yungsbridges-fabric-1_18.option.blacklistedBiomes": "Blacklisted Biomes",
+    "text.autoconfig.yungsbridges-fabric-1_18.option.blacklistedBiomes.@Tooltip[0]": "List of biomes that will NOT have bridges.",
+    "text.autoconfig.yungsbridges-fabric-1_18.option.blacklistedBiomes.@Tooltip[1]": "Only river biomes are considered for placement, so don't specify non-river biomes.",
+    "text.autoconfig.yungsbridges-fabric-1_18.option.blacklistedBiomes.@Tooltip[2]": "List must be comma-separated values enclosed in square brackets.",
+    "text.autoconfig.yungsbridges-fabric-1_18.option.blacklistedBiomes.@Tooltip[3]": "Entries must have the mod namespace included.",
+    "text.autoconfig.yungsbridges-fabric-1_18.option.blacklistedBiomes.@Tooltip[4]": "For example: \"[minecraft:river, minecraft:frozen_river]\"",
+    "text.autoconfig.yungsbridges-fabric-1_18.option.spawnRates": "Spawn Rates",
+    "text.autoconfig.yungsbridges-fabric-1_18.option.spawnRates.@Tooltip[0]": "You may want to tweak these spawn rates if you are using a terrain overhaul mod.",
+    "text.autoconfig.yungsbridges-fabric-1_18.option.spawnRates.@Tooltip[1]": "The spawn rate of each bridge is 1/N per chunk, where N is the spawn rate value.",
+    "text.autoconfig.yungsbridges-fabric-1_18.option.spawnRates.@Tooltip[2]": "E.g. if N = 3 for small bridges, then an ATTEMPT will be made to spawn a small",
+    "text.autoconfig.yungsbridges-fabric-1_18.option.spawnRates.@Tooltip[3]": "bridge every 3 chunks. Note this is ONLY an attempt - the bridge will only",
+    "text.autoconfig.yungsbridges-fabric-1_18.option.spawnRates.@Tooltip[4]": "spawn if the chunk contains fitting river terrain.",
+    "text.autoconfig.yungsbridges-fabric-1_18.option.spawnRates.smallBridges": "Small Bridge Spawn Rate",
+    "text.autoconfig.yungsbridges-fabric-1_18.option.spawnRates.mediumBridges": "Medium Bridge Spawn Rate",
+    "text.autoconfig.yungsbridges-fabric-1_18.option.spawnRates.largeBridges": "Large Bridge Spawn Rate"
 }

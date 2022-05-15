@@ -584,5 +584,6 @@
     "gui.xaero_manual_cave_mode": "Manual Cave Mode",
     "gui.xaero_manual_cave_mode_start": "Manual Cave Mode Start Y",
     "gui.xaero_box_manual_cave_mode_start": "Which Y level to start mapping blocks from when the manual cave mode is enabled. Manual cave mode can be toggled with a key binding. For the \"Auto\" option, go all the way to the left.",
-    "gui.xaero_manual_cave_mode_start_auto": "Auto"
+    "gui.xaero_manual_cave_mode_start_auto": "Auto",
+    "gui.xaero_chunk_grid_line_width": "Chunk Grid Line Width"
 }

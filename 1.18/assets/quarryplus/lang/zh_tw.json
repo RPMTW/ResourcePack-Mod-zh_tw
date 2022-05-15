@@ -190,5 +190,7 @@
     "block.quarryplus.remote_placer": "Remote Placer",
     "block.quarryplus.waterlogged_flex_marker": "Waterlogged Flexible Marker",
     "block.quarryplus.waterlogged_marker": "Waterlogged Marker Plus",
-    "block.quarryplus.waterlogged_marker16": "Waterlogged Chunk Marker"
+    "block.quarryplus.waterlogged_marker16": "Waterlogged Chunk Marker",
+    "text.autoconfig.quarryplus.option.common.removeFrameAfterQuarryIsRemoved": "Remove Frame after Quarry removed",
+    "text.autoconfig.quarryplus.option.common.removesCommonMaterialAdvQuarry": "Remove common material in ChunkDestroyer"
 }

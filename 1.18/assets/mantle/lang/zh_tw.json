@@ -28,5 +28,8 @@
     "command.mantle.harvest_tiers.success_save": "Dumped sorted tiers to '%s'",
     "command.mantle.harvest_tiers.success_list": "Harvest tiers:",
     "command.mantle.harvest_tiers.tag": "%s: Block tag %s",
-    "command.mantle.harvest_tiers.no_tag": "%s: No tag"
+    "command.mantle.harvest_tiers.no_tag": "%s: No tag",
+    "command.mantle.registry.not_found": "Unknown registry '%s'",
+    "command.mantle.tag_preference.empty_tag": "No preference for %s tag %s",
+    "command.mantle.tag_preference.preference": "Preferred value for %s tag %s is %s"
 }

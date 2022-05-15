@@ -95,5 +95,8 @@
     "pehkui.configgui.scale_limits.projectiles.minimum": "Minimum value for the scale type pehkui:projectiles",
     "pehkui.configgui.scale_limits.projectiles.maximum": "Maximum value for the scale type pehkui:projectiles",
     "pehkui.configgui.scale_limits.explosions.minimum": "Minimum value for the scale type pehkui:explosions",
-    "pehkui.configgui.scale_limits.explosions.maximum": "Maximum value for the scale type pehkui:explosions"
+    "pehkui.configgui.scale_limits.explosions.maximum": "Maximum value for the scale type pehkui:explosions",
+    "commands.pehkui.debug.config.value": "Config \"%s\" is now set to \"%s\"",
+    "commands.pehkui.debug.config.changed": "Config \"%s\" was changed from \"%s\" to \"%s\"",
+    "commands.pehkui.debug.config.reset": "Config \"%s\" was reset from \"%s\" to default \"%s\""
 }
