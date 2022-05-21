@@ -20,6 +20,6 @@
     "chickenchunks:commands.restrictions.player.timeout.reset": "重置超時的％s回到全局控制",
     "chickenchunks:commands.restrictions.player.allowed_chunks.set": "設置總允許的塊為％s to％s塊",
     "chickenchunks:commands.restrictions.player.allowed_chunks.reset": "重置總允許的塊為％s回到全局控制",
-    "chickenchunks:commands.restrictions.player.chunks_per_loader.set": "Set Chunks Per Loader for %s to %s Chunks",
-    "chickenchunks:commands.restrictions.player.chunks_per_loader.reset": "Set Chunks Per Loader for %s back to global control"
+    "chickenchunks:commands.restrictions.player.chunks_per_loader.set": "將%s的每個載入器的塊設置為%s個塊",
+    "chickenchunks:commands.restrictions.player.chunks_per_loader.reset": "將 %s 的每個載入程式的塊數設置回全域控制"
 }
