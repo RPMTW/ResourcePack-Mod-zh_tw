@@ -704,13 +704,13 @@
     "stat.apotheosis.no_ai.desc": "生成的實體將沒有AI",
     "title.apotheosis.spawner": "生怪磚調整",
     "info.apotheosis.spawner": "生怪磚可以用 %s 收集，並且可以用各種物品進行調整。",
-    "info.apotheosis.spawner.no_silk": "Spawners may be modified with various items, but collection with Silk Touch is currently disabled.",
-    "info.apotheosis.spawner.always_drop": "Spawners may be modified with various items, and will always drop when broken.",
+    "info.apotheosis.spawner.no_silk": "生怪磚可以用各種物品進行修改，但目前停用了絲綢之觸。",
+    "info.apotheosis.spawner.always_drop": "生怪磚可以用各種物品進行修改，並且在挖掘會掉落。",
     "info.apotheosis.capturing": "捕獲附魔使怪物有機率掉落生怪蛋\\n \\n掉落機率：每等級 0.4%%",
     "book.apotheosis.name": "暗影編年史",
     "book.apotheosis.subtitle": "神化指南書",
     "book.apotheosis.landing": "歡迎來到神化的世界。$(br2)神化被組織成各種$(#8080FF)模塊$()，而這本書也是如此。$(br2)被禁用的模塊將被隱藏。",
-    "stat.apotheosis.silent": "Silent",
-    "stat.apotheosis.silent.desc": "Spawned entities will make no noise",
-    "item.apotheosis.spawner": "%s Spawner"
+    "stat.apotheosis.silent": "靜音",
+    "stat.apotheosis.silent.desc": "生成的實體不會發出聲音",
+    "item.apotheosis.spawner": "%s 生怪磚"
 }
