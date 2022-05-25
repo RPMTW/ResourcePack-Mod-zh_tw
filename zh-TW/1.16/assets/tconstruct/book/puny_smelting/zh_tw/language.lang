@@ -7,11 +7,11 @@ tier_two_materials=第二階段材料
 
 upgrades=升級
 upgrades.subtext=Tools can be enhanced with upgrades, though only a limited number can be applied to each tool.
-upgrades.group_general=General
-upgrades.group_harvest=Harvest
-upgrades.group_weapon=Weapon
+upgrades.group_general=一般
+upgrades.group_harvest=獲取
+upgrades.group_weapon=武器
 upgrades.group_damage=額外傷害
-upgrades.group_armor=Armor
+upgrades.group_armor=盔甲
 
 slotless=無槽強化
 slotless.subtext=These modifiers do not require any slots to apply, you can have them all if you wish.
