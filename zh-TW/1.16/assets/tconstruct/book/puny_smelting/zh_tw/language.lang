@@ -1,6 +1,6 @@
 // Sections - Puny Smelting
 intro=簡介
-melter=Melter
+melter=冶煉爐
 moving_fluids=熔融液體
 casting=鑄造
 tier_two_materials=第二階段材料
@@ -10,10 +10,10 @@ upgrades.subtext=Tools can be enhanced with upgrades, though only a limited numb
 upgrades.group_general=General
 upgrades.group_harvest=Harvest
 upgrades.group_weapon=Weapon
-upgrades.group_damage=Bonus Damage
+upgrades.group_damage=額外傷害
 upgrades.group_armor=Armor
 
 slotless=無槽強化
 slotless.subtext=These modifiers do not require any slots to apply, you can have them all if you wish.
-slotless.group_slotless=Slotless
-slotless.group_bonus_upgrades=Upgrades++
+slotless.group_slotless=無槽
+slotless.group_bonus_upgrades=升級++
