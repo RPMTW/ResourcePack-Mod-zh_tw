@@ -2,13 +2,13 @@
   "modifier_id": "tconstruct:turtle_shell",
   "text": [
     {
-      "text": "Does not protect you from green, red, or blue shells."
+      "text": "不能保護您免受綠色、紅色或藍色貝殼的傷害。"
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Decreases damage underwater and increases swim speed",
-    "Multiple levels, each level further increases protection and swim speed",
-    "Requires 1 defense slot"
+    "減少水下傷害，提高游泳速度",
+    "分為多個級別，每升一級會提升保護和游泳速度",
+    "需要 1 個防禦槽"
   ]
 }
