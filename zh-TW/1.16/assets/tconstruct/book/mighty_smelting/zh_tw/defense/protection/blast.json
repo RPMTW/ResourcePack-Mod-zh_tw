@@ -2,13 +2,13 @@
   "modifier_id": "tconstruct:blast_protection",
   "text": [
     {
-      "text": "Creeper, Aw man."
+      "text": "苦力怕，不是吧!"
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Reduces explosive damage and knockback",
-    "Multiple levels, each level further increases resistance",
-    "Requires 1 defense slot"
+    "降低爆炸傷害和擊退效果。",
+    "分為多個等級，每升一級會提升抗性",
+    "需要 1 個防禦槽"
   ]
 }
