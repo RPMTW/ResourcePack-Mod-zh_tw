@@ -2,16 +2,16 @@
   "tool": "tconstruct:travelers_chestplate",
   "text": [
     {
-      "text": "Don't forget to tuck in the tag, don't want to walk around with it out."
+      "text": "記得把標籤塞進去，不要在它露出來時走來走去。"
     },
     {
-      "text": "Chestplates, important to protect your important chest organs. And look mighty fine while doing so.",
+      "text": "胸甲，保護你胸部重要器官的要件，穿上去看起來會很安全。",
       "paragraph": true
     }
   ],
   "properties": [
-    "Low Armor",
-    "Low Durability",
+    "低盔甲",
+    "低耐久",
     "3 Upgrade Slots",
     "2 Defense Slots",
     "1 個技能槽"
