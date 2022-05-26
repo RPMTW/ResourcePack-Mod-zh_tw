@@ -2,13 +2,13 @@
   "modifier_id": "tconstruct:magic_protection",
   "text": [
     {
-      "text": "You're not a very good wizard Harry if you have to use this. Use more deflection spells."
+      "text": "哈利，如果你必須用這個，你不是一個好的巫師。用更多的偏移法術吧。"
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Decreases magic damage",
-    "Multiple levels, each level further decreases magic damage",
-    "Requires 1 defense slot"
+    "減少魔法傷害。",
+    "分為多個等級，每升一級會減少魔法傷害",
+    "需要 1 個防禦槽"
   ]
 }
