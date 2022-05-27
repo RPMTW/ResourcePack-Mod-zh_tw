@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:leaping",
   "text": [
     {
-      "text": "Grants +0.5 blocks jump height per level, and increases the safe fall distance by 1 block per level."
+      "text": "每級可獲得 +0.5 格的跳躍高度，每級可將安全掉落距離增加 1 格。"
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Maximum of 2 levels",
+    "最多強化至2級",
     "每個等級需要1個升級槽"
   ]
 }
