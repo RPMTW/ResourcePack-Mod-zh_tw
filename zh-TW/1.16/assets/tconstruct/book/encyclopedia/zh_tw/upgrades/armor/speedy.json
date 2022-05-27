@@ -2,13 +2,13 @@
   "modifier_id": "tconstruct:speedy",
   "text": [
     {
-      "text": "Multiplies speed by an extra 10% per level."
+      "text": "將速度乘以每個級別額外10%。"
     }
   ],
   "more_text_space": true,
   "effects": [
     "可以逐漸提升等級",
-    "Maximum of 3 levels",
+    "最多強化至3級",
     "每個等級需要1個升級槽"
   ]
 }
