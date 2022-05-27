@@ -2,17 +2,17 @@
   "modifier_id": "tconstruct:offhanded",
   "text": [
     {
-      "text": "Prevents using the main hand's interaction ability if the offhand is occupied. For example, an axe will not strip wood if a shield is in the offhand. On two handed tools, this effectively makes it one handed."
+      "text": "如果副手持有工具，則阻止使用主手的互動能力。例如，如果副手有盾牌，斧頭不會剝木皮。若強化在雙手工具上，則使其成為單手工具，並再次允許使用副手。"
     },
     {
-      "text": "The second level entirely disables the tool interaction ability.",
+      "text": "第二級完全禁用工具互動功能。",
       "paragraph": true
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Maximum of 2 levels",
-    "Different recipe for each level",
+    "最多強化至2級",
+    "每個級別有不同的配方",
     "需要1個升級槽"
   ]
 }
