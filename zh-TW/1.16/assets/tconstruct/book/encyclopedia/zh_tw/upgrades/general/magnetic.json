@@ -2,7 +2,7 @@
   "modifier_id": "tconstruct:magnetic",
   "text": [
     {
-      "text": "After mining blocks or attacking mobs (for tools) or passively (for armor), pulls items within 3 blocks towards the player, ignoring gravity."
+      "text": "在挖掘方塊或攻擊生物（用於工具）或被動（用於盔甲）後，將3格方塊內的物品拉向玩家，無視重力。"
     },
     {
       "text": "每級增加 1 格額外範圍，並提高速度。",
@@ -11,7 +11,7 @@
   ],
   "more_text_space": true,
   "effects": [
-    "Maximum of 1 level for armor per piece",
+    "每盔甲部位最多 1 級",
     "最多強化至5級",
     "每個等級需要1個升級槽"
   ]
