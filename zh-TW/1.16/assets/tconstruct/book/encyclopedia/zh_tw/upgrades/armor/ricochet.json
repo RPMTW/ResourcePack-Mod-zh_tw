@@ -2,13 +2,13 @@
   "modifier_id": "tconstruct:ricochet",
   "text": [
     {
-      "text": "Increases knockback received by 20% per level."
+      "text": "每個級別收到的擊退增加 20%。"
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Maximum of 2 levels per piece",
-    "Combines effect of all pieces",
+    "每部位最多 2 級",
+    "結合所有部位的效果",
     "每個等級需要1個升級槽"
   ]
 }
