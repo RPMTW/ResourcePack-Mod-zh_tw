@@ -2,13 +2,13 @@
   "modifier_id": "tconstruct:springy",
   "text": [
     {
-      "text": "Has a 25% chance per level to apply up to 2 blocks of knockback per level to the attacker. Applies effect from the piece with the largest bonus."
+      "text": "每級有25%的幾率對攻擊者施加每級最多2格方塊的擊退。從加成最大的部位中施加效果。"
     }
   ],
   "more_text_space": true,
   "effects": [
     "可以逐漸提升等級",
-    "Maximum of 3 levels",
+    "最多強化至3級",
     "每個等級需要1個升級槽"
   ]
 }
