@@ -2,13 +2,13 @@
   "modifier_id": "tconstruct:lightspeed_armor",
   "text": [
     {
-      "text": "Grants +5% movement speed per level in well lit areas. If the area is not as well lit, some boost will still be granted, but not as much"
+      "text": "在光線充足的區域，每級可提升 +5% 的移動速度。如果該區域照明不佳，仍會授予一些提升，但不會那麼多"
     }
   ],
   "more_text_space": true,
   "effects": [
     "可以逐漸提升等級",
-    "Maximum of 3 levels",
+    "最多強化至3級",
     "每個等級需要1個升級槽"
   ]
 }
