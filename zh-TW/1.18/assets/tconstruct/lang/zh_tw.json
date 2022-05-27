@@ -1894,7 +1894,7 @@
     "command.tconstruct.stats.success.bonus.modify.single": "%s 在%s的物品上增加 %s",
     "command.tconstruct.stats.success.bonus.modify.multiple": "%s 在實體 %s 上增加%s",
     "command.tconstruct.stats.success.bonus.set.single": "%s在 %s的物品上設置獎勵 %s",
-    "command.tconstruct.stats.success.bonus.set.multiple": "%sSet bonus to %s on %s entities",
+    "command.tconstruct.stats.success.bonus.set.multiple": "%s在 實體 %s 上設置獎勵 %s",
     "command.tconstruct.stats.success.bonus.set.parse_fail": "%sFailed to parse %s",
     "command.tconstruct.stats.success.multiply.modify.single": "%sMultiplied by %s on %s's item",
     "command.tconstruct.stats.success.multiply.modify.multiple": "%sMultiplied by %s on %s entities",
