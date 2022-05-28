@@ -41,8 +41,8 @@
     "inventory.mtmechs.tunnelarmor": "掘隧裝甲",
     "key.categories.mtmechs": "魔導機甲",
     "subtitles.mtmechs.beamheld": "*Vzzsh*",
-    "subtitles.mtmechs.mechon": "*Powering On*",
-    "subtitles.mtmechs.mechoff": "*Powering Off*",
-    "gamerule.paInfiniteEnergy": "Charge PA infinitely instead of using batteries.",
-    "itemGroup.mtmechs": "Magitek Mechs"
+    "subtitles.mtmechs.mechon": "*開啟電源*",
+    "subtitles.mtmechs.mechoff": "*關閉電源*",
+    "gamerule.paInfiniteEnergy": "為 PA 無限充電，而不是使用電池。",
+    "itemGroup.mtmechs": "魔導機甲"
 }
