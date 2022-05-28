@@ -2,10 +2,10 @@
   "modifier_id": "tconstruct:sticky",
   "text": [
     {
-      "text": "Has a 25% chance per level to apply up to 1.5 seconds (plus 1 seconds per level) of slowness to the attacker. Applies effect from the piece with the largest bonus."
+      "text": "每級有25%的幾率對攻擊者施加長達1.5秒（加上每個級別1秒）的緩慢。從加成最大的部位中施加效果。"
     },
     {
-      "text": "On weapons, the bonus applies to attacked targets.",
+      "text": "在武器上，加成施加於被攻擊的目標。",
       "paragraph": true
     }
   ],
