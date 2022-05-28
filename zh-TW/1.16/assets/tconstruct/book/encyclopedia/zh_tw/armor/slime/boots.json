@@ -2,19 +2,19 @@
   "tool": "tconstruct:slime_boots",
   "text": [
     {
-      "text": "Slime Boots are high mobility boots, with no protection or defense slots and high upgrade slots."
+      "text": "史萊姆靴是高機動性靴子，沒有保護或防禦槽和升級槽。"
     },
     {
-      "text": "They can be created by pouring enderslime on a rabbits foot, and are repaired with rabbit hide.",
+      "text": "它們可以通過將終界史萊姆倒在兔子腳上來製造，並用兔子皮修復。",
       "paragraph": true
     }
   ],
   "properties": [
-    "546 Durability",
-    "5 Upgrade Slots",
-    "0 Defense Slots",
-    "1 Ability Slot",
-    "Bouncy",
-    "Leaping I"
+    "546 耐久度",
+    "5 個升級槽",
+    "0 個防護槽",
+    "1 個能力槽",
+    "彈性",
+    "彈跳 I"
   ]
 }
