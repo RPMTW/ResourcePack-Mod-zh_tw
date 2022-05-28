@@ -2,10 +2,10 @@
   "modifier_id": "tconstruct:pocket_chain",
   "text": [
     {
-      "text": "This modifier allows tool belt or shield strap to open the armor UI by interacting while sneaking, without being required to add pockets as well."
+      "text": "此強化允許工具腰帶或盾牌綁帶通過在潛行時進行互動來打開盔甲UI，而無需添加口袋。"
     },
     {
-      "text": "This modifier also grants +1 slot to both shield strap and tool belt, allowing a full hotbar swap with tool belt.",
+      "text": "該強化還為盾牌綁帶和工具腰帶提供+1個插槽，允許與工具腰帶交換整快捷欄。",
       "paragraph": true
     }
   ],
@@ -13,6 +13,6 @@
   "effects": [
     "最高只有 1 級",
     "無槽升級",
-    "Requires tool belt or shield strap"
+    "需要工具腰帶或盾牌綁帶"
   ]
 }
