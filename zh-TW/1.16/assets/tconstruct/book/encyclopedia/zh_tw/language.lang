@@ -33,14 +33,14 @@ upgrades.group_armor=盔甲
 upgrades.feather_falling=輕如鴻毛
 
 defense=防禦
-defense.subtext=Instead of material traits, armor will include defense slots to improve protection.
-defense.group_protection=Protection
-defense.group_special=Special
+defense.subtext=盔甲會透過防禦槽來增強保護，而不是透過材料特性。
+defense.group_protection=保護
+defense.group_special=特殊
 
 slotless=無槽
 slotless.subtext=無槽升級不需要消耗任何升級槽。
-slotless.group_general=General
-slotless.group_bonus=Bonus
+slotless.group_general=一般
+slotless.group_bonus=增益
 
 abilities=能力
 abilities.subtext=能力強化的槽數比升級少，但功能更強。
