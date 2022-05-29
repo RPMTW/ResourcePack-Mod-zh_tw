@@ -2,14 +2,14 @@
   "modifier_id": "tconstruct:revitalizing",
   "text": [
     {
-      "text": "Increases max health by 1 heart per level."
+      "text": "每級增加1顆心的最大生命值。"
     }
   ],
   "more_text_space": true,
   "effects": [
     "可以逐漸提升等級",
-    "Maximum of 2 levels on helmets or boots",
-    "Maximum of 3 levels on chestplates or leggings",
-    "Requires 1 defense slot"
+    "頭盔或靴子最多2級",
+    "胸甲或護腿最多3級",
+    "需要 1 個防禦槽"
   ]
 }
