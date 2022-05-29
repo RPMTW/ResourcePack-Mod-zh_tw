@@ -2,15 +2,15 @@
   "tool": "tconstruct:slime_helmet",
   "text": [
     {
-      "text": "The slimeskull is a helmet that copies abilities from monsters. It is created from pouring enderslime on a mob head, with the head type determining the effects."
+      "text": "史萊姆頭顱是一種能複製怪物能力的頭盔。它是通過將終界史萊姆澆注在生物頭顱上製成的，頭顱類型決定其效果。"
     },
     {
-      "text": "The slimeskull section of the book has more information on variants.",
+      "text": "書中的史萊姆頭顱部分有更多關於各種類的資訊。",
       "paragraph": true
     }
   ],
   "properties": [
-    "+362 Bonus Durability",
+    "+362 額外耐久度",
     "5 個升級槽",
     "0 個防護槽",
     "1 個能力槽"
