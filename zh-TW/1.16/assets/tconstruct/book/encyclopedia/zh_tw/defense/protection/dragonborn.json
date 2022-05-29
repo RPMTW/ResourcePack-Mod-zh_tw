@@ -2,16 +2,16 @@
   "modifier_id": "tconstruct:dragonborn",
   "text": [
     {
-      "text": "Grants +10% resistance while airborne. Caps at 80% across the whole set, or 10 levels."
+      "text": "在空中時產生+10%的抗性。整個套裝的上限為80%，或10級。"
     },
     {
-      "text": "Boosts attack damage while in air by 10% per level of the highest level piece.",
+      "text": "依等級最高的部位，在空中時每級提升10%攻擊傷害。",
       "paragraph": true
     }
   ],
   "more_text_space": true,
   "effects": [
     "可以逐漸提升等級",
-    "Requires 1 defense slot"
+    "需要 1 個防禦槽"
   ]
 }
