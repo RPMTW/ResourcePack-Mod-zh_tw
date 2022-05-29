@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:golden",
   "text": [
     {
-      "text": "Causes piglins to be friendly towards you. Only one piece out of the whole set needs to be golden."
+      "text": "使豬布林對你友好。整套套裝中只需要有一件是金製的。"
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Maximum of 1 level per piece",
-    "Requires 1 defense slot"
+    "每部位最多 1 級",
+    "需要 1 個防禦槽"
   ]
 }
