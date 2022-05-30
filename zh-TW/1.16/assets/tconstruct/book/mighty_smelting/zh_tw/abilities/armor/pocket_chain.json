@@ -2,13 +2,13 @@
   "modifier_id": "tconstruct:pocket_chain",
   "text": [
     {
-      "text": "Ever find stuff is too hard to reach in your pocket?"
+      "text": "曾經覺得口袋裡的的東西太難拿嗎？"
     }
   ],
   "effects": [
-    "Access legging inventory with sneaking and leggings interact",
-    "Requires tool belt or shield strap",
-    "Grants +1 slot to tool belt and shield strap",
-    "Requires 1 upgrade slot"
+    "蹲下並按下護腿互動快捷鍵打開護腿物品欄",
+    "需要工具腰帶或盾牌綁帶",
+    "工具綁帶和盾牌綁帶多 1 格欄位",
+    "需要 1 個升級插槽"
   ]
 }
