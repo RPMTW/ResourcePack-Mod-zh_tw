@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:looting",
   "text": [
     {
-      "text": "Punching so hard that more comes out."
+      "text": "打得很用力，出來的也很多。"
     }
   ],
   "effects": [
-    "Increases mob drops for unarmed attacks",
+    "赤手攻擊增加生物掉落物",
     "最高 3 級，每個等級所需材料不同",
-    "First level requires 1 ability slot"
+    "第一級需要 1 個能力槽"
   ]
 }
