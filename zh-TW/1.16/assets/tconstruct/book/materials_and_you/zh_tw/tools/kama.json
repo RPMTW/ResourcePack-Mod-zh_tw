@@ -2,18 +2,18 @@
   "tool": "tconstruct:kama",
   "text": [
     {
-      "text": "The Kama is a precision reaping tool, mowing down plants and shearing animals."
+      "text": "短刃鐮是個實用的收割工具。收割植物，或幫動物剪毛也行。"
     },
     {
       "text": "\n"
     },
     {
-      "text": "Rightclicking on crops or sugarcane harvests and replants all fully grown plants in the area."
+      "text": "右鍵點擊作物或是甘蔗能夠採收並重新種植。"
     }
   ],
   "properties": [
     "右鍵點擊來收割作物",
     "剪下方塊和動物",
-    "對植物有用"
+    "用來採收植物"
   ]
 }
