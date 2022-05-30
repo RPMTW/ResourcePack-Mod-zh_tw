@@ -2,19 +2,19 @@
   "tool": "tconstruct:pickaxe",
   "text": [
     {
-      "text": "The Pickaxe is a precise mining tool. It is effective on stone and ores."
+      "text": "鎬是一個實用的挖掘工具。對礦物和石頭有效。"
     },
     {
       "text": "\n"
     },
     {
-      "text": "It breaks blocks, OK?"
+      "text": "它是用來挖方塊的，懂？"
     }
   ],
   "properties": [
     "基礎挖掘工具",
-    "It's a pickaxe",
-    "Mines stone blocks and similar",
+    "這是一個鎬子",
+    "採集石質方塊",
     "貫穿傷害加成"
   ]
 }
