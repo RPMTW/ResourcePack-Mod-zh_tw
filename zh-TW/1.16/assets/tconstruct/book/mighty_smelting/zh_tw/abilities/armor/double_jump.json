@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:double_jump",
   "text": [
     {
-      "text": "Bunny hopping increases your skills and makes you way better at the game. Don't forget to throw in some proning for maximum effect."
+      "text": "兔子跳增加了你的跳躍能力並讓你玩遊戲玩得更好。記得先趴下來達到最大效果。"
     }
   ],
   "effects": [
-    "Allows an extra jump",
-    "Multiple levels, each level gives an extra jump",
+    "多跳一次",
+    "分為多個等級，每升一級會增加一次跳躍次數",
     "需要 1 個技能槽"
   ]
 }
