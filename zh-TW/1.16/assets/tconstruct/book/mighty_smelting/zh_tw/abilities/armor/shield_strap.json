@@ -2,13 +2,13 @@
   "modifier_id": "tconstruct:shield_strap",
   "text": [
     {
-      "text": "He protec, he attac, but most importantly he bring the torches bac."
+      "text": "他守護，他攻擊，但最重要的是，他帶回了火把。"
     }
   ],
   "effects": [
-    "Grants an extra offhand slot",
-    "Leggings interact allows swapping offhand",
-    "Multiple levels, each level gives +1 slot",
-    "Requires 1 ability slot"
+    "獲得額外的副手欄",
+    "用護腿互動快捷鍵來切換副手",
+    "分為多個等級，每升一級會多 1 格欄位",
+    "需要 1 個能力槽"
   ]
 }
