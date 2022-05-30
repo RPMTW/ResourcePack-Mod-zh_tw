@@ -2,13 +2,13 @@
   "modifier_id": "tconstruct:path_maker",
   "text": [
     {
-      "text": "Tired of forgetting the way back home? Why not leave a constant trail? Trample the earth as you walk and never forget where you have been!"
+      "text": "厭倦了忘記回家的路？何不嘗試留下一條連續的路徑，邊走邊留下記號，你永遠都不會忘了你從哪裡來！"
     }
   ],
   "effects": [
-    "Creates paths as you walk",
-    "Area boosted by expanded",
-    "Maximum of 1 level",
-    "Requires 1 ability slot"
+    "在走過的地方產生草徑",
+    "透過延展增加範圍",
+    "最高只有 1 級",
+    "需要 1 個能力槽"
   ]
 }
