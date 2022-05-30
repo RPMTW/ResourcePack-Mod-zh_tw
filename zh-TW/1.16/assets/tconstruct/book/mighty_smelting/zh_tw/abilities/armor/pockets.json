@@ -2,13 +2,13 @@
   "modifier_id": "tconstruct:pockets",
   "text": [
     {
-      "text": "Only thing you need now is a pocket calculator so you can properly add up the number of pockets."
+      "text": "現在你只需要一個口袋型計算器，這樣就能正確的添加口袋數量了。"
     }
   ],
   "effects": [
-    "Adds more inventory space",
-    "Access with sneaking and leggings interact",
-    "Multiple levels, each level gives +9 slots",
-    "Requires 1 ability slot"
+    "增加更多物品欄空間",
+    "蹲下並按下護腿互動快捷鍵打開",
+    "分為多個等級，每升一級會多 9 格欄位",
+    "需要 1 個能力槽"
   ]
 }
