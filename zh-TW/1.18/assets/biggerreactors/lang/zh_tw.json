@@ -76,10 +76,10 @@
     "screen.biggerreactors.reactor_coolant_port": "反應堆冷卻埠",
     "screen.biggerreactors.reactor_coolant_port.direction_toggle.input": "方向： §3輸入",
     "screen.biggerreactors.reactor_coolant_port.direction_toggle.output": "方向： §3輸出",
-    "screen.biggerreactors.reactor_coolant_port.direction_toggle.tooltip": "Toggle Direction\n§7Change which direction this port flows.",
+    "screen.biggerreactors.reactor_coolant_port.direction_toggle.tooltip": "切換方向\n§7改變這個端口流動的方向。",
     "screen.biggerreactors.reactor_access_port": "反應堆存取埠",
     "screen.biggerreactors.reactor_access_port.direction_toggle.input": "方向： §6輸入",
-    "screen.biggerreactors.reactor_access_port.direction_toggle.output": "Direction: §9Output",
+    "screen.biggerreactors.reactor_access_port.direction_toggle.output": "方向： §9輸出",
     "screen.biggerreactors.reactor_access_port.direction_toggle.tooltip": "Toggle Direction\n§7Change which direction this port flows.",
     "screen.biggerreactors.reactor_access_port.fuel_mode_toggle.fuel": "產出： §6 燃料",
     "screen.biggerreactors.reactor_access_port.fuel_mode_toggle.waste": "輸出中: §3廢物",
@@ -212,7 +212,7 @@
     "screen.biggerreactors.heat_exchanger_fluid_port": "Heat Exchanger Fluid Port",
     "screen.biggerreactors.heat_exchanger_fluid_port.channel_type.condenser": "Channel Connection: §cCondenser",
     "screen.biggerreactors.heat_exchanger_fluid_port.channel_type.evaporator": "Channel Connection: §9Evaporator",
-    "screen.biggerreactors.heat_exchanger_fluid_port.direction_toggle.input": "Direction: §cInput",
-    "screen.biggerreactors.heat_exchanger_fluid_port.direction_toggle.output": "Direction: §9Output",
-    "screen.biggerreactors.heat_exchanger_fluid_port.direction_toggle.tooltip": "Toggle Direction\n§7Change which direction this port flows."
+    "screen.biggerreactors.heat_exchanger_fluid_port.direction_toggle.input": "方向: §c輸入",
+    "screen.biggerreactors.heat_exchanger_fluid_port.direction_toggle.output": "方向： §9輸出",
+    "screen.biggerreactors.heat_exchanger_fluid_port.direction_toggle.tooltip": "切換方向\n§7改變這個端口流動的方向。"
 }
