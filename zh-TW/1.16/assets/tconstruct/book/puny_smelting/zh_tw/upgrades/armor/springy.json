@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:springy",
   "text": [
     {
-      "text": "Away your foes go, giving you enough time to turn heels and run, or heal."
+      "text": "遠離敵人，讓你有足夠時間掉頭逃跑或是喝罐補藥。"
     }
   ],
   "effects": [
-    "Provides a chance to knockback attackers",
-    "Multiple levels, each level further increases the chance to knockback",
+    "有機率擊退攻擊者",
+    "分為多個等級，每升一級會進一步提升擊退機率",
     "每個等級需要1個升級槽"
   ]
 }
