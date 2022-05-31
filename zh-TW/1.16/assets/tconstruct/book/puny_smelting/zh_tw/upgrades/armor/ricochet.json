@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:ricochet",
   "text": [
     {
-      "text": "Time to make a daring escape."
+      "text": "做個大膽的逃脫。"
     }
   ],
   "effects": [
-    "Increases knockback you recieve",
-    "Multiple levels, each level further increases knockback",
+    "增加你被擊退的效果",
+    "分為多個等級，每升一級會進一步提升擊退效果",
     "每個等級需要1個升級槽"
   ]
 }
