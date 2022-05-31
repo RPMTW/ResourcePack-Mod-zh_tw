@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:respiration",
   "text": [
     {
-      "text": "Who needs air to breathe anyway."
+      "text": "誰都需要呼吸空氣。"
     }
   ],
   "effects": [
-    "Reduces air consumption underwater",
-    "Multiple levels, each level further decreases air consumption",
+    "減少水下空氣消耗",
+    "分為多個等級，每升一級會進一步減少空氣消耗",
     "每個等級需要1個升級槽"
   ]
 }
