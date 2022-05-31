@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:leaping",
   "text": [
     {
-      "text": "Leap for the stars, and if you can not reach them, climb a mountain then try and reach them."
+      "text": "跳到星星上，如果搆不到，那就爬上山再試試看。"
     }
   ],
   "effects": [
-    "Increases jump height and safe fall height",
-    "Multiple levels, each level increases jump and fall damage height further",
+    "增加跳躍高度和安全降落高度",
+    "分為多個等級，每升一級會進一步增加跳躍高度和安全降落高度",
     "每個等級需要1個升級槽"
   ]
 }
