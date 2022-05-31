@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:strength",
   "text": [
     {
-      "text": "With great power, comes greater damage."
+      "text": "力量越大，傷害越高。"
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Increases attack damage of weapons",
+    "增加武器攻擊傷害",
     "可多次升級，每級會增加傷害",
     "每個等級需要1個升級槽"
   ]
