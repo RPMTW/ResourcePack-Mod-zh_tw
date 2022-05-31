@@ -1,6 +1,6 @@
 {
   "title": "金屬冶煉爐",
-  "subText": "The Mighty Smeltery is yours to control.",
+  "subText": "這強大的冶煉爐由你來控制。",
   "hidden": [
     "structurereq",
     "sgui2"
@@ -12,11 +12,11 @@
       "data": "Details"
     },
     {
-      "before": "seared_tanks",
+      "before": "焦黑儲罐",
       "action": "column_break"
     },
     {
-      "before": "seared_tanks",
+      "before": "焦黑儲罐",
       "action": "add_group",
       "data": "Blocks"
     }
