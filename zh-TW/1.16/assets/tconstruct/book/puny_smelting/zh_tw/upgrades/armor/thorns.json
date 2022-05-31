@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:thorns",
   "text": [
     {
-      "text": "What a prick."
+      "text": "真是諷「刺」。"
     }
   ],
   "effects": [
-    "Has a chance to damage attackers when hit",
-    "Multiple levels, each level further increases the chance",
+    "被擊中時有機率傷害攻擊者",
+    "分為多個等級，每升一級會進一步增加機率",
     "每個等級需要1個升級槽"
   ]
 }
