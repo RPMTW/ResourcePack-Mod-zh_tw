@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:speedy",
   "text": [
     {
-      "text": "Gotta go fast."
+      "text": "〈Gotta go fast〉"
     }
   ],
   "effects": [
-    "Increases movemenet speed",
-    "Multiple levels, each level increases speed further",
+    "增加移動速度",
+    "分為多個等級，每升一級會進一步增加速度",
     "每個等級需要1個升級槽"
   ]
 }
