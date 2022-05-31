@@ -2,11 +2,11 @@
   "modifier_id": "tconstruct:recapitated",
   "text": [
     {
-      "text": "So first you want to take their heads off, and now you want to put them back on? Who are you? Frankenstein?"
+      "text": "你把他們的頭給砍下來，然後你現在又說要再把它們放回去？你以為你是誰？科學怪人嗎？"
     }
   ],
   "effects": [
     "增加 1 個升級插槽",
-    "不可重複升級"
+    "單次升級"
   ]
 }
