@@ -2,20 +2,20 @@
   "tool": "tconstruct:excavator",
   "text": [
     {
-      "text": "The Excavator is a broad digging tool. It harvests soil and snow in a wide range."
+      "text": "開掘鏟是一種範圍型的挖掘工具，能夠採掘大範圍的泥土或者雪。"
     },
     {
       "text": "\n"
     },
     {
-      "text": "或當你需要挖很多墳墓的時候。"
+      "text": "當你需要挖很多墳墓的時候也很有用。"
     }
   ],
   "properties": [
-    "需要工匠鐵砧",
-    "進階採礦工具",
-    "3x3 AOE 採礦",
-    "對泥土、沙子和礫石有效",
-    "可以挖地"
+    "高級挖掘工具",
+    "3x3 範圍挖掘",
+    "對泥土，沙和礫石有效",
+    "能夠產生草徑",
+    "自帶擊退 II"
   ]
 }
