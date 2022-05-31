@@ -2,13 +2,13 @@
   "modifier_id": "tconstruct:tool_belt",
   "text": [
     {
-      "text": "Its a belt to hold your tools. Tool belt."
+      "text": "工具腰帶，放工具的腰帶。"
     }
   ],
   "effects": [
-    "Grants +4 slots per level",
-    "Slots can be swapped with hotbar slots",
-    "Max 2 levels",
+    "每級增加 4 格欄位。",
+    "腰帶的物品欄可以跟快捷欄上的互換",
+    "最大 2 級",
     "需要 1 個能力槽"
   ]
 }
