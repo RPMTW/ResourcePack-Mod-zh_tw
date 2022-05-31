@@ -2,16 +2,16 @@
   "modifier_id": "tconstruct:slurping",
   "text": [
     {
-      "text": "He was number one!"
+      "text": "他從前的主人一定是一個第一名的人！"
     },
     {
-      "text": "Right clicking a tank with helmet fills it",
+      "text": "拿著頭盔右鍵儲罐來裝滿它",
       "paragraph": true
     }
   ],
   "effects": [
-    "Drink fluids stored in the helmlet",
-    "Keybind is used to drink",
+    "飲用儲存在頭盔的液體",
+    "按綁定鍵飲用",
     "單個等級",
     "需要 1 個能力槽"
   ]
