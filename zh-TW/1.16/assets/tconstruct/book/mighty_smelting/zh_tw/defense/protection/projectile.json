@@ -2,13 +2,13 @@
   "modifier_id": "tconstruct:projectile_protection",
   "text": [
     {
-      "text": "它不會保護你的膝蓋免受箭矢的傷害，迫使你放棄冒險，成為一名守衛。"
+      "text": "它不會保護那打中你的膝蓋，迫使你放棄冒險並成為一名守衛的箭。"
     }
   ],
   "more_text_space": true,
   "effects": [
-    "減少射彈的傷害",
-    "可以逐漸提升等級",
+    "減少投射物的傷害",
+    "可以不用一次升級",
     "需要 1 個防禦槽"
   ]
 }
