@@ -2,18 +2,18 @@
   "tool": "tconstruct:slime_boots",
   "text": [
     {
-      "text": "These boots combine the power of the rabbit with slime to allow you to jump around with ease."
+      "text": "這雙靴子將兔子和史萊姆的力量結合，讓你可以輕鬆跳到任何地方去。"
     },
     {
-      "text": "To create these fantastic boots, pour enderslime on a rabbits foot. The boots can later be repaired using rabbit hide.",
+      "text": "要做出這雙奇特的靴子，只要將終界史萊姆倒在兔子腳上即可。之後可以拿兔子皮來修復它。",
       "paragraph": true
     }
   ],
   "properties": [
     "High Durability",
-    "No Armor or Defense Slots",
-    "5 Upgrade Slots",
+    "沒有盔甲和防禦槽",
+    "5 個升級槽",
     "1 個能力槽",
-    "Bouncy and Leaping"
+    "它很會彈"
   ]
 }
