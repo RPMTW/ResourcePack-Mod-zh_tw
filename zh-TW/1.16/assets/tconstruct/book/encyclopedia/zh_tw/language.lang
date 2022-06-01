@@ -20,8 +20,8 @@ tier_three_materials.subtext=這些素材需經鑄鍊成能形成，可以使用
 
 tier_four_materials=第四階段材料
 tier_four_materials.subtext=這些材料不得不透過在地獄裏的探索而得到
-skull_materials=黏液頭顱
-skull_materials.subtext=本節描述了所有類型的頭顱用於在製造黏液頭顱時的效果
+skull_materials=史萊姆頭顱
+skull_materials.subtext=本節描述了所有類型的頭顱用於在製造史萊姆頭顱時的效果
 
 upgrades=升級
 upgrades.subtext=每個工具的升級槽總數是有限的。
@@ -30,14 +30,14 @@ upgrades.group_harvest=獲取
 upgrades.group_weapon=武器
 upgrades.group_damage=傷害提升
 upgrades.group_armor=盔甲
-upgrades.feather_falling=輕如鴻毛
+upgrades.feather_falling=輕盈
 
 defense=防禦
 defense.subtext=盔甲會透過防禦槽來增強保護，而不是透過材料特性。
 defense.group_protection=保護
 defense.group_special=特殊
 
-slotless=無槽
+slotless=無槽升級
 slotless.subtext=無槽升級不需要消耗任何升級槽。
 slotless.group_general=一般
 slotless.group_bonus=增益
