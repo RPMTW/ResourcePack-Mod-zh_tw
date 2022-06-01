@@ -1,7 +1,7 @@
 // Sections - Puny Smelting
 intro=簡介
-melter=冶煉爐
-moving_fluids=熔融液體
+melter=熔化爐
+moving_fluids=運輸液體
 casting=鑄造
 tier_two_materials=第二階段材料
 
@@ -14,6 +14,6 @@ upgrades.group_damage=額外傷害
 upgrades.group_armor=盔甲
 
 slotless=無槽強化
-slotless.subtext=These modifiers do not require any slots to apply, you can have them all if you wish.
+slotless.subtext=這種強化不會消耗任何槽位。如果你想，你可以全部加上去。
 slotless.group_slotless=無槽
 slotless.group_bonus_upgrades=升級++
