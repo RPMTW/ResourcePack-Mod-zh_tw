@@ -1,7 +1,7 @@
 {
     "block.tmechworks.copper_block": "銅方塊",
     "block.tmechworks.aluminum_block": "鋁塊",
-    "block.tmechworks.firestarter": "Firestarter",
+    "block.tmechworks.firestarter": "點火器",
     "block.tmechworks.drawbridge": "吊橋",
     "block.tmechworks.copper_ore": "銅礦",
     "block.tmechworks.aluminum_ore": "鋁礦",
@@ -12,12 +12,12 @@
     "item.tmechworks.aluminum_ingot": "鋁錠",
     "item.tmechworks.aluminum_nugget": "鋁粒",
     "item.tmechworks.upgrade_blank": "空白升級",
-    "item.tmechworks.upgrade_drawbridge_advanced": "Drawbridge Advanced Upgrade",
-    "item.tmechworks.upgrade_drawbridge_distance": "Drawbridge Distance Upgrade",
+    "item.tmechworks.upgrade_drawbridge_advanced": "吊橋進階升級",
+    "item.tmechworks.upgrade_drawbridge_distance": "吊橋距離升級",
     "item.tmechworks.upgrade_speed": "速度升級",
     "item.tmechworks.upgrade_drawbridge_advanced.tooltip": "Allows you to set every block the drawbridge will place",
-    "item.tmechworks.upgrade_drawbridge_distance.tooltip": "Increases drawbridge extend distance by %d",
-    "item.tmechworks.upgrade_speed.tooltip": "Reduces the drawbridge extend delay by %f",
+    "item.tmechworks.upgrade_drawbridge_distance.tooltip": "將吊橋延伸距離增加 %d",
+    "item.tmechworks.upgrade_speed.tooltip": "將吊橋延伸延遲降低 %f",
     "itemGroup.tmechworks.TinkersMechworks": "Tinkers' Mechworks",
     "tmechworks:tooltip.behaviour": "Behaviour: %s",
     "tmechworks:tooltip.behaviour.firestarter.extinguish": "§9Extinguish",
@@ -31,7 +31,7 @@
     "tmechworks:drawbridge.state.extended": "Extended: %s",
     "tmechworks:drawbridge.state.extendedcount": "Distance: %d Blocks",
     "tmechworks:inventory.drawbridge": "吊橋",
-    "tmechworks:inventory.firestarter": "Firestarter",
+    "tmechworks:inventory.firestarter": "點火器",
     "tmechworks:widget.arrow.down": "下",
     "tmechworks:widget.arrow.up": "上",
     "tmechworks:widget.arrow.front": "前部",
@@ -45,5 +45,5 @@
     "tmechworks:gui.blocknum": "Block #%d",
     "tmechworks:gui.blacklisted": "§4列入黑名單",
     "config.waila.plugin_tmechworks": "Tinkers' Mechworks",
-    "config.waila.plugin_tmechworks.redstone_machine": "Redstone Machines"
+    "config.waila.plugin_tmechworks.redstone_machine": "紅石機械"
 }
