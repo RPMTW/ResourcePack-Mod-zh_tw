@@ -13,7 +13,7 @@ upgrades.group_weapon=武器
 upgrades.group_damage=額外傷害
 upgrades.group_armor=盔甲
 
-slotless=無槽強化
-slotless.subtext=這種強化不會消耗任何槽位。如果你想，你可以全部加上去。
-slotless.group_slotless=無槽
+slotless=無槽升級
+slotless.subtext=這種升級不會消耗任何槽位。如果你想，你可以全部加上去。
+slotless.group_slotless=無槽升級
 slotless.group_bonus_upgrades=升級++
