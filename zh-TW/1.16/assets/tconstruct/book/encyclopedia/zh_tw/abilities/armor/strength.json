@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:strength",
   "text": [
     {
-      "text": "每一等級使所有武器的攻擊傷害+10%"
+      "text": "每級使所有武器的攻擊傷害 +10%。"
     }
   ],
   "more_text_space": true,
   "effects": [
     "可以逐漸提升等級",
-    "每級需要 1 個技能槽"
+    "每級需要 1 個能力槽"
   ]
 }
