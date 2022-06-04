@@ -163,7 +163,7 @@
     "modifier.bettercompat.miners_luck.description": "A small chance to give the player a gift while mining",
     "modifier.bettercompat.anti_armor": "Anti Armor",
     "modifier.bettercompat.anti_armor.flavor": "Resistance Resistance!",
-    "modifier.bettercompat.anti_armor.description": "Deals the damage of the targets armor rating plus a bonus",
+    "modifier.bettercompat.anti_armor.description": "Deals the damage of the targets armor rating plus a bonus, but removes the sweeping ability on your sword",
     "modifier.bettercompat.bloodied": "Bloodied",
     "modifier.bettercompat.bloodied.flavor": "Gory!",
     "modifier.bettercompat.bloodied.description": "Increases damage as the players health lowers, but only below half health",
