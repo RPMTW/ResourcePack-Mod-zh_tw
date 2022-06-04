@@ -1,0 +1,19 @@
+{
+    "name": "吸收",
+    "icon": "minecraft:textures/mob_effect/absorption.png",
+    "category": "apotheosis:potion/recipes",
+    "flag": "apotheosis:potion",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(9)吸收$()是一個有趣的效果。$(p)每個等級給予 2 顆心的臨時生命值。$(p)但是，這些心在持續時間內不會刷新，所以製成$(l:apotheosis:potion /charms/charm)藥水護符$()是個優秀的選擇。"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "title": "釀造配方",
+            "item": "minecraft:golden_apple",
+            "text": "這種藥水可以用基礎藥水和金蘋果製作。$(p)它可以用通常的成分延長、強化或變成噴濺藥水。"
+        }
+    ]
+}
