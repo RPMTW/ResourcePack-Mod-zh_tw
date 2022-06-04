@@ -1,0 +1,16 @@
+{
+    "name": "Bamboo",
+    "icon": "minecraft:bamboo",
+    "category": "apotheosis:garden/garden",
+    "flag": "apotheosis:garden",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "竹子現在可以長到 32 個方塊高。$(p)竹子的生長機制有點奇怪，所以它不一定會生長到這個高度。$(p)這個值是可配置的，所以它可能會更高（或更低），比基於模組包的設定。"
+        }
+    ],
+    "extra_recipe_mappings": {
+        "minecraft:bamboo": 0
+    }
+}
