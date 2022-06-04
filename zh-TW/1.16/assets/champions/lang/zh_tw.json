@@ -27,5 +27,7 @@
     "affix.champions.wounding": "創傷",
     "affix.champions.shielding": "保護",
     "affix.champions.arctic": "極寒",
-    "affix.champions.enkindling": "點燃"
+    "affix.champions.enkindling": "點燃",
+    "death.attack.cinderBullet": "%1$s was struck by flames",
+    "death.attack.cinderBullet.indirect": "%1$s was struck by flames whilst fighting %2$s"
 }
