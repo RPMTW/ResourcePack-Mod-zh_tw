@@ -1,0 +1,17 @@
+{
+    "name": "附魔能力",
+    "icon": "minecraft:golden_sword",
+    "category": "apotheosis:enchanting/changes",
+    "flag": "apotheosis:enchanting",
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "在原版中，所有沒有明確$(l:apotheosis:enchanting/table/enchantability)物品附魔能力$()的物品的默認值為零。$(p)神化將默認值更改為一。$(p)這具有使某些物品無意中被附魔的副作用。"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "此調整不會改變具有明確附魔能力的物品。$(p)附魔能力為零的物品永遠不能被附魔。"
+        }
+    ]
+}
