@@ -61,5 +61,17 @@
     "advancements.end.defeat_all_enderlings.title": "大師終界靈獵人",
     "advancements.end.defeat_all_enderlings.description": "擊敗所有的終界靈",
     "advancements.end.defeat_endersent.title": "釋放終界遣使",
-    "advancements.end.defeat_endersent.description": "將墮落哨兵從恍惚中救出來"
+    "advancements.end.defeat_endersent.description": "將墮落哨兵從恍惚中救出來",
+    "entity.enderlinginvaders.stronghold_endersent": "Endersent",
+    "entity.enderlinginvaders.necrosent": "Necrosent",
+    "entity.enderlinginvaders.soul_bullet": "Soul Bullet",
+    "block.enderlinginvaders.skull_of_ender": "Skull Of Ender",
+    "block.enderlinginvaders.wall_skull_of_ender": "Skull Of Ender",
+    "enchantment.enderlinginvaders.soul_protection": "Soul Barrier",
+    "death.soulBullet": "%1$s's soul was absorbed",
+    "death.attack.soulBullet": "%1$s's soul was absorbed by %2$s using a Soul Bullet",
+    "advancements.end.find_enderling_stronghold.title": "The Stronghold At The End Of The Game",
+    "advancements.end.find_enderling_stronghold.description": "Maybe it would be better not to go in",
+    "advancements.end.defeat_necrosent.title": "Destroy the Necrosent",
+    "advancements.end.defeat_necrosent.description": "Destroy the corrupted master of souls and claim its skull"
 }
