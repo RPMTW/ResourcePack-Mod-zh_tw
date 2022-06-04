@@ -1,0 +1,11 @@
+[
+	"I developed an upgrade for my machines, making use of a principle similar to the item pusher and programming it into a specialized chipset.",
+	"This system ensures that the machine expels its products or materials that are no longer needed to a side that I designate as the output (using a logistics editor in item mode).",
+	"裝配",
+	{
+		"link": "futurepack:lang/part/as_chip.transport.json"
+	},
+	"高品質（chip power）的運輸晶片組與普通晶片相比沒有任何更多的優勢!",
+	"Info: The actual effect of this chipset will be determined by the machine in which this chipset is installed.",
+	"Hint: Refer to \"Logic Chipset\" for general information on chipsets."
+]
