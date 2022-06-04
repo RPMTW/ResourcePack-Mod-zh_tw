@@ -5,7 +5,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "$(item)綠叢印記$()有數次使用次數。在煉金矩陣中依次放入$(item)促生試劑$(item)和$(item)強化石板$()，便可以製作出綠叢印記了。此印記可以使用你$(thing)靈魂網路$()中的 $(blood)LP$() 來促進周圍植物的生長。"
+      "text": "The $(item)Sigil of the Green Grove$() is an item that has multiple uses. Crafted in an array with a $(item)Growth Reagent$() and a $(item)Reinforced Slate$(), the sigil can use your $(thing)Soul Network$()'s $(blood)LP$() to nourish and grow nearby plants."
     },
     {
       "type": "crafting_2-step_sigil",
