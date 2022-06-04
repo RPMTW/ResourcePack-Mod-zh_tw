@@ -25,15 +25,15 @@
     "config.jeiintegration.tooltips.unlocalizedNameTooltipMode": "未本地化名提示文字",
     "config.jeiintegration.tooltips.unlocalizedNameTooltipMode.comment": "設定本地化名提示文字的陳述。",
     "tooltip.jeiintegration.metadata": "元數據：",
-    "tooltip.jeiintegration.nbtTagData": "NBT:",
+    "tooltip.jeiintegration.nbtTagData": "NBT：",
     "tooltip.jeiintegration.durability": "耐久：",
     "tooltip.jeiintegration.burnTime": "燃燒時間：",
     "tooltip.jeiintegration.burnTime.suffix": "刻",
-    "tooltip.jeiintegration.registryName": "ID:",
+    "tooltip.jeiintegration.registryName": "ID：",
     "tooltip.jeiintegration.maxStackSize": "最大堆疊數：",
     "tooltip.jeiintegration.oreDict": "礦物詞典：",
     "tooltip.jeiintegration.unlocalizedName": "本地化名：",
-    "config.jeiintegration.tooltips.internalNameTooltipMode": "Internal Name Tooltip",
-    "config.jeiintegration.tooltips.internalNameTooltipMode.comment": "Configure the state of the internal name tooltip.",
-    "tooltip.jeiintegration.internalName": "ID:"
+    "config.jeiintegration.tooltips.internalNameTooltipMode": "內部名稱工具提示",
+    "config.jeiintegration.tooltips.internalNameTooltipMode.comment": "設定內部名稱提示文字的陳述。",
+    "tooltip.jeiintegration.internalName": "ID："
 }
