@@ -387,5 +387,9 @@
     "commands.ftbquests.command.error.no_inventory": "目標方塊沒有物品欄！",
     "commands.ftbquests.command.feedback.table_exported": "成功導出獎勵表「%s」的 %s 個物品到目標方塊！",
     "commands.ftbquests.command.feedback.table_imported": "成功導出獎勵表「%s」的 %s 個物品！",
-    "commands.ftbquests.command.feedback.table_too_many_items": "警告：表 %s 的物品超過了目標方塊所能處理的數量，停止導出！"
+    "commands.ftbquests.command.feedback.table_too_many_items": "警告：表 %s 的物品超過了目標方塊所能處理的數量，停止導出！",
+    "ftbquests.task.ftbquests.structure": "Find Structure",
+    "ftbquests.task.ftbquests.structure.structure": "Structure",
+    "ftbquests.task.ftbquests.observation.observe_type": "Type",
+    "ftbquests.task.ftbquests.observation.to_observe": "Observe"
 }
