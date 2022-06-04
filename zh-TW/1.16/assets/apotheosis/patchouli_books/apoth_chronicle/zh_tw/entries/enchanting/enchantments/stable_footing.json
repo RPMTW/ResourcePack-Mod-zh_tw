@@ -1,0 +1,17 @@
+{
+    "name": "穩住腳步",
+    "icon": "minecraft:enchanted_book",
+    "category": "apotheosis:enchanting/enchantments",
+    "flag": "apotheosis:enchanting",
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(9)穩住腳步$()是用於靴子的附魔。$(p)它會取消飛行的挖掘速度懲罰。$(p)這包括所有不站在地面上的懲罰。"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "與$(9)親水性$()結合使用時，你可以在游泳時獲得完整的挖掘速度。"
+        }
+    ]
+}
