@@ -1,0 +1,64 @@
+{
+    "name": "資訊功能介面",
+    "icon": "apotheosis:textures/gui/book/question_mark.png",
+    "category": "apotheosis:enchanting/table",
+    "flag": "apotheosis:enchanting",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "附魔台有一個的介面能讓你了解可用的附魔。$(p)請在附魔台上放置一個物品，然後點擊右上角的問號。"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "本章的目的是介紹這個介面，幫助你導航它。$(p)如果你對它有充分的了解，你就不會再對附魔困惑了。"
+        },
+        {
+            "type": "patchouli:image",
+            "title": "選項選擇",
+            "images": [
+                "apotheosis:textures/gui/book/slot_selector.png"
+            ],
+            "text": "在這裡可以選擇要查看的附魔選項。"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "The currently selected slot will be highlighted, and slots that are not available will be grayed out.$(p)Hovering the slot will show you the level, the $(4)Min Power$() and the $(9)Max Power$()."
+        },
+        {
+            "type": "patchouli:image",
+            "title": "Enchantments Window",
+            "images": [
+                "apotheosis:textures/gui/book/enchantments_window.png"
+            ],
+            "text": "這向你展示了可使用的附魔。"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Given the current item, and the currently selected power level, a certain array of enchantments are available.$(p)This window shows you each enchantment, their level, rarity, and chance of being selected.$(p)It will also show what enchantments are exclusive with each other."
+        },
+        {
+            "type": "patchouli:image",
+            "title": "The Power Slider",
+            "images": [
+                "apotheosis:textures/gui/book/power_slider.png"
+            ],
+            "text": "This lets you change the simulated power level."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "When you select a slot, the Power Slider automatically selects the power level directly in the middle of the power range.$(p)The slider can only go down to the $(4)Min Power$() and up to the $(9)Max Power$() for the current slot."
+        },
+        {
+            "type": "patchouli:image",
+            "title": "Rarity Weights",
+            "images": [
+                "apotheosis:textures/gui/book/weights.png"
+            ],
+            "text": "This shows the weight of each rarity."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Every enchantment has a rarity, and each rarity has a weight.$(p)The chance of selecting an enchantment is its individual weight divided by the total pool (of the weights of all available enchantments).$(p)$(arcana) can change the rarity weights."
+        }
+    ]
+}
