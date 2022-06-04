@@ -73,11 +73,11 @@
     {
       "type": "text",
       "anchor": "sentient_aspects",
-      "text": "然而，它們也會改變你的感知工具的能力，使它們更強大。$(br)$(li)$(raw)原生意志$()：增加傷害和攻擊速度。$(corrosive)$(li)腐蝕意志$()：攻擊會有一定機率使敵人中毒或凋零，沒中時與$(raw)原生$()相同。$(vengeful)$(li)復仇意志$()：增加傷害，但不如$(raw)原生$()。比任何其他類型都更能提高攻擊速度。提供的移動速度增益，會隨著意志數量的增加而增加。"
+      "text": "However, they also change how your Sentient Tools behave, making them more powerful.$(br) $(li)$(raw)Raw Will$(): Increases damage. $(corrosive)$(li)Corrosive Will$(): Attacks have a chance to apply poison or wither to your foes, otherwise same as $(raw)Raw$(). $(vengeful)$(li)Vengeful Will$(): increases damage, but not as much as $(raw)Raw$(). Increases attack speed. Gives a movement speed buff that increases with higher amounts of Will."
     },
     {
       "type": "text",
-      "text": "$(steadfast)$(li)堅毅意志$()：增加傷害（但不如$(raw)原生$()）並在擊殺後獲得吸收效果。$(destructive)$(li)破壞意志$()：比任何其他意志類型增加更多的傷害，但增加的攻擊速度比任何其他類型都慢。頂級仍然比未授予意志的工具/同等的鐵製工具快，但比任何其他類型的工具都要慢。"
+      "text": "$(steadfast)$(li)Steadfast Will$(): Increases damage (but not as much as $(raw)Raw$()) and grants Absorption after a kill. $(destructive)$(li)Destructive Will$(): Increases damage more than any other will type, but decreases attack speed."
     },
     {
       "type": "text",
