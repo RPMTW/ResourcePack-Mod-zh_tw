@@ -31,5 +31,10 @@
     "item.endertanks.bucket.team": "終界儲液桶",
     "block.endertanks.tank.public": "終界儲液槽",
     "block.endertanks.tank.private": "終界儲液槽",
-    "block.endertanks.tank.team": "終界儲液槽"
+    "block.endertanks.tank.team": "終界儲液槽",
+    "info.endertanks.bucket.mode.info.txt": " §oSneak Scroll to Change Mode",
+    "info.endertanks.bucket.mode.normal.txt": "§7Mode:§o Normal (Pickup, Sneak to Place)",
+    "info.endertanks.bucket.mode.invert.txt": "§7Mode:§o Invert (Place, Sneak to Pickup)",
+    "info.endertanks.bucket.mode.pickup.txt": "§7Mode:§o Pickup Only",
+    "info.endertanks.bucket.mode.place.txt": "§7Mode:§o Place Only"
 }
