@@ -712,5 +712,10 @@
     "book.apotheosis.landing": "歡迎來到神化的世界。$(br2)神化被組織成各種$(#8080FF)模塊$()，而這本書也是如此。$(br2)被禁用的模塊將被隱藏。",
     "stat.apotheosis.silent": "靜音",
     "stat.apotheosis.silent.desc": "生成的實體不會發出聲音",
-    "item.apotheosis.spawner": "%s 生怪磚"
+    "item.apotheosis.spawner": "%s 生怪磚",
+    "info.apotheosis.eterna.t": "Eterna: %s/%s",
+    "info.apotheosis.quanta.t": "Quanta: %s%%",
+    "info.apotheosis.arcana.t": "Arcana: %s%%",
+    "info.apotheosis.rectification.t": "Rectification: %s%%",
+    "info.apotheosis.clues.t": "Enchanting Clues: %s"
 }
