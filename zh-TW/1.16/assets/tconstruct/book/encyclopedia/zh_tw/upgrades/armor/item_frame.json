@@ -2,10 +2,10 @@
   "modifier_id": "tconstruct:item_frame",
   "text": [
     {
-      "text": "向頭盔添加插槽，當佩戴頭盔時，這些插槽將呈現在UI上。"
+      "text": "向頭盔添加物品欄，當佩戴頭盔時，這些欄位將呈現在 UI 上。"
     },
     {
-      "text": "頭盔物品欄可以通過在持有時與之互動來打開。",
+      "text": "頭盔物品欄可以在手持時右鍵來打開",
       "paragraph": true
     }
   ],
