@@ -1,6 +1,6 @@
 {
     "name": "Turbine parts",
-    "description": "A Turbine is build using the following parts.$(br2)Some parts are mandatory, some are optional. Some are available to all Turbine variants and some aren't. The part page will illustrate which parts are available for the desired Turbine.",
+    "description": "渦輪機透過以下部件建造而成。$(br2)有些部件是不可或缺的，有些則是可選的。有些部件可用於所有型號的反應堆，有些則不行。在部件頁面中說明了各個部件適用於何種渦輪。",
     "icon": "bigreactors:basic_turbinecontroller",
     "parent": "bigreactors:turbine",
     "sortnum": 3
