@@ -2,9 +2,9 @@
 intro=簡介
 
 small_tools=小型工具
-small_tools.info=工具資訊
+small_tools.info=關於小型工具
 large_tools=大型工具
-large_tools.info=工具資訊
+large_tools.info=關於大型工具
 
 armor=盔甲
 armor.info=關於盔甲
@@ -13,15 +13,15 @@ tier_one_materials=第一階段材料
 tier_one_materials.subtext=這些材料容易取得，並且可以放在部件加工台來製作工具部件
 
 tier_two_materials=第二階段材料
-tier_two_materials.subtext=這些素材需要熔煉並鑄模才能製作而成，而且可能會更稀有一些
+tier_two_materials.subtext=這些材料需要熔煉並鑄模才能製作而成，而且可能會更稀有一些
 
 tier_three_materials=第三階段材料
-tier_three_materials.subtext=這些素材需經鑄鍊成能形成，可以使用合金爐或冶煉廠來鑄鍊
+tier_three_materials.subtext=這些材料需要合金才能形成，可以使用合金爐或冶煉爐來冶煉
 
 tier_four_materials=第四階段材料
-tier_four_materials.subtext=這些材料不得不透過在地獄裏的探索而得到
+tier_four_materials.subtext=這些材料不得不透過在地獄裡的探索而得到
 skull_materials=史萊姆頭顱
-skull_materials.subtext=本節描述了所有類型的頭顱用於在製造史萊姆頭顱時的效果
+skull_materials.subtext=本節描述了所有類型的頭顱用於製造史萊姆頭顱時的效果
 
 upgrades=升級
 upgrades.subtext=每個工具的升級槽總數是有限的。
