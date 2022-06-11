@@ -143,6 +143,6 @@
     "command.classyhats.replacehat.usage": "/replacehat <player> <equipped|page> ...",
     "command.classyhats.replacehat.usage.equipped": "/replacehat <player> equipped <hat|none>",
     "command.classyhats.replacehat.usage.page": "/replacehat <player> page <page.n.n> <hat|none>",
-    "command.classyhats.replacehat.usage.invalid.page": "Invalid page ID (%s)",
+    "command.classyhats.replacehat.usage.invalid.page": "無效的頁面 ID（%s）",
     "keybind.classyhats.hats_inventory": "帽子物品欄"
 }
