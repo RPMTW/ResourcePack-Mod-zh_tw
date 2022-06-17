@@ -1,7 +1,7 @@
 {
     "lsdl.config.dogsSpawnLying": "Do dogs spawn into the world lying down if they are already sitting.",
     "lsdl.config.timeBeforeLie": "Time to spend sitting (in ticks) before dogs lie down.",
-    "lsdl.config.rangeBeforeGettingUp": "Range for target to get to dog before dog gets up (in blocks)\nlsdl.config.getsUpTo=Who the dog gets up to. 0 = Nobody, 1 = Owner, 2 = Players, 3 = Any living entity",
-    "lsdl.config.enabledPoses": "Poses for lying down that are enabled. If the mod can't find compatible poses, it will randomly pick one set.",
-    "lsdl.config.attemptModWolfSupport": "Allow the mod to attempt to add support for mod wolves? (Still doesn't allow support for Doggy Talents)"
+    "lsdl.config.rangeBeforeGettingUp": "狗起床前目標到達狗的範圍（以方格數為單位）\nlsdl.config.getsUpTo=狗跟誰站起來。0 = 沒人，1 = 所有者，2 = 玩家，3 = 任何生物",
+    "lsdl.config.enabledPoses": "啟用的躺下姿勢。如果模組找不到相容的姿勢，它會隨機選擇一組。",
+    "lsdl.config.attemptModWolfSupport": "允許模組嘗試加入對模組狼的支援？（仍然不允許支援 Doggy Talents 模組）"
 }
