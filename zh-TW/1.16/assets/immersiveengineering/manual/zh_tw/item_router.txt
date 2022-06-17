@@ -1,9 +1,9 @@
-物品路由器
+物品分配器
 左腳黃色，右手綠色
-<&recipe>物品路由器是一個會接受和重新分配物品向下過濾的方塊方塊。  Place it down and rightclick it to open the interface, which shows six different colour and direction coordinated filters.<np> Place it down and rightclick it to open the interface, which shows six different colour and direction coordinated filters.<np> Place it down and rightclick it to open the interface, which shows six different colour and direction coordinated filters.<np> Place it down and rightclick it to open the interface, which shows six different colour and direction coordinated filters.<np> <&recipe>物品路由器是一個會接受和重新分配物品向下過濾的方塊方塊。  Place it down and rightclick it to open the interface, which shows six different colour and direction coordinated filters.<np> Place it down and rightclick it to open the interface, which shows six different colour and direction coordinated filters.<np> Place it down and rightclick it to open the interface, which shows six different colour and direction coordinated filters.<np> Place it down and rightclick it to open the interface, which shows six different colour and direction coordinated filters.<np> Place it down and rightclick it to open the interface, which shows six different colour and direction coordinated filters.<np>
-When an item enters the router, it will be routed to an output whose filter matches the item, or, if no matching filter is found, it routes to an unfiltered output. If the router cannot route the item in the first place, it will not allow the item to enter the router.
+<&recipe>物品分配器是一個會接受和重新分配物品向下分配的方塊。 放置物品分配器並右擊它來打開界面，它顯示6種不同的顏色和方向的分配器。<np>
+當一個物品進入分配器時，它將被分配到一個匹配該物品的分配器的輸出口，如果沒有找到匹配的分配器，它將被分配到一個沒有分配器的輸出口。 如果分配器不能處理該物品，它將不允許該物品進入。
 物品無法輸出至其輸入口。<np>
-The buttons above each filter can be used to further adjust how the filter works:
-§2Tag-based filtering§r allows items through the filter if their tags match that of the specified item. 能夠過濾其他模組同種類的金屬錠
-The §2NBT filter§r option allows respecting additional data on the item, such as enchantments.
-The §2Damage filter§r option allows the filter to ignore the damage value of a tool or weapon.
+每個分配器上面的按鈕可以用來更深入地調整分配器的工作方式：
+§2分配器：標籤§r，如果物品的標籤與指定的物品匹配，分配器便使其通過。 能夠分配其他模組同種類的金屬錠
+§2分配器：NBT數據§r選項可以根據物品上的附加數據分配，比如說附魔效果。
+§2分配器：耐久§r選項可以使分配器忽略工具或武器的耐久值。
