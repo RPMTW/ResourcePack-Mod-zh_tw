@@ -1,22 +1,22 @@
-紅石線路
-Integration Takeover
-<&coil>§2Redstone Wires§r are aluminium coated in redstone dust. The resulting cables provide an easy way to transfer redstone signals over long distance without losing any signal strength.<&connector>The §2connectors§r work like any other wire connector in terms of connecting them, however, redstone wiring does not require relays; connectors and relays are the same block.
-With the Engineer's Screwdriver, the connectors can be configured between in- and output mode and set to one of 16 coloured frequencies.
-<&probe>§2Redstone Probe Connectors§r have a functionality partially comparable to Redstone Comparators. While they are not able to actively compare signals, they are able to read inventories for how full they are. Additionally, these probes can operate on two channels, sending their read signal on one, and still receiving signals on another. These channels can be also configured by using the Engineer's Screwdriver.
+紅石線纜
+集成電路
+<&coil>§2紅石線纜§r就是包著紅石粉的導線。 這種纜線可以長距離無損耗傳輸紅石信號。<&connector>§2紅石接線器§r和其它接線器那樣可以連接纜線；但是它們不需要繼電器，接線器就是繼電器。
+使用工程師螺絲刀，紅石接線器可以在輸入輸出中切換，也可以設置為16色頻道中的一種。
+<&probe>§2紅石探測接線器§r具有部分紅石比較器的功能。 雖然它們不能主動地比較信號，但它們能夠讀取物品欄有多滿。 此外這些探測器可以在兩個頻道上工作，在一個頻道上發送讀取信號，同時在另一個頻道上接收信號。 這些通道也可以使用工程師螺絲刀配置。
 
-Note that many of IE's multiblocks feature comparator-functionality, as described on the following pages. Where available, the redstone control surface of the multiblock is the designated spot to connect a comparator.<np>
-§lTank: §rAs detailed in its <link;tank;manual entry>
-§lSilo: §rAs detailed in its <link;silo;manual entry>
-§lAssembler: §rOutputs a signal relative to the fill of the inventory.
-§lAutoWorkbench: §rOutputs a signal relative to the fill of the inventory.
-§lCrusher: §rOutputs a signal relative to the fill of the inventory.
-§lSqueezer: §rOutputs a signal relative to the fill of the inventory.
-§lFermenter: §rOutputs a signal relative to the fill of the inventory.
-§lExcavator: §rOutputs a signal relative to the remaining ore in the vein.
-§lArcFurnace: §rOutputs a signal relative to the fill of the inventory.
-Additionally, connecting a comparator to the electrodes at the top will send a signal based on their integrity.
-§lMixer: §rOutputs a signal relative to the fill of the inventory.<np>
-<&bundled>§2Redstone Interface Connectors§r are designed to be attached to other blocks that can make use of the coloured redstone signals.
-The interface connector is innert and does not posses a colour, input- or output-state, but it allows blocks such as the <link;item_batcher;Item Batcher> to interface directly with the wire network.
+請注意，許多沉浸工程的多方塊結構具有比較器功能，如下面的頁面所述。 在可用的情況下，多方塊結構的紅石控制面是連接比較器的指定點。<np>
+§l儲罐：§r如<link;tank;此頁面>所述。
+§l筒倉：§r如<link;silo;此頁面>所述。
+§l裝配器：§r輸出一個相對於庫存容量的信號。
+§l自動工作檯：§r輸出一個相對於庫存容量的信號。
+§l粉碎機：§r輸出一個相對於庫存容量的信號。
+§l擠壓機：§r輸出一個相對於庫存容量的信號。
+§l發酵機：§r輸出一個相對於庫存容量的信號。
+§l採掘機：§r輸出一個相對於礦脈剩餘儲量的信號。
+§l電弧爐：§r輸出一個相對於庫存容量的信號。
+此外將比較器連接到頂部的電極將發送基於它們的完整性的信號。
+§l混合器：§r輸出一個相對於庫存容量的信號。<np>
+<&bundled>§2紅石接口連接器§r被設計為可以附加到其他可以利用彩色紅石頻道信號的方塊上。
+接口連接器是內置的，不具有顏色、輸入或輸出狀態，但它允許諸如<link;item_batcher;物料裝配機>直接與線纜網絡相連。
 
 
