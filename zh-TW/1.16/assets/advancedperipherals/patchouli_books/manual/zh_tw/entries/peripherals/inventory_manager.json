@@ -1,7 +1,7 @@
 {
   "name": "Inventory Manager",
   "icon": "advancedperipherals:inventory_manager",
-  "category": "advancedperipherals:peripherals",
+  "category": "進階電腦週邊設備：週邊設備",
   "pages": [
     {
       "type": "text",
@@ -15,12 +15,12 @@
       "type": "multiblock",
       "multiblock": {
         "mapping": {
-          "0": "computercraft:computer_advanced",
+          "0": "計算機工藝：進階計算機",
           "P": "advancedperipherals:inventory_manager"
         },
         "pattern": [
           [
-            "0P"
+            "0參數"
           ]
         ]
       },
