@@ -1,7 +1,7 @@
 {
   "name": "Colony integrator",
   "icon": "advancedperipherals:colony_integrator",
-  "category": "進階電腦週邊設備：週邊設備",
+  "category": "advancedperipherals:peripherals",
   "pages": [
     {
       "type": "text",
@@ -15,12 +15,12 @@
       "type": "multiblock",
       "multiblock": {
         "mapping": {
-          "0": "計算機工藝：進階計算機",
+          "0": "computercraft:computer_advanced",
           "P": "advancedperipherals:colony_integrator"
         },
         "pattern": [
           [
-            "0參數"
+            "0P"
           ]
         ]
       },
