@@ -1,7 +1,7 @@
 {
   "name": "方塊讀取器",
-  "icon": "進階電腦週邊設備：方塊讀取器",
-  "category": "進階電腦週邊設備：週邊設備",
+  "icon": "advancedperipherals:block_reader",
+  "category": "advancedperipherals:peripherals",
   "pages": [
     {
       "type": "text",
@@ -9,19 +9,19 @@
     },
     {
       "type": "crafting",
-      "recipe": "進階電腦週邊設備：方塊讀取器"
+      "recipe": "advancedperipherals:block_reader"
     },
     {
       "type": "multiblock",
       "multiblock": {
         "mapping": {
-          "0": "計算機工藝：進階計算機",
-          "P": "進階電腦週邊設備：方塊讀取器",
-          "T": "minecraft:泥土"
+          "0": "computercraft:computer_advanced",
+          "P": "advancedperipherals:block_reader",
+          "T": "minecraft:dirt "
         },
         "pattern": [
           [
-            "0參數"
+            "0PT"
           ]
         ]
       },
