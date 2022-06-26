@@ -1,7 +1,7 @@
 {
   "name": "AR擴充實境控制器",
-  "icon": "進階電腦週邊設備：AR擴充實境控制器",
-  "category": "進階電腦週邊設備：週邊設備",
+  "icon": "advancedperipherals:ar_controller",
+  "category": "advancedperipherals:peripherals",
   "pages": [
     {
       "type": "text",
@@ -9,18 +9,18 @@
     },
     {
       "type": "crafting",
-      "recipe": "進階電腦週邊設備：AR擴充實境控制器"
+      "recipe": "advancedperipherals:ar_controller"
     },
     {
       "type": "multiblock",
       "multiblock": {
         "mapping": {
-          "0": "計算機工藝：進階計算機",
-          "P": "進階電腦週邊設備：AR擴充實境控制器"
+          "0": "computercraft:computer_advanced",
+          "P": "advancedperipherals:ar_controller"
         },
         "pattern": [
           [
-            "0參數"
+            "0P"
           ]
         ]
       },
