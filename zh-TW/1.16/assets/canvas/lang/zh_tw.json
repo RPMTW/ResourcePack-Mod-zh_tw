@@ -123,7 +123,7 @@
   "config.canvas.value.cull_particles": "粒子效果剔除",
   "config.canvas.help.cull_particles": "剔除看不見的顆粒。應該會變得更快。",
   "config.canvas.value.log_render_lag_spikes": "日誌渲染滯後高峰",
-  "config.canvas.help.log_render_lag_spikes": "Log information on render lag spikes - when they happen and where.;Will spam the log.",
+  "config.canvas.help.log_render_lag_spikes": "在延遲飆升的時候記錄資訊;將會重複發送紀錄 ",
   "config.canvas.value.render_lag_spike_fps": "渲染滯後高峰fps",
   "config.canvas.help.render_lag_spike_fps": "啓用日志渲染延遲峯值時，每秒的目標幀數。;如果經過的時間超過整個邊框，則會記錄尖峯。"
 }
