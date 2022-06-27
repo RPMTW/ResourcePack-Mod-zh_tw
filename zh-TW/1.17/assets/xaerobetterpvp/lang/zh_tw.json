@@ -519,7 +519,7 @@
     "gui.xaero_category_settings_reset_confirm2": "將刪除自訂類別， 並重設為預設類別。",
     "gui.xaero_radar_displayed": "顯示",
     "gui.xaero_radar_dots_color": "光點顏色",
-    "gui.xaero_radar_icons_displayed": "圖示",
+    "gui.xaero_radar_icons_displayed": "Icons",
     "gui.xaero_radar_names_displayed": "名稱",
     "gui.xaero_radar_render_order": "渲染順序",
     "gui.xaero_box_radar_render_order": "控制雷達類別的渲染順序。較低的數字意味著更早渲染。但是， 在較新的 Minecraft 版本中， 光點總是呈現在圖示的頂部。不過， 該順序仍然適用於光點或圖示渲染。",
@@ -546,7 +546,7 @@
     "gui.xaero_auto_convert_wp_distance_km_never": "永不",
     "gui.xaero_waypoint_distance_precision": "定位點距離精度",
     "gui.xaero_sort_angle": "角距離",
-    "gui.xaero_toggle_enabled": "已啟用",
+    "gui.xaero_toggle_enabled": "Enabled",
     "gui.xaero_toggle_disabled": "已停用",
     "gui.xaero_main_entity_dot_size": "主實體光點大小"
 }
