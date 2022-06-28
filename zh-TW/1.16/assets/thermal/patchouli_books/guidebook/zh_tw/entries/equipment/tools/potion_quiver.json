@@ -11,7 +11,7 @@
         },
         {
             "type": "crafting",
-            "recipe": "thermal:potion_quiver",
+            "A.recipe": "thermal:potion_quiver",
             "title": "藥水箭袋",
             "text": "It can be enchanted with $(l:thermal:world/holding)Holding$(/l) to improve fluid capacity."
         },
