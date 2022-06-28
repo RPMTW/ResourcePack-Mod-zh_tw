@@ -11,7 +11,7 @@
         },
         {
             "type": "crafting",
-            "recipe": "thermal:charge_bench",
+            "A.recipe": "thermal:charge_bench",
             "title": "能量灌注機",
             "text": "$(o)Ancient texts record the existence of a machine by the same name that was once able to infuse Redstone Flux directly into items, not just tools. This, however, seems to defy all logic.$()"
         },
