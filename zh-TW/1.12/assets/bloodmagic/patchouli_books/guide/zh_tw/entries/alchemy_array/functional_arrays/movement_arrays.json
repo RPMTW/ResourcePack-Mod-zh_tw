@@ -1,5 +1,5 @@
 {
-  "name": "運動矩陣",
+  "name": "位移矩陣",
   "icon": "minecraft:feather",
   "category": "bloodmagic:alchemy_array/functional_array",
   "pages": [
@@ -9,10 +9,10 @@
     },
     {
       "type": "2x_functional_array",
-      "a.heading": "速度矩陣",
+      "a.heading": "Speed Array",
       "a.recipe": "bloodmagic:array/movement",
       "a.image": "movementarray.png",
-      "b.heading": "上升矩陣",
+      "b.heading": "Updraft Array",
       "b.recipe": "bloodmagic:array/updraft",
       "b.image": "updraftarray.png"
     }
