@@ -2,7 +2,7 @@
 	"name": "Somnium",
 	"icon": "theabyss:somnium",
 	"category": "somnium",
-	"advancement": "theabyss:loran_adv",
+	"advancement": "minecraft:adventure/sleep_in_bed",
 	"priority": false,
 	"secret": false,
 	"read_by_default": false,
