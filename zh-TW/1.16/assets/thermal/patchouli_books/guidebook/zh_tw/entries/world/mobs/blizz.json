@@ -17,6 +17,16 @@
             "entity": "thermal:blizz",
             "title": "暴雪人",
             "text": "Chilled: Decreases movement speed by 30% and attack speed by 0.4 seconds per level."
+        },
+        {
+            "type": "text",
+            "title": "Behavior",
+            "text": "The blizz is a standoffish elemental that rains projectiles upon its foes. It will fly above its target and spawn falling projectiles in an area around it. If close enough, it will hover in circles above its target."
+        },
+        {
+            "type": "text",
+            "title": "Strategy",
+            "text": "The easiest way to deal with the blizz is with a ranged weapon. In a melee fight, it is best to directly face the blizz and tank the damage in order to get within melee range."
         }
     ]
 }
