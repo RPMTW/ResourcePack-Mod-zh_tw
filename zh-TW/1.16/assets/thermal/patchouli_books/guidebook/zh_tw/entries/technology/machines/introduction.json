@@ -24,13 +24,13 @@
         },
         {
             "type": "crafting",
-            "recipe": "thermal:machine_frame",
+            "A.recipe": "thermal:machine_frame",
             "text": "These pages contain recipes for common components in machines and devices."
         },
         {
             "type": "crafting",
-            "recipe": "thermal:redstone_servo",
-            "recipe2": "thermal:rf_coil"
+            "A.recipe": "thermal:redstone_servo",
+            "B.recipe": "thermal:rf_coil"
         }
     ]
 }
