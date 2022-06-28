@@ -11,13 +11,13 @@
         },
         {
             "type": "crafting",
-            "recipe": "thermal:machine_chiller",
-            "recipe2": "thermal:chiller_ball_cast"
+            "A.recipe": "thermal:machine_chiller",
+            "B.recipe": "thermal:chiller_ball_cast"
         },
         {
             "type": "crafting",
-            "recipe": "thermal:chiller_ingot_cast",
-            "recipe2": "thermal:chiller_rod_cast"
+            "A.recipe": "thermal:chiller_ingot_cast",
+            "B.recipe": "thermal:chiller_rod_cast"
         },
         {
             "type": "text",
