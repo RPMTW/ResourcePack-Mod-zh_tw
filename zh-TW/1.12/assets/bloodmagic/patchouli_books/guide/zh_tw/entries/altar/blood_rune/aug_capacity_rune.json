@@ -5,7 +5,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "$(item)超容符文$()可以提升$(l:bloodmagic:altar/blood_altar)血之祭壇$(/l)的容量，增加量為每個符文疊乘 7.5%。超容符文的增加效果會應用於$(l:bloodmagic:altar/blood_rune/capacity_rune)增容符文$()$(o)之後$()。"
+      "text": "每一個$(item)超容符文$()能給$(l:bloodmagic:altar/blood_altar)血之祭壇$(/l)的容量7.5%的加成（以累乘方式計算），若同時使用超容符文和$(l:bloodmagic:altar/blood_rune/capacity_rune)增容符文$()兩種符文，超容符文的效果計算將$(o)後於$()增容符文的效果"
     },
     {
       "type": "crafting",
