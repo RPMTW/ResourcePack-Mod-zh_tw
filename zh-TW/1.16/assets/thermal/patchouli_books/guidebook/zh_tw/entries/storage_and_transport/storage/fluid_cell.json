@@ -11,8 +11,8 @@
         },
         {
             "type": "crafting",
-            "recipe": "thermal:fluid_cell_frame",
-            "recipe2": "thermal:fluid_cell"
+            "A.recipe": "thermal:fluid_cell_frame",
+            "B.recipe": "thermal:fluid_cell"
         },
         {
             "type": "text",
