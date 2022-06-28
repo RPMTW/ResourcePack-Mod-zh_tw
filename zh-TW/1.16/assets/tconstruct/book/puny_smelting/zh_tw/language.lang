@@ -1,19 +1,19 @@
 // Sections - Puny Smelting
 intro=簡介
-melter=熔化爐
+smeltery=冶煉爐
 moving_fluids=運輸液體
 casting=鑄造
 tier_two_materials=第二階段材料
 
 upgrades=升級
 upgrades.subtext=工具可以透過升級強化，雖然每個工具的升級次數有限。
-upgrades.group_general=一般
-upgrades.group_harvest=獲取
-upgrades.group_weapon=武器
-upgrades.group_damage=額外傷害
+upgrades.general=§1§l通用§r
+upgrades.harvest=§1§l挖掘§r
+upgrades.weapon=§1§l武器§r
+upgrades.weapon=§1§l武器§r
 upgrades.group_armor=盔甲
 
 slotless=無槽升級
 slotless.subtext=這種升級不會消耗任何槽位。如果你想，你可以全部加上去。
-slotless.group_slotless=無槽升級
-slotless.group_bonus_upgrades=升級++
+slotless.slotless=§1§l無槽§r
+slotless.bonus_upgrades=§1§l升級++§r
