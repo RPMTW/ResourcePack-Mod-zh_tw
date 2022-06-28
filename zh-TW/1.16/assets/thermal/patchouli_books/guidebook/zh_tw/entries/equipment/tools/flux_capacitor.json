@@ -11,7 +11,7 @@
         },
         {
             "type": "crafting",
-            "recipe": "thermal:flux_capacitor",
+            "A.recipe": "thermal:flux_capacitor",
             "title": "通量電容",
             "text": "Press '$(k:cofh.mode_change_increment)' to change modes. It can be enchanted with $(l:thermal:world/holding)Holding$(/l) to improve RF capacity."
         },
