@@ -5,7 +5,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "$(item)水之印記$()的功用很簡單。對準一個方塊按下 [$(k:use)] 後，它就會從你的$(l:bloodmagic:altar/soul_network)靈魂網路$(/l)中抽取 100 LP，並在世界中放置一個水源方塊。如果 LP 不足，它便會轉而抽取你的生命值。在煉金矩陣中放入$(item)水之試劑$()以及$(item)空白石板$()便可製成。"
+      "text": "$(item)水之印記$() 是一種相當單純的印記。\n在方塊上按右鍵，你可以從$(l:bloodmagic:altar/soul_network)靈魂網路$(/l)中消耗100LP來放置水源。\n如果LP不足，它將消耗你的生命值。使用$(item)水之試劑$() 和 $(item)空白石板$()製造。"
     },
     {
       "type": "crafting_2-step_sigil",
@@ -13,7 +13,7 @@
       "alchemy_table.recipe": "bloodmagic:alchemytable/reagent_water",
       "array.heading": "水之印記",
       "array.recipe": "bloodmagic:array/watersigil",
-      "array.text": "$(italic)無限水，有人要來點嗎？"
+      "array.text": "$(italic)無限水源？"
     },
     {
       "type": "image",
@@ -21,9 +21,9 @@
         "bloodmagic:images/entries/sigil/water_sigil1.png",
         "bloodmagic:images/entries/sigil/water_sigil2.png"
       ],
-      "title": "水之試劑矩陣",
+      "title": "水之印記矩陣",
       "border": true,
-      "text": "水之試劑，旁邊的是它的合成矩陣，還有它的主要用途。"
+      "text": "水之印記，旁邊是它的鍊金矩陣，加上它的主要用途。"
     },
     {
       "type": "crafting_alchemy_table",
