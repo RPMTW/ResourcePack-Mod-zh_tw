@@ -6,11 +6,11 @@
   "read_by_default": true,
   "pages": [
     {
-      "type": "text",
+      "type": "patchouli:text",
       "text": "This is the AdvancedJetpack. The jetpack can become armored by applying the plating."
     },
     {
-      "type": "crafting",
+      "type": "patchouli:crafting",
       "recipe": "simplyjetpacks:mek/jetpack_mek2",
       "recipe2": "simplyjetpacks:mek/jetpack_mek2_armored"
     }
