@@ -3,11 +3,11 @@
 intro=簡介
 
 tier_one_materials=第一階段材料
-tier_one_materials.subtext=「材料」是製作任何工具的第一步。 這些材料可以放置在部件加工台中以創建工具部件。
+tier_one_materials.subtext="材料"是製作任何工具的第一步。 material.craft_partbuilder=可於部件加工台被製作 material.craft_partbuilder=可於部件加工台被製作 material.craft_partbuilder=可於部件加工台被製作 這些材料可以放置在部件加工台中以創建工具部件。 這些材料可以放置在部件加工台中以創建工具部件。
 
 tools=工具
 tools.part_swapping=Part Swapping
-tools.repairing=修理
+repairing=修理
 
 armor=Traveler's Gear
 armor.subtext=Traveler's Gear is crafted using a crafting station! 這套套裝並不能提供最好的防禦，但仍然有很多機會升級你的套裝！ 哦，你會創造什麼有趣的東西？
