@@ -11,13 +11,13 @@
         },
         {
             "type": "crafting",
-            "recipe": "thermal:ender_tnt",
-            "recipe2": "thermal:ender_grenade_4"
+            "A.recipe": "thermal:ender_tnt",
+            "B.recipe": "thermal:ender_grenade_4"
         },
         {
             "flag": "&mod:thermal_innovation,mod:thermal_locomotion",
             "type": "crafting",
-            "recipe": "thermal:ender_tnt_minecart",
+            "A.recipe": "thermal:ender_tnt_minecart",
             "title": "Disruption Explosive Minecart"
         }
     ]
