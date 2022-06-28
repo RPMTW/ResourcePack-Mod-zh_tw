@@ -5,11 +5,11 @@
   "read_by_default": true,
   "pages": [
     {
-      "type": "text",
+      "type": "patchouli:text",
       "text": "This is the Diamond Thruster"
     },
     {
-      "type": "crafting",
+      "type": "patchouli:crafting",
       "recipe": "simplyjetpacks:vanilla/thruster_vanilla3",
       "text": "This is a test entry, but it should show up!"
     }
