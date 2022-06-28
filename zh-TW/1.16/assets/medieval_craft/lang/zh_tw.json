@@ -117,7 +117,7 @@
     "item.katanahandle.name": "Katana Handle",
     "item.soldierarmorhelmet.name": "Conical Helmet",
     "entity.yelow_archers.name": "黃弓手",
-    "item.rapier.name": "Rapier",
+    "item.rapier.name": "指揮官之劍",
     "item.medieval_craft.heavyplatearmor_helmet": "Barbuta Helmet",
     "item.magicenergyorb.name": "Magic Energy Orb",
     "item.medieval_craft.ingotbrass": "黃銅錠",
@@ -184,7 +184,7 @@
     "item.medieval_craft.soldierarmor_leggings": "士兵盔甲護腿",
     "entity.romanlegionary.name": "Roman Legionary",
     "item.heavyplatearmorbody.name": "Plate Chestplate",
-    "item.bullet.name": "子彈",
+    "item.bullet.name": "黑色子彈",
     "item.minigun.name": "Minigun (creative only)",
     "item.medieval_craft.gambeson_leggings": "布甲護腿",
     "item.medieval_craft.blue_archer_spawn_egg": "藍弓手 生怪蛋",
@@ -273,5 +273,6 @@
     "block.medieval_craft.monastery": "Monastery",
     "block.medieval_craft.bustedfortress": "Busted Fortress",
     "block.medieval_craft.fortress": "Fortress",
-    "block.medieval_craft.tower": "Tower"
+    "block.medieval_craft.tower": "Tower",
+    "block.medieval_craft.srfb": "SRFB"
 }
