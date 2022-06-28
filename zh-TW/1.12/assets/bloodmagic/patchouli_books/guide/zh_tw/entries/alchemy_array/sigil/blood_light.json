@@ -15,13 +15,13 @@
   "pages": [
     {
       "type": "text",
-      "text": "無論是礦工、地牢探索者或者是那些不喜歡陰影，也不喜歡火把和螢光石擋著去路的血之巫師，$(item)血光印記$()都是它們的趁手工具。使用時，印記會朝你面對的方向發射出一道血光. 當血光碰到方塊後，它會生成一個近乎隱形的光源，並消耗 $(blood)10 LP$()。"
+      "text": " $(item)血光印記$()對於任何礦工、地牢挖掘者，或者\n任何不喜歡黑暗處但覺得火把和螢光石擋路的血法師來說，\n它都是一個方便的工具。\n\n使用時，這種印記會朝你面對的方向發射血光。\n當它擊中一個方塊時，它以10LP的成本生成一個\n幾乎看不見的光源。"
     },
     {
       "type": "crafting_2-step_sigil",
       "alchemy_table.heading": "血光試劑",
       "alchemy_table.recipe": "bloodmagic:alchemytable/reagent_blood_light",
-      "array.heading": "血光試劑",
+      "array.heading": "血光印記",
       "array.recipe": "bloodmagic:array/bloodlightsigil",
       "array.text": "$(italic)我看見光了！"
     }
