@@ -11,8 +11,8 @@
         },
         {
             "type": "crafting",
-            "recipe": "thermal:saw_blade",
-            "recipe2": "thermal:flux_saw"
+            "A.recipe": "thermal:saw_blade",
+            "B.recipe": "thermal:flux_saw"
         },
         {
             "type": "text",
