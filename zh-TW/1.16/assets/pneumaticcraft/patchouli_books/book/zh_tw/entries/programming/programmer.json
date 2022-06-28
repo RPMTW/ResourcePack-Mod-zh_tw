@@ -53,7 +53,7 @@
     {
       "type": "text",
       "title": "Sharing Programs",
-      "text": "If you want to share your programs with other players, you have a couple of options:$(li)You can use the $(thing)Pastebin/$ button to export your program to $(l:https://pastebin.com)pastebin.com/$$(li)The $(thing)Pastebin/$ GUI also allows writing the program to the clipboard for copying & pasting$(li)You can save your program to a $(l:tools/drone)Drone/$ or $(l:components/network_components)Network Storage/Network API/$ and give the item to another player on your server."
+      "text": "If you want to share your programs with other players, you have a couple of options:$(p)$(li)You can use the $(thing)Pastebin/$ button to export your program to $(l:https://pastebin.com)pastebin.com/$$(li)The $(thing)Pastebin/$ GUI also allows writing the program to the clipboard for copying & pasting$(li)You can save your program to a $(l:tools/drone)Drone/$ or $(l:components/network_components)Network Storage/Network API/$ and give the item to another player on your server."
     },
     {
       "type": "text",
@@ -66,6 +66,17 @@
       "anchor": "convert_relative",
       "title": "轉換至相對坐標（續）",
       "text": "需要加入一個固定的$(l:programming/coordinate_operator)坐標運算元/$拼圖，以及包含有$(thing)基準位置/$（例如，輸入儲物箱的位置）的$(l:programming/coordinate)坐標/$拼圖。此後，其將程序中的任何絕對位置（區域或坐標）轉化為相對與基準位置的坐標。$(p)這樣一來，其餘玩家只需要修改程序中的一個坐標！"
+    },
+    {
+      "type": "text",
+      "anchor": "jei",
+      "title": "JEI Integration",
+      "text": "If JEI is installed, you will notice a '+' (Move Items) button if you open the JEI recipe display while the Programmer GUI is open. Clicking it will add $(l:programming/item_filter)Item Filter/$ widgets for each input item in the recipe. If you have a $(l:programming/crafting)Crafting/$ widget in the programming area with no Item Filters attached, Item Filters will be added to the Crafting Widget to quickly & easily set up a recipe. Otherwise, they will be added in a row at the top left of the programming area."
+    },
+    {
+      "type": "text",
+      "title": "JEI Integration (cont)",
+      "text": "By default, only one Item Filter is added for each unique item type (e.g. for a $(item)Stone Slab/$ recipe, only one $(item)Stone/$ filter will be created, not three). Remember that widgets can be copied by middle-clicking and dragging. If you want to add an Item Filter for every item in the recipe, including duplicates, hold Shift when clicking the '+' button in JEI."
     }
   ]
 }
