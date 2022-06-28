@@ -193,13 +193,13 @@
     "jm.common.renderdelay": "渲染延遲",
     "jm.common.renderdelay.tooltip": "每渲染一次的時間（單位：秒）。值越高效能越好，但是當旅行時可能會錯過一些區塊。",
     "jm.common.renderdistance_cave_max": "洞穴的最大距離",
-    "jm.common.renderdistance_cave_max.tooltip": "您周圍的方塊半徑，最終映射到地下或沒有天空的維度。較低的值可以提高性能。大於 Minecraft 的繪製距離的值無效。\n設定為 0 以鏡像影像選項區塊繪製範圍。",
+    "jm.common.renderdistance_cave_max.tooltip": "以你為中心的半徑區塊最終繪製為地下或在一定尺寸上不顯示天空。較低的值可以提高效能。如果輸入數值要大於MC給予的距離的話將不會起作用。",
     "jm.common.renderdistance_cave_min": "洞穴的最小距離",
-    "jm.common.renderdistance_cave_min.tooltip": "您周圍的方塊半徑，永遠映射到地下或沒有天空的維度。較低的值可以提高性能。大於 Minecraft 的繪製距離的值無效。\n設定為 0 以鏡像影像選項區塊繪製範圍。",
+    "jm.common.renderdistance_cave_min.tooltip": "以你為中心的半徑區塊始終繪製為地下或在一定尺寸上不顯示天空。較低的值可以提高效能。如果輸入數值要大於MC給予的距離的話將不會起作用。",
     "jm.common.renderdistance_surface_max": "地表的最大距離",
-    "jm.common.renderdistance_surface_max.tooltip": "您周圍的方塊半徑，最終映射到具有天空的維度的表面上。較低的值可以提高性能。大於 Minecraft 的繪製距離的值無效。\n設定為 0 以鏡像影像選項區塊繪製範圍。",
+    "jm.common.renderdistance_surface_max.tooltip": "以你為中心的半徑區塊最終繪製為地上。較低的值可以提高效能。如果輸入數值要大於MC給予的距離的話將不會起作用。",
     "jm.common.renderdistance_surface_min": "地表的最小距離",
-    "jm.common.renderdistance_surface_min.tooltip": "您周圍的方塊半徑，永遠映射在具有天空的維度的表面上。較低的值可以提高性能。大於 Minecraft 的繪製距離的值無效。\n設定為 0 以鏡像影像選項區塊繪製範圍。",
+    "jm.common.renderdistance_surface_min.tooltip": "以你為中心的半徑區塊始終繪製為地上。較低的值可以提高效能。如果輸入數值要大於MC給予的距離的話將不會起作用。",
     "jm.common.renderstats": "最後： 於 %4$s 毫秒內繪製 %1$s (%2$s + %3$s) 個區塊 (平均 %5$s 毫秒)",
     "jm.common.renderstats.title": "統計最新渲染層",
     "jm.common.renderstats.tooltip": "Total chunks = （所有最小距離區塊 + 部分最大距離區塊）。你選擇的繪圖選項和你周圍的世界地形將明顯地改變這些數字。",
@@ -787,5 +787,7 @@
     "jm.theme.labelsource.moonphase.first_quarter": "First Quarter",
     "jm.theme.labelsource.moonphase.waxing_gibbous": "Waxing Gibbous",
     "jm.advanced.seed_id": "Multi World Support",
-    "jm.advanced.seed_id.tooltip": "Experimental: Multi World support, prevents map overwriting in multi-world server setups.\n\nNOTE: Will only take effect after rejoining server!"
+    "jm.advanced.seed_id.tooltip": "Experimental: Multi World support, prevents map overwriting in multi-world server setups.\n\nNOTE: Will only take effect after rejoining server!",
+    "jm.minimap.waypointicon_scale": "Waypoint Icon Scale",
+    "jm.minimap.waypointicon_scale.tooltip": "The scale for waypoint icons"
 }
