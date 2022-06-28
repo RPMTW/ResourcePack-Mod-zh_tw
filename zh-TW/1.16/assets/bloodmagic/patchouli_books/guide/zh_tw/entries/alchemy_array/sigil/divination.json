@@ -5,13 +5,13 @@
   "pages": [
     {
       "type": "text",
-      "text": "在血魔法的眾多印記中，$(item)占卜印記$()也許是你最先想要製作出來的印記。若想製作出這一印記，你需要先畫出一個$(l:bloodmagic:alchemy_array/functional_arrays/arcane_ash)煉金矩陣$(/l)，並依序放入基底物$(item)紅石粉$()，催化劑$(item)空白石板$()。"
+      "text": "$(item)占卜印記$() 可能是你想在血魔法中製作的眾多印記裡的第一個。\n為了製作印記，您需要創建一個 $(l:bloodmagic:alchemy_array/functional_arrays/arcane_ash)鍊金矩陣$(/l) 並使用 $(item)紅石粉$() 和 $(item)空白石板$() 分別作為基底和催化劑。"
     },
     {
       "type": "crafting_array",
       "heading": "占卜印記",
       "recipe": "bloodmagic:array/divinationsigil",
-      "text": " $(italic)窺探靈魂。"
+      "text": " $(italic)窺視靈魂。"
     },
     {
       "type": "image",
@@ -20,11 +20,11 @@
       ],
       "title": "占卜印記矩陣",
       "border": true,
-      "text": "占卜印記，旁邊的是它的合成矩陣。"
+      "text": "占卜印記，旁邊是它的鍊成陣"
     },
     {
       "type": "text",
-      "text": "占卜印記有兩種主要用途：$(br)$(li)當玩家手持印記對準空氣右擊，印記會顯示出你$(l:bloodmagic:altar/soul_network)靈魂網路$(/l)中的 LP 量。$(li)若是對著$(l:bloodmagic:altar/blood_altar)血之祭壇$(/l)右擊，它會告訴玩家祭壇的目前等級、所含 LP 量以及 LP 最大儲存量。手持$(item)占卜印記$()，它還能在你使用其他方塊時助你一臂之力，但具體細節此處按下不表。"
+      "text": "占卜印記有兩個主要用途：$(br)$(li)當玩家用印記在空中右擊時，它將顯示所有者$(l:bloodmagic:altar/soul_network)靈魂網絡中的LP數量。$(/l)$(li)點擊$(l:bloodmagic:altar/blood_altar)血之祭壇$(/l)時，會告訴玩家該祭壇目前等級，在祭壇中儲存的LP數量，以及它目前的最大容量。\n手上有個 $(item)占卜印記$() 在其他套用上也很有幫助，但這將在後面介紹。"
     },
     {
       "type": "image",
