@@ -11,17 +11,17 @@
         },
         {
             "type": "crafting",
-            "recipe": "thermal:aquachow_4",
+            "A.recipe": "thermal:aquachow_4",
             "text": "Aqua-chow is a unique blend of ingredients that fish can't resist; it boosts the natural catching abilities of the entangler."
         },
         {
             "type": "crafting",
-            "recipe": "thermal:deep_aquachow_4",
+            "A.recipe": "thermal:deep_aquachow_4",
             "text": "Benthic Aqua-chow helps the entangler catch stuff from deeper down, improving the chances for items such as pufferfish, kelp, prismarine, ink sacs, sponges, and occasionally even tridents."
         },
         {
             "type": "crafting",
-            "recipe": "thermal:junk_net",
+            "A.recipe": "thermal:junk_net",
             "text": "A Junk Net allows the entangler to collect junk items such as string, lily pads, bones, water bottles, and leather. As the adage goes, 'One treasure's trash is another trash man.' Or something like that."
         }
     ]
