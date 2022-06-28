@@ -11,7 +11,7 @@
         },
         {
             "type": "crafting",
-            "recipe": "thermal:device_potion_diffuser",
+            "A.recipe": "thermal:device_potion_diffuser",
             "title": "藥水噴霧器",
             "text": "Reagents, namely redstone and glowstone, can be used to increase the duration and increase effect level (up to IV) at the cost of duration, respectively. A single reagent item lasts for 16 operations of the diffuser."
         },
