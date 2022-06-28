@@ -11,8 +11,8 @@
         },
         {
             "type": "crafting",
-            "recipe": "thermal:drill_head",
-            "recipe2": "thermal:flux_drill"
+            "A.recipe": "thermal:drill_head",
+            "B.recipe": "thermal:flux_drill"
         },
         {
             "type": "text",
