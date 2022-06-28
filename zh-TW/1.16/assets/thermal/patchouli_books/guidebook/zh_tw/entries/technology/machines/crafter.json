@@ -10,9 +10,10 @@
             "text": "The Sequential Fabricator is a machine that automatically crafts items. Once the recipe in the crafting grid is set, it will take items and liquids from its internal inventory and craft them. Recipes that take a bucket of a particular fluid and leave an empty bucket behind can be crafted using liquid from the internal tank instead."
         },
         {
-            "type": "thermal:double_crafting_page",
+            "type": "crafting",
             "A.recipe": "thermal:machine_crafter",
-            "title": "自動合成台"
+            "title": "自動合成台",
+            "text": "Note that this machine currently has no ability to protect from overfilling with one particular ingredient! A batching device is coming with Thermal Dynamics, so stay tuned!"
         },
         {
             "type": "text",
