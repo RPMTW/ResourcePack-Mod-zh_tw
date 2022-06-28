@@ -8,9 +8,9 @@
             "text": "$(pncr) 新增了一系列 $(thing)強化石頭/$方塊, 使用 $(item)石頭/$ 和一點 $(item)壓縮鐵/$來製作.  許多配方需要某種種類的強化石頭。$(p)強化石頭也非常適合用於建造，且所有種類都具有高抗爆性。"
         },
         {
-            "type": "crafting",
-            "recipe": "pneumaticcraft:reinforced_stone",
-            "recipe2": "pneumaticcraft:reinforced_stone_slab"
+            "type": "spotlight",
+            "item": "pneumaticcraft:compressed_stone",
+            "text": "In addition, $(thing)Compressed Stone/$, and its various products, may be useful for aesthetic purposes. Like $(thing)Reinforced Stone/$, it has excellent blast resistance."
         },
         {
             "type": "crafting",
@@ -29,7 +29,36 @@
         },
         {
             "type": "crafting",
+            "recipe": "pneumaticcraft:reinforced_brick_pillar",
+            "recipe2": "pneumaticcraft:reinforced_brick_wall"
+        },
+        {
+            "type": "crafting",
             "recipe": "pneumaticcraft:reinforced_brick_pillar"
+        },
+        {
+            "type": "pneumaticcraft:pressure_chamber",
+            "recipe": "pneumaticcraft:pressure_chamber/compressed_stone"
+        },
+        {
+            "type": "crafting",
+            "recipe": "pneumaticcraft:compressed_stone_slab",
+            "recipe2": "pneumaticcraft:compressed_brick_pillar"
+        },
+        {
+            "type": "crafting",
+            "recipe": "pneumaticcraft:compressed_bricks",
+            "recipe2": "pneumaticcraft:compressed_bricks_from_tile"
+        },
+        {
+            "type": "crafting",
+            "recipe": "pneumaticcraft:compressed_brick_tile",
+            "recipe2": "pneumaticcraft:compressed_brick_stairs"
+        },
+        {
+            "type": "crafting",
+            "recipe": "pneumaticcraft:compressed_brick_slab",
+            "recipe2": "pneumaticcraft:compressed_brick_wall"
         }
     ]
 }
