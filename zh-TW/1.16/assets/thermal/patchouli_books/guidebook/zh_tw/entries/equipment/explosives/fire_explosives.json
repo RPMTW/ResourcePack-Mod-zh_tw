@@ -11,13 +11,13 @@
         },
         {
             "type": "crafting",
-            "recipe": "thermal:fire_tnt",
-            "recipe2": "thermal:fire_grenade_4"
+            "A.recipe": "thermal:fire_tnt",
+            "B.recipe": "thermal:fire_grenade_4"
         },
         {
             "flag": "&mod:thermal_innovation,mod:thermal_locomotion",
             "type": "crafting",
-            "recipe": "thermal:fire_tnt_minecart",
+            "A.recipe": "thermal:fire_tnt_minecart",
             "title": "Inferno Minecart"
         }
     ]
