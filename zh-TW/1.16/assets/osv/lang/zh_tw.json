@@ -26,5 +26,8 @@
     "osv.errorText.noConfigFile": "Config file and backups corrupted",
     "osv.errorText.noJarFiles": "Could not copy jar files",
     "osv.errorMenu.compat": "Compatibility Errors",
-    "osv.errorText.outOfDate": "Compatibility for %s is out of date."
+    "osv.errorText.outOfDate": "Compatibility for %s is out of date.",
+    "osv.errorText.emptyFeature": "Feature configuration is empty: %s",
+    "osv.errorText.compatibilityMode": "Compatibility Mode",
+    "osv.errorText.interceptorUnavailable": "WorldInterceptor is unavailable due to platform limitations.\nConsider downgrading to Java 8 or waiting until OSV 1.18 for full support."
 }
