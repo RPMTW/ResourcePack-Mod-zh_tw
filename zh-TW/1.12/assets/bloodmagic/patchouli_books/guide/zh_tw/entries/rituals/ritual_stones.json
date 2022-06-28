@@ -27,7 +27,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "$(item)儀式石$()是您繪製$(item)儀式$()時的畫布。 它們看起來也很漂亮，可以用各種$(l:bloodmagic:rituals/ritual_diviner)元素銘文工具$()手動繪製。 $(br2)銘文工具曾經有耐久度，但現在它們可以無限使用！ 您可以盡情地用$(fire)火儀式石$()裝飾您的基地。"
+      "text": "$(item)Ritual Stones$() are the canvas upon which you will draw your $(item)Rituals$(). They also look quite nifty, and can be manually painted with the various $(l:bloodmagic:rituals/ritual_diviner)Elemental Inscription Tools$()."
     },
     {
       "type": "crafting",
