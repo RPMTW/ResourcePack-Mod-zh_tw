@@ -20,7 +20,7 @@
     "reauth.login.fail": "§4登入失敗: %s",
     "reauth.login.error": "§4錯誤: %s",
     "reauth.retry": "以%s身份登入並重試",
-    "reauth.retry.disabled": "Login with saved Profile and retry",
+    "reauth.retry.disabled": "登入並重試無法使用",
     "reauth.gui.title.main": "ReAuth",
     "reauth.gui.title.flow": "",
     "reauth.gui.title.offline": "選擇一個使用者名稱",
