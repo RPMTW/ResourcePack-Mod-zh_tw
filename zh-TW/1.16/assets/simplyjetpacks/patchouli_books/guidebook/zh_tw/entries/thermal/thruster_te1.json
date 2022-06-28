@@ -6,11 +6,11 @@
   "read_by_default": true,
   "pages": [
     {
-      "type": "text",
+      "type": "patchouli:text",
       "text": "This is the Leadstone Thruster"
     },
     {
-      "type": "crafting",
+      "type": "patchouli:crafting",
       "recipe": "simplyjetpacks:te/thruster_te1",
       "text": "This is a test entry, but it should show up!"
     }
