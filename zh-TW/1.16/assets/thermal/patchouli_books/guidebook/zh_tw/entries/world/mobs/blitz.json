@@ -17,6 +17,16 @@
             "entity": "thermal:blitz",
             "title": "狂風人",
             "text": "Shocked: Decreases attack damage by 3 hearts per level."
+        },
+        {
+            "type": "text",
+            "title": "Behavior",
+            "text": "The blitz is a timid elemental that fires arcing projectiles from a distance. If it's within 24 blocks of its target, it will fire one projectile every second. If it's further away, it will move closer. If the target is closer than 20 blocks, it will run away to maintain a distance."
+        },
+        {
+            "type": "text",
+            "title": "Strategy",
+            "text": "The easiest way to deal with the blitz is with a ranged weapon. Additionally, the projectiles have travel time, so they have a harder time hitting moving/strafing targets."
         }
     ]
 }
