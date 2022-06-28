@@ -15,12 +15,12 @@
         },
         {
             "type": "crafting",
-            "recipe": "thermal:augments/upgrade_augment_1",
-            "recipe2": "thermal:augments/upgrade_augment_2"
+            "A.recipe": "thermal:augments/upgrade_augment_1",
+            "B.recipe": "thermal:augments/upgrade_augment_2"
         },
         {
             "type": "crafting",
-            "recipe": "thermal:augments/upgrade_augment_3"
+            "A.recipe": "thermal:augments/upgrade_augment_3"
         }
     ]
 }
