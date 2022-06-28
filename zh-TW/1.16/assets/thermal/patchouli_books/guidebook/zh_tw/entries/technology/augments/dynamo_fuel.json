@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "crafting",
-            "recipe": "thermal:augments/dynamo_fuel_augment",
+            "A.recipe": "thermal:augments/dynamo_fuel_augment",
             "title": "Multi-Cycle Injectors",
             "text": "The Multi-Cycle Injectors augment scales the fuel efficiency of a dynamo by 1.1."
         }
