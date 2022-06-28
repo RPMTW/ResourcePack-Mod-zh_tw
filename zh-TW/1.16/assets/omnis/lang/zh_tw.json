@@ -111,5 +111,22 @@
     "omnis.tooltip.stunning": "擊暈",
     "omnis.tooltip.stunning_detailed": "首次攻擊目標時對其施加擊暈效果\n削減其移動速度及觸及距離",
     "omnis.tooltip.sweeping": "橫掃",
-    "omnis.tooltip.sweeping_detailed": "該武器施展的每次攻擊均為強力橫掃攻擊"
+    "omnis.tooltip.sweeping_detailed": "該武器施展的每次攻擊均為強力橫掃攻擊",
+    "attribute.name.omnis.magic_proficiency": "Magic Proficiency",
+    "attribute.name.omnis.magic_resistance": "Magic Resistance",
+    "block.omnis.aquatic_surge_block": "Aquatic Surge Block",
+    "block.omnis.aquatic_surge_jet_block": "Aquatic Surge Jet Block",
+    "block.omnis.infernal_surge_block": "Infernal Surge Block",
+    "block.omnis.infernal_surge_jet_block": "Infernal Surge Jet Block",
+    "item.omnis.ankh_charm": "Ankh Charm",
+    "item.omnis.haunted_charm": "Haunted Charm",
+    "item.omnis.ravaged_charm": "Ravaged Charm",
+    "omnis.subtitle.heavy_crit": "Heavy Crit",
+    "omnis.subtitle.magic_crit": "Magic Crit",
+    "omnis.subtitle.ravaged_metal_break": "Ravaged Metal Break",
+    "omnis.subtitle.ravaged_metal_hit": "Ravaged Metal Hit",
+    "omnis.subtitle.ravaged_metal_place": "Ravaged Metal Place",
+    "omnis.subtitle.ravaged_metal_step": "Ravaged Metal Step",
+    "omnis.tooltip.curative": "Curative",
+    "omnis.tooltip.curative_detailed": "Beneficial potion effects last longer, harmful effects are shorter."
 }
