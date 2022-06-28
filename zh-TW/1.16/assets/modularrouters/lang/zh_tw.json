@@ -350,5 +350,8 @@
     "modularrouters.jei.recipe.module_reset.description": "將模組完全重置到剛製作出來的狀態。警告：所有數據，包括過濾名單設定和附魔都會丟失，但是安裝的拓展會返還",
     "modularrouters.jei.recipe.module_reset": "重置模組",
     "modularrouters.patchouli.book.landing": "這本手冊是 $(#228)模組化路由器/$ 的完整參考指南。",
-    "modularrouters.patchouli.book.name": "模組化路由器手冊"
+    "modularrouters.patchouli.book.name": "模組化路由器手冊",
+    "modularrouters.guiText.label.breakMatchType.BLOCK": "Match by Block",
+    "modularrouters.guiText.label.breakMatchType.ITEM": "Match by Dropped Item(s)",
+    "modularrouters.guiText.popup.breaker.matchType": "§a§nMatch Type ${br} ${br}§r- Match by Dropped Item(s): when breaking a block, the filter matches on the item(s) that would be dropped (note that Silk Touch will affect drops)${br}- Match by Block: the filter matches on the block itself, e.g. Stone in the filter would match Stone blocks, even without Silk Touch (although the drop is still Cobblestone)"
 }
