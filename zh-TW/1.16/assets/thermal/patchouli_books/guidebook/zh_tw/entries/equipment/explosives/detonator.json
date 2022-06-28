@@ -10,7 +10,7 @@
         },
         {
             "type": "crafting",
-            "recipe": "thermal:tools/detonator",
+            "A.recipe": "thermal:tools/detonator",
             "text": "Press '$(k:cofh.mode_change_increment)' to change modes."
         }
     ]
