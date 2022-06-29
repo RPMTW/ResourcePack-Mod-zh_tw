@@ -25,9 +25,9 @@ skull_materials.subtext=本節描述了所有類型的頭顱用於製造史萊�
 
 upgrades=升級
 upgrades.subtext=每個工具的升級槽總數是有限的。
-upgrades.general=§1§l通用§r
-upgrades.harvest=§1§l挖掘§r
-upgrades.weapon=§1§l武器§r
+upgrades.group_general=一般
+upgrades.group_harvest=獲取
+upgrades.group_weapon=武器
 upgrades.group_damage=傷害提升
 upgrades.group_armor=盔甲
 upgrades.feather_falling=輕盈
@@ -39,14 +39,14 @@ defense.group_special=特殊
 
 slotless=無槽升級
 slotless.subtext=無槽升級不需要消耗任何升級槽。
-slotless.general=§1§l通用§r
-slotless.bonus=§1§l加成§r
+slotless.group_general=一般
+slotless.group_bonus=增益
 
 abilities=能力
 abilities.subtext=能力強化的槽數比升級少，但功能更強。
-abilities.general=§1§l通用§r
-abilities.harvest=§1§l挖掘§r
-abilities.interact=§1§l相互作用§r
+abilities.group_general=一般
+abilities.group_harvest=獲取
+abilities.group_weapon=武器
 abilities.group_interact=互動
 abilities.group_armor=盔甲
 abilities.unarmed=徒手
