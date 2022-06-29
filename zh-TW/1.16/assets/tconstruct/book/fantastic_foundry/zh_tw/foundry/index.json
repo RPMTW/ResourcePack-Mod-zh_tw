@@ -7,18 +7,18 @@
   ],
   "operations": [
     {
-      "before": "features",
+      "before": "功能",
       "action": "add_group",
-      "data": "Details"
+      "data": "詳細資訊"
     },
     {
-      "before": "scorched_tanks",
+      "before": "焦灼儲罐",
       "action": "column_break"
     },
     {
-      "before": "scorched_tanks",
+      "before": "焦灼儲罐",
       "action": "add_group",
-      "data": "Blocks"
+      "data": "方塊"
     }
   ]
 }
