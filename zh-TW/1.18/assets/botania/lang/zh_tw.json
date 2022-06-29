@@ -2598,7 +2598,7 @@
     "botania.entry.pistonRelay": "力量傳遞器",
     "botania.tagline.pistonRelay": "除去活塞推動力",
     "botania.page.pistonRelay0": "看樣子給$(item)活塞$(0)注入$(thing)魔力$(0)會產生有趣的副作用。$(p)這個方塊會撕裂空間構造，將任何活塞給它的推力傳給綁定方塊。",
-    "botania.page.pistonRelay1": "This block is highly unstable and may cause uncanny effects; care should be taken with it. It cannot be pulled by $(item)Sticky Pistons$(0), and does not move its bound block either when pushed by one. This allows for the building of piston \"frames\" by combining a sticky and non-sticky piston.",
+    "botania.page.pistonRelay1": "這個方塊非常不穩定，可能會產生不可思議的效果；應小心處理。它不能被 $(item) 黏性活塞$(0) 拉動，且在被推動時也不會移動其綁定的塊。這允許通過結合黏性和非黏性活塞來構建活塞“框架”。",
     "botania.page.pistonRelay2": "給$(item)活塞$(0)注入$(thing)魔力$(0)。",
     "botania.entry.enderHand": "終界之手",
     "botania.tagline.enderHand": "隨時隨地的終界箱",
