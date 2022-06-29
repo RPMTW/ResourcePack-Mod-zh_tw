@@ -7,9 +7,9 @@
   ],
   "operations": [
     {
-      "before": "features",
+      "before": "功能",
       "action": "add_group",
-      "data": "Details"
+      "data": "詳細資訊"
     },
     {
       "before": "焦黑儲罐",
@@ -18,7 +18,7 @@
     {
       "before": "焦黑儲罐",
       "action": "add_group",
-      "data": "Blocks"
+      "data": "方塊"
     }
   ]
 }
