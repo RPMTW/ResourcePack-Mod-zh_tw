@@ -23,10 +23,10 @@ smeltery.seared_drain=焦黑排液孔
 
 abilities=能力
 abilities.subtext=能力比起升級更加強大，但是插槽量也受到更大的限制。
-abilities.general=§1§l通用§r
-abilities.harvest=§1§l挖掘§r
-abilities.interact=§1§l相互作用§r
-abilities.interact=§1§l互動§r
+abilities.group_general=一般
+abilities.group_harvest=獲取
+abilities.group_weapon=武器
+abilities.group_interact=互動
 abilities.group_armor=盔甲
 abilities.unarmed=徒手
 upgrades.subtext=工具可以透過升級強化，雖然每個工具的升級次數有限。
