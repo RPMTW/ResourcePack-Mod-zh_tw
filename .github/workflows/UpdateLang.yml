@@ -28,7 +28,7 @@ jobs:
           ref: ${{ matrix.ref }}
 
       - name: "更新原始語系檔案"
-        uses: RPMTW/Translation-Scripts@1.1.1
+        uses: RPMTW/Translation-Scripts@1.1.3
         with:
           action: "update_lang"
           gameVersion: ${{ matrix.gameVersion }}
