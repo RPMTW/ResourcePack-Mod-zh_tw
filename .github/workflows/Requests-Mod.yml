@@ -33,7 +33,7 @@ jobs:
           gameVersion: ${{ github.event.inputs.gameVersion }}
 
       - name: "推送變更"
-        uses: github-actions-x/commit@v2.8
+        uses: github-actions-x/commit@v2.9
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           push-branch: ${{ github.event.inputs.ref }}
