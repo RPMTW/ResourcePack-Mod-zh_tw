@@ -179,5 +179,21 @@
     "dimdoors.graphics.riftSize": "裂縫大小",
     "dimdoors.graphics.riftSize.tooltip": "影響應該渲染多大裂縫的乘數，1 是預設大小。",
     "dimdoors.graphics.riftJitter": "裂縫抖動",
-    "dimdoors.graphics.riftJitter.tooltip": "影響應該抖動多少裂縫的乘數，1 是預設大小。"
+    "dimdoors.graphics.riftJitter.tooltip": "影響應該抖動多少裂縫的乘數，1 是預設大小。",
+    "dimdoors.rifts.riftCloseSpeed": "Rift Close Speed",
+    "dimdoors.rifts.riftCloseSpeed.tooltip": "The speed at which rifts close when using the rift remover, in units of rift size per tick.",
+    "dimdoors.rifts.riftBoundingBoxInCreative": "Rift Bounding Box in Creative",
+    "dimdoors.rifts.riftBoundingBoxInCreative.tooltip": "When true, shows the bounding boxes of floating rifts when the player is in creative.",
+    "dimdoors.rifts.enableRiftDecay": "Enable Rift Decay",
+    "dimdoors.rifts.enableRiftDecay.tooltip": "When true, floating rifts will eat nearby placed blocks, dropping world string",
+    "dimdoors.rifts.blockRiftDecayBlackList": "Block Decay Blacklist",
+    "dimdoors.rifts.blockRiftDecayBlackList.tooltip": "A list of blocks that will be blacklisted from rift decay",
+    "dimdoors.rifts.maxRiftSize": "Maximum Rift Size",
+    "dimdoors.rifts.maxRiftSize.tooltip": "The maximum size a wild rift can achieve. Set to -1 to ignore. Note that rifts grow logarithmically",
+    "dimdoors.rifts.enableWildRifts": "Enable",
+    "dimdoors.rifts.enableWildRifts.tooltip": "Determines whether or not wild rifts are enabled",
+    "dimdoors.limbo.enableLimboDecay": "Enable Decay",
+    "dimdoors.limbo.enableLimboDecay.tooltip": "When false, decay spreading from unravelled fabric in Limbo will be disabled",
+    "dimdoors.limbo.blockLimboDecayBlackList": "Block Decay Blacklist",
+    "dimdoors.limbo.blockLimboDecayBlackList.tooltip": "A list of blocks that will be blacklisted from Limbo decay"
 }
