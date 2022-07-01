@@ -1,5 +1,5 @@
 {
-    "tombstone.lang.version": "4.0.0",
+    "tombstone.lang.version": "4.0.1",
     "tombstone.grave.grave_simple.name": "簡易墳墓",
     "tombstone.grave.grave_normal.name": "普通墳墓",
     "tombstone.grave.grave_cross.name": "十字墳墓",
@@ -860,5 +860,7 @@
     "stat.tombstone.use_repairing": "Magic Repairing",
     "stat.tombstone.use_magic_impregnation": "Magic Impregnation",
     "tombstone.compendium.book_of_repairing.desc": "The book allows you to repair your items and erase the wear and tear left by non-magical methods",
-    "tombstone.compendium.book_of_magic_impregnation.desc": "The book allows you to enchant or strengthen the magic contained in certain items"
+    "tombstone.compendium.book_of_magic_impregnation.desc": "The book allows you to enchant or strengthen the magic contained in certain items",
+    "tombstone.config.allow_aether_autoEquip.tooltip": "Allows to re-equip Aether Legacy slots",
+    "tombstone.config.allow_thaumcraft_vis.tooltip": "Allows to provide some vis values for decorative graves"
 }
