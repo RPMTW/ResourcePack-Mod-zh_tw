@@ -4,8 +4,8 @@
   "category": "croptopia:snacks",
   "pages": [
     {
-      "type": "smelting",
-      "recipe": "croptopia:raisins",
+      "type": "patchouli:smelting",
+      "recipe": "croptopia:raisins_from_grape",
       "text": "Recipe for making raisins."
     }
   ]

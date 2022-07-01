@@ -1916,5 +1916,7 @@
     "block.pneumaticcraft.compressed_brick_wall": "Compressed Brick Wall",
     "block.pneumaticcraft.compressed_stone": "Compressed Stone",
     "block.pneumaticcraft.compressed_stone_slab": "Compressed Stone Slab",
-    "pneumaticcraft.gui.progWidget.itemFilter.useItemCount.craftingTooltip": "When checked, allow only the specified number of items to be crafted before moving to the next widget in the program."
+    "pneumaticcraft.gui.progWidget.itemFilter.useItemCount.craftingTooltip": "When checked, allow only the specified number of items to be crafted before moving to the next widget in the program.",
+    "pneumaticcraft.gui.progWidget.entityAttack.checkSight": "Require line of sight",
+    "pneumaticcraft.gui.progWidget.entityAttack.checkSight.tooltip": "Only target mobs which can be seen by the drone; ignore mobs behind walls etc."
 }

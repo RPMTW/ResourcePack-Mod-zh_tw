@@ -4,8 +4,8 @@
   "category": "croptopia:snacks",
   "pages": [
     {
-      "type": "smelting",
-      "recipe": "croptopia:toast",
+      "type": "patchouli:smelting",
+      "recipe": "croptopia:toast_from_bread",
       "text": "Recipe for making toast."
     }
   ]

@@ -218,7 +218,7 @@
     "mahoutsukai.book.binding_eyes.name": "Mystic Eyes of Binding",
     "mahoutsukai.book.black_flame_eyes.desc": "When used, black flames will sprout at the caster's viewing location for a short time. These flames spread somewhat quickly, but do not consume blocks and inflict wither damage to those who come in contact with them. %%n %%nIt drains %%val0 mana from the caster on use.",
     "mahoutsukai.book.black_flame_eyes.name": "Mystic Eyes of the Black Flame",
-    "mahoutsukai.book.borrowed_authority.desc": "Borrow the authority of the gods with this scroll, which increases the caster's speed and power, to the extent that mobs hit while using it will break through walls. %%n %%nIt drains %%val0 mana from the caster on use.",
+    "mahoutsukai.book.borrowed_authority.desc": "Borrow the authority of the gods with this scroll, which increases the caster's speed and power, to the extent that mobs hit while using it will break through walls. Hold the jump button to jump further and hold it while in the air to \"stick\" to the surface you land on. Hold left click while running/jumping to target any enemies you bump into. %%n %%nIt drains %%val0 mana from the caster on use.",
     "mahoutsukai.book.borrowed_authority.name": "Borrowed Authority",
     "mahoutsukai.book.boundaries.desc": "Boundaries are a category of AOE spells which operate in a radius around a placed circle, and drain mana on a fixed basis. You can turn them on and off by right clicking them. A redstone signal will also invert their on/off status. %%n%%nBoundaries give off comparator output - 0 when off, 1 when on. %%n%%nLastly, boundary scrolls can be used to quickly place boundaries in another location.",
     "mahoutsukai.book.boundaries.name": "Boundaries",
@@ -1341,5 +1341,10 @@
     "mahoutsukai.config.buff_clear_items.name": "Buff Clear Items",
     "mahoutsukai.config.fallen_down_beam_target_health_percentage_damage.name": "Fallen Down Beam Mode Health Percentage Damage",
     "mahoutsukai.weaponprojectiles.normal": "Normal Mode",
-    "mahoutsukai.weaponprojectiles.projections": "Projection Mode"
+    "mahoutsukai.weaponprojectiles.projections": "Projection Mode",
+    "effect.mahoutsukai.authority_jump": "Borrowed Authority Jump",
+    "effect.mahoutsukai.ba_cooldown": "Borrowed Authority Hit Cooldown",
+    "effect.mahoutsukai.wall_stick": "Wall Stick",
+    "mahoutsukai.config.black_flame_debuff_time.name": "Black Flame Debuff Time",
+    "mahoutsukai.config.fallen_down_beam_mana_scaled_damage.name": "Fallen Down Beam Mode Mana Scaled Damage"
 }

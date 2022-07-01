@@ -9,8 +9,8 @@
     "action.travelersbackpack.equip_otherbackpack": "Other backpack is already worn.",
     "action.travelersbackpack.equip_fail": "Can't equip the backpack.",
     "action.travelersbackpack.deploy_sleeping_bag": "Can't deploy the sleeping bag! Check the surrounding area.",
-    "information.travelersbackpack.backpack_coords": "Your backpack has been placed at",
-    "information.travelersbackpack.backpack_drop": "There's no space for backpack. Dropping backpack item at",
+    "information.travelersbackpack.backpack_coords": "Your backpack has been placed at X: %s Y: %s Z: %s",
+    "information.travelersbackpack.backpack_drop": "There's no space for backpack. Dropping backpack item at X: %s Y: %s Z: %s",
     "screen.travelersbackpack.none": "None",
     "screen.travelersbackpack.empty": "Empty",
     "screen.travelersbackpack.empty_tank": "Empty",
@@ -21,7 +21,7 @@
     "information.travelersbackpack.warning.4": "Else they will be removed for ever.",
     "information.travelersbackpack.warning.5": "This message appears only once.",
     "obtain.travelersbackpack.bat": "Backpack obtainable in Mine shafts and Dungeons",
-    "obtain.travelersbackpack.iron_golem": "Backpack obtainable in Blacksmith villager's chests",
+    "obtain.travelersbackpack.iron_golem": "Backpack obtainable in Armorer villager's chests",
     "obtain.travelersbackpack.electric": "Can only be acquired by wearing a Diamond backpack and being struck by lightning",
     "obtain.travelersbackpack.pigman": "Can only be acquired by wearing a Pig backpack and being struck by lightning",
     "obtain.travelersbackpack.deluxe": "Backpack obtainable in Strongholds",
@@ -119,5 +119,7 @@
     "block.travelersbackpack.wither_skeleton": "Wither Skeleton",
     "block.travelersbackpack.yellow": "Yellow",
     "block.travelersbackpack.zombie": "Zombie",
-    "block.travelersbackpack.hay": "Hay"
+    "block.travelersbackpack.hay": "Hay",
+    "block.travelersbackpack.magma_cube": "Magma Cube",
+    "block.travelersbackpack.bee": "Bee"
 }

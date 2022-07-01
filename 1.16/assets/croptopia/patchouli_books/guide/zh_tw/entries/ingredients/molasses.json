@@ -4,8 +4,8 @@
   "category": "croptopia:ingredients",
   "pages": [
     {
-      "type": "smelting",
-      "recipe": "croptopia:molasses",
+      "type": "patchouli:smelting",
+      "recipe": "croptopia:molasses_from_sugar_cane",
       "text": "Recipe for molasses."
     }
   ]

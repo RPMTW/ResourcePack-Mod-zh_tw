@@ -4,8 +4,8 @@
   "category": "croptopia:snacks",
   "pages": [
     {
-      "type": "smelting",
-      "recipe": "croptopia:popcorn",
+      "type": "patchouli:smelting",
+      "recipe": "croptopia:popcorn_from_corn",
       "text": "Recipe for making popcorn."
     }
   ]

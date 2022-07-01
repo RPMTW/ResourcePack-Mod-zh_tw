@@ -32,7 +32,7 @@
     "reauth.gui.text.profile": "Login using saved Profile",
     "reauth.gui.text.microsoft": "Login using a Xbox Account",
     "reauth.gui.text.offline": "Choose an offline Username",
-    "reauth.gui.button.offline": "Play Offline",
+    "reauth.gui.button.offline": "Choose Username",
     "reauth.status.refreshing": "Online: §l§b?",
     "reauth.status.error": "Online: §l§c?",
     "reauth.msauth.code.success": "Authentication with Microsoft was successful",
@@ -62,5 +62,8 @@
     "reauth.msauth.step.xsts": "Authenticating with Xbox Live Token Service",
     "reauth.msauth.step.mojang": "Authenticating with Mojang",
     "reauth.msauth.step.fetch": "Retrieving Profile information",
-    "reauth.msauth.button.browser": "Open Login-Page in Browser"
+    "reauth.msauth.button.browser": "Open Login-Page in Browser",
+    "reauth.gui.button.authcode": "This Device",
+    "reauth.gui.button.devicecode": "Any Device",
+    "reauth.gui.button.username": "Set Username"
 }

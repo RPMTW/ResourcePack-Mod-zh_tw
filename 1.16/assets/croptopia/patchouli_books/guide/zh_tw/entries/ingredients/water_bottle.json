@@ -4,9 +4,9 @@
   "category": "croptopia:ingredients",
   "pages": [
     {
-      "type": "crafting",
+      "type": "patchouli:crafting",
       "recipe": "croptopia:shaped_water_bottle",
-      "text": "Recipe for water bottles."
+      "text": "Recipe for water bottles. These are different from the vanilla water bottles, as those are actually unbrewed potions."
     }
   ]
 }

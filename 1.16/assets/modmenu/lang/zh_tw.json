@@ -105,5 +105,7 @@
     "modmenu.coindrop": "Coindrop",
     "option.modmenu.log_deprecation_warnings": "Deprecation Warnings: %s",
     "option.modmenu.log_deprecation_warnings.true": "ON",
-    "option.modmenu.log_deprecation_warnings.false": "OFF"
+    "option.modmenu.log_deprecation_warnings.false": "OFF",
+    "category.modmenu.name": "Mod Menu",
+    "key.modmenu.open_menu": "Open Mod Menu"
 }

@@ -153,5 +153,7 @@
     "gui.shrines.removeQuestion": "Are you sure you want to delete [%s]?",
     "gui.shrines.removeWarning": "It will be gone forever (A long time)",
     "key.customStructuresScreen": "Structure Novel UI",
-    "key.categories.shrines": "Shrines Structures"
+    "key.categories.shrines": "Shrines Structures",
+    "options.shrines.heightmap_type": "Heightmap Type",
+    "gui.shrines.configure_element": "Configure %s"
 }

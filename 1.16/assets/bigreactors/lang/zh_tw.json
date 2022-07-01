@@ -294,7 +294,7 @@
     "gui.bigreactors.turbine.controller.vaporbar.line4a": "  @3",
     "gui.bigreactors.turbine.controller.vaporbar.line4b": "% full",
     "gui.bigreactors.turbine.controller.vaporbar.line5": "Vapor fluids received from input Fluid",
-    "gui.bigreactors.turbine.controller.vaporbar.line6": "Ports are stored in this thank and then",
+    "gui.bigreactors.turbine.controller.vaporbar.line6": "Ports are stored in this tank and then",
     "gui.bigreactors.turbine.controller.vaporbar.line7": "used to drive the Turbine Rotor.",
     "gui.bigreactors.turbine.controller.rpmbar.line1": "Rotor Speed",
     "gui.bigreactors.turbine.controller.rpmbar.line2": "  @0",
@@ -643,5 +643,13 @@
     "item.bigreactors.inanite_dust": "Inanite Dust",
     "block.bigreactors.ludicrite_block": "Ludicrite Block",
     "block.bigreactors.ridiculite_block": "Ridiculite Block",
-    "block.bigreactors.inanite_block": "Inanite Block"
+    "block.bigreactors.inanite_block": "Inanite Block",
+    "item.bigreactors.cryomisi_bucket": "Cryomisi Bucket",
+    "item.bigreactors.tangerium_bucket": "Tangerium Bucket",
+    "item.bigreactors.redfrigium_bucket": "Redfrigium Bucket",
+    "fluid.bigreactors.cryomisi": "Cryomisi",
+    "fluid.bigreactors.tangerium": "Tangerium",
+    "fluid.bigreactors.redfrigium": "Redfrigium",
+    "gui.bigreactors.reprocessor.controller.voidfluid.line1": "Void fluids",
+    "gui.bigreactors.reprocessor.controller.voidfluid.line2": "Void all fluids present in the Reprocessor"
 }

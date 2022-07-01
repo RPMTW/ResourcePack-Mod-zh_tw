@@ -162,5 +162,8 @@
     "endrem.config.structure_difficulty.easy": "Easy",
     "endrem.config.structure_difficulty.normal": "Normal",
     "endrem.config.structure_difficulty.hard": "Hard",
-    "endrem.config.structure_difficulty.nightmare": "Nightmare"
+    "endrem.config.structure_difficulty.nightmare": "Nightmare",
+    "block.endrem.ender_eye.warning": "This eye doesn't want to be used",
+    "block.endrem.custom_eye.place": "This eye is already placed",
+    "block.endrem.custom_eye.frame_has_eye": "This frame already has an eye"
 }

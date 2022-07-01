@@ -87,5 +87,10 @@
     "advancements.mutantmore.husk_smash.description": "Get slammed by a Mutant Husk mid-air",
     "advancements.mutantmore.an_unlikely_refreshment.title": "An Unlikely Refreshment",
     "advancements.mutantmore.an_unlikely_refreshment.description": "Get your first taste of refreshing cactus water after drinking from a Filled Cactus Jug",
-    "itemGroup.mutant_more": "Mutant More"
+    "itemGroup.mutant_more": "Mutant More",
+    "entity.mutantmore.mutant_wither_skeleton_shockwave": "Burning Bolt",
+    "death.fallingMob": "%1$s was squashed",
+    "death.attack.fallingMob": "%1$s was squashed by %2$s",
+    "block.mutantmore.mutant_wither_skeleton_skull": "Mutant Wither Skeleton Skull",
+    "block.mutantmore.mutant_wither_skeleton_wall_skull": "Mutant Wither Skeleton Skull"
 }

@@ -4,8 +4,8 @@
   "category": "croptopia:snacks",
   "pages": [
     {
-      "type": "smelting",
-      "recipe": "croptopia:baked_beans",
+      "type": "patchouli:smelting",
+      "recipe": "croptopia:baked_beans_from_blackbean",
       "text": "Recipe for making baked beans."
     }
   ]
