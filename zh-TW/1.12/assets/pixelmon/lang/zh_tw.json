@@ -12141,5 +12141,14 @@
     "pixelmon.command.battlelog.not.battling": "The user specified is not currently battling!",
     "pixlemon.command.battlelog.logged": "The battle for the user has been logged.",
     "pixelmon.helditems.throatspray": "The Throat Spray raised %s's Sp. Atk!",
-    "pixelmon.effect.snaptrap": "%s was trapped in the snaptrap!"
+    "pixelmon.effect.snaptrap": "%s was trapped in the snaptrap!",
+    "pixelmon.enamorus.name": "Enamorus",
+    "pixelmon.enamorus.description": "When it flies to this land from across the sea, the bitter winter comes to an end. According to legend, this Pokémon's love gives rise to the budding of fresh life across Hisui.",
+    "pixelmon.command.setraid": "You successfully den set %s's %s.",
+    "pixelmon.command.setraid.notify": "%s successfully spawned %s.",
+    "pixelmon.command.setraid.noden": "Den not found.",
+    "argument.coordinate.invalid": "Invalid use of coordinate!",
+    "argument.world.notfound": "World not found.",
+    "argument.species.notfound": "Species not found.",
+    "argument.raidstars.invalid": "Invalid use of raidstars!"
 }
