@@ -668,5 +668,10 @@
     "display.charming_table.name": "Charming Table",
     "display.charming_table.charms": "Modifiable Charms:",
     "display.charming_table.runes": "Modifiable Runes:",
-    "display.charming_table.cost": "Cost: %s"
+    "display.charming_table.cost": "Cost: %s",
+    "item.treasure2:gottschs_amulet_of_heavens.name": "Gottsch's Amulet of the Heavens",
+    "item.treasure2:double_charge_runestone.name": "Runestone of Double Charge",
+    "runestone.treasure2:double_charge_rune.name": "Rune of Double Charge",
+    "tooltip.runestone.lore.double_charge_rune": "Doubles the recharges of all charms.",
+    "tooltip.charm.gottschs_amulet_of_heavens.special": "Limited Edition: Treasure2 5-millionth download reward."
 }
