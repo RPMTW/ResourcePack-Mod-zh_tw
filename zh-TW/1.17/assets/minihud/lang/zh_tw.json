@@ -85,5 +85,11 @@
     "minihud.message.spawn_set": "MiniHUD: 設定世界出生點到 %s",
     "minihud.label.bee_info.count": "§7包含 §b%s§7 蜜蜂(s)",
     "minihud.label.bee_info.count_babies": "§7包含 §b%s§7隻蜜蜂(§b%s§7為幼年)",
-    "minihud.label.bee_info.name": "§7- %s"
+    "minihud.label.bee_info.name": "§7- %s",
+    "minihud.gui.button.config_gui.info_lines": "Info Lines",
+    "minihud.gui.button.config_gui.renderers": "Renderers",
+    "minihud.gui.button.shape_renderer_toggle": "Shape Renderer: %s",
+    "minihud.label.shapes.adjustable_spawn_sphere": "Adjustable Spawn Sphere",
+    "minihud.message.no_seed": "MiniHUD: World seed is not known",
+    "minihud.message.seed_is": "The world seed in MiniHUD is currently set to '%s'"
 }
