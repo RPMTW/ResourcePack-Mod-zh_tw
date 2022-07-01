@@ -85,5 +85,11 @@
     "minihud.message.spawn_set": "MiniHUD: Set the world spawn to %s",
     "minihud.label.bee_info.count": "§7Contains §b%s§7 bee(s)",
     "minihud.label.bee_info.count_babies": "§7Contains §b%s§7 bee(s), (§b%s§7 babies)",
-    "minihud.label.bee_info.name": "§7- %s"
+    "minihud.label.bee_info.name": "§7- %s",
+    "minihud.gui.button.config_gui.info_lines": "Info Lines",
+    "minihud.gui.button.config_gui.renderers": "Renderers",
+    "minihud.gui.button.shape_renderer_toggle": "Shape Renderer: %s",
+    "minihud.label.shapes.adjustable_spawn_sphere": "Adjustable Spawn Sphere",
+    "minihud.message.no_seed": "MiniHUD: World seed is not known",
+    "minihud.message.seed_is": "The world seed in MiniHUD is currently set to '%s'"
 }

@@ -31,5 +31,7 @@
     "text.autoconfig.textile_backup.option.playerWhitelist": "Admin Whitelist",
     "text.autoconfig.textile_backup.option.playerBlacklist": "Admin Blacklist",
     "text.autoconfig.textile_backup.option.dateTimeFormat": "Date&Time format",
-    "text.autoconfig.textile_backup.option.dateTimeFormat.@Tooltip": "See: https://github.com/Szum123321/textile_backup/wiki/Date-time-format"
+    "text.autoconfig.textile_backup.option.dateTimeFormat.@Tooltip": "See: https://github.com/Szum123321/textile_backup/wiki/Date-time-format",
+    "text.autoconfig.textile_backup.option.broadcastBackupStart": "Announce backup start",
+    "text.autoconfig.textile_backup.option.broadcastBackupDone": "Announce backup done"
 }
