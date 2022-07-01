@@ -94,8 +94,8 @@
     "config.jei.advanced.giveMode": "物品給與方法",
     "config.jei.advanced.giveMode.comment": "選擇JEI會直接將物品移入物品欄或是用游標將其撿起。",
     "gui.jei.editMode.description": "JEI編輯模式：",
-    "gui.jei.editMode.description.hide": "%s點擊以隱藏。",
-    "gui.jei.editMode.description.hide.wild": "%s右擊以隱藏相同ID的物品。",
+    "gui.jei.editMode.description.hide": "%s to hide",
+    "gui.jei.editMode.description.hide.wild": "透過雜項隱藏%s",
     "key.jei.ctrl": "CTRL",
     "key.jei.ctrl.mac": "CMD",
     "gui.jei.category.craftingTable": "工作台合成",
@@ -142,5 +142,11 @@
     "jei.key.category.search": "JEI（搜尋篩選器）",
     "key.jei.clearSearchBar": "清除搜尋篩選",
     "key.jei.previousSearch": "上一個搜尋歷史",
-    "key.jei.nextSearch": "下一個搜尋歷史"
+    "key.jei.nextSearch": "下一個搜尋歷史",
+    "jei.tooltip.cheat.mode.how.to.disable.hover.config.button.hotkey": "%s 這裡以切換它",
+    "key.jei.toggleCheatModeConfigButton": "Toggle Cheat Mode (when hovering over config button)",
+    "key.jei.cheatOneItem2": "作弊獲取 1 物品",
+    "jei.key.category.edit.mode": "JEI (編輯模式)",
+    "key.jei.toggleHideIngredient": "Hide an ingredient",
+    "key.jei.toggleWildcardHideIngredient": "Hide an ingredient using wildcard matching"
 }
