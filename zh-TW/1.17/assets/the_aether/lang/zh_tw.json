@@ -563,5 +563,17 @@
     "easteregg.the_aether.aerwhale": "Serenity is the queen of W(h)ales!!",
     "commands.the_aether.LUV.success.query": "LUV%1$s",
     "commands.the_aether.LUV.success.set": "%1$s's LUV is now %2$s",
-    "commands.the_aether.LUV.failure.set": "You have no right!"
+    "commands.the_aether.LUV.failure.set": "You have no right!",
+    "createWorld.customize.preset.the_aether.sandbox": "Aether - Sandbox",
+    "biome.the_aether.aether_highlands": "Highlands Plains",
+    "biome.the_aether.aether_highlands_forest": "Highlands Forest",
+    "biome.the_aether.aether_highlands_thicket": "Highlands Thicket",
+    "biome.the_aether.aether_wisteria_woods": "Wisteria Woods",
+    "biome.the_aether.autumnal_tundra": "Autumnal Tundra",
+    "biome.the_aether.continental_plateau": "Continental Plateau",
+    "biome.the_aether.highlands_shield": "Highlands Shield",
+    "item.the_aether.flaxseed": "Flaxseed",
+    "death.attack.swet": "%1$s was absorbed by %2$s",
+    "death.attack.swet.player": "%1$s was absorbed by %2$s whilst trying to escape %3$s",
+    "commands.the_aether.condition.success.clear.individual": "Cleared %1$s condition(s) from %2$s"
 }
