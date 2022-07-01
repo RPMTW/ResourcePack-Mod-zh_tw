@@ -1093,5 +1093,6 @@
     "item.quark.golden_frog_leg_maybe": "Golden Frog \"Leg\"",
     "item.quark.biome_map": "%s Pathfinder Map",
     "item.quark.biome_map.unknown": "Unknown Biome",
-    "_biome_map_comment": "The following translation keys are only relevant to maps generated before Quark 354."
+    "_biome_map_comment": "The following translation keys are only relevant to maps generated before Quark 354.",
+    "quark.gui.enchanting.dampen": "Candle Influence: %d%%"
 }

@@ -72,5 +72,8 @@
     "corail_woodcutter.message.datapack.apply.fail": "The datapack wasn't applied: %s",
     "corail_woodcutter.message.datapack.remove.success": "The datapack was removed",
     "corail_woodcutter.message.datapack.remove.absent": "The datapack was absent",
-    "corail_woodcutter.message.datapack.remove.fail": "The datapack wasn't not removed: %s"
+    "corail_woodcutter.message.datapack.remove.fail": "The datapack wasn't not removed: %s",
+    "block.corail_woodcutter.transformation_woodcutter": "Transwood Sawmill",
+    "block.corail_woodcutter.mining_woodcutter": "Minewood Sawmill",
+    "block.corail_woodcutter.sorting_woodcutter": "Sortwood Sawmill"
 }

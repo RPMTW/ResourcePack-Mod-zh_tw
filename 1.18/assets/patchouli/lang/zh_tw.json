@@ -84,5 +84,8 @@
     "patchouli.gui.lexicon.button.visualize.info": "(Click again to clear)",
     "patchouli.gui.lexicon.button.history": "History",
     "patchouli.gui.lexicon.button.mark_all_read": "Mark all as read",
-    "patchouli.gui.lexicon.button.mark_category_read": "Mark this category as read"
+    "patchouli.gui.lexicon.button.mark_category_read": "Mark this category as read",
+    "item.patchouli:pamphlet.name": "Test Pamphlet",
+    "item.patchouli:pamphlet.landing": "A test pamphlet, which is a book with only one category.",
+    "patchouli.gui.lexicon.button.toggle_mock_header": "Toggle Mock Header"
 }

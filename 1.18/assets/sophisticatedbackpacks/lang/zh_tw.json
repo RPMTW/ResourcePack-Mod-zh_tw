@@ -334,5 +334,10 @@
     "gui.sophisticatedbackpacks.upgrades.smoking.tooltip": "Smoking",
     "gui.sophisticatedbackpacks.upgrades.auto_smoking.tooltip": "Auto-Smoking",
     "gui.sophisticatedbackpacks.upgrades.blasting.tooltip": "Blasting",
-    "gui.sophisticatedbackpacks.upgrades.auto_blasting.tooltip": "Auto-Blasting"
+    "gui.sophisticatedbackpacks.upgrades.auto_blasting.tooltip": "Auto-Blasting",
+    "gui.sophisticatedbackpacks.status.backpack_cannot_be_open_by_another_player": "This backpack cannot be open by another player",
+    "gui.sophisticatedbackpacks.settings.buttons.another_player_can_open.on": "Another player can open",
+    "gui.sophisticatedbackpacks.settings.buttons.another_player_can_open.on.tooltip": "When this backpack is worn and visible another player can open it when right clicking on this player's back",
+    "gui.sophisticatedbackpacks.settings.buttons.another_player_can_open.off": "Another player can NOT open",
+    "gui.sophisticatedbackpacks.settings.buttons.another_player_can_open.off.tooltip": "Backpack can not be open by another player when right clicking on this player's back even if the backpack is worn there"
 }

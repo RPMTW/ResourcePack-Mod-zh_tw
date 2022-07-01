@@ -91,5 +91,6 @@
     "crafttweaker.command.misc.loot_tables": "Loot Tables",
     "crafttweaker.command.misc.fluid": "Fluid",
     "crafttweaker.script.load.end.error": "An error occurred while loading scripts: please check the log",
-    "crafttweaker.script.load.end.noerror": "Loading completed without errors"
+    "crafttweaker.script.load.end.noerror": "Loading completed without errors",
+    "crafttweaker.command.description.recipes.inventory": "Outputs information on all Recipes for the items in the player's inventory"
 }

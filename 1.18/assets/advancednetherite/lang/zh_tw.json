@@ -68,5 +68,16 @@
     "tooltip.advancednetherite.misc.press_shift_key": "Press %s to view all perks",
     "tooltip.advancednetherite.misc.shift": "[SHIFT]",
     "advancements.advancednetherite.nether.netherite_iron_armor.title": "No More Phantoms",
-    "advancements.advancednetherite.nether.netherite_iron_armor.description": "Get a full suit of Netherite-Iron armor"
+    "advancements.advancednetherite.nether.netherite_iron_armor.description": "Get a full suit of Netherite-Iron armor",
+    "tooltip.advancednetherite.hoe.additional_crop_drops": "+ Chance of dropping additional crop drops while harvesting grown crops",
+    "advancements.advancednetherite.nether.obtain_netherite_iron_ingot.title": "Upgrades!",
+    "advancements.advancednetherite.nether.obtain_netherite_iron_ingot.description": "Obtain a Netherite-Iron Ingot",
+    "config.advancednetherite.client.show_tooltips": "If true, displays tooltips, added by Advanced Netherite, with perks client-side.",
+    "config.advancednetherite.client.matching_durability_bars": "If true, displays a (color) matching durability bar underneath the item when damaged.",
+    "config.advancednetherite.client.enable_search_bar": "If true, enables a search bar in the Advanced Netherite creative tab.",
+    "config.advancednetherite.client.force_disable_dab_support": "If true, forcefully disables support for Detail Armor Bar mod. Requires the game to be restarted.",
+    "config.advancednetherite.screen.description.top": "Install %s mod to edit the config added by %s from within the game.",
+    "config.advancednetherite.screen.description.bottom": "View the wiki page for instructions.",
+    "config.advancednetherite.screen.button.install_configured": "Install %s",
+    "config.advancednetherite.screen.button.instructions": "Instructions"
 }

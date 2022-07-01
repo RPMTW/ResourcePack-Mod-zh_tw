@@ -43,5 +43,17 @@
     "block.blast.cold_digger": "Cold Digger",
     "block.blast.dry_ice": "Dry Ice",
     "death.attack.amethyst_shard": "%1$s was shanked by an amethyst shard from %2$s's amethyst bomb",
-    "death.attack.icicle": "%1$s was iced by %2$s"
+    "death.attack.icicle": "%1$s was iced by %2$s",
+    "item.blast.amethyst_bomb": "Amethyst Bomb",
+    "item.blast.amethyst_trigger_bomb": "Amethyst Trigger Bomb",
+    "item.blast.frost_bomb": "Frost Bomb",
+    "item.blast.frost_trigger_bomb": "Frost Trigger Bomb",
+    "item.blast.slime_bomb": "Slime Bomb",
+    "item.blast.slime_trigger_bomb": "Slime Trigger Bomb",
+    "entity.blast.amethyst_bomb": "Amethyst Bomb",
+    "entity.blast.amethyst_trigger_bomb": "Amethyst Trigger Bomb",
+    "entity.blast.frost_bomb": "Frost Bomb",
+    "entity.blast.frost_trigger_bomb": "Frost Trigger Bomb",
+    "entity.blast.slime_bomb": "Slime Bomb",
+    "entity.blast.slime_trigger_bomb": "Slime Trigger Bomb"
 }

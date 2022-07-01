@@ -83,5 +83,10 @@
     "additionaladditions.advancements.shot_self_scoped_crossbow.desc": "Hit yourself with your own arrow using Crossbow with Spyglass",
     "additionaladditions.advancements.use_watering_can": "Water it can",
     "additionaladditions.advancements.use_watering_can.desc": "Obtain and use the Watering Can to fertilize your crops",
-    "additionaladditions.gui.config.restart": "Restart the game to apply the changes"
+    "additionaladditions.gui.config.restart": "Restart the game to apply the changes",
+    "block.additionaladditions.patina_block": "Patina Block",
+    "enchantment.additionaladditions.precision.desc": "Improves crossbow accuracy.",
+    "enchantment.additionaladditions.speed.desc": "Increases movement speed.",
+    "depth_meter.elevation": "Altitude: %s",
+    "additionaladditions.gui.pocket_jukebox.tooltip": "Secondary Click with a Music Disc to play"
 }

@@ -308,7 +308,7 @@
     "message.elementalcraft.disconnect": "Disconnected",
     "message.elementalcraft.extract": "Extracting",
     "message.elementalcraft.insert": "Inserting",
-    "elementalcraft.landing": "$(thing)ElementalCraft$() is a magic mod based around the 4 $(thing)elements$(): $(thing)fire$(), $(thing)water$(), $(thing)earth$() and $(thing)air$().",
+    "elementalcraft.landing": "$(thing)ElementalCraft$() is a magic mod based around the 4 $(thing)elements$(): $(thing)fire$(), $(thing)water$(), $(thing)earth$() and $(thing)air$().$(br2)You can you can also find more information on the wiki:  $(link)https://wiki.elementalcraft.org/$().",
     "elementalcraft.category.basics": "Basics",
     "elementalcraft.category.basics.desc": "Basics and early-game mechanics.",
     "elementalcraft.category.instruments": "Instruments",
@@ -430,5 +430,11 @@
     "tooltip.elementalcraft.basilisk": "Slow down the enemy you are looking at",
     "block.elementalcraft.mana_synthesizer": "Mana Element Synthesizer",
     "block.elementalcraft.shrine_upgrade_vortex": "Vortex Shrine Upgrade",
-    "tooltip.elementalcraft.vortex": "Drag creatures instead of items"
+    "tooltip.elementalcraft.vortex": "Drag creatures instead of items",
+    "spell.elementalcraft.feather_spikes": "Feather Spikes",
+    "spell.elementalcraft.shockwave": "Shockwave",
+    "spell.elementalcraft.air_shield": "Air Shield",
+    "death.attack.elementalcraft.jewel.kirin": "%1$s was smited by %2$s",
+    "death.attack.elementalcraft.jewel.kirin.item": "%1$s was smited by %2$s using %3$s",
+    "message.elementalcraft.missing_springaline": "You don't have a springaline shard in your inventory"
 }

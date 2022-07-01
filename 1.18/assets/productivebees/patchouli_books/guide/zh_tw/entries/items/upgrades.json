@@ -21,12 +21,12 @@
         },
         {
             "type": "patchouli:text",
-            "text": "When installed in a hive, the BaBee upgrade will give a small chance for the bees living inside the hive to breed and produce new offspring without your involvement. $(br)When installed in a $(l:blocks/catcher)catcher$(/l), only BaBees will be caught and put in cages."
+            "text": "When installed in a hive, the BaBee upgrade will give a small chance for the bees living inside the hive to breed and produce new offspring without your involvement. Note that bees which can't breed normally do not work with this upgrade. $(br)When installed in a $(l:blocks/catcher)catcher$(/l), only BaBees will be caught and put in cages."
         },
         {
             "type": "patchouli:crafting",
             "recipe": "productivebees:upgrades/productivity",
-            "text": "Usable in: $(l:hives/advanced_hives#expanded)Expanded Hives$(/l).",
+            "text": "Usable in: $(l:hives/advanced_hives#expanded)Expanded Hives$(/l), $(l:blocks/honey_generator)Honey Generator(/l).",
             "anchor": "productivity"
         },
         {
@@ -36,7 +36,7 @@
         {
             "type": "patchouli:crafting",
             "recipe": "productivebees:upgrades/time",
-            "text": "Usable in: $(l:hives/advanced_hives#expanded)Expanded Hives$(/l), $(l:blocks/centrifuge)Centrifuge$(/l), $(l:blocks/incubator)Incubator$(/l).",
+            "text": "Usable in: $(l:hives/advanced_hives#expanded)Expanded Hives$(/l), $(l:blocks/centrifuge)Centrifuge$(/l), $(l:blocks/incubator)Incubator$(/l), $(l:blocks/honey_generator)Honey Generator(/l).",
             "anchor": "speed"
         },
         {
@@ -56,12 +56,12 @@
         {
             "type": "patchouli:crafting",
             "recipe": "productivebees:upgrades/range",
-            "text": "Usable in: $(l:blocks/catcher)Catcher$(/l).",
+            "text": "Usable in: $(l:hives/advanced_hives#expanded)Expanded Hives$(/l), $(l:blocks/catcher)Catcher$(/l).",
             "anchor": "range"
         },
         {
             "type": "patchouli:text",
-            "text": "When installed in a catcher, the Range upgrade will expand the area of operation by 1 block is all directions. Multiple range upgrades can be installed."
+            "text": "When installed in a hive, the operating range of Farmer and Collector/Hoarder bees is increased by 1 per upgrade, from default 4. When installed in a catcher, the Range upgrade will expand the area of operation by 1 block is all directions. Multiple range upgrades can be installed."
         },
         {
             "type": "patchouli:crafting",
@@ -82,6 +82,16 @@
         {
             "type": "patchouli:text",
             "text": "When installed in a hive, a small sample of pollinating bees will be extracted with each visit. It shouldn't bee hurting them at all."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "productivebees:upgrades/comb_block",
+            "text": "Usable in: $(l:hives/advanced_hives#expanded)Expanded Hives$(/l).",
+            "anchor": "comb_block"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "When installed in a hive, Lumber and Quarry bees will produce full blocks instead of chips."
         }
     ]
 }

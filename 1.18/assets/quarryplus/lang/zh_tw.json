@@ -192,5 +192,6 @@
     "block.quarryplus.waterlogged_marker": "Waterlogged Marker Plus",
     "block.quarryplus.waterlogged_marker16": "Waterlogged Chunk Marker",
     "text.autoconfig.quarryplus.option.common.removeFrameAfterQuarryIsRemoved": "Remove Frame after Quarry removed",
-    "text.autoconfig.quarryplus.option.common.removesCommonMaterialAdvQuarry": "Remove common material in ChunkDestroyer"
+    "text.autoconfig.quarryplus.option.common.removesCommonMaterialAdvQuarry": "Remove common material in ChunkDestroyer",
+    "quarryplus.chat.warn_protected_area": "Area contains protected chunks. Quarry has stopped."
 }
