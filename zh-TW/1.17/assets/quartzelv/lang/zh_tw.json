@@ -6,5 +6,7 @@
     "text.autoconfig.quartzelv.option.quartzElevatorDistance": "石英電梯的最大距離",
     "text.autoconfig.quartzelv.option.smoothQuartzElevatorDistance": "平滑石英電梯的最大距離",
     "text.autoconfig.quartzelv.option.mixTypes": "在不同電梯類型之間移動",
-    "text.autoconfig.quartzelv.option.isPlayerOnly": "僅限玩家"
+    "text.autoconfig.quartzelv.option.isPlayerOnly": "僅限玩家",
+    "itemGroup.quartzelv.quartz_elevator": "Quartz Elevator",
+    "text.autoconfig.quartzelv.option.displayParticles": "Display particles"
 }
