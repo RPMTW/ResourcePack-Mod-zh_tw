@@ -85,5 +85,8 @@
     "substance.dynamictrees.mega.error.no_mega_species": "The %s species does not have a mega variant.",
     "substance.dynamictrees.transform.error.not_transformable": "The %s species is not transformable.",
     "substance.dynamictrees.transform.error.already_transformed": "The selected tree is already a %s species.",
-    "substance.dynamictrees.transform.error.not_brewed": "The transform potion must be brewed with the seed of the target species."
+    "substance.dynamictrees.transform.error.not_brewed": "The transform potion must be brewed with the seed of the target species.",
+    "commands.dynamictrees.clearorphaned.usage": "/dt clearOrphaned <xChunk> <yChunk> <radiusChunks>",
+    "commands.dynamictrees.purgetrees.usage": "/dt purgeTrees <xChunk> <yChunk> <radiusChunks>",
+    "commands.dynamictrees.unhandled.usage": "Command Undocumented"
 }
