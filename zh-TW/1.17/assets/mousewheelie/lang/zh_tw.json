@@ -76,5 +76,11 @@
     "tweed4_tailor_screen.screen.mousewheelie.tool-picking": "適配工具",
     "tweed4_tailor_screen.screen.mousewheelie.tool-picking.hold-tool": "手持工具時觸發適配",
     "tweed4_tailor_screen.screen.mousewheelie.tool-picking.hold-block": "手持相同方塊時觸發適配",
-    "tweed4_tailor_screen.screen.mousewheelie.tool-picking.pick-from-inventory": "允許從物品欄中抽取工具"
+    "tweed4_tailor_screen.screen.mousewheelie.tool-picking.pick-from-inventory": "允許從物品欄中抽取工具",
+    "tweed4_tailor_screen.screen.mousewheelie.general.enable-quick-armor-swapping": "Quick Armor Swapping",
+    "tweed4_tailor_screen.screen.mousewheelie.general.enable-alt-dropping": "Drop with Alt+Click",
+    "tweed4_tailor_screen.screen.mousewheelie.general.integrated-interaction-rate": "Singleplayer Interaction rate",
+    "tweed4_tailor_screen.screen.mousewheelie.general.item-kinds-nbt-match-mode": "Match item kinds by NBT",
+    "tweed4_tailor_screen.screen.mousewheelie.general.better-fast-dragging": "Better fast dragging",
+    "tweed4_tailor_screen.screen.mousewheelie.refill.restore-selected-slot": "Restore selected slot"
 }

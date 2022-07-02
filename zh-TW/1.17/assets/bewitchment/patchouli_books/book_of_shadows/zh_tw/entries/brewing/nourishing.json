@@ -6,13 +6,13 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "The Nourishing effect increases the effectiveness of food, giving a flat increase in gain when consuming food."
+      "text": "營養效果增加了吸收食物的效率，在吃食物時會再增加固定的飽食度。"
     },
     {
       "type": "patchouli:spotlight",
       "title": "營養",
       "item": "minecraft:bamboo",
-      "text": "The gain increase scales with intensity."
+      "text": "增加的飽食度隨效果強度而增加。"
     }
   ]
 }

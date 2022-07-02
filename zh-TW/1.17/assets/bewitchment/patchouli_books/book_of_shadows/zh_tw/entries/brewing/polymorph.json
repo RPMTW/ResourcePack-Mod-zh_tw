@@ -6,13 +6,13 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "Polymorph must be one of the most versatile effects. Players under the Polymorph effect change their form into the target of the $(l:bewitchment:tools/taglock)Taglock$() used.$(br2)The Brew can be made into a Splash Potion or similar variants, just like other brews."
+      "text": "變形大概是有著最多變化的效果之一，玩家在變形效果下將轉變成$(l:bewitchment:tools/taglock)巫媒$()內目標生物的樣子。$(br2)這種效果也能做成飛濺藥水或其他，如同其他效果般。"
     },
     {
       "type": "patchouli:spotlight",
       "title": "變形",
       "item": "bewitchment:taglock{FromPlayer: 1b, OwnerUUID: [I; 1672005179, -1854323673, -2070260447, 778045631], OwnerName:\"Aelpecyem\"}",
-      "text": "Intensity does not have an effect on this potion.$(br2)This potion only works if created from a $(l:bewitchment:tools/taglock)Taglock$() of another player."
+      "text": "效果強度並不影響藥水的效用。$(br2)這種效果僅有使用$(l:bewitchment:tools/taglock)巫媒$()釀造藥水時才有效用。"
     }
   ]
 }

@@ -1,13 +1,13 @@
 {
   "category": "bewitchment:contracts",
-  "name": "Envy",
+  "name": "嫉妒契約",
   "icon": "bewitchment:demonic_contract",
   "advancement": "bewitchment:hidden_unlocks/demon_horn",
   "sortnum": 1,
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "The Envy $(l:bewitchment:contracts/concept_contracts)Contract$() lets you steal a Villager's trades by heartlessly murdering them."
+      "text": "嫉妒$(l:bewitchment:contracts/concept_contracts)契約$()讓你能從無情地屠殺村民中，偷得他們身上的交易。"
     }
   ]
 }

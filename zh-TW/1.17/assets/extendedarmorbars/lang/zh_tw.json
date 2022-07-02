@@ -1,13 +1,13 @@
 {
-    "option.rebelkeithy.extendedarmorbars.colors": "Colors",
-    "option.rebelkeithy.extendedarmorbars.armorenable": "Enable Armor Bar",
-    "option.rebelkeithy.extendedarmorbars.armorenabledescription": "Disabling this will only disable this mods\noverriding of the armor bar. It will NOT\ndisable the armor bar completely.",
-    "option.rebelkeithy.extendedarmorbars.armorhidebackground": "Hide Background for Armor Bar",
-    "option.rebelkeithy.extendedarmorbars.armorhidewhenempty": "Hide Armor Bar When Empty",
-    "option.rebelkeithy.extendedarmorbars.toughnessenable": "Enable Toughness Bar",
-    "option.rebelkeithy.extendedarmorbars.toughnesshidebackground": "Hide Background for Toughness Bar",
-    "option.rebelkeithy.extendedarmorbars.toughnesshidewhenempty": "Hide Toughness Bar When Empty",
-    "option.rebelkeithy.extendedarmorbars.armorbaroffset": "Armor Bar Y Offset",
-    "option.rebelkeithy.extendedarmorbars.toughnessbaroffset": "Toughness Bar Y Offset",
-    "option.rebelkeithy.extendedarmorbars.onehealthbar": "Don't move armor bar when over 10 hearts"
+    "option.rebelkeithy.extendedarmorbars.colors": "顏色",
+    "option.rebelkeithy.extendedarmorbars.armorenable": "啟用盔甲條",
+    "option.rebelkeithy.extendedarmorbars.armorenabledescription": "停用它只會停用這個覆蓋\n盔甲條的模組。它不會完全\n停用盔甲條。",
+    "option.rebelkeithy.extendedarmorbars.armorhidebackground": "隱藏盔甲條的背景",
+    "option.rebelkeithy.extendedarmorbars.armorhidewhenempty": "空時隱藏盔甲條",
+    "option.rebelkeithy.extendedarmorbars.toughnessenable": "啟用盔甲強度條",
+    "option.rebelkeithy.extendedarmorbars.toughnesshidebackground": "隱藏盔甲強度條的背景",
+    "option.rebelkeithy.extendedarmorbars.toughnesshidewhenempty": "空時隱藏盔甲強度條",
+    "option.rebelkeithy.extendedarmorbars.armorbaroffset": "盔甲條 Y 軸偏移",
+    "option.rebelkeithy.extendedarmorbars.toughnessbaroffset": "盔甲強度條 Y 軸偏移",
+    "option.rebelkeithy.extendedarmorbars.onehealthbar": "超過 10 顆心時不要移動盔甲條"
 }

@@ -31,7 +31,7 @@
       "type": "patchouli:spotlight",
       "title": "發光",
       "item": "minecraft:glistering_melon_slice",
-      "text": "Makes the target glow obnoxiously."
+      "text": "使目標發出厭人的光芒。"
     },
     {
       "type": "patchouli:spotlight",
@@ -49,13 +49,13 @@
       "type": "patchouli:spotlight",
       "title": "立即治療",
       "item": "bewitchment:garlic",
-      "text": "Instantly heals a flat amount of health, using the healing properties of $(l:bewitchment:introducton/crops)Garlic$()."
+      "text": "藉著$(l:bewitchment:introducton/crops)大蒜$()能治百病的效果，立即治療固定生命值。"
     },
     {
       "type": "patchouli:spotlight",
       "title": "立即傷害",
       "item": "bewitchment:cypress_bark",
-      "text": "Instantly damages a flat amount of health, harnessing the deadly energies of $(l:bewitchment:introduction/cypress_trees)Cypress$()."
+      "text": "駕馭了$(l:bewitchment:introducton/crops)柏木$()所蘊含的死亡象徵，立即傷害固定生命值。"
     },
     {
       "type": "patchouli:spotlight",
@@ -67,7 +67,7 @@
       "type": "patchouli:spotlight",
       "title": "跳躍提升",
       "item": "minecraft:rabbit_foot",
-      "text": "Jump boost is self-explanatory."
+      "text": "跳躍提升，正如其名。"
     },
     {
       "type": "patchouli:spotlight",
@@ -79,13 +79,13 @@
       "type": "patchouli:spotlight",
       "title": "挖掘疲勞",
       "item": "minecraft:poppy",
-      "text": "Mining Fatigue makes the target hit much slower."
+      "text": "挖掘疲勞使得目標揮擊的更慢。"
     },
     {
       "type": "patchouli:spotlight",
       "title": "噁心",
       "item": "bewitchment:aconite",
-      "text": "Induces sickness by disorienting the target."
+      "text": "藉由迷惑目標來誘發嘔吐。"
     },
     {
       "type": "patchouli:spotlight",
@@ -103,7 +103,7 @@
       "type": "patchouli:spotlight",
       "title": "回復",
       "item": "bewitchment:juniper_bark",
-      "text": "By utilizing the life energies from $(l:bewitchment:introduction/juniper_trees)Juniper$(), Regeneration quickens the healing process when applied.",
+      "text": "活用了$(l:bewitchment:introduction/juniper_trees)刺柏$()所蘊含的生氣，回復生命值。",
       "anchor": "regeneration"
     },
     {
@@ -129,7 +129,7 @@
       "type": "patchouli:spotlight",
       "title": "速度",
       "item": "minecraft:sugar_cane",
-      "text": "Increases movement speed, using the energizing qualities of Sugar Cane."
+      "text": "藉由甘蔗裡那令人興奮的糖分，增加移動速度。"
     },
     {
       "type": "patchouli:spotlight",

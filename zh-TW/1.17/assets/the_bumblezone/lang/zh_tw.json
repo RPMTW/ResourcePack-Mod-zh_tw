@@ -185,5 +185,9 @@
     "text.autoconfig.the_bumblezone-main.option.BZGeneralConfig.beehemothSpeed": "巨獸速度",
     "text.autoconfig.the_bumblezone-main.option.BZGeneralConfig.beehemothSpeed.@PrefixText": "Base speed for the Beehemoth when being rode by a player.",
     "text.autoconfig.the_bumblezone-main.option.BZClientConfig.lgbtBeeRate": "LGBT+ Bee Skin Rate",
-    "text.autoconfig.the_bumblezone-main.option.BZClientConfig.lgbtBeeRate.@PrefixText": "Rate for how often a bee will have an LGBT+ coat!"
+    "text.autoconfig.the_bumblezone-main.option.BZClientConfig.lgbtBeeRate.@PrefixText": "Rate for how often a bee will have an LGBT+ coat!",
+    "item.the_bumblezone.bee_bread": "蜜蜂包糧",
+    "effect.the_bumblezone.beenergized": "蜂蜜能量",
+    "advancements.the_bumblezone.beenergized_maxed.title": "Speedy Buzzy Bees!",
+    "advancements.the_bumblezone.beenergized_maxed.description": "By combining pollen and honey, create Bee Bread and feed it to bees until they are maximum speed! Zoom!"
 }
