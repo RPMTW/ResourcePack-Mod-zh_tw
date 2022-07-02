@@ -85,7 +85,7 @@
     },
     {
       "type": "text",
-      "text": "請注意，您的$(raw)感知工具$()將優先採用身上最大數量的$(raw)意志$()。如果你在一個$(l:bloodmagic:demon_will/will_manipulation/soul_gem)地獄魂石$()中攜帶10個$(corrosive)腐蝕意志$()，在另一個中攜帶1,000個$(raw)原生意志$()，那麼你的劍將保持為$(raw)原生$()。"
+      "text": "Note that your $(item)Sentient Tools$() will take on the aspect of the largest amount of $(raw)Will$() in your inventory. If you're carrying 10 $(corrosive)Corrosive Will$() in one $(l:bloodmagic:demon_will/will_manipulation/soul_gem)Tartaric Gem$(), and 1,000 $(raw)Raw Will$() in another, then your sword will remain $(raw)Raw$(). $(br2)The $(l:bloodmagic:demon_will/will_manipulation/soul_forge)Hellfire Forge$() can accept any kind of $(raw)will$() for crafting with, so don't worry about having to juggle multiple types of will across different $(item)Tartaric Gems$()."
     }
   ]
 }
