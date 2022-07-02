@@ -1,0 +1,12 @@
+{
+  "name": "烤地瓜",
+  "icon": "croptopia:baked_sweet_potato",
+  "category": "croptopia:meals",
+  "pages": [
+    {
+      "type": "patchouli:smelting",
+      "recipe": "croptopia:smelting_baked_sweet_potato",
+      "text": "食譜"
+    }
+  ]
+}
