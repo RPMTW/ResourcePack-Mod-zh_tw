@@ -17,6 +17,10 @@
         {
             "type": "patchouli:text",
             "text": "高級蜂箱有一個使用介面，你可以從中查看當前有哪些蜜蜂在蜂箱內，以及取出任何生產的資源。 可以使用$(l:hives/expansion_boxes)擴充盒$(/l)進一步升級高級蜂箱。 附加一個 $(l:hives/expansion_boxes)擴充盒$(/l)會將蜜蜂容量從 3 增加到 5 並允許安裝 $(l:items/upgrades)升級$(/l)。"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "If you're tired of waiting for the bees to finish their job and get out of the hive, you can whack the hive or nest with a stick to force it out, loosing all production progress. This only works if it's safe for the bees to exit."
         }
     ]
 }
