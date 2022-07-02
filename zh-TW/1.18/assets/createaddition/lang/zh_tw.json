@@ -203,5 +203,8 @@
     "item.createaddition.biomass_pellet": "生物質顆粒",
     "item.createaddition.biomass_pellet.tooltip": "生物質顆粒",
     "item.createaddition.biomass_pellet.tooltip.summary": "一種可以在_熔爐_中熔煉_6 個物品_的_固體燃料_。",
-    "block.createaddition.bioethanol": "生質酒精"
+    "block.createaddition.bioethanol": "生質酒精",
+    "createaddition.recipe.charging": "Charging",
+    "effect.createaddition.shocking.description": "Causes severely reduced movement speed",
+    "itemGroup.createaddition.main": "Create Crafts & Additions"
 }
