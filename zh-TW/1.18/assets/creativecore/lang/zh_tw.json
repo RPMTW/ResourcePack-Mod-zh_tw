@@ -8,9 +8,16 @@
     "dialog.button.YES": "是",
     "dialog.button.NO": "否",
     "dialog.button.MAYBE": "或許",
-    "dialog.button.CANCEL": "取消",
+    "dialog.button.CANCEL": "Cancel",
     "dialog.button.ABORT": "放棄",
     "dialog.button.CONFIRM": "確定",
-    "collector.inventory": "儲物欄",
-    "collector.all": "創造"
+    "collector.inventory": "Inventory",
+    "collector.all": "創造",
+    "minecraft.block": "Block",
+    "minecraft.item": "Item",
+    "minecraft.block_tag": "Blocktag",
+    "minecraft.item_tag": "Itemtag",
+    "minecraft.fuel": "Fuel",
+    "minecraft.stack": "Stack",
+    "minecraft.material": "Material"
 }
