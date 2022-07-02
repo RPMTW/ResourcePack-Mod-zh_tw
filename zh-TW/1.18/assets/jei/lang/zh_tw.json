@@ -45,7 +45,7 @@
     "key.jei.toggleBookmarkOverlay": "顯示/隱藏書籤欄",
     "jei.key.category.recipe.gui": "JEI（配方）",
     "key.jei.recipeBack": "上一個合成配方",
-    "key.jei.previousCategory": "Previous Recipe Category",
+    "key.jei.previousCategory": "上一個配方分類",
     "key.jei.nextCategory": "下一個配方分類",
     "key.jei.previousRecipePage": "上一頁的配方",
     "key.jei.nextRecipePage": "下一頁的配方",
@@ -150,7 +150,7 @@
     "jei.key.category.hover.config.button": "JEI（將滑鼠懸停在配置按鈕上）",
     "jei.key.category.dev.tools": "JEI（開發工具）",
     "key.jei.copy.recipe.id": "複製合成配方ID至剪貼簿",
-    "jei.message.copy.recipe.id.success": "Copied Recipe ID to clipboard: %s",
+    "jei.message.copy.recipe.id.success": "已複製配方 ID 到剪貼簿：%s",
     "jei.message.copy.recipe.id.failure": "無法複製配方 ID 到剪貼簿，未知的配方 ID",
     "key.jei.closeRecipeGui": "關閉合成表使用者介面"
 }
