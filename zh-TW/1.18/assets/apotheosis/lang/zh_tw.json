@@ -677,5 +677,17 @@
     "affix.apotheosis:common_reach": "伸長",
     "affix.apotheosis:common_reach.prefix": "長",
     "info.apotheosis.affix_item": "神化詞墜物品",
-    "item.modifiers.both_hands": "拿在任意手中時："
+    "item.modifiers.both_hands": "拿在任意手中時：",
+    "item.apotheosis.spawner": "%s 生怪磚",
+    "stat.apotheosis.silent": "靜音",
+    "stat.apotheosis.silent.desc": "生成的實體不會發出聲音",
+    "info.apotheosis.spawner.no_silk": "生怪磚可以用各種物品進行修改，但目前停用了絲綢之觸。",
+    "info.apotheosis.spawner.always_drop": "生怪磚可以用各種物品進行修改，並且在挖掘會掉落。",
+    "info.apotheosis.eterna.t": "位階：%s/%s",
+    "info.apotheosis.quanta.t": "量子化：%s%%",
+    "info.apotheosis.arcana.t": "阿卡那：%s%%",
+    "info.apotheosis.rectification.t": "校正： %s%%",
+    "info.apotheosis.clues.t": "附魔線索： %s",
+    "tooltip.enchlib.nfilt": "Name Filter",
+    "tooltip.enchlib.ifilt": "Item Filter"
 }
