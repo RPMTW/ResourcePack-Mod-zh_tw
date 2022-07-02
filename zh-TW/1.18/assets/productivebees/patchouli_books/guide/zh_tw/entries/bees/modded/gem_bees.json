@@ -654,14 +654,14 @@
             "type": "patchouli:text",
             "title": "黃鑽石蜂",
             "text": "從$(l:bees/hive/diamond)鑽石蜂$(/l) 用黃鑽石轉換",
-            "anchor": "yellow_diamond",
-            "flag": "productivebees:yellow_diamond"
+            "anchor": "white_diamond",
+            "flag": "productivebees:white_diamond"
         },
         {
             "type": "patchouli:entity",
             "name": "黃鑽石蜂",
-            "entity": "productivebees:configurable_bee{type:'productivebees:yellow_diamond'}",
-            "flag": "productivebees:yellow_diamond"
+            "entity": "productivebees:configurable_bee{type:'productivebees:white_diamond'}",
+            "flag": "productivebees:white_diamond"
         },
         {
             "type": "patchouli:text",
