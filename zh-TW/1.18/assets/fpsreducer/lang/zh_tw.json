@@ -27,7 +27,7 @@
     "fpsreducer.config.menu.waitingTime": "等候時間（分：秒）",
     "fpsreducer.config.menu.idleFps": "閒置時的幀率",
     "fpsreducer.config.menu.advancedOptions": "進階選項",
-    "fpsreducer.config.menu.guiScreenFps": "打開物品欄/選單時的最大幀率",
+    "fpsreducer.config.menu.guiScreenFps": "Max FPS in GUI",
     "fpsreducer.config.menu.returnToGame": "完成",
     "fpsreducer.config.playerConfig": "玩家設定",
     "fpsreducer.config.globalConfig": "全域設定",
@@ -43,5 +43,17 @@
     "fpsreducer.config.hudPosAdj.alignment.0": "左對齊",
     "fpsreducer.config.hudPosAdj.alignment.1": "右對齊",
     "fpsreducer.config.hudPosAdj.alignment.2": "居中",
-    "fpsreducer.config.hudPosAdj.reset": "重置位置"
+    "fpsreducer.config.hudPosAdj.reset": "重置位置",
+    "fpsreducer.config.menu.noActFps": "Max FPS without action",
+    "#fpsreducer.config.ON": "ON",
+    "#fpsreducer.config.OFF": "OFF",
+    "fpsreducer.config.hudPosAdj.hudInfo.6": "Simple",
+    "fpsreducer.config.tooltip.waitingTime": "The waiting time until the client shifts to the idle state when there is no operation. Can be turned off by moving the slider to the right edge.",
+    "fpsreducer.config.tooltip.idleFps": "Max FPS at idle state. The FPS will be reduced to this value, when there is no operation for a specified period of time.",
+    "fpsreducer.config.tooltip.guiScreenFps": "Max FPS in GUI screens such as the inventory screen and the menu screens.",
+    "fpsreducer.config.tooltip.noActFps": "Max FPS during no operation. After detecting no operation, the FPS is immediately limited to this value.",
+    "fpsreducer.config.tooltip.profile.modest": "§eProfile: §oModest Eco§r\nFPS will be reduced when the client is in background or in ESC menu. (Default)",
+    "fpsreducer.config.tooltip.profile.eco": "§eProfile: §oEco§r\nAlmost same as the default setting of FPS Reducer 1. FPS will be reduced when the client is in background, in ESC menu or no operation for 10 minutes.",
+    "fpsreducer.config.tooltip.profile.cooling1": "§eProfile: §oSituational Cooling (Low)§r\nProactively control the load depending on the situation. (For PC that runs at 60fps or higher.) In addition to the behavior of Eco profile, FPS will be limited to 60fps when the character is stationary, in inventory screen or in any GUI screen. Depending on VSync and Max Framerate settings in the Video Settings, the effect will be less effective.",
+    "fpsreducer.config.tooltip.profile.cooling2": "§eProfile: §oSituational Cooling (High)§r\nMore powerful load suppression depending on the situation. (For weak PC.) In addition to the behavior of Eco profile, FPS will be limited to 30fps when the character is stationary, in inventory screen or in any GUI screen."
 }
