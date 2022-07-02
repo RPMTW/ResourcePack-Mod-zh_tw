@@ -2,6 +2,9 @@
   "name": "Stabilized Focuses",
   "icon": "conjuring:stabilized_conjuring_focus",
   "category": "conjuring:basics",
+  "extra_recipe_mappings": {
+    "conjuring:distilled_spirit": 1
+  },
   "pages": [
     {
       "type": "patchouli:text",
@@ -10,11 +13,11 @@
     {
       "type": "conjuring:soulfire_forge_recipe",
       "recipe": "conjuring:soulfire_forge/stabilized_conjuring_focus",
-      "text": "Considering how expensive a Stabilized Focus is, cleaning and reusing it might seen practical. To accomplish this, one can utilize $(item)Distilled Spirit$(). This freakish fluid is obtained by imbuing four pieces of $(l:conjuring:basics/conjuration_essence)Conjuration Essence$()"
+      "text": "考慮到穩定招魂焦點的昂貴程度，清理和重複使用它看起來較為可行。為了實現這一點，可以利用 $(item)蒸餾魂魄$（）。這種怪異的液體是通過注入四塊$（l：召喚：基本/conjuration_essence）召喚精華$（）而獲得的。"
     },
     {
       "type": "patchouli:text",
-      "text": "into a plain old glass bottle using a $(l:conjuring:rituals/ritual_of_weaving)Soul Weaver$(). The focus to be cleansed must then be placed into a $(item)Soul Funnel$() and the $(item)Distilled Spirit$() dropped on top. Finally, a simple $(thing)right-click$() with a $(l:conjuring:basics/conjuring_scepters)Conjuring Scepter$() will suffice to extract the soul."
+      "text": "使用$（l：召喚：儀式/ritual_of_weaving）靈魂編織者$（）放入一個普通的舊玻璃瓶中。然後，必須將要清理的焦點放入 $(item)靈魂漏鬥$（），並將 $(item)蒸餾魂魄$（）放在頂部。最後，一個簡單的 $(thing)右鍵按兩下$（）和$（l：concuring：basics/conjuring_scepters）召喚權杖$（）就足以提取靈魂。"
     }
   ]
 }

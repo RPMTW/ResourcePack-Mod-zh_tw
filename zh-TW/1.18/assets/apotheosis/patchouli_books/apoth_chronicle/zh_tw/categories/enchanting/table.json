@@ -1,0 +1,8 @@
+{
+    "name": "附魔台",
+    "description": "本節介紹對附魔台的更改。",
+    "icon": "minecraft:enchanting_table",
+    "flag": "apotheosis:enchanting",
+    "parent": "apotheosis:enchanting/enchanting",
+    "sortnum": -1
+}

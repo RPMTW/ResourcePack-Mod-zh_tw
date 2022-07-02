@@ -1,0 +1,19 @@
+{
+    "name": "汗水蜂",
+    "icon": "生產蜜蜂：spawn_egg_sweat_bee",
+    "read_by_default": true,
+    "sortnum": 13,
+    "category": "productivebees:bees_solitary",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "title": "汗水蜂",
+            "text": "[Halictus rubicundus]",
+            "anchor": "sweat"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "productivebees:sweat_bee"
+        }
+    ]
+}

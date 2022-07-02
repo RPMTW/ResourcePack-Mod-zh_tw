@@ -1,0 +1,13 @@
+{
+    "name": "耐久",
+    "icon": "minecraft:enchanted_book",
+    "category": "apotheosis:enchanting/anvil",
+    "flag": "apotheosis:enchanting",
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(9)耐久$()現在可以在鐵砧上使用。$(p)每個等級的耐久都會降低鐵砧在使用（或掉落）時損壞的機率。"
+        }
+    ]
+}

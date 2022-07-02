@@ -1,0 +1,15 @@
+{
+    "text.autoconfig.cyti.title": "Modifications of the Waste Containers",
+    "text.autoconfig.cyti.option.trashSettings": "Can Settings",
+    "text.autoconfig.cyti.option.trashSettings.directBucketClearing": "Direct Bucket Clearing",
+    "text.autoconfig.cyti.option.trashSettings.directBucketClearing.@Tooltip": "Empty bucket directly by right-clicking on the Fluid Trashcan.",
+    "text.autoconfig.cyti.option.trashSettings.shiftClearingBucket": "Shift-Cleaning Bucket",
+    "text.autoconfig.cyti.option.trashSettings.shiftClearingBucket.@Tooltip": "When shift-clicking a bucket inside a Fluid Trashcan it immediately empties without changing slot.",
+    "text.autoconfig.cyti.option.trashSettings.energyTrashcanInput": "Energy Trashcan Input",
+    "text.autoconfig.cyti.option.trashSettings.energyTrashcanInput.@Tooltip": "The energy per tick input by items and cables, unless overruled by the source output.",
+    "text.autoconfig.cyti.option.trashSettings.fluidTrashcanInput": "Fluid Trashcan Input",
+    "text.autoconfig.cyti.option.trashSettings.fluidTrashcanInput.@Tooltip": "The fluid per tick input by items and pipes, unless overruled by the source output.",
+    "block.cyti.trashcan_item": "Item Trashcan",
+    "block.cyti.trashcan_fluid": "Fluid Trashcan",
+    "block.cyti.trashcan_energy": "Energy Trashcan"
+}

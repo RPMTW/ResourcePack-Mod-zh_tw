@@ -1,0 +1,16 @@
+{
+    "name": "傳送板",
+    "icon": "allthemodium:teleport_pad",
+    "category": "allthemodium:dimensions",
+    "sortnum": "1",
+    "pages": [
+        {
+            "type": "crafting",
+            "recipe": "allthemodium:main/teleport_pad"
+        },
+        {
+            "type": "text",
+            "text": "傳送板用於傳送到 $(l:dimensions/miningdim)採礦維度$(/c)和$(l:dimensions/otherdim)其他維度$(/c)，你需要在雙手不持有物品時Shift右鍵。$(br2)備註：$(l:dimensions/miningdim)採礦維度$(/c)在 ATM6: To The Sky 包中被禁用"
+        }
+    ]
+}

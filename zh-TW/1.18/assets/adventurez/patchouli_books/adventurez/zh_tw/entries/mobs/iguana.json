@@ -1,0 +1,18 @@
+{
+    "name": "鬣蜥",
+    "icon": "adventurez:stone_golem_heart",
+    "category": "adventurez:mob_category",
+    "pages": [
+        {
+            "type": "text",
+            "text": "鬣蜥是友善的生物，可在高原生物群系中發現牠，喜歡吃枯萎的灌木叢，且可使用干灌木叢來繁殖"
+        },
+        {
+            "type": "entity",
+            "name": "Showcase",
+            "entity": "adventurez:iguana",
+            "scale": "0.7",
+            "offset": "-0.3"
+        }
+    ]
+}

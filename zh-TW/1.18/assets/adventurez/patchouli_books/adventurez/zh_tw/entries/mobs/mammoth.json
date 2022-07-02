@@ -1,0 +1,17 @@
+{
+    "name": "長毛象",
+    "icon": "adventurez:stone_golem_heart",
+    "category": "adventurez:mob_category",
+    "pages": [
+        {
+            "type": "text",
+            "text": "長毛象是友好的生物，有些人說它們已經滅絕了。可以在寒冷環境中發現他們且可以餵給他們草來繁殖。"
+        },
+        {
+            "type": "entity",
+            "name": "Showcase",
+            "entity": "adventurez:mammoth",
+            "scale": "0.8"
+        }
+    ]
+}

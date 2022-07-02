@@ -1,0 +1,17 @@
+{
+    "name": "石魔像之心",
+    "icon": "adventurez:stone_golem_heart",
+    "category": "adventurez:item_category",
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "adventurez:stone_golem_heart",
+            "link_recipe": false,
+            "text": "石魔像之心是從黑石魔像掉落的頭目物品，可用於三種不同的東西。它是石魔像手臂的製作材料，你可以為自己注入一個增益，或升級鐵魔像使其更強大！"
+        },
+        {
+            "type": "empty",
+            "draw_filler": false
+        }
+    ]
+}

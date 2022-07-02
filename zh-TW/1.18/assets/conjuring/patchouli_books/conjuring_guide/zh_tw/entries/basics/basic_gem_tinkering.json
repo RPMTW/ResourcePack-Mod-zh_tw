@@ -18,7 +18,7 @@
       "text": "The violent conditions inside a $(l:conjuring:basics/conjurer)Conjurer$() necessitate extra care when trying to use $(item)Aspect Gems$() inside one. In fact, reinforcing them using $(item)Gem Sockets$() is required. These sturdy little receptacles allow the $(item)Gems$() to focus their energy directly into the installed $(l:conjuring:basics/conjuring_focus)Conjuring Focus$(), augmenting it's capabilities."
     },
     {
-      "type": "conjuring:soulfire_forge_recipe",
+      "type": "招魂 : 魂焰鍛造配方",
       "recipe": "conjuring:soulfire_forge/gem_socket"
     }
   ]

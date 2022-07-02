@@ -1,0 +1,70 @@
+{
+    "name": "植物魔法",
+    "icon": "botania:manapool",
+    "read_by_default": true,
+    "sortnum": 8,
+    "category": "productivebees:bees_modded",
+    "flag": "mod:botania",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "植物魔法的附屬蜜蜂"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "turn the page"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "魔力鋼蜂",
+            "text": "這個蜜蜂不能被配種而得。其生怪蛋製作於$(l:bees/hive/#iron)鐵蜂$(/l)生怪蛋在魔力池裡。",
+            "anchor": "manasteel",
+            "flag": "productivebees:manasteel"
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "魔力鋼蜂",
+            "entity": "productivebees:configurable_bee{type:'productivebees:manasteel'}",
+            "flag": "productivebees:manasteel"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "泰拉鋼蜂",
+            "text": "這個蜜蜂不能配種而得。其生怪蛋製作於$(l:bees/modded/botania#manasteel)魔力鋼蜂$(/l)生怪蛋用於注魔祭壇。",
+            "anchor": "terrasteel",
+            "flag": "productivebees:terrasteel"
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "泰拉鋼蜂",
+            "entity": "productivebees:configurable_bee{type:'productivebees:terrasteel'}",
+            "flag": "productivebees:terrasteel"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "源質鋼蜂",
+            "text": "這個蜜蜂不能配種而得。其生怪蛋製作於$(l:bees/modded/botania#manasteel)魔力鋼蜂$(/l)生怪蛋用於注魔祭壇。",
+            "anchor": "elementium",
+            "flag": "productivebees:elementium"
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "源質鋼蜂",
+            "entity": "productivebees:configurable_bee{type:'productivebees:elementium'}",
+            "flag": "productivebees:elementium"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "精靈鋼蜂",
+            "text": "這個蜜蜂不能配種而得。其生怪蛋製作於$(l:bees/modded/botania#elementium)源質鋼蜂$(/l)生怪蛋用於注魔祭壇。",
+            "anchor": "elementium",
+            "flag": "productivebees:alfsteel"
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "精靈鋼蜂",
+            "entity": "productivebees:configurable_bee{type:'productivebees:elementium'}",
+            "flag": "productivebees:alfsteel"
+        }
+    ]
+}

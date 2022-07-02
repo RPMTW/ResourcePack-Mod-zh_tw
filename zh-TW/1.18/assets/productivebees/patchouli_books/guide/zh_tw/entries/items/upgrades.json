@@ -1,0 +1,97 @@
+{
+    "name": "升級組件",
+    "icon": "productivebees:upgrade_base",
+    "category": "productivebees:items",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "productivebees:upgrade_base",
+            "text": "升級可以放入機器和蜂箱中以增加它們的功能或提高性能"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "productivebees:upgrades/base",
+            "text": "所有其他升級的基礎。"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "productivebees:upgrades/breeding",
+            "text": "可用於：$(l:hives/advanced_hives#expanded)擴展蜂箱$(/l)、$(l:blocks/catcher)捕捉器$(/l)。",
+            "anchor": "babee"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "When installed in a hive, the BaBee upgrade will give a small chance for the bees living inside the hive to breed and produce new offspring without your involvement. Note that bees which can't breed normally do not work with this upgrade. $(br)When installed in a $(l:blocks/catcher)catcher$(/l), only BaBees will be caught and put in cages."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "productivebees:upgrades/productivity",
+            "text": "Usable in: $(l:hives/advanced_hives#expanded)Expanded Hives$(/l), $(l:blocks/honey_generator)Honey Generator(/l).",
+            "anchor": "productivity"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "當安裝在蜂巢中時，產能升級將增加蜜蜂每次旅行所產生的蜂巢數量。 可以安裝多個產能升級。"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "productivebees:upgrades/time",
+            "text": "Usable in: $(l:hives/advanced_hives#expanded)Expanded Hives$(/l), $(l:blocks/centrifuge)Centrifuge$(/l), $(l:blocks/incubator)Incubator$(/l), $(l:blocks/honey_generator)Honey Generator(/l).",
+            "anchor": "speed"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "當安裝在蜂巢中時，速度升級將減少蜜蜂在蜂巢內停留的時間。 $(br)當安裝在$(l:blocks/centrifuge)離心機$(/l)或$(l:blocks/incubator)孵化器$(/l)中時，會提高運作速度"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "productivebees:upgrades/filter",
+            "text": "可用於：$(l:hives/advanced_hives#expanded)擴展蜂箱$(/l)、$(l:blocks/catcher)捕捉器$(/l)。",
+            "anchor": "filter"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "在蜜蜂上按右鍵來將其添加到過濾器。將過濾器放入合成格中來清除。安裝在蜂巢中時，只允許過濾器上指定的蜜蜂進入。$(br)安裝在捕捉器中時，只有過濾器上指定的蜜蜂會被捕獲。"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "productivebees:upgrades/range",
+            "text": "Usable in: $(l:hives/advanced_hives#expanded)Expanded Hives$(/l), $(l:blocks/catcher)Catcher$(/l).",
+            "anchor": "range"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "When installed in a hive, the operating range of Farmer and Collector/Hoarder bees is increased by 1 per upgrade, from default 4. When installed in a catcher, the Range upgrade will expand the area of operation by 1 block is all directions. Multiple range upgrades can be installed."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "productivebees:upgrades/anti_teleport",
+            "text": "可用於：$(l:hives/advanced_hives#expanded)擴展蜂箱$(/l)。",
+            "anchor": "anti_teleport"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "當安裝在蜂箱中時，可以傳送的蜜蜂在升級後居住在蜂箱中時將不再傳送。"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "productivebees:upgrades/bee_sampler",
+            "text": "可用於：$(l:hives/advanced_hives#expanded)擴展蜂箱$(/l)。",
+            "anchor": "sampler"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "當安裝在蜂箱中時，每次訪問都會提取一小部分授粉蜜蜂。根本不應該傷害牠們。"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "productivebees:upgrades/comb_block",
+            "text": "Usable in: $(l:hives/advanced_hives#expanded)Expanded Hives$(/l).",
+            "anchor": "comb_block"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "When installed in a hive, Lumber and Quarry bees will produce full blocks instead of chips."
+        }
+    ]
+}

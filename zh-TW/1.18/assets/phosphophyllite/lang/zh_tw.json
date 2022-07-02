@@ -1,0 +1,20 @@
+{
+    "itemGroup.phosphophyllite": "磷葉石",
+    "multiblock.error.phosphophyllite.invalid_block.frame": "無效方塊框架 (%s)，位於%s",
+    "multiblock.error.phosphophyllite.invalid_block.exterior": "無效外部方塊 (%s)，位於%s",
+    "multiblock.error.phosphophyllite.invalid_block.interior": "無效內部方塊 (%s)，位於%s",
+    "multiblock.error.phosphophyllite.invalid_block.corner": "無效角落方塊 (%s)，位於%s",
+    "multiblock.error.phosphophyllite.invalid_block.generic": "無效方塊 (%s)，位於%s",
+    "multiblock.error.phosphophyllite.unknown": "出現了未知的多方塊結構錯誤，請聯繫作者",
+    "multiblock.error.phosphophyllite.dimensions": "無法在該維度使用 \n實際：%d, %d, %d, \n允許最小值：%d, %d, %d, \n允許最大值：%d, %d, %d,",
+    "block.phosphophyllite.item_black_hole": "物品黑洞",
+    "block.phosphophyllite.item_white_hole": "物品白洞",
+    "block.phosphophyllite.fluid_black_hole": "液體黑洞",
+    "block.phosphophyllite.fluid_white_hole": "液體白洞",
+    "block.phosphophyllite.power_black_hole": "能量黑洞",
+    "block.phosphophyllite.power_white_hole": "能量白洞",
+    "block.phosphophyllite.phosphophyllite_ore": "磷葉石礦",
+    "item.phosphophyllite.debug_tool": "除錯工具",
+    "random.bullshit.that.doesnt.actually.get.used.anywhere": "這只是個結尾",
+    "multiblock.error.phosphophyllite.null_controller": "The multiblock system has experienced an unknown internal error, report to Phosphophyllite"
+}

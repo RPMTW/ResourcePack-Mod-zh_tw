@@ -1,0 +1,12 @@
+{
+    "name": "採礦維度",
+    "icon": "allthemodium:allthemodium_ore",
+    "category": "allthemodium:dimensions",
+    "sortnum": "2",
+    "pages": [
+        {
+            "type": "text",
+            "text": "採礦維度對於設置需要開採的採礦場很有用。由於它是超平坦維度，因此用作測試區域也很有用。要傳送到採礦維度，請使用主世界中的$(l:dimensions/teleport_pad)傳送板$(/c)。"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "name": "餵食半磚",
+    "icon": "productivebees:feeder",
+    "category": "productivebees:blocks",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "productivebees:feeder",
+            "text": "用來供給蜜蜂的採集點， 上面可以放三樣物品。當 木料蜂 或 採石蜂 使用這個時， 擺放了多種木料或石頭只會隨機採集其中一種。"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "餵食器可以進行蜂蜜記錄，為蜜蜂提供了一個很好的地方，可以讓蜜蜂從一整天的工作中恢復過來，也就是讓它們重獲新生。"
+        }
+    ]
+}

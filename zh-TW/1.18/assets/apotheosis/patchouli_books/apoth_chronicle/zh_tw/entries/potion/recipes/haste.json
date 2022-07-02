@@ -1,0 +1,19 @@
+{
+    "name": "挖掘加速",
+    "icon": "minecraft:textures/mob_effect/haste.png",
+    "category": "apotheosis:potion/recipes",
+    "flag": "apotheosis:potion",
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(9)挖掘加速$()是另一個有用的正面效果，在原版中沒有釀造配方。$(p)每個等級提供 +20% 的挖掘速度。"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "title": "釀造配方",
+            "item": "minecraft:mushroom_stew",
+            "text": "這種藥水可以用一種基礎藥水和一些蘑菇湯來製作。$(p)它可以用通常的成分延長時效、強化或變成噴濺藥水。"
+        }
+    ]
+}

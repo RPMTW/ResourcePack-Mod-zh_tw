@@ -1,9 +1,9 @@
 {
-    "harvest_scythes.scythe_tooltip.radius": "§6收穫半徑：%s",
-    "harvest_scythes.scythe_tooltip.circle": "§6圍成一圈收穫：%s",
+    "harvest_scythes.scythe_tooltip.radius": "§6收割範圍：%s",
+    "harvest_scythes.scythe_tooltip.circle": "§6圓形收割：%s",
     "harvest_scythes.scythe_tooltip.radius.arg_color": "§e",
     "harvest_scythes.scythe_tooltip.circle.arg_color": "§e",
-    "harvest_scythes.machete_tooltip.depth": "§6收穫深度：%s",
+    "harvest_scythes.machete_tooltip.depth": "§6收割深度：%s",
     "harvest_scythes.machete_tooltip.depth.arg_color": "§e",
     "item.harvest_scythes.creative_scythe": "創造鐮刀",
     "item.harvest_scythes.wooden_scythe": "木鐮刀",
@@ -132,5 +132,14 @@
     "itemGroup.harvest_scythes.machetes": "彎刀",
     "enchantment.harvest_scythes.crop_reaper": "作物收割",
     "enchantment.harvest_scythes.leaf_eater": "食葉者",
-    "enchantment.harvest_scythes.blind_harvest_curse": "盲目收穫詛咒"
+    "enchantment.harvest_scythes.blind_harvest_curse": "盲目收穫詛咒",
+    "item.harvest_scythes.gobber2_nether_scythe": "Nether Scythe",
+    "item.harvest_scythes.gobber2_end_scythe": "End Scythe",
+    "item.harvest_scythes.gobber2_nether_machete": "Nether Machete",
+    "item.harvest_scythes.gobber2_end_machete": "End Machete",
+    "item.harvest_scythes.kunzite_machete": "Kunzite Machete",
+    "item.harvest_scythes.spinel_machete": "Spinel Machete",
+    "enchantment.harvest_scythes.crop_reaper.desc": "Increase harvesting range",
+    "enchantment.harvest_scythes.leaf_eater.desc": "Destroy connected leaves",
+    "enchantment.harvest_scythes.blind_harvest_curse.desc": "Is it grown?"
 }

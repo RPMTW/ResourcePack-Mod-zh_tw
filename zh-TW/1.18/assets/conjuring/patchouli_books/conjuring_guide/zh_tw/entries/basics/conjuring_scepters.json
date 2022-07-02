@@ -16,7 +16,7 @@
       "text": "There may come a point at which one runs out of $(l:conjuring:basics/conjuration_essence)Conjuration Essence$(). When this happens, many options can be explored, yet the $(item)Superior Conjuring Scepter$() should prove the most reliable long-term solution. By utilizing the innate mystical properties of the attached $(item)Nether Star$(), it manages to create so-called $(thing)Soul Projectiles$(). These will condense an entity's soul into some $(l:conjuring:basics/conjuration_essence)Conjuration Essence$() when on sufficiently low health."
     },
     {
-      "type": "conjuring:soulfire_forge_recipe",
+      "type": "招魂 : 魂焰鍛造配方",
       "recipe": "conjuring:soulfire_forge/superior_conjuring_scepter",
       "text": "Additionally, the scepter is capable of instantly finishing any process in the $(l:conjuring:basics/soulfire_forge)Soulfire Forge$() by $(thing)shift-right-clicking$()."
     }

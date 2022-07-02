@@ -1,10 +1,10 @@
 {
-    "_comment": "設定",
+    "_comment": "config:",
     "itemGroup.buildinggadgets.tab": "結構工具",
-    "item.buildinggadgets.gadget_building": "建築小幫手",
-    "item.buildinggadgets.gadget_copy_paste": "複製貼上小幫手",
-    "item.buildinggadgets.gadget_destruction": "破壞小幫手",
-    "item.buildinggadgets.gadget_exchanging": "更替小幫手",
+    "item.buildinggadgets.gadget_building": "建築小工具",
+    "item.buildinggadgets.gadget_copy_paste": "黏貼小工具",
+    "item.buildinggadgets.gadget_destruction": "拆除小工具",
+    "item.buildinggadgets.gadget_exchanging": "替換小工具",
     "item.buildinggadgets.construction_paste": "構建黏膏",
     "item.buildinggadgets.construction_chunk_dense": "緻密構建塊",
     "item.buildinggadgets.construction_paste_container_t1": "黏膏容器",
@@ -215,5 +215,6 @@
     "text.autoconfig.building_gadgets.option.gadgets.gadgetCopyPaste.maxCopySize": "最大複製尺寸",
     "text.autoconfig.building_gadgets.option.gadgets.gadgetCopyPaste.maxBuildSize": "最大建築尺寸",
     "text.autoconfig.building_gadgets.option.gadgets.undoSize": "恢復清單大小",
-    "text.autoconfig.building_gadgets.option.gadgets.undoExpiry": "恢復清單過期"
+    "text.autoconfig.building_gadgets.option.gadgets.undoExpiry": "恢復清單過期",
+    "itemGroup.buildinggadgets": "建築小幫手"
 }

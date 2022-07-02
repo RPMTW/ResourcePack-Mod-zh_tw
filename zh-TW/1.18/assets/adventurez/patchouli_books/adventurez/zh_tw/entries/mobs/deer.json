@@ -1,0 +1,18 @@
+{
+    "name": "鹿",
+    "icon": "adventurez:stone_golem_heart",
+    "category": "adventurez:mob_category",
+    "pages": [
+        {
+            "type": "text",
+            "text": "鹿是一隻友善但害羞的動物"
+        },
+        {
+            "type": "entity",
+            "name": "Showcase",
+            "entity": "adventurez:deer",
+            "scale": "0.7",
+            "offset": "0.3"
+        }
+    ]
+}

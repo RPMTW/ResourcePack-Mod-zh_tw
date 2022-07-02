@@ -1,12 +1,12 @@
 {
-  "name": "Chocolate Ice Cream",
+  "name": "巧克力冰淇淋",
   "icon": "croptopia:chocolate_ice_cream",
   "category": "croptopia:desserts",
   "pages": [
     {
       "type": "patchouli:crafting",
       "recipe": "croptopia:shaped_chocolate_ice_cream",
-      "text": "Recipe"
+      "text": "食譜"
     }
   ]
 }

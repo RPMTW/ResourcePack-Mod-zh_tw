@@ -1,0 +1,16 @@
+{
+    "name": "仙人掌",
+    "icon": "minecraft:cactus",
+    "category": "apotheosis:garden/garden",
+    "flag": "apotheosis:garden",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "仙人掌的最大生長高度增加到 5 個方塊高。$(p)這個值是可配置的，所以基於模組包的設定，這個值可能更高（或更低）。"
+        }
+    ],
+    "extra_recipe_mappings": {
+        "minecraft:cactus": 0
+    }
+}

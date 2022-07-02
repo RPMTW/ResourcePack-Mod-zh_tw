@@ -1,0 +1,5 @@
+{
+    "commands.forge.arguments.enum.invalid": "列舉常量必須是 {0} 其中的一個，已找到 {1}",
+    "commands.config.getwithtype": "%s 的設定（形態 %s）在 %s 被找到",
+    "commands.config.noconfig": "找不到 %s 的設定（形態 %s）"
+}

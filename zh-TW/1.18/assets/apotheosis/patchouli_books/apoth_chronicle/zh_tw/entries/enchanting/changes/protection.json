@@ -1,0 +1,17 @@
+{
+    "name": "Protection",
+    "icon": "minecraft:netherite_chestplate",
+    "category": "apotheosis:enchanting/changes",
+    "flag": "apotheosis:enchanting",
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(9)保護$()不再排斥保護的子類型附魔。$(p)這意味著現在可以擁有$(9)保護$()和另一種通常會排斥的防禦附魔。"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "此外，最大有效保護點已從 20 提高到 65。$(p) 超過 20 的保護點效果較差，超過 65 的保護點無效。"
+        }
+    ]
+}
