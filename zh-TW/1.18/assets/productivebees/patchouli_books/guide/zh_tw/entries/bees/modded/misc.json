@@ -33,138 +33,138 @@
         },
         {
             "type": "patchouli:text",
-            "title": "終界黑雲母蜂",
-            "text": "由$(l:bees/wild/crystalline)石英蜂$(/l)和$(l:bees/wild/draconic)龍族蜂$(/l)配種而得。$(br)需安裝模組：《夸克》（Quark）",
-            "anchor": "ender_biotite",
-            "flag": "productivebees:ender_biotite"
-        },
-        {
-            "type": "patchouli:entity",
-            "name": "終界黑雲母蜂",
-            "entity": "productivebees:configurable_bee{type:'productivebees:ender_biotite'}",
-            "flag": "productivebees:ender_biotite"
-        },
-        {
-            "type": "patchouli:text",
-            "title": "空間蜂",
-            "text": "由$(l:bees/wild/crystalline)石英蜂$(/l)和$(l:bees/wild/ender)終界蜂$(/l)配種而得。$(br2)可以離心這種蜜蜂的蜂巢以獲得需要進一步處理的石英種子。",
+            "title": "Spatial Bee",
+            "text": "Bred from a $(l:bees/wild/crystalline)Crystalline Bee$(/l) and an $(l:bees/wild/ender)Ender Bee$(/l).$(br2)The combs of this bee can be centrifuged to get certus quartz seeds which require further processing.",
             "anchor": "spacial",
             "flag": "productivebees:spacial"
         },
         {
             "type": "patchouli:entity",
-            "name": "空間蜂",
+            "name": "Spatial Bee",
             "entity": "productivebees:configurable_bee{type:'productivebees:spacial'}",
             "flag": "productivebees:spacial"
         },
         {
             "type": "patchouli:text",
-            "title": "硝石蜂",
-            "text": "由$(l:bees/hive/coal)煤炭蜂$(/l)和$(l:bees/wild/magmatic)岩漿蜂$(/l)配種而得。",
+            "title": "Niter Bee",
+            "text": "Bred from a $(l:bees/hive/coal)Coal Bee$(/l) and an $(l:bees/wild/magmatic)Magmatic Bee$(/l).",
             "anchor": "niter",
             "flag": "productivebees:niter"
         },
         {
             "type": "patchouli:entity",
-            "name": "硝石蜂",
+            "name": "Niter Bee",
             "entity": "productivebees:configurable_bee{type:'productivebees:niter'}",
             "flag": "productivebees:niter"
         },
         {
             "type": "patchouli:text",
-            "title": "硫磺蜂",
-            "text": "由$(l:bees/hive/coal)煤炭蜂$(/l)和$(l:bees/hive/creeper)苦力怕蜂$(/l)配種而得。",
+            "title": "Sulfur Bee",
+            "text": "Bred from a $(l:bees/hive/coal)Coal Bee$(/l) and an $(l:bees/hive/creeper)CreeBee(/l).",
             "anchor": "sulfur",
             "flag": "productivebees:sulfur"
         },
         {
             "type": "patchouli:entity",
-            "name": "硫磺蜂",
+            "name": "Sulfur Bee",
             "entity": "productivebees:configurable_bee{type:'productivebees:sulfur'}",
             "flag": "productivebees:sulfur"
         },
         {
             "type": "patchouli:text",
-            "title": "奥術礦蜂",
-            "text": "這個蜜蜂不能被配種而得。其生怪蛋製作從$(l:bees/hive/diamond)鑽石蜂$(/l)生怪蛋在附魔裝置裡使用。",
+            "title": "Arcane Bee",
+            "text": "This bee cannot be bred. Spawn egg is crafted from a $(l:bees/hive/diamond)Diamond Bee$(/l) spawn egg using a Enchanting Apparatus.",
             "anchor": "arcane",
             "flag": "productivebees:arcane"
         },
         {
             "type": "patchouli:entity",
-            "name": "奥術礦蜂",
+            "name": "Arcane Bee",
             "entity": "productivebees:configurable_bee{type:'productivebees:arcane'}",
             "flag": "productivebees:arcane"
         },
         {
             "type": "patchouli:text",
-            "title": "星輝錠蜂",
-            "text": "這個蜜蜂不能被配種而得。其生怪蛋製作從$(l:bees/hive/iron)鐵蜂$(/l)生怪蛋在注魔祭壇裡使用。",
+            "title": "Starmetal Bee",
+            "text": "This bee cannot be bred. Spawn egg is crafted from an $(l:bees/hive/iron)Iron Bee$(/l) spawn egg using an Infuser.",
             "anchor": "starmetal",
             "flag": "productivebees:starmetal"
         },
         {
             "type": "patchouli:entity",
-            "name": "星輝錠蜂",
+            "name": "Starmetal Bee",
             "entity": "productivebees:configurable_bee{type:'productivebees:starmetal'}",
             "flag": "productivebees:starmetal"
         },
         {
             "type": "patchouli:text",
-            "title": "血蜂",
-            "text": "這個蜜蜂不能被配種而得。其生怪蛋製作從$(l:bees/solitary/nomad)遊牧蜂$(/l)生怪蛋。",
+            "title": "Bloody Bee",
+            "text": "This bee cannot be bred. Spawn egg is crafted from a $(l:bees/solitary/nomad)Nomad Bee$(/l) spawn egg.",
             "anchor": "bloody",
             "flag": "productivebees:bloody"
         },
         {
             "type": "patchouli:entity",
-            "name": "血蜂",
+            "name": "Bloody Bee",
             "entity": "productivebees:configurable_bee{type:'productivebees:bloody'}",
             "flag": "productivebees:bloody"
         },
         {
             "type": "patchouli:text",
-            "title": "粉紅史萊姆蜂",
-            "text": "餵食粉紅史萊姆給$(l:bees/wild/slimy)史萊姆蜂$(/l) 就會變成。",
+            "title": "Pink Slimy Bee",
+            "text": "This bee can be converted from a $(l:bees/wild/slimy)Slimy Bee$(/l) by feeding it some pink slime.",
             "anchor": "pink_slimy",
             "flag": "productivebees:pink_slimy"
         },
         {
             "type": "patchouli:entity",
-            "name": "粉紅史萊姆蜂",
+            "name": "Pink Slimy Bee",
             "entity": "productivebees:configurable_bee{type:'productivebees:pink_slimy'}",
             "flag": "productivebees:pink_slimy"
         },
         {
             "type": "patchouli:text",
-            "title": "門瑞歐蜂",
-            "text": "由$(l:bees/solitary/neon_cuckoo)霓虹杜鵑蜂$(/l)和$(l:bees/wild/crystalline)石英蜂$(/l)配種而得。",
+            "title": "Menril Bee",
+            "text": "Bred from a $(l:bees/solitary/neon_cuckoo)Diamond Bee$(/l) and a $(l:bees/wild/crystalline)Crystalline Bee$(/l).",
             "anchor": "menril",
             "flag": "productivebees:menril"
         },
         {
             "type": "patchouli:entity",
-            "name": "門瑞歐蜂",
+            "name": "Menril Bee",
             "entity": "productivebees:configurable_bee{type:'productivebees:menril'}",
             "flag": "productivebees:menril"
         },
         {
             "type": "patchouli:text",
-            "title": "鈾蜂",
-            "text": "由$(l:bees/hive/iron)鐵蜂$(/l)和$(l:bees/bees/hive/creeper)苦力怕蜂$(/l)配種而得。",
+            "title": "Uraninite Bee",
+            "text": "Bred from an $(l:bees/hive/iron)Iron Bee$(/l) and a $(l:bees/bees/hive/creeper)Creeper Bee$(/l).",
             "anchor": "uraninite",
             "flag": "productivebees:uraninite"
         },
         {
             "type": "patchouli:entity",
-            "name": "鈾蜂",
+            "name": "Uraninite Bee",
             "entity": "productivebees:configurable_bee{type:'productivebees:uraninite'}",
             "flag": "productivebees:uraninite"
         },
         {
             "type": "patchouli:text",
+            "title": "Salty Bee",
+            "text": "Obtained by giving salt to a vanilla bee",
+            "anchor": "salty",
+            "flag": "productivebees:salty"
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "Salty Bee",
+            "entity": "productivebees:configurable_bee{type:'productivebees:salty'}",
+            "flag": "productivebees:salty"
+        },
+        {
+            "type": "patchouli:text",
             "title": "ATM 金屬蜂",
-            "text": "由$(l:bees/hive/diamond)鑽石蜂$(/l)和$(l:bees/hive/withered)凋零蜂$(/l)配種而得。",
+            "text": "Bred from a $(l:bees/hive/netherite)Netherite Bee$(/l) and a $(l:bees/hive/withered)Withered Bee$(/l).",
             "anchor": "allthemodium",
             "flag": "productivebees:uraninite"
         },
@@ -177,7 +177,7 @@
         {
             "type": "patchouli:text",
             "title": "汎金屬蜂",
-            "text": "由$(l:bees/hive/diamond)鑽石蜂$(/l)和$(l:bees/wild/draconic)龍族蜂$(/l)配種而得。",
+            "text": "Bred from a $(l:bees/hive/netherite)Netherite Bee$(/l) and a $(l:bees/wild/draconic)Draconic Bee$(/l).",
             "anchor": "vibranium",
             "flag": "productivebees:vibranium"
         },
