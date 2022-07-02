@@ -39,5 +39,8 @@
     "block.comforts.sleeping_bag.too_far_away": "你現在不能休息，睡袋太遠了",
     "block.comforts.hammock.no_sleep": "你只能在白天入眠",
     "block.comforts.sleeping_bag.broke": "此睡袋已被破壞",
-    "capability.comforts.not_sleepy": "你現在不能休息，你還不睏"
+    "capability.comforts.not_sleepy": "你現在不能休息，你還不睏",
+    "block.comforts.hammock.no_rope": "You must hang the hammock on a pair of rope and nail",
+    "block.comforts.hammock.no_space": "There is not enough space to fit the hammock",
+    "block.comforts.hammock.missing_rope": "There must also be a rope and nail on the other end to hang the hammock"
 }
