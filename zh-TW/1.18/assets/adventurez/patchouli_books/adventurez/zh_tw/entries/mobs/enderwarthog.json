@@ -1,0 +1,17 @@
+{
+    "name": "終界疣豬",
+    "icon": "adventurez:stone_golem_heart",
+    "category": "adventurez:mob_category",
+    "pages": [
+        {
+            "type": "text",
+            "text": "終界疣豬出現在終界維度並且會試圖將你擊落虛空"
+        },
+        {
+            "type": "entity",
+            "name": "Showcase",
+            "entity": "adventurez:enderwarthog",
+            "scale": "0.6"
+        }
+    ]
+}
