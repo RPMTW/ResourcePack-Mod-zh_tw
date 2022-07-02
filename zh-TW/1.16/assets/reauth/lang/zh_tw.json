@@ -32,7 +32,7 @@
     "reauth.gui.text.profile": "Login using saved Profile",
     "reauth.gui.text.microsoft": "Login using a Xbox Account",
     "reauth.gui.text.offline": "Choose an offline Username",
-    "reauth.gui.button.offline": "Choose Username",
+    "reauth.gui.button.offline": "選擇使用者名稱",
     "reauth.status.refreshing": "Online: §l§b?",
     "reauth.status.error": "Online: §l§c?",
     "reauth.msauth.code.success": "Authentication with Microsoft was successful",
@@ -63,7 +63,7 @@
     "reauth.msauth.step.mojang": "Authenticating with Mojang",
     "reauth.msauth.step.fetch": "Retrieving Profile information",
     "reauth.msauth.button.browser": "Open Login-Page in Browser",
-    "reauth.gui.button.authcode": "This Device",
-    "reauth.gui.button.devicecode": "Any Device",
-    "reauth.gui.button.username": "Set Username"
+    "reauth.gui.button.authcode": "此裝置",
+    "reauth.gui.button.devicecode": "任何裝置",
+    "reauth.gui.button.username": "設定使用者名稱"
 }
