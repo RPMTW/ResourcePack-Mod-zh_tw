@@ -1,5 +1,5 @@
 {
-    "itemGroup.bridges": "金剛鸚鵡的橋梁",
+    "itemGroup.bridges": "Macaw's Bridges",
     "block.mcwbridges.most1": "鐵橋（中段）",
     "item.mcwbridges.pliers": "造型鉗",
     "mcwbridges.pliers.desc": "對橋右鍵改變成終點樣式, 只適用於2格以上寬的橋",
@@ -76,5 +76,12 @@
     "block.mcwbridges.blackstone_bridge_stair": "黑石橋階梯",
     "block.mcwbridges.mossy_stone_bridge_stair": "青苔石磚橋階梯",
     "block.mcwbridges.bamboo_bridge_stair": "竹橋階梯",
-    "block.mcwbridges.dry_bamboo_bridge_stair": "乾燥的竹製橋階梯"
+    "block.mcwbridges.dry_bamboo_bridge_stair": "乾燥的竹製橋階梯",
+    "itemGroup.mcwbridges.bridges": "Macaw's Bridges",
+    "block.mcwbridges.deepslate_brick_bridge": "Deepslate Brick Bridge",
+    "block.mcwbridges.deepslate_tile_bridge": "Deepslate Tile Bridge",
+    "block.mcwbridges.deepslate_brick_bridge_pier": "Deepslate Brick Bridge Support",
+    "block.mcwbridges.deepslate_tile_bridge_pier": "Deepslate Tile Bridge Support",
+    "block.mcwbridges.deepslate_tile_bridge_stair": "Deepslate Tile Bridge Stair",
+    "block.mcwbridges.deepslate_brick_bridge_stair": "Deepslate Brick Bridge Stair"
 }
