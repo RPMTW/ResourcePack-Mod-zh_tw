@@ -169,5 +169,8 @@
     "text.betterf3.line.fluid_tags": "Fluid Tags",
     "text.betterf3.line.nothing": "Blank Line",
     "text.betterf3.line.nothing2": "Another Blank Line",
-    "text.betterf3.line.axolotls": "六角恐龍"
+    "text.betterf3.line.axolotls": "六角恐龍",
+    "config.betterf3.empty_lines": "空白行數",
+    "config.betterf3.empty_lines.tooltip": "顯示的空白行數數量",
+    "text.betterf3.line.chunk_file": "區域檔"
 }
