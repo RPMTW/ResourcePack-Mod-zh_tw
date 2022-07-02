@@ -11,7 +11,7 @@
     {
       "type": "spotlight",
       "item": "pneumaticcraft:logistics_configurator",
-      "text": "The $(item)Logistics Configurator/$ can also be used to remove (by $(thing)Sneak right-clicking/$) other attachable gadgets, such as the $(l:semiblocks/transfer_gadget)Transfer Gadget/$ and the $(l:semiblocks/crop_support)Crop Support/$."
+      "text": "$(item)物流設定器/$也可以用於移除（藉由$(thing)潛行並按右鍵/$）其餘附著在方塊上的裝置，如$(l:semiblocks/transfer_gadget)傳輸裝置/$和$(l:semiblocks/crop_support)作物架/$。"
     },
     {
       "type": "crafting",

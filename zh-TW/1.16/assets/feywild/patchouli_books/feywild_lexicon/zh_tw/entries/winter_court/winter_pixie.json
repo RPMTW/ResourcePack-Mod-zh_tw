@@ -1,12 +1,12 @@
 {
-  "name": "Winter Pixie",
+  "name": "冬之精靈",
   "icon": "feywild:summoning_scroll_winter_pixie",
   "category": "winter_court",
   "sortnum": 1,
   "pages": [
     {
       "type": "text",
-      "text": "They may seem cold and sullen at a first glance, but they will warm up to anyone who is willing to help the Feywild to its harshest most deadly period. Winter fey tend to be softspoken, slightly morbid and never choose their words without thinking about them. They seem to be a bit on the awkward side when it comes to social dealings, and some of them prefer the company of the dead."
+      "text": "乍一看，他們可能顯得冷酷陰鬱，他們會幫助任何人度過最艱難時期。冬之精靈說話溫和，有點病態，從不在不考慮的情況下選擇自己的語言。在社會交往方面，他們似乎有點尷尬，有些人更喜歡與死人作伴。"
     },
     {
       "type": "entity",
@@ -17,23 +17,23 @@
       "type": "spotlight",
       "item": "feywild:summoning_scroll",
       "title": "Summoning",
-      "text": "Beware that when you summon a pixie, you are bound to their Court! This means other courts might not be willing to interact with you afterwards."
+      "text": "當心，當你召喚一個小精靈時，代表你承認了她們！這意味著其他精靈可能不願意在事後與你互動。"
     },
     {
       "type": "spotlight",
       "item": "feywild:fey_altar",
       "title": "召喚",
-      "text": "Also note that not all pixies are willing familiars, and they might trick you! Try interacting with your pixie after you summoned one, if possible try to gain their trust."
+      "text": "還要注意的是，並不是所有的小精靈都是心甘情願的熟人，他們可能會欺騙你！試著在你召喚了一個小精靈後與它互動, 如果可能的話，試著獲得他們的信任."
     },
     {
       "type": "spotlight",
       "item": "feywild:summoning_scroll_winter_pixie",
-      "title": "Summoning Winter Pixie",
-      "text": "With this scroll you can summon a Winter Pixie. The Winter Pixie will occasionally summon back a soul into a snowman's body."
+      "title": "召喚蜜蜂騎士",
+      "text": "有了這個卷軸，你可以召喚一個冬季精靈。冬天的精靈偶爾會召喚一個雪人"
     },
     {
       "type": "image",
-      "title": "Summoning Ingredients",
+      "title": "召喚配方",
       "images": [
         "feywild:textures/patchouli_images/winter_summon_book.png"
       ],
@@ -42,8 +42,8 @@
     {
       "type": "spotlight",
       "item": "minecraft:cookie",
-      "title": "Companion",
-      "text": "The summoned pixie will follow you by shift-right clicking her, if you want her to stay at a certain location, shift-right click her again."
+      "title": "伙伴",
+      "text": "被召喚的小精靈將透過按住shift鍵並右鍵點擊她來跟隨您，如果您希望她停留在某個位置，請按住shift鍵並再次右鍵點擊她。"
     }
   ]
 }

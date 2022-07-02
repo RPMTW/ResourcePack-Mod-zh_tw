@@ -11,7 +11,7 @@
         },
         {
             "type": "crafting",
-            "recipe": "thermal:flux_magnet",
+            "A.recipe": "thermal:flux_magnet",
             "title": "通量磁鐵",
             "text": "It can be enchanted with $(l:thermal:world/holding)Holding$(/l) to improve RF capacity."
         },

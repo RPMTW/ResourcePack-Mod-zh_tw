@@ -1,0 +1,14 @@
+{
+  "modifier_id": "tconstruct:dual_wielding",
+  "text": [
+    {
+      "text": "決鬥在雙重揮舞下更顯光榮。"
+    }
+  ],
+  "effects": [
+    "允許雙持工具",
+    "雙手工具需要副手持握",
+    "單次升級",
+    "需要 1 個能力槽"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+    "name": "附魔屬性",
+    "icon": "minecraft:bookshelf",
+    "category": "apotheosis:enchanting/table",
+    "flag": "apotheosis:enchanting",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "在神化中，附魔不僅僅取決於等級。$(p)目前有五個新的附魔屬性。$(p)提供附魔屬性的方塊將在其工具提示中顯示它們。"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "位階",
+            "text": "$(eterna)是附魔的主要屬性。$(p)每一點$(eterna)都會使最大附魔等級增加 2。$(p)某些方塊只能提供$(eterna)到某個最大值。"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "量子化",
+            "anchor": "quanta",
+            "text": "$(quanta)是次要屬性。它控制著附魔的變化。$(p)在附魔期間，你有一個$(bpower)，這是你花費的附魔等級，然後是一個$(fpower)，經過所有修改之後的結果。$(p)$(quanta)是修改過程中的因素之一。"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "A value is selected, between $(4)1 - Quanta$() and $(9)1 + Quanta$().$(p)Your $(fpower) is equal to that value multiplied by your $(bpower).$(p)Higher $(quanta) values increase the power range, which means your enchantments are less consistent in their $(fpower)."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "阿卡那",
+            "text": "$(arcana) is a secondary stat. It controls the rarity weights, and at certain thresholds will guarantee you get additional enchantments.$(p)At 25% $(arcana), you will always receive at least two enchantments. At 75%, you will always receive three."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "By default, the rarities have the following weights:$(p)Common: 10$(br)Uncommon: 5$(br)Rare: 3$(br)Very Rare: 1$(p)Every 10% of $(arcana) changes the weights, eventually becoming fully inverted.$(p)Hovering the $(arcana) Bar will show the current weights."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "修正",
+            "anchor": "rectification",
+            "text": "Rectification is a tertiary stat. It directly impacts the lower bound of $(quanta) modifications.$(p)Recall that your $(4)Min Power$() is equal to $(4)1 - Quanta$().$(p)With Rectification (R), your $(4)Min Power$() is equal to $(4)1 - (1 - R) * Quanta$()."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "如果這沒有多大意義，請不要擔心。$(p)只要知道更高的修正值總是一件好事。$(p)你也可以有負數的修正，這總是不好的。"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "附魔線索",
+            "text": "線索是另一個第三屬性。$(p)每條線索允許你在預覽視窗中看到一個額外的物品。$(p)當你可以看到所有可用的附魔時，文本會略有變化。"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "你也可以將線索降至零，並且什麼也看不見。"
+        }
+    ]
+}

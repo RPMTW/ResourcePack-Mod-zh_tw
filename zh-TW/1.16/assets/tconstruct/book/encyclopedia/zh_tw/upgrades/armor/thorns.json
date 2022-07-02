@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:thorns",
+  "text": [
+    {
+      "text": "每級有 15% 的機率對攻擊者造成 1 到 4 點傷害。多個部位的尖刺效果會堆疊。"
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "最高 3 級",
+    "每級需要 1 個升級槽"
+  ]
+}

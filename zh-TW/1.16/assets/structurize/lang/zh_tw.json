@@ -40,7 +40,7 @@
     "com.ldtteam.structurize.gui.tagtool.notag": "錯誤：先輸入一個有效的標籤再應用！",
     "com.ldtteam.structurize.gui.tagtool.removed": "標籤 %s 已從 %s 移除。",
     "com.ldtteam.structurize.gui.tagtool.save": "成功使錨點方塊應用了標籤",
-    "com.ldtteam.structurize.network.messages.schematicsavemassage.toobig": "結構檔案太大，不能大於 %s 字節！",
+    "com.ldtteam.structurize.network.messages.schematicsavemassage.toobig": "結構檔案太大，不能大於 %s 位元組！",
     "com.structurize.command.playernotfound": "無法找到用以保存掃描結果的玩家！",
     "com.structurize.command.scan.no.perm": "你無權用指令來進行掃描，請使用掃描工具！",
     "com.structurize.gui.buildtool.leave.tip": "用結構建築工具右擊某個固體方塊來調整建築位置",
@@ -3846,5 +3846,16 @@
     "block.structurize.blocktagsubstitution": "標籤錨點方塊",
     "structurize.gui.shapetool.creative_only": "在生存模式下，結構化不支持使用結構形狀工具。切換到創造模式或安裝模擬殖民地並使用模擬殖民地的建築工具。",
     "structurize.gui.delete.title": "Delete Structure",
-    "structurize.gui.delete.body": "Do you want to delete %s?"
+    "structurize.gui.delete.body": "Do you want to delete %s?",
+    "structurize.gui.undoredo": "Open Un-Redo Window",
+    "structurize.gui.undoredo.desc": "List of recent Operations, click the left arrow to undo, the right arrow to redo",
+    "structurize.gui.undoredo.undo.notfound": "Could not undo, operation not found",
+    "structurize.gui.undoredo.undo.inprogress": "Could not undo %s currently in progress",
+    "structurize.gui.undoredo.undo.add": "Adding undo of %s to processing",
+    "structurize.gui.undoredo.redo.notfound": "Could not redo, operation not found",
+    "structurize.gui.undoredo.redo.inprogress": "Could not redo %s currently in progress",
+    "structurize.gui.undoredo.redo.add": "Adding redo of %s to processing",
+    "com.ldtteam.structurize.gui.scan.replace.pct": "Random Percentage:",
+    "structurize.gui.replaceblock.badpct": "Bad percentage selected, assuming 100.",
+    "structurize.gui.buildtool.show": "Show Placeholder Blocks. Blocks at these positions will not be changed on placement."
 }

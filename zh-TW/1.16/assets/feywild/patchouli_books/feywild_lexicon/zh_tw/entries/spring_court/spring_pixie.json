@@ -1,12 +1,12 @@
 {
-  "name": "Spring Pixie",
+  "name": "春之精靈",
   "icon": "feywild:summoning_scroll_spring_pixie",
   "category": "spring_court",
   "sortnum": 1,
   "pages": [
     {
       "type": "text",
-      "text": "Bouncy, bubbly and completely void of the idea of personal space, the pixies of the Spring Court treat everything as if they have never seen it before. They are like hyperactive children, always wondering what everything is, stuffing anything into their mouth that seems slightly edible and their only concern is not having either enough fun or food for the day. "
+      "text": "彈力十足，充滿泡泡，完全沒有個人空間的概念，春之精靈對待一切，就像他們以前從未見過一樣。他們就像過度活躍的孩子，總是想知道一切有趣的東西，把任何看起來稍微可以吃的東西塞進嘴裡，他們唯一關心的是一天沒有足夠的樂趣或食物。"
     },
     {
       "type": "entity",
@@ -15,29 +15,29 @@
     },
     {
       "type": "text",
-      "text": "They represent the birth of a new year and the coming of new life and are the most innocent of the Spring Court. They are however, notoriously obnoxious when playing pranks, as they do not know the dangers or consequences of their actions. Nor do they care about it."
+      "text": "他們代表著新的一年的誕生和新生命的到來。然而，他們在惡作劇時是出了名的令人討厭的，因為他們不知道自己行為的危險或後果。他們也不在乎."
     },
     {
       "type": "spotlight",
       "item": "feywild:summoning_scroll",
       "title": "召喚",
-      "text": "Beware that when you summon a pixie, you are bound to their Court! This means other courts might not be willing to interact with you afterwards."
+      "text": "當心，當你召喚一個小精靈時，你一定要去他們的陣營！這意味著其他陣營的精靈可能不願意在事後與你互動。"
     },
     {
       "type": "spotlight",
       "item": "feywild:fey_altar",
       "title": "Summoning",
-      "text": "Also note that not all pixies are willing familiars, and they might trick you! Try interacting with your pixie after you summoned one, if possible try to gain their trust."
+      "text": "還要注意的是，並不是所有的小精靈都是心地善良的人，他們可能會欺騙你！試著在你召喚了一個小精靈後與他們互動，如果可能的話，試著獲得他們的信任."
     },
     {
       "type": "spotlight",
       "item": "feywild:summoning_scroll_spring_pixie",
-      "title": "Summoning Spring Pixie",
-      "text": "With this scroll you can summon a Spring Pixie. The presence of a Spring Pixie will make the animals fall in love with each other."
+      "title": "召喚春天精靈",
+      "text": "有了這個卷軸，你可以召喚一個春天的精靈。春天精靈的出現會讓動物們彼此相愛。"
     },
     {
       "type": "image",
-      "title": "Summoning Ingredients",
+      "title": "召喚配方",
       "images": [
         "feywild:textures/patchouli_images/spring_summon_book.png"
       ],
@@ -46,8 +46,8 @@
     {
       "type": "spotlight",
       "item": "minecraft:cookie",
-      "title": "Companion",
-      "text": "The summoned pixie will follow you by shift-right clicking her, if you want her to stay at a certain location, shift-right click her again."
+      "title": "伙伴",
+      "text": "被召喚的小精靈將透過按住shift鍵並右鍵點擊她來跟隨您，如果您希望她停留在某個位置，請按住shift鍵並再次右鍵點擊她。"
     }
   ]
 }

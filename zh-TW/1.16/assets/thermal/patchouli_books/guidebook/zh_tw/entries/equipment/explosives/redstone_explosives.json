@@ -11,13 +11,13 @@
         },
         {
             "type": "crafting",
-            "recipe": "thermal:redstone_tnt",
-            "recipe2": "thermal:redstone_grenade_4"
+            "A.recipe": "thermal:redstone_tnt",
+            "B.recipe": "thermal:redstone_grenade_4"
         },
         {
             "flag": "&mod:thermal_innovation,mod:thermal_locomotion",
             "type": "crafting",
-            "recipe": "thermal:redstone_tnt_minecart",
+            "A.recipe": "thermal:redstone_tnt_minecart",
             "title": "Redstone Explosive Minecart"
         }
     ]

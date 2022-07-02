@@ -1,0 +1,13 @@
+{
+    "name": "飾品",
+    "icon": "curios:textures/item/empty_charm_slot.png",
+    "category": "apotheosis:potion/charms",
+    "flag": "&apotheosis:potion,apotheosis:curiosloaded",
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "當你安裝了$(9)Curios$()後，你可以在$(9)飾品欄$()中裝備藥水護符。$(p)他們的運作方式與在物品欄中的方式相同。"
+        }
+    ]
+}

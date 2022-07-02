@@ -1,0 +1,19 @@
+{
+  "tool": "tconstruct:travelers_chestplate",
+  "text": [
+    {
+      "text": "記得把標籤塞進去，不要在它露出來時走來走去。"
+    },
+    {
+      "text": "胸甲，保護你胸部重要器官的要件，穿上去看起來會很安全。",
+      "paragraph": true
+    }
+  ],
+  "properties": [
+    "低盔甲",
+    "低耐久",
+    "3 個升級槽",
+    "2 個防禦槽",
+    "1 個能力槽"
+  ]
+}

@@ -162,5 +162,8 @@
     "endrem.config.structure_difficulty.easy": "簡單",
     "endrem.config.structure_difficulty.normal": "普通",
     "endrem.config.structure_difficulty.hard": "困難",
-    "endrem.config.structure_difficulty.nightmare": "噩夢"
+    "endrem.config.structure_difficulty.nightmare": "噩夢",
+    "block.endrem.ender_eye.warning": "This eye doesn't want to be used",
+    "block.endrem.custom_eye.place": "This eye is already placed",
+    "block.endrem.custom_eye.frame_has_eye": "This frame already has an eye"
 }

@@ -6,8 +6,8 @@
         {
             "type": "animal_spawn_info",
             "animal": "deer",
-            "breed": "用小麥繁殖;",
-            "tame": "Taming: Not tameable.",
+            "breed": "繁殖物品：小麥。",
+            "tame": "馴服物品：無法馴服。",
             "blurb": ""
         },
         {
@@ -16,7 +16,7 @@
             "entity": "mysticalworld:deer",
             "scale": "0.6",
             "offset": "0.4",
-            "text": "雄鹿與雌鹿結合的溫馴的後代。"
+            "text": "這些溫順的鹿是雌鹿和雄鹿的混合體。"
         }
     ]
 }

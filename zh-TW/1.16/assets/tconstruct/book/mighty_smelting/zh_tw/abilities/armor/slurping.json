@@ -1,0 +1,18 @@
+{
+  "modifier_id": "tconstruct:slurping",
+  "text": [
+    {
+      "text": "他從前的主人一定是一個第一名的人！"
+    },
+    {
+      "text": "拿著頭盔右鍵儲罐來裝滿它",
+      "paragraph": true
+    }
+  ],
+  "effects": [
+    "飲用儲存在頭盔的液體",
+    "按綁定鍵飲用",
+    "單個等級",
+    "需要 1 個能力槽"
+  ]
+}

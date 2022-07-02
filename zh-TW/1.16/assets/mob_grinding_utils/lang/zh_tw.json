@@ -8,7 +8,7 @@
     "block.mob_grinding_utils.absorption_hopper_w_e": "偏移西/東",
     "block.mob_grinding_utils.spikes": "鐵釘",
     "block.mob_grinding_utils.tank": "奇異儲液槽",
-    "block.mob_grinding_utils.tank_sink": "地漏經驗奇異水槽",
+    "block.mob_grinding_utils.tank_sink": "奇異儲水槽(含有漏斗)",
     "block.mob_grinding_utils.xp_tap": "經驗水龍頭",
     "block.mob_grinding_utils.wither_muffler": "凋零死亡音效消音器",
     "block.mob_grinding_utils.dragon_muffler": "終界龍死亡音效消音器ˋ",
@@ -140,5 +140,6 @@
     "tooltip.spawner_upgrade_width": "寬度升級: +1.最多放置 5 個",
     "tooltip.spawner_upgrade_height": "高度: +1 最多放置 5 個",
     "tooltip.monocle": "嘿！好樣的，老兄！",
-    "block.mob_grinding_utils.entity_spawner.jei.info": "在 3×3×1 的區域內生成生物。//n消耗經驗果凍。//n可以被升級。"
+    "block.mob_grinding_utils.entity_spawner.jei.info": "在 3×3×1 的區域內生成生物。//n消耗經驗果凍。//n可以被升級。",
+    "mob_grinding_utils.jei.any_experience": "accepts any: forge:experience"
 }

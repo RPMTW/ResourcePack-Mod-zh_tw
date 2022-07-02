@@ -6,9 +6,9 @@
         {
             "type": "animal_spawn_info",
             "animal": "endermini",
-            "breed": "不可繁殖;",
-            "tame": "不可馴服。",
-            "blurb": "這些可愛的小傢伙還是不喜歡被人盯著！"
+            "breed": "繁殖物品：無。",
+            "tame": "馴服物品：無。",
+            "blurb": "這些可愛的小生物仍然不喜歡被人盯著！"
         },
         {
             "type": "entity",
@@ -16,7 +16,7 @@
             "entity": "mysticalworld:endermini",
             "scale": "0.7",
             "offset": 0,
-            "text": "這些小生物和他們的大個子表兄終界使者一起住在終界。"
+            "text": "這些生物常被發現棲息於終界，和它們有著更大體型的同胞——終界使者——住在一起。"
         }
     ]
 }

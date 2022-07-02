@@ -17,6 +17,6 @@
     "easierchests.config.tt.largechests": "允許箱子擁有多過54格的項目",
     "easierchests.config.tt.halfsize": "Half button size unless mouse hovers over them",
     "easierchests.config.tt.transparent": "Make buttons transparent unless mouse hovers over them",
-    "easierchests.config.tt.highlight": "十六進制顏色，每個 2 個字節：透明度、紅色、綠色、藍色",
+    "easierchests.config.tt.highlight": "十六進制顏色，每個 2 個位元組：透明度、紅色、綠色、藍色",
     "easierchests.config.tt.enablesearch": "啟用搜尋物品名稱來尋找物品"
 }

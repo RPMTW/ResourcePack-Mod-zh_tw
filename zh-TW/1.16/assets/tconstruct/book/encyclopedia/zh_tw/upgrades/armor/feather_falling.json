@@ -1,0 +1,14 @@
+{
+  "modifier_id": "tconstruct:feather_falling",
+  "text": [
+    {
+      "text": "每級可獲得 +12% 的摔落傷害抗性，在 5 級時最高可達 +48%。"
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "可以逐漸提升等級",
+    "最高 4 級",
+    "每級需要 1 個升級槽"
+  ]
+}

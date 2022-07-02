@@ -1,0 +1,17 @@
+{
+  "name": "(Gelid) Flux-Infused JetPlate",
+  "icon": "simplyjetpacks:jetpack_te5_enderium",
+  "category": "simplyjetpacks:thermal",
+  "flag": "mod:thermal",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "This is the (Gelid) Flux-Infused JetPlate."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "simplyjetpacks:thermal/jetpack_te5_armored"
+    }
+  ]
+}

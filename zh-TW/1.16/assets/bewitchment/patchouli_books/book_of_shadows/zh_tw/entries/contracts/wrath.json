@@ -1,13 +1,13 @@
 {
   "category": "bewitchment:contracts",
-  "name": "Wrath",
+  "name": "憤怒契約",
   "icon": "bewitchment:demonic_contract",
   "advancement": "bewitchment:hidden_unlocks/demon_horn",
   "sortnum": 1,
   "pages": [
     {
       "type": "text",
-      "text": "Sometimes getting hurt makes you angry, and with the $(l:bewitchment:contracts/concept_contracts)Contract$() of Wrath you can finally manifest that anger reasonably!$(br2)Signing this $(l:bewitchment:contracts/concept_contracts)Contract$() will increase your damage output with lower health."
+      "text": "不時的受到點傷害總會讓你生氣，但有了憤怒$(l:bewitchment:contracts/concept_contracts)契約$()的效力，你總算有個好的方法能釋放這些怒氣！$(br2)簽署$(l:bewitchment:contracts/concept_contracts)契約$()後，當血量越低，每次攻擊的傷害將越高。"
     }
   ]
 }

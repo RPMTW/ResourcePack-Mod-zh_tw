@@ -1,13 +1,13 @@
 左輪手槍
-Wanted: Dead or Alive
-<&recipe>The Revolver, a more elegant weapon from a more civilized age, is an achievement of small mechanics. Small being relative here, since this weapon is chambered for 12-gauge.
-Similar to the Mining Drill, the Revolver will allow for modification in the <link;workbench;Engineer's Workbench>, as detailed on the last pages.
+通緝：無論死活
+<&recipe>左輪手槍，一把來自文明時代的優雅武器，可謂是小型機械的智慧結晶。 小型僅僅是相對而言，畢竟這把武器填裝的是12號彈藥。
+與採礦鑽機一樣，左輪手槍也可以使用<link;workbench;工程師裝配台>來進行升級，詳細的資訊在下面的頁面列出。
 
-Note that firing the revolver is quite noisy, and will attract the attention of hostile mobs in the area!
+請注意，左輪手槍射擊會發出巨大的聲響，並將吸引在該地區敵對生物的注意！
 
-There are different <link;bullets;types of ammunition;> the Revolver will accept. To load it, sneak + rightclick the weapon, then place cartridges into the slots.<np>
-<&speedloader>A loaded Speedloader in your inventory will be used to refill the revolver after you've fired your last shot.
+左輪手槍可以接受不同種類的<link;bullets;子彈;>。 要裝彈，只要Shift右擊，然後把子彈裝入即可。<np>
+<&speedloader>裝滿的左輪快速裝彈器可以在你開完最後一槍之後快速裝填它。
 <np>
-<&bayonet>By attaching a §2bayonet§r to the revolver, you outfit it with close-quarter-combat capabilities, allowing for melee damage as powerful as an Iron Sword.<np>
-<&extmag>The §2Extended Magazine§r allows loading 6 more cartridges into the revolver. This magazine does not get refilled by a speedloader.<np>
-<&tubes>The §2Amplifying Electron Tubes§r apply an electric shock to fired projectiles. This shock persists till it hits the target (don't ask how it works) and is passed on. The target will be stunned for a fraction of a second and all powered equipment they may be using will suffer a slight discharge.
+<&bayonet>向左輪手槍加入§2刺刀§r，即可使其擁有近戰能力，傷害和鐵劍相等。<np>
+<&extmag>§2擴充彈夾§r允許在左輪手槍上多裝6個子彈。 它不會被快速裝填器填充。<np>
+<&tubes>§2加強電子管§r對發射的子彈施加電能。 這種電能會持續直到它擊中目標（不要問它是如何工作的），然後傳遞下去。 目標會暈眩幾分之一秒，他們使用的所有動力裝備都會受到輕微的電量損耗。

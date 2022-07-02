@@ -23,13 +23,19 @@
   "pages": [
     {
       "type": "text",
-      "text": "Now that you have plenty of $(l:bloodmagic:demon_will/will_manipulation/demon_will)Demon Will$() in your $(l:bloodmagic:demon_will/will_manipulation/soul_gem)Tartaric Gem$(), it's time to explore what happens when you unleash it upon the world. $(br2)First off, you'll need to get $(raw)Will$() into the $(l:bloodmagic:demon_will/will_manipulation/aura)Aura$().  Next, you'll need to make a $(thing)Demon Crystallizer$()."
+      "text": "既然現在您的$(l:bloodmagic:demon_will/will_manipulation/soul_gem)地獄魂石$()中有大量的$(l:bloodmagic:demon_will/will_manipulation/demon_will)惡魔意志$()，現在是時候探索當您將其釋放到世界上時會發生什麼。 $(br2)首先，你需要從$(l:bloodmagic:demon_will/will_manipulation/aura)靈域$()中獲取$(raw)意志$()。接下來，你需要創造一個$(thing)惡魔結晶壇$()。"
+    },
+    {
+      "type": "crafting_soulforge",
+      "heading": "惡魔坩堝",
+      "recipe": "bloodmagic:soulforge/demon_crucible",
+      "text": "This will consume will fom whatever item is fed into it, and pump it into the $(thing)chunk$(). If it completely exhausts a piece of Demon Will or a Demon Crystal, it will destroy it once it's empty. Will Crystals will only be consumed when there is space in the aura for them. Other sources will be burned a bit at a time."
     },
     {
       "type": "crafting_soulforge",
       "heading": "Demon Crystallizer",
       "recipe": "bloodmagic:soulforge/demon_crystallizer",
-      "text": "This will slowly consume $(l:bloodmagic:demon_will/will_manipulation/demon_will)Demon Will$() from the $(l:bloodmagic:demon_will/will_manipulation/aura)Aura$() to produce $(item)Will Crystals$(). The first spire costs 100 $(raw)Will$() to form, and all subsequent spires cost 40 each, but can be burned for 50 in the $(item)Demon Crucible$(), for a net gain of 10. The largest $(item)Crystal Cluster$() can be up to 7 spires."
+      "text": "This will slowly consume $(l:bloodmagic:demon_will/will_manipulation/demon_will)Demon Will$() from the $(l:bloodmagic:demon_will/will_manipulation/aura)Aura$() to produce $(item)Will Crystals$(). The first spire costs 100 $(raw)Will$() to form, and all subsequent spires cost 45 each, but can be burned for 50 in the $(item)Demon Crucible$(), for a net gain of 5. The largest $(item)Crystal Cluster$() can be up to 7 spires."
     },
     {
       "type": "text",

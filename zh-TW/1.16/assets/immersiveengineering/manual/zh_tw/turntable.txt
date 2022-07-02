@@ -1,7 +1,7 @@
-轉盤
-I can't keep up
-<&recipe>The Turntable will rotate blocks placed against it.
-Holding an Engineer's Hammer while looking at a side of the machine displays its rotating side and the turn direction associated with the targeted side.
-The turn direction is set individually for each of the 4 sides around the turning axis, allowing for ±90° or 180° turns, depending on which side receives the redstone signal.
+旋轉台
+我跟不上了啦！
+<&recipe>旋轉台可以旋轉貼著的方塊。
+拿著工程師錘，同時看向機器的一邊，就可以顯示它的旋轉方向和與目標方向相關的方向。
+圍繞旋轉軸的4邊分別設置旋轉方向，根據哪邊接收紅石信號，可進行±90度或180度旋轉。
 
-Rightclicking with the Hammer will reorient it, sneaking while doing so will cycle through the Turntable's turn directions.
+用錘子右擊將重新定位，潛行時這樣做將循環它的轉向方向。

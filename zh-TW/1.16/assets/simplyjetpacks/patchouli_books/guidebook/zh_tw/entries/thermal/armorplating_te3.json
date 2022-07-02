@@ -6,12 +6,12 @@
   "read_by_default": true,
   "pages": [
     {
-      "type": "text",
+      "type": "patchouli:text",
       "text": "This is the Invar Armor Plating"
     },
     {
-      "type": "crafting",
-      "recipe": "simplyjetpacks:te/armorplating_te3",
+      "type": "patchouli:spotlight",
+      "item": "simplyjetpacks:armorplating_te3",
       "text": "This is a test entry, but it should show up!"
     }
   ]

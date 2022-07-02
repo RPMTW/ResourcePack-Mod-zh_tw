@@ -57,13 +57,13 @@
     },
     {
       "type": "text",
-      "text": "要將你的祭壇升到第二階，你必須將放置8個$(item)符文$()來圍繞祭壇一圈，這些符文都可以被強化。但是在達到第三階前，四個角落的方塊都不能使用除空白符文外的強化符文。"
+      "text": "想要將血之祭壇升到等級 2，你必須在祭壇周圍放置 8 個$(item)血之符文$()。非四角的符文可以提供提升效果，而四角符文無法提供提升效果，直到等級 3 血之祭壇，四角處的符文才能充當提升效果符文。"
     },
     {
       "type": "multiblock",
-      "name": "二階血之祭壇",
+      "name": "等級 2 血之祭壇",
       "multiblock_id": "bloodmagic:altar_two",
-      "text": "二階血之祭壇的圖示，其中含有8個符文。"
+      "text": "等級 2 血之祭壇，有 8 個符文。"
     },
     {
       "type": "text",
@@ -74,35 +74,35 @@
       "type": "crafting_altar",
       "heading": "獻祭刀",
       "recipe": "bloodmagic:altar/daggerofsacrifice",
-      "text": "屠殺村民，有趣又有益！"
+      "text": "獻祭村民，有趣有益！"
     },
     {
       "type": "text",
-      "text": "要升級你的血之祭壇至第三階，必須再將更多$(item)符石$()圍繞著祭壇放置：在第一層符石外的兩格、下方一格處，每個邊都得擺滿5個符石，然後在每個角落放上兩格高的方塊（在這以$(item)石磚$()作為示範）；最後，將$(item)螢光石$()放在角落方塊的頂部上，即完成了三階血之祭壇。$(br2)若要確認祭壇是否完成升階，你可以使用$(l:bloodmagic:alchemy_array/sigil/divination)占卜印記$(/l)來確認祭壇的階級。最後提醒，角落的方塊可以用任何一種非透明方塊來代替。"
+      "text": "若想將血之祭壇升到等級 3，你需要在之前的符文圈的每邊外的一層低、兩格遠的地方，再放上一圈$(item)血之符文$()，然後再在四角方塊的上方放上兩格方塊（也就是示例中$(item)石磚$()的位置），這樣就構成了新一圈的符文。接著再在每個柱子的頂部放上$(item)螢光石方塊$()。$(br)若想確認升級成功，你可以用$(l:bloodmagic:alchemy_array/sigil/divination)占卜印記$(/l)確認祭壇的等級。注意，四角柱子的的底部方塊可以使任何非空氣方塊。"
     },
     {
       "type": "multiblock",
-      "name": "三階血之祭壇",
+      "name": "等級 3 血之祭壇",
       "multiblock_id": "bloodmagic:altar_three",
       "text": "三階血之祭壇的圖示，其中含有28個符文。"
     },
     {
       "type": "text",
-      "text": "要升級你的血之祭壇至第四階；跟第三層類似，必須將非常多的$(item)符石$()圍繞著祭壇放置：在第二層符石外的兩格、下方一格處，每個邊都得擺滿7個符石，然後在每個角落放上四格高的方塊；最後，將$(l:bloodmagic:utility/bloodstone_bricks)血石磚$(/l)或$(l:bloodmagic:utility/bloodstone_bricks)大血石磚$(/l)放在角落方塊的頂部上，即完成了四階血之祭壇。"
+      "text": "若想將血之祭壇升到等級 4，你需要在之前的符文圈的每邊外的一層低、兩格遠的地方，再放上 7 個$(item)血之符文$()。然後在四個角各放上一個固體方塊，這樣就構成了新一圈的符文。接著再在每個柱子的頂部放上$(l:bloodmagic:utility/bloodstone_bricks)血石磚$(/l)以及 / 或者$(l:bloodmagic:utility/bloodstone_bricks)大血石磚$(/l)。"
     },
     {
       "type": "multiblock",
-      "name": "四階血之祭壇",
+      "name": "等級 4 血之祭壇",
       "multiblock_id": "bloodmagic:altar_four",
       "text": "四階血之祭壇的圖示，其中含有56個符文。"
     },
     {
       "type": "text",
-      "text": "[未完成]$(br)[關於第五階的資料還未有任何內容！]"
+      "text": "[WIP Notes]$(br)[等級-5 has No Content yet!]"
     },
     {
       "type": "multiblock",
-      "name": "五階血之祭壇",
+      "name": "等級 5 血之祭壇",
       "multiblock_id": "bloodmagic:altar_five",
       "text": "五階血之祭壇的圖示，其中含有108個符文。"
     }

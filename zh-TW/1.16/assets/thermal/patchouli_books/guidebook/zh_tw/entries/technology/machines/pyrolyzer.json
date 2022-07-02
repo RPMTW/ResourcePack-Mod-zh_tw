@@ -12,7 +12,7 @@
         {
             "type": "crafting",
             "title": "熱解爐",
-            "recipe": "thermal:machine_pyrolyzer"
+            "A.recipe": "thermal:machine_pyrolyzer"
         },
         {
             "type": "text",

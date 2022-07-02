@@ -1,13 +1,13 @@
 {
   "category": "bewitchment:contracts",
-  "name": "Greed",
+  "name": "貪婪",
   "icon": "bewitchment:demonic_contract",
   "advancement": "bewitchment:hidden_unlocks/demon_horn",
   "sortnum": 1,
   "pages": [
     {
       "type": "text",
-      "text": "When under the $(l:bewitchment:contracts/concept_contracts)Contract$() of Greed, ores will automatically smelt and drop twice the amount of what they would normally drop."
+      "text": "在貪婪$(l:bewitchment:contracts/concept_contracts)契約$()的效果之下，挖掘礦物將自動熔煉，並使它們的掉落物為正常情況下的兩倍。"
     }
   ]
 }

@@ -1,17 +1,17 @@
-Logic Circuits
-Turing Complete
-With the great speed and versatility of <link;redstone_wire;Redstone Wires> and the unique properties of a <link;components;Vacuum Tube;tubes>, it's now possible to greatly the reduce the footprint of complex redstone circuits.
-Using the Circuit Table, you can create much smaller logic circuits. To do so, you will need a <link;components;backplane;pcb>, some vacuum tubes and some solder like lead or copper wires. The table also needs to be supplied with energy through the input at its back.
+邏輯電路板
+圖靈完成了！
+有了<link;redstone_wire;紅石線圈>的巨大速度和多功能性以及<link;components;真空管;tubes>的獨特屬性，現在可以大大減少複雜紅石電路的占地面積。
+使用電路台，你可以創建更小的邏輯電路。 要做到這一點，你需要一個<link;components;電路板;pcb>、一些真空管和一些鉛或銅線等焊料。該電路台還需要通過其背面的輸入端來提供能量。 該電路台還需要通過其背面的輸入端來提供能量。
 
-Using the various components, you then select the pattern of circuit you want to make and decide the input values, as well as the designated output.
-The available in- and outputs are the 16 colored channels of a Redstone wire, as well as 8 "Registers". These allow for a temporary storage of a value within the block that handles the logic - more on this later.
+使用各種組件，然後選擇你想做的電路模式，並決定輸入值以及指定的輸出。
+可用的輸入和輸出是紅石線的16個彩色頻道，以及8個“寄存器”。 這些頻道與寄存器能夠在處理邏輯的方塊中臨時存儲一個值 --- 稍後會有更多關於這個的內容。
 
-After setting the operator, in- and outputs, you see the required list of components next to the input slots on the left. The amount of components required depends on the complexity of the circuit, with §lNAND§r being the easiest to produce. As long as enough components are present, you can then take the completed circuit from the output on the right.<np>
-實用捷徑：
-- When hovering over a in- or output button, press a numbered key to change it to the numbered register. Press a letter to cycle through the colors starting with that letter.
-- Pick up a finished logic circuit and click it on the center of the circuit table's interface to copy the instructions to the table.<np>
-<&unit>The Logic Unit is the block in which completed logic circuits are slotted to be used. It has enough space for a total of §210 circuits§r, and features a full §28 inbuilt registers§r, allowing it to be used for any circuit.
-For a logic unit to interface with the colored redstone systems, it needs to have a <link;redstone_wire;Redstone Interface Connector;bundled> attached to its side.
-Every time any of the attached connectors change their state, the logic unit cycles through its circuits and performs all 10 operations.
-If a circuit uses a register as an output, the resulting value is kept in the register and may be used by later circuit as an input.
-The same interface connector used to input can be used as an output as well.
+設置完運算器、輸入和輸出後，你會看到左邊輸入槽旁邊的所需元件清單。 所需元件的數量取決於電路的複雜程度，其中§l與非§r是最容易製作的。 只要有足夠的元件，你就可以從右邊的輸出端取出做好的電路板。<np>
+有幫助的小技巧：
+- 當把鼠標懸停在一個輸入或輸出按鈕上時，按一個數字鍵可以把它改成數字寄存器。 按一個字母可以在該字母開頭的顏色中循環。
+- 拿起一個已完成的邏輯電路板，在電路台的界面中央點擊它，可以將指令複製到表中。<np>
+<&unit>邏輯單元是在其中插入已完成的邏輯電路板以供使用的方塊。 它有足夠的空間容納總共§210個電路板§r，並具有完整的§28個內置寄存器§r，它能用於任何電路。
+為了讓邏輯單元與彩色紅石系統對接，它需要在其側面連接一個<link;redstone_wire;紅石接口連接器;bundled>。
+每當任何一個連接的連接器改變它們的狀態，邏輯單元就會在它的電路中循環，執行所有的10個操作。
+如果一個電路板使用一個寄存器作為輸出，那麼產生的值將被保存在寄存器中，並可以被後面的電路板作為輸入使用。
+用於輸入的同一個接口連接器也可以用作輸出。

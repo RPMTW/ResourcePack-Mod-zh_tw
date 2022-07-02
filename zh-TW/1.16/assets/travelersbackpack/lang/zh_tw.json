@@ -9,8 +9,8 @@
     "action.travelersbackpack.equip_otherbackpack": "你已經揹上了一個揹包了。",
     "action.travelersbackpack.equip_fail": "無法揹上這個背包。",
     "action.travelersbackpack.deploy_sleeping_bag": "無法展開睡袋！請檢查周圍的區域。",
-    "information.travelersbackpack.backpack_coords": "你的背包已經被放在",
-    "information.travelersbackpack.backpack_drop": "沒有地方放背包了。背包掉落在",
+    "information.travelersbackpack.backpack_coords": "你的背包放置在X: %s Y: %s Z: %s",
+    "information.travelersbackpack.backpack_drop": "There's no space for backpack. Dropping backpack item at X: %s Y: %s Z: %s",
     "screen.travelersbackpack.none": "無",
     "screen.travelersbackpack.empty": "空",
     "screen.travelersbackpack.empty_tank": "空",
@@ -21,7 +21,7 @@
     "information.travelersbackpack.warning.4": "否則這些物品將會永久消失。",
     "information.travelersbackpack.warning.5": "這段提示只會顯示一遍。",
     "obtain.travelersbackpack.bat": "這個背包僅能從地下礦坑或地牢中的箱子獲得",
-    "obtain.travelersbackpack.iron_golem": "這個背包僅能從鐵匠村民的箱子獲得",
+    "obtain.travelersbackpack.iron_golem": "Backpack obtainable in Armorer villager's chests",
     "obtain.travelersbackpack.electric": "這個背包僅能在揹著鑽石背包時被雷打到才能獲得",
     "obtain.travelersbackpack.pigman": "這個背包僅能在揹著豬背包時被雷打到才能獲得",
     "obtain.travelersbackpack.deluxe": "這個背包僅能從要塞獲得",
@@ -118,5 +118,8 @@
     "block.travelersbackpack.wither": "凋零",
     "block.travelersbackpack.wither_skeleton": "凋零骷髏",
     "block.travelersbackpack.yellow": "黃色",
-    "block.travelersbackpack.zombie": "殭屍"
+    "block.travelersbackpack.zombie": "殭屍",
+    "block.travelersbackpack.hay": "Hay",
+    "block.travelersbackpack.magma_cube": "Magma Cube",
+    "block.travelersbackpack.bee": "Bee"
 }

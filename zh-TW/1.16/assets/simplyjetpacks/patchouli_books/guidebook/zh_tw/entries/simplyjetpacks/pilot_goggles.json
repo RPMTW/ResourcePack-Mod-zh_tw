@@ -5,12 +5,14 @@
   "read_by_default": true,
   "pages": [
     {
-      "type": "text",
+      "type": "patchouli:text",
       "text": "These are the Pilot Goggles"
     },
     {
-      "type": "crafting",
+      "type": "patchouli:crafting",
+      "title": "Pilot Goggles",
       "recipe": "simplyjetpacks:sj/pilot_goggles",
+      "recipe2": "simplyjetpacks:pilot_goggles_iron",
       "text": "This is a test entry, but it should show up!"
     }
   ]

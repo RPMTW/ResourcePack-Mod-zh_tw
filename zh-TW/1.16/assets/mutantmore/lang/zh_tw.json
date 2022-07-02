@@ -87,5 +87,10 @@
     "advancements.mutantmore.husk_smash.description": "在半空中被突變屍殼撞倒",
     "advancements.mutantmore.an_unlikely_refreshment.title": "不太可能的提神作用",
     "advancements.mutantmore.an_unlikely_refreshment.description": "用滿仙人掌壺喝水後，第一次嚐到清爽的仙人掌水",
-    "itemGroup.mutant_more": "更多突變生物"
+    "itemGroup.mutant_more": "更多突變生物",
+    "entity.mutantmore.mutant_wither_skeleton_shockwave": "Burning Bolt",
+    "death.fallingMob": "%1$s was squashed",
+    "death.attack.fallingMob": "%1$s was squashed by %2$s",
+    "block.mutantmore.mutant_wither_skeleton_skull": "Mutant Wither Skeleton Skull",
+    "block.mutantmore.mutant_wither_skeleton_wall_skull": "Mutant Wither Skeleton Skull"
 }

@@ -66,7 +66,7 @@
     "ftbquests.unnamed": "未命名的",
     "ftbquests.team": "團隊",
     "ftbquests.progress": "進度",
-    "ftbquests.title": "頭銜",
+    "ftbquests.title": "標題",
     "ftbquests.title.tooltip": "自訂標題",
     "ftbquests.icon": "圖示",
     "ftbquests.icon.tooltip": "自訂圖標",
@@ -157,7 +157,7 @@
     "ftbquests.quest.min_width": "打開的任務窗口最小寬度",
     "ftbquests.chapter_group": "章節組",
     "ftbquests.chapter_groups": "章節組",
-    "ftbquests.gui.edit_file": "編輯文件",
+    "ftbquests.gui.edit_file": "編輯檔案",
     "ftbquests.gui.save_as_file": "保存為檔案",
     "ftbquests.gui.export_spreadsheet": "導出電子表格",
     "ftbquests.gui.saved_as_file": "保存為 %s",
@@ -365,7 +365,7 @@
     "commands.ftbquests.locked.enabled": "已鎖定 %s 的任務",
     "commands.ftbquests.locked.disabled": "已解鎖 %s 的任務",
     "commands.ftbquests.change_progress.no_object": "沒有尋找到任務目標 ID %s！",
-    "commands.ftbquests.change_progress.no_file": "沒有找到任務文件，怎麼了？！",
+    "commands.ftbquests.change_progress.no_file": "沒有找到任務檔案，怎麼了？！",
     "commands.ftbquests.change_progress.invalid_id": "無效的對象 ID：%s！",
     "commands.ftbquests.change_progress.invalid_type": "Invalid changeProgress type: %s!",
     "commands.ftbquests.change_progress.text": "進度已被變更！",
@@ -387,5 +387,9 @@
     "commands.ftbquests.command.error.no_inventory": "目標方塊沒有物品欄！",
     "commands.ftbquests.command.feedback.table_exported": "成功導出獎勵表「%s」的 %s 個物品到目標方塊！",
     "commands.ftbquests.command.feedback.table_imported": "成功導出獎勵表「%s」的 %s 個物品！",
-    "commands.ftbquests.command.feedback.table_too_many_items": "警告：表 %s 的物品超過了目標方塊所能處理的數量，停止導出！"
+    "commands.ftbquests.command.feedback.table_too_many_items": "警告：表 %s 的物品超過了目標方塊所能處理的數量，停止導出！",
+    "ftbquests.task.ftbquests.structure": "Find Structure",
+    "ftbquests.task.ftbquests.structure.structure": "Structure",
+    "ftbquests.task.ftbquests.observation.observe_type": "Type",
+    "ftbquests.task.ftbquests.observation.to_observe": "Observe"
 }

@@ -7,8 +7,8 @@
             "type": "animal_spawn_info",
             "animal": "sprout",
             "breed": "Breed: special.",
-            "tame": "不可馴服",
-            "blurb": "不同顏色的芽精靈會掉落不同的蔬菜！"
+            "tame": "馴服物品：無法馴服。",
+            "blurb": "芽精靈的顏色不同，掉落物也不同！"
         },
         {
             "type": "entity",

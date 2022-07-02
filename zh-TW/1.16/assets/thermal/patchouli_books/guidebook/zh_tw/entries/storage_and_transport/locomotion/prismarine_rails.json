@@ -11,17 +11,17 @@
         },
         {
             "type": "crafting",
-            "recipe": "thermal:prismarine_rail",
-            "recipe2": "thermal:prismarine_crossover_rail"
+            "A.recipe": "thermal:prismarine_rail",
+            "B.recipe": "thermal:prismarine_crossover_rail"
         },
         {
             "type": "crafting",
-            "recipe": "thermal:prismarine_powered_rail",
-            "recipe2": "thermal:prismarine_activator_rail"
+            "A.recipe": "thermal:prismarine_powered_rail",
+            "B.recipe": "thermal:prismarine_activator_rail"
         },
         {
             "type": "crafting",
-            "recipe": "thermal:prismarine_detector_rail"
+            "A.recipe": "thermal:prismarine_detector_rail"
         }
     ]
 }

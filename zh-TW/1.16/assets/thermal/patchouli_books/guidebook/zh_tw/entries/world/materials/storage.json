@@ -21,53 +21,53 @@
         },
         {
             "type": "crafting",
-            "recipe": "thermal:storage/apatite_block",
-            "recipe2": "thermal:storage/cinnabar_block"
+            "A.recipe": "thermal:storage/charcoal_block",
+            "B.recipe": "thermal:storage/gunpowder_block"
         },
         {
             "type": "crafting",
-            "recipe": "thermal:storage/niter_block",
-            "recipe2": "thermal:storage/sulfur_block"
+            "A.recipe": "thermal:storage/slag_block",
+            "B.recipe": "thermal:storage/rich_slag_block"
         },
         {
             "type": "crafting",
-            "recipe": "thermal:storage/copper_block",
-            "recipe2": "thermal:storage/tin_block"
+            "A.recipe": "thermal:storage/apatite_block",
+            "B.recipe": "thermal:storage/cinnabar_block"
         },
         {
             "type": "crafting",
-            "recipe": "thermal:storage/lead_block",
-            "recipe2": "thermal:storage/silver_block"
+            "A.recipe": "thermal:storage/niter_block",
+            "B.recipe": "thermal:storage/sulfur_block"
         },
         {
             "type": "crafting",
-            "recipe": "thermal:storage/nickel_block",
-            "recipe2": "thermal:storage/bronze_block"
+            "A.recipe": "thermal:storage/copper_block",
+            "B.recipe": "thermal:storage/tin_block"
         },
         {
             "type": "crafting",
-            "recipe": "thermal:storage/invar_block",
-            "recipe2": "thermal:storage/electrum_block"
+            "A.recipe": "thermal:storage/lead_block",
+            "B.recipe": "thermal:storage/silver_block"
         },
         {
             "type": "crafting",
-            "recipe": "thermal:storage/constantan_block",
-            "recipe2": "thermal:storage/signalum_block"
+            "A.recipe": "thermal:storage/nickel_block",
+            "B.recipe": "thermal:storage/bronze_block"
         },
         {
             "type": "crafting",
-            "recipe": "thermal:storage/lumium_block",
-            "recipe2": "thermal:storage/enderium_block"
+            "A.recipe": "thermal:storage/invar_block",
+            "B.recipe": "thermal:storage/electrum_block"
         },
         {
             "type": "crafting",
-            "recipe": "thermal:storage/constantan_block",
-            "recipe2": "thermal:storage/signalum_block"
+            "A.recipe": "thermal:storage/constantan_block",
+            "B.recipe": "thermal:storage/signalum_block"
         },
         {
             "type": "crafting",
-            "recipe": "thermal:storage/lumium_block",
-            "recipe2": "thermal:storage/enderium_block"
+            "A.recipe": "thermal:storage/lumium_block",
+            "B.recipe": "thermal:storage/enderium_block"
         }
     ]
 }

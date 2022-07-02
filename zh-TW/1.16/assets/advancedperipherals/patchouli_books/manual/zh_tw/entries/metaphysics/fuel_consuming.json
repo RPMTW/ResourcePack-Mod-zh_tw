@@ -1,21 +1,21 @@
 {
-  "name": "Cooldowns and fuel",
+  "name": "冷卻和燃料",
   "icon": "minecraft:coal",
-  "category": "advancedperipherals:metaphysics",
-  "advancement": "advancedperipherals:weak_automata_core",
+  "category": "高級外圍：形而上學\n",
+  "advancement": "高級外設：weak_automata_core\n",
   "priority": true,
   "pages": [
     {
       "type": "text",
-      "text": "All world changing operations will consume turtle fuel (of course, if you not disable fuel usage in CC:Tweaked configuration).$(p)Also, most of this operations have cooldowns, so you should consider this in your code. Hopefully, every active cooldown can be recived via peripheral methods."
+      "text": "所有改變世界的操作都將消耗海龜燃料（當然，如果您沒有在 CC:Tweaked 配置中禁用燃料使用）。$(p)此外，大多數此類操作都有冷卻時間，因此您應該在代碼中考慮這一點。 希望每個主動冷卻都可以通過外圍方法獲得。"
     },
     {
       "type": "text",
-      "text": "You think, that cooldowns are too big? This is when fuel consuming rate come to help!$(p)Bigger fuel consuming rate will reduce cooldown, but obviously increate fuel consumption. For example, if click operation required 1 fuel point for perform and will have 5 seconds cooldown, with fuel consumption 2 you can perform click operation one in 2.5 seconds, but in cost of 2 fuel point."
+      "text": "你認為，冷卻時間太大了？ 這時候燃料消耗率就派上用場了！$(p)更大的燃料消耗率會減少冷卻時間，但顯然會增加燃料消耗。 例如，如果點擊操作需要 1 個燃料點來執行，並且會有 5 秒的冷卻時間，那麼在燃料消耗為 2 的情況下，您可以在 2.5 秒內執行一次點擊操作，但需要消耗 2 個燃料點。"
     },
     {
       "type": "text",
-      "text": "However, fuel consumption rate is not so simple! Every automata core has max fuel consumption limitation, that can be retrieved via $(l)getConfiguration$() method.$(p)Also, fuel point will grow faster, than cooldown drops. Fuel consumption 3 will required 4 fuel points, fuel consumption 4 will required fuel points, etc."
+      "text": "然而，油耗率並不是那麼簡單！ 每個自動機核心都有最大燃料消耗限制，可以通過 $(l)getConfiguration$() 方法檢索。$(p)此外，燃料點會比冷卻時間下降更快。 油耗 3 需要 4 個油點，油耗 4 需要油點，以此類推。"
     }
   ]
 }

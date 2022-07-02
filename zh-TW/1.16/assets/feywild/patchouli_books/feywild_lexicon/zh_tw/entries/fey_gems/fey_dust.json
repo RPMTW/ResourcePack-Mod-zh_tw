@@ -1,17 +1,17 @@
 {
-  "name": "Fey Dust",
+  "name": "精靈塵",
   "icon": "feywild:fey_dust",
   "category": "fey_gems",
   "pages": [
     {
       "type": "text",
-      "text": "When a Fey passes into the next world, they leave behind a small amount of Fey Dust. Breaking the fey trees will also provide you with fey dust. Fey Dust is also obtained by heating up fey ore."
+      "text": "當一隻精靈進入下一個世界時，它們會留下少量精靈塵。打破精靈樹也會給你帶來精靈塵。精靈粉塵也可透過加熱精靈礦獲得."
     },
     {
       "type": "smelting",
-      "title": "Fey Dust",
+      "title": "精靈塵",
       "recipe": "feywild:smelting/fey_dust",
-      "text": "Some believe the magical powder gives the power of flight to whoever it is sprinkled on. A boy once ate a whole stack and he was 'never' seen again."
+      "text": "有些人相信這種神奇的粉末會給灑在身上的人帶來飛翔的力量。有一次，一個男孩吃了整整一堆，從此再也沒有人看見他了。"
     }
   ]
 }

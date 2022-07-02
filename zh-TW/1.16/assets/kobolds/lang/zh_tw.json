@@ -130,8 +130,16 @@
     "advancements.kobold_trader_advancement.title": "Let's Make a Deal!",
     "advancements.kobold_trio_advancement.descr": "Trade with a Kobold Enchanter, Engineer, & Captain at the same time.",
     "item.kobolds.skelebold_spawn_egg": "Skelebold Spawn Egg",
-    "item.kobolds.drowned_zombold_spawn_egg": "Drowned Zombold Spawn Egg",
+    "item.kobolds.drowned_zombold_spawn_egg": "狗頭人沉屍 生怪蛋",
     "entity.kobolds.kobold_captain": "Kobold Captain",
     "item.kobolds.kobold_potion_health": "Kobold Potion of Healing",
-    "advancements.kobold_pirate_advancement.descr": "Sell a desirable item to the Captain."
+    "advancements.kobold_pirate_advancement.descr": "Sell a desirable item to the Captain.",
+    "enchantment.kobolds.artifact": "Artifact",
+    "enchantment.kobolds.prospector": "Prospector",
+    "item.kobolds.kobold_infinity_potion": "Infinity Potion of Healing",
+    "enchantment.kobolds.prospector.desc": "Monsters will have a small chance of dropping emeralds.",
+    "enchantment.kobolds.artifact.desc": "This item has an unique effect.",
+    "subtitles.music_kobblestone": "",
+    "item.kobolds.music_disc_kobblestone.desc": "Lorian Ross - Kobblestone",
+    "item.kobolds.music_disc_kobblestone": "Music Disc"
 }

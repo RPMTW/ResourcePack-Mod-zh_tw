@@ -11,8 +11,9 @@
         },
         {
             "type": "crafting",
-            "recipe": "thermal:machine_crafter",
-            "title": "自動合成台"
+            "A.recipe": "thermal:machine_crafter",
+            "title": "自動合成台",
+            "text": "Note that this machine currently has no ability to protect from overfilling with one particular ingredient! A batching device is coming with Thermal Dynamics, so stay tuned!"
         },
         {
             "type": "text",

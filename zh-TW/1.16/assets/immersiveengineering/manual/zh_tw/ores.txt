@@ -1,14 +1,14 @@
-Ores
-挖呀挖洞
-<&copper>§lCopper Ore§r is found in the world between layers <config;i;ores.copper.min_y> and <config;i;ores.copper.max_y>, and requires a Stone Pickaxe to harvest.
-The ore will smelt into copper ingots, which are used in crafting basic copper wires, coils, and other integral parts of the IE architecture.
-<&alu>§lBauxite Ore§r is found in the world between layers <config;i;ores.bauxite.min_y> and <config;i;ores.bauxite.max_y>, and requires a Stone Pickaxe to harvest.
-The ore will smelt into aluminium ingots, which, together with steel, are used to create high-voltage wires.
-<&lead>§lLead Ore§r is found in the world between layers <config;i;ores.lead.min_y> and <config;i;ores.lead.max_y>, and requires an Iron Pickaxe to harvest.
-礦石會熔煉成鉛錠，可用來製作電容。
-<&silver>§lSilver Ore§r is found in the world between layers <config;i;ores.silver.min_y> and <config;i;ores.silver.max_y>, and requires an Iron Pickaxe to harvest.
-The ore will smelt into silver ingots, which alloy with gold to create electrum, a far more effective conductor.
-<&nickel>§l鎳礦§r能在主世界<config;i;ores.nickel.min_y>到 <config;i;ores.nickel.max_y>層找到，需要鐵鎬或更高等級的鎬來開採。
-此礦石可熔煉成鎳錠，鎳與銅合金製成康銅，康銅是一種用於製造<link;thermoelectric;Thermoelectric Generators;start>的耐熱導體。
-<&nickel>§l鈾礦§r能在主世界<config;i;ores.uranium.min_y>到 <config;i;ores.uranium.max_y>層找到，需要鐵鎬或更高等級的鎬來開採。
-The ore will smelt into uranium ingots, but there are currently not many uses for the metal. A uranium block can serve as a heatsource for the <link;thermoelectric;Thermoelectric Generator;start> and the metal will be used in future endeavours.
+礦石
+挖吧！挖吧！挖洞吧！
+<&copper>§l銅礦石§r能在主世界<config;i;ores.copper.min_y>到<config;i;ores.copper.max_y>層找到，需要用石鎬開採。
+這種礦物冶煉成銅錠，用於製作基礎銅導線、線圈，以及一些沉浸工程的建築部件的原材料。
+<&alu>§l鋁土礦§r能在主世界<config;i;ores.bauxite.min_y>到<config;i;ores.bauxite.max_y>層找到，需要用石鎬開採。
+這種礦物能冶煉出鋁錠，與鋼一同加工能做出高壓電線。
+<&lead>§l鉛礦石§r能在主世界<config;i;ores.lead.min_y>到<config;i;ores.lead.max_y>層找到，需要用鐵鎬開採。
+這種礦物能冶煉出鉛錠，用來製作電容。
+<&silver>§l銀礦石§r能在主世界<config;i;ores.silver.min_y>到<config;i;ores.silver.max_y>層找到，需要用鐵鎬開採。
+這種礦物能冶煉出銀錠，與黃金一同加工能做出琥珀金，它是一種更為高效的導體。
+<&nickel>§l鎳礦§r能在主世界<config;i;ores.nickel.min_y>到<config;i;ores.nickel.max_y>層找到，需要用鐵鎬開採。
+這種礦物能冶煉出鎳錠，與銅錠一同加工能做出康銅，用於製作<link;thermoelectric;熱傳導發電機;start>中的耐熱導線。
+<&uranium>§l鈾礦§r能在主世界<config;i;ores.uranium.min_y>到<config;i;ores.uranium.max_y>層找到，需要用鐵鎬開採。
+這種礦物能冶煉出鈾錠，但目前這種金屬的用途並不多。 鈾磚可作為<link;thermoelectric;熱傳導發電機;start>的燃料，未來將有更多用途。

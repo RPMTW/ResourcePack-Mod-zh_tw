@@ -1,13 +1,13 @@
 {
   "category": "bewitchment:contracts",
-  "name": "Gluttony",
+  "name": "暴食契約",
   "icon": "bewitchment:demonic_contract",
   "advancement": "bewitchment:hidden_unlocks/demon_horn",
   "sortnum": 1,
   "pages": [
     {
       "type": "text",
-      "text": "Gluttony doubles the nourishing effect of food... Tasty."
+      "text": "暴食契約使食物所帶來的飽食度加倍...真香。"
     }
   ]
 }

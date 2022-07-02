@@ -1,0 +1,14 @@
+[
+	"這種單軌礦車僅需要單根的金屬軌道便可行使，透過結合鐵棒和複合金屬的優良特性製成的軌道。",
+	"合成:",
+	{
+		"link": "futurepack:lang/part/cr_space.drone.mono.rail.json"
+	},
+	"單軌軌道只能放置於固體方塊上。",
+	"Sometimes it's required to move a monocart vertically, so I invented a lift shaft.",
+	"合成：",
+	{
+		"link": "futurepack:lang/part/cr_space.drone.mono.lift.json"
+	},
+	"I'm able to attach exactly 2 rails to an lift shaft with variable heigth. The lower entry rail must be placed beside the lowest block of the shaft and the upper one beside the upper block."
+]

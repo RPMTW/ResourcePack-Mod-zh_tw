@@ -11,7 +11,7 @@
         },
         {
             "type": "crafting",
-            "recipe": "thermal:potion_infuser",
+            "A.recipe": "thermal:potion_infuser",
             "title": "藥水注射器",
             "text": "It can be enchanted with $(l:thermal:world/holding)Holding$(/l) to improve fluid capacity."
         },

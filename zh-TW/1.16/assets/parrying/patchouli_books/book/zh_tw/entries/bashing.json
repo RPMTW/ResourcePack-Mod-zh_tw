@@ -1,19 +1,19 @@
 {
-  "name": "Shield Bashing",
+  "name": "盾擊",
   "icon": "minecraft:shield",
   "category": "parrying:mechanics",
   "pages": [
     {
       "type": "text",
-      "text": "A shield is a useful tool in battle. It can stand strong against a variety of attacks, both melee and ranged. However, in the right hands, a shield is also a potent weapon. While its damage may be lacking, a strike from a shield can throw an opponent off balance, granting the perfect opportunity to strike. $(br2) To bash an opponent, first bring your shield to bear."
+      "text": "盾牌是戰鬥中的一個有用工具。它可以抵禦各種攻擊，包括近戰和遠程攻擊。然而，在主手中的盾牌也是一種有力的武器。雖然它的傷害可能不足，但盾擊可以使對手失去平衡，給予完美的攻擊機會。 $(br2) 要擊打對手，首先要把你的盾牌拿在主手中。"
     },
     {
       "type": "text",
-      "text": "When it is up, wait for the perfect moment. When it presents itself, attack with your shield, bringing it down upon your enemies. With a standard tower shield, you can hit up to 3 opponents at once, though I have heard rumors of magical spells that let a shield bash against many more. $(br2) A bash will lower the defenses of your target, leaving them open to powerful strikes."
+      "text": "當盾牌升起時，等待最佳時機用你的盾牌進行反擊，將它撞擊在你的敵人身上。用一個標準的塔盾，你最多可以同時擊中3個對手，聽說有種附魔可以讓盾牌撞擊更多的對手。 $(br2) 盾擊會降低你的目標的防禦力，使他們容易受到強力攻擊。"
     },
     {
       "type": "text",
-      "text": "Shield bashing is not without its downsides, however. A bash will knock a target off balance, yes, but it will also disrupt your posture, making it difficult to bring your shield to bear. This effect is more pronounced when bashing multiple targets, so when fighting groups it is wise to use a weapon that can strike many targets."
+      "text": "然而，盾擊並非沒有缺點。是的，盾擊會使目標失去平衡，但它也會破壞你的姿勢，使你的盾牌難以防禦。這種效果在打擊多個目標時更為明顯，因此在與群體作戰時，使用可以擊中多目標的武器是更明智的選擇。"
     }
   ]
 }

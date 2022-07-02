@@ -15,7 +15,7 @@
     },
     {
       "type": "text",
-      "text": "By default, the $()Ritual of Magnetism$() searches down to bedrock in a radius of 3 blocks out from the $(item)Master Ritual Stone$() for ores to collect. This can be augmented by placing an expensive block directly underneath the MRS, as follows: $(br2)$(li)$(item)Block of Iron$() - 7 blocks. $(li)$(item)Block of Gold$() - 15 blocks. $(li)$(item)Block of Diamond$() - 31 blocks."
+      "text": "一般情況下，$()磁引儀式$()會向下搜索距離$(item)主儀式石$()3格方塊半徑內的基岩以收集礦石。這可以通過在$(item)主儀式石$()正下方放置一個珍貴的方塊來增強距離，如下方所示：$(br)$(li)$(item)鐵磚$()-7格方塊。$(li)$(item)金磚$()-15格方塊。$(li)$(item)鑽石磚$()-31格方塊。"
     },
     {
       "type": "bloodmagic:ritual_data",

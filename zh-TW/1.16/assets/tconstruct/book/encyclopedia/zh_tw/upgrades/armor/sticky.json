@@ -1,0 +1,17 @@
+{
+  "modifier_id": "tconstruct:sticky",
+  "text": [
+    {
+      "text": "每級有 25% 的機率對攻擊者施加長達 1.5 秒（加上每級 1 秒）的緩慢。效果取決於等級最高的部位。"
+    },
+    {
+      "text": "強化在武器上則是緩速攻擊目標。",
+      "paragraph": true
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "最高 3 級",
+    "每級需要 1 個升級槽"
+  ]
+}

@@ -11,19 +11,19 @@
         },
         {
             "type": "crafting",
-            "recipe": "thermal:machine_press",
-            "recipe2": "thermal:press_unpacking_die",
+            "A.recipe": "thermal:machine_press",
+            "B.recipe": "thermal:press_unpacking_die",
             "title": "多驅衝壓機"
         },
         {
             "type": "crafting",
-            "recipe": "thermal:press_packing_2x2_die",
-            "recipe2": "thermal:press_packing_3x3_die"
+            "A.recipe": "thermal:press_packing_2x2_die",
+            "B.recipe": "thermal:press_packing_3x3_die"
         },
         {
             "type": "crafting",
-            "recipe": "thermal:press_gear_die",
-            "recipe2": "thermal:press_coin_die"
+            "A.recipe": "thermal:press_gear_die",
+            "B.recipe": "thermal:press_coin_die"
         },
         {
             "type": "text",

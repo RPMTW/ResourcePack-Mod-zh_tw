@@ -6,13 +6,13 @@
         {
             "type": "animal_spawn_info",
             "animal": "frog",
-            "breed": "用棕蘑菇繁殖;",
-            "tame": "Taming: Not tameable.",
+            "breed": "繁殖物品：棕色蘑菇。",
+            "tame": "馴服物品：無法馴服。",
             "blurb": ""
         },
         {
             "type": "entity",
-            "name": "Frog",
+            "name": "青蛙",
             "entity": "mysticalworld:frog",
             "scale": "1.5",
             "offset": "-0.3",

@@ -1,15 +1,15 @@
 {
-  "name": "Daggers",
+  "name": "匕首",
   "icon": "parrying:netherite_dagger",
   "category": "parrying:weapons",
   "pages": [
     {
       "type": "text",
-      "text": "The dagger is a classic weapon. In fact, one of the first weapons crafted is said to have been a stone knife. For thousands of years, the dagger has been a staple of melee combat. $(br2) Of course, its easy to see why. The dagger is a cheap and versatile weapon."
+      "text": "匕首是一種經典的武器。事實上，最早製作的武器據說就是一把石刀。幾千年來，匕首一直是近戰戰鬥的主要武器。 $(br2) 當然這很容易理解。匕首是一種廉價而通用的武器。"
     },
     {
       "type": "text",
-      "text": "Its lightweight nature makes it perfect for throwing, and also makes it a rather fast weapon. Its damage output is rather low, but its speed more than makes up for this. $(br2) Additionally, in the right hands, its quick nature makes the dagger good for taking openings in a target's defenses that others might not see."
+      "text": "它的輕巧特性使它非常適合投擲，也使它成為一種相當快速的武器。它的傷害輸出相當低，但它的速度足以彌補這一點。 $(br2) 此外，在主手中，它的快速特性使得匕首很適合在目標的防禦中打開其他人可能看不到的缺口。"
     }
   ]
 }

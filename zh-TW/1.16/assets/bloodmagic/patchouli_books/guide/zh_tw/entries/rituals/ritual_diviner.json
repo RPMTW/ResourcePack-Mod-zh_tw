@@ -5,16 +5,16 @@
   "pages": [
     {
       "type": "text",
-      "text": "製作儀式是一項複雜的工作；即使您擁有正確的$(item)銘文工具$()，您也不能只是將符文刻在石頭上並期望任何事情發生。 幸運的是，$(item)儀式推測仗$()可以提供幫助。$(br2)只需對著空氣按住[$(k:sneak)]並單擊$(k:use)]，即可選擇儀式。"
+      "text": "Crafting rituals is an intricate business; Even if you have the correct $(item)Inscription Tools$(), you can't just slap runic inscriptions down any old how and expect things to happen. Luckily, the $(item)Ritual Diviner$() is here to help. $(br2)Hold [$(k:sneak)] and press [$(k:use)] or [$(k:attack)] while looking at empty air to cycle through the avaliable rituals in either direction."
     },
     {
       "type": "crafting",
       "recipe": "bloodmagic:ritual_diviner_0",
-      "text": "在查看$(item)主儀式石$()時按住[$(k:use)]將使儀式推測仗使用您身上攜帶的$(item)儀式石$()來構建當前選擇的儀式。 這就像魔法一樣！"
+      "text": "simply tap [$(k:use)] while looking at a $(item)Master Ritual Stone$() to make the Diviner build the currently selected ritual out of any $(item)Ritual Stones$() you may be carrying. It's almost like magic!"
     },
     {
       "type": "text",
-      "text": "然而，儀式推測仗不能破壞方塊，所以在你開始建造之前先確保該區域足夠空曠，否則$(l:bloodmagic:rituals/activation_crystals)啟動水晶$()將無法完成它的工作。$(br2)還有值得注意的是，基礎儀式推測仗只能創建一些基礎的儀式。如果您想充分利用儀式推測仗，則必須使用$(dusk)元素銘文工具:薄暮$()對其進行升級。"
+      "text": "The Ritual Diviner can break replaceable blocks (like tall grass, snow, etc), but not solid ones such as stone or dirt, so make sure the area is clear before you commence construction, or the $(l:bloodmagic:rituals/activation_crystals)Activation Crystal$() will be unable to do its job. $(br2)It's also worth noting that the base ritual diviner can only create some of the more basic rituals. If you want the most out of your diviner, you'll have to upgrade it with $(dusk)Dusk Inscription Tools$()."
     },
     {
       "type": "crafting",

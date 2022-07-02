@@ -1,20 +1,20 @@
 {
-  "name": "Husbandry automata core",
-  "icon": "advancedperipherals:husbandry_automata_core",
-  "category": "advancedperipherals:metaphysics",
-  "advancement": "advancedperipherals:weak_automata_core",
+  "name": "畜牧自動機核心",
+  "icon": "高級外設：husbandry_automata_core",
+  "category": "高級外圍：形而上學\n",
+  "advancement": "高級外設：weak_automata_core\n",
   "pages": [
     {
       "type": "spotlight",
-      "title": "Husbandry automata core",
-      "item": "advancedperipherals:husbandry_automata_core",
-      "text": "After consuming 3 chickens, 3 cows, 3 sheeps, weak automata core will be transformed to husbandry automata core!$(p)In addition to be more powerful weak automata core variant, seems, this soul also provide abilities to interact with animals!"
+      "title": "畜牧自動機核心",
+      "item": "高級外設：husbandry_automata_core",
+      "text": "吃掉3隻雞、3頭牛、3隻羊後，弱自動機核心將轉化為畜牧自動機核心！$(p)除了是更強大的弱自動機核心變體，看來，這個靈魂還提供了與動物互動的能力！"
     },
     {
       "type": "link",
-      "text": "In additions to weak automata core abilities, this core also allow to interact with animals and even transfer them inside!$(p)But be aware, any stored animal will be lost after turtle is broken.",
+      "text": "除了弱自動機核心能力之外，這個核心還允許與動物互動，甚至將它們轉移到裡面！$(p)但是要注意，任何儲存的動物都會在烏龜被打破後丟失。",
       "url": "https://docs.srendi.de/items/husbandry_automata/",
-      "link_text": "API documentation"
+      "link_text": "API 文檔"
     }
   ]
 }

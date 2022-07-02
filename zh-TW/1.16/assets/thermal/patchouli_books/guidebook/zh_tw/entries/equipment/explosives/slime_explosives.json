@@ -11,13 +11,13 @@
         },
         {
             "type": "crafting",
-            "recipe": "thermal:slime_tnt",
-            "recipe2": "thermal:slime_grenade_4"
+            "A.recipe": "thermal:slime_tnt",
+            "B.recipe": "thermal:slime_grenade_4"
         },
         {
             "flag": "&mod:thermal_innovation,mod:thermal_locomotion",
             "type": "crafting",
-            "recipe": "thermal:slime_tnt_minecart",
+            "A.recipe": "thermal:slime_tnt_minecart",
             "title": "Slime Explosive Minecart"
         }
     ]

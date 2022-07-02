@@ -1,0 +1,21 @@
+[
+	"I created simple structures out of compound metal: ordinary, solid blocks.",
+	"合成:",
+	{
+		"link": "futurepack:lang/part/cr_deco.metall.json"
+	},
+	{
+		"link": "futurepack:lang/part/cr_deco.metallslab1.json"
+	},
+	{
+		"link": "futurepack:lang/part/cr_deco.metalltreppe1.json"
+	},
+	"Alternative:",
+	{
+		"link": "futurepack:lang/part/cr_deco.metallslab2.json"
+	},
+	{
+		"link": "futurepack:lang/part/cr_deco.metalltreppe2.json"
+	},
+	"訊息：可使用噴槍著色。"
+]

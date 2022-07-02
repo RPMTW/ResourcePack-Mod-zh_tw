@@ -20,43 +20,43 @@
       "height": 43
     },
     {
-      "type": "物品",
+      "type": "item",
       "item": "#input1",
       "x": 15,
       "y": 8
     },
     {
-      "type": "物品",
+      "type": "item",
       "item": "#input2",
       "x": 34,
       "y": 8
     },
     {
-      "type": "物品",
+      "type": "item",
       "item": "#input3",
       "x": 15,
       "y": 27
     },
     {
-      "type": "物品",
+      "type": "item",
       "item": "#input4",
       "x": 34,
       "y": 27
     },
     {
-      "type": "物品",
+      "type": "item",
       "item": "#will",
       "x": 59,
       "y": 27
     },
     {
-      "type": "物品",
+      "type": "item",
       "item": "#output",
       "x": 84,
       "y": 8
     },
     {
-      "type": "物品",
+      "type": "item",
       "item": "bloodmagic:soulforge",
       "x": 84,
       "y": 27
@@ -74,7 +74,7 @@
     },
     {
       "type": "text",
-      "text": "點意志",
+      "text": "意志",
       "x": 61,
       "y": 6
     },

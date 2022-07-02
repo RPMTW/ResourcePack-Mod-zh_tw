@@ -11,7 +11,7 @@
         },
         {
             "type": "crafting",
-            "recipe": "thermal:device_nullifier",
+            "A.recipe": "thermal:device_nullifier",
             "title": "銷毀器",
             "text": "Redstone control only affects the automatic insertion of items/fluids. Manual deletion through the GUI can always be performed, regardless of redstone control setting."
         },

@@ -1,11 +1,11 @@
 {
-  "name": "Block reader",
+  "name": "方塊讀取器",
   "icon": "advancedperipherals:block_reader",
   "category": "advancedperipherals:peripherals",
   "pages": [
     {
       "type": "text",
-      "text": "This block is able to read data of blocks and tile entities in front of it.$(p)For the full documentation please see the $(9)$(l:https://docs.srendi.de/peripherals/block_reader/)official wiki page$(/l)$()!"
+      "text": "此方塊可以讀取方塊的數據和前方鋪陳物件。.$(p)詳細文件檔參見 $(9)$(l:https://docs.srendi.de/peripherals/block_reader/)official wiki page$(/l)$()！"
     },
     {
       "type": "crafting",
@@ -17,7 +17,7 @@
         "mapping": {
           "0": "computercraft:computer_advanced",
           "P": "advancedperipherals:block_reader",
-          "T": "minecraft:dirt"
+          "T": "minecraft:dirt "
         },
         "pattern": [
           [
@@ -25,7 +25,7 @@
           ]
         ]
       },
-      "text": "Connect your Block reader to a computer and target block to make use of it!"
+      "text": "將你的方塊讀取器連接到計算機和選取方塊以使用它！"
     }
   ]
 }

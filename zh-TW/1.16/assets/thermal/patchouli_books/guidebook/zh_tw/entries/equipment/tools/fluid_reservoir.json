@@ -11,7 +11,7 @@
         },
         {
             "type": "crafting",
-            "recipe": "thermal:fluid_reservoir",
+            "A.recipe": "thermal:fluid_reservoir",
             "title": "Reservoir",
             "text": "It can be enchanted with $(l:thermal:world/holding)Holding$(/l) to improve fluid capacity."
         },

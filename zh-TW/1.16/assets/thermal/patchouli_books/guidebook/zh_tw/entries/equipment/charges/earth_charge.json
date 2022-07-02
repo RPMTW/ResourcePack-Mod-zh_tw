@@ -10,7 +10,7 @@
         },
         {
             "type": "crafting",
-            "recipe": "thermal:earth_charge_3",
+            "A.recipe": "thermal:earth_charge_3",
             "title": "裂岩彈",
             "text": "$(o)Legend has it that these were once powerful enough to break bedrock.$()"
         }

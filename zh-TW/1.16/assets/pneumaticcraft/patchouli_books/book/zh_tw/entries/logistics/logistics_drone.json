@@ -10,7 +10,7 @@
     },
     {
       "type": "spotlight",
-      "title": "Automatic Charging",
+      "title": "自動充氣",
       "item": "pneumaticcraft:charging_station",
       "text": "As with all types of Drone, these drones require $(l:base_concepts/pressure)pressure/$ to operate, and will automatically seek out $(l:tools/drone#charging)a Charging Station with a Dispenser Upgrade/$ if low on air."
     },
@@ -21,7 +21,7 @@
     },
     {
       "type": "text",
-      "text": "Once deployed, a $(item)Logistics Drone/$ will operate on any inventory/tank with a $(l:logistics/frames)Logistics Frame/$ in a 33x33x33 cube centered on the block the drone was deployed at.$(p)Since these Drones frequently need to move items around, $(l:base_concepts/upgrades#speed)Speed/$ and $(l:base_concepts/upgrades#inventory)Inventory/$ upgrades are recommended for movement speed and carrying capacity."
+      "text": "放置後，$(item)物流無人機/$將會裝有$(l:logistics/frames)物流框架/$的容器或儲罐執行物流操作，範圍大小為 33*33*33（立方體），以最初所放置處為中心。$(p)由於這類無人機需要頻繁移動物品，建議安裝$(l:base_concepts/upgrades#speed)速度/$和$(l:base_concepts/upgrades#inventory)物品欄/$升級，以提升移動速度和承載容量。"
     },
     {
       "type": "crafting",

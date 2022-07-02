@@ -1,5 +1,5 @@
 {
-  "name": "Demon Will Aspects",
+  "name": "惡魔意志種類",
   "icon": "bloodmagic:vengefulcrystal",
   "category": "bloodmagic:demon_will/will_manipulation",
   "extra_recipe_mappings": [
@@ -55,20 +55,20 @@
   "pages": [
     {
       "type": "text",
-      "text": "Unleashing $(l:bloodmagic:demon_will/will_manipulation/demon_will)Demon Will$() into the atmosphere was definitely an excellent idea. Not only has it proven most useful in empowering $(item)Rituals$(), you have also successfully condensed it into a $(l:bloodmagic:demon_will/will_manipulation/crystallized_will)Crystal Cluster$(), and are wondering what to turn your eye to next. $(br2)These $(item)Crystals$() feel somehow... conflicted, to you. A certain $(l:bloodmagic:rituals/ritual_list/ritual_crystal_split)Ritual$() may help coax them out into purer forms..."
+      "text": "將$(l:bloodmagic:demon_will/will_manipulation/demon_will)惡魔意志$()釋放到大氣中，絕對是一個絕妙的主意。事實證明，它不僅在增強$(item)儀式$()方面有用，而且您還成功地將其濃縮成一個$(l:bloodmagic:demon_will/will_manipulation/crystallized_will)意志晶簇$()，並且想知道下一步該將目光投向什麼。$(br2)對你來說，這些$(item)晶體$()感覺有點……矛盾。某種$(l:bloodmagic:rituals/ritual_list/ritual_crystal_split)儀式$()可能會幫助他們把它們變成更純粹的形式……"
     },
     {
       "type": "image",
       "images": [
         "bloodmagic:images/entries/demon_will/will_splitting.png"
       ],
-      "title": "Aspects of Will",
+      "title": "意志的各個種類",
       "border": true,
-      "text": "The $(l:bloodmagic:rituals/ritual_list/ritual_crystal_split)Resonance of the Faceted Crystal$() ritual in action."
+      "text": "正在進行中的$(l:bloodmagic:rituals/ritual_list/ritual_crystal_split)結晶共鳴$()儀式。"
     },
     {
       "type": "text",
-      "text": "Now we have $(item)Crystallized Will$() in four spicy new flavours! on the $(water)Water Rune$() we have $(steadfast)Steadfast Will$(), on the $(air)Air Rune$() we get $(destructive)Destructive Will$(), on the $(fire)Fire Rune$() comes $(vengeful)Vengeful Will$() and on the $(earth)Earth Rune$() we find $(corrosive)Corrosive Will.$() $(br2)These various new types of Will can be burned in the $(item)Demon Crucible$() just like Raw Will, and from there can be fed into various Rituals to great and fascinating effect."
+      "text": "現在我們有四種辛辣新口味的$(item)結晶意志！$(water)水符文$()有$(steadfast)堅毅意志$()，$(air)風符文$()有$(destructive)破壞意志$()，$(fire)火符文$()有$(vengeful)復仇意志$()，$(earth)土符文$()有$(corrosive)腐蝕意志$()。$(br2)這些不同類型的意志可以在$(item)惡魔坩堝$()中燃燒就像原生意志，在那裡可以被注入各種儀，以式達到偉大而迷人的效果。"
     },
     {
       "type": "text",
@@ -81,11 +81,11 @@
     },
     {
       "type": "text",
-      "text": "You may be wondering: \"How on earth do I get this will into a usable form?\" Well, the answer is simple. Just place an EMPTY $(l:bloodmagic:demon_will/will_manipulation/soul_gem)Tartaric Gem$() into a $(l:bloodmagic:demon_will/will_manipulation/soul_forge)Hellfire Forge$() in the same chunk as a $(item)Demon Crucible$(), then feed the Demon Crucible with Will Crystals of the desired aspect. Your $(l:bloodmagic:demon_will/will_manipulation/soul_gem)Tartaric Gem$() will fill with that aspect of will. You can change which kind of will your $(raw)Sentient Tools$() use by pressing [$(k:use)] while holding them."
+      "text": "您可能想知道：“我到底如何將這份意志變成可用的形式？”嗯，答案很簡單。 只需將一塊空的$(l:bloodmagic:demon_will/will_manipulation/soul_gem)地獄魂石$()放入與$(item)惡魔坩堝$()相同chunk裡的$(l:bloodmagic:demon_will/will_manipulation/soul_forge)獄火熔爐$()中，然後用所需種類的意志晶體餵養惡魔坩堝。 你的$(l:bloodmagic:demon_will/will_manipulation/soul_gem)地獄魂石$()會充滿這種意志。 你可以通過按住[$(k:use)]來改變你的$(raw)感知工具$()使用的類型。"
     },
     {
       "type": "text",
-      "text": "Note that your $(raw)Sentient Tools$() will take on the aspect of the largest amount of $(raw)Will$() in your inventory. If you're carrying 10 $(corrosive)Corrosive Will$() in one $(l:bloodmagic:demon_will/will_manipulation/soul_gem)Tartaric Gem$(), and 1,000 $(raw)Raw Will$() in another, then your sword will remain $(raw)Raw$()."
+      "text": "Note that your $(item)Sentient Tools$() will take on the aspect of the largest amount of $(raw)Will$() in your inventory. If you're carrying 10 $(corrosive)Corrosive Will$() in one $(l:bloodmagic:demon_will/will_manipulation/soul_gem)Tartaric Gem$(), and 1,000 $(raw)Raw Will$() in another, then your sword will remain $(raw)Raw$(). $(br2)The $(l:bloodmagic:demon_will/will_manipulation/soul_forge)Hellfire Forge$() can accept any kind of $(raw)will$() for crafting with, so don't worry about having to juggle multiple types of will across different $(item)Tartaric Gems$()."
     }
   ]
 }

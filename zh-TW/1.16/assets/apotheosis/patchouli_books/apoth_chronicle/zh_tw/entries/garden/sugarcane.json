@@ -1,0 +1,16 @@
+{
+    "name": "甘蔗",
+    "icon": "minecraft:sugar_cane",
+    "category": "apotheosis:garden/garden",
+    "flag": "apotheosis:garden",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "甘蔗的最大生長高度增加到 255 格方塊高。$(p)這個值是可配置的，所以基於模組包的設定，這個值可能低一點。"
+        }
+    ],
+    "extra_recipe_mappings": {
+        "minecraft:sugar_cane": 0
+    }
+}

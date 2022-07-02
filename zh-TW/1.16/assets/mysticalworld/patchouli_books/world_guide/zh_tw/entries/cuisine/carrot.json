@@ -1,5 +1,5 @@
 {
-    "name": "Carrot Recipes",
+    "name": "胡蘿蔔配方",
     "icon": "mysticalworld:cooked_carrot",
     "category": "cuisine",
     "pages": [
@@ -12,7 +12,7 @@
         {
             "type": "smelting",
             "recipe": "mysticalworld:cooked_carrot",
-            "title": "Cooked Carrot",
+            "title": "烤胡蘿蔔",
             "text": "Carrots can be cooked slowly over a campfire, in a furnace, or even more quickly in a smoker."
         },
         {

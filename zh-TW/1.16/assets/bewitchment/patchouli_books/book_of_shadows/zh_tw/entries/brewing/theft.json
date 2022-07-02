@@ -12,7 +12,7 @@
       "type": "spotlight",
       "title": "偷竊",
       "item": "minecraft:diamond",
-      "text": "Stealing an effect will halve its duration.$(br2)This effect is not compatible with $(l:bewitchment:brewing/synchronized)Synchronized$().$(br2)The higher this effect's intensity, the further it'll reach."
+      "text": "竊來的效果時間會砍半。$(br2)此效果不與$(l:bewitchment:brewing/synchronized)同步$()效果相容。$(br2)等級越高，效果所能涵蓋的範圍越廣。"
     }
   ]
 }

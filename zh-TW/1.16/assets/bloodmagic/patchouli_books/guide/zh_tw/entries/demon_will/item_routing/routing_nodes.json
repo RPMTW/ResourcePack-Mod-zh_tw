@@ -1,43 +1,43 @@
 {
-  "name": "Routing Nodes",
+  "name": "路由節點",
   "icon": "bloodmagic:masterroutingnode",
   "category": "bloodmagic:demon_will/item_routing",
   "priority": "是",
   "pages": [
     {
       "type": "text",
-      "text": "Hauling items around by hand may be all right for some people, but we are a Sanguimancer. What's more, we have access to $(raw)Demon Will$()! Surely there's a better way to go about things. $(br2)As such, you've managed to come up with $(thing)Routing Nodes$(). These offer a powerful way to transport, sort, and filter items, sending them magically through the air as you decree."
+      "text": "手工搬運物品對某些人來說可能沒問題，但我們是血魔法師。更重要的是，我們可以使用$(raw)惡魔意志$()！ 當然有更好的方法來處理事情。$(br2)因此，您已經設法製造出了$(thing)路由節點$()。這提供了一種強大的方式來運輸、分類和過濾物品，在您下令時神奇地將它們發送到空氣中。"
     },
     {
       "type": "text",
-      "text": "$(thing)Routing Node Networks$() have 3 main components: $(item)Input Nodes$(), $(item)Output Nodes$(), and the $(item)Master Routing Node$(). $(br2)Every network requires exactly 1 $(item)Master Routing Node$(), and every other Node in the network must be able to trace a route back to the Master, whether directly, or via other Nodes. $(br2)Input and Output nodes can withdraw or insert items from any block with an accessible inventory, respectively."
+      "text": "$(thing)路由節點網絡$()有3個主要組件：$(item)輸入節點$()、$(item)輸出節點$()和$(item)主控路由節點$()。$(br2)每個網絡都需要正好有1個$(item)主控路由節點$()，並且網絡中的每個其他節點都必須能夠直接或通過其他節點間接連接主控路由節點。$(br2)輸入和輸出節點可以分別從具有儲存功能的方塊中取出或放入物品。"
     },
     {
       "type": "crafting_soulforge",
-      "heading": "Master Routing Node",
+      "heading": "主控路由節點",
       "recipe": "bloodmagic:soulforge/master_routing_node",
-      "text": "The Master Node will be able to accept upgrades in the future, but for now it only serves to control and direct the network, acting as its 'Brain'."
+      "text": "主控路由節點將來將能夠接受升級，但目前它僅用於控制和指導網路，充當其\"大腦\"。"
     },
     {
       "type": "text",
-      "text": "A $(item)Master Routing Node$() is all well and good, but without the other two node types, it's not particularly useful on its own, so let's get on to those next. $(br2)$(item)Input Routing Nodes$() draw items in to the network, $(item)Output Routing Nodes$() export them out again, and plain old $(item)Routing Nodes$() serve to extend the reach of your network. As Input and Output nodes are currently otherwise identical, we will be focusing on the Input Routing Node unless otherwise specified."
+      "text": "$(item)主控路由節點$()一切都很好，但沒有其他兩種節點類型，它本身並不是特別有用，所以讓我們繼續下一步。$(br2)$(item)輸入路由節點$()將物品輸入網絡，$(item)輸出路由節點$()再次將它們導出，而普通的$(item)路由節點$()用於擴大您的網絡覆蓋範圍。由於輸入和輸出節點目前在其他方面是相同的，除非另有說明，否則我們將重點關注輸入路由節點。"
     },
     {
       "type": "crafting_soulforge",
-      "heading": "Routing Node",
+      "heading": "路由節點",
       "recipe": "bloodmagic:soulforge/routing_node",
-      "text": "Doesn't do a whole lot on its own, but can be used to extend $(thing)Routing Networks$() beyond the 16-block reach of a single connection."
+      "text": "它本身不會做很多事情，但可用於將$(thing)路由網路$()擴展到單個連接的16個方塊範圍之外。"
     },
     {
       "type": "2x_crafting_soulforge",
-      "a.heading": "Input Routing Node",
+      "a.heading": "輸入路由節點",
       "a.recipe": "bloodmagic:soulforge/input_routing_node",
-      "b.heading": "Output Routing Node",
+      "b.heading": "輸出路由節點",
       "b.recipe": "bloodmagic:soulforge/output_routing_node"
     },
     {
       "type": "text",
-      "text": "When you place an Input or Output Node down, it will automatically connect to $(thing)all adjacent inventories$(), but it won't do anything without a $(item)Filter$() of some kind in at least one of its side's slots. For example, you could use a $(l:bloodmagic:demon_will/item_routing/standard_item_filter)Standard Item Filter$() set to $(item)Iron Ore$() on top of a $(item)Furnace$(), a second filter set to coal on the side of the furnace, and an Input Node underneath set to Iron Ingots."
+      "text": "當你放置一個輸入或輸出節點時，它會自動連接到$(thing)所有相鄰的容器$()，但如果沒有任何一種$(item)過濾器$()在至少其中一側的插槽，它就不會運作。例如，您可以將輸出節點放置在$(item)熔爐$()上使用$(l:bloodmagic:demon_will/item_routing/standard_item_filter)標準過濾器$()，過濾設定成$(item)鐵礦$()，第二個輸出節點放置在熔爐側邊，過濾設定成煤炭，下方的輸入節點設定成鐵錠。"
     },
     {
       "type": "image",
@@ -45,7 +45,7 @@
         "bloodmagic:images/entries/routing/node_demo.png"
       ],
       "border": true,
-      "text": "An Output Node in-world."
+      "text": "在世界中的輸出節點。"
     },
     {
       "type": "image",
@@ -53,11 +53,11 @@
         "bloodmagic:images/entries/routing/node_gui_right.png"
       ],
       "border": true,
-      "text": "Once we've got our nodes set up, let's open up the Node GUI."
+      "text": "設置好節點后，讓我們打開節點的設定介面。"
     },
     {
       "type": "text",
-      "text": "Over on the right, we have our cardinal directions - $(bold)D$()own, $(bold)U$()p, $(bold)N$()orth, $(bold)S$()outh, $(bold)W$()est, and $(bold)E$()ast. You'll notice that a little picture of a block appears on some buttons, representing what's on that side of the node. The GUI will open up on the side facing an attached inventory, or Down if no inventory is present. The buttons themselves follow the direction the player is facing, so the top button is 'forwards', the left button is 'left', etcetera."
+      "text": "在右邊，我們有基本的方向-$(bold)下$()、$(bold)上$()、$(bold)北$()、 $(bold)南$()、$(bold)西$()和$(bold)東$()。您會注意到一些按鈕上出現了一個圖片，這代表著節點那一側旁邊的方塊。介面開啟時將優先顯示面向容器的一側，如果周遭沒有容器，則默認優先顯示下側。 按鈕本身顯示的方向與玩家當下面對的方向相同。"
     },
     {
       "type": "image",
@@ -68,11 +68,11 @@
     },
     {
       "type": "text",
-      "text": "Over on the left, you'll see a space for us to insert a Filter for the selected side, and a Priority. bigger numbers = more important. $(br2)Nodes can have one filter per side - so we'll select the side we want, and put our filter in it. (For more information on Filters, see 'A Primer On Filters')"
+      "text": "在左側，您將看到一個空格，供我們插入所選之側的過濾器和決定優先順序。更大的數字=更優先。$(br2)節點可以每一側都各裝一個過濾器-因此我們可自由選擇所需的一側，並將過濾器放入其中。（有關過濾器的更多資訊，請參閱各個過濾器的頁面）"
     },
     {
       "type": "text",
-      "text": "Once your Input and Output Nodes have been set up, have been linked together with the help of a $(l:bloodmagic:demon_will/item_routing/node_router)Node Router$() in a network that includes exactly one a $(item)Master Routing Node$(),  and both have item filters inserted to the correct sides, you should be good to go! Items will be routed according to the priorities and the rules contained within your filters."
+      "text": "設置好輸入和輸出節點後，在$(l:bloodmagic:demon_will/item_routing/node_router)路由節點$()的幫助下將其鏈接在一起，若該網絡中恰好包含一個$(item)主控路由節點$()，並且都將物品過濾器插入到正確的一側，您應該很高興！物品將根據優先度和過濾器中包含的規則進行傳輸。"
     },
     {
       "type": "image",
@@ -80,7 +80,7 @@
         "bloodmagic:images/entries/routing/network_demo.png"
       ],
       "border": true,
-      "text": "Nodes do not have to be linked directly to the $(item)Master Routing Node$(), merely to any node on the network."
+      "text": "節點不必直接連結到$(item)主控路由節點$()，只需連結到網路上的任何節點即可。"
     }
   ]
 }

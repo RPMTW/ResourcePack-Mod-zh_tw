@@ -1,17 +1,17 @@
 {
-  "name": "Demon Will Aura",
+  "name": "惡魔靈域",
   "icon": "bloodmagic:demoncrucible",
   "category": "bloodmagic:demon_will/will_manipulation",
   "pages": [
     {
       "type": "text",
-      "text": "As we have $(l:bloodmagic:demon_will/will_manipulation/demon_will)established$(), $(raw)Demonic Will$() coalesces around certain creatures and propels them with malevonent force. However, this is not the only place that $(raw)Will$() can exist. By burning $(raw)Will$() in a $(item)Demon Crucible$(), it is possible to unleash the will into the $(thing)Aura$(), to great and fascinating effect."
+      "text": "正如我們所$(l:bloodmagic:demon_will/will_manipulation/demon_will)確定$()的，$(raw)惡魔意志$()會凝聚在某些生物周圍，並以邪惡的力量推動它們。 然而，這並不是$(raw)意志$()唯一可以存在的地方。 通過在$(item)惡魔坩堝$()中燃燒$(raw)意志$()，可以將意志釋放到$(thing)靈域$()中，從而達到偉大而迷人的效果。"
     },
     {
       "type": "crafting_soulforge",
       "heading": "惡魔坩堝",
       "recipe": "bloodmagic:soulforge/demon_crucible",
-      "text": "Put a charged $(l:bloodmagic:demon_will/will_manipulation/soul_gem)Tartaric Gem$() or any aspect of $(item)Demon Will$() or $(item)Demon Crystal$() into it and let it run. $(item)Crystals$() will be consumed once the chunk's $(raw)Will$() dips below 50, wheras $(raw)Demon Will$() (in item form or from the $(item)Tartaric Gem$()) will be consumed a bit at a time, as needed."
+      "text": "將蘊含意志的$(l:bloodmagic:demon_will/will_manipulation/soul_gem)地獄魂石$()或任何$(item)惡魔意志$()或$(item)惡魔晶體$()放入其中並讓它運行。一旦$(raw)意志$()低於50，區塊內將會消耗一個$(item)晶體$()，而$(raw)惡魔意志$()（以物品形式或來自$(item)地獄魂石$()）將根據需要一次消耗一點。"
     },
     {
       "type": "image",
@@ -20,19 +20,25 @@
       ],
       "title": "惡魔坩堝",
       "border": true,
-      "text": "The $(item)Demon Crucible$(), with a $(l:bloodmagic:demon_will/will_manipulation/soul_gem)Tartaric Gem$() inside it."
+      "text": "$(item)惡魔坩堝$()，裡面有一顆$(l:bloodmagic:demon_will/will_manipulation/soul_gem)地獄魂石$()。"
     },
     {
       "type": "text",
-      "text": "Now we have $(raw)Raw Will$() in the atmosphere. Great, now what? $(br2)Some $(thing)Rituals$() $(l:bloodmagic:rituals/ritual_tinkerer)benefit$() from $(raw)Raw Will$(), but the main benefit from this is the ability to create refined $(item)Demon Will Crystals$() and from there, $(l:bloodmagic:rituals/ritual_list/ritual_crystal_split)split them$() into their $(l:bloodmagic:demon_will/will_manipulation/aspected_will)Aspects$(). $(br2)Once you have some of these $(item)Aspected Will Crystals$(), you can burn them once more in the $(item)Crucible$() to unleash them into the $(thing)Aura$() for your rituals to benefit from."
+      "text": "現在我們的大氣中有了$(raw)原生意志$()。 太好了，現在呢？$(br2)一些$(thing)儀式$()貌似能從$(raw)原生意志$()中$(l:bloodmagic:rituals/ritual_tinkerer)受益$()，但由此帶來的主要好處是能夠創造$(item)惡魔意志水晶$()，然後從那裡將它們分成不同的$(l:bloodmagic:demon_will/will_manipulation/aspected_will)種類$()。$(br2) 一旦你獲得了$(item)意志晶體$()，你就可以將它們放入$(item)坩堝$()中燃燒，將它們釋放到$(thing)大氣$()中，讓你的儀式從中受益。"
     },
     {
       "type": "text",
-      "text": "Some important points to note: Firstly, the $(thing)Aura$() is chunk-based. That is, any $(raw)Will$() you burn will fill up the chunk that you burn it in, up to a total cap of 100 for each type. You can measure this using a $(l:bloodmagic:demon_will/will_manipulation/aura_gauge)Demon Will Aura Gauge$(). $(br2)Currently, there is no way to transfer $(raw)Will$() from one chunk to another, so you're best off transferring it in item form - whether as $(item)Crystallized Will$() or by filling and emptying a $(l:bloodmagic:demon_will/will_manipulation/soul_gem)Tartaric Gem$()."
+      "text": "It's important to mention that the $(thing)Aura$() is chunk-based. That is, any $(raw)Will$() you burn will fill up the chunk that you burn it in, up to a total cap of 100 for each type. You can measure this using a $(l:bloodmagic:demon_will/will_manipulation/aura_gauge)Demon Will Aura Gauge$(). $(br2)To move Demon Will around, simply place a $(item)Demon Pylon$() in any adjacent chunk, and $(raw)Will$() will be drawn towards it."
+    },
+    {
+      "type": "crafting_soulforge",
+      "heading": "Demon Pylon",
+      "recipe": "bloodmagic:soulforge/demon_pylon",
+      "text": "The Pylon will draw in all kinds of will from all adjacent chunks (not including diagnonals). Multiple Pylons can be chained in order to transfer Will over larger distances."
     },
     {
       "type": "text",
-      "text": "Speaking of the $(l:bloodmagic:demon_will/will_manipulation/soul_gem)Tartaric Gem$(), placing one inside a $(l:bloodmagic:demon_will/will_manipulation/soul_forge)Hellfire Forge$() will cause it to rapidly absorb $(raw)Will$() from the chunk it's in. $(br2)With an Aspect of $(raw)Will$() in the chunk, such as $(raw)Raw$() or $(corrosive)Corrosive$(), and an empty $(item)Tartaric Gem$(), it's possible to fill the Gem with that Aspect. $(br2)This lets you modify your $(l:bloodmagic:demon_will/demonic_items/sentient_tools)Sentient Tools$() and $(l:bloodmagic:demon_will/demonic_items/sentient_sword)Sword$() accordingly. The effects are defined $(l:bloodmagic:demon_will/will_manipulation/aspected_will#sentient_aspects)here$()."
+      "text": "If you place a $(l:bloodmagic:demon_will/will_manipulation/soul_gem)Tartaric Gem$(), inside a $(l:bloodmagic:demon_will/will_manipulation/soul_forge)Hellfire Forge$() will cause it to rapidly absorb $(raw)Will$() from the chunk it's in. $(br2)With an Aspect of $(raw)Will$() in the chunk, such as $(raw)Raw$() or $(corrosive)Corrosive$(), and an empty $(item)Tartaric Gem$(), it's possible to fill the Gem with that Aspect. $(br2)This lets you modify your $(l:bloodmagic:demon_will/demonic_items/sentient_tools)Sentient Tools$() and $(l:bloodmagic:demon_will/demonic_items/sentient_sword)Sword$() accordingly. The effects are defined $(l:bloodmagic:demon_will/will_manipulation/aspected_will#sentient_aspects)here$()."
     },
     {
       "type": "relations",
@@ -44,7 +50,7 @@
         "rituals/ritual_list/ritual_crystal_split",
         "rituals/ritual_list/ritual_crystal_harvest"
       ],
-      "text": "我還能做的更多，我能感覺得到..."
+      "text": "There's more I can do, I can feel it..."
     }
   ]
 }

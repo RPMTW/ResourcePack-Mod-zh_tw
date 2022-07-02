@@ -1,0 +1,12 @@
+{
+  "modifier_id": "tconstruct:double_jump",
+  "text": [
+    {
+      "text": "可以在半空中跳第二次。更高的級別增加了額外的跳躍次數，因此可以三段跳甚至是四段跳。"
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "需要 1 個能力槽"
+  ]
+}

@@ -1,3 +1,10 @@
 {
-    "recipe": "tconstruct:common/tinkers_gadgetry"
+  "title": "匠魂小物合成",
+  "recipe": "tconstruct:common/tinkers_gadgetry",
+  "grid_size": "small",
+  "description": [
+    {
+      "text": "運用史萊姆在日常小物中。Melvin 會教你們如何在世界上找到可以鍛造的材料。"
+    }
+  ]
 }

@@ -1,8 +1,8 @@
 // Sections - Mighty Smelting
 intro=簡介
-entity_melting=生物熔化
+entity_melting=生物熔煉
 tier_three_materials=第三階段材料
-tools=工具
+tools=大型工具
 tools.subtext=大型工具全部都需要匠魂鐵砧來製造
 
 smeltery=冶煉爐
@@ -11,18 +11,27 @@ smeltery.alloying=合金
 smeltery.controller=控制器
 smeltery.structure=結構
 smeltery.structurereq=結構
-tinker_tank=工匠儲罐
+smeltery.sgui1=冶煉爐介面
+smeltery.sgui2=冶煉爐介面解釋
+tinker_tank=焦黑儲罐
 smeltery.seared_blocks=焦黑方塊
 smeltery.seared_ladder=焦黑梯子
 smeltery.seared_glass=焦黑玻璃
-smeltery.seared_drain=焦黑排液孔
-smeltery.seared_duct=焦黑輸導孔
 smeltery.seared_chute=焦黑滑槽
-smeltery.sgui1=冶煉爐介面
-smeltery.sgui2=冶煉爐介面解釋
+smeltery.seared_duct=焦黑輸導孔
+smeltery.seared_drain=焦黑排液孔
 
 abilities=能力
-abilities.general=§1§l通用§r
-abilities.harvest=§1§l挖掘§r
-abilities.weapon=§1§l武器§r
-abilities.interact=§1§l互動§r
+abilities.subtext=能力比起升級更加強大，但是插槽量也受到更大的限制。
+abilities.group_general=一般
+abilities.group_harvest=獲取
+abilities.group_weapon=武器
+abilities.group_interact=互動
+abilities.group_armor=盔甲
+abilities.unarmed=徒手
+upgrades.subtext=工具可以透過升級強化，雖然每個工具的升級次數有限。
+
+defense=防禦
+defense.subtext=防禦強化部件只能用在盔甲上，會消耗防禦槽。
+defense.group_protection=保護
+defense.group_special=特殊

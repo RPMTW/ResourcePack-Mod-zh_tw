@@ -234,5 +234,16 @@
     "farmersdelight.item.skillet.how_to_cook": "用你的另一隻手把食物拿好！",
     "farmersdelight.jei.chance": "%1$s%% 的機率",
     "farmersdelight.jei.info.knife": "小刀是輕量的近戰武器。你可以用它們從草類植物中獲得草稈，也可以擊殺動物以獲得副掉落物。",
-    "farmersdelight.jei.info.ham": "從豬或豬布獸腿上切下的一大塊肉。劍太大了，想切下它你得找一把更輕的工具……"
+    "farmersdelight.jei.info.ham": "從豬或豬布獸腿上切下的一大塊肉。劍太大了，想切下它你得找一把更輕的工具……",
+    "item.farmersdelight.rotten_tomato": "Rotten Tomato",
+    "farmersdelight.advancement.place_organic_compost": "Advanced Composting",
+    "farmersdelight.advancement.place_organic_compost.desc": "Place down some Organic Compost. It composts better with sun, water and mushrooms!",
+    "farmersdelight.advancement.get_fd_seed": "Crops of the Wild",
+    "farmersdelight.advancement.get_fd_seed.desc": "Four new crops may be found in the wild, across many climates... or maybe in a chest somewhere.",
+    "farmersdelight.advancement.hit_raider_with_rotten_tomato": "Boo! Hiss!",
+    "farmersdelight.advancement.hit_raider_with_rotten_tomato.desc": "Throw a Rotten Tomato at one of these pesky raiders!",
+    "farmersdelight.subtitles.rotten_tomato.throw": "Rotten Tomato flies",
+    "farmersdelight.subtitles.rotten_tomato.hit": "Rotten Tomato splatters",
+    "death.attack.farmersdelight.stove": "%1$s was grilled to perfection",
+    "death.attack.farmersdelight.stove.player": "%1$s was thrown on the grill by Chef %2$s"
 }

@@ -1,16 +1,16 @@
 {
-  "name": "Winter Court",
+  "name": "冬之精靈",
   "icon": "feywild:winter_tree_sapling",
   "category": "winter_court",
   "sortnum": 0,
   "pages": [
     {
       "type": "text",
-      "text": "When leaves have fallen and the sky has turned to gray and the night has closed in on the day. That's when the Winter Court reigns supreme in the Feywild. These fey are not concerned with the living and their power struggles. Eventually death will come for us all and their purpose is to make sure the Feywild sees another turn of the year."
+      "text": "當樹葉落下，天空變得灰暗，黑夜在白晝結束。那是冬之精靈最高統治時期。他們不關心生活和權力鬥爭。最終，他們的目的是確保世界迎來新的一年."
     },
     {
       "type": "image",
-      "title": "Frozen Retreat",
+      "title": "凍結！",
       "images": [
         "feywild:textures/patchouli_images/winter_book.png"
       ],
@@ -18,11 +18,11 @@
     },
     {
       "type": "text",
-      "text": "They may seem cold and sullen at a first glance, but they will warm up to anyone who is willing to help the Feywild to its harshest most deadly period. Winter fey tend to be softspoken, slightly morbid and never choose their words without thinking about them. They seem to be a bit on the awkward side when it comes to social dealings, and some prefer the company of the dead. "
+      "text": "乍一看，他們可能顯得冷酷陰鬱，他們會幫助任何人度過最艱難時期。冬之精靈說話溫和，有點病態，從不在不考慮的情況下選擇自己的語言。在社會交往方面，他們似乎有點尷尬，有些人更喜歡與死人作伴。"
     },
     {
       "type": "image",
-      "title": "Winter World Tree",
+      "title": "冬季世界樹",
       "images": [
         "feywild:textures/patchouli_images/winter_worldtree_book.png"
       ],
@@ -31,14 +31,14 @@
     {
       "type": "spotlight",
       "item": "feywild:fey_altar",
-      "title": "Winter World Tree",
-      "text": "The Winter World tree is difficult to find, but it is the home of Queen Mab. Note: Only the pixies are implemented, other court members will be added in later updates. The World Tree also has a Fey altar for you to use."
+      "title": "冬季世界樹",
+      "text": "冬季世界樹很難找到，因為他是冬之精靈的家"
     },
     {
       "type": "spotlight",
       "item": "feywild:crocus_seed",
-      "title": "Giant Crocus",
-      "text": "In the Frozen Retreat you can find giant crocuses. The giant crocus will open it's flower during the day and will close at night. The flower will also drop crcous seeds, which can be used to grow your own giant crocus. "
+      "title": "巨型藏紅花",
+      "text": "在冰凍的隱居地，你可以找到巨大的藏紅花。巨大的藏紅花白天會開放它的花朵，晚上會關閉。這朵花也會撒下藏紅花種子，可以用來種植你自己的巨型藏紅花。"
     }
   ]
 }

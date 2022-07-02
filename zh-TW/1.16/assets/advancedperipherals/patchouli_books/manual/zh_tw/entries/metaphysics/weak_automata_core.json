@@ -1,7 +1,7 @@
 {
   "name": "Weak automata core",
-  "icon": "advancedperipherals:weak_automata_core",
-  "category": "advancedperipherals:metaphysics",
+  "icon": "高級外設：weak_automata_core",
+  "category": "高級外圍：形而上學\n",
   "pages": [
     {
       "type": "spotlight",
@@ -17,7 +17,7 @@
       "type": "link",
       "text": "It provides several ability for turtles.$(li)Digging block with tool;$(li)Click on block with item or empty hand;$(li)Suck item around, all or specific;$(li)Detect items around;$(li)Detect block or turtle in line of view;$(li)Charge turtle with RF item inside inventory",
       "url": "https://docs.srendi.de/items/weak_automata/",
-      "link_text": "API documentation"
+      "link_text": "API 文檔"
     },
     {
       "type": "text",

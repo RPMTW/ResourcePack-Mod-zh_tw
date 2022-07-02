@@ -1,16 +1,16 @@
 {
-  "name": "Seasonal Trees",
+  "name": "四季樹",
   "icon": "feywild:autumn_tree_sapling",
   "category": "feywild",
   "sortnum": 1,
   "pages": [
     {
       "type": "text",
-      "text": "The War between the Seasons can be found everywhere in the Feywild, from small patches to area's overflowing with the season's magic. Normal trees will become enchanted with the magic of the seasons and effect their surrounding areas with that magic. Planting a seasonal sapling will increase the dominance of the specific season in the area."
+      "text": "不同季節爭奪地盤十分常見，從小塊地區到充滿季節魔力的地區。普通的樹木會被季節的魔力吸引，並用這種魔力影響周圍的區域。種植季節性樹苗將增加該地區特定季節的影響。"
     },
     {
       "type": "image",
-      "title": "Fey Trees",
+      "title": "精靈樹",
       "images": [
         "feywild:textures/patchouli_images/trees_book.png"
       ],
@@ -19,38 +19,38 @@
     {
       "type": "spotlight",
       "item": "feywild:spring_tree_sapling",
-      "title": "Spring Sapling",
-      "text": "Flowers from the spring season will grow around the tree."
+      "title": "春之樹苗",
+      "text": "春天的花朵會在樹的周圍生長."
     },
     {
       "type": "spotlight",
       "item": "feywild:summer_tree_sapling",
-      "title": "Summer Sapling",
-      "text": "Flowers from the summer season will grow around the tree and sometimes the tree may be a home for the Summer Court's bees."
+      "title": "夏之樹苗",
+      "text": "夏季的花朵會在樹的周圍生長，有時樹可能是夏季庭院蜜蜂的家."
     },
     {
       "type": "spotlight",
       "item": "feywild:autumn_tree_sapling",
-      "title": "Autumn Sapling",
-      "text": "The area around the tree will soon be filled with fallen leaves. To ward of evil spirits sometimes a carved pumpkin may appear"
+      "title": "秋之樹苗",
+      "text": "樹周圍的地方很快就會被落葉填滿。為了驅邪，有時會出現雕刻的南瓜"
     },
     {
       "type": "spotlight",
       "item": "feywild:winter_tree_sapling",
-      "title": "Winter Sapling",
-      "text": "The Winter tree will be covered in snow."
+      "title": "冬之樹苗",
+      "text": "冬天的樹將被雪覆蓋."
     },
     {
       "type": "crafting",
-      "title": "Fey Wood",
+      "title": "精靈木",
       "recipe": "feywild:spring_tree_wood",
-      "text": "Feywood can be obtained by cutting down one of the Fey trees. Each season has its own Fey Wood."
+      "text": "砍倒其中一棵精靈樹就可以得到精靈木。每一季的精靈都有自己的森林。"
     },
     {
       "type": "spotlight",
       "item": "feywild:fey_dust",
-      "title": "Fey Dust",
-      "text": "The fey trees will also drop fey dust when you cut down their leaves."
+      "title": "精靈塵",
+      "text": "當你砍掉它們的葉子時，它們也會落下精靈塵."
     }
   ]
 }

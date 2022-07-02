@@ -1,11 +1,11 @@
 {
-  "name": "AR Controller",
+  "name": "AR擴充實境控制器",
   "icon": "advancedperipherals:ar_controller",
   "category": "advancedperipherals:peripherals",
   "pages": [
     {
       "type": "text",
-      "text": "The AR Controller is used to control your AR Goggles wirelessly. You can draw anything you wish into an overlay that will be visible as long as you're wearing the goggles.$(p)For the full documentation please see the $(9)$(l:https://docs.srendi.de/peripherals/ar_controller/)official wiki page$(/l)$()!"
+      "text": "AR擴充實境控制器用來無線控制你的AR擴充實境視鏡。你可以繪製任何想要的東西並且於配戴視鏡時疊層於視野。.$(p)完整文件檔請參見$(9)$(l:https://docs.srendi.de/peripherals/ar_controller/)official wiki page$(/l)$()！"
     },
     {
       "type": "crafting",
@@ -24,7 +24,7 @@
           ]
         ]
       },
-      "text": "Connect your AR Controller to a computer to make use of it!"
+      "text": "連接你的AR擴充實境控制器到電腦上使用！"
     }
   ]
 }

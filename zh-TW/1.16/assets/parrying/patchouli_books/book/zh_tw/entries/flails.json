@@ -1,15 +1,15 @@
 {
-  "name": "Flails",
+  "name": "連枷",
   "icon": "parrying:gold_flail",
   "category": "parrying:weapons",
   "pages": [
     {
       "type": "text",
-      "text": "The flail is a peculiar weapon. It consists of a handle with a heavy weight attached to the end by a chain. By any account, this so called \"Weapon\" should cause more damage to the wielder than its target. $(br2) However, in the hands of a skilled wielder, the flail has several unique characteristics that make it a worthwhile weapon."
+      "text": "槤枷是一種奇特的武器。它由一個手把組成，末端用鏈條連接著一個重物。從任何角度看，這種所謂的「武器」對持有者造成的傷害應該比對其目標造成的傷害更大。 $(br2) 然而，在熟練的戰士手中，連枷有幾個獨特的特點，使它成為一種有價值的武器。"
     },
     {
       "type": "text",
-      "text": "For a bludgeoning weapon, the flail is rather light, and its unique balance makes it quite fast. The lack of weight unfortunately reduces its armor penetration, but this is made up for the flail's utility against shields. The articulated nature of the flail allows it to swing around a shield, with a portion of its energy carrying through to the head, allowing it to strike the target behind the shield. This ability is very useful against those who put too much faith in their shields."
+      "text": "對於一把打擊武器來說，連枷相當輕，其獨特的平衡使其速度相當快。不幸的是，重量不足降低了它的穿透力，但這也彌補了它對盾牌的效用。連枷的鉸接性質使它能夠繞著盾牌擺動，其中一部分能量會傳遞到頭部，使其能夠打擊盾牌後面的目標。這種能力對那些過於相信他們的盾牌的人非常有用。"
     }
   ]
 }

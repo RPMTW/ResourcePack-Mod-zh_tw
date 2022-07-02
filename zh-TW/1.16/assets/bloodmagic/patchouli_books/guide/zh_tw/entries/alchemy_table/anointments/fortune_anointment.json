@@ -11,15 +11,15 @@
     },
     {
       "type": "crafting_alchemy_table",
-      "heading": "Fortuna Extract L",
+      "heading": "福耳圖那精華L",
       "recipe": "bloodmagic:alchemytable/fortune_anointment_l",
-      "text": "這個升級版的藥水膏持續時間延長了四倍。 $(br2)適用：幸運I(1024塊)"
+      "text": "這個升級版的藥水膏持續時間延長了四倍。 $(br2)適用：幸運I(1024格方塊)"
     },
     {
       "type": "crafting_alchemy_table",
-      "heading": "Fortuna Extract II",
+      "heading": "福耳圖那精華II",
       "recipe": "bloodmagic:alchemytable/fortune_anointment_2",
-      "text": "這個升級版的藥水膏增加了產量。 $(br2)適用：幸運I(256塊)"
+      "text": "這個升級版的藥水膏增加了產量。 $(br2)適用：幸運I(256格方塊)"
     }
   ]
 }

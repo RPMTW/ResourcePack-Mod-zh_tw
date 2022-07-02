@@ -1,3 +1,10 @@
 {
-    "recipe": "tconstruct:common/fantastic_foundry"
+  "title": "奇異鑄造",
+  "recipe": "tconstruct:common/fantastic_foundry",
+  "grid_size": "small",
+  "description": [
+    {
+      "text": "熔煉金屬熱門最新科技。冶煉爐就放著吧，讓我們用鑄造爐！"
+    }
+  ]
 }

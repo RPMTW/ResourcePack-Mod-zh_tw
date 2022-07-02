@@ -1,5 +1,5 @@
 {
-  "name": "Ghasts",
+  "name": "高塔迷你幽靈",
   "icon": "twilightforest:mini_ghast_spawn_egg",
   "category": "entities",
   "advancement": "twilightforest:alt/entities/ghasts",
@@ -13,7 +13,7 @@
     {
       "type": "text",
       "advancement": "twilightforest:alt/entities/mini_ghast",
-      "text": "The Carminite Ghastling is smaller than an average Ghast, but by no means does this make it weaker or less formiddable. In fact, its smaller size enables it to creep up on unsuspecting prey far easier than its larger counterparts."
+      "text": "高塔迷你幽靈比一般的地獄幽靈小，但這絕不會使它變弱或不那麼可怕。事實上，它較小的體型使它比較大的同類更容易捕獵毫無戒心的獵物。"
     },
     {
       "type": "entity",
@@ -23,7 +23,7 @@
     {
       "type": "text",
       "advancement": "twilightforest:alt/entities/tower_ghast",
-      "text": "Carminite Ghastguards are found exclusively in the skies surrounding the menacing Dark Towers, located in the Dark Forest. They differ little from their cousins in the Nether, but their skin is ribbed and veined with a mysterious redness. One may wonder what substance runs beneath..."
+      "text": "高塔迷你幽靈只能在位於黑暗森林中險惡的黑暗之塔周圍的天空中找到。他們與地獄的表親幾乎沒有什麼不同，但他們的皮膚有棱紋和脈絡，帶有神秘的紅色。某人可能想知道下面是什麼物質……"
     }
   ]
 }

@@ -1,17 +1,17 @@
 {
-  "name": "Simple Keys",
+  "name": "簡易鑰匙",
   "icon": "bloodmagic:simplekey",
   "category": "bloodmagic:dungeons",
   "pages": [
     {
       "type": "text",
-      "text": "Simple Keys are the primary way of navigating $(thing)Dungeons$(). They can be found inside dungeon chests within the Demon Realm, or they can be crafted."
+      "text": "簡易鑰匙是你在探索$(thing)地牢$()時不可或缺的工具。你可以在惡魔領域的地牢中找到一些，或者你也可以自己合成。"
     },
     {
       "type": "crafting_soulforge",
-      "heading": "Simple Key",
+      "heading": "簡易鑰匙",
       "recipe": "bloodmagic:soulforge/simple_key",
-      "text": "$(italic)If it's so simple, why can't we just pick the lock?$()"
+      "text": "$(italic)簡易？如果它真有那麼簡易，為什麼你還能用它來撬鎖呢？$()"
     }
   ]
 }

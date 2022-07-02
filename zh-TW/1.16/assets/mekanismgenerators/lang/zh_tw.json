@@ -195,5 +195,9 @@
     "turbine.mekanismgenerators.stats.vents": "排氣口數量：%s %s",
     "turbine.mekanismgenerators.steam_input": "蒸汽輸入：%s mB/t",
     "wind_generator.mekanismgenerators.no_wind": "無風",
-    "wind_generator.mekanismgenerators.sky_blocked": "上方被遮擋"
+    "wind_generator.mekanismgenerators.sky_blocked": "上方被遮擋",
+    "description.mekanismgenerators.geothermal_generator_unit": "Harnesses geothermal energy from the surrounding environment, and improves protection against damage from heat sources. Install multiple for faster charging and greater protection.",
+    "fission.mekanismgenerators.force_disabled": "Reactor must reach safe damage and temperature levels before it can be reactivated.",
+    "module.mekanismgenerators.geothermal_generator_unit": "Geothermal Generator Unit",
+    "turbine.mekanismgenerators.invalid_missing_coils": "Couldn't form, no Electromagnetic Coils present."
 }

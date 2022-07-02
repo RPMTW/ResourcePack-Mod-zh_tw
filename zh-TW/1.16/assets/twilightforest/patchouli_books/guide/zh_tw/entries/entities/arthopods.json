@@ -1,5 +1,5 @@
 {
-  "name": "Arthopods",
+  "name": "節肢動物",
   "icon": "twilightforest:pinch_beetle_spawn_egg",
   "category": "entities",
   "advancement": "twilightforest:alt/entities/arthopods",
@@ -13,7 +13,7 @@
     {
       "type": "text",
       "advancement": "twilightforest:alt/entities/hedge_spider",
-      "text": "These 8-legged maze dwellers are fearsome and swift in their attacks, and will stop at nothing to defend their coveted treasures."
+      "text": "這些8條腿的迷宮居民的攻擊可怕又迅速，並且會不惜一切代價捍衛他們夢寐以求的寶藏。"
     },
     {
       "type": "entity",
@@ -23,7 +23,7 @@
     {
       "type": "text",
       "advancement": "twilightforest:alt/entities/swarm_spider",
-      "text": "The chances of encountering these small arthopods in dark, treasure filled locations are high. Thankfully, their large numbers and group attacks can't penetrate through tough armour, but that sea of legs is enough to make less courageous individuals falter in their stead."
+      "text": "在黑暗、充滿寶藏的地方遇到這些小型節肢動物的機率很高。 謝天謝地，他們雖然數量眾多但群體攻擊無法穿透堅固的盔甲，但那片腿海足以讓不那麼勇敢的人為他們躊躇。"
     },
     {
       "type": "entity",
@@ -63,7 +63,7 @@
     {
       "type": "text",
       "advancement": "twilightforest:alt/entities/mosquito_swarm",
-      "text": "These tiny insects are extremely irritating and hinder explororation much through the Swamp biome. Their high-pitched buzzing sound and stubborness follow creatures everywhere they go, and they seem to inflict an insatiable hunger upon their victims, like a poison of sorts."
+      "text": "這些微小的昆蟲非常惱人，阻礙了對沼澤生態域的探索。它們高亢的嗡嗡聲和固執的聲響跟隨著生物，無論走到哪裡，它們似乎給受害者帶來了貪得無厭的饑餓感，就像某種毒藥一樣。"
     },
     {
       "type": "entity",
@@ -73,7 +73,7 @@
     {
       "type": "text",
       "advancement": "twilightforest:alt/entities/king_spider",
-      "text": "The King Spider certainly lives up to its name! This massive arthopod would make short work of an enemy, and that's even without the Skeleton Druid atop its back."
+      "text": "國王蜘蛛果然名不虛傳！ 這種巨大的節肢動物可以非常快速地解決敵人，即使它的背上沒有骷髏德魯伊也是如此。"
     },
     {
       "type": "entity",
@@ -83,7 +83,7 @@
     {
       "type": "text",
       "advancement": "twilightforest:alt/entities/tower_termite",
-      "text": "Towerwood Borer's bear a striking resemblance to Overworld Silverfish; however, an unusual shine is noticeable on their scales, perhaps it is a kind of essence?..."
+      "text": "塔木蛀蟲與主世界的蠹魚有著驚人的相似之處；然而，它們的鱗片卻散發出一種不尋常的光芒，也許這是某種物質？..."
     },
     {
       "type": "entity",
@@ -93,7 +93,7 @@
     {
       "type": "text",
       "advancement": "twilightforest:alt/entities/tower_broodling",
-      "text": "The Tower Broodling is somewhat related to its cousin the Swarm Spider, but not as weak."
+      "text": "高塔蜘蛛與它的表親群聚蜘蛛有些關係，但沒有那麼弱。"
     }
   ]
 }

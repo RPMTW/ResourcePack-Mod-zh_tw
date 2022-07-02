@@ -701,7 +701,7 @@
     "block.immersiveengineering.storage_nickel": "鎳塊",
     "block.immersiveengineering.storage_uranium": "鈾塊",
     "block.immersiveengineering.storage_constantan": "康銅方塊",
-    "block.immersiveengineering.storage_electrum": "琥珀黃金方塊",
+    "block.immersiveengineering.storage_electrum": "琥珀金方塊",
     "block.immersiveengineering.storage_steel": "鋼塊",
     "block.immersiveengineering.slab_storage_copper": "銅半磚",
     "block.immersiveengineering.slab_storage_aluminum": "鋁半磚",
@@ -881,7 +881,7 @@
     "block.immersiveengineering.current_transformer": "電流互感器",
     "block.immersiveengineering.connector_redstone": "紅石接線器",
     "block.immersiveengineering.connector_probe": "紅石探測接線器",
-    "block.immersiveengineering.connector_bundled": "紅石介面連接器",
+    "block.immersiveengineering.connector_bundled": "紅石接口連接器",
     "block.immersiveengineering.feedthrough": "通透絕緣體",
     "block.immersiveengineering.capacitor_lv": "低壓電容器",
     "block.immersiveengineering.capacitor_mv": "中壓電容器",
@@ -1039,7 +1039,7 @@
     "item.immersiveengineering.hammer": "工程師錘",
     "item.immersiveengineering.wirecutter": "工程師剪線鉗",
     "item.immersiveengineering.screwdriver": "工程師螺絲刀",
-    "item.immersiveengineering.voltmeter": "工程師電錶",
+    "item.immersiveengineering.voltmeter": "工程師電表",
     "item.immersiveengineering.manual": "工程師手冊",
     "item.immersiveengineering.toolbox": "工程師工具箱",
     "item.immersiveengineering.pickaxe_steel": "鋼鎬",
@@ -1231,5 +1231,7 @@
     "effect.immersiveengineering.sticky.description": "嚴重減速，無法跳躍",
     "effect.immersiveengineering.stunned.description": "受到眩暈影響的終界使者無法進行瞬移。對玩家沒有影響",
     "effect.immersiveengineering.concrete_feet.description": "無法移動或跳躍。當實體不再站在混凝土上時，該效果立即結束",
-    "effect.immersiveengineering.flashed.description": "受其影響的玩家的畫面會閃白，使他們暫時失明"
+    "effect.immersiveengineering.flashed.description": "受其影響的玩家的畫面會閃白，使他們暫時失明",
+    "stat.immersiveengineering.skyhook_distance": "Distance by Skyhook",
+    "stat.immersiveengineering.wire_deaths": "Deaths due to Wires"
 }

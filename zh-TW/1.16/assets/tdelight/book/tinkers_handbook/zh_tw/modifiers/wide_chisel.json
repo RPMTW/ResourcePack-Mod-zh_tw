@@ -1,0 +1,16 @@
+{
+  "modifier_id": "tdelight:wide_chisel",
+  "text": [
+    {
+      "text": "Refinement of the jackhammer chisel with elementary sympathetic magic, as well as component restructure, enables access to a wider domain. "
+    },
+    {
+      "text": "It is not without its price, however, as unavoidable resynchronizations dethrottle the machine."
+    }
+  ],
+  "effects": [
+    "+1 to wide",
+    "Slows down the tool",
+    "Jackhammer only"
+  ]
+}

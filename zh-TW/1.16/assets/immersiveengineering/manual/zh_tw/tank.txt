@@ -1,3 +1,3 @@
 儲罐
-Full to the brim!
-The Tank is a multiblock that provides space for large amounts of fluid. It will store up to 512 buckets of any fluid, which can be piped in through the top or bottom block. Fluids can only be extracted from the bottom center block. Applying a redstone signal to the bottom center block will make the tank output automatically, a comparator placed there will emit a redstone signal proportional to how full the tank is. Attaching the comparator to one of the top 4 layers results in a signal proportional to the height of the comparator. For example, a comparator attached to the second layer of a tank would not emit any signal until the tank is 1/4 full and have a signal strength of 15 if the tank is half full or more.
+正好堆滿！
+儲罐是一個多方塊結構，為大量的流體提供了空間。 它可以儲存多達 512 桶的任何流體，這些流體可以用管道通過頂部或底部的方塊輸入。 流體只能從底部中心方塊中提取。 將紅石信號用於底部中心方塊將使儲罐自動輸出，放置在那裡的比較器將發出與其滿度相關的紅石信號。 將比較器連接到前四層之一，可以產生與比較器的高度成比例的信號。 例如一個連結在第二層的比較器，在儲罐 1/4 滿之前不會發出任何信號，如果儲罐是半滿或更多，則信號強度為 15。

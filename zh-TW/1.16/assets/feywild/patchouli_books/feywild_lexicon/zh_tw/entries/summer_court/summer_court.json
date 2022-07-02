@@ -1,16 +1,16 @@
 {
-  "name": "Summer Court",
+  "name": "夏之精靈",
   "icon": "feywild:summer_tree_sapling",
   "category": "summer_court",
   "sortnum": 0,
   "pages": [
     {
       "type": "text",
-      "text": "The Summer Court is the primary reigning Court within the Feywild and they know it. Haughty and demanding, they expect anyone who addresses them to treat them as the royals they are. The other Courts and inhabitants of the Feywild are there to serve them, and though polite, they demand recognition of their self-claimed royal status."
+      "text": "夏之森林是夏之精靈的主要統治的地區，他們知道這一點。他們傲慢而苛求，希望任何向他們講話的人都能像對待皇室成員一樣對待他們。儘管他們很有禮貌，但他們要求承認自己聲稱的王室地位。"
     },
     {
       "type": "image",
-      "title": "Golden Seelie Fields",
+      "title": "金色西利田野",
       "images": [
         "feywild:textures/patchouli_images/summer_book.png"
       ],
@@ -18,11 +18,11 @@
     },
     {
       "type": "text",
-      "text": "The Summer Court defend the Feywild against intruders which seek to take a hold of the Faerie Court's riches and are more combat orientated then the other Courts. They are quick to answer any threat or opposition with their righteous judgment."
+      "text": "夏之森林保護人們免受入侵者的侵害，入侵者試圖佔有精靈的財富，夏之精靈比其他精靈更注重戰鬥。他們很快就以正義的判斷力回應任何威脅."
     },
     {
       "type": "image",
-      "title": "Summer World Tree",
+      "title": "夏季世界樹",
       "images": [
         "feywild:textures/patchouli_images/summer_worldtree_book.png"
       ],
@@ -31,14 +31,14 @@
     {
       "type": "spotlight",
       "item": "feywild:fey_altar",
-      "title": "Summer World Tree",
-      "text": "The Summer World tree is difficult to find, but it is the home of Queen Titania. Note: Only the pixies are implemented, other court members will be added in later updates. The World Tree also has a Fey altar for you to use."
+      "title": "夏季世界樹",
+      "text": "夏天的世界樹很難找到，因為他是夏之精靈的家。"
     },
     {
       "type": "spotlight",
       "item": "feywild:sunflower_seed",
-      "title": "Giant Sunflower",
-      "text": "In the Golden Seelie Fields you can find giant sunflowers. The giant sunflowers will face the sun's position. The flower will also drop sunflower seeds, which can be used to grow your own giant sunflowers. "
+      "title": "巨型向日葵",
+      "text": "在金色的西利田野，你可以找到巨大的向日葵。巨大的向日葵將面對太陽的位置。這朵花也會撒下葵花籽，可以用來種植你自己的巨型向日葵。 "
     }
   ]
 }

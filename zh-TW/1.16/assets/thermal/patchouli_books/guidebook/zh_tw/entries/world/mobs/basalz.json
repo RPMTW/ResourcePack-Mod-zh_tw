@@ -17,6 +17,16 @@
             "entity": "thermal:basalz",
             "title": "岩石人",
             "text": "Sundered: Decreases the efficacy of armor by 25% per level."
+        },
+        {
+            "type": "text",
+            "title": "Behavior",
+            "text": "The basalz is a bold elemental that specializes in close combat. It spawns 8 orbiting projectiles that hit anything unfortunate enough to get within 4 blocks. Each hit consumes one projectile. Once all projectiles are consumed, the basalz retreats and takes 5 seconds to recharge 8 more projectiles."
+        },
+        {
+            "type": "text",
+            "title": "Strategy",
+            "text": "The easiest way to deal with the basalz is with a ranged weapon. In melee situations, even armored players may have difficulty tanking all 8 projectiles because they apply Sundered. It is best to use a shield to absorb the impact of all 8 projectiles, then attack the basalz while it's vulnerable. Alternatively, leading the basalz to other mobs will let them take the damage."
         }
     ]
 }

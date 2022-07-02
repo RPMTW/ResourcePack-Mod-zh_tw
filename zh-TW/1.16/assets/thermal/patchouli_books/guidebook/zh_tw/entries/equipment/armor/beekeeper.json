@@ -11,18 +11,18 @@
         },
         {
             "type": "crafting",
-            "recipe": "thermal:beekeeper_fabric",
+            "A.recipe": "thermal:beekeeper_fabric",
             "text": "Fabric used for all beekeeper equipment."
         },
         {
             "type": "crafting",
-            "recipe": "thermal:armor/beekeeper_helmet",
-            "recipe2": "thermal:armor/beekeeper_chestplate"
+            "A.recipe": "thermal:armor/beekeeper_helmet",
+            "B.recipe": "thermal:armor/beekeeper_chestplate"
         },
         {
             "type": "crafting",
-            "recipe": "thermal:armor/beekeeper_leggings",
-            "recipe2": "thermal:armor/beekeeper_boots"
+            "A.recipe": "thermal:armor/beekeeper_leggings",
+            "B.recipe": "thermal:armor/beekeeper_boots"
         }
     ]
 }

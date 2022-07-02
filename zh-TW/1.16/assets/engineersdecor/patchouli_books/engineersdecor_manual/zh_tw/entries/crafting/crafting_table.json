@@ -1,5 +1,5 @@
 {
-  "name": "Metal Crafting Table",
+  "name": "金屬工作台",
   "icon": "engineersdecor:metal_crafting_table",
   "category": "crafting",
   "sortnum": 5010,
@@ -7,7 +7,7 @@
     {
       "type": "spotlight",
       "title": "Crafting Table",
-      "item": "engineersdecor:metal_crafting_table",
+      "item": "金屬工作台",
       "text": "This engineering themed workbench allows manual 3x3 crafting. It comes with some convenience tweaks, which are not visible at the first look. These features will be explained on the next pages."
     },
     {
@@ -25,7 +25,7 @@
       "text": "crafting grid (exactly where you placed them before).$(br)If you do not have the exact ingredients in your inventory, replacements will be searched and placed instead (e.g. Spruce Planks instead of Oak Planks for a recipe that just needs any planks).$(br)Only one item of each ingredient is placed when clicking the result slot, no matter if you have crafted more the last time. You can easily increase the stack sizes (read section $(o)Item Transfer Tweaks$())."
     },
     {
-      "title": "Quick Refabrication",
+      "title": "快速再造",
       "type": "text",
       "text": "If you have an item in your inventory and like to craft more of it, simply drag this item into the (empty) result slot. A recipe for this item will be searched and shown. Click again to automatically place the needed materials from your inventory, and a third time to craft. Done. The first recipe for which you have all ingredients will be preferred; so are recipes in your crafting history."
     },

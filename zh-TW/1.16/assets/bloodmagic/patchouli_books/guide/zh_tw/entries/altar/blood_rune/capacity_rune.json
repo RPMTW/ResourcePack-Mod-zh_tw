@@ -5,7 +5,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "每一個$(item)增容符文$()能增加$(l:bloodmagic:altar/blood_altar)血之祭壇$(/l)20%的容量（以累加方式計算）"
+      "text": "$(item)增容符文$()可以提升$(l:bloodmagic:altar/blood_altar)血之祭壇$(/l)的容量，每個符文疊加 20%。"
     },
     {
       "type": "crafting",

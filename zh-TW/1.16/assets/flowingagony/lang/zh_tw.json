@@ -140,5 +140,15 @@
     "enchantment.flowingagony.source_of_envy.desc": "對你成功的攻擊將令突襲者的同類產生嫉妒。",
     "enchantment.flowingagony.back_and_fill.desc": "不以你為首要目標的怪物將受到更多的傷害。",
     "enchantment.flowingagony.scholar_of_original_sin.desc": "學習罪孽將讓你身軀更加脆弱，但也讓你能更好地分析經驗。",
-    "enchantment.flowingagony.original_sin_erosion.desc": "罪孽的侵蝕讓你失去了部分力量，但也讓你能更好地分析經驗。"
+    "enchantment.flowingagony.original_sin_erosion.desc": "罪孽的侵蝕讓你失去了部分力量，但也讓你能更好地分析經驗。",
+    "effect.flowingagony.cursed_hatred.description": "Greatly strengthens the damage inflicted on one.",
+    "effect.flowingagony.cursed_antipathy.description": "Causes antipathy damage which ignores armor to target.",
+    "effect.flowingagony.extreme_hatred.description": "Tremendously increases attack damage but consumes more hunger points at pretty fast rate. Lasts until you kill a creature.",
+    "effect.flowingagony.agony_resonance.description": "Imposes the status effect \"Been Resonated\" on all the nearby mobs.",
+    "effect.flowingagony.been_resonated.description": "Causes damage as you took to all the nearby creatures who are in the debuff \"Agony Resonance\".",
+    "effect.flowingagony.let_me_savor_it.description": "Decreases your attack damage and instead gives the attacker a certain damage. This buff will vanish once your hearts are higher than 12.",
+    "effect.flowingagony.listen_to_me_singing.description": "The victim will be repeatedly forcibly lifted and then smashed towards the ground.",
+    "effect.flowingagony.curse_of_undead.description": "You burn like a zombie under daylight! A helmet is necessary to block the damage. Largely increases the damage of fire and enables fire to cause damage on helmets. Rather than milk, the debuff can only be removed by enchanted golden apples or death. No more negative effects of hunger under this debuff and you can restore 1 hearts and obtain 3 seconds of buff \"Strength Ⅰ\" by eating rotten meat.",
+    "effect.flowingagony.lightburn_fungal_infection.description": "Causes lightburn fungal infection damage. Players with the enchantment \"Lightburn Fungal Parasitic\" are free from this effect.",
+    "effect.flowingagony.envious_being.description": "Increases attack damage."
 }

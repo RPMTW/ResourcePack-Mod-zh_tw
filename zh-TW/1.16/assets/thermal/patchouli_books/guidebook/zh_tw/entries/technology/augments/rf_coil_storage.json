@@ -6,7 +6,7 @@
     "pages": [
         {
             "type": "crafting",
-            "recipe": "thermal:augments/rf_coil_storage_augment",
+            "A.recipe": "thermal:augments/rf_coil_storage_augment",
             "title": "穩態通量線圈",
             "text": "The Stabilized RF Coil augment scales the RF storage by 6 and the RF transfer by 2."
         }

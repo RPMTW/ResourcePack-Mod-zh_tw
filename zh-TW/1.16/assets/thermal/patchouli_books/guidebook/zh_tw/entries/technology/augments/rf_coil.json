@@ -6,7 +6,7 @@
     "pages": [
         {
             "type": "crafting",
-            "recipe": "thermal:augments/rf_coil_augment",
+            "A.recipe": "thermal:augments/rf_coil_augment",
             "title": "擴展通量線圈",
             "text": "The Expanded RF Coil augment scales RF storage and transfer by 4."
         }

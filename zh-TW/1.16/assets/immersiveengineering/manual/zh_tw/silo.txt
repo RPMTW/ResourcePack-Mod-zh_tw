@@ -1,5 +1,5 @@
-Silo
-Full to the brim!
-Silos offer space for a lot of items of the same type, making them excellent for mass storage of seeds, slag or cobblestone. They have space for 41472 items, equaling the capacity of 24 chests.
-Items must be input through the top and extracted from the bottom. Applying a redstone signal to the bottom block will make it output automatically.
-A comparator attached to the bottom center block will it emit a redstone signal proportional to how full the silo is. Attaching the comparator to one of the top 6 layers results in a signal proportional to the height of the comparator. For example, a comparator attached to the third layer of a silo would not emit any signal until the tank is 2/6 full and have a signal strength of 15 if the silo is half full or more.
+筒倉
+正好堆滿！
+筒倉為大量同種類型的物品提供了空間，這使得它們非常適合大量儲存種子、礦渣或鵝卵石。 它們有41472個物品的空間，相當於24個箱子的容量。
+物品必須通過頂部輸入並從底部提取。 對底部方塊應用紅石信號將使其自動輸出。
+連接到底部中心塊的比較器將發出與筒倉的滿度成比例的紅石信號。 將比較器連接到前六層之一會產生與比較器的高度成比例的信號。 例如一個連結在筒倉第三層的比較器不會發出任何信號，直到筒倉是2/6滿，如果筒倉是半滿或更多，信號強度則為15。

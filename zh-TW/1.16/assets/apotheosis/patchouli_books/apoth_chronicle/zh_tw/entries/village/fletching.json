@@ -1,0 +1,44 @@
+{
+    "name": "制箭",
+    "icon": "minecraft:fletching_table",
+    "category": "apotheosis:village/village",
+    "flag": "apotheosis:village",
+    "sortnum": -1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "神化引入了一種名為$(9)制箭$()的新型製作類型。$(p)它可以讓您更有效地製作箭矢。$(p)除了新製作類型之外，還有新的箭矢。"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "apotheosis:obsidian_arrow",
+            "link_recipe": true,
+            "text": "$(9)黑曜石箭$()是普通箭矢的直接升級。$(p)它使所有遠程攻擊造成 20% 的額外傷害。"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "apotheosis:broadhead_arrow",
+            "anchor": "寬頭箭",
+            "link_recipe": true,
+            "text": "$(9)寬頭箭$()適合長時間的戰鬥。$(p)每次擊中都會造成流血。每次額外命中都會刷新流血的持續時間，並增加目標的流血等級。"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "apotheosis:explosive_arrow",
+            "link_recipe": true,
+            "text": "$(9)爆炸箭$()最適合對付群體目標。$(p)它會在撞擊時引起爆炸。"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "apotheosis:iron_mining_arrow",
+            "link_recipe": true,
+            "text": "$(9)鐵頭採礦箭$()就像一把飛天鎬。$(p)所有被箭擊中的方塊都會被挖掘，就像被鐵鎬挖掘一樣。"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "apotheosis:diamond_mining_arrow",
+            "link_recipe": true,
+            "text": "$(9)鑽石頭採礦箭$()是一把更好的飛天鎬！$(p)所有被箭擊中的方塊都會被挖掘，就像被鑽石鎬挖掘一樣。"
+        }
+    ]
+}
