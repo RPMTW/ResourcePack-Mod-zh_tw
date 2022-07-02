@@ -5,22 +5,22 @@
   "pages": [
     {
       "type": "text",
-      "text": "在製作青銅之前，我們需要製作一把鍛造鎚。它用於基本處理步驟。$(br2)您可以將鐵、銅和錫礦放入鍛造鎚中，每個礦石將獲得 2 個原礦。您可以使用鎚子來增加這個比率。每一種原礦都可以熔煉成錠。"
-    },
-    {
-      "type": "crafting",
-      "recipe": "modern_industrialization:materials/iron/craft/hammer",
-      "text": "鎚子增加了鍛造鎚的比例並解鎖了更多的配方，但代價是一些耐久度"
+      "text": "在製作青銅前，我們需要一個鍛造台。鍛造台可以鎚鍊或鋸開物品。$(br2)你可以放入鐵、銅和錫礦，之後你會獲得 2 個礦物碎粉。每個礦物碎粉可熔煉為一塊錠。"
     },
     {
       "type": "crafting",
       "recipe": "modern_industrialization:forge_hammer",
-      "text": "現在，您可能需要考慮製作蒸汽採礦鑽頭來直接獲得礦石，而無需絲綢之觸鎬。"
+      "text": "現在，您可能要考慮製作一個蒸汽採礦鑽頭... 查看下一頁！"
     },
     {
       "type": "crafting",
       "recipe": "modern_industrialization:tools/steam_mining_drill",
-      "text": "蒸汽採礦鑽機一次可開採 3x3 的方塊，非常適合您的早期遊戲採礦需求！它還具有與鍛造鎚完美結合的絲綢之觸。"
+      "text": "蒸汽採礦鑽頭一次可以挖掘 3x3 方塊，非常適合您早期的遊戲挖掘需求！"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:tools/steam_mining_drill",
+      "text": "蒸汽採礦鑽頭需要水和固體燃料（例如煤）。$(br2)在水源上按右鍵來將其注滿水，並確定永遠藉由在物品欄中的燃料物品上按右鍵來在鑽頭中放一些燃料。當你開採時，燃料會慢慢消耗。"
     },
     {
       "type": "text",
