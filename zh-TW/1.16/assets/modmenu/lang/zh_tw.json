@@ -13,7 +13,7 @@
     "modmenu.authorPrefix": "作者：%s",
     "modmenu.search": "搜索模組",
     "modmenu.clientsideOnly": "客戶端",
-    "modmenu.deprecated": "已棄用",
+    "modmenu.deprecated": "Deprecated",
     "modmenu.library": "前置",
     "modmenu.toggleFilterOptions": "切換過濾選項",
     "modmenu.showingMods.a": "當前顯示%s個模組",
@@ -105,5 +105,7 @@
     "modmenu.coindrop": "Coindrop",
     "option.modmenu.log_deprecation_warnings": "Deprecation Warnings: %s",
     "option.modmenu.log_deprecation_warnings.true": "開啟",
-    "option.modmenu.log_deprecation_warnings.false": "關閉"
+    "option.modmenu.log_deprecation_warnings.false": "關閉",
+    "category.modmenu.name": "Mod Menu",
+    "key.modmenu.open_menu": "Open Mod Menu"
 }
