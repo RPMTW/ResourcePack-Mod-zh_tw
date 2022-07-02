@@ -21,12 +21,12 @@
         },
         {
             "type": "patchouli:text",
-            "text": "當安裝在蜂巢中時，幼蜂升級將為生活在蜂巢內的蜜蜂提供一個很小的機會來繁殖和生產新的後代，而無需您的參與。$(br)當安裝在$(l:blocks/catcher)捕捉器$(/l)中時，只有幼蜂會被捕獲並放在籠子裡。"
+            "text": "When installed in a hive, the BaBee upgrade will give a small chance for the bees living inside the hive to breed and produce new offspring without your involvement. Note that bees which can't breed normally do not work with this upgrade. $(br)When installed in a $(l:blocks/catcher)catcher$(/l), only BaBees will be caught and put in cages."
         },
         {
             "type": "patchouli:crafting",
             "recipe": "productivebees:upgrades/productivity",
-            "text": "可用於：$(l:hives/advanced_hives#expanded)擴展蜂箱$(/l)。",
+            "text": "Usable in: $(l:hives/advanced_hives#expanded)Expanded Hives$(/l), $(l:blocks/honey_generator)Honey Generator(/l).",
             "anchor": "productivity"
         },
         {
@@ -36,7 +36,7 @@
         {
             "type": "patchouli:crafting",
             "recipe": "productivebees:upgrades/time",
-            "text": "可用於：$(l:hives/advanced_hives#expanded)擴展蜂箱$(/l)、$(l:blocks/centrifuge)離心機$(/l)、$(l:blocks/incubator)孵化器$(/l)。",
+            "text": "Usable in: $(l:hives/advanced_hives#expanded)Expanded Hives$(/l), $(l:blocks/centrifuge)Centrifuge$(/l), $(l:blocks/incubator)Incubator$(/l), $(l:blocks/honey_generator)Honey Generator(/l).",
             "anchor": "speed"
         },
         {
@@ -56,12 +56,12 @@
         {
             "type": "patchouli:crafting",
             "recipe": "productivebees:upgrades/range",
-            "text": "可用於：$(l:blocks/catcher)捕捉器$(/l)。",
+            "text": "Usable in: $(l:hives/advanced_hives#expanded)Expanded Hives$(/l), $(l:blocks/catcher)Catcher$(/l).",
             "anchor": "range"
         },
         {
             "type": "patchouli:text",
-            "text": "當安裝在捕捉器中時，範圍升級將使所有方向的操作區域擴大 1 格。 可以安裝多個範圍升級。"
+            "text": "When installed in a hive, the operating range of Farmer and Collector/Hoarder bees is increased by 1 per upgrade, from default 4. When installed in a catcher, the Range upgrade will expand the area of operation by 1 block is all directions. Multiple range upgrades can be installed."
         },
         {
             "type": "patchouli:crafting",
@@ -82,6 +82,16 @@
         {
             "type": "patchouli:text",
             "text": "當安裝在蜂箱中時，每次訪問都會提取一小部分授粉蜜蜂。根本不應該傷害牠們。"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "productivebees:upgrades/comb_block",
+            "text": "Usable in: $(l:hives/advanced_hives#expanded)Expanded Hives$(/l).",
+            "anchor": "comb_block"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "When installed in a hive, Lumber and Quarry bees will produce full blocks instead of chips."
         }
     ]
 }
