@@ -86,5 +86,11 @@
     "crafttweaker.command.recipes.hand.empty": "無法取得空物品堆疊的配方！",
     "crafttweaker.reload.complete": "CraftTweaker 重新載入完成！",
     "crafttweaker.reload.start": "即將開始重新載入 CraftTweaker！",
-    "crafttweaker.script.load.start": "開始載入載入器的腳本 '%s'"
+    "crafttweaker.script.load.start": "開始載入載入器的腳本 '%s'",
+    "crafttweaker.command.description.dump.loot_tables": "Outputs the names of all registered loot tables",
+    "crafttweaker.command.misc.loot_tables": "Loot Tables",
+    "crafttweaker.command.misc.fluid": "Fluid",
+    "crafttweaker.script.load.end.error": "An error occurred while loading scripts: please check the log",
+    "crafttweaker.script.load.end.noerror": "Loading completed without errors",
+    "crafttweaker.command.description.recipes.inventory": "Outputs information on all Recipes for the items in the player's inventory"
 }
