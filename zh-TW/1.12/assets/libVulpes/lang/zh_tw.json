@@ -1,5 +1,5 @@
 {
-    "itemGroup.multiBlock": "Multi Block Machine Parts",
+    "itemGroup.multiBlock": "多方塊機器部件",
     "item.Linker.name": "連接器",
     "tile.hatch.0.name": "輸入口",
     "tile.hatch.1.name": "輸出口",
@@ -29,7 +29,7 @@
     "tile.enhancedMotor.name": "強化馬達",
     "tile.eliteMotor.name": "精英馬達",
     "item.holoProjector.name": "全息投影器",
-    "msg.linker.error.firstMachine": "This must be the first machine to link!",
+    "msg.linker.error.firstMachine": "你必須從這台機器開始連接！",
     "msg.linker.program": "坐標已編入連接器",
     "msg.linker.success": "連接成功",
     "type.gem.name": "水晶",
@@ -55,5 +55,5 @@
     "material.Rutile.name": "金紅石",
     "material.Aluminum.name": "鋁",
     "material.Iridium.name": "銥",
-    "machine.tooltip.multiblock": "(Multiblock Machine)"
+    "machine.tooltip.multiblock": "（多方塊機器）"
 }
