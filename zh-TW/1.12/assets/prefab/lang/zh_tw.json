@@ -1,5 +1,5 @@
 {
-    "item.prefab:item_start_house.name": "初始小屋",
+    "item.prefab:item_start_house.name": "起始屋",
     "item.prefab:item_warehouse.name": "倉庫",
     "item.prefab:item_chicken_coop.name": "雞舍",
     "item.prefab:item_produce_farm.name": "農舍",
@@ -131,7 +131,7 @@
     "prefab.gui.structure.bed_color": "床的顏色",
     "prefab.gui.structure.facing.player": "注意：如果你面朝北方，此時選擇南方結構會面朝你。",
     "prefab.gui.structure.block.clicked": "黃色輪廓是你點擊的方塊。",
-    "prefab.gui.structure.door.facing": "注意：如果你面朝北方，此時選擇南方大門會面朝你。",
+    "prefab.gui.structure.door.facing": "注意：如果你面向北邊的話，選擇南方會使門朝向你。",
     "prefab.gui.structure.nobuild": "區域內有被保護的或無法破壞的方塊，無法建造結構。",
     "prefab.gui.button.build": "建造！",
     "prefab.gui.button.cancel": "取消",
