@@ -1,0 +1,17 @@
+{
+    "name": "烈焰深海守衛",
+    "icon": "adventurez:stone_golem_heart",
+    "category": "adventurez:mob_category",
+    "pages": [
+        {
+            "type": "text",
+            "text": "烈焰深海守衛可以在地獄要塞中找到，它將從玩家手中保衛它，直到死亡。注意它的火焰爆炸攻擊，它可能會殺死你。它周圍的護盾會保護它，但也會被摧毀。如果附近有守護者，烈焰生怪轉就不會起作用。"
+        },
+        {
+            "type": "entity",
+            "name": "Showcase",
+            "entity": "adventurez:blaze_guardian",
+            "offset": "0.2"
+        }
+    ]
+}
