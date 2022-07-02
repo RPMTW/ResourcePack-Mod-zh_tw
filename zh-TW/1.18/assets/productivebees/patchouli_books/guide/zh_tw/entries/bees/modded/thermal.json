@@ -11,8 +11,8 @@
             "text": "專用於《精煉機械》（Thermal）模組金屬的蜜蜂。僅顯示於特殊金屬的蜜蜂，對於普通的金屬像銅蜂和錫蜂請看$(l:bees/modded/ingot_bees)所有金屬錠蜜蜂列表$(/l)"
         },
         {
-            "type": "patchouli:empty",
-            "draw_filler": false
+            "type": "patchouli:text",
+            "text": "turn the page"
         },
         {
             "type": "patchouli:text",
