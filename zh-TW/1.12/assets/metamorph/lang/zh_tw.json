@@ -131,7 +131,7 @@
     "metamorph.config.acquiring.prevent_ghosts": "避免幽靈",
     "metamorph.config.comments.acquiring.prevent_ghosts": "若玩家已有目前被殺死生物的偽裝，則會避免幽靈的生成",
     "metamorph.config.acquiring.prevent_kill_acquire": "避免透過擊殺取得",
-    "metamorph.config.comments.acquiring.prevent_kill_acquire": "避免透過擊殺生物的方式取得偽裝",
+    "metamorph.config.comments.acquiring.prevent_kill_acquire": "避免通過擊殺生物的方式取得偽裝",
     "metamorph.config.acquiring.acquire_immediately": "立即取得偽裝",
     "metamorph.config.comments.acquiring.acquire_immediately": "在玩家殺死實體後立即取得偽裝，而不是生成幽靈",
     "metamorph.config.morphs.title": "偽裝",
