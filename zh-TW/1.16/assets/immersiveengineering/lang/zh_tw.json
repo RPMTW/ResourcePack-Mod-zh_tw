@@ -1231,5 +1231,7 @@
     "effect.immersiveengineering.sticky.description": "嚴重減速，無法跳躍",
     "effect.immersiveengineering.stunned.description": "受到眩暈影響的終界使者無法進行瞬移。對玩家沒有影響",
     "effect.immersiveengineering.concrete_feet.description": "無法移動或跳躍。當實體不再站在混凝土上時，該效果立即結束",
-    "effect.immersiveengineering.flashed.description": "受其影響的玩家的畫面會閃白，使他們暫時失明"
+    "effect.immersiveengineering.flashed.description": "受其影響的玩家的畫面會閃白，使他們暫時失明",
+    "stat.immersiveengineering.skyhook_distance": "Distance by Skyhook",
+    "stat.immersiveengineering.wire_deaths": "Deaths due to Wires"
 }
