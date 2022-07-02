@@ -1,6 +1,6 @@
 {
     "name": "匠魂",
-    "icon": "tconstruct:casting_table",
+    "icon": "tconstruct:seared_table",
     "read_by_default": true,
     "sortnum": 8,
     "category": "productivebees:bees_modded",
@@ -11,8 +11,8 @@
             "text": "專用於匠魂模組金屬的蜜蜂。這種蜜蜂是在澆注台將金屬注入到生怪蛋裡獲得"
         },
         {
-            "type": "patchouli:empty",
-            "draw_filler": false
+            "type": "patchouli:text",
+            "text": "turn the page"
         },
         {
             "type": "patchouli:text",
