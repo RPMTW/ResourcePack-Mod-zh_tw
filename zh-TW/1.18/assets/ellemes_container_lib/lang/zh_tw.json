@@ -1,0 +1,16 @@
+{
+    "screen.ellemes_container_lib.change_screen_button": "Change Screen Type",
+    "screen.ellemes_container_lib.screen_picker_title": "Select Screen Type",
+    "screen.ellemes_container_lib.page_screen": "Paginated Screen",
+    "screen.ellemes_container_lib.scroll_screen": "Scrollable Screen",
+    "screen.ellemes_container_lib.single_screen": "Single Page Screen",
+    "screen.ellemes_container_lib.next_page": "Next Page",
+    "screen.ellemes_container_lib.prev_page": "Previous Page",
+    "screen.ellemes_container_lib.page_x_y": "%d/%d",
+    "screen.ellemes_container_lib.off_screen_warning_1": "Part of the screen may not be visible",
+    "screen.ellemes_container_lib.off_screen_warning_2": " if you pick this option.",
+    "screen.ellemes_container_lib.current_option_notice": "This is your current preference.",
+    "key.ellemes_container_lib.config": "[ECL] Open Screen Select",
+    "chat.ellemes_container_lib.cannot_display_screen": "Cannot open the inventory with \"%s\" type, please try a different one.",
+    "generic.ellemes_container_lib.label": "[ECL] "
+}
