@@ -1,0 +1,12 @@
+{
+  "name": "酪梨吐司",
+  "icon": "croptopia:avocado_toast",
+  "category": "croptopia:snacks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:shaped_avocado_toast",
+      "text": "酪梨吐司食譜（各地千禧世代的最愛！)"
+    }
+  ]
+}
