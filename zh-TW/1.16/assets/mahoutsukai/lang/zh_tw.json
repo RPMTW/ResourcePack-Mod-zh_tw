@@ -218,7 +218,7 @@
     "mahoutsukai.book.binding_eyes.name": "顫慄之魔眼",
     "mahoutsukai.book.black_flame_eyes.desc": "使用後暗焰會在施法者所視之處燃燒一段時間。這些火焰會迅速擴散，它們不會燒掉方塊，會對生物造成凋零傷害。 %%n %%n每次使用消耗施法者%%val0點法力。",
     "mahoutsukai.book.black_flame_eyes.name": "暗焰之魔眼",
-    "mahoutsukai.book.borrowed_authority.desc": "這個卷軸給予你短暫的強力buff，該buff會增加施放者的速度、空手攻擊傷害，甚至是穿牆打怪。 %%n %%n每次使用消耗施法者%%val0點法力。",
+    "mahoutsukai.book.borrowed_authority.desc": "Borrow the authority of the gods with this scroll, which increases the caster's speed and power, to the extent that mobs hit while using it will break through walls. Hold the jump button to jump further and hold it while in the air to \"stick\" to the surface you land on. Hold left click while running/jumping to target any enemies you bump into. %%n %%nIt drains %%val0 mana from the caster on use.",
     "mahoutsukai.book.borrowed_authority.name": "假借之權",
     "mahoutsukai.book.boundaries.desc": "結界是一種在所放置魔法陣附近生效的範圍性法術，會定時消耗法力。你可以右擊魔法陣開關結界。紅石訊號會改變開關狀態。 %%n%%n結界發出比較器輸出訊號 - 0為關閉， 1為開啟。 %%n%%n最後，使用結界卷軸可以快速放置結界。",
     "mahoutsukai.book.boundaries.name": "結界",
@@ -1341,5 +1341,10 @@
     "mahoutsukai.config.buff_clear_items.name": "Buff Clear Items",
     "mahoutsukai.config.fallen_down_beam_target_health_percentage_damage.name": "Fallen Down Beam Mode Health Percentage Damage",
     "mahoutsukai.weaponprojectiles.normal": "Normal Mode",
-    "mahoutsukai.weaponprojectiles.projections": "Projection Mode"
+    "mahoutsukai.weaponprojectiles.projections": "Projection Mode",
+    "effect.mahoutsukai.authority_jump": "Borrowed Authority Jump",
+    "effect.mahoutsukai.ba_cooldown": "Borrowed Authority Hit Cooldown",
+    "effect.mahoutsukai.wall_stick": "Wall Stick",
+    "mahoutsukai.config.black_flame_debuff_time.name": "Black Flame Debuff Time",
+    "mahoutsukai.config.fallen_down_beam_mana_scaled_damage.name": "Fallen Down Beam Mode Mana Scaled Damage"
 }
