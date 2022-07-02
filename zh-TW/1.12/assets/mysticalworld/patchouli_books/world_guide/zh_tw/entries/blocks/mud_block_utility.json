@@ -1,5 +1,5 @@
 {
-  "name": "泥塊設備",
+  "name": "用泥磚做紅石元件！",
   "icon": "mysticalworld:mud_block_pressure_plate",
   "category": "blocks",
   "pages": [
@@ -20,7 +20,7 @@
       "type": "spotlight",
       "item": "mysticalworld:mud_block_button",
       "link_recipe": true,
-      "text": "泥塊和泥磚都可以用來合成按鈕。"
+      "text": "用無機鹽泥塊和泥磚都可以合成對應的按鈕。"
     },
     {
       "type": "crafting",
