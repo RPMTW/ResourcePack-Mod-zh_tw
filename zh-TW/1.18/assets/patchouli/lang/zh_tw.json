@@ -84,5 +84,8 @@
     "patchouli.gui.lexicon.button.visualize.info": "（再次點擊以清除）",
     "patchouli.gui.lexicon.button.history": "瀏覽歷史",
     "patchouli.gui.lexicon.button.mark_all_read": "全部標示為已讀取",
-    "patchouli.gui.lexicon.button.mark_category_read": "將此種類標示為已讀取"
+    "patchouli.gui.lexicon.button.mark_category_read": "將此種類標示為已讀取",
+    "item.patchouli:pamphlet.name": "測試小冊子",
+    "item.patchouli:pamphlet.landing": "一本測試用小冊子，其實就是本只有一個分類的書啦",
+    "patchouli.gui.lexicon.button.toggle_mock_header": "切換測試用頁頭"
 }
