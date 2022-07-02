@@ -1,6 +1,6 @@
 {
-    "itemGroup.windows": "金剛鸚鵡的窗戶",
-    "itemGroup.windows2": "金剛鸚鵡的窗戶組件",
+    "itemGroup.windows": "Macaw's Windows",
+    "itemGroup.windows2": "Macaw's Windows Additions",
     "item.mcwwindows.window_base": "窗框",
     "item.mcwwindows.window_centre_bar_base": "窗欞",
     "item.mcwwindows.hammer": "窗戶錘",
@@ -11,7 +11,7 @@
     "subtitle.mcwwindows.window_close": "窗戶關閉",
     "subtitle.mcwwindows.window_open": "窗戶打開",
     "mcwwindows.hammer.desc": "用這個在一個窗戶上右擊，可以將其改為經典類型。",
-    "mcwwindows.crafting.desc": "合成原料",
+    "mcwwindows.crafting.desc": "Crafting ingredient",
     "block.mcwwindows.oak_window": "橡木窗戶",
     "block.mcwwindows.spruce_window": "杉木窗戶",
     "block.mcwwindows.birch_window": "樺木窗戶",
@@ -134,5 +134,7 @@
     "block.mcwwindows.brown_mosaic_glass_pane": "棕色馬賽克玻璃片",
     "block.mcwwindows.green_mosaic_glass_pane": "綠色馬賽克玻璃片",
     "block.mcwwindows.red_mosaic_glass_pane": "紅色馬賽克玻璃片",
-    "block.mcwwindows.black_mosaic_glass_pane": "黑色馬賽克玻璃片"
+    "block.mcwwindows.black_mosaic_glass_pane": "黑色馬賽克玻璃片",
+    "itemGroup.mcwwindows.windows_group": "Macaw's Windows",
+    "itemGroup.mcwwindows.blinds_group": "Macaw's Windows Additions"
 }
