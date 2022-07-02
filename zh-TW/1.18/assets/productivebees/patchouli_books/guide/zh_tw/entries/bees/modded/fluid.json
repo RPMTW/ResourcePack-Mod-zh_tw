@@ -15,27 +15,40 @@
         },
         {
             "type": "patchouli:text",
-            "title": "巧克力蜂",
-            "text": "藉由將可可豆餵給 $(l:bees/wild/sugarbag)帶蜜蜜蜂$(/l) 獲得。",
+            "title": "Oily Bee",
+            "text": "Obtained by fishing in ocean biomes",
+            "anchor": "oily",
+            "flag": "productivebees:oily"
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "Oily Bee",
+            "entity": "productivebees:configurable_bee{type:'productivebees:oily'}",
+            "flag": "productivebees:oily"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Chocolate Bee",
+            "text": "Obtained by feeding cocoa beans to a $(l:bees/wild/sugarbag)Sugarbag Bee$(/l).",
             "anchor": "chocolate",
             "flag": "productivebees:chocolate"
         },
         {
             "type": "patchouli:entity",
-            "name": "巧克力蜂",
+            "name": "Chocolate Bee",
             "entity": "productivebees:configurable_bee{type:'productivebees:chocolate'}",
             "flag": "productivebees:chocolate"
         },
         {
             "type": "patchouli:text",
-            "title": "茶蜜蜂",
-            "text": "藉由將一桶水餵給 $(l:bees/solitary/leafcutter)切葉蜂$(/l) 獲得。",
+            "title": "Tea Bee",
+            "text": "Obtained by feeding a bucket of water to a $(l:bees/solitary/leafcutter)Leafcutter Bee$(/l).",
             "anchor": "tea",
             "flag": "productivebees:tea"
         },
         {
             "type": "patchouli:entity",
-            "name": "茶蜜蜂",
+            "name": "Tea Bee",
             "entity": "productivebees:configurable_bee{type:'productivebees:tea'}",
             "flag": "productivebees:tea"
         }
