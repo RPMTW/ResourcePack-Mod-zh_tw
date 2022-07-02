@@ -1,0 +1,12 @@
+{
+  "name": "烤籚筍",
+  "icon": "croptopia:roasted_asparagus",
+  "category": "croptopia:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:shaped_roasted_asparagus",
+      "text": "食譜"
+    }
+  ]
+}
