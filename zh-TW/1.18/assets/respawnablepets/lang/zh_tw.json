@@ -5,5 +5,6 @@
     "respawnablepets.message.enable_respawn": "%s 死亡後將會重生",
     "respawnablepets.message.disable_respawn": "%s 死亡後不再重生",
     "respawnablepets.message.not_owner": "%s 不屬於你",
-    "respawnablepets.message.blacklisted": "%s 是被列入黑名單的實體"
+    "respawnablepets.message.blacklisted": "%s 是被列入黑名單的實體",
+    "respawnablepets.message.counted_entities": "%d entities"
 }
