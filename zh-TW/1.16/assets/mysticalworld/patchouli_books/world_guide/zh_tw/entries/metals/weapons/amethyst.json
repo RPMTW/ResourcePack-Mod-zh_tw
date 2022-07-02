@@ -1,22 +1,22 @@
 {
-    "name": "Sapphire Weapons",
-    "icon": "mysticalworld:sapphire_knife",
+    "name": "Amethyst Weapons",
+    "icon": "mysticalworld:amethyst_knife",
     "category": "metals_weapons",
     "pages": [
         {
             "type": "spotlight",
-            "item": "mysticalworld:sapphire",
-            "text": "Sapphire gems can be crafted into delicate but powerful weapons that deal great damage against most foes."
+            "item": "mysticalworld:amethyst",
+            "text": "Amethyst gems can be crafted into delicate but powerful weapons that deal great damage against most foes."
         },
         {
             "type": "crafting",
-            "recipe": "mysticalworld:sapphire_knife",
-            "recipe2": "mysticalworld:sapphire_spear",
-            "title": "Sapphire Weapons"
+            "recipe": "mysticalworld:amethyst_knife",
+            "recipe2": "mysticalworld:amethyst_spear",
+            "title": "Amethyst Weapons"
         },
         {
             "type": "crafting",
-            "recipe": "mysticalworld:sapphire_sword"
+            "recipe": "mysticalworld:amethyst_sword"
         }
     ]
 }
