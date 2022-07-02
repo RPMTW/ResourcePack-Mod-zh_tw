@@ -234,5 +234,16 @@
     "farmersdelight.jei.decomposition.accelerators": "周圍有以下催化物時加快",
     "farmersdelight.jei.info.straw": "用於合成的乾燥植物纖維。使用小刀破壞草類植物或作物方塊可以獲得。",
     "farmersdelight.jei.info.knife": "Knives are lightweight melee weapons. They can harvest Straw from grasses, and guarantee secondary drops from animals.",
-    "farmersdelight.jei.info.ham": "A large cut of meat from a Pig or Hoglin's leg. You will need something lighter than a Sword to cut one..."
+    "farmersdelight.jei.info.ham": "A large cut of meat from a Pig or Hoglin's leg. You will need something lighter than a Sword to cut one...",
+    "item.farmersdelight.rotten_tomato": "Rotten Tomato",
+    "farmersdelight.advancement.place_organic_compost": "Advanced Composting",
+    "farmersdelight.advancement.place_organic_compost.desc": "Place down some Organic Compost. It composts better with sun, water and mushrooms!",
+    "farmersdelight.advancement.get_fd_seed": "Crops of the Wild",
+    "farmersdelight.advancement.get_fd_seed.desc": "Four new crops may be found in the wild, across many climates... or maybe in a chest somewhere.",
+    "farmersdelight.advancement.hit_raider_with_rotten_tomato": "Boo! Hiss!",
+    "farmersdelight.advancement.hit_raider_with_rotten_tomato.desc": "Throw a Rotten Tomato at one of these pesky raiders!",
+    "farmersdelight.subtitles.rotten_tomato.throw": "Rotten Tomato flies",
+    "farmersdelight.subtitles.rotten_tomato.hit": "Rotten Tomato splatters",
+    "death.attack.farmersdelight.stove": "%1$s was grilled to perfection",
+    "death.attack.farmersdelight.stove.player": "%1$s was thrown on the grill by Chef %2$s"
 }
