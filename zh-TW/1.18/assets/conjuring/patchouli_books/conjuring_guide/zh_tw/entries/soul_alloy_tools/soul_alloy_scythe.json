@@ -1,0 +1,22 @@
+{
+  "name": "Soul Alloy Scythe",
+  "icon": "conjuring:soul_alloy_scythe",
+  "category": "conjuring:soul_alloy_tools",
+  "extra_recipe_mappings": {
+    "conjuring:soul_alloy_hatchet": 0
+  },
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Tending to a field can be a laborious task, especially when it comes to the larger one. The $(item)Soul Alloy Scythe$() offers itself as the perfect solution. By serving both as a capable cutting apparatus as well as a remote reaping rig, it can diminish Potatoes and similar plant matter incredibly quickly. It may be upgraded using $(l:conjuring:basics/basic_gem_tinkering#aspect_gems)Aspect Gems$() in these ways:"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(li)$(#007a18)≈ Haste: Improves the swiftness of swinging the Scythe.$(br) $(li)$(#a80f01)ღ Abundance: Might lead to finding more needles in haystacks or seeds in crops. Stacks with Fortune.$()$(br) $(li)$(#4d8184)λ Scope: Increases the reach of the Soul Harvesting ability.$()$(br)"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(li)$(#123f89)ʊ Ignorance: Ignores a small amount of durability loss when using the tool, stacks with Unbreaking. Also makes the Soul Harvester ignore crops which haven't yet reached maturity."
+    }
+  ]
+}
