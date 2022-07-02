@@ -36,5 +36,8 @@
     "container.camsbackpacks.obstructed_block": "方塊在玩家面前被擋住了！",
     "container.camsbackpacks.cant_equip": "你已經背著東西了！",
     "container.camsbackpacks.player_inv": "物品欄",
-    "container.camsbackpacks.backpack_inv": "背包"
+    "container.camsbackpacks.backpack_inv": "背包",
+    "text.autoconfig.camsbackpacks.title": "CamsBackpacks",
+    "text.autoconfig.camsbackpacks.option.sneakPlaceBackpack": "Enable Sneak-Placing Backpacks",
+    "text.autoconfig.camsbackpacks.option.hideToolTip": "Hide Backpack Tooltip"
 }
