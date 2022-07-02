@@ -202,7 +202,7 @@
     "modularrouters.guiText.tooltip.IGNORE_NBT.2": "忽略NBT${br}例如，匹配時忽略物品上的附魔",
     "modularrouters.guiText.tooltip.IGNORE_TAGS.1": "啟用標籤匹配${br}與過濾名單中的物品在同一標籤組的物品將會被匹配，例如，橡木和樺木原木",
     "modularrouters.guiText.tooltip.IGNORE_TAGS.2": "停用標籤匹配",
-    "modularrouters.guiText.tooltip.LEFT": "左方",
+    "modularrouters.guiText.tooltip.LEFT": "Left",
     "modularrouters.guiText.tooltip.loadFilter": "從選定的過濾名單${br} 載入到§e%s§r @ %s${br}§o現有過濾名單，本身過濾名單內的內容將被覆蓋！",
     "modularrouters.guiText.tooltip.matchAll.false": "匹配任何${br} 過濾器中的任何項目都可匹配到過濾器。${br} 在大多數情況下使用此選項。",
     "modularrouters.guiText.tooltip.matchAll.true": "全部匹配${br} 過濾器中的所有項目都必須匹配，過濾器才能匹配。${br} 在特定情況下使用，例如如果你想測試附魔的皮革盔甲。",
