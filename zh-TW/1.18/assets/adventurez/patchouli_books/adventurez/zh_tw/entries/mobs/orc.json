@@ -1,0 +1,18 @@
+{
+    "name": "獸人",
+    "icon": "adventurez:stone_golem_heart",
+    "category": "adventurez:mob_category",
+    "pages": [
+        {
+            "type": "text",
+            "text": "獸人會在世界各地出沒。如果有相對較大的獸人，其他獸人會試著聚集在一起。較小的獸人可能會從你那搶走工具並逃跑，因此需留意那些討厭的生物。你可以在平原找到他們。"
+        },
+        {
+            "type": "entity",
+            "name": "Showcase",
+            "entity": "adventurez:orc",
+            "scale": "1.3",
+            "offset": "-0.5"
+        }
+    ]
+}
