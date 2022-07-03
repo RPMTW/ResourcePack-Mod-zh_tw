@@ -12,8 +12,8 @@
     {
       "type": "2-2_item_page",
       "A.title": "靈活跳躍",
-      "A.item1": "thermal:hops",
-      "A.item2": "thermal:hops_seeds",
+      "A.item1": "thermal:barley",
+      "A.item2": "thermal:barley_seeds",
       "A.text": "The seed cones of a flowering hop vine. Used to flavor beer.",
       "B.title": "玉米",
       "B.item1": "thermal:corn",
@@ -23,19 +23,19 @@
     {
       "type": "2-2_item_page",
       "A.title": "大麥",
-      "A.item1": "thermal:barley",
-      "A.item2": "thermal:barley_seeds",
+      "A.item1": "thermal:flax",
+      "A.item2": "thermal:flax_seeds",
       "A.text": "A cereal grain which can be ground into flour or malted to make beer or whiskey.",
       "B.title": "小蘿蔔",
-      "B.item1": "thermal:radish",
-      "B.item2": "thermal:radish_seeds",
+      "B.item1": "thermal:onion",
+      "B.item2": "thermal:onion_seeds",
       "B.text": "A root vegetable with a sharp flavor, typically eaten raw or steamed."
     },
     {
       "type": "2-2_item_page",
       "A.title": "洋蔥",
-      "A.item1": "thermal:onion",
-      "A.item2": "thermal:onion_seeds",
+      "A.item1": "thermal:radish",
+      "A.item2": "thermal:radish_seeds",
       "A.text": "A bulbous vegetable that is often used to add flavor to a savory dish. Brings people to tears.",
       "B.title": "大米",
       "B.item1": "thermal:rice",
@@ -98,7 +98,7 @@
       "B.text": "The leaves of a tea plant. Often dumped into the ocean during tea parties."
     },
     {
-      "type": "3_item_page",
+      "type": "2-2_item_page",
       "A.title": "Hops",
       "A.item1": "thermal:hops",
       "A.item2": "thermal:hops_seeds",
