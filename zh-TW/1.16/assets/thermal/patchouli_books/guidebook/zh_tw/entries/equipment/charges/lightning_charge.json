@@ -9,7 +9,7 @@
             "text": "Lightning charges can be used to summon a single bolt of lightning. Firing from a dispenser will fire a linear projectile that applies the $(l:thermal:world/mobs/blitz)Shocked$(/l) effect to mobs."
         },
         {
-            "type": "crafting",
+            "type": "thermal:double_crafting_page",
             "A.recipe": "thermal:lightning_charge_3",
             "title": "鳴雷彈"
         }
