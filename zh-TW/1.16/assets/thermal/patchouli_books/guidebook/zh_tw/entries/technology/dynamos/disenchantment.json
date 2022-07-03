@@ -10,7 +10,7 @@
             "text": "The Disenchantment Dynamo uses enchanted items such as books to produce RF."
         },
         {
-            "type": "crafting",
+            "type": "thermal:double_crafting_page",
             "A.recipe": "thermal:dynamo_disenchantment",
             "title": "Disenchantment Dynamo"
         },
