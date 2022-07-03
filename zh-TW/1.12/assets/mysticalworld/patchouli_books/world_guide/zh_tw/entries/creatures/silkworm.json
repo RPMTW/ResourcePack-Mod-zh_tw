@@ -12,14 +12,14 @@
     {
       "type": "entity",
       "name": "蠶",
-      "entity": "mysticalworld:silkworm",
+      "entity": "mysticalworld:entity_silkworm",
       "scale": "1.5",
       "offset": "-0.3",
       "text": "You can right-click them with leaves to speed up their growth and cause them to drop more."
     },
     {
       "type": "spotlight",
-      "item": "minecraft:oak_leaves",
+      "item": "minecraft:leaves",
       "flag": "roots:silkworm_leaves",
       "text": "Silkworms do not spawn naturally, nor can they be bred, but can be hatched from eggs.$(br2)Eggs can be found by breaking leaves in the same way you would to get saplings."
     }
