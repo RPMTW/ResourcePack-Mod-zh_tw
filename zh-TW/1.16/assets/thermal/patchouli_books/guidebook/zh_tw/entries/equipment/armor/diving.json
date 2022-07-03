@@ -10,17 +10,17 @@
             "text": "潛水服可讓您輕鬆探索水下深處。 讓你游得更快，呼吸更久，在水下挖掘得更快！"
         },
         {
-            "type": "crafting",
+            "type": "thermal:double_crafting_page",
             "A.recipe": "thermal:diving_fabric",
             "text": "用於所有潛水設備的織物。"
         },
         {
-            "type": "crafting",
+            "type": "thermal:double_crafting_page",
             "A.recipe": "thermal:armor/diving_helmet",
             "B.recipe": "thermal:armor/diving_chestplate"
         },
         {
-            "type": "crafting",
+            "type": "thermal:double_crafting_page",
             "A.recipe": "thermal:armor/diving_leggings",
             "B.recipe": "thermal:armor/diving_boots"
         }
