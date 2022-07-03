@@ -9,7 +9,7 @@
             "text": "The Satchel is a bag that can hold things. It's pretty straightforward. Press '$(k:cofh.mode_change_increment)' to toggle auto-collect mode, where items are automatically stored on pickup, depending on Filter restrictions. It can be augmented in the Tinker's Workbench."
         },
         {
-            "type": "crafting",
+            "type": "thermal:double_crafting_page",
             "A.recipe": "thermal:tools/satchel",
             "title": "Satchel",
             "text": "It can be dyed in a Crafting Table with any normal dyes, and/or secured with a Signalum Security Lock."
