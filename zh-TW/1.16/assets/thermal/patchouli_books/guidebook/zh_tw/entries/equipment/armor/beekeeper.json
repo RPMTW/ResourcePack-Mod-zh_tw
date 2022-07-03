@@ -10,17 +10,17 @@
             "text": "The Beekeeper Suit will protect you from any sort of stings you may encounter at the cost of durability. Such examples are cactus, berry bushes, and obviously bee stings. Do note that in order to be $(o)fully$() protected you must have the full suit on! $(o)Bee$() careful, since durability is still used even with a full suit."
         },
         {
-            "type": "crafting",
+            "type": "thermal:double_crafting_page",
             "A.recipe": "thermal:beekeeper_fabric",
             "text": "Fabric used for all beekeeper equipment."
         },
         {
-            "type": "crafting",
+            "type": "thermal:double_crafting_page",
             "A.recipe": "thermal:armor/beekeeper_helmet",
             "B.recipe": "thermal:armor/beekeeper_chestplate"
         },
         {
-            "type": "crafting",
+            "type": "thermal:double_crafting_page",
             "A.recipe": "thermal:armor/beekeeper_leggings",
             "B.recipe": "thermal:armor/beekeeper_boots"
         }
