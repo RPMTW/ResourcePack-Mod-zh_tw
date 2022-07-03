@@ -10,7 +10,7 @@
             "text": "The Aquatic Entangler is a device that can passively catch fish when it is placed in a body of water. The rate at which it catches fish depends on the biome, weather, and augment configuration, but it has a base rate of 1 catch every few minutes. $(l:thermal:technology/augments/integral_components)Integral components$(/l) and $(l:thermal:technology/augments/area_radius)radial enhancement$(/l) can speed this up. It can optionally take $(l:thermal:world/materials/bait)bait$(/l) to boost its rate or alter which items it catches."
         },
         {
-            "type": "crafting",
+            "type": "thermal:double_crafting_page",
             "A.recipe": "thermal:device_fisher",
             "title": "Aquatic Entangler",
             "text": "The entangler will also net (pun intended) 1-3 exp for every catch if the $(l:thermal:technology/augments/xp_storage)knowledge concentrator$(/l) augment is installed."
