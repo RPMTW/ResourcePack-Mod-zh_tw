@@ -10,7 +10,7 @@
             "text": "Used to lock a slot and prevent items from entering it. Helpful for advanced machine logistics."
         },
         {
-            "type": "crafting",
+            "type": "thermal:double_crafting_page",
             "A.recipe": "thermal:slot_seal",
             "title": "Slot Seal"
         }
