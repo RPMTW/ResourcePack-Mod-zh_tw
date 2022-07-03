@@ -10,13 +10,13 @@
             "text": "Redstone Explosives will produce a redstone flux excitation field upon explosion, activating any redstone components and devices within its area of effect. This field will persist for 10s. Explosive blocks and grenades create fields with radii of 9 and 5 blocks, respectively."
         },
         {
-            "type": "crafting",
+            "type": "thermal:double_crafting_page",
             "A.recipe": "thermal:redstone_tnt",
             "B.recipe": "thermal:redstone_grenade_4"
         },
         {
             "flag": "&mod:thermal_innovation,mod:thermal_locomotion",
-            "type": "crafting",
+            "type": "thermal:double_crafting_page",
             "A.recipe": "thermal:redstone_tnt_minecart",
             "title": "Redstone Explosive Minecart"
         }
