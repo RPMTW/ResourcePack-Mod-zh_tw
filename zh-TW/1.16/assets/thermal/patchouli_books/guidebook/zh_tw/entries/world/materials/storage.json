@@ -20,52 +20,52 @@
             "text": "With storage blocks from other mods, Thermal follows a convention where the center item in the crafting recipe determines which mod's storage block to craft. For example, surrounding a Thermal copper ingot with 8 Immersive Engineering copper ingots will craft a Thermal copper block."
         },
         {
-            "type": "crafting",
+            "type": "thermal:double_crafting_page",
             "A.recipe": "thermal:storage/charcoal_block",
             "B.recipe": "thermal:storage/gunpowder_block"
         },
         {
-            "type": "crafting",
+            "type": "thermal:double_crafting_page",
             "A.recipe": "thermal:storage/slag_block",
             "B.recipe": "thermal:storage/rich_slag_block"
         },
         {
-            "type": "crafting",
+            "type": "thermal:double_crafting_page",
             "A.recipe": "thermal:storage/apatite_block",
             "B.recipe": "thermal:storage/cinnabar_block"
         },
         {
-            "type": "crafting",
+            "type": "thermal:double_crafting_page",
             "A.recipe": "thermal:storage/niter_block",
             "B.recipe": "thermal:storage/sulfur_block"
         },
         {
-            "type": "crafting",
+            "type": "thermal:double_crafting_page",
             "A.recipe": "thermal:storage/copper_block",
             "B.recipe": "thermal:storage/tin_block"
         },
         {
-            "type": "crafting",
+            "type": "thermal:double_crafting_page",
             "A.recipe": "thermal:storage/lead_block",
             "B.recipe": "thermal:storage/silver_block"
         },
         {
-            "type": "crafting",
+            "type": "thermal:double_crafting_page",
             "A.recipe": "thermal:storage/nickel_block",
             "B.recipe": "thermal:storage/bronze_block"
         },
         {
-            "type": "crafting",
+            "type": "thermal:double_crafting_page",
             "A.recipe": "thermal:storage/invar_block",
             "B.recipe": "thermal:storage/electrum_block"
         },
         {
-            "type": "crafting",
+            "type": "thermal:double_crafting_page",
             "A.recipe": "thermal:storage/constantan_block",
             "B.recipe": "thermal:storage/signalum_block"
         },
         {
-            "type": "crafting",
+            "type": "thermal:double_crafting_page",
             "A.recipe": "thermal:storage/lumium_block",
             "B.recipe": "thermal:storage/enderium_block"
         }
