@@ -40,7 +40,7 @@
     "sodium.options.use_entity_culling.tooltip": "啟用後，則在渲染期間跳過在不可見區塊的實體.這可以通過避免渲染位於地下或牆後的實體來幫助提高效能。",
     "sodium.options.use_particle_culling.name": "啟用顆粒剔除",
     "sodium.options.use_particle_culling.tooltip": "如果啟用，只有被確定為可見的粒子才會被渲染。當附近有許多粒子時，這可以大大改善FPS。",
-    "sodium.options.animate_only_visible_textures.name": "啟用實體剔除",
+    "sodium.options.animate_only_visible_textures.name": "僅為可見的材質渲染動畫",
     "sodium.options.animate_only_visible_textures.tooltip": "啟用後，只會更新可見的動態材質。這可以大大提升某些硬體的幀率，尤其是對於大型資源包。如果遇到某些材質無動畫的問題，請停用此選項。",
     "sodium.options.cpu_render_ahead_limit.name": "處理器提前渲染限制",
     "sodium.options.cpu_render_ahead_limit.tooltip": "指定處理器可以在顯示卡上等待完成渲染的最大幀率。 非常低或高的值可能會導致幀率不穩定。",
