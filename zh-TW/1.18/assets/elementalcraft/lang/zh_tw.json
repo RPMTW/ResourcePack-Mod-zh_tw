@@ -1,7 +1,7 @@
 {
     "itemGroup.elementalcraft": "元素工藝",
-    "element.elementalcraft.fire": "火元素",
-    "element.elementalcraft.water": "水元素",
+    "element.elementalcraft.fire": "Fire",
+    "element.elementalcraft.water": "Water",
     "element.elementalcraft.earth": "地元素",
     "element.elementalcraft.air": "Air",
     "item.elementalcraft.element_book": "元素百科",
@@ -317,7 +317,7 @@
     "elementalcraft.category.crafting.desc": "本章節主要講述$(thing)合成機制$()，包括灌注與聚合。",
     "elementalcraft.category.shrines": "祭壇",
     "elementalcraft.category.shrines.desc": "$(item)祭壇$()是一種通過消耗$(thing)元素$()來執行各種任務的裝置。",
-    "elementalcraft.category.advanced": "高級",
+    "elementalcraft.category.advanced": "Advanced",
     "elementalcraft.category.advanced.desc": "遊戲後期的強力道具與裝置。",
     "elementalcraft.category.spells": "法術",
     "elementalcraft.category.spells.desc": "$(thing)法術$()與元素的魔力息息相關，為此你需要一個攜帶式的容器——$(ec:holder)元素球$()——來為法術的施用供應元素。$(br2)時刻注意元素的餘量，當其耗盡時，若再嘗試施法，$(item)法杖$()會因缺乏魔力而還原。",
