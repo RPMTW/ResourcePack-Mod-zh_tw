@@ -7,16 +7,16 @@
     "item.angelring.itemring.desc0": "天使之戒在飛行時會隨著時間的推移消耗玩家的經驗值。",
     "item.angelring.itemring.desc1": "如果玩家的經驗值低於一級，",
     "item.angelring.itemring.desc2": "魔法會消失，無法飛行",
-    "item.angelring.itemring.classic.desc0": "Angel Ring is switched into Classic Mode. Grants creative flight while in Curios slot.",
+    "item.angelring.itemring.classic.desc0": "天使戒指切換為經典模式，在Curios插槽時授予創造飛行。",
     "item.angelring.itemring.classic.desc1": "Switch XP draining to more than 0 points in the config to switch to Rebalanced Mode.",
     "item.angelring.energetic_angel_ring": "Energetic Angel Ring",
-    "item.angelring.energetic_angel_ring.not_enough_fe": "You need more FE to fly. Charge your Angel Ring to fly again.",
+    "item.angelring.energetic_angel_ring.not_enough_fe": "您需要更多的FE來飛行。爲你的天使戒指充能來再次飛行。",
     "item.angelring.energetic_angel_ring.tooltip": "Hold §eShift§7 for more information!",
-    "item.angelring.energetic_angel_ring.desc0": "Angel Ring drains the stored FE over time while flying.",
+    "item.angelring.energetic_angel_ring.desc0": "天使戒指在飛行時會隨著時間消耗儲存的FE。",
     "item.angelring.energetic_angel_ring.desc1": "Angel Ring currently contains %s FE / %s FE.",
     "item.angelring.leadstone_angel_ring": "Leadstone Angel Ring",
     "item.angelring.hardened_angel_ring": "Hardened Angel Ring",
     "item.angelring.reinforced_angel_ring": "Reinforced Angel Ring",
     "item.angelring.resonant_angel_ring": "Resonant Angel Ring",
-    "itemGroup.angelring2": "Angel Ring 2"
+    "itemGroup.angelring2": "天使戒指2"
 }
