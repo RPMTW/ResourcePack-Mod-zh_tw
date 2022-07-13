@@ -8,17 +8,17 @@
     "text.green": "綠",
     "text.blue": "藍",
     "text.alpha": "透明度",
-    "text.config.title": "Options Comics Bubbles Chat",
+    "text.config.title": "漫畫泡泡聊天選項",
     "text.config.outline": "外框顏色選項",
-    "text.config.inside": "Inside color option",
+    "text.config.inside": "內部顏色選項",
     "text.config.text": "文字顏色",
     "text.config.test": "這是個測試！",
     "text.config.resetcolor": "重設顏色",
     "text.config.resetduration": "重設持續時間",
-    "text.config.resetstack": "Reset max bubbles stackable",
-    "text.config.resetlinewidth": "Reset max line width",
+    "text.config.resetstack": "重設最大泡泡可堆疊數",
+    "text.config.resetlinewidth": "重設最大行寬",
     "text.config.clearbubbles": "Remove current bubbles\ntext.config.maxstackbubbles=Max bubbles stackable (0 = ∞)\ntext.config.maxlinewidth=Max line width (min = 50)",
     "text.config.duration.suffix": "秒",
     "text.config.duration.prefix": "泡泡持續時間",
-    "text.config.nolinked": "The mod is not linked to at server, the bubbles will not appear !"
+    "text.config.nolinked": "該模組未在伺服器上連接，氣泡不會出現！"
 }
