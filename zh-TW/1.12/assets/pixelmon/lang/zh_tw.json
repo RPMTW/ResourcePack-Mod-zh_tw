@@ -10220,7 +10220,7 @@
     "pixelmon.config.despawnOnFleeOrLoss": "其中一方逃脫成功或玩家對戰失敗時刪除該野生寶可夢",
     "pixelmon.config.despawnOnFleeOrLoss.comment": "設定是否讓野生寶可夢在對戰中脫逃成功或是玩家對付失敗時，離開對戰畫面後讓該寶可夢直接消失。",
     "pixelmon.config.entitiesPerPlayer": "每個玩家的實體",
-    "pixelmon.config.entitiesPerPlayer.comment": "每個玩家可以產生的最大的實體數量(NPC或寶可夢)，數值越低性能越好。",
+    "pixelmon.config.entitiesPerPlayer.comment": "每個玩家可以產生的最大的實體數量（NPC或寶可夢），數值越低效能越好。",
     "pixelmon.config.spawnsPerPass": "每通過生成一次",
     "pixelmon.config.spawnsPerPass.comment": "單一玩家在單一生成週期中的最大生成次數。數值越低，可以獲得更好的性能。",
     "pixelmon.config.spawnFrequency": "生成頻率",
