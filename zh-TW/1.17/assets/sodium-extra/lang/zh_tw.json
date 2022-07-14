@@ -105,7 +105,7 @@
     "sodium-extra.option.sun_moon": "太陽與月亮",
     "sodium-extra.option.sun_moon.tooltip": "如果啟用，則渲染太陽和月亮。",
     "sodium-extra.option.gl_debug_verbosity": "OpenGL調試訊息",
-    "sodium-extra.option.gl_debug_verbosity.tooltip": "調試輸出是一項 OpenGL 功能，它使調試和優化 OpenGL 應用程式變得更加容易。簡而言之，此功能為驅動程式提供了一種將文本消息資訊提供回應用程式的方法。\n修改此選項將需要重新啟動遊戲。",
+    "sodium-extra.option.gl_debug_verbosity.tooltip": "調試輸出是一項 OpenGL 功能，它使調試和最佳化 OpenGL 應用程式變得更加容易。簡而言之，此功能為驅動程式提供了一種將文本訊息資訊提供回應用程式的方法。\n修改此選項將需要重新啟動遊戲。",
     "sodium-extra.option.animate_sculk_sensor.tooltip": "如果啟用，則處理伏聆振測器動畫。",
     "sodium-extra.suggestRSO.header": "建議：安裝Reese的鈉選項",
     "sodium-extra.suggestRSO.message": "強烈建議您將 Reese's Sodium Options 與 Sodium Extra 一同安裝。由於功能選項變多，它不再適合於 Sodium 的預設動畫選項中使用。",
