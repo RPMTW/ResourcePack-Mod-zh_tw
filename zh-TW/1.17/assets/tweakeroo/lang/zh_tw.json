@@ -185,7 +185,7 @@
     "tweakPlayerInventoryPeek": "預覽玩家背包",
     "tweakPotionWarning": "藥水效果時間警告",
     "The number of right clicks to do per placed block when\ntweakAfterClicker is enabled": "每個放置的方塊的右鍵點擊次數\n啟用調整後點擊器",
-    "The block reach distance to use if the\noverride tweak is enabled.\nThe maximum the server allows is 8 for placing, 6 for breaking.": "在以下情况下使用的塊到達距離：\n已啟用覆蓋調整。\n服務器允許放置的最大值為8，破壞的最大值為6。",
+    "The block reach distance to use if the\noverride tweak is enabled.\nThe maximum the server allows is 8 for placing, 6 for breaking.": "在以下情况下使用的塊到達距離：\n已啟用覆蓋調整。\n伺服器允許放置的最大值為8，破壞的最大值為6。",
     "The grid interval size for the grid breaking mode.\nTo quickly adjust the value, scroll while\nholding down the tweak toggle keybind.": "The grid interval size for the grid breaking mode.\nTo quickly adjust the value, scroll while\nholding down the tweak toggle keybind.",
     "The Breaking Restriction mode to use (hotkey-selectable)": "要使用的突破模式（熱鍵可選擇）",
     "The background color for the chat messages,\nif 'tweakChatBackgroundColor' is enabled": "聊天欄背景顏色\n如果 'tweakChatBackgroundColor' 有被啟用",
