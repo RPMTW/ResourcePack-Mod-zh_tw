@@ -210,5 +210,5 @@
     "inventoryprofiles.config.name.throw_all_items": "扔所有物品",
     "inventoryprofiles.config.description.throw_all_items": "扔出玩家物品欄或打開的容器中的所有物品的按鍵。一般來說，在大量製作時很有用。\n所有移動所有物品的修改鍵也適用於此。",
     "inventoryprofiles.config.name.enable_lock_slots_per_server": "啟用每個世界/伺服器的唯一鎖槽",
-    "inventoryprofiles.config.description.enable_lock_slots_per_server": "如果啟用，每個伺服器和唯一命名的世界都會有自己的鎖槽。\n注意:\n1. 如果你傾向於將你所有的世界命名為 「新的世界」，它們將共享相同的鎖槽。\n2. 在bungeecord/velocity代理後面的服務器將共享鎖槽。"
+    "inventoryprofiles.config.description.enable_lock_slots_per_server": "如果啟用，每個伺服器和唯一命名的世界都會有自己的鎖槽。\n注意:\n1. 如果你傾向於將你所有的世界命名為 「新的世界」，它們將共享相同的鎖槽。\n2. 在bungeecord/velocity代理後面的伺服器將共享鎖槽。"
 }
