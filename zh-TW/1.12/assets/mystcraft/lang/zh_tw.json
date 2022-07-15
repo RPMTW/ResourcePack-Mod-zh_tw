@@ -1,8 +1,8 @@
 {
-    "myst.profiling.running": "預計有卡頓（正在進行性能分析）",
+    "myst.profiling.running": "預計有卡頓（正在進行效能分析）",
     "myst.profiling.running.message": "Mystcraft 正在烤蛋糕。",
     "myst.profiling.complete": "叮！",
-    "myst.profiling.complete.message": "Mystcraft 已完成性能分析",
+    "myst.profiling.complete.message": "Mystcraft 已完成效能分析",
     "commands.myst.generic.player.notfound": "不能獲取此名稱的玩家: %s",
     "commands.myst.tpx.usage": "/tpx [傳送玩家] <目標玩家 | 目標維度 [x y z]>",
     "commands.myst.tpx.fail.nosubject": "被傳送對象無效，傳送失敗。",
