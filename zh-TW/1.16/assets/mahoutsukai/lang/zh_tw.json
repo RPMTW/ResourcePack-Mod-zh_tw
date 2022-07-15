@@ -509,7 +509,7 @@
     "mahoutsukai.config.catalyst_exchange_block_cycle.name": "原料交換操作週期（以刻為單位）",
     "mahoutsukai.config.catalyst_exchange_mana_cost.comment": "每次變化原料消耗的法力",
     "mahoutsukai.config.catalyst_exchange_mana_cost.name": "原料交換法力消耗（每次變化）",
-    "mahoutsukai.config.chain_quality.comment": "降低質量可優化FPS",
+    "mahoutsukai.config.chain_quality.comment": "降低品質可最佳化FPS",
     "mahoutsukai.config.chain_quality.name": "鎖鏈質量",
     "mahoutsukai.config.chain_volume.comment": "鎖鏈音量",
     "mahoutsukai.config.chain_volume.name": "鎖鏈音量",
