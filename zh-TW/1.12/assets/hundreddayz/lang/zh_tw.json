@@ -24,7 +24,7 @@
     "entity.hundreddayz.TFZombie.name": "TF2 NPC殭屍",
     "entity.hundreddayz.NurseZombie.name": "護士殭屍",
     "effect.hundreddayz.Bleed": "流血",
-    "death.attack.ToxicGas": "%1$s被有毒氣體嗆到",
+    "death.attack.ToxicGas": "%1$s choked on toxic gas",
     "death.attack.Bleed": "%1$s血流乾了",
     "message.hundreddayz.Lava.Pickup": "The lava is too hot to carry.",
     "message.hundreddayz.Lava.Break": "The lava melted through the bucket.",
@@ -88,7 +88,7 @@
     "entity.hundreddayz.HuskNoPlace.name": "Husk",
     "entity.hundreddayz.HuskNoBreakOrPlace.name": "Husk",
     "entity.hundreddayz.Turret.name": "Sentry Turret",
-    "death.attack.Shrapnel": "%1$s stepped on a landmine",
+    "death.attack.Shrapnel": "%1$s went kaboom",
     "gui.text.Hunger": "Hunger",
     "gui.text.Curing": "Syringes",
     "gui.turret.text.Owner": "Owner: ",
@@ -104,5 +104,8 @@
     "item.hundreddayz.FireAxe.name": "Fire Axe",
     "item.hundreddayz.FireHat.name": "Fireman Hat",
     "tooltip.hundreddayz.BarbedWire.Durability": "Durability:",
-    "entity.hundreddayz.ZombieFireman.name": "Zombie Fireman"
+    "entity.hundreddayz.ZombieFireman.name": "Zombie Fireman",
+    "tooltip.hundreddayz.BarbedWire.durability": "Durability:",
+    "entity.hundreddayz.LibraryZombie.name": "Library Zombie",
+    "death.attack.BarbedWire": "%1$s met a prickly end"
 }
