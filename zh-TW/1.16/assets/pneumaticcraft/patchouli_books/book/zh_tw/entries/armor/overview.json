@@ -26,6 +26,12 @@
       "text": "穿戴盔甲時，盔甲將耗費數秒的時間$(thing)啟動/$。可以按下 $(thing)$(k:pneumaticcraft.armor.options)/$ 鍵打開設定介面，在此可以設定安裝的升級並調節懸浮窗口。安裝更多升級後，介面中會出現更多選項。$(p)值得注意的是，所有升級都可以在設定介面通過複選框開關，甚至可以將開關操作進行鍵位綁定，以便在未打開介面時開關。"
     },
     {
+      "type": "spotlight",
+      "item": "minecraft:anvil",
+      "title": "Repairing",
+      "text": "There are a few ways to keep your valuable armor in good condition:$(li)It can be repaired in an $(thing)Anvil/$ with Compressed Iron Ingots$(li)Add $(thing)Item Life Upgrades/$ to each piece to have it repair itself$(li)Apply the $(thing)Mending/$ enchantment to each piece"
+    },
+    {
       "type": "text",
       "title": "Coloring",
       "text": "Every armor piece is dynamically re-colorable from the default grey texture; each piece has a $(thing)primary/$ and $(thing)secondary/$ color which can be adjusted independently, and the Helmet $(thing)eyepiece/$ can also have its own color.$(p)To adjust colors, just use the $(bold)Colors.../$ screen from the main armor GUI screen. No special upgrades are needed for this; it's builtin functionality!"
