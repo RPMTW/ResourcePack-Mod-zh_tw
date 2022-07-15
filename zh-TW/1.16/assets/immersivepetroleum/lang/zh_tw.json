@@ -106,7 +106,7 @@
     "chat.immersivepetroleum.command.reservoir.setAmount.help": "§6用法：/ip reservoir setAmount <number>§r<br> 設定該區塊的流體儲層內剩餘的流體量，單位是mB。",
     "chat.immersivepetroleum.command.reservoir.setCapacity.help": "§6用法：/ip reservoir setCapacity <number>§r<br> 設定該區塊的流體儲層的最大容量，單位是mB。",
     "chat.immersivepetroleum.command.reservoir.get": "該區塊包含：%1$s <br>被重設為：%2$s <br>含量：%3$s",
-    "chat.immersivepetroleum.command.reservoir.set.invalidReservoir": "§c無效的流體儲層，'%1$s'不是有效的流體儲層類型。使用 「/ip reservoir list」 這個指令來查看列出所有流體儲層類型的列表。§r",
+    "chat.immersivepetroleum.command.reservoir.set.invalidReservoir": "§cInvalid reservoir, '%1$s' is not a valid identifier.§r",
     "chat.immersivepetroleum.command.reservoir.set.sucess": "該區塊流體儲層被重設為：%1$s",
     "chat.immersivepetroleum.command.reservoir.set.clear": "已清除該區塊流體儲層的重設（曾被重設為%1$s）",
     "chat.immersivepetroleum.command.reservoir.setAmount.sucess": "該區塊流體儲層剩餘流體量已設為：%1$s",
@@ -121,5 +121,7 @@
     "death.attack.ipFlarestack": "%1$s在火光裡灰飛煙滅了",
     "death.attack.ipFlarestack.player": "%2$s導致%1$s在火光裡灰飛煙滅",
     "subtitle.immersivepetroleum.projector": "投影機：嗡嗡聲",
-    "subtitle.immersivepetroleum.flarestack_fire": "焚油煙囪：火焰嗖嗖聲"
+    "subtitle.immersivepetroleum.flarestack_fire": "焚油煙囪：火焰嗖嗖聲",
+    "desc.immersivepetroleum.flavour.speedboat.prefix": "Upgraded ",
+    "desc.immersivepetroleum.flavour.speedboat.upgrade": "Upgrade %d: "
 }
