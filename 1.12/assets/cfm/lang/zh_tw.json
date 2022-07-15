@@ -625,5 +625,13 @@
     "advancements.cfm.whatdidyoueat": "Constipated",
     "advancements.cfm.whatdidyoueat.desc": "Maybe I won't eat that again",
     "advancements.cfm.allclean": "No More Skinny Dipping",
-    "advancements.cfm.allclean.desc": "Take a shower"
+    "advancements.cfm.allclean.desc": "Take a shower",
+    "cfm.tv.untrusted": "Untrusted domain. Add the domain to config file to view gif",
+    "cfm.tv.invalid": "Invalid URL",
+    "cfm.tv.wrong_scheme": "URL can only be HTTP or HTTPS",
+    "cfm.tv.unsupported_type": "Image can only be a GIF",
+    "cfm.photo_frame.untrusted": "Untrusted domain. Add the domain to config file to view image",
+    "cfm.photo_frame.invalid": "Invalid URL",
+    "cfm.photo_frame.wrong_scheme": "URL can only be HTTP or HTTPS",
+    "cfm.photo_frame.unsupported_type": "Image can only be PNG or JPEG"
 }
