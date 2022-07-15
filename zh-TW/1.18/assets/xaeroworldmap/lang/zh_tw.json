@@ -65,7 +65,7 @@
     "gui.xaero_no_world_map_message": "地圖被停用，因為你有一個停用世界地圖的藥水效果。",
     "gui.xaero_box_zoom_in": "放大\n（或滑鼠滾輪）",
     "gui.xaero_box_zoom_out": "縮小\n（或滑鼠滾輪）",
-    "gui.xaero_box_controls": "控制\n \n按一下並拖動以滾動地圖。\n滾動滑鼠滾輪以放大和縮小。\n按右鍵地圖以獲取一些有用的快捷方式。\n 按 §2%2$s §r開啟全域設定。\n 按 §2%3$s §r用於替代放大。\n 按 §2%4$s §r用於替代縮小。\n 按 %1$s 點擊此處編輯按鍵。",
+    "gui.xaero_box_controls": "Controls \n \n Click and drag to scroll the map. \n Scroll the mouse wheel to zoom in and out (CTRL for precise). \n Right-click the map for some useful shortcuts. \n Some UI buttons have additional key bindings displayed in their tooltip. \n \n Right-click a map element (e.g. waypoint) for options. \n %1$sClick here to edit the key bindings.",
     "gui.xaero_box_controls_minimap": "\n定位點控制：\n 按 §2%s §r創建一個新的定位點。\n 按 §2%s §r創建一個快速的臨時定位點。\n按 §2%s §r切換定位點集。\n按 §2%s §r切換渲染所有定位點集。\n按 §2%s §r開啟完整的定位點選單。\n按右鍵現有定位點以進行更多定位點控制。\n \n ",
     "gui.xaero_box_export": "將地圖匯出成PNG圖檔",
     "gui.xaero_export_confirm_1": "確定要將地圖匯出成PNG圖檔嗎？",
