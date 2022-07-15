@@ -6,5 +6,21 @@
     "chunkloaders.gui.loaded": "已載入",
     "chunkloaders.gui.unloaded": "無法載入",
     "chunkloaders.chunk_loader.info.single": "可以載入單一區塊",
-    "chunkloaders.chunk_loader.info.multiple": "可以通過 %1$d 加載到%1$d"
+    "chunkloaders.chunk_loader.info.multiple": "Can load chunks in a %1$d by %1$d chunk area",
+    "chunkloaders.gui.chunk.available": "Click to load",
+    "chunkloaders.gui.chunk.loaded": "Loaded",
+    "chunkloaders.gui.chunk.others": "Loaded by",
+    "chunkloaders.gui.chunk.overwrite": "Hold %s to overwrite",
+    "chunkloaders.gui.loaded_chunks": "Loaded chunks:",
+    "chunkloaders.gui.loaded_chunks.count": "%s",
+    "chunkloaders.gui.loaded_chunks.count_max": "%1$s / %2$s",
+    "chunkloaders.gui.owner": "Owner:",
+    "chunkloaders.gui.speech.chunk.not_loaded": "Not loaded",
+    "chunkloaders.gui.speech.chunk.others": "Loaded by other players",
+    "chunkloaders.gui.title": "Chunk Loader Screen",
+    "chunkloaders.keys.category": "Chunk Loaders",
+    "chunkloaders.keys.open_screen": "View Chunk Loaders",
+    "chunkloaders.legacy_message": "Please shift-right-click this chunk loader to set its owner!",
+    "chunkloaders.legacy_success": "You are now the owner of this chunk loader!",
+    "itemGroup.chunkloaders": "Chunk Loaders"
 }
