@@ -152,5 +152,9 @@
     "key.jei.copy.recipe.id": "Copy Recipe ID to Clipboard",
     "jei.message.copy.recipe.id.success": "Copied Recipe ID to clipboard: %s",
     "jei.message.copy.recipe.id.failure": "Failed to Copy Recipe ID to clipboard, the Recipe ID is unknown",
-    "key.jei.closeRecipeGui": "Close Recipes GUI"
+    "key.jei.closeRecipeGui": "Close Recipes GUI",
+    "jei.key.combo.shift": "SHIFT + %s",
+    "jei.key.combo.control": "CTRL + %s",
+    "jei.key.combo.command": "CMD + %s",
+    "jei.key.combo.alt": "ALT + %s"
 }

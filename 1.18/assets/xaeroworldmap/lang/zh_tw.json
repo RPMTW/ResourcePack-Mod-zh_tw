@@ -65,7 +65,7 @@
     "gui.xaero_no_world_map_message": "The map is disabled with a potion effect.",
     "gui.xaero_box_zoom_in": "%s Zoom In \n (or mouse wheel)",
     "gui.xaero_box_zoom_out": "%s Zoom Out \n (or mouse wheel)",
-    "gui.xaero_box_controls": "Controls \n \n Click and drag to scroll the map. \n Scroll the mouse wheel to zoom in and out (CTRL for precise). \n Right-click the map for some useful shortcuts. \n Some UI buttons have additional key bindings displayed in their tooltip. \n \n %1$sRight-click a map element (e.g. waypoint) for options. \n %1$sClick here to edit the key bindings.",
+    "gui.xaero_box_controls": "Controls \n \n Click and drag to scroll the map. \n Scroll the mouse wheel to zoom in and out (CTRL for precise). \n Right-click the map for some useful shortcuts. \n Some UI buttons have additional key bindings displayed in their tooltip. \n \n Right-click a map element (e.g. waypoint) for options. \n %1$sClick here to edit the key bindings.",
     "gui.xaero_box_controls_minimap": "§2%s§r to create a new waypoint. \n §2%s§r to create a quick temporary waypoint. \n §2%s§r to switch the waypoint set. \n §2%s§r to toggle rendering all waypoint sets. \n §2%s§r to open the full waypoint menu. \n \n ",
     "gui.xaero_box_export": "Export the map as a PNG file.",
     "gui.xaero_export_confirm_1": "Do you want to export the map as a PNG file?",
