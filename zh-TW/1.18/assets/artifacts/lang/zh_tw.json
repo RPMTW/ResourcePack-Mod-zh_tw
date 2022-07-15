@@ -103,7 +103,7 @@
     "artifacts.config.client.items.show_tooltips": "顯示物品的工具提示欄\n",
     "artifacts.config.client.mimic.use_modded_textures": "使用模組添加的箱子材質",
     "artifacts.config.server.cosmetics": "裝飾性物品清單",
-    "artifacts.config.server.items.cooldown": "冷卻",
+    "artifacts.config.server.items.cooldown": "Cooldown",
     "artifacts.config.server.antidote_vessel.max_effect_duration": "負效應持續時間上限",
     "artifacts.config.server.bunny_hoppers.should_cancel_fall_damage": "取消墜落損害?",
     "artifacts.config.server.bunny_hoppers.jump_boost_level": "跳躍提升效果級別",
