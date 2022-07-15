@@ -281,5 +281,10 @@
     "item.smallships.bop_umbran_dhow": "暗影木阿拉伯帆船",
     "item.smallships.bop_willow_dhow": "柳木阿拉伯帆船",
     "key.higher_ship_sail": "Higher Sail",
-    "key.lower_ship_sail": "Lower Sail"
+    "key.lower_ship_sail": "Lower Sail",
+    "item.smallships.cannon_item": "Ship Cannon",
+    "item.smallships.cannonball_item": "Round Shot",
+    "tooltip.plane.damage": "Damage: %s %%",
+    "tooltip.plane.throttle": "Throttle: %s %%",
+    "tooltip.plane.speed": "Speed: %s"
 }
