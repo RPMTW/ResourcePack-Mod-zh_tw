@@ -196,7 +196,7 @@
     "text.autoconfig.repurposed_structures-fabric/general_configs.option.RSMineshaftsConfig.size.swampMineshaftSize": "沼澤礦坑",
     "text.autoconfig.repurposed_structures-fabric/general_configs.option.RSMineshaftsConfig.size.taigaMineshaftSize": "針葉林礦坑",
     "text.autoconfig.repurposed_structures-fabric/general_configs.option.RSMineshaftsConfig.size.warpedMineshaftSize": "扭曲蕈木礦坑",
-    "text.autoconfig.repurposed_structures-fabric/general_configs.option.RSMineshaftsConfig.misc": "雜項",
+    "text.autoconfig.repurposed_structures-fabric/general_configs.option.RSMineshaftsConfig.misc": "Misc",
     "text.autoconfig.repurposed_structures-fabric/general_configs.option.RSMineshaftsConfig.misc.endMineshaftMinIslandThickness.@PrefixText": "\nThe minimum thickness of End islands that the End Mineshaft can spawn in.\n So 30 means the End Mineshaft will spawn in land that is at least 30 blocks vertically in the area.\n Do 0 to turn off this check and allow the End Mineshaft to spawn anywhere including floating in midair.",
     "text.autoconfig.repurposed_structures-fabric/general_configs.option.RSMineshaftsConfig.misc.endMineshaftMinIslandThickness": "Minimum island thickness for End Mineshafts",
     "text.autoconfig.repurposed_structures-fabric/general_configs.option.RSMineshaftsConfig.spawnrate": "生成速度",
