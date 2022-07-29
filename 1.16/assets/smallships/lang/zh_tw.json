@@ -286,5 +286,9 @@
     "item.smallships.cannonball_item": "Round Shot",
     "tooltip.plane.damage": "Damage: %s %%",
     "tooltip.plane.throttle": "Throttle: %s %%",
-    "tooltip.plane.speed": "Speed: %s"
+    "tooltip.plane.speed": "Speed: %s",
+    "death.attack.cannonball": "%s was shot with a cannon.",
+    "death.attack.cannonball.player": "%s was shot with a cannon by %s.",
+    "death.attack.hit_ship": "%s was hit by a ship.",
+    "death.attack.hit_ship.player": "%s was hit by %s with a ship."
 }

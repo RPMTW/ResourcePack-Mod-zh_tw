@@ -595,5 +595,22 @@
     "gui.xaero_radar_over_map_list": "Player List",
     "gui.xaero_radar_over_map_always": "Always",
     "gui.xaero_compass_over_everything": "Compass Over Everything",
-    "gui.xaero_box_compass_over_everything": "Render the compass letters (N, E, S, W) above all map elements, as opposed to under some, e.g. waypoints."
+    "gui.xaero_box_compass_over_everything": "Render the compass letters (N, E, S, W) above all map elements, as opposed to under some, e.g. waypoints.",
+    "gui.xaero_waypoint_server_shared": "Server",
+    "gui.xaero_pac_players": "Display Party/Ally Players",
+    "gui.xaero_box_pac_players": "Display players whose locations are shared with you (by the Open Parties and Claims mod) when they are out of the minimap frame bounds or not visible for another reason.",
+    "gui.xaero_toggle_pac_players": "Toggle Party/Ally Players",
+    "gui.xaero_toggle_pac_chunk_claims": "Toggle Chunk Claims",
+    "gui.xaero_pac_marked_for_forceload": " (Forceloadable)",
+    "gui.xaero_pac_claim_tooltip": "%1$s's Claim%2$s",
+    "gui.xaero_pac_server_claim_tooltip": "Server Claim%1$s",
+    "gui.xaero_pac_expired_claim_tooltip": "Expired Claim%1$s",
+    "gui.xaero_pac_claims": "Display Chunk Claims",
+    "gui.xaero_box_pac_claims": "Display chunk claims from the Open Parties and Claims mod as a colored overlay.",
+    "gui.xaero_pac_claims_opacity": "Chunk Claims Opacity",
+    "gui.xaero_box_pac_claims_opacity": "The opacity of the chunk claims overlay. Chunk claims require the Open Parties and Claims mod.",
+    "gui.xaero_pac_current_claim": "Display Current Claim",
+    "gui.xaero_box_pac_current_claim": "Display claim information about the chunk that you are in. Chunk claims require the Open Parties and Claims mod.",
+    "gui.xaero_category_include_list_include_in_super": "Include in Super-Category",
+    "gui.xaero_box_category_include_list_include_in_super": "Automatically include all entities from this list, and other lists included in this category, in the super-category/parent of this category, except the entities in the exclude list. That way you don't have to manually add duplicates on each level."
 }
