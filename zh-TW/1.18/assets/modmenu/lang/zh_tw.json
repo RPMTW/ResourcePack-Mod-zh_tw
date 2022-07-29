@@ -31,10 +31,10 @@
     "modmenu.dropSuccessful.line2": "重新啟動遊戲以載入模組",
     "modmenu.modIdToolTip": "模組 ID：%s",
     "modmenu.authorPrefix": "作者：%s",
-    "modmenu.config": "編輯設置",
-    "modmenu.configure": "設置...",
+    "modmenu.config": "編輯設定",
+    "modmenu.configure": "設定...",
     "modmenu.website": "網站",
-    "modmenu.issues": "反饋",
+    "modmenu.issues": "回報問題",
     "modmenu.credits": "感謝：",
     "modmenu.viewCredits": "查看製作人員名單",
     "modmenu.license": "授權：",
@@ -108,9 +108,9 @@
     "option.modmenu.mods_button_style.icon": "圖示",
     "modmenu.searchTerms.library": "API 庫",
     "modmenu.searchTerms.patchwork": "patchwork forge fml",
-    "modmenu.searchTerms.deprecated": "deprecated outdated old",
+    "modmenu.searchTerms.deprecated": "已棄用",
     "modmenu.searchTerms.clientside": "客戶端遊戲端",
     "modmenu.searchTerms.configurable": "配置 configs 配置可配置的選項",
-    "category.modmenu.name": "Mod Menu",
-    "key.modmenu.open_menu": "Open Mod Menu"
+    "category.modmenu.name": "模組選單",
+    "key.modmenu.open_menu": "開啟模組選單"
 }
