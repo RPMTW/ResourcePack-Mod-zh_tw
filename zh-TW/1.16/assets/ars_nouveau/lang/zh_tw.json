@@ -282,7 +282,7 @@
     "ars_nouveau.glyph_desc.cold_snap": "定住已經潮濕或在緩慢狀態的實體，並對其造成爆發傷害。附近不是緩慢狀態的敵人也會進入緩慢狀態。目標附近已是潮濕或緩慢狀態的實體也會被寒流擊中。可被強化、延長時效和範圍效果增強。",
     "ars_nouveau.glyph_desc.conjure_water": "在目標位置放置水，或者幫著火的實體滅火。",
     "ars_nouveau.glyph_desc.craft": "打開合成選單。",
-    "ars_nouveau.glyph_desc.crush": "將石頭變成礫石，礫石變成沙。也會傷害實體，會對正在游泳的實體造成額外傷害。",
+    "ars_nouveau.glyph_desc.crush": "Turns stone into gravel, and gravel into sand. Will also crush flowers into bonus dye. For full recipe support, see JEI. Will also harm entities and deals bonus damage to entities that are swimming. Use runes or sensitive to target items.",
     "ars_nouveau.glyph_desc.cut": "模擬對實體或方塊使用剪刀，或者對不能被剪的實體造成少量傷害。要模擬使用剪刀破壞，參見破壞和敏感魔符。該構件不消耗魔力。",
     "ars_nouveau.glyph_desc.dampen": "減少大多數法術的強度。稍微減少魔力消耗，但不會低於 0。",
     "ars_nouveau.glyph_desc.delay": "放在法術鏈右邊可稍微延遲效果的發生。延遲可被延長時效和縮短時效增強。",
