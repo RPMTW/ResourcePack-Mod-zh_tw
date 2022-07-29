@@ -663,7 +663,7 @@
     "productivebees.information.nestlocator.unconfigured": "Not tuned. Shift right click on a block of the same type as the nest you are looking for.",
     "productivebees.information.upgrade.unconfigured": "Unconfigured",
     "productivebees.information.upgrade.upgrade_anti_teleport": "Prevents bees living in this hive from teleporting.",
-    "productivebees.information.upgrade.upgrade_bee_sampler": "Slowly extracts genes from visiting bees totally not hurting them in the process.",
+    "productivebees.information.upgrade.upgrade_bee_sampler": "Slowly extracts genes from visiting bees totally not hurting them in the process.\nMultiple upgrades can be installed for a greater chance.",
     "productivebees.information.upgrade.upgrade_breeding": "When installed in a hive it gives a %s%% chance for a new baby bee to be spawned from the hive every time honey is delivered.\nThe type of bee is based on which bees are present in the hive.\nMultiple upgrades can be installed for a greater chance.\nWhen installed in a Catcher only baby bees will be caught.",
     "productivebees.information.upgrade.upgrade_comb_block": "Changes the produced output to blocks instead of chips for Lumber and Quarry bees.",
     "productivebees.information.upgrade.upgrade_filter": "To clear the filter, put it in the crafting grid.",
@@ -782,5 +782,12 @@
     "productivebees.ingredient.description.spacial_bee": "The combs of this bee can be centrifuged to get certus quartz seeds which require further processing.",
     "productivebees.ingredient.description.sweat_bee": "Lives in cold areas.",
     "productivebees.ingredient.description.zombie_bee": "Be sure to keep your hives well lit to prevent this guy from moving in.",
-    "productivebees.ingredient.description.hematophagous_bee": "It pollinates from animals, I just haven't found a way to show that in JEI yet."
+    "productivebees.ingredient.description.hematophagous_bee": "It pollinates from animals, I just haven't found a way to show that in JEI yet.",
+    "entity.productivebees.patrick_bee": "Patrick Bee",
+    "entity.productivebees.pure_bee": "Pure Bee",
+    "entity.productivebees.soul_lava_bee": "Soul Lava Bee",
+    "entity.productivebees.starry_bee": "Starry Bee",
+    "item.productivebees.upgrade_not_babee": "Upgrade: not BaBee",
+    "jei.productivebees.bee_fishing": "Bee Fishing",
+    "productivebees.information.upgrade.upgrade_not_babee": "When installed in a Catcher only adult bees will be caught."
 }

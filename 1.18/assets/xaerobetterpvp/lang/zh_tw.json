@@ -608,5 +608,7 @@
     "gui.xaero_pac_claims_opacity": "Chunk Claims Opacity",
     "gui.xaero_box_pac_claims_opacity": "The opacity of the chunk claims overlay. Chunk claims require the Open Parties and Claims mod.",
     "gui.xaero_pac_current_claim": "Display Current Claim",
-    "gui.xaero_box_pac_current_claim": "Display claim information about the chunk that you are in. Chunk claims require the Open Parties and Claims mod."
+    "gui.xaero_box_pac_current_claim": "Display claim information about the chunk that you are in. Chunk claims require the Open Parties and Claims mod.",
+    "gui.xaero_category_include_list_include_in_super": "Include in Super-Category",
+    "gui.xaero_box_category_include_list_include_in_super": "Automatically include all entities from this list, and other lists included in this category, in the super-category/parent of this category, except the entities in the exclude list. That way you don't have to manually add duplicates on each level."
 }
