@@ -132,10 +132,10 @@
     "ability.travelersbackpack.emerald": "Gives some cool particles, nothing special",
     "ability.travelersbackpack.redstone": "Redstone block in a form of a backpack. Provides strong redstone signal",
     "ability.travelersbackpack.bookshelf": "Holds mighty knowledge, place around enchanting table just like the bookshelf to get higher-level enchantments!",
-    "ability.travelersbackpack.sponge": "Sponge backpack works like sponge block and stores water in backpack tanks. It is required to have empty or not fully water filled tanks for ability to work",
+    "ability.travelersbackpack.sponge": "Works like sponge block and stores water in backpack tanks. It is required to have empty or not fully water filled tanks for ability to work",
     "ability.travelersbackpack.cactus": "Acts like real-life cacti, If it's raining and above backpack is clear sky, the backpack will fill empty tanks with water over time. If you want some more water, dip yourself! The backpack can fill with water while being a block too",
     "ability.travelersbackpack.creeper": "If player is going to die, creates explosion which damages every creature around, granting player absorption, regeneration and fire protection effects. Ability is available every few minutes",
-    "ability.travelersbackpack.dragon": "Backpack for real warriors, combines Magma's Cube' and Squid's backpack abilties, plus gives you strenght and regeneration! You'll be invincible!... but.. what did it cost?",
+    "ability.travelersbackpack.dragon": "Backpack for real warriors, combines Magma's Cube and Squid's backpack abilties, plus gives you strenght and regeneration! You'll be invincible!... but.. what did it cost?",
     "ability.travelersbackpack.blaze": "Immunity to fall damage",
     "ability.travelersbackpack.magma_cube": "Immunity to fire damage",
     "ability.travelersbackpack.wither": "Immunity to wither effect",
@@ -143,5 +143,10 @@
     "ability.travelersbackpack.ocelot": "If nearby hostile mob, grants speed effect",
     "ability.travelersbackpack.chicken": "Have you ever wanted to be a chicken? No? Well, now you are! You'll lay eggs!",
     "ability.travelersbackpack.squid": "Grants water breathing and night vision effects while being in water",
-    "fluid.travelersbackpack.potion_fluid": "Potion"
+    "fluid.travelersbackpack.potion_fluid": "Potion",
+    "screen.travelersbackpack.ability_disabled_config": "Abilities disabled by config option",
+    "ability.travelersbackpack.netherite": "+4 Armor",
+    "ability.travelersbackpack.diamond": "+3 Armor",
+    "ability.travelersbackpack.gold": "+2 Armor",
+    "ability.travelersbackpack.iron": "+2 Armor"
 }
