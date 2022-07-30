@@ -7,12 +7,12 @@
     "config.backtools.prop.toolOrientation.desc": "工具方向，按類檔案和角度。單獨與\":\" 有關範例，請參閱預設值。",
     "config.backtools.prop.nbtCleaner.name": "NBT 清除器",
     "config.backtools.prop.nbtCleaner.desc": "部分NBT標籤將導致回工具顯示不當。 使用此設定來清理工具標籤。",
-    "config.backtools.prop.enabledToolsID.name": "Enabled Tools (by ID)",
-    "config.backtools.prop.enabledToolsID.desc": "Enabled tools, by their resource name. Eg: minecraft:diamond_hoe.",
-    "config.backtools.prop.enabledToolsClass.name": "Enabled Tools (by Class)",
-    "config.backtools.prop.enabledToolsClass.desc": "Enabled tools, by their Class name. Eg: net.minecraft.item.TieredItem.",
-    "config.backtools.prop.disabledToolsID.name": "Disabled Tools (by ID)",
-    "config.backtools.prop.disabledToolsID.desc": "Disabled tools, by their resource name. Eg: minecraft:diamond_hoe",
-    "config.backtools.prop.disabledToolsClass.name": "Disabled Tools (by Class)",
-    "config.backtools.prop.disabledToolsClass.desc": "Disabled tools, by their Class name. Eg: net.minecraft.item.TieredItem"
+    "config.backtools.prop.enabledToolsID.name": "啟用的工具（按 ID）",
+    "config.backtools.prop.enabledToolsID.desc": "啟用的工具，按其資源名稱。 例如： minecraft：diamond_hoe.",
+    "config.backtools.prop.enabledToolsClass.name": "啟用的工具（按類別）",
+    "config.backtools.prop.enabledToolsClass.desc": "啟用的工具，按其類別名稱。 例如：net.minecraft.item.TieredItem。",
+    "config.backtools.prop.disabledToolsID.name": "禁用工具（按 ID）",
+    "config.backtools.prop.disabledToolsID.desc": "已停用工具，按其資源名稱。 例如： minecraft：diamond_hoe",
+    "config.backtools.prop.disabledToolsClass.name": "禁用工具（按類別）",
+    "config.backtools.prop.disabledToolsClass.desc": "禁用工具，按其類別名稱。 例如：net.minecraft.item.TieredItem"
 }
