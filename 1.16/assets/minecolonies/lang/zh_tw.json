@@ -2551,5 +2551,16 @@
     "com.minecolonies.coremod.gui.chat.zarlios": "Hire me to slaughter your enemies!",
     "com.minecolonies.research.effects.fishingtreasure.description": "Fishers can find treasure outside the ocean",
     "com.minecolonies.research.technology.oceanheart.name": "Ocean's Heart",
-    "com.minecolonies.research.technology.oceanheart.subtitle": "With great mystic power comes great mystic loot!"
+    "com.minecolonies.research.technology.oceanheart.subtitle": "With great mystic power comes great mystic loot!",
+    "com.minecolonies.gui.workerhuts.expeditionlog": "Expedition Log",
+    "com.minecolonies.gui.workerhuts.expedition.none": "No expedition",
+    "com.minecolonies.gui.workerhuts.expedition.starting": "Starting Expedition",
+    "com.minecolonies.gui.workerhuts.expedition.in_progress": "On an Adventure",
+    "com.minecolonies.gui.workerhuts.expedition.returning_home": "Returning Home",
+    "com.minecolonies.gui.workerhuts.expedition.completed": "Expedition Complete",
+    "com.minecolonies.gui.workerhuts.expedition.killed": "Died during Expedition",
+    "com.minecolonies.gui.workerhuts.expedition.killed.tip": "Sadly, these items were lost.",
+    "com.minecolonies.research.effects.netherexpeditionlog.description": "Adds expedition log to Nether Mine",
+    "com.minecolonies.research.technology.netherlog.name": "Gaze into the Pits",
+    "com.minecolonies.research.technology.netherlog.subtitle": "Always use proper lenses to avoid eye damage"
 }

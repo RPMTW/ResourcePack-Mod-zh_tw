@@ -1,5 +1,5 @@
 {
-    "tombstone.lang.version": "2.2.2",
+    "tombstone.lang.version": "2.2.3",
     "tombstone.grave.grave_simple": "Simple Grave",
     "tombstone.grave.grave_normal": "Normal Grave",
     "tombstone.grave.grave_cross": "Cross Grave",
@@ -979,5 +979,8 @@
     "tombstone.message.familiar_already_owned": "This familiar is already owned",
     "bonus.tombstone.exorcism.title": "Exorcism",
     "effect.tombstone.prayer": "Prayer",
-    "tombstone.config.max_xp_lost_page.tooltip": "Maximum xp rewarded with a Lost Page of Erdös"
+    "tombstone.config.max_xp_lost_page.tooltip": "Maximum xp rewarded with a Lost Page of Erdös",
+    "cursed_arrow": "Cursed Arrow",
+    "item.minecraft.tipped_arrow.effect.bait": "Arrow of Bait",
+    "tombstone.config.log_auto_backup.tooltip": "Log when players are automatically back up"
 }
