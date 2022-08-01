@@ -973,5 +973,9 @@
     "tombstone.advancement.color_smoke_ball.title": "All colours will agree in the dark",
     "tombstone.advancement.color_smoke_ball.desc": "You colored a Smoke Ball",
     "bonus.tombstone.exorcism.title": "Exorcism",
-    "tombstone.config.max_xp_lost_page.tooltip": "Maximum xp rewarded with a Lost Page of Erdös"
+    "tombstone.config.max_xp_lost_page.tooltip": "Maximum xp rewarded with a Lost Page of Erdös",
+    "cursed_arrow": "Cursed Arrow",
+    "item.minecraft.tipped_arrow.effect.bait": "Arrow of Bait",
+    "item.minecraft.tipped_arrow.effect.frostbite": "Arrow of Frostbite",
+    "tombstone.config.log_auto_backup.tooltip": "Log when players are automatically back up"
 }
