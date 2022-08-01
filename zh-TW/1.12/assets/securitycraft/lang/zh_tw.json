@@ -971,5 +971,7 @@
     "module.securitycraft:block_change_detector.smartModule.description": "Adding a smart module to a block change detector allows it to only log changes of one specific type of block. The block can be set in the GUI.",
     "option.securitycraft:block_change_detector.signalLength": "Signal length: #\noption.securitycraft:block_change_detector.signalLength.description=How long should the redstone signal after detecting a block change be? (In ticks, 20 ticks = 1 second)",
     "option.securitycraft:block_change_detector.range": "Detection radius: #",
-    "option.securitycraft:block_change_detector.range.description": "How far away should the detector be able to detect block changes by players?"
+    "option.securitycraft:block_change_detector.range.description": "How far away should the detector be able to detect block changes by players?",
+    "option.generic.disabled": "Disabled: #",
+    "option.generic.disabled.description": "Should this block be disabled, making it no longer work until it is enabled again?"
 }
