@@ -976,5 +976,6 @@
     "tombstone.config.max_xp_lost_page.tooltip": "Maximum xp rewarded with a Lost Page of Erdös",
     "cursed_arrow": "Cursed Arrow",
     "item.minecraft.tipped_arrow.effect.bait": "Arrow of Bait",
-    "item.minecraft.tipped_arrow.effect.frostbite": "Arrow of Frostbite"
+    "item.minecraft.tipped_arrow.effect.frostbite": "Arrow of Frostbite",
+    "tombstone.config.log_auto_backup.tooltip": "Log when players are automatically back up"
 }
