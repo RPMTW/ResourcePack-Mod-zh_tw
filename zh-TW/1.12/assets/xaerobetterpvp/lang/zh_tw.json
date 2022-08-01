@@ -611,5 +611,15 @@
     "gui.xaero_pac_current_claim": "顯示目前的生態域",
     "gui.xaero_box_pac_current_claim": "Display claim information about the chunk that you are in. Chunk claims require the Open Parties and Claims mod.",
     "gui.xaero_category_include_list_include_in_super": "Include in Super-Category",
-    "gui.xaero_box_category_include_list_include_in_super": "Automatically include all entities from this list, and other lists included in this category, in the super-category/parent of this category, except the entities in the exclude list. That way you don't have to manually add duplicates on each level."
+    "gui.xaero_box_category_include_list_include_in_super": "Automatically include all entities from this list, and other lists included in this category, in the super-category/parent of this category, except the entities in the exclude list. That way you don't have to manually add duplicates on each level.",
+    "gui.xaero_waypoint_somebody_shared": "Somebody",
+    "gui.xaero_temp_waypoints_global": "Global Temporary Waypoints",
+    "gui.xaero_box_temp_waypoints_global": "When enabled, temporary waypoints are treated as global waypoints and ignore the waypoint render distance limits.",
+    "gui.xaero_keep_enlarged_minimap_unlocked": "Keep Rotation When Enlarged",
+    "gui.xaero_box_keep_enlarged_minimap_unlocked": "Do not lock the minimap to north when enlarged if possible, which is only when using the circle shape at the time of writing this.",
+    "gui.xaero_enlarged_minimap_a_toggle": "Toggled Enlarged Minimap",
+    "gui.xaero_box_enlarged_minimap_a_toggle": "Treat the \"Enlarge Minimap\" key binding as a toggle instead of having to hold it.",
+    "gui.xaero_waypoint_visibility_type_world_map_local": "World Map Loc.",
+    "gui.xaero_waypoint_visibility_type_world_map_global": "World Map Glo.",
+    "gui.xaero_box_visibility_type": "In-Game/Minimap Visibility Type \\n \\n Local - only visible when in the maximum waypoint render distance \\n Global - always visible \\n World Map Loc. - not visible but is considered local \\n World Map Glo. - not visible but is considered global"
 }
