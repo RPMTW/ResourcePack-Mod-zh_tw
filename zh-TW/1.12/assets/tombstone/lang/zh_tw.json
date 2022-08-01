@@ -862,5 +862,8 @@
     "tombstone.compendium.book_of_repairing.desc": "The book allows you to repair your items and erase the wear and tear left by non-magical methods",
     "tombstone.compendium.book_of_magic_impregnation.desc": "The book allows you to enchant or strengthen the magic contained in certain items",
     "tombstone.config.allow_aether_autoEquip.tooltip": "Allows to re-equip Aether Legacy slots",
-    "tombstone.config.allow_thaumcraft_vis.tooltip": "Allows to provide some vis values for decorative graves"
+    "tombstone.config.allow_thaumcraft_vis.tooltip": "Allows to provide some vis values for decorative graves",
+    "tombstone.config.log_auto_backup.tooltip": "Log when players are automatically back up",
+    "cursed_arrow": "Cursed Arrow",
+    "tipped_arrow.effect.bait": "Bait Arrow"
 }
