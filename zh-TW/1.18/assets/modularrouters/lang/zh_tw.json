@@ -223,7 +223,7 @@
     "modularrouters.guiText.tooltip.regulator.labelFluidPct": "%d%%",
     "modularrouters.guiText.tooltip.regulatorTooltip": "§b啟用物品調節${br}物品輸入時:僅在庫存物品少於設定的數量的情況下放入/使用物品${br}物品提取時：僅在庫存物品超過設定的數量時抽取/使用物品。",
     "modularrouters.guiText.tooltip.removeFilterHint": "§7§o潛行+左鍵點擊：從過濾名單中刪除物品訊息",
-    "modularrouters.guiText.tooltip.RIGHT": "右方",
+    "modularrouters.guiText.tooltip.RIGHT": "Right",
     "modularrouters.guiText.tooltip.terminate.NONE": "Always continue executing subsequent modules on this tick, regardless of whether this module did anything.",
     "modularrouters.guiText.tooltip.terminate.NONE.header": "Always Continue",
     "modularrouters.guiText.tooltip.terminate.NOT_RAN": "Don't execute any subsequent modules on this tick if this module did NOT do anything.",
