@@ -96,7 +96,7 @@
     "litematica.gui.button.hover.schematic_list.reload_schematic": "從文件中重新加載原理圖。\n如果你在原理圖編輯模式下犯了一個錯誤，這一點很有用。",
     "litematica.gui.button.hover.schematic_projects.area_browser_disabled_currently_in_projects_mode": "目前打開了一個藍圖專案\n藍圖專案將覆蓋正常區域選擇功能",
     "litematica.gui.button.hover.schematic_projects.delete_area": "§6刪除最後放置或儲存的區域§r",
-    "litematica.gui.button.hover.schematic_projects.menu_warning": "(This was called Schematic Projects before.)\nIn general you §6should not§r be using this feature,\nunless you really know how it works and what it does.\nIt somewhat changes how the area selections, placements and pasting works,\nin particular that there is also an area delete operation when pasting.\n\nBasically this feature is intended for §6iterative, in-place§r design work,\nand it allows you to easier create multiple versions/snapshots\nof the same build, and also to switch between the versions by deleting what is\nin the world first, and then pasting the next version in its place.",
+    "litematica.gui.button.hover.schematic_projects.menu_warning": "這個專案之前叫做Schematic\n一般來說，您 §6不應該§r使用這項插件，\n除非你了解它是如何使用的的以及它做了什麼。\n他改變了一些區域「圈選、位移以及貼上」的工作方式,\n特別是在貼上的時候區域刪除的操作。\n\n基本上這些功能用於 §6迭代、就定位§r 的設計工作，\n並且能夠讓你更簡單的在於同一種建築創造多種版本/快照，\n還可以透過刪除在世界中的第一個版本，以及貼上下一個版本來做到版本切換",
     "litematica.gui.button.hover.schematic_projects.move_origin_to_player": "將專案原點移動到玩家目前位置\n這還會移動區域選擇和放置\n",
     "litematica.gui.button.hover.schematic_projects.place_to_world_warning": "§6警告：這將在一個之前放置或者儲存的\n§6一個版本的區域裡，刪除/覆蓋目前世界裡的方塊\n§6（基本上是最後一次看到的「有效區域選擇」）",
     "litematica.gui.button.hover.schematic_projects.save_new_version": "將新的藍圖/版本儲存到目前專案",
