@@ -14,7 +14,7 @@
     },
     {
       "type": "crafting",
-      "recipe": "modern_industrialization:hatches/bronze/item_input_hatch",
+      "recipe": "modern_industrialization:hatches/bronze/item_input_hatch\n",
       "recipe2": "modern_industrialization:hatches/bronze/item_output_hatch"
     },
     {
