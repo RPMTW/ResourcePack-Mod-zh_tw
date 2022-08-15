@@ -195,5 +195,7 @@
     "dimdoors.limbo.enableLimboDecay": "Enable Decay",
     "dimdoors.limbo.enableLimboDecay.tooltip": "When false, decay spreading from unravelled fabric in Limbo will be disabled",
     "dimdoors.limbo.blockLimboDecayBlackList": "Block Decay Blacklist",
-    "dimdoors.limbo.blockLimboDecayBlackList.tooltip": "A list of blocks that will be blacklisted from Limbo decay"
+    "dimdoors.limbo.blockLimboDecayBlackList.tooltip": "A list of blocks that will be blacklisted from Limbo decay",
+    "dimdoors.world.enableDecayDrops": "Enable Rift Decay Drops",
+    "dimdoors.world.enableDecayDrops.tooltip": "When true, blocks destroyed by rift decay will drop world thread."
 }
