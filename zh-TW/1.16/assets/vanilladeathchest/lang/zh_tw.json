@@ -1,5 +1,5 @@
 {
-    "commands.vdcclientconfigreload.success": "VanillaDeathChest 客戶端設定已重載！",
+    "commands.vdcclientconfigreload.success": "VanillaDeathChest 用戶端設定已重新載入！",
     "gamerule.disableDeathChests": "Disable death chests",
     "text.autoconfig.vanilladeathchest.title": "VanillaDeathChest 配置",
     "text.autoconfig.vanilladeathchest.category.spawning": "生成",
@@ -72,5 +72,5 @@
     "text.autoconfig.vanilladeathchest.option.misc.gameRuleName": "Game rule name",
     "text.autoconfig.vanilladeathchest.option.misc.gameRuleName.@Tooltip": "The name of the game rule that controls whether death chests should be spawned.",
     "text.autoconfig.vanilladeathchest.option.misc.configReloadCommand": "Configuration reload command",
-    "text.autoconfig.vanilladeathchest.option.misc.configReloadCommand.@Tooltip": "從硬碟上重新載入此設置的指令名稱。"
+    "text.autoconfig.vanilladeathchest.option.misc.configReloadCommand.@Tooltip": "從硬碟上重新載入此設定的指令名稱。"
 }
