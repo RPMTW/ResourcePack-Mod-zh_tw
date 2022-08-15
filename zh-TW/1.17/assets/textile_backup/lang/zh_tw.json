@@ -23,7 +23,7 @@
     "text.autoconfig.textile_backup.option.compression": "壓縮等級",
     "text.autoconfig.textile_backup.option.compression.@Tooltip": "僅影響壓縮",
     "text.autoconfig.textile_backup.option.compressionCoreCountLimit": "用於壓縮的最大內核數",
-    "text.autoconfig.textile_backup.option.compressionCoreCountLimit.@Tooltip": "設置為 0 以使用所有可用內核",
+    "text.autoconfig.textile_backup.option.compressionCoreCountLimit.@Tooltip": "設定為 0 以使用所有可用內核",
     "text.autoconfig.textile_backup.option.format": "存檔和壓縮格式",
     "text.autoconfig.textile_backup.option.format.@Tooltip": "參見: https://github.com/Szum123321/textile_backup/wiki/Configuration#format",
     "text.autoconfig.textile_backup.option.permissionLevel": "最低權限級別",
