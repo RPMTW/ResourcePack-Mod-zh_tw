@@ -70,7 +70,7 @@
     "config.waila.boss_bars_overlap": "Boss 狀態條重疊",
     "config.waila.boss_bars_overlap_desc": "如果設定為 false，則當存在可見的 Boss 狀態條，工具提示將向下移動\n僅影響上中心對齊",
     "config.waila.overlay_scale": "縮放比例",
-    "config.waila.overlay_scale_desc": "提示框有多大\n默認值為 1.0",
+    "config.waila.overlay_scale_desc": "提示框有多大\n預設值為 1.0",
     "config.waila.overlay_anchor_x": "水平固定",
     "config.waila.overlay_anchor_x_desc": "該位置將從畫面的哪個部分計算\n藉由調整遊戲視窗的大小來測試",
     "config.waila.overlay_anchor_x_left": "左",
