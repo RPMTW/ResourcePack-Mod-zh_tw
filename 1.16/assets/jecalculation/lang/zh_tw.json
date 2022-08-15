@@ -100,5 +100,7 @@
     "jecalculation.label.item_stack.fuzzy_meta": "Fuzzy metadata",
     "jecalculation.label.item_stack.fuzzy_nbt": "Fuzzy NBT",
     "jecalculation.label.item_stack.fuzzy_cap": "Fuzzy capabilities",
-    "jecalculation.label.common.amount": "Amount: %s"
+    "jecalculation.label.common.amount": "Amount: %s",
+    "jecalculation.gui.craft.widget_enabled": "Calculator widget enabled",
+    "jecalculation.gui.craft.widget_disabled": "Calculator widget disabled"
 }
