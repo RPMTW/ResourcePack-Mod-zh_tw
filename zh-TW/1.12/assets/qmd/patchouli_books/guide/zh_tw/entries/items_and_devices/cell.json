@@ -1,21 +1,17 @@
 {
-	"name": "單元",
+	"name": "Cells",
 	"icon": "qmd:cell",
 	"category": "qmd:items_and_devices",
-	"sortnum": 0,
+	"sortnum": 3,
 	"pages": [
 		{
 			"type": "text",
-			"text": "單元可被用於儲存反物質等奇異物質。$(bold)務必小心，它們很有可能爆炸並釋放大量伽馬射線！$()"
+			"text": "Cells are items that can hold exotic materials like antimatter. $(bold)$(c)Be careful with filled cells!$() They have a tendency to $(bold)$(c)explode and give deadly radiation bursts$() if left on the ground."
 		},
 		{
 			"type": "spotlight",
 			"item": "qmd:cell",
-			"text": "將單元放入$(l:containment_chambers/neutral_containment)電中性遏制器$()的GUI即可提取或填充單元內容物。$(bold)單元必須帶電，否則不能儲存材料。$()為之充能的方法很多——單元支持常見的科技模組充能方式，例如[TE]熱力膨脹的能量灌注機。"
-		},
-		{
-			"type": "text",
-			"text": "$(bold)只要單元被填充了內容物，它就會持續地消耗能量。一旦能量消耗完，它就會災難般地發生故障！$()在這種事情發生之前，保證消耗完內容物或重新將內容物填充入遏制器。單元的填充與提取可在JEI中查看。"
+			"text": "Filling and emptying cells is done simply by putting the filled or empty cell in the input slot of the $(l:multiblocks/vacuum_chambers/exotic_containment_chamber)exotic containment containment's$() gui."
 		}
 	]
 }
