@@ -7,7 +7,7 @@
     "config.fabric-tree-chopper.fullChopDurabilityUsage@Tooltip": "僅對\"全砍倒\"模式有效",
     "config.fabric-tree-chopper.sneakBehavior": "於蹲下時砍樹",
     "config.fabric-tree-chopper.requireLeavesToChop": "假如這棵樹上的樹葉是人工放置，砍樹模組不會有作用",
-    "config.fabric-tree-chopper.logSearchLimit": "搜尋原木的範圍( -1為禁用)",
+    "config.fabric-tree-chopper.logSearchLimit": "搜尋原木的範圍( -1為停用)",
     "config.fabric-tree-chopper.stopBeforeAxeBreak": "在斧頭壞掉前停止對該棵樹砍倒",
     "config.fabric-tree-chopper.chopInCreativeMode": "在創造模式下砍樹",
     "config.fabric-tree-chopper.axes": "斧頭",
