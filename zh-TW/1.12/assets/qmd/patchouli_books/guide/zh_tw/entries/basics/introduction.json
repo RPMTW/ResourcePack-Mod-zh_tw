@@ -1,6 +1,6 @@
 {
 	"name": "介紹",
-	"icon": "QMD:source_cobalt_60",
+	"icon": "QMD:source:2",
 	"category": "qmd:basics",
 	"sortnum": 0,
 	"pages": [
@@ -10,7 +10,7 @@
 		},
 		{
 			"type": "text",
-			"text": "由於包括配方、組件數據和放置條件在內的一些訊息可能透過設定檔案被修改，本書$(l)不會$()包含它們。對應地，它們會顯示在JEI和提示文字中。"
+			"text": "This guide will $(l)not$() cover the details of various pieces of information such as recipes, component stats and placement rules, as they can vary between different configuration settings, in particular different mod packs. They will instead be shown in JEI and the tooltips of the relevant items and blocks.$(br)This guide has been made to be user friendly with $(l)direct links$() to relevant information on many pages, so no need to search through whole sections for one bit of info."
 		}
 	]
 }
