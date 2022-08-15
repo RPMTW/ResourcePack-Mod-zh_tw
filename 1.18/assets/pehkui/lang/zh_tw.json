@@ -100,5 +100,8 @@
     "commands.pehkui.debug.config.changed": "Config \"%s\" was changed from \"%s\" to \"%s\"",
     "commands.pehkui.debug.config.reset": "Config \"%s\" was reset from \"%s\" to default \"%s\"",
     "commands.pehkui.scale.get.fraction.message": "Scale: %s (1/%s)",
-    "commands.pehkui.scale.get.fraction.factor.message": "Scale: %s (1/%s) | (%s)"
+    "commands.pehkui.scale.get.fraction.factor.message": "Scale: %s (1/%s) | (%s)",
+    "argument.pehkui.easing.invalid": "Unknown easing '%s'",
+    "commands.pehkui.scale.easing.default": "Easing: default (%s)",
+    "commands.pehkui.scale.easing": "Easing: %s"
 }
