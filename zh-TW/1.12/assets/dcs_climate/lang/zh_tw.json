@@ -867,7 +867,7 @@
     "item.dcs_magic_card_m_ru2.name": "紅藍符咒(癱瘓)",
     "item.dcs_magic_card_m_wr2.name": "白紅符咒(熾熱)",
     "item.dcs_magic_card_m_bw2.name": "黑白符咒(專注)",
-    "item.dcs_magic_card_m2_ub1.name": "藍黑符咒(靜夜)",
+    "item.dcs_magic_card_m2_ub1.name": "Blue-Black Spell (Sleepy Night)",
     "item.dcs_magic_card_m2_gw1.name": "白綠符咒(治療)",
     "item.dcs_magic_card_m2_rg1.name": "紅綠符咒(焰狼)",
     "item.dcs_magic_card_m2_wu1.name": "白藍符咒(回家)",
@@ -2967,7 +2967,7 @@
     "item.dcs_desktop_accessories_pen.name": "Pen Stand",
     "item.dcs_desktop_accessories_organizer.name": "Desktop Organizer",
     "item.dcs_desktop_accessories_keyboard.name": "Keyboard",
-    "item.dcs_desktop_accessories_laptop.name": "Laotop",
+    "item.dcs_desktop_accessories_laptop.name": "Laptop",
     "item.dcs_desktop_accessories_phone.name": "Cell Phone",
     "item.dcs_desktop_accessories_pen_tablet.name": "Drawing Tablet",
     "entity.dcs.main.desktop_accessories_a.name": "Books",
@@ -3059,5 +3059,10 @@
     "dcs.gui.device.display": "Display Shelf",
     "dcs.gui.device.vending_machine": "Vending Machine",
     "entity.dcs.main.ergonomic_chair.name": "Ergonomic Chair",
-    "entity.dcs.main.ergonomic_chair_white.name": "Ergonomic Chair (White)"
+    "entity.dcs.main.ergonomic_chair_white.name": "Ergonomic Chair (White)",
+    "item.dcs_magic_card_m3_gu3.name": "Blue Building Spell (Windmill House)",
+    "advancements.dcs_climate.food_bio2.title": "Little cute creatures!",
+    "advancements.dcs_climate.food_bio2.description": "Get one of the identified microorganisms.",
+    "advancements.dcs_climate.food_bio3.title": "Own your brewery",
+    "advancements.dcs_climate.food_bio3.description": "Get one of the distilled liquors"
 }
