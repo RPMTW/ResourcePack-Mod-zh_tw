@@ -2,11 +2,11 @@
     "name": "傳送板",
     "icon": "allthemodium:teleport_pad",
     "category": "allthemodium:dimensions",
-    "sortnum": "1",
+    "sortnum": 1,
     "pages": [
         {
             "type": "crafting",
-            "recipe": "allthemodium:main/teleport_pad"
+            "recipe": "allthemodium:teleport_pad"
         },
         {
             "type": "text",
