@@ -107,5 +107,9 @@
     "entity.hundreddayz.ZombieFireman.name": "Zombie Fireman",
     "tooltip.hundreddayz.BarbedWire.durability": "Durability:",
     "entity.hundreddayz.LibraryZombie.name": "Library Zombie",
-    "death.attack.BarbedWire": "%1$s met a prickly end"
+    "death.attack.BarbedWire": "%1$s met a prickly end",
+    "message.hundreddayz.SealedCrate": "Right click with a Crow Bar to open sealed crates",
+    "entity.hundreddayz.HospitalZombie.name": "Hospital Zombie",
+    "tooltip.hundreddayz.Crowbar": "Right click to open sealed crates",
+    "tooltip.hundreddayz.UnlitTorch": "Use a matchbox to light"
 }
