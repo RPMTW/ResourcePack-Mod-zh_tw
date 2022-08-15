@@ -1,6 +1,6 @@
 {
   "category": "bewitchment:brewing",
-  "name": "禁用",
+  "name": "停用",
   "icon": "bewitchment:silver_ingot",
   "advancement": "bewitchment:hidden_unlocks/altars",
   "pages": [
@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:spotlight",
-      "title": "禁用",
+      "title": "停用",
       "item": "bewitchment:silver_ingot",
       "text": "強度不影響此效果。"
     }
