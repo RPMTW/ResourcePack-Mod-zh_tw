@@ -52,7 +52,7 @@
     "label.iris.false": "目前狀態：已關閉",
     "iris.shaders.disabled": "光影：已停用!",
     "iris.shaders.debug.enabled": "Debugging has been enabled, debug logging will be more verbose!",
-    "iris.shaders.debug.disabled": ":plugin 已被禁用.",
+    "iris.shaders.debug.disabled": ":plugin 已被停用.",
     "iris.shaders.debug.failure": "無法進行除錯，你的電腦不支援",
-    "iris.shaders.debug.restart": "你沒有除錯環境，重啟以啟用除錯"
+    "iris.shaders.debug.restart": "你沒有除錯環境，重新啟動以啟用除錯"
 }
