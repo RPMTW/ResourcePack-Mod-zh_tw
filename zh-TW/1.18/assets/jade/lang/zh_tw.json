@@ -271,5 +271,9 @@
     "config.jade.plugin_minecraft.crop_progress": "Crop Progress",
     "config.jade.plugin_minecraft.redstone": "Redstone Info",
     "config.jade.plugin_minecraft.jukebox": "Jukebox Record",
-    "config.jade.plugin_minecraft.villager_profession": "Villager Profession"
+    "config.jade.plugin_minecraft.villager_profession": "Villager Profession",
+    "config.jade.boss_bar_overlap": "Boss Bar Overlap",
+    "config.jade.boss_bar_overlap_no_operation": "No Operation",
+    "config.jade.boss_bar_overlap_hide_boss_bar": "Hide Boss Bar",
+    "config.jade.boss_bar_overlap_push_down": "Push Down Tooltip"
 }
