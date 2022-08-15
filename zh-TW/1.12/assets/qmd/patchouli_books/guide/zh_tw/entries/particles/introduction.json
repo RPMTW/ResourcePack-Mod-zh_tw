@@ -1,5 +1,5 @@
 {
-	"name": "介紹",
+	"name": "General Information",
 	"icon": "qmd:textures/particles/proton.png",
 	"category": "qmd:particles",
 	"sortnum": 0,
@@ -25,26 +25,31 @@
 		},
 		{
 			"type": "text",
-			"text": "加速器可以操縱粒子的能量。$(l:accelerators/linear_accelerator)線性$(/l)和$(l:accelerators/ring_accelerator)同步$(/l)加速器可以提高粒子的能量，而$(l:accelerators/decelerators)減速器$(/l)可以降低粒子的能量。粒子也可以在反應中被充能。"
+			"text": "The energy of particles are manipulated using accelerators. $(l:multiblocks/accelerators/linear_accelerator)Linear$(/l) and $(l:multiblocks/accelerators/ring_accelerator)Synchrotron$(/l) accelerators increase their energy while $(l:multiblocks/accelerators/decelerator)decelerators$(/l) decrease their energy. The energy of particles can also be changed in reactions."
 		},
 		{
 			"type": "text",
 			"title": "聚焦",
-			"text": "聚焦代表粒子束流受限的程度（可被視為對束流區域倒數的測量）。它主要表示粒子可行的距離。如果粒子堆的聚焦等於或小於零則它不能移動。粒子每前進一格都會減少與衰減率相等的聚焦。聚焦可在提示文字中查看。"
+			"text": "Focus is how confined a beam of particles is (it can be thought of a measure of the inverse area of the beam). Focus's main purpose is to tell you how far the beam of particles can travel. If a particle stack's focus is less than or equal to zero then it can't propagate. Each block the particles travel they lose focus. Focus also has use in some recipes."
 		},
 		{
 			"type": "text",
-			"text": "部分配方中聚焦也有作用。有些配方要求粒子堆的聚焦位於一個特定範圍內，這種情況下配方都會有對應標註（具體來說，將游標指針移至JEI中輸入粒子上方即可查看最小聚焦）。"
+			"text": "Some recipes have a minimum focus or focus range they required to work these are stated on the recipes (specifically if you hover over the input particle to a recipe in JEI it focus will be the minimum required). "
 		},
 		{
+			"anchor": "focus_loss",
+			"title": "Focus Loss",
 			"type": "text",
-			"title": "數量",
-			"text": "粒子堆操作也包含粒子數量（單位：pu，particle unit丨粒子單位）相關的計算，本屬性一般代表每t的粒子數量，例如鎢絲在離子源中的100 pu即表示100 pu/t。但在$(l:particle_chambers/target_chamber)靶室$(/l)、$(l:particle_chambers/beam_dump)束流收集器$(/l)和$(l:containment_chambers/neutral_containment)電中性遏制器室$(/l)中它表示完成配方所需的粒子數量。例如需要120 kpu的配方在100 pu/t的輸入下會消耗1200 t的時間。"
+			"text": "The amount of focus lost per block can be calculated as $(br)$(l)f = α(1+|q|$(o)sqrt$()$(l)(I/Iᵢ))$() where $(l)α$() is the beam attenuation rate (this can be seen on Beamline's tool tip, by default 0.02), $(l)q$() is the particles charge, $(l)I$() is the pu/t of the beam and $(l)Iᵢ$() is the beam scaling factor (10000 with default configs). $(br2)You could also use the $(l:items_and_devices/beam_meter)beam meter$(/l) on an existing beam to calculate this for you."
 		},
 		{
 			"type": "text",
 			"title": "Amount",
-			"text": "提高粒子堆每t的粒子數量是最困難的。只有在$(l:particle_chambers/target_chamber)靶室$(/l)和/或$(l:particle_chambers/decay_chamber)衰變室$(/l)中的巧妙操縱才能有效實現這點。"
+			"text": "Is the amount of particles measured in particle units (pu). Generally it represents the particle units per tick for example a tungsten filament gives off 10 kpu of electrons in a Ion Source this means it gives 10000 pu/t. But in recipes like the $(l:multiblocks/particle_chambers/target_chamber)Target Chamber$(/l), and $(l:multiblocks/vacuum_chambers/exotic_containment_chamber)Exotic Containment Chamber$(/l) it is the cumulative amount needed to complete the recipe."
+		},
+		{
+			"type": "text",
+			"text": "For example a recipe that requires 20 Mpu will take 2000 ticks to complete with a 10 kpu/t input.$(br2)Increasing pu/t is the hardest property to increase. It can only be done with clever manipulation of particles in $(l:multiblocks/particle_chambers/target_chamber)target chambers$(/l) and/or $(l:multiblocks/particle_chambers/decay_chamber)decay chambers$(/l) to create effective particle multiplier setups."
 		}
 	]
 }
