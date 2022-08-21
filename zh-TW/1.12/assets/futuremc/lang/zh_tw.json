@@ -28,10 +28,10 @@
     "tile.futuremc.stone_brick_wall.name": "石磚牆",
     "tile.futuremc.mossy_stone_brick_wall.name": "青苔鵝卵石磚牆",
     "tile.futuremc.end_stone_brick_wall.name": "終界石磚牆",
-    "tile.futuremc.nether_brick_wall.name": "地獄磚頭牆",
+    "tile.futuremc.nether_brick_wall.name": "地獄磚牆",
     "tile.futuremc.sandstone_wall.name": "砂岩牆",
     "tile.futuremc.red_sandstone_wall.name": "紅砂岩牆",
-    "tile.futuremc.red_nether_brick_wall.name": "紅色地獄磚頭牆",
+    "tile.futuremc.red_nether_brick_wall.name": "紅色地獄磚牆",
     "tile.futuremc.granite_slab.name": "花崗岩半磚",
     "tile.futuremc.andesite_slab.name": "安山岩半磚",
     "tile.futuremc.diorite_slab.name": "閃長岩半磚",
@@ -85,7 +85,7 @@
     "tile.futuremc.chain.name": "鎖鏈",
     "tile.futuremc.ancient_debris.name": "遠古遺骸",
     "tile.futuremc.netherite_block.name": "獄髓方塊",
-    "entity.ItemFrame.name": "Item Frame",
+    "entity.ItemFrame.name": "物品展示框",
     "item.banner.globe.black": "黑色地球",
     "item.banner.globe.red": "紅色地球",
     "item.banner.globe.green": "綠色地球",
@@ -240,5 +240,5 @@
     "item.futuremc.banner_pattern.quark_eye_of_ender": "眼圖紋",
     "item.futuremc.banner_pattern.quark_sword": "劍圖紋",
     "item.futuremc.banner_pattern.quark_shield": "盾牌圖紋",
-    "tile.futuremc.scaffolding.name": "Scaffolding"
+    "tile.futuremc.scaffolding.name": "鷹架"
 }
