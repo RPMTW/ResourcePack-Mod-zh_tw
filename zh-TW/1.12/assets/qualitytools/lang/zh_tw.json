@@ -70,8 +70,8 @@
     "item.modifiers.inventory": "在背包時:",
     "item.modifiers.horse": "馬匹穿戴後:",
     "commands.qualitytoolsreload.usage": "/qualitytoolsreload",
-    "commands.qualitytoolsreload.success": "重載  quality tools 設定",
-    "commands.qualitytoolsreload.problems": "重載工具設定時遇到的問題",
-    "message.qualitytoolsreload.problems": "Quality Tools 在重載設定時遇到了 %s 個問題：",
+    "commands.qualitytoolsreload.success": "重新載入  quality tools 設定",
+    "commands.qualitytoolsreload.problems": "重新載入工具設定時遇到的問題",
+    "message.qualitytoolsreload.problems": "Quality Tools 在重新載入設定時遇到了 %s 個問題：",
     "message.qualitytoolsreload.problems.saved": "問題已經保存在了 config/Quality Tools/problems.txt 檔案處。"
 }
