@@ -6,7 +6,7 @@
     "commands.bedrockores.unwrap.usage": "使用此指令可將十字準心正對著的基岩礦轉化成對應的普通礦。",
     "commands.bedrockores.list": "§aAll ores we may embed in bedrock:",
     "commands.bedrockores.list_item": "§7 - §f%s",
-    "commands.bedrockores.list_item_percent": "§7 - §f%s （%s%%）",
+    "commands.bedrockores.list_item_percent": "§7 - §f%s（%s%%）",
     "commands.bedrockores.list_empty": "§7 - §c沒有找到礦",
     "commands.bedrockores.list_errors": "§c在解析方塊時發生以下錯誤：",
     "commands.bedrockores.list_error_item": "§7 - §f%s",
