@@ -524,7 +524,7 @@
     "crop.mysticalagriculture.limestone": "石灰石",
     "crop.mysticalagriculture.basalt": "玄武岩",
     "crop.mysticalagriculture.draconium": "龍",
-    "book.mysticalagriculture.entry.growth_accelerators.page.2": "生長加速器的範圍是基於它被放置在耕地下。 $(br2)$(l:https://blakesmods.com/guides/mysticalagriculture/gameplay/speeding-up-crop-growth)點擊此處取得有關使用生長加速器的詳細指南。$()",
+    "book.mysticalagriculture.entry.growth_accelerators.page.2": "生長加速器的範圍是基於它被放置在耕地下。$(br2)$(l:https://blakesmods.com/guides/mysticalagriculture/gameplay/speeding-up-crop-growth)點擊此處取得有關使用生長加速器的詳細指南。$()",
     "book.mysticalagriculture.entry.soulium_dagger.page.3": "被動調諧靈魂匕首提供額外的 +50% 從被動生物收集的靈魂。",
     "book.mysticalagriculture.entry.soulium_dagger.page.4": "敵對調諧靈魂匕首提供額外的 +50% 從敵對生物中收集的靈魂。",
     "book.mysticalagriculture.entry.experience_capsule": "經驗膠囊",
@@ -532,7 +532,7 @@
     "book.mysticalagriculture.entry.soul_extractor": "靈魂提取器",
     "book.mysticalagriculture.entry.soul_extractor.page.1": "靈魂提取器用於將生物掉落物轉化為生物靈魂。它們使用固體燃料，並具有內部燃料快取容量。$(br2)靈魂提取器提供了一個額外的怪物掉落的用途，但通常不會像使用 $(l:souls/soulium_dagger)離魂匕首$()那樣有效",
     "mobSoulType.mysticalagriculture.slime": "史萊姆",
-    "tooltip.mysticalagriculture.machine_speed": "執行速度： %st",
+    "tooltip.mysticalagriculture.machine_speed": "執行速度：%st",
     "tooltip.mysticalagriculture.machine_fuel_rate": "燃料使用：%s/t",
     "tooltip.mysticalagriculture.machine_fuel_capacity": "燃料容量：%s"
 }
