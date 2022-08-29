@@ -8,7 +8,7 @@ replaymod.api.invalidauthkey=無效的認證密鑰
 replaymod.api.invalidfile=此檔案無效 考慮在ReplayMod.com上購買進階版。
 replaymod.api.invalidcategory=無效的檔案類型
 replaymod.api.fileduplicate=此檔案已被上傳
-replaymod.api.filenoexist=此檔案不存在 replaymod.api.filetoobig=上傳的檔案太大。 考慮在ReplayMod.com上購買進階版。
+replaymod.api.filenoexist=此檔案不存在 replaymod.api.filetoobig=上傳的檔案太大。考慮在ReplayMod.com上購買進階版。
 replaymod.api.alreadyrated=你已經評論過了這個檔案
 replaymod.api.usernoexist=此使用者不存在
 replaymod.category=類別
@@ -40,7 +40,7 @@ replaymod.chat.addedmarker=標記事件已加入
 
 #Chat messages displayed in Replay Viewer
 replaymod.chat.morekeyframes=至少需要 2 個位置關鍵幀和 2 個時間關鍵幀
-replaymod.chat.pathinterrupted=鏡頭路徑取消 replaymod.chat.negativetime=鏡頭路徑不能倒退，請向你附近的時間領主尋求幫助。 Please consult your nearest time lord for assistance. replaymod.chat.negativetime=鏡頭路徑不能倒退，請向你附近的時間領主尋求幫助。 Please consult your nearest time lord for assistance.
+replaymod.chat.pathinterrupted=鏡頭路徑取消 replaymod.chat.negativetime=鏡頭路徑不能倒退，請向你附近的時間領主尋求幫助。Please consult your nearest time lord for assistance. replaymod.chat.negativetime=鏡頭路徑不能倒退，請向你附近的時間領主尋求幫助。Please consult your nearest time lord for assistance.
 replaymod.chat.pathstarted=鏡頭模式啟動
 replaymod.chat.pathfinished=鏡頭路徑完成
 replaymod.gui.rendersettings.camerapath=導出攝像機路徑
@@ -179,15 +179,15 @@ replaymod.gui.viewer.replayfolder=打開錄像資料夾……
 replaymod.gui.viewer.bulkrender=渲染 %1$d 個影片
 
 replaymod.gui.viewer.delete.linea=確定要刪除這個錄像嗎？
-replaymod.gui.viewer.delete.failed1=你的操作系統不允許我們刪除掉這一錄像， 這是 這是 這是 這是
-replaymod.gui.viewer.delete.failed2=我們束手無策，你只能自行處理。 你必須自己處理。 你必須自己處理。 你必須自己處理。 你必須自己處理。
-replaymod.gui.viewer.delete.lineb=「%1$s」將會永遠丟失！（真的很久！） (非常久！) (非常久！) (非常久！) (非常久！)
+replaymod.gui.viewer.delete.failed1=你的操作系統不允許我們刪除掉這一錄像，這是 這是 這是 這是
+replaymod.gui.viewer.delete.failed2=我們束手無策，你只能自行處理。你必須自己處理。你必須自己處理。你必須自己處理。 你必須自己處理。
+replaymod.gui.viewer.delete.lineb=「%1$s」將會永遠丟失！（真的很久！）(非常久！) (非常久！) (非常久！) (非常久！)
 
 replaymod.gui.viewer.download.title=下載錄像檔案……
 replaymod.gui.viewer.download.message=請稍候，「%1$s」正在下載。
 
 replaymod.gui.viewer.chooser.title=選擇錄像檔案
-replaymod.gui.viewer.chooser.message=你有一個修改過的「%1$s」在你的電腦上。你要回放哪個錄像？ 你想要載入哪個回放影片? 你想要載入哪個回放影片?
+replaymod.gui.viewer.chooser.message=你有一個修改過的「%1$s」在你的電腦上。你要回放哪個錄像？你想要載入哪個回放影片? 你想要載入哪個回放影片?
 
 replaymod.gui.login.noacc=沒有帳號？
 
@@ -384,10 +384,10 @@ replaymod.gui.rendersettings.renderer.blend=建模輸出[實驗]
 
 replaymod.gui.rendersettings.customresolution=錄像分辨率 Fastest Rendering Option. 最快的渲染選項
 replaymod.gui.rendersettings.renderer.stereoscopic.description=使用不同的3D技術，將影片渲染成一個立體的（並排）3D電影。每隻眼睛能看到的圖像是影片寬度的一半 The image for one eye is half the width of the video 一隻眼睛的圖像是影片寬度的一半 一隻眼睛的圖像是影片寬度的一半 一隻眼睛的圖像是影片寬度的一半
-replaymod.gui.rendersettings.renderer.equirectangular.description=用 360 度全景圖渲染影片，採用圓柱式投影，這是 YouTube 新的 360 度影片功能，由 360 度影片播放器（Oculus Rift）所播放，例如 VR Player。 replaymod.gui.rendersettings.renderer.cubic.description=用 360 度全景圖渲染影片，這是由 360 度影片播放器（Oculus Rift）所播放，例如 VR Player。 replaymod.gui.rendersettings.renderer.ods.description=用 3D 360 度全景圖渲染影片，俗稱 VR 影片。採用圓柱式投影，這是 YouTube 新的 VR 影片功能。 This is usable by YouTube's new 360 degree video function, and several video players (and the Oculus Rift), for example VR Player. 使用立體 3D 360 度全景視圖渲染影片，也稱為 VR 影片。 這可用於 YouTube 的新 VR 影片功能。
-使用立體 3D 360 度全景視圖渲染影片，也稱為 VR 影片。 這可用於 YouTube 的新 VR 影片功能。 replaymod.gui.advancedscreenshots.finished.description.360=你成功建立了一張 360度 截圖！ 這可用於 YouTube 的新 360 度視頻功能和多個影片播放器（和 Oculus Rift），例如 VR 播放器。 這可用於 YouTube 的新 360 度視頻功能和多個影片播放器（和 Oculus Rift），例如 VR 播放器。
+replaymod.gui.rendersettings.renderer.equirectangular.description=用 360 度全景圖渲染影片，採用圓柱式投影，這是 YouTube 新的 360 度影片功能，由 360 度影片播放器（Oculus Rift）所播放，例如 VR Player。replaymod.gui.rendersettings.renderer.cubic.description=用 360 度全景圖渲染影片，這是由 360 度影片播放器（Oculus Rift）所播放，例如 VR Player。replaymod.gui.rendersettings.renderer.ods.description=用 3D 360 度全景圖渲染影片，俗稱 VR 影片。採用圓柱式投影，這是 YouTube 新的 VR 影片功能。This is usable by YouTube's new 360 degree video function, and several video players (and the Oculus Rift), for example VR Player. 使用立體 3D 360 度全景視圖渲染影片，也稱為 VR 影片。這可用於 YouTube 的新 VR 影片功能。
+使用立體 3D 360 度全景視圖渲染影片，也稱為 VR 影片。這可用於 YouTube 的新 VR 影片功能。 replaymod.gui.advancedscreenshots.finished.description.360=你成功建立了一張 360度 截圖！這可用於 YouTube 的新 360 度視頻功能和多個影片播放器（和 Oculus Rift），例如 VR 播放器。這可用於 YouTube 的新 360 度視頻功能和多個影片播放器（和 Oculus Rift），例如 VR 播放器。
 使用立體 3D 360 度全景視圖渲染影片，也稱為 VR 影片。 這可用於 YouTube 的新 VR 影片功能。
-replaymod.gui.rendersettings.renderer.blend.description=將模型導出為 .blend 檔案，可以使用 Blender 軟件打開該檔案。高度實驗性：需要大量記憶體，有相當多的已知問題，有時會產生損壞的 Blender 檔案。 Highly experimental: Requires lots of RAM, has quite a few known issues and sometimes produces broken Blender files. 高度實驗性：需要大量 RAM ，有很多已知問題，有時會產生損壞的 Blender 文件。
+replaymod.gui.rendersettings.renderer.blend.description=將模型導出為 .blend 檔案，可以使用 Blender 軟件打開該檔案。高度實驗性：需要大量記憶體，有相當多的已知問題，有時會產生損壞的 Blender 檔案。Highly experimental: Requires lots of RAM, has quite a few known issues and sometimes produces broken Blender files. 高度實驗性：需要大量 RAM ，有很多已知問題，有時會產生損壞的 Blender 文件。
 
 replaymod.gui.advancedscreenshots.resolution=分辨率
 replaymod.gui.rendersettings.customresolution.warning.yuv420=寬度和高度值需要偶數
@@ -477,7 +477,7 @@ replaymod.gui.ingame.unnamedmarker=未命名的標記事件
 replaymod.gui.ingame.autoactivating=這個密鑰綁定可以在適當的時候自動啟動。
 replaymod.gui.ingame.autoactivating.enable=按住 Ctrl 鍵點按以啟用自動啟動。
 replaymod.gui.ingame.autoactivating.enable=按住 Ctrl 鍵點按以啟用自動啟動。
-replaymod.gui.ingame.first_keyframe_not_at_start_warning=您剛剛放置了第一個關鍵幀，它不在00:00。\n\n這通常表明您誤解了影片時間線（底部的時間線）的工作方式：\n\n頂部的時間線顯示您在重播中的目前時間，\n底部的時間線顯示您正在創建的影片中的時間。\n影片將始終在00:00開始！如果您的第一個關鍵幀不在00:00，\n影片將顯示為凍結狀態，直到第一個關鍵幀出現！ If your first keyframe is not at 00:00,\nthen the video will appear frozen until the time of the first keyframe! 如果您的第一個關鍵幀不在 00:00，\n那麼影片將顯示凍結，直到第一個關鍵幀的時間！
+replaymod.gui.ingame.first_keyframe_not_at_start_warning=您剛剛放置了第一個關鍵幀，它不在00:00。\n\n這通常表明您誤解了影片時間線（底部的時間線）的工作方式：\n\n頂部的時間線顯示您在重播中的目前時間，\n底部的時間線顯示您正在創建的影片中的時間。\n影片將始終在00:00開始！如果您的第一個關鍵幀不在00:00，\n影片將顯示為凍結狀態，直到第一個關鍵幀出現！If your first keyframe is not at 00:00,\nthen the video will appear frozen until the time of the first keyframe! 如果您的第一個關鍵幀不在 00:00，\n那麼影片將顯示凍結，直到第一個關鍵幀的時間！
 
 #Clear Keyframe Callback
 replaymod.gui.clearcallback.title=清除所有的關鍵幀？
@@ -514,7 +514,7 @@ replaymod.gui.modwarning.message1=目前可能會發生不相容
 replaymod.gui.modwarning.message1=目前可能會發生不相容
 replaymod.gui.modwarning.message2=Minecraft 版本和這個錄像已經被檢測。
 replaymod.gui.modwarning.message3=載入這個錄像可能會發生錯誤或者導致崩潰。
-replaymod.api.nofilesuploaded=沒有上傳的檔案 replaymod.api.nofilesuploaded=沒有上傳檔案 replaymod.api.filetoobig=上傳的檔案太大。 考慮在ReplayMod.com上購買進階版。
+replaymod.api.nofilesuploaded=沒有上傳的檔案 replaymod.api.nofilesuploaded=沒有上傳檔案 replaymod.api.filetoobig=上傳的檔案太大。考慮在ReplayMod.com上購買進階版。
 replaymod.gui.offeropeneye2=OpenEye是一個收集匿名訊息的Mod
 replaymod.gui.advancedscreenshots.finished.upload.veer=上傳到 VeeR.tv
 replaymod.gui.offeropeneye7=點擊這個會下載 OpenEye 並安裝到你的 Mods 資料夾。
