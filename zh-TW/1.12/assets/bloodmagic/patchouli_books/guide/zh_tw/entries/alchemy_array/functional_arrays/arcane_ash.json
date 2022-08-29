@@ -11,7 +11,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "$(item)奧術粉灰$()是煉金矩陣創建中至關重要的要素。 $(item)奧術粉灰$()可以使用一些初期獲得的道具在 $(l:血魔法:alchemy_table/alchemy_table)煉金術桌($())中製作。"
+      "text": "$(item)奧術粉灰$()是煉金矩陣創建中至關重要的要素。$(item)奧術粉灰$()可以使用一些初期獲得的道具在 $(l:血魔法:alchemy_table/alchemy_table)煉金術桌($())中製作。"
     },
     {
       "type": "crafting_alchemy_table",
