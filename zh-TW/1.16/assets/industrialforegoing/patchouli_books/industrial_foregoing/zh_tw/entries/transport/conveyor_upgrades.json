@@ -33,7 +33,7 @@
       "type": "spotlight",
       "item": "industrialforegoing:conveyor_dropping_upgrade",
       "title": "投下",
-      "text": "將輸送機上的物品和實體投射到下方。 $(br2)需要投下的物品和實體可以在GUI中過濾。可以使用內部實體的MIB過濾實體。"
+      "text": "將輸送機上的物品和實體投射到下方。$(br2)需要投下的物品和實體可以在GUI中過濾。可以使用內部實體的MIB過濾實體。"
     },
     {
       "type": "spotlight",
@@ -45,7 +45,7 @@
       "type": "spotlight",
       "item": "industrialforegoing:conveyor_splitting_upgrade",
       "title": "拆分",
-      "text": "使用 GUI 中定義的比率拆分傳送帶上的物品和實體。 它需要在需要分佈的所有方面進行升級。"
+      "text": "使用 GUI 中定義的比率拆分傳送帶上的物品和實體。它需要在需要分佈的所有方面進行升級。"
     }
   ]
 }
