@@ -34,7 +34,7 @@
       "type": "spotlight",
       "anchor": "interface",
       "item": "pneumaticcraft:pressure_chamber_interface",
-      "text": "$(item)壓力室介面/$用於自動化$(thing)壓力室/$的物品輸入輸出。物品$(italic)必須/$使用$(item)漏斗/$或其它模組加入的管道系統輸入。建議有至少兩個介面：一個寫有「I」的一面朝外（即$(thing)輸入介面/$），另一個寫有「O」的一面朝外（即$(thing)輸出介面/$）。"
+      "text": "$(item)壓力室介面/$用於自動化$(thing)壓力室/$的物品輸入輸出。物品$(italic)必須/$使用$(item)漏斗/$或其他模組加入的管道系統輸入。建議有至少兩個介面：一個寫有「I」的一面朝外（即$(thing)輸入介面/$），另一個寫有「O」的一面朝外（即$(thing)輸出介面/$）。"
     },
     {
       "type": "text",
