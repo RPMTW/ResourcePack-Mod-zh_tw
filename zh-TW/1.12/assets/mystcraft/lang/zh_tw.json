@@ -15,7 +15,7 @@
     "commands.myst.time.added.all": "將所有維度的時間增加 %d",
     "commands.myst.toggledownfall.usage": "/toggledownfall [維度]",
     "commands.myst.downfall.success": "刪除編號為 %d 的位面",
-    "commands.myst.downfall.fail.nodim": "沒有設置位面",
+    "commands.myst.downfall.fail.nodim": "沒有設定位面",
     "commands.myst.agebook.usage": "/myst-agebook [維度]",
     "commands.myst.twi.usage": "/myst-twi [維度] [true|false]",
     "commands.myst.meteor.usage": "/myst-spawnmeteor",
