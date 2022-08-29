@@ -29,10 +29,10 @@
     "tweakeroo.message.swapped_low_durability_item_off_players_hand": "已從玩家手中移走低耐久的物品",
     "tweakeroo.message.toggled": "將%s切換為%s",
     "tweakeroo.message.toggled_after_clicker_on": "「放置後右鍵」已%s，點擊次數為：%s",
-    "tweakeroo.message.toggled_slot_cycle_on": "切換快捷欄循環為 %s， 最大欄位為 %s",
-    "tweakeroo.message.toggled_placement_grid_on": "調整放置網格區域 %s， 區域範圍 %s",
-    "tweakeroo.message.toggled_placement_limit_on": "調整放置數量 %s， 數量為 %s",
-    "tweakeroo.message.toggled_fast_placement_mode_on": "切換快速放置模式 %s， 模式為 %s",
+    "tweakeroo.message.toggled_slot_cycle_on": "切換快捷欄循環為 %s，最大欄位為 %s",
+    "tweakeroo.message.toggled_placement_grid_on": "調整放置網格區域 %s，區域範圍 %s",
+    "tweakeroo.message.toggled_placement_limit_on": "調整放置數量 %s，數量為 %s",
+    "tweakeroo.message.toggled_fast_placement_mode_on": "切換快速放置模式 %s，模式為 %s",
     "tweakeroo.message.value.off": "關閉",
     "tweakeroo.message.value.on": "開啟"
 }
