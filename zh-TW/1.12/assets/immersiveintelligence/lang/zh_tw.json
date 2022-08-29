@@ -791,7 +791,7 @@
     "ie.manual.entry.data_main1": "與紅石訊號不同的是，數據是通過資料包以異步方式發送的。這意味著，訊號不是一直發送的，而是只發一次。每個資料包可以包含36個不同類型的<link;data_variable_types;§n§o變數§r;>，用26個字母和數字0-9中的一個來標記。這些資料包發送後被立即接收，使它們能夠在沒有任何數據丟失的情況下遠程傳輸。",
     "ie.manual.entry.data_variable_types.name": "變數類型",
     "ie.manual.entry.data_variable_types.subtext": "結果可能不同",
-    "ie.manual.entry.data_variable_types": "一個資料包可以包含多種類型的變數，每個變數都有一個預設值和其他特定於其類型的參數。<br>(不要對這個感到困惑：<link;data_variable_types_null;§o§nNull§r;>)。<br>基本變數類型有：<link;data_variable_types_null;§o§nNull§r;>, <link;data_variable_types_int;§o§nInteger§r;>, <link;data_variable_types_string;§o§nString§r;>, <link;data_variable_types_bool;§o§nBoolean§r;>，也有一些更高級的變數類型，比如： <link;data_variable_types_itemstack;§o§nItemStack§r;>, <link;data_variable_types_array;§o§nArray§r;>, <link;data_variable_types_pair;§o§nPair§r;> 和 <link;data_variable_types_range;§o§nRange§r;>.",
+    "ie.manual.entry.data_variable_types": "一個資料包可以包含多種類型的變數，每個變數都有一個預設值和其他特定於其類型的參數。<br>(不要對這個感到困惑：<link;data_variable_types_null;§o§nNull§r;>)。<br>基本變數類型有：<link;data_variable_types_null;§o§nNull§r;>, <link;data_variable_types_int;§o§nInteger§r;>, <link;data_variable_types_string;§o§nString§r;>, <link;data_variable_types_bool;§o§nBoolean§r;>，也有一些更高級的變數類型，比如：<link;data_variable_types_itemstack;§o§nItemStack§r;>, <link;data_variable_types_array;§o§nArray§r;>, <link;data_variable_types_pair;§o§nPair§r;> 和 <link;data_variable_types_range;§o§nRange§r;>.",
     "ie.manual.entry.data_variable_types_null": "Null是一種特殊的變數類型，它沒有值。它是未定義變數的預設類型。",
     "ie.manual.entry.data_variable_types_int": "Integer（整數）（通常簡稱為Int）是一種數字變數類型，主要用於計算和比較。",
     "ie.manual.entry.data_variable_types_string": "String（字元串）是一種文字變數類型，它可以容納各種不同的字元。",
