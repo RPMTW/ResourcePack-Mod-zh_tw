@@ -48,12 +48,12 @@
     "#fpsreducer.config.ON": "開啟",
     "#fpsreducer.config.OFF": "關閉",
     "fpsreducer.config.hudPosAdj.hudInfo.6": "簡易",
-    "fpsreducer.config.tooltip.waitingTime": "無操作時，客戶端進入閒置狀態的等待時間。 可以透過將滑塊移動到右邊緣來關閉。",
-    "fpsreducer.config.tooltip.idleFps": "閒置時的最大幀率。 當在指定的時間段內沒有操作時，幀率將降低到該數值。",
+    "fpsreducer.config.tooltip.waitingTime": "無操作時，用戶端進入閒置狀態的等待時間。可以透過將滑塊移動到右邊緣來關閉。",
+    "fpsreducer.config.tooltip.idleFps": "閒置時的最大幀率。當在指定的時間段內沒有操作時，幀率將降低到該數值。",
     "fpsreducer.config.tooltip.guiScreenFps": "遊戲選單（例如物品欄和選單）中的最大幀率。",
     "fpsreducer.config.tooltip.noActFps": "無操作時的最大幀率。偵測到無操作後，幀率立即限制在該數值。",
-    "fpsreducer.config.tooltip.profile.modest": "§e設定檔：§o適度節能§r\n當客戶端在背景或在脫逃(Esc)鍵選單中時，幀率將會降低。 （預設）",
-    "fpsreducer.config.tooltip.profile.eco": "§e設定檔: §o節能§r\n與幀率節能器 1 的預設設定幾乎相同。當客戶端在背景、脫逃鍵(Esc)選單或10 分鐘無操作時，幀率將會降低。",
-    "fpsreducer.config.tooltip.profile.cooling1": "§e設定檔：§o情景冷卻（低）§r\n根據情況主動控制負載。 （對於以60幀或更高階電腦。）除了節能設定文件的行為，當角色靜止時、物品欄或任何選單畫面中時，幀率將被限制為60幀。根據畫面設定中的垂直同步和最大幀率設定，效果會顯然不佳。",
+    "fpsreducer.config.tooltip.profile.modest": "§e設定檔：§o適度節能§r\n當用戶端在背景或在脫逃(Esc)鍵選單中時，幀率將會降低。（預設）",
+    "fpsreducer.config.tooltip.profile.eco": "§e設定檔: §o節能§r\n與幀率節能器 1 的預設設定幾乎相同。當用戶端在背景、脫逃鍵(Esc)選單或10 分鐘無操作時，幀率將會降低。",
+    "fpsreducer.config.tooltip.profile.cooling1": "§e設定檔：§o情景冷卻（低）§r\n根據情況主動控制負載。（對於以60幀或更高階電腦。）除了節能設定文件的行為，當角色靜止時、物品欄或任何選單畫面中時，幀率將被限制為60幀。根據畫面設定中的垂直同步和最大幀率設定，效果會顯然不佳。",
     "fpsreducer.config.tooltip.profile.cooling2": "§e設定檔：§o情景冷卻（高）§r\n更強大的負載抑制取決於具體情況。（對於低階電腦。）除了生態設定文件的行為，當角色靜止時、物品欄或任何選單畫面中時，幀率將被限制為30幀。"
 }
