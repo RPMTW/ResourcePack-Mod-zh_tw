@@ -31,7 +31,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "當安裝在蜂巢中時，產能升級將增加蜜蜂每次旅行所產生的蜂巢數量。 可以安裝多個產能升級。"
+            "text": "當安裝在蜂巢中時，產能升級將增加蜜蜂每次旅行所產生的蜂巢數量。可以安裝多個產能升級。"
         },
         {
             "type": "patchouli:crafting",
@@ -41,7 +41,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "當安裝在蜂巢中時，速度升級將減少蜜蜂在蜂巢內停留的時間。 $(br)當安裝在$(l:blocks/centrifuge)離心機$(/l)或$(l:blocks/incubator)孵化器$(/l)中時，會提高運作速度"
+            "text": "當安裝在蜂巢中時，速度升級將減少蜜蜂在蜂巢內停留的時間。$(br)當安裝在$(l:blocks/centrifuge)離心機$(/l)或$(l:blocks/incubator)孵化器$(/l)中時，會提高運作速度"
         },
         {
             "type": "patchouli:crafting",
