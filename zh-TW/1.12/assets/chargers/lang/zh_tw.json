@@ -3,13 +3,13 @@
     "tile.chargers.charger.tier_2.name": "II級充電器",
     "tile.chargers.charger.tier_3.name": "III級充電器",
     "tile.chargers.wireless_charger.name": "無線充電器",
-    "chat.chargers.wireless_charger.info": "狀態： %s, 能量： %s/%s FE",
+    "chat.chargers.wireless_charger.info": "狀態：%s, 能量：%s/%s FE",
     "chat.chargers.enabled": "已啟用",
     "chat.chargers.disabled": "停用",
     "tooltip.chargers.wireless_charger": "可以被紅石能量停用",
-    "chat.chargers.stored.info": "能量： %s/%s FE",
+    "chat.chargers.stored.info": "能量：%s/%s FE",
     "gui.chargers.energy": "%s/%s FE",
-    "gui.chargers.max_in": "最大輸入： %s FE/t",
-    "gui.chargers.max_out": "最大輸出： %s FE/t",
+    "gui.chargers.max_in": "最大輸入：%s FE/t",
+    "gui.chargers.max_out": "最大輸出：%s FE/t",
     "gui.chargers.io": "I/O: %s FE/t"
 }
