@@ -1009,12 +1009,13 @@
     "gui.qmd.config.category.vacuum_chamber.tooltip": "Vacuum chamber and Vacuum chamber parts configs",
     "gui.qmd.config.tools.drill_energy_usage": "Drill Energy Usage",
     "gui.qmd.config.tools.drill_energy_usage.comment": "The amount of RF per block drills use.",
-    "gui.qmd.config.tools.drill_energy_capacity": "Drill Energy Usage",
+    "gui.qmd.config.tools.drill_energy_capacity": "Drill Energy Capacity",
     "gui.qmd.config.tools.drill_energy_capacity.comment": "The RF capacity of each drill. Order:[Electric Drill, Advanced Electric Drill].",
     "gui.qmd.config.tools.drill_radius": "Drill Mining Radius",
     "gui.qmd.config.tools.drill_radius.comment": "The square radius each drill mines. 0 is 1x1, 1 is 3x3 etc. Order:[Electric Drill, Advanced Electric Drill].",
     "gui.qmd.config.other.mole_amount": "Mole Amount",
     "gui.qmd.config.other.mole_amount.comment": "The Amount of particle units in a mole of stuff.",
     "gui.qmd.config.other.beam_scaling": "Beam Scaling Factor",
-    "gui.qmd.config.other.beam_scaling.comment": "The scaling factor for the beam attenuation equation."
+    "gui.qmd.config.other.beam_scaling.comment": "The scaling factor for the beam attenuation equation.",
+    "death.attack.antimatter_annihilation": "%1$s got to curious and was annihilated for it"
 }
