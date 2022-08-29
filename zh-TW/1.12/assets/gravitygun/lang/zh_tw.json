@@ -41,7 +41,7 @@
     "gravitygun.config.prop.blacklistBlocks.comment": "按資源名稱列入黑名單的方塊列表。例如：modname:blockname",
     "gravitygun.config.prop.whitelistBlocks.comment": "將黑名單轉換為白名單。",
     "gravitygun.config.cat.capabilities.name": "重力槍功能\ngravitygun.config.prop.capabilitiesGrabBlock.comment=重力槍能力等級。\\n0 =所有重力槍\\n1 =僅增壓\\n2 =關閉",
-    "gravitygun.config.cat.capabilities.comment": "此類別用於設定重力槍的功能選項，並與伺服器中的所有客戶端同步。",
+    "gravitygun.config.cat.capabilities.comment": "此類別用於設定重力槍的功能選項，並與伺服器中的所有用戶端同步。",
     "item.gravitygun.gravitygunnormal.name": "重力槍",
     "item.gravitygun.gravitygunsupercharged.name": "增壓重力槍",
     "item.gravitygun.rebarcrossbow.name": "鋼製槍臂",
