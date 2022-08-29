@@ -2,7 +2,7 @@
     "commands.counter.usage.help": "為玩家設定或取得凋零怪及終界龍的擊殺難易度。",
     "commands.counter.usage.wrong": "/progressivebosses <玩家名> <get|set>",
     "commands.counter.usage.set": "/progressivebosses <玩家名> set <wither|dragon> <難易度>",
-    "commands.counter.usage.number": "<難易度>只可為數字。 ",
+    "commands.counter.usage.number": "<難易度>只可為數字。",
     "item.progressivebosses:nether_star_shard.name": "地獄之星碎片",
     "dragon.minion": "龍之僕從",
     "dragon.larva": "幼龍",
