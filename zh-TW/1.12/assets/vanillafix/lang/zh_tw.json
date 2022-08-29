@@ -58,7 +58,7 @@
     "vanillafix.fixes.crashFixes": "崩潰最佳化",
     "vanillafix.fixes.crashFixes.tooltip": "啟用/停用崩潰最佳化（畫面顯示，模組顯示，崩潰報告的生成等等）。注意：你可以在「崩潰選項」中選擇只停用「返回主選單」。",
     "vanillafix.fixes.modSupport": "模組支援",
-    "vanillafix.fixes.modSupport.tooltip": "啟用/停用對其它模組的支援。注意：停用將破壞部分模組的材質顯示，除非這引發了崩潰，否則不要停用這一選項。",
+    "vanillafix.fixes.modSupport.tooltip": "啟用/停用對其他模組的支援。注意：停用將破壞部分模組的材質顯示，除非這引發了崩潰，否則不要停用這一選項。",
     "vanillafix.fixes.profiler": "分析器最佳化",
     "vanillafix.fixes.profiler.tooltip": "啟用/停用分析器最佳化（Alt + F3 的餅圖）：分開顯示模組加入的實體與「方塊實體」（Tile Entity），加入 F3 + S 的伺服器分析器餅圖。",
     "vanillafix.fixes.textureFixes": "材質最佳化",
