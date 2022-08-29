@@ -23,7 +23,7 @@
     "item.tis3d.prism": "稜鏡",
     "block.tis3d.casing": "外殼",
     "block.tis3d.controller": "控制器",
-    "tis3d.compiler.error": "編譯出錯 @%s:%s-%s： ",
+    "tis3d.compiler.error": "編譯出錯 @%s:%s-%s：",
     "tis3d.compiler.invalid_format": "意外的符記",
     "tis3d.compiler.invalid_instruction": "無效的操作碼",
     "tis3d.compiler.label_not_found": "未定義標籤",
