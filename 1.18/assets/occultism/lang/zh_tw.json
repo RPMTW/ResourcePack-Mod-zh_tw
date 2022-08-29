@@ -822,5 +822,19 @@
     "item.occultism.ritual_dummy.custom_ritual.tooltip": "Used for modpacks as a fallback for custom rituals that do not have their own ritual item.",
     "item.occultism.book_of_calling.message_set_managed_machine_extract_location": "%s will now extract from %s from the side: %s",
     "item.occultism.book_of_calling.message_no_managed_machine": "Set a managed machine before setting an extract location %s",
-    "jei.occultism.ingredient.datura.description": "Can be used to heal all spirits and familiars summoned by Occultism Rituals. Simply right-click the entity to heal it by one heart."
+    "jei.occultism.ingredient.datura.description": "Can be used to heal all spirits and familiars summoned by Occultism Rituals. Simply right-click the entity to heal it by one heart",
+    "multiblock.occultism.craft_afrit": "Sevira's Permanent Confinement",
+    "multiblock.occultism.craft_djinni": "Strigeor's Higher Binding",
+    "multiblock.occultism.craft_foliot": "Eziveus' Spectral Compulsion",
+    "multiblock.occultism.craft_marid": "Uphyxes Inverted Tower",
+    "multiblock.occultism.otherworld_bird": "Otherworld Bird",
+    "multiblock.occultism.possess_afrit": "Abras' Commanding Conjure",
+    "multiblock.occultism.possess_djinni": "Ihagan's Enthrallment",
+    "multiblock.occultism.possess_foliot": "Hedyrin's Lure",
+    "multiblock.occultism.summon_afrit": "Abras' Conjure",
+    "multiblock.occultism.summon_djinni": "Ophyx' Calling",
+    "multiblock.occultism.summon_foliot": "Aviar's Circle",
+    "multiblock.occultism.summon_marid": "Fatma's Incentivized Attraction",
+    "multiblock.occultism.summon_wild_afrit": "Abras' Open Conjure",
+    "multiblock.occultism.summon_wild_greater_spirit": "Osorin's Unbound Calling"
 }
