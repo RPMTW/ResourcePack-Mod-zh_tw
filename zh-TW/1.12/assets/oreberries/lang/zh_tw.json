@@ -7,7 +7,7 @@
     "config.oreberries.tickGrowthChance": "隨機刻生長機率",
     "config.oreberries.tickGrowthChance.tooltip": "隨機刻導致礦莓叢進入下一生長階段的機率",
     "config.oreberries.bonemealGrowthChance": "骨粉生長機率",
-    "config.oreberries.bonemealGrowthChance.tooltip": "骨粉的使用導致礦莓叢進入下一生長階段的機率。將此數值設置為零將會停用骨粉對礦莓叢的效果。",
+    "config.oreberries.bonemealGrowthChance.tooltip": "骨粉的使用導致礦莓叢進入下一生長階段的機率。將此數值設定為零將會停用骨粉對礦莓叢的效果。",
     "config.oreberries.enableVillager": "啟用工匠村民",
     "config.oreberries.enableVillager.tooltip": "是否啟用售賣礦莓叢的工匠村民",
     "config.oreberries.rewriteJson": "閱讀後重寫JSON",
