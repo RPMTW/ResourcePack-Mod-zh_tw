@@ -334,7 +334,7 @@
     "upgradednetherite.Wither_Weapon2.TT": "§7• Increase §6Damage§7 dealt to §6targets affected by wither effect§7 by %1$s§7.",
     "upgradednetherite.Poison_Weapon.TT": "§7• Apply §6Poison§7 effect.",
     "upgradednetherite.Phantom_Weapon.TT": "§7• Increase §6Damage§7 dealt to §6Phantom§7 by §610%§7.",
-    "upgradednetherite.Phantom_Tool.TT": "%1$s§6Living Entities§7 around you §6Glowing§7.",
+    "upgradednetherite.Phantom_Tool.TT": "%1$s§6Detects enemies§7 around you.",
     "upgradednetherite.Phantom_Tool2.TT": "§7• Increase §6Reach§7 by §62§7.",
     "upgradednetherite.Phantom_Shield.TT": "§7• §6Phantom§7 increases the §6Damage §abonus§7 of the next attack of your §7Phanterite§7 melee weapon equipped in your main hand by %1$s§7 (up to %2$s§7).",
     "upgradednetherite.Feather_Tool.TT": "%1$s§6Attracts Items§7 near you.",
@@ -427,5 +427,9 @@
     "upgradednetherite.Corrupt_Tool2.TT": "§7• Increase §6Fortune Level§7 by %1$s§7.",
     "upgradednetherite.Corrupt_Weapon4.TT": "§7• Increase §6Looting Level§7 by %1$s§7.",
     "effect.upgradednetherite.netherite_corruption": "Corruption",
-    "upgradednetherite.Disabled.TT": "§c§lDisabled"
+    "upgradednetherite.Disabled.TT": "§c§lDisabled",
+    "upgradednetherite.Water_Bonus3.TT": "§7• Prevents §6Elder Guardian§7 from inflicting the §6Mining Fatigue§7 effect.",
+    "upgradednetherite.Feather_Bonus4.TT": "§7• §6Levitation§7 effect §6Immune§7.",
+    "upgradednetherite.Phantom_Tool_Detect.TT": "§cYou feel %1$s§c enemy near you.",
+    "upgradednetherite.Phantom_Tool_Detect2.TT": "§cYou feel %1$s§c enemies near you."
 }

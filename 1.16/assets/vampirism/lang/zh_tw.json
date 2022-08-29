@@ -1229,5 +1229,14 @@
     "oil.vampirism.evasion": "Evasion",
     "__commend": "Oil description",
     "oil.vampirism.smelt.desc": "Can be used on Pickaxes to auto smelt destroyed blocks",
-    "oil.vampirism.evasion.desc": "Increases evasion chances when applied to armor"
+    "oil.vampirism.evasion.desc": "Increases evasion chances when applied to armor",
+    "skill.vampirism.minion_tech_crossbows": "Technology",
+    "skill.vampirism.minion_tech_crossbows.desc": "Minions can use Semi-Auto Crossbows",
+    "command.vampirism.base.minion_inventory.no_minion": "Minion could not be found",
+    "command.vampirism.base.minion_inventory.no_player": "Player could not be found",
+    "command.vampirism.base.minion_inventory.add_success": "Successfully added %s %s to %s's inventory",
+    "command.vampirism.base.minion_inventory.item_removed": "%s %s were removed from the %s inventory into your inventory",
+    "command.vampirism.base.minion_inventory.item_not_found": "Item was not found in the inventory",
+    "command.vampirism.base.minion_inventory.content": "Inventory of %s:",
+    "command.vampirism.base.minion_inventory.empty": "Inventory of %s is empty"
 }
