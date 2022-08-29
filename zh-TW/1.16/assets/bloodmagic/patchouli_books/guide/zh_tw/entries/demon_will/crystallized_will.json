@@ -23,13 +23,13 @@
   "pages": [
     {
       "type": "text",
-      "text": "既然您的$(l:bloodmagic:demon_will/soul_gem)地獄魂石$()中有大量的$(l:bloodmagic:demon_will/demon_will)惡魔意志$()，現在是時候探索當您將其釋放到世界上時會發生什麼。 $(br)首先，你需要創造一個$(item)惡魔坩堝$()，然後用$(l:bloodmagic:demon_will/demon_will)惡魔意志$()填充它。"
+      "text": "既然您的$(l:bloodmagic:demon_will/soul_gem)地獄魂石$()中有大量的$(l:bloodmagic:demon_will/demon_will)惡魔意志$()，現在是時候探索當您將其釋放到世界上時會發生什麼。$(br)首先，你需要創造一個$(item)惡魔坩堝$()，然後用$(l:bloodmagic:demon_will/demon_will)惡魔意志$()填充它。"
     },
     {
       "type": "crafting_soulforge",
       "heading": "惡魔坩堝",
       "recipe": "bloodmagic:soulforge/demon_crucible",
-      "text": "這將燃燒$(l:bloodmagic:demon_will/demon_will)惡魔意志$()並將其釋放到空氣中。 將充能的$(l:bloodmagic:demon_will/soul_gem)地獄魂石$()或任何一種$(item)惡魔水晶$()放入其中並讓它運行。"
+      "text": "這將燃燒$(l:bloodmagic:demon_will/demon_will)惡魔意志$()並將其釋放到空氣中。將充能的$(l:bloodmagic:demon_will/soul_gem)地獄魂石$()或任何一種$(item)惡魔水晶$()放入其中並讓它運行。"
     },
     {
       "type": "image",
@@ -42,7 +42,7 @@
     },
     {
       "type": "text",
-      "text": "現在我們的大氣中有了$(raw)原始意志$()。 太好了，現在呢？$(br2)一些$(l:bloodmagic:rituals/ritual_tinkerer)儀式$()貌似能從$(raw)原始意志l$()中受益，但由此帶來的主要好處是能夠創造$(item)惡魔意志水晶$()，然後從那裡將它們分成不同的$(l:bloodmagic:demon_will/aspected_will)樣貌$()。$(br2) 一旦你獲得了意志水晶，你就可以將它們放入坩堝中燃燒，將它們釋放到大氣中，讓你的儀式從中受益。"
+      "text": "現在我們的大氣中有了$(raw)原始意志$()。太好了，現在呢？$(br2)一些$(l:bloodmagic:rituals/ritual_tinkerer)儀式$()貌似能從$(raw)原始意志l$()中受益，但由此帶來的主要好處是能夠創造$(item)惡魔意志水晶$()，然後從那裡將它們分成不同的$(l:bloodmagic:demon_will/aspected_will)樣貌$()。$(br2) 一旦你獲得了意志水晶，你就可以將它們放入坩堝中燃燒，將它們釋放到大氣中，讓你的儀式從中受益。"
     },
     {
       "type": "crafting_soulforge",
