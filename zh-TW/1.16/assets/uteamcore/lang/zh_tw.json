@@ -1,7 +1,7 @@
 {
     "commands.uteamcore.dimteleport.success.multiple": "將%s實體傳送至%s",
-    "commands.uteamcore.dimteleport.success.position.multiple": "將%s實體傳送至%s位於%s， %s， %s",
-    "commands.uteamcore.dimteleport.success.position.single": "將%s傳送至%s位於%s， %s， %s",
+    "commands.uteamcore.dimteleport.success.position.multiple": "將%s實體傳送至%s位於%s，%s，%s",
+    "commands.uteamcore.dimteleport.success.position.single": "將%s傳送至%s位於%s，%s，%s",
     "commands.uteamcore.dimteleport.success.single": "將%s傳送至%s",
     "commands.uteamcore.ping.success.other": "%s的ping是%sms",
     "commands.uteamcore.ping.success.self": "你的ping是%sms",
