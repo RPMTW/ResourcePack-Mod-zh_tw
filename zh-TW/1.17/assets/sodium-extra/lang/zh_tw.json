@@ -113,5 +113,11 @@
     "sodium-extra.option.beacon_beam.tooltip": "若啟用，將處理烽火台光束。",
     "sodium-extra.option.use_adaptive_sync.name": "使用垂直同步",
     "sodium-extra.option.use_adaptive_sync.tooltip": "若啟用，垂直同步將能夠交換中間幀並適時停用，通常有助於提升顯示器的回應速度。",
-    "sodium-extra.overlay.light_updates": "照明更新已停用"
+    "sodium-extra.overlay.light_updates": "照明更新已停用",
+    "sodium-extra.option.particles.tooltips": "若啟用，將處理%s的粒子效果。",
+    "sodium-extra.option.text_contrast": "文字對比",
+    "sodium-extra.option.text_contrast.background": "背景",
+    "sodium-extra.option.text_contrast.none": "無",
+    "sodium-extra.option.text_contrast.shadow": "陰影",
+    "sodium-extra.option.text_contrast.tooltip": "調整幀率／座標的文字對比。\n- 無：預設文字\n- 背景：像除錯選單那樣為文字加入背景\n- 陰影：帶有陰影的文字"
 }
