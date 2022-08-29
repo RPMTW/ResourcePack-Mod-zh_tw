@@ -17,7 +17,7 @@
     "loottweaker.messages.error.unparseableConditionType": "%s不是IData或LootCondition的實例！",
     "loottweaker.messages.error.functionhelper.invalidEnchant": "%s不是有效的附魔ID",
     "loottweaker.messages.error.functionhelper.damageOver100": "物品不能超過100%的傷害！",
-    "loottweaker.messages.error.deprecation.warning1": "LootTweaker：一個或多個腳本使用不推薦使用的方法。 查看 crafttweaker.log 以取得更多訊息。",
+    "loottweaker.messages.error.deprecation.warning1": "LootTweaker：一個或多個腳本使用不推薦使用的方法。查看 crafttweaker.log 以取得更多訊息。",
     "loottweaker.messages.error.deprecation.warning2": "%s已棄用",
     "loottweaker.messages.error.deprecation.warning3": "有關詳細訊息，請參閱 https://github.com/Leviathan143/LootTweaker/wiki/Deprecations 可以在設定中停用此警告。",
     "loottweaker.messages.info.locatingLootTables": "All existing loot tables are being located. This may take a few seconds.",
