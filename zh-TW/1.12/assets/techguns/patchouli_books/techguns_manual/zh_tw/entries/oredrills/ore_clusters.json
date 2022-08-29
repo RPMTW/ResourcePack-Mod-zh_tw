@@ -5,49 +5,49 @@
     "pages": [
         {
             "type": "text",
-            "text": "《礦叢》會生成於世界中， 需要$(l:oredrills/ore_drills)採礦機$(/l)才能獲取裡面的資源。有各種包含不同資源的礦叢， 無法被破壞且可從中獲取無窮無盡的礦物。"
+            "text": "《礦叢》會生成於世界中，需要$(l:oredrills/ore_drills)採礦機$(/l)才能獲取裡面的資源。有各種包含不同資源的礦叢，無法被破壞且可從中獲取無窮無盡的礦物。"
         },
         {
             "type": "text",
             "title": "礦叢類型",
             "anchor": "types",
-            "text": "有各種不同類型的礦叢， 其內含的資源取決於所安裝的模組， 詳細的輸出可參考『Just Enough Items 充足物品模組(JEI)』所查詢的配方。各類礦叢的採掘等級都不同， 需要更大或更好材質的鑽頭才能採掘較高等級的礦叢。"
+            "text": "有各種不同類型的礦叢，其內含的資源取決於所安裝的模組，詳細的輸出可參考『Just Enough Items 充足物品模組(JEI)』所查詢的配方。各類礦叢的採掘等級都不同，需要更大或更好材質的鑽頭才能採掘較高等級的礦叢。"
         },
         {
             "type": "text",
             "title": "計算公式",
             "anchor": "formulas",
-            "text": "消耗能量及輸出量的計算方式相當複雜。以下為相關聯的數值：$(li)$(l)礦叢大小$()： 連接在一起的礦叢方塊數量。$(li)$(l)礦叢採掘等級$()： 顯示於方塊的提示訊息中。$(li)$(l)鑽機半徑$(): 為 0 到 4 之間的數值， 0 就是只有$(l:oredrills/ore_drills#tinydrill)控制器和鑽軸$(/l)所組成的採礦機， 其餘則為包括中間方塊在內的半徑大小。"
+            "text": "消耗能量及輸出量的計算方式相當複雜。以下為相關聯的數值：$(li)$(l)礦叢大小$()：連接在一起的礦叢方塊數量。$(li)$(l)礦叢採掘等級$()：顯示於方塊的提示訊息中。$(li)$(l)鑽機半徑$(): 為 0 到 4 之間的數值，0 就是只有$(l:oredrills/ore_drills#tinydrill)控制器和鑽軸$(/l)所組成的採礦機，其餘則為包括中間方塊在內的半徑大小。"
         },
         {
             "type": "text",
             "title": "計算公式",
             "anchor": "formulas2",
-            "text": "$(li)$(l)鑽軸長度$()： 採礦機中的鑽軸方塊數量。$(li)$(l)引擎高度$()： 鑽軸與控制器之間引擎方塊所疊放的高度。$(li)$(l)鑽頭挖掘等級$()： 顯示於鑽頭的提示訊息中。$(li)$(l)全域礦產倍數$()： 於控制檔中設定。$(li)$(l)全域能量倍數$()： 於控制檔中設定。"
+            "text": "$(li)$(l)鑽軸長度$()：採礦機中的鑽軸方塊數量。$(li)$(l)引擎高度$()：鑽軸與控制器之間引擎方塊所疊放的高度。$(li)$(l)鑽頭挖掘等級$()：顯示於鑽頭的提示訊息中。$(li)$(l)全域礦產倍數$()：於控制檔中設定。$(li)$(l)全域能量倍數$()：於控制檔中設定。"
         },
         {
             "type": "text",
             "title": "計算公式",
             "anchor": "formulas3",
-            "text": "$(li)$(l)礦叢含量倍數$()： 顯示於各類礦叢方塊的提示訊息中。$(li)$(l)礦叢能量消耗倍數$(): 顯示於各類礦叢方塊的提示訊息中。"
+            "text": "$(li)$(l)礦叢含量倍數$()：顯示於各類礦叢方塊的提示訊息中。$(li)$(l)礦叢能量消耗倍數$(): 顯示於各類礦叢方塊的提示訊息中。"
         },
         {
             "type": "text",
             "title": "衍生變數",
             "anchor": "formulas4",
-            "text": "$(li)$(l)有效採掘等級$() = $(l:oredrills/ore_clusters#formulas2)鑽頭挖掘等級$(/l) + $(l:oredrills/ore_clusters#formulas)鑽機半徑$(/l) - $(l:oredrills/ore_clusters#formulas)礦叢採掘等級$(/l)。$(thing)有效採掘等級$()必須大於等於 0， 否則只會採到鵝卵石。$(br2)$(li)$(l)可採掘礦叢大小$() = 最大值( $(l:oredrills/ore_clusters#formulas)礦叢大小$(/l), ( $(l:oredrills/ore_clusters#formulas2)鑽軸長度$(/l) + $(l:oredrills/ore_clusters#formulas2)引擎高度$(/l) ))"
+            "text": "$(li)$(l)有效採掘等級$() = $(l:oredrills/ore_clusters#formulas2)鑽頭挖掘等級$(/l) + $(l:oredrills/ore_clusters#formulas)鑽機半徑$(/l) - $(l:oredrills/ore_clusters#formulas)礦叢採掘等級$(/l)。$(thing)有效採掘等級$()必須大於等於 0，否則只會採到鵝卵石。$(br2)$(li)$(l)可採掘礦叢大小$() = 最大值( $(l:oredrills/ore_clusters#formulas)礦叢大小$(/l), ( $(l:oredrills/ore_clusters#formulas2)鑽軸長度$(/l) + $(l:oredrills/ore_clusters#formulas2)引擎高度$(/l) ))"
         },
         {
             "type": "text",
             "title": "每小時採礦量",
             "anchor": "ores_per_hour",
-            "text": "決定每次輸出礦物量的$(thing)每小時採礦量$()以下列方式計算： (($(l:oredrills/ore_clusters#formulas4)可採掘礦叢大小$(/l) * 3 ) + ($(l:oredrills/ore_clusters#formulas4)可採掘礦叢大小$(/l) * $(l:oredrills/ore_clusters#formulas4)有效採掘等級$(/l) * 0.5 )) * $(l:oredrills/ore_clusters#formulas3)礦叢含量倍數$(/l) * $(l:oredrills/ore_clusters#formulas2)全域礦產倍數$(/l)$(br2)"
+            "text": "決定每次輸出礦物量的$(thing)每小時採礦量$()以下列方式計算：(($(l:oredrills/ore_clusters#formulas4)可採掘礦叢大小$(/l) * 3 ) + ($(l:oredrills/ore_clusters#formulas4)可採掘礦叢大小$(/l) * $(l:oredrills/ore_clusters#formulas4)有效採掘等級$(/l) * 0.5 )) * $(l:oredrills/ore_clusters#formulas3)礦叢含量倍數$(/l) * $(l:oredrills/ore_clusters#formulas2)全域礦產倍數$(/l)$(br2)"
         },
         {
             "type": "text",
             "title": "能量消耗",
             "anchor": "power",
-            "text": "每單位時間(tick)所需能量的計算方式如下： 8 * $(l:oredrills/ore_clusters#ores_per_hour)每小時採礦量$(/l) * ( 1 + 最大值( $(l:oredrills/ore_clusters#formulas)鑽機半徑$(/l) - 1, 0 ) * 0.2 ) * $(l:oredrills/ore_clusters#formulas3)礦叢能量消耗倍數$(/l) * $(l:oredrills/ore_clusters#formulas2)全域能量倍數$(/l)$(br2)每單位時間消耗的能量直接決定了所需的 RF 能量， 而消耗的液體或固體則以個別燃料的轉換倍率產生 RF 能量。"
+            "text": "每單位時間(tick)所需能量的計算方式如下：8 * $(l:oredrills/ore_clusters#ores_per_hour)每小時採礦量$(/l) * ( 1 + 最大值( $(l:oredrills/ore_clusters#formulas)鑽機半徑$(/l) - 1, 0 ) * 0.2 ) * $(l:oredrills/ore_clusters#formulas3)礦叢能量消耗倍數$(/l) * $(l:oredrills/ore_clusters#formulas2)全域能量倍數$(/l)$(br2)每單位時間消耗的能量直接決定了所需的 RF 能量，而消耗的液體或固體則以個別燃料的轉換倍率產生 RF 能量。"
         }
     ]
 }
