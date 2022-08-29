@@ -35,9 +35,9 @@
     "message.rftoolsstorage.storage_module.gold": "該模組支持遠程儲存器。連接到遠程儲存器的另一個儲存模組",
     "message.rftoolsstorage.storage_module.info": "支持整組：",
     "message.rftoolsstorage.storage_module.remoteid": "遠程 ID：",
-    "message.rftoolsstorage.storage_module.uuid": "UUID： ",
-    "message.rftoolsstorage.storage_module.version": "版本： ",
-    "message.rftoolsstorage.storage_module.items": "內容： ",
-    "message.rftoolsstorage.storage_module.advanced": "高級： ",
+    "message.rftoolsstorage.storage_module.uuid": "UUID：",
+    "message.rftoolsstorage.storage_module.version": "版本：",
+    "message.rftoolsstorage.storage_module.items": "內容：",
+    "message.rftoolsstorage.storage_module.advanced": "高級：",
     "message.rftoolsstorage.modular_storage.header": "這種模組化儲存器可以儲存大量的物品，並且可以方便地進行搜尋和過濾。你必須先插入一個儲存模組，然後才能使用它"
 }
