@@ -147,8 +147,8 @@
     "death.attack.genericDamageOverTime": "%1$s被持續性傷害效果殺死了",
     "death.attack.genericDamageOverTime.player": "%1$s在跟%2$s被持續性傷害效果殺死了",
     "commands.origin.origin_not_found": "未知的起源: %s",
-    "commands.origin.set.success.single": "設置%s在%s層中的起源為%s.",
-    "commands.origin.set.success.multiple": "設置%s個目標在%s層中的起源為%s.",
+    "commands.origin.set.success.single": "設定%s在%s層中的起源為%s.",
+    "commands.origin.set.success.multiple": "設定%s個目標在%s層中的起源為%s.",
     "commands.origin.get.result": "%s 有以下 %s: %s (%s)",
     "origins.avian_sleep_fail": "你需要新鮮的空氣才能入睡"
 }
