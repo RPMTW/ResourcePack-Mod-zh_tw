@@ -13,7 +13,7 @@
     "wirelesschargers.charger.info.blocks": "對 %1$dx%1$dx%1$d 區域中的方塊進行充電。",
     "wirelesschargers.charger.info.players": "在 %1$dx%1$dx%1$d 區域為玩家的物品充電。",
     "wirelesschargers.charger.info.redstone_mode": "紅石模式：%s",
-    "wirelesschargers.charger.info.stored_energy": "儲存能量： %1$d / %2$d",
+    "wirelesschargers.charger.info.stored_energy": "儲存能量：%1$d / %2$d",
     "wirelesschargers.charger.info.transfer_rate_blocks": "充電速率：每個方塊 %d ",
     "wirelesschargers.charger.info.transfer_rate_players": "充電速率：每個玩家 %d",
     "wirelesschargers.screen.highlight_area": "標記區域: %s",
@@ -21,5 +21,5 @@
     "wirelesschargers.screen.redstone_disabled": "關閉",
     "wirelesschargers.screen.redstone_high": "收到紅石信號工作",
     "wirelesschargers.screen.redstone_low": "無紅石訊號工作",
-    "wirelesschargers.screen.stored_energy": "儲存能量： %1$d / %2$d"
+    "wirelesschargers.screen.stored_energy": "儲存能量：%1$d / %2$d"
 }
