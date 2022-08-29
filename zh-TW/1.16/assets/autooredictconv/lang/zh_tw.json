@@ -2,7 +2,7 @@
     "autooredictconv.command.odc._each": "- §6{0}",
     "autooredictconv.command.odc._each_pair": "- §a{0}§r: §6{1}§r",
     "autooredictconv.command.odc._must_be_holding": "你必須持有物品!",
-    "autooredictconv.command.odc._no_tag": "這個標籤 {0} 不存在。 ",
+    "autooredictconv.command.odc._no_tag": "這個標籤 {0} 不存在。",
     "autooredictconv.command.odc.help.0": "/odc help - 顯示此訊息",
     "autooredictconv.command.odc.help.1": "/odc detect -顯示目前持有項目的標籤名稱",
     "autooredictconv.command.odc.help.2": "/odc dump - 列出所有項目標籤",
