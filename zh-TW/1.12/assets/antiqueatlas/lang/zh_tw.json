@@ -17,7 +17,7 @@
     "gui.antiqueatlas.export.selectFile": "選擇要儲存的PNG檔案",
     "gui.antiqueatlas.export.success": "將圖像導出為%s",
     "gui.antiqueatlas.export.tooLarge": "對不起! 圖片太大因此無法渲染，請嘗試增加Java堆(Java heap)的大小。",
-    "gui.antiqueatlas.export.atlasTooLarge": "對不起！圖片太大，無法渲染。嘗試在模組選項中調高“exportSizeLimit”。",
+    "gui.antiqueatlas.export.atlasTooLarge": "對不起！圖片太大，無法渲染。嘗試在模組選項中調高「exportSizeLimit」。",
     "gui.antiqueatlas.export.setup": "設定中...",
     "gui.antiqueatlas.export.rendering": "渲染中...",
     "gui.antiqueatlas.export.writing": "寫入檔案...",
