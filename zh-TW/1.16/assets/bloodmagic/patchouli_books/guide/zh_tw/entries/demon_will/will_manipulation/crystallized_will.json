@@ -23,7 +23,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "既然現在您的$(l:bloodmagic:demon_will/will_manipulation/soul_gem)地獄魂石$()中有大量的$(l:bloodmagic:demon_will/will_manipulation/demon_will)惡魔意志$()，現在是時候探索當您將其釋放到世界上時會發生什麼。 $(br2)首先，你需要從$(l:bloodmagic:demon_will/will_manipulation/aura)靈域$()中獲取$(raw)意志$()。接下來，你需要創造一個$(thing)惡魔結晶壇$()。"
+      "text": "既然現在您的$(l:bloodmagic:demon_will/will_manipulation/soul_gem)地獄魂石$()中有大量的$(l:bloodmagic:demon_will/will_manipulation/demon_will)惡魔意志$()，現在是時候探索當您將其釋放到世界上時會發生什麼。$(br2)首先，你需要從$(l:bloodmagic:demon_will/will_manipulation/aura)靈域$()中獲取$(raw)意志$()。接下來，你需要創造一個$(thing)惡魔結晶壇$()。"
     },
     {
       "type": "crafting_soulforge",
