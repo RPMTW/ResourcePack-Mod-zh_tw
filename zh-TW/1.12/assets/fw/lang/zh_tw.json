@@ -1,14 +1,14 @@
 {
     "key.fullscreenwindowed.unused": "未使用的鍵-留空",
-    "key.fullscreenwindowed.category": "全螢幕窗口模組",
-    "comment.fullscreenwindowed.enableFullscreenWindowed": "啟用窗口全螢幕（替代原版全螢幕）",
-    "comment.fullscreenwindowed.fullscreenmonitor": "指示用於全螢幕窗口模式的監視器（從1開始）。 使用0表示在啟用的監視器上最大化的預設行為。",
+    "key.fullscreenwindowed.category": "全螢幕視窗模組",
+    "comment.fullscreenwindowed.enableFullscreenWindowed": "啟用視窗全螢幕（替代原版全螢幕）",
+    "comment.fullscreenwindowed.fullscreenmonitor": "指示用於全螢幕視窗模式的監視器（從1開始）。使用0表示在啟用的監視器上最大化的預設行為。",
     "comment.fullscreenwindowed.enableAdvancedFeatures": "要使用任何「高級」欄中的特性，設定為true。",
     "comment.fullscreenwindowed.enableMaximumCompatibility": "為true時：使用不同的啟動策略使該mod與Optifine和其他GL修改mods更好地協同工作。若需變更，風險自負。",
-    "comment.fullscreenwindowed.customFullscreenDimensions": "將此設定為true以自訂全螢幕時窗口的大小。寬度和高度必須大於256才能生效。",
-    "comment.fullscreenwindowed.customFullscreenDimensionsX": "全螢幕顯示中窗口的x坐標。如果fullscreenMonitor為0，則0是主監視器的左像素列，或者是所選監視器的左像素列。 customFullscreenDimensions必須為true才能生效。",
-    "comment.fullscreenwindowed.customFullscreenDimensionsY": "全螢幕顯示中窗口的x坐標。如果fullscreenMonitor為0，則0是主監視器的頂部像素行，或者是所選監視器的頂部像素行。 customFullscreenDimensions必須為true才能生效。",
-    "comment.fullscreenwindowed.customFullscreenDimensionsW": "全螢幕時窗口的寬度。必須大於256才能生效。 customFullscreenDimensions必須為true才能有效。",
-    "comment.fullscreenwindowed.customFullscreenDimensionsH": "全螢幕時窗口的高度。必須大於256才能生效。 customFullscreenDimensions必須為true才能生效。",
-    "comment.fullscreenwindowed.onlyRemoveDecorations": "如果設定為true，則點擊全螢幕按鈕將僅移除標題欄而不調整窗口大小。"
+    "comment.fullscreenwindowed.customFullscreenDimensions": "將此設定為true以自訂全螢幕時視窗的大小。寬度和高度必須大於256才能生效。",
+    "comment.fullscreenwindowed.customFullscreenDimensionsX": "全螢幕顯示中視窗的x坐標。如果fullscreenMonitor為0，則0是主監視器的左像素列，或者是所選監視器的左像素列。customFullscreenDimensions必須為true才能生效。",
+    "comment.fullscreenwindowed.customFullscreenDimensionsY": "全螢幕顯示中視窗的x坐標。如果fullscreenMonitor為0，則0是主監視器的頂部像素行，或者是所選監視器的頂部像素行。customFullscreenDimensions必須為true才能生效。",
+    "comment.fullscreenwindowed.customFullscreenDimensionsW": "全螢幕時視窗的寬度。必須大於256才能生效。customFullscreenDimensions必須為true才能有效。",
+    "comment.fullscreenwindowed.customFullscreenDimensionsH": "全螢幕時視窗的高度。必須大於256才能生效。customFullscreenDimensions必須為true才能生效。",
+    "comment.fullscreenwindowed.onlyRemoveDecorations": "如果設定為true，則點擊全螢幕按鈕將僅移除標題欄而不調整視窗大小。"
 }
