@@ -22,5 +22,6 @@
     "chunkloaders.keys.open_screen": "查看區塊載入器",
     "chunkloaders.legacy_message": "請在這個區塊載入器上按下 Shift + 滑鼠右鍵來設定它的所有者！",
     "chunkloaders.legacy_success": "你現在是這個區塊載入器的所有者！",
-    "itemGroup.chunkloaders": "區塊載入器"
+    "itemGroup.chunkloaders": "區塊載入器",
+    "chunkloaders.gui.disabled": "The chunk loader map is disabled on this server"
 }
