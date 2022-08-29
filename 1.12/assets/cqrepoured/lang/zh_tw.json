@@ -569,7 +569,7 @@
     "item.unprotected_positions_tool.name": "Unprotected Position Selector Helper",
     "item.magic_bell.name": "Magic Bell",
     "description.magic_bell.name": "Ring the bell and you will see the path to the Lich's Phylactery. Break the blocks the bell shows you and the dungeon's walls will yield to you.",
-    "enchantment.cqrepoured.lightning_protection.desc": "Protects you from lightning when applied to a helmet.",
+    "enchantment.cqrepoured.lightning_protection.desc": "Protects you from lightning when applied to a helmet. Each level nullifies 10% of the lightning damage taken.",
     "enchantment.cqrepoured.spectral.desc": "Increased damage towards endermen and abyss walkers. Highly recommended when fighting the walker king.",
     "entity.cqr_exterminator.name": "Exterminator Prototype",
     "advancements.cqrepoured.kill_exterminator.title": "Electrician",

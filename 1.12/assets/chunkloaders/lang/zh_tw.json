@@ -22,5 +22,6 @@
     "chunkloaders.keys.open_screen": "View Chunk Loaders",
     "chunkloaders.legacy_message": "Please shift-right-click this chunk loader to set its owner!",
     "chunkloaders.legacy_success": "You are now the owner of this chunk loader!",
-    "itemGroup.chunkloaders": "Chunk Loaders"
+    "itemGroup.chunkloaders": "Chunk Loaders",
+    "chunkloaders.gui.disabled": "The chunk loader map is disabled on this server"
 }
