@@ -139,7 +139,7 @@
     "text.industrialforegoing.book.oredictionary_converter": "將具有相同【礦物辭典】的物品轉換成你設定的物品。",
     "text.industrialforegoing.book.ore_processor": "將需要【絲綢之觸】才能採集到的礦分解成礦物。@L@@L@用【精華液】提高這個機器的產出。",
     "text.industrialforegoing.book.petrified_fuel_generator": "燃燒【固體燃料】產生能量，產出【RF】/tick 由燃燒時間決定。擁有更多的【燃燒時間】的燃料將會產生更多的【RF】/tick。@L@@L@注意：所有可以燃燒的東西都可以當燃料。",
-    "text.industrialforegoing.book.potion_enervator": "提供能量後，它就像一個高級的【釀造台】。@L@@L@首先它會給玻璃瓶【裝滿】水，然後【從左到右】順序地將所有的釀造材料按【順序】開始釀造。 @L@@L@按照【箭頭】指示檢查目前操作是否正確。",
+    "text.industrialforegoing.book.potion_enervator": "提供能量後，它就像一個高級的【釀造台】。@L@@L@首先它會給玻璃瓶【裝滿】水，然後【從左到右】順序地將所有的釀造材料按【順序】開始釀造。@L@@L@按照【箭頭】指示檢查目前操作是否正確。",
     "text.industrialforegoing.book.protein_generator": "使用蛋白質產生能量。一【桶】蛋白質產生 320RF/t，總共產生【1,280,000】RF。",
     "text.industrialforegoing.book.protein_reactor": "提供【能量】和【動物掉落物】便可以生產【蛋白質】。@L@@L@每種不同的物品將提高【10】mB 的提取效率，當達到最大效率時，爐內每次反應將會產生【1440】mB 的蛋白質並消耗【9】種不同的動物掉落物材料。",
     "text.industrialforegoing.book.resourceful_furnace": "它就像一個普通的【熔爐】，但是它能每次熔煉【3】個物品，並且每當一個物品被熔煉時便會產生一點【精華液】。",
