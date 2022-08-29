@@ -15,7 +15,7 @@
     "item.tinygates.tiny_counter": "小型計數器",
     "message.item.tinygates.tiny_counter": "記錄從後方接收紅石脈衝的次數(最多15次)\n顯示數字及向前輸出紅石訊號強度\n也可做為紅石強度計使用\n由左側輸入紅石訊號以鎖定計數器\n由右側輸入紅石訊號以重製計數器",
     "item.tinygates.tiny_clock": "小型時鐘",
-    "message.item.tinygates.tiny_clock": "以設定的頻率向前端輸出紅石脈衝。\n對其點擊右鍵以開啟頻率設置介面。\n在其後方輸入紅石訊號以關閉時鐘",
+    "message.item.tinygates.tiny_clock": "以設定的頻率向前端輸出紅石脈衝。\n對其點擊右鍵以開啟頻率設定介面。\n在其後方輸入紅石訊號以關閉時鐘",
     "item.tinygates.tiny_edge_detector": "小型訊號邊緣觸發器",
     "message.item.tinygates.tiny_edge_detector": "在紅石狀態正在改變時[低->高(正緣) 或 高->低(負緣)] 輸出訊號"
 }
