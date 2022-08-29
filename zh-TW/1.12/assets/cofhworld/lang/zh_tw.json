@@ -1,7 +1,7 @@
 {
-    "cofhworld.reload.usage": "重載CoFHWorld配置",
-    "cofhworld.reload.successful": "配置已重載",
-    "cofhworld.reload.failed": "重載配置失敗；檢查你的日誌。",
+    "cofhworld.reload.usage": "重新載入CoFHWorld配置",
+    "cofhworld.reload.successful": "配置已重新載入",
+    "cofhworld.reload.failed": "重新載入配置失敗；檢查你的日誌。",
     "cofhworld.list.usage": "列出所有CoFHWorld功能",
-    "cofhworld.list": "--- 加載CoFHWorld功能頁 %d of %d ---"
+    "cofhworld.list": "--- 載入CoFHWorld功能頁 %d of %d ---"
 }
