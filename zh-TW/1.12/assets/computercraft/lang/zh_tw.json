@@ -93,7 +93,7 @@
     "commands.computercraft.queue.desc": "發送 computer_command 事件到指令電腦，並傳遞其他參數。這主要是為地圖製作者設計的, 作為 /trigger 更加電腦友好的版本。任何玩家都可以執行指令，這很可能是通過文字組件的點擊事件完成的。",
     "commands.computercraft.queue.usage": "<id> [參數...]",
     "commands.computercraft.generic.no_position": "<無位置>",
-    "commands.computercraft.generic.position": "%s， %s， %s",
+    "commands.computercraft.generic.position": "%s，%s，%s",
     "commands.computercraft.generic.yes": "Y",
     "commands.computercraft.generic.no": "北",
     "commands.computercraft.generic.exception": "未處理的異常（%s）",
