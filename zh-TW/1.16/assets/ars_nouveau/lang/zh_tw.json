@@ -66,7 +66,7 @@
     "ars_nouveau.page.jar_of_light": "召喚會跟隨使用者移動的光。可隨時召喚和驅散。",
     "ars_nouveau.page.amulet_of_mana_boost": "中幅增加魔力上限。",
     "ars_nouveau.page.amulet_of_mana_regen": "中幅增加魔力再生速度。",
-    "ars_nouveau.page.arcane_relay": "可在魔源罐和其它魔源中繼器之間傳輸魔力。要從魔源罐中抽取魔力，需使用支配之杖先右擊魔源罐，再右擊魔源中繼器。要從中繼傳輸到另一個中繼或魔源罐，先右擊中繼器，再右擊傳輸的目標。一個中繼器最多只能連接到 30 格遠的目標。使用支配之杖潛行右擊中繼器可清空連接。",
+    "ars_nouveau.page.arcane_relay": "可在魔源罐和其他魔源中繼器之間傳輸魔力。要從魔源罐中抽取魔力，需使用支配之杖先右擊魔源罐，再右擊魔源中繼器。要從中繼傳輸到另一個中繼或魔源罐，先右擊中繼器，再右擊傳輸的目標。一個中繼器最多只能連接到 30 格遠的目標。使用支配之杖潛行右擊中繼器可清空連接。",
     "ars_nouveau.page.arcane_relay_splitter": "操作方式和魔源中繼器相似，但它支持同時傳輸魔力到多個魔源罐內。分流器的吞吐量比中繼器大得多，它會將流量在所有目標魔源罐間平分。使用說明請參閱魔源中繼器的條目。",
     "ars_nouveau.page.enchanting_apparatus1": "附魔裝置能利用基座和世界中的魔源進行合成。要想使用附魔裝置，請在附近放置任意數量的奧術基座，並在其上放置物品。之後，對附魔裝置使用試劑物品即可開始合成。附魔裝置下方需要放置一個奧術核心，否則它不會執行。",
     "ars_nouveau.page.mana_bloom_crop": "一種充滿魔法的花。法師之花生長時可為附近的農藝魔源通道提供額外魔源。成熟後還可產出法師之花纖維。法師之花還可以用來合成飲用後能提升法術傷害的法術傷害藥水。",
@@ -868,5 +868,6 @@
     "ars_nouveau.page1.weald_waddler": "如果林地行者死亡，它會變成林地蹣跚者。林地蹣跚者又會慢慢長大，變回林地行者，對其使用骨粉可以加速這個過程。林地蹣跚者在長大前無法戰鬥，也不能自保。",
     "ars_nouveau.page3.warp_portal": "一個魔法傳送門，能將玩家、生物、法術和物品傳送到同一維度的任何位置。",
     "ars_nouveau.source": "來源：%s",
-    "ars_nouveau.crush_recipe": "粉碎魔符"
+    "ars_nouveau.crush_recipe": "粉碎魔符",
+    "ars_nouveau.gui.discord": "Join the Discord for spells, updates, and support!"
 }
