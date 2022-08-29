@@ -83,7 +83,7 @@
     "commands.computercraft.queue.synopsis": "將 computer_command 事件發送到指令電腦",
     "commands.computercraft.queue.desc": "發送 computer_command 事件到指令電腦，並傳遞其他參數。這主要是為地圖製作者設計的, 作為 /trigger 更加電腦友好的版本。任何玩家都可以執行指令，這很可能是通過文字組件的點擊事件完成的。",
     "commands.computercraft.generic.no_position": "<無位置>",
-    "commands.computercraft.generic.position": "%s， %s， %s",
+    "commands.computercraft.generic.position": "%s，%s，%s",
     "commands.computercraft.generic.yes": "Y",
     "commands.computercraft.generic.no": "北",
     "commands.computercraft.generic.exception": "未處理的異常（%s）",
@@ -128,11 +128,11 @@
     "gui.computercraft.upload.failed.overwrite_dir": "無法上傳 %s，因為已有同名目錄。",
     "computercraft.gui.upload.failed.generic": "上傳檔案失敗 (%s)",
     "gui.computercraft.upload.overwrite": "檔案將被覆蓋",
-    "gui.computercraft.upload.overwrite.detail": "上傳時將覆蓋以下檔案。 繼續嗎？%s",
+    "gui.computercraft.upload.overwrite.detail": "上傳時將覆蓋以下檔案。繼續嗎？%s",
     "gui.computercraft.upload.overwrite_button": "覆蓋",
     "gui.computercraft.upload.failed.name_too_long": "檔案名太長，無法上傳。",
     "gui.computercraft.upload.failed.too_many_files": "無法上傳這麼多檔案。",
     "gui.computercraft.upload.failed.generic": "上傳檔案失敗 (%s)",
-    "gui.computercraft.upload.failed.corrupted": "上傳時檔案損壞。 請再試一次。",
-    "gui.computercraft.pocket_computer_overlay": "掌上電腦打開。 按 ESC 關閉。"
+    "gui.computercraft.upload.failed.corrupted": "上傳時檔案損壞。請再試一次。",
+    "gui.computercraft.pocket_computer_overlay": "掌上電腦打開。按 ESC 關閉。"
 }
