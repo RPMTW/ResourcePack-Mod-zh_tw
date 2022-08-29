@@ -7,5 +7,5 @@
     "commands.ocsensors.extract-configs.usage": "/ocsensors extract-configs",
     "commands.ocsensors.extract-configs.description": "從.jar中提取預設設定檔案到config資料夾中。",
     "commands.ocsensors.reload.usage": "/ocsensors reload",
-    "commands.ocsensors.reload.description": "重載全部設定檔案。"
+    "commands.ocsensors.reload.description": "重新載入全部設定檔案。"
 }
