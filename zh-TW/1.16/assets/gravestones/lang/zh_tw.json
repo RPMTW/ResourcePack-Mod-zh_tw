@@ -1,6 +1,6 @@
 {
   "block.gravestones.gravestone": "墓碑",
-  "text.autoconfig.gravestones.title": "墓碑 設置",
+  "text.autoconfig.gravestones.title": "墓碑 設定",
   "text.autoconfig.gravestones.option.mainSettings": "主要設定",
   "text.autoconfig.gravestones.option.mainSettings.enableGraves": "啟用墓碑",
   "text.autoconfig.gravestones.option.mainSettings.enableGraves.@Tooltip": "啟用墓碑模組功能",
@@ -8,7 +8,7 @@
   "text.autoconfig.gravestones.option.mainSettings.enableGraveLooting.@Tooltip": "其他玩家是否能夠取回玩家的墓碑。",
   "text.autoconfig.gravestones.option.mainSettings.sendGraveCoordinates": "發送墓碑坐標",
   "text.autoconfig.gravestones.option.mainSettings.sendGraveCoordinates.@Tooltip": "玩家是否在死亡時將墓碑的座標傳發給他們。",
-  "text.gravestones.grave_coordinates": "您的墓碑已在 [x： %d， y： %d， z： %d ]",
+  "text.gravestones.grave_coordinates": "您的墓碑已在 [x：%d，y：%d，z：%d ]",
   "text.autoconfig.gravestones.option.mainSettings.minimumOpLevelToLoot": "Minimum bypass OP Level",
   "text.autoconfig.gravestones.option.mainSettings.minimumOpLevelToLoot.@Tooltip": "The minumum OP level a player has to be to bypass gravestone world protection",
   "text.autoconfig.gravestones.option.mainSettings.retrievalType": "墓碑取回類型",
