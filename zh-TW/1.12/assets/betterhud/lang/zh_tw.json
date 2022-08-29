@@ -154,11 +154,11 @@
     "betterHud.hud.players": "%s 玩家",
     "betterHud.hud.localServer": "本地伺服器",
     "betterHud.hud.ip": "IP：%s",
-    "betterHud.hud.ping": "延遲： %sms",
+    "betterHud.hud.ping": "延遲：%sms",
     "betterHud.hud.x": "X：%s",
     "betterHud.hud.y": "Y：%s",
     "betterHud.hud.z": "Z：%s",
-    "betterHud.hud.xyz": "X：%s， Y：%s， Z：%s",
+    "betterHud.hud.xyz": "X：%s，Y：%s，Z：%s",
     "betterHud.setting.billboardScale": "方塊板縮放",
     "betterHud.setting.jump": "跳躍高度",
     "betterHud.setting.speed": "速度",
@@ -194,5 +194,5 @@
     "betterHud.hud.holding": "手持物品：%s",
     "betterHud.hud.saturation": "飽食度：%s",
     "betterHud.hud.unknownBlock": "未知方塊",
-    "betterHud.hud.facing": "朝向： %s (%s)"
+    "betterHud.hud.facing": "朝向：%s (%s)"
 }
