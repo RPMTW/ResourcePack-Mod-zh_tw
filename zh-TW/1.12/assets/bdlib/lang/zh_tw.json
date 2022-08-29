@@ -22,7 +22,7 @@
     "bdlib.oredistribution.start1": "檢查在 (%s,%s,%s) 到 (%s,%s,%s) 的礦物分佈情況 dim %s",
     "bdlib.oredistribution.start2": "伺服器可能會出現短暫的延遲",
     "bdlib.oredistribution.entry": "%s %s - %s (%s%%)",
-    "bdlib.oredistribution.warn": "%s Warning： %s 多個變數已產生：",
+    "bdlib.oredistribution.warn": "%s Warning：%s 多個變數已產生：",
     "bdlib.oredistribution.saved": "礦石分配轉儲到 %s",
     "bdlib.oredistribution.error": "無法保存礦石分配轉儲：%s"
 }
