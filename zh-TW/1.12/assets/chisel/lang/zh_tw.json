@@ -38,7 +38,7 @@
     "jei.chisel.desc.chisel_generic": "鑿子可被用來創造各種方塊的不同樣式。你可以右擊鑿子打開GUI雕鑿，也可以直接點擊方塊進行雕鑿。如果GUI中已經選定了方塊，點擊方塊時將僅把相應方塊雕鑿成指定外觀。",
     "jei.chisel.desc.chisel_iron": "鐵鑿子是最基礎的鑿子，耐久值低，且一次只能雕鑿世界中的一個方塊。",
     "jei.chisel.desc.chisel_diamond": "鑽石鑿子是中級的鑿子，耐久值高，一次可以雕鑿 3x3(9) 個方塊！",
-    "jei.chisel.desc.chisel_hitech": "iChisel是鑿子科技的最新產品！你無需移動物品，僅需選定物品欄中的格子，選擇目標樣式點擊左側的「雕鑿」按鈕即可。按住Shift鍵可一次雕鑿所有相同方塊。方便的預覽窗口可用於查看方塊在世界中的外觀。最後，iChisel還能一次雕鑿9000+個世界中的方塊！選擇「鄰近」和「鄰近 2D」模式後你可以一次雕鑿世界中的一片相似方塊。",
+    "jei.chisel.desc.chisel_hitech": "iChisel是鑿子科技的最新產品！你無需移動物品，僅需選定物品欄中的格子，選擇目標樣式點擊左側的「雕鑿」按鈕即可。按住Shift鍵可一次雕鑿所有相同方塊。方便的預覽視窗可用於查看方塊在世界中的外觀。最後，iChisel還能一次雕鑿9000+個世界中的方塊！選擇「鄰近」和「鄰近 2D」模式後你可以一次雕鑿世界中的一片相似方塊。",
     "jei.chisel.desc.concrete_making": "用水就可以製作堅硬的混凝土！\\n\\n將沙狀混凝土放入水中，或者靠近水源和流水，或者將其像沙一樣落入水中。",
     "chisel.tooltip.blockname": "%1$s（%2$s）",
     "subtitle.chisel.chiseling.fallback": "物體被雕鑿",
