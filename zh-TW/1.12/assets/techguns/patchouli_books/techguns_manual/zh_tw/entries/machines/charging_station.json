@@ -5,12 +5,12 @@
     "pages": [
         {
             "type": "text",
-            "text": "《充能站》是用來幫能量匣補充能量的中級機器。這臺機器有一個輸入槽、一個輸出槽， 以及一個$(l:machine_mechanics#upgrade)升級槽$(/l)。"
+            "text": "《充能站》是用來幫能量匣補充能量的中級機器。這臺機器有一個輸入槽、一個輸出槽，以及一個$(l:machine_mechanics#upgrade)升級槽$(/l)。"
         },
         {
             "type": "text",
             "title": "使用說明",
-            "text": "支援鍛造能量(FE)的物品也能使用充能站。 $(br)可用的配方會因模組的設定而有所不同， 請用『Just Enough Items 充足物品模組(JEI)』來查詢配方。"
+            "text": "支援鍛造能量(FE)的物品也能使用充能站。$(br)可用的配方會因模組的設定而有所不同，請用『Just Enough Items 充足物品模組(JEI)』來查詢配方。"
         },
         {
             "type": "crafting",
