@@ -4,7 +4,7 @@
     "d3.core.config.core.tooltip": "應用到所有D³模組",
     "d3.core.config.debug": "除錯模式",
     "d3.core.config.debug.tooltip": "請在錯誤報告生成前開啟.",
-    "d3.core.config.printDeathCoords": "顯示死亡坐標在聊天窗口(客戶端)",
+    "d3.core.config.printDeathCoords": "顯示死亡坐標在聊天視窗(用戶端)",
     "d3.core.config.printDeathCoords.tooltip": "同時也包含可點擊的傳送指令!",
     "d3.core.config.Silliness": "允許荒謬",
     "d3.core.config.Silliness.tooltip": "請不要停用，除非你想激怒D³成員 :p 不過說真的，使用這個設定，你可以停用變更名字，掉落物和方塊頭盔。",
