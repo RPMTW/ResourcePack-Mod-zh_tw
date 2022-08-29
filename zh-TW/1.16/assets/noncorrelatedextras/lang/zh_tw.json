@@ -1,6 +1,6 @@
 {
-  "noncorrelatedextras.tooltip.magnet.range": "範圍： %s / %s",
-  "noncorrelatedextras.tooltip.magnet.extra_range": "%s （+盔甲%s ）",
+  "noncorrelatedextras.tooltip.magnet.range": "範圍：%s / %s",
+  "noncorrelatedextras.tooltip.magnet.extra_range": "%s（+盔甲%s ）",
   "item.noncorrelatedextras.magnet": "磁力",
   "attribute.name.generic.max_magnet_range": "最大磁力範圍",
   "item.noncorrelatedextras.polarized_iron_helmet": "磁化鐵製頭盔",
@@ -9,7 +9,7 @@
   "item.noncorrelatedextras.polarized_iron_boots": "磁化鐵製靴子",
   "item.noncorrelatedextras.polarized_iron_ingot": "磁化鐵錠",
   "block.noncorrelatedextras.polarized_iron_block": "磁化鐵方塊",
-  "screen.noncorrelatedextras.magnet.range": "磁力範圍： %s",
+  "screen.noncorrelatedextras.magnet.range": "磁力範圍：%s",
   "screen.noncorrelatedextras.magnet.pull": "拉",
   "screen.noncorrelatedextras.magnet.teleport": "傳送",
   "text.noncorrelatedextras.magnet.fail_update_value": "未能更新磁力，請重試，如果這種情況持續下去，請報告為錯誤。",
