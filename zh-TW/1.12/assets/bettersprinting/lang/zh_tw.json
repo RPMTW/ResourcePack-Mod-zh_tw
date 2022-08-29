@@ -28,7 +28,7 @@
     "bs.game.integrity": "疾走增強(Better Sprinting)執行不正常時，可能是與其他模組有衝突。",
     "bs.game.disabled": "本伺服器已要求停用此模組，所有功能已停用。",
     "bs.game.reenabled": "伺服器再次允許使用此模組，所有功能已經恢復。",
-    "bs.command.info": "玩家可以使用指令來啟用或停用本模組，也可變更特定設定。所有變更在重啟伺服器後生效，同時會立刻影響到伺服器上的既有玩家。",
+    "bs.command.info": "玩家可以使用指令來啟用或停用本模組，也可變更特定設定。所有變更在重新啟動伺服器後生效，同時會立刻影響到伺服器上的既有玩家。",
     "bs.command.disableMod": "疾走增強(Better Sprinting)會自動停用所有玩家。",
     "bs.command.enableMod": "疾走增強(Better Sprinting)現可於伺服器中使用。",
     "bs.command.disableFlyBoost": "飛行加速將在玩家處於生存模式時停用。",
