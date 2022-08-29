@@ -1,6 +1,6 @@
 {
     "itemGroup.numina": "神諭",
-    "keybind.fovfixtoggle": "切換視野廣度修正設置",
+    "keybind.fovfixtoggle": "切換視野廣度修正設定",
     "fovfixtoggle.enabled": "啟用視野廣度固定",
     "fovfixtoggle.disabled": "停用視野廣度固定",
     "screen.numina.charging_base": "充電座",
@@ -33,7 +33,7 @@
     "item.numina.component_servo": "伺服馬達",
     "item.numina.component_servo.desc": "一種受脈波調變信號控制的特殊馬達，能反映出各種極為精確的動作。",
     "item.numina.component_glider_wing": "滑翔翼零件",
-    "item.numina.component_glider_wing.desc": "極輕量且合乎空氣動力學的羽翼，裏頭裝配了顆電磁鐵，可以快速的伸展或縮回翅膀。",
+    "item.numina.component_glider_wing.desc": "極輕量且合乎空氣動力學的羽翼，裡頭裝配了顆電磁鐵，可以快速的伸展或縮回翅膀。",
     "item.numina.component_ion_thruster": "離子推進引擎",
     "item.numina.component_ion_thruster.desc": "基本上是一種微型粒子加速器，加速部分離子至亞光速以產生推進力。",
     "item.numina.component_parachute": "降落傘",
