@@ -33,7 +33,7 @@
     "item.bigreactors:mineralbenitoite.name": "藍錐礦晶體 (BaTiSi3O9)",
     "item.bigreactors:wrench.name": "扳手",
     "item.bigreactors:wrench.machine.coords": "多方塊結構開始於%1$d，%2$d，%3$d。結束於%4$d，%5$d，%6$d",
-    "item.bigreactors:wrench.machine.update": "多方塊結構客戶端/伺服器同步請求",
+    "item.bigreactors:wrench.machine.update": "多方塊結構用戶端/伺服器同步請求",
     "tile.bigreactors:blockyellorium.name": "黃鈾塊",
     "tile.bigreactors:blockcyanite.name": "藍晶塊",
     "tile.bigreactors:blockblutonium.name": "藍鈈塊",
@@ -140,7 +140,7 @@
     "config.bigreactors.turbine": "渦輪機",
     "config.bigreactors.recipes": "合成表",
     "config.bigreactors.worldgen": "世界生成",
-    "config.bigreactors.client": "僅客戶端設定",
+    "config.bigreactors.client": "僅用戶端設定",
     "config.bigreactors.compatibility.autoAddUranium": "加入鈾作為反應堆的反應物",
     "config.bigreactors.compatibility.enableMetallurgyFantasyMetalsInTurbines": "使用Metallurgy的Fantasy Metals作為渦輪機材料",
     "config.bigreactors.general.enableComedy": "加入一些有趣的東西",
@@ -210,7 +210,7 @@
     "debug.bigreactors.turbine.maxintakerate": "最大輸入速率：%1$d",
     "debug.bigreactors.turbine.coilsize": "線圈大小：%1$d",
     "debug.bigreactors.turbine.rotormass": "渦輪質量：%1$d",
-    "debug.bigreactors.turbine.bladearea": "渦輪葉片表面積： %1$d",
+    "debug.bigreactors.turbine.bladearea": "渦輪葉片表面積：%1$d",
     "debug.bigreactors.turbine.rotorblades": "渦輪機葉片：%1$d",
     "debug.bigreactors.turbine.rotorshafts": "渦輪機轉軸：%1$d",
     "debug.bigreactors.turbine.rotordragcoeff": "渦輪阻力係數：%1$.2f",
@@ -220,5 +220,5 @@
     "debug.bigreactors.turbine.inputempty": "-入口：空",
     "debug.bigreactors.turbine.input": "-入口：%1$s %2$d mB",
     "debug.bigreactors.turbine.outputempty": "-出口：空",
-    "debug.bigreactors.turbine.output": "-出口： %1$s %2$d mB"
+    "debug.bigreactors.turbine.output": "-出口：%1$s %2$d mB"
 }
