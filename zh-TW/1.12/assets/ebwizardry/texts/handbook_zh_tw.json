@@ -669,7 +669,7 @@
 					],
 					"text": [
 						"Arkendur的魔法物品供應 - 我們有你所想要的魔法物品！",
-						"想要在旅途中為你的 @wands 魔杖@ 充能？沒問題！ @mana 魔力@ 現在可以被裝入瓶內了。將八顆魔力水晶放入玻璃瓶中，魔法瓶的製作就這樣簡簡單單。當你想使用它時，將它與你的魔杖合成一下，它將會為你的魔杖恢復一些魔力。",
+						"想要在旅途中為你的 @wands 魔杖@ 充能？沒問題！@mana 魔力@ 現在可以被裝入瓶內了。將八顆魔力水晶放入玻璃瓶中，魔法瓶的製作就這樣簡簡單單。當你想使用它時，將它與你的魔杖合成一下，它將會為你的魔杖恢復一些魔力。",
 						"#recipe medium_mana_flask",
 						"新品！讓我們為你介紹嶄新的小型魔力瓶和大型魔力瓶 - 現在你可以根據你的需要來挑選合適大小的魔力瓶！",
 						"#recipe small_mana_flask",
@@ -741,7 +741,7 @@
 			"title": "鳴謝",
 			"include_in_contents": "main_contents",
 			"text": [
-				"巫術學（Electroblob's Wizardry） \n版本 #version \n支持 Minecraft #mcversion",
+				"巫術學（Electroblob's Wizardry）\n版本 #version \n支持 Minecraft #mcversion",
 				"設計，代碼和材質\n由 Electroblob 完成",
 				"感謝 Minecraft Forge 以及 MCP，沒有它們，這個mod就不可能得以實現。",
 				"同時也感謝 Minecraft 模組製作社區，他們總會在我遇到mod難題時幫助我!",
