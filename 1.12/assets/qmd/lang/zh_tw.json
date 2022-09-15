@@ -1017,5 +1017,7 @@
     "gui.qmd.config.other.mole_amount.comment": "The Amount of particle units in a mole of stuff.",
     "gui.qmd.config.other.beam_scaling": "Beam Scaling Factor",
     "gui.qmd.config.other.beam_scaling.comment": "The scaling factor for the beam attenuation equation.",
-    "death.attack.antimatter_annihilation": "%1$s got to curious and was annihilated for it"
+    "death.attack.antimatter_annihilation": "%1$s got to curious and was annihilated for it",
+    "gui.qmd.config.processors.irradiator_fuel_usage": "Irradiator Fuel Usage",
+    "gui.qmd.config.processors.irradiator_fuel_usage.comment": "The base amount of pu/t used by the irradiator."
 }

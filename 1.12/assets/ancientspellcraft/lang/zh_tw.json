@@ -385,7 +385,7 @@
     "item.ancientspellcraft\\:head_merchant.name": "Crown of the Merchant King",
     "item.ancientspellcraft\\:head_minions.desc": "Summoned minions follow their master",
     "item.ancientspellcraft\\:head_minions.name": "Circlet of the Overlord",
-    "item.ancientspellcraft\\:head_riftstone.desc": "Makes your Transportation Portals permanent",
+    "item.ancientspellcraft\\:head_riftstone.desc": "Makes your Transportation Portals permanent. Cast the spell on a portal to dispel the portal",
     "item.ancientspellcraft\\:head_riftstone.name": "Riftstone Circlet",
     "item.ancientspellcraft\\:head_shield.desc": "Significantly reduces the decay rate of the Wizard Shield effect",
     "item.ancientspellcraft\\:head_shield.name": "Circlet of Shielding",
@@ -832,7 +832,7 @@
     "spell.ancientspellcraft\\:time_knot": "Time Knot",
     "spell.ancientspellcraft\\:transference.desc": "Transfers a random positive potion effect to the target. Potency increases the number of effects that are transferred.",
     "spell.ancientspellcraft\\:transference": "Transference",
-    "spell.ancientspellcraft\\:transportation_portal.desc": "Only masters of Sorcery can unlock the true power of Transportation Stones and open Transportation Portals.",
+    "spell.ancientspellcraft\\:transportation_portal.desc": "Only masters of Sorcery can unlock the true power of Transportation Stones and open Transportation Portals. Cast again on a portal to dispel it.",
     "spell.ancientspellcraft\\:transportation_portal.too_close": "The target location is too close",
     "spell.ancientspellcraft\\:transportation_portal": "Transportation Portal",
     "spell.ancientspellcraft\\:unholy_alliance.desc": "Dominate over all the elements through the mystic art of Necromancy",
@@ -1045,7 +1045,7 @@
     "item.ancientspellcraft\\:enchanted_page.name": "Enchanted Page",
     "item.ancientspellcraft\\:head_lightning.desc": "Lightning spells gain extra blast, duration and range if the caster stands in electrified blocks",
     "item.ancientspellcraft\\:head_lightning.name": "Crown of the Tempest",
-    "item.ancientspellcraft\\:knowledge_scroll.desc": "When cast on a wand in your other hand, immediately grants 1/3 of the missing progression XP required for the wand's next tier",
+    "item.ancientspellcraft\\:knowledge_scroll.desc": "When cast on a wand in your left hand, immediately grants 1/3 of the missing progression XP required for the wand's next tier",
     "item.ancientspellcraft\\:knowledge_scroll.name": "Scroll of Knowledge",
     "item.ancientspellcraft\\:amnesia_scroll.desc": "Makes the targeted wizard forget all of his previous trades",
     "item.ancientspellcraft\\:amnesia_scroll.name": "Scroll of Amnesia",
@@ -1350,5 +1350,7 @@
     "tooltip.ancientspellcraft\\:crystal_silver_nugget.more_info": "Used by Battlemages to craft Spell Blades and various other tools",
     "tooltip.ancientspellcraft\\:devoritium.more_info": "Devoritium is a magic-absorbing material, causing Magical Weakness for anyone interacting with it",
     "tooltip.ancientspellcraft\\:sage_lectern.more_info": "This lectern can hold a spell book for easy reading or a Sage Tome to upgrade the tome",
-    "tooltip.ancientspellcraft\\:sealed_stone.more_info": "Magically Sealed Stone is unbreakable. Only its Unseal Glyph can dispel it"
+    "tooltip.ancientspellcraft\\:sealed_stone.more_info": "Magically Sealed Stone is unbreakable. Only its Unseal Glyph can dispel it",
+    "item.ancientspellcraft\\:charm_guardian_blade.desc": "This sword refuses to be unsheathed by anyone, but it comes for your aid when in the greatest trouble",
+    "item.ancientspellcraft\\:charm_guardian_blade.name": "Guardian Blade"
 }
