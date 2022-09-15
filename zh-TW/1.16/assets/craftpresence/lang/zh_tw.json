@@ -197,7 +197,7 @@
     "gui.config.comment.status_messages.placeholder.player_health_message": "在伺服器設定中，用於&health&參數的資訊（&playerinfo&占位符）\\n可用的占位符：&current& = 您目前的遊戲血量資訊 \\n&max& = 您目前的遊戲最大血量",
     "gui.config.comment.status_messages.placeholder.player_amount_message": "在伺服器設定中為&players&占位符使用的資訊\\n可用的占位符：\\n - &current& = 目前玩家數\\n - &max& = 最大玩家數",
     "gui.config.comment.status_messages.placeholder.player_item_message": "狀態設定中用於 &tileentity& 通用佔位符的資訊\\n 可用佔位符：\\n - &main& = 目前慣用手物品\\n - &offhand& = 目前非慣用手物品\\n - &helmet& = 目前裝備的頭盔\\n - &chest& = 目前裝備的胸甲\\n - &legs& = 目前裝備的護腿\\n - &boots& = 目前裝備的靴子",
-    "gui.config.comment.status_messages.placeholder.world_message": "用於伺服器設定中的&worldinfo&占位符的資訊\\n可用占位符：\\n - &difficulty& = 目前世界的難易度\\n- &worldname& = 目前世界的名稱\\n - &worldtime& = 目前世界的遊戲時間",
+    "gui.config.comment.status_messages.placeholder.world_message": "Message to use for the &worldinfo& placeholder in server settings\\n Available placeholders:\\n - &difficulty& = The current world's difficulty\\n - &worldname& = The name of the current world\\n - &worldtime& = The current world's in-game time\\n - &worldday& = The current world's in-game days",
     "gui.config.comment.status_messages.placeholder.mods_message": "在Presence設定\\n中用於&mods&占位符的資訊\\n可用的占位符：\\n - &modcount& = 目前在mods資料夾中的模組數量",
     "gui.config.comment.status_messages.special.vivecraft_message": "使用Vivecraft時，在Rich Presence中顯示的資訊",
     "gui.config.comment.status_messages.fallback.pack_placeholder_message": "如果不是空的且沒有偵測到資料包/資源包，這個文字將被用於 &pack& 占位符。",
