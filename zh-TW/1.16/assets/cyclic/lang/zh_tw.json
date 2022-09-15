@@ -1628,5 +1628,7 @@
     "block.cyclic.mason_steel.guide": "Mason blocks are a decorative block and a crafting ingredient for various machines.",
     "block.cyclic.mason_plate.guide": "Mason blocks are a decorative block and a crafting ingredient for various machines.",
     "block.cyclic.user.hand": "Use Left Hand",
-    "buildertype.tunnel": "Tunnel"
+    "buildertype.tunnel": "Tunnel",
+    "effect.cyclic.waterwalk.description": "Prevents you from sinking down through the waters surface",
+    "effect.cyclic.magnetic.description": "Pull items and XP towards you with range of 8 blocks per level"
 }
