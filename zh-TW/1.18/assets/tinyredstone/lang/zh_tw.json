@@ -1,8 +1,8 @@
 {
     "key.tinyredstone.rotation_lock": "鎖定放置方向 (配合滾輪使用)",
     "block.tinyredstone.redstone_panel": "紅石電路板",
-    "message.item.redstone_panel": "§7電路板上可以自由放置各種微型紅石元件。\n拿著染料對著電路板使用可以改變電路板顏色。§r",
-    "message.item.redstone_wrench": "§7對著電路板右鍵使用可以旋轉它。\n左鍵可以拆除電路板上的元件。§r",
+    "message.item.redstone_panel": "§7Panel to hold tiny components.\nRight click with dye to change color.§r",
+    "message.item.redstone_wrench": "§7Right-click a Redstone Panel to rotate.\nLeft click to remove tiny components.\nShift-left click to remove all of them.§r",
     "message.item.redstone_panel_cell": "§7可以放置在紅石電路板上用來製作紅石電路。§r",
     "message.item.tiny_color_selector": "§7對著微型方塊使用可以自訂它們的顏色。§r",
     "item.tinyredstone.tiny_redstone": "微型紅石粉",
@@ -11,7 +11,7 @@
     "message.item.tinyredstone.tiny_repeater": "Outputs a full (15) strong signal to the front when any signal is received at the back with a delay between 1 and 4 ticks set by right clicking.",
     "item.tinyredstone.tiny_redstone_torch": "微型紅石火把",
     "message.item.tinyredstone.tiny_redstone_torch": "Can act as redstone power sources and a NOT gate.\nAttaches to tiny blocks like vanilla torches, but it can angle away from you on the panel or on top of a block.\nIt is not necessary to place the torch against a block to create a NOT gate.",
-    "item.tinyredstone.redstone_wrench": "紅石扳手",
+    "item.tinyredstone.redstone_wrench": "Tiny Component Wrench",
     "item.tinyredstone.tiny_comparator": "微型紅石比較器",
     "message.item.tinyredstone.tiny_comparator": "Will pick up weak signals from adjacent blocks and inventory comparator outputs when placed on the edge of a panel.\rRight click to toggle subtract mode.",
     "item.tinyredstone.tiny_piston": "微型活塞",
@@ -49,7 +49,7 @@
     "message.item.tinyredstone.trim_panel_cover": "Trims circuit down to fit components, hides circuitry and prevents rendering and client syncing.\nDoes not allow light to penetrate.",
     "item.tinyredstone.tiny_color_selector": "微型顏色選擇器",
     "item.tinyredstone.tiny_note_block": "微型音階盒",
-    "message.item.tinyredstone.tiny_note_block": "Right click to change pitch. Right click with Redstone Wrench to select instrument.\nNote is played on redstone pulse to Tiny Note Block or neighboring block (quasi-connectivity).\nThe One Probe and WAILA will display the instrument and note.\nCan be pushed by Tiny Pistons.",
+    "message.item.tinyredstone.tiny_note_block": "Right click to change pitch. Right click with Tiny Component Wrench to select instrument.\nNote is played on redstone pulse to Tiny Note Block or neighboring block (quasi-connectivity).\nThe One Probe and WAILA will display the instrument and note.\nCan be pushed by Tiny Pistons.",
     "block.tinyredstone.block_chopper": "Block Chopper",
     "message.block.tinyredstone.block_chopper": "Crafts tiny blocks from most full-sized blocks. No silicon required!",
     "tinyredstone.tooltip.press_shift": "--Press Shift for More Info--",
@@ -85,5 +85,8 @@
     "tinyredstone.noteblock.bit": "碎屑",
     "tinyredstone.noteblock.banjo": "班卓琴",
     "tinyredstone.noteblock.pling": "鑼",
-    "tinyredstone.noteblock.harp": "豎琴"
+    "tinyredstone.noteblock.harp": "豎琴",
+    "block.tinyredstone.tiny_container": "Tiny Component Container",
+    "tinyredstone.gui.repeater.msg2": "Use buttons or scroll to set delay.",
+    "tinyredstone.gui.repeater.msg3": "Shift-scroll to change by seconds."
 }
