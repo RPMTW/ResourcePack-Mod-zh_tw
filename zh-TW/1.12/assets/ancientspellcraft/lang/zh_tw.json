@@ -385,7 +385,7 @@
     "item.ancientspellcraft\\:head_merchant.name": "貿易王的頭冠",
     "item.ancientspellcraft\\:head_minions.desc": "被召喚的怪物都會服從於你",
     "item.ancientspellcraft\\:head_minions.name": "霸主頭環",
-    "item.ancientspellcraft\\:head_riftstone.desc": "傳送門可以永久存在",
+    "item.ancientspellcraft\\:head_riftstone.desc": "Makes your Transportation Portals permanent. Cast the spell on a portal to dispel the portal",
     "item.ancientspellcraft\\:head_riftstone.name": "裂隙之石頭環",
     "item.ancientspellcraft\\:head_shield.desc": "大幅降低巫師守禦效果的衰減率",
     "item.ancientspellcraft\\:head_shield.name": "守禦頭環",
@@ -832,7 +832,7 @@
     "spell.ancientspellcraft\\:time_knot": "時光扭結",
     "spell.ancientspellcraft\\:transference.desc": "將一個自身隨機的有益藥水效果轉移給目標。法術強度增加轉移效果的數量。",
     "spell.ancientspellcraft\\:transference": "效果轉移",
-    "spell.ancientspellcraft\\:transportation_portal.desc": "只有那些對巫術擁有極高造詣的巫師們才能夠掌握傳送法術的要義，並掌握傳送門法術。",
+    "spell.ancientspellcraft\\:transportation_portal.desc": "Only masters of Sorcery can unlock the true power of Transportation Stones and open Transportation Portals. Cast again on a portal to dispel it.",
     "spell.ancientspellcraft\\:transportation_portal.too_close": "目標位置過近",
     "spell.ancientspellcraft\\:transportation_portal": "傳送門",
     "spell.ancientspellcraft\\:unholy_alliance.desc": "利用死靈法術召喚所有種類的元素巫師。",
@@ -1045,7 +1045,7 @@
     "item.ancientspellcraft\\:enchanted_page.name": "Enchanted Page",
     "item.ancientspellcraft\\:head_lightning.desc": "Lightning spells gain extra blast, duration and range if the caster stands in electrified blocks",
     "item.ancientspellcraft\\:head_lightning.name": "Crown of the Tempest",
-    "item.ancientspellcraft\\:knowledge_scroll.desc": "When cast on a wand in your other hand, immediately grants 1/3 of the missing progression XP required for the wand's next tier",
+    "item.ancientspellcraft\\:knowledge_scroll.desc": "When cast on a wand in your left hand, immediately grants 1/3 of the missing progression XP required for the wand's next tier",
     "item.ancientspellcraft\\:knowledge_scroll.name": "Scroll of Knowledge",
     "item.ancientspellcraft\\:amnesia_scroll.desc": "Makes the targeted wizard forget all of his previous trades",
     "item.ancientspellcraft\\:amnesia_scroll.name": "Scroll of Amnesia",
@@ -1350,5 +1350,7 @@
     "tooltip.ancientspellcraft\\:crystal_silver_nugget.more_info": "Used by Battlemages to craft Spell Blades and various other tools",
     "tooltip.ancientspellcraft\\:devoritium.more_info": "Devoritium is a magic-absorbing material, causing Magical Weakness for anyone interacting with it",
     "tooltip.ancientspellcraft\\:sage_lectern.more_info": "This lectern can hold a spell book for easy reading or a Sage Tome to upgrade the tome",
-    "tooltip.ancientspellcraft\\:sealed_stone.more_info": "Magically Sealed Stone is unbreakable. Only its Unseal Glyph can dispel it"
+    "tooltip.ancientspellcraft\\:sealed_stone.more_info": "Magically Sealed Stone is unbreakable. Only its Unseal Glyph can dispel it",
+    "item.ancientspellcraft\\:charm_guardian_blade.desc": "This sword refuses to be unsheathed by anyone, but it comes for your aid when in the greatest trouble",
+    "item.ancientspellcraft\\:charm_guardian_blade.name": "Guardian Blade"
 }
