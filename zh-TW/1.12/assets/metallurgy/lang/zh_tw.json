@@ -1372,7 +1372,7 @@
     "tooltip.metallurgy.effect.celenegil_weapon.tooltip": "On right click, Grants a small damage buff to the weapon damage but when you damage an entity without killing it, it'll go on a short cooldown while it will give the player some short speed and strength buff if they manage to kill the entity",
     "tooltip.metallurgy.effect.ceruclase_weapon.tooltip": "Has a 75<PC> chance to completely freeze an enemy in place on hit for 3 seconds.",
     "tooltip.metallurgy.effect.ceruclase_armor.tooltip": "Mobs are slowed, fatigued and weakened depending on how much armor you wear, both players and entities are extinguished if they were on fire.",
-    "tooltip.metallurgy.effect.ceruclase_tool.tooltip": "Blocks with harvest level of 0 are harvested instantly. (Dirt, sand, Wood)",
+    "tooltip.metallurgy.effect.ceruclase_tool.tooltip": "Blocks will be mined instantly if they can be harvested and if they're harvested with the correct tool type.",
     "tooltip.metallurgy.effect.damascus_steel_armor.tooltip": "A minion will be spawned to aid you in your fights against enemies (minion health will scale with the armor count)",
     "tooltip.metallurgy.effect.damascus_steel_weapon.tooltip": "Mobs drop significantly more experience.",
     "tooltip.metallurgy.effect.damascus_steel_pickaxe.tooltip": "Mining ores sometimes grants a bit of experience depending on the harvest level.",
@@ -1491,5 +1491,14 @@
     "advancement.metallurgy.challenges.strong_opponent": "A Strong Opponent",
     "advancement.metallurgy.challenges.strong_opponent.desc": "Defeat an enemy that is wearing a Metallurgy Armor",
     "advancement.metallurgy.challenges.metal_rainbow": "A Rainbow of Metals",
-    "advancement.metallurgy.challenges.metal_rainbow.desc": "Manage to obtain every Metallurgy Metal"
+    "advancement.metallurgy.challenges.metal_rainbow.desc": "Manage to obtain every Metallurgy Metal",
+    "config.metallurgy.category.ignatius_fuel": "Infused Ignatius Fuel",
+    "tile.metallurgy.vulcanite_tnt.name": "V.T.N.T.",
+    "item.metallurgy.ignatius_fuel.name": "Infused Ignatius",
+    "tooltip.metallurgy.vulcanite_tnt": "§eSpecial TNT very effective for mining blocks and ores.<NL>§c/!\\ WARNING: High Concentration of Vulcanite makes this block unstable - Manage with caution.",
+    "tooltip.metallurgy.ignatius_fuel": "§cActs as an upgraded fuel with 3 times the strength of coal (works best in metallurgy machines: 3x efficiency!)",
+    "message.world_join_message.1": "§6§lWelcome to Metallurgy 4: Reforged",
+    "message.world_join_message.3": "§6For more info, bug reports and suggestions here's the github repository link:",
+    "message.github_repo_url": "https://github.com/Davoleo/Metallurgy-4-Reforged",
+    "message.world_join_message.4": "You can disable this message from the mod configuration"
 }
