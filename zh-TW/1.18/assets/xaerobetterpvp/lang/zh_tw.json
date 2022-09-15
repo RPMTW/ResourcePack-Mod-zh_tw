@@ -621,5 +621,6 @@
     "gui.xaero_box_enlarged_minimap_a_toggle": "Treat the \"Enlarge Minimap\" key binding as a toggle instead of having to hold it.",
     "gui.xaero_waypoint_visibility_type_world_map_local": "World Map Loc.",
     "gui.xaero_waypoint_visibility_type_world_map_global": "World Map Glo.",
-    "gui.xaero_box_visibility_type": "遊戲內/小地圖可見性類型\n \n 本機 - 僅在最大定位點繪製距離內可見\n 全域 - 永遠可見 \n 世界地圖本機 - 不可見，但被視為本機\n 世界地圖全域 - 不可見，但被視為全域"
+    "gui.xaero_box_visibility_type": "遊戲內/小地圖可見性類型\n \n 本機 - 僅在最大定位點繪製距離內可見\n 全域 - 永遠可見 \n 世界地圖本機 - 不可見，但被視為本機\n 世界地圖全域 - 不可見，但被視為全域",
+    "gui.xaero_option_requires_ingame": "This option requires you to be in game."
 }
