@@ -170,5 +170,13 @@
     "gui.xaero_wm_box_pac_claims": "Display chunk claims from the Open Parties and Claims mod as a colored overlay.",
     "gui.xaero_wm_pac_claims_opacity": "Chunk Claims Opacity",
     "gui.xaero_wm_box_pac_claims_opacity": "The opacity of the chunk claims overlay. Chunk claims require the Open Parties and Claims mod.",
-    "gui.xaero_map_menu_please_wait": "Please wait..."
+    "gui.xaero_map_menu_please_wait": "Please wait...",
+    "gui.xaero_wm_teleport_command": "Map Teleport Command",
+    "gui.xaero_wm_teleport_command_waypoints": "Waypoint Command",
+    "gui.xaero_wm_teleport_command_waypoints_hint": "Waypoint teleportation is configured by the minimap.",
+    "gui.xaero_wm_teleport_allowed": "Map Teleportation",
+    "gui.xaero_wm_teleport_allowed_tooltip": "Whether right-click map teleportation is allowed. Once disabled, it can be enabled back only through the world-specific config file in the XaeroWorldMap folder. Waypoint teleportation is configured separately in the full waypoint menu options.",
+    "gui.xaero_wm_right_click_map_teleport_not_allowed": "§8(Teleport) Disabled",
+    "gui.xaero_wm_option_requires_minimap": "This option requires the Xaero's Minimap mod.",
+    "gui.xaero_wm_option_requires_ingame": "This option requires you to be in game."
 }

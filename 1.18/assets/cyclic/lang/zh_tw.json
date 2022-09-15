@@ -1749,5 +1749,17 @@
     "effect.cyclic.hunger": "Hunger",
     "effect.cyclic.resistance": "Resistance",
     "effect.cyclic.wither": "Wither",
-    "effect.cyclic.levitation": "Levitation"
+    "effect.cyclic.levitation": "Levitation",
+    "effect.cyclic.butter.description": "Chance to drop items while moving or attacking",
+    "effect.cyclic.waterwalk.description": "Prevents you from sinking down through the waters surface",
+    "effect.cyclic.magnetic.description": "Pull items and XP towards you with range of 8 blocks per level",
+    "effect.cyclic.snowwalk.description": "Leave a tralk of snow when you walk",
+    "effect.cyclic.swimspeed.description": "Double your current swim speed",
+    "effect.cyclic.flight": "Flight",
+    "effect.cyclic.flight.description": "Players can fly using this effect",
+    "effect.cyclic.antigravity.description": "You partially resist the force of gravity.  Low levels feel like the moon, higher levels get dangerous",
+    "effect.cyclic.gravity.description": "Increases the force of gravity you feel",
+    "effect.cyclic.attack_range.description": "Increases your melee attack range by factor of two",
+    "effect.cyclic.reach_distance.description": "Increase block placement and mining reach by factor of two",
+    "effect.cyclic.stun.description": "Stun the entity so it cannot move for a time"
 }
