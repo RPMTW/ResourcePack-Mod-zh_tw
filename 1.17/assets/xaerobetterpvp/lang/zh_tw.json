@@ -621,5 +621,6 @@
     "gui.xaero_box_enlarged_minimap_a_toggle": "Treat the \"Enlarge Minimap\" key binding as a toggle instead of having to hold it.",
     "gui.xaero_waypoint_visibility_type_world_map_local": "World Map Loc.",
     "gui.xaero_waypoint_visibility_type_world_map_global": "World Map Glo.",
-    "gui.xaero_box_visibility_type": "In-Game/Minimap Visibility Type \n \n Local - only visible when in the maximum waypoint render distance \n Global - always visible \n World Map Loc. - not visible but is considered local \n World Map Glo. - not visible but is considered global"
+    "gui.xaero_box_visibility_type": "In-Game/Minimap Visibility Type \n \n Local - only visible when in the maximum waypoint render distance \n Global - always visible \n World Map Loc. - not visible but is considered local \n World Map Glo. - not visible but is considered global",
+    "gui.xaero_option_requires_ingame": "This option requires you to be in game."
 }
