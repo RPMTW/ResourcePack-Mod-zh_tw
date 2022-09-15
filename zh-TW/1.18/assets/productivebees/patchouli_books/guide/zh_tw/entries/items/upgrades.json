@@ -81,7 +81,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "當安裝在蜂箱中時，每次訪問都會提取一小部分授粉蜜蜂。根本不應該傷害牠們。"
+            "text": "When installed in a hive, a small sample of pollinating bees will be extracted with each visit. It shouldn't bee hurting them at all. Multiple can be installed in the same hive for improved rate."
         },
         {
             "type": "patchouli:crafting",
@@ -92,6 +92,45 @@
         {
             "type": "patchouli:text",
             "text": "When installed in a hive, Lumber and Quarry bees will produce full blocks instead of chips."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "productivebees:upgrades/simulator",
+            "text": "Usable in: $(l:hives/advanced_hives#expanded)Expanded Hives$(/l).",
+            "anchor": "simulator"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "When installed in a hive, bees will no longer come out of the hive, their flower trip will instead be simulated for better server performance. The bees flower block or feeding slab with flower blocks must be placed at the foot of the hive, not blocking the front, but right below that."
+        },
+        {
+            "type": "multiblock",
+            "name": "Simulated Hive",
+            "multiblock": {
+                "mapping": {
+                    "H": "productivebees:advanced_oak_beehive[expanded=up]",
+                    "E": "productivebees:expansion_box_oak[expanded=up]",
+                    "F": "productivebees:feeder[type=top]"
+                },
+                "pattern": [
+                    [
+                        " E"
+                    ],
+                    [
+                        " H"
+                    ],
+                    [
+                        "F0"
+                    ]
+                ],
+                "symmetrical": true,
+                "offset": [
+                    0,
+                    1,
+                    0
+                ]
+            },
+            "enable_visualize": false
         }
     ]
 }
