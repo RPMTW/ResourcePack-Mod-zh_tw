@@ -25,7 +25,7 @@
     "betterfoliage.distance.tooltip": "玩家周圍渲染效果的範圍",
     "betterfoliage.saturationThreshold": "飽和度閾值",
     "betterfoliage.saturationThreshold.tooltip": "隔離 「無色」 方塊 (使用生態域顏色) 和 「彩色 方塊 (使用他們自己的特定的顏色) 之間的色彩飽和度",
-    "betterfoliage.rendererror": "§a[BetterFoliage]§f 在渲染方塊 %s（坐標：%s）時出錯",
+    "betterfoliage.rendererror": "§a[BetterFoliage]§f 在渲染方塊 %s （坐標：%s）時出錯",
     "betterfoliage.shaders": "著色器配置",
     "betterfoliage.shaders.tooltip": "配置集成於光影中",
     "betterfoliage.shaders.leavesId": "樹葉的ID",
