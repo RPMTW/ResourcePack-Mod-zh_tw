@@ -7,8 +7,8 @@
     {
       "type": "spotlight",
       "title": "強大的弱自動機核心",
-      "item": "advancedperipherals:overpowered_weak_automata_core",
-      "text": "這是你第一次嘗試繞過形而上學的規則。好吧，沒有你希望的那麼成功。$(p)任何自動機核心和下界之星的天真組合都會導致一些結果......"
+      "item": "高級外設：overpowered_weak_automata_core",
+      "text": "這是你第一次嘗試繞過形而上學的規則。 好吧，沒有你希望的那麼成功。$(p)任何自動機核心和下界之星的天真組合都會導致一些結果......"
     },
     {
       "type": "crafting",
@@ -17,7 +17,7 @@
     },
     {
       "type": "link",
-      "text": "強力版本的自動機核心在使用時不會消耗物品的耐久度。$(p)但一切都是有代價的。如果您嘗試在沒有足夠燃料的情況下使用此核心執行任何操作 - 升級將立即中斷。",
+      "text": "強力版本的自動機核心在使用時不會消耗物品的耐久度。$(p)但一切都是有代價的。 如果您嘗試在沒有足夠燃料的情況下使用此核心執行任何操作 - 升級將立即中斷。",
       "url": "https://docs.srendi.de/items/overpowered_automata/",
       "link_text": "API 文檔"
     }
