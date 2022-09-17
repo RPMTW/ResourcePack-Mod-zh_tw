@@ -100,5 +100,7 @@
     "jecalculation.label.item_stack.fuzzy_meta": "忽略Metadata",
     "jecalculation.label.item_stack.fuzzy_nbt": "忽略NBT",
     "jecalculation.label.item_stack.fuzzy_cap": "忽略Capabilities",
-    "jecalculation.label.common.amount": "數量: %s"
+    "jecalculation.label.common.amount": "數量: %s",
+    "jecalculation.gui.craft.widget_enabled": "Calculator widget enabled",
+    "jecalculation.gui.craft.widget_disabled": "Calculator widget disabled"
 }
