@@ -6,7 +6,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "在玩家的飾品欄位添加$(thing)束靈裝備插槽$()，可以容納相容的$(6)血魔法$()物品。$(br2)此升級無法訓練，只能製作。預設情況下，每個$(l:bloodmagic:alchemy_array/living_equipment/living_tomes)強化手冊$()都會增加一個額外的插槽。"
+      "text": "在玩家的飾品欄位添加$(thing)束靈裝備插槽$()，可以容納兼容的$(6)血魔法$()物品。 $(br2)此升級無法訓練，只能製作。 默認情況下，每個$(l:bloodmagic:alchemy_array/living_equipment/living_tomes)強化手冊$()都會增加一個額外的插槽。"
     },
     {
       "type": "bloodmagic:crafting_upgrade_alchemy_table",
