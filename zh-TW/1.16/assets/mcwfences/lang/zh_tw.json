@@ -85,5 +85,7 @@
     "block.mcwfences.deepslate_brick_railing_gate": "Deepslate Brick Railing Gate",
     "block.mcwfences.modern_quartz_wall": "現代石英牆",
     "block.mcwfences.railing_quartz_wall": "石英欄杆牆",
-    "block.mcwfences.quartz_railing_gate": "石英欄杆柵欄門"
+    "block.mcwfences.quartz_railing_gate": "石英欄杆柵欄門",
+    "death.attack.wired_fence": "%1$s was trying to cross a wired fence",
+    "death.attack.wired_fence.player": "%1$s was trying to cross a wired fence whilst trying to escape %2$s"
 }
