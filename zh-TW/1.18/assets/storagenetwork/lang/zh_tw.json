@@ -22,7 +22,7 @@
     "storagenetwork.guide.upgrades.desc": "Upgrades are used in slots of the $(l:export_kabel)Export Cable$(/l) and $(l:import_filter_kabel)Filtered Import cable$(/l)",
     "storagenetwork.guide.remotes": "遙控器",
     "storagenetwork.guide.remotes.desc": "Use your new remote on the $(l:master)Root$(/l) to set up its network binding.  Each Remote is bound to a root nodes exact (x,y,z,d) position, and can access the network inventory as long as the root not is unbroken and in a loaded chunk.  They are wireless with an unbound range.  ",
-    "storagenetwork.guide.blocks": "方塊",
+    "storagenetwork.guide.blocks": "Blocks",
     "storagenetwork.guide.blocks.desc": "每種網路方塊通常會與任一種電纜或相鄰網路方塊相接，它們都能夠為網路帶來許多不同的功能。",
     "storagenetwork.guide.cables": "電纜",
     "storagenetwork.guide.cables.desc": "Cables join blocks and nodes to the network.  A valid network needs at exactly one $(l:master)Root$(/l) node.  Then you will need at least one inventory with a $(l:storage_kabel)Link$(/l) cable",
