@@ -1,5 +1,5 @@
 {
-    "tombstone.lang.version": "2.7.0",
+    "tombstone.lang.version": "2.7.1",
     "tombstone.grave.grave_simple": "Simple Grave",
     "tombstone.grave.grave_normal": "Normal Grave",
     "tombstone.grave.grave_cross": "Cross Grave",
@@ -1057,5 +1057,15 @@
     "tombstone.perk.shadow_walker.bonus1": "discretion",
     "tombstone.perk.shadow_walker.bonus2": "Peaceful Sleep",
     "stat.tombstone.prayer_of_empathy": "Prayer of Empathy",
-    "stat.tombstone.prayer_of_undead": "Prayer of Undead"
+    "stat.tombstone.prayer_of_undead": "Prayer of Undead",
+    "tombstone.message.area_buff": "All your nearby allies will benefit from the magic effect",
+    "tombstone.message.useable_on_ally": "Can be used on an ally",
+    "tombstone.perk.necromancer": "Necromancer",
+    "tombstone.perk.necromancer.desc": "improves Zombify and Pray of Undead",
+    "tombstone.perk.necromancer.bonus": "chance that controlled undead will become spellcasters",
+    "tombstone.advancement.ancient_knowledge.title": "Ancient Knowledge",
+    "tombstone.advancement.ancient_knowledge.desc": "You used the magic of a blue soul",
+    "tombstone.config.distance_between_grave_guardian.tooltip": "Minimum distance between Grave Gardians to spawn",
+    "tombstone.config.restock_time_grave_guardian.tooltip": "Time in minutes for a Grave Guardian to restock its offers",
+    "stat.tombstone.create_ancient_item": "Ancient Items Created"
 }

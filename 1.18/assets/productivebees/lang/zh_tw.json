@@ -807,5 +807,6 @@
     "productivebees.information.upgrade.upgrade_simulator": "Bees will no longer physically exit the hive. A trip to its flower block will instead be simulated.\nMake sure to put the required flower block or a feeding slab in front of the hive containing the required flower blocks for the bee in the hive.",
     "productivebees.ingredient.description.redstone_bee": "Escape artist.",
     "productivebees.ingredient.description.wasted_radioactive_bee": "Radioactive bees dying to radiation has a chance to turn into wasted radioactive bees. Wasted radioactive bees don't pollinate on any flower, instead they absorb radiation from their surroundings.",
-    "productivebees.ingredient.description.soul_transformation": "%s\n\nAlternatively there's a soul transformation recipe. Check the uses of the Suol Pedestal to see it."
+    "productivebees.ingredient.description.soul_transformation": "%s\n\nAlternatively there's a soul transformation recipe. Check the uses of the Suol Pedestal to see it.",
+    "entity.productivebees.amethyst_bronze_bee": "Amethyst Bronze Bee"
 }
