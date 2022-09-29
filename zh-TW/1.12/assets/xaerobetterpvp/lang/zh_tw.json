@@ -560,7 +560,7 @@
     "gui.xaero_start_fading_at_auto": "自動",
     "gui.xaero_legacy_color": "傳統",
     "gui.xaero_partial_y_teleportation": "傳送時使用 Y 和部分",
-    "gui.xaero_box_partial_y_teleportation": "傳送到定位點或地圖位置時，將 Y 座標偏移 0.5，以避免穿過地毯狀的方塊落入虛空。否則，將使用整數 Y 座標。",
+    "gui.xaero_box_partial_y_teleportation": "When teleporting to a waypoint, offset the Y coordinate by 0.5 to avoid falling through carpet-like blocks into the void. Otherwise, the integer Y coordinate is used.",
     "gui.xaero_delete_reached_deathpoints": "刪除到達的死亡點",
     "gui.xaero_box_delete_reached_deathpoints": "當您距離死亡點不到 4 個方塊時，自動刪除死亡點。這要求死亡點在遊戲中或小地圖上可見。死亡點在建立後 5 秒內受到保護，不會被刪除。",
     "gui.xaero_hide_minimap_under_screen": "在畫面下隱藏",
@@ -622,5 +622,6 @@
     "gui.xaero_waypoint_visibility_type_world_map_local": "World Map Loc.",
     "gui.xaero_waypoint_visibility_type_world_map_global": "World Map Glo.",
     "gui.xaero_box_visibility_type": "In-Game/Minimap Visibility Type \\n \\n Local - only visible when in the maximum waypoint render distance \\n Global - always visible \\n World Map Loc. - not visible but is considered local \\n World Map Glo. - not visible but is considered global",
-    "gui.xaero_option_requires_ingame": "This option requires you to be in game."
+    "gui.xaero_option_requires_ingame": "This option requires you to be in game.",
+    "gui.xaero_alternative_list_players": "\"List Players\" Alternative"
 }
