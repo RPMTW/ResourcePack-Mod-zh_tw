@@ -561,7 +561,7 @@
     "gui.xaero_start_fading_at_auto": "Auto",
     "gui.xaero_legacy_color": "Legacy",
     "gui.xaero_partial_y_teleportation": "Use Y With Partial When TP",
-    "gui.xaero_box_partial_y_teleportation": "When teleporting to a waypoint or a map location, offset the Y coordinate by 0.5 to avoid falling through carpet-like blocks into the void. Otherwise, the integer Y coordinate is used.",
+    "gui.xaero_box_partial_y_teleportation": "When teleporting to a waypoint, offset the Y coordinate by 0.5 to avoid falling through carpet-like blocks into the void. Otherwise, the integer Y coordinate is used.",
     "gui.xaero_delete_reached_deathpoints": "Delete Reached Deathpoints",
     "gui.xaero_box_delete_reached_deathpoints": "Automatically delete deathpoints when you are within 4 blocks from them. This requires the deathpoint to be visible in-game or on the minimap. A deathpoint is protected from deletion for 5 seconds after its creation.",
     "gui.xaero_hide_minimap_under_screen": "Hide When Under Screen",
@@ -623,5 +623,6 @@
     "gui.xaero_waypoint_visibility_type_world_map_local": "World Map Loc.",
     "gui.xaero_waypoint_visibility_type_world_map_global": "World Map Glo.",
     "gui.xaero_box_visibility_type": "In-Game/Minimap Visibility Type \n \n Local - only visible when in the maximum waypoint render distance \n Global - always visible \n World Map Loc. - not visible but is considered local \n World Map Glo. - not visible but is considered global",
-    "gui.xaero_option_requires_ingame": "This option requires you to be in game."
+    "gui.xaero_option_requires_ingame": "This option requires you to be in game.",
+    "gui.xaero_alternative_list_players": "\"List Players\" Alternative"
 }
