@@ -145,5 +145,15 @@
     "gui.xaero_wm_teleport_allowed_tooltip": "Whether right-click map teleportation is allowed. Once disabled, it can be enabled back only through the world-specific config file in the XaeroWorldMap folder. Waypoint teleportation is configured separately in the full waypoint menu options.",
     "gui.xaero_wm_right_click_map_teleport_not_allowed": "§8(Teleport) Disabled",
     "gui.xaero_wm_option_requires_minimap": "This option requires the Xaero's Minimap mod.",
-    "gui.xaero_wm_option_requires_ingame": "This option requires you to be in game."
+    "gui.xaero_wm_option_requires_ingame": "This option requires you to be in game.",
+    "gui.xaero_world_map_settings": "Xaero的世界地圖設定",
+    "gui.xaero_wm_settings_search": "Settings Search",
+    "gui.xaero_wm_settings_search_placeholder": "Search...",
+    "gui.xaero_wm_settings_not_found": "No matching entries found for your input!",
+    "gui.xaero_wm_minimap_settings": "Minimap Settings",
+    "gui.xaero_wm_reset_defaults": "Restore Default Settings",
+    "gui.xaero_wm_reset_message": "Are you sure you would like to restore the default settings?",
+    "gui.xaero_wm_reset_message2": "This action cannot be undone!",
+    "gui.xaero_wm_partial_y_teleportation": "Use Y With Partial When TP",
+    "gui.xaero_wm_box_partial_y_teleportation": "When teleporting to a map location, offset the Y coordinate by 0.5 to avoid falling through carpet-like blocks into the void. Otherwise, the integer Y coordinate is used."
 }
