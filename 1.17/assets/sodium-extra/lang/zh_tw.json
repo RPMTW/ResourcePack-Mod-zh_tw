@@ -32,8 +32,8 @@
     "sodium-extra.option.extras": "Extras",
     "sodium-extra.option.fireworks": "Fireworks",
     "sodium-extra.option.fireworks.tooltip": "If enabled, fireworks particles are processed.",
-    "sodium-extra.option.fog": "Fog",
-    "sodium-extra.option.fog.tooltip": "Adjusts the fog effect distance on the terrain. \n0 - use vanilla fog settings\n1-32 - set fog distance in chunks\n33 - max fog distance (essentially disables fog)",
+    "sodium-extra.option.fog": "%s Fog",
+    "sodium-extra.option.fog.tooltip": "Adjusts the fog effect distance on the terrain per dimension. Disable Multi Dimension Fog to control fog using Single Fog \n0 - use vanilla fog settings\n1-32 - set fog distance in chunks\n33 - max fog distance (essentially disables fog)",
     "sodium-extra.option.instant_sneak": "Instant Sneak",
     "sodium-extra.option.instant_sneak.tooltip": "If enabled, the camera will not lerp upon sneaking.",
     "sodium-extra.option.item_frames": "Item Frames",
@@ -218,5 +218,14 @@
     "sodium-extra.option.item_frame_name_tag": "Item Frame Name Tag",
     "sodium-extra.option.item_frame_name_tag.tooltip": "If enabled, item frame name tags are rendered.",
     "sodium-extra.option.player_name_tag": "Player Name Tag",
-    "sodium-extra.option.player_name_tag.tooltip": "If enabled, player name tags are rendered."
+    "sodium-extra.option.player_name_tag.tooltip": "If enabled, player name tags are rendered.",
+    "options.dimensions.minecraft.overworld": "Overworld",
+    "options.dimensions.minecraft.the_end": "End",
+    "options.dimensions.minecraft.the_nether": "Nether",
+    "sodium-extra.option.linear_flat_color_blender": "Use Linear Flat Color Blender",
+    "sodium-extra.option.linear_flat_color_blender.tooltip": "Applies linear color biome blend without linear color blended block faces.",
+    "sodium-extra.option.multi_dimension_fog": "Multi Dimension Fog",
+    "sodium-extra.option.multi_dimension_fog.tooltip": "If enabled, per dimension fog sliders will be processed. If disabled, single fog slider will be processed. Upon changing this option user will need to leave menu and reenter to see fog sliders.",
+    "sodium-extra.option.single_fog": "Single Fog",
+    "sodium-extra.option.single_fog.tooltip": "Adjusts the fog effect distance on the terrain for all dimensions. Enable Multi Dimension Fog to control fog per dimension. \n0 - use vanilla fog settings\n1-32 - set fog distance in chunks\n33 - max fog distance (essentially disables fog)"
 }
