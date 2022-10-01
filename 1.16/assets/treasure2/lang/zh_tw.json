@@ -591,5 +591,15 @@
     "display.charming_table.cost": "Cost: %s",
     "chat.key_break": "Your key broke whilst attempting to unlock the lock!",
     "chat.key_not_fit": "Your key doesn't fit the lock!",
-    "chat.key_unable_unlock": "Your key failed to unlock the lock!"
+    "chat.key_unable_unlock": "Your key failed to unlock the lock!",
+    "tooltip.charm.type.fire_resistance": "Fire Resistance",
+    "tooltip.charm.type.poison_immunity": "Poison Immunity",
+    "tooltip.charm.type.poison_resistance": "Poison Resistance",
+    "tooltip.charm.type.wither_immunity": "Wither Immunity",
+    "tooltip.charm.type.wither_resistance": "Wither Resistance",
+    "tooltip.charm.rate.fire_resistance": "absorbs %s%% of fire damage",
+    "tooltip.charm.rate.poison_resistance": "absorbs %s%% of poison damage",
+    "tooltip.charm.rate.poison_immunity": "absorbs all poison damage",
+    "tooltip.charm.rate.wither_resistance": "absorbs %s%% of wither damage",
+    "tooltip.charm.rate.wither_immunity": "absorbs all wither damage"
 }
