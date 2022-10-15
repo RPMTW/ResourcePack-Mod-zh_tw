@@ -46,9 +46,9 @@
     "block.corail_woodcutter.mangrove_woodcutter": "紅樹林木鋸木機",
     "block.corail_woodcutter.dark_woodcutter": "黑木鋸木機",
     "block.corail_woodcutter.time_woodcutter": "時光木鋸木機",
-    "block.corail_woodcutter.trans_woodcutter": "Transwood Sawmill",
-    "block.corail_woodcutter.mine_woodcutter": "Minewood Sawmill",
-    "block.corail_woodcutter.sort_woodcutter": "Sortwood Sawmill",
+    "block.corail_woodcutter.trans_woodcutter": "變換木鋸木機",
+    "block.corail_woodcutter.mine_woodcutter": "礦物木鋸木機",
+    "block.corail_woodcutter.sort_woodcutter": "分類木鋸木機",
     "block.corail_woodcutter.tropicraft_palm_woodcutter": "棕櫚木鋸木機",
     "block.corail_woodcutter.tropicraft_mahogany_woodcutter": "桃花心木鋸木機",
     "container.corail_woodcutter.woodcutter": "鋸木機",
@@ -73,7 +73,7 @@
     "corail_woodcutter.message.datapack.remove.success": "The datapack was removed",
     "corail_woodcutter.message.datapack.remove.absent": "The datapack was absent",
     "corail_woodcutter.message.datapack.remove.fail": "The datapack wasn't not removed: %s",
-    "block.corail_woodcutter.transformation_woodcutter": "Transwood Sawmill",
-    "block.corail_woodcutter.mining_woodcutter": "Minewood Sawmill",
-    "block.corail_woodcutter.sorting_woodcutter": "Sortwood Sawmill"
+    "block.corail_woodcutter.transformation_woodcutter": "變換木鋸木機",
+    "block.corail_woodcutter.mining_woodcutter": "礦物木鋸木機",
+    "block.corail_woodcutter.sorting_woodcutter": "分類木鋸木機"
 }
