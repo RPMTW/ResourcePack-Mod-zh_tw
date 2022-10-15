@@ -146,7 +146,7 @@
     "tetra.stats.tier_suffix": "階",
     "tetra.stats.level_suffix": "等級",
     "tetra.stats.reach": "Reach",
-    "tetra.stats.reach.tooltip": "可以觸及最遠 §e%s§r 格的方塊和實體",
+    "tetra.stats.reach.tooltip": "Changes how far away the wielder can reach blocks by §e%s§r blocks, does not affect the distance at which entities can be hit",
     "tetra.stats.reach.tooltip_blocks": "此物品最多可以格擋 §e%s§r 格距離，它不影響實體能被擊中的距離",
     "tetra.stats.reach_normalized": "Reach",
     "tetra.stats.reach_normalized.tooltip": "增加這個物品 §e%s§r 個方塊的觸及範圍",
@@ -518,8 +518,8 @@
     "tetra.material.diorite.prefix": "閃長岩",
     "tetra.material.vent_plate": "再利用板材",
     "tetra.material.vent_plate.prefix": "再利用板材",
-    "tetra.material.gold": "Gold",
-    "tetra.material.gold.prefix": "Gold",
+    "tetra.material.gold": "金",
+    "tetra.material.gold.prefix": "金",
     "tetra.material.string": "絲線",
     "tetra.material.string.prefix": "絲線",
     "tetra.material.turtle_scute": "鱗甲",
@@ -1077,7 +1077,7 @@
     "tetra.module.sword/forefinger_ring.description": "在劍柄上附加圓環，能夠有效提升控制力。在攻擊太快時提升最小傷害。",
     "tetra.module.sword/forefinger_ring.material_name": "%s圓環",
     "tetra/schematic/sword/grip_loop.name": "握環",
-    "tetra/schematic/sword/grip_loop.description": "為劍柄加入握環，增加劍的攻擊範圍。提升 2 格的橫掃之刃攻擊範圍。",
+    "tetra/schematic/sword/grip_loop.description": "Attach a loop at the end of the hilt. The loop increases the area for sweeping attacks and slightly increases attack range.",
     "tetra/schematic/sword/grip_loop.slot1": "Material",
     "tetra.module.sword/grip_loop.name": "握環",
     "tetra.module.sword/grip_loop.description": "為劍柄加入握環，增加劍的攻擊範圍。提升 2 格的橫掃之刃攻擊範圍。",
@@ -2224,5 +2224,8 @@
     "item.tetra.scroll.warforge/adze.prefix": "Tools of War, Chapter 8",
     "item.tetra.scroll.warforge/adze.name": "Battleadzes",
     "item.tetra.scroll.warforge/adze.description": "Contains various plans on how to make adzes more effective in combat, allows adzes to be improved in a workbench",
-    "item.tetra.scroll.warforge/adze.description_extended": "§7[§8shift + rmb§7]§8 read more"
+    "item.tetra.scroll.warforge/adze.description_extended": "§7[§8shift + rmb§7]§8 read more",
+    "tetra.stats.attack_range": "Atk. range",
+    "tetra.stats.attack_range.tooltip": "Changes how far away the wielder can hit entities by §e%s§r blocks",
+    "tetra.stats.sweeping.efficiency.tooltip": "Increases sweep radius by §e%s§r blocks"
 }
