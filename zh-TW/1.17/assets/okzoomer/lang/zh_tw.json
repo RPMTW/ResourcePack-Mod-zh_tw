@@ -76,7 +76,7 @@
     "key.okzoomer.zoom": "放大",
     "config.okzoomer.zoom_overlay.off": "關閉",
     "config.okzoomer.zoom_overlay.vignette": "暈影",
-    "config.okzoomer.zoom_overlay.spyglass": "Spyglass",
+    "config.okzoomer.zoom_overlay.spyglass": "望遠鏡",
     "config.okzoomer.use_spyglass_texture": "使用望眼鏡材質",
     "config.okzoomer.use_spyglass_texture.tooltip": "如果啟用，將使用望眼鏡疊層材質，而不是 Ok Zoomer 的疊層材質。",
     "config.okzoomer.use_spyglass_sounds": "使用望眼鏡的音效",
@@ -86,7 +86,7 @@
     "config.okzoomer.widget.bounded_double.below_range": "該值低於允許範圍！最小值是 %s！",
     "config.okzoomer.widget.bounded_double.above_range": "該值超出允許範圍！最大值是 %s！",
     "config.okzoomer.widget.bounded_double.above_zero": "零以上",
-    "config.okzoomer.preset.spyglass": "Spyglass",
+    "config.okzoomer.preset.spyglass": "望遠鏡",
     "config.okzoomer.discard_changes": "放棄變更",
     "toast.okzoomer.unbind_conflicting_key.success": "未綁定衝突按鍵",
     "toast.okzoomer.unbind_conflicting_key.no_conflict": "未找到衝突的按鍵"
