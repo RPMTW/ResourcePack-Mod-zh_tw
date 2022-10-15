@@ -611,7 +611,7 @@
     "twilightforest.config.fallen_small_log_weight": "倒下的小型原木比重",
     "twilightforest.config.druid_hut_weight": "德魯伊小屋比重",
     "twilightforest.config.hollow_hill_stalactites": "Custom Hollow Hill Stalactites",
-    "twilightforest.config.hollow_hill_stalactites.tooltip": "Defines custom stalactites generated in hollow hills.\\nFormat is \\\"modid:block<:meta> size maxLength minHeight weight\\\", where the properties are:\\nSize - the maximum length of the stalactite relative to the space between hill floor and ceiling,\\nMax length - maximum length of a stalactite in blocks,\\nMin height - minimum space between the hill floor and the stalactite to let it generate,\\nWeight - how often it generates.\\n\\nFor example: \\\"minecraft:iron_ore 0.7 8 1 24\\\" would add a stalactite equal to the default iron ore stalactite.",
+    "twilightforest.config.hollow_hill_stalactites.tooltip": "定義在空心山丘中生成的自定義鐘乳石。\\n格式為\\\"modid:block<:meta> size maxLength minHeight weight\\\"，其中屬性為：\\nSize - 鐘乳石相對於山底和天花板之間的空間的最大長度 ,\\nMax length - 鐘乳石的最大長度（以塊為單位），\\nMin height - 山底和鍾乳石之間的最小空間，\\nWeight - 生成的頻率。\\n\\n例如：\\\"minecraft:iron_ore 0.7 8 1 24\\\" 將添加一個等於默認鐵礦石鐘乳石的鐘乳石。",
     "twilightforest.config.large_hill": "Large Hills",
     "twilightforest.config.large_hill.tooltip": "Blocks generating as stalactites in large hills only.",
     "twilightforest.config.medium_hill": "Medium and Large Hills",
