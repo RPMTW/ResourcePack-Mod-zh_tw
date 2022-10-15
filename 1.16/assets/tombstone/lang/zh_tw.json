@@ -1079,5 +1079,11 @@
     "tombstone.compendium.intro": "The Compendium is a collection of information about Tombstone to help new players.\nEach information is linked to several others in the right hand menu for a consistent reading.",
     "tombstone.compendium.dust_of_frost.desc": "The Dust Of Frost allows an easy retreat by creating a wall of snow powder, and teleports you a few steps behind your old position.",
     "stat.tombstone.create_ancient_item": "Ancient Items Created",
-    "config.jade.plugin_tombstone.graves": "Plugin Corail Tombstone"
+    "config.jade.plugin_tombstone.graves": "Plugin Corail Tombstone",
+    "tombstone.item.familiar_stone": "Familiar Stone",
+    "tombstone.item.familiar_stone.desc": "Theses rare magic stones allow to bring back to life your last dead familiar",
+    "tombstone.item.familiar_stone.use": "Hold right click to revive your familiar",
+    "tombstone.item.enchanted_scroll_of": "Enchanted Scroll of %s",
+    "tombstone.item.ancient_scroll_of": "Ancient Scroll of %s",
+    "tombstone.message.no_familiar_to_revive": "None of your familiars can be revived"
 }

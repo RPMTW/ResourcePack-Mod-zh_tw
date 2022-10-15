@@ -1238,5 +1238,6 @@
     "command.vampirism.base.minion_inventory.item_removed": "%s %s were removed from the %s inventory into your inventory",
     "command.vampirism.base.minion_inventory.item_not_found": "Item was not found in the inventory",
     "command.vampirism.base.minion_inventory.content": "Inventory of %s:",
-    "command.vampirism.base.minion_inventory.empty": "Inventory of %s is empty"
+    "command.vampirism.base.minion_inventory.empty": "Inventory of %s is empty",
+    "text.vampirism.oils.cannot_use": "You can not handle oiled items"
 }
