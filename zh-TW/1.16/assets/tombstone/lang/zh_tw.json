@@ -1079,5 +1079,11 @@
     "tombstone.compendium.intro": "概要收集了關於本模組的一些訊息，以便幫助新玩家更快上手本模組。\n為了方便閱讀，你可以從右側的幾個選項去了解到每個訊息。",
     "tombstone.compendium.dust_of_frost.desc": "霜之塵通過製造一堵雪粉牆，讓你輕鬆撤退，並將你傳送到你原來位置的後面幾步。",
     "stat.tombstone.create_ancient_item": "Ancient Items Created",
-    "config.jade.plugin_tombstone.graves": "插件 Corail 墓碑"
+    "config.jade.plugin_tombstone.graves": "插件 Corail 墓碑",
+    "tombstone.item.familiar_stone": "Familiar Stone",
+    "tombstone.item.familiar_stone.desc": "Theses rare magic stones allow to bring back to life your last dead familiar",
+    "tombstone.item.familiar_stone.use": "Hold right click to revive your familiar",
+    "tombstone.item.enchanted_scroll_of": "Enchanted Scroll of %s",
+    "tombstone.item.ancient_scroll_of": "Ancient Scroll of %s",
+    "tombstone.message.no_familiar_to_revive": "None of your familiars can be revived"
 }
