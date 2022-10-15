@@ -94,5 +94,9 @@
     "crafttweaker.script.load.end.noerror": "Loading completed without errors",
     "crafttweaker.command.description.recipes.inventory": "Outputs information on all Recipes for the items in the player's inventory",
     "crafttweaker.command.description.dump.biomes": "Outputs the names of all registered biomes",
-    "crafttweaker.command.misc.biomes": "Biomes"
+    "crafttweaker.command.misc.biomes": "Biomes",
+    "crafttweaker.command.description.dump.fake_players": "Outputs information on all Fake Players",
+    "crafttweaker.command.description.dump.tool_tiers": "Outputs information on all Tool Tiers",
+    "crafttweaker.command.misc.fake_players": "Fake Players",
+    "crafttweaker.command.misc.tool_tiers": "Tool Tiers"
 }
