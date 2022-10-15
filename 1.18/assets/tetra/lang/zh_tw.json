@@ -146,7 +146,7 @@
     "tetra.stats.tier_suffix": "tier",
     "tetra.stats.level_suffix": "level",
     "tetra.stats.reach": "Reach",
-    "tetra.stats.reach.tooltip": "This item can reach blocks up to §e%s§r blocks away, and entities up to §e%s§r blocks away",
+    "tetra.stats.reach.tooltip": "Changes how far away the wielder can reach blocks by §e%s§r blocks, does not affect the distance at which entities can be hit",
     "tetra.stats.reach.tooltip_blocks": "This item can reach blocks up to §e%s§r blocks away, does not affect the distance at which entities can be hit",
     "tetra.stats.reach_normalized": "Reach",
     "tetra.stats.reach_normalized.tooltip": "Changes how far this item can reach by §e%s§r blocks",
@@ -1077,7 +1077,7 @@
     "tetra.module.sword/forefinger_ring.description": "A ring has been attached at the top of the hilt. The ring allows for a better grip, increasing the minimum damage dealt when swinging too fast.",
     "tetra.module.sword/forefinger_ring.material_name": "%s ring",
     "tetra/schematic/sword/grip_loop.name": "Grip loop",
-    "tetra/schematic/sword/grip_loop.description": "Attach a loop at the end of the hilt, which increases the reach of the sword. Also increases the range of sweeping attacks by 2 blocks.",
+    "tetra/schematic/sword/grip_loop.description": "Attach a loop at the end of the hilt. The loop increases the area for sweeping attacks and slightly increases attack range.",
     "tetra/schematic/sword/grip_loop.slot1": "Material",
     "tetra.module.sword/grip_loop.name": "Grip loop",
     "tetra.module.sword/grip_loop.description": "A loop attached at the end of the hilt that increases the reach of the sword. Also increases the range of sweeping attacks by 2 blocks.",
@@ -2224,5 +2224,8 @@
     "item.tetra.scroll.warforge/adze.prefix": "Tools of War, Chapter 8",
     "item.tetra.scroll.warforge/adze.name": "Battleadzes",
     "item.tetra.scroll.warforge/adze.description": "Contains various plans on how to make adzes more effective in combat, allows adzes to be improved in a workbench",
-    "item.tetra.scroll.warforge/adze.description_extended": "§7[§8shift + rmb§7]§8 read more"
+    "item.tetra.scroll.warforge/adze.description_extended": "§7[§8shift + rmb§7]§8 read more",
+    "tetra.stats.attack_range": "Atk. range",
+    "tetra.stats.attack_range.tooltip": "Changes how far away the wielder can hit entities by §e%s§r blocks",
+    "tetra.stats.sweeping.efficiency.tooltip": "Increases sweep radius by §e%s§r blocks"
 }

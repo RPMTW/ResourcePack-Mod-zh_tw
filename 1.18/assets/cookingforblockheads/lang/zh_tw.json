@@ -108,5 +108,12 @@
     "cookingforblockheads:subtitle.oven_close": "Oven closes",
     "cookingforblockheads:subtitle.toaster_start": "Toaster starts toasting",
     "cookingforblockheads:subtitle.toaster_stop": "Toaster finished toasting",
-    "jei.cookingforblockheads:cow_jar": "Cow in a Jar"
+    "jei.cookingforblockheads:cow_jar": "Cow in a Jar",
+    "tooltip.cookingforblockheads:toasted": "Toasted %s",
+    "tooltip.cookingforblockheads:very_toasted": "Very Toasted Bread (do not eat)",
+    "config.jade.plugin_cookingforblockheads.oven": "Oven",
+    "config.jade.plugin_cookingforblockheads.milk_jar": "Milk Jar",
+    "config.jade.plugin_cookingforblockheads.toaster": "Toaster",
+    "config.jade.plugin_cookingforblockheads.fridge": "Fridge",
+    "config.jade.plugin_cookingforblockheads.sink": "Sink"
 }

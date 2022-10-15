@@ -1067,5 +1067,13 @@
     "tombstone.advancement.ancient_knowledge.desc": "You used the magic of a blue soul",
     "tombstone.config.distance_between_grave_guardian.tooltip": "Minimum distance between Grave Gardians to spawn",
     "tombstone.config.restock_time_grave_guardian.tooltip": "Time in minutes for a Grave Guardian to restock its offers",
-    "stat.tombstone.create_ancient_item": "Ancient Items Created"
+    "stat.tombstone.create_ancient_item": "Ancient Items Created",
+    "tombstone.item.magic_scroll": "Magic Scroll",
+    "tombstone.item.enchanted_scroll_of": "Enchanted Scroll of %s",
+    "tombstone.item.ancient_scroll_of": "Ancient Scroll of %s",
+    "tombstone.item.arrow_of": "Arrow of %s",
+    "tombstone.item.cursed_arrow": "Cursed Arrow",
+    "tombstone.message.spell_cast_around": "%s has been cast on you and your nearby allies",
+    "tombstone.message.spell_cast_on_target": "%s has been cast on %s",
+    "tombstone.message.cant_apply_effect": "This effect can't be used on %s"
 }

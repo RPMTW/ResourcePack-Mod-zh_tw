@@ -2,8 +2,13 @@
     "item.lightingwand.wand": "Lighting Wand",
     "block.lightingwand.light": "Light Source",
     "tip.lightingwand.uncharged": "Uncharged",
-    "tip.lightingwand.light": "Light: %s",
+    "tip.lightingwand.light": "Range: %s",
     "lightingwand.spellpiece.trick_conjure_invisible_light": "Trick: Conjure Invisible Light",
     "lightingwand.spellpiece.trick_conjure_invisible_light.desc": "Conjures a light in the given position. Only having CAD in hand can see the bounding box. The second parameter is light value.",
-    "psi.spellerror.lightingwand.light": "ERROR: Volume must be between (0,15]"
+    "psi.spellerror.lightingwand.light": "ERROR: Volume must be between (0,15]",
+    "block.lightingwand.colored_light": "Light Source",
+    "entity.lightingwand.light": "Light Source",
+    "tip.lightingwand.color": "Color: %s",
+    "tip.lightingwand.opacity": "Opacity: %s%%",
+    "tip.lightingwand.noShimmer": "Shimmer not installed. Custom color is unavailable."
 }
