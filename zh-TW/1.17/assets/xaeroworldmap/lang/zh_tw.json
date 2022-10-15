@@ -156,5 +156,21 @@
     "gui.xaero_wm_reset_message": "Are you sure you would like to restore the default settings?",
     "gui.xaero_wm_reset_message2": "This action cannot be undone!",
     "gui.xaero_wm_partial_y_teleportation": "Use Y With Partial When TP",
-    "gui.xaero_wm_box_partial_y_teleportation": "When teleporting to a map location, offset the Y coordinate by 0.5 to avoid falling through carpet-like blocks into the void. Otherwise, the integer Y coordinate is used."
+    "gui.xaero_wm_box_partial_y_teleportation": "When teleporting to a map location, offset the Y coordinate by 0.5 to avoid falling through carpet-like blocks into the void. Otherwise, the integer Y coordinate is used.",
+    "gui.xaero_box_showing_pac_players": "%s Rendering players",
+    "gui.xaero_box_hiding_pac_players": "%s Not rendering players",
+    "gui.xaero_toggle_pac_players": "Toggle Party/Ally Players",
+    "gui.xaero_toggle_pac_chunk_claims": "Toggle Chunk Claims",
+    "gui.xaero_pac_claim_chunks": "Claim Selected",
+    "gui.xaero_pac_unclaim_chunks": "Unclaim Selected",
+    "gui.xaero_pac_forceload_chunks": "Forceload Selected",
+    "gui.xaero_pac_unforceload_chunks": "Unforceload Selected",
+    "gui.xaero_pac_claim_selection_out_of_range": "§8(Claims) Out of Range...",
+    "gui.xaero_wm_pac_claims": "Display Chunk Claims",
+    "gui.xaero_wm_box_pac_claims": "Display chunk claims from the Open Parties and Claims mod as a colored overlay.",
+    "gui.xaero_wm_pac_claims_border_opacity": "Chunk Claims Border Opacity",
+    "gui.xaero_wm_box_pac_claims_border_opacity": "The opacity of the chunk claims overlay border color. Chunk claims require the Open Parties and Claims mod.",
+    "gui.xaero_wm_pac_claims_fill_opacity": "Chunk Claims Fill Opacity",
+    "gui.xaero_wm_box_pac_claims_fill_opacity": "The opacity of the chunk claims overlay fill color. Chunk claims require the Open Parties and Claims mod.",
+    "gui.xaero_wm_display_stained_glass": "Display Stained Glass"
 }
