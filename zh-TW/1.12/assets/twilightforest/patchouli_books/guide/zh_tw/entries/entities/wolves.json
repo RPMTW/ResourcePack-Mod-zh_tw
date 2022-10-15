@@ -13,7 +13,7 @@
     },
     {
       "type": "entity",
-      "advancement": "twilightforest:alt/entities/mist_wolf",
+      "advancement": "minecraft:spawn_egg:0{EntityTag:{id:\"twilightforest:hostile_wolf\"}}",
       "entity": "twilightforest:mist_wolf",
       "text": "things and stuff"
     },
