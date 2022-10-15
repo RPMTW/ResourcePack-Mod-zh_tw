@@ -7,7 +7,7 @@
   "pages": [
     {
       "type": "entity",
-      "advancement": "twilightforest:alt/entities/yeti",
+      "advancement": "minecraft:spawn_egg:0{EntityTag:{id:\"twilightforest:yeti\"}}",
       "entity": "twilightforest:yeti",
       "text": "things and stuff"
     }
