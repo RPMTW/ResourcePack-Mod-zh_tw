@@ -196,5 +196,6 @@
     "quarryplus.chat.warn_protected_area": "Area contains protected chunks. Quarry has stopped.",
     "text.autoconfig.quarryplus.option.filler": "Filler",
     "text.autoconfig.quarryplus.option.filler.fillerEnergyBreakBlock": "FillerEnergyBreakBlock",
-    "text.autoconfig.quarryplus.option.filler.fillerEnergyCapacity": "FillerEnergyCapacity"
+    "text.autoconfig.quarryplus.option.filler.fillerEnergyCapacity": "FillerEnergyCapacity",
+    "quarryplus.chat.warn_cd_limit": "Area is too bigger than limit value in config."
 }
