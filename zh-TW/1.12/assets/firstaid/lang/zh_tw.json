@@ -85,5 +85,7 @@
     "firstaid.specificarmor": "+ %s 點特定位置護甲值",
     "firstaid.specifictoughness": "+ %s 點特定位置盔甲強度",
     "firstaid.config.enchantmenthandling": "Enchantment Handling",
-    "firstaid.config.enchantmenthandling.tooltip": "Specify how enchantments are applied"
+    "firstaid.config.enchantmenthandling.tooltip": "Specify how enchantments are applied",
+    "firstaid.specificarmor.take": "-%s Locational Armor",
+    "firstaid.specifictoughness.take": "-%s Locational Armor Toughness"
 }
