@@ -1352,5 +1352,7 @@
     "tooltip.ancientspellcraft\\:sage_lectern.more_info": "This lectern can hold a spell book for easy reading or a Sage Tome to upgrade the tome",
     "tooltip.ancientspellcraft\\:sealed_stone.more_info": "Magically Sealed Stone is unbreakable. Only its Unseal Glyph can dispel it",
     "item.ancientspellcraft\\:charm_guardian_blade.desc": "This sword refuses to be unsheathed by anyone, but it comes for your aid when in the greatest trouble",
-    "item.ancientspellcraft\\:charm_guardian_blade.name": "Guardian Blade"
+    "item.ancientspellcraft\\:charm_guardian_blade.name": "Guardian Blade",
+    "item.ancientspellcraft\\:ritual_book.desc": "Can be identified with a Scroll of Identification",
+    "ritual.discover": "Discovered the ritual %1$s!"
 }
