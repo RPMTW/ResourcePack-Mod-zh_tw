@@ -139,7 +139,7 @@
     "advancements.repeater_advancement.title": "Pea Power",
     "entity.scootys_pvz_regrown.gold_snow_pea": "Gold Snow Pea",
     "item.scootys_pvz_regrown.magnified_glass": "Magnifying Glass",
-    "advancements.seed_box_advancement.descr": "Create seeds, plants, resources and more within this useful little box!",
+    "advancements.seed_box_advancement.descr": "Create plants by putting together sun or moon with special ingredients.",
     "item.scootys_pvz_regrown.conehead_zombie_spawn_egg": "Conehead Zombie Spawn Egg",
     "subtitles.sun": "",
     "item.scootys_pvz_regrown.gold_repeater_packet": "Gold Rank | Repeater Packet",
@@ -979,5 +979,17 @@
     "advancements.money_2_advancement.title": "Wealthy Benefactor",
     "item.minecraft.potion.effect.zombieincrease": "Zombieincrease",
     "advancements.money_3_advancement.descr": "Have 500 coins deposited",
-    "advancements.zombie_death_2_advancement.descr": "Witness 100 Zombie Deaths."
+    "advancements.zombie_death_2_advancement.descr": "Witness 100 Zombie Deaths.",
+    "item.minecraft.lingering_potion.effect.timedeath": "Lingering Timedeath",
+    "block.scootys_pvz_regrown.botany_bench": "Botany Bench",
+    "advancements.coin_press_advancement.title": "Cornerstone Of Economy",
+    "item.minecraft.tipped_arrow.effect.timedeath": "Arrow of Timedeath",
+    "block.scootys_pvz_regrown.coin_press": "Coin Press",
+    "advancements.botany_bench_advancement.descr": "Create a Botany Bench and combine materials together to make new seeds and ingredients for plants.",
+    "subtitles.vasesmash": "Vase Breaks",
+    "advancements.coin_press_advancement.descr": "Turns iron nuggets or gold nuggets into coins! At a cost of your current bank account however...",
+    "item.minecraft.potion.effect.timedeath": "Timedeath",
+    "advancements.botany_bench_advancement.title": "Botanical Fusion",
+    "effect.timedeath": "Timedeath",
+    "item.minecraft.splash_potion.effect.timedeath": "Splash Timedeath"
 }
