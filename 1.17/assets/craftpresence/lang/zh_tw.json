@@ -176,8 +176,8 @@
     "gui.config.comment.general.detect_world_data": "Enable detection of Server/SinglePlayer world data?\\n(Allows usage of Server Messages and associated placeholders)",
     "gui.config.comment.general.enable_join_request": "Allow sending/receiving join requests in Discord?",
     "gui.config.comment.general.party_privacy": "Party Privacy Level\\n(Applies when Join Requests are enabled)",
-    "gui.config.comment.general.reset_time_on_init": "Whether or not to reset the Starting Timestamp when the RPC is rebooted",
-    "gui.config.comment.general.auto_register": "Whether or not to register this Client as an application with discord\\n(Warning: Can have compatibility and JVM Issues)",
+    "gui.config.comment.general.reset_time_on_init": "Whether to reset the Starting Timestamp when the RPC is rebooted",
+    "gui.config.comment.general.auto_register": "Whether to register this Client as an application with discord\\n(Warning: Can have compatibility and JVM Issues)",
     "gui.config.comment.biome_messages.biome_icon": "Biome icon to default to when in an unsupported or unknown biome",
     "gui.config.comment.biome_messages.biome_messages": "Customize messages to display with biomes\\n(Manual format: biome_name;message;icon)\\n\\n%1$s",
     "gui.config.comment.dimension_messages.dimension_icon": "Dimension icon to default to when in an unsupported or unknown dimension",
@@ -204,7 +204,7 @@
     "gui.config.comment.advanced.split_character": "The split character for the arrays in CraftPresence's messages configs",
     "gui.config.comment.advanced.refresh_rate": "The time to take in between refreshing the Rich Presence display and modules, in seconds",
     "gui.config.comment.advanced.round_size": "The amount to round certain variables within the Rich Presence display, as an Integer",
-    "gui.config.comment.advanced.include_extra_gui_classes": "Whether or not to allow the Per-Gui System to scan additional classes\\n (Warning: Can cause compatibility issues with other mods)",
+    "gui.config.comment.advanced.include_extra_gui_classes": "Whether to allow the Per-Gui System to scan additional classes\\n (Warning: Can cause compatibility issues with other mods)",
     "gui.config.comment.advanced.enable_commands": "Allows CraftPresence to utilize commands\\n (Enables Command Gui in main Config Gui)",
     "gui.config.comment.advanced.enable_per_gui": "Allows CraftPresence to change it's display based on the Gui you're in\\n Note the following:\\n - Requires an option in Gui messages\\n - In some Minecraft versions, Guis must be opened once before configuring",
     "gui.config.comment.advanced.enable_per_item": "Allows CraftPresence to change it's display based on the item you're holding\\n Note the following:\\n - Requires an option in item messages",
@@ -429,5 +429,10 @@
     "craftpresence.placeholders.TARGETENTITY.description": "The current targeted entity's display data, while applicable",
     "craftpresence.placeholders.TARGETENTITY.ENTITY.description": "The targeted entity's name",
     "craftpresence.placeholders.RIDINGENTITY.description": "The current riding entity's display data, while applicable",
-    "craftpresence.placeholders.RIDINGENTITY.ENTITY.description": "The riding entity's name"
+    "craftpresence.placeholders.RIDINGENTITY.ENTITY.description": "The riding entity's name",
+    "gui.config.name.advanced.allow_placeholder_previews": "Allow Placeholder Previews",
+    "gui.config.name.advanced.allow_placeholder_operators": "Allow Placeholder Operators",
+    "gui.config.comment.advanced.allow_placeholder_previews": "Whether to allow Placeholder Previews to be displayed in applicable tooltips throughout the Config Gui",
+    "gui.config.comment.advanced.allow_placeholder_operators": "Whether to allow programatic operators (Such as '|' for OR) to be interpreted in applicable placeholders",
+    "craftpresence.logger.error.discord.assets.cached": "Asset name \"%1$s\" does not exist, using cached icon \"%2$s\"..."
 }
