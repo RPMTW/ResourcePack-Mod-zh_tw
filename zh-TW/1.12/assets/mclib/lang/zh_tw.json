@@ -222,5 +222,10 @@
     "mclib.gui.transforms.delta.origin": "Around the origin",
     "keybinds.config.title": "Keybinds",
     "keybinds.config.unknown_mod": "Unknown mod",
-    "keybinds.config.no_category": "No category"
+    "keybinds.config.no_category": "No category",
+    "mclib.gui.transforms.orientation.global": "Global",
+    "mclib.gui.transforms.orientation.local": "Local",
+    "mclib.gui.transforms.orientation.tooltip": "How the translation axes should be aligned.",
+    "mclib.config.appearance.render_translation_text_colours": "Render translation text colours",
+    "mclib.config.comments.appearance.render_translation_text_colours": "Render the respective axis colour for the translation fields, e.g. x is red, y is green and z is blue."
 }
