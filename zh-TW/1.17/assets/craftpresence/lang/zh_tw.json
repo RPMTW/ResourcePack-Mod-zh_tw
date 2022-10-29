@@ -176,8 +176,8 @@
     "gui.config.comment.general.detect_world_data": "Enable detection of Server/SinglePlayer world data?\\n(Allows usage of Server Messages and associated placeholders)",
     "gui.config.comment.general.enable_join_request": "允許在 Discord 中發送/接收加入請求？",
     "gui.config.comment.general.party_privacy": "Party Privacy Level\\n(Applies when Join Requests are enabled)",
-    "gui.config.comment.general.reset_time_on_init": "當 RPC 重新啟動時，是否要重置起始時間戳",
-    "gui.config.comment.general.auto_register": "Whether or not to register this Client as an application with discord\\n(Warning: Can have compatibility and JVM Issues)",
+    "gui.config.comment.general.reset_time_on_init": "Whether to reset the Starting Timestamp when the RPC is rebooted",
+    "gui.config.comment.general.auto_register": "Whether to register this Client as an application with discord\\n(Warning: Can have compatibility and JVM Issues)",
     "gui.config.comment.biome_messages.biome_icon": "在不支援或未知生態域中，使用預設生態域圖示",
     "gui.config.comment.biome_messages.biome_messages": "Customize messages to display with biomes\\n(Manual format: biome_name;message;icon)\\n\\n%1$s",
     "gui.config.comment.dimension_messages.dimension_icon": "在不支援或未知維度中，使用預設維度圖示",
@@ -204,7 +204,7 @@
     "gui.config.comment.advanced.split_character": "狀態工藝的訊息設定中的陣列的分割字元",
     "gui.config.comment.advanced.refresh_rate": "刷新Rich Presence顯示和模塊之間的時間，以秒計算。",
     "gui.config.comment.advanced.round_size": "在Rich Presence顯示中對某些變數進行四捨五入的量，作為一個整數。",
-    "gui.config.comment.advanced.include_extra_gui_classes": "是否允許Per-介面系統掃描額外的類別（警告：可能導致與其他模組的相容性問題）",
+    "gui.config.comment.advanced.include_extra_gui_classes": "Whether to allow the Per-Gui System to scan additional classes\\n (Warning: Can cause compatibility issues with other mods)",
     "gui.config.comment.advanced.enable_commands": "允許狀態工藝使用指令\\n（在主設定介面中啟用指令介面）",
     "gui.config.comment.advanced.enable_per_gui": "Allows CraftPresence to change it's display based on the Gui you're in\\n Note the following:\\n - Requires an option in Gui messages\\n - In some Minecraft versions, Guis must be opened once before configuring",
     "gui.config.comment.advanced.enable_per_item": "允許狀態工藝根據你持有的物品更改其顯示\\n 請注意以下事項：\\n - 需要物品資訊中的選項",
@@ -429,5 +429,10 @@
     "craftpresence.placeholders.TARGETENTITY.description": "The current targeted entity's display data, while applicable",
     "craftpresence.placeholders.TARGETENTITY.ENTITY.description": "The targeted entity's name",
     "craftpresence.placeholders.RIDINGENTITY.description": "The current riding entity's display data, while applicable",
-    "craftpresence.placeholders.RIDINGENTITY.ENTITY.description": "The riding entity's name"
+    "craftpresence.placeholders.RIDINGENTITY.ENTITY.description": "The riding entity's name",
+    "gui.config.name.advanced.allow_placeholder_previews": "Allow Placeholder Previews",
+    "gui.config.name.advanced.allow_placeholder_operators": "Allow Placeholder Operators",
+    "gui.config.comment.advanced.allow_placeholder_previews": "Whether to allow Placeholder Previews to be displayed in applicable tooltips throughout the Config Gui",
+    "gui.config.comment.advanced.allow_placeholder_operators": "Whether to allow programatic operators (Such as '|' for OR) to be interpreted in applicable placeholders",
+    "craftpresence.logger.error.discord.assets.cached": "Asset name \"%1$s\" does not exist, using cached icon \"%2$s\"..."
 }
