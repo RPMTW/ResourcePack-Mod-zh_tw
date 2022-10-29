@@ -1019,5 +1019,15 @@
     "gui.qmd.config.other.beam_scaling.comment": "The scaling factor for the beam attenuation equation.",
     "death.attack.antimatter_annihilation": "%1$s got to curious and was annihilated for it",
     "gui.qmd.config.processors.irradiator_fuel_usage": "Irradiator Fuel Usage",
-    "gui.qmd.config.processors.irradiator_fuel_usage.comment": "The base amount of pu/t used by the irradiator."
+    "gui.qmd.config.processors.irradiator_fuel_usage.comment": "The base amount of pu/t used by the irradiator.",
+    "gui.qmd.config.accelerator.accelerator_explosion": "Accelerator Explosions",
+    "gui.qmd.config.accelerator.accelerator_explosion.comment": "Whether accelerators cause overheating components to explode (quenching events).",
+    "gui.qmd.config.vacuum_chamber.exotic_containment_explosion": "Exotic Containment Chamber Explosions",
+    "gui.qmd.config.vacuum_chamber.exotic_containment_explosion.comment": "Whether exotic containment chambers explode if they overheat, lose power or are broken with exotic materials inside.",
+    "gui.qmd.config.vacuum_chamber.exotic_containment_gamma_flash": "Exotic Containment Chamber Radiation Flash",
+    "gui.qmd.config.vacuum_chamber.exotic_containment_gamma_flash.comment": "Whether exotic containment chambers emit a deadly radiation flash if they overheat, lose power or are broken with exotic materials inside.",
+    "gui.qmd.config.vacuum_chamber.nucleosynthesis_chamber_explosion": "Nucleosynthesis Chamber Explosions",
+    "gui.qmd.config.vacuum_chamber.nucleosynthesis_chamber_explosion.comment": "Whether nucleosynthesis chambers explode if they overheat, lose power or are broken with plasma inside.",
+    "gui.qmd.config.tools.cell_lifetime": "Cell Lifetime",
+    "gui.qmd.config.tools.cell_lifetime.comment": "The amount of time in ticks a cell can be as an item entity before exploding. If set to 0 cells will not explode under any condition."
 }

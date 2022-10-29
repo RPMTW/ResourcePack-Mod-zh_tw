@@ -85,5 +85,7 @@
     "firstaid.specificarmor": "+%s Locational Armor",
     "firstaid.specifictoughness": "+%s Locational Armor Toughness",
     "firstaid.config.enchantmenthandling": "Enchantment Handling",
-    "firstaid.config.enchantmenthandling.tooltip": "Specify how enchantments are applied"
+    "firstaid.config.enchantmenthandling.tooltip": "Specify how enchantments are applied",
+    "firstaid.specificarmor.take": "-%s Locational Armor",
+    "firstaid.specifictoughness.take": "-%s Locational Armor Toughness"
 }
