@@ -849,7 +849,7 @@
     "booklet.actuallyadditions.chapter.phantomBreaker.name": "幻靈方塊破壞器與放置器",
     "booklet.actuallyadditions.chapter.phantomBreaker.text.1": "<item>幻靈方塊破壞器<r>與<item>放置器<r>有著和<item>幻靈介面<r>相同的工作原理，不過它們的作用是<imp>遠距離的破壞以及放置方塊<r>。其預設最大識別範圍為<imp><range>格方塊<r>。欲使其連接並破壞一個方塊，你需要按照<imp>幻靈介面章節<r>中描述的方法去操作。當它前方是空氣方塊時，僅僅只會機械地放置方塊，然後又破壞掉方塊。<n>當手拿<item>紅石火把<r>右擊它時，它會在<imp>接受紅石訊號停用<r>和<imp>接收紅石脈衝工作<r>兩種模式之間切換。",
     "booklet.actuallyadditions.chapter.esd.name": "ESD",
-    "booklet.actuallyadditions.chapter.esd.text.1": "ESD類似於漏斗，但是具有更多的功能：你可以選擇從方塊的哪一面來輸入和輸，並且可以精確地設定進行輸入輸出的格子的範圍！。有關詳細訊息，請將<imp>懸停在其GUI中的元素上<r><n><n>他們將確定庫存最初<imp>插槽量<r>但庫存<tifisgrin>在庫存變化時不能適應<r>。連接插槽數量可能變更的清單（如<item>Item 介面<r>）時，可以將插槽量設定為 ESD 的 GUI 中的較大數字，以避免忽略插槽。",
+    "booklet.actuallyadditions.chapter.esd.text.1": "<item>ESD<r>比<item>漏斗<r>有更多功能，可以調整輸入面與輸出面的方向；並<imp>精確控制<r>容器傳輸的物品欄位。<n>詳細資訊在<imp>ESD的介面<r>有懸浮說明框。<n><n>ESD在與容器相接時會偵測<imp>欄位數量<r>，但之後當<tifisgrin>容器欄位數改變時，不會再更新ESD的參數<r>。假如你連接的是欄位數量容易變動的<item>物品傳輸接口<r>，建議可以將欄位參數設個大數值，避免有些欄位沒利用到。",
     "booklet.actuallyadditions.chapter.xpSolidifier.name": "經驗固化器",
     "booklet.actuallyadditions.chapter.xpSolidifier.text.1": "經驗固化器使用玩家的經驗，並將其轉化為固化經驗，之後可以透過右擊使用（或者透過shift右擊使用一組！）獲得經驗。<n> 另外，你可以將<item>固化經驗<r>放入凝固器中，它將<imp>拾取地面上的任何經驗球<r>，並將它們轉化為<item>固化經驗<r>，前提是經驗球不是由它創建的。<n> <item>凝固經驗<r>有時也會作為額外的獎勵從怪物身上掉落。",
     "booklet.actuallyadditions.chapter.greenhouseGlass.name": "溫室玻璃",
