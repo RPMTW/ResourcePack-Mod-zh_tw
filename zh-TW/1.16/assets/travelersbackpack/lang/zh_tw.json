@@ -136,7 +136,7 @@
     "ability.travelersbackpack.cactus": "就像現實生活中的仙人掌一樣,當天氣為下雨且背包上方沒有任何遮蔽物時,背包會隨著時間流逝填充空的水箱,\n如果你想要更多的水,那就自己處理! 當背包為方塊時也可以填充",
     "ability.travelersbackpack.creeper": "如果玩家處於瀕死狀態,將召喚可傷害附近生物的爆炸\n,玩家則會獲得吸收,回復和火焰保護效果\n每隔幾分鐘即可使用一次",
     "ability.travelersbackpack.dragon": "Backpack for real warriors, combines Magma's Cube and Squid's backpack abilities, plus gives you strength and regeneration! You'll be invincible!... but.. what did it cost?",
-    "ability.travelersbackpack.blaze": "免疫摔落傷害",
+    "ability.travelersbackpack.blaze": "Immunity to fall damage and small fireballs sent by blaze",
     "ability.travelersbackpack.magma_cube": "免疫火焰傷害",
     "ability.travelersbackpack.wither": "免疫凋零效果",
     "ability.travelersbackpack.bat": "提供看見黑暗裡的世界! Batman Batman Batman",
@@ -155,5 +155,13 @@
     "screen.travelersbackpack.transfer_to_player": "Transfer items to player inventory",
     "screen.travelersbackpack.sort_shift": "Hold shift: Enter select mode and choose which slots won't be affected by sorting",
     "screen.travelersbackpack.quick_stack_shift": "Hold shift: Quick stacks items from hotbar too",
-    "screen.travelersbackpack.transfer_to_backpack_shift": "Hold shift: Moves items from hotbar too"
+    "screen.travelersbackpack.transfer_to_backpack_shift": "Hold shift: Moves items from hotbar too",
+    "ability.travelersbackpack.cake": "Feeds you slowly with delicious pieces of cake",
+    "ability.travelersbackpack.melon": "Can drop up to 3 melon slices when harvested",
+    "ability.travelersbackpack.pumpkin": "Staring at the enderman no longer makes him angry",
+    "ability.travelersbackpack.enderman": "Extends range distance by 1 block",
+    "ability.travelersbackpack.ghast": "Ghasts see you as an allay, unless you attack them",
+    "ability.travelersbackpack.spider": "Have you ever tried climbing walls?",
+    "ability.travelersbackpack.bee": "Attacking creatures stings them causing poisoning, which lasts 4 seconds",
+    "ability.travelersbackpack.cow": "Cleanses all negative effects"
 }
