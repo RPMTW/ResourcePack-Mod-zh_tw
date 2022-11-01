@@ -1136,5 +1136,22 @@
     "tombstone.config.no_blinking_nightvision": "No Blinking Nightvision",
     "tombstone.config.no_blinking_nightvision.tooltip": "Prevent night vision from flashing when less than 5 seconds left",
     "stat.tombstone.eaten_lollipop": "Eaten Lollipop",
-    "stat.tombstone.cast_on_ally": "Spells cast on allies"
+    "stat.tombstone.cast_on_ally": "Spells cast on allies",
+    "description.effect.tombstone.ghostly_shape": "Ghostly appearance received after a death",
+    "description.effect.tombstone.preservation": "Preserves experience and beneficial effects on death",
+    "description.effect.tombstone.unstable_intangibility": "Prevents damage for a full second every five seconds",
+    "description.effect.tombstone.diversion": "Prevents creatures to target you",
+    "description.effect.tombstone.feather_fall": "Slows down your falls",
+    "description.effect.tombstone.purification": "Dispels negative effects over time",
+    "description.effect.tombstone.true_sight": "Lets you in the dark, in the fog and under the water",
+    "description.effect.tombstone.reach": "Increases the range to hit creatures or to harvest",
+    "description.effect.tombstone.lightning_resistance": "Reduces damage taken by lightning by 75%",
+    "description.effect.tombstone.frost_resistance": "Reduces damage taken by frost by 75%",
+    "description.effect.tombstone.aquatic_life": "Allows to move freely and breathe in the water",
+    "description.effect.tombstone.bone_shield": "Protects against melee damages and reflects a part",
+    "description.effect.tombstone.bait": "Attracts agressive creatures",
+    "description.effect.tombstone.prayer": "Received when a prayer is cast on the target",
+    "description.effect.tombstone.earthly_garden": "Makes the surroundings more flowery",
+    "description.effect.tombstone.discretion": "Improves stealth speed and reduces range detection",
+    "description.effect.tombstone.mercy": "Share beneficial effects among nearby allies"
 }

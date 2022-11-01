@@ -136,7 +136,7 @@
     "ability.travelersbackpack.cactus": "Acts like real-life cacti, If it's raining and above backpack is clear sky, the backpack will fill empty tanks with water over time. If you want some more water, dip yourself! The backpack can fill with water while being a block too",
     "ability.travelersbackpack.creeper": "If player is going to die, creates explosion which damages every creature around, granting player absorption, regeneration and fire protection effects. Ability is available every few minutes",
     "ability.travelersbackpack.dragon": "Backpack for real warriors, combines Magma's Cube and Squid's backpack abilities, plus gives you strength and regeneration! You'll be invincible!... but.. what did it cost?",
-    "ability.travelersbackpack.blaze": "Immunity to fall damage",
+    "ability.travelersbackpack.blaze": "Immunity to fall damage and small fireballs sent by blaze",
     "ability.travelersbackpack.magma_cube": "Immunity to fire damage",
     "ability.travelersbackpack.wither": "Immunity to wither effect",
     "ability.travelersbackpack.bat": "Provides seeing in the dark! Batman Batman Batman",
@@ -155,5 +155,13 @@
     "screen.travelersbackpack.transfer_to_player": "Transfer items to player inventory",
     "screen.travelersbackpack.sort_shift": "Hold shift: Enter select mode and choose which slots won't be affected by sorting",
     "screen.travelersbackpack.quick_stack_shift": "Hold shift: Quick stacks items from hotbar too",
-    "screen.travelersbackpack.transfer_to_backpack_shift": "Hold shift: Moves items from hotbar too"
+    "screen.travelersbackpack.transfer_to_backpack_shift": "Hold shift: Moves items from hotbar too",
+    "ability.travelersbackpack.cake": "Feeds you slowly with delicious pieces of cake",
+    "ability.travelersbackpack.melon": "Can drop up to 3 melon slices when harvested",
+    "ability.travelersbackpack.pumpkin": "Staring at the enderman no longer makes him angry",
+    "ability.travelersbackpack.enderman": "Extends range distance by 1 block",
+    "ability.travelersbackpack.ghast": "Ghasts see you as an allay, unless you attack them",
+    "ability.travelersbackpack.spider": "Have you ever tried climbing walls?",
+    "ability.travelersbackpack.bee": "Attacking creatures stings them causing poisoning, which lasts 4 seconds",
+    "ability.travelersbackpack.cow": "Cleanses all negative effects"
 }
