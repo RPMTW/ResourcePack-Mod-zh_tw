@@ -8,24 +8,24 @@
     {
       "type": "entity",
       "advancement": "twilightforest:alt/entities/redcap",
-      "entity": "twilightforest:redcap",
+      "entity": "紅帽",
       "text": "things and stuff"
     },
     {
       "type": "entity",
-      "advancement": "twilightforest:alt/entities/redcap_sapper",
+      "advancement": "紅帽工兵",
       "entity": "twilightforest:redcap_sapper",
       "text": "things and stuff"
     },
     {
       "type": "entity",
-      "advancement": "twilightforest:alt/entities/goblin_knight",
+      "advancement": "哥布林騎士",
       "entity": "twilightforest:goblin_knight_lower{Passengers:[{id:\"twilightforest:goblin_knight_upper\",hasArmor:1b,hasShield:1b}],hasArmor:1b}",
       "text": "With Upper Goblin's world always sitting Lower Goblin's shoulders, he has never skipped leg day."
     },
     {
       "type": "entity",
-      "advancement": "twilightforest:alt/entities/goblin_knight",
+      "advancement": "哥布林騎士",
       "entity": "twilightforest:goblin_knight_upper{hasArmor:1b}",
       "text": "things and stuff"
     },
