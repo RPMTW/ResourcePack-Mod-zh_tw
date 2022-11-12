@@ -6,16 +6,16 @@
   "sortnum": 6030,
   "pages": [
     {
-      "title": "Phantom Armor",
+      "title": "夜魅盔甲",
       "type": "twilightforest:headed_spotlight2",
-      "item0": "twilightforest:phantom_helmet",
+      "item0": "夜魅頭盔",
       "item1": "twilightforest:phantom_chestplate",
-      "text": "It's strange, but from simply looking at it, it's clear as twilight this is no ordinary helm. The material seems metallic in nature, but feels lukewarm to the touch and it's almost as if it resonates with its surroundings."
+      "text": "這很奇怪，但光看它，就知道這不是普通的頭盔。這種材料在本質上看起來像是金屬的，但觸感不冷不熱，幾乎就像它與周圍環境產生共鳴一樣。"
     },
     {
       "type": "text",
-      "advancement": "twilightforest:alt/treasures/phantom_armor_worn",
-      "text": "Quite apparent despite the eerie nature of the piece is that the quality of the helm is superb, no doubt offering great protection from any physical harm. When this gear is worn it gives off a strange sense of familiarity, something that feels like an urge and refusal to let go at all costs. Sometimes, just out of audible reach, you swear on hearing malevolent whispers from what almost sounds like yourself."
+      "advancement": "夜魅盔甲",
+      "text": "儘管這件作品令人毛骨悚然，但很明顯的是，頭盔的質量非常好，無疑提供了很好的保護，免受任何傷害。當這件裝備被戴上時，它會散發出一種奇怪的熟悉感，那種感覺就像是一種不惜一切代價拒絕放手的衝動。有時，就在聽不見的地方，你發誓要聽到幾乎聽起來像你自己的惡意低語。\n"
     }
   ]
 }
