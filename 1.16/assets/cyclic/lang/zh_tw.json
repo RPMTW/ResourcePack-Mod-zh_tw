@@ -1630,5 +1630,12 @@
     "block.cyclic.user.hand": "Use Left Hand",
     "buildertype.tunnel": "Tunnel",
     "effect.cyclic.waterwalk.description": "Prevents you from sinking down through the waters surface",
-    "effect.cyclic.magnetic.description": "Pull items and XP towards you with range of 8 blocks per level"
+    "effect.cyclic.magnetic.description": "Pull items and XP towards you with range of 8 blocks per level",
+    "item.cyclic.apple_ender.empty": "Nothing found",
+    "effect.cyclic.butter.description": "Chance to drop items while moving or attacking",
+    "effect.cyclic.snowwalk.description": "Leave a tralk of snow when you walk",
+    "effect.cyclic.attack_range.description": "Increases your melee attack range by factor of two",
+    "effect.cyclic.swimspeed.description": "Double your current swim speed",
+    "effect.cyclic.reach_distance.description": "Increase block placement and mining reach by factor of two",
+    "effect.cyclic.stun.description": "Stun the entity so it cannot move for a time"
 }

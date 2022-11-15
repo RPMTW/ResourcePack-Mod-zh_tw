@@ -134,5 +134,12 @@
     "gui.computercraft.upload.failed.too_many_files": "Cannot upload this many files.",
     "gui.computercraft.upload.failed.generic": "Uploading files failed (%s)",
     "gui.computercraft.upload.failed.corrupted": "Files corrupted when uploading. Please try again.",
-    "gui.computercraft.pocket_computer_overlay": "Pocket computer open. Press ESC to close."
+    "gui.computercraft.pocket_computer_overlay": "Pocket computer open. Press ESC to close.",
+    "tracking_field.computercraft.computer_tasks.name": "Tasks",
+    "tracking_field.computercraft.server_tasks.name": "Server tasks",
+    "tracking_field.computercraft.max": "%s (max)",
+    "tracking_field.computercraft.avg": "%s (avg)",
+    "tracking_field.computercraft.count": "%s (count)",
+    "gui.computercraft.upload.no_response": "Transferring Files",
+    "gui.computercraft.upload.no_response.msg": "Your computer has not used your transferred files. You may need to run the %s program and try again."
 }
