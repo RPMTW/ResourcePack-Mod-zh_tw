@@ -561,5 +561,8 @@
     "reccomplex.parameters.command": "維度",
     "reccomplex.parameters.command.arguments": "維度",
     "reccomplex.parameters.entity": "維度",
-    "reccomplex.parameters.rotation": "維度"
+    "reccomplex.parameters.rotation": "維度",
+    "reccomplex.transformer.pillar.generateUpwards": "Direction",
+    "reccomplex.transformer.pillar.generateUpwards.true": "Upwards (hanging)",
+    "reccomplex.transformer.pillar.generateUpwards.false": "Downwards (standing)"
 }
