@@ -421,5 +421,11 @@
     "ftbquests.reward.exclude_from_claim_all": "Exclude from Claim All",
     "commands.ftbquests.command.error.not_editing": "You must be in editing mode (/ftbquests editing_mode) to do this!",
     "commands.ftbquests.command.feedback.reloaded": "Quest data reloaded from file!",
-    "commands.ftbquests.command.feedback.reloaded.disclaimer": "Note: Quest reloading is a quest developer convenience tool and not recommended for use on live servers."
+    "commands.ftbquests.command.feedback.reloaded.disclaimer": "Note: Quest reloading is a quest developer convenience tool and not recommended for use on live servers.",
+    "ftbquests.quest.ignore_reward_blocking": "Ignore reward blocking",
+    "ftbquests.quest.ignore_reward_blocking.tooltip": "Offer the quest reward(s) even if rewards are blocked for the team by the '/ftbquests block_rewards' command",
+    "ftbquests.reward.blocked": "%d reward(s) blocked for team '%s'",
+    "ftbquests.reward.this_blocked": "Reward blocked for team '%s'",
+    "ftbquests.reward.exclude_from_claim_all.tooltip": "Ignore this reward when the \"Claim All\" button is clicked\nThis setting cannot be changed for Loot, Random\n and Choice reward types",
+    "commands.ftbquests.command.feedback.rewards_blocked": "Quest reward blocking for for team '%s' set to: %s"
 }

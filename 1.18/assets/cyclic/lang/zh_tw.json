@@ -1761,5 +1761,11 @@
     "effect.cyclic.gravity.description": "Increases the force of gravity you feel",
     "effect.cyclic.attack_range.description": "Increases your melee attack range by factor of two",
     "effect.cyclic.reach_distance.description": "Increase block placement and mining reach by factor of two",
-    "effect.cyclic.stun.description": "Stun the entity so it cannot move for a time"
+    "effect.cyclic.stun.description": "Stun the entity so it cannot move for a time",
+    "item.cyclic.apple_ender.empty": "Nothing found",
+    "item.minecraft.potion.effect.cyclic_flight": "Potion of Flight",
+    "item.minecraft.splash_potion.effect.cyclic_flight": "Splash Potion of Flight",
+    "lingering_potion.effect.flight": "Lingering Potion of Flight",
+    "tipped_arrow.effect.flight": "Arrow of Flight",
+    "item.minecraft.splash_potion.effect.cyclic_butter": "Splash Potion of Butterfingers"
 }

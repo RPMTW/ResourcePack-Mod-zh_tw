@@ -373,5 +373,11 @@
     "text.rei.collapsed.entry.hint.expand.macos": "Option-Click to expand all %s (%d entries)",
     "text.rei.collapsed.entry.hint.collapse.macos": "Option-Click to collapse all %s (%d entries)",
     "rule.roughlyenoughitems.filtering.basic": "Basic Plugin Filtering",
-    "rule.roughlyenoughitems.filtering.basic.subtitle": "Filter entries by REI plugins. This is not configurable here."
+    "rule.roughlyenoughitems.filtering.basic.subtitle": "Filter entries by REI plugins. This is not configurable here.",
+    "config.roughlyenoughitems.filtering.filteringQuickCraftCategories": "Excluded Quick Craft Categories:",
+    "config.roughlyenoughitems.filtering.filteringQuickCraftCategories.configure": "Configure...",
+    "config.roughlyenoughitems.filtering.filteringQuickCraftCategories.configure.title": "Configuring Quick Craft Categories",
+    "config.roughlyenoughitems.filtering.filteringQuickCraftCategories.configure.toggle": "Toggle",
+    "config.roughlyenoughitems.filtering.filteringQuickCraftCategories.configure.true": "Available for Quick Craft",
+    "config.roughlyenoughitems.filtering.filteringQuickCraftCategories.configure.false": "Excluded from Quick Craft"
 }
