@@ -58,7 +58,7 @@
     "advancement.vampirism.blood_cult": "血腥崇拜",
     "advancement.vampirism.blood_cult.desc": "在注魔祭壇舉行儀式",
     "advancement.vampirism.yuck": "好噁！",
-    "advancement.vampirism.yuck.desc": "從不死生物身上吸血",
+    "advancement.vampirism.yuck.desc": "Suck Blood from an villager with poisonous blood",
     "advancement.vampirism.sniped": "狙擊！",
     "advancement.vampirism.sniped.dec": "在變身成蝙蝠時遭到狙擊",
     "advancement.vampirism.freeze_kill": "沒用！沒用……",
@@ -1239,5 +1239,10 @@
     "command.vampirism.base.minion_inventory.item_not_found": "Item was not found in the inventory",
     "command.vampirism.base.minion_inventory.content": "Inventory of %s:",
     "command.vampirism.base.minion_inventory.empty": "Inventory of %s is empty",
-    "text.vampirism.oils.cannot_use": "You can not handle oiled items"
+    "text.vampirism.oils.cannot_use": "You can not handle oiled items",
+    "text.vampirism.skills.level": "Level Skills",
+    "text.vampirism.skills.lord": "Lord Skills",
+    "text.vampirism.faction_specifics": "Faction specifics:",
+    "text.vampirism.faction_only": " only",
+    "effect.vampirism.wrong_equipment.note": "Wrong equipment"
 }
