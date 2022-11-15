@@ -349,8 +349,8 @@
     "text.rei.ask_to_export": "Do you wish to export \"%s\"?",
     "text.rei.ask_to_export.subtitle": "This will export %d displays as images.",
     "text.rei.collapsed.entry": "Collapsed Entry: %s",
-    "text.rei.collapsed.entry.hint.expand": "Click to expand all %s (%d entries)",
-    "text.rei.collapsed.entry.hint.collapse": "Click to collapse all %s (%d entries)",
+    "text.rei.collapsed.entry.hint.expand": "Alt-Click to expand all %s (%d entries)",
+    "text.rei.collapsed.entry.hint.collapse": "Alt-Click to collapse all %s (%d entries)",
     "config.roughlyenoughitems.layout.showCraftableOnlyButton": "Craftable Filter:",
     "config.roughlyenoughitems.commands.timeCommand": "Time Command:",
     "config.roughlyenoughitems.filteringRulesScreen.hint": "Try Dragging!",
@@ -369,5 +369,15 @@
     "text.rei.input.methods.hint.configure": "Configure",
     "text.rei.input.methods.hint.ignore": "Ignore",
     "text.rei.input.methods.initializing": "Initializing Input Method",
-    "config.roughlyenoughitems.search.patchAsyncThreadCrash": "Patch Async Thread Crash:"
+    "config.roughlyenoughitems.search.patchAsyncThreadCrash": "Patch Async Thread Crash:",
+    "text.rei.collapsed.entry.hint.expand.macos": "Option-Click to expand all %s (%d entries)",
+    "text.rei.collapsed.entry.hint.collapse.macos": "Option-Click to collapse all %s (%d entries)",
+    "rule.roughlyenoughitems.filtering.basic": "Basic Plugin Filtering",
+    "rule.roughlyenoughitems.filtering.basic.subtitle": "Filter entries by REI plugins. This is not configurable here.",
+    "config.roughlyenoughitems.filtering.filteringQuickCraftCategories": "Excluded Quick Craft Categories:",
+    "config.roughlyenoughitems.filtering.filteringQuickCraftCategories.configure": "Configure...",
+    "config.roughlyenoughitems.filtering.filteringQuickCraftCategories.configure.title": "Configuring Quick Craft Categories",
+    "config.roughlyenoughitems.filtering.filteringQuickCraftCategories.configure.toggle": "Toggle",
+    "config.roughlyenoughitems.filtering.filteringQuickCraftCategories.configure.true": "Available for Quick Craft",
+    "config.roughlyenoughitems.filtering.filteringQuickCraftCategories.configure.false": "Excluded from Quick Craft"
 }
