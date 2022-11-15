@@ -134,5 +134,12 @@
     "gui.computercraft.upload.failed.too_many_files": "無法上傳這麼多檔案。",
     "gui.computercraft.upload.failed.generic": "上傳檔案失敗 (%s)",
     "gui.computercraft.upload.failed.corrupted": "上傳時檔案損壞。請再試一次。",
-    "gui.computercraft.pocket_computer_overlay": "掌上電腦打開。按 ESC 關閉。"
+    "gui.computercraft.pocket_computer_overlay": "掌上電腦打開。按 ESC 關閉。",
+    "tracking_field.computercraft.computer_tasks.name": "Tasks",
+    "tracking_field.computercraft.server_tasks.name": "Server tasks",
+    "tracking_field.computercraft.max": "%s (max)",
+    "tracking_field.computercraft.avg": "%s (avg)",
+    "tracking_field.computercraft.count": "%s (count)",
+    "gui.computercraft.upload.no_response": "Transferring Files",
+    "gui.computercraft.upload.no_response.msg": "Your computer has not used your transferred files. You may need to run the %s program and try again."
 }
