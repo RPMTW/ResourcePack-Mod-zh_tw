@@ -367,7 +367,7 @@
     "commands.ftbquests.change_progress.no_object": "沒有尋找到任務目標 ID %s！",
     "commands.ftbquests.change_progress.no_file": "沒有找到任務檔案，怎麼了？！",
     "commands.ftbquests.change_progress.invalid_id": "無效的對象 ID：%s！",
-    "commands.ftbquests.change_progress.invalid_type": "Invalid changeProgress type: %s!",
+    "commands.ftbquests.change_progress.invalid_type": "無效 changeProgress 類型：%s！",
     "commands.ftbquests.change_progress.text": "進度已被變更！",
     "commands.ftbquests.change_team_rewards.invalid_id": "章節 ID 無效！",
     "commands.ftbquests.change_team_rewards.text": "已將 %d 個團隊獎勵設定為 %s",
@@ -388,8 +388,8 @@
     "commands.ftbquests.command.feedback.table_exported": "成功導出獎勵表「%s」的 %s 個物品到目標方塊！",
     "commands.ftbquests.command.feedback.table_imported": "成功導出獎勵表「%s」的 %s 個物品！",
     "commands.ftbquests.command.feedback.table_too_many_items": "警告：表 %s 的物品超過了目標方塊所能處理的數量，停止導出！",
-    "ftbquests.task.ftbquests.structure": "Find Structure",
-    "ftbquests.task.ftbquests.structure.structure": "Structure",
-    "ftbquests.task.ftbquests.observation.observe_type": "Type",
-    "ftbquests.task.ftbquests.observation.to_observe": "Observe"
+    "ftbquests.task.ftbquests.structure": "找到結構",
+    "ftbquests.task.ftbquests.structure.structure": "結構",
+    "ftbquests.task.ftbquests.observation.observe_type": "類型",
+    "ftbquests.task.ftbquests.observation.to_observe": "觀察"
 }
