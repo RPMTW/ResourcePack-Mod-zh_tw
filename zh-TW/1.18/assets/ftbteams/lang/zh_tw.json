@@ -8,7 +8,7 @@
     "ftbteams.info.id": "團隊長 ID：%s",
     "ftbteams.info.short_id": "團隊短 ID：%s",
     "ftbteams.info.owner": "隊長：%s",
-    "ftbteams.info.owner.none": "None",
+    "ftbteams.info.owner.none": "無",
     "ftbteams.info.members": "成員：",
     "ftbteams.info.members.none": "沒有成員",
     "ftbteams.list": "所有 FTB 團隊：%s",
@@ -18,13 +18,13 @@
     "sidebar_button.ftbteams.my_team": "我的團隊",
     "ftbteamsconfig": "FTB 團隊設定",
     "ftbteamsconfig.ftbteams.display_name": "顯示名稱",
-    "ftbteamsconfig.ftbteams.description": "Description",
-    "ftbteamsconfig.ftbteams.color": "Color",
+    "ftbteamsconfig.ftbteams.description": "描述",
+    "ftbteamsconfig.ftbteams.color": "顏色",
     "ftbteamsconfig.ftbteams.free_to_join": "自由加入",
     "ftbteams.privacy_mode.allies": "盟友",
     "ftbteams.privacy_mode.private": "私有",
     "ftbteams.privacy_mode.public": "公開",
     "ftbteams.create_party": "創建一個隊伍",
     "ftbteams.create_party.info": "創建一個隊伍並邀請成員共同發展",
-    "ftbteams.api_override": "In this modpack you can only create party from inventory 'My Team' button!"
+    "ftbteams.api_override": "在此模組中，您只能從庫存 “我的團隊” 按鈕創建派對！"
 }
