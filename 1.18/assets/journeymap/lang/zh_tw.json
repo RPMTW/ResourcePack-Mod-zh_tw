@@ -758,5 +758,7 @@
     "jm.advanced.seed_id": "Multi World Support",
     "jm.advanced.seed_id.tooltip": "Experimental: Multi World support, prevents map overwriting in multi-world server setups.\n\nNOTE: Will only take effect after rejoining server!",
     "jm.minimap.waypointicon_scale": "Waypoint Icon Scale",
-    "jm.minimap.waypointicon_scale.tooltip": "The scale for waypoint icons"
+    "jm.minimap.waypointicon_scale.tooltip": "The scale for waypoint icons",
+    "jm.common.render.clear_caves": "Clear Unlit Caves",
+    "jm.common.render.clear_caves.tooltip": "Unlit and inner slice blocks are rendered clear instead of black. This option only effects newly mapped blocks."
 }
