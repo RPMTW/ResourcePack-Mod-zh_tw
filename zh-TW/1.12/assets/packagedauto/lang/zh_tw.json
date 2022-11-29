@@ -24,5 +24,10 @@
     "recipe.packagedauto.processing_ordered": "Ordered Processing",
     "recipe.packagedauto.processing_ordered.short": "Ordered",
     "recipe.packagedauto.crafting": "合成中",
-    "recipe.packagedauto.crafting.short": "合成中"
+    "recipe.packagedauto.crafting.short": "合成中",
+    "tile.packagedauto.packager.mode.exact": "Mode: Require Exact",
+    "tile.packagedauto.packager.mode.disjoint": "Mode: Require Disjoint",
+    "tile.packagedauto.packager.mode.first": "Mode: First Match",
+    "gui.packagedauto.amount_specifying": "Item amount",
+    "misc.packagedauto.set": "Set\n    "
 }
