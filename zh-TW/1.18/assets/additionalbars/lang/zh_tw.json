@@ -1,5 +1,5 @@
 {
-    "__author": "Marko Dujović (Gamma1772)",
+    "__author": "Marko Dujović (CodenameRevy)",
     "__link": "https://github.com/gamma1772",
     "block.additionalbars.gold_bars": "金欄杆",
     "block.additionalbars.acacia_bars": "相思木欄杆",
@@ -124,5 +124,11 @@
     "tooltip.gamma1772.crossed": "交叉的",
     "tooltip.gamma1772.oxidizing": "氧化中",
     "tooltip.gamma1772.waxed": "上蠟的",
-    "tooltip.gamma1772.nether": "地獄"
+    "tooltip.gamma1772.nether": "地獄",
+    "itemGroup.additionalbars.additionalbars": "Additional Bars",
+    "itemGroup.additionalbars.horizontaladditionalbars": "Additional Bars (Horizontal)",
+    "tooltip.gamma1772.wood": "Wood",
+    "tooltip.gamma1772.metal": "Metal",
+    "tooltip.gamma1772.crystal": "Crystal",
+    "tooltip.gamma1772.brick": "Brick"
 }
