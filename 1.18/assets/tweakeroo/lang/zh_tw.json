@@ -1,9 +1,9 @@
- {
+{
     "tweakeroo.gui.button.config_gui.disable_hotkeys": "TweakNo Hotkeys",
     "tweakeroo.gui.button.config_gui.disable_toggle": "TweakNo Toggles",
     "tweakeroo.gui.button.config_gui.fixes": "Fixes",
     "tweakeroo.gui.button.config_gui.generic": "Generic",
-    "tweakeroo.gui.button.config_gui.generic_hotkeys": "Generic Hotkeys",
+    "tweakeroo.gui.button.config_gui.generic_hotkeys": "Hotkeys",
     "tweakeroo.gui.button.config_gui.lists": "Lists",
     "tweakeroo.gui.button.config_gui.placement": "Placement stuff",
     "tweakeroo.gui.button.config_gui.tweak_hotkeys": "Tweak Hotkeys",
@@ -13,7 +13,7 @@
     "tweakeroo.gui.button.misc.command_block.update_execution.off": "Loops: §cOFF",
     "tweakeroo.gui.button.misc.command_block.update_execution.looping": "Looping",
     "tweakeroo.gui.button.misc.command_block.hover.update_execution": "Whether or not multiple triggers per game tick are allowed",
-    "tweakeroo.gui.title.configs": "Tweakeroo Configs",
+    "tweakeroo.gui.title.configs": "Tweakeroo Configs - %s",
     "tweakeroo.hotkeys.category.disable_toggle_hotkeys": "Disable Toggle Hotkeys",
     "tweakeroo.hotkeys.category.generic_hotkeys": "Generic hotkeys",
     "tweakeroo.hotkeys.category.tweak_toggle_hotkeys": "Tweak toggle hotkeys",
@@ -434,5 +434,10 @@
     "When enabled, the attacks and use actions\n(ie. left and right clicks) in Free Camera mode are\nlet through to the actual player.": "When enabled, the attacks and use actions\n(ie. left and right clicks) in Free Camera mode are\nlet through to the actual player.",
     "Enables the slot sync workaround at all times when the use key\nis held, not only when using fast right click or fast block placement.\nThis is mainly for other mods that may quickly use items when\nholding down use, such as Litematica's Easy Place mode.": "Enables the slot sync workaround at all times when the use key\nis held, not only when using fast right click or fast block placement.\nThis is mainly for other mods that may quickly use items when\nholding down use, such as Litematica's Easy Place mode.",
     "If enabled, then the mouse sensitivity is reduced\nwhile the zoom feature is enabled and the zoom key is active": "If enabled, then the mouse sensitivity is reduced\nwhile the zoom feature is enabled and the zoom key is active",
-    "Swaps the currently equipped item in the chest slot between an Elytra and a Chest Plate": "Swaps the currently equipped item in the chest slot between an Elytra and a Chest Plate"
+    "Swaps the currently equipped item in the chest slot between an Elytra and a Chest Plate": "Swaps the currently equipped item in the chest slot between an Elytra and a Chest Plate",
+    "tweakeroo.gui.button.config_gui.disables": "Yeets",
+    "tweakeroo.gui.button.config_gui.tweaks": "Tweaks",
+    "tweakeroo.message.death_coordinates": "§6You died§r @ [§b%d, %d, %d§r] in §a%s",
+    "tweakeroo.message.warning.block_type_break_restriction": "§6Block breaking prevented by Block Type Break Restriction tweak",
+    "tweakeroo.message.warning.entity_type_attack_restriction": "§6Entity attack prevented by Entity Type Attack Restriction tweak"
 }
