@@ -1,0 +1,16 @@
+{
+  "name": "Eggs",
+  "icon": "crockpot:food_category_egg",
+  "category": "crockpot:food_categories",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Different Egg ingredients have different eggs values."
+    },
+    {
+      "type": "crockpot:food_values",
+      "category": "EGG"
+    }
+  ]
+}
