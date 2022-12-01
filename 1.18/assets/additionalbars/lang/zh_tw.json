@@ -1,5 +1,5 @@
 {
-    "__author": "Marko Dujović (Gamma1772)",
+    "__author": "Marko Dujović (CodenameRevy)",
     "__link": "https://github.com/gamma1772",
     "block.additionalbars.gold_bars": "Gold Bars",
     "block.additionalbars.acacia_bars": "Acacia Bars",
@@ -124,5 +124,11 @@
     "tooltip.gamma1772.crossed": "Crossed",
     "tooltip.gamma1772.oxidizing": "Oxidizing",
     "tooltip.gamma1772.waxed": "Waxed",
-    "tooltip.gamma1772.nether": "Nether"
+    "tooltip.gamma1772.nether": "Nether",
+    "itemGroup.additionalbars.additionalbars": "Additional Bars",
+    "itemGroup.additionalbars.horizontaladditionalbars": "Additional Bars (Horizontal)",
+    "tooltip.gamma1772.wood": "Wood",
+    "tooltip.gamma1772.metal": "Metal",
+    "tooltip.gamma1772.crystal": "Crystal",
+    "tooltip.gamma1772.brick": "Brick"
 }
