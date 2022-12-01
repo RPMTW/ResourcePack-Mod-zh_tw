@@ -1501,5 +1501,16 @@
     "book.occultism.dictionary_of_spirits.summoning_rituals.summon_cleaner.book_of_calling.text": "If you lose the book of calling, you can craft a new one.\n[#](ad03fc)Shift-right-click[#]() the spirit with the crafted book to assign it.\n",
     "book.occultism.dictionary_of_spirits.summoning_rituals.summon_lumberjack.book_of_calling.text": "If you lose the book of calling, you can craft a new one.\n[#](ad03fc)Shift-right-click[#]() the spirit with the crafted book to assign it.\n",
     "book.occultism.dictionary_of_spirits.summoning_rituals.summon_manage_machine.book_of_calling.text": "If you lose the book of calling, you can craft a new one.\n[#](ad03fc)Shift-right-click[#]() the spirit with the crafted book to assign it.\n",
-    "book.occultism.dictionary_of_spirits.summoning_rituals.summon_transport_items.book_of_calling.text": "If you lose the book of calling, you can craft a new one.\n[#](ad03fc)Shift-right-click[#]() the spirit with the crafted book to assign it.\n"
+    "book.occultism.dictionary_of_spirits.summoning_rituals.summon_transport_items.book_of_calling.text": "If you lose the book of calling, you can craft a new one.\n[#](ad03fc)Shift-right-click[#]() the spirit with the crafted book to assign it.\n",
+    "book.occultism.dictionary_of_spirits.getting_started.candle.description": "Let there be light!",
+    "book.occultism.dictionary_of_spirits.getting_started.candle.intro.text": "Candles provide stability to rituals and are an important part of almost all pentacles.\n**Candles also act like bookshelves for enchantment purposes.**\n\\\n\\\nCandles from Minecraft and other Mods may be used in place of Occultism candles.\n",
+    "book.occultism.dictionary_of_spirits.getting_started.candle.name": "Candles",
+    "book.occultism.dictionary_of_spirits.getting_started.candle.tallow.text": "Key ingredient for candles. Kill large animals like pigs, cows or sheep with a [](item://occultism:butcher_knife)\nto harvest [](item://occultism:tallow).\n",
+    "book.occultism.dictionary_of_spirits.getting_started.first_ritual.pentacle_link_hint.text": "Ritual recipe pages, such as the previous pageshow not only the ingredients, but also the pentacle that you need to draw with chalk in order to use the ritual.\n\\\n\\\n**To show the pentacle, click the blue link** at the center top of the ritual page. You can then even preview it in-world.\n",
+    "book.occultism.dictionary_of_spirits.getting_started.first_ritual.pentacle_link_hint.title": "A Note about Ritual Recipes",
+    "book.occultism.dictionary_of_spirits.summoning_rituals.summon_cleaner.tip.text": "The Janitor will pick up crushed items from a [Crusher spirit](entry://summoning_rituals/summon_crusher_t1) and deposit them into a chest.\n\\\n\\\nCombine that with a [Transporter Spirit](entry://summoning_rituals/summon_transport_items) to automate the whole process.\n",
+    "book.occultism.dictionary_of_spirits.summoning_rituals.summon_cleaner.tip.title": "Pro tip",
+    "book.occultism.dictionary_of_spirits.summoning_rituals.summon_crusher_t1.automation.title": "Automation",
+    "book.occultism.dictionary_of_spirits.summoning_rituals.summon_transport_items.spirit_inventories.text": "The Transporter can also interact with the inventories of other spirits. This is especially useful to automatically supply a [Crusher spirit](entry://summoning_rituals/summon_crusher_t1) with items to crush.\n",
+    "book.occultism.dictionary_of_spirits.summoning_rituals.summon_transport_items.spirit_inventories.title": "Spirit Inventories"
 }
