@@ -96,7 +96,7 @@
     "sodium-extra.option.overlay_corner.top_right": "右上方",
     "sodium-extra.option.show_fps_extended": "顯示詳細 FPS",
     "sodium-extra.option.show_fps_extended.tooltip": "Displays in additional information (max, average, and min FPS) alongside current FPS on the overlay.",
-    "sodium-extra.overlay.fps_extended": " FPS (最高. %s / 平均. %s / 最小. %s)",
+    "sodium-extra.overlay.fps_extended": "（最高 %s / 平均 %s / 最小 %s）",
     "sodium-extra.option.rain_snow.tooltip": "If enabled, rain & snow are rendered.",
     "sodium-extra.option.sky": "天空",
     "sodium-extra.option.sky.tooltip": "如果啟用，則渲染天空。",
