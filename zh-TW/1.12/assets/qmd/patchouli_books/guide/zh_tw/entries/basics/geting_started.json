@@ -24,16 +24,16 @@
 		{
 			"type": "text",
 			"title": "Using Particles",
-			"text": "So why are we even manipulating particles? Well they can be used to make things like transmute elements, create new elements and create exotic forms of matter. This is where Particle Chambers and Vacuum Chambers come in."
+			"text": "那麼我們為什麼還要操縱粒子呢？好吧，它們可以用來製造諸如轉化元素、創造新元素和創造奇異物質形式之類的東西。這就是粒子室和真空室的用武之地。"
 		},
 		{
 			"type": "text",
-			"title": "Particle Chambers",
+			"title": "粒子室",
 			"text": "The most common $(l:multiblocks/particle_chambers/general)particle chamber$(/l) is the $(l:multiblocks/particle_chambers/target_chamber)Target Chamber$(/l) which can transmute or irradiate items with particles. There is also $(l:multiblocks/particle_chambers/decay_chamber)Decay Chambers$(/l) and $(l:multiblocks/particle_chambers/collision_chamber)Collision Chambers$(/l) that change particles into other types of particles. Finally there are $(l:multiblocks/particle_chambers/beam_dump)Beam Dumps$(/l) where particles are collected into fluids."
 		},
 		{
 			"type": "text",
-			"title": "Vacuum Chambers",
+			"title": "真空室",
 			"text": "$(l:multiblocks/vacuum_chambers/general)Vacuum chambers$(/l) are advanced multiblock machines that use particles. The $(l:multiblocks/vacuum_chambers/exotic_containment_chamber)Exotic Containment Chamber$(/l) makes and stores exotic forms of matter like antimatter. These forms of matter can be used in a variety of weapons and tools. There is also the $(l:multiblocks/vacuum_chambers/nucleosynthesis_chamber)Nucleosynthesis Chamber$(/l) which can turn simpler lighter elements into more complex heavier ones. It is even possible to extract energy form some of these processes."
 		},
 		{
