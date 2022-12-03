@@ -1,10 +1,10 @@
 {
     "tile.bedrockores.bedrock_miner.name": "基岩礦採掘機",
     "tile.bedrockores.bedrock_ore.name": "基岩礦",
-    "commands.bedrockores.usage": "Master command for all commands in the Bedrock Ores mod. Use tab-completion to explore sub-commands.",
+    "commands.bedrockores.usage": "這是基岩礦模組所有子指令的主指令。使用 Tab 自動補齊來瀏覽所有可用子指令。",
     "commands.bedrockores.wrap.usage": "使用此指令可將十字準心正對著的礦轉化成基岩礦。可指定儲量。",
     "commands.bedrockores.unwrap.usage": "使用此指令可將十字準心正對著的基岩礦轉化成對應的普通礦。",
-    "commands.bedrockores.list": "§aAll ores we may embed in bedrock:",
+    "commands.bedrockores.list": "§a以下礦物可能會出現在基岩中：",
     "commands.bedrockores.list_item": "§7 - §f%s",
     "commands.bedrockores.list_item_percent": "§7 - §f%s（%s%%）",
     "commands.bedrockores.list_empty": "§7 - §c沒有找到礦",
