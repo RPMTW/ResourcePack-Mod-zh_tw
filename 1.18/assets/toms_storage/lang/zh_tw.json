@@ -91,5 +91,8 @@
     "tomsstorage.config.adv_wireless_beacon_lvl_dim": "Adv Wireless terminal requied beacon level for cross dimensional access\nValue of 0 only requires a single beacon block nearby",
     "tomsstorage.config.inv_link_beacon_lvl": "Advanced wireless terminal requied beacon level for infinite range",
     "tomsstorage.config.inv_link_beacon_lvl_dim": "Advanced wireless terminal requied beacon level for infinite range",
-    "tomsstorage.config.inv_dup_scan_size": "Inventory Connector duplicate finder max slot count"
+    "tomsstorage.config.inv_dup_scan_size": "Inventory Connector duplicate finder max slot count",
+    "tooltip.toms_storage.adv_wireless_terminal.keybind": "Press the %s key to open",
+    "tooltip.toms_storage.adv_wireless_terminal.keybind.outline": "[%s]",
+    "key.toms_storage.open_terminal": "[Tom's Simple Storage] Open Terminal"
 }

@@ -986,5 +986,18 @@
     "ae2.rei_jei_integration.move_items": "Move items",
     "ae2.rei_jei_integration.quartz_buds_grow_on_budding_quartz": "Quartz buds grow on budding quartz.",
     "ae2.rei_jei_integration.silk_touch_causes_less_decay": "Silk touch causes less decay",
-    "ae2.rei_jei_integration.spatial_io_causes_none": "Spatial I/O causes none"
+    "ae2.rei_jei_integration.spatial_io_causes_none": "Spatial I/O causes none",
+    "config.jade.plugin_ae2.pattern_provider": "AE2 Pattern Provider",
+    "gui.ae2.CraftingLockIsLocked": "Crafting is locked",
+    "gui.ae2.CraftingLockIsUnlocked": "Crafting is unlocked",
+    "gui.tooltips.ae2.LockCraftingMode": "Lock Crafting",
+    "gui.tooltips.ae2.LockCraftingModeNone": "Never",
+    "gui.tooltips.ae2.LockCraftingUntilRedstonePulse": "Until redstone pulse is received",
+    "gui.tooltips.ae2.LockCraftingUntilResultReturned": "Until primary crafting result is returned",
+    "gui.tooltips.ae2.LockCraftingWhileRedstoneHigh": "With redstone signal",
+    "gui.tooltips.ae2.LockCraftingWhileRedstoneLow": "Without redstone signal",
+    "waila.ae2.CraftingLockedByLackOfRedstoneSignal": "Locked by lack of redstone signal",
+    "waila.ae2.CraftingLockedByRedstoneSignal": "Locked by redstone signal",
+    "waila.ae2.CraftingLockedUntilPulse": "Waiting for redstone pulse to unlock",
+    "waila.ae2.CraftingLockedUntilResult": "Waiting for %s (%d) to unlock"
 }

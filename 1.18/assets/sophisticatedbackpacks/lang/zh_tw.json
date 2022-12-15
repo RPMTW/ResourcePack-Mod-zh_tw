@@ -32,7 +32,7 @@
     "item.sophisticatedbackpacks.magnet_upgrade.tooltip": "Magnets items into backpack at range",
     "item.sophisticatedbackpacks.advanced_magnet_upgrade": "Advanced Magnet Upgrade",
     "item.sophisticatedbackpacks.advanced_magnet_upgrade.tooltip": "Magnets items into backpack at a greater range\nHas more filtering options",
-    "item.sophisticatedbackpacks.feeding_upgrade": "Feeding upgrade",
+    "item.sophisticatedbackpacks.feeding_upgrade": "Feeding Upgrade",
     "item.sophisticatedbackpacks.feeding_upgrade.tooltip": "Feeds player with food from backpack's inventory",
     "item.sophisticatedbackpacks.advanced_feeding_upgrade": "Advanced Feeding upgrade",
     "item.sophisticatedbackpacks.advanced_feeding_upgrade.tooltip": "Feeds player with food from backpack's inventory\nMore options for when food gets fed to player",
@@ -339,5 +339,18 @@
     "gui.sophisticatedbackpacks.settings.buttons.another_player_can_open.on": "Another player can open",
     "gui.sophisticatedbackpacks.settings.buttons.another_player_can_open.on.tooltip": "When this backpack is worn and visible another player can open it when right clicking on this player's back",
     "gui.sophisticatedbackpacks.settings.buttons.another_player_can_open.off": "Another player can NOT open",
-    "gui.sophisticatedbackpacks.settings.buttons.another_player_can_open.off.tooltip": "Backpack can not be open by another player when right clicking on this player's back even if the backpack is worn there"
+    "gui.sophisticatedbackpacks.settings.buttons.another_player_can_open.off.tooltip": "Backpack can not be open by another player when right clicking on this player's back even if the backpack is worn there",
+    "item.sophisticatedbackpacks.advanced_refill_upgrade": "Advanced Refill Upgrade",
+    "item.sophisticatedbackpacks.advanced_refill_upgrade.tooltip": "Keeps refilling stack of selected items in player's inventory\nAllows for more precise target slot selection",
+    "gui.sophisticatedbackpacks.upgrades.advanced_refill": "Adv. Refill",
+    "gui.sophisticatedbackpacks.upgrades.advanced_refill.tooltip": "Advanced Refill Settings",
+    "gui.sophisticatedbackpacks.upgrades.refill.target_slot.tooltip": "Refill %s",
+    "gui.sophisticatedbackpacks.upgrades.refill.target_slot.any": "A",
+    "gui.sophisticatedbackpacks.upgrades.refill.target_slot.any.tooltip": "Any slot",
+    "gui.sophisticatedbackpacks.upgrades.refill.target_slot.main_hand": "M",
+    "gui.sophisticatedbackpacks.upgrades.refill.target_slot.main_hand.tooltip": "Main hand",
+    "gui.sophisticatedbackpacks.upgrades.refill.target_slot.off_hand": "O",
+    "gui.sophisticatedbackpacks.upgrades.refill.target_slot.off_hand.tooltip": "Off hand",
+    "gui.sophisticatedbackpacks.upgrades.refill.target_slot.hotbar.tooltip": "Hotbar slot %s",
+    "gui.sophisticatedbackpacks.upgrades.refill.scroll.tooltip": "Scroll to change target slot"
 }
