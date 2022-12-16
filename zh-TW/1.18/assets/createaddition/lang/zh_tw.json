@@ -211,5 +211,13 @@
     "fluid.createaddition.seed_oil": "Seed Oil",
     "fluid.createaddition.bioethanol": "Bioethanol",
     "create.recipe.rolling": "Rolling",
-    "create.recipe.charging": "Charging"
+    "create.recipe.charging": "Charging",
+    "createaddition.recipe.liquid_burning": "Liquid Burning",
+    "item.createaddition.straw": "Straw",
+    "fluid.seed_oil": "Seed Oil",
+    "fluid.bioethanol": "Bioethanol",
+    "createaddition.ponder.liquid_blaze_burner.header": "Liquid Fuel Burning",
+    "createaddition.ponder.liquid_blaze_burner.text_1": "Giving the Blaze Burner a Straw",
+    "createaddition.ponder.liquid_blaze_burner.text_2": "will allow it to accept liquid fuels by Buckets",
+    "createaddition.ponder.liquid_blaze_burner.text_3": "- or by pipes."
 }
