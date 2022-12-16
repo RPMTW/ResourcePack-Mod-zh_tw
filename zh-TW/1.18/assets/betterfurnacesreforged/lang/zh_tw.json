@@ -105,5 +105,6 @@
     "tooltip.betterfurnacesreforged.upgrade.smoking": "Changes furnace type to smoker",
     "tooltip.betterfurnacesreforged.upgrade.blasting": "Changes furnace type to blast furnace",
     "tooltip.betterfurnacesreforged.upgrade_right_click": "Right-click to insert upgrade",
-    "tooltip.betterfurnacesreforged.upgrade_shift_right_click": "Right-click holding shift to insert tier upgrade"
+    "tooltip.betterfurnacesreforged.upgrade_shift_right_click": "Right-click holding shift to insert tier upgrade",
+    "tooltip.betterfurnacesreforged.upgrade.disabled": "There is currently no mods configured that supports this upgrade."
 }
