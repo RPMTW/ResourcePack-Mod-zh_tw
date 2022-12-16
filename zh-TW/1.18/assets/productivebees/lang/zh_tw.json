@@ -807,5 +807,16 @@
     "productivebees.information.upgrade.upgrade_simulator": "Bees will no longer physically exit the hive. A trip to its flower block will instead be simulated.\nMake sure to put the required flower block or a feeding slab in front of the hive containing the required flower blocks for the bee in the hive.",
     "productivebees.ingredient.description.redstone_bee": "Escape artist.",
     "productivebees.ingredient.description.wasted_radioactive_bee": "Radioactive bees dying to radiation has a chance to turn into wasted radioactive bees. Wasted radioactive bees don't pollinate on any flower, instead they absorb radiation from their surroundings.",
-    "productivebees.ingredient.description.soul_transformation": "%s\n\nAlternatively there's a soul transformation recipe. Check the uses of the Suol Pedestal to see it."
+    "productivebees.ingredient.description.soul_transformation": "%s\n\nAlternatively there's a soul transformation recipe. Check the uses of the Suol Pedestal to see it.",
+    "entity.productivebees.amethyst_bronze_bee": "Amethyst Bronze Bee",
+    "entity.productivebees.awakened_supremium_bee": "Awakened Supremium Bee",
+    "entity.productivebees.dark_gem_bee": "Dark Gem Bee",
+    "entity.productivebees.iesnium_bee": "Iesnium Bee",
+    "entity.productivebees.inert_crystal_bee": "Inert Crystal Bee",
+    "entity.productivebees.air_crystal_bee": "Air Crystal Bee",
+    "entity.productivebees.earth_crystal_bee": "Earth Crystal Bee",
+    "entity.productivebees.fire_crystal_bee": "Fire Crystal Bee",
+    "entity.productivebees.water_crystal_bee": "Water Crystal Bee",
+    "entity.productivebees.spirit_bee": "Spirit Bee",
+    "productivebees.top.jar.bee": "%s"
 }
