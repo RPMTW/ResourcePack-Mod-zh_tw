@@ -379,5 +379,20 @@
     "config.roughlyenoughitems.filtering.filteringQuickCraftCategories.configure.title": "配置快速合成類別",
     "config.roughlyenoughitems.filtering.filteringQuickCraftCategories.configure.toggle": "切換",
     "config.roughlyenoughitems.filtering.filteringQuickCraftCategories.configure.true": "可用於快速合成",
-    "config.roughlyenoughitems.filtering.filteringQuickCraftCategories.configure.false": "從快速合成中排除"
+    "config.roughlyenoughitems.filtering.filteringQuickCraftCategories.configure.false": "從快速合成中排除",
+    "text.rei.input.methods.reload.progress": "Progress: %s%%",
+    "text.rei.input.methods.pinyin.fuzzy.matching": "Fuzzy Matching...",
+    "text.rei.input.methods.pinyin.double": "Double Pinyin (Mandarin)",
+    "text.rei.input.methods.pinyin.double.description": "The input method for matching Chinese characters with Double Pinyin (Mandarin).",
+    "text.rei.input.methods.pinyin.double.scheme": "Double Pinyin Scheme...",
+    "text.rei.input.methods.pinyin.double.scheme.sougou": "SouGou",
+    "text.rei.input.methods.pinyin.double.scheme.microsoft": "Microsoft",
+    "text.rei.input.methods.pinyin.double.scheme.pinyinpp": "Pinyin++",
+    "text.rei.input.methods.pinyin.double.scheme.xiaohe": "XiaoHe",
+    "text.rei.input.methods.pinyin.double.scheme.natural": "Natural",
+    "text.rei.input.methods.tooltip.hints": "Display Tooltip Hints",
+    "text.rei.hint.input.methods": "Congratulations on setting up an input method!\nYou may re-configure this with the Search Filter Button!",
+    "text.rei.hint.favorites.discover": "You just removed a favorite entry!\nYou can add it back by clicking the + button over here!",
+    "text.rei.hint.configure": "Configure",
+    "text.rei.hint.ignore": "Ignore"
 }
