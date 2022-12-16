@@ -1,4 +1,6 @@
 {
     "gamerule.petFriendlyFire": "寵物誤傷",
-    "gamerule.petFriendlyFire.description": "寵物誤傷。 由 Companion mod 添加"
+    "gamerule.petFriendlyFire.description": "Pet friendly fire. (by Companion mod)",
+    "gamerule.companion:alwaysTeleportHorses": "Always teleport horse",
+    "gamerule.companion:alwaysTeleportHorses.description": "Always teleports your horses if they are too far from you. (by Companion mod)"
 }
