@@ -1443,7 +1443,7 @@
     "block.cyclic.dropper.guide": "Drops blocks from its internal buffer at a configurable stack size, distance, and delay.",
     "cyclic.dropper.delay": "投擲延遲",
     "cyclic.dropper.offset": "Offset",
-    "cyclic.dropper.count": "Count",
+    "cyclic.dropper.count": "投擲數量",
     "cable.block.toggled.false": "Restored cable connection",
     "cable.block.toggled.true": "Blocked cable connection",
     "block.cyclic.battery": "電池",
