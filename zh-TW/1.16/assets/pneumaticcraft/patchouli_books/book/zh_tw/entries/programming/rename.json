@@ -11,7 +11,7 @@
     {
       "type": "text",
       "title": "Variables",
-      "text": "同樣可以通過在$(thing)文字/$拼圖中輸入$(thing)${<變數名>}/$插入一個$(l:programming/variables)變數/$的值，例如：$(p)  若 $9thing)counter/$ 變數的值被設定為 x=1, y=2, z=3，$(formula)計數：${counter}/$$(p)將被展開為$(thing)計數：1, 2, 3/$。$(l:programming/variables#special)特定/$和$(l:programming/variables#global)全局變數/$同樣可以在此處使用。"
+      "text": "同樣可以通過在$(thing)文字/$拼圖中輸入$(thing)${<變數名>}/$插入一個$(l:programming/variables)變數/$的值，例如：$(p)  若 $9thing)counter/$ 變數的值被設定為 x=1, y=2, z=3，$(formula)計數：${counter}/$$(p)將被展開為$(thing)計數：1, 2, 3/$。$(l:programming/variables#special)特定/$和$(l:programming/variables#global)全域變數/$同樣可以在此處使用。"
     },
     {
       "type": "image",
