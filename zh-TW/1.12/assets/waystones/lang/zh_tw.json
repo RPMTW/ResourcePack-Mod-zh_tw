@@ -14,7 +14,7 @@
     "waystones:activatedWaystone": "啟動的傳送石碑：%s",
     "waystones:nameOccupied": "名稱 %s 已被使用。",
     "waystones:notTheOwner": "傳送石碑只能由放置它的人重新命名。",
-    "waystones:creativeRequired": "你必須在創造模式下編輯一個全局傳送石碑。",
+    "waystones:creativeRequired": "你必須在創造模式下編輯一個全域傳送石碑。",
     "waystones:scrollBound": "卷軸綁定：%s",
     "gui.waystones:current_location": "目前位置：",
     "gui.waystones:warpStone.selectDestination": "選擇你的目的地:",
@@ -24,7 +24,7 @@
     "gui.waystones:confirmReturn.boundTo": "綁定至：%s",
     "gui.waystones:confirmReturn.noWaystoneActive": "沒有傳送石碑被啟動。",
     "gui.waystones:editWaystone.enterName": "輸入傳送石碑名稱：",
-    "gui.waystones:editWaystone.isGlobal": "是全局的",
+    "gui.waystones:editWaystone.isGlobal": "是全域的",
     "tooltip.waystones:cooldownLeft": "冷卻時間：%d 秒",
     "tooltip.waystones:boundTo": "綁定至：%s",
     "tooltip.waystones:none": "無",
@@ -32,6 +32,6 @@
     "tooltip.waystones:openWaystoneMenu": "打開傳送石碑選單",
     "tooltip.waystones:levelRequirement": "需要等級：%d",
     "stat.waystones:waystonesActivated": "傳送石碑已啟用\n",
-    "waystones.general.globalinterdimension": "跨維度傳送（全局傳送石碑）",
+    "waystones.general.globalinterdimension": "跨維度傳送（全域傳送石碑）",
     "waystones.worldgen.customnames": "自訂名稱"
 }
