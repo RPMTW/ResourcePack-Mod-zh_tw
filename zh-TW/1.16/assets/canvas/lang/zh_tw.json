@@ -89,7 +89,7 @@
   "config.canvas.value.shader_debug": "啓用著色器調試輸出",
   "config.canvas.help.shader_debug": "輸出運行時每個材料著色器源。;用於著色器開發調試。",
   "config.canvas.value.shader_debug_lightmap": "渲染調試燈具",
-  "config.canvas.help.shader_debug_lightmap": "顯示高清光照地圖像素；用於調試目的。看起來也很酷。",
+  "config.canvas.help.shader_debug_lightmap": "顯示高清光照地圖片素；用於調試目的。看起來也很酷。",
   "config.canvas.value.concise_errors": "簡明錯誤日志",
   "config.canvas.help.concise_errors": "總結多個錯誤和;單行警告;日誌中的項目。",
   "config.canvas.value.log_machine_info": "機器訊息日誌",
