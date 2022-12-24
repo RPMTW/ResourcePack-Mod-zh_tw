@@ -383,9 +383,9 @@ replaymod.gui.rendersettings.presets=編碼預設
 replaymod.gui.rendersettings.renderer.blend=建模輸出[實驗]
 
 replaymod.gui.rendersettings.customresolution=錄像分辨率 Fastest Rendering Option. 最快的渲染選項
-replaymod.gui.rendersettings.renderer.stereoscopic.description=使用不同的3D技術，將影片渲染成一個立體的（並排）3D電影。每隻眼睛能看到的圖像是影片寬度的一半 The image for one eye is half the width of the video 一隻眼睛的圖像是影片寬度的一半 一隻眼睛的圖像是影片寬度的一半 一隻眼睛的圖像是影片寬度的一半
+replaymod.gui.rendersettings.renderer.stereoscopic.description=使用不同的3D技術，將影片渲染成一個立體的（並排）3D電影。每隻眼睛能看到的圖片是影片寬度的一半 The image for one eye is half the width of the video 一隻眼睛的圖片是影片寬度的一半 一隻眼睛的圖片是影片寬度的一半 一隻眼睛的圖片是影片寬度的一半
 replaymod.gui.rendersettings.renderer.equirectangular.description=用 360 度全景圖渲染影片，採用圓柱式投影，這是 YouTube 新的 360 度影片功能，由 360 度影片播放器（Oculus Rift）所播放，例如 VR Player。replaymod.gui.rendersettings.renderer.cubic.description=用 360 度全景圖渲染影片，這是由 360 度影片播放器（Oculus Rift）所播放，例如 VR Player。replaymod.gui.rendersettings.renderer.ods.description=用 3D 360 度全景圖渲染影片，俗稱 VR 影片。採用圓柱式投影，這是 YouTube 新的 VR 影片功能。This is usable by YouTube's new 360 degree video function, and several video players (and the Oculus Rift), for example VR Player. 使用立體 3D 360 度全景視圖渲染影片，也稱為 VR 影片。這可用於 YouTube 的新 VR 影片功能。
-使用立體 3D 360 度全景視圖渲染影片，也稱為 VR 影片。這可用於 YouTube 的新 VR 影片功能。 replaymod.gui.advancedscreenshots.finished.description.360=你成功建立了一張 360度 截圖！這可用於 YouTube 的新 360 度視頻功能和多個影片播放器（和 Oculus Rift），例如 VR 播放器。這可用於 YouTube 的新 360 度視頻功能和多個影片播放器（和 Oculus Rift），例如 VR 播放器。
+使用立體 3D 360 度全景視圖渲染影片，也稱為 VR 影片。這可用於 YouTube 的新 VR 影片功能。 replaymod.gui.advancedscreenshots.finished.description.360=你成功建立了一張 360度 截圖！這可用於 YouTube 的新 360 度影片功能和多個影片播放器（和 Oculus Rift），例如 VR 播放器。這可用於 YouTube 的新 360 度影片功能和多個影片播放器（和 Oculus Rift），例如 VR 播放器。
 使用立體 3D 360 度全景視圖渲染影片，也稱為 VR 影片。 這可用於 YouTube 的新 VR 影片功能。
 replaymod.gui.rendersettings.renderer.blend.description=將模型導出為 .blend 檔案，可以使用 Blender 軟件打開該檔案。高度實驗性：需要大量記憶體，有相當多的已知問題，有時會產生損壞的 Blender 檔案。Highly experimental: Requires lots of RAM, has quite a few known issues and sometimes produces broken Blender files. 高度實驗性：需要大量 RAM ，有很多已知問題，有時會產生損壞的 Blender 文件。
 
@@ -539,6 +539,6 @@ replaymod.gui.pitch=X軸旋轉
 # Screenshot Finished Gui
 replaymod.gui.advancedscreenshots.finished.description.360=你成功創建了 360° 截圖！
 replaymod.gui.advancedscreenshots.finished.description.360=你成功建立了一張 360度 截圖！
-replaymod.gui.advancedscreenshots.finished.description.veer=上傳並在 VeeR.tv 上的 VR 中查看圖像，或者在硬碟上打開它。
+replaymod.gui.advancedscreenshots.finished.description.veer=上傳並在 VeeR.tv 上的 VR 中查看圖片，或者在硬碟上打開它。
 replaymod.gui.yaw=Y軸旋轉
 replaymod.gui.advancedscreenshots.finished.showfile=在硬碟上顯示檔案
