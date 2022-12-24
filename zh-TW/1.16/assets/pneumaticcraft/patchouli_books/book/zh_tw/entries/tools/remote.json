@@ -6,7 +6,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "使用遙控器可以創建一個介面，用於遠端控制$(l:tools/drone)無人機/$或$(l:machines/universal_sensor)萬能感測器/$，以修改$(l:programming/variables#global)全局變數/$的方式。註：與$(item)萬能感測器/$一併使用時，可以通過$(item)遙控器/$實現無線紅石！$(p)要開始創建介面，使用$(item)遙控器/$$(thing)潛行右擊/$以打開編輯介面。"
+      "text": "使用遙控器可以創建一個介面，用於遠端控制$(l:tools/drone)無人機/$或$(l:machines/universal_sensor)萬能感測器/$，以修改$(l:programming/variables#global)全域變數/$的方式。註：與$(item)萬能感測器/$一併使用時，可以通過$(item)遙控器/$實現無線紅石！$(p)要開始創建介面，使用$(item)遙控器/$$(thing)潛行右擊/$以打開編輯介面。"
     },
     {
       "type": "text",
@@ -27,7 +27,7 @@
       "type": "text",
       "title": "標記文字",
       "anchor": "label",
-      "text": "標記文字組件顯示文字與可選的提示文字，用於提供資訊。儘管標記文字不能$(italic)修改/$變數，其可以$(italic)顯示/$變數，使用格式 $(thing)${#全局變數名}/$；這可以用於除錯。$(p)標記文字沒有共有屬性外的其他屬性。"
+      "text": "標記文字組件顯示文字與可選的提示文字，用於提供資訊。儘管標記文字不能$(italic)修改/$變數，其可以$(italic)顯示/$變數，使用格式 $(thing)${#全域變數名}/$；這可以用於除錯。$(p)標記文字沒有共有屬性外的其他屬性。"
     },
     {
       "type": "text",
@@ -47,7 +47,7 @@
     {
       "type": "text",
       "title": "範例",
-      "text": "點擊左側的 $(thing)Pastebin/$ 按鈕，導入$(l:https://pastebin.com/4yxKG5Jc)該範例/$。$(p)其中有三個複選框，分別設定全局變數 $(thing)signal1, signal2 & signal3/$。$(p)然後，放置 3 個$(l:machines/universal_sensor)萬能感測器/$，並提供一定壓力。向其安裝$(l:base_concepts/upgrades#dispenser)發射器升級/$。從每個$(item)感測器/$引出紅石線（隔開一格，使紅石線相互獨立）。"
+      "text": "點擊左側的 $(thing)Pastebin/$ 按鈕，導入$(l:https://pastebin.com/4yxKG5Jc)該範例/$。$(p)其中有三個複選框，分別設定全域變數 $(thing)signal1, signal2 & signal3/$。$(p)然後，放置 3 個$(l:machines/universal_sensor)萬能感測器/$，並提供一定壓力。向其安裝$(l:base_concepts/upgrades#dispenser)發射器升級/$。從每個$(item)感測器/$引出紅石線（隔開一格，使紅石線相互獨立）。"
     },
     {
       "type": "text",
