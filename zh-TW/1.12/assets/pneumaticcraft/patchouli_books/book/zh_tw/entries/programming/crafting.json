@@ -6,7 +6,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "$(l:tools/drone)無人機/$將會使用其攜帶的物品合成物品。要指定合成表，在右側以合成表的形式放置$(l:programming/item_filter)物品過濾器/$。$(p)不需要連接正好 9 個$(thing)物品過濾器/$；只要合成表被構建出來就可行。"
+      "text": "$(l:tools/drone)無人機/$將會使用其攜帶的物品合成物品。要指定合成表，在右側以合成表的形式放置$(l:programming/item_filter)物品過濾器/$。$(p)不需要連接正好 9 個$(thing)物品過濾器/$；只要合成表被建構出來就可行。"
     },
     {
       "type": "text",
