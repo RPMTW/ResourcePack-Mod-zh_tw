@@ -10,7 +10,7 @@
     },
     {
       "type": "text",
-      "text": "$(thing)跳轉/$拼圖可以用於合併程序流中的多個$(italic)分支/$（使用多個跳轉到同一$(l:programming/label)標籤/$的跳轉拼圖）或者僅僅透過將各部分拆分為「子例程」的方式整理拼圖。小竅門：勾選$(l:programming/programmer)編程器/$介面的左下角的$(bold)顯示程序流/$；其將把有同一標籤名的$(thing)跳轉/條件/標籤/$連接起來。"
+      "text": "$(thing)跳轉/$拼圖可以用於合併程序流中的多個$(italic)分支/$（使用多個跳轉到同一$(l:programming/label)標籤/$的跳轉拼圖）或者僅僅透過將各部分拆分為「子例程」的方式整理拼圖。小竅門：勾選$(l:programming/programmer)程式器/$介面的左下角的$(bold)顯示程序流/$；其將把有同一標籤名的$(thing)跳轉/條件/標籤/$連接起來。"
     },
     {
       "type": "image",
