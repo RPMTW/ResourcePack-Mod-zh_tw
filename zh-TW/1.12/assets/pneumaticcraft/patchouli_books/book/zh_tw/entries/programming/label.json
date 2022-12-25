@@ -10,7 +10,7 @@
     },
     {
       "type": "text",
-      "text": "$(thing)標籤/$可以用於在程序流中創建$(italic)分支/$（當使用$(l:programming/conditions)條件/$時），或者僅僅透過拆分拼圖的方式整理拼圖。小竅門：勾選$(l:programming/programmer)編程器/$介面的左下角的$(bold)顯示程序流/$；其將把有同一標籤名的$(thing)跳轉/條件/標籤/$連接起來。"
+      "text": "$(thing)標籤/$可以用於在程序流中創建$(italic)分支/$（當使用$(l:programming/conditions)條件/$時），或者僅僅透過拆分拼圖的方式整理拼圖。小竅門：勾選$(l:programming/programmer)程式器/$介面的左下角的$(bold)顯示程序流/$；其將把有同一標籤名的$(thing)跳轉/條件/標籤/$連接起來。"
     },
     {
       "type": "image",
