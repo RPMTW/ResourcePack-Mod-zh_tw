@@ -75,7 +75,7 @@
     "config.advancednetherite.client.show_tooltips": "如果使用的地方正確，會顯示工具提示，由Advanced Netherite提供",
     "config.advancednetherite.client.matching_durability_bars": "如果為 true，則在損壞時在物品下方顯示（顏色）耐久度條。",
     "config.advancednetherite.client.enable_search_bar": "如果為 true，則在 Advanced Netherite 創意選項卡中啟用搜索欄。",
-    "config.advancednetherite.client.force_disable_dab_support": "如果為 true，則強制禁用對 Detail Armor Bar mod 的支持。 需要重新開始遊戲。",
+    "config.advancednetherite.client.force_disable_dab_support": "如果為 true，則強制停用對 Detail Armor Bar mod 的支持。 需要重新開始遊戲。",
     "config.advancednetherite.screen.description.top": "安裝%s模組，即可在遊戲中編輯%s新增的設定",
     "config.advancednetherite.screen.description.bottom": "查看維基百科的介紹",
     "config.advancednetherite.screen.button.install_configured": "安裝 %s",
