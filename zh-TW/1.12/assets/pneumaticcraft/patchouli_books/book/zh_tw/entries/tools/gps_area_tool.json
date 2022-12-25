@@ -10,7 +10,7 @@
     },
     {
       "type": "text",
-      "text": "像更為基礎的$(l:gps_tool#variables)定位工具/$一樣，$(item)區域定位工具/$支持$(l:programming/variables#global)全域變數/$。$(p)在$(l:programming/programmer)編程器/$中，使用$(item)區域定位工具/$$(thing)左擊/$空白的程式區域以創建$(l:programming/area)區域/$拼圖，$(thing)左擊/$已有的$(l:programming/area)區域/$拼圖以將其覆蓋。"
+      "text": "像更為基礎的$(l:gps_tool#variables)定位工具/$一樣，$(item)區域定位工具/$支持$(l:programming/variables#global)全域變數/$。$(p)在$(l:programming/programmer)程式器/$中，使用$(item)區域定位工具/$$(thing)左擊/$空白的程式區域以創建$(l:programming/area)區域/$拼圖，$(thing)左擊/$已有的$(l:programming/area)區域/$拼圖以將其覆蓋。"
     },
     {
       "type": "crafting",
