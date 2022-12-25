@@ -41,7 +41,7 @@
     "commands.bonsaitrees.checkCompatibility.exception.specify_tree_or_soil": "指定樹或者土壤，比如：/bonsaitrees checkCompatibility minecraft:oak",
     "commands.bonsaitrees.checkCompatibility.exception.no_valid_soil_or_tree_found": "找不到與該名稱匹配的樹或土壤。使用 /bonsaitrees listTrees 或 /bonsaitrees listSoils",
     "tooltip.bonsaitrees.autoexport": "自動將掉落物導出到下方物品欄。",
-    "tooltip.bonsaitrees.use_jei_for_compatible_sapling": "請使用JEI查找相容種植的土壤，樹苗以及其掉率。",
+    "tooltip.bonsaitrees.use_jei_for_compatible_sapling": "請使用JEI尋找相容種植的土壤，樹苗以及其掉率。",
     "tooltip.bonsaitrees.hold_shift_hint": "按住 Shift 鍵以查看詳細資訊",
     "tooltip.bonsaitrees.warn_hopping_pots_disabled": "在設定中功能被停用！",
     "hint.bonsaitrees.incompatible_soil": "這棵樹需要另一種土壤。",
