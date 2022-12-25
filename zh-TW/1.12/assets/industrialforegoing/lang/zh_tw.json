@@ -109,7 +109,7 @@
     "text.industrialforegoing.book.biofuel_generator": "使用生物燃料產生能量。【一桶】生物燃料將以 160RF/t 的功率產生共【640,000】RF 能量。1 台【生物反應器】可維持大約【28】台該種發電機的產能。",
     "text.industrialforegoing.book.bioreactor": "提供【能量】和【生物質材料】即可產出【生物燃油】。@L@@L@每種不同的物品將提高【10】mB 的提取效率，當達到最大效率時，每次反應將會產生【1440】mB 的生物燃油並消耗【9】種不同的生物質材料。",
     "text.industrialforegoing.book.black_hole_controller": "不推薦使用黑洞儲存控制器 v2.0",
-    "text.industrialforegoing.book.black_hole_controller_reworked": "這個機器內可以放置12個{黑洞儲存器}和{黑洞儲液罐}並訪問內部儲存的物品。",
+    "text.industrialforegoing.book.black_hole_controller_reworked": "這個機器內可以放置12個{黑洞儲存器}和{黑洞儲液罐}並存取內部儲存的物品。",
     "text.industrialforegoing.book.black_hole_tank": "它可以儲存【2,147,483,647】mB 的同種流體。",
     "text.industrialforegoing.book.black_hole_unit": "它可以儲存【2,147,483,647】個同種物品。",
     "text.industrialforegoing.book.block_destroyer": "提供能量後，它會【破壞】前方的任意方塊，並將其快取至內部。",
