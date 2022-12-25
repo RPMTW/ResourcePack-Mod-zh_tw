@@ -44,7 +44,7 @@
     "gui.netvistool.cfg.enable_machine_nodes": "顯示機器節點",
     "gui.netvistool.cfg.enable_machine_nodes.info": "啟用後將顯示機器網路節點。（機器網路節點是支持連結到AE的任何機器）",
     "gui.netvistool.cfg.highlight_inactive_buses": "高亮顯示閒置匯流排",
-    "gui.netvistool.cfg.highlight_inactive_buses.info": "啟用後任何閒置匯流排將被紅色高亮顯示。（用於查找缺少頻道或者沒有能源的匯流排）",
+    "gui.netvistool.cfg.highlight_inactive_buses.info": "啟用後任何閒置匯流排將被紅色高亮顯示。（用於尋找缺少頻道或者沒有能源的匯流排）",
     "gui.netvistool.cfg.small_chanel_labels": "小頻道標記",
     "gui.netvistool.cfg.small_chanel_labels.info": "啟用後將縮小已使用頻道標記的大小。"
 }
