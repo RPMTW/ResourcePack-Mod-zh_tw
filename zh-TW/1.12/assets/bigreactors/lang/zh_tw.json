@@ -124,7 +124,7 @@
     "multiblock.validation.turbine.metal_too_near": "%1$s - 金屬塊放置的太靠近轉子軸承了",
     "multiblock.validation.turbine.shaft_too_short": "轉軸必須貫穿整個渦輪機的內部",
     "multiblock.validation.turbine.found_loose_rotor_blocks": "檢測到%1$d個渦輪部件沒有正確的和主渦輪相連。所有的渦輪部件都必須從轉子軸承開始，排成一列貫穿整個渦輪機",
-    "multiblock.validation.turbine.found_loose_rotor_blades": "檢測到%1$d個渦輪機葉片沒有構建成渦輪，所有的渦輪機葉片必須和轉軸相連",
+    "multiblock.validation.turbine.found_loose_rotor_blades": "檢測到%1$d個渦輪機葉片沒有建構成渦輪，所有的渦輪機葉片必須和轉軸相連",
     "multiblock.validation.turbine.invalid_metals_shape": "檢測到%1$d個金屬塊沒有環繞在渦輪的周圍。所有的金屬塊都必須環繞，或者部分環繞在渦輪周圍",
     "multiblock.validation.turbine.glass_invalid_on_frame": "%1$d, %2$d, %3$d - 渦輪機玻璃不能作為渦輪機的框架",
     "multiblock.validation.turbine.glass_invalid_on_interior": "%1$d, %2$d, %3$d - 渦輪機玻璃只能放置在渦輪機的外部",
