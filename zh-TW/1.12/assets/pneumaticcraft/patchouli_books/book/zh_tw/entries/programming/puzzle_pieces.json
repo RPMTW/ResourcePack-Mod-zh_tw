@@ -1,16 +1,16 @@
 {
-  "name": "編程拼圖",
+  "name": "程式拼圖",
   "icon": "pneumaticcraft:textures/items/progwidgets/start_piece.png",
   "category": "programming",
   "advancement": "pneumaticcraft:programmer",
   "pages": [
     {
       "type": "text",
-      "text": "$(thing)編程拼圖/$是在$(l:programming/programmer)編程器/$中用於編程$(item)無人機/$的物品。其在編程無人機時被消耗，但可以在用較小（或空）程序重寫$(item)無人機/$時被返還。$(p)在$(item)編程器/$介面中可視化的$(thing)編程拼圖/$與使用的$(thing)編程拼圖/$相匹配。"
+      "text": "$(thing)程式拼圖/$是在$(l:programming/programmer)程式器/$中用於程式$(item)無人機/$的物品。其在程式無人機時被消耗，但可以在用較小（或空）程序重寫$(item)無人機/$時被返還。$(p)在$(item)程式器/$介面中可視化的$(thing)程式拼圖/$與使用的$(thing)程式拼圖/$相匹配。"
     },
     {
       "type": "text",
-      "text": "要向$(l:tools/drone)無人機/$寫入程序，$(thing)編程拼圖/$需要要嘛在物品欄中，要嘛在與$(item)編程器/$相鄰（任意一面）的容器中。$(p)在創造模式下，整個程序都是免費的：不需要編程拼圖。"
+      "text": "要向$(l:tools/drone)無人機/$寫入程序，$(thing)程式拼圖/$需要要嘛在物品欄中，要嘛在與$(item)程式器/$相鄰（任意一面）的容器中。$(p)在創造模式下，整個程序都是免費的：不需要程式拼圖。"
     },
     {
       "type": "crafting",
