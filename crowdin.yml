@@ -1,5 +1,5 @@
 commit_message: New translations %original_file_name% from Crowdin
-append_commit_message: false
+append_commit_message: 
 files:
   - source: 1.18/assets*
     ignore:
