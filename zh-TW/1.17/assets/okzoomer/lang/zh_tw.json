@@ -20,7 +20,7 @@
     "config.okzoomer.zoom_scrolling": "滾動切換",
     "config.okzoomer.zoom_scrolling.tooltip": "允許使用滾輪滑動來調整放大倍數。",
     "config.okzoomer.extra_keybinds": "額外快捷鍵",
-    "config.okzoomer.extra_keybinds.tooltip": "與縮放鍵一起添加了縮放操作鍵。\n如要套用這些變更，需要重新啟動遊戲。",
+    "config.okzoomer.extra_keybinds.tooltip": "與縮放鍵一起新增了縮放操作鍵。\n如要套用這些變更，需要重新啟動遊戲。",
     "config.okzoomer.zoom_overlay": "縮放疊加",
     "config.okzoomer.zoom_overlay.tooltip": "在縮放期間在畫面中加入疊層。\n「暈影」使用小插圖作為疊層。\n「望遠鏡」使用帶有暈影紋理的望遠鏡疊層。\n小插圖紋理可以在以下位置找到：assets/okzoomer/textures/misc/zoom_overlay.png",
     "config.okzoomer.category.values": "參數",
