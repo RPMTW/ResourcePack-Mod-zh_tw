@@ -1,0 +1,23 @@
+{
+    "argument.pollen.color.invalid": "無效的顏色字符串",
+    "argument.pollen.enum.invalid": "無效的枚舉值",
+    "argument.pollen.time.big": "時間不能超過 %s); 找到 %s",
+    "argument.pollen.time.low": "時間不得少於 %s); 找到 %s",
+    "argument.pollen.time.unknown_unit": "無效的時間單位",
+    "commands.pollen.config.fail": "找不到 %s 類型 %s 的配置",
+    "commands.pollen.config.success": "在 %s 找到類型 %s 的 %s 配置",
+    "entity.pollen.boat": "船",
+    "gui.jei.category.pollen.grindstone.experience": "XP: %s - %s",
+    "options.pollen.entitlementList": "Moonflower Cosmetics...",
+    "options.pollen.entitlementList.none": "你沒有化妝品",
+    "options.pollen.entitlementList.reload": "刷新",
+    "options.pollen.entitlementList.title": "Moonflower 外觀設置",
+    "pack.source.forgemod": "鍛造模組",
+    "screen.pollen.linkPatreon.error": "鏈接 Patreon 失敗",
+    "screen.pollen.linkPatreon.header": "鏈接 Patreon",
+    "screen.pollen.linkPatreon.message": "你必須先將你的 Minecraft 帳戶鏈接到你的 Patreon 帳戶，然後才能訪問你的 Moonflower 化妝品。這將在外部瀏覽器中繼續，您想繼續嗎？",
+    "screen.pollen.linkPatreon.waiting": "等待伺服器響應...",
+    "screen.pollen.moonflowerProfilesDisabled": "Moonflower 配置文件已禁用。要查看或管理外觀，請將客戶端配置中的 '%s' 設置為 false。",
+    "screen.pollen.moonflowerServerDown.header": "Moonflower 伺服器已關閉",
+    "screen.pollen.moonflowerServerDown.message": "很遺憾，裝飾品伺服器目前已關閉，因此您將無法查看或管理裝飾品。請稍後重試。"
+}
