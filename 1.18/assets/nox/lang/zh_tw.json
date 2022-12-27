@@ -1,0 +1,18 @@
+{
+    "nox.midnightconfig.title": "Nox Configuration",
+    "nox.midnightconfig.noFriendlyFire": "Mobs can't damage other Mobs with the same target",
+    "nox.midnightconfig.mobXray": "Mobs can see through walls",
+    "nox.midnightconfig.monsterRangeMultiplier": "Monster follow range multiplier",
+    "nox.midnightconfig.monsterGearScales": "Monster gear scales with the closest Player's gear",
+    "nox.midnightconfig.monsterAngerOnShove": "Monsters aggro when pushed",
+    "nox.midnightconfig.buffGolems": "Golem base stats buffed",
+    "nox.midnightconfig.mobsBreakBlocks": "(Certain) Mobs can mine blocks",
+    "nox.midnightconfig.blockBreakingHardnessCutoff": "Max hardness level Mobs can mine",
+    "nox.midnightconfig.sleepApplyGlowing": "Mobs preventing sleep are highlighted",
+    "nox.midnightconfig.sleepExtendToSeaLevel": "Sleep check vertical range is extended to sea level",
+    "nox.midnightconfig.sleepHorizontalSearchDistance": "Minimum horizontal sleep check range",
+    "nox.midnightconfig.sleepMinVerticalSearchDistance": "Minimum vertical sleep check range",
+    "nox.midnightconfig.creepersBreachWalls": "Creepers can breach walls",
+    "nox.midnightconfig.creepersRunFromShields": "Creepers will run from shielding Players",
+    "nox.midnightconfig.endermiteFlowerSpawn": "Chorus Flowers spawn an Endermite when broken"
+}
