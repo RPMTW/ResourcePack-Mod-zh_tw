@@ -1,0 +1,18 @@
+{
+    "nox.midnightconfig.title": "Nox 配置",
+    "nox.midnightconfig.noFriendlyFire": "生物無法傷害目標相同的其他生物",
+    "nox.midnightconfig.mobXray": "生物可以看穿牆壁",
+    "nox.midnightconfig.monsterRangeMultiplier": "怪物跟隨範圍倍數",
+    "nox.midnightconfig.monsterGearScales": "怪物裝備與最近的玩家裝備成比例",
+    "nox.midnightconfig.monsterAngerOnShove": "怪物被被推時會生氣",
+    "nox.midnightconfig.buffGolems": "魔像基礎數據增強",
+    "nox.midnightconfig.mobsBreakBlocks": "（肯定）生物會破壞方塊",
+    "nox.midnightconfig.blockBreakingHardnessCutoff": "生物可以開采的最大硬度等級",
+    "nox.midnightconfig.sleepApplyGlowing": "無法睡眠時那些影響玩家的生物被高亮所顯示",
+    "nox.midnightconfig.sleepExtendToSeaLevel": "睡眠檢查垂直範圍擴展到海平面",
+    "nox.midnightconfig.sleepHorizontalSearchDistance": "最小水平睡眠檢查範圍",
+    "nox.midnightconfig.sleepMinVerticalSearchDistance": "最小垂直睡眠檢查範圍",
+    "nox.midnightconfig.creepersBreachWalls": "苦力怕可以破牆",
+    "nox.midnightconfig.creepersRunFromShields": "苦力怕看到盾牌會膽怯",
+    "nox.midnightconfig.endermiteFlowerSpawn": "歌萊花破碎時會產生終界蟎"
+}
