@@ -7,7 +7,7 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "不時的受到點傷害總會讓你生氣，但有了憤怒$(l:bewitchment:contracts/concept_contracts)契約$()的效力，你總算有個好的方法能釋放這些怒氣！$(br2)簽署$(l:bewitchment:contracts/concept_contracts)契約$()後，當血量越低，每次攻擊的傷害將越高。"
+      "text": "時不時的受傷總令人氣憤，但有了憤怒$(l:bewitchment:contracts/concept_contracts)契約$()的效力，終於有個好方法來發洩這些怒氣！$(br2)簽署$(l:bewitchment:contracts/concept_contracts)契約$()後，血量越低，攻擊傷害越高。"
     }
   ]
 }
