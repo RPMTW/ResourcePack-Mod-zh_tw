@@ -4,13 +4,13 @@
     "gui.save": "儲存",
     "gui.add": "加入",
     "dialog.savechanges": "你想改變你的變更嗎?",
-    "dialog.button.OK": "Okay",
-    "dialog.button.YES": "Yes",
-    "dialog.button.NO": "No",
+    "dialog.button.OK": "確定",
+    "dialog.button.YES": "是",
+    "dialog.button.NO": "否",
     "dialog.button.MAYBE": "或許",
     "dialog.button.CANCEL": "關閉",
     "dialog.button.ABORT": "放棄",
-    "dialog.button.CONFIRM": "Confirm",
+    "dialog.button.CONFIRM": "確定",
     "collector.inventory": "物品欄",
     "collector.all": "創造",
     "minecraft.block": "方塊",
@@ -19,5 +19,7 @@
     "minecraft.item_tag": "物品標籤\n",
     "minecraft.fuel": "燃料",
     "minecraft.stack": "堆疊",
-    "minecraft.material": "材質"
+    "minecraft.material": "材質",
+    "gui.minus": "-",
+    "gui.plus": "+"
 }
