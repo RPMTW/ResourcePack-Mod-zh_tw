@@ -35,6 +35,7 @@
     "litematica.error.schematic_save.schematic_creation_failed": "建立藍圖失敗",
     "litematica.error.schematic_read_from_file_failed.cant_read": "從檔案 '%s'中讀取藍圖",
     "litematica.error.schematic_read_from_file_failed.exception": "從檔案 '%s'中讀取藍圖時出現異常",
+    "litematica.error.schematic_read_from_file_failed.no_file": "無法從檔案中讀取藍圖：沒有可用的檔案(在暫存的藍圖？)",
     "litematica.error.schematic_projects.empty_selection": "空白區域選擇(0個子區域)",
     "litematica.error.schematic_projects.failed_to_load_project": "載入專案失敗",
     "litematica.error.schematic_projects.failed_to_load_schematic": "載入目前版本的藍圖失敗",
@@ -435,6 +436,5 @@
     "litematica.tool_mode.name.paste_schematic": "在世界上貼上藍圖",
     "litematica.tool_mode.name.rebuild": "空白藍圖",
     "litematica.tool_mode.name.replace_block": "替換方塊",
-    "litematica.tool_mode.name.schematic_placement": "藍圖放置",
-    "litematica.error.schematic_read_from_file_failed.no_file": "無法從檔案中讀取藍圖：沒有可用的檔案(在暫存的藍圖？)"
+    "litematica.tool_mode.name.schematic_placement": "藍圖放置"
 }
