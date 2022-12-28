@@ -24,7 +24,7 @@
         {
             "type": "patchouli:text",
             "title": "習性",
-            "text": "Most bees only work during the day, but this can be changed. Leash a Diurnal bee to something during night and it has a chance to turn Nocturnal$(br)Leash a Nocturnal bee during day and it has a chance to turn Metaturnal$(br)Be careful though as they can take damage with leashed in an environment they are not accustomed to"
+            "text": "習性分成：$(br)晝行性 - 只在白天工作$(br)夜行性 - 只在夜晚工作$(br)全天 - 不論白天夜晚都工作"
         },
         {
             "type": "patchouli:text",
