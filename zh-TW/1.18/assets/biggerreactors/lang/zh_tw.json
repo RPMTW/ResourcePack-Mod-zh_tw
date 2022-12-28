@@ -149,7 +149,7 @@
     "screen.biggerreactors.turbine_terminal.exhaust_tank.tooltip": "廢料罐\n§7內部储存了多少冷卻的廢料。",
     "screen.biggerreactors.turbine_terminal.activity_toggle.online": "狀態：§2開機",
     "screen.biggerreactors.turbine_terminal.activity_toggle.offline": "狀態：§4關機",
-    "screen.biggerreactors.turbine_terminal.activity_toggle.tooltip": "Toggle Turbine Status\n§7Turn the turbine on or off.",
+    "screen.biggerreactors.turbine_terminal.activity_toggle.tooltip": "開關渦輪機狀態\n§7將渦輪機開機或停機。",
     "screen.biggerreactors.turbine_terminal.coil_engage_toggle.engaged": "線圈:§2使用中",
     "screen.biggerreactors.turbine_terminal.coil_engage_toggle.disengaged": "線圈:§2使用中",
     "screen.biggerreactors.turbine_terminal.coil_engage_toggle.tooltip": "切換線圈接合\n§7什麼時候接合時，渦輪機轉子速度將被轉換成電能\n",
@@ -157,8 +157,8 @@
     "screen.biggerreactors.turbine_terminal.vent_state_toggle.all": "排氣: §2全部排出",
     "screen.biggerreactors.turbine_terminal.vent_state_toggle.closed": "排氣: §4不排出",
     "screen.biggerreactors.turbine_terminal.vent_state_toggle.tooltip": "切換排氣通風\n§7設定排氣方式或是否排放。",
-    "screen.biggerreactors.turbine_terminal.flow_rate_increase.tooltip": "Increase Flow Rate\n§7Higher flow rates increase rotor speed.\n§8[Shift]: Increase by %s mB.\n§8[Ctrl]: Increase by %s mB.\n§8[Ctrl + Shift]: Increase by %s mB.",
-    "screen.biggerreactors.turbine_terminal.flow_rate_decrease.tooltip": "Decrease Flow Rate\n§7Lower flow rates decrease rotor speed.\n§8[Shift]: Decrease by %s mB.\n§8[Ctrl]: Decrease by %s mB.\n§8[Ctrl + Shift]: Decrease by %s mB.",
+    "screen.biggerreactors.turbine_terminal.flow_rate_increase.tooltip": "提高流量\n§7流量越高，轉子轉速越快。\n§8[Shift]：提高流量 %s mB。\n§8[Ctrl]：提高流量 %s mB。\n§8[Ctrl + Shift]：提高流量 %s mB。",
+    "screen.biggerreactors.turbine_terminal.flow_rate_decrease.tooltip": "減少流量\n§7流量越低，轉子轉速越慢。\n§8[Shift]：減少流量 %s mB。\n§8[Ctrl]：減少流量 %s mB。\n§8[Ctrl + Shift]：減少流量 %s mB。",
     "screen.biggerreactors.turbine_coolant_port": "渦輪機冷卻埠",
     "screen.biggerreactors.turbine_coolant_port.direction_toggle.input": "方向：§9輸入",
     "screen.biggerreactors.turbine_coolant_port.direction_toggle.output": "方向：§9輸出",
@@ -215,8 +215,8 @@
     "screen.biggerreactors.heat_exchanger_fluid_port.direction_toggle.input": "方向: §c輸入",
     "screen.biggerreactors.heat_exchanger_fluid_port.direction_toggle.output": "方向： §9輸出",
     "screen.biggerreactors.heat_exchanger_fluid_port.direction_toggle.tooltip": "切換方向\n§7改變這個端口流動的方向。",
-    "screen.biggerreactors.reactor_coolant_port.manual_dump": "Manual Tank Dump",
-    "screen.biggerreactors.reactor_coolant_port.manual_dump.tooltip": "Dump Tank Fluids\n§7Manually dump all fluids from the reactor.",
-    "screen.biggerreactors.heat_exchanger_fluid_port.manual_dump": "Manual Channel Fluids Dump",
-    "screen.biggerreactors.heat_exchanger_fluid_port.manual_dump.tooltip": "Dump Channel Fluids\n§7Manually dump all fluids in the connected channel."
+    "screen.biggerreactors.reactor_coolant_port.manual_dump": "手動排放流體",
+    "screen.biggerreactors.reactor_coolant_port.manual_dump.tooltip": "排放流體\n§7手動排放反應爐內的所有流體。",
+    "screen.biggerreactors.heat_exchanger_fluid_port.manual_dump": "手動排放通道中流體",
+    "screen.biggerreactors.heat_exchanger_fluid_port.manual_dump.tooltip": "排放通道中流體\n§7手動排放連接通道中的所有流體。"
 }
