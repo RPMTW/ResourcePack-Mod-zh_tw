@@ -139,5 +139,9 @@
     "tooltip.ironfurnaces.gui_open_augments": "Augments",
     "tooltip.ironfurnaces.gui_open_furnace": "Furnace",
     "tooltip.ironfurnaces.rainbow_gen1": "Will generate",
-    "tooltip.ironfurnaces.rainbow_gen2": "RF/tick if all other furnaces are generating power and they are connected with the Rainbow Linker"
+    "tooltip.ironfurnaces.rainbow_gen2": "RF/tick if all other furnaces are generating power and they are connected with the Rainbow Linker",
+    "item.ironfurnaces.augment_xp": "Augment: Experience",
+    "tooltip.ironfurnaces.augment_xp": "Experience granted from smelting will be ejected to nearby fluid tanks.",
+    "tooltip.ironfurnaces.augment_xp_1": "Experience granted from smelting will given to the player that placed the furnace.",
+    "tooltip.ironfurnaces.augment_xp_switch": "Sneak & Right click in the air to switch modes."
 }

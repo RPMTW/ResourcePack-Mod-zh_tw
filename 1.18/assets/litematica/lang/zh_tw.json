@@ -436,5 +436,7 @@
     "litematica.tool_mode.name.paste_schematic": "Paste Schematic in world",
     "litematica.tool_mode.name.rebuild": "Edit Schematic",
     "litematica.tool_mode.name.replace_block": "Replace block",
-    "litematica.tool_mode.name.schematic_placement": "Schematic Placement"
+    "litematica.tool_mode.name.schematic_placement": "Schematic Placement",
+    "litematica.message.warn.pickblock.no_suitable_slot_found": "No suitable hotbar slot found for pick block!\\nCheck the config Generic -> §epickBlockableSlots§r.\\nAlso depending on the §epickBlockAvoid*§6 configs, the pick block feature may refuse to replace any tools or other damageable items in those slots.",
+    "litematica.message.warn.pickblock.no_valid_slots_configured": "No hotbar slots set in the Generic -> §epickBlockableSlots§6 config!"
 }

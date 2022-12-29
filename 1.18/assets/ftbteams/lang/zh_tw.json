@@ -75,5 +75,6 @@
     "ftbteams.message.add_ally": "Player %s is now an ally of your team!",
     "ftbteams.message.remove_ally": "Player %s is no longer an ally of your team!",
     "ftbteams.accept": "Accept ✔",
-    "ftbteams.decline": "Decline ✘"
+    "ftbteams.decline": "Decline ✘",
+    "ftbteams.missing_data": "Team data has not been received from the server!\nFTB Teams will not function correctly.\nCheck server log for errors, and ensure your server is in online mode."
 }

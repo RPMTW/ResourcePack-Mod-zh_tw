@@ -95,5 +95,7 @@
     "block.utilitix.dimmable_redstone_lamp": "Dimmable Redstone Lamp",
     "item.utilitix.mob_yoinker": "Mob Yoinker",
     "utilitix.map_saved": "Saved map here: %s",
-    "utilitix.compat.quark.disable_piston_logic_replacement": "Disable \"Use Piston Logic Replacement\" in quark general settings to use this properly."
+    "utilitix.compat.quark.disable_piston_logic_replacement": "Disable \"Use Piston Logic Replacement\" in quark general settings to use this properly.",
+    "message.utilitix.mob_yoinker": "You need %s more xp to yoink this mob.",
+    "message.utilitix.map_save_command": "Something went wrong saving the map. More information in the log."
 }

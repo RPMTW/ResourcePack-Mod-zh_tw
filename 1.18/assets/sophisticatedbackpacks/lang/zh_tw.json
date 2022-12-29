@@ -341,7 +341,7 @@
     "gui.sophisticatedbackpacks.settings.buttons.another_player_can_open.off": "Another player can NOT open",
     "gui.sophisticatedbackpacks.settings.buttons.another_player_can_open.off.tooltip": "Backpack can not be open by another player when right clicking on this player's back even if the backpack is worn there",
     "item.sophisticatedbackpacks.advanced_refill_upgrade": "Advanced Refill Upgrade",
-    "item.sophisticatedbackpacks.advanced_refill_upgrade.tooltip": "Keeps refilling stack of selected items in player's inventory\nAllows for more precise target slot selection",
+    "item.sophisticatedbackpacks.advanced_refill_upgrade.tooltip": "Keeps refilling stack of selected items in player's inventory\nAllows for more precise target slot selection\nAlso allows middle click picking blocks from backpack",
     "gui.sophisticatedbackpacks.upgrades.advanced_refill": "Adv. Refill",
     "gui.sophisticatedbackpacks.upgrades.advanced_refill.tooltip": "Advanced Refill Settings",
     "gui.sophisticatedbackpacks.upgrades.refill.target_slot.tooltip": "Refill %s",
