@@ -334,5 +334,7 @@
     "sodium-extra.option.system_toast": "System Toasts",
     "sodium-extra.option.system_toast.tooltip": "If enabled, system popups will be displayed.",
     "sodium-extra.option.tutorial_toast": "Tutorial Toasts",
-    "sodium-extra.option.tutorial_toast.tooltip": "If enabled, tutorial popups will be displayed."
+    "sodium-extra.option.tutorial_toast.tooltip": "If enabled, tutorial popups will be displayed.",
+    "sodium-extra.option.advanced_item_tooltips": "Advanced Item Tooltips",
+    "sodium-extra.option.advanced_item_tooltips.tooltip": "If enabled, tooltips for items will display the identifier and durability."
 }
