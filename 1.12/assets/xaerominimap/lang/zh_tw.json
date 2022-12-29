@@ -531,5 +531,13 @@
     "gui.xaero_alternative_list_players": "\"List Players\" Alternative",
     "gui.xaero_display_stained_glass": "Display Stained Glass",
     "gui.xaero_waypoint_onmap_scale": "On-Map Waypoint Scale",
-    "gui.xaero_waypoint_onmap_scale_auto": "Auto"
+    "gui.xaero_waypoint_onmap_scale_auto": "Auto",
+    "gui.xaero_switch_to_auto_on_death": "Auto Waypoints On Death",
+    "gui.xaero_box_switch_to_auto_on_death": "Whether to switch waypoints to auto on deathpoint creation. This doesn't affect where the deathpoint is created.",
+    "gui.xaero_zoom_on_enlarge": "Zoom Level When Enlarged",
+    "gui.xaero_zoom_on_enlarge_auto": "Auto",
+    "gui.xaero_sort_color": "Color",
+    "gui.xaero_weather_display": "Display Weather Info",
+    "gui.xaero_weather_raining": "Raining/Snowing",
+    "gui.xaero_weather_thundering": "Thundering"
 }
