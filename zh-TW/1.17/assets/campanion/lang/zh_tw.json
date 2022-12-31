@@ -220,7 +220,7 @@
     "advancements.campanion.adventure.kill_with_stone_after_skips.title": "累積而來的成果",
     "advancements.campanion.adventure.kill_with_stone_after_skips.description": "用一塊跳了六次或以上的小石頭對怪物造成最後一擊",
     "message.campanion.rope_bridge.same_position": "無法將橋樑架到相同的位置",
-    "message.campanion.rope_bridge.obstructed": "無法建造索橋：在 %s、%s、%s被阻擋了。阻擋的方塊：「%s」",
+    "message.campanion.rope_bridge.obstructed": "無法建造索橋：在 %s、 %s、 %s被阻擋了。阻擋的方塊：「%s」",
     "message.campanion.rope_bridge.angle": "角度太大了！目前\"%s\"，最大\"%s\"",
     "message.campanion.rope_bridge.length": "太長了！目前\"%s\"，最長\"%s\"",
     "message.campanion.rope_bridge.ropes": "繩子不足！還需要 %s 條繩子。",
