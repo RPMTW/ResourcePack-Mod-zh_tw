@@ -42,7 +42,7 @@
     "text.autoconfig.shulkerboxtooltip.option.controls.previewKey.tooltip": "游標覆蓋在容器物品上後按下該快捷鍵,\n可以呼出 §l「簡潔浮窗」",
     "text.autoconfig.shulkerboxtooltip.option.controls.fullPreviewKey": "呼出 「完整浮窗」",
     "text.autoconfig.shulkerboxtooltip.option.controls.fullPreviewKey.tooltip": "游標覆蓋在容器物品上後按下該快捷鍵, \n可以呼出 §l「完整浮窗」",
-    "text.autoconfig.shulkerboxtooltip.option.server.clientIntegration.@PrefixText": "本頁列出的內容需要在伺服器進行設定。在多人遊戲中, 用戶端對本頁做出的修改不會有任何效果。",
+    "text.autoconfig.shulkerboxtooltip.option.server.clientIntegration.@PrefixText": "本頁列出的內容需要在伺服器進行設定。 在多人遊戲中, 用戶端對本頁做出的修改不會有任何效果。",
     "text.autoconfig.shulkerboxtooltip.option.server.clientIntegration": "用戶端通信",
     "text.autoconfig.shulkerboxtooltip.option.server.clientIntegration.tooltip": "選擇§2是§r以啟用後,\n伺服器就可以響應裝有本模組的用戶端所提出的額外請求。\n§7( 停用本選項也會停用下方的所有設定 )",
     "text.autoconfig.shulkerboxtooltip.option.server.enderChestSyncType": "終界箱同步方式",
