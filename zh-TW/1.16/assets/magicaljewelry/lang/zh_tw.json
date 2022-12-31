@@ -13,13 +13,13 @@
     "commands.magicaljewelry.jewelgive.failure.exist": " 物品'%s' 不存在?",
     "commands.magicaljewelry.jewelgive.failure.item": "物品'%s'無效！",
     "commands.magicaljewelry.jewelgive.failure.rarity": "稀有度'%s'無效！",
-    "commands.magicaljewelry.jeweltestloot.hostile": "敵對生物的稀有掉落設定",
-    "commands.magicaljewelry.jeweltestloot.boss": "Boss生物的稀有掉落設定",
+    "commands.magicaljewelry.jeweltestloot.hostile": "敵對生物的稀有掉落設置",
+    "commands.magicaljewelry.jeweltestloot.boss": "Boss生物的稀有掉落設置",
     "commands.magicaljewelry.jeweltestloot.default": "預設掉落機率：%s",
     "commands.magicaljewelry.jeweltestloot.looting": "掠奪III時預設掉落機率：%s",
     "commands.magicaljewelry.jeweltestloot.onerarity": "唯一之戒可以掉落的機率：%s",
     "commands.magicaljewelry.jeweltestloot.config1": "配置選項%s被設定為%s",
-    "commands.magicaljewelry.jeweltestloot.config2": "配置選項%s和%s都被設定為%s",
+    "commands.magicaljewelry.jeweltestloot.config2": "配置選項%s和%s都被設置為%s",
     "commands.magicaljewelry.jeweltestloot.failure": "戰利品表'%s'在測試中無效！",
     "itemGroup.magicaljewelryGroup": "魔法飾品"
 }
