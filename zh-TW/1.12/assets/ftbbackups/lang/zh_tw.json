@@ -18,7 +18,7 @@
     "ftbbackups.lang.start": "伺服器開始備份！",
     "ftbbackups.lang.end_1": "伺服器備份完成，耗時 %s!",
     "ftbbackups.lang.end_2": "伺服器備份完成，耗時 %s! (%s)",
-    "ftbbackups.lang.fail": "保存世界失敗！(%s)",
+    "ftbbackups.lang.fail": "保存世界失敗！ (%s)",
     "ftbbackups.lang.manual_launch": "%s啟用了手動備份！",
     "ftbbackups.lang.already_running": "正在進行備份！",
     "ftbbackups.lang.size.1": "目前世界占用大小：%s",
@@ -26,7 +26,7 @@
     "ftbbackups.lang.size.3": "可用空間：%s",
     "ftbbackups.lang.saving_failed": "世界保存失敗！",
     "commands.backup.usage": "/backup",
-    "commands.backup.start.usage": "/backup start [自訂名稱]",
+    "commands.backup.start.usage": "/backup start [自定義名稱]",
     "commands.backup.time.usage": "/backup time",
     "commands.backup.size.usage": "/backup size"
 }
