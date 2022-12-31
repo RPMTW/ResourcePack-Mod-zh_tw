@@ -24,7 +24,7 @@
     "worldtime.config.tt.offsettop": "螢幕上的垂直位置 上<->下",
     "worldtime.config.tt.prefix": "字元前綴，可以用於定義文字顏色",
     "worldtime.config.tt.realtimeformat": "現實時間格式，請上網搜尋 \"Java SimpleDateFormat\" 瞭解更多，例如24小時制為 'HH:mm'，12小時制為 'hh:mm a'",
-    "worldtime.config.tt.coordformat": "位置格式，請使用 {X}{Y}{Z} 作佔位符",
+    "worldtime.config.tt.coordformat": "位置格式， 請使用 {X}{Y}{Z} 作佔位符",
     "key.worldtime.header": "世界時間",
     "key.worldtime.config": "開啟配置畫面"
 }
