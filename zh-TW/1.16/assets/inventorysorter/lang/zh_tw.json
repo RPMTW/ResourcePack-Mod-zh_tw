@@ -25,7 +25,7 @@
     "key.inventorysorter.itemout": "從游標游標處移動物品",
     "key.mouse.100": "游標向上",
     "key.mouse.102": "滾輪向下",
-    "inventorysorter.commands.inventorysorter.usage": "/inventorysorter §ebladd§f|§eblrem§f|§eshow§f|§elist§f（加入/移除最後一個沒排序的到黑名單，顯示最後一個容器，列出黑名單）",
+    "inventorysorter.commands.inventorysorter.usage": "/inventorysorter §ebladd§f|§eblrem§f|§eshow§f|§elist§f （加入/移除最後一個沒排序的到黑名單，顯示最後一個容器，列出黑名單）",
     "inventorysorter.commands.inventorysorter.bladd.message": "已將%1$s§f加入黑名單",
     "inventorysorter.commands.inventorysorter.blremove.message": "已將%1$s§f從黑名單移除",
     "inventorysorter.commands.inventorysorter.badtype": "§c{0}§f不是有效的容器類型，忽略",
