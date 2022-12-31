@@ -663,7 +663,7 @@
     "ars_nouveau.spell.validation.exists.glyph_occurrences_policy": "%s出現次數過多。",
     "ars_nouveau.spell.validation.exists.augment_compatibility": "%s不能被%s增強",
     "ars_nouveau.spell.validation.exists.glyph_tier": "%s對於你目前的法術書來說過於強大了。",
-    "ars_nouveau.spell.validation.adding._comment": "__嘗試新增使法術無效的符咒時，會跳出這段訊息__",
+    "ars_nouveau.spell.validation.adding._comment": "__嘗試添加使法術無效的符咒時，會跳出這段訊息__",
     "ars_nouveau.spell.validation.adding.non_empty_spell": "法術不能為空。",
     "ars_nouveau.spell.validation.adding.max_one_cast_method": "該法術已經有一個形態魔符了。",
     "ars_nouveau.spell.validation.adding.starting_cast_method": "法術必須以形態魔符開頭。",
