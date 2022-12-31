@@ -226,7 +226,7 @@
     "block.engineersdecor.small_lab_furnace": "小型實驗室爐",
     "block.engineersdecor.small_lab_furnace.help": "小型金屬殼實驗室窯。\n 消耗固體燃料，向上排氣。\n 比鵝卵石爐稍微熱一點，隔熱性也更好，因此效率更高。\n 有兩個用於儲存的輔助格。\n 兩個堆疊的內部漏斗對輸入、輸出和燃料進行隊列管理。\n 在輔助格放置一個外置加熱器並通入電力可以加快熔煉速度。",
     "block.engineersdecor.small_milking_machine": "小型擠奶機",
-    "block.engineersdecor.small_milking_machine.help": "偶爾給奶牛梳理和擠奶。\n 內置流體儲罐。\n 不會餵食動物。\n 使用桶獲得牛奶。\n 從後方或下方的方塊物品欄拉取或儲存牛奶容器物品。\n（偏好從下方輸入，從後方輸出，但也能將裝滿的牛奶容器放回原來的物品欄）\n 支持將牛奶作為流體輸出到下方的儲罐和管道（僅當牛奶作為流體存在時）。\n 小心牛欄裡不要太擁擠，只有快樂的動物才會自覺地在擠奶機前散步。",
+    "block.engineersdecor.small_milking_machine.help": "偶爾給奶牛梳理和擠奶。\n 內置流體儲罐。\n 不會餵食動物。\n 使用桶獲得牛奶。\n 從後方或下方的方塊物品欄拉取或儲存牛奶容器物品。\n （偏好從下方輸入，從後方輸出，但也能將裝滿的牛奶容器放回原來的物品欄）\n 支持將牛奶作為流體輸出到下方的儲罐和管道（僅當牛奶作為流體存在時）。\n 小心牛欄裡不要太擁擠，只有快樂的動物才會自覺地在擠奶機前散步。",
     "block.engineersdecor.small_milking_machine.status": "牛奶：%1$smB %2$s",
     "block.engineersdecor.small_milking_machine.status.rf": "｜%1$s RF",
     "block.engineersdecor.small_mineral_smelter": "小型礦物熔煉爐",
