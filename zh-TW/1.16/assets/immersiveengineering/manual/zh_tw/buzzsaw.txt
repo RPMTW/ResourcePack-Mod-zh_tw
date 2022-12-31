@@ -1,11 +1,11 @@
 電鋸
 我們不去拉文霍姆
 <&recipes>這款大型便攜式伐木機械鋸設計用於快速加工樹木和其他可能阻礙原始工廠建築的樹葉。
-在使用<link;workbench;工程師裝配台;start>製作一個鋸條，並且裝入<link;refinery;生物柴油;start>或其他燃料之後，它可以被用來砍伐任何樹木，從小的白樺到大的叢林木。
+在使用<link;workbench;工程師裝配台;start>製作一個鋸條，並且裝入<link;refinery;生物柴油;start>或其它燃料之後，它可以被用來砍伐任何樹木，從小的白樺到大的叢林木。
 
 像其他一些工具一樣，可以在<link;workbench;工程師裝配台> 進行改裝。 這些升級影響內部儲罐容量和鋸條耐久。
 <np>
 <&rockcutter_recipe>通過用§2Rockcutter Blade§r替換普通鋸片，電鋸可用於從地面乾淨利落地切割石塊，很像§2Silktouch§r附魔。然而，鑽石尖刀片不再用於雕刻木材或砍伐樹木。<np> 然而，鑽石尖刀片不再用於雕刻木材或砍伐樹木。<np> 然而，鑽石尖刀片不再用於雕刻木材或砍伐樹木。<np> 然而，鑽石尖刀片不再用於雕刻木材或砍伐樹木。<np> 然而，鑽石尖刀片不再用於雕刻木材或砍伐樹木。<np> 然而，鑽石尖刀片不再用於雕刻木材或砍伐樹木。<np> 然而，鑽石尖刀片不再用於雕刻木材或砍伐樹木。<np> 然而，鑽石尖刀片不再用於雕刻木材或砍伐樹木。<np> 但是這種鑽石刀片的鋸條不能再用來砍伐樹木。<np>
 <&tank_recipe>§2大型燃料缸§r 使電鋸的儲罐容量增加 2000 mb。<np>
 <&lube_recipe>§2高級潤滑系統§r 向鋸片施加額外的潤滑劑，減少耐久的消耗。<np>
-<&quiver_recipe>通過將 §2刀片盒子§r 連接到電鋸的側面，您可以攜帶兩個額外的鋸條。 你可以使用<config;b;tools.chemthrower.scroll;潛行滾動滑鼠滾輪，或使用;using>按鍵§l<keybind;key.immersiveengineering.chemthrowerSwitch>§r來進行鋸條切換，如果按鍵綁定已設定。
+<&quiver_recipe>通過將 §2刀片盒子§r 連接到電鋸的側面，您可以攜帶兩個額外的鋸條。 <&quiver_recipe>通過將 §2刀片盒子§r 連接到電鋸的側面，您可以攜帶兩個額外的鋸條。  你可以使用<config;b;tools.chemthrower.scroll;潛行滾動鼠標滾輪，或使用;using>按鍵§l<keybind;key.immersiveengineering.chemthrowerSwitch>§r來進行鋸條切換，如果按鍵綁定已設置。
