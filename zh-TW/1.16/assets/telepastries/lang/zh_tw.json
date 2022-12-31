@@ -1,6 +1,6 @@
 {
     "_comment": "Waila",
-    "telepastries.config.title": "傳送蛋糕設定",
+    "telepastries.config.title": "傳送蛋糕設置",
     "itemGroup.tele_tab": "傳送蛋糕",
     "block.telepastries.nether_cake": "地獄蛋糕",
     "block.telepastries.end_cake": "終界蛋糕",
@@ -12,6 +12,6 @@
     "telepastries.pastry.reset.complete": "已重置在 %s 維度保存的位置。",
     "telepastries.pastry.reset.failed": "維度 %s 沒有保存過的位置。",
     "telepastries.pastry.support.disabled": "蛋糕已被停用，因為你沒有安裝 %s 。",
-    "telepastries.pastry.custom.unbound": "自訂蛋糕在配置中沒有維度限制",
+    "telepastries.pastry.custom.unbound": "自定義蛋糕在配置中沒有維度限制",
     "telepastries.bites": "吃蛋糕"
 }
