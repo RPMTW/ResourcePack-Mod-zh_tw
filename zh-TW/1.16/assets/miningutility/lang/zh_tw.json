@@ -4,7 +4,7 @@
     "item.miningutility.mining_helmet": "礦工頭盔",
     "block.miningutility.rope_ladder": "繩梯",
     "block.miningutility.inverted_rope_ladder": "繩梯（倒置）",
-    "message.miningutility.escape_rope.setteleport": "設定傳送座標，%d %d %d。",
+    "message.miningutility.escape_rope.setteleport": "設定傳送座標， %d %d %d。",
     "message.miningutility.escape_rope.fail": "傳送失敗了! 查看工具提示以了解如何設定傳送位置。",
     "message.miningutility.escape_rope.fail.other_dimension": "傳送失敗了! 不能在維度之間傳送。",
     "item.miningutility.escape_rope.tooltip.1.set": "傳送位置設定為 ",
@@ -15,6 +15,6 @@
     "block.miningutility.rope_ladder.tooltip": "向下擴展的一次性梯子",
     "block.miningutility.inverted_rope_ladder.tooltip": "向上擴展的一次性梯子",
     "block.miningutility.rope_ladders.common.tooltip": "直到設定的方塊數量限制",
-    "block.miningutility.mini_torch.tooltip": "巨型火炬的兄弟。<3",
+    "block.miningutility.mini_torch.tooltip": "巨型火炬的兄弟。 <3",
     "itemGroup.miningutility.item_group": "採礦最佳化"
 }
