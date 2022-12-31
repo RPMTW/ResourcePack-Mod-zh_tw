@@ -3,9 +3,9 @@
   "button.customfog.add": "新增維度",
   "button.customfog.configure": "組態...",
   "button.customfog.saveandquit": "儲存並退出",
-  "option.customfog.linearslider": "線性霧開始：%.2f%%",
+  "option.customfog.linearslider": "線性霧開始： %.2f%%",
   "tooltip.customfog.linearslider": "啟動線性霧的渲染距離百分比逐漸淡出。",
-  "option.customfog.linearendslider": "線性霧關閉：%.2f%%",
+  "option.customfog.linearendslider": "線性霧關閉： %.2f%%",
   "tooltip.customfog.linearendslider": "結束線性霧的渲染距離百分比逐漸淡出。",
   "option.customfog.expslider": "指數密度：%.2f",
   "tooltip.customfog.expslider": "指數迷霧模式下的迷霧密度。",
@@ -16,5 +16,5 @@
   "button.customfog.exponential2": "迷霧模式:指數^2",
   "button.customfog.enabled": "停用",
   "button.customfog.disabled": "啟用",
-  "screen.customfog.config": "自訂霧設定"
+  "screen.customfog.config": "自定義霧設置"
 }
