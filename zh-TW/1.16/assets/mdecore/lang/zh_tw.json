@@ -5,6 +5,6 @@
     "mdecore.command.mde.help.2": "/ mattdaheimic endermare <player> - 顯示玩家的終界箱",
     "mdecore.command.mde.help.3": "/mattdaheimic invsee <player> - 顯示玩家的庫存",
     "mdecore.command.mde.help.4": "/mattdahepic generate <xCenter> <yCenter> <zCenter> <size> <dimension> - 在維度中按尺寸生成一個 以 xCenter,zCenter 為中心的正方形",
-    "mdecore.command.mde.pos": "%s 在維度 %s 的座標 [%f，%f，%f]",
+    "mdecore.command.mde.pos": "%s 在維度 %s 的座標 [%f， %f， %f]",
     "mdecore.command.mde.generate.start": "生成一個以塊 {1},{2}為中心的 {0}x{0} 塊正方形，在{3}維度"
 }
