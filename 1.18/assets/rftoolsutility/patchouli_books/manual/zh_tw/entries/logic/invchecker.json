@@ -1,0 +1,21 @@
+{
+  "name": "Inventory Checker",
+  "icon": "rftoolsutility:invchecker",
+  "category": "rftoolsutility:category_rftoolsutility_logic",
+  "pages": [
+    {
+      "type": "text",
+      "text": "The $(item)Inventory Checker$() emits a $(thing)redstone signal$() if the inventory behind it has more than a certain number of items in a specified slot. Both the slot and the item can be defined in the GUI, alongside an optional $(thing)Item Tag$(), and whether to ignore or match the damage of the specified item. These can also be left blank to match any item that goes in the slot."
+    },
+    {
+      "type": "text",
+      "text": "[TODO: photo of inventory checker GUI goes here]"
+    },
+    {
+      "type": "crafting",
+      "heading": "Digit",
+      "recipe": "rftoolsutility:invchecker",
+      "text": "Remember, slot counts start at zero!"
+    }
+  ]
+}
