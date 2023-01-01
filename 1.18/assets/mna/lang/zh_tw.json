@@ -1715,5 +1715,13 @@
     "mna:advancements.runic_malus.title": "That's it, I'm gettin' me mallet!",
     "mna:advancements.runic_malus.description": "Obtain a Runic Malus",
     "mna:advancements.be_our_guest.title": "Be our guest!",
-    "mna:advancements.be_our_guest.description": "Animate a Mana Tea block."
+    "mna:advancements.be_our_guest.description": "Animate a Mana Tea block.",
+    "item.mna.allfather_axe_control": "Will of the Allfather",
+    "gui.mna.wizard_lab.conduit_missing": "Couldn't find a conduit with type %s nearby.  See the codex entry 'Supplying Eldrin Power'.",
+    "mna.commands.affinity.set.success": "Set %s affinity to %.2f for %s.",
+    "mna.commands.affinity.add.success": "Added %.2f %s affinity to %s.",
+    "mna.commands.affinity.remove.success": "Removed %.2f %s affinity from %s.",
+    "mna.commands.affinity.reset.success": "Reset %s affinity for %s.",
+    "mna.commands.affinity.reset_all.success": "Reset all affinities for %s.",
+    "mna:progresscondition.tier_rote": "Your faction has shared knowledge with you.  All spell parts of tier %d have become rote!"
 }
