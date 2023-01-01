@@ -1237,7 +1237,7 @@
     "spell.ancientspellcraft\\:identify.no_valid_book": "Must be cast on an unknown, not class specific spell",
     "spell.ancientspellcraft\\:identify": "Identify",
     "spell.ancientspellcraft\\:experiment.desc_before_first_cast": "Experiment with magic to gain Theory Points. You need to know at least %1$s spells to begin experimenting.\\nKnown: %2$s",
-    "spell.ancientspellcraft\\:experiment.desc": "Experiment with magic to gain Theory Points.\\nSuccess chance: %1$s\\%\\nTheory Points: %2$s\\nElements Researched: %3$s",
+    "spell.ancientspellcraft\\:experiment.desc": "Experiment with magic to gain Theory Points.\\nSuccess chance: %1$s%%\\nTheory Points: %2$s\\nElements Researched: %3$s",
     "spell.ancientspellcraft\\:experiment": "Experiment",
     "spell.ancientspellcraft\\:experiment.not_enough_known_spells": "You don't have enough knowledge of magic to begin Experimenting! You know %1$s spells, to begin experimenting you need to know %3$s more (%2$s in total).",
     "spell.ancientspellcraft\\:experiment.buff_effect": "You are affected by %1$s!",
@@ -1398,5 +1398,9 @@
     "item.ancientspellcraft\\:charm_wizard_ale.name": "Keg of Legendary Ale",
     "item.ancientspellcraft\\:charm_wizard_ale.desc": "Travelling Wizards stay for a week instead of a day when you use a Scroll of Bartering",
     "item.ancientspellcraft\\:belt_soul_scorch.name": "Scorching Belt",
-    "item.ancientspellcraft\\:belt_soul_scorch.desc": "Attackers receive the Soul Scorch effect or 3 seconds"
+    "item.ancientspellcraft\\:belt_soul_scorch.desc": "Attackers receive the Soul Scorch effect or 3 seconds",
+    "item.ancientspellcraft\\:ring_rare_scroll.desc": "Rare scrolls have 15%% chance to be preserved when used",
+    "item.ancientspellcraft\\:ring_rare_scroll.name": "Seal of the Scrollmaster",
+    "item.ancientspellcraft\\:imbuement_scroll.name": "Scroll of Imbuement",
+    "item.ancientspellcraft\\:imbuement_scroll.desc": "Can be used on Imbuement Altars to overwrite the element of wands and wizard gear\\nPlace 4 matching dusts in the receptacles and the item in the altar, then use the scroll on the altar"
 }
