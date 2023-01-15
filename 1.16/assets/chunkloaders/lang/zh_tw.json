@@ -23,5 +23,11 @@
     "chunkloaders.legacy_message": "Please shift-right-click this chunk loader to set its owner!",
     "chunkloaders.legacy_success": "You are now the owner of this chunk loader!",
     "itemGroup.chunkloaders": "Chunk Loaders",
-    "chunkloaders.gui.disabled": "The chunk loader map is disabled on this server"
+    "chunkloaders.gui.disabled": "The chunk loader map is disabled on this server",
+    "chunkloaders.block.single_chunk_loader": "Single Chunk Loader",
+    "chunkloaders.block.ultimate_chunk_loader": "Ultimate Chunk Loader",
+    "chunkloaders": "Chunk Loaders",
+    "chunkloaders.block.basic_chunk_loader": "Basic Chunk Loader",
+    "chunkloaders.block.advanced_chunk_loader": "Advanced Chunk Loader",
+    "chunkloaders.item_group": "Chunk Loaders"
 }

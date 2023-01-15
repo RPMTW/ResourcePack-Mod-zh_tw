@@ -391,5 +391,9 @@
     "ftbquests.task.ftbquests.structure": "Find Structure",
     "ftbquests.task.ftbquests.structure.structure": "Structure",
     "ftbquests.task.ftbquests.observation.observe_type": "Type",
-    "ftbquests.task.ftbquests.observation.to_observe": "Observe"
+    "ftbquests.task.ftbquests.observation.to_observe": "Observe",
+    "ftbquests.task.ftbquests.item.match_nbt": "Match NBT",
+    "ftbquests.task.ftbquests.item.match_nbt.tooltip": "Default: item must be in 'itemfilters:match_nbt' item tag\nFalse: never check NBT\nTrue: always check NBT",
+    "ftbquests.task.ftbquests.item.weak_nbt_match": "Weak NBT Match",
+    "ftbquests.task.ftbquests.item.weak_nbt_match.tooltip": "False: exact NBT match required\nTrue: only match on top-level NBT fields\n   which are in the filter item"
 }
