@@ -30,5 +30,9 @@
     "trashcans.item_trash_can.info": "可銷毀物品，並包含可篩選最多 9 種物品的過濾器",
     "trashcans.liquid_trash_can.info": "可銷毀液體和氣體，並包含可篩選最多 9 種流體的過濾器",
     "trashcans.energy_trash_can.info": "可銷毀能量，並限制能量傳輸速率",
-    "trashcans.ultimate_trash_can.info": "可銷毀物品、流體與能量"
+    "trashcans.ultimate_trash_can.info": "可銷毀物品、流體與能量",
+    "trashcans.block.energy_trash_can": "Energy Trash Can",
+    "trashcans.block.ultimate_trash_can": "Ultimate Trash Can",
+    "trashcans.block.item_trash_can": "Item Trash Can",
+    "trashcans.block.liquid_trash_can": "Fluid Trash Can"
 }
