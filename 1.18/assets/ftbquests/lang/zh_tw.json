@@ -443,5 +443,7 @@
     "ftbquests.gui.paste_link": "Paste Quest Link",
     "ftbquests.gui.paste_image": "Paste Image",
     "ftbquests.gui.goto_linked_quest": "Go to Linked Quest (in chapter: %s)",
-    "ftbquests.gui.linked_quest_id": "Linked Quest ID: %s"
+    "ftbquests.gui.linked_quest_id": "Linked Quest ID: %s",
+    "ftbquests.quest.locked": "Locked: uncompleted dependencies",
+    "ftbquests.gui.view_quest_links": "View Quest Link(s)"
 }

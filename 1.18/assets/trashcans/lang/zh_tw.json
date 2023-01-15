@@ -30,5 +30,9 @@
     "trashcans.item_trash_can.info": "Can void items, also contains a filter for up to 9 items",
     "trashcans.liquid_trash_can.info": "Can void liquids and gasses, also contains a filter for up to 9 fluids",
     "trashcans.energy_trash_can.info": "Can void energy, can also limit the energy transfer rate",
-    "trashcans.ultimate_trash_can.info": "Can void items, fluids, and energy"
+    "trashcans.ultimate_trash_can.info": "Can void items, fluids, and energy",
+    "trashcans.block.energy_trash_can": "Energy Trash Can",
+    "trashcans.block.ultimate_trash_can": "Ultimate Trash Can",
+    "trashcans.block.item_trash_can": "Item Trash Can",
+    "trashcans.block.liquid_trash_can": "Fluid Trash Can"
 }

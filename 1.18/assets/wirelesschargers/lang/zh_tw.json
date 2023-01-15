@@ -21,5 +21,11 @@
     "wirelesschargers.screen.redstone_disabled": "Disabled",
     "wirelesschargers.screen.redstone_high": "High",
     "wirelesschargers.screen.redstone_low": "Low",
-    "wirelesschargers.screen.stored_energy": "Energy stored: %1$d / %2$d"
+    "wirelesschargers.screen.stored_energy": "Energy stored: %1$d / %2$d",
+    "wirelesschargers.block.advanced_wireless_block_charger": "Advanced Wireless Block Charger",
+    "wirelesschargers.item_group": "Wireless Chargers",
+    "wirelesschargers.block.basic_wireless_block_charger": "Basic Wireless Block Charger",
+    "wirelesschargers": "Wireless Chargers",
+    "wirelesschargers.block.advanced_wireless_player_charger": "Advanced Wireless Player Charger",
+    "wirelesschargers.block.basic_wireless_player_charger": "Basic Wireless Player Charger"
 }
