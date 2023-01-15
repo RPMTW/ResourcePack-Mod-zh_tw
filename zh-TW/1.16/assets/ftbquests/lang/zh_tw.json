@@ -391,5 +391,9 @@
     "ftbquests.task.ftbquests.structure": "找到結構",
     "ftbquests.task.ftbquests.structure.structure": "結構",
     "ftbquests.task.ftbquests.observation.observe_type": "類型",
-    "ftbquests.task.ftbquests.observation.to_observe": "觀察"
+    "ftbquests.task.ftbquests.observation.to_observe": "觀察",
+    "ftbquests.task.ftbquests.item.match_nbt": "匹配NBT",
+    "ftbquests.task.ftbquests.item.match_nbt.tooltip": "預設：項目必須在 'itemfilters:match_nbt' 項目標籤中\nFalse：從不檢查 NBT\nTure：始終檢查 NBT",
+    "ftbquests.task.ftbquests.item.weak_nbt_match": "弱NBT匹配",
+    "ftbquests.task.ftbquests.item.weak_nbt_match.tooltip": "False：需要精確的 NBT 匹配\nTrue：僅匹配頂級 NBT 字段\n   哪些在過濾器項中"
 }
