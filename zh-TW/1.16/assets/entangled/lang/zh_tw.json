@@ -20,5 +20,8 @@
     "entangled.waila.bound_other_dimension": "與 %1$s 綁定在 %5$s 的位置（%2$d, %3$d, %4$d）",
     "entangled.waila.unbound": "未綁定鑰匙",
     "entangled.entangled_binder.info.target.unknown": "Linked to a block in the %4$s at (%1$d, %2$d, %3$d)",
-    "entangled.entangled_binder.info.target.known": "Linked to %1$s in the %5$s at (%2$d, %3$d, %4$d)"
+    "entangled.entangled_binder.info.target.known": "Linked to %1$s in the %5$s at (%2$d, %3$d, %4$d)",
+    "config.jade.plugin_entangled.entangled_block_component": "Entangled Block",
+    "entangled.block.block": "Entangled Block",
+    "entangled.item.item": "Entangled Binder"
 }
