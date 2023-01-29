@@ -2405,7 +2405,7 @@
     "tile.thebetweenlands.rubber_tree_planks_treated.name": "Treated Rubber Tree Planks",
     "tile.thebetweenlands.rubber_tree_plank_stairs_treated.name": "Treated Rubber Tree Plank Stairs",
     "tile.thebetweenlands.rubber_tree_plank_slab_treated.name": "Treated Rubber Tree Plank Slab",
-    "tile.thebetweenlands.rubber_tree_plank_fence_treated.name": "Treated Rubber Treet Plank Fence",
+    "tile.thebetweenlands.rubber_tree_plank_fence_treated.name": "Treated Rubber Tree Plank Fence",
     "tile.thebetweenlands.rubber_tree_plank_fence_gate_treated.name": "Treated Rubber Tree Plank Fence Gate",
     "tile.thebetweenlands.giant_root_planks_treated.name": "Treated Giant Root Planks",
     "tile.thebetweenlands.giant_root_plank_stairs_treated.name": "Treated Giant Root Plank Stairs",
@@ -2689,5 +2689,9 @@
     "death.attack.bl.urchin_spikes": "%1$s was impaled by urchin spikes",
     "death.attack.flamejet": "%1$s was turned to ashes",
     "blsubtitles.entity.grub_hub_mist": "Mist sprays",
-    "blsubtitles.entity.grub_hub_suck": "Sucking"
+    "blsubtitles.entity.grub_hub_suck": "Sucking",
+    "item.thebetweenlands.pheromone_thorax_clutch.name": "Clutch of Pheromone Thoraxes",
+    "item.thebetweenlands.silky_pebble.name": "Silky Pebble",
+    "entity.thebetweenlands.silky_pebble.name": "Silky Pebble",
+    "blsubtitles.misc.silky_pebble": "Silky Pebble muffled mumbles"
 }

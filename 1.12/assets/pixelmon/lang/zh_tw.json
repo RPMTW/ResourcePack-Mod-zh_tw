@@ -12105,7 +12105,7 @@
     "pixelmon.wyrdeer.description": "The black orbs shine with an uncanny light when the Pokémon is erecting invisible barriers. The fur shed from its beard retains heat well and is a highly useful material for winter clothing.",
     "pixelmon.generic.form.hisuian": "Hisuian",
     "pixelmon.interaction.shake": "%s's Friendship increased!",
-    "pixelmon.interaction.shake.fail": "%s's already has its highest Friendship!",
+    "pixelmon.interaction.shake.fail": "%s's already at its highest Friendship!",
     "pixelmon.interaction.juice": "%s's %s increased!",
     "pixelmon.effect.zcritincreased": "%s boosted its critical-hit ratio using its Z-Power!",
     "pixelmon.effect.laserfocus": "%s concentrated intensely!",
@@ -12150,5 +12150,18 @@
     "argument.coordinate.invalid": "Invalid use of coordinate!",
     "argument.world.notfound": "World not found.",
     "argument.species.notfound": "Species not found.",
-    "argument.raidstars.invalid": "Invalid use of raidstars!"
+    "argument.raidstars.invalid": "Invalid use of raidstars!",
+    "item.griseous_core.name": "Griseous Core",
+    "item.adamant_crystal.name": "Adamant Crystal",
+    "item.lustrous_globe.name": "Lustrous Globe",
+    "item.black_augurite.name": "Black Augurite",
+    "item.black_augurite.tooltip": "A glassy black stone that produces a sharp cutting edge when split. It’s loved by a certain Pokémon.",
+    "item.peat_block.name": "Peat Block",
+    "item.peat_block.tooltip": "A block of muddy material that is loved by a certain Pokémon.",
+    "pixelmon.kleavor.name": "Kleavor",
+    "pixelmon.kleavor.description": "A violent creature that fells towering trees with its crude axes and shields itself with hard stone. If one should chance upon this Pokémon in the wilds, one's only recourse is to flee.",
+    "pixelmon.sneasler.name": "Sneasler",
+    "pixelmon.sneasler.description": "Because of Sneasler's virulent poison and daunting physical prowess, no other species could hope to best it on the frozen highlands. Preferring solitude, this species does not form packs.",
+    "pixelmon.ursaluna.name": "Ursaluna",
+    "pixelmon.ursaluna.description": "I believe it was Hisui's swampy terrain that gave Ursaluna its burly physique and newfound capacity to manipulate peat at will."
 }

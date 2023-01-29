@@ -1420,5 +1420,6 @@
     "gui.module.basic_solar_panel.name": "Basic Portable Solar Panel",
     "gui.module.advanced_solar_panel.name": "Advanced Portable Solar Panel",
     "gui.module.basic_solar_panel.desc": "Very slowly recharger's your space suit during the day time",
-    "gui.module.advanced_solar_panel.desc": "Slowly recharger's your space suit during the day time"
+    "gui.module.advanced_solar_panel.desc": "Slowly recharger's your space suit during the day time",
+    "item.tool.usage.name": "Remaining Uses"
 }
