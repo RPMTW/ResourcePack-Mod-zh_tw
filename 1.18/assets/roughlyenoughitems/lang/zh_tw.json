@@ -394,5 +394,7 @@
     "text.rei.hint.input.methods": "Congratulations on setting up an input method!\nYou may re-configure this with the Search Filter Button!",
     "text.rei.hint.favorites.discover": "You just removed a favorite entry!\nYou can add it back by clicking the + button over here!",
     "text.rei.hint.configure": "Configure",
-    "text.rei.hint.ignore": "Ignore"
+    "text.rei.hint.ignore": "Ignore",
+    "rule.roughlyenoughitems.filtering.hide.tag": "Tag Filtering",
+    "rule.roughlyenoughitems.filtering.hide.tag.subtitle": "Filter entries by 'c:hidden_from_recipe_viewers'. This is not configurable here."
 }

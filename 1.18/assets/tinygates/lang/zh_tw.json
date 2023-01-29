@@ -38,5 +38,5 @@
     "block.tinygates.edge_detector_block": "Edge Detector",
     "message.block.tinygates.edge_detector_block": "Outputs redstone pulse at start (rising edge) or stop (falling edge) of redstone signal to back input.\nRight click to toggle edge to detect (rising or falling).",
     "tinygates.close": "Close",
-    "tinygates.gui.clock.msg": "Clock Cycle Length (10 ticks/second)"
+    "tinygates.gui.clock.msg": "Cycle Ticks (10 ticks/second)"
 }

@@ -445,5 +445,10 @@
     "ftbquests.gui.goto_linked_quest": "Go to Linked Quest (in chapter: %s)",
     "ftbquests.gui.linked_quest_id": "Linked Quest ID: %s",
     "ftbquests.quest.locked": "Locked: uncompleted dependencies",
-    "ftbquests.gui.view_quest_links": "View Quest Link(s)"
+    "ftbquests.gui.view_quest_links": "View Quest Link(s)",
+    "ftbquests.quest_link.shape": "Shape",
+    "ftbquests.quest_link.size": "Size",
+    "ftbquests.quest_link.x": "X",
+    "ftbquests.quest_link.y": "Y",
+    "ftbquests.gui.edit_linked_quest": "Edit Linked Quest"
 }

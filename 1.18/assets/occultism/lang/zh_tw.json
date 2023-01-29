@@ -1523,5 +1523,8 @@
     "book.occultism.dictionary_of_spirits.getting_started.theurgy_divination_rod.more_info.text": "To find out more about the Theurgy Divination Rod, check out *\"The Hermetica\"*, the Guidebook for Theurgy.\n[This Entry](entry://theurgy:the_hermetica/getting_started/divination_rod) has more information about the Theurgy Divination Rod.\n",
     "book.occultism.dictionary_of_spirits.getting_started.theurgy_divination_rod.more_info.title": "More Information",
     "book.occultism.dictionary_of_spirits.getting_started.theurgy_divination_rod.name": "More Divination Rods",
-    "ritual.occultism.pentacle_help.no_pentacle": "§lNo pentacle found!§r\nIt seems you did not draw a pentacle, or your pentacle is missing large parts. See the \"Rituals\" section of the Dictionary of Spirits, the required Pentacle will be a clickable blue link above the ritual recipe on the ritual's page."
+    "ritual.occultism.pentacle_help.no_pentacle": "§lNo pentacle found!§r\nIt seems you did not draw a pentacle, or your pentacle is missing large parts. See the \"Rituals\" section of the Dictionary of Spirits, the required Pentacle will be a clickable blue link above the ritual recipe on the ritual's page.",
+    "book.occultism.dictionary_of_spirits.summoning_rituals.summon_transport_items.item_filters.text": "By default the Transporter is in \"Blacklist\" mode and will not move anything. Shift-click the transporter to open the config UI. You can then add items to the filter list to make it move only those items, or set it to \"Whitelist\" to move everything *except* the filtered items. You can also enter a tag in the text field below to filter by tag.\n",
+    "book.occultism.dictionary_of_spirits.summoning_rituals.summon_transport_items.item_filters.title": "Item Filters",
+    "jei.occultism.crushing.tier": "Min Crusher Tier: %d"
 }

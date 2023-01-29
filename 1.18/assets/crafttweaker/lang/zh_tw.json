@@ -98,5 +98,6 @@
     "crafttweaker.command.description.dump.fake_players": "Outputs information on all Fake Players",
     "crafttweaker.command.description.dump.tool_tiers": "Outputs information on all Tool Tiers",
     "crafttweaker.command.misc.fake_players": "Fake Players",
-    "crafttweaker.command.misc.tool_tiers": "Tool Tiers"
+    "crafttweaker.command.misc.tool_tiers": "Tool Tiers",
+    "crafttweaker.command.description.recipes.manager": "Outputs information on recipes for the recipe manager given as argument"
 }
