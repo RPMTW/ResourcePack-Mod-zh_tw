@@ -2860,5 +2860,10 @@
     "create.item_attributes.compostable": "can be composted",
     "create.item_attributes.compostable.inverted": "cannot be composted",
     "create.schedule.condition.threshold.anything": "Anything",
-    "create.schedule.condition.threshold.place_item_3": "Leave empty to match any"
+    "create.schedule.condition.threshold.place_item_3": "Leave empty to match any",
+    "create.schematic.error": "Schematic failed to Load - Check Game Logs",
+    "create.schematicannon.status.schematicErrored": "Incompatible Blocks",
+    "create.schematicannon.status.schematicErroredCheckLogs": "Check Server Logs",
+    "enchantment.create.capacity.desc": "Increases Backtank air capacity.",
+    "enchantment.create.potato_recovery.desc": "Potato Cannon projectiles have a chance to be reused."
 }
