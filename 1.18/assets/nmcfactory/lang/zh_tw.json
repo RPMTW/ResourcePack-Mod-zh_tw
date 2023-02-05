@@ -1,0 +1,20 @@
+{
+    "block.nmcfactory.chicken_spawner": "Chicken Spawner",
+    "block.nmcfactory.cooker_master": "AutoCooker",
+    "block.nmcfactory.cow_spawner": "Cow Spawner",
+    "block.nmcfactory.crafter_master": "AutoCrafter",
+    "block.nmcfactory.overflow_hopper": "Overflow Hopper",
+    "block.nmcfactory.pig_spawner": "Pig Spawner",
+    "block.nmcfactory.sheep_spawner": "Sheep Spawner",
+    "block.nmcfactory.sorter_master": "AutoSorter",
+    "block.nmcfactory.timer": "Redstone Timer",
+    "description.nmcfactory.cooker_master": "Occupies a 3x3 space and is 7 blocks tall. Has 4 slots that can be either input or output(front/back, above/below). Powered via redstone. Use either by placing an animal spawner inside to gather the cooked meat OR input up to 3 streams of items that can be cooked. Performance slows a bit as more items are to be cooked.",
+    "description.nmcfactory.crafter_master": "Occupies 9x9 space. Has 9 inputs and 1 output. Select a recipe to be crafted and collect the needed materials into the input slots via Hoppers. Power on with Redstone to start production. Place Chest/Hopper in front of the output to gather the crafted items.",
+    "description.nmcfactory.overflow_hopper": "Connect this to a container. If that container is full, the Overflow Hopper will redirect items into the container below.",
+    "description.nmcfactory.sorter_master": "Set an item to be sorted through. Can be placed in any direction. Click on the main pipe to set/unset the item to be sorted and click on the secondary pipe to rotate the sorter.",
+    "description.nmcfactory.timer": "Use to set up a countdown at the end of which a configurable amount of redstone pulses will be sent.",
+    "itemGroup.nmcfactory": "NMC Factory",
+    "tooltip.nmcfactory.cooker_cook": "Put cookable items here",
+    "tooltip.nmcfactory.cooker_output": "Furnace output",
+    "tooltip.nmcfactory.cooker_spawner": "Put an animal spawner here"
+}
