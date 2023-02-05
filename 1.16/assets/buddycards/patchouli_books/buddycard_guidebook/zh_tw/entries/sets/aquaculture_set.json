@@ -45,7 +45,7 @@
       "type": "spotlight",
       "item": "buddycards:medal.6",
       "title": "Aquaculture Set Medal",
-      "text": "The aquaculture set medal can be earned by getting all 27 cards, shiny and not shiny, of the create set. When equipped, it will give you Luck I.",
+      "text": "The aquaculture set medal can be earned by getting all 27 cards, shiny and not shiny, of the create set. When equipped, it will give you Water Breathing I.",
       "link_recipe": true
     },
     {
@@ -55,7 +55,7 @@
         "buddycards:enchantments/buddy_binding",
         "buddycards:enchantments/buddy_boost"
       ],
-      "text": "The medal can also be enchanted with Buddy Binding and Buddy Boost. Buddy Boost I will upgrade the medal to give Luck I & Dolphin Grace I, and Buddy Boost II will upgrade it to give Luck II & Dolphin Grace I."
+      "text": "The medal can also be enchanted with Buddy Binding and Buddy Boost. Buddy Boost I will upgrade the medal to give Speed I when underwater, and Buddy Boost II will give both Speed I and Resistance I when underwater."
     }
   ]
 }
