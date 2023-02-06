@@ -31,8 +31,8 @@
   "ui.all_%(mod)s_settings": "所有的%s選項",
   "ui.tags": "分類",
   "ui.change_permanently": "永久變更",
-  "ui.click_to_keep_the_settings_in_%(conf)s_to_save_across_restarts": "點擊此按鈕以使此選項保存於%s，重啟後依舊生效",
+  "ui.click_to_keep_the_settings_in_%(conf)s_to_save_across_restarts": "點擊此按鈕以使此選項保存於%s，重新啟動後依舊生效",
   "ui.rule_%(rule)s_will_now_default_to_%(value)s": "規則「%s」將會被預設設定為%s",
-  "ui.rule_%(rule)s_not_set_restart": "規則「%s」將在重啟後恢復預設值",
+  "ui.rule_%(rule)s_not_set_restart": "規則「%s」將在重新啟動後恢復預設值",
   "ui.current_value": "目前值"
 }
