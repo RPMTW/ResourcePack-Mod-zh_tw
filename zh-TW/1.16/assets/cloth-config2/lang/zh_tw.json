@@ -27,9 +27,9 @@
     "text.cloth-config.reset_value": "重置",
     "text.cloth.reset_value": "重置",
     "text.cloth-config.restart_required": "需要重新啟動",
-    "text.cloth-config.restart_required_sub": "您修改的設置要求Minecraft重新啟動。您要重啟嗎？",
+    "text.cloth-config.restart_required_sub": "您修改的設置要求Minecraft重新啟動。您要重新啟動嗎？",
     "text.cloth-config.exit_minecraft": "結束 Minecraft",
-    "text.cloth-config.ignore_restart": "忽略重啟",
+    "text.cloth-config.ignore_restart": "忽略重新啟動",
     "text.cloth-config.boolean.value.true": "§a是",
     "text.cloth-config.boolean.value.false": "§c否",
     "text.cloth-config.dropdown.value.unknown": "§c沒有建議項",
@@ -46,5 +46,5 @@
     "option.cloth-config.disableSmoothScroll": "停用滑動",
     "text.cloth-config.testing.1": "你是一個模組開發者，你想用%1$s嗎？去%2$s上開始吧！你也可以使用%3$s。",
     "text.cloth-config.testing.2": "Cloth Config 維基百科",
-    "text.cloth-config.testing.3": "單擊此處無特定原因打開 Minecraft 選項檔案"
+    "text.cloth-config.testing.3": "按一下此處無特定原因打開 Minecraft 選項檔案"
 }
