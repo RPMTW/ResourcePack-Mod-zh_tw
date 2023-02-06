@@ -11,7 +11,7 @@
   "block.anthillinside.hive.tooltips.help": "紅螞蟻在這裡工作和繁殖。一段時間後，蟻巢（在三個框框）增長。蟻巢中螞蟻越多，他們的效率就越快。為了加快工作和蟻巢的生長，把紅糖放在左邊的一個框框裡。要定義此蟻巢的工作任務，請將合成表、熔爐、漏斗、發射器等放入中間的工作攔。此外，通過左上角和右下角的漏斗框框，還可以實現自動輸入和輸出。\n§6將鼠標停在框框和符號上一會即可獲得更多資訊，以了解它們的用途。§r.",
   "block.anthillinside.hive.tooltips.inputselect": "§6輸入媒介：§r 將漏斗放入此插槽中，讓螞蟻在蟻巢的輸入端前面收集物品。 這些都可以是世界上的物品，從「箱子」或「 礦車」。",
   "block.anthillinside.hive.tooltips.inputside": "§6輸入端：§r 從外觀上看，上方大孔代表輸入。",
-  "block.anthillinside.hive.tooltips.insertionlock": "§6鎖定功能：§r 左鍵單擊鎖定或解鎖. 類似黑名單限制物品輸入。 當您按一下鎖定時，會記住左邊插槽中的所有物品，且只有這些物品可以輸入對應的格子中。 對於所有類型的物品輸入，空的插槽仍然是可用的。 當您解除鎖定時，會解除所有格子的限制。",
+  "block.anthillinside.hive.tooltips.insertionlock": "§6鎖定功能：§r 左鍵按一下鎖定或解鎖. 類似黑名單限制物品輸入。 當您按一下鎖定時，會記住左邊插槽中的所有物品，且只有這些物品可以輸入對應的格子中。 對於所有類型的物品輸入，空的插槽仍然是可用的。 當您解除鎖定時，會解除所有格子的限制。",
   "block.anthillinside.hive.tooltips.noants": "§6無螞蟻：§r 在上面的插槽中，沒有工作者螞蟻。 等待至少一隻螞蟻在這里長大或者從另一個蟻巢裡帶一些來放",
   "block.anthillinside.hive.tooltips.nofuel": "§6 無燃料：§r 左側沒有燃料，或不允許使用燃料。",
   "block.anthillinside.hive.tooltips.noingredients": "§6無配方：§r左側蟻巢物品可以製作配方。",
