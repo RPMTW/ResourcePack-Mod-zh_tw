@@ -79,7 +79,7 @@
     "commands.compactmachines3.schema.reload-files.description": "從磁碟和 jar 重新載入所有儲存的結構檔案",
     "commands.compactmachines3.recipe.description": "與多方塊結構配方相關的東西",
     "commands.compactmachines3.recipe.unpack-defaults.usage": "/compactmachines3 recipe unpack-defaults [force]",
-    "commands.compactmachines3.recipe.unpack-defaults.description": "從 .jar 提取預設配方到設定文件夾。 附加“force”來覆蓋現有的文件。",
+    "commands.compactmachines3.recipe.unpack-defaults.description": "從 .jar 提取預設配方到設定資料夾。 附加“force”來覆蓋現有的文件。",
     "commands.compactmachines3.recipe.copy-shape.usage": "/compactmachines3 recipe copy-shape",
     "commands.compactmachines3.recipe.copy-shape.description": "將你正指向的投影器的製作形狀複製到剪貼板中",
     "commands.compactmachines3.recipe.copy-shape.exception.not_looking_at_projector": "你沒有指向投影器的製作區域。",
