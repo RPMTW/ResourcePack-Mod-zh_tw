@@ -143,7 +143,7 @@
     "guide.entry.quantum_compression": "量子壓縮",
     "guide.entry.quantum_compression.page.1": "<b>量子壓縮<r>能將物品稍微進行壓縮。使用<red>量子壓縮機<r>即可進行壓縮。<n><n> <red>量子壓縮機<r>是一個需要<red>能量<r> 的機器，它能容納及對極大數量的材料進行壓縮。放在 <red>量子壓縮機<r>的物品將進入到其內部快取槽以用於壓縮。快取槽會以<blue>藍色<r>的條狀物顯示。<n><n>每個配方<i>一般<r>都需要一個<green>催化劑<r>。<red>催化劑<r>需被放置在最左邊的欄位中，它不會被消耗。",
     "guide.entry.quantum_compression.page.2": "一旦緩衝區中有足夠的物品，機器便會開始製作。<red>原子壓縮機<r>僅在製作時吃電。<n><n>如果您不小心將物品放入壓縮機中，可以按下輸入槽上方的<red>噴出<r>按鈕將其取回。 緩衝區中的物品儲存在無盡虛空中，只能通過噴出重新獲得。 破壞機器會導致這些物品永遠迷失，請小心！",
-    "guide.entry.quantum_compression.page.3": "<red>量子壓縮機<r>的項目輸入緩衝區能夠容納<red>數十億個<r>項目，但預設情況下僅容納配方所需的數量。 您可以透過單擊輸入緩衝區欄旁邊的<red>鎖定鍵<r>來禁用此限制。",
+    "guide.entry.quantum_compression.page.3": "<red>量子壓縮機<r>的項目輸入緩衝區能夠容納<red>數十億個<r>項目，但預設情況下僅容納配方所需的數量。 您可以透過按一下輸入緩衝區欄旁邊的<red>鎖定鍵<r>來禁用此限制。",
     "guide.entry.ender_crafting": "終界合成",
     "guide.entry.ender_crafting.page.1": "<b>終界合成<r>使用來自於虛空的力量。終界合成的設置包含<red>終界合成台<r>和<red>終界發電機<r>。合成台通過終界發電機從虛空中獲取能量。 您擁有的終界發電機越多，它的製造速度就越快。<n><n><red>終界發電機<r>可放置在<red>終界合成台<r>周圍<red>3格半徑<r>內的的任何位置。甚至在不同Y軸！<n><n><red>終界合成台<r>可以使用<red>自動化介面<r>自動化，可以自動輸入和抽出物品。",
     "guide.entry.interface": "自動化介面",
