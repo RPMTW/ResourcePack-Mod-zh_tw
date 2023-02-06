@@ -30,7 +30,7 @@
     "dsurround.text.lightlevel.toggle": "切換亮度顯示",
     "dsurround.text.chunkborders.toggle": "切換區塊邊界顯示",
     "dsurround.text.format.default": "§b(預設： %s)§r",
-    "dsurround.text.tooltip.restartRequired": "§c§o需要重啟遊戲",
+    "dsurround.text.tooltip.restartRequired": "§c§o需要重新啟動遊戲",
     "command.dsurround.dump.success": "成功導出 %1$s 至路徑 %2$s",
     "command.dsurround.dump.failure": "導出失敗"
 }
