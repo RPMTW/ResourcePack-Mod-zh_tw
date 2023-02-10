@@ -42,7 +42,7 @@
         },
         {
             "type": "text",
-            "text": "您可以在$(l:https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items)REI$(/l)中查看食譜。$(br2)要開始注魔只需將主要成分放在最後或右鍵單擊$(bold)注魔基座$()。"
+            "text": "您可以在$(l:https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items)REI$(/l)中查看食譜。$(br2)要開始注魔只需將主要成分放在最後或右鍵按一下$(bold)注魔基座$()。"
         },
         {
             "type": "image",
@@ -53,7 +53,7 @@
             ]
         },
         {
-            "type": "image",
+            "type": "圖片",
             "text": "並取結果。",
             "border": false,
             "images": [
