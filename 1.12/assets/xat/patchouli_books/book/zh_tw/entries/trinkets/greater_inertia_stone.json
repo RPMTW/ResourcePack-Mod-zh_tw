@@ -5,11 +5,11 @@
     "pages": [
         {
             "type": "text",
-            "text": "The Stone of Greater Inertia grants increased speed and jump height, however only grants partial knockback and fall damage resistance."
+            "text": "The Stone of Greater Inertia grants increased speed and jump height, however only grants partial knockback and fall damage resistance. Grants no resistance to kinetic damage."
         },
 		{
             "type": "text",
-            "text": "$(l)Default Attribute modifiers:$()$(br)$(2)+75%$() Fall Damage Resistance$(br)$(2)+40%$() Knockback Resistance$(br)$(2)+150%$() Movement Speed$(br)$(2)+200%$() Jump Height"
+            "text": "$(l)Default Attribute modifiers:$()$(br)$(2)+75%$() Fall Damage Resistance$(br)$(2)+40%$() Knockback Resistance$(br)$(2)+150%$() Movement Speed$(br)$(2)+100%$() Jump Height"
         },
 		{
             "type": "crafting",
