@@ -1,12 +1,12 @@
 {
-    "name": "The Portal",
+    "name": "傳送門",
     "icon": "the_afterlight:moonstone_2",
     "category": "the_afterlight:category_1",
     "sortnum": 5,
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "As mentioned previously, the Afterlight portal is made from strange obsidian and ignited with the staff of moonlight. First, construct a rectangular frame (similar to a nether portal) made out of the Strange Obsidian, and light it with the staff of moonlight. One lit, the dimension is accessible and ready to be explored."
+            "text": "和先前提到的一樣，通往隱光之域的傳送門是由怪異黑曜石搭建且需月光之杖開啟的。首先，搭建一個類似下界傳送門造型的怪異黑曜石框；然後用月光之杖點亮它即可。神秘的隱光之域就在那扇傳送門後，等著你前去探索。"
         },
         {
             "type": "patchouli:relations",
@@ -14,8 +14,8 @@
                 "the_afterlight:category_2_entry_1",
                 "the_afterlight:category_3_entry_1"
             ],
-            "text": "This tome will attempt to continue to give assistance when needed. See the next few sections of this book for help with surviving the Afterlight Dimension. This information will only be shown after you've entered the Afterlight itself.",
-            "title": "Read Next"
+            "text": "這部秘典會在將來有需要時繼續提供幫助。後面的章節記錄了更多有關隱光之域的知識，將在進入隱光之域後解鎖。",
+            "title": "延伸閱讀"
         }
     ]
 }
