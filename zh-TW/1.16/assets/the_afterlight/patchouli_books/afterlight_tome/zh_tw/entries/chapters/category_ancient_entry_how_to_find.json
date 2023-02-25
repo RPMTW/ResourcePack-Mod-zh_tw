@@ -1,5 +1,5 @@
 {
-    "name": "Lore",
+    "name": "故事",
     "icon": "the_afterlight:lore_scrap",
     "category": "the_afterlight:category_ancient",
     "sortnum": 2,
@@ -7,12 +7,12 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "Evidence of ancient forging can be found way earlier than Glyph working. It was a process the moonspawn used for quite some time to forge themselves advanced weaponry and the elemental amulet. Once glyph working was discovered, it was much easier to use because runes could be used to speed up the process. Previously, it required highly knowledgeable individuals to figure out how to make it work."
+            "text": "現有發現已能證明遠古鍛造比雕符製作出現得早得多，月民們之前一直在通過遠古鍛造製作強大的武器和元素護身符。雕符製作的技術被研究出來後，遠古鍛造的速度因雕符的加入而大大加快。在那之前，遠古鍛造難度很高，只為少數精於此道的月民掌握。"
         },
         {
             "type": "patchouli:text",
-            "title": "What this means",
-            "text": "Now, both glyph working and ancient forging are accessible and can be easily done provided that whoever doing it has the resources required."
+            "title": "這意味著……",
+            "text": "現如今，雕符製作和遠古鍛造兩門技術已發展得較為完善，任何有原料的人都能輕鬆上手。"
         }
     ]
 }
