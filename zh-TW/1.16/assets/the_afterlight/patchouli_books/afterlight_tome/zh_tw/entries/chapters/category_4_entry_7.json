@@ -1,5 +1,5 @@
 {
-    "name": "Geode Blade",
+    "name": "耀月之劍",
     "icon": "the_afterlight:geode_blade",
     "category": "the_afterlight:category_7",
     "sortnum": 1,
@@ -7,22 +7,22 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "Geode Blades are heavy but nevertheless far from dull greatswords. They are made of the previously mentioned precious geode crystals. When moonspawn researchers realized that geode's power hidden inside the blade could harm the moon, they attempted to use these blades against it. However, since the moon was not willing to accept a stab in it's face, it failed."
+            "text": "耀月之劍雖然沉重，但和普通巨劍不一樣。它們是用先前提到的耀月水晶製成的。當月民研究者們意識到耀月之劍蘊含的能量能傷害到月，他們就開始用耀月之劍向月發起了反抗。但是月顯然不想被驅逐，這一反抗最終失敗了。"
         },
         {
             "type": "patchouli:text",
-            "text": "The Geode Blade holds a healing ability. At the cost of experience points (10 points, to be exact), the blade will use the geode's power to heal the wielder by 5 health points. This ability has a cooldown of 10 seconds. To activate this ability, sneak on the ground + right click. ",
-            "title": "Special Ability"
+            "text": "耀月之劍擁有治療的能力。只要耗費10點經驗，耀月之劍就會使用自身的力量使持有者回覆5點生命。這一能力有10秒冷卻時間。在潛行狀態下右擊來激活此能力。",
+            "title": "特殊能力"
         },
         {
             "type": "patchouli:text",
-            "title": "Passive Ability",
-            "text": "On top of it's primary ability, a Geode Blade also holds a passive one. This particular one gives the wielder strength for a short time, but inflicts them with bad luck at the same time. It should be noted that the debuff lasts longer than the strength bonus. This is triggered every time you hit an enemy, but only with a 20% chance."
+            "title": "被動能力",
+            "text": "除其主要能力外，耀月之劍還有一被動能力。它能給予持有者短時間的力量效果，並同時給予霉運效果。值得注意的是負面效果的持續時間比正面效果的長。每次擊中敵人時有20%的概率觸發這一能力。"
         },
         {
             "type": "patchouli:text",
-            "text": "See the $(l:http://the-afterlight.fandom.com/wiki/Ancient_Crafting_Recipes)Afterlight Wiki$(/l) for the recipe to craft the Geode Blade. It requires a few glyphs, so make sure that you've started to dabble in the arts of Glyphs.",
-            "title": "The Recipe"
+            "text": "耀月之劍合成表參見$(l:http://the-afterlight.fandom.com/wiki/Ancient_Crafting_Recipes)隱光之域Wiki$(/l)。合成需要一些雕符，請確保你已開始研究雕符製作的技術。",
+            "title": "合成表"
         }
     ]
 }
