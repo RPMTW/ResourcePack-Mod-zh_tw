@@ -6,7 +6,7 @@
     "multiblock.error.phosphophyllite.invalid_block.corner": "無效角落方塊 (%s)，位於%s",
     "multiblock.error.phosphophyllite.invalid_block.generic": "無效方塊 (%s)，位於%s",
     "multiblock.error.phosphophyllite.unknown": "出現了未知的多方塊結構錯誤，請聯繫作者",
-    "multiblock.error.phosphophyllite.dimensions": "無法在該維度使用 \n實際：%d, %d, %d, \n允許最小值：%d, %d, %d, \n允許最大值：%d, %d, %d,",
+    "multiblock.error.phosphophyllite.dimensions": "無法在該次元使用 \n實際：%d, %d, %d, \n允許最小值：%d, %d, %d, \n允許最大值：%d, %d, %d,",
     "block.phosphophyllite.item_black_hole": "物品黑洞",
     "block.phosphophyllite.item_white_hole": "物品白洞",
     "block.phosphophyllite.fluid_black_hole": "液體黑洞",
