@@ -7,14 +7,14 @@
     "gui.death_history.title": "死亡歷史",
     "gui.death_history.name": "名字",
     "gui.death_history.date_format": "yyyy/MM/dd HH:mm:ss",
-    "gui.death_history.dimension": "維度",
+    "gui.death_history.dimension": "次元",
     "gui.death_history.location": "位置",
     "button.show_items": "物品",
     "key.death_history": "打開死亡歷史",
     "message.no_death_history": "沒有死亡歷史",
     "message.invalid_arguments": "無效參數",
     "chat.teleport_death_location": "傳送至死亡座標 %s",
-    "chat.teleport.wrong_dimension": "無法傳送！你在另一個維度。",
+    "chat.teleport.wrong_dimension": "無法傳送！你在另一個次元。",
     "chat.teleport.no_permission": "你沒有傳送的許可權",
     "tooltip.teleport": "傳送"
 }
