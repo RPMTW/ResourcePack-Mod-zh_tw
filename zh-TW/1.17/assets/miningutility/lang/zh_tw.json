@@ -7,7 +7,7 @@
     "block.miningutility.inverted_rope_ladder": "繩梯（倒置）",
     "message.miningutility.escape_rope.setteleport": "設定傳送座標， %d %d %d。",
     "message.miningutility.escape_rope.fail": "傳送失敗了! 查看工具提示以了解如何設定傳送位置。",
-    "message.miningutility.escape_rope.fail.other_dimension": "傳送失敗了! 不能在維度之間傳送。",
+    "message.miningutility.escape_rope.fail.other_dimension": "傳送失敗了! 不能在次元之間傳送。",
     "item.miningutility.escape_rope.tooltip.1.set": "傳送位置設定為 ",
     "item.miningutility.escape_rope.tooltip.1.coordinates": "%d, %d, %d",
     "item.miningutility.escape_rope.tooltip.1.unset": "傳送位置上未設定！",
