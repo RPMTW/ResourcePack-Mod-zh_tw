@@ -6,7 +6,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "調節器管道模組是一個$(thing)管上/$模組，用於限制通過管道的$(l:base_concepts/pressure)壓力/$。要設定模組工作的閾值 $(formula)Pt/$，施加強度為 $(formula)S/$ 的$(#f00)紅石信號/$：$(p)$(formula)  Pt = (15 - S) / 2/$$(p)例如，強度為 6 的$(#f00)紅石信號/$將把壓力閾值設定為 $(formula) (15 - 6) / 2 = 4.5 bar/$。"
+      "text": "調節器管道模組是一個$(thing)管上/$模組，用於限制通過管道的$(l:base_concepts/pressure)壓力/$。要設定模組工作的閾值 $(formula)Pt/$，施加強度為 $(formula)S/$ 的$(#f00)紅石訊號/$：$(p)$(formula)  Pt = (15 - S) / 2/$$(p)例如，強度為 6 的$(#f00)紅石訊號/$將把壓力閾值設定為 $(formula) (15 - 6) / 2 = 4.5 bar/$。"
     },
     {
       "type": "text",
@@ -19,7 +19,7 @@
     {
       "type": "text",
       "title": "高級印刷電路板",
-      "text": "向調節器管道模組安裝$(l:tubes/advanced_pcb)高級印刷電路板/$後，可以在設定介面中更精細地控制閾值。或者，在勾選$(bold)高級設定/$標籤頁後，基於紅石信號調整插值閾值。這一功能與$(l:tubes/pressure_gauge_module#img)壓力表管道模組/$相同。"
+      "text": "向調節器管道模組安裝$(l:tubes/advanced_pcb)高級印刷電路板/$後，可以在設定介面中更精細地控制閾值。或者，在勾選$(bold)高級設定/$標籤頁後，基於紅石訊號調整插值閾值。這一功能與$(l:tubes/pressure_gauge_module#img)壓力表管道模組/$相同。"
     },
     {
       "type": "crafting",
