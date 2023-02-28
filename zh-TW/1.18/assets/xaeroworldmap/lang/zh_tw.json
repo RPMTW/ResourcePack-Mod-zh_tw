@@ -65,7 +65,7 @@
     "gui.xaero_no_world_map_message": "地圖被停用，因為你有一個停用世界地圖的藥水效果。",
     "gui.xaero_box_zoom_in": "放大\n（或滑鼠滾輪）",
     "gui.xaero_box_zoom_out": "縮小\n（或滑鼠滾輪）",
-    "gui.xaero_box_controls": "控制\n \n  按一下並拖曳以滾動地圖。\n  滾動滑鼠滾輪以放大和縮小（按 Ctrl 鍵來精確地操作）。\n  在地圖上按右鍵以獲得一些有用的快捷方式。\n  一些介面按鈕在其工具提示中顯示了額外的按鍵綁定。\n \n  在地圖元素（例如定位點）上按右鍵以取得選項。\n  在此處按 %1$s 以編輯按鍵綁定。",
+    "gui.xaero_box_controls": "控制\n \n按一下並拖動以滾動地圖。\n滾動滑鼠滾輪以放大和縮小。\n按右鍵地圖以獲取一些有用的快捷方式。\n 按 §2%2$s §r開啟全域設定。\n 按 §2%3$s §r用於替代放大。\n 按 §2%4$s §r用於替代縮小。\n 按 %1$s 點擊此處編輯按鍵。",
     "gui.xaero_box_controls_minimap": "\n定位點控制：\n 按 §2%s §r創建一個新的定位點。\n 按 §2%s §r創建一個快速的臨時定位點。\n按 §2%s §r切換定位點集。\n按 §2%s §r切換渲染所有定位點集。\n按 §2%s §r開啟完整的定位點選單。\n按右鍵現有定位點以進行更多定位點控制。\n \n ",
     "gui.xaero_box_export": "將地圖匯出成PNG圖檔",
     "gui.xaero_export_confirm_1": "確定要將地圖匯出成PNG圖檔嗎？",
@@ -192,5 +192,6 @@
     "gui.xaero_wm_box_pac_claims_border_opacity": "The opacity of the chunk claims overlay border color. Chunk claims require the Open Parties and Claims mod.",
     "gui.xaero_wm_pac_claims_fill_opacity": "Chunk Claims Fill Opacity",
     "gui.xaero_wm_box_pac_claims_fill_opacity": "The opacity of the chunk claims overlay fill color. Chunk claims require the Open Parties and Claims mod.",
-    "gui.xaero_wm_display_stained_glass": "顯示染色玻璃"
+    "gui.xaero_wm_display_stained_glass": "顯示染色玻璃",
+    "gui_xaero_wm_dropdown_map_select": "Map Selection"
 }
