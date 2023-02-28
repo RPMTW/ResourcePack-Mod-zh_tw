@@ -130,7 +130,7 @@
     "gui.computercraft:config.command_require_creative": "對電腦下指令需要創造模式",
     "gui.computercraft:config.execution": "執行",
     "gui.computercraft:config.execution.computer_threads": "電腦執行緒",
-    "gui.computercraft:config.execution.max_main_global_time": "伺服器標記全局時間限制",
+    "gui.computercraft:config.execution.max_main_global_time": "伺服器標記全域時間限制",
     "gui.computercraft:config.execution.max_main_computer_time": "伺服器標記電腦時間限制",
     "gui.computercraft:config.http": "HTTP 通訊協定",
     "gui.computercraft:config.http.enabled": "啟用 HTTP API",
