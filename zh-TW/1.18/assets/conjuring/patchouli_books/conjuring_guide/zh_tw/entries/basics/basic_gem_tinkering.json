@@ -11,7 +11,7 @@
     {
       "type": "patchouli:crafting",
       "recipe": "conjuring:crafting/gem_tinkerer",
-      "text": "要操作$(item)寶石工匠$(),  首先要在上面放一些 $(l:conjuring:basics/conjuration_essence#lesser_essence)次級咒法精華$()在上面. 所有懸停列都需要安裝所需的項目。最後，一個簡單的  $(thing)Shift-右鍵單擊$(),$(thing)空手$()將啟動製作過程。"
+      "text": "要操作$(item)寶石工匠$(),  首先要在上面放一些 $(l:conjuring:basics/conjuration_essence#lesser_essence)次級咒法精華$()在上面. 所有懸停列都需要安裝所需的項目。最後，一個簡單的  $(thing)Shift-右鍵按一下$(),$(thing)空手$()將啟動製作過程。"
     },
     {
       "type": "patchouli:text",
