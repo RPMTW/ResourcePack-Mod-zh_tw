@@ -19,7 +19,7 @@
     "autooredictconv.command.odc.list.tag": "§n標籤轉換§r",
     "autooredictconv.command.odc.list.item": "§n物品轉換§r",
     "autooredictconv.command.odc.add": "新增了 §6{0}§r 作為 §6{1}§r 標記的預設轉換",
-    "autooredictconv.command.odc.add.none": "§4該物品沒有標籤（或所有標籤都被列入黑名單以防止大規模轉換）。你可以考慮手動將直接轉換添加到設定檔案並執行指令 §6/odc reload§4.§r",
+    "autooredictconv.command.odc.add.none": "§4該物品沒有標籤（或所有標籤都被列入黑名單以防止大規模轉換）。你可以考慮手動將直接轉換新增到設定檔案並執行指令 §6/odc reload§4.§r",
     "autooredictconv.command.odc.reload": "§aConversions模組重新載入！",
     "autooredictconv.command.odc.remove": "移除帶有標籤 §c{0}§r 的轉換（如果存在）",
     "autooredictconv.command.odc.pause.invalid": "此指令只能由玩家使用！",
