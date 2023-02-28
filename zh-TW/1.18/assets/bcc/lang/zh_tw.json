@@ -1,6 +1,6 @@
 {
     "bcc.gui.tooltip.compatible_server": "§3伺服器：{0}\n§2玩家端（你）：{1}",
     "bcc.gui.tooltip.incompatible_server": "§6你執行的modpack§6與伺服器版本不同 :(\n \n§4伺服器：{0}\n§4玩家端（你）：{1}",
-    "bcc.menu.multiplayer.incompatible": "不相容",
-    "bcc.menu.multiplayer.compatible": "相容"
+    "bcc.menu.multiplayer.incompatible": "不兼容",
+    "bcc.menu.multiplayer.compatible": "兼容"
 }
