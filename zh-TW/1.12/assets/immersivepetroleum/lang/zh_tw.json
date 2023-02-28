@@ -67,7 +67,7 @@
     "ie.manual.entry.oilVowel": "一個",
     "ie.manual.entry.oilDimValid": "%3$s §l%1$s§r是可以在%2$s中找到的流體儲藏。",
     "ie.manual.entry.oilDimInvalid": "%3$s §l%1$s§r是一種在%2$s中無法找到的流體儲藏。",
-    "ie.manual.entry.oilDimAny": "%2$s §l%1$s§r是一種可以在任何維度找到的流體儲藏。",
+    "ie.manual.entry.oilDimAny": "%2$s §l%1$s§r是一種可以在任何次元找到的流體儲藏。",
     "ie.manual.entry.oilReplenish": "<br>在油藏枯竭時，一台採油機可以提取出 %1$d mB/tick 的%2$s。",
     "ie.manual.entry.oilBiomeValid": "這個流體儲藏將會在 %s 生態域生成。",
     "ie.manual.entry.oilBiomeInvalid": "這個流體儲藏將會在除 %s 外的任何生態域生成。",
