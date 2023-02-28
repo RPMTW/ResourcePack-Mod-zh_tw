@@ -273,7 +273,7 @@
     "msg.label.destName": "目的地名稱",
     "msg.label.coords": "坐標",
     "msg.spaceElevator.button.summon": "呼喚太空艙",
-    "msg.spaceElevator.sameDimensionError": "無法在同一維度上連接兩部電梯！",
+    "msg.spaceElevator.sameDimensionError": "無法在同一次元上連接兩部電梯！",
     "msg.spaceElevator.linkNotGeostationaryError": "太空站不在靜止軌道上！",
     "msg.spaceElevator.tetherWouldBreakError": "太空站必須處在正上方，且位於靜止軌道才可接收繫繩！",
     "msg.spaceElevator.linkCannotChangeError": "電梯繫繩無法在已連接時變更位置！",
@@ -312,7 +312,7 @@
     "msg.abdp.massresearch": "質量研究",
     "msg.terraformer.atminc": "增加大氣",
     "msg.terraformer.atmdec": "減少大氣",
-    "msg.terraformer.running": "運行",
+    "msg.terraformer.running": "運作",
     "msg.terraformer.missingbiome": "缺少生態域改變器連接",
     "msg.terraformer.outofgas": "中止：燃料耗盡",
     "msg.terraformer.notrunning": "未執行",
@@ -458,6 +458,6 @@
     "msg.muchTooDense": "警告：空氣壓力極高，空氣無法呼吸！",
     "msg.chat.nostation1": "你在空間站醒來時，有一種揮之不去的感覺，即你的遠距離太空行走被一些長老狐狸神皺了眉頭，再次嘗試並期待不同的結果將是愚蠢的。",
     "msg.chat.nostation2": "也許你應該在再次超越明確的邏輯和絕對界限之前考慮一下，然後確定這是一個好主意，如果出現問題，這不是你的錯",
-    "msg.chat.nostation3": "你必須在太空站上面太能進入這個維度，而且你沒有創建任何太空站",
+    "msg.chat.nostation3": "你必須在太空站上面太能進入這個次元，而且你沒有創建任何太空站",
     "item.itemUpgrade.5.name": "地球光明面罩"
 }
