@@ -18,7 +18,7 @@
         },
         {
             "type": "text",
-            "text": "這些是曾經連接終界和主世界的宏偉傳送門的遺跡。$(br2)想要激活傳送門，您需要恢復框架（如果它是毀壞的）。"
+            "text": "這些是曾經連接終界和主世界的宏偉傳送門的遺跡。$(br2)想要啟用傳送門，您需要恢復框架（如果它是毀壞的）。"
         },
         {
             "type": "image",
@@ -30,7 +30,7 @@
         },
         {
             "type": "image",
-            "text": "放置最後一個水晶後，傳送門將被激活。",
+            "text": "放置最後一個水晶後，傳送門將被啟用。",
             "border": false,
             "images": [
                 "betterend:textures/images/eternal_ritual/ritual_finished.png"
