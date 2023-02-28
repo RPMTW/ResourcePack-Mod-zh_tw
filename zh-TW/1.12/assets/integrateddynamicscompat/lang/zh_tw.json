@@ -188,8 +188,8 @@
     "aspect.aspects.integrateddynamics.write.itemstack.refinedstorage.cancelcraft.info": "取消 RS 網路中所有進行的給定物品的合成。",
     "aspect.aspects.integrateddynamics.write.list.refinedstorage.cancelcraft.name": "RS 取消合成",
     "aspect.aspects.integrateddynamics.write.list.refinedstorage.cancelcraft.info": "取消 RS 網路中所有進行的給定物品列表的合成。",
-    "aspect.aspects.integrateddynamics.write.list.signals.destinations.name": "信號礦車目的地",
+    "aspect.aspects.integrateddynamics.write.list.signals.destinations.name": "訊號礦車目的地",
     "aspect.aspects.integrateddynamics.write.list.signals.destinations.info": "給礦車設定一個新的目的地列表。",
-    "aspect.aspects.integrateddynamics.write.integer.signals.destindex.name": "信號礦車目的地索引",
+    "aspect.aspects.integrateddynamics.write.integer.signals.destindex.name": "訊號礦車目的地索引",
     "aspect.aspects.integrateddynamics.write.integer.signals.destindex.info": "設定礦車下一個目的地索引（從零開始）。"
 }
