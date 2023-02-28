@@ -1,7 +1,7 @@
 {
     "bq_msi.task.rc_locate": "任務定位結構",
     "bq_msi.task.multiblock": "任務創建多方塊",
-    "command.getStructureName.usage": "/getStructureName\tOptional: <維度> <X 座標> <Z 座標>",
+    "command.getStructureName.usage": "/getStructureName\tOptional: <次元> <X 座標> <Z 座標>",
     "command.getMultiblockCache.usage": "/getMultiblockCache",
     "command.clearMultiblockCache.usage": "/clearMultiblockCache",
     "bq_msi.gui.structure": "結構：%s",
