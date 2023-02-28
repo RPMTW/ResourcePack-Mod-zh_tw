@@ -32,8 +32,8 @@
     "sync.config.prop.damageGivenOnShellConstruction.name": "在殼體建立時給予的傷害值\nsync.config.prop.hardcoreMode.comment=允許極限模式配方?\\n0 = 不\\n1 = 是\\n2 = 是，但僅限極限模式。",
     "sync.config.prop.overrideDeathIfThereAreAvailableShells.name": "在有殼體的情況下覆蓋死亡",
     "sync.config.prop.prioritizeHomeShellOnDeath.name": "在死亡時優先使用家園殼體？\nsync.config.prop.ratioRF.comment=Redstone Flux : Piggawatt的比列。\\n1RF = <設定>PG\\n預設為 1 RF 製造 2 PG",
-    "sync.config.prop.crossDimensionalSyncingOnDeath.name": "死亡時跨維度同步",
-    "sync.config.prop.allowChunkLoading.name": "允許區塊載入\nsync.config.prop.allowCrossDimensional.comment=允許跨維度殼體同步？\\n警告：目前出入末路之地有個問題，你需要在同步後重新登入，因為區塊尚未載入。\\n如允許末路之地，請自行承擔風險。\\n0 = 不\\n1 = 是，但不包括末路之地\\n2 = 是，包括末路之地",
+    "sync.config.prop.crossDimensionalSyncingOnDeath.name": "死亡時跨次元同步",
+    "sync.config.prop.allowChunkLoading.name": "允許區塊載入\nsync.config.prop.allowCrossDimensional.comment=允許跨次元殼體同步？\\n警告：目前出入末路之地有個問題，你需要在同步後重新登入，因為區塊尚未載入。\\n如允許末路之地，請自行承擔風險。\\n0 = 不\\n1 = 是，但不包括末路之地\\n2 = 是，包括末路之地",
     "sync.config.prop.hardcoreMode.name": "極限模式\nsync.config.prop.overrideDeathIfThereAreAvailableShells.comment=如玩家有其他殼體，允許覆蓋玩家的死亡？\\n0 = 不\\n1 = 對，但只對收藏單位\\n2 = 對，對收藏和建築單位",
     "sync.config.prop.ratioRF.name": "RF:PG比列\nsync.config.prop.reduceHealthOnDeathSync.comment=在死亡同步時減少血量（可疊加）？\\n（2 = 1心）",
     "sync.config.prop.showAllShellInfoInGui.name": "在GUI顯示所有殼體資訊",
@@ -41,7 +41,7 @@
     "sync.config.prop.shellConstructionPowerRequirement.comment": "殼體建立需要的能量需求",
     "sync.config.prop.damageGivenOnShellConstruction.comment": "在新殼體建立時對玩家給予半心傷害數值。",
     "sync.config.prop.prioritizeHomeShellOnDeath.comment": "在玩家死亡和重新同步時有線「家園」殼體？",
-    "sync.config.prop.crossDimensionalSyncingOnDeath.comment": "在玩家死亡和重新同步時允許跨維度同步？",
+    "sync.config.prop.crossDimensionalSyncingOnDeath.comment": "在玩家死亡和重新同步時允許跨次元同步？",
     "sync.config.prop.allowChunkLoading.comment": "依需求新增，模組可以對區塊載入殼體。未測試，不支持。\\n可造成嚴重的世界崩潰。\\n自負風險停用。",
     "sync.config.prop.transferPersistentItems.comment": "運送所有一直有效的物品（例如從匠魂的靈魂綁定）。\\n可能會導致所有複製玩家物品欄的 mod 出問題"
 }
