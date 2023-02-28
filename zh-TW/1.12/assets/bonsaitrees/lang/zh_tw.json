@@ -3,7 +3,7 @@
     "tile.bonsaitrees.bonsaipot.hopping.name": "漏斗盆栽盆",
     "commands.bonsaitrees.usage": "/bonsaitrees [子命令，留空顯示可用子命令列表]",
     "commands.bonsaitrees.available": "可用子命令：",
-    "commands.bonsaitrees.denied": "你沒有使用此命令的權限。",
+    "commands.bonsaitrees.denied": "你沒有使用此指令的權限。",
     "commands.bonsaitrees.saveTreeShape.description": "已將你目前指向的樹保存為 JSON 格式檔案。",
     "commands.bonsaitrees.saveTreeShape.usage": "/bonsaitrees saveTreeShape <類型名稱>，例如 \"forestry:hillCherry\"",
     "commands.bonsaitrees.saveTreeShape.exception.no_itemstack_in_mainhand": "你的主手上必須有物品！",
