@@ -7,8 +7,8 @@
     "itemGroup.restrictions": "建築工人限制",
     "message.restrictions.shiftmessage": "<按Shift>",
     "message.restrictions.glassboots.header": "如果你穿了這雙靴子，吸引方塊、推離方塊和單向方塊對你都沒有影響",
-    "message.restrictions.attractor.header": "這個方塊吸引了實體，物品，生物，玩家... 距離等於它接收到的紅石信號強度",
-    "message.restrictions.pusher.header": "這個方塊推離了實體，物品，生物，玩家... 距離等於它接收到的紅石信號強度",
+    "message.restrictions.attractor.header": "這個方塊吸引了實體，物品，生物，玩家... 距離等於它接收到的紅石訊號強度",
+    "message.restrictions.pusher.header": "這個方塊推離了實體，物品，生物，玩家... 距離等於它接收到的紅石訊號強度",
     "message.restrictions.oneway.header": "這股力量迫使實體，物品，生物，玩家...沿某個方向移動",
     "message.restrictions.oneway_wall.header": "這方塊只允許實體，物品，生物，玩家...沿某個方向移動"
 }
