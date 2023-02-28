@@ -1,9 +1,9 @@
 {
     "worldprimer.commands.error.create_schematic.failed": "無法創建示意圖或結構檔案",
     "worldprimer.commands.error.create_schematic.file_exists_no_override": "檔案 \"%s\" 已存在, 並未提供覆蓋選項!",
-    "worldprimer.commands.error.dimensionnotloaded": "維度%d 目前未載入!",
+    "worldprimer.commands.error.dimensionnotloaded": "次元%d 目前未載入!",
     "worldprimer.commands.error.filenotfound": "沒有找到檔案 \"%s\"",
-    "worldprimer.commands.error.invaliddimension": "維度%d 無法載入或不存在!",
+    "worldprimer.commands.error.invaliddimension": "次元%d 無法載入或不存在!",
     "worldprimer.commands.error.invalid.argument.mirror": "無效的鏡像參數 \"%s\"",
     "worldprimer.commands.error.invalid.argument.rotation": "無效的旋轉參數 \"%s\"",
     "worldprimer.commands.error.placestructure.function.unknown": "未知的數據塊函數名 \"%s\"",
