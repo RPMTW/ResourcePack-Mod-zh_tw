@@ -553,7 +553,7 @@
     "gui.xaero_box_category_include_list2": "要包含在「硬包含」所包含實體之上的（子）類別中的實體類型的清單。",
     "gui.xaero_box_category_exclude_list2": "要從（子）類別中已包含的實體類型中排除的實體類型的清單。可以同時用作「白名單」和「黑名單」，具體取決於您選擇的排除模式。這不會從實體雷達中移除實體，除非您從根「任何」類別中排除。「顯示」設定可以從雷達中移除實體。",
     "gui.xaero_box_category_hard_include2": "控制要自動包含在（子）類別中的實體，而無需手動將它們放入包含清單中。",
-    "gui.xaero_category_help2": "選擇一個子類別，然後前往其「設定」以配置光點顏色，名稱，圖示等內容。\n \n 當多個子類別包含同一實體時，清單中較高的子類別將被優先排序！創建自訂類別時，請記住這一點。通常，新的自訂類別應放在頂部。",
+    "gui.xaero_category_help2": "選擇一個子類別，然後前往其「設定」以配置光點顏色，名稱，圖示等內容。 \n \n 當多個子類別包含同一實體時，清單中較高的子類別將被優先排序！創建自訂類別時，請記住這一點。通常，新的自訂類別應放在頂部。",
     "gui.xaero_category_settings_save_confirm": "要在離開之前儲存變更嗎？",
     "gui.xaero_category_settings_save_confirm_warning": "警告：此確認畫面最近被替換了！",
     "gui.xaero_start_fading_at": "深度淡入淡出的最小 Y 座標距離",
