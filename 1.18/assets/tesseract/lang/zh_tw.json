@@ -37,5 +37,10 @@
     "gui.tesseract.info.tab.items": "Item Transport",
     "gui.tesseract.info.tab.fluid": "Fluid Transport",
     "gui.tesseract.info.tab.energy": "Energy Transport",
-    "tesseract.block.tesseract": "Tesseract"
+    "tesseract.block.tesseract": "Tesseract",
+    "tesseract.tesseract.highlight.channel_info.separator": "-",
+    "tesseract.tesseract.highlight.channel_info.inactive": "Inactive",
+    "tesseract.tesseract.highlight.channel_info": "  %1$s %2$s %3$s",
+    "tesseract.tesseract.highlight.redstone_blocked": "Blocked by redstone signal",
+    "tesseract.tesseract.highlight.channels": "Channels:"
 }
