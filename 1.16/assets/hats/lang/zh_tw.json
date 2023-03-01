@@ -215,5 +215,7 @@
     "subtitles.hats.hat_launcher.firing": "Hat launcher fires",
     "subtitles.hats.hat_launcher.hit": "Hat forced onto an entity's head",
     "subtitles.hats.hat.bonk": "Hat bonking off of a block",
-    "entity.hats.hat": "Hat"
+    "entity.hats.hat": "Hat",
+    "config.hats.prop.disableClientOnlyModeWarning.name": "Disable Client-Only Mode Warning",
+    "config.hats.prop.disableClientOnlyModeWarning.desc": "Disable the toast pop-up that tells you that Hats is running in Client-Only Mode."
 }

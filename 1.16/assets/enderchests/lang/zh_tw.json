@@ -1,5 +1,5 @@
 {
-    "_comment": "----------------------------------------------- ITEMS/BLOCKS/FLUIDS ----------------------------------------------!",
+    "_comment": "------------------------------------------------ MOD INTEGRATION -------------------------------------------------!",
     "itemGroup.enderchests": "EnderChests",
     "error.enderchests.bag.nolink1.txt": "Can not link bag, you do not own this chest",
     "error.enderchests.bag.nolink2.txt": "Can not link bag, Chest owner is unknown",
@@ -24,5 +24,24 @@
     "item.enderchests.bag.team": "Ender Bag",
     "block.enderchests.chest.public": "Ender Chest",
     "block.enderchests.chest.private": "Ender Chest",
-    "block.enderchests.chest.team": "Ender Chest"
+    "block.enderchests.chest.team": "Ender Chest",
+    "error.enderchests.bag.nolink1": "Can not link bag, you do not own this chest",
+    "error.enderchests.bag.nolink2": "Can not link bag, Chest owner is unknown",
+    "error.enderchests.bag.nolink3": "Can not link bag, you're not on the same team",
+    "error.enderchests.bag.corrupted": "Can not open bag; Stack NBT data missing",
+    "error.enderchests.chest.public.disabled": "Public chests are disabled, chests must be upgraded to use",
+    "error.enderchests.chest.private.disabled": "Creation of private chests is disabled",
+    "error.enderchests.chest.team.disabled": "Creation of team chests is disabled",
+    "error.enderchests.chest.private.denied": "Only the owner can preform that action",
+    "error.enderchests.chest.team.denied": "Only team members can preform that action",
+    "error.enderchests.chest.upgrade_used": "That upgrade item can only be applied once per chest",
+    "error.enderchests.bag.public.disabled": "Public bags are disabled",
+    "error.enderchests.bag.private.disabled": "Creation of private bags is disabled",
+    "error.enderchests.bag.team.disabled": "Creation of team bags is disabled",
+    "info.enderchests.chest.public": "Public Use",
+    "info.enderchests.chest.code": "Code:",
+    "info.enderchests.chest.capacity": "Chest capacity increased to",
+    "info.enderchests.craftingmaterial": "Crafting Material",
+    "hud.enderchests.server_data_missing": " §6⚠ §4Server Side Data Missing §6⚠",
+    "config.jade.plugin_enderchests.hud": "Enable Plugin"
 }

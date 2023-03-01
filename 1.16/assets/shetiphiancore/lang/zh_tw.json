@@ -1,5 +1,5 @@
 {
-    "_comment": "------------------------------------------------ NAME CORRECTIONS ------------------------------------------------!",
+    "_comment": "------------------------------------------------ MOD INTEGRATION -------------------------------------------------!",
     "info.down": "Down",
     "info.up": "Up",
     "info.north": "North",
@@ -89,5 +89,15 @@
     "shetiphiancore.team.sysadmin.disband.inform": "An admin disbanded %1$s, you are no longer in a team",
     "info.shetiphian.texture.missing": "Texture Data Missing",
     "info.shetiphian.texture.invalid": "Texture Block Missing",
-    "info.shetiphian.texture.defaulted": "Using Default"
+    "info.shetiphian.texture.defaulted": "Using Default",
+    "gui.side_disabled": "Disabled",
+    "info.shetiphian.holdshift": "§2Hold SHIFT for more info",
+    "info.shetiphian.creativeolny": "§eCreative Mode Only Item",
+    "info.shetiphian.guide": "Fruzstrated's Guide",
+    "error.shetiphian.team.noteam": "Your not on a team",
+    "error.shetiphian.team.wrong": "Object owned by another team",
+    "hud.shetiphiancore.extended_power": "Extended Power:",
+    "config.jade.plugin_shetiphiancore.hud": "Enable Plugin",
+    "config.jade.plugin_shetiphiancore.hud.rgb16": "RGB16 Block Values",
+    "config.jade.plugin_shetiphiancore.hud.redstone": "Extended Redstone"
 }
