@@ -603,5 +603,15 @@
     "craftpresence.placeholders.getResult.usage": "getResult(input)",
     "craftpresence.placeholders.hasField.description": "Retrieves whether the specified class contains the specified field name",
     "craftpresence.placeholders.hasField.usage": "hasField(classToAccess, fieldName)",
-    "craftpresence.logger.warning.config.disabled.enable_join_request": "Join request support is disabled in your config. Please enable it to accept and send join requests in Discord!"
+    "craftpresence.logger.warning.config.disabled.enable_join_request": "Join request support is disabled in your config. Please enable it to accept and send join requests in Discord!",
+    "gui.config.name.display.start_timestamp": "Start Timestamp Format",
+    "gui.config.name.display.end_timestamp": "End Timestamp Format",
+    "craftpresence.placeholders.getNbt.description": "Attempt to retrieve the NBT Tag with the specified path",
+    "craftpresence.placeholders.getNbt.usage": "getNbt(data=Entity|ItemStack, path=String...)",
+    "craftpresence.placeholders.isWithinValue.description": "Determines whether the specified value is within the specified range",
+    "craftpresence.placeholders.isWithinValue.usage": "isWithinValue(value, min, max, contains_min ?: false, contains_max ?: false, check_sanity ?: true)",
+    "craftpresence.logger.info.config.outdated": "Outdated Config Detected! Migrating from Schema v%1$s to v%2$s",
+    "craftpresence.logger.error.parser": "A parser exception has occurred:",
+    "craftpresence.logger.error.compiler": "A compiler exception has occurred:",
+    "craftpresence.logger.error.verbose": "Please enable verbose mode to view more details."
 }
