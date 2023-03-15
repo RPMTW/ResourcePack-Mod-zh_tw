@@ -566,5 +566,14 @@
     "gui.xaero_minimap_info_display_manager": "Info Display Manager",
     "gui.xaero_minimap_info_display_manager_help": "Click and drag the elements to change the order of the displayed information.",
     "gui.xaero_info_display_background_opacity": "Info Display Background Opacity",
-    "gui.xaero_box_info_display_background_opacity": "The opacity of the colored backgrounds of information types that have a background enabled in the info display manager."
+    "gui.xaero_box_info_display_background_opacity": "The opacity of the colored backgrounds of information types that have a background enabled in the info display manager.",
+    "gui.xaero_entity_display_height": "Display Height",
+    "gui.xaero_entity_display_height_full": "Display Entity Height",
+    "gui.xaero_infodisplay_chunk_coords": "Chunk Coordinates",
+    "gui.xaero_entity_display_height_actual": "Actual",
+    "gui.xaero_entity_display_height_relative": "Relative",
+    "gui.xaero_entity_display_height_direction": "Direction",
+    "gui.xaero_destination": "Destination",
+    "gui.xaero_box_waypoint_type": "Enabled - regular waypoint \\n Disabled - regular hidden waypoint \\n Temporary - waypoint disappears on world exit \\n Destination - waypoint disappears when reached",
+    "gui.xaero_infodisplay_real_time": "Real Time"
 }
