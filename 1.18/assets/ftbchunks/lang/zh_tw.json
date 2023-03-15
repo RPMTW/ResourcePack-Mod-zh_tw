@@ -11,7 +11,7 @@
     "ftbchunks.in_world_waypoints": "Show waypoints in world",
     "ftbchunks.death_waypoints": "Create death waypoints on death",
     "ftbchunks.map_mode": "Map mode",
-    "ftbchunks.waypoint_fade_distance": "Waypoint fade distance",
+    "ftbchunks.waypoint_fade_distance": "Waypoint beacon fade distance",
     "ftbchunks.biome_blend": "Biome blend",
     "ftbchunks.biome_blend.none": "None (Fastest)",
     "ftbchunks.biome_blend.blend_3x3": "Blend 3x3",
@@ -141,5 +141,8 @@
     "ftbteamsconfig.ftbchunks.location_mode.tooltip": "Controls who can see you on the map or minimap (outside the normal vanilla tracking range)",
     "ftbteamsconfig.ftbchunks.claim_visibility.tooltip": "Controls who can see your claims on the map or minimap",
     "ftbchunks.max_idle_days_before_unforce": "Max Idle Days Before Unforceload",
-    "ftbchunks.max_idle_days_before_unforce.tooltip": "If no team member logs in for this many days,\nany force-loaded chunks will no longer be force-loaded.\nSetting this to 0 disables auto-unforceloading."
+    "ftbchunks.max_idle_days_before_unforce.tooltip": "If no team member logs in for this many days,\nany force-loaded chunks will no longer be force-loaded.\nSetting this to 0 disables auto-unforceloading.",
+    "ftbchunks.waypoint_dot_fade_distance": "Waypoint dot fade distance",
+    "ftbteamsconfig.ftbchunks.block_edit_and_interact_mode": "Block Edit/Interact Mode",
+    "ftbteamsconfig.ftbchunks.block_edit_and_interact_mode.tooltip": "Used when blocks are being placed, broken, or interacted with"
 }

@@ -45,5 +45,7 @@
     "item.curios.ring": "Curious Ring",
     "item.curios.crown": "Curious Crown",
     "item.curios.knuckles": "Curious Knuckles",
-    "commands.curios.replace.success": "Replaced slot %s for %s with %s"
+    "commands.curios.replace.success": "Replaced slot %s for %s with %s",
+    "commands.curios.drop.success": "Dropped items in slot %s for %s",
+    "commands.curios.dropAll.success": "Dropped items in all slots for %s"
 }

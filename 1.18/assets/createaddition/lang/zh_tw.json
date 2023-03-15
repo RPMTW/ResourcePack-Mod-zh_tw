@@ -257,5 +257,6 @@
     "createaddition.display_source.accumulator.remaining": "Remaining FE",
     "createaddition.display_source.accumulator.display": "Choose an Option:",
     "death.attack.barbed_wire": "%1$s tried to cross barbed wire",
-    "death.attack.barbed_wire.player": "%1$s tried to cross barbed wire shock while fighting %2$s"
+    "death.attack.barbed_wire.player": "%1$s tried to cross barbed wire while fighting %2$s",
+    "createaddition.ponder.modular_accumulator.text_5": "To improve mod compatibility, the Accumulator will activlty push energy to blocks placed on the top and bottom faces."
 }

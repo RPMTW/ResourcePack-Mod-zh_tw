@@ -246,5 +246,6 @@
     "screen.ellemes_container_lib.current_option_notice": "This is your current preference.",
     "key.ellemes_container_lib.config": "[ECL] Open Screen Select",
     "chat.ellemes_container_lib.cannot_display_screen": "Cannot open the inventory with \"%s\" type, please try a different one.",
-    "generic.ellemes_container_lib.label": "[ECL] "
+    "generic.ellemes_container_lib.label": "[ECL] ",
+    "text.expandedstorage.disconnect.old_version": "Please update Expanded Storage."
 }
