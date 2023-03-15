@@ -173,5 +173,7 @@
     "gui.xaero_wm_pac_claims_fill_opacity": "Chunk Claims Fill Opacity",
     "gui.xaero_wm_box_pac_claims_fill_opacity": "The opacity of the chunk claims overlay fill color. Chunk claims require the Open Parties and Claims mod.",
     "gui.xaero_wm_display_stained_glass": "Display Stained Glass",
-    "gui_xaero_wm_dropdown_map_select": "Map Selection"
+    "gui_xaero_wm_dropdown_map_select": "Map Selection",
+    "gui.xaero_wm_hovered_biome": "Cursor Biome",
+    "gui.xaero_wm_unknown_biome": "Unknown Biome"
 }
