@@ -1,5 +1,5 @@
 {
-    "name": "結晶",
+    "name": "寶石",
     "icon": "apotheosis:gem",
     "category": "apotheosis:adventure/affix_loot",
     "flag": "apotheosis:adventure",
@@ -7,34 +7,34 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "A $(9)Gem$() is a crystal of condensed strength.$(p)When socketed into an affix item, a Gem will provide a powerful attribute bonus whenever the item normally would."
+            "text": "$(9)寶石$()是力量濃縮而成的結晶$(p)。當鑲嵌到帶詞綴的物品時，寶石會賦予物品比平常更強大的屬性加成。"
         },
         {
             "type": "patchouli:text",
-            "title": "Obtaining Gems",
-            "text": "Gems can be found in chest loot, and may rarely be found when killing mobs. However, for a gem to drop, the killer must be a real player, not a machine or other automation source.$(p)Gems are more likely to drop from Bosses."
+            "title": "取得寶石",
+            "text": "寶箱中可以找到寶石，生物偶爾也會掉落，不過只有由玩家親手斬殺的生物才會掉落。$(p)boss 更容易掉落寶石。"
         },
         {
             "type": "patchouli:text",
-            "title": "Socketing Gems",
-            "text": "To socket a gem into an item, combine the two in a Smithing Table.$(p)Place the item on the left, and the gem on the right.$(p)Gems do not need to be placed into a necessarily \"correct\" item, and will always provide their bonuses while the item is in use."
+            "title": "鑲嵌寶石",
+            "text": "要在物品上鑲嵌寶石，你需要一個鍛造台。$(p)將物品放到左邊，寶石放到右邊。$(p)寶石不一定要鑲嵌到一個「正確」的物品上，它始終會在使用物品時賦予加成。"
         },
         {
             "type": "patchouli:text",
-            "title": "Removing Gems",
-            "text": "Removing gems from an item was a difficult process, but some clever alchemists figured out how to do it.$(p)Their notes are detailed on the next couple pages."
+            "title": "移除寶石",
+            "text": "從物品上移除寶石很難，但一些聰慧的煉金術師還是發現了怎麼做到這件事。$(p)接下來幾頁記載了他們的筆記。"
         },
         {
             "type": "patchouli:crafting",
             "recipe": "apotheosis:vial_of_expulsion",
-            "title": "Searing Expulsion",
-            "text": "Combine a socketed item with a $(9)Vial of Searing Expulsion$() in a smithing table to remove the gems, destroying them in the process."
+            "title": "灼熱排除劑",
+            "text": "在鍛造台上將已鑲嵌的物品與$(9)灼熱排除劑$()結合，就能將寶石排除，但也會破壞掉寶石。"
         },
         {
             "type": "patchouli:crafting",
             "recipe": "apotheosis:vial_of_extraction",
-            "title": "Arcane Extraction",
-            "text": "Combine a socketed item with a $(9)Vial of Arcane Extraction$() in a smithing table to retrieve the gems, destroying the item in the process."
+            "title": "奧術提取劑",
+            "text": "在鍛造台上將已鑲嵌的物品與$(9)奧術提取劑$()結合，就能提取出寶石，但物品也會因此損毀。"
         }
     ]
 }
