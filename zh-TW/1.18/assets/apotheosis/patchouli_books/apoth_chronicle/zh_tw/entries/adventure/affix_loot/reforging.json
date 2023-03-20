@@ -1,5 +1,5 @@
 {
-    "name": "Reforging",
+    "name": "重鑄",
     "icon": "apotheosis:reforging_table",
     "category": "apotheosis:adventure/affix_loot",
     "flag": "apotheosis:adventure",
@@ -8,42 +8,42 @@
         {
             "type": "patchouli:crafting",
             "recipe": "apotheosis:reforging_table",
-            "text": "The $(9)Reforging Table$() is used to breathe new life into an item, wiping away any affixes and granting entirely new ones."
+            "text": "$(9)重鑄台$()可以為物品帶來新生，抹去所有舊的詞綴並賦予新的詞綴。"
         },
         {
             "type": "patchouli:text",
-            "text": "Through the raw potential of $(9)Rarity Materials$() and the versatility of $(9)Gem Dust$(), it is now possible to reforge an item with brand new affixes.$(p)Reforging is not limited to items that already have affixes, and can be performed with any valid item."
+            "text": "透過$(9)稀有材料$()的潛力與$(9)寶石粉末$()的功能，重鑄並賦予物品全新的詞綴是可行的。$(p)並不僅限於帶詞綴的物品，任何有效的物品都可以重鑄。"
         },
         {
             "type": "patchouli:image",
-            "title": "Input Slots",
+            "title": "輸入欄",
             "images": [
                 "apotheosis:textures/gui/book/reforge_slots.png"
             ],
-            "text": "The Reforging Table has three input slots."
+            "text": "重鑄台有三個輸入欄。"
         },
         {
             "type": "patchouli:text",
-            "title": "Input Slots",
-            "text": "The top slot holds the item you wish to reforge.$(p)The left slot accepts $(9)Rarity Materials$().$(p)The right slot is for Gem Dust.$(p)All slots must be filled for a successful reforging."
+            "title": "輸入欄",
+            "text": "將要重鑄的物品放在最上面的欄位，$(p)左邊的放入$(9)稀有材料$()，$(p)右邊的放入寶石粉末。$(p)所有欄位都必須放入東西才能重鑄。"
         },
         {
             "type": "patchouli:image",
-            "title": "Reforging",
+            "title": "重鑄",
             "images": [
                 "apotheosis:textures/gui/book/reforge_menu.png"
             ],
-            "text": "Similar to an Enchanting Table, you get three choices."
+            "text": "與附魔台相似，會有三個選項。"
         },
         {
             "type": "patchouli:text",
-            "title": "Reforging",
-            "text": "Each choice represents a potential new form of the item being reforged. The cost varies per choice, requiring 2/4/6 Gem Dust, Rarity Materials, and Experience Levels respectively.$(p)To reforge your item, simply click the desired choice."
+            "title": "重鑄",
+            "text": "每個選項都代表重鑄的物品的一個潛在新樣貌。花費隨選項而不同，分別需要 2、4、6 個寶石粉末、稀有材料、經驗等級。$(p)點下想要的選項便能重鑄。"
         },
         {
             "type": "patchouli:text",
-            "title": "Notes",
-            "text": "Items can be reforged multiple times, but you must pick up and replace the item first.$(p)No choice is inherently stronger than the others.$(p)The Reforging Table uses your Enchantment Seed to determine the choices."
+            "title": "備註",
+            "text": "物品可以重鑄多次，但你需要先拿起並替換物品。$(p)沒有哪個選項本質上強於其他的。$(p)重鑄台使用你的附魔種子來決定選項。"
         }
     ]
 }
