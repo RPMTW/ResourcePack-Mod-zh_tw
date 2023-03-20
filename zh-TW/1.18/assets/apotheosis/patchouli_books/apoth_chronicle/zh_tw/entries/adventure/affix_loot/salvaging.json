@@ -1,5 +1,5 @@
 {
-    "name": "拆解回收",
+    "name": "回收",
     "icon": "apotheosis:salvaging_table",
     "category": "apotheosis:adventure/affix_loot",
     "flag": "apotheosis:adventure",
@@ -8,37 +8,37 @@
         {
             "type": "patchouli:crafting",
             "recipe": "apotheosis:salvaging_table",
-            "text": "The $(9)Salvaging Table$() is used to break down affix items into their corresponding $(9)Rarity Materials$()."
+            "text": "$(9)回收台$()能將帶詞綴的物品分解為對應的$(9)稀有材料$()。"
         },
         {
             "type": "patchouli:spotlight",
             "item": "apotheosis:common_material",
             "link_recipe": true,
-            "text": "A strangely shaped piece of an unidentifiable metal.$(p)This material is obtained when salvaging common items."
+            "text": "一塊形狀奇特、無法辨識的金屬，$(p)回收普通物品可以取得這種材料。"
         },
         {
             "type": "patchouli:spotlight",
             "item": "apotheosis:uncommon_material",
             "link_recipe": true,
-            "text": "An incredibly durable fabric, worn down by countless ages. It boasts not a single tear.$(p)Found when salvaging uncommon items."
+            "text": "一匹已被無數歲月磨損的耐用布料，沒有一點破損。$(p)能在回收非普通物品時找到。"
         },
         {
             "type": "patchouli:spotlight",
             "item": "apotheosis:rare_material",
             "link_recipe": true,
-            "text": "A piece of the brightest crystal ever to exist. Though it is but a shard, it contains a strong magical power.$(p)Acquired from salvaging rare items."
+            "text": "一片有史以來最亮的水晶，雖然只是碎片，但蘊含強大的魔法。$(p)將在回收稀有物品時獲得。"
         },
         {
             "type": "patchouli:spotlight",
             "item": "apotheosis:epic_material",
             "link_recipe": true,
-            "text": "Grains of sand from a magical realm, where arcane magic warps all life.$(p)Salvaging an epic item reduces them to this form."
+            "text": "一把來自生命都被奧術扭曲的魔法世界的沙子。$(p)回收史詩物品會將其還原成這種形式。"
         },
         {
             "type": "patchouli:spotlight",
             "item": "apotheosis:mythic_material",
             "link_recipe": true,
-            "text": "A pearl of purified godlike energy. The immense power sealed within makes it quite volatile.$(p)These extraordinary creations may only be obtained through salvaging mythic items."
+            "text": "一顆純淨神力凝結而成的珍珠，那強大的力量使其相當不穩定。$(p)這非凡的造物只當回收神化物品時才會出現。"
         }
     ]
 }
