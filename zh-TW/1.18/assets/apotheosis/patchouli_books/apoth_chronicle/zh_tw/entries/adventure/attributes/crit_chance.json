@@ -1,5 +1,5 @@
 {
-    "name": "Crit Chance",
+    "name": "暴擊機率",
     "icon": "minecraft:netherite_sword",
     "category": "apotheosis:adventure/attributes",
     "flag": "apotheosis:adventure",
@@ -7,11 +7,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(9)Crit Chance$() is the chance that an attack (or arrow) becomes a critical strike, compounding with jump crits. Values over 100% allow you to perform multicrits.$(p)Found on weapons."
+            "text": "$(9)暴擊機率$()決定了攻擊是否會暴擊，能與跳躍暴擊複合，超過 100% 的值將造成多重暴擊。$(p)能在武器上找到。"
         },
         {
             "type": "patchouli:text",
-            "text": "$(9)$(n)Base Value:$() 1$(p)$(9)$(n)Max Value:$() 5$(p)Note: A value of 1.0 is actually 0% crit chance, but if the base was zero, percentage modifiers would have no effect, and flat modifiers don't convey the bonus correctly."
+            "text": "$(9)$(n)基礎值：$()1$(p)$(9)$(n)最大值：$()5$(p)備註：值 1.0 實際上是 0% 暴擊機率。如果基礎值為 0，百分比修飾符會無效，扁平修飾符無法正確地加成。"
         }
     ]
 }
