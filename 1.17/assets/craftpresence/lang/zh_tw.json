@@ -638,5 +638,6 @@
     "craftpresence.placeholders.mcTranslate.usage": "mcTranslate(input=String, args=Object...)",
     "craftpresence.logger.info.pack.init": "Checking for \"%1$s\" pack data...",
     "craftpresence.logger.info.pack.loaded": "Found \"%1$s\" pack data! (Name: \"%2$s\", Icon: \"%3$s\")",
-    "craftpresence.logger.error.pack": "Unable to get \"%1$s\" pack data (ignore if not using a \"%1$s\" pack)"
+    "craftpresence.logger.error.pack": "Unable to get \"%1$s\" pack data (ignore if not using a \"%1$s\" pack)",
+    "gui.config.message.button.wiki": "Wiki"
 }
