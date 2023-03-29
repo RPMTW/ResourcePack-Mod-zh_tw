@@ -636,10 +636,11 @@
     "tooltip.spartanweaponry:modifiers.crossbow.speed_multiplier.value": "x%.2f",
     "config.spartanweaponry:materialDrawModifierLongbow": "Material Modifier: Draw Ticks",
     "config.spartanweaponry:materialVelocityModifierLongbow": "Material Modifier: Arrow Velocity",
-    "config.spartanweaponry:materialVelocityModifierCrossbow": "Material Modifier: Bolt Velocity",
+    "config.spartanweaponry:materialVelocityModifierCrossbow": "Material Modifier: Bolt Speed",
     "config.spartanweaponry:materialLoadModifierCrossbow": "Material Modifier: Load Ticks",
     "config.spartanweaponry:materialAimModifierCrossbow": "Material Modifier: Aim Ticks",
     "config.spartanweaponry:explosionStrengthDynamite": "Dynamite: Explosion Strength",
     "config.spartanweaponry:fuseTicksDynamite": "Dynamite: Fuse Ticks",
-    "config.spartanweaponry:damageBonusRidingCheckSpeed": "Riding Damage Bonus: Enable Speed Check"
+    "config.spartanweaponry:damageBonusRidingCheckSpeed": "Riding Damage Bonus: Enable Speed Check",
+    "config.spartanweaponry:baseBoltSpeedCrossbow": "Crossbow Base Bolt Speed"
 }

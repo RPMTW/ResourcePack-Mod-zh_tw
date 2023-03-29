@@ -1106,5 +1106,11 @@
     "xat.config.fire_resistance_tiers": "Fire Resistance Tiers",
     "xat.config.fire_resistance_tiers.tooltip": "",
     "xat.config.immunities.potions": "Immune to Potion",
-    "xat.config.immunities.potions.tooltip": "Potions in this list can not be obtained"
+    "xat.config.immunities.potions.tooltip": "Potions in this list can not be obtained",
+    "xat.entityMagic.maxMana": "Max Mana",
+    "attribute.name.xat.entityMagic.maxMana": "Max Mana",
+    "xat.config.magic.mana.bonus": "Bonus Mana",
+    "xat.config.magic.mana.bonus.tooltip": "Bonus Mana Obtained from Mana Crystals and Moon Rose",
+    "xat.config.magic.mana.cap.bonus": "Bonus Mana Cap",
+    "xat.config.magic.mana.cap.bonus.tooltip": "Cap Bonus Mana Obtained from Mana Crystals and Moon Rose, set to 0 to disable"
 }

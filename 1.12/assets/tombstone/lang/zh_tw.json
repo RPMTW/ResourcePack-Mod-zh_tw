@@ -971,5 +971,6 @@
     "description.tombstone.potion.aquatic_life.name": "Allows to move freely and breathe in the water",
     "description.tombstone.potion.bone_shield.name": "Protects against melee damages and reflects a part",
     "description.tombstone.potion.bait.name": "Attracts agressive creatures",
-    "description.tombstone.potion.mercy.name": "Share beneficial effects among nearby allies"
+    "description.tombstone.potion.mercy.name": "Share beneficial effects among nearby allies",
+    "tombstone.config.can_disenchant_enchanted_book.tooltip": "Allows to disenchant enchanted books with the Book of Disenchantment"
 }
