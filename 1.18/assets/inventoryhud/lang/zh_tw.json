@@ -65,5 +65,16 @@
     "key.inventoryhud.togglepot": "Toggle PotionHUD on/off",
     "key.inventoryhud.togglearm": "Toggle ArmorHUD on/off",
     "inventoryhud.config.gui.update": "New version is available, ",
-    "inventoryhud.config.gui.updateclick": "Click to get"
+    "inventoryhud.config.gui.updateclick": "Click to get",
+    "inventoryhud.config.gui.keepnotify": "Notify more than once:",
+    "inventoryhud.config.gui.keepnotify.tt": "If false - you will receive notification about new version only once per version.",
+    "inventoryhud.config.gui.hiddeneffects": "Show hidden:",
+    "inventoryhud.config.gui.hiddeneffects.tt": "Show icons for hidden effects",
+    "inventoryhud.config.gui.bl.title": "Blacklist Editor",
+    "inventoryhud.config.gui.blacklist": "Blacklist:",
+    "inventoryhud.config.gui.blacklist.tt": "List of effects with disabled icons",
+    "inventoryhud.config.gui.blacklistbtn": "Edit",
+    "inventoryhud.config.gui.bl.add": "Add Effect",
+    "inventoryhud.config.gui.bl.delete": "Delete",
+    "inventoryhud.config.gui.bl.save": "Save"
 }

@@ -129,5 +129,8 @@
     "text.autoconfig.toms_storage.option.invLinkBeaconLvl": "Advanced wireless terminal requied beacon level for infinite range",
     "text.autoconfig.toms_storage.option.invLinkBeaconLvlDim": "Advanced wireless terminal requied beacon level for infinite range",
     "text.autoconfig.toms_storage.option.invDupScanSize": "Inventory Connector duplicate finder max slot count",
-    "tag.toms_storage.trims": "Inventory Trims"
+    "tag.toms_storage.trims": "Inventory Trims",
+    "tooltip.toms_storage.nbt_overflow": "This item's tag is too big, the item may not show correctly in the terminal",
+    "tooltip.toms_storage.ghostMode_0": "Enable sorting while holding SHIFT",
+    "tooltip.toms_storage.ghostMode_1": "Disable sorting while holding SHIFT"
 }
