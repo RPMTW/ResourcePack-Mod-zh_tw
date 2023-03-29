@@ -1153,5 +1153,6 @@
     "description.effect.tombstone.prayer": "Received when a prayer is cast on the target",
     "description.effect.tombstone.earthly_garden": "Makes the surroundings more flowery",
     "description.effect.tombstone.discretion": "Improves stealth speed and reduces range detection",
-    "description.effect.tombstone.mercy": "Share beneficial effects among nearby allies"
+    "description.effect.tombstone.mercy": "Share beneficial effects among nearby allies",
+    "tombstone.config.can_disenchant_enchanted_book.tooltip": "Allows to disenchant enchanted books with the Book of Disenchantment"
 }

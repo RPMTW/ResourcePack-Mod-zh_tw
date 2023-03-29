@@ -1114,5 +1114,7 @@
     "psi.spellpiece.selector_tick_time": "Selector: Tick Time",
     "psi.spellpiece.selector_tick_time.desc": "Returns the mean of tick times for the focal point dimension",
     "psi.spellpiece.selector_tps": "Selector: TPS",
-    "psi.spellpiece.selector_tps.desc": "Returns the mean of ticks per second for the focal point dimension"
+    "psi.spellpiece.selector_tps.desc": "Returns the mean of ticks per second for the focal point dimension",
+    "psimisc.ctrl_for_stats": "§7Hold §bCTRL§7 for piece stats",
+    "psi.statlabel.is_last": "isLast"
 }
