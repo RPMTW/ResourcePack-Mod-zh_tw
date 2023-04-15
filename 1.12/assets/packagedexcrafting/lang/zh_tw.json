@@ -18,5 +18,7 @@
     "recipe.packagedexcrafting.ender.short": "Ender",
     "recipe.packagedexcrafting.combination": "Combination Crafting",
     "recipe.packagedexcrafting.combination.short": "Combination",
-    "itemGroup.packagedexcrafting": "PackagedExCrafting"
+    "itemGroup.packagedexcrafting": "PackagedExCrafting",
+    "tile.packagedexcrafting.combination_crafter.pedestals.usable": "Currently Usable Marked Pedestals: %s",
+    "tile.packagedexcrafting.combination_crafter.pedestals.required": "Minimum Required Marked Pedestals: %s"
 }

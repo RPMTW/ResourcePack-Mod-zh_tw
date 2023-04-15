@@ -37,5 +37,9 @@
     "info.reactorbuilder.file.no_file": "No file copied",
     "info.reactorbuilder.file.missing_extension": "Missing file extension",
     "info.reactorbuilder.file.invalid_extension": "Invalid file extension",
-    "info.reactorbuilder.energy.infinite": "Infinite"
+    "info.reactorbuilder.energy.infinite": "Infinite",
+    "info.reactorbuilder.template.shaft_diameter": "Rotor shaft diameter",
+    "info.reactorbuilder.template.turbine_diameter": "Turbine diameter",
+    "info.reactorbuilder.template.turbine_length": "Turbine length",
+    "info.reactorbuilder.template.num_coils": "Coils"
 }

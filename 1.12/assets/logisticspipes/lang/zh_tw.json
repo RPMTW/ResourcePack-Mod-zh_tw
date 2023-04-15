@@ -344,7 +344,7 @@
     "gui.routingstats.Session": "Session",
     "gui.routingstats.Lifetime": "Lifetime",
     "gui.routingstats.Sent": "Sent",
-    "gui.routingstats.Recieved": "Recieved",
+    "gui.routingstats.Recieved": "Received",
     "gui.routingstats.Relayed": "Relayed",
     "gui.routingstats.RoutingTableSize": "RoutingTableSize",
     "gui.routingstats.exit": "Press <ESC> to exit",
@@ -388,7 +388,7 @@
     "gui.pipecontroller.Session": "Session",
     "gui.pipecontroller.Lifetime": "Lifetime",
     "gui.pipecontroller.Sent": "Sent",
-    "gui.pipecontroller.Recieved": "Recieved",
+    "gui.pipecontroller.Recieved": "Received",
     "gui.pipecontroller.Relayed": "Relayed",
     "gui.pipecontroller.RoutingTableSize": "RoutingTableSize",
     "gui.pipecontroller.popup.disconnectTitle": "Disconnection Configuration",
@@ -477,5 +477,9 @@
     "top.logisticspipes.pipe.firewall.blocked": "$REDblocked$WHITE",
     "top.logisticspipes.pipe.unrouted.too_many_connections": "Unrouted pipes $REDshould not$RESET have more than 2 connections!",
     "top.logisticspipes.pipe.chassis.no_modules": "$REDNo modules installed.",
-    "gui.providerpipe.ExcessInventory": "Excess Inventory:"
+    "gui.providerpipe.ExcessInventory": "Excess Inventory:",
+    "enum.logisticspipes.fuzzy_flags.use_ore_dict": "OreDict",
+    "enum.logisticspipes.fuzzy_flags.ignore_damage": "IgnDamage",
+    "enum.logisticspipes.fuzzy_flags.ignore_nbt": "IgnNBT",
+    "enum.logisticspipes.fuzzy_flags.use_ore_category": "OrePrefix"
 }
