@@ -796,7 +796,7 @@
     "tombstone.config_cat.allowed_magic_items": "Allowed Magic Items",
     "tombstone.config_cat.allowed_magic_items.tooltip": "Allows to disable some magic items",
     "tombstone.config_cat.loot": "Loot",
-    "tombstone.config_cat.loot.tooltip": "Allows to change the chance to drop some items",
+    "tombstone.config_cat.loot.tooltip": "Options related to looted items",
     "tombstone.config.chance_loot_lost_tablet.tooltip": "Chance to loot a Lost Tablet by fishing",
     "tombstone.config.astral_sorcery_ignore_enchantment_bonus.tooltip": "Ignore enchantment bonus provided by Astral Sorcery",
     "tombstone.config.chance_grave_dust.tooltip": "Chance on 1000 for undead mobs to drop Grave Dust",
@@ -1159,5 +1159,9 @@
     "description.effect.tombstone.mercy": "Share beneficial effects among nearby allies",
     "tombstone.advancement.mastery_2.title": "Mastery 2",
     "tombstone.advancement.mastery_2.desc": "You reached the level 20 in Knowledge of Death",
-    "tombstone.config.can_disenchant_enchanted_book.tooltip": "Allows to disenchant enchanted books with the Book of Disenchantment"
+    "tombstone.config.can_disenchant_enchanted_book.tooltip": "Allows to disenchant enchanted books with the Book of Disenchantment",
+    "curios.identifier.magic_book": "Magic Book",
+    "tombstone.config.equip_curio_slot_magic_book": "Equip Magic Books",
+    "tombstone.config.equip_curio_slot_magic_book.tooltip": "Automatically equip magic books in Curios slot",
+    "tombstone.config.curio_magic_book_support.tooltip": "Allows to provide a magic book slot in Curio mod used to enchant with a soul"
 }

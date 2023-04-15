@@ -148,5 +148,17 @@
     "cloth_config.voicechat.config.group_player_icon_pos_x": "Group icon X position",
     "cloth_config.voicechat.config.group_player_icon_pos_y": "Group icon Y position",
     "cloth_config.voicechat.config.show_own_group_icon": "Show own group HUD icon",
-    "cloth_config.voicechat.config.offline_player_volume_adjustment": "Offline player volume adjustment"
+    "cloth_config.voicechat.config.offline_player_volume_adjustment": "Offline player volume adjustment",
+    "message.voicechat.no_group_members": "This group is empty",
+    "message.voicechat.group_type_title": "%s (%s)",
+    "message.voicechat.group_title": "%s",
+    "message.voicechat.group_type": "Group type",
+    "message.voicechat.group_type.normal": "Normal",
+    "message.voicechat.group_type.normal.description": "Players that are not in your group can't hear you, but you can hear them",
+    "message.voicechat.group_type.open": "Open",
+    "message.voicechat.group_type.open.description": "Players that are not in your group can hear you and you can hear them",
+    "message.voicechat.group_type.isolated": "Isolated",
+    "message.voicechat.group_type.isolated.description": "Players that are not in your group can't hear you and you can't hear them",
+    "cloth_config.voicechat.category.general": "General",
+    "cloth_config.voicechat.config.freecam_support": "Freecam support"
 }

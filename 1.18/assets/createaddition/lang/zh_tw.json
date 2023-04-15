@@ -269,5 +269,12 @@
     "createaddition.ponder.pei_transfer.text_6": "Energy can now be exchanged according to the Push/Pull configuration of the connector...",
     "createaddition.ponder.pei_transfer.text_7": "After no energy have been exchanged for a while, the contraption will continue on its way.",
     "createaddition.ponder.pei_redstone.header": "Redstone Control",
-    "createaddition.ponder.pei_redstone.text_1": "Redstone power will prevent the stationary interface from engaging."
+    "createaddition.ponder.pei_redstone.text_1": "Redstone power will prevent the stationary interface from engaging.",
+    "block.createaddition.digital_adapter": "Digital Adapter",
+    "block.createaddition.digital_adapter.tooltip": "DIGITAL_ADAPTER",
+    "block.createaddition.digital_adapter.tooltip.summary": "A _Computercraft Peripheral_ which allows computers to interface with _Display Boards_, _Speedometers_, _Stressometers_, and _Rotational Speed Controllers_.",
+    "createaddition.display_source.digital_adapter_source": "Digital Adapter",
+    "createaddition.schedule.condition.energy_threshold": "Energy Cargo Condition",
+    "createaddition.schedule.condition.threshold.unit": "Kfe",
+    "createaddition.schedule.condition.threshold.energy": "Energy"
 }
