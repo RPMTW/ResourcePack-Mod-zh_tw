@@ -156,7 +156,7 @@
     "config.betteranimalsplus.cost_per_spawn": "每次生成成本",
     "config.betteranimalsplus.maximum_cost_per_biome": "每個生態域的最大成本",
     "config.betteranimalsplus.spawn_cost_biomes": "生成生態域成本",
-    "config.betteranimalsplus.betteranimalsplus-client": "用戶端設定",
+    "config.betteranimalsplus.betteranimalsplus-client": "客戶端設定",
     "config.betteranimalsplus.betteranimalsplus-server-default": "預設伺服器配置",
     "config.betteranimalsplus.entities": "實體",
     "config.betteranimalsplus.biome_based_variants": "基於生態域的變體",
@@ -165,10 +165,10 @@
     "config.betteranimalsplus.nerf_options": "削弱選項",
     "config.betteranimalsplus.breed_from_kill": "用殺戮繁殖",
     "config.betteranimalsplus.breed_from_crops": "作物品種",
-    "config.betteranimalsplus.eat_crops": "Eat Crops",
-    "config.betteranimalsplus.target_chance": "Target Chance",
-    "config.betteranimalsplus.pickup_blacklist": "Pickup Blacklist",
-    "config.betteranimalsplus.create_snow": "Create Snow",
+    "config.betteranimalsplus.eat_crops": "吃農作物",
+    "config.betteranimalsplus.target_chance": "鎖定機會",
+    "config.betteranimalsplus.pickup_blacklist": "撿起黑名單",
+    "config.betteranimalsplus.create_snow": "製造雪",
     "config.betteranimalsplus.taming_items": "馴服物品",
     "item.betteranimalsplus.crab_bucket": "螃蟹桶",
     "item.betteranimalsplus.horseshoecrab_bucket": "鱟桶",
@@ -180,5 +180,5 @@
     "entity.betteranimalsplus.horseshoecrab.type.dark_brown": "深褐色",
     "entity.betteranimalsplus.horseshoecrab.type.green": "綠色",
     "entity.betteranimalsplus.horseshoecrab.type.orange": "橙色",
-    "config.betteranimalsplus.hostile_during_daytime": "Hostile During Daytime"
+    "config.betteranimalsplus.hostile_during_daytime": "在白天具有攻擊性"
 }
