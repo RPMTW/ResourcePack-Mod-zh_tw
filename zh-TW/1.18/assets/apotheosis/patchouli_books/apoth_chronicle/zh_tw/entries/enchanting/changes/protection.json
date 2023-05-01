@@ -11,15 +11,15 @@
         },
         {
             "type": "patchouli:text",
-            "text": "To account for this, the effectiveness of protection enchantments is modified slightly.$(p)Understanding how means learning a bit about how protection works, and some math.$(p)To begin, we introduce the concept of a Damage Reduction (DR) point, which is the stat that all defensive enchantments benefit."
+            "text": "為了解釋這個問題，保護附魔的有效性會略微調整。$(p)了解這個問題需要了解保護如何運作，以及一些數學知識。$(p)首先，我們介紹一個叫做傷害減免（DR）點的概念，這是所有防禦性附魔效益的統計數值。"
         },
         {
             "type": "patchouli:text",
-            "text": "The $(9)Protection$() enchant provides 1 point against all damage types.$(p)Specialized enchants provide 2 points against one specific type.$(p)$(9)Feather Falling$() provides 3 points against fall damage."
+            "text": "$(9)保護$()附魔對所有傷害提供1點防禦。$(p)特化的附魔對一種特定傷害提供2點防禦。$(p)$(9)輕盈$()附魔對墜落傷害提供3點防禦。"
         },
         {
             "type": "patchouli:text",
-            "text": "The first 20 points provide 4% DR each, up to 80% total.$(p)In Vanilla, 20 points is the max, and any extra have no effect.$(p)With Apotheosis, the next 45 points provide an additional 0.33% each, up to 95% total (at 65 points).$(p)Armor is applied before enchantments."
+            "text": "前 20 點提供每點 4% 的傷害減免效果，總共最多可達 80%。$(p)在原版中，20 點是最大值，額外的點數沒有效果。$(p)使用 Apotheosis 模組，接下來的 45 點每點提供額外 0.33% 的效果，最多可達 95%（在 65 點時）。$(p)防具的效果會先於附魔生效。"
         }
     ]
 }
