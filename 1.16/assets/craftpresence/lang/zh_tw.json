@@ -84,7 +84,7 @@
     "gui.config.message.character.notice": "Notice on syncing\\n\\n Syncing may not yield accurate results on older Minecraft versions",
     "gui.config.message.credits": "This Configuration Gui was made from scratch by\\n Jonathing, and will continue to be maintained by\\n CDAGaming. A lot of effort went into making this\\n custom Gui, so show him some support! Thanks.\\n\\n Feel free to learn from this Gui's code on\\n the CraftPresence GitLab repository.",
     "gui.config.message.tentative": "§4§lTentative Release (%1$s), functionality may change",
-    "gui.config.message.changelog": "Changes in %1$s:\\n\\n%2$s",
+    "gui.config.message.changelog": "Changelog:",
     "gui.config.message.remove": "**Remove %1$s text to remove this value**",
     "gui.config.message.null": "This area is not implemented just yet!\\n\\nPlease check back later...",
     "gui.config.message.empty.list": "This list is empty and cannot be displayed!\\n\\nPlease try again...",
@@ -277,7 +277,7 @@
     "craftpresence.logger.info.load": "Loaded display data with Client Id: %1$s (Logged in as %2$s)",
     "craftpresence.logger.info.shutdown": "Shutting down CraftPresence...",
     "craftpresence.logger.info.updater.status": "Detected %1$s version for %2$s -> %3$s",
-    "craftpresence.logger.info.updater.receive.data": "Received update data: %1$s",
+    "craftpresence.logger.info.updater.receive.data": "Received update data:\\n%1$s",
     "craftpresence.logger.info.updater.receive.changelog": "Received changelog: %1$s",
     "craftpresence.logger.info.updater.receive.status": "Received update status for \"%1$s\" -> %2$s (Target version: \"%3$s\")",
     "craftpresence.logger.info.config.new": "New configuration data for CraftPresence has been created successfully!",
@@ -331,7 +331,7 @@
     "craftpresence.logger.error.technic.limitation": "Due to Technic limitations, The pack you're currently playing will only display an icon properly if selected in the Technic Launcher.",
     "craftpresence.logger.error.load": "Failed to load display data",
     "craftpresence.logger.error.updater.changelog": "Failed to locate changelog data for %1$s @ %2$s",
-    "craftpresence.logger.error.updater.failed": "Failed to check for updates, enable debug mode to see errors...",
+    "craftpresence.logger.error.updater.failed": "Failed to check for updates, enable verbose mode to see errors...",
     "craftpresence.logger.error.discord.join": "Join request rejected, due to an invalid join key: %1$s",
     "craftpresence.logger.error.discord.assets.load": "Unable to get Discord assets, things may not work well...",
     "craftpresence.logger.error.discord.assets.fallback": "Asset name \"%1$s\" does not exist, attempting to use an alternative icon \"%2$s\"...",
@@ -661,5 +661,9 @@
     "craftpresence.placeholders.timeToString.usage": "timeToString(date, toFormat, toTimeZone ?: null)",
     "gui.config.comment.button.reset.config": "Reset this config to its default settings\\nWarning: This will overwrite all changes made once saved!",
     "gui.config.comment.general.detect_atlauncher_instance": "Enable detection for ATLauncher instance data?",
-    "gui.config.name.general.detect_atlauncher_instance": "Detect ATLauncher Instance"
+    "gui.config.name.general.detect_atlauncher_instance": "Detect ATLauncher Instance",
+    "craftpresence.placeholders.getArrayElement.description": "Retrieves the array element from the specified content, or null if unable",
+    "craftpresence.placeholders.getArrayElement.usage": "getArrayElement(content=Array, index)",
+    "craftpresence.placeholders.split.description": "Splits this string around matches of the given regular expression",
+    "craftpresence.placeholders.split.usage": "split(input, regex, limit ?: 0)"
 }

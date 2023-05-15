@@ -52,10 +52,10 @@
     "exchangers.harvest_level.1": "Iron",
     "exchangers.harvest_level.2": "Diamond",
     "exchangers.harvest_level.3": "Obsidian",
-    "exchangers.harvest_level.4": "Cobalt",
-    "exchangers.harvest_level.5": "Cobalt+",
-    "exchangers.harvest_level.6": "Cobalt++",
-    "exchangers.harvest_level.7": "Cobalt+++",
+    "exchangers.harvest_level.4": "Netherite",
+    "exchangers.harvest_level.5": "Netherite+",
+    "exchangers.harvest_level.6": "Netherite++",
+    "exchangers.harvest_level.7": "Netherite+++",
     "exchangers.harvest_level.2147483647": "§d§kOver 9000",
     "exchangers.error.invalid_block.te": "§cError: Invalid block! (Tile Entities)",
     "exchangers.error.invalid_block.unbreakable": "§cError: Invalid block! (Unbreakable Blocks)",
@@ -129,5 +129,6 @@
     "item.exchangers.ultimate_exchanger": "Ultimate Exchanger",
     "item.exchangers.lv_exchanger": "LV Exchanger",
     "item.exchangers.mv_exchanger": "MV Exchanger",
-    "item.exchangers.hv_exchanger": "HV Exchanger"
+    "item.exchangers.hv_exchanger": "HV Exchanger",
+    "screen.exchangers.exchanger_gui.title": "Exchanger GUI"
 }

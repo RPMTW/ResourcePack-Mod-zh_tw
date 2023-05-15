@@ -1154,5 +1154,9 @@
     "description.effect.tombstone.earthly_garden": "Makes the surroundings more flowery",
     "description.effect.tombstone.discretion": "Improves stealth speed and reduces range detection",
     "description.effect.tombstone.mercy": "Share beneficial effects among nearby allies",
-    "tombstone.config.can_disenchant_enchanted_book.tooltip": "Allows to disenchant enchanted books with the Book of Disenchantment"
+    "tombstone.config.can_disenchant_enchanted_book.tooltip": "Allows to disenchant enchanted books with the Book of Disenchantment",
+    "curios.identifier.magic_book": "Magic Book",
+    "tombstone.config.equip_curio_slot_magic_book": "Equip Magic Books",
+    "tombstone.config.equip_curio_slot_magic_book.tooltip": "Automatically equip magic books in Curios slot",
+    "tombstone.config.curio_magic_book_support.tooltip": "Allows to provide a magic book slot in Curio mod used to enchant with a soul"
 }
