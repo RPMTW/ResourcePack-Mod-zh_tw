@@ -1526,5 +1526,7 @@
     "ritual.occultism.pentacle_help.no_pentacle": "§lNo pentacle found!§r\nIt seems you did not draw a pentacle, or your pentacle is missing large parts. See the \"Rituals\" section of the Dictionary of Spirits, the required Pentacle will be a clickable blue link above the ritual recipe on the ritual's page.",
     "book.occultism.dictionary_of_spirits.summoning_rituals.summon_transport_items.item_filters.text": "By default the Transporter is in \"Blacklist\" mode and will not move anything. Shift-click the transporter to open the config UI. You can then add items to the filter list to make it move only those items, or set it to \"Whitelist\" to move everything *except* the filtered items. You can also enter a tag in the text field below to filter by tag.\n",
     "book.occultism.dictionary_of_spirits.summoning_rituals.summon_transport_items.item_filters.title": "Item Filters",
-    "jei.occultism.crushing.tier": "Min Crusher Tier: %d"
+    "jei.occultism.crushing.tier": "Min Crusher Tier: %d",
+    "item.occultism.familiar_ring.tooltip.empty": "Does not contain any familiar.",
+    "item.occultism.familiar_ring.tooltip.familiar_type": "[Type: %s]"
 }

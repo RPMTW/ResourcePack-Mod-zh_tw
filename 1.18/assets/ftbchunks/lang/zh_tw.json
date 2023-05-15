@@ -144,5 +144,13 @@
     "ftbchunks.max_idle_days_before_unforce.tooltip": "If no team member logs in for this many days,\nany force-loaded chunks will no longer be force-loaded.\nSetting this to 0 disables auto-unforceloading.",
     "ftbchunks.waypoint_dot_fade_distance": "Waypoint dot fade distance",
     "ftbteamsconfig.ftbchunks.block_edit_and_interact_mode": "Block Edit/Interact Mode",
-    "ftbteamsconfig.ftbchunks.block_edit_and_interact_mode.tooltip": "Used when blocks are being placed, broken, or interacted with"
+    "ftbteamsconfig.ftbchunks.block_edit_and_interact_mode.tooltip": "Used when blocks are being placed, broken, or interacted with",
+    "ftbchunks.zoom_warning": "Max zoom-out limited due to memory constraints",
+    "ftbchunks.memory": "Memory Usage",
+    "ftbchunks.memory.region_release_time": "Idle region release timeout",
+    "ftbchunks.memory.region_release_time.tooltip": "Timeout in seconds to release data for 512x512 regions which haven't been accessed recently\nSmaller values mean less memory usage, but more disk access as released regions are reloaded\nSet to 0 to disable releasing of region data.",
+    "ftbchunks.memory.autorelease_on_map_close": "Autorelease regions on map close",
+    "ftbchunks.memory.autorelease_on_map_close.tooltip": "When the large map is closed, auto-release region data down to this number.\nSmaller values mean less memory usage, but more disk access as released regions are reloaded\nSet to 0 to disable releasing of region data.",
+    "ftbchunks.memory.max_zoom_constraint": "Constrain map zoom-out",
+    "ftbchunks.memory.max_zoom_constraint.tooltip": "When true, max map zoom-out is limited by the number of explored regions and amount of available memory.\nIf this is bothersome, set this to false."
 }

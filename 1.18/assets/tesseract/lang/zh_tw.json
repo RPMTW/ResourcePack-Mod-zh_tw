@@ -22,9 +22,9 @@
     "gui.tesseract.redstone.speech": "Redstone: %s",
     "gui.tesseract.channel.private": "Private",
     "gui.tesseract.channel.public": "Public",
-    "gui.tesseract.add.title.items": "Create Channel - ITEMS",
-    "gui.tesseract.add.title.fluid": "Create Channel - FLUID",
-    "gui.tesseract.add.title.energy": "Create Channel - ENERGY",
+    "gui.tesseract.add.title.items": "Create Item Channel",
+    "gui.tesseract.add.title.fluid": "Create Fluid Channel",
+    "gui.tesseract.add.title.energy": "Create Energy Channel",
     "gui.tesseract.add.suggestion": "Channel name",
     "gui.tesseract.add.add": "Create",
     "gui.tesseract.add.cancel": "Cancel",
@@ -42,5 +42,11 @@
     "tesseract.tesseract.highlight.channel_info.inactive": "Inactive",
     "tesseract.tesseract.highlight.channel_info": "  %1$s %2$s %3$s",
     "tesseract.tesseract.highlight.redstone_blocked": "Blocked by redstone signal",
-    "tesseract.tesseract.highlight.channels": "Channels:"
+    "tesseract.tesseract.highlight.channels": "Channels:",
+    "gui.tesseract.remove.title.fluid": "Remove Fluid Channel",
+    "gui.tesseract.remove.cancel": "Cancel",
+    "config.jade.plugin_tesseract.tesseract_component": "Tesseract info",
+    "gui.tesseract.remove.title.energy": "Remove Energy Channel",
+    "gui.tesseract.remove.title.items": "Remove Item Channel",
+    "gui.tesseract.remove.remove": "Remove"
 }
