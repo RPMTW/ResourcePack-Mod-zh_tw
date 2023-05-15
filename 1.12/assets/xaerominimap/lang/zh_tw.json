@@ -577,6 +577,9 @@
     "gui.xaero_box_waypoint_type": "Enabled - regular waypoint \\n Disabled - regular hidden waypoint \\n Temporary - waypoint disappears on world exit \\n Destination - waypoint disappears when reached",
     "gui.xaero_infodisplay_real_time": "Real Time",
     "gui.xaero_cave_mode_toggle_timer": "Cave Mode Toggle Timer",
-    "gui.xaero_box_cave_mode_toggle_timer": "The minimum time to wait between toggles of cave mode to prevent flickering when quickly switching between being under blocks and not.",
-    "gui.xaero_infodisplay_overworld_coords": "Overworld Coordinates"
+    "gui.xaero_box_cave_mode_toggle_timer": "The minimum time to wait between toggles of cave mode to prevent flickering when quickly switching between being under blocks and not. The latest world map mod has a separate setting for this as well.",
+    "gui.xaero_infodisplay_overworld_coords": "Overworld Coordinates",
+    "gui.xaero_legible_cave_maps": "Legible Cave Maps",
+    "gui.xaero_box_legible_cave_maps": "Use depth-based lighting in cave mode instead of actual block lighting, making it easier to mentally separate the different cave layers.",
+    "gui.xaero_uses_worldmap_screen_value": "Setting value is taken from the world map screen!"
 }
