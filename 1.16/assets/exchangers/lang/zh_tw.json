@@ -130,5 +130,8 @@
     "item.exchangers.lv_exchanger": "LV Exchanger",
     "item.exchangers.mv_exchanger": "MV Exchanger",
     "item.exchangers.hv_exchanger": "HV Exchanger",
-    "screen.exchangers.exchanger_gui.title": "Exchanger GUI"
+    "screen.exchangers.exchanger_gui.title": "Exchanger GUI",
+    "exchangers.tooltip.bee_exchanger.flavor_text": "§6§oBee happy! :)",
+    "exchangers.tooltip.selected_block.error": "Unable to fetch block name",
+    "item.exchangers.bee_exchanger": "Bee Exchanger"
 }
