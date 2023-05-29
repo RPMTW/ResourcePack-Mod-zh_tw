@@ -10,5 +10,17 @@
     "tweed4_tailor_screen.screen.wandering_collector.default-prices.max-price": "Maximum price",
     "tweed4_tailor_screen.screen.wandering_collector.default-prices.price-item": "Price item",
     "tweed4_tailor_screen.screen.wandering_collector.default-prices.scale-price-with-count": "Scale with count",
-    "tweed4_tailor_screen.screen.wandering_collector.default-prices.min-price-scale": "Scale with count"
+    "tweed4_tailor_screen.screen.wandering_collector.default-prices.min-price-scale": "Scale with count",
+    "tweed4_tailor_screen.screen.wandering_collector.include-dropped-stacks.description": "Include manually dropped items in the Wandering Trader offers.",
+    "tweed4_tailor_screen.screen.wandering_collector.max-lost-stack-amount.description": "The maximum number of stacks that get remembered after loosing them.",
+    "tweed4_tailor_screen.screen.wandering_collector.offer-creation": "Create offers for",
+    "tweed4_tailor_screen.screen.wandering_collector.offer-creation.description": "Defines in which order lost stacks will be used for the Wandering Traders' offers.\n - NEWEST: The newest lost stacks will be used first.\n - OLDEST: The oldest lost stacks will be used first.\n - RANDOM: Lost stacks will be used in a random order.",
+    "tweed4_tailor_screen.screen.wandering_collector.combine-lost-stacks": "Combine lost stacks",
+    "tweed4_tailor_screen.screen.wandering_collector.combine-lost-stacks.description": "Lost stacks that are stackable will be tried to be merged into existing stacks.",
+    "tweed4_tailor_screen.screen.wandering_collector.buy-back-trades.description": "The number of buy-back trades Wandering Traders will offer.",
+    "tweed4_tailor_screen.screen.wandering_collector.default-prices.min-price.description": "The minimum emerald price to buy back a stack.",
+    "tweed4_tailor_screen.screen.wandering_collector.default-prices.max-price.description": "The maximum emerald price to buy back a stack.",
+    "tweed4_tailor_screen.screen.wandering_collector.default-prices.price-item.description": "The item that must be paid with for the trade offer.",
+    "tweed4_tailor_screen.screen.wandering_collector.default-prices.scale-price-with-count.description": "Whether the price will be scaled with the amount of items in the stack.",
+    "tweed4_tailor_screen.screen.wandering_collector.default-prices.min-price-scale.description": "The minimum percentage that scale-price-with-amount will scale to."
 }
