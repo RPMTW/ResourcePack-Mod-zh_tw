@@ -106,5 +106,9 @@
     "commands.pehkui.scale.easing": "Easing: %s",
     "commands.pehkui.debug.config.get.value": "Config \"%s\" is currently set to \"%s\"",
     "commands.pehkui.debug.config.changed.value": "Config \"%s\" was changed from \"%s\" to \"%s\"",
-    "commands.pehkui.debug.config.reset.value": "Config \"%s\" was reset from \"%s\" to default \"%s\""
+    "commands.pehkui.debug.config.reset.value": "Config \"%s\" was reset from \"%s\" to default \"%s\"",
+    "pehkui.configgui.scale_limits.interaction_box_width.minimum": "Minimum value for the scale type pehkui:interaction_box_width",
+    "pehkui.configgui.scale_limits.interaction_box_width.maximum": "Maximum value for the scale type pehkui:interaction_box_width",
+    "pehkui.configgui.scale_limits.interaction_box_height.minimum": "Minimum value for the scale type pehkui:interaction_box_height",
+    "pehkui.configgui.scale_limits.interaction_box_height.maximum": "Maximum value for the scale type pehkui:interaction_box_height"
 }

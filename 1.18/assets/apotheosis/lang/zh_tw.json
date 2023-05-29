@@ -937,5 +937,7 @@
     "item.apotheosis.superior_sigil_of_enhancement": "[NYI] Superior Sigil of Enhancement",
     "text.apotheosis.purity": "Purity: %s",
     "text.apotheosis.socket_limit": "Max Sockets Applied: %s",
-    "title.apotheosis.smithing": "Apotheotic Smithing"
+    "title.apotheosis.smithing": "Apotheotic Smithing",
+    "affix.apotheosis.cooldown": "[⌛ %s]",
+    "item.apotheosis.potion_charm.curios_only": "Only works in a Curios slot"
 }

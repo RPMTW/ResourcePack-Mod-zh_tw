@@ -220,5 +220,7 @@
     "gui.xaero_wm_cave_mode_toggle_timer": "Cave Mode Toggle Timer",
     "gui.xaero_wm_box_cave_mode_toggle_timer": "The minimum time to wait between toggles of cave mode to prevent flickering when quickly switching between being under blocks and not. This only applies when \"Auto Cave Mode\" isn't redirecting to the minimap mod. The latest minimap mod has a separate setting for this as well.",
     "effect.xaeroworldmap.no_cave_maps": "No WM Cave Maps",
-    "effect.xaeroworldmap.no_cave_maps_harmful": "No WM Cave Maps"
+    "effect.xaeroworldmap.no_cave_maps_harmful": "No WM Cave Maps",
+    "gui.xaero_wm_biome_blending": "Biome Blending",
+    "gui.xaero_wm_box_biome_blending": "Smooth out biome color edges by sampling biome colors for multiple blocks for every block on the map. Turning this off can significantly improve performance when biome color calculation is modded to be much more heavyweight than vanilla."
 }
