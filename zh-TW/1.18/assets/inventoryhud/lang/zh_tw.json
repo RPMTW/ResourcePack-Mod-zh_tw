@@ -65,5 +65,16 @@
     "key.inventoryhud.togglepot": "打開/關閉藥水 HUD",
     "key.inventoryhud.togglearm": "打開/關閉裝備 HUD",
     "inventoryhud.config.gui.update": "有新版本可用！",
-    "inventoryhud.config.gui.updateclick": "點擊取得"
+    "inventoryhud.config.gui.updateclick": "點擊取得",
+    "inventoryhud.config.gui.keepnotify": "多次提醒:",
+    "inventoryhud.config.gui.keepnotify.tt": "如果關閉，你每個新版本只會收到一次通知。",
+    "inventoryhud.config.gui.hiddeneffects": "顯示隱藏:",
+    "inventoryhud.config.gui.hiddeneffects.tt": "顯示隱藏效果的圖示",
+    "inventoryhud.config.gui.bl.title": "黑名單編輯器",
+    "inventoryhud.config.gui.blacklist": "黑名單:",
+    "inventoryhud.config.gui.blacklist.tt": "不顯示圖示的效果:",
+    "inventoryhud.config.gui.blacklistbtn": "編輯",
+    "inventoryhud.config.gui.bl.add": "添加效果",
+    "inventoryhud.config.gui.bl.delete": "刪除",
+    "inventoryhud.config.gui.bl.save": "保存"
 }
