@@ -175,7 +175,7 @@
     "gui.buildinggadgets.materialList.titleNameOnly": "%s 的材料列表",
     "gui.buildinggadgets.materialList.titleAuthorOnly": "來自 %s 的材料列表",
     "gui.buildinggadgets.materialList.title": "%s 的材料列表 來自 %s",
-    "gui.buildinggadgets.materialList.help.copyList": "複製材料列表的文字版本。\n按Ctrl鍵/使用指令創建具有代碼名稱的詳細版本",
+    "gui.buildinggadgets.materialList.help.copyList": "複製材料列表的文字版本。\n按 Ctrl 鍵／使用指令建立具有代碼名稱的詳細版本",
     "gui.buildinggadgets.help.area.arrow.data_flow": "表示從一個物品到另一個物品的數據流；從模板到小幫手/模板，或從小幫手/模板到模板或一張紙",
     "gui.buildinggadgets.help.area.field.template_name": "保存/黏貼數據時，生成的模板將具有此名稱",
     "gui.buildinggadgets.help.area.preview": "預覽儲存在小幫手/模板中的數據",
@@ -185,6 +185,6 @@
     "gui.buildinggadgets.help.button.help.enter": "顯示懸浮幫助文字",
     "gui.buildinggadgets.help.button.help.exit": "退出幫助模式",
     "gui.buildinggadgets.help.button.load": "從模板將數據載入到小幫手/模板",
-    "gui.buildinggadgets.help.button.paste": "將計算機剪貼板上的數據黏貼到預先存在的模板或一張紙上，以此來創建模板",
-    "gui.buildinggadgets.help.button.save": "將小幫手/模板的數據保存到預先存在的模板或一張紙上，以此來創建模板"
+    "gui.buildinggadgets.help.button.paste": "將計算機剪貼板上的數據黏貼到預先存在的模板或一張紙上，以此來建立模板",
+    "gui.buildinggadgets.help.button.save": "將小幫手/模板的數據保存到預先存在的模板或一張紙上，以此來建立模板"
 }
