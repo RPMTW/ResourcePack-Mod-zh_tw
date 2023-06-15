@@ -1245,5 +1245,6 @@
     "text.vampirism.faction_specifics": "Faction specifics:",
     "text.vampirism.faction_only": " only",
     "effect.vampirism.wrong_equipment.note": "Wrong equipment",
-    "text.vampirism.action.permission_disallowed": "You do not have the permission to use this action"
+    "text.vampirism.action.permission_disallowed": "You do not have the permission to use this action",
+    "command.vampirism.argument.minion.notfound": "Minion not found"
 }
