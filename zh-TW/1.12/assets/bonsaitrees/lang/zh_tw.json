@@ -15,7 +15,7 @@
     "commands.bonsaitrees.generateMissingShapes.usage": "/bonsaitrees generateMissingShapes yes",
     "commands.bonsaitrees.generateMissingShapes.exception.confirm_with_yes": "請使用 'yes' 作為子命令的第一個參數以確認！你正在看著的區域周圍 32x32x32 的方塊將因此被抹去！",
     "commands.bonsaitrees.generateMissingShapes.info": "正在生成的樹形：%s",
-    "commands.bonsaitrees.generateMissingShapes.created_shape_file": "已創建的樹形檔案：%s",
+    "commands.bonsaitrees.generateMissingShapes.created_shape_file": "已建立的樹形檔案：%s",
     "commands.bonsaitrees.generateMissingShapes.exception.no_shape": "無法確定形狀",
     "commands.bonsaitrees.upgradeJsonFiles.description": "將樹形檔案升級到最新受支援的版本。這是一個開發指令，可能不會對你有用。",
     "commands.bonsaitrees.upgradeJsonFiles.usage": "/bonsaitrees upgradeJsonFiles",
