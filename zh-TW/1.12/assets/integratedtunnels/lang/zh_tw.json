@@ -449,7 +449,7 @@
     "info_book.integratedtunnels.tutorials.break_stone": "只破壞石頭",
     "info_book.integratedtunnels.tutorials.break_stone.text1": "做一個包含&8石頭&0這個物品值的&l變數卡&r。將其放入&l方塊破壞口&r使它只能破壞石頭。也要對其屬性進行修改，看看是否能進行絲綢之觸石頭，避免挖成鵝卵石。",
     "info_book.integratedtunnels.tutorials.place_logwood": "放置原木",
-    "info_book.integratedtunnels.tutorials.place_logwood.text1": "嘗試用&l方塊放置口&r創建一個只能放置原木的系統。使用&l礦物詞典值&r運算符來檢索所有礦物詞典為&ologWood&r的物品。",
+    "info_book.integratedtunnels.tutorials.place_logwood.text1": "嘗試用&l方塊放置口&r建立一個只能放置原木的系統。使用&l礦物詞典值&r運算符來檢索所有礦物詞典為&ologWood&r的物品。",
     "info_book.integratedtunnels.tutorials.click_sword": "用劍攻擊",
     "info_book.integratedtunnels.tutorials.click_sword.text1": "厭倦了長時間的點擊？不如試試用&l玩家模擬器&r代替？先合成一個玩家模擬器並放入含有&o鑽石劍&r的&l變數卡&r，這樣它會自動從網路中抽取一把&o鑽石劍&r進行攻擊。"
 }
