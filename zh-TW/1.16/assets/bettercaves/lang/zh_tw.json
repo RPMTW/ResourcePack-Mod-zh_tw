@@ -24,7 +24,7 @@
     "text.autoconfig.bettercaves-fabric-1_16.option.betterCaves.bedrockSettings.bedrockWidth": "基岩層高度",
     "text.autoconfig.bettercaves-fabric-1_16.option.betterCaves.bedrockSettings.bedrockWidth.@Tooltip": "基岩層的寬度，只有當平底基岩啟用的時才有效",
     "text.autoconfig.bettercaves-fabric-1_16.option.betterCaves.debugSettings.enableDebugVisualizer": "啟用除錯視覺化程式",
-    "text.autoconfig.bettercaves-fabric-1_16.option.betterCaves.debugSettings.enableDebugVisualizer.@Tooltip[0]": "創建沒有方塊的世界，只在洞穴的位置生成洞穴的世界",
+    "text.autoconfig.bettercaves-fabric-1_16.option.betterCaves.debugSettings.enableDebugVisualizer.@Tooltip[0]": "建立沒有方塊的世界，只在洞穴的位置生成洞穴的世界",
     "text.autoconfig.bettercaves-fabric-1_16.option.betterCaves.debugSettings.enableDebugVisualizer.@Tooltip[1]": "而洞穴將會在一個正常的世界中被改變",
     "text.autoconfig.bettercaves-fabric-1_16.option.betterCaves.debugSettings.enableDebugVisualizer.@Tooltip[2]": "這對於視覺化的類型很有用",
     "text.autoconfig.bettercaves-fabric-1_16.option.betterCaves.debugSettings.enableDebugVisualizer.@Tooltip[3]": "洞穴和洞窟會依照config設定來生成",
