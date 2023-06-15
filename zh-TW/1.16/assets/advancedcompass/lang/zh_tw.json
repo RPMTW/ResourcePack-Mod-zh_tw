@@ -1,7 +1,7 @@
 {
   "key.advancedcompass.openconfig": "打開設定",
   "key.advancedcompass.category": "高級羅盤",
-  "key.advancedcompass.newwaypoint": "創建定位點",
+  "key.advancedcompass.newwaypoint": "建立定位點",
   "key.advancedcompass.openwaypointlist": "打開定位點列表",
   "advancedcompass.config.gui.confbtn": "高級羅盤設定",
   "advancedcompass.config.gui.entbtn": "實體列表",
@@ -31,7 +31,7 @@
   "advancedcompass.config.gui.hideoverlapped": "隱藏混合圖示：",
   "advancedcompass.config.gui.hideoverlapped.tt": "隱藏混合圖示",
   "advancedcompass.config.deathwp": "死亡定位點：",
-  "advancedcompass.config.deathwp.tt": "死亡時創建一個定位點",
+  "advancedcompass.config.deathwp.tt": "死亡時建立一個定位點",
   "advancedcompass.config.delete": "刪除定位點",
   "advancedcompass.config.confirm": "確定？",
   "advancedcompass.waypoints.exists.1": "定位點命名重複",
