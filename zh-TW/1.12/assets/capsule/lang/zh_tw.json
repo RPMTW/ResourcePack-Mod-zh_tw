@@ -26,7 +26,7 @@
     "capsule.error.technicalError": "在使用膠囊模組時發生了一些技術性問題，詳情請參考遊戲或伺服器日誌。",
     "capsule.error.templateNotFound": "錯誤：找不到膠囊的模板 %s。",
     "capsule.error.notAllowed": "膠囊並不允許被布置在此區域。",
-    "capsule.error.blueprintCreationError": "創建藍圖模板時出錯。 這個藍圖可能行不通。",
+    "capsule.error.blueprintCreationError": "建立藍圖模板時出錯。 這個藍圖可能行不通。",
     "capsule.error.blueprintExcluded": "藍圖中不支持某些塊。 在藍圖中忽略：%s",
     "capsule.error.blueprintDontMatch": "無法取消部署：您可以為藍圖膠囊充能（在空中左鍵按一下），或確保您要取消部署的區域與藍圖結構匹配（沒有移除或新增的方塊，庫存中沒有物品）。",
     "capsule.error.cantDownload": "無法下載nbt模板：拿在手的膠囊物品並確保它是未部署的並且不是空的。 在重試此指令之前嘗試預覽部署（不部署）。",
