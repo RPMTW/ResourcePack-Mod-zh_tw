@@ -160,5 +160,6 @@
     "message.voicechat.group_type.isolated": "Isolated",
     "message.voicechat.group_type.isolated.description": "Players that are not in your group can't hear you and you can't hear them",
     "cloth_config.voicechat.category.general": "General",
-    "cloth_config.voicechat.config.freecam_support": "Freecam support"
+    "cloth_config.voicechat.config.freecam_support": "Freecam support",
+    "cloth_config.voicechat.config.mute_on_join": "Mute on join"
 }

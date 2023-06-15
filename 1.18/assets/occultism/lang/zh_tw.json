@@ -1528,5 +1528,8 @@
     "book.occultism.dictionary_of_spirits.summoning_rituals.summon_transport_items.item_filters.title": "Item Filters",
     "jei.occultism.crushing.tier": "Min Crusher Tier: %d",
     "item.occultism.familiar_ring.tooltip.empty": "Does not contain any familiar.",
-    "item.occultism.familiar_ring.tooltip.familiar_type": "[Type: %s]"
+    "item.occultism.familiar_ring.tooltip.familiar_type": "[Type: %s]",
+    "item.occultism.spawn_egg.familiar_parrot": "Parrot Familiar Spawn Egg",
+    "jei.occultism.ingredient.spawn_egg.familiar_goat.description": "The Goat Familiar can be obtained by feeding a Golden Apple to a Chimera Familiar. See §6Dictionary§r §6of§r §6Spirits§r for more information.",
+    "jei.occultism.ingredient.spawn_egg.familiar_shub_niggurath.description": "The Shub Niggurath Familiar can be obtained by bringing a Goat Familiar to a Forest Biome and clicking the Goat first with any Black Dye, then Flint and then an Eye of Ender. See §6Dictionary§r §6of§r §6Spirits§r for more information."
 }

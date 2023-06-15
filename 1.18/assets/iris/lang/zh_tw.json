@@ -5,7 +5,7 @@
     "iris.shaders.debug.enabled": "Debugging has been enabled, debug logging will be more verbose!",
     "iris.shaders.debug.disabled": "Debugging has been disabled.",
     "iris.shaders.debug.failure": "Cannot enable debugging, your computer does not support debug features.",
-    "iris.shaders.debug.restart": "You do not have a debug context, please restart to enable OpenGL client debugging.",
+    "iris.shaders.debug.restart": "You do not have a debug context, please restart to enable debugging.",
     "iris.keybind.reload": "Reload Shaders",
     "iris.keybind.shaderPackSelection": "Shaderpack Selection Screen",
     "iris.keybind.toggleShaders": "Toggle Shaders",
@@ -55,7 +55,7 @@
     "label.iris.true": "On",
     "label.iris.false": "Off",
     "iris.nec.failure.title": "[%s] Not Enough Crashes detected!",
-    "iris.nec.failure.description": "Not Enough Crashes can severely break the game while handling crashes, and does not provide accurate results.\nGood alternatives are MixinTrace and Crafty Crashes, which can identify the cause of a crash more reliably and does not put the game in an invalid state.",
+    "iris.nec.failure.description": "Not Enough Crashes can severely break the game while handling crashes, and does not provide accurate results.\nA good alternative is MixinTrace, which can identify the cause of a crash more reliably and does not put the game in an invalid state.",
     "iris.unsupported.irisorpc": "Oculus or your PC",
     "iris.unsupported.iris": "Oculus",
     "iris.unsupported.pc": "your PC",
@@ -63,5 +63,9 @@
     "iris.unsupported.pack.description": "The shaderpack you are trying to load contains features unsupported by %s. Please try another pack. List %s",
     "options.iris.mustDisableFullscreen": "Please disable fullscreen first!",
     "options.iris.gui.hide": "Hide GUI",
-    "options.iris.gui.show": "Show GUI"
+    "options.iris.gui.show": "Show GUI",
+    "iris.shaders.ssbofailure": "The shader requested a specific feature (SSBO) that is not supported by your GPU, it may not work correctly.",
+    "iris.unsupported.pack.macos": "\nmacOS is known to have issues with many shader packs.",
+    "options.iris.colorSpace": "Color Space",
+    "options.iris.colorSpace.sodium_tooltip": "The color space to transform the screen to. Works on top of shader packs. Use SRGB if unsure."
 }

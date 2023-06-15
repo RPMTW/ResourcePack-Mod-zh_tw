@@ -398,5 +398,6 @@
     "rule.roughlyenoughitems.filtering.hide.tag": "Tag Filtering",
     "rule.roughlyenoughitems.filtering.hide.tag.subtitle": "Filter entries by 'c:hidden_from_recipe_viewers'. This is not configurable here.",
     "text.rei.searching": "REI searching results...",
-    "text.rei.searching.step": "This is slower on the first search.\nProgress: %s%%"
+    "text.rei.searching.step": "This is slower on the first search.\nProgress: %s%%",
+    "config.roughlyenoughitems.miscellaneous.cachingDisplayLookup": "Caching Display Lookup:"
 }
