@@ -1,10 +1,10 @@
 {
     "button.penguinlib.next": "下一個",
     "button.penguinlib.previous": "上一個",
-    "command.penguinlib.team.create.must_leave": "你已經在其中一個組隊了！\n你必須離開組隊在去創建一個新的組隊！\n%s",
+    "command.penguinlib.team.create.must_leave": "你已經在其中一個組隊了！\n你必須離開組隊在去建立一個新的組隊！\n%s",
     "command.penguinlib.team.create.must_leave.tooltip": "點擊離開組隊",
     "command.penguinlib.team.create.name_in_use": "你不能將 %s 使用你的新組隊，因為它已經在使用中。",
-    "command.penguinlib.team.create.success": "你創建了一個名字為: %s 的新組隊",
+    "command.penguinlib.team.create.success": "你建立了一個名字為: %s 的新組隊",
     "command.penguinlib.team.invite.failure": "找不到名稱為 %s 的玩家。",
     "command.penguinlib.team.invite.message": "你已被邀請加入 %s 組隊。加入 -> %s",
     "command.penguinlib.team.invite.none": "您沒有待處理的組隊邀請。",
