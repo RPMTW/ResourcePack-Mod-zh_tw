@@ -1,8 +1,8 @@
 {
     "message.bclib.anvil_damage": "§c受損",
     "bclib.datafixer.backupWarning.title": "守護者檢測到一個不相容的世界",
-    "bclib.datafixer.backupWarning.message": "守護者發現，自從這個世界最後一次玩以來，一些已安裝的Mods的內部確實發生了變化。\n\n我們可以自動為您改變世界。如果在不應用更改的情況下繼續操作，則世界可能無法正確載入。在繼續之前，應創建一個備份。",
-    "bclib.datafixer.backupWarning.backup": "在應用修補程式之前創建備份",
+    "bclib.datafixer.backupWarning.message": "守護者發現，自從這個世界最後一次玩以來，一些已安裝的Mods的內部確實發生了變化。\n\n我們可以自動為您改變世界。如果在不應用更改的情況下繼續操作，則世界可能無法正確載入。在繼續之前，應建立一個備份。",
+    "bclib.datafixer.backupWarning.backup": "在應用修補程式之前建立備份",
     "bclib.datafixer.backupWarning.nofixes": "不修復並繼續",
     "bclib.datafixer.backupWarning.fix": "應用修補程式",
     "title.bclib.bclibmissmatch": "版本不相符",
