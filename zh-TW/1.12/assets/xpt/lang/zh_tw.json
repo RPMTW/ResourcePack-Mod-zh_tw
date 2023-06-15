@@ -7,8 +7,8 @@
     "messages.xpt.need_xp_to_teleport": "你需要%d經驗才能傳送",
     "messages.xpt.intra": "內",
     "messages.xpt.extra": "外",
-    "messages.xpt.link_created": "%s次元連結已創建！",
-    "messages.xpt.cant_create_link": "無法創建連結！",
+    "messages.xpt.link_created": "%s次元連結已建立！",
+    "messages.xpt.cant_create_link": "無法建立連結！",
     "messages.xpt.link_broken": "連結已損壞！",
     "messages.xpt.linked_to": "已連結到",
     "configdesc.xpt.xp_required": "傳送所需經驗",
@@ -24,7 +24,7 @@
     "xpt.lang.already_linked": "已連結到此方塊！",
     "xpt.lang.tp_to": "已傳送！",
     "xpt.lang.link_broken": "連結已被破壞！",
-    "xpt.lang.link_created": "連結已創建！",
+    "xpt.lang.link_created": "連結已建立！",
     "xpt.lang.need_xp_level_tp": "你需要%s級經驗才能傳送！",
-    "xpt.lang.need_xp_level_link": "您需要%s級經驗才能創建連結！"
+    "xpt.lang.need_xp_level_link": "您需要%s級經驗才能建立連結！"
 }
