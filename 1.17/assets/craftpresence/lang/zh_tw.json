@@ -18,7 +18,7 @@
     "gui.config.title.gui.edit_specific_gui": "CraftPresence - Edit Gui (%1$s)",
     "gui.config.title.item.edit_specific_item": "CraftPresence - Edit Item (%1$s)",
     "gui.config.title.entity.edit_specific_entity": "CraftPresence - Edit Entity (%1$s)",
-    "gui.config.title.editor.color": "CraftPresence - Color Editor (%1$s)",
+    "gui.config.title.editor.color": "CraftPresence - Color Editor",
     "gui.config.title.editor.character": "CraftPresence - Character Editor",
     "gui.config.title.editor.add.new": "CraftPresence - Add New Value",
     "gui.config.title.selector.dimension": "CraftPresence - Select a Dimension",
@@ -665,5 +665,12 @@
     "craftpresence.placeholders.getArrayElement.description": "Retrieves the array element from the specified content, or null if unable",
     "craftpresence.placeholders.getArrayElement.usage": "getArrayElement(content=Array, index)",
     "craftpresence.placeholders.split.description": "Splits this string around matches of the given regular expression",
-    "craftpresence.placeholders.split.usage": "split(input, regex, limit ?: 0)"
+    "craftpresence.placeholders.split.usage": "split(input, regex, limit ?: 0)",
+    "craftpresence.logger.error.module": "A module exception has occurred:",
+    "gui.config.comment.accessibility.world_gui_background_color": "The color or texture to be used when rendering CraftPresence Gui backgrounds, while in a world",
+    "gui.config.message.editor.color.end": "§lEnd Color",
+    "gui.config.message.editor.color.preview": "§lPreview",
+    "gui.config.message.editor.color.start": "§lStart Color",
+    "gui.config.message.editor.color.tint_factor": "Tint Factor",
+    "gui.config.name.accessibility.world_gui_background_color": "World Gui Background Color"
 }
