@@ -1,6 +1,6 @@
 {
     "ftbteams.already_in_party": "你已經在一個隊伍裡了！",
-    "ftbteams.not_in_party": "你還沒有創建或加入一個隊伍！",
+    "ftbteams.not_in_party": "你還沒有建立或加入一個隊伍！",
     "ftbteams.team_not_found": "未找到團隊’%s’！",
     "ftbteams.cant_edit": "你無法編輯%s！",
     "ftbteams.not_member": "%s不是%s的成員！",
@@ -24,6 +24,6 @@
     "ftbteams.privacy_mode.allies": "盟友",
     "ftbteams.privacy_mode.private": "私有",
     "ftbteams.privacy_mode.public": "公開",
-    "ftbteams.create_party": "創建一個隊伍",
-    "ftbteams.create_party.info": "創建一個隊伍並邀請成員共同發展"
+    "ftbteams.create_party": "建立一個隊伍",
+    "ftbteams.create_party.info": "建立一個隊伍並邀請成員共同發展"
 }
