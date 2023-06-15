@@ -14,11 +14,11 @@
     },
     {
       "type": "text",
-      "text": "2. 在世界中設定$(l:tools/gps_tool)定位工具/$或$(l:tools/gps_area_tool)區域定位工具/$。在$(l:programming/programmer)程式器/$介面中可以：$(li)使用$(item)（區域）定位工具/$$(thing)左擊/$已有的$(thing)區域/$拼圖以將定位工具內的設定複製到拼圖中$(li)使用$(item)定位工具/$$(thing)左擊/$空白的程式區域以創建一個$(l:programming/coordinate)坐標/$拼圖$(li)使用$(item)定位工具/$ $(thing)Shift 左擊/$空白的程式區域以創建一個$(thing)區域/$拼圖$(li)使用$(item)區域定位工具/$$(thing)左擊/$空白的程式區域以創建一個$(thing)區域/$拼圖"
+      "text": "2. 在世界中設定$(l:tools/gps_tool)定位工具/$或$(l:tools/gps_area_tool)區域定位工具/$。在$(l:programming/programmer)程式器/$介面中可以：$(li)使用$(item)（區域）定位工具/$$(thing)左擊/$已有的$(thing)區域/$拼圖以將定位工具內的設定複製到拼圖中$(li)使用$(item)定位工具/$$(thing)左擊/$空白的程式區域以建立一個$(l:programming/coordinate)坐標/$拼圖$(li)使用$(item)定位工具/$ $(thing)Shift 左擊/$空白的程式區域以建立一個$(thing)區域/$拼圖$(li)使用$(item)區域定位工具/$$(thing)左擊/$空白的程式區域以建立一個$(thing)區域/$拼圖"
     },
     {
       "type": "text",
-      "text": "3. 高級選項：可以使用$(thing)變數/$，正如$(l:programming/coordinate_operator)坐標運算元/$所創建的一樣。變數只在$(l:programming/programmer)程式器/$的$(thing)高級/$模式下可用；在定位按鍵之外，下拉選單選擇在調整模式後將會出現。可以在此選擇已知的變數名，此後該區域拼圖的對應角落將會使用該變數對應的位置。"
+      "text": "3. 高級選項：可以使用$(thing)變數/$，正如$(l:programming/coordinate_operator)坐標運算元/$所建立的一樣。變數只在$(l:programming/programmer)程式器/$的$(thing)高級/$模式下可用；在定位按鍵之外，下拉選單選擇在調整模式後將會出現。可以在此選擇已知的變數名，此後該區域拼圖的對應角落將會使用該變數對應的位置。"
     },
     {
       "type": "image",
