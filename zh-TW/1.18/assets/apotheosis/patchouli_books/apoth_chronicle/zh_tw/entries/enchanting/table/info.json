@@ -22,11 +22,11 @@
         },
         {
             "type": "patchouli:text",
-            "text": "The currently selected slot will be highlighted, and slots that are not available will be grayed out.$(p)Hovering the slot will show you the level, the $(4)Min Power$() and the $(9)Max Power$()."
+            "text": "目前選擇的插槽將被突顯顯示，而不可用的插槽將呈灰色狀態.$(p)當您將游標懸停在插槽上時，將顯示該等級的$(4)最小值力量和$(9)最大值力量"
         },
         {
             "type": "patchouli:image",
-            "title": "Enchantments Window",
+            "title": "附魔視窗",
             "images": [
                 "apotheosis:textures/gui/book/enchantments_window.png"
             ],
@@ -34,31 +34,31 @@
         },
         {
             "type": "patchouli:text",
-            "text": "Given the current item, and the currently selected power level, a certain array of enchantments are available.$(p)This window shows you each enchantment, their level, rarity, and chance of being selected.$(p)It will also show what enchantments are exclusive with each other."
+            "text": "根據當前物品和當前選擇的強度等級，一定的附魔選項將可用.$(p)這個視窗會顯示每個附魔的等級、稀有度以及被選中的機率.$(p)它還會顯示哪些附魔彼此之間是互斥的."
         },
         {
             "type": "patchouli:image",
-            "title": "The Power Slider",
+            "title": "強度調整條",
             "images": [
                 "apotheosis:textures/gui/book/power_slider.png"
             ],
-            "text": "This lets you change the simulated power level."
+            "text": "這讓你可以更改模擬的強度等級"
         },
         {
             "type": "patchouli:text",
-            "text": "When you select a slot, the Power Slider automatically selects the power level directly in the middle of the power range.$(p)The slider can only go down to the $(4)Min Power$() and up to the $(9)Max Power$() for the current slot."
+            "text": "當您選擇一個插槽時，強度調整條會自動選擇強度範圍的中間位置作為強度等級.$(p)該強度範圍只能在當前插槽的$(4)最小強度$()和$(9)最大強度$()之間移動"
         },
         {
             "type": "patchouli:image",
-            "title": "Rarity Weights",
+            "title": "稀有度權重",
             "images": [
                 "apotheosis:textures/gui/book/weights.png"
             ],
-            "text": "This shows the weight of each rarity."
+            "text": "這顯示了每個稀有度的權重。"
         },
         {
             "type": "patchouli:text",
-            "text": "Every enchantment has a rarity, and each rarity has a weight.$(p)The chance of selecting an enchantment is its individual weight divided by the total pool (of the weights of all available enchantments).$(p)$(arcana) can change the rarity weights."
+            "text": "每個附魔都有一個稀有度，而每個稀有度都有一個權重.$(p)選擇一個附魔的機率=該附魔的個別權重/總權重（所有可用附魔的權重總和）.$(p)$(arcana)可以更改稀有度權重"
         }
     ]
 }
