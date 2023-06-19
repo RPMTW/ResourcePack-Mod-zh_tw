@@ -1,6 +1,6 @@
 {
     "name": "附魔屬性",
-    "icon": "minecraft:bookshelf",
+    "icon": "書櫃",
     "category": "apotheosis:enchanting/table",
     "flag": "apotheosis:enchanting",
     "pages": [
@@ -16,27 +16,27 @@
         {
             "type": "patchouli:text",
             "title": "量子化",
-            "anchor": "quanta",
+            "anchor": "量子",
             "text": "$(quanta)是次要屬性。它控制著附魔的變化。$(p)在附魔期間，你有一個$(bpower)，這是你花費的附魔等級，然後是一個$(fpower)，經過所有修改之後的結果。$(p)$(quanta)是修改過程中的因素之一。"
         },
         {
             "type": "patchouli:text",
-            "text": "A value is selected, between $(4)1 - Quanta$() and $(9)1 + Quanta$().$(p)Your $(fpower) is equal to that value multiplied by your $(bpower).$(p)Higher $(quanta) values increase the power range, which means your enchantments are less consistent in their $(fpower)."
+            "text": "選取了一個數值，在$(4)1 - Quanta$() 和$(9)1 + Quanta$()之間.$(p)您的 $(fpower) 等於該數值乘以您的 $(bpower).$(p)較高的 $(quanta) 值會增加能力範圍，這意味著您的附魔在 $(fpower) 方面變得較不一致"
         },
         {
             "type": "patchouli:text",
             "title": "阿卡那",
-            "text": "$(arcana) is a secondary stat. It controls the rarity weights, and at certain thresholds will guarantee you get additional enchantments.$(p)At 25% $(arcana), you will always receive at least two enchantments. At 75%, you will always receive three."
+            "text": "$(arcana)是一個次要的屬性，它控制稀有度的權重，在特定閾值下，將保證您獲得額外的附魔效果.$(p)在 $(arcana) 達到 25% 時，您將始終獲得至少兩個附魔效果。在 75% 時，您將始終獲得三個附魔效果."
         },
         {
             "type": "patchouli:text",
-            "text": "By default, the rarities have the following weights:$(p)Common: 10$(br)Uncommon: 5$(br)Rare: 3$(br)Very Rare: 1$(p)Every 10% of $(arcana) changes the weights, eventually becoming fully inverted.$(p)Hovering the $(arcana) Bar will show the current weights."
+            "text": "預設情況下，各稀有度的權重如下：$(p)普通：10$(br)罕見：5$(br)稀有：3$(br)非常罕見：1$(p)每增加 10% 的 $(arcana)，權重會變化，最終完全倒置.$(p)懸停在 $(arcana) 條上將顯示當前的權重"
         },
         {
             "type": "patchouli:text",
             "title": "修正",
-            "anchor": "rectification",
-            "text": "Rectification is a tertiary stat. It directly impacts the lower bound of $(quanta) modifications.$(p)Recall that your $(4)Min Power$() is equal to $(4)1 - Quanta$().$(p)With Rectification (R), your $(4)Min Power$() is equal to $(4)1 - (1 - R) * Quanta$()."
+            "anchor": "修正",
+            "text": "修正是一個三級屬性.它直接影響到 $(quanta) 修改的下限.$(p)回想一下，你的 $(4)最小能力值$() = $(4)1 - Quanta$().$(p)在修正 (R) 的情況下，你的 $(4)最小能力值$() = $(4)1 - (1 - R) * Quanta$()"
         },
         {
             "type": "patchouli:text",
@@ -45,7 +45,7 @@
         {
             "type": "patchouli:text",
             "title": "附魔線索",
-            "text": "線索是另一個第三屬性。$(p)每條線索允許你在預覽視窗中看到一個額外的物品。$(p)當你可以看到所有可用的附魔時，文字會略有變化。"
+            "text": "線索是另一個第三屬性。$(p)每條線索允許你在預覽視窗中看到一個額外的物品。$(p)當你可以看到所有可用的附魔時，文本會略有變化。"
         },
         {
             "type": "patchouli:text",
