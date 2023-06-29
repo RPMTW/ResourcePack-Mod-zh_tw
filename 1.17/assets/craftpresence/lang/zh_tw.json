@@ -672,5 +672,22 @@
     "gui.config.message.editor.color.preview": "§lPreview",
     "gui.config.message.editor.color.start": "§lStart Color",
     "gui.config.message.editor.color.tint_factor": "Tint Factor",
-    "gui.config.name.accessibility.world_gui_background_color": "World Gui Background Color"
+    "gui.config.name.accessibility.world_gui_background_color": "World Gui Background Color",
+    "craftpresence.command.offline": "§c§lUnable to execute command - Client is currently Offline...",
+    "craftpresence.logger.error.connect": "Unable to connect to Discord...",
+    "craftpresence.logger.info.connect": "Attempting to connect to Discord (%1$s/%2$s)...",
+    "craftpresence.placeholders.general.title.description": "The Minecraft title label",
+    "craftpresence.placeholders.getNamespace.description": "Retrieve the namespace portion of an Identifier-Style Object",
+    "craftpresence.placeholders.getNamespace.usage": "getNamespace(input)",
+    "craftpresence.placeholders.getPath.description": "Retrieve the path portion of an Identifier-Style Object",
+    "craftpresence.placeholders.getPath.usage": "getPath(input)",
+    "gui.config.comment.accessibility.render_tooltips": "Allow CraftPresence to render hover tooltips (when available)",
+    "gui.config.comment.advanced.allow_duplicate_packets": "Whether to allow duplicate Rich Presence Events to be sent when refreshing the display\\n Notes:\\n - This can cause better detection of unexpected disconnections at the cost of increased network traffic",
+    "gui.config.message.button.check_for_updates": "Check for Updates",
+    "gui.config.message.button.copy": "Copy",
+    "gui.config.message.button.version_info": "Version Info",
+    "gui.config.message.presence.args.general": "General message formatting arguments:\\n%1$s",
+    "gui.config.message.presence.args.icon": "General icon formatting arguments:\\n%1$s",
+    "gui.config.name.accessibility.render_tooltips": "Render Tooltips",
+    "gui.config.name.advanced.allow_duplicate_packets": "Allow Duplicate Packets"
 }
