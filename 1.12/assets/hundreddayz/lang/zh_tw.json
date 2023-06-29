@@ -138,5 +138,8 @@
     "gui.turret.text.Hostile": "Hostile",
     "gui.turret.text.NoOwner": "No Owner",
     "gui.turret.text.Range": "Range: ",
-    "gui.turret.text.FireRate": "Speed: "
+    "gui.turret.text.FireRate": "Speed: ",
+    "message.hundreddayz.FilingCabinet": "%1$s/%2$s %3$s",
+    "tile.hundreddayz.FilingCabinet.name": "Filing Cabinet",
+    "tooltip.hundreddayz.FilingCabinet": "Can store up to 64 stacks of a single item."
 }
