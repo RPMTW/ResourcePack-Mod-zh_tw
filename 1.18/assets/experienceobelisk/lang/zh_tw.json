@@ -19,5 +19,13 @@
     "item.experienceobelisk.cognitium_bucket": "Cognitium Bucket",
     "fluid.experienceobelisk.cognitium": "Cognitium",
     "message.experienceobelisk.update_warning_message": "§a[Experience Obelisk]§f Please §cretrieve all§f XP stored in Obelisks before updating to v1.4.0! We will be changing the XP conversion rate, and your XP stores might be affected",
-    "button.experienceobelisk.experience_obelisk.back": "§l◀§r"
+    "button.experienceobelisk.experience_obelisk.back": "§l◀§r",
+    "title.experienceobelisk.experience_obelisk": "Experience Obelisk",
+    "title.experienceobelisk.experience_obelisk.store": "Store",
+    "title.experienceobelisk.experience_obelisk.retrieve": "Retrieve",
+    "title.experienceobelisk.experience_obelisk.settings": "Settings",
+    "title.experienceobelisk.experience_obelisk.radius": "Radius",
+    "title.experienceobelisk.experience_obelisk.redstone": "Redstone",
+    "button.experienceobelisk.experience_obelisk.ignored": "§cIgnored§r",
+    "button.experienceobelisk.experience_obelisk.enabled": "§aEnabled§r"
 }
