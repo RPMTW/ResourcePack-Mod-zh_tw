@@ -104,5 +104,8 @@
     "shetiphiancore.team.error.not_leader": "You are not the team leader",
     "shetiphiancore.team.sysadmin.create.success": "'%1$s'['%2$s'] Created",
     "shetiphiancore.team.sysadmin.rename.success": "'%1$s' display name changed from '%2$s' to '%3$s'",
-    "shetiphiancore.team.sysadmin.transfer.success": "Leadership of '%1$s' has been transferred to '%2$s'"
+    "shetiphiancore.team.sysadmin.transfer.success": "Leadership of '%1$s' has been transferred to '%2$s'",
+    "itemGroup.shetiphiancore": "ShetiPhianCore",
+    "key.shetiphiancore.tool.next": "Held Tool; Mode Next",
+    "key.shetiphiancore.tool.previous": "Held Tool; Mode Previous"
 }
