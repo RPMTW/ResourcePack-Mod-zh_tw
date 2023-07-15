@@ -689,5 +689,7 @@
     "gui.config.message.presence.args.general": "General message formatting arguments:\\n%1$s",
     "gui.config.message.presence.args.icon": "General icon formatting arguments:\\n%1$s",
     "gui.config.name.accessibility.render_tooltips": "Render Tooltips",
-    "gui.config.name.advanced.allow_duplicate_packets": "Allow Duplicate Packets"
+    "gui.config.name.advanced.allow_duplicate_packets": "Allow Duplicate Packets",
+    "craftpresence.placeholders.general.protocol.description": "The Minecraft version protocol label",
+    "gui.config.message.version_difference": "§6§lGame Version (%1$s) differs from compiled version (%2$s)"
 }
