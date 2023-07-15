@@ -238,7 +238,7 @@
     "module.powersuits.magnet.name": "Magnet",
     "module.powersuits.magnet.desc": "Generates a magnetic field strong enough to attract items towards the player.         WARNING:                   This module drains power continuously. Turn it off when not needed. (Keybind menu: k)",
     "module.powersuits.binoculars.name": "Binoculars",
-    "module.powersuits.binoculars.desc": "With the problems that have been plagui.powersuits.g Optifine lately, you've decided to take that Zoom ability into your own hands.",
+    "module.powersuits.binoculars.desc": "With the problems that have been plaguing Optifine lately, you've decided to take that Zoom ability into your own hands.",
     "module.powersuits.nightVision.name": "Night Vision",
     "module.powersuits.nightVision.desc": "A pair of augmented vision goggles to help you see at night and underwater.",
     "module.powersuits.aurameter.name": "Aurameter",
@@ -505,5 +505,13 @@
     "model.powerfist_fingers_firing_left.pinky1.partName": "Pinky 1",
     "model.powerfist_fingers_firing_left.pinky2.partName": "Pinky 2",
     "model.powerfist_fingers_firing_left.thumb1.partName": "Thumb 1",
-    "model.powerfist_fingers_firing_left.thumb2.partName": "Thumb 2"
+    "model.powerfist_fingers_firing_left.thumb2.partName": "Thumb 2",
+    "gui.powersuits.showOnHud": "Show On Hud",
+    "key.powersuits.cycleToolForward": "Cycle Tool Forward (MPS)",
+    "key.powersuits.cycleToolBackward": "Cycle Tool Backward (MPS)",
+    "key.powersuits.goDownKey": "Go Down (MPS Flight Control)",
+    "key.powersuits.openKeybindGui": "Open MPS Keybind GUI",
+    "key.powersuits.openCosmeticGUI": "Open MPS Cosmetic GUI",
+    "key.powersuits.openTinkerGUI": "Open MPS Tinker GUI",
+    "key.powersuits.category.moduleToggle": "MPS Module Toggle"
 }
