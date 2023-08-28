@@ -20,12 +20,12 @@
     {
       "type": "crafting",
       "recipe": "indrev:shaped/servo_output",
-      "text": "驅動伺服會把物品/液體輸出到連接的容器，除了其它也裝了驅動伺服的容器"
+      "text": "驅動伺服會把物品/液體輸出到連接的容器，除了其他也裝了驅動伺服的容器"
     },
     {
       "type": "crafting",
       "recipe": "indrev:shaped/servo_retriever",
-      "text": "接收伺服會從連接的容器中抽取內容物，除了其它也裝了接收伺服的容器"
+      "text": "接收伺服會從連接的容器中抽取內容物，除了其他也裝了接收伺服的容器"
     }
   ]
 }

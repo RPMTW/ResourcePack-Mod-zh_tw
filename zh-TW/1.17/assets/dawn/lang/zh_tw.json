@@ -30,7 +30,7 @@
     "text.autoconfig.dawn.option.features.healthCommand": "啟用 /health 指令",
     "text.autoconfig.dawn.option.features.motionCommand": "啟用 /motion 指令",
     "text.autoconfig.dawn.option.features.foodbarCommand": "啟用 /foodbar 指令",
-    "text.autoconfig.dawn.option.debug.writeIds.@PrefixText": "寫入程序只會在遊戲載入時運行一次。",
+    "text.autoconfig.dawn.option.debug.writeIds.@PrefixText": "寫入程序只會在遊戲載入時執行一次。",
     "text.autoconfig.dawn.option.debug.writeIds": "寫入 ID",
     "text.autoconfig.dawn.option.debug.writeIds.@Tooltip": "將每一個已登錄的 ID 寫入json檔中",
     "text.autoconfig.dawn.option.debug.expandedInfo": "擴充的 ID 資訊",

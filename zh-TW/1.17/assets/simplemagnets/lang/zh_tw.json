@@ -11,12 +11,12 @@
     "gui.advancedmagnet.items": "Items",
     "gui.advancedmagnet.xp": "Experience",
     "gui.advancedmagnet.filter": "Item Filter",
-    "gui.advancedmagnet.items.on": "開",
+    "gui.advancedmagnet.items.on": "On",
     "gui.advancedmagnet.items.off": "Off",
     "gui.advancedmagnet.items.increase": "增加範圍",
     "gui.advancedmagnet.items.decrease": "減少範圍",
     "gui.advancedmagnet.items.range": "範圍 (%dx%dx%d 格)",
-    "gui.advancedmagnet.xp.on": "開",
+    "gui.advancedmagnet.xp.on": "On",
     "gui.advancedmagnet.xp.off": "Off",
     "gui.advancedmagnet.xp.increase": "增加範圍",
     "gui.advancedmagnet.xp.decrease": "減少範圍",
@@ -31,7 +31,7 @@
     "keys.category.simplemagnets": "簡單磁鐵",
     "keys.simplemagnets.toggle": "切換磁鐵",
     "simplemagnets.magnets.toggle_message": "磁力:",
-    "simplemagnets.magnets.toggle_message.on": "開",
+    "simplemagnets.magnets.toggle_message.on": "On",
     "simplemagnets.magnets.toggle_message.off": "Off",
     "itemGroup.simplemagnets": "Simple Magnets"
 }
