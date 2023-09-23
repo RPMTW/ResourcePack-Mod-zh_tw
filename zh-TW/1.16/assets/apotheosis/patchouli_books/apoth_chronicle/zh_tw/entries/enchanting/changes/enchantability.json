@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "在原版中，所有沒有明確$(l:apotheosis:enchanting/table/enchantability)物品附魔能力$()的物品的默認值為零。$(p)神化將默認值更改為一。$(p)這具有使某些物品無意中被附魔的副作用。"
+            "text": "在原版中，所有沒有明確$(l:apotheosis:enchanting/table/enchantability)物品附魔能力$()的物品的預設值為零。$(p)神化將預設值更改為一。$(p)這具有使某些物品無意中被附魔的副作用。"
         },
         {
             "type": "patchouli:text",

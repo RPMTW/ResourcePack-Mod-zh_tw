@@ -10,7 +10,7 @@
             "text": "The Pyrolyzer is a machine that decomposes substances in a low-oxygen environment using heat. Typically used to convert organic matter and coal into cleaner, longer-lasting fuels."
         },
         {
-            "type": "crafting",
+            "type": "thermal:double_crafting_page",
             "title": "熱解爐",
             "A.recipe": "thermal:machine_pyrolyzer"
         },

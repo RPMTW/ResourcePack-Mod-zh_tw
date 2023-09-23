@@ -1,16 +1,16 @@
 {
-    "name": "A Dying Past",
+    "name": "消逝的過去",
     "icon": "the_afterlight:lore_scrap_2",
     "category": "the_afterlight:category_5",
     "sortnum": 3,
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "Something that really intrigues many explorers is the fact that previous adventurers described the Afterlight as a bright, cheerful, and even as a paradise. And yet... now that many have access to the realm, we can clearly see that it is hardly anything but a dark abyss. It is now full of gloom, and there seems to be a faint feel of sadness fading into play at every step."
+            "text": "有件事引得眾人注意，從前的探索者會將隱光之域描述為明亮的、歡樂的地方，甚至有人會認為這裡是天堂。但如今來到隱光之域的人們看見的卻只是一片黑暗的深淵。壓抑和悲傷籠罩了整個空間，這些情緒又仿佛會在每踏下一步時從地裡滲漏出來。"
         },
         {
             "type": "patchouli:text",
-            "text": "Many adventurers that have now explored the Afterlight have never really questioned it in comparison to how previous ones had described it. This is most likely because of the rich treasures that can be found from the saddening past... but why would anyone care when there is a fortune to be made?"
+            "text": "許多如今的探索者從未質疑過從前探索者們的描述，這很有可能是因為隱光之域悲傷的過去所遺留下的眾多寶藏。當財富就在眼前時，誰還會提這些無關緊要的問題呢？"
         }
     ]
 }

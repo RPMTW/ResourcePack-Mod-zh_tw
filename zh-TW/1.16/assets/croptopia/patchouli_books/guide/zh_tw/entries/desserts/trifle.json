@@ -1,0 +1,12 @@
+{
+  "name": "乳脂鬆糕",
+  "icon": "croptopia:trifle",
+  "category": "croptopia:desserts",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:shaped_trifle",
+      "text": "乳脂鬆糕的食譜"
+    }
+  ]
+}

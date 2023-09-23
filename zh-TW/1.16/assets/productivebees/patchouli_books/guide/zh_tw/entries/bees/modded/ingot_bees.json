@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "text",
-            "text": "您可以找到適合每種金屬的蜜蜂。 如果您沒有看到要查找的內容，則它可能位於特定於模組的頁面中。"
+            "text": "您可以找到適合每種金屬的蜜蜂。如果您沒有看到要查找的內容，則它可能位於特定於模組的頁面中。"
         },
         {
             "type": "empty",
@@ -172,7 +172,7 @@
         {
             "type": "text",
             "title": "鋨蜂",
-            "text": "由$(l:bees/hive/iron)鐵礦蜂$(/l)和$(l:bees/solitary/neon_cuckoo)霓虹杜鵑蜂$(/l)配種而得。$(br)需安裝模組： Mekanism",
+            "text": "由$(l:bees/hive/iron)鐵礦蜂$(/l)和$(l:bees/solitary/neon_cuckoo)霓虹杜鵑蜂$(/l)配種而得。$(br)需安裝模組：Mekanism",
             "anchor": "osmium",
             "flag": "productivebees:osmium"
         },

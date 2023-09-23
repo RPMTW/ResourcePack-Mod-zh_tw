@@ -23,7 +23,7 @@
     },
     {
       "type": "text",
-      "text": "該測量儀將出現在屏幕的左上角。 彩色條將使您很好地估計當前chunk中各個$(l:bloodmagic:demon_will/will_manipulation/aspected_will)意志種類$()的數值。 $(br2)您可以按住[$(k:sneak)]來查看各個種類的數值，每種$(raw)意志$()在1到100之間。100是一個chunk可以包含的任一種$(raw)意志$()的最大數量。"
+      "text": "該測量儀將出現在屏幕的左上角。彩色條將使您很好地估計目前chunk中各個$(l:bloodmagic:demon_will/will_manipulation/aspected_will)意志種類$()的數值。$(br2)您可以按住[$(k:sneak)]來查看各個種類的數值，每種$(raw)意志$()在1到100之間。100是一個chunk可以包含的任一種$(raw)意志$()的最大數量。"
     }
   ]
 }

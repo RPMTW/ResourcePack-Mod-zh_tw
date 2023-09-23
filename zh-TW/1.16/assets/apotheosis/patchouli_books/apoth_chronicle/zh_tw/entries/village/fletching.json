@@ -18,7 +18,7 @@
         {
             "type": "patchouli:spotlight",
             "item": "apotheosis:broadhead_arrow",
-            "anchor": "寬頭箭",
+            "anchor": "broadhead",
             "link_recipe": true,
             "text": "$(9)寬頭箭$()適合長時間的戰鬥。$(p)每次擊中都會造成流血。每次額外命中都會刷新流血的持續時間，並增加目標的流血等級。"
         },

@@ -5,7 +5,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "正如我們所$(l:bloodmagic:demon_will/will_manipulation/demon_will)確定$()的，$(raw)惡魔意志$()會凝聚在某些生物周圍，並以邪惡的力量推動它們。 然而，這並不是$(raw)意志$()唯一可以存在的地方。 通過在$(item)惡魔坩堝$()中燃燒$(raw)意志$()，可以將意志釋放到$(thing)靈域$()中，從而達到偉大而迷人的效果。"
+      "text": "正如我們所$(l:bloodmagic:demon_will/will_manipulation/demon_will)確定$()的，$(raw)惡魔意志$()會凝聚在某些生物周圍，並以邪惡的力量推動它們。然而，這並不是$(raw)意志$()唯一可以存在的地方。通過在$(item)惡魔坩堝$()中燃燒$(raw)意志$()，可以將意志釋放到$(thing)靈域$()中，從而達到偉大而迷人的效果。"
     },
     {
       "type": "crafting_soulforge",
@@ -24,7 +24,7 @@
     },
     {
       "type": "text",
-      "text": "現在我們的大氣中有了$(raw)原生意志$()。 太好了，現在呢？$(br2)一些$(thing)儀式$()貌似能從$(raw)原生意志$()中$(l:bloodmagic:rituals/ritual_tinkerer)受益$()，但由此帶來的主要好處是能夠創造$(item)惡魔意志水晶$()，然後從那裡將它們分成不同的$(l:bloodmagic:demon_will/will_manipulation/aspected_will)種類$()。$(br2) 一旦你獲得了$(item)意志晶體$()，你就可以將它們放入$(item)坩堝$()中燃燒，將它們釋放到$(thing)大氣$()中，讓你的儀式從中受益。"
+      "text": "現在我們的大氣中有了$(raw)原生意志$()。太好了，現在呢？$(br2)一些$(thing)儀式$()貌似能從$(raw)原生意志$()中$(l:bloodmagic:rituals/ritual_tinkerer)受益$()，但由此帶來的主要好處是能夠創造$(item)惡魔意志水晶$()，然後從那裡將它們分成不同的$(l:bloodmagic:demon_will/will_manipulation/aspected_will)種類$()。$(br2) 一旦你獲得了$(item)意志晶體$()，你就可以將它們放入$(item)坩堝$()中燃燒，將它們釋放到$(thing)大氣$()中，讓你的儀式從中受益。"
     },
     {
       "type": "text",

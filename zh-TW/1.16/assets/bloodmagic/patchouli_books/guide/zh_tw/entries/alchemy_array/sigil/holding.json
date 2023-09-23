@@ -5,7 +5,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "[Needs content pass from Wrince or WayofTime]$(br2)選擇印記時按“$(k:bloodmagic.keybind.open_holding)”打開它的庫存。$()$(br)按“$(k:bloodmagic. keybind.cycle_holding_pos)\" 向前循環，$() 或 \"$(k:bloodmagic.keybind.cycle_holding_neg)\" 向後循環。$() 潛行同時滾動中鍵也有效。$(br2)如果你沒有看到 那裡有任何鍵綁定，那麼你還沒有進行按鍵設置。"
+      "text": "[Needs content pass from Wrince or WayofTime]$(br2)選擇印記時按「$(k:bloodmagic.keybind.open_holding)」打開它的庫存。$()$(br)按「$(k:bloodmagic. keybind.cycle_holding_pos)\" 向前循環，$() 或 \"$(k:bloodmagic.keybind.cycle_holding_neg)\" 向後循環。$() 潛行同時滾動中鍵也有效。$(br2)如果你沒有看到 那裡有任何鍵綁定，那麼你還沒有進行按鍵設定。"
     },
     {
       "type": "crafting_2-step_sigil",

@@ -10,7 +10,7 @@
             "text": "The Gourmand Dynamo uses food to produce RF."
         },
         {
-            "type": "crafting",
+            "type": "thermal:double_crafting_page",
             "A.recipe": "thermal:dynamo_gourmand",
             "title": "Gourmand Dynamo"
         },

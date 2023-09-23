@@ -10,7 +10,7 @@
     "block.lootr.lootr_inventory": "戰利品儲物箱",
     "entity.lootr.lootr_minecart": "儲物箱礦車",
     "lootr.commands.usage": "/lootr barrel | barrel <loot-table> | chest | chest <loot-table> | cart | cart <loot-table> | convert | custom <id>",
-    "lootr.commands.create": "已使用戰利品表%3$s於 %2$s 處創建出了 Lootr 的%1$s。",
+    "lootr.commands.create": "已使用戰利品表%3$s於 %2$s 處建立出了 Lootr 的%1$s。",
     "lootr.commands.summoned": "已使用戰利品表%2$s於 %1$s 處召喚出了 Lootr 的礦車。",
     "lootr.commands.blockpos": "%s,%s,%s",
     "stat.lootr.looted_stat": "儲物箱已搜刮",

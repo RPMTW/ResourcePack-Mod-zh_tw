@@ -6,7 +6,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "與$(l:programming/liquid_import)輸入流體/$相反，$(l:tools/drone)無人機/$將去往指定$(l:programming/area)區域/$內最近的儲罐並將無人機攜帶的流體移動到容器中。 to drop off fluid from its own tank.$(p)此外，$(item)無人機/$可以在世界中放置流體：要做到這一點，勾選設定介面中的$(thing)在世界中放置流體/$選項。注意：$(item)無人機/$在進行這一操作時可能把自身困住！"
+      "text": "與$(l:programming/liquid_import)輸入流體/$相反，$(l:tools/drone)無人機/$將去往指定$(l:programming/area)區域/$內最近的儲罐並將無人機攜帶的流體移動到容器中。to drop off fluid from its own tank.$(p)此外，$(item)無人機/$可以在世界中放置流體：要做到這一點，勾選設定介面中的$(thing)在世界中放置流體/$選項。注意：$(item)無人機/$在進行這一操作時可能把自身困住！"
     },
     {
       "type": "text",

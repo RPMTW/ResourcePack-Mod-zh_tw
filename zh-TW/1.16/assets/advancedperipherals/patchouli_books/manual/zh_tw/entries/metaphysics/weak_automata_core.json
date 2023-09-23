@@ -1,13 +1,13 @@
 {
-  "name": "Weak automata core",
+  "name": "脆弱的智慧核心",
   "icon": "高級外設：weak_automata_core",
   "category": "高級外圍：形而上學\n",
   "pages": [
     {
       "type": "spotlight",
-      "title": "Weak automata core",
+      "title": "脆弱的智慧核心",
       "item": "advancedperipherals:weak_automata_core",
-      "text": "The Weak Automata core is turtle upgrade, that allow to transform turtle into powerful automata!"
+      "text": "弱自動機核心是烏龜升級，可以將烏龜變成強大的自動機！"
     },
     {
       "type": "crafting",
@@ -15,13 +15,13 @@
     },
     {
       "type": "link",
-      "text": "It provides several ability for turtles.$(li)Digging block with tool;$(li)Click on block with item or empty hand;$(li)Suck item around, all or specific;$(li)Detect items around;$(li)Detect block or turtle in line of view;$(li)Charge turtle with RF item inside inventory",
+      "text": "它為海龜提供了多種能力。$(li)用工具挖方塊；$(li)用物品或空手點擊方塊；$(li)吸周圍的物品，全部或特定；$(li)檢測周圍的物品；$(li))檢測視線內的方塊或烏龜；$(li)用物品欄內的射頻物品為烏龜充電",
       "url": "https://docs.srendi.de/items/weak_automata/",
       "link_text": "API 文檔"
     },
     {
       "type": "text",
-      "text": "But weak core is only a start of metaphysics research! Empty construct ready to accept soul fragments of mobs. Seems, you need to try to feed different mobs to soul to receive advanced variants.$(li)$(l:metaphysics/end_automata_core)End Automata core$(li)$(l:metaphysics/husbandry_automata_core)Husbandry Automata core"
+      "text": "但弱核只是玄學研究的開始！ 準備好接受生物靈魂碎片的空構造體。 看來，你需要嘗試餵養不同的小怪來獲得高級變種。$(li)$(l:metaphysics/end_automata_core)End Automata core$(li)$(l:metaphysics/husbandry_automata_core)Husbandry Automata core"
     }
   ]
 }

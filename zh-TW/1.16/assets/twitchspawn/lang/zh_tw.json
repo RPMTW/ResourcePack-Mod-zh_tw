@@ -4,7 +4,7 @@
   "modloader.twitchspawn.error.toml": "TOML 錯誤: §4{2}",
   "modloader.twitchspawn.error.unknown": "未知錯誤: §4{2} ({3})",
   "commands.twitchspawn.reloadcfg.success": "§3>> 成功重新載入所有配置",
-  "commands.twitchspawn.reloadcfg.invalid_syntax": "§4>> 重新載入失敗。 語法錯誤:\n{0}",
+  "commands.twitchspawn.reloadcfg.invalid_syntax": "§4>> 重新載入失敗。語法錯誤:\n{0}",
   "commands.twitchspawn.reloadcfg.already_started": "§4>> TwitchSpawn should be stopped in order to be able to reload configs.",
   "commands.twitchspawn.reloadcfg.no_perm": "§4>> You do not have permission to reload TwitchSpawn configs.",
   "commands.twitchspawn.status.on": "§3>> TwitchSpawn is currently running. [ON]",

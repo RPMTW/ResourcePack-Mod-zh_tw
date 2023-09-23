@@ -45,7 +45,7 @@
     "sodium.options.use_entity_culling.tooltip": "啟用後，則在渲染期間跳過在不可見區塊的實體.這可以通過避免渲染位於地下或牆後的實體來幫助提高效能。",
     "sodium.options.use_particle_culling.name": "啟用顆粒剔除",
     "sodium.options.use_particle_culling.tooltip": "如果啟用，只有被確定為可見的粒子才會被渲染。當附近有許多粒子時，這可以大大改善FPS。",
-    "sodium.options.animate_only_visible_textures.name": "啟用實體剔除",
+    "sodium.options.animate_only_visible_textures.name": "僅為可見的材質渲染動畫",
     "sodium.options.animate_only_visible_textures.tooltip": "啟用後，只會更新可見的動態材質。這可以大大提高某些硬件的FPS，尤其是對於較大的資源包。如果遇到某些材質無動畫的問題，請停用此選項。",
     "sodium.options.use_memory_intrinsics.name": "Use Memory Intrinsics",
     "sodium.options.use_memory_intrinsics.tooltip": "If enabled, special intrinsics will be used to speed up the copying of client memory in certain vertex-limited scenarios, such as particle and text rendering. This option only exists for debugging purposes and should be left enabled unless you know what you are doing.",

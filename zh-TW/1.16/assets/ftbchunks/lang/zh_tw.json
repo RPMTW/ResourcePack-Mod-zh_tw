@@ -80,11 +80,12 @@
     "ftbchunks.minimap.zoom": "縮放等級",
     "key.ftbchunks.minimap.zoomIn": "FTB 區塊放大",
     "key.ftbchunks.minimap.zoomOut": "FTB 區塊縮小",
-    "ftbchunks.experimental_performance_improvement": "實驗中性能改進措施",
-    "ftbchunks.waypoint_fade_distance": "Waypoint dade distance",
-    "ftbchunks.only_surface_entities": "Only surface entities",
-    "ftbchunks.minimap.blur_mode": "Blur mode",
-    "ftbchunks.minimap.blur_mode.auto": "Auto",
-    "ftbchunks.minimap.blur_mode.on": "On",
-    "ftbchunks.minimap.blur_mode.off": "Off"
+    "ftbchunks.experimental_performance_improvement": "實驗中效能改進措施",
+    "ftbchunks.waypoint_fade_distance": "路標點淡去淡出距離",
+    "ftbchunks.only_surface_entities": "只顯示表面實體物",
+    "ftbchunks.minimap.blur_mode": "模糊模式",
+    "ftbchunks.minimap.blur_mode.auto": "自動",
+    "ftbchunks.minimap.blur_mode.on": "開",
+    "ftbchunks.minimap.blur_mode.off": "關",
+    "ftbteamsconfig.ftbchunks.allow_explosions": "允許爆炸"
 }

@@ -1,0 +1,12 @@
+{
+  "name": "吉拿棒",
+  "icon": "croptopia:churros",
+  "category": "croptopia:desserts",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:churros",
+      "text": "吉拿棒的食譜"
+    }
+  ]
+}

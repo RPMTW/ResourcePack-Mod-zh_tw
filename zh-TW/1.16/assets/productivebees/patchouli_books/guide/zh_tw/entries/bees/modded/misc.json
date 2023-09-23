@@ -166,7 +166,7 @@
             "title": "ATM 金屬蜂",
             "text": "由$(l:bees/hive/diamond)鑽石蜂$(/l)和$(l:bees/hive/withered)凋零蜂$(/l)配種而得。",
             "anchor": "allthemodium",
-            "flag": "productivebees:uraninite"
+            "flag": "productivebees:allthemodium"
         },
         {
             "type": "entity",

@@ -1,0 +1,12 @@
+{
+  "name": "奇異果雪葩",
+  "icon": "croptopia:kiwi_sorbet",
+  "category": "croptopia:desserts",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:shaped_kiwi_sorbet",
+      "text": "食譜"
+    }
+  ]
+}

@@ -2,7 +2,7 @@
     "item.rftoolsbase.network_monitor": "RF網路監視儀",
     "item.rftoolsbase.teleport_probe": "傳送除錯儀",
     "item.rftoolsbase.filter_module": "儲存過濾模組",
-    "item.rftoolsbase.developers_delight": "RF工具維度說明書",
+    "item.rftoolsbase.developers_delight": "RF工具次元說明書",
     "item.rftoolsbase.shard_wand": "空間碎片杖",
     "item.rftoolsbase.orphaning_card": "棄權卡",
     "item.rftoolsbase.security_card": "安全卡",
@@ -48,10 +48,10 @@
     "message.rftoolsbase.smartwrench.header": "智慧扳手：右擊空氣可以切換模式",
     "message.rftoolsbase.smartwrench.gold": "選擇模式：潛行右擊拆卸，右擊旋轉",
     "message.rftoolsbase.smartwrench.info1": "模式：",
-    "message.rftoolsbase.smartwrench.info2": "方塊： ",
+    "message.rftoolsbase.smartwrench.info2": "方塊：",
     "message.rftoolsbase.smartwrench_select.header": "智慧扳手：右擊空氣可以切換模式",
     "message.rftoolsbase.smartwrench_select.gold": "選擇模式：潛行右擊拆卸，右擊旋轉",
     "message.rftoolsbase.smartwrench_select.info1": "模式：",
-    "message.rftoolsbase.smartwrench_select.info2": "方塊： ",
+    "message.rftoolsbase.smartwrench_select.info2": "方塊：",
     "message.rftoolsbase.security_manager": "@a滿足：%s組\n@f 這個機器管理你的安全卡"
 }

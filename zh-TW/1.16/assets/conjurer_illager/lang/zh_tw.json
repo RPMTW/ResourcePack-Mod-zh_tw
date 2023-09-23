@@ -21,8 +21,8 @@
     "subtitles.entity.conjurer.prepare_displacement": "魔術師準備換位",
     "subtitles.entity.bouncy_ball.bounce": "彈力球反彈",
     "subtitles.entity.bouncy_ball.vanish": "彈力球爆炸",
-    "item.conjurer_illager.music_disc": "Mysterious Disc",
-    "death.attack.conjurer_illager:papercut": "%1$s was delt a bad hand",
-    "death.attack.conjurer_illager:indirect_papercut": "%1$s was delt a bad hand by %2$s",
-    "gui.conjurer_illager.item.conjurer_hat.desc": "Decreases magic damage by 30%"
+    "item.conjurer_illager.music_disc": "謎之唱片",
+    "death.attack.conjurer_illager:papercut": "%1$s 被打了一手壞牌",
+    "death.attack.conjurer_illager:indirect_papercut": "%2$s 給 %1$s 打了一手壞牌",
+    "gui.conjurer_illager.item.conjurer_hat.desc": "魔法傷害減少30%"
 }

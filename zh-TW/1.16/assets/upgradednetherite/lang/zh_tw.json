@@ -334,7 +334,7 @@
     "upgradednetherite.Wither_Weapon2.TT": "§7• Increase §6Damage§7 dealt to §6targets affected by wither effect§7 by §64%§7.",
     "upgradednetherite.Poison_Weapon.TT": "§7• 有機率施加§6中毒§7效果。",
     "upgradednetherite.Phantom_Weapon.TT": "§7• 提升§62§7點對§6夜魅§7造成的§6傷害§7。",
-    "upgradednetherite.Phantom_Tool.TT": "§7• 對周圍的§6生物§7施以§6發光§7效果。",
+    "upgradednetherite.Phantom_Tool.TT": "%1$s§6Detects enemies§7 around you.",
     "upgradednetherite.Phantom_Tool2.TT": "§7• 提升§62§7格§6觸及範圍。",
     "upgradednetherite.Phantom_Shield.TT": "§7• 有機率對§6夜魅§7造成§61§7點§6傷害§7。",
     "upgradednetherite.Feather_Tool.TT": "§7• §6吸引§7周圍的物品。",
@@ -427,5 +427,9 @@
     "upgradednetherite.Corrupt_Tool2.TT": "§7• 實際§6幸運等級§7 §a加成§7 : ",
     "upgradednetherite.Corrupt_Weapon4.TT": "§7• 實際§6傷害§7 §a加成§7 : ",
     "effect.upgradednetherite.netherite_corruption": "腐敗",
-    "upgradednetherite.Disabled.TT": "§c§lD禁用"
+    "upgradednetherite.Disabled.TT": "§c§lD停用",
+    "upgradednetherite.Water_Bonus3.TT": "§7• Prevents §6Elder Guardian§7 from inflicting the §6Mining Fatigue§7 effect.",
+    "upgradednetherite.Feather_Bonus4.TT": "§7• §6Levitation§7 effect §6Immune§7.",
+    "upgradednetherite.Phantom_Tool_Detect.TT": "§cYou feel %1$s§c enemy near you.",
+    "upgradednetherite.Phantom_Tool_Detect2.TT": "§cYou feel %1$s§c enemies near you."
 }

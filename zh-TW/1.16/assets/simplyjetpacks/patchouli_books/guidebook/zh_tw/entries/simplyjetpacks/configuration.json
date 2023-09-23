@@ -1,12 +1,12 @@
 {
-  "name": "Configuration",
+  "name": "設定",
   "icon": "minecraft:apple",
   "category": "simplyjetpacks:simplyjetpacks",
   "read_by_default": true,
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "The config values for each jetpack can be changed within the config files. This allows you to customise each jetpack individually."
+      "text": "每個噴射背包的設定值都可以在設定檔中變更。這使您可以單獨自訂每個噴射背包。"
     }
   ]
 }

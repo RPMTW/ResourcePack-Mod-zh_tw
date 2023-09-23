@@ -10,12 +10,12 @@
             "text": "The Blast Chiller is a machine that cools down and crystallizes liquids such as water and molten metals into their solid forms. Accepts various casts to alter the shape of the end product."
         },
         {
-            "type": "crafting",
+            "type": "thermal:double_crafting_page",
             "A.recipe": "thermal:machine_chiller",
             "B.recipe": "thermal:chiller_ball_cast"
         },
         {
-            "type": "crafting",
+            "type": "thermal:double_crafting_page",
             "A.recipe": "thermal:chiller_ingot_cast",
             "B.recipe": "thermal:chiller_rod_cast"
         },
