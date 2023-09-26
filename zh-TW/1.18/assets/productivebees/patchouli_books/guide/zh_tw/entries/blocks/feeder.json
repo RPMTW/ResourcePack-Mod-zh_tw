@@ -6,11 +6,15 @@
         {
             "type": "patchouli:spotlight",
             "item": "productivebees:feeder",
-            "text": "用來供給蜜蜂的採集點， 上面可以放三樣物品。當 木料蜂 或 採石蜂 使用這個時， 擺放了多種木料或石頭只會隨機採集其中一種。"
+            "text": "用來供給蜜蜂的採集點，上面可以放三樣物品。當 木料蜂 或 採石蜂 使用這個時，擺放了多種木料或石頭只會隨機採集其中一種。"
         },
         {
             "type": "patchouli:text",
-            "text": "餵食器可以進行蜂蜜記錄，為蜜蜂提供了一個很好的地方，可以讓蜜蜂從一整天的工作中恢復過來，也就是讓它們重獲新生。"
+            "text": "Feeding slabs can be honeylogged giving the bees an excellent place to dip their toes and recover from a long day of works, aka it gives them regeneration."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Since a $(l:items/upgrades#simulator)simulated hive$(/l) only has 1 flowerblock position, feeding slabs work very well with them, letting you have up to 3 different bees working in the hive."
         }
     ]
 }

@@ -110,7 +110,7 @@
     "gui.reset": "重置",
     "gui.silktouchList": "SilktouchBlockList",
     "itemGroup.quarryplus.quarryplus": "增強型採石場",
-    "key.hover": "Mode Switch Key",
+    "key.hover": "模式切換鍵",
     "key.yoglib": "QuarryPlus",
     "nei.handler.qpusage": "QuarryPlus Machine Usage",
     "pp.change": "ChangeDirection",
@@ -121,7 +121,7 @@
     "qp.list.setting": "PlusMachine's enable block list of %s",
     "quarryplus.chat.placer_rs": "Redstone mode changed to %s.",
     "quarryplus.chat.editor_enchantment": "Add the same enchantment as the machine.",
-    "quarryplus.client.tooltip": "客戶端",
+    "quarryplus.client.tooltip": "用戶端",
     "quarryplus.gui.advpump.frame_true": "Frame On",
     "quarryplus.gui.advpump.frame_false": "Frame Off",
     "quarryplus.gui.advpump.delete_true": "Delete On",
@@ -193,5 +193,8 @@
     "block.quarryplus.waterlogged_marker16": "Waterlogged Chunk Marker",
     "text.autoconfig.quarryplus.option.common.removeFrameAfterQuarryIsRemoved": "Remove Frame after Quarry removed",
     "text.autoconfig.quarryplus.option.common.removesCommonMaterialAdvQuarry": "Remove common material in ChunkDestroyer",
-    "quarryplus.chat.warn_protected_area": "Area contains protected chunks. Quarry has stopped."
+    "quarryplus.chat.warn_protected_area": "Area contains protected chunks. Quarry has stopped.",
+    "text.autoconfig.quarryplus.option.filler": "Filler",
+    "text.autoconfig.quarryplus.option.filler.fillerEnergyBreakBlock": "FillerEnergyBreakBlock",
+    "text.autoconfig.quarryplus.option.filler.fillerEnergyCapacity": "FillerEnergyCapacity"
 }

@@ -1,0 +1,15 @@
+{
+    "itemGroup.travel_anchors": "Travel Anchors",
+    "item.travel_anchors.travel_staff": "旅行權杖",
+    "enchantment.travel_anchors.range": "範圍",
+    "enchantment.travel_anchors.teleportation": "傳送",
+    "block.travel_anchors.travel_anchor": "旅行錨點",
+    "screen.travel_anchors.travel_anchor": "旅行錨點",
+    "screen.travel_anchors.search": "搜尋",
+    "screen.travel_anchors.nameless": "請輸入名稱",
+    "tooltip.travel_anchors.travel_anchor_block": "手持旅行權杖或站在傳送錨點上以進行傳送",
+    "tooltip.travel_anchors.travel_staff": "蹲下+右鍵可短距離傳送，面相傳送錨點以進行傳送",
+    "travel_anchors.tp.success": "傳送至 %s",
+    "travel_anchors.tp.fail": "未找到傳送錨點",
+    "travel_anchors.hop.fail": "目的地受到阻擋"
+}

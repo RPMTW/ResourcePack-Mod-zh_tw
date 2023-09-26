@@ -1,5 +1,5 @@
 {
-    "name": "Spawner Modifiers",
+    "name": "刷怪籠修飾符",
     "icon": "minecraft:clock",
     "category": "apotheosis:spawner/spawner",
     "flag": "apotheosis:spawner",
@@ -7,31 +7,31 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "After reading about $(l:apotheosis:spawner/stats)Spawner Stats$(), you may be wondering how to change them.$(p)Enter $(9)Spawner Modifiers$(), a system to edit spawners.$(p)A modifier consists of up to two items, and produces a certain change in a spawner's stats."
+            "text": "閱讀了有關$(l:apotheosis:spawner/stats)生怪磚屬性$()，你可能想知道如何修改它們.$(p)輸入$(9)生怪磚修飾符$()，編輯生成器的一個系統.$(p)一個修改器由最多兩個物品組成，並對生成器的統計數據產生特定的變化。"
         },
         {
             "type": "patchouli:text",
-            "title": "Viewing Modifiers",
-            "text": "Every single modifier is visible in JEI.$(p)They can be accessed by looking at both the uses and recipes for $(9)Mob Spawners$(), or the uses for the modifier items.$(p)There's a lot of tooltips in there, so look around."
+            "title": "觀察修飾符",
+            "text": "每個修飾符在JEI中都可見.$(p)它們可以通過查看用途和配方來獲取$(9)生怪磚$(),或者可以查看修飾符物品的用途.$(p)在JEI中有很多工具提示，所以請隨意查看。"
         },
         {
             "type": "patchouli:text",
-            "title": "Notation",
-            "text": "In JEI, stat changes are noted as$(br)$(9)+/- X Stat$().$(p)Some stats do not have numerical values, so they will be shown as $(9)+/- Stat$().$(p)In tooltips, non-numeric stats are not shown unless enabled."
+            "title": "符號",
+            "text": "在JEI中，屬性變化通常表示為$(br)$(9)+/- X 屬性$()。$(p)有些屬性沒有具體的數值，所以它們會以$(9)+/- 屬性$()的形式顯示。$(p)在工具提示中，非數值屬性除非啟用，否則不會顯示。"
         },
         {
             "type": "patchouli:text",
-            "title": "Modifier Caps",
-            "text": "Certain modifiers cannot reduce or increase stats past a certain value.$(p)These will be noted in the tooltip for that particular stat in JEI.$(p)These caps are modifier-specific, so one modifier may have a different cap than another for the same stat."
+            "title": "修飾符蓋",
+            "text": "某些修飾符無法將屬性值降低或提高到某個特定數值以下或以上.$(p)這些限制通常會在JEI的工具提示中註明，以針對特定屬性進行說明.$(p)這些限制是針對每個具體的修飾符而設定的，因此對於相同屬性的不同修飾符可能存在不同的限制."
         },
         {
             "type": "patchouli:text",
-            "title": "Applying Modifiers",
-            "text": "To apply a modifier, simply hold the respective items in your hands, and right-click the $(9)Mob Spawner$().$(p)If the modification is successful, the items will be consumed.$(p)The main item is always consumed, but the secondary item may not be."
+            "title": "套用修改器",
+            "text": "要應用一個修飾符，只需將相應的物品握在手中，然後右鍵點擊$(9)生物.$(p)如果修改成功，物品將被消耗.$(p)主要物品總是會被消耗，但次要物品可能不會被消耗\n\n\n\n\n"
         },
         {
             "type": "patchouli:text",
-            "text": "Even though JEI states that items must be held in particular hands, that is not required.$(p)You can apply a modifier as long as you are holding the items in your hands, regardless of which hand."
+            "text": "即使JEI指出物品必須握在特定的手中，實際上並不需要這樣做.$(p)只要您手中持有相應的物品，無論是哪隻手，都可以應用修飾符。您可以在任何手中持有需要的物品並進行修飾符的應用操作."
         }
     ]
 }

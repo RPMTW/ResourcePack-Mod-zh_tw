@@ -1,5 +1,5 @@
 {
-    "name": "反甲",
+    "name": "盾反",
     "icon": "minecraft:enchanted_book",
     "category": "apotheosis:enchanting/enchantments",
     "flag": "apotheosis:enchanting",
@@ -7,11 +7,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(9)反甲$()是一個盾牌附魔。$(p)它使所有被阻擋的攻擊都對攻擊者造成一部分傷害。$(p)更具體地說，被阻擋的傷害的15%被反擊。"
+            "text": "$(9)盾反$()是用於盾牌的附魔。$(p)會對攻擊者造成一部分被格擋的傷害。$(p)更具體地說，會造成 15% 的傷害。"
         },
         {
             "type": "patchouli:text",
-            "text": "反射的傷害轉化為魔法傷害。$(p)足夠高等級的$(9)反甲$()將造成比原始傷害更多的傷害。"
+            "text": "造成的傷害是魔法傷害。$(p)高等級的$(9)盾反$()甚至能造成比原始傷害更多的傷害。"
         }
     ]
 }

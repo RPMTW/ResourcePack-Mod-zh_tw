@@ -1,0 +1,15 @@
+{
+    "name": "寶石粉末",
+    "icon": "apotheosis:gem_dust",
+    "category": "apotheosis:adventure/affix_loot",
+    "flag": "apotheosis:adventure",
+    "sortnum": 2,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "apotheosis:gem_dust",
+            "link_recipe": true,
+            "text": "神化寶石可以$(9)粉碎成寶石粉末$(p)，具體來說，需要用鐵砧來粉碎。"
+        }
+    ]
+}

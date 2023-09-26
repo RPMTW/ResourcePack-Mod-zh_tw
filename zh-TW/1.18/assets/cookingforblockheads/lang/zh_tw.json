@@ -108,5 +108,12 @@
     "cookingforblockheads:subtitle.oven_close": "烤箱關上",
     "cookingforblockheads:subtitle.toaster_start": "吐司機烤製吐司",
     "cookingforblockheads:subtitle.toaster_stop": "吐司機完成烤製",
-    "jei.cookingforblockheads:cow_jar": "罐中奶牛"
+    "jei.cookingforblockheads:cow_jar": "罐中奶牛",
+    "tooltip.cookingforblockheads:toasted": "烤 %s",
+    "tooltip.cookingforblockheads:very_toasted": "烤焦了的麵包(不可食用)",
+    "config.jade.plugin_cookingforblockheads.oven": "烤箱",
+    "config.jade.plugin_cookingforblockheads.milk_jar": "牛奶罐",
+    "config.jade.plugin_cookingforblockheads.toaster": "烤吐司機",
+    "config.jade.plugin_cookingforblockheads.fridge": "冰箱",
+    "config.jade.plugin_cookingforblockheads.sink": "水槽"
 }

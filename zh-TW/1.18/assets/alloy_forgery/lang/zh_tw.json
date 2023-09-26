@@ -1,0 +1,20 @@
+{
+    "block.alloy_forgery.bricks_forge_controller": "磚砌熔爐控制器",
+    "block.alloy_forgery.stone_bricks_forge_controller": "石磚熔爐控制器",
+    "block.alloy_forgery.deepslate_bricks_forge_controller": "深層岩磚熔爐控制器",
+    "block.alloy_forgery.end_stone_bricks_forge_controller": "末地石磚熔爐控制器",
+    "block.alloy_forgery.polished_blackstone_forge_controller": "拋光黑石磚熔爐控制器",
+    "block.alloy_forgery.prismarine_bricks_forge_controller": "海磷石磚熔爐控制器",
+    "tooltip.alloy_forgery.forge_tier": "層級:%d",
+    "tooltip.alloy_forgery.fuel_capacity": "燃料容量:%d",
+    "container.alloy_forgery.forge_controller": "合金熔爐",
+    "container.alloy_forgery.rei.title": "合金鍛造",
+    "container.alloy_forgery.rei.min_tier": "所需層級:%d",
+    "container.alloy_forgery.rei.fuel_per_tick": "燃料消耗量:%d",
+    "message.alloy_forgery.invalid_multiblock": "無效的多方塊配置",
+    "itemGroup.alloy_forgery.alloy_forgery": "合金鍛造",
+    "itemGroup.alloy_forgery.alloy_forgery.button.discord": "Discord",
+    "itemGroup.alloy_forgery.alloy_forgery.button.curseforge": "CurseForge",
+    "itemGroup.alloy_forgery.alloy_forgery.button.modrinth": "Modrinth",
+    "itemGroup.alloy_forgery.alloy_forgery.button.github": "GitHub"
+}

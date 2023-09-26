@@ -1,0 +1,40 @@
+{
+    "name": "寶石",
+    "icon": "apotheosis:gem",
+    "category": "apotheosis:adventure/affix_loot",
+    "flag": "apotheosis:adventure",
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(9)寶石$()是力量濃縮而成的結晶$(p)。當鑲嵌到帶詞綴的物品時，寶石會賦予物品比平常更強大的屬性加成。"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "取得寶石",
+            "text": "寶箱中可以找到寶石，生物偶爾也會掉落，不過只有由玩家親手斬殺的生物才會掉落。$(p)boss 更容易掉落寶石。"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "鑲嵌寶石",
+            "text": "要在物品上鑲嵌寶石，你需要一個鍛造台。$(p)將物品放到左邊，寶石放到右邊。$(p)寶石不一定要鑲嵌到一個「正確」的物品上，它始終會在使用物品時賦予加成。"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "移除寶石",
+            "text": "從物品上移除寶石很難，但一些聰慧的煉金術師還是發現了怎麼做到這件事。$(p)接下來幾頁記載了他們的筆記。"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "apotheosis:vial_of_expulsion",
+            "title": "灼熱排除劑",
+            "text": "在鍛造台上將已鑲嵌的物品與$(9)灼熱排除劑$()結合，就能將寶石排除，但也會破壞掉寶石。"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "apotheosis:vial_of_extraction",
+            "title": "奧術提取劑",
+            "text": "在鍛造台上將已鑲嵌的物品與$(9)奧術提取劑$()結合，就能提取出寶石，但物品也會因此損毀。"
+        }
+    ]
+}

@@ -1,6 +1,6 @@
 {
     "name": "養殖蜂",
-    "description": "養殖蜂就像原版的蜜蜂一樣， 住在蜂箱中生產蜂蜜及資源。牠們必須住在$(l:hives/advanced_hives)高級蜂箱$(/l)中才能產出資源蜂巢片。大部分的養殖蜂都是由獨居蜂和其牠養殖蜂配種而得， 不過有些是經由餵食特殊物品所製造。$(br)所有的蜜蜂配方都可在 JEI 中查到。",
+    "description": "養殖蜂就像原版的蜜蜂一樣，住在蜂箱中生產蜂蜜及資源。牠們必須住在$(l:hives/advanced_hives)高級蜂箱$(/l)中才能產出資源蜂巢片。大部分的養殖蜂都是由獨居蜂和其牠養殖蜂配種而得，不過有些是經由餵食特殊物品所製造。$(br)所有的蜜蜂配方都可在 JEI 中查到。",
     "icon": "productivebees:adv_breed_bee",
     "parent": "productivebees:bees"
 }

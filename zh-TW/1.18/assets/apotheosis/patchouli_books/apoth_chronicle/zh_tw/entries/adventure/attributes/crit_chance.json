@@ -1,0 +1,17 @@
+{
+    "name": "暴擊機率",
+    "icon": "minecraft:netherite_sword",
+    "category": "apotheosis:adventure/attributes",
+    "flag": "apotheosis:adventure",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(9)暴擊機率$()決定了攻擊是否會暴擊，能與跳躍暴擊複合，超過 100% 的值將造成多重暴擊。$(p)能在武器上找到。"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(9)$(n)基礎值：$()1$(p)$(9)$(n)最大值：$()5$(p)備註：值 1.0 實際上是 0% 暴擊機率。如果基礎值為 0，百分比修飾符會無效，扁平修飾符無法正確地加成。"
+        }
+    ]
+}

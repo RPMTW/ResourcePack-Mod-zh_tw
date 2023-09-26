@@ -1,5 +1,5 @@
 {
-    "name": "快速射擊",
+    "name": "額外弩箭",
     "icon": "minecraft:enchanted_book",
     "category": "apotheosis:enchanting/enchantments",
     "flag": "apotheosis:enchanting",
@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(2)快速射擊$()是弩的極品附魔。$(p)每個等級的附魔，都使重新填裝時獲得額外的射擊次數。$(p)額外的射擊不消耗彈藥。"
+            "text": "$(2)額外弩箭$()是弩的極品附魔。$(p)每級都使弩重新裝填時獲得額外的一次射擊次數。$(p)額外的射擊不消耗彈藥。"
         }
     ]
 }

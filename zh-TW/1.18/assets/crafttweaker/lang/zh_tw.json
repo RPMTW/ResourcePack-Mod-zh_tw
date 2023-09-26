@@ -3,8 +3,8 @@
     "crafttweaker.command.click.copy": "按一下以複製 [%s]",
     "crafttweaker.command.click.goto": "點擊跳轉到 [%s]",
     "crafttweaker.command.click.open": "點擊以開啟 [%s]",
-    "crafttweaker.command.click.run": "點擊運行 [%s]",
-    "crafttweaker.command.conflict.begin": "衝突測試 %s 已經開始： ",
+    "crafttweaker.command.click.run": "點擊執行 [%s]",
+    "crafttweaker.command.conflict.begin": "衝突測試 %s 已經開始：",
     "crafttweaker.command.conflict.complete": "衝突測試已完成：結果在 crafttweaker.log",
     "crafttweaker.command.conflict.description.output": " 輸出 %s",
     "crafttweaker.command.conflict.description.type": " 類型 %s",
@@ -92,5 +92,11 @@
     "crafttweaker.command.misc.fluid": "Fluid",
     "crafttweaker.script.load.end.error": "An error occurred while loading scripts: please check the log",
     "crafttweaker.script.load.end.noerror": "Loading completed without errors",
-    "crafttweaker.command.description.recipes.inventory": "Outputs information on all Recipes for the items in the player's inventory"
+    "crafttweaker.command.description.recipes.inventory": "Outputs information on all Recipes for the items in the player's inventory",
+    "crafttweaker.command.description.dump.biomes": "Outputs the names of all registered biomes",
+    "crafttweaker.command.misc.biomes": "Biomes",
+    "crafttweaker.command.description.dump.fake_players": "Outputs information on all Fake Players",
+    "crafttweaker.command.description.dump.tool_tiers": "Outputs information on all Tool Tiers",
+    "crafttweaker.command.misc.fake_players": "Fake Players",
+    "crafttweaker.command.misc.tool_tiers": "Tool Tiers"
 }

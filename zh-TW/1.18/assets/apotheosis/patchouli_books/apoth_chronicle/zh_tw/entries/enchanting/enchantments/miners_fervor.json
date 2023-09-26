@@ -1,5 +1,5 @@
 {
-    "name": "礦工熱枕",
+    "name": "礦工熱忱",
     "icon": "minecraft:enchanted_book",
     "category": "apotheosis:enchanting/enchantments",
     "flag": "apotheosis:enchanting",
@@ -7,11 +7,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(5)礦工熱枕$() 是一種扭曲附魔，可以應用於所有工具。$(p)它可以讓你非常快速的破壞方塊，但絕不會瞬間破壞。$(p)此附魔與$(9)效率$()衝突。"
+            "text": "$(5)礦工熱忱$()是用於所有工具的扭曲附魔。$(p)它可以讓你非常快速的破壞方塊，但絕不會瞬間破壞。$(p)與$(9)效率$()衝突。"
         },
         {
             "type": "patchouli:text",
-            "text": "儘管有速度上限，但每個等級的提升遠高於$(9)效率$()$(p)，這使其成為基礎速度較慢工具的理想選擇。"
+            "text": "儘管有速度上限，但每級增加的效果遠高於$(9)效率$()，$(p)這使其成為基礎速度較慢的工具的理想選擇。"
         }
     ]
 }

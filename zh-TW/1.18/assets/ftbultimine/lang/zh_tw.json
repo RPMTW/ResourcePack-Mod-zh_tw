@@ -1,0 +1,18 @@
+{
+    "key.ftbultimine": "FTB 連鎖挖礦",
+    "key.categories.ftbultimine": "FTB 連鎖挖礦",
+    "ftbultimine.info.base": "FTB 連鎖挖礦是 %s",
+    "ftbultimine.info.active": "已啟用",
+    "ftbultimine.info.not_active": "未啟用",
+    "ftbultimine.info.blocks": "挖掘 %d 格方塊",
+    "ftbultimine.info.partial_render": "渲染 %d 格",
+    "ftbultimine.change_shape": "按住Shift + (滾動滾輪或按上/下) 切換形狀",
+    "ftbultimine.shape.shapeless": "無形",
+    "ftbultimine.shape.small_tunnel": "管狀",
+    "ftbultimine.shape.small_square": "正方形",
+    "ftbultimine.shape.mining_tunnel": "挖掘隧道",
+    "ftbultimine.shape.escape_tunnel": "逃脫隧道",
+    "ftbultimine.config": "FTB 連鎖挖礦設定",
+    "item.ftbultimine.ultiminer": "連鎖挖礦",
+    "item.ftbultimine.ultiminer.tooltip": "啟用時使用 %s"
+}

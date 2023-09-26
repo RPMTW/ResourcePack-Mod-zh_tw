@@ -1,5 +1,5 @@
 {
-    "name": "Spawner Stats",
+    "name": "生怪磚碎片",
     "icon": "minecraft:writable_book",
     "category": "apotheosis:spawner/spawner",
     "flag": "apotheosis:spawner",
@@ -7,61 +7,61 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "Each Mob Spawner has $(9)Spawner Stats$(), which dictate their operation.$(p)How long between spawns, how many mobs are spawned, etc.$(p)This chapter details all of them."
+            "text": "每個生物生怪磚都有$(9)生怪磚碎片$()，這決定了它們的操作。$(p)生成的時間間隔，生成了多少生物等等。$(p)本章詳細介紹了所有這些內容。"
         },
         {
             "type": "patchouli:text",
-            "title": "Spawn Delay",
-            "text": "After a Mob Spawner spawns an entity, there is a delay until the next spawn.$(p)That delay is a random number between the $(9)Min Spawn Delay$() and the $(9)Max Spawn Delay$().$(p)If the Max Delay is ever below the Min Delay, the Min Delay is used."
+            "title": "生怪延遲",
+            "text": "生物生怪磚生成實體後，在下一次生成前會有一段延遲。$(p)該延遲是 $(9)最小生怪延遲$() 和 $(9)最大生怪延遲$( ).$(p)如果最大延遲低於最小延遲，則使用最小延遲。"
         },
         {
             "type": "patchouli:text",
-            "title": "Spawn Count",
-            "text": "The $(9)Spawn Count$() dictates how many mobs are spawned at once.$(p)Not all spawns will succeed, so sometimes less entities will spawn.$(p)The spawn is counted as successful (and the delay reset) as long as one entity spawns."
+            "title": "生成數量",
+            "text": "$(9)生成數量$()表示一次生成多少個生物。$(p)並非每次生成都會成功，因此有時會生成較少的實體。$(p)生成被視為成功（並且重置延遲）只要有一個實體生成，就會重置）。"
         },
         {
             "type": "patchouli:text",
-            "title": "Max Entities",
-            "text": "Mob Spawners track the number of entities nearby.$(p)If that number ever exceeds the $(9)Max Entities$(), spawning stops.$(p)Only entities of the same type as the spawned one are counted."
+            "title": "最多實體數",
+            "text": "生物生怪磚會記錄附近實體的數量。$(p)如果該數量超過$(9)最多實體數$()，則停止生成。$(p)僅計算與生成的實體類型相同的實體。"
         },
         {
             "type": "patchouli:text",
-            "title": "Activation Range",
-            "text": "Mob Spawners require a nearby player to operate.$(p)That player must be within the $(9)Activation Range$(), which is a radius in blocks, for the spawner to run."
+            "title": "啟動範圍",
+            "text": "生物生怪磚需要附近有玩家才能啟動。$(p)該玩家必須位於$(9)啟動距離$()以方塊為單位的半徑內，生怪磚才能運行。"
         },
         {
             "type": "patchouli:text",
-            "title": "Spawn Range",
-            "text": "The $(9)Spawn Range$() is a radius in blocks of how far out entities may spawn.$(p)Try to make sure this area is suitable for entities, otherwise some spawns may fail."
+            "title": "生成範圍",
+            "text": "$(9)生成範圍$() 是以方塊為單位的半徑，表示實體可以生成的距離。$(p)嘗試確保該區域適合實體，否則某些生成可能會失敗。"
         },
         {
             "type": "patchouli:text",
-            "title": "Ignores Players",
-            "text": "A spawner that $(9)Ignores Players$() does not need a player within the $(9)Activation Range$().$(p)It will operate with or without one."
+            "title": "忽略玩家",
+            "text": "$(9)忽略玩家$()的生怪磚不需要$(9)啟動距離$()內有玩家。$(p)不管有沒有玩家，它都會持續運行。"
         },
         {
             "type": "patchouli:text",
-            "title": "Ignores Conditions",
-            "text": "A spawner that $(9)Ignores Conditions$() will no longer require certain mob-specific spawn conditions.$(p)These include things like the grass requirement for animals.$(p)It will just need sufficient space, and a lack of nearby entities."
+            "title": "忽略條件",
+            "text": "$(9)忽略條件$()的生怪磚將不再需要某些生物的特定生成條件。$(p)這些包括諸如動物的草要求之類的。$(p)它只需要足夠的空間和缺乏附近的實體。"
         },
         {
             "type": "patchouli:text",
-            "title": "Redstone Control",
-            "text": "A spawner with $(9)Redstone Control$() requires a redstone signal to operate.$(p)This lets you control when the spawner is operating."
+            "title": "紅石控制",
+            "text": "具有 $(9)紅石控制$()的生怪磚需要紅石信號才能運作。$(p)這可以讓您控制生怪磚何時運作。"
         },
         {
             "type": "patchouli:text",
-            "title": "Ignores Light",
-            "text": "A spawner that $(9)Ignores Light$() will work in all light levels.$(p)This means mobs can spawn in daylight.$(p)If it already $(9)Ignores Conditions$(), then this modifier does nothing."
+            "title": "忽略亮度",
+            "text": "$(9)忽略亮度$()的生怪磚將在所有級別的光照下工作。$(p)這意味著生物可以在白天生成。$(p)如果它已經$(9)忽略條件$()，那麼這強化沒有任何用途。"
         },
         {
             "type": "patchouli:text",
-            "title": "No AI",
-            "text": "A spawner with $(9)No AI$() enabled will spawn mobs without any AI.$(p)Normally, these mobs will just simply float there, immobile, doing nothing.$(p)However, the ones created by Apotheosis can still be moved."
+            "title": "無生物AI",
+            "text": "啟用了$(9)無生物AI$()的生怪磚將生成沒有任何AI 的生物。$(p)通常情況下，這些生物只會漂浮在那裡，一動不動，什麼也不做。$(p)然而，由Apotheosis 創建的那些生物仍然可以移動。"
         },
         {
             "type": "patchouli:text",
-            "text": "If you are making large mob farms, you should always utilize the $(9)No AI$() upgrade.$(p)It causes significantly reduced server load, and it makes the mobs easier to control."
+            "text": "如果你正在建造大型刷怪場，你應該始終使用$(9)無生物AI$()升級。$(p)它會顯著地減少服務器負載，並且使生物更容易控制。"
         }
     ]
 }

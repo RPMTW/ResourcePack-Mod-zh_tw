@@ -7,7 +7,7 @@
         {
             "type": "patchouli:spotlight",
             "item": "productivebees:advanced_oak_beehive",
-            "text": "生產蜜蜂通過高級蜂箱在原版蜂箱上進行擴展。 與原版蜂箱不同，高級蜂箱不需要附近的營火即可收穫，它可以在蜜蜂仍在裡面的情況下被破壞和移動，而且無需使用絲綢之觸。"
+            "text": "生產蜜蜂通過高級蜂箱在原版蜂箱上進行擴展。與原版蜂箱不同，高級蜂箱不需要附近的營火即可收穫，它可以在蜜蜂仍在裡面的情況下被破壞和移動，而且無需使用絲綢之觸。"
         },
         {
             "type": "patchouli:crafting",
@@ -16,7 +16,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "高級蜂箱有一個使用介面，你可以從中查看當前有哪些蜜蜂在蜂箱內，以及取出任何生產的資源。 可以使用$(l:hives/expansion_boxes)擴充盒$(/l)進一步升級高級蜂箱。 附加一個 $(l:hives/expansion_boxes)擴充盒$(/l)會將蜜蜂容量從 3 增加到 5 並允許安裝 $(l:items/upgrades)升級$(/l)。"
+            "text": "高級蜂箱有一個使用介面，你可以從中查看目前有哪些蜜蜂在蜂箱內，以及取出任何生產的資源。可以使用$(l:hives/expansion_boxes)擴充盒$(/l)進一步升級高級蜂箱。附加一個 $(l:hives/expansion_boxes)擴充盒$(/l)會將蜜蜂容量從 3 增加到 5 並允許安裝 $(l:items/upgrades)升級$(/l)。"
         },
         {
             "type": "patchouli:text",

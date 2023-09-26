@@ -1,5 +1,5 @@
 {
-    "name": "Mob Spawners",
+    "name": "生物生怪磚",
     "icon": "minecraft:spawner",
     "category": "apotheosis:spawner/spawner",
     "flag": "apotheosis:spawner",
@@ -7,11 +7,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "A $(9)Mob Spawner$() is a magical block that can funnel in entities from the void.$(p)But you knew that already, so let's get on to the new stuff.$(p)In Apotheosis, spawners can be picked up with $(9)Silk Touch$()."
+            "text": "$(9)生物生怪磚是一個神奇的方塊，可以從虛無中吸引實體.$(p)但你已經知道了，所以讓我們開始新的東西.$(p)在Apotheosis中，生怪磚可以使用$(9)絲綢之觸"
         },
         {
             "type": "patchouli:text",
-            "text": "Harvesting a spawner in that way will incur an additional durability cost.$(p)Mob spawners have a series of $(l:apotheosis:spawner/stats)Spawner Stats$() which control their functionality.$(p)These stats can be changed using $(l:apotheosis:spawner/modifiers)Spawner Modifiers$()."
+            "text": "以這種方式收穫生怪磚將產生額外的耐久消耗。$(p)生怪磚有一系列控制其功能的$(l:apotheosis:spawner/stats)生怪磚統計數據$()。$(p)這些統計數據可以使用 $(l:apotheosis:spawner/modifiers)生怪磚強化$() 進行更改。"
         }
     ]
 }

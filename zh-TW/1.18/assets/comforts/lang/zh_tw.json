@@ -1,5 +1,5 @@
 {
-    "itemGroup.comforts": "Comforts",
+    "itemGroup.comforts": "舒適用品",
     "block.comforts.hammock_black": "黑色吊床布",
     "block.comforts.hammock_blue": "藍色吊床布",
     "block.comforts.hammock_brown": "棕色吊床布",
@@ -42,5 +42,6 @@
     "capability.comforts.not_sleepy": "你現在不能休息，你還不睏",
     "block.comforts.hammock.no_rope": "You must hang the hammock on a pair of rope and nail",
     "block.comforts.hammock.no_space": "There is not enough space to fit the hammock",
-    "block.comforts.hammock.missing_rope": "There must also be a rope and nail on the other end to hang the hammock"
+    "block.comforts.hammock.missing_rope": "There must also be a rope and nail on the other end to hang the hammock",
+    "block.comforts.hammock.no_sleep.2": "你只能在白天、晚上或暴風雨時睡覺"
 }
