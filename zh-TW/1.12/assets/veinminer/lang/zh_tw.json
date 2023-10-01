@@ -1,12 +1,12 @@
 {
-    "command.veinminer": "/veinminer mode/blocklist/toollist/blocklimit/radius/per_tick/saveconfig/help",
+    "command.veinminer": "/veinminer mode/blocklist/toollist/blocklimit/radius/per_tick/saveconfig/reloadconfig/help",
     "command.veinminer.enable": "/veinminer mode auto/sneak/no_sneak",
     "command.veinminer.blocklist": "/veinminer blocklist %s add/remove <模組 id>:<方塊名稱> <元數據>",
     "command.veinminer.toollist": "/veinminer toollist %s add/remove <工具id>",
-    "command.veinminer.hasclient": "你的客戶端似乎安裝有 Veinminer. 請使用 /veinminerc 指令",
-    "command.veinminerc.set.disabled": "已停用客戶端Veinminer的熱鍵。",
-    "command.veinminerc.set.pressed": "已設定客戶端Veinminer的熱鍵為按下時啟用。",
-    "command.veinminerc.set.released": "已設定客戶端Veinminer的熱鍵為按下時不啟用。",
+    "command.veinminer.hasclient": "你的用戶端似乎安裝有 Veinminer. 請使用 /veinminerc 指令",
+    "command.veinminerc.set.disabled": "已停用用戶端Veinminer的熱鍵。",
+    "command.veinminerc.set.pressed": "已設定用戶端Veinminer的熱鍵為按下時啟用。",
+    "command.veinminerc.set.released": "已設定用戶端Veinminer的熱鍵為按下時不啟用。",
     "command.veinminer.set.disable": "已停用VeinMiner",
     "command.veinminer.set.auto": "已設定VeinMiner為熱鍵模式",
     "command.veinminer.set.sneak": "已設定VeinMiner為潛行模式",
@@ -34,7 +34,7 @@
     "mod.veinminer.preferredmode.nosneak": "VeinMiner正使用非潛行模式。",
     "mod.veinminer.finished.tooHungry": "你的飢餓值不足以使用VeinMiner。",
     "mod.veinminer.finished.noExp": "你的經驗值不足以使用VeinMiner。",
-    "veinminer.key.category": "VeinMiner",
+    "veinminer.key.category": "Vein Miner",
     "veinminer.key.enable": "啟用VeinMiner",
     "command.veinminer.help1": "可用指令參數：",
     "command.veinminer.help2": "「mode」：切換VeinMiner模式",
@@ -47,7 +47,7 @@
     "command.veinminer.help9": "「reloadconfig」：從設定檔案載入設定",
     "command.veinminer.help10": "「help」：顯示幫助選單",
     "command.veinminer.help.enable1": "可選模式：",
-    "command.veinminer.help.enable2": "「auto」：熱鍵模式（伺服器：當客戶端沒有本模組時無效）。",
+    "command.veinminer.help.enable2": "「auto」：熱鍵模式（伺服器：當用戶端沒有本模組時無效）。",
     "command.veinminer.help.enable3": "「sneak」：潛行模式",
     "command.veinminer.help.enable4": "「no_sneak」：非潛行模式",
     "gui.veinminer.back": "返回",
@@ -73,5 +73,6 @@
     "gui.veinminer.item.add": "加入",
     "gui.veinminer.item.clear": "清空",
     "gui.veinminer.title.toollist": "%s工具列表",
-    "gui.veinminer.title.blocklist": "%s方塊列表"
+    "gui.veinminer.title.blocklist": "%s方塊列表",
+    "gui.veinminer.unknown": "<Unknown>"
 }

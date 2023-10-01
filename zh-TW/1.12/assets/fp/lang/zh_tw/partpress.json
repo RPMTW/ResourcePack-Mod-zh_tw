@@ -1,0 +1,26 @@
+[
+  "該機器是為將特定材料分解成一些有用的零件而設計的，不僅工作效率高，並且能支持所有可燃燃料。",
+  "合成:",
+  {
+    "link": "fp:lang/part/crafting_partpress.json"
+  },
+  "配方:",
+  {
+    "link": "fp:lang/part/partpress_partpress2.json"
+  },
+  {
+    "link": "fp:lang/part/partpress_partpress3.json"
+  },
+  {
+    "link": "fp:lang/part/partpress_partpress4.json"
+  },
+  {
+    "link": "fp:lang/part/partpress_partpress5.json"
+  },
+  {
+    "link": "fp:lang/part/partpress_partpress6.json"
+  },
+  {
+    "link": "fp:lang/part/partpress_partpress7.json"
+  }
+]

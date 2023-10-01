@@ -1,0 +1,10 @@
+Eyeball
+
+It's a creature consisting of an eyeball and supporting stalk made of blood vessels. It stares at nearby living
+entities. Eyeball will force a nearby player to look at it after 7 seconds of staring. This look lock can be removed
+by walking outside of the eyeball's detection range or by hiding behind an obstacle. Non-player targets will be forced
+to attack the eyeball (if they are able to).
+On death an eyeball explodes into pieces, infecting all living entities in 8 block radius. After some time, a new
+eyeball will emerge from infected entity, damaging it by half of max health amount. This seems like the only method of
+its reproduction.
+Look lock can be negated by a set of Telekill armor.

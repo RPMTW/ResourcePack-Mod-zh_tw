@@ -1,0 +1,29 @@
+{
+  "name": "惡魔意志測量儀",
+  "icon": "bloodmagic:demonwillgauge",
+  "category": "bloodmagic:demon_will/will_manipulation",
+  "pages": [
+    {
+      "type": "text",
+      "text": "將其放在物品欄中，$(item)惡魔意志測量儀$()將顯示在畫面上顯示此$(l:bloodmagic:demon_will/will_manipulation/aura)靈域$()中有多少惡魔意志。$(br2)從上到下，測量的$(raw)意志$()種類是：$(li)$(raw)原生$()$(li)$(corrosive)腐蝕$()$(li)$(steadfast)堅毅$()$(li)$(destructive)破壞$()$(li)$(vengeful)復仇$()"
+    },
+    {
+      "type": "bloodmagic:crafting_soulforge",
+      "recipe": "bloodmagic:soulforge/demon_will_gauge",
+      "heading": "惡魔意志測量儀",
+      "text": "請參閱下頁，了解測量儀的顯示圖片。"
+    },
+    {
+      "type": "image",
+      "images": [
+        "bloodmagic:images/entries/demon_will/demon_will_aura_gauge.png"
+      ],
+      "title": "測量儀顯示圖",
+      "border": true
+    },
+    {
+      "type": "text",
+      "text": "該測量儀將出現在屏幕的左上角。彩色條將使您很好地估計目前chunk中各個$(l:bloodmagic:demon_will/will_manipulation/aspected_will)意志種類$()的數值。$(br2)您可以按住[$(k:sneak)]來查看各個種類的數值，每種$(raw)意志$()在1到100之間。100是一個chunk可以包含的任一種$(raw)意志$()的最大數量。"
+    }
+  ]
+}

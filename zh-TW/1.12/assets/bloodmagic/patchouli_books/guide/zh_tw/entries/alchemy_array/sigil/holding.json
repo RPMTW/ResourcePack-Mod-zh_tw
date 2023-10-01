@@ -1,0 +1,24 @@
+{
+  "name": "集持印記",
+  "icon": "bloodmagic:sigilofholding",
+  "category": "bloodmagic:alchemy_array/sigil",
+  "pages": [
+    {
+      "type": "text",
+      "text": "[Needs content pass from Wrince or WayofTime]$(br2)選擇印記時按「$(k:bloodmagic.keybind.open_holding)」打開它的庫存。$()$(br)按「$(k:bloodmagic. keybind.cycle_holding_pos)\" 向前循環，$() 或 \"$(k:bloodmagic.keybind.cycle_holding_neg)\" 向後循環。$() 潛行同時滾動中鍵也有效。$(br2)如果你沒有看到 那裡有任何鍵綁定，那麼你還沒有進行按鍵設定。"
+    },
+    {
+      "type": "crafting_2-step_sigil",
+      "alchemy_table.heading": "集持試劑",
+      "alchemy_table.recipe": "bloodmagic:alchemytable/reagent_holding",
+      "array.heading": "集持印記",
+      "array.recipe": "bloodmagic:array/holdingsigil",
+      "array.text": "$(italic)印記集中"
+    },
+    {
+      "type": "text",
+      "flag": "mod:curios",
+      "text": "As you have the $(thing)Curios API$() installed, you can equip this $(item)Sigil$() as a charm. If you want to wear more curios at once, consider using the $(l:bloodmagic:alchemy_array/living_equipment/armor_upgrades/curios_sockets)Socketed Upgrade$() for your $(l:bloodmagic:alchemy_array/living_equipment/living_basics)Living Armour$()."
+    }
+  ]
+}

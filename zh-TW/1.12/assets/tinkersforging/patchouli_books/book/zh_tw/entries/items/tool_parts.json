@@ -1,0 +1,47 @@
+{
+    "name": "Tool Parts",
+    "icon": "tinkersforging:pickaxe_head/iron",
+    "category": "items",
+    "pages": [
+        {
+            "type": "text",
+            "text": "Tinker's Forging adds various tool parts which can be forged with an anvil, and then later crafted into tools. These include the Hammer Head, Pickaxe Head, Shovel Head, Axe Head, Sword Blade, and Hoe Head. Each tool head comes in a variety of different metal components, and can be crafted with a stick to make the respective tool."
+        },
+        {
+            "type": "spotlight",
+            "item": "tinkersforging:hammer_head/iron",
+            "text": "The hammer head can be used to craft the Tinker's Hammer. It takes five ingots to forge. The default rules for forging it are: Punch Last, and Shrink Not Last.",
+            "link_recipe": true
+        },
+        {
+            "type": "spotlight",
+            "item": "tinkersforging:pickaxe_head/iron",
+            "text": "The pickaxe head can be used to craft a pickaxe. It takes three ingots to forge. The default rules for forging it are: Punch Last, Bend Not Last, and Draw Not Last.",
+            "link_recipe": true
+        },
+        {
+            "type": "spotlight",
+            "item": "tinkersforging:shovel_head/iron",
+            "text": "The shovel head can be used to craft a shovel. It takes one ingot to forge. The default rules for forging it are: Punch Not Last and Hit Not Last",
+            "link_recipe": true
+        },
+        {
+            "type": "spotlight",
+            "item": "tinkersforging:axe_head/iron",
+            "text": "The axe head can be used to craft an axe. It takes three ingots to forge. The default rules for forging it are: Punch Last, Hit Not Last, and Bend Not Last.",
+            "link_recipe": true
+        },
+        {
+            "type": "spotlight",
+            "item": "tinkersforging:sword_blade/iron",
+            "text": "the sword blade can be used to craft a sword. It takes two ingots to forge. The default rules for forging it are: Hit Last, Bend Second Last, and Bend Third Last.",
+            "link_recipe": true
+        },
+        {
+            "type": "spotlight",
+            "item": "tinkersforging:hoe_head/iron",
+            "text": "The hoe head can be used to craft a hoe. It takes two ingots to forge. The default rules for forging it are: Punch Last, Hit Not Last, and Bend Not Last."
+        }
+    ],
+    "flag": "tinkersforgingtool_parts"
+}

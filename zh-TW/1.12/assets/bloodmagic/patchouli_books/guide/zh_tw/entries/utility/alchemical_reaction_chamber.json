@@ -1,0 +1,57 @@
+{
+  "name": "煉金反應爐",
+  "icon": "bloodmagic:alchemicalreactionchamber",
+  "category": "bloodmagic:utility",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(item)煉金反應爐$()目前尚未完成，但除此之外，它可以作為$(thing)熔爐$()使用，功能有$(l:bloodmagic:utility/ore_processing)三倍化礦石$()，還原$(l:bloodmagic:altar/soul_network)氣血寶珠$()，並且是目前獲得$(blood)虛弱氣血碎片$()的唯一方法，特別是從$(l:bloodmagic:dungeons/tau_fruit)飽滿的仙桃$()中取得。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "bloodmagic:arc"
+    },
+    {
+      "type": "crafting_soulforge",
+      "heading": "血染恢復寶具",
+      "recipe": "bloodmagic:soulforge/sanguine_reverter",
+      "anchor": "blood_shard",
+      "text": "The Sanguine Reverter is used to create Weak Blood Shards, and revert Blood Orbs to their input crafting item."
+    },
+    {
+      "type": "3x_crafting_arc",
+      "a.heading": "[虛弱]氣血碎片",
+      "a.recipe": "bloodmagic:arc/weakbloodshard_tau",
+      "b.heading": "還原氣血寶珠",
+      "b.recipe": "bloodmagic:arc/reversion/weak_blood_orb",
+      "c.heading": "還原學徒氣血寶珠",
+      "c.recipe": "bloodmagic:arc/reversion/apprentice_blood_orb"
+    },
+    {
+      "type": "2x_crafting_arc",
+      "a.heading": "還原法師氣血寶珠",
+      "a.recipe": "bloodmagic:arc/reversion/magician_blood_orb",
+      "b.heading": "還原導師氣血寶珠",
+      "b.recipe": "bloodmagic:arc/reversion/master_blood_orb",
+      "b.text": "翻開下頁，瞭解它的更多用途。"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "crafting",
+      "heading": "水化單元",
+      "recipe": "bloodmagic:primitive_hydration_cell",
+      "text": "水化單元用於製造黏土，平衡的基石。"
+    },
+    {
+      "type": "2x_crafting_arc",
+      "a.heading": "沙子變黏土",
+      "a.recipe": "bloodmagic:arc/clay_from_sand",
+      "a.fluid_input": "minecraft:water_bucket",
+      "b.heading": "陶土變黏土",
+      "b.recipe": "bloodmagic:arc/clay_from_terracotta",
+      "b.fluid_input": "minecraft:water_bucket"
+    }
+  ]
+}

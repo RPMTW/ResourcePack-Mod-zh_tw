@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="utf-8"?>
+<book title="Rockhounding Chemistry Quest Book" cover="rockhounding_chemistry:gbook/icons/questcover" fontSize="0.6" home="0:0">
+	<include ref="rockhounding_chemistry:xml/custom.xml"/>
+
+	<chapter id="main">
+		<page id="index_01">
+			<title color="#CC3333">Table of tasks</title>
+
+			<p space="10"/>
+			<p color="#000066">01: First thing first</p>
+			<p space="2"/>
+			<link ref="quests:quest_01_01" color="#0000FF">-&gt; 01: Getting Started</link>
+			<p space="2"/>
+			<link ref="quests:quest_01_02" color="#0000FF">-&gt; 02: Been there, done that</link>
+			<p space="2"/>
+			<link ref="quests:quest_01_03" color="#0000FF">-&gt; 03: They are minerals!</link>
+			<p space="2"/>
+			<link ref="quests:quest_01_04" color="#0000FF">-&gt; 04: I, Rabbit</link>
+			<p space="2"/>
+			<link ref="quests:quest_01_05" color="#0000FF">-&gt; 05: Better with conduits</link>
+
+			<p space="10"/>
+			<p color="#000066">02: Enter the lab</p>
+			<p space="2"/>
+			<link ref="quests:quest_02_01" color="#0000FF">-&gt; 01: Under pressure</link>
+			<p space="2"/>
+			<link ref="quests:quest_02_02" color="#0000FF">-&gt; 02: Never enough water</link>
+			<p space="2"/>
+			<link ref="quests:quest_02_03" color="#0000FF">-&gt; 03: Getting salty</link>
+			<p space="2"/>
+			<link ref="quests:quest_02_04" color="#0000FF">-&gt; 04: A wiki for fluids</link>
+			<p space="2"/>
+			<link ref="quests:quest_02_05" color="#0000FF">-&gt; 05: Hello World</link>
+			<p space="2"/>
+			<link ref="quests:quest_02_06" color="#0000FF">-&gt; 06: Farewell World</link>
+		</page>
+
+		<page id="index_02">
+			<title color="#CC3333">Table of tasks</title>
+
+			<p space="10"/>
+			<p color="#000066">03: Eternal flames</p>
+			<p space="2"/>
+			<link ref="quests:quest_03_01" color="#0000FF">-&gt; 01: The dark matter</link>
+			<p space="2"/>
+			<link ref="quests:quest_03_02" color="#0000FF">-&gt; 02: Darker and stickier</link>
+			<p space="2"/>
+			<link ref="quests:quest_03_03" color="#0000FF">-&gt; 03: Smoke on the water</link>
+			<p space="2"/>
+			<link ref="quests:quest_03_04" color="#0000FF">-&gt; 04: I'm you, but cleaner</link>
+			<p space="2"/>
+			<link ref="quests:quest_03_05" color="#0000FF">-&gt; 05: Big Bada Boom</link>
+
+			<p space="10"/>
+			<p color="#000066">04: All the fluids</p>
+			<p space="2"/>
+			<link ref="quests:quest_04_01" color="#0000FF">-&gt; 01: Removing heroBrine</link>
+			<p space="2"/>
+			<link ref="quests:quest_04_02" color="#0000FF">-&gt; 02: Two fluids, one tank</link>
+			<p space="2"/>
+			<link ref="quests:quest_04_03" color="#0000FF">-&gt; 03: That's fine enough</link>
+			<p space="2"/>
+			<link ref="quests:quest_04_04" color="#0000FF">-&gt; 04: Super Oven</link>
+			<p space="2"/>
+			<link ref="quests:quest_04_05" color="#0000FF">-&gt; 05: Slimes of doom</link>
+		</page>
+
+		<page id="index_03">
+			<title color="#CC3333">Table of tasks</title>
+
+			<p space="10"/>
+			<p color="#000066">05: The Airbender</p>
+			<p space="2"/>
+			<link ref="quests:quest_05_01" color="#0000FF">-&gt; 01: The air you breath</link>
+			<p space="2"/>
+			<link ref="quests:quest_05_02" color="#0000FF">-&gt; 02: Clean air</link>
+			<p space="2"/>
+			<link ref="quests:quest_05_03" color="#0000FF">-&gt; 03: Brrrr...</link>
+			<p space="2"/>
+			<link ref="quests:quest_05_04" color="#0000FF">-&gt; 04: Not for balloons</link>
+			<p space="2"/>
+			<link ref="quests:quest_05_05" color="#0000FF">-&gt; 05: Attention catalyzer</link>
+			<p space="2"/>
+			<link ref="quests:quest_05_06" color="#0000FF">-&gt; 06: Such a smell</link>
+
+			<p space="10"/>
+			<p color="#000066">06: The ecologist</p>
+			<p space="2"/>
+			<link ref="quests:quest_06_01" color="#0000FF">-&gt; 01: Nothing gets wasted</link>
+			<p space="2"/>
+			<link ref="quests:quest_06_02" color="#0000FF">-&gt; 02: Unexpected resource</link>
+			<p space="2"/>
+			<link ref="quests:quest_06_03" color="#0000FF">-&gt; 03: New life</link>
+
+			<p space="10"/>
+			<p color="#000066">07: Ammonia Avenue</p>
+			<p space="2"/>
+			<link ref="quests:quest_07_01" color="#0000FF">-&gt; 01: Every drop matters</link>
+			<p space="2"/>
+			<link ref="quests:quest_07_02" color="#0000FF">-&gt; 02: 50 shades of Ammonia</link>
+			<p space="2"/>
+			<link ref="quests:quest_07_03" color="#0000FF">-&gt; 03: Precipitated situation</link>
+			<p space="2"/>
+			<link ref="quests:quest_07_04" color="#0000FF">-&gt; 04: Down the tubes</link>
+			<p space="2"/>
+			<link ref="quests:quest_07_05" color="#0000FF">-&gt; 05: Last but not least</link>
+			<p space="2"/>
+			<link ref="quests:quest_07_06" color="#0000FF">-&gt; 06: Worst sales ever</link>
+		</page>
+
+		<page id="index_04">
+			<title color="#CC3333">Table of tasks</title>
+
+			<p space="10"/>
+			<p color="#000066">08: The big bath theory</p>
+			<p space="2"/>
+			<link ref="quests:quest_08_01" color="#0000FF">-&gt; 01: One For All</link>
+			<p space="2"/>
+			<link ref="quests:quest_08_02" color="#0000FF">-&gt; 02: Stirred, not shaken vol.1</link>
+			<p space="2"/>
+			<link ref="quests:quest_08_03" color="#0000FF">-&gt; 03: Stirred, not shaken vol.2</link>
+			<p space="2"/>
+			<link ref="quests:quest_08_04" color="#0000FF">-&gt; 04: All goes to dust</link>
+
+			<p space="10"/>
+			<p color="#000066">09: King of Metal</p>
+			<p space="2"/>
+			<link ref="quests:quest_09_01" color="#0000FF">-&gt; 01: Of mine and steel</link>
+			<p space="2"/>
+			<link ref="quests:quest_09_02" color="#0000FF">-&gt; 02: Smokin hot</link>
+			<p space="2"/>
+			<link ref="quests:quest_09_03" color="#0000FF">-&gt; 03: Crystal clear</link>
+
+		</page>
+
+	</chapter>
+
+	<chapter id="quests">
+		<page id="quest_01_01">
+			<link ref="main:index_01" color="#CC3333">&lt;- 01: Getting Started</link>
+			<p>Before using this mod, remember to carefully check the config file to set your favourite options. A lot of concepts can be configured to make the game easier/harder or to enable/disable specific parts. Give also a look into the Core module config for additional settings.</p>
+		</page>
+		<page id="quest_01_02">
+			<link ref="main:index_01" color="#CC3333">&lt;- 02: Been there, done that</link>
+			<p>The first thing to do to become a mad chemist is to acquire the resources at the base of the production line. This is a mid-late game mod which relies on mass production, hence make sure you have large quantities of them by the time you approach the mod.</p>
+			<p space="2"/>
+			<p color="#0000FF">Tasks</p>
+			<p>- Collect coal, granite, redstone, iron, gold and quartz.</p>
+			<p>- Collect stacks of glass.</p>
+			<p>- Store up at least 8 bucket of lava to firmly fuel the very first machines.</p>
+		</page>
+
+		<page id="quest_01_03">
+			<link ref="main:index_01" color="#CC3333">&lt;- 03: They are minerals!</link>
+			<p>The entire mod production bases itself on one single ore that will be little by little acknlowledged, examined and processed.</p>
+			<p space="2"/>
+			<p color="#0000FF">Tasks</p>
+			<p>- Collect stacks of Uninspected Minerals.</p>
+		</page>
+
+		<page id="quest_01_04">
+			<link ref="main:index_01" color="#CC3333">&lt;- 04: I, Rabbit</link>
+			<p>The goal of the mod is to assembly a huge factory working on its own in most of its parts. This means that machines, storage and connections will cover several chunks.</p>
+			<p space="2"/>
+			<p color="#0000FF">Tasks</p>
+			<p>- Get some space, a lot of space.</p>
+		</page>
+
+		<page id="quest_01_05">
+			<link ref="main:index_01" color="#CC3333">&lt;- 05: Better with conduits</link>
+			<p>Since the mod moves around a lot of material, expecially fluids, it is better to use some advanced transport systems to make life easier and the factory more efficient, taking advantage of the bundles, filtering and bidirectional I/O in the same line. Although any pipe should be fine (the mod itself has an experimental one just in case), it is HIGHLY recommended to use EnderIO Conduits or Refined Storage.</p>
+			<p space="2"/>
+			<p color="#0000FF">Tasks</p>
+			<p>- Get access to the EnderIO Conduits and/or Refined Storage</p>
+		</page>
+
+		<page id="quest_02_01">
+			<link ref="main:index_01" color="#CC3333">&lt;- 01: Under pressure</link>
+			<p>Most of the machines are made of the same parts, eventually from different material. They are all shaped in the same machine. Use JEI as reference to quickly see which parts are involved the most.</p>
+			<p space="2"/>
+			<p color="#0000FF">Tasks</p>
+			<p>- Put down a Profiling Bench and use iron to cast several coils, rods, arms, casing. Use glass for glass pipes. Help yourself with hoppers to automate input and output.</p>
+		</page>
+
+		<page id="quest_02_02">
+			<link ref="main:index_01" color="#CC3333">&lt;- 02: Never enough water</link>
+			<p>The mod consumes a lot of water. This is the time to set an infinite water pump with a storage from where machines can draw from. The mod has its own pump which can be upgraded to be more efficient. Any modded pump will be valid though.</p>
+			<p space="2"/>
+			<p color="#0000FF">Tasks</p>
+			<p>- Put down a Water Pump on top of a water source tile and start collecting water.</p>
+		</page>
+
+		<page id="quest_02_03">
+			<link ref="main:index_01" color="#CC3333">&lt;- 03: Getting salty</link>
+			<p>Another largely used resource is salt. It is obtained by letting water evaporate inside a tank. It's not a very fast procedure and also is influenced by weather, so a group of tanks will help to put together decent amounts. Remember to refine the salt before using it.</p>
+			<p space="2"/>
+			<p color="#0000FF">Tasks</p>
+			<p>- Put down several Evaporation Tanks and a Seasoning Rack. Remember the top of the tank must see the sky.</p>
+			<p>- Connect the water storage to the tanks to constantly fill them.</p>
+			<p>- Connect the tanks to the Rack with hoppers or pipes to extract and refine the salt.</p>
+		</page>
+
+		<page id="quest_02_04">
+			<link ref="main:index_01" color="#CC3333">&lt;- 04: A wiki for fluids</link>
+			<p>Since a lot of containers may require filtering, take some time to craft a Fluidpedia. Inside it you can pick samples of any fluid or gas to set filters in tanks and vessels by using a Sampling Ampoule. This means you won't need a filled bucket to be able to set a filter.</p>
+			<p space="2"/>
+			<p color="#0000FF">Tasks</p>
+			<p>- Put down a Fluidpedia.</p>
+			<p>- Craft a Sampling Ampoule and use it on any of the shown fluids/gases.</p>
+			<p>- Check the tooltip of the gui and the ampoule to get familiar with the given informations.</p>
+			<p>- When needed, use the ampoule with the sample in the proper filter slot to lock the access to the tank.</p>
+		</page>
+
+		<page id="quest_02_05">
+			<link ref="main:index_01" color="#CC3333">&lt;- 05: Hello World</link>
+			<p>Since gases are distributed internally to the mod through its own pipeline, it is possible to create an interface to allow other mods to pick them as normal fluids. With a CraftTweaker script is possible to allow single gases to be recognized by any fluid pipe. At the same way a new gas can be inserted in the opposite way. It also allows to uniform identical fluid/gases from different mods into one type.</p>
+			<p space="2"/>
+			<p color="#0000FF">Tasks</p>
+			<p>- Put down a Transposer.</p>
+			<p>- Connect a Gas Pipeline on its plugs and any fluid pipe on any side to transpose the material.</p>
+		</page>
+
+		<page id="quest_02_06">
+			<link ref="main:index_01" color="#CC3333">&lt;- 06: Farewell World</link>
+			<p>In case a fluid or gas is not needed or it is exceeding the storage, it is possible to get rid of it by voiding it forever.</p>
+			<p space="2"/>
+			<p color="#0000FF">Tasks</p>
+			<p>- Put down a Chemical Dumper.</p>
+			<p>- Add a filter in the gui using a Sampling Ampoule.</p>
+			<p>- Connect a Gas Pipeline on the input plug or a fluid pipe on any side to receive the material.</p>
+		</page>
+
+		<page id="quest_03_01">
+			<link ref="main:index_02" color="#CC3333">&lt;- 01: The dark matter</link>
+			<p>The mod has a own (though optional) fueling system, that provides both fuel and energy to each machine, running on Syngas. Producing and storing it will be a good start. This is a little plant dedicated to Syngas making. Since Syngas is used for fueling and as process ingredient, you better keep separated the two lines and storages.</p>
+			<p space="2"/>
+			<p color="#0000FF">Tasks</p>
+			<p>- Assembly a Mineral Sizer and crush some coal blocks into cracked coal. Select the right Comminution level to expose the correct output.</p>
+			<p>- Spend some buckets of lava to feed the Power Station.</p>
+			<p>- Connect the Collector to a storage to keep the machine always free to run.</p>
+		</page>
+
+		<page id="quest_03_02">
+			<link ref="main:index_02" color="#CC3333">&lt;- 02: Darker and stickier</link>
+			<p>The mixture of cracked coal needs now to be turned into a slurry to be ready for the burner. The block required for this task could work slower than the upcoming steps so it is suggested to put down a group of several units to increase the produced amount.</p>
+			<p space="2"/>
+			<p color="#0000FF">Tasks</p>
+			<p>- Put down several Slurry Ponds.</p>
+			<p>- Connect the Cracked coal storage into them to supply the mixture.</p>
+			<p>- Connect the water storage into them to supply the fluid.</p>
+			<p>- Optionally hook all the Ponds into one storage for larger collection.</p>
+			<p>- If you have a Rotten Flesh farm, consider including it also in the process.</p>
+		</page>
+
+		<page id="quest_03_03">
+			<link ref="main:index_02" color="#CC3333">&lt;- 03: Smoke on the water</link>
+			<p>The produced slurry is now ready to be burned for the first stage of the Syngas making. The structure heats up to a threashold, so it's better to keep it always busy to avoid letting it cool down and then heated again. This plant will also leave behind some byproducts that will turn useful later on.</p>
+			<p space="2"/>
+			<p color="#0000FF">Tasks</p>
+			<p>- Assembly a Gasification Plant.</p>
+			<p>- Connect the Coal Slurry storage into the cistern on top to supply the burnable matter.</p>
+			<p>- Connect the water storage into the burner to be steamed into the chamber.</p>
+			<p>- Spend some buckets of lava to feed the Power Station.</p>
+			<p>- Make sure the output Raw Syngas is quickly further processed or sent to a larger storage to avoid stopping the plant.</p>
+			<p>- Make sure to pick the byproduct items from the Particulate Collector to be stored for later.</p>
+		</page>
+
+		<page id="quest_03_04">
+			<link ref="main:index_02" color="#CC3333">&lt;- 04: I'm you, but cleaner</link>
+			<p>The hot and dirty gas needs now to be cooled and cleaned further to be finally used. The new plant will blow this gas making sure any remaining pollutant is lost. More byproduct will come at this stage.</p>
+			<p space="2"/>
+			<p color="#0000FF">Tasks</p>
+			<p>- Assembly a Gas Purifier.</p>
+			<p>- Craft a Gas Pipeline Pump and several Ducts.</p>
+			<p>- Connect the Raw Syngas into the input vessel (ProTip: the input vessel can be shared with the Gasifier output, saving its transportation).</p>
+			<p>- Spend some buckets of lava to feed the Power Station.</p>
+			<p>- Connect the output into several Gas Holders to have the larger storage possible. Reserve some Holders for the service line to fuel the factory.</p>
+			<p>- Make sure to pick the byproduct items from the Particulate Collector.</p>
+		</page>
+
+		<page id="quest_03_05">
+			<link ref="main:index_02" color="#CC3333">&lt;- 05: Big Bada Boom</link>
+			<p>The usage of pressurized Vessels and Holders can be dangerous because if kept for too long under pressure at full capacity, they may collapse and explode. You need to avoid blowing up your lab by adding a safety system. Not fully safe since you are handling poisonous gases but still...</p>
+			<p space="2"/>
+			<p color="#0000FF">Tasks</p>
+			<p>- Craft several Exhaust Valves.</p>
+			<p>- Place a valve on top of each vessel and holder as soon as possible.</p>
+			<p>- Watch out if the critical point is reached. The valve will release part of the contained gas, which may poison you.</p>
+		</page>
+
+		<page id="quest_04_01">
+			<link ref="main:index_02" color="#CC3333">&lt;- 01: Removing heroBrine</link>
+			<p>This stage involves the salt making process again. It takes to place another group of Evaporation Tanks but this time you don't need the whole process to be done but an intermediate fluid to be extracted. What you need is the Saturated Brine stage of the evaporation.</p>
+			<p space="2"/>
+			<p color="#0000FF">Tasks</p>
+			<p>- Put down several Evaporation Tanks. Right click them with the mod wrench until selecting the purging of the Saturated Brine (look at Hwyla for reference).</p>
+			<p>- Connect the water storage to the tanks to constantly fill them.</p>
+			<p>- Connect the tank to a storage to extract the Saturated Brine when formed.</p>
+			<p>- ProTip: Unremoved Saturated Brine will continue to evaporate as usual into the next stages.</p>
+		</page>
+
+		<page id="quest_04_02">
+			<link ref="main:index_02" color="#CC3333">&lt;- 02: Two fluids, one tank</link>
+			<p>It's now time to produce the main fluids that will be used for the progression. The first one is the Sodium Hydroxide and involves a simple structure that produces acids by the reaction of two fluids.</p>
+			<p space="2"/>
+			<p color="#0000FF">Tasks</p>
+			<p>- Assembly an Electrochemical CSTR.</p>
+			<p>- Set a filter for Saturated Brine and water on the Input System tanks, following the displacement for left/right tank from JEI.</p>
+			<p>- Connect the Saturated Brine and water storage to the Input System.</p>
+			<p>- Connect the lower tank to a larger storage to keep the structure working.</p>
+			<p>- ProTip: you can avoid to install the Pressure Vessel because not required for this specific recipe.</p>
+		</page>
+
+		<page id="quest_04_03">
+			<link ref="main:index_02" color="#CC3333">&lt;- 03: That's fine enough</link>
+			<p>To use the next machine you need to prepare a fine mixture of various materials, that will be part of the upcoming reactions. These mixtures, as well as others in the future, are made into a blender.</p>
+			<p space="2"/>
+			<p color="#0000FF">Tasks</p>
+			<p>- Assembly three Lab Blenders.</p>
+			<p>- Set the tanks filter to accept only the assigned item to produce Sulfuric, Chloride and Fluoride compounds.</p>
+			<p>- Collect the output into a chest or a network that will represent the solid ingredient storage for the Lab Oven.</p>
+		</page>
+
+		<page id="quest_04_04">
+			<link ref="main:index_02" color="#CC3333">&lt;- 04: Super Oven</link>
+			<p>The next machine will allow you to produce other fluids with the ability to serialize them and run on itself by cycling ingredients.</p>
+			<p space="2"/>
+			<p color="#0000FF">Tasks</p>
+			<p>- Assembly a Lab Oven.</p>
+			<p>- Open the Server and write, in this order, a file for each Sulfuric, Hydrochloric and Hydrofluoric Acid. Make sure the amount of Sulfuric Acid is enough to be used by the other recipes.</p>
+			<p>- Put down several Fluid Tanks and filter each one to receive one of the involved fluids. Connect them to the Input System with a conduit making sure it can insert and extract.</p>
+			<p>- Connect the Output System back to the tanks with a conduit, making sure fluids can only be extracted from the system.</p>
+			<p>- Connect a chest for all the solid ingredients on top of the oven, making sure the conduit can insert and extract.</p>
+			<p>- Turn the Server and the Oven ON in this order to start.</p>
+		</page>
+
+		<page id="quest_04_05">
+			<link ref="main:index_02" color="#CC3333">&lt;- 05: Slimes of doom</link>
+			<p>Storing acids and hazardous fluids in the mod tanks may lead to pollutant leaking. This will create patches of Toxic Slurry around the tanks. Be warned that this slurry will germinate Toxic Slimes that will attack and poison you. This is an internal RH feature. It will not happen with tanks from other mods.</p>
+			<p space="2"/>
+			<p color="#0000FF">Tasks</p>
+			<p>- Store the tanks in an isolated and protected area. Remove as soon as possible the Toxic Slurry eventually leaking.</p>
+			<p>- Later on, replace the normal tanks with Containment Tanks which will safely contain the hazardous fluids.</p>
+		</page>
+
+		<page id="quest_05_01">
+			<link ref="main:index_03" color="#CC3333">&lt;- 01: The air you breath</link>
+			<p>This section allows to extract the gases compoising the air. They will be the base for new reactions and additional uses.</p>
+			<p space="2"/>
+			<p color="#0000FF">Tasks</p>
+			<p>- Assembly an Air Compressor.</p>
+			<p>- Turn it ON and store Compressed Air into a Holder.</p>
+		</page>
+
+		<page id="quest_05_02">
+			<link ref="main:index_03" color="#CC3333">&lt;- 02: Clean air</link>
+			<p>Compressed air needs now to be cleaned to remove all the possible impurities.</p>
+			<p space="2"/>
+			<p color="#0000FF">Tasks</p>
+			<p>- Assembly an Gas Purifier.</p>
+			<p>- Connect the Compressed Air to its input to refine it. ProTip: it can share the same holder with the Air Compressor system.</p>
+		</page>
+
+		<page id="quest_05_03">
+			<link ref="main:index_03" color="#CC3333">&lt;- 03: Brrrr...</link>
+			<p>Refined Air is now ready to be cooled down. This will make it suitable for the upcoming distillation.</p>
+			<p space="2"/>
+			<p color="#0000FF">Tasks</p>
+			<p>- Assembly a Heat Exchanger.</p>
+			<p>- Connect the Refined Air to its input to cool it down. ProTip: it can share the same holder with the Gas Purifier system.</p>
+			<p>- Connect the water storage to the tank on top to add the coolant. Later on, cooler fluids than water will help to make the structure more efficient.</p>
+		</page>
+
+		<page id="quest_05_04">
+			<link ref="main:index_03" color="#CC3333">&lt;- 04: Not for balloons</link>
+			<p>The next one is a huge structure which will output all the gases composing the air. The main gases will be used in a large scale, while the rarer ones will be used with thriftiness, so it's better to carefully store them because rare and precious indeed.</p>
+			<p space="2"/>
+			<p color="#0000FF">Tasks</p>
+			<p>- Assembly a Cryogenic Distillation Plant.</p>
+			<p>- Connect the Cooled Air to its input to distill it. ProTip: it can share the same holder with the Heat Exchanger system.</p>
+			<p>- From the Controller select the gases to produce.</p>
+			<p>- Connect both Nitrogen and Oxygen to a larger storage system to increase their disposal.</p>
+			<p>- Connect the Gas Bulb to 6 holders to store each of the gases.</p>
+		</page>
+
+		<page id="quest_05_05">
+			<link ref="main:index_03" color="#CC3333">&lt;- 05: Attention catalyzer</link>
+			<p>At this point a big role in the reactions will be taken by catalysts. There are several to be produced, usually from metals, also some of them will be not accessible immediately. Follow the JEI reference to know which ones can be made right now and how to make them.</p>
+			<p space="2"/>
+			<p color="#0000FF">Tasks</p>
+			<p>- Use the Profiling bench to cast some catalysts with the necessary material by using the GAUZE pattern.</p>
+			<p>- Take some time to enchant all the catalysts possible with Unbreaking, it will make them last longer. Later on they can be regenerated to reduce the need for extra supplies.</p>
+		</page>
+
+		<page id="quest_05_06">
+			<link ref="main:index_03" color="#CC3333">&lt;- 06: Such a smell</link>
+			<p>Once you have all the gases ready it's time to combine them. What once was fresh air is gonna become some lethal substances.</p>
+			<p space="2"/>
+			<p color="#0000FF">Tasks</p>
+			<p>- Assembly a Gas Refining Tower.</p>
+			<p>- Open the Server and write, in this order, three files for Ammonia with the highest amount possible and one for Nitric Acid with an amount of few hundreds.</p>
+			<p>- Connect the gas storage system to the two input vessels. The Tower will care about filtering.</p>
+			<p>- Connect the Purge vessel at the bottom to the gas storage system so to alternate ingredients.</p>
+			<p>- Connect the output vessel to a larger storage system to stack amounts.</p>
+			<p>- Connect the output tank to a Fluid Tank for storage.</p>
+			<p>- Connect a chest with all the catalysts to the reactor, making sure the conduit can insert and extract them.</p>
+			<p>- Turn ON the server and the Tower in this order.</p>
+		</page>
+
+		<page id="quest_06_01">
+			<link ref="main:index_03" color="#CC3333">&lt;- 01: Nothing gets wasted</link>
+			<p>Since catalysts are a major concern at the moment, it's time to find a way to make their usage more efficient. This plant will regenerate the spent catalyst making them active again. Very useful to avoid the constant crafting of new catalysts.</p>
+			<p space="2"/>
+			<p color="#0000FF">Tasks</p>
+			<p>- Assembly a Gasification Plant.</p>
+			<p>- Connect the Toxic Waste storage to the upper cistern.</p>
+			<p>- Connect the water storage to the burner.</p>
+			<p>- Collect the output Raw Flue Gas in a large Holder.</p>
+			<p>- Extract the byproduct left behind by the process from the collector.</p>
+		</page>
+
+		<page id="quest_06_02">
+			<link ref="main:index_03" color="#CC3333">&lt;- 02: Unexpected resource</link>
+			<p>The Raw Flue Gas needs now to be cleaned further and cooled as usual to be finally usable.</p>
+			<p space="2"/>
+			<p color="#0000FF">Tasks</p>
+			<p>- Assembly a Gas Purifier.</p>
+			<p>- Connect the Raw Flue Gas to the input vessel.</p>
+			<p>- Collect the output Flue Gas in a larger storage.</p>
+			<p>- Make sure to pick the byproduct left behind in the collector by the process.</p>
+		</page>
+
+		<page id="quest_06_03">
+			<link ref="main:index_03" color="#CC3333">&lt;- 03: New life</link>
+			<p>All the machines using catalysts can have a own recovering system installed beneath them. Make sure to search under the plants for the right plugs where to attach it.</p>
+			<p space="2"/>
+			<p color="#0000FF">Tasks</p>
+			<p>- Assembly a Catalyst Regenerator under a plant.</p>
+			<p>- Connect the Flue Gas to the input vessel.</p>
+			<p>- Connect the water storage to the Regenerator.</p>
+			<p>- Turn it ON. When required it will automatically regenerate the catalysts.</p>
+			<p>- Make sure to pick the byproduct left behind by the regeneration process.</p>
+		</page>
+
+		<page id="quest_07_01">
+			<link ref="main:index_03" color="#CC3333">&lt;- 01: Every drop matters</link>
+			<p>Ammonia takes an important role in the production, both as a gas and as an aqueous solution. Here are some ways to obtain the aqueous version.</p>
+			<p space="2"/>
+			<p color="#0000FF">Tasks</p>
+			<p>- Assembly a Gas Condenser.</p>
+			<p>- Connect the Ammonia Gas to the input vessel.</p>
+			<p>- Connect the output tank to the fluids storage.</p>
+			<p>- ProTip: Consider to make a wise use of the Condenser because it will consume the gas pretty quickly. Set an ON-OFF timer to activate the Condenser from time to time.</p>
+		</page>
+
+		<page id="quest_07_02">
+			<link ref="main:index_03" color="#CC3333">&lt;- 02: 50 shades of Ammonia</link>
+			<p>Another way to obtain Liquid Ammonia is to spill it out from the Coal Tar produced by the Syngas factory. It will be few millibuckets but, in the long run, the boost will be noticeable. Make sure you don't waste all the Coal Tar for this because it's a multipurpose resource.</p>
+			<p space="2"/>
+			<p color="#0000FF">Tasks</p>
+			<p>- Put down a Heavy Drum and spill the Coal Tar compound into it to stock.</p>
+			<p>- Assembly a second Lab Oven to dedicate to this task, to make it run with its pace.</p>
+			<p>- Make sure the fluid and solid storage network are reaching the Oven to exchange ingredients.</p>
+		</page>
+
+		<page id="quest_07_03">
+			<link ref="main:index_03" color="#CC3333">&lt;- 03: Precipitated situation</link>
+			<p>An additional way to obtain Liquid Ammonia is to recycle the Fly Ash compound produced by the Syngas purifying. Out of the particles composing it, it's possible to spill out some extra drops of Liquid Ammonia.</p>
+			<p space="2"/>
+			<p color="#0000FF">Tasks</p>
+			<p>- Assembly a Precipitation Chamber.</p>
+			<p>- Make sure the fluid and solid storage network is reaching the machine to exchange ingredients.</p>
+			<p>- Add a file in the server of the previous Lab Oven to produce extra Liquid Ammonia from the new ingredient.</p>
+		</page>
+
+		<page id="quest_07_04">
+			<link ref="main:index_03" color="#CC3333">&lt;- 04: Down the tubes</link>
+			<p>One last way to obtain Ammonia is to use the Fixed bed reactor, in case other mods provide a cheaper access to Hydrogen.</p>
+			<p space="2"/>
+			<p color="#0000FF">Tasks</p>
+			<p>- Assembly a Fixed Bed Reactor.</p>
+			<p>- Connect the gas storage to the input tanks.</p>
+			<p>- Connect the gas storage to the output and purge tanks.</p>
+			<p>- Supply the catalysts to the middle section.</p>
+			<p>- ProTip: don't mind the thin air filter, it's just a dummy placeholder.</p>
+			<p>- ProTip: unused input vessels can be omitted as long as no larger recipes are planned.</p>
+		</page>
+
+		<page id="quest_07_05">
+			<link ref="main:index_03" color="#CC3333">&lt;- 05: Last but not least</link>
+			<p>At this point only one fluid is missing to the storage to seriously start working on the minerals: it is the Sodium Cyanide.</p>
+			<p space="2"/>
+			<p color="#0000FF">Tasks</p>
+			<p>- Add a new file in the queue of the Server in the Lab Oven dedicated to acids, to produce some Sodium Cyanide.</p>
+			<p>- Make sure the fluid storage network is reaching the Oven to exchange ingredients.</p>
+			<p>- Make sure the amount produced per cycle does not break the queue.</p>
+		</page>
+
+		<page id="quest_07_06">
+			<link ref="main:index_03" color="#CC3333">&lt;- 06: Worst sales ever</link>
+			<p>An important resource for the upcoming leaching stage is Steam. A dedicated plant will be useful to stock some of this resource.</p>
+			<p space="2"/>
+			<p color="#0000FF">Tasks</p>
+			<p>- Assembly a Gasification Plant.</p>
+			<p>- Connect the water storage to both cistern and burner.</p>
+			<p>- Collect the Water Vapour in a larger storage.</p>
+			<p>- ProTip: you can avoid to add the Particulate Collector since no byproduct is left behind.</p>
+		</page>
+
+		<page id="quest_08_01">
+			<link ref="main:index_04" color="#CC3333">&lt;- 01: One For All</link>
+			<p>Once all of the expendible materials are flowing into the storage, it's time to manipulate the Uninspected Mineral to see what's inside it. The first stage consists into cracking it to roughly reveal its possible composition. This procedure requires the attendance of the player to decide which direction the process has to take.</p>
+			<p space="2"/>
+			<p color="#0000FF">Tasks</p>
+			<p>- Assembly a Mineral Sizer.</p>
+			<p>- Select a Comminution to expose the needed gangue.</p>
+			<p>- Collect the output into a larger storage to keep the machine going.</p>
+			<p>- The Server can be useful to schedule automatically a sequence of outputs.</p>
+		</page>
+
+		<page id="quest_08_02">
+			<link ref="main:index_04" color="#CC3333">&lt;- 02: Stirred, not shaken vol.1</link>
+			<p>From all the produced gangues, you need to discover which specimens are possibly bearing into them. Here comes a two stages process in which the gangues are attacked with acids in order to reveal stable samples. In both structures, the player has to decide in which way the machines have to operate to selectively address the filters.</p>
+			<p space="2"/>
+			<p color="#0000FF">Tasks</p>
+			<p>- Assembly a Leaching Vat.</p>
+			<p>- Connect the fluid network to the tanks and the Water Vapour to the vessels.</p>
+			<p>- Add a Slurry agitator to the tanks.</p>
+			<p>- Select a level of gravity at which the machine will attempt to recover a sample. Upgrades can thighten the range of selection.</p>
+			<p>- The Server can be useful to schedule automatically a sequence of outputs.</p>
+		</page>
+
+		<page id="quest_08_03">
+			<link ref="main:index_04" color="#CC3333">&lt;- 03: Stirred, not shaken vol.2</link>
+			<p>The second stage of the leaching process does the same operation, but the examined material is now the Leachate produced by the Leaching Vat. Further attacks and reactions will grant the recovery of more samples.</p>
+			<p space="2"/>
+			<p color="#0000FF">Tasks</p>
+			<p>- Assembly a Retention Vat.</p>
+			<p>- Connect the fluid network to the tanks and the Water Vapour to the vessels.</p>
+			<p>- Add a Slurry agitator to the tanks.</p>
+			<p>- Select a level of gravity at which the machine will attempt to recover a sample. Upgrades can thighten the range of selection.</p>
+			<p>- The Server can be useful to schedule automatically a sequence of outputs.</p>
+		</page>
+
+		<page id="quest_08_04">
+			<link ref="main:index_04" color="#CC3333">&lt;- 04: All goes to dust</link>
+			<p>This is the final stage of the production. Here the specimes are further more examinated to isolate the elements composing it. The result of the process will be stored inside the big cabinets and can be taken out from the balance into dust form.</p>
+			<p space="2"/>
+			<p color="#0000FF">Tasks</p>
+			<p>- Assembly a Chemical Extractor.</p>
+			<p>- Connect the fluid network to the Input System.</p>
+			<p>- Add the consumables inside the Glassware Holder and the cabinets.</p>
+			<p>- Add the catalysts inside the Stabilizer and assembly the Catalyst Regenerator below it.</p>
+			<p>- Select a level of Intensity at which the machine will attempt to recover elements. ProTip: to save resources make sure the intensity is choosen to be profitable since some specimens don't require a heavy exposition.</p>
+			<p>- Connect a storage to the Lab Balance to immediately extract all the available dusts.</p>
+		</page>
+
+		<page id="quest_09_01">
+			<link ref="main:index_04" color="#CC3333">&lt;- 01: Of mine and steel</link>
+			<p>Once you have all the dusts available, you may want to produce some alloys. They can be used for any application or to create upgrades for the factory. </p>
+			<p space="2"/>
+			<p color="#0000FF">Tasks</p>
+			<p>- Assembly a Metal Alloyer.</p>
+			<p>- Add the Mold Pattern in the machine and select the alloy to produce.</p>
+			<p>- Feed the top of the cabinet with enough dusts to complete the selected recipe.</p>
+		</page>
+
+		<page id="quest_09_02">
+			<link ref="main:index_04" color="#CC3333">&lt;- 02: Smokin hot</link>
+			<p>Another way to produce advanced material is by making them react with certain substances to obtain a mutated version.</p>
+			<p space="2"/>
+			<p color="#0000FF">Tasks</p>
+			<p>- Assembly a Deposition Chamber.</p>
+			<p>- Connect the gas storage to the input vessels to the carrier vessel.</p>
+			<p>- Connect the output vessel back to the gas storage to alternate ingredients.</p>
+			<p>- Add the necessary upgrades in the lower part of the machine for a more efficient working.</p>
+			<p>- Select the process to perform.</p>
+		</page>
+
+		<page id="quest_09_03">
+			<link ref="main:index_04" color="#CC3333">&lt;- 03: Crystal clear</link>
+			<p>The last machine to work with allows to produce synthetic crystals. It combines a base ingredient with a dopant to give it specific characteristics.</p>
+			<p space="2"/>
+			<p color="#0000FF">Tasks</p>
+			<p>- Assembly a Crystal Pulling Crucible.</p>
+			<p>- Connect the Argon to the carrier vessel</p>
+			<p>- Feed the ingredients in both parts of the machine.</p>
+		</page>
+
+	</chapter>
+
+</book>

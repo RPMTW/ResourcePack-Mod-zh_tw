@@ -1,0 +1,17 @@
+{
+  "name": "發酵站",
+  "icon": "industrialforegoing:fermentation_station",
+  "category": "resource_production",
+  "sortnum": 20,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "將原礦肉桶加工為發酵礦石肉桶。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:fermentation_station"
+    }
+  ]
+}

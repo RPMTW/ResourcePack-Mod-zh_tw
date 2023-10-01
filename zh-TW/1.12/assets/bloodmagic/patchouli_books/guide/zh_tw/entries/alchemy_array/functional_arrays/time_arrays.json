@@ -1,0 +1,20 @@
+{
+  "name": "白晝/黑夜矩陣",
+  "icon": "minecraft:clock",
+  "category": "bloodmagic:alchemy_array/functional_array",
+  "pages": [
+    {
+      "type": "text",
+      "text": "這種效果基於時間的矩陣，生效方式十分直截了當——它可以直接操控天時。一旦矩陣開始改變天時，矩陣中的物品便會被消耗掉，無法反悔取出。這些矩陣配方都還只是暫時的，在未來版本還會發生改動。$(br2)白晝儀式可以將天時變化為下一次日出之時。黑夜儀式則可以將天時變化為下一次日落之時。"
+    },
+    {
+      "type": "2x_functional_array",
+      "a.heading": "新的曙光",
+      "a.recipe": "bloodmagic:array/day",
+      "a.image": "sunarray.png",
+      "b.heading": "真實的黃昏",
+      "b.recipe": "bloodmagic:array/night",
+      "b.image": "moonarray.png"
+    }
+  ]
+}

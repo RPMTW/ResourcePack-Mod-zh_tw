@@ -1,0 +1,15 @@
+{
+  "name": "創造矩陣",
+  "icon": "bloodmagic:divinationsigil",
+  "category": "bloodmagic:alchemy_array/functional_array",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(1)創造矩陣$()是最簡單的鍊金矩陣。這些矩陣將 $(item)基底$()融和 $(item)催化劑$()，將它們兩者轉換為有用的物品（在小而漂亮的動畫之後）。"
+    },
+    {
+      "type": "text",
+      "text": "雖然其中一些物品可以使用$(l:bloodmagic:alchemy_array/sigil/divination)非常簡單的原料$(/l)製作，但其他物品需要額外的步驟來製作有用的物品。"
+    }
+  ]
+}

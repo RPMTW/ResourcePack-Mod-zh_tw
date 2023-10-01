@@ -1,0 +1,113 @@
+{
+  "name": "尚未實施",
+  "icon": "minecraft:barrier",
+  "category": "bloodmagic:utility",
+  "extra_recipe_mappings": [
+    [
+      "bloodmagic:lightritualstone",
+      0
+    ],
+    [
+      "bloodmagic:obsidianbrickpath",
+      0
+    ],
+    [
+      "bloodmagic:obsidiantilepath",
+      0
+    ],
+    [
+      "bloodmagic:mimic",
+      0
+    ],
+    [
+      "bloodmagic:ethereal_mimic",
+      0
+    ],
+    [
+      "bloodmagic:etherealslate",
+      0
+    ],
+    [
+      "bloodmagic:nether_soil",
+      0
+    ],
+    [
+      "bloodmagic:growing_doubt",
+      0
+    ],
+    [
+      "bloodmagic:dungeon_ore",
+      0
+    ],
+    [
+      "bloodmagic:dungeon_metal",
+      0
+    ],
+    [
+      "bloodmagic:doubt_bucket",
+      0
+    ],
+    [
+      "bloodmagic:activationcrystalawakened",
+      0
+    ],
+    [
+      "bloodmagic:corrupted_dust",
+      0
+    ],
+    [
+      "bloodmagic:corrupted_tinydust",
+      0
+    ],
+    [
+      "bloodmagic:sand_hellforged",
+      0
+    ],
+    [
+      "bloodmagic:ingot_hellforged",
+      0
+    ],
+    [
+      "bloodmagic:will_power_anointment",
+      0
+    ],
+    [
+      "bloodmagic:primitive_explosive_cell",
+      0
+    ],
+    [
+      "bloodmagic:crystalline_resonator",
+      0
+    ]
+  ],
+  "pages": [
+    {
+      "type": "text",
+      "text": "行，在這裡打破第四面牆。$(blood)血魔法$()仍處於早期alpha階段，您可能還記得早期版本中的許多內容尚未實現。其中一些事情可能會在未來再次出現，而另一些則已經完成並塵埃落定。(看看你，綁定裝備和武器...)$(br)$(li)意志自動化。一些儀式正在重新設計，這仍在開發中。"
+    },
+    {
+      "type": "text",
+      "text": "$(li)Arcane Ash Rituals. Some of these are coming back soon(tm),for now wait and see. $(li)Ritual of Binding. This went out with 1.7.10, stop asking. $(li)Imperfect Rituals (Lapis etc). $(li)Sigil of Magnetism. $(li)Sigil of the Frozen Lake. $(li)Sigil of Elasticity. $(li)Potion Flasks. $(li)Sigil of Elemental Affinity. $(li)Sigil of the Claw. $(li)Demon Will Aura Gauge. $(li)Transfer Nodes."
+    },
+    {
+      "type": "text",
+      "text": "$(li)Additional Living Armour Traits. (Some are in, but not all) $(li)Interdiction Ritual. $(li)Ritual of Containment. $(li)Ritual of High Jump. $(li)Ritual of the Satiated Stomach. $(li)Call of the Zephyr. $(li)Le Vulcano Frigius. $(li)Crash of the Timberman. $(li)Laying of the Filler. $(li)Ritual of Suppression. $(li)Teleposers. $(li)Ritual Dismantler. $(li)Ritual Diviner (Dawn)."
+    },
+    {
+      "type": "text",
+      "text": "$(li)Demon Pylon. $(li)Grand Tartaric Gem. $(li)Spectral Weapons and Tools. $(li)Teleposition Sigil. $(li)Sigil of Suppression. $(li)Transposition Sigil. $(li)Sigil of Ender Severance. $(li)Sigil of Compression. $(li)Sigil of the Phantom Bridge. $(li)Assembly of the High Altar. $(li)Cry of the Eternal Soul. $(li)Hymn of Syphoning. $(li)Mark of the Falling Tower. $(li)Reverence of the Condor."
+    },
+    {
+      "type": "text",
+      "text": "$(li)Ritual of Grounding. $(li)Ritual of Speed. $(li)The Gate of the Fold. $(li)Ritual of the Feathered Earth. $(li)Ritual of Expulsion. $(li)Most of Tier V. $(li)Archmage Blood Orb. $(li)Awakened Activation Crystal."
+    },
+    {
+      "type": "text",
+      "text": "$(li)Training Bracelets. $(li)Penance of the Leadened Soul. $(br2)Other things may appear or disappear as the mod marches onwards from Alpha, through Beta, and hopefully one day to a full Stable Release. $(br2)For more information, check out the $(l:https://github.com/WayofTime/BloodMagic)Blood Magic Github$(), the $(l:https://www.curseforge.com/minecraft/mc-mods/blood-magic)Blood Magic Curseforge Page$(), and the $(l:https://discord.gg/VtNrGrs)Blood Magic Discord$()."
+    },
+    {
+      "type": "text",
+      "text": "This manual was put together by Wrincewind and VT-14, building on Way's original manual, with some help from Patchouli and MinecraftGuides.net. Thank you for playing! :)"
+    }
+  ]
+}

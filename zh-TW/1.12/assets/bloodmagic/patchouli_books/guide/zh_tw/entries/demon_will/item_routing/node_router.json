@@ -1,0 +1,18 @@
+{
+  "name": "節點連接工具",
+  "icon": "bloodmagic:noderouter",
+  "category": "bloodmagic:demon_will/item_routing",
+  "priority": "是",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(item)節點連接工具$()用於將節點連接在一起從而形成網路。它的功能很簡單——只需在瞄準一個節點時按住[$(k:sneak)]和[$(k:use)]，然後對16格內的另一個節點執行相同操作。這兩個節點就會連結。如果你想取消正在選取節點的狀態，請[$(k:use)]點擊任何其他方塊。有關詳細訊息，請參閱$(l:bloodmagic:demon_will/item_routing/routing_nodes)路由節點$()。"
+    },
+    {
+      "type": "crafting_soulforge",
+      "heading": "節點連接工具",
+      "recipe": "bloodmagic:soulforge/node_router",
+      "text": "$(italic)一根如魔法般的棍子。$()"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "塑膠片",
+  "icon": "industrialforegoing:plastic",
+  "category": "basics",
+  "sortnum": 4,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:dryrubber",
+      "text": "一種基礎合成材料，由$(l:basics/latex)乳膠$()製成。"
+    },
+    {
+      "type": "smelting",
+      "recipe": "industrialforegoing:plastic"
+    }
+  ]
+}

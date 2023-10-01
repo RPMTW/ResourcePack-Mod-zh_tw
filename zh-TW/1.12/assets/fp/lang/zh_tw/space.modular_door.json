@@ -1,0 +1,13 @@
+[
+  "我開發了一個更靈活的氣閘版本，這個門可以在大小，形狀和方向上自由選擇。",
+  "模組可以簡單地放置，並且可以放置在各種方向（使用§lShift+右擊§r以避免啟動門）。不同的方向也可以結合起來形成一個門。",
+  "右擊任何一個模組都可以打開/關閉。",
+  "合成:",
+  {
+    "link": "fp:lang/part/crafting_space.modular_door.json"
+  },
+  "例:",
+  {
+    "link": "fp:lang/part/image_space.modular_door2.json"
+  }
+]

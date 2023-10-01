@@ -1,0 +1,18 @@
+[
+  "我已經有了太多的堆肥 我必須以某種方式擺脫它。",
+  "當我用堆肥填滿手榴彈的時候，它是分布在受影響的地方施肥的。",
+  "我可以使用1-3等級的堆肥來選擇受影響地區的大小。",
+  "無序合成:",
+  "強度1:",
+  {
+    "link": "fp:lang/part/crafting_tools.grenade.compost.json"
+  },
+  "強度2:",
+  {
+    "link": "fp:lang/part/crafting_tools.grenade.compost2.json"
+  },
+  "強度3:",
+  {
+    "link": "fp:lang/part/crafting_tools.grenade.compost3.json"
+  }
+]

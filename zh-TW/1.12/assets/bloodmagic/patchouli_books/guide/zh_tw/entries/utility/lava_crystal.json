@@ -1,0 +1,16 @@
+{
+  "name": "熔岩晶體",
+  "icon": "bloodmagic:lavacrystal",
+  "category": "bloodmagic:utility",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(item)熔岩晶體$()是個強大的熱源。使用$(fire)熔岩$()和來自於$(l:bloodmagic:altar/soul_network)靈魂網路$()中的力量創造它，您確信它永遠不會冷卻。$(br2)對著任何方塊按[$(k:use)]將點燃它，消耗100LP。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "bloodmagic:lava_crystal",
+      "text": "$(br)此外，如果放置在$(item)熔爐$()的燃料槽中，它將充當永無止境的$(thing)燃料源$()，消耗50LP以燃燒10秒，或足夠長的時間來烤一件物品。"
+    }
+  ]
+}

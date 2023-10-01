@@ -1,0 +1,17 @@
+{
+  "name": "機械塵埃",
+  "icon": "industrialforegoing:mechanical_dirt",
+  "category": "resource_production",
+  "sortnum": 1,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "在未知技術的灌輸下，滿足某些條件時，將快速的產出$(6)怪物$()。$(br2)首先，它需要$(6)1000$()RF和$(6)20MB$()$(6)肉湯$()來運作，第二，必須滿足一般的生怪條件(這意味著亮度必須為$(6)7$()或更低)$(br2)"
+    },
+    {
+      "type": "text",
+      "text": "當提供$(6)電力$()或$(6)肉湯$()給其中一個機械塵埃時，它將自動被所有連接的機械塵埃均分。"
+    }
+  ]
+}

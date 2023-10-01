@@ -1,0 +1,13 @@
+{
+  "name": "無限核彈",
+  "icon": "industrialforegoing:infinity_nuke",
+  "category": "tools",
+  "sortnum": 3,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "無限核彈是一種可以大規模破壞方塊的工具，其爆炸半徑會根據等級和其中的生物燃料量而增加。核彈不會摧毀玩家領地內的方塊。$(br2)要讓它爆炸，你需要將它放置在地上，右鍵點擊關上它，再拿著打火機右鍵點擊即可使用 "
+    }
+  ]
+}

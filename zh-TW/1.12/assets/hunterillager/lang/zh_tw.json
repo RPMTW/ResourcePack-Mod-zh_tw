@@ -1,8 +1,8 @@
 {
-    "entity.hunterillager.HunterIllager.name": "窳民獵人",
-    "hunterillager:subtitles.hunterillager.laugh": "窳民獵人笑",
-    "hunterillager.config.woodhut_gen": "生成窳民獵人小屋的稀有度",
-    "hunterillager.config.woodhut_gen.tooltip": "窳民獵人小屋的稀有度鑑於此值為 X，1 個小屋將在 X 平原生態域和荒地生態域區塊中生成",
-    "hunterillager.config.animal_ranaway": "動物逃離窳民獵人",
-    "hunterillager.config.illager_use_darkoak_theme": "窳民獵人使用黑橡木主題"
+    "entity.hunterillager.HunterIllager.name": "盜獵手",
+    "hunterillager:subtitles.hunterillager.laugh": "盜獵手哼哼笑",
+    "hunterillager.config.woodhut_gen": "獵手小屋生成稀有度",
+    "hunterillager.config.woodhut_gen.tooltip": "獵手小屋稀有度設為X，表示會在X個平原和荒原生態域區塊中生成1個小屋",
+    "hunterillager.config.animal_ranaway": "動物逃離盜獵手",
+    "hunterillager.config.illager_use_darkoak_theme": "盜獵手使用黑橡木主題"
 }

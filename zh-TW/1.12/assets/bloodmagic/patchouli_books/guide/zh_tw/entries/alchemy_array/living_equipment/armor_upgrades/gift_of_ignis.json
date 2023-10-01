@@ -1,0 +1,15 @@
+{
+  "name": "燄的贈禮",
+  "icon": "minecraft:blaze_powder",
+  "category": "bloodmagic:alchemy_array/living_equipment/armor_upgrades",
+  "pages": [
+    {
+      "type": "text",
+      "text": "效果：提供抗火性。 越高的級別持續時間越長，冷卻更短。 $(br2) 培育方式：在火焰中燃燒。 ($(item)抗火藥水$() 可能是你的朋友。) $(br2)最高等級：5"
+    },
+    {
+      "type": "bloodmagic:living_armour_upgrade_table",
+      "upgrade": "bloodmagic:fire_resist"
+    }
+  ]
+}

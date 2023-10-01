@@ -1,0 +1,136 @@
+$title Transport Rollers
+$recipe automation/rollers
+Transport Rollers are the most basic method of moving items from Point A to Point B. Unlike other models of conveyor belts, these are purely metallic (a great improvement over slaughtering hordes of cows). Any items that fall on top of them will simply be moved in the direction of the rollers.
+$end
+$title Dropping Transport Rollers
+$recipe automation/droppingrollers
+Dropping Transport Rollers will drop any items that pass over them below themselves, unless receiving a Redstone signal. If there is an inventory below them and there is space for the items, they will be inserted.
+$end
+$title Elevator
+$recipe automation/elevator
+Elevators are the primary method of transporting items upwards. When an item touches one or reaches one while on Transport Rollers, it will begin moving up until it reaches the top.
+$end
+$title Compact Hopper
+$recipe automation/compacthopper
+Compact Hoppers are similar in functionality to regular hoppers, however they are more restricted. A Compact Hopper can hold at most 1 stack of items, has no GUI, and cannot pick up item entities from the world or extract them from other inventories. They can be chained together and are useful as a small, inline buffer.
+$end
+$title Crate
+$recipe automation/crate
+Crates can be used to store items. They only have 18 slots to the Chest's 27, but they do not connect, can be tiled infinitely and can still be accessed with a block above them.
+They also look quite nice.
+$end
+$title Buffer Crate
+$recipe automation/buffercrate
+Buffer Crates are similar to regular Crates, but automation will never take the last item in a stack from them. Because this makes sure there is always space for certain items, it prevents the dreaded scenario where production halts due to a buffer completely filling up with one ingredient, leaving no space for anything else.
+$end
+$title Fan Lift
+$recipe automation/fan
+The Fan Lift is another main method of transporting items upwards. When given a Redstone signal, they will blow any items above them straight up by a distance equal to the received signal strength.
+$end
+$title Lift Receiver
+$recipe automation/liftreceiver
+Meant to be used with the Fan Lift, the Lift Receiver redirects any items entering its bottom hatch to its side one.
+$end
+$title Pulse Piston
+$recipe automation/pulsepiston
+The Pulse Piston will push any items dropped in front of it, into an inventory if there is one where they would be shoved. Right-clicking will open a filter to set which items should be pushed, as well as to specify whether to use or ignore durability. This makes it extremely useful for separating items moving on Transport Rollers.
+A Redstone signal disables it.
+$end
+$title Auto Ejector
+$recipe automation/autopuller
+The Auto Puller automatically yanks items from an inventory adjacent to its input and puts them into the inventory at its output, or drops them into the world if the output is full or does not exist. By using an integrated Sticky Piston to continuously pull items, it is able to accomplish this without the need for laser-etched circuitry or a large, unsightly engine. A Redstone signal disables it.
+$end
+$title Insertion Hatch
+$recipe automation/hatch
+The opposite of the Auto Puller, the Insertion Hatch will put items that touch it into an adjacent inventory as long as there is space.
+$end
+$title Redstone Pulser
+$recipe automation/redpulser
+Making a system run once by pressing a button is child's play, but making it run a specified number of cycles requires an inconvenient amount of circuitry. This device simplifies the setup: upon receiving a Redstone signal, the Pulse Generator will output a number of Redstone pulses from its front. The number and length of the pulses, as well as the delay between them, can be configured. No longer is it necessary to construct elaborate circuits for what should be a basic task!
+$page
+"Ticks" in this context are Redstone ticks, or tenths of a second.
+Holding Shift while clicking in the GUI increments or decrements the counters by 10 at a time.
+$end
+$title Pulse Counter
+$recipe automation/redcounter
+Most setups can be configured to output a Redstone pulse upon completing a task, and in some cases a system may need to monitor these pulses and act every time it receives a certain number. The Pulse Counter can be thought of as the reverse of the Pulse Generator: it monitors Redstone signals it receives, outputting a single pulse every time it gets a specified number of them.
+$end
+$title Stack Mover
+$recipe automation/stackmover
+Stack Movers are useful for tight control of item flow. When given a Redstone signal, it attempts to pull a single stack of items from an inventory on its input side and push it into the inventory on its output side. It always moves the first stack it finds that will fit into the target inventory. If there is no inventory adjacent to its output side, the stack is dropped into the world instead. Stack Movers of all variants can also interact with the inventories of Chest and Hopper Minecarts.
+$end
+$title Filtered Stack Mover
+$recipe automation/filtermover
+An upgraded Stack Mover that has a filter to specify exactly which items to move and how many. It is useful for precise item allocation. It has two modes, Round Robin and First Match.
+$end
+$title Bulk Stack Mover
+$recipe automation/bulkmover
+This is a further upgrade to the Filtered Stack Mover. Instead of moving one stack of items in its filter, it will attempt to move everything in its filter at once.
+$end
+$title Mounted Drill
+$recipe automation/blockbreaker
+The Mounted Drill is a device that breaks the block directly in front of it. In pulse mode it does this upon receiving a Redstone signal, while in continuous mode it does this once per second unless receiving a Redstone signal. Shift-right-click it with a Monkey Wrench to switch modes.
+$end
+$title Item Redistributor
+$recipe automation/itemredis
+A common problem when working with processing lines is evenly splitting an incoming flow into two or more outputs. The Item Redistributor is a solution to this problem: it redirects items dropped or inserted into its top to one of its sides, according to a ratio specified by its GUI. You can also select whether to treat a stack as a single entity, or to split it.
+$end
+$title Sequential Placer
+$recipe automation/sequenceplacer
+Old tales speak of multicoloured trees that (apparently) grow berries able to amplify crystal energy. While the whole story sounds like hippie hogwash, if such trees existed it would be useful to plant and grow them, automatically, in order of their colours. The same can be said for Shulker Boxes which, unlike the colourful trees, actually exist. The Sequential Placer has an internal storage of 18 blocks, and it places one in front of it, in the order they are, each time it receives a Redstone signal. 
+$end
+$title Inventory Sensor
+$recipe automation/inventorysensor
+The Inventory Sensor is a versatile way of detecting what is stored in a container. It has its own inventory in which you can specify which items to search for, and you can toggle Exactly/At Least, Match All/Any, and Use/Ignore Damage. It will emit a Redstone signal if the attached inventory meets the criteria.
+$end
+$title Item Interceptor
+$recipe automation/interceptor
+The Item Interceptor is a powerful tool for farms and mob traps. Unless powered by a Redstone signal, it will grab all item entities created between 3 and 12 blocks away from it and store them in its internal inventory. Note that it cannot pick up items that are already in the world.
+It will only intercept items that drop between 3 and 12 blocks away from it.
+$end
+$title Pipe
+$recipe automation/pipe
+Copper pipes are the primary method of moving liquids around. Thankfully, they don't seem to melt no matter how hot the fluid inside is.
+They will not automatically pull liquid from anything; an Extraction Pump must be used to push fluids into them.
+$end
+$title Pipe Valve
+$recipe automation/pipe_valve
+A pipe valve needs to be placed inline between pipes (direction doesn't matter). It can limit flow rate, turn flow on or off via a Redstone signal, and only allow one fluid to pass through.
+$end
+$title Stationary Tank
+$recipe automation/tankblock
+These tanks can hold up to 24 buckets of liquid each and will automatically attempt to insert fluid into another tank below them, making it possible to stack them. A Redstone signal disables this behaviour.
+Insertion and extraction can be done from any side; the arrows on the top and bottom just indicate stacking behaviour. Manual I/O with buckets is also possible.
+$end
+$title Extraction Pump
+$recipe automation/fluidpuller
+The Extraction Pump automatically pulls liquid from any tanks connected to its input and inserts it into other fluid-accepting blocks, usually pipes.
+$end
+$title Water Collector
+$recipe automation/watercollector
+If placed in a river or ocean, the Water Collector will provide a steady and endless supply of water to an Extraction Pump above it.
+$end
+$title Dimensional Shifter
+$recipe automation/planeshifter
+$recipe tuningfork
+Beyond the one commonly called home, many other planes of existence are well documented: a superheated, endless cavern filled with lava; a white stone island surrounded by endless void; worlds willed into existence by scribbling in books, or simulated by funneling outrageous amounts of energy into a computer. Ancient (though somewhat dubious) records even speak of a nightmarish eldritch labyrinth and a heavenly realm filled with crystals, glowing trees, and, apparently, fiendish puzzles.
+$page
+This device, when it receives a Redstone signal, will transport any items it contains to the dimension it is attuned to. They will appear in the target dimension at the same coordinates as they originated in, factoring in any geometric differences (for example, how 1 meter in the Nether equals 8 meters in the Overworld).
+$page
+Chorus Fruit is necessary to teleport the items, and the machine will consume one piece of fruit for every sixteen items it transports. Attuning the wormhole is a simple matter of crafting a Tuning Fork, using it while in the target dimension, and then shift-right-clicking the Dimensional Shifter with it.
+$end
+$title Mob Fan
+$recipe automation/mobfan
+The Mob Fan is sort of like a Pulse Piston, but it works on creatures instead of items, pushing them back by two blocks. A Redstone signal disables it.
+$end
+$title Remote Comparator
+$recipe automation/remotecomparator
+$recipe locationcard
+A common problem with machines is that they require all sorts of things connected on their different sides, and it can be difficult to find real estate to attach a Redstone Comparator to monitor their stocked parts. A Remote Comparator, once linked to a block using a Location Card, will output a Redstone signal as if it were a Comparator attached directly to the linked block. This has a maximum range of 6 blocks.
+$end
+$title Part Sensor
+$recipe automation/partsensor
+The Part Sensor is a more precise method of detecting which parts a machine has. It must be setup so that it is adjacent to and facing the machine to be monitored. In addition, they can be chained such that a part sensor points to another one, though only in a straight line.
+$page
+A Redstone Comparator must be attached to the part sensor, and will output a full signal if the machine is missing a specific part or no signal if it has it. The part that the sensor monitors is dependent on its position in the chain; for example, a part sensor that connects to another one, that then connects to the machine will monitor the second part in the machine's list.
+$end

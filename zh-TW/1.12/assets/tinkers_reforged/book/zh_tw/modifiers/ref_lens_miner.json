@@ -1,0 +1,15 @@
+{
+  "modifier": "ref_lens_miner",
+  "text": [
+    {
+      "text": "要薛翻啦！〜里諾‧傑克森(爐石戰記卡片)"
+    }
+  ],
+  "effects": [
+    "挖掘方塊有機率掉落礦物（任何礦物）"
+  ],
+  "demoTool": [
+    "tconstruct:pickaxe",
+    "tconstruct:shovel"
+  ]
+}

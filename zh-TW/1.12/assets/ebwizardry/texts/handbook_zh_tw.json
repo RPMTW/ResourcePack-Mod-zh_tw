@@ -1,0 +1,760 @@
+{
+	"bookmark_start_section": "introduction",
+	"colours": {
+		"text": "#000000",
+		"caption": "#666666",
+		"hyperlink": "#601ba0",
+		"highlight": "#dd4c1d",
+		"new_section": "#ee88f7"
+	},
+	"images": {
+		"workbench": {
+			"location": "ebwizardry:textures/gui/handbook/pictures/arcane_workbench.png",
+			"caption": "奧術工作檯",
+			"u": 0,
+			"v": 0,
+			"width": 110,
+			"height": 110
+		},
+		"crystal_ore": {
+			"location": "ebwizardry:textures/gui/handbook/pictures/crystal_ore.png",
+			"caption": "水晶礦",
+			"u": 0,
+			"v": 0,
+			"width": 64,
+			"height": 64
+		},
+		"magic_crystal": {
+			"location": "ebwizardry:textures/items/crystal_magic.png",
+			"caption": "魔力水晶",
+			"u": 6,
+			"v": 6,
+			"width": 36,
+			"height": 33,
+			"texture_width": 48,
+			"texture_height": 48,
+			"border": false
+		},
+		"magic_wand": {
+			"location": "ebwizardry:textures/items/wand_novice.png",
+			"caption": "魔杖",
+			"u": 0,
+			"v": 0,
+			"width": 64,
+			"height": 64,
+			"border": false
+		},
+		"crystal_flower": {
+			"location": "ebwizardry:textures/gui/handbook/pictures/crystal_flower.png",
+			"caption": "水晶花",
+			"u": 0,
+			"v": 0,
+			"width": 48,
+			"height": 48
+		},
+		"wizard_tower": {
+			"location": "ebwizardry:textures/gui/handbook/pictures/wizard_tower.png",
+			"caption": "巫師塔",
+			"u": 0,
+			"v": 0,
+			"width": 110,
+			"height": 110
+		},
+		"wizard_armour": {
+			"location": "ebwizardry:textures/gui/handbook/pictures/wizard_armour.png",
+			"caption": "一整套巫師護具",
+			"u": 0,
+			"v": 0,
+			"width": 90,
+			"height": 90
+		},
+		"classes": {
+			"location": "ebwizardry:textures/gui/handbook/pictures/classes.png",
+			"caption": "The Three Classes",
+			"u": 0,
+			"v": 0,
+			"width": 96,
+			"height": 32,
+			"border": false
+		},
+		"obelisk": {
+			"location": "ebwizardry:textures/gui/handbook/pictures/obelisk.png",
+			"caption": "方尖碑",
+			"u": 0,
+			"v": 0,
+			"width": 110,
+			"height": 67
+		},
+		"shrine": {
+			"location": "ebwizardry:textures/gui/handbook/pictures/shrine.png",
+			"caption": "自然聖祠",
+			"u": 0,
+			"v": 0,
+			"width": 110,
+			"height": 67
+		},
+		"library_ruins": {
+			"location": "ebwizardry:textures/gui/handbook/pictures/library_ruins.png",
+			"caption": "圖書館遺跡",
+			"u": 0,
+			"v": 0,
+			"width": 110,
+			"height": 57
+		},
+		"remnant": {
+			"location": "ebwizardry:textures/gui/handbook/pictures/remnant.png",
+			"caption": "火焰遺靈",
+			"u": 0,
+			"v": 0,
+			"width": 110,
+			"height": 73
+		},
+		"tiers": {
+			"location": "ebwizardry:textures/gui/handbook/pictures/tiers.png",
+			"caption": "魔杖的四層等階",
+			"u": 0,
+			"v": 0,
+			"width": 96,
+			"height": 24,
+			"border": false
+		},
+		"elements": {
+			"location": "ebwizardry:textures/gui/handbook/pictures/elements.png",
+			"caption": "七種奧術元素",
+			"u": 0,
+			"v": 0,
+			"width": 106,
+			"height": 20,
+			"border": false
+		}
+	},
+	"recipes": {
+		"arcane_workbench": {
+			"locations": [
+				"ebwizardry:arcane_workbench"
+			]
+		},
+		"magic_wand": {
+			"locations": [
+				"ebwizardry:magic_wand"
+			]
+		},
+		"novice_wands": {
+			"locations": [
+				"ebwizardry:magic_wand",
+				"ebwizardry:wand_fire",
+				"ebwizardry:wand_ice",
+				"ebwizardry:wand_lightning",
+				"ebwizardry:wand_necromancy",
+				"ebwizardry:wand_earth",
+				"ebwizardry:wand_sorcery",
+				"ebwizardry:wand_healing"
+			]
+		},
+		"magic_missile_spell_book": {
+			"locations": [
+				"ebwizardry:magic_missile_spell_book"
+			]
+		},
+		"wizard_handbook": {
+			"locations": [
+				"ebwizardry:wizard_handbook"
+			]
+		},
+		"crystal_flower_to_crystals": {
+			"locations": [
+				"ebwizardry:crystal_flower_to_crystals"
+			]
+		},
+		"crystal_blocks": {
+			"locations": [
+				"ebwizardry:crystal_block",
+				"ebwizardry:crystal_block_fire",
+				"ebwizardry:crystal_block_ice",
+				"ebwizardry:crystal_block_lightning",
+				"ebwizardry:crystal_block_necromancy",
+				"ebwizardry:crystal_block_earth",
+				"ebwizardry:crystal_block_sorcery",
+				"ebwizardry:crystal_block_healing"
+			]
+		},
+		"crystal_blocks_to_crystals": {
+			"locations": [
+				"ebwizardry:crystal_block_to_crystals",
+				"ebwizardry:crystal_block_to_crystals_fire",
+				"ebwizardry:crystal_block_to_crystals_ice",
+				"ebwizardry:crystal_block_to_crystals_lightning",
+				"ebwizardry:crystal_block_to_crystals_necromancy",
+				"ebwizardry:crystal_block_to_crystals_earth",
+				"ebwizardry:crystal_block_to_crystals_sorcery",
+				"ebwizardry:crystal_block_to_crystals_healing"
+			]
+		},
+		"crystal_shard": {
+			"locations": [
+				"ebwizardry:crystal_shard"
+			]
+		},
+		"small_mana_flask": {
+			"locations": [
+				"ebwizardry:small_mana_flask"
+			]
+		},
+		"medium_mana_flask": {
+			"locations": [
+				"ebwizardry:medium_mana_flask"
+			]
+		},
+		"large_mana_flask": {
+			"locations": [
+				"ebwizardry:large_mana_flask"
+			]
+		},
+		"runestone": {
+			"locations": [
+				"ebwizardry:runestone_fire",
+				"ebwizardry:runestone_ice",
+				"ebwizardry:runestone_lightning",
+				"ebwizardry:runestone_necromancy",
+				"ebwizardry:runestone_earth",
+				"ebwizardry:runestone_sorcery",
+				"ebwizardry:runestone_healing"
+			]
+		},
+		"runestone_pedestal": {
+			"locations": [
+				"ebwizardry:runestone_pedestal_fire",
+				"ebwizardry:runestone_pedestal_ice",
+				"ebwizardry:runestone_pedestal_lightning",
+				"ebwizardry:runestone_pedestal_necromancy",
+				"ebwizardry:runestone_pedestal_earth",
+				"ebwizardry:runestone_pedestal_sorcery",
+				"ebwizardry:runestone_pedestal_healing"
+			]
+		},
+		"transportation_stone": {
+			"locations": [
+				"ebwizardry:transportation_stone"
+			]
+		},
+		"magic_silk": {
+			"locations": [
+				"ebwizardry:magic_silk"
+			]
+		},
+		"wizard_hat": {
+			"locations": [
+				"ebwizardry:wizard_hat"
+			]
+		},
+		"wizard_robe": {
+			"locations": [
+				"ebwizardry:wizard_robe"
+			]
+		},
+		"wizard_leggings": {
+			"locations": [
+				"ebwizardry:wizard_leggings"
+			]
+		},
+		"wizard_boots": {
+			"locations": [
+				"ebwizardry:wizard_boots"
+			]
+		},
+		"blank_scroll": {
+			"locations": [
+				"ebwizardry:blank_scroll"
+			]
+		},
+		"firebomb": {
+			"locations": [
+				"ebwizardry:firebomb"
+			]
+		},
+		"poison_bomb": {
+			"locations": [
+				"ebwizardry:poison_bomb"
+			]
+		},
+		"smoke_bomb": {
+			"locations": [
+				"ebwizardry:smoke_bomb"
+			]
+		},
+		"spark_bomb": {
+			"locations": [
+				"ebwizardry:spark_bomb"
+			]
+		},
+		"gilded_wood": {
+			"locations": [
+				"ebwizardry:gilded_oak_wood",
+				"ebwizardry:gilded_spruce_wood",
+				"ebwizardry:gilded_birch_wood",
+				"ebwizardry:gilded_jungle_wood",
+				"ebwizardry:gilded_acacia_wood",
+				"ebwizardry:gilded_dark_oak_wood"
+			]
+		},
+		"bookshelves": {
+			"locations": [
+				"ebwizardry:oak_bookshelf",
+				"ebwizardry:spruce_bookshelf",
+				"ebwizardry:birch_bookshelf",
+				"ebwizardry:jungle_bookshelf",
+				"ebwizardry:acacia_bookshelf",
+				"ebwizardry:dark_oak_bookshelf"
+			]
+		},
+		"lecterns": {
+			"locations": [
+				"ebwizardry:oak_lectern",
+				"ebwizardry:spruce_lectern",
+				"ebwizardry:birch_lectern",
+				"ebwizardry:jungle_lectern",
+				"ebwizardry:acacia_lectern",
+				"ebwizardry:dark_oak_lectern"
+			]
+		},
+		"receptacle": {
+			"locations": [
+				"ebwizardry:receptacle"
+			]
+		}
+	},
+	"sections": {
+		"inside_cover": {
+			"centre": {
+				"x": true,
+				"y": true
+			},
+			"text": [
+				"巫師手札",
+				"Electroblob 著"
+			]
+		},
+		"introduction": {
+			"title": "導言",
+			"text": [
+				"向你致以敬意，巫師! 這本書介紹了數種魔法類別以及操縱這些元素的方法。我必須提醒你，這本書並不只是像現在這樣，看起來十分普通 —— 當你在探索這個世界時，書中新的內容會不斷地具現出來。",
+				"點擊單箭頭按鈕可以切換頁數，點擊雙箭頭按鈕可以在章節之間切換，點擊中心按鈕可以返回目錄。",
+				"點擊紫色的連結將會直接跳轉到相關頁面，右鍵書籤將會把書籤移動到目前頁面，左鍵書籤將會返回標記頁面。"
+			]
+		},
+		"main_contents": {
+			"title": "目錄",
+			"contents": {
+				"id": "main_contents",
+				"hyperlinks": true,
+				"page_numbers": true,
+				"separator": "."
+			}
+		},
+		"setting_up": {
+			"title": "在最開始",
+			"include_in_contents": "main_contents",
+			"text": [
+				"想要開始你的巫術之旅，你需要：",
+				"- 一把魔杖，合成如下所示:",
+				"#recipe magic_wand",
+				"- 一個 @arcane_workbench 奧術工作檯@ ，合成如下所示:",
+				"#recipe arcane_workbench",
+				"- 一本 @spells 法術@ 書。你可以在戰利品箱中找到法術書，它也會以掉落物形式出現，你也可以與其他巫師交易。當然你也可以製作一本初始的法術書：魔法飛彈，如下所示:",
+				"#recipe magic_missile_spell_book",
+				"你還要準備大量的魔力水晶，為你的魔杖注入 @mana 魔力@ 。"
+			]
+		},
+		"mana": {
+			"title": "魔力",
+			"include_in_contents": "main_contents",
+			"triggers": [
+				"ebwizardry:crystal"
+			],
+			"text": [
+				"魔力作為一種魔法能量，是巫師力量的來源。它自身並不是某種物質；它是無處不在的場域，充塞於世界上的一切之中。特殊的情況下，它會以水晶的形式在自然中出現，而這種水晶通常會鑲嵌於地底的石頭中。@wands 魔杖@ 可以儲存魔力，這些魔力會被你引導到你所釋放的 @spells 法術@ 中。不同的法術需要的魔力各不一樣，魔力損耗取決於法術威力以及時長。",
+				"#image crystal_ore",
+				"#image magic_crystal",
+				"人們普遍認為魔力無法被創生或毀滅，當釋放法術時，法術所引導的魔力會消散到周圍環境。這確實是魔力最廣泛地存在形式 - 散布於世界的各個角落。然而，一旦需要利用這些魔力，你必須將其凝合起來。就像歷經幾千年而形成的地底水晶一樣；又或者通過人工的方式將其聚合為固體形態 - 但這一精深的課題已經超出了本書的範圍了。當然，也存在著一些方法，能夠提高你的魔力使用效率，或者在施法過程中恢復一些魔力消耗。"
+			]
+		},
+		"wands": {
+			"title": "魔杖",
+			"include_in_contents": "main_contents",
+			"triggers": [
+				"ebwizardry:arcane_initiate"
+			],
+			"text": [
+				"魔杖是巫師的工具。你能夠釋放任何你目前等階的魔杖能夠釋放的@spells 法術@ ，(參見 @tiers 等階@ )。魔杖有許多種類型，但可以肯定的是，你需要一把基礎魔杖來開啟你的巫師之旅。",
+				"#image magic_wand",
+				"大多數魔杖的製作，在最開始時相當簡單，將一塊魔力水晶固定在木棒的一端，而另一端鑲嵌一粒金粒，一根簡單的魔杖就製作好了。魔力水晶是魔杖力量的來源，它提供了必要的，用來引導 @spells 法術@ 的核心。魔杖的其他部分也很重要，它不僅能讓你方便的手持魔杖進行施法，而且還充當了引導和定向 @mana 魔力@ 流動的通路。",
+				"隨著魔杖釋放的法術越多，它引導 @spells 法術@ 的效率會越來越高，因此可以可以用它來施放更強大的魔法。這種能力的變化可以從魔杖本身的形狀和外觀上的細微變化中看出: 隨著魔杖變得越來越強大，它頂端的魔力水晶將會變得更有活力，水晶的顏色也會變化，變化的顏色取決於它所引導的 @elements 元素@ ，製作它的木材將會生長和扭曲，形成更複雜的形狀。",
+				"手持魔杖的時候，畫面的角落會出現一個顯示框。上面會顯示目前選中的法術及其圖示，如果目前法術被施放，其上的冷卻條將會指示該法術可以再次施放的時間間隔。顯示框還能顯示與魔杖目前使用的法術相連的上一個和下一個法術的名稱。如要在法術間切換，你可以使用 #next_spell_key 和 #previous_spell_key 鍵 (這些都可以在 選項 -> 控制 中修改)。也可以在潛行時通過滾動游標滾輪來切換法術。",
+				"查看物品欄時，將游標懸停在一根魔杖上，就會顯示出還有多少 @mana 魔力@ 儲存在其中，以及目前所應用於魔杖的 @spells 法術@ 以及任何特殊的能力。想要查詢魔杖的更詳細的訊息，可將其放置在 @arcane_workbench 奧術工作檯@ 。"
+			]
+		},
+		"spells": {
+			"title": "法術",
+			"include_in_contents": "main_contents",
+			"triggers": [
+				"ebwizardry:handbook/spells"
+			],
+			"text": [
+				"一把 @wands 魔杖@ ，如果沒有法術，那你就無法使用它。法術有兩種記錄的形式: 永久性的寫在法術書中，或者寫在一次性的法術卷軸上。",
+				"法術書本身沒什麼用，但它們可以將其所包含的法術綁定到 @wands 魔杖@ 上。世界中的很多地方都藏有法術書，你很快就能找到一本。當你找到法術書時，將游標懸停在在法術書上就能看到法術的基本訊息。你也可以在拿著一本法術書右鍵來閱讀更多關於它的內容。",
+				"卷軸有不同的用途: 右鍵將會施放與之綁定的法術，在此過程中卷軸會銷毀。像法術書一樣，卷軸可以在世界各地找到，但你也可以自己製作(參見 @enchanting_scrolls 附魔卷軸@ )",
+				"當你需要在一些特定的情形下中使用少量特殊的法術，但又不想占用你的 @wands 魔杖@ 法術位時，卷軸將會發揮巨大的作用。卷軸可以立即釋放出那些需要時間進行引導的魔法。然而我必須提醒你，與使用魔杖相比，使用卷軸是一種效率低下的施法方法。",
+				"對不了解該法術的人而言，那些用於書寫法術書的魔法符文實在是令人頭疼。為了鑑定一個法術，你可以嘗試施放該法術，看看會發生什麼 - 儘管這樣做可能會產生副作用，而且許多法術需要一定的條件才能生效。更重要的是，在施放一個你不了解的法術時，總會有誤讀該法術的可能，而那些由誤讀而帶來的潛在的危險的強度則取決於該法術的威力。一個更安全、更可靠的選擇是使用鑑定卷軸，你可以在儲物箱裡找到或者從巫師那裡買到。手持鑑定卷軸右鍵，將會識別第一個你所不知道的法術，該過程先將快捷欄的右邊開始，然後向左依次檢索，鑑定完畢會消耗鑑定卷軸。"
+			]
+		},
+		"arcane_workbench": {
+			"title": "奧術工作檯",
+			"include_in_contents": "main_contents",
+			"contents": {
+				"id": "arcane_workbench_subsections",
+				"hyperlinks": true,
+				"page_numbers": true,
+				"separator": "."
+			},
+			"triggers": [
+				"ebwizardry:handbook/arcane_workbench"
+			],
+			"text": [
+				"奧術工作檯外觀上與附魔台很相似，它可以用來為你的魔杖充能、升級 ，以及綁定 @spells 法術@ 到你的 @wands 魔杖@ 。製作方法如下所示:",
+				"#recipe arcane_workbench",
+				"以下內容展示了在奧術工作檯中可以執行的操作。",
+				"#image workbench"
+			],
+			"sections": {
+				"binding_spells": {
+					"title": "綁定法術",
+					"include_in_contents": "arcane_workbench_subsections",
+					"triggers": [
+						"ebwizardry:handbook/arcane_workbench"
+					],
+					"text": [
+						"想要綁定 @spells 法術@ 到你的 @wands 魔杖@ ，只需將你的魔杖放在工作檯中間的凹槽裡，然後把法術書放在周圍的一個槽裡，然後點擊「應用」按鈕即可。你會注意到法術書在這個過程中並沒有發生變化 - 這是因為法術綁定行為不會從法術書中「取走」法術; 相反，它使魔杖與法術相協調。你可以通過簡單地重複法術綁定過程來改變你魔杖上的法術，以及你也可以一次性在一根魔杖上綁定五種法術，而一次性綁定法術上限的個數會隨著魔杖協調升級而增加。"
+					]
+				},
+				"charging_wands": {
+					"title": "魔杖充能",
+					"include_in_contents": "arcane_workbench_subsections",
+					"triggers": [
+						"ebwizardry:handbook/arcane_workbench"
+					],
+					"text": [
+						"想要充能你的 @wands 魔杖@ ，你需要把魔杖放在奧術工作檯的中央凹槽裡，然後把一些魔力水晶放在左下角的凹槽裡，最後點擊「應用」按鈕即可。每個水晶含有#mana_per_crystal @mana 魔力@ ，充能時魔杖不會過量吸收魔力，所以你可以在工作檯中常備一些水晶，以便不時之需。不過要記住，魔杖只能吸收一整個水晶中的魔力，例如，增加30點魔力，#example_charging_loss 魔力將會損失。"
+					]
+				},
+				"upgrading_wands": {
+					"title": "升級魔杖",
+					"include_in_contents": "arcane_workbench_subsections",
+					"triggers": [
+						"ebwizardry:handbook/tome_of_arcana"
+					],
+					"text": [
+						"要想升級你的 @wands 魔杖@ ，你需要一本適當 @tiers 等階@ 的奧法寶典或者一些特殊的魔杖升級。兩者都可以作為戰利品或者從巫師那裡購買。想要升級你的魔杖，你需要把它放在奧術工作檯的中央凹槽，然後將升級物品放置在右上角凹槽，最後點擊應用。",
+						"特殊的魔杖升級可以改善魔杖某個方面的能力。每種類型的升級最多可以疊加三次，一根魔杖可以升級的總數取決於它的等級。魔杖的升級不能被移除。"
+					]
+				},
+				"enchanting_scrolls": {
+					"title": "附魔卷軸",
+					"include_in_contents": "arcane_workbench_subsections",
+					"triggers": [
+						"ebwizardry:handbook/scrolls"
+					],
+					"text": [
+						"奧術工作檯也可以用來附魔 @spells 法術@ 卷軸。首先，你需要一個空白卷軸，空白卷軸由線和紙組成，以及一本法術書，還要足夠的 @mana 魔力@ ，這樣才能夠成功使法術拓印在空白卷軸上。",
+						"#recipe blank_scroll",
+						"將魔力水晶放在左下的凹槽，空白卷軸放置在中央凹槽，將一本法術書放置在周圍凹槽，點擊應用來附魔該卷軸。"
+					]
+				}
+			}
+		},
+		"wizard_armour": {
+			"title": "巫師護具",
+			"include_in_contents": "main_contents",
+			"triggers": [
+				"ebwizardry:arcane_initiate"
+			],
+			"text": [
+				"作為一名巫師，你需要一些東西在戰鬥時保護你不受過高的傷害，普通的盔甲可無法承此重任。為了能夠在提供保護時還能讓你最高效率地使用的魔力，你需要一套巫師護具: 包括帽子、長袍、褲子和靴子。與普通盔甲不同的是，它們耐久歸零之後不會消失。而且，蘊藏在其中的奧術能量將會保護穿戴者。當然，這意味著它們必須使用水晶充能，這一點和魔杖很相似。幸運的是，這些護具不太消耗 @mana 魔力@ 。你可以像和魔杖那樣，將其放置在 @arcane_workbench 奧術工作檯@ ，或者使用 @mana_flasks 魔力瓶@ 為其充能，但是要小心-如果護具耗盡了魔力，它們將不再提供任何保護效果。",
+				"#image wizard_armour",
+				"你可以用魔法綢緞製造巫師護具:",
+				"#recipe magic_silk",
+				"#recipe wizard_hat",
+				"#recipe wizard_robe",
+				"#recipe wizard_leggings",
+				"#recipe wizard_boots",
+				"你可以用附魔台為巫師護具附魔,而因為魔法綢緞的固有屬性，它們傾向於被附魔上能夠使它們留存的更久的附魔。一些附魔，魔法，冰霜，雷電保護附魔，對巫師具有特殊的實用價值，這些附魔可以有效抵禦其他巫師對你發起的進攻。",
+				"那些沉迷於練習單系魔法的巫師，有時會穿上可以給予額外魔法增益的護具。全套這樣的護具在巫師群體中極為搶手，所以並不容易獲得。",
+				"在傳說中，最強大的巫師使用一種神秘的封印來提高他們護甲的能力。",
+				"#image classes",
+				"The Sage",
+				"By devoting their life to the pursuit of knowledge, the sage has perfected the art of efficient spellcasting, allowing them to cast spells using the smallest possible amount of mana. The finery of their silken robes belies the substantial protection they provide, as the sage is also an adept enchanter - though they are still no match for solid metal plating. Spending such long periods in the safety of a library does, however, make them rather sluggish in combat.",
+				"The Battlemage",
+				"The battlemage is geared for combat, clad in a combination of toughened cloth and crystal-silver plating sourced from the most skilled of foundries. Through discipline and training, the battlemage has also improved their speed and reactions, allowing them to cast spells more often. This does not come cheap, however, and a battlemage must be careful not to burn through mana too quickly.",
+				"The Warlock",
+				"The warlock lives for exploration, pushing the boundaries of what is possible to unearth lost arcane secrets. This, along with a willingness to experiment with what others may deem forbidden, has allowed them to break the constraints of traditional training and cast spells at a formidable rate, as well as reducing their mana usage. Their lightweight robes, though good for exploration, provide less protection in combat than their counterparts."
+			]
+		},
+		"magical_world": {
+			"title": "魔法世界",
+			"include_in_contents": "main_contents",
+			"contents": {
+				"id": "magical_world_subsections",
+				"hyperlinks": true,
+				"page_numbers": true,
+				"separator": "."
+			},
+			"triggers": [
+				"ebwizardry:handbook/on_subsection_unlock"
+			],
+			"text": [
+				"一個人僅僅待在家裡是無法掌握奧術之力的 - 這個充塞著魔力的世界等待著你的探索! 古代遺跡，還有那些神秘的，抱著善意或者惡意的生物等待著你發現 - 前提是你得知道它們在哪。最偉大的巫師往往有著強烈的好奇心，他們通過對周圍環境的探索獲得大量的知識和力量，然後通過實驗去驗證他們所發現的。",
+				"巫師的大部分時間都是一個人度過的，然而對於學習奧術而言，與他人分享彼此的知識依然很重要。你應該去尋找那些先行者，儘可能多地向他們學習：交流可以說是最強大的力量了。"
+			],
+			"sections": {
+				"crystal_flowers": {
+					"title": "魔力水晶花",
+					"include_in_contents": "magical_world_subsections",
+					"triggers": [
+						"ebwizardry:handbook/crystal_flowers"
+					],
+					"text": [
+						"在你的旅行中，你可能在野外會不時地遇到一種奇怪的，發光的花。這些獨特的花朵被稱為水晶花，它們能夠高效的聚集 @mana 魔力@  - 直到今天，還沒有人能確定它能夠高效聚集魔力的原因。但是我們知道，它們可以被收集和製作成魔力水晶，使得它們成為相當有用的地上的魔力來源。然而，因為花的尺寸很小，而且它們無法密集生長，所以通過這種方式收穫的魔力並不是很多，",
+						"#image crystal_flower",
+						"#recipe crystal_flower_to_crystals"
+					]
+				},
+				"wizard_towers": {
+					"title": "巫師塔",
+					"include_in_contents": "magical_world_subsections",
+					"triggers": [
+						"ebwizardry:wizard_tower"
+					],
+					"text": [
+						"不要害怕 —— 你不是這個世界上唯一一個使用魔法的人。在旅行途中，你很可能會遇到一兩個有著獨特尖頂的高塔。這是其他巫師的住所。孤獨的生活有時會讓巫師有點暴躁，但他們通常都很友好，而且願意與你分享他們的知識 —— 儘管是有代價的。你可以用貴重金屬和寶石來與他們交換珍貴的奧術知識。",
+						"然而，如果你尋找的是 @tiers 大師@ 法術，你需要去找那些專業人士。",
+						"#image wizard_tower",
+						"不幸的是，有一些巫師不歡迎訪客的到來。這些巫師早已被逐出巫師群體，他們對任何路過此地的人都抱有敵意。與這些人打交道要格外謹慎，並做好防禦強大魔法的準備。打敗他們，他們的知識就是你的了。",
+						"還應該指出的是，沒有哪個巫師會樂意被攻擊或被偷 - 他們更喜歡按他們的規矩來。"
+					]
+				},
+				"obelisks": {
+					"title": "方尖碑",
+					"include_in_contents": "magical_world_subsections",
+					"triggers": [
+						"ebwizardry:handbook/obelisks"
+					],
+					"text": [
+						"古代魔法遺跡散布在世界各地，其中最著名的是雕刻著許多符號和符文的石頭建築。這些遺跡似乎是某種古代文明的遺跡。不管是誰，或者是什麼東西建造了它們，它們顯然擁有相當豐富的魔法知識，並使用這些知識在這些地方設定了保護魔法，而時至今日，這些魔法仍在生效。",
+						"這些結構大致可分為兩類。第一個，也是最常見的，是方尖碑: 符文石製成的尖頂，底部有一個開放的結構，其中為次級魔法遺跡，你在上面還能感受到殘存著的氣息，那是來自被遺忘的過去。",
+						"#image obelisk",
+						"這些建築通常受到魔法的保護，一旦有人離得太近，就會召喚敵對 @creatures 生物@ 。擊退這些生物並摧毀它們的源頭，那麼這個遺跡的財富就是你的了。"
+					]
+				},
+				"shrines": {
+					"title": "聖祠",
+					"include_in_contents": "magical_world_subsections",
+					"triggers": [
+						"ebwizardry:visit_shrine"
+					],
+					"text": [
+						"第二種，也是比較少見的一種，被稱為聖祠。這些結構由圍繞著中心基座的一圈符文石柱組成，基座上放置著一個儲物箱，裡面裝滿了古代的 @artefacts 聖遺物@ 。這個儲物箱通常被一個奧術鎖保護著，除了儲物箱的主人，其他人都無法打開。整個結構也被一個控制場域保護著，防止任何離得太近的東西逃跑。",
+						"#image shrine",
+						"只要你意識到聖祠所包含的強大魔力，以及其重要性，你就能夠理解儲物箱裡所存放的東西有多麼珍貴，這些結構對任何有抱負的巫師都特別有吸引力 - 但是要謹慎。有很多關於巫師被困在封閉空間裡，慢慢被逼瘋的報道，這也許是因為幽閉恐懼症。然而，越來越多的人相信這種情況的發生也是聖祠的保護魔法的一部分，被困在裡面的巫師實際上是被控制來保護該結構的。對於任何膽敢靠近的人來說，這無疑令人不寒而慄……"
+					]
+				},
+				"library_ruins": {
+					"title": "圖書館遺跡",
+					"include_in_contents": "magical_world_subsections",
+					"triggers": [
+						"ebwizardry:find_library_ruins"
+					],
+					"text": [
+						"巫師們終其一生都在收集著各式各樣的法術書，因此他們會建造出圖書館以收納他們的藏品。一些行事隱秘的巫師還會將他們收集到的的奧術知識藏在地底，以防他人窺探。然而，圖書館需要不斷地進行維修保養，如果圖書館主人在沒有學徒繼承自己的書籍的情況下死去，很快的，圖書館就會因年久失修而變得破敗不堪。魔法流傳於世的這數千年歷史中，越來越多的圖書館以這樣的方式被遺棄蒙塵，而在你探索世界時，你很有可能會遇到這樣的遺跡。你或許能在這破敗的廢墟之中搜尋到一些法術書或是其他物件，它們在漫長時光的侵蝕下留存至今。",
+						"#image library_ruins",
+						"然而，圖書館的用途可不只是藏書。那些在過去操縱著注靈祭壇的力量的巫師們，會對一些魔法材料進行元素注入儀式。祭壇位置的挑選是一門精密且艱深的技藝，因為其位置必須依據天體的執行以及附近魔力的分布來進行校準。在近來的魔法史中，這樣的祭壇建造實操已經變得十分稀少了，這主要是因為一旦建造完畢，一座堅固的石製祭壇就可以維繫數百年而不朽，因而人們對於新祭壇的需求也就沒那麼迫切了。在需要進行注法儀式時，相較於建造新祭壇，許多巫師會轉而選擇去尋找和修復那些之前留存下來的祭壇——而圖書館遺跡就是值得一看的地點。",
+						"這一祭壇在你建造自己的圖書館時同樣會派上用場，此外，你的圖書館當然還需要一些書櫥：",
+						"#recipe bookshelves",
+						"#recipe gilded_wood",
+						"這些書櫥可不僅僅是家具。向書櫥中注入魔力最為充盈的魔力水晶，可以使得你毫不費力的在書櫥和附近的 @arcane_workbench 奧術工作檯@ 之間傳導知識——這在藏書逐漸變多時會非常有用。在藏書管理上，覽術台也有同樣重要的作用：",
+						"#recipe lecterns",
+						"懸浮於覽術台上的典籍將會匯集附近法術書中的知識，這樣一樣來就可以輕鬆查閱訊息，而無需記住法術書的準確位置。"
+					]
+				},
+				"creatures": {
+					"title": "魔法生物",
+					"include_in_contents": "magical_world_subsections",
+					"triggers": [
+						"ebwizardry:handbook/magical_creatures"
+					],
+					"text": [
+						"除了巫師，許多其他生物也可以使用魔法。而在其中有很多與生俱來地擁有魔力，而且它們大部分都可以施放 @spells 法術@ 。其中一種你可能會在守衛 @obelisks 方尖碑@ 的生物中看到，它們可能是由更強大的召喚師召喚而來。偶爾你還能夠在野外中被發現魔法能力不強的生物。",
+						"一個的典型的例子就是遺靈，一種幽靈般的存在。它們從強大的魔法留存下來的痕跡中自然形成，通常具備七種奧術 @elements 元素@ 中的一種。如果僅僅是一隻遺靈的滋擾，它也不過是稍微有些煩人罷了；但若是一大群遺靈蜂擁而至，那它們就可以毫不費力地淹沒那些全無準備的冒險家。鑑於它們先天的魔法抗性，帶上一把弓或其他的遠程武器來對付它們會更好。",
+						"#image remnant",
+						"擊殺遺靈後，你可以收集到一些靈塵，靈塵不僅會發出帶顏色的螢光，而且還有著許多有用的性質。你可以用容杯來方便的儲存靈塵，其合成方式如下所示。",
+						"#recipe receptacle",
+						"容杯可以放置於平面上方或是固定到牆上，手持靈塵右擊即可填充容杯，此時容杯可以充當微弱的光源。空手右擊即可將容杯清空並取出其中的靈塵。"
+					]
+				},
+				"artefacts": {
+					"title": "聖遺物",
+					"include_in_contents": "magical_world_subsections",
+					"triggers": [
+						"ebwizardry:artefact"
+					],
+					"text": [
+						"當你在探索聖祠時，你可能會幸運地發現一些古老的魔法製品 —— 一些能賦予穿戴者獨特而強大的魔法和特殊能力的物品。目前已發現了三種類型的聖遺物；戒指，給予法術增幅和額外效果；護身符，提高防禦能力；還有符咒，能產生特殊效用。這些魔法制物似乎只有在正確佩戴時才能發揮作用；僅僅是把它們放在身上無法發揮它們的效果。"
+					]
+				}
+			}
+		},
+		"tiers": {
+			"title": "等階",
+			"include_in_contents": "main_contents",
+			"triggers": [
+				"ebwizardry:handbook/tome_of_arcana"
+			],
+			"text": [
+				"@wands 魔杖@ 和 @spells 法術@ 分成四階: #colour_novice新手#colour_reset，#colour_apprentice學徒#colour_reset，#colour_advanced進階 #colour_reset 和 #colour_master大師#colour_reset。每一階都比上一階更強大。",
+				"#image tiers",
+				"#colour_novice新手 #colour_reset魔杖 該等階的魔杖可以手工製作。它們可以容納 #novice_max_charge 魔力，且只可以釋放基礎法術。基礎法術很簡單，任何人都可以使用，而且通常情況下不會消耗很多魔力。然而，這並不一定意味著在你步入更高等階後，它們就沒有用處了; 即便你已經可以使用大師級魔法，基礎法術低廉的魔力消耗依然使得它們備受青睞。",
+				"#colour_apprentice學徒 #colour_reset魔杖 這是新手魔杖的下一等階。學徒級魔杖可容納 #apprentice_max_charge 魔力 ，可以施放基礎和學徒法術。學徒法術比新手法術更令人眼前一亮，但通常魔力消耗更多。",
+				"#colour_advanced進階 #colour_reset魔杖 進階魔杖相當罕見，而且更強大。他們可以使用除大師法術以外的所有法術，並能夠容納 #advanced_max_charge 魔力。進階法術能夠帶來超越人類極限的能力，譬如隱形，又或者為你的敵人帶來浩劫。",
+				"#colour_master大師 #colour_reset魔杖 大師魔杖是世界上最強大的魔杖。他們能夠容納 #master_max_charge 魔力，並且能夠隨意施展任何法術。大師等階的法術書是非常罕見的，這些法術不僅可以對敵人造成徹底的破壞，甚至可以對世界本身造成破壞。請務必謹慎使用。",
+				"要升級到更高的等級，一根魔杖首先要有足夠的力量來引導該等級的法術。魔杖在施法時會增進自身。法術種類、法術強度、元素效果和其他外部因素都會影響魔杖的成長速度。",
+				"一旦一根魔杖足夠強大，一本奧法寶典就是魔杖提升到下一層所需的最後催化劑 (參見  @upgrading_wands 升級魔杖@  )，升級過後，魔杖又可以繼續成長到下一等階。"
+			]
+		},
+		"elements": {
+			"title": "元素",
+			"include_in_contents": "main_contents",
+			"triggers": [
+				"ebwizardry:handbook/elements"
+			],
+			"text": [
+				"@spells 法術@ 分屬於不同的元素 ，元素決定了法術的本質並且決定了它會被何種 @wands 魔杖@ 增幅。",
+				"#image elements",
+				"#colour_fire火焰#colour_reset \n 它或許是最具破壞性的元素，火與燃燒、熔岩和爆炸有關。一位強大的火術師能夠釋放出地獄烈焰灼燒他的敵人，並可能在這個過程中點燃整個世界。大多數攻擊型火焰法術都會點燃目標，造成持續的傷害。然而，要注意火系法術可能對地獄生物沒有效果。",
+				"#colour_ice冰霜#colour_reset \n 冰元素囊括了所有與寒冷有關的事物，冰霜法術通常會讓敵人減速或者完全凍結，同時對火焰生物能造成額外傷害。冰霜魔法在戰鬥之外也同樣有用，比如凍住河流，讓你方便的過河。",
+				"#colour_lightning雷電#colour_reset \n 這種元素與閃電，風暴和天氣有關。絕不可忽視的一位強大的雷術師的力量，他們能夠使雷電屈從於他們的意志。雷電法術通常能夠一次性傷害多個敵人，並且能夠自動尋找目標，這使得它們能有效地攻擊任何生物……但是要小心苦力怕。",
+				"#colour_necromancy死靈#colour_reset \n 死靈元素與黑暗，混亂與不死相關。操縱死靈元素的巫師十分神秘，而且通常被常人認為是邪惡的，但實際上往往並不是這樣。死靈法術通常能夠召喚 @creatures 魔法生物@ 為你而戰，亦可以扭曲敵人的意志。",
+				"#colour_earth自然#colour_reset \n 自然元素與自然相關: 動物，植物，風，以及與這些相似的。自然魔法種類繁多，形式多樣，既可以毒害敵人，亦可展現天氣狂暴的一面。自然法術集合了攻擊、防禦和功能類法術。",
+				"#colour_sorcery秘法#colour_reset \n 秘法元素與力場與變化有關。秘術師可以操縱光、重力甚至是現實本身來滿足他們的需要。此外，秘法系法術可以賦予施法者奇特的魔法能力，或者可以幫助施法者移動他所希望移動的目標。",
+				"#colour_healing治癒#colour_reset \n 治癒元素側重於防禦和再生，治療師儘可能多地保護他們自己和他們的盟友，因此在特殊情況下會非常難對付。雖然一般不用於攻擊，但某些治療法術的淨化之光會對不死造成相當大的傷害。治療法術在戰鬥中是必不可少的。",
+				"不同元素之間的界限並不總是涇渭分明的，有些法術反而具有其他元素的特徵。",
+				"如果幸運的話，你可能會找到元素水晶。元素水晶是一種魔力水晶，它在生長過程中吸收了元素——儘管這種情況發生的條件和機制仍然是一個謎，但我們確實知道，這些水晶可以用來製造單元素魔杖，這種魔杖會為與其元素相對應的法術提高強度。"
+			]
+		},
+		"miscellaneous": {
+			"title": "雜項",
+			"include_in_contents": "main_contents",
+			"contents": {
+				"id": "miscellaneous_subsections",
+				"hyperlinks": true,
+				"page_numbers": true,
+				"separator": "."
+			},
+			"triggers": [
+				"ebwizardry:on_subsection_unlock"
+			],
+			"sections": {
+				"mana_flasks": {
+					"title": "魔力瓶",
+					"include_in_contents": "miscellaneous_subsections",
+					"triggers": [
+						"ebwizardry:handbook/mana_flasks"
+					],
+					"text": [
+						"Arkendur的魔法物品供應 - 我們有你所想要的魔法物品！",
+						"想要在旅途中為你的 @wands 魔杖@ 充能？沒問題！@mana 魔力@ 現在可以被裝入瓶內了。將八顆魔力水晶放入玻璃瓶中，魔法瓶的製作就這樣簡簡單單。當你想使用它時，將它與你的魔杖合成一下，它將會為你的魔杖恢復一些魔力。",
+						"#recipe medium_mana_flask",
+						"新品！讓我們為你介紹嶄新的小型魔力瓶和大型魔力瓶 - 現在你可以根據你的需要來挑選合適大小的魔力瓶！",
+						"#recipe small_mana_flask",
+						"#recipe large_mana_flask",
+						"* 這個過程會破壞瓶子。裝瓶過程中會不可避免的損失一些魔力。"
+					]
+				},
+				"throwable_items": {
+					"title": "投擲物",
+					"include_in_contents": "miscellaneous_subsections",
+					"triggers": [
+						"ebwizardry:handbook/throwables"
+					],
+					"text": [
+						"有許多 @spells 法術@ 召喚出物理實體的投擲物，有些還可以直接製作。燃燒彈，毒氣彈，電擊彈，煙霧彈都可以製造:",
+						"#recipe firebomb",
+						"#recipe poison_bomb",
+						"#recipe smoke_bomb",
+						"#recipe spark_bomb"
+					]
+				},
+				"automated_casting": {
+					"title": "自動化施法",
+					"include_in_contents": "miscellaneous_subsections",
+					"triggers": [
+						"ebwizardry:enchant_scroll"
+					],
+					"text": [
+						"最近的實驗表明，自動化釋放 @spells 法術@ 是可能的，只用一個簡單的發射器就可以辦到了。沒有人確切知道其中的原理，但似乎紅石的奇怪屬效能夠啟動法術卷軸。在發射器裡放一些法術卷軸，然後給它通上紅石訊號就可以了。"
+					]
+				}
+			}
+		},
+		"crafting_recipes": {
+			"title": "合成配方",
+			"include_in_contents": "main_contents",
+			"text": [
+				"#recipe arcane_workbench",
+				"#recipe novice_wands",
+				"#recipe magic_missile_spell_book",
+				"#recipe wizard_handbook",
+				"#recipe crystal_flower_to_crystals",
+				"#recipe crystal_blocks",
+				"#recipe crystal_blocks_to_crystals",
+				"#recipe crystal_shard",
+				"#recipe small_mana_flask",
+				"#recipe medium_mana_flask",
+				"#recipe large_mana_flask",
+				"#recipe runestone",
+				"#recipe runestone_pedestal",
+				"#recipe transportation_stone",
+				"#recipe magic_silk",
+				"#recipe wizard_hat",
+				"#recipe wizard_robe",
+				"#recipe wizard_leggings",
+				"#recipe wizard_boots",
+				"#recipe blank_scroll",
+				"#recipe firebomb",
+				"#recipe poison_bomb",
+				"#recipe smoke_bomb",
+				"#recipe spark_bomb",
+				"#recipe gilded_wood",
+				"#recipe bookshelves",
+				"#recipe lecterns",
+				"#recipe receptacle"
+			]
+		},
+		"credits": {
+			"title": "鳴謝",
+			"include_in_contents": "main_contents",
+			"text": [
+				"巫術學（Electroblob's Wizardry）\n版本 #version \n支持 Minecraft #mcversion",
+				"設計，代碼和材質\n由 Electroblob 完成",
+				"感謝 Minecraft Forge 以及 MCP，沒有它們，這個mod就不可能得以實現。",
+				"同時也感謝 Minecraft 模組製作社區，他們總會在我遇到mod難題時幫助我!",
+				"此外，我還要感謝以下人員對本mod的貢獻:",
+				"代碼；",
+				"- Corail31 \n- 12foo \n- Shadows-of-Fire \n- HellFirePvP \n- Tora-B \n- Avatair \n- Aeronica \n- UltraHex \n- Azim-Palmer \n- raoulvdberge \n- rafasoares \n- xinyuan-liu \n- SettingDust",
+				"翻譯；",
+				"- 西班牙語: MadWrist, Alsentar \n-墨西哥西班牙語: MadWrist \n- 俄語: VilagVil, kellixon, bigenergy \n- 法語: Hahdrim \n- 巴西葡萄牙語: lorrampi \n- 中文 (簡體): ZHENGLOC, dragon-evol, Hokorizero, TUsama, Determancer \n- Korean: shejery, rewi_wire \n- 波蘭語: Trozuu \n- 德語: BirdyDragon \n- 中文 (繁體): chesterccj305 \n- 匈牙利語: Bombadil",
+				"聲音效果；",
+				"- OhhWowProductions\n- fredzed\n- deleted_user_3277771\n- DiscoveryME\n- OGSoundFX\n- leosalom\n- juskiddink",
+				"想要獲得更多訊息，請參看 @https://github.com/Electroblob77/Wizardry/wiki wiki@.",
+				"覺得不過癮? 加入 @https://discord.gg/hs8yJP2 Discord server@ 獲得第一手資訊，還可以一起探討新內容!"
+			]
+		}
+	}
+}

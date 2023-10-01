@@ -5,7 +5,7 @@
     "pages": [
         {
             "type": "text",
-            "text": "《能量裝》為等級三的$(l:armor_mechanics#powered_armors)能量型服裝$(/l)， 設計用於戰鬥， 具有很好的防護力， 需使用$(thing)《能量匣》$()來補充能量。"
+            "text": "《能量裝》為等級三的$(l:armor_mechanics#powered_armors)能量型服裝$(/l)，設計用於戰鬥，具有很好的防護力，需使用$(thing)《能量匣》$()來補充能量。"
         },
         {
             "type": "entity",

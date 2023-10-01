@@ -1,12 +1,12 @@
 {
-  "name": "Steamed Green Beans",
+  "name": "蒸青豆",
   "icon": "croptopia:steamed_green_beans",
   "category": "croptopia:meals",
   "pages": [
     {
       "type": "patchouli:crafting",
       "recipe": "croptopia:shaped_steamed_green_beans",
-      "text": "Recipe"
+      "text": "食譜"
     }
   ]
 }

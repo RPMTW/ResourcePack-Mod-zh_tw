@@ -1,0 +1,45 @@
+{
+  "name": "石板的分級",
+  "icon": "bloodmagic:blankslate",
+  "category": "bloodmagic:altar",
+  "extra_recipe_mappings": [
+    [
+      "bloodmagic:blankslate",
+      1
+    ],
+    [
+      "bloodmagic:reinforcedslate",
+      1
+    ],
+    [
+      "bloodmagic:infusedslate",
+      2
+    ],
+    [
+      "bloodmagic:demonslate",
+      2
+    ]
+  ],
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(l:bloodmagic:altar/blood_altar)血之祭壇$(/l)的一個主要功用就是為了生產$(item)石板$()，每一等級的石板都需要前一等級的石板和更強的祭壇來製作。$(br2)提醒：$(item)懸幽石板$()現在仍未實用；不過如果你在玩模組包，開啟JEI來查看更多詳細的合成資料。"
+    },
+    {
+      "type": "2x_crafting_altar",
+      "a.heading": "空白石板",
+      "a.recipe": "bloodmagic:altar/slate",
+      "b.heading": "強化石板",
+      "b.recipe": "bloodmagic:altar/reinforcedslate"
+    },
+    {
+      "type": "2x_crafting_altar",
+      "a.heading": "灌輸石板",
+      "a.recipe": "bloodmagic:altar/imbuedslate",
+      "b.heading": "惡魔石板",
+      "b.recipe": "bloodmagic:altar/demonicslate"
+    }
+  ]
+}
+
+

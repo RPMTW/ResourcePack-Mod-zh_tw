@@ -1,0 +1,24 @@
+{
+  "name": "儀式調整器",
+  "icon": "bloodmagic:ritualtinkerer",
+  "category": "bloodmagic:rituals",
+  "priority": "是",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(item)儀式調整器$()是一個正在尋找可以從$(thing)儀式$()中獲得什麼的高階血魔法師所必備的工具。如背面所述，它具有三種主要模式。您可以通過按[$(k:sneak)]和[$(k:use)]在循環切換。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "bloodmagic:ritual_reader"
+    },
+    {
+      "type": "text",
+      "text": "$(li)Information: Describes the function of the ritual, similar to the Ritual Diviner. $(li)Set Will Consumed: Tells the ritual which kinds of Demon Will (if any) to consume from the Aura. Specify this by carrying Demon Will Crystals in your hotbar, one for each type of will you wish the Ritual to consume. Further information about the effects of Demon Will upon Rituals can be found on each Ritual's respective page in this book."
+    },
+    {
+      "type": "text",
+      "text": "$(li)定義區域：指定$(thing)儀式$()該工作的區域，並顯示目前區域。如果想要指定多個區域，則要在$(item)主儀式石$()上按[$(k:sneak)]和[$(k:use)]來循環選取。一些$(thing)儀式$()可以擴展到遠遠超出其預設區域，但請記住，這將增加$(blood)LP$()消耗以此配合......"
+    }
+  ]
+}

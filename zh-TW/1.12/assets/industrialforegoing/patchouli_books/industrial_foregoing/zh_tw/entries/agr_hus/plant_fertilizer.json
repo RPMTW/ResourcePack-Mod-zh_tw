@@ -1,0 +1,21 @@
+{
+  "name": "施肥機",
+  "icon": "industrialforegoing:plant_fertilizer",
+  "category": "agriculture_husbandry",
+  "sortnum": 5,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "用來替作物$(6)催熟$()的機器。$(br2)這台機器會持續的在同一株植栽上施肥，直到它不能施肥為止，再來為下一株施肥。這可能會導致機器會因為那些能夠反覆施肥的作物$(6)（例如向日葵）$()或永遠無法達到成熟的植物而滯留在那裡。"
+    },
+    {
+      "type": "text",
+      "text": "施肥機只接受以下肥料：$(br)$(li)骨粉$(li)肥料"
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:plant_fertilizer"
+    }
+  ]
+}

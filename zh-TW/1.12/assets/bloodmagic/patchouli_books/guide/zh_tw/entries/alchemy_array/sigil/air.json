@@ -1,0 +1,19 @@
+{
+  "name": "風之印記",
+  "icon": "bloodmagic:airsigil",
+  "category": "bloodmagic:alchemy_array/sigil",
+  "pages": [
+    {
+      "type": "text",
+      "text": "把你扔向你所面對的方向，\n每次使用消耗 50 LP。\n請注意，這不提供任何類型的緩降效果，\n所以著陸時要小心！\n快速四處走動的好方法，\n儘管存在一些風險。\n許多不謹慎的法師在鄉村上空飛行數英里時，\n用完了存在$(l:bloodmagic:altar/soul_network)靈魂網路$()裡的LP。"
+    },
+    {
+      "type": "crafting_2-step_sigil",
+      "alchemy_table.heading": "風之試劑",
+      "alchemy_table.recipe": "bloodmagic:alchemytable/reagent_air",
+      "array.heading": "風之印記",
+      "array.recipe": "bloodmagic:array/airsigil",
+      "array.text": "$(italic)我感到輕松多了..."
+    }
+  ]
+}

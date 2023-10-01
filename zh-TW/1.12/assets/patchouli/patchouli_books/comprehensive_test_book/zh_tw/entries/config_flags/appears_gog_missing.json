@@ -1,12 +1,12 @@
 {
-  "name": "Appears if GoG is missing",
+  "name": "GoG 缺少時出現",
   "category": "patchouli:config_flags",
   "flag": "!mod:gardenofglass",
   "icon": "minecraft:oak_sapling",
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "If this page doesn't appear, Botania will be sad because Orechid won't appear in its lexicon either."
+      "text": "如果這個頁面沒有出現，植物魔法模組會很傷心，因為 Orechid 也不會出現在它的辭典中。"
     }
   ]
 }

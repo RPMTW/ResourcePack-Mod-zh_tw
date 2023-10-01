@@ -1,0 +1,64 @@
+{
+	"name": "同步加速器",
+	"icon": "qmd:ring_accelerator_controller",
+	"category": "qmd:accelerators",
+	"sortnum": 2,
+	"pages": [
+		{
+			"type": "text",
+			"text": "同步加速器可將粒子的能量提高至遠高於$(l:accelerators/linear_accelerator)線性加速器$(/l)所能及的程度，但不能作為粒子系統的起始，起始必須為包含離子源的線性加速器。$(bold)同步加速器有輸入粒子能量的下限，$()預設為5 MeV，但可以在設定檔案中調整。"
+		},
+		{
+			"anchor": "construction",
+			"title": "建造",
+			"type": "text",
+			"text": "同步加速器是5格高5格寬的方環，由加速器外殼構成。同步加速器中心同樣必須有一根連續的、由束流方塊構成的環。束流埠必須與束流方塊構成的環位於同一水平面上，並且它與束流方塊構成的環之間必須另有一個束流方塊作連接。$(bold)每個拐角處和束流方塊相交處都必須有一個雙極磁鐵。$()"
+		},
+		{
+			"type": "image",
+			"images": [
+				"qmd:textures/gui/book_images/empty_synch.png"
+			],
+			"text": "束流方塊位置的示例。"
+		},
+		{
+			"type": "image",
+			"images": [
+				"qmd:textures/gui/book_images/synch_dipoles.png"
+			],
+			"text": "相同的同步加速器，現在包含雙極磁鐵。"
+		},
+		{
+			"title": "粒子能量",
+			"type": "text",
+			"text": "輸出粒子所攜能量的計算相較$(l:accelerators/linear_accelerator)線性加速器$(/l)的計算更複雜一點。能量受兩個係數限制，兩個係數中最小的值為同步加速器輸出能量的最大值Emax=min(Eₓ,Eᵣ)。兩個係數分別來自雙極磁鐵場強與同步輻射損失。"
+		},
+		{
+			"anchor": "max_dipole",
+			"type": "text",
+			"text": "受雙極磁鐵強度影響的最大能量（單位：MeV）為Eₓ=1000(qB₂R)²/(2m)，其中q為粒子電荷，B₂為雙極磁鐵強度（也即兩個磁鐵強度紙和）R為同步加速器半徑，m為粒子的質量（m=MeV/c^2）。對於較重的粒子而言（例如質子）這是最主要的問題。"
+		},
+		{
+			"anchor": "max_radation",
+			"type": "text",
+			"text": "受輻射損失影響的最大能量（單位：MeV）為Eᵣ=1000m(3VR/|q|)⁰˙²⁵，其中V為加速器的電壓（單位：kV）。對於較輕的粒子而言（例如電子）這是最主要的問題。"
+		},
+		{
+			"anchor": "synchrotron_Port",
+			"title": "同步埠",
+			"type": "text",
+			"text": "同步加速器包含一個特殊的埠——加速器同步埠。這個埠釋出同步輻射（高能光子）。同步埠的擺放規則與束流埠相同。輸出的高能光子的聚焦與數量（單位：pu/t）都與加速器中透過的粒子相同。"
+		},
+		{
+			"type": "text",
+			"text": "光子的能量（單位：MeV）為Eᵧ=E³/(2πR(1000m)³)，其中E為同步埠輸出粒子所攜的能量（單位：MeV）。因此較輕的粒子更為合適。"
+		},
+		{
+			"type": "image",
+			"images": [
+				"qmd:textures/gui/book_images/synch_port.png"
+			],
+			"text": "設定好的同步埠。"
+		}
+	]
+}

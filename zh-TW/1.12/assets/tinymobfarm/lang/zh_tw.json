@@ -13,7 +13,7 @@
     "tinymobfarm.error.cannot_capture_boss": "不能捕捉Boss類生物。",
     "tinymobfarm.error.blacklisted_mob": "這種生物在黑名單裡。",
     "tinymobfarm.gui.higher_tier": "這種生物需要更高級的農場。",
-    "tinymobfarm.gui.redstone_disable": "已被紅石信號停用。",
+    "tinymobfarm.gui.redstone_disable": "已被紅石訊號停用。",
     "tinymobfarm.gui.no_lasso": "放入一個套索來啟動農場。",
     "tinymobfarm.tooltip.release_mob": "在方塊上右鍵來釋放這個生物。",
     "tinymobfarm.tooltip.mob_name": "生物: %s",
@@ -26,7 +26,7 @@
     "tinymobfarm.tooltip.no_hostile": "不能處理敵對性生物。",
     "tinymobfarm.tooltip.no_durability": "- 有%d%%的機率不消耗耐久",
     "tinymobfarm.tooltip.default_durability": "- 有%d%%的機率消耗%d耐久度",
-    "tinymobfarm.tip.redstone": "可以被紅石信號停用。",
+    "tinymobfarm.tip.redstone": "可以被紅石訊號停用。",
     "tinymobfarm.tip.output_part_1": "物品被彈出到",
     "tinymobfarm.tip.output_part_2": "相鄰的容器。"
 }

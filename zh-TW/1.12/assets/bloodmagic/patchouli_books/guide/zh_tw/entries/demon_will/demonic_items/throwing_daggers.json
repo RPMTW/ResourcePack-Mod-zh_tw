@@ -1,0 +1,37 @@
+{
+  "name": "投擲匕首",
+  "icon": "bloodmagic:throwing_dagger",
+  "category": "bloodmagic:demon_will/demonic_items",
+  "extra_recipe_mappings": [
+    [
+      "bloodmagic:slate_ampoule",
+      3
+    ]
+  ],
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(item)弓$()和$(item)弩$()已經夠好了，但坦白說，在$(item)礫石$()中篩選$(item)燧石$()並殺死雞以獲取$(item)羽毛$()不合適你。如果你也這麼覺得，這些閃亮(且極其鋒利)的$(item)投擲匕首$()也有一些非常狡猾的效果。"
+    },
+    {
+      "type": "crafting_soulforge",
+      "heading": "鐵製投擲匕首",
+      "recipe": "bloodmagic:soulforge/throwing_dagger",
+      "anchor": "iron_throwing_dagger",
+      "text": "$(item)鐵製投擲匕首$()是一種攻擊快速，一次造成 10 點傷害並有著不錯冷卻時間的武器。不僅如此，如果你身上有一些$(l:bloodmagic:demon_will/will_manipulation/demon_will)惡魔意志$()（無論是原始形式，還是儲存在$(l:bloodmagic:demon_will/will_manipulation/ soul_gem)地獄魂石$()，使用它攻擊會像用$(l:bloodmagic:demon_will/demonic_items/sentient_sword)感知之劍$()時一樣掉落$(raw)意志$()。"
+    },
+    {
+      "type": "crafting_soulforge",
+      "heading": "注射器投擲匕首",
+      "recipe": "bloodmagic:soulforge/throwing_dagger_syringe",
+      "anchor": "syringe_throwing_dagger",
+      "text": "$(item)注射器投擲匕首$()是為比起$(raw)意志$()對$(blood)血液$()更感興趣的採集者準備的。雖然它造成的傷害略低，但明顯更便宜，而且被這種武器殺死的生物有機會掉落一個或多個$(item)安瓿石板$()，如果他們夠熱情的話。"
+    },
+    {
+      "type": "spotlight",
+      "item": "bloodmagic:slate_ampoule",
+      "title": "安瓿石板",
+      "text": "當靠近$(l:bloodmagic:altar/blood_altar)血之祭壇$()時，這些令人愉快的小瓶可以被壓碎，以便將$(blood)500 LP$()轉移到其中，在此過程中摧毀$(item)安瓿$()。這些增益不受可能擁有的任何$(item)符文$()的影響。"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "虛空印記",
+  "icon": "bloodmagic:voidsigil",
+  "category": "bloodmagic:alchemy_array/sigil",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(item)虛空印記$()，使用印記右鍵點擊任何液體時，會以每格50LP的代價將其摧毀。適合清除令人討厭的熔岩流，而無需繁瑣的放置和破壞單個方塊。"
+    },
+    {
+      "type": "crafting_2-step_sigil",
+      "alchemy_table.heading": "虛空試劑",
+      "alchemy_table.recipe": "bloodmagic:alchemytable/reagent_void",
+      "array.heading": "虛空印記",
+      "array.recipe": "bloodmagic:array/voidsigil",
+      "array.text": "$(italic)勝過速易潔®!"
+    }
+  ]
+}

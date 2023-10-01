@@ -1,12 +1,12 @@
 {
-  "name": "Steamed Broccoli",
+  "name": "蒸西蘭花",
   "icon": "croptopia:steamed_broccoli",
   "category": "croptopia:meals",
   "pages": [
     {
       "type": "patchouli:crafting",
       "recipe": "croptopia:shaped_steamed_broccoli",
-      "text": "Recipe"
+      "text": "食譜"
     }
   ]
 }

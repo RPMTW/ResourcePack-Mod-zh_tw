@@ -1,0 +1,108 @@
+{
+  "name": "基礎礦物處理",
+  "icon": "bloodmagic:basiccuttingfluid",
+  "category": "bloodmagic:utility",
+  "extra_recipe_mappings": [
+    [
+      "bloodmagic:goldfragment",
+      7
+    ],
+    [
+      "bloodmagic:fragment_netherite_scrap",
+      7
+    ],
+    [
+      "bloodmagic:goldgravel",
+      9
+    ],
+    [
+      "bloodmagic:gravel_netherite_scrap",
+      9
+    ],
+    [
+      "bloodmagic:sand_netherite",
+      7
+    ]
+  ],
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(l:bloodmagic:alchemy_table/alchemy_table)煉金術桌$()可以用於礦物加倍，而 $(l:bloodmagic:utility/alchemy_reaction_chamber)煉金反應爐$()可以使礦物輸出增加至三倍。用鮮血的力量從您的採礦探險中獲取更多礦物！"
+    },
+    {
+      "type": "crafting_alchemy_table",
+      "heading": "基礎切削油",
+      "anchor": "cutting_fluid",
+      "recipe": "bloodmagic:alchemytable/basic_cutting_fluid_sigil",
+      "text": "基礎切削油用於將礦物2倍化。它也可以用在$(l:bloodmagic:utility/alchemistry_reaction_chamber)煉金反應爐$(/l)中以達到同樣的目的。雖然在本演示中使用了$(l:bloodmagic:alchemy_array/sigil/water)水之印記$()，但在緊要關頭可以換成一個簡單的$(water)水桶$()，儘管與印記不同，水桶會被消耗。"
+    },
+    {
+      "type": "crafting_alchemy_table",
+      "heading": "進階切削油",
+      "anchor": "intermediate_cutting_fluid",
+      "recipe": "bloodmagic:alchemytable/intermediate_cutting_fluid_sigil",
+      "text": "進階切削油是持續時間延長八倍，製作速度提高25%的改良品。不過，你必須去$(l:bloodmagic:dungeons/lobby)地下城$()取得$(l:bloodmagic:dungeons/tau_fruit)仙桃油$()才有辦法製作。"
+    },
+    {
+      "type": "2x_crafting_alchemy_table",
+      "a.heading": "鐵礦砂",
+      "a.recipe": "bloodmagic:alchemytable/sand_iron",
+      "b.heading": "金礦砂",
+      "b.recipe": "bloodmagic:alchemytable/sand_gold"
+    },
+    {
+      "type": "patchouli:smelting",
+      "recipe": "bloodmagic:smelting/ingot_iron",
+      "recipe2": "bloodmagic:smelting/ingot_gold"
+    },
+    {
+      "type": "crafting_alchemy_table",
+      "heading": "爆炸粉末",
+      "anchor": "ore_processing",
+      "recipe": "bloodmagic:alchemytable/explosive_powder",
+      "text": "$(item)爆炸粉末$()用於$(item)煉金反應爐$()中可以將$(item)礦物$()變成$(item)碎片$()以進行$(thing)礦物3倍化加工$()，或將$(item)錠$()變成$(item)礦砂$()。它還可以將$(fire)地獄石$()變成$(air)硫磺$()和5mb的$(fire)熔岩$()。"
+    },
+    {
+      "type": "3x_crafting_arc",
+      "a.heading": "1個礦物變3個碎片",
+      "a.recipe": "bloodmagic:arc/fragmentsiron",
+      "b.heading": "錠到礦砂",
+      "b.recipe": "bloodmagic:arc/dustsfrom_ingot_iron",
+      "c.heading": "硫磺和熔岩",
+      "c.recipe": "bloodmagic:arc/netherrack_to_sulfer",
+      "c.fluid_output": "minecraft:lava_bucket"
+    },
+    {
+      "type": "crafting_soulforge",
+      "heading": "共鳴器",
+      "recipe": "bloodmagic:soulforge/primitive_crystalline_resonator",
+      "text": "$(item)共鳴器$()用於將$(item)礦物碎片$()轉化為相關的$(item)礫石$()以繼續進行礦物加工，並產生一些尚未實裝的$(item)微小粉塵$()。"
+    },
+    {
+      "type": "crafting_arc",
+      "heading": "碎片到礫石",
+      "recipe": "bloodmagic:arc/gravelsiron"
+    },
+    {
+      "type": "text",
+      "text": "$(item)切削油$()用於將$(item)礦物礫石$()轉化為該礦物的$(item)礦砂$()以繼續進行$(thing)3倍化礦物加工$()。它也可以用於$(thing)2倍化礦物加工$()，將一個$(item)礦物$()直接變成兩個礦砂。在$(l:bloodmagic:alchemy_table/alchemy_table)煉金術桌$()中也可以使用相同的$(thing)2倍化礦物加工$()，但是在$(item)煉金反應爐$()中執行此操作將會讓您多節省一些$(blood)LP$()。"
+    },
+    {
+      "type": "2x_crafting_arc",
+      "a.heading": "礦物礫石到礦砂",
+      "a.recipe": "bloodmagic:arc/dustsfrom_gravel_iron",
+      "b.heading": "1個礦物變2個礦砂",
+      "b.recipe": "bloodmagic:arc/dustsfrom_ore_iron"
+    },
+    {
+      "type": "crafting",
+      "heading": "Fuel Cell (Furnace)",
+      "recipe": "bloodmagic:primitive_furnace_cell",
+      "text": "$(item)煉金反應爐$()也當作$(thing)熔爐$()使用，但它接受的燃料來源只有$(item)原始燃料單元$()和$(l:bloodmagic:utility /lava_crystal)熔岩晶體$(/l)。"
+    },
+    {
+      "type": "text",
+      "text": "$(item)原始燃料單元$()可以使用128次。這比用來製作它的$(item)煤炭方塊$()還多，而且它只會在燒製完成時失去耐久度，所以不會浪費燃料。"
+    }
+  ]
+}

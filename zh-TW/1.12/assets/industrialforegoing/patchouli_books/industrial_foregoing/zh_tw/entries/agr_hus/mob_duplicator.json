@@ -1,0 +1,20 @@
+{
+  "name": "自動生怪機",
+  "icon": "industrialforegoing:mob_duplicator",
+  "category": "agriculture_husbandry",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "一台刷怪機器，當有能量供應、精華液和一個裡頭有生物的大師球時，這台機器就會從身旁生出怪物，$(br2)跟一般的生怪箱一樣，當附近的生物太多時，機器將會停止運作。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:mob_duplicator"
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:mob_imprisonment_tool"
+    }
+  ]
+}

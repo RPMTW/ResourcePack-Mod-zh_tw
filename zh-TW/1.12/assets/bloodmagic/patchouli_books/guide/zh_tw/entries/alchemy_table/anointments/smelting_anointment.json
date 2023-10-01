@@ -1,0 +1,19 @@
+{
+  "name": "緩燃之油",
+  "icon": "bloodmagic:smelting_anointment",
+  "category": "bloodmagic:alchemy_table/anointments",
+  "pages": [
+    {
+      "type": "crafting_alchemy_table",
+      "heading": "緩燃之油",
+      "recipe": "bloodmagic:alchemytable/smelting_anointment",
+      "text": "使用熱量來熔煉收穫的方塊。$(br2)有效物品：工具、劍、費用。$(br2)適用：加熱工具I（256塊）"
+    },
+    {
+      "type": "crafting_alchemy_table",
+      "heading": "緩燃之油L",
+      "recipe": "bloodmagic:alchemytable/smelting_anointment_l",
+      "text": "這個升級版的藥水膏持續時間延長了四倍。$(br2)適用：加熱工具I(1024塊)"
+    }
+  ]
+}

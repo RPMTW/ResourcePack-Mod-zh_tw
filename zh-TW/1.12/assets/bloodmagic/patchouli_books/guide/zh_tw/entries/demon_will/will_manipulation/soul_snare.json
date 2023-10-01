@@ -1,0 +1,27 @@
+{
+  "name": "獲得第一顆惡魔意志",
+  "icon": "bloodmagic:soulsnare",
+  "category": "bloodmagic:demon_will/will_manipulation",
+  "priority": "是",
+  "pages": [
+    {
+      "type": "crafting_altar",
+      "heading": "靈魂投網",
+      "recipe": "bloodmagic:altar/soul_snare",
+      "text": "$(item)靈魂投網$()將會是指引你踏進$(blood)血魔法$()中有關$(l:bloodmagic:demon_will/demon_will)惡魔意志$()領域的第一項道具。"
+    },
+    {
+      "type": "text",
+      "text": "使用$(item)投網$()的方式也很簡單，首先，準備足夠的數量；找一隻$(thing)攻擊型生物$()（像是苦力怕），然後向它們丟擲投網。只要它們身上開始出現了白色的粒子效果，就盡快的擊殺它們，它們將會掉落$(l:bloodmagic:demon_will/demon_will)惡魔意志$()。在你要開始疑問之前，沒錯，$(raw)意志$()的掉落機率是會受掠奪附魔所影響的。一旦湊齊了兩個，你就能用這些來為你自己合成把$(l:bloodmagic:demon_will/sentient_sword)感知之劍$()和$(l:bloodmagic:demon_will/soul_gem)地獄魂石$()，這兩樣道具可以幫助你更加容易地蒐集$(l:bloodmagic:demon_will/demon_will)惡魔意志$()。"
+    },
+    {
+      "type": "image",
+      "images": [
+        "bloodmagic:images/entries/demon_will/snare_particles.png"
+      ],
+      "title": "被靈魂投網砸到的骷髏",
+      "border": true,
+      "text": "在被投網砸到之後，骷髏身上散發出了白色的粒子效果。"
+    }
+  ]
+}

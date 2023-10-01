@@ -1,0 +1,22 @@
+[
+	"我做出了一個簡單結構的複合金屬，一個普通並且堅固的方塊。",
+	"合成:",
+	{
+		"link": "fp:lang/part/cr_deco.metall.json"
+	},
+	{
+		"link": "fp:lang/part/cr_deco.metallslab1.json"
+	},
+	{
+		"link": "fp:lang/part/cr_deco.metalltreppe1.json"
+	},
+	"替代:",
+	{
+		"link": "fp:lang/part/cr_deco.metallslab2.json"
+	},
+	{
+		"link": "fp:lang/part/cr_deco.metalltreppe2.json"
+	},
+	"訊息：可使用噴槍著色。",
+	"訊息：放置在一起的兩個半磚破壞時會掉落一個完整的方塊。"
+]

@@ -1,0 +1,25 @@
+{
+  "name": "福耳圖那精華",
+  "icon": "bloodmagic:fortune_anointment",
+  "category": "bloodmagic:alchemy_table/anointments",
+  "pages": [
+    {
+      "type": "crafting_alchemy_table",
+      "heading": "福耳圖那精華",
+      "recipe": "bloodmagic:alchemytable/fortune_anointment",
+      "text": "增加一些物品的掉落量。也與幸運附魔疊加。$(br2)有效物品：工具、劍、炸藥。$(br2)適用：幸運I（256塊）"
+    },
+    {
+      "type": "crafting_alchemy_table",
+      "heading": "福耳圖那精華L",
+      "recipe": "bloodmagic:alchemytable/fortune_anointment_l",
+      "text": "這個升級版的藥水膏持續時間延長了四倍。$(br2)適用：幸運I(1024格方塊)"
+    },
+    {
+      "type": "crafting_alchemy_table",
+      "heading": "福耳圖那精華II",
+      "recipe": "bloodmagic:alchemytable/fortune_anointment_2",
+      "text": "這個升級版的藥水膏增加了產量。$(br2)適用：幸運I(256格方塊)"
+    }
+  ]
+}

@@ -17,7 +17,7 @@
     {
       "type": "text",
       "title": "Open Computers",
-      "text": "需要使用$(item)適配器/$把電腦與$(pncr)機器相連接；其將會被識別為 OC 中的組件，在 OC Lua 環境中運行 $(thing)=components.list()/$ 時將被列出。此後下列提及的所有函數可被調用，例如：$(thing)p = components.air_compressor.getPressure()/$ 將獲取所連接的$(item)空氣壓縮機/$的當前壓力。",
+      "text": "需要使用$(item)適配器/$把電腦與$(pncr)機器相連接；其將會被識別為 OC 中的組件，在 OC Lua 環境中運行 $(thing)=components.list()/$ 時將被列出。此後下列提及的所有函數可被調用，例如：$(thing)p = components.air_compressor.getPressure()/$ 將獲取所連接的$(item)空氣壓縮機/$的目前壓力。",
       "flag": "mod:opencomputers"
     },
     {
@@ -51,44 +51,44 @@
       "anchor": "elevator",
       "item": "pneumaticcraft:elevator_base",
       "title": "電梯",
-      "text": "$(li)$(#800)setExternalControl(<true/false>)/$：傳參為 true 時，將會把電梯的$(#f00)紅石模式/$設置為「電梯呼叫器」模式，此時同樣可以被電腦控制。不需要在調用 $(#800)setTargetHeight()/$ 前調用該方法；該方法會自動將電梯調整為電梯呼叫器模式。"
+      "text": "$(li)$(#800)setExternalControl(<true/false>)/$：傳參為 true 時，將會把電梯的$(#f00)紅石模式/$設定為「電梯呼叫器」模式，此時同樣可以被電腦控制。不需要在調用 $(#800)setTargetHeight()/$ 前調用該方法；該方法會自動將電梯調整為電梯呼叫器模式。"
     },
     {
       "type": "text",
       "title": "電梯（續表）",
-      "text": "$(li)$(#800)getMinWorkingPressure()/$：返回使電梯上升的最小壓力（機器界面中內黃色與綠色的分界線）。電梯下降過程不需要壓力。$(li)$(#800)setTargetHeight(<高度>)/$：把電梯的目標高度設為傳入的高度（單位為米/格，浮點數）。$(li)$(#800)getTargetHeight()/$：獲取電梯的目標高度（單位為米/格，浮點數）。$(li)$(#800)getCurrentHeight()/$：獲取電梯的當前高度（單位為米/格，浮點數）。"
+      "text": "$(li)$(#800)getMinWorkingPressure()/$：返回使電梯上升的最小壓力（機器界面中內黃色與綠色的分界線）。電梯下降過程不需要壓力。$(li)$(#800)setTargetHeight(<高度>)/$：把電梯的目標高度設為傳入的高度（單位為米/格，浮點數）。$(li)$(#800)getTargetHeight()/$：獲取電梯的目標高度（單位為米/格，浮點數）。$(li)$(#800)getCurrentHeight()/$：獲取電梯的目前高度（單位為米/格，浮點數）。"
     },
     {
       "type": "spotlight",
       "anchor": "plastic_mixer",
       "item": "pneumaticcraft:plastic_mixer",
-      "text": "$(li)$(#800)selectColor(<色彩索引>)/$：設置所選要生產的塑膠顏色設為索引（1-16）指定的顏色。調用 $(#800)selectColor(0)/$ 將取消顏色選擇。"
+      "text": "$(li)$(#800)selectColor(<色彩索引>)/$：設定所選要生產的塑膠顏色設為索引（1-16）指定的顏色。調用 $(#800)selectColor(0)/$ 將取消顏色選擇。"
     },
     {
       "type": "spotlight",
       "anchor": "universal_sensor",
       "item": "pneumaticcraft:universal_sensor",
-      "text": "$(li)$(#800)getSensorNames()/$：以列表的形式返回所有感測器的名稱。$(li)$(#800)getSensor()/$：返回當前選擇的感測器的名稱。"
+      "text": "$(li)$(#800)getSensorNames()/$：以列表的形式返回所有感測器的名稱。$(li)$(#800)getSensor()/$：返回目前選擇的感測器的名稱。"
     },
     {
       "type": "text",
       "title": "萬能感測器（續表）",
-      "text": "$(li)$(#800)setSensor(<感測器名稱>), setSensor(<索引>), setSensor()/$：設置當前選擇的感測器。<感測器名稱>應當屬於 $(#800)getSensorNames()/$ 返回的列表。<索引>是 $(#800)getSensorNames()/$ 所返回的列表的索引。調用不傳參的 $(#800)setSensor()/$ 時，沒有感測器被選擇（機器將閒置，不使用空氣）。如果當前安裝的升級允許傳入的感測器，返回 true。 "
+      "text": "$(li)$(#800)setSensor(<感測器名稱>), setSensor(<索引>), setSensor()/$：設定目前選擇的感測器。<感測器名稱>應當屬於 $(#800)getSensorNames()/$ 返回的列表。<索引>是 $(#800)getSensorNames()/$ 所返回的列表的索引。調用不傳參的 $(#800)setSensor()/$ 時，沒有感測器被選擇（機器將閒置，不使用空氣）。如果目前安裝的升級允許傳入的感測器，返回 true。"
     },
     {
       "type": "text",
       "title": "萬能感測器（續表）",
-      "text": "$(li)$(#800)setTextField(<文本>)/$：有些感測器使用一個文本框指定附加選項（如：「範圍內的實體」感測器接受$(l:base_concepts/entity_filter)實體過濾字串/$）。可以透過此方法指定這一文本參數。$(li)$(#800)getTextField()/$：返回$(thing)萬能感測器/$當前儲存的文本參數。"
+      "text": "$(li)$(#800)setTextField(<文字>)/$：有些感測器使用一個文字框指定附加選項（如：「範圍內的實體」感測器接受$(l:base_concepts/entity_filter)實體過濾字串/$）。可以透過此方法指定這一文字參數。$(li)$(#800)getTextField()/$：返回$(thing)萬能感測器/$目前儲存的文字參數。"
     },
     {
       "type": "text",
       "title": "萬能感測器（續表）",
-      "text": "$(li)$(#800)isSensorEventBased()/$：有兩類感測器：基於事件的，以及基於輪詢的。基於時間的感測器會等待到一個時間發生（玩家攻擊，撿起物品）。基於輪詢的感測器隔一段時間檢查一次狀態（範圍內的實體，世界時間，下雨）。如果當前選擇的感測器是基於事件的，返回 true。"
+      "text": "$(li)$(#800)isSensorEventBased()/$：有兩類感測器：基於事件的，以及基於輪詢的。基於時間的感測器會等待到一個時間發生（玩家攻擊，撿起物品）。基於輪詢的感測器隔一段時間檢查一次狀態（範圍內的實體，世界時間，下雨）。如果目前選擇的感測器是基於事件的，返回 true。"
     },
     {
       "type": "text",
       "title": "萬能感測器（續表）",
-      "text": "$(li)$(#800)getSensorValue()/$：如果目前的感測器是基於輪詢的，返回其（未取反的）紅石輸出。注意：設置感測器後馬上讀取數據並不可靠，因為很多基於輪詢的感測器並不很頻繁地輪詢，以此來提高效能。因此。該方法發起一個拉取事件，並獲取響應該事件的輸出。當未選擇基於輪詢的感測器時，將拋出一個異常。"
+      "text": "$(li)$(#800)getSensorValue()/$：如果目前的感測器是基於輪詢的，返回其（未取反的）紅石輸出。注意：設定感測器後馬上讀取數據並不可靠，因為很多基於輪詢的感測器並不很頻繁地輪詢，以此來提高效能。因此。該方法發起一個拉取事件，並獲取響應該事件的輸出。當未選擇基於輪詢的感測器時，將拋出一個異常。"
     },
     {
       "type": "text",

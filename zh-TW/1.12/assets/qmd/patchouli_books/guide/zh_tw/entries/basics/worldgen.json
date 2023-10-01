@@ -1,0 +1,12 @@
+{
+	"name": "世界生成",
+	"icon": "minecraft:grass",
+	"category": "qmd:basics",
+	"sortnum": 2,
+	"pages": [
+		{
+			"type": "text",
+			"text": "目前本模組尚未加入任何世界生成元素，比如礦。所有材料都由前置的核電工藝提供。"
+		}
+	]
+}

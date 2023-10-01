@@ -16,7 +16,7 @@
     },
     {
       "title": "addArea()",
-      "text": "$(#800)addArea(<x>,<y>,<z>)/$|$(#800)addArea(<x1>,<y1>,<z1>,<x2>,<y2>,<z2>,<區域類型>)/$$(p)向無人機目前儲存的區域加入一個區域。當使用後一個重載時，x1,y1,z1 表示的是第一個點（代表手動加入時第一個定位工具），x1,y2,z2 表示第二個點。",
+      "text": "$(#800)addArea(<x>,<y>,<z>)/$|$(#800)addArea(<x1>,<y1>,<z1>,<x2>,<y2>,<z2>,<區域類型>)/$$(p)向無人機目前儲存的區域加入一個區域。當使用後一個重新載入時，x1,y1,z1 表示的是第一個點（代表手動加入時第一個定位工具），x1,y2,z2 表示第二個點。",
       "type": "text"
     },
     {
@@ -107,7 +107,7 @@
     {
       "title": "getAllActions()",
       "type": "text",
-      "text": "$(#800)getAllActions()/$$(p)返回包含所有可以被選擇的操作（如 dig（挖掘方塊） 或者 place（放置方塊））的字元串的列表。"
+      "text": "$(#800)getAllActions()/$$(p)返回包含所有可以被選擇的操作（如 dig（挖掘方塊）或者 place（放置方塊））的字元串的列表。"
     },
     {
       "title": "getAreaTypes()",
@@ -130,7 +130,7 @@
       "text": "$(#800)getUpgrades(<升級>)/$$(p)返回給定升級所安裝的數量。<升級>是一個數值索引（從 0 開始），按照其在創造物品欄 / NEI 中的順序。亦為該升級的元資料值。例如，速度升級的索引為 5。"
     },
     {
-      "text": "$(#800)getVariable(<變數名>)/$$(p)返回無人機的對應變數的值（x,y,z）。同樣可以取得全局（#）和特定（$）變數的值。",
+      "text": "$(#800)getVariable(<變數名>)/$$(p)返回無人機的對應變數的值（x,y,z）。同樣可以取得全域（#）和特定（$）變數的值。",
       "type": "text",
       "title": "getVariable()"
     },
@@ -245,7 +245,7 @@
       "text": "$(#800)setUseMaxActions(<true/false>)/$$(p)設定無人機是否有在指令被認為完成前對方塊執行的最多操作限制。對於放置方塊，挖掘方塊，右擊方塊適用。如果設定為 true，需要同時調用 setMaxActions()。"
     },
     {
-      "text": "$(#800)setVariable(<變數名>, <true/false>)/$|$(#800)setVariable(<變數名>, <x>)/$|$(#800)setVariable(<變數名>, <x>, <y>, <z>)/$$(p)設定無人機的$(l:programming/coordinate_operator)變數/$。傳參為 true 時，坐標會被設為 (1,0,0)。傳參為 false 時，坐標會被設為 (0,0,0)。同樣可以用於設定全局變數（#）。",
+      "text": "$(#800)setVariable(<變數名>, <true/false>)/$|$(#800)setVariable(<變數名>, <x>)/$|$(#800)setVariable(<變數名>, <x>, <y>, <z>)/$$(p)設定無人機的$(l:programming/coordinate_operator)變數/$。傳參為 true 時，坐標會被設為 (1,0,0)。傳參為 false 時，坐標會被設為 (0,0,0)。同樣可以用於設定全域變數（#）。",
       "type": "text",
       "title": "setVariable()"
     },

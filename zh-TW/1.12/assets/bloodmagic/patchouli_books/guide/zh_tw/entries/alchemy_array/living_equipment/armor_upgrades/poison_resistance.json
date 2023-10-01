@@ -1,0 +1,15 @@
+{
+  "name": "抗毒性",
+  "icon": "minecraft:milk_bucket",
+  "category": "bloodmagic:alchemy_array/living_equipment/armor_upgrades",
+  "pages": [
+    {
+      "type": "text",
+      "text": "效果：解毒。 隨著等級的增加而縮短冷卻時間。 $(br2) 培育方式：中毒。 $(br2)最高等級：5"
+    },
+    {
+      "type": "bloodmagic:living_armour_upgrade_table",
+      "upgrade": "bloodmagic:poison_resist"
+    }
+  ]
+}

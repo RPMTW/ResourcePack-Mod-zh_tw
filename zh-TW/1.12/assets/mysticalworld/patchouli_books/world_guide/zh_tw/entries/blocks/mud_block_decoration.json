@@ -59,14 +59,14 @@
       "type": "spotlight",
       "item": "mysticalworld:mud_block_fence_gate",
       "link_recipe": true,
-      "text": "Fence gates can be crafted out of both dried mud blocks and dried mud bricks."
+      "text": "乾泥塊和乾泥磚都可以用來合成泥塊柵欄門。"
     },
     {
       "type": "crafting",
       "recipe": "mysticalworld:mud_block_fence_gate",
       "recipe2": "mysticalworld:mud_brick_fence_gate",
       "link_recipe": true,
-      "title": "Fences"
+      "title": "柵欄"
     }
   ]
 }

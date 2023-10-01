@@ -1,0 +1,13 @@
+{
+  "name": "無限鑽頭",
+  "icon": "industrialforegoing:infinity_drill",
+  "category": "tools",
+  "sortnum": 3,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "無限鑽頭是一個能讓你開採大範圍的工具，等級越高，範圍就越大。"
+    }
+  ]
+}

@@ -85,5 +85,8 @@
     "substance.dynamictrees.mega.error.no_mega_species": "%s 物種沒有巨型變種。",
     "substance.dynamictrees.transform.error.not_transformable": "%s 物種不可轉生。",
     "substance.dynamictrees.transform.error.already_transformed": "選取的樹木已經是 %s 物種。",
-    "substance.dynamictrees.transform.error.not_brewed": "轉生藥水必須用目標物種的種子釀造。"
+    "substance.dynamictrees.transform.error.not_brewed": "轉生藥水必須用目標物種的種子釀造。",
+    "commands.dynamictrees.clearorphaned.usage": "/dt clearOrphaned <xChunk> <yChunk> <radiusChunks>",
+    "commands.dynamictrees.purgetrees.usage": "/dt purgeTrees <xChunk> <yChunk> <radiusChunks>",
+    "commands.dynamictrees.unhandled.usage": "Command Undocumented"
 }

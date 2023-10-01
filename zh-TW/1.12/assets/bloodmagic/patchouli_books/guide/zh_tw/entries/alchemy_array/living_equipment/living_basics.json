@@ -1,0 +1,49 @@
+{
+  "name": "束靈裝備基礎知識",
+  "icon": "bloodmagic:reagentbinding",
+  "category": "bloodmagic:alchemy_array/living_equipment",
+  "extra_recipe_mappings": [
+    [
+      "bloodmagic:reagentbinding",
+      1
+    ],
+    [
+      "bloodmagic:livinghelmet",
+      3
+    ],
+    [
+      "bloodmagic:livingplate",
+      3
+    ],
+    [
+      "bloodmagic:livingleggings",
+      3
+    ],
+    [
+      "bloodmagic:livingboots",
+      3
+    ]
+  ],
+  "pages": [
+    {
+      "type": "text",
+      "text": "若要製造 $(item)束靈裝備$()，首先需準備 $(item)鐵製盔甲$()(或是你喜歡稱它為$(item)鐵製鎧甲$())，一些$(l:bloodmagmagic:alchemy_array/functional_arrays/arcane_ash)奧術粉灰$()，以及部分 $(item)束縛試劑$()。您還需要至少 $(br)$(l:bloodmagic:demon_will/soul_gem)［普通］地獄魂石$()，以保留需要的 $(item)惡魔意志$()。"
+    },
+    {
+      "type": "crafting_alchemy_table",
+      "heading": "束縛試劑",
+      "recipe": "bloodmagic:alchemytable/reagent_binding",
+      "text": "$(italic)它緊緊地抱著我。。。"
+    },
+    {
+      "type": "text",
+      "text": "與其他鍊金陣列一樣，用 $(item)奧術粉灰$()按一下地面的頂端，並添加 $(item)束縛試劑$()。然後放入你的 $(item)鐵製頭盔$()、$(item)鐵製胸甲$()、$(item)鐵製護腿$()或 $(item)鐵製靴子$()，退後，並欣賞他的變化。$(br2) 束靈裝備一開始相當於鐵，但它雍有 $(item)升級點數$()，可以用培育的方式，用特定的方法來訓練它。起始於 100，但可能有辦法超越這個限制..."
+    },
+    {
+      "type": "crafting_array",
+      "heading": "束靈儀式",
+      "recipe": "bloodmagic:array/living_helmet",
+      "text": "它是活的，好吧 ... 而且它向我學習。\n我最好小心的選擇教它什麼。$(br2)按住SHIFT的時候，可以看到它到底學到了些什麼。"
+    }
+  ]
+}

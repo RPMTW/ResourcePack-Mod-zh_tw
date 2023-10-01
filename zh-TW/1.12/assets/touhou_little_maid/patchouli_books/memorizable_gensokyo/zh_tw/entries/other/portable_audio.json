@@ -1,17 +1,17 @@
 {
   "sortnum": 15,
-  "name": "手提音響",
+  "name": "Portable Audio",
   "icon": "touhou_little_maid:portable_audio",
   "category": "other",
   "pages": [
     {
       "type": "spotlight",
       "item": "touhou_little_maid:portable_audio",
-      "text": "手提音響可以被女僕主動拾取，右擊其可以打開 GUI，播放網路音樂，並同步給 96 格內的玩家。$(br2)目前僅做了網易雲音樂的支持，所以非中國大陸的玩家無法使用這個音響播放音樂。$(br2)我們會在後面增加更多音樂網站的支持。"
+      "text": "The portable audio can be picked up by the maid, right-click it can open the GUI, play network music, and synchronize to players within 96 squares.$(br2)Currently only NetEase Cloud Music is supported, but we will add support for more music websites later."
     },
     {
       "type": "text",
-      "text": "音響的歌單可以通過資源包加入，不過你需要重啟遊戲才可以載入上這些歌單。$(br2)音響可以通過修改設定停用其播放，你也可以通過調節唱片音量來靜音它。$(br2)可以通過設定檔案設定歌單取得歌曲的數量，但是過大有可能會導致歌單取得失敗，甚至被網易雲屏蔽 IP，所以請謹慎設定數值。"
+      "text": "Audio playlists can be added through the resource pack, but you need to restart the game to load these playlists.$(br2)The audio can be disabled by modifying the configuration, or you can mute it by adjusting the volume of the record."
     }
   ]
 }

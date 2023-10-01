@@ -1,0 +1,18 @@
+[
+  "有時，你滿腦子想的都是Fire！Fire！~。",
+  "當我用烈焰粉填滿手榴彈時，它會撞擊並點燃附近的地區。",
+  "在手榴彈中，我可以使用1-3等級的火焰粉，與受影響的地區相關。",
+  "無序合成:",
+  "強度1:",
+  {
+    "link": "fp:lang/part/crafting_tools.grenade.blaze.json"
+  },
+  "強度2:",
+  {
+    "link": "fp:lang/part/crafting_tools.grenade.blaze2.json"
+  },
+  "強度3:",
+  {
+    "link": "fp:lang/part/crafting_tools.grenade.blaze3.json"
+  }
+]

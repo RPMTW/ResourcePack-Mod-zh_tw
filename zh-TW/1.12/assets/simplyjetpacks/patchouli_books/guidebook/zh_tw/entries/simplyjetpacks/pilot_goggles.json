@@ -1,0 +1,17 @@
+{
+  "name": "Pilot Goggles",
+  "icon": "simplyjetpacks:pilot_goggles",
+  "category": "simplyjetpacks:simplyjetpacks",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "These are the Pilot Goggles"
+    },
+    {
+      "type": "crafting",
+      "recipe": "simplyjetpacks:sj/pilot_goggles",
+      "text": "This is a test entry, but it should show up!"
+    }
+  ]
+}

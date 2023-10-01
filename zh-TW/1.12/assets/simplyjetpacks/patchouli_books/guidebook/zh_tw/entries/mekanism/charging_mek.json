@@ -1,0 +1,29 @@
+{
+  "name": "Mekanism - Charging",
+  "icon": "minecraft:writable_book",
+  "category": "simplyjetpacks:mekanism",
+  "flag": "mod:mekanism",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "The following items can be used to charge the jetpacks."
+    },
+    {
+      "type": "spotlight",
+      "item": "mekanism:basic_energy_cube"
+    },
+    {
+      "type": "spotlight",
+      "item": "mekanism:advanced_energy_cube"
+    },
+    {
+      "type": "spotlight",
+      "item": "mekanism:elite_energy_cube"
+    },
+    {
+      "type": "spotlight",
+      "item": "mekanism:ultimate_energy_cube"
+    }
+  ]
+}

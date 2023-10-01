@@ -1,0 +1,32 @@
+{
+  "name": "見解印記",
+  "icon": "bloodmagic:seersigil",
+  "category": "bloodmagic:alchemy_array/sigil",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(item)見解印記$()是$(l:bloodmagic:alchemy_array/sigil/divination)占卜印記$()的更高級形式。\n除了顯示綁定玩家的$(l:bloodmagic:altar/soul_network)靈魂網路$(/l)中的LP數量外，\n它還可以在查看$(l:bloodmagic:altar/blood_altar)血之祭壇$(/l)時顯示更多訊息。"
+    },
+    {
+      "type": "crafting_2-step_sigil",
+      "alchemy_table.heading": "視覺試劑",
+      "alchemy_table.recipe": "bloodmagic:alchemytable/reagent_sight",
+      "array.heading": "見解印記",
+      "array.recipe": "bloodmagic:array/seersigil",
+      "array.text": "$(italic)當看到的一切還不足夠"
+    },
+    {
+      "type": "text",
+      "text": "從上到下為：$(li) $(l:bloodmagic:altar/blood_altar)血之祭壇$(/l)的目前層級。$(li)目前祭壇內的血量，以及總容量。（基本為10,000mb，但可以通過$(l:bloodmagic:altar/blood_rune/capacity_rune)增容符文$()和 $(l:bloodmagic:altar/blood_rune/aug_capacity_rune)超容符文增加。$() $(li)目前的製作進度，如果有的話。$(li)LP 消耗量/Tick - 製作時祭壇每刻將使用多少LP。$(li) 任何你當下有LP儲存的$(l:bloodmagic:altar/blood_rune/charging_rune)充能符文$()。"
+    },
+    {
+      "type": "image",
+      "images": [
+        "bloodmagic:images/entries/sigil/seer_sigil_info.png"
+      ],
+      "title": "見解印記的顯示圖",
+      "border": true,
+      "text": "在你查看血之祭壇時手持見解印記，會顯示此 HUD。"
+    }
+  ]
+}

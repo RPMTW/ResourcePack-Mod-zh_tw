@@ -1,0 +1,13 @@
+{
+  "name": "粉紅史萊姆桶",
+  "icon": "industrialforegoing:pink_slime_bucket",
+  "category": "agriculture_husbandry",
+  "sortnum": 11,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(l:agr_hus/mob_slaughter_factory)屠宰場$()所產出的一種液體。"
+    }
+  ]
+}

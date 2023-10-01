@@ -1,0 +1,79 @@
+{
+  "name": "炸藥",
+  "icon": "bloodmagic:shaped_charge",
+  "category": "bloodmagic:demon_will/demonic_items",
+  "pages": [
+    {
+      "type": "text",
+      "text": "對於那些沒有遠大目標的人來說，造林、伐木與採礦都是不錯的選擇，但是哪位有自尊的血法師會屈服於這一點呢？$(br2)考慮到這一點，你設計了一些狡猾的小道具。只需將它們扔在一些討厭的樹、岩石或其他任何你不想成為的東西上，然後等待它們自己點燃。"
+    },
+    {
+      "type": "text",
+      "text": "不僅如此，您可以通過$(item)改造$()附加上某些成分和一點$(raw)意志$()來改進它們的功能，每個項目如下所述。$(br2)目前可用的改造如下：$(li)好運-破壞的方塊受$(thing)幸運I$()影響。$(li)高溫工具-破壞的方塊是 $(thing)燒製過的$()。$(li)柔觸-破壞的方塊會受到$(thing)絲綢之觸$()的影響。"
+    },
+    {
+      "type": "crafting_soulforge",
+      "heading": "Shaped Charge",
+      "recipe": "bloodmagic:soulforge/shaped_charge",
+      "anchor": "shaped_charge",
+      "text": "$(item)聚能炸藥$() 將摧毀一個 5x5x5 的立方體，作用方向為它放置的方塊的那一側，就像用鎬開採一樣掉落所有方塊。它甚至適用於黑曜石，而且在這樣做的同時提供了最令人滿意的 $(o)KABOOM$()。"
+    },
+    {
+      "type": "3x_crafting_soulforge",
+      "a.heading": "好運",
+      "a.recipe": "bloodmagic:soulforge/shaped_charge_fortune_1",
+      "b.heading": "Heated Tool",
+      "b.recipe": "bloodmagic:soulforge/shaped_charge_smelting",
+      "c.heading": "Soft Touch",
+      "c.recipe": "bloodmagic:soulforge/shaped_charge_silk_touch"
+    },
+    {
+      "type": "crafting_soulforge",
+      "heading": "Deforester Charge",
+      "recipe": "bloodmagic:soulforge/deforester_charge",
+      "anchor": "deforester_charge",
+      "text": "$(item)伐木炸藥$() 用於砍伐樹木。\n它可以放在原木或樹葉上，除非是超大的樹，不然可以一次砍倒整棵，\n可以一次採集$(item)2組$() 原木（並整齊地剝去它在此過程中遇到的任何樹葉！）即使是叢林巨木也會在幾秒鐘內倒下。"
+    },
+    {
+      "type": "3x_crafting_soulforge",
+      "a.heading": "好運",
+      "a.recipe": "bloodmagic:soulforge/deforester_charge_fortune_1",
+      "b.heading": "Heated Tool",
+      "b.recipe": "bloodmagic:soulforge/deforester_charge_smelting",
+      "c.heading": "Soft Touch",
+      "c.recipe": "bloodmagic:soulforge/deforester_charge_silk_touch"
+    },
+    {
+      "type": "crafting_soulforge",
+      "heading": "Controlled Charge",
+      "recipe": "bloodmagic:soulforge/vein_charge",
+      "anchor": "controlled_charge",
+      "text": "$(item)可控炸藥$()，只破壞$(thing)與它附著的該種方塊$()。\n從附著點開始，它可以一次挖掘$(item)約三組的方塊$()。\n像其他炸藥一樣，所有被挖掘的方塊將掉落。"
+    },
+    {
+      "type": "3x_crafting_soulforge",
+      "a.heading": "好運",
+      "a.recipe": "bloodmagic:soulforge/vein_charge_fortune_1",
+      "b.heading": "Heated Tool",
+      "b.recipe": "bloodmagic:soulforge/vein_charge_smelting",
+      "c.heading": "Soft Touch",
+      "c.recipe": "bloodmagic:soulforge/vein_charge_silk_touch"
+    },
+    {
+      "type": "crafting_soulforge",
+      "heading": "Fungal Charge",
+      "recipe": "bloodmagic:soulforge/fungal_charge",
+      "anchor": "fungal_charge",
+      "text": "$(item)菌菇炸藥$() 用於砍伐主世界和地獄的巨型蘑菇。\n雖說一次爆炸能否達到目的還有待商榷，但它可以破壞約$(item) 三組的方塊$() 。"
+    },
+    {
+      "type": "3x_crafting_soulforge",
+      "a.heading": "好運",
+      "a.recipe": "bloodmagic:soulforge/fungal_charge_fortune_1",
+      "b.heading": "Heated Tool",
+      "b.recipe": "bloodmagic:soulforge/fungal_charge_smelting",
+      "c.heading": "Soft Touch",
+      "c.recipe": "bloodmagic:soulforge/fungal_charge_silk_touch"
+    }
+  ]
+}

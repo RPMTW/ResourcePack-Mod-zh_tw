@@ -1,0 +1,25 @@
+{
+  "name": "掠奪閃芒",
+  "icon": "bloodmagic:looting_anointment",
+  "category": "bloodmagic:alchemy_table/anointments",
+  "pages": [
+    {
+      "type": "crafting_alchemy_table",
+      "heading": "掠奪閃芒",
+      "recipe": "bloodmagic:alchemytable/looting_anointment",
+      "text": "增加殺死生物時的掉落率。也與掠奪附魔疊加。$(br2)有效物品：工具，劍。$(br2)適用：掠奪 I（256 次命中）"
+    },
+    {
+      "type": "crafting_alchemy_table",
+      "heading": "掠奪閃芒L",
+      "recipe": "bloodmagic:alchemytable/looting_anointment_l",
+      "text": "這個升級版的藥水膏持續時間延長了四倍。$(br2)適用：掠奪 I(1024次命中)"
+    },
+    {
+      "type": "crafting_alchemy_table",
+      "heading": "掠奪閃芒II",
+      "recipe": "bloodmagic:alchemytable/looting_anointment_2",
+      "text": "這個升級版的藥水膏進一步的增加了殺死生物時的掉落率。$(br2)適用：掠奪 II(256次命中)"
+    }
+  ]
+}

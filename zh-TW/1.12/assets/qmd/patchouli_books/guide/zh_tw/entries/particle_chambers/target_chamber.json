@@ -1,0 +1,87 @@
+{
+	"name": "靶室",
+	"icon": "qmd:target_chamber_controller",
+	"category": "qmd:particle_chambers",
+	"sortnum": 1,
+	"pages": [
+		{
+			"type": "text",
+			"text": "靶室可被用於用粒子轟擊既定材料以引發核反應。"
+		},
+		{
+			"title": "建造",
+			"type": "text",
+			"text": "靶室是由粒子室外殼構成的3格到9格高3格到9格寬的正方體。靶室必須包含能量埠。靶室只能包含一個輸入模式下的束流埠，但輸出模式下的束流埠零到三個皆可。"
+		},
+		{
+			"title": "Construction",
+			"type": "text",
+			"text": "中央必須有粒子室方塊，且粒子室方塊必須透過束流方塊連接至束流埠。"
+		},
+		{
+			"type": "image",
+			"images": [
+				"qmd:textures/gui/book_images/empty_target_chamber.png"
+			],
+			"text": "沒有輸出的5x5x5空靶室。"
+		},
+		{
+			"title": "探測器",
+			"type": "text",
+			"text": "探測器位於靶室中時可以提高反應效率，使執行更高效。探測器只有位於與粒子室方塊相隔一定格數時才能工作，可以在提示文字中查看這一格數。探測器也會增加靶室的能量消耗。注意：只會在執行時消耗額外的能量。"
+		},
+		{
+			"type": "image",
+			"images": [
+				"qmd:textures/gui/book_images/detector_target_chamber.png"
+			],
+			"text": "包含一個輸出用束流埠和探測器的5x5x5靶室。"
+		},
+		{
+			"title": "輸出",
+			"type": "text",
+			"text": "取決於建造方式，靶室可以包含零到三個輸出束流。輸出的位置與輸入相關，輸入位置決定了輸出中束流與埠的對應關係。束流依順時針方向按自頂部至頂部的順序輸出，但手持多功能工具潛行右擊相對兩面上的埠也可以調整順序。$(bold)中間的輸出束流對於的埠一定位於輸入的背面。$()"
+		},
+		{
+			"type": "image",
+			"images": [
+				"qmd:textures/gui/book_images/outputs_target_chamber.png"
+			],
+			"text": "包含三個輸出用束流埠的7x7x7靶室。"
+		},
+		{
+			"type": "image",
+			"images": [
+				"qmd:textures/gui/book_images/target_chamber_gui.png"
+			],
+			"text": "下一頁的示範。"
+		},
+		{
+			"title": "操作",
+			"type": "text",
+			"text": "一束數量為100 pu/t且具有10.711 GeV能量的質子束流正在轟擊鉛錠。這會產出數量為92 pu/t且具有2.065 GeV的兩個束流，分別為質子和反質子；這還將鉛錠變為了鉛散裂廢料。輸出束流的聚焦與輸入束流相同。計算數量與能量需要查看JEI。"
+		},
+		{
+			"type": "image",
+			"images": [
+				"qmd:textures/gui/book_images/target_chamber_jei.png"
+			]
+		},
+		{
+			"type": "text",
+			"text": "我們可以看到這裡產生了1 pu的質子和1 pu的反質子。反應的散射截面為10%，而能量釋放為-6.58 GeV。輸出能量為E=(E₀+Q)/n，其中E₀為輸入粒子的能量，Q為能量釋放，n為配方中輸出粒子的總和。"
+		},
+		{
+			"type": "text",
+			"text": "本例中有一個質子輸出和一個反質子輸出，所以計算式中n為2。將數據代入，我們可以得到(10.711 GeV+-6.58 GeV)/2=2.0655 GeV，也即大約2.065 GeV。"
+		},
+		{
+			"type": "text",
+			"text": "我們透過aₒ=aᵢaΣ計算粒子數量（單位：pu/t），其中aᵢ為輸入的粒子數量，a為配方中寫明的粒子數量，Σ是一個參數（Σ=min(ση,1)），其中σ為配方的散射截面，η為靶室的效能。本例中反質子的a為1。將數據代入，我們可以得到100*1*(0.1*9.25)=92.5，取整後即92 pu/t。"
+		},
+		{
+			"type": "text",
+			"text": " $(bold)注意：Σ一定不大於1。$()你只能在配方輸出大於1（即a>1）時得到比輸入多的粒子數量，因此這在考慮粒子係數時十分重要。本例並非這種配方，因此輸出中的質子不能多於輸入中的。"
+		}
+	]
+}

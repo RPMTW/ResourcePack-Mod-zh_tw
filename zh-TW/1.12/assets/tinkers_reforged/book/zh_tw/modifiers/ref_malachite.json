@@ -1,0 +1,21 @@
+{
+  "modifier": "ref_malachite",
+  "text": [
+    {
+      "text": "在工具邊緣加入孔雀石，使其更有彈性，增加工具挖掘量。同時也是一個迷人的時尚宣言。"
+    }
+  ],
+  "effects": [
+    "增加耐久度",
+    "次要屬性的增加",
+    "挖掘等級提升到黑曜石級",
+    "只能強化一次",
+    "太棒了!"
+  ],
+  "demoTool": [
+    "tconstruct:pickaxe",
+    "tconstruct:broadsword",
+    "tconstruct:shortbow",
+    "tconstruct:arrow"
+  ]
+}

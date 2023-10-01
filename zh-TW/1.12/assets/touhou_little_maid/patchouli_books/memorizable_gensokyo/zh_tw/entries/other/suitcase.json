@@ -1,13 +1,13 @@
 {
   "sortnum": 11,
-  "name": "行李箱",
+  "name": "Suitcase",
   "icon": "touhou_little_maid:suitcase",
   "category": "other",
   "pages": [
     {
       "type": "spotlight",
       "item": "touhou_little_maid:suitcase",
-      "text": "行李箱是能夠儲存物品的實體，女僕在接近行李箱時能夠攜帶它。Shift 右擊女僕移除行李箱。"
+      "text": "The suitcase is an entity that can store items. The maid can carry it when approaching the suitcase. Shift right-click the maid to remove the suitcase."
     }
   ]
 }

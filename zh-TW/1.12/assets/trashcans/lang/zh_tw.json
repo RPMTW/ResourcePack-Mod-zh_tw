@@ -6,7 +6,7 @@
     "trashcans.gui.item_trash_can.title": "物品垃圾桶",
     "trashcans.gui.item_trash_can.filter": "過濾器",
     "trashcans.gui.liquid_trash_can.title": "流體垃圾桶",
-    "trashcans.gui.liquid_trash_can.filter": "流體垃圾桶",
+    "trashcans.gui.liquid_trash_can.filter": "過濾器",
     "trashcans.gui.energy_trash_can.title": "能量垃圾桶",
     "trashcans.gui.energy_trash_can.limit": "傳輸上限",
     "trashcans.gui.energy_trash_can.limit.change1": "SHIFT %s",
@@ -22,5 +22,13 @@
     "trashcans.gui.whitelist.on": "白名單",
     "trashcans.gui.whitelist.off": "黑名單",
     "trashcans.gui.arrow.left": "減少能量上限",
-    "trashcans.gui.arrow.right": "增加能量上限"
+    "trashcans.gui.arrow.right": "增加能量上限",
+    "trashcans.advancement.trash_can.title": "Don't forget to recycle",
+    "trashcans.advancement.trash_can.description": "Craft a trash can",
+    "trashcans.advancement.ultimate_trash_can.title": "The Ultimate Trash Can",
+    "trashcans.advancement.ultimate_trash_can.description": "Craft an ultimate trash can",
+    "trashcans.item_trash_can.info": "可銷毀物品，並包含可篩選最多 9 種物品的過濾器",
+    "trashcans.liquid_trash_can.info": "可銷毀液體和氣體，並包含可篩選最多 9 種流體的過濾器",
+    "trashcans.energy_trash_can.info": "可銷毀能量，並限制能量傳輸速率",
+    "trashcans.ultimate_trash_can.info": "可銷毀物品、流體與能量"
 }

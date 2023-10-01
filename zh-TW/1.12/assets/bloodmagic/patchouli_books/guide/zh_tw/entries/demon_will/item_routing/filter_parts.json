@@ -1,0 +1,13 @@
+{
+  "name": "過濾器零件",
+  "icon": "bloodmagic:componentframeparts",
+  "category": "bloodmagic:demon_will/item_routing",
+  "pages": [
+    {
+      "type": "crafting_alchemy_table",
+      "heading": "過濾器零件",
+      "recipe": "bloodmagic:alchemytable/component_frame_parts",
+      "text": "$(item)過濾器零件$()是所有$(item)過濾器$()的組成零件。它自己是不能用的。"
+    }
+  ]
+}

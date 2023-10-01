@@ -1,16 +1,16 @@
 {
   "sortnum": 21,
-  "name": "可視化抽卡設定介面",
+  "name": "Draw Config Gui",
   "icon": "minecraft:writable_book",
   "category": "other",
   "pages": [
     {
       "type": "text",
-      "text": "伺服器資源包分發系統讓每個進服玩家都能強制安裝伺服器的額外女僕模型，配合上可視化的抽卡設定介面，我們就能非常快捷、簡便的限定女僕外觀模型的取得。"
+      "text": "The server-side resource pack distribution system allows every player who enters the server to forcibly install an additional maid model of the server. $(br2)With the visual drawing configuration gui, we can quickly and easily restrict the acquisition of maid skin models."
     },
     {
       "type": "text",
-      "text": "在你的客戶端模型完全與伺服器匹配後，並且伺服器開啟了「禁止變更女僕外觀」選項，你就可以通過 /draw gui 指令打開抽卡設定介面，設定介面會主動地從伺服器取得所有女僕模型數據。$(br2)而後你可以在其中快捷的修改獎池、權重。點擊按鈕進行保存，或者保存並重載。"
+      "text": "After your client model is fully matched with the server, and the server has turned on the option \"Cannot change maid skin\", you can open the draw configuration gui through the /draw gui command, and the configuration gui will actively get all the maids from the server model data.$(br2)Then you can quickly modify the pool and weight in it. Click the button to save, or save and reload."
     }
   ]
 }

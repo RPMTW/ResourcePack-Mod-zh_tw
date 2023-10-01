@@ -1,0 +1,30 @@
+{
+	"name": "減速器",
+	"icon": "qmd:decelerator_controller",
+	"category": "qmd:accelerators",
+	"sortnum": 4,
+	"pages": [
+		{
+			"type": "text",
+			"text": "減速器降低透過它的束流中粒子所攜的能量。這可被用於為$(l:containment_chambers/neutral_containment)電中性遏制器室$(/l)生成電中性物質。"
+		},
+		{
+			"title": "建造",
+			"type": "text",
+			"text": "減速器與$(l:accelerators/ring_accelerator#construction)同步加速器$(/l)的建造方式相同。僅有的值得說明的是減速器不能包含同步加速器埠，此外射頻腔之外的組件都無用處。"
+		},
+		{
+			"title": "粒子能量",
+			"type": "text",
+			"text": "減速器和其他$(l:accelerators/general)加速器$(/l)一樣需要能量和冷卻劑。通入粒子束流才可工作。可被通入的粒子所攜能量的最大值與同步加速器相同，取決於雙極磁鐵的強度$(l:accelerators/ring_accelerator#max_dipole)Eₓ=1000(qB₂R)²/(2m)$(/l)。"
+		},
+		{
+			"type": "text",
+			"text": "輸出粒子的能量取決於通向控制器的紅石訊號強度。紅石訊號最大（15點）時減少的能量接近零，小於1.0 keV。這被用於生成電中性反物質。減速器會令粒子獲得E=Eₓ(1-Sᵣ/15)的能量，其中Sᵣ為紅石訊號強度。"
+		},
+		{
+			"type": "text",
+			"text": "打個比方，如果我們擁有一個最大輸入能量為2 GeV的減速器，然後我們給控制器提供一個8點的紅石訊號，於是輸出粒子所攜的能量為2 GeV*(1-8/15)=933.33 MeV。$(bold)注意：$()如果輸入能量低於這個取決於最大輸入能量的既定能量大小，減速器不會為輸入的粒子充能（即不會提高粒子能量以使之等於目標能量）。"
+		}
+	]
+}

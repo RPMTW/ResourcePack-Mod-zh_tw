@@ -1,17 +1,17 @@
 {
   "sortnum": 7,
-  "name": "河童的羅盤",
+  "name": "Kappa Compass",
   "icon": "touhou_little_maid:kappa_compass",
   "category": "maid",
   "pages": [
     {
       "type": "spotlight",
       "item": "touhou_little_maid:kappa_compass",
-      "text": "羅盤是配合女僕的 Home 模式使用的，右擊方塊可以記錄坐標，而後右擊女僕可以為其設定坐標。"
+      "text": "The compass is used in conjunction with the maid's home mode. Right-clicking on a block records the coordinates, then right-clicking the maid can set coordinates for it."
     },
     {
       "type": "text",
-      "text": "羅盤擁有四個模式：$(br)$(li)單點模式：女僕會在設定坐標點內 16 格內活動$(li)多點折返：女僕會沿著設定的坐標來回移動$(li)多點閉合：女僕會沿著設定的坐標循環移動$(li)設定範圍：女僕只會在設定的範圍內活動"
+      "text": "Compass has 4 modes:$(br)$(li)Single point: The maid will move within 16 block within the set coordinates.$(li)Multi-point reentry: The maid will move back and forth along the set coordinates.$(li)Multi-point closure: The maid will move cyclically along the set coordinates.$(li)Set range: The maid will only move within the setting range."
     }
   ]
 }

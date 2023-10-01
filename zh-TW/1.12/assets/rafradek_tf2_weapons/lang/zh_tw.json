@@ -326,7 +326,7 @@
     "commands.resetbossstat.usage": "/resetbossstat <玩家>",
     "commands.resetbossstat.success": "已重置玩家 %s 的 Boss 等級進度",
     "commands.resetitemdata.usage": "/resetitemdata",
-    "commands.resetitemdata.success": "正在重載物品數據……",
+    "commands.resetitemdata.success": "正在重新載入物品數據……",
     "commands.giveweapon.usage": "/giveweapon <物品 | -a | -r>  [玩家] [attribute index:attribute value ...]",
     "commands.giveweapon.success": "將物品 %s 給予 %s",
     "commands.giveweapon.notfound": "無法找到該武器：%s",

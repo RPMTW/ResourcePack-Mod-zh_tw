@@ -1,0 +1,17 @@
+{
+  "name": "尖刺矩陣",
+  "icon": "minecraft:iron_ingot",
+  "category": "bloodmagic:alchemy_array/functional_array",
+  "pages": [
+    {
+      "type": "text",
+      "text": "尖刺矩陣，結構簡單，功能純粹。當一個有生命的實體踩在上面時，會被矩陣攻擊，並受到一顆心的傷害。這個矩陣會在搭建怪物陷阱的時候很有用，當然你也可以用來增強你基地的防禦，給那些來犯的玩家扎個爽。"
+    },
+    {
+      "type": "functional_array",
+      "heading": "尖刺矩陣",
+      "recipe": "bloodmagic:array/spike",
+      "image": "spikearray.png"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "充能一擊",
+  "icon": "minecraft:golden_axe",
+  "category": "bloodmagic:alchemy_array/living_equipment/armor_upgrades",
+  "pages": [
+    {
+      "type": "text",
+      "text": "效果：增加衝刺攻擊的傷害和擊退，最高+50%。 $(br2) 培育方式：於衝刺時攻擊產生傷害。 $(br2)最高等級：5"
+    },
+    {
+      "type": "bloodmagic:living_armour_upgrade_table",
+      "upgrade": "bloodmagic:sprint_attack"
+    }
+  ]
+}

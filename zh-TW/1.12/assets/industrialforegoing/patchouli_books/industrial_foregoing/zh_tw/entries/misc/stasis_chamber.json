@@ -1,0 +1,17 @@
+{
+  "name": "冷凝室",
+  "icon": "industrialforegoing:stasis_chamber",
+  "category": "misc",
+  "sortnum": 5,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "當給予電力時，這臺機器將會$(6)緩速$()和$(6)治癒$()其工作區域的任何生物。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:stasis_chamber"
+    }
+  ]
+}

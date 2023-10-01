@@ -1,0 +1,10 @@
+The Clockworks is a large device weighing several tons and covering an area of eighteen square meters,
+ consisting of screw drives, belts, pulleys, gears, springs and other clockwork. It has an ability to convert items into
+ different ones depending on the setting set in the control panel ("Rough", "Coarse", "One to one", "Fine", "Very fine").
+ Usage: the input item goes to the left hole of Clockworks; operation mode can be changed in the Panel block in the
+  middle; pressing "Activate" will start the process if there is a matching clockworks recipe, otherwise the input will
+  be ejected back from the hole; when process is finished, output item will be ejected from the right hole.
+ Clockworks is also able to repair damaged items.
+ You can find out all recipes by enabling appropriate option in the mod settings. Also you can disable original recipes,
+ and add custom ones. Adding recipes is done in the file "SCP-914 recipes.cfg", where the recipe format is described
+ briefly.

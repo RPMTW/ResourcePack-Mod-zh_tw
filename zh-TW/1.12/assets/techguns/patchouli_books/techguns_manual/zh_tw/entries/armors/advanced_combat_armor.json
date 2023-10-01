@@ -5,7 +5,7 @@
     "pages": [
         {
             "type": "text",
-            "text": "等級三的《先進戰鬥裝》設計用於戰鬥， 其屬性為$(l:armors/combat_armor)《戰鬥裝》$(/l)的升級， 還能升級成$(l:armors/exosuit)《動力裝》$(/l)。"
+            "text": "等級三的《先進戰鬥裝》設計用於戰鬥，其屬性為$(l:armors/combat_armor)《戰鬥裝》$(/l)的升級，還能升級成$(l:armors/exosuit)《動力裝》$(/l)。"
         },
         {
             "type": "entity",

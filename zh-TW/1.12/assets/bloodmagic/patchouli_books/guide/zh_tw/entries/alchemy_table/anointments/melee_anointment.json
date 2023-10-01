@@ -1,0 +1,25 @@
+{
+  "name": "磨刀油",
+  "icon": "bloodmagic:melee_anointment",
+  "category": "bloodmagic:alchemy_table/anointments",
+  "pages": [
+    {
+      "type": "crafting_alchemy_table",
+      "heading": "磨刀油",
+      "recipe": "bloodmagic:alchemytable/melee_damage_anointment",
+      "text": "暫時提高造成的近戰傷害 +3。$(br2)有效物品：工具、劍。$(br2)適用：磨刀石I（256次點擊）"
+    },
+    {
+      "type": "crafting_alchemy_table",
+      "heading": "磨刀油L",
+      "recipe": "bloodmagic:alchemytable/melee_damage_anointment_l",
+      "text": "這個升級版的藥水膏持續時間延長了四倍。$(br2)適用：磨刀石I(1024次命中)"
+    },
+    {
+      "type": "crafting_alchemy_table",
+      "heading": "磨刀油II",
+      "recipe": "bloodmagic:alchemytable/melee_damage_anointment_2",
+      "text": "這個升級版的藥水膏提高造成的近戰傷害 +6。$(br2)適用：磨刀石II(256次命中)"
+    }
+  ]
+}

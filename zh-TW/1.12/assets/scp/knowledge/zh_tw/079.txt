@@ -1,0 +1,5 @@
+Old AI
+
+This is a computer which can mess with redstone-aware blocks - it can activate and deactivate them within a
+specified range. The range can be set in its GUI; it can be between 1 and 50. When in "on" state, Old AI will pick a
+random position within that range, and if there is a suitable block at that position, it will toggle its state.

@@ -1,0 +1,39 @@
+{
+  "name": "結晶化意志",
+  "icon": "bloodmagic:defaultcrystal",
+  "category": "bloodmagic:demon_will/will_manipulation",
+  "extra_recipe_mappings": [
+    [
+      "bloodmagic:demoncrucible",
+      1
+    ],
+    [
+      "bloodmagic:demoncrystallizer",
+      1
+    ],
+    [
+      "bloodmagic:rawdemoncrystal",
+      4
+    ],
+    [
+      "bloodmagic:defaultcrystal",
+      4
+    ]
+  ],
+  "pages": [
+    {
+      "type": "text",
+      "text": "既然現在您的$(l:bloodmagic:demon_will/will_manipulation/soul_gem)地獄魂石$()中有大量的$(l:bloodmagic:demon_will/will_manipulation/demon_will)惡魔意志$()，現在是時候探索當您將其釋放到世界上時會發生什麼。$(br2)首先，你需要從$(l:bloodmagic:demon_will/will_manipulation/aura)靈域$()中獲取$(raw)意志$()。接下來，你需要創造一個$(thing)惡魔結晶壇$()。"
+    },
+    {
+      "type": "crafting_soulforge",
+      "heading": "惡魔結晶壇",
+      "recipe": "bloodmagic:soulforge/demon_crystallizer",
+      "text": "這將慢慢消耗大氣中的$(l:bloodmagic:demon_will/will_manipulation/demon_will)惡魔意志$()以產生$(item)意志晶體$()。第一個尖塔消耗大約100點$(raw)意志$()形成，隨後的尖塔每個消耗40點，但可以在$(item)惡魔坩堝$()中燃燒50點。最大的$(item)水晶簇$()最多可以有7個尖塔。"
+    },
+    {
+      "type": "text",
+      "text": "如果您的物品欄中至少有1,000個$(raw)意志$()（或是任意數量的$(l:bloodmagic:demon_will/will_manipulation/soul_gem)地獄魂石$()），您可以通過空手右擊晶簇來收集這些晶體。這能夠摘下除中央外的所有晶體。$(br2)然而，如果你的$(raw)意志不夠$()，還是$(italic)非常$()需要中間那個水晶簇，或者只是趕時間，你可以用鎬一次挖下它們全部。"
+    }
+  ]
+}

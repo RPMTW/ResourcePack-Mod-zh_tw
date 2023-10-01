@@ -1,0 +1,13 @@
+{
+  "name": "無限發射器",
+  "icon": "industrialforegoing:infinity_launcher",
+  "category": "tools",
+  "sortnum": 3,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "無限發射器是一種讓您可以捕捉或釋放生物的工具。在GUI中選擇模式並啟動無限發射器時，你將可以在庫存中使用MIT來釋放或捕捉暴徒。"
+    }
+  ]
+}

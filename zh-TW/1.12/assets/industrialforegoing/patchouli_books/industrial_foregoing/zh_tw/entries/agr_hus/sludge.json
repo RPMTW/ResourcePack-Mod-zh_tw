@@ -1,0 +1,13 @@
+{
+  "name": "汙水桶",
+  "icon": "industrialforegoing:sludge_bucket",
+  "category": "agriculture_husbandry",
+  "sortnum": 2,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "由$(l:agr_hus/plant_gatherer)收割機$()所產生的一種液體，可以用於$(l:resource_production/sludge_refiner)汙泥精煉機$()中。"
+    }
+  ]
+}

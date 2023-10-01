@@ -1,0 +1,7 @@
+[
+  "普通電纜限制為500個NE/tick。這可能無法滿足某些情況的需求。所以我用更好的導體材料和額外的氖元素層改進了它。這種先進的電纜每tick能夠傳輸高達1000NE的能量。",
+  "合成:",
+  {
+    "link": "fp:lang/part/crafting_log.supercable.json"
+  }
+]

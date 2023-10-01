@@ -1,0 +1,15 @@
+{
+  "name": "獄火熔爐",
+  "icon": "bloodmagic:soulforge",
+  "category": "bloodmagic:demon_will/will_manipulation",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(item)獄火熔爐$()與$(l:bloodmagic:altar/blood_altar)血之祭壇$(/l)一樣，是$(blood)血魔法$()的製作核心之一。在這裡，您可以使用從怪物身上收穫的$(l:bloodmagic:demon_will/will_manipulation/demon_will)惡魔意志$()來製作$(l:bloodmagic:demon_will/demonic_items/sentient_tools)感知工具$()，包括$(l:bloodmagic:demon_will/demonic_items/sentient_sword)感知之劍$(), $(l:bloodmagic:demon_will/will_manipulation/soul_gem)地獄魂石$(), 各種$(item)試劑$(),$(l:bloodmagic:alchemy_array/functional_arrays/arcane_ash)奧術粉灰$()，以及其他許多東西。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "bloodmagic:soul_forge"
+    }
+  ]
+}

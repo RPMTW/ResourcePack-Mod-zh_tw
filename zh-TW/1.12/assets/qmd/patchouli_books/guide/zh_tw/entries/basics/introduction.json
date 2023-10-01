@@ -1,0 +1,16 @@
+{
+	"name": "介紹",
+	"icon": "QMD:source:2",
+	"category": "qmd:basics",
+	"sortnum": 0,
+	"pages": [
+		{
+			"type": "text",
+			"text": "[QMD]量子塊動力學是[NC/NCO]核電工藝的附屬模組。本模組加入了粒子加速器和其他一些高科技/科幻內容，其中核心概念由現實中的粒子物理學轉化得來。除非遊戲體驗不允許，本模組儘可能地做到了符合現實。"
+		},
+		{
+			"type": "text",
+			"text": "This guide will $(l)not$() cover the details of various pieces of information such as recipes, component stats and placement rules, as they can vary between different configuration settings, in particular different mod packs. They will instead be shown in JEI and the tooltips of the relevant items and blocks.$(br)This guide has been made to be user friendly with $(l)direct links$() to relevant information on many pages, so no need to search through whole sections for one bit of info."
+		}
+	]
+}

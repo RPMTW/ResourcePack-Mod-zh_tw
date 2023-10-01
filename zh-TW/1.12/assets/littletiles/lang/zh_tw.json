@@ -1,7 +1,7 @@
 {
     "item.LTHammer.name": "錘子",
     "item.LTMultiTiles.name": "複合結構",
-    "item.LTRecipe.name": "配方圖紙",
+    "item.LTRecipe.name": "小型配方",
     "item.LTSaw.name": "鋸子",
     "item.LTContainer.name": "收納容器",
     "item.LTWrench.name": "扳手",
@@ -291,5 +291,6 @@
     "littletiles.colortube.tooltip": "%s\\n'%s' to pick color\\nHold 'CTRL' to place more points\\n'%s' to mark the position\\n'%s' to configure tool\\n'%s' to configure grid size and filter",
     "littletiles.recipeadvanced.tooltip": "'%s' first position\\n'%s' second position\\n'%s' pick shape/ structure\\n'%s' confirm/ configure selection",
     "littletiles.saw.tooltip": "'%s' extend tile\\n'%s' shrink tile\\nHold 'CTRL' to go further",
-    "littletiles.screwdriver.tooltip": "'%s' first position\\n'%s' second position\\n'%s' modify selection"
+    "littletiles.screwdriver.tooltip": "'%s' first position\\n'%s' second position\\n'%s' modify selection",
+    "exception.permission.recipe.size": "Recipe area is too large (maximum %s blocks allowed)"
 }

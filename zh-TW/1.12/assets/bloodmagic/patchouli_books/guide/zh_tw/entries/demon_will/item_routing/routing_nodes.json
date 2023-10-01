@@ -1,0 +1,86 @@
+{
+  "name": "路由節點",
+  "icon": "bloodmagic:masterroutingnode",
+  "category": "bloodmagic:demon_will/item_routing",
+  "priority": "是",
+  "pages": [
+    {
+      "type": "text",
+      "text": "手工搬運物品對某些人來說可能沒問題，但我們是血魔法師。更重要的是，我們可以使用$(raw)惡魔意志$()！當然有更好的方法來處理事情。$(br2)因此，您已經設法製造出了$(thing)路由節點$()。這提供了一種強大的方式來運輸、分類和過濾物品，在您下令時神奇地將它們發送到空氣中。"
+    },
+    {
+      "type": "text",
+      "text": "$(thing)路由節點網路$()有3個主要組件：$(item)輸入節點$()、$(item)輸出節點$()和$(item)主控路由節點$()。$(br2)每個網路都需要正好有1個$(item)主控路由節點$()，並且網路中的每個其他節點都必須能夠直接或通過其他節點間接連接主控路由節點。$(br2)輸入和輸出節點可以分別從具有儲存功能的方塊中取出或放入物品。"
+    },
+    {
+      "type": "crafting_soulforge",
+      "heading": "主控路由節點",
+      "recipe": "bloodmagic:soulforge/master_routing_node",
+      "text": "主控路由節點將來將能夠接受升級，但目前它僅用於控制和指導網路，充當其\"大腦\"。"
+    },
+    {
+      "type": "text",
+      "text": "$(item)主控路由節點$()一切都很好，但沒有其他兩種節點類型，它本身並不是特別有用，所以讓我們繼續下一步。$(br2)$(item)輸入路由節點$()將物品輸入網路，$(item)輸出路由節點$()再次將它們導出，而普通的$(item)路由節點$()用於擴大您的網路覆蓋範圍。由於輸入和輸出節點目前在其他方面是相同的，除非另有說明，否則我們將重點關注輸入路由節點。"
+    },
+    {
+      "type": "crafting_soulforge",
+      "heading": "路由節點",
+      "recipe": "bloodmagic:soulforge/routing_node",
+      "text": "它本身不會做很多事情，但可用於將$(thing)路由網路$()擴展到單個連接的16個方塊範圍之外。"
+    },
+    {
+      "type": "2x_crafting_soulforge",
+      "a.heading": "輸入路由節點",
+      "a.recipe": "bloodmagic:soulforge/input_routing_node",
+      "b.heading": "輸出路由節點",
+      "b.recipe": "bloodmagic:soulforge/output_routing_node"
+    },
+    {
+      "type": "text",
+      "text": "當你放置一個輸入或輸出節點時，它會自動連接到$(thing)所有相鄰的容器$()，但如果沒有任何一種$(item)過濾器$()在至少其中一側的插槽，它就不會運作。例如，您可以將輸出節點放置在$(item)熔爐$()上使用$(l:bloodmagic:demon_will/item_routing/standard_item_filter)標準過濾器$()，過濾設定成$(item)鐵礦$()，第二個輸出節點放置在熔爐側邊，過濾設定成煤炭，下方的輸入節點設定成鐵錠。"
+    },
+    {
+      "type": "image",
+      "images": [
+        "bloodmagic:images/entries/routing/node_demo.png"
+      ],
+      "border": true,
+      "text": "在世界中的輸出節點。"
+    },
+    {
+      "type": "image",
+      "images": [
+        "bloodmagic:images/entries/routing/node_gui_right.png"
+      ],
+      "border": true,
+      "text": "設定好節點后，讓我們打開節點的設定介面。"
+    },
+    {
+      "type": "text",
+      "text": "在右邊，我們有基本的方向-$(bold)下$()、$(bold)上$()、$(bold)北$()、$(bold)南$()、$(bold)西$()和$(bold)東$()。您會注意到一些按鈕上出現了一個圖片，這代表著節點那一側旁邊的方塊。介面開啟時將優先顯示面向容器的一側，如果周遭沒有容器，則預設優先顯示下側。按鈕本身顯示的方向與玩家當下面對的方向相同。"
+    },
+    {
+      "type": "image",
+      "images": [
+        "bloodmagic:images/entries/routing/node_gui_left.png"
+      ],
+      "border": true
+    },
+    {
+      "type": "text",
+      "text": "在左側，您將看到一個空格，供我們插入所選之側的過濾器和決定優先順序。更大的數字=更優先。$(br2)節點可以每一側都各裝一個過濾器-因此我們可自由選擇所需的一側，並將過濾器放入其中。（有關過濾器的更多資訊，請參閱各個過濾器的頁面）"
+    },
+    {
+      "type": "text",
+      "text": "設定好輸入和輸出節點後，在$(l:bloodmagic:demon_will/item_routing/node_router)路由節點$()的幫助下將其連結在一起，若該網路中恰好包含一個$(item)主控路由節點$()，並且都將物品過濾器插入到正確的一側，您應該很高興！物品將根據優先度和過濾器中包含的規則進行傳輸。"
+    },
+    {
+      "type": "image",
+      "images": [
+        "bloodmagic:images/entries/routing/network_demo.png"
+      ],
+      "border": true,
+      "text": "節點不必直接連結到$(item)主控路由節點$()，只需連結到網路上的任何節點即可。"
+    }
+  ]
+}

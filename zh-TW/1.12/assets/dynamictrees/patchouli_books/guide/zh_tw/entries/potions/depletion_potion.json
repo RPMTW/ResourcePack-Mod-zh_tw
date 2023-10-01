@@ -1,0 +1,29 @@
+{
+    "name": "枯竭藥水",
+    "icon": "dynamictrees:dendro_potion{potion_index:1}",
+    "category": "藥水",
+    "sortnum": "2",
+    "pages": [
+        {
+            "type": "brewing",
+            "title": "枯竭藥水",
+            "ingredient": "minecraft:slime_ball",
+            "bottle": "dynamictrees:dendro_potion",
+            "output": "dynamictrees:dendro_potion{potion_index:1}",
+            "text": "這種藥水會枯竭土壤並導致樹木停止生長。"
+        },
+        {
+            "type": "relations",
+            "title": "關係",
+            "entries": [
+                "potions/base_potion",
+                "potions/burgeoning_potion",
+                "potions/fertility_potion",
+                "potions/gigas_potion",
+                "potions/persistance_potion",
+                "potions/base_transformation_potion",
+                "potions/transformation_potion"
+            ]
+        }
+    ]
+}

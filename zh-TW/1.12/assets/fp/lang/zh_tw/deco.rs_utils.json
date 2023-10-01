@@ -1,0 +1,16 @@
+[
+  "我設計了一些有用的紅石組件。",
+  "控制桿:",
+  {
+    "link": "fp:lang/part/crafting_deco.rs_utils.json"
+  },
+  "按鈕:",
+  {
+    "link": "fp:lang/part/crafting_deco.rs_utils2.json"
+  },
+  "紅石鐘:",
+  {
+    "link": "fp:lang/part/crafting_deco.rs_utils3.json"
+  },
+  "間隔時間可透過GUI設定。"
+]

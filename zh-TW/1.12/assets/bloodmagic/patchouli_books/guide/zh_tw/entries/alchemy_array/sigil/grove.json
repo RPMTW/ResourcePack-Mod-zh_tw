@@ -1,0 +1,38 @@
+{
+  "name": "綠叢印記",
+  "icon": "bloodmagic:growthsigil",
+  "category": "bloodmagic:alchemy_array/sigil",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(item)綠叢印記$()有數次使用次數。在煉金矩陣中依次放入$(item)促生試劑$(item)和$(item)強化石板$()，便可以製作出綠叢印記了。此印記可以使用你$(thing)靈魂網路$()中的 $(blood)LP$() 來促進周圍植物的生長。"
+    },
+    {
+      "type": "crafting_2-step_sigil",
+      "alchemy_table.heading": "Growth Reagent",
+      "alchemy_table.recipe": "bloodmagic:alchemytable/reagent_growth",
+      "array.heading": "Sigil of the Green Grove",
+      "array.recipe": "bloodmagic:array/growthsigil"
+    },
+    {
+      "type": "image",
+      "images": [
+        "bloodmagic:images/entries/sigil/grove_sigil1.png",
+        "bloodmagic:images/entries/sigil/grove_sigil2.png",
+        "bloodmagic:images/entries/sigil/grove_sigil3.png"
+      ],
+      "title": "綠叢印記矩陣",
+      "border": true,
+      "text": "綠叢印記與它的用途"
+    },
+    {
+      "type": "text",
+      "text": "如果你在$(2)草地$()上按右鍵，它會消耗 150LP \n產生骨粉的效果。$(br2)但是，如果您按住Shift在空中右鍵印記，\n印記將亮起以表明它已被啟動，它將會每 10 秒消耗 150LP\n以玩家為中心 7x7x5 區域中的每個方塊都將套用一個增長刻度。\n適合種那些馬鈴薯！"
+    },
+    {
+      "type": "text",
+      "flag": "mod:curios",
+      "text": "As you have the $(thing)Curios API$() installed, you can equip this $(item)Sigil$() as a charm. If you want to wear more curios at once, consider using a $(l:bloodmagic:alchemy_array/sigil/holding)Sigil of Holding$(), or the $(l:bloodmagic:alchemy_array/living_equipment/armor_upgrades/curios_sockets)Socketed Upgrade$() for your $(l:bloodmagic:alchemy_array/living_equipment/living_basics)Living Armour$()."
+    }
+  ]
+}

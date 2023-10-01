@@ -1,0 +1,15 @@
+{
+  "name": "健康",
+  "icon": "minecraft:golden_apple",
+  "category": "bloodmagic:alchemy_array/living_equipment/armor_upgrades",
+  "pages": [
+    {
+      "type": "text",
+      "text": "效果：提供額外的生命值，最多 50 個半心。 $(br2)培育方式：恢復健康(普通治療，或通過$(item)治療藥水$()或$(item)再生藥水$()。$(br2)最高等級：10"
+    },
+    {
+      "type": "bloodmagic:living_armour_upgrade_table",
+      "upgrade": "bloodmagic:health"
+    }
+  ]
+}

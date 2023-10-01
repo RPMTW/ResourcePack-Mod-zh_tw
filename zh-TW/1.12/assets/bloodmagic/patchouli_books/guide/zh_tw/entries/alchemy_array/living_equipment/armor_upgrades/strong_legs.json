@@ -1,0 +1,15 @@
+{
+  "name": "結實雙腿",
+  "icon": "minecraft:diamond_leggings",
+  "category": "bloodmagic:alchemy_array/living_equipment/armor_upgrades",
+  "pages": [
+    {
+      "type": "text",
+      "text": "效果：增加跳躍高度並減少墜落損傷，最多可增加 7.5 格高和 83% 的阻力。$(br2)培育方式：跳來跳去。$(br2)最高級別： 10"
+    },
+    {
+      "type": "bloodmagic:living_armour_upgrade_table",
+      "upgrade": "bloodmagic:jump"
+    }
+  ]
+}

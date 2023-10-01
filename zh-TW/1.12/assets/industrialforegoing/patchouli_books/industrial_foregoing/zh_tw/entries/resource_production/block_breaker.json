@@ -1,0 +1,17 @@
+{
+  "name": "方塊破壞器",
+  "icon": "industrialforegoing:block_breaker",
+  "category": "resource_production",
+  "sortnum": 2,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "破壞前方的任何方塊，並將其放入內部庫存中，每項操作消耗$(6)1000$()RF。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:block_breaker"
+    }
+  ]
+}

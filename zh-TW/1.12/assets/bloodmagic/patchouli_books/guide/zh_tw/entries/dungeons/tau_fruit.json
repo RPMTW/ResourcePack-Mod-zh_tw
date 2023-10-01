@@ -1,0 +1,33 @@
+{
+  "name": "血命果",
+  "icon": "bloodmagic:weak_tau",
+  "category": "bloodmagic:dungeons",
+  "extra_recipe_mappings": [
+    [
+      "bloodmagic:weak_tau",
+      0
+    ]
+  ],
+  "pages": [
+    {
+      "type": "text",
+      "text": "你可以在$(l:bloodmagic:dungeons/lobby)簡易地牢$()中找到血命果，找到後，你便可以像種其他作物那樣種植它。血命果原生於$(thing)惡魔領域$()，遺憾的是，它的生命週期和你田裡不起眼的$(item)馬鈴薯$()相比要稍微複雜一些。$(br2)成熟血命果有兩種變種，最終長成哪種取決於它的生長條件。通常情況下，它會生長為$(item)血命果$()，這種果實可以用於製作$(item)血命油$()。"
+    },
+    {
+      "type": "crafting_alchemy_table",
+      "heading": "血命油",
+      "recipe": "bloodmagic:alchemytable/tau_oil",
+      "text": "$(italic)忽略兩者區別的話，嘗起來挺像血橙的。$()"
+    },
+    {
+      "type": "text",
+      "text": "血命油目前有兩種主要用法。首先，它可以將任何$(l:bloodmagic:alchemy_table/anointments)塗物$()的使用次數增加到原先的 4 倍；又或者用它來製作$(item)中級切削油$()，這種切削油與$(l:bloodmagic:utility/alchemical_reaction_chamber#basic_cutting_fluid)基礎切削油$()效用類似，但能夠使用 8 次，並且還能提升 25% 的合成速度。"
+    },
+    {
+      "type": "spotlight",
+      "item": "bloodmagic:strong_tau",
+      "link_recipe": "true",
+      "text": "然而，$(item)血命果$()還有另一種生長方式，這種方式更具挑戰性。如果血命果作物在成熟時有$(thing)生物$()（比如說，牛）站在它的上方，它便會吸取它們的生命，用於滿足它們的暗黑食慾。在這種情況下，血命果會長為$(item)飽滿血命果$()。"
+    }
+  ]
+}

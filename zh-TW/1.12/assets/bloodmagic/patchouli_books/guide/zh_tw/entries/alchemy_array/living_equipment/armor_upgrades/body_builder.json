@@ -1,0 +1,15 @@
+{
+  "name": "強健體魄",
+  "icon": "minecraft:cooked_beef",
+  "category": "bloodmagic:alchemy_array/living_equipment/armor_upgrades",
+  "pages": [
+    {
+      "type": "text",
+      "text": "效果：提供擊退抗性和額外生命值。上限為 100% 抗性和 10 個半心生命值。$(br2) 培育方式：進食。$(br2)最高等級：5"
+    },
+    {
+      "type": "bloodmagic:living_armour_upgrade_table",
+      "upgrade": "bloodmagic:knockback_resist"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "modifier": "ref_shulker_pearl",
+  "text": [
+    {
+      "text": "哦，閃亮的珍珠!"
+    }
+  ],
+  "effects": [
+    "移除懸浮",
+    "只能強化一次"
+  ],
+  "demoTool": [
+    "tconstruct:broadsword",
+    "tconstruct:shuriken",
+    "tinkers_reforged:gladius"
+  ]
+}

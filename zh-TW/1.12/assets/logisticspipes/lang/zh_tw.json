@@ -476,5 +476,6 @@
     "top.logisticspipes.pipe.firewall.allowed": "$GREENallowed$WHITE",
     "top.logisticspipes.pipe.firewall.blocked": "$REDblocked$WHITE",
     "top.logisticspipes.pipe.unrouted.too_many_connections": "Unrouted pipes $REDshould not$RESET have more than 2 connections!",
-    "top.logisticspipes.pipe.chassis.no_modules": "$REDNo modules installed."
+    "top.logisticspipes.pipe.chassis.no_modules": "$REDNo modules installed.",
+    "gui.providerpipe.ExcessInventory": "Excess Inventory:"
 }

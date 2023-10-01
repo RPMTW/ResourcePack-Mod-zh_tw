@@ -1,0 +1,17 @@
+{
+  "name": "Potato Jetpack",
+  "icon": "simplyjetpacks:jetpack_potato",
+  "category": "simplyjetpacks:simplyjetpacks",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "This is the Potato Jetpack."
+    },
+    {
+      "type": "crafting",
+      "recipe": "simplyjetpacks:sj/jetpack_potato",
+      "text": "This is a test entry, but it should show up!"
+    }
+  ]
+}

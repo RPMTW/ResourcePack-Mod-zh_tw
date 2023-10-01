@@ -64,13 +64,13 @@
     "potion.effect.decay": "衰變",
     "potion.effect.ender_sight": "終界浸染",
     "splash_potion.effect.coffee": "飛濺 興奮藥水",
-    "splash_potion.effect.decay": "飛濺 腐蝕藥水",
+    "splash_potion.effect.decay": "Splash Potion of Decay",
     "splash_potion.effect.ender_sight": "飛濺 終界浸染藥水",
     "tipped_arrow.effect.coffee": "興奮之箭",
-    "tipped_arrow.effect.decay": "腐蝕之箭",
+    "tipped_arrow.effect.decay": "Arrow of Decay",
     "tipped_arrow.effect.ender_sight": "終界浸染之箭",
     "lingering_potion.effect.coffee": "滯留 興奮藥水",
-    "lingering_potion.effect.decay": "滯留 腐蝕藥水",
+    "lingering_potion.effect.decay": "Lingering Potion of Decay",
     "lingering_potion.effect.ender_sight": "滯留 終界浸染藥水",
     "entity.charm:spectre.name": "幽靈",
     "charm.enchantment.clumsiness_curse": "笨拙詛咒",
@@ -195,5 +195,5 @@
     "charm.jei.flavoredcake.desc": "將一瓶時效為8分鐘的藥水右擊一個蛋糕來製作一個藥水蛋糕，食用藥水蛋糕將獲得對應的藥水效果。",
     "charm.jei.boundcompass.desc": "手持該羅盤右擊可以綁定一個坐標，之後該羅盤將永遠指向這個坐標的方向。\\n可以在鐵砧中與一個鐵錠鍛造以消除坐標綁定。",
     "charm.jei.crates.desc": "可以在鐵砧中與一個鐵錠鍛造將其密封，密封放置該板條箱後想要取出裡面的物品的唯一方法就是將它破壞。",
-    "charm.jei.moonstone.desc": "月之石英可以shift右擊一個方塊以綁定一個坐標。\\n當你再次來到這個綁定的坐標時，此月之石英會發出光芒。（在不同維度的同一坐標都可以生效）\\n可以用作諸如對比地獄傳送門的位置坐標等。"
+    "charm.jei.moonstone.desc": "月之石英可以shift右擊一個方塊以綁定一個坐標。\\n當你再次來到這個綁定的坐標時，此月之石英會發出光芒。（在不同次元的同一坐標都可以生效）\\n可以用作諸如對比地獄傳送門的位置坐標等。"
 }

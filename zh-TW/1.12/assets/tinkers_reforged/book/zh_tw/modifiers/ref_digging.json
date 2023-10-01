@@ -1,0 +1,17 @@
+{
+  "modifier": "ref_digging",
+  "text": [
+    {
+      "text": "挖掘更多!"
+    }
+  ],
+  "effects": [
+    "提高挖礦速度。",
+    "多個等級。"
+  ],
+  "demoTool": [
+    "tconstruct:pickaxe",
+    "tconstruct:shovel",
+    "tconstruct:hatchet"
+  ]
+}

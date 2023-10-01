@@ -1,0 +1,15 @@
+{
+  "name": "鐵布衫",
+  "icon": "minecraft:shield",
+  "category": "bloodmagic:alchemy_array/living_equipment/armor_upgrades",
+  "pages": [
+    {
+      "type": "text",
+      "text": "效果：降低來自非投射物的傷害。$(br2)培育方式：承受除了投射物及藥水以外的傷害。$(br2)最高級別： 10"
+    },
+    {
+      "type": "bloodmagic:living_armour_upgrade_table",
+      "upgrade": "bloodmagic:physical_protect"
+    }
+  ]
+}

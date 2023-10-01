@@ -1,0 +1,16 @@
+{
+  "modifier": "ender_star",
+  "text": [
+    {
+      "text": "你打不到凋零頭顱嗎？麼這個強化是為你準備的！"
+    }
+  ],
+  "effects": [
+    "生物和動物有50%的機會掉落凋零頭顱。可受到幸運強化加成。",
+    "只能強化一次"
+  ],
+  "demoTool": [
+    "tconstruct:broadsword",
+    "tconstruct:shuriken"
+  ]
+}

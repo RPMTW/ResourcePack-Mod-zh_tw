@@ -1,0 +1,50 @@
+{
+  "name": "惡魔靈域",
+  "icon": "bloodmagic:demoncrucible",
+  "category": "bloodmagic:demon_will/will_manipulation",
+  "pages": [
+    {
+      "type": "text",
+      "text": "正如我們所$(l:bloodmagic:demon_will/will_manipulation/demon_will)確定$()的，$(raw)惡魔意志$()會凝聚在某些生物周圍，並以邪惡的力量推動它們。然而，這並不是$(raw)意志$()唯一可以存在的地方。通過在$(item)惡魔坩堝$()中燃燒$(raw)意志$()，可以將意志釋放到$(thing)靈域$()中，從而達到偉大而迷人的效果。"
+    },
+    {
+      "type": "crafting_soulforge",
+      "heading": "惡魔坩堝",
+      "recipe": "bloodmagic:soulforge/demon_crucible",
+      "text": "將蘊含意志的$(l:bloodmagic:demon_will/will_manipulation/soul_gem)地獄魂石$()或任何$(item)惡魔意志$()或$(item)惡魔晶體$()放入其中並讓它運行。一旦$(raw)意志$()低於50，區塊內將會消耗一個$(item)晶體$()，而$(raw)惡魔意志$()（以物品形式或來自$(item)地獄魂石$()）將根據需要一次消耗一點。"
+    },
+    {
+      "type": "image",
+      "images": [
+        "bloodmagic:images/entries/demon_will/demon_crucible.png"
+      ],
+      "title": "惡魔坩堝",
+      "border": true,
+      "text": "$(item)惡魔坩堝$()，裡面有一顆$(l:bloodmagic:demon_will/will_manipulation/soul_gem)地獄魂石$()。"
+    },
+    {
+      "type": "text",
+      "text": "現在我們的大氣中有了$(raw)原生意志$()。太好了，現在呢？$(br2)一些$(thing)儀式$()貌似能從$(raw)原生意志$()中$(l:bloodmagic:rituals/ritual_tinkerer)受益$()，但由此帶來的主要好處是能夠創造$(item)惡魔意志水晶$()，然後從那裡將它們分成不同的$(l:bloodmagic:demon_will/will_manipulation/aspected_will)種類$()。$(br2) 一旦你獲得了$(item)意志晶體$()，你就可以將它們放入$(item)坩堝$()中燃燒，將它們釋放到$(thing)大氣$()中，讓你的儀式從中受益。"
+    },
+    {
+      "type": "text",
+      "text": "需要注意的一些要點：首先，$(thing)靈域$()是以chunk來為標準的。也就是說，您燃燒的任何$(raw)意志$()都會填入您燃燒它所在的chunk，每種類型的總上限為100。您可以使用$(l:bloodmagic:demon_will/will_manipulation/aura_gauge)惡魔意志測量儀$()來衡量這一點。$(br2)目前，沒有辦法將$(raw)意志$()從一個chunk轉移到另一個chunk，所以你最好以物品的形式轉移它——無論是作為$(item)結晶化意志$()還是通過填充和清空$(l:bloodmagic:demon_will/will_manipulation/soul_gem)地獄魂石$()。"
+    },
+    {
+      "type": "text",
+      "text": "說到$(l:bloodmagic:demon_will/will_manipulation/soul_gem)地獄魂石$()，將一個放入$(l:bloodmagic:demon_will/will_manipulation/soul_forge)獄火熔爐$()會使其快速吸收其所在chunk中的$(raw)意志$()。$(br2)如果chunk中有任何一種$(raw)意志$()，例如$(raw)原生$()或是$(corrosive)腐蝕$()，以及一個空的$(item)地獄魂石$()，則可以將其填充為該種類的。$(br2)相應地這讓您可以修改您的$(l:bloodmagic:demon_will/demonic_items/sentient_tools)感知工具$()和$(l:bloodmagic:demon_will/demonic_items/sentient_sword)劍$()。$(l:bloodmagic:demon_will/will_manipulation/aspected_will#sentient_aspects)此處$()有效果說明。"
+    },
+    {
+      "type": "relations",
+      "title": "Related Links",
+      "entries": [
+        "rituals/ritual_tinkerer",
+        "demon_will/crystallized_will",
+        "demon_will/aspected_will",
+        "rituals/ritual_list/ritual_crystal_split",
+        "rituals/ritual_list/ritual_crystal_harvest"
+      ],
+      "text": "我還能做的更多，我能感覺得到..."
+    }
+  ]
+}

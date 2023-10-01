@@ -1,0 +1,20 @@
+{
+  "name": "經驗手冊",
+  "icon": "bloodmagic:experiencebook",
+  "category": "bloodmagic:utility",
+  "pages": [
+    {
+      "type": "text",
+      "text": "這本$(item)經驗手冊$()可讓你安全的儲存$(thing)經驗質$()。$(br2)按[$(k:sneak)]+[$(k:use)]$(thing)儲存一等經驗$()。按[$(k:use)]$(thing)取出一等經驗$()。按住右鍵以$(thing)儲存/取出多等經驗$()。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "bloodmagic:experience_tome"
+    },
+    {
+      "type": "text",
+      "flag": "mod:curios",
+      "text": "如果您安裝了$(thing)Curios API$()，您可以將$(item)經驗手冊$()作為符咒裝備。如果您想一次佩戴更多飾品，請考慮為您的$(l:bloodmagic:alchemy_array/living_equipment/living_basics)束靈裝備$()使用$(l:bloodmagic:alchemy_array/sigil/holding)集持印記$()或$(l:bloodmagic:alchemy_array/living_equipment/armor_upgrades/curios_sockets)插槽升級$()。"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "汙泥精煉機",
+  "icon": "industrialforegoing:sludge_refiner",
+  "category": "resource_production",
+  "sortnum": 10,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "一台將$(6)汙泥$()變成有用的東西的機器。$(br2)放入從$(l:agricultural_n_husbandry/plant_gatherer)收割機$()取得的$(6)汙泥$()，它會產生$(6)某個東西$()。$(br)這個過程需要$(6)1000$()RF/t ，請務必多儲存一些能量。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:sludge_refiner"
+    }
+  ]
+}

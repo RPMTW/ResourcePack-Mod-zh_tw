@@ -16,7 +16,7 @@
     "librarianlib.false_item.materials": "需要材料",
     "librarianlib.command.liblib.usage": "/liblib <副指令> ...",
     "librarianlib.command.liblib.gui.usage": "/ liblib gui <副指令> ...",
-    "librarianlib.command.liblib.gui.reloadhud.usage": "/liblib gui reloadhud（重載HUD）",
+    "librarianlib.command.liblib.gui.reloadhud.usage": "/liblib gui reloadhud（重新載入HUD）",
     "librarianlib.command.liblib.option.nosuchoption": "不存在這樣的選項「%s」",
     "librarianlib.command.liblibadmin.usage": "/liblibadmin <副指令> ..."
 }

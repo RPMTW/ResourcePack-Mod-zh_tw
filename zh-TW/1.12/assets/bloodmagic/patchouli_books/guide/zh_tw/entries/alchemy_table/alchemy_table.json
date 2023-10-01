@@ -1,0 +1,100 @@
+{
+  "name": "鍊金術桌",
+  "icon": "bloodmagic:alchemytable",
+  "category": "bloodmagic:alchemy_table",
+  "pages": [
+    {
+      "type": "text",
+      "text": "鍊金術桌使用一點 LP 和少許成分來做一些奇妙的事情！$(br2)它的很多內容都是 NYI。$(br2) 將滑鼠停在 LP 箭頭上來觀看更多訊息。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "bloodmagic:alchemy_table",
+      "text": "查看本書(或$(thing)JEI$())中的$(item)鍊金術桌$()配方時，將滑鼠停在帶有「LP」標籤的箭頭上以查看時間、$(blood)LP$()消耗和層級的相關訊息。"
+    },
+    {
+      "type": "image",
+      "images": [
+        "bloodmagic:images/entries/alchemy_table/alchemy_table_gui.png"
+      ],
+      "title": "鍊金術桌介面",
+      "border": true,
+      "text": "The Alchemy Table can be inserted into or extracted from. This is how it's configured."
+    },
+    {
+      "type": "text",
+      "text": "The $(item)Alchemy Table$() has a number of buttons on its right hand side. These are, in order, $(underline)D$()own, $(underline)U$()p, $(underline)N$()orth, $(underline)S$()outh, $(underline)W$()est, and $(underline)e$()ast. To use them, first click on any slot in the Alchemy Table. (Here, we have selected the central 'finished item' slot, for demonstration.) Next, click on one of these six buttons to toggle whether or not the $(item)Alchemy Table$() should allow $(item)Hoppers$(), pipes, or other such external interference from this face. To return to the table's normal function,"
+    },
+    {
+      "type": "text",
+      "text": "simply click the slot again to deselect it. The icon displayed in the slot shows whether it is accepting inputs or providing outputs. In the example picture, we are allowing pipes to take from our central slot only on the $(underline)D$()own slot, and any attempts to extract items from other sides will not succeed. $(br2)The following pages document a number of recipes currently available for the Alchemy Table."
+    },
+    {
+      "type": "image",
+      "images": [
+        "bloodmagic:images/entries/alchemy_table/alchemy_table_orb_error.png",
+        "bloodmagic:images/entries/alchemy_table/alchemy_table_soul_error.png"
+      ],
+      "title": "鍊金術桌錯誤",
+      "anchor": "errors",
+      "border": true,
+      "text": "Basic Cutting Fluid is used for 2x Ore Processing.  It is also used in the $(l:bloodmagic:utility/alchemical_reaction_chamber)Alchemical Reaction Chamber$(/l) and the $(l:bloodmagic:rituals/ritual_list/ritual_crushing)Ritual of the Crusher$() for the same purpose."
+    },
+    {
+      "type": "text",
+      "text": "配方在煉金術桌中不起作用的兩個最常見原因如下：$(li)$(bold)氣血寶珠錯誤$()：相關插槽中沒有氣血寶珠，或者您所使用的氣血寶珠等級不夠高無法在此配方使用。$(li)$(bold)靈魂網路錯誤$()：氣血寶珠的等級是有效的，但是你沒有綁定它（拿著它點擊右鍵），或者你的靈魂網路沒有足夠的LP。$(br2)以下頁面記錄了目前可用於煉金術桌的一些配方，"
+    },
+    {
+      "type": "3x_crafting_alchemy_table",
+      "a.heading": "草",
+      "a.recipe": "bloodmagic:alchemytable/grass_block",
+      "b.heading": "皮革",
+      "b.recipe": "bloodmagic:alchemytable/leather_from_flesh",
+      "c.heading": "麵包",
+      "c.recipe": "bloodmagic:alchemytable/bread"
+    },
+    {
+      "type": "2x_crafting_alchemy_table",
+      "a.heading": "黏土",
+      "a.recipe": "bloodmagic:alchemytable/clay_from_sand",
+      "b.heading": "線",
+      "b.recipe": "bloodmagic:alchemytable/string"
+    },
+    {
+      "type": "3x_crafting_alchemy_table",
+      "a.heading": "植物油",
+      "a.recipe": "bloodmagic:alchemytable/plantoil_from_wheat",
+      "b.recipe": "bloodmagic:alchemytable/plantoil_from_carrots",
+      "c.recipe": "bloodmagic:alchemytable/plantoil_from_taters"
+    },
+    {
+      "type": "3x_crafting_alchemy_table",
+      "a.heading": "植物油",
+      "a.recipe": "bloodmagic:alchemytable/plantoil_from_beets",
+      "b.heading": "煤砂",
+      "b.recipe": "bloodmagic:alchemytable/sand_coal",
+      "c.heading": "爆炸粉末",
+      "c.recipe": "bloodmagic:alchemytable/explosive_powder"
+    },
+    {
+      "type": "3x_crafting_alchemy_table",
+      "a.heading": "植物油",
+      "a.recipe": "bloodmagic:alchemytable/flint_from_gravel",
+      "b.heading": "硝石",
+      "b.recipe": "bloodmagic:alchemytable/saltpeter",
+      "c.heading": "火藥",
+      "c.recipe": "bloodmagic:alchemytable/gunpowder"
+    },
+    {
+      "type": "2x_crafting_alchemy_table",
+      "a.heading": "熔岩桶",
+      "a.recipe": "bloodmagic:alchemytable/sigil_lava_bucket",
+      "b.heading": "水桶",
+      "b.recipe": "bloodmagic:alchemytable/sigil_water_bucket"
+    },
+    {
+      "type": "text",
+      "text": "$(l:bloodmagic:alchemy_array/sigil/lava)熔岩印記$()和$(l:bloodmagic:alchemy_array/sigil/water)水之印記$() 在這兩個配方中都不會消耗。更重要的是，$(item)水之印記$()可以用來代替任何煉金術桌配方中的$(water)水桶$()。"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "name": "地獄魂石",
+  "icon": "bloodmagic:soulgemgreater",
+  "category": "bloodmagic:demon_will/will_manipulation",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(l:bloodmagic:demon_will/demon_will)惡魔意志$()是一個非常有用的資源，但是你目前得到的碎片顯然缺乏力量。你需要的是一個像$(item)地獄魂石$()這樣的儲存工具。更重要的是，它可以吸收所有你可能丟在各處的 $(l:bloodmagic:demon_will/demon_will)惡魔意志$()。只需將它們丟在地上，您閃亮的新寶石就會吸收它們。"
+    },
+    {
+      "type": "crafting_soulforge",
+      "heading": "[微小]地獄魂石",
+      "recipe": "bloodmagic:soulforge/pettytartaricgem",
+      "text": "你的初級魂石可以容納64個$(l:bloodmagic:demon_will/will_manipulation/demon_will)意志$()。比以前緊湊多了！$(br2)如果您想將$(raw)意志$()從一個魂石轉移到另一個魂石，只需在持有您想要清空的魂石的同時按住 [$(k:use)]，它就會將其意志轉移到在您的物品欄中第一個找到的有效的魂石中。"
+    },
+    {
+      "type": "text",
+      "text": "你的$(item)[微小]地獄魂石$()是一個有用的工具，但它顯然不夠強壯。小心的使用$(item)鑽石$()、$(item)青金石$()和$(item)紅石$()，你找到了一種將其儲存能力提高四倍的方法。"
+    },
+    {
+      "type": "crafting_soulforge",
+      "heading": "[細塊]地獄魂石",
+      "recipe": "bloodmagic:soulforge/lessertartaricgem",
+      "text": "這顆強化魂石最多可容納256個$(l:bloodmagic:demon_will/will_manipulation/demon_will)意志$()。$(br2)注意：升級時你只需要一顆魂石-$(item)獄火熔爐$()會優先從正在合成的魂石中提取$(raw)意志$()，不夠時再從右側補充欄位的魂石中提取。不用擔心，合成出的新魂石將保留該過程中剩餘的$(raw)意志$()。"
+    },
+    {
+      "type": "text",
+      "text": "Your $(item)Lesser Tartaric Gem$() is a noted improvement, but once more you chafe under its limitations. To progress further will involve focusing on your $(l:bloodmagic:altar/blood_altar)Blood Altar$(), as you require the powers of an $(l:bloodmagic:altar/slates)Imbued Slate$(). Combining this slate with your gem and further refining it with another $(item)Diamond$() and a $(item)Block of Gold$(), you have found a way to once again quadruple its storage capabilities."
+    },
+    {
+      "type": "crafting_soulforge",
+      "heading": "[普通]地獄魂石",
+      "recipe": "bloodmagic:soulforge/commontartaricgem",
+      "text": "這顆錯綜複雜的魂石最多可容納1024個$(l:bloodmagic:demon_will/will_manipulation/demon_will)意志$()。"
+    },
+    {
+      "type": "text",
+      "text": "您在創造$(item)一般的地獄魂石$()這方面顯然已經超越了自我，但您覺得還有更多的事情可以做。但是，想從您的魂石中獲得更多收益將迎來來您迄今為止所有工作的高峰。你不僅需要$(l:bloodmagic:altar/slates)惡魔石板$()，還需要$(l:bloodmagic:utility/alchemical_reaction_chamber#blood_shard)虛弱氣血碎片$()$(o)和$()$(l:bloodmagic:demon_will/will_manipulation/crystallized_will)惡魔意志晶體$()。當然，它將會帶來同等的獎勵，為您的$(l:bloodmagic:demon_will/demonic_items/sentient_tools)感知工具$()提供前所未有的力量……"
+    },
+    {
+      "type": "crafting_soulforge",
+      "heading": "[較大]地獄魂石",
+      "recipe": "bloodmagic:soulforge/greatertartaricgem",
+      "text": "這個大師級傑作最多可容納4096個$(l:bloodmagic:demon_will/will_manipulation/demon_will)意志$()。"
+    },
+    {
+      "type": "text",
+      "flag": "mod:curios",
+      "text": "如果您安裝了$(thing)Curios API$()，您可以將$(item)地獄魂石$()作為項鍊裝備。如果您想一次佩戴更多飾品，請考慮為您的$(l:bloodmagic:alchemy_array/living_equipment/living_basics)束靈裝備$()使用$(l:bloodmagic:alchemy_array/sigil/holding)集持印記$()或$(l:bloodmagic:alchemy_array/living_equipment/armor_upgrades/curios_sockets)插槽升級$()。"
+    }
+  ]
+}

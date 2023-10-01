@@ -1,0 +1,15 @@
+{
+  "name": "針插",
+  "icon": "minecraft:arrow",
+  "category": "bloodmagic:alchemy_array/living_equipment/armor_upgrades",
+  "pages": [
+    {
+      "type": "text",
+      "text": "效果：提升對於箭矢的防護力。 $(br2) 培育方式：承受射擊。 $(br2)最高等級：10 "
+    },
+    {
+      "type": "bloodmagic:living_armour_upgrade_table",
+      "upgrade": "bloodmagic:arrow_protect"
+    }
+  ]
+}

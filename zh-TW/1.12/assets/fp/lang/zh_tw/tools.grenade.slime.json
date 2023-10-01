@@ -1,0 +1,18 @@
+[
+  "我不一定要殺死我的目標。有時更需要把它們困住。",
+  "用史萊姆填滿手榴彈，我可以製作一個武器來減慢目標。",
+  "我可以使用1-3等級的史萊姆，讓我選擇受影響地區的大小。",
+  "無序合成:",
+  "強度1:",
+  {
+    "link": "fp:lang/part/crafting_tools.grenade.slime.json"
+  },
+  "強度2:",
+  {
+    "link": "fp:lang/part/crafting_tools.grenade.slime2.json"
+  },
+  "強度3:",
+  {
+    "link": "fp:lang/part/crafting_tools.grenade.slime3.json"
+  }
+]

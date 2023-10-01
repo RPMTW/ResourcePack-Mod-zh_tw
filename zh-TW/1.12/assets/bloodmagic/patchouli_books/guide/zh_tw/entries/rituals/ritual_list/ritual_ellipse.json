@@ -1,0 +1,31 @@
+{
+  "name": "橢球的焦點",
+  "icon": "minecraft:bucket",
+  "category": "bloodmagic:rituals/ritual_list",
+  "pages": [
+    {
+      "type": "multiblock",
+      "name": "橢球的焦點",
+      "multiblock_id": "bloodmagic:ellipsoid",
+      "text": "使用$(l:bloodmagic:rituals/ritual_diviner)儀式推測仗 [薄暮]$(/l)來輕鬆建造。"
+    },
+    {
+      "type": "bloodmagic:ritual_info",
+      "ritual": "ellipsoid"
+    },
+    {
+      "type": "text",
+      "text": "這種儀式本質上是純粹的美學，專為我們所有人中初出茅廬但懶惰的建設者而設計。它特別適合建造複雜的形狀，例如邪惡巢穴上方的巨大金色圓頂。......你確實有一個，對吧？"
+    },
+    {
+      "type": "bloodmagic:ritual_data",
+      "ritual": "ellipsoid",
+      "page_type": "chest"
+    },
+    {
+      "type": "bloodmagic:ritual_data",
+      "ritual": "ellipsoid",
+      "page_type": "spheroidRange"
+    }
+  ]
+}

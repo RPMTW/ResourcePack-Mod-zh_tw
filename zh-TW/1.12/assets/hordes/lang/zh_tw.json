@@ -8,7 +8,7 @@
     "commands.hordes.StartHorde.invalidValue": "%1$s不是<事件長度>的有效參數;",
     "commands.hordes.StartHorde.wrongArgCount": "為 /startHordeEvent 提供錯誤的參數數量",
     "commands.hordes.StopHorde.usage": "/stopHordeEvent",
-    "commands.hordes.StopHorde.success": "停止激活屍潮事件",
+    "commands.hordes.StopHorde.success": "停止啟用屍潮事件",
     "commands.hordes.HordeDebug.usage": "/debugHorde ",
     "commands.hordes.HordeDebug.success": "輸出除錯日誌到 %1$s",
     "commands.hordes.HordeClean.usage": "/clearHordeData",

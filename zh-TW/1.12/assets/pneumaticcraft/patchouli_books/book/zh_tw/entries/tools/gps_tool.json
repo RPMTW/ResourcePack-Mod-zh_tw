@@ -21,8 +21,8 @@
     {
       "type": "text",
       "anchor": "variables",
-      "title": "與全局變數連結Linking Global Variables",
-      "text": "$(l:programming/variables#global)全局變數/$是一項高級的$(l:base_concepts/drone)無人機/$特性，可以通過$(l:programming/coordinate_operator)坐標運算符/$存取。$(p)使用$(item)定位工具/$$(thing)右擊/$空氣打開設定介面，在此可以輸入一個全局變數名。$(p)此後，選中的$(thing)全局變數/$將隨著$(item)定位工具/$所選的坐標變化而對應變化。這可以用於編寫使用動態區域的$(thing)無人機程序/$。"
+      "title": "與全域變數連結Linking Global Variables",
+      "text": "$(l:programming/variables#global)全域變數/$是一項高級的$(l:base_concepts/drone)無人機/$特性，可以通過$(l:programming/coordinate_operator)坐標運算符/$存取。$(p)使用$(item)定位工具/$$(thing)右擊/$空氣打開設定介面，在此可以輸入一個全域變數名。$(p)此後，選中的$(thing)全域變數/$將隨著$(item)定位工具/$所選的坐標變化而對應變化。這可以用於編寫使用動態區域的$(thing)無人機程序/$。"
     },
     {
       "type": "crafting",

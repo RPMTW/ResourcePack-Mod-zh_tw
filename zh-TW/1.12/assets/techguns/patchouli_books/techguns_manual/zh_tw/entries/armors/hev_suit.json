@@ -5,7 +5,7 @@
     "pages": [
         {
             "type": "text",
-            "text": "《危境套裝》為等級三的$(l:armor_mechanics#powered_armors)能量型服裝$(/l)， 需使用$(thing)《能量匣》$()來補充能量， 其設計用於惡劣環境中的挖掘任務。"
+            "text": "《危境套裝》為等級三的$(l:armor_mechanics#powered_armors)能量型服裝$(/l)，需使用$(thing)《能量匣》$()來補充能量，其設計用於惡劣環境中的挖掘任務。"
         },
         {
             "type": "entity",

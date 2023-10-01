@@ -1,12 +1,12 @@
 {
-  "name": "Roasted Turnips",
+  "name": "烤蕪菁",
   "icon": "croptopia:roasted_turnips",
   "category": "croptopia:meals",
   "pages": [
     {
       "type": "patchouli:crafting",
       "recipe": "croptopia:shaped_roasted_turnips",
-      "text": "Recipe"
+      "text": "食譜"
     }
   ]
 }

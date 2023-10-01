@@ -1,0 +1,30 @@
+{
+  "name": "訓練手鐲",
+  "icon": "bloodmagic:upgradetrainer",
+  "category": "bloodmagic:alchemy_array/living_equipment",
+  "pages": [
+    {
+      "type": "text",
+      "text": "這種新設備提供了令人難以置信的大幫助，但它的無定向成長有時會……令人沮喪。為此，您設計了一種$(item)訓練手鐲$()來協助自己。製作完成後，按下[$(k:use)]將激活其選單，並允許您指定將注意力集中在哪些能力上……或避免哪些能力。"
+    },
+    {
+      "type": "crafting_array",
+      "heading": "訓練手鐲",
+      "recipe": "bloodmagic:array/living_trainer",
+      "text": "$(italic)*Insert Rocky Training Montage here*$()"
+    },
+    {
+      "type": "image",
+      "images": [
+        "bloodmagic:images/entries/alchemy_array/living_equipment/training_bracelet.png"
+      ],
+      "title": "訓練手鐲GUI",
+      "border": false,
+      "text": "訓練手鐲的選單 - 它可以一次紀錄多達16種不同的升級。"
+    },
+    {
+      "type": "text",
+      "text": "手鐲可以為任何給定的升級指定限制（假設您身上有$(item)手冊$()的複製品）。例如，您可以告訴它將壯實強腿限制為 3 級 - 一旦達到此級別，壯實強腿將不再獲得經驗。它還可以阻止或允許您未指定的所有其他技能的訓練。如果您想允許除一項之外的所有升級，您可以在「允許其他」模式下將其添加到手鐲並將其級別上限設定為0。"
+    }
+  ]
+}

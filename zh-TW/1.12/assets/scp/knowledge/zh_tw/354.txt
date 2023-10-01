@@ -1,0 +1,14 @@
+The Red Pool
+
+It is a pool of red liquid. The liquid is of a consistency similar to that of human blood, but is not of a
+ biological nature.
+Periodically, entities emerge from the pool. Thus far, nearly all creatures emerging from SCP-354 have been extremely
+hostile and highly dangerous. Currently it can spawn entities 354-1, -3, -4, -14, -15, -16, -18.
+The liquid can multiply the same way as water.
+The mechanics of Red Pool are following:
+- for the pool to be able to spawn anything, it must consist of at least 64 connected red liquid blocks;
+- the pool with select a single block from which the creatures will spawn - it must have red liquid blocks on 4
+ adjacent sides;
+- when the spawn position is determined, it will attempt to spawn random 354-X mob every 10 minutes;
+- it will check an area in 160 blocks range around for presence of 354-X creature and will spawn one if there isn't
+ an identical instance already;

@@ -6,5 +6,22 @@
     "chunkloaders.gui.loaded": "已載入",
     "chunkloaders.gui.unloaded": "無法載入",
     "chunkloaders.chunk_loader.info.single": "可以載入單一區塊",
-    "chunkloaders.chunk_loader.info.multiple": "可以通過 %1$d 加載到%1$d"
+    "chunkloaders.chunk_loader.info.multiple": "可以在 %1$d x %1$d 區塊區域中載入區塊",
+    "chunkloaders.gui.chunk.available": "按一下以載入",
+    "chunkloaders.gui.chunk.loaded": "已載入",
+    "chunkloaders.gui.chunk.others": "已載入：",
+    "chunkloaders.gui.chunk.overwrite": "按住 %s 以覆寫",
+    "chunkloaders.gui.loaded_chunks": "已載入區塊：",
+    "chunkloaders.gui.loaded_chunks.count": "%s",
+    "chunkloaders.gui.loaded_chunks.count_max": "%1$s / %2$s",
+    "chunkloaders.gui.owner": "所有者：",
+    "chunkloaders.gui.speech.chunk.not_loaded": "未載入",
+    "chunkloaders.gui.speech.chunk.others": "由其他玩家載入",
+    "chunkloaders.gui.title": "區塊載入器畫面",
+    "chunkloaders.keys.category": "區塊載入器",
+    "chunkloaders.keys.open_screen": "查看區塊載入器",
+    "chunkloaders.legacy_message": "請在這個區塊載入器上按下 Shift + 滑鼠右鍵來設定它的所有者！",
+    "chunkloaders.legacy_success": "你現在是這個區塊載入器的所有者！",
+    "itemGroup.chunkloaders": "區塊載入器",
+    "chunkloaders.gui.disabled": "The chunk loader map is disabled on this server"
 }

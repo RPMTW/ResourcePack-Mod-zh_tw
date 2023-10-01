@@ -1,0 +1,55 @@
+{
+	"name": "General Information",
+	"icon": "qmd:textures/particles/proton.png",
+	"category": "qmd:particles",
+	"sortnum": 0,
+	"pages": [
+		{
+			"type": "text",
+			"text": "本模組機制的核心為比原子小的粒子系統。在本模組中，你可以生成，操縱，轉變以及摧毀這些微粒。"
+		},
+		{
+			"type": "text",
+			"title": "粒子堆（Particle Stack）",
+			"text": "本模組的粒子註冊方式與原版的物品堆（Item Stack）相似，粒子都被儲存於粒子堆中。但兩者之間有一些主要的差別，例如玩家無法手持粒子，因為它們只是粒子束流而已，並非物品。粒子堆有四個屬性：$(li)種類（Type）$(li)數量（Amount）$(li)能量（Energy）$(li)聚焦（Focus）"
+		},
+		{
+			"type": "text",
+			"title": "種類",
+			"text": "本模組中的粒子種類多樣。有些例子，比如質子、中子和電子便是你周圍原子的構成部分。每種粒子都有不同的屬性：質量、電荷、自旋等等，它們也可被用於不同的操作中。你可以在JEI的粒子訊息中查看它們的屬性。"
+		},
+		{
+			"type": "text",
+			"title": "能量",
+			"text": "每個粒子堆都有相關的動態能量顯示（單位：eV，electron volt丨電子伏特），用於計量粒子運動的速度。能量是粒子堆最重要的屬性之一，它可以決定粒子堆能參與的配方。"
+		},
+		{
+			"type": "text",
+			"text": "The energy of particles are manipulated using accelerators. $(l:multiblocks/accelerators/linear_accelerator)Linear$(/l) and $(l:multiblocks/accelerators/ring_accelerator)Synchrotron$(/l) accelerators increase their energy while $(l:multiblocks/accelerators/decelerator)decelerators$(/l) decrease their energy. The energy of particles can also be changed in reactions."
+		},
+		{
+			"type": "text",
+			"title": "聚焦",
+			"text": "Focus is how confined a beam of particles is (it can be thought of a measure of the inverse area of the beam). Focus's main purpose is to tell you how far the beam of particles can travel. If a particle stack's focus is less than or equal to zero then it can't propagate. Each block the particles travel they lose focus. Focus also has use in some recipes."
+		},
+		{
+			"type": "text",
+			"text": "Some recipes have a minimum focus or focus range they required to work these are stated on the recipes (specifically if you hover over the input particle to a recipe in JEI it focus will be the minimum required). "
+		},
+		{
+			"anchor": "focus_loss",
+			"title": "Focus Loss",
+			"type": "text",
+			"text": "The amount of focus lost per block can be calculated as $(br)$(l)f = α(1+|q|$(o)sqrt$()$(l)(I/Iᵢ))$() where $(l)α$() is the beam attenuation rate (this can be seen on Beamline's tool tip, by default 0.02), $(l)q$() is the particles charge, $(l)I$() is the pu/t of the beam and $(l)Iᵢ$() is the beam scaling factor (10000 with default configs). $(br2)You could also use the $(l:items_and_devices/beam_meter)beam meter$(/l) on an existing beam to calculate this for you."
+		},
+		{
+			"type": "text",
+			"title": "Amount",
+			"text": "Is the amount of particles measured in particle units (pu). Generally it represents the particle units per tick for example a tungsten filament gives off 10 kpu of electrons in a Ion Source this means it gives 10000 pu/t. But in recipes like the $(l:multiblocks/particle_chambers/target_chamber)Target Chamber$(/l), and $(l:multiblocks/vacuum_chambers/exotic_containment_chamber)Exotic Containment Chamber$(/l) it is the cumulative amount needed to complete the recipe."
+		},
+		{
+			"type": "text",
+			"text": "For example a recipe that requires 20 Mpu will take 2000 ticks to complete with a 10 kpu/t input.$(br2)Increasing pu/t is the hardest property to increase. It can only be done with clever manipulation of particles in $(l:multiblocks/particle_chambers/target_chamber)target chambers$(/l) and/or $(l:multiblocks/particle_chambers/decay_chamber)decay chambers$(/l) to create effective particle multiplier setups."
+		}
+	]
+}

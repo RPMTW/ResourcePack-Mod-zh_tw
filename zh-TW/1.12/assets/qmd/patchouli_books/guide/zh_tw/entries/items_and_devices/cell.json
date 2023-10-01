@@ -1,0 +1,17 @@
+{
+	"name": "Cells",
+	"icon": "qmd:cell",
+	"category": "qmd:items_and_devices",
+	"sortnum": 3,
+	"pages": [
+		{
+			"type": "text",
+			"text": "Cells are items that can hold exotic materials like antimatter. $(bold)$(c)Be careful with filled cells!$() They have a tendency to $(bold)$(c)explode and give deadly radiation bursts$() if left on the ground."
+		},
+		{
+			"type": "spotlight",
+			"item": "qmd:cell",
+			"text": "Filling and emptying cells is done simply by putting the filled or empty cell in the input slot of the $(l:multiblocks/vacuum_chambers/exotic_containment_chamber)exotic containment containment's$() gui."
+		}
+	]
+}

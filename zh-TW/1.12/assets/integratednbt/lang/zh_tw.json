@@ -25,7 +25,7 @@
     "integratednbt:nbt_extractor.output_mode.reference": "§e引用模式",
     "integratednbt:nbt_extractor.output_mode.operator": "§2運算符模式",
     "integratednbt:nbt_extractor.output_mode.value": "§6常量模式",
-    "integratednbt:nbt_extractor.output_mode.description": "§7輸出模式決定了提取結果是如何輸出到變數卡的。\\n\\n§7- 在§e引用模式§7中，輸出的變數將會關聯到創建時使用的 NBT 變數。\\n§7- 在§2操作符模式§7中，輸出的變數將會被寫入一個輸入 NBT 輸出提取結果的操作符。這個操作符與之前使用的 NBT 變數並沒有直接聯繫。\\n§7- 在§6常量模式§7中，寫入輸出變數的值僅取決於寫入時 NBT 變數的值，因此創建出來的是一個常量。\\n\\n§7如果不明白這是什麼意思，請使用§e引用模式§7。",
+    "integratednbt:nbt_extractor.output_mode.description": "§7輸出模式決定了提取結果是如何輸出到變數卡的。\\n\\n§7- 在§e引用模式§7中，輸出的變數將會關聯到建立時使用的 NBT 變數。\\n§7- 在§2操作符模式§7中，輸出的變數將會被寫入一個輸入 NBT 輸出提取結果的操作符。這個操作符與之前使用的 NBT 變數並沒有直接聯繫。\\n§7- 在§6常量模式§7中，寫入輸出變數的值僅取決於寫入時 NBT 變數的值，因此建立出來的是一個常量。\\n\\n§7如果不明白這是什麼意思，請使用§e引用模式§7。",
     "integratednbt:nbt_extractor.auto_refresh": "自動刷新: %s",
     "integratednbt:nbt_extractor.auto_refresh.on": "§a啟用",
     "integratednbt:nbt_extractor.auto_refresh.off": "§c停用",

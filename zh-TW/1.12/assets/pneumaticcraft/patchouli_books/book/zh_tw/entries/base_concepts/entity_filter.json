@@ -19,7 +19,7 @@
     {
       "type": "text",
       "title": "例（續表)",
-      "text": "$(li)$(#800)@boat/$ 匹配船$(li)$(#800)@living/$ 匹配所有生物$(li)$(#800)@item/$ 匹配物品實體$(li)$(#800)@drone/$ 匹配$(l:tools/drone)無人機/$$(li)$(#800)Creeper/$ 匹配苦力怕$(li)$(#800)MineMaarten/$ 匹配名為'MineMaarten'的實體$(li)$(#800)c*/$ 匹配任何（英文）名稱以字元 c 開頭的實體（如 Creeper|苦力怕，或Cow|牛）。$(li)$(#800)*pig*/$ 匹配任何（英文）名稱含有字元串 pig 的實體（如 Pig|豬，或 Zombie Pigman|殭屍豬人）。"
+      "text": "$(li)$(#800)@boat/$ 匹配船$(li)$(#800)@living/$ 匹配所有生物$(li)$(#800)@item/$ 匹配物品實體$(li)$(#800)@drone/$ 匹配$(l:tools/drone)無人機/$$(li)$(#800)Creeper/$ 匹配苦力怕$(li)$(#800)MineMaarten/$ 匹配名為'MineMaarten'的實體$(li)$(#800)c*/$ 匹配任何（英文）名稱以字元 c 開頭的實體（如 Creeper|苦力怕，或Cow|牛）。$(li)$(#800)*pig*/$ 匹配任何（英文）名稱含有字串 pig 的實體（如 Pig|豬，或 Zombie Pigman|殭屍豬人）。"
     },
     {
       "type": "text",

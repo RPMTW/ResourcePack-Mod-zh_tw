@@ -1,0 +1,107 @@
+{
+  "name": "薰香祭壇",
+  "icon": "bloodmagic:incensealtar",
+  "category": "bloodmagic:utility",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(item)薰香祭壇$()是一個多方塊結構，可用在$(l:bloodmagic:altar/blood_altar)血之祭壇$()上以加強你的自我犧牲。站在您的設定附近，$(item)薰香祭壇$()將根據該區域的總$(thing)靜謐值$()使您的靈魂平靜下來，讓您的$(blood)LP$()收益顯著增加。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "bloodmagic:incense_altar"
+    },
+    {
+      "type": "text",
+      "text": "$(item)薰香祭壇$()的基礎第1階設定是祭壇本身；將它放在任何地方（您可能需要設定一個3x3的方塊平台，這將在以後有所幫助）並保持在祭壇的5格方塊半徑內。$(br2)當祭壇作用時，它會從它的頂部發射火焰粒子並改變你的$(l:bloodmagic:altar/blood_altar#knife)犧牲匕首$()。一旦你的刀開始發光，在 $(l:bloodmagic:altar/blood_altar)血之祭壇$()附近按住右鍵並釋放。將一次犧牲90%的生命值。"
+    },
+    {
+      "type": "image",
+      "images": [
+        "bloodmagic:images/entries/utility/incense_altar1.png"
+      ],
+      "title": "基礎設定",
+      "border": true,
+      "text": "基礎設定顯示在路面方塊之前的3x3方塊。"
+    },
+    {
+      "type": "text",
+      "text": "更重要的是，根據該區域的總$(thing)靜謐值$()，您將獲得添加到$(l:bloodmagic:altar/blood_altar)血之祭壇$()的$(blood)LP$()獎勵。用$(l:bloodmagic:alchemy_array/sigil/divination)占卜印記$(/l)或$(l:bloodmagic:alchemy_array/sigil/seer)先知印記$懸停在$(item)薰香祭壇$()上將顯示設定（頂部數字）的總$(thing)靜謐值$()和犧牲時獲得的百分比獎勵（底部數字）。當你自我犧牲時，它將把你通常得到的$(blood)LP$()乘以(1 + bonus/100)。"
+    },
+    {
+      "type": "image",
+      "images": [
+        "bloodmagic:images/entries/utility/incense_altar2.png"
+      ],
+      "title": "薰香祭壇介面",
+      "border": true,
+      "text": "薰香祭壇介面，預設在畫面左上角，顯示+20%的自我犧牲獎勵。"
+    },
+    {
+      "type": "text",
+      "text": "「可是，我要怎麼樣才能增加這個獎勵呢？」怎麼做，通過增加周圍區域的$(thing)靜謐值$()！……這可能有點模棱兩可。$(br2)要增加該區域的$(thing)靜謐值$()，您必須從$(item)薰香祭壇$()向外延伸放置路面。這些路面需要從三種廣泛的$(item)路面$()方塊中建構，例如$(item)木質路面$()，它要從3x3方塊的四個基本方向向外延伸。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "bloodmagic:path/path_wood",
+      "recipe2": "bloodmagic:path/path_woodtile"
+    },
+    {
+      "type": "crafting",
+      "recipe": "bloodmagic:path/path_stone",
+      "recipe2": "bloodmagic:path/path_stonetile"
+    },
+    {
+      "type": "crafting",
+      "recipe": "bloodmagic:path/path_wornstone",
+      "recipe2": "bloodmagic:path/path_wornstonetile"
+    },
+    {
+      "type": "text",
+      "text": "每個經由路面方塊組成的新的「環」遵循一組規則：$(li)同一環上的所有路面方塊必須在同一層。$(li)下一個路面方塊環不能高於/低於前一個環超過5個方塊。$(li)路面方塊環在相同高度或最多高兩格方塊會計入總$(thing)靜謐值$()-這些由圖片中的玻璃方塊指示。"
+    },
+    {
+      "type": "image",
+      "images": [
+        "bloodmagic:images/entries/utility/incense_altar.png"
+      ],
+      "title": "薰香祭壇",
+      "border": true,
+      "text": "薰香祭壇與不同的路面方向。"
+    },
+    {
+      "type": "text",
+      "text": "此外：$(li)每種路面方塊的效果只持續一定距離：木質路面只能從中心向外三環，石製路面最多五環，碎石路面為七環，黑曜石路面九環。$(bn2)現在很明顯的，不是每種類型的方塊都會計入您的$(thing)靜謐值$()。不是所有鵝卵石都可以，不行！我們需要農作物、泥土，甚至……熔岩？"
+    },
+    {
+      "type": "text",
+      "text": "有多個方塊類別計入總$(thing)靜謐值$()。沒有特定的順序，它們是：植物、農作物、樹木、土、水、火和熔岩。$(item)薰香祭壇$()將查看其範圍內的所有方塊（由路面方塊設定）並列出每種類型的總$(thing)靜謐值$()數量。完成後，它將通過對每種類型的$(thing)靜謐值$()進行平方根，然後將它們相加來計算總$(thing)靜謐值$()。"
+    },
+    {
+      "type": "text",
+      "text": "這意味著對於遊戲後期的設定，最好有許多不同類型的$(thing)靜謐值$()。儘管其他模組可能會添加自己的，以後會添加更多，目前有助於$(thing)靜謐值$()的方塊是：熔岩、水（包括大多數的浸水方塊）、生命精華、地獄石、泥土、耕地、馬鈴薯 、胡蘿蔔、小麥、地獄疙瘩、甜菜根、樹葉、原木、火和草。"
+    },
+    {
+      "type": "image",
+      "images": [
+        "bloodmagic:images/entries/utility/incense_altar3.png"
+      ],
+      "title": "薰香祭壇設定",
+      "border": true,
+      "text": "遊戲後期的薰香祭壇設定與許多不同的級別。"
+    },
+    {
+      "type": "text",
+      "text": "當然，您可以根據您的需要設定的陡峭或平順（在合理範圍內，如本條目前面所定義）。$(br2)需要注意的是，$(thing)靜謐值加成$()的上限是你的祭壇的大小（因此，你所使用的路面等級）。上限如下：$(li)無路面：20%。$(li)木質路面：60%。$(li)石製路面：120%。$(li)碎石路面：200%。$(li)黑曜石路面：300%。（可悲的是黑曜石路面是尚未加入）"
+    },
+    {
+      "type": "image",
+      "images": [
+        "bloodmagic:images/entries/utility/incense_altar4.png"
+      ],
+      "title": "薰香祭壇設定",
+      "border": true,
+      "text": "一個非常簡單的$(item)薰香祭壇$()設定。注意不同路面方塊的（可選）混搭。"
+    }
+  ]
+}

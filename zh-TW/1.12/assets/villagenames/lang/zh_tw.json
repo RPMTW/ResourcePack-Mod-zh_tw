@@ -20,7 +20,7 @@
     "tile.villagenames:lunaringoldbrick.name": "魯寧風格金磚",
     "tile.villagenames:lunarinironbrick.name": "魯寧風格鐵磚",
     "entity.Villager.farmer": "農夫",
-    "entity.Villager.fisherman": "漁夫",
+    "entity.Villager.fisherman": "漁民",
     "entity.Villager.shepherd": "牧羊人",
     "entity.Villager.fletcher": "製箭師",
     "entity.Villager.librarian": "圖書管理員",
@@ -36,7 +36,7 @@
     "entity.Villager.mason": "石匠",
     "config.villagenames.global.tooltip": "控制一切不叫音節池或村莊發電機的東西",
     "config.villagenames.villagegenerator.tooltip": "村莊發電系統的設定",
-    "config.villagenames.syllables.tooltip": "名稱生成器可訪問的音節池的集合",
+    "config.villagenames.syllables.tooltip": "名稱生成器可存取的音節池的集合",
     "advancements.villagenames.description": "哦，勇敢的新世界，有這樣的人在。",
     "advancements.maxrep.title": "§a翡翠標準",
     "advancements.maxrep.description": "在一個村莊獲得最高聲譽",
@@ -45,7 +45,9 @@
     "advancements.minrep.title": "§4你是個怪物",
     "advancements.minrep.description": "在一個村子裡獲得最低聲譽",
     "advancements.ghosttown.title": "鬼城",
-    "advancements.ghosttown.description": "為空蕩蕩的村莊創建一個村莊之書",
+    "advancements.ghosttown.description": "為空蕩蕩的村莊建立一個村莊之書",
     "advancements.laputa.title": "§c忠誠度",
-    "advancements.laputa.description": "與孤獨的魔像交朋友"
+    "advancements.laputa.description": "與孤獨的魔像交朋友",
+    "itemtooltip.codex.1": "在結構內部按下滑鼠右鍵以發現其名稱。",
+    "itemtooltip.codex.2": "您還必須有一本空白的書來記錄名稱。"
 }

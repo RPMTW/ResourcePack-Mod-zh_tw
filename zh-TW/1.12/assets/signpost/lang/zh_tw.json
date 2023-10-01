@@ -25,7 +25,7 @@
     "signpost.payment": "你必須支付<amount>個<itemName>來使用這個路標",
     "signpost.noTeleport": "這個路標沒有目的地，僅用於裝飾。",
     "signpost.guiPrev": "地標石有<distance>個方塊遠。玩家將會支付<amount>個<itemName>來使用它。",
-    "signpost.guiWorldDim": "這個地標石不在同一個世界/維度。跨維度傳送是禁止的。",
+    "signpost.guiWorldDim": "這個地標石不在同一個世界/次元。跨次元傳送是禁止的。",
     "signpost.guiTooFar": "這個地標石太遠了（相距<distance>方塊）。最大距離應該是<maxDist>方塊遠。",
     "signpost.confirmTeleport": "輸入「/signpostconfirm」傳送到<Waystone>，需要支付<amount>個<itemName>。",
     "signpost.confirmTeleportNoCost": "輸入「/signpostconfirm」傳送到<Waystone>。",

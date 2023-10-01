@@ -13,7 +13,7 @@
     "flatcoloredblocks.startup_c": "種漸變顏色 ",
     "flatcoloredblocks.startup_d": "個方塊id",
     "flatcoloredblocks.startup_e": "如果你想修改這些,可以使用設定螢幕.",
-    "flatcoloredblocks.startup_f": "建議在正式使用這個mod前先通過創造模式確認你所做的調整,因為在調整設定後,方塊的顏色可能會改變,甚至消失.如果你是在伺服器上使用該mod,請確保用戶端和服務端的設定文件相匹配.",
+    "flatcoloredblocks.startup_f": "建議在正式使用這個模組前先通過創造模式確認你所做的調整，因為在調整設定後，方塊的顏色可能會改變，甚至消失。如果你是在伺服器上使用該模組，請確保用戶端和伺服器端的設定檔相匹配。",
     "flatcoloredblocks.Shade.name": "#",
     "flatcoloredblocks.Transparent.name": "透明",
     "flatcoloredblocks.Glowing.name": "發光",
@@ -60,7 +60,7 @@
     "flatcoloredblocks.tooltips.deg": "度",
     "flatcoloredblocks.tooltips.percent": "%",
     "flatcoloredblocks.tooltips.lightValueUnit": "/15",
-    "flatcoloredblocks.commands.export_list.usage": "沒有參數, 請將 CSV 保存在設定文件夾中。",
+    "flatcoloredblocks.commands.export_list.usage": "沒有參數, 請將 CSV 保存在設定資料夾中。",
     "flatcoloredblocks.commands.export_list.savedfile": "將完整列表導出到 %s",
     "flatcoloredblocks.commands.export_list.unabletosave": "無法寫入檔案 %s"
 }

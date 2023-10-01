@@ -1,0 +1,33 @@
+{
+  "name": "速掘印記",
+  "icon": "bloodmagic:miningsigil",
+  "category": "bloodmagic:alchemy_array/sigil",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(item)速掘印記$()是一種需要shift+右鍵啟動，\n才能作用的印記，它每10秒消耗 100LP 來給予挖掘加速效果。\n因此，它可以提高你的採礦、挖掘和切割速度。\n使用$(item)採掘試劑$()和$(item)強化石板$()在鍊金矩陣中製作"
+    },
+    {
+      "type": "crafting_2-step_sigil",
+      "alchemy_table.heading": "採掘試劑",
+      "alchemy_table.recipe": "bloodmagic:alchemytable/reagent_fastminer",
+      "array.heading": "速掘印記",
+      "array.recipe": "bloodmagic:array/fastminersigil"
+    },
+    {
+      "type": "image",
+      "images": [
+        "bloodmagic:images/entries/sigil/mining_sigil1.png",
+        "bloodmagic:images/entries/sigil/mining_sigil2.png"
+      ],
+      "title": "速掘印記矩陣",
+      "border": true,
+      "text": "速掘印記與它的矩陣，以及它的使用方式"
+    },
+    {
+      "type": "text",
+      "flag": "mod:curios",
+      "text": "As you have the $(thing)Curios API$() installed, you can equip this $(item)Sigil$() as a charm. If you want to wear more curios at once, consider using a $(l:bloodmagic:alchemy_array/sigil/holding)Sigil of Holding$(), or the $(l:bloodmagic:alchemy_array/living_equipment/armor_upgrades/curios_sockets)Socketed Upgrade$() for your $(l:bloodmagic:alchemy_array/living_equipment/living_basics)Living Armour$()."
+    }
+  ]
+}

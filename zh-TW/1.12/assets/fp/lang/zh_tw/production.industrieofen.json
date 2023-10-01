@@ -1,0 +1,17 @@
+[
+  "這台先進的爐子是透過熔岩來驅動的，可以插入桶或者管道。它可以透過將熔岩冷卻成黑曜石這一大量的放熱過程來熔化物品，該爐子可以同時熔化3個物品！",
+  "合成:",
+  {
+    "link": "fp:lang/part/crafting_production.industrieofen.json"
+  },
+  "(GUI):",
+  {
+    "link": "fp:lang/part/industrialfurnace_production.industrieofen2.json"
+  },
+  "技術數據:",
+  "熔岩消耗: 每熔化一個物品消耗10mB",
+  "黑曜石的生產：每消耗1000mB熔岩產生1個黑曜石",
+  "速度: 400 Ticks 循環一次(20s)",
+  "",
+  "注意：也許我可以組合3個插槽的材料來創建合金或改進我的資源"
+]

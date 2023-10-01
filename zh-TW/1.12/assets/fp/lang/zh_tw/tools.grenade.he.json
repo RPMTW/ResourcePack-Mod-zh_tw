@@ -1,0 +1,22 @@
+[
+  "對於手雷，我開發了一個通用的基礎部件：一種金屬膠囊，非常適用於射擊。它還包括一個拉環，點燃影響並釋放其內容。",
+  "合成:",
+  {
+    "link": "fp:lang/part/crafting_tools.grenade.he.json"
+  },
+  "我的第一個簡單的手榴彈充滿了黑色的粉末，撞擊後引起相當大的傷害",
+  "我可以使用1-3等級的黑色粉末，讓我選擇爆炸威力。",
+  "無序合成:",
+  "強度1:",
+  {
+    "link": "fp:lang/part/crafting_tools.grenade.he2.json"
+  },
+  "強度2:",
+  {
+    "link": "fp:lang/part/crafting_tools.grenade.he3.json"
+  },
+  "強度3:",
+  {
+    "link": "fp:lang/part/crafting_tools.grenade.he4.json"
+  }
+]

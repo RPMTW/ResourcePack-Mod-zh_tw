@@ -1,20 +1,20 @@
 {
   "sortnum": 20,
-  "name": "伺服器資源包分發系統",
+  "name": "Server Pack Distribution",
   "icon": "minecraft:book",
   "category": "other",
   "pages": [
     {
       "type": "text",
-      "text": "女僕可以非常方便的通過資源包來加入額外的資源，就像替換材質、光影一樣簡單。$(br2)但是在伺服器這卻出現了問題，你的朋友必須要裝上和你相同的資源包，他才能看到和你相同的女僕資源。$(br2)服主也需要預先給每個玩家分發資源包，並告誡他們進服前安裝上，才可以看到額外的女僕模型。這是非常困難而又不方便的一件事。"
+      "text": "The maid can easily add additional resources through the resource pack, just as simple as replacing texture and shadow.$(br2)But there is a problem on the server. Your friend must install the same resource pack as you, so that he can see the same maid model as you."
     },
     {
       "type": "text",
-      "text": "現在你只需要在伺服器目錄下的 touhou-little-maid-server-pack 資料夾中放上女僕資源包，輸入 /tlm_server_pack reload 指令，那麼每個進服的玩家都會主動下載這個資料夾裡面的資源包，並且靜默的安裝。$(br2)我們還充分考慮到了伺服器的網路擁塞、玩家修改模型等問題。玩家進服後資源包是間斷下載的，並不會在一瞬間造成很大的流量"
+      "text": "The server owner also needs to distribute resource packs to each player in advance, and tell them to install it before entering the server, so that they can see the additional maid models. $(br2)This is a very difficult and inconvenient thing."
     },
     {
       "type": "text",
-      "text": "伺服器下載的資源包也會進行快取，避免浪費寶貴的頻寬。每次下載的資源包都會進行一次 CRC32 循環冗餘值校驗，這種校驗方式規避了某些玩家修改資源包的可能性。$(br2)而且伺服器靜默安裝的資源包並不會影響到其他操作，你仍舊可以在自己的客戶端安裝額外的資源包。在你退出伺服器進入單機存檔、亦或是其他伺服器時，這些靜默安裝的資源包也會主動卸載。"
+      "text": "Now you only need to put the maid resource pack in the touhou-little-maid-server-pack folder in the server directory, and enter the /tlm_server_pack reload command. $(br2)Then every player who enters the server will actively download the resources in this folder Package and install silently."
     },
     {
       "type": "text",

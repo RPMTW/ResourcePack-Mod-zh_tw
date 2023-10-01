@@ -1,0 +1,25 @@
+{
+  "name": "聖水",
+  "icon": "bloodmagic:holy_water_anointment",
+  "category": "bloodmagic:alchemy_table/anointments",
+  "pages": [
+    {
+      "type": "crafting_alchemy_table",
+      "heading": "聖水",
+      "recipe": "bloodmagic:alchemytable/holy_water_anointment",
+      "text": "暫時增加對不死生物造成的近戰傷害 +5。$(br2)有效物品：工具、劍。$(br2)適用：聖光 I（256 次命中）"
+    },
+    {
+      "type": "crafting_alchemy_table",
+      "heading": "聖水L",
+      "recipe": "bloodmagic:alchemytable/holy_water_anointment_l",
+      "text": "這個升級版的藥水膏持續時間延長了四倍。$(br2)適用：聖光 I(1024次命中)"
+    },
+    {
+      "type": "crafting_alchemy_table",
+      "heading": "聖水II",
+      "recipe": "bloodmagic:alchemytable/holy_water_anointment_2",
+      "text": "這個升級版的藥水膏會使對不死生物造成的近戰傷害 +10。$(br2)適用：聖光 II(256次命中)"
+    }
+  ]
+}

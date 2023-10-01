@@ -1,0 +1,18 @@
+[
+  "如果我不會用榴彈炮彈做任何事情，我想我會把它們填上種子。",
+  "用種子裝滿榴彈會將它們嵌入附近的一個區域裡，有效地種植它們。",
+  "我可以使用1-3等級的種子來選擇受影響地區的大小。",
+  "無序合成:",
+  "強度1:",
+  {
+    "link": "fp:lang/part/crafting_tools.grenade.saat.json"
+  },
+  "強度2:",
+  {
+    "link": "fp:lang/part/crafting_tools.grenade.saat2.json"
+  },
+  "強度3:",
+  {
+    "link": "fp:lang/part/crafting_tools.grenade.saat3.json"
+  }
+]

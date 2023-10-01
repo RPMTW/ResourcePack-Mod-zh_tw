@@ -1,5 +1,5 @@
 {
-  "name": "Nature's Scythe",
+  "name": "自然之鐮",
   "icon": "roots:spell_icon{spell_storage:{s:\"roots:spell_natures_scythe\"}}",
   "category": "spells",
   "read_by_default": true,
@@ -7,7 +7,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "$(warning) This spell will only function when modifiers targeting specific block types are enabled.$(br2)These nearby plants and natural objects are slowly broken as the spell is channeled.$(br2)Modifiers allow you to select which plants are broken, including grasses, mushrooms, leaves, and more."
+      "text": "$(warning)這個法術只有在啟用了針對特定方塊類型的修飾符時才會起作用。$(br2)這些附近的植物和自然物體會隨著法術的引導而慢慢被破壞。$(br2)修飾符允許您選擇哪些植物被破壞 ，包括草、蘑菇、樹葉等。"
     },
     {
       "type": "spell_template",

@@ -1,12 +1,12 @@
 {
-  "name": "Ratatouille",
+  "name": "蔬菜雜燴",
   "icon": "croptopia:ratatouille",
   "category": "croptopia:meals",
   "pages": [
     {
       "type": "patchouli:crafting",
       "recipe": "croptopia:shaped_ratatouille",
-      "text": "\"Ratatouille, what are we making today?\""
+      "text": "\"蔬菜雜燴，我們今天在做什麼？\""
     }
   ]
 }

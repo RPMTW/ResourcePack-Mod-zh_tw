@@ -1,0 +1,91 @@
+{
+  "name": "惡魔意志種類",
+  "icon": "bloodmagic:vengefulcrystal",
+  "category": "bloodmagic:demon_will/will_manipulation",
+  "extra_recipe_mappings": [
+    [
+      "bloodmagic:steadfastdemoncrystal",
+      2
+    ],
+    [
+      "bloodmagic:corrosivedemoncrystal",
+      2
+    ],
+    [
+      "bloodmagic:destructivedemoncrystal",
+      2
+    ],
+    [
+      "bloodmagic:vengefuldemoncrystal",
+      2
+    ],
+    [
+      "bloodmagic:steadfastcrystal",
+      2
+    ],
+    [
+      "bloodmagic:corrosivecrystal",
+      2
+    ],
+    [
+      "bloodmagic:destructivecrystal",
+      2
+    ],
+    [
+      "bloodmagic:vengefulcrystal",
+      2
+    ],
+    [
+      "bloodmagic:basemonstersoul_vengeful",
+      2
+    ],
+    [
+      "bloodmagic:basemonstersoul_corrosive",
+      2
+    ],
+    [
+      "bloodmagic:basemonstersoul_steadfast",
+      2
+    ],
+    [
+      "bloodmagic:basemonstersoul_destructive",
+      2
+    ]
+  ],
+  "pages": [
+    {
+      "type": "text",
+      "text": "將$(l:bloodmagic:demon_will/will_manipulation/demon_will)惡魔意志$()釋放到大氣中，絕對是一個絕妙的主意。事實證明，它不僅在增強$(item)儀式$()方面有用，而且您還成功地將其濃縮成一個$(l:bloodmagic:demon_will/will_manipulation/crystallized_will)意志晶簇$()，並且想知道下一步該將目光投向什麼。$(br2)對你來說，這些$(item)晶體$()感覺有點……矛盾。某種$(l:bloodmagic:rituals/ritual_list/ritual_crystal_split)儀式$()可能會幫助他們把它們變成更純粹的形式……"
+    },
+    {
+      "type": "image",
+      "images": [
+        "bloodmagic:images/entries/demon_will/will_splitting.png"
+      ],
+      "title": "意志的各個種類",
+      "border": true,
+      "text": "正在進行中的$(l:bloodmagic:rituals/ritual_list/ritual_crystal_split)結晶共鳴$()儀式。"
+    },
+    {
+      "type": "text",
+      "text": "現在我們有四種辛辣新口味的$(item)結晶意志！$(water)水符文$()有$(steadfast)堅毅意志$()，$(air)風符文$()有$(destructive)破壞意志$()，$(fire)火符文$()有$(vengeful)復仇意志$()，$(earth)土符文$()有$(corrosive)腐蝕意志$()。$(br2)這些不同類型的意志可以在$(item)惡魔坩堝$()中燃燒就像原生意志，在那裡可以被注入各種儀，以式達到偉大而迷人的效果。"
+    },
+    {
+      "type": "text",
+      "anchor": "sentient_aspects",
+      "text": "然而，它們也會改變你的感知工具的能力，使它們更強大。$(br)$(li)$(raw)原生意志$()：增加傷害和攻擊速度。$(corrosive)$(li)腐蝕意志$()：攻擊會有一定機率使敵人中毒或凋零，沒中時與$(raw)原生$()相同。$(vengeful)$(li)復仇意志$()：增加傷害，但不如$(raw)原生$()。比任何其他類型都更能提高攻擊速度。提供的移動速度增益，會隨著意志數量的增加而增加。"
+    },
+    {
+      "type": "text",
+      "text": "$(steadfast)$(li)堅毅意志$()：增加傷害（但不如$(raw)原生$()）並在擊殺後獲得吸收效果。$(destructive)$(li)破壞意志$()：比任何其他意志類型增加更多的傷害，但增加的攻擊速度比任何其他類型都慢。頂級仍然比未授予意志的工具/同等的鐵製工具快，但比任何其他類型的工具都要慢。"
+    },
+    {
+      "type": "text",
+      "text": "您可能想知道：“我到底如何將這份意志變成可用的形式？”嗯，答案很簡單。 只需將一塊空的$(l:bloodmagic:demon_will/will_manipulation/soul_gem)地獄魂石$()放入與$(item)惡魔坩堝$()相同chunk裡的$(l:bloodmagic:demon_will/will_manipulation/soul_forge)獄火熔爐$()中，然後用所需種類的意志晶體餵養惡魔坩堝。 你的$(l:bloodmagic:demon_will/will_manipulation/soul_gem)地獄魂石$()會充滿這種意志。 你可以通過按住[$(k:use)]來改變你的$(raw)感知工具$()使用的類型。"
+    },
+    {
+      "type": "text",
+      "text": "請注意，您的$(raw)感知工具$()將優先採用身上最大數量的$(raw)意志$()。如果你在一個$(l:bloodmagic:demon_will/will_manipulation/soul_gem)地獄魂石$()中攜帶10個$(corrosive)腐蝕意志$()，在另一個中攜帶1,000個$(raw)原生意志$()，那麼你的劍將保持為$(raw)原生$()。"
+    }
+  ]
+}
